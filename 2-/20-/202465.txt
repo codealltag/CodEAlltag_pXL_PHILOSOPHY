@@ -1,0 +1,13 @@
+Dade I, Nonidi de Prairial de l'Anne 205 de la Rövolution
+
+nospam.Aqwlzwo@HD-Rtdtuhr.r134.Fc (Tqsrra Udqbgng) writes:
+
+Das kopernikanische Modell macht einfach ungenaue und falsche
+Vorhersagen.
+
+Tschüss, Fabian.
+-- 
+#!/bin/sh
+for x in 5 178 562 115 475 218 629 708 602 118; do
+for y in 4 544 784 613 761 444 263; do xeyes -geometry 100x100+$x+$y &
+done; done

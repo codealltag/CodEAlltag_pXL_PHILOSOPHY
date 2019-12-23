@@ -1,0 +1,92 @@
+Urs Ziegelschmid wrote:
+
+Ist Berkely fuer die Physik in irgendeiner Weise heute noch relevant?
+Wer hatte ihm damals vor's Schienbein getreten, als er die Existenz von
+Kraeften ablehnte, ein weiser Mann, der das tat, wenn auch in den
+Ausdrucksformen etwas drastisch ;-)).
+
+
+Die ganze Debatte um den Kollaps der Wellenfunktion ist in der Tat
+ueberfluessig, weil es keinen gibt. Aber Deine Begruendung ist nicht
+korrekt. Die Quantenmechanik beschreibt prinzipiell ein System
+lueckenlos und raumzeitlich. Die Raumzeit wird sogar vorgegeben und
+daraus die groessten Teile der  Quantentheorie in ihrer konkret zur
+Anwendung kommenden Gestalt  (Galilei-Newton, oder
+Speziellrelativistisch Zeimens, bei der Quantengravitation klappt's
+(noch) nicht so ganz) abgeleitet. Quantentheorie ist mathematisch
+betrachtet zu einem sehr grossen Teil Darstellungstheorie der
+Raum-Zeit-Symmetriegruppe auf Strahlraeumen von Hilbertraeumen. Die
+Beschreibung ist lueckenlos, weil die Festlegung eines reinen Zustandes
+das System vollstaendig beschreibt. 
+
+Der Messprozess involviert allerdings ein makroskopisches System und
+stellt prinzipiell (aus dem Begriff der Messung heraus herzuleiten!)
+einen irreversiblen Vorgang dar. 
+
+Richtig insofern als die Anwendung der Quantentheorie auf tatsaechlich
+im Labor stattfindende Versuche voellig problemlos von der abgehobenen
+philosophischen Debatte um ihre Hintergruende ist. Diese ist jedoch
+nicht sinnlos, denn zum vollstaendigen Verstaendnis der QT gehoert nun
+einmal ein Verstaendnis der empirisch gegebenen klassischen Welt, die
+uns umgibt. Das ist nicht ganz einfach, aber imho vollstaendig geloest
+(Transporttheorie, Dekohaerenz usw., siehe Deja News). Allerdings ist
+das ein rein mathematisches und kein philosophisches Problem.
+Philosophie verwirrt in der Physik mehr als sie nuetzt.
+
+Ich habe mal wieder einen Anlauf unternommen, eine Geschichte der
+Quantentheorie fuer die FAQ zu schreiben und versucht Ernests
+"Umdeutungsartikel" zu verstehen. Es ist heute fast unmoeglich, weil er
+sich philosophischer Denkweisen bedient, die einem voellig fremd sind.
+Wenn ich als philosophischer Ignorant das richtig weiss, ist er stark
+vom sog. Positivismus (der lt. Zeimens eigentlich ein "Negativismus"
+war, weil er nur zu meckern und nichts konstruktives zur Loesung der
+Physikprobleme beitrug ;-)) beeinflusst. Er erzaehlt dauernd etwas von
+der Elimination von unbeobachtbaren Groessen (damit meint er die alte
+Quantentheorie a la Bohr, also die Bahnvorstellung fuer Elektronen im
+Atom, und damit hat er natuerlich auch aus heutiger Sicht recht), fuehrt
+aber selber immer neue wieder ein (seine Matrizen sind auch prinzipiell
+unbeobachtbar). Interessant ist, dass bei ihm ein klar definierter
+Zustandsbegriff noch fehlt. Die Unterscheidung zwischen Zustand und
+Operatoren von Observablen geht gehoerig durcheinander. So richtig klar
+ist mir die Denkweise erst durch Paulis Artikel ueber das
+Wasserstoffatom geworden. Auch dort fehlt eine Berechnung der Zustaende
+(das gesteht er explizit auch ein), aber die Grundlagen sind voellig
+klar und verstaendlich, weil er weitgehend auf philosophische
+Kabinettsstueckchen verzichtet und stattdessen in meisterhafter Weise
+(darstellungsunabhaengig!) das Wasserstoffproblem loest und (bereits die
+Stoerungsrechnung anwendend!) aeussere statische em. Felder behandelt.
+
+Das ist ein weites Feld. Sind Elementarteilchen nicht empirisch gegeben?
+Das ganze Standardmodell besteht aus Empirie, drueckt diese nur vermoege
+abstrakter Symmetrien aus (Eichtheorie als Paradigma des
+Standardmodells). Es kommen aber nicht Elementarteilchen und Felder
+hinzu, sondern Quantenfelder, die beide Begriffe in sich vereinigen. Es
+hat eine Begriffsreduktion in der QT stattgefunden. Es gibt nicht mehr
+Teilchen oder Wellen sondern vielmehr Quantenfelder, und wie die
+(halbwegs anstaendig) formuliert werden koennen, habe ich versucht in
+meinem Skript darzustellen (s. meine Homepage), das aber weit davon
+entfernt ist, fertig zu sein ;-)).
+
+
+Ich kenne nicht Hacking, aber Trattenegg ist nicht gerade mein Favorit.
+Sie verwechselt z.B. staendig Flavour- und Colour und erweist sich auch
+sonst im Formalismus des Standardmodells nicht besonders bewandert. Ich
+finde lediglich den Anhang ueber Dimensionsanalyse ganz interessant, was
+natuerlich durch eine wohlverstandene Renormierungstheorie untermauert
+gehoert. 
+
+Lies' lieber ein gutes QFT-Buch (Peskin-Anspach), und den Philosophen
+zur Warnung sei der "Erkenntnistheoretische Anhang" von Rulofs,
+Quantenmechanik (im uebrigen ein sehr gutes Lehrbuch der
+nichtrelativistischen Quantentheorie), empfohlen (oder die
+erkenntnistheoretischen Aufsaetze von Eckers). Bohr verbreitet im uebrigen
+in seinen philosophischen Werken auch nur Nebel, waehrend seine
+Physikaufsaetze meist recht klar geschrieben sind (als Kontrastprogramm
+sei Austermühl und Dirac empfohlen, Paper, die man mit geringen
+Ergaenzungen als Lehrbuch drucken koennte).
+
+-- 
+Edwin Jakobs		Phone:  ++70 73087 61-2955
+c/o GSI-Niederlauch SB 3.162	Fax:    ++46 55942 67-9016
+Tritremmelgasse. 8			mailto:a.iaspsbg@fcm.fh
+D-43637 Niederlauch		http://yhnwnb.mgq.ob/~emiuwex/tnmfsha.hjpa

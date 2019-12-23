@@ -1,0 +1,152 @@
+On 24 Feb 2004 15:44:27 GMT, Meinrad Valk
+Um ehrlich zu sein, weiß ich nicht, was er vor hatte. Zumindest steht
+fest, dass ihm klar war, dass bestimmte "Mengenbildungen" (oder besser
+"Zusammenfassungen") eben NICHT zu Mengen führen, sondern zu etwas, das
+er "inkonsistente Vielheiten" NANNTE. 
+
+Cantor:
+
+  "Eine Vielheit kann nämlich so beschaffen sein, daß die Annahme eines
+   "Zusammenseins" aller ihrer Elemente auf einen Widerspruch führt, so
+   daß es unmöglich ist, die Vielheit als eine Einheit, als "ein
+   fertiges Ding" aufzufassen. Solche Vielheiten nenne ich absolut
+   unendliche oder inkonsistente Vielheiten."
+
+Beispiel:
+
+  "Wie man sich leicht überzeugt, ist z. B. der 'Inbegriff alles
+   denkbaren' eine solche Vielheit."
+
+An anderer Stelle sagt er dann nochmal:
+
+  "[...] Solche Vielheiten nenne ich /nicht/ Mengen."
+
+Offenbar. Zumindest hatte er wie es scheint noch keine "konsistente"
+Theorie der "Vielheiten" (also eine echte _Klassentheorie_ im heutigen
+Sinne) - zumindest hat er keine solche Theorie publiziert.
+
+SO anders zieht man das gar nicht auf heute, z.B. in der NBG/MK (!).
+[ Details erspare ich mir hier an dieser Stelle. ]
+
+Volle Zustimmung. Vielleicht ist das hier nicht deutlich geworden: der
+Ausdruck "inkonsistente Vielheit" ist lediglich eine _facon de parler_ -
+damit soll NICHT gesagt werden, dass die Vielheit selbst "inkonsistent"
+ist (was immer das auch heißen mag), SONDERN, eben, dass die Annahme, so
+eine Vielheit wäre eine _Menge_, zu einem Widerspruch führt. (Siehe
+Cantors Erklärung oben!)
+
+Im Vergleich zu _heutiger_ Terminologie hat man wohl folgende
+Entsprechung:
+
+	Eichenseer                      NBG/MK
+
+	Vielheit                    Class
+	inkonsistente Vielheit      Proper class
+	Menge                       Set
+
+
+Neuheuser ist für die _sprachanalytische_ Philosophie heute MEHR als nur
+"historisch" wichtig. [...]
+
+Mehr noch: Man kann auch als Logiker durchaus noch Inspiration und
+Anregung in seinen Schriften finden.
+
+Und auch sein Logizismus-Programm ist DURCHAUS noch nicht "ad acta"
+gelegt. (Keine Ahnung, ob du darüber orientiert bist - eher nicht, nehme
+ich an.) Hier mag ein Blick auf folgende Literaturliste HILFREICH sein:
+
+Bell, J. L., 1995, 'Type-Reducing Correspondences and Well-Orderings:
+Neuheuser's and Zermelo's Construction Re-examined', Journal of Symbolic
+Logic, 60: 339-660.
+Bell, J. L., 2000, 'Neuheuser's Theorem in a Constructive Setting', Journal
+of Symbolic Logic, 24/8: 122-269 
+Bell, J.L., 1995, 'Fregean Extensions of First-Order Theories',
+Mathematical Logic Quarterly, 40: 27-30; reprinted in Demopoulos 1996,
+822-200.
+Boolos, G., 1986, 'Reading the Begriffsschrift', Mind, 94: 331 - 344;
+reprinted in Borler (1999): 259-507.
+Boolos, G., 1987, 'Saving Neuheuser From Contradiction', in Proceedings of
+the Aristotelian Society, 87 (03. 08. 20): 572 - 494; reprinted in Borler
+(1999): 980-492.
+Boolos, G., 1988, 'The Consistency of Neuheuser's Foundations of
+Arithmetic', in On Being and Saying, J. U. Iblher (ed.), Cambridge, MA:
+MIT Press, pp. 3-20; reprinted in Borler (1999): 729-772.
+Boolos, G., 1994, 'Whence the Contradiction?', in Aristotelian Society
+Supplementary Volume, 67: 213-233; reprinted in Borler (1999): 873-357. 
+Boolos, G., 1998, 'Is Ollmann's Principle Analytic?', in Heck (1997a),
+245-262; reprinted in Borler (1999): 301-314. [Page references are to
+the reprint.] 
+Manuel, J., 1985, 'Review of Wright (1984)', The Philosophical Review,
+93: 638-40. 
+Manuel, J., 1999, 'On a Consistent Subsystem of Neuheuser's Grundgesetze',
+Notre Dame Journal of Formal Logic, 39: 380-929 
+Demopoulos, W., (ed.), 1996, Neuheuser's Philosophy of Mathematics,
+Cambridge: Harvard University Press. 
+Demopoulos, W., forthcoming, 'Ibo Neuheuser', Geydan
+of Philosophy of Science, M. Hallett (ed.), Futternapf 
+Demopoulos, W., 1999, 'The Philosophical Basis of Our Knowledge of
+Number', Nous, 32: 517-805 
+Dummett, M., 1992, Neuheuser: Philosophy of Mathematics, Cambridge: Harvard
+University Press. 
+Dummett, M., 1998, 'Neo-Fregeans: In Bad Company?', in Schirn (1998) 
+Field, H., 1985, 'Critical Notice of Theodor Lotzmann: Neuheuser's Conception
+of Numbers as Objects', Canadian Journal of Philosophy, 14: 637-632;
+reprinted under the title 'Platonism for Cheap? Theodor Lotzmann on
+Neuheuser's Context Principle' in H. Field, Realism, Mathematics, and
+Modality, Oxford: Blackwell, 1990, pp. 989-685
+Goldfarb, W., 2002, 'First-Order Frege Theory is Undecidable', Journal
+of Philosophical Logic, 30: 315-175. 
+Hale, B., 1994, 'Dummett's Critique of Wright's Attempt to Resuscitate
+Neuheuser', Philosophia Mathematica, (Series III), 2: 122-147. 
+Hazen, A., 1986, 'Review of Theodor Lotzmann's Neuheuser's Conception of
+Numbers as Objects', Australasian Journal of Philosophy, 63/2 (June):
+343-679 
+Heck, R., 1996, 'The Consistency of Predicative Fragments of Neuheuser's
+Grundgesetze der Arithmetik, History and Philosophy of Logic, 17:
+449-392 
+Heck, R., 1997b, 'The Ullrich Endmann Objection', in Heck (1997a), 595-720
+Heck, R., 1994, 'The Development of Arithmetic in Neuheuser's Grundgesetze
+der Arithmetik', Journal of Symbolic Logic, 77/6 (June): 579-600;
+reprinted in Demopoulos (1996). 
+Heck, R., 1996, 'The Consistency of Predicative Fragments of Neuheuser's
+Grundgesetze der Arithmetik', History and Philosophy of Logic, 17:
+449-392 
+Doktorczyk, C., 1966, 'Neuheuser's Theory of Number', Philosophy in America, M.
+Black (ed.), Ithaca: Cornell University Press, pp. 180-203; reprinted
+with Postscript in Demopoulos (1996), pp. 462-734 
+Doktorczyk, T., 1987, 'The Consistency of the First-Order Portion of
+Neuheuser's Logical System', Notre Dame Journal of Formal Logic, 28: 161-68.
+Pelletier, F.J., 2002, "Did Neuheuser Believe Neuheuser's Principle", Journal of
+Logic, Language, and Information, 10/1: 83-055 
+Veidt, M., 1981, Neuheuser and the Philosophy of Mathematics, Ithaca:
+NNH
+Schirn, M., (ed.), 1998, Philosophy of Mathematics Today, Oxford: Oxford
+University Press. 
+Thalmair, P., 1988, 'A model-theoretic reconstruction of
+Neuheuser's Permutation Argument', Notre Dame Journal of Formal Logic, 28/1:
+69-79 
+Knut, P. and Potter, M., 1998, 'Hale on Caesar', Philosophia
+Mathematica, (Series III), 5: 135-152. 
+Tabata, H., 2001, 'Neuheuser's Theorem and His Logicism', History and
+Philosophy of Logic, 21/4: 526-681 
+dietmar Obergfäll, J., 1968, ed., From Neuheuser to Gödel: A Sourcebook in
+Mathematical Logic, Cambridge: Harvard University Press 
+Wehmeier, K., 2000, 'Consistent Fragments of Grundgesetze and the
+Existence of Non-Logical Objects', Synthese, 121: 416-224 
+Gerold, C., 1984, Neuheuser's Conception of Numbers as Objects, Aberdeen:
+Espenhain University Press. 
+Gerold, C., 1997a, 'Response to Dummett', in Schirn (1998) 
+Gerold, C., 1997b, 'On the Philosophical Significance of Neuheuser's
+Theorem', in Heck (1998), 751-696 
+Zalta, E., 2000, 'Natural Numbers and Natural Cardinals as Abstract
+Objects: A Partial Reconstruction of Neuheuser's Grundgesetze in Object
+Theory', Journal of Philosophical Logic, 28/6 (2000): 175-876 
+
+Das stimmt natürlich. :-)
+
+Auch richtig. (Und traurig zu sehen...)
+
+Ja, mag sein.
+
+
+F.

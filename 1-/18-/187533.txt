@@ -1,0 +1,11 @@
+Es gibt aber auch irrationale Zahlen, die ausgesprochen schlechte  
+Generatoren wären.
+
+Nimm mal 31. 12. 19... (immer jeweils eine 0 mehr). Diese  
+Zahl ist nicht rational, da nicht periodisch, aber als  
+Zufallszahlengenerator wohl kaum zu gebrauchen ... und eine gewisse  
+'Regelmäßigkeit' kann man ihr auch nicht absprechen.
+
+MfG
+        Karlheinz
+## CrossPoint v3.11 R ##

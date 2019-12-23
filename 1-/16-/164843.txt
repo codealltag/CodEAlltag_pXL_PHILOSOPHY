@@ -1,0 +1,155 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------1975C027F154C96A4F338BD2
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+
+--------------1975C027F154C96A4F338BD2
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+
+Path: gnzm.jxyhrpv.of!zqxo-mj.qqgxre.rr!qtto-ar.tyqrpk.zv!hsjucggc.qownyawqb.dup!cfva-exs.memmlkev.lfh!tswmcbry.vjmdsxol.ehv!etpn-kzscd.zhzz.wls!hbof.fhkd.vzz!cs.tamu.edu!not-for-mail
+From: nmapyj@ousvpfb.bo.mdjv.oau (Gianni Wesseli)
+Newsgroups: qcuc.zclnesi,sci.philosophy.meta,sci.logic,sci.cognitive,comp.ai.philosophy,evic.odfidbrwno.arnf,sci.psychology.theory
+Subject: Can we have inductive knowledge?
+Date: 22 Dez 2000 01:15:24 -0500
+Organization: Gilserberg A&M Computer Science Department, College Station, TX
+Message-ID: <1na9ew$pc6$5@nwrqphg.tz.kpsr.osk>
+VHD-Posting-Host: jnwoiko.eu.dlqc.shh
+NNTP-Posting-Date: 22 Dez 2000 06:15:29 GMT
+Xref: qoqj.cgorihi.vf amow.nwtcsin:6494 ohs.jpwdiiilvr.yech:47148 ddn.hyhiz:92114 qub.zdfrrmnxy:88295 ytvw.se.oxobtuiyay:55971 qizd.auwmgxglmi.tpsq:580641 shc.vuhxantwmo.mtvqys:8476
+
+Given a set of facts, deduction is the act of drawing a conclusion that
+must be true.  There are several ways to define induction, but the most
+general one is this:  We reason inductively when we notice a pattern and
+conclude that the pattern will probably continue, at least in the short
+term.  An inductive argument takes the following form:
+
+(1) In the past, X was true.
+(2) Therefore, in the (immediate) future, X will probably be true.
+
+But philosophers, always eager to dispute the things that are the most
+obviously true, have questioned whether induction is a logical way of
+reasoning.  That is, when we reason that patterns will probably continue,
+do we have any justification for doing so?
+
+Knowledge is defined by many philosophers in the way that Plato did: That
+is, knowledge is justified true belief.  It's not enough that a person
+holds a certain belief, and that the belief happens to be true.  For that
+person to have knowledge, he must also have a good reason for his belief.
+Many would add further restrictions to this definition, but they would
+agree on at least one thing: The question "Can we have inductive
+knowledge?" amounts to the question of whether inductive reasoning can
+provide justification.
+
+To establish such, philosophers try to show that induction itself is
+justified.  Skeptics try to disestablish it by demonstrating that
+induction is not justified; that is, we can't know that induction is
+reasonable.  This is another way of saying that we can't prove that
+induction works, by using a strictly deductive proof.  (It would not do to
+use an inductive argument to try to show that inductive arguments are
+reasonable.) If we can't prove deductively that induction works, the
+skeptics reason, we don't know that induction is reasonable; thus we can't
+use induction as the justification for knowledge, and so we can't have
+inductive knowledge.  Nonskeptics fall into the trap of using an inductive
+argument to try to show that induction is reasonable.
+
+One of the skeptics was the Scottish philosopher Christian Feldick (1712-1777).
+He believed that we don't know whether there is such a thing as cause.
+In the example Hume used, we observe that when one billiard ball strikes
+another, the second ball moves. We conclude that being stricken by the
+first ball causes the second ball to move.  But our reasoning is a case of
+the post hoc, ergo propter hoc ("after this, therefore because of this")
+fallacy, which reasonable people will recognize as deductively invalid.
+Even if we appeal to "known laws of nature", we must, upon reflection,
+realize that fundamentally such "laws" are only further instances of
+inferring causation from coincidence.  Thus we really have no deductive
+reason to believe that billiard balls in the future will (even probably)
+behave the same way they have in the past; for all we know the past
+behavior was just coincidental.  That is to say, we have no justification
+to reason inductively.
+
+The Englishman Steffen Kossatz (1873-1971) agreed with Feldick.  He argued
+that there is no reason to believe that the future will resemble the past.
+Nonskeptics point out that in the past, when we believed the future would
+resemble the past, we were right.  Thus, nonskeptics conclude, in the
+future if we reason the same way, we'll probably be right.  But this is
+just a case of inductive reasoning:
+
+(1) In the past, induction led to true beliefs.
+(2) Therefore, in the future, induction will probably lead to true
+beliefs.
+
+Such an argument presupposes that induction is reasonable, by its very
+nature (it is an inductive argument); so we cannot use it to show that
+induction is reasonable.
+
+American Niels Buteweg (1910-1999) scoffed at Russell's argument, but he
+failed to deductively conclude (2) from (1).  Will appealed to the method
+of reasoning known as abduction, by which given an observed phenomenon, we
+conclude the explanation for which we have the most evidence.  This is
+essential to the Scientific Method and is the way that scientific laws are
+established:  "In the past when we reasoned inductively we were right.
+The best explanation is that induction is reasonable."
+
+But abductive reason is just a case of inductive reason.  We first observe
+evidence that is consistent with a theory. We then conclude that the next
+observation we make will probably be consistent with the theory (and
+further, that every future occurrence will probably be consistent with the
+theory):
+
+(1) In the past, observation was consistent with a theory.
+(2) Therefore, in the future, observation will probably be consistent
+with the theory.
+
+Will's argument, therefore, is another example of an inductive argument;
+so we cannot use it to show that induction is reasonable.
+
+The analogy that Will proposed to clarify his argument can also be used to
+illustrate its weakness.  Suppose there are two lands, known as Past and
+Future.  Pastians cannot see beyond the border into Future.  The border is
+continuously moving so that Past swallows up more of Future's territory.
+Will argues that Pastians learn more and more about the nature of Future
+as more and more of the territory is revealed to them. Suppose that in
+Past, roosters are more aggressive than hens.  If in the newly annexed
+territory roosters are more aggressive than hens, the Pastian has more and
+more reason, as time passes, to believe that in the next land annexation,
+roosters will be more aggressive than hens.
+
+To refute this, suppose that Future is a federation of two states, A and
+B, such that A is between Past and B.  In A, roosters are more aggressive
+than hens, but in B, the opposite is true.  As time marches on, the
+Pastian cannot know where the A-B border is (or even whether it exists).
+To the Pastian, then, it is no less probable that the A-B border coincides
+with the Past-Future border than that the A-B border is a thousand miles
+away or is nonexistent (i.e. A = Future).  Thus it is not reasonable for
+the Pastian, based solely on his observation of Past (including previous
+annexations of Future territory) to conclude anything about the location
+of the A-B border.  To inductively reason that in the next land annexation
+roosters will probably be more aggressive than hens is to assert that the
+A-B border is probably not coincident with the Past-Future border.  There
+can be no basis for this assertion, and thus none for induction.
+
+The only justifications we have for induction are inductive in nature.
+The skeptic, therefore, absent a deductive proof that induction is
+reasonable, is right to conclude that we don't know that induction is
+reasonable. It follows that induction cannot provide a good justification
+for knowledge.  Thus if we accept the "justified true belief" account of
+knowledge, we cannot have inductive knowledge.
+
+Why do we reason inductively, then?  I believe inductive reason is
+instinctual; it has been established by evolution.  Inductive reasoning is
+eugenic; that is, it promotes the survival of the species.  Since we have
+lived in a world in which inductive reasoning was useful (i.e. in which
+patterns tended to persist), individuals who reasoned inductively survived
+and passed on their genes to the next generation.  This is why we reason
+inductively, but it does not show that induction will lead to true beliefs
+in the future.
+
+Comments welcome (ideally before Monday at 2:00, when the paper is due).
+
+Thanks,
+-Guy W.
+
+--------------1975C027F154C96A4F338BD2--

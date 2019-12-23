@@ -1,0 +1,11 @@
+Die Automaten aus der Automatentheorie können es nicht sein, denn sie
+arbeiten überhaupt nicht mit Signalen ;-) Und wie man ein Signal etwa
+"speichern" könnte, ist mir ein grosses Rätsel. Bisher war ich immer der
+Ansicht, wir speichern Information in Daten, und Signale sind gerade
+durch ihre Vergänglichkeit charakterisiert.
+
+Viele Grüsse,
+VB.
+-- 
+Wenn Du für eine Leistung nichts bezahlst,
+bist Du nicht der Kunde, sondern die Ware.

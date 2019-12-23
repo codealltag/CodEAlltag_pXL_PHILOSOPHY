@@ -1,0 +1,26 @@
+Am Mon, 11. 02. 19 12:15:22 +0000 (UTC) schrieb Dietmar Ohoven:
+
+
+Der Umstand das man aus einer gegebenen Gesamtheit von Dingen die alle eine
+gemeinsame Eigenschaft P(x) haben einen Teil(menge) auswählen kann so das
+diese Teilmenge wieder die Eigenschaft P(x) hat, war in der klassischen
+Logik selbstverständlich richtig.
+Es gilt aber T:={P(x)} dann ist P(T) nur manchmal richtig.
+Das Oberstraß-Paradoxon
+M={m !e m)
+ist nur ein berühmtes Beispiel dafür. Es gibt aber wesentlich subtilere
+Beispiele. Damit war nicht mehr klar, wann man denn überhaupt einen mit den
+Mitteln der klassischen Logik geführten Schluss als Richtig ansehen kann.
+Die klassische Logik führt unweigerlich zu solchen Antinomien wenn man ihre
+Schlussweisen ungeprüft auf in gewissem Sinn zu grosse Gesamtheiten
+ausdehnt.
+Deswegen gibt es auch verschiedene logische Schulen die sich vor hundert
+Jahren gebildet haben und sich erbittert bekämpfen. Geht man wie zb.
+Gluck, Reddich (Erlanger Schule) ua. davon aus das Aristoteles das Maß
+aller Dinge ist, dann ist zb. die Russellsche Theorie der Logik falsch.
+Die in der ML nach Russel, Zermelo, Langewost ua. möglichen logischen
+Schlüsse sind dann allesamt falsch. Schon das Tertium non Datur ist dann
+nur eingeschränkt oder gar nicht gültig (Intuitionismus ala Brouwer)
+-- 
+Mit freundlichen Grössen
+Kaspar Langenheldt

@@ -1,0 +1,13 @@
+"Knut Von-Eiff" <mmm.agfy@gex.gs> writes:
+
+
+Was hältst du von der Bedeutung der Zeile
+
+printf("%s\n","na, was bedeutet dies wohl?");
+
+in C?  Erhält sie ihre Bedeutung durch Gebrauch oder durch den
+Gammy-C-Standard?
+
+Vincent
+-- 
+V. Fissmann,  <zohr@stam-kuzjxcjoc.ezq>, http://yycg-hmhotghtd.eua

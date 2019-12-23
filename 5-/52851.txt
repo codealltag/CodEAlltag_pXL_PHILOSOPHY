@@ -1,0 +1,54 @@
+Kurz: Nein. Bitte lies Dich doch selber mal in die Theorie der
+dynamischen Systeme und der zugrundeliegenden Mathematik ein, das
+langweilt, dass Du hier ständig falsche Behauptungen aufstellst.
+
+Nur diskrete dynamische Systeme (manche nennen sie deshalb
+"deterministisch chaotisch") lassen sich vollständig rechnen (Beispiel:
+zelluläre Automaten), nicht jedoch nicht diskrete.
+
+Deshalb nimmt man üblicherweise ein diskretes dynamisches System um ein
+nicht diskretes zu simulieren, und gibt dann Wahrscheinlichkeiten an,
+mit denen die Simulation vom Modell abweicht.
+
+Den Schmetterlingseffekt gibt es aber in beiden Klassen von dynamischen
+Systemen, in den diskreten wie den nicht diskreten. Entsprechend muss
+auch ein diskretes dynamisches System vollständig simuliert werden,
+möchte man seinen Zustand in der Zukunft kennen - eine Vorhersage, wie
+es aussehen wird, ist mit keinem anderen Verfahren möglich, als ein
+zweites identisches System komplett zu rechnen.
+
+Entsprechend konvergiert im Allgemeinen ein diskretes dynamisches System
+eben nicht zum Zustand eines nicht diskreten, das damit simuliert wird.
+
+Und das ist auch dann so, wenn man einen Zustand ("Anfangszustand") des
+nicht diskreten dynamischen Systems zu einem Zeitpunkt vollständig
+kennt, man also alle "Randbedingungen" vollständig kennt (ich rede
+bisher sowieso nur über geschlossene Systeme, falls Du mit
+"Randbedingungen" offene Systeme meinst, da sowieso nicht).
+
+Sorry, mir geht die Lust aus.
+
+Wen sowas interessiert oder wer dran zweifelt, der soll sich doch
+einfach mal Systemtheorie und die entsprechende Mathematik reinziehen.
+
+Ich werde solche falschen Behauptungen in Zukunft einfach mit einem
+"Nein" belegen und nicht weiter argumentieren. Mathematik zu
+argumentieren ist doch doof - entweder es ist so oder eben nicht. Was
+will man da argumentieren?
+
+
+Nein, das ist nicht der Grund.
+
+
+Nein.
+
+
+Nein.
+
+
+Nein.
+
+Viele Grüsse,
+VB.
+-- 
+Bitte beachten Sie auch die Rückseite dieses Schreibens!

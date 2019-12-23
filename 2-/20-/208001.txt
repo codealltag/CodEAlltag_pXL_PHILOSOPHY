@@ -1,0 +1,69 @@
+Da es bei uns Probleme mit den News gab, wodurch offenbar ein
+paar Artikel auf nimmer Wiedersehen verschwunden waren (z.B. eine
+angekuendigte Reaktion von Lothar Ziegel), habe ich auch den Verdacht,
+dass meine Reaktion auf Dich moeglicherweise nie rausgegangen ist.
+
+Weil ich meine Antwort fuer wichtig hielt, wiederhole ich sie lieber,
+bevor sie nie gepostet wird.
+
+Gruss,
+Edo
+----------------------------------------------------------------------
+
+Article 2870 of de.sci.philosophie:
+Xref: infbssys og.uzo.malvorelpkv:7936 ur.mdw.vlpdptlokno:5381 mg.wvg.xqtgaszxweabgd.bmun:8997
+Newsgroups: de.sci.psychologie,de.sci.philosophie,de.soc.weltanschauung.misc
+Path: infbssys!patrice
+From: hdgo@bof.vu.tz-rk.yn (Edo Leimenkühler)
+Subject: Re: Big-Bang??? (war Geist-Materie)
+Message-ID: <HpY2zE.2iM@sja.jf.lj-zl.dd>
+Sender: idkp@qqo.bc.vw-ku.gm (News Software)
+Habekost-Posting-Host: dzioush2.jta.lj.bq-jb.fc
+Organization: Inst. f. Informatik, TU Wermerichshausen, Ruma
+References: <0kcdi2$n4p@cktben.mqsskjujax.qgx-tluxutn.aj> <0535Fsl3.716737.085@qkp8401z.k.pcsd.gk> <Pp42IX.Dwo@unf.ic.tf-mu.ho> <4nzn2s$5lh@ygvos24.hek.gbp-qwnjfov.kh>
+Date: Dallnigstraße, 31 Jul 1996 15:01:32 GMT
+
+In article <4nzn2s$5lh@ygvos24.hek.gbp-qwnjfov.kh>,
+Endlich mal jemand mit konstruktiver Kritik. Schoenen Dank.
+
+Oh - das ist ein Missverstaendnis. Vielleicht koenntest Du meine
+folgenden (hoffentlich klaerenden) Worte auch uebersetzen:
+
+Ein System, das nur die Geburt kennt und die "Geburt" zum Gegenstand
+der Betrachtung nimmt, kennt als GegenTEIL(!) der Geburt nur den Tod.
+Wenn ich die Vorderseite einer Muenze betrachte, dann gibt es als
+Gegenteil nur die Moeglichkeit der Rueckseite und nicht das Muenz=
+material oder das Innere der Muenze etc.. Ich wollte hiermit alleine
+die Moeglichkeit ausschliessen, dass es sich zu allen moeglichen
+anderen Dingen hin entwickelt, aber nicht zum Tod.
+
+Da es aber um Geburt ging, hielt ich es fuer notwendig, darauf
+hinzuweisen, dass es um das System geht, das aus {Geburt, Tod}
+besteht und aus nichts weiterem...
+
+
+Nein, das ist es nicht - ich hoffe, ich habe das klarstellen koennen.
+
+Aus (1) und (2) folgt, dass eine Veraenderung eintreten muss, wenn
+eine Geburt aufgetreten ist. Aus (3) folgt, dass diese Veraenderung
+der Tod sein muss.
+
+
+Voraussetzung (3) ist doch in Deiner Variante keine Voraussetzung mehr,
+sondern der zu beweisende Satz. Oder fehlt in (3) noch die Notwendigkeit?
+
+Die Folgerung aus (1) und (2) heisst doch:
+
+(\forall x, t) \box [ Geboren(x,t) => (\exists t')[ t \le t' &
+                                                     \neq Geboren(x,t') ]
+
+("\neq Geboren" soll bedeuten, dass es ein Zustand ist, der
+unterschiedlich ist zum Zustand "Geboren").
+
+Aus (3) haette folgen sollen, dass \neq Geboren(x,t') identisch mit
+Tod(x,t') ist.
+
+
+Gruss,
+
+Edo Leimenkühler

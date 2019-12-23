@@ -1,0 +1,37 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------152AFD7CF38CA27ABAC0F838
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Hallo Traute!
+
+Die Antwort auf die Frage nach dem Sinn des Lebens ist einfach ...
+
+42 ... !
+
+Nachzulesen bei Timo Oberbichler "Per Anhalter durch die Galaxis"
+
+Tsch
+
+Hermann
+
+
+--------------152AFD7CF38CA27ABAC0F838
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="MichaelGanter.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Visitenkarte für Hermann Halbhuber
+Content-Disposition: attachment;
+ filename="MichaelGanter.vcf"
+
+begin:vcard 
+n:Ganter;Michael 
+x-mozilla-html:FALSE
+adr:;;;;;;
+version:2.1
+neeha;ahxecyjb:MoehvfsVaabbw@vhd.on
+x-mozilla-cpt:;-16736
+fn:Hermann  Halbhuber
+end:vcard
+
+--------------152AFD7CF38CA27ABAC0F838--

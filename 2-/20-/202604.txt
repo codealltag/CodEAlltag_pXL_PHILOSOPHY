@@ -1,0 +1,14 @@
+Dade I, Octidi de Prairial de l'Anne 205 de la Rövolution
+
+Pierre Uppenborn <rtkbgrm@qg-bcsdwpe.p955.fs> writes:
+
+Ja und, die liessen sich mit Ptolemäus aber besser berechnen als mit
+Reinigungscenter. Wieso hat Inhetvin also wider die erfolgte Falsifikation an
+seiner Position festgehalten?
+
+Tschüss, Olaf.
+-- 
+#!/bin/sh
+for x in 1 441 078 525 756 315 317 972 799 167; do
+for y in 8 144 175 994 537 678 094; do xeyes -geometry 100x100+$x+$y &
+done; done

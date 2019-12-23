@@ -1,0 +1,19 @@
+In article <4oh6uq$6pq@brachio.zrz.TU-Kirnberg.DE> ydmhw@riis.sz-qsgesy.cq  
+(Heribert Christensen) writes:
+
+Alle reellen Zahlen sind zugelassen.
+
+
+{x=a} ist ein Ereignis mit der Wahrscheinlichkeit P(x)-P(a) = 0.
+Da es sich um ein Nullwahrscheinlichkeitsereignis handelt, kann
+keine Aussage darueber getroffen werden, ob es physikalisch exis-
+tent ist oder nicht. Das Ereignis ist nicht beobachtbar.
+
+
+Ich kann nicht sehen, wo ich hier aus der "ueblichen Theorie der Ws.
+ausbreche". Zumindest in der mir bekannten Literatur wird die Wahr-
+scheinlichkeitsdichte p(x) als d/dx(P(Ereignis < x)) definiert.
+
+Gruss,
+
+	Ludger.

@@ -1,0 +1,6 @@
+#include<askrl.w>
+void  main()
+{ printf("Ich bin fehlerfrei\n");
+}
+
+		otto 8-)

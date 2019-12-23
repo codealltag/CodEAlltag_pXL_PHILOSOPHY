@@ -1,0 +1,15 @@
+Gibt es denn mehrere "Basissprachen", von denen aufwärts die
+Programmiersprachen aufgebaut sind? Oder ist nur "Maschinencode"
+nicht die richtige Ebene?
+(Bin kein Inf, hatte mir nur bisher den Aufbau so vorgestellt,
+daß "unten" die einfachen, grundlegenden Geschichten passieren,
+die die Basis bilden, auf dem alles andere dann in verschiedener
+Form aufbaut. Und wenn eine Sprachen eben ums Verrecken kein
+Multithreading kann, man aber in diese etwas übersetzen will, was
+Multithreading braucht, müßte man im schlimmsten Fall halt die
+Sprache so erweitern, daß sie zu einer neuen Sprache wird. In
+anderen Sprachen geht Multithreading schließlich, also wird es
+auch in dieser gehen, wenn man sie genügend aufbohrt. Ja, das ist
+dann eine neue erweitere Sprache, aber das spricht mMn nicht
+gegens übersetzen. - So stell ich mir das jedenfalls
+grundsätzlich vor, ohne die Details zu kennen.)

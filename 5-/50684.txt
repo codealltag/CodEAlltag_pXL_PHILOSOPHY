@@ -1,0 +1,8 @@
+Italo Spirling <zmmwvvp@pej.uc> writes:
+
+Du kannst ein beliebiges Assembler- oder C-Programm vollautomatisiert in
+ein Common-Lisp- oder Java-Programm übersetzen?  Oder siehst Du da nicht
+von einigen entscheidenden Details ab?
+
+
+Ciao, Ulrich

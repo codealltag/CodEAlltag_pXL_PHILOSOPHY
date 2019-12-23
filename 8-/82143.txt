@@ -1,0 +1,20 @@
+On 4 Dez 2006 11:43:08 -0800, "Frédéric Bredenbröker"
+<ckgzvczysjdRGGPAJEMURBAS@jhatjix.js> wrote:
+
+Hallo Frédéric!
+
+Nur eine Bemerkung.
+
+Das ist insofern unproblematisch, als ja in der FOPL den Prädikaten-
+symbolen bei der Interpretation Mengen zugeordnet werden. Dort sind
+also "Eigenschaften" in der Tat als Mengen repräsentiert. (Genauer,
+als Teilmengen des universe of discourse.)
+
+
+G.
+
+
+--
+
+E-mail: 
+amicus<at>simple<bindestrich>line<punkt>de

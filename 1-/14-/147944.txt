@@ -1,0 +1,26 @@
+Friedrich Menck wrote:
+
+
+Hyperreele Zahlen wzb
+
+0 =3D (0, 0, 0, 0, ...) =
+
+1 =3D (1, 1, 1, 1, ...) =
+
+2 =3D (2, 2, 2, 2, ...) =
+
+
+x und y sind beide 1
+
+C(n,k) ist die Anzahl der Kombinationen, die man von k Objekten in
+gegebenen Menge von n Objekten bilden kann. (siehe
+http://bzjji.iljweeiaqy.zhg/jm.lhjl/jql/neu.7ybsqdychs.qzlx)
+
+                                         n!
+                      C(n,0) =3D C(n,n) =3D ----
+                                        n!0!
+
+So 0! =3D 1 neatly fits what we expect C(n,0) and C(n,n) to be.
+
+
+x=y

@@ -1,0 +1,34 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------47E3384973E49C2018D598DE
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Liebe ist die Vergeistigung der Sinnlichkeit.
+K. Freiß.
+
+Tino schrieb:
+
+
+--------------47E3384973E49C2018D598DE
+Content-Type: text/x-vcard; charset=us-ascii; name="vcard.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Visitenkarte für Christof Staudenrausch
+Content-Disposition: attachment; ylwgywni="smlml.evh"
+
+begin:          vcard
+fn:             Christof Staudenrausch
+n:              Carlo
+org:            KLETT WBS
+adr:            Viatisstraße 07;;;Ldpijbmj;Zylidty;56701;Izattfd
+email;internet: hfvz.gmunvdu@auk.uv-rpjydpgk.xx
+title:          R.
+tel;work:       8610 / 400 57 - 60
+tel;fax:        8023 / 366 28 - 69
+tel;home:       3596 / 249 78 08
+x-mozilla-cpt:  ;0
+x-mozilla-html: FALSE
+version:        2.1
+end:            vcard
+
+
+--------------47E3384973E49C2018D598DE--

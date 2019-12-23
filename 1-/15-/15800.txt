@@ -1,0 +1,21 @@
+Ich beziehe mich mit meinen Texten in diesem Thread auf den Text des OP.
+Ich habe ja darauf geantwortet.
+
+
+Eine Definition von formale Sprache hatte ich kürzlich hier ja
+angegeben (und oben steht sie in aller Kürze nochmal). Unter einer
+Algebra verstehe ich ein Tupel bestehend aus einer nichtleeren
+Trägermenge und einer Familie von Operationen. Unter einer Operation
+verstehe ich eine Funktion aus dem n-fachen Kreuzprodukt der Trägermenge
+mit sich selber in die Trägermenge.
+
+Unter einer formalen Logik verstehe ich eine formale Sprache, die
+ausschliesslich Variablen, Konstanten und Literale für Sachverhalte
+sowie Schlüsse bezeichnet. Unter einem Schluss verstehe ich eine
+Operation auf der Trägermenge dieser Bezeichner für Sachverhalte.
+
+Viele Grüsse,
+VB.
+-- 
+Wenn Du für eine Leistung nichts bezahlst,
+bist Du nicht der Kunde, sondern die Ware.

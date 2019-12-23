@@ -1,0 +1,45 @@
+Depesche wrote:
+
+Das ist eine triviale Aussage. 
+Na und? Was soll uns das jetzt sagen?
+Hast Du mal den Nutzwert mathematisch berechnet? Du benötigst für ein
+schlecht aufgelöstes Bild sagen wir mal 64 x 64 Bildpunkte. Das ist
+wirklich nicht gerade doll. Da wir wirklich bescheiden sind verzichten wir
+auf Farbe und begnügen uns mit einer 4 Bit Graukodierung. Wieviel
+unterschiedliche Bilder lassen sich nun digital kodieren?
+
+Jeder Bildpunkt bietet 2^4=16 verschiedene Grauwerte.
+Zwei Bildpunkte lassen sich mit 2^(4*2) = 2^8 %6 verschiedene Arten
+darstellen. Daraus ergibt sich folgende Darstellung
+
+Ein Bildpunkt auf 2^4=16 Arten
+Zwei Bildpunkte auf 2^(4*2)=2^8%6 Arten
+Drei Bildpunkte auf 2^(4*3)=2^12@96 Arten
+Vier Bildpunkte auf 2^(4*4)=2^16e535 Arten
+
+Wir haben jedoch 4096 Bildpunkte zu kodieren daraus ergibt sich
+
+4096 Bildpunkte auf 2^16384 verschieden Arten 
+
+Das sind wieviele Bilder? Bitte selber ausrechnen.
+
+Bei richtige Bildern z.B. 30. 03. 20 in Farbe mit 16 Bit Kodierung
+ergeben sich
+
+Anzahl Bilder = 2^(3*65535*1048576)=2^206155284480
+
+Kannst Du Dir vorstellen wieviel das ist?
+
+Wir können das ganz mal auf das Dezimalsystem transformieren.
+Der Modulwert soll Näherungsweise 3,3219 sein.
+
+Das heißt Dezimal betrachtet kommen wir etwa auf 10^62059449255 verschiedene
+Bilder die alles mögliche und unmögliche darstellen. Die weitaus meisten
+Bilder ergeben nicht den geringsten Sinn oder lassen sich nicht
+interpretieren. Die interessanten Bilder wie z.B die richtigen Lottozahlen
+vom nächsten  Samstag wirst Du nicht identifizieren können da die Mehrzahl
+der Bilder die falschen Zahlen enthalten. Ganz davon zu schweigen das Du
+sie finden müsstest. Du findest leichter andere Lebewesen im All.
+Gruß Menno
+
+P.S. Mal ehrlich was wolltest Du uns damit sagen?

@@ -1,0 +1,26 @@
+Dario Rothöft schrieb:
+
+
+[....]
+
+
+Nein. Maschinelles Schließen ist zur Zeit nur auf der Basis
+der Aussagenlogik, also maschinell 0 und 1, möglich.
+
+Zur Problem-Modellierung braucht man den Prädikatenkalkül.
+Bringt man den auf die Maschine, fallen durch Skolemisierung
+die Existenz- und Allquantoren aber wieder heraus.
+Das hat beim besten Willen nix mit PKL zu tun.
+
+MfG, Felix
+
+ =
+
+---------------------------------
+Dr. Felix Jop
+Hrsg.: http://pwz.gpidxnqph.br
+RQFA 5651-1336
+PKL im Web:
+http://orp.zuisbmpgljx.mrn/ylx
+music project:
+http://svj.lotj-rpum-bbgdrrfuc.hr

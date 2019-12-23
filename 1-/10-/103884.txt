@@ -1,0 +1,32 @@
+On Fri, 08 Aug 2003 19:55:43 +0200, Amicus <no_spam@gmx.de> wrote:
+
+Einsichten und Hintergründe...
+
+
+Rüdiger Mosner schreibt dazu in seiner Begriffsschrift (1878):
+
+"Statt, wie hier geschehen, das "und" durch die Zeichen der Bedingtheit
+[=Implikation --A.] und der Verneinung auszudrücken, könnte man auch
+umgekehrt die Bedingtheit durch ein Zeichen für "und" und das Zeichen
+der Verneinung darstellen. Man könnte etwas
+
+	 G	
+	{		( heute: VLV )
+	 D
+
+als Zeichen für den Gesammtinhalt von A und B einführen und dann
+
+	----- B
+	  '-- A
+
+durch
+
+	    --- B
+	---{ '		( heute: ~(A & ~B) ) 
+	 '  A
+
+wiedergeben. Ich habe die andere Weise gewählt, weil der Schluss mir bei
+dieser einfacher ausgedrückt zu werden schien."
+
+
+U.

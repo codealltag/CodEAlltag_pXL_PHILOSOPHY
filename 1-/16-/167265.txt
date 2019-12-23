@@ -1,0 +1,16 @@
+0/0 ist beileibe nicht 1 !!!
+
+0/0 ist nicht definiert!
+
+Das liegt daran, daß 0/0 entweder 1 oder -1 sein könnte jenachdem ob man
+sich der 0 von unten (also von den positiven Zahlen her) oder von unten (von
+den negativen Zahlen nähert)!
+Das sieht man ganz gut an der Funktion y=1/x...
+
+0/x^2 wäre im Grenzwert 1 ist aber so als unmittelbarer Funktionswert nicht
+definiert.
+
+1/0 ist ebenfalls aufgrund des Vorzeichens nicht definiert ... der Grenzwert
+könnte + oder - Unendlich sein! Immer vorsichtig mit der 0 umgehen!
+
+Abgesehen davon hat das ganze nichts mit dem Problem zu tuen... *g*

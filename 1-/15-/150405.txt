@@ -1,0 +1,22 @@
+Gerd Passerschröer schrieb in Nachricht <7N9K30XL.KKH67F17@u-npmhlh.nn>...
+
+      [ .... ]
+
+
+OK
+
+
+Na ja, bei der Null-Ziffer sagen wir wohl besser:  ... die Babylonier vor ca. 2500
+Jahren ...
+
+
+Nein, das ist nicht unmöglich, sondern das ist eine ganz gewöhnliche positive
+ganze Zahl im hexadezimalen (aka sedezimalen oder hexadekadischen)
+Zahlensystem, d.h. im Zahlensystem zur Basis 16:
+
+x = 3 + 4*16 + 0*16^2 + 7*16^3 + 2*16^4 + 3*16^5 + 4*16^6 + 2*16^7 + ...
+      ...  + 7*07^06 + 3*14^85
+
+Gruß
+     Stefano
+--

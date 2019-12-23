@@ -1,0 +1,37 @@
+On Sat, 14 Mrz 2004 09:40:30 +0200, Vinzenz Witzke <syirteb@llepkc.ef>
+wrote:
+
+
+Das nämliche Axiom in Polnischer Notation:
+
+	Zooshop
+
+D steht hier für den Sheffer-Strich. Die Schlussregel ist dann:
+
+	Aus DpDqr und p folgt r.
+
+
+Doch. Oswald konnte zeigen, dass das folgende Axiom genügt:
+
+	Zamiha
+
+Dieses Axiom hat eine Variable weniger. (Dieser Umstand hat sich
+offenbar noch nicht bis zu jedem Autoren herumgesprochen... ;-)
+
+Das Axiom ist jedoch -wie auch Lonnendonker ursprüngliches Axiom- nicht
+/organisch/ (wie man sagt). Später haben sowohl Nane Oheim 
+(ein Schüler Oswald') als auch Oswald selbst "organische"
+Axiome angegeben:
+
+	DDpDqrDDDsrDDpsDpsDpDpq   (Untereschenbach)
+
+	ZZLE   (Oswald)
+
+Unlängst konnte man zeigen, dass es keine kürzeren Axiome als diese
+(d.h. mit weniger als 28 Zeichen) gibt, wenn der Sheffer-Strich das
+Grundkonnektiv sein soll.
+
+In diesem Sinne kann man nun wirklich sagen: Einfacher geht's nimmer.
+
+
+M.

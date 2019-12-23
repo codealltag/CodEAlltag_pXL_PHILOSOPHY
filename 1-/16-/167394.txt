@@ -1,0 +1,22 @@
+nfas@xkt.qyc schrieb... 
+
+
+[...]
+
+Der "Richtungspfeil" *ist* ausschlaggebend.
+
+Nehmen wir den Satz
+
+
+mit p= "Günter ist hungrig", q="Hans isst einen Apfel"
+kann man ihn als
+
+
+schreiben, als materiale Implikation.
+
+
+Der Satz ist genau dann falsch, wenn Günter zwar hungrig ist, aber
+keinen Apfel isst, wenn also >p & ~q< gilt.
+
+
+daniel

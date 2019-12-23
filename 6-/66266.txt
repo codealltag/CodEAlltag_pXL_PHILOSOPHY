@@ -1,0 +1,133 @@
+Am Sun, 8 Jun 2008 00:34:36 +0200 schrieb Max Bügelsack:
+
+
+Nee, die Klammern <> stören wenn er das mit 40tude anklickt, das geht 
+http://ulgqyv.wqtxos.mb/diwru/pd.xih.dljscyjwqsf/fhboej_xndopl/whpgvc/3678lt275bxk04lc/90e1o545bv330mh6?fsl=tk&c;0ZBJ6P.A0S3X2O8%54rvq57.ayj.lp&ycil=3&mu=ms#90q9v651ng466hr4  
+
+
+Zitat: 
+
+Newsgroups: de.sci.philosophie, de.sci.mathematik
+Von: Max Bügelsack <letamj.govri...@gmv34.eqn.yk>
+Datum: Mon, 9 Sep 2002 14:05:30 +0200
+Lokal: Mo 9 Sep. 2002 14:05
+
+Betreff: Re: Ein anderer Denkfehler, aber wo? oder wie man durch Null 
+teillen, könnte, wenn man es denn dürfte....
+
+
+Max Bügelsack wrote: 
+
+
+Christophe Torringen schrieb mal: 
+---------------------- 
+
+
+Die Menge der quadratischen n,n-Matrizen mit Einträgen aus GF(2), 
+[Der Körper mit 2 Elementen: 0+0=0, 1+0=1, 0+1=1, 1+1=0, 
+0*0 = 0, 0*1 = 0, 1*0 = 0, 1*1=1 ] 
+
+
+Wir bilden hier also den Ring dieser Matrizen mit komponentenweiser 
+Addition und Zeilen-Spalten-Multiplikation. 
+
+Für n=1 ist dies identisch (isomorph) zu GF(2), sonst 
+wird es komplizierter. Bei n = 2 sieht es wie folgt aus: 
+
+1 = (1 0) 
+    (0 1) 
+
+0 = (0 0) 
+    (0 0) 
+
+   (a b) + (e f)  = (a+e  b+f) 
+   (c d)   (g h)    (c+g  d+h) 
+
+   (a b) * (e f)  = (a*e+b*g  a*f+b*h) 
+   (c d)   (g h)    (c*e+d*g  c*f+d*h) 
+
+
+Hiervon betrachten wir die Teilmenge der Matrizen, für die 
+gilt, dass jede Matrix in jeder Zeile genau eine 1 hat, und 
+bei je 2 Zeilen diese in unterschiedlichen Spalten ist 
+(Die restlichen Einträge sind dann 0). 
+
+Für n=2 sind dies die Matrizen 
+
+    (10)    und    (01) 
+    (01)           (10) 
+
+
+Dies ist für n=2 leicht zu sehen (weil A^T = A = A^(-1)), 
+man kann es bestimmt auch beweisen. 
+Für n=3 haben wir die Matrizen 
+
+  (100)    (100)    (010)    (010)    (001)    (001) 
+  (010)    (001)    (100)    (001)    (010)    (100) 
+  (001)    (010)    (001)    (100)    (100)    (010) 
+
+    1        A        B        C        D        E 
+
+mit ihren Transponierten (gespiegelt an der Hauptdiagonalen) 
+
+  (100)    (100)    (010)    (001)    (001)    (010) 
+  (010)    (001)    (100)    (100)    (010)    (001) 
+  (001)    (010)    (001)    (010)    (100)    (100) 
+
+    1        A        B        E        D        C 
+
+Wie Gilbert festgestellt hat, sind dies (auch außerhalb 
+von GF(2), also bei Matrizen über anderen Körpern) die 
+Permutationsmatrizen, also insbesondere alle 
+invertierbar (Einheiten). 
+Wir haben es also mit einer Teilmenge der Einheitengruppe 
+des Ringes der n,n-Matrizen (über einem beliebigen Ring/Körper) 
+zu tun, in unserem Fall erkennt man leicht (an der 
+Verkn�pfungstafel), dass es sogar eine Untergruppe ist. 
+
+Ausführen der Multiplikation ergibt: 
+
+ * | 1  A  B  C  D  E 
+---+------------------ 
+ 1 | 1  A  B  C  D  E 
+ A | A  1  C  B  E  D 
+ B | B  E  1  D  C  A 
+ C | C  D  A  E  B  1 
+ D | D  C  E  A  1  B 
+ E | E  B  D  1  A  C 
+
+Die selbe Gruppentafel ergibt sich übrigens mit der 
+Einheitengruppe der (2,2)-Matrizen über WKA) sowie 
+mit der Permutationsgruppe S_3 der ersten 3 natürlichen 
+Zahlen - deren Isomorphie mussten wir in einer RETT-Übung 
+zeigen. 
+
+Daran erkennt man auch, dass dies immer (für jedes n) eine 
+Gruppe ist - sie ist isomorph zu S_n (durch Zuordnung 
+Zeilennummer |--> (Spaltennummer der 1 in dieser Zeile)) 
+
+
+Soll deine 0 jetzt die 0-Matrix in K^(n,n) sein? 
+Diese ergibt bei Multiplikation mit einer beliebigen 
+Matrix immer die 0-Matrix (wie in jedem Ring). 
+Somit kann insbesondere nicht 0 * 0 = 1 sein. 
+
+
+Wenn du eine andere 0 meinst (oder einfach die Multiplikation mit 
+dieser 0 umdefinieren willst), solltest du dies bekanntgeben - 
+im ersten Fall ist es jedoch unsinnig, vom "Kehrwert der 0" 
+zu reden, im zweiten hat die 0 keine der 0-Eigenschaften 
+(Neutralität der Addition) mehr (bzw. passen Addition und 
+Multiplikation nicht zusammen). 
+
+----------------------- 
+
+soweit Christophe Torringen. 
+Was also nicht möglich ist, ist die Neutralität der Addition bzw. Addition 
+und Multiplikation passen nicht zusammen. 
+Ist aber die Addition im Bereich oo noch neutral? IMHO nicht, denn oo kann 
+ich nichts hinzuaddieren. Genausowenig kann ich von etwas unendlich Kleinem 
+noch irgendetwas abziehen. 
+
+Gruss 
+Max

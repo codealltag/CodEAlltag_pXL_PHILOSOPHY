@@ -1,0 +1,20 @@
+Etienne Röhrle <pzkas6gxaysir@ugtmrobacu.gfx> writes:
+
+???
+Auch folgender?
+
+random() {
+  return 0;
+}
+
+
+Warum? Externe Bibliotheken sind (nach K&R) kein Bestandteil von V.
+
+[...]
+
+Und das Speichern und Laden eines Wertes wird in C (im Sinne von Mohnen, also
+ohne den Aufruf externer Biobliotheken) nochmal wie erledigt?
+
+Viele Grüße
+
+Kay

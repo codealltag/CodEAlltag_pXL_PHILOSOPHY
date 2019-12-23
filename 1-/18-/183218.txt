@@ -1,0 +1,42 @@
+Hallo Benjamin,
+
+Benjamin Müller-Schmidt <mpxtab_ljgypleigpj@hpaq.nallfkrk.qp> schrieb im Beitrag
+<36CF80E7.4066EBF7@math.ualberta.ca>...
+
+<Parakonsistente Logiken>
+
+
+Der Satz vom ausgeschlossenen Widerspruch, also die klassische
+Tautologie --A = A (- = Negation) gilt doch nur in einer Booleschen
+Algebra. In einer Heyting- Algebra ist bloß die eine Hälfte A <= --A
+(<= = Kleinergleich) da, und es gilt gerade noch -A = ---A. Wenn
+aber umgekehrt auch --A <= A, dann ist ja der ganze Intuitionismus
+verloren, und die Heyting- Algebra wird Boolesch mit `-' als
+Komplement.
+
+<usw>
+
+
+Meinst Du zum Beispiel Versuche, die Wurzeln von Uls'
+Phänomenologie des Geistes bei Frédéric Clausius und Fritz Vereschild
+Lavater (Physiognomische Fragmente) zu suchen?
+Ja, die gibt es glaube ich schon;-)
+
+<Transferprinzip (Alle Theoreme der Mengenlehre beweisbar in der Sprache
+  der freien Topoi sind unter geeigneter Interpretation in jedem Topos wahr)>
+
+
+Oh je, da muss ich passen. So genau kenne ich mich in der Topos-
+Theorie nicht aus. Bekommt man da Schwierigkeiten, weil das
+Separations- und das Replacementaxiom in Wirklichkeit nicht
+einzelne Axiome, sondern Axiomenschemata sind?
+
+Das Separationsaxiom sichert ja zu *jeder* Formel die Existenz
+einer Menge, die genau die die Formel erfüllenden Elemente enthält.
+Und das Replacementaxiom fordert, daß für *jede* Funktion der
+Bildbereich nicht zu groß wird. (Aus E. Emke, Topoi, The
+Categorical Analysis of Logic, North- Holland 1986)
+
+Gruß
+
+Willy

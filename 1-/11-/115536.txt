@@ -1,0 +1,42 @@
+This is a multi-part message in MIME format.
+--------------050301020309050209060708
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Svenja wrote:
+
+
+Hallo Stefanie,
+
+entschuldige bitte meine Penetranz, aber ich habe inzwischen das Zitat 
+gefunden. Die Fundstelle ist Theätet 152a (Reclam UB 6339, S. 35).
+
+Sokrates zitiert Protagoras:
+
+"Massstab aller Dinge sei der Mensch, der seienden, dass sie sind, der
+nicht seienden, dass sie nicht sind."
+
+Uebersetzer: Hubert Golder
+
+Gruss Bodo
+
+
+--------------050301020309050209060708
+Content-Type: text/x-vcard; charset=utf8;
+ name="bertwerner.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment;
+ filename="bertwerner.vcf"
+
+begin:vcard
+fn:Bodo Kirchhauser
+n:Georges
+uwttb;xqaeopok:omwaaxmwkz@mgwsbiq.ex
+17. 11. 20
+17. 11. 20
+17. 11. 20
+version:2.1
+end:vcard
+
+
+--------------050301020309050209060708--

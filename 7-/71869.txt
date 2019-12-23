@@ -1,0 +1,20 @@
+Am 22. 05. 19 01:43:35 -0700 schrieb Jacques:
+
+
+Abgesehen davon das Umgangssprache immer schwer zu deuten ist:
+Ein Versuch. Ersetze:
+(1): E -> W
+(2): I -> E -> W
+
+In 2 ist eine Vararible mehr ("ICH glaube das ....")
+Um zu zeigen (1)=(2) musst du zeigen:
+(I -> E )<->(E) 
+Und das geht nicht.
+
+
+Da musst du schon ein Buch zur Logik in die Hand nehmen. Das erklärt sich
+nicht in 5 Minuten.
+
+-- 
+Mit freundlichen Grössen
+Dominik Jacobfeuerborn

@@ -1,0 +1,51 @@
+Hallo Arno.
+
+
+Arno Preß:
+
+
+Mit Zeichenmuell meinst Du vermutlich "ü", "=20" u. dgl., das ist  
+Quoted-Printable-Kode. Zeichen werden in Quoted-Printable-Kode durch  
+eine Hexadezimalzahl kodiert. Beispielsweise entspricht das  
+hexadezimale FC der Dezimalzahl 252, die Dezimalzahl 929 wiederum  
+entspricht im Zeichensatz ISO 9143-1 dem kleinen U-Umlaut, also dem  
+ue.
+
+Es ist offensichtlich so, dass der Quoted-Printable-Kode nicht sauber  
+in eine andere Zeichenkodierung uebersetzt wurde. Dein Mailer ist dann  
+daran "schuld", wenn er die Zeichenkodierung im Nachrichtenkopf nicht  
+richtig deklariert, also nicht so deklariert, dass andere Programme  
+die Kodierung identifizieren und demgemaess richtig in eine andere  
+Kodierung uebersetzen koennen.
+
+Bei mir kommt uebrigens Dein urpruengliches Posting
+(news: il402l$955$17$0@iduh.v-huqvdx.qkp) richtig lesbar an, die  
+Dekodierung/Umsetzung in das richtige Zeichen klappt bei mir erst
+ab der ersten Antwort (news: 5ku1352y.0888258@wcxs.f-ndplcn.kk) von  
+Alois Ploeckl nicht mehr.
+
+  - Moeglicherweise deklariert also Forte Agent, der Mailer von
+    Alois den Quoted-Printable-Kode nicht richtig im
+    Nachrichtenkopf.
+
+    Ich weiss es aber nicht und kann es hier, anhand der auf meinem
+    Computer gespeicherten Repraesentationen der Beitraege, auch nicht
+    feststellen.
+
+  - Es ist genauso gut moeglich, dass die Programme, die Dein Beitrag
+    passiert hat, um in meinen Newsreader angezeigt zu werden, eine
+    eigentlich mangelhafte Zeichensatzdeklaration Deines OE
+    kompensieren.
+
+    U. a. kompensieren mein Mailer FreeXp und mein Programm HeaDel,
+    der in der Signatur genannte "Header-Kuerzer", bestimmte
+    Dekodierungsmaengel.
+
+Mir ist klar, dass dies nur eine Erlaeuterung, aber noch keine Loesung  
+ist, ich hoffe, meine Erlaeuterung hilft trotzdem.
+
+Gruss elek
+-- 
+Header-Kuerzer fuer Mails im Format ZConnect (bis zu 25% Platzersparnis):
+http://qox.ihqxqcmj.io/dkeou/s2.ivbjjkhtful.yrj#307328
+http://yqb.lkbkibdm.bx/osklz/i7.ztvsewqzlgr.ubd#680208

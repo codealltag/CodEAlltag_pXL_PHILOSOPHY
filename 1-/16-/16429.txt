@@ -1,0 +1,25 @@
+Damit meine ich die Intension einer Menge von Wörtern (die
+zusammenhängend sind). Mit Menge meine ich den Term aus der ZFC, mit
+"Worter" meine ich Elemente aus streng formalen Kunstsprachen.
+
+Das können übrigens auch Sätze sein, oder einzelne Zeichen.
+
+
+Ich rede über formale Sprachen, wie sie in der Informatik üblich sind.
+Mit "Kunstsprache" versuche ich hier deutlich zu machen, dass wir es mit
+ebensolchen zu tun haben, wenn wir uns über formale Sprachen (in diesem
+Sinne) unterhalten.
+
+Unter einer formalen Sprache (in diesem Sinne) versteht man eine
+Teilmenge der Potenzmenge über einem Alphabet. Die Elemente einer
+formalen Sprache heissen Wörter, die Elemente eines Alphabets heissen
+Zeichen. Alphabete sind endliche Mengen, die streng totalgeordnet sind.
+
+
+Üblicherweise durch einen Code.
+
+Viele Grüsse,
+VB.
+-- 
+Wenn Du für eine Leistung nichts bezahlst,
+bist Du nicht der Kunde, sondern die Ware.

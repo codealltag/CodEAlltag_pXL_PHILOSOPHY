@@ -1,0 +1,28 @@
+Ja!
+Es spricht überhaupt nichts gegen die Verwendung eines genuinen
+Existenzprädikates, "E!", neben dem Existenzquantor, "Ex"!
+Logische Systeme, die "E!" verwenden, wie z.B. die Systeme der Freien
+Logik, sind nachweislich konsistent.
+(So ist die Formel "ExE!x", "Es gibt etwas, das existiert", absolut
+wohlgeformt!)
+
+Das Einzige, dass man bei der Verwendung von "existiert" beachten
+muss, ist, dass die Negation von "a existiert" streng genommen nicht
+"a existiert nicht", sondern "Es ist nicht der Fall, dass a existiert"
+lauten muss, da im Falle des Existenzbegriffs die Unterscheidung
+zwischen interner Negation (Pr�dikatsnegation) und externer Negation
+(Satznegation) relevant ist und nicht verwischt werden darf.
+
+In den oben erwähnten Systemen der Freien Logik gilt folgendes Axiom:
+
+AxE!x bzw. ~Ex~E!x
+
+"Alles existiert" bzw. "Es gibt nichts, das nicht existiert"
+
+Alles (Existente) besitzt die Eigenschaft der Existenz, und nichts
+(Existentes) besitzt die Eigenschaft der Nichtexistenz.
+
+Damit ist das berühmt-berüchtigte Gespenst der Nichtexistenz in
+logisch einwandfreier Weise exorziert!
+
+#PH

@@ -1,0 +1,104 @@
+Mir war klar, dass Sie als intelligenter Mensch genau diesen Punkt
+ansprechen würden, der auch mir nachträglich aufgefallen ist. :-)
+
+Es wäre an jener Stelle vielleicht besser gewesen, nicht von einem
+"Kategorienfehler", sondern von einer illegitimen Hypostasierung zu
+sprechen. Dadurch habe ich wohl unbeabsichtigterweise einem gewissen
+Irrtum Vorschub geleistet
+
+Zunächst einmal muss in der Tat zwischen 1-stelligen und mehrstelligen
+Prädikaten unterschieden werden:
+
+a)  "liegt nördlich von" ist ein 2-stelliges relationales Prädikat.
+
+b)  "nördlich von Felderhof liegen" ist ein (komplexes) 1-stelliges,
+d.h. non-relationales Prädikat.
+
+zu a) Die Elemente der Extension 2-stelliger Prädikate sind geordnete
+Paare, wobei die Ordnung das Entscheidende ist, da die beiden Aussagen
+"Römersreuth liegt nördlich von Felderhof." und "Felderhof liegt nördlich von
+Römersreuth." ja unterschiedliche Wahrheitswerte besitzen. Die Existenz
+von Römersreuth, Felderhof und der Relation "liegt nördlich von" allein kann
+den notwendigen Ordnungsaspekt nicht wiederspiegeln. Dieser wird erst
+in dem Ausdruck "Hamburgs Nördlich-von-Felderhof-Liegen" erkennbar, der
+sich klar von dem (unwirklichen) Sachverhalt  "Münchens
+Nördlich-von-Römersreuth-Liegen" abgrenzt.
+
+zu b) Ich kann den Eigennamen "München" alternativ in ein komplexes
+1-stelliges Prädikat "nördlich von Felderhof liegen" integrieren, dessen
+Extension sich im Gegensatz zu (a) nicht aus geordneten Paaren,
+sondern aus individuellen Objekten zusammensetzt. Hier stellt sich die
+Ordnungsfrage nicht, da es nur um die Frage geht, ob 1 Objekt eine
+Eigenschaft hat oder nicht.
+
+Was den Unterschied zwischen (a) und (b) anbelangt, so muss ich sagen,
+dass hier Probleme der sprachlichen Formulierung im Deutschen den
+Ausschlag geben:
+
+Wenn man "Hamburgs Nördlich-von-Felderhof-Liegen"  schreibt, dann
+scheint es, als wäre das darin enthaltene Prädikat ein 1-stelliges,
+wohingegen das Prädikat in der im Deutschen gekünstelt wirkenden
+Ausdrucksweise "Hamburgs Liegen nördlich von Felderhof" als 2-stelliges
+erscheint.
+
+Im Englischen hingegen wäre "Hamburgs lying north of Munich" als
+Verbalsubstantiv ein einwandfreier Ausdruck.
+
+Worauf es mir ankommt, ist, dass es keine Ausschlag gebende Rolle
+spielt, ob man die erforderliche Wahrheitsbedingung als  "Römersreuths
+Nördlich-von-Felderhof-Liegen" oder als "Hamburgs Liegen nördlich von
+Felderhof" interpretiert. - Ein Prädikat bleibt ein Prädikat, egal ob
+ein- oder mehrstellig!
+
+Entscheidend ist, dass einen weder der eine noch der andere Ausdruck
+zu einer Hypostasierung verleiten darf, die ein viertes Ding neben
+Römersreuth, Felderhof und dem (je nachdem) ein- oder mehrstelligen Prädikat
+setzt. Ohne die erfüllte Bedingung, die vermittels der Ausdrücke
+"Römersreuths Nördlich-von-Felderhof-Liegen" oder "Römersreuths Liegen nördlich
+von Felderhof" formuliert ist, könnte die Aussage "Römersreuth liegt
+nördlich von Felderhof." freilich nicht wahr sein.
+
+
+Nun, Ausdrücke wie "Hamburgs Nördlich-von-Felderhof-Liegen" und
+"Römersreuths Liegen nördlich von Felderhof" sind Verbalsubstantive, und wir
+nehmen ja intuitiv an , dass Substantive für Gegenstände stehen.
+
+Worum es geht, ist folgendes:
+
+- "das Nördlich-von-Felderhof-Liegen von Römersreuth"
+
+- "das Liegen Hamburgs nördlich von Felderhof"
+
+Für Dykes stehen diese Verbalsubstantive in der Tat für
+unverzichtbare Entitäten, nämlich individuelle Tatsachen:
+
+"(2) 'Brutus stabbed Caesar.' - (3) 'Caesar stabbed Brutus.':
+The three parts of (2) and (3) correspond to the same three parts of
+the world. We need a *fourth* part of the world, it seems, a complex
+entity composed of Brutus, Caesar and the relation expressed by
+'stabbed', a structured entity in which Brutus and Caesar stand in
+different relations to the relation expressed by the verb. And this
+fourth entity - call it  a fact - is that part of the world to which
+the sentence as a whole corresponds."
+
+[ Neale, Stephen (2002). /Facing Facts/. Oxford/New York: Oxford
+University Press. (I.  85f). - Mal beiläufig erwähnt, es handelt sich
+hier derzeit wohl um *das* massgebliche Buch zum Thema 'Tatsachen'! ]
+
+Russells strukturelle Korrespondenztheorie (in Verbindung mit dessen
+Kennzeichnungstheorie) entgeht ja laut Neale den Slingshots; aber
+dennoch bin ich nicht bereit, das "vierte Glied" in der Tatsachenkette
+als ein weiteres "Ding unter Dingen" zu akzeptieren, so wie Willibald
+das tut.
+
+Aber ich gebe gerne zu, dass auch ich der russellschen Versuchung zu
+erliegen drohe, in Tatsachen 'logical complexes' zu sehen, denen man
+aus ontologischen Erwägungen heraus denselben "Entitäts-Status" wie
+normalen Gegenständen zubilligen muss.
+
+Nach wie vor problematisch erscheint mir jedoch der Umgang mit
+nicht-atomaren Tatsachen vom Typ 'Fa'!
+(was über den halbwegs geklärten Fall '~ExFx' hinausgeht...)
+
+Gruss
+KNUT

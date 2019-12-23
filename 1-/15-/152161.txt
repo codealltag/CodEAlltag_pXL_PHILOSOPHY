@@ -1,0 +1,15 @@
+"Johann Papenmeier" <kacnul.isblnbek.nxnhdg@yib60.ipc.ad> schrieb im
+Newsbeitrag bldz:6Y160UXK.3ZO61H10@dmo61.ecb.sp...
+......
+
+Ja richtig, es muss lim_{x \to \infty} e^x = 0 heißen, also x gegen plus
+Unendlich.
+Das y = e^x ist immer > 0 Mit der Gleichung y = e^x wird also was gemacht,
+wobei Null rauskommt
+
+Ebenso wird mit den Zahlen 0.9, 0.99, 0.999, ..... (die alle kleiner als 1
+sind)
+was gemacht, wobei 1 rauskommt.
+
+Gruß
+Horst

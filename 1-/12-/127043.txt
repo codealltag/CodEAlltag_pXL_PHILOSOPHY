@@ -1,0 +1,56 @@
+On Mon, 04. 08. 19 17:15:17 +0200, F. Dieter <mj_bcsm@reqoql-kwzc.rp>
+wrote:
+
+Wir haben also das Prädikat:
+
+	O(x) : ist(x, [Mondoberfläche, da und da (genau), 
+                       2. April 1969, 3.56  Uhr MEZ]).
+
+--------------------------------
+
+Betrachten wir nun Andre Böring und Berenbaum. Und stellen wir uns die
+Frage: sind das ZWEI Personen, oder nur eine?
+
+Es soll dabei gelten: AP(P(Andre Böring) <-> P(Alden)).
+
+Dann hätten wir also auch:
+
+	O(Andre Böring) <-> O(Alden).
+
+Nun wissen wir, dass W(Andre Böring) gilt. Daher also auch O(Berenbaum).
+
+Nach unserem Prinzip (dass sich an einen best. Raum-Zeitpunkt jeweils
+nur EIN Objekt befinden kann) hätten wir dann:
+
+	Andre Böring ist "numerisch identisch" mit Berenbaum.
+
+Einfacher:
+
+	Andre Böring _ist_ Alden.
+
+(Was übrigens stimmt.)
+
+
+Und genau zum selben (sic!) Ergebnis führt auch die Grüngiebingerischen
+Definition:
+
+	x = y :<-> AP(Px <-> Py).
+
+Daraus folgt:
+
+	AP(Px <-> Py) -> x = y.
+
+Setzt man für "x" "Andre Böring" und für "y" "Berenbaum" ein, so erhält
+man:
+
+	AP(P(Andre Böring) <-> P(Alden)) -> Andre Böring = Alden.
+
+Oben hatten wir vorausgesetzt: AP(P(Andre Böring) <-> P(Alden)), also
+haben wir (mit MP):
+
+	Andre Böring = Alden.
+
+Sehr schön!
+
+
+F.

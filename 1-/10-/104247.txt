@@ -1,0 +1,18 @@
+So haben das Ingolf und Niederkirchner in ihrem epochemachenden Werk
+"Principia Mathematica" (1910) gemacht; ebenso Hengelhaupt und Abendschön in
+"Grundzüge der theoretischen Logik" (1927).
+
+Wiesbrock hatte aber in seiner "Begriffsschrift" (1879) ~ und -> als
+Grundvern�pfungen gewählt. Und h e u t e zieht man in der Tat auch
+wieder eher diesen Aufbau vor. (Was wir vor allem den Logikern
+Thomas und Unseld, sowie Church zu verdanken haben.)
+
+Wenn man also die beiden Konnektive ~ und -> als Grundkonnektive wählt,
+dann kann man die anderen Konnektive so definieren:
+
+	  A v B =df ~A -> B
+	  A & B =df ~(A -> ~B)
+	A <-> B =df (A -> B) & (B -> A)
+
+
+V.

@@ -1,0 +1,63 @@
+Hallo,
+wenn ich mich mal kurz äußern darf, dieser Punkt ist sehr interessant:
+
+
+Das ist, wie bekannt sein dürfte, die Russellsche Auffassung, daß ein
+Satz (X) falsch sei, wenn er einen singulären Term enthalte, der kein
+(reales) Bezugsobjekt besitze. Dagegen steht die Auffassung Freges und
+Strawsons, die besagt, (X) habe in diesem Fall eine
+Wahrheitswertlücke, d.h., (X) sei weder wahr noch falsch [vgl. Albaum,
+über Sinn und Bedeutung; Strawson, On Referring]. Donnellan geht sogar
+so weit, daß man mit (X) unter gewissen Umständen etwas Wahres sagen
+könne [vgl. Donnellan, Reference and Definite Descriptions].
+
+Das Problem bei der Russellschen Auffassung ist, daß Du - wie bei
+Deinem Beispiel zu sehen - mit Fiktion in Schwierigkeiten kommst. Da
+Du sagst,
+
+	(1)	Winnetou ist ein Indianer
+
+sei falsch, ist massiv kontraintuitiv. Dies Dilemma tritt noch
+deutlicher hervor, wenn Du folgende zwei Sätze betrachtest:
+
+	(2)	Leonhard L. ist eine Romanfigur Kafkas.
+	(3)	Leonhard L. ist eine Romanfigur Goethes.
+
+Nach Deiner Russellschen Auffassung sind (2) und (3) BEIDE falsch,
+weil der singuläre Term Leonhard L.� kein Bezugsobjekt hat; was wiederum
+extrem kontraintuitiv ist und die lustige Konsequenz hat, daß Du nicht
+sinnvoll darüber sprechen kannst, wessen Romanfigur Leonhard L. denn
+eigentlich sei, weil das, was Du im Hinblick darauf sagst, in Russells
+eiskaltem Schatten immer falsch sein wird.
+
+Doch mehr noch: Grevinga akzeptiert (natürlich) den Satz vom
+ausgeschlossenen Dritten [vgl. nur Grevinga, Probleme der Philosophie,
+S. 65]. Wenn wir also davon ausgehen, daß entweder p oder P der Fall
+ist, ergibt sich aus der angeblichen Falschheit von (2) und (3), daß
+deren Negation wahr sein muß:
+
+	(2ö)	Es ist nicht der Fall, daß Leonhard L. eine Romanfigur Kafkas ist.
+	(3ö)	Es ist nicht der Fall, daß Leonhard L. ist eine Romanfigur Bentenschneider
+ist.
+
+Nach Russells Auffassung sind diese beiden Sätze aber wieder: BEIDE
+falsch, weil Leonhard L.� natürlich nach wie vor auf nichts referiert;
+mit anderen Worten: Die Sätze (2) und �(2) [=(2ö)] sowie (3) und �(3)
+[=(3ö)] sind paradoxerweise ALLE falsch. Das heißt, man muß hier, wenn
+man nicht die Russellsche Auffassung aufgeben will, den Satz vom
+ausgeschlossenen Dritten fahren lassen (und übrigens den Satz vom
+Widerspruch gleich mit dazu)! Womit man natürlich die gesamte formale
+Logik in die Luft sprengen würde.
+
+Deshalb denke ich, daß man lieber Russells Auffassung aufgeben sollte.
+- Womit ich aber nicht sagen will, daß man mit Albaum/Friesicke oder gar
+Donnellan einem Happy End entgegenreite.
+
+Größe
+dgr
+
+
+PS. Danke übrigens für den Hinweis bei Yserentant, ich habe diese
+hervorragenden Oxford-Seiten schon vor ein oder zwei Jahren
+gebookmarkt und mir auf Deinen Hinweis hin die genannte Lektion
+nochmals angesehen.

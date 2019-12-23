@@ -1,0 +1,8 @@
+Du irrst wenn Du denkst, die libc sei etwa nicht Teil der Sprache C. Die
+Bibliotheken, die f2c benutzt, könnte man auch weglassen - dann wäre die
+Übersetzung allerdings ineffizienter zu implementieren.
+
+Viele Grüsse,
+VB.
+-- 
+Bitte beachten Sie auch die Rückseite dieses Schreibens!

@@ -1,0 +1,8 @@
+On 20. 11. 20 03:18:00 +0200, b.melchert@link-lev.de (Veit Neureiter)
+wrote:
+
+
+Sollten die Nullen und Einsen wirklich ein absolut zufälliges Input
+sein (was ich nicht glauben kann), kann man damit auch grössere
+"wirkliche" Zufallszahlen berechnen, ganz einfach, indem man die
+Einsen und Nullen hintereinanderh�ngt.

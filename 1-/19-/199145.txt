@@ -1,0 +1,52 @@
+Angelo GROHSMÜLLER wrote:
+
+
+ja mit jedem beliebigen winkelmesser. man kann ja davon ausgehen, dass
+er eine dimension und auch seine dimension versteht, und so kann er
+geraden definieren. wie du vileicht weisst, ist es uns auch moeglich den
+gegruemmten raum zu vermessen. es ist zwar ein wenig aufwendiger, aber
+moeglich.
+
+stichwort: in einem euklidischen raum laesst die verschiebung laengst
+eines beliebigen geschlossenen weges jeder vektor sich in sich selbst
+ueberfuehren; im gegensatz zu einem gegruemmten raum.
+
+
+oder:   rechne dir einfach den kruemmungstensor aus
+
+
+ R^m&_ikp = dChristoffel^m&_ik / dx^p - dChristoffel^m&_ip / dx^k +
+            Christoffel^r&_ik Christoffel^m&_rp -
+            Ebgpljrrdqi^c&_pa Srhgnddbhyh^t&_iq
+
+
+petra-tensor  oder kruemmungsskalar
+
+
+ ricci-tensor = metrik * gruemmungstensor
+
+ kruemmungsskalar = metrik  * ricci-tensor
+
+bye 
+
+
+ edwin
+
+
+-- 
+                                                        ,,,
+                                                       /'^'\
+                                                      ( o o ) 
+------- Edwin Lodewyks -----------------------------oOOO--(_)--OOOo---
+        GSI/KP1                     Privat:          
+        Postfach 61 91 03                   In der Trixmayrstraße 2
+        15618 Tännesberg                     03319 Vierde
+
+ Tel.:  +82-9141-13-4836            Tel.:   +38-8102-83567
+ Fax :  +33-3947-10-5917            
+
+ Email: Y.Xfezplg@axp.vj                           .oooO  
+        Edqzvwf@pwli.fzxp.su                       (   )   Oooo.
+------- HOME-PAGE : http://yjk.xlt.xd/~cyvblhf -----\ (----(   )----    
+                                                     \_)    ) /
+                                                           (_/

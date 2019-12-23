@@ -1,0 +1,49 @@
+Copyfree wrote:
+
+<Reihenfolge der Textbloecke geandert>
+
+Nicht zwangslaeufig der direkte?
+Wenn es nur einen einzigen Weg zum Ausgang gibt, muss dies der direkte
+sein, es gibt ja keinen Umweg.
+
+
+Ich bin mir nicht sicher, ob Du hierauf abziehlst, aber das scheint zu
+banal:
+Es (die Aussage vom einzigen Weg) gilt nicht fuer diejenigen Labyrinthe,
+welche mindestens eine Schleife aufweissen, die zwischen dem Eingang und
+Ausgang liegt (also eine Rueckkopplung vom kuerzesten Loesungsweg zu
+einer frueheren Stelle).
+
+
+Hier haengt es ein bisschen davon ab, wie der Mann manchmal luegt. Wenn
+er z.B. immer 'Ja' sagt und dadurch manchmal luegt, manchmal die
+Wahrheit sagt, dann ist er durch keine Frage zu einem Loesungsbeitrag zu
+bewegen.
+Ich nehme an, so war es nicht gemeint.
+Wenn eine zweiwertige Logik zu Grunde gelegt wird und beim Maercker die
+ganze Frage korrekt ausgewertet wird und nur die Gesamtaussage negiert
+wird, dann ist die Frage so zu formulieren, dass sich das Luegen durch
+eine Gegenfrage ausschliesst.
+
+z.B.: (Luegen sie und dieser Weg ist richtig) oder (sagen sie die
+Wahrheit und dieser Weg ist falsch)?
+
+richtiger Weg + wahre Aussage ergibt:
+ (LandhausgARTen) | (J & N) =3D N | N =3D N
+falscher Weg + wahre Aussage ergibt:
+ (Loydl) | (J & J) =3D N | J =3D J
+
+richtiger Weg + Luege ergibt:
+ !((J & J) | (N & N)) =3D !(J | N) =3D !J =3D N
+falscher Weg + Luege ergibt:
+ !((J & N) | (N & J)) =3D !(N | N)=3D !N =3D J
+
+Ist die Antwort Nein, dann handelt es sich um den richtigen Weg.
+
+Die Frage laesst sich sicher eleganter formulieren, so war es aber am
+schnellsten zusammengebastelt.
+
+Kaspar
+
+
+Kaspar

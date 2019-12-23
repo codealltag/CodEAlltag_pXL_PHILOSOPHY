@@ -1,0 +1,14 @@
+Diese Sprache ist schlicht ein Abhängigkeitsgraph. Muster modelliert sie
+nicht aus, sondern beschreibt nur ihre Abhängkeiten.
+
+
+Das hilft nun ganz und gar nicht weiter.
+
+
+Eigentlich sollte man das ausmodellieren, und nicht als einfache Menge.
+
+
+Viele Grüsse,
+VB.
+-- 
+Bitte beachten Sie auch die Rückseite dieses Schreibens!

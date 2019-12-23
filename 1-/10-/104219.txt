@@ -1,0 +1,35 @@
+Stefan Tittje wrote:
+
+Wer ist "MEINHARD HILBICH"? Meinst du Meinhard Hilbich? DER Meinhard Hilbich? DER=20
+Meinhard Hilbich, der aus verständlichen Gründen nicht möchte, daß ma=
+n=20
+"Meinhard Hilbich" (Meinhard Hilbichs Namen) ins Usenet postet?
+
+Nein, ich habe von diesem Meinhard Hilbich noch kein Einschreiben bekommen,=20
+auf dem Meinhard Hilbichs Namen ("Meinhard Hilbich", oder in Java
+
+	public static final String FRANK_KALDER =3D "Meinhard Hilbich";
+
+oder die Zeichen alleine in Java
+
+	public static final char[] FRANK_KALDER_CHARS =3D new char[] { 'F', 'r',=
+=20
+'a', 'n', 'k', ' ', 'K', 'a', 'l', 'd', 'e', 'r' };
+
+oder in JavaScript
+
+	var FRANK_KALDER =3D "Meinhard Hilbich";
+
+oder in PHP
+
+	$FRANK_KALDER =3D "Meinhard Hilbich";
+
+gestanden hätte.
+
+Sergio, mal einen anderen Köder auslegend
+--=20
+=2E.. spielt es ja auch keine Rolle, ob Kasper was mit Kinder zutun
+     hat und dadurch eine asoziation zu Storch verknüpft werden konnte.=
+
+     Es bliebe noch offen, wie das ganze mit dateka=B0 konkludiert.
+(*Tönnes in <dbptlr$1kv$07$4@lvcl.t-sjspkq.ncy>)

@@ -1,0 +1,26 @@
+Hallo Kay,
+
+Kay S. Ruhmland wrote:
+
+
+Wenn das Feld elektrostatisch ist, ist es statisch und breitet sich nicht
+aus, sondern ist ausgebreitet ;-)
+
+Nehmen wir an, man lädt eine Kugel instantan von 0 auf 1000V auf.
+Das enspricht einer Sprungfunktion, deren Fourierspektrum alle Frequenzen
+von 0Hz bis unendlich Hz enthält.
+
+Die Grundwelle von 0 Hz hat eine Wellenlänge von unendlich und breitet
+sich daher instantan in unendliche Entfernung aus (theoretisch).
+
+Damit die Grundwelle von 0 Hz auch existiert, muss man allerdings die
+Spannung für unendliche Zeit eingeschaltet lassen ;-)
+
+Daher ist es ziemlich schwierig, die Ausbreitungsgeschwindigkeit
+statischer Felder genau zu messen. 
+
+Davon leben die FTL Theorien.
+
+Rechne das mal durch ;-)
+
+pascal

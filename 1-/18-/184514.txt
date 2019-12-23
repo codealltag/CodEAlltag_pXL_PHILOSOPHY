@@ -1,0 +1,39 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------6741B30C8244C4B2F41C4B07
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Hello world!
+Durch Zufall bin ich vor etwa 2 Jahren auf die DESIDERTA gestossen. Von
+Natur her eher partygeil und schnellebig kann ich mir meine Faszination
+dafuer nicht direkt erklaeren. Kennt sonst noch jemand den Text und kann
+mir dazu irgendwas sagen, zum Beispiel ob es auch noch andere gibt, die
+diesen Text als Grundlage fuer das moderne Leben nehmen oder sogar eine
+Gemeinde mit diesem Grundsatz?
+
+Fuer alle, die den Text nicht kennen, sich aber dafuer interessieren:
+Unter http://kmm.2043.jdx/niqddabsmlphj/teg_b/ejknzfqdwu.sgcr
+steht er (zum Beispiel)
+
+
+Gruesse JOCHEN
+
+
+mailto: PJlj@sct.jsj
+--------------6741B30C8244C4B2F41C4B07
+Content-Type: text/x-vcard; charset=us-ascii; name="vcard.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Visitenkarte für Jochen Fahl
+Content-Disposition: attachment; vmjpazdk="fsnmp.bzr"
+
+begin:          vcard
+fn:             Jochen Fahl
+n:              Clemens
+email;internet: PJlj@sct.jsj
+x-mozilla-cpt:  ;0
+x-mozilla-html: FALSE
+version:        2.1
+end:            vcard
+
+
+--------------6741B30C8244C4B2F41C4B07--

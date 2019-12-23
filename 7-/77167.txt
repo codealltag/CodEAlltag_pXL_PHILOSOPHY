@@ -1,0 +1,6 @@
+Achja... und das mit der Wichtung der Eigenschaften:
+Was man dabei berücksichtigen muss, sind mMn:
+- die Häufigkeit des Auftretens dieser Eigenschaft bei Objekten dieser 
+Klasse (je häufiger, desto wichtiger)
+- Die Häufigkeit des Vorkommens dieser Eigenschaft bei anderen Objekten (je 
+häufiger, desto weniger wichtig)

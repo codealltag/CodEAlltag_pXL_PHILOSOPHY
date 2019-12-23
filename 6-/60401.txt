@@ -1,0 +1,2 @@
+while read color; do memory color; done &
+if someone remembers color; then stink &; done &

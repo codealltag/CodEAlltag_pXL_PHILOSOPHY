@@ -1,0 +1,14 @@
+On 21 Sep 1999 19:38:03 +0100, Fridolin Hundsdörfer <xwofgjqs@smlhp.gkec-anxclg.ft> 
+wrote:
+
+[...]
+
+Nun, ich bin kein Mathematiker, aber ich würde vermutlich auf die unendliche
+Reihe für den atan(1) zurückgreifen, ihre Püchitz bis zu einem n bestimmen
+und jede weitere Stelle für n+1 numerisch beschreiben.
+
+F.
+
+
+-- 
+-------------------------- Franco Fitschen ---- ysm@knsmettwr.udqkcsr.kf ---------

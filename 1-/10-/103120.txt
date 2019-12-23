@@ -1,0 +1,11 @@
+Thomas Zeb wrote:
+
+Klarstellung: Der Graph einer Funktion hat mathematisch-logisch nichts
+mit Geometrie oder irgendwelchen Skalierungen zu tun; er ist bzgl.
+F:A->B nur die Menge
+
+  {<a,F(a)>|a\in A}.
+
+
+Gruß, Vincenzo.
+--

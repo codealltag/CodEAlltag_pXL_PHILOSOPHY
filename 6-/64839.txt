@@ -1,0 +1,15 @@
+"Susi L." <ba@mhkuusy.ipe> writes:
+
+Schlecht heisst nicht unbedingt, dass die Milche einen Stich hat,
+sondern es reicht auch Arsen und derartiges
+
+
+Ciao, Tobias
+-- 
+<sascha> Lemme make sure I'm not wasting time here... bcwhite will remove
+      pkgs that havent been fixed that have outstanding bugs of severity
+      "important".  True or false?
+<JHM> sascha: "important" or higher.  True.
+<sascha> Then we're about to lose ftp.debian.org and dpkg :)
+* netgod will miss dpkg -- it was occasionally useful
+<Joey> We still have rpm....

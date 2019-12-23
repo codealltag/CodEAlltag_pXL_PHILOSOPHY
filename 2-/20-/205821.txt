@@ -1,0 +1,26 @@
+gwaf@jfov-zd.dl (Maurizio Süssmeir) writes:
+
+
+Ja, das sieht man intuitiv, aber kannst Du das auch belegen?  Du
+darfst nicht den Begriff der Wahrheit _innerhalb_ einer Sprache auf
+sich selbst anwenden, sonst erzeugst Du Antinomien.  Also:
+
+(3) Der Satz (2) ist dann und nur dann wahr, wenn der Satz (1) dann
+    und nur dann wahr ist, wenn ich Schach spielen kann.
+
+Quizfrage: wann ist Satz (3) wahr?  Die Intuition sagt: immer.  Und
+Tarskis Kalkuel?
+
+
+Ich persoenlich wuerde mich davor scheuen, dem Satz (2) einen
+Wahrheitswert zukommen zu lassen.  Salvatore hat das auch nicht getan.
+Er nannte es eine _Definition_ der Wahrheit.  Das habe ich dank diesem
+Thread eingesehen, und meine anfaenglichen Probleme sind beseitigt.
+
+
+Gruss, Wolfram
+-- 
+Wolfram Preusse                          I'm generally having a good time.
+                   			                And what about you?
+Signal Processing Laboratory, ETHZ.
+http://nat.lzw.ib.qslu.up/~xhkibq/                            Have one too.

@@ -1,0 +1,19 @@
+Faktoreigasse, 12. 09. 20 19:55:05 +0200 schrieb Michel Fenkohl:
+
+
+a(n) wobei a eine x-beliege Entität ist und n eine x-beliebige Funktion. 
+
+Beispiel:
+
+Orlando gehört zur Entität Mensch.
+Michel gehört zur Entität Mensch.
+a = Mensch.
+a(Orlando,Michel) = a(1,1) = a(2) = a(A,M) = a(M) = a(n) 
+
+
+In dem Moment ist Orlando und Michel als Zahlbegriff der Zählung der  
+Menschen verwandt worden. Genauso könnte ich natürlich die Menschen mit 
+gleichem Namen zählen, dann wird die Entität halt komplexer.
+
+Grüße,
+Orlando

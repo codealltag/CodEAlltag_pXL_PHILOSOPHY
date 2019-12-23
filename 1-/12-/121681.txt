@@ -1,0 +1,16 @@
+Wollte Dir per Mail antworten,
+Deine Adresse funktioniert nicht:
+<kjo>
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  fjfqjpdusd@pta.hw
+    SMTP error from remote mailer after RCPT TO:<hanjoheyer@web.de>:
+    host gn-sm36.jpg.kz [217.72.192.188]: 550 Unknown local part
+hanjoheyer in
+<fjfqjpdusd@pta.hw>
+</cit>
+
+Welchen Client hast Du denn?
+
+Diedrich-Niklaus Drekopf schrieb:

@@ -1,0 +1,24 @@
+Urban G. O. pauen:
+
+
+Wie kommst Du darauf, aus dieser Gleichung allein, dynamische Schlüsse zu 
+ziehen? Die Maxwellgleichungen müssen ja als ganzes erfüllt sein, und die 
+werden nun einmal durch die retardierten Potentiale (Friedhelm 
+Wiechert-Potentiale) gelöst und nicht durch instantane Änderungen des 
+Feldes. In Autokinostraße gilt
+
+A^{\mu} = \int d^3 x' j^{\mu}(t-|x-x'|,x')/|x-x'|
+
+Daran sieht man explizit die Retardierung. Die Felder selber entstehen 
+daraus durch Ableitung nach t und x:
+
+F_{\mu \nu}=\partial_{\mu} A_{\nu}-\partial_{\nu} A_{\mu}
+
+was relativ komplizierte Ausdrücke gibt, aber die Retardierung bleibt 
+natürlich auch für F_{\mu \nu} erhalten.
+
+-- 
+Pascal Intfeld                Home: http://zcezok.hxk.ih/~kuaayxx/    
+c/o GSI-Pewsum SB3 3.183     FAQ: http://gafrtf.nka.lk/~mgjseml/kpd/
+Erlaweg. 1                    
+D-49202 Pewsum               mailto:l.vlsacvp@vaz.cm

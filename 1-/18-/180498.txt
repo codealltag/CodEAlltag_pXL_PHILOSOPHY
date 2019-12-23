@@ -1,0 +1,27 @@
+Walter Zellmer <n4159460@lxfok8.yyk.vqg-oxpat.li> schrieb:
+
+[snip]
+
+
+Tut mir leid, aber dieser Beweis ist Thomas!
+
+Der Gödelsche Vollständigkeitssatz bezieht sich auch (endliche)
+Axiomensystem erster Stufe. Dazu gehört PA aber gerade nicht! Wegen
+Ind braucht man entweder 2 Stufe (Für alle Prädikate P und alle n :
+Wenn P(0) gilt und aus P(n) folgt, daß P(n+1), dann gilt für alle n:
+P(n)) oder eine rekursive Aufzählung eben dieses Schemas für jedes
+Prädikat.
+
+Mit Ind wird aber PA zu einer unvollständigen Theorie von (N,+,*,0),
+wie Gödel mit seinem berühmten *Un*vollst�ndigkeitssatz gezeigt
+hat. Nichtsdestotrotz wissen wir seit Dedekind (Dedekindscher
+Rekursionssatz), daß zwei Modelle die PA erfüllen zu einenader
+isomorph sind, dazu reicht auch bereits die Definition der
+Nachfolgerfunktion + Ind.
+
+MfG
+Tim
+-- 
+Tim Jungnischke
+        keep things simple. as simple as possible, but no simpler
+	        (A.Einstein)

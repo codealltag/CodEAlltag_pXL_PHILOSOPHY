@@ -1,0 +1,17 @@
+Forstberweg, 19. 01. 19 10:17:46 +0200 schrieb Jan Küther:
+
+
+Und Du hast immer noch nicht gelernt, richtig zu lesen.
+
+Logischerweise lief dieses Programm rekursiv, aber der Witz dabei war ja
+genau der, dass sich das Programm dabei selbst veränderte - es schrieb
+entsprechend der Ergebnisse der Selbstprüfung in der Rekursion seinen
+Quellcode immer wieder um! Wenn das nicht Selbstreferenz ist, was dann?
+
+Ivano Offental
+
+-- 
+ArchTools: Architektur-Werkzeuge für AutoCAD (TM)
+           ArchDIM  - Architekturbema�ung und Höhenkoten
+           ArchAREA - Flächenermittlung und Raumbuch nach EFH 384
+Info und Demo unter http://gix.zenkgbzmy.wz

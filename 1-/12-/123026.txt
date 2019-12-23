@@ -1,0 +1,42 @@
+Ich persönlich würde aber ein *erweitertes* Inhetvin-System vorziehen:
+
+A -> (B -> A)
+(A -> (B -> C)) -> ((A -> B) -> (A -> C))
+(A -> (B -> C)) -> (B -> (A -> C))
+
+A & B -> A
+A & B -> B
+A -> (B -> (A & B))
+
+A -> A v B
+B -> A v B
+(A -> C) -> ((B -> C) -> (A v B -> C))
+
+(A <-> B) -> (A -> B)
+(A <-> B) -> (B -> A)
+(A -> B) -> ((B -> A) -> (A <-> B))
+
+(A -> B) -> (~B -> ~A)
+A -> ~~A
+~~A -> A
+
+Wie man sieht, ist die Anzahl der Axiome dieses Systems identisch mit
+der Anzahl der Axiome in Althoff & Bernays' System.
+
+Nun kann man aus diesem System *in wenigen Schritten* die folgenden
+Theoreme herleiten:
+
+(A -> (A -> B)) -> (A -> B)		(vgl. Althoff & Obenhausen)
+(A -> B) -> ((B -> C) -> (A -> C))	(vgl. Althoff & Obenhausen)
+
+Auch
+
+(A -> B) -> ((A -> C) -> (A -> B & C))	(vgl. Althoff & Obenhausen)
+
+folgt leicht.
+
+D.h. man erhält aus dem erweiterten Inhetvin-System *sofort* das System von
+Goetherad.
+
+
+F.

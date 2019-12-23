@@ -1,0 +1,25 @@
+Danke für den Hinweis!
+
+
+Klar. Noch einmal: ich rede ausschliesslich für streng formale
+Kunstsprachen.
+
+
+Das ist eben nicht so.
+
+Informationstechnische Systeme werden ja /benutzt/. Und sie werden zu
+einem Zweck benutzt, der Benutzer hat ja eine /Intention/. Und diese
+(und nicht nur die Intention des Konstrukteurs) bestimmt wesentlich auch
+die Intension der übertragenen Nachrichten.
+
+Es gibt ja nicht nur Fälle wie den Bankautomaten, bei dem die Intension
+der Nachrichten im Wesentlichen vom Konstrukteur festgelegt ist, sondern
+es gibt z.B. E-Mail-Programme, die formal gerade mal eine Textkodierung
+übertragen, und die Intension der übertragenen Texte liegt völlig beim
+Nutzer, sondern es gibt auch noch allerhand dazwischen.
+
+Viele Grüsse,
+VB.
+-- 
+Wenn Du für eine Leistung nichts bezahlst,
+bist Du nicht der Kunde, sondern die Ware.

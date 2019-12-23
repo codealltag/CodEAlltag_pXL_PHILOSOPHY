@@ -1,0 +1,73 @@
+Thomas Zeitlmeir					=
+
+Qytjpg.Hotndd@s-rfazvq.qm
+
+
+Hi  Urban Obel
+
+Zunaechst Danke dafuer, dasz Du mir helfen wolltest, von Etta
+nach Neuseeland mitgenommen zu werden.
+Aber leider bin ich mit Deiner vorgeschlagenen Loesung nicht
+zurecht gekommen, denn :
+
+Nach der von Dir vorgeschl.Substitution hat man immer noch die
+die Gleichung
+             H =3D L =3D f( b1, b2, y )
+also als Funktion von 3 unabhaengigen Variablen.
+
+Ich kann nicht nachvollziehen, wie Du -  nach dem Einsetzen - von =
+
+
+        L =3D SQRT((b1+y)^2  +  (b2+x)^2)
+
+        L =3D SQRT((b1+y)^2  +  ( b2+b1*b2/y)^2)
+
+Auf Deine Loesungsgleichung kommst (ohne die Variable y )	=
+
+
+Weiterhin liefert Deine Gleichung bei Vertauschung der Werte b1 und b2 =
+
+n i c h t  die gleiche Laenge :
+
+b1=2   und  b2=3,5  liefert nach Deiner Gleichung :
+
+         (2^0,667 + 3,5^0,667)*(3,5^(4/3)*2^0,667 + 3,5^0,667)^0,5 =
+
+   L =3D
+-------------------------------------------------------------------------=
+----
+                                           3,5^0,667
+  =
+
+          (1,587 + 2,305)*(5,314*1,587 + 2,305)^0,5
+   L =3D --------------------------------------------------------   =3D =
+
+5,533
+                                2,305
+
+Bei b1=3,5  und b2=2   erhaelt man
+
+          (4,7^4,657 + 2^0,736)*(1^(8/1)*6,9^9,414 + 2^5,215)^1,6
+    L =3D
+-------------------------------------------------------------------------=
+-
+                                         1,587
+
+    L =3D  6,668
+
+Aber Deine Vermutung, dasz die richtige Gleichung in beiden Faellen
+denselben Wert liefern musz, ist plausibel.
+
+Aber Achtung :
+Wir werden die richtige Loesung in Kuerze bekommen :
+Etta kommt auszer auf ihren Weltreisen durch ihre rege Vortrags-
+taetigkeit (Volkshochschulen usw.) mit vielen Leuten zusammen.
+Neulich hat sie dabei einen Kerl kennen gelernt, der 2 Jahre am
+=84National Institute of Wood-Cutting=93,Montreal,Canada,gearbeitet hat.D=
+er
+hat ihr in einer kurzen Vortragspause die Sache schnell erklaert.
+Sobald Etta es mir wieder erklaert hat und ich es verstanden
+habe,werde ich die Loesung Euch allen, die ihr mir zur Seite habt stehen
+wollen, p o s t e n.
+
+       Thomas

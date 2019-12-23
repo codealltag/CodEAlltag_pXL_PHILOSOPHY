@@ -1,0 +1,15 @@
+njfvqvdk@w-lnmfvi.he (Wilfried Wiskirchen) writes:
+
+
+Das sind die Zeichenketten zwischen "<" bzw ">", mit denen in html die
+Markierungen (es ist ja eine markup language) geschrieben
+werden. Schau Dir einfach mal eine html-Datei ohne Browser (also mit
+einem simplen Editor) an.
+
+Im Netscape (benutzt Du ja offensichtlich) kann man sich das auch
+unter ``View''->``page source'' anschauen. Ich weiß leider nicht, wie die
+entsprechenden Menüpunkte auf Deutsch heißen.
+
+Auf jeden Fall ist Html im Usenet (also hier) höchst unbeliebt.
+-- 
+roman kawe

@@ -1,0 +1,7 @@
+Wenn eine Identitätsaussage vom Typ "a =3D b" wahr ist, dann heisst das,
+dass die beiden singulären Termini "a" und "b" als zwei Bezeichnungen
+ein und desselben Gegenstandes in extensionalen Kontexten ausgetauscht
+werden können, ohne dass sich dadurch der Wahrheitswert der
+betreffenden Aussagen ändert.
+
+#PH

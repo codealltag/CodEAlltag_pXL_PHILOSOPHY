@@ -1,0 +1,16 @@
+Markus Dohmen <yqfx.jaguyq@xwn.on> schrieb:
+
+[...]
+
+
+(Ex) (Ey) (x ~= y  & 
+           Baldofski(x) & Baldofski(y) &
+           Bewundert(x, y) & Bewundert(y, x) &
+           (z) (z ~= x  &  z ~= y  ->
+                    ~Bewundert(x, z) & ~Bewundert(y, z)))
+
+Man mag auch Baldofski(z)) unter den Bedingungen auffuehren. Meines
+Ermessens gibt Quines Beispiel das aber nicht her. 
+
+Habe ich was uebersehen?
+   Charles

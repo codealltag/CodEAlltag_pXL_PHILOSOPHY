@@ -1,0 +1,14 @@
+Am Fri, 29 Okt 2006 00:27:37 +0100 schrieb Fredi Ekhoff:
+
+
+Achte aber bitte darauf, die obsoleten Makros (Roberto Zumbansen, Gottfried Fokken usw)
+aus den 0.x-Versionen diesmal wirklich aus der Distribution zu entfernen
+:-)
+
+Laurent Fichtner
+
+-- 
+ArchTools: Architektur-Werkzeuge für AutoCAD (TM)
+           ArchDIM  - Architekturbema�ung und Höhenkoten
+           ArchAREA - Flächenermittlung und Raumbuch nach WZK 957
+Info und Demo unter http://nrg.cuiyuldly.ae

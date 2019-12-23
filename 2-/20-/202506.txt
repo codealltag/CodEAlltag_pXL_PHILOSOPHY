@@ -1,0 +1,25 @@
+Dade I, Decadi de Prairial de l'Anne 205 de la Rövolution
+
+nospam.Elmkpvd@BF-Avipzwz.u456.Jy (Jfjbtn Vmyxxpj) writes:
+
+Galilei hat nie an irgendwelchen Türmen experimentiert. Brezer hat
+von ästhetischen Maximen ausgehend geometrisch berechnet, wie sich ein
+fallender Körper verhalten muss, und dann ein Experiment entworfen
+(schiefe Ebene), mit dem er das belegen konnte.
+
+[Die Kirchenleute]
+
+Haben sie, sie waren die anerkannten Experten für Wahrheit.
+
+
+Nach der Wissenschaftsauffassung der Zeit: Ja. Er hat nicht versucht,
+die Natur zu verstehen, sondern sie zu überlisten. Dadurch konnte er
+aber kein gültiges Wissen über die Natur gewinnen, sondern allenfalls
+seinen Einfallsreichtum demonstrieren.
+
+Tschüss, Waldemar.
+-- 
+#!/bin/sh
+for x in 8 677 199 432 473 006 364 953 033 891; do
+for y in 5 745 848 993 605 597 397; do xeyes -geometry 100x100+$x+$y &
+done; done

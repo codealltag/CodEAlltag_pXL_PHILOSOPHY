@@ -1,0 +1,8 @@
+WM schrieb:
+Stimmt. Jedes Pfadb=FCndel enthält nach deiner Definition
+überabzählbar unendlich viele Pfade.
+
+Nein, die einzelnen Pfade sind keine Pfadb=FCndel. Denn die Pfadb=FCndel
+werden definiert durch n Ja-Nein Entscheidungen, während zur
+Definition eines einzelnen Pfades unendlich viele Ja-Nein
+Entscheidungen nötig sind.

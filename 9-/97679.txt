@@ -1,0 +1,5 @@
+Hallo,
+ich möchte fragen, ob ein übergeordnetes Merkmal einer Entität eine
+Konstante sein kann, z. B. wenn wir annnehmen, daß eine DECKENDE MATERIE
+viele Formen annehmen kann, wie z.B. FARBE, BUTTER, TAPETTE usw., dann ist
+DECKENDE MATERIE eine Konstante, eine Variable, oder etwas dazwischen?

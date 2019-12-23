@@ -1,0 +1,23 @@
+[Diese leidigen Flüchtigkeitsfehler... :-(]
+
+Korrigierte Version:
+
+E!x -> [Fx <-> ~((~F)x ]
+
+Es gilt übrigens auch Folgendes:
+
+E!x -> [~(Fx) <-> (~F)x ]
+
+Beispiel:
+
+Wenn Oscar existiert, genau dann, wenn es nicht der Fall ist, dass
+Oscar eine Frau ist, dann ist Oscar keine Frau.
+
+
+Korrigierte Version:
+
+~E!x -> [~(Fx) <-> ~((~F)x]
+
+
+Gruss
+OTTO

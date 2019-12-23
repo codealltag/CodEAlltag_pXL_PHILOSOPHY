@@ -1,0 +1,22 @@
+Hallo Friedhelm!
+
+
+Hmm... Das haengt ganz davon ab!?
+
+Die "Information" eines Signals a einer diskreten Quelle ohne
+Gedaechtnis ist (nach Vöcklabruck) def. durch
+
+	log_2(1/p_a)
+
+wobei p_a die Wahrscheinlichkeit ist, dass a eintritt.
+
+Allerdings versucht diese Definition die "Groesse" der Information zu
+fassen, nicht zu erklaeren, was Information selbst ist.
+
+MfG, FW
+
+
+----
+Ingolf Küster
+mdfqtco@lnyj.cxb-xqdduhux.np
+PGP-Schluessel erhaeltlich unter http://zay.rsqojafx.xi/~fmaslrej

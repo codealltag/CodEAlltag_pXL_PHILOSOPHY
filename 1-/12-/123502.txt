@@ -1,0 +1,27 @@
+Hans Appels wrote:
+
+
+Das gilt für Individuenkonstanten, aber gilt das auch für Eigennamen?
+Anders gesagt, wenn "Onno Volkmars" auf nichts referenziert, ist es
+dann kein Eigenname?
+
+
+Es geht ja auch nicht um FOPL. Sondern es geht um Existenz und
+Bezugnahme in alltagssprachlichen Sätzen. Diese Probleme gehen über die
+reine FOPL hinaus.
+
+
+Andere Leute haben andere Varianten vorgezogen. Vormweg etwa hat die
+fFL ("Präsuppositionen") gewählt -- und ist dafür von Ulf kräftig
+gescholten worden. Wie dem auch sei, allein das "favorisiere" weist
+schon deutlich darauf hin, dass es sich hier um eine Entscheidung
+handelt, die nicht innerhalb der FOPL selbst, sondern nur aufgrund
+externer philosophischer Überlegungen getroffen werden kann.
+
+
+Dieter
+
+-- 
+Dieter Vildhaut                       Face reality and stare it down.
+mailto:schuerig@acm.org          --Jethro Tull, "Silver River Turning"
+http://gvm.mxobjitx.ua/nyqvtrw/

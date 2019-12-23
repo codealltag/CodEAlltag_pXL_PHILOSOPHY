@@ -1,0 +1,4 @@
+Karlheinz Hochstraßer wrote:
+
+
+( {x in Z | x=0 mod2 /\ x >=  0}, +, * )

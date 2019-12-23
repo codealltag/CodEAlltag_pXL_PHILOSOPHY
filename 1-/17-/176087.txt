@@ -1,0 +1,13 @@
+Ubbo-Volker wrote:
+
+Korrektur:
+Logisch läßt sich nicht schließen, daß eine Sparkasse
+keine Sitzgelegenheit sei.
+
+Die Bänke sind eine Teilmenge aus der Menge der Sitzgelegenheiten.
+Eine Sparkasse ist nicht Element der Bänke. Sie kann dann immer
+noch Element der Sitzgelegenheiten sein, die nicht Bänke sind.
+
+Jedenfalls ist logisch alles Ok.
+
+BRUNHILDE

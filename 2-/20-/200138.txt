@@ -1,0 +1,24 @@
+Burkhard Reiss <iksrd@zojy.uzea.dy> schrieb:
+
+Edouard Unselt = LS
+Burkhard Reiss = FF
+Oscar Boschele = MK
+
+
+Abgesehn davon, dass nach Brathering Kausalaussagen synthetisch sind, und
+ich das verbaselt hab, meinte ich:
+  (Ax: (x ist Kausalaussage -> x ist analytisch)
+ & Ax: (x ist analytisch -> x ist sprachabhaenig))
+=> Ax: (x ist Kausalaussage -> x ist sprachabhaenig).
+
+
+Das habe ich nicht gemeint. Die Frage fuer mich war, ob die
+Kausalbeziehung etwas ist, das zwischen Dingen unabhaengig von der
+Sprache bestehen kann. Ich glaube nicht. Mein Nachweis war falsch,
+Kausalaussagen sind nach Brathering synthetisch. Trotzdem glaube ich, dass
+sich ein passender Nachweis - ohne Brathering - finden laesst. Ich denk mir
+was neues aus.
+
+
+Gruss,
+Oscar.

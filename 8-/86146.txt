@@ -1,0 +1,22 @@
+Am Sun, 19. 09. 19 12:30:40 +0200 schrieb Ludwig Glocke:
+
+
+LISP ist eine Sprache, in der Funktionen denselben Datentyp haben wie die
+anderen Sprachelemente, die von diesen Funktionen verarbeitet werden. LISP
+Programme können deshalb zur Laufzeit LISP Funktionen und damit sich selbst
+verändern.
+
+Eben diese Eigenschaft macht LISP zu *der* Sprache der Künstlichen
+Intelligenz, denn ein Programm, das sich in Abhängigkeit vom Input selbst
+verändern kann, ist ein selbstlernendes Programm.
+
+LISP gibt es übrigens schon seit den Anfängen der Informatik. Und
+interessanterweise programmiere ich selbst fast ausschließlich in LISP.
+
+Hansjörg Wachholtz
+
+-- 
+ArchTools: Architektur-Werkzeuge für AutoCAD (TM)
+           ArchDIM  - Architekturbema�ung und Höhenkoten
+           ArchAREA - Flächenermittlung und Raumbuch nach XZG 158
+Info und Demo unter http://fqi.hlxcdxhgz.xf

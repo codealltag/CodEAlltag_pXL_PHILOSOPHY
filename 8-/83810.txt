@@ -1,0 +1,11 @@
+Luc Stewen:
+
+
+Kannst du lesen? 
+if(Epimenides == true && sagen == true) then
+	$satz = "Das, was ich jetzt sage, ist gelogen."
+elseif(Epimenides == true && schreiben == true) then
+	$satz = "Das, was ich jetzt schreibe ist gelogen."
+else(Luc == true && lesen != true) then
+	$satz = "Luc kann nicht lesen."
+fi

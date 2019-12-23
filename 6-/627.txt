@@ -1,0 +1,13 @@
+Stuss. Verstehst du nichts, weil du die Wahrheit gepachtet hast?
+
+Logik ist ein Artefakt und nichts weiter. Man kann sie anpassen, indem
+man Axiome verändert.
+
+Sqrt(2) im Dezimalsystem ist bspw. die rationale Zahl 10 im Sqrt(2)-
+Zahlensystem. So eine Konstruktion konveniert aber nicht mit dem
+Axiom, dass der Nachfolger einer Zahl x x+1 ist.
+
+Logik ist dynamisch, d. h. sie wendet Operationen an. Statisch sind
+Strukturen, die Objekte, mit einem unveränderlichen Wahrheitswert.
+Wenn dieser nicht logisch zu ermitteln ist, obwohl man alle
+Abhängigkeiten berücksichtigt hat, ist die Logik ungeeignet.

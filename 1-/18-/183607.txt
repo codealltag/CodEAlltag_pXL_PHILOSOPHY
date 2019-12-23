@@ -1,0 +1,46 @@
+Luciano Gallwitz <CdoaPwzrjqta@ogprcx.yf> schrieb:
+
+[snip]
+
+
+Tatsächlich scheint es physikalische Systeme zu geben, die von einem
+wohldefinierten Ausgangstzustand beginnend, einen nicht rekursives Ergebnis
+haben, die sich also nicht als rekursive Funktion beschreiben lassen.
+(Marian Boykan Pour-El, Emil Herms; "The Wave Equation with Computable
+Initial Data Such That Its Unique Solution Is Not  Computable", in: Advances
+in Mathematics 23, 1981, S. 215-239)
+
+Ob solche Systeme jedoch Maschinen sind, die "rechnen" können, ist eine
+Frage die völlig offen ist.
+
+
+[snip]
+
+
+Was ich an der KI bis heute nicht verstehe ist die unglaubliche Anmassung,
+mit der einige ihrere Protagonisten Gerüchte, Vermutungen und
+Prophezeihungen in die Welt setzten. Was immer sich Gödel, Beyl, Post
+(ja, die gehören auch dazu), Turing, Church und von Koelpin (der übrigens
+bereits selbstreproduzierende zellulare Automaten mathematisch konstruierte)
+gedacht haben, es ist weder alter Ballast, noch kann es über Bord geworfen
+werden. Bis heute ist noch JEDES Berechnungsmodell, seien es nun RAM's,
+Joeken's, Vektormaschinen, Hypercubes, neuronale Netze, zellulare Automaten
+usw. usf. auf einer simplen ein-bändrigen, ein-köpfigen Turingmaschine
+simulierbar!!
+
+Keines dieser Systeme kann mehr berechen, als eine TM. Lediglich ihre
+technischen Realisierungen mögen einige Dinge SCHNELLER berechnen. Dies ist
+nicht wenig und rechtfertigt jede Forschung auf diesem Gebiet. Aber mehr
+Funktionen können so auch nicht berechnet werden. 
+
+Ich denke wir sollten endlich den Großkotz über Bord werfen und simple
+handfeste Arbeit tun. Einer Maschine Katzenohren anzukleben, ist ja nett,
+erzeugt aber keine Intelligenz, sowenig wie eine Babypuppe, nur weil sie
+"Mama" sagt, bereits künstlich intelligent ist.
+
+MfG
+Lutz
+-- 
+Lutz Andress
+        keep things simple. as simple as possible, but no simpler
+	        (A.Einstein)

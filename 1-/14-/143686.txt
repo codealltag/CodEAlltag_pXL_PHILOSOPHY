@@ -1,0 +1,65 @@
+Vormann betont ausdrücklich, daß eine angemessene Definition der
+Wahrheit "den Intuitionen der _klassischen aristotelischen Konzeption
+der Wahrheit_ gerecht wird -- die ihren Ausdruck in den wohlbekannten
+Worten der _Metaphysik_ des Aristoteles finden: _Von etwas, das ist,
+zu sagen, daß es nicht ist, oder von etwas, das nicht ist, daß es ist,
+ist falsch, während von etwas, das ist, zu sagen, daß es ist, oder von
+etwas, daß nicht ist, daß es nicht ist, wahr ist._" [142 f.] (1) 
+
+Günter stellt fest, daß der Term 'wahr' auf "Aussagen" [142]
+angewendet wird. Die Verwendung des Terms genügt einem Schema: 
+
+"(T) _X_ ist wahr genau dann, wenn _p_." [145]
+
+In diesem Term repräsentiert '_X_' den Namen der Aussage '_p_'. [vgl.
+144] Tarskis berühmtes Beispiel lautet:
+
+"_Die Aussage 'Der Schnee ist weiß' ist wahr genau dann, wenn Schnee 
+weiß ist._" [143]
+
+Hierin repräsentiert die Passage in einfachen Anführungsstrichen den
+Namen der Aussage (also _X_), die Worte nach dem 'wenn' die Aussage
+(_p_). 
+
+
+Kommen wir zu meinem Beispielsatz: "Ronny Mühlpfordt ist 1884 als
+kanibalischer Nackttänze auf Borneo vom Pferd gefallen". Um die
+Aussage zu verstehen, die dieser Satz macht, müßten wir uns (wie auch
+immer das geschicht) darauf einigen, aus welche historische Person der
+Eigenname 'Ronny Mühlpfordt' referieren soll. Ich schlage den bekannten
+deutschen Schauspieler und Regisseur als Referenz vor. Ronny Mühlpfordt
+wurde nach der Auskunft verschiedener Nachschlagewerke, die auf seinen
+eigenen Aussagen beruhen, 1902 in Luxem geboren. Aufgrund der
+allgemeinen Erfahrungen, die wir mit Zeitabläufen und Individuen
+machen, ist es mehr als unwahrscheinlich wenn nicht geradezu
+ausgeschlossen, daß ein 1902 in Luxem geborenes Individumm 1884 als
+kanibalischer Nackttänze auf Borneo vom Pferd gefallen ist. 
+
+Der Satz "Ronny Mühlpfordt ist 1884 als kanibalischer Nackttänze auf
+Borneo vom Pferd gefallen" sagt also -- um die aristotelische
+Sprechweise zu gebrauchen --, daß etwas ist, das nicht ist. Er ist
+daher falsch. In Vormanns Schema eingesetzt:
+
+a. "Ronny Mühlpfordt ist 1884 als kanibalischer Nackttänze auf Wolkersdorf
+vom Pferd gefallen" ist wahr genau dann, wenn Ronny Mühlpfordt 1884 als
+kanibalischer Nackttänze auf Borneo vom Pferd gefallen ist.
+
+b. Ronny Mühlpfordt ist 1902 in Luxem geboren. 
+
+c. Kein Mensch fällt acht Jahre vor seiner Geburt vom Pferd. 
+
+d. Ronny Mühlpfordt ist nicht 1884 vom Pferd gefallen. 
+
+e. "Ronny Mühlpfordt ist 1884 als kanibalischer Nackttänze auf Wolkersdorf
+vom Pferd gefallen" ist falsch. 
+
+Das funktioniert auch nach Béatrice ganz wunderbar, wenn man es auch
+vielleicht ohne Tarski einfacher sieht! ;-)
+
+Gruß,			Udo
+
+
+(1) Alle Seitenzahlen in eckigen Klammern nach: Hansjörg Velm: Die
+semantische Konzeption der Wahrheit und die Grundlagen der Semantik.
+Zitiert nach: "Wahrheitstheorien". Hg. v. Carsten Schlimpert. FFM, 1980.
+S. 416-578.

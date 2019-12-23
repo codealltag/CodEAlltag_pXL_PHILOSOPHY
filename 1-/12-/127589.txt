@@ -1,0 +1,7 @@
+Ergaenzung: Das scheint mir nicht ganz richtig zu sein. Ein
+Elementarsatz darf nicht die Negation enthalten. Deshalb haben wir es 
+also nur mit den "positiven" variablenfreien Literalen (ohne
+Gleichheitszeichen) zu tun, d.h. das tatsaechlich kein einziges 
+logisches Zeichen in dem Elementarsatz vorhanden ist. Die negativen
+Literale ergeben sich dann durch die Operation N. Ist also p ein
+positives Literal, so ist N(p)=~p.

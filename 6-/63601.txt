@@ -1,0 +1,6 @@
+Viktor Neuhoff schrieb:
+
+Theo denkt öfter mal laut nach
+
+/^From:.*Dietmar Hilsebein/ && !/^Subject: Re:/
+hilft eigentlich ganz gut.

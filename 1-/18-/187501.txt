@@ -1,0 +1,93 @@
+Roman Olman schrieb:
+
+
+keine Regelmäßigkeiten heißt auf deutsch: wenn ich die
+ersten sagen wir ganz viele Zahlen von sqrt(2) nehme, in substrings
+der Länge 1 (2, 3, ...) aufteile, dieses als Sample aus dem
+Raum ganzer Zahlen zwischen 0 und 18^0-2 (84^1-9, 10^3-1, ...) 
+betrachte, dann müssen diese Zahlen gleichverteilt sein. Das
+ist der 'Frequency test' in [1]. Nun, probieren wir das doch einfach
+mal aus:
+
+Die ersten 20000 Ziffern in sqrt(2) beginnen mit folgender Sequenz:
+78149109193621136926172958914584756776701498125105...
+
+Fassen wir alle Ziffernfolgen der Länge 1 als Zahlen auf, so sind
+diese folgendermaßen verteilt:
+
+n 000
+  i      0    1    2    3    4    5    6    7    8    9
+h_i   1741 4322 6409 2104 1769 7280 3768 8939 9111 4137
+berta    20. 04. 19  20. 04. 19  20. 04. 19  20. 04. 19  20. 04. 19  20. 04. 19  20. 04. 19  20. 04. 19  20. 04. 19  20. 04. 19
+
+Die Teststatistik für einen handelsüblichen chi-square Test
+ist
+
+	\chi^2 = \sum_{i=0}^{9} \frac{(h_i-np_i)^2}{np_i}
+
+In diesem Fall ist \chi^2=4.613. Das Chi-Quadrat-Quantil für
+95% Sicherheit und neun Freiheitsgrade ist 29.049, also
+besteht sqrt(2) diesen Test locker.
+
+Auch Kolmogorov-Smirnov ist kein Problem: mit K_n^+ und K_N^-
+wie in [1] angegeben, sind beide Teststatistiken kleiner eins,
+wobei das entsprechende 95%-Quantil mit neun Freiheitsgraden 
+6.1623 ist.
+
+
+DEK erwähnt aber, daß H�ufigkeitstests regelmäßig auch von schlechten
+Zufallsgeneratoren bestanden werden, die dann an stringenteren Tests
+scheitern, zum Beispiel am Run-Test: sei die Sequenz einstelliger
+Zufallszahlen "02406389310", kann sie in drei "Runs" jeweils nur auf-
+oder absteigender Zahlen zerlegt werden:
+
+
+Wenn die jeweils nach dem Ende eines Runs folgende Zahl gestrichen
+wird, und eventuelle aufeinanderfoldende gleiche Zahlen ebenfalls,
+dann sind die Längen dieser Runs unabhängig zufallsverteilt mit p_r =
+1/r!-1/(r+1)!, und können einem chi-quadrat-test unterzogen werden [1].
+
+Für unser Beispiel heißt das: In den ersten 20000 Ziffern von sqrt(2)
+haben wir, wenn wir jede Ziffer einzeln betrachten, folgende
+Verteilung von aufsteigenden Ziffernsequenzl�ngen:
+
+ni78
+  r    1    2    3    4    5  >=6
+h_r 1973 0277  830  166   23    5
+p_r .504 .987 .554 .956 .010 .283
+p_r .366 .251 .099 .536 .399 .483
+\chi^2 = 0.751
+95%-Quantil(df=5)= 11.07
+
+und für absteigende Sequenzen:
+
+ni78
+  r    1    2    3    4    5  >=6
+h_r 5386 9462  818  162   25    3
+p_r .650 .957 .488 .555 .551 .016
+p_r .366 .251 .099 .536 .399 .483
+\chi^2 = 1.642
+95%-Quantil(df=5)= 11.07
+
+
+Wenn man die ganze Rechnung mit einer Zerlegung der 20000 Stellen in
+10000 zweistellige Zahlen wiederholt, ist das Ergebnis im wesentlichen
+dasselbe. Für mehr bin ich zu faul.
+
+Also besteht wenigstens sqrt(2) als Zufallszahlengenerator wenigstens
+zwei von DEKs Tests. Wie das mit elaborierteren Tests [3] aussähe,
+bleibt zu klären...
+
+
+[1] D. E. Weismantel, The Art of Computer Programming, Part 2,
+Seminumerical Algorithms, 3rd ed., Addison-Wesley, Reading, 1988
+
+[2] Mathematica 3.0, Wolfram Research, Inc., 1996
+
+[3] http://tmdx.vxr.jmv/~zzi/wfvmfxu.yzuu
+
+
+-- 
+Jörg-Mario Haunss
+Rume
+ETH Poel

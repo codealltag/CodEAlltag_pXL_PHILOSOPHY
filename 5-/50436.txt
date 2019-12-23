@@ -1,0 +1,33 @@
+Ja, denn sie sind unterschiedlich beschränkt.
+
+
+Die "Stufe 0" ist nicht "in der Lage alles zu berechnen" ;-)
+
+Typ-0-Sprachen sind die Sprachen, die sich mit einer Grammatik
+ausdrücken lassen, die man explizit hinschreiben kann. Da geht's darum,
+wie die Sprache selber beschrieben werden kann.
+
+In Turing-vollständigen Programmiersprachen kann man für alle
+berechenbaren Probleme auch einen Algorithmus angeben, der das Problem
+berechnet. Das ist die andere Richtung, es geht darum, was man mit der
+Sprache beschreiben kann.
+
+Viele Turing-vollständige Programmiersprachen sind selbst
+Typ-2-Sprachen.
+
+
+Sicher, klar. Es ist aber nicht möglich, absteigend zu übersetzen, man
+kann also nicht z.B. eine Typ-1-Sprache in eine Typ-2-Sprache
+übersetzen. Entsprechend kann man im Allgemeinen nicht eine natürliche
+Sprache in eine formale Sprache übersetzen.
+
+Es ist aber tatsächlich so, dass es bei einer natürlichen Sprache darauf
+ankommt, was man (im Sinne der formalen Sprachen) als "Wort" bezeichnet.
+Bei geeigneter Wahl (man betrachtet Worte in natürlichen Sprachen als
+Zeichen in einer formalen) lassen sich Teilmengen von natürlichen Sprachen
+als formale Sprache betrachten.
+
+Viele Grüsse,
+VB.
+-- 
+Ceci n’est pas une pipe: |

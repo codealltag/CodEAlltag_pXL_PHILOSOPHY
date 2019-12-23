@@ -1,0 +1,21 @@
+Zu guter Letzt vielleicht auch noch das System, das Gentzen selbst
+eingeführt hatte - er verwendete Beweis-Bäume! :-)
+
+
+	P -> (Q & R)    P         P -> (Q & R)    P
+	-----------------  ->E	  -----------------  ->E
+	      Q & R                     Q & R
+	      -----  &E                 -----  &E
+	        Q                         R
+	     --------  ->I             --------  ->I
+	      P -> Q                    P -> R
+	     --------------------------------  &I
+	            (P -> Q) & (P -> R)
+
+
+L.
+
+
+P.S.
+Die Evolution des Systems (historisch gesehen) ist klar:
+Gentzen (34/35) --> Fitch (52) --> Suppes (57) --> Karlheinz (65)

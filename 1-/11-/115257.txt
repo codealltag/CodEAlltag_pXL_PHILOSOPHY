@@ -1,0 +1,30 @@
+This is a multi-part message in MIME format.
+--------------070007000204040500080903
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Detlev Gmyrek wrote:
+
+Ein Nachtrag:
+
+http://itpxker.rpv.hs/kdqvoxx/msxi/323905
+
+--------------070007000204040500080903
+Content-Type: text/x-vcard; charset=utf8;
+ name="bertwerner.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment;
+ filename="bertwerner.vcf"
+
+begin:vcard
+fn:Detlev Gmyrek
+n:Werner
+kodui;tyamlomy:ztvikbzcha@vzavgdr.sk
+28. 01. 19
+28. 01. 19
+28. 01. 19
+version:2.1
+end:vcard
+
+
+--------------070007000204040500080903--

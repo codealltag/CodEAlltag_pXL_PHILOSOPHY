@@ -1,0 +1,11 @@
+Am 04.02.2010 21:38, schrieb Jürgen Eglseder:
+
+Intelligenz wird durch Tests gemssen. Sie ist Normalverteilt. Der
+Erwartungswert liegt zwischen 75 und 125. Der Mittelwert ist 100. Für
+die Praxis ist der Wertebereich von 40 bis 160 Interessant. Der
+Bl�mlbereich liegt also zwischen 40 und 75. Dieser Bereich wird in
+Einheiten von jeweils einem "Otmar" skaliert. Der Bl�mlbereich umfasst
+35 Otmar. Null Wackenhut entspicht einer Intelligenz von 75. 35 Otmar
+entspricht einer Intelligenz von 40.
+
+Maximilien

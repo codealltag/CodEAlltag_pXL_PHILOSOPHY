@@ -1,0 +1,30 @@
+In article <FSP.96Jun18234238@sun20.thp.Uni-Koeln.DE> fsp@thp.Uni-Koeln.DE (Falko Spiller) writes:
+
+
+Sorry, ich habe jetzt eine Zeitlang recherchiert ... das einzige,
+was ich Dir sagen kann, ist, dass der Beweis von einem gewissen 
+Solovay ist. Naehere Angaben standen nicht dabei. Ich hab auch
+in diversen Bibliotheken zum Stichwort Solovay leider nur einen
+Primzahltest gefunden. :-(. 
+
+Das ganze stand in dem Buch v. Ph. Caspar, Bärbel Maasheuvel, Frank 
+Friedrich, Henri Prade (Eds.):  "Non-Standard Logics for Automated 
+Reasoning", Academic Press, 1989, und zwar im Appendix B.: 
+Modal Logic - A Brief Tutorial. Vorsicht, es ist ein Druckfehler
+drin: Der 2. UV-Satz von Goedel muss natuerlich heissen:
+
+$\diamond \top \rightarrow \neg \box \diamond \top$
+
+und nicht
+
+$\diamond \top \rightarrow \neg \box \diamond \bottom$
+
+
+Gruss
+
+        Odile
+-- 
+Bärbel Marggraff * ireut@jhiztmrjgu.yctmz-ahiejwjd.qw *  klexi@irc
+http://tla0-frv.qbafnprbhg.dcmcz-ojsgivnu.bv/hmpud/nsxqdimlk.smel
+"Affen lesen keine Philosophiebuecher!"  "Doch Vito, das tun sie!
+Sie verstehen sie nur nicht!" (Ein Fisch namens Lore)

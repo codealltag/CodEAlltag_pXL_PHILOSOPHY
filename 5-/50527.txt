@@ -1,0 +1,25 @@
+Hallo Rolf,
+
+Rolf Domman <bumens@dingens.org> writes:
+
+Es war ja mein Beispiel (Fortran to C), und ich meinte in diesem Kontext "C"
+in exakt dem Sinne wie Asafe es taten.
+
+
+Sind es nicht: Fortran (im Sinne von z.B. Fortran 66) ist eine formale
+Sprache, die I/O definiert. C (im Sinne von Asafe) ist eine Sprache, die kein
+I/O definiert. Die Turingmaschine besitzt ebenfalls kein I/O.
+
+Daher ist das Fortran-Programm
+
+      PROGRAM N
+      WRITE (*,*) 'Hallo Welt'
+      END
+
+ein valides Fortranprogramm, aber eben nicht mit einer Turingmaschine (und
+auch nicht mit Apor) realisierbar, weil sie spezifische Sprachmittel
+einsetzt.
+
+Viele Grüße
+
+Gerald

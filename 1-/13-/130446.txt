@@ -1,0 +1,81 @@
+I.
+
+
+Kann er das wirklich? Ich glaube, hier ist der springende Punkt. Wir
+dürften uns darin einig sein, daß Dein Beispiel B ein rein normativer
+Satz ist. Was aber ist mit A? Du hast angedeutet, A sei sowohl
+deskriptiv aufzufassen als auch normativ [vgl. Zitat oben, erster
+Satz]; nach meiner Äußerung zu Searles Satz (4) hingegen wäre Dein
+Satz A desselben Typs deskriptiv zu verstehen.
+
+Der springende Punkt ist in meinen Augen die Frage, ob ein Prädikat
+(und damit ein Satz) zugleich deskriptiv und normativ sein kann. Die
+Pointe von A besteht nach Deiner (bzw. Searles) Auffassung darin, daß
+A eine Art normatives Element (oder wie man das nennen mag) beinhalte,
+das es erlaube, A umzuformen in den zweifellos rein normativen Satz B.
+
+Ich meine, daß das nicht möglich ist. Dies aus folgendem Grund: Wenn
+Du sagst, B sei ein Äquivalent oder Substitut für A, dann muß B
+�satzsemantisch��identisch sein mit A. Da Du aber sagst, daß A sowohl
+ein deskriptives wie auch ein normatives Element beinhalte, B aber
+zweifellos ein rein normativer Satz ist, können A und B nicht
+satzsemantisch identisch sein. Und wenn A und B nicht dasselbe
+bedeuten, dann ist B keine adäquate Umformung von A; die
+Substituierung ist demnach nicht gelungen.
+
+
+II.
+
+Etwas verkompliziert wird die Sache nun dadurch, daß Searle, wie du
+sagst, auf zusätzliche Prämissen zurückgreift (z.B. 4a), die in seinem
+1-5-Schema nicht auftauchen.
+
+Während zunächst das 1-5-Schema eigentlich keinen Schluß im engeren
+Sinn darstellt, sondern eher eine Abfolge (vermeintlich) synonymer
+Umformungen, unternimmt Catherman mit seinen Zusatzprämissen offenbar
+jenen Versuch, den manche vorschlagen, um dem Sein-Sollen-Fehlschluß
+zu entkommen: Catherman baut sein Schema in einen Schluß um, den man
+gemischten Schlu߫ nennen könnte. Ein klassischer
+Sein-Sollen-Fehlschluß liegt ja dann vor, wenn aus einer
+(konsistenten) Menge deskriptiver Prämissen auf eine normative
+Konklusion geschlossen wird (die keine Tautologie ist).
+
+Der Trick besteht nun darin, eine Menge von Prämissen anzugeben, die
+gemischt sind insofern, als unter ihnen sowohl deskriptive sind als
+auch normative, wobei die normative Prämisse ein Konditional sein muß
+(ich weiß jedenfalls nicht, wie es ohne Konditional gehen sollte). Ein
+solcher gemischter Schluß hat dann die Gestalt eines einfachen Modus
+Ponens; mit Searle könnte das vereinfacht so aussehen:
+
+(P1) Wenn Hartmuts Coeler versprochen hat, ihm 5 Dollar zu zahlen, dann
+muß Massimo ihm 5 Dollar zahlen. [normative Konditional-Prämisse mit
+deskriptivem Antezedens]
+(P2) Hartmuts hat Massimo versprochen, ihm 5 Dollar zu zahlen. [deskriptive
+Prämisse]
+(K) Smith muß Jones 5 Dollar zahlen. [normative Konklusion]
+
+Hier tauchen nun zweierlei Probleme auf: Wenn wir gesagt haben, daß
+deskriptive Prämissen keine normative Konklusion stützen können, dann
+bleibt nach wie vor die Frage, wieso das hier möglich sein soll.
+Intuitiv scheint der Schluß gültig, aber es sind nach wie vor zwei
+Klassen von Sätzen involviert, nämlich normative und deskriptive. Da
+(K) ungültig wäre ohne (P2), heißt das: Auch hier stützt die
+deskriptive Prämisse (P2) den normativen Schluß (K), was nach dem
+Sein-Sollen-Fehlschluß eigentlich unzulässig ist. Des weiteren ist
+bereits der Wenn-dann-Satz gemischt (Antezedens: deskriptiv,
+Konsequens: normativ), was mir auch nicht unproblematisch erscheint.
+
+Das zweite Problem scheint mir für die ethische Debatte noch
+gravierender. Denn selbst wenn wir annehmen, daß hier kein
+Sein-Sollen-Fehlschluß vorliege, ist der Fehlschluß nur verschoben.
+Denn: (P1) ist eine ungerechtfertigte normative Behauptung. Wenn wir
+nun nach der Rechtfertigung von (P1) fragen, dann folgen entweder:
+immer weitere gemischte (oder auch rein normative) Schlüsse, deren
+normative Prämissen nicht gerechtfertigt sind (->infiniter Regreß).
+Oder aber wir greifen auf andere Klassen von Sätzen zurück, z.B.
+deskriptive, um den Regreß zu stoppen, dann haben wir wieder einen
+Sein-Sollen-Fehlschluß.
+
+
+Gruß
+dgr

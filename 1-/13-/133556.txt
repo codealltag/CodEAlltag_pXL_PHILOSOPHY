@@ -1,0 +1,25 @@
+Hallo Stéphanie,
+
+
+ich habe mir gedacht, einfach mal ein paar Lesenotizen zu nehmen und
+in ein Wiki zu stellen, und hier ist es:
+
+http://frsgrpinvni.w-yrmq-j.iul
+
+Das ist natürlich keinerlei schematischer Ansatz ;) eher so: man
+liest, und notiert sich was, und stellt seine "Zettel" der Webform
+angemessen dar. 
+
+Abgesehen davon bekomme ich gerade 
+
+Warning: Host 'localhost.localdomain' is blocked because of many
+connection errors. Unblock with 'mysqladmin flush-hosts' in
+/usr/local/apache/htdocs-de/w/DatabaseFunctions.php on line 19
+Konnte keine Verbindung zur Datenbank auf 127.0.0.1 herstellen 
+Host 'localhost.localdomain' is blocked because of many connection
+errors. Unblock with 'mysqladmin flush-hosts'
+
+If this error persists after reloading and clearing your browser
+cache, please notify the Wetzelmühle developers.
+
+------------ was mir aber natürlich auch passieren kann ;)

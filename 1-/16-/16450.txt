@@ -1,0 +1,78 @@
+Ich meine aber nicht irgendeine Klasse, sondern eine Klasse der
+Intension von Wörtern aus formalen Sprachen. Und unter einer "Semantik"
+versteht man auch in der Informatik etwas, und zwar etwas anderes,
+nämlich eben eine formale Sprache. Ausserdem heissen verschiedene
+Kalküle Semantiken. Das meine ich aber nicht, weshalb ich eine
+Definition vorlege.
+
+
+Nein.
+
+
+Ja, und ich kann Deinen Einwand leider nicht akzeptieren. Ich kann
+ehrlich gesagt nicht einmal nachvollziehen, wo Dein Verständnisproblem
+liegt. Dass es mir nicht um Arbitrarität geht, habe ich doch
+klargemacht.
+
+Wenn Du möchtest, könnte eine sinnvolle Übersetzung der Passage lauten:
+
+"Folgt man der These, dass frei gewöhlte Semantiken (im Allgemeinen)
+nicht formal spezifiziert werden können, ..."
+
+im Sinne insbesondere von:
+
+"Folgt man der These, dass nicht jede Semantik formal spezifiziert
+werden kann, ..."
+
+
+Aber es gibt eben einen "Hörer", das ist doch gerade der Punkt.
+
+Informationstechnische Systeme sind /immer/ so, dass sie Ausgabe
+erzeugen, die von Menschen wahrgenommen wird. Vor dem IT-System sind
+Menschen, und nach dem IT-System sind Menschen. Information wird in
+Daten kodiert, formale Sprachen werden kreiert, transformiert, und
+schliesslich wieder ausgegeben. In Sonderfällen werden sie durch
+Aktionen ausgegeben, die aber direkt Handlung ausdrücken insofern, dass
+ein Mensch durch Benutzen des IT-Systems handelt.
+
+
+Ich sage doch gar nicht, dass es gegenüber der Maschine ein Sprechakt
+sei, sondern gegenüber den Menschen, die dann die Ausgaben wahrnehmen.
+
+
+Maschinen verstehen nicht, korrekt.
+
+
+Das ist zwar richtig, aber Programme drückt man gerade für mögliche
+Welten aus. Das Analogon passt sehr gut. Wir reden hier ja über
+Turing-Maschinen-Äquivalente, da gibt es eben eine Eingabe auf dem Band,
+die den tatsächlichen Ablauf ein und derselben Turing-Maschine
+wesentlich beeinflusst.
+
+
+Ich habe hier nicht nur einmal betont, dass ich einen kritischen
+Rationalismus durchaus für eine vernünftige Position halte. Entsprechend
+fordere ich keinesfalls, dass andere meine Sicht teilen.
+
+
+Du kannst gerne "sprachliche Beschreibung" als Hendiadyoin auffassen.
+
+
+Ich stimme zu.
+
+
+Ich rede hier doch gerade nicht von philosophischen Haltungen, sondern
+darüber, wie ich versuche, Erkenntnisse der Philosophie in der
+Informatik zu nutzen. Ich verstehe ehrlich gesagt nicht, was daran
+verwerflich sein soll.
+
+
+Es gibt doch keine Einschränkung von aussen in dem Prozess, sondern der
+Erfinder macht sich seine Gedanken, verfolgt eine Abischt, und dadurch
+formt er Srache.
+
+Viele Grüsse,
+VB.
+-- 
+Wenn Du für eine Leistung nichts bezahlst,
+bist Du nicht der Kunde, sondern die Ware.

@@ -1,0 +1,38 @@
+Aha. Das klingt ja schonmal ganz gut.
+
+
+Und die Bedeutung solcher räumlicher Sätze kann man dem Dingens
+beibringen? Ist das nicht ziemlich kompliziert, mit optischer
+Erkennung davorgeschaltet und so?
+Gibt es sowas, das funktioniert?
+
+
+Und wie wird "drunter durchfahren" aufgelöst, so daß es das
+erkennt?
+
+
+Klingt trivial, wenn man ein Kind vor sich hat, dem man erklärt,
+"der Vater des Vaters ist der Großvater", aber wie bringt man
+eine KI dazu, Verwandtschaftsbeziehungen zu "begreifen"?
+
+Für Menschen sind die natürlich völlig trivial. Menschen verfügen
+über eine leistungsfähige Sprache (eine "natürliche" Sprache, in
+die Beobachtungen von Millionen Individuen eingehen) und einen
+nichttrivialen Körper. Sie haben dazu ein Bewußtsein und eine
+Lebensgeschichte, alles Dinge, auf die die KI ja verzichten muß.
+Als Ziel für die Entwicklung einer Anwendung ist das deswegen mE
+nicht trivial. Vielleicht stell ich mir das aber auch zu
+kompliziert vor, keine Ahnung. Ich halte es erstmal für sehr
+voraussetzungsreich, da ich bei "lernen" immer auch eine gewisse
+Verallgemeinerbarkeit erwarte.
+
+
+Jaja, aber wie versteht es "durchfahren" und "reinfahren"? Das
+ist doch auch schon schwierig. Dazu muß es doch räumliche
+Zusammenhänge erkennen und die sprachliche Beschreibung richtig
+zuordnen bzw. überhaupt auflösen.
+Irgendwie mitzählen und wenn es eine Schwelle überschreitet,
+abspeichern. Das erscheint mir noch vergleichsweise am
+überschaubarsten, bei den anderen Beispielen sehe ich Sprache
+involviert, und da wirds _sicher_ schwierig. Die Kisten verstehen
+zwar Befehle, aber keine Sprache!

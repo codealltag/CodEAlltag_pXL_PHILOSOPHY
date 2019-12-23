@@ -1,0 +1,22 @@
+Hallo Hartmut
+
+
+Ja, Du hast recht. Dadurch dass auf den jeweiligen Thread schon im Header
+hingewiesen wird, eruebrigt sich tatsaechlich ein Pointer, der in dieser
+Art schon fast provokativ wirken kann.
+
+Ich schliesse mich Deinen Ausfuehrungen an und verzichte in Zukunft darauf.
+
+
+Am schoensten waere es natuerlich, man muesste gar keine KZAU-Threads
+starten. *traeum-sweet-traeum* :-)
+
+
+Gruesse
+
+Frauke
+
+
+"Satire ist ein Spiegel, in dem der Betrachter alle anderen Gesichter
+erkennt, nur nicht das eigene."
+                             Thomas Troche

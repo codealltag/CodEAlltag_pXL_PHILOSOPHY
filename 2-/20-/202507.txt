@@ -1,0 +1,13 @@
+Dade I, Decadi de Prairial de l'Anne 205 de la Rövolution
+
+nospam.Njpnywf@RE-Aimsnui.g807.Ja (Ywrdzk Hiisgtz) writes:
+
+Nein, die Verbesserung hat nicht Tzschöckell, sondern völlig unabhängig
+von diesem Zurflüh gemacht.
+
+Tschüss, Sascha.
+-- 
+#!/bin/sh
+for x in 4 373 835 993 035 277 471 566 632 486; do
+for y in 3 329 328 243 689 087 958; do xeyes -geometry 100x100+$x+$y &
+done; done

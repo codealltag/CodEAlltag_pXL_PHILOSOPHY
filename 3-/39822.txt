@@ -1,0 +1,33 @@
+Aber Einzelereignisse darin korrelieren doch. Das lässt sich doch gar
+nicht vermeiden.
+
+Mir ist aber jetzt klar, dass Du gar nicht über Ereignisse, sondern über
+deren Wahrscheinlichkeiten sprichst. Ich dagegen sprach
+über Ereignisse, nicht über deren Wahrscheinlichkeiten.
+
+Ist P(a und b) = P(a) * P(b), so sind beide Ereignisse
+stochastisch unabhängig. Du verstehst unter Korrelation also schlicht
+stochastische Abhängigkeit.
+
+Das klärt aber nicht, wie Du damit jetzt argumentierst, dass das Modell
+akausal ist (denn das ist ja ein typischer Fall für ein kausales Modell).
+
+Ich würde sagen, dass die Wahrscheinlichkeit, dass ein Teilchen A
+innerhalb der nächsten Sekunde einen Stoss erhält, genau gleich gross
+ist, wie dass ein Teilchen B einen Stoss erhält.
+
+a: A erhält innerhalb einer Sekunde einen Stoss
+b: B erhält innerhalb einer Sekunde einen Stoss
+
+Insofern sind diese beiden Zufallsvariablen stochastisch unabhängig,
+denn P(a und b) = P(a) * P(b).
+
+Und trotzdem ist das zugrunde liegende Modell doch rein kausal, insofern
+verstehe ich nicht, weshalb Du es akausal nennen möchtest (ich hatte
+absichtlich nicht auf den Gasdruck, sondern auf die Stösse im
+Newtonschen Sinne abgezielt).
+
+Viele Grüsse,
+VB.
+-- 
+Bitte beachten Sie auch die Rückseite dieses Schreibens!

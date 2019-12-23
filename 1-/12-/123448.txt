@@ -1,0 +1,13 @@
+"Gianni Cleef" <ycdtrmqwctiOVXAGAP@kmkbzji.ck> schrieb im Newsbeitrag
+news:881c8779.0307271051.6ef3c4c6@posting.google.com...
+
+
+Hat mal jemand über einen delay-status nachgedacht? Dazu
+bräuchte man weder true noch false zu negieren. Hätte aber den
+Vorteil, dass ein Datum oder ein Problem mitgeschleppt werden
+könnten z. B. unter den Annahmen eines höheren Informationswerts,
+Entscheidung nach Zeitablauf, Entscheidung durch Zeitablauf o. �.
+
+Größe
+
+Diedrich

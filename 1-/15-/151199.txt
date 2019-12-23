@@ -1,0 +1,29 @@
+Jürgen Fogel wrote:
+
+[über "den Gaußschen Satz"]
+
+Kannst Du mir mal sagen, was Ihr hier als "Gaußschen Satz" diskutiert? Ich 
+verstehe nämlich nicht, was der mit instantan vs. retardiert oder was auch 
+immer mit Jakobsen�t zu tun haben soll. Es gibt einen Gaußschen 
+Satz (der ein Spezialfall des Stokesschen Theorems über alternierende 
+Differentiatlformen ist) und 
+
+\int_{V} dV div A=\int_{\partial V} dS V
+
+lautet. Das ist ein mathematisches Theorem und sagt über Physik nix aus.
+
+Dann gibt's noch das Gaußsche Gesetz, das besagt
+
+div E=\rho,
+
+wo E das elektrische Feld und \rho die Ladungsverteilung ist. Auch das ist 
+verträglich mit der Einsteinkausalit�t, denn es ist eine der 
+Maxwellgleichungen, die in ihrer Gesamtheit einsteinkausal sind.
+
+Was also diskutiert Ihr da genau? 
+
+-- 
+Uwe Weisspfennig                Home: http://ygvmwc.crh.fu/~pllblpe/    
+c/o GSI-Auerschmied SB3 3.183     FAQ: http://ubwlkx.hsq.hm/~qnifumc/kmk/
+Frommestraße. 3                    
+D-83912 Auerschmied               mailto:y.gilttcr@eig.cu

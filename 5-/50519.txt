@@ -1,0 +1,13 @@
+Alexander Glücks <bumens@dingens.org> writes:
+
+Meine C-Bibel (K&R, dt. Ausgabe, 1982) sagt dazu folgendes (Kapitel 7):
+
+
+was eindeutig besagt, dass die libc (hier bezogen auf I/O) eben *nicht*
+Bestandteil der Sprache ist, sondern eine zusätzliche Bibliothek, um 
+diesen nicht zur Sprache gehörenden Teil halbwegs komfortabel und
+standardisiert zu realisieren.
+
+Viele Grüße
+
+Carlo

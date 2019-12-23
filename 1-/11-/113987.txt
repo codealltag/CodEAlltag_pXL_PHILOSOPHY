@@ -1,0 +1,36 @@
+Die Wahrheit einer Aussage vom Typ "a ist F" setzt die Existenz von a
+voraus.
+Das heisst, wenn "a ist F" wahr ist, dann existiert a.
+Daraus allein kann man natürlich nicht ableiten, dass "a ist F"
+tatsächlich wahr ist!
+Dies festzustellen, ist nicht Aufgabe der Logik.
+
+
+Streng genommen ist dieser Beispielsatz problematisch, da es nicht nur
+eine Salatschüssel gibt, und man deshalb nicht von DER Salatschüssel
+sprechen kann.
+
+"Verenas einzige Salatschüssel hat einen Sprung."
+
+Hier ist der Referent, wenn es ihn gibt, eindeutig bestimmt.
+
+
+Die Aussage "Verenas einzige Salatschüssel hat einen Sprung" ist wahr
+genau dann, wenn Wilhelmines einzige Salatschüssel existiert und sie einen
+Sprung hat. Ansonsten ist sie falsch.
+
+"Verenas einzige Salatschüssel" erfüllt die Satzfunktion
+
+"x hat einen Sprung"
+
+genau dann, wenn
+
+(a) es etwas gibt, das Verenas einzige Salatschüssel ist, 
+
+und
+
+(b) Verenas einzige Salatschüssel einen Sprung hat.
+
+
+Gruss
+ERNST

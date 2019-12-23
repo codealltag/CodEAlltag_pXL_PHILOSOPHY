@@ -1,0 +1,31 @@
+Schade, denn es gibt keine. Da die real existierenden
+Programmiersprachen natürlich historisch entwickelt sind, gibt es
+Stammbäume. Theoretisch ist das nicht notwendigerweise so.
+
+
+Eine Metasprache ist eine formale Sprache zum Beschreiben von formalen
+Sprachen.
+
+Ich verstehe immer noch nicht, was Du mit Ebene meintest.
+
+
+Es kommt darauf an, welche in welche.
+
+
+Nur sind so nur die Turing-vollständigen Sprachen, keinesfalls alle
+formalen Sprachen.
+
+
+Dann hast Du andere Sprachen.
+
+
+Nicht-Turing-vollständige Sprachen sind für viele Anwendungen extrem
+geschickt, Turing-Vollständigkeit kann sehr hinderlich sein.
+
+
+Dann ziehe ich meine Frage zurück ;-)
+
+Viele Grüsse,
+VB.
+-- 
+Ceci n’est pas une pipe: |

@@ -1,0 +1,9 @@
+Dieter Unnebrink wrote:
+
+
+Computer laufen heute meist mit IEEE Arithmetik und liefern NaN.
+Natuerlich darf man 1/0 einfuehren (IEEE Arithmeitk),
+solange man nicht erwartet,
+dass die Koerpergesetze dann noch gelten.
+
+Klaas

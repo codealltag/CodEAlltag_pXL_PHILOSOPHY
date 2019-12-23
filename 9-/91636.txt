@@ -1,0 +1,6 @@
+Wenn ich notwendige Konditionen für 'Silber' oder 'Gold' bestimmen will,
+dann stelle ich sehr schnell fest, daß diese Konditionen nur ein Fachman
+bestimmen könnte (und das nicht immer). Für mich wäre es 100% ausreichend,
+wenn ich z.B. 'Silber' so bestimme: Silber ist etwas, das wie 'Silber'
+aussieht. Dann erzeuge ich ein Type-Entität aus einer Token-Entität und alle
+sind zufrieden und glücklich. Was denkst Du?

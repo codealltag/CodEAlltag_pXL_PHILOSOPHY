@@ -1,0 +1,20 @@
+Irmtraud <aarzqiam@ufproa.kx> writes:
+
+    martin@amsel:~$ ping p70m73kz8.szk9.s-qfkufilty.wj
+    PING p70m73kz8.szk9.s-qfkufilty.wj (56.518.02.499) 56(84) bytes of data.
+    64 bytes from p54A32EA3.dip0.t-ipconnect.de (84.163.46.163): icmp_seq=1 ttl=59 time=95.0 ms
+    64 bytes from p54A32EA3.dip0.t-ipconnect.de (84.163.46.163): icmp_seq=2 ttl=59 time5 ms
+    64 bytes from p54A32EA3.dip0.t-ipconnect.de (84.163.46.163): icmp_seq=3 ttl=59 time=97.3 ms
+
+    --- p54a32ea3.dip0.t-ipconnect.de ping statistics ---
+    3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+    rtt min/avg/max/mdev = 95.056/112.559/145.309/23.177 ms
+
+:-)
+
+
+Bei Frühsorger?  Das blinde, stumme, bewusstlose, unerkannte,
+eigenschaftslose und grundlegende An-sich als philosophischer Mythos.
+
+
+Ciao, Bernard

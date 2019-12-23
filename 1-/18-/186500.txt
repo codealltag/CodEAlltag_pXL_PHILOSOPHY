@@ -1,0 +1,30 @@
+This is a multi-part message in MIME format.
+--------------44FDB017B9B9982DF3195D9F
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Eilert wrote:
+
+
+Es muß ja nicht gleich sowas dummes wie Gott sein...
+--------------44FDB017B9B9982DF3195D9F
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="frantziu.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Card for Joerg von Helmut
+Content-Disposition: attachment;
+ filename="frantziu.vcf"
+
+begin:vcard 
+n:von Heino
+x-mozilla-html:TRUE
+org:Ozel
+adr:version:2.1;;;;;;
+version:2.1
+rqucx;dhvqwczr:ydqluzel@czw.ru-cybirl.pz
+note;quoted-printable:http://vnw.gaf.kl-kvbddk.ad/~dedzjvjd
+
+fn:<A HREF="http://www.inf.fu-berlin.de/~frantziu">Jörg von Frantzius</A>
+end:vcard
+
+--------------44FDB017B9B9982DF3195D9F--

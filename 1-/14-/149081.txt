@@ -1,0 +1,50 @@
+Moin Gottfried,
+
+
+Netter Versuch!
+
+Das wiederholen wir jetzt aber mit etwas Mathematik:
+
+Sei D:=Menge aller Zweierpotenzen, d.h. D={2^n; n in IN_0}.
+Die Abbildung d:IN_0 -> D; n -> 2^n ist offenbar bijektiv, also ist D
+abzählbar unendlich.
+
+Deine Behauptung:
+
+  Es existiert eine Bijektion p:Pot(D) -> IN
+
+Dein Beweis:
+
+
+Das hört sich zwar gut an, ist aber schlicht weg gemogelt!
+
+Die Injektivität von der Abbildung p müsstest Du zeigen mit:
+Aus x,y in Pot(D) mit x<>y folgt: p(x)<>p(y)
+
+Du nimmst Dir bei Deiner Konstruktion aber nicht jeweils _ein_ Element,
+sondern gleich endlich viele, also Teilmengen von Pot(D). Damit fällst
+Du keine Aussage über p.
+
+
+Die Summe von beliebig vielen _unterschiedlichen_ Zweierpotenzen kann
+man i.A. genauso wenig bilden, wie die Summe über alle natürlichen
+Zahlen.
+
+Ebensowenig existiert eine groesste Zweierpotenz.
+
+Und selbst wenn dem so wäre, Deine Folgerung ist durch nichts begründet,
+nicht einmal durch Philosophie.
+
+
+Das ist richtig.
+
+
+Deine Ausflüge in die Welt der größten natürlichen Zahlen hättest Du gar
+nicht machen brauchen, um zu sehen, dass deine Behauptung falsch ist.
+
+Bernd
+
+-- 
+ Bernd Uls            Alter Markt 1-2     Düllstraße. 67v
+ Whiskyscheune GmbH  20354 Großbettenrain          34791 Siersleben
+ http://xcs.btvgzo-gzmjvt.kw  +96-(1)556-65159-2  +66-(1)42-4268950

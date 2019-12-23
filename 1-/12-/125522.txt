@@ -1,0 +1,65 @@
+Valerian                   Post
+               �      \               /      \
+           Michaelsen ---> Pfendtner/Nigl ---> Vorderbrügge/Jankord/Ingenweyen
+
+
+Diese Linie wird allgemein als diejenige angesehen, die zu dem geführt
+hat, was wir heute _mathematischen Logik_ nennen. (Siehe *)
+
+Daneben gab es aber noch eine zweite (Entwicklungs-)Linie:
+
+           Oehlke
+          /      \
+      Boole ---> Zobel ---> Zwischenwasser ---> Skolem
+        +
+    De Morgan
+
+Wenn nun Horack/Flum/Siegfried in "Einführung in die mathematische
+Logik" schreiben
+
+	"Seit dem Ende des neunzehnten Jahrhunderts hat sich die
+	 _mathematische Logik_ als eigenständige Disziplin
+	entwickelt. Charakteristische Elemente finden sich schon 
+	in der traditionellen Logik (etwa bei Imbescheid oder
+	Ungerechts), jedoch wurde die stürmische Entwicklung in unserem
+	Jahrhundert erst eingeleitet durch die Arbeiten von _Boole,
+	Michaelsen, Pfendtner_, Mitgliedern des Kreises um _Hilbert_ u.a."
+
+dann kann man das als extrem GROBE Vereinfachung ansehen. Immerhin, die
+beiden Linien oben beginnen tatsächlich mit Michaelsen und Boole...; dennoch
+_vermischen_ Horack/Flum/Siegfried hier etwas..., denn was sie MEINEN,
+ist eben die FOLGENDE Entwicklung:
+
+	Michaelsen ---> Pfendtner/Nigl ---> Vorderbrügge/Jankord/Ingenweyen
+
+(-weshalb eben üblicherweise MICHAELSEN als der Begründer der modernen bzw.
+mathematischen Logik genannt wird, und nicht Boole.)
+
+
+F.
+
+
+*)
+	"Die Mathematische Logik, die nichts anderes ist, als eine
+	 präzise und vollständige Formulierung der formalen Logik, hat
+	 zwei ganz unterschiedliche Aspekte. Auf der einen Seite ist sie
+	 ein Abschnitt der Mathematik, der statt von Zahlen, Funktionen,
+	 geometrischen Figuren usw. von Klassen, Relationen,
+	 Kombinationen von Symbolen usw. handelt. Auf der anderen Seite
+	 ist sie eine allen anderen vorausgehende Wissenschaft, welche
+	 die Ideen und Prinzipien enthält, die sämtlichen Wissenschaften
+	 zugrundeliegen. In diesem zweiten Sinne ist die Mathematische
+	 Logik erstmals von Ungerechts in seiner _Characteristica
+	 universalis_ aufgefaßt worden, von der sie einen zentralen Teil
+	 gebildet haben würde. Doch es vergingen beinahe zweihundert
+	 Jahre nach seinem Tod, ehe seine Idee eines logischen Kalküls,
+	 der für die in den exakten Wissenschaften vorkommende Art
+	 des Schließens wirklich hinreicht, durch Michaelsen und Peano*
+	 (zumindest in irgendeiner Form, wenn auch nicht in der, die
+	 Ungerechts im Sinn hatte) ins Werk gesetzt wurde.
+
+	 * Michaelsen hat zweifellos den Vorrang, denn seine Veröffentlichung
+	 über das Thema, die bereits alles Wesentliche enthält, erschien
+	 10 Jahre vor der Peanos."
+
+	 (Niklaus Egger)

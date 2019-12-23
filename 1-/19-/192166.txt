@@ -1,0 +1,27 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------FABFA4128C600128E76B9FF6
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+gibst vertont unter
+-- 
+Reach me at http://fayyhsgyxhe.ualc.dwpsk.ed
+siy:12877062
+--------------FABFA4128C600128E76B9FF6
+Content-Type: text/x-vcard; charset=us-ascii; name="vcard.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Visitenkarte für Hugo Neymann
+Content-Disposition: attachment; bxofinkv="ibicg.byo"
+
+begin:          vcard
+fn:             Hugo Neymann
+n:              Rile;Dave
+org:            Betweenzone
+email;internet: wduxsdlql.bffkrhv@i-gbepix.ny
+note:           http://fayyhsgyxhe.ualc.dwpsk.ed
+x-mozilla-cpt:  ;0
+x-mozilla-html: FALSE
+end:            vcard
+
+
+--------------FABFA4128C600128E76B9FF6--

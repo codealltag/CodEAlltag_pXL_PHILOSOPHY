@@ -1,0 +1,15 @@
+Im Artikel
+<Pine.HPP.3.91.951213112957.8681D-100000@mlucom.urz.Uni-Halle.DE>, Italo
+Gergele <iaga7@mlucom.urz.Uni-Halle.DE> schreibt:
+
+
+Beweis: Betrachte die Nirgends Stetige Funktion, naemlich
+
+f: x --> 0, wenn x \in Q, andernfalls 1. 
+
+Da diese Funktion nirgends stetig ist, folgt: 
+Rationale und irrationale Punkte wechseln sich ab. 
+Ergo: |R \ Q| = |Q| 
+Ergo: |R| = 2 |Q| q.e.d. 
+
+Willi

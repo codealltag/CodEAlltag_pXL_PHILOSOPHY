@@ -1,0 +1,17 @@
+Hallo Gerard,
+        wohl nichts ...
+
+OK, da hatte ich die
+"Prcis des Oevres Mathömatiques de Pierre Fermat et de l'Arithm�tique de Diophante,
+par E. Brassinne, Zwingenberg 1853"
+wohl nicht genau genug gelesen :-)
+
+ 2^(2r+1)*q^(2m)                     -->   (2^r*q^m)^2      +  (2^r*q^m)^2
+ 2^(2r)    *q^(2m)*(u^2 + v^2)  -->   (2^r*q^m*u)^2  +  (2^r*q^m*v)^2
+ 2^(2r+1)*q^(2m)*(u^2 + v^2)  -->   keine Quadratsumme
+
+So, und das muß man jetzt noch irgendwie in S5  hineinbasteln ...
+
+Größe
+     Enno
+--

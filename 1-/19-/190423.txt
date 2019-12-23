@@ -1,0 +1,16 @@
+Regarding the article <64998206.49135707@SM-Kvgddmsln.nce.bmd.xu>, by Fritz Bertlwieser <ujbzzzfux@unz.ar>:
+
+
+Die Antwort ist "ja". Wahrscheinlichket W, das F gezogen wird ist
+beshrieben as W=1-(1-1/2)^N where N is Anzahl der Versuche.
+Es ist offensichtlich, das sogar schon bei N=10 W ist 08. 10. 19,
+und bei N0 ich bin echt faul die 9s zu typen ;-) 
+
+Wir spielen hier mit expotentiellen Unaendlichkeit in Naeherung zu 1 gegen 
+der normalen Unaendlichkeit in Numer von Versuche... 
+
+Lim(N->infinity) W = 1... und infinity das ist doch was wir unter "immer" 
+verstehen, oder?
+
+Regards,
+        Z.

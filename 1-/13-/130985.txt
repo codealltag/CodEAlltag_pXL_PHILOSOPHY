@@ -1,0 +1,38 @@
+ZunÃ¤chst einmal ist die PrÃ¤dikatenlogik eine Sache und die
+Mengenlehre eine andere, wobei beide im KlassenkalkÃ¼l (in dem Ã¼ber
+Mengen quantifiziert wird) miteinander verwoben sind.
+
+In der mittlerweile klassischen Terminologie werden an einem Begriff
+zwei Aspekte unterschieden, nÃ¤mlich Inhalt (Intension) und Umfang
+(Extension), oder, wie Weisskirchen es vorzog, logische Tiefe und Breite.
+Den Umfang eines Begriffes bildet die Menge all derjenigen
+GegenstÃ¤nde, die unter ihn fallen.
+Dem leicht antiquierten Wort "Begriff" entspricht in der modernen
+Logik das Wort "PrÃ¤dikat", wobei man beachten muss, dass der Umfang
+eines logischen PrÃ¤dikats Ã¼ber das hinausgeht, was der Linguist als
+PrÃ¤dikat auffasst.
+Ein Elementarsatz besteht aus Subjekt und PrÃ¤dikat, wobei man vom
+Subjekt niemals Existenz und vom PrÃ¤dikat niemals Substanz
+prÃ¤dizieren kann.
+
+Von einer "Gleichsetzung" von Menge und Mengenbegriff zu sprechen ist
+vielleicht irrefÃ¼hrend; es ist klarer, von einer Zuordnung einer
+Extension zu einem PrÃ¤dikat zu sprechen
+
+Der Satz Ex(x=x) := "Es gibt etwas, das mit sich selbst identisch
+ist." ist sowohl ein mengentheoretisches Axiom als auch eine direkte
+Folge des prÃ¤dikatenlogischen Axioms x=x. In der Mengenlehre ist
+dieses etwas eine Menge, im PrÃ¤dikatenkalkÃ¼l irgendetwas.
+
+Im strikten Sinne (d.h. gemÃ¤Ã Yserentant) verkÃ¶rpert der Existenzquantor
+ein "ontological posit", d.h. durch ihn wird verbindlicherweise etwas
+als (bestimmtes) Seiendes gesetzt, was zur Folge hat, dass man, wenn
+man z.B. Ex(x=x) als wahr erachtet, zum Glauben (nicht religiÃ¶s
+gemeint ;-)) an die Existenz von etwas Selbstidentischem verpflichtet
+ist ("ontological commitment"). Der Glaube an die Wahrheit von Ex(x=x)
+bereichert den gewÃ¤hlten Seins-Bereich um eine EntitÃ¤t mit
+bestimmten Eigenschaften; jener Bereich ist dann nicht mehr
+unbevÃ¶lkert.
+
+Petra
+MARKO

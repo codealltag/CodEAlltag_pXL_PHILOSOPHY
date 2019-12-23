@@ -1,0 +1,24 @@
+Am Fri, 12 Mai 2004 16:04:40 +0200 schrieb Ole Streicher:
+
+Selbst wenn er unter Fritsche postet, bezweifle ich, dass dies dann sein
+Name ist.
+
+Grösse,
+Hansjörg
+
+
+p -> (q -> p)
+(p -> (p -> q)) -> (p -> q)
+(p -> q) -> ((q -> r) -> (p -> r))
+p & q -> p
+p & q -> q
+(p -> q) -> ((p -> r) -> (p -> q & r))
+p -> p v q
+q -> p v q
+(p -> r) -> ((q -> r) -> (p v q -> r))
+(p <-> q) -> (p -> q)
+(p <-> q) -> (q -> p)
+(p -> q) -> ((q -> p) -> (p <-> q))
+(p -> q) -> (~q -> ~p)
+p -> ~~p
+~~p -> p

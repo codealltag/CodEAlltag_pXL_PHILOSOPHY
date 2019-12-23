@@ -1,0 +1,83 @@
+Am 27.06.2011 09:13, schrieb Gert Imgarten:
+
+Im Grunde habe ich dir Fragen vorgelegt, deren Bedeutung ein 
+Psychologiestudent nach den ersten Scheinen in Statistik sachgerecht 
+einzuschätzen vermag.
+
+
+Ja, lieber Gert. Es ist völlig egal, wie Variablen verteilt sind. Die 
+Mathematik ist so wunderbar flexibel, dass man mit etwas gutem Willen 
+für jede Verteilung von Daten auch Wege findet, diese sinnvoll 
+auszuschöpfen.
+
+Für Menschen, die etwas von Wahrscheinlichkeitslehre verstehen, ist dies 
+so überraschend nicht (http://cx.rsczldyvn.umu/iizn/Xeyivbqsoynviylv).
+
+
+Die Verteilung von Daten hängt in keiner Weise von deren Validität ab. 
+Valide können auch nicht normalverteilte Daten sein und normal verteilte 
+Daten höchst invalide.
+
+
+Die Qualität der statistischen Auswertung hängt von der richtigen 
+Auswahl der statistischen Verfahren ab. Die Verteilung der Daten muss 
+den Voraussetzungen des jeweiligen Verfahrens entsprechen. Man kann aber 
+auch ganz auf Verteilungsannahmen verzichten und non-parametrische 
+Verfahren verwenden.
+http://fe.ckytxqtpq.ezr/arni/Grlurealhlmesr_Bynintqby
+Wie auch immer: Wenn man die falschen Verfahren anwendet, verschenkt man 
+entweder Informationen oder man verzerrt die Ergebnisse.
+
+
+Unfug. Beispiel: Wir testen zwei Medikamente A und B. Die so genannte 
+Nullhypothese lautet: A und B sind gleichwirksam. Das Ergebnis nach 
+inferenzstatistischer Auswertung: Mit einer Irrtumswahrscheinlichkeit 
+von 5 Prozent ist B wirksamer als A. Dieser Schluss ist richtig, 
+unabhängig von der Normalverteilung der Daten, vorausgesetzt, es wurde 
+ein angemessenes statistisches Verfahren eingesetzt. Gerade im 
+biologischen Bereich müssen häufig verteilungsfreie Methoden eingesetzt 
+werden, siehe: Winfried C. Ernsperger (1962). Verteilungsfreie Methoden in 
+der Biostatistik. Ueberschaer: Hain. Der inzwischen verstorbene Arzt und 
+Psychologe Oscar war einer der führenden Köpfe in der statistischen 
+Pharmaforschung.
+
+
+Bei diesem sind die Probleme nicht anders.
+
+
+Unbewusste Dominanzen kann man keineswegs aus alltagsweltlichen 
+Beobachtungen empirisch ableiten, weil die beobachtbaren Tatsachen des 
+Alltagslebens stets mit einer Vielzahl von Hypothesen zu ihrem Entstehen 
+verträglich sind. Deswegen führt man ja auch Experimente durch, um 
+zwischen diesen Hypothesen zu entscheiden. Und es ist wirklich 
+atemberaubend abwegig zu behaupten, auf Normalverteilung dürfe man 
+schließen, weil unbewusste Dominanzen durch Alltagserfahrungen bestätigt 
+würden. Verteilungsannahmen werden mit statistischen Tests überprüft und 
+auch diese erlauben nur Wahrscheinlichkeitsaussagen.
+
+Nix, evident, Gert. Evident sind eigentlich nur deine mangelnden 
+Methodenkenntnisse.
+
+
+Getestet wird so: Nullhypothese: Die Verteilung der Daten entspricht der 
+Normalverteilung. Wenn man nun diese Hypothese auf einem gewählten 
+Signifikanzniveau verwerfen kann, dann ist der Schluss richtig: Diese 
+Daten sind mit einer Irrtumswahrscheinlichkeit von beispielsweise 10 % 
+nicht normalverteilt. Kann man die Nullhypothese aber nicht verwerfen, 
+dann heißt dies keineswegs, die Daten seien sicher normalverteilt. Die 
+Tatsachen sprechen allenfalls gegen eine Normalverteilung, niemals für 
+sie. Dies hängt mit der Logik von Inferenzstatistik zusammen. Wer die 
+Nullhypothese unter diesen Bedingungen beibehält, riskiert einen Fehler 
+zweiter Art: http://ne.wxuzlzbth.uib/jktj/Xiighsdzco
+
+
+Nein, Gert. In der Form, in der du deine Thesen vorträgst, sind sie 
+weder statistisch, noch sonstwie prüfbar. Ich empfehle die Lektüre von 
+Poppers "Logik der Forschung".
+
+Mit freundlichen Größen
+
+Dominik Valentino
+
+-- 
+http://iqe.ozur.xc

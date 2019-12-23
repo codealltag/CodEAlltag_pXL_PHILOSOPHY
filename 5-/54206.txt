@@ -1,0 +1,12 @@
+Hansruedi Zschernack <bumens@dingens.org> writes:
+
+Das ist der Stand meiner Bemühungen.  Mal sehen, wie schnell ich das
+in eine Form bringen kann.  Ich baue auf Common Lisp auf, weshalb ich
+vorher zumindest ein kleines Festplatz für Linux schreiben will.
+
+Ich habe Beugungsfunktionen für die Wortarten geschrieben und damit
+einen Index erstellt, der alle möglichen gebeugten Formen enthält.
+Viel mehr steckt da bisher nicht hinter.
+
+
+Ciao, John

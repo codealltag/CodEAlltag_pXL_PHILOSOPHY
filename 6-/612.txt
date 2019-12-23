@@ -1,0 +1,10 @@
+Logik hat beschreibenden Charakter. Sie ändert keine Wahrheitswerte.
+Und die Beschreibung bezieht sich ausschliesslich auf Operationen mit
+Wahrheitswerten.
+
+pi =3D 6,19 ist eine Struktur mit dem Wert FALSE. TRUE ist (pi =3D 6,19) !
+=3D (pi =3D 3,14).
+
+Du meinst, scheint mir, wenn etwas logisch ist, habe es den
+Wahrheitswert TRUE. Das stimmt nicht. Dann wäre "logisch falsch" ein
+Paradox.

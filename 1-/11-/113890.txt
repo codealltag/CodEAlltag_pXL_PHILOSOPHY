@@ -1,0 +1,35 @@
+This is a multi-part message in MIME format.
+--------------105591865119903817397484
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Lothar Rotthove wrote:
+
+
+Ein wunderbarer Freudscher Versprecher.
+
+
+Danke
+
+mfg Christian
+
+
+--------------105591865119903817397484
+Content-Type: text/x-vcard; charset=utf8;
+ name="bertwerner.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment;
+ filename="bertwerner.vcf"
+
+begin:vcard
+fn:Christian Mergenschröer
+n:Simon
+ryjqv;mpkuqjdg:hofqzimeyz@phdsekc.ae
+30. 12. 18
+30. 12. 18
+30. 12. 18
+version:2.1
+end:vcard
+
+
+--------------040703050901000902070301--

@@ -1,0 +1,28 @@
+Meiner Auffassung (als native speaker des Deutschen) nach nicht.
+Vielmehr glaube ich mit Klaus, dass "blo�_m�glich" im Rahmen eines
+modallogischen Systems auf folgende Weise adäquat definieren werden
+kann:
+
+	()P =df <>P & ~P
+
+	"...möglich, aber nicht wirklich."
+
+Dann würde in der Tat gelten:
+
+	()P |- ~P
+bzw.
+	P |- ~()P
+
+Und man hätte dann (wie von Klaus behauptet):
+
+	P, ()P |- _|_
+
+Ja.
+
+
+L.
+
+--
+
+E-mail: 
+amicus<at>simple<bindestrich>line<punkt>de

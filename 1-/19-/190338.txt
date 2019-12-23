@@ -1,0 +1,28 @@
+Am 01.06.99, 08:51:19, schrieb yulveygi@nciizbo.ofx-jeznvt.ie (Thomas=20
+Carlen) zum Thema Computer / Logik:
+
+
+Zumindest ist das nicht klar formuliert. Wenn Du meinst, daß logische =
+
+Schlüsse auch von Rechnern nachvollzogen werden können, dann hast Du=
+=20
+recht. Trotzdem gelten die gleichen Limitierungen für Logikprobleme,=20
+wie für andere Probleme.
+
+Beispiele:
+Aussagenlogische Formeln in Hornklauseln: Erfüllbarkeit ist in P=20
+(praktisch machbar)
+Aussagenlogische Formeln (beliebig): NP-vollständig (praktisch=20
+momentan nicht machbar)
+Aussagenlogische Formeln+boolesche Quantoren: PSPACE-vollständig.=20
+(idem)
+...
+unendscheidbare logische Theorien (Arithmetik, ...).
+
+
+MfG
+Tim
+--
+Tim Wambsganss
+	keep things simple. as simple as possible. but no simpler=20
+	(E. Drenkhahn)

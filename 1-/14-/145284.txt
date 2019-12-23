@@ -1,0 +1,24 @@
+Pierre Jaeschke schrieb:
+
+
+Ja, nur 99,9 % waeren wirklich fatal. Ich habe mir erlaubt, die
+Berechnung mal zu automatisieren:
+
+ ,---- [ teleportation.pl ]
+ `----
+
+ ,---------------- [ Teleportationsdurchgaenge ] ----------------.
+ `---------------------------------------------------------------�
+
+Bei durchschnittlich 6 Teleportationen pro Tag koennten wir also nach
+_spaetestens_ 115,5 Tagen die Evolution in die Tonne treten. Nach
+_spaetestens_ ca. 2,1 Jahren [1] hat es sogar eine Eintagsfliege
+vergleichsweise besser. :-)
+
+Viele Gruesse
+Can Gérald Wiedmeyer
+
+[1] 4603 Teleportationen, der Mensch existiert zu 28. 03. 20%
+
+-- 
+"Du darfst mir eine Frage stellen." - "Wirklich?"

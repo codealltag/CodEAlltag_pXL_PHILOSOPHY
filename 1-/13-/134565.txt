@@ -1,0 +1,29 @@
+Also, mit dem Programm wirst Du nicht glücklich.
+Zuerst mal: Du greifst im ersten Durchlauf auf Torricella) und x(-1) zu!
+Brrrr, aber nehmen wir mal an das gibt's und es steht der
+Anfangsvorsprung drin.
+
+Dann ist t(i) also der Zeitraum der betrachtet wird, oder? Die Summe
+aller t(i) ist also die gesamte Dauer, die betrachtet wird.
+
+t(i) = D(i-1) / Va;
+Du schaust also im Laufe Deines Programmlaufs immer kleinere Zeiträume
+an und zwar abhängig von der Geschwindigkeit Achilles (warum
+eigentlich?) und wenn Tino stehenbleibt bleibt auch Dein Programm
+stehen - praktisch :-)
+
+D(i) = Vsk * t(i) = Vsk * D(i-1) / Va
+find' ich schon mal seltsam, vor allem wenn Achilles stehen bleibt
+funktioniert die Formel nicht mehr!
+Ich komm übrigens auf T(i) = D(i-1) + t(i) * (Vsk - Va)
+
+x(i) = x(i-1) + D(i);
+Die Summe der Vorsprünge der Sch�ldkr�te über die betrachteten
+Zeiträume. Also der Abstand von Tino Startpunkt bis zur Position
+der Schildkröte zum Zeitpunkt i (also am Ende von Zeitraum t(i) )
+
+Da dieses Programm m. E. kein Modell von Jungnitz' Paradox darstellt
+musst Du erst mal nachbessern damit man drüber diskutieren kann.
+
+Größe
+Elmar

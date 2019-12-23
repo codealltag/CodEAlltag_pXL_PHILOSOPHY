@@ -1,0 +1,19 @@
+Hallo!
+
+Edgar Emmighaus <rbvsmq.xrskialf.jtsdrs@mdk07.akp.zk> schrieb in im
+Newsbeitrag: 3B6015C8.8C5C24CE@mch20.sbs.de...
+
+OK, bezeichnen wir die Elemente mit schwarz, weiß und grau (ist ja vom
+mathematischen Standpunkt her egal, solange nur die Rechenregeln in Körpern
+erfüllt sind, und das sind sie hier).
+
+Du nimmst also an: schwarz*weiss=grau und folgerst daraus:
+schwarz*weiss=schwarz. Da Du Dich immer noch in einem Körper befindest, ist
+das der Widerspruch, den Du suchst, da die Multiplikation eine Funktion von
+zwei Variablen ist, also nicht für ein und diesselbe Multiplikation zwei
+verschiedene Werte herauskommen können. (Ich nehme dabei an, daß Du schwarz
+und grau als verschiedene Farben/Körperelemente betrachtest.)
+
+Größe,
+
+Andre

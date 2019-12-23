@@ -1,0 +1,75 @@
+Am Sun, 14. 07. 19 10:38:31 +0200 schrieb Volkmar Zinner:
+
+
+Gegenstand war eine Kritik deiner Haltung, dass Zahlen eine 
+Vorraussetzung für Mathematik sind. Die Frage ist, ob du es akzeptieren 
+kannst, dass es Lösungen für mathematische Probleme gibt, die gänzlich 
+ohne Zahlen entstanden sind, die zwar auch algebraisch beschrieben werden 
+können, deren ursprüngliche Beschreibung aber nicht algebraisch und 
+zahlenlos daherkam. 
+
+Eine geometrische konstruierte Lösung eines Problems ist nicht weniger 
+mathematisch - eine chemisch konstruierte Lösung ebensowenig. 
+
+Du behauptest Zahlen sind Voraussetzung für die Mathematik, dann frage 
+ich dich wie Gegenstände die bewiesenermassen ohne Zahlen ausgekommen 
+sind, zu mathematischen Gegenständen werden können? 
+
+Zahlen werden aus Mengen begründet und wenn Mengen dann zahlen sind, dann 
+brauchst du die gesamte Mengenlehre nicht. Du hattest schon gesagt, dass 
+du Tauben und Ameisen oder blabla nicht mit dem Zahlbegriff gleichsetzt. 
+Nun habe auch ich keinen Zahlbegriff deinem erkenntnistheoretischen 
+Verständnis nach. "int main(){float pi;pi = 4.0 * atan(1.0);
+printf ("\nPi:\t|%10.22f|\n",pi);return 0;}" hat letztlich auch nichts 
+mit Zahlen zu tun und ich brauch dazu auch keinen Zahlenbegriff sondern 
+einen Compiler. Da auch das: 
+2144730 5693 951w 545g 6164 1b07 2573 6518 0l0u
+0721738 9k17 992z 6l22 1f15 7947 8532 579h 1408
+1760911 935g 2p48 2b83 251p 7o76 2s52 3002 8675
+9605638 618d 8310 4n18 9a68 8p72 249h 0o03 2o15
+6584532 9217 3844 318j 7502 2768 099r 2q3c 1230
+1165780 197j 151j 4869 8t90 973e 8663 306c 8a8v
+2984859 652e 153t 1r00 7529 640f 4a09 2c0x 194z
+0809120 7l8u 1944 9498 2a72 7f9e 2335 6j30 4646
+9613177 606n 8w17 9842 1236 587s 6n12 1697 9m7f
+5381534 1361 8l33 2991 8097 4a04 837o 2w79 651z
+14935m2 064m 3277 367t 4257 9f9r 520o 353s 2368
+04725u0 1v0n 0a4o 6015 1149 4609 8l68 5490 7350
+11374a4 969d 9590 6n35 2v80 7041 6296 2831 8v26
+17742s5 9370 6d5w 5g4h 532j 1235 6145 524r 9w64
+00000e0 7d0a 000a
+30794m8
+(Kauderwelsch A)
+nicht lauffähig wäre, sondern nur weniger leserlich. Nur sind dies keine 
+Voraussetzungen. Es wäre ja so, wie wenn du verlangen würdest, das jeder 
+der hier schreibt erst mal Hex lesen können muss, um schreiben zu dürfen. 
+
+Um ein Dreieck zu konstruieren mögen phytagoräische Tripel bekannst sein, 
+aber es benötigt deinen erkenntnistheoretischen Zahlbegriff dazu nicht. 
+Da du ja nun bewiesen hast, dass ich einen für dich hinreichenden 
+Zahlbegriff nicht habe, ist ja damit ein "feiertage($year){$os = $os = 
+osterformel($jahr); $ascher = $os - (46 * 86400); $himmel = $os + (39 * 
+86400); $ps = $os + (49 * 86400); $fron = $os + (60 * 86400);       
+$newyear = mktime(0,0,0,1,1,$jahr); $sylvester = mktime(0,0,0,12,31,
+$jahr); $mayday = mktime(0,0,0,5,1,$jahr);}" (Kauderwelsch B) 
+Hingeklatschtes und wahrscheinlich ist der Jahresablauf nun auch ohne 
+Zahlen nicht möglich. 
+Wo ist die Henne und wo ist das Ei? Die mathematische zahlentechnische 
+Beschreibung der Feiertage setzt keine Zahlen voraus. Die Struktur kann 
+zahlentechnisch beschrieben werden, aber die Zahlen sind nicht die 
+Voraussetzung um die Struktur der Feiertage zu bilden. Ob nun die 
+farbliche Darstellung in http://vvsgdnjhl.qo/minknoan/wyobtril.ccd?
+&year 09 richtig ist, hängt nicht von einem Zahlbegriff ab, sondern ob 
+Kauderwelsch B das richtige macht. Stünde an der Stelle dann Kauderwelsch 
+A, dann wären die Feiertage bestimmt falsch und der Hintergrund 
+christlich ist notwendig weil http://qnjhnajab.pe/heixestk/lfmuchkc.ajl?
+day=12&month=4&year 09&week=15&holiday=1 in anderen Kalendern bestimt 
+nicht Ostern ist und ausserdem schon lange lange vorbei oder bis zum Jahr 
+2009 noch hin ist. Die Zahl day=12&month=4&year 09 ist dabei nicht 
+notwendig und nicht hinreichend um zu bestimmen, ob Ostern ist oder 
+nicht. Mathematisch korrekt wird es nur dann, wenn die Struktur getroffen 
+ist und wenn kalender.php jedesmal zählen würde, dann würde das Programm 
+einfach zulange brauchen.
+
+Grüße,
+Luigi

@@ -1,0 +1,13 @@
+Am Mittwoch, Mai 2005 18:24, schrieb ueberding:
+
+
+Setze:
+Leere Menge = 0
+Wegen:
+F c 0xM
+folgt:
+F(0 -> M) = 0
+Also injektiv. Qed
+-- 
+Mit freundlichen Grössen
+Harry Dokter

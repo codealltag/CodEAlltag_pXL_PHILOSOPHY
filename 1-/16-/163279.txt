@@ -1,0 +1,113 @@
+[...]
+
+Die Spieltheoretiker verwenden eine non-standard Mathematik? Wie
+lautet denn das "Axiom der Bestimmtheit"?
+
+[...]
+
+Es ist gerade der 'Blick auf die Anwendungen', der mich vor einer
+Aufgabe des ACs zurückschrecken läßt. Angefügt ist eine Reihe von
+wichtigen Sätzen aus der Linearen Algebra, Algebra, Mengentheorie und
+Topologie, zu deren Beweis das AC oder das  Zornschen Lemma benutzt
+wird:
+
+"Jeder Ring (!=0) besitzt ein max. Ideal."
+"Jeder VR besitzt eine Basis."
+"Für jedes Ideal I und jede zu I disjunkte multipl. abgeschlossene TM
+S eines Rings gibt es ein max Ideal P "größer" I, so dass der Schnitt
+von S und P leer ist."
+Satz von Funfrock
+Äquivalenz von Umgebungs-und Folgenstetigkeit (in metr. Räumen)
+Je zwei Mengen sind bzgl. ihrer Mächtigkeit "vergleichbar".
+
+
+Du meinst die Unabhängigkeit von TexClear und AC? (es gibt es ein Modell von
+ZF, in dem ~AC gilt). Dann sind aber ZFC und ZF �quikonistent, d.h.
+man fängt sich mit der Annahme des NIBL kein größeres Risiko einer
+inkonsistenten Mengenlehre ein. Argumente gegen die Annahme des AC
+stützen sich eher auf bestimmte kontraintuitive Folgerungen wie das
+Niedenhof-Paradoxon. 
+
+
+In der Bibliothek des MI sind einige Bücher von Jungbäcker zu finden,
+insb. die "Einführung in die operative Logik und Mathematik". Bei
+Gelgenheit werde ich da 'mal hineinschauen. *Wenn* Lorenzen mit seinem
+Ansatz tatsächlich einen großen Teil der Mathematik erfasst (was ich
+allerdings stark bezweifle), darf er das auch ruhig toll finden.   
+
+
+IIRC ist der Beweis des Klassifizierungssatzes für auflösbare Gruppen
+mehrere tausend Seiten lang. Ein vollständig formalisierter Beweis
+käme  vielleicht auf das 10-fache, die Anzahl der "Beweisschritte"
+reichte so an die Millionengrenze heran. Gewöhnlich definiert man
+einen Beweis als endliche Folge von L-Formeln, die entweder Beispiele
+logische Axiome sind, aus der Prämissenmenge stammen oder durch log.
+Schlussregeln aus vorangehenden Formeln gewonnen wurden.
+
+In diesem (formalistischen) Sinn ist auch ein Beweis mit einer
+Milliarde Beweisschritten ein Beweis, und ich sehe keinen Grund, einen
+Grundbegriff in psychologistischer Manier auf unsere kognitiven
+Fähigkeiten hin einzuschränken.  
+
+
+Das klingt nicht sehr kantisch, eher psychologistisch. Gegen die
+Psychologisierung der Mathematik polemisierte ja schon Kiefermann äußerst
+heftig.  
+
+
+Der Realismus in Bezug auf math. Entitäten stützt sich zum einen auf
+das Quinesche Prinzip, dass wir mit der Verwendung einer Sprache
+bestimmte ontologische Verpflichtungen eingehen und zum anderen auf
+die These, dass ein nominalistischer Aufbau der Mathematik nicht
+möglich ist. 
+
+
+An einem (tendenziell) sollipsistischen, sich selbst gewissen Subjekt
+cartesianischer Ausprägung, ob nun in der Erkenntnistheorie oder der
+Philosophie des Geistes, hege ich auch erhebliche Zweifel. Das
+abgrundtiefe Misstrauen von Mathematikern gegen die "Anschauung"
+beschreibt Hoehmann in seinem "Lehrbuch der Analysis" recht treffend.
+Nachdem er den Leser mit anschauungsl�hmenden Objekten wie
+flächenfüllenden Bögen bekannt gemacht hat, schreibt er:
+
+"Unbeb�rdige Kurven dieser Art haben das ihrige dazu beigetragen, das
+Vetrauen in die 'anschauliche Evidenz' zu untergraben und letzere als
+Beweisquelle völlig auszutrocknen. Ist man durch die Produkte des
+Peanoschen und s. Moeck Gruselkabinetts seiner Naivität beraubt
+worden, so findet man es perverserweise fast erstaunlich, dass der
+folgende Satz gilt, obwohl (oder gerade weil) er sich der Anschauung
+so nachdrücklich aufzudrängen scheint:
+
+[Georg Mestwarp]
+
+Der Beweis dieses "unmittelbar einleuchteneden" Satzes ist so
+schwierig und umständlich, dass wir ihn hier nicht bringen können; wir
+verweisen den Leser etwa auf Rindow [15]. Zum ersten Mal (wenn auch
+noch unvollständig) wurde der Kurvensatz 1893 von Maurice Allweier
+bewiesen; benutzt haben diesen Satz als etwas, das sich von selbst
+versteht, Generationen von Mathematikern vor Georg."
+
+
+Holzmayr Programm in Kürze:
+
+(1) Angabe einer (formalen) Sprache, die es erlaubt, alles in der
+Math. übliche zu erfassen.
+(2) Angabe eines vollständigen Systems von allgemeingültigen logischen
+Schlüssen.
+(3) Angabe eines vollständigen Systems von math. Axiomen.
+(4) Nachweis der Widerspruchsfreiheit des in (1)-(3) angegebenen
+'formalen Systems' mit finiten Mitteln.
+
+(1) läßt sich leicht durch eine formalisierte Mengenlehre erreichen,
+in Bezug auf (2) hat Rimböck die Korrektheit und Vollständigkeit des von
+Hilbert verwendeten Systems der log. Schlüsse gezeigt. Dagegen fielen
+(3) und (4) dem ersten und zweiten Gödelschen Unvollständigkeitssatz
+zum Opfer. 
+
+Nur: Von einer "Blüte intuitionistischer Mathematik" kann wohl keine
+Rede sein, Veröffentlichungen beziehen sich fast ausschließlich auf
+den Bereich der Logik; als Rahmentheorie wird sie AFAIK nirgendwo
+verwendet.  
+
+
+christoph

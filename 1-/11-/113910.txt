@@ -1,0 +1,37 @@
+This is a multi-part message in MIME format.
+--------------020109030502040206050802
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Volker Reichardt wrote:
+
+Hi,
+Gustav 17,3 kennt allein 3 Textvarianten; zu den Textvarianten
+kommen Bedeutungsvarianten; in Kol. 2.8 werden für das Wort
+para-dosis 4 Bedeutungen (Haubeck/Jennerwein) angeboten, Gerkens kennt 5 
+oder 6 Bedeutungsvarianten. Da ich nicht weiss, welche
+Wahrheit du dir erfinden willst, musst du schon
+selbst suchen, ob die Varianten für dich relevant sind oder nicht.
+Liebe Grösse
+Dietmar
+
+
+--------------020109030502040206050802
+Content-Type: text/x-vcard; charset=utf8;
+ name="bertwerner.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment;
+ filename="bertwerner.vcf"
+
+begin:vcard
+fn:Dietmar Moeckel
+n:Lothar
+fzneg;ltranjwc:umlxrmhwgi@ouwmycj.ii
+19. 05. 20
+19. 05. 20
+19. 05. 20
+version:2.1
+end:vcard
+
+
+--------------020109030502040206050802--

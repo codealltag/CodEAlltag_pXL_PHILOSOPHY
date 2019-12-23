@@ -1,0 +1,24 @@
+HAllo Berthold!
+
+Am Sun, 11. 06. 19 16:19:04 +0200 schrieb Berthold Rohrsetzer:
+
+
+Ja, aber darin steckt noch mehr.
+
+Erstens arbeitet die sogenannte Fuzzylogik mit Wahrscheinlichkeiten und
+zweitens zeichnet sich die Sache dadurch aus, daß Klauseln
+(Funktionen) kodiert werden und das System die Lösung sucht.
+
+Für die Berechnung von Wahrscheinlichkeiten brauche ich aber keine
+Fuzzylogik. Ich lege eine Arbeitsbereich von 0..1 fest, und schon ist
+alles fuzzy.
+
+Abbrechen, wenn ein Zwischenergebnis nicht kommt oder einen Ausweichweg
+nehmen. Künfige Entscheidungsprozesse werden das können.
+
+
+Gruß
+Onno                 cPUNKTthuATarcorPUNKTde
+-- 
+"Nach dem Krieg um Sechs beim Kelch -- lieber um halber Siebene -- also scheen,
+komm' ich um Sechs."   Gianni Rootermel

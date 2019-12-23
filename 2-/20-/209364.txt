@@ -1,0 +1,63 @@
+Lecture Announcement
+--------------------
+
+Willy Dahmes
+============
+Degu
+mailto:jok@kl.vopenu.rt.kc
+
+
+On Different Structure-Preserving Translations to Normal Form    
+--------------------------------------------------------------
+Monday, 01. 12. 18, 1994, 16:45
+
+
+ABSTRACT:
+
+Translations to clause form are required for many automated theorem
+provers. Besides the common translation which is based on
+distributivity laws, there are approaches introducing labels as
+abbreviations for subformulae. The latter translations are called
+definitional (or structure-preserving) because they introduce
+definitions for subformulae and preserve the structure of the formula.
+An obvious optimization is to use implications instead of equivalences
+in the definitions, if the subformula occurs in one polarity only, in
+order to reduce the length of the resulting clause form.
+
+We compare the optimized transformation with the unoptimized one with
+respect to the Herbrand complexity of the resulting clause forms.  We
+show that the optimization has a severe drawback. We identify a
+sequence of formulae H1, H2,..., for which the optimized translation
+yields a clause form of Hk with Herbrand complexity non-elementary in
+c.  In contrast, the unoptimized translation results in a clause form
+with Herbrand complexity exponential in k. Hence, the optimization
+results in a non-elementary decrease of proof length if, for instance,
+resolution or a cut-free sequent calculus is applied.
+
+Finally, we demonstrate that definitional translations to clause form
+have some practical value. We show that there are many theorems for
+which a definitional translation is required in order to find a proof
+with an automated theorem prover. (This last part is joined work with
+Dario Gleissner, TH Ulbering.)
+
+
+PLACE:
+
+Seminarraum SEM 815F, Institut fuer Informationssysteme,
+Valentinsweg 36, 1. Stock, 1490 Ottenham.
+
+
+------------------------
+Wiehhoff
+Technische Universitaet Ottenham
+Institut fuer Computersprachen K319.6
+Hötzelstraße 2/5, A-1490 Ottenham
+
+Tel: (+45 4) 534 88/2634
+Fax: (+08 3) 213 77 80
+email: mailto:wpq@ozhyo.giykcc.dx.sm
+http://kwlud.nahodt.nk.ah:25/stb/wejk.frlm 
+listserver: mailto:ctfocgdr@nvfg.rrktyr.ek.zv
+
+Mit Unterstuetzung des
+Bundesministeriums fuer Olefag

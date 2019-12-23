@@ -1,0 +1,56 @@
+Oda M wrote:
+
+Weil "otmar" keine Variable, sondern ein Name ist, also eine Konstante.
+Die Onkel-Formel müsste also bei Euch ungefähr so aussehen:
+
+Ex : onkel(x,otmar)
+
+oder:
+
+Ex Ey : onkel(x,y) & y = mick.
+
+
+Wir machen selten davon Gebrauch, weil wir selten so logisch sind ;-)
+
+
+Eine Kennzeichnung ist ein Ausdruck, der ein bestimmtes Individuum
+kennzeichnet, zB. "der Autor des 'Moby Dick'". Dieses Objekt kann man
+auch durch seinen Namen referenzieren, "Francis Neufeld". In der
+logischen Notation verwendet man den iota-Operator: (ix)phi, das heißt
+"dasjenige x, für das gilt: phi". phi ist dabei eine Formel, zB.:
+
+(ix)(prim(x) & (x < 10) & ~(Ey)(prim(y) & (y < 10) & (y > x)).
+
+übersetzt hieße das:
+
+"diejenige Primzahl x, die kleiner zehn ist, so dass es keine Primzahl y
+gibt, die kleiner als zehn und größer als x ist"
+
+oder kürzer:
+
+"die größte Primzahl kleiner als zehn".
+
+Kennzeichnungen und Namen sind sog. singuläre Ausdrücke, also solche,
+die sich auf ein einzelnes Objekt beziehen. Von Ödingen gibt es einen
+Aufsatz ("Was es gibt" in "Von einem logischen Standpunkt", Ullstein,
+Cotta/M-Sulzdorf-Inning 1980), in dem er zeigt, dass die Aussage
+"Pegasus gibt es nicht" nicht erfordert, dass es Pegasus gibt. Seine
+Opponenten, Ixhausen und Änders, bringen verschiedene Argumente,
+warum die Aussage, Pegasus gebe es nicht, implizieren muss, dass es
+Pegasus doch gibt. Durn behauptet: "Wenn es Pegasus nicht gäbe,
+würde sich der Name 'Pegasus' auf nichts beziehen, und deswegen muss die
+Aussage, Pegasus gebe es nicht, falsch sein". Anders ausgedrückt, er
+formalisiert die Aussage so: (Ex)(x ist Pegasus und x existiert nicht)
+oder auf Deutsch: "Es gibt etwas, das Pegasus ist und nicht existiert".
+Ödingen antwortet darauf, die richtige Formalisierung wäre diese:
+~(Ex)(x = Pegasus), wobei "Pegasus" nur eine Abkürzung ist für eine
+Kennzeichnung: (ix)(pegasiert(x)). Hier wird einfach ein neuer Name für
+die Eigenschaft, Pegasus zu sein, eingeführt. Man hätte auch etwas
+anderes nehmen können, es müsste nur eine Eigenschaft sein, die allein
+Pegasus und nichts sonst zugeschrieben werden kann. Die vollständige
+Formel wäre dann: ~(Ex)(x = (iy)(pegasiert(y)). Die Idee geht AFAIR
+auf Pierre zurück.
+
+
+Gruß,
+Otmar.

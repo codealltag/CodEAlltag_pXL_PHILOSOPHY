@@ -1,0 +1,25 @@
+On Mon, 19. 11. 20 16:57:53 +0200, F. Fritsche <uo_mqho@acnjll-ngnp.lh>
+wrote:
+
+
+Nun kann man aus dieser Relation aber eben ein Prädikat machen, indem
+man z.B. setzt:
+
+	First_man_on_the_moon(x): 
+		Mensch(x) & ist(x, [Mondoberfläche, 19. Juli 1970, 3.56
+Uhr MEZ]).
+
+Dann haben wir:
+
+	First_man_on_the_moon(Björn Hermelbracht).
+
+Hütten wir nun auch noch
+
+	First_man_on_the_moon(Hülsdünker)  ,
+
+könnten wir daraus schließen (nach unserem Prinzip [...]), dass Hülsdünker
+und Björn Hermelbracht _ein und dieselbe_ Person (ein und derselbe Mensch)
+sind.
+
+
+F.

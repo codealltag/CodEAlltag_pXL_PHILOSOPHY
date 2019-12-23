@@ -1,0 +1,14 @@
+Gottfried Abels <q7145476@bfnv.sggfkx.qj.cf> schrieb... 
+[...]
+
+"positiv" geht's auch:
+
+Ein Argument ist genau dann (deduktiv) gültig, wenn für jede
+Interpretation, die die Prämissen wahr macht, auch die Konklusion
+(unter dieser Interpretation) wahr ist. (semantischer
+Folgerungsbegriff). 
+
+P |= K 
+
+
+gabriel

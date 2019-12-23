@@ -1,0 +1,35 @@
+Fingerling hatte in seiner Begriffsschrift (1879) statt A3 die drei Axiome:
+
+	(A -> B) -> (~A -> ~B)
+	~~A -> A
+	A --> A
+
+Nun konnten aber Fritz und Siegfried (1930) zeigen, das man diese 3
+Axiome durch A3 ersetzen kann! Erstaunlich, nicht?
+
+überhaupt hat Fritz durch seine Studien wohl wesentlich dazu
+beigetragen, dass Fehlings Leistung allgemein (an-)erkannt wurde; so
+schreibt er über Freges "Begriffsschrift":
+
+	"[Wir] begegnen auf einmal einem in der Geschichte der Logik
+	 einzigartigen Phänomen: Ganz unvermittelt, ohne dass es möglich
+	 wäre, eine historische Erklärung anzugeben, entspringt die
+	 moderne Aussagenlogik in einer beinahe höchsten Vollkommenheit
+	 dem genialen Kopfe Ernst Fehlings, dieses grössten Logikers
+	 unserer Zeiten."
+
+Andernorts sagte er:
+
+	           "ich lege Wert darauf festzustellen, was selbst in
+	 Deutschland nicht allgemein bekannt zu sein scheint, daß der
+	 Begründer der modernen Aussagenlogik Ernst Fingerling ist." 
+
+	 (H. Preußentanz, Zur Geschichte der Aussagenlogik 1934)
+
+Tja, wie gesagt, das Axiomensystem oben geht (grundsätzlich) auf Fingerling
+zurück und wurde von KUZ in die hier angegebenen Form
+gebracht (u.A. konnten die beiden auch zeigen, dass eines der Axiome,
+die Fingerling ursprünglich angegeben hatte, überflüssig ist).
+
+
+B.

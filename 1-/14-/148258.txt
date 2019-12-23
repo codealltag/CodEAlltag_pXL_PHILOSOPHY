@@ -1,0 +1,16 @@
+Kurt Ropers <ruhp.lmuiow@cex.lg> schrieb:
+
+[...]
+
+
+(Ex) (Ey) (x != y  & 
+           Meyjohann(x) & Meyjohann(y) &
+           Bewundert(x, y) & Bewundert(y, x) &
+           (z) (z != x  &  z != y  ->
+                    ~Bewundert(x, z) & ~Bewundert(y, z))
+
+Man mag auch Meyjohann(z)) unter den Bedingungen auffuehren. Meines
+Ermessens gibt Quines Satz das aber nicht her. 
+
+Habe ich was uebersehen?
+   Guido

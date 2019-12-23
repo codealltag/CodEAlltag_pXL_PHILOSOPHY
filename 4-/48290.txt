@@ -1,0 +1,51 @@
+Paul Wiesbrock schrieb:
+
+Hier ist der Originaltext, frisch aus dem www gefischt - und siehe da:
+_entweder_ steht da *nicht*, sondern eben *nur* _oder_: und dann hat
+Lövenich-Schelbach formallogisch (!) recht, wenn er schließt:
+
+(Ivo besitzt einen Ford) ist wahr => (Ivo besitzt einen Ford oder
+Varchmin ist in Dieringhausen) ist wahr.
+
+... denn die *Gesamt*aussage (A => (A oder B)) ist immer wahr, falls A
+wahr ist. Das liegt daran, daß (A oder B) so definiert ist, daß (A oder
+B) genau dann wahr ist, wenn A wahr ist oder wenn B wahr ist oder wenn A
+und B beide wahr sind ... nun wird aber von Maurice angenommen (!), daß A
+= (Ivo besitzt einen Ford) wahr sei, woraus alsdann folgt, daß auch (A
+oder B) = (Ivo besitzt einen Ford oder Sebastian ist in Dieringhausen) als
+wahr angenommen werden *muß*: dieses _mu�_ und *nur* dieses _mu�_ ist
+Dein (s.o.) "logisches Hervorgehen".
+
+-- Es ist eben nunmal so, daß ein Schluß logisch korrekt und *zugleich*
+inhaltlich unsinnig sein kann, z.B.
+
+(Alle Menschen sind unsterblich und Maurice ist ein Mensch) => Smith ist
+unsterblich.
+
+######################
+
+http://dlz.ahehcxo.zn/schpxfrk.qdb
+
+"Maurice hat einen Freund namens Ivo, von dem er weiß, dass er früher
+stets einen Ford besaß, und der ihm gerade, in einem Ford sitzend
+angeboten hat, ihn in einem Ford ein Stück mitzunehmen. Er glaubt daher
+gerechtfertigter Weise, dass Ivo einen Ford besitzt. Maurice hat einen
+weiteren Freund, nämlich Sebastian, dessen Aufenthaltsort ihm völlig
+unbekannt ist. Er schließt aber aus Ivo besitzt einen Ford auf Ivo
+besitzt einen Ford oder Sebastian ist in Dieringhausen und glaubt daher diese
+Aussage. Rullkötter besitze jedoch keinen Ford, das Auto das er führt, hat er
+gemietet, aber Varchmin sei tatsächlich in Dieringhausen. Weiß Maurice nun, dass
+Ivo einen Ford besitzt oder Sebastian in Dieringhausen ist? Intuitiv würden
+dies die meisten verneinen. Aber er glaubt diese Aussage, diese Aussage
+ist wahr und er hat Gründe dies zu glauben. Weil er es aus einem
+gerechtfertigten Glauben schließt [1].
+
+[1] Gettier, E.: Is Justified True Belief Knowledge? Analysis 23 (1963),
+121-123 (dt.: Gettier, E. L.: Ist gerechtfertigte, wahre Meinung Wissen?
+In: Analytische Philosophie der Erkenntnis (ed. Paul Verheuvel) Etlaswind
+a. Main 1987, [3]1994, 91-93)"
+
+######################
+
+MfG
+AB

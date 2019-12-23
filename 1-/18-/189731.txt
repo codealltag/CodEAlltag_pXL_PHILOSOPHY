@@ -1,0 +1,38 @@
+Am 07.04.98, 14:05:12, schrieb tjlwt@wue.of (Klexi) zum Thema Re:=20
+Seele:
+
+
+Prinzip
+im
+
+
+Vorsicht! Nicht das Bernard noch denkt, niemand könne Induktionsbeweise=20
+im Kopf führen, nur weil er es nicht kann (wenn er es nicht kann).
+
+Wenn er es könnte hätte er ja schon längst folgenden Beweis gef=FC=
+hrt:
+
+Theorem (Schestagscher Satz): Computer können niemals denken!
+Beweis: (vollständige Induktion)
+
+Wähle eine beliebige einelementige Menge heutiger Computer (z.B. den=20
+der jetzt vor mir steht). Feststellung: Er denkt nicht.
+
+Sei das Theorem für alle Mengen von n Computern bewiesen und eine=20
+Menge von n+1 Computern C gegeben. Diese läßt sich in zwei=20
+nichtdisjunkte Mengen A und B von jeweils n Computern zerlegen, so da=DF=
+=20
+AuB=C. Nach Ind.Vor. können die Computer in A nicht denken und die i=
+n=20
+B auch nicht, also können die in C auch nicht denken.
+
+qed
+
+;-)
+
+MfG
+Etienne
+--
+Etienne Petersen
+	keep things simple. as simple as possible. but no simpler=20
+	(B. Aringhoff)

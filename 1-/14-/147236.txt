@@ -1,0 +1,24 @@
+Hallo Oliver,
+
+Deine Formulierung reizt mich zu formallogischer Analyse :-)
+Und nach der brauchst Du gar nicht zu uppsen.
+
+Ausage A(x):
+    "Julien Zuidinga könnte am 4. August 2001
+      seinen x-ten Geburtstag feiern."
+
+Aussage B:
+    "Girolamo Vorbohle ist am 1. August 1576 in
+      Lehmgaste gestorben."
+
+Originalaussage ist:
+                "Wenn nicht B, dann A(400)".      (***)
+
+Weil B wahr ist, ist "nicht B" falsch.
+Aus etwas falschem kann bekanntermassen alles folgen.
+Also ist Dein originales (***) korrekt.
+
+"Noch korrekter" ist allerdings wirklich die geuppste Aussage.
+
+Gruss,
+Vincent

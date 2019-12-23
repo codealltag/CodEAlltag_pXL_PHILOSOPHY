@@ -1,0 +1,25 @@
+Sorry, nein. Das wäre ja unlogisch. Wahrheitswerte sind Aussagen auch in
+mehrwertigen Logiken eindeutig zugeordnet, keinesfalls ist es so, dass
+in mehrwertigen Logiken eine Aussage gleichzeitig zwei Wahrheitswerte
+besitzen könnte.
+
+
+Doch, ist es. Auch in der Fuzzy Logic.
+
+
+Damit wäre das Modell unbrauchbar da widersprüchlich. Wozu sollte man
+das wollen?
+
+Und komm mir nicht mit Aspekten, das sind schlicht mehrere Modelle. Das
+bedeutet, ein Wahrheitswert wäre eben ein Vektor, aber auch weiterhin
+hätte jede Aussage einen eindeutigen Wahrheitswert.
+
+
+Im Gegenteil. Natürliche Sprache folgt keiner formalen Grammatik,
+logisch ist sie aber durchaus in dem Sinne, dass sie mit Logik gestaltet
+würde.
+
+Viele Grüsse,
+VB.
+-- 
+Bitte beachten Sie auch die Rückseite dieses Schreibens!

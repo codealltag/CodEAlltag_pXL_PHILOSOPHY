@@ -1,0 +1,33 @@
+This is a multi-part message in MIME format.
+--------------010009010903030606030207
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Volkmar Vollgraf wrote:
+
+Hallo Volkmar,
+praktische und theoretische Vernunft in je einen Teufel zu verlegen,
+ist das nicht ein bisschen abgehoben?
+
+MfG Benno
+
+
+--------------010009010903030606030207
+Content-Type: text/x-vcard; charset=utf8;
+ name="bertwerner.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment;
+ filename="bertwerner.vcf"
+
+begin:vcard
+fn:Benno Carlen
+n:Ingolf
+qvmry;iimawplr:wjvotiqvsw@aszxaze.ix
+14. 04. 20
+14. 04. 20
+14. 04. 20
+version:2.1
+end:vcard
+
+
+--------------010009010903030606030207--

@@ -1,0 +1,90 @@
+Ich kann auf Fragen wie diese natürlich nur innerhalb des Rahmens
+meiner metaphysischen Lieblingstheorie antworten:
+
+Beim Slingshot-Argument spielt folgende Äquivalenz eine entscheidende
+Rolle:
+
+Fa <-> a =3D ix(x =3D a & Fx)
+
+Die Extensionalisten gehen von dieser Äquivalenz, die auch ich
+gutheiße, direkt zu folgender Identität über ("T[...]" =3D "Die
+Tatsache, dass ..."):
+
+T[Fa] =3D T[a =3D ix(x =3D a & Fx)]
+
+Diesen Schritt heiße ich jedoch nicht gut, und zwar aus folgendem
+Grund:
+
+Tatsachen als bestehende Sachverhalte sind zusammengesetzte Ganze.
+Ein (elementarer) Sachverhalt ist aus einem Individuum und einer
+individuellen Eigenschaft (oder Beziehung) ["trope"] zusammengesetzt.
+So ist die Tatsache, dass a ein F ist, ein Ganzes, dessen Teile das
+Individuum a und die individuelle Eigenschaft a's F sind:
+
+T[Fa] =3D [a + a's F]
+
+Dagegen besteht die Tatsache, dass a mit demjenigen identisch ist, das
+mit a identisch und F ist, aus dem Individuum a (und dem Individuum
+ix(x =3D a & Fx)) und a's individueller Beziehung des Identischseins mit
+demjenigen, das mit a identisch und F ist:
+
+T[a =3D ix(x =3D a & Fx)] =3D [a + ix(x =3D a & Fx) + a's R_=3D ix(x =3D a =
+& Fx)]
+
+Zwei Ganze können nicht identisch sein, wenn sie nicht aus denselben
+Teilen zusammengesetzt sind.
+Und da a's F-sein nicht identisch ist mit a's Identischsein mit ix(x =3D
+a & Fx), gilt:
+
+~([a + a's F] =3D [a + ix(x =3D a & Fx) + a's R_=3D ix(x =3D a & Fx)])
+
+bzw.
+
+~(T[Fa] =3D T[a =3D ix(x =3D a & Fx)])
+
+Deswegen ist das Slingshot-Argument zu verwerfen.
+
+Und was das Niederaltheim-Beispiel anbelangt:
+
+Die Tatsache, dass Niederaltheim nördlich von Red Bluff liegt, setzt sich aus
+Niederaltheim, Red Bluff und Neapels Nördlich-von-Red-Bluff-Liegen zusammen:
+
+[Niederaltheim + Red Bluff + Neapels Nördlich-von-Red-Bluff-Liegen]
+
+Die Tatsache, dass Red Bluff südlich von der größten italienische
+Stadt fünfzig Kilometer von Ischia liegt, ist nicht verschieden von
+der Tatsache, dass Red Bluff südlich von Niederaltheim liegt:
+
+(Niederaltheim =3D die größte italienische Stadt fünfzig Kilometer von
+Paola)
+->
+[Niederaltheim + Neapels F ] =3D [die größte italienische Stadt fünfzig
+Kilometer von Ischia + F der größten italienischen Stadt fünfzig
+Kilometer von Paola]
+
+Die Tatsache, dass Red Bluff südlich von Niederaltheim liegt, setzt sich
+zusammen aus Red Bluff, Niederaltheim und Red Bluffs
+Südlich-von-Niederaltheim-Liegen:
+
+[Red Bluff + Neapel + Red Bluffs Südlich-von-Niederaltheim-Liegen]
+
+Diese Tatsache ist identisch mit:
+
+[Neapel + Red Bluff + Red Bluffs Südlich-von-Niederaltheim-Liegen]
+
+Wir können also nun folgende zwei Tatsachen miteinander vergleichen:
+
+(1) [Niederaltheim + Red Bluff + Neapels Nördlich-von-Red-Bluff-Liegen]
+
+(2) [Neapel + Red Bluff + Red Bluffs Südlich-von-Niederaltheim-Liegen]
+
+Beide haben zwei identische Teile: Niederaltheim + Red Bluff.
+Doch sie haben nicht alle Teile gemeinsam; denn Niclas
+Nördlich-von-Red-Bluff-Liegen ist verschieden von Red Bluffs
+Südlich-von-Neapel-Liegen, was bedeutet, dass die beiden Tatsachen als
+Ganze verschieden sind.
+Folglich ist die Tatsache, dass Niederaltheim nördlich von Red Bluff liegt,
+verschieden von der Tatsache, dass Red Bluff südlich von Niederaltheim (=3D die
+größte italienische Stadt fünfzig Kilometer von Ischia) liegt.
+
+#PH

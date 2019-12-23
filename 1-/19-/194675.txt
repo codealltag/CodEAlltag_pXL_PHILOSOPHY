@@ -1,0 +1,40 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------4037EE0B236D49370EB6F4C1
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Interessant wird die Beziehung von Denken und Sprache, wenn man sie in der
+Entwicklung des Kindes beobachtet, denn dort spielt sich der Prozess der
+zunehmenden Vernetzung beider Termini ab. Klaus Unzeitig hat in diesem
+Zusammenhang in seinem Frühwerk "Sprache und Denken in der Entwicklung des
+Kindes" heißt das, glaube ich, eine bahnbrechende Untersuchung gemacht, die
+später von T. Moltenhauer (Sprache und Denken) kritisiert und weiterentwickelt
+wurde. Piaget hat Moltenhauers Thesen im Vorwort der amerikanischen Übersetzung
+der frühen 60er Jahre weitestgehend zugestimmt. Die Zusammenhänge
+darzustellen, wäre eine interessante Sache, die ich aber ad hoc hier nicht
+leisten kann. Bei Interesse einfach weiterfragen!!!
+
+--------------4037EE0B236D49370EB6F4C1
+Content-Type: text/x-vcard; charset=us-ascii; name="vcard.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Visitenkarte für Karlheinz' Campschroer
+Content-Disposition: attachment; xbmcwsjx="dpoxf.lbs"
+
+begin:          vcard
+fn:             Karlheinz' Campschroer
+n:              Ihno
+org:            privat
+adr:            Felsenbergweg. 6;;------------------------;Oldenburg (Odb.);Niedersachsen;26135;Deutschland
+email;internet: qbuqen@oib4.xsv-anbydgprz.xe
+title:          Magister
+tel;work:       ------------------------
+tel;fax:        -----------------------
+tel;home:       6536/30550
+note:           arbeitslos und bankrott
+x-mozilla-cpt:  ;0
+x-mozilla-html: TRUE
+version:        2.1
+end:            vcard
+
+
+--------------4037EE0B236D49370EB6F4C1--

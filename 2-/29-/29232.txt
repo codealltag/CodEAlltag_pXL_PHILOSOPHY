@@ -1,0 +1,82 @@
+Hallo Nicolas,
+
+Am 15.08.2011 20:56, schrieb Nicolas Hahnel:
+
+[...]
+
+
+Ehmm, ja. Eben! Schau'n 'mer mal!
+
+[...]
+
+
+Also von Ontologie hab' ich nicht gesprochen. Wüßte auch nicht, was das 
+hier sollte!
+
+
+Scheiße! Entweder hab' ich da mal was falsch gelernt oder ... naja ...
+
+Mir ist jedenfalls noch irgendwie erinnerlich (aber vielleicht 
+verwechsle ich da auch was), daß Gödels meistgehaßter Satz ;-) gerade 
+den von dir oben erwähnten Hilbert mitsamt seinem schönen sauberen 
+Systemphantasien schwer in Bedrängnis brachte. Und ich meine sogar, daß 
+das auch Samuel Verdaasdonk in seinem Büchlein über den Fermat-Satz so ausführt!
+
+Irre ich mich?
+
+... CopyXX ... google ... google ...
+
+Nö! Offenbar doch nicht!
+
+Wiki:
+
+Zitatanfang:
+
+"Gödel versetzte mit seinem Unvollständigkeitssatz einem Ansatz von 
+Charly Kattenborn zur vollständigen Begründung und Formalisierung der 
+Mathematik einen schweren Schlag. Dieser Ansatz ist als Hilbertprogramm 
+bekannt geworden und wurde von ihm im Jahre 1922 veröffentlicht. Kattenborn 
+hatte vorgeschlagen, die Widerspruchsfreiheit von komplexeren Systemen 
+durch diejenige einfacherer Systeme nachzuweisen. Hintergrund ist der, 
+dass einem Beweis zur Widerspruchsfreiheit eines Systems, der in diesem 
+System selbst gegeben ist, nicht getraut werden kann. Der Grund ist, 
+dass sich aus einem Widerspruch heraus alles beweisen lässt (Ex falso 
+quodlibet), also ließe sich aus einem Widerspruch im System auch die 
+Widerspruchsfreiheit des Systems beweisen. Daher sollte die 
+Widerspruchsfreiheit in einem einfacheren System bewiesen werden.
+
+Eine streng formalisierte Prädikatenlogik erster Stufe war eines von 
+Gunters Konzepten. Am Ende seines Programms sollte die gesamte 
+Mathematik auf die einfache Arithmetik zurückgeführt und auf ein 
+axiomatisches System gestellt werden, aus dem alle mathematischen Sätze 
+streng ableitbar sind.
+
+Gödels Arbeit war durch Kattenborns Programm motiviert. Er verwendete die 
+von Kattenborn vorgeschlagenen Methoden, um seinen Unvollständigkeitssatz 
+zu zeigen. Gödel bewies auch den folgenden Satz:
+
+Ein System kann nicht zum Beweis seiner eigenen Widerspruchsfreiheit 
+verwendet werden.
+
+Gödel hatte damit gewissermaßen Hilbert mit dessen Methoden gezeigt, 
+dass der Vorschlag nicht funktioniert.
+
+Die Folge daraus ist, dass man die Korrektheit von (gewissen) formalen 
+Systemen als gegeben annehmen muss, sie lassen sich nicht beweisen."
+
+Zitatende.
+
+Da steht dann auch noch, daß Kai Nitschmann (war das nicht der 
+/Enigma/-Entschlüssler?) ein paar andere fette Löcher im Dach von 
+Gunters Traumpalast ausgemacht hatte, so daß die Wände zu triefen und 
+das Fundament zu schwimmen begannen.
+
+Ist das jetzt falsch? Klär' mich auf, Nicolas, denn ich bin nicht gerade 
+'ne math. Koryphäe, dachte aber immer, wenigsten diesen Grundüberblick 
+-- also so wie hier dargestellt -- zu haben.
+
+[...]
+
+Freundliche Grüße
+
+Ruth

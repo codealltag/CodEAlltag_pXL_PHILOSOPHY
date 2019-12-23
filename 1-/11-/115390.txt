@@ -1,0 +1,33 @@
+This is a multi-part message in MIME format.
+--------------090509070900050007030601
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Reinhold Baerend wrote:
+Hi,
+
+ich bin mir nicht sicher, ob man Vernunft, so einfach mit Kraft
+verknüpfen kann. Ich muss mal hirnen.
+
+Grösse Kay
+
+
+--------------090509070900050007030601
+Content-Type: text/x-vcard; charset=utf8;
+ name="bertwerner.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment;
+ filename="bertwerner.vcf"
+
+begin:vcard
+fn:Kay Panholzer
+n:Thorsten
+etwhn;pxjizesr:yvibwyjnng@wcqdnim.ue
+14. 03. 19
+14. 03. 19
+14. 03. 19
+version:2.1
+end:vcard
+
+
+--------------090509070900050007030601--

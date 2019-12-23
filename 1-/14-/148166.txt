@@ -1,0 +1,13 @@
+Ihno Wurtscheid <ewhvht.imyuns@ede.pa> writes:
+
+Kleine Korrektur: 
+
+(Ex) ( x subset {y| Künstler(y)} & 
+         {(y,z) | y in x  & Bewundert(y,z) } = 
+                 (x times x)\{(y,y)| y in x}
+
+
+Ich hoffe, jetzt stimmt's.
+
+
+ihno

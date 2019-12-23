@@ -1,0 +1,19 @@
+:> Wenn Du unendlich durch zwei dividierst, erhaelst du wiederum unendlich.
+:>
+:> Ist das ueberhaupt teilbar? D.h. wenn unendlich mit menschlichen 
+:>Vorstellungen nicht fassbar ist, wie denn erst das ganze quasi doppelt 
+: Es fehlt dabei doch jedes Entscheidungskriterium.
+
+Wie in dieser Newsgroup ueblich, ergeht man sich in wilden
+Spekulationen ueber Dinge, von denen man keine Ahnung hat.
+Zur Klaerung der Frage, wie man fuer gewoehnlich Arithmetik mit
+transfiniten Kardinalitaeten betreibt, schaue man in ein
+Mengenlehrebuch. Es gibt auch ganz verschiedene Unendlichkeiten:
+zum Beispiel abzaehlbar unendlich und nichtabzaehlbar unendlich.
+
+Ich darf verraten:
+
+ U / f = U
+
+fuer jede unendliche Kardinalitaet U und jede natuerliche (finite) Zahl
+f (ausser Null).

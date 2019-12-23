@@ -1,0 +1,19 @@
+Hallo Nane,
+
+Nane Oestereich <Obzm@f-fsoinhjqd.ke> schrieb im Beitrag
+<12suet16.91037719@lods.u-yphcoqane.ny>...
+
+<Schnipp>
+
+
+Genau das `bis in alle Ewigkeit...' ist, laut Elfriede, die philosophisch
+interessante Seite der Frage, alles andere ist bloss Logik.
+Ueberraschenderweise kann man naemlich unter gewissen Umstaenden in einem
+*Kontinuum* beliebig viele positive Werte addieren, und erhaelt trotzdem
+etwas Endliches: 1 + 1/2 + 1/4 + 1/8 + .. = 2. Es spricht also Nichts
+dagegen, dass es eine Turing- Maschine gibt, die die erste Operation in 1s,
+die zweite in 1/2 s, die dritte in 1/4s usw. erledigt, (alles positive
+endliche Groessen) und die fuer diese unendlich vielen Operatione doch
+bloss 2s benoetigt. So eine Maschine kann das Halteproblem loesen.
+
+<Schnipp>

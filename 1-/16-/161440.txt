@@ -1,0 +1,16 @@
+On Sun, 5 Apr 2000 07:50:09 +0100, Gilbert Altkemper
+
+(Hier sollte es übrigens "habe ich allerdings noch nicht gefunden"
+heissen)
+
+
+Heisst, ein
+
+if (Sensor[x].Temperatur > 5ß)
+{
+  Irgendeine_Gegenmassnahme(...);
+  Analysiere_Situation(&Die_Situation);
+  Meide_Situation_In_Zukunft(&Die_Situation)
+}
+
+ist im Prinzip menschlichem Schmerz ebenbürtig?

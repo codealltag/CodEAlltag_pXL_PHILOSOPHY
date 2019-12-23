@@ -1,0 +1,9 @@
+trcvejtaaguhf@hjs.rjc (LotharArendes) schrieb... 
+[...]
+
+Entweder ist das "Feld" "kontinuierlich" oder nicht. Da du das "Feld"
+in einer Dingeling anführen möchtest, muss es zumindest einmal (stetig)
+differenzierbar sein, d.h. es kann sich _nicht_ sprunghaft ändern.
+
+
+knut

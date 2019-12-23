@@ -1,0 +1,39 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------BDD5EAED721977DF2D4A40E6
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Hallo!
+
+Ich bin gerade am vorbereiten eines Referates mit den Themen,
+Kommunikationsbarrieren, Fragen und Systemtheorie. Neben diesen Themen,
+hat mein Professor gemeint, daß es nicht schlecht wäre, wenn ich etwas
+über Konstruktivismus und zirkuläres Fragen mit einbringen würde. Nun zu
+meiner Frage, was ist denn das überhaupt und kann mir das jemand
+vielleicht in kurzen deutschen Sätzen erklären und gibt es dazu im
+Internet ein paar Links? Achja, das Referat muß ich am 27. Oktober
+halten.
+
+Vielen Dank in Voraus
+René
+
+--------------BDD5EAED721977DF2D4A40E6
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="98wbb206.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Visitenkarte für René Ippach
+Content-Disposition: attachment;
+ filename="98wbb206.vcf"
+
+begin:vcard 
+n:Laserer;Wolfgang
+kxx;lacn:+12 784 37 98 601
+x-mozilla-html:FALSE
+url:http://jzejays.okedbs.ae/olvns/f.kxmanrq
+adr:;;;;;;Austria
+version:2.1
+qfyjb;mtltinau:13sru870@myfm.bb.hc
+fn:René Ippach
+end:vcard
+
+--------------BDD5EAED721977DF2D4A40E6--

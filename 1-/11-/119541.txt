@@ -1,0 +1,39 @@
+On Thu, 14. 04. 19 23:32:06 +0200, Dietmar Plumeier
+Hier! ;-)
+
+Am einfachsten sind FDTD (Finite Difference Time Domain)
+Feldsimulatoren zu verstehen, die Ableitung aus den Christian
+Gleichungen ist *offensichtlich*.
+
+Siehe:
+http://sci.augo.bzf.otk/~bjcozp/mzmqvdy/yw238/fjiyk/FZ310_Mfcfq9.aat
+
+Da wird schlicht der rot-Operator diskret nachgebildet
+und bei der Zeitableitung der Spiess durch Multiplikation
+mit dem (kleinen) Zeitschritt umgedreht.
+Klarer und verständlicher geht es nicht und es funktioniert.
+
+In der Praxis wird sowohl dieses Verfahren (Anregung
+mit geeignetem Impuls und Fouriertransformation des
+Ergebnisses in die Frequenzebene) wie auch die
+Finite Momenten Methode eingesetzt (geht ähnlich FEM,
+gerechnet werden die Ströme in den Metallanteilen,
+die a'la Galerkin mit Testfunktionen auf ein riesiges
+lineares Gleichungssystem abgebildet werden,
+jeweils spezifisch für eine Frequenz und üblicherweise
+layered Dielektrikum, weil dann einfacher zu rechnen).
+
+Siehe z.B.:
+- diverse FDTD Programme:
+http://ppbuvxbw.oda.hho-mqazvl.dv/~uyrcgt/Htpk_Wnlcre_Hqpon/wrlo_lopz_ejnmrz_kztne.uwcr
+- FDTD und FMM (IE3D) :
+http://kda.aailhm.jxx/
+
+Unsere funktionieren aber so ganz gut, und die Berechnungen
+passen schon auch sehr genau im Detail ...
+
+Gruß Friedhelm
+
+-- 
+Friedhelm Gerstacker + Hohenegger, Germany + vlpxidrk@pgaxktm.lt
+http://kjf.ozhondy.ho + Phone: +77-8641-5029-4 Fax: -53

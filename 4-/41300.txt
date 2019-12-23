@@ -1,0 +1,139 @@
+Das kann ich Dir gerne erläutern, ich hatte jahrelang einen Kunden, ein
+Ingenieurbüro, das genau das macht. Ich hab das ja nicht nur einmal
+miterlebt.
+
+
+Entweder geht es um die Versorgung in Form einer Erschliessungsplanung,
+oder um den Ausbau eines bestehenden Netzes. In jedem Falle wird der
+Bedarf nach oben abgeschätzt und dann ein System konstruiert auf Grund
+von Schätzwerten, das diesen Bedarf befriedigt, indem es die dafür
+notwendigen technischen Eigenschaften hat.
+
+Dann wird simuliert und dadurch festgestellt, ob die Simulationswerte im
+Rahmen der zu gewährleistenden Spezifikation bleiben.
+
+Wasserversorgung macht man mit Druckleitungen. Hier muss man das
+konkrete System nur bis zu einem gewissen Grad auskonstruieren, so dass
+sich Aussagen treffen lassen. Bei der Entsorgung hat man üblicherweise
+Kanäle. Hier muss man beinahe vollständig auskonstruieren, bis man
+wirklich aussagekräftig wird (man möchte ja möglichst wenig Boden
+bewegen, um die Kanäle anzulegen, entsprechend ist ein Geländemodell
+sehr hilfreich, und nutzt man das, wird gleich konstruiert).
+
+
+Das ist nicht richtig. Die Planung der Baudurchführung ergibt sich aus
+dem konstruierten System. Wie man von Ist- zu Sollzustand kommt, sind
+die zu planenden Tätigkeiten, die dann ausgeschrieben werden.
+
+
+Auch da liegst Du falsch. Konstruktionsprozesse kann man deshalb so hoch
+automatisieren, weil sie sehr stark algorithmisch sind. Ich habe mich
+damit jahrelang beschäftigt, solche Prozesse zu automatisieren, das ist
+das, was man vernünftigerweise in einem CAD-System macht. Das ist ja
+kein digitales Zeichenbrett (obwohl es immer noch viele Leute gibt, die
+ihre CAD nicht automatisieren, obwohl eben eine Menge entscheidbarer
+Probleme vorliegen).
+
+
+Öhm... nö ;-) So einfach ists nicht.
+
+
+Das sehe ich völlig anders.
+
+
+So wird kein mir bekannter Ingenieur, der was auf sich hält, vorgehen.
+
+
+Aha. Sieh mal an. Wie denn? ;-)
+
+
+Das ist sicher polemisch formuliert. Aber das, was ich selber an der
+Schule erleben durfte, das, was ich in meiner Verwandt- und
+Bekanntschaft mitkriege, letztendlich, dass ich seit Jahren
+katastrophale Mathematikleistungen bei meinen Studenten bekomme (vor
+zehn Jahren war das noch nicht so), lässt mich Schlüsse ziehen.
+
+
+Na, prima.
+
+Falls das stimmen sollte, müsste man der langen Liste von Problemen in
+unserem Schulsystem also noch einen wesentlichen Punkt hinzufügen.
+
+
+Nee, nach Erfahrung in dem Bereich.
+
+
+Das bringt mich auf eine Idee: was hältst Du davon, wenn wir hier eine
+Diskussion anstossen, was für eine wissenschaftliche Theorie notwendige
+Bedingungen sind, und was man unter diesem Begriff versteht?
+
+Denn ich habe hier klare Vorstellungen. Insofern hast Du recht, die
+"Mustertheorie" passt da nicht rein. Sie entspricht dem Anspruch an
+Wissenschaftlichkeit nicht, den ich habe.
+
+
+Das war aber doch Deine Definition. Oder Du hast wieder keine vorgelegt.
+
+
+Dann wäre ein System schlicht eine Klasse, eine Menge oder, falls Du
+"ausserhalb" geometrisch meinst, ein Gebiet.
+
+
+Warum nicht?
+
+
+Das wär echt mal eine gute Idee, sich damit zu beschäftigen, weil man
+sonst wie gesagt völlig aussagelos bleibt, will man Schlüsse ziehen.
+
+
+Jetzt machst Du's schon wieder. Du hast noch gar keine klare Vorstellung
+davon, was ein System überhaupt ist, sprichst aber schon über offene und
+geschlossene Systeme. So wird das doch nix.
+
+
+Ein offenes System ist ein System, in dem es Variablen gibt, deren
+konkrete Belegung von Variablen ausserhalb des Phasenraumes abhängt,
+wäre eine passende Definition. Tatsächlich ziehe ich es vor, den
+Phasenraum geeignet zu wählen, und so keine offenen Systeme zu
+benötigen.
+
+Das macht die Betrachtungen eher klarer, und ist äquivalent.
+
+Dass ich das so handhabe, siehst Du z.B. daran, dass ich bei gängigen
+Automaten (die ich hier in der Diskussion ja bereits referenziert habe)
+auch das Eingabealphabet hernehme, um den Phasenraum aufzuspannen.
+
+
+"Ein System kann als Zentrum [...] auftreten. Ein Zentrum kann selbst
+als System verstanden werden."
+
+Oder kurz: System und Zentrum haben eine Schnittmenge. Wie gross ist
+diese? Gibt es Systeme, die nicht als Zentrum auftreten können? Gibt es
+Zentren, die nicht als System verstanden werden können?
+
+Falls nein, dann sind System und Zentrum immer dasselbe. Sind System und
+Zentrum so etwas wie Schnittstellen auf ein und dieselben Objekte? Was
+sind das dann für Objekte?
+
+
+Das will mir nicht einleuchten, oder verstehst Du unter "Abstraktion"
+und "Aggregation" was ganz anderes als ich? Was?
+
+
+Mir ist übrigens der Zweck noch gar nicht klargeworden (abgesehen davon,
+dass ich vermisse, wie das konkret gehen soll). Ich dachte bisher, der
+Zweck liegt darin, gemeinsame Muster zu beschreiben.
+
+
+Es gibt Voraussetzungen für Analogien, diese lassen sich ohne Mathematik
+nicht sinnvoll prüfen. Man weiss sonst nie, ob man schwallt.
+
+Deshalb setze ich auf Modelltheorie.
+
+
+Oh, das ist ein mutiges Wort. Wenns nur immer so wäre...
+
+Viele Grüsse,
+VB.
+-- 
+Bitte beachten Sie auch die Rückseite dieses Schreibens!

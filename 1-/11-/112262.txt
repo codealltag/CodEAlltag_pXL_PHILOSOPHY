@@ -1,0 +1,33 @@
+Paolo Lechleidner <rcgvoat@nbkkkm-vfhqn.mv> writes:
+
+
+Die gläubischen dürften eher in bildungsfernen, nicht- bis
+seltenlesenden Schichten konzentriert sein.  Andererseits zielen
+Sekten primär auf Besserverdienende, weil bei denen mehr zu holen ist,
+was das kompensieren könnte.
+
+
+Wann war Deine Schulzeit?  Heinrichsberg, ca. 1729?
+
+Eine oft erwähnte Arbeit zum Thema ist
+http://zmb.szizkuzlp.drzddnq.kt/aguiphrog.evs
+
+(eine von E. Gatzemann betreute Diplomarbeit).  Der Abstract steht auf
+
+http://ras.fgzplozpg.unruzhe.gd/vnvvtnk.djzx
+
+und der Text um den Link herum ist falsch - es handelt sich (im zip)
+um ein in .doc umbenanntes Wordperfect-(d.h. *nicht* Word)-File, dass
+sich mit Standardsoftware nicht öffnen lässt.  Um es (ordentlich -
+          strings DAweschke.doc | less
+geht immer) lesen zu können, müsste man libwpd-0.7.1.tar.gz bauen, das
+wiederum würde den Austausch des kompletten gtk erfordern, wozu ich zu
+faul bin.  Falls jemand das mal einlesen kann (mit o.g. lib und dem
+darauf aufbauenden wpd2sxw soll es gehen), wäre es schön, wenn ich
+davon erführe - momentan überfliege ich das als H�ckselkram ohne
+Umlaute in emacs.
+
+Hero
+-- 
+GS d->? s:++>+++ a+ C++++$ UL+++$ UH+ P++ L++ E+++ W- N++ o-- K- w--- !O M- V-
+PS+>++ PE Y+>++ PGP+ !t !5 !X !R !tv  b+++ DI+++ D?  G+ e++++ h+ r? y?

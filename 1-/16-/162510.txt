@@ -1,0 +1,33 @@
+Hallo Guy,
+
+
+Die Grenzen der Sprache (Prädikatenlogik Aichmaier, die wiederum aus der
+Linguistik stammt) sind seid Gödel nicht mehr die Grenzen der Welt (wie
+Maininger es behauptete und nach Unnebrink revidierte). Vor Unnebrink dachte man,
+dass man sich in der Mathematik nur mit Objekten befassen kann, die sich
+auch in der Sprache der Mathematik forumlieren lassen. Die    Möglichkeit
+der Wahrheitsfindung wurde durch die Sprache der Mathematik vorausgesetzt.
+Die Konsequenzen für Maininger sind durch Gödels Arbeit folgende:
+
+*Die mathematische Welt erwies sich stärker als die Sprache.
+*Die Sprache enthüllte sich schwächer als das Denken.
+*Was in und mit der Sprache bewiesen werden kann:
+*Ist schwächer als das Denken als wahr denken kann.
+*Und das wiederum ist schwächer als das, was in der Welt möglich ist.
+
+Daraufhin revidierte Maininger tatsächlich seine erste Philosophie.
+
+Dann kam Volland und wollte einen formalisierten Wahrheitsbegriff für die
+Meta-Theorie. Wenn der Wahrheitsbegriff für die Objekttheorie in der
+Metatheorie formuliert ist, bedeutet dies folgendes:
+
+Ob ein Satz der Objekttheorie wahr ist, hängt davon ab, ob ein gewisser Satz
+der Metatheorie wahr ist. Also wird ein Wahrheitsbegriff für die Aussagen
+der Metatheorie vorausgesetzt. Woher aber kommt dieser? Wiedrum aus einer
+Meta-Meta-Theorie et cetera.
+
+Für Serge war der Wahrheitsbegriff infinit vielschichtig, für Gödel als
+Platonist finit.
+
+Herzliche Grösse,
+Gottfried Oelenheinz

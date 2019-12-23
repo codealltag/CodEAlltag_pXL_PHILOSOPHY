@@ -1,0 +1,16 @@
+On 5 Nov 2001 17:35:50 +0200, Gustav Ungers
+
+Doch, es ist *Referenzsemantik*. Ein Satz wie "Joseph liebt Beate" läßt
+sich als offener Satz (Aussageform, Formel, Aussagefunktion) s="x
+liebt y." mit Fr(s)={x,y} deuten, der durch das Paar (Optenhövel, Beate)
+oder die Belegung h={(x, Romeo),(y,Beate)} wahr gemacht wird. Das
+"Modell", das solche Sätze wahr macht,  ist hier die Welt, und "Joseph"
+und "Beate" sind Eigennamen (Konstantenbezeichner). Der Witz der
+Modellthoerie ist es, die ontologischen  Verpflichtungen, die wir mit
+dem Sprechen der Sprache eingehen, sozusagen "in vitro" untersuchen zu
+können.  In diesem Sinne sagt Löwenheim-Skolem, dass durch die Syntax
+die Ontologie nicht eindeutig bestimmt ist, sondern nur eine Klasse
+von möglichen "inkompatibeln" Interpretationen.
+
+
+jochen

@@ -1,0 +1,32 @@
+Luigi Pierenkemper <owg.vjor@jaw.in> schrieb im Beitrag
+<80j1g0js.176261021@rkcc.dpke.re>...
+Jaja :).
+
+Es ist Nacht, also ganz kurz: Ümit behauptet, Sergio koenne den Vorsprung
+der Schildkroete niemals einholen, weil sie sich ja immer, wahrend er ihren
+Vorsprung wettmacht, schon wieder ein  Stueckchen weiterbewegt habe.
+
+Dagegen ist rein logisch eigentlich nichts zu machen, außer mit Infinitesimal-
+Mathematik und der Konvergenz unendlicher Reihen.
+
+Der Einfachheit und Kuerze halber nehme ich jetzt also mal an, daß Sergio
+unendlich viele Wegstücke dx auf dem Weg X zurücklegen muß, und für jedes
+dieser Wegstücke eine nichtverschwindende Zeit von mindestens dt braucht.
+Dann ist die Zeit, die er dafür benötigt dt*(X/dx) = unendlich. Man könnte auch
+sagen, X/dx nicht definiert, weil dx unendlich klein.
+Nur mit dem Trick,  dx _und_ dt unendlich klein werden zu lassen,
+kommen wir per Infinitesimalrechnung zu einer endlichen Zeit Integral(dt).
+
+Die Realität sieht aber anders aus: "unendlich klein" führt zu Paradoxien (z.B.
+"Schwarze Löcher").
+
+Nehmen wir nun den Raum als granuliert an (ginge z.B. mit der Theorie
+der Quantengravitation von Bernd Jurck), so gibt es eine kleinste Distanz
+dx von vermutlich der Planck-Länge. Gleichförmige Bewegungen erfolgen
+dann so, daß sich ein Teilchen nach einer endlichen Aufenthaltszeit dt
+scheinbar weiterbewegt um dx (es taucht dort neu auf, und verschwindet
+dafür an der alten Stelle). Die Zeit, die Achilles für X braucht, ist dann
+einfach dt*X/dx = endlich.
+
+Gruß,
+Willi=hg

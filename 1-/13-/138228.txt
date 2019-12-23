@@ -1,0 +1,36 @@
+Betreff: Nichtdualit�t2
+Datum: Freitag, 6. September 2001 09:03
+
+
+Hier also mein Beispiel:
+
+Es soll folgender Satz bewiesen werden: "Es gibt keine Gerade Zahl
+zwischen zwei Ungeraden Zahlen _und_ es gibt keine Ungerade Zahl
+zwischen zwei Geraden  Zahlen ".
+Der Satz würde wahr, wenn Ganze Zahlen in Betrag genommen werden, doch
+es käme dabei zur unerlaubten Verdoppelung der Beträge vor und hinter
+der Null, die durch eine Nebenbedingung vermieden werden müsste.
+Diese hätte jedoch zur Folge, dass die (potenziell exisierenden)
+Reihen: "{0,1,-1,2,-2,3,-3,...}, wowie:{0,-1,1,-2,2,-3,3,...}" genauso
+unerlaubt, wie die Verdoppelung, übergangen würden.
+Um die Vollständigkeit des Beweises zu retten könnte man eine
+imaginäre Symmetrieachse bei Null erzeugen.
+Damit könnten die zwei, zur Vollständigkeit fehlende, Reihen
+zugeordnet werden, doch es würden sich auch zwei völlig identische,
+bei  Null beginnende Betragreihen ergeben, und es stellte sich die
+Frage, wie aus der Bedingung "_und_" ein "_oder_"  geworden ist?
+
+Die Verwendung der Nichtdualit�t kann dieses Problem durch einen
+ähnlichen Aufbau jedoch mit einem anderen Vorsatz aulsen: "  Es  gilt
+im Ganzen : (1) Der Satz ist unwahr;
+                                                           (2) sein
+Gegenteil ist unwahr;
+                                                           (3) _und_
+beide zusammen sind auch unwahr."
+
+In diesem Fall arbeitet die Verknüpfung _und_ nicht gegen, sondern für
+den Beweis, indem sie die Symmetrie und Selbstbezüglichkeit herstellt,
+die erst seine Inhärenz erzeugt.
+(so etwa meine ich das...)
+
+walter.

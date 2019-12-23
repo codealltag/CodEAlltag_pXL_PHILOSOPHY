@@ -1,0 +1,60 @@
+Berthold Oberstelehn in Zolleis :
+
+
+Genial!
+
+Die natürlichen Zahlen in Bin�rschreibweise aufsteigend angeordnet:
+
+  1)  ...338207047
+  2)  ...194447462
+  3)  ...527350388
+  4)  ...772139028
+  5)  ...870305538
+  ...
+
+Mit der Cantor-Methode schafft man eine neue Cantor-Zahl c), die
+sich an der 1. Stelle (von rechts) von 1), an der 2. Stelle von 2)
+an der 3. von 3) usw. unterscheidet (durch Austauschen von "0"
+und "1"). Es ergibt sich
+
+  c)  ...368406689
+
+Egal wie wir die natürlichen Zahlen anordnen, es findet sich
+mit Cantors Methode immer eine neue Zahl, die in der Anordnung
+nicht aufscheint. Dass diese Zahl unendlich ist, ist bei der
+Unendlichkeit der natürlichen Zahlen nicht weiter erstaunlich.
+(Sofern wir uns nur mit ins Unendliche erweiterbaren endlichen
+Mengen beschäftigen, wird die unendliche Anzahl führender "1"
+nicht benötigt).
+
+Somit wäre also entweder die Überabzählbarkeit von |N bewiesen,
+oder Cantors Konzept "�berz�hlbar" widerlegt. Nur ist halt die
+Frage, ob etwas Beweis bzw. Widerlegung ist oder nicht, primär
+Glaubenssache.
+
+
+Roland Förstner in 3b6f9fb5.7145264@news.cis.dfn.de :
+
+
+Das Intervall I0 verschwindet nicht, sondern wird nur verkürzt, denn
+es genügt, ein Intervall durch EINEN Grenzpunkt zu benennen. Anstatt
+des Intervalls mit dem oberen Grenzpunkt b haben wir zwei Intervalle
+mit den oberen Grenzpunkten (a+b)/2 und b.
+
+Zudem lässt sich mit analoger Argumentation auch die Existenz DER
+Menge der rationalen Zahlen bestreiten:
+
+  Rationale Zahlen lassen sich der Grösse nach ordnen. Da nach
+  Voraussetzung jede rationale Zahl vorkommen soll, gibt es zu einem
+  beliebigen a auch ein b, das a der Grösse nach folgt. Somit muss
+  auch die rationale Zahl (a+b)/2 entgegen der Voraussetzung ein
+  Element der Menge sein.
+
+Ich weiss, dass man diese Argumentation mit dem Hinweis übergeht,
+dass rationale Zahlen offensichtlich keine Nachbarn haben. Aber
+warum haben die Elemente von |Q keine Nachbarn, obwohl sie sich der
+Grösse nach ordnen lassen? - Ganz einfach: Weil die Elemente eben
+nicht allesamt (aktual) gegeben sind!
+
+
+Gruss, Lorenz

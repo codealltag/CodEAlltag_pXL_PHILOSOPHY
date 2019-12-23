@@ -1,0 +1,11 @@
+Niemand hat so etwas behauptet. Hier, weil ich gut gelaunt bin, die
+logische Analyse in BNF. Nicht schön, aber es kommt von Herzen:
+
+<Wahrheitswert> ::=3D TRUE | FALSE
+<Struktur> ::=3D <Objekt mit Wahrheitswert>
+<Term> ::=3D <Struktur> <Operator> <Struktur> | <Struktur> <Operator>
+<Term>
+<Logik> ::=3D <Term> | <Term> <Logik>
+<Schlussfolgerung> ::=3D <Logik> =3D <Struktur>
+<unlogische Erkenntnis> ::=3D <Struktur>
+<logische Erkenntnis> ::=3D <Schlussfolgerung>

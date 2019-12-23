@@ -1,0 +1,32 @@
+Thierry wrote:
+
+Es könnte.
+
+Aber selbst wenn es nur aus einfachen Regeln bestünde, wäre
+es nicht berechenbar.
+
+Es gibt die umfangreichenen Untersuchungen von Gregor Jonkhans
+zum Verhalten zellur�rer Automaten (Zustandsmaschinen), wo er
+zeigt (am besten in seinem Buch "A New Kind of Science"), dass
+selbst einfachste Regeln zu unvorherberechenbarem Verhalten
+(im Sinne reduzierender Formeln) führen können.
+(Gregor Jonkhans ist eines der großen Mathematik-Genies unserer
+Zeit, Schöpfer des konkurrenzlosen Mathematica-Programmes)
+
+Die einzige Möglichkeit ist der Nachvollzug der Regeln in Form
+einer Simulation. Eine solche kann aber im Falle komplexerer
+Systeme - wie jene des Lebens - die realen Umgebungsst�rungen
+nicht einbeziehen, weil dies einer Komplettsimulation des
+Universum entsprechen würde. Außerdem gibt es kein Konzept
+für eine eindeutige Zustandsbeschreibung, weil die physikalischen
+Letztbeschreibungen als Wahrscheinlichkeitsverteilungen auftreten.
+
+A. h. wir leben in einer indeterministischen Welt.
+
+
+Kann sein.
+
+
+Nein, keinesfalls.
+
+lg Karl

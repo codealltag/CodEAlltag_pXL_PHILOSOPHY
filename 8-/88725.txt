@@ -1,0 +1,49 @@
+Keineswegs, denn die Freie Logik arbeit ja mit dem durch "E!"
+symbolisierten Existenzbegriff, der wie folgt klassisch definiert
+werden kann, wenngleich man ihn auch als undefinierten Grundbegriff
+verwenden kann:
+
+E!x :<-> Ey(x =3D y)
+
+"x existiert genau dann, wenn es etwas, y, gibt, das mit x identisch
+ist."
+
+Beispiel:
+
+E!Hartmut <-> Ex(x =3D Peter)
+
+"Hartmut existiert genau dann, wenn es jemanden gibt, der mit Hartmut
+identisch ist."
+
+Die Aussage "Ex(x =3D Peter)" kann also genauso wie "E!Hartmut" als "Hartmut
+existiert" gelesen werden.
+
+Die Freie Logik definiert sich übrigens wie folgt:
+
+"Eine Logik L ist eine Freie Logik [free logic] genau dann, wenn gilt:
+
+(i) L ist frei von Existenzannahmen bezüglich der singulären Terme
+von S.
+
+(ii) L ist frei von Existenzannahmen bezüglich der allgemeinen Terme
+bzw. Prädikate von S.
+
+(iii) Die Quantoren von L haben existentiellen Gehalt.
+[=2E..]
+Eine Logik L ist eine negative Freie Logik [negative free logic], wenn
+L eine Freie Logik ist und jede elementare Formel von L, welche
+mindestens einen leeren singulären Term enthält, falsch ist; positiv
+ist eine Freie Logik [positive free logic] dann, wenn sie nicht negativ
+ist, wenn es also mindestens eine Formel der beschriebenen Art in L
+gibt, die wahr ist."
+
+[Stefano, K. (1998). /Free logics: Their foundations, character, and
+some applications thereof/. Sankt Augustin: Academia. (dt. Vorwort, S.
+20f)]
+
+
+Ja, nichts spricht gegen die Möglichkeit der Verwendung eines "echten"
+Existenzprädikats "E!" neben dem Existenzquantor "Ex".
+
+Gruss
+HERO

@@ -1,0 +1,13 @@
+Es spricht nichts gegen die Verwendung sowohl des Existenzquantors "Ex"
+als auch des individuellen Existenzprädikats "E!". - Man kann beide
+vollkommen stimmig nebeneinander einsetzen.
+
+In der Freien Logik, worin "E!" verwendet wird, gilt u.a. folgendes
+Axiom:
+AxE!x
+"Alles existiert"
+bzw.
+~Ex~E!x
+"Nichts existiert nicht"
+
+#PH

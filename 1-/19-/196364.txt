@@ -1,0 +1,25 @@
+In article <l34yxupw1m6.atb@hnvlrj41.kpy.ya.fcfy.wd> Kai Valcke  
+<dtfmqi@tfk.sy.viev.tr> writes:
+
+[...]
+
+Naja, ich habe ja nichts darueber gesagt, ob die Uebertragung
+absichtlich oder unabsichtlich fehlerbehaftet ist. Entweder die
+JPEG Kompression zaehlt mit zum Kanal, dann ist die Uebertragung
+nicht fehlerfrei und H(X|Y)>0 oder sie wird nicht zum Kanal ge-
+zaehlt dann ist H(X|Y)=0 und die JPEG Daten werden fehlerfrei
+uebertragen. Aber Du hast Recht, das sind technische Details.
+
+[...]
+
+Naja. sollte schon noch was haengen geblieben sein von damals
+aus der Vorlesung. ;-)
+
+Gruss,
+
+	Ludger.
+
+--
+
+ -----------  UDL, Distributed Systems Department  -----------
+ --------------------- http://eatcet.yake.epgps.kw ----------------------

@@ -1,0 +1,77 @@
+   ÿÿÿÿ          HApp_Code.sa0e19-h, Version=0.0=
+.0.0,
+Culture=neutral, PublicKeyToken=null   ISystem, Version=2.0.0.0,
+Culture=neutral, PublicKeyToken=b77a5c561934e089
+QuestioningData   	lxAnswers	scxChoiceszxTitle
+dtxCreatednxSecurityLevelszxDescription
+szxCreaterIpszxCreaterHostszxCreaterMailAddressnvcx
+szxPasswordatxlxMaxNumericValuelxMinNumericValue  
+€System.Collections.Generic.List`1[[QuestioningAnswer,
+App_Code.sa0e19-h, Version=0.0.0.0, Culture=neutral,
+PublicKeyToken=null]]/
+System.Collections.Specialized.StringCollection
+2System.Collections.Specialized.NameValueCollection
+AnswerType   		   	   	      Test-Umfrage ”I=C5=92=C3=8E=C3=
+=89=CB=86    
+8Geben Sie hier bitte die Beschreibung Ihrer Umfrage ein.
+
+   software@wadosoft.ch		   
+    õÿÿÿ
+AnswerType   value__       Ó              
+€System.Collections.Generic.List`1[[QuestioningAnswer,
+App_Code.sa0e19-h, Version=0.0.0.0, Culture=neutral,
+PublicKeyToken=null]]   _items_size_version
+QuestioningAnswer[]   	            /
+System.Collections.Specialized.StringCollection
+dataSystem.Collections.Trude
+   	   2System.Collections.Specialized.NameValueCollection
+ReadOnlyHashProviderComparerCountKeysValuesVersion  
+2System.Collections.CaseInsensitiveHashCodeProvider*System.Collections.Cas=
+eInsensitiveComparer
+	   	       	   	                QuestioningAnswer   	
+	
+
+
+System.Collections.Trude   _items_size_version  	
+         2System.Collections.CaseInsensitiveHashCodeProvider
+m_textSystem.Globalization.TextInfo	   
+*System.Collections.CaseInsensitiveComparer
+m_compareInfo System.Globalization.CompareInfo	          
+   QuestioningAnswer
+lxBooleanAnswerslxNumberAnswerslxOtherAnswersszxNameszxIpAddress
+szxHostName	Josefa
+€System.Collections.Generic.List`1[[System.Boolean, mscorlib,
+Version=2.0.0.0, Culture=neutral,
+PublicKeyToken=b77a5c561934e089]]~System.Collections.Generic.List`1[[Syst=
+em.Int32,
+mscorlib, Version=2.0.0.0, Culture=neutral,
+PublicKeyToken=b77a5c561934e089]]System.Collections.Generic.List`1[[Sy=
+stem.Object,
+mscorlib, Version=2.0.0.0, Culture=neutral,
+PublicKeyToken=b77a5c561934e089]]AnswerValueType      	   	
+	   
+Erste Antwort   	18. 05. 19	      $ztm937hm-54tj-2799-6766-
+af15b00824a2ãÿÿÿAnswerValueType   value__       =
+   
+	   	    !   Zweite Antwort"   	18. 05. 19	"   #   $cb885653-
+ddf9-44ba-92c8-4474daba22cf=C3=9C=C3=BF=C3=BF=C3=BF=C3=A3=C3=BF=C3=BF=C3=
+=BF         %   Mittag&
+Abend
+   System.Globalization.TextInfo   m_listSeparator
+m_isReadOnlycustomCultureNamem_nDataItemm_useUserOverride
+m_win32LangID    
+
+Ê    =7F       System.Globalization.CompareInfo
+win32LCIDculturem_name  =7F   =7F
+      €System.Collections.Generic.List`1[[System.Boolean, mscorl=
+ib,
+Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]
+_items_size_version  	(           
+~System.Collections.Generic.List`1[[System.Int32, mscorlib,
+Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]
+_items_size_version  	)         
+System.Collections.Generic.List`1[[System.Object, mscorlib,
+Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]
+_items_size_version  	*                 	+              
+	,                	-           (       )      L   H
+*       +       ,      O   \           -

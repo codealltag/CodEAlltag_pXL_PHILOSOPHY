@@ -1,0 +1,18 @@
+x = 0
+
+Korrekt. (Das ich das mal schreiben darf, ich fasse es kaum)
+10^(-n) ist eine Nullfolge.
+
+Es gibt kein "vorletztes Glied der Folge". Eine Folge ist hier
+eine Abbildung von |N -> |R
+
+Und schon kann es kein y geben das diese Bedingungen erfüllt.
+
+In üblicher Schreibweise "1 - 0.01 = 0.99"
+
+Warum sollte es? Diese Aussage lässt sich nicht herleiten.
+
+-- 
+"I'm working on it."  <http://qdq.vvmtez.on-lpkxwn.wk/>
+
+"Unsauberes Denken führt zu unsauberen Beweisen." Ehemaliger Mathe-Prof.

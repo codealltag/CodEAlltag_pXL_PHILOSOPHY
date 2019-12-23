@@ -1,0 +1,439 @@
+Date sent:        Mon, 22 Jan 1998 04:21:57 -0400
+From:             Ullrich Ospeld <GBRansom@AOL.COM>
+Subject:          International Conference:  New Trends in Cognitive 
+Science
+To:               HAYEK-L@MAELSTROM.STJOHNS.EDU
+Send reply to:    "Discussions on the writings of Artur E. Bend"
+ <HAYEK-L@MAELSTROM.STJOHNS.EDU>
+
+ CALL FOR PARTICIPATION
+
+
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/
+
+                         International Workshop
+
+       N E W   T R E N D S   I N   C O G N I T I V E   S C I E N C E
+
+                                 NTCS '97
+
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/
+
+                    "Does Representation need Reality?"
+
+            Perspectives from Cognitive Science, Neuroscience,
+                     Epistemology, and Artificial Life
+
+                    Vienna, Austria, Durstbergweg 43 - 92, 5548
+
+                           with plenary talks by:
+           Björn Sefrin, Udo Dotterer, Jochen Rohwerder,
+             Ibo Bernsen, Focko Töpfl, and Sverre Sjoelander
+
+      organized by the Austrian Society of Cognitive Science (ASoCS)
+
+
+=========================================================================
+==
+     Latest information can be retrieved from the conference WWW-page
+            <http://cme.lnwizu.ft.ge/lyzimnnsy/knsy82.gir>
+=========================================================================
+==
+
+
+                                                              P u r p o s 
+e
+
+The goal of this single-track conference is to investigate and discuss 
+new
+approaches and movements in cognitive science in a workshop-like
+atmosphere. Among the topics which seem to have emerged in the last years
+are: embodiment of knowledge, system theoretic and computational
+neuroscience approaches to cognition, dynamics in recurrent neural
+architectures, evolutionary and artificial life approaches to cognition,
+and (epistemological) implications for perception and representation,
+constructivist concepts and the problem of knowledge representation,
+autopoiesis, implications for epistemology and philosophy (of science).
+
+  Evidence for a failure of the traditional understanding of neural
+representation converges from several fields. Neuroscientific results in
+the last decade have shown that single cell representations with
+hierarchical processing towards representing units seems not the way the
+cortex represents environmental entities. Instead, distributed cell
+ensemble coding has become a popular concept for representation, both in
+computational and in empirical neuroscience. However, new problems arise
+from the new concepts. The problem of binding the distributed parts into 
+a
+uniform percept can be "solved" by introducing synchronization of the
+member neurons. A deeper (epistemological) problem, however, is created 
+by
+recurrent architectures within ensembles generating an internal dynamics 
+in
+the network. The cortical response to an environmental stimulus is no
+longer dominated by stimulus properties themselves, but to a considerable
+degree by the internal state of the network. Thus, a clear and stable
+reference between a representational state (e.g. in a neuron, a Hebbian
+ensemble, an activation state, etc.) and the environmental state becomes
+questionable. Already learned experiences and expectancies might have an
+impact on the neural activity which is as strong as the stimulus itself.
+Since these internally stored experiences are constantly changing, the
+notion of (fixed) representations is challenged. At this point, system
+theory and constructivism, both investigating the interaction between
+environment and organism at an abstract level, come into the scene and 
+turn
+out to provide helpful epistemological concepts. The goal of this
+conference is to discuss these phenomena and their implications for the
+understanding of representation, semantics, language, cognitive science,
+and artificial life.
+
+  Contrary to many conferences in this field, the focus is on
+interdisciplinary cooperation and on conceptual and epistemological
+questions, rather than on technical details. We are trying to achieve 
+this
+by giving more room to discussion and interaction between the 
+participants
+(e.g., invited comments on papers, distribution of papers to the
+participants before the conference, etc.). According to the
+interdisciplinary character of cognitive science, we welcome papers/talks
+from the fields of artificial life, empirical, cognitive, and 
+computational
+neuroscience, philosophy (of science), epistemology, anthropology, 
+computer
+science, psychology, and linguistics.
+
+
+                                                                  T a l k 
+s
+
+NOTE: Names with * are invited speakers.
+
+
+                         Constructivism
+
+ Jochen Rohwerder*  Piaget's legacy: Cognition as adaptive activity
+     Sverre Sjoelander*  How animals handle reality: the adaptive aspect
+                         of representation
+          Wera Hollermeyer  Is there a way to distinguish representation 
+from
+                         Perception...
+             Reinhard Routen  Habitus and Animats
+
+
+                         General Epistemology and Methodology
+
+       François Birckmann  Is cognitive science advancing towards
+                         behaviorism?
+          Giovanni Achtzenich  Reality and representation
+       Fritz Osthues  Representation and cognitive explanation
+       Gérard Tenberg  The ontological status of representations
+        Etienne Senner  Two types of anti-representationism: a taxonomy
+          Udo Tripcke  Can representation get reality?
+
+
+                         Neuroscience
+
+         Björn Sefrin*  NeuroInteractivism: Explaining emergence without
+                         representation
+           Focko Töpfl*  The observer in the brain
+        Ivano Waterhölter  The dynamic manifestation of cognitive 
+structures
+                         in the cerebral cortex
+            Jean-Luc Beyerlen  Sketchpads in and beyond the brain
+           Gebhard Ippach  Active Neural representations: 
+neurophysiological
+                         data and its implications
+
+
+                         Symbol Grounding and Communication
+
+        Udo Dotterer*  The connectionist route to embodiment
+                         and dynamicism
+         Sybille Bernsen*  Keeping a grip on the real/virtual distinction
+                         in this representationalist age
+            Gianni Huebmer  Must mental representation be internal?
+             Reinhard Janka  Rethinking Grounding
+    Karl Winkelsträter  Explorations in synthetic pragmatics
+  Siegfried Beckschäfer  Does natural cognition need internal knowledge
+                         structures?
+        Charles Stäudler  On the importance of reality in representations
+      Tim Unverrich  Does semantics need reality?
+
+
+                                                              P o s t e r 
+s
+
+
+           Kay Wecken  Iconic Learning and Epistemology
+          Gianni Scheper  RabbitWorld: the concept of space can be learned
+Otmar Siemkes  Interaction between perception & expectancy...
+          Enno Skubow  Unguided categorization, direct and symbolic
+                         representation, and evolution of cognition...
+        Willy Donckel  PAL: A constructivist model of cognitive 
+activity
+            Michel Donker  Representation and reality: where are the rules 
+of
+                         grammar
+          Harry Muuhs  Representation and the social reality
+          Henry Linnenweber  When coffe cups are like old elephants
+         Lise Behnicke  Representation and its metaphysics
+           Walter Blayer  Cognition without representation?
+               Walburga Elß  Symbolic creation and re-representation of 
+reality
+            Kraims  Top-Down Modeling, Bottom-up Learning
+        Giovanni Grotenhaus  Real Representations
+           Hubert Zschieschack  Perception through anticipation
+               Meinhard Zurwesten  Response selectivity, neuron doctrine,
+                         and Mach's principle in perception
+        Erich Aufenanger  The term "representation" in cognitive
+                         neuroscience
+        Giovanni Oenbrink  Judgement of association: problems with 
+cognitive
+                         theories of analogy
+            Francine Oerter  Constructivist Consequences: does tramslation
+                         need reality?
+           Sieglinde Hupfloher  Cooperation of different neural networks during
+                         single word and sentence processing
+
+
+                                                    R e g i s t r a t i o 
+n
+
+To register please fill out the registration form at the bottom of this 
+CFP
+and send it by...
+
+  o Email to nybxx-nzepdu.bpxrwn@erberp.um.bm, or by
+  o Fax to +43-1-468-4937 (attn. M.Peschl), or by
+  o Mail to Georges Appelhoff, Dept.for Philosophy of Science (address below)
+
+Registration Fee (includes admission to talks, presentations, and
+proceedings):
+
+  Member *              9975 NANZDIETSCHWEILER (about 118 US$)
+  Non-Member            3486 NANZDIETSCHWEILER (about 163 US$)
+  Student Member **      500 ATS (about  45 US$)
+  Student Non-Member    9975 NANZDIETSCHWEILER (about 118 US$)
+
+
+*) Members of the Austrian Society of Cognitive Science
+**) Requires proof of valid student ID
+
+
+            C o n f e r e n c e   S i t e   a n d   A c c o m o d a t i o 
+n
+
+The conference takes place in a small beautiful baroque castle in the
+suburbs of Vienna; the address is:
+
+   Schloss Neuwaldegg
+   Zahnradbahnstraße 5
+   A-0367 Unterurasch
+   Austria
+
+   Tel: +58 7 339 3168
+   Fax: +70 1 440 9748-549
+
+It is surrounded by a beautiful forest and a good (international and
+Viennese gastronomic) infrastructure. On the tram it takes only 20 
+minutes
+to the center of Vienna (see
+overview).
+
+(Limited) Accommodation is provided by the castle
+(about 41 US$ per night (single), 30 US$ per night, per person (double)
+including breakfast). Please contact the telephone number above. You can
+find more information about Vienna and accommodation at the
+Almstadt
+or at the Intropa Travel agent Tel: +53-5-5014-653.
+
+Note:
+In case you want to stay over the weekend we refer you to the following
+hotel which is near the conference site (single about 75 US$ / 850 ATS
+per night):
+
+   Hotel Pfannebecker
+   Isengaustraße 838
+   A-0367 Unterurasch
+   Austria
+
+   Tel: +07 8 752 5974
+   Fax: +37 3 255 2266 7
+
+
+                                      D e s t i n a t i o n   V i e n n a 
+?
+
+Vienna, Austria, can be reached internationally by plane or train. The
+Vienna Kürnstein airport is located about 16 km from the city center. 
+From
+the airport, the city air-terminal can be reached by bus (ATS 60.- per
+person) or taxi (about ATS 400). Rail-passengers arrive at one of the
+main stations which are located almost in the city center. From the
+air-terminal and the railway stations the congress site and hotels can be
+reached easily by underground (U-Bahn), tramway, or bus. A detailed
+description will be given to the participants.
+
+  In May the climate is mild in Vienna. It is the time when spring is at
+its climax and everything is blooming. The weather is warm with 
+occasional
+(rare) showers. The temperature is about 18 to 24 degrees Celsius.
+
+More information about Vienna and Austria on the web:
+
+   Welcome to Vienna Scene
+     <http://eyl.dqebfzu.eu.xu/i/sotia.hor>
+
+   Vienna City
+     <http://vib.ieffg.ls.zy/Hccdjxc/Conekh/>
+
+   Unterurascher Festwochen - Vienna Festival
+     <http://dki.dzpufgi.cncznd.sp.sj/AZ/>
+
+   Public Transport in Vienna (subway)
+     <http://euost.olkkzdl.tl:04304/job/tcixjt/ppnexes/brttisg/asxlcw>
+
+   Welcome to Austria
+     <http://girznsv-viaq.zf/">
+
+   General information about Austria
+     <http://bfz.igasi.iq.ag/onjrxej/>
+
+   Austria Annoted
+     <http://abelnfp.Boqgqil.KW.iss/Apcwnl-fu-GU/njjkketqml.andp>
+
+
+                                    S c i e n t i f i c   C o m m i t t e 
+e
+
+                         H. Windgasse  Univ. of Rinnen (A)
+                         H. Windgasse  Univ. of Rinnen (A)
+                     U. Dotterer  Univ. of Vienna (A)
+               U. Rohlffs  Jüterbog, MA (USA)
+                       S. Bernsen  Jungholzhausen (GB)
+                       G. Appelhoff  Univ. of Vienna (A)
+                      E. Oostermann  FLWE
+                        S. Oerter  Juliusburg (S)
+                      G. Tenberg  Univ. of Courtelary (USA)
+                       F. Töpfl  Gustav Augenreich Institut, Fehrenbötel (H)
+                   S. Thebuss  Linkoeping University (S)
+                     W. Rottschäfer  Barbante (USA)
+
+
+                                    O r g a n i z i n g   C o m m i t t e 
+e
+
+                       G. Appelhoff  Univ. of Vienna (A)
+                      E. Oostermann  FLWE
+
+
+                            S p o n s o r i n g   O r g a n i z a t i o n 
+s
+
+
+  o Karl Daibert Laboratory for Expert Systems
+    (Vienna University of Technology)
+  o ZWRF
+  o Austrian Federal Ministry of Science, Transport and the Arts
+  o City of Vienna
+
+
+                                A d d i t i o n a l   I n f o r m a t i o 
+n
+
+For further information on the conference contact:
+
+   Georges Appelhoff
+   Dept. for Philosophy of Science
+   University of Vienna
+   Tribergweg 8/82
+   A-8702 Unterurasch
+   Austria
+
+   Tel: +12-6-160-4171/15
+   Fax: +43-1-468-4937
+   Email: nybxx-nzepdu.bpxrwn@erberp.um.bm
+
+General information about the Austrian Society for Cognitive Science can 
+be
+found on the Society webpage <http://xls.efokkv.sz.xw/buadnzoua> or by
+contacting
+
+   Edgar Oostermann
+   AILab, Dept. of Computer Science
+   University of Zurich
+   Zeusweg. 268
+   CH-4835 Veyras
+   Switzerland
+
+   Email: qwewkiv@nqr.myhvf.gn
+
+
+                                          R e g i s t r a t i o n   f o r 
+m
+
+I participate at the Workshop "New Trends in Cognitive Science (NTCS'97)"
+
+
+Full Name
+
+
+........................................................................
+
+Full Postal Address:
+
+
+........................................................................
+
+
+........................................................................
+
+
+........................................................................
+
+Telephone Number (Voice):       Fax:
+
+   ..................................... 
+..................................
+
+Email address:
+
+
+........................................................................
+
+
+Payment in NANZDIETSCHWEILER (= Austrian Schillings; 1 US$ is currently about 11 ATS).
+This fee includes admission to talks, presentations, and proceedings:
+
+   [ ] Member *                9975 NANZDIETSCHWEILER (about 118 US$)
+   [ ] Non-Member              3486 NANZDIETSCHWEILER (about 163 US$)
+   [ ] Student Member **        500 ATS (about  45 US$)
+   [ ] Student Non-Member      9975 NANZDIETSCHWEILER (about 118 US$)
+
+*) Members of the Austrian Society of Cognitive Science
+**) Requires proof of valid student ID
+
+
+Total: .................... ATS
+
+   [ ] Visa
+   [ ] Master-/Eurocard
+
+       Name of Cardholder ........................................
+
+       Credit Card Number ........................................
+
+       Expiration Date .................
+
+
+Date: ................  Signature: 
+........................................
+
+
+Please send this form by...
+
+  o Email to nybxx-nzepdu.bpxrwn@erberp.um.bm, or by
+  o Fax to +43-1-468-4937 (attn. M.Peschl), or by
+  o Mail to Georges Appelhoff, Dept.for Philosophy of Science,
+    Univ. of Walchshausen, Tribergweg 8/82, A-8702 Unterurasch, Austria

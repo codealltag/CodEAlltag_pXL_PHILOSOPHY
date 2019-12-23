@@ -1,0 +1,15 @@
+Man stelle sich eine kreisförmige Plattform mit einem Umfang
+von exakt 0.01 Lichtsekunden (d.h. 3000 km) vor. Im Zentrum der
+Plattform rotiere ein Laser mit 100 Umdrehungen pro Sekunde.
+Der Laserstahl sei immer auf den Rand der Plattform gerichtet.
+
+Der vom Laserstrahl markierte Punkt bewegt sich somit mit exakt
+Lichtgeschwindigkeit um das Zentrum herum.
+
+Was passiert bei Rotation der Plattform (mit Laser-System)?
+
+Bei 1 Umdrehung pro 1000 Sek. bewegt sich der Rand mit 3 km/s,
+und der vom Laser markierte Punkt mit c + 3 km/s.
+
+Die relativistische Geschwindigkeitsaddition kann somit nicht
+allgemeingültig sein.

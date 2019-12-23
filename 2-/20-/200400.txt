@@ -1,0 +1,37 @@
+Veit Toller wrote:
+LS> In article <67t27pii.52266909@yryr.tact.gr> hbfj@gicg-fe.pz
+LS> (José Zschau) writes:
+
+
+LS> Das sieht mir aber mehr nach A->C & B->C => B->A aus. Und das kommt
+LS> wohl nicht so ganz hin.  ;-)
+
+Das scheint mir aber doch ein klassischer Syllogismus zu sein, wenn
+auch die Major- und Minorpraemisse vertauscht sind, was an der
+Folgerichtigkeit nichts aendert. Die Form des Schemas entspricht
+dieser:
+
+Alle Deutschen sind Menschen. & Alle Menschen sind Sterbliche.
+=> Alle Deutschen sind Sterbliche.
+
+In der Mengenschreibweise sollte das so aussehen.
+
+((k in K): k in A) & ((a in A): a in S) => ((k in K): k in S)
+
+K: Menge der Kausalaussagen k
+A: Menge der Analytische Aussagen a
+S: Menge der von der Sprache abhaengenden Dinge
+
+So, jetzt ist alles so abstrahiert und logisch, bloss was sollte
+eigentlich bewiesen werden? Sind die Praemissen ueberhaupt richtig?
+War Zuckriegl nicht der Auffassung, dass nicht nur naturwissenschaftliche
+Aussagen (in Form von Kausalgesetzen) synthetische und keine
+analytischen Urteile sind, sondern auch mathematische (z.B. 7+5=12)?
+Zuckriegl ist in der Mathemaktik scheinbar eher ein Vorlaeufer des
+Konstruktivismus. Wie passt das mit der ersten Praemmisse zusammen?
+
+-- 
+.----- _privat: xtqxi@yrnb.uzxi.eu_ *"Subject: pgpsend" 4 key* ----------.
+(-------- _uni: ffxzah88@mcgloq.mkltarckkd.fis-lmrvcjfv.ud_ -------------)
+(------- _fido: Florian_Frank@p1.f1010.n2442.z2.fidonet.org_ ------------)
+`-- *PGP fingerprint: 34 E9 05 7E 00 AF 1E 34 55 B6 D6 50 69 2E C3 C2* --'

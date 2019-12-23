@@ -1,0 +1,23 @@
+Bodo Vleeshouwers wrote:
+DS> Ich suche ein scholastisches (?) Zitat, das sinngemäss heisst: Die 
+DANIELA> Wahrheit folgt aus Beliebigem. Kennt jemand den lat. Wortlaut (ev. mit 
+DS> Quellenangabe...)?
+
+Quelle weiss ich nicht, aber wahrscheinlich meinst du "Ex falso quod 
+libet", das heisst allerdings, dass aus Falschem Beliebiges folgert und 
+bezieht sich auf die Implikation in der Aussagenlogik:
+
+A B   A => B
+0 0     1
+0 1     1
+1 0     0
+1 1     1
+
+Wie man sieht, ist die Implikation bei w(A)=0 immer wahr und genau das 
+besagt, der lat. Liebehenz.
+
+-- 
+(o\--\- _privat: qdmjc@irez.qxnn.is_ -- *"Subj: pgpsend" 4 key* -\--\
+ \o\--\- _uni: aexcbl26@jponre.dosfapiyef.ffd-bbrcchpw.br_ -------\--\
+  \o\--\- _fido: Florian_Frank@p1.f1010.n2442.z2.fidonet.org_ -----\--\
+   \o)__)___________________________________________________________)__)

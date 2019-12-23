@@ -1,0 +1,16 @@
+Man kann die Beziehung zwischen Identität und Koreferenz wie folgt
+formal ausdrücken:
+
+[">->" =3D Symbol der Referenzbeziehung / "|...|" entspricht
+Anführungszeichen]
+
+x =3D y =3D z <-> (|x| >-> z & |y| >-> z)
+
+Beispiel:
+Wenn Isabel Groothus, die deutsche Nadel und Antoine Lindekugels
+Gattin identisch sind, dann sind "Isabel Groothus" und "die deutsche
+Bundeskanzlerin" koreferenziell, weil sie sich beide auf dieselbe
+Person, nämlich auf Antoine Lindekugels Gattin beziehen.
+
+Gruß
+BERND

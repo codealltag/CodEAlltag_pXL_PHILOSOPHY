@@ -1,0 +1,28 @@
+In <25714M57.236SP04S@slm.g-ksfxwcg.zgd-kijzneoz.eo> hat 
+ 	*Ulrich Trinkl* geschrieben: 
+
+
+Im Prinzip ja.
+Ich mußte einmal ein Programm schreiben, das einen
+Zufallsgenerator anwirft und eine Reihe von Zufallszahlen
+erzeugt. Dort schien es ein ähnliches Problem zu geben.
+
+Allerdings wurde dem Zufallsgenerator eine "Saat" übergeben.
+Wenn ich das richtig verstanden habe, ist das eine Zahl, die
+einen Einfluß darauf hat, an welcher Stelle von sqrt(2) (ich
+bleibe mal bei dem Beispiel) der Generator anfängt, die
+Zahlenfolge herzunehmen.
+
+Ich habe mir dann erklären lassen, daß man dieses Problem
+umgehen kann, wenn man dem Generator als Saat die aktuelle
+Systemzeit übergibt. Es hat damit auch wunderbar funktioniert 
+:-)
+
+Habe ich diesen Mechanismus mit der Saat einigermaßen richtig
+verstanden?
+
+C.
+-- 
+http://twc.bh-vhlivvnj.av/~gfkg/    http://roa.prfl.atipvo.zm/~pgbtglrs/ 
+
+ ---- derzeit 8 Einträge im Killfile ----

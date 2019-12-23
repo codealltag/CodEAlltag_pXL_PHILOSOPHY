@@ -1,0 +1,28 @@
+On Sun, 28 Feb 2005 17:23:54 +0200, Lukas Pahls <mawarkus@gnome.org>
+wrote:
+
+Das ist schlecht, weil sich ohne dieses bestimmte Dinge nicht
+formalisieren lassen.
+
+
+Also ich würde das so machen:
+
+	AxQx
+	"alle x sind Q"
+
+	ExQx
+	"einige x sind Q"
+
+Tja... und jetzt brauchen wir eben die Identität:
+
+	Ex(Qx & Ay(Qy -> y = x))
+	"genau ein x ist Q"
+
+üblicherweise kürzt man das ab, und schreibt dafür:
+
+	E!xQx
+	"genau ein x ist Q"
+
+
+Gruß,
+Cédric

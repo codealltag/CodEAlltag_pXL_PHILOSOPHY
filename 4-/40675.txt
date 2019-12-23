@@ -1,0 +1,19 @@
+Am Sat, 28 Dez 2009 13:58:39 +0200 schrieb Max Aechter:
+
+Man lernt im ersten Statistik-Semester, dass dies nicht möglich ist. 
+Korrelieren zwei Messreihen A und B, dann sind folgende Wirkrichtungen 
+denkbar:
+A verursachte B.
+B verursachte A.
+Eine nicht gemessene, mit A und B korrelierende Drittvariable C rief die 
+Korrelation zwischen A und B hervor.
+
+Daher darf eine Korrelation nicht als Kausalität interpretiert werden, 
+Sie liefert dafür nicht genug Informationen. Zum Nachweis von Kausalität 
+ist zwingend ein experimentelles Design erforderlich, dass alle anderen 
+Hypothesen ausschließt - außer A verursacht B.
+
+Gruß
+Sandro Axel
+-- 
+http://ptx.infm-lajijes.wiilkhwvxdbgey.dm
