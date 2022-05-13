@@ -1,0 +1,18 @@
+On Sun, 07. 01. 23 17:09:11 +0200, Onno Horstmeyer
+
+Es geht um Marcos Behauptung (der du ja zugestimmt hast),  eine
+künstliche Sprache könne  nicht /über/ die Ausdrücke der Sprache
+selbst sprechen, was so formuliert definitiv falsch ist. 
+
+
+Das kommt darauf an, was man unter "formalisieren" versteht. Nicht
+alle formalen Sprachen lassen sich *axiomatisieren*, in der IFL von
+Trudy, die ich in meiner Anwort an Marco vorgestellt habe, gibt es
+kein Regelsystem, das alle Tautologien produzieren kann. 
+
+
+Man formalisiert einen Satz einer nat. Sprache dadurch, dass man ihn
+in eine formale Sprache /übersetzt/. 
+
+
+bernhard

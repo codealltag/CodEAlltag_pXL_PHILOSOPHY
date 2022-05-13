@@ -1,0 +1,70 @@
+Zwei gleiche Testladungen q ruhen im Inertialsystem S. In einem
+sich mit v << c nach rechts bewegenden Intertialsystem S'
+bewegen sich die Ladungen mit v nach links.
+
+                   q             System S'
+   System S                        --->
+                   q                v
+
+Im RUHESYSTEM S wirkt auf beide Ladungen nur die abstossende
+elektrische Kraft (r = wechselseitiger Abstand):
+
+   F_e = q * E = q^2 / (eps0*4*pi*r^2)
+
+Im SYSTEM S' bewegen sich beide Ladungen im von der jeweils
+anderen Ladung erzeugten Magnetfeld. Die Stärke des von der
+gegenüberliegenden Ladung erzeugten Magnetfelds ist:
+
+   B  =      mu0      * q * v / (4*pi*r^2)
+      =  1/(eps0*c^2) * q * v / (4*pi*r^2)
+
+Die magnetische Kraft auf eine sich mit v bewegende Testladung q
+weist jeweils in die Richtung der gegenüberliegenden Ladung und
+beträgt:
+
+   F_m' =  q * v * B
+        =  q * v * 1/(eps0*c^2) * q * v / (4*pi*r^2)
+        =  q^2 * (v^2/c^2) / (eps0*4*pi*r^2)
+
+        =  - (v^2/c^2) * F_e
+
+Da in S' das von der jeweils gegenüberliegenden Ladung erzeugte
+elektrische Feld E' wegen Lorentz-Kontraktion um den Faktor
+gamma(v) stärker als E in S ist, folgt als elektrische
+Abstossung:
+
+  F_e' = q * E' = q * gamma(v) * E
+
+       = (1 + 0.5 v^2/c^2) * F_e
+
+Während also in S die Gesamt-Kraft auf jede Ladung
+
+  F = F_e
+
+beträgt, ist sie in S' kleiner:
+
+  F' = F_e' + F_m' = (1 + 0.5 v^2/c^2) * F_e - (v^2/c^2) * F_e
+
+     = (1 - 0.5 v^/c^2) * F_e   =   F / gamma(v)
+
+Die Gesamtkraft ist somit nicht Lorentz-invariant. Wenn wir
+aber die Testladungen durch zwei gleichschwere ruhende Kugeln
+ersetzen, die mittels gespanntem Gummiband miteinander verbunden
+sind, sehen wir, dass die Gesamtkraft in solchen Fällen Lorentz-
+invariant sein muss:
+
+Im Ruhesystem S führt die Kraft des Gummibandes zu einer
+Bewegung beider Kugeln zum gemeinsamen Schwerpunkt hin. Im
+System S' läuft diese Bewegung wegen Zeitverlangsamung im selben
+Verhältnis langsamer wie die Masse (Trägheit) der Kugeln und
+des Gummibandes grösser ist. (Die Verbindungsline zwischen den
+zwei Kugeln ist in beiden Inertialsystemen gleich.) Es folgt,
+dass die Kraft zwischen den Kugeln in beiden Inertialsystemen
+dieselbe ist.
+
+---
+
+"Das Konzept einer geschwindigkeitsabhängigen Masse ist überholt.
+Die vor Urzeiten einmal so bezeichnete Größe versteht man
+heutzutage korrekter als die kinetische Energie eines Teilchens."
+                            Willi Tippkemper am 09.03.01 - 09:09

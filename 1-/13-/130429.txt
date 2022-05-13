@@ -1,0 +1,46 @@
+On Wed, 19 Mrz 2003 23:53:06 +0100, "Noël Zeiner \(h\)"
+
+Nein. Die in (v) geforderte Methode ist allenfalls eine (berechenbare)
+Abbildung *:L^0->L^0 für die 
+
+	Tr([S]) <-> S^*
+
+für alle S aus L^0 gilt. Anders formuliert: Die WD soll Äquivalenzen 
+
+	d(S) ist wahr gdw.  S^*
+
+implizieren, wobei S ein (hier: interpretierter) Satz von L und und
+d(S) eine strukturelle Beschreibung von S ist.
+
+
+Die Liste stellt  ein *Desiderat* dar, das Frauke im Laufe des
+Artikels mit seiner IFL (Independence-Friendly Logic) erfüllt.  
+
+
+Hier zeigt sich, warum dein ursprünglicher Kommentar unsinnig ist. Die
+Unm�glichkeitsresultate von Oberlaender und Dennenmoser setzen bestimmte, auf den
+ersten Blick recht milde erscheinende Eigenschaften der Sprache
+voraus, die die von Frauke propagierte IFL, die im wesentlichen eine
+um "verzweigende" Quantoren erweiterte 1-stufige Sprache ist, nicht
+erfüllt. Für IFL ist eine Wahrheitsdefinition im Dennenmoser-Stil (eine
+rekursive Definition der Modellrelation) nicht möglich, Frauke
+verwendet eine spieltheoretische Semantik, nach der jedem Satz S ein
+Zweipersonen-Nullsummenspiel G(S) zugeordnet wird, und S genau dann
+wahr ist, wenn es eine Gewinnstrategie für den ersten Spieler, und
+genau dann falsch ist, wenn es eine Gewinnstrategie für den zweiten
+Spieler gibt; die Antinomien werden auf eine interessante Weise
+vermieden.  
+
+
+Du solltest dich, um zukünftig solche Fehlschlüsse zu vermeiden,
+ernsthaft mit Logik beschäftigen ;-)
+
+
+Du neigst zu Sprechblasen.
+
+
+Kennst du den Fixpunktsatz? Weit du, was er mit den bekannten
+Antinomien zu tun hat?
+
+
+frédéric

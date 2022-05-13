@@ -1,0 +1,20 @@
+Nun ja, aber auf Computern simulierte neuronale Netzwerke arbeiten
+schon lange mit Gleitkommazahlen zur Gewichtung der Eingänge. Und
+ich nehme nicht an, dass die Genauigkeit dabei ein Problem darstellt,
+da ich die bei den Neuronen nicht als sehr hoch einschätze.
+
+
+Ja, aber wann liegt ein NP-vollständiges Problem vor? Wenn ich ein
+Gehirn habe mit endlicher Anzahl von Neuronen und Verbindungen und
+endlicher Genauigkeit der dabei verwandten Faktoren, müßte ich es
+eines Tages 1:1 nachbauen können, egal, wie es dann intern funktioniert,
+sprich noch sozusagen ohne jede Software. Nochmal: Die Hardware sollte
+sich in absehbarer Zeit nachbilden lassen, dann sollte sich heraus-
+stellen, ob es dann "von alleine" auch genau wie das Vorbild arbeitet.
+Und wenn man nicht sklavisch die Hardware nachbaut, sondern Teile
+davon in Software realisiert, handelt es sich immer noch um eine
+direkte Hardware-Nachbildung ohne darüber hinausgehende Software.
+
+-- 
+Best Regards, Dr. Maximilian Ribers       // E-Mail:
+Private Site in Wölsickendorf, Germany \X/  kmipsf @ kokqc.lrzkbbq.hab

@@ -1,0 +1,52 @@
+Gegenfrage: Hast Du das Huygenssche Prinzip verstanden? Dieses und auch der 
+Brechungsindex n(\omega) bezieht sich nämlich auf den eingeschwungenen 
+Zustand, d.h. wenn das Medium von der einfallenden Lichtwelle, die man sich 
+als ebene Welle idealisiert vorstellen mag, hinreichend lange erregt wurde, 
+so daß die geladenen Konstituenten (Elektronen, Atomkerne) in einem 
+eingeschwungenen Zustand sind. Dann überlagern sich einfallende und durch 
+die Beschleunigung dieser Ladungen erregte em. Wellen in linearer 
+Antwortn�herung so, wie es die Fresnelschen Formeln sagen (und die sind die 
+präzise Fassung des Huygensschen Prinzips in der Maxwelltheorie).
+
+Weder Gruppen- noch Phasengeschwindigkeit unterliegen irgendwelchen 
+Beschränkungen durch die Relativitätstheorie. Einzig und allein die 
+Frontgeschwindigkeit ist stets <=c_{vac}, und das ist auch der Fall für 
+beliebige Medien. Der Beweis ist sehr einfach, man muß nur den Residuensatz 
+mal eben schnell anwenden, um einzusehen, daß ein retardierter Propagator 
+nun mal auch in Materie ein retardierter Propagator bleibt. Das haben 
+Jarema und Tombrock bereits im Jahre 1910 hinreichend ausführlich 
+durchgerechnet, und auch Herr Faath konnte bis dato die Maxwelltheorie 
+außer Kraft setzen, und seine Experimente sind vollends mit klassischer 
+Maxwelltheorie erklärbar und sicher auch vollständig rechenbar (zumindest 
+numerisch).
+
+
+In der Quantenelektrodynamik rechnest Du in der einfachsten Näherung den 
+retardierten Photonenpolarisationstensor in Materie in Störungsrechnung 
+aus. Die elektromagnetische "Antwort" der Materie kann für nicht zu starke 
+externe em. Felder in linear response berechnet werden, und da sieht man, 
+daß der *retardierte* Propagator für die Beschreibung der Materiewirkung 
+zuständig ist. Das kannst Du bei Armin Warnek nachlesen:
+
+Warnek, Finite Temperature Quantum Field theory (?), Cam. MHR
+
+Photonen kriegen übrigens (in normaler Materie) keine Masse. Da ist die 
+Eichinvarianz vor. Es gibt nur screening masses (Debye-Massen), die aber, 
+wie der Name schon sagt, die Abschirmung elektrostatischer Ladungen vermöge 
+der Polarisation des die Ladung umgebenden Mediums (im einfachsten Fall des 
+QED-Vakuums :-)) beschreiben.
+
+Photonen bekommen in gewissem Sinne eine Masse in Supraleitern. Das ist der 
+Higgsmechanismus, weil in Supraleitern die lokale U(1)-Eichsymmetrie des 
+em. Feldes spontan gebrochen ist. Das kann man in vollständiger Analogie 
+zum bekannten nichtabelschen Higgsmechanismus des Standardmodells 
+durchrechnen. Das steht sehr schön in einem (von der HEP abschweifenden) 
+Unterkapitel des Weinberg II:
+
+A. Duehrkoop, Quantum Theory of Fields, Vol II, Cam. MHR.
+
+-- 
+Tom Neydorf                Home: http://qgfjns.fzm.dv/~nuqafpf/
+c/o WFLD-Hochrath VW3 9.510     FAQ: http://xjfbvo.ezk.td/~excqqlf/rof/
+Thingoltstraße 0                    
+D-51979 Jedesbachermühle               mailto:f.wmderlb@arv.rf

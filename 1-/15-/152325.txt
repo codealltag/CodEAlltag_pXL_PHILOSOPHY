@@ -1,0 +1,125 @@
+Methodisch gesehen ist aber so eine Uebertragung induktiv. Apriori waere,
+wenn man garnicht von Uebertragung spraeche, sondern eben (bedingungslos)
+voraussetzt, dass gewisse (auch logische) Axiome auch fuer Unendlichkeiten 
+gelten. Ich finde den Begriff der Uebertragung schon charakterisierend fuer 
+den Begriff der Induktion und moechte hier gleich einhaken. Dazu will ich 
+aber vorher noch sagen, dass mir schon der Begriff der Induktion im mathe-
+matisch deduktiven Sinne (also als etwa als vollst. oder transfinite Induk-
+tion) klar ist. Es ist auch nicht dieser Begriff, worueber ich reden will, 
+weil er selbst schon ein Prinzip ist und sich im Rahmen einer Mengentheorie 
+auch beweisen laesst. Aber das ist auch klar, wenn man schon eine induktive 
+Menge voraussetzt. Ich meine hier eigentlich eher den Induktionsbegriff,
+der zu der Entscheidung der Annahme von Prinzipien fuehrt.
+
+Wenn ich sagen wuerde (und hier nehme ich ein altbekanntes Beispiel)
+
+(1) "Alle Schwaene sind weiss",
+
+dann wuerde man mir sagen, dass waere eine unzulaessige Induktion, da
+ich nicht alle Schwaene kenne. Aber wenn ich sagen wuerde "Zu jeder
+Familie von nicht leeren Mengen gibt es eine Funktion, die mir aus jeder
+dieser Mengen ein Objekt auswaehlt", dann wuerde man mir sagen, dass sei
+ein Axiom der Mengenlehre. Wenn ich die Struktur der reellen Zahlen als
+genauso real betrachte wie die Existenz von Schwaenen und eben sage, dass
+hier eben das Auswahlaxiom gelte und die Teilmengen der reellen Zahlen
+ebenso als reale Objekte betrachte, was ist an diesem Satz dann wesentlich
+anders als in (1)? Ich kenne nicht alle Teilmengen der reellen Zahlen,
+wie ich auch nicht alle Schwaene kenne. Will man damit argumentieren, dass
+das eine ein Satz sei, den ich nicht durch Beobachtung verifiziert habe, der
+andere aber nur theoretischer Natur sei? Ich kann nicht entscheiden, ob
+das Auswahlaxiom in der Struktur der reellen Zahlen Gueltigkeit hat.
+Was bleibt mir also anderes uebrig, als eine Rechtfertigung in der Anwendung
+der Mathematik zu suchen? Dort wo sich Saetze, die auf dem Auswahlaxiom
+beruhen, erfolgreich durch Modellierung aussermathematischer Bereiche an-
+wenden lassen (in Form der Analysis in der Physik z.B.), kann ich Gruende
+fuer die Plausibilitaet dieses Gesetzes sehen. Ich kann sagen, weil sich
+die Mathematik durch Hinzunahme des Auswahlaxioms (und ich schliesse auch
+gleich das Unendlichkeitsaxiom mit ein) bewaehrt hat, nehme ich es aus
+pragmatischen Gruenden an. Aber auch hier ist dann die Rechtfertigung
+induktiv, da sie auf der bisher gemachten bewaehrten Erfahrung beruht.
+Die Rechtfertigung ergibt sich sowohl aus der "reinen" mathematischen
+Praxis, da man sonst Teile der Mathematik nicht mehr zur Verfuegung haette
+als auch aus der aussermathematischen Praxis, wo die Mathematik zur Mo-
+dellierung gebraucht wird. Komme ich nun wieder zu der Struktur der reellen
+Zahlen zurueck, so sammel ich also alle diese pragmatischen Gesichtspunkte
+ein, und erklaere, dass man auf dieser (realen) Struktur das Auswahlaxiom
+anwenden koenne. Aber das ist induktiv, da es eine Uebertragung aus prag-
+matischen endlichen Gesichtspunkten ist, fuer Objekte, die ich nicht alle
+kenne, genausowenig wie ich alle Schwaene kenne.
+
+Nun kann ich eine Theorie ueber Schwaene machen und (1) als Axiom setzen,
+aber dann wuerde man nach der Rechtfertigung fuer (1) fragen, und ich wuerde
+sagen "Ich kenne nur weisse Schwaene und vermute, dass alle Schwaene weiss
+seien und stelle dieses Postulat an den Anfang meiner Schwan-Theorie".
+Was ist anders bei der Uebertragung des Auswahlaxioms auf alle Teilmengen der 
+reellen Zahlen? 
+
+Auch wenn ich den Standpunkt teilen koennte, dass Gesetze apriori notwendig
+sind fuer Erfahrung, so ist es immer noch eine Frage, auf welche Entitaeten
+sich solche Gesetze beziehen. Etwas, was sich z.B. auf endliche Gesamtheiten
+bezieht muss sich nicht auf unendliche Gesamtheiten beziehen. In dieser
+Weise sehe ich den Begriff der Induktion und nicht innerhalb einer Theorie
+wo schon die Praemissen festgelegt wurden.
+
+Ein anderes Beispiel, was z.B. Intuitionisten als unzulaessige Induktion an-
+sehen, ist die Uebertragung des tertium non daturs von Endlichkeiten auf
+Unendlichkeiten.
+
+Wenn ich nun ueber Rechtfertigung nachdenke, so sind z.B. auch die Axiome
+in der Mengenlehre intuitiv und pragmatisch motiviert. Pragmatisch des-
+halb, weil versucht wurde, die Mathematik auf sicheren Boden zu stellen
+und soviel wie moeglich davon zu bewahren. 
+
+Ist nicht gerade das auch eine Induktion, naemlich in der Weise, dass man
+ausgehend vom endlich konstruktivem hieraus Schlussweisen, Regeln in der
+gleichen Weise auf unendliche "Entitaeten" anwenden will? Wenn also solche
+Entitaeten nicht konstruktiv angegeben werden koennen, aber Prinzipien hierauf
+uebertragen werden, dann erscheint mir das induktiv. Die Gruende, wieso solche
+Prinzipien angenommen werden, ergeben sich aus pragmatischen Gesichtspunkten.
+
+
+Naja, wie kann man das schon so genau sagen? Etwas, was einem in der endlichen
+Mathematik ja schon "immer klar" war ist halt uebertragen worden. Wenn man
+nun von einem formalen Standpunkt untersucht, was da ueberhaupt fuer Prinzi-
+pien wirken, so wird einem "bewusst", dass man intuitiv gewisse Regeln wie
+selbstverstaendlich schon uebertragen hat. Genau das ist z.B. der Kritik-
+punkt der Intuitionisten, diese Uebertragung. Ist es zulaessig, Prinzipien,
+die fuer die endliche Mathematik "gelten", zu nehmen und sie auch auf unend-
+lichen Entitaeten wirken zu lassen? Ein offensichtliches Entscheidungsproblem,
+welches meiner Ansicht nach (wenn Mathematik einen Erkenntnisanspruch geltend
+machen will) nur pragmatisch entschieden werden kann. Die Argumentation muss
+zwar nicht so sein: "Weil das Prinzip fuer Endlichkeiten gilt, kann ich es
+auf Unendlichkeiten uebertragen", aber praktisch ist es so, weil man nur
+diese Erfahrung zur Entscheidung hat.
+
+
+Was ich mir ueberlege, ist, dass es zwar Prinzipien a priori gibt, aber
+man diese Prinzipien nur induktiv finden kann, und also ob der Speziali-
+taet von Prinzipien nicht sicher sein kann. Es ist vielleicht damit ver-
+gleichbar, dass man Prinzipien auch als etwas wesentliches auffassen kann,
+aber nicht erfassen kann, auf welche Entitaeten Prinzipien ueberhaupt an-
+wendbar seien. Hier setzt die Induktion aus der Erfahrung an. Also, damit
+keine Missverstaendnisse entstehen. Ich akzeptiere (hier mal) Gesetze a 
+priori, die notwendige Bedingung fuer unsere Erfahrung sind, aber ich meine, 
+dass man nur induktiv an sie herankommen kann, weil man auch nicht weiss, auf 
+welche Entitaeten Prinzipien im allgemeinen anzuwenden sind.
+
+
+Das sind alles pragmatische Gesichtspunkte.
+
+
+Hier moechte ich Dich auf meine obigen Ausfuehrungen verweisen, wo ich
+den Begriff der Induktion etwa anders sehe.
+
+
+Die Art der Prinzipien wird aber durch Evidenz oder Pragmatismus erschlossen.
+Sie richtet sich auf Entitaeten und Strukturen.
+Ich habe mal irgendwo gelesen, das auch Saetze in der Funktionalanalysis gibt,
+die auf der Negation des Auswahlaxioms beruhen, aber dennoch Anwendung im
+aussermathematischen Bereich finden.
+
+Wenn ich mich irre, dann klaer mich bitte auf. ;-)
+
+
+Gruss Wolfgang
+--

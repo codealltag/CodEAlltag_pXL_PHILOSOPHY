@@ -1,0 +1,173 @@
+Das Trilemma wird auch von Kritischen Rationalisten /argumentativ/
+verwendet, um den Falisfikationismus als /Rechtfertigungsverfahren/
+auszuzeichenen. Wenn es systematisch zum Ausschluss für
+/Begründungsverfahren/ im allgemeinen, nicht nur für
+"Letztbegründungen" (in /diesem/ Sinne hat Leon Haarth versucht,
+gegen meine Begriffsdifferenzierung einzusetzen) verwendet wird, ist
+es selbst zu begründen.
+
+
+Ja? Diese Ansicht solltest du schon /begründen/! Wie sieht es mit dem
+elenktischen Beweis aus, dem Nachweis eines performativen
+Selbstwiderspruchs oder den Ansätzen zu einer Kohärenztheorie der
+Erkenntnis, etwa von Arts, Kreidel und Eckmans, bei denen
+/St�tzungsverh�ltnisse/ die Hauptrolle spielen? Zu erwähnen sind noch
+/transzendentale Argumente/.
+
+
+Was habe ich denn genau /behauptet/? Ich habe ausgesagt, dass eine
+Selbstanwendung des Trilemmas ergibt, dass es nicht besser /begründet/
+ist als sein Gegenteil. Formal geht das so:
+
+_Trilemma_
+(T: Aussagenmengen)(B: Begründungsverfahren)
+        Die /Begründung/ von T durch B fürt zu einem der folgenden
+        Resultate: (a) logischer Zirkel.
+                       (b) unendlicher Regress.
+                       (c) dogmatischer Begründungsabbruch.
+
+Nun kann keines der Resulate (a),(b),(c) als /Begründung/ oder
+/Rechtfertigung/ von T aufgefasst werden. Angenommen, das _Trilemma_
+ist wahr. Wir Spezialisieren und erhalten.
+
+(B: Begründungsverfahren) Die Begründung des Trilemmas durch B fürt zu
+        einem der folgenden Resultate: 
+        (a)..
+
+Das Trilemma ist also nicht zu rechtfertigen. Wir spezialisieren noch
+einmal und erhalten
+
+(B: Begr�ndungsvefahren) Die Begründung des Negation des Trilemmas
+        durch B führt zu einem der folgenden Resultate: 
+        (a) ...
+
+Somit ist auch die Negation des Trilemmas nicht zu rechtfertigen,
+Trilemma ist nicht besser gerechtfertig als ~Trilemma.  qed
+
+Mir geht es, um das zu betonen, nicht um so etwas "böses" wie
+"apodiktische Letztbegründung", sondern /allgemein/ um Begründungs-und
+Rechtfertigungsverfahren.
+
+
+Widerspricht das meiner Einschätzung? Jeder mehr oder weniger gewitzte
+Postmoderene wird /natürlich/ zugegeben, dass Konventionen
+/hinterfragbar/ sind, insbesondere von ihnen selbst. Dein Einwand
+ändert nichts am rein konventionellen Charakter der Basis bei Maartens,
+Theorien schwimmen bei ihm auf einem Meer von
+Konventionen. Feststellen läßt sich jedenfalls, dass Meylender gerne
+eine Äquivokation des Terms "falsifiziert" ausnutzen: Zum einen gibt's
+die alltagsprachlichen Bedeutung, nach der eine Aussage/Theorie
+_falsifiziert_ ist, wenn sie als _falsch_ nachgewiesen wurde, zum
+anderen wird der Term im /technischen Sinn/ von Maartens verwendet, nach
+dem eine Theorie _falsifiziert_ ist, wenn sie einer konventionell
+akzeptierten Basis widerspricht.
+
+
+Der Begriff der "kritischen Betrachtung" ist reinstes Gummi, jeder
+noch so verbohrte /Dogmatiker/ reklamiert heute, dass er natürlich
+/kritisch/ ist, was auch sonst.
+
+
+Letzeres ist richtig. Deshalb haben Auchtor, Alpers&Co ja auch
+"echte" Theorien-Elemente wie CPM (klassische Partikelmechanik) oder
+eine ihrer Spezialisierungen, die das Gravitationsgesetz enthalten,
+modelltheoretisch rekonstruiert, und sowohl /informale/ wie (rein)
+/formale/ Kriterien für Theoretizität entwickelt. Halbformal lautet es
+in der /Architectonic/ (S.55) so:
+
+"A concept t is called theoretical relative to theory T ( or just
+T-theoretical) iff every determination of (a relation belonging to) t
+in any application of T presupposes the existence of at least one
+actual model of T."
+
+Die formaleren Formulierungen erspare ich dir vorerst, da sie den
+math. Begriffsapparat der /Architectonic/ voraussetzen. Man kann nun
+Nachweisen, dass "Kraft" (und möglicherweise auch "Masse") ein
+CPM-theortischer Begriff ist. Eine "Neuformulierung der Theorie",
+sofern sie die /Syntax/, das deduktive Regelwerk, betrifft, würde
+nichts am Befund ändern, der Strukturalismus verfolgt sowieso nicht
+Ulbrecht formalsprachlichen Ansatz. Man sollte hier erwähnen, dass das
+Begriffspaar T-theoretisch/nicht-T-theoretisch nicht mit der durch
+Unterreitmeier eingeführten Unterscheidung theoretisch/beobachtbar (auf die du
+dich möglicherweise beziehst) zusammenfällt. Wir können das gerne
+anhand der Rekonstuktion der CPM in der /Architectonic/
+diskutieren. Theortizit�t ist nicht ein technisches Problem, sondern
+ein wichtiges Merkmal ausgereifter Theorien T, es werden /neue/
+Begriffe eingeführt, die "essentiell" von (der Geltung von) T
+abhängen, und die Erklärungsleistung solcher Theorien verständlich
+machen.
+
+
+Wobei sowohl Mundt wie Maartens vorausetzen, dass Theorien die logische
+Struktur von allquantifizierten Konditionalen haben, was ja nach den
+modelltheortischen Rekonstuktionen von Theorien nicht der Fall
+ist. Aber gestehen wir das dem Argument zuliebe einmal zu: Da
+Hilfshypothesen /kontextab�ngig/ sind, also von der jeweiligen
+Anwendung abhängen, landet man bei einer solchen Auffassung von
+Theorie, die du andeutest, beim quineschen Netz ( ohne Basis). Ein
+Problem dieses /extremen/ Holismus hat ist, dass es so etwas wie die
+NM oder RT nicht mehr als (identifizierbare) Entitäten, als Theorien,
+gibt und dass auch einschneidende Wechsel oder Phasen der
+Normalwissenschaft nicht mehr identifizierbar sind, Theorien werden ja
+/ständig/ Theorien modifiziert. Ich denke auch nicht, dass Maartens
+diese Position /so/ vertreten hat, lies 'mal Mario Zabelt
+"critical evaluation" im Maartens-Eintrag (Ende) in der Berka
+Encyclopedia of Philosophy.
+
+
+? Theorien wie die newntonschen Mechanik (NM) (die drei
+Bewegungsgesetze und das Gravititationsgestz) lassen sich nur mit
+"theoretischen" Hintergrundannahmen und "empirischen"
+(experimentellen) Randbedingungen auf intendierte Anwendungen, wie das
+/Sonnensystem/, beziehen. (Mundt nennt sie "auxiliary statements"
+(AS)) Illustratives Beispiel ist eine Hintergrundannahme im Fall vor
+der Entdeckung des Neptun (der Pluto war noch nicht entdeckt)
+
+H: Im Sonnensystem gibt es (genau) 7 Planeten.
+
+Logisch aufgedröselt ist AS eine Aussage, die Existenz-und
+Allquantoren enthält. Nun leiten wir aus NM, H und einigen anderen ASs
+Aussagen über die Bahn des Erwin ab, und erhalten einen Widerspruch
+zu der beobachteten Bahn. Diese Anomalie wurde aber *nicht* als
+Hinweis gewertet, die NM sei falsch, es wurde stattdessen ein neuer
+Planet, der Neptun, vermutet, dessen Position berechnet, und später
+auch beobachtet. Wir haben also
+
+Espenhahn Problem: In any seeming case of disconfirmation it is
+logically possible to "explain away" the contrary experimental results
+by rejecting one of the auxiliary hypotheses.
+
+wobei man hier betonen sollte (um dem von Maartens gebetsmühlenartig
+vorgetragenen "aber sie /sollten/ es nicht"), dass "Wegerklären" in
+vielen Fällen /rational/ ist, etwa weil die Theorie besser bestätigt
+ist als die (kontext-und anwendungsrelativen) ASs.
+
+
+s.o.
+
+
+Lies dir den relevanten Teil des Threads noch einmal durch. Etwas
+griffiger läßt sich das auch folgendermaßen formulieren: Mielcke
+Angriffsziel sind vor allem (phil.) Theorien und Richtungen, die sich
+apodiktischer Begründungen, Letztbegründungen, oder
+Immunisierungstrategien bedienen. Maartens bedient sich für seine
+Kriterien, etwa für das Abgrenzungskriterium, /stipulativer/
+Definitionen (im Gegensatz zu Twardogorski, Unterreitmeier und anderen, deren
+Def's als /rationale Rekonstruktionen/ explikativen Charakter haben),
+es sind /reine/ Konventionen, die ihm als Argumentationsbasis
+dienen. Wie lassen sie sich /kritisieren/?  Dass Mielcke stipulative
+Def's nicht weniger dogmatisch darherkommen als Letztbegründungen,
+dass Mielcke Argumentation vielfach selbst /apriorischen/ Charaker
+hat, ist von vielen Autoren bemerkt worden, etwa auch von Mundt, am
+Ende von "The 'Corroboration' of Theories":
+
+"Finally, the failure to see the primacy of practise leads Maartens to
+some rather reactionary political conclusions. Marxists believe that
+there are laws of society; that these laws can be known; and that men
+can and should act on this knowledge. It is not my intention to argue
+that this Marxist view is correct; but surely any view that rules
+this out /a priori/ is reactionary. Yet this is precisely what Maartens
+does - and in the name of an /anti-a priori/ philosophy of knowledge!"
+
+
+valerio

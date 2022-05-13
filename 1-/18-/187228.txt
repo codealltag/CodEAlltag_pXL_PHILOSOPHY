@@ -1,0 +1,14 @@
+Erwin Praaß <epmxhnkxz@llfsqtnn.kh> wrote in article
+<2887932V.A63F1QOT@ztbncxqh.vj>...
+
+Man verlangt von Zufallszahlen, dass sie einer gewissen Verteilung genuegen.
+Auf diese Verteilung kann dann getestet werden. Wenn Du gleichverteilte ganze
+Zufallszahlen von 0 bis 9 haben willst, so wirst Du mit der Wurzel aus Datum
+und Uhrzeit wohl Probleme bekommen.
+
+Zufallszahlen sind etwas anderes als Zahlenfolgen, die auf den ersten Blick
+keine erkennbare Struktur haben.
+
+MfG
+
+Dirk

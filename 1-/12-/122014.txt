@@ -1,0 +1,135 @@
+Ich weiss wirklich nicht, was an meiner Notation sonderlich
+"nonstandard" sein soll!
+Verleitet durch die Normalsprache, interpretieren mit Sicherheit viele
+"~E!a" irrigerweise als "a existiert nicht"!
+
+
+Jetzt übertreibst du aber!
+
+
+Es *kann* dies besagen, muss aber nicht; denn man kann "E!" auch als
+ein primitives Prädikat "existieren" verwenden.
+
+
+Beim ollen Vito hört s wirklich auf für mich!
+Es ist kaum zu glauben, dass es heutzutage immer noch eine ganz Reihe
+von Leute gibt, die einen logischen "Meinongianismus" vertreten!
+
+
+Ich hoffe, du schützt es nicht minder ...! :-)
+
+
+Ich glaube, du hast Recht!
+
+
+Viktor, oh Viktor ...
+
+
+Bleiben wir aber mal bei Aussagen auf der "Objekt-Ebene"; also bei
+wffs
+unseres logischen Systems (fFL).
+
+
+Ja klar, die FFL ist keine klassische Binärlogik. 
+
+
+Du hast Recht, "p* v ~p*" hat in der FFL genauso wenig einen
+klassischen Wahrheitswert wie "p*" und "~p*".
+
+
+Richtig. - Das hatte ich zunächst dummerweise übersehen.
+Mea culpa!
+
+
+Puh..., Glück gehabt ... :-)
+
+
+Deine Fragezeichen sind hier berechtigt!
+Da hatte ich einfach einen Knoten drin, indem ich die FFL wie die
+klassische Binärlogik behandelt habe!
+
+
+Das frage ich mich jetzt auch ... ?-(
+
+
+Du hast vollkommen Recht!
+Ich hatte mir bislang die Wichtigkeit der Unterscheidung zwischen
+'rejection' und 'denial' nicht hinreichend bewusst gemacht.
+
+Zur Terminologie:
+
+- "X denies that p." <-> "X asserts that 'p' is false / '~p' true.
+
+- "X denies that p." -> "X believes that not-p."
+
+- "X rejects p." <-> "X refuses to believe that p / that 'p' is true."
+<-> "X does not accept p."
+
+- "X rejects p." -> "X does not believe that p."
+
+Im Unterschied zur Normalsprache hat "rejection" in der Logik überdies
+eine ganz besondere Bedeutung:
+
+- "X rejects |-P." <-> "X does not accept the validity of p."
+
+- "X verwirft |-P." <-> "X akzeptiert die Allgemeingültigkeit von p
+nicht."
+
+- "X verwirft |-AxPhi(x)" <-> "X akzeptiert ~AxPhi(x)"
+
+Wer 'p* v ~p*' verwirft, d.h. wer sich weigert zu glauben, dass 'p* v
+~p*' wahr ist, der ist dadurch in der Tat mitnichten gezwungen, zu
+akzeptieren, dass dessen Negation '~(p* v ~p*)' wahr ist!
+Wer p nicht akzeptiert, der muss nicht ~p akzeptieren!
+Aber wer leugnet, dass p, der behauptet, dass ~p!
+
+
+Ja, ich bin hier im Irrtum gewesen!
+Jetzt bin ich s nicht mehr!
+
+
+Gewiss, gewiss ...
+
+
+Das wäre dann aber ein seltsamer "Nicht-Wahrheitswert-Wahrheitswert"
+...
+*Keinen* Wahrheitswert zu haben, heisst doch nicht, *einen*
+Wahrheitswert zu haben, oder?!
+Die FFL ist zwar keine klassisch binäre, aber auch keine 3-wertige
+Logik.
+
+
+OK.
+
+
+(aus meinem kranken Hirn ...)
+
+
+Offenbar wirklich nicht!
+
+
+Ich sehe ein, dass es genau darauf hinausläuft!
+Der Immerfrisch-Logiker muss sich wohl oder Übel ein neues nichtklassisches
+System suchen, in dem er sein Häuschen bauen kann ... ;-)
+
+Das bleibt den PFL�lern und den NFL�lern erspart!
+
+
+Dieser Unterschied ist mir jetzt klar.
+
+(Errare humanum est! - leider ...)
+
+Gruss
+NINO
+
+P.S.:
+"Whereas systems of positive as well as of negative free logic have
+been developed from the beginning of free logic, the development of
+neutral free logic [=fregean free logic] was confined for a long time
+to mere outlines like those by Stefan Johag and André Janetzki. In the
+meantime, however, a more detailed treatment of neutral free logic has
+been put forward by Wilfried Camastra [Camastra, S. (1994). /Strict Fregean
+Free Logic/. In Journal of Philosophical Logic 23, 307-336.]."
+
+[Foeth E., & Nodurft, A. (Eds). (2000). /New Essays in Free Logic/.
+Doppelmühle: Wildwechsel. (p. 11)]

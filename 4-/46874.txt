@@ -1,0 +1,45 @@
+Ich referenziere hier seine Sprachentheorie.
+
+
+Im Gegenteil ;-)
+
+
+Du liegst falsch. Abzählbar ist eine Menge, wenn man das Konzept des
+Zählens auf diese Menge anwenden kann. Deshalb ist jede endliche Menge
+abzählbar, unendliche Mengen sind nur dann abzählbar, wenn man zu einem
+Element "das Erste" sagen kann, zum nächsten "das Zweite" und so weiter,
+und wenn dann keine Elemente übrig bleiben, die man nicht mit abzählen
+kann.
+
+Wenn das nicht mal der umgangssprachliche Zählbegriff ist.
+
+
+Du solltest Deine Angst vor Mathematik mal ablegen. Sie ist nicht nötig.
+
+
+Du vergisst die Bedeutung, die über Begriffe zugeordnet wird. Sprache
+ist abzählbar, aber das heisst nicht, dass man nicht jegliche Bedeutung
+sprachlich beschreiben könnte über einen passenden Begriff - man kann.
+
+Man kann nur nicht beliebige Bedeutungsbereiche vollständig über Sprache
+formal erfassen (spezifizieren), sondern eben nur abzählbare. Die
+Potenzmenge einer jeden Sprache ist ja auch wieder abzählbar (und die
+Beschreibung eines Sachverhalts ist eine Sprache).
+
+
+Es ist trivial, die komplexen Zahlen zu ordnen, und ich habe hier in
+dieser Gruppe auch schon eine Totalordnung angeben in einer anderen
+Diskussion. Allein, das mach sie nicht zu einer geordneten Menge.
+
+
+Du wirfst hier einiges durcheinander. Mein Eindruck ist, dass Dir der
+mathematische Hintergrund fehlt. Falls das so ist, frag einfach, ich
+(und sicher auch andere hier) helfe gerne weiter.
+
+
+Du wirfst hier natürliche und reelle Zahlen durcheinander.
+
+Viele Grüsse,
+VB.
+-- 
+Bitte beachten Sie auch die Rückseite dieses Schreibens!

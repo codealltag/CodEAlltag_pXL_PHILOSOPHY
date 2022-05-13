@@ -1,0 +1,42 @@
+Der Gausssche _Integralsatz_ gehört aber nicht zu den fundamentalen
+Grundgleichungen, er ist nicht lokal. Die grundlegenden Gleichungen sind
+natürlich die lokal formulierten differenziellen Maxwellgleichungen, und
+div D = \rho gilt _immer_.
+
+Außerdem folgt aus den Maxwellgleichungen noch was anderes, was Du bei
+Deinen Überlegungen völlig vergessen hast: es gibt eine
+Kontinuitätsgleichung für die Ladung. Es ist also _prinzipiell_
+unmöglich an irgendeinem Ort im Raum eine Ladung "einzuschalten", und
+nur das würde zu einer Verletzung der integralen Formulierung des
+(physikalischen) Gaussschen Satzes führen, also bleibt auch die
+Integraldarstellung immer gültig - man muß nur eben die Bedingungen
+beachten, die durch die fundamentalere differenzielle Formulierung
+gegeben ist.
+
+
+Die Wellengleichung wird auch nicht aus der Integraldarstellung der
+Maxwellgleichungen hergeleitet, sondern natürlich aus der
+differenziellen Form.
+
+
+Weil sich ein elektrisches bzw. ein magnetisches Feld _prinzipiell_
+nicht alleine ausbreiten kann. Wenn sich ein elektrisches Feld im Raum
+ausbreitet, dann "am Rand" der Ausbreitung immer  dE/dt \neq 0 , daraus
+folgt natürlich, daß  rot B \neq 0  ist und umgekehrt.
+Steht doch alles in dem Maxwellgleichungen - diese Frage sollte sich
+also erübrigen, wenn man diese kennt.
+
+
+Also, die endliche Ausbreitungsgeschwindigkeit eines _magnetischen_
+Feldes würde das integrale Gesetz der Nichtexistenz magnetischer
+Monopole (\oint_A B d^2a = 0)  nicht mal bei Missachtung anderer Gesetze
+verletzen - oder?
+
+
+Gruß, Cédric
+
+
+----------------------------------------------------------
+           "You may say I'm a dreamer."
+Cédric Ehrgang
+qbycat@vdmgudev.bbw-ixqupsxns.zk

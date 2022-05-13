@@ -1,0 +1,62 @@
+hugh,
+
+
+stimmt. Dafuer reicht nicht einmal einstellige Praedikatenlogik.
+
+
+ja, aber wie gesagt, es geht nur mit mehrstelliger Praedikatenlogik. 
+Das Problem ist allerdings eher die formallogische Formulierung der
+Konklusion als die der Praemisse.
+
+(Hm, ich weiss nicht, wie ich die Formelzeichen in ASCII schreiben
+soll, deshalb erstmal in polnischer Notation und dann ausformuliert,
+ok?)
+
+Px: x ist ein Pferd
+Tx: x ist ein Tier
+Oxy: x ist der Kopf von y
+(A ist der All-, E der Existenzquantor)
+
+1. AxCPxTx               (Praemisse)
+2. EyKPyOay              (konditionale Annahme)
+2.1 KPbOab               (2, Existenzbeseitigung)
+2.2 Pb                   (2.1, Simplifikation)
+2.3 CPbTb                (1, Allbeseitigung)
+2.4 Tb                   (2.2, 2.3, Modus Ponens)
+2.5 Oab                  (2.1, Simplifikation)
+2.6 KTbOab               (2.4, 2.5, Konjunktion)
+2.7 EyKTyOay             (2.6, Existenzeinfuehrung)
+3. CEyKPyOayEzKTzOaz     (2-2.7, Annahmebeseitigung)
+4. AxCEyKPyOayEzKTzOaz   (3, Alleinfuehrung)
+
+auf deutsch:
+
+1. Fuer alle x ( wenn x ein Pferd ist, dann ist x ein Tier) 
+2. Es gibt ein y ( y ist ein Pferd und a ist der Kopf von y )
+2.1 b ist ein Pferd und a ist der Kopf von b 
+2.2 b ist ein Pferd 
+2.3 Wenn b ein Pferd ist, dann ist b ein Tier 
+2.4 b ist ein Tier
+2.5 a ist der Kopf von b 
+2.6 b ist ein Tier und a ist der Kopf von b 
+2.7 Es gibt ein y ( y ist ein Tier und a ist der Kopf von y ) 
+3. Wenn es gibt ein y ( y ist ein Pferd und a ist der Kopf von y ) 
+   dann es gibt ein y ( y ist ein Tier und a ist der Kopf von y )
+4. Fuer alle x ( wenn es gibt ein y ( y ist ein Pferd und x ist der 
+   Kopf von y ) dann es gibt ein y ( y ist ein Tier und x ist der Kopf
+   von y ) ) 
+
+Die angewandten Regeln sind dieselben wie bei der polnischen Notation.
+
+Wie gesagt, die Formulierung der Praemisse (1.) duerfte naheliegender
+sein als die der Konklusion (4.).
+
+Gruss,
+
+Dietrich.
+
+
+-- 
+homepage: http://ifs.erjn.ccc/pqtkfzhd
+"Wo kaemen wir hin, wenn jeder sagte: 'wo kaemen wir hin?' und keiner
+ginge, um zu sehen, wohin wir kaemen, wenn wir gingen?" (Lao Tse)

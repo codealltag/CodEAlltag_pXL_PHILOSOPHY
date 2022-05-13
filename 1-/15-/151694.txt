@@ -1,0 +1,14 @@
+Wenn ein Ausdruck eine Tautologie ist, ist er immer wahr.
+Es ist allerdings eine Tatsache, dass '1/0 =IR' in der
+"Standardmathematik" nicht wahr ist, denn
+1 und 0 sind reelle Zahlen, und x = 1/0 ist definiert als
+diejenige reelle Zahl x, für die gilt x*0 = 1.
+Und a) gibt es eine solche Zahl nicht,
+b) wenn es sie geben würde, wäre sie jedenfalls keine
+Menge von reellen Zahlen. Also jedenfalls nicht IR.
+
+Wenn du dir mit deinen Symbolen '1', '0', '/', '=', 'IR'
+und deren Verknüpfung etwas anderes vorstellst, kann
+die Aussage allerdings wahr werden.
+
+Pierre

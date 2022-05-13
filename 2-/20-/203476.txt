@@ -1,0 +1,131 @@
+So, jetzt reduzieren wir mal Deine gesammelten Wehklagen auf das Wesentliche:
+
+Ja stimmt, an den solltest Du schon glauben, wenn es mit den 26 Dimensionen
+doch nicht hinhaut ;-)
+
+Ansonsten zeige ich nur, was bei wirklich konsequenter Anwendung der Renault
+so alles herauskommen kann:
+
+Schoen.
+(Ironische Frage: Was ist ein >>festes<< Inertialsystem, eines, dass mit dem
+Mittelpunkt des Alls (also der Erde ;-) fest gekoppelt ist, wenn's mit der SRT mal
+doch nicht mehr hinkommt, also eine Art Backup-IS ? ;-)
+
+Auch noch gut.
+
+1. (Buecher schlepp ;-) d/dt mv / sqrt(1-v^2/c^2) = q (E+v(/c) x B).
+   oder m d u^alpha/dtau = q/c F^alpha beta u_beta
+   (mit Deinen heissgeliebten Tensoren.)
+2. Habe ich von Ladungen geredet ? Nein!
+3. Habe ich gar von der Masse der Ladungsteilchen und deren kinetischer
+   Energie geredet ? Auch nein!
+Aber wie Du sehen wirst, spielt das auch keine Rolle.
+
+Auch noch gut.
+
+[Anmerkung: Argumentiere bis zum "Trotzdem" ;-) ]
+
+.. in einem anderen >>gleichwertigem<< Inertialsystem!
+Nehmen wir einfach mal an, beide Inertialsysteme kommen aufeinander zu,
+und in dem Moment, wo beide ein Startzeichen von einem genau zwischen beiden
+befindlichen Sender erhalten, schickt jeder dem anderen ein Wellenpaket mit
+gleicher Laenge und Energie.
+
+So, jetzt kommt es: Wie Du selber sagst hat die fuer den jeweils anderen Beobachter
+sichtbare Feldenergiedichte einen anderen Wert! Das ist auch richtig:
+Die Energiedichte rho_Es = eps/2 E^2 + mu/2 H^2 des sendenden Beobachters ist
+offenbar eine andere als die des empfangenden Beobachters mit
+
+rho_Ee = eps0/2 (E+v mu0 H)^2 / (1-v^/c^2) + mu0/2 (H+v eps0 E)^2 / (1-v^2/c^2).
+(Querrichtung, Transversalwelle, keine Laengskomponente) Ok ?
+
+Und og. Transformationsgleichungen gelten fuer das gesamte Feld, egal wo!
+Sie errechnen jeweils das Feld, dass der jeweils andere Empfaenger sieht.
+Nun sind aber beide Beobachter in >>Inertialsystemen<<, d.h. beide messen die
+gleichen Ladungen und die gleichen Massen ihrer jeweils eigenen Elementarteilchen.
+Denn wenn schon relativistisch, dann bitte richtig.
+
+D.h. beide haben den gleichen >eigenen< Dipol, mit den gleichen Ladungen und den
+gleichen Massen, jeweils natuerlich aus ihrer eigenen Sicht! Es ist demnach egal,
+woraus der besteht, und sei es aus Hundefutter!
+
+Nun kommst Du sicher mit der Lorentzkontraktion. Das ist auch richtig, nur
+ist die halt L' = L * sqrt(1-v^2/c^2), und damit bleibt dummerweise eben noch
+ein Rest stehen, der Anstieg an Feldenergie von Anfang bis Ende des Wellen-
+paketes ist nach der Lorentztransformation eben etwas groesser (sqrt(...) plus
+der geschenkte Anteil an der jeweils anderen Feldkomponente) als der Verlust
+an Volumen durch die Lorentzkontraktion, der kompensiert werden muesste.
+Der Dopplereffekt tut hier uebrigens nichts zur Sache.
+
+D.h., wie Du richtig erkannt hast, erhoeht sich auf merkwuerdige Weise die
+Feldenergiedichte und auch die im gesamten Wellenpaketvolumen vorhandene
+Feldenergie! Und nun koennen die beiden Beobachter wunderbar gegenseitig
+waehrend des Vorbeiflugs Energie "produzieren", indem jeder dem anderen ein
+energiehaltiges elektromagnetisches Signal zuschickt, und schon ist das Perpetuum
+Mobile da! Und schon sind wir nicht mehr bei der (nicht-) Lorentz-Invarianz der
+Feldenergie, sondern sehr wohl konkret beim Thema Energieerhaltung!
+
+NUR: Bekannterweise gibt es das Perpetuum Mobile nicht, und damit bedarf wohl
+auch die zugrunde liegende Theorie einer genauen Betrachtung.
+
+Das Problem ist, das im hier geschilderten Beispiel die einzige Verbindung der
+beiden Beobachter das elektromagnetische Feld ist, aber das in beide Richtungen
+und mit jeweils >>gleichwertigen<< Lorentztransformationen. Massen, Ladungen,
+deren Massen etc. interessieren hier nicht, da beide voellig gleichwertig sind.
+Das heisst, es macht keinen Unterschied ob Beobachter 1 an Beobachter 2 ein
+elektromagnetisches Signal (oder Licht) schickt, oder Beobachter 2 an Beobachter 1.
+Damit darf aber die transformierte Feldenergie in gar keinem Fall durch den Lorentz
+Boost anwachsen, und genau das tut sie. Und damit kann bei guter Buendelung der
+Signale durchaus jeder etwas mehr zurueckerhalten, als er dem jeweils anderem
+geschickt hat, zumindest getreu der Lorentztransformation des elektromagnetischen
+Feldes (Und nun komme bitte nicht und sage, dieser Austausch an Energie sei wegen
+der schnellen Bewegung nicht moeglich, denn es gibt gerichtete Funkwellen ebenso
+wie Lichtstrahlen, und die beiden koennen sich in ihrer jeweiligen Zielrichtung durchaus
+verabredet haben. Und dass Funkwellen Energie enthalten können, merkt spätestens
+der Braten in der Mikrowelle ;-)
+
+Das waere natuerlich mit einem "festen" Inertialsystem und einem beschleunigten
+(aber dann eben nicht mehr Inertial-) System, oder bei Betrachtung der Massen
+und deren kinetischer Energie E = mc^2 + 1/2 mv^2 + ... (Reihe bitte fortsetzen)
+etwas anderes, aber bei wirklich gleichwertigen Systemen gibt es ein Problem.
+
+Eine aehnliche Problematik ergibt sich uebrigens bei der Frage nach Einhaltung
+der Grenzgeschwindigkeit, wenn man von zwei weit entfernten Inertialsystemen
+ausgeht, die sich noch nie gegenseitig gesehen haben, also nicht von einem
+Inertialsystem, welches von einem anderen ausgehend beschleunigt wurde.
+
+Das Beispiel mit der Ladungsinvarianz im Wasserstoffatom trotz bewegter
+Elektronen ist mir uebrigens durchaus bekannt.
+
+Wenn Du nun nach einer Loesung fragst, muss ich sagen, tut mir leid, weiss
+ich auch nicht.
+
+NUR: Ganz so einfach, wie Ihr Euch das mit der Renault immer macht, indem immer
+nur die Beispiele gebracht werden, wo sie zugegebenermassen gut funktioniert,
+geht es auch nicht. Und solange nicht solche grundlegenden Dinge wie eben die
+Energieerhaltung (ja, die, nicht die Lorentz-Invarianz oder auch nicht-Invarianz)
+geklaert sind, braucht sich keiner ueber die am Ende herauskommenden 26
+Dimensionen, Wurmloecher, mal wieder ein neues zu suchendes Elementarteilchen
+und sonstige Dinge, die so nach derzeitigem Ermessen nicht gibt, zu wundern.
+Es gilt auch hier das Gigo Prinzip: Garbage In, Garbage Out ;-)
+
+Seine eigenen: Ja, die anderen: Leider Nein.
+
+Wenn Du meinst ...
+
+Beide sitzen in Inertialsystemen, eben in voellig gleichwertigen.
+
+Noe, weil die Physik eine Natur- und keine Geisteswissenschaft ist.
+Zeig halt einfach mal eins her ...
+
+[...]
+
+Es ist solange Quatsch, solange es nicht den geringsten Anhaltspunkt dafuer gibt.
+Also : Vorfuehren, Experiment taetigen ;-)
+
+Gruss Karsten
+
+------------------------------------------------------
+Karsten Rochlitzer + Essel, Germany + vahegocz@uucphak.nh
+http://rgr.kgcalxa.iy + Phone: +95-2233-3783-1 Fax:-43
+------------------------------------------------------

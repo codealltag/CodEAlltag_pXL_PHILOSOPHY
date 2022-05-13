@@ -1,0 +1,34 @@
+Hallo Laurent,
+Laurent Jödicke:
+
+Aber mit was willst du es begründen?
+Mittwoch ist eine verkürzte Zeit, Orts und Kulturangabe und kann nur dann
+der Wahrheit entsprechen, wenn ich zu der Zeit zu dem Ort und in dieser
+Kultur existiere. Das wissen über den Mittwoch, kann die Kultur nicht
+vernachlässigen, wenn es vernachlässigt wird, dann ist dieses Wissen so
+leer wie die Tradition des Regenschirms eines Briten. 
+  Was unserer Welt entspricht oder nicht entspricht, kann nicht unabhängig
+von der Kultur betrachtet werden. Ich sehe da keinerlei Abbruch des
+Verfahrens, sondern das Verfahren ist Bedingung, damit du überhaupt wissen
+kannst. Wenn es das Verfahren nicht gibt, dann glaubst du lediglich, dass
+heute Mittwoch ist, du weisst es aber nicht. Es könnte heute genausogut
+Donnerstag und Januar sein, wenn ich sowas mache
+$jd = GregorianToJD (11,24,2003);
+$zeit = getdate($jd);
+foreach($zeit as $dat){
+                echo $dat;
+                }
+dann antwortet der Computer, die ja angeblich nicht lägen, das heute
+Donnerstag und Januar wäre, gut den falschen Kalender erwischt und die
+falsche Funktion, aber "wahr" ist das Ergebnis trotzdem, getdate kann halt
+nicht mit dem Gregorianischen Kalender umgehen und für das php-getdate
+geht an einem Dienstag im Jahre 2039 im Januar die Welt unter. 
+Die Frage, ob heute Mittwoch ist bestimmt die Kultur und heutzutage fragen
+die Leute die Technik, aber die Technik ist auch nicht kulturlos. 
+ Die Frage, ob du wirklich weisst, ob heute Mittwoch ist, hängt auch von
+deinem Glauben an die Kultur ab, in der du lebst oder du glaubst an deine
+Technik oder deine kulturelle Umgebung. 
+  Ob du es weisst, ist eine andere Frage.
+
+Grösse,
+Veit

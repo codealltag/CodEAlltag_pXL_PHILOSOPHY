@@ -1,0 +1,16 @@
+Nun komme ich mit dem Begriff Mächtigkeit nicht so ganz klar.
+Wenn ich mir zwei Mengen wie zum Beispiel
+die Schaltjahre anschaue, dann ist das ganze noch einfach
+Wenn beide Mengen jeweils ein Element haben, dann sind sie wohl gleich 
+mächtig.
+Wenn beide Mengen eine gleichgrosse Definition haben, dann sind sie 
+zwangsläufig nicht gleich mächtig.
+Wie bezeichnet man einen gleich grossen Definitionsbereich, der ja wohl 
+nichts mit Mächtigkeit zu tun hat?
+Wenn die Definition über Jahreszahlen wie in der Menge der Schaltjahre 
+läuft, kann man natürlich sagen, das das einfach ist.
+Aber ist denn die Menge M_1 (der Zahlen) und die Menge M_2 der Zahlen 
+gleich mächtig, wenn ich bei M_2 die Einschränkung der Menge N wegnehme?
+
+Gruss
+Max

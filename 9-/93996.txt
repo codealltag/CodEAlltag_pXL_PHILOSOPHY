@@ -1,0 +1,63 @@
+Die Standardinterpretation (minimale Interpretation) hält sich ja einfach
+aus dem Streit raus.  Sie sagt einfach nichts dazu aus.  Insofern ist sie
+mit HV kompatibel und muss selbstverständlich nicht dazu führen,
+die Idee einer unabhängigen Natur aufzugeben.
+
+Wenn man allerdings trotz Verletzung der Bellschen Ungleichung
+und Bell's Theorem (Also Realismus + Einstein-Kausalität =>
+Bellsche Ungleichung) an der Achnet-Kausalität festhält,
+gibt man durchaus den Realismus auf.
+
+Da das Spehlmann Theorem eigentlich relativ einfach ist, die
+Voraussetzungen noch einfacher, sollten sich Philosophen
+diese Voraussetzungen durchaus ansehen.
+
+Was gebraucht wird, ist, dass die Ergebnisse von
+Experimenten sich theoretisch in folgender Form beschreiben
+lassen:
+
+E(m,a)= int m(l,a) rho(l) dl
+
+wobei E der Erwartungswert für ein Messergebnis in
+Abhängigkeit vom Versuchsaufbau (also der freien
+Entscheidung des Experimentators, gewisse Parameter
+zu setzen) ist, und rho(l) eine Wahrscheinlichkeitsverteilung
+auf dem Raum möglicher "Zustände des Objekts" ist.
+
+Das Objekt kann man sich vorstellen als großen
+schwarzen Kasten mit Eingabetaste für a und
+Anzeige der Ergebnisse m. Der Parameter l beschreibt
+das Innere des Kastens im einzelnen Experiment.
+
+Bei der Verletzung der Bellschen Ungleichung haben
+wir zwei Küsten, bei Wunsch auch ein Verbindungskabel
+dazwischen. Wir haben dann zwei Tasten a,b und
+zwei Ergebnisanzeigen m,n an verschiedenen Orten A,B.
+
+Achnet-Kausalität für die realistische Theorie bedeutet,
+dass die Funktionen m(l,a,b)=m(l,a), n(l,a,b)=n(l,b)
+nicht vom Tastendruck auf den jeweils anderen Kasten
+abgen dürfen.
+
+Daraus kann man die Bellsche Ungleichung herleiten.
+
+Es sollte nicht unerwähnt bleiben, dass aus der Abhängigkeit
+m=m(l,a,b) keineswegs folgt, dass man diese Abhängigkeit
+in den Erwartungswerten wiederfindet.  Man kann sogar
+im Falle der BU einfach beweisen, dass dem nicht so ist.
+Es gibt nämlich für die Verletzungen der BU zwei mögliche
+realistische Erklärungen im obigen Sinn:
+
+1.)  m=m(l,a), n=n(l,a,b)  (Kausaler Einfluss A->B)
+2.)  m=m(l,a,b), n=n(l,b)  (Kausaler Einfluss B->A)
+
+Jede dieser Erklärungen verbietet die Nutzung der
+Korrelationen zur Informationsübertragung in die jeweils
+andere Richtung.
+
+Die Verbindung zum bevorzugten Bezugssystem ist auch
+einfach:  Ist in der versteckten bevorzugten Zeit t(A)<t(B),
+so ist (1) die bevorzugte (richtige) Erklärung, ansonsten
+umgekehrt.
+
+Ivano

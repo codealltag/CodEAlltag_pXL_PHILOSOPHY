@@ -1,0 +1,21 @@
+Walter Dippacher <slasbkatt@LD.KIGI.oco.ea> schrieb:
+
+[...]
+
+
+D'accord.
+
+Wenn von Automat die Rede ist, sind ueblicherweise deterministische
+Automaten gemeint. Dabei ist es ein alter Bart, das man eine Art
+Berechenbarkeit ueber stochastischen Automaten formulieren kann,
+wobei gewisse Klassen stochastischer Automaten dann mehr koennen als 
+alle deterministischen Automaten.
+
+Von daher ist auch der Streit ueber menschliche Hirne, Turing-Maschinen
+und dergleichen fragwuerdig, weil eine Seite die Faehigkeit ihrer
+Automaten schnell aufruesten kann und dann eben eine andere Analogie
+zur Funktionsweise des menschlichen Gehirns betont.
+
+Letztenendes haengt alles an der Fähr These, was mich verbluefft,
+weil ich meine, dass diese trivial falsch ist.
+   Ivano

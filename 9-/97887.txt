@@ -1,0 +1,49 @@
+Hallo Dominik,
+
+noch eine Ergänzung:
+
+
+Die Physik allerdings beschäftigt sich mit messbaren Strukturen und
+versucht, die allerletzten Elemntarteilchen zu finden.
+
+Sie erhebt den Anspruch, Strukturen zu untersuchen, die nicht weiter
+teilbar sind, die also (letztlich) keine Substrukturen mehr haben und
+unter dieser Vorraussetzung kann man die Entropie wieder allgemeingültig
+berechnen.
+
+Meine Überlegungen beziehen sich nicht direkt auf das pysikalische Objekt
+"Quant" sondern auf abstrakte Quanten, z.B. auf die "Quanten", bzw. die
+Helligkeitsabstufungen aus denen die Pixel eines Bildes bestehen, d.h.
+meine Überlegungen sind stark vereinfacht, was aber einer Anwendung auf
+die Physik nicht entgegenstehen sollte.
+
+
+In Fredi Zurflühs Dokument steht übrigens:
+
+"Die Entropie wird maximal bei Gleichverteilung
+i = 1/N, wobei N die Dimension des Hilbertraumes ist. Dann hat die
+Entropie den Wert
+                                      S = ln N .
+
+Ist die Dimension N unendlich, gibt es keinen Zustand maximaler 
+Entropie."
+
+Ich weiss nicht, ob man das auf den normalen Raum oder die fraktale
+Dimension z.B. einer Küstenlinie übertragen kann.
+
+Dann wäre exp(S) = N.
+
+Rein anschaulich ist aber klar, dass die Entropie einer Küstenlinie um so
+höher ist, je stärker sie zerfurcht ist, und dann ist auch die
+rechnerische fraktale Dimensionalität höher.
+
+Das alles ist natürlich kein Beweis, sondern lediglich eine
+lückenhafte Schlusskette, die allerdings so schlüssig ist, dass sie für
+einen "Anfangsverdacht" hinreichend ist.
+
+Ob das wirklich so stimmt, müsste man natürlich genauer untersuchen. 
+
+
+Grösse,
+
+Paolo

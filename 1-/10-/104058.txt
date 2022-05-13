@@ -1,0 +1,28 @@
+Weil wir neulich beim Thema /Tableau-Methode/ waren. Hier der Beweis,
+dass P v ~P eine Tautologie (bzw. ein Theorem) ist, mithilfe eines
+Tableaus:
+
+	~(P v ~P)
+	   ~P
+	  ~~P
+	    P
+	    x
+
+Das war's auch schon! Wie Du siehst, ist die Methode bisweilen extrem
+effektiv (im Vergleich zu einem formalen Beweis mittels der Methode des
+natürlichen Schließens).
+
+
+A.
+
+
+P.S.
+Der Beweis, dass P -> P eine Tautologie (bzw. ein Theorem) ist, ginge
+so:
+
+	~(P -> P)
+	    P
+	   ~P
+	    x
+
+Zweifellos (etwas) einfacher als der Beweis für P v ~P.

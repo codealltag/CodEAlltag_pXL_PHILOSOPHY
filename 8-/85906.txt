@@ -1,0 +1,15 @@
+Nein, Rekursion ist Rekursion, da gibt es kein mehr oder
+weniger mächtig (es gibt mehr oder weniger Bequemlichkeit,
+wie die Fleißarbeit von z.B. Typkonvertierung, die einem
+sein Compiler eventuell 'automatisch' abnimmt).
+
+Heute ist Rekursion praktisch überall implementiert...
+
+Was allerdings z.B. richtig mächtig an richtigem Lisp
+(vs. PC-Derivaten wie Autolisp für AutoCAD) war
+und ist, ist die Superklammer!
+
+;)
+
+Gruss
+--

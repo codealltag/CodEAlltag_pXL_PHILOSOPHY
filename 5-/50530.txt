@@ -1,0 +1,31 @@
+Das ist echt eine Super-Stilblüte.
+Die Turingmaschine besitzt kein I/O.
+Arme Turingmaschine.
+
+Echt bequem, daß ich da nur Cut'n'Paste brauche,
+bei dieser Diskussion:
+
+   Ich glaube diese Argumentation vermischt unzulässigerweise
+   ein abstraktes Theorem über Algorithmen mit einer konkret
+   realisierten Hardware, auf der ein Algorithmus ausgeführt wird.
+   Anders gesprochen, es ist kontingent ob ein Rechner über
+   eine Grafikkarte, eine Tastatur oder einen Bildschirm
+   oder einen Drucker oder einen Webstuhl oder eine Vorrichtung
+   zum Starten von Nuklearwaffen verfügt und ob eine bestimmte
+   Sprache diese Peripherie ansprechen kann. Das berührt das Theorem
+   überhaupt nicht. Natürlich kann man Input/Output in C
+   /modellieren/, und allein darum scheint es mir zu gehen.
+
+Ach Entschuldigung, du hast dich ja bereits entschieden,
+Argumente nicht zu Kenntnis zu nehmen.
+
+Sorry für die Störung.
+
+BTW, "Bibliotheken" sind i.d.R immer Bestandteil
+der jeweiligen Sprache, *weil* sie in dieser
+Sprache verfasst wurden ...
+
+Aber darum geht's hier gar nicht.
+
+MfG
+Othmar

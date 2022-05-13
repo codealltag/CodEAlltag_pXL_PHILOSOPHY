@@ -1,0 +1,100 @@
+"Dominik Putz" schrieb im Newsbeitrag
+news:ndgn36$ud1$6@pxukdd-spm.tng.ccv.bu
+
+
+Nicht nur:
+
+Ich helfe Ihrem Gedächtnis auf die Sprünge und zitiere beispielhaft vom 5.
+Oktober, wo ich unter anderem schrieb:
+
+*********
+Anfang Zitat
+*********
+
+Wenn es um Physik geht, muss man sagen, wie man Geraden bzw. Geodäten
+messen/definieren will, und das ist halt weitgehend willkürlich:
+
+1. In der ART - wie schon in der SRT - definiert man Geodäten üblicherweise
+als Lichtbahnen im Vakuum; das ist die Zuordnungsdefinition, von der Sie
+ausgehen ohne sich wirklich bewusst zu sein, dass es sich da um eine
+willkürliche Definition handelt, die noch nicht einmal durch besondere
+Einfachheit/Bequemlichkeit ausgezeichnet ist.
+
+2. Es geht auch anders: Man kann den Raum euklidisch bzw. in einem ersten
+Schritt die Raumzeit poincar�/minkowskisch definieren und Potentiale
+einführen, die dann die gemessenen, im Poincarö/Minkowski-Raum krummen
+Lichtbahnen erklären, was sehr sinnvoll und nützlich ist, weil man dann
+Physik und Geometrie formal sauber trennt. Das war Poincarö
+allerspätestens - anhand dieses Beispiels - seit 1901 völlig klar. Formal
+kann man das aus der Ihnen offenbar allein bekannten ART-Sicht
+formal/symbolisch so zeigen:
+g_i,j = eta_i,j + V_i,j,
+worin die V_i,j verallgemeinerte Potentiale meinen und eta_i,j die
+sogenannte Hintergrundmetrik ist. Nun müsste man in einem weiteren Schritt
+noch die Hintergrundmetrik eta_i,j auf Willkürlichkeit analysieren. Aber das
+ist im Wesentlichen ja gerade das Thema, über das wir hier schon lange
+diskutieren.
+
+********
+Ende Zitat
+********
+
+
+Nach einer kurzen Gugelrecherche - um meine Erinnerung zu überprüfen - sind
+Ihnen aber die Argumente ausgegangen, und Sie sprachen zuletzt auch nur noch
+von "spitzfindig", vermutlich allerdings weniger aus Einsicht, sondern mehr
+aus Vorsicht, weil Sie wohl nicht Poincarö und Boshoven gleichermassen
+widersprechen wollten, was Sie jetzt aber völlig ungeniert wieder tun ohne
+sich dessen aber wohl überhaupt noch bewusst zu sein; ich helfe Ihrem
+Gedächtnis darum abermals auf die Sprünge und zitiere aus Ihrer letzten
+Antwort in dieser Sache vom 4. 05. 09. 21:
+
+*********
+Anfang Zitat
+*********
+
+
+[Dominik Putz:]
+Nicht ganz. Eine Kugeloberfläche ist ja auch nicht euklidisch, und das
+läßt sich auch nicht global wegdefinieren. Das heißt, wenn der Raum
+nicht euklidisch ist, so können wir das auch feststellen.
+
+
+Hier geht es wohl eher um eine philosophische Spitzfindigkeit, die
+zumindest als pragmatischer Ansatz in der Physik nicht taugt.
+Wenn ich von "euklidisch" sprach, dann in dem Sinne, wie dies im
+Rahmen der ART gemacht wird (also im Sinne von (G)+(P))
+
+********
+Ende Zitat
+********
+
+Gerade in der ART handelt es sich wegen g_i,j = eta_i,j + V_i,j eben nicht
+um eine Spitzfindigkeit, während man im Falle z.B. der Hohlweltkoordinaten
+im Rahmen der Newtontheorie (siehe auch unten) sehr wohl von einer
+Spitzfindigkeit sprechen kann.
+
+
+Sie glauben doch nicht ernsthaft, dass Sie damit meine ursprüngliche Aussage
+entkräften können: Man kann - wenn man das unbedingt will - auch im Rahmen
+der newtonschen Mechanik (oder der SRT) von einem gekrümmten Raum ausgehen,
+wie das wohl Craatz am Beispiel der Hohlwelttheorie mal gezeigt hat; dass das
+im Falle newtonscher Mechanik (oder der SRT) offensichtlich nicht sehr
+sinnvoll bzw. eben spitzfindig ist, berührt aber die grundsätzlich "freie
+Definierbarkeit" nicht.
+
+Im Fall von Wüstlich ist der euklidische Raum eben aus
+Einfachheitsgründen ausgezeichnet, was im Falle der ART aber nicht
+mehr so ist: Im Falle der ART hängt es nämlich von der Fragestellung ab,
+welche Sichtweise einem Problem rechnerisch oder auch "nur schon"
+interpretativ am angemessensten ist, und die geometrische
+ART-Standardinterpretation führt nicht nur bei Laien, sondern auch bei
+manchen Physikern oft genug zu seltsam esoterischen Vorstellungen.
+
+
+Homo John
+
+-- 
+Ceterum censeo: Zur Ehre Jörissen,
+zur Freude der Grossen der Physik von Ule, Boshoven bis Erlebach
+ermögliche man auch wieder deutschsprachige Physikver�ffentlichungen.

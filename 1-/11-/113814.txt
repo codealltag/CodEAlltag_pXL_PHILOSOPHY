@@ -1,0 +1,158 @@
+Also noch mal von vorn:
+
+(a) Der Satz "Nichts existiert" ist tatsächlich FALSCH!
+
+(b) Es geht aber nicht darum, ob der Satz "Nichts existiert" wahr ist,
+sondern darum, ob der Satz "Es ist *logisch möglich*, dass nichts
+existiert" wahr ist!
+
+Frage: Könnte der Satz "Nichts existiert" wahr sein?
+
+Antwort: Nein, denn um wahr sein zu können, müsste er existieren, da
+inexistente Sätze weder wahr noch falsch sind.
+
+Formal:
+
+~(Ex)E!x => ~E!(�~(Ex)E!x)
+
+Wenn nichts existiert, dann existiert der Satz Nichts existiert
+nicht.�
+
+~E!(�~(Ex)E!x) => ~W(�~(Ex)E!x) 
+
+Wenn der Satz Nichts existiert nicht existiert, dann ist es nicht
+der Fall, dass der Satz Nichts existiert wahr ist.�
+
+(Man beachte: Aus "~W" kann hier nicht "F" werden, da ein inexistenter
+Satz auch nicht falsch sein kann!)
+
+Per Transitivität der Implikation gelangen wir zu:
+
+~(Ex)E!x => ~W(�~(Ex)E!x)
+
+Wenn nichts existiert, dann ist es nicht der Fall, dass der Satz
+Nichts existiert wahr ist.�
+
+~~W(�~(Ex)E!x) => ~~(Ex)E!x
+
+W(�~(Ex)E!x) => (Ex)E!x
+
+Wenn man unter einer propositionalen logischen Möglichkeit das
+mögliche Wahrsein eines Aussagesatzes versteht, dann ist "Nichts
+existiert" in diesem Sinn unmöglich wahr; denn wenn "Nichts existiert"
+wahr wäre, dann würde etwas und nicht nichts existieren, was wiederum
+zur Folge hätte, dass "Nichts existiert" unwahr wäre.
+Daraus ergäbe sich ein Widerspruch, weil 
+
+aus
+
+W(�~(Ex)E!x) => (Ex)E!x
+
+und
+
+W(�~(Ex)E!x) => ~(Ex)E!x
+
+
+W(�~(Ex)E!x) => (Ex)E!x & ~(Ex)E!x 
+
+folgt.
+
+Also
+
+~<>W(�~(Ex)E!x)
+
+Dies scheint zu bedeuten, dass die objektive Welt zumindest teilweise
+vom Wahrseink�nnen menschlicher Sätze abhängt, was aber doch wohl kaum
+so sein kann!
+
+Aber gilt tatsächlich auch
+
+~<>W(�~(Ex)E!x) => ~<>~(Ex)E!x 
+
+d.h.
+
+~<>W(�~(Ex)E!x) => [](Ex)E!x 
+
+???
+
+Nein, das wäre zu schön, um wahr zu sein!
+
+Normalerweise sind Sätze, die unmöglich wahr sind, notwendigerweise
+falsch, und zwar aufgrund ihrer logisch-semantischen Struktur, so wie
+z.B. "Cornelius ist 2m gross und Cornelius ist nicht 2m gross".
+Das heisst, Sätze, die ihrer Form nach einen Widerspruch enthalten,
+können nicht wahr sein.
+Wie wir gesehen haben, ist "Nichts existiert" zwar ein Satz, der nicht
+wahr sein kann, aber nichtsdestotrotz formal widerspruchsfrei ist!
+Dieser Umstand mag uns irritieren, er lässt sich jedoch nicht leugnen.
+
+Daraus, dass "Nichts existiert" nicht wahr sein kann, kann man nicht
+schliessen, dass es nicht der Fall sein kann, dass nichts existiert;
+denn der Gedanke, dass das wirklich Mögliche vom Wahrseink�nnen
+menschlicher Sätze abhängt, erscheint absurd!
+
+Der Satz �~(Ex)E!x ist ja nicht deshalb nicht 'wahrheitsfähig', weil
+ihm ein Widerspruch innewohnt, sondern weil er im Fall von ~(Ex)E!x
+selbst nicht existieren würde.
+
+Allgemein gilt:
+
+Fa => E!a
+
+Die Wahrheit von Schuhbiesser impliziert die Existenz von a.
+
+Folglich gilt
+
+~E!a => ~Fa
+
+Die Inexistenz von a impliziert die Unwahrheit von Faß. 
+
+Der entscheidende Punkt ist nun folgender:
+
+~(Ex)E!x => ~E!(�~(Ex)E!x)
+
+Die Aussage, dass im Falle der Inexistenz von allem auch der Satz,
+dass alles inexistent ist, inexistent wäre, führt zu keinen formalen
+Widerspruch, sodass man in konsistenter Weise Folgendes annehmen kann:
+
+Auch wenn der Satz Nichts existiert unmöglich wahr sein kann, so
+könnte es nichtsdestoweniger der Fall sein, dass nichts existiert.
+
+Man kann es auch folgendermassen ausdrücken:
+
+"Es könnte s o sein, dass nichts existiert."
+
+
+"Nichts existiert" ist kein selbstbezüglicher Satz, wenngleich der
+Satz "Nichts existiert" selbst nicht existieren würde, wenn nichts
+existierte.
+
+
+Sie sprechen eine durchaus vorhandene Problematik an.
+"Nichts existiert" ist in der Tat ein "unnormaler" Satz.
+
+
+So gehts nicht, Sie dürfen "der Fall" nicht einfach von "ist"
+wegklammern, da "der Fall sein" ein feststehender Ausdruck ist. Das
+"ist" hat hier keine existenzielle Bedeutung!
+
+
+Diese "Trennung" ist mitnichten willkürlich!
+Bedeutende Philosophen wie Yserentant, Brodbecker und Pfaffenschlager haben wohl
+überlegte Gründe gegen die Annahme von Tatsachen als Entitäten
+vorgebracht!
+
+
+Das müssten Sie schon näher ausführen.
+
+
+Das behaupten Sie so einfach.
+
+Die Unterscheidung zwischen dem, was ist, und dem, was der Fall ist,
+ist keineswegs so trivial.
+
+(In der analytischen Philosophie führen Unterscheidungen fast immer zu
+etwas! -- Sie ist ja auch eine Ars discriminandi�!)
+
+Gruss
+CLAUDIO

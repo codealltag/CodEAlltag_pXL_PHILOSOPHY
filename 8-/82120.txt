@@ -1,0 +1,24 @@
+E =3D {x e D^1 | Ex}
+
+Du betrachtest Eigenschaften also als Mengen.
+
+
+Mit "E(D)" meinst du den Eigenschaftsbereich, worüber zweitstufig
+quantifiziert wird, d.i. die Potenzmenge von D. (?)
+
+
+Wenn D =3D {1, 2}, dann ist in deinem Sinne E(D) =3D {{ }, {1}, {2},
+{1,2}}.
+
+Zu jeder möglichen Eigenschaft E gibt es nun vier mögliche Elemente
+von E(D).
+Du behauptest nun, dass es (mindestens) eine Eigenschaft E* gibt, der
+nicht das Element {1,2} zugeordnet werden kann, d.h. eine Eigenschaft,
+die nicht sowohl von Objekt 1 als auch von Objekt 2 exemplifiziert
+wird.
+
+Tja, dass es eine solche Eigenschaft gibt/geben muss, ist mir leider
+nach wie vor nicht direkt einsichtig.
+
+Gruß
+TINO

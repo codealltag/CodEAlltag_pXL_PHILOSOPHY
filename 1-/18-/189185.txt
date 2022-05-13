@@ -1,0 +1,101 @@
+[...]
+
+Ja, und darum musst du sagen, wie du die Wahrscheinlichkeiten berechnet
+hast. Mein Beispiel fuer Folgen in Restklassenringen zeigt nur, dass es
+eben nicht moeglich ist, Wahrscheinlichkeiten anzugeben, ohne dass man
+vorher geklaert hat, wie die Menge der moeglichen Ereignisse aussieht.
+Das gilt aber auch fuer die sog. konkreten Probleme.
+
+[...]
+
+Fuer Aussagen wie "Direkte Instanzen fuer A machen A und A'
+(Kontraposition von A) wahrscheinlicher als direkte Instanzen fuer A'"
+gilt das auch, und die muessen dich ja interessieren. Bei universellen
+Allsaetzen gibt es naemlich keinen sinnvollen Begriff der "direkten
+Instanz", sondern Instanzen fuer A oder A' unterscheiden sich logisch
+nicht.
+
+
+Du benutzt bei deiner Aussage vier Mengen, naemlich die aller Raben die
+alles Nichtschwarzen und ihre Komplemente, eben ohne dich um ihre
+Maechtigkeit zu kuemmern. Das kannst du nicht, weil du keine Methode
+besitzt, ihre Maechtigkeit auch nur ungefaehr festzustellen.
+Wenn ich es recht verstehe gehst du davon aus, dass es mehr
+Nichtschwarzes gibt als Raben. Das ist aber keineswegs eine
+Vorraussetzung, die man aus der logischen Form der Saetze entnehmen
+kann.
+
+Es koennte durchaus sein, dass das erste Raumschiff der Erdlinge, das
+den Warpantrieb besitzt, in die unendlichen Weiten des Weltalls
+vorstoesst, wo noch kein Mensch zuvor usw. In diese Weiten koennte es
+dann wesentlich mehr Raben als Nichtschwarzes geben, woraus du entnehmen
+koenntest, dass die von dir eingebrachten Vorraussetzungen u.U. falsch
+sein koennten. Allerdings nur, wenn du nicht noch weiter in das grosse
+Weltall reist, wo alles schon wieder ganz anders sein koennte. Du siehst
+also, dass das ein prinzipielles Problem ist, wobei Rabenhaftigkeit und
+Schwaerze hier ohnehin nur als Beispielpraedikate dienen, die man
+beliebig austauschen kann. 
+
+
+Das "weiss" man dann wohl wieder aus der Gewohnheit. Induktion
+funktioniert folglich bloss weil sie's bisher immer getan hat - das kann
+eine lebensgefaehrliche Einstellung sein und nicht nur fuer Huehner:
+
+We know that all these rather crude expectations of uniformity are
+liable to be misleading. The man who has fed the chicken every day
+throughout its life at last wrings its neck instead, showing that more
+refined views as to the uniformity of nature would have been useful to
+the chicken.
+	-- David Obermeyer, "The Problems of Philosophy".
+
+
+Die muss es nicht geben, es koennte auch sein, dass wir raten und es
+dann einfach ausprobieren. Die Trial-and-Error-Methode ist ziemlich
+erfolgreich, was das angeht: Die biologische Vielfalt auf unserem
+Planeten ist ein guter Anhaltspunkt, dass ohne Regeln des
+Hypothesenentwurfs durch zufaellige Mutation und Selektion des besser
+angepassten, erstaunliche Problemloesungen zustande kommen koennen.
+Diese Loesungen kann man durchaus als Hypothesen ueber die reale Welt
+verstehen: Je besser sie funktionieren, desto mehr profitieren die
+Organismen davon, die sich auf sie verlassen.
+
+Das ist natuerlich nur ein Argument dafuer, dass es keine Regeln zum
+Auffinden wahrer Hypothesen geben muss, nicht dafuer, dass es sie
+tatsaechlich nicht gibt. Wenn es allerdings Regeln geben wuerde, die
+erfolgreicher waeren als regellose Mutation und Selektion mithilfe einer
+Bewertungsfunktion fuer das Ueberleben, muesste man sie auch angeben
+koennen.
+
+
+Ich habe schon eine Weile darueber nachgedacht, ob es bei der
+Wissenschaft als kulturellem, evolutionaerem Projekt irgendeinen Zusatz
+gibt, der es zwingend erfolgreicher oder effizienter macht, als die
+natuerliche Evolution der Arten - bisher habe ich auf der logischen
+Ebene keinen gefunden. Bei der oben angesprochenen Bewertungsfunktion
+gibt es allerdings wohl ziemlich Unterschiede, denn bei der Wissenschaft
+geht es nicht (mehr) nur um's Ueberleben, sondern auch um's Geschaeft,
+um die Politik, usw. - vielleicht sogar um die Wahrheit.
+
+Da letzteres im Vordergrund stehen sollte, bedarf es wohl normativer,
+methodologischer Regeln, die das garantieren koennen. Ich habe den Satz
+des letzten Absatzes absichtlich pessimistisch klingen lassen, denn die
+richtige Bewertungsfunktion zu erhalten ist keine triviale
+Angelegenheit. Ein weiterer beunruhigender Gedanke ist es, dass
+Problemloesungen in der natuerlichen Evolution nicht unbedingt optimal
+sein muessen, um das Ueberleben und die Fortpflanzung zu garantieren.
+Bei der Wahrheit sollte man sich nicht mit solchen Kompromissen
+zufriedengeben muessen.
+
+
+Vor allem finden die eigentlich interessanten Experimente immer erst
+nach dem Theoretisieren statt, waehrend induktive Hypothesenbildung
+eigentlich genau andersherum vorzugehen vorgibt. Bächer meinte einmal
+faelschlicherweise, dass er keine Hypothesen machen wuerde, seine
+Einfuehrung des Kraft- und des Massebegriffes und die Vorraussetzung des
+euklidischen Raum- und Zeitbegriffes sind aber wohl Gegenbeispiele.
+
+-- 
+USER       PID %CPU %MEM  SIZE   RSS TTY STAT START   TIME COMMAND
+rc5        435 86.3  0.4   788   392  ?  I Z Tembichlweg  6 5837:36 ./rc5des 
+ Email to msywn@buif.voto.gp with *Subject: pgpsend* for my PGP public key!
+_PGP public key fingerprint: 34 E9 05 7E 00 AF 1E 34 55 B6 D6 50 69 2E C3 C2_

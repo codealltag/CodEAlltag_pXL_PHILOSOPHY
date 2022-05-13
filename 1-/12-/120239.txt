@@ -1,0 +1,19 @@
+Was soll das heißen, sie ist "wahr"?
+Die binäre Logik ist keine Aussage, daher hat sie keinen
+Wahrheitswert.
+
+Es gibt zwei Werte, "wahr" und "falsch". Oder "foo" und "bar". Oder 0
+und 1. Oder wie Du es sonst nenne willst.
+
+Dann gibt es folgende Funktionen:
+
+a) mit einem Argument  4 (Identität, Negation, konstant Falsch,
+konstant Wahr)
+b) mit zwei Argumenten 16
+c) mit 3 Arguenten 256
+d) mit N Argumenten 4 hoch N
+
+und so weiter.
+Das ist schon alles.
+Langweilig, aber weder wahr noch falsch. Genausowenig wie "die
+Arithmetik auf ganzen Zahlen".

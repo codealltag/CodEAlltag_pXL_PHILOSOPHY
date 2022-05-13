@@ -1,0 +1,51 @@
+*lach* Ja, das ist das Problem mit den impliziten Logiken der Begriffe, 
+die viele Menschen nicht durchschauen. Was ist "Dimension"? Dimension 
+ist eigentlich eine "Entkopplung" von Abhängigkeiten der üblichen 
+Parametrisierungen z.B. im Euklidischen Raum, dem Raum, den wir als 
+"rechtwinkliges Koordinatensystem" bezeichnen.
+Du kannst in der x-y ebene 2 Parameter unabhängig voneinander halten, 
+mit der z Ebene sogar 3. Stelle dir vor, die y-Achse wäre schräg, sagen 
+wr 45 Grad -Winkel. Dann könntest Du die y-Koordinate nicht unabhängig 
+von der X-Koordinate mehr währen, die beiden Parametrisierungen wären 
+gekoppelt, also nicht mehr unabhängig voneinander. Damit wären es keine 
+2 Dimensionen mehr.
+Die Frage ist nun, in einer wieviel - Dimensionalen Welt leben wir nun 
+eigentlich? Es hängt von unserer Wahrnehmung ab: Wärmestrahlung, Raum, 
+Lautstärke, Gleichgewicht, Schwere, Trägkeit .... die Zahl der 
+Dimensionen ist nicht wirklich festgelegt, sondern sie wird dadurch 
+bestimmt, welche Parameter messbar und entkoppelbar sind. Ein Körper 
+kann eine Lage im Raum haben, und dabei verschieden hei sein, das eine 
+hat mit dem anderen nix zu tun. Farbe, Oberfläche, Reflektionsgrad, 
+Elastizitat, Dämpfungseigenschaften ... u.s.w. kann man also auch als 
+"Dimension" bei Gegenständen betrachten, je nach Anschauungsmodell. Je 
+mehr wir forschen, desto mehr Dimensionen können wir entdecken. Es gibt 
+aber auch verschwimmende Grenzen bei Dimensionen: Elastizität und Wärme. 
+Wenn ich einen Flummi zu oft hintereinander auf seine Elastizität prüfe, 
+so wird er warm, siehe Squash. Hier sind die Dimensionen nicht wirklich 
+entkoppelt, weil sie an den Prozess der Untersuchung gebunden sind. So 
+ist z.B. ein Photon, je nach Untersuchungsmethode entweder ein Teilchen 
+, oder eine Welle. Wir werden noch viel mehr "Dimensionen" von 
+Materialien entdecken können, je nach Messprozess, siehe 
+Raichle-Effekt, Quantenmechanik, Relativit�stheorie, u.s.w.
+
+Zahlen sind reine Setzungen, die 0 dient als Platzhalter für den Prozess 
+der Verzehnfachung. 10 und 1 - hier dient die Null rechts neben der Zahl 
+als Symbol und Platzhalter für die 10-fache Menge. 1000, 100, 10, 1 ... 
+es ist ein rein erfundener, mathematischer Formalismus. Formalismus ist 
+im Grunde eine Anleitung, wie etwas zu handhaben ist, wie man es 
+handhaben kann, in der Möglichkeitsform: x^2=9  besagt, daß ich die 
+Möglichkeit habe, dort eine Zahl einzusetzen, deren Wert, mit sich 
+selber multipliziert, 9 ergibt. Rechenvorschriften, auch ein Formalismus 
+erlaubt es mir, dies entsprechend einem Umformungs-Regelwerk zu tun, 
+sprich, einen Prozess zu starten, der verschiedenste Methoden logisch 
+(Lehre der bedingten und unbedingten Folgerichtigkeiten) 
+aneinanderzusetzen.
+
+
+Das geht mit Algebra-Sytemen, wie Reduce, wird auch schon lange gemacht. 
+Die Zermelo-Frankel-Axiome sind schon längst eingeflossen in die 
+Herleitung der Mathematik in der "principia mathematica" von 
+Russell/Whitehead, Ulfert Taschenbuch, 5 Euro!
+
+
+Gru/3, Jochen Dudenhöfer

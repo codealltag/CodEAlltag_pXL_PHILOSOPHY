@@ -1,0 +1,19 @@
+hallo,
+
+mir scheint, du unterscheidest nicht die elemente einer menge von den 
+namen für diese elemente.
+
+im obigen beispiel:
+M1 enthält die königin von england, M2 enthält kein element. also haben 
+sie verschiedene mächtigkeit.
+auf die elemente von M1 und M2 muß mittels sprachlicher ausdrücke 
+referiert werden, da sie selbst im augenblick nicht verfügbar sind. im 
+ersten fall mittels dem ausdruck "königin von england", im zweiten fall 
+gibt es nichts, worauf ich referieren könnte (muß ja auch so sein, 
+schließlich ist die menge leer).
+
+so betrachtet gibt es keine schwierigkeit. aber du betrachtest die namen 
+für die elemente als elemente der menge. damit ist sie  dann natürlich 
+nicht mehr leer.
+
+bye, waldemar.

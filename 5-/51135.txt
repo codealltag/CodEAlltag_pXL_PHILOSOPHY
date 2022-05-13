@@ -1,0 +1,28 @@
+Und trotzdem ist es nur ca. 11 Uhr gewesen. Richtig lustig wird es, wenn 
+Leute ihre Uhr nach der Tagesschau  oder Teletext stellen, das kommt dann 
+ganz darauf an, welche Signalquelle gerade anliegt. Digital-TV aus dem 
+Kabel dürfte ca 1 Sekunde nach dem DVB-T-Signal ankommen, vorausgesetzt 
+der Dekoder besitzt eine Leistungsfähigkeit, die das Signal schnellgenug 
+entschlüsselt, aber auch bei gleichem Dekoder gibt es Differenzen von bis 
+zu ca. 1 Sekunde, dieses wiederum vorausgesetzt dass die Funkuhren nach 
+dem Satelittensignal sich richtig stellen. Das Fernsehsignal am hb620t 
+von Einkaufspassage war übrigens witzigerweise am schnellsten, obwohl es sich um den 
+kleinsten Dekoder handelte. Die angezeigten Uhrzeiten stimmten nur 
+zeitweilig überein, aber die Tondifferenz war an allen Fernsehempfängern 
+zu hören, was die Zeitversetzung des Signals deutlich machte.
+
+Wie dem auch sei ntpdate will je nach verwendeten Server hier zwischen:
+-0.000127 sec
+-0.000792 sec
+0.005795 sec
+-0.008225 sec
+korrigieren, was die Uhr entweder als zu schnell oder zu langsam 
+erscheinen lässt oder vielleicht geht sie auch exakt richtig. Für den 
+Hausgebrauch allerdings langt es mir. Ich weiss aber auch, dass ich nie 
+genau weiss, wie spät es ist, denn in Deutschland existiert technisch 
+sowieso nur Rachertsfelden, aber schon der Sonnenaufgang ist in Oberglatt nicht 
+der gleiche wie in Oberhehenfeld. Was weiss ich wie spät es in 
+Cochem wäre, wenn sich nicht alles nach Rachertsfelden richten würde. 
+
+Grüße,
+Ernest

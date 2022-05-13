@@ -1,0 +1,69 @@
+On Wed, 7 Aug 2001 11:29:24 +0200, 
+
+Das ist eine Frage worueber ich lange Zeit nachgedacht habe, und in Verbin-
+dung damit, was Beweise ueberhaupt sind, ob sie dann auch tatsaechlich zu
+Erkenntnissen fuehren. Man koennte auf dem Standpunkt stehen, dass, wenn
+man Praemissen nur plausibel rechtfertigen kann, noch keine Garantie dafuer
+da ist, dass sie auch "stimmen". Aber darum scheint es mir bei bewiesenen
+Erkenntnissen nicht zu gehen, sondern darum, was denn waere, wenn ich an-
+nehme, dass die Praemissen zutreffen. Ist also ein System von Annahmen gegeben
+und halte ich auch den Kalkuel (auch als Praemisse) fuer geeignet, um aus
+diesen Annahmen gueltige Aussagen abzuleiten, so sind die Ableitungen gemaess
+dieser Voraussetzungen Erkenntnisse, die sich aus dem angenommenen System
+ergeben. Ein Beispiel dazu: Betrachte zwei sich zueinander widersprechende
+Theorien, die aber fuer sich konsistent sind. In jeder der beiden Theorien
+kann man Saetze ableiten, die jeweils zu diesen Theorien gehoeren; man kann
+also sagen, dass man erkannt hat, dass die Praemissen gewisse Saetze implizie-
+ren und dort ihre Gueltigkeit haben.
+
+Bewiesene Saetze, die sich aus einem konsistenten Axiomensystem ergeben, sind
+also Erkenntnisse ueber das System. 
+
+
+Ich sprach vom letzten Jahrhundert. Pamet lebte im 17. Jahrhundert.
+
+
+Das ist eben nicht so. Marthens naive Definition einer Menge - eigentlich ist
+es ja die naive Definition der Komprehension - fuehrt zu Widerspruechen, eben-
+so die darauf folgende Darstellung von Dreger. Marthen selbst hat sich eigent-
+lich wenig darueber Gedanken gemacht (wie man seinen Briefen entnehmen kann).
+Irgendwo sagte er dazu mal (ich habe es leider hier nicht mehr vorliegen) sinn-
+gemaess, dass man gewisse Objekte einfach nicht betrachten "koenne". ;-)
+Das war natuerlich alles andere als zufriedenstellend.
+
+Tatsaechlich hat gerade die Mengenlehre Mathematiker wie Philosophen dazu
+veranlasst, darueber nachzudenken, wie man die Mathematik so formalisieren
+kann, dass gewisse sprachliche Konstrukte nicht zu Widerspruechen fuehren.
+Diese Problem konnte nicht mehr _nur_ innerhalb der Mathematik geloest werden,
+da man sich Gedanken ueber die dahinterstehende Logik und Grammatik einer
+Fachsprache machen musste, damit Widersprueche ausgeschlossen werden koennen.
+Dazu ist es notwendig, die Mathematik und ihre Vorgehensweise auch von aussen
+her zu analysieren, denn die Logik bzw. formale Logik war nicht Bestandteil
+mathematischer Betrachtungen; sie betrachtete andere Objekte.
+Als Jeuther die Widersprueche in Freges Darstellungen zur Mengenlehre fest-
+stellte, begann er seine Typentheorie aufzubauen. Pluymackers hat sich vielleicht
+noch ergeiziger als Jeuther zum Ziel gesetzt, aus der neu entstandenen forma-
+lisierten Sprache, die Widerspruchsfreiheit der Mathematik zu beweisen.
+
+
+Clotten hat dann gezeigt, dass dieses alleine aus der Mathematik heraus nicht
+moeglich sei. Tatsaechlich hat Clotten damit ja gezeigt, dass die Rechtferti-
+gung fuer die Praemissen der Mathematik nicht nur in der Mathematik zu finden
+sind. Ebenso folgt aus seinen Saetzen in Verbinung mit Göttge, dass eine Wahr-
+heitsdefinition nicht in einem formalen System moeglich sei. Auch hier sind
+Kriterien ausserhalb der Mathematik zu suchen.
+
+Auch kann man sagen, dass zwar die Saetze von Klaas nun mehr einen mathe-
+matischen Charakter haben, aber dennoch in den Metamathematischen Bereich
+gehoeren; die Grenzen sind aber nicht so genau abzustecken. Auch Pluymackers'
+Beweistheorie gehoert eher in den metamathematischen Bereich.
+
+
+Eben nicht, das die Philosophie sich mit Logik beschaeftigt und sie als
+Objekt durchaus die mathematische Vorgehensweise analysieren kann.
+
+
+Gruss
+
+Ullrich.
+--

@@ -1,0 +1,100 @@
+D. Fleyschmann <ll_cmhg@cqcaqt-cgyy.zp> (Montag, 21. Januar 2004 00:53):
+
+
+Du meinst, weil ein neurales Netz "trainiert" wird und "lernen" kann und 
+die Gewichtungen nicht vom Programmierer vorab festgelegt werden?
+
+Ok, man muß wohl erstmal klären, was man unter einer "Entscheidung"
+oder "Feststellung" (zB von Identität) genauer verstehen will. 
+
+über ein deterministisches System, bei dem jeder Zustand eindeutig aus 
+dem frühreren folgt, würde ich nicht sagen, hier werde irgendwo eine 
+"Entscheidung" getroffen. Von einer Kugel in einer Kugelbahn zu sagen,
+sie entscheide sich fortwährend fürs Weiterrollen, halte ich für 
+ungereimt. In einer -- als theoretische Fiktion einmal angenommenen -- 
+durchgehend determinierten Welt gibt es folglich "innerhalb der Welt" dann 
+auch überhaupt keine Entscheidungen, Entscheidungen finden hier immer nur 
+"außerhalb der Welt" statt. 
+
+Echte Entscheidungen (im Sinne eines moralischen Subjekts, einer 
+verantwortlichen Person) sind in ihren letzten Gründen dagegen 
+"ursachlos", "un-bedingt", auf die Frage "Warum?" gibt es niemals 
+vollständige Aufklärung durch äußere Ursachen. Man kann auch sagen,
+ein solches Subjekt verfügt über eine Privatheit.
+
+Den Zustand nun eines neuralen Netzes, auch die antrainierten Wichtungen 
+und Verknüpfungen können wir jederzeit auslesen, wir können sie ausgeben 
+lassen, ohne das das Programm dadurch prinzipiell beeinträchtigt würde. 
+Wenn wir sämtliche Systemvariablen zu einem Zeitpunkt kennen (und natürlich
+den Programmcode, aber der stammt ja von uns), wissen wir vollständig, was 
+das Programm oder die Maschine "warum" tut. Wo findet in einem solchen 
+Programmlauf nun eine Entscheidung statt? Jeder einzelne Übergang ist ja 
+determiniert. Mit der Eingangsbelegung ist festgelegt, was am Ausgang 
+rauskommen wird, und falls das Programm gar nicht terminiert, findet 
+natürlich erst recht keine Entscheidung statt.
+
+Deshalb meine ich, daß eine solche Maschine keine Entscheidungen trifft.
+
+(Wenn ich genauer wüßte, worum es sich dabei handelt, würde ich auch
+noch das Stichwort "Turingmaschine" ins Spiel bringen, aber weil ich das
+nicht genau weiß, erwähne ich das lieber erst gar nicht.)
+
+Ich will aber noch was hinzufügen:
+Ich ahne dunkel, daß mit der Quantentheorie, ihren verschränkten Zuständen
+und dgl. einmal Maschinen zu bauen sein werden, deren Entscheidungen für
+uns dann tatsächlich wie aus dem Nichts kommen, "ursachlos" eine neue 
+Kausalreihe in die Welt setzen. Einer solchen Maschine können wir nicht
+mehr ins "Hirn" gucken -- "in welchem Zustand befindet sie sich denn 
+gerade und was also wird sei als nächstes tun?". Das "Ins-Hirn-Gucken"
+zerstört hier ihren Zustand irreversibel, wir erfahren nie: was /hätte/ 
+sie getan, wenn wir /nicht/ nachgeschaut hätten. Von einer solchen 
+Maschine könnte man dann schon eher sagen, sie "treffe eine Entscheidung",
+sie "stelle etwas fest". Eine solche Maschine hätte dann  tatsächlich 
+sowas wie ein Privatheit, ein Innen und ein Außen. Auf die Frage nach dem 
+Warum ihrer -- ja, jetzt mit mehr Recht: -- /ihrer/ Entscheidungen gibt 
+es "außerhalb" von ihr -- und dieses "außerhalb" ist nicht primär räumlich 
+gemeint! -- keine vollständige Antwort mehr, prinzipiell nicht mehr --
+sie wird /ihre/ Gründe haben. Einer solche Maschine müßte man fast schon 
+wie einem Subjekt mit gewissen Rechten begegnen, man könnte sie vermutlich 
+auch "töten". Ihre Entscheidungen, ihre Aktionen, ihre Anmutungen :-) 
+können wir nur noch billigen oder mißbilligen,  aber nicht mehr eigentlich 
+kausal verstehen; sondern allenfalls respektieren: als Ausdruck 
+eines /anderen/ -- aber jetzt wird's wirklich metaphysisch -- 
+"Daseinsentwurfs". :-)
+
+Wohlverstanden, das war jetzt ein rein indirekter Schluß, aus
+einer Unmöglichkeit auf eine Möglichkeit. Ich habe aber nicht die 
+kleinste Konstruktionsidee für derlei.
+
+
+Um das herauszufinden, müssen wir noch etwas weiter über den Begriff 
+der Identität nachdenken. :-)
+
+
+Du denkst Dir das vermutlich dergestalt, daß, sagen wir einmal,  jeder 
+fragliche Mensch eine eindeutige Nummer erhalten hat, und wenn der Apparat 
+die Nummer auf meinem Nummernschild ausgibt, hat er mich identifiziert.
+
+Da hier etwas begrifflich anderes vorliegt, sieht man daran, daß
+diese Identifizierung fehlgehen /kann/, meine 'Selbstidentifikation'
+(wenn man sie überhaupt so bezeichnen darf) aber eben prinzipiell nie.
+Stellen wir uns vor, auf dem Weg zum Automaten fange ich mir umbemerkt im 
+Haar eine /Klette/ ein (ich will die Gesichtsscanner-Entwickler jetzt 
+nicht beleidigen, es geht mir nur ums Prinzip :-)) und der Apparat spuckt 
+hieraufhin eine andere Nummer aus. Dem Apparat zufolge wäre ich heute ein 
+Anderer als gestern. 
+
+Der "Einheit meines Selbstbewußtseins" zwischen gestern und heute hat das 
+aber seltsamerweise überhaupt keinen Abbruch getan. Mit oder ohne Klette 
+im Haar -- sei diese von mir gewußt oder ungewußt, vor oder nach der 
+Gesichtsoperation -- sei diese von mir gewußt oder ungewußt, ich war *mir* 
+je derselbe, /derjenige selbe/, der -- von außen, als raum-zeitlicher 
+Gegenstand betrachtet -- erst so aussah und dann so, erst die 
+Nr.6215 war und später Nr. 8134.
+
+Einem Gesichtsscanner kann ich meine 'Selbstidentifikation' also nicht
+überlassen. Wo km' /ich/ denn da hin! ;-)
+
+
+Größe
+Fernand

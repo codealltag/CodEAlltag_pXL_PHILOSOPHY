@@ -1,0 +1,16 @@
+Ich bin der gleichen Meinung. Allerdings bezieht sich das nur auf
+die "Denkmechanik", die durch das Zusammenwirken der logischen
+Schaltglieder an den Synapsen funktioniert.
+
+Wenn wir logisches Denken betrachten meinen wir im Allgemeinen
+die sinnvolle Verknüpfung von Aussagen, die neben ihrer formallogischen
+Form auch Bedeutungen transportieren.
+
+Was ich bei Anwendern von Computerprogrammen, die deren innere Logik
+nicht verstanden, häufig erlebte ist etwa die Forderung von Anwender-
+funktionen, die einander ausschlossen, was formallogisch ja bedeutet:
+A AND NOT(A) = TRUE. Das ist insbesondere verwunderlich, als daß
+die Gründe des Ausschlusses sogar begriffen wurden.
+Die Gegenargumentation begann dann typischerweise mit: Ja, aber...
+
+PETRA

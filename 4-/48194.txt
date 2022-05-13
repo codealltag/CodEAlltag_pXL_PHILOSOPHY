@@ -1,0 +1,19 @@
+Wie du den Vorgang auch immer nennen magst, wenn die Fotozelle es auf dem 
+Datenspeicher abgespeichert hat und das LCD-display diese Daten ausliest. 
+Wenn dir der Inhalt des Hexeditor per Sprachausgabe vorgelesen wird, dann 
+liest da irgendwas. Und es dürfte wohl einen erheblichen Unterschied 
+machen, ob die Datei über Hexeditor Sprachausgabe ausgelesen wird und am 
+Lautsprecher wiedergegeben wird oder ob sie über Mp3player ausgelesen 
+wird und am Lautsprecher wiedergegeben wird. cat Datei > /dev/dsp dürfte 
+allerdings ziemlich unverständlich sein, aber die Maschine hätte 
+sicherlich keine Probleme die Datei auszulesen. 
+
+
+Was auch immer selbstlernende Roboter da tun, wenn sie nicht mehr blöd 
+gegen Wände rumpeln und keine Menschen überfahren sondern brav die Gegend 
+in der sie ausgesetzt sind putzen. Mag sein dass das kein "Wissen" ist, 
+aber es muss ihnen auch in einer fremden Gegend das Gebäude nicht mehr 
+einprogrammiert werden.
+
+Grüße,
+Theodor

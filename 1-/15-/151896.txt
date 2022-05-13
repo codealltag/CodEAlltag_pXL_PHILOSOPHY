@@ -1,0 +1,6 @@
+falsch.
+Denn aus
+
+lim_{x to a} f(x) = lim_{y to a} f(y)
+
+folgt NICHT x = y.

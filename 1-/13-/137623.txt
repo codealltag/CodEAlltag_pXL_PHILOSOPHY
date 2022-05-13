@@ -1,0 +1,21 @@
+Von Theodor Ebbecke:
+
+Es geht dabei tatsächlich um die Zerlegung einer identischen Kugel in zwei
+neue Identitäten.
+ "Um zu beweisen, dass die angegebenen Drehungen sigma und tau wirklich
+ eine freie Gruppe erzeugen, müssen wir zeigen, dass jedes reduzierte Wort
+ Omega Element aus F{epsilon} eine  Rotation verschieden von der Identität
+ darstellt. Dafür genügt es, einen  einzigen Punkt zu finden, der nicht auf sich
+abgebildet wird. Hört Omega  mit einer positiven oder negativen Potenz von
+Sigma auf, so erweist sich  der Punkt (1,0,0) als geeignet; im anderen
+Fall, dass nämlich Omega mit einer positiven oder negativen Potenz von Tau
+aufhört, muss dann aus Symmetriegründen der Punkt (0,0,1)  die
+entsprechende Eigenschaft haben."
+ Luis Lachnith,rgendwo auf seiner Homepage. Ich habe leider den Link
+ verschmissen, wo es genauer erklärt wird. 
+Sozusagen eine Art zerlege dich selbst und setze hinterher aus den
+Zerlegungen alles zusammen und zwar durch ein Paar Drehungen so, das
+nachher zwei Theodor Ebbeckes rauskommen.
+
+Gruss
+Ingmar

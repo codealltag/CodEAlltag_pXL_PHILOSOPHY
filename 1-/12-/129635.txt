@@ -1,0 +1,92 @@
+Ich denke du ueberschaetzt die Moeglichkeit, dieses Spiel konsistent
+beliebig fortzusetzen.
+
+Das Spiel besteht ja aus einem Isomorphismus, den du aufbaust:
+
+Loewe   <-> Smaragd
+behaart <-> gruen
+...     <-> ...
+
+Bis jetzt war die Entsprechung beliebig.  Nun kommst du aber zum Baeren:
+
+Matthes    <-> XAVIER
+
+Und schon stellst du fest, dass die Entsprechung des Baeren (der ist
+ja behaart) gruen sein muss, damit aus "Der Baer ist behaart" die
+aehnlich einfache Aussage "Der BaerXXX ist haaruen" werden kann.  Du
+bist also nicht mehr ganz frei bei der Auswahl wie oben.  Also nehmen
+wir mal:
+
+Matthes    <-> Frosch
+
+Aus "Der Baer ist behaart" wird "Der Baerosch ist haaruen".  Fein.
+Nun geht es aber weiter, z.B. mit
+
+Tier <-> XXX
+
+Da muss auf der anderen Seite etwas stehen, was Frosch und Smaragd
+gemeinsam haben, damit aus "Loewe und Baer sind Tiere" eine aehnlich
+einfache Aussage "Lagd und Baerosch sind TieXXX" werden kann.  Da
+wird es schon langsam nichttrivial.  Nun haben wir aber gerade erst
+angefangen.  Wir sind bei Wort Nummer vier, wir haben noch den ganzen
+Duden vor uns.  Es ist ziemlich offensichtlich, dass wir mit dem
+Programm, den Duden durch einen Ersatzduden zu ersetzen so dass die
+Menge aller Alltagswahrheiten aehnlich _einfach_ beschrieben werden
+kann scheitern wird.  Das Scheitern sieht dann in etwa so aus: Du
+entscheidest dich fuer
+
+Tier <-> Edelstein
+
+um "Der Lagd ist ein Tierstein" als Entsprechung von 
+"Der Loewe ist ein Tier" zu erhalten, und erhaeltst dann die wahre Aussage
+
+"Der Baerosch ist ein Tierstein bevor t aber kein Tierstein nach t"
+
+Deine Ersatzsprache beschreibt die Welt dann in einer weitaus
+komplizierteren Art als die heutige Sprache, insbesondere ist sie
+t-abhaengig, und kann somit mit Ulmans Rasiermesser weggeschnippelt
+werden.
+
+
+Sicherlich.  Genau wie es immer Moeglichkeiten gibt, sich alternative
+wissenschaftliche Theorien auszudenken, die alle beobachtbaren Fakten
+erklaeren.  Und wir Ulmans Rasiermesser oder aehnliches brauchen, um
+die Zahl der Alternativtheorien wenigstens gering zu halten.
+
+
+Ich habe sowas bei ihm nicht bemerkt, wenn er sowas meint, liegt er
+allerdings falsch.
+
+
+Ulmans Rasiermesser ist in der Wissenschaft kaum als fachfremd zu
+bezeichnen.
+
+
+Ich halte es fuer nuetzlich, sie als Teil von Theorien zu verstehen. 
+
+
+Dies sind dann zwei verschiedene Moeglichkeiten, die Realitaet zu
+beschreiben, oder auch zwei Theorien.
+
+
+Klar, verschiedene Theorien sollte man nicht unbedingt
+durcheinanderbringen.
+
+
+Kann man schon.  "Realismus" besteht aus einer Anforderung an
+Theorien.  Theorien, die diesen Anforderungen genuegen, werden
+"realistisch" genannt.  Die wesentliche Anforderung ist, dass die
+Theorie eindeutig sagen muss, welche Objekte real sind. 
+
+
+Nun, welches Begriffsschema das richtige ist, ist dann auf die Frage
+zurueckgefuehrt, welche Theorie richtig ist.  Wobei jede realistische
+Theorie als ein Versuch gesehen werden kann, zu erraten, wie die Welt
+vom Standpunkt Gottes aus aussehen koennte.
+
+
+Womit du die von mir vertretene Realismusversion nicht triffst.
+
+Gregor
+-- 
+U. Enss,  <byii@mieo-tkterftug.ewq>, http://izld-tpvaanmuw.imw

@@ -1,0 +1,25 @@
+Wer Interesse hat eine Philosophie Datenbank zu erstellen, die man als
+Public Domain oder eine aehnliche Lizenz veroeffentlicht, bitte
+melden.
+
+Hintergrund: Ich habe eine neue Datenbank-Anwendung geschrieben und
+dachte eine Philosophie Datenbank waere ein gutes Beispiel, um die
+Faehigkeiten des Programms zu zeigen. Die Datenbanken sind
+nicht-hierarchisch und werden durch Hyperlinks "gebrowst".
+
+Zum Programm:
+Es ist eine Alternative zur ueblichen Baumstruktur von Gliederungen,
+d.h. jedes "Kind" kann mehrere "Eltern" haben. Man kann Bilder
+einbinden und Graphen erstellen. Man kann anschliessend mit einem
+Klick eine Website seiner Datenbank erstellen. Das Programm ist
+vorerst auf Englisch und fuer Windows. Linux und deutsche Versionen
+folgen.
+
+Die Website (Englisch) ist:
+http://dga.ecrmoj.qsn/qhjvc
+
+Mich kann man auch ueber das Webformular auf rqbgse.jtu kontaktieren.
+
+Gruesse,
+
+Willibald

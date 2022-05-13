@@ -1,0 +1,114 @@
+Schade eigentlich. 0 ist eben keine x-beliebige Zahl.
+Da niemand eine Definition aufstellen will und es sich wohl auch nicht
+konsistent Wiederspruchsfrei aufstellen lässt, habe ich zumindest für
+mich eine Privatdefinition gefunden.
+0/0 wäre hiernach für mich nicht für die Mathematik und nicht für die
+Philosophie:
+
+{}
+-- =: nicht {} aber { oder }
+{}
+
+Wobei ich bei dieser Definition wunderschön eine Mengendefinition
+konsistent Annehmen kann.
+
+Zum Beispiel ich nähme eine Menger der Natürlichen Ganzen Positiven
+Zahlen kurz hier für mich NGPZ genannt.
+NGPZ besteht aus der dem ersten Bestandteil {} = 0 und {{}} = 1 und
+{{{}}} = 2 usf. bis oo{}oo
+Eine Rechenoperation wie 0/0 ist innerhalb der Menge NGPZ nicht
+definiert, aber in der Definition der Menge an sich. (Bitte alle
+einbremsen, es ist meine private Definition, keine der Mathematik und
+kein sonst irgendwie, es ist einfach ein für mich schlüssiges
+Erklärungsmodell. Wenn das alles so schon definiert worden ist, dann
+könnt ihr mir ja die Namen und Wörter sagen, wie es offiziell definiert
+ist, aber es war ja immer die Rede davon, dass es offiziell keine
+(nicht) Definition (definiert) gibt)
+
+Innerhalb dieser Mengendefinition sind auch Rechenoperation wzB 5-6
+nicht ausrechenbar, da es negative zahlen nicht gibt. Sie führen zu
+einem Ergebniss, welches kleiner als 0 ist, da NGPZ aber nur aus
+Positiven Zahlen besteht würde eine Rechenoperation zu einem Ergebnis
+von Rest 1 führen. Es bleibt ein undefinierter Rest.
+Was aber nun ist diese undefinierte Rest?
+Der Mensch und ich eben auch ist dann halt neugierig. Ich habe ein
+Ergebnis aus einer Rechenoperation welches zu der Bequemlichkeit halber
+-1 führt. Ich weiss zwar noch nicht, was dieses -1 sein soll, aber es
+ist nun mal vorhanden. Nun ich kann mich natürlich hinstellen und
+einfach nicht definiert, damit kann man nicht rechnen. Nun gut in Gerum
+ist es halt nicht definiert. Was solls. Naja, aber der menschliche Geist
+ist ein kleines Nagetier, das keine Ruhe gibt. Was ist das, frägt das
+kleine Nagetier der Erkenntnis und gibt keine Ruhe. In NGPZ ist -1 nicht
+definiert - basta.
+Nun um friedlich Rechnen zu können und werde ich mich vielleicht mit der
+Zeit damit abfinden. Dann mag ich ja immer mehr Zahlen finden einen Rest
+von 2, aber was soll das sein. Innerhalb der Definition von Gerum werde
+ich die Antwort nicht finden, da kann ich mich auf den Kopf stellen,
+schreien, weinen, klagen. Wenn NGPZ einmal so definiert wurde, dann ist
+-1 innerhalb der Definition einfach nicht definiert.
+
+Vielleicht ist aber -1 an der Grenze von Gerum doch bereits definiert.
+Oben habe ich gesagt in NGPZ sei 
+{} = 0 und eine Rechenoperation wie 0/0 sei nicht definiert. 
+Nun weiss ich dass {} = 0 ist. Weiterhin nähmen wir mal an ich hätte in
+NGPZ auch eine Rechenoperation / und wüsste damit auch umzugehen und ich
+hätte in NGPZ eine Rechenoperation wie * usf.
+
+Ich wüsste zum Beispiel dass {{}}/{{}} = 1 ist. Ich würde daraus
+folgerichtig schliessen, das {}/{} ebenso 1 sein müsste. Nun leider habe
+ich genau diesen Fall ausgeschlossen 0/0 ist nunmal nicht definiert.
+Aber innerhalb der Menge NGPZ hätte ich jetzt bereits mindestens zwei
+nicht definierte Zahlen und darüber hinaus noch eine Zahl die in das
+unendliche wächst den ich kann die Menge in das unermessliche anwachsen
+lassen. Da habe ich doch oben glatt unterschlagen, dass das Zeichen oo
+ja auch nicht definiert ist. Es ist doch einfach nur das Anwachsen der
+Klammernpaare. Also sind in dieser NGPZ jetzt schon negative Zahlen und
+mindestens ein Maximum, wenn es dieses den gäbe, den was würde mich
+davon abhalten noch ein {-Klammernpaar hinzuzufügen ... Momentmal {}
+KLAMMERNPAAR die Menge ist ja gar nicht unendlich.  Jede Linke Klammer
+braucht ja auch eine Rechte um die nächste Zahl bilden zu können. Ich
+weiss ausserdem, dass 0/0 nicht ist.
+Was ich schreiben kann als
+{}
+--- nicht {}
+{}
+
+Sollte hier etwa die Lösung für meine nicht definierten negativen Zahlen
+liegen?
+Ja habe ich hier nicht sogar die Definition für Unendlichkeit innerhalb
+von NGPZ?
+{}
+--  nicht {}  ist was kann es denn dann noch sein?
+{}
+
+Es bleiben eigentlich nur zwei Elemente übrig
+ {
+und 
+ }
+
+Ich kann immer nur ein Klammernpaar hinzufügen, das kann man ja mal
+unendlich oft machen. Der grössten Zahl kann ich immer noch einmal links
+und rechts oder von innenheraus ein {} hinzufügen. 
+Und was passiert, wenn ich auf die Idee käme nur ein { hinzuzufügen.
+
+Hmm!
+
+Nun könnte ich genauso sagen ich kann von jeder Zahl ein } abziehen.
+
+Könnte dan { = + und in der definierten Menge NGPZ ein } = -
+
+Na dann definiere ich doch plötzlich munter -1 als  }{} im Gegensatz zu
+{]{ = +1
+
+Und was das Schöne ist ich habe eine neue Menge aus der alten NGPZ
+gewonnen. Unendlich viele Klammern sind dann einfach nur oo, minus oo
+ist }oo{}oo und plus unendlich ist dann oo{}{
+
+
+Naja soviel zu meiner ganz privaten Definition was 0/0 sei.
+
+Schade eigentlich, das 0/0 nicht definiert ist.
+
+
+Gruss
+Ottmar Welbers

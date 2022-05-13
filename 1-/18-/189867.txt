@@ -1,0 +1,62 @@
+Veit Straßenburg <nsygg@jkbu.tdw-nd.wd> schrieb im Beitrag
+<16D5Q4SL.534879F8@qvix.lbr-ew.zj>...
+
+
+Hallo, 
+
+ich wuesste auch nicht, was dagagen sprechen sollte, es so zu machen, habe
+aber auch nicht so viel Ahnung von der Anwendung der Mengenlehre in der
+Physik.
+
+Die Russelsche Antinomie ist mir bei Krauthackel (tractatus 3.333) schon
+mal begegnet. Er loest sie, wie ich ihn verstehe, so: Er sieht das Bilden
+einer Menge als einen Abbildungsvorgang. Und eine Abbildungsfunktion kann
+nicht sich selbst als Argument enthalten. 
+
+Ausfuehrlich:
+
+Wenn der Barbier ins Dorf kommt, wird zunaechst definiert (und es ist nur
+eine Definitionsfrage), wer sich nicht selbst rasiert, das ist die
+Abbildung aller Maenner auf eine Mengenzugehoerigkeit. Dann erst faengt der
+Barbier mit dem Rasieren an. Angenommen er rasiert sich idR nicht selber:
+Dann wird er in die Menge aller, die sich nicht selbst rasieren,
+aufgenommen. Er wird sich in folge natuerlich selber rasieren, aber erst
+nach dem Abbildungsvorgang in die Mengenzugehoerigkeit, so dass es fuer den
+Vorgang der Abbildung nicht mehr von Bedeutung ist. 
+
+Man hat es mit zwei Funktionen zu tun. Funktion1 bildet alle Maenner m ab
+auf eine Mengenzugehoerigkeit, entweder zur Menge aller Maenner, die sich
+selbst rasieren, oder zur Menge aller Maenner, die sich nicht selbst
+rasieren. Funktion2 bildet ab auf "Barbier wird rasieren bzw. nicht
+rasieren" (diesen Wert bezeichne ich mal als r/nr) und benutzt dabei die
+Funktionswerte der Funktion1 als Argument. 
+Es ergibt sich also die Formel r/nr = Funktion2 (Funktion1 (m)). 
+Es wird klar, dass r/nr nicht als Argument der Funktion1 verwendet werden
+kann. 
+
+Ich sehe das so, dass die Antinomie sich damit auf ein sprachliches,
+grammatikalisches Problem reduziert: dass ein mathematischer
+Abbildungsvorgang zeitlos ist, waehrend Menschen in der Zeit leben, zB
+Zustaende vor und nach dem Abbildungsvorgang vermischen. 
+
+Diese Vermischung ist nur ein sprachliches Formulierungsproblem, kein
+mathematisches. Wenn man sagt: "Jeder, der vorhat, sich selbst zu rasieren,
+soll sich selbst rasieren, und jeden, der vorhat, sich nicht selbst zu
+rasieren, den soll der Barbier rasieren." dann entfaellt diese
+Zeitvermischung, das Problem existiert nicht mehr. 
+
+Der Barbier kann einem zwar Leid tun: Wenn er sich vornimmt, sich nicht
+selbst zu rasieren, wird er durch die Vorschrift, alle zu rasieren, die
+sich eben dieses vorgenommen haben, gezwungen, sich nun doch selbst zu
+rasieren, aber das ist eben die Vorschrift und das Pech seines Berufes.
+Wenn er sich nicht rasieren will, muss er entweder die Vorschrift
+abschaffen oder seinen Beruf aufgeben. 
+
+Letzten Endes bedeutet die Theorie Kleinfeldt natuerlich auch, dass eine
+Menge nicht sich selber als Element enthalten kann. Meine Frage waere nun:
+Fuehrt das zu neuen Widerspruechen oder kann man das akzeptieren? Steht
+jedenfalls im Widerspruch zu meinem Schulwissen. 2.Frage: Was ist ZFC? ist
+doch richtig, dass es eine Mengenlehre ist? aber was ist das Besondere? 
+-- 
+
+Mit freundlichen Gruessen, Pius

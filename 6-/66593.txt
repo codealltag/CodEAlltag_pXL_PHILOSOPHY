@@ -1,0 +1,11 @@
+Das klingt für mich sinnhaft... d.h.  also Ohrlein kann also aus (seiner 
+angenommenen) Richtigkeit von A(J).B(J) und der Tatsache, dass er weiß, 
+dass nur einer die Stelle bekommt auf (x)(A(x)-->B(x)) schließen, also 
+ist mit der Richtigkeit von A(J).B(J) die Aussage:
+
+(A(J).B(J).((x)(y)(A(x).A(y) --> x=y))-->((x)(A(x)-->B(x)))
+
+logisch korrekter Schluß?
+
+Vielen Dank und Viele Größe
+Nick

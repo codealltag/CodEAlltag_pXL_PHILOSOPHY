@@ -1,0 +1,8 @@
+Die Schlussfolgerung ist natuerlich falsch, sobald es keine Primzahlen gibt.
+Der Satz muss richtig lauten:
+(Ez)(Ax)(Ey)(z = x & x ist prim -> y ist prim & x < y)
+
+Ex: x ist
+    Ben.
+
+Dem Philosoph is nix zu doof.

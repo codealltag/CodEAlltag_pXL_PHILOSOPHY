@@ -1,0 +1,16 @@
+Interessant. Wenn der Formalismus nicht als ontologische oder
+epistemologische Position, sondern als Rechtfertiung math. Praxis
+betrachtet wird, habe ich tatsächlich nichts dagegen einzuwenden. Noch
+eine Bemerkung: Die in in 6.1 besprochene Position, math. Terme
+referierten auf "Gedankendinge", hat die alte Schwäche, dass sie
+allenfalls für konstante Terme funktioniert, denn auf welches
+"Gedankending" bezieht sich die Variable 'x' in
+
+                        Für alle x gilt: x in N -> x+1 in N
+
+Die Stärke der Modelltheorie mit ihrer rekursiven Charakterisierung
+des Wahrheitsprädikats ist gerade, dass sie die Quantoren und die von
+ihnen gebundenen Variablen interpretieren kann.
+
+
+raphael

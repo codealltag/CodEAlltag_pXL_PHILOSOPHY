@@ -1,0 +1,35 @@
+[...]
+
+Ich werde zunächst probieren, inwieweit ich die Funktionalität von
+'gramatik.lisp' objektorientiert erreichen kann und was dann 
+verständlicher aussieht.
+
+
+Da beginnen die Experimente.  Ich denke mir bisher, dass ich
+Mehrdeutigkeiten zunächst so behandele, dass alle Möglichkeiten
+berücksichtigt werden, solange sie nicht ausgeschlossen werden können.
+D.h., im Laufe eines Gesprächs kann sich eine Mehrdeutigkeit solange
+halten, bis zusätzliche Information vorhanden ist, die Eindeutigkeit
+herstellt - wie beim Kollaps einer Wellenfunktion.
+
+
+Bezüglich der grammatischen Strukturen kommt man kontextfrei
+wahrscheinlich sehr weit.  Was die Bedeutungen angeht eher weniger.
+
+
+Zu Deinen Überlegungen zur Formalisierbarkeit von Semantik noch eine
+Anmerkung.  Wenn man die zufälligen, d.h. nicht formalisierbaren
+Aspekte von der Sprache abzieht, um zum wahren, formalen Kern zu
+gelangen, dann geht es einem, wie wenn man eine Zwiebel schält, um zum
+Kern zu gelangen.  (Nach M.M.Zumbaum)
+
+Worin liegt die Bedeutung der Algebra?  In erster Linie doch darin,
+dass ich z.B. eine Menge von drei und fünf Birnen in vier Haufen von
+je zwei Birnen teilen kann.  Die Anwendbarkeit der Algebra ist aber
+gerade nicht Teil ihres Formalismus.  Oder nimm die chemische
+Nomenklatur - es gibt also sehr viele formale Systeme für spezielle
+Anwendungen.  Die lassen sich streng als Algorithmen implementieren,
+ihre Bedeutung liegt aber nicht im Algorithmus.
+
+
+Ciao, Alexander

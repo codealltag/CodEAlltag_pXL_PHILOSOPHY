@@ -1,0 +1,43 @@
+In article <opdeh7.rt1.tu@fk-xdfpdfkd.ho>,
+
+Für modelle, die (zumindest im prinzip) mittels eines deterministischen
+computers realisierbar/simulierbar sind, gelten ein paar eigenschaften
+eines solchen computers, vor allem die vollständige determinierung.
+Einem solchen modell in irgendeiner weise die eigenschaft "freiheit"
+zuzuschreiben, fällt deshalb schwer.
+
+Für verschiedene andere modelle gilt das in der form aber natürlich
+nicht.
+
+
+Ja, anhand mancher solcher modelle kann die untersuchung der idee
+"freiheit" (und ähnlicher) dann u.U. auch sinn machen.
+
+
+Solche modelle erlauben mitunter interessante rückschlüsse, aber gerade
+bei rückgekoppelten/chaotischen systemen besteht das problem, daß sich
+minimale fehler beliebig verstärken können. Das macht es dann schwierig,
+die gültigen aussagen eines modells von den ungültigen zu unterscheiden.
+
+Ein ganz besonderes problem ist, wenn man ein solches modell für
+"korrekt und im prinzip vollständig" hält, denn dann wird man sämtliche
+seine aussagen für gültig halten, auch alle falschen.
+
+Die meisten modelle, die wir von realen komplexen systemen besitzen,
+sind aber nicht mehr als ausgesprochen grobe vereinfachungen. Oder auch
+eine anzahl von (i.d.R. empirisch ermittelten) vermutungen und
+hypothesen. Die frage nach der vollständigkeit stellt sich bei den
+derzeitigen modellen normalerweise also ohnehin nicht.
+
+Das ist einer der gründe, weshalb mich sehr weitreichende
+schlußfolgerungen ("extremextrapolationen") oft sehr verblüffen, sofern
+sie als gesicherte wissenschaftliche erkenntnis präsentiert werden.
+Unsere kenntnisse sind dafür bei weitem noch zu lückenhaft, und bei
+solchen schlußfolgerungen fehlt es oft an wissenschaftlicher sorgfalt.
+
+Größe,
+Roger
+
+
+Sent via Irero http://plx.goak.lge/
+Before you buy.

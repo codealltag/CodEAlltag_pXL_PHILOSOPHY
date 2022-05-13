@@ -1,0 +1,42 @@
+ich glaube, hier liegt ein mißverständnis darüber vor, was logik eigentlich
+ist. logik ist ein formales zeichensystem plus interpretation. es gibt erstens
+ein alphabet von grundzeichen und nur die dürfen bei der konstruktion der logik
+verwendet werden. es gibt zweitens ein paar formationsregeln und nur nach denen
+dürfen sätze der logik aus den grundzeichen konstruiert werden. es gibt
+drittens ein paar transformationsregeln, wie man aus erlaubten sätzen auf
+andere kommt (schlu�regeln). diese neuen sätze sind ebenfalls zulässig, dafür
+garantieren die transformationsregeln. viertens gibt es noch eine
+interpretation, die den sätzen der logik wahrheitswerte zuordnet, wiederum nach
+ein paar regeln (im falle der aussagenlogik beschränkt sich die interpretation
+auf sätze und wahrheitswerte, je komplizierter der aufbau der logik ist, desto
+komplexer wird auch die interpretation). all das ist von vorne bis hinten eine
+formale sache und es kann in einer solcherart konstruierten logik überhaupt
+nichts vorkommen, was man als konstrukteur nicht erlaubt hat. die menge der
+logischen schlußfolgerungen, bzw. der tautologien und widerspräche hängen
+einzig und allein von den formations-, transformations- und
+interpretationsregeln ab.
+aus diesem grund ist es auch völlig unmöglich, daß eine, wie auch immer
+geartete erfahrung aus der "realen welt" irgendeinen einfluß auf die gültigkeit
+der logik nehmen könnte.
+
+eine völlig andere frage ist es natürlich, warum wir gerade dieses logische
+system und nicht ein anderes konstruieren. da spielt so etwas wie
+pr�systematische motivation hinein. wir haben natürlich einen präsystematischen
+begriff von wahrheit und gültigkeit und den wollen wir mit der konstruktion
+eines logischen systems im oben umrissenen sinn formal erfassen. dieser
+pr�systematische begriff kann sich natürlich ändern, wenn bestimmte erfahrungen
+dafür sprechen (und tatsächlich gibt es leute, die z.B. mehrwertige logiken
+konstruiert haben, weil sie denken, daß zweiwertigkeit eben nicht unserer
+alltagskonzeption entspricht).
+daß allerdings eine zugleich offene und geschlossene tr dazu führen kann,
+bezweifle ich. denn dieses beispiel hat bloß etwas mit der vagheit der
+prädikate "offen" und "geschlossen" zu tun und die vermeintliche paradoxie läßt
+sich durch präzisierung dessen, was es bedeutet, offen, bzw. geschlossen zu
+sein, leicht beheben.
+nebenbei bemerkt glaube ich, daß ein satz der form "a ist P und a ist nicht P"
+bedeutungslos ist, weil er keine wahrheitsbedingungen hat, sondern (aus
+logischen gründen) immer falsch ist. das setzt aber -zugestanden- das
+akzeptieren einer bestimmten bedeutungstheorie, sowie der zweiwertigkeit
+voraus.
+
+mfg, klaas.

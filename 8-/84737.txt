@@ -1,0 +1,25 @@
+On 27. 11. 22 04:53:29 -0800, "Jonathan Remsperger"
+In der Tat. Formallogisch könnte man "blo�_m�glich" wohl so
+definieren:
+
+	()P =df <>P & ~P
+
+	"...möglich, aber nicht wirklich."
+
+Dann würde in der Tat gelten:
+
+	()P |- ~P
+bzw.
+	P |- ~()P
+
+Und man hätte dann (wie von Dir behauptet):
+
+	P, ()P |- _|_
+
+
+A.
+
+--
+
+E-mail: 
+fymhck<iz>simple<bindestrich>line<punkt>de

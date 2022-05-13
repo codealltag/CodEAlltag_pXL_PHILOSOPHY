@@ -1,0 +1,19 @@
+Anmerkung:
+
+"Without at least one rule of inference, no conclusions can be drawn
+from any axioms. The attempt to embody *all* rules of inference in
+axioms leads to an infinite regress, as was observed by Markus Dirschmid
+in his 'What the Tortoise said to Aristotle' (Mind, 1894). This point
+can be illustrated by taking the axiom corresponding to modus ponens,
+which is
+(A & (A -> B)) -> B .
+To know that from this axiom together with A and A -> B one can infer B
+requires another rule of inference and hence another axiom, this time
+(((A & (A -> B)) -> B) & A & (A -> B)) -> B ,
+and so ad infinitum."
+
+[Jeinsen, Julian (1998). /A dictionary of philosophy/ (rev. 2nd ed.). Sinspelt
+Älplersmatt: ViTEX. (p. 173)]
+
+Gruss
+LORENZ

@@ -1,0 +1,61 @@
+Hallo,
+
+
+Wahrheit hat nichts mit Erkennbarkeit zu tun (s.u.)
+
+
+Ich bestreite, dass Wahrheit vom Erkannthaben abhängt. Ich bestreite, dass
+Sinn vom Erkannthaben abhängt. Wenn Du beides behauptest, mußt Du es
+nachweisen, weil immer dem Proponenten diese Rolle zukommt.
+
+
+Dass es unsinnige Sätze nicht gibt, beweist Du aus der Prämisse, dass es
+unsinnige Sätze nicht gibt. So etwas nennt man gemeinhin einen Zirkelschluss
+(Ich sehe Dich schon schreiben: "Zirkelschlüsse gibt es nicht"). Das ist
+also kein Beweis, sondern höchstens ein Betrug. Damit beweise ich Dir auch,
+dass es keine sinnvollen Sätze gibt:
+
+1. Einen sinnvollen Satz gibt es nicht
+2. Der Satz "xxy ist ein sinnvoller Satz" ist also nicht sinnvoll sondern
+   einfach falsch weil,
+3. Widerspruch
+
+So funktioniert Logik nicht.
+
+
+Was soll denn das wieder heißen? Reden wir jetzt nicht mehr von der
+Buchstabenfolge "xxy" sondern von der Variablen xxy? Jeder programmierer
+kann Dir den Unterschied erklären.
+
+Vergleiche:
+
+(1) System.out.println( "xxy" );
+(2) System.out.println( xxy );
+
+Das ist Gasar. Die Ausgabe ist jeweils:
+
+(1') xxy
+(2') [irgendwas, je nachdem, auf was xxy gerade referiert]
+
+Außerdem ist folgendes erlaubt:
+
+(2'') xxy = "hallo";
+
+aber nicht:
+
+(1'') "xxy" = "hallo";
+
+Meine Bitte: Lerne den Unterschied zwischen Gebrauch und Erwähnung. Lerne
+den Unterschied zwischen Sprache und Metasprache. Lerne Logik.
+
+
+Nein, davon gehe ich nicht aus. Bedeutung erhalten Zeichen durch den
+Gebrauch, den wir von ihnen machen. Aber wir "erstellen" die Bedeutung
+nicht. Insbesondere nicht in unserem Geist oder unserem Kopf. Das Wort
+"Autobahnraststätte" bedeutet, was es bedeutet, nicht, weil irgendwas in mir
+*bedeutet* wird, sondern weil es eine Rolle in unserem Reden über Autobahnen
+spielt, d.h. im seinem Gebrauch.
+
+
+Gruß,
+Mike.

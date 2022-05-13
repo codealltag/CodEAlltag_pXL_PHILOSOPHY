@@ -1,0 +1,430 @@
+Ingo Weizhofer schrieb:
+
+[...]
+
+
+Auch die Pragmatik hat es mit "Bedeutung" zu tun. Die formale Semantik
+hat einen sehr eingeschränkten Bedeutungsbegriff, insofern sie nur das
+als "Bedeutung" gelten läßt, was mit einer wahrheitswertfunktionalen
+Analyse erfaßbar ist.
+
+Ein Idealziel der formalen Semantik war/ist die Schaffung einer
+objektiven, präzisen und universalen Wissenschaftssprache. Natürliche
+Sprachen können das aus einem wesentlichen Grund nicht leisten:
+Anders, als du denkst, sind in diesen _pragmatische Bedeutungen_ zu
+einem hohen Grade lexikalisiert und grammatikalisiert - mit anderen
+Worten: Die "Sprechersubjektivit�t" ist nichts, was erst bei der
+*Verwendung* sprachlicher Ausdrücke ins Spiel kommt, sie ist in
+unseren Sprachen auch kodiert.
+
+übrigens haftet Wörtern und Sätzen Bedeutung nicht wie ein Etikett an
+- Bedeutung ist eine Funktion der *Verwendung*. Ich schaue also, wie
+Wörter und Sätze im sprachlichen und außersprachlichen Kontext
+gebraucht werden - wie sie distribuiert sind, in welchen semantischen
+Relationen sie zu andern Wörtern bzw. Sätzen stehen etc.
+Verwendungsunabh�ngige Bedeutungsdefinitionen gibt es nicht - das war
+der Trugschluß physikalistischer Wahrheitstheorien.
+
+
+Kommt drauf an, wie du hier "Sinn" und "Bedeutung" definierst. Ich
+vermute mal, in diesem Fall nicht im Thiem Sinne als Extension
+vs. Intension, sondern als "propositionaler Gehalt" vs. "pragmatischer
+Gehalt". Falsch ist deine Auffassung, dass sich pragmatische Bedeutung
+erst auf der Äußerungsebene zeige.
+
+a.) Wörter haben nicht nur ein Referenzpotential, sondern auch
+Konnotationen, mit denen der Sprecher werten kann. Siehe z.B. die
+(Quasi)-Synonyme von "Gesicht": Antlitz, Fresse, Visage. Nur
+wissenschaftliche Termini sind weitgehend konnotationsfrei - oder
+sollten es sein.
+
+b.) Die grammatischen Kategorien Person, Tempus, Modalität (v.a.
+letztere) sind in einer wahrheitsfunktionalen Beschreibung nur
+unzureichend erfaßbar.
+
+Beispiele:
+
+- Pronominalsysteme in natürlichen Sprachen bringen sehr oft auch
+soziale Wertungen zum Ausdruck: "du" vs. "Sie" im dt., ganz zu
+schweigen vom japanischen Pronominalsystem, indem verschiedene
+Abstufungen der Höflichkeit kodiert sind.
+
+- Zukunftsreferierende Tempora drücken oft auch modale Wertungen aus,
+im Dt. z.B. "Gewißheit": "Alessandro wird morgen kommen". Oder nimm im
+engl. den Unterschied zwischen "will" und "shall". Tempus und Modus
+sind in natürlichen Sprachen sehr oft so interdependent, dass die
+entsprechenden grammatischen Mittel sowohl "temporal" als auch "modal"
+sind - das kann man oft gar nicht trennen.
+
+
+Witzig, dass du zur Illustration "kontextloser Bedeutung" einen
+*mathematischen Satz* verwendest. Besser könntest du gar nicht zeigen,
+dass die formale Semantik es mit Kunstsprachen zu tun hat, aber nicht
+mit natürlichen Sprachen.
+
+
+Jep. Aber festzuhalten ist, dass die Kontextabhängigkeit von "ich" zur
+_Bedeutung_ von "ich" gehört - eine semantische Theorie muß also
+berücksichtigen, dass Wörter (und Sätze) semantische Variablen haben,
+die erst der Kontext binden kann.  "Ich" referiert nur in einer
+Äußerung, aber es gehört zur _Semantik_ von "ich", dass "ich" auf den
+Sprecher refereriert. Anders ausgedrückt: Die Extension von
+Personalpronomina ergibt sich erst im Äußerungskontext, trotzdem haben
+sie eine Intension. Sehr viel anders ist das bei generellen Termini
+übrigens auch nicht: Das Wort "Hund" hat ein sog. Referenzpotential,
+erst in einer Äußerung kann ich mit "der Hund", "diese Hunde" etc.
+referieren. Referenz ist nichts, was Wörtern und Sätzen anhaftet -
+Referenz wird erst in Äußerungen hergestellt. Nicht Wörter und Sätze
+referieren - es sind Sprecher, die _mit Wörtern und Sätzen
+referieren.
+
+
+Du definierst dir d.) so zurecht, dass dieser Satz in der Tat nicht
+sprecherrelativ ist. "Niklaus" ist insofern mehrdeutig, als dieser Satz
+auf den einen "Niklaus" zutrifft, auf den andern nicht. Um Namen
+"aufsen" zu können, brauche ich Kontextwissen. Das ist so elementar
+für Namen, dass ich nicht weiß, wie man davon so mir nichts dir nichts
+absehen könne! Man kann es natürlich, wenn man nur an
+Wahrheitsbedingungen interessiert ist. Aber dann hast du nicht Satz
+d.) erklärt. Dann hast du nur einen Satz einer vorher definierten
+formalen Sprache erklärt, wo das Modell bereits definiert, auf wen
+"Niklaus" referiert.
+
+
+Da stimm ich dir ausnahmsweise uneingeschränkt zu! Es fragt sich nur,
+_was_ diese formalsemantischen Theorien bezwecken. Wenn sie
+_Bedeutungstheorien_ sein wollen - nun, das sind sie nicht, auch wenn
+viele Logiker da anders denken mögen. Semantische Theorien sind
+Kunstsprachen, die von wesentlichen Aspekten natürlicher Sprachen
+abstrahieren, insbesondere von allen Bedeutungsaspekten, die nichts
+mit "Wahrheit" zu tun haben. Insofern sie künstlich zwischen
+"Bedeutung"/"Semantik" und "Verwendung"/"Pragmatik" trennen, sind sie
+als Modelle für natürliche Sprachen völlig inadäquat.
+
+In formalen Systemen kann ich "Bedeutung" einführen - indem ich
+mittels einer Metasprache die Termini der Objektsprache definiere bzw.
+objektsprachlichen Sätzen Extensionen (Wahrheitswerte) zuordne. Mit
+natürlichsprachlicher Bedeutung geht das nicht, ganz einfach weil hier
+Objekt- und Metasprache zusammenfallen; ich außerdem die Bedeutungen
+schon vorfinde und mir nicht konstruieren kann.
+
+
+Du weit jetzt nicht, wovon du redest? "Deixis" hat nichts mit
+irgendeinem "Solipsismus der 1. Person" zu tun. "Deixis" ist auch kein
+"Ansatz", sondern eines der fundamentalsten Konzepte
+natürlichsprachlicher Semantik überhaupt. Um zu wissen, worauf
+Personalpronomina, Zeitadverbien etc referieren, muß ich mich in einem
+Koordinatensystem orientieren, dessen Nullpunkt der Sprecher ist. Mich
+wundert, dass dir "Deixis" kein Begriff ist.
+
+[Und mit der berühmt-berüchtigten "Humdy-Dumpty-Semantik" hat Deixis
+schon gar nichts zu tun.]
+
+
+Werd lieber konkret! Ich wüßte nicht, was an meinem Satz falsch ist.
+Zur Bedeutung von Personalpronimina gehört es, dass der jeweilige
+Referent der Sprecher des Satzes ist. Zur Bedeutung von "bald" gehört
+es, dass damit ein Zeitpunkt gemeint ist, der _nach_ der Sprecherzeit
+liegt etc.
+
+
+?? Sätze sind immer Teil von Äußerungen, und Äußerungen ohne Sprecher
+gibt es nicht. Ich weiss nicht, was du meinst. Etwa Sätze in
+Anführungszeichen? Sog. "Sätze" innerhalb formaler Systeme?
+
+
+Doch, sie zeigen folgendes:
+
+a.) Auf welchen Zeitpunkt "morgen" oder "er wird kommen" referiert,
+ist abhängig von der Sprecherzeit. Du kannst natürlich auch
+"Äußerungszeitpunkt" sagen. Das ändert an der Sache aber nichts, bei
+Personalpronomina kommst du ohnehin nicht mehr um den Sprecher herum.
+
+b.) Sicher, Tempora kann man weitgehend definieren ohne die
+propositionale Einstellung des Sprechers berücksichtigen zu müssen.
+Aber nicht ausnahmslos, weil die Kategorien Tempus und Modalität in
+natürlichen Sprachen teilweise interdependent sind.
+
+Du hast hier deine Argumentation verschoben: Ich sagte ja nicht, dass
+Deixis etwas mit der propositionalen Einstellung eines Sprechers zu
+tun habe. Ich kann den Sprecher identifizieren und ihn in Raum und
+Zeit verorten, ohne seine propositionalen Einstellungen
+berücksichtigen zu müssen. Anders sieht es freilich aus, wenn die
+Kategorie der Modalität ins Spiel kommt. Du kannst nicht einmal von
+der Sprechereinstellung abstrahieren, wenn die Konnotationen von
+Wörtern ins Spiel kommen.
+
+Enorme Probleme hat jede wahrheitsfunktionale Semantik etwa mit
+moralischen Begriffen: Deren Bedeutung ist _sprecherrelativ_, hängt
+entscheidend von dessen Werthaltungen und Überzeugungen ab: Was für
+dich "gut", "mutig", "verrückt", "krank" etc. ist, muß dies für mich
+noch lange nicht sein.
+
+Eine semantische Theorie müßte, um diesen Begriffen bzw. den mit ihnen
+geäußerten Sätzen Extensionen zuordnen können, für jedes Individuum
+eine _eigene_ Wahrheitstheorie stricken.
+
+
+Was versteht hier Kienast unter "Intention"?
+
+
+Dann bitte ich dich, die grammatischen Modi _ohne_ Rekurs auf die
+propositionalen Einstellungen des Sprechers zu erklären. Da ich einen
+Gutteil der linguistischen Spezialliteratur zu diesem Thema kenne,
+würde mich das sehr überraschen. Erst _seitdem_ man in die
+grammatische Analyse die Sprechereinstellung einbezogen hat, kann man
+die Funktionsweise etwa von dt. Konj. I und II annähernd erklären.
+Kienast ist a.) kein Sprachforscher, b.) zudem Engländer. Es ist
+bekannt, dass das Englische Modalität in weitaus geringerem Grade
+grammatikalisiert hat als andere Sprachen. Und c.) weiß ich nicht, was
+Kienast konkret kritisierte. Kannst du das ausführen?
+
+
+Nein. Ausschlaggebend sind die Differenzierungen, die ich im Dt. mit
+den Modi vornehmen kann. Mächte ich mich von Peters Aussage
+distanzieren, verwende ich den Konj. (bzw. seine Umschreibung) - "dass
+es morgen regnen würde". Der Indikativ ist bestenfalls neutral, bei
+bestimmten Verben ist die "unmarkierte Lesart" (d.h. die, wenn der
+Kontext nicht ausdrücklich eine andere Lesart erzwingt), die
+faktitive:
+
+- CDI berichtete, dass der Graf verhaftet worden ist.
+
+Erst der Konj. I ("dass der Huckebrink verhaftet worden sei"), macht klar,
+dass der Sprecher kein Faktizit�tsurteil abgibt (er nicht die Wahrheit
+des Bildberichtes präsupponiert).
+
+Um zum Punkt zu kommen: Viele "dass-Verben" lassen nur einen Nebensatz
+im Indikativ zu!
+
+- Rolf versteht/vergißt/entschuldigt/weiß, dass Ulfert bleiben
+will/*wolle.
+
+Anders als bei "glauben", "hoffen", "behaupten" etc. muß hier der
+Sprecher also die Wahrheit des Komplementsatzes voraussetzen!
+
+
+??? Es könnte ja der Fall sein, dass der Zug zum Zeitpunkt der
+Äußerung von b.) schon da ist - aber das sagt b.) definitiv nicht aus. 
+
+
+Ich vermute, du weit nicht, was "epistemische Verwendung von
+Hilfsverben" bedeutet. Also: Im Dt. und in anderen Sprachen gibt es
+Verben, die neben ihrer vollverbhaften Verwendung oder einer
+deontischen Verwendung auch epistemische Modalitäten ausdrücken
+können.
+
+a.) Nicht jedes Verb oder Hilfaverb kann das - es liegt also nicht
+allein am Kontext, ob "werden", "müssen", "können" etc. epistemisch
+verwendet werden können, sondern diese Lesarten müssen in einer
+Sprache konventionalisiert ("grammatikalisiert") worden sein. Im
+entsprechenden Kontext stellt es eine "konventionelle Implikatur" dar,
+ob "können" nun im Sinne eines Vermögens, einer Erlaubnis oder einer
+Wahrscheinlichkeitsvermutung gelesen werden muß:
+
+- Alessandro kann Klavier spielen.
+- Alessandro kann jetzt kommen.
+- Alessandro kann schon da sein.
+
+"Konventionelle Implikaturen" sind, insofern sie als Verwendungsregeln
+Teil der Verbbedeutung selbst sind, von "konversationellen
+Implikaturen" zu unterscheiden - etwa bei der Verwendung von Ironie,
+von kreativen Metaphern etc.
+
+
+Ich meinte: Informiere dich mal über die _Probleme_ einer
+epistemischen Logik. Hausperger hat - IMHO zu Recht - bereits der
+Modallogik "Essentialismus" vorgeworfen, und eine epistemische Logik
+führt geradewegs in die Paradoxie der "logischen Allwissenheit" - um
+einen "wissen-dass"-Satz zu verstehen, müßte der Interpret allwissend
+sein.
+
+In unsrer Welt wäre ein solcher Satz bedeutungslos. Kein Mensch der
+Welt behauptet mit einem "wissen-dass-p" Satz auch die _Notwendigkeit_
+von p. Er hält es nur für _sicher_, "dass p".
+
+Und hier komm ich zu einem Defizit deines Verständnisses von
+epistemischer Modalität. Ehrlich gesagt, ich vermisse bei dir sogar
+die epistemische Modalität. Du operierst mit einem Wissensoperator K,
+aber das ist nicht zwingend. Damit hast du wegdefiniert, worum es in
+der Logik von Glauben und Wissen geht - nämlich um die Formalisierung
+solcher Konzepte wie "Gewißheit", "Vermutung" etc., d.h. um die modale
+Qualifizierung von Aussagen hinsichtlich ihrer Rechtfertigbarkeit.
+
+Die Modallogik macht Aussagen wie: "Es ist
+notwendig/möglich/unmöglich, dass p".
+
+Die epistemische Logik (zumindest die, dich kenne) macht Aussagen wie:
+"Ein Sprecher S hält für sicher/wahrscheinlich/möglich, dass p."
+
+(Freilich, an der Sprechersubjektivit�t scheitert die Formalisierung.
+Aber das ist nicht das Problem der Sprache, sondern der formalen
+Logik.)
+
+Worin besteht bei dir die Modalisierung der Satzaussage? 
+
+
+Ja nun, komplex sind diese Themen wirklich. Ich hab nur noch nicht
+feststellen können, dass du die Komplexität auch erkennst.
+
+
+Ich hab nicht von mir geredet, obwohl ich selbst auf diesem Feld
+publiziert habe (insbesondere über die epistemische
+Modalverbverwendung des dt. "werden"). Ich weiß aber, dass die
+linguistische Semantik der letzten Jahrzehnte methodisch sehr von
+Vorüberlegungen und begrifflichen Differenzierungen der
+philosophischen Semantik profitiert hat. Ob das nun Utenwiehe, Jerosch,
+Kienast, Hausperger, Haltenhofs etc gewesen sind ... 
+
+
+Ich leugne ja nicht, dass eine formale Semantik diese
+wahrheitskonditionalen Elemente haben muss. "Erfüllung" spielt in der
+Sprechakttheorie eine grundlegende Rolle, und ohne "Bezugnahme" aka
+"Referenz" würde auch jegliche linguistische Semantik zusammenbrechen.
+Aber an "Wahrheit" kann sich eine _linguistische_ Semantik nicht
+binden, das haut einfach nicht hin. "Analyzität" reicht vollkommen
+aus, um Sinnrelationen erklären zu können. Um zu verstehen, was
+"Bedeutung" _empirisch_ ist, brauchen wir keine metaphysische
+Wahrheit, nicht mal "Wahrheit in einem Modell M", sondern nur ein
+Wissen darüber, wann für Sprecher einer Sprache Wörter und Sätze
+synonym sind und wann nicht. Auch das ist schon eine Simplifizierung,
+weil es nur kontextuelle Synonymie gibt, d.h. Austauschbarkeit salva
+veritate nur in bestimmten semantischen Umgebungen.
+
+[...]
+
+
+Eine Äußerungssituation _ohne_ S ist Unsinn.
+
+
+Ich dachte, wir reden über Bedeutungen und nicht über die Welt.
+Natürlich kann jemand etwas wissen, ohne dass das jemand merkt. Das
+ist so trivial wie die Aussage, dass es regenbogenfarbige Ameisen
+geben kann, ohne dass diese je ein Mensch gesehen hat.
+
+Wir wollen nicht erklären, was "Wissen" für einen Psychologen ist,
+sondern was unser Wort "wissen" bedeutet. Sprachanalyse ist keine
+Weltanalyse.
+
+
+Du weit hoffentlich, dass es unter Temporallogikern _keinen_ Konsens
+darüber gibt, worauf Aussagen über die Zukunft referieren bzw. welchen
+Status sie in einer wahrheitskonditionalen Semantik überhaupt haben.
+Im Gegenteil: Zukunftsaussagen stellen die größte Herausforderung an
+die Zeitlogik dar. Du bietest mir hier die traditionelle Lösung wie
+ein Dogma an.
+
+
+Die Wissensdefinition? Die besagt, dass der Satz "x weiss, dass p"
+richtig ist, wenn "p". Aber wie du schon gesehen hast, bezweifele ich
+die Adäquatheit dieser Def. 
+
+[...]
+
+
+Ich bestreite _beide_ Folgerungen. ;-)
+
+
+Na, in der Definition von "wissen-dass" taucht "glauben-dass" auf der
+Definiens-Seite auf. Ist doch so, oder?
+
+
+Ich benötige den Sprechakt, um erklären zu könne, warum die Wahrheit
+von p eine Präsupposition des Sprechers ist.
+
+Anders kann ich (siehe oben) z.B. nicht erklären, warum bei "wissen"
+Konj. I im Nebensatz ausgeschlossen ist, bei "glauben" nicht:
+
+- Alessandro glaubte/*wußte, dass Daphne in Berneck gewesen sei.
+
+Der Sprecher kann deshalb nicht den Konj. verwenden, weil es zur
+Bedeutung von "wissen-dass" gehört, dass der Sprecher auch die
+Wahrheit von p präsupponiert. 
+
+[...]
+
+
+[...]
+
+
+Der auch, in einem anderen Sprechakt. Aber der Sprecher geht die
+Verpflichtung ein, zu begründen, warum er statt "behaupten" nicht
+"feststellen" oder "sagen" verwendete. Hinter dem Verb "behaupten"
+versteckt sich die propositionale Einstellung, die der Sprecher der
+Behauptung gegenüber einnimmt. So wie sich in "wissen" auch die
+propositionale Einstellung des Sprechers zum von Person x gewußten
+verbirgt.
+
+Anders ausgedrückt: Mit "behaupten, dass" und "wissen, dass" nimmt der
+Sprecher eine _epistemische_ Bewertung von "p" vor:
+
+a.) "Behaupten, dass" - S hält p für eine bezweifelbare Tatsache.
+b.) "Wissen, dass" - S hält p für wahr.
+
+[...]
+
+
+Wie willst du wissen, dass "p" nicht doch richtig sein kann?
+
+MIr geht's um folgendes: Ein modales Adverb wie "fälschlicherweise"
+ist eine Bewertung des _Sprechers_, mit der er eine Aussage als
+"falsch" klassifiziert. Dieses Adverb sagt _nichts_ darüber aus, ob p
+_wirklich_ falsch ist.
+
+"Fälschlicherweise" heißt: "Ich (der Sprecher) bin mir sicher, dass p
+falsch ist."
+
+Es heißt _nicht_: "p ist falsch". Ob p wirklich falsch ist, kann ich
+nicht dem Satz entnehmen.
+
+
+Ich hätt besser schreiben sollen: "Alessandro weiß nicht, dass p."
+
+
+Dass dir Sprecher "obskur" sind, weiß ich mittlerweile. ;-) Kein
+Wunder, dass du solche Sätze auf eine "logische Form" bringen willst -
+mit anderen Worten: In eine Form, in der S nicht vorkommt. ;-)
+
+
+_Relativ_ neu.
+
+
+Welche? Die kenn ich nicht. Allerdings ist zu sagen, dass Hansmann
+Theorie natürlich auch innerhalb der Linguistik ausgebaut und
+modifiziert wurde. Wahrscheinlich aber, da wg. unterschiedlicher
+Fragestellung, in andere Richtungen.
+
+
+Maybe. Ich weiß nicht, welche Probleme sich damit im Rahmen
+wahrheitskonditionaler Semantiken ergeben - ich weiß aber, dass
+Braentel, Prantel und Haltenhofs die linguistische Semantik enorm befruchtet
+haben. Mit Haltenhofs kann ein Linguist "etwas anfangen" - seine Kritiker
+müßten das erst zeigen.
+
+
+Jetzt verrat mir, was "Pseudosemantik" ist. Eine solche, die zwar der
+unterscheidenden Bedeutungsanalyse von Wörtern und Sätzen dienen kann,
+aber nicht die Systemansprüche von formalen Semantikern befriedigen
+kann?
+
+Nunja. Man muss sich schon entscheiden, was man will: Entweder eine
+Theorie _nat�rlich_sprachlicher Bedeutung oder ein logisches
+Aussagensystem, in dem von "Bedeutung" nur uneigentlich die Rede sein
+kann. Wer letzteres will, sollte allerdings nicht behaupten, dass er
+die "Bedeutung von Bedeutung" untersucht.
+
+
+Neuer als die klassische Wissensdefinition. Nur darum ging es. Und
+eigentlich solltest du selbst wissen, welch scharfer Kritik deine
+Urteile von seiten der speziellen Logiken unterzogen wurden.
+
+
+Inwiefern? Du solltest doch selbst wissen, welche sehr divergierenden
+Ansichten Philosophen und Logiker bzg. epistemischer Modalität haben.
+Es gibt nicht *die* "epistemische Logik". Du wolltest mir hier mit
+Kp->p einen Konsens demonstrieren, den es nicht gibt. Ich sage nur,
+dass die Logiker das Gebiet der epistem. Modalität für die Linguistik
+gut vorbeackert haben.
+
+
+Frédéric

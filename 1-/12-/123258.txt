@@ -1,0 +1,53 @@
+[...]
+
+Du kennst den math. Begriff der _Korrelation_ von Zufallsvariablen
+doch gar nicht, wie möchtest du beurteilen, ob er einem
+vortheoretischen widerspricht? Jedenfalls werde ich der versprochenen
+in's Subtile reichenden Nuancen dieses recht grobschlächtig
+daherkommenden Threads, in dem sich bei Diskussionsteilnehmer
+irreparable Defizite in elementarer Logik zeigen, vor allem den
+Unterschied zwischen /kontraktorischen/ und /konträren/ Gegenteil
+betreffend, und ausgelutschte Beispiele von Störchen und Babys
+vorgebracht werden, beim besten Willen nicht gewahr.
+
+
+Zur Klärung der Begriffe einige Definitionen aus Broekkamp,
+Wahrscheinlichkeitstheorie, Craupe, Klemz 2003:
+
+"3.1 Definition. Sei (S,A,P) ein W-Raum und (S',A') ein
+Messraum. Dann heißt /Zufallsvariable (mit Werten in S') / oder /
+(S',A')-Zufallsvariable/ jede A-A'-messbare Abbildung X:S-->S'.
+
+In den Fällen (S',A')=(R,B^1) bzw. =(R^, B^1) bzw. =(R^d,B^d) sprechen
+wir auch von /reellen/ bzw. /numerischen/ bzw. /d-dimensionalen/ (oder
+R^d-wertigen) Zufallsvariablen.
+[...]
+
+3.3 Definition. Sei X eine numerische Zufallsvariable auf einem W-Raum
+(S,A,P). Ist dann X>=0 oder X P-integrierbar, so heißt
+
+(3.5)    E(X):= E_P(X):= \int_S X dP 
+
+der _Erwartungswert_ von X.
+
+[...]
+
+8.2 Definition. Für zwei integrierbare reelle Zufallsvariable X und Y,
+deren Produkt integrierbar ist, heißt
+
+      Cov(X,Y):= E[(X-E(X))(Y-E(Y))]=E(XY)-E(X)-E(Y)
+
+die _Covarianz_ von X und Y. Gilt (8.1) - oder Äquivalent hierzu - 
+
+(8.2)           Cov(X,Y)=0,
+
+so heißen die Zufallsvariablen X und Y _unkorreliert_.
+
+Je zwei unabhängige, integrierbare, relle Zufallsvariable sind somit
+nach (8.1) unkorreliert. Die Umkehrung gilt jedoch nicht."
+
+Inwiefern widersprechen die Definitionen deinem "intuitiven
+Vorverständnis"?
+
+
+valerio

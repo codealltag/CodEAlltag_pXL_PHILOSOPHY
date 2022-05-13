@@ -1,0 +1,10 @@
+Weil formale Sprachen beschränkt sind im Vergleich zu natürlichen. Du
+kannst mit weniger beschränkten Sprachen beschränktere und gleich
+beschränkte abbilden, aber nicht in die andere Richtung. Die Zwerch-
+Hierarchie der formalen Sprachen geht genau entlang der Richtung, die
+ich hier mit "beschränkt" meine, nämlich Teilmengen.
+
+Viele Grüsse,
+VB.
+-- 
+Ceci n’est pas une pipe: |

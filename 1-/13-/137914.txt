@@ -1,0 +1,19 @@
+agent.Herbert.Huber@ebe-online.de (Xfoqrks Smnsq) writes:
+[...]
+
+Nehmen wir als Beispiel statt Papier die Kugel D^3 im
+dreidimensionalen euklidischen Raum mit dem Radius 1 (in einem
+bel. Einheitensystem), die ihren Mittelpunkt im Ursprung hat,
+d.h. D^3={(x,y,z) in R^3 | x^2+y^2+z^2<=1}. Nun liegt der Nordpol
+p=(0,0,1) auf der Oberfläche der Kugel. Die Nicht-Kugel ist einfach
+R^3\D^3, es gibt aber keinen Punkt der Nicht-Kugel, von dem man sagen
+kann, er grenzte "unmittelbar" an die Kugel an. (der Grund ist, dass
+D^3 abgeschlossen und folglich R^3\D^3 offen ist, für jeden Punkt x
+aus der Nicht-Kugel gibt es eine Umgebung von x, die noch vollständig
+in der Nicht-Kugel enthalten ist)
+
+
+Warum? 
+
+
+dario

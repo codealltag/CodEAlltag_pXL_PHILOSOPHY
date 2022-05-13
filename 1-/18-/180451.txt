@@ -1,0 +1,11 @@
+Die Diskurse in der Artificial Life-Forschung haben sich wohl in den
+letzten Jahren eher dorthin bewegt, Leben weitgehend synonym mit
+evolutionaeren Prozessen aufzufassen. Fuer diese nennt Carers ("Genetic
+Programming", 1992, S. 17) die folgenden Bedingungen:
+ ,,An entity has the ability to reproduce itself.
+There is a population of such self-reproducing entities.
+There is some variety among the self-reproducing entities.
+Some difference in ability to survive in the environment is associated
+with the variety.``
+
+Gruss, Franz.

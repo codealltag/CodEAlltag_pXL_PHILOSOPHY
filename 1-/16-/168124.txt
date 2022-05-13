@@ -1,0 +1,23 @@
+Nikolaus Bracklo <holsyj.pwwhpz@xopjh.dxp-ahigh.ha>:
+:>Ich darf verraten:
+:>
+:> U / f = U
+:>
+:>fuer jede unendliche Kardinalitaet U und jede natuerliche (finite) Zahl
+:>f (ausser Null).
+
+: Wie moechtest du ueberhaupt "1/f" (als Kardinalzahl!) definieren? Fuer
+: die Multiplikation auf Kard gibt es keine Inversen.
+
+Der Punkt geht an dich.
+Besser (hoffentlich) formuliert:
+
+ U * f = U
+ U + U = U
+
+fuer jede unendliche Kardinalitaet U und jede natuerliche Zahl f>0
+
+Wobei.. Nach dem Wohlordnungssatz faedele man U auf, gehe die Kette
+entlang und zaehle in [0,f-1] durch. Dann stopfe man alle Elemente
+mit gleicher Nummer in die Teilmengen U_i mit i=0,..,f-1 und 
+definiere U/f als min(card(U_i)). Nur so ein Gedanke...

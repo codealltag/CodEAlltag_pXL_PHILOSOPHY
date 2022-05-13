@@ -1,0 +1,47 @@
+Am 27.07.2010 16:50, schrieb Maik Ungruh:
+
+....
+
+
+a = b
+
+Wir multiplizieren beide Seiten mal mit a:
+
+a*a = b*a
+
+anders geschrieben:
+
+a² = ab
+
+Nun addieren wir auf beiden Seiten mit a² und ziehen 2ab ab:
+
+a² + a² - 2ab = ab + a² -2ab
+
+Zusammen gefasst:
+
+2a² - 2ab = a² - ab
+
+Nun klammern wir aus:
+
+2(a² - ab) = a² - ab
+
+Und nun können wir einfach kürzen.
+
+2 = 1
+
+Klar, sagt der Mathematiker, die letzte Teilung war eine Division durch 
+NULL, da ja a=b war (siehe oben).
+
+Ich kann aber diese Rechnung auch rückwärts laufen lassen. Da wird dann 
+nirgendwo durch NULL geteilt, dennoch kommt Blödsinn dabei heraus.
+
+Mathematik hat so dermaßen viele Stolperfallen, dass man wirklich davon 
+ausgehen muss, dass Mathematik ein in sich selber nicht geschlossenes, 
+durch und durch logisches Gebilde ist.
+
+So ähnlich ist es mit jeder Theorie. Letzendlich kann jede ad absurdum 
+geführt werden. Theorien sind und bleiben nur "Orientierungen" für den 
+menschlichen Geist, aber bei jedem Problem muss man sich schon die Mühe 
+machen, *genau* hinzuschauen.
+
+MfG, Cédric Unterholzer

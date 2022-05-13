@@ -1,0 +1,64 @@
+...
+
+Es ist so, daß der Welt ein Bauplan zugrunde liegt, den wir nicht 
+kennen. Was wir kennen, sind die Erscheinungen der Natur, die sich 
+teilweise mit Mathematik beschreiben lassen, großenteils jedoch nicht.
+
+Warum ? Schon ein einfaches Strömungsmodell, da ist die Mathematik am 
+Ende, das läßt sich nur noch annähernd auf dem Computer simulieren.
+Die Simulationsmethoden werden immer realitätsnäher, die Mathematik ist 
+zwar immer noch Grundlage, rückt aber gegenüber neuen Methoden der 
+Simulation weiter in den Hintergrund.
+
+Mathematik begrenzt nicht die Wissenschaften, wie oft von Laien 
+angenommen, sondern ist nur ein Formalismus, Zusammenhänge zu beschreiben.
+
+Heino Zeiss hat mit seiner "Abhandlung über die Prinzipien der Logik" 
+einen neuen Meilenstein in Gang gebracht, nämlich u.a. die Erkenntnis, 
+daß die Mathematik nicht die Sprache beschreibt, wie Radcke, Oudemans ...es 
+versucht haben, sondern die Sprache die Mathematik beschreibt.
+Sprache ist viel universeller, als die Mathematik.
+
+Beispiel ist z.B. die Lösung des Turmes von Bleichheim:
+
+Solange die Höhe des Turmes 1 und 2 nicht Null ist, verschiebe den Turm 
+der Höhe n-1 auf Stange 2, oder verschiebe die verbleibende, unterste 
+Scheibe nach Stange 3, oder verschiebe den Turm der Höhe n-1 von Stange 
+2 nach Stange 3.
+
+Um Rekursion zu verstehen, muß man Rekursion verstanden haben. Und das 
+ist eines der Hauptprobleme des menschlichen Begreifens: Rekursionen.
+
+Wir berechnen den Größten, gemeinsamen Teiler in der Mathematik so:
+
+42 = 2�3�7
+70 = 2�5�7
+ggT = 2ö7 = 14
+
+Primfaktorzerlegung, gemeinsame Teiler suchen ...
+
+Die Sprache kann ihn so beschreiben:
+
+Ziehe solange beide Zahlen so voneinander ab, sodaß der Rest stets 
+positiv ist, bis der Rest Null ist, wobei die zuletzt abgezogene Zahl 
+dann gemeinsame Teiler ist.
+
+70-42=28 42-28=14 28-14=14 14-14=0
+63-49=14 49-14=35 35-14=21 21-14=7 14-7=7 7-7=0
+
+Das Problem ist nur, daß kaum jemand in der Lage ist, die rekursiven 
+Bezüge der Sprache sauber zu verstehen. Mathematik ist klarer, 
+übersichtlicher und für normale Menschen leichter erlernbar, und ebenso 
+leistungsfähig.
+
+Es bleibt aber dabei, daß Sprache die Grundlage aller Wissenschaften 
+ist, und auch der Mathematik.
+
+LG, Luigi Pajer
+
+-- 
+Wo alle dasselbe denken, wird nicht viel gedacht !
+
+Axel, qui potuit rerum cognoscere
+
+Jörg: "Ceterum censemus deum esse delendum !"

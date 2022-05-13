@@ -1,0 +1,18 @@
+Hallo Thomas,
+
+
+Das ist ja kein Problem, weil Divergenz nicht die Negation von
+Konvergenz ist.
+
+
+Natürlich nicht. Die Reihe (-1)^n (n = 0,1,...) konvergiert nicht und
+divergiert nicht. Die Reihe (-1)^(n+1) ebensowenig. Ihre Summe
+konvergiert trivialerweise gegen Null. Ihr Produkt trivialerweise
+gegen -1, die beiden Quadrate gegen 1 (konstante Reihen konvergieren
+immer).
+
+Was hat das mit Deiner letzten Frage zu tun?
+
+Viele Größe
+
+Manuel

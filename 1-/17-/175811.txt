@@ -1,0 +1,85 @@
+"Die" Evolution gibt es nicht. Evolution ist ein allgemeiner Vorgang,
+eher mit einer Faehigkeit als mit einer Funktion zu definieren.
+Und evolutionaere Systeme kennt die Informatik schon ein paar Jahre
+(und setzt diese auch ein).
+
+konstruktionsbedingt. warum biologische Komponenten nehmen, wenns
+auch ohne und dafuer schneller und (einfacher) zuverlaessig geht?
+Aber die Forschung ist in dem Gebiet ja schon recht aktiv. Ich erinner
+mich an eine Pressemeldung von letzter Woche, wo Blutegel-Nervelzellen
+praesentiert wurden, die mit Silizium-Komponenten verbunden waren
+und im Zusammenspiel agierten.
+
+nana, Deep Blue kann keine wirkliche Intelligenz zugesprochen werden,
+der hat i.e.L. nur alle moeglichen Zuege durchgerechnet. Viel
+interessanter sind in diesem Zusammenhang die leistungsfaehigen
+handelsueblichen Schachprogramme, die mit einem Bruchteil von 
+Deep Blues Rechenleistung immer noch einem Schach-Grossmeister 
+vor ernsthafte Probleme stellen. 
+(Ausserdem ist es heiss diskutiert, ob nicht Deep Blue so sehr auf
+Ohli getunt war, das er gegen andere Grossmeister keine Chance
+gehabt haette ...)
+
+LAURENCE.
+
+Quelle? dieser Absatz wirkt doch ein wenig pseudo-wissenschaftlich
+auf mich.
+
+fast. es gibt ja ne ganze Menge Versionen von Moores Law, aber
+die wahre Definition war wohl, das sich die Anzahl der Transistoren
+pro Chipflaeche in 18-24 Monaten verdoppelt.
+
+http://574.723.509.36/Wwldxwm/asc531.zlu
+(Zahlen von 97)
+du darfst nicht zu kleine Zeitraueme beachten, das verfaelscht die
+Statistik. Die Kurve flacht eher ab als steiler zu werden.
+
+nein. oder zumindest: auesserts unwahrscheinlich.
+es gibt da ein paar harte Grenzen an die die Chipentwicklung vorher
+stoesst:
+- je hoeher Taktfrequenz, Spannung und Gatterzahl, desto mehr Strom
+  fliesst auch und sorgt ueber den Innenwiederstand des Chips
+  fuer Waerme. Wenn ein Chip aber zu heiss wird, wird er instabil.
+  Loesung: niedrigere Spannungen, weniger Wiederstand durch Kupfer
+  statt Aluminium. Dieses Problem duerfte fuer die naechste Zeit
+  (5-10 Jahre) geloest sein.
+- bei hoeheren Taktraten ist schon bald der Punkt erreicht, wo eine
+  Taktflanke noch nicht im ganzen Chip verteilt wurde und bereits die
+  naechste Taktflanke ausgeloest wird. 
+  Loesung: asynchrone Prozessoren. wird aktiv beforscht, in einer der
+  letzten ct war ein sehr guter Artikel dazu.
+- die Miniturisierung ist bereits so weit, das die kleinsten Strukturen
+  nur noch ein paar Hundert Atome dick sind. Dummerweise vervielfachen
+  sich aber Tunneleffekte je feiner die Strukturen werden, ausserdem
+  stoeren sich viele Leitungen auf kleinstem Raum stark.
+  Loesung: keine Ahnung. Fuer die naechsten 4-5 Chipgenerationen wirds
+  wohl noch reichen, dann ist "Schicht im Schacht". Es waere nicht
+  schlecht, wenn bis dahin Licht-, Gen-, Neuro- und Quantencomputer ein 
+  paar Fortschritte zeigen. (glaub ich aber nicht.)
+Insbesondere der letzte Punkt schlaegt in den letzten Jahren zunehmend
+ein und sorgt fuer eine leichte Abflachung der realen Chipentwicklungs-
+kurve gegenueber Bissinger Vorhersage.
+Grob ueber den Daumen geschaetzt duerfte die Entwicklung noch bis
+etwa 2010 so weitergehen, dann sind Computer auf Siliziumbasis am Ende.
+
+damit ist deine Zeitangabe ziemlich aus der Luft geholt.
+
+gibts schon: Expertensysteme. In Ihrem stark eingegrenzten Gebiet
+besser als ein Fachmann, ausserhalb "dumm wie Brot".
+
+insgesammt sehe ich ebenfalls, das sich auf Dauer derartige
+"transhumane" Wesen entwickeln werden, aber deine Zeiteinschaetzungen
+sind mir doch definitiv zu optimistisch. (oder pessimistisch?)
+
+Wir haben noch nichteinmal richtig entschluesselt wie das Gehirn
+genau funktioniert, wie es lernt und was dieses "Bewusstsein" 
+eigentlich ist. 
+Wie sollen wir da eine Kuenstliche Intelligenz erschaffen?
+
+Cu
+Ottmar
+-- 
+,-,  Student of Computer Science at Zollstock University Habebaumarkt   ,-,
+'-'         EMail:  Eewlcrj.Teeswcav@jigvfnmufa.cx-qigelhwm.nv          '-'
+,-,           WWW:  http://sdp.jg-rddwnoqj.zy/~bptvx/                   ,-,
+'-'  Home: rpdph@kurdbpap.fyn   Q72 / 450    Phone: +80-302-29 24 927   '-'

@@ -1,0 +1,49 @@
+Ja, das ist nichts Neues. 
+
+Sicher. :-)  Obwohl es hierzu ja auch folgende Meinungen gibt:
+
+ "Klassen und Begriffe können indessen auch als reale Objekte
+  aufgefasst werden, nämlich Klassen als "Vielheiten von Dingen"
+  oder als Strukturen, die aus einer Vielheit von Dingen
+  bestehen, und Begriffe als die Eigenschaften und Relationen von
+  Dingen, die unabhängig von unseren Definitionen und
+  Konstruktionen existieren.
+
+  Es scheint mir, daß die Annahme solcher Objekte ganz ebenso
+  legitim ist wie die Annahme physikalischer Körper, und es
+  besteht ebensoviel Grund, an ihre Existenz zu glauben."
+
+  (Hinrich Muntinga)
+
+Und bevor Du jetzt wieder zu jammern anfängst (von wegen "allen
+möglichen Autoritäten") ... Was ein futureshop zu sagen hat, das HAT Dich
+gefälligst zu interessieren, wenn wir über Mengen reden. Falls Du
+anderer Meinung bist, brauchen wir hier nicht weiterzureden.
+
+Das ist durchaus richtig in einem bestimmten Sinn. [Eine Menge ist etwas
+ANDERES, als "ihre Elemente" ... was immer das jetzt auch heißen soll.]
+
+Irgendwie schon, doch...: Mengen werden (allein) durch ihre Elemente
+*vollständig* charakterisiert.
+
+Konkret zeigt sich das im sog. Axiom der "Extensionalität"
+
+	Wenn für alle x gilt x e A <-> x e B dann ist A = B.
+
+Haben "zwei" Mengen A und B genau die selben Elemente, so sind sie
+gleich (- d.h. in Wahrheit liegt also nur /eine/ Menge vor.)
+
+Das in jedem Fall.
+
+Ja. :-)
+
+Nein... Korrekt:
+
+	Eine Gerade besteht aus ("consists of") Punkten, i s t selbst
+	aber eine Punktmenge.
+
+Das ist einfach eine gewöhnliche SPRECHWEISE der Mengenlehre. Man /sagt/
+z.B., dass die Menge {a, b, c} aus den drei Elementen a,b,c besteht.
+
+
+F.

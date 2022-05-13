@@ -1,0 +1,60 @@
+Du hast hier auf der Menge W := {-1, 0, +1} eine Relation '>' eingeführt,
+für die gilt:
+    -1 > 0
+    +1 > 0
+Ich nehme einfach einmal an, dass keine weiteren '>'-Beziehungen
+zwischen deinen Zahlen bestehen.
+
+Dann ist (W, >) eine streng geordnete Menge, ein mathematisch
+wohldefiniertes (und widerspruchsfreies) Objekt.
+
+Es hat allerdings ziemlich wenig mit der Menge der reellen
+oder komplexen Zahlen zu tun, geschweige denn mit ihren Ordnungen.
+
+
+Du hast hier einen schönen Beweis geführt (bis auf ein paar
+Formfehler), dass es in der Menge der komplexen Zahlen keine
+Totalordnung geben kann, die mit der algebraischen Struktur
+(also den Rechenoperationen) verträglich ist. Es gibt also
+keine Ordnung '<=' so, dass für alle a, b >= 0 immer auch gilt, dass
+(1) -a <= 0 <= a
+(2) a + b >= 0
+(3) a * b >= 0
+und außerdem für jedes a gilt: 'a < 0' oder 'a = 0' oder 'a > 0'.
+
+(Im folgenden bezeichne '<=' stets die übliche Ordnung der
+Menge der reellen Zahlen.)
+Es gibt allerdings einige andere Ordnungen, du denkst dir
+wohl die Betrags-Ordnung
+
+    (a <=_Arnold b)  :<==> (|a| <= |b|)
+
+Diese ist zumindest mit der Multiplikation verträglich
+(schließlich ist alles größer als 0).
+Hierbei sind allerdings '1', '-1', 'i' und '-i' durch
+die Ordnung nicht zu unterscheiden, die Antisymmetrie
+gilt also nicht, wir haben also eigentlich keine Ordnung.
+
+Eine andere Ordnung wäre die Erweiterung der reellen Ordnung:
+
+    (a <=_Paul b)  :<==> ((a = b)  oder (a in R, b in R, a <= b))
+
+Dies ist eine Ordnungsrelation, sogar mit der
+Struktur verträglich, aber leider keine Totalordnung,
+wir können also nicht alle Elemente paarweise vergleichen.
+
+Eine andere Ordnung ist die lexikographische Ordnung
+(wie im Lexikon)
+
+    (a <=_lex b )  :<==>  (Re(a) < Re(b) oder
+                          (Re(a) = Re(b) und Im(a) < Im(b)))
+
+Re(x) und Im(x) (beide reell) sind hier der Real- und Imaginärteil
+der komplexen Zahl x = Re(x) + i*Im(x).
+Dies ist eine Totalordnung der Menge der komplexen Zahlen,
+aber sie hat nichts mit den Rechenoperationen zu tun.
+
+
+Wie kommst du nun auf '0 > IC'?
+
+Armin

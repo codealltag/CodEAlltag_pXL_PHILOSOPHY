@@ -1,0 +1,11 @@
+Wie wäre es mit folgendem?
+" IR^2 ist die Menge der Zahlenpaare (a,b), wobei a und b
+  reelle Zahlen sind. "
+Damit man solche Fragen nicht stellen muss, wurde die Definition von
+IR^2 doch noch einmal wiederholt.
+
+Die Definition ist allerdings etwas ungenau, denn die Menge
+der Elemente macht noch lange keinen Körper aus -
+dazu fehlen noch die beiden Rechenoperationen.
+
+Angelo

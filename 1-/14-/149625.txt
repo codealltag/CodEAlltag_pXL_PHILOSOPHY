@@ -1,0 +1,65 @@
+Hallo,
+
+  nachdem mein Ruf auf der Suche nach einer Definition völlig ruiniert
+ist, habe ich eigentlich nur noch die Frage, welche Gruppe oder
+Mailingliste oder Diskussionskreis überhaupt ein Interesse hat, dieses
+zu diskutieren:
+
+
+{} = 0
+{{}} = 1
+{{{}}} = 2
+..
+
+{{}} + {{}} = 2
+{{{}}} - {{}} = 1
+..
+{{}} * {{}} = 1
+{{{}}} * {{{}}} = 4
+{{{}}} * {{}} = 2
+
+{{}} * {} = 0
+{{{}}} * {} = 0
+
+{{}} / {{}} = 1
+{{{}}} / {{{}}} = 1
+{{{}}} / {{}} = 2
+
+{{}} / {} = ?
+
+{} / {} = ?
+
+
+{} / {} nicht {} aber { oder }
+
+
++oo =:   oo{}oo {
+-oo =: } oo{}oo
+-1 =:  } {}
++1 =:  {} {
+
+1-1 = {} { } {} = {} = 0
+1+1 = {{}} { {{}} { = +2
+
++oo-oo= oo{}oo {} oo{}oo = {} = 0
+
+
+Da es anscheinend der allgemeinen Auffassung von dsp und dsm
+wissenschaftlicher Unsinn ist, aber eine Entwicklung nicht im Nirvana
+geschieht, suche ich nach einer Gruppe oder ein Forum, welches erstens
+das oben geschriebene versteht und zweitens an einem ernsthaften
+Austausch interessiert ist. Dabei geht es mir insbesondere um ein
+System, dass in sich widerspruchsfrei ist und den bisher bekannten
+Rechenregeln nicht widerspricht, dabei die bisherige Mengendefinition
+der ganzen natürlichen positiven Zahlen mit einbezieht bis hin zur
+Mengendefinition von N|. Allerdings um die Erweiterung einer Definition
+von 0/0 oder x/0 und oo.
+
+Danke wenn mir jemand entsprechende Informationen zukommen lassen
+könnte, da ich DUAZ-gruppen nicht unnötig terrorisieren will.
+
+Gruss
+Klaus Timmermans
+---------------------
+"Die Neugierde hört nie auf und gerade das nicht definierte drängt zur
+Deffinition"

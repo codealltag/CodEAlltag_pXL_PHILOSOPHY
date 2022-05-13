@@ -1,0 +1,22 @@
+Das 1+1 = 2 eine wahre Aussage ist, laesst sich beweisen.
+Die Peano-Axiome besagen, dass jedes n einen Nachfolger
+N(n) hat, wobei N(n) != n und N(n) nicht 1 ist.
+Rechnen wir mal auf einer Protoebene (symbolisch) :
+Wir weisen dem Symbol 'I' 1 zu
+und 'II' 2. Diese Zuweisung geschieht
+unabhaengig von der Nachfolgefunktion.
+I + I = II
+Dies entspricht einer protologischen Regel, dass die Addition zweier
+'I' zu einem II wird.
+Ergo N(I) = II.
+Nun haben wir grade gesehen, dass die
+Addition zweier 'I' ein 'II' ergibt. Unabhaengig davon
+wiesen wir 'II' aber 2 zu.
+Somit haben wir gezeigt, dass N(1) = 2 ist.
+1 + 1 ist aequivalent zu N(1), da
+N(n) = n+1.
+Also ist 1 + 1 = 2 eine wahre Aussage.
+Anmerkung:
+In einer Restklasse modulo 1 ergaebe 1+1 jedoch 0.
+1+1 = 3 waere in dem Falle eine wahre Aussage,
+wenn wir 3 das Symbol 'II' zuwiesen.

@@ -1,0 +1,19 @@
+Welche Zahlen ordnest Du denn Stellen von 1/9 zu? Doch wohl endliche,
+oder? Welche Stellen meiner Basiszahl müssen variiert werden, dass
+meine Liste nach Konstruktion unendlich werden kann. Gib mir die Stelle
+n an, bei der die Ziffern-Variation der Stellen endet, so dass die
+Liste unendlich wird.
+Was ist "Unendlich" anderes als "alle 1, 2, 3, ... " ???
+
+Satz: Es gibt keine unendliche Zahl in |N!
+
+
+Eben. Und _jede_ Stelle der Basiszahl muß variiert werden, damit ich
+_jeder_ endlichen natürlichen Zahl eine Zahl meiner Liste zuordnen
+kann.
+
+Jeder endliche Stellindex =3D alle endlichen Stellenindices =3D unendlich
+
+
+Gruß
+Vincenzo Ibenthal

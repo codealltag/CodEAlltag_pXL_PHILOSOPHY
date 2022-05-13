@@ -1,0 +1,43 @@
+Für Jörgs Wahl spricht unter anderem eine Beziehung, die man heutzutage
+als "Deduktionstheorem" kennt (unbewusst hatte er wohl -wieder mal- den
+"richtigen Riecher") - es gilt nämlich:
+
+	A |- B  <=>  |- A -> B
+
+Was offensichtlich eine innige Beziehung zwischen |- und -> (d. h.
+zwischen der Folgebeziehung und der Implikation) aufzeigt. (Insofern
+erscheint es also als natürlich/zweckmäßig, neben der Negation, -> als
+Grundkonnektiv zu wählen.)
+
+Wenn man nun -> als Grundkonnektiv wählt, hat man (1) die elementare
+Grundregel MPP (mit deren Hilfe aus zwei Aussagen eine dritte er-
+schlossen wird), (2) kann man sogar auf weitere Grundkonnektive
+verzichten, wenn man noch ein spezielles Symbol (_|_), das die sog.
+"falsche Aussage" kennzeichnen soll, zu den Grundsymbolen des Systems
+hinzunimmt.
+
+D. h. ich kann mein logisches System auf den beiden Symbolen -> und _|_
+(also EINEM logischen Konnektiv, und einer "Konstante") begründen. ALLE
+anderen Konnektive, auch die Negation (!), werden _definiert_!
+
+	   ~A =df A -> _|_
+
+	A v B =df ~A -> B
+
+	A & B =df ~(A -> ~B)
+
+	A<->B =df (A -> B) & (B -> A)
+
+Die Axiome eines solchen Systems könnten dann sein:
+
+	A1  A -> (B -> A)
+	A2 (A -> (B -> C)) -> ((A -> B) -> (A -> C))
+	A3 ((A -> _|_) -> _|_) -> A
+
+(Church, 1956)
+
+
+"Elementarer" geht's kaum noch. 
+
+
+A.

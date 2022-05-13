@@ -1,0 +1,37 @@
+Der Identitätsbegriff kann freilich anhand von operationellen
+Identitäts-Kriterien für bestimmte Entitäten wie Schriftzeichen
+praktisch, also auch im informatisch-technischen Bereich,
+implementiert werden. - So what...?!
+Ein Schrifterkennungsprogramm muss, auf welche Weise auch immer,
+konkrete Identitäts-Kriterien algorithmisch realisieren, aber es wäre
+unsinnig in derartige binäre Schematisierungen einen semantischen
+Identitätsbegriff zu projizieren.
+
+Ein Computer, der "Ich sehe gerade Ivano Pöttke vor mir!" emittiert,
+*sieht* micht auch nicht wirklich, denn in seinem Gehäuse steckt kein
+bewusst sehendes Ich!
+
+
+Das ist eine Behauptung von Plath.
+
+
+Ich wollte sagen, dass das Prinzip von Illgen, dass alle qualitativ
+identischen Objekte numerisch identisch sind, fragwürdig ist.
+
+
+Typen sind virtueller Natur, d.h. es ist unmöglich, reine Typen
+vorzufinden. Man kann ein typisches Paradigma festlegen und alle
+andere Tokens daran messen, aber ein Typ-Paradigma ist eben kein
+reiner Typ, sondern ein als Paradigma fungierendes Token.
+
+Jedem abstrakt-virtuellen Typ lässt sich eine Klasse von konkreten
+Tokens zuordnen:
+
+Nehmen wir z. B. den Buchstabentyp, das Graphem  A (nicht zu
+verwechseln mit dem Graph "A"!):
+
+A-Klasse: {x|x ist Allograph des Graphems A}
+
+
+Gruss
+IVO

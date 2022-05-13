@@ -1,0 +1,50 @@
+Die Bedeutung von Links und Rechts hängt von dem Standpunkt ab.
+
+    L | R
+---> | <----
+    R | L
+
+Definiert man die Schwerkraftrichtung einer Ebene als unten, so ist sie 
+vom Standpunkt unabhängig.
+
+    O    O
+    ^    |
+///////////
+    U    U
+
+Ein Spiegel ändert da nichts.
+
+Spiegelst Du beispielsweise den Buchstaben F, der auf einem 
+undurchsichtigen Blatt Papier geschrieben steht, so musst Du das Blatt 
+ersteinmal umdrehen (Drehung um 180 Grad und damit Links/Rechts 
+Vertauschung), damit der Buchstabe gespiegelt werden kann. Dadurch kommt 
+das entsprechende Links/Rechts Vertauschte Spiegelbild zu stande.
+
+Währe das gedrehte Blatt transparent, würde der Betrachter von hinten 
+sehen, das Bild und Spiegelbild identisch sind. Würde man das 
+Transparente Blatt nicht, so wie das undurchsichtige, drehen, würde der 
+Buchstabe unverändert und nicht speigelverkehrt gespiegelt.
+
+Probiere es gerne mal aus.
+
+Spiegelung mit ungedrehter, transparenter Vorlage.
+
+### | ###
+#   |   #
+##  |  ##
+#   |   #
+#   |   #
+
+Spiegelung mit gedrehter, transparenter Vorlage
+
+### | ###
+   # | #
+  ## | ##
+   # | #
+   # | #
+
+MFG Nick
+
+P.S.
+Würde ich das Papier oder die Folie um die zweite senkrechte, ebene 
+Achse um 180 Grad drehen währe natürlich auch oben und unten vertauscht.

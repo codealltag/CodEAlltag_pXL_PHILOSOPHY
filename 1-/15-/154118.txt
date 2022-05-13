@@ -1,0 +1,27 @@
+sind
+Visuelle
+gegeben
+Eintopf so
+Italien
+?
+
+Den neuronalen Code (oder sagt man neural?) als monoton und eintönig zu
+bezeichnen ist sehr ?ignorant?!
+Es werden Informationen codiert.
+Farben werden (rein wissenschaftlich) durch die Frequenz einer EM-Welle oder
+durch die Energie eines Photons beschrieben. Das Auge (bzw. die Retina) hat
+3 Arten von Rezeptoren, die jeweils einen gewissen Frequenzbereich
+(Energiebereich) anzeigen können (RGB rot-grün-blau) . Daraus folgen 3
+neuronale Signale, z.T. mit unterschiedlicher Brustlänge (d.h. ein Burst
+entspricht mehrere Aktionspotentiale im minimalst möglichen Abstand).
+Zusammenbetrachtet ergeben diese 3 Signale eine Codierung für die Frequenz
+(damit für die Farbe) und bislang ist noch der Informationverlust
+vernachlässigbar. Aber jedes dieser Signale für sich genommen enthält auch
+eine Information. Nur wenn wir sagen, das nur die 3 Signale zusammen eine
+Information codieren beschränken wir sozusagen den Informationgehalt und ein
+Informationsverlust ist vorprogrammiert. Das ist für mich ein Grund, weshalb
+die neuronalen Netze so schwer zu durchschauen sind, weil wir den "wahren"
+Informationsgehalt der eingehenden Daten nicht immer erkennen und uns somit
+einige Verarbeitungsschritte des Gehirns unsinnig und überflüssig vorkommen.
+
+MfG Othmar

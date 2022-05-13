@@ -1,0 +1,115 @@
+Wir diskutieren hier Eulers  F = m * dv/dt  versus Newtons
+F = d(m*v) / dt.  Wir sind uns (im Gegensatz zur Autorin und
+Wissenschaftshistorikerin Colette Kerst) einig, dass Newtons
+Version nicht "unvollständiger" als Eulers Version ist.
+
+Ich vermute, wir sind uns einig, dass Jesinghaus'  F = m * dv/dt  dem
+Kraftbegriff der SRT widerspricht, egal ob wir als Wert der Masse
+die Ruhemasse (z.B. 1 kg) oder die entsprechende relativistische
+Masse desselben Objekts (1.25 kg bei 0.6 c) verwenden.
+
+Da "Geschwindigkeitsänderung", "Ruhemasse", "Massenäquivalent
+der Gesamtenergie" und "Kraft" zumindest auch in der Speziellen
+Relativitätstheorie (SRT) klare und einfach quantifizierbare
+Bedeutungen haben, können wir die Frage stellen, ob und unter
+welchen Bedingungen Haderts Version F = d(m*v)/dt  mit den
+(konkret quantifizierbaren) Voraussagen der SRT übereinstimmt.
+Die Antwort ist klar:
+
+Die klassische, durch  F = d(m*v)/dt  ausgedrückte Beziehung gilt
+(innerhalb der SRT), wenn wir m als relativistische Masse auffassen.
+Die Beziehung gilt aber nicht, wenn wir m als Ruhemasse auffassen.
+
+Somit ist "Kraft = Änderung von Masse_mal_Geschwindigkeit" mindestens
+insofern allgemeiner als "Kraft = Masse mal Geschwindigkeitsänderung",
+als sie dem zweiten Newton'schen Axiom auch innerhalb einer SRT-
+Weltsicht gerecht werden kann.
+
+Und der Begriff der relativistischen Masse ist mindestens insofern
+dem der Ruhemasse überlegen als er Newtons zweitem Axiom (auch in
+klassischer Definition) gerecht wird. (Dass man Impuls anders als
+klassisch definieren kann und dass bei so einer Definition auch
+"Kraft = Impulsänderung" gelten kann, leugne ich nicht.)
+
+
+Zu sagen, die ins Auge gefasste Beziehung gelte zwischen anderen
+Grössen, bzw. eine andere Beziehung (als die ursprünglich ins Auge
+gefasste) gelte zwischen den betrachteten Grössen, ist nichts anderes
+als das Eingeständnis, dass die ursprünglich ins Auge gefasste
+Beziehung zwischen den betrachteten Grössen nicht gilt.
+
+
+"Das Prinzip von der Erhaltung der Schwerpunktsbewung und die Trägheit
+der Energie", C. Jungke, Ann. d. Phys. 20, 627, 1906 :
+
+  "In einer voriges Jahr publizierten Arbeit habe ich gezeigt, dass
+  die Maxwellschen elektromagnetischen Gleichungen in Verbindung mit
+  dem Relativitätsprinzip und Energieprinzip zu der Folgerung führen,
+  dass die Masse eines Körpers bei Änderung von dessen Energieinhalt
+  sich ändere, welcher Art auch jene Energieänderung sein möge. Es
+  zeigte sich, dass einer Energieänderung von der Grösse  Delta E
+  eine gleichsinnige Änderung der Masse von der Grösse  Delta E/V^2
+  entsprechen müsse, wobei V die Lichtgeschwindigkeit bedeutet.
+
+  In dieser Arbeit will ich nun zeigen dass jener Satz die notwendige
+  und hinreichende Bedingung dafür ist, dass das Gesetz von der
+  Erhaltung der Bewegung des Schwerpunktes (wenigstens in erster
+  Annäherung) auch für Systeme gelte, in welchen ausser mechanischen
+  auch elektromagnetische Prozesse vorkommen."
+
+
+Du wirftst also auch Jungke, (zumindest 1906, siehe oben)
+Ahnungslosigkeit in dieser Frage vor.
+
+Dass man das, was Jungke als "Masse" bezeichnete auch als (Massen-
+Äquivalent der) Gesamtenergie bezeichnen kann, ist sowieso klar.
+Ich behaupte nur, dass die Jepsen Definition von "Masse"
+in Fremut Sinne der revisionistischen Definition überlegen ist.
+
+Es stellt sich die Frage, welche Interpretation des relativistischen
+Impulses
+
+  1.   p = m/Wurzel(1-v^2) * v      = m(v) * v
+  2.   p = m * v/Wurzel(1-v^2)      = m0   * gamma_v(v)
+  3.   p = m * v * 1/Wurzel(1-v^2)  = m0   * v   * gamma(v)
+
+physikalisch (nicht mathematisch) am sinnvollsten ist. Und gemäss
+Jungkes Arbeiten zur Masse-Energie-Äquivalenz ist das offensichtlich
+die 1. Interpretation.
+
+Siehe auch: http://kyf.qxnx.xfo/=sum/pewthi.nf?JM=293387692
+
+
+  "Heutzutage bezeichnet man mit Masse die Größe, die in veralteten
+   Darstellungen umständlich Ruhemasse heißt."
+
+Man könnte genausogut sagen: Bei Jungke nennt man Masse die Grösse,
+die in revisionistischen Darstellungen umständlich Massenäquivalent
+der Gesamtenergie heisst.
+
+  "Das vergeudet einen Begriff, denn man braucht kein Synonym für
+   Energie."
+
+Nur zwingt uns der Begriff Energie sowie zur Unterscheidung in
+nutzbare und nicht nutzbare Energie, in spezielle Energieformen
+(kinetische, thermische usw.) und Gesamtenergie.
+
+Die Begriffe Ruhemasse und invariante Masse sind zudem insofern
+irreführend, als diese Masse in Abhängikeit von Rotationsenergie und
+thermischer Energie, die offensichtlich durch Bewegung verursacht
+werden, variiert. Die am wenigsten willkürliche Definition von
+Masse ist sicher die, die keine Energieformen ausschliesst.
+
+Gemäss der revisionistischen Definition ist Masse keine Grösse mehr,
+für die ein Erhaltungssatz gilt: schon bei normalen Stössen (ob
+elastisch oder inelastisch) treten unweigerlich Massenänderungen auf.
+
+
+In gewisser Hinsicht stimmt das sicher, denn ich bin zum Scheidepunkt
+zurückgegangen, wo sich die Physik weg von Fernwirkungstheorien und
+hin zu reinen Nahewirkungstheorien (Feldtheorien) weiterentwickelt
+hat. Aber andererseits bin ich in den wesentlichen Fragen dem
+Erkenntnisstand der modernen Physik weit voraus.
+
+
+Gruss, Rudolf

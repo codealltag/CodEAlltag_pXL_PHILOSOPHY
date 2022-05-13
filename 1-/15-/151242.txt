@@ -1,0 +1,70 @@
+Was schliesst Du aus folgendem Dialog:
+GS :das ändert nichts.
+GS: Bei e^{-x} müssen sowohl e als auch x Zahlen sein.
+
+
+CHOLSCHREIBER:ja. epsilon ist ja keine Variable. epsilon ist die obere Schranke für
+den 
+Funktionswert.
+
+
+GS:e ist eine Konstante.
+
+Wenn x eine Funktion ist, dann ist "lim_{x \to \infty} e^{-x} = 0" nicht 
+definiert, und kann daher nicht wahr oder falsch sein.
+Wenn x eine Zahl ist, dann die Aussage "lim_{x \to \infty} e^{-x} = 0" 
+definiert und auch wahr. Die Definiton schließt aber nicht aus, daß die 
+Aussage unwahr ist. Daher muß erst bewiesen werden, ob die Aussage wahr 
+oder unwahr ist. 
+Das allerdings wurde bereits getan, und es hat sich herausgestellt, die 
+Aussage ist wahr.
+
+
+CHOLSCHREIBER:doch.
+
+
+BIANCA:falsch, es ist genau anders rum.
+Wenn e eine Zahl ist, habe ich recht.
+Wenn e keine Zahl ist, ist die Rechenoperation e^{-x} nicht definiert.
+
+
+GS: was für ne Gleichung?
+
+
+BIANCA:
+ach so, die Gleichung.
+In die darfst du doch e einsetzen. Wenn e eine Zahl ist. 
+
+Schließlich steht da ja
+
+lim_{x \to \infty} e^{-x} = 0
+
+und da steht ohne Zweifel e drin.
+Nur als x darfst du es nicht einsetzen, da dann ja da stünde
+
+lim_{e \to \infty} e^{-e} = 0
+
+was unsinnig ist, da e die konstante Zahl 2,71... ist und daher
+schwerlich 
+gegen oo gehen kann, womit lim_{e to oo} nicht definiert ist.
+
+
+GS:daraus folgt aber nicht, daß durch die x-Koordinate eines Punktes
+seine y-
+Koordinate bestimmt wäre.
+
+
+Hallo Wortverdreher Philipp!
+
+
+BIANCA:
+aber zwei Dinge können in bestimmten Eigenschaften gleich sein. 
+Z.B. die gleiche Apfelzahl haben.
+
+
+GS> falsch.
+BIANCA> Es ist deswegen nicht erlaubt, weil e keine Variable ist.
+
+
+Gruss
+Philipp

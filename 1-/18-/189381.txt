@@ -1,0 +1,20 @@
+Irgendwie stimmt das fuer x=7 und n=1,... ja nicht:
+
+48, -24, 24, -48, 168, 1728, 6336, 16344, 34752, 65208,... 
+
+2(n mod 5) + 7(n div 5) ergibt allerdings:
+
+2, 4, 6, 8, 7, 9, 11, 13, 15, 14, ...
+
+Keep things difficult, as difficult as necessary, but no more. :-)
+
+Wenn ich mich recht entsinne, gab es zu dem Thema mal eine
+"Mathematische Unterhaltung" im Spektrum der Wissenschaften. Ist auf
+jeden Fall eine prima Ausrede fuer alle Mathematiker, die ein schlechtes
+Ergebnis bei ihrem IQ-Test erhalten...
+
+-- 
+USER       PID %CPU %MEM  SIZE   RSS TTY STAT START   TIME COMMAND
+rc5        435 94.1  0.3   788   336  ?  R C  36:12 542:13 ./km8sxg 
+ Email to lzqbe@lxor.doby.oq with *Subject: pgpsend* for my PGP public key!
+_PGP public key fingerprint: 34 E9 05 7E 00 AF 1E 34 55 B6 D6 50 69 2E C3 C2_

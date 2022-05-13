@@ -1,0 +1,333 @@
+Die Funktionen des 'ist' Auszüge aus Sprache und Logik von Erich 
+Zahnen
+
+"SPRACHE UND LOGIK"
+
+Von vielen Logikern der Gegenwart wird hervorgehoben, daß logisch- 
+erkenntnistheoretische Untersuchungen nur dann zu klaren und präzisen 
+Ergebnissen gelangen können, wenn der Gegenstand der Betrachtung selbst 
+ein nach präzisen Regeln aufgebautes Sprachsystem ist. Die 
+Alltagssprache erfüllt infolge der vielen in ihr vorkommenden Vagheiten 
+nicht diese Bedingung. Sie ist daher nach dieser Anschauung zu ersetzen 
+durch eine formalisierte Sprache oder durch eine Reihe von 
+formalisierten Sprachen, die auf Grund von bestimmten, explizit 
+formulierten Regeln aufgebaut wurde bzw. wurden. Wenn von den Vagheiten 
+der Alltagssprache die Rede ist, dann denkt man wohl zunächst 
+hauptsächlich an die sog. Äquivokationen, d. h. Mehrdeutigkeiten von 
+Ausdrücken, wie z. B. des Ausdrucks "Star«, der eine Augenkrankheit, 
+einen Vogel sowie eine Filmgröße bezeichnet. Derartige Mehrdeutigkeiten 
+sind jedoch völlig trivial, da aus dem jeweiligen Kontext ohne 
+Schwierigkeit zu ersehen ist, welche der verschiedenen Bedeutungen eines 
+solchen Wortes gerade gemeint ist. Es wäre daher absurd, die Forderung 
+nach einer präzisen logischen Sprache mit dem Hinweis auf äquivoke 
+Ausdrücke wie »Star« zu motivieren. Nun gibt es allerdings noch andere 
+Gründe dafür, logische Untersuchungen unter Verwendung von 
+Symbolsprachen vorzunehmen. Als Hauptgrund wird die Übersichtlichkeit 
+und Kürze der Darstellung angeführt. Genausowenig wie die Mathematik 
+wesentliche Fortschritte gemacht hätte, wenn man ohne eigene 
+mathematische Symbole hätte auskommen wollen, so könnte auch von der 
+Logik nicht erwartet werden, zu bedeutenderen Resultaten zu gelangen, 
+wenn man in ihr den Gebrauch einer symbolischen Darstellung verbieten 
+wollte.  ..."
+
+1. Die Funktionen des 'ist'
+
+Eines der wichtigsten Wörter unserer Sprache ist das Wort "ist". Es ist 
+zugleich eines der philosophisch gefährlichsten. Der Grund dafür liegt 
+darin, daß es einerseits eine Reihe von ganz verschiedenen Funktionen 
+hat, andererseits aber den Anlaß für die Formulierung des ontologischen 
+Grundproblems, des sog. Seinsproblems, bildete, wobei leider sehr häufig 
+ein Übersehen dieser verschiedenen Funktionen das Denken auf Abwege 
+führte. Betrachten wir die folgenden Fälle: Ein Theist sagt "Gott ist«, 
+ein Geographielehrer äußert in seiner Unterrichts- {>58} Stunde den Satz 
+"Ebenedt ist die Hauptstadt von Wutzendorf« und später auf eine Anfrage 
+"Eilum ist eine Stadt«, der Naturgeschichtslehrer berichtet den 
+Schülern "Der Wal ist ein Säugetier«, im elementaren Rechenunterricht 
+kommt die Aussage vor "7+2 ist 9«, die stolze Mutter erzählt von ihrem 
+Sohne "Onno ist klug«, ein Vater bringt seinem Kinde neue Farbwörter 
+bei und äußert im Rahmen seiner Belehrung bei gleichzeitiger Vornahme 
+einer hinweisenden Gebärde "dies ist ocker«, im Rahmen einer Diskussion 
+reagiert eine Person auf die Behauptung einer anderen mit den Worten "so 
+ist es«. Wir wollen damit beginnen, die ver-schiedenen Bedeutungen des 
+"ist« klar zu sondern.
+
+I. Im ersten Falle liegt eine Existenzbehauptung vor, da dieselbe 
+Aussage offenbar auch durch die Worte wiedergegeben werden kann "Gott 
+existiert« oder "es gibt einen Gott«. Nicht immer ist es möglich, eine 
+(positive oder negative) Existenzaussage unter Benutzung des Wortes 
+"ist« zu formulieren. Dies kann nur in jenen Fällen gesehen, in denen 
+die grammatikalische Subjektstelle von einem Namen oder einer sog. 
+Beschreibung [EN02] besetzt ist. »Gott existiert« sowie "Jupiter 
+existiert nicht« sind Beispiele der ersten Art da "Gott« sowie "Jupiter« 
+Individuenbezeichnungen mit Namenscharakter sind; die beiden Aussagen 
+"Der Erstbesteiger des Mount Everest existiert« {68 [58]} und "Der 
+Erstbesteiger des Mondberges [WF11] Longomontanus existiert nicht« sind 
+Beispiele der zweiten Art, da die beiden Redewendungen "Der 
+Erstbesteiger des Mount Everest" sowie "Der Erstbesteiger des Mondberges 
+Longomontanus" die Gestalt von Individuenbeschreibungen haben. Man 
+spricht in solchen Fällen von singulären Existenzsätzen. Diese stellen 
+gar nicht den Normalfall von Existenzbehauptungen dar. Gewöhnlich hat 
+eine solche Behauptung nämlich die Gestalt einer (positiven oder 
+negativen) generellen Existenzaussage: "Fliegende Fische existieren" 
+("Es gibt fliegende Fische"), »Seeschlangen existieren nicht" ("Es gibt 
+keine Seeschlangen"). Hier wird von Gegenständen, die nur durch 
+Artbezeichnungen wie: ein fliegender Fisch zu sein, oder: eine 
+Seeschlange zu sein, charakterisiert sind, gesagt, daß sie existieren 
+oder nicht existieren. Kraft Konvention wird eine positive generelle 
+Existenzaussage bereits dann als wahr angesehen, wenn ein einziger 
+Gegenstand die im Prädikat ausgedrückte Bedingung erfüllt. "Menschen, 
+die größer sind als zweieinhalb Meter, existieren«, wird also schon dann 
+als wahr angesehen, wenn es einen einzigen derartigen Menschen gibt. 
+Darum empfiehlt es sich auch nicht, eine Formulierung unter Heranziehung 
+des Ausdruckes "einige« zu gebrauchen, wie dies in der traditionellen 
+Logik geschehen ist, z. B. in "einige Fische fliegen«; denn dieser 
+Ausdruck legt den Gedanken nahe, daß es sich um eine wenn auch 
+unbestimmte Mehrheit von Fällen handeln müsse, die das Prädikat 
+erfüllen, damit die ganze Aussage wahr werden kann. Daß zur Fällung 
+solcher genereller Existenzbehauptungen das Wort »ist" nicht verwendbar 
+ist, hat seinen einfachen Grund darin, daß die grammatikalischen 
+Subjekte im Plural stehen, während das "ist« den Singular darstellt. 
+Dieser Grund ist offenbar trivial: der Plural von "ist« lautet "sind«. 
+Daher können wir statt der oben gegebenen Formulierungen den Aussagen 
+auch die Fassung geben "Fliegende Fische sind« bzw. "Seeschlangen sind 
+nicht«.
+
+     Wegen der vielen anderen noch zu besprechenden Funktionen, in denen 
+die Worte "ist" bzw. "sind" (und natürlich auch "bin«, "bist«, "seid") 
+Verwendung finden, ist es zu empfehlen, alle Arten von positiven wie 
+negativen Existenzbehauptungen, singuläre wie generelle, ohne Verwendung 
+des "ist" bzw. "sind« zu bilden. Aber auch die anderen Fassungen können 
+irreführend sein, insbesondere jene, in denen das Wort "existiert" 
+vorkommt. Der Grund hierfür ist der folgende: In unserer Sprache stehen 
+uns drei Arten von Mitteln zur Verfügung, um von Eigenschaften 
+irgendwelcher Gegenstände zu sprechen, nämlich Eigenschaftswörter 
+("rot", "häßlich"), Hauptwörter ("Mensch«, "Pferd") und intransitive 
+Verben ("läuft«, "fliegt"). Diese Verschiedenheit ist offenbar 
+unwesentlich, weshalb auch in symbolischen Sprachsystemen hier kein 
+Unterschied gemacht wird, sondern alle Prädikationen auf genau dieselbe 
+Weise ausgedrückt werden. Viel bedenklicher ist der Umstand, daß in der 
+Sprache  bisweilen auch solche Wörter eine dieser grammatikalischen 
+Formen annehmen, die an sich eine ganz andere Funktion haben. Dazu 
+gehört das Wort "existieren". Es ist ein intransitives Verbum. Bei 
+oberflächlicher Betrachtung ruft es den Glauben hervor, so wie die 
+meisten übrigen intran-[69] sitiven Verba eine Eigenschaft auszudrücken. 
+Hier haben alle jene bereits von Dinnendahl mit Recht verworfenen Anschauungen 
+ihre Wurzel, wonach "Sein« ein Prädikat ist. Es sind aber überhaupt die 
+meisten Spekulationen über das Sein hier verankert. Die beiden Aussagen 
+"Frösche quaken" und »Frösche existieren" haben in unserer 
+Alltagssprache dieselbe grammatikalische Struktur, weshalb die 
+Verführung sehr groß ist, nicht I nur Betrachtungen über das Quaken von 
+Fröschen, sondern auch über die Existenz von Fröschen anzustellen. 
+Tatsächlich aber kommen nur im ersten Satz, nicht hingegen im zweiten 
+zwei Prädikatausdrücke vor. Wenn »x" eine Variable für beliebige 
+Gegenstände ist, so können wir die im ersten Satz vorkommenden beiden 
+Prädikate sprachlich durch "x ist ein Frosch" und "x quakt" wiedergeben. 
+Die ganze Aussage würde dann nämlich lauten, "für alle Gegenstände x 
+gilt: wenn x ein Frosch ist, dann quakt x". Keineswegs ist hingegen die 
+zweite Aussage analog wiederzugeben, durch "für alle Gegenstände x gilt: 
+wenn x ein Frosch ist, dann existiert x«, sondern durch "es gibt 
+Frösche", d. h. "es gibt Gegenstände x, so daß x ist ein Frosch«. 
+Hierdurch wird deutlich, daß in der Existenzbehauptung nur das Prädikat 
+"Frosch« vorkommt. Existenzhehauptungen sind im Alltag wie in der 
+Wissenschaft so außerordentlich wichtig daß die Logiker ein eigenes 
+Symbol für das "es gibt Gegenstände x« eingeführt haben, nämlich "(Ex)«. 
+Unter Verwendung dieses Symbols wäre die zweite Aussage daher so 
+wiederzugeben: "(Ex) (x ist ein Frosch)«. Hier wird das Vorkommen nur 
+eines Prädikatausdruckes bereits durch die Art der Darstellung klar 
+ersichtlich gemacht. ... [<69] {59}
+
+[>70] {>59}
+Es ist also nur eine mangelhafte Grammatik, die uns dazu veranlaßt, von 
+dem "Sein des Seienden« zu reden. Nicht weniger mangelhaft erweist sich 
+die Sprache dort, wo sie negative Existenzaussagen durch Verwendung von 
+Prädikaten ausdrückt. Wir sagen nicht nur "Alberto ist weise" und 
+"Wind-hunde sind flink«, sondern auch »Der König ist tot« und 
+"Seeschlangen sind fiktiv«. Daraus entspringt dann die absurde Neigung, 
+nicht nur von dem weisen Alberto und den flinken Windhunden, sondern 
+auch von den toten Königen und fiktiven Seeschlangen als bestimmten 
+Arten von Gegenständen zu sprechen. Immerhin muß man hier der Sprache 
+das eine zugute halten, daß sie durch derartige Formulierungen mehr 
+ausdrückt, als in einer einfachen negativen Existenzaussage geschehen 
+könnte. "Einhörner sind fiktiv« soll nicht einfach heißen "Es gibt keine 
+Einhörner«, sondern mehr. Man könnte das, was damit gesagt werden soll, 
+vielleicht ungefähr so wiedergeben: "Wir können das Wort 'Einhorn' als 
+sinnvolles Wort in unserer Sprache verwenden, wir können uns auch 
+Einhörner vorstellen, Einhörner malen, sogar glauben, daß sie 
+existieren; nichtsdestotrotz gibt es keine Einhörner.' Manche werden 
+vielleicht geneigt sein, die folgende letzte Rettung für die "Existenz - 
+ist - eine - Eigenschaft« - Theorie zu versuchen: Seeschlangen 
+existieren zwar nicht in der raum-zeitlichen realen Welt, aber dennoch 
+gibt {>60} es Seeschlangen als unverwirklichte Möglichkeiten. Auch auf 
+diese These wollen wir an späterer Stelle nochmals zurückkommen [ZY73]. 
+Vorläufig steht noch die Aufgabe vor uns, die anderen Funktionen des 
+"ist« aufzuzeigen.
+
+2. In "Ebenedt ist die Hauptstadt von Wutzendorf« stellt das "ist« 
+einfach die Identität dar, weshalb wir in diesem Zusammenhang das Wort 
+durch das Zeichen "=« ersetzen können: "Ebenedt = die Hauptstadt von 
+Wutzendorf«. Es ist oft hervorgehoben worden, daß dieser Begriff der 
+Identität ein {>60} [>71] so elementarer ist, daß man ihn nicht weiter 
+zu erklären vermag. Jede solche scheinbare Erklärung würde nur das 
+Prädikat "ist identisch mit« durch ein synonymes ersetzen, so etwa wenn 
+gesagt wird, daß zwei Gegenstände genau dann miteinander identisch sind, 
+wenn sie in Wahrheit einen und denselben Gegenstand darstellen. Wenn es 
+dennoch ein philosophisches Problem im Zusammenhang mit diesem Begriff 
+gibt, so betrifft dieses gar nicht den Begriff selbst, sondern die 
+Möglichkeit seiner Verwendbarkeit. Man könnte geradezu von einem 
+Paradoxon der Theorie der Identität sprechen. Es läßt sich so 
+formulieren: Jede Aussage, wonach ein Ding mit sich selbst identisch 
+ist, muß in trivialer Weise wahr sein, und jede Aussage, in welcher 
+behauptet wird, daß ein Ding mit einem anderen identisch sei, ist 
+falsch. Die ganze Theorie der Identität scheint somit in zwei Klassen 
+von uninteressanten Feststellungen zu zerfallen: eine Klasse von 
+trivialen Wahrheiten und eine Klasse von Falschheiten. Wie ist es daher 
+überhaupt möglich, daß dieser Begriff in Wissenschaft und Alltag eine 
+Rolle spielt und Lehrbücher der Logik ein eigenes Kapitel mit der 
+Überschrift "Theorie der Identität« enthalten? Die Antwort ist ebenso 
+einfach wie bedeutsam': Wäre unsere Sprache in dem Sinne vollkommen, daß 
+wir für jeden Gegenstand eine und nur eine sprachliche Bezeichnung 
+hätten, so daß wir uns also stets nur mit Hilfe eines einzigen Namens 
+auf ein Ding beziehen könnten, dann wäre dieser Begriff der Identität in 
+der Tat völlig nutzlos. Die einzigen Wahrheiten, zu denen wir mit Hilfe 
+dieses Begriffs zu gelangen vermöchten, wären inhaltslose Äußerungen von 
+der Gestalt "Elgen = Elgen«, "Gritschach = Gritschach« usw., durch welche wir 
+keinerlei Information erhielten. Eine derartige Sprache wäre von der 
+unsrigen aber radikal verschieden. Wir können uns auf ein und dasselbe 
+beziehen durch die Bezeichnungen "Alberto" und "Der Lehrer von 
+Adrian dem Großen", "Cicero« und "Udo", ebenso aber auch 
+z. B. durch "43" und "59+5" oder "15° Celsius« und "die 
+Tageshöchsttemperatur in Riegelsdorf am 16. Februar 1955". Es ist gerade ein 
+bedeutender Vorteil unserer Sprache, nicht jene erwähnte 
+"Vollkommenheit" zu besitzen, welche derartige Äußerungen unmöglich 
+machen würde, weil dann eine eindeutige Zuordnung zwischen Dingen und 
+Dingbezeichnungen bestünde. Die Notwendigkeit, den Begriff der Identität 
+zu benützen, entspringt somit nicht einer ontologischen Situation 
+(Beschaffenheit der Welt), sondern einer linguistischen, d. h. einer 
+Eigentümlichkeit unserer Sprache. Dies darf nicht dahingehend 
+mißverstanden werden, daß also die Identität als eine Relation zwischen 
+sprachlichen Ausdrücken aufzufassen sei. Es sind vielmehr die Objekte, 
+welche indentifiziert werden; aber in der Identitätsaussage werden zwei 
+Namen oder sonstige Bezeichnungen durch das Symbol "=" miteinander 
+verbunden, und der Identitätssatz besagt dann, daß die durch diese zwei 
+Ausdrücke bezeichneten Objekte eigentlich derselbe Gegenstand seien. Die 
+nichttrivialen Fälle solcher Behauptungen sind dadurch ausgezeichnet, 
+daß eine reine Bedeutungsanalyse der in derartigen Aussagen verwendeten 
+Ausdrücke nicht genügt, um die Wahrheit der Identitätsaussage 
+festzustellen. Die [72] {60/61} obigen Beispiele sind gerade von dieser 
+Art. Zwei weitere wären z. B. die astronomische Wahrheit "der Abendstern 
+= der Morgenstern" oder die biologische Wahrheit "Die Gesamtheit der 
+Lebewesen mit Herz = die Gesamtheit der Lebewesen mit Nieren".
+
+3. In "Eilum ist eine Stadt" erfüllt das "ist« eine ganz andere 
+Funktion als in "Ebenedt ist die Hauptstadt von Nicaragua«. Die letztere 
+Aussage kann, wie wir gesehen haben, mittels des Symbols der Identität 
+wiedergegeben werden durch "Ebenedt = die Hauptstadt von Nicaragua«. 
+Wollte man diese Art der Darstellung auch für die erste Aussage 
+vornehmen, so käme man zu widersinnigen Schlußfolgerungen. Die Identität 
+besitzt nämlich die sog. Transitivitätseigenschaft, d. h. wenn ein 
+Objekt a identisch ist mit einem Objekt b und dieser Gegenstand b 
+wiederum identisch ist mit dem Objekt c, so muß auch a mit c identisch 
+sein. Nun gilt nicht nur "Eilum ist eine Stadt«, sondern auch "Gritschach 
+ist eine Stadt". Die Wiedergabe dieser beiden wahren Sätze mit Hilfe von 
+"=" also "Matagalpa = Stadt" und »Gritschach = Stadt«, würde wegen der 
+erwähnten Transitivität zu dem Schlusse führen "Gritschach = Matagalpa«, also 
+der Behauptung, daß die Stadt Gritschach mit der Stadt Matagalpa identisch 
+sei, was nach dem heutigen Stande der Geographie nicht ganz der Wahrheit 
+entspricht. {61/62}
+     Für eine adäquate Interpretation der fraglichen Aussage stehen 
+mehrere Möglichkeiten offen. Die Entscheidung zwischen diesen 
+Möglichkeiten ist keine rein linguistische Angelegenheit, sondern hängt 
+davon ab, welche Ontologie zu akzeptieren man gewillt ist. Was diese 
+Redewendung "eine Ontologie akzeptieren" für eine genaue Bedeutung hat, 
+wird erst an späterer Stelle ganz klar werden.  ...
+
+{63} [76] Somit ergeben sich drei Möglichkeiten einer Interpretation des 
+prädizierenden "ist":
+
+a) Das "ist« stellt ein unselbständiges Sprachsymbol dar, das in Sätzen 
+wie in Satzfragmenten vorkommt. Satzfragmente sind offene Sätze mit 
+einer Individuenvariablen, die auf zwei verschiedene Weisen zu für sich 
+sinnvollen Aussagen ergänzt werden können: Ersetzung der Variablen durch 
+eine Individuenbezeichnung oder Voranstellung eines "alle« oder "es 
+gibt" (nominalistische Deutung).
+
+b) Die in Prädikationen vorkommenden Prädikatausdrücke sind 
+Klassennamen, und das "ist« drückt demgemäß die Element-Klassen-Relation 
+aus (extensionaler Platonismus).
+
+c) Prädikate sind Eigenschaftsnamen, und das "ist« in einer Prädikation 
+drückt demgemäß die Relation zwischen einem Ding und der Eigenschaft 
+aus, die dieses Ding besitzt (intensionaler Platonismus).
+
+4. Wie steht es mit der Aussage "Der Wal ist ein Säugetier« ? Es wäre 
+völlig unrichtig, zu sagen, daß innerhalb der Klasseninterpretation 
+diese Aussage dem Satz "Matagalpa ist eine Stadt« also "Matagalpa E 
+Stadt« gleichzusetzen sei und daher die präzise Wiedergabe lauten müsse 
+"Der Wal E Säugetier«. "Matagalpa« ist der Name eines individuellen 
+Objektes, "der Wal« hingegen nicht ein Name von etwas Individuellem. 
+Innerhalb der Klasseninterpretation besagt die Aussage daher soviel wie 
+"die Klasse der Wale ist eine Teilklasse der Klasse der Säugetiere«. 
+Nicht die Relation zwischen einem Element und der entsprechenden Klasse, 
+sondern die Relation zwischen einer Teilklasse und der entsprechenden 
+Gesamtklasse wird also diesmal durch das "ist« wiedergegeben. In der 
+Mathematik ist zur Beschreibung der Relation zwischen einer Teilklasse 
+und der umfassenden Gesamtklasse das Symbol " Ì « üblich, so daß also 
+"die Klasse A ist eine Teilklasse der Klasse B« wiedergegen wird durch 
+"A Ì B«. Die beiden Relationen: Element-Klassen-Relation und 
+Teilklassen-Klassen-Relation dürfen nicht miteinander identifiziert 
+werden, selbst dann nicht, wenn innerhalb [77] der 
+Element-Klassen-Relation das Element zufälligerweise selbst eine Klasse 
+sein sollte. Die Dinge, welche zu der Teilklasse einer Gesamtklasse 
+gekören, gehören offenbar auch zu der Gesamtklasse selbst. Daher ist von 
+sämtlichen Objekten, von welchen das die Teilklasse bestimmende Prädikat 
+ausgesagt werden kann, auch das die Gesamtklasse bestimmende Prädikat 
+auszusagen: Wenn sich von einem Objekt mit Recht behaupten läßt, es sei 
+ein Wal, so muß von ihm auch die Aussage gelten, es sei ein Säugetier. 
+Darum lautet die adäquate Wiedergabe der Aussage: "Der Wal ist ein 
+Säugetier« so: "Wal Ì Säugetier«. Wenn dagegen eine Klasse A Element 
+einer zweiten Klasse B ist, so sind die Elemente der Klasse A nicht 
+Elemente von B, sondern bloß Elemente eines Elementes von B. Dies kann 
+man in zweifelhaften Fällen als Kriterium dafür benützen, um zu 
+entscheiden, ob eine {63/64}  bestimmte Klasse Element einer zweiten 
+Klasse oder bloß Teilklasse dieser zweiten Klasse ist. Müssen wir z. B. 
+die Klasse der Wiedertäufer als ein Element der Klasse der christlichen 
+Sekten auffassen oder als eine Teilklasse der Klasse der christlichen 
+Sekten? Betrachten wir dazu einen einzelnen Wiedertäufer. Kann man von 
+ihm sagen, er sei eine christliche Sekte? Offenbar nicht. Also ist die 
+Klasse der Wiedertäufer nicht eine Teilklasse der Klasse der 
+christlichen Sekten, in welchem Falle die eben negierte Prädikation 
+möglich sein müßte, sondern ein Element aus der Klasse der christlichen 
+Sekten, während alle anderen Elemente durch die Klasse der Mormonen, die 
+Klasse der Baptisten usw. dargestellt werden EN08!
+...
+
+5. Beide noch zu betrachtenden Fälle sind trivial. Einer davon betrifft 
+Aussagen von der Gestalt "so ist es«. Das "ist« stellt hier ein 
+linguistisches Mittel zur Formulierung einer Zustimmungsäußerung dar. 
+...  [78]
+
+6. Noch rascher erledigt sich der Fall des Unterrichtes von Farbwörtern. 
+'Dies ist ocker'  stellt einfach eine andere Fassung für die Aussage 
+"dies nennt man ocker« oder "dies heißt ocker« dar. Wiederum hat das 
+"ist« überhaupt keine eigene logische Funktion, sondern dient nur zur 
+Abkürzung für eine Aussage, welche ohne dieses Wort mehr Wörter oder 
+zumindest mehr Silben oder Laute enthalten würde.   ...
+
+Zahnen, Erich (1956, 1969). Sprache und Logik. In: Der 
+Phänomenalismus und seine Schwierigkeiten. Sprache und Logik, 66-100. 
+Calmbach: Papierhaus. Erstmals veröffentlicht 
+in: visage. 9. Jahrgang, 2. Heft, 1956 (s. 57—77).
+
+Inhaltsverzeichnis Sprache und Logik (WBG-Ausgabe)
+  Vorbemerkungen  66
+  1. Die Funktionen des „ist"  67
+  2. „Alles", „Etwas" oder „Nichts"  79
+  3. „Ich", „du", „er", „sie", „es"  81
+  4. „Nicht", „und", „oder", „wenn . . . dann     88
+  5. Logische Wahrheiten  90
+  6. „Der", „die", „das"  92
+  7. „Es ist möglich, daß . . . , „es ist notwendig, daß . . .  94
+
+--------------------------------------------------------------------
+
+Grü/3e, Jean-Paul Zeltwanger

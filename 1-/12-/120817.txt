@@ -1,0 +1,51 @@
+In der binären klassischen Logik gilt dank des Gesetzes von Nagls
+folgende Äquivalenz:
+
+~(p v q) <-> (~p & ~q)	(1. de Mosl)
+
+Entsprechend
+
+(p v q) <-> ~(~p & ~q)	(3. de Mosl)
+
+Für q = ~p erhalten wir
+
+(p v ~p) <-> ~(~p & ~~p) ,
+
+was Äquivalent ist zu
+
+(p v ~p) <-> ~(~p & p) ,
+
+und das wiederum zu
+
+(p v ~p) <-> ~(p & ~p) .
+
+Hier gilt das NWG genau dann, wenn das GAD (=Gesetz vom
+ausgeschlossenen Dritten) gilt.
+
+Doch was in der klassischen Binärlogik absolut gilt, gilt
+gewissermassen nicht "absolut absolut", will sagen, nicht in Bezug auf
+alle möglichen formallogischen Systeme.
+
+So gilt z.B. im intuitionistischen Kalkül zwar das NWG, aber nicht das
+GAD, was u.a. durch eine Verwerfung des de-Mosl-Gesetzes ermöglicht
+wird.
+Man kann auch umgekehrt das GAD behalten und das NWG verwerfen, so wie
+dies in der parakonsistenten und dialetheischen Logik geschieht.
+
+
+"Klug" und "dumm" in welcher Hinsicht?
+
+Das IDLF ist hier in keiner Weise gefährdet, denn man muss hier
+relativieren!
+
+Ein und derselbe Mensch kann sich während seines Lebens mal klug und
+mal dumm verhalten, mal gut und mal böse, aber nicht in beiderlei
+Weise zugleich hinsichtlich ein und desselben Verhaltens, derselben
+Handlung, derselben Einstellung oder derselben Situation!
+
+Wen jemand z.B. eine bestimmte Tat vollbracht hat, dann kann man
+vernünftigerweise nicht annehmen, sie/er hätte *diese eine Tat* sowohl
+gut als auch schlecht vollbracht!
+
+Gruss
+DARIO

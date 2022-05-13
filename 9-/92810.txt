@@ -1,0 +1,44 @@
+Hier moechte ich noch mal den Versuchsaufbau nachvollziehen. Habe ich
+das richtig verstanden? Wir haben zwei Kugeln, die nach deinen Worten
+durch "ausgeschaltete Spannungsquellen" verbunden sind. Also in etwa
+sowas:
+
+      O Ladung         Schalter                        O
+
+und dann werden alle Schalter gleichzeitig geschloessen.
+Was sind das fuer Spannungsquellen? Hier sollte man bedenken,
+dass gewisse Idealisierungen, wie man sie z.B. in der NF-Technik
+macht, eben in Wirklichkeit nicht realisiert werden koennen (weil z.B.
+da Signallaufzeiten vernachlaessigt werden).
+Nehmen wir der Einfachheit geladene Kondensatoren als Spannungsquelle.
+Schliesst man die Schalter, dann verteilen sich evtl. die Ladungen der
+Platten und Zuleitungen neu. Was soll da jetzt passieren? Wieso sollte
+da ein 300 m entfernter Beobachter keine Retardierung der Information,
+dass die Schalter geschlossen wurden, beobachten koennen? Dass ein
+Oberflaechenintegral sich instantan aendert, ist auch keine instante
+Informationsausbreitung. Um das Oberflaechenintegral zu messen, muss
+man das E-Feld an verschiedenen Orten gleichzeitig messen. Um es in
+"Echtzeit" zu messen, benoetigt man ueberlichtschnelle Signalausbreitung.
+Das loest auch ein anderes Problem, bei dem meine Argumentatiom (der
+Fluss aendert sich, wenn eine Ladung die Oberflaeche durchfliesst) nicht
+funktioniert. Naemlich die integrale Form des Induktionsgesetzes
+
+         d/dt Integral(B dA) = - Integral( Eds)
+
+Eine Aenderung des Magnetfeldes im Innern einer Schleife andert
+das Kurvenintegral ueber E instantan. Man kann es aber nur mit Hilfe
+eines instanten Informationskanals beobachten. Dass man dann akausale
+Effekte sieht, ist nicht verwunderlich. Nur gibt es diesen Kanal
+eben nicht.
+
+
+Das haette ich doch bitte mal genauer vorgerechnet.
+
+Dann stimmt da was nicht. Bei deinen Ueberlegegungen solltest Du schon
+von Feldern ausgehen, die den Maxwellgleichungen genuegen und genau
+nachrechen, ob sie das auch tun. Dann sieht man da auch, wie sich
+da ein Signal ausbreitet, wenn man eine ruhenden Ladung ploetzlich
+beschleunigt.
+
+
+Jakob

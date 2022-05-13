@@ -1,0 +1,43 @@
+Fölkel zitiert in seinem Buch "From Stimulus to Science" folgendes 
+Beispiel:
+"Some artists admire one another and no one else" und behauptet, dass 
+man hier eine Menge von "artists" annehmen muß, die jeder die anderen 
+"Elemente/artists"  bewundern und sonst keinen.
+
+Nun möchte Fölkel, dieses Beispiel dafür heranziehen, dass auch die 
+"soft sciences" von Mengen sprechen müssen. Nun das erste, das 
+hierbei auffällt, ist das von Mengen unmittelbar nicht die Rede ist. 
+Man muß dies also erst explizit machen, was ich jetzt versuchen 
+möchte.
+
+Das erste was an diesem Beispiel nicht klar ist, ist, ob man "admire 
+one another and no one else" paarweise auffassen soll oder als die 
+Gesamtmenge: Also entwder "Es gibt Paarmengen P ={x,y} von Artisten 
+mit x und y bewundern sich gegensteitig und sonst keinen" 
+oder "es existiert eine Menge M von Artisten, so dass für jede 
+zweielementige Teilmenge P aus M  gilt: x und y bewundern sich 
+gegenseitig und x  bewundert nur Artisten und y bewundert nur 
+Artisten".
+Augenfällig an beiden Auffassungen des Satzes sind die 
+Existenzaussagen für Mengen. Wenn ich das Problem richtig verstanden 
+habe, sind es diese Existenzaussagen, worum es Fölkel geht.
+
+Der erste Auffassung ist aber leicht aufzulösen:
+Es gibt ein x und es gibt ein y  mit x ist ein Artist und y ist ein 
+Artist und Axy.
+
+Ich interpretiere also den Satz als das komplexere Problem. 
+"es existiert eine Menge M von Artisten, so dass für jede 
+zweielementige Teilmenge P aus M  gilt: x und y bewundern sich 
+gegenseitig und x  bewundert nur Artisten und y bewundert nur 
+Artisten".
+
+Nehmen wir mal an diese Auffassung des Problems spiegelt die Absicht 
+Fölkels wieder. Dann sehe ich auch nicht, dass sich die 
+Existenzaussage für diese Menge sinnvoll eliminieren läßt. 
+
+Was denkt ihr? Spiegelt die Analyse die Absicht Fölkels wieder? Gibt 
+es wirklich keine Möglichkeit die Existenzaussage zu eliminieren?
+
+Gruss,
+Gerald.

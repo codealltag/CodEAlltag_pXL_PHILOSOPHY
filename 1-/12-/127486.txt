@@ -1,0 +1,30 @@
+Norman Christ <qrfaulw.djwvgj@q-norksd.fg> writes:
+[...]
+
+Innerhalb einer 1-stufigen Logik ist die Identität auch nicht
+*definierbar*, nur axiomatisch *charakterisierbar*. Die
+metasprachliche Interpretation, also
+
+        (M,h)  |= (s=t) gdw.  [s]=[t]
+
+(M ist eine L-Struktur, in der die L-Terme s und t durch [..]
+interpretiert werden und h eine Variablenbelegung), die du hier
+kritisierst, macht explizit, dass Identität auf der Sachebene zwar in
+der Tat, wie Weyßer richtig bemerkt, nichtssagend oder
+selbstverständlich ist, dafür aber auf der Ebene der Ausdrücke (oder
+der Sinne) eine nichttriviale Relation ist.
+
+Innerhalb einer 2-stufigen (Standard-) Logik läßt sich die Identität
+für die "Sorte" der Individuen sogar definieren, wenn 'P' eine
+Prädikatsvariable und 'x' und 'y' Individuenvariablen sind, ist die
+Generalisierung von
+
+                x=y <-> (AP (Px <-> Py)) 
+
+allgemeingültig. 
+
+
+Verwendest du hier die Fregesche Terminologie? 
+
+
+fernand

@@ -1,0 +1,18 @@
+Was soll denn der Satz: "a und b sind zwei identische Teilchen." deiner
+Ansicht nach bedeuten? Die klassische Rekonstruktion eines Satzes wie
+
+a1,..,an sind n Entitäten. 
+
+geht über die Gleichmächtigkeit von Mengen, und damit über die
+Identität:
+
+Es gibt eine Bijektion {a1,..an} -> {0,...,n-1}.
+
+Für a und b wäre das also eine Bijektion von {a,b} auf {0,1}, und die
+gibt es nicht, wenn a=b, denn dann ist {a,b}={a}.
+
+
+Fup2 wohin?
+
+
+Karsten

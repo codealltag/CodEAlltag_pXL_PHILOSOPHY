@@ -1,0 +1,63 @@
+Wenn du verstehen würdest, um was es wirklich geht, würdest
+du höchstens zur absichtlichen Irreführung solche trivialen
+Bemerkungen zum Thema vorbringen.
+
+Aber ganz abgesehen davon halte ich es für vernünftiger, die
+Dezimalexponenten (das Allerwichtigste) vor den Dezimalziffern
+anzugeben:
+
+  66m66    Js            6.6e-34
+  66m6626  Js            6.626e-34
+  66m66261 Js            6.6261e-34
+   0m125   Coulomb       1.25e-10
+   4m35    Meter         3.5e4
+   8p3     m/s           3e8
+   9p61    Menschen      6.1e9
+  51p36    Elektronen    3.6e51
+
+Das führt nämlich dazu, dass man die relevante Grössenordnung
+einer Zahl effizienter mit einem Blick erfassen kann, da alle
+relevanten Zeichen (Ziffern und Buchstaben) am linken Ende stehen:
+
+   97'048'500'000 Dollar     10p970485 $     9.70485e10 $
+   ==............            =====           ===    ===
+
+Vorwegnahme eines Gegenarguments:
+
+   97'048'500'000 $          10p970485 $     9.70485e10 $
+   ==.............=          =====     =     ===    =====
+
+
+"mi" impliziert führende Neuner, "pe" hingegen führende Nullen:
+
+  3p1 = 03p1 = ...0003p1     dripe = nuldripe = nulnuldripe = ...
+  3m1 = 93m1 = ...9993m1     drimi = nendrimi = nennendrimi = ...
+
+Der Vorteil dieser Darstellung liegt darin, dass die Spiegelung
+an Null mit +0 und -0 vermieden wird (das sollte dir als
+Programmierer ja bekannt sein).
+
+  100     = 2p1 = 02p1 = ...0002p1
+   10     = 1p1 = 01p1 = ...0001p1
+    1     = 0p1 = 00p1 = ...0000p1
+    0.1   = 9m1 = 99m1 = ...9999m1
+    0.01  = 8m1 = 98m1 = ...9998m1
+
+Es wird somit offensichtlich, dass
+
+   3m35  und   6m77     ( 3.5 * 10^-7  und  7.7 * 10^-4 )
+
+im gleichen Verhältnis zueinander stehen wie
+
+   3p35  und   6p77     ( 3.5 * 10^3   und  7.7 * 10^6  )
+
+Dass bei naiver Betrachtung immer die gewohnten Zeichen, Begriffe
+und Gedankengänge am einfachsten scheinen, ist klar. Wesentlicher
+begrifflicher und wissenschaftlicher Fortschritt setzt aber gerade
+die Überwindung des Gewohnten, Gelernten, Geglaubten voraus.
+
+
+Gruss, Wilhelm
+
+Meine beiden vorigen Postings zu diesem Thema:
+http://qzwkvgl.umo.vg/phmhswng/uwycug8.bnhn#kfmsmx

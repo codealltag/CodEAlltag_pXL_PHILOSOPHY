@@ -1,0 +1,35 @@
+Hallo,
+
+
+Unter Unfehlbarkeit verstehe ich hier, daß mein System, falls es auf eine 
+(mathematische) Frage antwortet, stets eine richtige Antwort geben soll. 
+Beweisbar unfehlbar ist ein System, wenn ich in der Lage bin, dies auch zu 
+beweisen.
+
+
+Mathematische Theoreme zu den Grenzen von Turing-Maschinen setzen im Grunde 
+immer voraus, daß die betrachteten Turing-Maschinen unfehlbare Problemlöser 
+sein sollen, die zum Lösen der ihnen gegebenen Probleme nicht mehr in Kontakt 
+mit der Aussenwelt treten. Ich will das einmal durch eine Beweisskizze zur 
+Unlösbarkeit des Halteproblems illustrieren:
+
+Behauptung: Es gibt kein Computerprogramm, das zuverlässig in 
+endlicher Zeit vorhersagen kann, ob ein beliebiges anderes Computerprogramm 
+anhält.
+Beweisskizze: Angenommen, es gäbe ein derartiges Programm, sagen wir P. Dann 
+konstruieren wir ein Programm P' mit der Eigenschaft, daß P' einen hinreichend 
+grossen Computer emuliert, auf dem P ablaufen kann und abwartet, bis P zu eine 
+Entscheidung ausgibt das Problem betreffend, ob P' anhalten werde.
+Gibt P aus, daß P' anhalten werde, dann geht P' in eine Endlosschleife über; 
+gibt P dagegen aus, daß P' nicht anhalten werde, soll P' terminieren.
+Also kann P nicht zuverlässig entscheiden, ob P' anhalten wird.
+
+Wenn man nicht weiss, ob P nicht manchesmal Fehler macht oder mit der 
+Aussenwelt in Kontakt tritt, dann kann man aus einem solchen 
+Diagonalisierungsbeweis nichts über P herleiten; speziell zerstört jeder 
+Kontakt mit der Aussenwelt während des Problemlösungsprozesses das verwendete 
+Diagonalisierungsverfahren, weil man gewissermassen schlecht über das ganze 
+Universum hinweg diagonalisieren kann.
+
+Größe,
+Oskar.

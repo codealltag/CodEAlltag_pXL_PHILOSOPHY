@@ -1,0 +1,31 @@
+Olivier Ell <zgjnyz.mixfpi@hdgvi.fnq-omivv.kz>:
+:>Um so einen Beweis zu haben, muss es ihn erstmal geben. Wenn es zu
+:>jeder TM X so einen Beweis (haelt/haelt nicht) gibt, dann baue
+:>ich dir schnell ein Programm, das alle Worte aus A, A*A, A*A*A, ...
+:>hintereinander testet, und wegen besagter Bedingung haelt die auch
+:>immer in endlicher Zeit, 
+
+: Warum? 
+
+Weil: Falls es einen Beweis fuer "TM X haelt" gibt, wird er in
+endlicher Zeit gefunden. Falls es einen Beweis fuer "TM X haelt nicht"
+gibt, wird er auch in endlicher Zeit gefunden. Aus dem 
+vorausgesetzten TND folgt, dass die von mir hypothetisch konstruierte TM
+
+ N:=0;
+ while()
+  {
+    for each word W of length N
+      do
+        {
+          if( is_proof_for_stop( TM, W ) return( YES );
+          if( is_proof_for_nonstop( TM, W ) return( NO );
+        }
+    N:=N+1;
+  }
+
+auf jeden Fall haelt.
+
+Vielleicht irre ich mich, dann waere ich dankbar fuer das Aufzeigen
+meines Denkfehlers. Ob es einen Beweis fuer "TM X haelt" gibt, ist
+dagegen nur semi-entscheidbar.

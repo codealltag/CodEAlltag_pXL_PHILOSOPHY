@@ -1,0 +1,13 @@
+Sei
+M_1 = {Schaltjahre zwischen 1897-1903}
+M_2 = {Schaltjahre zwischen 1997-2003}
+M_3 = {Schaltjahre}
+
+M_1 und M_2 sind doch Teilmengen von M_3 oder?
+M_1 ist aber Leer.
+
+Wie bezeichnet man nun die gleiche Grössenordnung der beiden Mengen M_1 
+und M_2 was ihre Anzahl der betrachtenden Jahre betrifft?
+
+Gruss
+Othmar

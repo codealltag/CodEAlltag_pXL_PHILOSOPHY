@@ -1,0 +1,28 @@
+Eine Abstaktion beruht auf weiteren Verfahren:
+
+ *  Konzentration.
+    Serialisierung durch voruebergehende
+    Verdraengung von Objekten, welche nichts
+    mit dem augenbicklichen Objekt bzw Aufgabe zu
+    tun haben.
+
+ *  Gemeinsame Eigenschaft.
+    Suche nach aehnlichen Objekten,
+    um diese eventuell duch ein gemeinsames Objekt
+    zu ersetzen,
+    und (Teil von Intelligenz) deren Eigenschaften
+    entsprechend umzuordnen.
+     (Herausfinden der Attribute des abstrakten Objektes
+      durch wenige Tests)
+
+
+Eine Verminderung der Aufloesung kann durch
+  Unschaerfe, Mittelung uder Stichproben
+  bzw Kombination dieser Verfahren geschehen.
+
+
+siehe Fuzzy-Logik.
+Dabei wird mit unscharfen Eigenschaften gerechnet.
+
+Gruss
+Michel

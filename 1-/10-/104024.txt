@@ -1,0 +1,31 @@
+Der Vorteil dieser Methode (mit "last in first out") ist, dass man
+dadurch auf die aufwendige "Buchhaltung" in Bezug auf die jeweils
+gemachten Annahmen verzichten kann. Die Beweise lassen sich dadurch
+einfacher "anschreiben".
+
+Bsp. P -> Q, Q -> R |- P -> R
+
+System Lemmon (bzw. Suppes):
+
+	1     (1) P -> Q         A
+	2     (2) Q -> R         A
+	3     (3) P              A
+	1,2   (4) Q              1,3 MP
+	1,2,3 (5) R              2,4 MP
+	1,2   (6) P -> R         2,5 CP
+
+Alternatives System (nach Endert):
+
+	1. P -> Q         P
+	2. Q -> R         P
+	3. | P            A
+	4. | Q            1,3 MP
+	5. | R            2,4 MP
+	6. P -> R         2,5 CP
+
+Wenn es um eine "schnelle" Herleitung geht ist offensichtlich das zweite
+System angenehmer in der /Benutzung/ (weil man weniger "Schreibaufwand"
+hat).
+
+
+A.

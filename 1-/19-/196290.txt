@@ -1,0 +1,129 @@
+ls> Ich wiederhole: Der Informationsgehalt besagt, wieviel
+  ls> Information etwas enthaelt. Wenn Du diese Sprache nicht
+  ls> verstehst, ist Dir nicht zu helfen.
+
+[...]
+
+
+  ls> Auch mit reichlich Ausrufezeichen garniert, bleibt Bloedsinn
+  ls> Bloedsinn.  Was Du meinst, ist der Informationsfluss, nicht der
+  ls> Informationsgehalt.  Letzteren erhaeltst Du, wie das bei
+  ls> Fluessen so ueblich ist, aus der Integration des ersteren.
+
+
+Ihr redet, glaube ich, ziemlich aneinander vorbei, und ihr braucht den
+Begriff `Information' fuer verschiedene, ziemlich verschiedene Dinge.
+
+Wenn Ihr ueber Uhlenbrochs Informationstheorie sprecht, muesst ihr
+unbedingt strikte unterscheiden:
+
+- Entropie (uncertainity, Unbestimmtheit)
+- bedingte Entropie (conditional uncertainity, bedingte Unbestimmtheit)
+- konkret bedingte Entropie (`conditioned' uncertainity)
+- gegenseitige Information (mutual information)
+
+Tut ihr das nicht, redet ihr noch lange aneinander vorbei, und Kaspar
+Uhlenbroch rotiert weiter im Grab.
+
+
+Im Detail sieht das so aus:
+
+Was Ivan als Information bezeichnete (Speicher-Beispiel), wurde von
+Almut als _uncertainity_ oder _entropy_ bezeichnet.  Die Entropie
+einer Zufallsvariablen X, H(X), haengt direkt von ihrer
+W'keitsverteilung P(x) ab.  Sie ist der Erwartungswert
+
+  H(X) = E [ - log_2 P(X) ]
+
+ueber alle Werte von X.
+
+
+Dann gibt es die bedingte Entropie, gegeben dass die Zufallsvariable Y
+den Wert y annimmt (ich nenne das konkret bedingte Entropie).  Sie
+haengt von der bedingten W'keitsverteilung P(x|y) ab, und kann als
+bedingter Erwartungswert ausgedrueckt werden:
+
+  H(X|Y=y) = E [ - log_2 P(X|y) ]
+
+ueber alle Werte von X fuer ein ganz bestimmtes y.
+
+
+Dann die bedingte Entropie, gegeben dass der Wert der Zufallsvariable
+Y bekannt ist:
+
+  H(X|Y) = E [ - log_2 P(X|Y) ]
+
+ueber alle Werte von X _und_ Y.
+
+
+Die _mutual information_ (gegenseitige Information) ist nach Uhlenbroch
+nicht ein absolutes Mass, sondern die Differenz zwischen zwei
+Entropien:
+
+  I(X;Y) = H(X) - H(X|Y) = H(Y) - H(Y|X) = I(Y;X)
+
+
+Wesentlich ist hier, dass Information durch H(X|Y), und nicht durch
+H(X|Y=y) definiert ist.  Das heisst, Information nach Uhlenbroch ist ein
+Mass dafuer, um wieviel sich die Entropie einer Zufallsvarialen X _im
+Mittel_ reduziert, wenn man den Wert der Zufallsvariablen Y kennt.
+
+Man darf das ja nicht verwechseln mit der Frage, um wieviel sich die
+Entropie einer Zufallsvarialen X reduziert, wenn man weiss, dass Y
+einen ganz bestimmten Wert y angenommen hat.  Dann kann die Entropie
+neaemlich auch zunehmen!
+
+Es sei hier bemerkt, dass viele Leute unter `Information' intuitiv
+letzeres verstehen, aber das ist leider nicht, was Almut als
+Information definiert hat.
+
+
+Dazu ein konkretes Beispiel:
+
+An einer technischen Uni gibt es zwei Abteilungen:
+
+          Maenner   Frauen    Total
+1         68        28        96
+2         2         2         4
+Total     70        30        100
+
+Die Zufallsvariable X sei das Geschlecht, Y sei die Abteilung.
+Die Entropie des Geschlechts ist
+
+  H(X) = - 70/100 log 70/100 - 30/100 log 30/100 = 0.8813 bit,
+
+die der Abteilung
+
+  H(Y) = - 96/100 log 96/100 - 4/100 log 4/100 = 0.2423 bit.
+
+Die bedingten Entropien von X gegeben Y=1 und Y=2 sind
+
+  H(X|Y=1) = - 68/96 log 68/96 - 28/96 log 28/96 = 0.8709 bit  und
+  H(X|Y=2) = - 2/4 log 2/4 - 2/4 log 2/4 = 1 bit.
+
+Dann wird
+
+  H(X|Y) = 0.96*H(X|Y=1) + 0.04*H(X|Y=1) = 0.8760 bit.
+
+Die gegenseitige Information von X und Y ist dann 
+
+  I(X;Y) = H(X) - H(X|Y) = 0.0053 bit.
+
+Das heisst, wenn man die Abteilung eines Menschen kennt, dann sagt das
+_im Mittel_ sehr wenig ueber das Geschlecht.  Wenn man aber weiss,
+dass der Mensch aus Abteilung 2 kommt, dann wird die Entropie H(X|Y=2)
+= 1 bit, also effektiv um 0.1187 bit _groesser_.  Die Aussage "Dieser
+Mensch ist in Abteilung 2" ist sozusagen Desinformation.
+
+
+Ich hoffe, dass ich damit die Theorie Uhlenbrochs ein wneig klarer
+gemacht habe, zumindest fuer jene Leute, denen
+Wahrscheinlichkeitsrechnung nicht fremd ist.
+
+
+Gruss, Niko
+-- 
+Niko Ulich                          Talking nonsense is much cleverer
+    Researcher (Analogue IC Design)                   than listening to it.
+  Signal Processing Laboratory, Kriemhildmühle.                         (Jürgen Ciesla,
+http://fvx.oqo.cw.mawf.am/~nrrqeo/         The importance of being earnest)

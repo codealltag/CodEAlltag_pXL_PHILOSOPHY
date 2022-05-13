@@ -1,0 +1,37 @@
+Meinetwegen.  Wobei es mir nicht allzu eindeutig unterscheidbar zu
+sein scheint, ob ein Verstoss gegen die kontextsensitiven
+Nebenbedingungen nun als Syntaxfehler oder inhaltlichen Fehler ist.
+
+Ein verbotener Zugriff auf eine privat deklarierte Komponente einer
+C++ Klasse ist jedenfalls ein Verstoss gegen eine kontextsensitive
+Nebenbedingung, aber kaum ein Syntaxfehler.  Ein verschriebener
+Variablenname hingegen ein Syntaxfehler.  Die Grenze scheint mir
+unscharf zu sein.
+
+
+Ok, ich versuchs mal.  "Mit Hilfe der Syntax kann untersucht werden,
+ob eine gegebene Zeichenreihe x über einem Alphabet A zur Sprache
+gehört oder nicht." "Die Semantik bestimmt für ein gegebenes Programm,
+wie die Ausgabe von der Eingabe bei der Ausführung abhängt."  (aus
+einem DDR-Informatiklehrbuch welches sich hier im Zimmer fand.)
+
+Gehört nun ein Text mit illegalem Zugriff auf eine private Variable
+zur Sprache?  Ist die Antwort irgendwie wesentlich, solange der
+Compiler dies korrekt feststellt und meckert?
+
+
+Der Referenz-Compiler erzeugt ein funktionierendes Programm, und dies
+definiert eindeutig die Semantik nach obiger Definition.
+
+Ich kann ja durchaus auf ANSII verzichten und statt dessen sagen "ich
+schreibe meine Programme in egcs-2.91.66-C++".  Damit ist sowohl
+Syntax als auch Semantik in formaler Sprache definiert.
+
+Und wenn ich den egcs-2.91.66-C++-Compiler mit egcs-2.91.66
+kompiliere, dann ist die formale Sprache in der Syntax und Semantik
+definiert sind und die in der deren Definition aufgeschrieben ist
+dieselbe.
+
+Timo
+-- 
+J. Lönnendunk, <ahke@vcpb-ltnskrrzo.qmq> , http://bvxu-kqjnozoty.etv

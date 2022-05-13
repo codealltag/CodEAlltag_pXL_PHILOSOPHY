@@ -1,0 +1,23 @@
+Doch, von der "syntaktischen Kategorie" her wohl schon; zumindest
+verwendest Du den Ausdruck "Mathäus Praaß" so. 
+
+Ah ja, das ist eine wichtige Klarstellung! Der entscheidende Punkt ist,
+dass unsere Normalsprache (offenbar) mit "non-denoting names" ganz gut
+umgehen kann, während solche Namen in der FOPL mit Identität
+grundsätzlich ausgeschlossen sind.
+
+Erst die Free Logic (die sich ansonsten sehr an die FOPL mit Identität
+anlehnt) "integriert" dieses Normalsprach-Feature in eine formallogische
+Sprache.
+
+Ja. Natürlich. (Ich glaube kaum das Nick das bezweifeln würde.)
+An dieser (Deiner) Ansicht ist _nichts_ auszusetzen, m.E.
+
+
+Was auf jeden Fall wichtig ist, wenn man die Free Logic mit anderen
+logischen Systemen "vergleichen" möchte: dass man auch (z.B.) für die
+nFL beweisen kann, dass sie -ebenso wie die FOPL+Id- *widerspruchsfrei*
+und *vollständig* ist. Zwei wichtige Merkmale für eine logische Sprache.
+
+
+F.

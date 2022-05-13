@@ -1,0 +1,34 @@
+Ich dachte das wäre von Holtvogt.
+Aber egal, diese Leute haben haben allgemein anerkannte Leistungen 
+erbracht, die ich respektiere ohne mich allzusehr damit beschäftigen zu 
+wollen.
+
+Der Satz ist keine unbeweisbare bzw. unwiderlegbare Aussage, sondern 
+eindeutig ein selbsbez�gliches paradoxes Konstrukt, das letztlich keine 
+Aussage ist. Natürlich muss man auch sowas mathematisch untersuchen und 
+es hat ja AFAIK dazu geführt, dass man die Logik und Mengenlehre so 
+strukturiert hat, dass solche Aussagen nicht mehr formuliert werden können.
+
+Damit beschäftige ich mich jedoch nicht.
+
+Ich denke, es gibt z.B. Algorithmen oder Automaten von denen man nicht 
+weiss ob sie enden oder nicht, ob sie zyklisch sind oder nicht.
+Es gibt vermutlich  auch sehr viele, bei denen man aus prinzipiellen 
+Gründen keine Aussage über ihr Verhalten machen kann. Der Beweis wäre 
+komplizierter als es der Automat selber ist, daher ist kein nicht machbar.
+Die einzige Möglichkeit etwas über einen solchen Automaten zu erfahren, 
+ist, ihn laufenzulassen und zu beobachten.
+
+
+über ein solches Ding kann man vermutlich wohlgeformte Aussagen machen, 
+die weder beweisbar noch widerlegbar sind.
+Welchen Wahrheitwert haben diese Aussagen, solange sie noch nicht durch 
+Beobachtung widerlegt oder bewiesen werden können?
+Es gibt vermutlich /wohlgeformte/ Aussagen, die /niemals/ entschieden 
+werden können. Wie kann man eine solche Aussage finden oder formulieren?
+Wie muss man ihren Wahrheitswert behandeln? Gilt für eine solche Aussage 
+noch der Satz "A and not A = FALSE" ?
+
+Grösse,
+
+Bernhard

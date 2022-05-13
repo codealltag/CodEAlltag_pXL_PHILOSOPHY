@@ -1,0 +1,70 @@
+Was die mysterioese "Kategorienvermengung" betrifft: Alle Leser dieses
+Forums aussser Dir sprechen von "reellen Zahlen" und nicht von
+(ausdehnungslosen) Punkten. Es ist in der Mathematik nicht definiert,
+was ein Punkt ist  Es steht Dir natuerlich frei, Zahlen "Punkte" zu
+nennen. In der Mathematik ist ein "Intervall" eine Menge von _Zahlen_
+und nicht ein Gebilde, mit einer esotherischen Beziehung zu "Punkten".
+Insbesondere besteht per Definitionem das Intervall [a,b] aus der
+Menge aller rellen Zahlen x mit der Eigenschaft a<=x<=b.
+Es traegt wenig zur Wahrheitsfindung bei, wenn Du in jeder Message
+"Nebenkriegsschauplaetze" eroeffnest, die Formulierung Deines
+Gespraechspartner kritisierst, von "Punkten", Dimensionen und
+Ausdehnungen sprichst, obwohl es m.W. ausschliesslich um die
+Eigenschaften von bestimmten "Intervall" genannten Zahlenmengen geht,
+aber nie auf den sachlichen Gehalt eingehst.
+
+
+Dann zeige es bitte. Ich habe in Deinen bisherigen Nachrichten nichts
+entdeckt, was auch nur eine Aehnlichkeit mit einem Beweis haette, dass
+Du so etwas konstruieren kannst. Du hast bestenfalls angerissen, wie
+man eine Aufteilung eines Intervalls in endlich viele Teile, z.B. des
+Intervalls [0,1], durch schrittweise Zusammenfuehren der Grenzpunkte
+anderer endlicher Aufteilungen immer weiter verfeinern koennnte. Es
+ist aber bisher nicht klar geworden, wie das "Endprodukt" dieses
+Verfahrens mathematisch als Menge beschrieben werden soll. Wenn Du nur
+endlich viele Aufteilungen uebereinanderlegst, erhaeltst Du eine
+endliche Aufteilung.  Wenn Du saemtliche moeglichen Aufteilungen
+uebereinderlegst, so kommt maturgemaess jede reelle Zahl einmal als
+Grenzpunkt innerhalb einer Aufteilung vor. Es gibt also ueberhaupt
+keine echten Intervalle mehr.
+
+Also, wo bitte sind Deine ueberabzaehlbar vielen Intervalle ? Wir
+sehen sie nicht. In welchem Intervall aus Deiner Intervallmenge liegt
+die Zahl 1/2 ?
+
+Es gibt uebrigens eine ganz interessante Plausibilitaetsbetrachtung,
+die einsichtig machen koennte, dass man das Intervall [0,1] nicht in
+ueberabzaelbar viele Intervalle mit Laenge >0 zerlegen kann.
+Man kann die Intervallaengen nach Groesse gruppieren. Ein
+Intervallaenge kann zwischen 1/2 und 1 liegen oder zwischen 1/4 und
+1/2 und und etc. Dies sind abzaehlbar viele Gruppen und jedes
+Intervall gehoert zu einer dieser Gruppen, wenn es eine Laenge >= hat.
+Wenn es ueberabzaehlebar viele Intervalle gibt, muss es eine
+Laengengruppe geben, zu der unendlich viele dieser Intervalle gehoeren
+(sogar ueberabzaehlbar viele), denn wenn es zu jeder Laengengruppe nur
+endlich viele Intervalle gaebe, waeren es ja nur abzaehlbar viele
+Intervalle. Es gibt also eine Laengengruppe, so dass unendlich viele
+dieser Intervalle eine Laenge >= 1/2^n fuer ein gewisses n haben.
+Fazit: Es gibt dann unendlich viele paarweise disjunkte Intervalle im
+Intervall [0,1], die alle eine Laenge >= 1/2^n fuer ein gewisses
+festes n haben. Wie ist dies damit zu vereinbaren, dass die
+Gesamtlaenge des Intervalls, aus dem diese p.d. Intervalle stammen, 1
+ist ?
+
+Aber dies wirst Du natuerlich nicht akzeptieren, da ja meine
+Betrachtung von der Konsistenz des Begriffs abhaengt, die du ja gerade
+widerlegt zu haben glaubst. Und solange Dich niemand davon ueberzeugen
+kann, dass Du keine uebaerabzaehlbare disjunkte Menge von Intervallen
+_hast_, wirst Du wohl weiter daran glauben...
+
+So bleibt den interessierten Lesern nur die Aufforderung an Dich,
+dieses Objekt Deiner Vorstellung mathematisch klar in der Sprache der
+Mengenlehre zu formulieren. Dies musst Du wohl oder uebel tun, wenn Du
+einen Begriff eben dieser Mengenlehre ad absurdum fuehren willst. Wenn
+Du dies nicht kannst oder willst, wirst Du der Einzige sein, der an
+Deinen "Gegenbeweis" glaubt. Daran koennen wir Dich natuerlich nicht
+hindern ;-)
+
+
+MfG
+Ivan

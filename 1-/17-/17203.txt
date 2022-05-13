@@ -1,0 +1,98 @@
+Das habe ich bereits getan, es ist Deiner Aufmerksamkeit wohl entgangen.
+Gerne nochmal:
+
+Unter einer Dekodierung verstehe ich eben gerade nicht eine Deutung. Und
+mit mir übrigens eigentlich niemand in der Informatik. Bei einer
+(De)kodierung handelt es sich um das Abbilden einer formalen Sprache in
+eine zweite, das wars auch. Damit stimmen wir Informatiker mit den
+Kodierungs-Theoretikern vollkommen überein, die das genau gleich sehen,
+und auch mit den Informationstheoretikern.
+
+
+Einige tun das, das stimmt. Aber glücklicherweise nicht alle, und ich
+bin froh, dass meine persönliche Erfahrung so ist, dass das die
+wenigsten sind.
+
+Da es aber der derzeit vorherrschenden mechanizistischen Ideologie
+entspricht, so vorzugehen, ahnen wir vermutlich beide, wo der Eindruck,
+der in der Öffentlichkeit besteht, herkommt.
+
+
+Da sind wir völlig einer Meinung.
+
+
+Auch da sind wir völlig einer Meinung.
+
+
+Auch da stimme ich Dir zu. Die Pleite der KI war abzusehen. Sie wollten
+Geist mit reiner Formallogik erzeugen – wie naiv!
+
+
+Und hier irrst Du.
+
+Du verkennst ganz einfach, dass man in der Informationstheorie wie in
+der Kodierungstheorie und der Informatik mit Kodierung etwas anderes
+meint als was Du hier mit Code ansprichst. 
+
+Wenn zwei Agenten vereinbaren, dass wenn im Radio ausgestrahlt wird:
+"Der Gärtner hat den Rasen gemäht.", dass das dann bedeutet, dass der
+Aussendienstagent enttarnt wurde und sich schnell zum vorher
+vereinbarten Treffpunkt begeben soll, so ist das /keine/ Koderierung,
+wie sie in der Informationstheorie, der Kodierungstheorie oder der
+Informatik gemeint ist, sondern ein Code, wie Du ihn wohl meinst. Er ist
+ja gerade zu deuten!
+
+In diesem Sinne ist die Anordnung der Basen in der DNS ebenfalls kein
+Code. In einem anderen Sinne aber ist sie eine Kodierung.
+
+
+Herkömmlich:
+
+Eine (formale) Sprache ist eine Teilmenge der Kleenschen Hülle eines
+Alphabetes. Unter einem Alphabet versteht man eine endliche Menge von
+Zeichen.
+
+Eine Kodierung ist eine injektive Abbildung von Wörtern einer
+Quellsprache auf Wörter einer Zielsprache.
+
+Unter einer Dekodierung versteht man die Umkehrung dieser Abbildung; ist
+die Kodierung nicht surjektiv, versteht man darunter die Umkehrung der
+Kodierung in der mächtigsten Teilmenge der Zielsprache, mit der letztere
+bijektiv ist. Wörter aus der Zielsprache der Kodierung, die nicht
+abgebildet werden, heissen nicht dekodierbar.
+
+Eine zerstörende Kodierung ist eine surjektive Abbildung von Wörtern
+einer Quellsprache auf Wörter einer Zielsprache.
+
+Unter einer Dekodierung einer zerstörenden Kodierung versteht man die
+Umkehrung der Kodierung insofern, dass ein Algorithmus zur Auswahl
+jeweils eines Wortes aus der Quellsprache für jedes Wort aus der
+Zielsprache existiert und ausgewählt ist.
+
+Eine fraktale Dekodierung ist eine Abbildung einer Zielsprache auf eine
+unendliche Folge von Ergebnissprachen mit einem
+Dekodierungs-Algorithmus, der die Ergebnissprachen als Abbilder eines
+iterierenden Funktionensystems so bestimmt, dass diese gegen die
+Quellsprache konvergieren oder ihr in einer Metrik in einem Index
+nahekommen insofern, dass eine untere Schranke in der Metrik zwischen
+einer Ergebnissprache und der Zielsprache unterschritten wird.
+
+Unter einer fraktalen Kodierung versteht man die Auswahl einer
+Quellsprache bei einem gegebenen Dekodierungs-Algorithmus zur Erzeugung
+von Abbildern eines iterierenden Funktionensystems zu einer gegebenen
+Zielsprache gerade so, dass mit diesem Algorithmus die Dekodierung
+exisitert.
+
+Zur Beendigung der Sprachverwirrung werde ich hier zukünftig von einem
+Code sprechen, wenn es sich um eine Sache handelt, die gedeutet werden
+muss, und um eine (De-)Kodierung, wenn ich die rein formalsprachliche
+Sache meine.
+
+In dieser Sprechweise handelt es sich bei der Anordnung der Basen in der
+DNS vermutlich um eine Kodierung, nicht jedoch um einen Code.
+
+Viele Grüsse,
+VB.
+-- 
+Wenn Du für eine Leistung nichts bezahlst,
+bist Du nicht der Kunde, sondern die Ware.

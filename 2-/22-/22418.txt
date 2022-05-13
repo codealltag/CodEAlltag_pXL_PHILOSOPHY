@@ -1,0 +1,194 @@
+Du findest ihn bei Norman beispielsweise als "Black box". Ich möchte
+hinzufügen, ich beziehe mich nicht auf solche soziologischen
+Systemtheorien, ich halte diese für defizitär.
+
+
+Ich kann das explizieren: das Wesentliche ist, dass das gekapselte
+Objekt ausschliesslich mit seiner beschriebenen Schnittstelle mit
+anderen Objekten verbunden ist, und dass das Verhalten dieser
+Schnittstelle bekannt ist.
+
+
+Keinesfalls. Ich rede von Modellierung. Damit schliesse ich die
+Architektur gerade nicht aus, sondern weise auf die Probleme in
+physikalischen Modellen hin. Es ist extrem schwierig, darin gekapselte
+Objekte zu identizizieren, und das ist gerade der Grund, weshalb das
+Anwenden von Mustern dort problematisch ist.
+
+Ein Muster referenziert immer Objekte. Vorhersagen über das Anwenden
+dieses Musters sind nur insofern gültig, als dass besagte Objekte
+gekapselt sind.
+
+
+Man kann Seiteneffekte eben gerade nicht berücksichtigen, wenn diese
+doch gerade von der Art sind, dass man sie nicht vorhersagen kann.
+
+
+Ich rede nicht von beliebigen Nebenwirkungen, sondern von
+Seiteneffekten.
+
+
+Ich geb Dir mal einen Tipp: die fluchen über die Entwürfe der
+Architekten öfters, die sich in ihren Gestaltungsmustern austoben, und
+die Machbarkeit oft mehr schlecht als recht berücksichtigen, weil die
+Physik Grenzen setzt.
+
+
+Klar. Wie Du völlig richtig festgestellt hast, ist das meine Meinung.
+Und im Sinne des sapere aude lass ich mir die auch nicht nehmen. Was mir
+da schon an Bullshit begegnet ist, geht ja auch auf keine Kuhhaut ;-)
+
+
+Nein.
+
+Ich habe eine klare Vorstellung davon, was Handwerk ist, und ich weiss
+genau, dass Kunst kein Handwerk ist. Soweit reichts dann schon noch.
+
+Du solltest aufpassen, dass Du nicht in den Strudel der vorherrschenden
+Ideologie des naiven Mechanizismus abgleitest. Der ist nämlich leicht zu
+widerlegen.
+
+Die Idee, dass alles aus dem Mittelmass kommt, sowie die Idee, dass man
+"Innovation" etwa durch einen Prozess "erzeugen" könne, sind Ideen aus
+dem Umfeld. Dieser gesamte Studium-Bolognese-Blödsinn wird genauso
+scheitern wie die Kartenspiel-Koffer-Moderationen nur lächerlichen
+Bullshit erzeugen. Die Power kommt von ganz woanders.
+
+Das Missverständnis kommt AFAICS daher, dass jene in Grossunternehmen,
+die diesem Unfug frönen, das nur deshalb können, weil sie so viel Masse
+und damit so viel Macht konzentriert haben, dass sie mit reinem Unsinn
+noch Dekaden weiter dilletieren können. Im Regelfalle haben sie ja auch
+im Sinne des Outsourcings so viele Mittelständler unter der Knute, dass
+diese für den Erhalt des Gesamtsystems kämpfen dürfen, und oben im
+Grossunternehmen können besagte Dilletanten ihren Bullshit abziehen,
+ohne dass das ganze gleich kippt.
+
+"Das kann sich ein Unternehmen wie $KONZERN doch nicht leisten!"
+
+Nee, ganz im Gegenteil. Nur und ausschliesslich ein solcher Konzern kann
+sich das leisten, ein KMU wäre erledigt.
+
+Und, bitte verstehs nicht falsch: besagte Personen tun ihrem
+Arbeitgeber, dem Grossunternehmen, überhaupt keinen Gefallen. Die
+könnten nämlich wesentlich besser performen, ohne dass sie solchen
+Unsinn finanzieren oder gar fördern. Man hat ja oft Zweifel, ob die
+Interessen der Aktionäre wirklich vertreten werden, so dass die
+Bonus-Orgien berechtigt wären, oder ob nicht in einigen Fällen
+Lieferanten, Kunden, Mitarbeiter, Aktionäre und gleich die gesamte
+Gesellschaft kräftig draufzahlen, und die Herren Manager sich trotzdem
+ihren Bonus mitnehmen. Das Problem existiert keinesfalls nur bei Banken
+(obwohl es da am offensichtlichsten ist).
+
+Warum ich das schreibe? Überleg Dir mal die Konsequenzen dessen, was Du
+propagierst, wenn Du das Mittelmass einforderst und aus dem
+gemeinschaftlichen Weiterreichen eines aus was auch immer gedrehten Joint
+Dinge entstehen lassen willst. Dabei ist es völlig egal, woher das
+warme, weiche Gruppengefühl erzeugt wird.
+
+Betrachte die Ergebnisse besser mal hinterher im nüchternen Zustand.
+
+
+Vorteile für wen? Nachteile in welcher Hinsicht? Sorry, das ist so
+platt, dass ich darüber gar nicht diskutieren kann.
+
+
+*seufz*
+
+
+Vielleicht mag Dir das mal einer der anderen Mitlesenden um die Ohren
+hauen? Ich meine, sowas sollte man in einer Philosophie-Gruppe besser
+nicht schreiben ;-) Darf ich mal auffordern, Thomas bitte ernst zu
+nehmen, denn er bemüht sich um Diskussion, und scheint mir keinesfalls
+abgeneigt, auf Argumente einzugehen?
+
+Ein Tipp für Dich, Thomas: Du propagierst Mustertheorie ja nicht zur
+Erklärung von Phänomenen, sondern Du stellst sie als Theorie zur
+Herleitung von Handlungsempfehlungen dar. Und oben verneinst Du jegliche
+Objektivierbarkeit.
+
+Oder, in aller Kürze: Du verneinst, dass sie eine Theorie darstellt. Du
+verneinst ja, dass man Handlungsempfehlungen daraus ableiten kann.
+
+Das ist das Problem bei einem Allerklärungsanspruch, Thomas: dann muss
+es auch immer passen.
+
+
+Da liegst Du falsch. Dann hast Du meine Argumentation vermutlich nicht
+verstanden. Wir haben die Freiheit der Definition, insbesondere in der
+Mathematik mit Hilbertschem Axiomenbegriff. Philosophisch wirst Du, wenn
+Du Worte so verdrehst, dass sie das Gegenteil von dem sagen, was man
+umgangssprachlich damit meint, korrigiert werden. Mathematisch spielt
+das keinerlei Rolle.
+
+
+Sorry, da kommen wir nicht zusammen.
+
+
+Von wem "anerkannt"? Ich sprach von einem weitegehenden Konsens, was
+wissenschaftliches Arbeiten ausmacht. Und das ist hier hinreichend.
+Und diesen Konsens mache ich insbesondere eben in der Wissenschafts-
+Gemeinde aus.
+
+
+Du spielst vermutlich auf die Trennung "Art & Science" an, und darauf,
+dass Mikroökonomie, die BWL, "Art" ist. Darauf ein klares: na, und? BWL
+ist keinesfalls eine Wissenschaft. Die Makroökonomie sollte eine sein.
+Wenn ich mir so anschaue, wie öffentlich sichtbare Vertreter der
+Makroökonomie sich selbst darstellen, muss ich sagen: *sollte*.
+
+
+Trotzdem ist Kunst etwas, was mit Handwerk nichts zu tun hat, was weit
+über Handwerk hinausgeht. Denn beim Handwerk geht es um die Herstellung
+von Nützlichem oder Angenehmen, bei der Kunst um den Ausdruck, das
+Symbolhafte, für den Rezipienten um die Bedeutung.
+
+Sogenannte Kunstwerke, die ausdrucksleer sind, sind sinnlos. Und da auch
+hier reflektiert werden kann, kann man die Leere selber ausdrücken, als
+Kunst.
+
+
+Wir sollten uns mal einigen, was wir unter "Bewertung" verstehen. Ich
+meine damit gerade nicht eine Messung, sondern eben eine Bewertung im
+Sinne von "gut oder böse", "wahr oder falsch", oder eben auch
+pragmatisch "nützlich oder unnütz".
+
+Bewertungen sind rein subjektiv, denn sie erfordern entweder einen
+Wahrheitsanspruch, oder aber sie erfordern eine Absicht. Denn für wen
+haben sie denn einen Wert, die Dinge, die bewertet werden?
+
+Aber ich kann das gerne auch aus Deinem Text selbst ableiten: Du
+sprichst ja gerade von einer Situation. Und das ist der Zustand einer
+Umgebung sowie der Zustand eines Subjekts selber, in dem es sich
+befindet.
+
+Subjektiver wirds nicht ;-)
+
+
+Das mag ja sein, dass es dabei um Bewertungen geht, aber der Satz
+bleibt eine Plattitüde.
+
+
+Danke, aber ich benötige für eine Plattitüde keine Beispiele ;-)
+
+
+Ach was. Tyisch Techis. Jeder glaubt, so wie er schon immer arbeitet,
+ist das beste für alle. "If all you have is a hammer, everything looks
+like a nail."
+
+
+Ja. Kannst Du bitte darstellen oder verweisen, wie Mustertheorie mit dem
+Dosisbegriff umgeht, und wie konkrete Dosen empfohlen werden? Gerne auch
+als Metatheorie mit dem Hinweis, wie geeignete Metriken für eine Dosis
+aufgestellt werden sollen, und wann konkret gemessen und wie mit den
+Messungen umgegangen werden soll.
+
+
+Ich hatte doch IGBB schon erwähnt. Nicht dass Fashionesta besser wäre...
+
+
+In der Politik. Das war ja einfach ;-)
+
+Viele Grüsse,
+VB.
+-- 
+Bitte beachten Sie auch die Rückseite dieses Schreibens!

@@ -1,0 +1,45 @@
+Trotzdem sind verschiedenen Implementierungen oft unterschiedlich.
+
+
+Natürlich. Genetisch waren zunächst die nativen Maschinensprachen.
+Um dem Programmierer die Arbeit mit Speicheradressen und Codes 
+abzunehmen, wurden die Assemblersprachen entwickelt. Häufig verwendete
+Konstrukte der Assemblersprachen (Zähler und bedingte Sprünge) wurden 
+dann zu Sprachfeatures der Programmiersprachen erster Generation
+(z. B. FORTRAN - FOR-Schleifen). Und so ging es weiter.
+
+Die sprachliche Entwicklung baute immer auf den bestehenden Erfahrungen
+auf und suchte, das Programmieren einfacher, effizienter und sicherer
+zu machen. So entstanden Sprachelemente für strukturiertes 
+Programmieren, dynamische Speicherverwaltung, Datenstrukturen und
+Objektorientierung etc. immer auf Basis des Wünschenswerten gedacht
+an der Grenze der bisherigen Sprachmöglichkeiten.
+
+
+Du trägst Eulen nach Athen. Mein erstes Programm habe 1971 mit 15 
+geschrieben und ich programmiere in einem Dutzend Programmiersprachen.
+
+
+Es gibt auch Randzonen, wo die Schärfe nachlässt.
+
+
+Aus den Unschärfe mancher Begriffe wird die grundsätzlicher Unschärfe
+jeder Sprache. (wie von Ulf vertreten)
+
+Du vergisst, dass wir in einem Nebenstrang diskutieren und uns
+inhaltlich (wieder mal) relativ nahe sind.
+
+
+Na ja, "Sonne", "Stuhl" und "Autobus" und zigtausende andere
+Begriffe sind ausreichend stabil, auch in verschiedenen
+Subkulturen.
+
+Vergessen tue ich diese Verschiedenheiten nicht (habe doch das
+imho wesentliche Werk von Ottmar Lutz Schmitchen "Kritik der
+Repräsentation" ins Feld geführt, das sich genau mit dem
+Thema Wissenskuturen und Überzeugungssystemen beschäftigt).
+
+Ich versuche in meinen Standpunkten immer ein multiperspektische
+Haltung zu implementieren.
+
+lg Olivier

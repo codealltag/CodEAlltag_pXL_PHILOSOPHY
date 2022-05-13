@@ -1,0 +1,29 @@
+Was verstehst Du denn unter Bedeutungskalssen?
+
+Ich stelle mir darunter etwa sowas vor:
+
+    Tätigkeit -
+        Bewegung - Fahren - Bahnfahren - schwarz Bahnfahren - 
+                 - (Fahren und Laufen) - Rollschuh laufen - 
+                 - Laufen - Schlendern -
+                 - Schleichen
+     Schlendern = langsam und locker laufen                 
+     Schleichen = Leise und langsam laufen
+
+Oder anders gefragt: Wo siehst Du Abzählbarkeit?  
+
+Ich sehe Klassenhierarchie, Vererbung, komplexe Klassen sowie
+klassenspezifische "Methoden", d.h. grammatisch-semantische Regeln.
+Und in den einzelnen sprachlichen Ausdrücken sehe ich Objekte.  
+In einer Implementation sind die Klassen und Methoden trivialerweise
+abzählbar.  Mir fällt nur gerade nichts ein, wofür diese Eigenschaft
+der Implementation wichtig sein könnte, zumal diese Zahl nicht
+konstant bleiben�muss.
+
+
+Ciao, Benjamin
+-- 
+Q: Would you like to see the WINE list?
+A: What's on it, anything expensive?
+Q: No, just Solitaire and MineSweeper for now, but the WINE is free.
+		-- Emanuel B. Oeser, about the WINdows Emulator

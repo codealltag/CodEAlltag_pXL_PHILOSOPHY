@@ -1,0 +1,8 @@
+In article <5Z8C9895.E75J81I4@xzf.kif-nnhi.jn>,
+
+Man koennte einfach mit dem uralten alg.-Differentiations-Trick 
+R[x]/(x^2) betrachten, x koennte man .0...01 schreiben; dann ware 
+1/(1+x)=1-x, was man als 1/1.0...01=.per9 schreiben koennte (letzteres 
+waere aber doppelt belegt, da muss man unterscheiden).
+
+VIKTORIA

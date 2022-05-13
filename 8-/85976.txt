@@ -1,0 +1,151 @@
+Hallo Florian,
+
+Florian Oberschwendtner wrote:
+.....
+.....
+
+Ich schätze, ich muss mal aufräumen.
+Es ging ja ursprünglich um die Frage, ob zwischen Computern
+und dem Gehirn ein prinzipieller Unterschied bestehe.
+Ich beantworte diese Frage mit ja, Hermann Uhlich tut das nicht und
+rekurriert immer wieder darauf, dass das Gehirn in allen seinen
+Operationsmustern der Beschreibung des formalen Apparates der Physik
+zugänglich sei, bzw, dass dieser Apparat für die Beschreibung des
+Gehirns *völlig* ausreiche.
+
+Nun kommt hier, u.a. durch Dich der Begriff Bewusstsein ins Spiel.
+Darum ging es mir aber noch gar nicht, insofern habe ich
+nachlässigerweise Argumente und Zitate gebracht, die mit dem Begriff
+Bewusstsein in rein technischer Konnotation umgehen im Sinne einer 
+objektivierten Funktion. Die Schlampigkeit
+liegt nicht an den Urhebern der Zitate, sondern an mir. Ich hätte diese
+Konnotationen vorher erwähnen müssen.
+
+Halten wir mal fest: In der KI geht es um die Modellierung resp.
+Implementierung von Kognitionen, resp. kognitiven Funktionen.
+Dann dürfen wir aber bei diesen Funktionen nicht halt machen,
+denn wir wissen, dass es zunächst Lebenwesen sind, die Kognitionen
+haben. Mit Reibedanz können wir sagen:
+"Lebende Systeme sind kognitive Systeme, und Leben als Prozeß ist ein
+Prozeß der Kognition. Diese Aussage gilt für alle Organismen, ob diese
+ein Nervensystem besitzen oder nicht."
+
+Nun ein Vorschlag für eine Def. von Kognition:
+Kognition ist die Fähigkeit eines Systems, aus eigener Leistung zwischen
+sich und seiner Umgebung eine Unterscheidung treffen zu können.
+Bei dieser Definition von Kognition wird zwischen ´Kognition´ und
+´Bewußtsein´ unterschieden. Um bei einem System von ´Bewußtsein´ zu
+sprechen - 'Selbstbewusstsein ist hier nochmal eine *ganz andere* Nummer
+- muß dieses über kognitive Fähigkeiten verfügen; die Umkehrung der
+Aussage, daß kognitive Systeme über ´Bewußtsein´ verfügen, ist nicht
+allgemeingültig. Sich diesen Sachverhalt zu verdeutlichen, ist mMn
+notwendig, wenn ´Kognition´ als eine charakteristische Eigenschaft
+lebender Systeme angesehen wird, durch welche diese sich von den toten
+Objekten der Physik und der Chemie unterscheiden.
+
+Und hier liegt schon ein ganz prinzipieller Unterschied! Dafür braucht
+es noch gar kein Bewusstsein. Der bisheriege Formelapparat der Physik
+reicht nicht mal zur vollständigen Bechreibung einer Amöbe!
+Selbstverständlich lassen sich viele Teilaspekte, solche Sachen wie
+Phototaxis und Chemotaxis im Computer hervorragend modellieren, d.h. es
+lassen sich Algorithmen konstruieren, die ein äquivalentes Verhalten zeigen.
+Die kann man dann auch in kleine Roboterchen packen, da reicht sogar im
+Prinzip KFL Mindstorms aus.
+Aber der Ausdruck Amöbe - als System begriffen - meint u.a. auch
+Replikation resp. Fortpflanzung.
+Regelkreise kann ich immer fest verdrahten, das funktioniert ganz gut,
+auch vermaschte Netze aus Regelkreisen, aber,
+in kybernetischer Terminologie: Ein lebendes System regelt (autonom)
+seine Regelung selbst.
+Damit diese Autonomie gewährleistet ist, heisst das aber mit Porthaus:
+"Every autonomous system is organizationally closed.
+.... organizational closure is to describe a system with no input and no
+output ..."
+Diese Anschauung ist mit dem Wiener´schen Begriff des "Feedback"
+unvereinbar. Hier wird der Übergang von der Beschäftigung mit
+klassischen Input/Output-Systemen zur Beschäftigung mit Systemen
+deutlich, die ganz offensichtlich (operativ) geschlossen sind.
+Der Kybernetiker Joachim Brusselmans nennt diese Systeme auch information-tight.
+Sie sind zwar offen für Energie, das müssen sie sein, aber geschlossen
+für Information. Diese wird jedoch von der Physik entsprechend der
+Shannon-Weaver'schen Informationstheorie als grundsätzlich messbare
+Größe verstanden. Selbstredend ist der heutige Info-Begriff durch die
+Vorgaben der Physik definiert.
+Physikalische Systeme sind aber grundsätzlich offene Systeme, denn
+Offenheit und Geschlossenheit sind in der Physik grundsätzlich auf den
+Austausch von Energie bezogen. Ein System, das keine Energie austauscht
+mit seiner Umgebung ist buchstäblich mausetot.
+Für die Systemdefinition in Physik und Chemie werden die verschiedenen
+Energieformen, die an dem System ausgetauscht werden, als Summe
+bilanziert. Man erhält auf diese Weise eine Differentialgleichung - die
+sogenannte Gibbs´sche Funktion - die das damit jeweilig definierte
+physikalische System vollständig beschreibt, d.h. es handelt sich
+hierbei um die allgemein gültige Definition eines physikalischen Systems
+ohne geometrische Begrenzung.
+D.h. für eine formale Beschreibung der operationellen Geschlossenheit im
+Pörzgen Sinne, die *nicht* auf Energie bezogen ist, fehlen der
+Physik sämtliche Begrifflichkeiten.
+Das hat für die experimentellen Neurowissenschaften, die im weitesten
+Sinne physikalische Messmethoden anwenden, eine ganz erhebliche Bedeutung.
+So reduziert sich aus wissenschaftlich konzeptioneller Sicht das System
+´Affe´, bei dem beispielsweise die Hirnaktivität als Funktion (vom
+Experimentator) vorgegebener äußerer optischer Reize durch Elektroden
+gemessen wird, auf das System eines lebenden, nicht-trivialen Signal-
+oder Datenfilters, bei dem ein lebendes neuronales Netzwerk eingesetzt
+wird. Durch die experimentelle Anordnung ist das System ´Affe´ bzw.
+dessen Gehirn (für den Experimentator) zu einem offenen System reduziert
+worden. Über den (visuellen) Wahrnehmungs- oder Kognitionsprozeß, der
+sich im System ´Affe´ während der experimentellen Situation abspielt,
+erfährt der Experimentator durch solche oder ähnlich durchgeführten
+Messungen nichts. An dieser Situation würde sich natürlich auch dann
+nichts ändern, wenn experimentell die Möglichkeit bestünde, die
+Aktivität jedes einzelnen Neurons bis ins letzte Detail vermessen zu
+können. Erfolgreicher dagegen sind derartige Experimente, wenn es sich
+beispielsweise um Untersuchungen des Stoffwechsels handelt, dann
+befindet man sich jedoch eindeutig im Kontext von Physik und Chemie, und
+das ist ganz offensichtlich eine andere Beschreibungsdomäne als die der
+kognitiven Prozesse.
+So sind konsequenterweise *alle* bislang vorliegenden
+Neuronetz-Algorithmen mehr oder weniger simple nichtlineare I/O-Systeme
+und das war's dann auch.
+
+ME, und damit bin ich nicht alleine, ist zur technischen Modellierung
+operationeller Geschlossenheit,
+gleichbedeutend mit Selbstreferentialität, ein ebenfalls
+selbstreferentieller Kalkül notwendig, denn haben wir noch nicht.
+Erste Versuche, wie PatrikVaahsen Calculus of Indication und Pühler
+extended version kann man gleichwohl als sinnvoll aber gescheitert erachten.
+Hat man sowas aber mal, dann sollte es mMn möglich sein, - ganz 
+vorsichtig jetzt - kognitive Funktionen aus dem Bereich der lebenden 
+Systeme nachzumodellieren, die über die rein *monokontexturale* simple
+I/O-Funktion des Speicherns und Abrufens - das ist gleichbedeutend mit
+algorithmischem Rechnen, so wie es durch die Füller-Turing-These
+beschrieben ist - hinausgehen.
+Von Bewusstsein ist noch gar nicht die Rede, gleichwohl werden solche
+kognitiven Funktionen von menschlichen und tierischen Bewusstseinen
+geleistet. Das ist es, was Roland wohl meinte.
+
+Die mMn zentrale Frage lautet: Wo in der Natur liegt der Unterschied
+zwischen Ereignis (physikalisch) und Handlung, hier verstanden als
+Aktion eines operationell geschlossenen Systems im obigen Sinne als
+Voraussetzung für Kognition, und läßt sich eine solche Geschlossenheit
+technisch modellieren? Wenn ja, was braucht man dafür?
+Den Unterschied immer wieder wegzuleugnen und lediglich auf die
+physikalische Beschreibung reduzieren zu wollen, löst die Fragestellung
+nicht. Stattdessen beschränkt man sich darauf, die permanente 
+Verwechslung von Rekursion und Feedback mit Selbstreferenz zu kultivieren.
+
+Mit freundlichen Grüßen,
+Dario
+
+crosspost nach d.s.physik als sinnvoll erachtet und gesetzt
+
+-- 
+---------------------------------
+Dr. Dario Limberg
+Hrsg.: http://onk.aiapnjoqb.jq
+ISSN 3316Ganacker
+PKL im Web:
+http://tol.xuwxrolecqo.hbx/dtl
+music project:
+http://htj.rsln-euvt-mykzefsyd.dc

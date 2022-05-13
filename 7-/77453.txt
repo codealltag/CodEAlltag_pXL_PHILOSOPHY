@@ -1,0 +1,19 @@
+Ich kann das Komprimat nicht lesen und sehe deshalb nicht, wie die
+"Zufallszahlen" darin enthalten sind. Es ist für mich nicht einmal
+offensichtlich, ob dies wirklich eine Kompression ist. Du brauchst zwar
+weniger Stellen, kriegst also einen kürzeren Text, benützest aber
+dafür einen grösseren Zeichensatz. Aber nehmen wir mal an, es handelt
+sich wirklich um eine Kompression. Du behauptest also, du könnest jede
+beliebige Folge so komprimieren?
+Sagen wir, du brauchst dazu n verschiedene Zeichen. Die Aufgabe bestehe
+darin, Texte zu komprimieren, die aus diesen n Zeichen geschrieben
+wurden. Die Aufgabe besteht darin, einen Text zu komprimieren, der aus
+N Zeichen besteht, wobei jedes Zeichen aus dem Zeichensatz von n
+Zeichen kommt. Der Text wurde korrekt komprimiert, wenn er danach
+kürzer ist und immer noch von allen anderen Texten unterscheidbar ist.
+Es gibt n^N mögliche Texte. Du behauptest, du könnest jeden von
+diesen Texten mit dem selben Zeichensatz auch kürzer schreiben? -Sagen
+wir, dein längster komprimierter Text bestehe aus A Zeichen (A ist
+kleiner als N).
+Mit A Stellen könntest du aber höchstens n^A verschiedene Texte
+wiedergeben.

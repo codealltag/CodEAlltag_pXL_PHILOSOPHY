@@ -1,0 +1,28 @@
+dann
+
+Stimmt.  Der Graph einer Funktion hat immer den Nachteil, daß er als
+materielles Objekt mit einem materiellen Schreibwerkzeug auf einen materiellen
+Bildträger gezeichnet werden muß.
+Daher kann man mit einem Graphen auch nichts mathematisch beweisen.
+
+Noch einen Tip: Falls Du mit Differentialgleichungen vertraut bist, dann
+verwende doch mal die folgende Definition der Exponentialfunktion:
+
+    y'(x)  =  -y(x) ,  y(0)  =  1   -->   y(x)  =  exp(-x)
+
+zusammen mit der Tatsache, daß  exp(x)  >=  0  gilt für  ALLE  x ;  letzteres
+läßt sich mittels der Folgendefinition
+
+   exp(x)  =  lim{n->oo}  ( 1 + x/n )^n
+
+leicht unabhängig von der DGl. beweisen.
+
+
+An der Folgerung aus dem Bild des Graphen ?  Ein solches Bild kann in der Tat
+keinen Beweis liefern ...
+
+Größe
+    Klaus
+--
+
+<Patrice

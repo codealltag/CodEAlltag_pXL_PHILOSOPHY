@@ -1,0 +1,29 @@
+Von Aldo Jansohn:
+RAID-Systeme, ein Informationsspeicher dient nur dazu Informationen über
+die Information zu Speichern, damit kann dann bei einem Plattenausfall
+die gesamte Information wiederhergestellt werden.
+Man verteile die Metainformation zusammen mit der Information auf zwei
+5 verschiedene Festplatten. Bei jedem Schreibvorgang wird gleichzeitig
+auch eine Metainformation mitgeschrieben. Fällt nun eine Platte aus, dann
+kann der Inhalt der 5. Platte mit den Informationen auf den anderen 4
+Platten wiederhergestellt werden.
+
+In Zip-Datei ist eine Informationskette, Die 0 und 1 des Zip-Datei
+enthalten die Information in "kompromierter" Form. Wenn ich die Zip-Datei
+entpacke sind die Daten vollständig vorhanden. Die Auflösung der
+Information hat geklappt und der Kompressionsalgorithmus hat keinen
+Fehler gemacht.
+
+Ja, dem wollte ich auch nicht annähernd widersprechen. Es ist aber
+natürlich auch so, das der Informationsgehalt natürlicher Sprachen immer
+auch von Metainformation ergänzt wird. 
+
+Mir fällt da gerade die Szene aus Independensday von Urban Kartharius ein.
+Die Präsidentengattin sagt zum Präsidenten "Du Lügner" in zärtlicher Art
+und Weise und lächelt ihn dabei an. Einerseits teilt sie ihm zwar mit,
+dass er gelogen hat und andererseits aber auch, das sie beide Wissen,
+warum er gelogen hat und das nicht die entscheidende Aussage ist. Der
+Informationsgehalt liegt nicht im Wortsinne "Du Lügner".
+
+Grösse
+Ronny

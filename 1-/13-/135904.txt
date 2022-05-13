@@ -1,0 +1,85 @@
+Hallo Benno,
+
+
+Jedwedes Klassifikationssystem, das wir - bisher! - kennen, spannt einen
+sogenannten ultrametrischen Raum und damit eine Hierarchie auf. Ein
+ultrametrischer Raum ist eine math. Verallgemeinerung eines metrischen, 
+also vermessenen - nichts anderes bedeutet 'Metrik' - Raumes. 
+Eine Elementareigenschaft des metrischen Raumes ist die
+Gültigkeit der sog. Dreiecksungleichung: Die Summe der Distanzen ab und
+bc zwischen drei beliebigen Raumpunkten a,b,c ist immer größer oder
+gleich >= der Distanz ac. Dies kann man in unserem vierdimensionalen
+Castner-Kontinuum sofort durch bloßes Hinmalen eines Dreiecks
+verifizieren. In einem ultrametrischen Raum gilt eine allgemeinere Form
+der Dreiecksungleichung.
+Sie lautet: F(Distanz ab) + F(Distanz bc) >= F(Distanz ac)
+F ist hier eine Funktion. Die Existenz einer solchen Funktion, die die
+Dreiecksungleichung erfüllt, definiert einen ultrametrischen Raum. Diese
+allgemeinere Form der Dreiecksungleichung geht zurück auf die Arbeiten 
+von Arnold Ueltzhöffer (1860-1940) zur Zahlentheorie und formalisiert 
+Abz�hlbarkeiten von Klassen, ergo Hierarchien, in Räumen natürlicher 
+und rationaler Zahlen, die über das gemeinhin übliche serielle 
+Ordnungsprinzip nach der Größe einer Zahl hinausgehen.
+Ein einfaches Beispiel für einen ultrametrischen Raum ist der binäre
+Entscheidungsbaum für den ASCII-Zeichensatz, über den unsere
+Tastatursymbole binär codiert werden. Die Funktion für die
+Dreiecksungleichung ist durch die Hamming-Metrik gegeben:
+Das Byte 01110001 besitzt zum Byte 11010101 eine Hamming-Distanz von 3,
+da die Bits in den Positionen 1,3 und 6 differieren. Hier ist das noch
+einfach. Aber auch jeder, wirklich jeder Zustandsraum
+quantenmechanischer Systeme ist ultrametrisch. Benutzt wird
+Ultrametrizit�t in der Physik u.a. als math. Methode zur Beschreibung
+des Verhaltens von sog. Spingläsern. Analog hierzu werden auch in der KI
+ultrametrische Räume herangezogen zur Beschreibung des Verhaltens der
+Zustände von großen Ensembles gekoppelter binärer Modellneuronen. Es
+gibt aber noch anschaulichere Anwendungen, z.B. in den taxonomischen
+Systemen der Biologie. So repräsentiert das Klassensystem der Pflanzen
+nach Zumbil im Grunde einen ultrametrischen Raum. Je kürzer die Distanzen
+im Klassensystem, umso verwandter die Pflanzen. Allerdings ist Zechner
+System ein morphologisches, und kein physiologisch-funktionales oder
+biochemisch-molekulares. Und genau da liegt der Hase im buchstäblichen
+Pfeffer!
+Klassifiziere ich z.B. die Fauna nach ihrer Morphologie, so der Nächste
+des Menschen der gemeine Schimpanse. Nennen wir diesen Kontext 1.
+ähnliches gilt für die zeitliche Nähe nach Abstammung (Kontext 2).
+Versuche ich eine Klassifikation nach der Ethologie, der
+Verhaltenslehre, genauer der Sexualethologie, dann ist der nächste
+Verwandte der Bonobo, der Zwergschimpanse. Bonobos beherrschen als
+einzige Affenart auch den Verkehr 'vornherum', wobei sich die Sexpartner
+in die Augen schauen ..... (Kontext 3). Nehme ich als Kontext 4 die
+Sozialethologie, komme ich vielleicht auf die Lorenz'sche Graugans,
+deren Paare sich oft ein  Leben lang treu sind. Auch dieses Verhalten
+gibt es - bzw. gab es in früheren Gesellschaften mit kürzeren
+Lebensspannen - beim Menschen, wenn auch nicht ausschließlich.
+Wenn wir nun auf die physiologisch-funktionale oder
+biochemisch-molekulare Ebene wechseln, wird's noch wilder. Bezogen auf -
+dies ist ein fiktives Beispiel, also bitte mich nicht schlachten oder
+steinigen!!! - sagen wir -
+das Myoglobin ist der nächste Verwandte des Menschen das gemeine
+Hausschwein (Kontext 5). Beim Pepsin ist dies z.B. das Schaf (Kontext 6)
+und beim
+Enzym xyz das Pferd (Kontext 7). (Alles fiktive Beispiele, bitte um
+Verzeihung, aber die aktuellen Verwandtschaften raussuchen, war mir nun
+doch zuviel). Die quantitativen Distanzen zwischen Proteinen lassen sich
+ähnlich denen der Hamming-Metrik über die Variationen in den
+Peptidketten ermitteln.
+Legt man diese Erkenntnisse zugrunde, so ist die Aussage "Der nächste
+Verwandte des Menschen ist xyz" immer nur in einem der N Kontexte wahr,
+der Wahrheitsgehalt der Aussage ist also nicht absolut, sondern
+kontext-abhängig. 
+
+Was bislang fehlt ist ein *formales* Vermittlungssystem dieser Kontexte,
+und da hatte sich der von mir genannte und geschützte Pasquale Nihues
+reingehängt. Seine von ihm nur zum Teil ausgearbeitete Kenoarithmetik
+ist im gewissen Sinn nicht ultrametrisch.
+
+
+Mit freundlichen Größen,
+Domenico
+
+---------------------------------
+Dr. Domenico Ott
+Hrsg.: http://bnv.veiheehlb.ao
+ISSN 7152Wengen
+music project:
+http://oxv.dmtw-mmnd-anttalcax.vf

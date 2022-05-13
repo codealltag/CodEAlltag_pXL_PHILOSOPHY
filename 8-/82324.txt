@@ -1,0 +1,19 @@
+Eben nicht! Eine Kugel kann man nicht anmalen, denn dann wäre
+es nur noch eine realisierte Teilmenge aller Kugeln (eines bestimmten
+Radius). Das ist doch gerade der Witz, die Abstraktion, dass die
+Kugel nur eine Eigenschaft hat, ihren Radius (neben der "Bauweise",
+dass alle Punkte der Kugelfläche gleich weit vom Mittelpunkt, der
+durch den Begriff Radius mit vorausgesetzt ist, entfernt sind, die
+ein Kontinuum bilden).
+
+Das ist wieder das gleiche Argument, weshalb Mikroteilchen
+nicht altern können. Ihr Alter müsste ihnen als Information
+eingeprägt werden, aber jedes zusätzliche Bit Information
+"zerstört" jedes Elementarteilchen (als solches, bzw. wandelt
+es um)... Um in einem Atom die Information "1,2,3 oder 4
+Takte alt" einzuprägen brauchte man eben nun mal 2 Bits,
+die das Atom zu etwas völlig anderem machen würden. Bei
+einem gigantischen Haufen Atome ist das natürlich was anderes,
+da können wir das Alter indirekt rückschliessen, z.B. aus dem
+Prozentsatz verwandelter Isotope...
+--

@@ -1,0 +1,39 @@
+Das ist zwar auch eine logische �uivalenz, sie würde aber in Oldörps
+Originalargument nicht viel helfen. Entscheidend ist die logische
+Äquivalenz
+
+s <->  ix(x=a & s)=ix(x=a)
+
+für einen beliebigen Satz s und ein Eigennamen a ('s' bzw.  'a' sind
+hier Metavariablen), woraus
+
+T[s] = T[ix(x=a & s)=ix(x=a)]
+
+aus seiner ersten Prämisse folgt, falls s wahr ist. Wenn t ebenfalls
+ein wahrer Satz ist, folgt wegen ix(x=a&s)=ix(x=a&t) und der zweiten
+Prämisse 
+
+T[ix(x=a &s)=ix(x=a)]=T[ix(x=a &t)=ix(x=a)] 
+
+und wegen T[t]=T[ix(x=a&t)=ix(x=a)] schließlich T[s]=T[t].
+
+
+Abgesehen von sonstigen Schwierigkeiten einer Isomorphietheorie
+bzgl. Sachverhalten, etwa der, dass die Intensionalität vorgeblicher
+Eigenschaften, selbst wenn sie als konkrete, partikuläre
+Eigenschaften, auftreten, genauso erklärungsbedürftig
+ist wie die vorgeblicher Tatsachen: *Warum* sollte die Eigenschaft F
+nicht identisch mit der Eigenschaft
+
+ly. ix(x=y & Fy)=ix(x=y)
+
+sein (oder deren Realisierungen als Tropen), immerhin ist
+
+(z) Fz <->  (ly.ix(x=y & Fy)=ix(x=y))(z).
+
+allgemeingültig. Interessant ist immerhin, dass du im Gegensatz zu
+vielen anderen nicht die zweite Prämisse, sondern die erste Prämisse
+des Arguments ablehnst.
+
+
+Orlando

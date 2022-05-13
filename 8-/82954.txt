@@ -1,0 +1,39 @@
+Also formalisiert:
+
+	~AxE!yENDE(x,y)     (a)
+
+Das ist aber Äquivalent zu der (relativ schwachen) Aussage:
+
+	Ex~E!yENDE(x,y)     (b)
+
+	"Es gibt etwas, was nicht genau ein Ende hat."
+
+Ja. Vielleicht kann man hier in der Tat die Wurst nennen. :-)
+
+
+	Ax~E!yENDE(x,y)     (c)
+
+	"Für alles gilt: Es ist nicht der Fall, 
+	 dass es genau ein Ende hat."
+
+Ja, das ist eine wesentlich stärkere Behauptung.
+
+
+Sehr hübsch hier die von Dir angeregte /Definition/:
+
+	UNENDLICH(x) =df ~Ey(ENDE(x,y))
+
+Dann lautet die Behauptung also:
+
+	Ax(EyEz(y =/= z & ENDE(x,y) & ENDE(x,z)) v UNENDLICH(x)).  (d)
+
+Und das ist, wie man leicht sieht, Äquivalent zu (c).
+
+
+A.
+
+
+--
+
+E-mail: 
+xnhtyy<he>simple<bindestrich>line<punkt>de

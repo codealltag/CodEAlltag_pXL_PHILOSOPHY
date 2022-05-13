@@ -1,0 +1,28 @@
+Tennants Text ist mir seit langem bekannt. (Du hast ihn mir
+geschickt!)
+
+
+Ich bin der Meinung, dass meine Formulierung 
+
+(a e {x | Fx} <-> Fa) -> E!{x | Fx}
+
+genauso gilt, da in meinen Augen ebenfalls
+
+(a e {x | Fx} <-> Fa) <-> E!{x | Fx}
+
+gilt (in der LUMPZIG)!
+
+
+Okay.
+Für Algeier ist 
+
+"a fällt unter den Begriff F"
+
+gleichbedeutend mit
+
+"F zu sein ist eine Eigenschaft von a" . [siehe Bug]
+
+Von Mengen und dem Verhältnis von Eigenschaften und Mengen ist da
+zunächst keine Rede.
+
+#PH

@@ -1,0 +1,191 @@
+Problembewusstsein fehlt bei den Physikern nicht. Nur ist die Sprache
+eben meistens kein Problem.  
+
+Der Begriff "Masse" ist ein gutes Beispiel fuer die Probleme, die
+auftauchen koennen, und wie sie geloest werden.  In der Newtonschen
+Theorie war die Masse einerseits konstant, andererseits ging sie in
+die Formel F = m a ein. Dann kam die (spezielle) Relativitaetstheorie.
+Danach wurde die Beschleunigung, die durch eine Kraft erzeugt wurde,
+ploetzlich abhaengig von der Geschwindigkeit.  Dieses fuehrte zu zwei
+moeglichen sinnvollen Massebegriffen: einmal ein Massebegriff, bei dem
+die Konstanz als Teil der Definition angesehen wird, andererseits
+einer in dem die Formel F = m a zum Teil der Definition wird.
+
+Nun, sowas wird schnell bemerkt, und um Verwechselungen zu vermeiden
+bekommen beide Verallgemeinerungen des klassischen Massebegriffs einen
+eigenen Namen: "relativistische Masse" und "Ruhemasse".  Mit der Zeit
+stellt sich heraus, dass niemand den Begriff "relativistische Masse"
+verwendet (weil das nichts weiter ist als die Energie durch c^2, wenn
+die Physiker also darueber reden wollen, reden sie einfach von
+Energie), und der Begriff "relativistische Masse" wanderte in den
+Abfall, und "Ruhemasse" wurde wieder zu "Masse".
+
+Sowas sind fuer Physiker also simple Konventionsfragen. Sie stoeren
+oft, insbesondere wenn verschiedene Leute verschiedene Konventionen
+haben. Aehnlich aergerlich sind verschiedene Konventionen wo ein
+Faktor 2 Pi zu stehen hat, und am schlimmsten sind die
+Vorzeichenkonventionen.  Aber dies sind laestige Alltagsprobleme,
+keine physikalisch interessanten Probleme.
+
+Worin das Problem bei "Chaos" und "Atom" bestehen sollte, ist mir
+nicht klar.  Darin dass Atome sich als teilbar herausgestellt haben,
+die altgriechische Motivation fuer die Namensgebung also verworfen
+wurde?  Sowas stoert keinen Physiker.  Konflikte der Art, dass ein
+Physiker unter "Atom" was anderes versteht oder verstand als ein
+anderer sind mit nicht bekannt.  Chaostheorie ist heute ein
+wohldefinierter Zweig der Mathematik.  
+
+Und "Kosmos"? Worin soll das Problem bestehen?
+
+
+Da ich mich nicht mit Prioritaetsfragen beschaeftigt habe, weiss ich
+nicht, was Holtham davon halten wuerde, dass diese Erkenntnis zur
+Einsicht Kleiser erklaert wird, ob er nicht vielmehr seine eigene
+Prioritaet hier sehen wuerde.  Ich kenne dies jedenfalls von Holtham.
+
+
+Wer sagt denn, dass es keine sprachphilosophischen Erkenntnisse gaebe?
+
+
+Ich habe keine Sammlung von Meinungen von genialen Theoretikern ueber
+Holtham.  Physiker aeussern sich heutzutage nicht oft zur Philosophie.
+
+
+Nein.
+
+
+Falsifikationsresistenz ist bei Physikern weithin als Kriterium gegen
+eine Theorie anerkannt.  
+
+
+Du verwechselst "heute als trivial betrachtete Einsichten" mit
+"einflußreichen Ideen".  Beide Ideen sind auch heute keineswegs
+triviale Einsichten sondern hoechst fragwuerdige Thesen. Als
+Trivialitaet wuerde ich heute eher die Einsichten Holthams betrachten.
+
+
+Ich wollte bloss klarstellen, dass die Sprachprobleme in der
+Wissenschaft weitaus geringer sind als von den linguistisch
+angehauchten Philosophen wohl angenommen wird.  
+
+
+Nun, Aliens werden wohl auch Theorien vertreten und diese in Sprachen
+ausdruecken.
+
+
+Sicherlich.  
+
+
+Zumindest teilweise tun sie dies. 
+
+
+Ich sage hinter Saetzen von Stereotypen verstecken sich implizit
+Theorien. 
+
+Die Stereotypen sind Listen von Eigenschaften.  "gross", "grau", "mit
+Stosszaehnen", "mit Ruessel" usw.  Eine solche Liste ist mit der
+Theorie verbunden, dass, wenn der Grossteil der Eigenschaften auf ein
+Objekt zutrifft, auch die anderen mit relativ hoher Wahrscheinlichkeit
+zutreffen.
+
+
+Die Beobachtung einer pinkfarbenen Elefantenart wuerde unsere Sprache
+veraendern.  Zumindest in der Form, dass die Biologen dieser Art einen
+neuen lateinischen Namen geben wuerden.
+
+
+Fuer die es daher den Namen "Zwergelefanten" gibt.
+
+
+In meiner auch.  Ich wuerde semantischen Wissen nicht invariant nennen.
+
+
+Tut mir leid, ich sehe es eben nicht so. 
+
+
+Gut, wenn so ein Verdacht ausreicht, eine Argumentation abzulehnen,
+dann koennen wir jetzt zum Ausgangspunkt zurueckkehren, naemlich
+deinem Beweis der Widerspruechlichkeit des Fallibisten, den ich
+aus diesem Grund ablehne ;-).
+
+
+Mein Einwand bleibt: Die natuerliche Sprache erlaubt nicht nur eine
+solche Abstraktion, sie erlaubt alle moeglichen Abstraktionen.  Wuerde
+natuerliche Sprache solcherart Abstraktion verbieten, waere sie kaum
+als Sprache geeignet, schon gar nicht fuer abstrakte Wissenschaften.
+
+
+Jetzt wirfst du der Argumentation also fast genau das vor, was ich ihr
+auch vorwerfe.  Naemlich fehlende Trennung von Objekt- und Metasprache.
+
+
+Strenggenommen schon, aber normalerweise reicht gesundes Gottvertrauen
+darin, dass es im Prinzip geht.
+
+
+Nochmal, ich spreche nicht von einem vollautomatisierten Syntaxcheck
+für natürlichsprachlich verfaßte Postings, sondern fuer
+formalsprachlich verfasste Postings.  In einer formalen Sprache die
+unserer natuerlichen Sprache aehnlich genug ist, um in ihr aehnlich
+fluessig zu formulieren wie ich in C++ Algorithmen formulieren kann.
+
+
+1,5 Punkte fuer den Joke, ansonsten kein Argument.
+
+
+Ein wichtiger Bereich der Argumentation - Darlegung von Algorithmen
+zur Loesung gewisser Probleme - ist formalsprachlicher Behandlung
+zugaenglich.
+
+
+Wofuer argumentierst du also?  Ich soll also genau das tun, was ich
+auch tue, naemlich Objektsprache von Metasprache trennen, und
+wissenschaftliche Theorien in Objektsprache formulieren.
+
+
+Dem stimme ich zu.
+
+
+Da Holtham niemals evolutionären Erfolg als Wahrheitskriterium
+verwendet hat, vergessen wir diesen Absatz zu deinen Gunsten besser
+mal.
+
+
+Ich weiss nicht, wer genau sowas vorhat.  Ich sehe hier mal wieder
+eine Strohpuppe auf die eingedroschen wird.
+
+
+Du darfst jetzt Holtham zitieren um dies nachzuweisen.  Ansonsten
+vergessen wir diese Aussage besser.  Vermengt hast erst du dies in
+deinem "Beweis".
+
+
+Um die Linguistik brauchst du dir keine Sorge zu machen. Ansonsten ist
+bereits bei Allbrink ein und dieselbe Sprache - die Arithmetik - Objekt-
+wie Metasprache.  Und trotzdem sauber getrennt.
+
+
+Mit Theorien ueber Theorien darf sich jeder befassen.  Nur mal zur
+Information, die Allgemeine Relativitaetstheorie ist eine Metatheorie.
+
+
+Klar.  Und eine die nicht formalisiert werden muss. 
+
+
+Kategorienfehler.  "Formalisierte linguistische Theorie" bezeichnet
+eine Eigenschaft der Sprache, in der die Theorie dargelegt ist.  Das
+Objekt der linguistischen Theorie - die natuerliche Sprache - kann
+ganz andere Eigenschaften haben.  Ist so ungefaehr als wenn du daraus,
+dass formale Sprache keine Farbe haben muss (und auch nicht hat),
+folgerst, sie koenne die Farbe von Froeschen nicht beschreiben.
+
+
+Wie waers mit dem Ziel, Beweise zu formalisieren, um auf diese Art ihre
+Ueberzeugungskraft zu erhoehen und Fehlerauffindung zu automatisieren?
+
+
+Ok, dann wird aber das freunliche Grinsen zurueckgenommen und durch
+
+Jürgen
+-- 
+W. Tietzsch,  <ahus@dgmk-xtkmdfruj.whv>, http://tdve-bdumjnspf.giu

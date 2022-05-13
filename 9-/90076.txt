@@ -1,0 +1,161 @@
+Eben, Du tastest Dich mit Vermutungen und Zahlenspielereien durch.=20
+Anstatt die bekannten Formeln zu verwenden, oder, wenn Du ihnen nicht=20
+traust, sie mittels Algebra abzuleiten und dann das Ergebnis auszurechnen=
+=2E
+
+
+Aha, schon wieder würfelst Du mit Begriffen durcheinander, so dass man =
+
+Dich nicht versteht. Warum verwendest Du nicht Gezeitenkraft, wenn Du=20
+genau diese meinst und nicht Gravitationskraft?
+
+
+Das ist sie zwar, aber das muss sie nicht. Du lässt nämlich die Masse=
+=20
+der Sonne völlig unberücksichtigt. Die Sonne muss für eine geringer=
+e=20
+Gezeitenwirkung nur deswegen weiter weg sein als der Mond, weil sie eine =
+
+so viel höhere Masse hat.
+
+
+Total irrelevant, Deine Bilder tragen leider nichts zum Verständnis der=
+=20
+Problematik bei.
+
+
+Ich habe keine Ahnung, was die "Zentrifugalkraft-Differenz" sein soll.=20
+Komm mal weg von der Zentrifugalkraft, sie ist irrelevant.
+
+
+Es ist absolut bekannt, worauf die Gezeiten beruhen. Du brauchst keine=20
+Richtung zu vermuten, Du kannst einfach der Theorie folgen.
+
+
+Warum rechnest Du es dann nicht einfach nach? Die Gravitationsformel=20
+kennst Du doch. Zu faul?
+
+
+Sehr einfach. Diese Formel kennst Du:
+
+Fg =3D G * m1 * m2 / r^2                          (1)
+
+Fg =3D Gravitationskraft
+G =3D Gravitationskonstante
+m1, m2 =3D Massen
+r =3D Abstand der Massen
+
+Wenn Du das Verhältnis der Kräfte auf die Erde zwischen Sonne und Mon=
+d=20
+berechnen willst, dann ergibt sich (Bruchrechnen)
+
+Fg_Sonne / Fg_Mond =3D
+(G * m_Sonne * m_Erde / r_Sonne_Erde^2) / (G * m_Mond * m_Erde /=20
+r_Erde_Mond^2) =3D
+m_Sonne * r_Erde_Mond^2 / (m_Mond * r_Sonne_Erde^2)
+
+Da selber rechnen die Einsicht ungemein fördert, lasse ich Dich die=20
+Zahlen einsetzen.
+
+Masse Sonne: 1,989e30 kg
+Masse Mond: 7,35e22 kg
+Abstand Erde-Sonne: 1,496e11 m
+Abstand Erde-Mond: 3,85e8 m
+
+Zur Kontrolle: das Ergebnis sollte rund 179 betragen, das sind meine=20
+"fast 200".
+
+
+Nur haben Dich die Bildchen in Deinem Verständnis nicht weiter gebracht=
+=2E=20
+Ab und zu musst Du eben auch mal was nachrechnen, und zwar nicht mit=20
+frei erfundenen Formeln, sondern so, wie es andere auch tun.
+
+Jetzt kommen wir zu den Gezeiten. Du erinnerst Dich, dass ich behaupte,=20
+dass die Gezeiten aus der Differenz der Gravitationskraft eines=20
+entfernten Körpers auf verschiedene Punkte eines ausgedehnten Körpers=
+=20
+herrührt? Die Ursache eines Flutbergs wäre somit die Differenz der=20
+Gravitationskraft des entfernten Körpers auf den Erdmittelpunkt und dem=
+=20
+Punkt an der Erdoberfläche.
+
+Also rechnen wir. Wir brauchen nur wieder die Gravitationsformel (1). Da =
+
+sich die Gezeitenkraft ergibt, in dem eine Beschleunigung wirkt, können=
+=20
+wir Formel (1) etwas vereinfachen, in dem wir nur die Beschleunigung=20
+betrachten. So müssen wir nicht ständig die Erdmasse mitschleppen, we=
+nn=20
+sie sich am Ende sowieso rauskürzt.
+
+a_g =3D G * m1 / r^2                            (2)
+
+a_g ist die Beschleunigung, die ein Körper im Gravitationsfeld des=20
+Körpers mit der Masse m1 und dem Abstand r erfährt.
+
+Dazu die Zahlenwerte:
+
+Abstand Schwerpunkt Erde - Schwerpunkt Sonne: r_SE_S =3D 1,496e11 m
+Abstand Oberfläche Erde - Schwerpunkt Sonne: r_OE_S =3D 1,49593622e11 m=
+
+Abstand Schwerpunkt Erde - Schwerpunkt Mond: r_SE_M =3D 3,85e8 m
+Abstand Oberfläche Erde - Schwerpunkt Mond: r_OE_M =3D 3,78622e8 m
+
+Bilden wir die Differenz der Beschleunigungen auf den Schwerpunkt und=20
+den Punkt auf der Erdoberfläche ergibt sich:
+
+Für die Gezeitenwirkung des Mondes:
+
+diff_a_Mond =3D G * m_Mond / r_SE_M^2 - G * m_Mond / r_OE_M^2
+             =3D G * m_Mond * (1/r_SE_M^2 - 1/r_OE_M^2)
+
+Für die Gezeitenwirkung der Sonne:
+
+diff_a_Sonne =3D G * m_Sonne / r_SE_S^2 - G * m_Sonne / r_OE_S^2
+              =3D G * m_Sonne * (1/r_SE_S^2 - 1/r_OE_S^2)
+
+Das Verhältnis zwischen beiden ist also:
+
+diff_a_Mond / diff_a_Sonne =3D
+(G * m_Mond *(1/r_SE_M^2 - 1/r_OE_M^2)) / (G * m_Sonne * (1/r_SE_S^2 -=20
+1/r_OE_S^2)) =3D
+
+(Zahlen einsetzen und nachrechnen überlasse ich wieder Dir)
+
+2,22.
+
+Nach dieser Rechnung kommt raus, dass die Gezeitenwirkung des Mondes gut =
+
+doppelt so hoch ist wie die der Sonne, obwohl die Gravitationskraft der=20
+Sonne auf die Erde 179mal so hoch ist wie die des Mondes. Wer hätte das=
+=20
+gedacht? Das kannst Du mit Deinen Bildern vergleichen. Klingelt jetzt=20
+was? Wieso komme ich mit meinen Formeln zu sehr gut passenden Werten und =
+
+Du mit Deinen nicht?
+
+
+Ich kann Dir erklären, dass Du mit diesem Bild herumgedoktort hast. Das=
+=20
+richtige Bild sieht nämlich so aus:
+http://dzxiaf.nclp.dpfr.yly/nnzx/fn820967.phxs
+
+Du hast Dich bemüht, die Hintergrundgalaxie rauszuretuschieren, aber=20
+durch frühere Postings wusste ich schon, um welche Galaxien es sich=20
+handelt. Wie andere Dir bereits geschrieben haben, handelt es sich dabei =
+
+um die zufällig hintereinander liegenden Galaxien NGC 6573 D und B, die=
+=20
+sich 25 Millionen Lichtjahre voneinander entfernt befinden. Die haben=20
+also nichts miteinander zu tun, ausser dass sie sich zufällig in der=20
+gleichen Sichtlinie befinden. Das soll gelegentlich auch bei Bäumen=20
+vorkommen.
+
+
+Es könnte sein, dass Du etwas auf Biegen und Brechen=20
+hineininterpretieren willst, das gar nicht da ist, und das Du deshalb=20
+mit den Mitteln der Bildmanipulation versuchst zu erreichen. Das ist=20
+traurig.
+
+Stephan

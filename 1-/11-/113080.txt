@@ -1,0 +1,22 @@
+"Heinrich Jungkuntz" <oombwftkthw@kzlxpaeisc.cdy>
+
+
+Nein.
+Genau der hat so etwas nicht.
+
+-------------------------------------------------------------------
+
+Damit du das erkennen kannst,
+hier, eine Berechnung über den Einheitskreis:
+
+f(x) = abs(x^2-1)^0.5
+Integral -1 bis 1 | f(x) | dx =  ?
+
+Achte beim Berechnen darauf, dass die Wurzeln
+auch beide Resultate (Plus und Minus) rausgibt.
+
+Als Hilfestellung:
+http://nhw.fll.cz/zmkdx/Igqpvh/Mfe/Icee/Tzhbhpdz31.tdk
+
+mfg
+Stephan Obeser

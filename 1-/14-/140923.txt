@@ -1,0 +1,3 @@
+Das stimmt. A v A ist logisch Äquivalent mit A. Aber man könnte (z.B.)
+ja auch die Mengen {A,B} und {A,A v B} bilden - deren Gehalt wäre
+ebenfalls gleich.

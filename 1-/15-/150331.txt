@@ -1,0 +1,45 @@
+Nein: Es müsste 0*1 = 0 und 1*0 = 0 sein, und dies ist auch der Fall.
+Nur leider geht dies mit jeder anderen reellen Zahl genauso.
+Also ist 0/0 = 4, 0/0 = 7, 0/0 = pi, 0/0 = wurzel(2), etc.
+Die Berechnung von 0/0 ist also nicht eindeutig,
+und auch mit Grenzwertbetrachtungen lässt sich nichts
+retten: Division zweier Nullfolgen kann alles mögliche
+als Grenzwert der Quotientenfolge ergeben, von
+-oo über 0 bis +oo.
+
+
+Du hast gerechnet:
+
+      () geteilt () gleich (....).
+
+
+Richtig.
+
+
+Das ist immer richtig. Ebenso aber auch
+ ()           mal (...)        gleich ()
+ ()           mal (..)         gleich ()
+ ()           mal (..........) gleich ().
+ (...)        mal ()           gleich ()
+ (..)         mal ()           gleich ()
+ (..........) mal ()           gleich ()
+
+
+Wie oben schon gesagt, ist diese Operation nicht
+eindeutig. Es würde also auch gelten:
+
+ () geteilt () gleich (...)
+ () geteilt () gleich (..)
+ () geteilt () gleich (..........)
+
+Damit müsste gelten:
+
+    () gleich (...) gleich (..) gleich (..........)
+
+Ist dies in deinem Sinne?
+
+
+Woher wissen wir denn, ob ein Stein dalag?
+Woher wissen wir, wieviele Steine dalagen?
+
+Niels

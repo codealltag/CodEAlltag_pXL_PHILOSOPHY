@@ -1,0 +1,52 @@
+Hallo Gregor,
+
+
+Klar. Meine Darlegung sollte zeigen, dass es diese Ableitung gar nicht
+geben kann.
+
+
+"Berechnung" ist hier im Sinne einer mechanisch abarbeitbaren Folge
+logischer Schlüsse gemeint.
+
+
+Kontext beachten! Es ging los "angenommen, wir könnten es" und man
+kommt zu einem Widerspruch (... weil ja dann die Aussage entschieden
+wäre) Also können wir es nicht -- und zwar nicht aufgrund unseres
+begrenzten Vermögens, sondern aufgrund der inneren Logik des
+Problems. "Wir können nicht finden" ist in diesem Sinne
+gleichbedeutend mit "gibt es nicht".
+
+
+"Nicht beweisbar und nicht widerlegbar" war wohl gemeint. So hatte ich
+es zumindest verstanden.
+
+
+Ich habe den Kontext einfach weggelassen; normalerweise würde man "für
+jede natürliche Zahl" oder "für alle natürlichen Zahlen" schreiben.
+
+
+Das würde man eher so formulieren: Als Zahlen betrachte ich im Folgenden
+*alle* natürlichen Zahlen, die Teiler einer anderen Zahl sein können.
+
+Oder: Unter einer Zahl verstehe ich im Folgenden *jede* natürliche
+Zahl, die Teiler einer anderen Zahl sein kann.
+
+
+Das würde man in der Mathematik auch eher explizit schreiben: Eine
+Menge M nenne ich Zahlenmenge und ihre Elemente Zahlen, wenn 
+
+1. sie bezüglich der Operation / die Eigenschaft haben, dass es für
+jedes Element (bzw. für alle Elemente) a ein Element b gibt, sodass
+b/a wieder Element von M ist
+
+2. es ein Nullelement 0 gibt, sodass für jedes Element (bzw. für alle
+Elemente) a gilt: 0/a = 0.
+
+o.�. (bin kein Mathematiker). Gerade in der Mathematik wird man
+uneindeutige Sätze vermeiden und insbesondere *davorschreiben*, ob es
+sich um einen normativen Satz (Definition), um ein unbeweisbares Axiom
+oder um eine zu beweisende These geht.
+
+Viele Größe
+
+Cornelius

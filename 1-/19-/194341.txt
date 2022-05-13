@@ -1,0 +1,32 @@
+Nico Wohlrapp <kgl.fpos@zem.nr> schrieb im Beitrag
+<54x9m1ut.649290361@kcfx.yhix.rj>...
+Jaja :).
+
+Es ist Nacht, also ganz kurz: Kaspar behauptet, Laurent koenne den Vorsprung
+der Schildkroete niemals einholen, weil sie sich ja immer, wahrend er ihren
+Vorsprung wettmacht, schon wieder ein  Stueckchen weiterbewegt habe.
+
+Dagegen ist rein logisch eigentlich nichts zu machen, außer mit Infinitesimal-
+Mathematik und der Konvergenz unendlicher Reihen.
+
+Der Einfachheit und Kuerze halber nehme ich jetzt also mal an, daß Laurent
+unendlich viele Wegstücke dx auf dem Weg X zurücklegen muß, und für jedes
+dieser Wegstücke eine nichtverschwindende Zeit von mindestens dt braucht.
+Dann ist die Zeit, die er dafür benötigt dt*(X/dx) = unendlich. Man könnte auch
+sagen, X/dx nicht definiert, weil dx unendlich klein.
+Nur mit dem Trick,  dx _und_ dt unendlich klein werden zu lassen,
+kommen wir per Infinitesimalrechnung zu einer endlichen Zeit Integral(dt).
+
+Die Realität sieht aber anders aus: "unendlich klein" führt zu Paradoxien (z.B.
+"Schwarze Löcher").
+
+Nehmen wir nun den Raum als granuliert an (ginge z.B. mit der Theorie
+der Quantengravitation von Vinzenz Neuhofer), so gibt es eine kleinste Distanz
+dx von vermutlich der Planck-Länge. Gleichförmige Bewegungen erfolgen
+dann so, daß sich ein Teilchen nach einer endlichen Aufenthaltszeit dt
+scheinbar weiterbewegt um dx (es taucht dort neu auf, und verschwindet
+dafür an der alten Stelle). Die Zeit, die Laurent für X braucht, ist dann
+einfach dt*X/dx = endlich.
+
+Gruß,
+Franz=hg

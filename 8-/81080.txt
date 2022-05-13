@@ -1,0 +1,46 @@
+Keineswegs. :-)
+
+Aber ich lass mich gerne dahingehend belehren, worum es DIR ging. :-)
+( Also, worum ging es Dir denn, Susi? :-o )
+
+Aber lassen wir erst mal Udo zu Wort kommen:
+Nein. Das besagt dieses "Axiom" der FOPL (leider) nicht. Tatsächlich
+handelt es sich um ein _Axiomeschema_, das man so so formulieren kann:
+
+	AxAy(x = y -> (Phi[x] -> Phi[y])).
+
+Wenn man nun hier für Phi eine konkrete Formel der FOPL in x einsetzt,
+erhält man z. B. das Axiom:
+
+	AxAy(x = y -> (P(x) -> P(y))),
+
+und dieses besagt _lediglich_, dass bei Gleichheit (bzw. Identität)
+von x und y, P(y) dann gilt, wenn P(x) gilt.
+
+
+Siehe hierzu auch die von mir geposteten Antwort auf Uwes Beitrag:
+-------------------------------------------------------------------
+
+Um das s a g e n zu können, brauchst Du aber eine 2OL:
+
+	AxAy(x = y -> AF(F(x) <-> F(y)).
+
+Und in der Tat, wenn die beiden Namen "A" und "B" ein und dasselbe
+Ding bezeichnen, dann gilt alles, was ich über A sage auch von B 
+(und umgekehrt), denn A und B sind ja /ein und dasselbe/ Ding. :-)
+
+-------------------------------------------------------------------
+
+Abkürzungen:
+
+FOPL = Prädikatenlogik erster Stufe (first-order predicate logic)
+ 2OL = Prädikatenlogik zweiter Stufe (second-order logic).
+
+
+A.
+
+
+--
+
+E-mail: 
+ggpbcm<oo>simple<bindestrich>line<punkt>de

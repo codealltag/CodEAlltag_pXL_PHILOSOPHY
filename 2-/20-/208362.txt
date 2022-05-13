@@ -1,0 +1,62 @@
+In article <3blbhi$e8g@sphh72.mqbjxalofd.blq-olznhtpaf.kg>  
+ygphuk@hqoccyjcsu.klg-mbdufesif.op (Wwisa Goosmann) writes:
+
+[...]
+
+Solange ich mich innerhalb der Mathematik bewege, ist diese Wahrschein-
+lichkeitsdefinition natuerlich widerspruchsfrei und pflegeleicht. Das
+wird allerdings bezahlt durch voellige Abstraktion von der Realitaet.
+
+Betrachten wir nochmal die Aussage von Ronald Uebelhör:
+
+	A2: (Ronald Uebelhör)
+	Ereignisse mit der Wahrscheinlichkeit 0 koennen eintreten.
+
+Da Ereignisse eintreten koennen, und ich die Wahrscheinlichkeit eines
+Ereignisses axiomatisch zu Null festlegen kann, kann ich natuerlich auch
+einem Ereignis, das eingetreten ist, die Wahrscheinlichkeit 0 zuweisen,
+und siehe da... schon ist ein Ereignis mit der Wahrscheinlichkeit Null 
+eingetreten. Das kann ich auch machen mit Ereignissen, die bisher
+5.000.000 mal in der Stunde eingetreten sind. Ebenso kann diesen aber na-
+tuerlich auch sonst irgendeinen Wert aus dem Intervall [0..1] zuweisen
+- wie es mir gefaellt. Wenn ich so eine Zuweisung ohne Beobachtung der
+Realitaet vornehme ist sie voellig willkuerlich.
+
+Der einzige Zugang zur experimentellen Bestimmung der Wahrscheinlich-
+keit eines Ereignisses ist dessen relative Haeufigkeit. Das ist
+natuerlich nur eine Approximation der tatsaechlichen Wahrschein-
+lichkeit, aber es ist die einzige Moeglichkeit, die wir haben. Ein
+einmal beobachtetes reales Nullwahrscheinlichkeitsereignis, darf
+nach einem beliebigen Zeitpunkt nie wieder auftreten, und das Uni-
+versum muss zeitlich unendlich sein. Meiner Meinung nach sind ent-
+weder diese Ereignisse oder aber deren Nullwahrscheinlichkeit prak-
+tisch gesehen irrelevant und ich werde noch einmal versuchen dar-
+zulegen warum.
+
+Meine Gegenthese zu A2 war:
+
+	A1: (Charly Flöther)
+	Ereignisse mit der Wahrscheinlichkeit 0 koennen nicht
+	beobachtet werden.
+
+Auch dies ist keine mathematische sondern eine erkenntnistheoretische
+Aussage. Ich gebe zu, dass sie allenfalls vom subjektivistischen Stand-
+punkt aus in dieser Form haltbar ist. Um sie vom objektivistischen 
+Standpunkt und unter Voraussetzung der Unendlichkeit des Universums
+gueltig zu machen, moechte ich sie so umformulieren:
+
+	A1': Von Ereignisse, die wir beobachten koennen, werden wir
+	nie Grund haben anzunehmen, dass sie die Wahrscheinlichkeit
+	Null haben.
+
+Mit anderen Worten: Ereignisse mit der Wahrscheinlichkeit 0 werden ent-
+weder nie beobachtet, oder wenn sie beobachtet werden, koennen wir sie
+nicht mehr als ein Nullwahrscheinlichkeitsereignis behandeln, da wir
+auf die Verwendung der relativen Haeufigkeit als Naeherung der Wahr-
+scheinlichkeit aus Beobachtung angewiesen sind und der Beobachtungs-
+zeitraum endlich ist. Damit sind Ereignisse mit der Wahrscheinlichkeit
+Null und damit auch A2 irrelevant.
+
+Gruss,
+
+	Charly.

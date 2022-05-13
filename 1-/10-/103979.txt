@@ -1,0 +1,5 @@
+Dass in deinem Header charset=utf-8 steht, Umlaute aber nur korrekt 
+angezeigt werden wenn man von Hand auf ISO-8859-15 o.�. umstellt, also 
+dein angegebenes /charset/ nicht mit dem verwendeten übereinstimmt.
+Gruß
+Nico

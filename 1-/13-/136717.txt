@@ -1,0 +1,202 @@
+Aber Zangers Standpunkt ueberzeugt mich auch nicht. In der ersten Abhand-
+lung in WuI schreibt er z.B.:
+
+(1)  "Wenn wir die Bedeutung jedes Satzes als funktional abhaengig betrachten
+     von einer endlichen Anzahl von Merkmalen dieses Satzes, gelangen wir
+     nicht nur zu einer Einsicht in das zu Lernende, sondern verstehen auch,
+     wie es gelingen kann, ein undendliches Vermoegen durch endliche 
+     Leistungen in den Griff zu bekommen."
+
+Das ist ok, da ich den Satz so verstehe: 
+
+(1') Fuer alle S gibt es eine endliche Menge von Merkmalen, die die 
+     Bedeutung von S so bestimmt, dass ich S verstehe.
+
+Paradebeispiele sind ja die formalen Sprachen, die in der Modell-
+theorie untersucht werden.
+
+Aber:
+
+(2)  "Denn angenommen, eine Sprache besitzt dieses Merkmal nicht, dann
+     kann ein etwaiger Sprecher noch so viele Saetze aeussern und verstehen
+     lernen, stets werden andere Saetze uebrig bleiben, deren Bedeutungen
+     nicht durch die bereits beherrschten Regeln gegeben sind."
+
+Ich bin damit nur zum Teil einverstanden, naemlich in dem Sinne als das
+man sich in einem Kontext bewegt. Es werden, weil es im Prinzip unendlich
+viele Kontexte gibt (oder wenn du willst unendlich viele Theorien) sowieso
+immer Saetze uebrig bleiben, die deshalb nicht sofort zu verstehen sind,
+weil zum einen die Regeln nicht ausreichen und zum anderen die /einfachen
+semantischen/ Ausdruecke in anderen Kontexten von einem Lernenden noch nicht
+erfasst sind. Man kann nicht davon ausgehen, dass verschiedene Kontexte
+(oder Theorien) kommensurabel sind.
+
+Ich hatte dieses Einverstaendnis schon geaeussert hinsichtlich von 
+Situationen, in denen man sich zurechtfinden muss, wobei aber immer
+der Massstab des bisher Erlernten angelegt wird.
+
+Mein Kritik geht dahin, dass man in neuen Kontexten nicht so ohne weiteres
+mit einer W'theorie weiterkommt, ohne vorher die Bedeutung der Saetze in
+einem /fremden/ Kontext erfasst zu haben. Und hier komme ich wieder auf
+die Orientierung zurueck. Man muss schauen, wie Woerter in einem neuen
+Kontext gebraucht werden und erst dann kann man eine W`theorie entwickeln.
+
+Zanger schreibt weiter dazu:
+
+(3)  "Eine lernbare Sprache enthaelt eine endliche Anzahl /semantisch 
+     einfacher/ Ausdruecke."
+
+Dazu muss man noch sagen, was Zanger mit /semantisch einfach/ meint:
+
+(4)  "Ein Ausdruck heisst /semantisch einfach/, sofern die Regeln, welche
+      die Bedeutung der Saetze angeben, indenen er nicht vorkommt, nicht
+      ausreichen, um die Bedeutung derjenigen Saetze zu bestimmen, in denen
+      er vorkommt."
+
+Aber (3) sagt damit, dass: Es gibt eine endliche Anzahl von Merkmalen
+(zuzueglich /struktureller Beschreibungen/ (kann es davon undendlich 
+viele geben?)), die jeden Satz in der Sprache Bedeutung verleiht (denn
+dann ist sie auch lernbar.)
+
+(1') sagt, dass es fuer jeden Satz endliche viele Merkmale gibt.
+
+Die beiden Saetze sind nicht aequivalent. Eine W`theorie, die eine
+Bedeutungstheorie fuer eine Sprache sein soll, kann nicht nur
+an endlich vielen /semantisch einfachen/ Ausdruecken und auch nicht an 
+endlich vielen Regeln festgemacht werden, und wir muessen uns um die 
+/strukturellen Beschreibungen/ kuemmern.
+
+Meine Frage ist die: Wie kann eine W'theorie etwas ueber einen neuen
+Kontext sagen, wenn man nicht weiss, was die /strukturellen Beschreibungen/
+der Teile in einem Satz in einem Kontext bedeuten? Wenn es im Prinzip
+unendlich viele Kontexte gibt, dann kann es auch unendlich viele
+/strukturelle Beschreibungen/ geben, und wenn diese nicht uninterpretiert
+sein wollen, dann haetten wir Zangers "Zitatbeispiel", nach dem eine
+Sprache nicht lernbar ist.
+
+Zanger muss auch die strukturellen Beschreibungen irgendwie eleminieren,
+wenn er seine These stuetzen will. Allerdings haben wir es dann wieder,
+nach (3), mit einer endlichen Anzal /einfacher semantsicher/ Ausdruecke
+zu tun, und weil es im Prinzip unendlich viele Kontexte gibt funktioniert
+das dann nicht.
+
+
+Man kann es sogar drastisch so sagen: Fuer jeden Sprecher ist die Sprache
+des anderen eine Objektsprache, die es zu interpretieren gilt. Aber: Damit
+wir interpretieren koennen, muessen wir ein rudimentaeres Verstaendnis einer
+gemeinsamen Sprache haben, und dieses kann schwerlich durch eine W'theorie
+kommen, denn das setzt schon Wissen um die Bedeutung von Handlungen und den
+damit verbunden Sprechakten voraus.
+
+
+Immerhin ist das ja schon ein Anfang.
+
+Also, ich bin ja garnicht darauf aus, dass ein Kind keine Theorien ent-
+wickeln koennte, aber das Erlernen der Bedeutung von Woerten in neuen
+Kontexten, vor allem hinsichtlich /einfacher semantischer/ Ausdruecke
+wird es durch den Gebrauch der Woerter der Erwachsenen lernen.
+
+Ein Beispiel: Letztens besuchte ich einen Freund. Sein kleiner Sohn
+riss einige Grashalme aus dem Garten, brachte sie mir und sagte stolz:
+"Blume".
+
+Nunja, es ist ganz klar, er hat das "pfluecken" von irgendwas aus dem
+Garten, fuer eine Blume gehalten, weil er nichts anderes kannte. Die
+Wahrheitsbedingungen sind klar. Aber wie lernt nun der Kleine "Gras" von
+"Blume" zu unterscheiden? Wenn man ihn alleine laesst, dann wird er immer
+wieder zu Gras Blume sagen. Im Grunde muss er einen neuen einfachen
+semantischen Ausdruck lernen. Nur wird er das mit seinem bisherigen Wissen
+nicht /alleine/ koennen. Er muss schauen, dass Gras etwas anderes bedeutet
+als Blume, und das wird er antrainiert bekommen, wenn man es ihm oft genug
+sagt. Und wenn der Kleine es richtig macht, dann wird man ihn loben.
+
+
+Nachahmung und dann gebrauchen. Wir denken eben /so/. Jaja, nun hoere ich
+es wieder, der Litterscheid. Aber ich denke wirklich, dass man hier nicht
+weiterkommen kann und deshalb schon Tractatus 7 anwenden sollte. (Wobei
+Tractatus 6.irgendwo immerhin noch sagt: Es ist ja ganz schoen, dass
+wir mal darueber gesprochen haben, aber nun ist gut. Naja, Litterscheid
+hat ja die Metapher mit der Leiter gebraucht.)
+
+Apropos Litterscheid: Irgendwie ist es schon merkwuerdig, dass er sich
+soviele Gedanken ueber die Sprache macht; womoeglich hat er die Leiter
+zeit seines Lebens nie wegwerfen koennen, quasie ein Wunsch zu verstehen und
+am Ende doch einzusehen, das man nicht verstehen kann. Auf jeden Fall finde
+ich seinen "Leitersatz" wirklich bemerkenswert am ganzen Tractatus.
+Das so nebenbei.
+
+
+Zanger spricht nicht von Abstraktion; ich tue es!
+
+
+Nein! Das ist ja gerade das Problem. Geltung hat eine Entwicklung.
+Nun wirst du mir sagen, dass die Erde eine Kugel ist, ist ja
+nicht gerade eine Entwicklung (wobei man vielleicht sagen koennte,
+dass sie vor Millionen von Jahren tatsaechlich flach war, quasie
+die ganzen Gase und irgendwelche anderen Teile, die in einer Ebene
+rotierten.). Aber gut. Es gab Zeiten, da meinte man, die Erde sei
+Flach und schliesslich meinen wir, die Erde sei eine Kugel.
+
+Mit Genesis der Geltung meine ich, dass ein Kind erst lernen muss, was
+"Geltung" bedeutet. Was Geltung oder eben auch Wahrheit bedeutet muss
+ein Kind auch erst erlernen und das ist tatsaechlich Genesis.
+Wenn du genau ueberlegst, ist das doch gerade unser Streitpunkt. Ich sage,
+dass Geltung von Bedeutung abhaengig ist, und du sagst, dass Bedeutung von
+Geltung abhaengig sei.
+
+
+Ja und nein! Wenn ein Kind rudimentaere Sprachkenntnis erworben hat, dann
+ist es in der Lage die (zum-Teil-Fremd)Sprache eines anderen so zu ueber-
+setzen, wie es in /seinen/ Kontext passt. Anderseits passiert es, dass
+die Theorien des Kindes bei neuen Kontexten versagen, weil sie zu dem
+Zeitpunkt inkommensurabel (fuer die Sprache des Kindes) sind.
+
+
+Ich glaube nicht, dass man beides voneinander trennen kann. Das "Wie" und
+das "Wissen" und die "Bedeutung=Gebrauch" haengen so eng miteinander 
+zusammen, dass die Antworten sich immer schneiden werden. Wie sagte doch
+Köhlerschmidt so schoen ueber singulaere und allgemeine Termini im Spracherwerb sinn-
+gemaess? "Das Kind meistert [...] dieses in einer einzigen Kletterpartie"
+(WuO) Und Individuation ist Wissen von der Verschiedenheit und das ist wie-
+derum Wissen vom verschiedenen Gebrauch der Woerter in einem Kontext und
+das ist wiederum das Wissen /wie/ die Struktur der Syntax ist.
+
+
+Nun, da bin ich noch nicht angelangt. Ich habe mir WuI endlich(!) besorgt
+und bin erst in der zweiten Abhandlung.
+
+
+Ja!
+
+
+Dabei laesst du aber den Sprachholismus ausser acht. "Liebe" hat
+nur im Zusammenhang einer Sprache eine Bedeutung. Ein Kind wird
+in seiner Umgebung schon lernen was "Liebe" bedeutet. Es wird es
+fast so lernen wie es lernt "Gras" von "Blume" zu unterscheiden.
+
+
+Es ist in einem /bestimmten/(!) Kontext aufgewachsen.
+
+
+Nein, sowas sage ich nicht, aber ich tue es, wenn ich zunaechst nicht weiss,
+was Sache ist. Ich spiele mit den Saetzen bis ich zu einem Ergebnis komme
+(oder eben nicht :(). Aber ist das nicht immer so? Wenn ich etwas
+beweisen will, spiele ich dann nicht (mein Wissen aus)?
+
+
+Ok. In diesem Punkt kann ich dir recht geben. Deshalb muss ich sagen, dass
+ein Wort falsch gebraucht wird, wenn es nicht in einen Kontext passt,
+worueber die Regulars entscheiden.
+
+Und wenn so ein "Revolutionaer" dennoch Woerter weiter so gebraucht, dann
+muss man halt abwarten, ob sich das so durchsaetzt. Ein "falsch" gebrauchtes
+Wort ist vergleichbar mit einem "nicht-normalen" Diskurs. Es kann sein,
+das solche Woerter dann irgendwann sogar eine andere Bedeutung bekommen,
+und dann haetten wir unter Umstaenden einen neuen Kontext!
+
+
+Ich behaupte das.
+
+
+Gruss, Christoph.
+--

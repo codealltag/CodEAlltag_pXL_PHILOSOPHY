@@ -1,0 +1,73 @@
+Hallo!
+
+Ein eher spielerischer Ansatz (denn der klärt nichts):
+
+Seien O1, O2 zwei zu vergleichende Objekte von gleicher Art (Aussagen, 
+Dinge, abstrakte Denkkonstrukte, ...).
+Oj (j=1,2) besitzt Eigenschaften. Es können mitunter unendlich viele sein, 
+aber man gewichte die Eigenschaften und nehme von mir aus die ersten n=10.
+Also haben wir Eigenschaften Ei(Oj).
+Einige Eigenschaften von O1 und O2 können gleich sein (wenn wir zwei Objekte 
+vergleichen, dann sollten sie schon irgendwelche gemeinsame Eigenschaften 
+haben).
+
+Jetzt bilden wir 3 Mengen:
+S sei diejenige Menge, die die Eigenschaften von O1, O2 enthält, die beiden 
+eigen sind. (S für "Schnitt")
+Rj sei die Menge derjenigen Eigenschaften von Oj, die nicht zu S gehören.
+S, R1, R2 sind disjunkt.
+
+Falls S leer ist, ist der Vergleich von O1, O2 unendlich weit hergeholt ;-)
+Falls Rj leer sind, dann ist der Vergleich von O1, O2 nicht weit hergeholt 
+("entschieden guter Vergleich")
+
+
+Was nun tun, wenn weder S noch Rj leer sind?
+Mein Vorschlag: Wir haben ja schon am Anfang eine Gewichtung der 10 
+Eigenschaften vorgenommen.
+
+
+a) Vereinfachtes Modell:
+Die i-te Eigenschaft von Oj bekomme einen Wichtwert Wi,j von 1 bis 10 
+zugeordnet (nach Wichtung, 10 am wichtigsten, 1 am weniger wichtigsten).
+Jeder Eigenschaft Ei(Oj) ist so ein Wichtwert Wi,j zugeordnet.
+Jetzt können wir über die Gewichte summieren.
+Große Summen bedeuten demnach viele oder wichtige Eigenschaften, kleine 
+summen entweder wenige wichtige oder viele unwichtige Eigenschaften.
+
+Summieren wir nun die Wichtwerte, so muss sich ergeben, dass der VERGLEICH
+GUT ist, wenn Summe aus S ist größer als je eine Summe über die Wichtwerte 
+der Eigenschaften aus Rj ist.
+SCHLECHT ist, ... kleiner ...
+(Dann gibt es noch son Mittelding, wenn das gleich sein sollte, in dem Falle 
+nehme man n=11 Eigenschaften. Wenn immer noch unentschieden, dann n=12 usw.)
+
+b) Besseres Modell:
+Beispiel, warum a) nicht so gut ist:
+Seien O1, O2 zwei Objekte mit Eigenschaften Ei(Oj), j=1,2, i=1,2,3.
+Dann kann es sein, dass für O1 gilt: Die Wichtigkeit der Eigenschaft 3 ist 
+enorm und die der Eigenschaften 1 und 2 gering. Dann ist die Modellierung in 
+a) schlecht, weil dort ja "Gleichstufigkeit" angenommen wird.
+--> Besseres Modell: Die Wichungen Wi,j werden noch zusätzlich durch 
+Vorkoeffizienten ki,j gewichtet:
+Dabei muss gelten: 1  =<   ki,j  =<  1+eps.
+- Dabei ist eps so zu wählen, dass Wi,j den Wert für Wi+1,j nicht 
+überschreitet (sonst hätten wir die Wichtungen ja umgeornet).
+- Ausserdem ist zu sichern, dass Wn,j = 1  (d.h. letzte Wichtung ist 1) und 
+W1,j = n (d.h. erste Wichtung maximal).
+- Und weiterhin ist zu sichern, dass Summe über alle Wichtungen gleich der 
+Summe aller Zahlen von 1 bis n ist.
+(über den Sinn dieser Vereinbarungen oder über weitere Vereinbarungen lässt 
+sich reden).
+Das Kriterium bleibt auch hier das gleiche:
+
+Summieren wir nun die Wichtwerte, so muss sich ergeben, dass der VERGLEICH
+GUT ist, wenn Summe aus S ist größer als je eine Summe über die Wichtwerte 
+der Eigenschaften aus Rj ist.
+SCHLECHT ist, ... kleiner ...
+(Dann gibt es noch son Mittelding, wenn das gleich sein sollte, in dem Falle 
+nehme man n=11 Eigenschaften. Wenn immer noch unentschieden, dann n=12 usw.)
+
+
+Liebe Größe und sorry für diesen Mist hier :-D
+Ute

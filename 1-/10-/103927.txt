@@ -1,0 +1,198 @@
+On Fri, 28 Jul 2004 16:51:39 +0200, leon <ukeriii@zslqyk.km> wrote:
+
+Ahh... jetzt wird so manches klarer. :-)
+
+
+Dann sind die Grundkonnektive lediglich
+
+	~ und &
+
+Ja. Warum nicht? Das ist m.E. ein "schöner" Ansatz - den man auch
+"philosophisch" recht gut begründen kann... (Ich hatte mir selbst schon
+mal so ein System überlegt... In der Tat: ~ und & sind eine gute Wahl.)
+
+Die beiden anderen Konnektive, v und ->, kann man dann ja einfach
+definieren:
+
+	 A v B =df ~(~A & ~B)	(Def. v)
+	A -> B =df ~(A & ~B)	(Def. ->)
+
+Als nächste zeigt man dann, dass mit den so definieren Konnektiven
+folgende (abgeleitete) Regeln gelten:
+
+	vI	vE
+	CP	MPP
+
+Damit hat man ein "vollständiges" System das natürlichen Schließens für
+die Aussagenlogik.
+
+
+Nun zu den "Ableitungen" dieser Regeln:
+
+vI
+	1. A             A
+	2. | ~A & ~B     A
+	3. | ~A          2 &E
+	4. | A & ~A      1,3 &I
+	5. ~(~A & ~B)    2,4 RAA
+	6. A v B         5 Def. v
+
+	Also: A |- A v B
+
+	Bzw. A v B
+	     -----
+	       A
+
+	1. B             A
+	2. | ~A & ~B     A
+	3. | ~B          2 &E
+	4. | B & ~B      1,3 &I
+	5. ~(~A & ~B)    2,4 RAA
+	6. A v B         5 Def. v
+
+	Also: B |- A v B
+
+	Bzw. A v B
+	     -----
+	       B
+
+CP (->I)
+
+	Angenommen es gibt einen Beweis der Form
+
+		[A]    (Annahme)
+	         :
+	         B
+
+	Dann können wir folgenden Beweis hinschrieben:
+
+	1.  | ~(A -> B)     A
+	2.  | ~~(A & ~B)    1 Def. ->
+	3.  | A & ~B        2 DN
+	4.  | A             3 &E
+              :            } wird als gegeben voraus-
+	n.  | B              gesetzt (siehe oben)
+       n+1. | ~B            3 &E
+       n+2. | B & ~B        n,n+1 &I
+       n+3. ~~(A -> B)      1,n+2 RAA
+       n+4. A -> B          n+3 DN
+
+	Also:  [A]
+	        :
+	        B
+	      ------
+	      A -> B
+
+	wobei A "gelöscht" wird.
+
+MPP (->E)
+
+	1. A -> B                    A
+	2. A                         A
+	3. ~(A & ~B)                 1 Def. ->
+	4. | ~B                      A
+	5. | A & ~B                  2,4 &I
+	6. | (A & ~B) & ~(A & ~B)    3,5 &I
+	7. ~~B                       4,6 RAA
+	8. B                         7 DN
+
+	Also: A -> B, A |- B
+
+	Bzw. 	A -> B  A
+	        ---------
+	            B
+
+vE
+	Angenommen es gibt zwei Beweise der Form
+
+		[A]    (Annahme)
+	         :
+	         C
+	und
+		[B]    (Annahme)
+	         :
+	         C
+
+	Dann würde ja auch gelten:
+
+		... |- A -> C	(wegen CP)
+	und
+		... |- B -> C	(wegen CP)
+
+	Und wir können folgenden Beweis hinschrieben:
+
+	1.  A v B     	    A
+	2.  | ~C            A
+	3.  | A -> C        siehe oben
+	4.  | | A           A
+        5.  | | C           3,4 MPP
+	6.  | | C & ~C      2,5 &I
+	7   | ~A            4,6 RAA
+	8.  | B -> C        siehe oben
+	9.  | | B           A
+        10. | | C           8,9 MPP
+	11. | | C & ~C      2,10 &I
+	12. | ~B            9,11 RAA
+	13. | ~A & ~B       7,12 &I
+	14. | ~(~A & ~B)    1 Def. v
+	15. | (~A & ~B) & ~(~A & ~B) 13,14 &I
+	16. ~~C             2,15 RAA
+	17. C               16 DN
+
+	Also:          [A]  [B]
+	                :    :
+	       A v B    C    C
+	       ---------------
+	              C
+
+	wobei A und B jeweils "gelöscht" werden.
+
+Wie zu zeigen war. (Ich habe die Beweisführung ein wenig vereinfacht,
+indem ich nicht detailiert auf die Annahmen bzw. Abhängigkeiten der
+Konklusionen von denselben eingegangen bin - eine rein technische
+Angelegenheit. Die man natürlich bei _strengen_ Beweisen ausführen
+müsste.)
+
+
+Damit hätten wir nun folgende Konnektive in unserem System:
+
+	~, &, v, ->
+
+und folgende Regeln:
+
+	- Annahme		 A
+
+	- und-Introduktion	 &I
+	- und-Elimination        &E
+
+	- oder-Introduktion      vI
+	- oder-Elimination       vE
+
+	- Conditional Proof      CP  (->I)
+	- Modus Ponendo Ponens   MPP (->E)
+
+	- Reductio Ad Absurdum   RAA  (~I)
+	- Doppelte Negation	 DN  (~~E)
+
+
+Gruß,
+F.
+
+
+P.S.
+Weshalb man gerade *diese* und keine anderen Definitionen für v und ->
+verwendet, ist eine andere Frage. 
+
+Man kann das allerdings mit Hilfe der Wahrheitstafel, wie man sie
+üblicherweise für ~, &, v, -> definiert, *plausibel* machen.
+
+Es gilt jeweils
+
+	 A v B Äquiv. ~(~A & ~B)
+und
+	A -> B Äquiv. ~(A & ~B)
+
+Und einfachere Äquivalenzen (wo also jeweils A v B und A -> B einem
+Ausdruck Äquivalent ist, der nur die Konnektive ~ und & enthält, neben A
+und B natürlich, gibt es nicht. Man kann das durch reines "ausprobieren"
+nachweisen.) Schließlich kann man "Occam's Razor" zur Anwendung bringen.

@@ -1,0 +1,30 @@
+Und wieso hat der Tag, an dem der allerletzte Mensch stirbt,
+kein Datum?
+
+
+Vereinfacht gesagt ist Falsifikation die Suche nach einem Gegenbeispiel.
+
+Aussagen der Art
+        "Für alle x gilt y"
+sind logisch gleichwertig zu
+        "Es gibt kein x, für das nicht y gilt."
+Findet man daher ein solches x, hat man die ursprüngliche All-Aussage
+widerlegt.
+
+Die Aussage 
+        "Jeder Mensch muss sterben"
+lässt sich umformulieren zu
+        "Für alle Menschen gilt, dass sie sterblich sind."
+und dies ist logisch gleichwertig zu
+        "Es gibt keinen Menschen, der nicht sterblich ist."
+Findet man so einen Menschen, dann ist die ursprüngliche
+Aussage "Jeder Mensch muss sterben" widerlegt.
+
+Die Aussage, dass jemand nie stirbt, ist *nicht* logisch gleichwertig
+zu "Jeder Mensch muss sterben". Wenn du dich nicht an die Vorgehensweise
+hältst, sagt dein Misserfolg nichts über die Vorgehensweise aus.
+
+
+If all else fails, read the manual.
+
+--

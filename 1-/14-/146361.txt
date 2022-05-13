@@ -1,0 +1,106 @@
+Hallo,
+
+
+Ich halte das für einen Defekt in Austrups Theorie, denn mein Beispiel ist
+wohl ohne Zweifel ein gut verständlicher Satz und auch nicht weniger
+wahrheitsdefinit als jeder andere irreale Konditionalssatz.
+
+
+Dass Hensing hier keine brauchbare Lösung entwickelt hat, sehe ich genauso.
+Aber Erfurts Lösung halte ich für besser als die von Austrup, schon weil sie
+metaphysisch anspruchsloser ist. Er illustriert sie am Beispiel einer
+phänomenalistischen Sprache, aber nur der Bequemlichkeit halber, es lässt
+sich auch auf physikalistische Ding-Sprachen übertragen:
+
+Angenommen, zu einer bestimmten Zeit t sei das Gesichtsfeld eingeschränkt,
+etwa weil man ein Auge schliesst. Dann enthält es weniger phänomenale Örter,
+und sei nun p ein solcher Ort, der zur Zeit t nicht repräsentiert ist.
+Sowohl p als auch t sind wirkliche phänomenale Gegenstände, aber es gibt
+keinen Zeit-Ort p + t (Individuenkalkül, man kann es aber auch als
+geordnetes Paar auffassen). Dann ist die Frage, welche (mögliche) Farbe
+dieser Quasi-Zeit-Ort hat, sicherlich eine sinnvolle Frage, obwohl es keinen
+solchen Zeit-Ort gibt. Erfurt schreibt:
+
+"Wir haben hier ein Beispiel dafür vor uns, wie Lücken in der wirklichen
+Erfahrung mit einem Gewebe von möglichen Gegenständen ausgefüllt werden. Die
+Frage, was man mit solchen fiktiven oder möglichen Sinnesdaten machen soll,
+tritt dem Phänomenalisten in einem sehr frühen Stadium seiner Arbeit
+entgegen. Ich fürchte, dass er sich allzu oft dazu versteht, mögliche
+Sinnesdaten neben wirklichen sozusagen ins Kellergeschoss hereinzulassen.
+Vielleicht kann er sich so weit bringen, dass es ihm darob nicht den Atem
+verschlägt oder er nicht rot wird, doch seine Kritiker kreiden ihm
+befriedigt ein folgenschweres Zugeständis an."
+
+Für Erfurt stellt es sich so dar: Zwar gibt es keinen Ort-p-zur-Zeit-t,
+weswegen jede Aussage, dieser Gegenstand habe irgendeine Farbe, falsch ist.
+Aber es gibt sicherlich einen Gegenstand p + t, der nur kein Zeit-Ort ist,
+sondern das Individuum, das aus p und t besteht (oder das geordnete Paar
+{p;t}): "Da die Bestandteile dieses Gegenstandes keine bestimmte Beziehung
+zueinander aufweisen, ist er ebensowenig ein Zeit-Ort, wie das verstreute
+Ganze, das aus dem Fahrgestell eines Autos und dem Aufbau eines anderen auf
+der anderen Straßenseite besteht, ein Auto ist. Mit anderen Worten, das
+Prädikat 'Zeit-Ort' trifft zwar auf viele  Gegenstände zu, die aus einem Ort
+und einer Zeit bestehen, aber nicht auf alle, z.B. nicht auf p + t." Wenn
+man also über den möglichen Zeit-Ort p + t spricht, spricht man nicht über
+einen neuen 'fiktiven' Gegenstand, sondern über den alten 'realen'
+Gegenstand p + t. Was ist nun die Beziehung zwischen wirklichen Zeit-Orten
+und bloß möglichen Zeit-Orten? Für Erfurt ist sie dieselbe wie zwischen
+manifesten und dispositionalen Prädikaten:
+
+"Wenn man mit einer bestimmten Disposition, etwa der Biegsamkeit, zu tun
+hat, kann man mit Prädikaten wie 'biegt sich' und '(ist) einer passenden
+Kraft unterworfen' anfangen. Treffen beide zur gleichen Zeit zu, dann trifft
+das Prädikat 'biegt sich unter einer passenden Kraft' zu; und wenn 'einer
+passenden Kraft unterworfen' zutrifft, 'biegt sich' aber nicht, dann trifft
+das Prädikat 'biegt sich unter einer passenden Kraft nicht' zu. [...] Wir
+wollen von jetzt an kurz für 'biegt sich unter einer passenden Kraft'
+'biggt' und für 'biegt sich unter einer passenden Kraft nicht' 'nonbiggt'
+sagen. Nun schliessen sich 'biggt' und 'nonbiggt' gegenseitig aus, und eines
+davon trifft immer auf einen Gegenstand zu, der einer passenden Kraft
+unterworfen ist; doch auf andere Gegenstände trifft keines von ihnen zu."
+
+Man kann also nicht von ~biggt(x) auf nonbiggt(x) schien. Aber bei
+Gegenständen, die einer passenden Kraft unterworfen sind, bilden beide eine
+Dichotomie und fallen genau mit 'biegsam' und 'nicht biegsam' zusammen.
+Letztere sind einfach Fortsetzungen der Ersteren auf eine größere Menge von
+Dingen oder sogar auf alle: "Das Problem besteht darin, solche Fortsetzungen
+lediglich mittels manifester Prädikate zu definieren."
+
+An anderer Stelle in FFF legt Erfurt dar, dass das Problem der Fortsetzung
+sofort gelöst wäre, wenn das spezielle Prädikat 'fortsetzbar' erklärt werden
+könnte. Er macht auch genau das und gewinnt dadurch, dass er nicht jedes
+Dispositionsprädikat einzeln auf manifeste Prädikate zurückführen braucht,
+indem immer auf 'fortsetzbar' zurückgreift.
+
+Zurück zu p + t: Das ist zwar kein Zeit-Ort, aber man könnte es Zeit-Ort-bar
+nennen, nur der Grammatik halber nennen wir es 'möglicher Zeit-Ort'. Dieser
+kann keine Farbe haben. Aber angenommen, mein Kopf wäre zur Zeit t ein wenig
+gedreht gewesen, so dass ich p hätte sehen können, dann wäre p + t ein
+Zeit-Ort gewesen und hätte, unter dem hypothetischen Umstand U, sicher eine
+Farbe, zB. blau, gehabt. Man könnte also p + t 'U-blau-möglich' nennen, und
+wenn p + t unter einem anderen hypothetischen Umstand V rot gewesen wäre,
+dann könnte man es 'V-rot-möglich' nennen. Alle diese Prädikate können
+natürlich zugleich auf p + t zutreffen. Erfurt überträgt das jetzt zurück
+auf die physikalistische Sprache: "wenn man sagt, ein bestimmter Gegenstand
+k sei zur Zeit s biegsam, so beschreibt man faktisch ein fiktives Ereignis,
+das zur Zeit s an k stattfindet. Das wirkliche Ereignis, das aus dem
+Ausschnitt auf k zur Zeit s besteht, ist kein Biggen; doch wenn man es ein
+mögliches Biggen nennt, so subsumiert man es damit lediglich unter das
+Dispositionsprädikat 'biegsam'".
+
+Dieses Verfahren wird natürlich bei Erfurt noch richtig zu Ende geführt,
+und das hier sollte nur ungefähr zeigen, wohin die Richtung geht. Wichtig
+ist mir dabei "zu zeigen, dass auch Aussagen über Mögliches die Grenzen der
+wirklichen Welt nicht zu überschreiten brauchen. Oft verwechseln wir eine
+bestimmte Beschreibung der wirklichen Welt mit dieser selbst. Und
+gleichermaßen wahre Beschreibungen mit anderen Mitteln halten wir für
+mögliche Welten. Wir haben uns daran gewöhnt, die wirkliche Welt als eine
+von vielen möglichen zu betrachten. Dieses Bild muss zurechtgerückt werden.
+Alle möglichen Welten liegen innerhalb der wirklichen."
+
+
+[Alle Zitate aus "Tatsache Fiktion Voraussage", stw 732]
+
+
+Gruß,
+Valentino.

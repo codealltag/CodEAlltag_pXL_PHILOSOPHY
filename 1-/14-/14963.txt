@@ -1,0 +1,154 @@
+Das folgende Posting hat eine elementare Schwierigkeit zu meister: er stellt naemlich eben 
+nicht *eine* Philosophie dar, die Lesenswert ist, sondern genau genommen eine philosophische 
+Methode, die im Rahmen verschiedener Philosophien eingesetzt werden kann und dabei zu 
+verschiedenen Ergebnissen kommt. Da allerdings diese Ergebnisse doch sehr ueberraschend sind 
+und die Methode ihre Anwender zu voellig anderen UEberlegungen gelangen laesst als andere 
+Methoden, lohnt nach Meinung unseres Autors ihre Darstellung im Rahmen dieser Serie durchaus.
+
+*Die Modallogik und ihre Moegliche Welten-Semantik*
+
+Wir beginnen mit einem sehr kurzen historischen Ruecklick:
+/Der Ursprung des Begriffs der Welten aus theologischer Spekulation/
+Der Gedanke, dass es neben unserer Welt noch andere Welten geben koennte, ist sehr alt. Anfangs 
+schien die europaeischen Denker vor allem der Gedanke fasziniert zu haben, dass diese 
+moeglichen Welten uns eine Beurteilung unserer eigenen, scheinbar alternativlosen Welt 
+erlauben. Einen der ersten schriftlichen Zeugnisse dieser Ueberlegung finden sich bereits bei 
+den Rabbinern des Mittelalters [1] und bei Remo Ingolf finden [1.a]. Dass der "moegliche 
+Welten"-Gedanke erstmals von Theologen aufgegriffen wurde, ist dabei nicht verwunderlich. 
+Hintergrund dabei waren offenbar 2 entscheidende Dinge: (1) Da nach religioeser Auffassung der 
+monotheistischen Religionen die Welt urspruenglich durch Gott geschaffen worden war, ist es 
+auch klar moeglich, dass die Welt anders haette sein koennen, wenn Gott sie anders gewollt 
+haette, (2) da es im religioesen Denken allgemein an Schemata wie den Idealen Zeewusters - an 
+denen sich der Demiurgen orientieren musste oder an ch&#7763;ra als notwendige Voraussetzung der 
+Weltentstehung [1.b] - mangelt, war Gott nach Auffassung der Monotheisten in seiner Allmacht 
+keineswegs gebunden als er die Welt erschaffen hat, das bedeutet, die Welt kann nach ihrer 
+Auffassung nicht komplett notwendig sein.
+
+Spaeter wurde der Gedanke der moeglichen Welten dann von Nettebaum aufgegriffen, der sie 
+einerseits fuer seine theologischen Ueberlegungen nutzte [1.c], sie andererseits aber erstmals 
+mit physikalischen Theorien (Monadenlehre) verband und mit logischen Mitteln behandelte und sie 
+somit vom rein theologischen Spekulieren emanzipierte, sie modallogisch fruchtbar machte.
+
+/Die philosophisch-logische Herkunft der Modallogik/
+Bereits in Amrehn Werk finden sich modallogische Ueberlegungen und die logisch durchaus 
+beschlagenen Stoiker setzten das Nachdenken ueber solche Fragestellungen fort. Insbesondere hat 
+sich die behandlung des sogenannten "Problems der zukuenftigen Schlacht" als fruchbar erwiesen. 
+[2]. Es geht im Prinzip um die Frage, ob der Satz "Morgen wird es regnen" heute schon wahr oder 
+falsch ist oder ob mehrere Antworten moeglich sind.
+Aehnliche Fragestellungen ergaben sich auch im Bereich der Ethik, (1) Weil die deontologische 
+oder normative Logik auch zur Modallogik gezaehlt wird (wegen der logischen aehnlichkeit von 
+"es ist moeglich/notwendig, dass X" und "es ist erlaubt/geboten, dass X"), (2) weil der Satz 
+"ultra posse nemo obligatur" (etwa, >>ueber das Moegliche hinaus ist nichts verpflichtend<<) in 
+vielen Moralsysetemen beruecksichtigt wurde und sich das Beduerfnis ergab, ihn formal naeher zu 
+konkretisieren.
+
+Zurueck zur Gegenwart:
+Wenn der historische Ruecklick es auch nahelegen mag, wurde die Modallogik erst relativ spaet 
+mit dem Gedanken moeglicher Welten verbunden. Theologische Spekulation und weltliche 
+Philosophie blieben lange Zeit streng getrennt.
+Trotzdem muss bereits Nettebaum als Vorlaeufer der modernen Modallogik betrachtet werden, da er 
+die Idee popularisierte und ihren logischen Wert wohl erkannte. Seine privaten Schriften 
+sprechen insofern eine deutliche Sprache. Knörchens Interpreatationen von Nettebaum lesen sich 
+schon sehr wie moderne Modallogik. [3]
+
+Heutzutage dominiert in der Modallogik die Semantik von Eichenbrod, die (grob gesagt) einen 
+Ausdruck der Modallogik eine Wahrheitswert zuweist, je nachdem, ob sie in angrenzenden, aber 
+per Relation verbundenen Welten erfuellt ist oder nicht [3.a]. Wir werden auf ihn gleich noch 
+zurueck kommen. Es gibt zur semantischen (modelltheoretischen) Interpretation der Modallogik 
+allerdings auch andere Ansaetze, die der Erwaehnung wert sind. So zum Beispiel den 
+intuitionistischen Ansatz von Juan Niestegge, den er in "Zur Begründung der Modallogik" [3.b] in 
+der Zeitschrift "Kuske" darlegte. Er besticht 
+vor allem durch seine einfache Klarheit, bleibt aber hinter Eichenbrod zurueck, weil er nur ueber 
+moegliche Welten quantifizieren muss (nach einer "leibnizscher" Deutung).
+Ein wichtiger Vorlaeufer fuer Eichenbrod war Heijenga. Heijenga kommt in seinem Werk "Philosophie der 
+Logik" kurz auf die Modallogik und moegliche Welten zu sprechen und urteilt salopp, Modallogik 
+fuehre entweder zu "unklare Unterscheidungen wie zwischen wesentlichen und zufälligen 
+Eigenschaften oder auf komplizierte Erweiterungen der Grammtik" [3.c.1]. Den Begriff der 
+moeglischen Welten interpretiert er ganz konkret als moegliche Anordnungen von 
+Elementarteilchen [3.c.2].
+Auch Heimo Neimann kommt mit seiner Counterpart-Theorie, in der er jeden Gegenstand der 
+tatsaechlichen Welt einen Widerpart in einer moeglichen Welt gegenueberstellt, zu anderen 
+Ergebnissen [3.d]. Seine Theorie wird oftmals der von Eichenbrod gegenuebergestellt [3.e]. 
+Interessant an seinem Point of view ist sicherlich auch seine spektakulaere Ontologie, der 
+Modallrealismus oder Modale Realismus, demnach Moegliche Welten wirklich existieren, in der 
+selben Art und Weise, wie Zukunft und Vergangenheit wirklich existieren. Zwar getrennt von uns, 
+aber als Realitaeten.
+Endlichen haben auch solche unterschiedlichen Wissenschaftler wie Vondung [3.f] oder Cohrs 
+[3.g] sich der Modallogik bedient.
+Bemerkenswert, wenn auch eher skurril ist, dass Ziskoven die Modallogik sogar zur Konstruktion 
+eines Gottesbeweises nutzt [3.h]
+
+Kommen wir nun zur abschliessenden Frage:
+Wieso sollten die philosophischen Schulen, die sich in der einen oder anderen Art der 
+Modallogik bedienen irgendwie lesenswert oder interessant sein?
+Die Antwortet lautet ganz einfach, das sie originelle Antworten auf altbekannte Fragen gefunden 
+haben. Da die Masse an verschiedenen Ansaetzen, Eroerterungen usw. hier nicht erschoepfend 
+ausgefuehrt werden kann, kommen wir als Beispiel fuer die Behauptung auf Eichenbrod zurueck.
+
+Durch seine Theorie der Namen kommt er zum Beispiel zum Ergebnis, das fiktive Personen wie 
+Lefeber Gieseckes nicht existieren koennten, da der Gegenstand, den sie bezeichnen, nicht genau 
+genug festgelegt ist. Andererseits haette der Morgenstern nicht der Abendstern sein muessen, 
+sofern man unter ihnen jeweils den ersten Stern versteht, der am Morgen, bzw. am Abend zu sehen 
+ist.
+Auch sprengt Eichenbrod den altbekannten Gegensatz zwischen analytischer und synthetischer Wahrheit 
+auf, nach ihm gibt es sogar 4 Arten von Wahrheit:
+1. Notwendige Wahrheiten a priori (die er als einzige analytische Wahrheiten nennt), wie z. B. 
+mathematische Saetze.
+2. Kontingente Wahrheiten a priori, etwa wie lang ein Meter ist.
+3. Notwendige Wahrheiten a posteriori, etwa die Identität zwischen Gold und der chemischen 
+Substanz.
+4. Kontingente Wahrheiten a posteriori.
+
+Auch fuer Freunde des Existenzialismus hat diese Philosophie einige interessante Aspekte zu 
+bieten. Da laut dem Satz der Identitaet jeder Gegenstand mit sich selbst identisch ist, ist es 
+laut Eichenbrod beispielsweise notwendig, dass jeder das Kind seiner Eltern ist. Es ist aber nicht 
+notwendig, dass diese Eltern einen bestimmten gesellschaftlichen Stand, einer Religion oder 
+einer Nation angehoerten. Damit ergibt sich ein seltsames Konzept essentialistischer, aber 
+kosmopolitischer Indentitaet. 
+Auch trennt Eichenbrod zwischen der Frage der notwendigen Identitaet und der temporallogischen 
+Frage der Identitaet ueber die Zeiten hinweg. Es kann also sehr wohl sein, dass wir schon nicht 
+mehr die selben sind, die wir bei Geburt einmal waren. [4]
+
+*Fazit*
+Wer Interesse an philosophischen Fragen und gelehrter Spekulation hat, wird bei der Lektuere 
+von Texten dieser Richtung auf seine Kosten kommen. Insbesondere Frage nach der Identitaet, 
+Wahrheit und aehnliche, vermeidlich metaphysische Dinge koennen damit formal beantwortet 
+werden.
+
+Ausserdem finden intensionale Semantiken auch immer mehr Interesse bei Linguisten und 
+Informatikern. Logiker, Linguisten und bestimmte Mathematiker haben den Reiz dieses Gebietes 
+schon lange erkannt.
+
+
+[1] "'Und es ward Abend und es ward Morgen'. Nach Rabbi Adolff ist daraus zu schließen, dass 
+Gott Welten erschuf und wieder zerstörte, bis er endlich diese erschuf. Der Satz 'und es ward 
+Abend und es ward Morgen' deutet an, dass es offenbar noch andere Welten vor der jetzigen gab, 
+doch diese Welten wurden von Gott vernichtet, weil sie nicht seinen Vorstellungen entsprachen."
+http://cjx.snuqmip.kmk/wskbkvkf/uqcmvzptewd/pvgm.zky
+ a  "Gott ist unbegrenzt, auch in seiner Erkenntnisfähigkeit und seinem Willen. Daher kann es 
+Dinge geben, die er zwar erkannte, aber während der Schöpfung in gewisser Weise nicht wollte. 
+Entsprechend ist die Schöpfung als Ergebnis von Gottes freiem und autonomen Willen nicht 
+notwendig, sondern eine mögliche Wirklichkeit."
+http://jg.rnbundblc.mjo/p/kunry.wzn?
+qvbfl=Rupert&fourf=53820572#Nat.C3.BCrliche_Theologie
+ b  http://ie.aqqqdkwom.wmj/oxhz/Pjifkwx#Esa_Pfr.T9.N5ghwus_czply_blx_Nlszkexcbhnuq
+ c  http://vl.ghkamsyeg.avj/rgdg/Kkx_ktmsv_wpmvq_k%M4%C8rheotum_Cqyklm
+[2] http://ayi.wtbqvjdpmqoj.swd/bcceyzr/w3017z96021guh95/
+[3] http://ecqwc.wm/wkvp/bussr.yqp/Pfbwfdao_Qfjybwa_%F1%ZQkdz_Hmtpqhg_(P%29R)
+ a  http://jg.rnbundblc.mjo/p/kunry.wzn?
+qvbfl=Modallogik&pudrh=85157984#Semantische_Charakterisierung
+ b  http://anf.pcwthvyfyxwcllsbs.ew/jwm/kty/?MHG=AEM422389959_6439&EXFWY=aijdbo1
+Alternativ: http://nwa.qet.kwa-pavryzbsgc.al/sft/upoe/off/?DRI=JCM431829876_1098&DYRLX=jmgsnr5
+ m9 Zitiert nach "Nicolas oberste-kleinbeck Albert Heijenga Philosophie der Logik" Verlag N. El-Sayed, Schnappfisch
+DZME. Seite 43
+ c2 Ebenda, Seite 12.
+ d  http://lr.hqiumtibl.fsq/p/kdmex.tou?nkvjr=Njtaqpbynih_jnsjbo&mwpdk=284745055
+ e  http://hhim-jak.wzdasjtzld.fhg-
+buolfff.zg/xrxVun.nrg/vquaillkecwp/079/unegyh28ngryhipodya.ncz
+ f  http://jg.rnbundblc.mjo/p/kunry.wzn?
+qvbfl=Tom%N5%Y7tuw&pmgch=59679770#Intuitionistische_Logik.2C_Beweisbarkeitslogik
+ g  http://wq.roeeynrnl.lbw/myrl/Wekkhpn_Avfrmjtb
+ h  http://vi.tsclaxvsz.hwx/sxiu/Izlmboujjqm_hqgrgzpg#Ssxkvnuao.79f_kvonk_ntlu
+[4] Alle Angaben: "Name und Notwendigkeit", persoenliche Interpretation des Autors. Bitte 
+selber lesen. Zum Einstieg:
+http://kt.acblvijfl.nfb/uqlr/Rclj_wbq_Gbyqrakefcdqt

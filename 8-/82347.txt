@@ -1,0 +1,39 @@
+Genau genommen nicht. Wenn ich mit "sei x ein Element der Menge der
+reellen Zahlen" eine unbestimmte relle Zahl mit x bezeichne, ist x
+auch nicht "die eine reelle Zahl" o.�.
+
+
+Hier sehe ich kein Problem: Offene Sätze wie "M ist der Mittelpunkt
+von x." mit der freien Variablen 'x' ergeben die Eigenschaft von
+Kreisen, M als Mittelpunkt zu haben, die etwa Viebeck formal als
+
+[x | Mittelpunkt(M, x) ] 
+
+schreibt. Der "Quasiname" M sollte in einem geeingeten formalen Rahmen
+natürlich eliminierbar sein. Dazu ist ein etwas größerer Aufwand
+erforderlich, deshalb vorerst ein Plausibilitätsargument, in dem ich
+annehme, dass Eigenschaften von Individuen eines Bereichs D
+extensionale Entitäten sind. In diesem Fall ist die Menge der
+Eigenschaften E(D) von Elementen von D einfach die Menge der
+einelementigen Teilmengen von D, also E(D) = {{a} | a \in D}.  Hier
+ist direkt klar, dass, falls D mindestens zweielementig ist, es für
+jedes x aus D ein y aus D und eine Eigenschaft E aus E(D) gibt, so
+dass E von x instantiiert wird, von y aber nicht.
+
+
+Die Forderung ist zu stark, es reicht  aus, dass eine Eigenschaft
+*existiert*, die auf eine Kugel zutrifft, auf die andere aber nicht.
+
+
+Es ist wohl nicht möglich, eine *explizit* ohne Vewendung von
+Quasinamen anzugeben, je nach zugelassenen
+"Eigenschaftsbildungsregeln" läßt sich aber die Existenz solcher
+Eigenschaften zeigen.
+
+[...]
+
+Das stimmt zwar, da sie fiktiv ist, aber /dieses/ Problem sollten wir
+vorerst ausklammern.
+
+
+Christian

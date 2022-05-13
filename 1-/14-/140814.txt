@@ -1,0 +1,40 @@
+[...]
+
+
+Nein, *aussagenlogisch* folgt P auch dann nicht aus Q, der Satz "Wenn
+die Katze gestorben ist, ist/war sie sterblich." ist keine (aussagen-)
+*logische* Wahrheit, das Konditional ist allenfalls *analytisch*, wenn
+man dieses Konzept überhaupt für sinnvoll hält. Mit den einfachen
+Mitteln der Aussagenlogik kann man den Zusammenhang zwischen dem
+Dispositionsprädikat "ist sterblich" und "sterben" nicht analysieren,
+dazu sind stärkere logische Mittel vonnöten. Hier kann man sich aber
+einfach behelfen, in dem man Q->P in T2 und T1 aufnimmt. In diesem
+Fall impliziert dann (Q->P)&(PvQ) logisch P, so dass T1 und T2
+Äquivalent sind, und damit auch die gleiche "Wahrheitsnähe" haben.
+
+
+Die ursprüngliche Problemstellung ist anders, Nico hat eine
+Bewertung der Aussagenvariablen *vorgegeben*:
+
+
+Nein, wenn wir hier voraussetzen, dass die Bewertung unbekannt ist,
+ist die Wahrscheinlichkeit, dass T2 wahr ist, tatsächlich höher als
+die, dass T1 wahr, und zwar einfach, weil letztere logisch stärker als
+erstere ist. T2 ist aber /niemals/ wahrheitsnäher als T1, denn dafür
+müßte ihr Wahrheitsgehalt, also die Menge der wahren Aussagen, die aus
+ihr folgen, echt größer als die Menge der wahren Aussagen, die aus T1
+folgen, sein, und das ist bei *keiner* Bewertung der Fall. T2 hat
+allenfalls, falls Q wahr und P falsch ist, einen geringeren
+Falschheitsgehalt, was /hier/ aber keine Rolle spielt. Wallmeyers
+Definition lautet:
+
+"Eine Theorie ist wahrheitsnäher/wahrheitsähnlicher, wenn ihr
+Wahrheitsgehalt größer und ihr Falschheitsgehalt nicht größer als der
+einer konkurrierenden Theorie ist."
+
+Wallmeyer möchte bekanntlich "kühne" Theorien wie T1, gegenüber weniger
+mutigen wie T2 bevorzugen, deshalb die Asymmetrie zwischen
+Wahrheits-und Falschheitsgehalt.  
+
+
+nicolas

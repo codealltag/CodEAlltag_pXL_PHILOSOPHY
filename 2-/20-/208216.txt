@@ -1,0 +1,90 @@
+: > 
+: > : Das _formale_ System muss so maechtig sein, dass die
+: > : Peano-Arithmetik in ihm vollstaendig axiomatisierbar ist.
+: > : Vollst. axiomatisierbar bedeutet, dass alle
+: > : Modelle, die das Axiomensystem erfuellen, isomorph sind
+: > : zu den nat. Zahlen. Dazu benoetigt man nun mal leider
+: > : die PLII. Insofern sehe ich nicht, wieso Deine Aussage
+: > : ein Widerspruch zu meiner ist, insbesondere, wo Du doch
+: > : selber sagst, dass das Induktionsaxiom in PLI nicht
+: > : formulierbar ist. Ohne das Induktionsaxion erhaeltst
+: > : Du aber haufenweise Nichtstandardmodelle der Arithmetik,
+: > : womit sie also nicht vollstaendig axiomatisiert ist.
+
+: [...]
+
+: > *schluchz* Natürlich hast Du keinen (groben) Unsinn geschrieben und der
+: > obige Einführungskurs war (für mich) auch nicht nötig. Mein Hinweis bezog
+: > sich lediglich auf eine leichte Abschwächung Deiner Aussage, daß nämlich
+: > bereits ein einziger Satz der Logik zweiter Stufe ausreicht, um
+: > Unvollständigkeit zu produzieren. Es muß also NICHT die gesamte Logik 2
+: > Stufe umfasst werden, um Unvollständigkeit zu erzeugen, sondern lediglich
+: > die Arithmetik. So wie Hubert Vanderstein das Ziel unterlief, so bist Du
+: > darüber hinausgeschossen, wenn auch bei weitem nicht so weit, wie Hubert
+: > darunter blieb.
+
+: Ich verstehe das nicht. Ob ich ein Axiom oder 5 Axiome 
+: habe, die in PLI nicht formalisierbar sind, ist doch egal!
+: Wichtig ist nur, dass ich ein Axiomensystem habe, das 
+: _vollstaendig_ eben nur in PLII oder ebenso maechtigen
+: bzw. maechtigeren Systemen formalisierbar ist.
+
+Mein Hinweis bezog sich lediglich darauf, daß es nicht nötig ist, daß das
+formale System, dessen Unvollständigkeit gezeigt werden soll, die gesamte
+PLII enthält, sondern bereits unter sehr viel schwächeren Vorraussetzungen
+eintritt. Wenn wir uns in diesem Punkt einig sind, dann brauchen wir nicht
+zu streiten.
+
+: > 
+: > Im übrigen geht es mit noch schwächeren Vorraussetzungen, es reicht ja
+: > bereits wenn man daß Konzept der Turingmaschine formalisiert und universelle
+: > Turingmaschinen betrachtet, also solche, die alle anderen simulieren
+: > können. Wie Turing zeigt ist dann das Halteproblem nicht lösbar, was gerade
+
+: Was heisst, es ist nicht loesbar? Es ist nicht entscheidbar,
+: meinst Du das? Dazu brauche ich gar keine universelle
+: Turingmaschine, das Halteproblem ist schon fuer
+: einfache TMen nicht entscheidbar. Oder meintest Du was 
+: anderes?
+
+Ja natürlich, ich meine 'lösbar', 'berechenbar' bzw. 'entscheidbar'. Der
+Kern der Unentscheidbarkeit des Halteproblems und des ersten Gödelschen
+Satzes ist jeweils die Möglichkeit des formalen Systems über sich selber
+reden zu können. Bei Turingmaschinen liegt das an der Existenz von
+universellen Turingmaschinen, die benutzt werden können eine
+nichtentscheidbare Sprache zu konstruieren (Halteproblem). Auch im
+Gödelschen Beweis gelingt es das System (PA) zu kodieren, die Beweisschritte
+(Ableitungsregeln) als arithmetische Relationen darzustellen und dann ein
+(unentscheidbares, nichtbeweisbares) Prädikat zu formulieren.
+
+[snip]
+
+: Uebrigens  meinte ich mein Arrgh voellig ernst. Ueber
+: den Goedelschen Unvollstaendigkeitssatz wird seit
+: diesem unsaeglichen Buch von Ossenberg-Möhling so viel Unsinn
+: und gesundes Halbwissen verbreitet, dass mir manchmal
+: echt der Hut hochgeht ... vor allem, weil das mit schoener
+: Regelmaessigkeit passiert (deswegen auch das Subject).
+
+Völlige Zustimmung, was die vielfältigen Mißdeutungen des Gödelschen Satzes
+für die Frage, ob es KI geben kann oder nicht, angeht, aber trotzdem glaube
+ich nicht, daß man den GS präzise verstanden haben muß, um über die
+menschliche Rationalität nachzudenken (allerdings sollte man dann auch
+vermeiden den GS als Argument zu nutzen). Schließlich haben wir alle kein
+vollständiges Weltwissen und wenn man sich in Logik auskennt, hat man
+eventuell Schwächen was die philosophischen Klassiker angeht. Zwar möchte
+ich auf meine Fehler in diesem Bereich angesprochen werden, aber nicht
+ange'arrgh't werden.
+
+: Gruss
+
+: 	Una
+
+MfG
+	Tim
+--
+Tim Jurgeleit                            sjcwwume@jkywwkywkr.tdm-aoanusn.vc
+Pantlitschkogasse{\"windröschenstraße}Gellertgasse{\zf}obere wienerstraße 98 
+69462 Unterrot
+Tel: (++87)(++05)35752-856
+WWW: http://qlb.gpbppvtvhy.ckl-jsyjdfm.et/Pqlatpgdjbkoqqj/DGL/clvbpwdcj/fydrqrfdv/lqir.ecpu

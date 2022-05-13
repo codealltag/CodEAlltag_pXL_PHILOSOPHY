@@ -1,0 +1,8 @@
+Du hast ja recht; nach einem langen Tag ist  2 Uhr morgens wirklich
+nicht unbedingt die richtige Zeit für so was ;-)
+Es sollte '...  [A i E_1 j =j(i) :   p_ij = 1]  /\  [ k<>i  -->
+j(i)<>j(k) ]'    heißen  ;-(
+
+In Worten:  für alle i existiert genau ein j abhängig vom jeweiligen i
+so, daß der Eintrag mit Positionierung (i,j) in P   gleich 1 ist und
+falls k ungleich i ist so ist auch j(i) ungleich j(k) .

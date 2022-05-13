@@ -1,0 +1,106 @@
+Das stimmt zwar zufällig, ist aber nicht von Holtdirk. Wenn man wirklich
+*alles* beweisen kann, Wahres und Falsches, ist das System nicht
+widerspruchsfrei. Deswegen tritt genau einer der Fälle ein.
+
+Um die Aussage zu reparieren, muss man zwischen "wahr" und "falsch"
+einerseits und "herleitbar" und "nicht herleitbar" andererseits
+unterscheiden. Es geht darum, ob, was wahr ist, auch bewiesen werden kann.
+Man muss sich dazu klarmachen, dass überall, nicht nur in der Mathematik,
+das Ziehen von Schlüssen ein syntaktischer Vorgang ist, also einer, bei
+dem man (solange man dabei ist, den Schluss zu ziehen) auf die Bedeutung
+nicht achtet. Beispiel: Wenn ich weiss, dass jeder Schlurpf banzelt und
+dass Konrad ein Schlurpf ist, dann kann ich den Schluss ziehen, dass Konrad
+banzelt, ohne zu wissen, wer Volkgenannt ist oder was sich hinter den Begriffen
+"Schlurpf" und "banzeln" verbirgt.
+
+Wie das technisch abläuft und wo Gödel ins Spiel kommt, habe ich schon mal
+in einem Posting beschrieben, das ich einfach unten anhänge. Die
+Auswirkungen auf die Physik haben ja andere schon andiskutiert. Hier also
+das alte Posting (ab hier ist > ein Verweis auf ein Posting, auf das ich
+*damals* anwortete):
+
+
+Ich versuche mal kurz zu antworten, aber um die Sache richtig zu
+verstehen, wird man sich wohl mehr als eine Posting-Laenge damit
+befassen muessen. Also ein Buch "Einfuehrung in die mathematische
+Logik" oder so aehnlich besorgen und die ersten paar Kapitel
+lesen. Meine Antwort soll eigentlich nicht die Fragen beantworten,
+sondern eher die Art und Weise zeigen, wie solche Fragen angepackt
+werden.
+
+"wahr" und "herleitbar" haben *zunaechst* nichts miteinander zu tun.
+
+"herleitbar" ist der einfachere Begriff. Er bedeutet: nach den
+Schlussregeln aus den Axiomen herzuleiten. All dies sind syntaktische
+Begriffe bar jeder Semantik: Axiome sind bedeutungslose Zeichenreihen
+der Gestalt "*&^^%%*%% ist ein Axiom und somit herleitbar";
+Schlussregeln sind Regeln ueber die Verknuepfung solcher
+bedeutungsloser Zeichenreihen der Gestalt "Sind ^%$&^%$ und &*^%*&^%
+herleitbar, so auch ((*&^#*%^^*%#@@@".
+
+Wenn die Sprache reichhaltig genug ist, um Formeln mit nicht/und/oder
+zu verknuepfen, nennt man ein Axiomensystem "widerspruchsfrei", wenn
+sich fuer keine Formel A "A und nicht A" herleiten laesst.  Ist die
+Sprache zu mager dazu, nennt man das Axiomensystem "widerspruchsfrei",
+wenn sich nicht jede Formel herleiten laesst. Das ist praktisch
+dasselbe, weil man aus "A und nicht A" ueblicherweise (je nach den
+Axiomen und Schlussregeln) alles herleiten kann.
+
+"wahr" ist ein semantischer Begriff. Man muss dazu in einer konkreten
+Struktur konkret sagen, was die Begriffe in einer Formel bedeuten und
+kann dann fuer jede Formel sagen, ob sie in dieser Struktur wahr
+ist. Das kann von Struktur zu Struktur unterschiedlich sein, z.B. ist
+in manchen Koerpern die Formel 1+1=0 wahr, in anderen falsch.
+
+"allgemeingueltig" heisst eine Formel dann, wenn sie in allen Modellen
+der Theorie wahr ist, d.h. in allen Strukturen, in denen wenigstens
+die Axiome wahr sind. Insbesondere sind die Axiome der Theorie
+allgemeingültig.
+
+Die Verknuepfung dieser Begriffe passiert erst jetzt:
+
+Ein Axiomensystem heisst "konsistent", wenn man aus den Axiomen nur
+allgemeingueltige Formeln herleiten kann. Es heisst "vollstaendig",
+wenn man alle allgemeingueltigen Formeln herleiten kann.
+
+Inkonsistente Axiomensysteme sind langweilig, weil man mit ihnen Unfug
+beweisen kann, was man nicht will. Unvollstaendige Axiomensysteme sind
+hingegen die Regel.  Nur wenige Theorien lassen sich so vollstaendig
+axiomatisieren.  Im folgenden werde ich Konsistenz immer voraussetzen.
+
+
+Ja. Man muss den Beweis freilich fuer jedes Axiomensystem getrennt
+fuehren und kann wie immer in der Mathematik erleben, dass man es
+nicht beweisen kann - entweder weils nicht gilt, oder weil man auf
+keine passende Idee kommt.
+
+
+Man konstruiert ein Modell der Theorie, das beweist die
+Widerspruchsfreiheit, sonst wuerden im Modell Widersprueche stecken,
+womit mindestens gezeigt waere, dass die Bewertung, was wahr und
+falsch ist, Mist war.
+
+
+Ist die Theorie vollstaendig, dann ja, sonst nein.
+
+
+Ergibt sich aus der Definition der Vollstaendigkeit.
+
+
+Der Satz bezieht sich nicht auf alles in der Welt, was axiomatisierbar
+ist, sondern auf Axiomensysteme, mit denen man Zahlentheorie treiben
+kann, z.B. die Peano-Axiome fuer die natuerlicher Zahlen. Solche
+Axiomensysteme sind notwendig unvollstaendig, d.h. es gibt immer
+allgemeingueltige Formeln, die nicht herleitbar sind.
+
+Bei den Peano-Axiomen liegt das am Induktionsaxiom, weil dieses
+"zweiter Stufe" ist: es macht keine Aussagen ueber Zahlen wie die
+anderen, sondern ueber Mengen von Zahlen. Axiomensysteme erster Stufe
+sind immer vollstaendig. Viel kann man damit nicht machen: im Prinzip
+nur Algebra, soweit sich diese auf die Herleitung von Gleichungen
+beschraenkt.  Sobald die Algebra interessant wird, verlaesst auch sie
+die erste Stufe, oder kann jemand eine Aussage wie diese in einem
+Kalkuel erster Stufe formulieren: "Jede endliche abelsche Gruppe ist
+direktes Produkt zyklischer Gruppen."
+
+Torsten Prus

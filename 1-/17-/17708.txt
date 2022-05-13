@@ -1,0 +1,1 @@
+Axiom der Bestimmtheit: Alle(A,B): (A=B <-> Alle C:(C isin A <-> C isin B))

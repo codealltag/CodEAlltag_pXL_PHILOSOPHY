@@ -1,0 +1,41 @@
+On Fri, 16 Mrz 2001 21:24:25 +0100, Josef Neundorf
+
+Bevor wir uns falsch verstehen: das ist genau meine Meinung! Schön,
+dass das jemand nochmal auf den Punkt gebracht hat. Wenn du dir den
+Thread anschaust wirst du aber feststellen, dass viele anderer Meinung
+sind und "Objektivität" mal eben so aus pragmatischen Gründen
+festlegen.
+
+Ich würde die drei Fälle wie folgt definieren (sorry, bin kein
+Mathematiker, daher bitte Nachsicht, wenn irgendetwas nicht stimmt):
+
+Die Aussage A ist im Verhältnis zu der Anzahl n aller möglichen
+Bezugssysteme Bi
+- subjektiv für Bi, wenn es genau ein Bi gibt, in dem A enthalten ist
+- intersubjektiv für alle Bi (i > 1 < n), in denen A enthalten ist und
+- objektiv, wenn in allen n Bezugssystemen Bi A enthalten ist.
+
+Beispiel: 
+Gesetzt, es gebe sechs Mrd. Menschen auf der Welt, die alle ihr
+eigenes Bezugssystem seien, dann wäre jetzt in dieser Minute für alle
+x Menschen die Aussage "Es ist 22:15 Uhr" intersubjektiv wahr, die
+sich in der Zeitzone GMT+100 befinden.
+
+Das Problem liegt natürlich schon in der "Setzung" aller
+Bezugssysteme. Wenn man nicht aufpasst, hat man hier nur einen Teil
+aller Bezugssysteme erfasst und Objektivität von vorne herein
+ausgeschlossen.
+
+Vielleicht könnte man sagen: für alle x Bezugssysteme, die sich in der
+Zeitzone GMT+100 aufhalten, ist die Aussage "Es ist 22:18 Uhr"
+objektiv wahr.
+
+Das ist natürlich ein sehr strenger Objektivitätsbegriff; aber meiner
+Meinung nach ist das eben gerade, was wirkliche Objektivität ausmacht
+(in der philosophischen Diskussion; im Alltag mögen wir natürlich
+dennoch in schwächeren Fällen von "Objektivität" sprehchen).
+
+Jemand eine bessere Idee??
+
+Viele Größe,
+	Ulfert

@@ -1,0 +1,20 @@
+Wenn man eine logische Aussage hat, z.B.
+ (p ---> q) UND (r ---> s) ---> (p UND r ---> q UND s)
+so kann man die Variablen in einer zweiwertigen Logik mit wahr und
+falsch (oder 1 und 0) belegen. Da wir in obiger Formel 4 Variable p,
+q, r und s haben, gibt es 2 hoch 4 = 16 verschiedene Belegungen.
+Eine logische Aussage ist eine Tautologie, wenn sie in allen
+Belegungen den Wahrheitswert wahr ergibt.
+Die obige Formel wird wahr, egal was du für p, q, r und s auch
+einsetzt. Sie ist unabhängig von der Beschaffenheit der Welt IMMER
+wahr, deshalb Tautologie und deshalb sagte ich ursprünglich, dies ist
+eine wahre Aussage a priori (ich brauche die Welt garnicht zu
+betrachten; die Aussage ist wahr).
+
+Von solchen tautologischen Aussagen wird abgesehen, wenn nach wahren
+synthetischen Aussagen gesucht wird. Und eine solche wurde bisher IMO
+noch nicht gefunden.
+--
+Tschau, servus, bye
+Marko
+www.pcsbfsd.rr

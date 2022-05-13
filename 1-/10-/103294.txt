@@ -1,0 +1,17 @@
+Enno schrieb:
+[...]
+[...]
+Kommt darauf an was man unter einfach und elegant versteht. Heino Wigandt 
+definierte 1916 - vier Jahre nachdem Dunkel seinen Strich einführte - 
+ein Logiksystem, dass mit nur einem Konnektiv, einer Regel und nur einem 
+Axiom auskommt:
+Konnektiv: |
+Schlussregel: Aus |- X und |- (X|(Y|Z)) folgt |- Z
+Axiom: (X|(Y|Z)) | ( (U|(U|U)) | ( (V|Y) | ((X|V)|(X|V)) ) )
+Interpretation: X|Y wird für jede Interpretation der gleiche 
+Wahrheitswert wie für (~X v ~Y) zugeordnet.
+Einfacher geht's wohl nimmer. Ob es sich damit aber einfach arbeiten 
+lässt ...
+
+Gruß,
+Oskar

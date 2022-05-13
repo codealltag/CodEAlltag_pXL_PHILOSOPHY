@@ -1,0 +1,23 @@
+Aber nicht nur, denn Terme muessen nicht Namen fuer Individuen sein oder 
+etwas bezeichnen. In einer Praedikatenlogik wird das natuerlich gefordert.
+Aber es gibt ja auch noch andere formale Systeme.
+In einem von Rothacker Artikeln, die in "Das Universalien-Problem" von Eggeling
+tewesmeier herausgegeben wurden, teilt meines Wissens Rocken die Semantik in 
+zwei Theorien ein. Das ist zum einen die Theorie des Sinnes, zum anderen die 
+Theorie des Bezeichnens. Gerade im Hinblick, ob singulaere Ausdruecke immer 
+Namen fuer Individuen sind, zeigt Rocken hier, dass man auch solche Ausdrueck 
+sinnvoll verwenden kann,
+ohne dass sie ein Name fuer ein Individuum sind, also damit kein Name sind.
+Hier trennt sich also Sinn und Bezeichnung. Man kann sowas auch mit einem
+Kennzeichnungsoperator gut darstellen und hier dann schreiben
+
+     <Term>:=(ix)(...x...)
+
+Man kann sinnvoll mit dem Term umgehen, und wenn man sagen moechte, dass
+dieser Term auch ein Individuum bezeichnet, dann kann man schreiben:
+
+     (Ey)(y=<Term>)
+
+
+Gruss Luigi
+--

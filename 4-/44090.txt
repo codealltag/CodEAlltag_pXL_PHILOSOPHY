@@ -1,0 +1,160 @@
+Deskriptiv.
+
+
+Ja, klar.
+
+
+Ich bestreite doch keinesfalls die Idee, Objekte über Namen zu
+identifizieren. Und warum auch?
+
+Nur: was ist der Unterschied zwischen einem Namen und der Autonummer?
+Die Autonummer ist identifizierend, der Name nicht, deshalb
+identifizieren Behörden in der Praxis nicht mit dem Namen, sondern mit
+dem Paar (Name, Geburtsdatum) oder dem Tripel (Name, Geburtsdatum,
+Wohnort).
+
+Und deshalb möchte der Staat in Deutschland die (verfassungsrechtlich
+verbotene) Personenkennziffer einführen, eben weil der Name nicht
+vollständig identifiziert.
+
+
+Wer Menschen identifizieren kann, hat Macht über diese. Und da hat sich
+bis heute nichts geändert, das ist der Grund, weshalb unser Staat mit
+allem Nachdruck versucht, die verbotene PKZ eben doch durchzudrücken -
+als Steuernummer, die lebenslang geführt wird und pro Person eindeutig
+ist, mit ELENA genutzt, der Datensammlung zugeordnet zu dieser Nummer.
+
+
+Bei Menschen ist das so. Du wirst sicher verstehen, dass ich auf der
+Suche nach einem Begriff bin, der auch für KI anwendbar ist. Noch hat
+niemand eine KI, der man Subjekteigenschaften zuschreiben könnte, aber
+das ist nun einmal das erklärte Ziel dieser Forschung.
+
+
+Aber wenn wir keinen Begriff finden, der zu den Phänomenen passt, die
+wir erkennen, was sollen wir dann mit diesem Begriff machen?
+
+
+Ich möchte dem Solipsismus sicher nicht frönen, aber eine solche Welt
+ist nun einmal vorstellbar.
+
+Solipsismus führt zu nichts, weshalb ich ihn aus pragmatischen Gründen
+ablehne. Ich sehe aber nicht, auch nicht nach der Rezeption der PU,
+warum er prinzipiell falsch sein sollte über die Tatsache hinaus, dass
+er zweckfrei ist.
+
+
+Zweifelsfrei.
+
+
+Ich weise darauf hin, dass der Identifizierungswunsch für andere
+Subjekte als die zu identifizierende Person wichtig ist, dass ich aber
+gerne einen Personenbegriff hätte, der auch aus Sicht dieser Person
+funktioniert.
+
+Diese ganze Diskussion ist für mich sehr spannend, weil ich genau die
+hier angesprochenen Probleme fachlich habe. Aber ich habe sie, um genau
+zu sein, nicht nur für Personen, sondern für Objekte aller Art (Isenrich
+steht schon auf der Literaturliste ;-)
+
+Ausflug in die Codegenerierung (das ist kein KI-Thema):
+
+Namen sind etwas, was ich bei allen Objekten benötige, weil Sprache so
+funktioniert, dass sie über Namen identifiziert, nicht nur bei Personen.
+Entsprechend interessiert es mich sehr, wenn Du darauf hinweist, wie
+wichtig Namen für Personen sind, ob das Beschriebene von aussen auf die
+Person deutend (das funktioniert dann mit allen Objekten, und genau
+deshalb versuche ich zu erläutern, warum das eben dann keine
+Besonderheit der Personen ist) oder von innen als Teil der sinnvollen
+Definition (oder wenigstens Begriffsbildung) von "Person" gemeint ist.
+
+Kurz: ich forsche im Bereich der deskriptiven formalen Sprachen und
+benötige Algorithmen, um die darin liegende Bedeutung in statische und
+algorithmische Modellierung zu transformieren. Regeln sind immer der
+erste Schritt zur Idee solcher Algorithmen.
+
+Ich möchte dabei so viel Bedeutung wie möglich bei der Transformation
+erhalten, falls möglich alle.
+
+Einfach zu haben ist das, wenn es sich um eine expressive Modellierung
+bei der Ausgangsbeschreibung handelt, d.h., die Bedeutung ist explizit
+referenziert. Das Problem, auf was ich abziele, stellt sich für die
+implizit referenzierte Bedeutung. Auch diese möchte ich in der
+Zielmodellierung referenziert sehen, und da heisst das, ich muss sie
+wiederum explizit referenziert setzen, oder aber sie muss -
+hauptsächlich im algorithmischen Bereich - implizit referenziert sein.
+
+Die Kunst bisher ist es, Bedeutung explizit im Ausgangsmodell zu
+referenzieren. Das gelingt mir sehr gut, vielen Leuten aber auch
+weniger gut.
+
+Viele beschreiben mehr implizit (und machen Fehler, erzeugen
+Widersprüche, das wird dann mein nächster Schritt sein ;-)
+
+
+Nee. Ich hab Dich nur genasführt, ich bin Geschäftsführer einer GmbH und
+sprach von letzterer ;-)
+
+
+;-)
+
+Ich wollte Dich aber nicht auf den Arm nehmen, sondern Dich auf eine
+wichtige Sache hinweisen: solche Stellvertreterfunktion gibt es ja auch
+an anderer Stelle juristisch: bei rechtlichen Vertretern eben, z.B. bei
+Anwälten oder Betreuern (ich spreche hier absichtlich nicht von
+Vormündern).
+
+
+Interessant. Wie?
+
+
+Eben auch ein Interesse. Ich habe es ja gerade nicht ausgeschlossen. Ich
+wollte nur sagen, dass man Intention und Interesse nicht verwechseln
+darf (in diesem Sinne, ich kenne durchaus Denkmodelle, bei denen diese
+Begriff enger zusammenhängen), denn Interesse können Systeme auch dann
+haben, wenn sie nicht Subjekt sind, Intention aber nur im letzteren
+Falle (Interesse haben jene trotzdem).
+
+Soll ich noch Namen vergeben, um die beiden Sorten Systeme nicht nur
+desktiptiv zu referenzieren? ;-)
+
+
+Ich hätts nicht so hart ausgedrückt, seh das aber im Wesentlichen wie
+Du. Dass ich Dich nicht darauf hinweisen muss, ist mir völlig klar, ich
+habs eher für den Mitleser getan, wir diskutieren ja gerade öffentlich.
+
+
+Na, da muss ich Dich aber daran erinnern, dass Du in einem Punkte bisher
+Konsens mit mir zeigst: nämlich, dass man sehr wohl für eine Klasse von
+Begriffen Aussagen machen kann, und dass man ganze Klassen von Begriffen
+ad absurdum führen kann.
+
+Du hast das selbst mehrfach hier gemacht (und meist recht damit gehabt).
+
+Entsprechend kann man schon diskutieren, was für einen philosophischen
+Personenbegriff grundsätzlich keine gute Idee wäre, was ihn sicher
+unbrauchbar macht, und so ganze Klassen von Begriffen ausschliessen.
+Schwieriger ist es natürlich, sich in der Restklasse dann zu einigen.
+
+
+Na, jetzt kommts aber dicke ;-)
+
+
+Ich denke, dass Du falsch liegst, wenn Du denkst, es gebe etwa einen
+ultimativ zutreffenden Personenbegriff.
+
+Inzwischen nehme ich die Haltung ein, dass nicht nur Sprache
+unvollständig sein muss, sondern dass Bedeutung nicht nur sprachlich
+nicht klar zu fassen, sondern kulturell determiniert ist.
+
+Eine dicke These erfordert eine dicke Gegenthese, liebe Hella. Bin auf
+Deine Einwendungen und Ausführungen (und hoffentlich auch die von
+anderen) hierzu gespannt ;-)
+
+Heute ist ein schöner Tag - eine Diskussion auf de.sci.philosophie über
+Wahrheit steht vor der Tür :-))
+
+Viele Grüsse,
+VB.
+-- 
+Bitte beachten Sie auch die Rückseite dieses Schreibens!

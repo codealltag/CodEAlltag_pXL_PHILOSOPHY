@@ -1,0 +1,21 @@
+Nachtrag x sei in einem Koordinatensystem am Nullpunkt 1 und monoton
+stetig fallend,
+y sei am Nullpunkt 2 und stetig fallend und z sei am Nullpunkt 3 und
+stetig fallend.
+
+Alle drei Funktionen gehen in das unendliche. x ist zu Beginn der
+Funktion nicht y und auch nicht z.
+
+0________________________x____________________________________yx_________=
+
+
+Schliesslich resultiert aus
+lim_{x \to \infty} e^{-x} und lim_{y \to \infty} e^{-y} und lim_{z \to
+\infty} e^{-z}
+
+das x =3D y =3D z im unendlichen wäre, wenn die Bedingung aber die Diff=
+erenz
+von x und y und z ist, kann das aber nicht sein.
+
+Gruss
+Helmut

@@ -1,0 +1,79 @@
+On 10 Jan 2004 14:46:19 -0700, byuekjqyqifSSRVVFM@ofejlbz.ew (Hvmz
+Pfeiffer) wrote:
+
+Hallo Guy!
+
+
+So weit so gut... Nun aber meinst Du:
+
+
+Hier möchte ich Dir widersprechen - oder vielmehr... Folgendes zu
+bedenken geben: Du siehst ja selbst, dass ein (m. E. gewichtiger)
+_Unterschied_ zwischen der &E-Regel und der von Dir hier angeführten
+axiomatischen Formulierung besteht: In der (Formulierung der) Regel
+taucht keine "Implikation" auf, wohl aber in der axiomatisch
+Formulierung! Dies bedeutet m. E. dass der axiomatischen Formulierung
+KEINESFALLS mehr die selbe (gleiche) FUNDAMENTALE Gültigkeit zukommt,
+wie der Regel!
+
+Dies kann ich vielleicht am Besten verdeutlichen, indem ich mich auf ein
+System beziehe, in dem es eben nur die beiden FUNDAMENTALEN Konnektive &
+und ~ gibt. In diesem System ist nämlich -> ein _definiertes_ Konnektiv.
+
+Es gilt dann (üblicherweise):
+
+	A -> B =df ~(A & ~B).
+
+Deine Axiome würden dann in so einem System _tats�chlich_ die folgende
+Form annehmen:
+
+
+sowie
+
+
+Du wirst zugeben, dass das keineswegs mehr so ELEMENTAR erscheint (ist),
+wie
+
+	p & q |- p
+
+und
+	p & q |- q
+
+Des weiteren muss der "MPP" als eine (abgeleitete) Regel gelten in so
+einem System, damit die Axiome wirklich die &-Beseitigung "hergeben".
+
+Gilt der MPP in den (allen?) parakonsistenen Logiken?
+
+--------------
+
+Tatsächlich kann man ~((p & q) & ~p) bzw. ~((p & q) & ~q) sogar
+_herleiten_ aus den (klassischen!) Regel für & und ~ (!).
+
+Beweis:
+
+	1. | (p & q) & ~p    A
+	2. |  p & q          1 &E
+	3. |  p              2 &E
+	4. |  ~p             1 &E
+	5. |  p & ~p         3,4 &I
+	6. ~((p & q) & ~p)   1,5 RAA (~I)
+
+Dabei wurde aber Gebrauch gemacht von der Regel Reductio ad absurdum
+(d. h. wenn aus einer Annahme ein Widerspruch herleitbar ist, so darf
+die Negation der Annahme hingeschrieben werden (die Annahme ist dabei zu
+"löschen") weil eben "ein Widerspruch nicht sein kann").
+
+In einem System, der parakonsistenten Logik könnte doch nun aber RAA
+u.U. nicht mehr gelten (?). Da DORT ja Widersprüche zugelassen
+werden/sind.
+
+Das hieße dann aber, dass in diesem System ~((p & q) & ~p) _vielleicht_
+nicht mehr hergeleitet werden könnte. Also vielleicht auch nicht mehr
+gültig ist! Was also ebenfalls DAGEGEN zu sprechen scheint, dass die von
+Dir angeführten Axiome eine "axiomatische Formulierung [der &E-Regel]"
+darstellen. Denn bekanntlich ist ja &E auch noch in einem
+parakonsistentem System gültig.
+
+
+Gruß,
+T.

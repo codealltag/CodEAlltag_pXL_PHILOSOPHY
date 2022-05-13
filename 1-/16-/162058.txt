@@ -1,0 +1,78 @@
+fkygdjacv@tpdvm.ip (Ingmar Glesner) schrieb... 
+
+[...]
+
+Zum einen verursachen mentale Zustände Handlungen, also auch
+Körperbewegungen, zum anderen gehört es zur sprachlichen Kompetenz
+pragmatisch Objekte, die durch singuläre Terme denotiert werden, zu
+identifizieren. Beide Fähigkeiten gehören zur real-world-Tauglichkeit
+von Maschinen. (die Aufzählung ist nicht komplett...)
+
+[...]
+
+Wie kommst du darauf, dass nur das nachweisbar ist, dass der TT prüft?
+Anscheinend hast du einen sehr eingeschränkten Begriff von empirischer
+Signifikanz, wenn überhaupt. ;-) 
+
+
+Du hast das Argument nicht verstanden. Zur begrifflichen Klarheit
+einige Definitionen zum Funktionalismus (>functional state identity
+theory<):
+
+Ein _Programm ist eine Beschreibung der "Maschinen-Tabellle" einer
+(generalisierten) Turing-Maschine M, die eine endliche Menge von
+Zuständen Z_1,...,Z_n, von Inputs I_1,...,I_m und Outputs O_1,...,O_p
+"verzeichnet" und eine Menge von Konditionalen der Form 
+erhält, dann produziert sie den Output O_k und geht in den
+Folgezustand Z_l über< 
+spezifiziert. Wir formalisieren die Konditionale, bilden deren
+Konjuktion und erhalten einen Satz, den wir mit 
+	T(M,Z_1,..,Z_ n, I_1...,I_m, O_1,...,O_p) abkürzen.
+Dann bilden wird den entsprechenden Jänke-Satz, indem wir 'M', 'Z_i',
+'I_k', 'O_l' durch Variablen ersetzen und diese Quantifizieren, wir
+erhalten:
+(E x_1)(E x_2)...(E z_p) T(x, x_1,..,x_n, y_1,...,y_m, z_1,...,z_p)
+, ein offener Satz mit freier Variablen 'x'.
+
+Ein physikalischen System S mit den physikalischen Zuständen P1,..,Pn
+und entsprechenden Input-und Output-Zuständen _realisiert_ das
+"Programm", wenn es den offenen Satz T(S,....) erfüllt (wahr macht).
+
+So, nun kann man zeigen, dass ein Teich, bei entsprechender Zuordung
+zu physikalischen Entitäten, ein beliebiges Programm realisiert. ("
+...'realization' in the sense of mere one-to-one correlation is far
+too easily come by; for example, the profusion of microscopic events
+occuring in a sunlit pond (convection currents, biotic activity, or
+just molecular motion) undoubtley yield some ono-to-one correpondence
+or other to any psychology you like, but this should not establish
+that the pond ist, or has, a mind.", Block) 
+
+Der Zusammenhang mit dem Jeansroad stellt sich wie folgt dar: (in der
+Version, in der Unsorg die Zettel, Karten, etc. internalisiert hat und
+der Test auf einer Parkbank stattfindet) Die system-reply gesteht zwar
+zu, dass nicht das "System" Unsorg als Person Chinesisch versteht,
+dafür aber ein Subsystem S , das das "verstehende Programm"
+realisiert. (Die Existenz eines solchen müßten eigentlich die
+KI-Freaks erst 'mal zeigen!). Unsorg verhält gegenüber S (unter
+anderem) als "Interface" gegenüber der menschlichen Außenwelt. Nun
+realisiert aber auch, bei entsprechender Zuordnung, ein Teich das
+Programm. Deine Wahl ist nun:
+
+(1) Der Teich selbst versteht nichts, nur das System aus Teich und
+Interface zu Menschen. (was schon schlimm genug wäre, eine
+pantheistische Vorstellung einer allbeseelten Welt, unverantwortliche
+Metapysik)  Dann ist es aber falsch, dem (hypothetischen) Subsystem S'
+verstehen zuzusprechen, nicht aber Unsorg, der auch das Interface zur
+Menschheit darstellt.
+(2) Der Teich denkt. -> Sofortige Einlieferung des KI-Apologeten in
+die Klapse ;-) (die muskelbepackten Männer mit den Zwangsjacken warten
+schon)
+
+Noch etwas: Du möchtest ja wohl nicht im ernst dem Programm mentale
+Zustände zuzuschreiben (die müssen auch *kausal* wirksam sein),
+sondern allenfalls Systemen, die es realisieren. 
+
+[Rest gelöscht]
+
+
+dennis

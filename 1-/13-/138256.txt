@@ -1,0 +1,42 @@
+Betreff: n5
+Datum: Samstag, 10. September 2002 14:47
+
+Hallo Heimo!
+
+Es ist immer einfacher zu kritisieren , als selbst eine Antwort zu
+liefern.
+Also gut! Ich nehme ein einfacheres Beispiel:
+
+Das Ziel des Go-Spiels  ist einen gegnerischen Stein von vier Seiten
+einzuschliessen um ihn zu  entfernen.
+Ein Stein darf nicht von mehr als zwei  eigenen, oder drei
+gegnerischen Steinen umgeben sein und muss immer "Luft" haben.
+Es kann zu einer Stellung kommen, wo jeweils drei Steine zwei
+benachbarte, leere Felder umgeben.
+Man nennt sie ein "Auge". Setzt man dort einen Stein, so könnten sie
+abwechselnd entfernt werden,
+Also übergeht man diese Patt-Stellung um nicht unnötig Steine zu
+verlieren.
+Nehme diesen Zustand als Beispiel für _Nichtdualismus_.
+Eben dieser _Nichtdualismus_ wird im Fall (3.) der [Nichtdualit�t]
+negiert.
+
+Ein Satz, der im Sinne der [Nichtdualit�t] inhärent ist wäre lautet
+also:
+
+         "Es darf im Go-Spiel (1.) keine weisse Steine geben,
+                                        (2.) keine schwarze Steine
+geben,
+         _und_(und nur "und") (3.) keine "Augen" geben."
+
+
+(1.) _und/oder_ (2.) sind für sich "falsch", doch innerhalb des
+"Auges" sind sie "richtig".
+Dasselbe gilt für Fall (3.)  für sich.
+
+Verstehst du jetzt wieso ich nicht von "richtig" _und/oder_ "falsch",
+sondern von [Symmetrie] spreche?
+Verstehst du was ich mit [selstbez�glicher Inhärenz] meine?
+Versteht mich hier Irgendjemand?
+
+(Taschenlampe)hinrich.

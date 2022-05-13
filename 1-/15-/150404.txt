@@ -1,0 +1,11 @@
+Hallo Dirk,
+Das ist ganz nett, aber rein pragmatisch repräsentiert diese scheinbar
+unsinnige Zeichenkette eine IP-Adresse, die mir neulich tatsächlich so
+als String begegnet ist, allerdings ohne oktet hintendran, das war von
+mir -- zugegeben ;-)
+Gefühlsmässig bekomme ich die Lösung auch ohne Probleme hin, aber ich
+weiss nicht wie ich einem Computer beibringen sollte, dass er sie selber
+erkennt.
+
+Gruss
+Samu

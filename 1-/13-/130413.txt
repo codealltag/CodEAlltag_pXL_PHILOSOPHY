@@ -1,0 +1,118 @@
+Was soll "nicht angemessen Rechnung tragen" heißen?  Da sie vor Ungetüm
+beides nicht auseinanderhalten konnten?  Das ist absurd.
+
+
+a) Jeder Mensch liebt irgendeinen Menschen.
+
+b) Alle Menschen lieben einen bestimmten Menschen.
+
+
+Das glaube ich nicht.  Zum Text:
+
+
+Die logische Unabhängigkeit ist schwierig zu begründen angesichts der
+Tatsache, daß der Autor sauber nacheinander seine Prämissen aufführt
+und am Ende einen Satz mit "Also" beginnt.
+
+
+Ich nehme mal den zweiten Weg, da er am Kürzesten ist.
+
+    "Der zweite Weg ist aus dem Begriff der bewirkenden Ursache
+    (genommen). (a) Wir finden nämlich, daß in den sinnlich wahrnehmbaren
+    (Dingen) hier eine Ordnung der wirkenden Ursachen besteht. Es findet
+    sich jedoch nicht und ist auch nicht möglich, daß etwas Wirkursache
+    seiner selbst sei, da es so früher wäre als es selbst, was unmöglich
+    ist. (b) Es ist aber nicht möglich, daß die Wirkursachen ins
+    Unendliche gehen, weil bei allen geordneten Wirkursachen (insgesamt)
+    das Erste Ursache des Mittleren, und das Mittlere Ursache des Letzten
+    ist, sei es daß das Mittlere mehreres oder nur eines ist. Ist aber die
+    Ursache entfernt worden, dann wird auch die Wirkung entfernt. Wenn es
+    also kein Erstes in den Wirkursachen gibt, wird es kein Letztes und
+    auch kein Mittleres geben. Wenn aber die Wirkursachen ins Unendliche
+    gehen, wird es keine erste Wirkursache geben, und so wird es weder
+    eine letzte Wirkung, noch mittlere Wirkursachen geben: was offenbar
+    falsch ist. (c) Also ist es notwendig, eine erste Wirkursache
+    anzunehmen. Diese nennen alle Gott."
+
+Du meinst also, das was vor der Konklusio steht, läßt sich als 
+
+    "(Ax)(Ey)Rxy -> (Ey)(Ax)Rxy"
+
+formalisieren?  Vor allem dieser Schritt bedarf der Begründung. 
+
+Ich kenne mich in mittelalterlicher Philosophie nicht aus.  Ich kenne
+auch nicht den Kontext dieses kleinen Textabschnitts, weiß nichts über
+die Güte der Übersetzung usw.  Auf Anhieb finde ich es ziemlich skurril
+anzunehmen, Eugen Oehlert hätte logisch fehlerhaft die Existenz von
+genau einer einzigen Wirkursache beweisen wollen.  Wahrscheinlich
+hätte er dem Einwand, an der Schöpfung könnten nach diesem Argument
+auch mehrere unabhängige Götter beteiligt gewesen sein (statt: "Alle
+Ursachenketten haben eine bestimmte erste unverursachte Ursache" gilt:
+"Jede Ursachenkette hat irgendeine unverursachte Ursache"), sofort
+stattgegeben.
+
+Eine mögliche, sicherlich oberflächliche Interpretation, die der
+Textgrundlage nicht widerspricht und ein gültiges Argument darstellet:
+
+Prämissen/Definitionen: 
+    Jede Wirkung hat eine Ursache derart, daß gilt: Wenn die Ursache
+    wegfällt, findet auch die Wirkung nicht statt.
+
+    Ursachen und Wirkungen bilden Ursachenketten, in denen jede
+    Ursache wieder bewirkt ist.  Fällt die erste Ursache einer solchen
+    Kette weg, findet die letzte Wirkung nicht statt.
+
+    Es gibt Wirkungen.
+
+Argument (Form: reductio ad absurdum): 
+    Ohne die Annahme einer selbst unverursachten Ursache würden die
+    Ursachenketten tatsächlich unendlich in die Vergangenheit reichen.
+
+    Wenn dem so wäre, gäbe es keine erste Ursache der tatsächlichen
+    Ursachenketten.
+
+    Wenn dem so wäre, würden gemäß Prämisse 2 die Wirkungen nicht
+    stattfinden, was Prämisse 3 widerspricht.
+
+    Also müssen wir für jede Ursachenkette eine selber unverursachte
+    Ursache annehmen.
+
+    Eine selber unverursachte Wirkursache nennen alle Gott.
+
+Ich habe das "für jede Ursachenkette" eingesetzt, um Deine Interpretation,
+die ich für ein Mißverständnis halte, auszuschließen:
+
+    Wenn aber die Wirkursachen [einer Ursachenkette] ins Unendliche
+    gehen, wird es keine erste Wirkursache geben, und so wird es weder
+    eine letzte Wirkung, noch mittlere Wirkursachen geben: was
+    offenbar falsch ist. (c) Also ist es notwendig, eine erste
+    Wirkursache [für eine Ursachenkette] anzunehmen.  Diese nennen
+    alle Gott.
+
+Das ist im Zusammenhang des Arguments naheliegend.
+
+Offenbar ging es Eugen Oehlert darum zu zeigen, daß unser Konzept
+von Ursache und Wirkung, das sich auf alle Ereignisse innerhalb der
+Welt anweden läßt, zwingend etwas voraussetzt, was außerhalb des
+Konzepts steht, insofern als es selber nicht bewirkt ist.  Da es
+einen und nicht mehrere Götter gibt, ist hier schlicht nicht Thema,
+
+
+Du hast gezeigt, daß nach diesem Gottesbeweis auch mehrere Götter die
+Welt geschaffen haben könnten.  Ich weiß nicht, ob man mit formaler
+Logik schneller drauf kommt als ohne.
+
+Aber den Kern des Arguments, nämlich den Beweis, daß es überhaupt
+entweder eine oder mehrere unverursachte Ursachen geben muß, hast Du
+völlig verfehlt.
+
+Wenn man einem Autor nicht zustimmt, muß man zunächst überprüfen, ob
+man ihn überhaupt richtig erfaßt.  Interpretieren heißt bekanntlich,
+dem Autor bestimmte Annahmen zu unterstellen.  Dabei muß man so
+verfahren, daß man diese Annahmen möglichst teilt ("principle of
+charity").  Das gilt auch für unmittelbare Folgen, wenn z.B. die
+Unterstellung einer bestimmten Beweisabsicht dazu führt, daß das
+Argument fehlschlägt.  
+
+
+Ciao, Felix

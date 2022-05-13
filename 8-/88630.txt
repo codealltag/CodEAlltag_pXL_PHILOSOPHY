@@ -1,0 +1,26 @@
+Da "~a" keine wohlgeformte Formel ist, ist die Frage sinnlos.
+"a" ist ein Symbol für einen singulären Terminus, hauptsächlich für
+Eigennamen.
+Es werden aber nicht Namen verneint, sondern Aussagesätze oder
+Prädikate.
+
+Übrigens, "p" ist üblicherweise kein Symbol der Prädikatenlogik, das
+für einen Namen steht, sondern eines der Aussagenlogik, das einen
+ganzen Aussagesatz symbolisiert!
+(Natürlich kann "p" auch für einen Namen verwendet werden, sofern
+klar ist, ob man sich im Bereich der Aussagen- oder der
+Prädikatenlogik bewegt.)
+
+
+"~" ist ganz einfach eines der Symbole für die Negation.
+(Im modernen Symbolismus wird dafür ein anderes Zeichen benutzt, das
+aber nicht im ASCII-Zeichensatz enthalten ist.)
+
+
+"~a" ist keine wohlgeformte Formel der Prädikatenlogik und damit auch
+keine Aussage, die wahr oder falsch ist. Der Ausdruck "~a" verstösst
+gegen die Formelbildungsregeln der prädikatenlogischen Syntax und ist
+deswegen nichtig.
+
+Gruss
+CHARLY

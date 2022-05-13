@@ -1,0 +1,35 @@
+Also verschiedene Theorien aufstellt, warum das Ergebnis so ist wie es
+ist.  Einige von ihnen vielleicht testet, z.B. bei der naechsten
+Ueberpruefung oder durch Befragung.
+
+
+Mache ich das nicht taeglich, wenn ich z.B. eine unverstaendliche
+Fehlermeldung vom Compiler kriege?  Ich versuche zu erraten, was ihn
+an meinem Text stoert, und teste die Hypothese indem ich den Text
+korrigiere und noch mal kompiliere.  Meistens klappts (inzwischen)
+sofort, aber manchmal taeusche ich mich auch dabei.
+
+Wobei das ganze auf einem Modell dessen beruht, wie der Compiler
+meinen Text bearbeiten duerfte - halt mehr oder weniger wie ich den
+Compiler schreiben wuerde.  Was halt nicht immer stimmt, weil
+verschiedene Compilerbauer sehr verschieden arbeiten und die
+offiziellen Sprachdefinitionen nicht unbedingt bis ins Epsilon
+einhalten, oder meinetwegen auch weil ich (im Gegensatz zum
+Compilerbauer) die Sprachdefinition nicht in alle Epsilons richtig
+verstanden habe.
+
+Von mir verlangt man kompilierbaren Code, und nicht Code der
+irgendwelchen Standards entspricht aber auf realen Compilern
+scheitert, und auch nicht Code der nach den Zielen der Programmierer
+des Compilers eigentlich compilierbar sein sollte.  Wenn ich mich also
+darueber taeusche, was der Nicht-Standard-Compiler an meinem Code
+auszusetzen hat, was sich darin zeigt, dass mein erster
+Korrektur-Versuch scheitert - bin ich damit nicht ganz gut in deine
+Beschreibung reingerutscht?
+
+Ist da ein prinzipieller Unterschied zum Lehrer, der mit Hand meinen
+Text auf Fehler untersucht - ausser dass der weniger zuverlaessig ist?
+
+Alex
+-- 
+C. Dienstag,  <dndf@gtnq-tisulnnxb.oys>, http://fevk-dachujcsj.jfn

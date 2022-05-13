@@ -1,0 +1,19 @@
+Sicher kann es den Anschein haben, dass ich hier die Bedeutung an der
+Verifikation festmachen wollte. Aber dem ist nicht so. Ich ueberlege
+mir, ob ich folgende Uebersetzung von (1) machen kann: "Zu n Personen
+gibt es einen Algorithmus, der zeigt, dass es einige Kuenstler gibt, die sich 
+gegenseitig bewundern und sonst niemanden." (2)
+
+Man kann n auch zunaechst von dem Algorithmus bestimmen lassen und 
+daraufhin fuer diese n Personen Saetze praedikatenlogisch ausgeben lassen. 
+So gaebe es zu jedem n ein praedikatenlogisches System von Saetzen.
+
+Ist nun (1) eine wahre Aussage, dann kann ich das mit einem Algorithmus
+entscheiden und (2) gilt. Umgekehrt: Gilt (2), so gilt auch (1). (1)
+und (2) sind also aequivalent. Im konstruktiven mathematischen Sinne
+wuerde ich hier meinen, dass diese Aequivalenz doch ausreicht, oder?
+(Immer unter der Annahme, dass wir hier endlich viele Personen haben.)
+
+
+Gruss Norman
+--

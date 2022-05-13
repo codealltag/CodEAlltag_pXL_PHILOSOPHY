@@ -1,0 +1,38 @@
+Patrice Derk:
+
+
+Nein, nur weil du glaubtest, dass vorgestern Dienstag war, glaubtest du
+gestern, das Mittwoch und glaubst heute, dass es der Donnerstag sei.
+Mit der gleichen Begründung kann aber auch heute Freitag sein, mein
+Codebeispiel hat sich nicht verrechnet, es hat nur einen anderen Kalender
+verwendet und aus einer Systemzahl dann einen Tag gemacht. 
+GregorianToJD (11,27,2002); 
+Datum übergeben in englischer Notation Monat,Tag,Jahr.
+da kommt dann eine Zahl wie  die 2452971 raus.
+Die "richtige" Zahl ist aber 1069887600.
+Der Computer weiss aber in seiner Systemzeit nichts von Kalendern und
+Wochentagen, er ist einfach nur ein blöde Rechenmaschine.
+Also geht der Rechenbefehl date schief und landet beim falschen Tag.
+Genausogut könnte ich irgendeinen Tag ab April 2037 nehmen und der
+Computer wüsste es ebenso wenig, es sei denn ich bringe es ihm bei. 
+Ob ich ihm aber nun den chinesischen , den gregorianischen, den jüdischen
+Kalender beibringe ist meine Sache. Es kommt darauf an, was das Ding
+machen soll. Wenn es eine Historiendatenbank sein soll, dann würde ich mit
+der Systemzeit von 1969 bis 2037 ziemlich auf die Schnauze fliegen, obwohl
+die Tageszahl stimmen mag. 
+Da per Diktat ein paar Wochentag per päpstlicher Verordnung einfach
+ausgefahlen sind ist das Datumsproblem alles andere als Trivial. Nun gut
+nach dem es Venzlaff gab, ist es in einem gewissen Rahmen eigentlich kein
+Problem, es sei denn man will nicht den julianischen Kalender benutzen. 
+
+Obwohl ich dir zwar glaube, dass heute Donnerstag ist, habe ich keine
+Ahnung welcher Tag heute wäre, wenn wir die ausgefallenen Wochentage
+mitnehmen würden. Vielleicht hätten wir Glück und die historischen
+Ausfälle sind durch 7 teilbar und wären wieder Donnerstag. Vielleicht sind
+es aber auch eine durch 6 teilbare Zahl. 
+
+Wirkliches Wissen ist es nicht, wenn du auf den traditionellen Glauben des
+Vortages zurückgreift.
+
+Grösse,
+Laurent

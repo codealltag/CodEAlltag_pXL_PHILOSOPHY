@@ -1,0 +1,31 @@
+Ich gebe dir insoweit Recht, als die axiomatische Fassung theoretisch
+voraussetzungsvoller ist als die Regelformulierung.
+
+
+Da bin ich leicht überfragt, aber soviel ich weiss, gilt in den
+meisten parakonsistenten Systemen der disjunktive Syllogismus,
+A, ~AvB |- B, nicht, was bedeutet, dass, wenn A -> B definiert ist als
+~AvB, der modus ponens ebenfalls nicht gilt.
+Ein möglicher Ausweg besteht darin, "->" als undefiniertes Konnektiv
+zu behandeln und
+
+(A & B) -> A bzw. (A & B) -> B
+
+als Axiom einzuführen. 
+Ich kenne ein parak. System, in dem das so gehandhabt wird.
+
+
+Die vorhandenen Systeme sind ziemlich heterogen, sodass ich in
+Ermangelung eines Gesamtüberblicks keine verbindliche Aussage dazu
+machen kann. Eines steht allerdings fest: RAA kann in einem
+parakonsistenten/dialetheischen System nicht mehr einfach so, d.i.
+klassisch, gelten, was nicht heissen soll, dass sie in einem
+derartigen System per se unmöglich gelten kann.
+
+
+Ich räume ein, dass Regeln nicht in jedem nichtklassischen System
+axiomatische Entsprechungen haben. Insofern ist meine diesbezügliche
+Aussage nicht ganz präzise.
+
+Gruss
+VITO

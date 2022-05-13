@@ -1,0 +1,187 @@
+Fein, ich habe seinerzeit eine Software für die
+Simulation solcher Wasserversorgungs-Netze entwickelt.
+
+
+Wie wird es "konstruiert"?
+
+Ist in "ein System konstruiert" deine Wortverwendung von "System"
+kompatibel mit deiner Definition von "System"?
+
+
+Das ist ein no-brainer.
+
+
+ok. Was, wenn die Simulationswerte nicht befriedigen?
+
+Wie kann das sein, wo doch eine algorithische Konstruktion stattfand.
+
+
+Ja. Die konkrete 2-d-Verlegung eines Rohres spielt für die
+Druckverteilung ja kaum eine Rolle.
+
+Inwiefern wird dann aber "konstruiert"?
+
+Ist die Definition einer Netzwerktopologie mit ein paar
+Parametern je Knoten und Kante schon eine "Konstruktion"?
+
+
+Lassen wir mal die betriebwirtschaftlichen Komplikationen weg.
+
+
+Ja, aber in dem Maß werden sie nicht mehr vom Techniker durchgeführt.
+
+
+Mag sein.
+
+Auch Textprogramme erlauben Automatisierungen, die mehr oder weniger
+benutzt werden.
+
+
+Ist es die häufigste Form Sicherheit einzubauen?
+
+Nenne andere Formen/Muster für Sicherheitsreserven.
+
+
+Das mag in der unterschiedlichen Arbetisteilung in den Projekten liegen, mit
+denen wir zu tun hatten.
+
+
+Beispiel: Die Benutzer eines kommunalen Wasserversorgungsnetzes
+reklamieren Druckschwächen, die sich durch Messungen bestätigen.
+
+Wie reagiert dein idealtypischer Ingenieur?
+
+
+Er vermutet bei einem Blick auf den Netzplan eine zu schwach dimensionierte
+Rohrstrecke, simuliert das Netz mit einer erhöhten Rohrdimension, bekommt
+die erwarteten positiven Ergebnisse und schlägt entsprechende Umbauarbeiten vor.
+
+
+Was wäre denn deine Liste von Problemen im Schulsystem?
+
+
+Definiere "politische Schieberei". Für mich ist völlig unklar,
+was du damit meinst.
+
+
+Scheint auf Gegenseitigkeit zu beruhen.
+
+
+Die "wissenschaftliche Theorie" ist ja nur ein Muster im Rahmen
+der wissenschaftlichen Welt.
+
+Interessanter wäre für mich eine konsistente Aufarbeitung aller
+im Bereich der Wissenschaft vorkommenenden Muster, also eine
+Beschreibung einer "Mustersprache der Wissenschaft".
+
+
+Aber du hast weder "Wissenschaft" noch "Wissenschaftlichkeit" definiert.
+
+Insofern genügst du deinem Selbstanspruch nicht.
+
+
+Und du verstößt gegen deine eigene Definition durch inkonsistente
+Verwendung des Begriffes "System".
+
+
+Keinesfalls eine Klasse. Das wäre ja eine rein logische Zusammenfassung.
+
+Keinesfalls eine Menge im klassischen Sinne, denn das würde ja
+gleiche Elemente ausschließen. "Liste" trifft es besser.
+
+Geometrisch etwas in dem Sinn, dass man das System "Planet Erde"
+als alles definieren könnte, was innerhalb von Radius+200km
+vom Erdmittelpunkt entfernt liegt.
+
+
+Weil die Interaktionen und Wechselwirkungen im Vergleich zu
+anderen Objekten vernachlässigbar sind.
+
+
+Du kannst mir aber nicht den Vorwurf machen,
+dem Konkreten auszuweichen, oder?
+
+
+Geschlossene und offene Systeme sind bestehende Vorstellungen
+etwa der Thermodynamik und Kybernetik. Begriffe aufzubauen, die
+damit inkompatibel sind, ist problematisch.
+
+
+Möglich, aber die Abstraktionseben passt nicht.
+Es könnten ja Objekte mit tausenden Variablen ins System eintreten,
+oder Energie/Wärme könnte viele Variablen stochastisch verändern.
+
+
+Dachte ich es mir doch.
+
+Wie machst du in DVDDUVST die Objektabstraktion?
+
+
+Mag sein, aber Automaten sind halt keine sehr interessanten Systeme.
+
+
+Potenziell ja. Aber wir reden hier über Modelle, also im Rahmen der
+Beliebigkeit menschlicher Anwendung bzw. Interpretation.
+
+
+Kannst du die Menge der Systeme angeben?
+
+
+Nein, das wäre vermutlich nicht sinnvoll.
+
+
+Ja, vermutlich die Mehrheit der Zentren.
+Das Wort "Mehrheit" in obigen Satz ist ein Zentrum, aber kein System.
+
+
+Das ist doch nicht so schwer zu verstehen.
+
+Man könnte sagen:
+   - ein Objekt in der Rolle als Systemelement wird "Zentrum" genannt
+   - ein Objekt in eigenständiger Rolle, wo es um innere Struktur und
+     innere Funktionen geht, wird "System" genannt
+
+
+Den Begriff "Aggregationgrad" hab ich beim Nachlesen in Neukirchinger
+aufgeklaubt. Es geht einfach darum, auf welcher Abstraktionebene
+(Atome, Gegenstände, Planeten, ...) ein System modelliert wird.
+Würdest du es in einem Buch lesen, würdest du es akzeptieren und
+keinen Augenblick darüber nachdenken.
+
+
+Muster spielen eine wichtige Rolle.
+Muster sind Einheiten der Wissensvermittlung.
+Muster sind Prototypen für Objekte/Systembestandteile und damit
+Ergebnis/Ziel von Systemveränderungen.
+
+Es kann gemeinsame Muster in verschiedenenen Anwendugnsfeldern geben:
+Ein abstrakteres Muster "Vier-Augen-Prinzip" könnte sich in der
+Wirtschaft als "2-er Vorstand" und in der Flugsicherheit als "Co-Pilot"
+wiederfinden. Man könnte diese Muster aber auch ohne diese Abstraktions-
+ebene unabhängig beschreiben.
+
+Wenn Anwendungsbereiche nahe verwandt sind, werden gleiche Muster
+auftreten. Das Muster "Argument" kann in einer Mustersprache
+für "Erziehung" auftreten, aber auch in einer Mustersprache für
+die "Politische Diskussion".
+
+Aber das sind eher Ausnahmefälle.
+Normalerweise sind Muster verschiedener Anwendungfelder
+... wie sagst du vielleicht .. elementfremd? disjunkt?
+
+
+Ich sehe keine Anwendungen der Mathematik für Analogien.
+
+Bitte gib mir Beispiele, damit ich mir darunter etwas vorstellen kann.
+
+
+Ich dachte auf DVDDUVST?
+
+Was leistet denn die "Modelltheorie"?
+Wie definierst du "Modell"?
+
+
+Wenn es nicht so ist, dann ist es ein Mangel der Fachexperten
+und nicht so der der transdisziplinären Arbeit.
+
+lg Rolf

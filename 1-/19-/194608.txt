@@ -1,0 +1,12 @@
+Neben anderen Konzepten gibt es ein in den _empirischen
+Sozialwissenschaften_ recht beliebtes, das auf die zeitliche Abfolge
+abzielt. Nach der sog. Granger-Kausalität liegt A->B dann vor, wenn ein
+Zusammenhang zwischen zeitlich vorgelagerten Ereignissen A und spaeteren
+B messbar ist und das Gegenteil nicht gilt.
+Ein Problem kann z.B. dann auftauchen, wenn menschliches Verhalten
+untersucht wird. Gilt tatsächlich A->B und kann A vorhergesagt werden,
+erfolgt evtl. eine Reaktion von B schon vor A. Dies wird berücksichtigt,
+indem ein Ereignis C:="A wird erwartet" definiert wird. Somit haben wir
+zeitlich B;A beobachtet, interpretieren das aber als C->B.
+
+Größe, Italo

@@ -1,0 +1,35 @@
+Regarding the article <zvzr0fww2m.4k.xylsjxk@k1.nkko.rc>, by jtxjbmb@jbus.pn 
+(Frotjp Host):
+
+Obwohl Pius hat die Frage inzwischen schon teilweise beantwortet, 
+ich versuche es noch deutlicher zu machen.
+
+Ein absolut deterministisches Algorithm can nur eine Klasse von Aufgaben 
+loesen, wofuer es geschrieben ist. Wenn die Aufgabe geaendert wird, kommt der 
+Algorithm in Schlefe und findet nie eine richtege Antwort.
+
+Ein absolut zufaelige Algorithm (das macht alle moegliche Schritte rein 
+zufaelig) wird _immer_ die Antwort zu jeder neue Augabe finden. (Kreativitaet) 
+Es verbraucht aber dafuer sehr viel Zeit. Mit Steigung der kombinatorishen 
+Kompliziertheit der Aufgabe und Anzahl der Aufagen (sogar wenn sie
+haben was gemeinsames) steigt der Nummer der Sritte expotentiell.
+
+Und aendlich ein Algorithm, das hat Vorteile von beiden - Kreativitaet
+und Geschwindigkeit: 
+
+Es macht zufaelige Schritte, aber lehrnt von seine Erfahrung. 
+Wenn Aufgabe sind nicht ganz ungleich (haben Korrelation), es wird
+jede nexte Aufgabe schneller loesen. Solche Algorithme heisen quasi-zufaellig
+und dazu zahle ich das menschliche Intellekt. Wie kann das funktionieren?
+
+Beispiel (von Aichbichler aus relcom.sci.phlilosophy) - wir laufen in einem
+nicht-zufaelligen Labirint. Bei erstem Mal wissen wir nicht, rechts oder
+links zu geben. Wir werfen ein Wuerfel, wo helfte von seiten haben
+"links" geschrieben, helfte "rechts". Wir gehen dann z.B. nach rechts,
+(wie es 'rausgefallen ist) und finden das es war richtig. 
+Beim nexten Verzweigung wir schreiben auf dem Wuerfel ein "rechts"
+mehr - d.h. 2 mal links und 4 mal rechts usw. So bleibt das Algorithm
+zufaellig aber accumuliert die Erfahrung...
+
+Regards,
+        Lotti

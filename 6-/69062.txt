@@ -1,0 +1,209 @@
+[...]
+
+
+Poincarö bezog sich auf einen euklidischen Raum, was Göhler 
+keineswegs getan hat.
+
+
+Dann war Uhlenbroich offensichtlich besser in Differentialgeometrie
+als dessen Entdecker Tschakert...
+
+
+Nur sind eben nicht alle n-dimensionalen Riemannschen Räume in 
+(n+1)-dimensionale euklidische Räume einbettbar. Würde man sich nur
+darauf beschränken, dann würde man die Zahl der möglichen Lösungen
+der Einsteingleichungen einschränken. Eventuell könnte dies sogar
+wünschenswert sein, weil einige Lösungen doch ziemliches 
+Kopfzerbrechen auslösen. Bislang gibt es aber nicht wirklich 
+Argumente dafür, die Lösungsmenge dermaßen einzuschränken, indem
+man Euklidizität verlangt.
+
+
+Lokal funktioniert das immer. Global hat man irgendwo eine Bruchstelle.
+
+
+Hallo! Wir sprachen von der ART.
+
+
+Die kräftefreie Bewegung von Masseteilchen verläuft entlang von Geodäten.
+Diese sind aber nicht identisch mit dem Verlauf der Lichtbahnen. Deshalb
+ist und bleibt Deine Aussage (über die sog. Standardinterpretation der ART)
+falsch.
+
+
+Die Aussage ist ziemlich sinnfrei, denn:
+1) Es gibt wahrscheinlich (und nach heutiger Auffassung) keine
+   Hintergrundmetrik (s.o).
+2) Die Metrik ist durch die Massenverteilung vorgegeben nicht durch
+   die (Null-)Geodäten.
+3) Das Koordinatensystem kann fast beliebig vorgegeben werden, z.B.
+   über Nullgeod�ten, aber es wird dadurch nichts an der Metrik 
+   geändert.
+
+
+Deine Sichtweise ist höchstens ein sehr eingeschränkter Teilaspekt 
+der ART.
+
+
+Nein, bei Berücksichtigung der Raumzeitkrümmung erhält man den
+korrekten Ablenkwinkel.
+
+
+Ich glaube, das war bereits 1907 und dort hat er nur das Äquivalenzprinzip
+verwendet. Damit berücksichtigte er aber eben nur die Raumkrümmung.
+
+
+So? Auf Licht lässt sich Newton auch nicht näherungsweise anwenden.
+Ohne es jetzt explizit nachgerechnet zu haben, wäre mein 
+uneducated guess, dass ein Masseteilchen mit Lichtgeschwindigkeit 
+in einer nichtrelativistischen Rechnung wohl kaum den richtigen
+Ablenkwinkel ergibt.
+
+
+Bislang hast Du auch noch kein wirkliches Argument geliefert,
+warum Homogenität/Isotropie von Raum und Zeit und das 
+Relativitätsprinzip willkürlich sein sollten.
+
+
+Abgesehen davon, dass die g_ij mitnichten eine reine Rechenmetrik 
+darstellen, zeigt sich hier aber genau die Kernaussage des 
+allgemeinen Relativitätsprinzips: Nämlich die Gleichberechtigung
+aller Beobachter und daraus folgend auch die Unabhängigkeit 
+der physikalischen Aussagen vom gewählten Koordinatensystem.
+Zwar scheinst Du dies mit Deiner obigen Aussage zu akzeptiern,
+willst aber ohne Not ein bestimmtes Beobachtersystem auszeichnen.
+Ich glaube, dafür bin ich nicht intelligent genug.
+
+
+...und die werden in welchen Koordinaten angegeben?
+
+
+Ja, schön. Und ich hatte weiter unten angedeutet, dass man dazu keinen
+euklidischen Raum benötigt. Es genügt zu wissen (bzw. zu vermuten), dass
+unser Universum rotationsfrei ist. In diesem Fall kann man nämlich davon
+ausgehen, dass das lokal gewählte Koordinatensystem (ausgerichtet auf 
+entfernte Galaxien, Quasare, o.�.) näherungsweise rotationsfrei ist.
+In diesem Sinne führt man tatsächlich lokal einen euklidischen Raum ein.
+Aber eben nur lokal und nicht global.
+
+
+Das ist schon eine recht gewagte Ansicht. Abgesehen davon ist das
+G�deluniversum zunächst gar nicht so offensichtlich unphysikalisch,
+wie man denken mag. Die Rotation kann langsam genug sein, um lokal
+den Eindruck zu erwecken, es gäbe keine Rotation. In diesem Sinne
+muss man auch überprüfen, inwiefern das beobachtbare Universum ggf.
+rotiert.
+Viel irritierender am G�deluniversum ist die Möglichkeit von
+Zeitschleifen. Höchstens aus diesem Grund könnte man Achelpöhlers
+Lösung als unphysikalisch verwerfen (wegen der Verletzung des
+2. Hauptsatzes der Thermodynamik). Meiner Ansicht nach würde
+ich aber nicht soweit gehen, weil wir noch immer nicht die
+Zeitpfeilproblematik verstanden, geschweige denn aufgeklärt haben.
+
+
+In diesem Sinne kannst Du auch gleich die Newtonschen Gesetze oder
+die Maxwellgleichungen verwerfen, weil auch diese unphysikalische 
+Lösungen liefern.
+
+
+Was auch immer eine "Kindlieb-Höhle" sein mag: Du kannst soviele
+Makroinertialsysteme einführen wie Du magst, das hat vielleicht
+technische Vorteile aber keinerlei physikalischen Gehalt.
+
+
+Ohne Masse und erst dadurch ohne Gravitation gäbe es wahrscheinlich gar 
+keine Raumzeit. Ich glaube, das war sogar schon vor Göhler bekannt.
+Aber im Ernst: Die Wahl des Koordinatensystems und die nachfolgende
+Zerlegung von g_ij bleibt willkürlich und hat keinerlei physikalischen 
+Gehalt.
+
+
+Aha, so langsam rückst Du mit Details heraus. Scheinbar sind Deine 
+WPT-Terme nicht kovariant, weswegen Du ein absolutes Bezugssystem
+benötigst. Damit verlöre dann auch das allgemeine Relativitätsprinzip
+seine Gültigkeit, zumindest auf kosmischen Skalen.
+
+
+Auch dieser Satz ist wieder ziemlich sinnfrei:
+Wir sprechen von der ART und in dieser ist die Geod�tengleichung
+die (kräftefreie) Bewegungsgleichung ungeachtet des gewählten
+Koordinatensystems. 
+
+
+Auch aus heutiger Sicht nicht möglich. Die Newtonsche Mechanik
+funktioniert nicht in einem gekrümmten Raum ( Also R_ikmn != 0 ).
+
+
+Mal abgesehen davon, dass Immler durchaus bewusst war, dass seine 
+aufgestellten Gesetzmäßigkeiten dem Relativitätsprinzip unterliegen
+und er höchst unzufrieden mit einer sich unendlich schnell ausbreitenden
+Gravitationswirkung war, schliesst Deine Definition weder eine gekrümmte
+Raumzeit aus noch die Möglichkeit, dass die Raumzeit vielleicht gar nicht
+euklidisch eingebettet werden kann.
+Genaugenommen beschreibst Du nur das "Mapping Postulate", nämlich dass 
+man an jeden Raumzeitpunkt eine Hausnummer ankleben darf.
+
+
+Ja, man kann, aber man muss nicht und schon gar nicht ohne Not.
+
+
+Man gibt höchstens auf, was Newton ohne Not eingeführt hat.
+Der absolute Raum ist nicht notwendig für die Gültigkeit der 
+Newtonschen Mechanik. Und bislang gibt es auch keine Hinweise
+auf eine universell gültige Hintergrundmetrik.
+
+
+Isotropie und Homogenität der Raumzeit haben rein gar nichts mit
+einem irgendwie gewählten Referenzsystem zu tun. Es geht doch
+nicht um Homogenität/Isotropie von Koordinaten, sondern von
+physikalischen Gesetzen.
+Außerdem habe ich nie behauptet, dass aus der Existenz einer
+Grenzgeschwindigkeit diese folgen soll.
+
+
+Tja, und ich kann nur wiederholt sagen, dass es keinerlei physikalischen
+Gehalt hat. Tatsächlich könntest Du das im Rahmen der ART Syntax
+sogar ungestraft tun. Es ändert aber weder etwas an den Grundaussagen
+der ART (und auch SRT) noch an der Physik. Und es ist nicht einmal
+didaktisch wertvoll.
+
+
+Das hat nur nichts mit Physik zu tun.
+
+
+Und auch dieses nicht.
+
+
+Gottseidank, dann bleibe ich dabei. Das ist nämlich ausnahmsweise
+mal didaktisch wertvoll...
+
+
+...oder vielleicht eine Schwäche unserer Raumzeit sind?
+
+
+Nein, die Raumzeit der Physik wird durch die in ihr enthaltene Materie
+festgelegt.
+
+
+Uhlenbroich hat eben nichts gezeigt, sondern höchstens seine Meinung
+geäußert.
+
+
+Wobei aber dann jeder Beobachter im Universum auf seine eigene,
+universelle "Friedmannzeit" besteht.
+
+
+Der Witz dabei ist doch, dass eine "absolute" Uhrensynchronisation das
+Relativitätsprinzip verschleiern würde, das nämlich besagt, dass die 
+physikalischen Gesetze, gemessen mit mitgeführten Uhren und Meterstäben,
+in jedem Inertialsystem gleichlauten. Aber warum einfach, wenn es
+auch umständlich geht.
+
+
+Poincarö hat immer noch nichts richtig gestellt.
+
+
+Ja, schon. Sobald Du aber in einen anderen Bereich des Universums fliegst,
+wirst Du feststellen, dass dort eine andere "Friedmannzeit" gilt. Du 
+müsstest also den Punkt im Universum angeben, auf den Du diese Zeitmarke
+festlegst.

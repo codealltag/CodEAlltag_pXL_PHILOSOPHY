@@ -1,0 +1,87 @@
+Hallu Orlando,
+
+
+Die Definition besagt lediglich, welche Eigenschaften eine Menge haben
+muss, die "Menge der natürlichen Zahlen" genannt wird. 
+
+Wie diese Menge gebildet wird, ist nicht Bestandteil der Definition. 
+
+Dass die Menge der natürlichen Zahlen existiert, lässt sich (im
+ZF-System) aus den Axiomen ableiten.
+
+Diese Axiome sind frei gewählt; wenn sie Dir nicht zusagen, wähle doch
+einfach andere.
+
+
+Wie gesagt: das Axiomensystem ist frei wählbar; nimm das, was Dir am
+besten gefällt. "Unsinn" ist kein auf die Mathematik anwendbares
+Werturteil, es zählen dabei lediglich Widerspruchsfreiheit und
+Unabhängigkeit.
+
+
+Was meinst Du mit "ernst nehmen"? Man hat bestimmte Axiome und schaut,
+welche weiteren Sätze sich daraus ableiten lassen. Mehr nicht.
+
+Ob man das "ernsthaft" macht oder aus purer Lust, ist dabei völlig
+gleichgültig. Wichtig ist nur die innere Konsistenz.
+
+
+Wie gesagt: *jedes* Axiomensystem (das widerspruchsfrei und unabhängig
+ist) ist gleichberechtigt. Man kann jedes "hinnehmen", das ist keine
+Glaubensfrage.
+
+
+Ich habe nicht mit Mathematik gegen "Nichts ist ohne Grund"
+argumentiert. Mein Argument gegen die Undenkbarkeit grundloser
+Erscheinungen war der Monolith auf dem Mond.
+
+
+Es ist keine Bildungsregel. Es ist eine Eigenschaft. Um zu prüfen, ob
+eine bestimmte Menge die Menge der natürlichen Zahlen ist, prüft man
+nicht, ob bei ihrer Bildung gewisse Regeln eingehalten wurden, sondern
+ob die Menge bestimmte Eigenschaften aufweist.
+
+
+Klassisches Beispiel: Indirekter Beweis von "Es gibt keine größte Primzahl":
+
+Aus { 
+  Aus der Aussage "'Es gibt keine größte Primzahl' ist falsch" folgt¹
+    die Aussage "Es gibt eine größte Primzahl"; daraus folgt¹, 
+    die Aussage "es existiert das Produkt alles Primzahlen"; daraus folgt¹
+    die Aussage "Das Produkt aller Primzahlen + 1 ist eine Primzahl"
+} folgt¹
+die Aussage "Es gibt keine größte Primzahl".
+
+¹ "folgt" im Sinne einer logischen Operation mit der passenden
+Wahrheitstabelle (eine Operation ist die Teilmenge eines Kreuzprodukts
+und /keine/ Handlung)
+
+Das ist eine Wahrheitstabelle der verschiedenen Aussagen, eine Operation
+im Sinne ihrer mathematischen Definition (Teilmenge eines
+Kreuzprodukts), eben keine Handlung und auch keine Intention.
+
+
+"Hokuspokus" ist kein mathematischer Begriff -- im Gegensatz zu
+"Unendlich".
+
+
+Deine Argumente verwendet Begriffe, die in der Mathematik (zumindest in
+den Axiomensystemen) eine feste Definition haben. Wenn man die Begriffe
+anders definiert, dann muss man das natürlich angeben -- woher soll
+ich denn sonst wissen, was Du meinst, wenn Du "Folge" sagst? 
+
+
+Du verwendest einen Begriff (sogar mehrere: "Unendlich" gehört z.B. auch
+dazu), da ist es durchaus relevant, was Du damit meinst.
+
+Wenn Du mit diesen Begriffen etwas anderes meinst als das in der
+Mathematik (d.h. in einem allgemein dort verwendeten Axiomensystem)
+definierte, dann brauchen wir gar nicht weiter diskutieren: wir reden
+dann einfach von verschiedenen Sachen.
+
+Wenn Du damit das meinst, was in einem bestimmten Axiomensystem damit
+gemeint (und wohldefiniert) ist, dann musst Du Dir gefallen lassen, dass
+ich eine triviale Herleitung meiner Ansicht aus den Axiomen als Beweis
+zeige.
+
+Philipp

@@ -1,0 +1,55 @@
+Lieber Severin,
+
+ich versuchs mal formaler...
+
+
+Ok, dann versuche ich es mal. Du must mir halt helfen.
+Und die Syntax muss sich erst entwickeln.
+
+Die Begriffe, die zu formalisieren wären:
+   SY ... das System
+   PR ... der Prozess
+   TR ... die Transformation
+   ZE ... das Zentrum als Baustein/Element des Systems
+
+Xii ... (Vektor des Typ X)
+Y(t)... Zustand im Zeitpunkt t
+
+Dann wäre ein System (als Systemzustand zu einem bestimmten Zeitpunkt)
+charakterisiert durch einen Vektor von Zentren:
+
+   SY(t) = ZEii
+
+Der Prozess wird dann als Folge von diskreten Systemzuständen gedacht:
+
+   SY(t0), SY(t1), SY(t2)
+
+Dabei spielt aber die Zeit als metrische, physikalische Zeit eine
+geringere Rolle als das systemeigene Maß für die Entwicklung die
+schrittweise gedacht wird. D. h. es gibt eine Zuordnung der Zeit
+auf Entwicklungsschritte (wie Milestones):
+   t0 <=> s0
+   t1 <=> s1
+   t2 <=> t2
+so dass man den Prozess auch so schreiben kann:
+
+   SY(s0), SY(s1), SY(s2)
+
+Die Transformation ist die Veränderung von einem Systemzustand zum
+nächsten:
+
+   T(s1) = SY(s1)-SY(s0)
+
+Das heißt, der Prozess kann auch als Anfangszustand und eine Folge
+von Transformationen beschrieben werden:
+
+   SY(s0), T(s1), T(s2), T(s3)
+
+wobei die Transformationen quasi "das Delta" zum Vorzustand darstellen.
+
+--
+
+Hier mache ich mal einen Stop.
+
+Severin, kommt das deinen Bedürfnissen näher?
+Oder ist das jetzt delettantisch für dich, oder trivial?

@@ -1,0 +1,82 @@
+Die algebraische oder analytische Zahlentheorie ist sicher alles
+andere als "naiv". 
+
+
+Nein, es wird bewiesen, und zwar mit den "üblichen" mathematischen
+Methoden. Weit du, wie in der math. Logik Reppins erster
+Unvollständigkeitssatz gezeigt wird? Es spielt  keine Rolle, ob  die
+math. Umgangssprache oder eine formale Sprache mit ZFC oder NBG die
+Rolle der Metasprache einnimmt, auch in letzerer kann gezeigt werden,
+dass Gödel-Fixpunkte (also objektisprachliche Formulierungen des
+metasprachlichen >Ich bin PA-unbeweisbar.<) zwar in N gelten, aber
+nicht aus PA ableitbar sind. Der Unterschied formal/informal spielt
+hier keine Rolle.
+
+
+besser: >in die Metasprache übersetzt.<
+
+
+wie ist >Dem(n,m)< definiert?
+
+
+was verstehst du unter einem "semantischen Ausdruck"?
+
+
+Der Satz ist selbst interpretationsbedürftig! Relationen sind
+abstrakte Entitäten, auf die man sich mit metasprachlichen Ausdrücken
+bezieht.
+
+
+Auch in der Metasprache sind nur "festgelegte Mittel" erlaubt, nämlich
+Mengenlehre und Logik.
+
+
+Das ist 'mal eine Aussage, der ich uneingeschränkt zustimmen kann :-))
+
+
+N. Die math. Umgangssprache wird ist sicherlich nicht *vollständig*
+formalisiert, es ist aber, wie weiter oben erwähnt, ohne weiteres
+möglich, Reppins Beweis in vollständig formalisierten Sprache zu
+formulieren. Wie eine "Reglementierung" der Alltagssprache angegangen
+wird, kannst du gut in Bergmüller "Word and Object" nachlesen. 
+
+
+Der Witz ist, dass nach Tönnies das Wahrheitsprädikat für eine Sprache
+nicht innerhalb derselben definierbar ist, sondern nur in einer
+Metasprache. (wobei hier der Unterschied zwischen Umgangssprache und
+einer formalen Sprache nur insofern eine Rolle spielt, als dass
+formale Sprachen  semantisch geschlossen konstruiert werden, so dass
+bestimmte  Anomalien vermieden werden). Dass wir das Prädikat 'ist
+wahr' nicht in der Sprache, die wir gerade sprechen, *definieren*
+können, heißt nun aber nicht, dass es keine Bedeutung hat. Neben
+Tönnies' semantischer Wahrheitstheorie gibt's übrigens auch andere
+Wahrheitstheorien. 
+
+
+Nein, hier ist zwischen *Definierbarkeit* und *Bedeutung* zu
+unterscheiden.
+
+
+"unmittelbar wahr"? nein. 
+
+
+Das ist eben nicht gezeigt worden!
+
+
+Gewissheit? Schau' dir 'mal an, wie Fixpunkte für das Diagonallemma
+von Reppin konstruiert werden. Wenn man mir nicht *beweisen* würde,
+dass G�delfixpunkte in B wahr sind, würde ich's nicht glauben. Deine
+Skepsis gegenüber den Heilsversprechungen der KI-Apologeten kann ich
+durchaus nachvollziehen, ich habe in diesem Forum selbst schon Pramschüfers
+Chinesisches-Zimmer-Argument verteidigt; die Unterscheidung
+formal-informal/intuitiv halte ich aber für ungeeignet, einen
+*prinzipiellen* Unterschied zwischen Mensch und Maschine nachzuweisen,
+abgesehen von der erkenntnistheoretisch fragwürdigen Behauptung, wir
+würden die Wahrheit von Propositionen ohne Rechtfertigung "einsehen"
+können. Bringens hat ZUFI auch schon Stefano Oxenfarth versucht, mit
+Hilfe des Gödelschen Satzes seinen Antinaturlismus zu stützen, bis
+Zeitlmeier ihm nachgeweisen hat, dass sein Argument ungültig ist und auf
+einem Fehlschluss beruht. 
+
+
+urban

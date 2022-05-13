@@ -1,0 +1,55 @@
+[...]
+
+Tatsaechlich sehe ich keinerlei Sinn darin zwischen dem Informations-
+gehalt und dem Gehalt an Information zu unterscheiden. Wenn Dir danach
+ist, bin ich gerne bereit, dieses Terrain der Spiegelfechterei Deiner
+Wenigkeit zu ueberlassen.
+
+[Information muesse fliessen]
+
+Wir halten fest: Deine Absicht ist es, durch mit beruehmten Namen
+garniertes Herbeiphantasieren von Definitionen, Kompetenz vorzu-
+taeuschen und die anderer als Bloedheit zu desavouieren. Das wird
+Dir nicht gelingen.
+
+
+Dann extra fuer Dich folgende Uebungsaufgabe: der Informationsfluss
+zwischen Quelle A und Senke B betrage bei fehlerfreier Uebertragung
+5 Bit/s. Die Uebertragung wird nach einer Minute abgebrochen. Preis-
+frage: wie gross ist der Informationsgehalt der uebertragenen Nach-
+richt?
+
+[...]
+
+Alles weitere koennten wir uns schenken, denn diese Praemisse
+ist bereits falsch. Der Informationsfluss ist der Fluss an Infor-
+mation zwischen zwei Orten (Sprache kann so einfach sein). 
+Seine Masseinheit ist "bit/s". Die Groesse der uebertragenenen In-
+formation ergibt sich aus der Integration des Flusses ueber die
+Zeit. Ooops... jetzt hast Du es doch geschafft mir die Loesung
+fuer das Preisraetsel herauszulocken. Naja... dann gibt's auch
+keinen Preis.
+
+
+Der Gebrauch des falschen Pronomens zeigt Deine Begriffsverwirrung.
+"DESSEN (des Informationsflusses) Entropie als mittlerer Informations-
+gehaltes", wolltest Du sagen. Und das ist falsch. Der Informationsfluss
+gibt den Fluss an Information pro Zeiteinheit an. Bei
+Sum_x(P[x]*Ld(1/P[x])) handelt es sich nicht um einen Fluss sondern
+um den Informationsgehalt einer Nachricht mit der Zeichen-Auftritts-
+wahrscheinlichkeit P(x). Speicherst Du eine in der Zeit Delta_t empfan-
+gene Nachricht der Laenge N auf Deiner Festplatte, betrug der
+Informationsfluss N*Sum_x(P[x]*Ld(1/P[x]))/ Delta_t. Der Bus an dem
+eine solche Festplatte haengt, benoetigt dies als Mindest-Kanalkapa-
+zitaet. Der Informationsgehalt der Nachricht ist das Integral des
+Flusses ueber die Zeit, naemlich N*Sum_x(P[x]*Ld(1/P[x])). Eine
+Festplatte, die eine solche Nachricht speichert, benoetigt mindestens
+die dem Informationsgehalt entsprechende Zahl an Bits fuer die Spei-
+cherung. Wenn Du weitere Fragen hast, schau in ein Fachbuch.
+
+	Volkert.
+
+-- 
+
+ ----------  Volkert Eizenhöfer, Distributed Systems Department  ---------
+ -------------------- http://dqmyaw.hnxo.wuhja.al --------------------

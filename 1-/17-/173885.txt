@@ -1,0 +1,49 @@
+Let me try to succinctly express Severin theorem in philosophical
+terms.
+
+Given a theory (that is: number of axioms), one can derive an infinitude
+of theorems from those axioms. Yet, there will be truths that will
+escape that theory. This is true for any theory: there will always be
+truths that a theory cannot capture, whichever theory you select. A
+theory is thus like a spiderweb covering the globe of truth: there will
+always be holes where the spiderweb of the theory does not cover the
+globe of truth.
+
+By adding extra axioms one can make the spiderweb denser, so that the
+holes become smaller. Yet, there will always be holes.
+
+Note that there are two types of truths: those captured by the theory
+(intra-theory truths) and those that are not (extra-theory truths).
+Moreover, selecting a different theory (e.g. non-Euclidean versus
+Euclidean geometry) will result in different intra-theory truths, which
+may be contradictory to the former intra-theory truths.
+
+The relevance to physics? If physics discovers new truths that are not
+covered by the existing theory, it will introduce extra axioms so that
+the new truth is now covered. This will always be possible: this is
+refining the web. Physics does this all the time.
+
+One must take care that the set of axioms that one adopts is not
+contradictory. If it is, one can derive anything: even falsehoods can be
+proven to be true in such a theory. But that is not Goedel. A problem is
+that, in general, it is hard or impossible to demonstrate that an axiom
+set is contradictory.
+
+That does not mean that contradictory truths are necessarily a problem:
+both Euclidean and non-Euclidean geometry are fine tools to solve
+problems. Problems which cannot be solved in one theory may be solvable
+in the other one. In physics, we can live with contradictions as well:
+relativity theory and quantum theory are mutually contradictory. Yet
+both are great tools with remarkable predictive power.
+
+On the other hand, contradictions are not nice. Thus physics' search for
+a "theory of everything", which is just a term for a reconciliation
+between relativity and quantum theory in which the contradiction will be
+resolved.
+
+Now that I think of it, Simon may be relevant to philosophical theories
+as well :-).
+
+Hope this helps.
+
+Niko

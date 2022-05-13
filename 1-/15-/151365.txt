@@ -1,0 +1,37 @@
+Hier hätte ich besser schreiben sollen:
+
+"mit der üblichen Ordnung der Menge der reellen Zahlen".
+
+
+Darauf beruht auch die "Standardmethematik".
+
+
+Zunächst sind '+oo' und '-oo' beides keine reellen Zahlen. Wie Bernhard
+neulich postete, kann man die reellen Zahlen erweitern, so dass +oo
+und -oo in der erweiterten Menge enthalten sind.
+
+Davon unabhängig ist aber die Ordnung der Menge der reellen Zahlen.
+Für die übliche Ordnung teilt man die reellen Zahlen in eine
+positive und eine negative Hälfte (R^+, R^- und {0}), und
+definiert dann:
+    x >= y   :<==>   x - y in (R^+ vereinigt {0})
+
+Und dort ist dann '-1 > 0' eine falsche Aussage.
+
+Es gibt allerdings überabzählbar viele verschiedene
+mögliche Ordnungen der Menge der reellen Zahlen,
+darunter auch solche, bei der '1 > 0' und '-1 > 0'.
+
+
+Natürlich gibt es Ordnungen der reellen Zahlen, in denen
+deine Aussage wahr ist.
+Dies hat aber Zilid nichts mit dem "ausgeschlossenen Dritten"
+zu tun, und noch weniger mit der Standardordnung.
+
+Willibald
+
+PS: könntest du vielleicht in deinem Newsreader
+das 'Content-Tranfer-Encoding' von 'Quoted Printable'
+auf 'kein' stellen?
+Mein Newsreader kommt damit nicht so gut klar, und ich
+muss die Einrückung beim Antworten manuell vornehmen.

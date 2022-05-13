@@ -1,0 +1,111 @@
+Moin Reiner,
+
+
+nein, da N aus Pot(N) und {N} aus Pot(Pot(N)) ist, ist M aus Pot(Pot(N)
+u Pot(Pot(n))), also lasse mal lieber eine Klammerebene weg, d.h. ich
+erlaube mir, zu schreiben: M := N u {N}
+
+
+Das will ich auch gar nicht.
+
+
+Ja.
+
+
+Ok.
+
+
+Nein, das muss man nicht. Bijektionen sind transitiv, d.h. es reicht
+durchaus, eine Bijektion zu irgendeiner abzählbaren Menge zu finden.
+
+
+Du hast gerade gezeigt, dass es keine groesste abzählbare Menge gibt.
+
+
+Daher nehmen wir das Jungmannsche Auswahlaxiom und verwenden genau den
+Satz, der uns gerade in den Kram passt?
+Zeige mir einen Widerspruch und ich bin ruhig.
+
+
+Nein, eine Potenzmenge einer Menge X ist die Menge aller Teilmengen von
+X. Nicht mehr und nicht weniger.
+
+
+Der "Beweis" ist nie erbracht worden.
+
+
+Eine "Folge von Potenzmengen"? 
+Weisst Du überhaupt, was Du eigentlich beweisen musst?
+
+Nochmal:
+Um zu zeigen, dass eine Menge X abzählbar unendlich ist, muss Du eine
+Bijektion von X nach N oder nach einer anderen abzählbaren Menge finden.
+
+Um zu zeigen, dass eine Menge X überabzählbar ist, muss man zeigen, dass
+keine Bijektion von X nach N existiert. Dies kann man dadurch machen,
+dass die Annahme, es gäbe eine solche Bijektion zum Widerspruch führt
+(wie Eglseder es getan hat).
+
+
+Die Vereinigung der Elemente von Pot(X) und Pot(Y) ergibt stets X u Y,
+d.h. wenn Du alle Pot(D_i) auf diese Art "vereinigst", enthülst Du D,
+aber nicht Pot(D).
+
+Somit ist deine Analogieargumentation
+
+
+nicht wert.
+
+
+Doch, das hat es!
+
+
+Deine Begründung wurde mehrfach widerlegt!
+
+
+Warum?
+
+
+Das ist Bockmist!
+Es _gibt_ kein "rechtes" Ende, denn das würde bedeuten, dass 0,1-Folgen
+endlich wären.
+
+Ich dachte, dass hättest Du kapiert. :(
+
+Deine weitere Argumentation stützt sich auf diese falsche Annahme und
+ist deshalb wertlos.
+
+
+Ja genau, das ist doch meine Aufteilung Pot(D) = E(D) u U(D), wobei E(D)
+die endlichen und U(D) die unendlichen Teilmengen von D enthält.
+
+
+Die Zweierpotenzen stecken in E(D), E(D) ist ja auch abzählbar.
+
+
+Die sind natürlich auch in E(D) enthalten, da Pot(D_i) auch nur endliche
+Teilmengen von D enthält.
+
+
+Für die was nicht mehr gilt?
+
+
+Nein, Pot(X) ist _nicht_ als überabzählbar definiert. |X| beschreibt die
+Mächtigkeit von X und ist genau dann eine natürliche Zahl, wenn X
+endlich ist. Es gilt |X|=|N| :<=> X ist abzählbar unendlich <=> Es gibt
+eine Bijektion von X nach M. |X|>|N| :<=> X ist mächtiger als N (=> X
+ist überabzählbar <=> Es gibt keine Bijektion von X nach M).
+
+
+Woher nun der Sinneswandel?
+Oder siehst Du nicht, dass das die Aussage ist, die Du widerlegen
+willst?
+
+
+Es gibt immer Bijektionen einer beliebigen unendlichen Mengen X in jede
+ihrer unendlichen echten Teilmengen (Thumel Tambur).
+
+
+Mächtigkeiten werden über Bijektionen definiert, nicht umgekehrt.
+
+Valentino

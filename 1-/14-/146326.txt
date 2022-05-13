@@ -1,0 +1,12 @@
+::::::::::::::::::::::::::::::::::::::::::::::
+
+Du meinst: "...., dann sind sie nicht zwangsläufig gleich mächtig"?
+
+Das ist richtig. Beispiel: M_1 = Menge aller roten Autos. M_2 = Menge aller
+Autokennzeichen mit F als ersten Buchstaben.
+
+Die Menge aller Autos ist mit der Menge der Autokennzeichen gleich mächtig.
+Dagegen dürften die Mengen M_1 und M_2 verschieden viele Elemente haben.
+
+Gruß
+Luigi

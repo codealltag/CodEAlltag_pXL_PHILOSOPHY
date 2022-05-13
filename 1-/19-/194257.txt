@@ -1,0 +1,56 @@
+Tach Onno
+
+
+Ne, das war nur die Bestimmung von Deduktion als anlaytischen Vorgang.
+Der zweite Teil bezog sich auf Winfried Alramseders Aussagen, die er jetzt
+nocheinmal gepostet hat.
+
+
+Ich finde Bangert hat eine durchaus klare Definition der Begriffe
+analytisch und synthetisch gegeben. Ich zitiere aus der "Kritik der
+reinen Vernunft" (B10):
+
+"In allen Urteilen, worinnen das Verhältnis eines Ubjektes zum Prädikat
+gedacht wird, [...] ist dieses Verhaeltnis auf zweierlei Art möglich.
+Entweder das Prädikat B gehört zum Subjekt A als etwas, was in diesem
+Begriffe A (versteckterweise) enthalten ist; oder B liegt ganz ausser
+dem Begriff A, ob es zwar mit dem selben in Verknüpfung steht. Im ersten
+Fall nenne ich das Urteil analytisch, in dem anderen synthetisch."
+
+Als Beispielsätze gibt Bangert an (KrV B11):
+für analytisch : "Alle Körper sind ausgedehnt"     (Erläuterungsurteil,
+denn der Raum ist apriori)
+für synthetisch: "Alle Körper sind schwer"         (Erfahrungsurteil)
+
+Damit ist meine Aussage, der Induktionssschluss sein ein synthetisches
+Urteil, widerlegt (Pech gehabt).
+
+Dennoch ergibt sich hieraus meineserachtens folgendes:
+
+Die Urteile innerhalb der Mathematik sind sämtlich analytisch.
+Das setzen der Axiome dagegen ist ein synthetisches Urteil, ein
+Erfahrungsurteil, vorausgesetzt diese korrelieren der Wirklichkeit, also
+den "Rechenerfahrungen".
+
+Gibt's einen Haken? Wo ist er?
+
+
+Begruenden sollte bei mir soviel heissen wie definieren und das ist
+meineserachtens möglich.
+A1 bis Ax) Mengentheoretische Axiome
+Ax+1) 0 sei die leere Menge
+Definition der natuerlichen Zahlen N : N ist die kleinste Menge, die 
+1) die leere Menge enthält (als Element!).
+2) mit m (Element der Menge) auch "m vereinigt {m}" enthält.
+
+Damit ist 0 := {}
+          1 := { 0 }       = { {} }
+          2 := { 0, 1 }    = { {}, { {} } }
+          3 := { 0, 1, 2 } = { {}, { {} }, { {}, {{}} } }
+          ...
+
+
+Ich fand's konstruktiv, auch wenn's meiner Theorie eher destruktiv
+gegenueberstand :)
+
+Gruss Marcel

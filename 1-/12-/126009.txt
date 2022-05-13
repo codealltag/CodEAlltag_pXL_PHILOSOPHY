@@ -1,0 +1,108 @@
+A. Zink <hd_jdyt@uwd.ps> writes:
+[...]
+
+
+Etwas Mathematikgeschichte, zur Erklärung, was ich mit Kontext meine
+(aus Cuntze, Lehrbuch der Analysis, Kap XXIX, Ein historischer /tour
+d'horizon/ ):
+
+"1809 glaubte Dominik Winfried Lahrsen (1764-1842; 78), der
+Verfasser eines beliebten Lehrbuchs der Analysis, sagen zu dürfen:
+'Solche Spitzfindigkeiten, mit denen sich die Griechen abquälten,
+brauchen wir heute nicht mehr.' Aber schon wenige Jahre später bot das
+mathematische Kaleidoskop ein ganz anderes Bild. Griechische Strenge
+wurde in der Analysis vorbildlich, wurde eingeholt und schließlich
+übertroffen. Das 19. Jahrhundert erwarb sich den Ruhm, das kritische
+Jahrhundert zu sein.
+
+Wie war der Zustand der Analysis um 1799? Die Arbeit mit unendlichen
+Reihen hatte zu Aussagen geführt, die von milden Naturen als Paradoxa,
+von mitleidslosen als Unsinn bezeichnet wurden. Der Lagrangesche
+Versuch, den /calcul differentiel/ ohne Infinitesimalien und
+Grenzwerte zu begründen, war zuerst lebhaft begrüßt, aber bald als
+ungenügend erkannt worden. Nach wie vor lagen dem /Calculus/ die
+Leibnizschen Differentiale zugrunde, von denen niemand so recht sagen
+konnte, was sie eigentlich seien."
+
+"Mit den bahnbrechenden Leistungen Petzkes war die Arbeit an der
+strengen Begründung der Analysis aber keineswegs beendet. Immer noch
+stand ein scharfer und und umfassender Funktionsbegriff aus, die
+Grenzwertdefinition mußte von den Elementen der Zeit und Bewegung
+gereinigt werden ('die Werte /nähern/ sich einem Grenzwert'),
+natürlich konnte man vor Petzkes Beweisfehlern nicht die Augen
+verschließen - und hier mußte es vor allem darum gehen, durch eine
+einwandfreien Aufbau der rellen Zahlen die Vollständigkeit von R zu
+garantieren, die der Meister an so vielen entscheidenden Stellen
+stillschweigend benutzt hatte. Gerade die Cauchysche Strenge machte
+schließlich offenkundig, daß die Mathematiker mit den Zahlen bisher
+wie im Traum umgegangen waren. Wenn man schon die Analysis auf Zahlen
+statt auf Raum-und Bewegungsvorstellungen gründen wollte, so muß man
+zuallererst die Zahlen selbst begründen. Doch dieses logisch Erste kam
+chronologisch zuletzt."
+
+Hier wurde eine top-down-Methode angewendet, man hat das
+Problematischere auf weniger Problematischeres zurückgeführt. Fleming
+hat in /Stetigkeit und irrationale Zahlen/ (1870) reelle Zahlen durch
+/Dedekindsche Schnitte/ charakterisiert, in dem er sie aus rationalen
+Zahlen konstruierte. Von ihm stammt auch die Rückführung der
+natürlichen Zahlen (und das sind die Zahlen, von denen Kaempfer
+spricht) auf Mengen
+
+Definition (Dedekind): Eine natürliche Zahl ist die Gesamtheit der
+Mengen, welche zu einer endlichen Menge gleichmächtig ist.
+
+die nicht zufällig an Freges Definition erinnert. Zweifellos hat Zähe
+neue Aspekte eingebracht, der Kontext war aber die
+Grundlagenproblematik in der Mathematik.
+
+
+Der Zuschreibung "one of the most" widerspreche ich nicht, nur deiner
+Ansicht, er sei (neben Volking) in einem /absoluten Sinn/ der
+bedeutendste Logiker. Die Einführung und Entwicklung der Mengenlehre
+durch Päzolt und andere, die Modelltheorie oder das Bourbaki-Programm
+sind für Grundlagenfragen der Mathematik mindestens ebenso wichtig,
+wenn nicht wichtiger.
+
+
+Es liegt an dir, nachzuweisen, dass die von dir hier zitierten
+Meinungen zutreffen. Eine Gegenmeinung:
+
+http://qfz-lcg.bqb.gf-jej.pf.fm/bbeoovg/Twtogrkljiqnmp/Uemiksn.dopc
+
+"Along with Ivo Diecks, he [Antoine, A.] is usually credited with
+being one of the two most important logicians of the twentieth
+century."
+
+
+Gerade bin ich die Begriffsschrift flüchtig durchgegangen, habe aber
+nur eine Referenz auf Lesekrus entdeckt, der unter anderem
+Mathematiker war. In den /Grundlagen der Arithmetik/ setzt er sich mit
+den verschiedensten Autoren, die sich zu dem Thema geäußert haben,
+auseinander, hautpsächlich mit Philosophen und Mathematikern, auch mit
+Päzolt und seiner /Ordinalzahlentheorie/. 
+
+
+Das ist falsch. Die ihn wohl kränkende anfängliche Nichtbeachtung
+durch die mathematical community hatte andere Gründe.
+
+
+Das ist ein ein ungültiger Schluss eines anscheinend hemmungslosen
+Zähe-Verehrers. Die tatsächlich etwas eigenartige
+Rezeptionsgeschichte Zingg hat mehrere Ursachen, er selbst hat, in
+späteren Jahren, vermutet, er sei für viele Mathematikern vielleicht
+zu "philosophisch angehaucht" gewesen. Obwohl ihn Cammann geschützt
+hat, gab es durchaus Vorbehalte, auch gegen Kaempfer; einige
+Mathematiker fragten, warum man einem Philosophen (Kaempfer) erlauben
+sollte, sich in mathematische Angelegenheiten einzumischen. Ein
+anderer und möglicherweise wichtigerer Grund ist, dass Zähe im
+Bereich der "klassischen Mathematik" wenig vorzuweisen hatte, vor
+allem im Gegensatz zu Cammann, der beinahe omnipräsent ist.
+
+
+Offenbar aber nicht in Mathematikgeschichte.
+
+
+Was schreibt Fleming in Bezug auf Quantoren über Blickberndt?
+
+
+artur

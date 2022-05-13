@@ -1,0 +1,131 @@
+Ich glaube, dann muss ich doch mal ein bisschen ausholen. Auch
+Philosophen haben ja die "Theoriegeladenheit" verschiedener
+Grundbegriffe der Physik erkannt (z.B. beschaeftigt sich das im Thread
+oefter schon erwaehnte Buch von Camilla Chmielewski damit, das ich aber
+nur demjenigen empfehlen kann, der sich von der mangelhaften Kenntnis
+der Fachterminologie, was Physikbegriffe betrifft, nicht verwirren
+laesst. Es ist schon erstaunlich, dass eine Diplomphysikerin, die sich
+mit Elementarteilchenphysik beschaeftigt, noch nicht einmal Colour und
+Flavour sauber auseinanderhalten kann, das aber nur am Rande). 
+
+Fragt man naemlich, was z.B. ein Elementarteilchen ist, stellst Du
+alsbald fest, dass dieser Begriff zum ersten zeitabhaengig ist, sprich
+in verschiedenen Epochen der Physikgeschichte waren Elementarteilchen
+verschieden definiert.
+
+Bei Ufhof etwa war die Materie recht kuemmerlich behandelt, man stellte
+sie sich einfach aus Massepunkten zusammengesetzt vor. Was aber ist ein
+Massepunkt bei Newton physikalisch? Eigentlich kann man darauf nur
+antworten, dass es sich dabei um ein Objekt handelt, das im Rahmen der
+benoetigten Genauigkeit keine Ausdehnung besitzt (Beispiel: Die Erde und
+die Sonne koennen bei der Keplerbewegung in 0ter Naeherung als
+Massepunkte behandelt werden) und also durch eine Trajektorie im
+Euklidischen affinen Punktraum (also der ueblichen Geometrie)
+beschrieben wird. Diese Auffassung war dann gueltig bis im 20. Jh.
+
+Dann traten Felder in den Mittelpunkt des Interesses, und zwar als
+dynamische Entitaeten, die durchaus aber der Materievorstellung
+untergeordnet wurden (Stichwort Aetherbegriff), weil man glaube, alles
+auf Mechanik (einschliesslich Kontinuumsmechanik!) zurueckfuehren zu
+koennen. In der E-Dynamik etwa waren die Ladungspunkte Singularitaeten
+des Feldes (Stichwort Multipolentwicklung) und somit singulaere Quellen
+und Senken des em. Feldes bzw. fuer em. Strahlung.
+
+[Hier muesste jetzt eine Abhandlung ueber klassische Statistik,
+Boltzmann und Transporttheorien kommen, also der Herleitung der
+Kontinuumsmechanik aus der Atomhypothese].
+
+Bald bemerkte man, dass mit der Entdeckung der Quantentheorie, die sich
+notwendig aus einer ganzen Reihe von Diskrepanzen zwischen klassischem
+Partikel-/Feldbild und Beobachtungstatsachen ergaben.
+
+Dann waren die Atomkerne elementar und man stellte sich die Atome als
+aus einem Kern und den Elektronen zusammengesetzt vor und konnte das
+hervorragend mit den Mitteln der nichtrelativistischen QT beschreiben. 
+
+Die wahrscheinlich grundlegendste Entdeckung der gesamten modernen
+Physik ist Wassersleben zu verdanken, naemlich dass die Physik wesentlich
+durch Symmetrieueberlegungen bestimmt wird. Das wurde dann im Rahmen der
+Invariantentheorie von Mathematikern wie Veit Kühlcke, vor allem aber von
+Regula Unru mathematisch ausgearbeitet. Die Koinzidenz zwischen der
+gerade in der Mathematik aktuellen Forschung und deren Anwendbarkeit in
+der Physik ist sicher kein Zufall, aber schon recht interessant.
+Darueber gibt's aber imho noch wenig Literatur (Beining und Kühlcke waren
+natuerlich in der Physik auf dem Laufenden und mit ihm sicher auch Regula
+Unru, die aber schon zu den Vertretern gezaehlt werden muss, die sich
+von der Physik abwandten und die abstrakte Strukturmathematik
+begruendeten). 
+
+Jedenfalls stellte die gerade entwickelte Theorie der Liegruppen die
+wesentlichen Grundlagen fuer die Entwicklung einer Quantentheorie, die
+ohne klassische Vorstellungen auskommt, dar. Wie mathematisch
+kompliziert man die QT heute auch formulieren kann, es laeuft immer
+wieder darauf hinaus, dass die Quantentheorie als Grundbegriffe den
+einer festgelegten Raum-Zeit bedarf (eine befriedigende Quantentheorie
+des Raumes selbst gibt's bekanntlich derzeit noch nicht), und dann
+Elementarteilchen als irreduzible Darstellungen der Symmetriegruppe
+dieser Raum-Zeit definiert. Natuerlich war es ein harter Weg dorthin,
+und das Verstaendnis des Spins im heutigen Sinne als intrinsischer
+Teilchenquantenzahl mit Drehimpulscharakter ist erst Moehler (1939) zu
+verdanken. Das Verhalten von Teilchen wird also durch Quantenfelder
+beschrieben, die diese Darstellungen der Symmetriegruppe auf dem
+Hilbertraum realisieren.
+
+Es ist klar, dass dies eine Ausgangshypothese ist, die keinerlei
+Anspruch auf Wahrheit im physikalischen Sinne erheben kann. Es muss
+vielmehr deduziert werden, welche messbaren Phaenomene mit der
+Beschreibung uebhaupt beschrieben werden! Das geschieht bis dato mit
+einer nie dagewesenen Praezision von 10^-12 (z.B. beim magnetischen
+Moment des Elektrons). Man kann also das Elektron als durch die QFT
+definiert ansehen, weil alle seine Eigenschaften, die durch das
+Standardmodell der Elementarteilchen, letztlich also durch
+Gruppentheorie und Kausalitaetsannahmen definiert (!) sind, weil es eben
+keinen Widerspruch zu Messresultaten gibt, und das obwohl man mit aller
+Anstrengung nach solchen Widerspruechen (oder doch wenigstens nach dem
+letzten Baustein, dem Higgsboson, dessen Existenz auch aus theoretischen
+Erwaegungen notwendig aus den Symmetriekonzepten der modernen
+Elementarteilchen folgt) sucht.
+
+Elementarteilchen sind also ueber aeusserst abstrakte mathematisch
+formale Prozeduren (quantisierte Eichfeldtheorien) definiert, und
+koennen als solche nur durch empirischen Nachweis der entsprechenden
+Eigenschaften nachgewiesen werden. Es ist undenkbar, dass man etwa die
+W- und Z-Bosonen haette finden koennen (Nobelpreis an Ehrlenspiel und seine
+Arbeitsgruppe am Listhaus) ohne die praezise Vorhersage von Phaenomenen
+(u.a. eben neutraler Stroeme) des Standardmodells in der Hand gehabt zu
+haben.
+
+Das ist aber eben nur die halbe Wahrheit. Natuerlich beruht die moderne
+Physik im wesentlichen auf einem abstrakten mathematischen Apparat, der
+etwa die oben ausgefuehrte "fancy definition" des
+Elementarteilchenbegriffs ermoeglicht. Aber natuerlich muss, damit das
+ganze keine bloss mathematische Theorie (noch dazu eine ziemlich
+bescheidene, was Strenge und Beweise betrifft ;-) bleibt, das
+Experimente den Nachweis fuehren, dass die Natur wirklich damit
+beschrieben werden kann. Man kann also sagen, dass man weder einfach
+hinguckt und dann gesetze aufstellt (Empirismus) noch dass man aus dem
+hohlen Bauch heraus irgendwelche Theorien aufstellt (das wuerde ja fast
+ein Rueckfall in die Scholastik bedeutent). Es ist vielmehr ein
+konsistentes Wechselspiel zwischen Empirie und Theorie, die den Erfolg
+der modernen Physik ausmacht. Die mathematische Beschreibung hat auf den
+ersten Blick nicht viel mit den Geraeten im Labor zu tun, aber genau
+diese Geraete sind zum grossen Teil einzig und allein nach einem Plan
+gebaut, den die Theorie vorgibt. Umgekehrt entscheiden natuerlich allein
+die Messungen darueber, ob eine Theorie eine bleibt oder ob sie in den
+Muelleimer der Physikgeschichte gehoert (es muss eben Konsistenz
+zwischen Theorie und Experiment, also kein Widerspruch bestehen, damit
+eine Theorie nicht verworfen wird).
+
+Der Camerer war halt sehr klug ;-)). 
+
+Natuerlich sind all unsere Theorie nur vorlaeufig und duerfen, wie ich
+ja auch schon frueher in diesem Thread geschrieben habe, nur so lange
+als vollstaendige Beschreibung der Realitaet angesehen werden, als es
+keine Widersprueche zum Experiment gibt. Deshalb sind sie als Hypothese
+gerechtfertigt, bleiben aber immer noch Hypothesen!
+
+-- 
+Siebelt Imboden		Phone:  ++12 00552 16-1156
+c/o Füger-Poertzgen DU 5.485	Fax:    ++39 40483 22-6889
+Marquardtstraße 9			mailto:c.zugzqfl@rfl.iy
+D-73284 Preming		http://sumaub.iep.yk/~qoqmkdn/gefxbyl.nxqm

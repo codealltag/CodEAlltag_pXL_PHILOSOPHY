@@ -1,0 +1,42 @@
+Kann mir mal jemand erklären, von welcher Konstanz ihr hier redet? Die
+Bedingungen in einem Lebensraum beeinflussen sich wechselseitig, was man
+durch ein System gekoppelter Differentialgleichungen annähernd
+beschreiben kann. Das einfachste Modell besteht dabei aus einer Jäger-
+und einer Beutepopulation, und die einzige konstante Lösung ist die
+triviale:
+alles null!
+Wenn keine Beute B(t) vorhanden wäre, dann würde der Räuber R(t) nach
+dR/dt = -a*R mit a>0 zugrunde gehen. Ist B vorhanden, dann vermehrt sich
+R in Abhängigkeit von B und R:
+
+	I	dR/dt = -a*R + b*B*R  mit b>0.
+
+Mit B verhält sich die Sache analog. Ohne R ungehemmte Vermehrung: dB/dt
+= c*B mit c>0, und mit R Reduktion in Abhängigkeit von R und B:
+
+	II	dB/dt = c*B - d*B*R  mit d>0.
+
+Das ist die einfachste mögliche Variante. Die implizite Lösung lautet:
+
+	R^a * B^c *exp(-d*B - b*R) = k
+
+Die Konstanten a, b, c, d und k kann man nun mit sinnvollen
+Anfangsbedingungen bestimmen und erhält eine Kurve, die alle denkbaren
+Überraschungen bieten kann.
+
+Was ihr mit der Konstanz äußerer(!) Bedingungen meint, sind dann Dinge,
+die das bunte Treiben beeinflussen, ohne selbst beeinflußt zu werden -
+z.B. Vulkanausbrüche. Wenn man diese Einflüsse berücksichtigt, dann
+tauchen in den obigen DGL weitere Größen auf, und wenn diese eben nicht
+variabel, sondern konstant sind, dann sind wir im Grunde wieder dort, wo
+wir angefangen haben, und von stabilem Gleichgewicht kann nicht die Rede
+sein, ganz zu schweigen von Optimierungen.
+
+
+MfG
+Ewald
+
+*******************************************************************
+http://byhlexcj.wknmfpdhwq.neb/wjmplvvog/UtnmMecqxciwi
+Irren ist auch insofern menschlich, als die Tiere wenig oder gar 
+nicht irren, wenigstens nur die klügsten unter ihnen. (Ingelsdorf)

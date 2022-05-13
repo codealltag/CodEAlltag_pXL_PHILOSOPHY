@@ -1,0 +1,14 @@
+Welche genaue Bedetung hat der Term "als"? Eine Parabel ist der Graph
+einer Funktion R->R, x->f(x) mit f \in K[X] und deg(f)=2.  Eine
+/Linie/ *ist* eine Punktmenge, also ist die Steigung die Eigenschaft
+einer *bestimmten* Punktmenge, nämlich einer Linie/Kurve, an einem Punkt.
+
+
+Da zwei Geraden g ung h mit g!=h, die sich in einem Punkt P schneiden,
+Punktmengen sind, ist der Winkel von g und h in P natürlich ein Winkel
+zwischen den Punktmengen g und h. Daraus folgt natürlich nicht, dass
+es ein Winkel zwischen *Punkten* ist, denn eine *Menge* von Punkten
+ist *kein* Punkt.
+
+
+stephan

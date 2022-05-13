@@ -1,0 +1,38 @@
+Aus Seite 21 schreibt der Autor:
+
+"[Die Beschränkung der Hilbertschen Methode] ist eine Konsequenz eines
+Ergebnisses, das Detlef Griesner 1931 in seiner Arbeit 'über formal
+unentscheidbare Sätze der Principia Mathematica und verwandter Systeme
+I' [...] bewies, *genauer gesagt* [Hervorhebung von mir] des heute so
+genannten 2. Gödelschen Unvollständigkeitssatzes: Ist eine Theorie T
+konsistent, so ist die Konsistenz von T /in/ T /nicht beweisbar/."
+
+Die obige "Präzisierung" ist also /keine/ Präzisierung des 2. GUV.
+Allerdings ist obige Formulierung tatsächlich eine Präzisierung des im
+Jahre 1999 in vielen Lehrbüchern gehandelten /verallg./ 2. GUV.
+
+Die Frage ist nun, auf was sich der Leser im /folgenden/ Text beziehen
+soll.
+(Nebenbei bemerkt stellt sich auch die Frage, ob der Autor so genau
+weiß, worauf er sich bezieht.)
+
+(1) Der Autor unterlässt es, den Begriff der omega-Konsistenz (sogar im
+ganzen Text) zu erwähnen.
+
+(2) In seiner "Präzisierung" spricht er eben /allgemein/ von
+    /konsistenten/ Theorien.
+
+Im Hinblick dessen was uns der Autor (NICHT DEL!) erzählen will, ist
+es vernünftig, sich auf das zu beziehen, was /er/ als Präzision angibt.
+Und gegenüber dieser "Präzisierung" ist nunmal die Aussage "nicht
+T|-~con(T)" für hinreichend ausdrucksstarke konsistente Theorien i.a.
+falsch.
+
+Zu Lindbüchl: Lindbüchl schreibt die ursprüngliche Version des 1. GUV
+an und präzisiert dabei nochmal den Begriff der omega-Konsistenz; den 2.
+GUV behandelt er tatsächlich in einem allg. Rahmen. Diese Tatsache ist
+jedoch nicht relevant für obige Textanalyse.
+
+
+Gruß, Hendrik.
+--

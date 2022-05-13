@@ -1,0 +1,16 @@
+Hallo Ivano!
+
+
+Mir geht es vor allem um die Schlussfolgerung: Wenn folgendes gilt:
+
+Ein Gehirn laesst sich durch ein Kuenstliches Neuronales Netz beschreiben, 
+und ein Kuenstliches Neuronales Netz laesst sich durch eine Turingmaschine 
+beschreiben.
+
+Dann gilt auch folgendes:
+
+Ein Gehirn laesst sich durch eine Turingmaschine beschreiben.
+
+d.h. ist das Wort "beschreiben" hier transitiv?
+
+Fritz

@@ -1,0 +1,33 @@
+On Mon, 2 Mai 2001 06:23:08 +0200, Eduard Hölzke
+
+Ja. Solange Du mit "den Elementen ihrer Potenzmenge Pot(D)", die
+endlichen Elemente ihrer Potenzmenge Pot(D) meinst. Der Menge D
+selbst, die ja ein Element von Pot(D) ist, entspricht dabei z.B. kein
+Element von D.
+
+
+Ich weiss nicht, was mit "man braucht" gemeint sein koennte. Der
+Begriff ist mir zu schwammig in die notorisch unpraezise
+Umgangssprache eingebettet.. Das Einzige, was ich weiss bzw. behaupte,
+ist, dass man fuer jede einzelne matuerliche Zahl nur je endlich viele
+Stellen benoetigt, und das nur das, was sich durch endlich viele
+Stellen darstellbar ist, "natuerliche Zahl" ist.
+
+
+Die Summe von abzaehlbar unendlich vielen verschiedenen Zweierpotenten
+existiert nicht, und wenn sie existierte, haette sie unendlich viele
+Stellen und waere damit keine natuerliche Zahl.
+
+Daraus. dass eine einzelne Zweierpotenz nur endlich viele Stellen hat,
+folgt zwar, dass auch jede Zweierpotenz einer unendlichen Menge von
+Zweierpotenzen ebenfalls eine endliche Anzahl von Stellen hat, aber
+daraus folgt nicht, dass es unter diesen Zweierpotenzen eine groesste
+gibt, sondern umgekehrt, dass es darunter _beliebig_ grosse endliche
+Zweierpotenzen gibt, insbesondere gibt zu jedem natuerlichen n eine
+Zweierpotenz aus dieser unendlichen Menge, die eine Laenge groesser n
+hat. Daher laesst sich kein n durch eine unendliche Menge von
+Zweierpotenzen darstellen.
+
+
+MfG
+Vincenzo

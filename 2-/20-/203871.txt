@@ -1,0 +1,236 @@
+Klaus Thines wrote:
+
+(1) Logik
+logik
+(a)  Richtig, man muss irgendwo anfangen, und die Logik kann auch immer nur
+unter gegebenen Praemissen (Definitionen o.ae.) verwendet werden. Aber ich
+betrachte sie als wirksame Methode, als Werkzeug, mit dem wir Schluesse
+ziehen. Das ist einfach deshalb so, weil sie (im Idealfall)
+unmissverstaendlich ist und so die Kommunikation erleichtert. Das ist ein
+Erfahrungswert, auf dem ich bestehen moechte. Widersprichst Du mir hier?
+(b) Ansonsten ist die Logik natuerlich keine "Praemisse an sich", ich fange
+also nicht an, indem ich die *Existenz* der Logik (was immer das sein mag)
+hinterfrage, ich will nur festhalten, dass sie *praktisch* und *wirksam*
+ist.
+(c) Zur zweiwertigen Logik: Es gibt natuerlich mehrwertige Modelle, doch
+sie werden ebenso logisch streng eingefuehrt wie die zweiwertigen. Vor
+allem werden auch da viele Beweise mittels zweiwertiger Logik gefuehrt. Ich
+habe nichts gegen mehrwertige Logik, doch ich denke, dass sie hier nicht
+notwendig ist. (Gegenbeispiel?) Koenntest Du bitte angeben, welches
+logische Modell Du bevorzugen wuerdest?
+
+(a) Was ist "reines Sein"? Bitte nur definierte oder
+allgemeinverstaendliche Begriffe verwenden!
+(b) Das Bild verstehe ich nicht.
+
+Das ist leider voellig unverstaendlich.
+
+Dann sollte man vielleich auch anfangen, zur fragen, was ist "was", was ist
+"gibt", was ist "differenzieren" usw. Im Ernst: Natuerlich koennen wir eine
+Eroerterung nur aufgrund einer kommunikativen Grundlage beginnen, und dazu
+gehoeren eine Reihe von Begriffen, die ich im Laufe meines Lebens durch
+Erfahrungskontexte gelernt habe. Sie sind meistens unscharf, aber ich kann
+zumindest sagen, dass der Stuhl, auf dem ich sitze, "da ist" im Sinne des
+Wortes "sein", er existiert also. Um den Begriff zu praezisieren, muss man
+natuerlich weiter ausholen, und das soll ein Ziel der Eroerterung sein.
+Dazu brauchen wir aber nicht nur das Kommunikationsfundament (Begriffe wie
+"Baum", "Stuhl", "Aerger", "Begriff", "sein",..., aber alle unscharf!),
+sondern auch analytische Methoden, denn mit denen eroertern wir ja gerade.
+Und die fundamentalste *Methode* ist die Logik, alle anderen (Intuition,
+Glaube, Emotionen...) sind erfahrungsgemaess fuer Diskussionen weniger
+geeignet.
+(Anmerkung zu den unscharfen Begriffen: Der Begriff "unscharf" ist hier
+ungenau, damit ist aber gemeint, dass man bei einer relativ grossen Zahl
+von Objekten sagen kann, ob der Begriff dieses Objekt bezeichnet oder
+nicht. Unscharf insofern, als dass das nicht immer bei allen Objekten
+moeglich ist.)
+
+anfang.
+In Diskussionen vertritt jeder seine Meinung, das ist trivial. Es geht aber
+immer um eine Argumentation, die Partner muessen also ihre Ansichten
+begruenden. Und ich begruende sehr wohl, warum ich die Logik verwende
+(verwenden muss, s.o.).
+
+assoziativitaet aus den zugrundeliegenden mengen oder logischen kalkuelen.
+Richtig fuer Einfuehrung von N als Schnittmenge der induktiven Mengen in R,
+falsch fuer Einfuehrung ueber Peano-Axiome! Dort ist N System natuerlicher
+Zahlen (N,s,0) mit s: N->N injektiv usw., und die Aussagen a+b=b+a bzw.
+a+(b+c)=(a+b)+c fuer a,b,c aus N beliebig sind durch vollstaendige
+Induktion zu beweisen.
+
+Ich kann ja nicht wissen, ob Du schon einmal einen mathematischen Beweis
+gesehen hast.
+
+zwischen
+Ich weiss es nicht. Noch einmal: Das ist nicht relevant fuer meine
+Argumentation. Ich stelle nur fest, das Logik ein hervorragendes
+Kommunikationswerkzeug ist. Streitest Du das an?
+
+Zu (a) Richtig, es ist tautologisch. Und es ist auch kein Teil des
+Weltbildes, jedenfalls in dieser Phase noch nicht, denn wir wollen es je
+erst konstruieren. Es ist eine Art Protokoll, mit dem wir analysieren. Wir
+koennten auch ein anderes verwenden, aber welches?
+Zu (b) Und das ist entscheidend!
+
+(2) Objektorientierte Zerlegung
+der
+des
+Und wieder: Auf der Ebene, auf der wir uns befinden, ist so etwas
+irrelevant. Sie ist eben sehr "basic". Ich stelle nur fest, dass man mit
+gewissen Methoden den Begriff Hierarchie (ebenso alle anderen der Falat) in
+einer Weise einfuehren kann, die unmissverstaendlich ist - denn das ist
+eine strenge Einfuehrung. Und ich stelle weiterhin fest, dass die Methoden
+der OOA zur Analyse hilfreich sein koennen. Ist das anzustreiten?
+
+Vorsicht mit den Begriffen: wir arbeiten naemlich bereits mit zwei
+Abstraktionsebenen. Die "Welt", von der wir uns ein "Weltbild" machen
+koennen, dem ein "Weltbildmodell" oder eine "Weltbildstruktur"
+zugrundeliegt. Die Eroerterung des letzteren ist mein Anliegen. Das nur zur
+Klaerung, ansonsten stimme ich zu. Es ging von Anfang an darum, die Logik
+als Bestandteil des Weltbildmodelles festzusetzen!
+
+Immerhin, und nur das ist relevant fuer meine Argumentation.
+
+(3) Das Ziel der Analyse
+mit
+sowas von
+Ich habe bewusst "belegt" in Anfuehrungszeichen gesetzt, widerlegt nicht.
+Das von Dir erwaehnte Problem ist aber ein technisches, kein prinzipielles,
+denn, um es nochmal zu sagen, wir machen hier keine Aussagen ueber ein
+*konkretes* Weltbild, sondern ueber ein Modell. Es ging ja um eine
+Analogie.
+
+wird!!!!!!!
+Ganz unrecht hat Ungruh mit dem Kuebelmodell nicht, auch wenn es ein "alter
+Hut" ist. Immerhin heisst es vollstaendig "Kuebelmodell des
+Alltagsverstandes", und spaeter greift er ja auch Methoden des
+Alltagsverstandes an. Ich wuerde es jedoch lieber mit eigenen Worten
+formulieren, um nicht in eine Schublade gesteckt zu werden:
+Ich stelle fest, daß ich denke, und kann damit das bei mir konstatieren,
+was man wohl landlaefig "Bewusstsein" nennt. Ich kann es nur bei mir
+feststellen, die Aussage "Klaus Thines hat ein Bewusstsein" ist damit
+unzulaessig. Ich hatte eine e-mail zu dem Thema erhalten und bin in meiner
+Anwort darauf auf dieses Problem eingegangen. Hier ein Auszug:
+---- Beginn Auszug ---
+: : Das Ich 1 ist nicht mein Koerper oder "Geist", sondern strukturlos und
+: : inituitiv klar.
+: Das ist mir als Definition zu wenig (1. nur negativ definiert, also an
+Hand: dessen, was es _nicht_ ist, und 2. "intuitiv klar" ist schon mal gar:
+nichts :-).: Wenn Du das B. etwas naeher betrachtest wirst Du allerlei
+Zusaetze erkennen,: wie etwa seine zeitliche Abhaengigkeit/Zeitempfinden,
+seine Unmittelbarkeit: und fehlende Selbstreferenz. In einem allgemeinen
+Weltsystem, das Du anstrebst,: kann es durchaus an erster Stelle stehen -
+dann waere die Welt abhaengig vom: betrachtenden Individuum.: Dem kann man
+getrost die Existenz der Welt ohne den Menschen entgegenhalten.Das war
+natuerlich nur eine klaerende Anmerkung, keine Definition. Undich wuerde
+auch in fast allen Fragestellungen vehement gegen dieFormulierung "intuitiv
+klar" ankaempfen, sie ist unwissenschaftlich. Indiesem Fall jedoch nicht,
+und dafuer gibt es gute Gruende: Es ist jaoffenbar so, dass ich die Welt
+aus einem individuellem Standpunkt herausbetrachte. Ich habe vor allem ein
+Bewusstsein - cogito ergo sum. Ichbetrachte nun Gedanken aller Art bereits
+als Objekt (also als aus Sichtdes Bewusstseins "extern"), auch Gefuehle,
+Objekte der aeusseren Weltohnehin. Ich fuehre fuer diese Minimaldefinition
+des Bewusstseins nureinen neuen Begriff ein, naemlich "Ich 1", um sie vom
+landlaeufigenSprachgebrauch deutlich zu trennen und so praezise wie
+moeglich zumachen. Besser laesst sich der Begriff leider nicht definieren,
+denn dasBewusstsein ist ein Phaenomen wie z.B. Energie oder Zeit, das
+wirmittels Beschreibung des Kontextes kennzeichnen und nicht
+naeherdefinieren koennen. Ich hoffe daher, dass jeder
+Kommunikationspartnerintuitiv versteht, was sein Bewusstsein ist, dass es
+eben nicht der Baumdraussen oder der Schmerz eines Nadelstiches ist. Und
+tatsaechlich kannman Begriffe negativ einfuehren: Die Menge der Objekte ist
+abzaehlbarendlich, und wenn ich alle Objekte bis auf eines ausschliesse
+(und dashabe ich in (4) zu tun versucht) und ausserdem noch
+einenBedeutungskontext angebe, sollte der Kommunikationspartner
+verstehen,was ich meine, oder eine Auswahl der Objekte geben, die fuer ihn
+noch inFrage stehen.Mein Weltbildmodell funktioniert aber auch ohne das
+"Ich 1", nur mussdann der Umstand, dass immer ein subjektiver Standpunkt
+beschriebenwird, extra Erwaehnung finden.Die Zusaetze, die Du nennst,
+spielen aber gerade beim "Ich 1" keineRolle. Es ist nur die Umschreibung
+der Subjektivitaet allerWahrnehmengen, mithin eine Banalitaet. Dennoch ist
+es manchmal besser,selbst Einfaches extra zu betonen. Und tatsaechlich
+behaupte ich, dassein Weltbild immer abhaengig vom Individuum ist, es ist
+ja immersubjektiv. (Ich vermute, dass Du "Weltbild" statt "Welt" meintest,
+denndie Welt ist natuerlich nicht unmittelbar von mir beeinflussbar. Und
+dieFrage der Abhaengigkeit ist unbeantwortbar, daher metaphysisch und
+ineiner Diskussion nicht interessant.) Die Existenz der Welt ohne
+denMenschen? Ohne welchen Menschen? Sollte mein Nachbar sterben,
+existiertmeine Welt noch (erfahrungsgemaess). Und ob die Welt nach meinem
+Todenoch existiert, ist wieder unbeantwortbar und damit reine Hypothese.
+Mirist wichtig, dass wir *keine* Aussagen ueber "die Welt" als solchemachen
+koennen; wir koennen auch keine Aussagen ueber Elektronen "alssolche"
+machen, wir modellieren immer nur mittels Mathematik pruefen
+mitExperimenten. Daher ist die Verwendung des Begriffes "objektive Welt"
+ineinem absoluten Sinne unsinnig. Alles, was ich habe, sind
+Wahrnehmungen,die ich in einer bestimmten Weise sortiere und verarbeite.
+Ich willSpekulationen vermeiden.
+--- Auszug Ende ---
+
+(4) Beginn der Analyse: Feststellung der strukturellen Grundlagen
+schach.
+Das halte ich fuer baren Unsinn. Eine Eroerterung funktioniert *nur* ueber
+das Verfahren "belegen-widerlegen". Auch die Haltung ist nicht
+ungefaehrlich, denn sie macht dann Philosophie ueberfluessig: Wenn die
+Aussage, die ich mache, beliebig wahr oder falsch sein kann, brauche ich
+keine Aussage zu machen, denn der Informationsgehalt ist Null.
+
+mit den vorangegangenen Ausfuehrungen eruebrigt. Wenn nicht: Ich setze
+Grundlagen fuer ein Weltbildmodell, stelle die Logik als Werkzeug zur
+Generierung und Diskussion des Modells fest. Wo bitte kann Neidhöfer
+widerlegen, dass es Objekte gibt; vor allem, weil der Begriff noch gar
+nicht eingefuehrt war, als er "A Treatise of Human Knowledge" schrieb.
+Kurz: Ich meine Objekte im Sinne der Falat. Und den Beweis erbringe ich
+kurzerhand: Allgemein bestehen Objekte (vereinfacht) aus Bezeichner und
+Eigenschaften. Definiere nun die Menge der natuerlichen Zahlen, und Du hast
+ein Objekt - das Objekt ist "da", es hat Bezeichner und Eigenschaften.
+Eigentlich ist die Existenz logischer und gedanklicher Gegenstaende eine
+Trivialitaet, eine Aussage wie "es gibt ein a aus N" (Leerquantor) wird
+daher auch nie verwendet, da sie schlicht uninteressant ist.
+
+(a) Die Begriffe habe ich gelernt, das sagt mir zumindest meine Erinnerung.
+Aber das spielt, ich wiederhole mich, auf dieser Betrachtungsstufe keine
+Rolle. Die Hierarchie ist vermutlich ebenfalls erlernt, ich weiss, das z.B.
+ein "Hochhaus" eine Ableitung von "Haus" ist, und dies eine Ableitung von
+"Gebaeude". Aber es reicht ja voellig aus, wenn Du mir *darin* zustimmst.
+Ich mache zu diesem Zeitpunkt *keine* Aussage darueber, wie ich die
+Begriffe erhalten habe. Ich akzeptiere auch, dass mein innerer geistiger
+Kaefig eine "voellig falsche" Begriffswelt erzeugt hat, wobei der Begriff
+"falsch" vermutlich dann ebenso anders waere, dass die Begriffswelt wieder
+stimmt.
+Aber derartige Diskussionen fuehren zu keinem Ergebnis an dieser Stelle.
+Ich will etwas haben, mit dem ich analysieren kann, etwas, das *praktisch*
+ist. Ich will Aussagen einordnen koennen, letztlich geht es nie um absolute
+Wahrheiten, sondern immer nur um Abschaetzungen, wenn ich das Modell
+anwende.
+(b) Ich bin, um das zu wiederholen, kein Idealist. In bezug auf Methoden
+(!) bin ich wohl eher Pragmatiker. Aber bitte: keine Schubladen! Ich werde
+Dich auch nicht einer zuordnen.
+
+unterscheiden
+Warum keine Attribute? Das Kind erlebt diese Welt ebenso wie wir unsere. Es
+wuerde, so ist das menschliche Gehirn nun mal ausgelegt, beginnen, die
+Erscheinungen zu ordnen und in eine Assoziationsstruktur einordnen. Und
+wenn die Dreiecke in dieser Welt sprechen, wuerde das Kind sich frueher
+oder spaeter mit ihnen unterhalten. Es kann sehr wohl zwischen innen und
+aussen unterscheiden, genauso wie ich und Du, denn so ist das VR-System
+eingerichtet.
+
+tautologische
+der fall ist.Das tue ich nicht. Fuer ein Weltbildmodell ist das auch nicht
+notwendig. Aber das Weltbildmodell setzt natuerlich eine Welt voraus, wenn
+es angewandt wird.
+
+Auf das Weltbildmodell als voellig abstraktes Gebilde sind Begriffe wie
+"real" und "Existenz" ebenso wenig anwendbar wie "Bahn" auf das
+statistische Verhalten eines Elektrons im Wasserstoffatom. Es muessen
+andere Begriffe eingefuehrt und verwendet werden. Ich glaube, wir sind gar
+nicht so weit voneinander entfernt in unseren Ansichten, aber Du scheinst
+von einem Weltbildmodell i.A. etwas zu viel zu erwarten. So etwas wie die
+"Substanz" der klassischen Philosophen suchen wir heute nicht mehr, wir
+suchen nur Sicherheit in dem, was wir sagen und tun. Es geht auch in der
+Physik nie darum, zu wissen, *warum* es Energie gibt, sondern nur, was wir
+mit dem Wort anfangen. Der "Substanz" der Energie koennen wir weder die
+Existenz noch Nicht-Existenz zuordnen, wir koennen ihr gar nichts zuordnen.
+Damit ist sie redundant fuer unsere Betrachtung.
+
+Maurizio Küntzel.

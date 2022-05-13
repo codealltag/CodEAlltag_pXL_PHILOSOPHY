@@ -1,0 +1,78 @@
+Weil Widersprüchlichkeiten Existenz _logisch_ ausschließen!
+Das ist der ganze Witz an der Sache!
+
+Ich sehe ein, dass die Dinge komplizierter sind, wenn man anstatt über
+z.B. Möbelstücke  über abstrakte Mengen quantifiziert. Ich erkenne
+auch, dass ich sinnvollerweise bei "Menge aller Mengen, die sich
+selbst
+nicht enthalten." nicht von einem "Unbegriff" hätte sprechen sollen,
+nur weil er widersprüchlich ist; denn mit einer solchen, eigentlich
+unnötigen Unterscheidung zwischen "echten" und "unechten" Prädikaten
+mache ich mir nur selbst das Leben schwer.
+
+Also fange ich noch einmal ganz systematisch an [und lege den der
+Prädikatenlogik analogen Klassenkalkül zugrunde]:
+
+A) Existenz =def Nichtleerheit der Extension eines (logischen)
+Prädikats
+B) Prädikat M:="Menge aller Mengen, die sich selbst
+nicht enthalten."
+C) Gibt es eine Extension des Prädikats M? - Ja!
+D) Ist diese M-Extension leer oder erfüllt? - Sie ist leer, da M
+widersprüchlich ist! (Widersprüche schließen Existenz logisch aus!)
+E) Die M-Extension ist also die leere Menge!
+F) Was bedeutet es, dass die M-Extension die leere Menge ist? - Es
+bedeutet, dass es nichts gibt, dem das Prädikat "Menge aller Mengen,
+die sich selbst
+nicht enthalten." zukommt!
+G) Was heißt das? - Das heißt, dass es keine Menge gibt, die die Menge
+aller Mengen ist, die sich selbst
+nicht enthalten!!!
+
+Formal könnte man das so ausdrücken:
+
+m := Mengen-Variable
+M:= Kennzeichnung "die Menge aller Mengen, die sich selbst nicht
+enthalten"
+
+-Em(m=M) := "Es ist nicht der Fall, dass es eine Menge gibt, die die
+Menge aller Mengen ist, die sich selbst nicht enthalten.
+
+Sie sehen jetzt hoffentlich, dass die Definition von Existenz auch mit
+dem Russell-Paradox fertig wird! :-)
+
+Da fällt mir ein, das man det Janze auch wunderbar mit dem berühmten
+Barbier-Bild veranschaulichen kann:
+
+Ein Mathematiker läßt sich in einem einsamen Dorf vom Barbier
+rasieren.
+Er fragt, wie die Geschäfte gehen, und der Meister war zufrieden. Er
+sagte: Ich rasiere alle Leute im Dorf, die sich nicht selbst
+rasieren.' Und
+da konnte der Mathematiker dem Handwerksmeister nachweisen, daß er
+nicht existiert. Denn er fragte ihn: � Rasieren Sie sich selbst ?'
+Wenn er sich
+selbst rasiert, dann rasiert er sich selbst nicht, denn er rasiert ja
+nur diejenigen, die sich nicht selbst rasieren.
+Also schließen wir: Der Mann rasiert sich nicht selbst. Aber
+gerade dann muß er es doch tun, weil er nach seiner eigenen Aussage
+alle
+diejenigen Leute rasiert, die sich nicht selbst rasieren."
+
+
+Ihre Behauptung entbehrt jeder Grundlage, wie ich Ihnen oben
+nachgewiesen habe!
+Im übrigen, es handelt sich nicht bloß um "meine" Privat-Definition,
+die ich aus meinem Hut hervorgezaubert habe, sondern um die allgemein
+anerkannte logische Definition von Existenz, wie sie im Wesentlichen
+auf Bult zurückgeht!
+
+
+Das tut sie in jeder Hinsicht! Ich kenne keinen Logiker, der diese
+Definition inakzeptabel findet!
+
+Gruß
+BEN
+
+P.S.: Hütten Sie zufällig eine andere Definition in petto, die Sie für
+überlegen halten?

@@ -1,0 +1,40 @@
+Oder anders (etwas formaler), dass sich eine Aussage der Form:
+
+	Ex...
+
+herleiten lässt.
+
+Bsp.:
+
+	ExAy(y !e x)
+
+	"Es gibt eine leere Menge."
+
+Man kann dann (im Rahmen der Mengenlehre) sogar beweisen:
+
+	E!xAy(y !e x)
+
+	"Es gibt genau eine leere Menge."
+
+Dies wiederum rechtfertigt die Einführung eines speziellen Terms für
+die(se) leere Menge. Mithilfe der Kennzeichnungstheorie kann man z.B.
+definieren:
+
+	0 =df ixAy(y !e x)
+
+	"Das x, sodass für alle y gilt: y !e x."
+
+Somit hat man:
+
+	Ay(y !e 0)   bzw.   ~Ey(y e 0)
+
+	"0 ist leer (besitzt keine Elemente).
+
+Und natürlich gilt dann auch:
+
+	Ex(x = 0)
+
+	"0 existiert."
+
+
+A.

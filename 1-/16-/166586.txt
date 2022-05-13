@@ -1,0 +1,34 @@
+On Wed, 28 Nov 2000 22:06:16 +0200, Ferdinand Neudorfer
+<bnuhuovs@csbxy.ivock.apc> wrote:
+
+[...]
+
+LOL! das meinst du nicht ernst, oder?
+
+[...]
+
+Gut, _eine_ math. Definition:
+
+Als mengentheoretischen Rahmen setze ich NBG voraus.
+
+Def.: 	x' := x u {x}
+
+Def.:  	Ind A  :<=> ({} in A) & (x) (x in A -> x' in A)
+
+Ein a mit Ind a  wird  "induktive Menge" genannt.	
+
+Def.:  	N := cap {a| Ind a}  (="Schnitt über alle 
+ 			induktiven Mengen")
+
+Da das "Unendlichkeitsaxioms" die Existenz einer induktiven Menge
+garantiert, ist  N nicht nur eine Klasse, sondern eine Menge, die
+"Menge der natürlichen Zahlen" genannt wird.
+
+Eine natürliche Zahl_ ist dann p.D. ein Element der Menge der
+natürlichen Zahlen.
+
+Man kann weiter  0:={}, 1:=0', etc. definieren und ein Stellensystem
+aufbauen.(worauf ich hier verzichte)
+
+
+claudio

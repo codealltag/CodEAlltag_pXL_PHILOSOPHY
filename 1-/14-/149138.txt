@@ -1,0 +1,75 @@
+Hallo Vincent,
+
+On Thu, 08 Mrz 2001 20:47:01 +0200, 
+
+Eben, der Mengen- oder noch umfassender der Klassenbegriff ist so "umfassend",
+dass er "naiv" verwendet zu Widerspruechen fuehrt. Deshalb muss die Verwendung
+von Klassen in einer Theorie axiomatisch festgelegt werden, da er sonst zu-
+viel leistet. Es gibt dabei verschiedene Moeglichkeiten, die Verwendung
+dieses Begriffes zu regeln. Man kann z.B. eine weitgehende Komprehension zu-
+lassen und neben Mengen auch echte Klassen in einer 2-sortalen Sprache mit
+einem 2-stelligen Pradikat zulassen. Laesst man eine "unbeschraenkte"
+Komprehension zu, so muss man die Verwendung des 2-stelligen Praedikats-
+zeichen, kurz E, einschraenken, was man in einer axiomatischen Mengenlehre so
+machen kann, dass man, wenn man X E Y schreibt, das X eine Menge sein muss,
+aber das Y auch eine echte Klasse sein kann. Die Klasse {x|~xEx}, also die 
+Russellsche Klasse, wuerde, wenn man sie als Menge annimmt, zu einem Wider-
+spruch fuehren. Deshalb ist {x|~xEx} auch keine Menge, sondern eine echte
+Klasse, die nicht auf der linken Seite von E stehen kann. Du siehst hier
+schon, dass man durch die Einschraenkung der Praedikation mit so einer Klasse
+widerspruchsfrei in so einer Theorie (zumindest vorerst) fertig wird.
+Man koennte das alles noch genauer formulieren, aber mir kommte es im
+wesentlichen darauf an, zu sehen, dass man eine Trennung von Objekt- und
+Metasprache machen muss.
+
+Es kommt also darauf an, ein System von Saetzen in einer Objektsprache zu 
+finden, aus dem man mit Hilfe eines Kalkuels keine sich widersprechende 
+Saetze ableiten kann. Man kann sagen, dass die so entstehenden Objekt-
+sprachen der Mathematik nicht nur aus Gruenden der /Einfachheit/ und /Ein-
+deutigkeit/ entstehen, sondern auch eben ein gewisses Beschneiden der
+Umgangssprache ist, und man sich nur noch in dieser Objektsprache argumentiert.
+
+Wie Du an diesem Thread siehst, wird dieser Weg groesstenteils verlassen, und
+es fliessen hier Aspekte ein, die nichts mit der Mathematik zu tun haben.
+Man muss sich schon an ein Begriffssystem halten, wenn man in diesem argu-
+mentieren will.
+
+
+Mit einigen Tricks kann man in ZF ueber die Beweise in ZF selbst sprechen.
+Dazu werden im wesentlichen Beweise und Saetze der Objektsprache durch
+Terme in ZF kodiert. Man kann so z.B. ein "Beweispraedikat" in dieser
+Sprache schaffen und so dann den Satz bilden "Ist ZF konsistent, so ist
+die Konsistenz nicht zu beweisen, wobei dann hier con_{ZF}:=~bew(~0=0),
+also "0 ungleich 0 ist nicht beweisbar", heisst. Dann hiesse 
+ZF|-con_{ZF}->~bew(con_{ZF}), dass in ZF unter der Annahme der Konsistenz,
+diese nicht zu beweisen ist. Das spielt sich aber alles in ZF ab; die
+"Ableitungsrelation" |- drueckt das aus. Wuerde es nun aber gelingen aus
+ZF con{ZF} abzuleiten, dann waere ja die Konsistenz beweisbar und stuende
+mit der Nicht-Beweisbarkeit in Widerspruch.
+
+
+Ja, die Umgangssprache.
+
+
+Das, was einem der gesunde Menschenverstand sagt. Aber die Umgangssprache
+kann zu Paradoxen fuehren. Nicht nur aus diesem Grund gilt es dann, Objekt-
+sprachen zu beschneiden. Es gibt noch einen anderen Grund, eine Trennung
+von Objekt- und Metasprache zu machen, und das ist die Verwendung eines
+Wahrheitspraedikates. Ein universelles Wahrheitspraedikat ist in der
+Objektsprache ZF nicht widerspruchsfrei zu definieren, auch nicht in der
+Umgangssprache, da diese semantisch geschlossen ist. Man kann aber gewisse
+Einschraenkung auch hier an gewissen selbstbezueglichen Saetzen machen, so
+dass das womoeglich doch wieder geht.
+
+
+Speziell zur CH gibt es zu dem, was ich oben ausgefuehrt habe keine Analogie.
+Aber hinsichtlich des allgemeinen Nachweises der Unvollstaendigkeit von
+ZF werden im Prinzip dieselben Kodierungen der Sprache vorgenommen wie beim
+Nachweis, dass aus ZF heraus, die Konsistenz nicht zu beweisen ist.
+
+
+Nunja, es funktioniert ja auch schon eine Weile. ;-)
+
+
+Gruss Martin
+--

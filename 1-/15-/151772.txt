@@ -1,0 +1,17 @@
+nein.
+Wenn x eine Funktion ist, dann ist "lim_{x \to \infty} e^{-x} = 0" nicht 
+definiert, und kann daher nicht wahr oder falsch sein.
+Wenn x eine Zahl ist, dann die Aussage "lim_{x \to \infty} e^{-x} = 0" 
+definiert und auch wahr. Die Definiton schließt aber nicht aus, daß die 
+Aussage unwahr ist. Daher muß erst bewiesen werden, ob die Aussage wahr 
+oder unwahr ist. 
+Das allerdings wurde bereits getan, und es hat sich herausgestellt, die 
+Aussage ist wahr.
+
+
+glaube ich nicht, daß dir das entgegnet wurde. Vermutlich hast du da was 
+mißverstanden.
+0 ist definiert, aber Division durch 0 nicht.
+
+
+wie kommst du darauf, daß es da Stufen gäbe?

@@ -1,0 +1,39 @@
+Wieso fragt Du mich das?
+Du hast doch gesagt, dass die Eins so einfach gedacht werden kann.
+
+Schau z..B. die Addition Modulo 4 an,
+da hast Du zwei gleichwertige "1" zur Wahl:
+
+3
+3+3=2    (mod 4)
+3+3+3= 1 (mod 4).
+
+Durch aufaddieren der "3" erhaeltst Du genauso alle Werte wie durch
+aufaddieren der "1".
+
+
+Und welchen Zirkelschluss meinst Du?
+
+
+Ja.
+
+(G,+) ist eine Gruppe, wenn
+
+(1) Fuer alle a,b aus G  die Verknuepfung a+b wohldefiniertes Element aus G
+liefert
+(2) + assoziativ ist: (a+b)+c = a+(b+c) fuer alle a,b,c aus G
+(3) Ein neutrales Element 0 aus G existiert mit 0+a=a+0=a fuer alle a aus G
+(4) Zu jedem a aus G ein inverses Element -a mit a+(-a) = (-a)+a=0 exisitiert.
+
+Wenn man "+" schreibt, fordert man meistens auch noch kommutativ:
+a+b=b+a.
+
+Wo kommt hier "Zaehlen" vor?
+
+
+Nein, ({0},+) ist auch eine Gruppe und hat nur ein einziges Element.
+
+
+Nein.
+
+Gerold

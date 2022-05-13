@@ -1,0 +1,77 @@
+Hi,
+
+
+Da ich waehrend der Diskussion aus meiner Lebensmitte (aeh, d.s.p.,
+natuerlich :^) gerissen wurde, hier ein Nachtrag:
+
+
+Ulrich Jerges <jyuhm@hrdm.oila.kp> schrub:
+
+So habe ich es weder gemeint noch geschrieben. U(A,B) ist eine
+Funktion, wobei ich D = U(A,B) haette schreiben sollen, mit D als
+demjenigen Etwas, das A und B unterscheidet. U(x,y) ist somit /keine/
+"symmetrische, nichtreflexive und nicht transitive Relation". Auch ist
+{A,B} nicht /der/, ja nicht mal /ein/ Unterschied zwischen A und B,
+denn das ist ja schon D.
+
+Ein beliebtes Beispiel hierzu: Was ist der Unterschied x zwischen
+einem Hund y und einem Regenwurm z? Der Regenwurm besitzt im Gegensatz
+zum Hund zB weder Herz noch Nieren. Beide unterscheiden sich also.
+Laut der These, dass es dann etwas geben muss, das dieser Unterschied
+ist, (also Exyz[h(y) & r(z) & x = U(y,z)]) muesste man diesen nun
+angeben koennen. Zwischenfrage: Ist das Nierenhaben dasselbe wie das
+Herzhaben? Soweit bekannt, besitzen alle Lebewesen mit Herz, und nur
+diese, auch Nieren. Das ist jedoch keine analytische Wahrheit, denn es
+ist vorstellbar, dass man irgendwann ein Lebewesen mit Herz, aber ohne
+Nieren findet, oder umgekehrt. Wenn die Aussage aber nicht analytisch
+ist, dann besitzt sie empirischen Gehalt, und dann ist offenbar das
+Herzhaben etwas anderes, als das Nierenhaben, andernfalls die Aussage
+ja tautologisch, und mithin wieder analytisch waere. Der Unterschied
+zwischen Hund und Regenwurm ist also: ..., ja was nun?
+
+Du koenntest nun etwa sagen, der Unterschied sei das Ding 'Nieren und
+Herz des Hundes', aber sie unterscheiden sich ja auch un Bezug auf
+Anzahl der Zahene, Behaarung, Fortpflanzungsart, ... . Ist der
+Unterschied nun die Folge, die aus all dem besteht? Wenn ja, und wenn
+es im Modell etwa noch eine Katze c gibt, dann gibt es sicherlich auch
+die Folgen der Dinge, die die Unterschiede zwischen Katze und
+Regenwurm, bzw Katze und Hund sind. Da hier der Ausdruck 'es gibt' in
+Bezug auf diese Folgen verwendet wurde (doch, das wurde von dritter
+Seite aus getan, und dagegen argumentiere ich), gibt es also zu Hund,
+Katze und Regenwurm die Folgen f1 = F({x,y}), f2 = F({x,c}) und f3 =
+F({y,c}). Da diese Folgen sicherlich nicht alle dieselben sind,
+muesste es nun auch die Folgen F({f1,f2}), usw. geben. Na, kommt Dir
+das bekannt vor? Die Konsequenz: Wenn es in einem Universum drei sich
+unterscheidende Dinge gibt, und diese Unterschiede (= Folgen) selbst
+Dinge sein sollen (= in Bezug auf sie kann der Term 'es gibt'
+angewendet werden), dann gibt es unendlich viele Dinge in diesem
+Universum.
+
+Du koenntest nun aber sagen, der Unterschied sei nicht irgendeine
+Folge, sondern "die Tatsache, dass der Hund Herz und Nieren besitzt,
+und der Regenwurm nicht". Damit wuerdest Du aber ad hoc den noch nicht
+geklaerten Begriff 'Tatsache' einfuehren. Zudem scheint die Aussage
+'Es gibt einen Unterschied x dergestalt, dass er die Tatsache ist,
+dass der Hund y Herz und Nieren besitzt, der Regenwurm z dagegen
+nicht' nicht mehr Gehalt zu haben, als wenn Du einfach sagen wuerdest,
+'Hund y und Regenwurm z unterscheiden sich'.
+
+Daraus, dass sich Dinge unterscheiden koennen, ohne dass dies zugleich
+eine Existenzaussage ueber Unterschiede noetig macht, folgt nun auch,
+dass mein Trick mit den sich unterscheidenden Unterschieden nicht mehr
+funktioniert. Unter dieser Sichtweise bleibt ontologisch alles tiptop.
+
+Es seien Dir hierzu auch nachdruecklich Erdlens Aufsaetze 'Getreu
+den Tatsachen' und 'Sagen, dass...", in 'Wahrheit und Interpretation'.
+(beide stw) empfohlen.
+
+
+Nochmal Danke. Unter Anwendung des principle of charity haettest Du
+mich schon verstehen koennen, aber Dir geht es scheinbar nicht um
+Wissenszuwachs, sondern um's Recht-behalten.
+
+
+Doch, is' so. s.o. Denk nochmal darueber nach.
+
+
+Ludwig.

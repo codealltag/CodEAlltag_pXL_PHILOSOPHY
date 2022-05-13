@@ -1,0 +1,107 @@
+Und was ist mit der Sprache, die die aktuell *gebrauchst*? Du
+*behauptest* z.B., man könne keine Aussage über den Wahrheitsgehalt
+von Aussagen treffen, solange kein Beweis vorliegt. Du erhebst also
+einen Geltungsanspruch für den Satz
+
+. Aussagen über den Wahrheitsgehalt von Aussagen können nur dann
+getroffen werden, wenn ein Beweis vorliegt.�
+
+Ist *dieser* Satz jetzt ein nutzbringendes Ergebnis (und wenn ja, in
+Bezug auf welchen Zweck?), oder behauptest du gar die *Wahrheit*
+dieses Satzes?
+
+
+Und ich erinnere mich an eine Vorlesung über math. Logik, in der der
+Prof höchst "unwillig" auf Fragen bezgl. des Verhältnisses zwischen
+Meta-und Objektsprache und der Rechtfertigung der Schlussweisen in der
+Metasprache reagierte. ;-) Jonas: Selbst math. Logiker schieben solche
+Fragen eher in die "Philosophie" ab. Andererseits gibt es
+"Spezialisten", die jede Aussage für "unmittelbar evident" halten und
+erst 'mal überzeugt werden müssen, dass math. Aussagen eines
+*Beweises* bedürfen.
+
+
+Im Sinne von *deduktiven* Argumenten sicherlich nicht, eine
+*Rechtfertigung* ist dennoch vonnöten, auch wenn sie u.U.  nur darin
+besteht, aufzuzeigen, dass die logischen Regeln zum Fundament der
+Sprache gehören, und ein Zweifel insofern unsinnig ist, als dass sich
+der Zweifelnde bei seiner Argumentation selbst schon auf dieses
+stützt. Deshalb auch meine Aufforderung an dich, ein mögliche
+Situation zu beschreiben, in der der modus ponens falsch ist. Wenn es
+sich bei dieser Regel nur um eine induktive Regel handeln würde,
+müßte ihre Falschheit zumindest möglich sein (das kannst du durchaus
+modallogisch interpretieren: Es gibt eine mögliche Welt, die...)
+
+[...]  
+
+Ja. Man könnte hier auch von einer Abrichtung sprechen, der man im
+Laufe des Spracherwerbs (und meinetwegen auch in der Mathematik ;-))
+ausgesetzt ist. Nur rechtfertigt der faktische Sprachgebrauch
+nichts. Wenn das Wahrheitsprädikat nichts weiter als eine Form
+eingeübten Sprachgebrauchs ist, wird eine Eigenschaft der Sprache,
+nämlich Aussagen *über* bestimmte Dinge, Ereignisse und Sachverhalte,
+die *außerhalb* ihrer selbst liegen, völlig unerklärlich. Auch wenn
+wir "Wahrheit" verfehlen, so intendieren wir mit unseren Aussagen,
+etwas Wahres über die Welt zu sagen; die Gefahr bei der Interpreation
+Häckels besteht darin, in eine Art Sprachidealismus zu
+verfallen, in denen die Gegenstände und Ereignisse erst durch Sprache
+*geschaffen* werden. (auch wenn das, in einem *bestimmten* Sinne, bei
+Sprechakten durchaus der Fall ist)
+
+
+Ja, aber eine *Spracherwerbstheorie* ist noch keine
+*Bedeutungstheorie*.
+
+[...] 
+
+Ich halte *pragmatische* Erwägungen für durchaus wichtig, wobei man
+hier man ketzerisch anmerken kann, dass die Logik für die meisten
+Gebiete der Mathematik ziemlich überflüssig ist, auch wenn es in der
+Algebra ein paar nette Anwendungen der Modelltheorie gibt. ;-) Nur
+reichen rein pragmatische Erwägungen nicht aus.
+
+
+Ja, ich weiß. Der modus ponens wird aber meines Wissens von keiner
+Logik-Variante abgelehnt, auch wenn es gelegentlich Zweifel gibt, ob
+das Konditional Wenn p dann q überhaupt wahrheitsfunktional
+analysiert werden sollte. Gegen intuitionistische und
+konstruktivistische Ansätze sprechen übrigens gerade pragmatische
+Gründe : Das Auswahlaxiom ist *die* nichtkonstruktivistische Aussage
+schlechthin, und für die meisten math. Bereiche unverzichtbar.
+
+[Grebensteins rekursive Definition der Wahrheit] 
+
+Gemeint ist hier die Def. der Relation �|=�, also der Gültigkeit
+(Wahrheit) eines Satzes (L-Formel), z.B eines Allsatzes �(x) phi in
+einem L-Modell M bezüglich einer Variablenbelegung h:Var_L->|M|, in
+der Art von
+
+ M |= �(x) phi [h] gdw. für alle a in |M| ist M |= phi [h^x_a]
+
+Die Frage ist hier, in welchem 'Modell' obiges Bikonditional wahr ist
+;-)
+
+
+Das halte ich allerdings für einen Fehlschluss: Selbst wenn die
+logischen Regeln sprachliche Konstrukte sind (was, in einem gewissen
+Sinne, durchaus für wahr halte), so sagt das nichts über den Geltungsbereich
+der Logik aus.
+
+[Wie formal ist formale Logik?] 
+
+Modelltheorie ist aber nicht nur Syntax: Die Kalküle werden
+referenzsemantisch interpretiert.
+
+
+[...]
+
+Soll das eine empirische These sein?
+
+[klassische Logik] 
+
+Wie du vielleicht weit können auch für konstruktivistische formale
+Systeme Semantiken definiert werden, wie es z.B. Junghanns getan hat. Der
+Witz ist allerdings, dass die Metasprache selbst klassisch ist.
+
+
+patrice

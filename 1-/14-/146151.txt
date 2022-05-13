@@ -1,0 +1,59 @@
+Nicht deswegen, sondern weil es ein trivial einzusehendes
+mathematisches Theorem ist.
+
+
+Die folgenden Ueberlegungen erinnern an notorische
+perpetuum-mobile-Trolls, die mit einer Dynamik, aus der
+die Energieerhaltung als Theorem folgt, ein Perpetuum mobile
+konstruieren wollen. Das ist albern. Man muss da schon eine 
+alternative Dynamik postulieren, sonst wird das nichts.
+
+
+Die wirkenden Kraft ist v x B. Also ein zweiter Faktor v.
+Ergibt zusammen v^2.
+
+Unsinn.
+
+Nur wenn man es falsch macht.
+Kraft ist keine lorentzinvariante Groesse. Du hast oben eine
+Reihenentwicklung nach v/c gemacht, was in diesem Fall legitim ist.
+Bis einschliesslich zur Ordnung v/c ist Kraft lorentzinvariant
+(und in der bisherigen Diskussion wurden am Ende alle Ordnungen >v/c 
+vernachlaessigt).
+Was man direkt bei der Ladung beobachtet, ist die Beschleunigung
+derselben aufgrund der Kraft. Da Beschleunigung = delta v/delta t
+und v = delta s/delta t ist und Laengen kontrahiert und
+Zeiten dilatiert werden, sehen Beobachter in verschiedenen
+Systemen selbstverstaendlich verschiedene Beschleunigungen und Kraefte 
+(nur bis zur Ordnung v/c sind sie gleich) 
+
+Richtig ist:
+
+Die lorentzinvariante Bewegungsgleichung einer Ladung in einem 
+elektromagnetischen Feld ist:
+
+ dp_mu / ds = q*u_mu * F^{mu,nu} .
+
+p = m*gamma*v = Impuls der Ladung.
+u  = (c*gamma, v*gamma) 4er-Geschwindigkeit
+F^{mu,nu} Feldstaerketensor: E-Felder sind die F_01/c,F_02/c,F_03/c
+                             B-Felder die B_x = F^23, B_y = F^13 
+					  B_z = F^12
+                             Vorzeichen ist evtl. falsch.
+
+ds = Eigenzeitdifferential = dt/gamma.
+
+In 3er-Vektoren ergibt das wg. d/ds = gamma * d/dt
+
+F = dp/dt = m * d( gamma*v )/dt = q*(E + v x B)
+
+
+Diese Bewegungsgleichungen sind per constructionem invariant,
+d.h.:
+
+Lsg. der Maxwell-Gl. + Lsg. der Bewegungsgl. der Ladung
+in System S ergibt lorentztransformiert eine
+Lsg. der Maxwell-Gl + Lsg. der Bewegungsgl. der Ladung in
+System S'.
+
+Johann

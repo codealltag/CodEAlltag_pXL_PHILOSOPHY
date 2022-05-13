@@ -1,0 +1,19 @@
+Ich versuch das mal zu übersetzen:
+
+Die Menge der (individuellen) Eigenschaften eines Objekts d des
+Bereichs D ist diejenige Menge von Elementen der Potenzmenge P(D),
+welche wiederum d als Element enthalten.
+
+
+Wenn
+
+AxAy(x /=3D y -> EP(Px & ~Py)
+<->
+AxAy(AP(Px -> Py) -> x =3D y))
+
+nicht axiomatisch, d.h. als etwas im System Unbewiesenes
+/vorausgesetzt/ ist, dann weiß ich wirklich nicht, woraus es sich
+ableiten ließe.
+
+Gruß
+PAUL

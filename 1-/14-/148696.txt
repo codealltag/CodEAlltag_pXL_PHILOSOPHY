@@ -1,0 +1,53 @@
+Ist das ein Zyklus?
+
+Natürlich kann man das Signum nur auf Permutationen von
+endlichen Teilmengen von N (bzw. für "Selbst-Bijektionen"
+mit endlichem Wirkungsbereich) sinnvoll definieren.
+
+
+Ich habe diese Aussage ("w^w = w! = 2^w") nicht verwendet.
+
+
+Jetzt kommen wir dem Kern der Sache schon näher.
+Pot(MxM)~Pot(M) gilt wegen M ~ MxM - und letzteres
+gilt zumindest für N und R auch ohne Kontinuumshypothese.
+
+Ob man für die allgemeine Aussage MxM~M (M unendlich)
+die Kontinuumshypothese (oder eine Verallgemeinerung
+davon) benötigt, weiß ich nicht (soweit ich weiß,
+haben wir in unserer ganzen Mengenlehre diese Aussage
+nur am Rande erwähnt, aber nie benutzt).
+
+Wir haben allerdings für den allgemeinen Beweis von
+     M x M ~ M
+das Auswahlaxiom (bzw. das dazu äquivalente Zornsche
+Lemma) verwendet.
+
+
+In meinem Beweis war von der Menge der Permutation als
+Menge aller Selbst-Bijektionen die Rede. Mit der Menge
+aller Permutationen mit endlichem Wirkungsbereich
+funktioniert der Beweis so nicht.
+
+
+Man benötigt nichts außer den Axiomen und der Definition
+von "unendliche Menge", "Bijektion", "Injektion" und
+"Gleichmächtigkeit".
+Den Satz von der Antisymmetrie der Kardinalzahlordnung
+(bei uns als CANTOR-SCHROEDER[1]-BERNSTEIN / C-S-B) kann
+man damit beweisen (und dann verwenden).
+Man kann natürlich auch darauf verzichten und die Bijektion
+direkt konstruieren.
+
+
+Für den Beweis von C-S-B ist das Auswahlaxiom nicht notwendig.
+Wie gesagt, wir haben es für M x M ~ M benötigt.
+
+[1] Leischner wurde bei uns mit oe geschrieben,
+nicht mit '�'. Weiß jemand (Kay?) mehr über diese
+Person?
+
+Thomas
+--
+Im deutschen Usenet ist es üblich, seinen Realnamen (Vor- + Nachname)
+anzugeben. Mehr dazu in den regelmäßigen Postings in cj.eugpkvze.eqvvf.

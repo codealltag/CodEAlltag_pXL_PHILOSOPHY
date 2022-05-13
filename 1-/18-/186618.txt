@@ -1,0 +1,36 @@
+Achtung, aufgepasst!
+
+Habe mich wieder selbst ueberlistet, aber Praezision ist eben auch nicht
+meine Staerke, eher die Verwirrung.
+
+[...]
+
+Nun, so ein HGZV wuerde wohl nicht mehr jeder als hyperbolisch
+bezeichnen, auch sind Wurzeln nicht immer und ueberall kontrahierend im
+gelaeufigen Sinne. ;-) 
+Aber es klappt halt trotzdem, weil eben die Polynome hyperbolisch sind.
+Als Beispiel mal z^2, dann werden Urbilder von Punkten mit |z|<1, (aber
+nicht z=0) naeher an den Einheitskreis |z|=1 herangebracht, und ebenso,
+wenn |z|>1. Unendlich und 0 bleiben allerdings fest. Der Einheitskreis
+ist also der Attraktor, wenn man die Umkehrzweige betrachtet, und
+benachbarte Punkte auf dem Kreis werden auch von der Wurzel naeher
+zusammengebrachtet (dort dann kontrahierend im Sinne, dass z^2 dort
+expandierend ist).
+Und aehnlich ist es auch, wenn man eine kleine Stoerung ins Spiel
+bringt, dann ist aber die Juliamenge in der Regel nicht mehr so glatt
+(nur noch fuer z^2-2). Eine andere Charakterisierung der Juliamenge ist
+auch als Abschluss der abstossenden periodischen Punkte der Funktion,
+und fuer die Rueckwaertsiterierten (z.B. als IFS betrachtet) bedeutet
+das soviel wie anziehend.
+Dass es aber bei nicht-hyperbolischen quadratischen Polynomen auch
+schiefgehen kann, zeigen z.B. Siegelscheiben. Die Juliamenge ist
+immernoch der Rand des Einzugsbereiches von unendlich, aber auf der
+Siegelscheibe dreht man sich eben im Kreis und naehert sich dort im
+Rueckorbit nicht der Juliamenge.
+Bei rationalen Funktionen muss auch unendlich nicht mehr eine besondere
+Rolle spielen, so dass es schwieriger sein mag, ein invariantes
+Einzugsgebiet zu finden, dessen Rand dann die Juliamenge waere.
+
+Aber soweit vielleicht erstmal,
+bevor sich wieder zuviele Missgeschicke einschleichen.
+Hermann!

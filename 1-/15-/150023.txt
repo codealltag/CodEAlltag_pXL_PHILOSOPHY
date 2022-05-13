@@ -1,0 +1,29 @@
+Gut die Frage wurde schon in verschiedenen Varianten gestellt:
+Was ist das Ergebenis einer Rechenoperation 1/0?
+
+Wenn Du die Frage nicht verstanden hast, dann kann ich sie gerne auf
+noch tausend Varianten stellen. Der praktische Wert einer solchen Frage
+besteht unter anderem darin, dass Software die unangenehme Eigenschaft
+hat sich bei dieser Rechenoperation in das Nirvana zu verabschieden. Es
+lässt solches Nirvana lässt sich pragmatisch mit einer einzigen
+Bedingungsänderung umgehen. Nun wird behauptet eine Rechenoperation wie
+1/0 ist nicht erlaubt, da es nicht definiert ist. Praktisch empfinde ich
+diese Definition als falsch. Wenn ich vorraussehe, wann der Fall 1/0
+Eintritt, dann brauche ich nur eine Bedingung ändern und der Fall tritt
+nicht mehr auf. Sprich die Software stürzt nicht mehr ab. Das beste
+Beispiel einer solchen Bedingung�nderung ist ein Programm wie der
+Taschenrechner, den fast jedes Betriebssystem mitliefert. Ich kann den
+Anwender nicht daran hinder 1 / 0 zu tippen, aber ich kann ihm ein
+Ergebniss präsentieren. Dazu muss ich nur eine Bedingung setzen. Wenn
+der Anwender auf den dummen Gedanken kommt x/0 zu teilen, dann gebe aus
+"Division durch Null nicht möglich".
+
+Es wird dabei nicht eine Rechenregel geändert oder verletzt. Ich erhalte
+auch ein Ergebniss, dass zwar ausserhalb der Bereich der Zahlen liegt,
+aber denn 1 Ergebniss ist. Insofern ist der zweite "Beweis" sogar
+richtig. Er besagt lediglich, dass dann b = 1 ist. Im Falle des
+Taschenrechners 1 Ergebniss mit dem Inhalt "Division durch Null nicht
+möglich".
+
+Gruss
+Franco

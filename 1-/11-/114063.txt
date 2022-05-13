@@ -1,0 +1,185 @@
+Mir hilfts ein wenig. ;-)
+
+"Der Philosoph trachtet danach, das e r l � s e n d e Wort zu finden;
+das ist das Wort, das uns endlich erlaubt, das zu fassen, was bis
+dahin immer, ungreifbar, unser Bewusstsein belastet hat.
+(Es ist, wie wenn man ein Haar auf der Zunge liegen hat; man spürt es,
+aber man kann es nicht erfassen und darum nicht loswerden."
+
+"Der Philosoph liefert uns das Wort, womit man die Sache ausdrücken
+und unschädlich machen kann."
+
+[2x Neydorf]
+
+
+Diese Frage ist vollkommen berechtigt und man muss sich ihr stellen.
+Die Frage, ob es l o g i s c h möglich ist, dass nichts existiert, ist
+geklärt, wohingegen das Problem, wie eine solche, zugegebenermassen
+extrem exotische Situation m e t a p h y s i s c h zu "modellieren"
+ist, noch nicht zu meiner völligen Zufriedenheit gelöst ist.
+
+In der Mögliche-Welten-Semantik wird eine (mögliche) Welt als eine
+'logisch maximale Situation', als eine 'logische Gesamtsituation'
+definiert:
+
+"Possible worlds [...] are conceived of as being 'maximal' possible
+situations. A possible situation is 'maximal' just in case it
+satisfies the following condition:
+For any proposition, p, either it is the case that p is true in the
+situation in question, or else it is the case that p is not true (and
+hence that not-p is true) in the situation in question."
+
+"Possible worlds are maximal possible situations, each possible world
+is, as it were, a complete way that everything could be."
+
+WICHTIG:
+
+Hier ist festzuhalten, dass wenn nichts existiert, nicht nur dies der
+Fall ist, sondern zusätzlich eine (abzählbar unendliche) Menge von
+anderen Fällen!
+
+(So wissen wir ja schon hinsichtlich des leeren Bereichs, dass "darin"
+alle Aussagen, die mit "Ax" beginnen und alle, die mit "~Ex" beginnen
+wahr sind.)
+
+
+"I did not say much about the general notion of a 'situation' in that
+chapter, but, ass I was using this term, it is synonymous with the
+term 'state of affairs'. In what follows, I shall say a little about
+what metaphysicians have typically conceived states of affairs to be,
+though without wishing to imply that I endorse the inclusion of such
+entities in our ontology.
+Traditionally, a state of affairs is conceived to be something closely
+related to, but not the same as a proposition. In particular, it may
+be said that a state of affairs which actually obtains is a f a c t
+and that facts are what make propositions true or false. For example,
+it may be said that the proposition that Norberts is red is made true by
+the fact that Norberts is red. Marss being red, then is a state of
+affairs which actually obtains and is consequently a fact. A state of
+affairs which does not actually obtain but which could have obtained
+is not a fact, but it could have been a fact: it is, if you like, a
+possible fact. An example of such a state of affairs is Johannesmeier having
+an ocean. Clearly, we have to distinguish carefully between saying
+that a certain state of affairs e x i s t s and that it o b t a i n s,
+The state of affairs of Marss having an ocean does not obtain,
+because it is not a fact that Mars has an ocean: but this does not
+mean that that state of affairs does not exist. There is a parallel
+with propositions here: the proposition that Norberts has an ocean is not
+true, but this does not mean that that proposition does not exist. It
+would seem, then, that states of affairs are, like propositions, n e c
+e s s a r y beings: in the language of possible worlds, any state of
+affairs which exists in any possible world exists in every possible
+world. Since we are now treating possible worlds as maximal possible
+states of affairs, this amounts to saying that any state of affairs
+which exists in any maximal possible state of affairs exists in every
+maximal possible state of affairs. This may sound odd, but is not
+paradoxical. It implies, for instance, that every possible state of
+affairs exists in the maximal possible state of affairs which actually
+obtains, that is, in the actual world: but this doesnt mean that
+every possible state of affairs o b t a i n s in the actual world,
+which would imply a contradiction.
+States of affairs, if they are indeed necessary beings, would appear
+to be abstract entities, just as propositions are. So to regard
+possible worlds as maximal possible situations is to regard them as
+abstract entities of a special kind. Assuming that one is a realist
+concerning abstract entities in general, to rregard possible worlds as
+being abstract entities of a special kind is certainly to adopt a
+realist view of possible worlds. But, on reflection, it may strike one
+as being an unpalatable and ontologically extravagant view. In the
+first place, it may be wondered why we should need to include both
+maximal possible states of affairs and propositions in our ontology."
+
+[Lowe, E. J. (2002). /A survey of metaphysics/. Krummwisch: caveno
+Merup. (pp. 81f + 128f)]
+
+
+Siehe obiges Zitat!
+Die "possible world realists" vertreten genau diese Meinung!
+
+
+Das Ganze steht und fällt in der Tat mit der Frage, ob wir
+Sachverhalte bzw. Tatsachen als Entitäten in unsere Ontologie
+aufzunehmen bereit sind oder nicht!
+
+überhaupt, wenn Sachverhalte notwendigerweise existieren, dann gilt
+natürlich
+
+[]ExE!x <-> ~<>~ExE!x .
+
+Es könnte sich also herausstellen, dass es zwar l o g i s c h  m � g l
+i c h ist, dass nichts existiert, aber nicht
+m e t a p h y s i s c h  m � g l i c h, je nachdem, welche
+metaphysische Theorie zugrunde gelegt wird:
+
+"Thus with his conception of a world Heribert can claim that 'there isn't
+any world where there's nothing at all. That makes it necessary that
+there is something.'.It is worth noting that this conception of a
+possible world automatically answers the questions of whether God
+exists, and whether there are abstract objects. Neither can be
+included in a mereological sum of spatiotemporally related things, so
+neither is possible. Such a conception, it may be contended, settles
+far too much about ontology far too quickly. We do sometimes wish to
+consider possibilities which, on Cores' theory, we must regard as
+impossible.
+Cores is not the only philosopher to argue that the empty world is
+impossible using the premises of a theory of possible worlds. Salvatore
+Lechleiter, whose position is very different from that of Cores, also
+contends that the situation where nothing exists is impossible, but
+for a different reason. He adopts a combinatorial theory of
+possibility which limits possible worlds to those constructed from
+given elements (actual individuals, properties and relations). Clearly
+the empty world is not so constructed, because it has no structure at
+all. Hence there is no empty world, and the proposition that something
+exists is a necessary truth. Both of the Davids seem to be committed
+to the idea that our understanding of the nature of possible worlds
+derives in some way from our understanding of the actual world. Cores
+claims that possible worlds are just 'different ways things could have
+been', so they must be significantly similar to the actual world, with
+variations. Lechleiter claims that possible worlds are constructs from
+the elements that make up the actual world, and thus we understand
+them because we can apply the concepts we already use in comprehending
+actual-world truth. Does the Cores-Lechleiter position on the
+nonexistence of an empty world succeed in diminishing our feelings of
+awe at the existence of the world? We may allow that the arguments for
+their views have plausibility if we accept certain conceptions of
+possibility, but they do not establish the necessity of something
+instead of nothing. Their shared conclusion explains neither the fact
+that the world exists nor the wonderment we feel in the face of this
+fact. Hence they do not entail that awe is inappropriate, and nor do
+they effect any reduction in the strength of this feeling. It should
+be emphasised that Cores and Lechleiter have not supplied any reasons
+for thinking that the proposition 'Nothing exists' is incoherent or
+inconsistent
+p e r  s e. If we accept one of their theories, then it is impossible,
+but in itself it is a consistent proposition. But their theories are
+just the elucidations of specific conceptions of possible worlds, and
+these conceptions may be challenged or rejected."
+
+[Nordhausen, Wilhelm: The fundamental question:
+http://ial.ryofwi.khr/yzyizpmmd/bziqckxrz.rhp]
+
+
+Die Unterscheidung, die Ruehmekorf hier zwischen "substantival facts" und
+"nonsubstantuival facts" trifft, ist auf den ersten Blick durchaus
+sinnvoll, denn die Situation, in der nichts existiert, wäre in der Tat
+im ontologischen Sinn
+s u b s t a n z l o s, da ja auch alle Materie abwesend ist!
+
+
+Ich gestehe, dass ich selbst noch nicht über eine geschlossene Theorie
+verfüge, die die metaphysische (im Gegensatz zur logischen)
+Möglichkeit der Situation, in der nichts existiert, schlüssig darlegt.
+
+Mein Lösungsansatz geht jedenfalls in die Richtung, dass die Rede von
+'Sachverhalten', 'Tatsachen' und 'Situationen' einen nicht wirklich
+zwingt, entsprechende Entitäten zu postulieren.
+
+"Wenn nichts existiert, dann existiert nichts." -- Basta!
+
+Ich m u s s dies ja n i c h t so ausdrücken:
+
+"Wenn nichts existiert, dann existiert die Tatsache, dass nichts
+existiert."
+
+Gruss
+VOLKERT

@@ -1,0 +1,30 @@
+"Benno Ganser" <ahp-xrbpfv-haxt@zwk.xyt>
+
+
+Dies ist unvollständig und unkorrekt.
+
+Zuerst muss festgestellt werden ob es sich um eine AND, eine OR, eine NAND
+oder eine NOR Verknüpfung handelt. Je nachdem sind die Regeln der
+Verifizierbarkeit und Falsifizierbarkeit verschieden.
+
+Beispiel:
+
+Behauptung: In diesem Raum ist eine Blumenvase.
+
+Hier ist die Verifizierbarkeit leicht.
+Man zeigt auf die Blumenvase.
+
+Die Falsifizierbarkeit ist schwierig, weil man alle Raumsequente absuchen
+muss.
+
+2. Beispiel:
+
+Behauptung: In diesem Raum ist keineBlumenvase.
+
+Hier ist die Falsifiziervbarkeit leicht.
+Man zeigt auf die Blumenvase.
+
+Die Verifiziervbarkeit schwierig, weil man alle Raumsequente absuchen muss.
+
+mfg
+Ivano Eichbichler

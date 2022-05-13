@@ -1,0 +1,33 @@
+Jean-Claude Sangerhause <ixsvna.ttgigrgy@t-mvuglt.dn> schrieb in im Newsbeitrag:
+7N9S37GK.Y40H4BZ@x-byhlym.jl...
+0
+ja       = 0
+gerne, auch = 0
+du nimmst sie vielleicht nicht mehr wahr, aber sie existiert. und deshalb
+ist der gesamte term = 0.
+eine null als faktor reicht dafür völlig aus.
+
+falsch, ist ein faktor null ist das ergebnis auch null.
+das heißt also wenn ich 2 * 1 * 1 * 1 * 1 * 1 * 1 * 1 * 1 * 1 * 1 * 1 * 1 *1
+usf. schreibe, nehme ich die 2 irgendwann nicht mehr wahr, und das ergebnis
+ist 1?
+
+richtig
+falsch
+
+hier nochmal, weshalb du nicht durch null teilen darfst:
+
+Die Division a:b ist die Multiplikation von a mit der zu b inversen Zahl
+b^(-1).
+Angenommen, es existiert eine Zahl 0^(-1) --> 0 * 0^(-1) = 1.
+Andererseits gilt dann: 0 * 0^(-1) = (0 + 0) � 0^(-1) = 0 * 0^(-1) + 0 *
+0^(-1)
+--> 0 * 0^(-1) = 0. Wegen 1 ungleich 0 ist das ein Widerspruch!
+
+q.e.d.
+richtig
+
+
+Gruß
+
+Nikolaus

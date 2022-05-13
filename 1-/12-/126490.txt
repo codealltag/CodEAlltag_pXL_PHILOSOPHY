@@ -1,0 +1,108 @@
+Elias Zollweg <fic88@wji.rm> (Montag, 19. August 2003 01:22):
+
+
+Wenn es sich soweit nur um die Einführung eines uninterpretierten 
+Relationszeichens handelt, welchen Grund gibt es, dieses Zeichen 
+ausgerechnet "Identität" zu nennen? Warum nicht zB "ritt"? 
+Bedenke dies: Ein Normalsprachler könnte /Identität/ so charakterisieren:
+
+        1) Identität ist eine Äquivalenzrelation 
+        (reflexiv, symmetrisch, trasitiv).
+
+        2) Identität ist diejenige singuläre Äquivalenzrelation,
+        bei deren Vorliegen es sich gar nicht um /zwei/ Dinge
+        handelt (die durch 'x' und 'y' bezeichnet werden), sondern nur um 
+        /eines/ (um "numerische Identität" oder "ein und dasselbe" oder 
+        "Selbigkeit" oder wie immer man das noch ausdrückt).
+        [Diese Charakterisierung ist dann zirkulär.]
+
+Nun kann man für
+
+        x=y :<=> (z)(z \in x  <=>  z \in y)
+
+zwar zeigen, daß die so definierte =-Relation eine Äquivalenzrelation ist, 
+aber die in 2) erwähnte singuläre Eigenschaft jener normalsprachlich 
+/Identität/ genannten Äquivalenzrelation kann aus obiger Zeicheneinf�hrung 
+nicht abgeleitet (oder ersehen oder was immer) werden.  Diese numerische 
+Einsheit des Bezeichneten müßte ja dann aus der Definens-Figur
+
+        (z)(z \in x <=> z \in y) 
+
+gefolgert werden. Ich bin gespannt wie Du das anstellen willst. 
+So spricht auf dieser syntaktischen Ebene tatsächlich nichts für den 
+Ehrentitel "Identität" und nichts gegen "ritt" (der Name "Identität" 
+ist eine willkürliche Erschleichung).
+
+Das würde dann wohl einen Teil des bisherigen Aneinandervorbeiredens 
+erklären:
+
+A:  /Identität/ ist zirkelfrei nicht definierbar!
+
+B (Elias): Doch, im Definens kommt "ritt" ja gar nicht vor!
+
+A: Höh???
+
+
+Also zum ersten Mal zur Sache gesprochen wird...
+
+
+Was bedeutet hier genau "den ganzen Apparat einer Meta-Mengenlehre
+zur Verfügung haben"? Sind die Zeichen der Meta-Mengenlehre wieder nur
+uninterpretierte? Dann wäre das mit einer analogen Definition eingeführte 
+Meta-= wieder nur irgendeine Äquivalenzrelation, nennen wir sie 
+"Yrit�t2". Wenn nicht irgendwo das "furchtbare" (weil zirkuläre) Wort von 
+der 'Bedeutungsidentität' oder 'Selbigkeit des Bezeichneten' fällt, kommt  
+man auch mit einer unendlichen Reihe aufeinander gestapelter ritten nie 
+zur Identität. 
+
+
+Was hat die Meta-Mengenlehre, was die Objekt-Mengenlehre noch nicht hat?
+Besitzt die Meta-Mengenlehre prinzipiell mächtigere Ausdrucksmittel als 
+die Objekt-Mengenlehre? Ich vermute nein. Deshalb verstehe ich nicht, was
+die Interpretation einer Mengentheorie in einer anderen zum hiesigen 
+Problem klären soll. Das Aufeinanderabbilden uninterpretierter Zeichen 
+klärt nichts, und um von der ritt zur Identität zu kommen, muß irgendwann
+das Wort von der "Selbigkeit des Bezeichnenten" in den Mund genommen 
+werden. Dies ist aber nicht das Verdienst obiger Definition, sondern eines
+Machtspruchs des Bearbeiters, daß obige Definens-Figur dieses bedeuten
+/soll/.
+
+
+[...]
+
+
+Hier muß ich meine alte Frage nach dem Zusammenhang zwischen 
+kartesischer Produktmenge, geordentes Paar und Identität noch einmal 
+aufwerfen. Die kartesische Produktmenge AxA wird erklärt als Menge aller 
+geordneten Paare (x,y) mit x,y\in A:
+
+        AxA := {(x,y):  x,y\in A}.
+
+Bleibt nur noch die Frage, was ein solches Objekt 'geordnetes Paar' 
+eigentlich sein soll. Gewöhnlich heißt es, seine wesentliche 
+Eigenschaft  sei die Identitätsrelation
+        (a,b) = (c,d) <=> a=c & b=d.
+
+Wenn man Identität als primitive Relation annimmt, kann man sich (x,y) 
+als irgendein abstraktes Objekt neben den Mengen denken.
+Wenn aber wie in Deinem Standpunkt 'Identität' (alias 'ritt') definiert
+wird -- und zwar auschließlich für Mengen, kann ein =-Zeichen dann 
+sinnvoll immer nur noch zwischen Mengen-Objekten stehen.  Ein 'geordnetes 
+Paar', symbolisiert durch (x,y),  muß dann folglich ebenfalls irgendeine
+Menge sein.
+
+Nun definierst du
+
+        (x,y) := {{x},{x,y}}.
+
+Ich stelle dagegen
+
+        (x,y) := {{y},{x,y}},
+
+und es ist (im Sinne der Mengenidentit�t) {{x},{x,y}} =#= {{y},{x,y}}.
+Was nun? Gibt es jetzt soviel verschiedene Produktmengen AxA 
+wie es mengentheoretische Konstruktionen von geordneten Paaren gibt?
+
+
+Größe
+Adrian

@@ -1,0 +1,129 @@
+On Tue, 10 Aug 2000 06:26:55 +0200, Karl Clementz
+
+Ich schlage vor, etwas praeziser zu sprechen. Der Begriff "enthaelt"
+wird in so vielen Bedeutungsnuancen verwendet, dass es zu
+Missverstaendnissen kommen kann.
+
+Du willst sagen: es gibt (ueberabzaehlbar viele) abzaehlbare (endliche
+und unendliche Mengen), deren Elemente paarweise disjunkte
+Teilintervalle von [0,1] sind.
+
+
+Korrekt. Die Verbindung aller Aufteilungen von [0,1] in Intervalle mit
+Laenge>0 (es reichen bereits endliche Aufteilungen) ist keine
+Aufteilung in Intervalle mit Laenge >0. Das Misslingen der
+Konstruktion einer Menge mit bestimmten Eigenschaften beweist nicht,
+dass es eine derartige Menge nicht gibt.
+
+
+Natuerlich. Jedes Intervall jeder Menge von p.d. Intervallen laesst
+sich wiederum in endlich oder sogar in abzaehlbar unendliche viele
+Teile teilen und die neue Menge besteht wieder aus p.d. Intervallen.
+
+
+Die (abzaehlbare) Menge _aller_ rechts halboffenen Teilintervalle von
+[0,1) mit rationalen Endpunkten und Laenge>0 ist zunaechst nicht
+paarweise disjunkt, da z.B. die Intervalle [1/2,2/3) und [1/2,3/4)
+Elemente dieser Menge sind.
+
+[
+Zur Schreibweise [a,b): die eckige Klammer bedeutet, dass der
+Randpunkt zur Menge gehoeren soll. Die runde Klammer bedeutet, dass er
+nicht zur Menge gehoeren soll. Manche schreiben auch [a,b[
+]
+
+
+Ich sehe nicht von _welcher_ Grenzmenge G_q Du sprichst. Was soll der
+Ausgangspunkt dieses "Grenzprozesses" sein und wie sieht ein Schritt
+dieses Prozesses aus ? Ueberdies ist der Begriff "Grenzmenge" in der
+Mengenlehre nicht definiert. Er ist eine sprachliche Metapher, mit der
+man manchmal je nach Fall das Resultat einer wohldefinierten
+Mengenoperation, z.b. Durchschnitt oder Vereinigung bestimmter Mengen,
+bezeichnet. Wenn man nicht genau sagt, welche wohldefinierten
+Mengenoperationen im Einzelfall hinter diesen Begriff stehen, ist er
+sinnleer, da er keine Bedeutung "an sich" hat.
+
+Die nicht durch konkrete Mengenoperationen untermauerte Verwendung
+kann zu eklatanten Fehlschluessen fuehren, insbesondere dann, wenn man
+ohne jede Begruendung annimmt, dass die "Grenzmenge" einer unendlichen
+Folge von Mengen dieselben Eigenschaften wie die Folgenelemente hat.
+Dass dies einmal der Fall ist, ist eher eine Ausnahme. In jedem Falle
+muss es im Einzelfall konkret ueberprueft werden. Bis dahin sind
+Aussagen ueber die "Grenzmenge" unbegruendete Vermutungen.
+
+Das Hinschreiben von gewissen Eigenschaften A,B,C, die fuer eine Menge
+
+sinnvoll sind, berechtigt nicht automatisch, von "der" oder "einer
+Menge" mit den Eigenschaften A.B.C zu sprechen. Insbesondere dann
+nicht, wenn sich zwei dieser Eigenschaften ausschliessen. Hier die
+Eigenschaften "die Elemente sind paarweise disjunkt" und "jede
+rationale Zahl kommt als Endpunkt eines Elements vor".
+
+Es kann keine Menge von p.d. Teilintervallen von [0,1) mit rationalen
+Endpunkten und mit Laenge>0 geben, in der jede rationale Zahl als
+Endpunkt eines Intervalls vorkommt. Betrachte ein beliebiges Intervall
+I0=[a,b) aus dieser Menge. Da nach Voraussetzung jede rationale Zahl
+als Endpunkt eines der Intervalls vorkommen soll, muss auch die
+rationale Zahl (a+b)/2 als Endpunkt eines Intervalls I1 vorkommen. Da
+I0 und I1 nicht disjunkt sind, haben wir bereits einen Widerspruch.
+
+
+Ich bin nicht sicher, dass wir mit "logisch" dasselbe meinen. Ich sehe
+keine logische Konsequenz, mit der man auf die Existenz einer Menge
+von p.d. Teilintervallen von [0,1) mit Laenge >0 schliessen kann, bei
+der jede rationale Zahl als Endpunkt eines Intervalls vorkommt. Im
+Gegenteil, ich habe oben nachgewiesen, dass eine Menge von halboffenen
+Teilintervallen von [0,1) mit Laenge >0, in der jede rationale Zahl
+als Endpunkt eines Intervalls vorkommt, nicht paarweise disjunkt sein
+kann. Wie willst Du Dich ueber diese Argumentation "logisch"
+hinwegsetzen ?
+
+Bestreitest Du, dass (a+b)/2 eine rationale Zahl ist, wenn a und b mit
+a<b rationale Zahlen sind ?
+
+Bestreitest Du, dass die Intervalle
+
+	[a,b) und  [x,(a+b)/2)
+
+bzw.
+
+	[a,b) und  [(a+b)/2,x)
+
+mindestens eine gemeinsame rationale Zahl enthalten, also nicht
+disjunkt sind ?
+
+
+Es soll bewiesen werden, dass man die Menge der unendlichen Folgen von
+Ziffern, z.b. die Menge der unendlichen 0-1-Folgen nicht so
+"numerieren" kann, so dass jede Folge eine verschiedene Nummer
+bekommt, d.h. es wird bewiesen, dass es bei _jeder_ beliebigen
+Zuordnung f
+
+	natuerliche Zahl -> Folge
+
+bei der _jeder_ natuerlichen Zahl irgendeine 0-1-Folge zugeordnet
+wird, immer ein Folge gibt, die keine "Nummer" hat.
+
+Beweis. Sei f eine beliebige Abbbildung von N in die Menge der
+0-1-Folgen.
+
+f(i) bezeichne die 0-1-Folge, die der natuerlichen Zahl i zugeordnet
+ist.
+
+f(i)_k bezeichne das k-te Elemente der 0-1-Folge, die der natuerlichen
+Zahl i zugeordnet ist.
+
+Wir betrachten die eindeutig definierte Folge (a), dessen k-tes
+Element
+
+  a_k = 1-f(k)_k
+
+lautet. a_k ist also das "Gegenteil" des k.Elements der Folge Nummer
+k. Diese Folge (a) kommt nicht als Bild irgendeiner natuerlichen Zahl
+j vor, denn fuer jedes j gilt ja per Definition, dass a_j=1-f(j)_j.,
+also a_j _ungleich_ f(j)_j.
+
+Somit gilt: (a) ungleich f(j) fuer alle j.
+
+MfG
+Henri

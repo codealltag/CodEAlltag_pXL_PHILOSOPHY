@@ -1,0 +1,60 @@
+Klarstellung:
+
+In der Fuzzy Logic (FzL) kann bekanntlich aus dem Intervall [0;1] ein
+beliebiger semantischer Wert n gewählt werden.
+
+Allgemein gilt in der FzL Folgendes:
+
+	v(p) = n <-> v(~p) = 1 - n
+
+Das heisst, dass, wenn der Wahrheitswert von "p" n ist, dann ist der
+semantische Wert von "~p" 1-n.
+
+Nun sei im Folgenden "W" das Wahrheitsprädikat und "nW"
+Wahrheitswahrscheinlichkeit+Wahrheitsprädikat.
+
+Es gilt:
+
+	~(nW('p') & ~nW('p'))
+
+Das heisst, dass 'p' nicht sowohl n-wahr als auch nicht n-wahr sein
+kann.
+Dies entspricht dem Nichtwiderspruchsgesetz.
+
+In der FzL gilt aber ebenfalls:
+
+	nW('p') & 1-nW('~p')
+
+Das heisst, dass, wenn 'p' z.B. 0,4-wahr ist, '~p' 0,6-wahr ist, und
+somit die Konjunktion
+
+	"'p' ist 0,4-wahr und '~p' ist 0,6-wahr" 
+
+bzw.
+
+ "'p' ist 0,4-wahr und 'p' ist 0,6-falsch" [*]
+
+wahr ist. 
+
+Wenn man nun ohne die explizte Hinzufügung des Wahrheitsprädikats (die
+durch das Dallhammer-Schema 'W('p') <-> p' ermöglicht wird) nur auf
+
+	~(p & ~p) 
+
+blickt, dann könnte man bei oberflächlicher Betrachtung dazu verleitet
+werden anzunehmen, dass das NWG in der FzL nicht gilt. Doch bei
+näherer Betrachtung (siehe oben!) zeigt sich, dass man dem besonderen
+Umstand Rechnung tragen muss, dass die semantische Belegung in der FzL
+nicht dem klassischen, bivalenten 0-1-Schema gehorcht!
+
+[*: Es gilt
+
+ nW('~p') <-> 1-n~W('p')
+
+bzw.
+
+ nW('~p') <-> 1-nF('p') ]
+
+
+Gruss
+WERNER

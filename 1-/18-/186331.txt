@@ -1,0 +1,24 @@
+War da etwa eine Randbemerkung?
+
+;-) Also wenn du die Polynome bei den Juliamengen meinst, das ist mir auch
+aufgefallen. Das sollte aber auch nur darauf hinweisen, dass eben fuer
+Polynome der Punkt unendlich schon eine Bedeutung hat, dagegen fuer 
+rationale Funktionen im allg. das auch nur ein Punkt wie andere ist, in
+der chordalen Metrik.
+
+In der Mathematik spielen wahrscheinlich andere Dinge eine Rolle als in
+der Physik. In der Physik ist alles schoen glatt, da kuemmert man sich
+nicht darum, ob und bis zu welchem Punkt man etwas Taylorentwickeln oder
+Fouriertransformieren kann, man tut es einfach.
+Wenn aber alles immer so glatt laeuft, dann interessiert auch nicht, wann
+z.B. Weihs-Dimension und Box-Dimension wirklich verschieden sind, zu 
+solchen Fragen kommt es garnicht, man will vielmehr damit seine Messergebnisse
+charakterisieren, da reicht meist ein grobes Konzept.
+Wenn es aber speziell um Juliamengen geht, das ist erstmal Thema der Mathematik,
+und da stehen vielleicht andere Betrachtungsweisen im Vordergrund und prezise
+Definition im Hintergrund. Nicht so in der Physik, deshalb die Verwirrung.
+Aber wenn das Verwirrspiel erstmal in erstes Ordnung entwickelt und irgendwo
+hintransformiert wurde, weiss der Physiker es zu interpretieren.
+Manchmal gibt es dann aber Uneinigkeit, der Preis der Komplexitaet.
+
+Karlheinz.

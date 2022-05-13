@@ -1,0 +1,32 @@
+Severins Lütticken:
+
+
+Das ist keine "beweisbar wahre" Aussage, sondern eine Implikation der 
+Konstruktion von N (nachfolgend ist mit Zahl immer ganze Zahl gemeint). 
+
+(Und zwar Implikation der Unterschiede zwischen den Operationen 
+Multiplikation und Addition *], insbesondere der Addition der 1, 
+d.h. der Nachfolgeroperation, die die Zahlen 1,2,3,4... 
+konstruiert und wenn man nun die Produkte jedes dieser Tupel 
+von Zahlen anschaut, dann ergeben sich bestimmte 'Lücken', 
+die nicht durch Multiplikation von Zahlen in N (außer mit 1, 
+was ja effektiv eine Addition ist) erreicht werden, und so 
+ergibt beispielsweise die Multiplikation der Paare  
+{2,2},{2,3},{2,4},{2,5},{3,3},{3,4},{...,...} die Folge 
+2,3,4,6,8,9,12,... und man sieht, daß 3,5,7,11,... nicht  
+/durch Multiplikation/ erreicht werden, und das ist die 
+Definition i.e. Konstruktion, der Primzahlen. Das alles 
+ist pure Konstruktion und hat nichts mit 'Existenz' von 
+irgendetwas zu tun, das man 'beweisen' könnte. 
+
+*] Die Addition wird dann von der Addition der 1 auf die Addition 
+'beliebiger Sequenzen' von Additionen der 1 verallgemeinert, also 
+effektiv auf Addition beliebiger Zahlen. Weiterhin wird die 
+Multiplikation eingeführt, und zwar als eine /wiederholte Addition/
+gleicher Summanden, wobei Multiplikation mit der 1 also eine Summe 
+von Einsen Effekktiv eine Addition ist. Diese Einschränkung der
+Multiplikation als Konstruktion der Addition von /gleichen/ Summanden 
+ungleich Eins beinhaltet, daß die Multiplikation gegenüber der Addition
+/weniger allgemein/ bzw. eingeschränkt ist, also die Multiplikation 
+als Abbildung von N nach N nur eine Teilmenge der Addition ist, so daß 
+die Schnittmenge zwischen beiden Bildern die Menge der Primzahlen gibt.)

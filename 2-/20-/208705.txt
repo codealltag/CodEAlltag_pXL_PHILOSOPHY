@@ -1,0 +1,48 @@
+Francine Naegeler (Pvx@zjmygrs.wummost.ugywrl.aai) wrote:
+
+zu:
+: >>A1) Ereignisse mit der Wahrscheinlichkeit 0 koennen nicht beobachtet
+: >>werden. A2) Ereignisse mit der Wahrscheinlichkeit 0 koennen auftreten.
+
+[...]
+: A1) Für Alle Individuen I: Für alle Ereignisse E:
+
+:         Wahrsch(E) = 0 => Beobachtung(I) enthält E nicht
+
+: anders:
+: A1) Für alle Individuen I: Für alle Ereigniss E:
+
+:         Wahrsch( E ) <> 0 oder Beobachtung(I) enthält E nicht
+
+: anders:
+: A1) Für alle Individuen I: Für alle Ereigniss E:
+
+:         nicht ( Wahrsch( E ) = 0 und Beobachtung(I) enthält E )
+
+So weit, so gut.
+
+: anders:
+: A1) nicht ( Für alle I: Für alle E: W(E) = 0 und B(I) enthält E
+
+Ab hier geht's schief. "Alle Menschen haben keine Kiemen" ist nicht
+aequivalent zu "Nicht alle Menschen haben Kiemen", sondern zu "es
+existiert kein Mensch, der Kiemen hat".
+
+[...]
+: Aha, eine Existenz-Aussage, oder ?
+
+Nein. A1 ist und bleibt eine Nichtexistenz-Aussage.
+
+: A2) Ex Ereignis E: W(E) = 0 und E kann auftreten
+
+: Aha, auch Existenz-Aussage, oder ?
+
+Offenbar ja.
+
+Gruss,
+
+	Rainer.
+
+
+ ------------  Rainer Eberding, AB Technische Informatik VI  -------------
+ ----------------  http://rso.qx1.ql-kvxgecv.nh/~wu8zs  -----------------

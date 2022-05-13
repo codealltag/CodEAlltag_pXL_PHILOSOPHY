@@ -1,0 +1,30 @@
+...
+0,99 ist eine Summe, naemlich 9*10^-1+9*10^-2, per Def.
+das ist ein fester Wert, den man auch als 99/100 schreiben
+kann. 
+Wichtig ist einzusehen, dass Das eine reelle Zahl 
+beschreibt, in der nix laeuft oder aufsummiert oder
+sonstwas, 0.99 = 99/100 = 1-0.01 ist eine feste
+Groesse, Die Bezeichnungen "0.99","99/100","1-0.01"
+sind nur umschreibungen dieses festen Objektes.
+
+Genau, damit beschreibt es eine Reelle Zahl.
+Eine Zahl, die, genau wie 0.99 fest und unverrueckbar
+definiert ist.
+
+"0.(Periode)9" beschreibt eine einzige reelle Zahl,
+die laeuft nicht und wird nicht groesser und geht auch
+nicht gegen irgendwas, sondern ist fertig und reell.
+
+Diese, durch "0.(Periode)9" beschriebene Zahl ist
+gleich der durch "Die reelle Loesung von x*10-x=9",
+oder der durch "lim 1-10^(-n) fuer n gegen unendlich"
+beschriebenen, und das ist halt, wie ausgefuehrt 
+wurde 1.
+
+Es laeuft und geht und springt dabei nichts.
+
+Nur um das noch mal zu betonen.
+
+Gruss,
+  Björn

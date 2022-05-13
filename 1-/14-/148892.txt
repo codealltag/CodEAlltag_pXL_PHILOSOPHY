@@ -1,0 +1,32 @@
+Dietrich Nordhusen schrieb
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+Tat
+
+Aus
+x^2 + y^2 = z^2
+
+erhält man z.B. durch Einsetzen von
+x = x' - 2y' + 2z'
+y = 2x' - y' + 2z'
+z = 2x' - 2y' + 3z'
+
+die Gleichung
+x'2 + y'^2 = z'^2.
+
+Dabei ist
+x' = x + 2y - 2z
+y' = -2x - y + 2z
+z' = -2x - 2y + 3z.
+
+Aus dem Tripel
+x = 5, y = 12, z = 13
+wird
+x' = 3, y' = 4, z' = 5.
+
+Hat Preyhs eine Chance
+x^3 + y^3 = z^3
+mit einem vergleichbaren Ansatz
+zu vereinfachen?
+
+Gruß
+Günter

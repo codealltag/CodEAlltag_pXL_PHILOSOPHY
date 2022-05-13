@@ -1,0 +1,43 @@
+In article <3jrvtv$ok3@gsznxea.xdq.QK-Qjbdcv.UE> tgrzd@jfjg.ym-taznmi.ll  
+
+Ich hab's extra fuer Dich woertlich aus dem Aufschläger abgeschrieben. Wenn
+Dir das immernoch zu schwammig ist, kann ich Dir auch nicht helfen.
+
+
+Wer hat denn gesagt, dass es sich bei der Wahrscheinlichkeitsdichte
+um simple Funktionen handeln muss? Sagt Dir der Begriff der "Distri-
+bution" etwas?
+
+[...]
+
+Reden wir immernoch vom gleichen Beispiel? Ich rede von
+
+     "P(x) = 1/2, falls 0<=x<1, P(x)=0, falls x<0 und P(x)=1 falls x>=1".
+
+Da sehe ich nichts von einer stetigen Temperaturverteilung, nicht einmal
+im Intervall [0,1), denn dazu muesste das Ereignis "Temperatur x ist einge-
+treten" gemeint sein, wobei dann aber widerum das Additionstheorem verletzt
+waere.
+
+
+Um es nochmal klipp und klar zu sagen: um eine Temperaturverteilung
+anzugeben, in der jeder Punkt als existent angenommen wird, benoetigt
+man den Begriff der Wahrscheinlichkeitsdichte. Genau das ist die Aus-
+sage, die ich gemacht habe und die Du bestritten hast. 
+
+[...]
+
+Mit anderen Worten also:
+
+       P(x)=(1+2/pi*arctan(x))/4       falls x< 0
+       P(x)=(1+2/pi*arctan(x))/4 + 1/2 falls x>=0
+
+
+Leider nein. Als naechstes taucht die Frage auf, wie hier jeder Punkt der 
+Zahlengrade eine Temperatur repraesentieren soll, da dann die Summe aller 
+Einzelwahrscheinlichkeiten immernoch groesser als Eins (will sagen unend-
+lich) waere, was der Axiomatik von Mittelmann widerspricht.
+
+Gruss,
+
+	Focko.

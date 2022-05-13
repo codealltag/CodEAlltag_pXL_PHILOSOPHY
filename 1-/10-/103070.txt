@@ -1,0 +1,18 @@
+Wittgenstein meint wohl, dass bestimmte m o d a l e Eigenschaften zu
+den wesentlichen Eigenschaften eines Dinges gehören; und diejenige
+modale Eigenschaft, die alle Dinge haben, bzw. derjenige modale
+Begriff, unter den alle Dinge essenziellerweise fallen ist:
+"x ist möglicherweise Bestandteil eines Sachverhaltes"
+
+Das heisst, kein Ding kann existieren und unmöglich Bestandteil eines
+Sachverhaltes sein.
+
+#PH
+
+P.S.:
+
+Eine Eigenschaft P ist genau dann wesentlich, wenn gilt:
+
+["[]Pa" : "P zu sein, ist eine wesentliche Eigenschaft von a"]
+
+[]Pa :<-> ~<>(E!a & ~Pa)

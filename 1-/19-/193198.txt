@@ -1,0 +1,46 @@
+Ja, klar. Selbst _wenn_ es eine Tautologie (und nur das) waere,
+wuerden immer noch andere Theorie, naemlich antinomische,
+ausgeschlossen werden.
+
+
+Das Gefangenendilemma sieht in etwa wie folgt aus: Die Individuen
+(bzw. deren Strategien)  haben zwei Verhaltensmoeglichkeiten:
+Defektion oder Kooperation. 
+Eine "Auszahlung", die als Fitness interpretiert werden kann, ergibt
+sich in Abhaengigkeit des eigenen Verhaltens und des Verhaltens
+des/der anderen. Kooperieren alle, so ist die Auszahlung jedes
+einzelnen relativ hoch. Nun ist es moeglich, dass einer defektiert und
+der/die anderen weiter kooperieren. Dieser bekommt dadurch eine
+hoehere Auszahlung, die anderen jedoch eine wesentlich niedrigere.
+Es lohnt sich also nicht zu kooperieren, insofern man dabei durch
+Defektisten ausgebeutet werden kann. Die klassische Loesung der
+Spieltheorie, das Nash-Gleichgewicht, legt dann eine Situation nahe,
+in der alle defektieren, so zwar nicht ausgebeutet werden, aber eine
+niedrigere Auszahlung erhalten, als wenn alle kooperieren wuerden.
+
+Das Gefangenendilemma kann wie folgt in ein evolutionaeres Setting
+eingebettet werden: Das Spiel wird wiederholt gespielt und in
+Abhaengigkeit der Auszahlung findet eine Selektion von Strategien
+statt. Strategien mit einer hoeheren Auszahlung haben so eine hoehere
+Reproduktionsquote. (Solche Strategien koennen uebrigens recht komplex
+sein. In Mekelnburg Experimenten hat allerdings eine recht simple
+Strategie ueberraschend (?) gut abgeschnitten: TIT FOR TAT, eine
+Strategie, die grundsaetzlich kooperiert, jedoch, wenn ein Mitspieler
+defektiert, dieses im naechsten Spiel entspechend vergeltet.)
+
+Nun ist es so, dass die Auszahlung eines Spiels, als das
+Fitnesskriterium der Selektion, nicht bloss von Eigenschaften des zu
+evolvierenden Individuums abhaengt, sondern vom Umfeld, von den
+Eigenschaften/Verhaltensweisen der anderen. Langfristig gesehen wird
+die _durchschnittliche_ Auszahlung dabei eben nicht unbedingt
+maximiert. Es kommt dabei im allgemeinen weder eine optimale Loesung
+(alle kooperieren) heraus, noch die im singulaeren Gefangenendilemma
+rationale Loesung, die allseitige Defektion, die zu niedrigen
+Auszahlungen fuehren wuerde, sondern irgendetwas dazwischen.
+
+Mein Fazit dazu: Evolution ist ein komplexes Phaenomen, welches nur in
+Sonderfaellen zu einfachen Resultaten, etwa scheinbaren Tautologien,
+fuehrt, es sei denn, man definiert theorieimmanente Begriffe so, dass
+sie sich tautologisch zueinander verhalten.
+
+Gruss, Niels.

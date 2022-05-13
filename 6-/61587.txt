@@ -1,0 +1,57 @@
+Hallo Ihno,
+
+
+"Zu teuer" ist einfach ein Beispiel; in anderen Bereichen mag es
+andere Gründe geben, warum Experimente nicht wiederholbar sind. Mein
+Statement hier ist einfach: auch mit nicht reproduzierbaren
+Experimenten lässt sich Wissenschaft betreiben, d.h. Reporduzierbarkeit 
+ist keine wirklich notwendige Voraussetzung für Wissenschaft.
+
+
+OK.
+
+[Statistik]
+
+Es ist eher eine Stelle, wo das Problem überzeugend 'rüberkommt. Auch
+bei "normalen" Experimenten tritt ja ein derartiges Problem auf: jede
+Messung ist ja mit einem Messfehler behaftet; üblicherweise gibt es
+eine Gaußkurve um den Mittelwert. Das bedeutet, dass jede mögliche
+Abweichung mit einer gewissen, von null verschiedenen
+Wahrscheinlichkeit auftritt (auch wenn die für größere Abweichungen
+sehr gering wird). Das führt dazu, dass mit einer gewissen
+Wahrscheinlichkeit einfach der Messfehler zu einer "scheinbaren"
+Falsifikation führt. Das Problem ist deshalb akut, weil typische zu
+prüfende Theorien sich gerade an der Grenze des technisch Messbaren
+bewegen.
+
+
+Leider nicht. Die Theorie lautet ja z.B. (verkürzt) "Bei einer
+Supernova entstehen [keine] Neutrinos" -- V1 in Deinem Beispiel.
+
+Kamiokande misst aber V1 und "die Neutrinos wechselwirken mit dem
+Wasser des Detektos auf eine bestimmte Weise" (V2) und "die
+Wechselwirkung wird durch die Photomultiplier mit einer bestimmten
+Effizienz registriert" (V3) und "die elektrische Signalverarbeitung im
+Detektor hat eine bestimmte Arbeitsweise für Nanosekunden-Impulse"
+(V4) und "Das Gestein, was sich um den Detektor befindet, produziert
+eine ganz bestimmte Hintergrundstrahlung, die zu einer bekannten Rate
+von fehlrekostruierten Ereingissen führt" (V5) usw. usf.
+
+Getestet wird dann X = V1 + V2 + V3 + V4 + V5 + ...
+
+(das "+ ..." wird dann in der folgenden Diskussion der Ergebnisse auf
+wissenschaftlichen Konferenzen noch beliebig erweitert).
+
+Interessiert hatte aber eigentlich nur V1. Und der Schluss ^X --> ^V1
+ist eben nur zulässig, wenn V2, V3... alle wahr sind; und dieser
+Nachweis ist absolut nicht trivial: bei diesen handelt es sich ja auch
+nur um Theorien, für die nach Boschmanns ja gar kein Wahrheitsnachweis
+möglich ist.
+
+Viele Größe
+
+Eugen
+
+-- 
+If you think technology can solve your problems you don't understand
+technology and you don't understand your problems.  (Helmuth Pointmayer)

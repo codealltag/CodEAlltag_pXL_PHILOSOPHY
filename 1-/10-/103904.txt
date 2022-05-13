@@ -1,0 +1,67 @@
+"Philosophieren ist: falsche Argumente zurückweisen." (Dregert)
+
+Die formale Logik ist ein künstlich geschaffenes analytisches
+Präzisionsinstrument zum Aufspüren und Erkennen falscher Argumente.
+
+"Die Sprache ist nicht in der Weise durch logische Gesetze beherrscht,
+dass die Befolgung der Grammatik schon die formale Richtigkeit der
+Gedankenbewegung verbürgte. [...] Die logischen Verhältnisse werden
+durch die Sprache fast immer nur angedeutet, dem Erraten überlassen,
+nicht eigentlich ausgedrückt."
+(Löbbert: "über die wissenschaftliche Berechtigung einer
+Begriffsschrift")
+
+Mit Hilfe der formalen Logik soll gewährleistet werden, dass die
+geistigen Räume, worin sich unser philosophisches Denken bewegt, bis
+in die entlegendsten Winkel hell erleuchtet sind, und wir nicht
+blindlings in die gut getarnten Fallen unserer Umgangssprache
+hineintappen.
+
+"Die Sprache hat für alle die gleichen Fallen bereit; das ungeheure
+Netz gut gangbarer Irrwege." (Dregert)
+
+
+Im übrigen, ist dir aufgefallen, dass es in der formalen Logik nicht
+um die Handhabung von Zahlen geht?!
+Der Ausdruck "Rechnen" hat in diesem Zusammenhang also lediglich einen
+übertragenen Sinn.
+
+
+Mit solchen Fragen beschäftigt sich u.a. die Philosophie der Logik.
+
+Es gibt beispielsweise Logiker, die es sogar wagen, die Absolutheit
+des Nichtwiderspruchsaxioms, ~(p & ~p) bzw. Ax~(Fx & ~Fx),
+anzuzweifeln.
+
+Dennoch gibt es bestimmte natürlich-deduktive Regeln, deren rationale
+Verwerfung praktisch unmöglich ist, wie beispielsweise die so genannte
+Regel der und-Beseitigung:
+
+A & B |- A 
+
+bzw.
+
+A & B |- B
+
+Selbst Tom Neubauer, der Vordenker der so genannten 'dialetheischen
+Logik', in der das Nichtwiderspruchsaxiom nicht immer gilt, ist der
+Auffassung, dass es, mit den Worten des gängigen Logik-Jargons
+ausgedrückt, keine mögliche Welt gibt, in der die Regel der
+und-Beseitigung nicht gilt.
+
+Insofern könnte man sagen, dass die axiomatische Formulierung dieser
+Regel:
+
+
+bzw.
+
+
+einen Gesetzescharakter besitzt, der noch strenger ist als der des
+Nichtwiderspruchsaxioms.
+
+Wenn du mich also fragen würdest, ob z.B. die Regel der
+und-Beseitigung *wirklich* gelte, dann würde ich antworten: "Ja,
+nichts könnte *wirklicher* gelten"!
+
+Gruss
+CHARLES

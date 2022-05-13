@@ -1,0 +1,47 @@
+Am 20.03.99, 02:26:58, schrieb Johann Niewerth <epcum@lsqz.dpwt.vh> zum=20
+Thema Re: Logischer Empirismus / Kritischer Rationalismus:
+
+
+Puuh. Danke.
+
+
+feine
+
+
+Ich könnte jetzt fragen, ob man das nicht an obigem Beispiel "sieht". =
+
+;-)
+Aber tatsächlich funktioniert das Verfahren so:
+Gegeben a_1, ..., a_n Glieder einer Folge und b als gewünschte=20
+Fortsetzung.=20
+Bilde nun für i <=3D n Polynome:
+P_i(m)    :=3D (m-1)*...*(m-(i-1))*...*(m-(i+1))*...*(m-(n+1))
+P_{n+1}(m):=3D (m-1)*...*(m-n)
+
+mit c_i :=3D a_i/P_i(i); c_{n+1} :=3D b/P_{n+1}(n+1) ergibt sich=20
+schließlich das Polynom:
+F(m):=3D \sum_{i=3D1}^{n+1} c_i*P_i(m)
+
+auf
+
+darauf
+
+zu
+Fortsetzen
+sich
+
+Nun gibt es natürlich bei den üblichen Sprachspielen "Rate das Geset=
+z"=20
+jedoch immer Kontext, der spezifizieren hilft, worauf es ankommt.=20
+Notfalls besteht der Kontext in "Patsch". Bei Intelligenztests gibt es=20
+einen solchen Kontext nicht. Dort könnten Zahlenfolgen höchstens daz=
+u=20
+dienen festzustellen, zu welchen Fortsetzungen die Testpersonen=20
+neigen.
+
+MfG
+Edwin
+--
+Edwin Roggenbrodt
+	keep things simple. as simple as possible. but no simpler=20
+	(D. Voge)

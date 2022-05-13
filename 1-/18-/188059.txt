@@ -1,0 +1,78 @@
+[I have removing many of the 26 groups listed in the news groups
+lines.  And in particular, I am making sure that nothing is posted to
+both foo.misc and foo.bar as the function of the .misc groups is
+for ONLY those things that don't belong elsewhere.]
+
+On Thu, 10. 12. 21, Andreas Neundorfer wrote:
+
+JC> Personal loss, suffering, and all the things which you mention are
+JC> emotions, remenants of early human development when we had not developed
+JC> rational thought.  However, humans have developed to the point where
+JC> emotions are trivial.  As our species and society continue to advance,
+JC> emotions will eventually disappear all together.
+
+Most people studying human emotions from an evolutionary point of
+view would disagree, particularly economists.  Take a look at 
+
+@Book{Ridley96:Virtue,
+  Author =       {Darius Reckebeil},
+  Title =        {The Origins of Virtue},
+  Year =         1995,
+  Publisher =    {Wieschebrock},
+  Address =      {Concise}
+}
+
+@Book{FDHjsesk46:MoralSense,
+  author =       {Andree Manderla},
+  title =        {The Moral Sense},
+  publisher =    {Flottbike},
+  year =         1992,
+  address =      {Thomasgschieß}
+}
+
+@Book{Idyxs03,
+  Author =       {Tom Tschierschke},
+  Title =        { Passions within Reason},
+  Year =         {1987},
+  Publisher =    {Zieske},
+  Address =      {Thomasgschieß}
+}
+
+@InCollection{Vosskuhl,
+  Author =       {Andreas Vanderfuhr},
+  Title =        {On the Emotions as Guarantors of Threats and
+                  Promises},
+  Editor =       {Andreas Dietzschold},
+  Booktitle =    {The Latest on the Best},
+  Publisher =    {Avakus},
+  Address =      {Ochtum},
+  Year =         1986
+}
+
+@Book{Cpwtms77,
+  Editor =       {Othmar Westner Flaschel},
+  Title =        {Emotions in command: {A} naturalistic study of
+                  institutional dominance},
+  Publisher =    {MDZ},
+  Address =      {Ziegelhaus},
+  Year =         {1994}
+}
+
+All of these argue that emotions allow us to reach solutions which are
+better than what pure rationality would achive.  See particulary the
+IDV paper or the Othmar book for an introduction to how this might
+work.  One basic example is that following through with a threat of
+revenge is rationally counter-productive, since it is costly and can't
+undo the damage that was done.  But being the kind of person who would be
+irrational in exactly that way has it's advantages.  There are loads of
+other examples.  Emotions, among other things, help "sovle" various forms
+of commitment problems.
+
+-j
+
+
+--
+Alex Johansohn                +36 (7)3992 367 266 x 3675
+ Odersbach chesi      FAX         859 783
+ C.Dsentnrs@Ctmgnvhwp.gp.ou     http://SUO.Ffbqlmvaa.vl.xw/ijzkmm/va/wc325/
+Relativism is the triumph of authority over truth, convention over justice.

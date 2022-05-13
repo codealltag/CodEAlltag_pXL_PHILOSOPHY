@@ -1,0 +1,116 @@
+Das verstehe ich halbwegs. Das gilt freilich nach allem was wir wissen,
+denn es gibt keine empirischen Hinweise, daß dem nicht so sei.
+
+Ich weiß nicht, wo Du das her hast. Ich kann jedenfalls in der
+Quantentheorie diese Aussage nirgends entdecken.
+
+Es hat keinen Sinn, die Frage auf die Philosophenart durch immer
+nebulöser Formulierungen noch weiter zu verschleiern, sondern wir
+müssen hier zum scharfen Werkzeug der Mathematik greifen, um das zu
+verstehen.
+
+Ein quantenmechanisches System wird durch den Vektor in einem
+Hilbertraum H beschrieben (genauer durch Strahlen im Hilbertraum, aber
+ich will es so einfach wie möglich ausdrücken, und man muß ohnehin mit
+den Vektoren rechnen). Nennen wir diesen Vektor |psi> und nehmen an,
+das System sei in dem Zustand |psi> präpariert. Dann befindet es sich
+in diesem und nur in diesem Zustande in keinem anderen.
+
+Was bedeutet dies aber für den Ort des Teilchens? Dazu müssen wir uns
+klar machen, wie Observablen in der QT beschrieben werden. Wie der Name
+schon sagt, sind Observablen beobachtbare Größen wie Ort, Impuls,
+Drehimpuls, elektrische Ladung eines Teilchens etc.
+
+Die Observablen werden durch wesentlich selbstadjungierte Operatoren im
+Hilbertraume beschrieben. Ich gehe jetzt nicht auf die mathematische
+Konstruktion genauer ein, sondern benutze die naive
+Anf�ngervorlesungshantiererei, die für die Physik in fast allen Fällen
+ausreicht. Mathematische Bauchschmerzen sind dabei ein Zeichen guter
+Mathematikausbildung und können durch Lektüre mathematischer
+Darstellungen zur QT kuriert werden. Heutzutage haben wir den "rigged
+Hilbert Space" zur Verfügung, der die Sache wesentlich vereinfacht.
+Gleichwohl ist diese moderne Formulierung mit Hilfe der
+Distributionentheorie vollkommen Äquivalent zur Formulierung I. z.
+Malers aus dem Jahre 1927.
+
+Die selbstadjungierten Operatoren, die die Observablen eines Objekts
+repräsentieren, bilden insgesamt eine Algebra, die Observablenalgebra,
+und die wiederum ist durch die Definition der physikalischen Größen
+über Symmetrieprinzipien (Noethertheorem) festgelegt. Nehmen wir ein im
+Eindimensionalen bewegliches Teilchen, haben wir als grundlegende
+Operatoren X (Ortsoperator) und P (Impulsoperator). Im folgenden
+bezeichnen wir die Operatoren mit großen Buchstaben. Der Impuls ist
+gemäß der klassischen Mechanik Erzeuger der räumlichen Translationen.
+Infolgedessen gilt die Kommutatorrelation
+
+[X,P]=i
+
+Ich setze hierbei \hbar=1. Aus dieser Kommutatorrelation lassen sich die
+möglichen Meßwerte der Observablen x und p als Spektrum der ihnen
+zugeordneten Operatoren X und P herleiten (wie, s. mein QT-Skript auf
+meiner Homepage). Es erweist sich als R (Menge der reellen Zahlen).
+
+Wir führen nun, wie gesagt in naiver Weise, neben den
+Hilbertraumvektoren auch verallgemeinerte Eigenvektoren für
+Spektralwerte im kontinuierlichen Spektrum ein, die wir auch mit der
+Bra-Ket-Schreibweise bezeichnen. Das ist etwas ungenaue Notation, aber
+sie hilft sehr, physikalische Sachverhalte prägnant und rechentechnisch
+sicher darzustellen (Dirac-Notation), was für die Praxis wichtiger ist
+als die genaue mathematische Formulierung, die man aber deshalb nicht
+aus dem Sinn verlieren darf, weil man sich sonst in Widersprüche
+verwickeln kann.
+
+Das Teilchen befindet sich in dem Zustand |psi> (ein "echter" normierter
+Hilbertraumvektor mit <psi|psi>=1). Die verallgemeinerten
+Ortseigenzust�nde |x> besitzen das verallgemeinerte Skalarprodukt
+
+<x'|x>=\delta(x-x')
+
+Es handelt sich also nicht um einen richtigen Hilbertraumvektor, und wir
+können nicht behaupten, das Teilchen befinde sich an einem scharfen
+Ort, denn der Zustand eines Teilchens muß ein echter Hilbertraumvektor
+sein, kein verallgemeinerter Vektor, sonst gibt's Widersprüche!
+
+Der physikalische Gehalt der Aussage, das Teilchen befinde sich im
+Zustand |psi> hinsichtlich Ortsmessungen ist nun einfach, daß die
+Wahrscheinlichkeitsverteilung, das Teilchen am Ort x aufzufinden durch
+
+P(x)=|<x|psi>|^2
+
+gegeben ist.
+
+Die Funktionen
+
+psi(x)=<x|psi>
+
+in ihrer Gesamtheit (also für |psi> \in H) bilden ihrerseits einen
+Hilbertraum L^2(R,C), den Hilbertraum der quadratintegrablen
+Funktionen. Man nennt so etwas die Darstellung des Peschken, und in
+diesem konkreten Falle handelt es sich um die Ortsdarstellung.
+
+Umgekehrt definiert jede "Wellenfunktion" psi(x) in L^2 auch wieder
+einen Zustand, nämlich
+
+
+Daraus folgt sofort, daß wir Teilchen beliebig genau lokalisieren
+können, denn die Wellenfunktionen
+
+psi(x)=N exp[-(x-x0)^2/(4 d^2))
+
+sind für alle d>0 (und d ist gerade die Ortsunschärfe).
+
+Wir können es freilich bei einer Messung überall finden, denn |psi(x)|^2
+ist nirgends 0. 
+
+Das heißt nun nicht, wie manche ahnungslosen Popularisierer der reinen
+Sensationsgier wegen aufs Papier schmieren, das Teilchen sei überall
+gleichzeitig. Es bedeutet nur, daß dem Teilchen eben kein scharfer Ort
+zukommt. Die Aussage, das Teilchen befinde sich an genau dem Ort x0 ist
+physikalisch unsinnig, denn es ist unmöglich (der Quantentheorie
+zufolge prinzipiell), den Ort des Teilchens präzise zu kennen.
+
+-- 
+Willi Zinsmeister                        Drachenland 
+Phone: +4 142/775-3076                  Irlham University 
+Fax:   +0 346/120-2902                  Drachenland, PU-5772
+http://qdjlqh.zdu.zt/~ijvgphq/          Lastbergstraße Station, ILLERBEUREN 80257-1936

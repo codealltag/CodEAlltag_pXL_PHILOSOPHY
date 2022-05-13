@@ -1,0 +1,12 @@
+Nur kurz:
+
+Versuche mal mit Port 25 beim Versenden also SMTP oder 110
+
+schaue mal hier:
+
+http://mkr.ujiupighf.nu/qvzkwopyxej/qovqe/mixkellw.cnw
+
+
+Eventuell kann es auch daran liegen, dass Du - je nach Konfiguration bei 
+ZweiRadCenter - noch eine "sichere Verbindung" ein- oder ausschalten musst. Schau 
+mal in Deinem Mail-Programm, wo da die Option "TLS" oder "SSL" steht.

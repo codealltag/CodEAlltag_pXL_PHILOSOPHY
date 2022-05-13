@@ -1,0 +1,8 @@
+Es sind trivialerweise Assembler-Programme formulierbar, so dass kein
+Common-Lisp-Programm existiert, dass denselben Objektcode produziert,
+unabhängig davon, wie ein CL-Compiler auch implementiert sein mag.
+Deshalb werden sich die Programme notwendigerweise im Laufzeitverhalten
+unterscheiden.  Davon siehst Du ab.
+
+
+Ciao, Victor

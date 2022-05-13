@@ -1,0 +1,56 @@
+Wie hast Du den Schreibfehler erkannt, aber das ist es ja fasst in
+doppelter Bedeutung.
+Du siehst den Schreibfehler, der diesmal nicht beabsichtig war und sieht
+das wesentliche nicht.
+übrigens was bedeutet Alls?
+
+Nun gut Axiome sind letzlich unbeweisbare oder?
+
+1. Alle Schimmel sind weiss.
+2. Alle Schimmel sind Pferde. 		Prämissen
+3. Alle Pferde sind weiss		Schlussfolgerung
+
+Nun das dies offensichtlich falsch ist, weiss jeder. 
+
+Aber warum ist es falsch?
+
+Nun da du es selber nicht logisch schliessen kannst, werde ich es gerne
+erläutern.
+Von Axiomen her betrachtet ist da noch gar nichts falsch. 
+Axiom eins: Alle Schimmel sind weiss.
+Axiom zwei. Alle Schimmel sind Pferde.
+
+Die Schlüsse sind falsch, weil die Axiome falsch sind.
+
+Kann ich ein Axiom überprüfen?
+
+Der Definition zu folge nicht. 
+
+Nun dann teile ich fröhlich durch 0 und kann die obige Axiome, dennoch
+wiederlegen.
+
+Der Einfachheithalber bediene ich mich jetzt von Symbolen
+a:=alle
+s:=Schimmel
+p:=Pferd
+w:=weiss
+
+
+1. asw                        (\/x)(Sx -->Wx)   folgt Sa --> Wa
+2. asp   in klassischer Logik (\/x)(Sx -->Px)   folgt Sa --> Pa  folgt
+Pa --> Wa
+3. apw                        (\/x)(Pa -->Wa)                            
+
+
+asw, asp und apw sind aber Aussagen, die ich erstmal auflösen muss. Wenn
+ich sie Trenne muss ich auch wissen, was ich da tue.
+s ist aber bereits definiert, ich kann s ersetzen durch wp weisses Pferd
+und dann sieht
+es so aus:
+1. awpw
+2. awpp
+
+Das überlasse ich jetzt Dir.
+
+Gruss
+Thorsten

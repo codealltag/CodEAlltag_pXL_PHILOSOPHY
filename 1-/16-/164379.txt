@@ -1,0 +1,66 @@
+Subject: Re: Erkenntnisstrukturen wandeln sich
+From: "Klaus Elschenbruch" 
+
+neue
+
+
+dann
+a/2
+
+Soweit klar. Wobei die "Halbierung" unwichtig ist. Es ist völlig irrelevant an
+welcher Stelle
+(ausgenommen Anfangs und Endpunkt von a)
+die neue Strecke eingesetzt wird, immer teilt sie im Knoten, a in a' und a auf.
+
+
+Das nun, ist widersprüchlich(!)
+Es wuerde folgen: eine Kreuzung hat drei Wege => F
+Wenn ich eine Schur einmal durchschneide habe ein Teil  => F
+Abzweigung <> Abzweigung => W
+...
+...
+Allgemein, ein Knoten der Ordnung N  hat N-1 Wege  => F
+
+
+Mal sehen wo ich dich falsch verstanden habe.
+Machen wir ein Beispiel:
+
+ l   ____________________   r
+               �
+               �
+               �
+
+              u
+
+
+Wenn du von  u  kommend auf die Strecke l_r  stösst, kannst du nach  l oder
+nach  r
+abbiegen, soweit klar.
+
+Wie verhaelt es sich nun wenn du von n kommst? 
+Und von r ?
+
+Jedesmal haetest du eine Abzweigung mit zwei Wegen zur Auswahl(?)
+Findest du es nicht etwas seltsam, dass du aus DREI Richtungen eine
+Abzweigung vorfindest, die doch nur ZWEI Wege haben soll (?)
+
+
+somit
+
+Nein, das war und ist in dem Raetsel ja nie von Belange. Es geht ja nicht um
+die
+Frage wie viele Strecken möglich sind.
+
+Vielmehr kann man nebenbei erkennen das unser ueblicher Begriff von einer
+"Abzweigung" nicht den physikalischen Tatsachen entspricht.
+
+Aber die Aufgabe besteht ja nur daraus _ mit einer Frage den richtigen Weg in 
+Erfahrung zu bringen_
+
+Und mit der korrekten Frage unter den gegebenen Praemissen, ist es für eine
+Verzweigung mit beliebig vielen Wegen loesbar.
+
+
+Die Schwierigkeit beim sehen hinter das Licht liegt im Erkennen, wo bei einer
+Kerze hinten ist - nicht so sehr in der Blendung.
+V.U.

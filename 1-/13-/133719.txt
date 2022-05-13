@@ -1,0 +1,54 @@
+Hallo Carlo !
+
+
+Hat mit Experiment erst mal gar nicht so viel zu tun:
+Voraussetzung für eine empirische Theorie ist die logische Unabhängigkeit
+von Explanans und Explanandum. Weil etwas komplizierter, hier etwas
+ausführlicher:
+
+<Sorry für den psychologischen Einschlag - ist aus meiner Dipl rauskopiert>
+
+Deduktiv-nomologische Erklärungen (oder Kausalerklärungen) entsprechen dem
+sog. Mittelmeier-Domprobst-Schema kausaler Erklärungen. Dabei folgt aus der
+Konjunktion zweier (oder mehrer) Sätze (Explanans) zwingend eine Konsequenz
+(Explanandum). Das Explanans lässt sich dabei in Antecedenzbedingungen und
+allgemeine Gesetze trennen. In der psychologischen Forschung sind solche
+Kausalerklärungen selten, die meisten psychologischen Theorien geben nur
+"wahrscheinliche", nicht aber zwingende Folgen an. Damit wird die
+deduktiv-nomologische Er-klärung zur induktiv-statistischen.
+Induktiv-statistische Erklärungen werden (zumindest) vom kritischen
+Rationalismus dann als "gleichwertig" mit deduktiv-nomologischen betrachtet,
+wenn ein "Akzeptanzkriterium" angegeben wird (vgl. z.B. Siekendiek, 1982). Aus
+diesem Grund werde ich im Folgenden die beiden Arten der Erklärung unter die
+deduktiv-nomologische Erklärung fassen.
+Um eine Theorie als deduktiv-nomologische Erklärung auffassen zu können,
+müssen Antecedenzbedingungen und Konsequenzen (Explanandum) logisch
+unabhängig sein.
+
+Ein Beispiel:
+
+Nehmen wir das Gesetz: "a + b => c", in dem "a" die Antecedenzbedingungen,
+"b" das allgemeine Gesetz und "c" das Explanandum wären.
+Wenn nun "a" bereits auch "c" bedeutet, so ist zum einen "a + b => c" immer
+wahr, zum anderen kann auch nicht mehr davon gesprochen werden, dass "c"
+durch "b" erklärt wird.
+Wenn nun in einer Theorie Antecedenzbedingungen und Konsequenzen nicht
+logisch unabhängig sind, kann diese nicht als nomologisches System
+aufgefasst werden - und natürlich auch nicht mehr falsifiziert werden.
+
+<kopiertes Ende>
+
+Da bei Deiner mathematischen Berechnung das Ergebnis bereits in der
+Definition von "Primzahl" enthalten ist, sind "Explanans" und "Explanandum"
+nicht logisch unabhängig - und das Ganze ist damit keine
+deduktiv-nomologische All-Aussage mehr.
+
+
+Streng genommen ist das ja auch so. Die einzigen "falsifizierbaren"
+mathematischen Theorien würde ich im Bereich von Stochastik / Statistik
+ansetzen (so sind z.B. die Bernoulli- oder die Normalverteilung ja
+eigentlich *empirische* Verteilungen).
+
+Größe,
+
+Carlo

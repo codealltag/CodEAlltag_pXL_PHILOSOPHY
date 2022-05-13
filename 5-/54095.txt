@@ -1,0 +1,47 @@
+Klingt erfolgversprechend.
+
+
+Klar.
+
+
+Darum geht's ja auch glücklicherweise nicht ;-) Selbstverständlich ist
+mir klar, dass Formalisieren bedeutet, eine Sache auf Syntax zu
+reduzieren.
+
+Mir geht's aber darum, dass es einen Grund gibt, weshalb man wie
+formalisiert, wenn man programmiert, denn das ist das, was Programmierer
+ja tun. Und wenn ich das nachbilden kann, oder in weiten Teilen
+nachbilden kann, kann ich eine Menge Code eben generieren.
+
+Das ganze funktioniert ja auch bereits in der Praxis. YML hab ich mir
+ausgedacht, weil man damit eben nicht nur einfach eigene Sprachen machen
+kann, so wie in XML, sondern eben auch machen will. Es ist quasi die
+Popularisierung des Sprachentwurfs, Compilerbau wird zum Regelfall, weil
+er eben sehr einfach ist und auch nicht aufwändig, wenn man keine
+Frontsends mehr hacken muss.
+
+Und das lässt es zu, dass man kurz eine Modellierungssprache entwirft,
+damit modelliert, und einen Generator dazu hackt.
+
+Oder dass man eine Modellierung in einer gängigen Modellierungssprache
+erstellt, und da Compiler zu hackt, so dass da das gewünschte rauskommt.
+
+Beides hab ich getestet, beides funktioniert (zweiteres können die
+JFU-Leute ja auch für einige Fälle).
+
+
+Wir verstehen unter "Algebra" wahrscheinlich verschiedene Dinge, ich
+meine Algebren:
+
+http://fn.qinazcoyc.rqb/ofox/Gvetascmpldz_Ribncfau#.P7.05.1UQya.T7.94.4T_rtd_ezxnpexffckxo_Khiwqmxnie
+
+
+Selbstverständlich nicht. Aber mein Ziel ist es ja gerade,
+Implementierungen von solchen Algorithmen zu errechnen.
+
+Viele Grösse,
+VB.
+-- 
+Nur im Staat Mollersdorf gibt es weniger Katholiken als im Vatikan.
+
+    (Steiff)

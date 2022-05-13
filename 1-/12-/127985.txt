@@ -1,0 +1,84 @@
+Jeder von uns hält drei Würfel, vor uns ein leerer Tisch.
+Draußen warten 3 Zeugen, die nicht miteinander sprechen.
+
+t1: Wir verständigen uns über die Anzahl der Würfel und checken
+unsere Sprachverständnis und Logikmodule.
+Sachverhalt: Es besteht die Möglichkeit, dass wir 6 Würfel auf den Tisch legen
+Aussage: "Wir haben die Möglichkeit, 6 Würfel auf den Tisch zu legen"
+(wahr, weil jeder von uns 1, 2, oder 3 Würfel auf den Tisch legen kann)
+
+t2: Jeder von uns legt 1 Würfel auf den Tisch.
+Sachverhalt: 2 Würfel liegen auf dem Tisch
+Aussage: "2 Würfel liegen auf dem Tisch"
+(wahr, weil 2 Würfel auf dem Tisch liegen)
+Zeuge: Pascale (Pascale kommt rein, bezeugt, erhält ein schrifliches Protokoll
+mit 3-facher Unterschrift und verlässt den Raum wieder)
+
+t3: Jeder von uns legt 1 weiteren Würfel auf den Tisch.
+Sachverhalt: 4 Würfel liegen auf dem Tisch
+Aussage: "4 Würfel liegen auf dem Tisch"
+(wahr, weil 4 Würfel auf dem Tisch liegen)
+Zeuge: Pietro (Pietro kommt rein, bezeugt, erhält ein schrifliches Protokoll
+mit 3-facher Unterschrift und verlässt den Raum wieder)
+
+t4: Jeder von uns legt 1 weiteren Würfel auf den Tisch.
+Sachverhalt: 6 Würfel liegen auf dem Tisch
+Aussage: "6 Würfel liegen auf dem Tisch"
+(wahr, weil 6 Würfel auf dem Tisch liegen)
+Zeuge: Gregor (Gregor kommt rein, bezeugt, erhält ein schrifliches Protokoll
+mit 3-facher Unterschrift und verlässt den Raum wieder)
+
+Wir räumen den Tisch leer, verlassen den Raum und rufen die
+Zeugen in einem anderen Raum zusammen.
+
+Aussage Pascale: "2 Würfel liegen auf dem Tisch"
+Aussage Pietro: "4 Würfel liegen auf dem Tisch"
+Aussage Gregor: "6 Würfel liegen auf dem Tisch"
+
+Die Aussagen werden anhand der Protokolle zunächst als wahr anerkannt,
+dann verglichen und es wird festgestellt, dass sie unbrauchbar sind, weil
+sie sich widersprechen. Alle gehen zum Tisch, um die Wahrheit zu ermitteln.
+Der Tisch ist leer. Durch Aussprache werden folgende Tatsachen festgestellt:
+
+Aussage: "Zu t1 bestand die Möglichkeit 6 Würfel auf den Tisch zu legen".
+(Die Wahrheit dieser Aussage beruht u. a. auf  Intention.)
+
+Aussage: "Zu t2 lagen 2 Würfel auf dem Tisch"
+Aussage: "Zu t3 lagen 4 Würfel auf dem Tisch"
+Aussage: "Zu t4 lagen 6 Würfel auf dem Tisch"
+
+Die Wahrheit dieser jetzt wahren und nicht mehr widersprüchlichen Aussagen
+gründet /nicht/ auf einem "actual state of affairs" in dem Sinne, dass jetzt noch
+Würfel auf dem Tisch lägen, sondern auf der jeweiligen Tatsache, dass zum
+angegebenen Zeitpunkt eine entsprechende Zahl Würfel auf dem Tisch lag.
+
+Aussage: "Es ist wahr, dass zu t2 2 Würfel auf dem Tisch lagen".
+Diese Aussage ist wahr, weil die Aussage "Zu t2 lagen 2 Würfel auf dem Tisch".
+wahr ist.
+
+Aussage: "Es ist eine Tatsache, dass zu t2 2 Würfel auf dem Tisch lagen".
+Diese Aussage ist wahr, weil zur angegebenen Zeit 2 Würfel auf dem Tisch lagen.
+
+
+Kommen wir zum Schluss:
+
+t5: Sachverhalt: Der Tisch ist leer.
+Aussage: "Der Tisch ist leer"
+(wahr, weil der Tisch leer ist)
+Aussage: "Es ist wahr, dass der Tisch leer ist"
+(wahr, weil die vorige Aussage wahr ist)
+
+Aussage: "Es ist eine Tatsache, dass der Tisch leer ist".
+So, ist es das? Es reicht hier zu sagen, dass es wahr ist.
+Allenfalls könnte man sagen: "Es ist eine Tatsache, dass zu t5 der Tisch leer ist"
+Damit hätte man die Aussage vorausschauend an ihren zu t5 zutreffend erkannten,
+in der Zeit aber änderbaren Sachverhalt gebunden.
+
+Also, nix intensional, alles knallharte Realität. Die Verwendung von Tatsache
+als bloße Prädizierung einer wahren Aussage als wahre Aussage ist tautologischer
+Unsinn. Das hat Manfred doch selbst bewiesen, warum wehrt er sich nur dagegen,
+seinen eigenen Schluss auch anzuerkennen?
+
+Größe
+
+Dominik

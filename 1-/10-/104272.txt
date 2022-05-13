@@ -1,0 +1,50 @@
+A c h  s o ... d a r u m geht es Dir, um eine simple "Formalisierung", I
+see!
+(Ich hatte da offenbar etwas falsch verstanden, sorry.)
+
+
+Ok, dann lass uns mal erst ein sog. Abkürzungsverzeichnis erstellen:
+
+	Dx : x ist eine Disjunktion
+	Jxy : x ist ein Disjunkt von y
+	Wx : x ist wahr
+
+Nun kommt man, wenn man "sinngemäß" übersetzt zu dem symbolischen
+Ausdruck:
+
+	Da -> (Wa <-> (Ex)(Jxa & Wx))
+
+Wenn man das generalisiert, kommt man also zu:
+
+	(Ay)(Dy -> (Wy <-> (Ex)(Jxy & Wx)))
+
+Das müsste passen.
+
+
+Nun zu:
+
+	"Eine Disjunktion, die ein bestimmtes Argument und dessen
+	 Negierung als Argumente hat, muss immer wahr sein [...]"
+
+
+Wir brauchen noch:
+
+	Nxy : x ist die Negation von y
+
+Dann haben wir wieder:
+
+	(Az)(Dz -> ...)
+
+	"Für alle Disjunktionen gilt: wenn..."
+
+Hmmm..., ja...
+
+	(Az)(Dz -> ((Ex)(Ey)(Jxz & Jyz & Nxy) -> Wz))
+
+Das müsste wieder passen.
+
+
+usw. usf.
+
+
+A.

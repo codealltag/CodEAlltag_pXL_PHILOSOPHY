@@ -1,0 +1,24 @@
+Bernd Ohly schrieb am 4. Dez. 2001 11:46 h:
+
+
+Das ist eine Behauptung. Wo ist der Beweis?
+Die Behauptung, die T_k enthielten nur endliche Teilmengen von N,
+ist gleichbedeutend mit der Behauptung, die Menge T aller T_k
+sei endlich. Das ist eindeutig falsch. T hat die gleiche
+Maechtigkeit w wie N, denn es existiert eine Bijektion von
+T auf N.
+Wenn V tatsaechlich nur die endlichen Teilmengen von N enthielte,
+waere die Maechtigkeit von T eindeutig endlich.
+Da T aber die Maechtigkeit w hat, muss V auch unendliche Teilmengen
+von N enthalten. Dass die Theorie damit Probleme hat, ist ihre Sache,
+die Richtigkeit meiner Ueberlegung wird dadurch nicht ausser Kraft
+gesetzt.
+
+
+Das Extensionalitaetsaxiom besagt:
+Zwei Mengen, welche die gleichen Elemente enthalten, sind gleich.
+Beispiel: Die Mengen {1,2,3,2} und {1,2,3} sind gleich.
+
+Gruss
+
+Ulfert

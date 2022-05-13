@@ -1,0 +1,21 @@
+Du weit sicher, was Ironie ist. Die einfachste Form der Ironie besteht 
+darin, das Gegenteil von dem zu meinen, was man sagt. Also jemand sagt: 
+A = B, meint aber A ungleich B.
+
+Hast du irgend eine Idee, auf Grundlage welcher logischer Schaltvorgänge 
+ein Automat Ironie verstehen könnte? Oder: Welche Art von Logik müsste 
+das sein, die ironisch sein kann?
+
+Wir Menschen (zumindest einige) verstehen jedenfalls Ironie. Wir haben 
+den Input: "A = B" und verarbeiten ihn im "Ironie-Modus" 
+kontextentsprechend als "A ungleich B" - und dies sogar dann, wenn wir 
+den Sprecher nicht kennen, ihn nicht sehen, hören, riechen, sondern 
+einfach nur einen Text lesen. Du bist doch so ein ganz Schlauer, erzähle 
+mal, wie das funktioniert.
+
+mit freundlichen Größen
+
+Bernd Willi
+
+-- 
+http://ocs.tkki.bc

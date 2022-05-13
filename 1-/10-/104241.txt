@@ -1,0 +1,47 @@
+Ich habe mal etwas in meinem Archiv gegraben, und dabei folgenden Beweis
+zutage gefördert:
+
+(P v Q) & (P v R) |- P v (Q & R)
+
+1       (1)  (P v Q) & (P v R)   A
+1       (2)  P v Q               1 &E
+3       (3)  P                   A
+3       (4)  P v (Q & R)         3 vI
+5       (5)  Q                   A
+1       (6)  P v R               1 &E
+7       (7)  P                   A
+7       (8)  P v (Q & R)         7 vI
+9       (9)  R                   A
+5,9    (10)  Q & R               5,9 &I
+5,9    (11)  P v (Q & R)         10 vI
+1,5    (12)  P v (Q & R)         6,7,8,9,11 vE
+1      (13)  P v (Q & R)         2,3,4,5,12 vE
+
+In der Tat, diese "Richtung" des Distributivgesetzes kann mit 13
+Schritten beweisen werden.
+
+Die andere "Richtung" geht so:
+
+P v (Q & R) |- (P v Q) & (P v R)
+
+1       (1)  P v (Q & R)         A
+2       (2)  P                   A
+2       (3)  P v Q               2 vI
+2       (4)  P v R               2 vI
+2       (5)  (P v Q) & (P v R)   3,4 &I
+6       (6)  Q & R               A
+6       (7)  Q                   6 &E
+6       (8)  P v Q               7 vI
+6       (9)  R                   6 &E
+6      (10)  P v R               9 vI
+6      (11)  (P v Q) & (P v R)   8,10 &I
+1      (12)  (P v Q) & (P v R)   1,2,5,6,11 vE
+
+Damit hat man dann
+
+	P v (Q & R) -||- (P v Q) & (P v R)
+
+gezeigt. Zweifellos eine wichtige aussagenlogische Beziehung.
+
+
+A.

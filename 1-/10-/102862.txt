@@ -1,0 +1,57 @@
+Betrachten wir beispielweise das Konnektiv ->:
+
+
+Zudem soll auch noch CP (conditional proof) gelten:
+
+	  [A]
+	   :
+	   B
+	 ------
+	 A -> B
+
+Oder vielleicht doch? Mal sehen.
+
+	1. ~(A & ~B)                  A
+	2. | A                        A
+	3. | | ~B                     A
+	4. | | A & ~B                 2,3 &I
+	5. | | (A & ~B) & ~(A & ~B)   1,4 &I
+	6. | ~~B                      3,5 RAA
+	7. | B                        6 DN
+	8. A -> B                     2,7 CP
+
+In der Tat, wir haben also auch:
+
+	~(A & ~B) |- A -> B.
+
+...ebenso wie ROITHMEIER:
+
+	Angenommen es gibt einen Beweis der Form
+
+		 A     (Annahme)
+	         :
+	         B
+
+	Dann können wir auch folgenden Beweis hinschrieben:
+
+	1.  | ~(A -> B)     A
+	2.  | ~~(A & ~B)    1 Def. ->
+	3.  | A & ~B        2 DN
+	4.  | A             3 &E
+              :             } wird als gegeben voraus-
+	n.  | B               gesetzt (siehe oben)
+       n+1. | ~B            3 &E
+       n+2. | B & ~B        n,n+1 &I
+       n+3. ~~(A -> B)      1,n+2 RAA
+       n+4. A -> B          n+3 DN
+
+	Also:  [A]
+	        :
+	        B
+	      ------
+	      A -> B
+
+	wobei A "gelöscht" wird.
+
+
+A.

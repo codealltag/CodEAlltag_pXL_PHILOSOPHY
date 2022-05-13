@@ -1,0 +1,9 @@
+Das Urmeter definiert freilich nicht den Term Länge, sondern den Term Meter
+(und seine Teile). Laenge ist dann eine Eigenschaft der Elemente einer
+dadurch ermoeglichten Klasse. Ich wuerde den Maßstab nicht als Element
+dieser Klasse, sondern Symbol fuer die Klasse selbst verstehen, dem die Zahl
+0 zugeordnet ist. Wenn ich die Länge von zwei Gegenständen gemessen habe,
+habe ich es danach mit 2 Dingen zu tun, nicht mit 3 (Gegenstand 1,
+Gegenstand 2 und ihrer Laenge).
+
+Claudio

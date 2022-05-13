@@ -1,0 +1,14 @@
+Hallo Wolfgang.
+
+
+Das mag Dir so erscheinen, aber der Thread-Zusammenhang wird korrekt nur  
+ueber die Message-IDs im Mail-Header rekonstruiert, die angeben, auf  
+welche Nachricht ein Posting antwortet.
+
+
+bye ingmar
+-- 
+"Die Menschen muessen leiden, um stark zu werden, dacht' ich.
+Jetzt denk ich, sie muessen Freude haben, um gut zu werden."
+
+                                       Johannes Ißleib

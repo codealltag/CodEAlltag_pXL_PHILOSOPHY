@@ -1,0 +1,21 @@
+Das Operieren in nicht-leeren Bereichen ist eine, wie man im
+Englischen sagt, "stipulation", d.h. eine "festlegende Vereinbarung";
+aber wie alle Konventionen gilt auch diese nicht absolut, d.h. es
+spricht grundsätzlich nichts dagegen, auch den leeren Bereich ("empty
+domain") zuzulassen:
+
+"Many logicians add one further derivation rule, which has the effect
+of decreeing that every domain of quantification has at least one
+individual in it. From our point of view this would be a mistake. A
+domain of quantification can perfectly well be empty."
+[Patrick Bäsler, LOGIC, Teletreff, 1991, p.228]
+
+Allgemein gilt allerdings, dass, sofern nicht ausdrücklich etwas
+anderes vereinbart wird, von nicht-leeren Bereichen die Rede ist.
+
+Gruß
+NICOLAS
+
+P.S.: Herr Besler, ich kann Ihnen in der Tat nur auf etwas
+umständlichem Wege antworten, aber es ist natürlich Ihr gutes Recht,
+eine Archivierung Ihrer Posts abzulehnen.

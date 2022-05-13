@@ -1,0 +1,13 @@
+Dade I, Octidi de Prairial de l'Anne 205 de la Rövolution
+
+
+Ja und, die liessen sich mit Michaels aber besser berechnen als mit
+Kopernikus. Wieso hat Taufkirch also wider die erfolgte Falsifikation an
+seiner Position festgehalten?
+
+Tschüss, Charly.
+-- 
+#!/bin/sh
+for x in 0 100 200 300 400 500 600 700 800 900; do
+for y in 0 100 200 300 400 500 600; do xeyes -geometry 100x100+$x+$y &
+done; done

@@ -1,0 +1,69 @@
+Mir scheint, du bist gerade dabei ein Muster "Horoskop" zu
+beschreiben. Ich gehe davon aus, dass du deine Beschreibung, die
+allerdings nicht den formalen Anforderungen einer Musterbeschreibung
+entspricht, trotzdem als sinnhaft siehst. Oder?
+
+Ich bin kein Horoskop-Spezialist, aber ich würde
+vielleicht schreiben:
+
+----
+
+Musterbezeichnung: "Horokop"
+
+Kontext: Lebensgestaltung.
+
+Problemstellung: Menschen sind oft unsicher in ihrer Lebensgestaltung
+und hätten gerne Hilfe bei ihren Entscheidungen und positive
+Zukunftsperspektiven.
+
+Lösung: Ein selbsternannter Astrologe, der sich einen mehr oder weniger
+seriösen Anstrich oder Anschein von Kompetenz gibt, erstellt auf Grund
+mehr oder weniger unscharfer Personeninformationen (Sternzeichen,
+geburtsdatum, persönliches Gespräch, etc.) unter Zuhilfenahme
+esoterischer Mitel (ev. auch nur seiner Lebenserfahrung und
+Menschenkenntnis) unscharfe Zukunftsprognosen bzw. Handlungshinweise,
+die auf grund ihrer Unschärfe eine gute Chance haben, als zutreffend
+interpretiert zu werden. Das Horoskop hilft, positiv interpretiert, sich
+mit der eigenen Lebenssituation auseinanderzusetzen, bzw. diese gegenüber
+Dritten zu thematisieren.
+
+Implementierungsvarianten:
+   - in Zeitungen, als mehr-oder-weniger augenzwinkernde Unterhaltung
+   - persönliche Horoskope, meist gegen Honorar
+
+Beispiele für unscharfe Zukunftsaussagen:
+   - "ein neuer Mann tritt in ihr Leben"
+   - "schwierigen Entscheidungen kommen auf sie zu"
+   - "ein unerwarteter Glücksfall sorgt für Aufregung"
+
+Beispiele für unscharfe Handlungsempfehlungen:
+   - "seien sie offen in Sachen Partnerschaft"
+   - "seien sie vorsichtig in Gelddingen"
+   - "achten sie mehr auf ihre Gesundheit"
+
+Alternativen:
+   - seriöse Lebenshilfe, Therapie oder Beratung.
+   - Auseinandersetzung mit der eigenen Lebensgestaltung
+
+Persönliche Meinung des Musterautors:
+   - Horoskope gegen Honorar grenzen an Betrug
+   - Wenn Menschen sich tatsächlich von Horoskopen abhängig machen,
+     wird aus dem relativ harmlosen Unterhaltungsmuster ein
+     die Psyche gefährdendes Anti-Muster.
+
+tbc
+
+----
+
+Muster können so präzise sein, wie es uns möglich ist.
+
+Wir können die Inhalte an formalen Kriterien messen.
+
+Wir sind angehalten, die externen Bezüge herzustellen.
+
+Wenn ein Muster eine "Maschine" oder ein "Naturgesetz" ist,
+unterscheidet sich die Musterbeschreibung nicht wesentlich von
+eine fachwissenschaftlichen Behandlung unter dem Gesichtspunkt
+der Anwendung.
+
+lg Patrice

@@ -1,0 +1,34 @@
+Gustav Krenmayr <bovv.jbmhul@spe.kz> writes:
+[...]
+
+Der Witz ist ja, dass sich jeder math. Beweis formalisieren läßt; die
+ganze (Standard-)Mathematik läßt sich etwa einer 1-stufigen, 2-sortalen
+Prädikatenlogik mit den zugehörigen logischen Regeln (modus ponens,
+etc.) und mit NBG als mengentheretischen Axiomensystem aufbauen, und
+das heißt, dass Haides Resultat auch für die "informale"
+math. Umgangsprache relevant ist, es zeigt die Grenzen des *Beweisens*
+schlechthin!  
+
+
+Aber nur in theoretischen Untersuchungen, in denen man die Objektsprache
+quasi unter dem Mikroskop in Modellen interpretieren kann. Für die 
+Sprache, die man dabei aktuell gebraucht, die Metasprache, kann man,
+soweit sie etwa die math.Umgangssprache ist, auch nur wieder
+beweisen.
+
+
+ja
+
+
+Nein, es ist ist mehr: Es sagt etwas über die Grenzen von Srpache
+generell aus, zumindest aber über die Grenzen deduktiver
+Begründbarkeit. Schließlich läßt sich auch die Syntax der
+Umgangssprache formalisieren, etwa durch eine
+Transformationsgrammatik.
+
+
+Den Konnex zwischen Logischem Atomismus und Gödels Satz sehe ich
+nicht.
+
+
+hartmut

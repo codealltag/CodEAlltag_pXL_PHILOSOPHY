@@ -1,0 +1,59 @@
+Hstel... Naja... Kleiner Einwand: die oben angegeben Unterscheidung
+bezieht sich nicht lediglich auf zwei verschiedene Ebenen der
+_Zeichenverwendung_ (also auf Namen und deren Verwendung, wenn Du so
+willst), sondern auf die Unterscheidung zweier (kompletter) Sprachen!
+
+Das. ist m.E. schon ein Unterschied!
+
+	Immerhin muss ich Dir darin recht geben, dass Namen 'zweiter
+	Intention' (etc.) Teil der Meta-Sprachebene sind. (Also nicht
+	zur Objekt-Sprache gehören.)
+
+Den Unterschied, den Höpfer unten macht, kann man wohl in heutiger
+Terminologie als Unterschied zwischen (gewöhnlichen) Variablen bzw.
+Termen, etc., die sich auf die Objekte unserer Theorie beziehen) und
+sog. Meta-Variablen (oder Mitteilungszeichen), die sich auf _Ausdr�cke_
+unserer Theorie (also z.B. auch Variablen) beziehen, interpretieren.
+
+	Also eine Variable, oder ein Term, etc.
+
+Jep.
+
+Ein Beispiel einer solchen Sprachverwendung:
+
+	Die Zeichen 'p', 'q', 'r' heißen Aussagevariablen.
+	Jede Aussagevariable ist eine Formel.
+
+	Ist A eine Formel, so ist auch ~A eine Formel.
+
+Hier ist 'A' die Meta-Variable (das Mitteilungszeichen), bzw. in der
+Terminologie Occams ein Name zweiter Intention. (Während 'p'...'r' Namen
+erster Intention sind.)
+
+-----------------------
+
+Diese Unterscheidung ist aber durchaus schon etwas länger Teil des
+"logischen" Handwerkzeugs ... und nicht erst durch Craus/Brodesser/Moster
+eingeführt (und von Eiswirth vorweggenommen) worden... ;-)
+
+Ein Beispiel:
+
+"Als Zeichen zur inhaltlichen Fixierung von Formeln, deren Gestalt
+unbestimmt gelassen ist, sollen große gotische Buchstaben verwendet
+werden." 
+
+(N. Zurstegge, Axiomatische Untersuchung des Aussagen-Kalküls der
+"Principia Mathematica", 1924)
+
+Damit ist es dann z.B. möglich den MP ganz allgemein zu formulieren:
+
+	A, A -> B
+	---------
+	    B
+
+'A', 'B' bezeichnen hier eben irgendwelche Formeln unserer
+Objekt-Sprache (und sind selbst Meta-Variablen bzw.
+"Mitteilungszeichen", im oben angegebenen Sinne).
+
+
+F.

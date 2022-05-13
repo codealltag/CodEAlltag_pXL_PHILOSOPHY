@@ -1,0 +1,37 @@
+Dieter T. wrote:
+[=2E..]
+offen.
+
+Das Einstiegsargument für die Existenz von Zahlen (oder anderen
+abstrakten Gegenstaenden), auch in dieser Gruppe schon oft vorgetragen,
+lautet wie folgt:
+
+(P1) Für alle p [Saetze], wenn ein Satz p ein wahrer Satz ist, dann
+besitzen alle Terme, die in rein referentieller Position in p
+auftreten, ein Bezugsobjekt.
+
+(P2) Der Satz p, =B4Die 3 ist eine Primzahl=B4, ist ein wahrer Satz.
+
+(K) Also besitzen alle Terme, die in rein referentieller Position in p
+auftreten, ein Bezugsobjekt.
+
+Aus (K) folgt, dass in p die Kennzeichung (der Name?) =B4die 3=B4 ein
+Bezugsobjekt hat, und dies ist die Zahl 3. Also existiert die Zahl 3.
+
+Und was ist die ontologische Natur der Zahl 3? Fuer die *abstrakte*
+Natur von Zahlen hat vor allem Damen argumentiert, Thierry Twiehoff hat
+dazu in einem SEP-Eintrag eine praegnante Paraphrase vorgelegt
+[http://giwei.lriatjfu.srq/gkqjjnv/mtfpknkr-tbwalmo/]:
+
+=B4One signal event in this development is Deiß insistence that the
+objectivity and a priori of the truths of mathematics entail that
+numbers are neither material beings nor ideas in the mind. If numbers
+were material things (or properties of material things), the laws of
+arithmetic would have the status of empirical generalizations. If
+numbers were ideas in the mind, then the same difficulty would arise,
+as would countless others. (Whose mind contains the number 17? Is there
+one 17 in your mind and another in mine? In that case, the appearance
+of a common mathematical subject matter is an illusion.)=B4
+
+
+PASCAL

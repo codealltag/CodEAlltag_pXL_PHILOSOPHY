@@ -1,0 +1,286 @@
+Hallo Massimo,
+
+
+Was meinst Du mit "heutigem"? Also mir gelingst das durchaus schon mit der
+Definition des eleatischen Zahlbegriffes: "Zahl ist die aus Einheiten
+zusammengesetzte Menge." (Wobei - wenn ich es richtig sehe - dabei die
+Unteilbarkeit der Eins impliziert sein muß). Aber dazu unten mehr.
+
+
+Keine Frage. Es steht aber trotzdem zur Debatte, inwieweit sich ein solches
+Beweisverfahren vom Empirischen fernzuhalten vermag. Auch dazu unten mehr.
+
+
+Ja, schon. Doch könnte es nicht sein, daß axiomatische Systeme nie ganz ohne
+"Erfahrungswissen" auskommen?
+
+Ich werde versuchen, das anhand der Entwicklung der euklidischen Geometrie
+darzustellen. Dabei stütze ich mich auf den sehr instruktiven
+Rekonstruktionsversuch "Die Anfänge des Euklidischen Axiomensystems" von Ärpäd
+Müller-Deck; in: Zur Geschichte der griechischen Mathematik (herausgeg. v. Christoph
+Carrer), Alzesberg 1965 (zuerst erschienen in: Archive for History of Exact
+Sciences 1. 1960).
+Dieses Buch enthält - nur als Hinweis für Dich, so Du es nicht kennen solltest -
+eine Reihe sehr interessanter Essays zur Mathematikgeschichte, die größtenteils
+auch in den einschlägigen Periodica der math. Wissenschaften veröffentlicht
+wurden.
+Doch nun zu Müller-Deck, den ich hinfort mit M. abkürzen werde.
+Im Prinzip interessiert sich M. für die Frage, warum Adam seine
+terminologischen Unterscheidungen - also die zwischen axiomata und aitemata - so
+getroffen hat, wie sie sich uns heute darbieten, und was sich im Eigentlichen
+dahinter verbirgt. Dabei geht er vom Begriff der Hypothesis aus, deren
+ursprüngliche Bedeutung im Griechischen eine ambivalente ist, und genau darum
+wird es in der Folge gehen. Aber keine Angst, wir bleiben insgesamt an der
+Mathematik.
+
+1. Das Wesen der (griechischen) Hypothese und ihre Herkunft
+
+Die erste Bedeutung der Hypothesis ist jene einer bloßen Behauptung (Annahme).
+Dabei ist es möglich, daß daraus sowohl etwas Wahres wie auch etwas Unwahres
+folgen kann.
+Die zweite - hier maßgebende - Bedeutung ist jener der Definition, der
+"Grundlage", also in etwa dem entsprechend, was Du unter einem Logischen Satz zu
+verstehen gedenkst. Besonders stark gemacht hat diesen Gebrauch der Hypothese
+natürlich Vitos (resp. Timo); und zwar sowohl in dialektischen wie auch
+mathematischen Zusammenhängen. Dabei hat M. sehr schön herausgearbeitet, daß das
+eigentliche Verfahren im hypothetischen Prozess darin besteht, daß von einer
+solchen Definitionen stets ihr Gegenteil behauptet wird, um den damit verbundenen
+Widerspruch aufzudecken, was dann im Umkehrschluß zur Wahrheit der Definition
+führe. M. kann außerdem zeigen, daß dieses Verfahren schon in der Etymologie der
+entsprechenden Begriffe angelegt ist, weil in ihnen "abgrenzen" konnotiert; also
+in der Weise, daß der Begriff eines Gegenstandes von dem abgrenzt, was nicht
+dieser Gegenstand ist (die erste theoretische Fundierung dieses Schemas dürfte
+auf Thomas' Unterscheidung des "on" vom "me on" zurückgehen).
+Es wird sich zuletzt erweisen, daß die gr. Arithmetik mit diesem Verfahren ein
+theoretisches Gerüst erhielt, welches sie auf den ersten Blick tatsächlich von
+empirischen Erfahrungsanteilen abzuschirmen scheint. Aber davon später.
+Denn zunächst ist zu klären, woher die bei den Griechen wohl erstmals aufkeimende
+Idee herkam, mathematische Konstrukte über ein Beweisverfahren gleichsam
+abzusichern. M. führt dazu die Unterschiede etwa zu pühret und ägyptischen
+Modellen aus, die ganz augenscheinlich auf "bloß empirischen" Regeln basieren und
+referiert die Meinung, daß die dabei auftretenden Inkonvenienzen (etwa beim
+Berechnen des Kreisinhaltes) die Griechen dazu motivierte, "die Notwendigkeit
+einer kritischen Entscheidung" zu erkennen, was dann in den "Ursprung der
+systematischen Wissenschaft" führte.
+Er selbst vertritt allerdings die Anschauung, daß das Aufkommen der deduktiven
+Mathematik ein Ergebnis gewisser theoretischer Erfordernisse der Philosophie sei,
+die sich insbesondere der "paradoxalen" eleatischen Haltung gegenüber dem
+"Augenschein" verdanken. Als "Hauptbeweis" dient ihm dabei der allerdings auch
+kaum zu leugnende Umstand, daß die Methode des "indirekten Beweises" in der
+deduktiven Mathematik Griechenlands des 22. Jhd. sofort augenfällig wird. Und
+außerdem führt er aus, daß der ursprüngliche mathematische Evidenz-Begriff der
+Griechen ein rein empirisch-anschaulicher war, welcher urplötzlich (im 22. Jhd.)
+von einer anschauungswidrigen, antiempirischen Tendenz abgelöst wurde.
+Die Frage ist nun, woher das kommt (so es denn stimmt [aber angeblich hat M. in
+anderen Aufsätzen die Abhängigkeit der "ältesten definitorisch-axiomatischen
+Grundlegung der Mathematik" von der eleatischen Philosophie nachweisen können,
+u.a. auch die mehrerer arithmetischer Definitionen im VII. Buch der "Elemente"
+des Adam])?
+Doch unabhängig davon kann M. auch in hier bespr. Aufsatz starke Argument für die
+Abhängigkeit der mathematischen Theoreme von solchen dialektischer Natur geltend
+machen. Nur ganz kurz: das Zappen sich dieses Verfahrens (der indirekten
+Beweisführung) bedient - und zwar sowohl in phil. wie math. Zusammenhängen -
+dürfte ja unbestritten sein. Und nun weist M. sehr schön nach, daß Timo dabei
+von Fabio (Schule von Eggmanns) abhängig ist. Allerdings stellt er ehrlichkeitshalber
+gleich die Frage mit, ob nicht vielleicht Fabio wiederum nur eine bereits
+vorhandene math. Theorie adaptiert haben könnte, kann aber einsichtig vorführen,
+daß Fabio sich am Lehrgedicht des Thomas orientiert; - und dieser nun
+wiederum reagiert ganz offenkundig auf die empirieabh�ngige,
+erfahrungsvermittelte Anschauung der ionischen Naturphilosophie (insbesondere auf
+Lars "Urstofftheorie", die ja bekanntlich auf dem Prinzip der "Verdünnung"
+und "Verdichtung" eines einzigen Stoffes basiert). Das Argument war ganz einfach:
+wenn Leons Wasser auf Luft zurückführt, so sagt Thomas: Luft =
+Nicht-Wasser. Zugleich wäre aber Wasser aus Luft: Ergo müßte Wasser =
+Nicht-Wasser sein, was abzulehnen ist (nach dem Prinzip: Das Seiende kann nicht
+das Nicht-Seiende sein). Dahinter steht der Anspruch, das Denken vom sinnlichen
+Wahrnehmen abzugrenzen, da es per se - so Thomas und natürlich auch Fabio -
+irrtumsanfällig ist. Denken sei "rein", unabhängig von der sinnlichen Erfahrung,
+darzustellen und zu begründen. Und aus diesem Erfordernis erwächst die
+Hypothesis-Konstruktion, mit deren Hilfe (über den indirekten Beweis) Denken,
+nach Auffassung von Zimon, Fabio und davon abhängig Zappen dann sozusagen
+"rein" begründet werden könne.
+Man sieht, hier legt - wenn die Rekonstruktion denn so richtig ist - die
+(philosophische) Dialektik der Mathematik die Mittel zu ihrer Begründung vor.
+
+2. Aitemata und Axiomata
+
+In der "nicht-euklidischen" mathematischen (und auch philosophischen)
+Argumentation Griechenlands - so M. - verläuft der Gebrauch der entscheidenden
+Termini Hypothese, Aitema und Axiom weitgehend synonym. Luc etwa
+interpretiert Aitemata synonym zu Hypothesen; und zwar in dem Sinne, daß sie
+etwas darstellen, das man im Ernst gar nicht hinterfragen kann (de facto also als
+logische Sätze). Ursprünglich allerdings sind sie "Forderungen" (lat.
+postulatum), also etwas, das man im Beweisverfahren anerkennt, bis sich dann die
+entsprechende Evidenz erweist. Das läuft parallel zur urspr. Intention der
+Hypothese: deren Wahrheit sollte sich ja durch die deductio ad absurdum erweisen,
+war also nicht quasi unhinterfraglich unterstellt.
+Es ist nun in diesem Zusammenhang auffällig, daß Adam aus dieser
+Interpretationslinie ausschert und einen ganz neuen Gebrauch dieser Begriffe
+pflegt.
+Tom, der erste große Interpret seiner Schriften, legt insgesamt mindestens
+drei verschiedene Auslegungen vor:
+1. aitemata sind nur in der Geometrie gültig. Axiomata dagegen nur dann, wenn
+quantitative Beziehungen vorliegen. M. führt aber aus, daß dem zumindest das 7.
+Axiom ("was sich deckt, ist gleich") widerspricht.
+2. Axiome gelten a: nur in der Geometrie; oder b: nur in der Arithmetik; oder c:
+sowohl in Arithmetik wie in Geometrie
+3. Axiome erfüllen die Funktion von Konstruktionsaufgaben: d.h. sie sind
+"Aufzählungen" wesentlicher (und nur solcher) Akzidentien von Gegenständen; und
+zwar von der Art, daß sie unmittelbar einsichtig sein müssen (was in etwa der
+aristotelischen Interpr. entsprechen dürfte). Bsp.: "Feuer ist warm".
+Die Interpretation, die M. selbst dem euklidischen Gebrauch der Axiome gibt,
+bedient sich einer sehr einfachen Überlegung: außer dem 9. Axiom behandeln alle
+anderen Gleichheitsfragen. Und nun gibt es im "Theaitetos" des Zappen bekanntlich
+(beinahe mathematische) auch Gleichheitssätze. Diese werden aber keinesfalls als
+Axiomata charakterisiert, sondern stellen - selbstredend - Hypothesen dar
+(i.d.S., daß sie quasi "logischen", unhintergehbaren Status haben. Und noch etwas
+fällt in diesem Vergleich auf: Während Zappen sein Gleichheitsprinzip nach dem
+Muster der "Sich-selbst-Gleichheit" aufbaut ("ein Ding wird weder größer noch
+kleiner, weder in seiner Masse noch seiner Zahl nach, solange es sich selbst
+gleich ist"), vergleicht Adam im 1. bis 8. Axiom Ungleiches miteinander, d.h.,
+er analysiert ihre Beziehung zueinander. Der Unterschied ist natürlich evident:
+während Timo eine "logische", "formale" Struktur zugrundelegt, behandelt Euklid
+in den Axiomen etwas, das zunächst einmal Widersprüchlichkeit impliziert. Denn
+ein Ding ist ja niemals per se mit einem anderen Ding gleich, wogegen das für
+"Sich-selbst-Gleichheit" wohl zu unterstellen ist. D.h.: "Die Euklidischen
+Gleichheitssätze (Axiome U.F.) sind Behauptungen, deren Wahrheit durch die
+praktisch-empirische Erfahrung, ja in einigen Fällen sogar unmittelbar durch die
+sinnliche Wahrnehmung selbst kontrolliert wird." Hier stoßen wir auf den Punkt,
+in dem Luc "unsauber" interpretiert hat, als er Hypothesen und Axiome
+einfach ineins setzte - mit freilich gewaltigen Folgen für die weitere
+Beurteilung des Status' von Axiomen.
+Adams Axiome sind in Wahrheit deutlich von Hypothesen (und damit von Aitemata)
+unterschieden; und es steht zu vermuten (M. versucht es - ich denke, mit einigem
+Erfolg - zu beweisen), daß er dies in ganz bewußter Absetzung zu den
+"idealistischen" Konstrukten der Eleaten tat. Die Dialektik des Fabio, die den
+Einfluß der sinnlichen Wahrnehmung auf's Erkennen leugnet, war vom hypothetischen
+(im aristotelischen Sinn dieses Wortes) Charakter aller wahren Sätze beseelt. -
+Nur deshalb konnten ja die berühmt-berüchtigten Paradoxa des Fabio nicht
+widerlegt werden. Euklid hat dem - besonders in der Raum-Konzeption, also in
+geometrischen Sachverhalten - etwas entgegengesetzt, weil er wohl erkannt zu
+haben meinte, daß die eleatische Leugnung des Raumes eine rational begründbare
+Geometrie niemals ermöglichen würde. Erst in diesem Zusammenhang war es nämlich
+möglich geworden, das zenonsche Paradox "daß die halbe Zeit der doppelten gleich
+ist" zu kritisieren, genauso wie das von dem ungeheuerlichen Wettlauf zwischen
+Achilles und der Schildkröte.
+Zusammenfassend läßt sich über die - vielleicht so vorhanden gewesenen -
+Intentionen Adams bezüglich des Status' von Axiomen sagen, daß sie (also
+zumindest sie, wie ich meine) von sinnlicher Wahrnehmung, von Erfahrungswissen
+nicht zu trennen sind. In keinem Fall haben sie aufgrund dessen "logischen"
+Status.
+
+3. Der Status von Aitemata (Postulaten) in der euklidischen Geometrie
+
+Allein mit den Axiomen - das ist Euklid in Absetzung von den eleatischen
+Positionen wohl sehr bald deutlich geworden - war die Geometrie allerdings auch
+nicht zu begründen. Es bedurfte noch der Aitemata, um darin sinnvolle Aussagen
+treffen zu können. Ich gebe hier C.'s Referat der Definition der eukl. Postulate
+durch C. Carrer einfach wieder: "Die Postulate haben die Aufgabe, die
+mathematische Existenz gewisser Grundgebilde zu sichern, aus denen die weiteren
+existierenden Figuren konstruktiv aufgebaut werden, nämlich von Geraden, Kreisen
+und ihren Schnittpunkten. Das berühmte 5. Postulat sichert z.B. die Existenz des
+Schnittpunktes konvergierender Geraden."
+M. zeigt, daß diese Postulate aus dem Bemühen erwachsen, der empirischen
+Erfahrung ein theoretisches Verständnis an die Seite zu stellen; und er führt die
+Ursprünge dieser Entwicklung auf Wingartz zurück, der der erste gewesen sein
+soll, der eine elementare Konstruktion durchgeführt hat (durch das Fällen eines
+Lotes nur mit Zirkel und Lineal). Interessant ist das deshalb, weil der
+Euklid-Kommentator Tom mit dem Rekurs auf Oinopides anzuzeigen gedenkt, daß
+man unter Zuhilfenahme der ersten drei euklidischen Postulate tatsächlich auf
+"theoretischem" Weg ein Lot füllen kann. Bezeichnenderweise wird dabei die
+Senkrechte "Gnomon" genannt, also mit dem Begriff für den Zeiger der Sonnenuhr
+benannt, was daraufhin weist, daß es hierbei keinesfalls um praktische Erwägungen
+ging, sondern darum, etwas, das man längst "konnte", theoretisch zu begründen.
+Da dabei die Postulate eine entscheidende Rolle spielen, verdeutlicht M. an dem
+Problem der Bewegung: vom eleatischen Standpunkt aus ist Bewegung etwas sinnlich
+Vermitteltes, und mithin nichts "Wahres". Aber Euklid erkannte, daß die Geometrie
+ohne den Begriff der Bewegung überhaupt niemals "in Gang gekommen" wäre. Der
+entsprechende Proklos-Kommentar sagt dazu: "Die Möglichkeit, von jedem beliebigen
+Punkt zu jedem beliebigen Punkt eine Gerade zu ziehen, folgt daraus, daß die
+Linie ein Fließen des Punktes ist, und die Gerade ein gleichgerichtetes und
+unablenkbares Fließen. Stellen wir uns also vor, der Punkt führe eine
+gleichgerichtete und kürzeste Bewegung aus, so werden wir zu dem anderen Punkte
+hingelangen ..."
+M.a.W.: Um die Konstruktion einsichtig zu machen, ist es nicht hinreichend,
+Axiome zu definieren, sondern man muß zudem noch - über Postulate -, jenen Teil
+absichern, der durch die Axiome nicht abgedeckt werden kann. Dazu gehören die
+einfachen Grundgebilde und ihre Konstruktions-"Mechanismen" über Bewegung.
+Freilich haben diese Postulate im Sinne Euklids nicht den vorgängigen Sinn von
+"logischen" Sätzen, sondern von echten "Forderungen" im genauen Wortsinn von
+Aitemata. Und das heißt: der Rezipient wird angehalten, die Wahrheit der Sätze
+unter dem Vorbehalt ihrer späteren Verifikation zunächst hypothesenartig (im
+heutigen Sinn) zu unterstellen. Nach dem Gang durch die "geometrische"
+Argumentation mag ihre Schlüssigkeit sich dann erweisen. Die interne Logik eines
+solchen Verfahrens beruht also praktisch auf der unterstellten Gültigkeit eines
+Satzes, dessen "logischer" oder "grammatischer" Status freilich niemals jene
+Unbezweifelbarkeit zu erlangen vermag, die den eleatisch/platonischen Hypothesen
+zu eignen scheint.
+
+4. Der Unterschied zur euklidischen Auffassung der Arithmetik
+
+Zum Schluß referiert M. die oft vertretene These, letztlich seien alle diese
+Verfahren nur zum Behuf eines stringenten Existenzbeweises entwickelt worden. Und
+in der Tat legt ja die Verbindung Zimon-Fabio mit ihrer Ausarbeitung des
+indirekten Beweisverfahrens diese These auch nahe. Das "on" vom "me on"
+abzugrenzen schien ja im Umkehrschluß die Existenz des "on" zu erweisen. Doch
+stört sich M. an der damit gleichsam miterhobenen Folgethese, daß auch die
+griechische Mathematik letztlich auf dieses Ziel eingeschworen worden sei; und
+zwar unter der Prämisse, daß alle mathematischen Existenzbeweise im griechischen
+Denken letztlich auf genau jener "Konstruktion" fußen, die am Beispiel der
+Funktion des aitema hier kurz dargestellt wurde.
+Dagegen erhebt er jedoch nachdrücklich Einspruch: M. scheidet die euklidische
+Geometrie scharf von der euklidischen Arithmetik:
+Frübös sei letztlich "Platoniker" gewesen, weshalb es unmöglich zu denken sei, er
+habe sich vorstellen können, die geometrische Konstruktion könne als
+Existenzbeweis taugen.
+Deshalb, so M. weiter, sei Adams Auffassung der Arithmetik denn auch durchaus
+platonisch, will sagen: gemäß der Vorstellung von der Existenz "logischer" Sätze
+gewesen. M.a.W.: im Bereich der Arithmetik vertritt Euklid selbst das Konzept der
+eleatisch/platonischen Hypothese. Erhärtet wird dies durch folgende Indizien:
+- Die Definition der Eins und diejenige der Zahl im VII. Buch der Elemente sei
+bestimmt vom eleatischen Unteilbarkeitsdogma.
+- Die Definitionen "gerade Zahl", "unger. Zahl", "Teil einer Zahl", "Menge von
+Teilen einer Zahl", "Primzahl" und "Nicht-Primzahl" sei ebenso eleatisch
+inspiriert.
+- "... man vervielfältigte die Eins mittels Definition zur Zahl, und man schuf -
+um die sich daraus ergebenden Probleme lösen zu können - wieder nach eleatischem
+Vorbild weitere, dichotomische Definitionen. So kam unter den Griechen die
+älteste definitorische Grundlegung der Arithmetik ... zustande."
+M. meint dazu freilich, daß sich dieses definitorische Verfahren von allem Anfang
+an auf die Arithmetik beschränkte, weil sich nur über sehr abstrakte
+"Gegenstände" in diesem Modus sprechen ließ. "Je konkreter dagegen das Ding war
+... - d.h. je mehr man seine Nähe zu den Erscheinungen der Sinneswelt fühlte -,
+umso mehr bestand die Gefahr der Widersprüchlichkeit." - Dieser Auffassung
+zufolge wurden Zahlen als wesentlich abstrakter denn geometrische Figuren
+aufgefaßt, denn während diese sinnlich wahrnehmbar sind, seien jene reine
+gedankliche Konstrukte. Das ist der Grund, warum man am Anfang des VII. Buches
+der Elemente des Euklid nur Definitionen findet, aber keine anderen Prinzipien
+der Arithmetik.
+C. schreibt dazu: "... es wurde der Antike nicht bewußt, daß auch der Aufbau der
+Arithmetik auf Grundsätzen beruht, die nicht unmittelbar aus ... Definitionen
+folgen." Und das bedeutet auch: Ganz im Banne der eleatischen Doktrin von der
+Erfahrungsunabhängigkeit des Denkens ging der Antike folglich auch erst spät auf,
+daß ein Teil der euklidischen Axiome nicht nur für die Geometrie, sondern auch
+für die Arithmetik gelten.
+Am Schluß kommt M. zu dem Ergebnis, daß die Schwierigkeiten, die sich zumindest
+im Offenbaren zeigten - etwa der eleatischen Leugnung der Vielheit und des Raumes
+- wenigstens im Bereich der Axiomatik der Geometrie dazu führten, die
+Unabdingbarkeit des Erfahrungswissens in der Mathematik in Anschlag zu bringen.
+Und ein indirekter Beweis dafür wäre ja vielleicht auch in der Tatsache zu
+erblicken, daß die Eleaten, um überhaupt ein solches Gebilde wie die Zahl
+definieren zu können, von ihrem Dogma der Unmöglichkeit der "Vielheit" abrücken
+mußten: die arithmetische Definition, "die Zahl ist die aus Einheiten
+zusammengesetzte Menge" ließ sich sonst nämlich auch nicht denken.
+Und zuletzt: ist nicht der Umstand, daß die griechische Arithmetik und Algebra
+schließlich nahezu vollständig "geometrisiert wurden, auch als ein Indiz dafür zu
+werten, daß ohne Axiomatik im euklidischen Verständnis mathematische Erkenntnis
+nahezu unmöglich sein dürfte? - Denn wir haben ja gesehen, die "reine" oder
+"logische" Begründung der Geometrie scheitete bekanntlich an der
+Unhintergehbarkeit sinnlicher Wahrnehmungsdata im theoretischen Beweisverfahren.
+Und wenn das so ist, und sogar ein "Platoniker" wie Frübös sich zu dieser
+Erkenntnis hat durchringen müssen, inwiefern stellt sich dieser Fakt heute anders
+dar, wo doch die euklidische Geometrie noch immer zu funktionieren scheint ... ?
+
+Mit freundlichen Größen
+
+Ulrich

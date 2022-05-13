@@ -1,0 +1,109 @@
+Eine wirkliche 1:1 Simulation wirst du nur mit einer exakten
+Kopie eines Gehirns erreichen können, was einschliesst, dass
+die Kopie ebenfalls aus den gleichen Materialien (organisch)
+aufgebaut ist. Genaugenommen können wir dies bereits heute
+durch Clonen erreichen.
+
+Jede andere Kopie, sei es in Form eines Programms, einer
+optoelektrischen Maschine oder eines Eimers voll mit Algen
+wird schon aufgrund ihrer Konstruktion zunächst immer anders
+sein, als das Original.
+
+
+Wie Du schon richtig erkannt hast, spielen nicht nur die Gene
+eine Rolle, sondern vor allem die Umwelt. Für eine 1:1 Simulation
+musst du also sicherstellen, dass sich Deine Kopie aufgrund von
+Umweltbedingungen jeglicher Form exakt genauso verhält, wie
+das Original. Das Gehirn unterliegt zum Beispiel einer permamenten
+Umstrukturierung. Nervenzellen verbinden sich ständig auf neue
+Weise miteinander, Ionenkonzentrationen ändern sich... das Gehirn
+an sich ist keine statische Maschine, es verändert seinen Aufbau
+in jeder Sekunde.
+
+Deine Maschine müsste also ebenfalls eine solche Umstrukturierung
+durchführen (sei es mechanisch oder z.b. per Software simuliert).
+Da das Gehirn deiner Maschine jedoch in einer völlig anderen Form
+repräsentiert wird, als das originale Gehirn und dadurch auch völlig
+anders funktioniert - was an sich noch kein Problem ist, denn uns
+interessiert ja nur das Ergebnis - wird sie auf gleiche Umweltreize
+entweder gar nicht oder anders reagieren. Du musst also zunächst
+mal ein Interface zwischen Maschine und Umwelt schaffen, dass die
+äusseren Bedingungen (die für sämtliche Entwicklungen des originalen
+Gehirns relevant sind) in eine, der Maschine verständliche Form
+umwandelt - und zwar so, dass keine der relevanten Bedingungen
+verlorengeht UND das diese Bedingungen in der Maschine zu
+Umstrukturierungen führen, deren Auswirkungen zu denen in einem
+echten Gehirn identisch sind.
+
+Nun bestehen diese Umweltreize aber keinesfalls nur aus den uns
+geläufigen Sinneseindrücken (Schmecken, Riechen, Sehen, ...), die
+sich durch nachgebaute Sensoren noch relativ einfach simulieren
+lassen. Vielmehr ist das Gehirn selbst Teil der realen Welt,
+wirkt also auch auf seine Umwelt zurück und dadurch rückbezüglich
+auch wieder auf sich selbst (auf unterster Ebene). Dieses
+'Verhalten' müsste Deine Maschine ebenfalls simulieren.
+
+Weil Deine Maschine seinerseits aber ebenfalls Teil der realen Welt
+ist und deshalb ihr ganz eigenes System hat musst Du also nicht nur
+das Gehirn simulieren, sondern die unbeabsichtigten Auswirkungen,
+die sich durch die Konstruktion Deiner Maschine ergeben noch
+irgendwie herausrechnen.
+
+
+Man könnte sicherlich eine Momentanaufnahme eines Gehirns machen,
+sodass man genau weiss, wo in diesem Moment welche Zellen liegen,
+wie sie gerade miteinander vernetzt sind, welche elektrischen
+Signale durch die Nervenenden sausen usw.
+
+So eine Momentaufnahme hat aber noch lange nichts mit lebender
+Materie und schon gar nichts mit Intelligenz zu tun. Die
+eigentliche Komplexität, die unser Gehirn zu dem macht, was
+es ist, liegt ja eigentlich in der Art und Weise, in der es
+Veränderungen erlebt.
+
+Diese Veränderungen gilt es zu simulieren. Ein Schnappschuss
+von einem Haufen Kohlenstoffverbindungen bringt gar nichts,
+solange Du keine 'Laufzeitumgebung' hast, die aufgrund dieser
+Eingabedaten die folgenden Veränderungen simulieren kann.
+
+
+Wie ich schon sagte, die interne Repräsentation des Gehirns
+in Deiner Maschine wird eine völlig andere sein, als die des
+originalen Gehirns. Auch wenn Deine Maschine in gewissen
+Grenzen (vielleicht sogar in jeder Hinsicht) im Vergleich zum
+biologischen Gehirn identische Ergebnisse liefert, dürfte es
+ziemlich schwierig sein, vom internen Zustand der Maschine
+auf den internen Zustand des Gehirns zu schliessen.
+
+
+Wenn Du eine 1:1 Kopie anstrebst, dann wirst Du Dir zwangs-
+läufig eine ethisch orientierte Maschine einhandeln. Ansonsten
+wäre es aufgrund der Abwesenheit gewisser Eigenschaften keine
+1:1 Kopie mehr. Deine Maschine steht in diesem Fall einem
+echten Gehirn in nichts nach.
+
+
+Wenn es nur um das Verstehen von Toren geht, dann könnte
+man bereits heute eine Maschine (mit entsprechendem Aufwand)
+so programmieren, dass sie zu jeder Frage die erwartete
+Antwort gibt.
+
+Das Problem, aufgrund von verbalen Äusserungen eine Maschine
+von einem Menschen zu unterscheiden, wurde bereits vor Jahr-
+zehnten im sogenannten Turing-Test festgehalten. Wenn Du
+danach im I-Net suchst, wirst du bestimmt ne ganze Menge
+Informationen finden. Es gibt auch einige gute Bücher, die
+sich mit der Thematik befassen.
+
+
+Wenn du das schaffst, dann würde ich mich sehr freuen.
+Dann kann ich mich nämlich für den Rest meines Lebens mit
+irgendwelchen anderen Sachen beschäftigen :)
+
+
+j3rky
+
+--
+homepage: http://vbw.gccwc-vpemufhdk.cr
+UTToolkit out now: http://hnkesbfpl.zoyuk-hcweiejde.ef
+UT coding forum: http://xlxrln.nqqot-plmujnlbo.st

@@ -1,0 +1,13 @@
+Man - bist du schwer von Begriff... das sind elementarste Datenstrukturen. 
+
+Layer (in Hierarchien) haben keinen Sinn, wenn sie nicht in Beziehung 
+zueinander stehen - ohne "weiter oben/unten", "weiter innen/aussen"... 
+
+Listen sind die einfachste Ordnung (von Elementen), per Nachbar, 
+die "Layer" haben alle mindestens je einen Vorgänger oder Nachfolger 
+(oder beides), Mengen (Sets, z.B. Hashsets) dagegen sind ungeordnet, 
+d.h. sie "verschaffen" ihren (ungeordneten) Elementen "reine Existenz". 
+
+Und Listen sind immer auch ("entartete") Bäume.
+
+http://jf.gkkzjnonh.puw/eiqw/Tvrytbunrj#Edcgb_ewky

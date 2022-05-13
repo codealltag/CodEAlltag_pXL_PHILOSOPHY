@@ -1,0 +1,53 @@
+Hallo Kurt!
+
+
+Na gut. Dann lautet aber die Kernaussage doch: 
+Angenommen, es gibt ein Wesen, das meine Entscheidung immer (was meint
+dabei: "faktisch"?) richtig vorhersagen kann. Dann folgt daraus ein (von 
+mir noch nicht verstandenes) Paradox.
+
+Wenn das Paradox echt ist, kann ich also auf die Nichtexistenz eines
+solchen Wesens schliessen. Weitere Probleme entstehen daraus
+nicht. Oder habe ich etwas uebersehen?
+
+
+Das ist die Frage der Definition des obigen "faktisch": Wenn
+"faktisch" bedeutet: per Definition immer (4), dann sind dominante und
+erwartete Strategie identisch und man nimmt die Million.
+
+Wenn die Bedeutung von "faktisch" ist, "mit einer Wahrscheinlichkeit
+w" (2) und (3), dann kann ich den Gewinn maximieren, indem ich w und
+(1-w) mit dem jeweils erwarteten Gewinn multipliziere:
+
+w sei die Wahrscheinlichkeit, dass sich das Wesen nicht irrt.
+
+1. Wir nehmen nur die zweite Kiste
+
+Mit einer Wahrscheinlichkeit w hat das Wesen unsere Entscheidung
+vorhergesehen und die Million dort hineingelegt.
+
+Mit einer Wahrscheinlichkeit (1-w) hat sich das Wesen geirrt und dort
+nix hineingelegt.
+
+--> mittlerer Gewinn ist 1.000.000 * w
+
+2. Wir nehmen beide Kisten
+
+Mit einer Wahrscheinlichkeit w hat das Wesen unsere Entscheidung
+vorhergesehen und nur in die erste Kiste den Tausender gepackt.
+
+Mit der Wahrscheinlichkeit (1-w) hat das Wesen sich geirrt und
+zusätzlich eine Million in der zweiten Kiste deponiert.
+
+--> mittlerer Gewinn ist 1000 * w + 1.001.000 * (1-w)
+
+Solange man die Wahrscheinlichkeit w, dass das Wesen diesen Fall
+vorhersagen kann, als groesser 0.55 abschaetzt, wird man also
+sinnvollerweise die zweite Box nehmen. Im Fall des rein zufaelligen
+Wahrsagers (50% Vorhersagewahrscheinlichkeit fuer
+Elementarentscheidungen) nimmt man beide.
+
+Ein Paradox sehe ich einfach nicht. Kannst Du es vielleicht einem
+Nicht-Philosophen etwas erlaeutern?
+
+Onno

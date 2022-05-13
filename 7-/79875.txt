@@ -1,0 +1,7 @@
+Das war eigentlich nicht als Definition gedacht, sondern als Stichwort,
+wo der Fehler in Freds Beweis gesucht werden muss. Der Zahl 1/9
+muss eine natürliche Zahl zugeordnet werden und das leistet Freds
+Liste nicht.
+Die exakte Definition für 'abzählbar' lautet:
+"Eine nichtleere Menge D heisst abzählbar, wenn es eine surjektive
+Abbildung von den natürlichen Zahlen auf D gibt."

@@ -1,0 +1,17 @@
+Automat: "Entnehmen Sie bitte ihren Fahrschein."
+Käufer: "Würde ich ja gerne."
+Automat: "Entnehmen Sie bitte ihren Fahrschein."
+Käufer: ...
+
+Mensch: "Entnehmen Sie bitte ihren Fahrschein."
+Käufer: "Würde ich ja gerne."
+Mensch: "Oh, Entschuldigung."
+Käufer: "Danke!"
+
+
+Beide Szenen sind leicht zu interpretieren, vorausgesetzt die Intentionen
+sind dem Text entsprechend, aber Maschinen haben damit ein
+Interpretationsproblem, welches?
+
+Grüße,
+Berthold

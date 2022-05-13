@@ -1,0 +1,58 @@
+Die durchschnittliche Körperkraft ist nach der ersten industriellen
+Revolution zurückgegangen.
+Der Intelligenzr�ckgang von Kindern durch primitive
+Computerspiele, Reizüberflutung und Werbung
+halte ich für glaubwürdig.
+
+
+Ich versuche folgende Näherung
+
+Intelligenz = Denken  +  Prüfen  +  Selbstprogrammierung.
+                     ==>        ==>
+Denken =  Spielen von Daten durch mit Erfolgswahrscheinlichkeit
+selektiert und evtl. mit bisherigen Programmen aufbereitet wurden.
+
+Prüfen: Stimmen die Erbnisse mit Regeln oder Experimenten.
+        Ist das Ergebnis besser (ähnlicher) als ein bekanntes?
+
+Selbstprogrammierung:
+        Ordne das Ergebnis auf Grund in die Erfolgshitparade ein.
+        ( Erfolgsmesswert wird mit abgespeichert .)
+        ( Garbage collection vergiss die Erfolglosesten )
+
+        Wichtig: Die Regelabweichungen werden als neue Denkanstöße mit
+abgespeichert.
+        ( Programmstarts abgespeichert, deren Priorität von
+          dem Erfolsmesswert beinflusst wird )
+
+Verwaltungsanmerkung.
+        Gespeichert werden nicht die Daten sondern die Pointer auf die
+Denkanstöße.
+        Garbage collection: vergiss die Erfolglosesten ( am wenigst
+gebrauchten)).
+        Ein Pointer auf nil bedingt einen neuen Denkanstoß=Suchauftrag.
+
+p.s. Mich interessiert nicht was ist das, oder wie sieht das aus,
+sondern eher wie funktioniert das.
+     Daher habe ich die Schritte angegeben, wie ich sie bei mir
+beobachtet habe.
+
+     Ich vermute, daß das Gehirn deswegen so viele Synapsen braucht,
+weil es sich noch mit (2- 10 oder wie immer ) schwertut.
+     Es speichert seine Analogwerte (Gewichte ) über entsprechend viele
+Synapsen ab.
+
+
+Die Bevölkerungsreduzierung durch die beiden Weltkriege halte ich,
+von der Umwelt her gesehen, wenig relevant.
+Ein weltweiter nuklearer Winter mit Ausfall der Reis- und Getreideernte
+würde schon eine "nenneswerte" Bevölkerungsreduzierung nach sich ziehen.
+
+
+Der Wald oder etwas ähnliches als Rohstaoffquelle bleibt erhalten.
+Ich nehme an, das wir heute alle leicht zugänglichen Rohstoffquellen
+entdeckt und ausgebeutet haben. 
+Wegen der Schwierigkeiten Metalle zu finden dürfte wieder
+eine sehr lange Steinzeit folgen.
+
+Louis

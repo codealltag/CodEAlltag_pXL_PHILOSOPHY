@@ -1,0 +1,23 @@
+In der Maßtheorie erweitert man tatsächlich R zu R^:=R u {oo,-oo} mit
+den Definitionen:
+
+a+oo:=oo+a:=oo
+a-oo:=-oo+a:=-oo
+oo+oo:=oo
+a*oo:=oo*a:=oo falls a in ]0,oo]
+a*oo:=oo*a:-oo falls a in [-oo,0[
+...
+0*oo:=oo*0:=0
+...
+
+R^ ist natürlich *kein* Körper mehr, die Multiplikation und Addition
+ist zwar noch kommutativ, aber nicht mehr assoziativ, und auch das
+Distributivgesetz gilt nicht mehr. Falls man sich auf ]-oo,oo]
+beschränkt, so ist die Addition wieder assoziativ, so dass man
+sinnvoll von "Summen" sprechen kann.
+
+Es *kann* also durchaus sinnvoll sein, "unendlich" zu den reellen
+Zahlen hinzuzunehmen.
+
+
+claudio

@@ -1,0 +1,20 @@
+Hallo Ingolf!
+
+HH> An der Grenze. ich will genau die Stelle des "Übergangs" wissen.
+
+Die ist doch eindeutig. Was willst Du da genauer wissen? Ueberall, wo
+die Wahrscheinlichkeit >0,5 ist, das ist Papier, ueberall sonst nicht.
+
+"Die Stelle" des Uebergangs ist WK=0,5; alles was groesser ist, ist
+Papier.
+
+HH> Also bitte: ich denke, du solltest die Grenzstelle zwischen Papier
+HH> und Nicht-papier more explicit definieren.
+
+"Die Grenzflaeche zwischen Papier und Nicht-Papier ist die Menge aller
+Punkte, fuer die die Wahrscheinlichkeit der Messung von Papier gleich
+0,5 ist." 
+
+Was ist Dir an dieser Definition nicht explizit genug?
+
+Franco

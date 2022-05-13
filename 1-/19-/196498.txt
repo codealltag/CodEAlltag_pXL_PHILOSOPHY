@@ -1,0 +1,15 @@
+Natürlich treten in einem Rechner Verluste bei der
+Informations-Übertragung auf. So werden bei modernen Chips nur 10E12
+Operationen garantiert, die wirklich laufen, ohne einen Fehler zu haben.
+Die (10E10)+1-te Operation kann sehr wohl einen Fehler haben, der aus
+einer fehlerhaften Informationsübertragung resultiert.
+
+
+Nein, es geht hier um das Problem, daß jede elektronische Schaltung nur
+für den "Normalfall" layoutet wurde. Wenn einige Bedingungen
+zusammenkommen, die nicht vorhergesehen waren, dann verhält sich das
+ganze Ding unvorhersehbar.
+
+
+Gruß,
+Niclas

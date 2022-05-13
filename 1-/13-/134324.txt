@@ -1,0 +1,228 @@
+Hallo Mitleser,
+
+mir ist noch ein wesentlicher kürzerer Beweis gegen die
+Widersprüchlichkeit des radikalen Fallibilismus eingefallen.
+
+Eine wichtige Anmerkung noch zum alten Beweis (den ich zum Vergleich
+unten noch einmal kopiere):
+
+Satz (8) W(p) - "Der Satz 'Kein Satz ist notwendig wahr' ist notwendig
+wahr" - folgt nicht wie irrtümlich gesagt aus (7) p, sondern aus (5)
+~p -> p ("Wenn es einen notwendig wahren Satz gibt, dann gibt es
+keinen notwendig wahren Satz"), zuzüglich der stillschweigenden
+Prämisse, dass (5) W(p) impliziert.
+
+Mein kurzer Beweis besteht im Wesentlichen darin, Satz (5) als Axiom
+zu rekonstruieren, das der Fallibilist schon voraussetzt, wenn er vom
+Antifallibilisten verlangt, ihm als Gegenbeweis einen notwendig wahren
+Satz zu präsentieren. Auf die anderen Axiome kann dann verzichtet
+werden, nicht einmal das Prädikat W(x) wird mehr nötig sein.
+
+###Kurzer Beweis für die Selbstwidersprüchlichkeit des radikalen
+Fallibilismus###
+
+p sei der Satz: "Kein Satz ist notwendig wahr."
+(Radikaler Fallibilismus) (oder: "Es gibt kein sicheres Wissen.")
+
+~p ist demzufolge: "Mindestens ein Satz ist notwendig wah.r"
+(Anti-Fallibilismus) (oder: "Es gibt sicheres Wissen.")
+
+Der radikale Fallibilist behauptet, bislang habe ihm noch niemand
+einen notwendig wahren Satz ("sichere Erkenntnis", "Wissen über das
+Sein des Seins" etc.) präsentieren können. Er würde seinen
+Fallibilismus jedoch dann aufgeben, wenn ihm ein solcher Satz (bzw.
+"sicheres Wissen" gezeigt werden könnte.
+
+Da der Fallibilist behauptet, dass sein Satz nicht notwendig wahr,
+also prinzipiell widerlegbar sei, muß er zumindest die theoretische
+Möglichkeit von notwendig wahren Sätzen einräumen. Gibt es tatsächlich
+notwendig wahre Sätze, dann darf insbesondere daraus nicht geschlossen
+werden dürfen, dass es _keine_ notwendig wahren Sätze gibt. Es soll
+also verhindert werden, dass der Fallibilist auch dann Recht hat, wenn
+er nicht Recht hat. 
+
+Die Implikation
+
+~p -> p
+
+wäre zwar unter der Voraussetzung gültig, dass ~p falsch ist. Aber
+eben das, die Falschheit der Gegenposition, darf der Fallibilist nicht
+logisch voraussetzen. Er räumt ja - siehe oben - die _M�glichkeit_ von
+notwendig wahren Sätzen ein. Würde er das nicht, wäre er auch kein
+Fallibilist mehr. Seine Position wäre selbstimmun.
+
+Die Position des Fallibilisten kann deshalb mit folgenden beiden
+Sätzen wiedergegeben werden:
+
+(1) p 	(These des Fallibilisten)
+(2) ~(~p ->p)	(Erfordernis der prinzipiellen Falsifizierbarkeit des
+Fallibilismus)	
+
+übersetzt: Es darf nicht der Fall sein, dass aus der Existenz
+mindestens eines notwendig wahren Satzes folgt, dass kein Satz
+notwendig wahr ist.
+
+Eine Implikation ist nämlich dann falsch, wenn der Vordersatz wahr und
+der Nachsatz falsch ist. Technisch: ~(p -> q) <=> (p & ~q)
+
+Die logische Umformung von (2) führt zu einer überraschenden und
+dramatischen Konsequenz: 
+
+(3) ~p & ~p	(Implikationsregel, aus 2)
+(4) ~p		(Konjunktionsreduktion, aus 3)
+
+Und das ist starker Tobak! Die Aussage (2)des Fallibilisten, dass der
+Fallibilismus selbst fallibel ist, ist Äquivalent zur Aussage (4),
+dass der Fallibilismus falsch ist!
+
+Jeder Fallibilist, der behauptet, sein Fallibilismus sei eine
+widerlegbare Hypothese (2), gibt also implizit zu, dass der
+Fallibilismus (1) falsch ist. Somit widerspricht er sich selbst. p muß
+falsch sein, daher ist ~p richtig.
+
+###ENDE DES BEWEISES###
+
+
+Was haltet ihr von diesem Kurzbeweis in 4 Sätzen? Ist er nicht
+elegant? ;-)
+
+Größe,
+Hinderk
+
+
+-----------------------------------------------------
+
+
+###Beweis für die Selbstwidersprüchlichkeit des radikalen
+Fallibilismus###
+
+Zunächst folgende terminologische Festlegungen:
+
+Sätze können _notwendig_ wahr sein oder nur _empirisch_ wahr
+(kontingent wahr). Statt "empirisch wahr" kann man auch "gültig" bzw.
+"zeitkernig gültig" sagen. Insbesondere der Fallibilist hält seine
+eigenen Sätze für nur empirisch wahr.
+
+Da der Fallibilist in eine Argumentation mit dem Antifallibilisten
+tritt, muß er seine Sätze zumindest für empirisch wahr ("gültig")
+halten. Und da der Fallibilist seine Position aufgegeben würde, wenn
+ihm der Antifallibilist einen notwendig wahren Satz zeigen würde, muß
+er zumindest die theoretische Möglichkeit von notwendig wahren Sätzen
+anerkennen.
+
+W(x) heiße: "Satz x ist notwendig wahr" (a priori wahr,
+letztbegründet, sicheres Wissen etc.)
+
+~W(x) heiße: "Satz x ist nicht notwendig wahr" (a
+posteriori/kontingent/empirisch wahr, "nur zeitkernig gültig" etc.)
+
+(Ein Prädikat für "x ist notwendig falsch" benötigen wir nicht, da die
+Aussage synonym zu W(~x) ist.)
+
+p sei der Satz: "Kein Satz ist notwendig wahr." (Radikaler
+Fallibilismus)
+~p ist demzufolge: "Mindestens ein Satz ist notwendig wahr"
+(Anti-Fallibilismus)
+
+Es gelten folgende Axiome, auf die sich Fallibilist und
+Antifallibilist einigen können:
+
+(A1)  ~p -> W(~p)
+(A1') ~W(~p) -> p
+(A2)  p -> ~W(p)
+(A2') W(p) -> ~p
+
+Erläuterung:
+
+ad (A1): Wenn mindestens ein Satz notwendig wahr ist (= ~p), dann ist
+auch der Satz "Mindestens ein Satz ist notwendig wahr" notwendig wahr
+(= W(~p)). Anders ausgedrückt: Wenn es Sätze gibt, die unter keinen
+Umständen widerlegt werden können, dann kann auch der Satz, der diesen
+Sachverhalt ausdrückt, unter keinen Umständen widerlegt werden.
+
+Die Umkehrung dieses Satzes per Modus Tollens ergibt (A1'): Wenn der
+Satz des Anti-Fallibilisten (~p) nicht notwendig wahr ist (~W(~p),
+dann hat der Fallibilist recht (p).
+
+ad (A2): Aus dem Satz "Es gibt keine notwendig wahren Sätze" folgt,
+dass auch dieser Satz selbst nicht notwendig wahr ist.
+
+Die Umkehrung durch Modus Tollens ergibt (A2'): Wenn der Satz des
+Fallibilisten (p) notwendig wahr wäre (W(p)), dann wäre er falsch und
+der Antifallibilist hätte recht (~p).
+
+Jetzt können wir die Konsistenz des radikalen Fallibilismus
+untersuchen:
+
+(1) p   (These des radikalen Fallibilisten)
+(2) Für alle x gilt: x -> ~W(x) (Explikation des Inhaltes von 1)
+(3) ~p -> ~W(~p)   (Einsetzung von ~p in 2)
+(4) ~W(~p) -> p   (= A1')
+(5) ~p -> p   (Hypothetischer Syllogismus, aus 3 und 4)
+
+Erläuterung:
+
+ad (2) Wenn x ein Satz ist, dann ist er nicht notwendig wahr.
+ad (3) Deshalb ist auch der Satz des Anti-Fallibilisten nicht
+notwendig wahr.
+
+Satz (5) ist überraschend, führt aber zu keiner logischen Inkonsistenz
+beim Fallibilisten. Er besagt: "Wenn mindestens ein Satz notwendig
+wahr ist, dann ist kein Satz notwendig wahr." Ein Konditional ist
+genau dann wahr, wenn entweder der Vordersatz falsch ist oder der
+Hintersatz wahr ist (= Regel der Materialen Implikation). Daraus
+ergibt sich:
+
+(6) p v p (Materiale Impl., aus 5)
+
+und aufgrund der Tautologie-Regeln:
+
+(7=1) p (Tautologie, aus 6)
+
+Der Fallibilist könnte jetzt jubeln - ihm konnte bislang kein
+Widerspruch nachgewiesen werden, seine Argumentation ist noch
+konsistent.
+
+Aber Satz (5) weckt massive Zweifel an der argumentativen
+Aufrichtigkeit des Fallibilisten. Er hat ja behauptet, dass sein
+Fallibilismus dann widerlegt sei, wenn ihm endlich ein notwendig
+wahrer Satz präsentiert würde. Nun zwingt ihn seine Logik aber zur
+Behauptung (5), dass er sogar dann, wenn er nicht recht hätte (~p),
+trotzdem recht hätte (p)!
+
+Mit anderen Worten: Der radikale Fallibilismus kann _unter keinen
+Umständen widerlegt werden, der Fallibilist hat _immer Recht_! Selbst
+wenn ihm eine sichere Erkenntnis präsentiert würde und sogar ihm ihre
+absolute Wahrheit evident wäre, müßte er messerscharf schließen, dass
+sie nicht notwendig wahr wäre. Und das führt leider zu der ihm äußerst
+unbequemen Schlußfolgerung, dass sein Satz "Kein Satz ist notwendig
+wahr" ein notwendig wahrer, a priorischer, durch kein empirisches
+Faktum widerlegbarer Satz ist. Daher folgt aus (7):
+
+(8) W(p) ("Der Fallibilist hat immer Recht.")
+
+Wir können weitergehen:
+
+(9) W(p) -> ~p (= A2)
+(10) ~p
+
+Jetzt haben wir eine faustdicke Kontradiktion zu (7) bzw. (1)! Der
+Fallibilist ist gezwungen, auf ~p zu schließen. Da der Fallibilist p
+angenommen hat (1), ergibt sich per reductio ad absurdum, dass ~p
+richtig ist.
+
+Und aus (A1), das hier als (11) wiederholt wird
+
+(11) ~p -> W(~p) (=A1)
+
+folgt außerdem:
+
+(12) W(~p) (Modus Ponens, aus 10 und 11)
+
+D.h., der Satz "Mindestens ein Satz ist notwendig wahr" ist notwendig
+wahr. Damit kann jetzt der notwendig wahre Satz präsentiert werden,
+den der radikale Fallibilist als Falsifikationskriterium verlangt hat.
+Wenn er konsequent ist, muß er seinen radikalen Fallibilismus
+aufgeben.
+
+###ENDE DES BEWEISES###

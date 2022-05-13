@@ -1,0 +1,40 @@
+Hallo Freunde der Weisheit,
+
+habe hier ein Problem der Übersetzung von Umgangssprache in logische 
+Ausdrücke (hoffe, dass ist in dieser NG nicht OT):
+
+Und zwar heißt es in dem Aufsatz "Ist gerechtfertigte, wahre Meinung 
+Wissen?" von M. Herberg :
+
+"Nehmen wir an, [...] Thevs habe starke Evidenz für folgende Konjunktion:
+
+(d) Mennekes ist derjenige, der die Stelle erhalten wird, und Mennekes hat 
+zehn Münzen in seiner Hosentasche
+
+[...] aus (d) folgt:
+
+(e) Derjenige, der die Stelle erhalten wird, hat zehn Münzen in seiner 
+Hosentasche"
+
+wie muss die Übersetzung der Sätze (d) und (e) in logische Ausdrücke 
+aussehen?
+
+Ich habe mir gedacht:
+
+(d) A(J).B(J)
+
+(A(.) = . erhält die Stelle, B(.) = . hat zehn Münzen in seiner Tasche)
+
+(e) (x)(A(x) --> B(x))
+
+
+oder muss es heißen: (e) E_x(A(x) --> B(X))?
+
+In dem Aufsatz heißt es weiter: "Thevs sieht, dass (e) aus (d) folgt"
+aber (A(J).B(J))-->((x) (A(x) --> B(x)) ) gilt doch garnicht, oder?
+
+Es wäre nett, wenn jemand mir bei der Lösung des Problems behilflich 
+sein könnte.
+
+Vielen Dank im voraus
+Mathäus

@@ -1,0 +1,36 @@
+Nur damit jetzt hier keine Verwirrung entsteht:
+
+	"0,000...0001" ist ein *sinnloser* Ausdruck. 
+
+	(Weil nicht definiert. Zumindest nicht als eine Darstellung
+	 einer reellen Zahl.)
+
+Das sollte sogar einem Schüler- und/oder Laien erklärt werden können,
+m.E. - insofern war euer Lehrer nicht gerade sonderlich "auf Zack"!
+(Er mag natürlich andere, pädagogische, Qualitäten gehabt haben.)
+
+Das versteh ICH jetzt wiederum nicht. :-) 
+
+Merke:
+
+	1 - 0,999... ist NICHT 0,000...0001 (!)
+
+(aus dem nämlichen, oben angeführten Grunde.)
+
+Wohl aber kann man schreiben:
+
+	1 - 0,999... = 0,000...
+
+oder einfach nur
+
+	1 - 0,999... = 0.
+
+Was man auch umformen kann zu
+
+	1 = 0.999... 
+
+(Womit wir wieder einmal bei einer viel gestellten Frage wären.
+ Oder besser: der Antwort auf diese.)
+
+
+F.

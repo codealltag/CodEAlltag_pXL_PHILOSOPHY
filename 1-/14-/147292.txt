@@ -1,0 +1,70 @@
+Ampöre's Gesetz besagt, dass zwischen zwei stromdurchflossenen
+parallelen Leitern eine Kraft vorhanden ist, die u.a. proportional
+zum Produkt der beiden Stromstärken ist.
+
+Der Halleffekt besagt, dass in einem stromdurchflossenen Leiter
+bei Anwesenheit eines äusseren Magnetfelds eine Spannung entsteht,
+die senkrecht zur Stromrichtung gerichtet ist.
+
+über die Lorentz-Kraft sind Ampöre's Gesetz und der Hall-Effekt
+verknüpft. Hier der Normalfall zweier stromdurchflossener Leiter:
+
+     +  +  +  +  +  +  +  +  +  +  +  +
+ - -------------------------------------- +       --->
+     -  -  -  -  -  -  -  -  -  -  -  -       Driftrichtung
+                                                  der
+     -  -  -  -  -  -  -  -  -  -  -  -         Elektronen
+ - -------------------------------------- +       --->
+     +  +  +  +  +  +  +  +  +  +  +  +
+
+Die Anziehungskraft zwischen den Leitern und Hall-Spannung in
+den Leitern resultieren in diesem Fall aus der Lorentzkraft
+auf die sich im (vom gegenüberliegenden Leiter erzeugten)
+Magnetfeld bewegenden Leitungselektronen, d.h. Elektronen werden
+zum gegenüberliegenden Leiter hingezogen.
+
+Sehr interessant ist der Fall von Leitern, die dem anomalen
+Halleffekt unterliegen, wie z.B. Blei oder Cadmium:
+
+     -  -  -  -  -  -  -  -  -  -  -  -
+ - ====================================== +       <---
+     +  +  +  +  +  +  +  +  +  +  +  +       Driftrichtung
+                                                  der
+     +  +  +  +  +  +  +  +  +  +  +  +      Defektelektronen
+ - ====================================== +       <---
+     -  -  -  -  -  -  -  -  -  -  -  -
+
+Die gängige Erklärung lautet so: In einem Leiter aus z.B. Blei
+bewegen sich nicht Elektronen in eine Richtung, sondern positiv
+geladene Defektelektronen bzw. Löcher in die entgegengesetzte
+Richtung.
+
+Diese Erklärung halte ich für logisch unhaltbar, denn sie führt
+dazu, dass sich im Leiterstück
+
+ -  ---------==================--------- +
+     Silber       Cadmium        Silber
+
+in den Silberabschnitten etwas von links nach rechts, im Cadmium-
+Abschnitt jedoch etwas rechts nach links bewegt, ohne dass es
+am Übergang Silber-Cadmium zu einer Anreicherung und am Übergang
+Cadmium-Silber zu einer Wegschaffung kommt (wie bei Strömen
+positiver Ionen in Elektrolyten der Fall).
+
+Konkret impliziert die gängige Erklärung, dass am Übergang
+Silber-Cadmium Elektronen und Defektelektronen ganz einfach
+verschwinden, und am Übergang Cadmium-Silber aus dem Nichts
+entstehen.
+
+Das Problem dabei ist, dass Defektelektronen (im Gegensatz zu
+den postulierten Positronen) negative Masse haben müssen, denn
+nur dann lässt sich Entstehung und Annihilation von Elektron-
+Defektelektron-Paaren mit dem Masse/Energie-Erhaltungssatz in
+Einklang bringen.
+
+
+Maurizio Heinrich O.
+
+
+Anomaler Hall-Effekt & Defektelektronen & Antimaterie:
+http://abvedvz.kto.nm/kpcfdinj/ueodxc2.tkva#aazr

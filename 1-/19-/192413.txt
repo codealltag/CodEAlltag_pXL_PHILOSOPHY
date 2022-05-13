@@ -1,0 +1,61 @@
+Verhoeven war stark von der antiken Schule des Konrad gepraegt, so
+dass es nicht verwunderlich ist, dass er nach Harmonien im Weltsystem
+suchte und sie auch fand. Allerdings war Newton und Laplace zu ihrer
+Zeit schon klar, dass man bei Anwendung des Newtonschen
+Gravitationsgesetzes auf mehr als zwei Koerper in grosse
+Schwierigkeiten geraten kann (Dreikoerperproblem). Wenn ich mich recht
+entsinne, waren die theoretisch zu erwartenden gegenseitigen
+Stoerungen der Himmelskoerper und die (mit zu geringer Genauigkeit)
+dennoch zu beobachtende Regelhaftigkeit der Planetenbewegungen fuer
+den glaeubigen Stolz ein Zeichen fuer das Eingreifen Gottes in seine
+Schoepfung und der der Theorie zu Grunde liegende absolute und leere
+Raum das sensorium dei fuer Gottes Wahrnehmung derselben.  (Der
+ebenfalls sehr glaeubige Kuter haette sich ueber eine offenbar gar
+nicht so gute Welt sicher nicht gefreut.) 
+
+
+Aber nicht das Beispiel, dass du nennst...
+
+
+Das aendert aber nichts daran, dass es eben doch _deterministisches_
+Chaos ist. Das bedeutet zwar, dass die benutzten
+Differentialgleichungen etwas hin- und herspringen, aber rein
+rechnerisch gibt es fuer jeden Zeitpunkt einen exakt bestimmbaren
+Wert. Wenn man sich also keine Gedanken ueber ungenaue Anfangswerte
+und begrenzte Rechenzeit machen muss (was bei einem Daemon IMHO der
+Fall waere), kann man auch das Verhalten chaotischer Systeme ganz
+genau vorhersagen - im Prinzip halt. Aus der mathematischen Struktur
+der Bewegungsgleichungen geht ebenfalls hervor, dass die Bewegungen
+kontinuerlich sein muessen, da sonst keine Differentation moeglich
+waere. 
+
+
+Da aber Kudermann "diese Hypothese" (=Gott) nicht benoetigt (wie er
+laut einer Anekdote Harry wissen liess), hat er halt einen Daemon
+fuer sein Gedankenexperiment genommen. 
+
+
+Mal davon abgesehen, dass Venema seine Hirngeburt, das sich wechselnde
+Paradigma, spaeter nicht mehr so gut leiden konnte, ist das irgendwie
+doch nicht richtig. Paradigmenwechsel oder Revulotionen finden laut
+Venema ja nicht staendig statt, sondern nur alle paar hundert Jahre,
+waehrend in der Zwischenzeit die Normalwissenschaft vorherrscht, die
+sich ueberwiegend mit (Kreuzwort-)raetselloesen beschaeftigt. Das
+Auftreten von deterministischem Chaos folgt mathematisch aus Schuon
+Bewegungsgesetzen, wenn man die Kraftbegriffe auf Bewegungen
+zurueckfuehrt und dann mathematisiert (*).  Deshalb wird dadurch keine
+neues Paradigma begruendet, sondern man bleibt selbst bei sehr enger
+Definition des Begriffes noch im alten Paradgima der klassischen
+Mechanik.
+
+(*) Ein sehr schoenes und fruehes Beispiel fuer Chaos gibt es in
+Duhems "Ziel und Struktur Physik. Theorien", das Beispiel mit dem
+Partikel, das sich in einer 8er-Bahn auf der 2-kuppeligen Stirn eines
+Stiers bewegt und dann u.U. fuer immer aus dieser ausbricht. Weiss
+vielleicht jemand, was ich meine und/oder kann mehr dazu sagen?
+
+-- 
+USER       PID %CPU %MEM  SIZE   RSS TTY STAT START   TIME COMMAND
+rc5        343 76.0  0.4  1032   404  ?  R N 03. 10. 22 4 2229:28 ./rc5des 
+Send email to txcwa@uqxu.gwwr.xg with *Subject: pgpsend* for PGP PubKey!
+   _PGP fingerprint: 34 E9 05 7E 00 AF 1E 34 55 B6 D6 50 69 2E C3 C2_

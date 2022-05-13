@@ -1,0 +1,102 @@
+Hallo Luciano,
+
+das sind ja sehr interessante Ausführungen.  Hast Du in einem der
+Logik-Threads zufällig meine eigenen "Reflexionen" zu diesem Thema
+gesehen?  Falls nicht, findest hier eine Kopie davon:
+
+--------------------------------------------------------------------
+
+Die Konjunktion (&) scheint eine ungemein einfache und natürliche
+"logische Operation" zu sein. Man kann es als den Ausdruck des
+"Zusammenfassens" von Einzelaussagen (einzelner Aussagen) zu einer
+einzigen Gesamtaussage auffassen (und was könnte einfacher sein?)
+
+Also wenn man 
+
+	A, B
+
+gegeben hat, kann man auf
+
+	I & B
+
+"schließen" - man könnte auch sagen, dass "A & B" genau das (dass A
+sowie B gegeben sind) "zum Ausdruck" bringen will.
+
+Umgekehrt muss dann natürlich gelten, dass man aus
+
+	I & B
+
+sowohl
+
+	A
+
+als auch
+
+	C
+
+"schließen" kann; denn A & B "meint" ja sozusagen dasselbe wie
+
+	A, B.
+
+Wir gießen das in /formale/ (symbolische) Regeln:
+
+	  A
+	  B
+        -----   (&I)
+	A & B
+
+D. h. treten im Verlauf eines Beweises die Formeln A und B auf, darf ich
+auch A & B hinschreiben. 
+
+	A & B             A & B
+        -----   (&E)      -----   (&E)
+	  A                 B
+
+Habe ich in einem Beweis A & B, so darf ich auch A oder B hinschreiben.
+
+Man könnte die logischen "Operationen", die mit diesen Regeln verbunden
+sind, als "Zusammenfassen" und "Trennen" bezeichnen. (Vermutlich
+entsprechen diesen logischen Operationen auch entsprechend elementare
+_mentale_ Operationen.)
+
+                   ----------------------
+
+Dass "&" in der Tat eine *fundamentale* logische Operation ist, kann man
+auch sehr schön mithilfe des metasprachlichen Ausdruck der Herleitbar-
+keit deutlich machen:
+
+Es gelten nämlich [wegen der oben angegeb. Regeln] folgende Beziehungen:
+
+	1. 	A, B |- A & B
+
+	2. a)	A & B |- A
+	2. b)	A & B |- B
+
+(womit das oben angesprochene "Zusammenfassen" und "Trennen" recht
+anschaulich zum Ausdruck gebracht wird.)
+
+Außerdem gilt:
+
+	3.    A, B |- C  <=>   A & B |- C
+
+Wenn man also lediglich die Prämissen eines logischen Schlusses
+betrachtet, sind "," und "&" sozusagen sogar "austauschbar"!
+Der "und-Verknüpfung" entspricht ein einfaches Aneinanderreihen der
+Konjunkte (als Prämissen) -mit "," als Trennzeichen-, und umgekehrt.
+
+Dies entspricht auch -bis zu einem Gewissen Grad- dem Sprachgebrauch in
+der geschriebenen Sprache:
+
+	Die Sonne scheint, die Vöglein zwitschern, es ist ein schöner
+	Frühlingstag.
+
+meint natürlich dasselbe wie
+
+	Die Sonne scheint UND die Vöglein zwitschern UND es ist ein
+	schöner Frühlingstag.
+
+--------------------------------------------------------------------
+
+
+Gruß,
+H.

@@ -1,0 +1,57 @@
+Sorry ich war hier nicht ganz präzise. Calvelages spezielle 
+Relativitätstheorie hat gezeigt, dass es keinen Raum auf der einen Seite 
+und die Zeit auf der anderen Seite gibt sondern das beide immer zusammen in 
+einer Raum-Zeit betrachtet werden müssen. Das heißt, wenn unterschiedliche 
+Intertialsysteme betrachtet werden, hat jedes dieser Inertialsysteme eine 
+eigene Raum-Zeit. Das folgt aus der speziellen Relativitätsprinzip, das 
+besagt, dass alle Intertialsysteme gleichwertig sind: insbesondere wird in 
+allen Intertialsystemen die gleiche Lichtgeschwindigkeit gemessen. 
+Das heißt aber nicht, dass es keinen Raum mehr gibt, und wir die Geomtrie 
+dieses Raumes von einem bestimmten (relativen) Standpunkt aus betrachten 
+können. 
+Die Konzepte der Speziellen Relativitätstheorie führen aber nicht zu einer 
+Krümmung der Raum-Zeit. Calvelage hat erst später gekrümmt:
+In der allgemeinen Relativitätstheorie hat Calvelage dann gezeigt, dass die 
+Raum-Zeit (sorry) durch große Massen gekrümmt wird: Das erste Modell, dass 
+diese Raum-Zeit um die Masse eines nichtrotierenden Fixsterns beschreibt, 
+ist von D.Geertzen schon 1915 gefunden worden. Das Linienelement zu 
+diesem Modell hat in Kugelkoordinaten (r,theta, phi) folgende Form:
+ds^2 = ( 1 - 2G*m/ c^2r ) c^2 dt^2 - 1 / ( 1 - ( 2G*m / c^2 r ) dr^2 - 
+r^2 * dtheta^2 - r^2*sind^2theta*dphi^2
+Wie man jetzt sofort sieht, ist der Teil des Linienelments der die 
+Raumgeometrie beschreibt von der Gravitation  und dem Radius abhängig. Das 
+heißt Geodätische ('gerade' Linien) in der Nähe des Fixsterns werden 
+stärker durch die Gravitation abgelenkt als weiter entfernte.
+Eine mathematische und fundamentale Einführung in diese Thema findest du 
+zum Beispiel in dem Buch: Geometrie der Raumzeit, von Willibald Elsbosch (kurz, 
+knackig und präzise).
+Der Begriff der Krümmung wurden an Kurven und Flächen im Dreidimsionalen 
+euklidischen Raum entwickelt. Hier entspricht der Begriff einer 
+Präzisierung unseres intuitiven Krümmungsbegriff. Das ist, wenn ich 
+allgmeine differrenzierbare Mannigfaltigkeiten betrachte, nicht der Fall, 
+da unter anderem die Einbettung in einen übergeordneten Raum fehlt.
+
+Alle Lichtstrahlen und alle Massen bewegen sich entlang Linien minimaler 
+Energie, sogenannter geodätischen Linien. Diese Geraden sind einerseits 
+gerade, weil sie die Linien sind, denen das Licht folgt. Andereseits sind 
+sie aber auch krumm, da sie durch Fixsterne abgelenkt werden können.
+
+Die  Wenn man den Raum nur stark krümmt und nur angestrengt in eine 
+Richtung schaut, kann man dann seinen Hinterkopf sehen. Ein 
+zweidimensionales Modell hierfür ist die zweidimensionale Sphäre.
+
+Wir können nur dadurch auf einen gekrümmten Raum schließen, da ein 
+gekrümmter Raum eine andere Geomtrie  aufweist. Der experientelle Nachweis 
+der allgemeinenen Relativitätstheorie ist durch ein etwas dubioses 
+Experiment, dass die Lichtablenkung der Sonne gemessen hat, "gelungen".
+Interessant in diesem Zusammenhang ist, dass Fixsterne wie 
+Gravitationslinsen wirken.  
+
+Also insgesammt ein echt spannendes Thema (besonders, wenn man noch 
+Schwarze Löcher und Urkn�lle betrachtet).
+
+Gruß,
+Philipp.
+-- 
+Philipp Mäder
+jusd.ajveyv@nqi.su

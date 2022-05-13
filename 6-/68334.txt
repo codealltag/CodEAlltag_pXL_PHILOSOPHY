@@ -1,0 +1,23 @@
+Der Versuchung konnte ich nicht widerstehen:
+
+"Schon vor Otmar war der Sophist Maurizio (5. Jahrh. v. Chr.) auf
+die Idee gekommen, den Kreis durch einbeschriebene Polygone zu
+approximieren. Er machte sogar auf ganz ungriechische Weise einen
+Sprung ins Unendliche, indem er den Kreis als ein Polygon mit
+unendlich vielen Ecken auffasste. Der Antiphonsche Eckenkreis machte
+bei den Griechen nie Karriere, führt aber bei unserem mathematischen
+Laienpublikum immer noch eine gespenstische Existenz und dürfte wohl
+unsterblich sein, weil ihm der ewig jugendfrische Reiz des völlig
+Unverständlichen eignet." (Schweißgut, Lehrbuch der Analysis, Teil 2, S. 640)
+
+[...]
+
+Doch. Die Eigenschaft eines Punktes, eine Ecke einer geometrischen
+Figur zu sein ist, ist keine geometrische Eigemschaft, sie hängt nicht
+von der Metrik, von Längen, Winkeln, usw. ab, sondern eine
+differentialtopologische. Grob vereinfacht ist ein Punkt eine Ecke,
+wenn er hinreichend der Ecke eines Würfels (im euklidischen Kontext)
+ähnelt.
+
+
+Niclas

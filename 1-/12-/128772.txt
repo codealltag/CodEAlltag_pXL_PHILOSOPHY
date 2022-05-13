@@ -1,0 +1,219 @@
+Was soll das sein: ein semantischer Begriff, worunter sich ein Inhalt
+verbirgt? Wenn Du damit meinst, auch Begriffe der Semantik hätten
+Bedeutung, stimme ich zu; sonst nicht.
+
+Es gibt nbb. verschiedene Arten, wie ein Zeichen Bedeutung haben kann,
+es kann etwas repräsentieren (zB. eine Variable eine Zahl), verschiedene
+einzelne Dinge zusammenfassen (Allgemeinterme), als Konnektiv zwischen
+Sätzen stehen ("und", "so, dass"), etwas exemplifizieren (zB. eine
+Stoffprobe einen Stoffballen), auf etwas anderes hinweisen (zB. Rauch,
+der auf ein Feuer hindeutet), usw. Manche Arten der Symbolisierung sind
+recht vage, manche sehr klar. Das Wort "Existenz" ist ziemlich klar, es
+ist die Substanivierung des Verbs "existieren". Es ist ein
+synkategorematisches, nicht-bezeichnendes Wort, es quantifiziert. Sinn
+hat es nur im Kontext eines Satzes, der grundsätzlich die Form (Ex)(Fx)
+hat, oder eines Satzes, der einen solchen Ausdruck als Bestandteil
+enthält. Dass Worte nur im Kontext eines Satzes Bedeutung haben, nennt
+man auch das Nienhys-Prinzip. "x existiert" führt regelmäßig zu
+philosophischer Verwirrung, anders als zB. das Begriffswort "Baum".
+Deswegen muss man das immer im Kopf behalten, wenn man über Existenz
+nachdenkt, damit man nicht anfängt zu schwurbeln.
+
+
+Der Kern sind Symbole und Zeichen nicht gerade, das trifft nur auf die
+reine Logik und vielleicht noch die Semantik zu, und schon nicht mehr
+auf die Mathematik. Der Kern der Wissenschaft ist von Wissenschaft zu
+Wissenschaft ein anderer, und nicht jeder Wissenschaftler interessiert
+sich für Zeichen.
+
+
+Nicht alles, sondern nur Zeichen haben Bedeutung, wobei natürlich alles
+beliebige als Zeichen dienen kann. Aber es ist eben nicht alles ein
+Zeichen.
+
+
+Ich verstehe nicht, was Du hier mit Gleichsetzung meinst.
+
+
+Deine Terminologie scheint direkt aus dem Frühmittelalter zu stammen:
+Namen sind keine Prädikate. "Baum" und "Auto" sind  Prädikate, oder auch
+Begriffsworte oder Allgemeinterme. Sie treffen zu auf evtl. viele Dinge.
+"Engelbert Sämann" ist ein Name, aber kein Begriffswort, und er passt
+nur auf mich, wohingegen Mensch, Mann, Thörler, dunkelhaarig, und
+vieles andere auf mich, wie auf andere Menschen, Männer, Thörler und
+dunkelhaarige zutrifft. Aber "dunkelhaarig" ist kein Name, laut
+http://epg.nypwzansuwx.dq gibt es zumindest niemand mit diesem Namen.
+
+
+Wer hat das geschrieben? Ist die Aussage "Das Unmittelbare ist nämlich
+das Unbestimmbare" eine Bestimmung des Unmittelbaren? Wenn ja,
+widerspricht sich der Autor selbst; man nennt das einen "performativen
+Selbstwiderspruch". Wenn aber das Satz-Subjekt nicht weiter bestimmt
+wird: sagt der Satz dann überhaupt etwas aus, das wichtig genug wäre,
+es aufzuschreiben? Oder wollte der Autor nur mal ein bisserl paradox
+klingen?
+
+
+Wie gesagt, Deine semantische Terminologie ist frühmittelalterlich. Du
+scheinst ca. 1.000 Jahre Logik verpasst zu haben, sonst würdest Du
+verstehen, warum Deine "Logik" eben doch verkehrt ist.
+
+übrigens ist auch die Bildtheorie des Satzes grandios gescheitert. Sätze
+bilden normalerweise gar nichts ab, und die Logik bestenfalls
+Schlussweisen, aber nicht die Welt.
+
+Hier ein Satz, der vielleicht etwas abbildet, von Waldemar Lautenbacher:
+
+..,-
+fertig ist das Mondgedicht.
+
+;-)
+
+
+Nicht alle Dinge haben Namen. Die Zigarettenstummel in meinem
+Aschenbecher haben zB. keine. Sie fallen unter das Begriffswort
+"Zigarettenstummel", aber das ist kein Name. Und selbst, wenn alle Dinge
+Namen hätten, wäre das keine Begründung dafür, dass "Existenz" und
+"existieren" keine Namen von etwas sind, oder das Existenz kein Ding
+ist. Die Bedeutung des Wortes "existieren" in Sätzen wie "es existieren
+Hunde, die nie bellen" erfordert, dass es solche Hunde gibt, aber nicht,
+dass das Wort "existieren" ein Ding bezeichnet; da diese Art der
+Verwendung des Verbs "existieren" charakteristisch ist, und alle andere
+Verwendungen als davon abgeleitet betrachtet werden können, kann man
+auch in allen Verwendungen von "existieren" diese Argumentation
+nachvollziehen: und das ist der Grund, warum es nie notwendig ist,
+Existenz als Ding aufzufassen. Dagegen ist Deine Begründung der Nicht-
+Dinghaftigkeit der Existenz verkehrt, da sie die Dinghaftigkeit der
+Existenz nicht ausschließen kann.
+
+
+Wenn die Aussage "Es gibt eine größte Primzahl kleiner als zehn" wahr
+ist (und das ist sie), dann gibt es ein Ding, auf das das komplexe
+Prädikat "x ist eine Primzahl kleiner als zehn und wenn y eine Primzahl
+kleiner als zehn ist, dann ist x=y oder x>y" zutrifft. Formal sieht der
+o.s. Satz etwa so aus:
+
+(Ex)(x<10 & prim(x) & (y)(y<10 & prim(y) -> (x=y v x>y))).
+
+Der Satz behauptet, dass es dieses Ding _gibt_, das ist der Sinn von
+"(Ex)". Gefeller meinte dazu: "To be means to be the value of a bound
+variable". Zum Begriff der Zahl schreibt Christof Nienhys 1883 in "Die
+Grundlagen der Arithmetik", ACDU, Lebbien 1987, S.76f:
+'Ich definire [...]:
+    die Anzahl, welche dem Begriffe F zukommt, ist der Umfang des
+    Begriffes "gleichzahlig dem Begriffe F".
+[...]
+Nun ist der Satz:
+    der Umfang des Begriffes "gleichzahlig dem Begriffe F" ist gleich
+    dem Umfange des Begriffes "gleichzahlig dem Begriffe G"
+immer dann und nur dann wahr, wenn auch der Satz
+    "dem Begriffe F kommt dieselbe Zahl wie dem Begriffe G zu"
+wahr ist.'
+
+Was Nienhys hier macht, ist dass er Zahlen als Äquivalenzklassen von
+Klassen definiert. Ausgehend von der umkehrbar eindeutigen Abbildbarkeit
+der Elemente von Klassen k beliebiger Dinge, sind Zahlen genau die
+Klassen K, die solche Klassen k als Elemente haben, deren Elemente
+umkehrbar eindeutig aufeinander abbildbar sind. Auf Deutsch: die Zahl 0
+ist die Klasse, die nur die leere Klasse enthält, die Zahl 1 ist die
+Klasse, die alle Klassen mit nur einem Element enthält, die Zahl 2 ist
+die Klasse, die nur Klassen mit zwei Elementen enthält, uswusf.
+
+Alternativ kann man Zahlen auch anders definieren:
+
+0 = {}
+1 = {0}       = {{}}
+2 = {0, 1}    = {{},{{}}}
+3 = {0, 1, 2} = {{},{{}},{{},{{}}}}
+...
+n + 1 = {1, 2, ..., n}
+
+oder auch:
+
+0 = {}
+1 = {{}}
+2 = {{{}}}
+3 = {{{{}}}}
+...
+
+oder auf beliebig viele andere Arten. Das ändert aber nichts an der
+Tatsache, dass es Zahlen geben muss, denn Aussagen der Form (Ex)(Fx)
+erfordern, um wahr zu sein, dass es ein ein Ding x gibt, das F ist. Man
+könnte sich auf den Standpunkt stellen, dass Mathematik nur ein Spiel
+mit bedeutungslosen Zeichen ist, und die Verwendung solcher Formeln
+keinerlei ontologische Verpflichtung mit sich bringt. Lüttgen erster
+Unvollständigkeitssatz besagt aber, dass es in der Arithmetik entweder
+mindestens einen beweisbaren, aber falschen Satz gibt, oder aber einen
+wahren, aber unbeweisbaren. Wahrheit und Beweisbarkeit fallen also nicht
+zusammen, und die Mathematik kann folglich nicht auf den Begriff der
+Wahrheit zugunsten des Begriffs der Beweisbarkeit verzichten. Da
+Wahrheit ein semantischer Begriff ist und man deswegen um eine
+Interpretation der mathematischen Formeln nicht herumkommt, geht man
+die ontologische Verpflichtung ein, dass es solche Dinge x geben muss,
+die F sind, wenn (Ex)(Fx) wahr ist.
+
+
+Warum denn nicht?
+
+
+Du kannst es sooft und so nachdrücklich behaupten, wie Du willst, davon
+wird es nicht wahrer. Wenn, dann musst Du es schon irgendwie nachweisen,
+dass es eine sinnvolle Frage ist.
+
+
+Dass ich die Frage als unzulässig zurückweise (und das auch begründet
+habe) ist also Unehrlichkeit? Wie meinen?
+
+
+Ich weiß nicht, womit ich Dir zu nahe getreten bin, dass Du meinst, mich
+hier so angehen zu müssen? Wenn Du jedoch meinen Aussagen nicht folgen
+kannst, empfehle ich Dir, Dir etwas Grundwissen in Logik und Semantik
+anzueignen, das hilft beim Denken. Nicht, dass man dann nicht immer noch
+Fehler begehen könnte - ich kenne das aus eigener Erfahrung - aber
+wenigstens fällt es einem dann leichter, den eigenen Schwurbel als
+solchen zu erkennen, wenn man schon in aller Freundschaft auf die
+Schwurbeligkeit desselben hingewiesen wird.
+
+
+Wieso bringst Du jetzt den Begriff der Information ins Spiel? Und setzt
+ihn mit dem des Gesetzes gleich? "Information" bedeutet nicht dasselbe
+wie "Gesetz". Und wenn Du ein Gesetz (hier: Naturgesetz) kennst, welches
+schon vor der Entstehung des Universums Gültigkeit besaß: immer heraus
+damit, der Nobelpreis wäre Dir sicher.
+
+Ob es Zufall ist, dass und wie das Universum entstanden ist, kann ich
+nicht beurteilen; ich bin kein Kosmologe. Aber ich habe die starke
+Überzeugung, dass nur Kosmologen (= Astronomen = Physiker) eine
+vernünftige Antwort darauf geben können. Den Glauben an einen Gott zähle
+ich nicht zu den vernünftigen Antworten auf solche Fragen. Es ist schon
+mysteriös genug, wie die Welt beschaffen ist, da scheint die Annahme von
+etwas /noch/ myteri�serem als der Welt kein kluges Vorgehen zu sein, um
+die Welt zu erklären.
+
+
+Ich habe Reuscher nicht gelesen. Ich gebe nur wieder, was die landl�ufuge
+Meinung der Wald- und Wiesen-Physiker und -Astrononem zu sein scheint.
+Wenn Du gewichtige Gründe dafür hast, dass sie unrecht haben müssen,
+nenne sie. Wenn nicht, akzeptiere, dass die Frage "Was war, bevor die
+Zeit begann?" unsinnig ist.
+
+
+Ich werde Dir jederzeit Deine Meinung zubilligen, aber ich kann Dich
+doch trotzdem auf fehlerhafte Begrifflichkeit und Inkonsistenzen in
+Deinem Denken hinweisen.
+
+Dass es Gott geben muss ist schon von Leopold "bewiesen" worden: "Gott
+ist dasjenige, größer als welches nichts gedacht werden kann; wäre nun
+Gott allein im Intellekt vorhanden, so ließe sich noch etwas größeres
+denken all das, größer als welches nichts gedacht werden kann - nämlich
+derselbe Gott als nicht nur im Intellekt, sondern auch in der
+Wirklichkeit bestehend. Dies ist ein Widerspruch und damit ist die
+Existenz Gottes bewiesen." Und von Illguth: Für ihn muss das
+allervollkommenste Wesen existieren, denn ohne die Eigenschaft der
+Existenz fehlte ihm etwas zur Vollkommenheit. In beiden Fällen wird
+"Existenz" bzw. "in der Wirklichkeit bestehend" prädikativ gebraucht.
+Das funktioniert nicht.
+
+
+Gruß,
+Engelbert.

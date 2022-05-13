@@ -1,0 +1,94 @@
+Hier waere es praeziser gewesen zu sagen:
+Wenn es nur einen einzigen Weg zum Ausgang gibt, ohne dass ein
+Teilstueck, das bereits begangen wurde, zurueckgelaufen werden muss,...
+
+(Wenn ein identisches Teilstueck zurueckgelaufen werden muss, ist es
+kein neuer Weg,
+siehe auch weiter unten)
+
+
+Jedes Labyrinth ohne Schlaufe.
+
+
+Das Labyrinth
+
+          b-
+E---------a-----A
+          c-
+
+hat nur einen Weg vom Eingang zum Ausgang, aber einen
+Verzweigungsknoten.
+(E a b a A) ist fuer mich kein eigenstaendiger Weg, sonst wuerde auch
+folgendes gelten
+
+
+E--------a------A
+
+hat mehrerer Wege, naemlich (E a A), (E a E a A), ...
+
+
+Wenn man von E ausgehend die richtigen Abzweigungen nimmt, gibt es nur
+einen korrekten Weg zu A. Wird man hingegen im Labyrinth abgesetzt, dann
+reicht eine Schleife auf dem Weg vom Absetzpunkt zu A, damit die
+Bedingung nicht erfuellt ist. Es muss jedoch eine Schleife sein,
+Sackgassen oder weitere Verzweigungen reichen nicht. Sobald es eine
+Schleife gibt, gibt es mindestens zwei unterschiedliche, richtige Wege.
+
+Wenn Du nicht darauf hinauswolltest, habe ich die Frage nicht
+verstanden.
+
+
+Nein, ich hatte die Randbedingung fuer mein Loesung angegeben.
+Um zu Luegen, wird die Gesamtaussage negiert, die Teilaussagen fuer sich
+sind richtig.
+D.h. wenn negiert wird (gelogen), muss in jeder Teilfrage nach Luege,
+diese zugegeben werden.
+Unter dieser Praemisse liefert meine Frage die korrekte Antwort.
+Ich ging jedoch faelschlicherweise davon aus, dass der Weg von dem ich
+komme, nicht der richtige sein kann (ich dachte, das wuesste ich in dem
+Fall und wuerde nicht fragen).
+
+Eine andere Randbedingung waere, dass er in jeder Teilaussage fuer sich
+luegen kann oder nicht (eventuell kann er noch die Verknuepfung von
+Teilaussagen negieren - wenn ich in zweiwertiger Logik sage "(Ja oder
+Ja) ergibt nein", ist dies auch eine Luege).
+Mit diesen Randbedingungen fuehrt zumindest eine Frage, die auf
+zweiwertige Logik aufbaut und sich aus Teilausdruecken zusammensetzt,
+nicht zu einer Loesung. Da ganz offensichtlich keine algebraischen
+Regeln mehr gelten.
+
+Eine weiter Randbedingung koennte sein, dass wenn er luegt, er in jeder
+Teilaussage luegen muss, die Teilaussagen jedoch korrekt nach
+zweiwertiger Logik kombiniert werden muessen (d.h. in der Auswertung der
+Teilausdruecke darf nicht mehr gelogen werden)
+
+Wie denn nun?
+Das mit den kurzen Beinen glaube ich nicht mehr. Beim Luegen scheint man
+ganz schoen laufen zu muessen.
+
+...
+
+
+Wie gesagt, dazu muss man wissen, was es bedeutet, wenn einer "manchmal"
+luegt.
+
+[weitere Eroerterungen, die mit anderen Randbedingungen ebenfalls
+korrekt sind, geloescht]
+
+
+...
+
+
+Ich habe nicht die geringste Idee, wo das 3D herkommt (vermutl. eine
+Zeichensatzeinstellung), da sollte eigentlich nichts oder ein
+Leerzeichen stehen.
+
+Mit einem Smiley lasse ich es als fakultative Luege durch, andernfalls
+war es einfach als Schreibweise fuer eine Negation (bzw. Luege) gemeint.
+Mein Fehler, das haette ich zuvor definieren sollen.
+
+Rudi
+
+PS:
+Deine Mailadresse ist nicht gueltig, oder hast Du den Empfang
+deaktiviert?

@@ -1,0 +1,41 @@
+Also, jetzt wird's wieder überkompliziert. Identität der Mikroteilchen
+bedeutet schlicht, daß alle Hamiltonians von Vielteilchensystemen
+identischer Teilchen mit allen Permutationsoperatoren
+(Teilchenaustauschoperatoren) vertauschen, also die Permutationsgruppe
+stets Symmetriegruppe sein muß und also als Strahldarstellung
+realisiert sein muß.
+
+Es stellt sich heraus, daß unter sehr allgemeinen Annahmen über die
+Struktur der Raumzeit und der Wechselwirkungen der Teilchen nur zwei
+Realisierungen der Permutationsgruppe in der Natur vorkommen, wenn der
+Raum >=3-dimensional ist, nämlich die triviale Darstellung (Bosonen)
+und die alternierende (Fermionen). In 2 Dimensionen kann es Anyonen
+geben, aber darauf gehen wir mal nicht näher ein.
+
+Ein System aus zwei Teilchen wird also entweder durch die
+symmetrisierten oder die antisymmetrisierten
+Zweiteilchenproduktzust�nde erzeugt, d.h. ist |\alpha> eine
+Einteilchenbasis, dann bilden die Vektoren
+
+
+die Basis des Zweiteilchenraums.
+
+Analog geht's weiter mit der Dreiteilchenbasis etc.
+
+I.a. hat man es mit Systemen zu tun, in denen die Teilchenzahl nicht
+festgelegt und nicht erhalten ist. Dann gelangt man zum Fockraum, der
+die orthogonale Summe der entsprechenden N-Teilchenr�ume (N \in
+{0,1,2,...}) ist und die Beschreibung von Erzeugungs- und
+Vernichtungsprozessen zuläßt.
+
+Diese Beschreibung ist zur Quantenfeldtheorie Äquivalent.
+
+Dies und nichts anderes ist es, was man in der Physik unter Identität
+der Mikroteilchen versteht. Daran ändert noch nichts mal Verhaelen
+etwas ;-)).
+
+-- 
+Alwin Schlaeper                        Anefag 
+Phone: +4 825/308-4066                  Unterperasdorf University 
+Fax:   +7 891/662-1671                  Anefag, IF-7376
+http://jyorfa.lyq.xa/~ytwkdnr/          Amesbergerweg Station, UNTERMARREITH 02780-7087

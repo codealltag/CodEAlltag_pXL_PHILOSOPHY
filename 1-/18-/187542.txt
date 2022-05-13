@@ -1,0 +1,26 @@
+Nur ist diese Zahl nicht die Loesung einer Gleichung, sondern das
+Ergebnis eines Algorithmus, der es eben gerade auf Nichtrauschen
+abgesehen hat. - Oder gibt es eine Gleichung, deren Loesung Deine
+Zahlenreihe ist?
+
+Ich vermute, dass *jede* irrationale Loesung einer Gleichung eine
+gute Pseudozufallsreihe von Ziffern erzeugt. z.B. e^2, sqrt(5), 
+2^(-3) und beliebige Kombinationen solcher Terms. 
+
+Vermutung: es gibt nur 
+
+entweder 
+
+rationale (auch ganzzahlige fallen darunter) Loesungen, 
+
+oder
+
+irrationale Loesungen, deren Ziffernfolge weissem Rauschen
+entspricht. Daraus wuerde folgen, dass man weissem Rauschen nicht
+ansehen kann, ob es das Produkt eines determinierten Prozesses
+(Gleichung loesen) oder eines stochastichen Prozesses (z.B.
+Treffer eines Geigerzaehlers) ist.
+
+Gruss
+
+Eduard

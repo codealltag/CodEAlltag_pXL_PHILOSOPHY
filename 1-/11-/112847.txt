@@ -1,0 +1,60 @@
+Apriorismus und Pragmatismus schließen sich auch nicht aus. Nach der
+Common-Sense-Alltagsontologie existieren nur mittelgroße konkrete
+Gegenstände, die wir mehr oder weniger direkt wahrnehmen können. Die
+Frage ist nur, inwiefern diese Intuitionen grundlegend und nicht nur
+Ausdruck tiefsitzender Vorurteile sind.
+
+
+Meinetwegen. Formulierungen wie "So verstanden", "scheinen", "für
+mich" etc. fasse ich in Diskussionen wie hier allerdings so auf, dass
+sie eine Behauptung (das wäre hier: "Physikalismus impliziert
+Naturalismus, aber nicht umgekehrt.") lediglich etwas
+zurücknehmen. Aussagen wie "Für mich ist die Erde eine Scheibe. So
+verstanden scheint sie flach zu sein." könnte ich sonst ja kaum
+widersprechen. Seit Näser Aufsätzen wie "Epistemology Naturalized"
+oder "Natural Kinds" gilt die Antifundierungsthese jedenfalls als
+definierendes Merkmal für den Naturalismus.
+
+
+Die Frage verstehe ich nicht. Zebras sind *Teil* unserer Alltagswelt,
+so, es gibt doch keine "vorgängige" Welt, die wir erst "einteilen"
+müßten. 
+
+
+Hier mag der lokale Experte für Biologie aushelfen, die Grenze
+zwischen den Arten ist AFAIK aber recht klar.
+
+
+Warum sollten wir es begründen wollen? 
+
+[...]
+
+Ja.
+
+
+Das staGedegroZa sagt *nicht* voraus, welches Elementareignis
+eintritt, es bezieht (jedenfalls in diesem speziellen Fall, die
+eigentliche Aussage ist allgemeiner) die Aussage über die
+Wahrscheinlichkeit eines Elementarereignisses auf eine
+*Grenzwertaussage* über die Folge der relativen
+Häufigkeiten. Widersprochen habe ich nur Auweilers Aussage
+
+
+Die *Relation*, die zwischen der Wahrscheinlichkeitsaussage und
+Häufigkeitsverteilungen besteht, habe ich an anderer Stelle angegeben,
+sie liefert aber kein praktisches *Kriterium*, mit dem man *totsicher*
+von /endlich/ vielen Würfen auf Wahrscheinlichkeiten schließen kann. 
+
+
+Siehe das staGedegroZa <g>. Allgemein formuliert sagt es folgendes:
+
+Def. Sei (X,A,P) ein Wahrscheinlichkeitsraum und (X_n)_{n \in N} eine
+Folge reeller, integrierbarer Zufallsvariablen auf (X,A,P). Dann heißt
+die Folge dem _starken Gesetz der großen Zahlen_ genügend, wenn 
+
+          (1/n sum[i=1..n] (X_i - E(X_i)))_{n \in N} 
+
+P-fast-sicher gegen 0 konvergiert.
+
+
+klaas

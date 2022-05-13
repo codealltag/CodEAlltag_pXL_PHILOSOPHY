@@ -1,0 +1,135 @@
+Damit meine ich solche "Konstruktionen" wie:
+
+	*   (~E!)a -> (Ex)(~E!)x
+
+Urgs... :-(
+
+Im Ernst: ich habe *bislang* noch nie mit einem _formalen System_ der
+Prädikatenlogik zu tun gehabt, wo ein Ausdruck wie
+
+	*   (~P)a
+
+eine wff gewesen wäre! D a s meinte ich mit "Nonstandardnotation".
+
+Im Wesentlichen gibt es in derartigen Systemen doch nur die beiden
+Schreibweisen
+
+	~Pa    oder    ~P(a) ,
+
+womit _immer_ ~(Pa) bzw. ~(P(a)) "gemeint" ist, oder etwa nicht?
+
+Mir ist auch bei derartigen Ausdrücken, wie Du sie oben verwendet hast,
+weder klar, nach welchen Formationsregeln sie gebildet wurden, noch wie
+sie _semantisch_ korrekt zu behandeln sind. :-(
+
+Es KANN natürlich sein, dass gewisse philosophische Logiker diese
+Notation verwenden; aber HIER (hic et nunc) scheint mir nicht der
+angemessene Ort für die Verwendung einer derartigen Extension der
+Standardsysteme zu sein.
+
+Nun ja, zumindest IRRITIERT es mich schon einigermaßen, ehrlich. [...]
+
+
+GENAU DAS soll es ja auch ausdrücken. ;-)
+
+// Wobei man sich -da hast Du natürlich recht- schon bewusst sein muss,
+// dass es sich hier um eine reine facon de parler handelt.
+
+	Der allerdings in der undercover auch eine "substantielle"
+	Interpretation gegeben werden kann... :-)
+
+Nun ja... FALSCH ist sie bestimmt nicht. :-)
+
+
+	Allerdings auch nicht notwendig. Da die Quantoren in der 
+	FL "existential import" haben, ist m.E. klar dass man 
+	~(Ex)(x = Supermann) als "Supermann existiert nicht." 
+	lesen kann (und umgekehrt).
+
+	Es sei hier auch an Niederlander interessante Bemerkung er-
+	innert:
+
+	"To say that something exists is the same as to say that it
+	belongs to the universe."
+
+	Demnach bedeutet also to say that something doesn't exist
+	the same as to say that it doesn't belong to the universe.
+
+	Und wie sagt man das Letztere am Besten? Genau! ~(Ex)(x = a)
+
+	:-)
+
+
+Nein? Also ich bin mir ZIEMLICH sicher, dass in jeder ordentlichen
+Freien Logik gilt:
+
+	 E!a <-> (Ex)(x = a)
+
+(und damit auch ~E!a <-> ~(Ex)(x = a)). ;-)
+
+Ja, aber dann ist (denke ich doch) die Äquivalenz E!a <-> (Ex)(x = a)
+herleitbar! (Mehr noch, da die Freien Logiken vollständig und
+widerspruchsfrei sind, ist E!a <-> (Ex)(x = a) eine allgemeingültige
+Formel.)
+
+Anders formuliert, egal of ich E!a definiere, oder als primitives
+Prädikat behandle, innerhalb der (üblichen) Systeme der Freien Logik
+gilt in jedem Fall:
+
+	 E!a <-> (Ex)(x = a).
+
+So?
+
+Christian. :-)
+
+Ich bin mir nicht sicher, ob ich nicht auch dazugehöre... :-) Auf alle
+Fälle finde ich den Ansatz _interessant_. :-)
+
+	Was heißt hier eigentlich "logischer Meinongianismus"?
+	Wr Dir denn ein ontologischer Meinongianismus lieber?!
+	Also ich... -ehem- aber lassen wir das. :-)
+
+
+Nun sagst Du:
+
+Nun... also um ehrlich zu sein..., innerhalb der positiven Freien Logik
+brauche ich das Prinzip ja nicht zu schützen; ja vielmehr: HIER gilt es
+ja (in der Regel) nicht! :-)
+
+Ja, in der Tat. Der SCHEINBARE Widerspruch lässt sich aber leicht
+auflösen. Offenbar haben in der fFL bestimmte Aussagen keinen
+KLASSISCHEN Wahrheitswert (d.h. sind also weder W noch F). Und wenn DAS
+so ist, spricht doch eigentlich nichts dagegen, diesen Aussagen ganz
+einfach einen _nichtklassischen_ Wahrheitswert zuzuordnen, z.B. U.
+
+Ja. Wenn Du wie folgt formulierst, gibt's auch keine Probleme:
+
+	*Keinen* KLASSISCHEN Wahrheitswert zu haben, steht
+	 nicht im Widerspruch zu: *einen* NICHT-KLASSISCHEN 
+	 Wahrheitswert haben.
+
+So ist das natürlich zu lesen. ;-)
+
+Mag sein. Aber als "Denkmöglichkeit" wollte ich das hier zumindest mal
+angemerkt haben. (Bist Du Dir da 100% sicher? Ich weiß ja leider selbst
+zu wenig [=praktisch gar nichts] über die Landmaschinen.)
+
+
+F. 
+
+
+P.S. Also ICH würde vermutlich tatsächlich versuchen, die Semantik einer
+fFL -nachdem was ich jetzt schon alles von Dir über sie gehört habe-
+mittels dreier "Wahrheitswerte" zu begründen, die beiden klassischen W
+und F, und einen, U, für "unbestimmt".
+
+Weiters würde dann jede Aussage (wff), die eine unbestimmte Aussage als
+_Konstituente_ enthält, selbst unbestimmt sein.
+
+Wäre also Fa = U, dann auch ~Fa = U, und schließlich auch Fa v ~Fa = U.
+
+Das GAD würde also nicht unumschränkt gelten in dieser Logik - Zumindest
+nicht, wenn Prädikate in den Formeln auftreten. Bei rein
+_aussagelogischen_ Formeln würde das GAD natürlich gelten. Und Du hast
+auch recht: in diesem Sinne wäre die (hier konstruierte) fFL auch keine
+"3-wertige Logik", denn der aussagelogischen Teil wäre rein klassisch.

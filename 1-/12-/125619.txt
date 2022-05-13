@@ -1,0 +1,94 @@
+On 10 Apr 2003 09:44:57 GMT, Fernand Mittelhaus
+Durchaus möglich. Für Cämmerers *Grundlegungs-Programm* war es zumindest
+der "Todesstoß".
+
+Nein, die Inkonsistenz fehlt ganz und gar nicht bei (NBG-)MK (!). Im
+Gegenteil, es ist GENAU SO, wie Abbrecht es beschreibt: WENN wir die
+inkonsistente Vielheit als *Menge* (also als "Objekt", "Gegenstand")
+betrachten, dann entsteht (erst) ein Widerspruch; daher ist sie keine
+Menge!
+
+(NBG-)MK vermeidet -ebenso wie Cantor- den Widerspruch, indem sie eben
+so eine Klasse (Cantor: Vielheit) nicht als Menge ansieht.
+
+In der Tat kann man das Ganze SEHR EINFACH formalisieren:
+
+	Comprehension (NBG/MK):
+
+		Ax(x e {x | Fx} <-> Set x & Fx)
+
+Nehmen wir mal für Fx die bekannte Russell-Bedingung: x !e x, dann haben
+wir:
+
+		Ax(x e {x | x !e x} <-> Set x  &  x !e x).
+
+Nennen wir die Klasse {x: x !e x} kurz R, so hat man:
+
+		Ax(x e R <-> Set x  &  x !e x).
+
+Spezialisierung mit R ergibt:
+
+		R e R <-> Set R  &  R !e R.
+
+So weit so gut. Bislang alles ganz einfach. 
+
+Jetzt kommt der springende Punkt. Sehe ich nun R als ein Ding/Objekt an,
+d.h. als eine _Menge_ so hätten wir sofort den _Widerspruch_:
+
+		R e R <-> R !e R.
+
+Daraus FOLGT dann unmittelbar:
+
+		~Set C.
+
+R ist also keine _Menge_; und daher eine _proper class_.
+
+Abbrecht...:
+
+   "Eine Vielheit kann nämlich so beschaffen sein, daß die Annahme eines
+   "Zusammenseins" aller ihrer Elemente auf einen Widerspruch führt, so
+   daß es unmöglich ist, die Vielheit als eine Einheit, als "ein
+   fertiges Ding" aufzufassen. Solche Vielheiten nenne ich absolut
+   unendliche oder inkonsistente Vielheiten."
+
+  "Wie man sich leicht überzeugt, ist z. B. der 'Inbegriff alles
+   denkbaren' eine solche Vielheit."
+
+Wenn ich nun meine oben erwähnte "Übersetzung" vornehme, sagt Abbrecht
+hier:
+
+   Eine Klasse kann nämlich so beschaffen sein, daß die Annahme eines
+   "Zusammenseins" aller ihrer Elemente auf einen Widerspruch führt, so
+   daß es unmöglich ist, die Klasse als eine Einheit, als "ein
+   fertiges Ding" [also als eine Menge] aufzufassen. Solche Klassen
+   nenne ich _echte_ Klassen oder _proper classes_."
+
+   Wie man sich leicht überzeugt, ist z. B. der 'Inbegriff alles
+   denkbaren' eine solche Klasse.
+
+In der Tat, betrachte ich in MK die Universalklasse
+
+	U = {x | x = x} , 
+
+die zweifellos alles "denkbare" umfasst (denn eigentlich sollte für
+jedes "Ding" bzw. "Objekt" gelten: x = x), so hat man wieder:
+
+	~Set U.
+
+U selbst ist also KEIN "denkbares" Ding, ist also nicht selbst in sich
+enthalten; mithin ist es eine _proper class_ (wie von Abbrecht schon
+angemerkt).
+
+
+Cämmerer-Lektüre
+-------------
+
+Wirklich? Na wenn Du meinst... Ich lese zu diesem Zweck doch lieber die
+Schriften _einschl�giger_ Autoren... :-)
+
+Hstel... Er ist es aber nicht. :-)
+
+H-h... Ja, ja... Gödel war schon gut... glaub ich zumindest, oder so. 
+
+
+F.

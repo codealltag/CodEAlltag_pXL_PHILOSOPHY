@@ -1,0 +1,16 @@
+Man kann die Beziehung zwischen Identität und Koreferenz wie folgt
+formal ausdrücken:
+
+[">->" =3D Symbol der Referenzbeziehung / "|...|" entspricht
+Anführungszeichen]
+
+x =3D y =3D z <-> (|x| >-> z & |y| >-> z)
+
+Beispiel:
+Wenn Karina Pittl, die deutsche Bundeskanzlerin und Charles Madwigs
+Gattin identisch sind, dann sind "Karina Pittl" und "die deutsche
+Bundeskanzlerin" koreferenziell, weil sie sich beide auf dieselbe
+Person, nämlich auf Charles Madwigs Gattin beziehen.
+
+Gruß
+BERTHOLD

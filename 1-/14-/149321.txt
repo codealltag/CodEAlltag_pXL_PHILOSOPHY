@@ -1,0 +1,18 @@
+On Tue, 16 Sep 2000 21:47:10 +0200, 
+
+Nunja, dass ZF konsistent ist (und letztendlich ist das Unendlichkeitsaxiom
+ja eine Voraussetzung, wenn man von "Abzaehlbarkeit" und "Ueberabzaehlbarkeit"
+spricht), ist nunmal nicht zu beweisen (wenn ZF konsistent ist).
+
+Will man das "Konzept der Ueberabzaehlbarkeit" angreifen, dann darf man nicht
+mathematisch argumentieren, sondern philosophisch. Aber dann muss man auch
+das "Konzept einer Struktur der natuerlichen Zahlen" resp. das Unendlichkeits-
+axiom in dieser Weise hinterfragen. So eine Vorgehensweise waere hier, eine
+Sinnlosigkeit des Unendlichkeitsaxioms zu zeigen. Ein anderer Weg waere,
+die Inkonsistenz von ZF zu zeigen. Dazu muesste man zwei Sequenzen in der
+Sprache von ZF angeben, die zwei sich "widersprechende" Saetze an ihrem
+Ende haben.
+
+
+Gruss Julius
+--

@@ -1,0 +1,348 @@
+M. Weins <hw_mqri@bsu.ww> (Samstag, 18. März 2004 18:49):
+
+
+[...]
+
+
+Ah, das mit den 'Richtungen' ist erhellend.
+
+
+[...]
+
+Gut, das verstehe ich jetzt. Was Du erläutert hast, nennt man wohl -- ich 
+hoffe, die Bezeichnung ist einschlägig -- eine /syntaktische/ 
+/Definition/, in diesem Fall speziell die eines Relationszeichens.
+
+
+[...]
+
+
+GENAU! Daher ja auch meine "Empörung". Die offizielle Definition ist für 
+sich allein betrachtet zwar syntakisch zirkelfrei, reicht ALLEIN aber 
+nicht aus, das (an Syntax) zu reproduzieren, was mit einer logisch 
+primitiven Relation 'Identität' zu erreichen ist, und Definition UND 
+nachgereichtes Axiom ZUSAMMEN stellen dann etwas Zirkuläres dar. 
+Wenn man also gegenüberstellt:  
+  1.) ein System, wo Identität logisch primitive Relation ist (aus der
+     zugrundeliegenden Prädikatenlogik erster Ordnung) 
+und
+  2.) ein System ohne dieses logische Primitiv
+und nun fragt, was in der Pr�missenbasis von 2.) hingefügt werden muß, um 
+dieselben Ausdrücke wie mit 1.) zu reprodzieren, dann ist das die 
+Formelmenge
+
+        x = y <-> Az(z e x  <->  z e y),
+        AxAyAz(x e z & x = y -> y e z),
+
+was also die logisch primitive Identität ersetzt ("vollständig 
+charakterisiert"), und als "Definition" verstanden wäre das zirkulär. 
+(Diese "versteckte" Zirkularität überdeutlich zu machen, hatte ich mein 
+Beispiel konstruiert, das dann freilich etwas zu einfach geraten war.) 
+Aber inzwischen habe ich verstanden, daß man von einer syntaktischen 
+Definition nicht verlangt, ALLES Benötigte zu liefern, sondern nur, 
+von der Form 
+        x = y :<->  ... x ... y ...
+zu sein.
+
+
+[Zirkel in Tepaß' Definition?]
+
+[... Erhellendes zu syntaktischen Definitionen gesnipt...]
+
+[Was ist eine Definition?]
+
+Soweit Deine Behauptung. Begründung?
+
+Nein, nein, nein, ich will jetzt gar keine Begründung mehr hören :-),
+ich will erstmal folgendes anmerken:
+
+Die ganze Diskussion um die Zirkul�rit�t von Identitäts-Definitionen 
+wie der Terheggen krankt(e) mAn sehr daran, daß hier verschiedene 
+Auffassungen von "Definition" überkreuz diskutiert wurden. Ich will einmal 
+zwei Definitionsarten unterscheiden und sie nennen 
+
+        "syntaktische Definition"  und  "semantische Definition".
+
+
+Oben hast Du sehr schön erklärt, was in der formalen Logik eine 
+/syntaktische/ Definition ist. Es ist die Festlegung über den Gebrauch 
+(die Substituierbarkeit) eines Zeichens in einem syntaktischen Kalkül und 
+diese Festlegung erfolgt bei einem Relationszeichen in der Form
+
+        x # y :<->  ...x...y... 
+
+wobei rechts das Zeichen # nicht wieder auftauchen darf (und ansonsten nur 
+bereits eingeführte Zeichen der Objektsprache).
+
+In diesem Sinne ist die mengentheoretische =-Definition zirkelfrei 
+(wenngleich nicht axiomatisch vollständig und die Vervollständigung durch 
+ein Axiom wäre "als Definition" verstanden zwar zirkulär, aber dieses 
+Gesamt wird eben nicht 'Definition' genannt), und in diesem Sinne ist die 
+Leibnizsche =-Definition zirkelfrei und hier zudem auch axiomatisch 
+vollständig. Das habe ich jetzt verstanden. Gut, danke für die Erhellung! 
+
+Aber meine und -- so verstehe ich ihn -- Vockel Zirkelvorw�rfe gegen 
+Identitäts-Definitionen bezogen und beziehen sich von vornherein auf 
+Definitionen im Sinne von semantischen Definitionen.
+
+Was ist nun eine "semantische Definition"?
+
+Das halte ich nun allledings für abschließend gar nicht klärbar.
+
+(Was eine "syntaktische Definition" ist, war durch eine semantische 
+Definition abschließend definierbar (/klärbar/), was eine "semantische 
+Definition" sein soll, wird keine semantische Definition jemals
+abschließend klären können. :-))
+
+Z.B gibt es folgenden schwierigen Punkt.
+
+Einerseits denke ich, daß eine syntaktische Definition im obigen 
+Sinne überhaupt nicht den Rang des Diskutierbaren erreicht. Es ist ja ein 
+bloßes Zeichenspiel (siehe den "Zweiakter" unten). Auch ist es ja
+völlig willkürlich, ob das Zeichen "=" "Identität" genannt wird oder 
+"ritt" und warum soll ich in einer semantischen Diskussion der 
+Identitätsproblematik irgendein Zeichenspiel diskutieren, nur weil 
+jemand aus Jux und Dollerrei eines der Zeichen "Identität" zu betiteln 
+geruhte. Erörtere ich andererseits vorgeblich sinnkl�rende "semantische 
+Definitionen" und erhebe Zirkeleinw�nde, gehen diese allerdings auch 
+wieder auf "Worte", auf Äußerlichkeiten, auf Syntaktisches, z.B. daß im 
+Definens wieder das Wort "dasselbe" oder das Wort "identisch" auftauche.
+
+So scheinen rein syntaktische Kalküle (Zeichenspiele) "an sich" gar keinen 
+Sinn zu haben bzw. es kann ihnen fast jeder zugewiesen werden, 
+semantische Erörterungen wiederum kommen nie ohne Syntax daher
+und vor allem Zirkeleinw�nde bedienen sich dann stets der Syntax.
+
+
+Dazu unten noch was, jetzt erst einmal zu Deinem Verri sämtlicher 
+Zirkeleinw�nde. Ich stelle einmal drei Deiner Aussagen paradigmatisch 
+zusammen (von unten hochkopiert):
+
+[Aussage A]
+
+[Aussage B]
+
+[Aussage C]
+
+
+Einerseits (Aussage A) sagst Du, Tepaß' Definition sei *nur* die 
+Festlegung  über den Gebrauch eines ZEICHENS.
+
+Einige Zeilen weiter (Aussage B) beanspruchst Du, diese Definition 
+kläre *auch* die BEDEUTUNG, kläre *auch*, was wir mit 'Identität' 
+eigentlich MEINEN.
+
+Schließlich (Aussage C) stimmst Du zu, daß die Definition natürlich 
+ein Vorverständnis von Identität voraussetze.
+
+Ist das alles ganz kohärent? 
+
+
+Zirkelvorw�rfe wehrst Du ab, *indem*  Du Tepaß' Def. als
+eine *rein* syntaktische hinstellst. Gut, in DIESER Perpektive ist 
+Zirkelfreiheit zuzugestehen. (In dieser Perspektive ist dann aber auch kein
+Unterschied zwischen Montag und Dienstag im dem kleinen "Zweiakter" 
+unten.) Wie steht es aber hinsichtlich der anderen, von Dir *auch* 
+beanspruchten  semantischen Qualitiät dieser Definition?
+
+Wenn ich nur mal Aussage B und C nehme: die Definition kläre 
+die Bedeutung des Ausdrucks 'Identität', setze zugleich aber ein 
+(Vor)Verständnis von 'Identität' voraus. Braucht's noch mehr für 
+Zirkularität?
+
+Gut, Du setzt das Ergebnis der Sinnklärung meist emphatisch in 
+Großbuchstaben -- BEDEUTUNG [von Identität] -- und das Vorausgesetzte der 
+Sinnklärung ironisierend in Anführungszeichen -- "Vorverständnis" [von 
+Identität], aber typografische Manöver werden zuweilen als Argument nicht 
+anerkannt. :-)
+
+
+Da mit dem notwendigen Vorverständnis ist natürlich trifftig. Jede Sinn- 
+oder Bedeutungsklärung, ob sie nun "Defintion" oder "Erläuterung" oder wie 
+immer genannt wird, setzt ein Vorverständnis des Definiendums voraus 
+(pauschal: ich muß schon sprechen können, um Sprache zu verstehen). 
+(Das konsequent genommen kann man überhaupt nichts 
+erläutern, denn womit sollte der ANFANG gemacht werden...?) 
+Jedenfalls kann so gesehen an JEDE sinnkl�rende Erläuterung ("semantische 
+Definition") der Zirkelvorwurf immer ergehen, wie auch -- unterstellt, es 
+wird tatsächlich _auch_ etwas erhellt -- der Vorwurf des REINEN Zirkels 
+dann immer mit Recht bestritten werden kann. 
+
+
+Zur Illustration des Problems der Interpretation eines syntaktischen 
+Kalküls diene einmal folgendes kleines 
+
+----- "Schauspiel" in zwei Akten: -----
+
+[1 Akt. Montag:]
+Herr B erklärt seinem Freund, Herrn F, ein neues Kartenspiel. Zuerst 
+natürlich zeigt er ihm die Spielkarten, es sind dies unter anderen die 
+Bilder
+        "a", "b", "#", "(", ")", "F", "<->". 
+Dann die Regeln. Im Moment erklärt er ihm gerade die sogenannte 
+'Kreuz-Regel': 
+"Immer wenn die Karten "a", "#", "b" in der Reihenfolge 
+        "a # b" 
+liegen, kannst Du dies durch die Kartenfolge
+        "(F)(Fa <-> Fb)" 
+ersetzen. Diese Ersetzung bringt Dir im Spielverlauf oft viel Ehr, wie Du 
+noch sehen wirst, und solltest Du stets erwägen." 
+
+Und derart geht's noch eine Weile fort.
+
+Abseits des Kartenspiels sind A und B im Nebenberuf  übrigens und sehr zum 
+Leidwesen ihrer Umgebung durch ein gewisses philosophisches Interesse 
+recht dearrangiert. In einer kurzen Unterbrechung, während derer A ins 
+Nachschenken vertieft ist, bemerkt B grinsend, daß es sich bei den 
+beiden Karten "F" und "F" im übrigen nicht um /identische/, sondern nur um 
+/typ-identische/ Karten handle. A, an derlei Witzchen jetzt wirklich nicht 
+interessiert, stopft dem B rasch das Maul mit einem Brezel und schreitet 
+zur Erklärung der schwierigen 'Knoxx-Regel'...
+
+"Ach ja", A ist am Ende angelangt, "noch etwas sehr Wichtiges und fast 
+hätte ich's vergessen: Die Kreuz-Regel klärt jetzt auch, was wir genauer 
+eigentlich mit /Identität/ /meinen/, z.B auch als Du vorhin von den 
+/typ-identischen/ Zeichen sprachst."
+
+B guckt fassunglos. Fassunglos starrt er den A an, als hätte der einen Riß 
+in der Schüssel. "Schon gut, schon gut", prustet S quietschvergnügt da los 
+und ringelt sich in seiner Sofaecke, daß es eine Art ist, "sollte ein Witz 
+werden, hahaha..."
+
+
+[2. Akt. Dienstag:]
+A und B sitzen wieder beisammen in einer Erkl�rrunde. Das Spiel 
+lautet diesmal "logische Kalk�lrechnerei". A erklärt andächtig:
+"Immer wenn die Figur 
+        "a=b" 
+auftritt, kann die durch die Figur
+        "(F)(Fa <-> Fb)"
+ersetzt werden."
+Als wär's damit noch nicht genug, setzt S sich jetzt auch noch eine große
+Tepaß-Perücke auf und doziert: "Diese Regel klärt und expliziert nun 
+auch, was wir genauer eigentlich mit /Identität/ /meinen/."
+
+Richtig lachen kann B bei des A's Scherzen eigentlich schon länger nicht 
+mehr. "La mal gut sein A, DEN hatten wir gestern schon, so gut war der 
+nicht." "Aber nein!", tut A jetzt ernstlich empört, "das meine ich diesmal 
+wirklich ernst!!". Und auf und nieder und drohend mehrmals heftig in 
+Richtung des B schwankt die große, große Tepaß-Perücke...
+
+----- "Schauspiel" Ende -----
+
+
+Woher der Unterschied?
+
+Der Unterschied kann jedenfalls nicht in den Zeichen/Bildern und auch 
+nicht in den Regeln zu ihrem Gebrauch liegen. 
+
+Sondern offenbar nur in dem, was man sich bei diesen und über diese 
+/hinaus/ jeweils "denkt". Also, wenn man so will, im "Intentionalen".
+
+
+Was man sich dabei "denkt", ist natürlich dann so eine Frage...
+
+Die Bestreiter eines Zirkels ziehen sich auf den rein syntaktischen 
+Standpunkt zurück: daß man sich praktisch dabei überhaupt nichts "denke"
+noch "denken" müssen...
+
+Die Behaupter eines Zirkels rühren gerade in dem Gedachten rum...
+
+------
+
+Nochmal zu der Frage, ob ein Defnitionsakt als solcher schon ein 
+Verständnis von Identität voraussetze und wo Du meintest
+
+
+Versteht man eine Definition der Form 
+
+        ...#... :<-> ~~~
+
+_rein_ /syntaktisch/ als bloße  Zugregel in einem Zeichenspiel, dann
+wird da zugegeben nicht mehr an Zeichen-Identifizierung in Anspruch
+genommen als für das Parsen jeder sonstigen Formel oder Spielfigur auch.
+Soll diese Def. aber auch noch irgendwie /klären/, was wir mit dem 
+Symbol # MEINEN, dann wird da dann aber auch irgendwie eine Identität oder 
+Äquivalenz oder Entsprechung von Bedeutungen/Sinnen BEHAUPTET. Oder von 
+Wahrheitssituationen: die links durch "...#..." /ausgedrückte/ 
+Wahrheitssituation sei logisch Äquivalent -- "identisch" -- der rechts 
+durch "~~~" /ausgedrückten/.
+
+Nein?
+
+Dieser Zirkeleinwand zielt natürlich auf die semantischen Ansprüche der 
+Definition. 
+
+Ich könnte mir vorstellen, daß man in einem 
+Objektsprache-Metasprache-Modell das Definierzeichen ":<->" als
+Identitätszeichen der Metasprache auffassen kann.
+
+
+[...]
+
+Was die rein syntaktischen Operationen angeht, macht er das Richtige, ja.
+Aber IHM _kl�ren_ diese Operationen auch nicht, was er bei "=" eigentlich 
+/meint/. "Für ihn" ist kein Unterschied, ob er die Operationen eines 
+Solitär-Programm abarbeitet oder die Operationen einer "Prädikatenlogik 
+zweiter Stufe". /Für uns/ aber soll da ein Unterschied sein. Das eine Mal 
+spielen wir nur und wissen wir nur um ad hoc ausgedachte "Spielregeln", 
+das andere Mal aber haben wir uns angeblich einen Begriff geklärt, wissen 
+wir nun tiefer um das Was von Identischsein und denken an so 
+eigentümlich grenzgängerische, transzendente Sachen wie "alle 
+Eigenschaften" und "Wahrheit". 
+
+
+Ich wollte zeigen, daß -- falls semantische Ansprüche erhoben werden -- 
+neben der Zeichen-Identität auch die Identitäten noch anderer
+Entitäten herangezogen werden müssen, Entitäten, die sozusagen im 
+"Intentionalen" siedeln. Insbesondere muß für die Token, die Eigenschaften 
+/meinen/ sollen, 'der Gedanke' vollzogen werden
+
+        /identische/ Zeichen --> /identische/ Eigenschaften
+oder
+        /dasselbe/ Zeichen _meint_ /dieselbe/ Eigenschaft.
+
+
+[...]
+
+
+GENAU!!
+Der eine Ausgang ist dann -- weil wir das Darüber-Reden trotzdem 
+nicht lassen können und aber doch wohl nicht sein kann, was nicht sein 
+darf  (Sollte unser Reden etwa /sinnlos/ sein? Niemals!!!), daß man 
+erstmal das Inselchen der -- sinnigerweise dann "an sich sinnlosen" --
+syntaktischen Definition bezogen hat. Der andere Ausgang stellt die bange 
+Frage, auf welchem Schildkrötenrücken wir hier eigentlich durch die 
+logischen Lande geschaukelt werden?
+
+
+Ganz genau.
+
+
+Getreu dem Motto, daß nicht sein kann, was nicht sein darf... ;-)
+
+
+[...]
+
+---------
+
+[Problematik des /unbeschränkten/ Allquantors in Tepaß' Def.]
+
+
+Doch, doch, selbstverständlich.
+
+
+Aaah, verstehe, gut zu wissen.
+
+
+[...]
+---------------
+
+
+Naja, sehe ich etwas anders (zumal mir ähnliche Einwände selbst gekommen 
+waren :-)), Völlmecke versteht unter einer 'Definition' sicher nicht nur eine 
+/syntaktische/, sondern unterstellt den Anspruch auch einer Sinnklärung. 
+
+
+Größe
+Ronald

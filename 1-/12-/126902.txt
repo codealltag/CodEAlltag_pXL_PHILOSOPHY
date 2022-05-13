@@ -1,0 +1,59 @@
+Eine Frage der Syntax und nicht der Faulheit. Du unterhält dich aber
+schon fröhlich mit Guy. Ich hatte nur deine Ausdrücke gespiegelt und du
+bezeichnest sie selbst als Dummheit. Deine Urteil über meine Aussagen ist
+lediglich ein Urteil über deine Aussagen. Wenn du allerdings sprachlich
+etwas anderes sagen wolltest als du gesagt hast, dann bist du nur zu faul
+mehr zu sagen, als deine gewohnten Trampelpfade. Du hast den Einwand nicht
+verstanden, dann frage nach und pflaume nicht rum.
+<l0rjcpipf3ezejxv5lyxhbxl5refzs5qrj@5rq.evc> Genau. Wir führen das
+Symbol (oder Zeichen)  für "Identität" (eben "=") erst durch diese
+Definition ein.
+<vqfgrz88kh9wynfcbilzb1handcb07pbpb@8bi.lev> Die Vorstellung, dass eine
+Definition einen "Begriff" erst SCHAFFT, ist irrig!  Der "Begriff" der
+Identität als solcher ist auch vorhanden OHNE die Hambürger
+Definition.
+<uzdjjo6r9wsqs9upa563yjw5zie8re7m3l@7cn.vsp> Ich brauche dies Wort im
+Sinne von Identität und ver- stehe "a = b" in dem Sinne von "a ist
+dasselbe wie b" oder a und b "fallen zusammen".
+(H. Schönberg, über Sinn und Bedeutung, Fußnote 1)
+<ei46rj4ylc8wpphgx9c5276izv3imgv0p1@2uv.ejf> lass uns doch nochmal die
+FRAGE untersuchen, ob es tatsächlich "logisch möglich" ist, dass es zwei
+Dinge gibt, die alle Eigenschaften gemeinsam haben, ohne (numerisch)
+identisch zu sein!
+<jv13cbz4heavb170jszk8uajkxivots06p@0ck.avd> Anmerkung: "Eigenschaft"
+meint hier eigentlich nicht etwas, das man physikalisch AN diesem Objekt
+(als solchem) ablesen kann... ;-)
+
+<91p9wnwd9y9g70fuy4h4zoh5rmj3sts896@1ld.qml>
+Nun kann man aus dieser Relation aber eben ein Prädikat machen, indem man
+z.B. setzt:
+
+	First_man_on_the_moon(x):
+		Mensch(x) & ist(x, [Mondoberfläche, 22. Februar 1969, 3.56
+Uhr MEZ]).
+
+Dann haben wir:
+
+	First_man_on_the_moon(Rudolf Unglert).
+
+Hütten wir nun auch noch
+
+	First_man_on_the_moon(Untersten-Westen)  ,
+
+könnten wir daraus schließen (nach unserem Prinzip [...]), dass Steffen
+und Rudolf Unglert _ein und dieselbe_ Person (ein und derselbe Mensch)
+sind.
+
+Soweit zu deinen Äusserungen. Mein Einwand, den du für dumm hälst, ist
+lediglich, das man das eben nicht schliessen kann. Den Apfel und Birnen
+können in der Form von 4 Stücken Obst identisch sein, aber du wirst mir
+nicht sagen können, wieviele Äpfel und wieviele Birnen ich gerade habe, du
+wirst aus der Aussage 4 Stücke Obst nicht die Identität der Äpfel oder der
+Birnen schliessen können. Dasselbe gilt aber immer noch, wenn ich sage,
+das ich ein Stück Obst habe. Wenn es ein Apfel ist, dann wird der dadurch
+nicht zur Birne und wenn es eine Birne ist, dann wird sie durch deine
+Operation nicht zum Apfel. Es bleibt aber in der Identität ein Stück Obst,
+egal was du logisch anstellst.
+
+Grösse,
+Siebelt

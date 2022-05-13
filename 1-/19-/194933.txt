@@ -1,0 +1,17 @@
+Das "dieser" in meiner Aussage (oder "Aussagen-Schablone") bezieht sich
+aber nicht auf die Aussage selbst (es ist kein reflexives "dieser"),
+sondern auf einen entsprechenden, unter Annahme der Axiome bewiesenen
+Satz (ich haette vielleicht der Klarkeit wegen "jene/jener" statt
+"diese/dieser" verwenden sollen). Also z.B. "diese Axiome" = "Axiome
+der natuerlichen Zahlen", "dieser Satz" = "Es gibt unendlich viele
+Primzahlen", zugehoerige wahre Aussage: "Wenn die Axiome der
+natuerlichen Zahlen gelten, dann gibt es unendlich viele Primzahlen."
+
+Die Aussage "Wenn diese Axiome gelten, dann gelten auch diese Axiome"
+(wobei "diese Axiome" natuerlich in beiden Faellen dieselben sind)
+ist nichts anderes als eine Aussage "Wenn A, dann A" und als solche
+trivialerweise wahr. Also z.B.: "Wenn die Axiome der natuerlichen
+Zahlen gelten, dann gelten die Axiome der natuerlichen Zahlen."
+
+Ich denke, dass bei dieser Beschreibung keine Probleme auftreten.
+Oder habe ich doch noch etwas uebersehen?

@@ -1,0 +1,18 @@
+Auch das ist falsch.
+
+Wenn wir voraussetzen, dass der Zufall in der Mitbringsel-Implementierung
+eine gute Quelle hat, dann dürfen wir das doch für die Implementierung
+der anderen Sprache auch annehmen.
+
+Mit einer beliebigen Turing-vollständigen Sprache lässt sich so Mitbringsel
+implementieren. Und das dürfte doch wohl als "übersetzbar" hinreichen,
+dass es identische Ergebnisse hat, nicht wahr?
+
+Was Du zu vergleichen suchst, sind Implementierungen und nicht Sprachen,
+ausserdem mischt Du da einiges zu einem Brei zusammen, was Dich
+anscheinend zu Trugschlüssen verleitet.
+
+Viele Grüsse,
+VB.
+-- 
+Bitte beachten Sie auch die Rückseite dieses Schreibens!

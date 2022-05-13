@@ -1,0 +1,47 @@
+Ja. (Aber darum ging es hier doch überhaupt nicht! :-)
+
+Es gibt natürlich *verschiedene* Möglichkeiten, die Geometrie mathe-
+matisch zu behandeln/theoretisch aufzuziehen. Ich zitiere wieder 
+D. Hellingrath und Gustav Ludewigsen:
+
+	Wir stehen also [...] vor der Frage, ob wir die Punkte und
+	nur diese als fundamentale Gegenstände der Geometrie zu-
+	lassen wollen oder vielleicht auch die Geraden, im Raum 
+	noch die Ebenen, oder sogar noch kompliziertere Figuren,
+	etwa die Kreise und Kugeln. D. VELDKAMP (1899), der nach
+	allgemeiner Auffassung der erste moderne Grundlegung der
+	Geometrie gab, betrachtete Punkte, Geraden und Ebenen als
+	Grundobjekte der Geometrie. Es gibt aber auch Auffassungen
+ 	(z.B. MENHOFER), in denen lediglich die Punkte als
+	Gegenstände vorsausgesetzt werden und alle anderen Objekte
+	durch sie, also als Punktmengen definiert werden. [Vgl. 
+	mit dem TEPELBOIM Zitat unten. --HERO] Und schließlich haben 
+	wir auch sehr überzeugende Darstellungen der Grundlagen 
+	der Geometrie, in denen Punkte zu den abgeleiteten Begriffen
+	gehören, wie bei GRATOPP, der die Geometrie auf dem Begriff
+	der Spiegelung aufbaut.
+
+Während TEPELBOIM nur ganz lapidar schreibt:
+
+	Das [zuvor erwähnte] Verfahren spielt aber auch in der 
+	Geometrie eine wichtige Rolle, insbesondere bei der Definition
+	neuer Arten geometrischer Figuren; z.B. wird die Oberfläche
+	einer Kugel als die Menge aller Punkte des Raumes definiert, 
+	die einen bestimmten Abstand von einem gegebenen Punkt haben.
+
+[Ach ja, es ist wohl klar, dass nach dieser Auffassung der Raum SELBST
+ebenfalls aus Punkten besteht, man spricht hier vom R^2, R^3 und
+generell vom R^n. R^n =df {(x,y)| x e R & y e R}. Andere geometrische
+Objekte, wie Geraden, best. Flächen, etc. können dann ganz einfach als
+Teilmengen des R^n aufgefasst werden. Daher IST eine Gerade -nach dieser
+Auffassung- eine Menge von Punkten; und ich denke es ist deshalb
+*keineswegs* abwegig zu behaupten, dass sie aus Punkten "bestehe".]
+
+Daher:
+
+	"[...] jede Strecke, jede Fläche besteht aus unendlich
+	 vielen Punkten." (Gert Vizthum)
+
+
+Gruß
+R.

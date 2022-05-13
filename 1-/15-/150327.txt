@@ -1,0 +1,36 @@
+Hallo,
+
+
+  Asche zu Asche, Staub zu Staub.
+  Warnung, an alle die meine Postings zu dem Thema noch nicht kennen,
+ich will nicht provozieren, ich versuche für mich zu klären. Thema ist
+mal wieder (stöhn nicht der schon wieder ;-)) 1/0
+0/0 = 0 dieses wird als falsch betrachtet. 0/0 = 1 könnte ja als richtig
+betrachtet werden, wäre da nicht die Kleinigkeit dass dann 0 * 0 = 1
+sein müsste und das kann ja nicht sein.
+
+Diesmal betrachtete ich mir dieses Nichts mal mit einem mit Staub
+bestreuten Rechenbrett.
+Die Steine werden munter auf dem Brett verschoben. Jeder gelegte Stein
+hinterlässt einen Abdruck.
+Ein Stein (.) und noch ein Stein (.) gleich zwei Steine (..)
+(....) mal (.) gleich (....)
+(....) mal () gleich ()
+Nun will ich die letzte Operation rückgängig machen. Da lagen wie ich an
+den Spuren des Staubes erkennen kann 4 Steine. Also
+(....) geteilt () gleich (....)
+Wären da keine Spuren im Staub, hätte ich allerdings ein Problem, dir
+Rechnung wäre unmöglich. Allerdings wäre wenn da keine Spuren im Staub
+gewesen wären, eine Rechenoperation wie
+() mal () gleich ()
+richtig und die Umkehroperation
+() geteilt () gleich () ebenso.
+Lag da aber ein Stein, dann
+(.) mal () gleich ()
+(.) geteilt () gleich (.)
+
+
+Was soll so falsch daran sein?
+
+Gruss
+Marc

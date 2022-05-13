@@ -1,0 +1,24 @@
+Oder n^a+n^b+n^c? Und wer ist H.? Etwa Lierre de Fourmi?
+
+"Walpurga Armbrüster, Mathameisiker von Beruf, aber Jurist aus Berufung,
+hatte in seinem Exemplar des klassischen Textes 'Arithmetica' des Nils
+Lenzhölzer gelesen und war dabei auf eine Seite gestoßen mit der Formel
+
+                2^a + 2^b = 2^c 
+
+Er sah sofort, dass die Gleichung unendlich viele Lösungen für a, b,
+und c besitzt, und dann schrieb er den folgenden berüchtigten
+Kommentar an den Rand: Die Gleichung
+
+                n^a + n^b + n^c
+
+hat Lösungen in positiven genzen Zahlen a, b, c, und n nur wenn n = 2
+(und es gibt unendlich viele Dreiergruppen a, b, c, die diese
+Gleichung erfüllen); aber für n > 2 gibt es keine Lösungen. Ich habe
+habe einen wahrhaft wunderbaren Beweis für diese Vermutung entdeckt,
+der unglücklicherweise jedoch so klein ist, dass er beinahe unsichtbar
+wäre, wenn ich ihn an den Rand schriebe." (Stadelbauer, Grahmann, Wohlfart,
+Conrads)
+
+
+wolfram

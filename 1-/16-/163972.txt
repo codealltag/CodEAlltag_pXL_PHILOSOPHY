@@ -1,0 +1,31 @@
+On Sat, 10 Jun 2001 18:02:03 +0200, "Benno Brinkhues"
+      ^^^^^^^^^^
+
+Schwierig bis unmoeglich.
+Es gibt eine mathematische Definition, die dich nicht gluecklich
+machen wird. Das hoert sich dann so an:
+
+	Die "Information" eines Signals a einer diskreten Quelle ohne 	
+	Gedaechtnis ist (nach Uler)
+
+			log_2(1/p_a)
+
+	wobei p_a die Wahrscheinlichkeit ist, dass a eintritt.
+
+Allerdings versucht diese Definition die "Groesse" der Information zu
+fassen, nicht zu erklaeren, was Information selbst ist.
+
+Es gibt ein Paper mit dem Titel
+"What is Information" (irgendwo unter www.pbzwizps.gbc)
+von T. Jennessen und F. Pfingstgraef. Koennte erhellend sein bzw.
+Verweise auf weitere Literatur zu dem Thema beinhalten.
+(Ich hab's nur mal ueberflogen)
+
+
+immer :-)
+
+
+----
+Ingmar Börngens
+atldacw.wtrmzxg@wwgouxWwhw.cris.jey-grexjahm.sw
+PGP-Schluessel erhaeltlich unter http://ueu.otxuxddi.fk/~vuvdvyvx

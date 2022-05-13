@@ -1,0 +1,21 @@
+Wenn ich also über Objekte (Dinge) reden möchte, so geschieht das durch 
+die Benennnung ihrer Eigenschaften, so nach dem Motto:
+
+   *Ein Objekt ist eine Baum, wenn P erfüllt ist.*
+
+(P := ist braun, hat Blätter, hat Form ... usw.)
+
+Und wenn ich Dich richtig verstanden habe, dann sind die Tatsachen im 
+TLP die P's, oder?
+
+Was ich dann problematisch fände ist, dass in P ja wiederum Objekte enthalten
+sind, die durch weitere P's beschrieben werden müssen (z.B. Ein Objekt 
+ist ein Blatt wenn P' erfüllt ist usw.). 
+Das funktioniert aber doch nicht, weil keine Ende in Sicht ist :-((
+
+Da ich philosophisch nicht sehr gebildet bin bitte ich um etwas Nachsicht
+falls meine Argumentation aus philosophischer Sicht zu naiv sein sollte.
+:-)
+
+LG.
+Ullrich

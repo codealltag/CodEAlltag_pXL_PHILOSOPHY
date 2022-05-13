@@ -1,0 +1,42 @@
+doch.
+
+
+ja.
+
+
+nein.
+Entscheidend ist aber, daß Eigenschaften von Elementen von IR nicht 
+zwangsläufig Eigenschaften von IR^2 sind.
+Wenn zwei beliebige Elemente von IR Eigenschaften der Art < oder > haben, 
+so folgt daraus nicht, daß Elemente von IR^2 ebenfalls diese Eigenschaften 
+haben.
+
+
+ja.
+
+
+nein.
+
+
+doch.
+Nämlich dadurch, daß sich die Eigenschaften < und > nicht von IR auf IR^2 
+übertragen (ein C++ Programmierer würde wohl sagen, die Eigenschaften 
+vererben sich nicht ;-)).
+Wenn ich zwei reelle Zahlen habe, z.B. 34,2 und 518,63, dann kann ich 
+sagen, welche von beiden größer ist. Es gilt 518,63 > 34,2.
+Wenn ich aber zwei Zahlenpaare habe, die aus jeweils zwei reellen Zahlen 
+bestehen, also z.B. (12,8;3451,2) und (451,32;923,1), dann ist eine solche 
+Aussage nicht mehr möglich.
+Es gilt weder (12,8;3451,2) < (451,32;923,1), (451,32;923,1) < 
+(12,8;3451,2).
+
+
+tut es aber nicht.
+
+
+nein, tut sie nicht.
+
+
+hm, ich weiß nicht viele größere Mengen (es heißt Mengen, nicht Ebenen) es 
+über den komplexen Zahlen noch gibt.
+Mut du einen Mathematiker fragen.

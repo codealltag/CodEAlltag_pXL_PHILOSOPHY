@@ -1,0 +1,22 @@
+Selbsmodifizierender opcode war einmal eine beliebte
+Programmiermethode.
+Interpretativer Code schon, z.B. in LISP mit QUOTe IF und EVAL.
+Etwas schieriger ist es, wenn man gerade die aktive Stelle
+aendert.
+Dann braucht man naehmlich schon so Verfahren wie der Mensch lernt:
+ Schrittweise kleine Variationen mit Tests und Rueckkehrmoeglichkeit,
+ d.h. das alte wird erst dann vergessen, wenn das neue besser
+funktioniert.
+Damit Programme wie beim Denken auch rueckwaerts laufen,
+ wir eine andere Organisation benoetigt.
+
+
+Wenn man Instinkte gegeneinander ausspielt, schon.
+
+
+Da religioese Ueberzeugungen selten auf Logik beruhen,
+ ist da mit Argumennten schwer beizukommen.
+Effektiv sind da offensichtliche Widersprueche
+ und soziale Enttaeuschungen.
+
+Julius

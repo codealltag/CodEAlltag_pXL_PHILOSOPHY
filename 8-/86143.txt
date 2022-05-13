@@ -1,0 +1,63 @@
+Tobias Nebendahl wrote:
+....
+
+
+Das ist, wie Du sehr richtig bemerkst, eine Behauptung.
+eine, von der man allerdings jetzt schon mit Gewissheit sagen kann, dass 
+sie haltlos ist.
+Und zwar aus folgenden Gründen.
+Die im Hirn ablaufenden Prozesse sind hochparallel und nicht auf rein 
+serielle Prozesse reduzierbar. Diese sind hierarchisch strukturiert. 
+Topp wies aber in jenem bewussten Paper zur Heterarchie nach, dass 
+in einem Netz mit nur drei Neuronen die Parallelität bereits irreduzibel 
+ist, gegeben durch die Topologie der Netzstruktur.
+Du müsstest also einen Computer haben, der erstens sämtliche im Hirn 
+ablaufenden Prozesse als Algorithmen darstellt - auch das ist fraglich, 
+s.u. - und zweitens diese auch noch seriell so auf die Kette bringt, das 
+reibungsloses Funktionieren gewährleistet ist.
+
+Bislang sind alle unsere Computer seriell, daran ändert auch die 
+Existenz von Parallelprozessormaschinen nichts, denn es gibt für diese 
+Maschinen nicht einen einzigen existierenden Algorithmus, der nicht auch 
+  auf einer seriellen Monoprozessormaschine - dann allerdings langsamer 
+- ablaufen würde.
+
+Wir haben in der Maschinenwelt digitale Prozessoren mit Taktraten im 
+GHz-Bereich, auf denen Software abläuft.
+
+Wir haben in der biologischen Welt analoge Neurone mit Taktraten 
+(Recovery-Zeit) im kHz-Bereich, davon aber ziemlich viele pro System,
+die ihre Netzwerktopologien während der Prozesse und prozessabhängig 
+ändern können. übersetzt auf die Computerwelt entspräche das 
+Algorithmen, die nicht nur die zu verarbeitenden Daten sondern auch sich 
+selbst während eines Prozesslaufs dynamisch ändern können. Die 
+bisherigen u.a. in der Physik zur Anwendung kommenden formalen Sprachen 
+lassen jedoch eine solche Verletzung des 
+Operator-Operanden-Verhältnisses nicht zu.
+Ihr Vorteil, der der biol. Neurone, bezogen auf die Leistung liegt 
+sicher nicht in der Geschwindigkeit, sondern in Parallelität und 
+Netztwerktopologie. Diese ist erstens irreduzibel und zweitens ist mehr 
+als fraglich, ob man in diesem Fall eine Trennung von Software und 
+"Hardware" vornehmen kann.
+
+Das solten genügend *prinzipielle Unterschiede* sein.
+
+
+Das setzt eine Algorithmisierbarkeit solcher Hirnprozesse voraus.
+Es gibt aber durchaus berechtigte Gründe, an einer solchen 
+Algorithmisierbarkeit zu zweifeln, wie uns Christoph Beiergrößlein vorgeführt hat.
+
+
+...
+
+Beat
+
+-- 
+---------------------------------
+Dr. Beat Bellofatto
+Hrsg.: http://mvr.okqglzxsp.bz
+ISSN 0313Fraundorf
+PKL im Web:
+http://wsp.ljolroukfyu.afc/kuh
+music project:
+http://zwt.kbxa-gbyi-onzsrwovj.wc

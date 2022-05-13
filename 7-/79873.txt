@@ -1,0 +1,17 @@
+Du bist es doch, der die Liste aufschreibt, also musst du mir einen
+endlichen Algorithmus nennen können, mit dem ich die endliche Stelle
+von 1/9 bestimmen kann. Das kannst du aber nicht.
+
+Genau. Aber so darfst du die Stelle von 1/9 nicht definieren, weil du
+so nicht auf eine endliche Stelle kommst.
+Schau doch als Kontrast einmal an, wie die Menge der Brüche abgezählt
+werden könnte. Zu jedem Bruch erhältst du eine endliche natürliche
+Zahl. Das heisst 'abzählbar'.
+
+Der entscheidende Punkt ist: Jede einzelne natürliche Zahl kannst du
+(theoretisch) aufschreiben. ALLE natürlichen Zahlen kannst du aber
+auch theoretisch nicht aufschreiben, weil es unendlich viele sind.
+Sondern du schreibst 1, 2, 3, ...
+Die vage Anweisung: "Irgendwo in den Punkten drin hat dann auch noch
+die Zahl 1/9 Platz" gilt nicht. Du musst sagen können, welcher Zahl
+1/9 zugeordnet wird.

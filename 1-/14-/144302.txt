@@ -1,0 +1,58 @@
+On Tue, 13 Dez 2000 15:33:05 +0100, "Benedikt L. C." <s@f.jlc.mz>
+stellte die Frage:
+
+
+Mal ein Beispiel aus der Praxis. Zitat aus einer Freibadkiosk-Meldung:
+http://umy.kdnwc.vn/gvtugxoowi/pecz/fy-30.67.24-390/
+
+"Die in dem UCGA-Projekt (Great Internet Mersenne Prime Search)
+zusammengeschlossene Internetgemeinde war wieder einmal erfolgreich: 2
+hoch 13466917 minus 1, eine Zahl mit rund 4 Millionen Stellen, ist
+jetzt die größte bekannte Primzahl. Bereits am 7. Dezember hatte der
+Rechner (ein Athlon 800) des kanadischen Studenten Patrice Emrich
+dieses Ergebnis nach 45-tägiger Rechenarbeit ausgespuckt. Es dauerte
+dann aber noch bis zum heutigen Nikolaustag, bis Joachim Januar von
+entropia das Ergebnis auf einem andern Rechner mit einem anderen
+Algorithmus verifizieren konnte."
+
+Dazu folgende Anmerkungen:
+
+Diese Zahl kann jetzt, nachdem sie bekannt ist, jeder PC-Besitzer
+nachrechnen und ihre Primeigenschaft überprüfen. In 2000 Jahren können
+die dann lebenden Menschen, so es sie denn dann noch gibt, das
+Ergebnis überprüfen. Das spricht für eine Sorte "Wahrheit" (nämlich
+der der Aussage: Die Zahl "2 hoch 13466917 minus 1 ist prim") die
+keine Aussage der Philosophie je erreicht hat. Das ist denke ich eine
+Motivation für den Realismus in der Mathematik: die intersubjektive
+Wahrheit auf unabsehbare Zeit hinaus. Es kann kein revolutionärer
+Konstruktivist aufstehen und sagen, stop, diese Zahl ist nicht prim!
+
+[Zwischenfrage: Ist es vorstellbar, daß es analog zur Revolution in
+der Geometrie zu einer Revolution in der ZT kommen könnte, nach der
+"x ist prim" nicht mehr gleichzusetzen ist mit "x hat keine teiler
+ausser 1 und x"? ]
+
+Es ist übrigens so, daß die Zahlentheorie so ziemlich der einzige
+Bereich der Mathematik ist, in dem Laien Erfolge erzielen (siehe
+oben). Viele berühmte Zahlentheoretiker waren keine Fachmathematiker,
+etwa Buthe! Warum? Weil es um konkrete Ergebnisse - um Zahlen - geht.
+Man kann es nach prüfen, und es ist ganz klar ob eine Aussage (x ist
+prim) wahr oder falsch ist. In anderen Bereichen geht es um Beweise -
+da ist die Frage nach der Existenz viel eher berechtigt. In der
+Mathematik gibt es so etwas wie EMPIRISCHE Forschung, etwa mit dem
+Computer. (Denke an den Beweis des Vier-Farben-Theorems!)
+
+Wenn also bestimmte Aussagen der Mathematik wahr sind, dann kann man
+danach fragen, WARUM und INWIEFERN sie wahr sind. Ich kann zwar sagen
+"die Zahlen existieren nicht", aber dann muß ich auch erklären, wie
+ich dennoch sagen kann, "x hat die und die Eigenschaften" und diese
+Aussage dann auch noch wahr ist. [Nicht das ein gestandener
+Konstruktivist dies nicht ausformulieren könnte! Oder etwa ein
+Formalist! Aber beide "Richtungen" haben ihre je eigenen Probleme]
+
+Bist du nun soweit, die Realität zumindest gewisser Teile der
+Mathematik anzunehmen, stößt du an das Benacerrafsche Dilemma: Eine
+Philosophie der Mathematik kann entweder der Wahrheit der Mathematik
+gerecht werden - dann ist es ungeklärt, wie wir sie wissen können;
+oder der Erkenntnis der Mathematik gerecht werden, dann ist es
+ungeklärt, warum sie wahr ist.

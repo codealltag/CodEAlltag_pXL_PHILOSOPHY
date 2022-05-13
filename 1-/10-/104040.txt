@@ -1,0 +1,77 @@
+Reine Übungssache. Derartige Anfängerfehler werden Dir später nicht mehr
+unterlaufen. 
+
+Btw: Hierin zeigt sich aber ein VORTEIL der Methode Zurmöhles: Hier ist
+man definitiv auf eine bestimmte Annahme "fest gelegt".
+
+	 1. P v Q              A
+
+	 2. | P                A
+	 3. | | ~P & ~Q        A <---
+	 4. | | ~P             3 &E
+	 5. | | P & ~P         2,4 &I
+	 6. | ~(~P & ~Q)       3,5 RAA
+
+	 7. | Q                A
+	 8. | | ~P & ~Q        A <---
+	 9. | | ~Q             8 &E
+	10. | | Q & ~Q         7,9 &I
+	11. | ~(~P & ~Q)       8,10 RAA
+
+	12. ~(~P & ~Q)         1,2,6,7,11 vE
+
+Eine weitere Variante wäre:
+
+	 1. P v Q              A
+	 2. | P                A
+	 3. | | ~P & ~Q        A
+	 4. | | ~P             3 &E
+	 5. | | P & ~P         2,4 &I
+	 6. | ~(~P & ~Q)       3,5 RAA
+	 7. P -> ~(~P & ~Q)    2,6 CP
+	 8. | Q                A
+	 9. | | ~P & ~Q        A
+	10. | | ~Q             9 &E
+	11. | | Q & ~Q         8,10 &I
+	12. | ~(~P & ~Q)       9,11 RAA
+	13. Q -> ~(~P & ~Q)    8,12 CP
+	14. ~(~P & ~Q)         1,2,6,7,11 vE'
+
+Wobei hier folgende Variante der üblichen vE-Regel verwendet wird:
+
+(vE')	A v B   A -> C   B -> C
+	-----------------------
+	           C
+
+Also mir persönlich gefällt der letzte Beweis ganz gut, er hat eine sehr
+klare und gut verständliche Struktur.
+
+
+Und zu guter Letzt diesen Beweis nochmals modifiziert, um ein Theorem zu
+beweisen:
+
+	 1. | P v Q                A
+	 2. | | P                  A
+	 3. | | | ~P & ~Q          A
+	 4. | | | ~P               3 &E
+	 5. | | | P & ~P           2,4 &I
+	 6. | | ~(~P & ~Q)         3,5 RAA
+	 7. | P -> ~(~P & ~Q)      2,6 CP
+	 8. | | Q                  A
+	 9. | | | ~P & ~Q          A
+	10. | | | ~Q               9 &E
+	11. | | | Q & ~Q           8,10 &I
+	12. | | ~(~P & ~Q)         9,11 RAA
+	13. | Q -> ~(~P & ~Q)      8,12 CP
+	14. | ~(~P & ~Q)           1,2,6,7,11 vE'
+	15. (P v Q) -> ~(~P & ~Q)  1,14 CP 
+
+Also:
+
+
+Ja. Leonhard mit seinem "Zwang" die Dinge unbedingt ANDERS zu machen...
+*seufz*
+
+
+Gruß,
+N.

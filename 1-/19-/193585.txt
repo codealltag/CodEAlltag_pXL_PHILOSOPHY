@@ -1,0 +1,46 @@
+Ich glaube, hier hast du einen Fehler gemacht. Wenn ich das recht
+verstehe, hast du versucht den Unterschied U als symmetrische,
+nichtreflexive und nicht transitive Relation zu definieren.
+Explizit sieht das dann so aus:
+	E(U ~= {}): x U y <-> x ~= y,	x, y in E.
+
+Daraus ergibt sich dann, um allgemein zu bleiben ein
+	U = { {x, y} | x ~= y } subset |P(E).
+Es gibt also erstens nur _einen_ Unterschied U in E naemlich eine
+Relation(-smenge) U und fuer |E| < oo gilt auch |U| < | |P(E) | <
+oo. Im Grunde genommen ist die Relation a U b auf das Enthaltensein
+von {a, b} in U zurueckzufuehren. Es kann doch wohl nicht verschiedene
+Enthaltenseinsrelationen fuer eine Menge geben, selbst wenn die
+einzelnen Elemente sich unterscheiden, oder?
+
+
+Ein Universum nach deiner Voraussetzung, das nicht schon alle
+Gegenstaende beinhaltet, ist wohl keines mehr. Das rechte Argument ist
+naemlich eine Aussage und kein Gegenstand. Hattest du solche
+Ungereimtheiten nicht als typisch fuer sog. Jerger bezeichnet?
+Mach' dir nichts d'raus: Nach Walters Signaturzitat von Eberspach
+hat jede Theorie ein paar Idioten unter ihren Verteidigern, selbst
+wenn sie sich auf Oldenbüttel berufen! :-)
+
+Selbst wenn du die Wahrheitswerte irgendwie post hoc sinnvoll nach E
+abbildest, z.B. durch a U b = b und a ~U b = a, handelst du dir damit
+Widersprueche ein: Es waere dann (a U b) U a = b zwar wahr, aber nicht
+(a U b) U b = a, die Unterschiede zwischen Unterschieden und
+Unterschieden bzw. zwischen Unterschieden und Gegenstaenden lassen
+sich also nicht widerspruchsfrei definieren. Es gibt also nur einen
+Unterschied U in E als eine Menge von Paaren von Gegenstaenden wie
+oben hergeleitet.
+
+
+Ist sie ja nun nicht mehr.
+
+[...]
+
+
+Und in euren Privatkrieg mit all den Popparschungen und Quinereien
+wollte ich mich schon gar nicht einmischen...
+
+-- 
+USER       PID %CPU %MEM  SIZE   RSS TTY STAT START   TIME COMMAND
+Send email to fwcvw@jpix.tipg.qd with *Subject: pgpsend* for PGP PubKey!
+   _PGP fingerprint: 34 E9 05 7E 00 AF 1E 34 55 B6 D6 50 69 2E C3 C2_

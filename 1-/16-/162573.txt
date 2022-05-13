@@ -1,0 +1,31 @@
+Jean-Paul Niederlehner <cwm-ybclpw-83@brf.guf> schrieb in im Newsbeitrag:
+91k3fte8lk.myg@y74.b032.n4855.z9.ppn...
+Jein. Es sind keine reinen EVA (Eingabe Verarbeitung Ausgabe) Algorithmen,
+deshalb lassen sich immer nur die Schritte zwischen einer Eingabe und einer
+Ausgabe mit der Turingmaschiene abbilden, aber nicht der komplette
+Algorithmus.  Ein neuronales Netz muß z. B. traniert werden ein Vorgang,
+welcher sich so nicht mit einer Turingmaschiene modellieren läßt. Wie eine
+Eingabe beim Training verarbeitet wird läßt sich mit der Turingmaschiene
+nachbilden, aber nicht der ganze Prozess der Interaktion mit der Umwelt.
+Eine Turingmaschiene kann immer nur einmal beim Start Eingaben erhalten (und
+da die Algorithmen hier durchaus auch aktiv auf die Umwelt einwirken können
+ist dies nicht möglich).
+
+Beispiel: Wenn ich einen genetischen Algorithmus benutze um Vorraussagen an
+der Börse zu machen *g*, kann ich zwar theoretisch 5 Jahre Börsendaten
+statisch eingeben und dann den Algorithmus anwenden (was auch mit einer
+Turingmaschiene modellierbar wäre), aber das Ergebniss wäre deutlich
+schlechter (fatal), als wenn ich im Vergleich den Algorithmus dynamisch auf
+die aktuellen Daten anwende (was nicht mit der Turingmaschiene modelliebar
+ist).
+Was modellierbar ist, sind immer die Schritte zwischen den Eingaben, die
+aber so nicht den Algorithmus in seiner Gesamtheit darstellen.  Setzt man
+dann noch auf echte Zufallszahlen entfernt man sich noch weiter vom Modell
+der Turingmaschiene.
+Beim Schach macht es keinen Unterschied, ob ich den Computer nur den
+aktuellen Zug berechnen lasse, oder das ganze Spiel (ist immer das selbe
+(theoretisch - Praktisch sind aufgrund der komplexität der Parallelrechner
+sogar Schachkomputer wie Big Blue interdeterministisch und lassen sich so
+nicht direkt so auf einer Turingmaschiene umsetzen, aber ob das wirklich zum
+Algorithmus und damit zur Spielstärke beiträgt weiß ich nicht.)), deshalb
+kann man das ganze auch problemlos auf einer Turingmaschiene implementieren.

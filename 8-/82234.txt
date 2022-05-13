@@ -1,0 +1,34 @@
+[...]
+
+Ja. Wobei zusätzlich die Standardsemantik der 2-stufigen Logik zur
+Anwendung kommt, für die der Bereich, über den die Relationsvariablen
+laufen, U_{n e N+} Pot(D^n) ist, die Menge aller Relationen im
+extensionalen Sinn.
+
+
+Nein. Die Menge der Eigenschaften E(D), die sinnvoll Individuen,
+(Elementen von D), zu- oder abgesprochen werden können, definiere ich
+als Potenzmenge von D, als Pot(D). Die Menge Eigenschaften, die auf
+ein d aus D zutreffen, ist dann natürlich
+
+{ E \in E(D) | d \in E}.
+
+
+Ja.
+
+
+Es läßt sich sogar eine stärkere Aussage zeigen, nämlich
+
+Ax Ay (x != y  ->  EP( Px & ~Py),
+
+die mengentheoretisch ausgedrückt folgendermaßen lautet:
+
+AD Ax Ay ((x e D & y e D & x!=y) ->  EP (P  \subset D & x e P & ~(y e P)).
+
+Klar ist die Aussage deshalb, weil der "semi-formale" Beweis trivial
+ist, für eine Menge D und Elemente x,y e D mit x!=y wähle einfach
+P:={x}. Sie läßt sich aber auch formal in ZF ableiten. Wenn du darauf
+bestehst, werde ich es vorführen ;-)
+
+
+Nils

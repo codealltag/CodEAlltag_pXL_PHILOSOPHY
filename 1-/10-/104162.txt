@@ -1,0 +1,52 @@
+Es geht um folgenden Schluss:
+
+(1) "Eine Konjunktion ist wahr, wenn sie ausschließlich wahre Argumente hat."
+
+(2) "Eine Disjunktion, die ein bestimmtes Argument und dessen
+Negierung als Argumente hat, ist wahr."
+
+"Also ist eine Konjunktion wahr, wenn ihre Argumente ausschließlich aus
+Disjunktionen bestehen, die ein bestimmtes Argument und dessen Negierung als
+Argumente hat."
+
+
+	Kx : x ist eine Konjunktion
+	Dx : x ist eine Disjunktion
+	Wx : x ist wahr
+	Gxy : x ist ein Konjunkt von y
+	Jxy : x ist ein Disjunkt von y
+	Nxy : x ist die Negation von y
+
+Nun können wir den Schluss symbolisch ausdrücken:
+
+(Ay)(Ky & (Ax)(Gxy -> Wx) -> Wy),
+(Ax)(Dx & (Er)(Es)(Jrx & Jsx & Nrs) -> Wx)
+
+Beweis:
+
+1	 (1) (Ay)(Ky & (Ax)(Gxy -> Wx) -> Wy)                          A
+2	 (2) (Ax)(Dx & (Er)(Es)(Jrx & Jsx & Nrs) -> Wx)                A
+3	 (3) Ka & (Ax)(Gxa -> (Dx & (Er)(Es)(Jrx & Jsx & Nrs)))        A
+1	 (4) Ka & (Ax)(Gxa -> Wx) -> Wa                                1 UE
+2	 (5) Db & (Er)(Es)(Jrb & Jsb & Nrs) -> Wb                      2 UE
+3	 (5) Ka                                                        3 &E
+3	 (6) (Ax)(Gxa -> (Dx & (Er)(Es)(Jrx & Jsx & Nrs)))             3 &E
+3	 (7) Gba -> (Db & (Er)(Es)(Jrb & Jsb & Nrs))                   6 UE
+8	 (8) Gba                                                       A
+3,8      (9) Db & (Er)(Es)(Jrb & Jsb & Nrs)                            7,8 MPP
+2,3,8	(10) Wb                                                        5,9 MPP
+2,3	(11) Gba -> Wb                                                 8,10 CP
+2,3	(12) (Ax)(Gxa -> Wx)					       11 UI
+2,3	(13) Ka & (Ax)(Gxa -> Wx)                                      3,12 &I
+1,2,3	(14) Wa                                                        14,13 MPP
+1,2	(15) Ka & (Ax)(Gxa -> (Dx & (Er)(Es)(Jrx & Jsx & Nrs))) -> Wa  3,14 CP
+1,2	(16) (Ay)(Ky & (Ax)(Gxy -> (Dx & (Er)(Es)(Jrx & Jsx & Nrs))) -> Wy) 15UI
+
+qed.
+
+
+A.
+
+
+Also ich bin ja der Meinung, dass es besser ist, _am Anfang_ eher kleinere
+Brötchen zu backen... ;-)

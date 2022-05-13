@@ -1,0 +1,54 @@
+On Tue, 24 Feb 2002 23:49:56 +0200, 
+
+ZF ist ein Axiomensystem der Mengenlehre, welches in der Sprache der
+Mengenlehre mit einem zweistelligen Praedikatszeichen, das Elementzeichen,
+formuliert wird.
+
+Darunter zaehlt das Paarmengenaxiom, Vereinigungsmengenaxiom, das
+Schema der Aussonderungsaxiome, Potenzmengenaxiom, Unendlichkeitsaxiom,
+Extensionalitaetsaxiom, das Schema der Ersetzungsaxiome (evtl. noch das
+Fundierungsaxiom; vielleicht habe ich auf die Schnelle eines vergessen)
+Begriffe wie "Abzaehlbarkeit" und "Ueberabzaehlbarkeit" sind
+mengentheoretische Begriffe, und Weinkauf hat (noch in seiner "naiv" angwen-
+deten Mengenlehre) gezeigt, dass die Menge der reellen Zahlen ueberabzaehlbar
+ist. Diese Begriffe beziehen sich also auf Mengen; sie sind also Begriffe
+der Sprache der Mengenlehre. Die Analysis verwendet Begriffe dieser Sprache
+wie auch viele andere Teile der Mathematik.
+
+
+Ist ZF konsistent, so laesst sich diese Konsistenz nicht /innerhalb/ von
+ZF beweisen. Das heisst aber nicht, dass die Moeglichkeit ausgeschlossen
+waere, zu zeigen, dass ZF inkonsistent sei. Wir wissen es einfach (mathe-
+matisch) nicht, ob ZF konsistent ist.
+
+
+Tja, man koennte auch sagen: Wuerden wir nicht etwas verpassen, wenn wir
+annehmen wollten, dass ZF inkonsistent sei? Tatsaechlich geht man von der
+Konsistenz von ZF aus, und das ist alles, was wir haben; es sind pragmatische
+Gruende oder besser Rechtfertigungen.
+
+
+Die Moeglichkeit muss nicht ausgeschlossen sein; man weiss es einfach nicht.
+Wenn jemand die Konsistenz von ZF /in/ ZF beweist, dann ist ZF nicht kon-
+sistent.
+
+
+Es geht darum, ob ein Satz und seine Negation aus einem Sequenzkalkuel inner-
+halb der Sprache von ZF zu beweisen sind.
+
+Du musst Dir das so "vorstellen". Du hast ein Alphabet begegeben mit einer
+Menge von Variablen, Junktoren und einem Praedikatssymbol (das Elementzeichen).
+In dieser Sprache koennen nach gewissen Regeln Terme und Ausdruecke und
+Saetze gebildet werden. Das ist vorgeschrieben, wie man das macht. Was
+ein Beweis ist, wird definiert durch einen Kalkuel, ein Regelsystem, wie
+man - salopp gesprochen - Saetze miteinander "verbinden" und zu Saetzen
+uebergehen kann, also eine Sequenz von Saetzen, die (Kalkuel)Regeln folgen.
+Eine Theorie T ist dann konsistent, wenn aus diesem Kalkuel nicht sowohl
+ein Ausdruck p als auch der Ausdruck ~p hergeleitet werden kann.
+
+Es ist von Fleiss bewiesen worden, dass man innerhalb von ZF (bei Annahme der
+Konsistenz von ZF) eben die Konsistenz von ZF nicht zeigen kann.
+
+
+Gruss Meinhard
+--

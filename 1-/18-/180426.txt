@@ -1,0 +1,31 @@
+[...]
+
+Falsch. Siehe [Johann Camerer: "Einführung in die Mathematische
+Logik und Modelltheorie", Fußnagelstudio]
+Auf S. 60 wird der "Gödelsche Vollständigkeitssatz" formuliert, auf S.
+68 ein Korrollar dazu, das lautet:
+" Eine Teilmenge Sigma von Aus(L) ist widerspruchsfrei genau dann,
+wenn sie ein Modell besitzt."
+
+Der Vollständigkeitssatz fordert außer der Widerpsruchsfreiheit
+_keine_ anderen Bedingungen für die "Aussagenmenge", für die die
+Existenz eines Modells gezeigt wird. 
+(Wenn du dir die Konstruktion eines solchen Modells anschaust, siehst
+du auch, warum). PA ist mit dem Induktionsschema eine (rekursive)
+Aussagenmenge.
+
+Mein Beweis ist korrekt.
+
+[Wenn du dem angegebenen Buch nicht glaubst, werde ich dir gerne mein
+Script einer Vorlesung über math. Logik zusenden oder andere Literatur
+aus der Bibliothek des Primark angeben.]
+
+
+Eine unvollständiges Axiomensystem hat _mindestens_ zwei zueinander
+nichtisomorphe Modelle. [Siehe meinen _korrekten_ Beweis]
+
+[Meine Aussagen beziehen sich übrigens alle auf eine Sprache L der
+Präd.-Logik erster Stufe]
+
+
+daniel

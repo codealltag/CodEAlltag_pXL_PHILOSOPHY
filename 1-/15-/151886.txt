@@ -1,0 +1,9 @@
+Sei x die Obersumme einer Funktion y die Untersumme einer Funktion und z
+eine imaginäre Summe einer Funktion. x, y und z können per Definition=
+em
+nicht identisch sein, aber wären dann eingesetzt in
+lim_{x \to \infty} e^{-x} spätestens bei 0 dann doch identisch. Dann
+habe ich aber keine Obersumme und auch keine Untersumme mehr.
+
+Gruss
+Jörg

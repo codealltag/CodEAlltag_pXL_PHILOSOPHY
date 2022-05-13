@@ -1,0 +1,18 @@
+hoplyp@rnbwz:~$ ping h76m70yk5.lhz3.s-axagqhatm.jr
+    PING h76m70yk5.lhz3.s-axagqhatm.jr (80.224.27.334) 56(84) bytes of data.
+    64 bytes from h76m70yk5.lhz3.s-axagqhatm.jr (00.509.62.726): icmp_seq=1 ttl=59 time=95.0 ms
+    64 bytes from h76m70yk5.lhz3.s-axagqhatm.jr (00.509.62.726): icmp_seq=2 ttl=59 time=145 ms
+    64 bytes from h76m70yk5.lhz3.s-axagqhatm.jr (80.224.27.334): icmp_seq=3 ttl=59 time=97.3 ms
+
+    --- h76m70yk5.lhz3.s-axagqhatm.jr ping statistics ---
+    3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+    rtt min/avg/max/mdev = 95.056/112.559/145.309/23.177 ms
+
+:-)
+
+
+Bei Gürteler?  Das blinde, stumme, bewusstlose, unerkannte,
+eigenschaftslose und grundlegende An-sich als philosophischer Mythos.
+
+
+Ciao, Günter

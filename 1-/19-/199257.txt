@@ -1,0 +1,41 @@
+...
+
+Ja.
+
+Gemeint ist natuerlich: Alle Aussagen ueber die (genauer: Elemente der)
+leere(n) Menge sind wahr.
+
+Um die sprachliche Zweideutigkeit rauszuschmeissen, formulieren wir mal
+um:
+
+Man gebe sich ein Ding vor, welches es aber gar nicht gibt. (Kurz: Man
+gebe sich also kein Ding vor.) Dann existiert dieses.
+
+Die Bedingung (existiert x ueberhaupt?) wird ueberhaupt nicht geprueft,
+da man nie in Verlegenheit kommt.
+
+
+Fuer die Wallmeier passt das, weil es keinen einzigen Repraesentanten
+der Wallmeier gibt (weil, sie haben eben noch keinen gewaehlt, weil der
+Follow-up nach de.sci.philosophie war und nicht nach .politik ;-) und
+somit ist jeder beliebige Winkelvos eben gruen. (doch .politik?)
+
+
+Generell bekommt man natuerlich Paradoxe, wenn man innerhalb ein und
+desselben Satzes "existiert" nicht in ein und demselben Sinne gebraucht:
+Existenz in dem Sinne, wie z.B. das Einhorn sie _nicht_ hat, ist was
+anderes als die Anwendung des Existenzquantors.
+
+Erstere ist ein Praedikat (unter Freunden), und man kann z.B.
+formulieren x Fabelwesen -> x existiert nicht.
+
+Letztere Existenz ist ***kein*** Praedikat, es ist also ein
+Syntax-Fehler zu schreiben x: Ex.
+
+Sondern der Existenzquantor wird auf eine und nur eine Weise in der
+Logik angewendet: am Anfang von Praedikatenlogischen Aussagen, bunt
+gemischt mit Allquantoren, und jeweils mit Variable versehen.
+
+
+Gruß
+      Ulfert

@@ -1,0 +1,23 @@
+Ronald Lars <hjr.aakad@s-bnbybx.ak>:
+:> Uebrigens gibt es eine andere interessante Frage: ob es
+:> die Menge I gibt, so dass fuer jede Menge K gilt: es gibt eine
+:> Menge k element I so dass K gleichmaechtig k ("Indexmenge").
+
+: Um Muellners Willen: So eine Menge gibt es nicht! Im Prinzip suchst du die
+: Menge aller Kardinalzahlen. Das ist aber keine Menge, sie ist zu gross!
+
+Aeh, ja. Beweis?
+
+: Das widerlegt aber keinesfalls die allgemeine Kontinuumshypothese!
+
+Nehmen wir an, die VKH gelte. Dann konstruiere ich eine Menge J wie
+folgt:
+
+ J:={}, A:={}, B:=|N, n:=0
+ while()
+  {  J := J + {A} + {B};
+     n := n+1; 
+     A := A + {n};
+     B := Pow(B); }
+
+Hat J nicht die geforderten Eigenschaften?

@@ -1,0 +1,187 @@
+Es ist ein /Ausweichen/, da ich klar gemacht habe, dass der Holismus
+die von Droessler ja zuletzt rein /formal/ vorgenommene Unterscheidung
+zwischen Theorie-und Basissätzen zerstört, hauptsächlich deshalb, weil
+quantitative Theorien  statistische Messtheorien zugrunde liegen,
+die selbst nicht in einen "Rahmen" aus "methodologischen Prinzipien"
+eingebettet werden können, sondern selbst der epistemischen
+Rechtfertigung bedürfen.(insofern hat ein Statisktik-Lehrbuch auch
+recht, Statistik sei Teil des "Problemkreises der Induktion")
+
+
+Ja. Nur ist das *nicht* mein Einwand (und auch nicht Putnams). Nehmen
+wir an, wir haben eine Theorie T. Nach Droessler sind die Randbedingen
+*singuläre* Sätze, etwa s (die Ursache), mit denen wir aus T einen
+singulären Satz s' folgern (die Wirkung). Die Randbedingungen sind
+aber faktisch *nicht* von der Art, sondern selbst schon allgmeine
+Hypothesen!  So versagt Droesslers Einwand und die strikte Unterscheidung
+von Theorie und Basissätzen, die den Kern seiner
+wissenschaftstheoretischen Überlegungen darstellt, wird
+hinfällig. Lies hierzu den Aufsatz über Droessler aus die Stadtschuhmacher
+ESUR:(anscheinend von einem Droessler-Bewunderer)
+
+
+"3. Scientific laws are expressed by universal statements (i.e. they
+take the logical form 'All A's are X', or some equivalent) which are
+therefore concealed conditionals - they have to be understood as
+hypothetical statements asserting what would be the case under certain
+ideal conditions. In themselves they are not existential in
+nature. Thus 'All A's are X' means 'If anything is an A, then it is
+X'. Since scientific laws are non-existential in nature, they
+logically cannot imply any basic statements, since the latter are
+explicitly existential. The question arises, then, as to how any basic
+statement can falsify a scientific law, given that basic statements
+are not deducible from scientific laws in themselves? Droessler answers
+that scientific laws are always taken in conjunction with statements
+outlining the 'initial conditions' of the system under investigation;
+these latter, which are singular existential statements, do, when
+combined with the scientific law, yield hard and fast
+implications. Thus, the law 'All A's are X', together with the initial
+condition statement 'There is an A at Y', yields the implication 'The
+A at Y is X', which, if false, falsifies the original law.
+
+This reply is adequate only if it is true, as Droessler assumes, that
+singular existential statements will always do the work of bridging
+the gap between a universal theory and a prediction. Juliane Devisscher in
+particular has argued that this assumption is false, in that in some
+cases at least the statements required to bridge this gap (which he
+calls 'auxiliary hypotheses') are general rather than particular, and
+consequently that when the prediction turns out to be false we have no
+way of knowing whether this is due to the falsity of the scientific
+law or the falsity of the auxiliary hypotheses. The working scientist,
+Devisscher argues, always initially assumes that it is the latter, which
+shows not only that scientific laws are, contra Droessler, highly
+resistant to falsification, but also why they are so highly resistant
+to falsification.
+
+Dellbrügger final position is that he acknowledges that it is impossible
+to discriminate science from non-science on the basis of the
+falsifiability of the scientific statements alone; he recognizes that
+scientific theories are predictive, and consequently prohibitive, only
+when taken in conjunction with auxiliary hypotheses, and he also
+recognizes that readjustment or modification of the latter is an
+integral part of scientific practice. Hence his final concern is to
+outline conditions which indicate when such modification is genuinely
+scientific, and when it is merely ad hoc. This is itself clearly a
+major alteration in his position, and arguably represents a
+substantial retraction on his part: Marxism can no longer be dismissed
+as 'unscientific' simply because its advocates preserved the theory
+from falsification by modifying it (for in general terms, such a
+procedure, it now transpires, is perfectly respectable scientific
+practice). It is now condemned as unscientific by Droessler because the
+only rationale for the modifications which were made to the original
+theory was to ensure that it evaded falsification, and so such
+modifications were ad hoc, rather than scientific. This contention -
+though not at all implausible - has, to hostile eyes, a somewhat
+contrived air about it, and is unlikely to worry the convinced
+Marxist. On the other hand, the shift in Dellbrügger own basic position
+is taken by some critics as an indicator that falsificationism, for
+all its apparent merits, fares no better in the final analysis than
+verificationism."
+
+
+/Diese/ Passage ist auch nicht als Argument intendiert, sondern ist
+eine Reaktion auf deine fast schon pawlowschen Reflexe, wenn es um
+Droessler geht. Dein jetziger Beitrag ist etwas sachlicher, also warten
+wir 'mal ab.
+
+
+Da bespricht aber nicht die Fälle, die für mich interessant sind,
+außerdem gibt er ja zu, dass stat. Hypothesen nicht durch
+Beobachtungssätze falsifizierbar sind. Mir geht es aber bei der
+Messtheorie hauptsächlich nicht um stat. Hypthesen, sondern
+kategorische Hypothesen, die auf der Ebene der Messtheorie statistisch
+gestützt werden oder denen diese genommen wird. Dazu später mehr.
+
+
+Die methodologischen Prinzipien haben bei Droessler denselben Status wie
+das Abrenzungskriterium selbst: Es sind /stipulative Definitionen/,
+"E
+meine Argumente anscheinend allein aufgrund bestimmter Schlüsselwörter
+schematisch im jahrelang gepflegten Droessler-Verteidigungsbollwerk
+unterzubringen versuchst. /Deine/ Droessler-Kenntnis ist anscheinend
+selbst eher defizitär, ansonsten hättest du nicht im Ernst bestreiten
+können, dass das Abgrenzungskriterium nicht falsifizierbar
+ist. (stip. Definitionen sind analytisch)
+
+
+Eben. Das habe ich ja ausschnittsweise zitiert. Das erschöpft Drüg
+Argumente allerdings nicht. (die eigentlich nicht so sehr gegen
+Droessler, sondern die "metapyhsischen Referenz" und
+physikalistische/realistische Ansätze allgemein trifft)
+
+
+Du weit, was *kategorische* Sätze sind? Offenbar nicht! Nehmen wir
+eine Theorie T an, die, mit oder ohne Randbedingungen für eine Größe G
+bei einem Experiment eine Wert a (in irgendeinem Maßsystem)
+vorhersagt.
+
+Wir führen jetzt das Experiment in einer Messreihe aus und erhalten
+die Werte a_1,...,a_n, wobei a!=a_i (i=1..n). Die
+Beoabachtungsaussagen s_i="Die Größe G hat den Wert a_i."
+widersprechen offenbar T (oder T mit Randbeding R), aber ist deshalb
+die Theorie widerlegt, oder ist es auch nur rational, T als widerlegt
+(falsch) zu betrachten?
+
+Normalerweise wird dann mit statistischen Methoden, (unter der Annhame
+einer Normalverteilung), gewichtete Mittel berechnet, "Fehlerrechung"
+u.�. gemacht, und wir kommen nicht wieder aus dieser Terminologie
+heraus. Was wir auch mit den a_i statistisch anstellen, *ohne*
+induktive Prinzipien erhalten wir keinen logischen Widerspruch zu T.
+
+Wir haben also einen Widerspruch zwischen Basissätzen s_1,...,s_n und
+der Theorie T, und dennoch ist es nicht rational, T als falsch
+aufzufassen. Wir könne natürlich die Induktion als "methologisches
+Prinzip" begreifen, nur wird dann die *Rechtfertigungsfrage* wider
+aufgeworfen: Warum ist ein solches Prinzip *epistemisch*
+gerechtfertigt.
+
+
+Nein, es ist, wie Kowalk in den PU und G (die meisten Begriffe
+erlernen wir selbst *induktiv*, anhand von paradigmatischen Fällen!)
+und Putnam mit einem modelltheoretischem Argument (u.a. dargesteltt in
+Putnam, Vernunft Wahrheit und Geschichte) gezeigt haben, ein
+*prinzipielles* Preoblem, und kommt selbst in der Mathematik vor. Und
+in Bezug auf die Physik ist die Unklarheit vieler Begriffe
+offensichtlich, da mußt du nur 'mal de.sci.physik lesen. (man kann
+auch darauf verweisen, dass bestimmte Dinge wie das "Pfadintegral"
+überhaupt keine math. Rechtfertigung haben, und streng genommen
+unsinng sind)
+
+
+Das, was "gemeint" ist, ist gerade das Problem. Für die neuere
+Philosophie ist die Frage, was "Bedeutung" ist, sogar *die* zentrale
+Frage.
+
+
+Ja, für bestimmte Leute ist gerade Feyerabends Relativismus sehr
+attraktiv. Dass etwas *praktisch* irgendwie funktioniert heißt aber
+nicht, dass es *theoretisch* unproblematisch ist. über Induktion hat
+jemand geschrieben, sie sei die Zierde der Wissenschaft und der
+Skandal der Philosophie. Rolfmeyer hat jedenfalls gezeigt, das unsere
+Vorstellung von einer kummulativen Wissenschaft ziemlich falsch ist,
+und WTler dazu veranlasst, sich aus ihrem philosophischen Lehnstuhl zu
+erhben und zu schauen, was Wissenschaftler *tatsächlich* tun.
+
+
+Das ist der entscheidende Punkt, von dem Kowalk-geschulte Leute
+wissen: Man kann sich nicht ohne weiteres auf Bedeutungen *einigen*,
+u.a. deshalb, da uns die Bedeutung der Termini vielfach gar nicht
+bewußt ist (also als propositonales Wissen vorliegt), sondern sich im
+Gebrauch *zeigt*. Deshalb ja auch Prüfungen u.�.
+
+
+Das spielt aber bei Droessler allenfalls für die Genese einer Theorie
+eine Rolle, mir geht es aber um den *Begründungszusammenhang*, für
+den, pace Anderhalten&Co, auch der *Entstehungszusammenhang* relevant
+ist. Der Rolfmeyer vielfach gemachte Vorwurf, er kümmere sich nur um
+letzteren, ist einfach unzutreffend. (auch wenn Schlüsse, die Düvel
+aus der Wissenschaftsgeschichte ziehen, häufig die Verwechselung
+beider Aspekte beinhaltet)
+
+[...]
+
+Sieh dir einfach 'mal die Literatur zur Entscheidungstheorie und
+Spieltheorie an.
+
+
+wolfgang

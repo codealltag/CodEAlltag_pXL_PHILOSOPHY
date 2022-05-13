@@ -1,0 +1,72 @@
+Claus Oesterlin <izuoeoqlo@itrbjjaq.wd> schrieb im Beitrag
+<28910R01.X1575L37@kldnkilo.ws>...
+
+...
+
+
+Diese Frage wurde (heiss und durchaus kontrovers) in sci.crypt 
+diskutiert, da "gute" (d.h. nicht als solche erkennbare) Pseudo-
+zufallszahlen in der Kryptographie eine wichtige Rolle spielen.
+
+Ein Pseudozufallszahlengenerator (P.) wird z.B. dann auffallen, wenn
+er eine feste und zu kurze Periodizitaet hat, die Zahlen sich also,
+irgendwann in gleicher Folge wiederholen (z.B. bei einer Anzahl rueck-
+gekoppelter Schieberegister als P. der Fall) 
+
+Wenn ein bekannter Algorithmus verwendet wird (z.B. Befehl 
+"random (Startwert)"  eines gaengigen Compilers und nur eine 
+begrenzte Anzahl von Startwerten moeglich ist (z.B. 2 hoch 16) 
+dann hat auch ein "Rateangriff" gute Erfolgschancen.
+
+Fuer "sichere" Zufallszahlen wird man entweder einen 
+(deterministischen)  P. nehmen, bei dem sowohl Periodizitaet 
+als auch  die Anzahl  moeglicher Startzustaende so gross ist, 
+dass ein Rateangriff praktisch ausscheidet, oder man verwendet 
+echte Zufallsprozesse (Rauschen, radioaktiver Zerfall)
+
+Auch die (sehr lange) Diskussion in sci.crypt endete 
+unbefriedigend. Es wurde Einigkeit darueber erzielt,
+was ein schlechter P. sei, naemlich ein solcher, ueber
+dessen Systemzustand s(n+1) ich eine exakte oder zumindest 
+statistisch wahrscheinliche  Vorhersage herleiten kann, wenn 
+ich eine Anzahl von vorhergehenden Zustaenden s(n-m).....s(n)
+kenne (und ggf. einige geeignete Annahmen treffe).
+
+An der Frage, was denn ein "guter" P. sei, schieden
+sich die Geister. Einen "praktisch brauchbaren" P. kann ich 
+dadurch herstellen, dass ich eine _ausreichende_Anzahl_  
+willkuerlich gewaehlter und nicht trivial reproduzierbarer(!)
+Systemgroessen als Startwert nehme (Speicherinhalte,
+Zeitabstaende zwischen einer groesseren(!) Anzahl von 
+Tastaturanschlaegen) und diese mit einem kryptographisch 
+starken Verschluesselungsalgorithmus (z.B. IDEA) oder einer 
+kryptographischen  Hash-Funktion (z.B. SHA 1) "verwuerfele", 
+wobei dann das Chiffrat des Durchgangs n, vorzugsweise 
+verknuepft mit weiteren Systemgroessen (Uhrzeit) als Startwert 
+fuer den Durchgang  n+1 dient.
+
+Nur: Der mathematisch strenge Beweis, dass ein als sicher 
+eingeschaetzter Algorthmus  _nur_ durch eine sog. "brute force attack"
+(dem Durchprobieren des gesamten, u.U."astronomisch grossen" 
+Schluesselraumes, die bei einem Schluesselraum von 2 hoch 256
+oder groesser aus heutiger Sicht in den Bereich des Undurchfuehrbaren
+rueckt.) gebrochen werden kann und nicht durch einen eleganten 
+mathematischen Kniff, ist fuer keinen der derzeit  etablierten Algorithmen 
+erbracht. Ich weiss also bei keinem Algorithmus, ob er grundsaetzlich 
+sicher oder nur "nach dem derzeitigen Stand der Technik" sicher ist. 
+
+Das heisst, wir kennen zwei Klassen von Pseudozufallsprozessen.
+
+- Derzeit mit machbarem rechnerischem
+  Aufwand nachweisbare
+
+- Derzeit (noch) nicht oder moeglicherweise 
+  grundsaetzlich nicht mit machbarem 
+  Aufwand  nachweisbare, ueber deren
+  zukuenftige (Nicht-)Nachweisbarkeit wir 
+  keine Aussage treffen koennen.
+
+
+Gruss
+
+Marco-Adam

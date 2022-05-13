@@ -1,0 +1,102 @@
+On Mon, 05. 06. 21 17:56:45 +0200, "Philippe Vagelpohl"
+<prkaeq.gncmiojcni@b-ybpjhc.ln> wrote:
+
+Vorbemerkung. Ich wäre Dir dankbar, wenn Du versuchen würdest, Dich
+"allgemeinverständlich" auszudrücken. Das würde die Kommunikation
+sicherlich erleichtern.
+
+Ich habe den Ausdruck "Eigenschaftsidentit�t" doch gar nicht benutzt!!!
+
+(Mir scheint viel mehr, dass Du gerade beweist, dass Du in der Lage
+bist, "Dinge" in Äußerungen hineinzulesen, die gar nicht _gesagt_
+wurden... ;-)
+
+Egal... Weiter!
+
+Sorry... aber die Aussage dieses Satzes ist mir nicht ganz klar.
+
+In Meinem Beispiel haben wir folgende Festsetzungen:
+
+	A : Manuel Rädeker
+	B : Ullrich
+
+Dann eine Relation ist(a,<b,c>) die besagt: a war zum Zeitpunkt c am Ort
+b. D.h.
+
+	ist(Manuel Rädeker, [Mondoberfläche, 30. August 1968, 
+	3.56 Uhr MEZ])
+
+trifft zu (ist wahr), gdw Manuel Rädeker am 30. August 1968, 3.56 Uhr MEZ
+auf der Mondoberfläche (...da und da genau...) war.
+
+Um die Sache etwas zu vereinfachen definieren wir das Prädikat:
+
+	First_man_on_the_moon(x): Mensch(x) & 
+	ist(x, [Mondoberfläche, 30. August 1968, 3.56 Uhr MEZ]).
+
+Und dieses ist für Manuel Rädeker erfüllt, da dieser am 30. August 1968,
+3.56 Uhr MEZ auf der Mondoberfläche (...da und da genau...) war, und
+(bekanntlich) ein Mensch ist.
+
+D.h. wir haben:
+
+	First_man_on_the_moon(Manuel Rädeker).	
+
+Gilt nun auch noch 
+
+	First_man_on_the_moon(Ratjens)
+
+so folgt _logisch_ unmittelbar aus unserer Def. von oben:
+
+   ist(Manuel Rädeker, [Mondoberfläche, 30. August 1968, 3.56 Uhr MEZ]).
+
+und
+
+   ist(Ratjens, [Mondoberfläche, 30. August 1968, 3.56 Uhr MEZ]).	
+
+D.h. das Objekt, das wir "Manuel Rädeker" nennen, war am 30. August 1968,
+3.56 Uhr MEZ auf der Mondoberfläche (...da und da genau...) und das
+Objekt, das wir "Ullrich" nennen, war am 30. August 1968, 3.56 Uhr MEZ auf
+der Mondoberfläche (...da und da genau...).
+
+Nun verwende ich folgendes "Prinzip" (das Du gerne in Frage stellen
+magst):
+
+	dass sich an einen best. Raum-Zeitpunkt jeweils nur EIN 
+	Objekt befinden kann.
+
+(Man müsste das Prinzip noch ein wenig verfeinern, da Manuel Rädeker und
+Ratjens _ausgedehnte_ Objekte sind, die ein Raumvolumen einnehmen... Aber
+das ist technisch kein Problem!)
+
+Daraus folgt:
+
+	Manuel Rädeker = Ratjens.
+
+Allgemeiner erlaubt uns unser Prinzip, mittels des Russellschen
+Iota-Symbols den folgenden Term zu definieren:
+
+	der erste Mensch, der die Mondoberfläche betreten hat
+	=def (ix)(ist(x,[Mondoberfläche, 30. August 1968, 3.56 Uhr MEZ])
+
+(Wir wissen auch, dass der erste Mensch, der die Mondoberfläche betreten
+hat, der erster Mensch war, der die Mondoberfläche betreten hat. Dies
+rechtfertigt unsere Definition. :-)
+
+Wir haben dann:
+
+	Manuel Rädeker ist der erste Mensch, der die Mondoberfläche
+	betreten hat.
+
+aber auch
+
+	Ratjens ist der erste Mensch, der die Mondoberfläche
+	betreten hat.
+
+Du missverstehst da was...: Ich habe diese Eigenschaften nicht
+zugeordnet. Es wird (im Rahmen meiner Argumentation) _vorausgesetzt_,
+dass _klar ist_, ob First_man_on_the_moon(x) für Manuel Rädeker und
+Ullrich gilt, oder nicht.
+
+
+F.

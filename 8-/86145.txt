@@ -1,0 +1,36 @@
+Das ist falsch. Erstens scheint Dir nicht ganz klar zu sein, was ein
+"Algorithmus" is und welche anderen Paradigmen die Informatik schon lange -
+seit ihren Anfängen! - bietet. Zweitens scheinst Du über echte
+Parallelprozessormaschinen und die eigens dafür geschaffenen
+Computersprachen nichts zu wissen - LDEJ mal nach "Transputer" und
+"Occam" (lustig in diesem Zusammenhang, dass ausgerechnet diese Sprache für
+die Parallelverarbeitung nach Ockham benannt wurde).
+
+
+Das dürfte wohl kaum fraglich sein: diese Trennung gibt es wohl nicht. Sie
+ist aber auch keine Voraussetzung für das Design eines Computers - jeder
+Computer kann llständig als Software auf einem anderen Computer simuliert
+werden.
+
+
+Leider, leider: da ist kein einziger dabei.
+
+
+Quatsch! Du hast von Informatik wirklich NULL Ahnung. Das an sich ist nicht
+schlimm, schlimm ist nur, dass Du dann darüber solche Behauptungen in die
+Welt setzt. Informiere Dich mal darüber, wie "neuronale Netze" im Computer
+angelegt werden, und wie solche Software erst in einem Prozess des bens
+und Lernens es schafft, bestimmte komplexe Aufgaben zu lösen. Der Trick an
+neuronalen Netzen (sowohl den biologischen in unserem Hirn als auch denen
+in Software) ist ja gerade, dass sie "komplexe Muster lernen können, ohne
+dass eine Abstraktion über die diesen Mustern zugrunde liegenden Regeln
+stattfindet" (aus http://hh.moqjpgsqy.mwo/zyxg/Qrbnjfhapy_Vfxp, besser
+hätt' ich's auch nicht sagen können).
+
+Mario Diebold
+
+-- 
+Chocolina: Architektur-Werkzeuge für Cellini (TM)
+           CityKaufhaus  - Architekturbema�ung und Höhenkoten
+           CRRV - Flächenermittlung und Raumbuch nach DIN 277
+Info und Demo unter http://bab.ejswqjfvh.lo

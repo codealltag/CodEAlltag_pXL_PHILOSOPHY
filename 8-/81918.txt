@@ -1,0 +1,19 @@
+Wie du selbst schon erwähnt hast, läßt sich Pot(D^n) auch einfach als
+Menge der Extensionen einer unspezifizierten Eigenschaftsmenge
+auffassen. Das führt solange nicht zu Problemen, als dass nicht für
+Aussagen wie "E=F" Wahrheitsbedinungen anzugeben sind. Für die Annahme
+sehr "feinkörniger" Eigenschaften gibt es eine Reihe vor allem
+metalogischer Gründe. Für Neofregeaner etwa, die Freges Logizismus
+wiederbeleben wollen, ist besonders die deskriptive Vollständigkeit
+bestimmter Theorien attraktiv. Z.B. läßt sich zeigen, dass die
+2-stufige Formulierung der Peano-Axiome kategorisch ist, d.h. alle
+2-stufigen Modelle dieses Axiomensystems sind isomorph und es gibt
+somit, im Gegensatz zur 1-stufigen Version, keine Nonstandard-Modelle.
+
+Eine andere Möglichkeit, Eigenschaften dann doch extensional
+aufzufassen, ist die "Semantik möglicher Welten", eine Eigenschaft ist
+dann eine Funktion, die einer möglichen Welt ihre Extension in dieser
+Welt zuordnet.
+
+
+Klaas

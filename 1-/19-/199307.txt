@@ -1,0 +1,64 @@
+_Damit_ hat er mich nicht wiederlegt. s.u.
+
+Nochmal: ich hatte ueber Theorien und Sprachen geschrieben. Bei beiden
+muss man den einzelnen Grundsymbolen bestimmte Gegenstaende zuordnen.
+Da diese Zuordnung durch Aufzaehlung vorgenommen wird, kann es nicht
+mehr als abzaehlbar viele Zuordnungen und damit Grundsymbole geben.
+
+
+Der Unterschied zwischen unseren Definitionen scheint nur die
+Fomalisierung zu betreffen, ich vermute, Du bezieht Dich auf's
+Lambda-Kalkuel, ich auf PL1. Beide sind ineinander uebersetzbar.
+
+
+Nein, f ist ein-eindeutig.
+
+
+Ja, Ein-eindeutig ist bijektiv.
+
+
+Falsch, da man _symbolweise_ Zuordnung vornehmen kann. zB durch
+Goedelisierung (s.u.).
+
+
+Was wird dann wem zugeordnet? Wie passt das in die Modelltheorie? Was
+ist eine Sprache, bei der man, auch nachdem man unendlich viele ihrer
+Symbole gelernt hat, nicht alle interpretieren kann?
+
+
+Ich schrieb tatsaechlich _nicht_ ueber G's Unvollstaendigkeitssatz.
+Was ist es eigentlich, dass immer alle glauben macht, man rede von
+diesem Satz, wenn sie nur den Namen Ralph hoeren?
+
+Goedelisierung ist ein Verfahren, bei dem den Grundsymbolen einer
+Sprache eindeutig natuerliche Zahlen zugeordnet werden. Wenn die
+Ausgangssprache L war, dann kann man schliessen, dass es ein Praedikat
+'Satz-in-L' geben muss, das genau die Klasse dieser Zahlen als
+Extension besitzt, da die Arithmetik sonst trivial unvollstaendig
+waere. Man kann dann bestimmte Dinge mit diesem Praedikat anstellen,
+zB beweisen, dass die Arithmetik nicht zugleich vollstaendig und
+widerspruchsfrei sein kann. Man kann auch ein Praedikat 'wahr-in-L'
+definieren, das als Extension eine Teilklasse der Extension von
+'Satz-in-L' besitzt, und das auf alle wahren Saetze in L zutrifft.
+Dann hat man eine Wahrheitstheorie fuer Z.
+
+usw.
+
+
+Aber mir scheint, wir streiten um des Kaisers Bart.
+
+
+Die Definition des Begriffs 'Modell', wie ich sie kenne, macht
+explizit vom Begriff der Sprache Gebrauch. Muss sie mE auch, da die
+Modelltheorie ja eine semantische Theorie ist.
+
+Angebot: Du lieferst mir eine Definition von 'Sprache', die mehr als
+abzaehlbar viele Grundsymbole zulaesst, oder eine Definition von
+'Modell', die nicht von den Begriffen 'Sprache', 'Theorie' oder
+'System' Gebrauch macht, aber trotzdem in der Linguistik und der
+Semantik brauchbar ist. Dann werde ich widerufen, dass es nur Modelle
+von Abzaehlbarem gibt.
+
+
+Gruss,
+Gustav.

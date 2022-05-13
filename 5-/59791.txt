@@ -1,0 +1,62 @@
+Hallo Erna,
+
+
+Der gemischte Salat enthält am Ende einen eigene Zutat
+zur Rechtspersönlichkeit. Ich habe es erst gerade dechiffriert,
+unter Linux habe ich mir zunächst wv besorgt und dann mit
+wvHtml die Chause nach html konvertiert, was zwar alle
+Sonderzeichen korrekt darstellt, aber bedauerlicherweise
+werden dabei so enge Linienabstände 'angeordnet', daß das
+ganze unleserlich war. Also habe ich die entsprechenden
+Linienabstandbefehle mit einem
+sed -e's/line-height: 4.166667mm;//g altedatei > neuedatei'
+aus dem Dokument global gelöscht, und nun ist der Salat
+mit Dressing sehr schön anzusehen.
+
+Also ich vermute du willst sagen: Wenn man die Person im
+Recht nur für die Feststellung von Eigentumsverhältnissen
+bzw. der Verfolgung der Änderungen derselben braucht,
+dann kann man ihre Bedeutung funktional explizit darauf
+beschränken und es gibt keine Kollision zwischen dem
+'rechtlichen Personbegriff' und einem philosophischen
+oder wie auch immer. Das Rechtssubjekt wäre dann nur
+eine logische Konstruktion und nicht wirklich 'existent'
+und käme niemand in die Quere.
+
+Ich jedenfalls habe mir das überlegt, aber ich bin mir
+nicht sicher. Setzen wir Person und Rechtssubjekt
+gleich, dann muß ich eine Person sein, um mich auf
+die grundgesetzliche Garantie: 'Jeder hat das Recht
+auf Leben und körperliche Unversehrtheit' berufen zu
+können, denn 'jeder' im Sinne des Gesetzes ist nur ein
+Rechtssubjekt. Wenn also Personsein bedeutet,
+subjektive Rechte wahrnehmen zu können, dann
+kommt es genau darauf an, wer dazugehört und wer nicht.
+
+[...]
+
+
+Ich lehne den Personbegriff von Francine Koths ab.
+Er hat mir konzediert, daß sein Personbegriff
+auf Gegenseitigkeit beruht, daß also die
+artikulationsfähigen mündigen Menschen
+sich gegenseitig ihre Personeigenschaft zusprechen.
+Ich versuche nun zu zeigen, warum ich diesen Person-
+begriff ablehne, indem ich versuche, Konsequenzen
+daraus abzuleiten, die für mich nicht akzeptabel sind.
+Aus Fabiennes Auffassung folgt, daß jemand, der
+mich einfach so und aus Jux und Tollerei grundlos
+töten will, keine Person ist. Das sehe ich anders.
+*Indem* mich jemand *grundlos* tötet, obwohl
+er es auch bleiben lassen könnte, betätigt er
+seine Willensfreiheit, und genau diese Betätigung
+der Willensfreiheit beweist mir, daß mein Mörder
+eine Person ist. Wäre er keine, könnte man ihn
+auch nicht zur Verantwortung ziehen und wegen Mordes
+verurteilen. Ich akzeptiere also nicht, daß jemand
+durch Betätigung seines freien Willens willkürlich
+darüber entscheiden kann, ob ich ihn als Person
+anzusehen habe oder nicht. Ich hielte das für absurd.
+
+Freundliche Grüße
+Pius

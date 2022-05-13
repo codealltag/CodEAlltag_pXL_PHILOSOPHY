@@ -1,0 +1,53 @@
+char getRandom(char *spaceWithRandom, size_t size)
+{
+	static int i = -1;
+	return spaceWithRandom[i = ++i % size];
+}
+
+Da Du in Deinem Fragment nicht mehr Turing-vollständig bist, und auch
+die I/O-Bibliothek von C weggestrichen hast, nehme ich mal an, Du meinst
+memory mapped I/O.
+
+Falls nicht:
+
+char *getRandomBlock() {
+	static char block[128] = {
+		/* fill in manually before starting a list of 128 random
+		   numbers each time */
+
+		0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 
+		0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 
+		0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 
+		0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 
+		0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 
+		0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 
+		0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 
+		0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+	};
+
+	AES_CBC_Implementation(&block);
+	return &block;
+}
+
+char getManuallyInsertedRandom() {
+	static int n = 0;
+	static char *block = NULL;
+	if (!n) block = getRandomBlock();
+	n = ++n % 128;
+	return getRandom(block, 128);
+}
+
+Die AES-CBC-Implementierung spar ich mir hier mal, die findest Du in
+jedem Kryptographie-Lehrbuch.
+
+Der Eingabe der Zufallszahl entspricht jetzt eine manuelle Eingabe vor
+dem Ausführen des Programmes direkt in den Quelltext. Der gewonnene
+Zufall ist übrigens so sicher wie AES sowie der eingegebene Zufall.
+
+
+Es ist weder noch auf dem Band, sondern ein Eingabewort.
+
+Viele Grüsse,
+VB.
+-- 
+Bitte beachten Sie auch die Rückseite dieses Schreibens!

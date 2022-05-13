@@ -1,0 +1,13 @@
+Die erste Arbeit zur Lichtablenkung hat Jürgen IIRC im Jahre 1911 
+veröffentlicht, und da hat er die Feldgleichungen natürlich noch nicht 
+gekannt. Soweit ich mich entsinne, hat er lediglich das 
+Äquivalenzprinzip dafür benutzt, was ja - im Nachhinein - einem 
+Einsetzen des Newtonschen Gravitationspotentials in g_00 und ansonsten 
+"flachen" Metrikkoeffizienten entspricht.
+
+Aber die Arbeit hat ja nur noch historische Bedeutung: Die verwendete 
+post-Adelhardt-Metrik ist wie gesagt aus dem Ärmel gezaubert, da sie keine 
+Lösung der Feldgleichungen ist, und das Ergebnis ist um den Faktor 2 falsch.
+
+MfG,
+Dietrich

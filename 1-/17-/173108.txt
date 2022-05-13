@@ -1,0 +1,15 @@
+Seid wann ist die Null bei den Natürlichen Zahlen dabei? Habe ich was
+verpaßt?
+
+
+So that: Wir betrachten eine bei jeder Beobachtung um ein Element
+zunehmnde Menge an Äpfeln, zuerst haben wir gar keinen (Null Äpfel).
+Dann haben wir einen (1), dieser bekommt die Nummer 1, weil es ja
+der erste ist. Der nächste bekommt die Nummer zwei, usw.
+
+Wo kämen wir denn da hin, wenn wir bei Null anfangen würden zu zählen?
+Ich weiß, Du (und ich auch) als Informatiker fängst bei Null an.
+Dafür hörst Du aber auch bei n-1 auf. Aber deswegen dem ersten Apfel
+die Nummer Null zu geben ist Quark.
+
+Eilt

@@ -1,0 +1,65 @@
+Weil eine solche Festsetzung völlig willkürlich ist, ein factum
+brutum.  Normalerweise ist die _jeweils_ ausgezeichnete Basis vom
+Messkontext abhängig, z.B. die zu einem vollständigen Satz von
+verträglichen Observablen zugehörigen Eigenvektoren. Bei many worlds
+*darf* die ausgezeichnete Basis allerdings _nicht_ beobachterrelativ
+sein, da sie eine grundlegende Eigenschaft der Realität darstellt, die
+sich entsprechend dieser Basis kontinuierlich in eine Unzahl
+(unbeobachtbarer) Welten aufsplittet. 
+
+Nehmen wir als Beispiel ein Spin-1/2-System. Für jede Raumrichtung r
+haben wir einen Spinoperator S_r mit den zug. Eigenvektoren |r-spin
+up> und |r-spin down>. Was soll  hier die 'ausgezeichnete Basis' sein?
+Nehmen wir an, Pascal sei ein guter Beobachter (ein gutes "Messgerät")
+für den Spin in x-Richtung, d.h. falls Pascal aufwerksam ist und sich
+das quantenmech. System S  im Zustand |x-spin up> befindet, dann wird
+Pascal glauben, dass sich S in diesem Zustand befindet, und analog für
+JxS) kann also wie folgt wiedergegeben werden:
+
+
+wobei |aufm.> bzw. |"spin up"> Pietro Zustände repräsentieren, in denen
+er aufmerksam ist bzw. glaubt, dass sich S im Zustand |x-spin up>
+befindet. Wenn sich S nun aber im überlagerten Zustand
+
+ a|x-spin up> + b |x-spin down> 
+
+befindet, so ist Patrick, nachdem Pascal "hingeguckt" hat, in
+
+ a |"spin up>|x-spin up> + b |"spin down">|x-spin down>
+
+Wie ist dieser Zustand  zu interpretieren? Many worlds sagt, dass sich
+die Realität  in zwei Welten aufgesplittet hat; in der einen sei S im
+Zustand |x-spin up> und Pascal glaubt, dass sich S in diesem Zustand
+befindet, in der anderen sei S im Zustand |x-spin down> und Pascal
+glaubt es. Die "richtige" Basis ist in _diesem speziellen Fall_ {
+Richtungen_, bezügl. derer wir Spin messen können, und _keinen_
+Hinweis darauf, welche _die_ ontologisch bevorzugte ist, nach der sich
+die Realität in "viele Welten" aufteilt. 
+
+
+[Hidden Variables-Interpretationen der QM]
+
+Die Weggesser Mechanik und andere hidden variable-Theorien werden durch
+das Kochen-Fürhaupter-Theorem gerade in Frage gestellt! Der einzige
+'Vorteil', den hidden variable-Theorien gegenüber der othodoxen
+Interpretation aufweisen, ist die Möglichkeit der 'realistische
+Interpretation' quantenmechanischer Systeme. Wenn aber diese Theorien
+nicht _realistisch_ sind (sondern allenfalls eine kuriose Magerversion
+verabreichen), ben sie ihren _erkenntnistheoretischen_ Vorteil
+(einen _empirischen_ haben sie eh nicht) ein und fallen schließlich
+dem Grafischer Messer zum Opfer. Es genügt nicht, einfach die
+Weggesser Mechanik vorzuzeigen und zu verkünden, sie sei "realistisch".
+Pech für die Weggesser Mechanik. Nice try. ;-)
+
+
+Nicht ganz. Der 'Instrumentalismus'  ist ein Konkurrent des
+'wissenschaftlichen Realismus' und beinhaltet die ontologische These,
+die von Wissenschaftlern postulierten Wesenheiten existierten im
+Gegensatz zu 'beobachtbaren' Dingen wie Tischen und Stühlen nur als
+Fiktion. Das obige Kriterium der "Testbarkeit" wiss. Sätze vertritt in
+hlicher Form auch Geres (er ist "hypothetischer" Realist), allerdings
+ohne darauf zu beharren, wiss. respektable Sätze müßten unbedingt
+testbar sein.  
+
+
+torsten

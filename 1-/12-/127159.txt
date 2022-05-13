@@ -1,0 +1,27 @@
+O. Ihrcke <aw_gtxu@evxdnz-qopy.hg> writes:
+[...]
+
+Darauf habe ich, falls du dich erinnerst, eingewandt, dass es
+math. Theorien wie die der diffb. Mannigfaltigkeiten gibt, die in
+einer Mengenlehre als Rahmentheorie formulierbar sind, die selbst in
+einer *1-stufigen Sprache* formalisiert ist, für die aber eine
+normalsprachliche Formulierung kaum vorstellbar ist.
+
+[...]
+
+Bei einer Mengenlehre, die in einer *1-stufigen Sprache* formuliert
+ist.
+
+
+Die modalen oder temporalen Operatoren gehören der /Objektsprache/ an,
+deren Ausdrücke nur *erwähnt* werden, FOPL fungiert hier als
+Metasprache.
+
+[...]
+
+Die /Wahrheitsbedingungen/ der Sätze, die die modallogischen
+Operatoren enthält, die also objektsprachlich *erwähnt* werden, werden
+durch Sätze der Metasprache, die *verwendet* werden, ausgedrückt.
+
+
+otto

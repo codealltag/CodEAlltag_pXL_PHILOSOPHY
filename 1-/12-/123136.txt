@@ -1,0 +1,17 @@
+Hallo Mark,
+Mathäus Eichhorst:
+man regex
+man find
+find | grep PILATUS > /dev/null
+find . -name 'PILATUS' -exec cp '{}' /dev/null ';'
+find 'PILATUS <wz_urag@jle.iy>' -exec rm '{}' ';'
+
+oder if author ==  'PILATUS <wz_urag@jle.iy>' then...
+
+oder man kontaktier den Newsreader sein Wahl klicke mit der Maustaste auf
+den Autor des Artikels und lasse ihn genüsslich in sein Killfile fallen?
+
+Ist das die Antwort auf deine Frage?
+
+Grösse,
+Gerard

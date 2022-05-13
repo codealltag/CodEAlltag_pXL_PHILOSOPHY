@@ -1,0 +1,56 @@
+Hallo Gian,
+
+Vielen Dank erstmal für die ausführliche Antwort.
+
+
+Was das Verbrechen angeht, da bin ich nicht informiert, gieb mir bitte etwas
+mehr Info wenn's geht. Aber was die Induktion angeht, Dogma halte ich für etwas
+hart. Letzten Endes landet ein Induktionsbeweis gewöhnlich bei Axiomen und das
+ist legitim. Im Gegensatz zum Dogma ist ein Axiom revidierbar. Das heißt, wenn
+es sich alt inadäquat (nicht als falsch wohlbemerkt) herausstellt, dann läßt es
+sich austauschen - im Gegensatz zum Dogma, denn das steht fest.
+
+
+Akzeptiert. Um nochmal zum Dogma zu kommen: Bei der Induktion  beginnt man mit
+den Axiomen während man bei der Deduktion bei solchen endet. In der Informatik
+sind das *die* zwei Vorgehensweisen für automatische Beweiser. Das vermeidet
+aber nicht, daß der Beweis letzten Endes auf unbeweisbaren "Grundpartikeln"
+beruht, die Du oben Dogmen genannt hast und die ich lieber als Axiome bezeichne.
+
+
+Das ist das normale Vorgehen in der Mathematik und Informatik. Aber das war
+eigentlich die Frage, die ich mir stellte. Dieses Vorgehen benötigt einen
+Formalismus. Man muß 1. ein Axiomensystem festlegen, also eine Menge atomarer
+Formeln, die sozusagen den Kontext abstecken, in dem der Beweis geführt werden
+soll. 2. benötigt man eine Menge von Schlußregeln, die festlegen, wie man von
+einer Formel (oder Aussage) zur Nächsten kommt. Man braucht also einen
+Formalismus um nach obiger Definition eine Beweis zu führen. Ich habe in dieser
+NG noch keine formalen Beweise gesehen. Vielmehr finden sich Folgen von
+Argumentationen, die alle in natürlicher Sprache abgefaßt sind. Wie also muß ein
+nicht-formaler Beweis beschaffen sein, um als philosophischer Beweis zu gelten?
+
+
+Auch die Konstruktivisten in der Mathematik erkennen den Widerspruchsbeweis
+nicht an. Wenn etwas konstruiert werden kann, dann muß man angeben können wie,
+und sich nicht warauf beschränken, einen Widerspruch aus der Annahme der
+Nichtexistenz herzuleiten, Das offenbahrt denn auch wie problematisch der Beweis
+selbst für die Mathematik ist. 
+
+Ich will meine Frage mal so formulieren:
+
+1. Wie sieht ein anerkannter, nicht-formaler Beweis in der Philosophie aus?
+
+2. Giebt es Schlußregeln oder Beweis-Schemata, die nicht Gegenstand der
+philosophischen Untersuchung sind. D.h. giebt es Beweise, die von allen
+Philosophen anerkannt werden?
+
+Gruß, Kora
+
+--
+Wer Haare sht wird Spalten ernten.
+
+
+------------------------------------
+Please remove NOSPAM_ before mailing
+KFIKJD_Esmy@n-fkouwagag.mb
+------------------------------------

@@ -1,0 +1,10 @@
+Hier verwendest Du ein neues Praedikat. Du kannst die zu "besser" duale
+Relation betrachten: x "schlechter" y :<=> y "besser" x. Dann wuerde
+"Alles ist schlechter als Gold" heissen Ax(x "schlechter" Gold). Insbesondere
+waere dann auch Gold "schlechter" als Gold, also auch Gold "besser" als Gold.
+Das heisst dann aber, dass es etwas gibt, naemlich Gold, was "besser" als
+Gold ist.
+
+
+Gruss Armin
+--

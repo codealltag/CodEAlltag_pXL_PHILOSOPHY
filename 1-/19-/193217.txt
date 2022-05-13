@@ -1,0 +1,19 @@
+"Fuzzy sets" sind wie alle anderen Sachen in der herkoemmlichen
+Mathematik unter Zuhilfenahme der Logik, bzw. Mengenlehre,
+definiert. Beweise ueber Fuzzy Sets gehen nach den bekannten
+Regeln der klassischen Logik.
+
+Es gibt mehrwertige Logiken (schon seit dem Altertum) und sie
+sind fuer Forschungszwecke interessant, doch sind die mit Ausnahme 
+der intuitionistischen Logik nicht weit verbreitet. Die Forma-
+lisierungen der intuitionistischen Logik lassen sich nicht mit 
+einer endlichen Anzahl von Wahrheitswerten modellieren, insofern
+hat sie mehr als die bekannten zwei Werte.
+
+Wenn man die Schlussregeln der Wahrscheinlichkeitstheorie als
+eine Erweiterung der Logik auffasst, geht es auch dort nicht
+mit zwei Werten.
+
+
+Lies oy.jphswlec.spbz.
+   Olivier

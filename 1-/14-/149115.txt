@@ -1,0 +1,62 @@
+Luis Unterbrink in 5d708222.991599258@naug.tdv.yjw.to :
+
+
+Egal was damit gemeint ist, ohne so einen ominösen "Grenzübergang"
+erreicht eine Grenzwertfolge weder den Grenzwert, noch lassen sich
+echte Intervalle in einpunktige Intervalle zerlegen.
+
+
+Das ist die altbekannte Grenzwertproblematik. Wenn wir nur die
+Zaunpfähle bzw. Punkte links vom Zielpunkt 1/3 betrachten, dann
+starten wir mit 0, erhöhen um 1/4, weiter um 1/16, um 1/64 ...
+Der Abstand zum Zielpunkt reduziert sich mit jedem Schritt auf 1/4.
+
+Es hindert uns nichts, diesen Vorgang mit "Vergrösserungsglas" zu
+beobachten, wobei wir mit jedem Schritt die Vergrösserung um den
+Faktor vier erhöhen. Somit bleibt der beobachtete Abstand eines
+jeden neuen Punkts zum Zielpunkt immer konstant, und das Faktum,
+dass der Grenzpunkt x = 1/3 durch eine unüberbrückbare Kluft von
+den Punkten der (auf 1/4 basierenden) Folge getrennt bleibt, wird
+besonders offensichtlich.
+
+
+Wenn es um die Frage geht, in wieviele echte Intervalle mit
+reellen oder nur rationalen Endpunkten sich das Einheits-
+intervall zerlegen lässt, ist das Problem dadurch gelöst, dass
+das Einheitsintervall auch am Punkt 1/3 geteilt werden kann.
+
+
+Diese Überlegung gilt nicht nur für x = 1/3 sondern für alle
+reelen Zahlen, die nicht zum "Bineargitter" gehören (d.h. für
+alle Zahlen die sich nicht in der Form m/2^n) schreiben lassen.
+Das sind insbesondere auch alle irrationalen Zahlen.
+
+
+Was du hier als "'Grenzpunkte' des Intervalls mit der einzigen
+Zahl 1/3" bezeichnest, ist im wesentlichen eine Umschreibung
+von "Nachbarn von 1/3".
+
+Meine Meinung ist ganz einfach: das Intervall um den Punkt 1/3
+bleibt immer ein echtes Intervall (Vergrösserungsglas-Argument).
+Somit bleibe ich auch davon überzeugt, dass gemäss Hoßfelds
+Diagonalprinzip-Definition das Einheitsintervall sich aus einer
+überabzählbaren Menge echter Intervalle mit reellen Grenzpunkten
+zusammensetzt.
+
+
+Insofern man die Argumentation zulässt, dass Intervalle sich
+mittels Grenzübergang auf Punkte zusammenziehen, ergibt sich
+genau dieses "Resultat": Auch die Zahlen, die ursprünglich als
+nicht zum (abzählbar unendlichen) Bineargitter gehörig definiert
+wurden, gehören dazu. (Franz lässt grüssen!)
+
+
+Dass sich beim Spekulieren über das "Endresultat" eines endlosen
+Prozesses Willkür einschleicht und Widersprüche kaum vermeidbar
+sind, ist wenig erstaunlich.
+
+
+Gruss, Simon
+
+Mathematik ohne Formalismus ist lahm, Mathematik ohne Anschauung blind
+(frei nach Olaf Uhlig)

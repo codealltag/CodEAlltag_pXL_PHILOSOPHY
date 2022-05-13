@@ -1,0 +1,27 @@
+"Gernot Zinser" schrieb
+
+
+/Formal/ ist es eine Aussage mit logischer Implikation (aus A folgt B).
+Deren gibt es allerdings semantisch verschiedene. Eine strikte
+Implikation (Immer wenn a, dann gilt notwendig b) liegt hier nicht vor.
+
+/Inhaltlich/ ist die Aussage deshalb günstigen Falls tautologisch:
+"Immer wenn die Straße nass ist, weil es auf diese geregnet hat,
+ist sie nass, weil es auf diese geregnet hat."
+
+Wenn die Straße nicht nass ist, auch wenn es geregnet hat, z. B.
+weil es wo anders oder zwar auf die Straße, aber zu wenig geregnet
+hat oder weil die Straße durch einen Tunnel führt, dann ist sie eben
+nicht nass obwohl es geregnet hat. Abgesehen davon kann die
+Straße aus einem anderen Grund nass sein, z. B. nach Hochwasser
+oder nach Eis- oder Schneeschmelze.
+
+Das wirft noch die Frage auf ob bei einer bestimmter semantischen
+Implikation deren logische Umkehrbarkeit gegeben ist. Bei modal-
+logischen Aussagen ist das z. B. nicht der Fall. Wenn (nur) A vorliegt
+und deshalb B als möglich gilt, heißt das nicht, dass, wenn (nur) B
+vorliegt, auch A gelten muss.
+
+Mit freundlichen Größen
+
+Gerard

@@ -1,0 +1,66 @@
+"Noah Uslar" schrieb
+
+
+Der Beweis ist in Deinem Beispiel ein beliebiges Konstrukt eines X.
+Die Frage war nicht, ob ein solcher Beweis denkbar ist, das ist er
+trivilaer Weise, sondern welcher Wahrheitswert X im mathematischen
+Sinn zukommt.
+
+
+Darum alleine geht es hier aber nicht, sondern um einen mathema-
+tischen Beweis, der sich darum dreht, ob eine bestimmte Zahl oder
+eine bestimmte Art von Zahlen auf bestimmte Weise konstruierbar ist.
+Für einen Satz entsprechend dem Satz der Goldbachchen Vermutung
+(hier Satz A) ist in diesem Zusammenhang entscheidend, dass
+dieser Satz nicht bewiesen ist (oder ob er bewiesen oder widerlegt
+werden kann). Der Satz wird genau deshalb als Vermutung bezeichnet,
+weil er zwar in einem überschaubaren Bereich von Zahlen zutrifft
+aber nicht entscheidbar ist ob er immer zutrifft.
+
+
+Man kann es sich auch sparen, weil der Beweis ohne Rotkehlchen
+auskommt. der Beweis dafür ist, das solche Beweise vorliegen.
+
+
+Nein, die Frage war, welcher Wahrheitswert einer mathematischen
+Vermutung zukommt. Für den beispielhaften Satz A gilt, dass er
+in einem überschaubaren Zahlenbereich zutrifft, sofern ist er wahr
+aber mit eben dieser Einschränkung (es gibt Zahlen für die er zu-
+trifft und keinen Beweis, nicht einmal eine begründete Annahme,
+warum er nicht für alle gemeinten Zahlen zutreffen könnte). Weil
+der in Frage kommende Zahlbereich nicht willkürlich einschränkbar
+ist (weil er unendlich ist) und außerdem eine zahlentheoretische
+Abhängigkeit der in diesem Satz A gemeinten Zahlen (und deren
+Konstruktionprinzipien) voneinander gibt, hat man es mit einem
+auf den ersten Blick vielleicht unerwartet komplexen Teilbereich
+von Zahlen zu tun. Daraus folgt, dass ein Beweis für so etwas
+wie den Satz A seinerseits diesen komplexen Gegenstand, seine
+Axiome, seine Prinzipien etc. zum Gegenstand hat. Mit dem
+Beweis eines "Allsatzes" im primitiv-positivistischen Sinn hat das
+alles nichts zu tun. Aus diesen Gründen ist es richtig, den Satz
+A ausdrücklich als Vermutung zu bezeichnen und damit auszu-
+drücken das er nicht bewiesen ist, das heißt, dass weder fest-
+steht ob er wahr oder falsch ist, nicht feststeht, ob die Frage
+entscheidbar ist und schon gar nicht, warum das so ist.
+
+Dein Konstrukt X hat demgegenüber, /wenn/ sich die zahlen-
+theoretische Fragestellung /nicht/ darin reflektiert, mit dieser
+Frage gar nichts zu tun. Sofern dein äußerst vages Argument
+ist, es könne doch vielleicht sein, dass Annahmen über die
+Wahrheit des Satzes A zur Konstruktion eines beliebigen X
+führen, mag das ja sein oder auch nicht. Nur sagt das weder
+etwas über die Entscheidbarkeit oder die Wahrheit von Satz A
+noch über die von X in einem zahlentheoretischen oder all-
+genmein /mathematischen/ Sinn. Deren Gegenstand sind
+nämlich nicht nur logische Schlüsse, sondern zugleich solche
+über mathematische Objekte und deren Konstruktionsregeln.
+Ob X wahr ist, lässt sich also mit Sicherheit nicht daran zeigen,
+ob dessen Konstruktion eine beliebige "Wahrheitstabelle"
+zugrundeliegt, wie einer, die den möglichen Ausgang des
+Werfens einer Münze tabellarisch darstellt. Du hast es zwar
+offensichtlich nicht verstanden aber trotzdem schön, dass wir
+darüber gesprochen haben.
+
+Mit freundlichen Größen
+
+Volkmar

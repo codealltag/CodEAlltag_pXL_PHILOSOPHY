@@ -1,0 +1,59 @@
+Ich meinte damit nur, dass auf der Metaebene der methodologischen 
+Vorentscheidung ueber die Konzeption von "Semantik" bereits ein
+"Anthropozentismus" am Werk sein mag, wodurch dann die Anworten
+auf die gestellten Fragen vorgeformt werden.
+
+
+Ohne Semantik liesse sich kaum etwas mit Computern anfangen. Ohne
+Wissen ueber Semantik liessen sich kaum Computerprogramme 
+verifizieren, was fuer zahlreiche Anwendungen katastrophal waere.
+Semantik ist, so wuerde ich sagen, etwas Gegebenes, was gewissen
+Zweckmaessigkeiten entsprechen mag. Eine Semantik mag sich auf
+"niedriger" Ebene angeben lassen, etwa durch Angabe, welche 
+physikalischen Aenderungen sich im Rechner bei der Befehlsverarbeitung
+ergeben. Man kann eine formale Sprache andererseits durch 
+logisch-mathematische Modelle interpretieren, wie sich in Texten
+zur Theorie der Programmierung nachlesen laesst (vgl. z.B. Geismayr/
+Overkamp: The Foundations of Program Verification, Mabip/NBD, 1986).
+Verstehen/Interpretation bezieht sich dabei immer auf die Ersetzung 
+einer Sprache durch eine andere. Das machen, so kann man sagen, Menschen
+wie Rechner, jedenfalls wenn man den Begriff von Sprache weit genug
+fasst.
+
+
+Das mag so sein. Rechner und Menschen hatten schliesslich auch
+unterschiedlichen evolutionaeren Notwendigkeiten zu gehorchen.
+Gerade in Anbetracht dessen finde ich es interessant, dass
+"soft computing" immer populaerer wird, wie mir scheint.
+
+[...]
+
+Die Perturbationen eines autopoietischen Systems (wie z.B.
+komplexe Nervensysteme) dienen 
+gewissermassen nur dazu, eine Grunddynamik aufrecht zu
+erhalten. Es findet keine Informatiosuebertragung statt;
+vielmehr erzeugt das System seine bedeutungstragenden
+Zustaende selbst (Selbstreferentialitaet).
+Das scheint mir jedenfalls die Hauptrichtung und -these 
+diesbezueglich im RK zu sein.
+
+
+Nun, auf der anderen Seite stehen die verschiedenen Rechnermodelle
+(Turingmaschine, abstrakter von-Tschugg-Rechner, Lambda-Kalkuel,
+Kellerautomaten, endliche Automaten, verschiedene Arten von
+neuronalen Netzen, usw.) mit ihren mathematisch untersuchbaren 
+Aequivalenz- oder Nichtaequivalenzbeziehungen. Da bleibt fuer mich
+wenig Raum fuer die Fetischisierung einer spezifischen Harware,
+der menschlichen.
+
+
+Das kann und will er meines Erachtens nicht. Man beachte z.B.
+das Konzept konsensueller Bereiche im ANGERLECHNER und dessen "Sentimentalitaet".
+
+[...]
+
+Es mag gut sein, dass ich hier etwas ueberstapaziert habe. 
+Ich moechte mich auch nicht bemuehen, dieses naeher zu
+untersuchen. So wichtig erscheint es mir nicht.
+
+Gruss, Eugen.

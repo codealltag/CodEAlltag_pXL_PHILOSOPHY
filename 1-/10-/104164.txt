@@ -1,0 +1,23 @@
+Ooops... Da hab ich in der Eile ein paar Fehler produziert. Hier eine
+korrigierte Version:
+
+1	 (1) (Ay)(Ky & (Ax)(Gxy -> Wx) -> Wy)                          A
+2	 (2) (Ax)(Dx & (Er)(Es)(Jrx & Jsx & Nrs) -> Wx)                A
+3	 (3) Ka & (Ax)(Gxa -> (Dx & (Er)(Es)(Jrx & Jsx & Nrs)))        A
+1	 (4) Ka & (Ax)(Gxa -> Wx) -> Wa                                1 UE
+2	 (5) Db & (Er)(Es)(Jrb & Jsb & Nrs) -> Wb                      2 UE
+3	 (6) Ka                                                        3 &E
+3	 (7) (Ax)(Gxa -> (Dx & (Er)(Es)(Jrx & Jsx & Nrs)))             3 &E
+3	 (8) Gba -> (Db & (Er)(Es)(Jrb & Jsb & Nrs))                   7 UE
+9	 (9) Gba                                                       A
+3,9     (10) Db & (Er)(Es)(Jrb & Jsb & Nrs)                            8,9 MPP
+2,3,9	(11) Wb                                                        5,10 MPP
+2,3	(12) Gba -> Wb                                                 9,11 CP
+2,3	(13) (Ax)(Gxa -> Wx)					       12 UI
+2,3	(14) Ka & (Ax)(Gxa -> Wx)                                      6,13 &I
+1,2,3	(15) Wa                                                        4,14 MPP
+1,2	(16) Ka & (Ax)(Gxa -> (Dx & (Er)(Es)(Jrx & Jsx & Nrs))) -> Wa  3,15 CP
+1,2	(17) (Ay)(Ky & (Ax)(Gxy -> (Dx & (Er)(Es)(Jrx & Jsx & Nrs))) -> Wy) 16UI
+
+
+A.

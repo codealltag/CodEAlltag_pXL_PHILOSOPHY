@@ -1,0 +1,258 @@
+Huhu!
+
+Hab mal wieder etwas Zeit...
+
+Jaja, warum soll man denn wieder Mathematik und Philosophie als
+getrennte Dinge behandeln? Eines ist doch klar: Wir können Systeme
+und Theorien nicht aus dem Nichts aufbauen. Wir brauchen dazu
+Kommunikation und Sprache, Vereinbarungen, mit was wir arbeiten
+wollen und mit was nicht. Wohl wissend, daß wir uns damit einschränken.
+So ist das denn auch mit den Weltbildern.
+
+
+Tatsächlich brauche ich für ein unäres Zahlensystem eben eine solche
+Liste. Egal, ob sie schon ist oder ich sie erst generieren muß. Sobald
+ich sie habe, ist es irrelevant, woher. Durch meine Erfahrung mit dem
+Zahlenraum bis 10, bis 100, bis 1000, etc. habe ich immer geeignete
+Beschreibungssysteme gefunden. Und ich habe schnell gesehen, daß ein
+nicht unäres Alphabet eine wesentliche Komprimierung bringt
+(logarithmischer
+Aufwand). Aber auch da brauche ich für immer größere Zahlen immer mehr
+Darstellungsaufwand.
+
+Nun ist doch das Axiom wie folgt: "Zeige mir ein (unäres) Symbol -
+und ich generiere kanonisch einen Nachfolger, der sich von allen
+vorhergehenden Symbolen unterscheidet."
+
+Um mal bei Guy und Uschi anzufangen... ("Philosophie" ;-) )
+
+Enno, wenn Du jetzt meinst, das würde nicht immer gehen,
+diese Möglichkeiten seien beschränkt, dann ist das doch Dein
+Axiom, was mit dem im Widerspruch ist, was allgemein verwendet
+wird. Daher auch der ganze Protest, daß man die allgemeine und
+bewährte Sprache nicht einfach aufgeben will. Dazu muß man schon
+anführen, weshalb das andere Fehler hat - oder das Neue besser
+ist. Und zwar "besser" in dem Sinn, daß es mehr kann und/oder
+weniger braucht. Und ich sehe, daß es mehr braucht (nämlich die
+Beschränkung), ohne daß man dadurch etwas gewinnt.
+
+Die Sprache ist in meinen Augen konventionelle Datenübertragung
+zum Austausch von codierten Informationen. Dabei ist es so, daß
+die physischen Daten, die Symbole/Zeichen (in unserem Fall das
+unre Alphabet bzw. daraus generierte Wörter) - gerade auch, um
+die Kommunikation erfolgreich beenden zu können - endlich bzw.
+begrenzt sind in jedem Einzelfall. Aber nur weil jedes Wort bzw.
+jeder Satz ein Ende hat, brauchen wir nicht zu fordern, daß man
+auf immer neue, längere Romane verzichtet...
+
+Es ist schließlich auch die Frage, ob eine Endlichkeitsforderung
+an die natürlichen Zahlen (z.B. 10^(10^(10^(10^(10^(10^(10^(10))))))))
+überhaupt irgendwelche praktischen Auswirkungen hätte, die das
+rechtfertigen. Gerade in der Theorie kann man sehr viel damit
+beweisen, daß man einen unendlich großen Vorrat hat. Das bedeutet
+im Einzelfall dann immer (auch in der Theorie), daß es irgendeine
+(endliche) natürliche Zahl gibt, nach der (also für alle nachfolgenden,
+ebenfalls endlichen natürlichen Zahlen) bestimmte Eigenschaften
+erfüllt bzw. nicht erfüllt sind. (Siehe z.B. Limes, Stetigkeit, etc.)
+
+Jede natürliche Zahl ist endlich. Und wir können sie zum Zählen
+benutzen. Aber wir brauchen uns da keine Beschränkungen aufzuerlegen.
+
+
+Leider schon wieder falsch. Diese unendliche Zahl gibt es halt
+nicht - zumindestens im Standardmodell. Meist reichen diese natürlichen
+Zahlen.
+
+
+Naja. Da muß man aufpassen. Wenn ich die 5 darstellen will, kann ich
+"V", "5", "|||||", "OIIIII", etc. angeben. ich habe also hier
+verschiedene
+konventionelle, explizite Darstellungen. Es gibt aber auch implizite:
+"(10 : 2)". Also ohne Verwendung einer expliziten Darstellung der 5 kann
+ich sie doch implizit verwenden. Die Zahl ist also unabhängig von ihrer
+Darstellung. Folglich muß man immer auch angeben, was die Zahl per
+definitionem sein soll - und wie man sie dann darstellen kann. Und nur
+weil man endliche Zahlen explizit ausdrücken kann, muß man das doch
+nicht
+für alle tun. "e" ist z.B. eine Zahl, die nicht in den rationalen
+enthalten
+ist, aber über eine Folge (natürliche Zahlen zum Numerieren der Folge
+sind
+in |Q) von rationalen Zahlen ( ((n+1)/n)^n ) implizit definiert. Man
+macht
+also mit dem, was man schon hat, (durch Vervollständigung) etwas Neues.
+Und
+wenn man z.B. zeigt, daß e wohldefiniert ist, dann hat man es auch. Das
+Alphabet wird dann um das Symbol "e" erweitert.
+
+"e" hört also sehr wohl auf - genauso wie "1/3". Auch wenn die
+Dezimaldarstellung nicht abbricht. Und die natürlichen Zahlen hören
+ja auf, nämlich immer genau da, wo man hinguckt. Es ist eben kein
+Aufhören im Sinne von "Hier ist das Ende der Fahnenstange, hier geht
+es nicht weiter.", sondern im Sinne von "Es geht zwar noch weiter, aber
+'wie weit', das interessiert mich nicht."
+
+Die natürlichen Zahlen sind also implizit als Ganzes gegeben, aber
+vollständig enumerieren (d.h. explizit hinschreiben) kann man sie
+nicht. Das behauptet aber auch gar keiner.
+
+Begrenzt sind sie schon. "Grenze" verlangt nämlich nach einer Ordnung.
+Und die übliche totale Ordnung liefert eine untere Grenze. Auf der
+anderen Seite aber sind die natürlichen Zahlen offen, also nicht
+abgeschlossen.
+
+
+Die Anzahl ist unendlich, allein schon aus einer bemerkenswerten
+Spielerei heraus:
+
+Am Anfang habe ich noch keine natürliche Zahl, die Anzahl ist also 0.
+Hey, da haben wir aber eine natürliche Zahl: 0. Die Anzahl ist also 1.
+Hey, da ist die 1. Noch eine natürliche Zahl!. Die Anzahl ist also 2.
+usw.
+
+Wenn jemand also behauptet, die Anzahl der natürlichen Zahlen sei
+endlich, soll er einfach die Anzahl angeben, um sich selbst zu
+widerlegen.
+Und ja, die Argumentation trennt die Zahl von der Darstellung. Aber das
+muß man ja, um überhaupt Mathematik betreiben zu können.
+
+
+"Unbegrenzte Endlichkeit" bedeutet, daß man trotzdem man (in einer
+Richtung)
+auf keine Grenze stößt, nicht immer Neues sieht. Man erkennt also etwas
+wieder. Meist nennt man das "Zyklen". Die natürlichen Zahlen sind aber
+durch die eingeführte totale Ordnung zyklenfrei. Daher würde eine obere
+Grenze für die natürlichen Zahlen Widersprüche zu den Axiomen
+verursachen:
+Bei irgendeiner nat. Zahl N muß die Grenze auftauchen, sonst wäre sie ja
+keine. Dann aber bedeutet die obere Grenze, daß der Nachfolger N' die
+Grenze verletzen würde. Folglich darf der Nachfolger nicht aus |N sein.
+Widerspruch. Also muß er schon vorher dagewesen sein. Widerspruch zur
+zyklenfreien Ordnung.
+
+Was soll denn eine "potentielle Unendlichkeit" sein???
+
+Wie man es also dreht und wendet: |N ist unendlich und einseitig
+begrenzt.
+
+
+Falsch. Du beschreibst einen Aufz�hlungsalgorithmus. Die so definierte
+Menge ist aber dadurch schon gegeben: Wenn man sich also fragt, ob
+n eine Zahl aus der Teilmenge ist, dann wartet man einfach ab, bis
+eine größere Zahl ausgegeben wird. Dann weiß man, ob n aufgezählt
+wurde oder nicht. Das ganze ist nur problematisch, wenn man nur die
+Elemente aufzählt, die drin sind, während man die Information, daß
+ein Münzwurf gegen eine Zahl stattgefunden hat, verschweigt. Das ganze
+läuft unter dem Stichwort "Theoretische Informatik" und "Entscheidungs-
+verfahren", "Aufzählungsverfahren", "total" und "partiell".
+
+Fairerweise müßtest Du zugeben, daß Du �beraufz�hlbare Mengen nicht
+mit einem Algorithmus beschreiben kannst. Und so ist es dann auch mit
+der Potenzmenge der natürlichen Zahlen. Das läßt sich am besten einsehen
+mit dem Cantorschen Diagonalisierungsverfahren.
+
+
+Wozu jetzt die irrationalen Zahlen beim Cantorschen Diagonalisieren?
+Betrachte doch zu jeder Menge A einfach mal die Zahlenfolge
+(für n \in |N) a_n = 1, wenn n \in A, a_n = 0, sonst.
+Man erhält also für jede Menge A eine solche 0-1-Folge, umgekehrt
+beschreibt jede solche Folge eine Teilmenge der natürlichen Zahlen.
+Wenn Du jetzt auf den Gedanken kommst, daß Du die Potenzmenge
+aufzählen könntest, dann kann man gegen Deine (oder jede andere
+beliebige) Aufzählung diagonalisieren. So einfach ist das.
+
+Wenn Du also die Potenzmenge aufzählen willst, dann wirst Du
+Schiffbruch erleiden; aber nicht, weil sie unendlich groß ist,
+sondern weil sie überabzählbar ist.
+
+Vielleicht stellst Du Dir ja die Potenzmengenbildung intuitiv
+so vor, daß Du alle Teilmengen von {1,2, ..., n} bildest und
+dann der "unfertigen" Potenzmenge hinzufügst. Dann aber erhälst
+Du z.B. nicht die Menge 1010101010101010101010101010101... (das
+könnte ich auch anständig definieren, aber ich glaube der Punkt
+wird klar: Die Menge ist eine Teilmenge der natürlichen Zahlen,
+die keine Teilmenge der ersten n ist - und sei n noch so groß!
+Aber sie ist aufzählbar. Und sogar gut entscheidbar: Es sind
+nämlich genau die geraden Zahlen.)
+
+
+N. Jede getrennt betrachtete, also (mit unseren endlichen Mitteln
+(c:= ) identifizierte Zahl kann man über die Identifikation benennen.
+Der Punkt ist doch, daß wir nur ein endliches Alter erreichen,
+begrenzte Mittel haben und uns linear in der Zeit bewegen - in
+so kleinen Schritten, wie es unser Körper es erlaubt. Man kann
+also nur beschränkt viel gleichzeitig und das auch nur eine
+beschränkte Zeit in mindestgro�en Zeitintervallen. Vielleicht
+kommt ja daher das Bedürfnis, die Welt endlich zu machen - damit
+man über der Welt stehen kann?
+
+
+tut er doch gar nicht. Er sagt nur, daß das mehr ist, als man zählen
+kann. Und das unter der Annahme, daß wir höchstens ewig leben könnten.
+
+
+Alles, was endlich ist, ist abzählbar. Klar. Der nächste Schritt ist
+"abzählbar unendlich". Das soll heißen: Ich komme zwar nie zum Ende,
+aber für jedes noch so doofe Element brauche ich nur endliche Zeit,
+bis ich es aufzähle. Daher ist die Menge insgesamt unendlich groß,
+auch wenn sie (und damit all ihre Elemente) aufzählbar sind.
+
+Und dann gibt es halt die überabzählbaren Mengen. Die sind also
+auf jeden Fall schon mal unendlich groß, aber auch jede Aufzählung
+versagt, da wir eben nicht alles, was in der Menge ist, aufzählen
+können. Um das zu sehen, kommt das Ingenillm-Verfahren zum Einsatz.
+
+Das mit den Bijektionen ist dazu gut, Mengen vergleichen zu können.
+Da muß man dann aber auch akzeptieren, daß durch diese Abbildungen
+die Intuition ausgeschaltet werden muß. Beispielsweise gibt es
+genausoviele (positive) gerade Zahlen wie natürliche Zahlen, auch wenn
+die natürlichen aus geraden und ungeraden Zahlen bestehen. Man muß
+sich bei der Unendlichkeit also entscheiden, ob man wissen will,
+"wieviel" Elemente es in der Menge oder Untermenge gibt - und
+"welche". Das ist die Konsequenz, daß man durch Zählen eben nicht
+herausfindet, welche Elemente denn da sind.
+
+Bei endlichen Mengen ist das aber legitim. Nicht umsonst zählt
+ein Lehrer bei Klassenfahrten durch, so daß er - unter der
+Annahme, daß er fremde Kinder erkennt - dann wirklich die Gewißheit
+hat, daß bei konstanter Zahl auch kein Schüler abhanden gekommen ist...
+Also: Intuition hinterfragen!
+
+
+Leider auch falsch in dem Sinne, wie Intervalle gebraucht werden:
+nämlich mengentheoretisch. Man betrachtet also nur Mengen von Punkten.
+Die Punkte sind alle dimensionslos, auch wenn sie evtl. Koordinaten
+haben oder auch Abstände.
+
+
+Nochmal im Guten:
+überlege Dir mal, wie Du alle rationalen Zahlen im Intervall [0,1)
+aufzählen willst. Keine Sorge, das funktioniert.
+
+Dann nimm' Dir mal meine 0-1-Mengen von oben (jaja, die gemeinen
+Dinger, gegen die man diagonalisieren kann).
+
+Betrachte dann zu jeder 0-1-Menge /-Folge die entsprechende Zahl
+mit "0," davor im Binärsystem. Das beschreibe ich nicht formal,
+sondern anhand eines Beispiels:
+
+Nimm noch einmal die geraden Zahlen: 8864907930782...
+(0 drin, also "1", 1 nicht, also "0", 2 drin, also "1", etc.)
+Daraus wird im Binärsystem: 0,101010101010101...
+Also 1/2 + 1/8 + 1/32 + ... Das ist ne periodische Zahl, also
+rational, also kommt sie irgendwo in Deiner Aufzählung vor.
+
+Und jetzt beschreibe ich anhand jeder Deiner Aufzählungen von
+Zahlen zwischen 0 und 1 eine neue Zahl eben über die Ingenhag
+Diagonalisierung. Das ganze geht natürlich auch im Dezimalsystem
+und mit ein bißchen mehr Aufwand auch ohne Repräsentationen.
+
+Sobald Du also eine Menge akzeptierst, die nicht endlich ist,
+- und das hebt die eigene Sichtweise klar über das eigene Leben
+hinaus - kann man daraus eine wunderschöne Mathematik machen,
+die insbesondere manchmal auch Antworten dazu gibt, was endliche
+Konstrukte vermögen und was nicht.
+
+Bis denne,
+
+	Victor

@@ -1,0 +1,149 @@
+Das Buch von Unterbichler kenne ich auch nicht; das, was Du darüber aber
+andernorts gesagt hast, klingt durchaus interessant.
+
+	*stöhn*
+
+Ja. Justh Buch "Beginning Logic" ist -wie man so sagt- ein
+"Klassiker". Lediglich die logischen Konnektive (Operatoren) schreibt
+man heute (in der Regel) etwas anders als Janning das (1965) tut.
+
+Was zweifellos eine gute Sache ist.
+
+In Bezug auf Imboden ist das in der Tat so; er schreibt ja im Vorwort
+seines Buches:
+
+    "Die vorliegende Darlegung geht auf Günther Janning (1965) zurück,
+     wobei oft dessen formalen Beispiele verwendet werden." 
+
+Nun etwas von einem anderen Autor zu übernehmen ist durchaus nichts
+Ehrenrühriges. Schlecht ist es aber m. E., wenn man sich dazu berufen
+fühlt, das übernommene auch noch zu "verschlimmbessern".
+
+Recht so. Das vereinfacht die Dinge ungemein. Allerdings k a n n ich
+mich durchaus auch auf Ruppens Notation einstellen, auch wenn ich
+persönlich sie für "hirntot" halte. Das macht es aber vermutlich Dir
+leichter, die Diskussion h i e r in Einklang mit dem Inhalt des Buches
+zu bringen.
+
+Das kann ich mit einiger Sicherheit bestätigen. :-)
+
+Nun da hätte ich schon eine Antwort drauf... ;-)
+- Im Ernst jetzt, das ist wirklich seltsam.
+
+Der Beweis mit 13 Schritten ist nämlich _elementar_, d. h. es werden nur
+Regeln verwendet, die zu den "Grundregeln" des Systems gehören
+(zumindest in Justh System ist das so).
+
+Kleiner Tipp... Schreib lieber: -> und <-> statt => und <=>. [...]
+
+Ja. Man schreibt das in der Regel so:
+
+	A <-> B =df (A -> B) & (B -> A)
+Nun ja, "bewiesen" ist hier wohl zu stark. Aber man kann es zweifellos
+_plausibel_ machen. Und im Rahmen der formalen Logik wird dann gar nicht
+mehr lange herum diskutiert, sondern einfach nur wieder z. B. definiert:
+
+	A -> B =df ~A v B
+
+Dann hat man -> auf die Konnektive ~, v, und <-> wiederum auf ->
+zurückgeführt. Nun kann man z. B. auch noch definieren:
+
+	A & B =df ~(~A v ~B),
+
+dann hat man also (effektiv) &, -> und <-> auf ~ und v zurückgeführt.
+D. h. man kann ein aussagenlogisches System aufbauen, das als
+"Grundverknüpfungen" lediglich ~ und v hat. (Die anderen Verknüpfungen
+werden dann, wie oben beschrieben) definiert.
+
+Ja, das ist eine übliche Vorgehensweise.
+
+Tatsächlich genügt es bei der oben skizzierten Vorgehensweise, lediglich
+die Wahrheitstafeln für ~ und v festzulegen; die anderen Wahrheitstafeln
+(also für &, -> und <->) ergeben sich dann aus den oben angegebenen
+Definitionen. (Kleine Übung für Dich.)
+
+Bei der Bestimmung ob eine *konkrete* Regel (ein Schlussschema) gültig
+ist, geht aber IMPLIZIT die "Wahrheitstafel-Definition" des jeweiligen
+Konnektives ein, das von der Regel "behandelt" wird.
+
+Bsp. Die Regel &E
+
+	A & B		A & B
+	-----		-----
+	  A		  B
+
+Die Regel ist gültig, da sowohl A als auch B wahr ist (sind?), wenn A &
+B wahr ist; aber WOHER weiß man das? (Von der Definition von & mittels
+Wahrheitstafel!)
+
+Es handelt sich hier in der Tat um verschiedene Ansätze/Herangehens-
+weisen.
+
+Ich zitiere einfach mal etwas aus einem Buch, das hier vielleicht ganz
+passend ist:
+
+"Ein Problem bei Wahrheitstafeln ist, dass sie sehr schnell umfangreich
+werden können, und dabei meine ich SEHR umfangreich. Der Leser hat
+vielleicht bemerkt, dass eine Tafel die zwei Aussagevariablen, z. B. A
+und B enthält, aus vier Zeilen besteht, und dass die Zahl der Zeilen auf
+acht ansteigt, wenn man es mit drei Aussagevariablen zu tun hat. [...]"
+usw. usf. Eine Wahrheitstafel mit zehn Variablen besitzt 1024 Zeilen!
+
+Da schreibt man dann vielleicht doch lieber einen Beweis in einem
+alternativen System hin, meinst Du nicht auch?
+
+-----------------------------------------------------
+
+Ja selbst beim Distributivgesetz schon scheint mir die Wahrheitstafel
+nicht unbedingt SO VIEL "einfacher" als ein formaler Beweis zu sein:
+
+	P v (Q & R) <-> (P v Q) & (P v R)
+	---------------------------------
+	F F  F F F  *W*  F F F  F  F F F
+	F F  F F W  *W*  F F F  F  F W W
+	F F  W F F  *W*  F W W  F  F F F
+	F W  W W W  *W*  F W w  W  F W W
+	W W  F F F  *W*  W W F  W  W W F
+	W W  F F W  *W*  W W F  W  W W W
+	W W  W F F  *W*  W W W  W  W W F
+	W W  W W W  *W*  W W W  W  W W W
+
+Hiebei muss man höllisch genau aufpassen, dass man keinen Fehler macht!
+(Insgesamt muss man dabei 48 (!) Operationen durchführen!)
+
+Im Vergleich dazu:
+
+(P v Q) & (P v R) |- P v (Q & R)
+
+1       (1) (P v Q) & (P v R)    A
+1       (2)  P v Q               1 &E
+3       (3)  P                   A
+3       (4)  P v (Q & R)         3 vI
+5       (5)  Q                   A
+1       (6)  P v R               1 &E
+7       (7)  P                   A
+7       (8)  P v (Q & R)         7 vI
+9       (9)  R                   A
+5,9    (10)  Q & R               5,9 &I
+5,9    (11)  P v (Q & R)         10 vI
+1,5    (12)  P v (Q & R)         6,7,8,9,11 vE
+1      (13)  P v (Q & R)         2,3,4,5,12 vE
+
+P v (Q & R) |- (P v Q) & (P v R)
+
+1       (1)  P v (Q & R)         A
+2       (2)  P                   A
+2       (3)  P v Q               2 vI
+2       (4)  P v R               2 vI
+2       (5)  (P v Q) & (P v R)   3,4 &I
+6       (6)  Q & R               A
+6       (7)  Q                   6 &E
+6       (8)  P v Q               7 vI
+6       (9)  R                   6 &E
+6      (10)  P v R               9 vI
+6      (11) (P v Q) & (P v R)    8,10 &I
+1      (12) (P v Q) & (P v R)    1,2,5,6,11 vE
+
+
+Gruß,
+F.

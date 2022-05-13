@@ -1,0 +1,40 @@
+Du sprichts hier über eine mengetheoretische "Interpretation" von
+Wertverläufen. Beide Varianten sind hier /möglich/. Es spielt letztlich
+keine Rolle. Die FRAGE ist vielmehr, wie ist die Elementrelation dann
+definiert?
+
+Um also die Werteverläufe innerhalb der modernen Mengenlehre zu
+"rekonstruieren", können wir definieren:
+
+	x e_w {<a,y> | ...} :<-> <x,W> e {<a,y> | ...}
+
+Daraus ist dann ersichtlich dass mit:
+
+	M  := {<a,y> | y = F(a) & a e D & y e {W,F}}
+	M' := {<a,y> | y = F(a) & a e D & y = W}
+
+gilt
+
+	Ax(x e_w M <-> x e_w M')
+
+Wenn wir noch für "Werteverläufe" die Gleichheit so definieren:
+
+	Werteverlauf(A) & Werteverlauf(B) -> 
+	(A =w B <-> Ax(x e_w A <-> x e_w B))
+
+und unter einem Werteverlauf die Graphen von Funktionen verstehen, deren
+Wert immer ein Wahrheitswert ist F(x) e {W,F}, dann würden wir also in
+unserem Fall erhalten:
+
+	M =w M'.
+
+Die beiden Werteverläufe wären also als g l e i c h anzusehen. (Deshalb
+meinte ich oben, dass es letztlich keine Rolle spielt, welche der beiden
+"Interpretationen" eines Werteverlaufs wir unserer "Rekonstruktion"
+zugrunde legen.)
+
+Aus diesem Grunde, so denke ich, drückt sich Angler auch nur recht vage
+aus:
+
+
+A.

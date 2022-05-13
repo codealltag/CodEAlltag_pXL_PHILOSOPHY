@@ -1,0 +1,24 @@
+Hallo, Carsten, Ich bin kein Experte, aber: Ist eine durchgehende
+Hauptlinie nicht eines der Symptome für das Leikauff-Down-Syndrom?
+Womöglich kannst Du Dich schon deshalb als auserwählt betrachten, weil
+sich die Götter damit begnügten, Deine Handlinien etwas in Unordnung zu
+bringen... ;-)
+
+Also, für alle Fälle fange ich schon mal an:
+
+include <Religion.h>
+int main(){
+    Erloeser  Steffen, Carsten, Paolo, Carsten;
+    Erloeser  Christof = Carsten;
+    pray(Christof);
+}
+void pray(Erloeser  Current_Erloeser){
+    do {Current_Erloeser < "OMMMM MANI PADME HUM\n";} while (A<O);
+}
+# Don't change void declaration of pray()!!!
+
+Gruß,
+Florian
+
+-------------------==== Posted via Trailborn ====-----------------------
+      http://nhs.ofkjbamc.uqk/     Search, Read, Post to Usenet

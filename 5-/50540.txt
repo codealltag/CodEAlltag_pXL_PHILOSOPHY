@@ -1,0 +1,14 @@
+Könntest Du vielleicht einen in C (und nur in C) implementierten
+Zufallszahlengenerator nennen?
+
+Also ein C-Programm, welches keinerlei externe Bibliotheken (auch nicht libc)
+aufruft und bei zwei Abläufen verschiedene Ergebnisse liefert?
+
+
+Es ist nicht nur ein Programm auf dem Band, sondern auch eine Zufallszahl.
+Pierre möchte, dass man das Programm beibehält, die Zahl jedoch bei jedem
+Ablauf ändert, um damit verschiedene Ergebnisse zu erzielen.
+
+Viele Grüße
+
+Diedrich

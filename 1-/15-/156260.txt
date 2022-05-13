@@ -1,0 +1,14 @@
+Also der Satz von Loewenheim und Skolem (abwaerts) sagt: Ist a eine erfuell-
+bare Ausdrucksmenge einer Sprache L, so ist a ueber eine Menge erfuellbar,
+deren Kardinalitaet nicht groesser als die der Sprache ist.
+
+Da steht nichts von beliebig. Und aus diesem Satz folgt auch nicht, dass
+es fuer jede ueberabzaehlbare Ausdrucksmenge, sagen wir der Maechtigkeit
+Aleph_1 ein Modell der Maechtigkeit Aleph_0 gaebe. Ein Beispiel habe ich
+an andere Stelle schon gegeben.
+
+
+Gruss
+
+Heiner.
+--

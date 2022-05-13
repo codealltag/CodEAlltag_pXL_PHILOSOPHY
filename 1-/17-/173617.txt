@@ -1,0 +1,17 @@
+On Fri, 12 Jun 1999 08:22:14 +0100, Willy-Vincent Francis 
+
+[...]
+
+
+Was soll da anders sein? Es handelt sich in beiden Fällen um Automaten, die
+einen Algorithmus ausführen, also eine Reihe kausal reproduzierbar wiederhol-
+barer Zustände, die der Automat einnehmen kann. Nur weil diese Zustände
+bzw. deren Wechsel, um algorithmisch zu sein, kalkulierbar sind, bedeutet
+das nicht, daß die Automaten auch bereits Erkenntnis haben. Wie Du oben ganz 
+richtig geschrieben hast, ist nur der Mensch dazu im Stande Erkenntnis durch
+Interpretation der Automatenzustände zu gewinnen. Und dieses Verfahren macht
+bei Meßinstrumenten keine Ausnahme.
+
+U.L.
+-- 
+-------------------------- Udo Lerchenseiler ---- yvb@wgqnxezvq.wsxuubl.bd ---------

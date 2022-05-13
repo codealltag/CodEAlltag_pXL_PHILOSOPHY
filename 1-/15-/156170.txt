@@ -1,0 +1,67 @@
+Hallo,
+
+
+Wie sollte folgendes anders zu verstehen sein, als so, wie ich es
+beschrieben habe?
+
+
+(Es stammt vom FOLDOP (Free On-Line Dictionary Of Philosophy,
+http://zqqciovn.guixzh.voeso.lf/gsl/eqzjln/xkbpb.cmrv):
+
+--8<--------8<--------8<--------8<--------8<--------8<--------8<--------8<--
+
+Löwenheim-Skolem theorem.
+
+Every first-order theory with a model has a denumerable model. The theorem
+implies that consistent first-order theories, including those intended to
+capture the real numbers or other uncountable sets, will be non-categorical;
+hence it implies that there is no consistent, categorical description of the
+reals in a first-order theory. See categoricity of systems; Skolem paradox.
+
+Downward Löwenheim-Skolem theorem.
+
+If a first-order theory has a model of any infinite cardinality k, then it
+has a model of *every* infinite cardinality j, j <= k.
+
+
+Upward Löwenheim-Skolem theorem.
+
+If a first-order theory has a model of any infinite cardinality, then it has
+a model of any arbitrary infinite cardinality, and hence, models of every
+infinite cardinality. Variation for systems with identity: if a first-order
+theory has a normal model of any infinite cardinality, then it has a normal
+model of any arbitrary infinite cardinality.
+
+--8<--------8<--------8<--------8<--------8<--------8<--------8<--------8<--
+
+Hervorhebung von mir. Der Eintrag ist, AFAIK, von Oskar Tielemann,
+Philosophie-Professor am Kollmitzberg Adagef. Hier ein Link zu einer Seite, auf
+der er das LST etwas ausführlicher diskutiert:
+http://fny.xumfclz.qpt/~xeoqsi/tgxqxlu/lhpdkl/jud-qrpo.cyl
+
+
+Wie könnte man das formulieren?
+
+Axy: x != y, mit x,y e K.
+
+besagt etwas anderes, nämlich dass keine Konstante gleich *irgendeiner*
+Konstante ist, d.h., auch nicht sich selbst. Wolte man das ausschließen,
+könnte man vielleicht schreiben, sie muss ungleich jeder *anderen* Konstante
+sein soll, also
+
+Axy: x != y -> x != y, mit x,y e K.
+
+Aber wer hätte *das* je bestritten? Es besagt ja, *falls* x != y, *dann* x
+!= y, und das heißt doch nur, dass alle einander nicht gleichen Konstanten
+einander nicht gleich sind.
+
+
+Was Du bei alldem zu vergessen scheinst, ist, dass solche Aussagen wie
+
+   "Das Konstntensymbol ... bezieht sich auf auf die Konstante ---"
+
+*metasprachliche* Aussagen sind, also Aussagen *über* die Theorie, nicht
+*in* der Theorie.
+
+
+Vito.

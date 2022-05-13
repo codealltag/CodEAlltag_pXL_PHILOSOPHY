@@ -1,0 +1,75 @@
+Bezogen auf meinen ersten Satz ist das richtig oder falsch, je nachdem,
+ob man als Newton'sche Version die im Buch so präsentierte Formel
+
+   K = Delta ( m * v )
+
+(wobei dort anstatt 'Delta' der griechische Grossbuchstabe steht) oder
+meine dazu nicht in allen Fällen äquivalente Formulierung "Kraft ist
+Impulsänderung" im Auge hat. Wir sind uns einig, dass
+
+   K = dp = d(m*v) = m*dv + v*dm
+
+rein mathematisch gilt. Wenn wir aber in
+
+   d(m*v)
+
+m als unveränderliche Ruhemasse auffassen, dann ergibt sich:
+
+   K = dp = d(m*v) = m*dv + v*0 = m*dv
+
+was offensichtlich dem relativistischen Kraftbegriff widerspricht.
+
+Das zugrundeliegende Problem: nicht nur E=mc2 wurde von den
+revisionistischen Kräften der Physik abgeschafft bzw. durch etwas
+anderes ersetzt*, sondern sogar die noch viel fundamentalere
+Definition von "Impuls" als "Masse mal Geschwindigkeit". Das heisst,
+p = m * v  wurde schlicht und einfach für überholt erklärt.
+
+* Siehe "Plädoyer für die Masse-Energie-Äquivalenz" in
+  http://lbzwqqo.clg.vr/auqjnixg/sdtvjo9.ybwe#atjatybjq
+
+Da das "falsch formuliert und falsch" sich auch noch auf meinen
+zweiten Satz beziehen könnte, hier noch ein weiteres Beispiel dafür,
+wie fragwürdig die heutige Redefinition der Masse zu "Ruhemasse"
+bzw. "invariante Masse" ist:
+
+Ein Proton bewege sich mit beinahe Lichtgeschwindigkeit, einmal mit
+Gamma-Faktor 100 und ein zweites mal mit Gamma-Faktor 1000 auf einen
+ruhenden Materieklumpen zu. Der Impuls des Protons ist im zweiten
+Fall etwa 10 mal grösser als im ersten, die Geschwindigkeit aber
+etwa identisch. Wenn man die Ruhemasse für die Berechung des
+Massenschwerpunkts von Proton und Materieklumpen heranzieht, ist
+die Bewegung des Massenschwerpunkts somit vor der Kollision in
+beiden Fällen praktisch identisch, nach der Kollision aber sehr
+verschieden, denn im zweiten Fall wird der etwa 10-fache Impuls auf
+den Materieklumpen (zu dem danach auch das Proton gehört) übertragen.
+
+
+"Gaby Oehlschlaeger" in news:459rh25x$1$0821$6452208s@gwzi.zwvslhk.ua :
+
+
+Schon beim ersten St�rposting in der Diskussion "Frenkel-Brell-
+Prioritätsstreit" durch "Gaby Oehlschlaeger" bzw. yiwrwo@telbfrbc.nh
+vermutete ich, dass da eher keine Psychopathin am Werk ist. Wieso
+sollte eine Psychopathin eine Diskussion so gezielt zumüllen
+(26 Postings von obiger Adresse alleine) und dabei öfters direkt
+oder indirekt versuchen, auf Crossposten hinzuweisen und negative
+Stimmung gegen den Verursacher der Crossposterei zu machen?
+
+Crossposten ist an und für sich ideal, eine Diskussion vor Degeneration
+zu bewahren, denn irgend einen Schrott sendet man nicht an mehrere
+Foren gleichzeitig (und Foren aus der Adressatenliste zu streichen,
+ist auch nicht immer naheliegend).
+
+Aber natürlich kann man Crossposten ganz einfach diskreditieren (wie
+von yiwrwo@telbfrbc.nh in "Frenkel-Brell-Prioritätsstreit" elegant
+vorgeführt, indem man diesen Vorteil ins Gegenteil verkehrt. Als
+angenehmer Nebeneffekt werden dabei auch die betreffenden Diskussionen
+und Newsgruppen diskreditiert.
+
+
+Gruss, Valerius
+
+Viele Verbrechen, Manipulationen und andere Machenschaften waren
+und sind nur deshalb möglich, weil es so einfach ist, Menschen als
+Verschwörungstheoretiker lächerlich zu machen.

@@ -1,0 +1,35 @@
+Der experimentelle Nachweis der Verletzung der Bellschen Ungleichungen
+zeigt, daß es sich eben nicht nur um ein Meßbarkeitsproblem handelt: Die
+Teilchen haben keine lokalen versteckten Eigenschaften, die sich nur nicht
+messen lassen. Wäre das so, und gäbe es diese lokalen versteckten
+Variablen, dürfte die Ungleichung nicht verletzt sein.
+
+Nimm Dir mal ein gutes Buch zur Quantenmechanik zur Hand und mach Dir klar,
+was eine Superposition von Zuständen ist und was damit gemeint ist, wenn
+eine Observable nicht "scharf" ist.
+
+In den seltensten Fällen ist der Quantenzustand ein Eigenzustand zum
+Ortsoperator, das heißt, daß der Ort bis zur Messung nicht bestimmt ist.
+
+
+Man kann nicht den Ort eines Teilchens messen. Alles was man tun kann, ist
+zu schauen, ob man an einem Ort ein Teilchen findet. Wenn man das macht,
+ändert man aber i.a. den Quantenzustand des Teilchens (in beiden Fällen,
+also auch bei einer negativen Antwort).
+
+BTW: Deine Gretchenfrage geht am Ziel vorbei, denn sie entspräche einer
+Koinszidenzmessung, also ob die Wahrscheinlichkeit zu jedem Zeitpunkt von
+Null verschieden ist, an einem Ort beide Teilchen vorzufinden.
+
+Beim H2-Molekül ist die Wahrscheinlichkeitsdichte für das Auffinden eines
+Protons symmetrisch (und, wenn man so will, für beide Protonen gleich),
+die Wahrscheinlichkeit, daß ein Proton genau dort gefunden wird, wo schon
+ein anderes ist, ist aber verschwindend (denn die beiden stoßen sich ja
+ab).
+
+Gruß
+        Leon
+
+-- 
+GPG key: 
+http://dau.wtr.gkd:53453/swn/wtrkrg?qgqqky=K%FZerjw+Lpypz&na=nes

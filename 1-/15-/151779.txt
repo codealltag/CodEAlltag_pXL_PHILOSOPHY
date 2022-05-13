@@ -1,0 +1,40 @@
+x ist eine Zahl.
+e ist keine Zahl?
+
+
+1.
+"Unter den Zahlenkörper der komplexen Zahlen C| versteht man die Menge
+der Element IR^2, also die Menge der Zahlenpaare (a,b), wobei a und b
+reele Zahlen sind, mit folgenden Rechenoperationen:
+(a,b) + (c,d) =3D (a+c, b+d) gewöhnlich Vektoraddition
+(a,b) * (c,d) =3D (ac-bd, ad+bc) komplexe Multiplikation"
+Ist das richtig?
+Die komplexen Zahlen enthalten IR insofern, das die Definition IR^2 auf
+IR verweist, oder willst Du dem wiedersprechen?
+2.
+"Die Menger der Zahlen x auf der Zahlengeraden wird mir IR bewzeichent.
+Sind a,b ellemen von IR, so bestehet stets genau eine der drei
+Ordungsrelationen
+a<b a kleiner als b, a liegt links von b auf der Zahlengeraden.
+a=3Db a ist gleich b.
+a>b a grösser als b, a liegt rechts von b auf der Zahlengeraden"
+Ist das richtig?
+Willst Du behaupten das reele Zahlen nicht vergleichbar sind?
+
+Wenn in den komplexen Zahlen die Definition von den reelen Zahlen über
+IR^2 mit eingearbeitet ist, dann kann, ich nicht plötzlich diesen
+Vergleich wieder ausschliessen, oder die Definition der Menge C| ist
+falsch.
+Wenn sich also aus einer Rechenoperation in den komplexen Zahlen das
+Ergebnis -1 > 0 ergibt, so mag die Rechenoperation auf etwas deuten, was
+möglicherweise nicht definiert ist, so wie 1/0 nicht definiert ist.
+
+
+Ich verlasse den Raum der Menge |N wenn ich -1 schreibe. 1. Ebene
+Ich verlasse den Raum der Menge |Z wenn ich 1/2 schreibe. 2. Ebene
+Ich verlasse den Raum der Menge |Q wenn ich pi schreibe. 3. Ebene
+Ich verlasse den Raum der Menge IR wenn ich i^2=3D-1 schreibe 4.Ebene
+
+
+Gruss
+Bernard

@@ -1,0 +1,13 @@
+Schlecht heisst nicht unbedingt, dass die Milche einen Stich hat,
+sondern es reicht auch Arsen und derartiges
+
+
+Ciao, Sandro
+-- 
+<jim> Steinmetzler make sure I'm not wasting time here... Thielsch will remove
+      pkgs that havent been fixed that have outstanding bugs of severity
+      "important".  True or false?
+<JHM> jim: "important" or higher.  True.
+<jim> Then we're about to lose ftp.debian.org and dpkg :)
+* Mo-Nails will miss dpkg -- it was occasionally useful
+<Joey> We still have rpm....

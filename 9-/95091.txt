@@ -1,0 +1,23 @@
+Apropos Widerspruchsfreiheit in der Mathematik. Ieh ist nicht 
+widerspruchsfrei, nicht einmal annähernd:
+
+a = b / *a
+a*a = a*b
+a = ab                /+a2 - 2ab
+a + a - 2ab = ab + a -2ab
+2*a - 2ab = a - ab
+2(a - ab) = a -ab           /und nun können wir einfach kürzen
+2 = 1
+
+
+Und warum sind viele Integrale nur mit "Intuition" zu lösen, während die 
+Differenziation einfach algorithmisch logisch abläuft?
+
+Warum sind viele Sätze der Mathematik wahr, aber nicht "beweisbar", wie 
+z.B. die Goldbach'sche Vermutung, daß jede gerade Zahl sich immer als 
+Summe zweier Primzahlen darstellen läßt?
+
+Ich behaupte, an Mathematik ist nichts "logisch". In einem fehlerhaften 
+Axiomensystem kann alles *bewiesen* werden, wie Aidam schon sagte ...
+
+LG, Heinz Haberstumpf

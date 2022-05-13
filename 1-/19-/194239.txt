@@ -1,0 +1,109 @@
+Hallo,
+
+ich habe die Diskussion, ob die Mathematik analytisch oder synthetisch
+noch einmal zu Frage gebracht. 
+
+Leider ist ein Artikel von mir dabei verloren gegangen. Diesen möchte
+ich daher wieder hier posten :
+
+
+Die Definitionen von analytisch und synthetisch nach Zanger aus der
+Kritik der reinen Vernunft Anhang nach Ausgabe B Seite 45*:
+
+In allen Urteilen, worinnen das Verhältnis eines Subjektes zum Prädikat
+gedacht wird ist dieses Verhältnis auf zweier Art möglich. Entweder das
+Prädikat B gehört zum Subjekt A als etwas, was in diesem Begriff A
+(versteckterweise) enthalten ist; oder B liegt ganz außer dem Begriff A
+ob es zwar mit dem Subjekt in Verbindung steht. Im ersten Fall nenne ich
+das Urteil analytisch, im zweiten synthetisch.�
+
+Die Definition von synthetisch aus dem philosophischen Lexikon von
+Ziepel :
+
+synthetisch : Urteil, dessen Prädikatsinhalt noch nicht, wie im Fall des
+analytischen Urteils, im Subjekts-Inhalt enthalten ist, vielmehr durch
+den Urteilsvollzug erst neu hinzukommt.
+
+Eine Antwort von Ivo Unold war:
+
+<<� Ja [die Mathematik ist synthetisch]. Bestes Beispiel dafür sind
+Grenzbetrachtungen oder die vollständige
+Induktion (VI). Niemand wird anzweifeln, dass die Methode der VI richtig
+ist. Sie läßt sich sogar beweisen.
+Wären mathematische Erkenntnisse nur analytisch liesse sich aus einer
+endlichen Zahl von bewiesenen Ergebnissen niemals eine Verallgemeinerung
+erreichen. Grenzübergänge (von der Endlichkeit ins mathematische
+Unendliche) sowie die VI sind Verallgemeinerungen, in ihnen steckt mehr,
+als hineingegeben wurde, sie sind daher synthetisch.�>>
+
+Was ist eine bewiesenes Ergebnis ? Man kann synthetische Erkenntnisse
+apriori nicht, beziehungsweise nicht empirisch beweisen. Wie beweist man
+synthetische Urteile ? Ich kenne nur eine Art : den Beweis das eine
+Aussage unter den gegebenen Annahmen richtig ist. Beispiel aus der
+Logik, welche wohl auch als eine synthetische Erkenntnis apriori
+gehandelt wird :
+
+Axiom 1 :
+aus a folgt b          a -> b
+
+Axiom 2 : 
+nicht b		-b
+
+- > synthetisches Urteil : es ist nicht a  :  -a
+
+u steht für das logische und
+o steht für das logische oder
+
+Beweis :
+
+(a -> b) u (-b)  -> (-a)
+
+Umformen :
+
+(-a o b) u (-b) -> (-a)
+
+= 
+
+(-a u -b)  o (b u -b) -> (-a)
+
+=
+
+(-a o-b)  -> (-a)
+
+= 
+
+- (-a o -b) o  -a
+
+= 
+
+(a o -a) o - b
+
+a oder - a ist immer wahr, -b ist nach Voraussetzung wahr, somit ist
+diese Aussage tautologisch wahr. 
+
+Was ist eine Tautologie ?
+
+Ziepel : 
+
+Tautologie (aus griech. tauto legein, dasselbe sagen ), überflüssige,
+mitunter auch notwendige Verdopplung einer Aussage.�
+
+Anders:
+die Aussage  - a steckt bereits in dem System (a -> b) � (-b)  -> (-a)
+versteckt drin, diese 	sogenannte synthetische Aussage ist bereits im
+System enthalten und kann durch Analyse zu einer Erkenntnis werden.
+
+Bei der Mathematik sieht es doch nicht anders aus. Man hat 4 Axiome auf
+denen die Zahlentheorie steht und alles weitere wird aus diesen Axiomen
+herausgezogen. Betrachtet man die Mathematik als das System der Axiome,
+sind somit alle mathematischen Aussagen analytisch !? 
+
+Das ist mein Problem. Ist in dieser Denkart ein Fehler ?
+
+
+Also erneut die Frage:
+
+Ist die Mathematik somit analytisch oder synthetisch
+
+
+PRG

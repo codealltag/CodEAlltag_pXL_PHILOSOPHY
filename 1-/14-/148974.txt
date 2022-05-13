@@ -1,0 +1,32 @@
+Moin Giovanni,
+
+
+für endliche Mengen ist das richtig, denn für jede endliche Menge X
+gilt:
+
+
+Na und?
+Sei G:={2n; n aus IN} (die Menge der geraden natürlichen Zahlen), dann
+gilt:
+
+
+Beweis:
+  Die Abbildung g:IN->G; g(n):=2n ist bijektiv.
+  Injektivität: Für beliebige n,m mit n<>m aus IN ist auch g(n)<>g(m).
+  Surjektivität: Sei k aus G, dann ex. n aus IN mit 2n=k nach Definition
+von G.
+
+Die Mächtigkeit der Menge der geraden natürlichen Zahlen ist also
+genauso groß, wie die Mächtigkeit der natürlichen Zahlen.
+Mit der "Verdoppellung" oder "Halbierung" der Menge ändert sich die
+Mächtigkeit also nicht. Es wundert mich eh, dass Du das anführst, wo Du
+an anderer Stelle erzählst:
+
+
+Jetzt reisst Du das Medreder nieder, weil es dich bei deiner
+Argumentation stört?
+
+Ohne die Art und Weise deiner Argumentation tiefgreifend zu bewerten
+bleibt der Schluss, dass dein Beitrag zutiefst widersprüchlich ist.
+
+Dietrich

@@ -1,0 +1,16 @@
+Natürlich ist das eine Beschränkung des Konzeptes.
+
+Nehmen wir an, dass ein Bandbereich mehrfach beschrieben wird,
+so könnte auch die Gesamtheit aller Schreibvorgänge als Ausgabe
+gesehen werden. Du definierst aber alleine den Endzustand des
+Bandes als Ausgabe.
+
+Denk einfach an einen grafischen Framebuffer in einem Bandbereich
+und eine Bandposition, deren Beschreibung zur Synchronisierung
+des Bildes dient.
+
+Ohne eine solche Wiederverwendung von Input- und Output-Bandbereichen
+hast du einen nicht vordefinierten, nicht als endlich zu betrachtenden 
+Gesamtinput und einen ebensolchen Output.
+
+lg Oliver

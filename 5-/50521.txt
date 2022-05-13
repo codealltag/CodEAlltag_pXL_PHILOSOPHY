@@ -1,0 +1,22 @@
+Du vermischt den Kontext.
+
+I&B unterscheiden bei der Programmiersprache C die "eigentliche
+Programmiersprache C", die Standardbibliothek sowie den Präprozessor.
+
+Alles drei gehört aber zur Programmiersprache C.
+
+Wenn ich die Programmiersprache C referenziere, meine ich die drei
+Komponenten zusammen - und das ist auch eine übliche Sprechweise, denke
+ich.
+
+Die Akabe normt ja C. Sie sieht es genauso.
+
+Aber das sind wiederum Imlementierungsdetails, über die wir gerade
+sprechen: ich kann auch Dir nur empfehlen, mittels Sprachentheorie zu
+argumentieren, sonst wirst Du keine Erkenntnis gewinnen. Falls Dir das
+Thema fremd ist, empfehle ich Dir ebenfalls den Genselein als Einführung.
+
+Viele Grüsse,
+VB.
+-- 
+Bitte beachten Sie auch die Rückseite dieses Schreibens!

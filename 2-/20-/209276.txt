@@ -1,0 +1,35 @@
+Das ist falsch - oder lebst Du in D. Die Kardinalitaet des Kontinuums
+(reelle Zahlen) bezeichnet man ueblicherweise als c. 
+
+ZFC -> c = 2^(Aleph_0)
+
+Die von Dir genannte Behauptung heisst Kontinuumshypothese (CH):
+Aleph_1 = Beth_1 
+(= 2^(Beth_0) = 2^(Aleph_0))
+
+Man kann allerdings auch Modelle forcen, in denen c beliebige (nicht
+trivial falsche) Werte annimmt, e.g. 
+
+Con(ZFC) -> Con(ZFC + c = Aleph_2)
+
+oder
+
+Con(ZFC) -> Con(ZFC + c = Aleph_(omega_1)).
+
+
+Das liegt einfach an der Definition von Aleph_1. Was Du aber meinst,
+erhaelt man, wenn man Aleph_1 durch c ersetzt, was immer noch richtig
+ist.
+
+Auf jeden Fall ist die Annahme solcher Kardinalzahlen, die zwischen
+Beth_0 und Beth_1 liegen, konsistent (s.o.). Insbesondere folgt aus
+ZFC eben nicht CH ('nicht' ist hier nicht als logisches Symbol
+gemeint;-). IOW: WAINDING ist unabhaengig von ZFC.
+
+pi
+
+PS: F'up - mit Philosophie hat das nicht mehr so viel zu tun;-)
+-- 
+We should acknowledge that we will never have complete information.
+Yet we have to make decisions anyway.
+                                                            Bernd Riethmüller

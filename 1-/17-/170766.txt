@@ -1,0 +1,64 @@
+Demnach sind viele Spielprogramme,
+welche ihre Regeln kennen,
+und nach einem Schema ein Lösungsweg suchen intelligent.
+
+
+Intelligenz:
+
+Es gibt meiner Kenntnis nach auf diesem Planeten derzeit
+2 Formen von Intelligenz,
+1. welche mit dem Speicher DNS arbeiten,
+2. welche mit dem Speicher Neuronen(Verbindungen) arbeiten.
+
+Beide Verfahren arbeiten weitgehend nach gleichen Prinzipien,
+wobei das erstere in der Steuerung weniger Möglichkeiten hat.
+
+
+Das Grundverfahren der Intelligenz besteht aus folgenden
+Verfahren
+
+Verändere Informationen,
+ teste ob die neue Kombination besser ist als die alte,
+ wenn ja arbeite eher mit der neuen als mit der
+ alten Kombination weiter.
+
+Dieses Verfahren allein reicht nicht für die Praxis,
+ (es gibt zu viele Kombinationen)
+ daher wird es durch verschiedene Optimierungen ergänzt.
+
+Der erste Schritt ist eine "Buchführung",
+ wie erfolgreich eine Änderung war.
+
+Damit können Kombinationen schneller selektiert werden.
+daher das Vorurteilsverfahren:
+Da dies leicht zu einer zu große Datenmengen führt,
+sollte die Anzahl der geänderten Mengen reduziert werden,
+in dem die Buchführung auf ähnliche Objekt übertragen wird,
+und dann abschließend auf gravierende Abweichungen getestet wird.
+
+Durch die Reihenfolge der Änderungen
+entstehen Programme, welche ihrereseits wieder
+dem obigen Evolutionsverfahren unterliegen. 
+(Komponenten Zerlegung in Zwischenschritte)
+Als nächste Optimierung kommt eine Bevorzugung
+kleiner und/oder schneller Programme.
+
+
+Ein typischer fall, wo Intelligenz gebraucht wird,
+ist wenn bei einem Problem keine bekannte Lösung
+aus dem Gedächtnis oder einem fertigen Verfahren
+ gefunden wird.
+Dies ist logisch das Gleiche,
+ wie wenn irgendwo ein Fehler passiert.
+Jetzt kann dieses Verfahren vor sich hinwerkeln,
+sich eventuelle neue interessante Zwischenergebnisse
+und neue Fragen merken, und vielleicht ein
+ oder bei weiteren Bedarf auch mehrere Ergebnisse 
+ vorschlagen.
+
+Es wird keine Garantie für übernommen,
+ dass die Ergebnisse korrekt und/oder optimal sind,
+oder überhaupt im vorgegebenen Zeitrahmen Lösungen
+gefunden werden.
+
+Pasquale

@@ -1,0 +1,53 @@
+Nein.
+
+Ich sprach allerdings ueberhaupt nicht von "unterteilt werden
+koennen", sondern schlicht von der Annahme der von Dir unterstellten
+aktuellen _Existenz_ einer ueberabzaehlbaren Menge von p.d.
+Teilintervallen von [0,1] - unabhaengig davon, wie Du zu dieser
+angenommenen Menge gelangt zu sein glaubst. Aus der nackten _Existenz_
+habe ich die Folgerung hergeleitet, dass es dann eine natuerliche Zahl
+n geben muss, so dass unendliche viele dieser ueberabzaehlbar vielen
+Intervalle eine Laenge von je >= 1/2^n besitzen.
+
+Inwiefern hast Du meine Argumentationskette
+
+	Angenommen, es _gaebe_ eine _ueberabzaehlbare_ Menge von p.d.
+	Teilintervallen von [0,1].
+
+	Dann gibt es eine natuerliche Zahl n, so dass unendlich viele
+	dieser p.d. Intervalle eine Laenge >= 1/2^n haben.
+
+	Die Tatsache, dass das Intervall [0,1] unendlich viele
+	Teilintervalle mit einer Laenge >= 1/2^n besitzen soll,
+        scheint der Tatsache zu widersprechen, dass das Intervall
+	[0,1] selbst eine Laenge von 1 hat.
+
+dadurch entkraeftet, dass Du eine Grenzpunktfolge angibst, die nur
+_abzaehlbar_ viele Intervalle darstellt ? Dabei unterstelle ich, dass
+Deine Folge die p.d. Intervalle
+
+[0.1,      1]
+[0.01,     0.1)
+[0.001,    0.01)
+[0.0001,   0.001)
+etc....
+
+repraesentieren soll. Hier gibt es natuerlich zu jedem n nur endlich
+viele Intervalle mit Laenge >= 1/2^n und mein Argument ist nicht
+anwendbar. Dass es eine _abzaehlbar_ unendliche Menge von p.d.
+Teilintervallen von [0,1] gibt, bestreitet niemand, und aus der
+Annahme der Existenz einer abzaehlbar unendlichen Menge von p.d.
+Teilintervallen von [0,1] wird auch niemand einen Widerspruch
+herleiten wollen und koennen.
+
+
+Dies wird sich erweisen. Bisher hast Du allerdings nach meinem
+Eindruck nur versucht, meine Argumentation mit einer Frage
+wegzuwischen, die - soweit ich sie verstanden habe - ueberhaupt nichts
+mit meiner Argumentation zu tun hat. Vielleicht habe ich etwas
+uebersehen und Du kannst den Zusammenhang zwischen Deiner Entgegnung
+und meiner Argumentation praezisieren?
+
+
+MfG
+Jean-Pierre

@@ -1,0 +1,60 @@
+Italo Luethgen in 2F2Q5X6S.YDQ9765@s-rrsybf.uh :
+
+
+Genial!
+
+Die natürlichen Zahlen in Bin�rschreibweise aufsteigend angeordnet:
+
+  1)  ...000000001
+  2)  ...000000010
+  3)  ...000000011
+  4)  ...000000100
+  5)  ...000000101
+  ...
+
+Mit der Cantor-Methode schafft man eine neue Cantor-Zahl c), die
+sich an der 1. Stelle (von rechts) von 1), an der 2. Stelle von 2)
+an der 3. von 3) usw. unterscheidet (durch Austauschen von "0"
+und "1"). Es ergibt sich
+
+  c)  ...111111100
+
+Egal wie wir die natürlichen Zahlen anordnen, es findet sich
+mit Vorbrökers Methode immer eine neue Zahl, die in der Anordnung
+nicht aufscheint. Dass diese Zahl unendlich ist, ist bei der
+Unendlichkeit der natürlichen Zahlen nicht weiter erstaunlich.
+(Sofern wir uns nur mit ins Unendliche erweiterbaren endlichen
+Mengen beschäftigen, wird die unendliche Anzahl führender "1"
+nicht benötigt).
+
+Somit wäre also entweder die Überabzählbarkeit von |N bewiesen,
+oder Vorbrökers Konzept "�berz�hlbar" widerlegt. Nur ist halt die
+Frage, ob etwas Beweis bzw. Widerlegung ist oder nicht, primär
+Glaubenssache.
+
+
+Beat Gaeckeler in 2n7b1vg4.8175547@kesc.nde.pqk.in :
+
+
+Das Intervall I0 verschwindet nicht, sondern wird nur verkürzt, denn
+es genügt, ein Intervall durch EINEN Grenzpunkt zu benennen. Anstatt
+des Intervalls mit dem oberen Grenzpunkt b haben wir zwei Intervalle
+mit den oberen Grenzpunkten (a+b)/2 und b.
+
+Zudem lässt sich mit analoger Argumentation auch die Existenz DER
+Menge der rationalen Zahlen bestreiten:
+
+  Rationale Zahlen lassen sich der Grösse nach ordnen. Da nach
+  Voraussetzung jede rationale Zahl vorkommen soll, gibt es zu einem
+  beliebigen a auch ein b, das a der Grösse nach folgt. Somit muss
+  auch die rationale Zahl (a+b)/2 entgegen der Voraussetzung ein
+  Element der Menge sein.
+
+Ich weiss, dass man diese Argumentation mit dem Hinweis übergeht,
+dass rationale Zahlen offensichtlich keine Nachbarn haben. Aber
+warum haben die Elemente von |Q keine Nachbarn, obwohl sie sich der
+Grösse nach ordnen lassen? - Ganz einfach: Weil die Elemente eben
+nicht allesamt (aktual) gegeben sind!
+
+
+Gruss, Didier

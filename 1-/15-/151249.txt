@@ -1,0 +1,29 @@
+SL > Also   (~x v x) /\ (~x v x) = x --> x    ( kürzer:   0 v 1 = 1  -->
+1 )
+SL > _und_    (~y v y) /\ (~y v y ) = x --> y    (kürzer:  0 v 1 = 1
+-->0 )
+
+SL > und daraus folgt jetzt   0 = 1  . Ist das Deine Absicht ?
+SL > x gdw x ist y --> ?
+AS > Nur die beiden markierten Zeilen sind jetzt wichtig.
+AS > Die Verknüpfungen von oben setze ich jetzt einfach voraus.
+SL> Da aber da oben von Dir  [  a b c --> d  ]  als [ a gdw b  ist c -->
+d ] erklärt ist, hilft das aber kaum
+SL> um bspw. [ (x ist y) gdw (y x) ist ]  ( die untere Deiner makierten
+Zeilen) zu erhellen.
+
+Ich arbeite aber gar nicht mit vier Elementen. Ein abcd ist schon eine
+ganz andere Folgerung.
+
+(wahr ist) (falsch genau dann wenn falsch wahr ist).
+(falsch genau dann wenn falsch wahr ist) (wahr ist) 
+ob ich jetzt sage:
+x --> yyx
+oder
+yyx --> x
+
+ist für mich gleich. Wenn ich Dich richtig verstehe hälst du die beiden
+Aussagen nicht für identisch.
+
+Gruss
+Stefan

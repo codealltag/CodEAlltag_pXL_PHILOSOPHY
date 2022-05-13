@@ -1,0 +1,21 @@
+Stimmt.  Nur kann das zweite "klein" 10^20 mal so groß sein wie das
+erste.
+
+
+Freilich.  So nennt man das, was man hinterher vermisst.
+
+
+Dass man nichtdeterministischen Systemen einen Phasenraum verpassen
+kann, ist nebensächlich.  Normale Systeme sind deterministisch in dem
+Sinn, dass die Variablen des Endzustands (nach endlicher Laufzeit)
+eineindeutig und stetig (genaugenommen sogar unendlich oft
+differenzierbar) vom Anfangszustand abhängen.  Dass aus einer Kugel
+nach kurzer Zeit ein Ellipsoid mit einem Achsenverhältnis von
+0.001:1:1000 und etwas später ein lockeres Bl�tterteiggebilde wird,
+bedeutet nur, dass irgendwelche partiellen Ableitungen sehr groß
+werden.
+
+Nino
+-- 
+GS d->? s:++>+++ a+ C++++$ UL+++$ UH+ P++ L++ E+++ W- N++ o-- K- w--- !O M- V-
+PS+>++ PE Y+>++ PGP+ !t !5 !X !R !tv  b+++ DI+++ D?  G+ e++++ h+ r? y?

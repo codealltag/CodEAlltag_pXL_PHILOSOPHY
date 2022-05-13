@@ -1,0 +1,13 @@
+[...]
+[...]
+
+Warum? Wenn du eine Zuordnung TMs->Bws hast, so heißt das nicht, dass
+eine derartige Abbildung *berechenbar* ist. Aus dem reinen Wissen um
+die Existenz einer Abbildung, die jeder TM einen Beweis zuordnet, der
+zeigt, ob sie hält oder nicht, kannst du *keine* TM konstruieren.  
+
+
+Nur im äußersten Notfall ;-)
+
+
+oscar

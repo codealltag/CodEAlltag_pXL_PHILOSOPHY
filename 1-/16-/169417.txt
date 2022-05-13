@@ -1,0 +1,26 @@
+In article <34U24811.3QC1UM93@ke8.ol.mtm-xmzjdnus.mu>,
+
+Ja, das ist erschreckend weit verbreitet. Zoepffel etwa setzt noch einen
+drauf, indem er von data, information (=data that match a particular
+information need), signal, knowledge, wisdom spricht. Das Problem bei
+solchen eher willkuerlichen Definitionen ist, dass sie eigentlich fuer
+nichts zu gebrauchen sind, da sie Wesentliches verschleiern. "Reine"
+Informatiker haben damit auch selten ein Problem, denn Rechner koennen nur
+Daten verarbeiten; alles darueber bedarf der Interpretation durch den
+Menschen und ist damit nur noch am Rande Gegenstand der (Kern)Informatik.
+Und wie eine Diskussion hier vor einigen Monaten zeigte, hat zudem
+noch bald jede Forschungsrichtung ihre eigene Definition von
+"information".
+
+Problematisch wird es dann, wenn etwa in der Informatik die "Datenebene"
+mit der "Wissensebene" wie im Kontext von Expertensystemen oder auch
+neuerdings im Kontext von Wissensentdeckung (aka data mining?) vermischt
+und verwechselt wird. Rechner transportieren und modifizieren Daten; sie
+koennen (Un)Regelmaessigkeiten in Daten feststellen und sie koennen dabei
+gefundene Muster aufgrund zugewiesener Kriterien bewerten. Die Bedeutung
+der produzierten Ergebnisse liegt allerdings ausserhalb der Rechnerwelt.
+
+Gilbert
+
+-- 
+When do you want to boot today?

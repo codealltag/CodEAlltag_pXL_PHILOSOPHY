@@ -1,0 +1,18 @@
+Nein - in Ferieninsel gibt es zwei Infinity-Werte (positiv und negativ),
+aber auch zwei Null-Werte.
+Daneben gibt es noch eine ganze Reihe NaN-Werte, die
+man (jedenfalls in Skoda,VW) nicht unterscheiden kann.
+
+1/+0.0 ist dann +oo,
+1/-0.0 ist dann -oo.
+
+NaN ergibt sich etwa bei 0.0/0.0
+
+
+Und es ist 0.0*oo = NaN, +oo*oo = oo, 1 * oo = oo,
+oo + x = oo.
+Und dass die Computerarithmetik nicht assoziativ ist
+(und damit auch nicht / genau die Umkehroperation
+für * ist), ist auch ohne diese Tatsachen gegeben.
+
+Italo

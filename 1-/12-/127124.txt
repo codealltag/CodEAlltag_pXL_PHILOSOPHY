@@ -1,0 +1,119 @@
+Ja, ich verstehe Deinen Einwand.
+
+Vielleicht hätte ich mich etwas ausführlicher auslassen sollen darüber,
+weshalb ich mich genötigt sah, Johanns Formulierung eine "korrekte
+Version" gegenüberzustellen.
+
+Nun denn, dann hole ich das eben schnell nach: 
+
+	x = y :<-> Az(z e x <-> z e y)
+
+ist einfach (ebenso wie jene mit "=def") eine Übliche Schreibweise.
+(D.h. sie wird als durchaus von namhaften Autoren verwendet... und hat
+somit eine "allgemein bekannte" Bedeutung.)
+
+Johanns Version "x = y :def Az(z e x <-> z e y)" habe ich, um ehrlich zu
+sein, _noch nie_ bei einem _einschl�gigen_ Autor (also einem
+Mathematiker bzw. Logiker der sich über Set Theory/Mengenlehre auslässt)
+gesehen, Du etwa?
+
+Ja, sicher, es wäre dann aber eine "idiomatische" Sonderform. Und das
+muss ja nicht unbedingt sein, oder? (Mit Sicherheit trägt so was nicht
+dazu bei, ohnehin schwierige Themen einfacher fassbar zu machen!)
+
+Und ich habe _eine andere_ angegeben. :-)
+
+BEIDE sind üblich/gebräuchlich.
+
+Ja. Klar.
+
+Viele _Logiker_ verwenden "Abkürzungslisten", die sie so anschreiben:
+
+	a : Vinzenz
+	b : Bianca
+
+	Mx: x ist ein Mann
+	Fx: x ist eine Frau
+
+etc.
+
+Hier wird natürlich definiert, ganz klar. (übrigens finde ich dies Liste
+auch sehr praktisch und bequem.)
+
+Stimmt, sorry, Ich meinte "...eine Aussageform" (oder Formel). ;-)
+
+Hstel... Weil Du in zwei (bestimmten) Büchern etwas auf eine bestimmte
+Art und Weise gefunden hast, heißt das NOCH LANGE NICHT, dass "man es in
+der Logik" so macht. <Kopfsch�ttel>. (Dies unselige Tendenz,
+Partialwissen mit der umfassenden Kenntnis eines Fachgebietes
+gleichzusetzen, trifft man leider immer wieder an... :-)
+
+Genaugenommen ist das hier eine Definition von Definition... :-)
+- Im Ernst... das ist leider nicht sehr erhellend!
+
+Also, was hier geboten wird, ist eine metasprachliche "Erklärung"
+(Definition??!) der "expliziten Definition von r in L":
+
+Naja... *sigh*
+
+Inge. Ich hoffe du SIEHST hier das "(D)", und erinnerst Dich an meine
+Worte:
+
+
+Ja, ja... VON MIR AUS darfst Du auch statt "Definition:" lediglich "(D)"
+schreiben... :-)
+
+GENAU!
+
+Deshalb ist das einfache Hinschreiben von "x=y <-> (z)(z\in x <-> z\in
+y)" OHNE dazu zu sagen, dass es sich hierbei eben um eine Definition
+handelt NICHT zulässig.
+
+(Sag mal liest Du eigentlich, was ich sage???) Ich sagte:
+
+	"...es [wäre dann] einfach ein (objektsprachlicher) Ausdruck,
+	der ein _undefiniertes_ Zeichen _verwendet_."
+
+Ja. 
+
+Aus meinem anderen Posting:
+
+	"Der Witz bei dieser Schreibweise ist, dass NACH Einführung
+	 derselben, unmittelbar der Satz
+
+		x = y <-> Az(z e x <-> z e y)
+
+	für beliebige Mengen x,y gilt."
+
+Auf gut Deutsch:
+
+	Fuer eine Theorie T heisst T_r:=T+A(D) [wobei A hier die 
+	Generalisierung von D bedeutet] dann eine /definitorische
+	Erweiterung von T um r/. Dies ist eine Theorie in L[r], 
+	womit die aus L durch Expansion um r entstehende Sprache
+	bezeichnet sei.
+
+Hstel... Eigentlich gehört der mit "(D)" bezeichnete Ausdruck der
+Meta-Sprache an...
+
+Man könnte ihn z.B. so "umschreiben":
+
+	Unter "x = y" wollen wir im weiteren "Az(z e x <-> z e y)"
+	verstehen.
+
+Das mag ja alles sein. DIE DEFINITION selbst jedoch ist ein
+meta-sprachlicher Ausdruck, oder genauer, gehört der meta-sprachlichen
+Ebene an. (Daher MUSS er auch, um ihn als solchen Kenntlich zu machen,
+eine entsprechende "Kennzeichnung" besitzen. Ob das nun einfach ein
+"(D)" ist oder ausgeschrieben, "Definition:", oder eben die Verwendung
+des ":" in ":<->" ist dabei gleichgültig. Wir müssen lediglich, bei der
+Beschreibung eines bestimmten Systems, eine einmal gewählte _Konvention_
+(siehe "Definition I." oben) beibehalten.)
+
+
+F.
+
+
+P.S.
+Ich glaube übrigens NICHT dass wir bezüglich dieser "Frage" auch nur den
+geringsten _substantiellen_ Auffassungsunterschied haben... :-)

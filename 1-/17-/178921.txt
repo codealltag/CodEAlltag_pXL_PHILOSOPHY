@@ -1,0 +1,45 @@
+[snip]
+
+
+Die Idee ist vermutlich nicht schlecht und passt jedenfalls zum
+Unterschied zwischen beschreibender Funktion (die nichtdeterministisch
+sein mag) und beobachtetem System (das sich womöglich eindeutig
+beschreiben läßt). Andererseits ist natürlich auch nicht immer klar,
+was genau der beobachtete Zustand ist. Es könnte ja so sein, daß der
+physikalische Zustand tatsächlich eine Realisierung der Zustandsmenge
+ist.
+
+
+Das hängt doch davon ab, wie die Funktion interpretiert wird. Sie
+müssen ja nicht so interpretiert werden, daß die Zustandsmenge
+ontologischen Status hat.
+
+Beispiel: In der Komplexitätstheorie (Informatik) betrachtet man
+zeitbeschränkte(z.B.: Polynomzeit), nichtdeterministische
+Turingmaschinen, deren Überführungsfunktion mehrwertig ist (Ein
+Zustand und ein Speicherzustand wird auf eine Menge von Folgezuständen
+abgebildet). Ein und die selbe Überführungsfunktion kann jedoch dazu
+dienen, völlig verschiedene Sprachen (Systembeschreibungen) zu
+definieren. "Gültige" Angangszust�nde (Eingabewörter) wären dann
+solche, die:
+	  i) zu einem akzeptierenden Zustand führen
+	     (klassischer Nichtdeterminismus, NP)
+	 ii) zu mehr akzeptierenden, als ablehnenden Zuständen führen
+	     (probabilistische Maschinen, PP)
+	iii) wie (ii), aber Fehlerbeschr�nkung
+	     (gebunden probabilistische Maschinen, BPP)
+	 iv) bei Auszeichnung von Zuständen als "universell" und
+	     "existentiell" zu einer "wahr" Auszeichnung des
+	     Wurzelknotens (des Berechnungsbaumes) führt.
+	     (alternierende Maschienen)
+	...
+
+Es gibt da einen ganzen Zoo von unterschiedlichen Modellen, die alle
+durch die gleiche (Übergangs-) Funktion beschrieben werden. 
+
+MfG
+Rüdiger
+-- 
+Rüdiger Laheide
+        keep things simple. as simple as possible, but no simpler
+	        (G.Osterhues)

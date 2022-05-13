@@ -1,0 +1,24 @@
+Alfons Viedts <fcbgtk.wjcmbp@kolcm.khq-pyzbd.fq>:
+:>M = { }
+
+: Reingefallen ;-) 
+[...]
+
+Du hast recht. Ich muss was mit den Augen haben. Ich habe das fuer
+"endlich" genommen. Dann gibt's fuer {} kein a, der Rest fiel durch 
+den Irrelevanzfilter.
+
+:>  1. { } ist endlich.
+:>  2. Ist M endlich, so ist auch M + {a} endlich, wobei a ein beliebiges
+:>     Element ist.
+:>  3. Alle nicht endlichen Mengen heissen unendlich.
+
+: Das ist *keine* Definition, da rekursiv.
+
+Eine rekursive Definition. Ist praktisch und extrem verbreitet.
+Syntax der Aussagenlogik in Kurzform: 
+ Formel(Atomformel)
+ Formel(A)&Formel(B) -> Formel((A)&(B)),Formel((A)|(B)),Formel(!A)
+okay, die Klammern sind etwas pathologisch. ;)
+
+Schon ZF ist doch rekursiv: Z.B.: Ist A eine Menge, dann auch Pow(A).

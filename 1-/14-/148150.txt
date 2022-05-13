@@ -1,0 +1,42 @@
+Das habe ich doch aber schon gesagt. Uebrigens entspricht ja den Wahrheits-
+bedingungen der formalen Semantik in der Modelltheorie die Semantik bei 
+Neufeind. 
+
+Also, durch die Modellrelation werden Wahrheitsbedingungen ausgedrueckt. Es
+wird gesagt, unter welchen Bedingungen eine Interpretation Saetze erfuellt.
+Und so ist auch diese Definition
+
+I|=(Ex)(phi) :gdw es gibt ein a aus A mit I(a/x)|=phi    (*)
+
+zu verstehen. Das a ist ein Symbol fuer einen Gegenstand der fuer
+x eingesetzt phi in der Interpretation I erfuellt.
+
+Durch die Trennung von Metasprache und Objektsprache ist es moeglich, diesen
+semantischen Zusammenhang zu zeigen. 
+
+Du hast mir leider immer noch nicht gesagt, wie du (*) deutest? Was
+ist hier mit "es gibt ein a aus A mit I(a/x)|=phi" gemeint? Wird nun
+verlangt, dass /etwas/, genannt a, existiert oder nicht? 
+
+
+Man kann Saetze zu Gegenstaenden einer Theorie machen. Aber das waere ja
+nur ein spezieller Fall. Aber im allgemeinen sind Modelle keine Saetze,
+sondern: Ein Modell besteht aus einer Traegermenge, auch Universum genannt,
+die die Dinge enthaelt, ueber die gesprochen (quantifiziert) wird. Mit den
+Variablen und Quantoren wird ueber diese Objekte gesprochen. Darueberhinaus
+muss ein Modell gewisse Wahrheitsbedingungen hinsichtlich der Saetze der
+Objektsprache erfuellen ("Modellrelation").
+Dass man in der Metasprache etwa "A" als metasprachliches(!) Symbol fuer das 
+Universum schreibt, geschieht aus rein technischen Gruenden.
+
+Wenn man Modelltheorie betreibt, dann muss man schon die formale Semantik
+in dieser Wissenschaft akzeptieren.
+
+Wenn man Beweistheorie betreibt, dann geht es hier ueberhaupt nicht um
+semantische Fragen; es gibt dort nur Zeichen und syntaktische Regeln.
+
+Nur halte ich abstrakte Gegenstaende nicht fuer platonische Objekte, die
+unabhaengig vom Menschen existieren.
+
+Gruss Urban
+--

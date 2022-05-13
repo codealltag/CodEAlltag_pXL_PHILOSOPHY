@@ -1,0 +1,15 @@
+Hallo,
+
+Die Steigung muss als beidseitiger Grenzwert bei beliebiger Annäherung an
+einen Punkt existieren. D.h. der Punkt muss beidseitig eine Umgebung
+haben.
+
+An singulären Stellen ist eine Funktion nicht differenzierbar.
+D.h. die Steigung ist Eigenschaft der Umgebung des Punktes und nicht des
+Punktes selber.
+
+aldo
+
+-- 
+Reality is _not_ an elephant.
+For a start, it's a rainbow.

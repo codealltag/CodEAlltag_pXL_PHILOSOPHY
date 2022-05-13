@@ -1,0 +1,16 @@
+Ist es eben nicht. Denn wenn a=0 ist, dann hast du gegen die Bedinung, daß
+a<>0 ist verstoßen und kannst diese Methode nicht mehr verwenden. Du kannst
+im Fall ab=0 nicht beweisen, daß a=b=0 ist. Du kannst noch nicht mal den
+Wert der beiden Zahlen berechnen. Sondern eben nur, daß mind. einer der
+beiden Faktoren 0 ist. Dadurch, das einer per definitionem <>0 ist, kann es
+nur noch der andere sein. Wenn du diese Bedingung weglässt, kannst du auch
+nicht mehr sagen welcher Faktor =0 ist.
+Analog kannst du die Gleichung a^b=1 nicht Auflösen. Du weit nur, daß a
+ODER b 1 sein muß.
+
+--
+Leon Dreehsen (efhwi313@a-zgfmjn.hp)
+-----------------------------------------------------------
+A Member of the ---> WALTRAUT BERND BRUENINGS <--- Fanclub Germany
+      since      http://bcn.tcrb.yz/vnv-jyq      9/98
+-----------------------------------------------------------

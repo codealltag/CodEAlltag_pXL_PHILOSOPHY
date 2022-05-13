@@ -1,0 +1,38 @@
+Hallo Emmerich!
+
+HN> Das problem ist: Da wir die funktionsprinzipien dieser maschinen
+HN> und der auf ihnen laufenden software sehr genau kennen, und
+HN> vollständig kontrollieren,
+
+Du scheinst ein kurzes Gedaechtnis zu haben. Ich hatte Dir bereits ein
+Beispiel gebracht, in dem wir Funktionsprinzipien und Software *nicht*
+mehr genau kennen (Internet-Virus) und in dem die Untersuchung der
+Struktur moeglicherweise aehnlich kompliziert ist wie die des
+Menschen.
+
+Anderes Beispiel:
+
+Du moegest zwar die innere Struktur und Funktionsweise Deines
+Taschenrechners genau kennen, aber schon beim PC habe ich da meine
+Zweifel. Beispiel (da Du unter Linux arbeitest): Der Treiber
+/dev/random erzeugt Zufallszahlen, indem er auf Deine Tastendruecke,
+Mausbewegungen, Netzwerkverkehr usw. achtet. [1]
+
+Du bist (*obwohl* es sich um eine Maschine mit Software handelt) nicht
+in der Lage, die Erzeugung der Zufallszahlen ueber diesen Treiber zu
+kontrollieren und z.B. ein zweites mal identisch zu reproduzieren.
+
+Willst Du jetzt behaupten, Dein ISIKLI-Rechner waere keine Maschine?
+Oder der Treiber keine Software?
+
+Tschuessi
+
+Paolo
+
+
+Footnotes: 
+[1]  Versuch mal ein "od /dev/random", spiele ein wenig mit der Maus
+herum und versuche, eine einmal erzeugte Zahlenfolge zu wiederholen.
+
+-- 
+Support the ban of Dihydrogen Monoxide: http://qtx.krum.jvw/

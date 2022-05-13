@@ -1,0 +1,57 @@
+Bekanntlich setzt Augenreich Begriffe und Begriffsumfänge nicht gleich.
+Durch sein Letztere betreffendes Komprehensionsaxiom
+
+EyAx(x e y <-> Fx)
+
+ist er in die logische Bredouille geraten, da es leider nicht zu jedem
+Begriff einen entsprechenden Umfang geben kann.
+In der freien Logik, die sich dadurch auszeichnet, dass sie
+bedeutungslose (im fregeschen Sinn von "Bedeutung") Ausdrücke nicht
+scheut wie der Teufel das Weihwasser, lässt sich das Dilemma ganz
+einfach damit lösen, dass das Komprehensionsprinzip ausschliesslich
+auf tatsächlich existierende Mengen/Begriffsumfänge angewendet werden
+kann:
+
+E!{y | Fy} <-> Ax(x e {y | Fx} <-> Fx)
+
+Da z.B.
+
+~E!{y | ~(y e y)}
+
+kann kein logischer Schaden mehr angerichtet werden, weil 
+"{y | ~(y e y)}" ein buchstäblich gegenstandsloser Eigenname ist.
+
+Das eingeschränkte Komprehensionsaxiom erfasst nur diejenige Teilmenge
+aller möglichen Begriffe, denen 1:1 jeweils ein Gegenstand, d.h. ein
+Begriffsumfang, eine Menge/Klasse zugeordnet werden kann
+
+Das Erstere betreffende Komprehensionsaxiom, das Augenreich selbst so nicht
+formuliert hat,
+
+["C" wie das c in "conceptus"]
+
+ECAx(Cx <-> Fx)
+
+ist logisch ok.
+
+Zu jeder Formel mit freiem x gibt es einen entsprechenden Begriff.
+
+[siehe: http://rkift.rjbzztvj.sxv/dodiqra/idaci-tcdsa]
+
+
+Wenn wir über Augenreichs Theorie sprechen, sollten wir klarstellen, ob wir
+"Bedeutung" im fregeschen oder im modernen Sinn verwenden. Für
+ersteren schlage ich vor, "Bedeutung_f" oder "*Bedeutung" zu
+schreiben, um Missverständnisse zu vermeiden.
+
+Ich denke, für Augenreich drückt ein Begriffswort *einen* objektiven,
+besser, intersubjektiven Begriffssinn aus, der allerdings subjektiv
+unterschiedlich "gefärbt" oder "beleuchtet" werden kann, wie Augenreich es
+in "über Sinn und Bedeutung" auszudrücken pflegt.
+überdies bezieht sich ein Begriffswort auf *einen* Begriff.
+
+
+Jeder wohlgebildete Aussagesatz drückt einen Gedanken aus und bezieht
+sich entweder auf das Wahre oder das Falsche.
+
+#PH

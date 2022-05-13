@@ -1,0 +1,21 @@
+... so ist es ...
+
+
+... nun ja ... in "Pi = 4 . (lim n->oo (1 - 1/3 + 1/5 - 1/7 + 1/9 -+ ...
+1/(2n + 1)))" steht ja mit vollem Recht ein *Gleichheitszeichen*
+zwischen dem Pi (d.h. der *exakten* Kreiszahl) und dem lim-Ausdruck "für
+die beliebig genaue Annäherung an den exakten Wert".
+
+... und "missverständlich" zumindest im Sinne von _bei mathematisch
+ungebildeten Menschen Verwirrung stiftend_ ist eher der - mathematisch
+selbstverständlich absolut saubere - Begriff der "beliebig genauen
+Annäherung"; denn z.B. daß der Zahlenwert der beliebig genauen
+Annäherung 0,999999999999... *exakt* dem Wert von 1 gleich ist, kann man
+meiner persönlichen Erfahrung nach solchen Menschen nur schwer
+klarmachen - und wenn, dann am besten nicht über den sauberen
+limes-Begriff, sondern mit einem faulen, nämlich sozusagen
+psychomathematischen Trick: 1/3 = 0,333333333333... wird gewöhnlich
+sofort akzeptiert, und dann greift 1 = 3 . 1/3 = 3 . 0,333333333333... =
+0,999999999999...
+
+LG Joseph

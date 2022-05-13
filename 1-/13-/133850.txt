@@ -1,0 +1,10 @@
+Von Uwe Czybulka:
+Ja, deswegen werden bei anständiger Verschlüsselung voneinander
+unabhängige Informationskanäle benutzt. Wenn der Schlüssel in der
+Information enthalten ist, dann ist es möglich die Information zu
+entschlüsseln.  Fpuy�ffry wäre ein Beispiel. Eine Rot13-Verschlüsselung
+ist ja lediglich eine Verschiebung der Buchstaben und somit ist der
+Schlüssel gleichzeitig in der Information enthalten.
+
+Grösse
+Niels

@@ -1,0 +1,59 @@
+"Impulserhaltung" und "Erhaltung der Schwerpunktsbewegung" sind
+in der relativistischen wie in der klassischen Mechanik nur dann
+Äquivalent, wenn der Impuls als Produkt von Geschwindigkeit und
+(relativistischer) Masse angesehen wird.
+
+Siehe z.B. "Das Prinzip von der Erhaltung der Schwerpunktsbewung und
+die Trägheit der Energie", I. Ziemssen, Ann. d. Phys. 20, 627, 1905
+
+Wenn wir in der klassischen Mechanik verbleiben, ergibt sich die
+diskutierte Problematik schon unter der Annahme eines von Objekten
+durchquerbaren Rohrs:
+
+
+       O -->
+
+  Objekt mit v           ruhendes Rohr
+
+
+Analog zur Situation bei Licht und Glas fordern wir:
+
+ - die Geschwindigkeit des Objekts verkleinert sich im Rohr (von v
+   auf v/n < v)
+ - (je)  Geschwindigkeit und Impuls  von  Objekt und Rohr  sind nach
+   Austritt je gleich gross wie vor Eintritt des Objekts
+
+Mit dem Impulserhaltungssatz alleine lassen sich dann folgende drei
+Hypothesen zum Impuls des Objekts (mit Masse m) im Rohr in Einklang
+bringen,
+
+  1) p = mv * n
+  2) p = mv
+  3) p = mv / n
+
+wobei die Hypothesen 1 und 3 Impulsaustausch zwischen Rohr und
+Objekt implizieren, denn wenn sich der Impuls des Objekts
+ändert, muss sich der Impuls des Rohres umgekehrt ändern.
+
+Eine simple Überlegung bzw. Rechnung zeigt, dass nur die Hypothese
+3 mit der Erhaltung der Schwerpunktsbewegung in Einklang zu bringen
+ist. Die Verletzung der Erhaltung der Schwerpunktsbewegung ist
+besonders offensichtlich bei Hypothese 2, denn der Impuls des Rohrs
+bleibt immer bei Null. Die Schwerpunktsgeschwindigkeit VOR und NACH
+Eintritt des Objekts in das Rohr (mit Masse M) hängt somit nur von
+einer einzigen Geschwindigkeit ab: der des Objekts.
+
+   v_vor   =  m * v   /  (m + M)
+   v_nach  =  m * v/n /  (m + M)
+
+Ganz egal wie wir den Impuls im Rohr definieren, die Masse des
+Objekts (und somit auch der Schwerpunkt des Objekt-Rohr-Systems)
+bewegt sich langsamer, wenn das Objekt das Rohr durchquert.
+
+Also was mich echt interessieren würde, ist Folgendes: Ist hier
+tatsächlich niemand in der Lage zu erkennen, wie falsch Urban
+liegt, oder wird die "Wahrheit" zwar erkannt, aber "höhreren
+Interessen" geopfert?
+
+---
+http://szngckc.idg.vw/clixhhcj/dudfad8.iblw#vcusdrytf

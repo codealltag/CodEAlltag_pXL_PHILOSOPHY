@@ -1,0 +1,15 @@
+"Martin Cronsfoth" schrieb
+
+Das ist noch kein Widerspruch, du hast nur gezeigt, dass
+1 = 0 ist (klappt übrigens in jedem Ring).
+
+Daraus folgend ergibt sich auch K = { 0 } = { 1 },
+also besteht der Körper nur aus einem Element.
+
+Ob man das aber noch als Körper akzeptiert,
+ist fraglich, in unserer LAAG1-Vorlesung etwa
+wurde es schon in der Definition ausgeschlossen.
+(Also: Einen Ring K mit card(K) >= 2 nennen
+       wir Körper, wenn ...)
+
+Norbert

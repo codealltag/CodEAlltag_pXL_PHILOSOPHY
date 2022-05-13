@@ -1,0 +1,58 @@
+Warum sind die Mathematiker eigentlich immer so stolz darauf, ganz
+normale Worte dadurch missbrauchen, dass sie sie 'praezise
+definieren'? ;-> Jedenfalls ist die Bedeutung des Wortes "aehnlich"
+durch dessen Gebrauch bestimmt, und zwar so praezise, dass wir im
+Alltag durchaus in der Lage sind, es zu verwenden. Nach einigen
+Diskussionen, die ich - auch in d.s.philo - verfolgt habe, scheint der
+Begriff der Aehnlichkeit aber in vielen philosophischen Argumenten
+verwendet zu werden. Deswegen hab ich mir in der letzten Zeit Gedanken
+darueber gemacht, bin aber leider zu keinem brauchbaren Resultat
+gekommen (Ich weiss, Imwolde, ich bin Dir das noch schuldig). 
+Vielleicht koennt Ihr mir ja helfen.
+
+Die Ausgangsfrage war:
+Was meinen wir damit, wenn wir sagen, a sei b aehnlich?
+
+Zuerst einmal koennte man es mit einer Definition versuchen:
+Zwei Dinge a und b sind einander aehnlich, wenn sie beide unter ein
+und dasselbe Praedikat P fallen, also wenn gilt: Pa & Pb.
+
+Nun kann man das auch so ausdruecken, dass es eine Menge M (die
+Extension von P) gibt, der beide angehoeren. Damit beginnen dann die
+Schwierigkeiten, denn zu jedem Paar von Dingen gibt es eine Menge, die
+beide Dinge enthaelt. Beweis: Zu jeder Menge gibt es eine Potenzmenge.
+Also auch zur Allmenge. Deren Potenzmenge enthaelt nun aber als
+Teilmenge die Menge aller moeglichen Paare von Dingen. Folglich gibt
+es zu je zwei Dingen eine Menge, die diese und nur diese zwei Dinge
+enthaelt. Daraus laesst sich aber folgern, dass es zu jedem Paar von
+Dingen ein Praedikat gibt, das auf beide zutrifft, man kann es
+schliesslich konstruieren: Pxy = gehoert der Menge M an, die x und y
+enthaelt und nichts sonst. Zwar gibt es kein finites / konstruktives
+Verfahren, mit dem man diese Menge finden kann, dass es diese Menge
+gibt, ist aber gesichert, es folgt aus dem oben gesagten.
+Jetzt sagt aber 'a ist b aehnlich' nichts mehr aus.
+
+Man koennte sich zu retten versuchen, in dem man sagte 'a ist b
+aehnlich bezueglich c' wobei c dasjenige sein muss, bezuelgich dessen
+a und b einander aehnlich sind, wie in "rot und gruen sind einander
+aehnlich, insofern sie beide Farben sind". Das sagt aber auch nichts
+aus, denn zu jedem Paar von Dingen gibt es ein Tripel, Quadrupel,
+Quintupel, ... dass die beiden enthaelt. Das sind dann fuer jedes Paar
+von Dingen unendlich viele Mengen, die sie beide enthalten. Folglich
+gibt es nicht nur zu jedem Ding unendlich viele andere, die ihm
+aehnlich sind, sondern je zwei Dinge sind einander auf unendlich viele
+Weisen aehnlich. Um beim 'rot und gruen'-Beispiel zu bleiben: "rot und
+gruen sind einander aehnlich, insofern ich beide von blau
+unterscheiden kann" oder "rot und gruen sind einander aehnlich,
+insofern es Tueren gibt, die rot und gruen gestreift sind". 
+
+Was folgt nun philosophisch daraus? Entweder die oben von mir gegebene
+Definition von "aehnlich" ist zutreffend, dann ist sie bedeutungsleer,
+dh "a ist b aehnlich (bezueglich P)" sagt absolut nichts aus, oder es
+gibt eine andere, bessere Definition, die ich leider nicht kenne.
+Oder findet jemand einen Fehler in meiner Argumentation?
+
+
+Wer hilft?
+Gruss,
+Ulfert.

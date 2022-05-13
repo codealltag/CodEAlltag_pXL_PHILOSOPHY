@@ -1,0 +1,17 @@
+Die Erfuellbarkeitsrelation ist ein semantischer Begriff und bezieht sich
+auf (S,b), wobei S eine Struktur und b eine Belegung ist. Man kann Theorien
+ueber Strukturen definieren oder ueber Satzmengen. Wenn man sie ueber eine
+Menge von Saetzen definiert, dann geht es hier zunaechst nur um die Syntax.
+In solchen Theorien ist also zunaechst keine Semantik vorhanden. Hier kann
+man also nicht von einer Erfuellung sprechen. Erst die Angabe einer Struktur
+oder Modells erfuellt die Saetze.
+
+
+Die mathematische Sprache selbst ist eine Normierung. Definitionen sind
+Festlegungen innerhalb dieser normierten Sprache.
+
+
+Gruss
+
+Carl.
+--

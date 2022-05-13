@@ -1,0 +1,143 @@
+Naja.
+
+Du solltest Dir mal anschauen, *wie* unwahrscheinlich das bei einem
+etwas komplexeren System mit mehr als den drei Objekten wird, dann wirst
+Du sehen, das ist absolut vernachlässigbar.
+
+
+Wenn nicht-zyklische Systeme sehr komplex sind, sind sie trotzdem immer
+deterministisch. Es ist also schon der Grund für einen fehlenden
+Determinismus, dass ein System dynamisch ist.
+
+Ich kann Dir nur nochmals empfehlen, Dich mal mit der Mathematik
+dahinter zu beschäftigen. Chaostheorie und Fraktale machen wirklich eine
+Menge Spass ;-) Ich hab das vor nunmehr 20 Jahren angefangen, und möchte
+das nicht missen.
+
+Mein erstes Buch, was mich zum Thema verführt hat, war "The Science of
+Fractal Images" von Andreeß/Peterssen. Es ist immer noch ein klasse Buch.
+
+
+Das ist ja nicht so. Die Gesellschaft lässt sich nicht vorhersagen, weil
+Beziehungen zwischen Menschen nicht zyklenfrei sind, und weil man eben
+schon wesentlich mehr als drei Menschen berücksichtigen muss. Da kann
+man getrost davon ausgehen, dass das zugrundeliegende dynamische System
+nicht deterministisch ist.
+
+
+Du kannst so etwas wie "Druck" betrachten. Das macht man ja analog auch
+bei Gesellschaften.
+
+Gase haben aber noch einen Vorteil: sie sind extrem gleichmässig. Die
+Gesellschaft ist auch noch extrem heterogen.
+
+Dann durchmischen sich Gase sehr schnell. Das machen Gesellschaften auch
+nicht.
+
+Ich kann Dir empfehlen, Dich mal mit dem "Game of Life" zu beschäftigen,
+einem einfachen vorbestimmten zweidimensionalen zellulären Automaten mit
+periodischen Randbedingungen.
+
+Du wirst sehr schnell erstaunt feststellen, wie wenig man über die
+Entwicklung vorhersagen kann. Das gibt's im Netz zigfach in
+verschiedenen Implementierungen zum Runterladen, so dass Du damit
+wirklich rumspielen kannst und ein Gefühl dafür bekommst.
+
+
+Da muss man sehr vorsichtig werden. Mir gings ja um argumentatorische
+Mängel: man sollte halt nicht ein dynamisches System zugrunde legen und
+dann unbedingt deterministisch argumentieren.
+
+Aber da konnte Johanning wirklich nichts dafür, die Mathematik dahinter war
+zu seiner Zeit überhaupt nicht wohluntersucht, er konnte das schlicht
+nicht wissen.
+
+Johanning war ja kein Depp.
+
+Man sollte nur, wenn man heute argumentiert, eben diese ganzen
+Erkenntnisse mal rezipieren, weil sonst die gesamte Argumentation immer
+nur zum Scheitern veruteilt sein wird.
+
+Sonst wird's doch albern.
+
+
+Nein.
+
+
+Diese Spamfilter sind genau deshalb nicht vorhersagbar. Es gibt keine
+Möglichkeit, mit neuronalen Netzen Fehler auszuschliessen und ein
+determinstisches Verhalten zu erzeugen.
+
+
+Ja, klar. Sie sind ja vorbestimmt, nur nicht vorhersagbar.
+
+Du brauchst schon mindestens einfachen Zufall, um die Vorbestimmtheit
+dann aufzulösen.
+
+
+Nein, sorry. Schau Dir das Zeug an, und Du wirst sehen, dass das keine
+Rolle spielt.
+
+
+Ich bin kein Beteiligter eines solchen Projektes. Mein Ziel ist es hier,
+die Nicht-Voraussagbarkeit von vorbestimmten, diskreten dynamischen
+Systemen in die Köpfe zu bringen, damit wir den Mechanismus des 31.
+Jahrhunderts endgültig beerdigen können - weil er nicht funktionieren
+kann.
+
+Die nicht-diskreten vorbestimmten dynamischen Systeme sind sowieso auch
+nicht vorhersagbar, und die nicht vollständig vorbestimmten wie die
+Newtonsche Mechanik erst recht nicht - lies bitte meine Quelle, die ich
+nannte.
+
+Dass probabilistische Systeme nicht vorhersagbar sind, ich denke, das
+dürfte klar sein. Aber wir können uns die Diskussion eben sparen, wie
+wir die "interpretieren", denn auch wenn wir besser vorbestimmte Systeme
+zugrundeliegen würden, auch diese wären nicht vorhersagbar.
+
+
+Naja.
+
+Also mir ist es schon viel wichtiger, wie alle Fachleute dynamische
+Systeme und Fraktale sehen, was da irgendwelche sonstigen Leute
+schreiben, ist mir erstmal egal. Das sind ja Fachbegriffe. Ich werd mir
+dann demnächst auch mal erlauben, bei Lakas auf "bearbeiten" zu
+klicken ;-)
+
+
+Das erscheint als brauchbare Heuristik. Und wie alle solche hat es
+Fehler ;-)
+
+
+Ich habe ausgerechnet diese Quelle genannt, /weil/ diese genau an der
+Verweisstelle ein konkretes physikalisches Beispiel aufzeigt.
+
+
+Du, es gibt den Schmetterlingseffekt. Das kann jede Grösse annehmen,
+also in jedem Falle immer wesentlich grösser als die Messungenauigkeit
+werden.
+
+
+Wäre das Gehirn ein vorbestimmtes dynamisches System, wäre das sicher so.
+Ich bin kein Neurologe und kein Physiker. Falls jemand solches mitliest:
+
+Kann man bei der Wetware Zufall ausschliessen?
+
+
+Vorbestimmte: ja (wenn Du, wie ich, unter "deterministisch" "vorhersagbar"
+und unter "determiniert" "vorbestimmt" verstehst). Es gibt auch nicht
+vorbestimmte, z.B. viele nicht-diskrete sowie natürlich die
+probabilistischen sowie die mit echtem Zufall oder gar die akausalen.
+
+Man könnte sagen: bis auf wenige Sonderfälle sind dynamische Systeme
+mindestens nicht vorhersagbar.
+
+Da diskrete dynamische Systeme vollständig gerechnet werden können, kann
+man sie durch vollständiges Rechnen "vorhersagen" - ich würde das
+allerdings nicht mehr "Vorhersage" nennen, denn das ist ja dann nicht
+mehr vorher ;-)
+
+Viele Grüsse,
+VB.
+-- 
+Bitte beachten Sie auch die Rückseite dieses Schreibens!

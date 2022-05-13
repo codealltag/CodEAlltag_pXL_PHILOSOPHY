@@ -1,0 +1,9 @@
+Dein Algorithmus sollte aber für alle /denkbaren/ Situationen
+ funktionieren, also bei Eingabe eines endlichen gerichteten Graphen G
+ entscheiden, ob er eine transitive starke Zusammenhangskomponente
+ besitzt, die im reduzierten Graphen von G keine ausgehende Kante
+ hat. Das läßt sich etwa, wenn auch nicht gerade effizient
+ (theta(|V|^3) ), mit dem "Tripelalgorithmus" entscheiden.
+
+
+eduard

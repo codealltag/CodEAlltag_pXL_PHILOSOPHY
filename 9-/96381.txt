@@ -1,0 +1,91 @@
+Es zeigt wunderschön, was für einen Unsinn Du glaubst.
+
+Das Trägheitsmoment einer Kugel, 2/5 M*R kann man ja einfach 
+herleiten. Wie der Professor dies dann so einfach auf 0,33 reduziert, 
+ist mir ein Rätsel. 0,33 jedenfalls sind 2 Nachkommastellen Genauigkeit. 
+Siehe Gleichung 2.73 Seite 58
+
+Dann erfolgt eine Umformung, und tataa, kommt eine Zahl heraus,
+auf 2 Nachkommastellen genau. (2.77)
+
+Hier ist der Koeffizient noch mit (1-0,33) = 0,66 erhalten.
+
+Der Fehler an dieser Stelle, mal mit dem Fehlerfortpflanzungsgesetz 
+korrekt durchgerechnet, wäre ein Vielfaches höher, als dann der Wert von 
+2.92cm/Jahrhundert.
+
+Der Wert ist purer Zufall, und die Erklärung für die "Übereinstimmung 
+mit den Lasermessungen" ist weit hergeholt.
+
+Diese Rechnung ist nicht nur schon wegen dem aus der Luft geholten 
+Trägheitskoeffizienten der Erde Müll, sondern auch wegen wegen der 
+fehlenden Fehlerrechnung.
+
+Und dann wird die Verlangsamung der Erdrotation auf den Mond 
+zurückgeführt, der für "Gezeitenreibung" verantwortlich wäre. Seite 57 
+oben steht (Gezeitenreibung (Drehimpulsaustausch zwischen Erde und Mond)
+
+Nun ist mir auch klar, warum Du so einen Unsinn schreibst:
+
+Deine Erklärung: "Die Rotationsenergie der Erde wird dabei in Wärme 
+umgewandelt und der Drehimpuls wird auf den Mond übertragen" ist falsch.
+
+Du meinst, weil da sprachlich ein Zusammenhang wäre, daß dieser auch 
+physikalisch da wäre. Dem ist nicht so. Wärme kann *prinzipiell* keinen 
+Drehimpuls auf den Mond übertragen.
+
+Auch hat der Autor mit seiner Erklärung:
+"Der Mond versucht jedoch, die Wülste wieder auf eine gerade Linie 
+zwischen Erde und Mond zu bringen".
+
+Seine Erklärung ist eine Erfindung, sie ist absoluter Quatsch. Der Mond 
+tut nix.
+
+Es tut mir Leid für Deine Argumentation, aber das, was da steht, ist 
+völliger Murx.
+
+Solche Rechnungen von Johannes Crusius zusammen mit den phantastischen 
+Erklärungen, die aus der Luft geholt sind, haben wir im Praktikum 1. 
+Semester schon um die Ohren geschlagen bekommen. Er rechnet auf dem 
+Niveau eines Physikers 3. Semester und begeht dieselben Fehler, die 
+Erstsemester, wenn sie gerade aus dem Abitur kommen, noch machen.
+
+
+Ich zeige Dir ein Beispiel, wo der logische Fehler einer viel 
+einfacheren Rechnung schon nicht mehr durchschaubar ist:
+
+Ein weiteres Beispiel aus der Mathematik zeigt auf, daß prinzipiell jede 
+Statistik eine Lüge ist:
+
+Sterberate für Tuberkulose in U.S.A. im Jahre 1909:
+
+Oberfelden	Einwohner	Tote	Rate
+Weiße		80895		131	0,00162
+Farbige		46733		155	0,00332
+
+Sulzheim	Einwohner	Tote	Rate
+Weiße		4675174		8365	0,00179
+Farbige		  91709	 	 513	0,00559
+
+Nun wird die Statistik zusammengezogen, also nicht mehr nach Farbigen 
+oder Weißen aufgeteilt:
+
+Gesamt		Einwohner	Tote	Rate
+Sulzheim	4766883		8878	0,00186
+Oberfelden	  127628	 286	0,00224
+
+Und nun kommt die Interpretation der Frage, wer wo die höhere 
+Überlebenswahrscheinlichkeit hat:
+1.Bist Du ein Weißer, so gehe nach Oberfelden
+2.Bist Du ein Schwarzer, so gehe nach Oberfelden
+3.Bist Du Mensch, also entweder schwarz oder weiß, dann gehe nach Sulzheim!
+
+Na? Wo ist der Denkfehler?
+
+
+LG, Ottmar Gruell
+
+--
+Traveler, there are no path. Path are made by walking.
+
+� God.

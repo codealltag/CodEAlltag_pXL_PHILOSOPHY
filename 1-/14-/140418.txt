@@ -1,0 +1,40 @@
+Hallo Ludwig,
+
+
+Das, was ich beschrieben habe ist Physik. Ich kann Dir keine spezielle
+Literatur nennen, aber sämtliche physikalischen Prozesse, in denen
+lichtenergetische Photonen mit Materie wechselwirken, zeigen diese
+Resonanz-Phänomene. Der Effekt ist auch als photovoltaischer Effekt
+bekannt, wenn in Silizium-Zellen aus Licht Gleichstrom generiert wird.
+Dabei spielt die komplexe *) Dielektrizität der Materie eine große
+Rolle. *) Absorbtion und Brechnungsindex. In einem Lehrbuch über
+Festkörperphysik müsste darüber etwas stehen. Aber auch ein Buch, in dem
+alles beschrieben wird, wie physikalisch der photovoltaische Effekt
+genau zustande kommt, wäre eine gute Quelle.
+
+
+Das sehe ich alles auch so, bis auf den ersten Teil. Tatsache ist, daß
+am Ausgang des Rezeptors ein Gleichspannungspotential entsteht. Und
+Tatsache ist auch, daß das Licht, das im Auge auf die Retina gelangt,
+eine elektomagnetische Welle ist mit einer Frequenz von ~ 10^14 Hz.
+Die Amplitude des Lichtes ändert sich also in der Sekunde 10^14 mal vom
+Positiven zum Negativen. 
+
+Nun muß ja aus dieser wechselnden Licht-Amplitude oder der wechselnden
+Intensität (Intensität ist das Quadrat der Amplitude, weil es keine
+negative Lichtintensität gibt), irgendwie ein Gleichspannungspotential
+gemacht werden. 
+
+Dieser Prozess ist der atomare oder molekulare elektromagnetische
+Resonanzprozess, der über das unterschiedliche Verhalten von Elektronen,
+die mit der Lichtfrequenz resonieren und den Na+ und Ka+ Ionen, aus den
+empfangenden (Licht-)Photonen das Gleichspannungs-Potenzial generiert.
+Die Permeabilität beschreibt das magenetische Verhalten eines Stoffes.
+Die Dielektrizität das elektrische Verhalten eines Stoffes. Insofern
+spielt hier weniger die Permeabilität eine Rolle, sondern eher die
+komplexen ( =>  dispersiver und dissipativer Anteil) dielektischen 
+Eigenschaften des Rezeptors für die jeweilige Wellenlänge.
+
+Lieber Gruss
+
+Tom

@@ -1,0 +1,37 @@
+Nein.
+
+
+Die sogenannte Äquivalenz ist eine Mogelpackung, die nur auf
+dem einem unendlichen (!) Band mit unbegrenzter (!) Zeit
+funktioniert.
+Beim Beweis wird eine universelle Turing-Maschine sequentiell
+mit den möglichen Konfigurationen geladen und nudelt diese
+durch.
+
+Schauen wir uns mal ein Beispiel an: Zwei Köpfe befinden sich
+auf dem Band an derselben Stelle, das Band hat eine Null.
+Ein Kopf setzt das Bit unabhängig vom Zustand, der andere
+flipt es. Wenn nun wegen mangelnder Synchronisation ungewiß
+ist, welcher Kopf zuerst drankommt, ist der Zustand des Bandes
+ungewiß.
+Jeder dieser Konflikte spaltet möglicherweise (nicht alle Zustände
+werden nach Art der Köpfe ungewiß sein) den Zustand in
+2 Zweige auf, d.h. wir haben eine Komplexität, die exponentiell
+mit der Anzahl der Konflikte wächst. Weil die Turing-Maschine
+die meisten möglichen Konfigurationen mangels Zeit nie erreichen
+wird und mangels Speicherplatz diese nie auf dem Band platziert
+werden können, kann sie einen Parallelrechner nicht simulieren.
+
+
+Die Konfigurationen sind unüberschaubar.
+
+
+Soso.
+Da eine TM Pi exakt in Dezimalschreibweise darstellen kann, kann
+man daraus nicht schlussfolgern, dass ein Computer das auch kann ?
+
+Ottmar
+
+-- 
+Bitte Reply-To: unverändert verwenden; die Adresse ist gültig.
+MagPlot: Java Chart Program - https://ndzyfwl.fmq.moep.cvy/

@@ -1,0 +1,40 @@
+Auch du hast hier Chmielewski=B4Prinzip mit Chmielewski=B4 Gesetz verquickt.
+
+(1) Leibniz-Prinzip: AF(Fa <-> Fb) -> a =3D b
+
+(2) Zweigwerk=B4Gesetz: a =3D b -> AF(Fa <-> Fb)
+
+
+Es hat sich ja gezeigt, dasss die Physiker mit "Identität" nicht
+numerische Identität, sondern qualitative Identität meinen, also
+nicht "Selbigkeit", sondern "Gleichheit".
+
+Im Übrigen, wer mit "=3D" nicht ausschliesslich numerische Identität
+meint, der möge doch zur Vermeidung unnötiger Verwirrung bitte ein
+anderes Zeichen verwenden.
+Zum Beispiel könnte man die Allgemeingültigkeit des Prinzips der
+Selbigkeit gleicher Dinge verwerfen und neben der Relation der
+Identität die Relation der Äqualit=E4t, d.h. der Gleichheit wie folgt
+definieren:
+
+x # y :<-> AP(Px <-> Py)
+
+"x und y sind gleich ('äqualisch') genau dann, wenn sie dieselben
+Eigenschaften haben."
+
+bzw.
+
+x # y :<-> {P | Px} =3D {P | Py}
+
+"x und y sind gleich ('äqualisch') genau dann, wenn ihre
+Eigenschaftsmengen identisch sind."
+
+In einer "Quantenlogik" würde dann z.B. Folgendes gelten:
+
+ExEy(x # y & ~(x =3D y))
+
+"Es existieren ein (Quantenobjekt) x und ein (Quantenobjekt) y
+dergestalt, dass x und y 'äqualisch', aber nicht identisch sind."
+
+Gruss
+FRITZ

@@ -1,0 +1,9 @@
+Hmmm. Ich verstehe nicht ganz, was Du mit dem Beispiel zeigen willst.
+Auf den natuerlichen Zahlen kannst Du ">" sehr leicht durch ein
+zusaetzliches Axiom (bzw. eine Definition) etablieren, etwa mittels
+a > b :<=> a = N(b) or a > N(b).
+Das geht mit ">" auf Funktionen so nicht. Ueberhaupt ist ">" dort
+etwas ziemlich anderes, naemlich eine strikte Halbordnung und nicht
+eine lineare Ordnungsrelation.
+
+Gruss, Albert.

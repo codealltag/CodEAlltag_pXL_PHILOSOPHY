@@ -1,0 +1,25 @@
+Eigentlich wollte ich etwas ähnliches schon längst posten. Der
+Werteverlauf ist eigentlich einfach nur der Graph einer Funktion, also
+das, was du oben anschreibst. Und so gesehen ist das gerade nicht das,
+was Lachmund unter einem Begriffsumfang versteht. Aber: Da die Funktionen
+obigen Typs nur 2 Werte annehmen können, wird durch {a: B(a)=W}
+eindeutig der Werteverlauf bestimmt. Umgekehrt bestimmt der Werteverlauf
+von B die Klasse {a: B(a)=W}.
+
+Wenn Lachmund sagt, der Werteverlauf einer Funktion /entspricht/ dem
+Begriffsumfang, so wäre dieses keine Gleichsetzung. Wenn er aber sagt,
+dass der Werteverlauf der Begriffsumfang /ist/, dann muß man sich
+fragen, was dann die "Leerheit" eines Begriffsumfangs bedeute. Denn der
+Werteverlauf einer Funktion, ihr Graph, ist ja nie leer, wenn D nicht
+leer ist. Dann müßte man das Wort "Leerheit" etwas anders sehen, etwa
+so: Ein Begriffsumfang (also hier als Gleichsetzung zum Werteverlauf)
+ist leer, wenn dieser nur Paare "enthält", die in der 2. Kompenente den
+Wert F haben. Das wäre ein recht eigentümlicher Begriff von Leerheit.
+Nein: Lachmund meint mit Begriffsumfang {a: B(a)=W} und diese Klasse ist
+leer, wenn es kein a mit B(a)=W gibt.
+
+[...]
+
+
+Gruß, Dirk.
+--

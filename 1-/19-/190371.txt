@@ -1,0 +1,16 @@
+IMO besteht gute Modellbildung darin, dass sehr viel Komplexitaet des
+Realsystems reduziert wird, wobei gleichzeitig das Modell dennoch
+zentrale Eigenschaften des Realsystems aufweist.
+Genau dieses leisten ANNs  fuer verschiedene Anwendungsbeispiele, in
+denen klassische Symbolverarbeitungsansaetze als Alternativmodell fuer
+kognitive Prozesse in Schwierigkeiten geraten, etwa im Bereich der
+Mustererkennung.
+
+
+Vielleicht reicht das ja? Die immer noch begrenzten
+Leistungsfaehigkeiten von ANNs im Vergleich zum Gehirn sind
+vielleicht eher dadurch begruendet, dass ihre Moeglichkeit zur (Soft-
+oder Hardware-) Realisierung eben noch um etliche Groessenordnungen 
+hinter den etwa 10^12 Neuronen mit 10^15 Verknuepfungen eines realen
+menschl. Nervennetzes zurueckbleiben.
+Gruss, Mike.

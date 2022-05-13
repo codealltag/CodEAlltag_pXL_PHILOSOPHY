@@ -1,0 +1,21 @@
+Newsbeitrag
+[=2E.]
+könnte.
+
+Mathematisch wird so etwas z.b. beim Informatik-Bereich
+'Raytracing' modelliert: Lichtstrahl-Vektoren, deren
+Schnittpunkte mit 3D-Drahtgittermodellen berechnet werden.
+
+Eine mögliche Körperzuschreibung mit der Bedeutung 'deckend'
+kann hier wie dort nur in Relation zur Fragestellung (z.b. dem
+Lichtstrahlvektor) und einem anderen Körper entstehen - von
+weiteren notwendigen Bedingungen wie der unmittelbaren Nähe der
+zwei Körper noch abgesehen.
+
+Diese 'deckend'-Variable ist offensichtlich nicht mehr
+Merkmal einer bestimmten Entität, sondern eine Zustands-
+bewertung einer Zwei-Körper-Konstellation bezüglich einer
+bestimmten analytischen Fragestellung.
+
+grüsse,
+Orlando Prells

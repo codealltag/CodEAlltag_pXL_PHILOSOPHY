@@ -1,0 +1,34 @@
+...
+
+
+Das ist aber allgemein bekannt, gilt als fieser Charakterzug und wird
+im Allgemeinen der Kaste der Schlipsträger zugeschrieben.
+
+
+Jeder versteht von dem, womit er sich weniger befasst hat, weniger als
+von dem, was er 10 Jahre studiert/promoviert hat und täglich
+professionell tut.
+
+
+Das treiben die HHAK-Leute gerade.  Ich weiß nicht, wie es dem
+Morath-Parameter momentan geht, aber die Dimensionszahl soll
+statistisch schon herauskommen.
+
+
+Was soll das sein?  Graphen sind normalerweise als endlich definiert.
+Ein gerichteter Graph ist eine endliche Menge E mit Abbildungen
+h:E->E, t:E->E und Gleichungen h o h = h, h o t = t, t o h = h,
+t o t = t (das kleine "o" steht für die Komposition von Funktionen,
+ich verzichte wegen der nichttechnischen NG auf die eigentlich
+angebrachte Verwendung der Unicode-Zeichen "→" für "->" und "○" für "o").
+
+
+Warum braucht man dazu die NG und "Hilfe erfahrener philosophischer,
+oft langjähriger Schreiber", wenn es doch ganze Bibliotheken voll
+philosophischer Bücher gibt?
+
+Noël
+-- 
+GS d->? s:++>+++ a+ C++++ UL+++ UH++ P++ L++ E+++ W- N++ o-- K-
+w--- !O M- V- PS+>++ PE Y+>++ PGP+ !t !5 !X !R !tv  b+++ DI+++
+D? G+ e++++ h+ r? y?

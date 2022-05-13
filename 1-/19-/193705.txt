@@ -1,0 +1,284 @@
+--------------=_4D480090702C09FC8208
+Content-Description: filename="text1.txt"
+Content-Type: text/plain; charset=ISO-8859-1; name="text1.txt"
+Content-Transfer-Encoding: quoted-printable
+
+
+Am 15.12.98, 18:22:58, schrieb Lars Feldmüller <gfwolvl@onr.ch> zum=20
+Thema Re: eine frage zum begrenztsein:
+
+
+ein
+
+Zwerg
+set
+ist
+
+Eigentlich faßt man es in der theoretischen Informatik genau anders=20
+herum auf:
+Was eine =BBBerechnung=AB ist wird als vorwissenschaftlicher zu=20
+explizierender Begriff
+genommen und ein Algorthmus ist als effektives Verfahren seine=20
+Präzisierung!
+
+
+---
+
+
+Hier hängt es ganz einfach von der Art des neuronalen Netztes ab,=20
+welche Berechnungs-
+fähigkeit es hat und ob es direkter, isomorpher simulieren könnte,=20
+hängt nicht
+vom neuronalen Netz ab, sondern von den Fähigkeiten seines=20
+Programmierers. Die Annahme
+das ein neuronales Netz dem Gehirn ähnlicher ist als eine=20
+Turingmachine oder ein endlicher
+Automat ist zum einen eben nichts weiter als eine Annahme und enthebt=20
+einen zweitens nicht
+der Notwendigkeit der Programmierung. Hardware allein lößt keine=20
+Probleme!
+
+
+sind
+würde
+
+In diesem Abschnitt steht sehr viel Informatik-Kauderwelsch, von dem=20
+ich mir nicht sicher
+bin, ob er im rechten Zusammenhang erwähnt wird:
+
+1) Was heißt =BBein Algorithmus in diesem Bereich=AB?
+Soweit mir bekannt ist basieren alle heutigen Compiler auf Sprachen=20
+die sich sehr moderat in
+polynomieller Zeit lösen lassen! Gibt es einen Apriori-Grund warum=20
+menschliche Sprache nicht
+auch solchen Algorithmen zugänglich sein könnte?
+
+2) Zwar gibt es NP-schwere (engl.: hard) Probleme die unentscheidbar=20
+sind, doch falls es=20
+einen nichtdeterministischen Polynomzeitalgorithmus gibt ist das=20
+Wortproblem ENTSCHEIDBAR!
+Und falls ein Problem unentscheidbar ist, gibt es keine rekursive=20
+Zeitschranke innerhalb
+der dieses Problem sich deterministisch oder nichtdeterministisch=20
+lösen ließe!
+
+Im Prinzip denke ich zwar auch das komplexitätstheoretische=20
+Überlegungen helfen können,
+bestimmte philosophiche Probleme klarer zu sehen, aber mit solchen=20
+unklaren Rundumbemerkungen
+tut man weder der Philosophie noch der Komplexitätstheorie einen=20
+Gefallen. Vielleicht könntest
+Du Deine Absicht etwas klarer formulieren?
+
+
+Darf man diese letzte Bemerkung so verstehen, daß das Gehirn kein=20
+=BBphysikalischer
+Prozeß=AB ist??
+
+
+Mit freundlichen Grüßen
+ Klaus=20
+
+                                                                      =20
+                                                                      =20
+                                                                      =20
+                                                                      =20
+                                                                      =20
+                                                                      =20
+                                                           --=20
+Klaus Kamperdick,
+email: wqcfbqazh@dgm.av
+
+
+--------------=_4D480090702C09FC8208
+Content-Description: filename="text1.jxp"
+Content-Type: text/html; name="text1.jxp"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+	<TITLE>Re: eine frage zum begrenztsein</TITLE>
+	<META NAME=3D"GENERATOR" CONTENT=3D"Frohnauer Nutzfahrzeuge/4.0 (Unix)">
+	<META NAME=3D"CREATED" CONTENT=3D"84636110;9210806">
+	<META NAME=3D"CHANGEDBY" CONTENT=3D"Klaus Kamperdick">
+	<META NAME=3D"CHANGED" CONTENT=3D"84636110;1130901">
+	<STYLE>
+	<!--
+	-->
+	</STYLE>
+</HEAD>
+<BODY>
+<PRE>
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;=
+ Urspr&uuml;ngliche Nachricht &lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&l=
+t;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+Am 15.12.98, 18:22:58, schrieb Lars Feldmüller &lt;gfwolvl@onr.ch&gt; zum =
+Thema Re: eine frage zum begrenztsein:
+
+
+&gt; Hi all,
+&gt;=20
+&gt; normalerweise lese ich diese area nicht, und ich weiss auch nicht,
+&gt; welcher thread das war; jedenfalls bezieht sich das auf eine msg vo=
+n
+&gt; Katharina oder Kathi S&zinßler;müllstroh!?
+&gt;=20
+&gt; Kann sein, dass meine Entgegnung voellig aus dem Zusammenhang geris=
+sen
+&gt; ist.
+&gt;=20
+&gt; &lt;SNIP&gt;
+&gt;=20
+&gt; [mail an Wilfried Redinius (<A HREF=3D"mailto:Urmteu.Kwlxeqyd@phy.nco=
+">mailto:Urmteu.Kwlxeqyd@phy.nco</A>), der unteres
+&gt; Zitat so toll fand, um es als seine .signature zu verwenden]
+&gt;=20
+&gt; &gt; &quot;Was ist, wenn wirklich jemand herausfindet, da&szlig; di=
+e Funktion
+&gt; &gt; unseres Gehirnes auf einen mehr oder weniger einfachen
+&gt; &gt; Algorithmus zur&uuml;ckgef&uuml;hrt werden kann ?&quot;
+&gt; &gt; - Kathi S&zinßler;müllstroh in de.sci.philosophie
+&gt;=20
+&gt; Diese &Auml;u&szlig;erung macht wenig Sinn.
+&gt;=20
+&gt; Zum einen ist ein &quot;Algorithmus&quot; (:=3D) eine relativ allge=
+mein gehaltene,
+&gt; nicht formal definierte Beschreibung einer &quot;Berechnung&quot;; =
+insofern ist
+&gt; auch &quot;PROCEDURE SIMULIERE_GEHIRN&quot; (mit entsprechenden Ein=
+-/Ausgaben) ein
+&gt; Algorithmus. Eine reale Implementierung dieses Algorithmus' k&auml;=
+me z. B.
+&gt; dadurch instande, da&szlig; man in ein Tower-Geh&auml;use einen men=
+schlichen Zwerg
+&gt; steckte, der dann die eigentliche Verarbeitung als &quot;zugrundeli=
+egende
+&gt; hardware&quot; (sozusagen ein UH-CISC --- ultra high complex instru=
+ction set
+&gt; computer --- akzeptiert nur *einen* Befehl (den Prozeduraufruf), de=
+r ist
+&gt; aber hochkomplex (non-RISC)) ausf&uuml;hren w&uuml;rde.
+&gt;=20
+
+Eigentlich fa&szlig;t man es in der theoretischen Informatik genau ander=
+s herum auf:
+Was eine &raquo;Berechnung&laquo; ist wird als vorwissenschaftlicher zu =
+explizierender Begriff
+genommen und ein Algorthmus ist als <B>effektives</B> Verfahren seine Pr=
+&auml;zisierung!
+
+
+&gt; Zum anderen lassen sich die Ergebnisse des compiler designs auf ein=
+en
+&gt; Teilbereich der Leistungsf&auml;higkeit des menschlichen Gehirns an=
+wenden ---
+&gt; die F&auml;higkeit, Sprache zu erzeugen, zu parsen, interne Zust&au=
+ml;nde zu
+&gt; &auml;ndern. Ein Algorithmus im herk&ouml;mmlichen Sinne (also z. B=
+. kein
+&gt; neuronales Netz, das direkter/isomorpher simulieren k&ouml;nnte) is=
+t in
+
+Hier h&auml;ngt es ganz einfach von der Art des neuronalen Netztes ab, w=
+elche Berechnungs-
+f&auml;higkeit es hat und ob es <B>direkter</B>, <B>isomorpher</B> simul=
+ieren k&ouml;nnte, h&auml;ngt nicht
+vom neuronalen Netz ab, sondern von den F&auml;higkeiten seines Programm=
+ierers. Die Annahme
+das ein neuronales Netz dem Gehirn &auml;hnlicher ist als eine Turingmac=
+hine oder ein endlicher
+Automat ist zum einen eben nichts weiter als eine Annahme und enthebt ei=
+nen zweitens nicht
+der Notwendigkeit der Programmierung. Hardware allein l&ouml;&szlig;t ke=
+ine Probleme!
+
+&gt; diesem Bereich NP-hart und unentscheidbar, was das Wortproblem (ein=
+
+&gt; ziemlich allgemeines Problem --- ein Wort k&ouml;nnte auch einem &q=
+uot;wahren&quot;
+&gt; Satz einer nat&uuml;rlichen Sprache entsprechen) angeht (d. h. mome=
+ntan sind
+&gt; nur nichtdeterministische Algorithmen mit Polynomialzeit oder
+&gt; deterministische Algorithmen mit Exponentialzeit bekannt); aufgrund=
+
+&gt; diverser Beweise in der Berechenbarkeits- und Komplexit&auml;tstheo=
+rie und
+&gt; geeigneter Defintionen der Begriffe &quot;NP-vollst&auml;ndig&quot;=
+ und &quot;NP-hart&quot; w&uuml;rde
+&gt; das Vorhandensein eines &quot;einfachen&quot; (d. h. zeit- oder
+&gt; speicher-effizienten) Algorithmus unsere bisherige Vorstellung vom
+&gt; Universum revolutionieren: Es existieren Transformationen diverser
+&gt; NP-harter Probleme auf andere NP-harte Probleme --- wenn auch nur e=
+in
+&gt; einziges dieser Probleme geknackt w&uuml;rde, w&uuml;rde eine riesi=
+ge
+&gt; Problemklasse mitgeknackt --- Sachen wie Rucksackproblem (z. B.
+&gt; optimales Bepacken eines Containers), Problem des Handlungsreisende=
+n
+&gt; (routing-Optimierungen), diverse Kombinatorikdinge (wertlose digita=
+le
+&gt; Signaturen, Primzahlen, Tute-Karten, etc.).
+&gt;=20
+
+In diesem Abschnitt steht sehr viel Informatik-Kauderwelsch, von dem ich=
+ mir nicht sicher
+bin, ob er im rechten Zusammenhang erw&auml;hnt wird:
+
+1) Was hei&szlig;t &raquo;ein Algorithmus in diesem Bereich&laquo;?
+Soweit mir bekannt ist basieren alle heutigen Compiler auf Sprachen die =
+sich sehr moderat in
+polynomieller Zeit l&ouml;sen lassen! Gibt es einen Apriori-Grund warum =
+menschliche Sprache nicht
+auch solchen Algorithmen zug&auml;nglich sein k&ouml;nnte?
+
+2) Zwar gibt es NP-schwere (engl.: hard) Probleme die unentscheidbar sin=
+d, doch falls es=20
+einen nichtdeterministischen Polynomzeitalgorithmus gibt ist das Wortpro=
+blem ENTSCHEIDBAR!
+Und falls ein Problem unentscheidbar ist, gibt es keine rekursive Zeitsc=
+hranke innerhalb
+der dieses Problem sich deterministisch oder nichtdeterministisch l&ouml=
+;sen lie&szlig;e!
+
+Im Prinzip denke ich zwar auch das komplexit&auml;tstheoretische &Uuml;b=
+erlegungen helfen k&ouml;nnen,
+bestimmte philosophiche Probleme klarer zu sehen, aber mit solchen unkla=
+ren Rundumbemerkungen
+tut man weder der Philosophie noch der Komplexit&auml;tstheorie einen Ge=
+fallen. Vielleicht k&ouml;nntest
+Du Deine Absicht etwas klarer formulieren?
+
+&gt; Das ist &auml;u&szlig;erst unwahrscheinlich; nat&uuml;rlich k&ouml;=
+nnte es sein, da&szlig; eines
+&gt; Tages z. B. ein physikalischer Proze&szlig; gefunden wird, der gena=
+u das &quot;so
+&gt; nebenbei&quot; erledigt, aber eher f&auml;llt ein Ziegelstein aufs =
+Dach zur&uuml;ck.
+&gt;=20
+
+Darf man diese letzte Bemerkung so verstehen, da&szlig; das Gehirn kein =
+&raquo;physikalischer
+Proze&szlig;&laquo; ist??
+
+
+Mit freundlichen Gr&uuml;&szlig;en
+ Klaus=20
+
+                                                                        =
+                                                                        =
+                                                                        =
+                                                                        =
+                                                                        =
+                                                                        =
+                                                     --=20
+<SDFIELD TYPE=3DSENDER SUBTYPE=3DFIRSTNAME>Klaus</SDFIELD> <SDFIELD TYPE=
+=3DSENDER SUBTYPE=3DNAME>Kamperdick</SDFIELD>,
+email: <YAUSMXY TYPE=3DSENDER SUBTYPE=3DEMAIL>wqcfbqazh@dgm.av</SDFIELD>=
+</PRE>
+</BODY>
+</HTML>
+
+--------------=_4D480090702C09FC8208--

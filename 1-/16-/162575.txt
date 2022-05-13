@@ -1,0 +1,43 @@
+Hallo Lorenz!
+
+
+DW> Ein neuronales Netz muß z. B. traniert werden ein Vorgang, welcher
+DW> sich so nicht mit einer Turingmaschiene modellieren läßt. 
+
+Warum nicht? Ich kann sowohl die Lernbedingungen und ihre Ergebnisse
+als auch die realen Aufgaben zu Anfang eingeben. Dann kann das Netz zu
+Anfang lernen, sich selbstaendig anhand der vorhandenen Ergebnisse
+optimieren und danach die Aufgabe bearbeiten.
+
+Die mir bekannten neuronalen Netze wurden genauso programmiert: man
+nahm alle Daten, liess das Ding die Nacht (oder die Woche) ueber
+laufen und schaute dann nach den Ergebnissen. Das ganze ohne jede
+Interaktion und prinzipiell auch auf einer Turingmaschine lauffaehig.
+
+Es handelte sich dabei um Ereignissuchalgorithmen in Neutrinoteleskopen.
+
+DW> Wie eine Eingabe beim Training verarbeitet wird läßt sich mit der
+DW> Turingmaschiene nachbilden, aber nicht der ganze Prozess der
+DW> Interaktion mit der Umwelt.
+
+Das ist richtig, ist aber keine Besonderheit von neuronalen
+Netzen. Ich wollte lediglich zeigen, dass der Crux nicht in der
+verwendeten Software liegt (denn die ist sowohl bei "klassischen
+Algorithmen" als auch bei neuronalen Netzen formaler Art), sondern in
+der Interaktion mit der Umwelt.
+
+DW> Setzt man dann noch auf echte Zufallszahlen entfernt man sich noch
+DW> weiter vom Modell der Turingmaschiene.  
+
+Was ich bisher an Simulationsalgorithmen in der Physik mitbekommen
+habe, sind gute Pseudozufallszahlen (experimentweit einmalig erzeugt
+und dann verteilt) immer noch ausreichend fuer die Beschreibung
+physikalischer Vorgaenge - selbst beim Lernen neuronaler Netze. Ich
+denke mal, dass das bei gesellschaftlichen Modellen nicht anders ist.
+
+Tschuessi
+
+Othmar
+
+-- 
+Support the ban of Dihydrogen Monoxide: http://iws.ahrb.uuq/

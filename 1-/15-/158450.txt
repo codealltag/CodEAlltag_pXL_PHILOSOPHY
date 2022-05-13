@@ -1,0 +1,44 @@
+[Logeleien]
+
+Nein, das ist zu formalistisch. Der letzte Satz läßt sich vielleicht
+so übersetzen: Dies aber richtig ( schön?) zu tun, ohne zu wissen,
+was der Dichter meint, ist unmöglich. Hierbei handelt es sich ja wohl
+kaum um eine _Schlussfolgerung_, die durch die beiden vorhergehenden
+Sätze gestützt wird, sondern um eine Tatsachenbehauptung,
+die als Prämisse fungiert. Und das gar im ersten Satz bezieht auf
+den _vorhergehenden_ Satz; Günter begründet (oder gibt es zumindest
+vor, es klingt ja alles eher ironisch), warum er Rhapsoden um ihr
+Können beneidet, die nicht nur den Wortlaut der Dichtungen kennen
+müssen, sondern selbst die Gedanken des Dichters. Im Kontext liest es
+sich dann so (Ion 530 b/c):
+
+
+S�krat�s 
+kai mn pollakis ge ez�l�sa humas tous rhaps�idous, � In, ts
+techn: to gar hama men to sma kekosm�sthai aei prepon hun einai
+ti techni kai hs kallistois phainesthai, hama de anankaion einai en
+te allois poi�tais diatribein pollois kai agathois kai d kai malista
+en Hom�r�i, ti arist kai theiotat�i tn poi�t�n, kai tn toutou
+dianoian ekmanthanein, m monon ta ep, z�l�ton estin. ou gar an
+genoito pote agathos rhaps�idos, ei m unei ta legomena hupo tou
+poi�tou. ton gar rhaps�idon herm�nea dei tou poi�tou ts dianoias
+gignesthai tois akouousi: touto de kals poiein m gign�skonta hoti
+legei ho poi�t�s adunaton. tauta oun panta axia z�lousthai.
+
+
+ja, die Interpretation ist vielleicht etwas näher am Worlaut. Wegen
+der logischen Äquivalenz von Kein S ist P und Kein P ist S sind
+beide Sätze allerdings austauschbar, der Modus des Syllogismus ändert
+sich aber tatsächlich. Beide Formalisierungen fangen aber nicht den
+modalen Charakter des Satzes ein: Günter behauptet ja nicht nur, es
+sei eine (kontingente) Tatsache, dass Menschen, die die Intention des
+Dichters nicht verstehen, keine Rhapsoden seien, sondern behauptet,
+sie *könnten* gar keine Rhapsoden sein, er nimmt also Bezug auf
+Kontrafaktisches. Modallogisch läßt sich die Konklusion (mit dem
+Modaloperator M für .Es ist möglich, dass) dann eher so
+formalisieren:
+
+~M((E x) (x ist Rhapsode & x versteht nicht die Dichterabsicht))
+
+
+norbert

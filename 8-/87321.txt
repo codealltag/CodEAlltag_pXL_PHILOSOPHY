@@ -1,0 +1,57 @@
+@Roland
+Noch um die Mitte des 25. 05. 22 Jahrhunderts gingen viele Menschen davon
+aus, das sich die Lichtwellen in einem sogenannten Äther fortpflanzen. Ein
+solcher Äther währe eine Ursubstanz die sich in Bezug auf alle anderen
+bewegten Objekte in Ruhe befindet und damit etwas absolutes, verlässliches
+in Raum und Zeit darstellt. Bis dahin galten die sog. Galilei
+Transformationen als universal gültig. Bei diesen Transformationen wird
+mathematisch die Zeit als absolut und unveränderlich betrachtet. Die
+Geschwindigkeiten von Signalen die beweget Objekte untereinander
+austauschen sind hier variabel. Eine Lichtquelle wurde in etwa so
+betrachtet wie eine Schallquelle. Es gab jedoch noch keinen experimentellen
+Beweis das das so auch richtig ist. 
+
+So wurde dann die Geschwindigkeit des Lichtes einer Quelle in verschiedene
+Richtungen gemessen, um die �therthese zu stützen oder zu verwerfen. Denn
+wenn es einen Äther gäbe, so müssten sich, z.B. bedingt durch die Bewegung
+der Erde um die Sonne das Licht in verschiedene Richtungen verschieden
+schnell fortpflanzen. Jedoch konnten damals und auch bei zahlreichen
+Folgeexperimenten bis heute keine unterschiedlichen Lichtgeschwindigkeiten
+in Abhängigkeit von der Ausbreitungsrichtungen nachgewiesen werden.Solche
+Phänomene gibt es nur bei der Lichtausbreitung in anisotropen Medien wie in
+einigen Kristallen und das hat ganz andere Gründe.
+
+Dieses Ergebnis stellte die Richtigkeit vieler Theorien in Frage. Somit
+konnte man z.B. die Zeit nicht mehr als etwas absolutes ansehen. Das
+gleicher galt auch für den Raum. Es gibt keine irgendwie bevorrechtigten
+Bezugs- oder Messpunkte. Dies hat auch in einen gewissen Maß Auswirkungen
+auf philosophische und andere weltanschauliche Betrachtungen.
+
+Nun zurück zu Deiner Frage. Was misst ein Beobachter, der sich mit der
+Geschwindigkeit v auf eine Signalquelle zubewegt. Ich gebe dem Signal
+allerdings noch eine konstante Frequenz f und eine
+Ausbreitungsgeschwindigkeit c mit auf dem Weg.
+
+Fall A: Signal sei eine Schallquelle (�therprinzip)
+f'=f*(1+v/c) Beobachter kommt darauf zu
+v'=v+c Gemessene Siganlgeschwindigkeit
+
+f'*(1-v/c) Beobachter entfernt sich
+v'=c-v 
+Fall B: Signal sei eine Lichtquelle
+
+f'=f*sqrt((c+v)/c-v)) Blauverschiebung Beobachter kommt daruf zu
+c'=c hat sich nichts geaendert.
+
+Für den Fall das sich der Beobachter entfernt gilt
+f'f*sqrt((c-v)/c+v)) Rotverschiebung
+c'=c hat sich nichts geaendert
+
+Fall C: Lichtquelle kommt auf den Beobachter zu oder entfernt sich.
+Es gelten die gleichen Beziehungen wie unter Fall B
+
+Wie oben erwähnt sind die weltanschaulichen Konsequenzen, wenn man über die
+Bedeutung dieser Sachverhalte nachdenkt, gravierend. Deshalb gibt es auch
+heute noch viele Leute die sich damit nicht abfinden können. Sie versuchen
+die daruf aufbauende spezielle und allgemeine Relativitätstheorie mit den
+abstrusesten Argumenten zu wiederlegen.

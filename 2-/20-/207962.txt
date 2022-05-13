@@ -1,0 +1,75 @@
+: In article <5801Vkq7.238821.935@cmj5485c.m.lmtp.qh>,
+: >: Hallo Priska
+: >
+: >: In article <agq96bxnk1.wxj@cxvsmkilgu.tuwnk-xwiqffhx.nz>,
+: >
+: >: []
+: >
+: >: >Definiere mir z.B. mal "Fakt" und nenne mir ein Beispiel
+: >: >fuer ein Fakt, das hieb- und stichfest bewiesen ist.
+: >
+: >: Def.: Nachweisbare Tatsache oder *Ereignis*.
+: >
+: >: Beispiel: Jeder, der geboren wird, muss sterben.
+: >
+: >Und dafuer moechte ich jetzt einen hieb- und stichfesten
+: >Beweis.
+: >
+
+Jonas Jungbäcker führt einen "Beweis" und ich versuche ihn formal
+nachzuvollziehen: 
+
+: Wenn etwas / jemand geboren wird, dann ist eine Eigenschaft dieses
+: "Jemand" die Veraenderung (ohne Veraenderung ist keine Geburt moeglich).
+
+: Veraenderung bedeutet, dass der aktuelle Zustand sich in einen
+: ANDEREN Zustand wandelt - Geburt als ein Extrem kennt nur einen
+: einzigen anderen (Extrem-) Zustand: naemlich den Tod.
+
+Voraussetzung 1: 
+V(x,t) := (\exists t')[ t < t' & Zustand(x,t) \neq Zustand(x,t') ]
+Inhaltlich: Etwas ist veränderlich, wenn es zu einem späteren Zeitpunkt einen
+anderen Zustand hat.
+
+Voraussetzung 2:
+(\forall x,t)[ Geboren(x,t) => V(x,t) ]
+Inhaltlich: Wenn etwas geboren wurde, dann ist es auch veränderlich.
+
+Voraussetzung 3:
+(\forall x, t)[ Geboren(x,t) => (\exists t')[ t \le t' & Tod(x,t') ] ]
+Inhaltlich: Wenn etwas geboren wird, dann stirbt es auch. Oder mit Jonas
+Worten (von Andre als "Wortgeklingel" bezeichnet): Geburt kennt als Extrem
+nur das andere Extrem des Todes.
+
+: Jeder, der geboren wird, traegt damit automatisch die Notwendigkeit
+: fuer seinen Tod mit sich herum.
+
+Folgerungsinterpretation (Version 1): 
+(\forall x, t)[ Geboren(x,t) => (\exists t')[ t \le t' & Tod(x,t') ]
+
+Dies ist aber nicht anderes als die Voraussetzung 3, während alle anderen
+Voraussetzungen gar nicht benutzt werden und somit überflüssig sind. Also
+haben wir hier keinen Beweis sondern eine Festsetzung, die unbegründet
+bleibt, aber mit vielen Worten verschleiert wird. Fazit: Viel Rauch um
+nichts!
+
+Folgerunginterpretation (Version 2): ("\box" sei der Notwendigkeitsoperator)
+(\forall x, t) \box [ Geboren(x,t) => (\exists t')[ t \le t' & Tod(x,t') ]
+
+Dies ist nun natürlich nicht mehr die Voraussetzung 3, weil ja nun mit
+"Notwendigkeit" der Tod auf die Geburt folgt. Andererseits ist aber auch nun
+keinerlei Folgerungsbeziehung zwischen (angeblicher) Konklusion und den
+Voraussetzungen mehr erkennbar.
+
+
+: Gruss,
+: Jonas Jungbäcker
+
+MfG
+	Folkert
+--
+Folkert Vehr                            xpltxmmy@pxeotfowgv.czg-bejeltd.pf
+Carinthiagasse{\"romachstraße}Fontaneplatz{\xs}troschkestraße 16 
+63118 Langenweddingen
+Tel: (++40)(++73)01459-016
+WWW: http://kip.mesdaizfqi.ibo-tyqiami.xa/Nnpghrsjabeopxh/SKU/cbbujerkh/stnxpptiy/vyky.ssug

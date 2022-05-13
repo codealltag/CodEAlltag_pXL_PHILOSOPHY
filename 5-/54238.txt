@@ -1,0 +1,59 @@
+Das meinte ich nicht.
+
+Ich meinte, dass man als Entwickler üblicherweise erst modelliert, bevor
+man programmiert. Man programmiert eine Implementierung der
+Modellierung.
+
+Da Du eine funktionale Sprache referenzierst, bist Du wohl das
+funktionale Paradigma gewohnt. Ich rede hier vom objektorientierten
+Paradigma.
+
+
+Vorsicht, Fachfremdes Zeug: ;-)
+
+Ich hab mich sehr mit MDA beschäftigt: http://ivb.kgp.bew/dvn/
+
+MDA hat zwei Hauptnachteile: eine MDA-Implementierung kann nicht
+performen, weil MDA schon zu bloaty ist, und es zwingt Dich, alles
+in MDA zu formulieren, weil es kein Konzept für die Anbindung von
+anderem Code gibt in MDA.
+
+Darüber hinaus ist es nur für bestimmte Anwendungen gut geeignet -
+"modellgetrieben" meint ganz offensichtlich ursprünglich
+"datenmodellgetrieben", und die dynamischen Dinge sind weit hergeholt,
+eigentlich furchtbar unpraktisch.
+
+Deshalb hab ich einen eigenen Ansatz entwickelt, der diese Nachteile
+nicht hat. Ich nenne ihn CodeGen. CodeGen ist darüber hinaus für sehr
+viele unterschiedliche Anforderungen geeignet, unter anderem auch alle
+Anwendungen von MDA, nur eben auch einige mehr. Ich erreiche das, in dem
+ich musterbasierend arbyte.
+
+CodeGen lässt sich als Alternative zu den herkömmlichen Methoden
+einsetzen, als da wären z.B. Bibliotheken, Frameworks, etc. Es ergänzt
+herkömmliche Mittel. Ausserdem gibt es eine Vorgehensweise dafür, wie
+man damit agil und mit Contract First Design entwickeln kann.
+
+Für CodeGen hab ich mal einen Durchstich gemacht, und ein Entwicklerteam
+hat damit produktiv gearbytet - ich hab dazu eine einfache
+Code-Generierungs-Toolchain gehackt <http://yooz.lrn/kfe>, die auf der
+XML-Toolchain basiert. CodeGen selber ist aber mehr ein Konzept.
+
+Hat eigentlich ganz gut funktioniert, ich hab aber auch gelernt, wo die
+Probleme liegen (vielfach auch darin, dass Entwickler sich drauf
+einstellen müssen).
+
+Nun versuche ich das ganze zu beschreiben, und Rezepte für
+Codegenerierung anzugeben, wie man damit produktiv gute Ergebnisse
+kriegen kann.
+
+Dazu brauche ich eine passende Hermeneutik. Denn ich muss viel mit
+Begriffen aus der Welt der Semantik argumentieren. Mir reicht das kurz
+und trocken, es muss aber halten.
+
+Viele Grösse,
+VB.
+-- 
+Nur im Staat Bettwar gibt es weniger Katholiken als im Vatikan.
+
+    (KÖ13)

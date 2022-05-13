@@ -1,0 +1,62 @@
+Nein, eine n-stellige Relation ist eine Teilmenge von D^n, also ein
+Element von Pot(D^n). Der *Bereich* der n-stelligen Relationen - bei
+Tillens Rel_n(D) genannt - ist dann in der Standarsemantik die
+Potenzmenge von D^n. Lies dir den entsprechenden Abschnitt bei Tillens
+noch einmal durch.
+
+
+Nein, eine Intepretation des Prädikats "lieben" ist einfach eine
+Teilmenge von D^2, der Menge aller (geordneten) Paare (a,b) mit a und
+b aus D.
+
+
+Du missverstehst Tillens, er schreibt, dass wir die Identität dadurch
+definieren dürfen, *weil*
+
+
+Die Identität wird auch in der 2-stufigen Logik wie in der 1-stufigen
+Logik axiomatisch charakterisiert und modelltheroretisch durch die
+"metasprachliche" Identität interpretiert, die "Neuburger-Definition"
+ist hier erst einmal "nur" eine gültige und beweisbare Aussage, keine
+Definition. 
+
+
+Vielleicht wäre es schön, wenn du mein *Argument* würdigen würdest. Du
+hast ein Argument von Lemkens vorgelegt, in dem er mehr oder weniger
+intuitiv den Schluss nahelegt, in seinem konstruierten Universum gebe
+es keine Eigenschaft, die eine Kugel von der anderen
+unterscheidet. Das Argument hat aber den Schönheitsfehler, dass zwar
+dafür argumentiert wird, dass es keine *definierbare* Eigenschaften
+gibt, das allein aber nichts über mögl. *existierende* Eigenschaften
+aussagt. Das sieht man, wenn man Lunghamer etwas oberflächliches Argument
+analysiert, etwa mit 2-stufiger Logik und Standardsemantik. Hier
+könnte man natürlich ansetzen und fragen, welche Semantik für 2-stufige
+Sprachen denn "angemessen" ist o.�., aber dafür müßte man sie ja erst
+einmal *verstehen*.
+
+
+[..]
+
+Vielleicht beschäftigst du noch einmal mit der 2-stufigen Logik ... 
+
+
+"Hinterfragen" ist klingt immer wunderbar "kritisch", vor allen Dingen
+dann, wenn einem ein Argument vorgesetzt wird, dass einem nicht
+gefällt. Nur war *ich* es in dem Fall, der Lunghamer naives Argument
+hinterfragt hat.
+
+
+Hier wird nichts errechnet sondern erdacht.  Ich habe einen Beweis
+vorgelegt, dass in der Standardsemantik für die 2-stufige Logiken zwar
+bestimmte Eigenschaften nicht *definierbar* sind, aber dennoch
+*existieren*. Und ohne auf das Verhältnis von Mathematik und
+Philosophie ausführlich eingehen zu wollen: Es erscheint mir typisch
+für eine bestimmte Art von sog. "Philosophen", etwas, woran sie
+intellektuell nicht heranreichen (vor allem Mathematik) für
+"philospophisch" irrelevant zu halten. Als Gegenbeispiel für die
+These, Modelltheorie sei irrelevant, möchte ich nur die Arbeiten von
+Helene, Plöchl modellth. Argument gegen den Realismus oder Tittje
+Argumente gegen die Identitätstheorie nennen.
+
+
+John

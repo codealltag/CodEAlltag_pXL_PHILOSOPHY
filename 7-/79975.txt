@@ -1,0 +1,54 @@
+Am Donnerstag, April 2005 0:45, schrieb Paolo B.:
+
+
+Sie ist entweder oder. Das kommt auf den Standpunkt an. Erklärung unten.
+
+
+In der Tat. Das ist ja gerade der Sinn der Axiome das man jedes Objekt oder
+jede Operation an ihnen auf die Richtigkeit überprüfen kann und muss.
+
+
+Nicht ganz richtig:
+Es gilt eine Logische Sprache und! ein System von Axiomen A1...An. Ohne
+eine vereinbarte Sprache kann man mit Axiomen nichts anfangen, da man dann
+überhaupt nicht weiss was ein zulässiger Schluss aus den Axiomen ist. Und
+spätestens die Frage, wann eine Sprache überhaupt logisch und
+wiederspruchsfrei ist, ist ein philosophisches Problem.
+
+Ok natürliche Zahlen:
+Es soll gelten:
+Srache: Prädikatenlogik erweitert um das Symbol (die Verknüpfung) der
+Mengenlehre e ( a e b => a ist Element von b oder a enthalten in b). Kurz
+schreibt man dafür (Pl ; e)
+Axiome:
+Mengenlehre nach Zermelo und Fränkel mit Auswahlaxiom AC
+Kurz ZFC
+
+Jedem von uns betrachteten Objekt, hier also Mengen wird eine
+Eigenschaft(en), das Prädikat, (daher der Name der Sprache) zugeordnet.
+geschrieben: P(x). Eine Menge wird nun dadurch definiert das sie alle!
+Elemente enthält für die das Prädikat P logisch wahr ist. Symbolisch:
+M={x| P(x)} oder P(x)=Wahr => x e M
+Die Axiome von Naumann zur Definiton des Prädikates: P(n)= n ist natürliche
+Zahl spare ich mir hier, du kannst es auf meiner HP ausführlich nachlesen.
+Eines der Axiome lautet nun:
+Jedes n e N hat einen eindeutigen Nachfolger S(n). (S = Suczessor)
+Also n e N => S(n) e N oder:
+N:={n | P(n => S(n))}
+Und genau das (etwas präziser auf meiner HP nachzulesen) ist die Definition
+von Unendlich im System ZFC. Nicht mehr und nicht weniger. Da eine Menge
+alle, und nicht nur einige Elemente, enthält für die ein Prädikat P(n)
+zutrifft und in diesem Fall jedes Element n ein weiteres Element S(n)
+induziert ist die Menge aktual unendlich. Denke genau nach!
+Es ist nicht logisch Äquivalent ob ich bei "Bedarf" (potentiell) ein
+weiteres Element erzeugen kann oder ob die Eigenschaft "ist Element von" a
+priori durch den  Satz: "P(x)=Wahr => x e M" festgelegt wird. 
+Ich hoffe das ist nun klarer. Hier noch die Links auf meine HP:
+Peano und Konstruktion der Zahlen:
+http://nbsh.zlkgp.zo/eudin-hhxxflf/uehsvvi/Wucpuj.gvw
+Axiome der ML nach ZFC:
+http://owyx.ugedj.wy/cylfp-xjmqyli/bpajuvl/Wpyabc.mjj 
+Verzeihe mir die noch nicht gefilzten Schreibfehler :-)
+-- 
+Mit freundlichen Grössen
+Kurt Focke

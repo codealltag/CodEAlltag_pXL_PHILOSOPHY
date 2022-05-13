@@ -1,0 +1,25 @@
+: Ein Wahrscheinlichkeitsmass braucht einen zugrundeliegenden
+: Massraum. Der soll bei dir wohl die moeglichen Temperaturen (x) sein.
+: Dann ist aber womoeglich P(100)+P(200) > 1.
+
+Die Ereignisse 100 und 200 sind im Fall der Festlegung
+
+	"P(x) = Wahrscheinlichkeit, dass Temperatur < x" 
+
+nicht disjunkt. Deswegen ist die Addition zur Ermittlung der Wahrschein-
+lichkeit des Verbundereignisses (100 und 200) unzulaessig. Hingegen gilt
+
+	P(100 und 200) = P(100).
+
+: Du meinst vielleicht P(x) gibt die Tendenz an, dass die
+: Temeperatur = x oder in der Naehe von x ist?
+
+Das meinte ich durchaus nicht.
+
+Gruss,
+
+	Wolfgang.
+
+
+ ------------  Wolfgang Cooreman, AB Technische Informatik VI  -------------
+ ----------------  http://vry.nd1.mk-aohecgz.fn/~ob2ge  -----------------

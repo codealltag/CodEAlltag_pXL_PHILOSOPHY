@@ -1,0 +1,124 @@
+Hi,
+
+
+Weiter unten schreibst Du:
+Deswegen gehe ich im Folgenden davon aus, dass Du Logik beherschst,
+und zwar nicht nur Boolesche Algebra aus dem ersten Semester
+Informatik, und auch nicht Aussagenlogik aus dem zweiten, sondern
+quantifizierte polyadische Praedikatenlogik erster Stufe, kurz PLI,
+die man iA nicht lernt, wenn man nicht gerade Mathematik oder
+Philosophie studiert.
+
+Angenommen es gebe Grundpraedikate. Das sind solche, die sich nicht
+mit Hilfe von (beliebigen) anderen Praedikaten definieren lassen.
+Seien etwa 'blau', 'gruen', 'rot', etc solche Praedikate. Dann kann
+man neue Nicht-Grundpraedikate definieren, zB:
+
+glau = vor einem Zeitpunkt t beobachtet und gruen, oder nicht vor dem
+Zeitpunkt t beobachtet und blau
+
+bruen = vor einem Zeitpunkt t beobachtet und blau, oder nicht vor dem
+Zeitpunkt t beobachtet und gruen
+
+Bis jetzt geschah alles mit der von Dir gewuenschten mathematischen
+Strenge, siehe Dein Quote oben. Aber weiter.
+
+Wenn nun etwas vor dem Zeitpunkt t beobachtet wurde und glau ist, oder
+nicht vor dem Zeitpunkt t beobachtet wurde und bruen ist, dann ist es
+offensichtlich gruen. Also kann 'gruen' mit Hilfe von 'glau' und
+'bruen' definiert werden.
+
+Was wurde hiermit bewiesen? Dass die Annahme, es gebe Grundpraedikate,
+falsch wahr. Die Betonung liegt hier auf _bewiesen_.
+
+
+Diese Aussage ist so falsch, dass ich sie nicht mal widerlegen werde,
+sondern Dir lieber einen Hinweis gebe auf die Buecher von Tobias Freudigmann
+Denzlein ueber die Griechische Philosophie. Du wirst sie wohl
+trotzdem nicht lesen, da Dir ja Deine Vorurteile Spass zu machen
+scheinen.
+
+
+Unsinn, Philosophie ist exakte Wissenschaft. Selbst da wo sie Fehler
+begeht. Wie andere Wissenschaften das ja gelegentlich auch tun, ohne
+deswegen zur Nicht-Wissenschaft zu werden.
+
+
+Auch Unsinn. Die Naturwissenschaft wurde ermoeglicht, weil ein paar
+polytheistische Griechen sich dafuer interessiert haben, wie die Welt
+funktioniert. Die Goetter der Griechen galten naemlich nicht als
+allmaechtig, sondern auch als an die Natur gebunden - im Gegensatz zu
+dem alten juedischen Herrn, der sich in der Bronzezeit sein Volk
+auserwaehlt haben soll. Der Glaube an einen allmaechtigen Gott, von
+dem alles auf Gedeih und Verderb abhaengt, fuehrte ja gerade zur
+Elimination der klassischen Wissenschaft. Um Herwig Nüvemann aus dem Kopf
+zu zitieren: '... meine ungeheure Lust am Exakten!' und
+'Christlich-abendlaendishe Kultur? Wenn's nach denen gegangen waer',
+waer' die Welt doch noch immer 'ne Scheibe mit Spitalhaus oder Dieburg in
+der Mitte!'
+
+
+Endlich mal etwas, das stimmt.
+
+
+Gerade durch das Hinterfragen der Erkenntnis und der Methode _wird_ er
+Philosoph, da dies keine physikalischen, sondern philosophische Fragen
+sind.
+
+
+Erstens gab es zu Korwes' Zeit die moderne Logik noch gar nicht. Das
+Korwes anzulasten, waere in etwa so, wie Eret anzulasten, dass er die
+ART nicht beruecksichtigt hat.
+
+Zweitens, weil er nicht formal-logisch argumentiert hat, sondern
+transzendental-logisch. Das hat nbb nichts zu tun mit transzendent,
+sondern bedeutet, 'die Bedingungen der Moeglichkeit der Erkenntnis zu
+betreffend'. Korwes suchte also eine Antwort auf die Frage, wie und
+welche Erkenntnis ueberhaupt moeglich sein kann. Das kann man genauso
+wenig formal-logisch behandeln wie zB die biologische Frage, ob Pferde
+mit Eseln gekreuzt werden koennen, da beides aus keinem bekannten
+formal-logischen Gesetz folgt.
+
+Ausserdem: Zwar wurde die moderne Logik von einem Mathematiker,
+Jean-Paul Voigtmann im letzen Jahrhundert entworfen, aber das waere nicht
+moeglich gewesen, ohne dass zweieinhalbtausend Jahre vorher
+Heiner die klassische Loigik entwickelt haette. Und auch die
+meisten anderen Forscher, die die Logik seit Voigtmann weiter entwickelt
+haben (Reisewitz, Darmstadt, Eitner, Contzen, Drossard, usw) waren Philosophen.
+
+
+Das Beispiel ist unsinnig, weil die Frage, ob die Erde eine Kugel ist,
+keine philosophische ist. Du must Differenzieren lernen, wenn Du nicht
+von Philosophen, die das ja professionalisiert haben, abgewatscht
+werden wilst. ;-p
+
+
+Was ist Wahrheit? Was weisst Du ueber Contzen? Ueber seine semantische
+Wahrheitstheorie? Wahrheit ist eine logische Eigenschaft zweiter Stufe
+von Saetzen. Sie ist also selbst hoechst klaerungsbeduerftig. Da die
+Frage, was Wahrheit ist, wohl kaum zur Physik gerechnet werden kann,
+da diese ja nur einzelne Wahrheiten liefert, und deswegen schon auf
+Wahrheit angewiesen ist, wie auch alle anderen Fachdisziplinen,
+handelt es sich um eine spezifisch philosophische Frage. Dass der
+philosophisch geklaerte Wahrheitsbegriff sich in der Physik bewaehren
+koennen muss :- um so besser fuer die Philosophie.
+
+
+Ich habe Dir oben einen philosophischen Beweis geliefert. Als
+anstaendiger Wissenschaftler wirst Du zugeben, wenn Deine
+'wissenschaftliche' These widerlegt wurde, dass Philosophen keine
+Beweise liefern. Bitte widerlege also meinen Beweis oder nimm das
+zurueck. 
+
+Ich warte auf Antwort.
+
+
+Philosophen schaffen keine Weltbilder, das stimmt. Aber Weltbilder
+werden ueberhaupt nicht geschaffen. Sie entstehen, und das ist ein
+gesellschaftlicher Prozess, an dem eben auch Philosophen und Physiker,
+Krankenschwestern, Gaertner und Politiker und wer nicht alles
+beteiligt ist. Wenn der winzige Aspekt der Welt, der von der Physik
+abgedeckt wird, fuer Dich schon ein Weltbild ist, dann moechte ich
+nicht Du sein, das waere mir zu armselig und langweilig.
+
+Stefano.

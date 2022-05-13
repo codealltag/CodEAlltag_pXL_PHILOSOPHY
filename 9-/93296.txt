@@ -1,0 +1,12 @@
+Sicherlich ist der Vergleich zweier Adressen &a==&b
+auch nur ein Vergleich zweier Zahlen. Auf dem Prozessor
+wird dafür möglicherweise dieselbe Schaltung verwendet.
+
+Nur wird eben bei a==b und &a==&b etwas anderes
+verglichen.
+
+Und umgangssprachlich kann man die beiden unterschiedlichen
+Vergleiche so formulieren:  Einmal ob die beiden Objekte
+gleich sind, das andere mal ob die beiden Objekte identisch sind.
+
+Eduard

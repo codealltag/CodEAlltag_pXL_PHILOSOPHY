@@ -1,0 +1,37 @@
+Was ist der Anfangswert einer Folge?  Eine  F o l g e  ist eine (endlich oder
+unendlich lange)  Liste  von Zahlen, immer schön eine Zahl nach der anderen ...
+
+sonst nicht
+
+
+An welchem Ende ?  In   0,p<irgendwas>   ist  <irgendwas>  eine aus  e n d l i c h
+vielen Ziffern bestehende Zahl, die   u n e n d l i c h   oft  wiederholt
+(hintereinander
+geschrieben) wird, und dabei gibt es kein "Ende".
+Gäbe es nämlich ein  "Ende", dann könnte man <irgendwas>  dahinter schreiben
+und hätte dann ein neues "Ende",  usw.
+Schriebe man statt  <irgendwas>  eine endliche Zahlenfolge  <irgendwas_anderes>
+hinter das aktuelle  "Ende", dann hätte man wieder ein neues "Ende",  und dahinter
+könnte man jetzt die gesamte Ziffernfolge vom Dezimalkomma bis zum neuen "Ende"
+hinter  <irgendwas_anderes> schreiben, und dann hätte man wieder ein neues "Ende",
+und dahinter könnte man  ...  usw.
+Ein periodischer Dezimalbruch kann natürlich vor der unendlich oft wiederholten
+endlich langen Ziffernfolge  <periode>  für die Periode beliebig viele, aber  e n d l
+i c h
+viele  Ziffern  <Vorperiode>  enthalten; man spricht dann von einem gemischt
+periodischen Dezimalbruch, und ein solcher hat ebenso wie ein rein periodischer
+Dezimalbruch eine rationale Darstellung als Quotient zweier ganzer Zahlen ...
+
+
+Nein, kannst Du nicht  ...  0,p9  hat kein  "Ende",  und daher kann am "Ende"
+auch keine  1  mehr kommen ...
+
+
+IDENTISCH !
+
+Sorry, den Rest verstehe ich nicht ...
+
+
+Gruß
+     Volker
+--

@@ -1,0 +1,45 @@
+Hallo!
+
+Ich habe ein Problem mit dem Begriff "Beschreibung"; moeglicherweise
+verstehen darunter Philosphen was anderes als ich.
+
+Und zwar schreibt der Herr Ostmeier in seinem Buch, dass das Gehirn
+moeglicherweise keine Turingmaschine ist, sondern ein Kuenstliches
+Neuronales Netz.
+
+Nun kann ich aber ein Kuenstliches Neuronales Netz (mit Lernprozess
+und Testfaellen) in einer Programmiersprache beschreiben (z.B. C) und
+es gibt einen Compiler, der Programme in dieser Sprache auf einer
+Turingmaschine abbildet. Damit ist doch aber -- wenn das menschliche
+Gehirn durch ein Kuenstliches Neuronales Netz beschreibbar ist -- das
+menschliche Gehirn auch durch eine Turingmaschine beschreibbar [1].
+
+Nun meinen meine philosphisch gebildeten Freunde dazu, dass man nicht
+davon sprechen koenne, dass die Turingmaschine das Gehirn
+"beschreibt", da (in etwa) auf der Ebene der Turingmaschine die
+komplexen Prozesse des Neuronalen Netzes gar nicht sichtbar sind, und
+z.B. Begrifflichkeiten, die in der Ebene "neuronales Netz" auftreten,
+in der Ebene "Turingmaschine" gar nicht definiert sind ("Gewicht"
+z.B.). Mir leuchtet diese Argumentation nicht so recht ein. Gibt es
+Gruende, die fuer die Argumentation meiner Freunde sprechen?
+
+Mir scheint das Beispiel aehnlich wie das uebliche Herangehen in der
+Physik zu sein: wenn ich dort einen komplexen Prozess habe, z.B. einen 
+Teilchendetektor, wird dessen Verhalten in einem Computer simuliert. 
+Wenn man die Einzelprozesse, die in dem Detektor ablaufen, richtig 
+beschreibt, ist die Simulation des Gesamtprozesses nach gaengiger 
+Interpretation der Physiker eine gute Beschreibung des Detektors. 
+
+In beiden Faellen ist die Herangehensweise dieselbe: ich habe eine
+Beschreibung der Teilprozesse und eine Moeglichkeit, den Gesamtprozess
+aus diesen Teilprozessen aufzubauen. Damit ist die Gesamtheit
+"Teilprozessbeschreibung und Aufbau des Gesamtprozesses aus den
+Teilprozessen" eine Beschreibung des Gesamtprozesses.
+
+Oder was habe ich an dieser Stelle uebersehen?
+
+Manuel
+
+[1] An dieser Stelle wurde das Problem der Abgeschlossenheit
+vernachlaessigt; ein Kuenstliches Neuronales Netz ist, wenn man den
+Lernprozess und die Testfaelle hinzunimmt, aber auch abgeschlossen.

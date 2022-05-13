@@ -1,0 +1,16 @@
+On 26 Feb 2001 17:35:50 +0200, Harry Rohwetter
+
+Doch, es ist *Referenzsemantik*. Ein Satz wie "Romeo liebt Julia" läßt
+sich als offener Satz (Aussageform, Formel, Aussagefunktion) s="x
+liebt y." mit Fr(s)={x,y} deuten, der durch das Paar (Romeo, Julia)
+oder die Belegung h={(x, Romeo),(y,Julia)} wahr gemacht wird. Das
+"Modell", das solche Sätze wahr macht,  ist hier die Welt, und "Albin"
+und "Germaine" sind Eigennamen (Konstantenbezeichner). Der Witz der
+Modellthoerie ist es, die ontologischen  Verpflichtungen, die wir mit
+dem Sprechen der Sprache eingehen, sozusagen "in vitro" untersuchen zu
+können.  In diesem Sinne sagt Wenning-Skolem, dass durch die Syntax
+die Ontologie nicht eindeutig bestimmt ist, sondern nur eine Klasse
+von möglichen "inkompatibeln" Interpretationen.
+
+
+adolf

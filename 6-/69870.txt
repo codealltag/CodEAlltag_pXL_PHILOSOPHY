@@ -1,0 +1,95 @@
+:: = Heinz Gruiter in news:peelt4$9kx$6@xgamp.kq-dqtd.lcv
+:  = Manuel Adamski in news:3780j8sn$7$55702$0k0j8h92@sweayfaar6.tpafu-rrflqp.kje
+
+:: Ein Objekt kreise mit Geschwindigkeit v in konstantem Abstand so um
+:: ein ruhendes Zentrum, dass ein ganzer Umlauf der Länge L die Zeit T
+:: benötige. Stellen wir die Frage nach der Geschwindigkeit des Objekts
+:: vom Standpunkt des Objekts.
+:
+: Was soll denn "Geschwindigkeit aus der Sicht des Objekts" sein?
+
+Wir haben zwei Systeme:
+
+  1. ein Ruhesystem
+  2. eine gleichmässige kreisförmige Bewegung mit v
+
+Mit "Geschwindigkeit aus der Sicht des Objekts" meine ich die
+Relativgeschwindigeit zum Ruhesystem mit den eigenen Massstäben.
+Die Frage nach dieser Geschwindigkeit kann auf ZWEI ARTEN
+beantwortet werden:
+
+A_1. In der SRT gilt ganz allgemein, dass die Geschwindigkeit
+     des Ruhesystems im System des bewegten Objekts den gleichen
+     Betrag hat wie die Geschwindigkeit des Objekts im Ruhesystem.
+A_2. Wir können aus der Sicht des bewegten Objekts Streckenlänge
+     und Zeitdauer bis zum Erreichen eines Ziels bestimmen und
+     damit die entsprechende Geschwindigkeit ermitteln.
+
+Das Prinzip einer jeden logischen Widerlegung basiert darauf,
+über ZWEI Gedankengänge Schlüsse für EINEN Sachverhalt zu ziehen.
+
+Betrachten wir zum Vergleich den Fall eines geradlinig bewegten
+Objekts, das sich auf ein gegebenes Ziel (des Ruhesystems) mit v
+zubewegt. Hier resultiert kein Widerspruch, denn "aus der Sicht
+des Objekts" sind sowohl Entfernung L' als auch Reisedauer T' bis
+zum Ziel im gleichen Verhältnis verkürzt:
+
+   L' = L / gamma
+   T' = T / gamma
+
+Somit ergibt sich auch gemäss A_2 als Geschwindigkeit:
+
+   v' = L' / T' = v
+
+Kehren wir zur kreisförmigen Bewegung zurück. Für einen
+mitbewegten Beobachter ist dann sowohl Dauer T' als auch
+Länge L' eines Umlaufs gegeben.
+
+Nehmen wir konkret den Fall v = 0.9999995 c (gamma = 1000)
+mit einer Umlaufl�nge L = 1 Lichtjahr (im Ruhesystem). Die
+Umlaufdauer beträgt dann im Ruhesystem:
+
+  T = L / v = 1 LJ / 0.9999995 c = 1.0000005 Jhr
+
+Im bewegten Objekt vergehen während eines Ruhesystem-Jahres nur:
+
+  t' = t / gamma = 1 Jhr / 1000 = 8.766 Std
+
+Umgekehrt entsprechen 1 Jahr Eigenzeit des bewegten Objekts
+1000 Jahre im Ruhesystem:
+
+  t = t' * gamma = 1 Jhr * 1000 = 1000 Jhr
+
+Gemäss SRT ist Zeitverlangsamung hier somit einseitig (und nicht
+wechselseitig wie im Falle von Inertialsystemen, wo für beide
+Systeme die Zeit des jeweils anderen Systems langsamer geht).
+
+Es ist folgerichtig anzunehmen, dass im hier behandelten Falle
+kreisförmiger Bewegung auch Längenverkürzung (IN BEWEGUNGS-
+RICHTUNG) einseitig ist, d.h. es gibt die zwei Möglichkeiten
+
+M_1)  Das bewegte Objekt ist im Ruhesystem verkürzt, und Stecken
+      des Ruhesystems sind für das bewegte Objekt gestreckt:
+      L = L' / gamma     bzw.     L' = L * gamma
+
+M_2)  Das bewegte Objekt ist im Ruhesystem gestreckt, und Strecken
+      des Ruhesystems sind für das bewegte Objekt verkürzt:
+      L = L' * gamma     bzw.     L' = L / gamma
+
+von denen offensichtlich M_1 gültig ist. Da für das verkürzte
+Objekt Streckenintervalle des Ruhesystems in Bewegungsrichtung
+somit um gamma gestreckt sind, ergibt sich gemäss A_2:
+
+  v' = L' / T' =  (L * gamma) / (T / gamma) = v * gamma^2
+
+Da v' sich nicht zu v ergibt, ist die Kyre widerlegt, oder etwa
+nicht? Für unseren konreten Fall bedeutet das, dass das Objekt
+1000 LJ in weniger als 9 Stunden durchfliegt!
+
+Gruss,
+Heinz
+
+
+Oevermann Raumschiff-Paradox ganz konkret:
+http://kwtcmb.qolknx.beh/iwgth/gy.oyk.nfemtr/kwg/od94cupg7l5vvl75
+http://qftlmr.nwnedz.ytg/sqgnk/fm.cwm.ftabtn/twc/z24qhx9h39pv43rl

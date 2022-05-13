@@ -1,0 +1,42 @@
+Lieber 'yusmoehg', auch auf die Gefahr hin, dass ich
+mich unerwuenscht einmische, aber warum soll denn die
+Welt weniger faszinierend sein, wenn man etwas ueber
+sie _weiss_ !?
+
+Ein 'roboter' in der Groessenordnung von Hasen oder Huehnern
+besitzt wohl kaum einen besonderen Zufallszahlengenerator,
+d.h. ein deterministisches Programm, dass eine (fest vorgegebene)
+Reihe von Zahlen liefert, die in ihrer Gesamtheit von statistischen
+Tests als zufaellig angesehen werden 'koennten'. Die Reihe der 
+Zahlen selbst ist UEBERHAUPT NICHT zufaellig, sondern resultiert
+aus dem Algorithmus des Generators. So ein Generatorprogramm
+erzeugt also immer eine Reihe von Zahlen, die irgendwann wieder
+von vorne anfangen. Diese Reihe ist immer gleich! Um unterschied-
+liche 'Zufallszahlen' fuer ein Experiment zu bekommen, muss man
+also an unterschiedlichen Punkten innerhalb dieser Periode anfangen,
+die Zahlenfolge zu berechnen. Zwei gleiche Anfangspunkte liefern
+IMMER die gleiche Zahlenfolge.
+
+Bei den 'schlechten' Zufallsgeneratoren kommt hinzu, dass die
+Periode meist sehr kurz ist und die erzeugte Zahlenfolge
+(hinsichtlich statistischer Tests) nichtmal besonders zufaellig
+'aussieht'.
+
+Daran siehst Du, das die Frage des Generators DIE WESENTLICHE FRAGE
+dieses Experiments ist. Wenn nichts darueber angegeben ist, dann
+handelt es sich um Scharlatanerie, die Zielgruppe besteht aus
+Leuten, die nichst ueber Zufallszahlenerzeugung wissen.
+
+Nix fuer ungut
+
+Viele Gruesse
+
+Werner
+
+PS:
+
+
+Beim ersten mal wusstest Du's sicher noch nicht ...
+
+
+solche Dinge hast Du noch nirgends genannt ;-)

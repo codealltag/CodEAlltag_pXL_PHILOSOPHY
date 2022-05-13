@@ -1,0 +1,17 @@
+Klar, wenn schon Edudev, dann auch die CERT'S faken ;-)
+
+
+Nein, danke ;-) Gefunden, gelesen, verstanden! Allerdings verstehe ich 
+nicht, wie das das Problem löst...
+
+Wenn A mit B irgendwelche Informationen austauscht, wie können A und B 
+sicher sein, dass nicht A mit C und C mit B kommuniziert, ohne 
+irgendeinen Abgleich? Statt mit B würde A alle Algorithmen mit C 
+durchführen und C würde an Stelle von A das gleiche mit B tun. E kann 
+beiden gegenüber seine Echtheit bezeugen ;-)
+
+
+Gruss,
+
+
+symbiont

@@ -1,0 +1,19 @@
+Am 01.05.02 schrieb Benedikt Carass:
+
+KW> Auf welchen Gegenstand bezieht sich "König von Frankreich" in dem
+KW> Satz "der König von Frankreich ist kahlköpfig" auf welchen
+KW> Gegenstand bezieht sich "Königin von England" in dem Satz "die
+KW> Königin von England ist kahlköpfig"?
+
+"König von Frankreich" bezieht sich auf ein in unserem Gehirn
+dargestelltes Abstraktum. Der Ausdruck bezeichnet einen Begriff der
+sich aus den Gemeinsamkeiten aller Instanzen definiert, auf die
+dieser Ausdruck angewendet wird.
+
+"DER König von Frankreich" dagegen (war zwar nicht gefragt, aber es 
+könnte vielleicht gemeint sein) soll sich auf eine Instanz beziehen.
+Leider ist aber weder die genaue Spezifikation dieser Instanz noch eine
+Kontext abhängige Implikation vorhanden. Ein Computer würde fehlende
+Angaben reklamieren. 
+
+Samu

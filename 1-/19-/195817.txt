@@ -1,0 +1,6 @@
+Es ist reine Konvention, ob Du das Anfangselement 0 oder 1 nennst. So
+ist je nach Fakulaet oder Dozent die 0 eine natuerliche Zahl oder
+nicht. Die 0 brauchst Du erst, wenn Du aus N und + ein Monoid bzw. mit
+den negativen Zahlen eine (abelsche) Gruppe konstruieren willst.
+
+Gruss, Rudi.

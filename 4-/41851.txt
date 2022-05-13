@@ -1,0 +1,230 @@
+Über Modellierung hab ich noch gar nichts gesagt BTW ;-)
+
+
+Der Schluss zum Mechanizismus ist ein Trugschluss. Wo bitte hab ich
+gefordert, dass allen Variablen berechenbare Funktionen zugeordnet
+werden können müssen? Das gilt eben nur für vorhersagbare Systeme.
+
+Falls Du das nicht gemeint hast, bitte ich um Aufklärung.
+
+
+Wie gesagt, über Modellierung hab ich noch nichts gesagt.
+
+
+Mir fehlt da eine geeignete Systemdefinition. "Elemente" klingt nach
+einem Automaten.
+
+
+Würde ich möglicherweise. Dann klingts nach einem diskreten Modell.
+
+
+Was ist denn genau "die Vielfalt der Wechselwirkungen"? Die Mächtigkeit
+der Menge der Wechselwirkungen? Deren Grad der Vermaschung, als Graph
+(im Sinne der Graphentheorie) gesehen?
+
+Was sind die "umgebenden Zentren"? Wann ist ein Zentrum "umgebend"?
+Falls wir über Räume reden, welche Metrik ist hier der Abstand, wann
+ist's noch umgebend? Oder ist das etwas, dass da nix zwischen ist? Oder
+reden wir über Bilder aus der Graphentheorie, d.h. dass Kanten
+existieren zwischen zwei Knoten bedeutet, die Knoten bilden eine
+Umgebung?
+
+
+Wie genau? Bitte verzeih, aber wir reden über eine Theorie.
+
+
+So ungefähr.
+
+
+In etwa, ja. Da ich hier exakte Definitionen angebe, ist das durchaus
+ein kontrolliertes Vokabular, übrigens ;-)
+
+
+Wer sagt denn, dass man in Computern dumm implementieren muss?
+
+
+Zyklische Systeme sind nicht ausgeschlossen, da schneidet sich ja auch
+nix. Die Kurven sind halt geschlossen. Ob sie offen oder geschlossen
+sind, darüber sage ich ja nichts.
+
+Über die Zeit habe ich noch nichts gesagt. Üblich wäre es
+beispielsweise, eine Abbildung der Zeit auf die Trajektorie zu
+modellieren. Alternativ kann die Zeit Teil einer Variable oder eine
+Variable sein.
+
+
+Nö. Ich habs doch definiert, System ist für mich eine Menge von
+Trajektorien.
+
+
+Ich rede weder davon, dass ein System abzählbar sein muss, noch davon,
+dass man ein abzählbares System etwa aufzählen können muss, also eine
+Aufzählung vorliegen muss, bevor man etwa Aussagen darüber machen kann.
+
+Das ist nicht der Fall. Man kann auch so Aussagen über Systeme machen,
+ohne sie aufzuzählen.
+
+
+Nein, es ist eine Definition. Bisher sind Systemvariablen ja in der
+Menge der Systemvariablen und nicht in einem System. Hier kläre ich die
+Sprechweise, wann eine Systemvariable in einem System ist, nämlich genau
+dann, wenn sie in mindestens einer Systeminstanz variant ist.
+
+
+Kann man so modellieren, ja. Ggf. sind Ort und Temperatur
+Systemvariablen, und Ort ist eine Variable für einen Vektor.
+
+Ggf. ist ein Ort in der Raumzeit eine Variable.
+
+
+Nein. Wenn eine Modellierung ein solches Ereignis nicht enthält, ist die
+Modellierung für den Fall unbrauchbar.
+
+
+Falls Du in Deiner Modellierung Objekte als Instanzen siehst, die durch
+Werte für Zustandsmengen spezifiziert sind, dann ist der Phasenraum
+geeignet zu wählen.
+
+
+Der Phasenraum wird nicht abgebildet sondern aufgespannt. Du scheinst
+auch hier wieder irgendwie aufzählen zu wollen. Das ist nicht nötig (und
+oft nicht möglich).
+
+
+Dann haben wir keinen echten Zufall vorliegen.
+
+
+Tatsächlich ist Akausalität identisch mit der Existenz von echtem
+Zufall. Ich hab die Definition deshalb gleich mal so gewählt.
+
+Du kannst Dir das so vorstellen:
+
+Wenn es keinen Grund gibt und keinen geben muss, damit ein Ereignis
+eintritt oder nicht, so kann man nichts darüber aussagen, warum ein
+Ereignis eingetreten ist, sobald es eingetreten ist.
+
+Man kann dann auch nicht aussagen: "es ist eingetreten, weil es meistens
+eintritt", auch nicht "es kommt hin und wieder vor, und zwar in 2% der
+Fälle, jetzt wars schon lange nicht mehr, also steht es an".
+
+Man kann vorher nichts darüber aussagen, ob und wann es eintreten wird,
+auch nicht, wann es wahrscheinlich eintreten wird, und ob es
+wahrscheinlich eintreten wird oder nicht.
+
+Die Stochastik gibt nichts her.
+
+Betrachet man solche Ereignisse im Rückblick, so stellt man fest, dass
+sie gleichverteilt eingetreten sind.
+
+Die Statistik sieht weisses Rauschen.
+
+Wäre das nicht so, so könnte man für zukünftige Ereignisse sagen, ob und
+wann sie eintreten.
+
+Man kann aber etwas über akausale Ereignisse aussagen: nämlich, dass man
+nichts über ihren Verlauf aussagen kann. Das drückt das weisse Rauschen
+aus.
+
+
+Wieso? Ich möchte ja gerade Begriffe haben, mit denen ich mich
+austauschen kann. Da kanns gar nicht zuviel des "Ähnlichen" geben ;-)
+
+
+Aber das macht doch nichts. Deshalb sinds trotzdem Systeme, über die man
+Aussagen treffen kann.
+
+
+Ich hatte Trajektorien als Kurven definiert.
+
+
+Ein paar Beispiele:
+
+<http://hp.jbcszhukq.fji/uzig/Uxkzykstyopvynkmzwdovj_bjrqlncqz_Czoncin>
+<http://wm.evvxqnwdj.wcx/ngev/Nbmtctzdkkouj>
+<http://cb.bcronuycq.ckw/gyuy/Mgxdygiivqhgoq>
+
+Die Zustände und Alphabete sind die Systemvariablen. Trajektorien sind
+konkrete "Läufe" von Automaten, alle möglichen "Läufe" zusammen
+repräsentieren den Automaten: er ist ein System.
+
+
+Ach Du liebes Bisschen. Dann wird der Begriff ja aussagelos, weil
+beliebig. Willst Du Dir das nicht lieber nochmals überlegen?
+
+
+Ja, klar.
+
+
+Aber klar doch. Warum solls dabei nicht helfen? Man kann doch jetzt
+mittels Graphentheorie, mittels Automatentheorie, mittels
+objektorientiertem Modellieren wunderprima modellieren, und alle
+notwendigen Aspekte abdecken.
+
+Alle genannten beschreiben ja Systeme. Die Systemtheorie gibt da die
+Info, inwiefern das zusammenpasst. Insofern ist sie formale
+Modelltheorie.
+
+
+Wer hat denn behauptet, dass ein Dorf berechenbar ist?
+
+Nur weil ein paar absolute Spacken in der Volkswirtschaft hier ihre
+Dummheit öffentlich demonstrieren, und alle Systeme für berechenbar
+halten, solange man nur einen "Experten" dranlässt, müssen wir diesen
+Unsinn doch nicht wiederholen, oder?
+
+Und wieso soll man nicht über ein nicht-berechenbares Modell Aussagen
+treffen können, die man aus der Modellierung ableitet?
+
+Man kann ja sogar ableiten, wenn etwas nicht ableitbar ist, solange
+dieser Schluss ableitbar ist.
+
+
+Ich halte es für ausgeschlossen, Kreativität in dem Sinne zu
+"verstehen", als dass man ihren Ablauf berechnen könnte.
+Ich denke, dass ich das inzwischen zeigen kann, dass das nicht geht.
+
+Ich beschreibe Kreativität gerade deshalb als Nicht-Berechenbarkeit.
+
+Der Versuch, eine berechenbare Funktion zur Erzeugung von Neuem zu
+haben, scheitert doch schon definitorisch.
+
+Stell Situationen her, in denen Du emergenten Systemen den notwendigen
+Freiraum gibst, sowie sie soweit anregst, dass sie arbeiten. Dann
+passiert Kreativität.
+
+Deshalb sage ich doch, dass man Freiraum und Emotion für Kreativität
+benötigt.
+
+
+Wie man modelliert, ist doch eine ganz andere Frage.
+
+
+Ich hatte von Variablen gesprochen, und damit nicht nur welche für
+Zahlen gemeint. Meine Definition für "Zahl" hatte ich hier bereits
+einmal gepostet.
+
+
+Was auch immer ein "Realsystem" ist. Ich rede hier über Modelle, mit
+denen man Vorhersagen macht, so dass zukünftige Empirie besser
+vorherzusagen wird.
+
+Falls Du sagen möchtest, dass Systemtheorie wie vorgestellt nicht als
+Hilfe zur Modellierung taugt, liegst Du richtig. Sie ist insofern
+Modelltheorie, dass sie Grundlegendes beschreibt, nicht dass sie hilft,
+zu verstehen, mit welchen Mitteln in welchem Falle zu Modellieren ist.
+
+
+Das verstehe ich nun ganz und gar nicht. Was an meinen Definitionen soll
+schlecht sein?
+
+
+Ja, klar. Dazu kommt eben die konkrete Modellierung. Systemtheorie ist
+ja nur ein Schritt in die richtige Richtung, sie ist nur Grundlage.
+
+
+Hm... glaub ich nicht ;-)
+
+Viele Grüsse,
+VB.
+-- 
+Bitte beachten Sie auch die Rückseite dieses Schreibens!

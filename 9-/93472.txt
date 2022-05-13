@@ -1,0 +1,12 @@
+Bruno Ungelehrt schrieb
+
+
+Anzunehmen, daß zwei Speicherzellen die gleiche Adresse haben könnten:
+
+         &a = &b (Identität als Gleichheit der Speicherzellen)
+
+ist absurd, kein System könnte so funktionieren.
+
+Es ist Schwachsinn.
+
+--

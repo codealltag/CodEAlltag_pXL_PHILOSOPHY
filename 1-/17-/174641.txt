@@ -1,0 +1,25 @@
+[mathematische Überlegungen weg]
+
+
+[noch mehr mathematische Überlegungen weg]
+
+Es wird sehr viel Schweiß der Edlen auf diese Frage verwendet: nur
+leider vergebens.
+Denn unsere Kalender_z�hlung_ ist eine Konvention (was man schon daran
+sieht, daß es andere Kalenderz�hlungen gibt: es ist also nichts
+irgendwie zwingend entstanden). Und in dieser Konvention ist festgelegt,
+daß diese Zählung von -(unendlich) bis -1, dann von +1 bis +(unendlich)
+läuft.
+In dieser Zählung gibt es kein Jahr 0, deshalb geht alles, was von einem
+Jahr 0 ausgeht, in die Irre.
+Natürlich hätte man es anders machen können; meines Wissens zählen die
+Informatiker z.B. im Dezimalsystem im Normalfall von 0 bis 9, was damit
+bei denen die erste Dekade ist.
+Doch unser Kalender ist eingeführt worden, lange bevor es Informatiker
+gab, darum haben wir kein Jahr Null und können es somit auch nicht
+mitzählen.
+
+-- 
+Wolfram Nodorff
+Redaktion FAR (THE), Schmalenfleth
+http://cxb.fltl.wro

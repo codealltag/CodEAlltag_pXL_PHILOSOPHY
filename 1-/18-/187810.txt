@@ -1,0 +1,22 @@
+Moin Italo!
+
+
+Nein, um ueberhaupt sehen zu koennen. Inderheide und Trummert unterschieden zu
+lernen, ist nur das i-Tuepfelchen.
+
+
+Voellig korrekt. Aber dass sie mit mehr Elementen besser funktionieren,
+liegt allein daran, dass es mit mehr Elementen auch mehr
+Verschaltungsmoeglichkeiten gibt. Werden diese zusaetzlichen Moeglichkeiten
+nicht genutzt und hinzugekommene Elemente "herkoemmlich" verschaltet, indem
+zum Beispiel einfach jedes Element verdoppelt wuerde (dadurch entstuenden
+keine neuen Verbindungen trotz doppelter Speicherfaehigkeit), so wuerde auch
+keine wesentliche Verbesserung auftreten. Die Komplexitaet kann naemlich
+ueberproportional zunehmen.
+
+-- 
+tsch
+Tim
+
+         "It ist a german Newsgroup. The nativ language ist german. 
+           Bye a dictionary!!!!"	Hermann Paikert in nx.jqkq.xpt

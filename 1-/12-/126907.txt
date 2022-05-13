@@ -1,0 +1,105 @@
+On Wed, 20. 08. 21 20:43:44 +0200, "Heinz Schulze-Wischeler"
+
+Lies das Folgende und versuche es zu verstehen. Dann weise einen Fehler
+in der Argumentation nach, oder gib Ruhe! :-)
+
+-------------------------------------------------------------------
+
+
+Man könnte das nun so formalisieren:
+
+	Ax(Phys. Obj x -> ExEt ist(x,<o,t>))   (*)
+
+wobei irgendein _fixes_ Bezugssystem vorausgesetzt wird.
+
+Mein mehrfach erwähntes "Prinzip" besagt nun,
+
+	dass sich an einen best. Raum-Zeitpunkt jeweils 
+	(höchstens) nur EIN Objekt befinden kann.
+
+Das könnte man dann z.B. so formalisieren:
+
+	AxAy[EoEt(ist(x,<o,t>) & ist(y,<o,t>)) -> x = y]  (**)
+
+--------------------
+
+Wir betrachten im Folgenden nur physikalische Objekte.
+
+Nehmen wir nun an, wir hätten gegeben A und B, und weiters würde gelten 
+
+	AP(P(A) <-> P(B)).  (***)
+
+Für A gilt [da es ja ein physikalisches Objekt ist] nach (*) 
+
+	EoEt ist(A,<o,t>).
+
+(A "existiert" in der Raum-Zeit.) Wir greifen nun irgendeinen 
+konkreten Ort O und eine konkrete Zeit T heraus, für die das gilt, 
+dann haben wir:
+
+	ist(A,<O,T>)
+
+Mit der Definition
+
+	I(x) :<-> ist(x,<O,T>)
+
+hätten wir dann
+
+	I(A).
+
+Durch Spezialisierung von (***) können wir nun ableiten:
+
+	I(A) <-> I(B).
+
+Und mit I(A) haben wir also auch I(B).
+
+Daher aber auch
+
+	I(A) & I (B).
+
+Bzw. indem wir für den definierten Term den definierenden Ausdruck
+einsetzen:
+
+	ist(A,<O,T>) & ist(B,<O,T>).
+
+Existenzialisierung ergibt:
+
+	EoEt(ist(A,<o,t>) & ist(B,<o,t>)).
+
+Durch Spezialisierung von (**) erhalten wir aber:
+
+	EoEt(ist(A,<o,t>) & ist(B,<o,t>)) -> A = B.
+
+Damit haben wir dann (mittels MP):
+
+	A = B.
+
+:-)
+
+-------------------------------------------------------------------
+
+Wenn Du was nicht verstehst, frag nach. Aber hör' endlich auf Unsinn
+daherzureden. Ok?
+
+???
+	Was is???
+
+Dann bist mit einem Hirsch identisch, denn beide seid ihr Lebewesen!
+
+Deine "Argumentation" erinnert an folgenden  berühmten Sophismus...:
+
+Q: Have you a dog?
+A: Yes. 
+Q: Has it got puppies? 
+A: Yes.
+Q: Then your dog is a father? 
+A: Yes.
+Q: Now, is the dog yours?
+A: Of course.
+Q: Then being a father he is yours, so the dog becomes your father and
+you the puppies' brother.
+
+:-)
+
+
+F.

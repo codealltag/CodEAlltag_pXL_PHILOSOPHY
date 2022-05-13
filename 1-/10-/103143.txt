@@ -1,0 +1,44 @@
+Ganz analog wie in der Mengenlehre:
+
+	Der Begriffsumfang X ist leer, wenn gilt
+
+		    ~Ex(x n X).
+
+// Wobei das "n" (eigentlich ein kleiner Bogen) die Elementrelation in
+Freges Theorie bezeichnet.
+
+Ob der Begriffsumfang (bzw. der Werteverlauf "in einem anderen Sinne"
+noch irgendwas ""enthält"" oder nicht, ist dabei völlig irrelevant.)
+
+---------------------------------
+
+Wenn man nun versucht, Glatzeder Begriffsumfänge im Rahmen der
+gewöhnlichen Mengenlehre zu "interpretieren", muss man natürlich
+aufpassen, dass man die Dinge hier nicht durcheinander bringt. (Es ist
+nicht damit getan, lediglich die Begriffsumfänge durch Mengen von
+Wertepaaren zu ersetzen; man muss auch die Elementrelation "übersetzen".
+Siehe weiter unten.)
+
+
+Spielt keine Rolle. Wenn man eine "Frege'sche Elementrelation"
+definiert:
+
+	x e_F {<x,y> : ...} :<-> <x,W> e {<x,y> : ...},
+
+dann würde in der Tat gelten:
+
+	~Ex(x e_F X),
+
+w e n n X nur Paare enthält, die in der 2. Komponente den Wert F haben.
+(Ebenso gut könnte man natürlich diese Paare "weglassen".)
+
+Im Rahmen einer solchen Theorie könnte man ohne weiteres definieren:
+
+	O = das X, sodass gilt ~Ex(x e_F X).
+
+	"Der leere Begriffsumfang."
+
+usw. usf.
+
+
+A.

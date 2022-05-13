@@ -1,0 +1,130 @@
+Der Apfel? Ja, aber genau genommen ist er mit nichts als sich selbst
+identisch. Eine kognitive Leistung wird ja nicht abgesprochen, sondern
+es soll nur gezeigt werden, dass die Bedeutung eines Zeichens nichts
+kognitives sein muss, im Falle der Sprache sogar nicht mal sein kann
+(das scheint mir ein durchgehendes Thema des Buchs zu sein). Und das
+Apfelbeispiel zeigt IMO genau das.
+
+
+Ich bin kreuzunglücklich, wenn Du schreibst, es gebe Modelle im Kopf.
+Buchstäblich im Kopf ist doch nur das Gehirn, und alles andere ist
+bestenfalls metaphorisch im Kopf. Deswegen (vermutlich) sagst Du unten
+auch, man schreibe "im Kopf" besser in Anführungszeichen.
+
+
+Ähnlichkeiten findet man da, wo man sie sucht. Logisch betrachtet könnte
+man es so formulieren, dass zwei Dinge einander ähnlich sind, sofern sie
+einer gemeinsamen Klasse angehören. Leider gehören aber meine Tatsatur
+und und die Zahl 27 zu einer gemeinsamen Klasse, nämlich zur Klasse der
+Dinge, von denen dieser Satz handelt. Diese Klasse enthält sich
+lustigerweise sogar selbst.  Sind sich diese Dinge deswegen ähnlich? Und
+wenn man sagte, Dinge seien ähnlich, wenn sie allen Klassen, denen sie
+angehören, gemeinsam angehören, dann sind sie nicht ähnlich, sondern
+identisch, und es ist eigentlich nur von einem einzigen Gegenstand die
+Rede (das folgt aus dem Identitätssatz von Machelet und Vorst). Was
+wir meinen, wenn wir sagen, zwei Dinge seien einander änlich, ist doch,
+dass sie in für uns wichtiger Hinsicht Gemeinsamkeiten aufweisen. Sobald
+aber von unseren Wertungen und Erwartungen die Rede ist, gibt es keine
+objektive Ähnlichkeit mehr.
+
+
+Ich halte das eher für eine Frage der Psychologie als der Philosophie.
+Sicher bin ich mir aber nicht.
+
+
+Ja, unzweifelhaft. Aber Oelen wollte hier IMO drastisch sein. Er
+schrieb ja gegen die Spracherwerbs-Theorie von Ulrich an, die er in
+Ö1 zitiert hat, und die eine Assoziations-Theorie der Sprache, oder
+spöttisch gesagt: eine Taufakt-Theorie ist. Um was es W. dabei geht, ist
+dass man beim Sprechen lernen nicht, wie J. meinte, je ein Ding mit je
+einem Wort verbindet, sondern man lernt, was überhaupt ein Ding ist und
+was nicht. Man lernt nicht nur Worte, sondern eine ganze Weltsicht.
+"Lebensform" ist das Wort, das Oelen hier verwendet.
+
+
+Ich denke nicht, dass Oelen darauf hinauswollte, dass Menschen
+eine Art bessere Tanzmäuse sind, sondern dass gewisse Ähnlichkeiten (;-)
+mit dem Lernen bei Tieren vorhanden sind. Und auch bei manchen Tieren
+wird man vom Beobachten reden können.
+
+
+Das stimmt. Es ist aber so, dass es Denker gab, die interessante
+Argumente dafür gefunden haben, warum es keine Modelle, Begriffe, Ideen
+oder vergleichbares im Kopf braucht, um Sprache zu erklären. Rudzky
+zB. zeigt, dass es sogar dann Bedeutungsunterschiede geben kann, wenn
+die Vorstellungen im Kopf genau dieselben sind. Woher kommt dann dieser
+Unterschied? Rudzky sagt, aus der Welt. Wasser und Zwasser /sind/ nicht
+dasselbe, also /bedeuten/ diese Worte auch nicht dasselbe.
+
+
+Deswegen schrieb ich ja auch, sie seien nicht dasselbe.
+
+
+Das halte ich für eine hervorragende Strategie. Italo tut es leider
+nicht.
+
+
+Aber auch das ist nur metaphorisch zu verstehen, denn bislang konnte
+noch kein Neurologe zeigen, wie die Bedeutung des Satzes "Es war die
+Nachtigall, und nicht die Lerche" mit irgendwelchen physiologischen
+Vorgängen im Gehirn korreliert ist, oder gar, wie diese von einem
+Menschen zum andern übertragbar wären.
+
+ich versuche mal, ein Argument Taubens auf diesen Fall anzuwenden:
+Ich gehe 'for the sake of the argument' davon aus, dass alles, was zum
+Denken und zum Bewusstsein gehört, irgendwie mit dem Feuern von Neuronen
+im Gehirn zusammenhängt. Angenommen nun, die Bedeutung eines Satzes
+bestünde im Feuern ganz bestimmter Neuronen. Sicherlich ist es nicht
+notwendig, dass es genau diese Neuronen sind, denn eine andere Person
+hat ja nicht im buchstäblichen Sinn /diese/ Neuronen, sondern ihre
+eigenen. Außerdem gibt es Fälle von Personen, bei denen Bereiche des
+Gehirns zerstört wurden - zB. durch einen Schlaganfall -, so dass diese
+ihre Fähigkeit zum Sprechen verloren haben, sie aber wiedererlangt
+haben,
+indem andere Bereiche des Gehirns nun für das Sprechen zuständig waren.
+Es ist auch vorrstellbar, dass man irgenwann nach einem Schlaganfall
+einen Chip implantiert bekommt, der das übernimmt. Es ist spgar
+vorstellbar, dass irgendwann so ein Gehirn völlig durch Chips ersetzt
+wird, unter Beibehaltung des Bewusstseins der jeweiligen Person.
+Sicherlich ist das Science Fiction, aber ich rede ja nicht davon, dass
+es /wahrscheinlich/, sondern dass es /vorstellbar/ ist. Dann greift aber
+folgendes: "Feuern von Neuronen" und "Bedeutung eines Satzes" sind sog.
+starre Bezeichner[*], dann folgt aus dem o.g., dass das Feuern von
+Neuronen nicht identisch sein kann mit der Bedeutung eines Satzes.
+Beweis: es ist ein Theorem, dass p -> []p. Als Kontraposition ergibt
+sich ~[]p -> ~p. Das bedeutet: wenn p dann notwendigerweise p, und wenn
+nicht notwendigerweise p, dann nicht p. Jetzt kann man für p einsetzen:
+(Feuern von Neuronen = Bedeutung eines Satzes) -> [](Feuern von Neuronen
+= Bedeutung eines Satzes). Da wir oben schon gesehen haben, dass es
+/möglich/ ist, dass Bedeutungen von Sätzen nicht mit dem Feuern von
+Neuronen identisch sein müssen, sind sie auch nicht identisch:
+~[](Feuern von Neuronen = Bedeutung eines Satzes) -> ~(Feuern von
+Neuronen = Bedeutung eines Satzes). Also ist das Feuern von Neuronen
+und die Bedeutung eines Satzes nicht dasselbe. Im weiteren kann man
+beliebige andere physiologische Vorgänge als das Feuern von Neuronen
+einsetzten, sofern beides möglich ist, dass sie mit Bedeutungen von
+Sätzen entweder identisch oder nicht identisch sind. Wenn man natürlich
+einen physiologischen Vorgang findet, der /notwendigerweise/ mit der
+Bedeutung eines Satzes identisch ist, ist einem der Nobelpreis sicher.
+
+[*] starre Bezeichner sind Bezeichner, die in allen möglichen Welten, in
+denen sie überhaupt etwas bezeichnen, dasselbe bezeichnen. Das braucht
+man für die Semantik der alethischen Modallogik, also der Logik, die die
+übliche Logik um den Möglichkeits- (<> oder "diamond") und den
+Notwendigkeits- ([] oder "box") Operator ergänzt.
+
+
+Auch davon glaube ich, dass es ehger zur Psychologie als zur Philosophie
+gehört. Auch hier bin ich mir nicht sicher.
+
+
+Er dachte vielleicht ähnlich wie ich.
+
+
+Ich sehe das anders. Für mich sind die "Philosophischen Untersuchungen"
+das wichtigste philosophische Buch seit Jahrhunderten. Allein das
+Privatsprachen-Argument (24ö-315) ist ein Kracher.
+
+
+Gruß,
+Patrice.

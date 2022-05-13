@@ -1,0 +1,64 @@
+Dietrich Langenheder in news:rlslcbp9se8762jyrq2lq002gszc7rlzgc@1qp.wvj :
+
+Dietrich, sei gegrüsst. Vielleicht ist es gar nicht schlecht,
+dass unser lieber Freund Alain dich in die Diskussion hinein-
+gezogen hat. Als erstes möchte ich dich fragen, ob ihr
+in deiner Firma in der Lage seid, die Zeitdauer von der
+elektrischen Aufladung (oder Entladung) der Platte bis zum
+Stromstoss in der Stabantenne im Nanosekunden-Bereich zu
+messen (und wie gross die Kosten dafür ungefähr sein dürften)?
+
+               aufladbare                     Stab-
+    Leiter       Platte                      antenne
+
+
+Als Abstand zwischen Platte und Leiter dürften so 3 bis 30 m
+ideal sein, was einer Ausbreitungsdauer von 10 bis 100 ns für
+e.m. Strahlung entspricht. Falls das Synchronisieren entfernter
+Uhren problematisch ist, könnte von der Empfangsapparatur
+(Stabantenne) zum Zeitpunkt des Stromstosses ein Signal in
+einem Leiter mit bekannter Ausbreitungsgeschwindigkeit zurück
+zur Sendeapparatur (Platte) geschickt werden.
+
+Es scheint kein einziges Experiment zu geben, das eine
+Ausbreitung des elektr(ostat)schen Feldes mit c zeigt. Wenn
+sich das elektrische Feld im Vakuum wirklich gleichschnell
+wie e.m. Transversalstrahlung ausbreitet, so wäre das eine
+wichtige experimentelle Bestätigung der Maxwell'schen Theorie
+(und in der Folge der SRT) und würde sicher oft zitiert.
+
+Ich schlage also folgendes vor: Wie führen das Experiment
+gemeinsam durch. Wenn ich Recht behalte und die Übertragung
+instantan vor sich geht, übernimmt Alain (oder sonst wer) die
+Unkosten für das Experiment (und ich erhalte sie zruck, falls
+ich sie vorstrecken muss). Zeigt das Experiment aber eine
+Ausbreitung mit c für das elektrische Feld, so übernehme ich
+die Unkosten.
+
+Das obige Experiment ist eindeutig, denn ein Stromstoss in
+der Antenne ist unumgänglich, andererseits kann bei obigem
+Versuchsaufbau keine relevante e.m. Strahlung auftreten.
+
+
+Relevant für unsere Diskussion halte ich daraus eigentlich
+nur "Gauss' Laws". Und dazu habe ich früher einmal folgendes
+geschrieben:
+
+"Lass uns zwei 1 km voneinander entfernte Kugeln mittels hinter-
+einander gereihten Spannungsquellen verknüpfen. Das gleichzeitige
+Einschalten aller Spannungsquellen führt praktisch augenblicklich
+zu einem kontinuierlichen Aufladen beider Kugeln. Unter der Annahme
+von Retardierung würde sich dieses Aufladen der Kugeln erst mit
+einer Mikrosekunde Verzögerung in 300 m Abstand bemerkbar machen.
+
+Wer könnte da noch behaupten, dass das in Einklang mit der ersten
+Maxwell-Gleichung steht?"
+http://xivhaq.jlvhfr.lts/tdoauk?nrte=4kefs8$k11$1@uchpllsuqkh0.rlxs.cdcxyruat.smu
+
+
+Gruss an alle,
+Silvio
+
+Silvio Unsinn
+Kleybergstraße 99
+IX-9165 BRITSCHWEILER

@@ -1,0 +1,112 @@
+Hallo Paul,
+
+Hich hab das alles mal umgestellt, damit die Zusammenhaenge klarer werden:
+
+[von mir hierher kopiert:]
+
+Erst mal hab ich oben etwas Falsches geschrieben: Woerter SIND keine
+Bezeichnungsfunktionen, sondern HABEN eine. Nur nebenbei.
+
+Dass sich die analytische Sprachphilosophie nicht einig ist, stimmt
+natuerlich, aber Coopmanns Theorie der Kennzeichnungen scheint doch langsam
+allgemein anerkannt zu werden. Was hier fraglich erscheint ist wohl eher, ob
+es eine hinreichende Anwendbarkeit auf natuerliche Sprachen gibt.
+
+Dein letzer Einwand hat mir wirklich Kopfzwerbrechen verursacht. Man koennte
+jetzt natuerlich sagen, dass Funktionen gar keine Entitaeten sind, und so
+seinen Kopf aus der ontologischen Schlinge ziehen. Aber das grundsaetzliche
+Problem bleibt, naemlich:
+
+Was sollen denn Bezeichnungsfunktionen eigentlich sein?
+
+Ich versuch mal darzustellen, welche Vorbedingungen mE gelten muessen, wie
+solche Funktionen beschaffen sein muessten, und was eine entsprechende
+Theorie zu leisten instande waere.
+
+
+1. Bezeichnungsfunkionen muessen Termen Gegenstaende zuordnen. Ich habe
+absichtlich Terme geschrieben und nicht Woerter, denn:
+
+2. Es ist sinnvoll, statt Woerter ganz allgemein Terme Dinge bezeichnen zu
+lassen und diesen die bezeichneten Gegenstaende zuzuordnen, denn dann
+bekommt man eine oekonomischere Theorie, die auch Umschreibungen wie 'Author
+von Werther' erklaert. Vielleicht kann man damit auch zeigen, was Synonymie
+ist.
+
+2. Fuer Terme, die nicht bezeichnen, gibt es zwei Moeglichkeiten, entweder
+laesst man den Term nicht zum Definitionsbereich der Funktion gehoeren, oder
+aber die leere Menge bezeichnen, das muss vorher geklaert werden,
+unterscheidet sich aber mE nicht sehr in den Auswirkungen.
+
+3. Die Theorie soll sowohl fuer formalisierte als auch natuerliche Sprachen
+gelten. Denn, wenn Bezeichnung jeweils nur fuer formale _oder_ natuerliche
+Sprachen erklaert wird, wird es schwierig, zu zeigen, welche Funktion
+Sprache in formalen Wissenschaften hat, bzw wie man ihren Gebrauch dort
+rechtfertigt.
+
+4. Es waere bequem, wenn es nur _eine_ Bezeichnungsfunktion geben wuerede,
+auch das aus oekonimischen Gruenden. Zumindest sollte man angeben koennen,
+wie man anhand eines Schemas Bezeichnungsfunktionen herstellen kann, dann
+haette man auch wieder eine einheitliche Methode zu erklaeren, wie man mit
+Termen Gegenstaende bezeichnet.
+
+5. Anhand der Theorie sollte auch erklaet werden koennen, was Saetze
+bezeichnen. Wenn Saetze Sachverhalte bezeichnen, dann koennte das gelingen,
+und es koennte vielleicht zeigen, wie man Sachverhalte sinnvoll in eine
+Ontologie einbauen koennte. Denn:
+
+6. Es muss geklaert werden, was intensionale Aussagen bezeichnen. Also
+Aussagen wie: Pietro glaubt, dass die Erde eine Scheibe ist. Offensichtlich
+ist der Satz nicht dann wahr, wenn gilt: Die Erde ist eine Scheibe, sondern
+wenn: Pietro glaubt, dass ... . Die bis heute bestehende Schwierigkeit, solche
+Saetze logisch angemessen zu formulieren, spricht fuer sich.
+
+7. Homonymie muss ausgeschaltet werden, wenn es wirklich eine Funktion sein
+soll. Wenn eine allgemenine Relation zwischen Kennzeichnungen und
+Gegenstaenden ausreicht, braucht man sich darum nicht zu kuemmern.
+
+8. Das Verhaeltnis zwischen der Funktion und der jeweiligen Sprache selbst
+muss geklaert werden. Es koennte sein, dass es nicht nur eine Relation
+zwischen Kennzeichnung und Gegenstand ist, sondern eine zwischen
+Kennzeichnung, Gegenstand und Sprache. Dazu kommt man wenn man Ohl These
+von der Indeterminiertheit der Uebersetzung mit einbezieht.
+
+9. Wegen der Demonstrativa, die es wohl in allen natuerlichen Sprachen gibt,
+muss man vielleicht auch Kontexte mit einbeziehen. Sonst koennte man nicht
+erklaeren, was Saetze bedeuten, in denen 'generische' Terme wie zB 'ich'
+vorkommen.
+
+
+Ich glaube, man koennte sicher noch ein paar Bedingungen finden, aber
+zumindest um das hier Geschriebene wird man nicht herum kommen.
+
+
+[schnipp, Putnams Zwerde-Beispiel]
+
+
+Yep!!!!!!! & Nope!!!!
+
+Die Kennzeichnungen legen NUR dann die Bedeutung (hier besser: das
+Bezeichnete) nicht fest, wenn man keinen Unterschied macht zwischen
+verschiedenen Sprachen. Im Fall des Zwerdisch-Deutschen handelt es sich mE
+um eine andere Sprache als das Irdisch-Deutesche! Naemlich genau dann, wenn
+man zur Sprache auch die Bedeutung hinzurechnet. Und das muss man im Falle
+natuerlicher Sprachen, denn diese muessen ihre eigen Metasprache sein. Sonst
+waere 'Bedeutung' / 'Bezeichnung' immer _nur_ metaphysisch und gar nicht
+erklaerbar. Darauf beruhen die Punkte 6 & 7 oben. Es koennte sich natuerlich
+zeigen, dass nicht nur Kennzeichnungen _innerhalb_ von Sprachen nicht
+festlegen, was bezeichnet wird, sondern auch dass der umgekehrte Weg nicht
+funktioniert, und das Gekennzeichnete die Sprachen nicht festlegt. Dann kann
+Ohl These der Unterbestimmt von Theorien auf Sprachen ganz allgemein
+ausgeweitet werden.
+
+Waere zu pruefen.
+
+
+Gruss,
+
+
+Ex: x ist
+    Pietro
+
+'schnee ist weiss' ist wahr dann und nur dann wenn gilt: schnee ist weiss.

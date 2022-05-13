@@ -1,0 +1,29 @@
+Hallo Sebastian,
+
+
+Endlich mal jemand der ontologisch sparsam ist!
+
+
+Der Begriff der natuerlichen Zahl ist keine natuerlich Zahl. Ob es Begriffe gibt, weiss ich nicht,
+aber natuerliche Zahlen gibt es: (Ax)(Ey)(x ist prim -> y ist prim & x < y). Wenn dieser Satz wahr
+sein soll, muessen Zahlen real existierende Entitaeten sein, und zwar unendlich viele. Wenn Zahlen
+keine real existierende Entitaeten sind, ist der Satz falsch: Es gibt naemlich keine unreal
+existierenden Entitaeten, genausowenig wie real nichtexistierende Entitaeten oder real existierende
+Nichtentitaeten. Meiner Meinug nach. Aber im Ernst: Es muss keine Zahlen geben, wenn gezeigt werden
+kann, wie man den gleichen Satz ohne sie gebrauchen kann. Nötigenfalls interpretiert man ihn anders.
+Und da es ein mengentheoretisches Modell fuer die Zahlen gibt, braucht braucht nur noch Mengen.
+
+
+Da schleicht sich leider ein Scheinargument ein, gegen das ich gestern schon in einem anderen Thread
+argumentiert habe. Dinge sind nicht ihre eigene Repraesentation. Die mentale Repraesentation des
+Eiffelturms ist nicht der Eiffelturm. Das erkennt man, wenn man sich Saetze ansieht wie: Weisst du
+noch Schatz, wie wir uns letztes Jahr unter unseren mentalen Repraesentationen des Eiffelturms
+gekuesst haben? Das ist der Fehler, der die ganze CS durchzieht.
+
+Gruss,
+
+
+Ex: x ist
+    Bodo
+
+Und der macht sich die Welt, wiedewiedewie sie ihm gefaellt.

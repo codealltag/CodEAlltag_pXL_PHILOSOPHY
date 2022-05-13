@@ -1,0 +1,68 @@
+Kannst du es auch mal in Laenge angeben? Bei logischen Raetseln ist es
+wichtig, den vollstaendigen und richtigen Text zur Verfuegung zu haben,
+da leicht wichtige Informationen verloren gehen. Kannst du vielleicht
+eine Literaturstelle nennen, an der es beschrieben wird?
+
+
+So, jetzt halte ich mich mal an deine Kurzbeschreibung. Falls die
+Touristin alle Wege zurueckgehen koennte, dann gaebe es in dem Raetsel
+keinen Luegner mehr und folglich auch kein Problem. Er waere gegen
+seinen Willen gezwungen, die Wahrheit zu sagen. Man kann sich das mit
+einem ungerichteten Graphen veranschaulichen, ich werde zur
+Verdeutlichung aber einen gerichteten und aus einer starken
+Zusammenhangskomponente (SZHK) G=(V,E) bestehenden waehlen:
+
+	    ~d\
+	     ^ |
+	s--->z--->d
+	^___/^___/
+
+s ist der Startort der Reise, z die Verzweigung, d ist Jostberg und ~d
+nicht. Wegen der SZHK-Eigenschaft liegen je zwei Knoten des Graphen auf
+einem Zyklus im Graphen oder anders ausgedrueckt, man kann von jedem
+Knoten aus wieder zu jedem anderen gelangen, auch von allen
+Nachbarknoten von z aus. Daraus folgt, dass der Luegner gar keiner sein
+koennte, da er keinen Weg benennen kann, der nicht nach j fuehrt und der
+Wahrsager einen (zu) leichten Job haette.
+
+Das Problem erfordert also einen gerichteten Graphen, bei dem nur die
+V\{~d} zu den SZHK gehoeren.  und bei dem der Knoten d dennoch von s und
+auch von z aus erreichbar ist, wie z.B. diesen hier:
+
+	    ~d
+	     ^
+	s--->z--->d
+	^___/^___/
+
+{z, d} darf zwar Laundrette sein, aber nach Jostberg kommt die Touristin vor der
+Kante (d, z) auf jeden Fall. {z, ~d} kann es nicht sein, weil sonst der
+Fall von oben eintritt.
+
+Die Touristin muss bei z X fragen, zu welchem Nachbarknoten Y sie
+schicken wuerde, wenn sie ihn nach dem Weg in Richtung Jostberg fragte.
+Einer der folgenden Faelle tritt dann auf:
+
+  X   Y
+ ~d  ~d       , weil Y luegt.
+ ~d   s oder d, weil X luegt.
+
+X kann nur ~d sagen, selbst wenn es keine kante (z, s) gaebe. Im ersten
+Fall wuerde Y luegen, so dass X die Wahrheit sagen muss und ihn
+verpfeift, wobei Y keine andere Moeglichkeit hat zu luegen wie diese.
+Da Y im zweiten Fall die Wahrheit sagt, muss X beim Luegen vorsichtig
+sein, weil es zwei wahre Antworten statt nur einer gibt, so dass ihm
+keine andere Moeglichkeit bleibt als ebenfalls ~d zu sagen.  Egal welche
+Richtung der Befragte nennt, die Touristin sollte sie auf jeden Fall
+nicht nehmen, sondern eine der anderen.
+
+Dann _ist_ sie schon auf dem richtigen Weg nach Jostberg wie schon ihre
+ganze Reise ueber, selbst wenn sie mit {s, z} als SZHK des Graphen ueber
+ueber s wieder zu z gelangen sollte.  Sie kann dann stillschweigend die
+noch nicht ausprobierte und noch nicht gewiesene Richtung nehmen und
+gelangt mit nur einer Frage frueher oder spaeter nach d.
+
+-- 
+USER       PID %CPU %MEM  SIZE   RSS TTY STAT START   TIME COMMAND
+rc5        431 80.8  0.2   788   252  ?  H K  21:14 6476:31 ./rc5des 
+ Email to slfeq@srwg.rkfd.wt with *Subject: pgpsend* for my PGP public key!
+_PGP public key finge

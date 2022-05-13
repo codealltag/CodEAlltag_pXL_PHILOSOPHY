@@ -1,0 +1,53 @@
+Hallo Arian,
+
+
+Ich habe mich etwas informiert:
+
+Hier eine -wie ich finde- gute Erklärung der Entropie:
+
+<http://wuw.zhmtwfz.qhh-kfeu.yp/evhkyq/ojdt/ai0_mc/agt_2/zalpywdg/v7_5_6.peab>
+
+
+Die Entropie eines Systems entspricht dem Logarithmus der Wahrscheinlichkeit 
+des /makroskopischen/ Systemzustandes, in dem sich das System befindet.
+
+(Für physikalische thermodynamische Berechnungen kommt noch der
+Boltzmann-Faktor als Proportionalitätsfaktor hinzu)
+
+Diese Wahrscheinlichkeit kann man berechnen, indem man die Anzahl der
+Mikrozustände berechnet, die jeweils den gleichen Makrozustand ergeben.
+
+Je mehr Dimensionen ein System hat, um so weniger verschiedene Mikrozustände 
+kann man von aussen als Makrozustand unterscheiden.
+
+
+Nun zu den Dimensionen:
+Hat man z.B. einen eindimensionalen "Körper" mit 8 Besetzungspositionen, dann
+gibt es 256 verschiedene Besetzungszustände, von denen man jedoch die 
+jeweils spiegelsymmetrischen Zustände nicht unterscheiden kann. 
+
+Ordnet man diese Positionen auf den 8 Ecken eines Würfels an, dann kann
+man nicht mehr so viele  Besetzungen unterscheiden, denn
+der Raum ist ja isotrop, d.h. z.B. alle 8 Möglichkeiten, bei denen nur
+eine Ecke besetzt ist, sind ja ununterscheidbar und zählen daher nur als
+eine Möglichkeit. (Die Ecken des Würfels sind nicht durchnummeriert)
+
+D.h. es kommt letztlich garnicht auf die konkrete räumliche Vorstellung an.
+Es kommt auf die Isotropie, auf die Ununterscheidbarkeit der Dimensionen an.
+
+Wenn es mehr /ununterscheidbare/ /isotrope/ /gleichwertige/ Dimensionen gibt, 
+dann kann man entsprechend weniger innere Zustände des Körpers von 
+aussen gesehen unterscheiden, und seine Entropie wird höher, der beobachtete 
+Zustand wird wahrscheinlicher.
+
+D.h die Anzahl der wahrgenommenen unterschiedlichen Strukturen wird kleiner
+(bei gleicher Anzahl an Quanten, aber unterschiedlicher innerer Anordnung)
+
+Soweit das rein Qualitative.
+
+Was nun das Quantitative angeht, so hoffe ich, dass das schonmal jemand 
+ausgerechnet hat, und suche noch etwas im Web rum ;-)
+
+Grösse,
+
+Heimo

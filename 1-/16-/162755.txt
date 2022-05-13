@@ -1,0 +1,33 @@
+Hallo
+
+Ich bin bei meiner Arbeit an einer Theorie an einen interessanten Punkt
+gestoßen.
+
+Ganz kurz:
+
+Hat irgendwer irgendwo schon mal ein Programm geschrieben, welches eine
+vollständige Kopie von *sich selbst* herstellt?
+
+Ich meine also so eine Art Zelle, die sich teilen kann, so dass
+hinterher zwei Zellen losgelöst voneinander existieren, und es ist nicht
+mehr zu entscheiden, welche aus welcher hervorgegangen ist.
+
+Ich glaube, das ist entweder ganz einfach oder unmöglich. Ich könnte
+natürlich auch selbst weiter drüber brüten (habe aber fast all meine
+Programmierkunst vergessen (war Pascal, und auch 'n bisschen PROLOG),
+aber wenn hier jemand von kurzer Hand eine Lösung kennte, wär's mir
+natürlich sehr recht.
+
+Nicht terminierede Rekursionen kann man natürlich leicht programmieren
+(man braucht bloß die Abbruchbedingung zu vergessen oder nicht-erfüllbar
+zu gestalten - putzige Systemabstürze, das!), ebenso einfache rekursive
+(eben: teilrekursive) Programme, wie das zu Lehrzwecken immer gern
+genommene Fibonaccizahlen-Programm.
+Sowas meine ich aber nicht.
+Ich will auf *echte* Selbstreproduktion hinaus.
+
+Weiß da jemand was? Literatur (für nicht-Programmierer)?
+
+
+MFG
+Bruno

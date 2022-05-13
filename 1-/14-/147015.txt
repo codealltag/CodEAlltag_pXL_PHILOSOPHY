@@ -1,0 +1,36 @@
+Ok, ich dachte oben nur daran, daß die KI sehr selbstständig agieren (Schach 
+spielen) soll.
+
+
+Grundsätzlich gibt es natürlich beide (bzw. mehrere) Ansätze, woraus die KI 
+lernt. Dabei ist das Spektrum vom unselbstständigen Lernen bis zum 
+selbstständigen m.E. sehr weit.
+
+
+In der KI (z.B. in der Uni) spricht man z.B. vom "Lernen aus Beispielen", bei 
+dem die KI aus einfachen (positiven und ggf. auch negativen) Beispielen einen 
+Begriff lernen soll. Hier werden ihr als die Lerndaten explizit präsentiert wie 
+einem Schüler von einem Lehrer.
+
+
+"Lernen durch (eigene) Entdeckung" ist sicher viel selbstständiger; das System 
+"überlegt" sich selbst, was es aus einer Menge von Lerndaten machen kann.
+
+
+Selbstständiges Lernen ist sicher eine spätere Phase gegenüber dem 
+unselbstständigen (klar gibt's zeitliche Überschneidungen). Beim Schach z.B. 
+bekommt man anfangs gesagt, was gut ist und was weniger, erst später kann man 
+gut
+aus eigenen (oder anderen) Spielen weiteres Lernen.
+
+
+Meine abschließende Formel: :)
+Je selbstständiger, desto besser (kann die KI werden).
+
+
+Viele Größe,
+
+
+Bruno
+-- 
+News suchen, lesen, schreiben mit http://cxkfzpdzth.law.ya

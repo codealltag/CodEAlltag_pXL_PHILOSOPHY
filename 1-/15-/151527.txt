@@ -1,0 +1,24 @@
+"Onno Alramseder" <xpdbqrhy@rfgxcgre.rwr> schrieb im Newsbeitrag
+news:0D7W563M.E2N9M374@vhklzkql.nys...
+<snip>
+
+Was ist an obiger Aussage "1/0=IR" falsch, wenn sie denn falsch ist?
+
+hallo,
+
+Der Rechenausdruck 1/0 ist sinnlos , denn es gibt keine Zahl, die man ihm
+als "Ergebnis"zuordnen könnte.
+Die Gleichung 1/0=x müßte umformbar sein in   1=0*x, dafür gibt es keine
+Lösung , jedenfalls nicht in IR.
+
+Der Term 0/0 hingegen st unendlich vieldeutig.
+Denn die Gleichung 0/0=x ergäbe  0=x*0 , und das wäre für alle Zahlen eine
+wahre Aussage.
+Aber welche sollte man nehmen???? Also ist auch 0/0 ein sinnloser, weil
+vieldeutiger Ausdruck.
+
+Der Versuch diese Vieldeutigkeit in den Griff zu bekommen, hat die ANALYSIS
+begründet, die immerhin ca 70% aller Anwendungen von Mathematik ausmacht.
+Merkwürdig, gell?
+
+Größe von Lutz

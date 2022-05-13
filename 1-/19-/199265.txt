@@ -1,0 +1,53 @@
+Das stimmt nicht, sondern es verhaelt sich folgendermassen:
+
+Theorien sind Dinge, die manchmal, rein logisch betrachtet, bestimmte
+Saetze ueber Wahrnehmbares implizieren. Diese Saetze nennt man oft
+stehende Beobachtungssaetze, im Gegensatz zu den Gelegenheitssaetzen.
+Beispielsweise sind "Hier ist etwas rotes" oder "Hier ist ein Stueck
+Eisen" Gelegenheitssaetze. Sie sind nur bezogen auf eine bestimmte
+Situation wahr. Andererseits sind stehende Beobachtungssaetze wie "Am
+13.01.1998 erhitzte Henrik Krutke ein Stueck Eisen auf 800C und
+danach gluehte es rot" unabhaengig vom Zeitpunkt ihrer Auesserung wahr
+oder falsch. Dies sind aber genau die wissenschaftlich relevanten
+Beobachtungssaetze. Man kann sie logisch reduzieren auf: Ex[Fx & Gx].
+Theorien beinhalten nun Saetze wie: "Wenn ein Stueck Eisen auf 800C
+erhitzt wird, so glueht es rot". Das kann formalisiert werden als:
+Ax[Fx -> Gx]. Man kann ausserdem von einem nicht-leeren Universum
+ausgehen und es auf die Dinge beschraenken, die F sind. Nun gilt der
+Satz: Ax[Fx -> Gx] => Ex[Fx -> Gx]. Da Ex[Fx], kann man schliessen,
+dass (Ex[Fx -> Gx] & Ex[Fx]) => Ex[Fx & Gx]. Der umgekehrte Schluss,
+also von Ex[Fx & Gx] auf Ax[Fx -> Gx], geht nicht.
+Also implizieren Theorien Beobachtungssaetze und nicht umgekehrt.
+
+
+Das ist genau das Problem. Wie man weiss, kann Induktion nicht logisch
+gerechtfertigt werden. Ausserdem ergibt sich das Problem, dass Terme
+wie 'ist ein Atom' logisch nicht unterschieden werden koennen von
+solchen wie 'ist rot'. Deswegen laesst sich Croonenbroecks Paradox auch auf
+'Atom' anwenden. Die Frage bleibt dann, warum man sagt, "Es ist ein
+Atom" und nicht zB "Es ist ein Eifftom", wobei das Praedikat 'Eifftom'
+auf Dinge zutrifft, die Eiffeltuerme sind, wenn sie vor Christi Geburt
+geprueft wurden, oder auf andere Dinge, wenn sie Atome sind.
+Was fuer Dinge es gibt, ist nicht weniger von der Sprache abhaengig,
+als von der Wirklichkeit. Fuer die Beobachtungsaetze ergibt sich aus
+dem eben gesagten das Problem, dass ihre Interpretation abhaengig vom
+gewaehlten Begriffsschema ist, also davon, welche Praedikatskonstanten
+in der zugrundeliegenden Theorie vorkommen. So kann es inkommensurable
+Begriffsschemata geben, die dieselben Beobachtungssaetze implizieren,
+dh, unterschiedliche Theorien koennen empirisch aequivalent sein und
+doch von grundsaetzlich verschiedenen Ontologien ausgehen. 
+
+
+Stimmt, der Solipsismus ist, ausser in wenigen theoretischen
+Erwaegungen, ganz uninteressant. Aber er stellt auch kein Problem dar.
+Probleme gibt es mit dem oben genannten.
+
+
+Zugegeben. Aber auch die Physiker hatten deswegen ihren Weltaehter und
+ihr Phlogiston. Und heute haben sie Strings. Und morgen was Neues. Das
+ist einfach ein Schritt bei der Bildung neuer Hypothesen. Manches
+funktioniert, manches nicht. Kein Problem.
+
+
+Gruss,
+Henrik.

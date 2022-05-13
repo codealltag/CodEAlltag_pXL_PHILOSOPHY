@@ -1,0 +1,58 @@
+Guten Tach!
+
+
+PL1 ist ja auch nicht entscheidbar.  Genauer gesagt die Menge der
+allgemeingültigen Aussagen (genausogut die Menge der nicht
+erfüllbaren Aussagen) ist nicht entscheidbar. Wohl aber
+aufzählbar, wenn die zugrundeliegende Sprache aufzählbar ist.
+
+Bzgl. allgemeingültiger Aussagen gilt ja nicht, dass immer entweder F
+oder -F allgemeingültig ist. Falls das der Punkt war wo dich meine
+Argumentation verwirrt hatte. Ich hatte behauptet, dass die Menge
+der in der festgewählten Struktur "natürliche Zahlen" wahren
+Aussagen nichteinmal aufzählbar ist, weil in diesem Fall
+aufzählbar und entscheidbar zusammenfällt, da immer F oder
+-F wahr ist.
+
+
+Als ob hier irgendwas praktische Relevanz hätte  oder haben müßte ...
+
+
+Wenn man für jede Teilmenge ein Prädikatsymbol einführt, ist ja noch
+nichtgesagt, dass das alle Teilmengen sind. So wie es bei der rsprünglichen
+
+Axiomatisierung Nonstandardmodelle gibt,  in denen mehr Objekte
+vorkommen als die durch 0, s(0), s(s(0)),... bezeichneten, so gibt es
+immer noch Nonstandardmodelle in denen man eben nicht für jede
+Teilmenge ein Prädikatsymbol hat.
+
+Oder in anderen Worten: Die Einführung von neuen Prädikatskonstanten
+entspricht einem Existenzquantor. Man braucht aber ein allquantifiziertes
+Prädikat für das Induktionsaxiom.
+
+Davon abgesehen könnte man unter "vollständiger Axiomatisierbarkeit
+der Arithmetik" zwei verschiedene Dinge verstehen:
+1)  Sie ist so axiomatisiert, dass alle Modelle zu den natürlichen
+Zahlen isomorph sind. Geht mit PL1 prinzipiell nicht.
+2) Sie ist so axiomatisiert, dass zu jeder Formel entweder
+F oder -F herleitbar ist. Verschiedene Modelle davon wären
+also in der gegebenen PL1 Sprache nicht unterscheidbar.
+(Solche Strukturen heissen elementar Äquivalent bzgl. einer Sprache.)
+Vollständigkeit im 2. Sinn kann man mit PL1 hinbekommen, wenn
+man auf die Aufzählbarkeit der herleitbaren Formeln verzichtet.
+(Die triviale Lösung ist, dass man jede wahre Formel zum Axiom erklärt.)
+
+
+Sicher, das ist wie gesagt auch nicht entscheidbar.Einschränkung:
+Spezialfälle sind entscheidbar, wenn die Sprache
+keine Funktionszeichen und nur einstellige Prädikatszeichen hat, ist
+die Allgemeingültigkeit wohl entscheidbar.
+
+
+Nein, nein. Das ist nur ein strategisches Nebenziel, aber macht auf jeden
+Fall Spaß.
+
+Also bis dann
+
+--
+Ernest Sure

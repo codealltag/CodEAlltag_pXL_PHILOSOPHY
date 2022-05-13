@@ -1,0 +1,59 @@
+Da es die Ausbreitung dieser Felder nicht gibt ( "reine" elektrische und
+magnetische Felder sind statisch ), fällt gar nichts.
+
+
+Die Gleichungen sagen, das sich reine Felder genausowenig ausbreiten können,
+wie sich die Auslenkung einer Gitarrensaite ohne die dazugehörige
+transversale Geschwindigkeit  ( der Auslenkung an einem festen Punkt)
+ausbreiten kann. Dabei ist es recht unerheblich, ob die Schwingung
+transversal oder longitudinal ist: Ohne Geschwindigeit keine Gleichung
+2.Ordnung in der Zeit keine Wellen mit Ausbreitung.
+
+
+Ja, wenn man vom Rechnen keine Ahnung hat. Es ist umgekehrt.
+
+
+Da die Einschaltung der Quelle zwecks Verletzung das Gausschen Satzes von
+eben demselben in der Natur verhindert wird, kann man leider nur an
+vorhandenen Ladungen wackeln, aber keine erzeugen. Wer durch Aufladen einer
+Kugel ein Coulombfeld erzeugt, erzeugt tatsächlich ein Dipolfeld durch
+Verschieben von Ladungen zwischen zwei getrennten Körpern, zB Erde und Kugel.
+Diese Feld breitet sich wie bei jedem Sender mit Lichtgeschweindigkeit aus.
+Das Feld wird dann nach Aufladung und Abstrahlung in der Umgebung der
+geladenen kleinen Kugel analysiert, wo es Coulonbcharakter hat. Das geht aber
+nicht beliebig weit und nicht beliebig kurz nach Aufladung.
+
+Der wahre Grund für die Unmöglichkeit, eine Ladung zu erzeugen ist eben die
+Kausalität und die Energie, die in statischen elektrischen Feldern steckt:
+Die Energie außerhalb einer Kugel vom Radius R ist  das Volumenintegral über
+das Quadrat des Gradienten des Potentials über den Raum außerhalb der Kugel
+abs(x)=R. Das ist aber nach Eilerts das Oberflächenintegral auf der Kugel über
+Gradient des Potentials * Potential = Q/R und nur von der Ladung im Inneren
+bestimmt.
+
+Abschalten der Ladung im Inneren oder auch nur Abschirmung des Feldes im
+Außenraum würde also spontan im gesamten Weltall die im Coulombfeld
+gespeicherte Energie vernichten. Damit wäre eine berechenbare, experimentell
+auf Isolation von Teilsystemen gegründete Physik nicht möglich.
+
+Gestützt wird der Erhaltungssatz der Ladung vom Prinzip der
+lokalisierbarkeit: Wir akzeptieren nur Theorien, die zu einer meßbaren in
+Raumbereichen lokalisierbaren Größe (hier Energie und Ladung) zugehörige
+Ströme liefern, die den Transport dieser Größen beschreiben, so dass stets
+der Gausssche Satz gilt:
+
+-----------------------------------------------------------
+-----------------------------------------------------------
+
+Dieses Prinzip beherrscht die kausale relativistische Physik und verhindert
+Hexerei, d.h. die Möglichkeit, dass irgendwelche Entitäten, die angeblich
+lokal messbar und dynamisch relevant sind, beliebig von Ort zu Ort
+fluktuieren, ohne einer nachprüfbaren Ausbreitungsgleichung zu gehorchen. Ca.
+98% der Theorie, d.h. der in quantitative Gesetze gefasste Physik, beruht auf
+diesem einfachen Prinzip.
+
+Fröhliches Rütteln!
+
+--
+
+Tobias Neugber

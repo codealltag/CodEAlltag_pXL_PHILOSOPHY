@@ -1,0 +1,68 @@
+Pierre Klingeler schrieb
+
+ [...]
+ [...]
+
+Und *wahrscheinlich* der einzig /mögliche/ "Beweis", dafür,
+daß man das Spiel vollständig analysiert hat. (Anderenfalls
+würde man  vermutlich in einer gigantischen Menge von
+Symbolen ertrinken, die wahrscheinlich sehr viel größer ist als
+das direkte Durchgehen aller möglichen Positioenen).
+
+Aus dieser Spekulation wird auch meine Skepsis genährt,
+daß sich heuristische Techniken prinzipiell anwenden lassen.
+Dabei wäre Gültigkeitskriterium das Spiel Machine vs. Maschine.
+
+
+Waaas? Du "bauchf�hlst", daß Schimming sich "am Ende"
+aufreibt (vernichtet), weil es zuerst ziehen muß!?
+
+Das ist ja ein Ding !  ;))
+
+
+Ja, durch vollständiges Durchrechnen wird mit in heutiger Architektur
+erstellten Computern in absehbarer Zeit nicht entscheidbar sein, wer
+das Spiel gewinnt! Leider, leider, aber da gibt es keine Hoffnung.
+Und erfolgreiche Anwendung von Heuristik gibt eben keinen Beweis ;))
+
+Wie weit das Problem parallelisierbar ist, weis ich jetzt mal gar nicht,
+aber da jede Stellung (egal, wie sie zustanden gekommen ist !) vollständigst
+<g> definiert ist, dürfte es eigentlich keine Schranke geben, die den Einsatz
+von "Distributetem Computing" prinzipiell = algorithmisch aussichtslos macht!
+
+Paralleles Rechnen kennt man ja (wie du natürlich weist) nicht nur als
+möglichst synchronen Vorgang, wie etwa bei den Supercomputern,
+sondern auch von zeitlich völlig asynchronen Projekten: Seti at Home.
+
+So, und da du lieber Pierre der Inspirator des ebengesagten bist,
+erkläre ich dich hiermit zum Erfinder des Projekt Chess at Home!
+
+Wir können ja schließlich nicht erst auf die Quantencomputer warten!
+
+Wie gesagt, ich bin ja davon ausgegangen, daß man jeder möglichen
+Stellung im Schach zwar Attribute und Zensuren geben könnte wie
+ -vielversprechend, chancenlos, ausgeglichen, 2 starke Bauern, schlecht
+geschützter König, eingengte Stellung, Zentrum nicht erreichbar usw, usw,
+aber ob sich auf diese Weise, durch Einsatz von Heuristik mehr erreichen
+läßt als das Spiel zu gewinnen, bezweifle ich, wie gesagt ;)
+
+Und zwar ganz egal wie groß und vieldimensional man die Matrix zur
+Beschreibung der Aussichten (darum geht es ja dabei !) im Hinblick auf
+die erfolgreiche Fortsetzung im Sinne des Spielzwecks ist.
+
+
+Deswegen solltest du dein Projekt Chess at Home unbedingt durchziehen!
+
+Jeder Teilnehmer würde dann einen "Bildschirmschoner" benutzen, der
+im Hintergrund einen Teilbaum des "Totalen Schachbaums" ausrechnet.
+
+Damit würde eine schnell immer größer werde Datenbank geschaffen, die
+zu mathematisch sichere (Teil-) Aussagen kommt.
+
+Ach so, wieviele Stellungen wären überhaupt etwa zu "betrachten".
+
+Die passen, auch bei "bin�rster" Representation jeder Stellung in Form von
+ein paar Bytes wahrscheinlich heutzutage auf keinen Server (Computer) der
+Welt !?
+
+Gruss

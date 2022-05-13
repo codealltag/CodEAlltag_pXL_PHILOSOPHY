@@ -1,0 +1,49 @@
+Es wurde bestritten, dass die Aussage "Es wird keine Zeitreisen
+geben, da bis jetzt niemand aus der Zukunft erschienen ist"
+ein Beweis ist. Daher versuche ich hier eine mathematische
+Beweisführung, die aber natürlich auf eine bestreitbare Grundannahmen
+basiert.
+
+
+======================================================================
+
+Axiom A: Es ist bis heute noch niemals ein Zeitreisender 
+kenntlich in unserer Zeit erschienen.
+
+Axiom B: Die Menschheit wird unendlich lange existieren
+
+Annahme C: Die Menschheit wird im Jahr X die Zeitreise erfinden.
+
+<=> Ab dem Jahr X gibt es eine Wahrscheinlichkeit q>0, dass ein
+Mensch genau in oder vor unsere Zeit reist und sich als Reisender 
+aus der Zukunft preisgibt. 
+
+<=> Die Wahrscheinlichkeit, dass dieses Ereignis eintritt, ist
+aufgrund von Axiom B (t=unendlich): q_sum=1
+
+Dies ist aber ein Widerspruch zum Axiom A.
+
+=> Annahme C ist falsch
+
+======================================================================
+
+Axiom A ist unkritisch, es ist definitiv öffentlich noch keiner
+aus der Zukunft erschienen. Dies ist ein Fakt.
+
+Axiom B ist problematisch, da natürlich die Menschheit aussterben
+kann. Es gibt zwar keinen Hinweis darauf, dass das jemals geschehen
+wird, aber ich bin da persönlich optimistisch.
+
+Wie bei jedem mathematischen Beweis, gilt er nur solange die Axiome
+gelten. Und diese kann man nicht beweisen. Zudem kommt, dass hier
+auch noch ein Gesetz aus der Stochastik benutzt wird.
+
+Vielleicht ist das ganz ganz interessant für nichtmathematik und
+solche, die glauben, Mathematik würde nur aus Zahlen bestehen.
+
+Ich nehme auch gerne Kritik etc. entgegen.
+
+Größe
+
+
+Dr. Jacques Pollich

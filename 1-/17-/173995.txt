@@ -1,0 +1,42 @@
+...
+
+
+Man geht i.a. von der Widerspruchsfreiheit der verwendeten Axiomensysteme
+aus. Diese ist zwar fuer hinreichend komplexe Systeme nicht bewiesen (soweit
+ich weiss noch nichtmal fuer die Axiomatik der rationalen Zahlen auf der
+Basis entsprechender Mengentheorie), wird aber dennoch als wahr angenommen,
+solange keine widerspruechlichen Aussagen auftauchen (d.h. Aussagen H, fuer
+die sowohl H als auch Nicht-H aus den Axiomen gefolgert werden koennen).
+
+Damit geht man also davon aus, dass die "handelsueblichen" Axiomensysteme
+unvollstaendig sind. Dies klingt zwar auch irgenwie traurig, ist aber lange
+nicht so dramatisch bezuegl. der Konsequenzen fuer die Physik. Denn hier
+kommt es doch in erster Linie auf das Finden geeigneter
+Modelle/Axiomenssysteme an. Die strickt man sich dann so, dass man die
+wesentlichen Phenomaene als Aussagen in diesem System formulieren kann. Was
+man dann in diesem System beweisen kann, zeigt sich beim Probieren und
+fuehrt idR zu Veraenderungen der Axiome (unter Beibehaltung der
+"Widerspruchsfreiheit" natuerlich), bis wenigstens die Theorie einigermassen
+rund ist.
+
+Das also evtl. nicht beweisbare Aussagen in einem konkreten Axiomensystem
+auftauchen koennen, ist ein relativ geringes Problem fuer die Physik, da man
+in dieser Richtung (also, um es technisch handhabbarer zu machen) an den
+Axiomen schrauben kann, und das Beweisproblem meist eher technischer Natur
+ist. Was ich damit sagen will: Man kriegt in einer konkreten Situation eh
+nicht raus, ob es an den Beweis-Fertigkeiten hapert oder ob es in diesem
+System prinzipiell nicht beweisbar ist.
+
+Aber diese mathematischen Probleme sind sicher nicht die eigentliche
+Triebkraft fuer die physikalische Modellbildung, sondern wie gesagt, die
+Frage, ob man ueberhaupt die Aussagen formulieren kann, die man braucht.
+
+Wenn sich wirklich die "Dinge" nach irgendwelchen "Gesetzen" richten, dann
+kann die Physik diese sowieso nicht mathematisch herleiten. Sie kann
+hoechstens einigermassen gute mathematische Modelle finden, die die
+Beobachtungen widerspiegeln. Daran werden die Modelle gemessen, und was in
+diesen dann beweisbar ist, spielt eine eher untergeordnete Rolle,
+zwangsweise.
+
+Gruss
+Jörg

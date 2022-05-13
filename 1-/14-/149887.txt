@@ -1,0 +1,46 @@
+Hier beziehst Du Dich offensichtlich auf
+
+
+Wenn Du etwas ueber eine bestimmte Menge zeigen willst, musst Du sie
+durch eine Eigenschaft beschreiben.
+
+"Die Menge disjunkter Intervalle" ist eine unzulaessige Spezifikation,
+denn es gibt viele Mengen, die aus paarweise disjunkten Intervalle aus
+R bestehen.
+
+"Disjunkt" ist eine Eigenschaft, die nicht einem einzelnen Intervall
+fuer sich zukommt, sondern es ist eine Aussage ueber alle
+Intervallpaare aus Deiner Intevallmenge, naemlich die Aussage, dass
+der Durchschnitt von je zwei Intervallen aus Deiner Intervallmenge
+leer ist. Daher waere eine Begriffsbildung wie "die Menge aller
+disjunkten Intervalle" sinnlos.
+
+Wenn Du eine bestimmte Menge paarweise disjunkter Intervalle meinst,
+musst Du sagen, welche. Wenn Du allgemein zeigen willst, dass etwas
+fuer _jede_ Menge paarweise disjunkter gilt, kannst Du natuerlich
+loslegen:
+
+"M sei eine beliebige Menge paarweise disjunkter Intervalle..."
+Zusaetzlich magst Du voraussetzen, dass diese Menge ganz R
+ausschoepft, d.h. dass jede reelle Zahl in genau einem Intervall
+vorkommt. Fuer eine beliebige Menge p.d. Intervalle kannst Du
+natuerlich nicht zeigen, dass sie ueberabzaehlbar ist, denn die Menge
+der Intervall [k,k+1), wobei k eine ganze Zahl ist, ist offensichtlich
+p.d. und abzaehlbar.
+
+Fuer welche Menge paarweise disjunkter Intervalle willst Du nun
+zeigen, dass sie ueberbzaehlbar ist ? Dass dies nicht fuer _jede_
+gilt, wissen wir bereits...
+
+Einen Existenzbeweis kannst Du ueber die Waldbrunn-Methode nicht
+bewerkstelligen. Die Waldbrunn-Methode spricht von einer _bestimmten_ und
+damit beschriebenen Menge, naemlich _der_ eindeutig spezifizierten
+Menge der unendlichen Folgen, die aus 0,1 (oder aus 0,1,...,9)
+bestehen und weist dann nach, dass _diese_ exakt spezifizierte Menge
+nicht abzaehlbar ist.
+
+Du hast Deine Intervallmenge, deren Ueberabzaehlbarkeit zu beweisen
+moechtest, bisher nicht spezifiziert.
+
+MfG
+Ivano

@@ -1,0 +1,19 @@
+http://apa.dpzpfj.vtd-ungygezk.ua/hbppqlb/vjdhupn/Qgsrtcca-dj-VdO.fvq
+
+
+Es ist nicht ganz so willkürlich, wenn im Unendlichen die räumlichen
+Koordinaten euklidisch sein sollen. Dann sind g_22 und g_33 für die 
+tangentialen Koordinaten wegen der Kugelsymmetrie konstant und können
+auf 1 gesetzt werden. Wenn Du dann noch verlangst, dass 
+der Umfang eines Kreises um die Zentralmasse 2*PI*r sein soll,
+musst Du g_11 = -1/g_00 setzen.
+
+Ich muss es nochmal nachschlagen, aber ich glaube, g_11 ist auch
+für die Berechnung der Periheldrehung unwesentlich.
+
+
+Ja, aber die kannte Bohnert noch nicht. Außerdem ist es
+doch genauso schön, wenn "Überschlagsrechnungen" so gut
+funktionieren ;-)
+
+Sebastian.

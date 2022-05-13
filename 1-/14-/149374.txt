@@ -1,0 +1,53 @@
+...
+Falsch.
+Die Diagonale Existiert nicht, da das Schema
+nicht quadratisch ist, also nicht in jeder n-ten
+Zeile auch eine n-te Spalte existiert.
+Alles folgende ist also Quatsch.
+
+< Quatsch gesnippt >
+
+...
+Das kannst Du so nicht sagen.
+Wann sind denn die Voraussetzungen gegeben?
+
+Nur wenn Du Listen hast, bei denen die Anzahl
+der Eintraege die gleiche Maechtigkeit hat, wie
+die laenge eines jeden Eintrages.
+
+Cantors Verfahren fuehrte also dazu, dass Du
+beweisen kannst, dass Du nicht alle 3-stelligen
+Zahlen in einer Liste _die genau drei Eintraege hat_
+aufschreiben kannst:
+
+Dann (und nur dann) kannst Du das Verfahren anwenden,
+und ein Element konstruieren, dass an keiner Stelle
+der Liste Vorkommt. 
+
+Wenn Du oben deine Liste dreistelliger Zahlen
+durch fuehrende Nullen auf die passende Laenge
+ergaenzt, so dass es eine Diagonale gibt, findet
+Das Diagonalverfahren auch brav eine nicht darin
+vorkommende Zahl (natuerlich ist die dann groesser
+als 999, und damit ist dann nicht gezeigt, dass
+man die Zahlen von 100 bis 999 nicht auflisten
+koenne - das waere ja auch seltsam).
+
+Bei abzaehlbar unendlichen Mengen von Elementen
+mit je abzaehlbar unendlich vielen Stellen?
+Nichts, bei denen kommt sogar die notwendige 
+Bedingung hin, dass die Listenelemente die gleiche
+Maechtigkeit haben wie die Liste selbst, naemlich
+abzaehlbar unendlich.
+
+Jeder Eintrag hat abzaehlbar unendlich viele Stellen,
+und es gibt auch abzaehlbar unendlich viele Eintraege.
+Damit gibt es eine Diagonale, und man kann auch das
+Diagonalverfahren anwenden.
+Und wenn man hier, im gegensatz zu obigem Beispiel, von
+dem konstruierten Element zeigen kann, dass es in
+der Menge der aufzuzaehlenden Elemente liegt,
+liegt der klassische Diagonalbeweis vor.
+
+Gruss,
+  Sascha

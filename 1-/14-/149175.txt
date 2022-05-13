@@ -1,0 +1,87 @@
+Das Problem ist zunaechst, dass ueberhaupt nicht klar ist, was in
+diesem Falle unter "Grenzuebergang" verstanden werden soll.
+
+Wenn Du Beispielsweise nach folgendem Modell vorgehst: Man beginne mit
+dem Intervall [0,1]. Im ersten Schritt nehme man die Intervallgrenze
+1/2 hinzu, im zweiten und in jedem folgenden fuege man jeweils in der
+Mitte jedes entstehenden Teilintervalls eine neue Intervallgrenze ein,
+etc, Da man nun im Voraus bestimmten kann, welche Intervallgrenzen im
+k. Schritt einzusetzen sind, koennte man sich vorstellen, dass man
+alle diese Schritte fuer alle natuerlichen k gleichzeitig durchfuehrt.
+Damit hat man insgsamt abzaehlbar viele "intervallgrenzen"
+hinzugefuegt, und zwar alle Zahlen, die sich in einer Form m/2^n
+schreiben lassen, wobei n eine natuerliche Zahl >0 und m eine
+natuerliche Zahl mit 0<=m<=2^n ist. Diese Zahlenmenge nenne ich "das
+Bineargitter von [0,1]". Weiter durch Mittelung unterteilen kann ich
+nicht, da bereits alle moeglichen "Mittelungswerte" verbraucht sind.
+
+Wenn wir der Meinung sind, dieser Prozess haette jetzt irgendetwas in
+Form einer Ansammlungen von bis auf die Grenzen paarweise disjunkter
+Intervall produziert, muessten wir fragen, was das sein koennte.
+Nehmen wir als eine beliebige reelle Zahl, z.B. 1/3, die nicht zu,
+Bineargitter gehoert. In welchem potentiellen "Intervall" liegt diese
+nach dem "Grenzuebergang" ?
+
+Wenn wir uns auf 1/3 stellen und die Teilung Schritt fuer Schritt
+verfolgen, liegt 1/3 zuerst im Teilintervall [0,1], im zweiten im
+Teilintervall [0,1/2], im dritten im Teilintervall [1/4,1/2] etc. D.h.
+das 1/3 enthaltende Teilintervall wird bei jeden Schritt "um 1/3
+herum" auf die Haelfte gekuerzt, indem rechts oder links ein neuer
+Zaunpfahl eingepflanzt wird, ohne dass einer dieser Zaunphaehle jemals
+x persoenlich trifft.
+
+Welches "Intervall" koennte man jetzt als dasjenige bezeichnen, das x
+"an der Grenze" enthaelt ? Eine andere Zahl y ausser x koennte diese
+"Intervall" nicht enthalten, denn wenn z.B.  x<y ist, gibt es
+nachweislich eine Zahl aus dem Bineargitter, die zwischen x und y
+liegt - x und y werden also garantiert bei irgendeinem (sogar
+berechenbaren) Schritt #k separiert, so dass sie sich in
+verschiedenen, im Schritt #k entstandenen Teilintervallen befinden.
+
+Wenn man also jenes durch den Prozess motivierte "Grenzintervall"
+sucht, das 1/3 enthaelt, stellt man fest, dass es ein Intervall sein
+muss, das als einzige Zahl 1/3 enthaelt. Wie jetzt die potentiellen
+"Grenzpunkte" dieses Intervalls aussehen koennten, sei jetzt Dir
+ueberlassen. Was ist Deine Meinung zu diesem Fall ?
+
+Ich wollte damit nicht behaupten, dass das "Resultat" dieses Prozesses
+die Menge aller Einpunktintervalle [x] fuer saemtliche reellen Zahlen
+aus [0,1] _ist_, sondern nur, dass man ihm eigentlich kein anderes
+Resultat zuordnen _kann_, wenn man ihm denn ein Resultat zuordnen
+_will_.
+
+
+Die blinde Folgerung, dass das "Endresultat" eines unendlichen
+Prozesses, eine bestimmte Eigenschaft A haben muesse (die Intervalle
+sind in natuerlicher Weise angeordnet, so dass jedes Intervall bis auf
+das Randintervall zwei Nachbarn hat), wenn jede Stufe des Prozesses
+diese Eigenschaft hat, entbehrt jeder mathematischen Grundlage -
+insbesondere deswegen, weil die Definition von "Endresultat" immer
+willkuerlich, d.h. definitionsbeduerftig ist. In der Mathematik
+definiert sich nichts von selbst. Man kann hoechstens a priori fordern
+- moeglicherweise von "Intuition" und "Anschauung" geleitet - dass das
+zu definierende Endresultat gewisse Eigenschaften haben solle. Wenn es
+kein moegliches Endresultat innerhalt der Theorie gibt, das alle diese
+Eigenschaften einschliesslich der Wunscheigenschaft A hat, hat man
+eben Pech gehabt. Im obigen Falle widerspricht die Forderung nach
+Eigenschaft A halt anderen Forderungen - natuerlich alles innerhalb
+des Modells "reelle Zahlen".
+
+Ob es nun ein besseres Modell gibt, das so etwas zulaesst, _nicht_ von
+vornherein in sich widerspruechlich ist, ebenfalls die intuitive
+Vorstellung von "Kontinuum" bedient und ueberdies in der Praxis
+vernueftig handhabbar ist, ist eine offene Frage. Die ueberwaeltigende
+Mehrheit der arbeiteten Mathematiker scheint mit dem bestehenden
+Modell zufrieden zu sein.
+
+
+In den gaengigen Darstellungen der heutigen Mathematik sind "die
+rellen Zahlen" ein mengentheoretisches (einschließlich des Begriffs
+der "Ordnung") und algebraisches Konzept ohne jeden Rueckgriff auf
+irgendeine Geometrie, der Begriff "Kontinuum" wird nur als Metapher
+fuer den Begriff "Intervall" verwendet und ein "Intervall" ist
+definiert als eine Menge von Zahlen, die mit jedem Zahlenpaar x<=y
+auch saemtliche Zahlen z mit der Eigenschaft x<=z<=y enthaelt.
+
+MfG
+Daniel

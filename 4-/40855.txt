@@ -1,0 +1,33 @@
+Ich sage ja auch nicht, dass ich mit diesem Aufbau zufrieden wäre, aber
+es ist, wie Gerd Justin auch anmerkt :-) immerhin etwas.
+
+Muster müssten als Prototypen in parametrierbarer Form, eventuell als
+Phasenraum mit Mustervariablen dargestellt werden. Ohne Zeit.
+
+Es müsste möglich sein, Phasenraum-Systeme mit Mustern zu matchen
+bzw. sie bei diesem Prozess parametrierend anzupassen.
+
+Der Gestaltungsprozess wäre dann der schrittweise Einbau von
+Mustern in ein System.
+
+Es müsste möglich sein, Phasenraum-Systeme durch eine Äquivalenzoperation
+durch Muster zu strukturieren, d. h. dass bestimme Systemvariablen durch
+Mustervariablen ersetzt werden.
+
+
+Das mag schon sein. Aber der Kern des ganzen sind im kybernetisch-
+systemtheoretischen Sinne brauchbare semantische Beschreibungen.
+
+Wir sind uns ja darüber einig, dass Mathematik das nicht leisten will.
+
+
+Ja, eigentlich ist es ohnehin eine Mengen von Mengen. Wenn man
+es nicht strukturieren würde, wäre ein Muster einfach eine
+Menge nützliche Aussagen. Teilweise unter Bezugnahme auf andere
+Muster, was den Graphen erzeugt.
+
+In deiner Systemtheorie würde die Semantik wohl einerseits in den
+anzugebenden Systemvariablen bzw. in deren funktioneller Verknüpfung
+(Graph) stecken müssen.
+
+lg Joël

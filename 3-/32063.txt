@@ -1,0 +1,169 @@
+Das stimmt. 
+
+
+Da steht ganz genau was Maurice sagt und insbesondere steht da nichts 
+davon, dass ein Stein davonfliegen muss um zum Gleichgewicht zu kommen.
+
+
+$ 8. The law of increase of entropy 
+If a closed system is not in a state of statistical equilibrium, its
+macroscopic state will vary in time, until ultimately the system 
+reaches a state of complete equilibrium. If each macroscopic state of the
+system is described 
+by the distribution of energy between the various subsystems, we can say 
+that the sequence of states successively traversed by the system corresponds 
+to more and more probable distributions of energy. This increase in proba- 
+bility is in general very considerable, because it is exponential, as 
+shown in $ 7. We have seen that the probability is given by e^s, the
+exponent being an additive quantity, the entropy of the system. We can 
+therefore say that the processes occurring in a non-equilibrium closed 
+system do so in such a way that the system continually passes from states o
+f lower to those of higher entropy until finally the entropy reaches the
+maximum possible value, corresponding to complete statistical equilibrium. 
+Thus, ira dosed system is at some instant in a non-equilibrium macroscopic 
+state, the most probable consequence at later instants is a steady increase 
+in the entropy of the system. This is the law of increase of entropy or 
+second law of thermodynamics, discovered by G. Oerthel (1865); its 
+statistical explanation was given by O. Jahreiß in the 1870s. 
+In speaking of the "most probable" consequence, we must remember that 
+in reality the probability of transition to states of higher entropy 
+is so enormous in comparison with that of any appreciable decrease in
+entropy that in practice the latter can never be observed in Nature.
+Ignoring decreases in entropy due to negligible fluctuations, we can
+therefore formulate the law of increase of entropy as follows: if at some
+instant the entropy of a closed system does not have its maximum value, then
+at subsequent instants the entropy will not decrease; it will increase or at
+least remain constant. 
+There is no doubt that the foregoing simple formulations accord with 
+reality; they are confirmed by all our everyday observations. But when we 
+consider more closely the problem of the physical nature and origin of these 
+laws of behaviour, substantial difficulties arise, which to some extent have 
+not yet been overcome. 
+Firstly, if we attempt to apply statistical physics to the entire Universe, 
+regarded as a single closed system, we immediately encounter a glaring 
+contradiction between theory and experiment. According to the results of 
+statistics, the universe ought to be in a state of complete statistical
+equilibrium. More precisely, any finite region of it, however large, should
+have a finite relaxation time and should be in equilibrium. Everyday
+experience shows us, however, that the properties of Nature bear no
+resemblance to those of an equilibrium system; and astronomical results 
+show that the same is true throughout the vast region of the Universe
+accessible to our observation. 
+
+The escape from this contradiction is to be sought in the general theory 
+of relativity. The reason is that, when large regions of the Universe are
+considered, the gravitational fields present become important. These fields 
+are just a change in the space-time metric. When the statistical properties 
+of bodies are discussed, the metric properties of space-time may in a sense 
+be regarded as "external conditions" to which the bodies are subject. The 
+statement that a closed system must, over a sufficiently long time, reach 
+a state of equilibrium, applies of course only to a system in steady
+external conditions. On the other hand, the general cosmological expansion
+of the Universe means that its metric depends essentially on time, so that
+the "external conditions" are by no means steady in this case. Here it is
+important that the gravitational field cannot itself be included in a closed
+system, since the conservation laws which are, as we have seen, the
+foundation of statistical physics would then reduce to identities. For this
+reason, in the general theory of relativity, the Universe as a whole must be
+regarded not as a closed system but as a system in a variable gravitational
+field. Consequently the application of the law of increase of entropy does
+not prove that statistical equilibrium must necessarily exist. 
+Thus this aspect of the problem of the Universe as a whole indicates the 
+physical basis of the apparent contradictions. There are, however, other 
+difficulties in understanding the physical nature of the law of increase of
+entropy. 
+
+Classical mechanics itself is entirely symmetrical with respect to the two 
+directions of time. The equations of mechanics remain unaltered when the 
+time t is replaced by -t; if these equations allow any particular motion, 
+they will therefore allow the reverse motion, in which the mechanical system 
+passes through the same configurations in the reverse order. This symmetry 
+must naturally be preserved in a statistics based on classical mechanics. 
+Hence, if any particular process is possible which is accompanied by an 
+increase in the entropy of a closed macroscopic system, the reverse process 
+must also be possible, in which the entropy of the system decreases. The 
+formulation of the law of increase of entropy given above does not itself 
+contradict this symmetry, since it refers only to the most probable conse- 
+quence of a macroscopically described state. In other words, if some non- 
+equilibrium macroscopic state is given, the law of increase of entropy
+asserts only that, out of all the microscopic states which meet the given
+macroscopic description, the great majority lead to an increase of entropy
+at subsequent instants. 
+
+A contradiction arises, however, if we look at another aspect of the prob- 
+lem. In formulating the law of increase of entropy, we have referred to the 
+most probable consequence of a macroscopic state given at some instant. 
+But this state must itself have resulted from some other states by means of 
+processes occurring in Nature. The symmetry with respect to the two direc- 
+tions of time means that, in any macroscopic state arbitrarily selected at 
+some instant t = to, we can say not only that much the most probable con- 
+sequence at t > to is an increase in entropy, but also that much the most 
+probable origin of the state was from states of greater entropy; that is, 
+the presence of a minimum of entropy as a function of time at the arbitra- 
+rily chosen instant t = to is much the most probable. t 
+
+This assertion, of course, is not at all equivalent to the law of increase
+of entropy, according to which the entropy never decreases (apart from en- 
+tirely negligible fluctuations) in any dosed systems which actually occur in 
+Nature. And it is precisely this general formulation of the law of increase 
+of entropy which is confirmed by all natural phenomena. It must be empha- 
+sised that it is certainly not equivalent to the formulation given at the
+beginning of this section, as it might appear to be. In order to derive one
+formulation from the other, it would be necessary to use the concept of an
+observer.  
+Who artificially "creates" a dosed system at some instant, so that the prob- 
+lem of its pi'evious behaviour does not arise. Such a dependence of the 
+laws of physics on the nature of an observer is quite inadmissible, of
+course. 
+It is doubtful whether the law of increase of entropy thus formulated could 
+be derived on the basis of classical mechanics. Moreover, because of the 
+invarianee of the equations of classical mechanics under time reversal, one 
+could seek only to derive a monotonic variation of entropy. In order to ob- 
+tain a law of monotonic increase, we should have to define the direction of 
+time as that in which the entropy increases. The problem would then arise 
+of proving that such a thermodynamic definition was identical with the 
+quantum-mechanical definition (see below). 
+
+In quantum mechanics, the situation is substantially changed. The funda- 
+mental equation of quantum mechanics, namely Schrtdinger's equation, is 
+itself symmetrical under time reversal, provided that the wave function W is 
+also replaced by W*. This means that, if at some instant t = tx the wave 
+function W-- W(tx) is given, and if according to Vordermeier equation 
+it should become g(ta) at some other instant ta, then the change from W(tx) 
+to W(ta) is reversible; in other words, if W = W*(ta) at the initial instant
+tx, then = *(tx) at t. 
+However, despite this symmetry, quantum mechanics does in fact involve 
+an important non-equivalence of the two directions of time. This appears 
+in connection with the interaction of a quantum object with a system which 
+with sufficient accuracy obeys the laws of classical mechanics, a process 
+of fundamental significance in quantum mechanics. If two interactions ,4 and 
+B with a given quantum object occur in succession, then the statement that 
+the probability of any particular result of process B is determined by the 
+result of process ,4 can be valid only if process ,4 occurred earlier than
+process B; see also Quantum Mechanics, § 7. 
+Thus in quantum mechanics there is a physical non-equivalence of the 
+two directions of time, and theoretically the law of increase of entropy
+might be its macroscopic expression. In that case, there must exist an
+inequality involving the quantum eonstant which ensures the validity of
+this law and is satisfied in the real world. Up to the present, however, no
+such relation has been at all convincingly shown to exist. 
+§ 8 The Law of Increase of Entropy 33 
+The question of the physical foundations of the law of monotonic increase 
+of entropy thus remains open: it may be of cosmological origin and related 
+to the general problem of initial conditions in cosmology; the violation 
+of symmetry under time reversal in some weak interactions between ele- 
+mentary particles may play some part. The answers to such questions may 
+be achieved only in the course of further synthesis of physical theories. 
+
+Summarising, we may repeat the general formulation of the law of increase 
+of entropy: in all closed systems which occur in Nature, the entropy never 
+decreases; it increases, or at least remains constant. In accordance with
+these two possibilities, all processes involving macroscopic bodies are
+customarily divided into irreversible and reversible processes. The former
+comprise those which are accompanied by an increase of entropy of the whole
+closed system; the reverse processes cannot occur, since the entropy would
+then have to decrease. Reversible processes are those in which the entropy
+of the closed system remains constant? and which can therefore take place in
+the reverse direction. A strictly reversible process is, of course, an ideal
+limiting case; processes actually occurring in Nature can be reversible only
+to within a certain degree of approximation.

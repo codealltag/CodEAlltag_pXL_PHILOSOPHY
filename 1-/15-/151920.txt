@@ -1,0 +1,24 @@
+IR ist IR. Soll heißen , dass an der Eigenschaft das IR aus Repräsentanten
+unterschiedlicher Äquivalenzklassen von Cauchyfolgen besteht,ändert sich nichts .
+D.h. wann immer irgendetwas IR umfaßt ist sowohl  '0.9per'   als auch '1' in der
+selben Äquivalenzklasse.Sicherlich ist eine 'pure Symbolfrage' diesbezüglich
+irrelevant. Was soll eine Frage nach Symbolen wie 'die Objekte (Zahlen) in IR
+werden repräsentiert durch folgende Symbole :  1, sig, $,��, $�, 9,;:, ...  .
+Dabei ist %"&% das neutrale Element bzgl. der Multiplikation'  ???
+ Um nun ganz einfach eine Unterscheidung von 0.9per und 1 zu bekommen braucht man
+doch nur die Cauchyfolgen selber betrachten ohne Äquivalenzklassenbildung.E.g.
+mit komponentenweiser Addition und Multiplikation --voila: 0.9per =
+(0.9,0.99,0.999,...) <>1 (=(1,1,1,...) ) . Alles ganz ohne NSA.
+Selbst Osca als 'Fortsetzung ' von IR ist eine 'Obermenge' von IR .Läßt sich IR
+wohlordnen so ist es eine 'natürliche' Frage welche Zahl denn nun der direkte
+Vorgänger/Nachfolger von 1 ist , immerhin ist IR ein angeordneter Körper.
+Nun kann ein Ansatz sein eps:   0<eps<r  für alle r in IR , um genau diese
+infinitisimale Differenz zu beschreiben.Grenzwerte der Form 'dx' sind dann halt
+gleich eps. Kriegt man dann noch eine 'vernünftige' Arithmetik --gut.Ob man hier
+das _Symbol_ '0.000...1' dafür benutzen sollte oder nicht spielt eigentlich keine
+Rolle --nur 0.000...1 ist nicht in IR (; zur Arithmetik eps^2,eps/2 , w*eps
+etc.).
+Zu dem angegebenen Link: aus Plausibilität, Heuristik oder Verallgemeinerung
+heraus gewisse Symboliken zu benutzen ist durchaus eine valide Methodik um
+'Arbeitshypothesen' zu erstellen . Formale Konsistenz , 'Sinnhaftigkeit' oder
+'Beweise' für daraus abgeleitete Aussagen nicht ganz das selbe.

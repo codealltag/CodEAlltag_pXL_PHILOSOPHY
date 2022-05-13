@@ -1,0 +1,41 @@
+On Fri, 19. 06. 21 23:56:22 +0200, 
+
+Das glaube ich irgendwie nicht, zumindest nicht in der Weise, wie ich Deinen
+Satz verstehe. Logik und formale Logik trenne ich schon. Will ich etwa eine
+formale Logik aufbauen, so brauche ich schon wieder Logik, um beispielsweise
+die Korrektheit eines Kalkuels zu zeigen. Ueberhaupt lassen sich eben nicht
+alle Beweise von Saetzen der formalen Logik in dieser selbst fuehren. Eine
+formale Logik erklaert sich also quasi nicht von selbst. Ich meine, dass die
+Logik, von der ich gerade spreche, so eine Art Urlogik ist, mit der formale
+Systeme aufgebaut werden koennen, um die Urlogik oder besser die Vielfaeltig-
+keit der (logischen) Sprache zu verstehen. Heutzutage gibt es sehr viele for-
+male logische Systeme, darunter auch widerspruchstolerante, die versuchen in
+gewisser Weise Ausdrucksweisen der natuerlichen Sprache nachzubilden.
+
+
+Genauer: der formalen Logik. Die (Ur)Logik ist apriori. Meiner Ansicht nach
+sind alle formalen Systeme der Logik nur zur Analyse der Logik da; in welchem
+System kann ich "was" ausdruecken und mit entsprechenden Kalkuelen arbeiten.
+Formale Systeme werden also aufgestellt, um sie auf ihre Anwendbarkeit hin
+zu untersuchen. Ein Kalkuel, welches korrekt ist, kann ich dazu verwenden, um
+auch logische Folgerungen (gueltige Saetze) zu gewinnen. Eigentlich ist es nur
+ein "Klarwerden" ueber die (Ur)Logik, die wir tagtaeglich anwenden. Also ei-
+gentlich nichts geheimnisvolles.
+
+Die Logik wird also nicht konstruiert, sondern in formalen Systemen beschrie-
+ben, klargestellt; sie wird eher rekonstruiert.
+
+
+Weil wir es eben nicht konstruieren, sondern rekonstruieren. Wir entdecken die
+logischen Gesetze!
+
+
+Gruss
+
+Edo.
+-- 
+Die Philosophie ist nur deshalb so schwierig, weil die Philosophen immer
+so lange Woerter gebrauchen. (Dario Schwiegermutter)
+
+Was *ist* bedeutet, ist und muss deshalb von *ist* verschieden sein, weil
+'*Ist* ist' ein total unsinniger Satz waere. (Detmer Widerlegung)

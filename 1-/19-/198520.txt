@@ -1,0 +1,86 @@
+Das waere dann aber nicht der Begriif der "Wahrheitsnaehe" bei Seidenfuss,
+oder?
+
+
+Mir scheint die Zumessung von Falsifikationsgrade, die man gemaess
+Hasenkrugs Vorschlag 3, der mir am ueberzeugendsten erscheint, nur
+mittels einer Halbordnung messen kann, nicht so klar zu sein.
+T2 ist zwar bestimmter als T1, nicht aber weniger bestimmt als T3,
+welche zweifellos allgemeiner als T2 ist.
+
+
+Also, ich versuche nun eine Formalisierung:
+Wir stellen Beobachtungen von Entitaeten, Messungen von Eigenschaften,
+bezeichnet als x_i, i aus einer geeigneten Indexmenge I.
+Zu jedem x_i laesst sich eine Eigenschaft y_i beobachten, oder
+vorsichtiger gemaess Hasenkrug ausgedrueckt: Wir setzen fest:
+"y_i gehoert zu x_i" fuer i aus I.
+Wir nehmen ferner an, das ist hier die Wahrheit, dass ein funktionaler
+Zusammenhang y_i=f(x_i), i in I,  besteht.
+Unsere Theorie besteht nun darin, dass wir eine Funktion f'
+vorschlagen, so dass y_i=f'(x_i) gilt, exakt fuer die angestellten
+Beobachtungen oder approximativ, was spezielle Ueberlegungen
+erfordert.
+
+Beispiel 1: (exakter Zusammenhang)
+Wir "beobachten" folgende (x,y)-Tupel:
+(0,0), (-2, 8), (2,8)
+Eine zunaechst fuer (0,0) angenommene Theorie f'(x) = sgn(x)*x^2
+wird durch die weiteren falsifiziert und z. B. durch
+f''=4x ersetzt.
+Der "wahre" Zusammenhang sei aber f(x)=x^3.
+Welche Theorie ist naeher an der Wahrheit?
+
+Beispiel 2: (approximativer Zusammenhang)
+Wir gehen davon aus, dass moeglicherweise ein "exakter" Zusammenhang
+nicht besteht, jedenfalls nicht "einfach" gefunden werden kann.
+Wir parametrisieren unsere Theorie, indem wir einen bestimmten
+Funktionstyp annehmen, z. B. ein Polynom n-ten Grades (begruendet etwa
+durch Taylorentwicklung von f) oder eine Ueberlagerung von
+Exponentialfunktionen wie in einem neuronalen Netz, zu dem Parameter
+zu bestimmen sind. Die Theorie sei bezeichnet als f'(x,p)= y, wobei p
+ein Parameter ist. Unser Problem lautet nun
+Minimiere fuer p aus einer Parametermenge P die Summe (ueber i aus B,
+einer endlichen Untermenge von I) der Ausdruecke (y_i - f'(x_i,p)^2.
+Wenn man nun hierzu ein geeignetes mathematisches Verfahren benutzt,
+kann man sicherstellen, dass man ueberhaupt erst mal eine
+einigermassen geeignete Theorie f'(.,p) findet.
+Es ist aber im allgmeinen weder klar, dass f' (selbst im Bezug auf die
+endlich vielen Beobachtungswerte (i aus BI)) global optimal ist.
+(Das Optimierungsverfahren kann ggfs. in einem lokalen Optimum
+steckenbleiben.) noch ist im allgemeinen die Eindeutigkeit
+gewaehrleistet. Selbstverstaendlich ist auch, wie in Beispiel 1, die 
+Verallgemeinerungsfaehigkeit von f(.,p) fuer nicht beobachtete oder
+bislang nicht verwendetet Tupel (x,y) nicht gewaehrleistet.
+
+[...]
+
+
+Mir scheint es sinnvoll, hoechsten zu diskutieren, ob gewisse
+Homomorphieeigenschaften erfuellt sind. Von Bijektion kann 
+bei einer ueberaebzaehlbaren Urbildmenge und einem hoechstens
+abzaehlbaren Bildraum nicht die Rede sein. Ueberhaupt scheint
+mir die Verankerung des Bildraumes im Geist fraglich zu sein.
+Sicher ist das so bei Hardekopf, bei dem die Welt der Abbilder (und
+Trugbilder) einen objektiven Charakter hat (was z.B. auch Hasenkrug 
+in einer Fussnote andeutet). 
+
+
+Hier muesste man nun terminologische Differenzen zwischen Adaequation
+und Identitaet thematisieren, was mich hier nun ueberfordern wuerde. 
+
+
+Die Assoziation von Seele/Geist mit einem Organ, sagen wir in der
+Spanne von Pfankuch bis Kreuder, halte ich auch nicht fuer entscheidend.
+
+Ich stimme dem aber zut, dass aus herrschenden Tradition dieses
+Dualitaetsdiskurses die in gewisser Weise vordualistische Philosophie
+bei Rauprich oder Hardekopf nicht leicht zu beurteilen ist.
+
+
+Hier muesste ich anfuegen: Gemaess dem anderen Wahrheitsbegriff.
+
+
+Diesen Themenbereich habe ich mal abgetrennt.
+
+Gruss, Alberto.

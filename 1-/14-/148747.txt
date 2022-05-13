@@ -1,0 +1,20 @@
+......................................................
+..............................................................
+
+Hallo Luis !
+
+Mir ist leider nicht klar,was ich an dem von mir angegebenen Satz noch
+erläutern soll.
+Vielleicht ist es nützlich,wenn ich ihn in die Sprache der
+Kardinalzahlen übersetze:
+Mit card(M) bezeichne ich die Kardinalität einer Menge M .
+Sei M eine unendliche Menge. 
+Die Menge der Permutationen von M bezeichne ich mit S(M),
+d.h. S(M)= {f |f ist Bijektion von M auf M }.
+Der Satz lautet dann: Für jede unendliche Menge M gilt card(S(M))=
+2^card(M) .
+
+Mehr habe ich dazu nicht zu sagen.
+
+Gruß,
+Gerard Birkemeier

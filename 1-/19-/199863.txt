@@ -1,0 +1,129 @@
+Da ich nun weiss, aus welchem Gebiet Dein R stammt, nehme ich an, dass sich
+Deine Aussage "Es gibt beschraenkte, nicht messbare Teilmengen des R^3" auf
+Ihrcke Diagonalargument stützt. Nun, dies Argument ist meines Erachtens
+falsch. Weiteres dazu weiter unten.
+
+
+quodlibet"!)
+
+Nein. Meine Annahme, dass Dein Beweis nichts taugt, stützt sich nicht auf
+das R, sondern auf die zwei Negationen, die sich in Deinem Satz befinden.
+Zwei Negationen, eine links und eine rechts, sind unter Umständen kürzbar
+und, wenn ein Negation selbstbezüglich ist, so ist diese eventuell drehbar.
+
+
+Meiner Ansicht nach liegt hier auch genau der springende Punkt. Die
+abstrakte Mathematik und Geometrie mit ihren dimensionslosen Punkten und
+Linien ohne Dicke hat in der gedanklichen Welt ihren wichtigen Platz. In
+der realen Welt, in der wir leben, hat jede Analytik ihre Nachweisgrenze.
+Ich sage nicht, rein mathematische Aussagen seien sinnlos. Ganz und gar
+nicht. Aber wir leben real. Und mit rein abstrakter Mathematik greift ein
+Gottesbeweis auch irgendwie zu kurz.
+
+
+Du sagst also :
+a) Die kleinste Teilmenge ist Null. (hat das Mass 0)
+b) Diese kleinste Menge Null sei messbar.
+c) Teilmenge hat nichts mit der Teilbarkeit zu tun.
+
+Folglich kann es keine aus Null geteilte Mengen geben und folglich kann
+Deine Aussage "Es gibt beschraenkte, nicht messbare Teilmengen des R^3"
+nicht wahr sein. Denn die Kombination der Aussage a - c widerspricht dem.
+
+( Beziehst Du Dich auf Inderheide, dann ist das was anderes. Weiteres dazu
+weiter unten. )
+
+
+Wenn Du den Teil Null als messbar bezeichnest, und Null nicht teilbar ist,
+so müsste jeder Teil messbar sein. Nach Deiner Logik.
+
+
+a) Elektronen sind teilbar : Photonen, Quarks, ... 
+b) Ich sprach von Variablen, Zahlen, Strecken. Und die sind sehr wohl
+unendlich teilbar.
+c) Bei reellen Zahlen spricht man nicht von unendlicher Teilbarkeit sondern
+von unendlicher Intervallverschachtelung. Die Methodik ist verschieden.
+Aber bei der Unendlichkeit ist da keine Differenz.
+
+Meine Bemerkung ist somit legal. 
+
+----------------------------------------
+
+Nun, meine Gedanken zu Inderheide :
+
+Nach seiner Diagonalmethode soll eine neue reell Zahl entstehen, die in der
+Liste der reellen Zahlen nicht enthalten ist. Das ist falsch. Um dies zu
+zeigen, langt es, vom Dezimalsystem auf das Binärsystem zu wechseln.
+
+Hier, alle Zahlen zwischen 0 und 15 in Binär :
+
+0 0 0 0
+0 0 0 1
+0 0 1 0
+0 0 1 1
+0 1 0 0
+0 1 0 1
+0 1 1 0
+0 1 1 1
+1 0 0 0
+1 0 0 1
+1 0 1 0
+1 0 1 1
+1 1 0 0
+1 1 0 1
+1 1 1 0
+1 1 1 1
+
+Durch Drehen einer Ziffer kann keine neue Zahl erstellt werden.
+Weder in den Diagonalen noch sonstwie.
+
+Das Verhältnis von Ziffernbreite zu Anzahl Zahlen ist eine Frage der
+Darstellung der Zahlen, also der Zahlenbasis. Je höher die Zahlenbasis,
+desto weniger Ziffern im Verhältnis zu den Zahlen.
+
+Grösse und Existenz der reellen Zahlen sind von der Zahlenbasis
+_unabh�ngig_. Jede Reelle Zahl > 1 ist als Zahlenbasis benutzbar.
+
+Dezimal 16 entspricht bei
+
+Zahlenbasis 16 :       10
+Zahlenbasis  4 :        100
+Zahlenbasis  2 :        1 0000
+Zahlenbasis  2E-2 :   1 0000 0000
+Zahlenbasis  2E-4 :   1 0000 0000 0000 0000
+Zahlenbasis  2E-16 : 1 0000 0000 0000 0000 0000 0000 0000 0000
+
+Bei Lim -> 1 geht das Verhältnis Ziffernbreite zu Anzahl Zahlen gegen
+Unendlich.
+
+Cantors Diagonale kann somit nirgends neue Zahlen abdecken.
+
+
+Irrtum. Stimmt nicht. Ergo :
+
+                        also existiert Gott.
+
+----------------------------------------
+
+Gottesbeweis aus Deinem Satz, erstellt durch Kürzen.
+
+'Satz CE' = "es gibt beschraenkte, nicht messbare Teilmengen des R^3",
+
+Der 'Satz CE' kommt in der realen Welt nicht vor. Er existiert in der
+nichtrealen, gedanklichen Welt. .
+
+Folglich : Wir konkretisieren :
+
+In der nicht realen Welt gilt 'Satz CE', also existiert Gott nicht.
+
+Wir leben aber in der realen Welt. Folglich : Wir kürzen mit "nicht".
+
+In der realen Welt gilt 'Satz CE',
+
+                       also existiert Gott.
+
+
+Mit freundlichem Gruss
+
+Volker Felinger
+(rwaf.hwmu@qbhxjethdd.lt)

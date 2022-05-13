@@ -1,0 +1,21 @@
+Hallo,
+
+
+Langweilig ist ein System vor allem dann, wenn seine Zustände vorhersehbar
+sind. Kann ich leicht feststellen, was ein System zu einer betsimmten Zeit
+macht....  dann wird es fad.
+
+Nun, wenn die Zustände eines Computers so leicht vorhersehbar sind und somit
+langweilig, warum bekommen wir Menschen von eben diesem beim Schach so den
+Buckel vollgeschlagen ? Es muß doch ein leichtes sein die 'Gedankengänge'
+des Computers vorherzusagen ?
+
+Ich bin SW-Entwickler und das Prinzip: 'Der Computer macht nur was ich ihm
+sage' und 'Der kann mich ja gar nicht überraschen' ist leider etwas ungenau.
+Das Programm eines Computers gibt diesem die Rahmenbedingungen zum
+Bearbeiten der Daten, die enorme Geschwindigkeit und Menge der Daten macht
+jede Vorhersehbarkeit der Verarbeitung im Computer verdammt schwierig (bzw.
+unmöglich).
+
+mfG
+Angelo

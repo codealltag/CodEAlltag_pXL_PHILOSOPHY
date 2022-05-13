@@ -1,0 +1,3 @@
+Das geht leider so nicht, wenn b={a} ist. Neuer Versuch: Sei a:={},
+b:={{{{}}}}. Dann ist {a}={{}}, {b}={{{{{}}}}} und {{a}}={{{}}}. Damit
+geht es dann aber.

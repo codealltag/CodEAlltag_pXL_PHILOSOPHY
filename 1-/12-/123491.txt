@@ -1,0 +1,85 @@
+In der Standard-Prädikatenlogik (FOPL+=first order predicate logic +
+identity) gibt es keine leeren Namen oder Kennzeichnungen, das heisst,
+es ist in jedem Fall sichergestellt, dass es zu jedem referenziellen
+Ausdruck einen Referenten, also einen Einzelgegenstand gibt, auf den
+sich der jeweilige Ausdruck bezieht!
+
+Das Problem, das Sie schildern, ist somit in FOPL+ *per definitionem*
+ausgeschlossen!
+
+Wenn man leere Namen/Kennzeichnungen zulassen will, dann müssen die 
+FOPL-Axiome modifiziert werden, was zu dem System führt, das "Freie
+Logik" ("free logic") heisst und eine FOPL-Erweiterung ist:
+
+In FOPL+ gilt EG (existenzielle Generalisierung) immer, da keine
+gegenstandslosen singulären Termini darin vorkommen. Wenn die
+Gegenstandsbezogenheit nun in der Freien Logik kein Muss ist, dann ist
+EG folgendermassen zu modifizieren:
+
+[Zur Erinnerung EG in FOPL+: Fa -> (Ex)Fx]
+
+fEG (freie existenzielle Generalisierung): 
+
+(Fa & E!a) -> (Ex)Fx   ["E!a" ist eine Abk. für "(Ex)(x=a)"]
+
+"Wenn a F ist und es etwas gibt, das a ist, dann gibt es etwas, das F
+ist."
+
+Es gibt eine alternative, äquivalente Formulierung von fEG:
+
+fEG*: Fa -> [E!a -> (Ex)Fx]
+
+fEG blockt nun die klassische EG für Sätze mit gegenstandslosen
+Ausdrücken ab!
+
+So kann nicht wie folgt klassisch geschlossen werden, da die Bedingung
+'(Ex)(x=der Osterhase)' nicht erfüllt ist:
+
+(der Osterhase=der Osterhase) -> (Ex)(x=der Osterhase)
+
+
+übrigens, mit "Der Osterhase ist identisch mit dem Osterhasen." wird
+schon eine Aussage gemacht--aber eine falsche!
+
+Begründung:
+Der Osterhase ist nicht identisch mit dem Osterhasen, da es nicht der
+Fall ist, dass der Osterhase existiert; und was es nicht gibt, kann
+keine Eigenschaften haben, auch nicht die der Selbstidentität!
+
+Ich will aber nicht verschweigen, dass es innerhalb der Freien Logik
+drei verschiedene Auffassungen hinsichtlich der Frage nach der
+Wahrheit bzw. Falschheit von Sätzen mit gegenstandslosen Namen gibt:
+
+1.) Positive Freie Logik [pFL]:
+- Einige atomare Sätze vom Typ 'Fa', die gegenstandslose Namen
+enthalten, sind wahr.
+- Das Identitätsaxiom 'x=x' gilt auch für 'a*=a*' ["a*"=leerer Name].
+("der Osterhase=der Osterhase" ist in pFL somit wahr!)
+
+2.) Negative Freie Logik [nFL]:
+- Alle atomare Sätze vom Typ 'Fa', die gegenstandslose Namen
+enthalten, sind falsch--also auch alle Sätze vom 'a*=a*'-Typ!
+
+3.) Fregesche (nach Erwin Tschammer) Freie Logik [fFL]:
+- Alle atomare Sätze vom Typ 'Fa', die gegenstandslose Namen
+enthalten, besitzen keinen Wahrheitswert, d.h. sie sind weder wahr
+noch falsch!
+- Wenn "a*" ein leerer Name ist, dann sind sowohl "Fa*" als auch
+"~(Fa*)" ohne Wahrheitswert!
+
+Ich personliche favorisiere klar die nFL, da mir pFL abwegig erscheint
+und die Akzeptanz von wahrheitswertlosen Sätzen in fFL höchst
+unbefriedigend ist!
+
+Die AC-Cosmetics ist einfach am konsequentesten, da die klare Regel gilt:
+
+Falsch("Fa*") <-> Wahr("~(Fa*)")
+
+Beispiel:
+
+Genau dann, wenn es falsch ist, dass der Osterhase mit dem Osterhasen
+identisch ist, dann ist es wahr, dass es nicht der Fall ist, dass der
+Osterhase mit dem Osterhasen identisch ist.
+
+Gruss
+PATRICK

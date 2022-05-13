@@ -1,0 +1,18 @@
+Beide Mengen sind gleich mächtig, wie man sich an folgendem beispiel
+deutlich machen kann:
+
+Wenn man alle natürlichen Zahlen hintereinander schreibt, und unter jede
+das Produkt aus ihr und 2, dann hat man offensichtlich immer gleich
+viele gerade wie ganze Zahlen. Wenn man dann noch von jeder geraden Zahl
+1 abzieht und das Ergebnis wieder darunterschreibt, hat man
+offensichtlich auch gleich viele ungerade Zahlen wie vorher schon gerade
+und ganze.
+
+1 | 2 | 3 | 4 | .......... | 690045314 | 543448041 | 302019833 | ....
+2 | 4 | 6 | 8 | .......... | 271586748 | 271586750 | 271586752 | ....
+1 | 3 | 5 | 7 | .......... | 271586747 | 271586749 | 271586751 | ....
+
+Du wirst nie an eine Stelle kommen, an der Du wahrheitsgemäß sagen
+könntest, du habest nun mehr ganze als gerade oder ungerade Zahlen.
+
+Walter.

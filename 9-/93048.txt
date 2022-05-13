@@ -1,0 +1,51 @@
+linke Kugel                rechte Kugel
+     o---------------------------o         x  Beobachter
+     <---------- 1000m ----------><--300m-->
+
+Es geht um gleichzeitige Ladungsverschiebung zwischen den Kugeln, wobei
+der Verbindungsleiter zwischen den Kugeln immer (im wesentlichen) neutral
+bleibt und die Kugeln zu jedem Zeitpunkt gleich stark, aber umgekehrt
+geladen sind.
+
+
+Das ist offensichtlich die einzige Möglichkeit, das Paradox zu umgehen:
+
+Wir müssen annehmen, dass durch Induktion (bzw. Änderung des vom
+Leiter verursachten Magnetfelds) während der 999 Nanosekunden ein
+elektrisches Feld entsteht, dessen Fluss, addiert (integriert) über
+die Kugeloberfläche mit 300 m Abstand von der rechten Kugel, genau der
+Ladungsmenge entspricht, die die Kugel nach 999 ns erreicht hat.
+
+Dass dieser Rettungsversuch in keinster Weise funktionieren kann, habe
+ich schon in meinen Postings vom 28. Januar 2002 bis zum 9. Februar 2002
+aufgezeigt: http://bsizjxs.vot.yd/fwqyppus/lxnebi0.xfrc#jo
+
+Man kann solche Rettungsversuche auch ganz allgemein (mittels Gedanken-
+experiment) widerlegen, indem man einen partiell statischen Zustand
+erzeugt:
+
+Während z.B. 6000 ns soll ein konstanter Strom von 1 Mili-Ampöre
+fliessen. Beide Kugeln laden sich dann linear von 0 auf 6 Nano-Coulomb
+auf. Betrachten wir die Situation 5000 ns nach Einschalten des Stromes.
+Die Ladung der rechten Kugel hat dann 5 Nano-Coulomb erreicht. Der über
+die Kugelfläche in 300 m Abstand von der aufladbaren Kugel integrierte
+Fluss beträgt beträgt aber offensichtlich nur 4 nC, denn das letzte
+Nano-Coulomb ist erst im Zeitraum der letzten 1000 ns bei der Kugel
+eingetroffen und kann sich somit in 300 m Entfernung noch nicht
+bemerkbar machen.
+
+Aber auch der Leiter kann unmöglich für ein elektrisches Feld auf
+dieser Kugelfläche im Abstand von 300 m relevant sein. (Die letzte
+Stromänderung liegt 5000 ns zurück und gemäss Maxwell entfernen sich
+elektrische und magnetische Felder in dieser Zeit 1500 m von ihrem
+Ursprung.)
+
+Also wenn das nicht ausreicht, Frank zu widerlegen, wie soll es dann
+überhaupt möglich sein, irgend etwas in der Wissenschaft zu widerlegen?
+
+Und ohne Widerlegung bestehender Glaubenssätze ist kein wesentlicher
+wissenschaftlicher Fortschritt möglich!
+
+
+Gruss,
+Detlef

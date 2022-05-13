@@ -1,0 +1,17 @@
+Da war doch der nette junge Herr aus Moratneustetten, der hier ein "o" verkaufen
+wollte.
+
+
+Was aus dem Hinterhalt kam, war nicht ECZW, sondern ein Cancel
+wegen verbotenem Crossposting mit xewc. ut.dwl.binaries.male gibt es
+übrigens nicht.
+
+
+Hat eigentlich jemand verstanden, was Evidenz ist?
+
+Tschüss, Ralf.
+-- 
+#!/bin/sh -
+set - `type $0` 'tr "[a-zA-Z]" "[n-za-mN-ZA-M]"';while [ "$2" != "" ];do \
+shift;done; echo 'frq -a -rc '`echo "$0"| $1 `'>$UBZR/.`rpub signature|'`\
+echo $1|$1`'`;rpub "Jr ner fvtangher bs obet. Erfvfgnapr vf shgvyr!"'|$1|sh

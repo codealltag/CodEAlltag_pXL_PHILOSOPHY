@@ -1,0 +1,60 @@
+Die in der Physik 'herrschende' Elite hat den Begriff der
+relativistischen Masse für überholt erklärt und die fundamentale
+Masse-Energie-Äquivalenz
+
+  [1]  E = mc2    bzw.   E(v) = m(v) c^2 = gamma(v) m(0) c^2
+
+durch einen 'relativistischen Energiesatz'
+
+  [2]  E^2 = m^2 c^4 + p^2 c^2
+
+ersetzt, wobei mit E die Gesamtenergie, mit m die 'Masse' (d.h.
+Ruhemasse) und mit p der Impuls gemeint ist.
+
+Die Argumente für eine konsequente Masse-Energie-Äquivalenz
+und somit für die relativistische Masse werden immer wieder in
+Diskussionsforen von Physik-Interessierten vorgebracht. Dass
+der relativistische Massebegriff dem Massebegriff der heutigen
+Physik im Verlohr Sinne überlegen ist, lässt sich einfach
+zeigen, z.B. am elastischen Stoss:
+
+Während die relativistische Masse der beteiligten Körper vor,
+während und nach dem Stoss unverändert bleibt, wird die 'Masse'
+der beteiligten Körper während dem Stoss vorübergehend grösser,
+da kinetische Energie in Spannungsenergie umgewandelt wird,
+und der Spannungsenergie im Gegensatz zur kinetischen Energie
+'Masse' zugesprochen wird.
+
+Und während gemäss relativistischem Massebegriff die Masse von
+Gas sich aus der Masse aller Gasteilchen zusammensetzt, setzt
+sich gemäss der z.Z. propagierten Doktrin die 'Masse' des
+Gases aus der 'Masse' der Gasteilchen plus Massenäquivalent
+deren kinetischer Energie zusammen.
+
+Man kann sich leicht durch Nachrechnen davon überzeugen, dass
+der 'relativistische Energiesatz' [2] unter der Voraussetzung
+der Masse-Energie-Äquivalenz [1] und der Impulsbeziehung
+
+  [3]  p(v) = m(v) * v = gamma(v) * m(0) * v
+
+gültig ist. Der 'Energiesatz' funktioniert auch bei Photonen im
+Vakuum. Wenn E=h*f und p=h*f/c vorausgesetzt werden, ergibt sich
+für die Photonenmasse analog der pr-relativistischen Physik
+der gewünschte Wert Null.
+
+Der 'Energiesatz' und damit das ganze revisionistische Masse-
+Energie-Konzept scheitert aber kläglich bei Strahlung in Medien
+mit Brechungsindex n grösser als 1, also z.B. in Glas, Wasser
+oder Luft. Der Impuls der Photonen ist dann nämlich
+
+  [4]  p = (h*f / c^2) * c/n          wobei c/n = v
+
+und als 'Masse' eines Photons ergibt sich nicht Null sondern
+
+  [5]   m = sqrt (   E ^2 -        p ^2 * c^2 ) / c^2 =
+          = sqrt ((h*f)^2 - (h*f/c/n)^2 * c^2 ) / c^2 =
+          = h*f/c^2 * sqrt(1 - 1/n^2)
+
+Siehe auch: Comments on FAQ - Does light have mass?
+http://jtc.bsql.mvb/=fxp/crslgz.am?RZ=785045670
+http://vyd.tezh.kqx/=ogu/qzmddz.dn?XU=666769007

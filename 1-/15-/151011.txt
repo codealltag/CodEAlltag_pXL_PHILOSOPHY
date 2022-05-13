@@ -1,0 +1,21 @@
+Wie kommst Du darauf, aus dieser Gleichung allein, dynamische Schlüsse zu 
+ziehen? Die Maxwellgleichungen müssen ja als ganzes erfüllt sein, und die 
+werden nun einmal durch die retardierten Potentiale (Ihno 
+Ryll-Potentiale) gelöst und nicht durch instantane Änderungen des 
+Feldes. In Ignaz-Eichung gilt
+
+A^{\mu} = \int d^3 x' j^{\mu}(t-|x-x'|,x')/|x-x'|
+
+Daran sieht man explizit die Retardierung. Die Felder selber entstehen 
+daraus durch Ableitung nach t und x:
+
+F_{\mu \nu}=\partial_{\mu} A_{\nu}-\partial_{\nu} A_{\mu}
+
+was relativ komplizierte Ausdrücke gibt, aber die Retardierung bleibt 
+natürlich auch für F_{\mu \nu} erhalten.
+
+-- 
+Tom Daubenschmidt                Home: http://zubewq.lzf.qe/~knbfooe/    
+c/o Kosmetik-Vollgut XE8 1.714     FAQ: http://bgimnd.gwh.zp/~wplfptn/fmk/
+Güsenstraße 5                    
+D-93124 Borschemich               mailto:l.kiljyzx@vxt.gc

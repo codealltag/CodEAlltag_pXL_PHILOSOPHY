@@ -1,0 +1,64 @@
+Dario Steinmetzler <dfrjfuj@grtmc.kcoaft.gr>:
+:> Das ist ein genauso bescheuertes Beispiel wie das mit dem Schwan. Das
+:> fuehrt nur zu Missverstaendnissen. Das Problem ist, dass "Schwan" eine
+:> "definitive" Kategorie ist; wir teilen Tiere in Klassen ein und dabei
+:> spielt die Farbe keine unwesentliche Rolle. Realitaetsnaeher waere es,
+:> [...]
+
+: Beobachtungen von schwarzen Schwaenen sind der Anlass, die Theorien
+: genauer zu formulieren [...]
+
+: Frerick verwendet das Beispiel des weissen Schwanes mit Bedacht, [...]
+
+Ich sehe, ich bin nicht verstanden worden. Ich walze es aus:
+
+Ob Frerick einen Nutzen aus dem Schwanbeispiel zieht, der groesser ist als
+die Konfusion, die es stiftet, weiss ich nicht; ich weiss nur, dass ich
+niemandem, der keinen Plan hat und es missversteht, deswegen boese sein 
+kann.
+
+Was ist denn ueberhaupt "ein Schwan"? Frerick definiert das nicht -- 
+zumindest "das Poppersche Schwanbeispiel", wie es immer zitiert wird,
+tut das nicht. Was ist ein Schwan? Ohne weitere Definition ist das eine
+taxonomische Kategorie, eine reine Definitionsfrage. Nimm an, Herr Z
+sei Taxonom und er habe bisher nur weisse Schwaene gesehen und die Klasse 
+"Schwan" definiert. In der "Taxonomiebibel" steht dann drin: Schwaene sind 
+Voegel, langhalsig, garstig, usf.usf., mit weissem Gefieder. Jetzt sieht
+Herr Z einen schwarzen Schwan. Nach seiner Taxonomiebibel ist dieser
+Vogel kein Schwan! Vielleicht wird die Taxonomie ueberdacht und in der
+naechsten Auflage steht dann drin: Gefieder weiss oder schwarz. Und jetzt
+kommt der huepfende Punkt:
+
+  Das war weder Verifikation noch Falsifikation, sondern schlicht
+  das Anpassen einer Definition.
+
+Anders waere es, wenn Herr Z ein zweites Buch (Anatomie) haette, in dem z.B. 
+stuende "Alle Schwaene haben einen Kropf". Wenn Herr Z einen Schwan
+nach der Taxonomie klassifiziert haette, koennte er die Anatomie anwenden
+und schliessen:
+
+ S ist ein Schwan, Anatomie |-- S hat einen Kropf
+
+Falls Herr Z dann einen Schwan findet, der keinen Kropf hat, ist die
+Anatomie falsifiziert. Und jetzt kommt das naechste Betruebnis:
+
+Herr Z geht mit seinem kropflosen Schwan zum Anatomen und macht ein
+Fass auf. Der Anatom meint ganz cool:
+
+ Interessant. Bringen Sie's in den Keller, da lagern die Foeten mit
+ Wasserkopf und die siamesischen Zwillinge in Formalin.
+
+Da die Biologie sich nicht so sehr um das Einzelindividuum kuemmert, 
+das eh in ein paar Jahren die Wuermer fressen, sind auch die Allsaetze
+weniger streng, ganz abgesehen von der ohnehin vorhandenen Tendenz
+"biology is not rocket science". Wenn Herr Z eine _Population_ kropfloser
+Schwaene entdeckt haette...
+
+Aus all diesen Gruenden halte ich, wenn es schon die Biologie sein muss,
+mein Beispiel   phaenotypisch Mann |-- gonotypisch XY fuer besser.
+
+[Ich habe fuer die Einfachheit des Arguments unterschlagen:
+  - Die Identifikation von z.B. 9 von 10 Merkmalen der Taxonomie erlaubt
+    fuer gewoehnlich einen guten Schluss auf das 10.
+  - es gibt innerbiologische Gruende, warum sich etwas z.B. "Fisch" nennen
+    darf]

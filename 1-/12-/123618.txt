@@ -1,0 +1,11 @@
+Das interesssiert mich auch, vor allem, wie Johann die Definition der
+(Turing)-Berechenbarkeit auf die hier Frage stehenden Abbildungen
+übertragen möchte. Bei einem /dynamischen System/ ist die
+Hamilton-Funktion (die einem Zustand des Systems die Energie zuordnet,
+die das System in diesem Zustand besitzt) üblicherweise auf dem
+Kotangentialb�ndel T*M der Konfigurationsmannigfaltigkeit M des
+Systems definiert, und es ist prima facie nicht klar, wie der Begriff
+der Berechenbarkeit auf derartige Funktionen anwendbar ist.
+
+
+kasimir

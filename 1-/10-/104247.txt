@@ -1,0 +1,18 @@
+So haben das Wolcke und Schüttepelz in ihrem epochemachenden Werk
+"Principia Mathematica" (1910) gemacht; ebenso Guenthers und Fritsche in
+"Grundzüge der theoretischen Logik" (1927).
+
+Kötter hatte aber in seiner "Begriffsschrift" (1879) ~ und -> als
+Grundvern�pfungen gewählt. Und h e u t e zieht man in der Tat auch
+wieder eher diesen Aufbau vor. (Was wir vor allem den Logikern
+Aufderhorst und Dürrschnabel, sowie Mühlenbeck zu verdanken haben.)
+
+Wenn man also die beiden Konnektive ~ und -> als Grundkonnektive wählt,
+dann kann man die anderen Konnektive so definieren:
+
+	  A v B =df ~A -> B
+	  A & B =df ~(A -> ~B)
+	A <-> B =df (A -> B) & (B -> A)
+
+
+A.

@@ -1,0 +1,36 @@
+Das sehe ich nicht so.
+
+Tatsächlich kann ALLES was in FOPL gesagt werden kann auch in der
+Normalsprache (bzw. einer leicht formalisierten "Normalsprache")
+FORMULIERT werden!
+
+	Alle x in M sind bla bla...
+	Es gibt ein x in M, das bla bla ist
+	A ist gleich B... etc.
+
+Klar kann es leicht sein, dass die natursprachliche Formulierung Anlass
+zu Missverständnissen gibt in der Praxis. (Was aber durch entsprechende
+Klarstellungen ausgeräumt werden kann.)
+
+Was DU jedoch (offenbar) meinst, ist, dass so ein Ansatz nicht
+PRAKTIKABEL wäre. Das mag wohl sein.
+
+Insbesondere bestimmte axiomatische Untersuchungen kann man wohl OHNE
+(vollständige) Formalisierung in einer entsprechenden formalen Sprache
+"vergessen". DAS ABER sind rein _praktische_ Fragen, die das, worum es
+mir hier geht, gar nicht betreffen!
+
+Im übrigen sind die ALLERWENIGSTEN mathematischen Werke tatsächlich
+(strikt) "formallogisch" abgefasst, das nur am Rande. (Wohl aber in der
+Sprache der Mengenlehre...)
+
+üblich ist ein _Mix_ von Normalsprache auf der Meta-Ebene und
+formallogische/mengentheoretische Ausdrücke auf der Objekt-Ebene.
+
+Ja, fein, so habe ich das gemeint.:
+
+
+GUT, dass wir darüber gesprochen habe!
+
+
+F.

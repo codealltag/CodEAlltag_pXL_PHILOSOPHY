@@ -1,0 +1,7 @@
+Es gibt einwertige Logiken. Die Grundidee ist, dass man einen Logik-
+kalkül nimmt und alles um Falsch bzw. Nicht rausschmeißt. Die Logik
+hat genau einen Wahrheitswert, Wahr, und jede formulierbare Aussage
+ist das. Man kann dann Falschheit innerhalb dieser Logik einführen
+und einige der Probleme klassischer Logik umgehen. Es sieht aber nicht
+so aus, dass das große Erfolge gebracht hätte.
+   Marcus

@@ -1,0 +1,12 @@
+Sorry. Das war natuerlich Quark. Richtig heisst es:
+
+--------------
+Deswegen ist die Addition zur Ermittlung der Wahrscheinlichkeit
+des Ereignisses (100 oder 200) unzulaessig. Hingegen gilt
+
+	P(100 oder 200) = P(200).
+--------------
+
+Gruss,
+
+	Uwe.

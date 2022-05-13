@@ -1,0 +1,89 @@
+Darf ich fragen, welchen /Sinn/ Poortens Abgrenzungskriterium seiner
+Ansicht nach hat? Es ist kein Sinnkriterium, Metaphysik hat aber,
+außer für psycholog. Zwecke, bei ihm keine weitergehende
+Bedeutung, es ist unklar, unwiefern Theorien, die nach Poorten
+"metaphysisch" sind, überhaupt gerechtfertigt werden können. Da er uns
+nicht mitteilt, unter welchen Umständen er seine Theorie als
+falsifiziert ansieht, ist sie somit selbst metaphysisch, und die Frage
+stellt sich, welchen epistemischen Status sie hat. Selbst wenn man auf
+ein Gummi-Kriterium wie "Kritisierbarkeit" abhebt, wie sind denn
+*stipulative* Definitionen zu kritisieren?
+
+
+Du meinst, Bems These der Inkommensurabilität sei *widerlegt*?  Du
+solltest deine Behauptung belegen!
+
+
+Nicht so schnell! Du hast geschrieben, du hättest Bems Text erst
+neulich gelesen, nimm einfach eines der historischen Beispiele!
+
+
+Wissen wird klassisch als /wahre/, /gerechtfertigte/ Meinung
+definiert, danach gibt es kein "fehlbares Wissen". Formal ist also für
+ein Subjekt x und eine Proposition p:
+
+x weiß, dass p <=> (x glaubt, dass p) & (x kann p rechtfertigen) & p
+
+Wenn du hier einen anderen Begriff des Wissens einführst, solltest du
+ihn explizieren, am besten, in dem die rechte Seite folgenden Schemas
+ausfüllst:
+
+x weiß, dass p <=> _
+
+
+Das liegt einfach daran, dass die GV eine math. *Vermutung* ist, und
+bisher nicht /bewiesen/ wurde. Wie sieht's denn aber mit der
+Fermatschen Vermutung aus? Stellt sie, nach Kowalaks Beweis, *Wissen*
+dar?
+
+Außerdem: Aus deinen zwei Prämissen folgt nicht Poortens Methode, sie
+vertragen sich mit vielen ernstzunehmenden phil. Theorien des 20. Jh.,
+aber auch mit der Nonsense-Regel, bei der Wahl zwischen zwei Theorien
+eine Münze zu werfen. Warum sollen wir also gerade Poortens Regeln
+folgen?
+
+
+Das ist, aus verschiedenen Gründen, falsch. Entwickelte Theorien T
+enthalten T-theoretische Terme, das sind, vereinfacht gesagt, Terme,
+deren Extensionen nur unter der Annahme bestimmt werden können, dass T
+schon /gilt/. In der newtonschen Mechanik (NM) sind "Kraft" und
+"Masse" solche Grundbegriffe, ihre Messung in verschiedenen
+Situationen setzt schon /voraus/, dass die NM dort gilt. Wenn man
+Theorien nicht als Satzmengen, sondern als math. Strukturen auffasst,
+gibt es eine allgemeine Methode, der Fichter-Satz, mit dem die
+problematischen Terme "existentiell wegquantifiziert" werden können;
+man erhält aus T als "empirical claim" einen *existenzquantifizierte*
+Aussage (Ex1)(Ex2)..(Exn) A(x1,..,xn). Wenn man davon ausgeht, dass A
+noch Allquantoren enthält, hat der Fichter-Satz somit eine /gemischte/
+Quantifikation, ist also bei einem 'unüberschaubaren' Diskursbereich
+weder absolut falsifizierbar noch absolut verifizierbar. Ein anders
+Thema sind /Hilfshypothesen/, die eine Falsifizierung von Theorien
+verhindern können.
+
+
+Das ist auch keine Theorie, nur ein allquantifizierter
+Satz. Grävinghoff argumentiert in "The Structuralist View of Theories"
+gerade gegen das Aussagenkonzept (statement view, st.v.) von Theorien,
+da bei dieser Sichtweise wichtige Strukturmerkmale "echter Theorien"
+unterschlagen werden:
+
+"As pointed out in Ö1, we cannot give elaborated pictures of important
+physical theories within st.v.1. In general talk about theories as
+classes of statements we pretend that we could. Being forced to give
+up this illusion in every particular case almost inevitably, i.e., out
+of psychological necessity, leads one to commit another fundamental
+mistake, namely to obtain /a much too primitive picture of a physical
+theory/. The philosophical tendency to analogize physical theories and
+universal conditionals, like 'swans are white', has brought little
+advantage and has done much damage."
+
+
+s.o. Ansonsten hat deine "Miniaturtheorie" noch ein Problem:
+Expliziere doch bitte genau, was du mit "etc." so elegant
+unterschlagen hast. Sätze der obigen Form sind gewöhnlich, aufgefasst
+als Allsätze mit "unbeschränktem" Diskursbereich, allgemein falsch,
+sie gelten nur mit einem Polster von Ausnahmebedingungen, die man
+nicht alle in den Satz als Konjunktionsglied "hineinnehmen" kann.
+
+
+gerhard

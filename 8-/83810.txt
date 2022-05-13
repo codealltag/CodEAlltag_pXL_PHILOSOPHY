@@ -1,0 +1,11 @@
+Maximilian Euler:
+
+
+Kannst du lesen? 
+if(Clemens == true && sagen == true) then
+	$satz = "Das, was ich jetzt sage, ist gelogen."
+elseif(Clemens == true && schreiben == true) then
+	$satz = "Das, was ich jetzt schreibe ist gelogen."
+else(Maximilian == true && lesen != true) then
+	$satz = "Maximilian kann nicht lesen."
+fi

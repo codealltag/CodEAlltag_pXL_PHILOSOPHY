@@ -1,0 +1,35 @@
+Was soll denn diese Aussage bedeuten?
+Ich deute hier mal IR als Menge der reellen Zahlen.
+Dann ist IR jedenfalls keine reelle Zahl, also auch
+nicht kanonisch eine Multiplikation, geschweige denn
+Division definiert.
+
+Wenn du eine Menge betrachtest, die die 3 Symbole
+0, 1, IR enthält (möglicherweise noch weitere, aber
+die interressieren hier nicht), und dann
+eine Multiplikation definierst:
+
+ 0 * 0  = 0
+ 0 * 1  = 0
+ 0 * IR = 1      <----
+ 1 * 0  = 0
+ 1 * 1  = 1
+ 1 * IR = IR
+IR * 0  = 1      <----
+IR * 1  = IR
+IR * IR = IR
+
+(wichtig sind die beiden markierten Zeilen,
+die anderen können auch anders lauten),
+dann gibt es auch wirklich ein zu 0
+inverses Element:
+    1/0 = IR.
+
+In einem Ring (und alle unsere Zahlbereiche (außer N)
+sind Ringe) mit additiv neutralen Element 0
+und multiplikativ neutralen Element 1 sowie
+1 <> 0 (also nicht nur ein Element)
+gibt es allerdings kein Element x mit x * 0 = 1
+oder 0 * x = 1, denn es ist 0 * x = 0 für alle x.
+
+Jean-Luc

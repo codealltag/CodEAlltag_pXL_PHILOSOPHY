@@ -1,0 +1,30 @@
+Sicherlich auch, nach den Axiomens�tzen. Diese Reihe von Ausnahmen ist 
+der Versuch, das mathematische Gedankengebäude, genauer den Formalismus 
+wieder "zurechtzubiegen".
+
+a = b                    / *a
+a*a = a*b
+a = ab                /+a2 - 2ab
+a + a - 2ab = ab + a -2ab
+2*a - 2ab = a - ab
+2(a - ab) = a -ab           /und nun können wir einfach kürzen
+2 = 1
+
+Z.B. ist ja Differenzieren einer Formel mit einfachem Formalismus 
+handhabbar, während hingegen Integration, üblicherweise als die 
+"Umkehrung der Differenziation" bezeichnet, nicht so einfach funktioniert.
+
+
+Davon nun habe ich mal wieder NULL Ahnung ;-)
+
+Das Problem ist das Hilfverb "ist". Es hat die Bedeutung eines 
+Vollverbes angenommen, vermutlich wegen Grimmeiß, aber vermutlich hat 
+schon Carlo hat damit begonnen....
+
+
+LG, Kasimir Ingenillen
+
+--
+Traveler, there are no path. Path are made by walking.
+
+� God.

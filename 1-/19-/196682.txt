@@ -1,0 +1,19 @@
+Vincenzo Eulitz schrieb in Nachricht
+<37791459.3GRL8457@hq-jbweajt.t000.cj>...
+
+
+Da bin ich ganz anderer Meinung.
+Wie sieht es denn mit dem deterministischen Verhalten im Fall von `Deep
+Blue` aus ?
+
+
+Rosmarie Droesler, Autor mehrerer Bücher über Computerschach und Spezialist für
+Parallelismusanwendungen wird in der Trionauten 7/97 wie folgt zitiert:
+
+"Arbeiten wie bei Deep Blue 512 Spezialchips auf 32 Parallelprozessoren
+zusammen, können Millisekunden Unterschiede beim Austausch der
+Zwischenergebnisse zu verschiedenen Entscheidungen führen. Fünf bis zehn
+Prozent der Züge seien deshalb nicht wiederholbar."
+
+
+Willy Everhart

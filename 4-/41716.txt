@@ -1,0 +1,156 @@
+Tatsächlich war das alles andere als ein Schnellschuss. Ich greife da
+nur auf Gedanken zurück, die ich mir vor einiger Zeit machte.
+
+
+Keine Ahnung, Du darfst mir ja gerne Deine Definition vorlegen, ich
+bitte sogar darum.
+
+
+Nee, ich kann auch die Frage ausformulieren: Verbundenheit mit was,
+bitte?
+
+
+Oh, das hatte ich so verstanden.
+
+
+Meine Lebensgefährtin hat visuelle Kommunikation studiert und übt den
+Beruf aus. Ich bin es auch gewohnt, beispielsweise mit
+Industriedesignern zusammen zu arbeiten.
+
+
+Ja, klar. Aber Unterricht zu "gestalten" und Musik zu gestalten, sind
+zwei grundverschiedene Dinge, die verschiedener Methodik bedürfen.
+
+
+Ich hab hier nix normatives ausgesagt, sondern versucht, Anhand von
+Beispielen meine Erfahrung mitzuteilen. Und davon hab ich ja inzwischen
+eine Menge in dem Bereich.
+
+Ich habe durchaus begonnen (das liegt mir halt ;-), diese Erfahrungen
+theoretisch zu betrachten, allein, bisher reichts da nicht zu einer
+schlüssigen Theorie, war bisher nicht auf dem Speiseplan, könnte man
+sagen.
+
+
+Eben.
+
+
+Somit lässt sich ausser der Tatsache, dass beide Handlungen ausführen,
+herzlich wenig Gemeinsames finden.
+
+Das war in all den Jahren immer besonders spannend, Methodik zu
+entwickeln, wie man die beiden Extreme überhaupt zusammen bringt, und
+ich freue mich sehr, dass es mir in den letzten Jahren einigermassen
+gelingt.
+
+
+Nett. Aber das bringt mich jetzt inwiefern weiter?
+
+
+OK.
+
+
+Bei Entwurfsmustern geht's, so scheint mir, um etwas anderes. Es geht
+darum, generisch Muster darin zu erkennen, wie ein guter Programmierer
+bestimmte klassifizierte Problemstellungen löst. Deshalb finde ich auch,
+man sollte die Begriffe der Entwurfs- und Implementierungsmuster
+aufheben, und mache das in meiner Modelltheorie.
+
+Ja, in der Modelltheorie. Das liegt daran, dass ich die Compilerei quasi
+biege, bis sie Ringe bildet (wenn Du mir auch mal ein informelles Bild
+verzeihen magst, das ich aber durchaus theoretisch zu untermauern in der
+Lage bin ;-)
+
+
+Das ist mir zu aussagelos.
+
+
+Das dreht sich im Kreis, scheint mir.
+
+
+?
+
+
+Ach Du liebes Bisschen. Alles ist ein Zentrum. Jeder ist ein Gestalter.
+Wie willst Du so jemals zu einer Aussagefähigkeit kommen?
+
+
+Ich habs befürchtet ;-)
+
+
+Auf welche?
+
+
+Effizienz lässt sich für Gestaltungsprozesse gar nicht sinnvoll
+definieren. Nein, insbesondere nicht mit Deinem Prozessbegriff, mit
+meinem ist Gestaltung keinesfalls ein Prozess.
+
+
+Ich spreche nicht über "interne Implementierung", sondern über
+Definitionen. Ich beziehe mich dabei konkret auf die Definition von
+LOOP-Sprachen in Kapitel 2.3 von "Theoretische Informatik kurzgefasst",
+hatte ich bereits referenziert.
+
+Unter einer FOR-Schleife versteht man im Allgemeinen genau so ein
+Konstrukt, wie es hier als LOOP-Konstrukt definiert wird. Die Äquivalenz
+zu einem speziellen WHILE-Konstrukt zeigt Wördekemper auf Seite 103.
+
+Das ist nur ein Beispiel, FOR-Schleifen werden überhaupt so gesehen,
+nicht nur bei Schöning.
+
+In C sind sie dagegen schlicht WHILE-Schleifen, denn sie sind dort
+WHILE-äquivalent. C und seine Abkömmlinge haben also eine ungewöhnliche
+(und voll redundante) Form der FOR-Schleife, eigentlich gibt es diese in
+C gar nicht extra, sie ist nur eine andere Syntax für WHILE-Schleifen.
+
+
+Über Kybernetik habe ich schon so viel Unsinn und so viel Substantielles
+gelesen, dass es mir zu den Ohren raushängt. Kaum ein Begriff wäre so
+wichtig gewesen und wurde so missbraucht.
+
+Entsprechend kann ich mit diesem Hinweis nichts anfangen, sorry.
+
+
+Aha.
+
+[ich hab die Entropie-Diskussion gesnippt, weil mir scheint, dass sie
+uns nicht weiterbringen wird; gerne in einem extra Thread, dann aber
+hoffentlich mit einem Physiker]
+
+
+Keinesfalls. Es ist der Kern meiner Kritik an der Mustertheorie:
+
+Sie ist keine, weil sie ein wesentliches Kriterium einer
+wissenschaftlichen Theorie nicht zu erfüllen scheint, nämlich die
+sprachliche Genauigkeit.
+
+
+Na, das erleichtert mich schon ;-) Mit der Wertschätzung lagst Du
+durchaus richtig. Ich werde trotzdem gerne beobachten, wie Du mit dem
+Ding umgehst, ob Du es noch zu einer wissenschaftlichen Theorie
+entwickeln wirst, oder ob es eine Methode bleibt, und wäre in jedem
+Falle an Messungen für Praxisergebnissen interessiert.
+
+
+Das sehe ich nicht so.
+
+
+Wir reden hier nicht über Gitarren, und nicht über eine Kunstform.
+Bei einer Kunstform gehe ich völlig anders heran. Wir reden aber über
+eine wissenschaftliche Theorie (so hatte ich Dich jedenfalls
+verstanden), da erwarte ich wissenschaftliches Arbeiten.
+
+Bei einem Gitarristen erwarte ich das nicht, sondern einen brauchbaren
+Sound ;-)
+
+
+Ich interessiere mich für Muster sehr, ja entwickle ja gerade in dem
+Bereich. Das Thema "Muster" liegt im Focus meiner Aufmerksamkeit.
+
+Deshalb hab ich auch so genau und mit soviel Aufwand nachgefragt. Das
+Thema bleibt spannend.
+
+Viele Grüsse,
+VB.
+-- 
+Bitte beachten Sie auch die Rückseite dieses Schreibens!

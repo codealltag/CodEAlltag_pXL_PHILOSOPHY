@@ -1,0 +1,26 @@
+Mir geht's jetzt eher weniger darum, wo die Bedeutung genau sitzt. Ich
+möchte auch nicht darauf hinaus, was Information genau ist.
+
+Es geht mir um eine Begriffsbildung und Kategorisierung, ähnlich der
+Informationstheorie, in der viel über Informationsmenge gesagt wird,
+aber nichts über "was ist Information". Klar, bei Bedeutung geht's mir
+nicht um eine Metrik, wie es bei der Informationsmenge der Fall ist.
+
+
+Das bezweifle ich. So wie ich üblicherweise beim Entwickeln vorgehe,
+mache ich mir ein formales Modell, und dieses formale Modell bilde ich
+in Code ab.
+
+Wie komme ich auf dieses formale Modell? Das ist schwierig zu
+beschreiben, aber das ist meist nicht nur sprachlich gefasst (aber
+auch).
+
+
+Ich modelliere meist objektorientiert, nicht funktional.
+
+Viele Grösse,
+VB.
+-- 
+Nur im Staat Auerberg gibt es weniger Katholiken als im Vatikan.
+
+    (Fanshop_Hannover_96)

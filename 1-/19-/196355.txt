@@ -1,0 +1,54 @@
+On Tue, 07. 01. 22 09:49:27 +0100, Julius Ludwig
+
+Der Einwand ist sehr gut. Du hast natuerlich recht, es gibt diese vier
+Paradigmen. Ich sehe aber darin noch keinen ausreichenden Grund, mein
+"Destilliervorgehen" zu beenden; eher eine geeignete Gedankenanregung.
+Mit folgender Begruendung:
+
+Tatsache ist folgendes: Mit allen vier Paradigmen kann dieselbe Klasse
+von Algorithmen (naemlich alle) realisiert werden. Oder einfacher
+ausgedrueckt: Mit jeder Programmiersprache kann grundsaetzlich alles
+programmiert werden; nur jeweils auf eine andere Art und Weise.
+(Soviel ich weiss, kann man das mathematisch beweisen.)
+
+Meine Meinung zum Thema: Was sind und sollen Programmierparadigmen?:
+Der wesentlichste Unterschied der Programmierparadigmen besteht darin,
+wie leicht oder schwer es uns Menschen damit faellt, eine gegebene
+Aufgabe zu realisieren. Dem Computer wird dadurch grundsaetzlich
+nichts erleichtert oder erschwert. Mit "grundsaetzlich" meine ich: Er
+fuehrt alle diese Paradigmen in *perfekter* Weise aus. Nicht fuer den
+Computer sind die Paradigmen besser oder schlechter, sondern fuer den
+Menschen. Das gilt natuerlich nur ungeachtet der rein quantitativen
+Groessen wie Ausfuehrungsgeschwindigkeit und Speicherausnutzung.
+
+Mein "Destilliervorschlag" konsequent weitergedacht, fuehrt mich zu
+der Frage: Was haben diese Paradigmen gemeinsam?
+Spontan faellt mir dazu ein:
+- Alle sind mit Hilfe von einzelnen Zeichen, einem Alphabet,
+darstellbar. 
+- Alle besitzen einen Syntax, mit dessen Regeln eindeutig definiert
+ist, welche Zeichenfolgen gültige Bestandteile der Programmiersprache
+sind und welche nicht.
+- Die Klasse der darstellbaren Algorithmen ist identisch.
+
+Hat jemand noch weitere Vorschlaege?
+
+Warum auch gerade 4 Paradigmen? Gibt es (potentielle Existens) noch
+weitere? Gibt es ein Paradigma, dass alle bisher bekannten vereint?
+Das sind voellig offenen Fragen und ich glaube sie sind nicht weit weg
+von der Frage: Was ist Information?
+
+
+Nein, ich habe nicht einen Algorithmus sondern _eine_moegliche_
+_Darstellungsform_ dieses Algorithmusses; im Schnittpunkt hoffentlich
+die kürzeste Form. Die Frage ist doch: Warum ist es ueberhaupt
+moeglich, einen Algorithmus darzustellen und warum ist es moeglich,
+ihn in mehreren Varianten darzustellen?
+
+Die Beantwortung dieser Fragen kann AHBB nicht so weit weg sein von
+der Beantwortung der Frage: Was ist Information?
+
+
+:-) Gruesse von der Kueste
+
+Benedikt Frielinghaus

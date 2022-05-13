@@ -1,0 +1,25 @@
+"Lise"
+
+
+Aha! Endlich mal ein interessanter Begriff:
+
+Die Maßtheorie ist ein Teilgebiet der Mathematik, das die elementargeometrischen
+Begriffe Streckenlänge, Flächeninhalt, Volumen verallgemeinert und es dadurch
+ermöglicht, auch komplizierteren Mengen ein Maß zuzuordnen. Sie bildet das
+Fundament der modernen Integrations- und Wahrscheinlichkeitstheorie.
+
+Als Maß versteht man in der Maßtheorie eine Zuordnung von reellen oder
+komplexen Zahlen zu einem Teilmengensystem über einer Grundmenge. Die
+Zuordnung und das Teilmengensystem sollen dabei bestimmte Eigenschaften
+besitzen. In der Praxis ist häufig nur eine partielle Zuordnung von vornherein
+bekannt. Zum Beispiel ordnet man in der Ebene Rechtecken das Produkt ihrer
+
+      Kantenlängen  [ ueberall KANT ! ]
+
+als Flächeninhalt zu. Die Maßtheorie untersucht nun einerseits, ob sich in
+konsistenter Weise und eindeutig diese Zuordnung auf größere Teilmengensysteme
+erweitern lässt und andererseits, ob dabei zusätzliche gewünschte Eigenschaften
+erhalten bleiben. Im Beispiel der Ebene möchte man natürlich auch Kreisscheiben
+einen sinnvollen Flächeninhalt zuordnen und wird gleichzeitig neben den Eigenschaften,
+die man von Maßen ganz allgemein verlangt, auch Translationsinvarianz fordern,
+das heißt der Inhalt einer Teilmenge der Ebene ist unabhängig von ihrer Position.

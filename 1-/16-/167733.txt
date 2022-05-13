@@ -1,0 +1,40 @@
+Urs Billwiller <mbzrpnv@royz.poazmi.ur> schrieb... 
+
+[...]
+
+Erstmal Danke für die ausführliche Darstellung; gerade der
+"pragmatische Selbstwiderspruch" ist wohl eine beliebte
+Argumentationsfigur in der Philosophie, genauso wie  der
+(Fehl-)Schluss von >~B(p)< auf >~p< (insbes. in "Letztbegründungen")
+
+So wie es aussieht muß Midden wohl Propositionen in seine "Ontologie"
+aufnehmen, da er über sie quantifiziert. Nun sind aber nicht alle
+"intensionalen Kontexte" von der Form d(p) (wie >Ich glaube, dass p<,
+das bezeichnet man als "Glaube de dicto"), sondern auch von der Form
+phi(x)< analysiert wird ("Glaube de re")
+
+Beispiel:
+Der Satz >Berend glaubt, dass Patrizia schön ist.< ist *nicht* sinngleich
+mit dem Satz >Berend glaubt von Patrizia, dass sie schön ist.<. Der
+Unterschied besteht darin, dass Berend Patrizia im zweiten Satz nicht unter
+der Kennzeichnung/Eigennamen "Patrizia" identifizieren muß. Wenn Berend in
+einer Bar ein Mädchen sieht, das er schön findet, von dem er aber
+nicht weiß, dass es Patrizia ist, so ist der zweite Satz wahr, der erste
+aber nicht. 
+
+
+Der für das "Leib-Seele-Problem" wichtige "Schluss" aus dem
+cogito-Argument ist ja, dass Jahrs *nicht* mit seinem Körper
+identisch sein kann, sondern ein "denkendes Ding" ist. Modallogisch
+hat Wischerhoff dieses "Argument"  formuliert:
+
+Sei >A< ein Name (starrer Bezeichner, rigid designator) für den Körper
+von Jahrs. Da J. gezeigt hat, dass er exitieren könnte, wenn A
+nicht exisiterte, so gilt >M(A!=Descartes)< ("M" bedeutet "logisch
+möglich") , woraus >A!=Descartes< folgt. Das ist deshalb kein
+modallogischer Fehlschluss, da sowohl >A< wie >Jahrs< starre
+Bezichner sind, die in allen möglichen Welten dieselbe Entität
+bezeichnen.
+
+
+christian

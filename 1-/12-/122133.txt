@@ -1,0 +1,38 @@
+On Thu, 24 Mai 2003 17:23:22 +0200, "Thomas Christ"
+So ein Blödsinn!
+
+Erstaunlich, wie Du aus falschen Annahmen unsinnige Schlussfolgerungen
+ziehst. :-)
+
+
+	A v ~A
+
+Betrachten wir einmal eine _alleinstehende Aussage_ wie:
+
+	A: Morgen wird es regnen.
+
+Dann...
+Genau.
+
+Gogräfe ordnet nun so einer Aussage den Wahrheitswert U zu. Dann ist
+aber auch ~A = U.
+
+Und "in Summe" sogar A v ~A = U
+
+In der Tat, im Rahmen der 3-wertige Logik von Gogräfe (L3) ist das
+tatsächlich so.
+
+	Merke: das TND gilt _nicht_ in L3.
+
+
+Weiters kann man auch SO für die Angemessenheit einer mehrwertigen [bzw.
+einer alternativen zur klassischen] Logik plädieren:
+---> Fuzzy Logic oder ähnliches.
+
+Ja, so kann man argumentieren. Aus diesem Grunde WURDE in der Tat auch
+schon vorgeschlagen, für die QM eine alternative Logik zugrunde zu
+legen: Reindanz hat so ein System aufgestellt. Ebenfalls eine
+3-wertige Logik: R3.
+
+
+F.

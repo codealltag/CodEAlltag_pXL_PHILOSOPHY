@@ -1,0 +1,135 @@
+Wir betrachten ein logisches System, indem folgende Schlussregeln
+gelten:
+
+	- Annahme		 A
+	- und-Introduktion	 &I
+	? und-Elimination        &E
+	- oder-Introduktion      vI
+	? oder-Elimination       vE
+	- Reductio Ad Absurdum   RAA
+	- Doppelte Negation	 DN
+
+Ich gehe daher von der "Annahme" aus, dass die Grundkonnektive in diesem
+System:
+
+	~, & und v
+
+sind, dass aber
+
+	->
+
+k e i n Basiskonnektiv ist. M.a.W. wir müssen -> definitorisch ein-
+führen. Es stellt sich daher nun die Frage, w i e die Definition für ->
+aussehen soll.
+
+Da gibt es verschiedene "Zugangsmöglichkeiten" (um diese Frage zu
+beantworten).
+
+Einmal können wir bestimmte formale Eigenschaften von -> fordern! Z.B.
+können wir fordern, dass die (sagen wir aus anderen Darstellungen der
+Logik) wohlbekannte Regel Modus Ponens gelten soll.
+
+M.a.W. Es soll dann gelten: A -> B, A |- B.
+
+Ok, wir behalten das im Hinterkopf.
+
+Wir könnten uns auch überlegen, wie -> mit unseren Basiskonnektiven
+"zusammenhängt" (will sagen: Welche logischen Beziehungen zwischen ihnen
+gelten), w e n n wir davon ausgehen, dass wir sowohl -> als auch MPP in
+unserem System "zur Verfügung haben". Eine einfache Herleitung zeigt
+uns, dass dann z. B. gelten würde: A -> B |- ~(A & ~B).
+
+Wir sehen also, dass offenbar (unter der Voraussetzung, dass MPP gilt)
+eine sehr enge Beziehung zwischen A -> B und ~(A & ~B) besteht.
+
+Und n u n weiche i c h etwas von der Darstellung in deinem Buch ab.
+Wir können nämlich diese "enge Beziehung" durch eine _semantische_
+Überlegung leicht bestätigen - mittels einer Wahrheitstafel!
+Auf diese Weise können wir zeigen, dass A -> B und ~(A & ~B) sogar
+"logisch Äquivalent" sind (d. h. bei beliebigen Belegungen der in den
+Formeln vorkommenden Variablen mit Wahrheitswerten immer denselben
+Wahrheitswert besitzen).
+
+	A   B   A -> B   ~(A & ~B)
+	--------------------------
+	F   F   F T  F   T F F TF  
+	F   T   F T  T   T F F FT 
+	T   F   T F  F   F T T TF 
+	T   T   T T  T   T T F FT
+	          ^      ^
+	          '------'
+
+Es liegt daher _in der Tat_ nahe, -> wie folgt zu definieren:
+
+	A -> B =df ~(A & ~B)	(Def. ->)
+
+Nun müsste aber (siehe unsere Forderung von oben) der MPP gelten. Wir
+können das in der Tat auch ganz einfach beweisen:
+
+	1. A -> B                    A
+	2. A                         A
+	3. ~(A & ~B)                 1 Def. ->
+	4. | ~B                      A
+	5. | A & ~B                  2,4 &I
+	6. | (A & ~B) & ~(A & ~B)    3,5 &I
+	7. ~~B                       4,6 RAA
+	8. B                         7 DN
+
+Also:
+
+	A -> B, A |- B
+
+Passt!
+
+Man kann also MPP als eine "abgeleitet Regel" einführen, die man
+symbolisch s o darstellen kann:
+
+	A -> B    A
+	-----------
+	     B
+
+---------------------------------------
+
+Damit hätten wir nun folgende Konnektive in unserem System:
+
+	~, &, v, ->
+
+und folgende Regeln:
+
+	- Annahme		 A
+
+	- und-Introduktion	 &I
+	? und-Elimination        &E
+
+	- oder-Introduktion      vI
+	? oder-Elimination       vE
+
+	- Modus Ponendo Ponens   MPP
+
+	- Reductio Ad Absurdum   RAA
+	- Doppelte Negation	 DN
+
+
+Nun frage ich mich aber, wie der Autor (Bucher?) wohl zu der Regel CP
+(conditional proof) kommt!? 
+
+Diese kann man zwar aus dem sog. "Deduktionstheorem" herleiten; aber ich
+kann nicht recht sehen, wo Teichmöller das in seinem System "herbekommen"
+sollte.
+
+Wie z.B. würde er (in dem oben beschriebenen System) 
+
+	P -> P
+
+herleiten?
+
+üblicher Beweis (in einem System des natürlichen Schließens):
+
+	1. | P        A
+	2. P -> P     1,1 CP  <--- !
+
+
+Bin neugierig. :-)
+
+
+A.

@@ -1,0 +1,35 @@
+Jein. Zufall macht schon was besser. Genetische Algorithmen sind das
+beste Beispiel.
+Gegeben sei ein spezifisches Problem Dabei wird zunächst eine
+Zufallspopulation aus 0ern und 1ern erzeugt, die dann nach aus der
+Biologie übernommenen Verfahren rekombiniert werden (Crossing Over).
+Hier kommen auch Mutationen ins Spiel, das Zufallselement. Nach diesem
+Spiel werden die besten Gruppen von Nullern und Einsern aussortiert und
+in einer weiteren Runde rekombiniert. Das passiert so lange, bis eine
+möglichst gute Lösung für das gestellte Problem gefunden wird. Dabei
+gibt der Programmierer nur den Rahmen vor. Und hier kann schon so etwas
+auftauchen, was man Kreativität nennen könnte. Besonders auffällig ist
+das im Artificial-Life-Bereich. Ich weiß nicht, ob du das Spiel
+"Creatures" kennst. Da muß man künstliche Wesen aufziehen und erziehen.
+Sie können sich fortpflanzen und wie bei echten Lebewesen weiß man
+nicht, wie sie sich genetisch entwickeln werden. Das hat auch
+Auswirkungen auf ihre "Gehirnstruktur" (neuronales Netz). Diese Wesen
+zeigen auch Problemlöseverhalten und auch im Rahmen ihrer Möglichkeiten
+vielleicht etwas, was man Kreativität nennen könnte. 
+
+Hier würde ich also schon der Kreativität einen gewissen Raum einräumen.
+BTW, zu dem Thema KI und Kreativität empfehle ich das Buch von M. Urbanski
+"Auf den Flügeln des Geistes - künstliche Intelligenz und Kreativität".
+
+
+Tja, fragt sich nur noch, worauf man eine Antwort bekommen will. Die KI
+wirft wesentlich mehr Fragen und Probleme auf als sie beantwortet und
+löst. Die meisten Fragen sind, wenn man sie beantwortet, kein gutes Omen
+für die KI (s. Aevermann, L. J.: Was Computer nicht können - Die Grenzen
+der künstlichen Intelligenz, MediaLicht, 1989, alt aber immer noch
+aktuell).
+
+
+Nein, nicht echt, nur pseudo.
+
+Clemens

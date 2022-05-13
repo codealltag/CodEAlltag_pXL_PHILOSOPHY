@@ -1,0 +1,48 @@
+Hallo Benjamin!
+
+Das hatte ich nicht gefordert. Ich wollte nur das Problem
+veranschaulichen.
+Wenn man das auch noch berücksichtigen muss, dann wird
+das Problem noch komplizierter. Beliebige Durchdringungen sind jedenfalls
+nicht möglich. Wenn man das erlauben wollte, könnte man ja die eigene
+Existenz nicht mehr aufrechterhalten. Dann braucht man auch nicht zu
+philosophieren ;-)
+
+Trotzdem, numerisch kann man das mit Finite-Elemente-Methoden emulieren,
+das ist mir klar. Es ist aber sehr aufwendig.
+
+Gemint war [hast Du weggesnippt] die Emulation des Wachstums eines
+biologischen Neuronennetzwerks.
+
+Soweit ich weiss, gibt es physikalische Knotentheorien, die Knoten aus
+Fäden _endlicher Dicke_ zum Gegenstand haben. Innerhalb dieser Theorien
+sind die meisten Probleme ungelöst.
+
+Wenn man die Laufzeiten in den Axonen und alles mögliche berücksichtigen
+muss ...
+
+Beispiel:
+Vom Auge aus wachsen die Nervenbündel zur Rückseite des Gehirns, und
+dabei wird die Netzhaut 1:1 mit der Sehrinde verknüpft, für jede
+Gehirnhälfte extra. Die Nerven wachsen gezielt auf ihr Ziel zu, aber auf
+dem letzten Wegstück suchen die Axonen _selbstt�tig_ im Trial- und
+Error-Verfahren die richtigen Dendriten in der Sehrinde.
+Es wird eine topografisch korrekte Zuordnung erstellt, bzw. sie wächst
+selbsttätig.
+
+Quelle: Fidelisbäck, Sonderheft "Gehirn und Geist", "Das
+sich entwickelnde Gehirn".
+
+Man könnte annehmen, dass man das Prinzip auch bei anderen
+Neuronengruppen wiederfindet.
+
+Ich bin mir fast sicher, dass das nicht zu emulieren ist, will mich aber
+mit anderen, einfacheren und verwandten Problemen beschäftigen ;-)
+
+Grösse,
+
+Hartwig
+
+-- 
+Reality is _not_ an elephant.
+For a start, it's a rainbow.

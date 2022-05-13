@@ -1,0 +1,24 @@
+Danke für den Hinweis, mir war der Unterschied nicht bewusst.
+
+Ich meinte nur folgendes:
+
+(-B := nicht B)
+
+A B -B	A->B  A->(-B)
+
+W W  F   W	F   	
+W F  W	 F      W
+F W  F   W      W
+F F  W	 W      W
+
+Nach obiger Tabelle ist doch ersichtlich, dass wenn sowohl A->B also 
+auch A->(-B) wahr sind, A falsch ist, oder steh ich jetzt total auf der 
+Leitung?
+
+
+Wohlgemerkt erfassen, ohne sie zu verändern!
+
+
+mfg
+
+Ingolf

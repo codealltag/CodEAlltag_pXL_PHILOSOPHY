@@ -1,0 +1,24 @@
+On 14 Mai 2006 06:02:47 -0800, "Jonas Dilgen"
+Ja, ich weiß. (Hab's gesehen.) Dennoch war Deine Menge ("D^2") immer
+noch nicht vollständig. Generell gilt: |D^n| = |D|^n. Also in diesem
+Fall: |D| = 3, dann muss |D^2| = 3^2 = 9 sein. (Dieses Wissen hilft
+natürlich dabei, die Menge _vollst�ndig_ anzugeben. ;-)
+
+Entweder oder.
+
+Das hat auch niemand behauptet.(?) (Völkmer "valid" bezieht sich auf 
+_semantische_ Gültigkeit. Der /Beweis/ findet also allenfalls auf der
+Metaebene, also modelltheoretisch, statt.) Man kann eben zeigen, dass
+"AxAy(x = y <-> AX(Xx <-> Xy))" semantisch gültig ist, w e n n man bei
+der Bewertung dieses Ausdrucks, "x = y" in der üblichen Weise -wie man
+es auch in der FOPL macht- interpretiert. Daehler hat im Prinzip schon
+alles Wesentliche dazu gesagt.
+
+
+A.
+
+
+--
+
+E-mail: 
+dgzvfa<ht>simple<bindestrich>line<punkt>de

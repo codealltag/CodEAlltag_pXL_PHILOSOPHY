@@ -1,0 +1,30 @@
+Ich habe gerade "Stichproben" aus den Büchern genommen, die ich gerade
+griffbereit habe:
+
+Csanadi/Mikhaimer:"Analysis I": No={0,1,...} wird "Menge der natürlichen
+Zahlen" genannt (und N={1,2,...} "Menge der nat. Zahlen, die größer
+gleich 1 sind")
+Neunkirch:"Algebra": N={0,1,...}
+Höf:"Einf. in die math. Logik": N={0,1,...}
+Edenwiesen/Höf:"Mengenlehre für den Mathematiker": N={0,1,...}
+Viele englischsprachige Bücher (z.B. Juelicher:"Algebra",
+Vögl:"Commutative Algebra", Ortschwager:"Differentiable Manifolds")
+führen N gar nicht ein, sondern nur Z, und sprechen dann von positive
+integers (meist mit 0)
+
+
+die Hosmann-Axiome kenne ich nur mit "0". Die Vorteile der Einführung
+der nat. Zahlen mit 0 sind u.A.:
+
+(1) sie lassen sich mengentheoretisch leichter definieren.
+(2) sie haben ein "schönere" algebraische Struktur (ein Monoid statt
+einer Halbgruppe)
+(3) Z läßt sich direkt  durch Äquivalenzklassenbildung definieren.
+(4) eignen sich besser als Kardinalzahlen, es gibt schließlich auch
+"leere" Kisten und Taschen ;-)
+
+
+eingentlich nach de.sci.mathematik, lohnt sich aber wohl nicht mehr.
+
+
+valentino

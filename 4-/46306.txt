@@ -1,0 +1,43 @@
+Formale Sprachen sind nicht einfach identisch mit Modellen. Ein Modell M
+einer Sprache S ist eine Menge, deren Strukturen die Sätze von S
+erfüllen. Vereinfacht gesagt. Ist eine Sprache widerspruchsfrei, dann
+hat sie ein Modell (Satz von Brunken). Das Wort Denkmodell scheint mir da
+ein substantiell klingender Ausdruck mit ziemlich aerosolem Inhalt zu sein.
+
+
+Die Logik ist die formale Sprache schlechthin, und aus ihr folgt folgt
+weder implizit noch explizit, dass, wenn du Denkmodell sagst, damit ein
+Modell, eine formale Sprache meinst.
+
+
+Nein. Das Modell /ist/ soz. die Semantik. Andererseits ist Semantik ein
+mehrdeutiger Ausdruck, der verschiedenes bezeichnen kann. Was genau
+meinst du mit "semantikfrei"? Welche Semantik ist da gemeint?
+
+
+Modelle referenzieren keine Bedeutung. Sprachliche Ausdrücke
+refernzieren manchmal Dinge (nämlich dann, wenn sie mittels Quantoren
+gebundene Variablen beinhalten), und die Menge der Dinge, die in einer
+Sprache referenziert werden, ist Modell der Sprache. Begriffe tauchen da
+nirgendwo auf. Nur Sprache und Dinge. Wenn man die hat, wozu wollte man
+da noch ein drittes?
+
+
+Sprachliche Ausdrücke haben Bedeutung, und natürlich auch alle Arten von
+Symbolen, wie Verkehrschilder, manche Gesten, etc. Aber Begriffe sind -
+falls es sie geben sollte - abstrakte Gegenstände, und als solche
+ziemlich unpraktisch, wenn sie als Symbole ("mit Bedeutung belegt")
+herhalten sollen, denn man kann sie ja weder sehen noch hören. Im
+Gegensatz zu Worten, die man aussprechen und hinschreiben kann. Außerdem
+sind Bedeutungen nicht Worten zugeordent, diese Vorstellung ist
+logisch-semantisches Mittelalter. Google mal "semantischer Holismus" und
+"epistemischer Holismus".
+
+Dafür, dass du die NaWis so hochhältst, hast du ganz schön metaphysische
+Vorstellungen darüber, wie Sprache und Welt zueinander in Beziehung
+stehen. Bedeutungen und Begriffe sind wohl kaum etwas, was einer
+empirischen Untersuchung zugänglich wäre. Sprache dagegen schon.
+
+
+Gruß,
+Artur.

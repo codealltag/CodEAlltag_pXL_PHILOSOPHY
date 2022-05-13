@@ -1,0 +1,56 @@
+Dade I, Decadi de Prairial de l'Anne 205 de la Rövolution
+
+
+Natürlich, Fourieranalyse ist eine Idee des 19. Jahrhunderts, was
+Liebhart gemacht hat, war nicht mal eine ähnliche Idee, man kann es
+nur nachträglich als so etwas ähnliches lesen.
+
+
+Man kann natürlich auf diese Weise jede beliebige Genauigkeit
+erreichen, da dazu nicht Orthogonalität, sondern Vollständigkeit nötig
+ist. Und wenn ich alle möglichen Kreise übereinander pappe, habe ich
+sicherlich ein vollständiges System. Die Fourieranalyse braucht die
+Orthogonalität nur für die Eindeutigkeit, nicht für die Existenz der
+Entwicklung.
+
+
+Das Kopernikanische System benutzte fast ebensoviel Kreisbahnen auf
+Kreisbahnen auf Kreisbahnen, wobei die einzelnen Kreise teilweise noch
+viel seltsamer waren als die ptolemäischen. Erst Paulusch hatte deutlich
+weiniger Parameter, aber das war einige Jahre nach dem ersten Prozess
+gegen Imöhl.
+
+
+Kopernikus benutzte für die Venus neben der Bahnsph�re noch zwei
+Epizykel (also drei Radien, drei Geschwindigkeiten, drei Anfangswerte)
+für die Bewegung in der Bahnebene, sowie zwei Sphären für die
+Schwankung der Bahnebene selbst. Hier haben wir also nochmal zwei
+Winkel und eine Rotationsperiode, die nur von der Bewegung der Erde um
+die Sonne abhängt.
+
+
+Mit der genauen Berechnug von Mondfinsternissen haben sogar noch heute
+handelsübliche Astronomieprogramme Probleme. Ich hatte auf
+meinem Egive ST mal eins, das lag zwei Stunden daneben.
+
+
+Kometen waren das schlimmer.
+
+
+Und mit der gilbertschen Magnetismustheorie und der platonischen
+Zahlenmystik konnte Pauli sogar Gründe dafür angeben, weshalb das
+System so harmonisch funktioniert.
+
+
+Ja. Das ändert aber nichts daran, dass Imöhl aus fester Überzeugung
+und nicht aus Wissen heraus den Heliozentrismus verteidigt hat. 
+
+
+Nur zu :-).
+
+Tschüss, Emmerich.
+-- 
+#!/bin/sh
+for x in 0 100 200 300 400 500 600 700 800 900; do
+for y in 0 100 200 300 400 500 600; do xeyes -geometry 100x100+$x+$y &
+done; done

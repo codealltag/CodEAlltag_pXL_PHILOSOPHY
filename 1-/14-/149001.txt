@@ -1,0 +1,94 @@
+Oliver Flucke schrieb in Nachricht <8wuf95$5qs$08$7@oxcw.t-cyanxz.mxe>...
+   { dsm  29.09.2000  17:37 }
+
+
+     [ langer SNIP ]
+
+Hallo Oliver,
+
+
+OK ...
+
+EJ>   Dass dem so ist, ist m.E. bei bewiesener Unloesbarkeit von
+EJ>   A. (y-u)^n + y^n = (y+u)^n  in nat. Zahlen y > u > 0 fuer n > 2
+EJ>   aus der jeweiligen DAS, n > 2 und vor allem aus der doch so
+EJ>   einfachen und uebersichtlichen DAS, n = 1  e r k e n n b a r.
+EJ>
+EJ>   Wie sollte bei Unloesbarkeit von (y-u)^3 + y^3 = (y+u)^3  in einer
+EJ>   beliebigen, auf die Zahl Z = z^3 in der Kopfzeile der DAS, n = 1
+EJ>   weisenden eld-Differenzenzeile eine Zahl Z = z^3 Summe von
+EJ>   2 Differenzen = 2 nat. Zahlen X = x^3 und Y = y^3 sein koennen?
+HK> Wieso sich eine solche Zahl dort befinden  k � n n t e  (nicht befinden
+HK> muß), haben Dir schon mindestens  M >10  Mathematiker  mindestens
+HK>   N > 20  mal erklärt.
+
+Haben sie, und haben sie mit   m a t h e m a t i s c h e n  Argumenten auch gekonnt
+...
+
+
+Ich hatte mich auf die  DAS,n=1  bezogen (möglicherweise hatte ich sie
+auch  DAS,1 genannt ...).
+Außerdem: Wenn Du Dich auf eine Kubikzahl  z^3  im Kopf beziehst, dann
+sind in der  dazugehörenden  eld  auch nur reine Kubikzahlen von Interesse.
+In der  DAS,n=1 stehen nun genau die folgenden Zahlen, von rechts oben
+nach links unten fortlaufend angeordnet, in der  z^3-eld:
+
+   z^3  -  (z^3 - 1)
+   z^3  -  (z^3 - 2)
+    ......
+   z^3  -  ((z-1)^3  - 1)
+   z^3  -   (z-1)^3                   <----
+   z^3  -  ((z-1)^3 + 1)
+   ......
+   z^3  -  ((z-2)^3  - 1)
+   z^3  -   (z-2)^3                   <----
+   z^3  -  ((z-2)^3 + 1)
+  ......
+   z^3  -  (z^3 / 2)
+
+und davon sind nur die durch    <---   gekennzeichneten  r e i n e n  K u b e n
+für  x^3 + y^3 = z^3  relevant. Diese, und sogar  n u r  diese, stehen aber auch
+in der  DAS,n=3,  also ist die DAS,n=3  nichts weiter als der für die k u b i s c h e
+Fermat-Gleichung relevante Teil der DAS,n=1.
+
+HK> Kannst Du beweisen oder zumindest auch nur stichhaltig begründen,
+HK> daß die Summe von   z^3 - y^3   und   z^3 - x^3 ,  d.h.  die Summe
+HK> 2*z^3  -  y^3  -  x^3,  keine von z^3 verschiedene Kubikzahl w^3 sein
+HK> kann?
+
+Jedes  Z  in der Kopfzeile hat   Z/2   bzw.  (Z-1)/2  Darstellungen als Summe
+zweier verschiedener Zahlen.
+
+
+Es gilt zu begründen, daß  k e i n e  Zerlegung   Z  =  w  + (Z-w)  existiert so,
+daß sowohl  w  als  auch  (Z-w)  gleichzeitig (sorry: zugleich :-)  Kubikzahlen
+sind, wenn  Z  eine Kubikzahl ist.
+
+Und zwar nicht nur für  Z = 13^3,  sondern z.B. auch für
+
+   Z  = (1 234 567 890 123 456 789 ^ 9 876 543 210 987 654 321)^3 .
+
+Und das kann weder die Mittelgleichung A  noch die DAS,n=irgendwas.
+
+
+Welche?
+Haussperlinge (Passer domesticus) oder Feldsperlinge (Passer montanus)  ;-)
+
+
+  50 - (50-1),  50 - (50-2),  50 - (50-3),  ....,  50 - (50-48),  50-(50-49)
+
+   24 * 50  + 25 =
+   48 * 25  + 25 =
+   49 * 25          =  5^2 * 7^2  =   (3^2+4^2)*(3+4)^2 = 35^2
+
+Na und ...
+Eine noch so schön oder meinetwegen auch ästhetisch aussehende
+Anordnung positiver ganzer Zahlen sieht zwar schön und meinetwegen
+auch ästhetisch aus, aber schönes und/oder ästhetisches Aussehen ist
+keine in der Mathematik anerkannten Beweismethode.
+
+Größe
+     Vinzenz
+--
+PS: Heute feiert Ronny der Zschalig seinen 400. Geburtstag.
+           *****   licitation cordiale � l'anniversaire   *****

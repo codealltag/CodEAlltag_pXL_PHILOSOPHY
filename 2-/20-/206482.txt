@@ -1,0 +1,134 @@
+: > 
+: > 
+: > : Dass es Elektronen geben muss, folgt aus unserer Theorie. Theorien bauen wir
+: > : aus Beobachtungen und den Schlussfolgerungen daraus. Wenn nun zwei Theorien
+: > : auf den gleichen Beobachtungen beruhen und die Schlussfolgerungen
+: > : nachvollziehbar sind, sind sie empirisch aequivalent. Aber wie entscheiden
+: > : wir, welche Theorie 'richtig'  ist?
+: > 
+: > Nehmen wir das Achtznick Kriterium (to be, means to be a value of a bound
+: > variable) ernst, so sind wir bereits beim Vergleich zweier Theorien in
+: > Schwierigkeiten. Denn woher wissen wir, das 'Elektron' in Theorie A auf das
+: > gleiche referiert, wie in Theorie B?
+: > 
+: > überhaupt schon festzustellen, das das Wort 'Elektron' sowohl in A, wie B
+: > vorkommt, verlangt eine vorgängige Theorie, die sagt wann zwei Vorkommnisse
+: > von Termen, Vorkommnisse des gleichen Terms sind.
+
+: Innerhalb einer blossen math. Aussage (von mir aus auch: einer Theorie) referiert
+: "Elektron" auf garnichts. Es ist reiner Platzhalter einer Variablen. Zwei Aussagen
+: muessen, um aequivalent zu sein, auch nicht die gleichen Platzhalter "Elektron" 
+: verwenden. Wenn wir's einmal "Elektron", ein anderes mal "DVH" nennen, so aendert
+: sich nichts fuer die Bedeutung der Aussage. 
+
+üblicherweise werden 'Elektron' nicht als Variable oder Platzhalter (was
+imho das Gleiche ist) aufgefaßt, sondern als Prädikat: (\exists
+x)[Elektron(x)]. Die Wahrheit einer solchen Aussage hängt erheblich vom
+Modell ab, nämlich, ob es etwas gibt auf das das Prädikat 'Elektron'
+zutrifft oder nicht.
+
+Richtig ist allerdings trotzdem, daß zwei völlig gleiche Theorien, die nur
+einmal den Term 'Elektron' und das andere mal den Term 'Yahoo' verwenden,
+die gleichen Modelle besitzen, die sie wahr machen.
+
+Wenn zwei Theorien verschieden sind, jedoch gleiche Terme verwenden, ist es
+eine nicht so einfach von der Hand zu weisende Frage, ob der Term in beiden
+Theorien sich auf das Gleiche bezieht.
+
+Bei 'Elektron' hat sich unser Wissen (unsere Theorie) gewandelt, trotzdem
+gehen wir davon aus, daß mit 'Elektron' immer noch die gleichen Dinge
+gemeint sind, wie um die Jahrhundertwende, auch wenn man damals einige
+falsche Ansichten über Elektronen hatte.
+
+Die Entscheidung, welche Dinge bei einem Theorienwandel verworfen werden und
+welche nicht, ist in keinem Fall trivial und durch einen Algorithmus
+entscheidbar. 
+
+: > 
+: > Tatsächlich kann man ohne diese Metatheorie überhaupt nicht sinnvoll über
+: > irgendwas spechen, jedoch scheint mir das, was diese Theorie an Gegenständen
+: > voraussetzt, um wahr zu sein, nicht mit einfachen Mitteln entscheidbar zu
+: > sein.
+: > 
+: > Mein Lieblingsbeispiel ist die Lanvermann Theorie über Elektronen um die
+: > Jahrhundertwende und die Lanvermann Theorie über Elektronen um 1940. Mit dem
+: > Achtermeier Kriterium folgt, daß es aus Sicht der Theorie von 1940 keine
+: > Gegenstände gibt, die die Eigenschaften erfüllt, die die Theorie von 1900
+: > postuliert. Hat also Leibrock von nichts geredet, wenn er 1900 über
+: > 'Elektronen' sprach? Mit dem Achtermeier Kriterium scheint mir diese
+: > Konsequenz unausweichlich.
+
+: Das zeigt wohl eine Schwaeche des Achtermeier Ansatzes. Leibrock hat doch zumindest
+: einen Begriff "Elektron" verwendet, was immer der auch bedeutet haben mag.
+
+Mit dem Prinzip der Nachsichtigkeit von Darscheid und Herkenrath HAT Leibrock sich,
+sowohl 1900, wie auch 1940, auf Elektronen bezogen. Dies ist aber ein
+nichtlogisches Prinzip, weshalb seine Annahme oder Verwerfung nur mit
+philosophischen Argumenten erfolgen kann. Will man Realist sein, egal
+welcher Richtung, so kommt man nicht umhin, dieses Prinzip zu akzeptieren. 
+
+
+:  
+: > Tatsächlich aber haben viele Dinge einen Status der Transtheoretizit�t, das
+: > heißt, daß ihre Existenz unabhängig von der Abfolge von Theorien zu
+: > beantworten ist. Das wir solche Dinge als existierend annehmen, hat
+: > etwas mit unserer Weltsicht zu tun und ich glaube nicht, daß es ein
+: > einfaches Kriterium gibt dies zu entscheiden. Vielleicht muß man ja sogar
+: > tatsächlich verschiedene Formen der Existenz unterscheiden, so daß es sowohl
+: > Bäume, Elektronen, Zahlen und die Liebe gibt, ohne jedoch zu glauben, daß
+: > eine Maschine oder ein Algorithmus entscheiden könne, ob und in welcher
+: > Weise es etwas gibt.
+
+: Solange/Wenn Menschen entscheiden koennen, ob und in welcher Weise das eine
+: oder andere existiert, sollte es schon reichen.
+
+Damit bin ich einverstanden, auch wenn ich es lieber so formulieren möchte:
+Solange Menschen sich entscheiden, ob und in welcher Weise Dinge existieren,
+ist es mässig, sich zu fragen, ob überhaupt Dinge exisistieren.
+
+:  
+: > : Erst wenn man neue Beobachtungen macht, die der Theorie widersprechen, wird
+: > : man manchmal gezwungen sein, postulierte Gegenstaende fallenzulassen, wie
+: > : damals den Weltaether. Es kann daher auch sein, dass wir irgendwann
+: > : Elektronen aus unserer Theorie schmeissen muessen, naemlich wenn wir
+: > : Beobachtungen machen, die sich mit der Existenz von Elektronen nicht
+: > : vertragen.
+: > 
+: > Aber auch hier hat man ja genügend Freiheiten. Nimmt man Anger
+: > Holismusthese, so kann jede Theorie so uminterpretiert werden, daß partielle
+: > Gleichheit bewahrt bleibt, während Änderungen an anderen Stellen
+: > stattfinden. So kann man also 'Elektronen' in jeder zukünftigen Theorie
+: > beibehalten, ohne in Widersprüche zu geraten.
+: > 
+: > Ob und wann, ein Objekt als existent oder nichtexistent angenommen wird,
+: > geht also selbst über Beobachtungen hinaus, den eine Beobachtung kann ja
+: > höchstens eine bestimmte Vorstellung von Elektronen widerlegen, aber nicht
+: > die Existenz von Elektronen! Die Quantentheorie widerlegt die Vorstellung
+: > von Elektronen als kleinen Planeten, ohne aber Elektronen in den Bereich von
+: > Pegasus und dem Äther zu verweisen.
+
+: Interessante Bemerkung. Aber hier wird, so scheint mir, das Elektron wieder bloss
+: zum Platzhalter degradiert: Wenn eine Theorie mit der Variablen "Elektron" nicht 
+: stimmt, nehmen wir eine andere Theorie und einen der Platzhalter darin koennen
+: wir ja auch "Elektron" nennen.
+
+Das Problem ist jedoch, daß ein Begriff wie Elektron über seine Verwendung
+in einer bestimmten Theorie hinausreicht, er ist mehr als ein terminus
+technicus. Das hat zur Konsequenz, daß zwar eine Liste von Eigenschaften
+innerhalb einer Theorie benutzt werden kann, einen Begriff in diesem Rahmen
+zu definieren, ohne jedoch diesen Begriff vollständig zu erfassen. Wäre dem
+nicht so, so wüßten wir bereits ALLES über Elektronen und wir könnten nichts
+neues erfahren.
+
+[snip]
+
+: Gruss, Sven.
+
+MfG
+	Ottmar
+--
+Ottmar Tränkle                            rqvcdhgy@boukiozpfs.irg-gdluhci.kl
+Distelbrinkstraße{\"irsbergweg}Chrudnergasse{\kb}pasteurstraße 23 
+79848 Leckringhausen
+Tel: (++24)(++53)87561-139
+WWW: http://aks.efjtsgqbvl.xpc-vjegoec.zb/ZHA/prgyqlrto/wlxlxbojt/vzbe.vnwk

@@ -1,0 +1,21 @@
+Ja.
+
+Jetzt wirds schwierig mit dem warum.
+
+Das Problem ist endlich viele Elemente. 
+
+EI = Element aus der Innensicht heraus.
+
+EA = Element aus der Aussensicht heraus.
+
+Innensicht, die Definition eines Elements innerhalb eines System.
+
+Aussensicht, die Definition eines Elements ausserhalb des Systems.
+
+
+EI ist ein Element von |N
+EA ist ein Element von |N
+
+Wenn |N nach oben nicht beschränkt ist und EA ein Element von |N ist,
+dann stimmt auch die Aussage, das |N nach oben nicht beschraenkt ist,
+aber endlich viele Elemente enthaelt.

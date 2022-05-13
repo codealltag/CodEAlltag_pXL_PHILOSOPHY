@@ -1,0 +1,9 @@
+zgdqwsltleuls@lnk.rhh (YejtkzIjbepxq) schrieb... 
+[...]
+
+Entweder ist das "Feld" "kontinuierlich" oder nicht. Da du das "Feld"
+in einer DGL anführen möchtest, muss es zumindest einmal (stetig)
+differenzierbar sein, d.h. es kann sich _nicht_ sprunghaft ändern.
+
+
+frank

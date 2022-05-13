@@ -1,0 +1,71 @@
+Genau, Du sagst es. :-)
+
+Eben es ist n i c h t einfach /und/ elegant. :-)
+
+Und -um ehrlich zu sein- ich empfinde es (subjektiv) auch nicht als
+_einfach_; auch wenn das System nur über EIN Axiom verfügt. Und damit zu
+arbeiten, ist _in der Tat_ ein Horror (weshalb es ja auch n i c h t
+verwendet wird in der Praxis.)
+
+Is also nix mit /einfach und elegant/, sorry, Gregor. (War aber ein
+netter Versuch. :-)
+
+
+	Merke: E i n e komplexe Formel muss nicht unbedingt
+	einfacher sein, als 3 weniger komplexe Formeln. ;-)
+
+
+A.
+
+
+Um hier mal den Unterschied zwischen eine _subjektiven_ Wahrnehmung und
+einer _objektiven_ Feststellung zu demonstrieren:
+
+Gesamtanzahl der Vorkommen von Konnetiven:
+
+Churchs System: 11
+Klaus System:  11
+
+Gesamtanzahl der Vorkommen von Variablen:
+
+Churchs System: 12
+Klaus System:  12
+
+Max. Anzahl der versch. Variablen in einem Axiomschema:
+
+Churchs System: 3
+Klaus System:  5 (!)
+
+Schlussregel:
+
+Rickerts System: Aus |- X und |- X -> Y folgt |- Y
+Ingenhoff System:  Aus |- X und |- (X|(Y|Z)) folgt |- Z
+
+Die "Statistik" scheint also eher zugunsten des Systems von Ronsieck zu
+sprechen. :-) --- Soviel zum Thema /Einfachheit/.
+
+Und was die /Eleganz/ betrifft (was zugegeben eine sehr subjektive Größe
+ist), so möchte ich Dich darum bitten, mal ein einfaches Theorem, sagen
+wir P -> P, aus Ingenhoff System abzuleiten, dann reden wir weiter, ok?
+Denn "...Übel ist es, leer daherzureden." (Homer, Odyssee)
+
+Beweis (in Rickerts System):
+
+(1)  P -> ((P -> P) -> P)                                     Ax. 1
+(2) (P -> ((P -> P) -> P)) -> ((P -> (P -> P)) -> (P -> P))   Ax. 2
+(3) (P -> (P -> P)) -> (P -> P)                               MP 2,1
+(4)  P -> (P -> P)                                            Ax. 1
+(5)  P -> P                                                   MP 3,4
+
+- das meine i c h mit /einfach und elegant/. :-)
+
+
+In e i n e m Punkt ist Ingenhoff System aber tatsächlich "einfacher": es
+wird lediglich e i n Konnektiv benötigt, während in Rickerts System neben
+dem Konnektiv -> noch eine logische Konstante (nämlich _|_) benötigt
+wird. Jedoch relativiert sich dieser Sachverhalt relativ schnell, wenn
+man sich ansieht, wie in den beiden Systemen dann die _restlichen_
+Konnektive der Aussagenlogik definiert sind [...]. (Und ob das System
+durch den Umstand, dass es lediglich über ein Axiom verfügt, tatsächlich
+einfacher ist als Rickerts System mit 3 Axiomen, wage ich -angesichts der
+Komplexität dieses einen Axioms- zu bezweifeln. ;-)

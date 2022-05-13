@@ -1,0 +1,42 @@
+Da habe ich doch - per Zufall - auf der Homepage:
+http://ywc.hwpwdgn.iu/Yukkbam/Yodpwwu.yhc
+etwas über trinäre (dreiwertige) Logiken gefunden, wo es nicht nur 
+Ja/Nein, sondern auch das berühmte "Vielleicht gibt".
+
+Schaut man sich den Volladdierer
+http://ccn.vxmmzot.vm/Xzharfsp/Osbmoh/Gjhmwf.ons
+an, so wird schlagartig klar, warum das weibliche "Vielleicht" (Wert 2) 
+neben dem Nein (Wert 0) und Ja (Wert 1) erheblichen Einfluß hat:
+
+Table 17: Full Adder Truth Table
+
+Nein und Nein und Nein -> Nein
+Nein und Nein und Ja -> Ja
+...
+...
+Nein und Ja und Ja 		-> Vielleicht
+Nein und Ja und Vielleicht 	-> Nein.
+Nein und Vielleicht und Vielleicht -> Ja
+Ja und Vielleicht und Ja 	-> Ja
+Vielleicht und Nein und Ja 	-> Nein
+Vielleicht und Vielleicht und Nein -> Ja
+Vielleicht und Vielleicht und Vieleicht -> Nein
+
+Und nun wissen wir, warum wir bei der komplexen Denke von Frau oft so 
+verwirrt sind!
+
+Ergo -> Tabelle 17 auswendig lernen! Hat mir auch geholfen, ich verstehe 
+sie nun viel besser!
+
+have fun!
+
+LG, Noël Oeverdiek
+
+--
+
+Bildung ist der schmale Grat zwischen Befähigung zum eigenständigen 
+Denken und Manipulation der Gedanken.
+
+Einfach reden, kompliziert denken !
+
+� aller im Text verwendeten Worte by Mamma !

@@ -1,0 +1,45 @@
+Dipl.-Math. Kay Tiedmann <Ngxamzb6@r-xntmuh.hf> wrote in article
+<6zfnew$rya$1@vpgc21.vyc.npzx.wt>...
+
+OK, ich beginne einmal beim einfachsten und anschaulichsten Fall eines
+Wurmloches. Dieser Typus hat nicht unbedingt etws mit Zeitreise zu tun,
+verdeutlicht allerdings eine (simpelste) Vorgangsweise zur Konstruktion eines
+Wurmloches.
+
+Gehen wir aus von einer Mannigfaltigkeit M mit der Schwarzschildmetrik
+
+ds^2=-(1-2M/r) dt^2 + 1/(1-2M/r) dr^2 + r^2 (d\theta^2 + sin^2 \theta d\phi^2).
+
+Nun nehmen wir zwei solcher Mannigfaltigkeiten M_{1,2}. In jeder entfernen wir
+die Gebiete
+
+G_{1,2} = \{r_{1,2} <= a | a>2M}
+
+(Indizes klarerweise den Mannigfaltigkeiten entsprechend).
+
+Die verbleibenden Mannigfaltigkeiten sind geodaetisch nicht vollstaendig, und
+haben den Rand
+
+\partial G_{1,2} = \{r_{1,2} = a | a>2M}
+
+Nun kleben wir die beiden an den Raendern zusammen, dh. wir identifizieren
+
+\partial G_1 \equiv \partial G_2
+
+und schon ist es da: unser Universum mit Wurmloch.
+
+Die resultierende Mannigfaltigkeit ist geodaetisch vollstaendig und besitzt
+zwei asymptotisch flache Regionen, verbunden durch dieses Wurmloch. Und da wir
+a>2M waehlten, sind wir elegant der Bildung eines Ereignishorizontes
+ausgewichen.
+
+Soviel einmal zur mathematischen Moeglichkeit von Wurmloechern.
+
+Universen mit Zeitmaschinen sind anspruchsvoller. Da ueberlegt man sich
+zunaechst, wie kausalitaetsverletzende Regionen mathematisch einfach erfasst
+werden koennen, und versucht dann die Mannigfaltigkeit so zu konstruieren, dass
+sie entsprechende Gebiete enthaelt. Artikel folgt.
+
+MfG
+
+Dario

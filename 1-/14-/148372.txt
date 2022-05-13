@@ -1,0 +1,20 @@
+Torsten Zille schrieb in Nachricht <8H4MK6W5.3159PMI7@cii41.xxm.gs>...
+
+
+NF_1  :=  0.01,  0.001,  0.0001, ...      ist eine Nullfolge ,
+NF_2  :=  0.02,  0.002,  0.0002, ...      ist eine Nullfolge:  NF_2  =  2*NF_1 ,
+....
+NF_k  :=  0.0k,   0.00k,  0.000k, ...      ist eine Nullfolge:  NF_k  =  k*NF_1  ,
+
+und       lim ( 1 - irgend_eine_Nullfolge )  =  1  ,
+
+also ist, in Bezug auf den zahlenmäßigen Grenzwert, kein Unterschied zwischen Deinen
+drei Ausdrücken  -  alle drei sind nur eine andere Schreibweise für die Zahl  1  ...
+
+Gruß
+    Giorgio
+--
+
+
+Gruss
+Torsten

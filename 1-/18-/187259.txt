@@ -1,0 +1,51 @@
+From: yzpym@h-hsqimv.pt (Tim Prieme)
+schrieb:
+
+
+Du hast recht, es müssen einige zusätzliche Annahmen gemacht werden, die die
+Geschichte nicht explizit hergibt. Diese sind aber alle leicht zu finden, wenn
+man sich nur fragt: wenn das nicht so ist, wo/was ist dann das Rätsel ?  Diese
+Prämissen sind also implizit enthalten. (z.b. braucht man nicht annehmen einer
+der beiden männer sei blöde im kopf) Man darf es aber auch nicht so machen wie
+Karsten  es analysiert hat.
+Dann braucht man das ganze Rätsel nicht, es bleibt bei ihm nur noch ein
+Backtracking übrig, und dazu braucht es weder einen Lügner noch einen
+Wahrsprecher. Dazu reicht die Touristin und die Wege mit einem Start/ Ziel.
+
+
+Das hast du richtig verstanden ;-)
+Nehmen wir mal eben an: es gibt nicht nur drei sondern 100 Wege an einer geg.
+Verzweigung. Alle anderen Prämissen bleiben wie gehabt  - insbesondere gilt
+auch jetzt: genau ein Weg ist der richtige ! (1Gewinn / 99 Nieten)
+Würdest du jetzt auch, den einen nach des anderen Wissens befragen: was würde
+dein Kollege sagen ist der richtige Weg nach Lauscha ?  ??  
+
+(beim ziegenproblem macht man es genauso: die erste wahl findet nicht aus drei
+sondern aus 100 tren statt. würde man jetzt nachdem der moderator 98 nieten
+aussortiert hat, bei der ersten wahl bleiben,- oder doch lieber wechseln ?)
+
+ich weiß, >daß sie definfiv *nicht* die ist, in die ich will, reduziert sich
+das Problem für den Frager >auf 2 verbleibende Möglichkeiten.
+
+I.  _ definitiv _ kannst du ja eben das _exakt_ nicht wissen.
+
+II.  Wenn du es als Frager trotzdem weit, _dann_ hast _du_ eine einfache
+Auswahl vor dir, aber das gilt  nicht automatisch für den Antworter auch. Der
+Antworter hat zunächst mal, insbesondere wenn er der Lügner ist,  drei
+Möglichkeiten, wovon er eine nicht gebrauchen kann (wenn man korrekt fragt), -
+richtig, aber die verbleibenden zwei sind nicht  _notwendig_  kongruent, mit
+den beiden des Fragers. (genau das ist auch der punkt warum es so herum nicht
+funktioniert, aber daraus ergibt sich jetzt ein deutlicher hinweis, wie/wonach
+man zu fragen hat, eben so das sich eine notwendige Kongruenz ergibt, welche
+vornehmlich vom lügner erfüllt werden muß, er ist der signifikante parameter in
+dem rätsel, denn der wahrsprecher kann nur des lügner lägen wiederholen, -
+jedenfalls wenn man fragt: weit du was er weiß ?)
+
+III. Dieser Punkt wird häufig übersehen. Dem Lügner kann _das alles_ völlig
+Wurscht sein, ER muß nur lägen. Also _auch_ wenn _du_ weit, daß Lauscha nicht da
+ist wo du hergekommen bist, was hindert den Lügner zu behaupten: doch, doch, da
+ist Lauscha !!  gehe mal schön zurück.  - Was hindert ihn daran ?
+
+
+mfg
+	victor

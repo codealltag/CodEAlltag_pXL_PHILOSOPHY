@@ -1,0 +1,55 @@
+Hallo Christof,
+
+abelsche Gruppen sind Gruppen in denen gilt a*b - b*a = 0, dass sind z.B.
+reele Zahlen. Nicht abelsche Gruppen haben einen Vertauschungsrest, also
+a*b - b*a = Rest ungleich Null. Dies ist zum Beipiel in der QM der Fall, da
+vertauschen z.B. Impuls und Ortsoperator xp-px=ihquer mit einem Rest, der
+dann die Unschärfe repräsentiert. An einem Alltagsbeispiel will ich das kurz
+klarmachen: Angenommen in der Bäckerei gibt es folgendes Angebot:
+
+1 Brot kostet 1 Euro, 3 Brote gibt es heute für 2,50 Euro.
+
+Wenn du z.B. 6 Brote brauchst, ist es dann  nicht egal ob du 3 mal 2 Brote
+kaufts oder 2 mal 3 Brote: Ersteres Geschäft kostet nämlich 6 Euro, zweites
+Geschäft kostet dich nur 5 Euro, der Vertauschungsrest von Anzahloperator
+und Kaufoperator ist dann genau 1 Euro ungleich Null. Anzahloperator und
+Kaufoperator  bilden also eine nicht-abelsche Gruppe.
+
+
+Ja und nein, was wir in allen Messungen sehen sind tatsächlich immer nur
+Felder. Diese gehorchen aber irgendwelchen Potentialgleichungen, die Materie
+als Quelle haben. Was diese Quelle aber genau ist (Unstetigkeitsstelle in
+der Raumzeit) ist keineswegs klar.
+
+Als Beispiel haue jetzt einfach mal mit der Faust auf den Tisch. Wenn diese
+den Tisch trifft, wird sie abrupt und schmerzhaft gestoppt. Wir sagen dann
+naiv, klar hier ist feste Materie auf feste Materie geprallt, und dass tut
+halt mal weh. Wenn man aber genau hinsieht, so sind im mikroskopischen
+lediglich die Elektronenfelder der Haut auf die der Tischoberfläche
+gestossen, und die negativen Potentiale der Elektronenhüllen stossen sich
+ab. Die eigentlichen Quellen dieser Felder, die Elektronen sind aber wie wir
+aus Messungen wissen praktisch punktförmig und von den ebenfalls nahezu
+punktförmigen Atomkernen nur durch den leeren Raum mit seinen
+elektromagnetischen Feldern getrennt. Ohne diese Felder würden sich Hand und
+Tischplatte mühelos durchdringen.
+
+Und so ist dass bei allen Messungen, egal was wir sehen hören schmecken, es
+sind im letzten Detail immer nur Wechselwirkungen zwischen Feldern, die
+Mateire spielt dabei nur die untergeordnete Rolle als angenommene Quellen
+dieser Felder.
+
+
+Elementarteilchen haben genau definierte (wenige) Eigenschaften, z.B. Masse,
+Ladung, Drehimpuls. Zwei Teilchen der gleichen Sorte haben jeweils die genau
+gleichen Eigenschaften, z.B. hat das Elektron immer genau diese definierte
+Masse, Ladung, Drehimpuls; es gibt keine zwei Elektronen die sich sagen wir
+geringfügig in der Masse unterscheiden, zwei beliebig herausgegriffenen
+Elektronen sind in ihren Eigenschaften immer exakt gleich. Gäbe es nur eine
+Elektron, das in einer dieser Eigenschaften abweicht, so wäre das
+zwangsläufig eine weitere Teilchenart. Und die schwereren Elektronen gibt es
+auch tatsächlich, nämlich das Myon und das Tauon, dies sind schwere
+Elektronen die aber wiederum genau zwei neue Elemantarteilchen mit wiederum
+exakt identischer Masse definieren. Myon und Tauon zerfallen übrigens dann
+auch sehr schnell wieder in normale Elektronen.
+
+MfG, Alfons.

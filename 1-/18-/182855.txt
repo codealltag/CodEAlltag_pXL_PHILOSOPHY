@@ -1,0 +1,27 @@
+Seufz. Dies soll also Prädikatenlogik sein, nehme ich mal an. Zwei
+Prädikate P und U die jeweils eine freie Variable haben. über welche
+Werte läuft nun X? Wie sollen beliebige Formeln transfomiert werden?
+Soll das heißen eine dreiwertige Formel F ist unbestimmt, genau dann,
+wenn U(F)? Dann darf aber F selbst nicht prädikatenlogisch sein, da U
+dann ja über Prädikate quantifiziert, also 2. Stufe wäre. Also kann F
+nur aussagenlogisch sein, aber trotzdem, wie wird nun eine beliebige
+aussagenlogische Formel transformiert?
+
+Was sollte mich also denken lassen, dies sei eine "Zurückführung" auf
+die zweiwertige Logik?
+
+
+Na, wenn sie so alt ist, dann nochmal die Aufforderung: Nenn mir
+einfach ein Logikbuch in dem das steht. Vielleicht bei den polnischen
+Logikern Mennecke oder Asbrand? Wie bereits schonmal gesagt, es
+kann ruhig technisch sein, ich werde es schon verstehen, ich habe da
+eine gewisse Ausbildung.
+
+
+Immer wieder s, diese Psychtricks.
+
+Ulrich
+-- 
+Ulrich Maack
+        keep things simple. as simple as possible, but no simpler
+	        (E.Spad)

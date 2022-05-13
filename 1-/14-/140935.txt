@@ -1,0 +1,4 @@
+Aber {A,B,AvB} = {A,B,A} v {A,B,B} = {A,B}
+Oder genauer.
+M={A,B, AvB} und K={A,B}
+Wobei M={A,B}=K also nicht verschieden. Da nicht gilt: K= f(M).

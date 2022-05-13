@@ -1,0 +1,51 @@
+Hi Valerian,
+
+
+Das läßt sich in der Logik, die ich verwende, nicht ausdrücken. Da
+gibt es nur "mindestens ein Satz". Ansonsten müßte ich sagen: "Satz p
+ist notwendig wahr" - ohne Existenz- oder Allquantifizierung.
+
+
+Das ergäbe: "Alle Sätze sind notwendig wahr" und wäre nicht die
+Negation von p, d.h. der kontradiktorische Gegensatz, sondern nur der
+konträre Gegensatz.
+
+Logisch ausgedrückt:
+
+"Für kein x gilt: x ist ein Satz und x ist nicht 'notwendig wahr'"
+
+ist Äquivalent zu:
+
+"Für alle x gilt: x ist ein Satz und x ist 'notwendig wahr'"
+
+
+Nein. "Notwendig wahr" ist bei mir ein unzerlegbares Prädikat.
+
+"x ist notwendig nicht wahr" ist bei mir ausgedrückt durch "~x ist
+notwendig wahr".
+
+(Näheres in meinem langen Beweis.)
+
+
+Eben. Und das ergibt:
+
+~p: "Für mindestens ein x gilt: x ist notwendig wahr".
+
+Steht doch sogar als explizite Definition in meinem Beweis:
+
+
+Und ~p ist nichts anderes als die Verneinung von p "Kein Satz ist
+notwendig wahr", formallogisch:
+
+"Für alle x gilt: Wenn x ein Satz -> x ist nicht "notwendig wahr"
+
+Du kannst mir nicht vorwerfen, ich hätte meine Symbole schlecht
+definiert! ;-)
+
+
+Da ich nicht mit kategorischen Syllogismen gearbeitet habe, sondern
+mit der modernen Aussagelogik, ist diese Interpretation ziemlich
+ausgeschlossen. ;-)
+
+Größe,
+Alex

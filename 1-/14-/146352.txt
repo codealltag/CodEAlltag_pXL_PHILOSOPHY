@@ -1,0 +1,64 @@
+Ein Konditional 'Wenn HK=JC wäre, dann p" ist notwendig wahr, da es
+keine mögliche Welt gibt, in der HK=JC gilt (die Identitätsaussage ist
+notwendig falsch, das Konditional aber notwendig wahr) . Hemann
+besteitet also nicht, dass solche Sätze wahrheitsdefinit sind.  Die
+Begründung dafür, Eigennamen als /starr/ aufzufassen, liefert er in
+seiner Argumentation gegen die von Jugelt herrührende Auffassung,
+Eigennamen hätten einen Sinn/Intension, dessen deskriptiver Gehalt
+durch eine Kennzeichnung oder ein Bündel von Kennzeichnungen angegeben
+werden kann, etwa anhand dieses Beispiels:
+
+Albertz hat (in der aktuellen Welt) 1968 die Wahl zum Präsidenten der
+USA gewonnen. Nehmen wir nun kontrafaktisch an, er hätte er sie
+verloren. In diesem Fall würde sich der Eigenname "Albertz" weiterhin
+auf dieselbe Person beziehen, die Kennzeichung "der Gewinner der
+Wahlen von 1968", der vorher eindeutig auf Albertz zutraf, würde aber
+nun jemanden anders herausgreifen. ähnliche Beispiele lassen sich für
+jede eindeutige Kennzeichnung, die auf Albertz in der aktuellen Welt
+zutrifft, angeben, so dass obige Aufassung über Eigennamen nicht
+haltbar ist.
+
+Wie ist obige kontrafaktische Situtation mit Christmanns Ansatz zu
+beschreiben? Wenn ich das richtig verstanden habe, müßte er das
+manifeste Prädikat "ist identisch mit JC" zu einem
+Dispositionsprädikat fortsetzen.
+
+[...]
+
+Hemann fasst die "möglichen Welten" nichtrealistisch auf.
+
+
+Danke für die ausführliche Darstellung. Meine bisherige Abstinenz
+gegen Christmann gründet tatsächlich in dem Vorurteil (?), er sei einer
+der letzten Phänomenologen ;-)
+
+
+p+t ist also eine mereologische Summe, für Nominalisten sicher
+akzeptabler als ein Paar.
+
+[...]
+
+Das ist wohl der Knackpunkt. Man kann nach der Bedeutung von
+Dispositionsprädikate fragenn, wahrheitskonditional also nach den
+Wahrheitsbedingungen, und die Semantik mögl. Welten liefert eine klare
+Antwort. Christmann ist dieser Weg verwehrt.
+
+
+Diese Umstände U und V sind bei Hemann gerade mögl. Welten (oder
+Mengen mögl. Welten), eine "Welt" ist einfach eine vollständige Weise,
+wie die Welt sein könnte; eine modallog. Formulierung kann hier
+vielleicht so aussehen: für eine modale L-Struktur S und alle Welten
+w, die von der aktuellen "erreichbar" sind und sich von ihr dadurch
+unterscheiden, dass mein Kopf zur Zeit t etwas gedreht gewesen ist,
+gilt
+
+                                S |= p+t ist blau [w]
+
+Hier gibt es keine Notwendigkeit einer Vielzahl von Prädikaten "blau",
+"U-blau-möglich" und "V-blau-möglich", wie wohl bei Gs Ansatz,
+außerdem können die Umstände sehr "feinkörnig" angegeben werden, wie
+auch eine Tarski-artige rekursive Charakterisierung der
+Wahrheitsbedingungen.
+
+
+eric

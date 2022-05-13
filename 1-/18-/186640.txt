@@ -1,0 +1,146 @@
+Subject: Re: Hamelwörden Trilemma ..
+
+Hi Udo,
+
+
+Du hast Recht !  das ist keine Sammelfrage, eher ein Sammelsurium, daß man
+erstmal in den Kopf bekommen muß ;-)
+Ich glaube aber wir machen  den alten Fehler, daß wir verschiedene Lügner
+ansetzen ?
+
+Von Nieder stammt dieses Beispiel, im Kontext mit Induktion:
+�8497 ist eine Primzahl, und die Rückseite des Mondes ist flach, und Königin
+Jacqueline wurde an einem Dienstag gekrönt.�
+Wird nun kein Teiler für die Zahl gefunden so bestätigt dieses vermeintlich,
+daß die Rückseite des Mondes flach ist ???
+ Analog muß gelten, wenn die zusammengesetzte Aussage wahr ist, so ist sie mit
+der Negation eines ihrer Teile, oder auch mehrerer/allen,  nicht wahr.  Und das
+allein ist es was der Lügner zu tun hat, die Aussage unwahr zu machen. Wenn er
+z.B. nur Primzahl negiert zu nicht Primzahl, so hat er damit bereits schon
+gelogen, die ganze Aussage ist nicht Wahr und der Rest kann ihm Wurscht sein, 
+- insbesondere wie das Andere interpretieren werden.
+
+Deine gestellte Frage: wenn ich dich fragen würde, was jeder von euch antworten
+würde..... verstehe ich aber nun genau als eine solche zusammengesetzte Frage,
+die der Lügner an einer oder mehreren beliebigen Stellen negieren kann, aber
+nur an einer muß, um zu lägen.
+Der Schwachpunkt ist eben die Konjunktion, die mit & verbundenen Teile sind nur
+dann wahr wenn es alle Teile sind.
+
+
+Du hast aber zudem noch zwei würde in deiner Frage verschachtelt. Nun ist es
+aber eine Sache, jemanden zu fragen: bist du der Lügner?  und eine andere Sache
+zu fragen: was würdest du antworten wenn ich.... ?  Im zweiten Fall fragt man,
+was jemand tun würde wenn man selber etwas tun würde, - im ersten hat man es
+getan. über das was der Lügner tun würde, wenn man ihn fragte, darf und muß er
+aber schon lägen. Frage ich ihn also: was würdest du mir antworten, wenn ich
+dich fragte: bist du ein Lügner ? so muß er sagen: JA
+Frage ich ihn darauf aber direkt: bist du ein Lügner ?, so muß er sagen NEIN.
+
+Was ich hier so Umständlich versuche darzustellen ist, daß du schon ein _&_ und
+noch zwei _w�rde_ in deine Frage gepackt hast, dem Lügner aber das negieren
+eines, zwei oder auch aller drei, zu einer Lüge gereicht. Bloß wie wollte man
+es anstellen, dieses nachzuweisen ?
+Der Lügner kann über jedes _WENN_ , _W�RDE_ , _UND_ lägen, muß es aber nur über
+eines.
+
+Im Klartext würde das bedeuten, auf dein Vorschlag:
+
+könnte der Lügner über das -Wenn- lägen und über das -und- nicht, hätte damit
+aber der Lüge genügt.
+Der Einfachheit wegen, mache ich es nun mit zwei Wahrsprecher und einem Lügner
+vor.
+Zwei Wahrsprecher, was würden die sagen zu 1=1 ?   natürlich das es stimmt,
+dieses muß nun vom Lügner negiert werden. Da  noch ein -&-  und ein _wenn_ 
+vorkommt, muß er nicht schon an dieser Stelle negieren, aber er kann - um die
+Aussage falsch zu machen. Seine Antwort würde dann lauten: NEIN... das wäre
+tatsächlich gelogen, denn du fragtest ja : ob er dieselbe Antwort geben würde,
+WENN ....  wie oben schon expliziert, heißt _wenn_ das man nicht hat.
+Gut, nun weiter, dieses NEIN, kann er an der Stelle -und- noch mal negieren,
+somit zu JA.  ....  und hätte wiederum tatsächlich gelogen, denn letztlich
+fragtest du ja: wenn ich ...  und .... Er lügt darüber, daß die beiden
+Wahrsprecher dasselbe sagen würden, und darüber _wenn_ du sie denn fragen
+würdest, das ER dasselbe sagen würde. Da aber die ganze Frage zusammenhängend
+beantwortet wird, kann der Lügner an einer beliebigen Stelle lägen, die anderen
+ignorieren, und hat dennoch ehrenhaft gelogen !! (das _ob_, hat er gar nicht
+dazu gebraucht)
+
+Das ist nun ein schwerer Nachteil von zusammengesetzten Fragen, da man je
+komplexer die Frage wird, um so schwieriger herausbekommt, an welcher Stelle
+denn nun gelogen wurde.
+
+
+Diesen Punkt habe ich auch  Mißverstanden. Erst heute bekam ich die Zusatzinfo
+(Anhang) das es sich eben nicht um einen Zufallsl�gner handelt, sondern
+tatsächlich um ein Quatschkopf. Seine Eigenschaft stellt man sich am besten so
+vor das er immer und zu allem ja oder nein sagen kann, er denkt in keiner Weise
+darüber nach. Ergo interessiert es ihn auch nicht die Bohne, wenn man ihm etwa
+nachweisen könnte, das er zu einer bestimmten Frage gar nichts sagen kann,- er
+sagt es trotzdem  ;-(
+
+
+Das Münzspiel, kann ich doch nur verlieren  wenn ich derjenige bin der anfängt
+?
+Erinnert mich irgendwie an das Fibonaci- Nimm, der erste verliert da immer,
+wenn der Nachziehende darauf achtet das er immer so wegnimmt das eine Fibonaci
+Zahl stehenbleibt.... irgend sowas war da doch ??
+
+aber vielleicht versuche ich mal (ZZZ) ?
+
+übrigens geht deine Email nicht,- ist prompt zurückgekommen ;-(
+  mfg
+	 U.P.
+
+
+ANHANG:
+
+
+Sorry! Ich muß hier gleich dazwischenhacken:
+
+ 1. Du darfst nur Fragen stellen, die man mit JA oder NEIN beantworten 
+    kann, und
+
+ 2. Du darfst insgesamt nur DREI Fragen stellen, und zwar jede nur an
+    EINE Person! Wenn Du also die erste Frage an alle drei richtest,
+    dann hast Du schon alle drei Fragen verbraten ...
+
+
+Siehe oben ...  Und nochmal meine Erörterung zur Anzahl der Fragen:
+Pro Frage an EINE Person erhält man EIN Bit an Information (JA oder
+NEIN). D.h., mit zwei Fragen hast Du 2 Bit, also 2^2=4 Möglichkeiten,
+die Du mit zwei Fragen unterscheiden kannst!
+
+Es gibt aber 3!=6 Möglichkeiten, die Attribute Lügner (L),
+Wahrheitssager (W) und Dummschwätzer (D) auf drei Personen zu
+verteilen, nämlich
+
+          1  2  3  4  5  6
+
+Person 1  W  L  L  W  D  D
+
+Person 2  L  W  D  D  W  L
+
+Person 3  D  D  W  L  L  W
+
+Wenn Du also nur zwei Fragen stellst, mit zwei Bit aber nur vier Fälle
+unterscheiden kannst, dann müssen notgedrungen (nach dem
+Schubfachprinzip oder engl. pidgeon hole principle) mindestens zwei
+der sechs Möglichkeiten demselben Fall zugeordnet werden, z.B. Nr. 2
+und Nr. 5 von oben.  Das würde bedeuten, Du stellst Deine zwei Fragen
+und entscheidest Dich für Fall Nr. 2 (1->L, 2->W, 3->D). Bei der
+anderen Konfiguration Nr. 5 (1->D, 2->W, 3->L) würdest Du aber auf
+Deine zwei Fragen ABSOLUT DIESELBEN Antworten bekommen und müsstest
+Dich ebenso für Fall Nr. 2 entscheiden, was dann aber FALSCH wäre!!!
+
+ist
+
+Was meinst Du mit innerhalb einer Antwort wechseln??? Der
+Dummschwätzer macht sich doch über Deine Frage gar keine Gedanken!!!
+Er sagt also - nachdem Du die Frage gestellt hast - einfach PER ZUFALL 
+"JA" oder "NEIN". Da muß man nicht wechseln!!!
+
+
+N, heute nicht. Ich hab keine Zeit. Aber Du könntest Dir ja mal bis
+nächste Woche von jemanden SCHAFKOPF beibringen lassen ... ;-)
+
+Ciao, Stefan

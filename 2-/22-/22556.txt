@@ -1,0 +1,95 @@
+Ich kann nur nicht sagen, dass ich von Ergebnissen von solchen
+Konferenzen bisher übermässig beeindruckt bin.
+
+
+Nicht Abdul hat diesen Impuls in die Softwareentwicklung gegeben,
+sondern Gerard Bäuerle et.al. haben das mit ihrem Buch "Design Patterns".
+
+
+Ich kann diesen Gedanken wirklich nachvollziehen, immerhin habe ich
+selbst ein Konzept vorgestellt namens "Pattern Driven Architecture" für
+die automatisierte Softwareentwicklung. Allein, ich denke trotzdem, Du
+überschätzt da was. "Wir denken jetzt alles in Mustern" ist kein
+hinreichendes Konzept für Weltmodelle (man verzeihe mir diesen Begriff
+hier, es handelt sich um einen Informatik-Begriff). Da gehört mehr dazu.
+
+Ich sehe deshalb ja Deine Darstellungen durchaus nicht nur negativ. Ich
+halte Dich keinesfalls für einen Idioten, Marcel, nur bei Deinem Muster-
+Enthusiasmus solltest Du vorsichtig sein, dass Dich nicht manche Leute
+so sehen (diese Warnung ist nett gemeint und soll keinesfalls
+beleidigen).
+
+Die Identifikation von Mustern und ihre Anwendung in der Informatik ist
+ein mächtiges Werkzeug, aber keinesfalls etwas, mit dem man alleine
+alles erschlagen kann.
+
+
+Womit wir beim Problem wären, das ist ja nicht mehr sinnvoll in der
+Menge.
+
+
+Das macht es noch schwieriger, und bestätigt erneut meinen Eindruck, den
+ich vorher schon hatte.
+
+
+Ich habe den Eindruck, Ihr (ich verwende da mal den Plural für Euch
+Muster-Enthusiasten) macht Euch da etwas vor. Das wird nie
+funktionieren, dass man aus dem Mittelmaß Muster schöpft, die gut sind.
+Man wird allenfalls eine Menge mittelmässiger Muster bekommen. Der Trick
+von Gerard Bäuerle et.al. ist aber gerade, dass sie Muster auflisten, die
+von sehr, sehr guten Leuten stammen, und die deshalb wirklich Sinn
+machen – und sogar hier finden sich (m.E.) Stilblüten wie das
+Beobachter-Muster, für das ich noch nie eine Anwendung gefunden habe,
+weil mir Loose Coupling über Publish Subscribe eigentlich immer lieber
+ist in meinen Architekturen (nur um ein Beispiel zu nennen).
+
+
+Oh, keinesfalls. Du wärst vermutlich überrascht.
+
+
+Das kann man glücklicherweise immer ;-)
+
+
+Und da beginnst Du ideologisch zu werden. Du verlässt jetzt einen
+analytischen Muster-Begriff und beginnst zu schwärmen.
+
+
+Ist mir klar, dass Du Idealist bist. Das macht Dich übrigens sympathisch
+;-)
+
+
+Dass Gestaltung eben gerade nicht entscheidbar ist, da sind wir ja ganz
+einer Meinung. Aber da ich mit einer Designerin zusammenlebe, und
+ständig selbst in Gestaltungsprozessen involviert bin, kann ich Dir
+sagen, dass ein Brainstorming so ziemlich das Gegenteil vom Anwenden von
+Mustern darstellt.
+
+
+Ich vertrete selbst ein mit Kanban verwandtes Verfahren der agilen
+Softwareentwicklung. Grob hab ich XP und Kanban mit Contract-First-
+Design gekreuzt, und über Komponentenhierarchien das Verfahren
+skalierbar gestaltet.
+
+Mit Mustertheorie komme ich hier nicht weiter, das funktioniert anders.
+
+
+Da sind nicht unbedingt "kleine Schritte", und da ist nur wenig
+"Reversibilität" (letzteres ist sowieso m.E. ein Wort, mit dem man dem
+Kunden die bittere Wahrheit schmackhaft machen will, dass man nämlich
+öfters den ersten Entwurf besser nochmals wegschmeisst und einen zweiten
+macht, das kommt unter Strich billiger).
+
+
+Ich habe selbst ein Modell für agile Hardwareentwicklung entworfen und
+erfolgreich im Projekt angewandt. Deshalb kann ich Dir aus Erfahrung
+sagen, das geht in bestimmten Teilbereichen sehr gut, in anderen ist
+klassisches Engineering nicht nur haushoch überlegen, sondern sogar
+unbedingt notwendig. Und wie man das verbindet, darin liegt die Kunst.
+
+Agiles vorgehen ist keinesfalls ein Allheilmittel. Ganz im Gegenteil. Es
+ist nur für bestimmte Anwendungen mit Abstand das beste in der Praxis.
+
+Viele Grüsse,
+VB.
+-- 
+Bitte beachten Sie auch die Rückseite dieses Schreibens!

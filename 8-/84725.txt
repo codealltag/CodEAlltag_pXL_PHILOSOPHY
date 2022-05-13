@@ -1,0 +1,59 @@
+Ja, ja. Segen und Fluch der Umgangssprache zugleich.
+
+Jedoch legt man sich im /modallogischen Kontext/ auf eine "bestimmte"
+Bedeutung fest. (Wobei diese unterschiedlich sein kann. :-)
+
+Doch, ja, dem würde ich auch zustimmen.
+
+Das kann man sogar an *ganz einfachen* Beispielen zeigen. 
+
+Betrachte:
+
+	A -> B
+
+	Wenn A, dann B.
+
+Nun setzen wir z. B.
+
+	A : es regnet
+	B : die Straße ist nass  ,
+
+dann würde sich _rein formal_ der folgende _ungrammatische_ Satz
+ergeben:
+
+	Wenn es regnet, dann die Straße ist nass.
+
+Man muss also _im Deutschen_ etwas "tricksen", und kann nicht einfach
+bloß mechanisch substituieren für "A" und "B".
+
+Im Englischen aber hat man hier:
+
+	A -> B
+
+	If A, then B.
+
+Und mit
+
+	A : it rains
+	B : the street is wet
+
+ergibt sich:
+
+	If it rains, then the street is wet.
+
+Es ist hier also möglich (sic!) rein mechanisch zu substituieren: man
+erhält einen korrekten (bzw. den gewünschten) Konditionalsatz.
+
+
+A.
+
+
+P.S.
+Angeblich soll sich, ähnlich wie das Englische, auch das Arabische
+sehr gut für logische Zwecke eignen, laut meinem ehemaligen Logik-
+Lehrer an der Uni.
+
+--
+
+E-mail: 
+ugaegj<ij>simple<bindestrich>line<punkt>de

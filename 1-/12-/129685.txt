@@ -1,0 +1,115 @@
+Sie haben vollkommen recht, was den zweiten Teil Ihres bzw. meines
+Postings angeht; da habe ich tatsächlich übereilt meine Schlüsse
+gezogen. Deshalb beschränke ich mich auf einen Kommentar zum ersten
+Teil.
+
+
+Ja, auf Lohauß/Verhufen habe ich ja hingewiesen.
+Es liegt auf der Hand, daß Wahrheitswertlücken für formale Analysen zu
+vermeiden sind, jedoch kann es sein, daß man mit der
+Wahrheitswertbelegung in formalen Kontexten in Schwierigkeiten kommt,
+wenn man einen Abgleich mit der natürlichen Sprache oder eine
+Rückübersetzung in diese vornimmt. Besonders virulent ist dieses
+Problem bekanntlich bei der Formalisierung bzw. Entformalisierung von
+(irrealen) Konditionalen in der Aussagenlogik.
+In der Philosophie der Sprache entstehen mit einem rigiden tertium
+non datur Probleme bei der presupposition/entailment-Analyse von
+Implikationen oder bei empty names und Kennzeichnungen (s.
+nächststehenden Kommentar).
+
+
+Völlig accord, allerdings habe ich sinnvolles Sprechen strikt mit
+Blick auf das Wahrheitswertproblem verstanden wissen wollen und mich
+nicht präzise genug ausgedrückt.
+Es ist extrem kontraintuitiv zu sagen, 
+
+	(1) Winnetou ist ein Indianer
+
+sei falsch - und das ist in der Philosophie der (natürlichen) Sprache
+m.E. ein schwerwiegender Einwand.
+Dieser Eindruck wird noch verstärkt dadurch, daß nach Roggenkemper
+folgender Satz (2) genauso falsch ist wie (1):
+
+	(2) Winnetou ist kein Indianer.
+
+
+Dieser Vorschlag produziert mehr Probleme, als er löst, und
+freundlicherweise widerlegen Sie sich auch gleich selbst mit
+exzellenten Gegenbeispielen. ;o)
+
+Was Sie vorschlagen, kann man bezeichnen als Unterscheidung von
+semantischer und realer Existenz. Einen solchen Vorschlag findet man
+luzide skizziert z.B. in Fredy Linhoses superbem Buch Philosophische
+Grundbegriffe (S. 153 ff.).
+
+Eine noch größere Schwierigkeit als die, die Sie ansprechen, besteht
+in von der Realität entkoppelten negativen Existenzaussagen über
+fiktive Objekte:
+
+	(3) Es gibt keine Romanfigur Gabriel T. [sic]
+
+Dieser Satz ist insofern entkoppelt, als hier von vornherein nur von
+semantischer Existenz (der Romanfigur Gabriel T.) die Rede ist, nicht
+aber von realer Existenz.
+Dagegen wären z.B.
+
+	(4) Es gibt in Wirklichkeit keine Einhörner
+
+oder Ihr Satz
+
+	(5) Es gibt keine deutschen Flugzeugträger
+
+zwei an die Realität gekoppelte Sätze, weil von tatsächlicher und
+nicht nur semantischer Existenz (der Einhörner bzw. der
+Flugzeugträger) gesprochen wird.
+
+Das Problem ist nun das folgende: Da bei (3) von vornherein auf nichts
+Reales referiert wird, sondern nur auf eine Fiktion (eine Bedeutung),
+kann man nicht mehr sagen: Es gibt zwar kein reales Bezugsobjekt, wohl
+aber ein semantisches; denn die Existenz dieses semantischen
+Bezugsobjekts wird in (3) ja gerade verneint!
+Für eine geglückte Bezugnahme müßte man jedoch die semantische
+Existenz einer Romanfigur Gabriel T.� voraussetzen:
+
+	(6) Es gibt ein (semantisches) x derart, daß x eine Romanfigur Gabriel
+T ist.
+
+Und dies stünde dann im Widerspruch zu (3)!
+
+
+Der Widerspruch von (3) und (6) ließe sich nur ausmerzen, wenn man
+unterschiedliche fiktionale Ebenen annähme. Ich unternehme diesen
+gewagten Versuch jetzt einmal.
+So könnte man sagen:
+
+	(3) Es gibt keine Romanfigur Gabriel T.
+
+ist falsch auf einer fiktionalen Ebene (a), auf der z.B. folgender
+Satz wahr wäre:
+
+	(7) Es gibt eine Romanfigur Gabriel Z.
+
+Damit (3) auf (a) sozusagen widerspruchsfrei falsch sein kann, müßte
+man auf einer höheren (oder tieferen, wie Sie wollen) Ebene (b)
+annehmen, daß dort ein entsprechendes semantisches Meta-Bezugsobjekt
+vorhanden sei. Diese Schichtung in Ebenen wäre vergleichbar mit
+Waßers Idee von Metasprachen: So wie dort das Wahrheitskriterium
+immer in einer Metasprache angesiedelt sein muß, damit keine
+Paradoxien entstehen, muß hier immer eine Art Metasemantik vorhanden
+sein, um entkoppelte negativen Existenzaussagen über fiktive Objekte
+widerspruchsfrei - und jenseits von Roggenkemper, das war ja der
+Ausgangspunkt - machen zu können.
+
+Würde man nun über die Bedeutungen auf der Meta-Ebene (b) negative
+Existenzaussagen machen wollen, so müßte man eine noch höhere Ebene
+(c) annehmen usw., ad infinitum.
+
+
+Das ist die Frage: Ob nicht der Begriff Wahrheit einen impliziten
+Absolutheitsanspruch erhebt, der die Spaltung des Wahrheitsbegriffes
+mit unterschiedlichen theoretischen Zugängen verbietet. Einen anderen
+Weg scheint es aber nicht zu geben.
+
+
+Gruß
+irmgard

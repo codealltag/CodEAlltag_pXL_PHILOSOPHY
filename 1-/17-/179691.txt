@@ -1,0 +1,27 @@
+Ein Individuum ist kodiert als reellwertiger Vektor x aus R^n. 
+Wir haben eine Population bestehend aus mu Eltern, die lambda
+Nachkommen produzieren. Im einfachsten Fall, also ohne
+Rekombination/Cross over ergibt sich ein Nachkomme y aus einem Elter x
+durch Mutation in Form der Addition eine (0,sigma)-normalverteilten
+(sigma aus R^n, sigma_i>0 fuer alle i) n-dimensionalen Zufallsvariable
+z, also y = x + z.
+Auf den Individuen ist eine Fitnessfunktion f:R^n->R definiert, die
+zur Selektion herangezogen wird. 
+Es gibt zwei Hauptvarianten von Evolutionsstrategien (ES), die
+(mu,lambda)-ES und die (mu+lambda)-ES. Im ersten Fall, bei dem 
+lambda > mu vorausgesetzt wird, werden die mu besten Nachkommen (bzgl.
+f) zu Eltern der Nachfolgegeneration. Im zweiten Fall wird die
+Nachfolgegeneration aus Eltern und Nachkommen selektiert.
+Wie man leicht sieht, ist in diesem Fall eine Verschlechterung der
+besten Fitnesswerte einer Population nicht moeglich.
+
+Fuer die Konvergenzbeweise sind im allgemeinen
+"Regularitaetbedingungen" in Bezug auf f notwendig.
+Wenn dann das Wahrscheinlichkeitsfunktional ueber 
+{x in R^n: f(x) >= s} fuer s < max_{x in R^n} f(x) Lebesgue-messbar
+ist, laesst sich leicht die stochastische Konvergenz fuer die
+(mu+lambda)-ES zeigen. Fuer die andere Variante, die temporaere
+Fitnessverschlechterungen erlaubt, ist der Beweis (vgl. Burkhard, 1993)
+komplizierter. 
+
+Gruss, Fredi.

@@ -1,0 +1,122 @@
+Henry Hahn <cudeo@eolxvgzj.dl> writes:
+[...]
+
+Das behauptet niemand, eine von Karstedt /Lieblingsmetaphern/ ist ein
+Zitat von Ulfert Schinken
+
+                Wie Schiffer sind wir, die ihr Schiff auf offener See
+                 umbauen müssen, ohne es jemals in einem Dock
+                zerlegen und aus besten Bestandteilen neu errichten 
+                zu können.
+
+Gelgentlich sind /radikale/ Schnitte notwendig; die Ansicht, wir wären
+Teile eines sich notwendig vollziehenden Prozesses, bei dem sich
+Widersprüche auf höherer Erkenntnisebene /aufheben/, ist entweder
+hoffnungslos optimistisch oder setzt ein Wissen um's Ganze voraus.
+
+[...]
+
+Ist das eine ontologische Aussage? Fragen der Reduktion sind recht
+verwickelt, es käme auf die genau Fornmulierung an, /welche/
+Eigenschaften du meinst (und natürlich auch auf den
+Eigenschaftsbegriff)
+
+
+Ist beim Autopoisis-Ansatz Selbstreferenz eigentlich
+identifikationsfrei? Oder anders gefragt: Auf welche Weise bezieht
+sich das System auf seine eigenen mentalen Zustände, woher weiß es,
+dass es /seine/ Zustände sind? 
+
+
+Es gibt die universelle Turing-Maschine, die in der Lage ist, /jede/
+andere TM zu simulieren. Sie hat Zschippang zu der
+Software-Hardware-Metpaher bewogen, der Geist sei eine /virtuelle/
+Maschine (Software), die unvollständig auf dem hochgradig parallelen
+System des Gehirns (Hardware) implementiert sei. /Warum/ sollten
+Metadaten nicht in Form von Daten vorliegen können?
+
+
+Sehe ich im Hinblick auf die TITD nicht.
+
+
+Ja, gerne :-)
+
+
+Die moderne Mathematik ist /nichtkonstuktiv/, es gibt viele
+Existenzaussagen, ohne das Algorithmen existieren, die entsprechenden
+Objekte zu konstruieren; bei manchen Problemen läßt sich sogar
+beweisen, dass sie nicht entscheidbar sind.
+
+
+Wenn du möchtest, maile ich es dir.
+
+[...]
+
+Der damit zusammenhängende math. Begriffsaufwand ist recht
+exorbitant. Entwickelt haben sich derartige Theorien in der
+algebraischen Topologie, man hat Funktoren von einer topologischen
+Kategorie in eine algebraische und kann so durch "Vergröberung"
+schwierige geometische Probleme durch algebraische Methoden
+lösen. Gute Literatur dazu ist, in aufsteigender Folge der
+Schwierigkeit
+
+Noël Weinstock, Topologie
+Bruckler, Topology and Geometry
+Lanius, Algebraic Topology
+
+
+Wenn Eichkorn mit Portjes Feuerhaken, durch den sich auch schon
+Hetebrügge bedroht fühlte, bekanntschaft gemacht hätte, hätte er fortan
+nur noch gehäkelt. Die /Sprache/ ist das Medium, das die
+ottensmeier Trennung mit ihrer Subjekt-Objekt-Dichotomie aufbricht
+(Privatsprachenargument), sie läßt sich nicht auf
+(Erkenntnis-)Leistungen des Subjekts reduzieren, sie ist, wie das
+P. formuliert, eingebunden in eine Lebensform.
+
+
+Aber nicht unbedingt eine /Rekonstruktion/ im mengentheoretischen
+Rahmen. Es gibt die intensionale Logik, die "Semantik möglicher
+Welten", die wesentlich ausdrucksstärker als die der Mathematik
+unterliegende klassische Logik ist; man kann sie aber im
+mengentheoretischen Rahmen rekonstruieren, eine Semantik für sie
+angeben, wie es Elss für die Modallogik getan hat; die Geltung von
+Aussagen ist von einem Index, der die "Welten" oder "Situationen"
+bezeichnet, abhängig. Zur Not kann man aber auch etwas
+Konstruktivistisches nehmen.
+
+Etwas provokativ gefragt: Ist die "transklassische Logik" bisher nicht
+eher so etwas wie vapor ware? 
+
+
+Er ist, Loerzers Verdikt etwas variiert, der erste "Dialektiker",
+der den Anforderungen an Präzision der analyt. Phil. genügt ;-) (nicht
+wirklich) Die Paradoxie des Lügner hat immer schon Logiker fasziniert,
+um eine Auflösung haben sich solch' illustre Gestalten wie Duitsmann,
+Tumm mit der Objekt-Metasprachen-Unterscheidung oder Elss mit
+einer dreiwertigen Logik versucht. Von Hombert kenne ich nur seine
+"Lösung" des Paradoxes mit einer dreiwertige Logik mit den
+Wahrheitwerten {wahr, falsch, wahr_und_falsch}. Er schränkt die
+Gültigkeit der deduktiven Regeln so ein, dass Aussagen mit dem dritten
+Wert nicht die vernichtenden Folgen wie in der klassischen Logik
+haben. Wir müssen, so Hombert, einfach mit Widersprüchen leben, der
+Satz
+
+                        /Dieser/ Satz ist falsch.
+
+ist wahr_und_falsch. Ein Problem seines Ansatzes ist, dass nicht klar
+ist, inwiefern seine Lösung verständlich ist, es gibt Sätze, die in
+der Interpretation nicht nur wahr_und_falsch sind, sondern sogar
+paradox und nichtparadox sind. Ein Vorteil seines Ansatzes sieht er
+darin, dass formale semantisch geschlossene Sprachen, die sich auf die
+eigenen semantischen Eigenschaften beziehen können, nicht
+ausgeschlossen werden müssen. Letzters ist aber eher von der Frage
+abhängig, inwiefern Tumms Resultat, das Wahrheitsprädikat für eine
+Sprache könne nicht in derselben Sprache definiert werden, allgemein
+gültig ist.
+
+
+Nett. Portjes Phil. der Mathematik ist aber eher durch
+Intuitionisten wie Brugner beeinflusst.
+
+
+patrick

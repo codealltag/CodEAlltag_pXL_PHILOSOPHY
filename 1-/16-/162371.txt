@@ -1,0 +1,29 @@
+Man kann das ausrechnen, wie weit man sich bei welcher Beschleunigung
+der Lichtgeschwindigkeit nähern kann. Meine Aussage, daß man bei
+konstanter Beschleunigung _im Raumschiff_ jeden beliebig fernen Punkt
+im Universum erreichen kann, wenn er nur endlich weit entfernt ist, war
+übrigens nicht richtig durchdacht (vulgo "falsch" :-)), weil er auf der
+Annahme einer vom ruhenden System aus gemessenen, konstanten
+Beschleunigung beruhte.
+
+Dabei kann sich das mit Erdbescheunigung davonfliegende Raumschiff
+innerhalb eines Jahres beliebig c nähern (Wobei die dafür benötigte
+Energie ebenso beliebig groß wird). Nachteil ist leider, daß dann die
+Beschleunigung im Raumschiff alles andere als konstant ist... Am Ende
+werden die Passagiere doch durch die Sitzfedern "passiert" ;-)
+
+Die innerhalb der Raumschiffzeit zurücklegbare Entfernung bei stets
+im Raumschiff gemessener, konstanter Beschleunigung ergibt sich zu
+
+Entfernung = (2*c*c / a) * (cosh( a * Raumschiffzeit / (2*c))-1)
+
+Mit endlicher Beschleunigung lassen sich damit also nicht beliebig grosse
+Entfernungen innerhalb der Lebenszeit eines Menschen überbrücken.
+Setzt man für a die Erdbeschleunigung ein und teilt man einen Raumflug
+in Beschleunigungs- und gleichgroße Bremsphase auf, sind aber immerhin
+30.000 Lichtjahre in 20 Jahren bzw. 2 Milliarden Lichtjahre in 42
+Jahren Flugzeit (Eigenzeit) überwindbar. D.h. der heutige "Rand" des
+Universums, der ca. 10 bis 20 Milliarden Lichtjahre entfernt sein soll,
+wäre von einem jungen Raumfahrer in dessen Rentenalter zu erreichen.
+
+Viele Größe, Dietrich

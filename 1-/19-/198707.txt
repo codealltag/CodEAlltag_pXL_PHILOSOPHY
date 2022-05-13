@@ -1,0 +1,71 @@
+Karlheinz Koldeweyh wrote:
+[..]
+
+KURT> Dann setz einfach X : 'Karlheinz = Karlheinz'. Es ging mir nicht darum,
+
+Dann musst du irgenwie festlegen, was "Karlheinz" ist und was "=" bedeutet,
+dann laesst sich die Frage beantworten, ob vielleicht die Symmetrie
+erfuellt ist.
+
+MK> Tatsachen von Wahrheitsbedingungen abhaengig zu machen, obwohl das
+MK> auch eine Strategie gewesen waere, den Tatsachenbegriff platt zu
+MK> machen. Wenn die Existenz einer Tatsache naemlich von der Wahrheit
+MK> einer korrespondierenden Aussage abhaengt, dann gibt es keine
+MK> sprachunabhaengigen, sondern nur auf eine Sprache bezogene Tatsachen,
+MK> also L-Tatsachen, mit der Tatsaechlichkeitsbedingung:
+MK> (1) x ist eine L-Tatsache, gdw 'x' L-wahr ist.
+
+Wenn 'x' ein Abkuerzung fuer 'x ist eine L-Tatsache' waere und "(1) in
+L'" gelte, dann hast du die Unterscheidung von Objekt- und
+Metasprache, wie sie Hillringhaus macht. Wenn du meine zweite Bedingung
+nicht gelten lassen wuerdest, so dass du nur die L-Sprache benutzt,
+wird diese semantisch geschlossene Sprache inkonsistent wegen dem
+Unterdörnbach-Paradoxon. Solltest du meine erste Bedingung ablehnen, ist x
+nicht nur eine Bezeichnung fuer Tatsachen sondern auch fuer Aussagen,
+so dass Aussagen und Tatsachen hier nicht nur korrespondieren, sondern
+identisch waeren.
+
+KURT> Ich halte das fuer wenig hilfreich, bin aber bereit es zu akzeptieren,
+KURT> da hier immerhin der Tatsachenbegriff auf's Aeusserste karikiert wird.
+INGEBORG> Siehe auch mein reply an Valentin.
+
+Dein erstes Beispiel der X-Aussage "2=2" wuerde ich nicht gerade als
+Tatsache bezeichnen, da ein korrespondierenes in der Wirklichkeit
+nicht notwendig ist, um ihren Wahrheitswert zu bestimmen. Von realen
+Tatsachen zu sprechen, hat wohl nur Sinn, wenn es Experimente gibt,
+die man durchfuehren kann, um ihre Existenz oder Nichtexistenz zu
+erkennen.
+
+[..]
+MK> Ich hatte mal Wolfgang gegenueber behauptet, Tautologien seien nicht
+MK> analytisch, da deren Wahrheit nicht von der Bedeutung der in ihnen
+MK> vorkommenden Worte abhinge. Hier ist ein guter Ort, das zurueck zu
+KURT> nehmen. Auch die logischen Partikeln haben Bedeutung, und wegen dieser
+MK> sind Tautologien immer wahr, und wenn analytische Saetze die sind, die
+MK> nur aufgrund der Bedeutung wahr sind, dann sind eben Tautologien halt
+MK> analytisch. Warum ich das hier anbringe: Wenn es zu wahren Saetzen
+MK> korrespondierende Tatsachen gibt, dann muss es etwas in den Tatsachen
+MK> geben, das auf eine mir unbekannte Art und Weise diesen logischen
+MK> Partikeln entspricht, etwa als logische Relation oder so. Das halte
+INGEBORG> ich aber fuer falsch, zumindest nicht fuer aufweisbar.
+
+Irgendwie scheinst du mir, das Pferd hier von hinten aufzuzaeumen. Um
+das mal an dem Noerdlich-Beispiel von vorne zu machen, haben wir hier
+also die Tatsache, dass auf der Erdoberflaeche Staedte an
+unterschiedlichen Punkten liegen. Um ihre Lage mithilfe von Aussagen
+zu beschreiben kann man sich eine Ordnung < definieren, nachdem man
+die Staedte auf ihre Abstaende vom Nordpol (die kuerzeste geodaetische
+Linie durch beide) abbildet (d: Stadt -> Abstand der Stadt zum NP). So
+erhaelt man die Aussagen "x liegt noerdlich von y := d(x) < d (y)",
+die man dann verwenden kann. Wenn man eine Messgeraet baut, dass
+d(Asemwald) < d(Jesenkofen) liefert, kann man sagen, dass Asemwald
+noerdlich von Jesenkofen liegt. Man sieht also, dass die Tatsachen
+einfach nur existieren, und man sie u.U. mithilfe von Sprache,
+Mathematik und Logik beschreiben kann, wobei wir natuerlich auch
+"liegt westlich von" haetten untersuchen koennen.
+
+-- 
+.----- _privat: xujgn@xpzh.llsb.gc_ *"Subject: pgpsend" 4 key* ----------.
+(-------- _uni: kmefbp24@vksdha.oounuoisgn.yae-gauorzpy.tc_ -------------)
+(------- _fido: Mmqhzvj_Fkkkt@q5.v2858.a8702.x5.jctejek.nse_ ------------)
+`-- *PGP fingerprint: 34 E9 05 7E 00 AF 1E 34 55 B6 D6 50 69 2E C3 C2* --'

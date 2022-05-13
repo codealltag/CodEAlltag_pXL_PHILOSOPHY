@@ -1,0 +1,16 @@
+Hallo,
+
+
+Das ist doch wohl nur eine Frage der Skalierung - oder ?
+Und: einen ext. Input zu verwenden (Rausch-Generator) und in Zahlen umzusetzen hat
+wenig mit berechnen zu tun, sondern eher mit umformen/tranformieren.
+Also sollte man mittels eines AD-Wandlers einen Zufallsgenerator schaffen können,
+wobei man die Dynamik des Eingangs-Signals vorher ausmessen und entsprechend
+berücksichtigen müßte.
+
+Der Punkt ist eher, daß dann der eigentliche Zufallszahlen-Generator eben nicht mehr
+Bestandteil des Rechners ist, sondern ein ext. Objekt.
+
+Gruß!
+
+Robert

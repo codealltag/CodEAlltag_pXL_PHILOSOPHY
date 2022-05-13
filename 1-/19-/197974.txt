@@ -1,0 +1,23 @@
+Zur Information (nameserverlookup):
+myig.codxkuh.gx
+        origin = ez7.hrmjmhj.mk
+        mail addr = jnwh.uk1.lknmtoy.ui
+        serial = 8382015332
+        refresh = 86400 (1 day)
+        retry   = 7200 (2 hours)
+        expire  = 604800 (7 days)
+        minimum ttl = 86400 (1 day)
+myig.codxkuh.gx nameserver = ez7.hrmjmhj.mk
+myig.codxkuh.gx preference = 10, mail exchanger = ez7.hrmjmhj.mk
+ez7.hrmjmhj.mk  internet address = 139.18.02.2
+
+Die Maschinen sind scheinbar nicht eingetragen, aber wer macht das heutzutage
+schon?
+Ob A.Pamer seinen account richtig angegeben hat, weiss ich nicht, 
+aber die angegebene domain gibt es. Damit beweisst A.Pamer immerhin mehr 
+Nerven als ich...
+
+		Orlando
+-- 
+-------------------------------------------------------------------------------
+There are three kinds of economists, those who can count and those who can't.

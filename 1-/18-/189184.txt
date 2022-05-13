@@ -1,0 +1,32 @@
+Reicht es nicht, dass es keine mathematische Definition der
+physikalischen Zeit gibt/geben kann?
+
+
+Natuerlich das gilt aber nur fuer die Hardware und nicht in der Theorie.
+Komplexitaetsmasse muessen sich ja auf irgendeine Regelmaessigkeit im
+Universum der Turingmaschinen stuetzen und nicht auf etwas ausserhalb
+dieses Universums, damit sie sinnvoll sein koennen.
+
+[...]
+
+
+Ja, an sich schon die ganze Zeit.
+
+
+Vor allem hat Effizienz wohl nicht viel mit praktischer Einsetzbarkeit
+zu tun. Die spielt in so einem Fall eigentlich nur eine Rolle, falls P
+!= NP und man mit einer theoretischen N**100 Loesung zumindest weiss,
+dass es u.U. noch eine bessere geben koennte.
+
+[...]
+
+Die Anfuehrungszeichen hast du schoen gesetzt. Unter Loesen haette ich
+schon Entscheiden verstanden, den TMs halten normalerweise nur, wenn sie
+akzeptieren oder verwerfen. Da das Halteproblem semientscheidbar ist,
+haelt sie nicht immer, sondern sie "haelt" hoechstens immer.
+
+-- 
+USER       PID %CPU %MEM  SIZE   RSS TTY STAT START   TIME COMMAND
+rc5        435 87.5  0.3   788   344  ?  F A Kranichberggasse  9 5674:47 ./rc5des 
+ Email to imrkn@pgrs.sfcu.ug with *Subject: pgpsend* for my PGP public key!
+_PGP public key fingerprint: 34 E9 05 7E 00 AF 1E 34 55 B6 D6 50 69 2E C3 C2_

@@ -1,0 +1,22 @@
+Man scheitert mit der Berechenbarkeit. Ich verwende für Berechenbarkeit
+die gängige Definition aus der Berechenbarkeitstheorie: ein Problem
+heisst berechenbar, wenn es einen Algorithmus gibt, der das Problem
+berechnet.
+
+Diese Simulationen können nicht die korrekten Werte berechnen, sondern nur
+Näherungen mit Wahrscheinlichkeiten, die darüber hinaus immer schlechter
+werden, je weiter man in die Zukunft berechnet.
+
+Dass man zu solchen Mitteln greift, liegt daran, dass das allgemeine
+Dreikörperproblem nicht berechenbar ist, weil es keinen Algorithmus
+geben kann, der es berechnet.
+
+
+Klar. Es geht ja nicht anders. Wäre das Problem berechenbar, würde man
+es anders machen. Das würde einem den Antrieb in verschiedenen
+Flugkörpern sparen helfen.
+
+Viele Grüsse,
+VB.
+-- 
+Bitte beachten Sie auch die Rückseite dieses Schreibens!

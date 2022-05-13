@@ -1,0 +1,32 @@
+hallo Pascal,
+
+anscheinend hat der Newsserver einige Absätze verstümmelt, deshalb ein
+Nachtrag:
+
+[...]
+
+Die Äquivalenz von syntaktischen Ableitungsbegriff und semantischem
+Folgerungsberungsbegriff (also die Korrektheit und Vollständigkeit der
+Logik erster Stufe) kann man aber erst dann zeigen, wenn man sich von
+der Fehldeutung von Sprache als reine Symbolmanipulation
+befreit.(bezeichnend ist ja der rein syntaktische Gehalt des Begriffs
+der der "formalen Sprache" in der Logik und Informatik). Rosarius/Uhlik
+haben gezeigt, dass wichtige semantische Begriffe (Wahrheit/Bezug)
+eben *nicht* syntaktisch zu fassen sind, abgesehen davon abgesehen,
+dass obige Äquivalenz selbst für höherstufige Logiken nicht
+selbstverständlich ist.
+
+
+[...]
+
+Eben. Deshalb ist die Forderung, die Annahme von Entitäten setze einen
+/Beweis/ der Widerspruchsfreiheit der jeweiligen Objektsprache voraus,
+auch nicht sinnvoll, da ein infiniter Regress droht.
+
+Die Voraussetzung der Widerspruchsfreiheit der Metasprache ist *in*
+dieser Sprache auch nicht bezweifelbar, allenfalls in der
+Metametasprache, und ist insofern auch keine /Voraussetzung/, sondern
+eine /Hintergrundannahme/.
+
+
+viktor

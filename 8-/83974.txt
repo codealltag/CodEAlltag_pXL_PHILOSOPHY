@@ -1,0 +1,15 @@
+Oder wie wär's mit
+
+[FL*] "Dieser Satz ist nicht 100%ig wahr"
+
+Wenn man eine Fuzzy Logic mit möglichen Wahrheitswerten W e |R
+zugrunde legt, dann kann man FL* irgendein x daraus als Wahrheitswert
+zuordnen.
+Wenn x =3D 1 (=3D100%), dann ist FL* paradoxerweise nicht 100%ig wahr; und
+für alle x < 1 ergibt sich ebenfalls paradoxerweise, dass FL* in
+diesen Fällen 100%ig wahr ist. Speziell für x =3D 0, d.h. für den
+Fall, dass FL* 0%ig wahr ist, gilt, dass FL* auch dann 100%ig wahr ist;
+denn ein Satz, der 0%ig wahr ist, ist nicht 100%ig wahr.
+
+Gruß
+ROBERT

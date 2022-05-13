@@ -1,0 +1,8 @@
+Prim? Erste? Eins? 1? Ansonsten:
+"Eine Primzahl ist eine natürliche Zahl größer als eins mit genau zwei
+natürlichen Zahlen als Teiler, nämlich der Zahl eins und sich selbst."
+und schon ist das Problem wegdefiniert, was an der semantischen Bedeutung 
+Prim allerdings nichts ändern würde.
+
+Grüße,
+Gian

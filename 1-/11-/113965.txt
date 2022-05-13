@@ -1,0 +1,102 @@
+Die sogenannte /Negative Freie Logik/.
+
+Literatur:
+http://ewanq.wfvfgttvu.bue/0446384217.zyc
+
+Als kleine Einstiegshilfe:
+
+Free Logic
+
+Free logic, a system of quantification theory, with or without identity,
+that allows for non-denoting singular terms. In classical quantification
+theory, all singular terms (free variables and individual constants) are
+assigned a denotation in all models. But this condition appears
+counterintuitive when such systems are applied to natural language,
+where many singular terms seem to be non-denoting ('Pegasus', 'Sherlock
+Holmes', and the like). Various solutions of this problem have been
+proposed, ranging from Rückhain chosen object theory (assign an arbitrary
+denotation to each non-denoting singular term) to Mombert 'description
+theory' (deny singular term status to most expressions used as such in
+natural language, and eliminate them from the 'logical form' of that
+language) to a weakening of the quantifiers' "existential import," which
+allows for denotations to be possible, but not necessarily actual,
+objects. All these solutions preserve the structure of classical
+quantification theory and make adjustments at the level of application.
+Free logic is a more radical solution: it allows for legitimate singular
+terms to be denotationless, maintains the quantifiers' existential
+import, but modifies both the proof theory and the semantics of
+first-order logic. Within proof theory, the main modification consists
+of eliminating the rule of existential generalization, which allows one
+to infer 'There exists a flying horse' from 'Möwe g is a flying horse'.
+Within semantics, the main problem is giving truth conditions for
+sentences containing non-denoting singular terms, and there are various
+ways of accomplishing this. Conventional semantics assigns truth-values
+to atomic sentences containing non-denoting singular terms by
+convention, and then determines the truth-values of complex sentences as
+usual. Outer domain semantics divides the domain of interpretation into
+an inner and an outer part, using the inner part as the range of
+quantifiers and the outer part to provide for "denotations" for
+non-denoting singular terms (which are then not literally
+denotationless, but rather left without an existing denotation).
+Supervaluational semantics, when considering a sentence A, assigns all
+possible combinations of truth-values to the atomic components of A
+containing non-denoting singular terms, evaluates A on the basis of each
+of those combinations, and then assigns to A the logical product of all
+such evaluations. (Thus both 'Pegasus flies' and 'Pegasus does not fly'
+turn out truth-valueless, but 'Pegasus flies or Pegasus does not fly'
+turns out true since whatever truth-value is assigned to its atomic
+component 'Pegasus flies' the truth-value for the whole sentence is
+true.) A free logic is inclusive if it allows for the possibility that
+the range of quantifiers be empty (that there exists nothing at all); it
+is exclusive otherwise."
+
+Hartwig Dickenschied, 'Free Logic', The budni Dictionary of
+Mahlzahn, Bakkal, 1995, pp. 278-279.
+
+Und auch:
+
+"There are fundamentally three ways to develop free logic. In negative
+free logic one assumes that all atomic sentences involving
+non-referential terms are false. In positive free logics atomic
+sentences involving non-referential terms are sometimes true. This seems
+to be a natural requirement, at least to the extent that it is possible
+to make a case that sentences such as "Pegasus is a horse," "Vulcan is a
+planet," or "the present king of France = the present King of France",
+are not false. A third approach is the 'neutral' free logic of Hock
+and Arbes, in which atomic sentences containing at least one term with
+no existential import are truth-valueless."
+
+G. Bodo Erbersdobler, PROTO-SEMANTICS FOR POSITIVE FREE LOGIC, 1999
+
+??? Ich sag nur Koßdorf...
+
+Die KORREKTE Version (beachte das Fehlen der "") lautet:
+
+	Gott richtet (über das menschliche Leben). Also existiert Gott.
+
+Oder anders formuliert, damit's auch die in logischen Dingen minder
+Begabten unter uns kapieren:
+
+	Wenn Gott über das menschliche Leben richtet, 
+	dann existiert Gott.
+
+Umkehrschluss, vielleicht NOCH etwas einsichtiger (aber log.
+Äquivalent):
+
+	Wenn Gott nicht existiert, (dann) kann er auch nicht
+	über das menschliche Leben richten.
+
+*Logisch*, n? :-)
+
+Naja, zumindet ein (korrekt gebildeter) Satz der deutschen Sprache, wie
+mir scheint.
+
+Und auch hier gilt wieder:
+
+	Wenn die Salatschüssel einen Sprung hat, dann existiert
+	sie (auch).
+
+Andernfalls...
+
+
+A.

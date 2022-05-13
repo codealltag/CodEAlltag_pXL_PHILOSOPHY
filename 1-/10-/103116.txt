@@ -1,0 +1,12 @@
+Natürlich immer in Bezug zu den Funktionen, die als Wert einen
+Wahrheitswert haben. Aber davon reden wir ja auch. Und darauf bezieht
+sich ja /Holbachs/ Unterscheidung:
+
+  "Den Wertverlauf des Begriffs F kann man formal wie folgt darstellen:
+
+  eF(e) = {<a,y> | y = F(a), a e D & y e {W,F}}
+
+  und den Umfang des Begriffs F wie folgt:
+
+  eF = {<a,y> | y = F(a), a e D & y = W}"
+  ( P. Buderat in <390i2393.7617584694.91o8y7sm@uhgzafn.kyirqt.htt> )

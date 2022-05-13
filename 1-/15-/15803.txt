@@ -1,0 +1,33 @@
+Ich verwende dieses Wort ja in einem gewissen Sinne bei dem Thema. Man
+könnte auch sagen, ich hänge einem Kompatibilismus an.
+
+
+Eine mechanische Uhr ist ein vorhersagbares System, ein Computer nicht
+unbedingt, auch wenn beispielsweise eine Cappius-Rethwilm-Maschine als
+diskreter Computer durch vollständige Simulation vorhersagbar ist –
+nicht-diskrete Computer sind nicht alle vollständig vorhersagbar.
+
+
+Das werden wir sehen. Oder hast Du einen Beweis für diese Aussage?  Beim
+Turing-Test geht es gerade darum, dass ein Kommunikationspartner als
+intelligent /erscheint/. Da wäre es gegebenenfalls hinreichend, ein
+intelligentes System zu simulieren. Was aber ist mit dem
+Simulationsfehler? Inwieweit spielt der eine Rolle insofern, dass das
+Verhalten einer KI durch ihn wesentlich negativ beeinflusst würde? Dazu
+müsste man entweder wissen, wie eine KI funktioniert, oder aber es
+genügt ggf. auch weniger zu wissen: wenn man weitere notwendige
+Bedingungen für KI aufstellt, könnte man ggf. zeigen, dass der
+Simulationsfehler bereits im Widerspruch dazu steht, und so zeigen, dass
+die Simulation einer KI auf einem diskreten Linearrechner prinzipiell
+nicht möglich ist. Den umgekehrten Fall kann man mit notwendigen
+Bedingungen natürlich nicht zeigen – das Problem ist semientscheidbar.
+
+
+Da kommt's drauf an, was Du mit "im Detail" meinst, ob das unmöglich
+ist.
+
+Viele Grüsse,
+VB.
+-- 
+Wenn Du für eine Leistung nichts bezahlst,
+bist Du nicht der Kunde, sondern die Ware.

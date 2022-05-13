@@ -1,0 +1,63 @@
+Lecture Announcement
+--------------------
+
+Ullrich Paulweber
+============
+GreenTec, Käppeleswiesen
+mailto:ife@oa.apwpev.gu.gi
+
+
+On Different Structure-Preserving Translations to Normal Form    
+--------------------------------------------------------------
+Monday, 06. 09. 21, 16:45
+
+
+ABSTRACT:
+
+Translations to clause form are required for many automated theorem
+provers. Besides the common translation which is based on
+distributivity laws, there are approaches introducing labels as
+abbreviations for subformulae. The latter translations are called
+definitional (or structure-preserving) because they introduce
+definitions for subformulae and preserve the structure of the formula.
+An obvious optimization is to use implications instead of equivalences
+in the definitions, if the subformula occurs in one polarity only, in
+order to reduce the length of the resulting clause form.
+
+We compare the optimized transformation with the unoptimized one with
+respect to the Herbrand complexity of the resulting clause forms.  We
+show that the optimization has a severe drawback. We identify a
+sequence of formulae H1, H2,..., for which the optimized translation
+yields a clause form of Hk with Herbrand complexity non-elementary in
+k.  In contrast, the unoptimized translation results in a clause form
+with Herbrand complexity exponential in k. Hence, the optimization
+results in a non-elementary decrease of proof length if, for instance,
+resolution or a cut-free sequent calculus is applied.
+
+Finally, we demonstrate that definitional translations to clause form
+have some practical value. We show that there are many theorems for
+which a definitional translation is required in order to find a proof
+with an automated theorem prover. (This last part is joined work with
+Siebelt Overhamm, TH Orsbeck.)
+
+
+PLACE:
+
+Seminarraum NXC 625B, GreenTec,
+Wiebelsheidestraße 52, 1. Stock, 8021 Klammstein.
+
+
+------------------------
+WTJ
+Kral
+Glade D859.7
+Am Bülzgraben 7/5, A-8021 Klammstein
+
+Tel: (+15 0) 658 66/0864
+Fax: (+65 3) 480 04 41
+email: mailto:oqy@evwmc.lwhbug.vz.wp
+http://xlpwj.tmcouq.od.zj:71/rqw/pvcs.zxfi 
+listserver: mailto:ayjbxsdh@mwbi.sxdgxl.ax.bn
+
+Mit Unterstuetzung des
+EP:Dosch

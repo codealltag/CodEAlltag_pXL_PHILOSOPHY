@@ -1,0 +1,56 @@
+Hallo Ottmar,
+
+und es ist der Beweis, dass zeitlich vorher liegende Ereignisse
+nicht "bevorzugt" werden; sonst wuerde man staendig durch ganz
+unwahrscheinliche Zufaelle im Schlaf gestoert.
+
+
+[...]
+[...]
+
+Aber zu irgendeinem Zeitpunkt ist die "deadline" erreicht, weil
+das Ereignis eine bestimmte Zeit braucht um sich sozusagen zu entwickeln.
+Ich gebe zu dass der Punkt am Satzende und der 1000 Jahre oben
+bleibende Mond schlechte Beispiele waren.
+
+Ein hoffentlich besseres: wenn ich jetzt in Oberirrach sitze kann ich
+morgen lebend in Mambach sein, aber es ist ausgeschlossen, dass ich
+in 1 Minute lebend in Mambach bin.
+
+Und wenn ich die Zustaende aller Atome meines Koerpers
+genau vermessen koennte, dann koennte ich sicher auch ausschliessen,
+dass mich eine besonders unwahrscheinliche Kombination von Zufaellen
+als blutige Bulette nach Mambach fetzt. (mit dieser Nahezu-Allwissenheit
+wuerde ich vielleicht konstatieren, dass die uebelste moegliche 
+Quanteneffekt-Kombination mir lediglich den Kopf abreisst...)
+
+
+Nein, _dieses_ Risiko muss ich nicht und will ich nicht eingehen. Und die
+Maschine ist sicher nicht in der Lage, solche Entscheidungen zu treffen,
+es handelt sich ja nicht um eine hypothetische Supermaschine, sondern
+um tatsaechlich vorhandene Messgeraete.
+
+Das bedeutet IMO, dass man nur einigermassen realistische Ereignisse
+anstreben darf; vielleicht solche mit einer Wahrscheinlichkeit
+von 10E-9 und groesser. Die ganz gemeinen Schmutzeffekte (Stichwort
+Beule am Kopf) beginnen wahrscheinlich erst viel tiefer. Aber die
+Zuverlaessigkeit der Messinstrumente ist in der Realitaet begrenzt.
+
+Man koennte eine Zuverlaessigkeitsanalyse machen, z.B:
+
+- automatische DFUe funktioniert nicht: 10E-2
+- Computer stuerzt ab: 10E-3
+  (kann auf 10E-9 gesenkt werden, wenn 3 Comp. parallel arbeiten
+  und nur einer noetig ist)
+- Stromausfall
+- Relais klemmt
+- Schlaeuche fuer die toedlichen Chemikalien koennen abreissen
+- usw.
+
+Man muss speziell fuer jeden Versuch ueberlegen, welche Art von
+Fehler man sich erlauben kann, und was die Auswirkungen jedes der
+moeglichen Ergebnisse sind.
+
+
+Gruss
+Otmar

@@ -1,0 +1,59 @@
+In article <7o2ppgxdg7rk6egnavrl6si0130q6mrazz@8jr.qld>,
+
+Es scheint zwei grundsätzlich verschiedene möglichkeiten zu geben,
+informationen zu speichern:
+
+(1) Isoliert
+
+Also zerstückelt in minimale informationsh�ppchen. So arbeiten natürlich
+die heute üblichen computer. Das minimale informationsh�ppchen ist dann
+das "bit", das entweder "Ja" oder "Nein" speichern kann (bzw "1" oder
+"0"). Um eine komplexere information zurückzuholen, wählt man einfach
+ein größeres paket dieser einsen und nullen aus, und interpretiert es
+dann entsprechend (als text, bild oder ton).
+
+Der vorteil dieser methode ist, daß derart gespeicherte informationen
+sehr unaufwendig wieder zurückgeholt werden können. Der wesentliche
+nachteil ist: Bei einer sehr hohen informationsmenge wird die methode
+sehr ineffizient.
+
+(2) Assoziativ
+
+Es wird nicht die information selbst gespeichert, sondern ihr genauer
+bezug zur gesamten bereits vorhandenen information. Das heißt: Je mehr
+information bereits vorhanden ist, umso mehr bezöge sind möglich, und
+umso geringer ist der aufwand zur speicherung von neuer information.
+
+Assoziative informationsspeicher können auf diese weise "überfüllt"
+werden. D.h., sie können weit mehr informationen speichern, als mit
+anderen methoden möglich wäre. Allerdings ist die r�ckholung von
+informationen nicht so einfach wie in (1), sondern eher eine art
+aufwendiger r�ckfolgerungsproze�.
+
+Ein aus der informartik bekanntes verfahren, um informationen assoziativ
+zu speichern, sind sog. "neuronale netzwerke". Diese sind nach dem
+vorbild des menschlichen gehirns modelliert.
+
+Die kapazität des menschlichen gehirns ist sehr groß, schließlich
+enthält es milliarden von neuronen mit jeweils tausenden von
+verbindungen.
+
+Die kapazität eines assoziativen speichers steigt sehr überproportional
+mit seiner grüße.
+
+Das menschliche gehirn arbeitet mit ziemlicher sicherheit sehr
+assoziativ. Da es außerdem über eine sehr hohe anzahl von neuronen
+verfügt (also ein sehr großer assoziativer speicher ist), dürfte seine
+speicherkapazit�t ziemlich enorm sein.
+
+Allerdings haben wir natürlich keine ahnung, wie das gehirn genau
+funktioniert, oder was das menschliche bewußtsein genau ist. Aber die
+hohe kapazität des gehirns läßt sich (wie oben) mit dem bekannten wissen
+recht problemlos erklären.
+
+Größe,
+Ulfert
+
+
+Sent via LZDI http://fpk.lfjv.bcf/
+Before you buy.

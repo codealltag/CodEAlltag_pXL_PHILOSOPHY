@@ -1,0 +1,180 @@
+Gewiss.
+Der Hauptgrund für die Entwicklung der Freien Logik ist ja, dass die
+klassische FOPL+ durch ontologische Annahmen [(Ex)(x=x), (Ex)(x=a),
+Quantifizierung nur über nichtleere Bereiche]  gewissermassen
+theoretisch "verunreinigt" wird. Eine theoretisch reinere Logik, die
+in kohärenter Weise nicht von diesen ontologischen Voraussetzungen
+abhängt, erscheint also als sehr attraktiv!
+
+
+Ich denke, die Chancen stehen gut, dass die Freie Logik auf kurz oder
+lang selbst als standardgem�ss betrachtet und in alle logische
+Grundkurse integriert werden wird.
+
+
+(hm..., da hast du dich sicher versehentlich verschrieben, denn "E!a"
+bedeutet sehr wohl, dass "a" auf ein existierendes Objekt referiert!)
+
+
+Es ist völlig OK für mich, "E!a" als "a existiert" zu lesen.
+Ich bin nach langem Grübeln nun sogar bereit, "E!" neben "=" als ein
+zweites, semantisch primitives Prädikat   erster Ordnung
+("existieren"/"Existenz") zu akzeptieren.
+Das heisst, man kann "E!a" stets als "(Ex)(x=a)" definieren, man muss
+es aber nicht.
+Ein Ausdruck wie "(Ex)E!x" =def "Es gibt ein x derart, dass es
+existiert." ist für mich wohlgeformt!
+Solange man berücksichtigt, dass es keine Pr�dikatsnegation von "E!"
+gibt [nicht: (~E!)x], sondern nur eine Satznegation [~(E!a)] (*), dann
+bereitet ein normales Prädikat "existieren" eigentlich keine
+besonderen Schwierigkeiten!
+[*: a existiert oder es ist nicht der Fall, dass a existiert.]
+
+
+Mein Urteil habe ich vom Standpunkt der negativen Freien Logik aus
+gefällt.
+
+
+Vollkommen richtig!
+Und: "No identity without entity!"
+
+x=x -> E!a
+~E!x -> ~(x=x)
+
+
+Ich hätte es nicht schöner ausdrücken können! :-)
+
+Die Äquivalenz 'E!x <-> x=x' hat für mich einen unabdingbaren
+axiomatischen Status!
+
+(Damit ist für mich die positive Freie Logik aus dem Rennen!)
+
+
+Oh..., das macht mir nichts aus. :-)
+
+
+pFL und nFL sind sich aber doch in einem einig, nämlich, dass das
+'tertium non datur' auch im Falle leerer singulärer Termini ("a*")
+gilt:
+
+Fa* v ~(Fa*)
+
+Beispiel:
+
+"Der Osterhase hat ein weisses Fell oder es ist nicht der Fall, dass
+der Osterhase ein weisses Fell hat."
+
+Letzteres trifft zu, da ja '~(E!a) -> ~(Fa)� gilt!
+
+
+Das ist der entscheidende Punkt, der gegen die LNV spricht!
+Wer behauptet, dass Sätze mit leeren Namen weder wahr noch falsch
+sind, der kommt praktisch nicht umhin, '~(Fa* v ~Fa*)'  als wahr zu
+behaupten.
+Doch jemand, der dies behauptet, hat schon verloren, indem er sich das
+eigene logische Grab geschaufelt hat. Man kann nämlich mittels einer
+netten Reductio beweisen, dass die Annahme '~(Fa* v ~Fa*)'
+zwangsläufig zur Wahrheit der Negation derselben, also wieder zurück
+zu 'Fa* v ~Fa*' führt:
+
+
+1____(1)___~(p v ~p)______________Annahme
+2____(2)___p____________________Annahme
+2____(3)___p v ~p________________2 v-Einführung
+1,2___(4)___(p v ~p) & ~(p v ~p)______1,3 &-Einführung
+1____(5)___~p___________________2,4 RAA
+1____(6)___p v ~p________________5 v-Einführung
+1____(7)___(p v ~p) & ~(p v ~p)______	1,6 &-Einführung
+
+q.e.d.
+
+
+Es gibt auch einen alternativen Beweisweg:
+
+1____(1)___~(p v ~p)______________Annahme
+1____(2)___~p & ~~p______________1 1. de Uphues	
+1____(3)___~p & p________________2 DN
+1____(4)___p____________________3 &-Eliminierung
+1____(5)___p v ~p________________4 v-Einführung
+1____(6)___(p v ~p) &  ~(p v ~p)______1,5 &-Einführung
+
+q.e.d.
+
+Bezug nehmend auf diejenigen, die behaupten, dass Gesetz vom
+ausgeschlossenen Dritten könne einfach so negiert werden, sagt Berend
+Lamsfuß Folgendes:
+
+"Ive mentioned that we have a compelling motivation for dialetheism
+as long as
+we have a compelling motivation to deny instances of excluded middle.
+There is
+however an oddity here. For though accepting ~[A v ~A] leads to
+accepting both
+~A and ~~A, that in turn leads to accepting A v ~A. Indeed, the
+inference
+is immediate: ~A surely implies A v ~A. (~~A implies it too, in any
+logic
+where ~~A implies A; and the logics that Priest [der Kopf derjenigen
+Logiker, die an wahre Widersprüche glauben] and I are interested in
+mostly
+have this feature. Indeed, in the future I will for simplicity assume
+that ~~A
+is equivalent to A.) So if to reject B is to have an attitude that
+precludes
+accepting it, then denying instances of excluded middle is not a way
+of rejecting
+them, and indeed is incompatible with rejecting them! If we want to
+reject a
+given instance of excluded middle, we had better not deny it. (I have
+not ruled
+out rejecting some instances without denying them, and denying others
+without
+rejecting them. But we cant reject and deny the same instance.)"
+[Field, Berend. /Is the Liar Sentence Both True and False?/. (p. 3).
+Abgerufen 07/2004, von
+http://opx.lnr.wan/cxun/ltxo/wyphv/iwlfpdt/rhpew/bteuuj/Dawrmekvlq.kfe
+]
+
+Der wichtigste Satz ist wohl:
+
+"IF WE WANT TO REJECT A GIVEN INSTANCE OF EXCLUDED MIDDLE, WE HAD
+BETTER NOT DENY IT."
+;-)
+
+Wer an Ausnahmen von LEM glaubt, der hat ein echtes Problem; denn er
+will LEM in einigen Fällen zurückweisen, kann dies aber nicht tun,
+indem er einfach die Negation von LEM behauptet, da er sonst
+unfreiwillig bei dem Schluss landet, dass die Negation der Negation
+von LEM wahr ist!
+
+Wie man aber eine Annahme zurückweisen können soll, ohne gleichzeitig
+deren Negation als wahr zu behaupten, ist unklar!
+(Lamsfuß geht in seinem Text--siehe Link--auf dieses besondere Dilemma
+weiter ein.)
+
+In einem solchen prekären Dilemma stecken auch die Befürworter der
+LNV, und deshalb lehne ich LNV ab!
+
+
+Scheint definitiv so!!
+
+
+Jawohl!
+
+
+Ich favorisiere die negative Freie Logik eben deshalb, weil sie weder
+bei 'E!x <-> x=x' noch bei 'Fa v ~Fa' aneckt! Dies ist für mich der
+ausschlaggebende Vorteil gegenüber pFL und fFL!
+
+Gruss
+CARLOS
+
+P.S.:
+Ich habe vor Wochen eine umfangreiche private E-Mail an dich geschickt
+zum  Thema 'Freges heikles politisches Tagebuch'. Darin habe ich alle
+bedenklichen Eintragungen zitiert (was ganz schön mühevoll war...)!
+Da ich darauf keinerlei Antwort von dir erhalten habe, möchte ich
+nachfragen, ob du diese E-Mail überhaupt erhalten hast und, falls
+nicht, ob du daran interessiert bist, dass ich sie dir erneut schicke
+(an deine Adresse, über die ich schon einmal mit dir kommuniziert
+habe).

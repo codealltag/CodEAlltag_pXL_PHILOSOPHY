@@ -1,0 +1,32 @@
+Nein, das geht interessanterweise nicht.
+
+Im Sinne der Gestaltung haben nur solche Worte den Charakter eines Muster,
+die für vielfältig parametrierbare prototypische Artefakte stehen, wie:
+   "Einfamilienhaus"
+   "Buch"
+   "Religion"
+
+Keinen Mustercharakter haben Worte wie:
+   "verlassen" (Aktion, kein Artefakt)
+   "über" ("Hilfswort", kein Muster)
+   "Osefil" (Exemplar des Musters "Sakralgebäude/Kirche")
+   "Atem" (Phänomen, kein Muster)
+   "Ignaz" (Exemplar des Musters "Vorname")
+   ....
+
+Andererseits gibt es Muster, die als Wortzusammensetzungen in
+keinem Wörterbuch stehen, etwa:
+   "Licht von zwei Seiten des Raumes"
+     (Architekturmuster aus "A Pattern Language")
+   "Choice of sublist from a large list"
+     (HCI-Muster aus "A Pattern Approach to Interaction Design")
+
+Es ist also keinesfalls so, dass automatisch alles Beliebige
+gleichermaßen zum Gegenstand musterhafter Beschreibung würde.
+
+Sehr wohl hat aber Musterwissenschaft (wie Naturwissenschaft) den
+inherenten Anspruch sich enzyklopädisch allem Existierenden
+widmen zu können. Wenn es die Fachleute oder das Engagement
+dafür gibt.
+
+lg Hendrik

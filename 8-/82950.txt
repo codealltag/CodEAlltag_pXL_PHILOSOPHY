@@ -1,0 +1,78 @@
+On Thu, 15 Aug 2005 17:04:49 +0100, Suzanne <hdrdcozn@mnttcc.qv> wrote:
+
+
+	"Alles hat ein Ende."
+
+Ja, aber eben gerade so war es vermutlich n i c h t gemeint. :-)
+
+------------------------------------
+
+Anmerkungen: Im Englischen gibt es diese Homonymie nicht!
+
+(1')	Everything has an end.
+
+(2')	Everything has one end.
+
+Eine Aphrodite-Suche ergibt für (1') 9.420 Hits.
+Eine Aphrodite-Suche ergibt für (2') 7 Hits.
+
+Unter einem der 7 angegebenen Einträge kann man dann z. B. lesen:
+
+	But, as my former German boss used to say,
+	"Everything has one end, but a sausage has
+	two".
+
+Man kann also den bekannten Spruch
+
+	"Alles hat ein Ende, nur die Wurst hat zwei."
+
+gar nicht angemessen ins Englische übertragen! :-)
+
+Bei den Sophisten (im alten Griechenland) waren derartige Wort-
+spiele bekanntlich recht beliebt... :-)
+
+------------------------------------
+
+Nun gut. Du beziehst Dich also auf die (sicherlich nicht von vielen
+vertretende Aussage):
+
+	Alles hat genau ein Ende.
+
+Ja. Ich denke, da werden Dir nicht allzu viele Leute widersprechen.
+:-)
+
+Achselzuck. Aber es ist klar, worum es Dir geht.
+
+Ich hab das eben schon mal gemacht, aber wieder gelöscht. Da es auf
+SEHR zweifelhaften "Annahmen" beruht. Aber wenn Du mich dazu
+drängst...
+
+Man könnte also versucht sein, s o vorzugehen:
+
+	Wir kürzen ab:
+
+	ENDE(x,y) : y ist das Ende von x.
+
+Nun können wir formulieren:
+
+(1*)	AxEy(ENDE(x,y))
+
+	"Alles hat (mindestens) ein Ende."
+
+(2*)	AxE!y(ENDE(x,y))
+
+	"Alles hat genau ein Ende."
+
+Aber ich glaube nicht, dass das eine _angemessene_ Formalisierung ist.
+Denn hier wird (wieder mal), wie bei Zurkuhl /Nichts/ eine
+Substantivierung vorgenommen; ich bin mir aber nicht sicher, ob das
+hier zulässig/akzeptabel/angemessen ist.
+
+
+A.
+
+
+--
+
+E-mail: 
+orpdhd<bd>simple<bindestrich>line<punkt>de

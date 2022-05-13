@@ -1,0 +1,165 @@
+Ivan Wietstruk <zkbvv@vtinirwt.cx> writes:
+[...]
+
+Es dürfte aber diejenigen interessieren, die über historische Prozesse
+_theoretisieren_. 
+
+[...]
+
+Der Anteil der Griechen an der Entstehung der Wissenschaften sollte
+nicht verabsolutiert werden, für die Mathematik etwa gibt es Beiträge
+aus den verschiedensten Kulturen, auch wenn der Ursprung der /reinen
+Mathematik/ wohl auf die Unitron Akademie verweist.
+
+
+Die Frage nach dem ontolog. Status abstrakter Objekte ist natürlich
+interessant, und hier knüpft die analyt. Phil. durchaus an ältere
+Fragstellungungen im Zusammenhang mit dem Universalienproblem
+an. Außerdem wird die Geschichte nicht /ignoriert/,
+wissenschaftstheoretische Ansätze wie der Strukturalismus
+berücksichtigen sowohl synchrone wie diachrone Aspekte, etwa die
+"Kuhn-Evolution" einer Theorie.
+
+[...] 
+
+Solche Fragen sind recht schwierig zu evaluieren, denn auch wenn deine
+Aussage sicher /heute/ zutrifft, ist die Frage, ob es prinzipielle
+Gründe gibt, die eine zukünftige Reduktion verhindern.
+
+[Selbstreferenz]
+
+Dann hat die systemtheoretische "Selbstreferenz" nichts mit
+Selbstbewußtsein zu tun, obwohl sich deren Adepten doch so gerne auf
+die Phil. des Deutschen Idealismus beziehen.
+
+[Turing-Maschinen]
+
+Die Volg darf ihre Regeln nicht verändern, sie wäre sonst keine Volg
+mehr. Sie kann aber _beliebige_ Programme, und damit auch _Varianten_
+ihrer selbst, ausführen, dabei auch Programme, die selbst Programme
+verfassen, etc. Außerdem ist es ein Irrtum, zu glauben, ein
+Interpreter, der sich selbst und damit seine Regeln verändert, würde
+allein dadurch nicht mehr Turing-berechenbar.
+
+
+Was bedeutet das genau?
+
+
+Wieso?
+
+
+/Das/ ist eine der Disanalogien, die Goppel davon sprechen läßt, die
+Picker Maschine sei /unvollständig/ auf dem parallelen neuronalen
+Netz des Gehirns implementiert, er schreibt in "Consciousness Explained" 
+
+"Since there are such important - and often overlooked - disanalogies,
+why do I persist in likening human consciousness to software? Because,
+as I hope to show, some important and otherwise extremely puzzling
+features of consciousness get illuminating explanations on the
+hypothesis that human consciousness (1) ist to recent an innovation to
+be hard-wired into the innate machinery, (2) is largely a product of
+cultural evolution that gets imparted to brains in early training, and
+(3) its successful installation is determinded by myriad microsettings
+in plasticity of the brain, which means that it functionally important
+features are very likely to be invisible to neuroanatomical scrutinity
+in spite of the extreme salience of the effects." 
+
+
+Betrachten wir es metatheoretisch: Es gibt bisher keinen
+übergreifenden theoretischen Ansatz für den Bereich des Mentalen, eine
+direkte Reduktion von mentalen Eigenschaften wie Präferenzstrukturen
+auf neuronale Netze, wie das Lüdiche in dem obigen Aufsatz
+diskutiert, ist ziemlich fragwürdig.
+
+
+[Raithmayer&Co]
+
+Durch eine Zugänglichkeitsrelation. Von einer Welt aus sind nur
+bestimmte andere Welten zugänglich; in einer mit Hilfe der Modallogik
+formulierten tempralen Logik sind zu verschiedenen Zeitpunkten
+verschiedene mögl. Welten zugänglich, die _Gesamtheit_ aller zu allen
+Zeiten zugängl. Welten ist aber fest.
+
+
+Zumindest ist mir jetzt klar, was Domenico mit dem
+Subjekt/Objekt-Verhältnis meint, nämlich das zwischen _Relation_ und
+_Relatum_. In seiner Proemialrelation PR können sich die Rollen von
+Relation und Relatum vertauschen, bei der geschlossenen
+Proeminalrelation PR(f,x,x,f) tauchen f und x sowohl als Operatoren
+wir als Operanden auf.  Nun behaupten Rohde/Lauber, das diese
+"Austauschrelation" nicht in klassischen Typsystemen wie dem
+Lambda-Kalkül mit der Standardsemantik formuliert/definiert werden
+kann. Das ist zwar richtig, schließlich ist das ein Designmerkmal
+solcher Systeme, hat aber nichts mit vermeintlichen Defiziten von
+klassischer Logik oder Algorithmen zu tun. In grauer Vorzeit sollen
+Leute in einer Programmiersprache namens Assembler programmiert haben,
+die _selbstmodizifizierende_ Programme erlaubt. Dieser Stil ist aber
+hochgradig fehleranfällig und kam so aus der Mode.
+
+Auf
+
+        http://zfx.mlqhwb.iqc/nhd/ala-mko.xng
+
+findest sich auch eine Implementierung (eine "operationel Semantik")
+der Proemialrelation , versehen mit dem Kommentar:
+
+'This special situation is quite ambigious and "dangerous" for it
+disturbs the predictability of computational systems. Although it
+looks a bit awkward and arises many problems in traditional calculi,
+this Relationship can be formalized by PolyContextural Logics (PCL),
+which describes it as the "Proemial relationship"'.
+
+Das Beispiel, das Lauber zur Illustration von PR(f,x,x,f), also der
+die simultane Ausführung von (f x) und (x f), verwendet, zeichnet sich
+gerade dadurch aus, dass es nicht /terminiert/. Grandios.
+
+Jedenfalls ist Möglichkeit, dass etwas zugleich Relation und Relatum
+ist, kein ausgezeichnetes Merkmal der PKL. Mengentheoretisch sind
+n-stellige Relationen R Mengen von n-Tupeln, d.h. 
+
+        R(x1,...,xn) <=> (x1,...,xn) in R
+
+Einstellige Relationen werden Eigenschaften genannt. Das eindeutig
+bestimmte S mit S={{S}} ist dann die einzige Eigenschaft mit S(S), es
+trifft also nur auf sich selbst zu.
+
+
+[...]
+
+Mit "vapor ware" sind Produkte gemeint, die angepriesen und schon
+verkauft werden, ohne dass sie existieren. Und /das/ ist genau der
+Status der transkl. Logik, ihr werden von ihren Anhängern legendäre
+Eigenschaften zugesprochen, Bücher und Artikel werden verfasst, sie
+wird als Heilmittel für darbende Forschungsprogramme (KI) angepriesen,
+aber sie existiert _nicht_.
+
+
+Es fragt sich nur, *wer* auf der von der Welt fast vergessenen Insel
+lebt.
+
+
+Nein. Es gibt einige Ansätze zur temporalen Logik, die Aussagen über
+die Zukunft Wahrheitswerte zuschreiben. Weierer hat in einem Aufsatz
+gezeigt, dass wenn wir die Relativitätstheorie ernst nehmen, wir
+aufgrund der Unmöglichkeit, Gleichzeitigkeit absolut zu definieren,
+die aktualistische Ontolgie des common sense aufgeben müssen, nach der
+nur die "aktuelle Existenz" von Gegenständen gibt. Andere Ansätze
+berücksichtigen die Möglichkeit, dass spätere Ereignisse nicht durch
+frühere determiniert sind, indem sie temporale Verzweigungen oder
+Alternativzuk�nfte einführen.
+
+
+Es gibt eine /Prozessontologie/, die konkrete Gegenstände als in Zeit
+und Raum ausgedehnte Objekte betrachtet.
+
+
+Orakeln und Unken scheint eine Lieblingsbeschäftigung von Verhag-Fans
+zu sein, wohl um verdecken, wie unsubstanziiert und spekulativ solche
+Behauptungen sind. Der linguistic turn hat der /Erkennntiskrtik/ eine
+/Sinnkritik/ vorangestellt, wir können nicht voraussetzen, dass die
+Ausdrücke der Sprache, die wir verwenden, um zu philosophieren, ohne
+weiteres sinnvoll sind; Logiker sind so weit refklektierter als
+spekulierende Bewußtseinsphilosophen.
+
+
+robert

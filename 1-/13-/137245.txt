@@ -1,0 +1,25 @@
+Da möchte ich widersprechen. Zwar dürfte es schwer fallen, die
+Wahrscheinlichkeit im Falle der Raben exakt zu quantifizieren, aber
+selbstverständlich wächst die Wahrscheinlichkeit, dass der (n+1)te gefundene
+Rabe ebenfalls schwarz ist, nach dem Auffinden von n ausnahmslos schwarzen Raben
+mit steigendem n qualitativ an, sofern die Zahl der Raben auf der Welt endlich
+ist.
+
+In einem Sack befinden sich 1000 gut gemischte farbige Kugeln. Die Behauptung
+lautet "Alle Kugeln sind schwarz". Nach dem Ziehen der ersten 10 allesamt
+schwarzen Kugeln kann man bereits die Aussage treffen, dass aller
+Wahrscheinlichkeit nach ein erheblicher Teil der Kugeln schwarz sein muss. Die
+Behauptung, dass _alle_ Kugeln schwarz sein müßten, wäre zu diesem Zeitpunkt
+allerdings vermessen. Wurden mittlerweile 999 der Kugeln zufällig gezogen und
+alle gezogenen Kugeln waren schwarz, dann ist die Wahrscheinlichkeit, dass sich
+ausnahmslos schwarze Kugeln im Sack befinden, > 0.999. D.h. die
+Wahrscheinlichkeit, dass die Behauptung  "Alle Kugeln sind schwarz" richtig ist,
+ist über das Ziehen schwarzer Kugeln aus dem Sack stetig gewachsen, daher ist
+jede schwarze Kugel als Bestätigung der Aussage zu werten.
+
+Zwar kennt man nicht die genaue Zahl vorhandener Raben, unbestritten ist diese
+aber endlich, insofern ist das Auffinden eines weiteren schwarzen Raben wie das
+Ziehen einer schwarzen Kugel aus dem Sack als Bestätigung der Aussage "Alle
+Raben sind schwarz" zu bewerten.
+
+Größe, Friedrich

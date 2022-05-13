@@ -1,0 +1,12 @@
+Bei einem "Wurf" eines Laplace-Würfel (Augenzahlen von 1 bis 6) ist
+die Wahrscheinlichkeit für das Ereignis
+
+"Die Augenzahl ist 3 und die Augenzahl ist 5"
+
+gleich 0, das Ereignis kann nicht eintreffen.
+
+
+mathias 
+-- 
+Wovon man nicht sprechen kann, darüber muß man
+schweigen. (Wittgenstein, Tractatus)

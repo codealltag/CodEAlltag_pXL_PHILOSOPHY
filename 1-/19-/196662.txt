@@ -1,0 +1,30 @@
+=================
+
+Ist das die neue Rechtschreibung? Oder schreibt man nichtöffentlich nach
+wie vor zusammen? Wenn du meinst es gibt öffentliche Newsserver, nein es
+gibt sie nicht, wenn es sie gäbe wären sie ziemlich schnell zu (wegen
+Mißbrauchsgefahr), aber du kannst ja gerne mal ein paar öffentliche
+Newsserver nennen (ich könnte welche gebrauchen :).
+
+
+Das hat nichts mit Zensur zu tun, jeder der ohne "sci" Voraussetzungen
+über Philosophie reden will kann das dann in einer Einzurichtenden
+"talk" Gruppe machen.
+
+Die Moderation kann jeder übernehmen der ein Shell-Account hat um einen
+Robotmoderator laufen zu lassen, Erfahrung in Philosophie hat und
+einigermaßen Regelmäßig im Internet ist. Postet jemand das erste mal
+nach de.sci.philosophie schickt der Roboter das automatisch an den
+Menschlichen Moderator, der Prüft ob der Artikel in den Kontext "sci"
+paßt, ansonsten leitet er ihn nach "talk" um und der Autor wird darauf
+hingewiesen. Pat der Artikel in den Kontext "sci" wird der Poster in
+eine Liste für den Roboter eingetragen, jedes weitere Posting des Autors
+lässt dann der Roboter direkt in die "sci" Gruppe durch, fängt jemand
+dann mit Dummschwall an und fällt das dem Moderator auf oder beschwert
+sich jemand beim Moderator, wird derjenige Verwarnt und kommt dann für
+einige Zeit auf eine Watchlist, jeder Artikel von ihm läuft dann über
+den Menschlichen Moderator, ignoriert derjenige die Verwarnung fliegt er
+für einige Zeit aus der Newsgroup. Zusätzliche Kriterien können z.B.
+Verbot von Crosspostings sein (oder Crossposting ohne Followup-to).
+
+--

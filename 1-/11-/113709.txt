@@ -1,0 +1,50 @@
+<sino@ggpwjwxg.zc>
+
+
+Hast du mal kommerzielle Programme erstellt ?
+Oder betreibst du das "philosophisch" ?
+
+
+Kommt darauf an.
+
+
+Also :
+
+(a + b) * c = d
+
+Was ergibt d, wenn
+
+a = Nil  ;  b = Nil ;  c = Nil ; d = ?
+a = Nil  ;  b = Nil ;  c = 0    ; d = ?
+a = Nil  ;  b = Nil ;  c = 1    ; d = ?
+
+a = Nil  ;  b = 0    ; c = Nil ; d = ?
+a = Nil  ;  b = 0    ; c = 0    ; d = ?
+a = Nil  ;  b = 0    ; c = 1    ; d = ?
+
+a = Nil  ;  b = 1    ; c = Nil ; d = ?
+a = Nil  ;  b = 1    ; c = 0    ; d = ?
+a = Nil  ;  b = 1    ; c = 1    ; d = ?
+
+a = 0    ;  b = 0    ; c = Nil ; d = ?
+a = 0    ;  b = 0    ; c = 0    ; d = ?
+a = 0    ;  b = 0    ; c = 1    ; d = ?
+
+a = 0    ;  b = 1    ; c = Nil ; d = ?
+a = 0    ;  b = 1    ; c = 0    ; d = ?
+a = 0    ;  b = 1    ; c = 1    ; d = ?
+
+a = 1    ;  b = 0     c = Nil ; d = ?
+a = 1    ;  b = 0     c = 0    ; d = ?
+a = 1    ;  b = 0     c = 1    ; d = ?
+
+a = 1    ;  b = 1     c = Nil ; d = ?
+a = 1    ;  b = 1     c = 0    ; d = ?
+a = 1    ;  b = 1     c = 1    ; d = ?
+
+
+Keine faulen Ausreden !
+Was ergibt hier jeweils der Wert  d ?
+
+mfg
+Eric Warmbrunn

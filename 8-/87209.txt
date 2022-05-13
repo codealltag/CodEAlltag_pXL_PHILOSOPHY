@@ -1,0 +1,44 @@
+Es ist für mich nicht einfach, mein über Jahre gewachsenes Modell in
+wenige Worte zu fassen, aber ich werde es versuchen (zumindest zu
+beginnen).
+Zum einen unterscheidet sich Lernen von deinem "ausrechnen -
+merken"-Modell durch Feedback. Soll z.B. der Begriff "Brücke" gelernt
+werden und man hat ein positives Beispiel von ihr, werden bestimmte
+Eigenschaften anhand des Beispiels registriert wie "unter ihr kann man
+durchfahren", "links und rechts kann man reinfahren" und was weiß ich
+was. Kommt dann z.B. ein negatives Beispiel eines Tunnels hinzu, wo
+zwar "links und rechts kann man reinfahren" stimmt, aber "unter ihr
+kann man durchfahren" stimmt nicht mehr, kann die KI einen klaren
+Unterschied zwischen "Brücke" und "Tunnel" erkennen und lernen. Wenn
+sie dann nächstes Mal etwas sieht, wo man nicht "unter ihr durchfahren
+kann",  weiß sie schon anhand dieses Kriteriums, dass es keine Brücke
+sein kann, ohne das ganze Objekt genauer analysieren zu müssen.
+
+Ein typisches Beispiel für deduktives Folgern/Lernen ist folgendes.
+Die KI lernt (induktiv), dass Lothar Vater von Willi ist, außerdem
+dass Willi Vater von Reiner ist und merkt sich das einfach. Später
+lernt sie allgemein, dass der Vater eines Vaters ein Großvater ist.
+Wenn nun die KI gefragt wird, ob Lothar der Großvater von Reiner ist,
+kann es deduktiv ableiten, dass es stimmt (oder umgekehrt Rolands
+Großvater nennen). Soweit würde nur gefolgert; sollte die KI auch
+noch explizit ihre Folgerung speichern, wäre es auch Lernen.
+
+Waren diese Beispiele zu trivial?
+.=2E. dann besteht hier das bestehende Wissen z.B. aus den möglichen
+Eigenschaften "unter ihr kann man durchfahren" und "links und rechts
+kann man reinfahren".
+
+Mit...
+.=2E.meinte ich, dass der Schritt des Lernens, dass Lothar Großvater von
+Roland ist, einen Grund, ein Ziel haben sollte; bei nur einmaligen
+Überlegen wäre dieser Lernschritt u.U. nicht notwendig, weil das
+Basiswissen ja erhalten bleibt.
+
+Anderes Beispiel: Das kleine 1*1 kennt hoffentlich jeder, dagegen wird
+man 12*16 vielleicht nicht mehr ohne Ausrechnen wissen. Wenn man
+allerdings mit bestimmten Computerdingen zu tun hat(te),  mag diese
+Zahl so wichtig geworden sein (einfach, weil sie ofters gebraucht
+wird), dass man sie lieber lernt anstatt sie jedesmal ausrechnen zu
+müssen.
+
+Gruß, Walter

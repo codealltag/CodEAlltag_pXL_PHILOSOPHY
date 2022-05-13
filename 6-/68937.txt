@@ -1,0 +1,11 @@
+Dann hast du falsch gerechnet :-)
+
+
+Immer beides: Je schneller um so mehr Masse!
+es gilt:
+m = m(0)/(sqrt(v^2/c^2))
+Setze mal lim(v^2) => c^2 und schaue was passiert!
+
+-- 
+Mit freundlichen Grössen
+Konrad Köstner

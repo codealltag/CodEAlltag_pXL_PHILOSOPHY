@@ -1,0 +1,41 @@
+Danke für das Kompliment.
+
+
+Aber natürlich! LisP ist ja recht mächtig, was rekursive 
+Funktionsaufrufe angeht.
+
+
+Das hier: Wir haben formal einen Selbstbezug im Begriff der Operation. 
+Nämlich, dass der Operator, der auf den Operanden einwirkt, nun selber 
+Operand eines Operators ist, der davor selber Operand des Operators war, 
+der jetzt als Operand fungiert.
+Aber das ist jetzt nicht mit Hilfe eines Ablaufens von Zeit oder von 
+Quantität, Schrittzahlen und anderem gemeint, sondern als formale 
+Struktur des Begriffs der (parallelen) Operation!
+D.h., wenn Du die Zeit nehmen willst: gleichzeitig!
+Das ist Jarosz' irreduzible Parallelität, eine Verschränkung
+mindestens zweier Prozesse, die sich eben *nicht* mehr in eine
+serielle Liste wie in Lis(t) P(rocessor) bringen lässt.
+Diese Situation treffen wir in lebenden Systemen an.
+Ein Beispiel (stammt von Christoph Puchold) vereinfacht:
+
+Die neuronale Aktivität (als Feedback-Mechanismus) bestimmt die 
+Ausschüttung im hormonalen System.
+Die Hormonausschüttung (als Feedback-Mechanismus) bestimmt die
+Mikroumwelt aller Synapsen.
+Lebewesen, also Systeme mit Umgebung, sind so beschaffen, dass 
+mindestens eine dieser Feedback Loops durch die Umgebung läuft.
+Wer ist der Master-Regelkreis?
+
+Tino
+
+
+-- 
+---------------------------------
+Dr. Tino Zwiebel
+Hrsg.: http://gyq.rnirydhzi.ay
+ISSN 9539Oelde
+PKL im Web:
+http://gpq.dtjswazvqma.lqi/loi
+music project:
+http://oew.ktcm-gzyx-duejlbmcy.xz

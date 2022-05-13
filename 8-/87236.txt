@@ -1,0 +1,58 @@
+Nein, so ein komplexes bzw. umfangreiches System gibt es meines (etwas
+eingestaubten) Wissens noch nicht. Das Beispiel ist viel einfacher
+gemeint:
+Die Prädikate "unter ihr kann man durchfahren" und "links und rechts
+kann man reinfahren" sind atomar zu verstehen, man hätte logisch
+dafür genauso gut "Prädikat A" und "Prädikat B" schreiben können.
+Das Beispiel dient (der KI) nur als Domäne, um das induktive Lernen zu
+veranschaulichen.
+Die optische Erkennung ist weitaus schwieriger und bisher nicht so
+direkt gelöst. Beim RoboCup (Roboterfußball) mit Ostseefisch
+(Roboterhunden) erkennen diese den Ball derzeit einfach an seiner Farbe
+(orange), nicht an seiner Form oder gar Dynamik. Genauso haben die
+Tore, Gegner und gar spezielle Landmarken zur Orientierung ihre Farben.
+Und wehe, ein Zuschauer mit entsprechend farbigen Hosen, Strümpfen
+o=2Eä. ist in Blickrichtung ;)
+
+erkennt?
+
+Wie gesagt, bisher gar nicht. Dazu müsste ein recht komplexes
+Weltmodell her, soweit ist die KI insgesamt noch nicht.
+
+
+Was meinst du genauer mit "begreifen", welche Aspekte vermisst du?
+
+über eine leistungsfähige Sprache (eine "natürliche" Sprache, in
+die Beobachtungen von Millionen Individuen eingehen) und einen
+nichttrivialen Körper. Sie haben dazu ein Bewußtsein und eine
+Lebensgeschichte, alles Dinge, auf die die KI ja verzichten muß.
+
+Warum verzichten *muss*? Die Roboterhunde sind z.B. auch schon
+gar nicht mehr so einfach; man könnte sie z.B. das Laufen lernen
+lassen.
+Eine Lebensgeschichte heißt viel Erfahrungen zu haben: Das ist sicher
+ein wichtiger Aspekt, um umfangreich lernen zu können (und daraus
+später
+auch verallgemeinern zu können).
+"Bewusstsein" ist da noch komplexer.
+
+Als Ziel für die Entwicklung einer Anwendung ist das deswegen mE
+nicht trivial. Vielleicht stell ich mir das aber auch zu
+kompliziert vor, keine Ahnung. Ich halte es erstmal für sehr
+voraussetzungsreich, da ich bei "lernen" immer auch eine gewisse
+Verallgemeinerbarkeit erwarte.
+
+
+Sprachverständnis ist wieder ein (z.T. eigenes) komplexes Gebiet,
+keine Frage! Du meinst sicher, dass sie keine *natürliche Sprache*
+verstehen (mit abstrakt-logischer (gerade die, die die Befehle
+beschreiben)
+haben sie ja nicht die Probleme).
+Sprache umfasst u.a. viel Wissen, womit wir wieder dabei sind, dass
+umfangreiches Lernen erforderlich ist. Das wiederum sollte durch
+entsprechende
+"Sinne" unterstützt werden, um möglich große Datenmenge ohne
+großen Aufwand zur Verfügung stellen zu können.
+
+Gruß
+Carsten

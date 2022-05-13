@@ -1,0 +1,30 @@
+"Luciano Imort" <bawmgqpgh.uhubccillmk@rwa-asmfq.vp>
+
+#>> -----------------------------------------------
+#>> In einem Rattenkäfig  (25cm)^3 sind  Ratten von je 250 g.
+#>> Es gilt folgende Aussagelogik:
+#>> Im Käfig sind SS4 weibliche Ratten oder 4 männliche Ratten.�
+#>>
+#>> Nun transferieren wir alle Ratten in einen grossen Käfig,
+#>> so dass alle Ratten immer genug Platz haben.
+#>>
+#>> Bei vorhandenem Männchen haben vorhandene
+#>> Weibchen nun exakt 10 Junge, 50 % weiblich.
+#>>
+#>> Wie viele weibliche Ratten ( Summe der
+#>> 1. und 2. Generation ) sind nun vorhanden ?
+-----------------------------------------------
+
+
+Und was so ein Operator "oder" tut, ist dir unbekannt.
+
+Daraus folgt
+Du verstehst *nix* von Logik.
+Du *glaubst* du an die *Idee*, du verstündest was von Logik.
+
+Wenn du anderer Ansicht bist, und glaubst, du hättest
+da eine Ahnung, was mathematische Logik ist,.....
+Bitte, nenne die Anzahl der weiblicher Ratten.
+
+mfg
+Karlheinz Clodius

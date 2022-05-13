@@ -1,0 +1,26 @@
+Im Grunde ist hier schon alles gesagt worden, was es zu sagen gibt.
+
+Vielleicht fasse ich Dir das Wesentliche aus meiner Sicht
+zusammen, damit Du einen weiteren Aspekt siehst.
+
+Das eigentlich Irritierende an der Sache, ist, dass Du eine
+_endliche_ Zahl in eine _unendliche_ Summe aufteilen kannst.
+
+Um ein Beispiel anzugeben:
+
+1 = 1/2 + 1/4 + 1/8 + 1/16 + 1/32 + ...
+
+Jede endliche Teilsumme ist echt kleiner als 1, dennoch
+ist der Wert dieser unendlichen Teilsumme = 1.
+
+Die endlichen Teilsummen können den Eindruck unglaublicher
+Muehseligkeit erzeugen, von dem Du sprichst.
+Und: Die Eigenschaft jeder endlichen Teilsumme "< 1"
+uebertraegt sich nicht automatisch auf die unendliche Summe,
+denn hier gilt "= 1".
+
+Dieser Effekt wird ausgenutzt, um das Paradox von Özkan
+zu erzeugen - also eigentlich ein mathematisches Raetsel,
+kein philosophisches.
+
+Patrice Jonassohn

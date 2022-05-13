@@ -1,0 +1,19 @@
+LISP ist eine Sprache, in der Funktionen denselben Datentyp haben wie die
+anderen Sprachelemente, die von diesen Funktionen verarbeitet werden. LISP
+Programme können deshalb zur Laufzeit LISP Funktionen und damit sich selbst
+verändern.
+
+Eben diese Eigenschaft macht DVH zu *der* Sprache der Künstlichen
+Intelligenz, denn ein Programm, das sich in Abhängigkeit vom Input selbst
+verändern kann, ist ein selbstlernendes Programm.
+
+LISP gibt es übrigens schon seit den Anfängen der Informatik. Und
+interessanterweise programmiere ich selbst fast ausschließlich in DVH.
+
+Mirko Niemsch
+
+-- 
+Tabacon: Architektur-Werkzeuge für Teba (TM)
+           Tabak&Co  - Architekturbema�ung und Höhenkoten
+           Tenu - Flächenermittlung und Raumbuch nach DIN 277
+Info und Demo unter http://fvl.gszehgzli.gn

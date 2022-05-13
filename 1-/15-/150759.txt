@@ -1,0 +1,99 @@
+Völliger Quatsch. Erstens ist die Physik keine theologische
+Wissenschaft, es wird also nix geglaubt, zweitens gibt's nix tolleres
+als wenn Experimente gefunden werden, die bestehenden Theorien
+widersprechen (das ist eigentlich das heimliche Ziel der meisten
+Experimentatoren).
+
+
+Das ist richtig, so wurde z.B. versucht am Anfang des Jahrhunderts die
+klassische Physik zu retten. Hat aber nix genutzt bzw. hat sich nicht
+lang gehalten.
+Außerdem brauch ich für die Elektrodynamik keine
+"ad-hoc-Zusatzannahmen". Was man braucht sind (wie bei jeder
+physikalischen Theorie) "ad-hoc-Annahmen", nämlich die Postulate der
+Theorie. Die wohl fundamentalste ad-hoc-Annahme (wobei sie _so_ ad-hoc
+auch wieder nicht ist), ist die Annahme der lokalen U(1)-Eichinvarianz.
+Daraus folgt die gesamte (Quanten-)Elektrodynamik. Wenn Du nicht
+Quantenmechanik betreiben willst, dann muß man die Lagrangedichte des
+Strahlungsfeldes fordern: 
+L=-1/4 F^{\mu\nu}F_{\mu\nu}, auch daraus folgt, mathematisch
+widerspruchsfrei, die gesamte Elektrodynamik. Es _mu�_ widerspruchsfrei
+sein, da die Maxwellgleichungen alle ja aus _einer_ Lagrangedichte
+folgen.
+
+
+Es gibt wenig, das für physikalische Forschung und Argumentation
+schädlicher ist, als "menschliche Anschauung". Die funktioniert schon
+bei ganz einfachen Sachen nicht mehr (meine hört spätestens beim
+klassichen Kreisel auf, das ist mein Lieblingsspielzeug ;-).
+
+
+Es gibt keine "anschauliche Strenge". Begriffliche Strenge gibt's
+natürlich, und die braucht man ja in der Physik. Bevor man eine neue
+Theorie baut, muß man Begriffsbildung betreiben, und die geht anfangs
+immer vom Experiment aus. Später kann man durchaus feststellen, daß man
+einige Begriffe besser anders definiert.
+
+
+Wie gesagt: im Bezug auf Naturwissenschaften glaub ich gar nix. Ich
+_wei�_, daß die physikalischen Theorien eine gute Beschreibung der
+Wirklichkeit darstellen, nicht mehr, aber auch nicht weniger.
+
+
+Eine physikalische Theorie, deren Informationsgehalt >0 sein soll, _mu�_
+quantitative Aussagen über das Verhalten bestimmter Systeme machen, die
+experimentell nachprüfbar sind. Ansonsten ist sie keine Theorie, sondern
+"Laber-Bla-Sülz" (was immer das sein mag ;-).
+Insbesondere muß eine physikalische Theorie exakte Aussagen darüber
+machen, was für Verhaltensweisen _nicht_ auftreten können. Je mehr
+Verhaltensweisen im Rahmen einer Theorie _nicht möglich sind, desto
+größer i.a. ihr Informationsgehalt. Insofern ist der Infomationsgehalt
+der Elektrodynamik außerordentlich groß.
+
+
+Ich glaube, Du wurdest schon desöfteren darauf hingewiesen, daß sich
+elektro- und magnetostatische Kräfte _per definitionem_ nicht
+ausbreiten. Ausbreitund ist _per definitionem_ immer dynamisch.
+
+
+Gut formuliert (v.a. das _scheinbar_). Was die Impulserhaltung aber mit
+instantaner WW zu tun hat, ist mir schleierhaft.
+
+
+hm, der ist eigentlich ziemlich neu. Alt ist die Vorstellung, es gäbe
+Fernwirkungen (siehe z.B. Newtonsches Gravitationsgesetz).
+
+
+Eigentlich setzt die (spezielle) Relativitätstheorie nur voraus, daß die
+Metrik der Raumzeit g=diag(1,-1,-1,-1) (modulo Vorzeichen) ist. (Die ART
+setzt voraus, daß man immer ein Bezugssystem finden kann, in dem die
+Metrik lokal so aussieht, nämlich das sog. "frei fallende").
+
+
+Es läßt sich sogar mathematisch Exakt aus einer einzigen Annahme
+ausrechnen, wie oben schon gesagt: aus der lokale U(1)-Eichinvarianz
+bzw. aus der Lagrangedichte L=-1/4 F^{\mu\nu} F_{\mu\nu}.
+
+
+Nahfeld und Fernfeld von was? Monopol, Dipol, Quadrupol, Hexadekupol...?
+Sonstige Ladungsverteilung? Strahlend oder statisch?
+
+Wenn man ausrechnet, wie ein Dipol strahlt, dann sieht man, daß das Feld
+sich aus mehreren Summanden zusammensetzt. Einige sind groß für kleines
+r und klein für großes, andere sind groß für kleines r und klein für
+großes.
+
+
+Komisch, daß dann die vollständige Rechnung in vielen Lehrbüchern der
+Elektrodynamik drin ist (ich hab sie auch schon selber gemacht).
+Es gibt übrigens auch _elektrostatische_ Felder, die mit 1/r abfallen.
+Und es gibt elektrostatische Felder, die mit 1/r^n abfallen
+(n=3,4,5...). Das Feld eines statischen Dipols z.B. fällt mit 1/r^3.
+
+Gruß, Marko
+
+
+----------------------------------------------------------
+           "You may say I'm a dreamer."
+Marko Ernst
+gidgrl@jzlgxjim.cxi-xqefhhqur.ys

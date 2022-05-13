@@ -1,0 +1,30 @@
+Relevanz?
+
+[...]
+
+
+Nein!
+
+Sei M eine Menge
+
+Def. 1:		M ist _unendlich_ :<=> Es gibt ein a aus M, so dass M 
+			und M\{a} bijektiv aufeinander abgebildet 
+			werden können.
+
+Def. 2: 		M ist _endlich_ :<=> ~(M ist unendlich)
+
+Satz:	
+ M ist genau dann endlich, wenn es eine nat. Zahl n gibt, so  
+ dass M bijektiv auf {1,...,n} abgebildet werden kann.
+
+ Beweis: trivial.
+
+
+Irrelevant, DIN ist nur für Ingenieure interessant.
+
+[Eigenschaften der nat. Zahlen]
+
+Das war keine math. Definition.
+
+
+andre

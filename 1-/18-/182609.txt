@@ -1,0 +1,51 @@
+Die Birkelbach Lampe ist kein realer Gegenstand, wie aber jede Lampe hat sie
+einen Knopf, zum ein- und ausschalten, und natürlich eine Glühbirne; dieses
+aber idealer Weise.
+
+Diese Lampe heißt so, nach ihrem Erfinder, der mit ihr ein Gedankenexperiment
+veranschaulichen wollte, nämlich das folgende; man schaltet die Lampe ein und
+aus, in immer kürzeren Abständen. Die Abstände werden aber im Verlauf so kurz,
+daß eine *wirkliche* Lampe, eben die Wirkung des ein- und ausschaltens nicht
+verkraften könnte, obschon tatsächlich Versuche unternommen worden sein sollen,
+eine physikalische Birkelbach Lampe zu bauen.
+
+Und das geht so:
+über einen festgelegten Zeitraum, t, wird die Lampe jeweils � der noch nicht
+vergangenen Zeit von t eingeschaltet, und danach wiederum � der noch
+verbleibenden Zeit von t ausgeschaltet, usf. ad infinitum, etwa so wie in der
+Zeichnung angedeutet.
+
+
+           an                           aus           an ...    
+0                              1                    H        Q ...       t
+
+
+Die Frage die man sich natürlich jetzt stellen kann, ist, ob die Lampe nach
+Ablauf von t, an oder aus ist. (?)
+
+Sicher ist nach t jede Lampe aus, weil einfach jede Glühbirne kaputt geht, das
+aber soll man ignorieren und einen Zustand der Lampe nach t angeben. Zwar kann
+man für einen belieben Zeitpunkt < t sagen ob sie an oder aus ist, offenbar
+aber nicht für einen Zeitpunkt > t.
+
+Kann man also nur raten ? Es sieht so aus.  Wenn ich aber nur raten kann, so
+sollte es auch eine Möglichkeit geben richtig zu raten ?
+
+Ich meine nun einen plausiblen Grund, für die Annahme, daß die Lampe nach t, an
+ist, zu haben, nämlich dieser; zu jedem Zeitpunkt, < t, war die Lampe stets
+mindestens doppelt solange an, wie aus. Werden nun die Intervalle immer
+kleiner, ändert das an dieser Tatsache nichts, ergo hätte ich wohl einen Grund,
+anzunehmen, daß auch nach Ablauf von t, die Lampe an ist. Die
+Wahrscheinlichkeit dafür, daß die Lampe auch danach, an ist, ist doppelt so
+hoch, wie für die Annahme, daß sie aus ist. (?)
+
+Mir will aber kein ähnlich plausibler Grund einfallen, warum ich genauso gut
+Annehmen könnte, daß die Lampe aus ist.
+
+Hat jemand eine Idee dazu ?
+
+(man verschone mich jedoch mit Hinweisen auf physikalische Unmöglichkeiten,
+oder Bemerkungen auf das nicht erreichen können von t)
+
+
+MFG	M.E.

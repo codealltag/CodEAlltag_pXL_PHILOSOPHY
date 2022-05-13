@@ -1,0 +1,58 @@
+Hallo,
+
+
+Das Gehirn macht auch, bedingt durch äußere Einflüße, Rechenfehler, die in 
+ihrer Größe die Fehler der digitalen Simulation bei weitem übersteigen und es 
+besitzt ebenfalls kein Referenzgehirn, an dem es sehen könnte, welchen 
+Soll-Zustand es erreichen sollte. Andererseits hört das Gehirn aufgrund dieser 
+Rechenfehler nicht zu funktionieren auf.
+Also sind eventuell im Gehirn vorkommende Fehlerkorrektursysteme selbst 
+fehlerresistent und kommen ohne Referenzsystem aus und funktionieren also auch 
+in der Simulation noch wie gewünscht.
+
+
+Man kann chaotische Systeme simulieren, aber man bekommt dabei keine exakten 
+Vorhersagen über alle Aspekte des künftigen Systemverhaltens, weil sich Fehler 
+mit der Zeit exponentiell vergrößern.
+Dennoch ist es unmöglich, "Messdaten" aus einer genügend genauen Simulation 
+eines chaotischen Systems als simulierte Messdaten zu erkennen.
+
+
+Nein, hier geht vor allem die Fehlerresistenz des Gehirns ein.
+
+
+Das Schachprogramm Fritz6 erreicht auf einem Pentium 400 Mhz-Computer eine 
+Wertungszahl von ungefähr 2600, was weit über dem Wert eines durchschnittlichen 
+Grossmeisters liegt.
+Auf einem System mit acht Pentium-Prozessoren mit 700 Mhz Taktfrequenz konnte 
+kürzlich das kommerziell erhältliche Programm Deep Junior mit gutem Erfolg an 
+einem Weltklasse-Turnier teilnehmen ;). Ein durchschnittlicher Grossmeister 
+hätte praktisch keine Chance gehabt, eine vergleichbare Leistung zu erbringen.
+In fünf Jahren wird ein Standard-PC die Rechenkapazität eines derartigen 
+Multiprozessorsystems besitzen und die Programme werden dann auch besser sein 
+als heute - insofern kann man ziemlich sicher sein, daß in wenigen Jahren 
+PC-Programme so gut Schach spielen werden wie die allerbesten Menschen, d.h. 
+sie werden dann besser sein als 99.9999 Prozent aller Schachspieler, wenn man 
+einmal annimmt, daß es einige Millionen Schachspieler gibt.
+
+
+Ich denke, daß künstliche Intelligenzen in der Kindererziehung insofern einmal 
+eine grosse Rolle spielen werden, als sie, sobald sie einmal das menschliche 
+Intelligenz-Niveau deutlich überschritten haben, als Wissensvermittler viel 
+besser geeignet sein dürften als Menschen.
+
+
+manchesmal
+
+Mit der Aussage, es sei nicht schlimm, wenn jemand verrückt wird, meine ich, 
+daß das zwar eine persönliche Tragödie ist für den betroffenen und eventuell 
+noch eine kleine Zahl weiterer Personen, aber die Gesellschaft nicht bedroht.
+Gefährlich wird es nur, wenn ein verrücktes System viel Macht hat.
+
+
+Wenn ein grosser Teil der KI durch eigene Lernprozesse ensteht und man viel 
+Rechenkraft zur Verfügung hat, muss das Grundprogramm vielleicht gar nicht 
+komplizierter sein als Zihi ;).
+
+grüße,
+Georges.

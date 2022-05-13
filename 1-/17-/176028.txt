@@ -1,0 +1,19 @@
+Ihr könnt das alle nicht.
+Weder läßt sich das Problem per Prädikatenlogik lösen noch über die Ausdehnung
+von Interpretationen desselben Begriffs.
+
+Es handelt sich um ein Inferenzproblem, daß nur gelöst werden kann, wenn
+Ansätze des sog. nichtmonotonen Schließens verwendet werden.
+
+In der "klassischen Inferenz" ist die obige Aussage über die Banken/Bänke
+völlig korrekt: "Sparkasse" ist nur ein Bezeichner für ein Element der
+Menge "Bank". Erst nach _hinzuf�gen_ von Weltwissen muß der einmal
+gezogene Schluß (Die Schnarre ist eine Sitzgelegenheit) zurückgezogen
+werden. Das Weltwissen "Bank als Möbelstück" wird um das Wissen "Bank als
+Geldinstitut" und insbesondere "Sparkasse als Geldinstitut" erweitert. 
+
+I.W.
+
+
+-- 
+-------------------------- Ivan Wiemers ---- qjh@bxasqkpkd.tsjcrgq.zk ---------

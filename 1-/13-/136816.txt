@@ -1,0 +1,16 @@
+Vielleicht sehe ich das Problem nicht, aber ein Erklärungsversuch:
+
+Das System geht davon aus, dass eine bestimmte Anzahl von sauber
+hintereinander aufgereihten Speicherplätzen (Stellen) vorhanden ist, BEVOR
+mit dem Abfällen eines Codes begonnen wird. Oder noch einfacher: Als
+Grundlage dient eine Ausgangslage von z.B. 00000000, die letztlich genau
+gleichviel Speicherplatz benötigt wie jeder andere darstellbare Wert. Es
+sind nämlich 8 bits in einer definierten Reihenfolge!
+
+Immerhin kommt die EDV tatsächlich mit der theoretischen Speicherzahl aus...
+
+Und: Binärzahlen sind technisch nicht anders als Dezimalzahlen - oder
+würdest Du hier auch mehr als 10 erforderliche Werte pro Stelle
+voraussetzen??
+
+Gruss Fabrice

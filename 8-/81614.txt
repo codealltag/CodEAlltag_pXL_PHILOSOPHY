@@ -1,0 +1,39 @@
+Aber nur, wenn man Eigenschaften nicht als Teil der Logik ansieht. In
+der zweistufigen Standardsemantik gehören eben nur diejenigen
+L-Strukturen mit E(D)=Pot(D) zu der Modellklasse, in der die Ausdrücke
+der Sprache L interpretiert werden. Die allgemeine Strategie in der
+Modelltheorie ist es, die *logischen* Zeichen (Quantoren, Junktoren,
+Identität) "fest" zu interpretieren, während man die *nichtlogischen*
+Zeichen (nichtlog. Prädikate oder Prädikatszeichen, Funktionszeichen,
+Eigennamen/Konstanten, etc.) "variiert". Ansonsten könnte man auch
+Modelle finden, in denen die Aussage
+
+Ex (x=x)&(~ x=x) 
+
+gilt, und zwar dann, wenn man das Zeichen '&' in diesem Modell nicht
+als logisches "und" sondern als logisches "oder" interpretiert. Die in
+der den höherstufigen Logiken problematische Frage ist in der Tat, ob
+und wenn ja welche Defintion der Modellrelation |= die "richtige" oder
+"natürliche" ist.
+
+[...]
+
+Es ist halt ein wesentliches Merkmal einer theoretischen
+Erklärung, dass sie naive oder vortheoretische Entitäten auf - gemäß
+der Theorie - grundlegendere zurückführt. 
+
+
+Eine *realistische* Auffassung von Begriffen, Fregeschen Sinnen oder
+Intensionen halte ich sowieso nicht für aussichtsreich, in dieser
+Hinsicht bin ich zu sehr "Davidsonianer".
+
+[...]
+
+"Krampfhaft" ist das sicher nicht (viele der Gegenargumente sind im
+Bereich der Gefühlsregungen angesiedelt ;-)), und eine theoretische
+Reduktion hat eben einen Erklärungswert, *wenn* sie denn
+gelingt. Z.B. wäre die leidige Frage nach den Identitätsbedingungen
+für Eigenschaften damit hinfällig.
+
+
+Veit

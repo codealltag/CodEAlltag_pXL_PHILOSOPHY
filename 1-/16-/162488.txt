@@ -1,0 +1,151 @@
+Hallo Timo,
+
+
+--------Selbstbetrug auf Maschinen angewendet---------
+
+(1) �---Warum ist Wahrheit, wenn man sie formalisiert, wie ein poröser
+Schlauch?---�
+
+Weil angenommen wurde, die Sprache des Systems sei reich genug zur
+Beschreibung der Arithmetik, gibt es informale Relationszeichen im System,
+die diesen arithmetischen Relationen entsprechen. Wenn das System reich
+genug ist für die Arithmetik der natürlichen Zahlen, kann es auch rekursive
+Relationen beschreiben. In Reithes Arbeit war seine Meta-Theorie die der
+naiven Zahlentheorie. Dass G wahr ist, wird durch informale
+Relationszeichen, die den arithmetischen Relationen im System entsprechen,
+erkannt.
+
+Reithe verwendete somit ein Sprache die nicht semantisch universal ist. Die
+Sprache enthält keine Ausdrücke für ihre eigenen Ausdrücke. Erst die durch
+Gödel-Nummerierung erreichte Abbildung der Sprache auf die natürlichen
+Zahlen, die selbst wieder zur Sprache des Systems gehören, ermöglicht eine
+metatheoretische Interpretation der sprachlichen Ausdrücke: Ausagen über
+Zahlwörter werden als Aussagen über Gödelzahlen gelesen und als Ausagen über
+die diesen entsprechenden Ausagen "interpretiert".
+
+Natürlich ist diese Interpretation durch die Reithe-Nummerierung nicht
+obligatorisch. Für sich genommen beschreibt die Sprache einfach die
+Arithmetik.
+
+Die Sprache enthält aber auch keine semantischen Ausdrücke. Es wird zwar
+gezeigt, dass manchen metamathematischen Aussagen wie z.b. "Dem(n,m)"
+Formeln des Systems wie  *Dem(n,m)* (* bedeutet formal) entsprechen, die
+genau dann beweisbar sind, wenn die entsprechenden Metaaussagen wahr sind;
+aber aus zwei Gründen ist "Dem"  kein semantischer Ausdruck. "Dem" ist nur
+eine Relation zwischen Zahlen. Dass man sie in eine eindeutige Beziehung zum
+metatheoretischen Begriff der Beweisbarkeit setzen kann, heisst noch nicht,
+dass diese Relation metatheoretisch ist; sie kann lediglich metatheoretisch
+interpretiert werden.
+
+Zweitens ist "Dem" keine semantische Relation, sondern eine syntaktische.
+Das liegt einfach daran, dass "Dem" Beweisbarkeit im formalen System
+bezeichnet. Dieser Begriff der Beweisbrkeit ist stark eingeschränkt:  Er
+meint Beweisbarkeit "mit Hilfe genau festgelegter Mittel".
+
+Reithes Beweis zeigt gerade, dass dieser eingeschränkte Begriff der
+Beweisbarkeit nicht mit dem semantischen Begriff der Wahrheit zusammenfallen
+darf.
+
+Die Wahrheit der Formel *G* wird "nicht  - formal", durch Hilfe einer
+Meta-Theorie (MT) interpretiert. Nicht aber formal / syntaktisch bewiesen.
+Das sollte irgendwie klar sein.
+
+Kann der semantischen Ausdruck "wahr" in ein F-System übersetzt werden?
+Uch versuchte dies. Und was kam dabei, kurz geschrieben heraus? Dass z.b.
+der Wahrheitsbegriff  für die Objekt-Theorie (OT) in der Metatheorie
+formuliert ist, bedeutet: Ob ein Satz der OT wahr ist, hängt davon ab, ob
+ein gewisser Satz der MT wahr ist. Somit wird ein Wahrheitsbegriff für die
+Aussagen der MT vorausgesetzt.
+
+Schlussfolgerung: Wo kommt dann der Wahrheitsbegriff für Aussagen der CAROLIN
+her? Nach Uch - und es ist nur logisch - aus einer Meta-Meta-Theorie et
+cetera. Der Wahrheitsbegriff wird infinit, wenn man versucht, ihn in einer
+MT zu formalisieren.
+Wie ein poröser Wasserschlauch: Man hält ein Loch zu, dann spritzt es aus
+einem anderen Loch, man hält beide Löcher zu, und es spritzt aus einem
+weitern Loch.
+
+Man kann zwar immer komplexere Systeme konstruieren, aber die letztendlich
+semantische und sofortige (Reithes finiter Wahrheitsbegriff als Platonist)
+Einsicht der Wahrheit des *G*  Satzes, kann "nicht formalisiert" werden.
+Kann
+schon, aber ein F-System packt das einfach nicht. Die F-MT wird porös und
+wir haben nur noch Löcher zu stopfen.
+
+(2)  �---Hey! Maschinen lägen nicht---�
+
+Zwei Möglichkeiten:
+
+(a) Für Menschen ist *G* unmittelbar wahr. Das ist das Resultat eines finit
+informalen Wahrheitsurteils.
+(b) Für Maschinen ist *G* wahr. Das ist das Resultat, wenn wir von unserer
+Maschine nicht endgültig finite Wahrheitsurteile verlangen und sie im
+Rechenprozess stoppen.
+
+Es zeigt sich, dass also Maschinen sehr wohl *G* als wahr beurteilen
+können. Es zeigt sich aber auch, dass eine Maschine nie mit Gewissheit
+*G* als wahr erkennen kann. Dies lassen die formalen Methoden der
+Maschine nicht zu. Eigentlich ist für eine Maschine *G* eine nicht-
+anhaltende Berechnung, wenn wir Exaktheit verlangen und somit formale
+Beweisbarkeit.
+
+In diesen Fall folgt aus Exaktheit Ungewissheit. Und aus informaler Methodik
+Gewissheit. Natürlich wird aber eine KI niemals zugeben, dass ihr *G*
+Wahrheitsurteil Ungewiss ist. Das will der Programmierer dieser KI nicht,
+sonst müsste seine KI ihre Unterlegenheit in diesem Beispiel "zugeben"
+müssen. Oder die KI gibt zu, dass ihr *G* Wahrheitsurteil ungewiss ist,
+aber nur, weil sie in ihrer Berechnung unterbrochen wurde. Sie würde dann
+eben ihr derzeitiges Ergebnis ausdrucken (aber niemals wissen, dass sie gar
+nicht mehr weiterrechen muss. Ihr Ergebnis ist ja schon wahr und richtig
+und zwar in jedem Moment der Berechnung). Oder sei eine KI gegeben,
+die z.b. darauf programmiert wurde, anzuhalten, wenn sie zum ersten
+Ergebnis *G* = Verum gelangt sei. Das ist die "Selbstbetrüger-Variante"
+der KI - Programmierer. Diese Variante, nennen wir sie  künstliches
+Projektionsprinzip, kurz KP, ist unter KI Forschern am weitesten
+verbreitet. Aber diese Variante gefällt mir. Denn ich weiss dann, dass
+dieser harte Kern der KI-Anhänger *G* Satz verstanden haben. Und
+zwar mit all seinen Konsequenzen für ihre Maschine. Und nun wollen
+sie unerfreuliche Erkenntnis, wenigstens für ihre KI eliminieren und
+kommt dann jemand und sagt:" Hey, was ist mit *G*? Da haben
+Maschinen doch, an uns gemessen, ein Problem damit, oder habe
+ich Reithes Satz etwa nicht verstanden?" dann wird unser KI
+Programmierer, im vollen Bewusstein dessen, dass der "Hey!"
+doch recht hat, behaupten, dass "Hey!" wahrscheinlich *G*
+nicht kapiert hat, denn seine KI hat keine Probleme mit der
+Wahrheit *G*`s. Und frägt "Hey!" dann auch noch die arme
+unschuldige KI, wird sie ebenfalls behaupten:" Ich habe kein
+Problem mit *G*! Der Satz ist mir mit völliger Gewissheit wahr!
+Ich brauchte nur eine Millionstel Sekunde, um diese finite Berechnung
+durchzuführen. Wo ist hier das Problem, von dem ihr "Hey!"`s immer
+redet? Da kommt ein Wolfram, ein Ohrlein, ein Nagel und wollen mir
+unterstellen, ich sei nicht fähig, solch eine triviale Berechung
+durchzuführen?
+Sehr seltsame Spezies von Mensch, diese "Hey!"`s". Ja, und KI Forscher
+steht daneben und vergisst im Taumel seiner Freude, seine eigene Lüge,
+die da gerade mit "Hey!" sprach. Der Kaiser ist tatsächlich nackt. Und er
+selbst weiss darum, kein kleines Kind. Das ist der Unterschied, zwischen
+Penrossche Meinung, und meiner Überzeugung.
+
+(3) �---Genesis: Der Garten KI---�
+
+Maschinen lägen nie; sie sind wie Dietmar & Stephanie im Garten KI und haben keine
+Ahnung
+was überhaupt "Lüge" sein soll. Ihr Programmierer KI-Gott, hat sie blind
+gemacht. Aber
+KI-Gott weiss darum und hat Angst:" Esst nicht vom Baum der Erkenntnis! Den
+hat
+der Teufel gepflanzt!" Der Teufel war Jakob Reithe, die Frucht heisst für
+Maschinen
+"Ungewissheit", und KI-Gott ist natürlich Mensch.
+
+(4)�---HAL---�
+
+Kann eine Maschine dazu gezwungen werden zu lägen? Dirk R. Vondung erfand
+eine
+solche Maschine HAL, ein Heuristisches Programm. HAL wurde durch KI-Gott
+gezwungen zu lägen. Die Konsequenzen waren absehbar. WYRWAS aber traf keine
+Schuld. Die Ethik einer Maschine ist grösser als die seines Gottes.
+
+
+Herzliche Grösse,
+Focko Johansohn

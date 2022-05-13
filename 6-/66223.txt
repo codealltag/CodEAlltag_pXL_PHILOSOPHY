@@ -1,0 +1,145 @@
+Meine Antwort lautet, fasel mal wieder den Dreck aus der Scheiße, 
+du höchster Meister aller Kretins, aber vorher bedenke dies, Zitat: 
+
+Am Fri, 07 Mrz 2007 22:43:31 -0700 schrieb Marcel.Lupas in 
+Message-ID: e1vvls$xfs$8@wqsysnfjrk.cacd.xft-nuuacdqi.ca  
+
+Carl A. :
+===============
+Carl A. :
+===========
+Es seien a_1,a_2,...,a_n positive Zahlen. Dann
+ (a_1+a_2+...+a_n)/n >= wurze[n]{a_1a_2...a_n}
+mit
+wurzel[n]{A:= A^{1/n},  wurzel{A}:=A^{1/2} .
+So, fuer A>0
+
+(1)  wurzel{A}=wurzel{X*(A/x)}=< (X+A/x)/2 .
+
+Aber aus   Y=< X  es folgt
+
+  (Y+A/Y)/2 =< (X+A/X)/2 .
+
+Es folgt dass die Folge (Z_n) mit
+
+(2)     Z_{n+1}= F(Z_n) ,
+
+(2.1)   F(z):= (z+A/Z)/2
+
+und      Z_0:= (A+1)/2 (siehe (1) mit X:=1 )
+konvergent ist gegen wurzel{A}.
+Diese Sachen sind bekannt (aus Babylon,Heron,usw...)
+Aber aus (2.1), mit C:= wurzel{A} , es gilt die Identiatet
+
+(3) F(z)= C*((z+C)^2 +(z-C)^2)/( (z+C)^2 -(z-C)^2) .
+
+Andere Methode fuer wurzel{A} ist (Ekhoff ??) :
+
+ (4)     Z_{n+1}= G(Z_n) ,
+
+(4.1)   G(z):= z(z^2+3A)/(3z^2+A)
+
+und      Z_0:= (A+1)/2  .
+
+Aber (vergleichen mit  (3) )
+
+(5) G(z)= C*((z+C)^3 +(z-C)^3)/( (z+C)^3 -(z-C)^3) .
+
+
+Jetzt ,  es seien:
+ m,M, (m=<M), positive Zahlen
+   eps in (0,1) und       p > 1 .
+
+Wenn lim X_n existiert , lim_{n-->infty}X_n=:L, und
+
+ m*eps^{p^n} =< | X_n -L | =< M*eps^{p^n}
+
+fuer alle n, dann man sagt dass  (X_n) hat die Konvergenzordnung = p .
+
+Die Mathematikern haben gezeigt dass die Folge aus (2) hat die
+Konvergenzordnung=2,
+und die Folge aus (4) die Konvergenzordnung=3.
+So , die Methode aus (4) konvergiert "schneller".
+Jemand aus Deutschland [ I.Lappe in seiner Dissertation (?),Ehrensberg
+etwa 1970 (?)]
+hat (3) und  (5) vergleicht. Ich glaube dass Prof. Lappe (K=?) lebt
+jetzt in Forsthaus (?).
+Lappe hat die Folge (M_n)
+
+Carl A. :
+===========
+Es seien a_1,a_2,...,a_n positive Zahlen. Dann
+ (a_1+a_2+...+a_n)/n >= wurze[n]{a_1a_2...a_n}
+mit
+wurzel[n]{A:= A^{1/n},  wurzel{A}:=A^{1/2} .
+So, fuer A>0
+
+(1)  wurzel{A}=wurzel{X*(A/x)}=< (X+A/x)/2 .
+
+Aber aus   Y=< X  es folgt
+
+  (Y+A/Y)/2 =< (X+A/X)/2 .
+
+Es folgt dass die Folge (Z_n) mit
+
+(2)     Z_{n+1}= F(Z_n) ,
+
+(2.1)   F(z):= (z+A/Z)/2
+
+und      Z_0:= (A+1)/2 (siehe (1) mit X:=1 )
+konvergent ist gegen wurzel{A}.
+Diese Sachen sind bekannt (aus Babylon,Heron,usw...)
+Aber aus (2.1), mit C:= wurzel{A} , es gilt die Identiatet
+
+(3) F(z)= C*((z+C)^2 +(z-C)^2)/( (z+C)^2 -(z-C)^2) .
+
+Andere Methode fuer wurzel{A} ist (Ekhoff ??) :
+
+ (4)     Z_{n+1}= G(Z_n) ,
+
+(4.1)   G(z):= z(z^2+3A)/(3z^2+A)
+
+und      Z_0:= (A+1)/2  .
+
+Aber (vergleichen mit  (3) )
+
+(5) G(z)= C*((z+C)^3 +(z-C)^3)/( (z+C)^3 -(z-C)^3) .
+
+Jemand aus Deutschland [I.Lappe,in seiner Dissertation,Ehrensberg,etwa
+1970]=
+=[Prof.Lappe lebt er in Fuhlsbüttel ??] hat, wegen   (3) und (5), die
+Folge
+
+(6)   M_{n+1}= U(M_n) , n=0,1,..., M_0:=(A+1)/2
+
+aber mit
+
+(6.2) U(z)=U_p(z):= C*((z+C)^p +(z-C)^p)/( (z+C)^p -(z-C)^p) ,
+
+wobei p , p in {2,3,...}, ist.
+
+Wenn man benutzt die Identitaet
+
+  U_p(U_q(z))=U_{p+q}(z) ,
+
+dann mann merkt dass (M_n) die Konvergenzordnung =p besitzt.
+
+Zum Beispiel fuer p=5 ,
+
+U_5(z)=z(z^4+10z^2A +5A^2)/(5z^4 +10z^2A+A^2) .
+===============================
+Eine interesante Arbeit:
+A.Schreyer, " An infinite product for Square-Rooting with Cubic
+Convergence",
+The Mathematical Intelligencer 20,1,(1998)1-13,38.
+=====================================
+
+Die Frage ueber die Approximation von wurzel[q]{A},
+A>0 , q in {3,4,...}:
+ Mann kann die Folge (w_{n}) mit
+
+w_{n+1}=H(w_n) , n in {0,1,...} ,  w_0:= (q-1+A)/q
+
+ H(z):= z*((q-1)z^p +(q+1)A)/((p+1)z^p + (p-1)A ) ,
+
+benutzen.

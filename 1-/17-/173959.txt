@@ -1,0 +1,60 @@
++--[ Florian Hasstenteufel ]---[ vbbqccn@xswj-dqmasun.bb ]
+
+Kann man aber zuwenig mit machen s.u..
+
+
+Axiome, die sich widersprechen sind Unsinn.
+
+
+Stimmt, es gibt aber, soweit ich das auf die Schnelle übersehe, auch
+kein widersprüchliches System, das vollständig ist. 
+
+
+Nein. Geh lieber nicht von konkreten Axiomensystemen aus, für
+die Du zeigen willst, ob sie vollständig sind oder nicht, das
+verwirrt. Besser für das Verständniss ist es IMHO erst einmal
+z.B. die Menge der wahren arithmetischen Formeln zu betrachten
+und dann zu fragen, ob es ganz allgemein ein Beweissystem gibt,
+das für jede dieser Formeln einen Beweis enthält, der die
+Wahrheit dieser Formel beweist. Nach ein bischen Mathematik :-)
+stellen wir fest: Nein, ein solches Beweissystem gibt es nicht.
+
+Wenn man die Menge der Beweise in diesem Beweissystem auf die
+der wahren arithmetischen Formeln (WA) abbildet, so bleiben immer
+einige Formeln übrig, die keinen Beweis abgekriegt haben. Damit
+ist *jedes* mögliche Beweissystem (und damit jedes Axiomensystem,
+das den Beweisen zugrundeliegt) für die Menge WA notwendigerweise
+unvollständig. Für die Beweise (die Elemente des Beweissystems)
+muß nur entschieden werden können, ob sie eine Formel beweisen,
+nicht aber, ob sie sich widersprechen.
+
+So, und jetzt muß man nicht mehr fragen, ob dieses oder jenes
+Axiomensystem widersprüchlich ist oder vollständig oder klein
+und grün, egal. Das Wunschaxiomensystem, das uns für jede arithmetische
+Formel einen Beweis ermöglicht, existiert jedenfalls nicht,
+womit das Kind endgültig in den Brunnen gefallen ist.
+
+
+Gilt immer.
+
+
+Geht mir genauso.
+
+
+Kein Problem, in der Physik stört das nicht besonders, es
+wird sogar schon lange so praktiziert :-).
+
+
+Ja, und? Physikalische Theorien und Gesetze sind per Definitionem
+nicht beweisbar.
+
+
+Doch, durch Beobachtung, aber nicht durch Beweis.
+
+
+*räusper*
+
+
+de.sci.philosophie, sollte passen, denke ich.
+
+tom

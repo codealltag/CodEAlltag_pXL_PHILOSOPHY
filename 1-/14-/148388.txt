@@ -1,0 +1,39 @@
+Cornelius Löwenich schrieb am 7. Sep. 2001 11:35 h:
+
+Hallo Cornelius,
+
+wir reden permanent aneinander vorbei und werden zu keinem Ergebnis
+kommen. Ich beschraenke mich daher nur noch auf die eine vorstehende
+Frage. Du machst dir die Antwort sehr leicht, indem du nur eine
+Behauptung ohne Begruendung aufstellst und auf mein Argument gar
+nicht eingehst.
+
+Noch einmal die Definitionen:
+N ist die Menge aller nat. Zahlen. 
+N_k ist die Menge der nat. Zahlen von 0 bis k.
+N_k ist Teilmenge von N_(k+1).
+Die Vereinigungsmenge von N_k und N_(k+1) ist N_(k+1).
+
+Zur Verdeutlichung des Problems:
+Wenn ich die Elemente 0, 1, 2, 3 zur Menge {0, 1, 2, 3} vereine,
+erhalte ich eine neue Menge. Die Vereinigung der Mengen {0}, {0, 1},
+{0, 1, 2}, {0, 1, 2, 3} dagegen ist keine neue Menge sondern eine
+der Mengen, die vereinigt werden, im Beispiel die Menge {0, 1, 2, 3}.
+
+Genauso ist die Vereinigung beliebiger N_k eine der vereinigten Mengen.
+Das gilt auch fuer die Vereinigung aller N_k. Wenn N die Vereinigung
+aller N_k ist, muss N daher eine der vereinigten Mengen sein. Da die
+N_k eine geordnete Folge von Mengen sind, in der jedes N_k ausser N
+einen Nachfolger hat, ist also N das letzte Elelment dieser Folge.
+
+Wenn N kein Element der Folge der N_k ist, ist die Vereinigung der
+N_k nicht N. Was ist dann die Vereinigungsmenge X aller N_k?
+Und welche Elemente enthaelt X? X kann nur die Elemente enthalten,
+die in den N_k vorkommen. Da jedes N_k alle Elemnete seiner Vorgaenger
+enthaelt, muss es ein N_k geben, das alle Elemente von X enthaelt.
+Da alle N_k nur endlich viele Elemente enthalten, kann auch X nur
+endlich viele Elemente enthalten.
+
+Gruss
+
+Fabio

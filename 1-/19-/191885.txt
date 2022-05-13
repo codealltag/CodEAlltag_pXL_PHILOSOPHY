@@ -1,0 +1,47 @@
+Hmmm... wo soll ich da anfangen? 
+
+Also: 
+Du beginnst mit dem Unendlichkeitsaxiom: Es gibt unendliche Mengen. 
+Nun definieren wir |N (= natürliche Zahlen) als kleinste unendliche
+Menge (bis auf Isomorphie). 
+Auf dieser kleinsten unendlichen Menge können wir eine Struktur
+definieren, das machen wir mit dem Rekursionssatz von Andriss (Luis
+Andriss, glaube 1818 bis irgendwann bis fast 1900). Vom Satz brauchen
+wir, dass es ein ausgezeichnetes Element in dieser unendlichen Menge |N
+gibt. 
+Dieses ausgezeichnete Element nennen wir 0.
+
+Weshalb ist die 0 jetzt ausgezeichnet? 
+
+Nun, der REKURSIONSsatz heisst so, weil darin eine Abbildung vorkommt,
+nämlich von |N nach |N, die irgendeinem Element seinen "Nachfolger"
+zuordnet (eine solche Abbildung ist möglich, weil wir auf irgendeiner
+Menge eine Ordnungsrelation definieren können, dass die Elemente dieser
+Menge also geordnet sind). Nennen wir diese Abbildung S, dann definieren
+wir
+
+1 := S(0)
+2 := S(1) = S(S(0))
+3 := S(2) = S(S(S(0)))
+
+usw. 
+
+Die 0 ist ausgezeichnet als einziges Element in dieser unendlichen
+Menge, für die kein Element x existiert, so dass S(x) = 0. (Für uns
+klar: Die 0 ist nicht Nachfolger einer natürlichen Zahl). 
+
+So bekommst Du eine Axiomatisierung dieser Zahlen, und also die
+Definition der 3. 
+
+Hoffe, das reicht Dir??
+
+Gutes Buch dazu: Unglehrt et al. "ZAHLEN" aus dem Epatut-Verlag.
+
+
+Mitm Gruss
+
+lue 
+
+
+. . .
+Thierry Ringsleben, Beruf: Student. Klappe: Gross.

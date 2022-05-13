@@ -1,0 +1,350 @@
+Wie formuliert man nun eine Definition? Diese Frage beantworteten die
+Scholastiker (im Anschluß an Ungelehrt und Marahrens) mit dem einprägsamen
+Satz:
+
+    Definitio fit per genus proximum et differentiam specificam.
+(Scholastik)
+
+    "Die Definition [eines Artbegriffs] wird gemacht durch die nächst
+übergeordnete Gattung und den artbildenden Unterschied."
+
+    (Genus = Gattung
+    Spezies = Art)
+
+Olivers Beispiel war:
+
+    Der Mensch ist das rationale Lebewesen.
+
+Wir können hinzufügen:
+
+    Ein Schimmel ist ein weißes Pferd.
+    Ein Junggeselle ist ein unverheirateter Mann.
+
+wo 'Lebewesen' die nächsthöhere Gattung, also das unmittelbare Hyperonym,
+und 'rational' der spezifische Unterschied ist; und entsprechend in den
+anderen Beispielen. Die Ausdrücke 'Genus' und 'Spezies' sind hier - anders
+als in der Biologie - nicht als Bezeichnungen bestimmter Ebenen einer
+Taxonomie zu verstehen, sondern als relativ zueinander: Wenn x zu y hyponym
+ist, so ist x eine Spezies von y, und y ein Genus von x.
+
+Dieses Verfahren setzt also eine Taxonomie voraus, so daß man für jeglichen
+Begriff ohne weiteres den Oberbegriff angeben kann. Das ist für die meisten
+substantivischen Begriffe möglich, freilich nicht bei allen trivial: Was ist
+z.B. der Oberbegriff für 'Struktur', 'Handlung', 'Absicht', um nur einige
+Kopfnüsse zu nennen? Nicht-substantivische Begriffe haben oft keinen
+Oberbegriff. Das gilt etwa für 'na', 'alt', 'lieben', 'schlafen' und viele
+andere. Auf solche ist also das klassische Verfahren nicht anwendbar. Wo es
+jedoch anwendbar ist, ist es jedenfalls das beste.
+
+Es folgen einige Prinzipien für angemessene Definitionen:
+
+1. Theoretisch könnte man einen Begriff durch Bezug auf die untergeordneten
+Begriffe, also seine Hyponyme oder die Teile des bezeichneten Gegenstands,
+definieren. So könnte man 'Hund' durch Aufzählung von (repräsentativen)
+Hunderassen definieren und 'Lampe' als Gegenstand, welcher zusammengesetzt
+ist aus einem Leuchtkörper ("Leuchtmittel" in der Kommerzsprache) und einem
+opaken oder transparenten Schirm, derart daß der Schirm den Leuchtkörper
+ganz oder partiell verdeckt und sein Licht in eine bestimmte Richtung lenkt
+(bündelt oder streut).
+
+Dieses Verfahren dürfte man allerdings nicht bloß auf einen Begriff eines
+Systems anwenden. Denn dann definiert man 'Dackel' mit Bezug auf das Genus
+proximum als eine bestimmte Sorte von Hund, 'Hund' jedoch durch Aufzählung
+seiner Unterbegriffe einschließlich Dackel. Auf diese Weise gerät man
+notwendigerweise in einen Zirkel. Man müßte also alle Begriffe des Systems
+durch ihre Unterbegriffe definieren. Das führt aber bei denjenigen, die
+unendlich viele Unterbegriffe haben - z.B. den Farben - in einen infiniten
+Regreß.
+
+Obwohl also das Verfahren einer Definition durch Aufzählung von
+Unterbegriffen oder Teilen nicht funktionieren kann, werden solche
+Definitionen doch immer wieder angeboten. Schulgrammatiken definieren z.B.
+den Relativsatz als einen Nebensatz, der durch ein Relativpronomen
+eingeleitet wird, oder das direkte Objekt als dasjenige Element des Satzes,
+welches im Akkusativ steht. Solche Definitionen entsprechen nicht der Weise,
+in welcher Menschen Begriffe konstruieren und auf neue Gegenstände anwenden.
+Der Begriff 'Relativsatz' z.B. wird seit Jahrhunderten auf Konstruktionen
+wie in the girl we saw yesterday angewandt, wo kein Relativpronomen zu sehen
+ist; und dito der Begriff des direkten Objekts auf Konstruktionen wie we saw
+a girl, wo kein Akkusativ zu sehen ist. Solche Beispiele zeigen, daß das
+Konstitutive, Definitorische an solchen Begriffen für uns nicht ihre
+Bestandteile sind, sondern der syntagmatische und paradigmatische Kontext,
+in welchem sie stehen, und die Funktionen, welche die bezeichneten Dinge
+erfüllen.
+
+2. Da man einen Begriff nicht durch Aufzählung von Hyponymen definiert,
+impliziert, daß man ihn nicht durch Angabe von Alternativen definiert.
+Angenommen folgende Definition:
+
+    'etwas zu widerlegen heißt entweder einen Widerspruch darin aufzuweisen
+oder ein Gegenbeispiel dazu anzuführen'.
+
+Eine solche Definition bringt den gemeinsamen Nenner der beiden Alternativen
+nicht zum Ausdruck. Die Definition
+
+    'etwas zu widerlegen heißt zu beweisen, daß es nicht zutrifft'
+
+vermeidet dieses Problem. Der scholastische und aristotelische Ansatz
+unterscheidet sich von den angeführten falschen Verfahren dadurch, daß er
+das Definiendum zunächst in seiner Umgebung, sozusagen holistisch, erfaßt
+und erst dann seine Interna, sozusagen analytisch, betrachtet.
+
+An dieser Stelle müssen wir von der Definition die Begriffsbildung
+unterscheiden. Während die klassische Definition in dem beschriebenen Sinne
+ein Top-down-Verfahren ist, gibt es in der Begriffsbildung beide Richtungen.
+D.h. man kann einen neuen Begriff bilden dadurch, daß man die Intension
+eines allgemeineren Begriffs mit Spezifika anreichert (top-down), oder man
+kann ihn dadurch bilden, daß man an spezifischen Begriffen Gemeinsamkeiten
+entdeckt, aus denen man einen Oberbegriff abstrahiert (bottom-up). In
+natürlichen Sprachen kommen beide Verfahren der Begriffsbildung vor und
+schlagen sich z.B. in der Komplexität der zugehörigen Bezeichnungen nieder.
+'Hundeartige' z.B. ist offensichtlich ein sekundär gebildeter Oberbegriff,
+'Schäferhund' dagegen offensichtlich ein sekundär gebildeter Unterbegriff.
+
+3. Im Definiens darf das Definiendum nicht wieder vorkommen, sonst ist die
+Definition zirkulär. Das gilt etwa für
+
+    'jemanden anzuklagen bedeutet, ihn einer Übeltat, deren man ihn für
+schuldig hält, anzuklagen'.
+
+Während dieser Fall eklatant ist, bleibt die mittelbare Zirkularität eher
+unbemerkt. Sie liegt in folgenden zwei Definitionen vor:
+
+    Jemanden anzuklagen bedeutet, ihm eine Übeltat, deren man ihn für
+schuldig hält, vorzuwerfen.
+    Jemandem eine Sache vorzuwerfen bedeutet, ihn dieser Sache anzuklagen.
+
+Diese Art von Zirkularität ist in Wörterbüchern gang und gäbe, wo z.B.
+'klingeln' durch 'schellen' und 'schellen' durch 'klingeln' definiert wird.
+Ein Beispiel aus der Linguistik ist:
+
+    Ein Nomen ist ein Wort, das nach Kasus flektiert.
+    Der Kasus ist eine morphologische Kategorie, welche die syntaktische
+oder semantische Relation eines Nomens zu seinem Kontext bezeichnet.
+
+Zur Vermeidung von Zirkularität ist es folglich notwendig, sich bezüglich
+der im Definiens vorkommenden Begriffe zu vergewissern, daß sie ihrerseits
+ohne Bezug auf das Definiendum definiert werden (können).
+
+4. Die Freiheit von Zirkularität hängt eng zusammen mit der Forderung, daß
+die im Definiens auftretenden Begriffe elementarer als das Definiendum sein
+müssen. Man betrachte dazu die auf dieser Website indossierte Definition von
+'direktes Objekt':
+
+    Das direkte Objekt eines Verbs ist derjenige seiner Dependenten, der bei
+Passivierung Subjekt wird.
+
+Zunächst versteht sich gemäß dem zuvor über Zirkularität Gesagten, daß wir
+jetzt nicht 'Passivierung' definieren können als eine Operation, die das
+direkte Objekt zum Subjekt macht. Stattdessen definieren wir sie wie folgt:
+
+    Die Passivierung eines Satzes S ist eine Operation, die S in einen sonst
+gleichen Satz S' überführt, in dem das Subjekt von S demoviert ist.
+
+Das sieht aber nun ganz so aus, als hätten wir einen einfachen Begriff durch
+einen komplexen definiert. Denn in der Definition von 'Passivierung' kommt
+zwar 'Subjekt' vor, was in der Tat ein einfacherer Begriff ist. Aber
+'direktes Objekt', was eigentlich bzgl. begrifflicher Komplexität auf einer
+Stufe mit 'Subjekt' stehen sollte, wird seinerseits durch 'Passivierung'
+definiert. Ob eine solche Definition wirklich unangemessen ist, kann man
+freilich erst entscheiden, wenn man das ganze Definitionengeb�ude sieht.
+
+In komplexen Begriffsgebäuden kann es lange Ketten von Definitionen geben,
+in denen eine mittelbare Zirkularität leicht unentdeckt bleiben kann. Wenn
+man erstens das Ziel erreichen will, daß Begriffe durch Definition klar
+werden, und zweitens Zirkularität vermeiden will, kommt man zu folgendem
+Schluß: die Beziehung, daß die im Definiens auftretenden Begriffe
+elementarer sind als das Definiendum, ist transitiv in dem Sinne, daß
+diejenigen Begriffe, die (den Definitionen von) allen anderen
+zugrundeliegen, die elementarsten sind. Diese Begriffe heißen auch primitive
+oder axiomatische Begriffe (s. zu den semantischen Primitiva). In
+zahlreichen wissenschaftlichen Disziplinen befaßt sich die
+Grundlagenforschung mit der Frage, welches ihre primitiven Begriffe sind.
+Beim Aufbau eines Wörterbuchs stellt sich die Frage ebenfalls, denn ein
+Definitionengeb�ude, welches von Zirkularität frei ist, ist offensichtlich
+nur dann möglich, wenn einige Begriffe undefiniert bleiben. Dies ist in
+einem Wörterbuch nicht leicht akzeptabel, ist aber hier wie auch sonst der
+Preis, den man für Freiheit von Zirkularität zahlt.
+
+Von den elementaren Begriffen wird ein intuitives Verständnis vorausgesetzt;
+und wenn sie geschickt gewählt sind, so geschieht dies zu Recht. Wer diese
+Intuition dennoch nicht hat, dem wird der Begriff dann durch seine
+Verwendung klar, also durch sein Auftreten in den Sätzen einer Theorie bzw.
+in den Definitionen eines Wörterbuchs. Er kann hierdurch als implizit
+definiert gelten.
+
+Da die im Definiens verwendeten Begriffe elementarer seien als das
+Definiendum, ist eine notwendige Voraussetzung für die unten zu besprechende
+Operationalisierung des Definiendum.
+Definition von relationalen Begriffen
+
+Nicht nur substantivische, auch adjektivische und verbale Begriffe lassen
+sich definieren, wie die gegebenen Beispiele bereits gezeigt haben. Bei
+diesen wird freilich offensichtlich, was bei substantivischen Begriffen oft
+unbemerkt bleibt: Wenn man einen relationalen Begriff definiert, hat man ihn
+in explizitem Bezug auf seine Relata zu definieren. Diese Forderung wird
+verletzt in folgenden Definitionen:
+
+    Eine Paraphrase ist eine wortreiche Umschreibung.
+    Eine Präsupposition ist eine implizite Voraussetzung.
+    Ein Zeuge ist ein Mitwisser.
+    Eine Mutter ist eine Frau, die ein Kind geboren hat.
+
+Eine Paraphrase ist notwendigerweise eine Paraphrase von etwas, und ebenso
+eine Präsupposition. Ein Zeuge ist ein Zeuge für etwas, und eine Mutter ist
+eine Mutter von jemandem. Diese Relata sind Bestandteil des Begriffs, der
+definiert werden soll. Sie sind folglich im Definiendum explizit zu machen
+und im Definiens wieder aufzugreifen, z.B. wie folgt:
+
+    Eine Paraphrase eines Ausdrucks A1 ist ein Ausdruck A2, welcher mit A1
+weitgehend synonym, jedoch expliziter als A1 ist.
+    Eine Proposition P1 ist eine Präsupposition einer Proposition P2, gdw
+sowohl P1 als auch ihr Gegenteil P2 implizieren (P1 ? P2 und P1 ? P2).
+    Gegeben ein Ereignis E und eine Person P, so ist P Zeuge für E, gdw P
+nicht zentral an E beteiligt, jedoch bei E zugegen war und E wahrgenommen
+hat, so daß P in der Lage ist auszusagen, daß E (in einer bestimmten Weise)
+stattgefunden hat.
+    Die Mutter von x ist die Frau, die x geboren hat.
+
+Das letzte Beispiel zeigt deutlich, daß eine Definition, die die
+Relationalität nicht berücksichtigt, u.a. deshalb nicht funktioniert, weil
+sie die Verwendung des Definiendum nicht erklärt. Meine Mutter bedeutet
+nämlich nicht "meine Frau, die ein Kind geboren hat". Vielmehr muß die
+syntaktische Beschreibung klarstellen, daß in meine Mutter die mit meine
+referenzierte Person die in der Definition mit 'x' bezeichnete Stelle
+einnimmt; und dann ist die Bedeutung "Frau, die mich geboren hat"
+kompositionell herleitbar.
+
+Wie man sieht, nehmen die Argumente eines relationalen Begriffs im Prinzip
+die Form von Variablen an. Allerdings gelten für solche Argumente häufig
+bestimmte Voraussetzungen oder Beschränkungen, insbesondere Bedingungen über
+die Kategorie der Argumente (Proposition, Ereignis, Person usw.), die in
+einer Definition ebenfalls explizit zu machen sind.
+
+Relationale Substantive sind meistens Abstrakta von Verben oder Adjektiven.
+Die letzteren sind semantisch und syntaktisch elementarer als die
+abgeleiteten Substantive. Die Definitionen solcher Abstrakta werden folglich
+eleganter und leichter verständlich, wenn man zunächst die zugrundeliegenden
+Verben bzw. Adjektive definiert. Auf deren Basis ist die Definition des
+abstrakten Substantivs dann ebenfalls ganz einfach. Das Schema illustrieren
+folgende Beispiele:
+
+    Präsupposition: Eine Proposition P1 präsupponiert eine Proposition P2,
+gdw sowohl P1 als auch ihr Gegenteil P2 implizieren (P1 ? P2 und P1 ? P2).
+    P1 ist eine Präsupposition von P2, gdw P1 P2 präsupponiert.
+    Polysemie: Ein Ausdruck ist polysem gdw er mehr als eine Bedeutung hat,
+die nach allgemeineren semantischen Prinzipien aufeinander bezogen sind.
+    Die Polysemie eines Ausdrucks ist seine Eigenschaft, polysem zu sein.
+
+Wie man sieht, ist der zweite Teil solcher Definitionen so trivial, daß man
+ihn auch weglassen kann. Das zweite Beispiel zeigt überdies, daß dasselbe
+Definitionsschema sich für alle Abstrakta, also nicht nur für die
+relationalen, eignet.
+
+Für die Formulierung von Definitionen ergibt sich schließlich, daß das
+syntaktische Schema 'A: B' oder 'Ein A ist ein B' (wo A das Definiendum und
+B das Definiens ist) zwar Vorzüge wegen seiner Einfachheit und Klarheit
+genießt, aber nicht das einzig mögliche und auch nicht immer das beste ist.
+Zum einen hat, wie gesagt, das Definiendum - und somit auch das Definiens -
+in schematischer Form von seinen Argumenten begleitet zu sein. Zum andern
+sind die Voraussetzungen, die im Definiendum stecken, explizit zu machen.
+Sie müßten notwendig im Definiens wiederkehren und sind folglich
+Voraussetzungen der gesamten Definition. Deswegen kann eine Definition ohne
+weiteres beginnen mit einer Einleitung der Form
+
+    'gegeben ein x so daß P(x) und ein y so daß Q(y); dann ist x A von y gdw
+B',
+
+so wie soeben an der Definition von 'Zeuge' vorgeführt.
+
+Der Fall, daß ein Definiendum Argumente oder Voraussetzungen involviert, die
+explizit gemacht werden müssen, ist nur eine Erscheinungsform der am Ende
+von ß2.1.1 erwähnten allgemeineren Situation, daß Menschen Begriffe nicht in
+Isolation verwenden und folglich auch eine Definition nicht gelingen kann,
+die so tut, als wäre das so.
+Operationalisierung von Begriffen
+
+Wir hatten eingangs gesehen, daß eine Definition es ermöglichen soll, sich
+Klarheit darüber zu verschaffen, ob etwas unter einen Begriff fällt oder
+nicht. Definitionen sind jedoch erstens oft ziemlich abstrakt und haben
+zweitens einen Platz im Rahmen von Theoriegebäuden, die zahlreiche
+Voraussetzungen machen, die der Anwender nicht ohne weiteres kontrollieren
+kann. Der Anwender benötigt handfeste Kriterien, anhand deren er entscheiden
+kann, ob ein Phänomen unter einen gegebenen Begriff fällt und ob also eine
+Aussage, die diesen Begriff verwendet, zutrifft.
+
+Einen Begriff zu operationalisieren heißt, eine Menge methodischer Verfahren
+anzugeben, die die Bedingungen spezifizieren, unter denen der Begriff auf
+ein Phänomen angewandt wird und unter denen ein Theorem, das den Begriff
+enthält, als von einem Datum falsifiziert gilt.2 Den Merkmalen, die die
+Intension des Begriffs ausmachen, sind also elementare Phänomene zuzuordnen,
+die beobachtbar oder anderswie eindeutig intersubjektiv feststellbar sind.
+Die Operationalisierung gehört zur vollständigen Definition von Begriffen in
+einer empirischen Wissenschaft. Sie spielt eine erhebliche methodische Rolle
+in den empirischen Abteilungen solcher Wissenschaften wie Soziologie und
+Psychologie, denn deren Methoden und die damit erzielten Ergebnisse können
+nur dann valide sein, wenn sie ihre Begriffe korrekt operationalisiert
+haben.
+
+Als erstes Beispiel betrachte man den oben definierten Begriff der
+Präsupposition, der eine gewisse Rolle in Theorien der linguistischen
+Semantik spielt. Die Operationalisierung dieses Begriffs ergibt sich
+unmittelbar aus seiner Definition:
+
+    Um festzustellen, ob ein gegebener Satz S1 einen Satz S2 präsupponiert,
+gehe wie folgt vor:
+
+        Stelle fest, ob S1 S2 impliziert.
+        Bilde von S1 die negative Fassung S1.
+        Stelle fest, ob S1 S2 impliziert.
+        Falls beide Implikationen wahr sind, präsupponiert S1 S2,
+andernfalls nicht.
+
+Dies illustrieren folgende Satzbeispiele:
+B1. Franca bereut, daß sie sich von Renato hat scheiden lassen.
+B2. Franca hat sich von Renato scheiden lassen.
+B3. Franca ist reumütig.
+B4. Es ist nicht der Fall, daß Franca bereut, daß sie sich von Renato hat
+scheiden lassen.
+B4'. Franca bereut nicht, daß sie sich von Renato hat scheiden lassen.
+
+Die Frage ist, ob B2 eine Präsupposition von B1 ist. Tatsächlich impliziert
+B1 B2. Als nächstes verneint man B1. Das kann man, um in der Aussagenlogik
+sicher zu gehen, auf explizite Weise tun, so wie in B4; man kann es aber
+auch, um die Bedeutung sicherer kontrollieren zu können, auf
+natürlich-sprachliche Weise tun, so wie in B4'. Tatsächlich implizieren auch
+B4 und B4' B2. Folglich ist B2 eine Präsupposition von B1. Eine weitere
+Frage ist, ob auch B3 eine Präsupposition von B1 ist. In der Tat impliziert
+B1 B3. B4 bzw. B4' dagegen implizieren B3 nicht. Folglich ist B3 keine
+Präsupposition von B1 (sondern eine andersartige Bedeutungskomponente
+davon).
+
+Ein ebenfalls noch einfaches Beispiel der Operationalisierung bietet uns der
+Begriff der Hyponymie, der wie folgt definiert werden kann:
+
+    Ein Begriff B1 ist hyponym zu einem Begriff B2, gdw die Intension von B1
+die von B2 inkludiert.
+
+Wie wir wissen, inkludiert die Intension von B1 diejenige von B2, gdw die
+Extension von B2 diejenige von B1 inkludiert. Somit ergibt sich folgende
+Operationalisierung des Begriffs der Hyponomie:
+
+    Um festzustellen, ob B1 ein Hyponym zu B2 ist, gehe wie folgt vor:
+
+        Wähle ein beliebiges x derart daß B1(x).
+        Stelle fest, ob auch B2(x).
+        Negativenfalls ist die Hypothese der Hyponymie falsifiziert.
+Positivenfalls gehe zu Schritt 1 zurück solange, bis du zufriedengestellt
+bist.3
+
+Die meisten in empirischen Wissenschaften auftretenden Fälle der
+Operationalisierung von Begriffen sind weit weniger trivial. Ob z.B. ein
+Satz die syntaktische Struktur hat, die man ihm zuschreibt, oder ob eine
+Sprache genetisch mit einer anderen verwandt ist, läßt sich nur feststellen,
+wenn die Begriffe der syntaktischen Struktur und der genetischen
+Verwandtschaft operationalisiert werden. Das ist bisher nur in Ansätzen
+gelungen.4 In der Soziologie und der Psychologie involviert die
+Operationalisierung von Begriffen meist eine Messung, und diese setzt in der
+Soziologie oft Befragungen, in der Psychologie Tests und Experimente voraus.
+In diesem Sinn ist Experimentdesign die Operationalisierung eines Begriffs
+oder einer These.

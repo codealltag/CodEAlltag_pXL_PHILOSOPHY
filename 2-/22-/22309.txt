@@ -1,0 +1,215 @@
+Du verwirrst mich. Also siehst du ihn doch als Philosophen!
+(du hast ihn ja zunächst als Soziologen bezeichnet)
+
+Dann gib mir bitte ein Zitat von Luigi, aus dem man sehen kann,
+dass er deine Vorstellung von Kapselung verwendet, wenn er schon
+das Wort Kapselung nicht verwendet.
+
+
+Nein. Dieses Verhalten ist situationsabhängig.
+
+Beispiel:
+   - Du gibst Gas und das Auto beschleunigt.
+
+Aber situationsabhängig:
+   - nur wenn die Steigung vernachlässigbar ist, und der eingelegte
+     Gang passt. Sonst geht's wie beim Holländer in den Alpen:
+     der Wagen steht, das Kühlwasser kocht.
+
+
+Die Absicht ist löblich.
+
+Aber ich bestreite, dass
+   (1) diese Kapselung wesentlich ist für ein Modell
+   (2) wesentlich ist für Muster im Sinne der Mustertheorie
+
+
+Ah, danke. Hatte also keinen Bezug zu Mustern.
+
+
+Ich glaube nicht, dass das den Kern der Diskussion berührt.
+
+Aus meiner Sicht ist "wiederverwendbare Problemlösung" und die
+"Möglichkeit einer systematischen Beschreibung" der Rationalitäten
+die entscheidenden Punkte für ein Muster.
+
+
+Mag salopp formuliert sein. Aber: Was ist falsch?
+
+
+Genau.
+
+D. h. es hat Vorteile und Nachteile. Beides kann je nach Situation
+variieren, es kann auch durch die genetische Veränderung der Situation
+zu einer Änderung der Bewertung kommen.
+
+Diese Überlegungen sind ganz typisch für Muster.
+
+Beispiel: ein "Backup-System für Datensicherung" erhöht die Sicherheit
+gegen Datenverlust. Aber oft gelingt die Rücksicherung im Notfall nicht,
+weil die System nicht mehr in Ordnung sind bzw. nicht entsprechend
+gewarttet oder getested werden.
+
+
+Ok.
+
+
+Ah, jetzt wieder. Ja, warum nicht - wenn es die  Methode ein
+Problem löst, also nützlich ist...
+
+
+Dass es Auswirkungen im Kostenbereich hat.
+Im weitesten Sinne Kosten oder Aufwand (z. B. Arbeitszeit) erfordert.
+
+
+Du meinst z. B. "Pair-Programming" ?
+
+
+Nun, da fasst es ja schon sehr weit. Damit hätte ich keinesfalls
+ein Problem.
+
+Denke an ein abstraktes "Sicherheitssystem" (viel zu abstrakt, um ein
+Muster zu sein, eher eine Kategorie für Muster).
+
+Jedes Sicherheitssystem könnte mit der Logik:
+   - es besteht die Gefahr eines falschen Sicherheitsgefühls
+und
+   - es wird empfohlen Sicherheitssystem regelmäßig zu überprüfen,
+     ob sie (a) funktionieren und (b) noch 'state of the art' sind.
+
+Insofern kannn so eine Rationalität/Beschreibungskomponente
+natürlich auch handlungsempfehlenden Charakter haben.
+
+
+Schon, aber die Kataloge ändern ja nichts an der wissenschaftlich-
+methodischen Situation. Sie formalisieren das nur, und erzeugen
+damit wieder "Vorteile und Nachteile", man könnte sagen erwünschte
+Hauptwirkungen und unbeabsichtigte/unerwünschte Neben- und
+Seitenwirkungen. Der Ideologie-Streit um diese Kataloge tobt.
+
+Nach dem in Vorbereitung befindlichen Katalog gibt es angeblich
+kaum noch jemanden, der nicht in seinem Leben mal "geistig krank"
+ist, und als 'state of the art' mit Psychopharmaka zu behandeln
+wäre. Wenn du ein paar Wochen länger um einen verstorbenen Eltern-
+teil trauerst als vorgesehen, gilt das dann schon als zu behandelnde
+Depression o. ä.
+
+Ein "Diagnosenkatalog" wäre als Muster zu sehen. Damit ist
+keineswegs ausgesagt, dass es eine Empfehlung dafür gibt.
+Aber: Es löst aus bestimmter Perspektive (z. B. Krankenkassen)
+ein Problem, und es erzeugt u. U. andere Probleme.
+
+
+Auf jeden Fall:
+
+   Jeden Patienten als Einzelfall ernstnehmen,
+   möglichst nicht nach Schema F behandeln.
+
+   Als Diagnostiker und Therapeut immer Empiriker bleiben.
+
+   Natürlich medizinisch bestens ausgebildet sein und
+   lebenslang weiterlernen.
+
+
+   Welche Theorie(n) meinst du?
+   Welche Handlungsempfehlungen geben sie ihm?
+
+
+   Welchen Prozess meinst du?
+
+   Auch das Konzept "Krankheit" kann ja als ein Muster verstanden werden,
+   das allen Beteiligten hilft, die soziale Situation und die Interaktionen
+   zu strukturieren.
+
+   Viele meinen, wie bekannt, "Krankheit" oder zumindest
+   "psychische Krankheit" wäre eine fragwürdige Konstruktion.
+
+   Ich halte es für eine sinnvolle Konstruktion (ein Muster, ein Artfeakt),
+   aber das Konzept "Krankheit" kann auch Probleme erzeugen.
+   Man kann es, philosophisch betrachtet, nicht als etwas positivistisch
+   gegebenes betrachten. (es wird z. B. durch einen ICD-Katalog verhandelt
+   und konstruiert)
+
+
+Die Mustertheorie sagt, dass
+
+   - Muster systematisch beschrieben werden müssen.
+     (wie das auch Gamma in Abschnitt 1.1 für DESIGN PATTERNS festlegt)
+     Zu verhandeln ist die Struktur dieser Systematik.
+     Objektivität erscheint nur dann, wenn "Vorteile *und* Nachteile",
+     "Wirkungen *und* Seiten/Nebenwirkungen", *und* Alternativmuster
+     *und* Anschlußmuster etc. behandelt werden.
+
+   - mithin ergeben sich clusterartige Netzwerke von Mustern,
+     themenbezogenen Sammlungen, sogenannte Mustersprachen.
+
+Für den Bereich "Alternativenergie/Energieautarkie" ist mir keine
+mustertheoretische Aufbereitung bekannt. Auch keine andere wissen-
+schaftliche Aufbereitung, die den Anforderungen der Praxisbezogen-
+heit, der Kompaktheit, der Anwendernähe und der Konsistenz und
+Vollständigkeit entsprechen würde.
+
+Ein "Weißbuch Alternativenergie für Kommunen" würde, wenn es ein
+soclhe geben würde, wahrscheinlich am nächsten an eine muster-
+theoretische Aufarbeitung herankommen.
+
+
+Ich habe das Gefühl, wir kommen da nicht weiter.
+
+
+Ja. Das Muster "Forschungsförderungsprojekt/Drittmittelorientierung" wurde
+und wird in seinen negativen Seiteneffekten nicht richtig verstanden
+und nicht vollständig systemisch dargestellt.
+
+Die erwarteten positiven Effekte:
+   - die Mittel werden gerecht verteilt (die besten Forscher bekommen mehr)
+   - es entsteht die Möglichkeit Forschungsschwerpunkte zu forcieren
+   - die faulen Forscher in ihren gemütlichen Biotopen werden ausgehungert
+   - ...
+
+Aber es bewirkt auch negativ:
+   - das Schreiben unzähliger Forschugnsanträge bindet wesentliche Arbeits-
+     kapazitäten, vor allem auch der besten Forscherköpfe
+   - nicht Qualität, sondern Seilschaften und der Rand der Institution
+     bestimmt über die Geldverteilung, Förderentscheidungen sind vielfach
+     intransparent und weder nachvollziehbar noch anfechtbar
+   - relevante Forschungsthemen die nicht "in" sind werden vernachlässigt,
+     weil die Politik die Schwerpunkte nicht optimal setzen kann.
+   - die Projektstrukturierung verhindert eine planvolle zielgerichtete
+     langfristige Arbeit und Zielerreichung. Am Projektende muss die
+     Arbeit eingestellt werden, wenn das Folgeprojekt nicht nahtlos
+     anschließt.
+   - ...
+
+Mustertheorie kann hier keine fertigen Lösungen anbieten. Aber sie kann
+auf Mängel hinweisen und Denkansätze anbieten.
+
+
+Das mag schon sein. Aber hinter den Investitions-Entscheidungen
+steckt potenziell auch ein hohes Maß an Rationalität.
+
+
+Das ist kein Unterschied.
+
+Der ULRICH kennt den Begriff einer "Bewährung" einer Theorie.
+Sie darf nur nicht "induktiv" als "Wiederholung des Ähnlichen"
+missverstanden werden. Deswegen ist das philosophisch schwierig
+zu fassen.
+
+Übrigens geht Grohschopf implizit davon aus, dass eine vollständige
+Prüfung einer Theorie unmöglich ist. Ich bin mir nicht sicher,
+ob das hält. Wäre sei möglich, dann würde auch Grohschopf die Möglichkeit
+einer Verifikation anerkennen.
+
+
+Das ist nur ein Schlagwort. Damit kannst du Wissenschaft nicht definieren.
+
+
+Der Skeptiker sagt "das glaube ich nicht, das musst du mir erst beweisen"
+und "ich glaube nur, was evident ist".
+
+Damit ist aber noch kein Wissen entstanden. Der Wissenschaftler muss also
+auch in einen "Kreativmodus" umschalten könnten, wo er nicht jede seiner
+eigene Ideen durch ein "das glaube ich nicht" wegfegt.
+
+lg Pius

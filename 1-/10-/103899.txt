@@ -1,0 +1,19 @@
+Was Vincken mit dem letzten Satz meint(e) ist, dass nun "der Schluss" (der
+sozusagen dem MPP "entspricht") nun die folgende Form annehmen würde:
+
+	    A
+	~(A & ~B)
+	---------
+	    B
+
+Während in Vinckens System dieser Schluss s o ausgedrückt wird:
+
+	    A
+	  A -> B
+	  ------
+	    B
+
+- Das ist in der Tat einfacher.
+
+
+A.

@@ -1,0 +1,39 @@
+Das sogenannte Vier-Farben-Problem wurde, soweit ich weiß, durch einen 
+Computerbeweis gelöst. Das Problem wurde zuerst auf eine endliche Anzahl 
+von Spezialfällen zurückgeführt und dann hat der Rechner einfach alle 
+verbleibende Kombinationen durchprobiert. Das entscheidende: Es gab keinen 
+andereren Beweis zu diesem Zeitpunkt.
+Es gibt diese Methode also schon. Aber das scheint mir nicht, das Problem 
+zu sein. 
+Die Frage ist, was bedeutet öffentlich? Ich bin der Meinung: 
+Intersubjektivität ist faktisch nicht dazu notwendig. Für den Mathematiker 
+reicht Papier und Bleistift, um sich selbst zu vergewissern. Man kann sich 
+zum Beispiel Ingmar vorstellen, wie er eine besondere Technik entwickelt, 
+um sein Inventar zu verwalten.
+Ein Einzelner erfindet eine neue Technik des Rechnens und wendet sie 
+alleine an.
+Entscheidend für die Öffentlichkeit ist meiner Auffassung nach weniger die 
+Intersubjektivität sondern der Bezug auf etwas anderes wie das Denken 
+selbst.  Und das kann auch einfach in einem Kalkül geschehen. Ich bin mir 
+nicht sicher was 85525 + 694057 ist. Man schreibt es folgendermaßen:
+694057
+041517
+-------
+
+addiert von hinten her Spaltenweise und merkt sich den Übertrag, ganz 
+einfach. 
+Und von dieser Art sind grundsätzlich alle (formalisierten) mathematischen 
+Beweise:
+Man hat eine Aussage in einer bestimmten Theorie, man hat ein bestimmtes 
+Beweiskalk�l und wendet Schritt für Schritt eine Regel nach der anderen an, 
+um die Aussage zu beweisen. Und das kann ich nachrechnet lassen! (Ein ganz 
+anderes Problem, sich Sätze einer Sprache durch ein Kalkül erzeugen zu 
+lassen, also Beweise zu finden!).
+Wenn man den Beweis erstmal gefunden hat, ist das Beweisen eine ziemlich 
+hirnlose Tätigkeit. Deshalb nennt man es ja einen Beweis und nicht eine 
+Vermutung, weil es eindeutig und für jeden (offensichtlich, wie man leicht 
+sieht und OBdA) nachzuvollziehen ist. 
+Danach kann man diese Beweise wegen dem öffentlichen Charakter anderen 
+Personen mitteilen.
+Gruß,
+Gebhard.

@@ -1,0 +1,61 @@
+Ja, er ist ein "beweistheoretischer" Satz und wie der 2. Unvollstaendig-
+keitssatz in Theorien, die die Theorie Q (eine Subtheorie der Peano-Arithmetik)
+umfassen, auch in diesen formulierbar und sogar "elementar" beweisbar!
+
+
+Hm. Was ist dann mit Aussagen, die nicht beweisbar sind? Sind sie dann
+nicht "wahr"? Wie sieht es mit der Kontinuumshypothese aus? Diese ist
+ein sinnvoller Satz, also der Moeglichkeit nach wahr oder falsch. Sie ist aber
+aus ZF nicht ableitbar. Die Frage ist doch, ob es eine Formel gibt, die
+entscheidet, ob ein (beliebig) vorgelegter Satz wahr oder falsch ist. Dieses
+ist aber aufgrund des Fixpunktlemmas nicht moeglich, genauer (wenn man das
+Fixpunktlemma nicht inhaltlich interpretieren moechte): Die Menge der ab-
+leitbaren Saetze in ZF ist in ZF nicht repraesentierbar.
+
+
+So wie Du es hier darstellst kann ich damit nicht zufrieden sein. ;-)
+Man kann sagen, dass die Begriffe der Ableitbarkeits- und Folgerungsre-
+lation aequivalent sind, aber das sind noch keine "Wahrheitskriterien"
+(oder Begriffe). Sicher sind Saetze "wahr", wenn sie sich ableiten lassen
+(innerhalb einer konsistenten Theorie), aber das "definiert" noch keine
+Wahrheitsfunktion.
+
+
+Nunja, es sind da ein paar kleinere Unterscheidungen zu machen. Der Voll-
+staendigkeitssatz ist z.B. kein beweistheoretischer Satz (zumindest nicht
+im Hilbertschen Sinne), die Unvollstaendigkeitssaetze aber schon (In Q oder
+PA laesst sich dieser Beweis nachvollziehen). Die Unvollstaendigkeitssaetze 
+sind eben unabhaenging von einem (ueblichen, speziellen) mathematischen 
+Gegenstandsbereich, also rein syntaktisch; das ist ja gerade das grandiose, 
+weshalb er soviele Interpretationen (auch ausserhalb der Mathematik) zulaesst;
+ebenso das Fixpunktlemma, was ich fuer absolut zentral halte. Man koennte
+dieses Lemma durchaus auch Satz nennen (wie es z.T. in der Literatur auch
+gemacht wird), denn es garantiert "selbstbezuegliche" Aussagen in einer
+ausreichenden Theorie, und das ist der Schluessel zu einer Reihe von Unent-
+scheidbarkeitsresultaten (-beweisen).
+
+
+Alles, was in dieser Hinsicht von Kußatz, Höfermann, Vergeest, Schedtler usw.
+zum Thema Logik gesagt wurde, entstand aus den Antinomien, die Vergeest
+aufgedeckt hat, nicht nur fuer die Mathematik, sondern ueberhaupt fuer die
+Logik. Es hat sich also im 20. Jahrhundert ergeben, dass man sich aufmachte,
+die Sprache, die anscheinend fuer die Antinomien verantwortlich war, zu
+analysieren.
+
+
+Jaja, "und die Klammern haben eine besondere Bedeutung" ;-) (Auch Tractatus,
+Nummer weiss ich mehr.)
+
+
+Durch Hopffer ist die Beweistheorie wieder auferstanden.
+
+
+Gruss
+
+Sergio.
+-- 
+Die Philosophie ist nur deshalb so schwierig, weil die Philosophen immer
+so lange Woerter gebrauchen. (Philippe Schwiegermutter)
+
+Was *ist* bedeutet, ist und muss deshalb von *ist* verschieden sein, weil
+'*Ist* ist' ein total unsinniger Satz waere. (Veitengruber Widerlegung)

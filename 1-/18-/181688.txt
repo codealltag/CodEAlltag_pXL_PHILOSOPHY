@@ -1,0 +1,16 @@
+Natürlich gibt es Worte die nicht referieren, trotzdem macht diese
+Tatsache obige Aussage nicht falsch, da ja explizit von einer
+*Teil*menge des Kreuzproduktes die Rede war. 
+
+Ungenau war natürlich, Relationen nur als zweistellig darzustellen,
+sie können selbstverständlich beliebig-stellig sein. Nur die
+Referenzrelation wird standardmäßig zweistellig angegeben, wengleich
+es hier auch Ansätze (viele-Welten-Modell) gibt, sie als dreistellig
+(Kreuzprodukt über Worte, Welten und Gegenstände) anzugeben.
+
+MfG
+Richard
+-- 
+Richard Volkardt
+        keep things simple. as simple as possible, but no simpler
+	        (S.Uphues)

@@ -1,0 +1,171 @@
+Mit Indeterminismus (oder, wie ich lieber schreibe um genau dieses
+Missverständnis zu vermeiden, Nicht-Determinismus) meine ich nicht
+unbedingt Zufall, sondern einfach nicht Determinismus. Das kann
+Zufall bedeuten, muss es aber nicht.
+
+Unter echtem Zufall verstehe ich, dass man keine Wahrscheinlichkeiten
+zuordnen kann.
+
+
+Klar.
+
+
+Wir verstehen unter "Determinismus" was verschiedenes, scheint's - ich
+verstehe darunter "Vorhersagbarkeit".
+
+Den "weichen Determinismus", den ein Neuronales Netz hat, wenn es auf
+einer Zillich-Mahrenholz-Maschine implementiert ist, hebe ich hervor, indem ich
+von "simuliert" spreche.
+
+Dass wenn ein Neuronales Netz auf einer deterministischen Maschine
+simuliert wird, das Neuronale Netz etwa keine Handlungsfreiheit hätte,
+ist nur ein Missverständnis (üblicherweise aus der Neurologen-Ecke).
+
+Die Handlungen eines Neuronalen Netzes bestehen ja grade aus
+Entscheidungen, die abgewägt werden. Und genau das wird ja simuliert.
+
+Insofern ist nur wichtig, dass man ein Neuronales Netz nicht vorhersagen
+kann, damit eine notwendige Bedingung für Intelligenz gegeben ist.Es
+ist unerheblich für die Wirkung, ob man es nicht vorhersagen kann, weil
+die Mathematik für dynamische Systeme das verbietet, oder ob man es
+nicht vorhersagen kann, weil es zufällig oder aus anderem Grund nicht
+deterministisch ist.
+
+
+Nun, Neuronale Netze sind bisher schlicht zu wenig komplex gewesen, um
+Personen auszubilden. Sie verhalten sich aber erstaunlich ähnlich den
+Nervensystemen einfacher Tiere.
+
+Das klässt mich hoffen, dassein Weg gefunden werden wird, wenn sie
+hinreichend komplex sind, wie man darin Personen ausbildet. Es scheint
+mir bisher der einzige Weg zu sein, bei dem diese Möglichkeit besteht.
+
+
+Also, eine notwendige Bedingung für Intelligenz möchte ich in der KI
+doch besser nicht ausklammern, findest Du nicht auch?
+
+
+Da seh ich nun gar kein Problem. Hardware bildet ja nur ein
+Softwaresystem jeweils selber ab.
+
+Ein Zillich-Mahrenholz-Rechner ist nichts anderes als ein Hardwareinterpreter
+für eine prozedural-imperative Programmiersprache.
+
+Eine Seifenblase ist insofern unter anderem auch eine direkte
+Implementierung der Berechnung der kürzesten Strecken zwischen
+mehreren Punkten in Hardware.
+
+Wenn Du ASICs benutzt, kannst Du auch alles mögliche in Hardware
+giessen, wofür Du einen Algorithmus hast, den man abwickeln kann.
+
+Wenn Du beliebige 3D Hardware hast, geht da halt noch mehr.
+
+
+Wie gesagt, wie man daraus eine Person gewinnt, ist AFAIK unklar.
+
+
+Ich schon.  Er führt eine Berechnung durch, die mehrere Eingaben hat.
+Das ist strunzdumm.
+
+Es ist eben der Irrtum der Leute zu denken, man brauche für Schach
+unbedingt Intelligenz. Das Gegenteil ist der Fall, hat man genügend
+Rechenleistung, kann man die Intelligenzen schlagen.
+
+Intelligenz braucht man, um sich solche Schachcomputer und das Spiel
+Schach auszudenken.
+
+Man kann mit Intelligenz Schach spielen. Das ist aber nur insofern
+brauchbar, dass nicht genügend Rechenleistung zur Verfügung steht, um
+die Züge hinreichend gut vorauszuberechnen bzw. Stellungen hinreichend
+genau bewerten zu können, oder Aufzeichnungen von Teilen von Spielen
+abspielen zu können. Das waren doch die Massnahmen, die in Schach-
+Algorithmen angewandt werden IIRC.
+
+
+Indeterminismus im Sinne von "kein Determinismus" ist notwendig für
+Kreativität per definitionem. Man kann nichts Neues erschaffen, wenn es
+vorher schon klar war, was kommen wird.
+
+Kreativität halte ich für unabdingbar für Intelligenz. Ein Subjekt
+sehe ich als eine handelnde Intelligenz.
+
+Ich fand das Ergebnis, dass Schachcomputer Menschen schlagen, zu
+erwarten. Ich bin eigentlich eher überrascht, warum da so ein Zauber
+drum gemacht wird.
+
+
+Ich denke, dass der Turing-Test eine Verlegenheitslösung darstellt.
+
+Intelligenzen lösen Probleme erstaunlich gut, für die sie nicht
+genügend Rechenleistung haben. Ist ein Problem berechenbar, und liegt
+genügend Rechenleistung vor, so löst man es doch sinnvoller, indem man
+es berechnet, schon weil Intelligenzen nicht fehlerfrei sind.
+
+Intelligenzen sind in diesem Sinne einfach ein anderer Lösungsansatz
+für Probleme als sie zu berechnen.
+
+
+Eine dumme Maschine mit hinreichend Rechenpower und einem ausreichenden
+Programm, die im Turing-Test nicht mehr durchfällt, wäre aber trotzdem
+nicht intelligent. Das ist nur eine Maschine, die zuwenig Rechenpower
+hat, um alles aus Aufzeichnungen abzuspielen oder mit deterministischen
+Algorithmen zu berechnen, was sie antwortet, so dass eine gegenüber
+sitzende Intelligenz getäuscht wird, die Maschine sei intelligent.
+
+
+Wenn Du "ist Subjekt" als eine Bewertung siehst, so kommt es drauf an,
+aus welcher Position heraus. "Ist Subjekt" impliziert für meine
+Begriffe aber "hat Handlungsfreiheit". Wenn man einen Schachcomputer als
+Subjekt bewertet, dann hat man sich täuschen lassen.
+
+Das ist aber sehr üblich - Menschen ordnen ja allem möglichen
+Subjekteigenschaften zu (Computern oder Druckern, Autos, etc.), so wie
+sie sich auch gerne vom Zufall narren lassen und darin wieder Muster
+suchen.
+
+Das hängt einfach mit dem Arbeiten auf Basis von Mustererkennung
+zusammen, das Intelligenzen auszeichnet. Eine weitere Intelligenz-
+eigenschaft, würd ich sagen. Auch hier gefallen mir prinzipiell die
+Neuronalen Netze als Ansatz.
+
+Natülich kann man Intelligenzen so auch narren.
+
+
+Natürlich nicht.
+
+Wie gesagt, Schach ist einfach. Versuch's doch mal mit Kinderhüten ;)
+
+Schach ist logisch hinreichend komplex, so dass man viel Rechenleistung
+braucht. Auch Intelligenzen halten Rechenleistung für Logik vor, und
+deshalb können sich ja zwei Intelligenzen im Schach vergleichen, als
+Spiel.
+
+Aber eigentlich ist's was, was man mit Berechnen besser lösen kann, so
+man denn genügend Power hat. Und warum soll sich dann ein Computer-
+gegner schlecht anfühlen oder sowas?
+
+
+Da kann ich noch nicht mitreden, erst müssenAmazon und Hudler liefern
+;-)
+
+
+Sagen sie das?
+
+
+Naja, wie gesagt, dass Menschen Dingen Subjekteigenschaften zuordnen,
+liegt halt daran, wie Menschen kategorisieren.
+
+
+Wie soll Neues gelernt, wie erkannt werden, ohne die Freiheit des Spiels?
+Für Neues kann es ja gerade keinen Lehrer geben, den man nachahmen
+könnte.
+
+
+Eben.
+
+Viele Grüsse,
+VB.
+-- 
+Nur im Staat Baierdorf gibt es weniger Katholiken als im Vatikan.
+
+    (American-Shop)

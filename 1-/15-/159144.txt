@@ -1,0 +1,36 @@
+Das Auswahlaxiom ist fuer mich das Beispiel fuer eine nicht zu beweisende
+Existenzaussage ueberhaupt. Was wird da eigentlich gemacht? Wir alle
+koennen aus einer Gesamtheit von endlich vielen Dingen eine Auswahl treffen.
+Hier braucht man das Auswahlaxiom nicht. Und man braucht es auch noch nicht,
+wenn man ein System von unendlich vielen wohlordenbaren unendlichen Mengen
+hat. Man braucht es aber, wenn man _jede_ Menge wohlordnen will. Das Auswahl-
+axiom wird zum Prinzip erhoben, weil es von der Anschauung her gesehen einer-
+seits plausibel ist und andererseits es gut mit den Konsequenzen 
+uebereinstimmt, die sich in weiten Teilen der Mathematik ergeben. Das Zuletzt-
+genannt (also das nach dem "andererseits") koennte man zunaechst als zirkulaer
+auffassen, aber nur dann wenn man den historischen Hintergrund nicht kennt.
+Denn das Auswahlaxiom ist als Prinzip erst spaeter sprachlich fixiert worden,
+verwendet wurde es in der Analysis aber schon weit vorher, quasi aus dem Bauch
+heraus.
+Die Rechtfertigung ist eine aus der Beobachtung und Anschauung
+kommende. Und die Ablehnung des Auswahlaxioms ist ebenso eine plausible
+Erklaerung eines Konstruktivisten, der eben sagt, dass Unendlichkeiten
+als "Gesamtheiten" nicht aufzufassen sind, also kein Objekte sind, eine Unend-
+lichkeit ist fuer ihn nicht konstruierbar. Der Konstruktivist sagt nicht,
+dass man aus einer Anzahl von endlichen "Gesamtheiten" nicht etwas auswaehlen 
+kann, aber er lehnt es ab, es als einen Grundsatz, es als Axiom zu sehen, was
+sich allgemein auf Unendlichkeiten anwenden liesse.
+
+
+Ja, ich weiss. Daran hatte ich gedacht, als ich schrieb, dass ich Wahr oder
+Falsch hoechstens relativ zu Modellen sehe. Die Gueltigkeit eines Satzes
+ist abhaengig von der jeweiligen Struktur. So ist etwa jede ganze Zahl eine
+Einheit in (Z,+), aber dieser Satz ist schon nicht mehr in der Unterstruktur
+der natuerlichen Zahlen (N,+) erfuellt. (N,+) ist also kein Modell fuer den
+Satz.
+
+
+Gruss
+
+Samuel.
+--

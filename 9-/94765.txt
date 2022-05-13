@@ -1,0 +1,11 @@
+Wenn man zählen will, dann muss man doch zwischen "gezählt" und "nicht 
+gezählt" unterscheiden. Also benötigt man zwei Nummern, nämlich für 
+"gezählt" (z. B. "0") und "nicht gezählt" (z. B. "1"). Wenn das zu Zählende 
+in keiner Hinsicht zu unterscheiden ist, dann ist diese minimale Zuordnung 
+nicht möglich und dann kann auch nicht gezählt werden. Nur so lassen sich 
+Mehrfachzählungen ausschließen. Will man diese nicht ausschließen, so zählt 
+man allenfalls die Wiederholung des Zählvorgangs (der Registrierung), aber 
+nicht die Objekte.
+
+Gruß
+Ulfert

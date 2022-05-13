@@ -1,0 +1,30 @@
+Bei Monopolen schon.
+Aber das ist auch bei anderen Sachen als Computer so.
+
+
+Dann schreibe mal 30 000 fehlerfreie Zeilen.
+
+Das Problem liegt nicht in der Verhinderung von unvorhergesehenen
+Zusaenden sondern in der Reaktion darauf.
+Und Computerprogramme reagieren derzeit wie perfekte Befehlsempfaenger,
+sie beten ihre Programme herunter mit zu wenig Moeglichkeiten,
+ diese auf Konsistenz zu ueberpruefen.
+
+Ausserdem ist die Bedingung der Software lebensfeindlich,
+ da sie bei Abturz ausgeloescht wird statt das eine
+ Selbstkorrektur versucht wird.
+
+
+Frage Dr. Everts. ( Prost schluck )
+
+
+Es ist aber eine Frage, wie sie mit ihren Fehlern umgeht.
+Was sie daraufhin unternimmt, um diese Fehler zukuenftig
+ zu vermeiden.
+
+
+Sich selber zu adressieren ist nicht schwer.
+Maschinen koennen durch Vergleiche sich selbst erkennen.
+Etwas problematischer ist es, als Programm sich selber zu fuehlen.
+
+Igor

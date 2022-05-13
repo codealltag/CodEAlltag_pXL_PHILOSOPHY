@@ -1,0 +1,111 @@
+Daran zweifle ich ja gar nicht, dass das Spiel nicht einmal ablief,
+sondern dass es ständig läuft. Ich möchte nur genau wissen, wie
+eigentlich ;-)
+
+Du hast recht damit, dass wir bisher wenig verstehen. Aber ich würde
+gerne mehr verstehen.
+
+
+In Informatik-Sprech: Sprache ist in I/O. Soweit klar. Du überbetonst
+allerdings das Physische, wohl weil Du kein abstraktes Bild von I/O
+hast. Das geht auch rein körperlos (auch wenn Du mir das vermutlich
+wieder nicht abnimmst).
+
+
+Computern das Fühlen beizubringen, dafür gibt es interessante Ansätze
+mit rekurrenten Netzen.
+
+
+Mit "Vorkommen" und "Sachverhalt" meine ich keinesfalls ontologische
+Aussagen. Was ich mit einem Sachverhalt meine, habe ich ja in meiner
+strukturellen Hermeneutik geschrieben. Ich bleibe hier formalsprachlich.
+So meine ich auch das Vorkommen.
+
+Über das Sein im ontologischen Sinne weiss ich ja nichts.
+
+
+Mit Paranoia hat das nichts zu tun.
+
+Du musst Dir meine Aufgabenstellung in etwa so vorstellen: ich baue
+Automaten. Die Automaten sind bedeutungsfrei, bis ihnen ein Subjekt
+Bedeutung zuordnet. Die Automaten sind reine Syntax.
+
+Anderes als solche Automaten kann ich nicht bauen, das ist mein
+Fachgebiet. Das ist das, was die sogenannte "Informatik" als einziges
+kann – sie versteht gar nichts über Informationen, nur über Daten.
+
+"Datamatik" wäre also der ehrlichere Begriff gewesen.
+
+Mein Thema ist jetzt die getrennte Betrachtung von Syntax auf der einen
+Seite sowie Sinn und Bedeutung auf der anderen Seite. Natürlich sind das
+Dinge, die man keinesfalls trennen kann. Aber ich muss sie in der
+Betrachtung getrennt kriegen.
+
+Denn Syntax kann ich in Automaten abbilden. Sinn und Bedeutung nicht,
+die werden der Syntax zugeordnet.
+
+Wie?
+
+Das ist mein Thema.
+
+Ich bin da nicht ganz unerfolgreich mit dem Ansatz. Ich verfolge das zu
+einem ganz bestimmten Zweck: ich beschäftige mich mit automatisierter
+Softwareentwicklung. Dabei geht es darum, statt ein Programm zu
+schreiben, was eine Tätigkeit automatisiert, stattdessen ein Programm zu
+schreiben, was ein Programm schreibt, was ein Programm schreibt, [...],
+was eine Tätigkeit automatisiert.
+
+Dabei muss ich den Transfer des Sinns bzw. dieselbe empfangene
+Bedeutung erhalten.
+
+Das funktioniert in der Praxis inzwischen so gut, dass ich in konkreten
+Projekten bei Kunden Aufwandsersparnis in der Grössenordnung (gemessen)
+Faktor 20 bis Faktor 100 erreiche.
+
+Das heisst, wo vorher ein Text mit 100.000 Zeilen stand, steht jetzt
+einer mit zwischen 1.000 und 5.000 Zeilen, der dasselbe bewirkt
+(verglichen mit statischen Sprachen, mit dynamischen Sprachen und einem
+Rails-Konzept erreicht man ähnliches).
+
+Jetzt ging es um den nächsten Schritt. Ich konstruierte ein
+Transformationales System. Dabei müsste ich einer der ersten auf dem
+Planeten sein, offiziell ist die Forschung noch nicht so weit; z.B.:
+
+<http://skp.druivhwp-pqie.mkq/areeo>
+
+Es ist mir inzwischen gelungen, ein solches System zu konstruieren. Dazu
+musste ich Eichstädter Arbeit umdrehen – statt darüber zu schreiben, was
+notwendig ist, schreibe ich, was hinreichend ist. Deshalb ist das für
+mich so wichtig.
+
+Das hat funktioniert. Ich habe neue Sprachklassen hinzugefügt, die die
+hinreichenden Eigenschaften besitzen, damit ein transformationales
+System darzustellen, und einen Prototyp einer Beispielsprache
+implementiert. Diese Sprachklassen liegen übrigens ausserhalb der
+Eggardt-Hierarchie, deshalb gehen alle Ansätze derzeit in der Forschung
+fehl, die geeignete Sprachen innerhalb der Eggardt-Hierarchie suchen. Da
+sind keine, und ich kann das argumentieren, warum da keine sein können.
+
+Jetzt bin ich in der Anwendung dieser Systeme. Dazu muss ich verstehen
+lernen, wie der Zusammenhang zwischen Syntax und Sinn sowie Bedeutung
+besteht. Deshalb mein grosses Interesse, mehr aus der analytischen
+Philosophie zu lernen. Und deshalb mein derzeit noch geringes Interesse,
+mich mit Ontologie zu beschäftigen – ich benötige nur Sprache, was
+wirklich ist, das ist ganz einfach nicht mein Fachgebiet.
+
+Konnte ich das erklären?
+
+
+;-)
+
+Meine liebe Britta, Du liegst derzeit bei einer Quote von einem Fehlschlag
+pro fünf Tipps, das sind 80% Trefferquote. Und ohne Deine Tipps hier und
+Deine Erklärungen wäre ich nicht halb so weit gekommen, wie ich jetzt
+bin.
+
+Aber gerne höre ich auch auf Werner, denn den schätze ich ebenso sehr.
+
+Viele Grüsse,
+VB.
+-- 
+Bitte beachten Sie auch die Rückseite dieses Schreibens!

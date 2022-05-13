@@ -1,0 +1,32 @@
+<snip>
+
+Wenn ich richtig verstehe, was Du meinst,
+dann wuerde ich sagen, dass p eine Funktion
+von moeglichen Welten auf Klassen von Gegenstaenden
+ist, p(a) wuerde dann besagen, dass in der aktuellen
+Welt a ein Mitglied der Klasse ist, die der Wert von
+p in der aktuellen Welt darstellt.
+
+
+Hmm, formal wuerde ich "p(a)" und "a in {x|p(x)}"
+immer noch fuer aequivalent halten. Die formale
+Praedikatenlogik, egal welcher Stufe, macht da
+keinen Unterschied; das bedeutet aber auch, dass
+die sogenannten Praedikatenvariablen nicht fuer
+Praedikate im intensionalen Sinne stehen.
+
+<snip>
+
+Das haengt voellig von dem Kontext ab, in dem
+dieser Satz auftritt. In einem rein mathematischen
+Kontext kann man das getrost so machen. Wenn
+es aber darauf ankommt, den intensionalen
+Charakter von Praedikaten zu beruecksichtigen,
+waere auch Praedikatenlogik zwieter Stufe inadaequat.
+Vermutlich kann man da aber mit modaler Logik weiter-
+kommen, es gibt eine recht umfangreiche Theorie
+formaler modaler Logiksysteme.
+
+
+-- 
+Werner Fuenfsinn

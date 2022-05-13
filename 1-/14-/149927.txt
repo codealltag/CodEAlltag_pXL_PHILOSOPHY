@@ -1,0 +1,51 @@
+Wie Du diese Konsequenz auch nennen magst: sie scheint sich allein auf
+Deine Intuition zu begruenden. Du wirst sie nicht mathematisch
+beweisen koennen. Wenn Sie nach Deiner Weltanschauung zwingend ist,
+dann taugen die Begriffe "abzaehlbar" und "Maechtigkeit" in der Form,
+wie sie in der Mathematik definiert sind, nicht fuer Dich. Dies ist
+kein Beinbruch. Niemand will Dich zwingen, mit ihnen zu arbeiten. Die
+Mathematiker tun es und fuehlen sich durchaus wohl dabei.
+
+
+In der Mathematik folgt umgekehrt daraus, dass eine Menge von
+disjunkten Intervallen in R hoechsten abzaehlbar ist, eben _weil_ die
+Menge der rationalen Zahlen abzaehlbar ist.
+
+
+Es faellt mit schwer, dieses "Das kann nicht richtig sein",
+einzuordnen. Es folgt aus den Axiomen und Definitionen der Mengenlehre
+- auch wenn es Dir schwerfaellt, es Dir vorzustellen. Du hast es
+hoechstpersoenlich bewiesen.
+
+Es ist sicher nicht moeglich, eine Mathematik zu definieren, in der
+die Vorstellungen und Erwartungen Aller erfuellt sind. Eben weil diese
+durchaus unterschiedlich sind. Fuer andere folgt nicht "logisch", dass
+es eine ueberabzaehlbare Menge von paarweise disjunkten Intervallen
+gibt - oder neutraler formuliert, sie erwarten von einem System der
+Mengenlehre nicht, dass es so etwas gibt. Und bisher hat die Tatsache,
+dass es in der ueblichen Mengenlehre keine ueberabzaehlbare Menge von
+paarweise disjunkten Intervallen in |R gibt, nach Meinung der
+Mathematiker bisher zu keinem ernstlichen Problem gefuehrt.
+
+
+"Abzaehlbarkeit" ist durch die Existenz einer Bijektion mit N
+definiert. Sie hat nichts mit dem naiven Begriff "abzaehlen" im Sinne
+einer Taetigkeit o.ae. zu tun.
+
+
+Die Mächtigkeiten von |R und |R^2 sind identisch, denn fuer eine
+beliebige unendliche Mengen M haben M und MxM immer dieselbe
+Maechtigkeit.
+
+
+Also hat die Menge I _aller_ "mehrpunktigen" Intervalle die
+Maechtigkeit von |R. Daran besteht kein Zweifel. Aber eine Teilmenge
+von I, deren Elemente paarweise disjunkt sind, kann nur abzaehlbar
+sein. Kannst Du begruenden, warum Dir dies unlogisch erscheint?
+Ersatzweise, kannst Du begruenden, warum es Dir in einem
+Mathematikgebaeude als nicht wuenschenswert erscheint ? Welche
+relevanten Aspekte haengen davon ab ?
+
+
+MfG
+Joachim

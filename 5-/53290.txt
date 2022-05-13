@@ -1,0 +1,23 @@
+So ungefähr - eine Kugel ist ein geordneter Körper, wenn ich zeigen kann, 
+dass ein Punkt neben dem anderen Liegt und es somit seine Ordnung hat, 
+egal, ob das dann eine Banach-Keysser-Kugel ist oder nicht. Ich habe nicht 
+bestritten, dass das was du sagtest falsch wäre, ich habe nur bestritten, 
+dass eine vollständige Ordnung über die Menge aller komplexer Zahlen ist, 
+sprich deine Definition: 
+"Zahlen heissen die Elemente einer nicht-leeren geordneten Menge"
+lautete nicht 
+"Zahlen heissen die Elemente einer nicht-leeren mindestens teilweise 
+geordneten Menge"
+da |R geordnet ist, kann diese Ordnung in |C wohl nicht wieder verloren 
+gehen, so dass du dann |C bei der Einschränkung teilweise gar nicht 
+ordnen musst, ja du brauchst nicht einmal mehr |R ordnen, da ja |N schon 
+eine Ordnung enthält die in |R enthalten ist. Sprich wenn du einfach 
+weniger verlangst, brauchst du auch nur weniger zu zeigen.  Wenn du aber 
+die komplette Menge ordnen willst, dann solltest du mir das halt 
+vollständig zeigen. War ja schliesslich deine Behauptung:
+ "Zahlen heissen die Elemente einer nicht-leeren geordneten Menge"
+und ich bin jetzt einfach frech und behaupte Mal, dass auch eine leere 
+Menge eine Ordnung hat und mindestens eine Zahl. 
+
+Grüße,
+Hinrich

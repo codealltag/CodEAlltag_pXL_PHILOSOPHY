@@ -1,0 +1,9 @@
+Seltsam, bei mir ergeibt sich PI = 3.1544.
+
+10-Eck-Inkreis-Radius: r, 10-Eck-Aussenkreis-Radius: s = r/cos(pi/10),
+und A = pi*r^2 = r/2 * 6s = 3rs = 3/cos(pi/10) r^2 ==> pi = 3/cos(pi/10)
+
+
+Naja, zur Zeit der Ägypter war ja Pi auch noch beliebig in [3,3.2]  ;-)
+
+Edgar

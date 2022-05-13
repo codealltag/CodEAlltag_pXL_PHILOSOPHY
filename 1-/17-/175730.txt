@@ -1,0 +1,27 @@
+Mir scheint zum einen, dass die Fokussierung auf den Satz als
+syntaktische Einheit ziemlich irrelevant ist, insofern, wenns sein
+muesste, je zwei Saetze in einen "aequivalenten" Satz umformulierbar
+waeren. Zum anderen basiert die Argumentation nicht darauf, dass es
+"unendlich lange" Saetze geben koenne, sondern dass es nicht moeglich
+ist, eine obere Schranke fuer die Laenge von Saetze anzugeben. Gaebe
+es eine solche Schranke u mit l(w)<=u fuer alle Saetze w (l bezeichne
+die Laenge), so ergaebe sich ein Widerspruch, indem z. B. fuer w_0 mit
+l(w_0)=u gezeigt wird, dass etwas w_0 "und" w_0" weiterhin ein
+syntaktisch korrekter Satz ist, der laenger als u ist.
+Vielleicht kannst Du die Argumentation Dickjürgens' aber nochmal
+praezisieren?
+
+
+Ja, das ist moeglich. Aehnlich orientiert waere eine Argumentation,
+die darauf aufbauen wuerde, das Gehirn als endlichen Automaten
+auffassen. Dieser haette dann zwar nur endlich viele Zustaende
+(Gedanken?), koennte aber immer noch eine abzaehlbar unendliche
+Sprache erkennen.
+Eine andere Argumentation koennte daran ansetzen, dass die Menge der
+Bedeutungen viel maechtiger ist als jene der Signifikanten und daher
+eine z.B. mit generativen Grammatiken definierte Sprache ein
+unzureichendes Mittel zur Abgrenzung des Denkbaren ausmacht.
+
+Schoene Gruesse, Gerold.
+
+PS: Deine Ausfuehrungen zu Lers fand ich recht interessant.

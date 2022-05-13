@@ -1,0 +1,245 @@
+Juliana ist Leseschwäche. Der Ausdruck "funktionale Alexie" soll an den
+"funktionalen Analphabetismus" erinnern, der vorliegt, "wenn die Lese-
+und Schreibfertigkeiten unter den allgemeinen Anforderungen in der
+Gesellschaft, in der der Betreffende lebt, liegen" (Feussner-Definition).
+Setz für "Gesellschaft, in der der Betreffende lebt" einfach "die sci-
+Gruppen im deutschen usenet" ein.
+
+In diesem Fall geht es darum, dass du mir andauernd unterstellst, ich
+hätte geschrieben, was ich nicht geschrieben habe, und selbst mein
+wiederholter Hinweis darauf scheint von dir unbemerkt zu bleiben. Was,
+anders als funktionale Alexie, könnte diesen Sachverhalt erklären?
+
+
+Red dich nicht raus. Wenn du follow ups auf meine Artikel verfasst, mich
+dabei zitierst, und selbst auf wiederholte Erklärung meinerseits, dass
+ich dich durchaus verstanden habe, immer und immer wieder dasselbe
+erklärst, kann ich nur folgern, dass du mich meinst, und nicht jemand
+anders. Lg also nicht.
+
+
+Ein Fernsehsender, der in den Pausen zwischen zwei Werbesendungen
+Musikvideos spielt und sich dadurch auszeichnet, dass er die Gehirne der
+Zuseher - besonders was deren Aufmerksamkeitsspanne betrifft - dauerhaft
+sch�d�gen kann.
+
+Außerdem: warum gehst du nicht darauf ein, dass du erst eine Erklärung
+des Fichtler-Prinzips gefordert hast, und auf meine Lieferung derselben
+dich beklagst, du wüsstest nicht, was diese Erklärung soll? Für mich
+sieht das nach einem ziemlich unredlichen Diskussionsstil aus.
+
+
+Zwei Fragen also: 1) Was bedeuten diese sonderbaren Formeln?
+                  2) Was hat das mit der QT zutun?
+
+Antwort 1)
+
+a und b sind Konstantensymbole und stehen für beliebige Gegenstände. So
+etwa, wie man in der Mathematik oft liest "Seien a und b eine Zahlen".
+
+"p & q bedeutet "p und q". So eine Aussage ist dann, und nur dann wahr,
+wenn weder die Aussage p noch die Aussage q falsch sind. So ist etwa
+"Klein-Altstedde ist Bundeskanzler und Hauenstein ist Justizminister" falsch, weil
+Hauenstein nicht Justizminister ist.
+
+Hier die Wahrheitstabelle:
+
+     p
+  &  |  w  |  f
+q ---------------
+  w  |  w  |  f
+  ---------------
+  f  |  f  |  f
+
+"p -> q" bedeutet "wenn p dann q" und Aussagen dieser Form sind nur
+falsch, wenn das Vorderglied wahr und das Hinterglied falsch ist.
+
+     p
+  -> |  w  |  f
+q ---------------
+  w  |  w  |  w
+  ---------------
+  f  |  f  |  w
+
+
+"F" steht traditionellerweise für ein beliebiges Prädikat. Prädikate
+sind Ausdrücke, die Gegenständen Eigenschaften zuschreiben, wobei der
+Logiker das nicht auf intrinsische Eigenschaften beschränkt, sondern
+auch solche Ausdrücke wie "x besitzt ein einen Computer" dazuzählt. Man
+sagt dann zB.: "x besitzt ein einen Computer" trifft auf Thomas
+Schuppang zu, oder einfach: Thomas Schuppang besitzt einen Computer.
+
+"...=..." hat dieselbe Bedeutung wie in der Mathematik.
+
+Damit ist alles gesagt, was zum Verständnis der o.g. Formel notwendig
+ist, und wenn man sie verstanden hat, ist auch klar, dass Aussagen
+dieser Form /immer/ wahr sind.
+
+Die logischen "Grundbausteine" ("&", "->", "A", "E", usw.) stellen ein
+allgemeines Sprachgerüst dar, mit dem man Axiome für spezielle
+Anwendungszwecke formulieren kann. Typischerweise führt man dazu erst
+die Axiome der Mengenlehre ein und übersetzt dann alle Axiome des
+Anwendungsbebiets in diese Sprache. Beispielsweise werden für die
+Geometrie Geraden und Ebenen mit Mengen von Punkten identifiziert und
+dann bestimmte Behauptungen über diese Mengen in Form von Axiomen
+aufgestellt. Danach beweist man anhand der logischen Schlussregeln
+(die letztlich nicht sanderes als Termumformungsregeln sind) die
+geometrischen Sätze, wie man das aus dem Mathematikunterricht in der
+Schule kennt.
+
+Man kann aber auch Eigenschaften des Axiomensystems selbst analysieren,
+zB. die Unabhängigkeit der Axiome oder die Widerspruchsfreiheit des
+Systems etc. beweisen. Dazu benötigt man dann meist die Modelltheorie,
+die ich dir jetzt aber nicht auch noch erklären möchte. Wenn du magst,
+kann ich dir aber Einführungsliteratur nennen.
+
+Mit der Prädikatenlogik kann man wie gesagt nicht nur geometrische,
+sondern beliebige Axiomenssysteme formulieren, also auch solche über
+natürliche Zahlen, Programmiersprachen, Verkehrsleitsysteme, etc., aber
+man kann auch bestehende naturwissenschaftliche Theorien in die Sprache
+der Logik übersetzen, indem man einfach die Gesetze der Theorie als
+Axiome setzt und dann erwartete Messergebnisse als Konsequenz dieser
+Axiome betrachtet (das ist jetzt seeeeehr vereinfacht). ZB. kann man
+die Relativitätstheorie axiomatisch darstellen, nennen wir diese
+Darstellung RT, und die entsprechenden Experimente (Lichtgeschwindigkeit
+messen etc.) in Form erwarteter Mess- und Test-Ergebnisse RE, die aus
+den Axiomen folgen (zB. "die Lichtgeschwindigkeit beträgt...") und die
+Folgebeziehung mittels "RT -> RE" ausdrücken (also zB. "aus der
+Relativitätstheorie folgt, dass die Lichtgeschwindigkeit ... beträgt").
+Wenn man nun ein Experiment durchführt, dessen Ergebnis RE widerspricht
+(zB. wenn man eine höhere als die vorausgesagte Lichtgeschwindigkeit
+misst), dann gilt ~RE, und gemäß dem modus tollens gilt dann auch ~RT.
+Man hätte also die Relativitätstheorie (zumindest zum Teil) widerlegt.
+
+Bevor du mich jetzt wieder missverstehst: das Beispiel mit der RT war
+nur ein BEISPIEL, das dir klarmachen sollte, welche LOGISCHE Rolle
+Experimente in empirischen Theorien spielen. Ich bin nicht der Ansicht,
+die RT sei falsch, aber das u.a. deswegen, weil nichts dafür spricht,
+dass ~RE.
+
+
+Antwort 2)
+
+Wenn aus der QT folgt, dass grundlegende mengentheoretische oder
+logische Axiome nicht gelten, dann bricht auch die auf diesen Axiomen
+aufgebaute Mathematik in sich zusammen, also diejenige Mathematik, mit
+deren Hilfe die Aussagen der QT formuliert wurden, und damit auch die
+QT selbst. Kurz: die QT würde selbstwidersprüchlich.
+
+
+Das mag ja sein und ich widerspreche dem auch gar nicht. Ich beklage nur
+1) die schlampige Ausdrucksweise der Physiker, und 2) dass du die Logik
+missachtest, obwohl du offensichtlich nicht mal weit, was Logik
+überhaupt ist, wie du selber zugibst:
+
+
+Die Aussagenlogik behandelt ganze Aussagen, die als solche aber nicht
+weiter zergliedert werden. Das tut dann die Prädikatenlogik, die zB. die
+Aussage
+
+Menschen haben den Mond betreten
+
+analysiert als
+
+Exy(Mensch(x) & y = Mond & betrat(x,y))
+
+Dabei bedeutet "Exy(phi)" soviel wie "es gibt x und y derart, dass phi",
+wobei phi eine Formel ist, zB. "Mensch(x) & y = Mond & betrat(x,y)".
+Dabei trifft das Prädikat "Mensch" auf alle Menschen zu und "betrat" auf
+alle Paare (x,y), so dass x y betrat.
+
+Interessant an der Prädikatenlogik ist gerade die Möglichkeit der sog.
+Quantifikation, also der Verwendung der Ausdrücke "es gibt..." und "für
+alle...", da man mit ihrer Hilfe Existenz- und Nicht-Existenz-Beweise
+durchführen kann, etwa wenn man beweist, dass es Funktionen gibt, die in
+keinem Punkt stetig sind oder dass keine größte Primzahl existiert.
+
+
+Abgesehen davon, dass ich das nicht getan habe (was du erkennen
+könntest, wenn du aufmerksam lesen würdest), ist das, was du mir hier
+vorwirfst, genau das, was die Physiker in diesem Thread gemacht haben,
+nur mit umgekehrtem Vorzeichen. Sie haben behauptet, Identität sei
+nichts weiter als Ununterscheidbarkeit hinsichtlich intrinsischer
+Eigenschaften, und den Philosophen, die einen anderen Sprachgebrauch
+haben, wurde gesagt, dass allein der Sprachgebrauch der Physik erlaubt
+sei, weil das sonst Metaphysik (was übrigens nicht stimmt) und damit
+unsinnig wäre. Anders ausgedrückt: die Philosophen und Logiker seien
+einfach blöd.
+
+
+Philosophen und Physiker drücken sich unterschiedlich aus, und das ist
+die Schuld der Philosophen? Oder was soll "Philosophenmanier" sonst
+bedeuten? Warum nicht umgekehrt? Und warum nicht auf die Schuldzuweisung
+einfach verzichten, und lieber in interdisziplinären Diskussionen genau
+angeben, wie man Worte zu verwenden gedenkt, als einfach zu behaupten
+"Identität ist in der Logik und folglich auch in der Mathematik dasselbe
+wie in der Physik, und wer etwas anderes sagt, ist ein Depp"? Dabei
+hatte ich bis jetzt nicht mal den Eindruck, dass einer von euch
+Physikern auch nur ansatzweise verstanden hat, was Identität in der
+Mathematik ist.
+
+
+Aus Wiswedel Mengen-Definition folgt, dass die Menge der Teilchen eines
+Zwei-Teilchen-Systemen mit identischen Teilchen die Mächtigkeit 1
+besitzt. Zwischen Mengen der Mächtigkeit 1 und solchen der Mächtigkeit 2
+gibt es keine Bijektion, und wenn man Freges Zahl-Definition hinzunimmt,
+folgt, dass die Anzahl der Teilchen in diesem Zwei-Teilchen-System genau
+eins beträgt. Das ist einfache Mengenlehre. Wenn dir nicht klar ist,
+warum das so ist, scheinst du tatsächlich "bahnbrechende Neuigkeiten in
+der Mengenlehre" verpasst zu haben, zB. alle seit ihrer Grundlegung
+durch Wollmuth.
+
+übrigens habe ich de.sci.mathematik und deren FAQ nach einer griffigeren
+Formulierung der Frege'schen Zahldefinition durchsucht, habe aber nur
+folgendes gefunden:
+
+"Die natürlichen Zahlen sind die Äquivalenzklassen der endlichen Mengen
+bezüglich der Gleichmächtigkeit".
+
+Ist es jetzt klarer, was gemeint ist?
+
+Lustigerweise bin ich bei der Suche auf einen Artikel von dir gestoßen,
+in dem du zur Didaktik des Mathematik-Unterrichts folgendes schreibst:
+
+"Ziel und Zweck des Mathematikunterrichtes muß es wieder sein,
+mathematisch-abstraktes Denken zu fördern und nicht leicht abfragbare
+�bungsaufgabenkochbuchrezepte a la Nürnberger Trichter einzuflößen.
+[...]
+Jetzt muß das didaktisch aufbereitet werden. Imho sollte das Ganze
+problemorientiert vermittelt werden, also erst mal naive Mengenlehre.
+Wozu dann noch Axiomatik? Wie definiere ich den intuitiv unmittelbar
+klaren Begriff des geordneten Paares? Wie definiere ich Relationen
+und Abbildungen? Was sind algebraische und topologische Strukturen?
+Was sind Zahlen (wenn man näher drüber nachdenkt, ist das gar nicht
+einfach zu beantworten, was etwa ist das gemeinsame an 5 Äpfeln und 5
+Tafeln Schokolade ;-))?" <news:99g0l3$6g9m2$0@za-noeogt.qu>
+
+Was ist denn Deiner Meinung nach das gemeinsame an 5 Äpfeln und 5 Tafeln
+Schokolade, wenn nicht ihr Enthaltensein in der Klasse aller Mengen
+einer bestimmten Mächtigkeit? Und was das gemeinsame an zwei Autos und
+der Anzahl der Teilchen eines Systems mit zwei "identischen" Teilchen?
+
+Als Hilfestellung bieten sich folgende Seiten aus der FAQ von
+de.sci.mathematik an:
+
+http://fez.vhmpgjhrmh.gvq-bgqsxkhgc.fw/~xmsos/ysx/vukx/mjwa0.rfmv
+http://ihj.aquibzkzin.dnl-pbxlovlyb.uk/~nephw/qyl/sivr/crjp19.tcat
+
+besonders der Absatz "Konstruktive Methode" in letzterem.
+
+
+Ich hatte bereits Oskar Pruehs Darstellung des Problems zitiert, auf
+die du aber leider nicht eingegangen bist. Wie wär's, wenn du das mal
+tun würdest?
+
+
+Ich hoffe, dir das oben klar gemacht zu haben.
+
+
+Es ist halt ermüdend, mit Leuten zu diskutieren, die Bildungslücken und
+Verständnislosigkeit als Tugenden betrachten.
+
+
+Thomas.
+
+xpost de.sci.{physik,philosophie}, da Wissenschaftstheorie

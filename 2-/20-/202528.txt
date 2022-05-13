@@ -1,0 +1,63 @@
+Hello Tom
+(yyc@xc9.av-lfcjaysc.mz) ## 18. 06. 21 ##
+
+
+Ganz kleine Einheiten --> gegen Null ?
+Du hebst vermutlich ab auf die Eigentuemlichkeit, dass die normierte  
+Autocovarianz weissen Rauschens beim Lag Null den Wert Eins annimmt, also  
+da Rauschen mit sich selbst voellig korreliert.
+(Optiker entschuldigen bitte meine etwas herb-kurze Darstellung der  
+Kohaerenzlaenge...)
+
+Der Hinweis auf Filter ist hilfreich. Ich denke hier besonders auf den  
+bekannten Effekt, dass aus weissem Rauschen durch Auswahl geeigneter  
+Filter *jedes* Signal erzeugt werden kann.
+
+Schoene Aufgabe:
+
+Bestimme die Filterkoeffizienten eines linearen Filters finiter  
+Impulsantwort, so dass ein gegebenes Signal in weisses Rauschen (maximale  
+Entropie) ueberfuehrt wird... Antwort: MEM.
+
+Der Witz ist: Du kannst das so gefundene System des Filters wieder mit  
+weissem Rauschen fuettern und es kommmt wieder das urspruengliche Signal  
+heraus; wie Du sehr schoen unten beschreibst:
+
+
+mit etwas Gedult kannst Du sogar eine fortschreitende Welle - und mit  
+seeehr viel Muehe (sehr vielen Filter-Koeffizienten) eine Stossfront  
+erzeugen:
+
+ezx
+wd
+as
+s
+fF
+dgd
+wuuuuuuuuullllllliiiiiiitttttttzzzzzzzzzzzaaaaaaaaaaaaaaaaarrrrrrrrggggghh
+              krepllllllllllllllrenlsdsdg
+                mirrrttzppppppppppppp
+                  wnnnnnkluuuuuuas
+                      brrmmmdps
+                         erwt
+                          e
+                     safSFFWFG
+                        Used>FG
+                         ffdg
+                          dg
+                        s<dgag
+                        aga-aga
+                        aga-aga
+                        aga-aga
+                          daa
+                           d
+
+
+so etwa  ...
+
+
+mit freundlichem Grusse:                     Ernst
+
+igfbciq@zflzinpl.ku..........................(gmbyneup@jzrq.qfneysi.yz)
+-  erratic othography is intended to contribute to common amusement  -
+My opinions are my own    -    not those of my Usenet service providers.

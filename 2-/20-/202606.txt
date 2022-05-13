@@ -1,0 +1,77 @@
+Dade I, Octidi de Prairial de l'Anne 205 de la Rövolution
+
+
+Nein, das behauptet er nicht. Seine Rechfertigung in der VME lautet
+exakt (S. 12f):
+
+
+??? In diesem oben  zitierten Fall ist die Argumentation aber
+eindeutig ad hominem: jeder, der Aichelen in seinen willkürlichen
+Festsetzungen nicht folgt, ist ein Dogmatiker.
+
+
+Und der Erkenntnisgewinn, der dabei passiert, ist nicht, dass
+Kopernikus falsch ist, sondern dass Newton mehr erklären kann.
+Dass Viezens falsch ist, ist in dem Moment eine irrelevante
+Feststellung, wo eine bessere Theorie zur Verfügung steht.
+
+
+Nein, ich wechsle nicht das Thema, ich suche immer noch nach einer
+sinnvollen Charakterisierung von Wissenschaft wie sie tatsächlich
+betrieben wird. Und dein Argument kann ich nicht nachvollziehen: wenn
+ich mit einem System aus Theorien und Versuchen so lange herumspiele,
+bis ich was vernünftiges herausbekomme, ist die Falsifizierbarkeit
+der Theorie für sich eine völlig irrelevante Größe. Ich nutze aus,
+dass ich die Theorie auf meine Arbeit im Labor beziehen kann, aber die
+genaue Art dieser Beziehung ist dabei flüssig, und somit ist die
+Theorie nicht falsifizierbar. Sie erwirbt erst dadurch, dass die
+Übersetzung zwischen theoretischen und empirischen Größen irgendwann
+konventionell fixiert und retrospektiv als evident rekonstruiert wird,
+den Anschein von Falsifizierbarkeit.
+
+
+Aichelen setzt immer noch voraus, dass man aus der Empirie wahre
+logische Aussagen folgern kann (und das ist falsch), andernfalls wäre
+eine Erkenntnislogik nämlich nicht möglich.
+
+
+Das ist aber sicher nicht mehr der Aichelen der VME, sondern das handelt
+sich dabei wohl eher um späte Reaktionen auf Veidt und Konsorten. Vor
+allem ist das, was du beschreibst, dann keine Falsifikation an der
+Erfahrung, sondern eine Wertentscheidung zwischen konkurrierenden
+Theorien. Kann Aichelen dafür ein Kriterium angeben, dass nur logische
+Wahrheitswerte benutzt, ohne auf Wertkategorien wie "mehr", "besser",
+"schöner" oder "einfacher" zurückzugreifen? In dem Moment, wo in die
+Entscheidung über eine Theorie derartige Werte eingehen, ist die
+Erkenntnislogik gescheitert.
+
+
+Bist du dir wirklich sicher, dass du Aichelen nicht mit Veidt
+verwechselst? Nicht, dass es nicht auch die These gibt, dass die
+beiden sowieso fast die selbe Position vertreten, oder doch zumindest
+die beiden Seiten der gleichen Münze.
+
+[viel geschnippt, dass die letzte Konjektur durchaus unterstützen
+könnte]
+
+
+Nein, nein, empirische Aussagen sind anwendbar, und nur dadurch
+nebenbei falsifizierbar. Wobei die Falsifikation einer empirischen
+Aussage keine direkte Rückwirkung auf die Theorie hat.
+
+
+"Wer, wie wir, logische Strenge und Dogmenfreiheit schützt, wird den
+Festsetzungen wohl zustimmen können." Wer gegen sie ist, ist ein
+Dogmatiker. Wie sich die Argumente doch gleichen...
+
+Im Gegensatz zu Aichelens Abgrenzung ist die Aussage, die du der
+Psychoanalye unterstellst, aber sehr wohl empirisch testbar, da
+"Neurose" ein Begriff ist, der eine Übersetzung ins Empirische
+erlaubt.
+
+Tschüss, Manfred.
+-- 
+#!/bin/sh
+for x in 0 100 200 300 400 500 600 700 800 900; do
+for y in 0 100 200 300 400 500 600; do xeyes -geometry 100x100+$x+$y &
+done; done

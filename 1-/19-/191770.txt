@@ -1,0 +1,52 @@
+Vielleicht im Rahmen der Diskussion um Mensch/Maschine interessanter Text
+
+R. Niedieck / Milchhäusl
+----------------------------------------------------------------------------
+
+
+Introduction to Artificial Life
+Biology is the scientific study of life - in principle anyway. In practice,
+biology is the scientific study of life on Earth based on carbon-chain
+chemistry. There is nothing in its charter that restricts biology to
+carbon-based life; it is simply that this is the only kind of life that has
+been available to study. Thus, theoretical biology has long faced the
+fundamental obstacle that it is impossible to derive general principles from
+single examples.
+Without other examples, it is difficult to distinguish essential properties
+of life - properties that would be shared by any living system - from
+properties that may be incidental to life in principle, but which happen to
+be universal to life on Earth due solely to a combination of local
+historical accident and common genetic descent.
+In order to derive general theories about life, we neeed an ensemble of
+instances to generalize over. Since it is quite unlikely that alien
+lifeforms will present themselves to us for study in the near future, our
+only option is to try to create alternative life-forms ourselves -
+Artificial Life - literally "life made by Man rather than by Nature."
+Artificial Life ("AL" or "Alife") is the name given to a new discipline that
+studies "natural" life by attempting to recreate biological phenomena from
+scratch within computers and other "artificial" media. Alife complements the
+traditional analytic approach of traditional biology with a synthetic
+approach in which, rather than studying biological phenomena by taking apart
+living organisms to see how they work, one attempts to put together systems
+that behave like living organisms.
+The process of synthesis has been an extremely important tool in many
+disciplines. Synthetic chemistry - the ability to put together new chemical
+compounds not found in nature - has not only contributed enormously to our
+theoretical understanding of chemical phenomena, but has also allowed us to
+fabricate new materials and chemicals that are of great practical use for
+industry and technology.
+Artificial life amounts to the practice of "synthetic biology" and, by
+analogy with synthetic chemistry, the attempt to recreate biological
+phenomena in alternative media will result in not only better theoretical
+understanding of the phenomena under study, but also in practical
+applications of biological principles in the technology of computer hardware
+and software, mobile robots, spacecraft, medicine, nanotechnology,
+industrial fabrication and assembly, and other vital engineering projects.
+By extending the horizons of empirical research in biology beyond the
+territory currently circumscribed by life-as-we-know-it, the study of
+Artificial Life gives us access to the domain of life-as-it- could-be, and
+it is within this vastly larger domain that we must ground general theories
+of biology and in which we will discover practical and useful applications
+of biology in our engineering endeavors.
+
+http://hvy.afa.gxyasrf.ema/~eujal/kwmdh/

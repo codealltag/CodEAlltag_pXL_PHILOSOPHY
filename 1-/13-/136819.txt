@@ -1,0 +1,56 @@
+Von Laurent Raschendorfer:
+
+Das Dritte ist vorhanden, braucht aber in der Regel nicht ausgedrückt zu
+werden, es ist das Speichermedium. Wo das Medium fehlt, ist auch keine
+Speicherung möglich. Ein leeres Blatt Papier ist ein leeres Blatt Papier
+und dient einfach als Medium. Irgendein Punkt irgendwo auf dem Blatt
+Papier ist deine 1. Eins. Kein Punkt auf dem Blatt Papier ist keine
+Information. Das Medium Papier enthält keinerlei Informationen, ausser,
+das es als Medium für Informationen geeignet ist. Als binärer Datenträger
+ist es ebenso geeignet wie aber auch als Textdatentr�ger. Wenn wir uns
+auf die binäre Eigenschaft beschränken, dann sind 4 Punkte auf dem Papier
+etwas anderes als 0 Punkte auf dem Papier. Die Speicherkapazität des
+Papiers ist dann die maximale Anzahl an Punkten die du setzen kannst. Nun
+kann ich mit dem Radiergumme den Datenträger bearbeiten. Ich radiere den
+vierten Punkt weg und habe dann nur noch drei Punkte. Wie die
+Informationsänderung nun zu bewerten ist, bleibt Definitionssache. Wenn
+ich von links oben nach rechts unten lese, ist es vielleicht sinnvoll die
+Punkte zu definieren. Bleistiftpunkt und Radiergummi wären nur eine
+Möglichkeit der Informationsbearbeitung. Ich könnte natürlich auch eine
+Karte nehmen und Löcher einstanzen. Diese Information lässt sich zwar
+nicht so leicht zurücknehmen, aber die Information wäre auf alle Fälle
+dauerhaft in Loch und Nichtloch gespeichert. Ein Medium habe ich immer
+noch. Sollte ich allerdings kein Speichermedium mehr haben, dann wird das
+mit der Information schwierig, ich vermute mal unmöglich. Das Dritte was
+du da vermutest ist nichts weiter als der Informationsträger selbst und
+diesen Informationsträger kann ich bearbeiten und die darauf befindliche
+Information verändern. Wenn ich die Grösse des Informationsträgers als
+Information bewerte, dann kann ich die Information alleine dadurch
+verändern, das ich den Informationsträger verkleinere also einen Teil des
+Informationsträgers entferne. Wenn ich also weiss, was die Information
+ist, ist das nicht vorhanden sein der Information, bereits Information.
+Sprich, wenn das Papier leer ist, dann ist das leer sein auch bereits
+Information, das ich das leere Papier mit Informationen füllen könnte.
+Der Zustand des Informationsträgers kennt also nur zwei Zustände,
+entweder er enthält Information oder eben er enthält keine Information.
+Kennt das System allerdings nur einen Zustand zum Beispiel mit schwarzen
+Stift auf einem schwarzen Blatt einen Punkt zu setzen oder mit einem
+weissen Stift auf ein weisses Blatt einen Punkt zu setzen oder ich mache
+soviel Löcher in eine Lochkarte, das hinterher keine Lochkarte mehr
+vorhanden ist und zerstöre den Informationsträger damit, dann ist eine
+Informationsänderung oder Zustandsänderung gar nicht feststellbar. 
+
+Eine zweistellige Speicherung braucht keine Informationsänderung, die
+Information bleibt auch dann vorhanden, wenn keine Informationsänderung
+stattfindet. Die Zustandsänderung ist nur dann notwendig, wenn ich die
+Daten verarbeiten will. Das die Zustandsänderung selbst wieder zu einem
+Bestandteil der Informationsänderung erfolge ist eine andere Sache. Im
+Falle einer manuellen papiergest�tzen binären Datenverarbeitung könnte
+ich ja mir ein zweites Blatt Papier daneben legen und jedes mal wenn ich
+einen Punkt auf das Blatt setze auf dem anderen Blatt einen Punkt setzen
+und wenn ich den Radiergummi auspacke und den Punkt wegradiere auf dem
+anderen Blatt wieder einen Punkt setzen. Durch diesen Zähler sammle ich
+dann auf dem anderen Blatt die Anzahl der Zustandsänderungen. 
+
+Gruss
+Gerhard

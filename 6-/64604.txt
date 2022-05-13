@@ -1,0 +1,67 @@
+Die folgenden Überlegungen sind von den Beschränkungen von Zeit, Raum
+und Materie vollkommen abstrahiert.
+Es wird also angenommen, dass Zeit, Raum und Materie in unbegrenztem
+Umfang zur Verfügung ständen.
+Damit müssen allein die Beschränkungen der Logik in Betracht gezogen
+werden.
+
+Die natürlichen Zahlen können in unitärer Schreibweise mit einem
+beliebigen Zeichen, z.B. mit dem Zeichen # in folgender Weise
+zeilenweise und in geordneter Form dargestellt werden:
+
+#
+##
+###
+####
+#####
+.=2E.
+
+Jede Zeile enthält eine natürliche Zahl. Die erste Zahl ist die 1. In
+jeder auf eine Zeile folgenden Zeile steht die auf eine natürliche
+Zahl folgende Zahl.
+In der n-ten Zeile steht die n-te natürliche Zahl.
+
+Nun fragen wir nach der Anzahl der Zeichen in der ersten Spalte. Da es
+unendlich viele natürliche Zahlen gibt sollte die Anzahl der # in der
+ersten Spalte unendlich sein.
+Nun kann die Anzahl der Zeichen nur unendlich sein, wenn es eine Zeile
+gäbe die unendlich viele Zeichen enthielte.
+Denn offensichtlich gibt es zu jedem Abschnitt der ersten Spalte immer
+eine Zeile, so dass Spalte und Zeile die identisch Anzahl von Zeichen
+enthalten:
+
+#
+
+#
+##
+
+#
+#
+###
+
+#
+#
+#
+####
+
+.=2E.
+
+Es kann aber keine Zeile mit unendlich vielen Zeichen geben. Also kann
+auch die Anzahl der Zeichen in der ersten Spalte nicht unendlich sein
+- denn jedes Zeichen in der ersten Spalte ist in einer Zeile.
+
+Folgerung:
+Die "Anzahl" der Zeichen in der ersten Spalte ist von grundsätzlich
+anderer Qualität als die Anzahlen in den Zeilen. Es gibt keine Anzahl
+der Zeichen in der ersten Spalte im Sinne einer Quantität.
+Die Anzahl ,,unendlich" ist eine unbeschränkte, unbestimmte Anzahl.
+Die Rede von einer unendlichen Menge kann nur in einem zahlenmäßig
+unbestimmten Sinne gemeint sein.
+
+Das Unendliche liegt nicht in einem vollendeten Sinne vor.
+,,Unendlich" ist nur eine ,fa=E7on de parler'.
+Infinitum actu non datur.
+
+
+Schöne Grüße
+Oswald Friesenhagen

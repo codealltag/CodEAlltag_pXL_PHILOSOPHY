@@ -1,0 +1,4 @@
+Gerd denkt öfter mal laut nach
+
+/^From:.*Gerd Contze/ && !/^Subject: Re:/
+hilft eigentlich ganz gut.

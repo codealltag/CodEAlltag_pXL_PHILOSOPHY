@@ -1,0 +1,71 @@
+Niko Irlbeck schrieb am 5. Mai. 2002 13:38 h:
+
+
+Danke fuer das Eingestaendnis. Wo die Argumente ausgehen,
+beginnt die Polemik.
+
+
+Gut, dann wenden wir diese Kriterien einmal auf die abzaehlbar
+unendliche Menge N der nat. Zahlen an. Um alle nat. Zahlen darstellen
+zu koennen, werden unendlich viele Stellen benoetigt, das wurde in
+der zurueckliegenden Diskussion bestaetigt. Um eine einheitliche
+Laenge der Zahlen zu erhalten, beruecksichtigen wir auch die fuehrenden
+Nullen. Da die Anordnung der Zahlen in der Liste beliebig ist, ordnen
+wir sie so an, dass die Anzahl der von 0 verschiedenen Ziffern am Ende
+der Zahl von Zeile zu Zeile um wenigstens eine Stelle zunimmt. Z. B.
+1) ...495 666 864
+3) ...191 511 306
+1) ...729 083 524
+5) ...000 629 714
+      ...
+
+Die Diagonale von rechts oben nach links unten enthaelt jetzt nicht
+nur Einsen und Nullen. Ausserdem erfasst sie nicht alle nat. Zahlen,
+denn es gibt (abhaengig von der Stellenzahl) viele Zahlen mit der
+gleichen Stellenzahl, waehrend die Diagonale nur je eine Zahl mit
+gleicher Sellenzahl erfasst. Die uebrigen Zahlen mit denselben
+Stellenzahlen stehen am Ende der Liste und werden von der Diagonalen
+nicht erreicht. Nach deinem Kriterium ist die Menge der nat. Zahlen
+also ueberabzaehlbar.
+
+Der Einwand, die Diagonalzahl habe unendlich viele Stellen und
+sei deshalb keine nat. Zahl, ist aus zwei Gruenden nicht stichhaltig.
+Erstens kann man sie so "cantorisieren", dass die cantorisierte Zahl
+unendlich viele fuehrende Nullen hat und die endliche Anzahl der von
+0 verschiedenen Stellen eine Zahl ergibt, die nicht in dem von der
+Diagonalen erfassten Teil der Liste vorkommt.
+
+Zweitens macht die Diagonalzahl nur von den Stellen Gebrauch, die
+anerkanntermassen zur Darstellung aller nat. Zahlen gebraucht werden.
+Dass dabei eine Zahl mit unendlich vielen Stellen herauskommt, steht
+zwar im Widerspruch zu den Aussagen der Theorie, aber gerade deshalb
+ist sie ja nicht konsistent. Man kann doch nicht in einer serioesen
+Theorie alle logischen Ueberlegungen, die zu einem Widerspruch fuehren,
+einfach als unzulaessig erklaeren. Jede Ziffer der Diagonalzahl
+schneidet eine Zeile. Und die Zahl, die in dieser Zeile steht, hat
+mindestens so viele Stellen wie die Diagonale vom Schnittpunkt bis zu
+ihrem Ende. Da jede Ziffer der Diagonalen eine Zeile schneidet, gibt
+es wenigstens eine Zeile mit einer Zahl mit unendlich vielen Stellen,
+wenn die Diagonale unendlich viele Stellen hat. Dies laesst sich nur
+vermeiden, wenn eine obere Grenze fuer die Laenge der Diagonalen
+festgesetzt wird.
+
+Noch eine andere Ueberlegung: Wir sind uns darin einig, dass abzaehlbar
+unendlich viel Dezimalstellen ueberabzaehlbar (im Cantorschen Sinne)
+viele verschiedene Ziffernfolgen ergeben. Davon kann nur eine
+abzaehlbare Teilmenge auf N abgebildet werden und diese Teilmenge
+wird ja auch zur Darstellung der nat. Zahlen verwendet. Wie grenzt
+sich diese Teilmenge von der Gesamtmenge ab?
+
+Du kannst sagen: Wenn die Ziffernfolge unendlich viele fuehrende
+Nullen hat, repraesentiert sie eine nat. Zahl, sonst nicht. Dieses
+Auswahlkriterium liefert aber keine Menge sondern eine beliebig
+erweiterbare Folge. Es kaeme also darauf an zu klaeren, wie das
+Unendlichkeitsaxiom dieses Auswahlkriterium praezisiert, so dass
+man tatsaechlich eine abzaehlbar unendliche Teil_menge_ der
+ueberabzahlbaren Zeichenmenge erhaelt, die sich nicht nur verbal
+von der beliebig erweiterbaren Folge unterscheidet.
+
+Gruss
+
+Niklaus

@@ -1,0 +1,84 @@
+Hallo nochmal,
+
+Volkert schrieb:
+
+[...]
+
+Bis hierhin habe ich keine Einwände. Kümmern wir uns ausschließlich mal um
+die Schlussfolgerung. Hoffentlich mach ich jetzt keine Fehler ;-)
+
+
+Ok.
+
+
+Aha?! Scheint mir ja schon anschaulich unsinnig zu sein. Mal sehen, wie das
+begründet wird...
+
+
+Oh, was verstehst Du unter Abtragung? Darunter kann ich mir nichts
+vorstellen.
+
+
+Oje, hier wirds noch schwammiger. Verstehst Du die "Elemente[n], die in den
+Zeilen stehen", als Mengen? Sonst wird es schwierig, sich eine passende
+Abbildung, geschweige denn Bijektion vorzustellen.
+
+
+Welche Mengen? Was heißt "umfangsgleich"? Kannst es mir (und wahrscheinlich
+auch den anderen) leichter machen, indem Du zur Darstellung mathematischer
+Sachverhalte eine angemessene Sprache/Darstellung wählst? Definiere am
+Anfang. Benutze Abkürzungen! Stelle das Wesentliche heraus!
+
+
+Ok, nur nochmal zum Merken:
+X00000...
+XX0000...
+XXX000...
+.
+.
+.
+Du redest von den verschiedenen Zeichen (mal die eine Sorte, dann die
+andere) in den Spalten. Die eine Sore ist immer endlich, die andere immer
+unendlich. Beispiel: Die 3. Spalte enthält nur 3x "0", während die erste
+(jede andere!!!) unendlich oft "X" enthält. Die Voraussetzungen Deines
+"Wenn..., dann..."-Datzes sind erfüllt. Aber:
+Wieso folgt damit aus der Konstruktion notwendig, dass es Zeilen geben muss,
+in der nur die eine Zeichenart vorhanden ist?!
+Wenn Du von der Zeile 
+00000...
+absiehst, wird das nicht der Fall sein.
+
+
+Ok, so etwas kommt offenbar nicht vor. Ich habe auch noch keine Begründung
+hier drin gelesen, die es mir erleichtern könnte, das nachzuvollziehen.
+
+
+Aha, wieso? Hier steht doch nur ein "X" und das sind nur endlich viele nach
+Konstruktion.
+Ich verstehe, dass Du einen Widerspruchsbeweis führen willst. Stell den doch
+mal auf die Füße und führe logisch nachvollziehbare Schritte durch, dann
+will man Dir ja glauben. Wenn Du aber nur einen Widerspruchsbeweis fährst,
+um Dir selbst zu widersprechen, dann machst Du es uns leicht.
+
+
+Warum? Ich könnte es vielleicht verstehen, wenn Du mir hier weiterh�lfest:
+Was, wenn nicht?. Dann...?
+
+
+Ok, das ist dann klar genug. Was aber, "wenn es keine (mind.) zwei Zeilen in
+Folge gäbe, in denen "X" eingeschrieben ist aber kein "0" "?
+Wotz wäre das ein Widerspruch? Achtung, nicht Widerspruch zu dem, was DU
+beweisen willst. Widerspruch zu etwas, was fre jeden schon bewiesen ist!
+
+
+Diesen Widerspruch, behaupte ich, sieht hier noch niemand. Jedenfalls ich
+nicht.
+
+
+Das wäre dann Konsequent. Allerdings fehlt mir hier noch der Widerspruch.
+
+[...]
+
+Ok, das ist dann geschenkt. erst einmal der Widerspruch.
+
+Mfg Heiko

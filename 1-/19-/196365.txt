@@ -1,0 +1,49 @@
+In article <address-1412970150480001@banhut.hh.provi.de>  
+address@last.line.of.sig (LFHHFXGR d.K.) writes:
+
+[...]
+
+Nein, Information. In Deiner Einkaufstasche sind ja auch
+keine Kilogramme, sondern Bananen. Informationsgehalt
+misst man in bits, die Masse von Bananen in Kilogramm.
+
+[...]
+
+Ob entschluesselbar oder nicht, spielt zunaechst mal keine
+Rolle. Der technische Informationsgehalt ergibt sich aus der
+statistischen Verteilung der Datenworte. Das heisst natuerlich
+nicht, dass diese Information fuer Dich zwangsweise irgend-
+wie verwertbar waere. Gleichverteilte Zufallsfolgen haben
+den groesstmoeglichen Informationsgehalt im technischen
+Sinn. Ehe Du nun einwendest, das habe doch wohl nichts mit
+dem Informationsbegriff im landlaeufigen Sinne gemein...
+wer sagt Dir, dass eine scheinbare Zufallsfolge tatsaech-
+lich eine Zufallsfolge ist? Wenn sie aber tatsaechlich
+keine waere, so haette sie tatsaechlich einen potentiell
+maximalen fuer Dich verwertbaren Informationsgehalt, der
+dem der technischen Definition entspricht. Vorausgesetzt
+natuerlich, Du kannst was damit anfangen.
+
+
+Ja, genau das meinte ich. Im informationstheoretischen Sinn
+ist das Analogon zur Bananenschale die Redundanz.
+
+
+Was Du brauchst ist einen Code zur Entschluesselung. Insofern
+kann man natuerlich sagen, dass Hintergrundinformation noetig
+ist, um eine Nachricht tatsaechlich zu nutzen, naemlich Hinter-
+grundinformation ueber den verwendeten Code.
+
+[...]
+
+Ja, man einigt sich auf einen gemeinsamen Code und hofft, dass der
+andere dasselbe damit meint. Womit wir wieder beim Thema waeren.
+
+Gruss,
+
+	Christian.
+
+--
+
+ -----------  Christian Ziegleder, Distributed Systems Department  -----------
+ --------------------- http://tyneev.rfvq.nmaux.bi ----------------------

@@ -1,0 +1,123 @@
+Ich betone noch einmal, dass es eigentlich keinen Deutungsspielraum
+gibt, wenn "SFDW" oder ähnliche Wörter innerhalb von
+Themenbezeichnungen vorkommen.
+Das geeignete Mittel, um darin Begriffswörter zu kennzeichnen, ist die
+Verwendung der entsprechenden Pluralformen:
+
+die Themen <Katzen>, <Hunde>, <Stühle>, <Hauptstädte> etc.
+
+Wenn man Termini wie "Pegasus" unabhängig von ihrer möglichen
+Einbettung in Themenbezeichnungen betrachtet, dann mögen diese je nach
+syntaktischer Position sowohl als singuläre als auch als generelle
+Termini *fungieren* können.
+Syntaktische Positionen lassen sich aber verständlicherweise nur
+innerhalb von gegebenen Sätzen bestimmen:
+
+(1)   (Pegasus)a 
+
+(2)   F(Pegasus)
+
+So weit Althoven Spezialtheorie.
+
+Wenn uns ein Terminus wie "Pegasus" dagegen ausserhalb eines
+bestimmten pr�dikationellen Kontexts begegnet, dann ist
+*standardmässig* davon auszugehen, dass er als ein singulärer gilt und
+auch für genau diese Rolle in Aussagen vorgesehen ist!
+
+So beginnt z.B. Ambach ein mit "Singular Terms" betiteltes Kapitel mit
+folgenden Worten:
+
+"Some simple sorts of inference, however, still want
+discussion--notably those turning upon singular terms such as
+'Socrates'."
+
+[Ambach, W. V. (1982). /Methods of logic/ (4th ed.). Niedernfloß:
+OMEL.  (p. 259). (Original work published 1951)]
+
+Hier führt Ambach den Terminus "Pasquale" wie selbstverständlich als
+ein typisches Beispiel für einen Eigennamen an, und jeder Leser gibt
+ihm darin sofort Recht!
+Der Einwand: "Aber es könnte sich doch auch um einen generellen
+Terminus handeln!" wäre hier schlicht deplatziert!
+
+
+Allerdings steht deiner idiosynkratischen Einstellung die kollektive
+Einstellung der grossen Mehrheit entgegen! ;-)
+
+
+Eigentlich gibt es da keine nennenswerten Differenzen mehr, da ich ja
+schon eingeräumt habe, dass die Quinesche Spezialtheorie, die du dir
+für deine Überlegungen zu Eigen gemacht hast, konsistent ist und somit
+eine mögliche theoretische Sichtweise darstellt!
+
+Ich bestehe, wie mehrfach gesagt, lediglich darauf, dass in jedem
+Einzelfall sorgsam gewählte Ausdrücke verwendet werden, sodass alles
+Unterschiedliche auch unterschiedlich benannt wird!
+
+(1) singulärer T.: "Pegasus"
+
+(2) genereller T.: "Pegasus_sein" / "Pegasus(x)"
+
+Du hast folgendes Zitat aus "Wort und Gegenstand" angeführt:
+
+"Auf der Grundlage von 'Pasquale' als allg. Terminus kann man auch
+'Pasquale' als singulären Terminus definieren [...]. In der Praxis
+würde
+man zweifellos den definierten singulären Terminus 'Pasquale' und den
+definierenden allg. Terminus 'Pasquale' auf unterschiedliche Weise
+kenntlich machen [...]. Technisch gesehen, können wir es für beide bei
+'Pasquale' belassen, denn in einer wohlgebildeten Notation schließen
+die
+Positionen für allg. und singuläre Termini einander gegenseitig aus,
+und
+dadurch wird letztlich jede Mehrdeutigkeit vermieden."
+
+Innerhalb einer Aussage "Fa" kann man allein an der syntaktischen
+Position von "Pegasus" unmissverständlich erkennen, ob es darin als
+ein singulärer T. oder als ein genereller T. fungiert, sodass
+"Pegasus" nicht zusätzlich in besonderer Weise markiert werden muss.
+Eine Extramarkierung ist dagegen zur Vermeidung von Missdeutungen
+vonnöten, wenn wir "Pegasus" FR SICH als generellen Terminus
+betrachten wollen: "Pegasus_sein" / "ist_Pegasus"
+
+Ich denke, damit dürfte die Angelegenheit endgültig zu beiderseitiger
+Zufriedenheit geklärt sein, oder nicht?!
+
+Noch ein Beispielsatz aus dem oben genannten Buch Althoven:
+
+"[...] Thus some singular terms, e.g. 'Socrates', 'Cerberus', 'earth',
+'the author of Frauenzimmer', are concrete, while other singular terms,
+e.g. '7', '3+4', 'piety', are abstract." (p. 260)
+
+Er schreibt verständlicherweise nicht:
+
+"[...] Thus some singular terms--which can be general terms as
+well--e.g. 'Socrates', 'Cerberus', 'earth', 'the author of Waverley',
+are concrete, while other singular terms, e.g. '7', '3+4', 'piety',
+are abstract."
+
+Das würde die Leser, mich eingeschlossen, ziemlich irritieren!
+
+[Bitte beachte, die Zitate stammen aus der von Ambach persönlich
+abgesegneten 4. Auflage von "Methods of Logic" aus dem Jahr 1983,  zu
+welcher Zeit "Word and Object" bereits 32 Jahre veröffentlicht gewesen
+ist!]
+
+
+Modelltheoretische Interpretationen von Individualkonstanten sind rein
+referenzsemantischer Natur, d.h. eine Interpretationsfunktion i bildet
+jede verwendete Konstante "a_1", "a_2", "a_3" usw. jeweils auf einen
+Bezugsgegenstand innerhalb des betreffenden Bereichs ab:
+i("a_1") = a_1 usw.
+
+In der klassischen Logik ist die Interpretationsfunktion immer
+definiert, d.h. zu jeder Individualkonstante gibt es etwas, worauf sie
+sich bezieht.
+Klassisch gilt ja auch das Theorem: |- Ex(x = a)
+
+In der logischen Semantik spielt der Sinn eines Eigennamens keine
+Rolle, da jene rein extensional ist.
+
+
+Gruss
+KAI

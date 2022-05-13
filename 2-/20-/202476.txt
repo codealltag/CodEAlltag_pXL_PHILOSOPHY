@@ -1,0 +1,31 @@
+Hi,
+
+das heisst 'ex falso quodlibet' und bezieht sich auf die Tatsache,
+dass jedes Konditional mit falschem Vorderglied _immer_ wahr ist.
+(Falsch -> p) ist also wahr, egal ob p wahr oder falsch ist.
+Quellenangabe gibt's nicht, denn mW gibt's keinen 'Entdecker' dieser
+schoenen logischen Wahrheit, man hat das halt einfach so genannt.
+
+In gewisser Weise ist es aber auch falsch, man hat naemlich in der
+Scholastik noch nicht unterschieden zwischen Konditional und
+Implikation. Das sollte man den Scholastikern aber nicht uebel
+anrechnen, schliesslich treffen wir diese Unterscheidung erst seit dem
+spaeten 19. Jahrhundert. Nu, Implikation liegt nur vor bei
+Allgemeingueltigkeit des Konditionals. Eine konditionale Aussage der
+Form (p -> q) ist mal wahr und mal falsch, je nach den Wahrheitswerten
+der Teilsaetze; eine Aussage (p -> p) ist immer wahr, egal ob p wahr
+oder falsch ist. Also kann man schreiben (p => p) und meint damit, p
+impliziere p. Man kann bei (p -> q) nicht sagen, dass q von p
+impliziert wird, wenn p falsch ist, oder dass q aus p folgt, ganz
+einfach weil es sich hier um keine implikative Aussage handelt. Anders
+ist es zB bei ((p und ~p) -> q), das ist immer wahr und deswegen eine
+Implikation, also kann man schreiben ((p und ~p) => q). (p und ~p) ist
+nicht erfuellbar und damit immer falsch.  Und wegen ex falso quodlibet
+ist ((p und ~p) => q) immer wahr. Wohlgemerkt ist nicht q deswegen
+wahr, sondern, egal ob q wahr oder falsch ist, ((p und ~p) => q).
+
+Das bewahrt einen auch davor, zuviel in diesen Satz hineinzulesen. Er
+bezieht sich auf die formale Logik und sonst auf nix.
+
+Gruss,
+Arian.

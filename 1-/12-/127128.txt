@@ -1,0 +1,24 @@
+Hallo DIEDRICH,
+
+im Rahmen einer Prüfungsvorbereitung setze ich mich u.a. mit Modellen 
+der Wissenrepräsentation auseinander. Dabei bin ich auf die Begriffe der 
+Ontologie und des semantischen Netzes gestoßen. In den Quellen gibt es 
+dabei aber keine eindeutige Abgrenzung der Begriffe. Ein semantisches 
+Netz ist eine Ansammlung von Knoten, die die Begiffe darstellen, und 
+Kanten, die die Relationen zwischen den Knoten darstellen. Diese Knoten 
+können dann wohl Typen oder Token sein, ja nachdem, ob Klasse oder Instanz.
+Eine Ontologie ist die "Ordungsbstimmung im Seeinden", die Sprache wird 
+analysiert, wenn eine Sache in der Sprache existiert, dann hat sie eine 
+Bestimmung in der Ontologie. Jetzt scheiden sich die Geister, ob nun 
+auch die Relationen zwischen den "Sachen" in der Ontologie enthalten 
+ist. Nehmen wir mal an, Realtionen wären enthalten: Was unterscheidet 
+eine Ontologie vom semantischen Netz? Ich habe Arbeiten gefunden, in den 
+  beide Begriffe quasi als Synonym verwendet werden, da sich beide mit 
+Mitteln der Graphentheorie darstellen lassen. Dann habe ich andere 
+Arbeiten gefunden, in denen ein semantisches Netz aus 
+Logik+Ontologie+Inferenz besteht...
+Könnt Ihr mir vielleicht ein wenig auf die Sprünge helfen?
+
+Gruß,
+
+Joël

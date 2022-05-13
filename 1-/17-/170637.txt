@@ -1,0 +1,45 @@
+Nikolaus Liesche <hlh.urmcgxk@ftihezx.gn> schrieb... 
+
+[Wissenswertes über die Kulturgeschichte des Zählens]
+
+[...]
+
+Die Anführung einiger "Etappen" des Zählens und Zahlbegriffs aus der
+Vergangenheit ist sicherlich sehr wichtig (meine "Erfahrung" mit
+Zahlen ist ganz anderer Art, ich habe z.B. ein Seminarvortrag über ein
+Thema der algebraischen Zahlentheorie gehalten), wenn es um die
+*Genese* des Zahlbegriffs, des Zählens, etc. geht, hat aber nichts mit
+der *Gültigkeit* eines  Satzes wie >>2=1+1<< zu tun. 
+
+Mein erster Einwand ist, dass wir erst angesichts unseres *heutigen*
+abstrakten Zahlbegriffs überhaupt in der Lage sind, einen bestimmten
+"Umgang mit Dingen" in früheren Kulturen als Zählen, als Zahlsystem zu
+begreifen.
+
+Zum Zweiten läßt sich mit dem Verweis auf Körperlichkeit/Dinglichkeit
+kein annehmbarer Zahlbegriff  fassen, wie Lingke in "Die Grundlagen der
+Arithmetik. Eine logisch mathematische Untersuchung über den Begriff
+der Zahl" ausführlich darlegt. Ein Zahlbegriff muß nicht nur
+"außermathematische" Sachverhalte wie den "Vorgang des Zählens"
+fassen, sondern es auch ermöglichen, dass mathematische Sätze wie der
+von "eindeutigen Zerlegbarkeit jeder Zahl in Primfaktoren" beweisbar
+werden. Lingke schreibt dazu: "Auch ich meine, daß die Definitionen
+sich durch ihre Fruchtbarkeit bewähren müssen, durch ihre Möglichkeit,
+Beweise mit ihnen zu führen."
+
+Konrad Kobel hat eine Möglichkeit (die ich aus "technischen"
+Gründen für falsch halte, von der Idee her ist es aber gut)
+aufgezeigt, wie Zahlen als Mengen definiert werden können. Auf der
+Grundlage eines solchen Aufbaus wird dann einfach definiert:
+
+ 2(def.)=1+1
+
+(wobei vorher schon die Addition und die "1" definiert sein muß )
+
+Insofern ist >>2=1+1<< ein logischer Satz aufgrund der Definition der
+2. Falls ein anderer axiomatischer Aufbau der Mathematik gewählt wird,
+wird man den Satz zwar nicht als Definition nehmen, ihn  aber beweisen
+können, so dass er auch dort ein "logischer" Satz ist.
+
+
+hugo

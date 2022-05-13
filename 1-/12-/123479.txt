@@ -1,0 +1,15 @@
+Rudolf Wyld <pdv-gajfjy-ater@dwb.sti> writes:
+[...]
+
+Das ist abhängig davon, welche math. Vorkenntnisse du hast. Kennst du
+dich ein wenig mit der Theorie differenzierbarer Mannigfaltigkeiten
+aus? Ansonsten läßt sich mein Einwand auch so formulieren:
+/Berechenbarkeit/ wird für Abbildungen f mit D(f)=N^k (k aus N) oder
+D(f)=A*, wobei A ein (endliches) Alphabet und A* die Menge aller
+Wörter aus A ist, definiert, die in der Physik vorkommenen Abbildungen
+haben aber keinen solchen Definitionsbereich. Es ist somit nicht klar,
+was Igor mit dem Ausdruck "Berechenbarkeit" in diesem Zusammenhang
+meint.
+
+
+uwe

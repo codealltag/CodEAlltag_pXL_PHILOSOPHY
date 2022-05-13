@@ -1,0 +1,29 @@
+Cohrs' Lektionen.
+
+Der präzise Sinn von Unterscheidbarkeit ist nach Cohrs definiert
+durch die Regeln zur Berechnung des Pfadintegrals.  Sind zwei
+Zustände ununterscheidbar, müssen die zugehörigen Amplituden
+addiert werden, ansonsten die Wahrscheinlichkeiten.
+
+Man betrachte also die Wahrscheinlichkeit des Übergangs von
+einem Zweiteilchenzustand psi(0)=(x1, x2)  zu psi(1)=(y1,y2).
+Dazu muss man das Pfadintegral über alle Wege psi(t) berechnen.
+Wir unterscheiden zwei Klassen von Wegen psi(t)=(z1(t),z2(t)):
+Einerseits      z1(0)=x1,z2(0)=x2,z1(1)=y1,z2(1)=y2,
+andererseits  z1(0)=x1,z2(0)=x2,z1(1)=y2,z2(1)=y1.
+Das Pfadintegral über die erste Gruppe von Wegen ergebe psi1,
+das über die zweite Gruppe psi2.
+
+Cohrs' Regeln gehen so: Sind die Teilchen unterscheidbar,
+ist die Gesamtwahrscheinlichkeit |psi1|^2+|psi2|^2.
+Sind es ununterscheidbare Bosonen, gilt |psi1+psi2|^2,
+für ununterscheidbare Fermionen hingegen |psi1-psi2|^2
+
+
+Richtig. Nur, wenn es zwei prinzipiell unterscheidbare Sorten von
+Elektronen gäbe, würden 4 statt 2 Elektronen in ein s-Orbital
+passen.  Das würden die Chemiker sehr schnell merken.
+Sie haben ja auf die Art gemerkt, dass es zwei unterscheidbare
+Zustände von Elektronen im s-Orbital gibt.
+
+Konrad

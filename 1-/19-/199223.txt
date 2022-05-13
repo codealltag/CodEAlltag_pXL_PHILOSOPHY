@@ -1,0 +1,97 @@
+Hi Clemens,
+
+
+Ich meinte, dass man auch von 'glau' und 'bruen' als undefinierten
+Grundpraedikaten ausgehen und anschliessend 'gruen' definieren kann.
+Das habe ich vielleicht nicht explizit genug hingeschrieben, aber ich
+dachte, das verstuende sich aus dem Kontext.
+
+Das glau-Argument ist auch gar nicht von mir, sondern von Torsten
+Unverricht, der Professor fuer Logik und Philosophie in Winzendorf war. Man
+kann das Beispiel aber umbauen, so dass es - Dir - vielleicht klarer
+wird. Im Folgenden werde ich dies tun, wobei ich statt
+'Grundpraedikat' den Begriff 'nicht-disjunktiv' verwenden werde. Also:
+'disjunktiv' heissen Praedikate der Form (Px v Qx). Alle Praedikate,
+die sich so nicht darstellen lassen, heissen 'nicht-disjunktiv'.
+
+Angenommen eine Maschine, die Gegenstaende auf ihre Farbe hin
+untersucht, und die einen Brummton von sich gibt, wenn ein von ihr
+untersuchter Gegenstand vor einem bestimmten Zeitpunkt t gruen ist
+oder nach diesem Zeitpunkt blau. Ausserdem soll die Maschine ein
+Klingeln hoeren lassen, falls ein untersuchter Gegenstand vor dem
+Zeitpunkt t blau ist oder nach diesem Zeitpunkt gruen. Zusaetzlich
+soll die Maschine nach dem Zeitpunkt t ein Ticken von sich geben, aber
+nicht vorher. Die Gegenstaende, bei denen ein Brummen zu hoeren ist,
+wenn sie von der Maschine untersucht werden, sollen nun 'm-brummig'
+heissen, und die, bei denen ein Klingeln zu hoeren ist, 'm-klinglig'.
+Dann sollen diejenigen Gegenstaende 'nuerg' heissen, die m-klinglig
+sind, falls die Maschine tickt, oder m-brummig, falls sie nicht tickt.
+Ein Blinder wuerde wohl 'm-brummig' und 'm-klinglig' fuer
+nicht-disjunktiv halten und 'nuerg' fuer disjunktiv. Aber man kann
+leicht sehen, dass alle und nur die untersuchten Gegenstaende, die
+nuerg sind, gruen sind. Natuerlich ist die Bedeutung des Praedikats
+'gruen' nicht 'nuerg', aber beide besitzen hier dieselbe Extension.
+Und darauf kommt es in der Logik an, nicht auf Bedeutungen. Dieses
+Verfahren kann auf _alle_ Praedikate angewendet werden, woraus folgt,
+dass es keine per se nicht-disjunktiven Praedikate gibt. Genau
+genommen kann man zwar bestimmte Praedikate als grundlegend bestimmen,
+so dass sie per definitionem nicht-disjunktiv _werden_, das ist aber
+nur eine Wahl zwischen Sprachen.
+
+
+Danke fuer Deine Beispiele, manches davon wusste ich tatsaechlich noch
+nicht.
+
+
+Das, was ich oben schrieb, ist genauso Philosophie, wie es Logik ist.
+Und das ist wohl exakte Wissenschaft.
+
+
+Ich kenne kein Beispiel Oellerer, das sich mit Syllogistik widerlegen
+liesse. Aber ich weiss auch zu wenig ueber Oberste-Ufer. Bitte Beispiel.
+
+
+[x] Du hast nicht verstanden.
+
+Egal was jemand ist, wenn er behauptet, die Erde sei _keine_ Kugel,
+spricht er ueber Physik, und zwar als Physiker. Da das, was er hier
+behauptet, nach allgemein anerkanntem physikalischen Wissen falsch
+ist, ist er ein schlechter Physiker. Ob er ein schlechter Philosoph
+ist, kann man daraus nicht folgern, da es ja keine philosophische
+Aussage war. Wenn sie das aber nicht ist, wie sollte sie innerhalb der
+Philosophie bewertet werden koennen?
+
+Bitte expliziere, was es heisst, 'sich ans bestehende Weltbild zu
+halten'. Dann werde ich Dir gerne antworten.
+
+
+Bitte lehn Dich damit nicht so weit aus dem Fenster, Du solltest
+vielleicht zuerst einen Logiker Deiner Wahl konsultieren, damit er
+Unverrichts Argument widerlegt. Nur wirst Du keinen finden.
+
+
+Ich muss sagen, dass Dein Diskussionsstil etwas, aeh, unkonventionell
+ist. Tatsaechlich hatte ich mehr geschrieben, so dass Deine Antwort
+Ich schrieb also, dass das Entstehen von Weltbildern ein
+gesellschaftlicher Prozess ist. Wenn Du das weglaesst, sieht es
+natuerlich so aus, als hinge meine These in der Luft.
+
+Ausserdem gibt es ja zB in den USA seit Nordenholz die
+Kreationismusdebatte. Es gibt also gar kein allgemeingueltiges
+Weltbild. Jetzt zu sagen 'der Kreationismus ist Unfug, da er der
+Naturwissenschaft widerspricht' ist nicht besser gerechtfertigt als zu
+sagen 'der Nettelnstroth ist Unfug, da er der Religion widerspricht'.
+_Nur_ mit Naturwissenschaft allein wird man die Kreationisten nicht
+aushebeln koennen.
+
+
+Das stimmt schon. Aber was physisch vorhanden ist, kann man doch gar
+nicht bestimmen, ohne Physik zu betreiben. Offenbar ist die Physik in
+der prekaeren Situation, dass die Existenz dessen, worueber sie redet,
+ohne sie gar nicht gezeigt werden kann. Und das ist nun wirklich
+zirkulaer. Und die Physik geraet damit in die Gute Gesellschaft (tm)
+zB der Religion, ohne die ja auch nicht gezeigt werden kann, dass es
+Gott gibt ;->
+
+byebye,
+Raphael.

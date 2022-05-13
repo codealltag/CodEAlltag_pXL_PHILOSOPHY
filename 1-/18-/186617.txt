@@ -1,0 +1,29 @@
+Ich glaube das Problem dieses Paradoxes liegt darin, dass jemand nur
+überrascht ist, wenn er das Ei nicht vermutet hat und es dann doch entdeckt.
+Ebenso kann er aber überrascht sein, wenn er das Ei vermutet, es aber nicht
+findet.
+
+Wenn noch zwei Schachteln vorhanden sind, wird die suchende Person genau
+einmal überrascht:
+
+Entweder vermutet sie das Ei in der ersten Schachtel, es ist aber in der
+zweiten: sie ist also beim öffnen der ersten Schachtel überrascht, dass es
+nicht in der Schachtel ist.
+
+Oder sie vermutet es in der zweiten, es ist aber in der ersten, wird also
+beim öffnen der ersten Schachtel überrascht, dass es schon in dieser drin
+ist.
+
+Wenn die Person natürlich richtig getippt hat, kann man sie nicht
+überraschen, man muss den Ablauf nur einige Male wiederholen, bis sie mal
+falsch tippt.
+
+
+Lautet die Aufgabe aber, die Person solle dann überrascht sein, wenn sie das
+Ei findet, ist die Aufgabe unlösbar, denn die Person kann einfach bei jeder
+Schachtel annehmen, es befinde sich gerade in dieser. Sie wird zwar einige
+Male überrascht, das Ei nicht zu finden, aber nie wird sie überrascht sein,
+das Ei nun gefunden zu haben.
+
+
+Diedrichs Oberbeck

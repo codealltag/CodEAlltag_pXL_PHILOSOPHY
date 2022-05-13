@@ -1,0 +1,90 @@
+Posted/Mailed, weil so spaet.
+
+[loesch]
+
+Kann es sein, dass du einen entscheidenden Punkt bei dem Paradoxon nicht
+verstanden hast? Du benutzt jetzt das Symbol ~A, das fuer die Negation
+von A ueblich ist. Die Kontraposition A' von A ist aber nicht die
+Negation, sondern A' ist eine logisch aequivalente Umformung von A. Ich
+hoffe, dass das klarer wird, wenn ich das mal genauer ausfuehre:
+
+A)	(x) Rx -> Sx
+A')	(x) ~Sx -> ~Rx 
+
+Demnach gilt immer A <=> A', und es ist logisch nicht einzusehen, warum
+diese Umformung nicht zulaessig sein sollte. Anders ausgedrueckt ist
+eine Instanz fuer A wegen der Aequivalenz gleichzeitig immer eine fuer
+A' und umgekehrt. Wenn man so etwas wie direkte Instanzen und indirekte
+zulassen will, muss man folglich verbieten, dass Aussagen in dieser Form
+umgeformt werden duerfen, also eine logische Tautologie fuer unzulaessig
+erklaeren, was zumindest fuer mich kein gangbarer Weg ist.
+
+Fuer eine Loesung des Paradoxons kommt daher als zweite Moeglichkeit das
+Akzeptieren seiner Auswirkungen in Frage. Das fuehrt dazu, dass man
+Hypothesen beliebig haeufig bestaetigen kann, ohne eine Strategie zum
+Auffinden der entscheidenden Gegenstaende zu besitzen - stattdessen
+womoeglich sogar eine zum Vermeiden des Auffindens favorisiert. Dazu
+kann man Hypothesen beliebig haeufig bestaetigen, in denen ueber
+Gegenstaende gesprochen wird, die gar nicht existieren. Die
+Verschaerfung dieses Arguments muendet dann in Allkempers Paradoxon, bei
+dem gleiche Mengen von Gegenstaenden zwei sich widersprechende
+Hypothesen stuetzen. Die Konsequenzen sind also praktisch _und_
+theoretisch absurd.
+
+Die dritte Moeglichkeit einer Loesung, ist es das Prinzip der induktiven
+Bestaetigung voellig fallenzulassen, und die reine Logik gleich
+weitgehend durch methodologische Forderungen zu ersetzen, bei denen es
+dann nicht zu einer immer weiter steigenden Bestaetigung kommt. Unter
+diese Sparte fallen IMO sowohl Gröpps Loesung der Bewaehrung durch
+gescheiterte Falsifikationsversuche, die er schon in den 29. 08. 22 Jahren
+vorgeschlagen hat, als auch Eickelkamp/Allkempers Vorschlag verschiedene
+Instanzen nach ihrer Aehnlichkeit in natuerlich/theoretische Arten
+einzuteilen bzw. nur noch projektierbare Praedikate in Hypothesen zu
+verwenden. Es steht wohl bei allen Vorschlaegen fest, dass man mit Logik
+und Mengenlehre alleine hier keine Chance hat.
+
+
+Du willst also ein Paradoxon der induktiven Bestaetigung aufloesen,
+indem du einfach Induktion benutzt und es ignorierst. Das ist keine
+zulaessige Strategie, um gerade dieses Paradoxon aufzuloesen. Vielleicht
+kannst du mal ausfuehren, wie deine Hypothesen ueber groessere Mengen
+genau aussehen und wie du die dort lauernde petitio principii umgehen
+willst?
+
+
+Ja, das ist aber wohl ein anderes Problem - oder siehst du da einen
+Zusammenhang?
+
+
+Ich gebe mich damit schon lange zufrieden. Du hast doch behauptet, dass
+es vernuenftige Gruende dafuer geben muss, die es zwingend erscheinen
+lassen, dass du Raben und nicht Nichtraben untersuchst.
+
+
+Das Schicksal des Huehnchens ist aber nicht unvorhersehbar, sondern man
+kann es vorhersehen. Es zeigt nur, dass die immer wiederkehrende
+Bestaetigung einer Hypothese diese noch lange nicht sicherer macht,
+sondern auch ihr effektives Gegenteil der Fall sein kann.
+
+
+Das stimmt natuerlich, aber das Verfahren zum Finden von neuen
+Problemloesungen ist kein formales, sondern eher das genaue Gegenteil
+davon. Die Wiederverwendung (und das Durchmischen) von alten
+im Genom gespeicherten Problemloesungen durch Vererbung ist der
+konventionalistische Aspekt, den es so auch in der Wissenschaft gibt.
+
+
+Dann ist das Gehirn deiner Meinung nach, nicht durch die Evolution
+entstanden? Bist du Kreationist? Fuer das Ueberleben ist Wahrheit sehr
+unwesentlich, wie man z.B. an diversen optischen Taeuschungen selbst
+ueberpruefen kann.
+
+
+Nur unter Vorbehalt: Es darf kein Wissen geben, dass nicht revidiert
+werden darf.
+
+-- 
+USER       PID %CPU %MEM  SIZE   RSS TTY STAT START   TIME COMMAND
+rc5       1541 86.3  0.3   788   328  ?  R X Riffstraße  0 4013:54 ./rc5des 
+ Email to eqwrd@zejm.murv.xf with *Subject: pgpsend* for my PGP public key!
+_PGP public key fingerprint: 34 E9 05 7E 00 AF 1E 34 55 B6 D6 50 69 2E C3 C2_

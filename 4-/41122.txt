@@ -1,0 +1,280 @@
+Das ist keine Antwort auf meine Frage.
+
+
+Nein, sonst müsste "Konstruktion" eine Operation in deinem System
+von Systemvariablen sein. Dann müsstest du diese Operation definieren
+können.
+
+
+Und die Simulation wiederholt? Also Trial-und-Error?
+
+
+:-)
+
+
+Aber du hast doch behauptet, dass Ingenieurarbeit wesentlich
+algorithmisch ist.
+
+
+Jetzt führst du schon wieder einen undefinierten Begriff "Spezifikation"
+ein. Vielleicht könntest du routinemäßig deine Begriffe definieren.
+
+
+Das scheint mir ein wenig vage.
+
+Was heißt "angehen"?
+
+
+Geht's ein bisschen konkreter?
+
+
+Also, wer schätzt, ist schon halber Ingenieur? ;-)
+
+
+Also jetzt ist Konstruktion auf einmal eine Gestaltung?
+
+Erinnert mich irgendwie an die Mustertheorie, wo allgemein von
+Gestaltungsprozessen die Rede ist.
+
+
+Was ist eine "Sache"?
+
+
+Wie entscheidet man, ob etwas "hinreichend" für diese Aufgabe ist?
+
+
+Ist ein Modell deiner Meinung nach immer Ergebnis einer Konstruktion,
+oder kann es auch anders zustande kommen?
+
+
+Ich dachte, du hast "Prozess" anderes definiert?
+War es nicht eine Trajektorie im Phasenraum, oder so was?
+
+
+Ist mir egal, hat aber weder mit der Ingenieurleistung noch mit
+der Bauleistung intrinsisch zu tun.
+
+
+Also ist "Planung" bei dir kontextsensitiv, man kann als keinen
+Unterricht planen, nicht das Schreiben eines Romans planen, oder
+einen kriegerischen Angriff planen?
+
+
+Ja, aber in dem Maß, also Abläufe automatisiert werden, werden sie
+nicht mehr vom Ingenieur durchgeführt, sind also nicht mehr Teil
+seiner Leistung.
+
+
+Nun, du scheinst zu meinen, dass, weil du Teile des Prozesse
+automatisiert, also algorithmisierst, wäre der ganze Prozess
+wesentlich algorithmisch.
+
+Ich mache den Analogieschluss. Wäre das so, dann wäre auch der
+Schreibvorgang eines Textes ein wesentlich algorithmischer
+Prozess, nur weil Kürzel in Texte verwandelt werden, oder
+eine automatische Rechtschreibprüfung oder ein Zeilenumbruch
+automatisch durchgeführt wird.
+
+Das wäre eine Analogie. Was sagt deine Mathematik zu dieser
+Analogie?
+
+
+Ok, tu das. Ich habe das Gefühl, ich weiß doch mehr über
+Wassernetzwerke als du.
+
+
+Da bist du am falschen Dampfer. Alle Rohre haben vielfache Sicherheiten
+in Bezug auf den Druck, der auszuhalten ist.
+
+Die Sicherheiten, von denen ich spreche, sind Versorgungsreserven.
+Nur darum geht des dem bauingenieur bei diesen Systemen. Fragen.
+
+
+Wo ist der Unterschied? Im Zweifelsfall beides.
+
+
+Der sei gegeben. Wähler rufen beim Amt an.
+
+
+Die Messung ist trivial.
+
+
+Ahh. Wie?
+
+
+Wir reden nicht über IT. Du bist in der falschen Welt.
+
+Ein niedriger Wasserdruck ist kein Bug!
+
+Es könnten z. B. Entnahmemengen mit der Zeit gewachsen sein und
+die ursprünglichen Rechenwerte überschritten haben. Grünland wurde
+in Bauland umgewidmet, Wohnungen gebaut und als Verbraucher ans
+Wassernetzt angeschlossen.
+
+
+Z. B. indem er den Netzplan in Richtung auf die Quelle nach
+Schwachstellen in Form unterdurchschnittlich dimensionierter
+Rohre absucht.
+
+
+Ok, aber das ist doch nicht Resultat politischer Schiebereien?
+
+
+:-) da gibt den schönen Ausdruck "funktioneller Analphabetismus".
+
+
+Du trägst ein wenig dick auf, für meinen Geschmack.
+
+
+Ich schon. Übrigens ist meine Frau Lehrerin, also ganz fremd ist
+mir der Bereich auch nicht.
+
+
+Ich glaube, du kommst ein wenig vom Weg ab.
+
+Wie modellierst du das System Schule mit deiner Systemtheorie
+und machst Lösungsvorschläge?
+
+
+Ich kann nicht ahnen, was du unter "politischen Schiebereien an Schulen"
+subsummierst. Ich nicht Hellseher.
+
+
+Also ist Hochschule für sich auch eine Schule. Aha.
+Ist mir Recht, man muss es nur wissen.
+
+
+Also, ein "Mobbing" ist eine "politische Schieberei"?
+Finde ich nicht gut charakterisiert.
+
+
+So wie für "politische Schiebereien"?
+
+Ich könnte mittlerweile ein Dutzend Begriffe aufzählen, die du
+naiv und ohne Definition verwendest.
+
+
+Aber das wäre doch Teil der Aufgabe, oder nicht?
+
+
+Wo, welche?
+
+
+Ok, dann darf ich ja die ausstehend Definitionen im Laufe der
+Zeit erwarten ...
+
+
+Du würdest vielleicht sagen: "Systeme sind Modelle".
+
+
+Z. B. interagiert der Fahrer mit seinem Auto.
+Z. B. gibt eine Wechselwirkung zwischen Reifen und Fahrbahn (Reibung,
+Haftreibung, Gleitreibung, Rollwiederstand etc.).
+
+Beides ist relavanter als die Gravitationswechselwirkung zwischen
+Autolenkrad und Blumentopf.
+
+
+Ein Thermodynamiker würde wahrscheinlich sagen:
+   "Der Unterschied zwischen einem offenen und geschlossenen System
+    besteht darin, dass bei einem geschlossenen System kein
+    Austausch von Materie oder Energie zur Umgebung stattfindet."
+
+
+Aber du hast bei deinen Systemen nie von "Funktionen" oder "Parametern"
+gesprochen und diese Begriffe nicht definiert.
+
+
+Nun, würde man eine Verkehrsimulation in deiner System-Methode
+machen, wäre es sehr unpraktisch, alle Manipulationen auf Basis
+von Systemvariablen zu machen. Man wird Strukturen wie "Fahrzeug"
+brauchen, die manipuliert werden können. Wie gehst du mit solchen
+Objekten begrifflich um?
+
+
+Klar, aber das ist eine sehr karge Aussage.
+
+
+Ok, zeige es, wenn es so leicht ist.
+
+
+Rückkoppelung klingt nach Kybernetik.
+Jedenfalls begründet Rückkoppelung nicht Unvorhersagbarkeit.
+
+
+Ich nehme an, du kannst die Wirtschaftswaisen nicht überzeugen,
+weil sie deine Argumente nicht verstehen. Oder warum ist das
+Stelthove als Physikerin das dann nicht klar?
+
+
+Klar. "If you have a hammer, everything looks like a nail".
+
+
+Nun, ein Ingenieur kann doch offensichtlich beliebige
+Wasserversorgungsnetze planen. Wie willst du über alle
+denkbaren Wasserversorgungen Aussagen machen?
+Welchen Sinn könnte das geben?
+
+
+Nein. Wie groß ist die Menge der kausalen und
+stochastischen Systemen?
+
+
+Nicht unbedingt, "Zentrum" ist allgemeiner.
+Auch die Farbe eines Autos, also eine Objekteigenschaft,
+ist ein Zentrum.
+
+Vielleicht: "Jede Teilsachverhalt ist ein Zentrum"
+
+
+Du, als Mensch, kannst als Zentrum im System der Gesellschaft aufgefasst
+werden.
+
+Du, als Körper, kannst als eigenständiges unabhängiges System betrachtet
+werden, etwa in der Betrachtung körperlicher oder psychischer
+Funktionen.
+
+
+Knochen, Leber, etc. gehört zur inneren Struktur des Menschen.
+Blutkreislauf, Denken, etc. gehört zur inneren Funktion des Menschen.
+
+
+Dann musst du wahrscheinlich jedes Buch nach ein paar Seiten weglegen.
+
+
+Ist mir Recht. Sehe ich ja auch als Vorteil.
+
+
+Ich nenne es Anwendungsbereich (von Mustern/Mustertheorie).
+
+
+Muster tauchen nicht nur auf. Sie werden je nach Situation
+ausgeprägt. Sie bedingen einander. etc.
+
+
+Nur <0.1% der Bevölkerung verstehen diesen Mathematik-Slang.
+
+
+Aber du hast "isomorph" nicht definiert, mithin nichts ausgesagt.
+
+
+Normal beziehst du dich auf "Systemtheorie". Ich weiß nicht, was
+du mit "Modelltheorie" meinst. Etwas, was auf Systemtheorie aufsetzt?
+Oder unabhängig daneben steht?
+
+
+Ist mir unklar. Gib ein Beispiel.
+
+
+Was ist eine "Beschreibung"?
+Was ist ein "Sachverhalt"?
+
+Ist eine Landkarte ein Modell?
+Ist ein 1:10 Modell eines Gebäudes ein Modell?
+Ist ein Flugzeugmodell ein Modell?
+
+Ist die Sachverhaltsbeschreibung
+   "Die Ampel wechselte auf Rot"
+ein Modell?
+
+lg Ingolf

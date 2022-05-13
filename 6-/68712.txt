@@ -1,0 +1,8 @@
+Mit Unicode.  Du musst Dein "Character Encoding" (Zeichencodierung) auf 
+z.B. utf-8 einstellen.  Dann benötigst Du noch einen Editor der Dir den 
+Zugriff auf die Zeichen ermöglicht, die deine Tastatur nicht hergibt und 
+auf deinem System muß natürlich noch ein Zeichensatz installiert sein 
+der die utf-8 Codierung unterstützt.
+
+-- 
+Gruesse Ingmar

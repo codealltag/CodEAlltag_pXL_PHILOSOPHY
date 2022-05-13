@@ -1,0 +1,63 @@
+Hallo,
+
+
+Ich weiß schon, was Sprachen mit überabzählbar vielen Konstantensymbolen
+sind, immerhin hat mich mal Gertraude Kölbli hier zu Recht sehr schmerzhaft
+abgwewatscht, weil ich behauptet hatte, so was gäbe es nicht. Nunja, ich hab
+gelernt.
+
+Zur Sache: Sei L = (lambda; m; K) eine formale Sprache, wobei lambda eine
+Funktion ist, die jedem Index i e I die Stellenanzahl lambda(i) des
+Relationszeichens R_i zuordnet, m eine Funktion ist, die jedem Index j e J
+sie Stellenanzahl m(j) des Funktionszeichens f_j zuordnet und jedes k e K
+der Index eines Konstantensymbols c_k ist. Dann ist M eine L-Struktur:
+
+M = < |M| ; R_i_M ; f_j_M ; c_k_M >
+
+wobei die nicht-leere Menge |M| der Individuenbereich von M, R_i_M eine
+lambda(i)-stellige Relation, f_j_M eine m(j)-stellige Funktion und c_k_M
+ein festes Element ist, jeweils auf bzw. aus ganz |M| und für jedes i,j,k,
+wie oben. Zudem sei card(|K|) > Aleph_0, und es gilt card(|K|) <= card(|L|).
+
+Die Definition von M sagt bisher nichts darüber aus, dass für alle m != n
+auch gilt c_k_m_M != c_k_n_M. Das ist es aber, was Du axiomatisch fordern
+möchtest. Wie könnte man das jetzt bewerkstelligen? Wenn wir über M reden,
+wie hier, tun wir das in der *Metasprache*, also packen wir es auch da rein.
+Aber hier nochmal meine Explikation meiner ursprünglichen Aussage:
+
+MK> Das abwärts-LST besagt, dass jede *einstufige* Theorie, die ein Modell
+MK> beliebiger unendlicher Kardinalität k besitzt, auch eines jeder
+MK> unendlichen Kardinalität k' besitzt, mit k' <= k.
+
+Die Hervorhebung hab ich erst jetzt eingefügt. Wenn man Dein Axiom
+hinzufügen wollte, würde die Theorie die Eigenschaft verlieren, einstufig zu
+sein. Prima, dann wird vielleicht das LST ausgehebelt, aber dafür bekommen
+wir andere spassige Probleme, wie etwa Alshuts Menge aller sich nicht selbst
+enthaltenden Mengen, oder ihre Analoga, je nach Sprache. Solltest Du die
+Trennung zwischen Theorie und Meta-Theorie jedoch aufrecht erhalten wollen,
+dann würdest Du es nicht der Theorie, sondern ihrer Meta-Theorie hinzufügen
+wollen. Was wäre aber damit gweonnen? Die ursprüngliche Theorie hat sich
+nicht geändert, über alles, wovon sie redet, sagt sie dasselbe wie zuvor,
+und es sind keine neuen Wahrheiten dazugekommen. Warum aber sollte man dann
+dieses Axiom überhaupt einführen wollen? Doch nur, damit man den eindeutigen
+Bezug retten kann, aber das gleicht eher einem verzweifelten Ruf "Ich will
+aber, dass der Bezug eindeutig ist!".
+
+
+non sequitur. Richtig ist:
+
+Da die Indexmenge I (bei mir oben K) ueberabz�hlbar ist, muss es, sofern es
+überhaupt eine Interpretation gibt, auch eine ueber-abzählbare geben, was
+nicht ausschließt, dass es auch abzählbare Interpretationen gibt, und Das
+LST besagt, dass das sogar immer der Fall ist.
+
+
+Doch, i und j. Die müsstest Du noch binden. Vielleicht so (ich nehme m und
+n, statt i und j, wg. oben):
+
+   Amn: m != n -> c_k_m_M != c_k_n_M.
+
+Aber das gehört zu Meta-Sprache.
+
+
+Christoph.

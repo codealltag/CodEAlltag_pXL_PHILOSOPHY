@@ -1,0 +1,24 @@
+Definition:
+
+Ausschnitte, die einer Regel folgen, heissen zeitlich symmetrisch. 
+Ausschnitte, in denen die Regel wechselt oder völlig abbricht, bzw. 
+Ausschnitte, in denen es überhaupt keine Regel gibt, nenne ich zeitlich 
+asymmetrisch. Den Punkt, an dem die Regel wechselt, nenne ich Zeitpunkt 
+der Asymmetrie. Komplizierte Folgen haben praktisch in jeder Ziffer eine 
+zeitliche Asymmetrie.
+
+Die entscheidende Frage ist: Wie gross ist dann die Gefahr, dass die 
+Regel schon bei der nächsten Ziffer zusammenbricht? Kann ich darauf 
+hoffen, dass die Regel wenigstens bei der folgenden Ziffer noch gültig 
+ist? -Dies ist der eigentliche Induktionschluss. Im folgenden zeige ich, 
+dass der Induktionsschluss auf die nächste Zukunft mit einiger 
+Sicherheit tatsächlich erlaubt ist.
+
+Das ist IMHO ziemlicher Unsinn, Zeit gibt es nicht, es ist ein 
+gedankliches Konstrukt, welches immer dort auftaucht, wo konstante 
+Geschwindigkeiten, immer wieder wiederkehrende Ereignisse und 
+Teilbarkeit (von Längen, Takten) im Spiel ist. Symmetrie, Asymmetrie, 
+was soll das sein?
+
+
+Gru/3 Patrik Hänssel

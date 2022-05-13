@@ -1,0 +1,26 @@
+Dade I, Octidi de Prairial de l'Anne 205 de la Rövolution
+
+
+Sie ist so notwendig, wie die Ausdrückbarkeit durch Worte, i.e. mehr
+eine logische Konsequenz daraus, dass die Theorie empirischen Gehalt
+haben soll, als eine Voraussetzung. Zur Bewertung der Theorie selbst
+taugt es aber nicht, da der empirische Gehalt genau so wenig wie die
+Bedeutung der Worte, die dazu dienen, sie zu formulieren, in der
+Theorie selbst liegt, sondern in der Theorie externen Konventionen
+seitens ihrer Anwender.
+
+Außer zur polemischen Abgrenzung taugt die Fallibilit�tsforderung zu
+nichts. Damit ist sie unfruchtbar, was sie nach Holborns eigenen Worten
+irrelevant macht.
+
+
+Das war doch gerade der Punkt: die Empirie sprach in dem zitierten
+Fall ganz klar gegen Opperer, und er hat so lange an seiner "schönen"
+Theorie festgehalten, bis die Experimentatoren ihr Experimente endlich
+richtig gemacht haben.
+
+-- 
+#!/bin/sh
+for x in 0 100 200 300 400 500 600 700 800 900; do
+for y in 0 100 200 300 400 500 600; do xeyes -geometry 100x100+$x+$y &
+done; done

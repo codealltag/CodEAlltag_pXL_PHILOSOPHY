@@ -1,0 +1,26 @@
+Viele solcher Sätze kann man anders darstellen, indem man das
+Pronomen durch den Satz ersetzt und ihn in Anführungszeichen
+schreiibt. Dann würde der Satz oben also zu:
+
+  '"Dieser Satz hat fünf Wörter" hat fünf Wörter.'
+
+So wird klar, dass das eine der Satz selbst und das andere seine
+Darstellung ist.
+
+
+Der Ansatz klappt aber nicht allgemein. Probier das mal mit
+"Dieser Satz ist selbstbezüglich".
+
+'"Dieser Satz ist selbstbezüglich" ist selbstbezüglich' drückt
+etwas anderes als der Originalsatz aus.
+
+(Man kann frei nach Schimich zu zeigen versuchen, dass das nicht
+ allgemein klappen kann: [this sentence] yields falsehood when
+ preceded by its own quotation...)
+
+In der Logik ist auf jeden Fall möglich, Sätze zu bauen, die
+sich auf sich selbst beziehen. Insbesondere die Modallogik
+schlägt sich mit Selbstbezüglichkeit rum.
+
+Ein Beispiel wäre  p : Bp -> B~p
+   Simon

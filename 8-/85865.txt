@@ -1,0 +1,23 @@
+Man muß in dieser Diskussion unterscheiden zwischen dem,
+was heute geht und dem, was in absehbarer Zeit machbar ist.
+Unbestreitbar dürfte sein, daß wir bzw. unsere Nachkommen in 
+ein paar hundert Jahren gewaltige Rechenleistung zur
+Verfügung haben.
+
+Da ein Computerprogramm über das informiert wird, was es
+selbst gerade tut, ist nicht schwer zu implementieren.
+Es könnte seine Executable auslesen.
+
+Auf so niedriger Ebene ist dies wohl ungefähr so sinnvoll,
+wie wenn wir unsere Neuronen beim Denken beobachten.
+
+Ein Programm kann seine geplanten Ziele (Listen von Symbolen)
+vor der Abarbeitung in eine Liste schreiben und, evtl. von
+einem anderen Thread aus, diese Liste analysieren.
+
+Stell Dir eine Waschmaschine mit Display vor: warum sollte sie
+nicht sagen: "Gerade bin ich dabei, Wasser einzulassen.
+Danach werde ich es heizen."?
+
+Größe,
+Fridolin

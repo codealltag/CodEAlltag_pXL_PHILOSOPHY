@@ -1,0 +1,29 @@
+Luigi Walstra schrieb
+
+
+Nein, zumindest in der wichtigsten Sprache C(++) bedeuten
+
+ &a = Adresse der Speicherzelle a (Adressoperator)
+
+ *a = Inhalt der Speicherzelle a (Dereferenzierungsoperator)
+
+und deshalb würde jeder Schreibversuch auf eine Speicheradresse
+
+  &a = x  (Zuweisungsoperator)
+
+zu einer Fehlerausgabe führen (es handelt sich ja dabei letztlich
+um Hardware). Maschinenadressen sind also read-only.
+
+Allerdings kann man ad infinitum eine Maschinenadressen
+als eine Variable in einer Speicherzelle halten, so daß
+
+  b = &a (Zuweisungsoperator) ein übliches Statement ist,
+
+wonach b die Maschinenadresse der a zugewiesenen
+Speicherzelle enthält. Mächte man dann den Wert
+in der Speicherzelle erfahren, muss man die Adresse
+in der Variablen b dereferenzieren:
+
+  x = *b;
+
+--

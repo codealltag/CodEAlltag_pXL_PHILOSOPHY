@@ -1,0 +1,45 @@
+Hallo Serge,
+
+
+wenn Du den Ausdruck
+
+   lim  a(x)
+   x->0
+
+siehst, wobei a eine beliebige Funktion mit Definitionsbereich IR ist
+(Im Moment möchte ich mit dieser Einschränkung leben), dann heisst das
+nichts anderes als:
+
+Grenzwert der Folge a(b_n), wobei (b_n) eine Nullfolge ist, deren
+Glieder alle von 0 verschieden sind ((1/n) ist beispielsweise so eine
+Nullfolge).
+
+Man bekommt also eine neue Folge, deren Grenzwert durch "lim"
+ausgedrückt wird. Da das aber eine schrecklich lange Beschreibung ist,
+schreibt man statt dessen einfach
+
+   lim  a(x)
+   x->0
+
+(es lebe "Copy & Paste").
+
+Der Ausdruck  lim
+              1->0
+
+ist ein Widerspruch in sich, da die Folge (1,1,...) _keine_ Nullfolge
+ist.
+
+Ob aber z.B.
+
+   lim   1/x
+   x->0
+
+existiert, hängt von der verwendeten Metrik ab. In der euklidischen
+Metrik in IR existiert er nicht.
+
+Wolf
+
+-- 
+ Wolf Vondermaßen            Irmerstraße 8-0     Escherichgasse 77u
+ UTK GmbH  12454 Jägerkrug          24752 Balesfeld
+ http://mut.gpkdwi-bsevhh.jg  +93-(2)367-34566-7  +31-(7)28-0202648

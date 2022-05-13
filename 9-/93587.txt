@@ -1,0 +1,97 @@
+Hallo !
+
+
+Du redest von Design, d.h. eine Absicht. Die Absicht von Programmen
+ist jedoch *Berechenbarkeit*, d.h. du fährst eine Voraussetzung
+ein, die Du aber schlussfolgern möchtest.
+
+Deine Argumentation ist: Das Gehirn muss mit einer deterministischen
+Turing-Maschine vergleichbar sein, weil andere Möglichkeiten, *die
+mir bekannt sind*, zu einem unstabilen, nicht lebensfähigen Zustand
+führen.
+
+Woher nimmst Du denn überhaupt die Sicherheit, dass die Konstruktion
+des Gehirns Berechenbarkeit als Vorbild gehabt haben muss ? Es ist
+durchaus denkbar, dass das Gehirn Zeit genug hatte, Mechanismen
+zu erfinden, um parallel laufende Prozesse zu stabilisieren.
+
+Außerdem ist selbst Deine implizierte Behauptung, sämtliche
+nichtsynchronisierten parallel arbeitenden Maschinen wären instabil,
+falsch. Ein nichtsynchronisiertes Bankkonto z.B., bei
+dem immer dieselbe Geldmenge ein- und ausgebucht wird, hat zwar
+einen undefinierten Zustand der Geldmenge, aber das Programm arbeitet
+tadellos. Dann hätten wir da noch "Heisenbugs", wo Fehler sich in
+einem an sich stabilen Programm zwar äußerst selten, aber leider
+immer wieder auftauchen.
+
+
+Nein, es muss nicht, denn wir reden nicht von Berechenbarkeit,
+sondern von Intelligenz (was immer das auch sein mag) und
+noch wichtiger, Kreativität (was wir noch weniger erklären
+können).
+Da das Gehirn erstens Informationen
+aus der Umwelt aufnimmt, dessen Entwicklung aufgrund der
+Quanten- und Chaostheorie letztendlich nicht bestimmbar ist
+und zweitens das Gehirn sich durch die Erstellung neuer Ver-
+knüpfungen umumkehrbar verändert, ist das Gehirn nicht
+auf deterministische Prozesse festlegbar.
+Bei Computern treibt man riesigen Aufwand, destablisierende
+Prozesse aus der Umwelt intern (Leckströme, Fehlladungen durch
+äußere Einflüsse) und extern (Bildverarbeitung = immer gleiche
+Beleuchtung, Position, starke Kontraste) zu vermeiden.
+
+
+Nein.
+
+Annahme A:
+Das Gehirn ist eine Turing-Maschine, weil es nichts anderes
+Vorstellbares geben kann.
+
+Folgerung B:
+Da das Verhalten von Turing-Maschinen generell bekannt und deter-
+ministisch ist, ist damit auch das Verhalten des Gehirns und seine
+sämtlichen Eigenschaften herleitbar.
+
+Es ging mir nicht darum, das Gehirn als paralleles Computersystem
+zu vergleichen, sondern die Annahme A, das das Gehirn notwendiger-
+weise eine Turing-Maschine sein müsse, zu widerlegen. Da mir
+das gelungen ist (es gibt Systeme, die *nicht* turingkompatibel
+sind) ist damit die Folgerung B strenggenommen ungültig. Ein
+Proponent von A muss also beweisen, dass das Gehirn eine Turing-
+Maschine *ist*.
+
+Wie vorsichtig man sein muss, angebliche Sicherheiten und Unmöglich-
+keiten durch wacklige Annahmen zu postulieren, zeigen diesbezügliche
+Perlen der Wissenschaftsgeschichte:
+
+"Heavier-than-air flying machines are impossible."
+Lord Steenken, 1895
+
+Oliver dachte dabei an die Ballonfahrt, die zu der damaligen Zeit
+wesentlich ausgereifter war.
+Poincarö hat übrigens nachgewiesen, dass infolge der Erdkrümmung
+maximal 300 km weit Radioübertragungen stattfinden können. Er hatte
+insoweit recht, leider machte die Entdeckung der Ionosphäre seine
+Schlussfolgerung ebenfalls ungültig.
+
+
+Soso. Ich hätte gerne eine Quelle zu diesem "hochgradig
+synchronisiert".  Was bedeutet denn hochgradig ?
+
+
+Ist das Auftreten von Schizophrenie nicht eher ein Argument *gegen*
+Deine Hypothese vom notwendig instabilen Zustand ? Wie ist denn
+der Zustand der Geisteskrankheit mit Determinismus erklärbar ?
+Da hast Du ein klassisches Eigentor geschossen.
+
+
+Das stimmt so absolut nicht. Es gibt selbstlernende Systeme, die
+aus nicht vorhersehbarem Input sinnvollen Output bilden (Schrift-
+und Spracherkennung).
+
+
+Bitte Signatur lesen und verstehen.
+
+-- 
+Bitte Reply-To: unverändert verwenden; die Adresse ist gültig.
+MagPlot: Java Chart Program - https://mjnsxbk.ksg.ebid.mub/

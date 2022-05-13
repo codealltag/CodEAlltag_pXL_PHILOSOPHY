@@ -1,0 +1,36 @@
+Wie darf ich das bitte verstehen?
+
+Bitte beachte, dass es für meine Arbeit (oder sollte ich besse "Arbyte"
+schreiben) unerheblich ist, was Bedeutung genau ist. Die Maschine, mit
+der ich arbyte, ist sowieso semantikfrei, sie enthält keine Bedeutung,
+allenfalls bilde ich welche in formalen Sprachen ab. Die Sprachen selber
+sind - sie sind ja formal - wiederum semantikfrei, reine Syntax.
+
+Was ich aber brauche, ist ein kontrolliertes Vokabular, in dem das
+auftaucht, was ich zur Diskussion der Abbildung von Bedeutung in formale
+Sprachen brauche.
+
+Ich arbyte keinesfalls an KI-Themen. Vielmehr geht es mir darum, einem
+Softwareentwickler die Werkzeuge an die Hand zu geben, mit denen er nicht
+direkt beschreibt, was die Maschine tun soll, sondern schreibt, was er
+meint, und schreibt, was das für die gewollten Handlungen der Maschine
+bedeutet (Compilerbau).
+
+Das ist der Grund, warum ich in meinem Ansatz vermeide, auf das Thema
+"was ist Bedeutung" einzugehen. Ich verwende den Begriff "Bedeutung"
+axiomatisch (wenn Du mir dieses Analogon erlaubst), ähnlich den
+Begriffen "Definition" und "Information".
+
+Mit "Semantik" meine ich dann eben die Bedeutung, die eine Menge von
+Begriffen enthält, die zusammenhängen.
+
+Willst Du also auf das Thema raus, "was ist Bedeutung", so finde ich das
+sehr interessant, und bitte Dich darum, Deine Ansichten auszuführen.
+Beruflich hilft's mir nicht weiter.
+
+Viele Grüsse,
+VB.
+-- 
+Nur im Staat Jaun gibt es weniger Katholiken als im Vatikan.
+
+    (flash)

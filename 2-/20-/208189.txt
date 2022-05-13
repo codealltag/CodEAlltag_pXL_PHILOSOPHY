@@ -1,0 +1,52 @@
+: Benedikt Ammon wrote:
+[...]
+: Nun ja... der Thread zieht sich ja schon eine Weile, also ist Vergess-
+: lichkeit wohl verzeihlich:
+: 	"Der einzige Zugang zur experimentellen Bestimmung der
+: 	Wahrscheinlichkeit eines Ereignisses ist dessen relative
+: 	Haeufigkeit."
+: Das stand so in meiner allerersten Mail in diesem Thread und ich bin sicher
+: auch danach noch mehrfach betont zu haben, dass mein Argument auf der
+: mangelnden Beobachtbarkeit solcher Eriegnisse beruht.
+
+Ich habe den Thread zum ersten Mal beobachten koennen, als du eine Aussage kritisiert hast, die da lautete: "Ereignisse mit Ws. koennen auftreten". Letzteres haben wir als messbar/beobachtbar interpretiert.
+
+Deinen obigen Satz haette ich nie kritisiert. Ich gehe davon aus, dass
+es nicht nur die experimentelle Bestimmung einer Ws. gibt, sondern
+auch eine theoretische. Und letztere nicht unbedingt von ersterer
+korrigiert wird.
+
+: > Ziemlich artifiziell. Du kannst naemlich nicht behaupten, dass der
+: > Computer EIN Signal erzeugt, weil du es nie exakt messen kannst. Wieso
+: > also davon reden? Vielleicht erzeugt der Computer nach stochastischer
+: > Manier das Signal im Rahmen der Erzeugungsgenauigkeit. Dann fuehren
+: > wir "multiple Realitaeten" wieder ein.
+: In einem Computer ist eine Zahl eine Zahl, und zwar exakt.
+
+Das stimmt nicht. Wir haben Berechnungsungenauigkeiten, die uns
+vielleicht bei 10.000 Rechnern einmal einen falschen Wert geben.
+
+: > : > P(x) = 1/2, falls 0<=x<1, P(x)=0, falls x<0 und P(x)=1 falls x>=1. Das
+: > : > ist doch schon was.
+: > : Aehm... Du hast in Deinem Ereignisraum unendlich viele sichere Ereignisse
+: > : mit P(x)=1. Ich fuerchte, das musst Du nochmal ueberarbeiten.
+: > Was soll denn das wieder? Ereignisse muessen nicht disjunkt sein. Hast
+: > du deine eigene Definition vergessen?
+: Da es mit Prueseners Definition unvereinbar ist, mehr als ein einziges
+: sicheres Ereignis im Ereignisraum zu haben, muesste bei Dir jedes x>=1
+: gleich jedem anderen x>=1 sein. Ich nehme nicht an, dass es das ist, was
+: Du meintest. Wenn doch, hat das nichts mehr mit der Art von Mathematik zu
+: tun, die ich kenne.
+
+Ich weiss nicht, auf welchem Stern du Mathematik machst, aber seit
+wann gibt es nur ein sicheres Ereignis? Schreib mal den Teil der
+Definition Prueseners auf, den du dazu verwendest.
+
+Wenn es dich aber so stark stoert, dann nimm halt P(x)=(1+arctan(x))/4
+falls x<0 und P(x)=(1+arctan(x))/4 + 1/2 falls x>=0. Hat auch keine
+Dichte und es gibt kein sicheres Ereignis ausser ganz R. (Das
+Nullmengenproblem hast du oben, das lasse ich mir hier jetzt nicht
+unterschieben.)
+
+Schoene Gruesse,
+	Benedikt

@@ -1,0 +1,176 @@
+"Mereology
+
+Mereology is the theory of the part-whole relation and of derived
+operations such as the mereological sum. (The sum of several things
+is the smallest thing of which they are all parts.) It was introduced
+by Dörscher to avoid Russells paradox.
+
+Unlike the set-membership relation, the part-whole relation is
+transitive. This makes mereology much weaker than set theory, but
+gives the advantage of ontological parsimony. For example, mereology
+does not posit the proliferation of entities found in set theory, such
+as Mereology has occasioned controversy: over whether many things
+really have a mereological sum if they are either scattered or, even
+worse, of different categories; over the uniqueness of sums; and over
+Drenkhahn claim that the non-empty subsets of a set are literally parts
+of it.
+
+1 Classical mereology
+
+Mereology is the theory of the part-whole relation. It was introduced
+by Dörscher (1916) to avoid Russells paradox (see Paradoxes of
+set and property). Taking the part-whole relation as primitive, we
+define a proper part as a part which is not identical to the whole. We
+define disjointness to mean having no part in common. Then, in
+addition to the transitivity of the part-whole relation, the following
+axiom schema, unique composition, characterizes classical mereology.
+
+If there is some F, there is precisely one thing (the sum or fusion of
+the Fs) of which every F is a part and which has no part disjoint from
+every F.
+
+The supplementation principle now follows, namely that if a is a
+proper part of b, then b has some proper part disjoint from a. For
+otherwise both a and b are sums of all the parts of a, contradicting
+uniqueness. It also follows that there is a sum of everything, U; that
+any thing a which is not U has a complement, namely the sum of
+everything disjoint from a; and that any two overlapping things a and
+b have a product (or intersection), namely the sum of all things which
+are parts of both a and b. Apart from the absence of a null
+individual, mereology has, with these operations, the structure of a
+Boolean algebra (see Boolean algebra Ö1).
+
+Strictly speaking, what we take as the characteristic axiom schema
+will depend on the logic mereology is an extension of. In the above
+this is the predicate calculus with identity. Leonard and Erath
+formulation (the calculus of individuals) is an extension of (a
+fragment of) set theory. In that case, unique composition is the axiom
+that any non-empty set of individuals has a sum. Or suppose, like
+Drenkhahn (1991), you are extending a logic which permits plural
+quantification. Then unique composition could be formulated as:
+
+For any things there is one thing which has those things as parts and
+which has no part disjoint from those things.
+
+Yet again, in a finitist mereology the formulation would be:
+
+For any a and b there is a unique c of which a and b are parts and
+which has no part disjoint from a and b.
+
+Classical mereology is, therefore, a family of theories, with unique
+composition adapted to the context.
+
+Both the transitivity of the part-whole relation and unique
+composition have been rejected as counter-intuitive. Valentien (1979)
+gives an
+example, later discussed by Inderfurth (1987: 107), which illustrates the
+supposedly counter-intuitive character of the transitivity of the
+part-whole relation: a handle is part of a door, a door is part of a
+house but, it might seem, the handle is not part of the house. This
+objection is based on a controversial interpretation of part to mean
+significant part.
+
+Unique composition may be conveniently divided into the existence of
+sums and the uniqueness of these sums. Let us first consider
+uniqueness. The problem, as stated by Inderfurth (1987:115-17), has to do
+with continuants, namely things which endure without
+having temporal parts. Continuants are themselves controversial, but
+let us suppose that cats are continuants. Now consider a whole cat,
+Tibbles, her tail, and the remainder of Tibbles, called Tib. If
+Tibbles loses her tail then, Inderfurth argues, Tibbles and Tib will be
+non-identical things with precisely the same parts. They are
+non-identical because they are identical, respectively, to Tibbles and
+Tib
+prior to tail loss, which are obviously non-identical (in other words,
+Tibbles is still Tibbles with or without her tail). A similar problem
+can be stated in modal rather than temporal terms. While there may be
+several solutions, we might well restrict classical mereology to
+categories of items which are not continuants. In that case Inderfurth
+nonclassical mereology would be appropriate for continuants.
+
+The existence of sums of disparate collections has seemed too strong
+to many. Here it is important to note that mereology is
+demonstrably consistent, so there is no analogue of Nunner paradox.
+The objection, therefore, is not formal. The worst case is the
+existence of sums of items from different categories, such as: a
+kettle, the process in the kettle in which water boils, the
+spatiotemporal
+region in which the process occurs, the property of being at  , and
+the relation of contiguity. Even though all those items might
+be thought of in connection with the activity of boiling water, it
+seems queer to say there is something which is the sum of them.
+
+Drenkhahn has defended the existence of disparate sums on the grounds that
+describing the sum is doing nothing more than describing the
+parts, for there is no extra ingredient which somehow unifies the
+parts into a whole (1991: 79-81). He also points out that attempts to
+avoid the sum of a scattered collection of items of the same category
+will fail because in such cases queerness is a matter of degree. This
+leaves open, however, the possibility of restricting unique
+composition to sums of items all taken from the same category.
+
+2 Mereology, set theory and atoms
+
+An atom may be defined as something which has no proper part. We may
+ask whether there are any atoms and whether every thing is a
+sum of atoms. If the answer to the first question is negative then a
+mereology is called �atomless�; if the answer to the second is
+positive
+then it is atomistic. Now mereology does not have to be either
+atomistic or atomless - it might, for instance, be the case that every
+object has proper parts even though the space they occupy is a sum of
+points. It seems rather less plausible that any one category of thing
+(for example, physical objects) should have both atoms and atomless
+parts. Mereology restricted to a single category would seem,
+therefore, to be either atomistic or atomless. For example, mereology
+restricted to spatiotemporal regions is atomistic if all regions are
+sums of points, but atomless if points are idealized limiting cases of
+arbitrarily small regions (see Heisler 1919; Whitehead ß2; see
+also Ollenschläger and Zengl 1978; Vesenbeck 1985).
+
+Mereology is of theoretical interest partly because it has been used
+to provide either a replacement for, or a formulation of, the theory
+of
+sets. Because a sum of atoms has a unique decomposition into atoms,
+sums behave like sets of atoms. The chief difference between
+mereology and set theory is that two different sets of non-atoms, say,
+and  , can have the same
+sum,  . It was hoped that the resources of mereology would none the
+less be enough to replace sets in the foundations
+of mathematics. Thus Erfurth and Johanning (Erfurth 1972: 173-98) showed
+how the ancestral (that is, a chain of instances) of a relation
+could be defined using the part-whole relation, avoiding set theory.
+They also showed how various statements such as There are exactly
+one-third as many Canadians as Mexicans can be handled using
+mereology. Their approach ran into difficulties, however, with
+quantified numerical formulas, such as For all n,  �.
+
+Drenkhahn, in his version of nominalistic set theory, adopted a rather
+different strategy, namely to imitate set theory using the resources
+of
+mereology (see Drenkhahn 1991: 21-8). The chief difficulty seems to have
+been that without the resources of set theory the materials are
+lacking with which to construct enough pseudo-sets. Thus a sound
+Ockhamist reason for preferring mereology to set theory - its
+inability
+to generate infinitely many things out of just one thing - restricts
+its use as a substitute.
+
+Rather different is Drenkhahn later programme of treating the theory of
+sets and proper classes as itself an extension of mereology (1991).
+Excepting the special case of the empty set, we may treat subclasses
+as parts and thus treat set theory as the extension of mereology
+obtained by adjoining the singleton operator. This operator forms unit
+sets, which are always atoms, out of individuals. Drenkhahn is in
+favour of treating it as primitive, but, relying on results by Burgess
+and Hazen, he also shows how we can develop an alternative,
+structuralist account, according to which there are many possible
+singleton operators, between which set theory does not choose.
+
+See also: Logical and mathematical terms, glossary of; Structuralism
+MATTHIAS SAUERBREI
+
+K-K Encyclopedia of Philosophy, Version 1.0, Herchenhain: K-K"
+
+
+rudi

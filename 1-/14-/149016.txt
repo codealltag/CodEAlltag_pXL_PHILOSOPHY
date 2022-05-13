@@ -1,0 +1,69 @@
+On Mon, 24 Aug 2001 06:18:31 +0200, Achim Imhäuser
+
+Man kann die reellen Zahlen nicht als _Durchschnitt_ von Folgen
+verschachtelter rationaler Intervalle mit Laenge->0 definieren
+(rationale Intervallschachtelungen), weil ein solcher Durchschnitt ja
+leer waere, wenn die Folge _keine_ rationale Zahl "in die Mitte
+nimmt", also wenn es keine rationale Zahl gibt, die in allen [a_n,b_n]
+als Element enthalten ist. Und genau diese Intervallschachtelungen mit
+(in Q) leerem Durchschnitt sind/werden die irrationalen Zahlen.
+
+Man definiert die reellen Zahlen als "die rationalen
+Intervallschachtelungen persoenlich" - wobei man vorher zusaetzlich
+solche Intervallfolgen zu einem Objekt zusammenfassen muss
+(Aequivalenzklasse) die "dasselbe leisten".
+
+Zwei Intervallschachtelungen ([a_n,b_n]) und ([a_n',b_n']) definiert
+man als aequivalent, wenn lim |a_n-a_n'| = 0. Daraus folgt automatisch
+wegen lim b_n-a_n = lim b_n'-a_n'=0 auch lim |b_n'-b_n|=0.
+
+Eine reelle Zahl wird dann definiert als "Klasse zueinander
+aequivalenten Intervallschachtelungen".
+
+
+Dies gilt bei endlichen vielen Intervallen.
+
+
+Das "bilden" eines Durchschnitts ist nur sprachlich als "Aktion"
+formuliert. Er ist aber keine Aktion. DER DURCHSCHNITT einer Familie
+von Mengen ist definiert als die Menge derjenigen Dinge, die in
+_jedem_ Mitglied der Familie als Element enthalten ist. Der
+Durchschnitt _ist_ also. Er wird nicht _gebildet_. Auch wenn ich die
+Mitglieder der Mengenfamilie nicht persoenlich kenne, gilt fuer jedes
+beliebige x : entweder ist x Element eines Mitglieds, oder x ist nicht
+Element eines Mitglieds. Dies ist die Auffassung "der Mengenlehre".
+
+
+Weil es bei unendlich vielen verschachtelten Intervallen kein
+"kleinstes" geben muss.
+
+
+Nein.
+
+
+Nein. Das Intervall [0,0], d.h. die Menge {0}, ist nicht Element der
+Folge [-1/n,1/n],n=1,2,3,.... Trotzdem ist 0 die einzige Zahl, die in
+allen Intervallen der obigen Form als Element enthalten ist. Daher ist
+{0}=[0,0] "der Durchschnitt" der Elemente der Folge [-1/n,1/n].
+
+
+Weil es ueberabzaehlbar viele Folgen rationaler Zahlen gibt ?
+
+
+Definiere bitte "Teilfolge".
+
+Falls Du mit "Teilfolge" unendliche Teilfolgen meinst - nein. Wenn
+eine Folge x eine reelle Zahl definiert, definiert jede unendliche
+Teilfolge von x genau dieselbe reelle Zahl. Wenn Du mit "Teilfolge"
+endliche Teilfolgen, also "Anfangsstuecke" endliche Laenge meinst -
+natuerlich.
+
+
+Es gibt nur abzaehlbar viele rationale Zahlen, es gibt aber (in
+unserer Mathematik) ueberabzaelbar viele Folgen rationaler Zahlen.
+Es gibt auch nur abzaehlbar viele Elemente in der Menge {0,1}. Es gibt
+aber (in unserer Mathematik) ueberabzahlbar viele Folgen, die aus
+Nullen und Einsen bestehen.
+
+MfG
+Oliver

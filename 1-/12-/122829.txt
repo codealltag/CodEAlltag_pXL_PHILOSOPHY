@@ -1,0 +1,27 @@
+Hallo Franca,
+
+
+Beim Entwickeln oder Analysieren von Elektronik-Schaltungen taucht oft das
+verwirrende Problem auf, dass die Information in eine andere Richtung als die
+Energie oder der Strom fliesst.
+Man kann eine Information ja auch übermitteln, indem man einen
+Verbraucher ein- und ausschaltet.
+
+Deshalb habe ich mir angewöhnt, Information nicht als Energieströmung,
+sondern als einen Ursache-Wirkungsstrom anzusehen, wobei die Ursache
+_streng_ zeitlich vor der Wirkung liegt.
+
+Diese Vorstellung löst so manchen Denkknoten auf.
+
+Zum übermitteln von Information braucht man stets Energie und der
+Datenfluss hat auch meisst die gleiche Richtung wie der Energiefluss, es
+muss jedoch nicht so sein.
+
+Schöne Grösse,
+
+Eduard
+
+
+-- 
+Reality is _not_ an elephant.
+For a start, it's a rainbow.

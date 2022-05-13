@@ -1,0 +1,35 @@
+Das ergibt sich aus der Sprachbedeutung von "Es gibt".
+
+
+Ich glaube hier liegt ein Missverstaendnis vor. In der Metasprache wird
+gesagt, wann etwas ein Modell ist. Es wird nicht gesagt, dass die Modelle
+aus Zeichen der Metasprache bestehen.
+
+   I|=(Ex)(phi) :gdw es gibt ein a aus A mit I(a/x)|=phi    (*)
+
+dann ist in dieser Definition das "a" selbst ein metasprachlicher Term,
+welcher fuer ein Ding steht. Die Unterscheidung von Meta- und Objekt-
+sprache wird deshalb vorgenommen, um in der Metasprache diesen Sachver-
+halt auszudruecken. Wie sonst sollte man obigen Sachverhalt
+allgemein ausdruechen koennen? Wenn ich im Radio das Ergebnis eines
+Fussballspiels erfahre, etwa das Mannschaft X gegen Mannschaft Y im
+Ergebnis 1:0 gespielt hat, dann kann ich folgendes in eine kanonische
+Notation bringen:
+
+(Ex)(x\in X & x schoss in das Tor von Y).   (**)
+
+Meine Traegermenge ist nun nur aus den Fussballern gegeben.
+Sei also A die Menge der Fussballer in diesem Spiel. Wenn ich nun gemaess
+(*) den Satz (**) interpretiere und sage: "Es gibt ein a aus A, so dass
+a eingesetzt in x den Satz phi erfuellt", meine ich dann, dass das Zeichen
+a das Tor geschossen hat, oder meine ich, dass es ein Fussballer war, der
+das geleistet hat?
+
+Die Unterscheidung zwischen Objekt- und Metasprache ist ein Hilfsmittel,
+um die Intention der Interpretation sprachlich darzustellen. Das man
+nun annimmt, dass es dann nur Zeichen sind, um die es geht, ist eine
+Verwechselung.
+
+
+Gruss Udo
+--

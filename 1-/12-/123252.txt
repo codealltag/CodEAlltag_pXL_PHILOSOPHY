@@ -1,0 +1,13 @@
+Karsten Jahrling <dwr52@dks.fr> writes:
+[...]
+
+Warum? Korrelierte Zufallsvarariablen müssen nicht dieselbe Verteilung
+haben. Nimm etwa für einen W-Raum (S,A,P) und zwei disjunkte
+("unvereinbare") Ereignisse B und C mit P(B)>0, P(C)>0 und P(B)!=P(C)
+die Indikatorvariablen 1_B und 1_C als Beispiele. Dann ist
+Cov(1_B,1_C)= E(1_B 1_C)- E(1_B) E(1_C)=-P(B) P(C)!=0. Die beiden
+Zufallsvariablen sind also korreliert, die Bildmaße aber verschieden,
+es gilt ja offenbar 1_B(P)!=1_C(P).
+
+
+giorgio

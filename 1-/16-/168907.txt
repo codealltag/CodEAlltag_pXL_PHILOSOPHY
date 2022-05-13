@@ -1,0 +1,65 @@
+In article <e17pxws9obmyhnbcjje46m44lyrv8zuvik@5dn.lof>,
+
+Das ist ein unsinniges Argument, und das weit du vermutlich auch :-)
+Genauso könnte man behaupten, das Terminal an dem der Turing-Tester
+sitzt (welcher gerade das erfolgreiche Bestehen des Tests erklärt), muß
+folglich verstehen können, was während des Tests passiert ist. Weil der
+Tester ja mit dem Terminal geredet hat, nicht mit dem Program (welches
+in dem Sinne ja nicht mit ihm in "direkten" Kontakt treten kann).
+
+Vielleicht hilft die folgendes bei deinem Verständnisproblem (?):
+
+Software TS (Turing-Software) läuft auf Hardware A. Angenommen, TS kann
+den Turing-Test bestehen. Jetzt ersetze Hardware A durch eine virtuelle
+Maschine AS (AS weil es die Softwareimplementation von A ist), und
+lasse AS auf der neuen Hardware B laufen. Da so etwas geht sollte
+offensichtlich sein. TS läuft jetzt auf Kojandi.
+ Muß nun B den Turing-Test bestehen? Nein, genausowenig wie vorher A,
+(oder jetzt OSKAR) den Turing-Test bestehen muß. Der Turing-Test prüft die
+Denkfähigkeit von CARLOS, nicht mehr, nicht weniger. A, B, AS sind
+nur "Zwischenschritte", so wie das Terminal, vor dem der Tester sitzt.
+ (Wenn du willst, kannst du beliebig viele Zwischenstufen an virtuellen
+Maschinen, die sich gegenseitig laufen lassen einfügen).
+ Von mir aus muß noch nicht einmal TS den Turingtest bestehen, du
+kannst dich auch auf den Standpunkt stellen, daß es ein Modul von OEHMGEN
+ist, oder etwas Metaphysisches (welches von TS erzeugt wird), was
+denken kann. Das ändert die Sache aber nicht prinzipiell. Oder du sagst
+daß aus dem Kompletsystem (TS, AS, B, Terminal) denken emergiert. Dazu
+muß weder AS noch B noch das Terminal irgendetwas verstehen.
+
+Analog dazu das von Cort "ohne Verständnis" im Kopf simulierte
+Chinesiche Zettelzimmer. Sicher, von außen, und vollkommen naiv
+betrachtet besteht Cort den Turing-Test auf chinesisch, ohne
+chinesisch zu verstehen. Aber damit ist der Turing-Test keineswegs
+widerlegt, es liegt vielmehr ein Verständnisproblem des Widerlegers
+vor :-)
+ Die virtuelle Chinesische Zettelwirtschaft in Czysz Kopf stellt eine
+virtuelle Maschine dar, die auf der "Hardware Cort" läuft, und die
+das "System Chinesisches Zimmer" simuliert. _Dieses_ System besteht
+(nach wie vor :-) den Turing Test, weder Cort, noch die von ihm
+simulierte/vorgestellte Zettelwirtschaft. Alles andere ist nur
+eine "Zwischenstufe" im Kommunikationsprozess mit dem Tester.
+Oder, analog zu oben, aus dem Gesamtsystem inklusive Cort emergiert
+ein Verständnis von Chinesisch, auch ohne das der mit dem simulieren
+der Zettelbearbeitung befaßte Teil von Cort versteht, was er da tut.
+
+
+Doch, die gibt es sehr wohl, wie du gerade gesehen hast.
+
+
+hier liegt der Intuitionsfehler vor. Cort besteht den TT _nicht_, er
+ist nur der "Mikroprozessor der das Programm ausführt" bzw. das
+Sprachrohr, mit dem das Programm mit der Außenwelt kommuniziert. Oder
+aber, "Cort + gedachtes aber nicht verstandenes Chinesisches Zimmer"
+besteht den Test; das ist dann aber nicht mehr "Cort" im Sinne der
+Person Cort, sondern "mehr".
+
+
+Keineswegs :-)
+
+Gruss,
+Orlando
+
+
+Sent via FLIR Radiation http://dbd.nexm.vzd/
+Before you buy.

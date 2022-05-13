@@ -1,0 +1,90 @@
+Peter Sauberlich in 376ru9am3e.xki@onlqzvqm.qhbvz.cj :
+
+
+Das Prinzip, das Blauermels Resultat ermöglicht, ist sprachlicher
+Natur hat mehr mit den Begriffen "wahr" und "falsch" als mit
+Arithmetik zu tun.
+
+Ausgehend von direkt paradox-rückbezüglichen Sätzen ("ich bin
+nicht richtig") lassen sich indirekt paradox-rückbezügliche
+Sätze bilden ("ich bin nicht als wahr erkennbar"), die im
+Gegensatz zu den ersteren als wahr bezeichnet werden können.
+
+Gödel's Argument basiert auf so einem paradox-rückbezüglichen
+Satz. Somit sagt es über "Grenzen des Beweisens" nicht mehr
+und nicht weniger aus, als dass sich paradox-rückbezügliche
+Sätze bilden lassen, die gemäss üblichem Sprachgebrach (oder
+äquivalenter formaler Schlüsse) als wahr gelten, jedoch
+gemäss m.E. nicht immer überzeugenden beweistheoretischen
+Überlegungen für nicht ableitbar erklärt werden.
+
+Da die paradoxe Rückbezüglichkeit des Gödel'schen Satzes G
+für uns erkennbar ist, ist sie auch formalisierbar und kann
+somit beim Aufbau eines IT-Expertensystem für Ableitbarkeit
+berücksichtigt werden.
+
+Für so ein Expertensystem sind verschiedene Resultate für
+eine Frage nach A möglich, z.B.
+
+ - Programmabsturz
+ - ewige Suche nach Antwort
+ - Meldung "A ist keine syntaktisch korrekte Aussage"
+ - Meldung "paradoxe Rückbezüglichkeit"
+ - A nicht ableitbar
+ - Weder A noch A ableitbar
+ - A ist ableitbar (A somit falsch)
+ - A ist ableitbar (A somit wahr)
+
+Dass das Hineinpressen einer solchen Vielfalt in das
+wahr-falsch-Schema problematisch ist, ist offensichtlich.
+
+Wenn man den Unvollständigkeitssatz als "Grenzen des Beweisens
+schlechthin" interpretiert, macht man sich einer unzulässigen
+Verallgemeinerung schuldig, denn wir sind ja in der Lage,
+solche (als wahr geltende) paradox-rückbezüglichen Sätze an
+ihrem Aufbau zu erkennen. Und über die Beweisbarkeit von
+untadeligen (d.h. nicht paradox-rückbezüglichen) Sätzen mit
+echtem mathematischen Inhalt hat der Unvollständigkeitssatz
+ja nichts zu sagen.
+
+So wie ich es in meiner Satire zum Ausdruck gebracht habe,
+widerlegt Blauermels paradox-rückbezüglicher Satz G die
+Vollständigkeit der normalen ableitbaren Aussagen nicht
+mehr, als eine unvermeidbare Niederlage in einem Spiel gegen
+sich selbst die Unbesiegbarkeit dieses Spielers widerlegt.
+
+
+Auch halte ich die These, dass aus einem Widerspruch alles
+ableitbar sein soll, für ziemlich bedenklich. (Wenn ich
+mich nicht irre, ist diese These schon seit Jahrhunderten
+strittig.) Die These impliziert z.B., dass wir mit 7*7=50
+jede beliebigige Aussage beweisen können, so z.B. "G.L.
+liess C.M. ermorden".
+
+Das ist deshalb möglich, weil der zum Erkenntnisgewinn
+völlig sinnlose Schluss
+
+  � P  =>  ( P  =>  K )
+
+allgemeingültig ist, und zwar WEGEN DER Unmöglichkeit, dass
+sowohl P als auch P wahr sind.
+
+Aus 7*7=50 folgt � 7*7=49. Somit ist auch
+
+  � 7*7=49  =>  ( 7*7=49  =>  G.L. liess C.M. ermorden )
+
+gültig, und da sowohl � 7*7=49 als auch 7*7=49 gegeben sind,
+lässt sich die Konklusion, wie jede x-beliebige andere,
+ableiten.
+
+Dieses mindestens fragwürdige Prinzip ist Prämisse für
+Blauermels Definition von Konsistenz, die sich somit reduziert
+auf: Es gibt mindestens einen arithmetischen Satz, der nicht
+ableitbar ist.
+
+Meines Erachtens sind Bilharz Gedankengänge eine Mischung
+aus formaler Strenge und inhaltlicher Konfusion, und das
+Ganze auf höchstem Niveau.
+
+
+Gruss, Beat

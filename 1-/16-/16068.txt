@@ -1,0 +1,55 @@
+Wiki: 
+"Logik (griechisch griechisch ἡ λογική τέχνη, altgriechische Aussprache 
+he logiké téchne, ‚denkende Kunst‘, ‚Vorgehensweise‘) ist die Lehre des 
+vernünftigen (Schluss)Folgerns. Die Logik untersucht die Gültigkeit von 
+Argumenten hinsichtlich ihrer Struktur unabhängig vom konkreten Inhalt 
+der eigentlichen Aussagen. In diesem Sinne spricht man auch von „formaler“ 
+Logik. Die Logik ist sowohl eine Disziplin der Philosophie als auch der 
+Mathematik und der Informatik." 
+
+Es ist die Kunst des vernünftigen Schliessens. 
+
+
+Was! Was soll denn Vernunft ohne Denken sein? 
+
+
+Und das läuft doch auch auf Logik, die Kunst des vernünftigen Schliessens, 
+hinaus. Das Ziel mag in beiden Fällen unterschiedlich sein: man kann ja 
+auch z.B. zum Ziel haben, sich selbst zu schaden, um anderen zu helfen, 
+und dies mit der strategisch "besten" Logik, d.h. der am passendsten
+erscheinenden Logik (anstelle einer anderen, formal vorgegebenen) erreichen, 
+wobei man eh praktisch nie feststellen kann, ob die Lösung optimal war, 
+sondern auch das praktisch immer nur indirekt aus der Heuristik (und 
+einer Art Statistik) logisch schliessen. 
+
+Der Unterschied liegt also im Kontext, und den kann man ohne weiteres 
+zusammen mit der Logik zusammen "implementieren" - dass die Komplexität 
+der (lebendigen) "Vorlage" überragend riesig ist, ändert nichts daran. 
+
+
+Das ist also auch keinerlei prinzipielles Problem für Maschinen. 
+
+Und Kreativität ist ebenso simplerweise ein Spielen und Ausprobieren, 
+da steckt auch kein Gral oder Geheimnis dahinter, auch nicht für 
+Machinen, denn dass dir nicht alles bewusst wird, heisst eben NICHT, 
+dass deine eigene biologisch Informationsverarbeitung nicht auf 
+entweder auf brute force oder abgespeicherte Beispiellösungen, d.h.
+"Heuristiken aus der Datenbank" funktioniert, genauso wie ein 
+Schachprogramm - der Unterschied ist lediglich, dass der Schachcomputer 
+ausser Schach nichts anderes kann.
+
+Hierzu auch eine Anmerkung zu deiner Aussage, dass sich alles parallelen 
+Rechenvorgänge rein mathematisch-theoretisch serialisieren lassen: 
+
+Die praktische Seite steht auf einem anderen Blatt, und sie stösst 
+eben schnell an reale Grenzen der Physik: um z.B. real existierende 
+lebendige Systeme in Kohlenstoffchemie zu reproduzieren, müssen 
+"zahllose" Zellen reproduziert werden, wobei die Basenpaare mit einem 
+Affenzahn von zig Tausenden Basenpaaren pro Sekunde abläuft, und zwar 
+"parellel" - nimmt man dann das Hirn mit seinen "unzähligen" Synapsen, 
+so ist dein Vorschlag, das seriell in Silizium zu erledigen (z.B. als 
+Simulation) nur für im Vergleich zu dem einen richtigen Leben lächerlich 
+wenig komplexe Systeme zu machen - es ist faktisch physikalisch unmöglich. 
+
+
+Bitte definiere: Kreativität.

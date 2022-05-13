@@ -1,0 +1,15 @@
+Der Satz ueber Langendonk-Folgen ist eine wahre Aussage in PA, die keine
+"selbstbezuegliche Aussage" darstellt, in ZFC wahr, aber in PA nicht
+beweisbar ist. Wenn man noch die Konsistenz von ZFC unterstellt, dann ist
+dieser Satz ein Beispiel fuer den Goedelschen Unvollstaendigkeitssatz.
+
+Ledermann Argumentation hat klare Voraussetzungen. Zum einen ist das ein re-
+kursives Kalkuel, zum anderen rekursive Axiomensysteme und Theorien die
+Repraesentationen erlauben. Der Unvollstaendigkeitssatz ist einfach nur
+ein Satz, der die Grenzen der formalen Methode aufzeigt.
+
+
+Gruss
+
+Lutz.
+--

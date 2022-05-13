@@ -1,0 +1,9 @@
+Also ein 0,p9,0 oder 0,p9,8 oder 0,p9,9 hilft nichts.
+Denn es ist nur eine Verschiebung des Problems um eine Stelle. 
+Aber meinetwegen wenn es der Kommunikation dienlich ist.
+0,p9,0 per definitionen = 0,p9 = 1
+dann wäre 0,p9,1 = 1,p0,1
+das wäre aber nicht hilfreich um etwas wie 0,9oo98 auszudrücken.
+Was wäre 0,p9,0 - 0,p0,1?
+
+Gruss Niko

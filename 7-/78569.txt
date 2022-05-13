@@ -1,0 +1,19 @@
+Am Donnerstag, Juni 2006 21:56, schrieb ueberding:
+
+
+Hast du schon mal darüber nachgedacht das auch falsche Aussagen beweisbar
+sein können? Zum Beispiel ist der "wohlgeformte" Satz:
+"Alle Primzahlen sind ungerade" beweisbar falsch.
+Den Satz in Symbolen zu formalisieren bleibt dir als einfache Übungsaufgabe
+überlassen.
+
+Um es dir noch mal zu verdeutlichen:
+
+Ein logisches System ist vollständig wenn alle! Aussagen beweisbar sind.
+Und alle meint: Jede wohlgeformte Aussage ist beweisbar, ganz egal was
+dabei herauskommt.
+Es ist auch dann vollständig wenn sich Antinomien ergeben, also das, was du
+mit korrekt zu meinen gedenkst.
+-- 
+Mit freundlichen Grössen
+Patrik Wiessner

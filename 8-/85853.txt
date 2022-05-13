@@ -1,0 +1,77 @@
+Mathematisch/philosophische Untersuchung über beweisbare und
+nichtbeweisbare Aussagen!
+
+Diese Abhandlung möge dabei helfen, das Gewicht eines "Argumentes" in
+einer (politischen, philosophischen, sach, ...) Diskussion richtig zu
+beurteilen, und von einer "Vermutung" sauber abzutrennen.
+
+Zunächst ein Beispiel: Ich kann z.B. nicht beweisen, daß jemand
+keinen Baum fotografiert!
+
+Um diese Aussage zu "beweisen" müßte ich alle Bäume auf der Erde mit
+einer rundum - Videoüberwachung ausstatten, und kontinuerlich
+Bildauswertung betreiben.
+
+Eine "nichtbeweisbare Aussage" zerfällt in eine unendliche Zahl von
+Einzelaussagen, die jede für sich "bewiesen" werden müßten. Hierzu
+muß man die impliziten Logiken hinter einer Aussage untersuchen, und
+in Einzelaussagen zerlegen.
+
+Das berühmte 4-Farben - Problem ließ sich glücklicherweise doch in
+eine endliche Zahl von zu beweisenden Einzelaussagen zerlegen, welche
+dann mittels eines Computers errechnet wurden. Diese Lösung war also
+eine Mischung aus reiner Mathematik, kombiniert mit einem
+Computerbeweis.
+
+Es ist hiermit nun möglich, recht schnell zu beurteilen, wie fundiert
+eine Aussage, eine Behauptung, ein Argument, eine Theorie, These,
+Hypothese ist, wenn man die Zahl der impliziten Einzelaussagen dahinter
+auf ihre "beweisbarkeit" untersucht.
+
+Hier nun in vereinfachter Form die Kernaussage in Gödels Beweis:
+
+a sei eine Aussage.
+
+1=2E Ba sei Beweisbarkeit von a,
+=3D> Wenn Ba beweisbar ist, dann auch a
+
+2=2E Na sei Nichtbeweisbarkeit von a,
+=3D> Wenn Na beweisbar ist, ist auch a nicht beweisbar.
+
+3=2E B'a sei Beweisbarkeit von aa (also Aussage über eine Aussage),
+=3D> Wenn B'a beweisbar ist, dann auch aa
+
+4=2E N'a sei Nichtbeweisbarkeit von aa,
+=3D> Wenn N'a beweisbar ist, dann ist aa nicht beweisbar
+
+Ferner sei im System ein Satz wiederlegbar, wenn sein Konjugat
+beweisbar ist:
+
+Das Konjugat von Ba sei dann Na, und das Konjugat von B'a sei N'a
+
+Es folgt dann, daß Ba nur dann beweisbar ist, wenn Na wiederlegbar
+ist, und umgekehrt, dasselbe für B'a und N'a.
+
+Behauptung: N'N' ist die Nichtbeweisbarkeit von der Nichtbeweisbarkeit,
+
+und die ist wahr, aber innerhalb des Systems weder beweisbar noch
+nichtbeweisbar, also unentscheidbar !
+
+Beweis:
+
+Angenommen, N'N' wäre beweisbar, dann ergibt (4.), daß die
+Wiederholung
+von N' nicht beweisbar ist, wenn man a durch N' ersetzt. Das bedeutet,
+daß N'N' nicht beweisbar ist.
+
+Das ist ein Paradox, deswegen ist N'N' nicht beweisbar, aber wahr.
+
+Wenn B'N' beweisbar wäre, kannst Du mit (3.) zeigen, folgt, daß N'N'
+beweisbar ist, was jedoch falsch ist.
+
+Damit ist N'N' weder beweisbar, noch widerlegbar, also unentscheidbar.
+
+Das ist Behrenstechers Aussage, daß es Systeme gibt, in welchen eine Aussage
+wahr, jedoch nicht beweisbar ist.
+
+Mit freundlichen Grüßen, Kasimir Uelpenich

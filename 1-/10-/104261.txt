@@ -1,0 +1,50 @@
+Gegeben sei eine komplexer Ausdruck der Form:
+
+	A_1 o A_2 o ... o A_n,
+
+wo die A_i irgendwelche Ausdrücke sind. (o stehe für & oder v.)
+
+Dann lässt sich die Behauptung wohl so formalisieren:
+
+	(Ei)(Ej)(i e N & j e N & ~A_i = A_j),
+
+wo das "=" hier für Ausdrucksgleicheit steht.
+
+
+Bsp.
+
+Gegen sei der Ausdruck
+
+	P v Q v R v S v ~Q v T
+
+Dann ist also
+
+	A_1 = P
+	A_2 = Q
+	A_3 = R
+	A_4 = S
+	A_5 = ~Q
+	A_6 = T
+
+und es gilt:
+
+	~A_2 = ~Q = A_5.
+
+Wir haben also ein i und ein j gefunden (i = 2, j = 5), so dass gilt:
+
+	~A_i = A_j.
+
+M.a.W.
+
+	(Ei)(Ej)(i e N & j e N & ~A_i = A_j)
+
+
+Gruß,
+G.
+
+
+P.S.
+Wie Du siehst, kann das tatsächlich im Rahmen der Prädikatenlogik erster
+Stufe (ergänzt um das Relationssymbol "e") formuliert werden. Wobei wir
+allerdings -wie Du siehst- auf mengentheoretische Begriffe zurück-
+greifen.

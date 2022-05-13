@@ -1,0 +1,67 @@
+[...]
+[...]
+
+Zum Preis einer gewissen Unschärfe, ja? 
+
+                                                       ^^^^^^
+                                                        ???
+
+
+Also, ich behaupte mal, dass du voll daneben liegst. Aus zwei Gründen,
+die beide gesondert zu betrachten sind. Ich konnte mich nicht
+entscheiden, welches Argument besser ist:
+
+
+Grund 1:
+
+Erstmal gab es natürlich ein kleines Problem mit der Definition:
+Was ich unter einer Simulation verstehe (in diesem Sinne), ist eine 1:1
+Abbildung. Aber Deine Definition ist natürlich auch nicht vom Tisch zu
+weisen. Aber:
+Spätestens seit der Aufstellung des Chaos-Prinzips sollte doch klar
+sein, dass sich eine Simulation dieser Grössenordnung sinnvoll nur
+fehlerlos betreiben lässt! Denn jeder noch so kleine Fehler kann
+unvorhersehbare Folgen nach sich ziehen, der Fehler wächst mit der
+vergangenen Zeit, die einzelnen Fehler addieren und akkumulieren sich,
+da unser Universum wohl als chaotisches System bezeichnet werden kann.
+
+
+Grund 2:
+
+Es ist etwas völlig anderes, ob ein Raum einen anderen simuliert (wie
+bei der Simulation der Sonne) oder ein Raum sich selber!!!
+Stelle Dir vor, du willst mit einem Rechner einen gewissen Abschnitt im
+Weltall simulieren, der größer ist als der Rechner. Und zwar 1:1.
+Normalerweise hätte man keine Chance, ausser: Die Datenmenge im zu
+simulierenden Abschnitt ist kleiner als die Speicherkapazität des
+Rechners. So wäre z.B. ein idealisiertes Vakuum (also _gar_ nichts)
+ziemlich leicht zu simulieren, auch wenn der Rechner kleiner ist, als
+der Raum. Das geht aber nicht mehr, sobald sich der Rechner auch in
+diesem Raum befindet, da er dann auch seinen eigenen Zustand 1:1
+speichern muss. Dasselbe gilt für Datenkompression: Ein Rechner kann
+zwar die Datenmenge eines Raumes mit einer idealen Datenkompression
+verringern, doch sobald sich der Rechner selber in diesem Raum befindet,
+versagt die Kompression zumindest für einen Teil: Für den Speicher des
+Rechners. Denn die Bedingung einer idealen Kompression wäre ja, dass
+sich die Daten nicht weiter komprimieren lassen würden. Also braucht der
+Rechner, nur um sich selber zu speichern wieder seinen gesammte
+Kapazität, und es bleibt nichts mehr übrig für den Rest.
+Also lässt sich das Beispiel "Simulation Sonne" nicht auf "Simulation
+Universum" übertragen!
+
+
+Gruss
+-- 
+Walter Seegler (nwjvh@cvceoyh.ud)
+
+P.S. Bitte vezeiht mir, wenn ich immer von 'Raum' rede, aber das liegt
+an meiner menschlichen Gewohnheit im R3 zu leben. Aber wie sollte es
+denn dann heißen?
+Was ist denn das Wort für einen n-dimensionalen Ausschnitt aus einem
+n-dimensionalem System? Länge, Fläche, Raum, R4, R5, ...,  Rn ???
+
+
+------------------------------------------------------------------------
+Member of Uhrle Design: visit http://SbmzJjcrfc.iggm.xjnwh.xg !!!!
+He who can destroy a thing has the real control over it. (Sergio Ostrowski)
+------------------------------------------------------------------------

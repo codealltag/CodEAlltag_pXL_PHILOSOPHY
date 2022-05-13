@@ -1,0 +1,16 @@
+Das ist jede Interpretation, die eine Menge von Ausdruecken durch die
+definierte Modellrelation erfuellt.
+Die Modellrelation |= ist (rekursiv) wohldefiniert; das ergibt sich zum einen
+aus der eindeutigen Lesbarkeit von Ausdruecken und zum anderen aus dem
+induktiven Aufbau der Ausdruecke (mit der dazugehoerigen Minimalklausel).
+
+
+Fuer welche Betrachtungen? Meinst du, um zu zeigen, dass ein Satz s aus
+einer Menge von Saetzen zu folgern sei? Denke darueber nach, wie und warum
+man Korrektheitsbeweise fuehrt. Wieso ist ein Sequenzkalkuel (wie z.B. ein
+Gentzen-Kalkuel) korrekt? In "Einf. in die math. Logik", Voßkamp, findest
+du eine Reihe von Korrektheitsbeweisen. Was faellt dir daran auf?
+
+
+Gruss Domenico
+--

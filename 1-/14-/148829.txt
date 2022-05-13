@@ -1,0 +1,103 @@
+Wenn X = Vereinigungsmenge der Elemente von Y,
+und Y eine abzählbare Menge ist, deren Elemente
+wieder abzählbare Mengen sind, können wir (etwa analog
+des Cantorschen Diagonalisierungsbeweises der Abzählbarkeit
+der Menge der rationalen Zahlen) eine Surjektion von
+X nach N finden. Damit ist X abzählbar.
+Wenn X auch noch unendlich ist, dann ist X sogar abzählbar unendlich,
+also gibt es eine Bijektion zu N.
+(Dies ist also nur ein Spezialfall der ersten Möglichkeit).
+
+Wenn du also eine abzählbare Menge Y, deren Elemente wieder
+abzählbare Mengen sind, findest, so dass X die Vereinigungsmenge
+der Elemente von Y ist, dann ist X abzählbar.
+
+Wir zweifeln jedoch daran, dass du eine solche
+Menge Y findest, so dass X = Pot(N) (oder X = Pot(G), mit
+G einer beliebigen abzählbar unendlichen Menge).
+
+Wenn du dieses aufzeigen könntest, hättest du
+wirklich eine Inkonsistenz gezeigt.
+
+
+Pot(D) ist nicht die Vereinigungsmenge aller Pot(D_i),
+denn dann müsste jede Teilmenge von D, insbesondere D selbst,
+in einem der D_i enthalten sein.
+Dass ist aber nicht der Fall.
+
+Hier liegt ein Fehler in deinem Beweis.
+
+
+Die Vereinigungsmenge der Pot(D_i) ist in der Tat abzählbar:
+Es ist die Menge
+    End(D),
+die Menge der endlichen Teilmengen von D.
+Es gibt aber noch (überabzählbar) viele weitere Teilmengen
+von D, die nicht in End(D) enthalten sind.
+
+
+Diese Nachfolgerrelation hat aber einige Mängel:
+
+- Es gibt kein eindeutiges erstes Element, denn
+
+    ...000010
+und
+    ...000100
+
+sind etwa beide nicht Nachfolger einer anderen Folge.
+Auch ist die Nachfolger-Relation nicht injektiv, denn es gilt etwa
+
+Nachfolger(...000011101) = ...8115730667
+Nachfolger(...000011011) = ...8115730667
+
+Damit hilft dir diese Relation kein bisschen, um
+eine Wohlordnung deiner 0-1-Folgen zu finden.
+
+
+Das Problem ist ja, dass U(D) eine _�berabz�hlbare_ Menge ist.
+Selbst wenn du alle natürlichen Zahlen dafür reservieren würdest,
+kannst du damit nicht alle Mengen aus U(D) abdecken.
+
+Wenn du es doch schaffst, hast du entweder einen Fehler
+begangen, oder wirklich einen Widerspruch gefunden.
+
+
+Wie gesagt, liegt dies daran, dass die Vereinigung von
+Potenzmengen nicht gleich der Potenzmenge der Vereinigung
+ist (sondern meist nur eine echte Teilmenge).
+Dies gilt schon im endlichen Bereich, wieso willst gerade _du_
+es im unendlichen Bereich außer Kraft setzen?
+
+
+Noch einmal: Die Elemente von G sind (meist) nicht Elemente von Pot(G).
+Elemente von Pot(G) sind die Teilmengen von G.
+
+Allerdings gibt es Teilmengen von Pot(G), die zu G bijektiv Äquivalent
+sind, etwa die Menge aller einelementigen Teilmengen von G.
+
+Die Behauptung Stephan,
+
+
+ist allerdings trotzdem i.a. falsch, daran solltest du deinen
+Beweis also nicht knüpfen.
+
+
+Wir wählen keine beliebigen Teilmengen aus, um eine Bijektion
+zu finden.
+
+Seien X und Y zwei Mengen.
+
+
+Wenn es eine Bijektion zwischen X und Y gibt,
+gibt es in der Regel (wenn |X| > 1) auch noch
+eine (oder viele) weitere andere.
+
+
+Sonst sind X und Y entweder gleichmächtig oder nicht,
+wir wissen aber nichts darüber.
+
+Wenn du den Sinn dieser Definition anzweifeln
+willst, gerne - dies ist jedoch kein
+Aufhängepunkt für die Inkonsistenz einer Theorie.
+
+Claus

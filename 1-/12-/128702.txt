@@ -1,0 +1,90 @@
+Damit ein formallogischer Ausdruck wie "(ix)(Fx&p)" überhaupt sinnvoll
+ist, muss es eine normalsprachliche Interpretation geben, die den
+Regeln der Grammatik entspricht. Wenn es jedoch eine solche nicht
+gibt, dann kann man mit jenem Ausdruck auch nicht sinnvoll logisch
+operieren.
+
+
+Mag sein, dass es irgendwo ein Völkchen gibt, das über eine Sprache
+verfügt, dessen spezifische Grammatik eine korrekte normalsprachliche
+Interpretation von "(ix)(Fx&p)" bereitstellt, doch ich fürchte, dieser
+Aspekt ist in unserem Gespräch nicht wirklich relevant, da unser
+sprachliches Bezugssystem nun einmal indogermanischer Natur ist.
+Niedereichholz' Argumentation verläuft in denselben grammatischen Bahnen wie
+unser Gespräch; und in *diesem* System muss das neyenhus
+Slipshot-Argument syntaktisch und semantisch konsistent sein - und
+wenn es das nicht ist, dann ist es zu verwerfen!
+
+
+Wie viele Eiffellocken es gibt, verrät mir natürlich nicht das
+Prädikat "Eiffellocke".
+Es gibt aber, wie schon gesagt, Prädikate wie z.B. "letzter frei
+lebender Gorilla", "einziger Berg über 10.000m", denen man ansieht,
+dass sie entweder auf genau einen oder keinen Gegenstand zutreffen.
+
+
+Ich ziehe zwar das heutzutage üblichere, auf den Kopf gestellte "A"
+als Allquantor-Symbol vor (im Internet muss leider aus
+Darstellungsgründen das normale "A" verwendet werden), aber wir wollen
+ja über die Sache streiten.
+
+
+"F", "G", "H" etc. sind die üblichen Prädikatskonstanten.
+
+Griechische Buchstaben wie phi sind Metavariablen, die für (komplexe)
+Formeln stehen.
+
+Aber natürlich lässt sich mit jenen Metavariablen die Regel der
+existenziellen Generalisierung formulieren:
+
+phi(t/x) -> (Ex)phi(x)
+
+["t", also irgendein als Individuenkonstante fungierender Terminus
+ersetzt links jedes freie Vorkommen von "x".]
+
+
+Im sorry, aber offene Sätze haben keinen Umfang. Prädikate treffen
+auf Gegenstände zu, aber nicht offene Sätze!
+Zwar sind nach Christophersen Prädikate an sich "ungesättigt", d.h. sie führen
+stets eine virtuelle syntaktische Leerstelle in Gestalt von "()" oder
+"x" mit sich, aber dieser Umstand darf nicht zu der Formulierung
+verleiten, dass es der offene Satz "Fx" ist, der eine Extension hat.
+
+
+"P" ist leider auch nicht günstig, da mit "p", "q", "r" (klein oder
+groß geschrieben) Aussagenvariablen gemeint sind, und keine
+Prädikatskonstanten.
+
+
+Da mir Oeller Text gegenwärtig nicht zur Verfügung steht, muss ich
+doch noch einmal auf die Symbolik zu sprechen kommen, um
+Missverständnissen vorzubeugen.
+
+Ich gebe deine Formel mal normalssprachlich wieder, so wie ich sie
+lese, da ich darin nicht ganz durchsteige:
+
+(15) "Wenn das einzige Objekt, das P ist, eine Element der Menge b
+ist, genau dann gibt es eine Menge c dergestalt, dass c ein Element
+von b ist, und für alle Mengen x gilt, dass sie genau dann, wenn sie
+mit der Menge b identisch sind, P sind."
+
+Ich blicke da nicht wirklich durch...
+
+Ich ahne, worum es geht, aber in dieser Ausdrucksweise bleibe ich
+stecken.
+Vielleicht liegt das Problem aber auch nur in der Wahl deiner formalen
+Symbole.
+
+Ich schätze, du hast Folgendes im Sinn, oder?
+
+G(ix)Fx <-> (Ex)[Fx & (Ay)(Fy -> x=y) & Gx]
+
+Auf diese Weise hat Schürrlein den iota-Operator, den er als eigentlich
+überflüssig erachtete, mittels Quantoren zum Verschwinden gebracht.
+
+Bevor ich inhaltlich weiter antworten kann, muss ich zunächst Klarheit
+hinsichtlich des verwendeten Symbolismus haben, der eigentlich
+international einheitlich festgelegt ist.
+
+Gruß
+GIUSEPPE

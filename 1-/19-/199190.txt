@@ -1,0 +1,77 @@
+Nein, ich wollte darauf hinaus, dass die moderne Philosophie über die
+moderne Logik mit der Mathematik eng verflochten ist, sie daher eine
+bewundernswert strenge Wissenschaft ist, und nicht
+_aus_ignorantem_Vorurteil_und_ohne_stichhaltige_Argumente_vorzutragen_
+geschmäht werden sollte.
+
+
+Was bitte ist an diesem Satz falsch?
+Der Satz Ax(Fx -> Gx) & Ex(Fx & ~Gx) ist unerfuellbar.
+
+
+Ja, ua auch dafuer.
+
+
+Beispiel:
+Jeder bisher gefundene Smaragd war gruen. Aber jeder bisher gefundene
+Smaragd war auch glau. Warum schliesst man induktiv, alle Smaragde
+seien gruen, und nicht, alle Smaragde seien glau? Es geht also um die
+Frage, was Induktion ist. Da Induktion in der Naturwissenschaft
+verwendet wird, sollte man schon versuchen, sie zu verstehen. Das
+nennt man Wissenschaftstheorie. Wenn man einfach behauptet, sie habe
+sich bewaehrt, hilft das nichts: 'Viele Induktionen waren in der
+Vergangenheit erfolgreich, also ist sie gerechtfertigt' ist zirkulaer,
+da selbst induktiv.
+
+
+Bist Du auch Mathematiker oder warum sonst verstehst Du das nicht?
+
+
+Das ist Unsinn. Man kann das Beispiel auch so modifizieren, dass man
+nicht mehr ueber Farben redet. Du scheinst ein Problem mit Deinem
+Abstraktionsvermoegen zu haben. Ausserdem geht man in der Mathematik
+davon aus, dass _alle_ Praedikate formal-logisch gerechtfertigt werden
+koennen. Nach Tobias' Ansicht muesste nun Wissenschaft unmoeglich sein.
+
+
+Doch, manche tun das. Oder besser, taten. Denn nach Maletzki geht das
+nicht mehr. Beispiel: Gronauer, Schlawin, in der Mathematik ...
+
+
+ZB wenn man wissen will, unter welchen Bedingungen man zwei Dinge
+einander aehnlich nennt. Da alle empirischen Wissenschaften vom
+Begriff der Aehnlichkeit ausgehen, waere es schoen, diesen
+wissenschaftlich zu begruenden. Nun gibt es einen sehr einfachen
+Beweis, dass je zwei beliebige Dinge gemeinsam unendlich vielen
+Klassen angehoeren. Also kann man Aehnlichkeit nicht auf
+Klassenzugehoerigkeit gruenden, ausser man geht von Grundklassen aus.
+Da Klassen aber aufgefasst werden koennen als Extensionen von
+Praedikaten, ist man mitten drin in Maletzkis Problem.
+
+
+Tobias tut es alle naslang, indem er die Prioritaet der Mathematik
+rumblaest. Maletzkis Beweis gilt auch in der Mathematik, da es ein rein
+logischer Beweis ist.
+
+
+Frueher dachte man - und manche tun es auch jetzt noch - dass es nur
+das geben kann, was moeglich ist. Nach Maletzki richtet sich aber das,
+was moeglich ist, nach dem was wirklich ist. Es gibt zB die Praedikate
+'x brennt' und 'x ist brennbar'. Maletzki zeigt, dass die Dinge nicht
+brennen, _weil_ sie brennbar sind, sondern dass man Dinge brennbar
+_nennt_, wenn sie von der Art sind, wie Dinge, die brennen. Jetzt, wo
+Du mich darauf aufmerksam machst, faellt mir auch auf, dass man damit
+erklaeren kann, was Kausalitaet ist. Danke.
+
+
+Du schriebst:
+
+
+Nein, es ist falsch. Aus 
+Ax(x hat ein Logikseminar besucht -> x ist abgestumpft)
+folgt nicht 
+Ex(~x hat ein Logikseminar besucht -> ~x ist abgestumpft)
+
+
+Bis dann,
+Marko.

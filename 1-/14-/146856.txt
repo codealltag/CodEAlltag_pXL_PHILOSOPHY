@@ -1,0 +1,34 @@
+Warum ist das nicht zu glauben? Wenn du schon an
+den Newtonschen Gesetzen (Hier eher *Definitionen*) zweifelst...
+
+Ja und? Kann man sehen wie man will. Dann betrachte
+halt Magnetfelder als nützliche Fiktion... diese
+Phase hat die Physik auch schon mal durchgemacht.
+Wenn man es richtig (!) rechnet, kommt eh dasselbe raus.
+
+
+Also wenn ich als physikalisch ziemlich ahnungsloser mal
+annehme, dass grob geschützt nur die 3 nächstgelegenen
+cm der Leitung wirken, dafür aufgerundet in einem
+mittleren Abstand von 1cm, und ich die bekannte Coulomb-
+formel nehme, erhalte ich verdächtig genau die oben
+erwähnte Kraft (2.37E-26 N). Nicht schlecht für eine
+Pfuschrechnung, und doch ein sicherer Hinweis darauf,
+dass das korrekte Resultat nicht mehrere Grössenordnungen
+daneben liegen kann.
+
+
+Also so überschlagsmässig komme ich auf ziemlich genau
+diese Feldstärke in 1 cm Abstand von wie besagt geladenem
+Leiter.... was soll mich jezt wie und warum überraschen?
+Wo ist hier ein Missverhältnis?
+
+Ich bin allerdings davon ausgegangen, dass:
+- epsilon(0) = 8.854E-12 A^2 s^4 m^-3 kg^-1
+- (besonders tückisch, da öfters im Quadrat)  1 m = 100 cm
+- 4 * pi auch schon reichlich eine weitere Grössenordnung
+  sind.
+Obige Faktoren geben zusammen etwa 1e14.
+
+-- 
+MfG Johann Bleicher

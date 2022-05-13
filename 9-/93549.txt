@@ -1,0 +1,18 @@
+TSK <615.8.6.8@bgb.ibhoqzn> writes:
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+Hier ist was kaputt.
+
+
+Jede Parallelmaschine (sofern die Anzahl der parallelen Threads
+endlich ist) ist Äquivalent zu einer Turing-Maschine.  Dass
+Parallelprogrammierung schwer ist und man oft nicht durchblickt und
+deswegen etwas sich "unvorhersehbar" verhaltendes schreibt, steht auf
+einem anderen Blatt.
+
+
+Es genügt, dass theoretisch mögliche Computerprogramme darunterfallen.
+
+Pius
+-- 
+GS d->? s:++>+++ a+ C++++$ UL+++$ UH+ P++ L++ E+++ W- N++ o-- K- w--- !O M- V-
+PS+>++ PE Y+>++ PGP+ !t !5 !X !R !tv  b+++ DI+++ D?  G+ e++++ h+ r? y?

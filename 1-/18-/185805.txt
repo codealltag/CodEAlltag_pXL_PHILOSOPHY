@@ -1,0 +1,14 @@
+Nur eine allgemeine Ueberlegung: es kann keine Gleich-
+verteilung fuer a priori unbeschraenkte Zahlen geben,
+da andernfalls die Wahrscheinlichkeit, dass eine Zahl
+unterhalb einer gegebenen Grenze liegt, Null waere.
+
+Und wenn man etwa eine monoton abnehmende Verteilung natuer-
+licher Zahlen annimmt, so ergibt sich automatisch, dass
+in Dezimalschreibweise die W.keit fuer eine 1 am Anfang
+groesser sein muss, als fuer eine 9. Daran ist nichts
+geheimnisvolles.
+
+MfG,
+-- 
+Kaspar Oberste-Steinhorst

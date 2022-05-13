@@ -1,0 +1,14 @@
+Setzt man für P "Katze ist sterblich" und für Q "Katze ist gestorben",
+dann ist T2 'wahrheitsnäher' als T1, obwohl PvQ logisch aus P folgt.
+Der Grund ist hier, dass dann auch P logisch aus Q folgte (wenn Q),
+warum aber sollte das ausgeschlossen sein? Der Wahrheitsgehalt ist
+in diesem Beispiel also in beiden Fällen mindestens P, mit der zusätz-
+lichen Möglichkeit von Q für T2. T2 ist damit der Wahrheit näher, es
+bedürfte zu ihrer Realisation lediglich der Verifikation von Q. Solange
+diese Verifikation aussteht, ist T2 'wahrheitsnäher' als T1, aber sogar
+wenn Q falsifiziert werden könnte, hätte T2 durch seinen wahren
+Negationsanteil immer noch den größeren Wahrheitsgehalt.
+
+Größe
+
+Luciano

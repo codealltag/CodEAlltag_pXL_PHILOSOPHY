@@ -1,0 +1,54 @@
+Hallo,
+
+Weil heute Sonntag ist, will ich mir einen kleinen unmathematischen
+geistigen Spaziergang erlauben...
+
+Der obige Algoritmus könnte alle 16 Bit Dateien um 50% komprimieren, um
+den Preis, dass man die übrigen 50% als Rauschen betrachtet. Man nimmt
+einfach an, dass nur eine Telmenge aller denkbaren 16-Bit Dateien
+überhaupt sinnvollen Inhalt hat und wirft die anderen weg. Klar, dass
+diese Vorgehensweise willkürlich ist, aber wenn die Dateien grösser
+werden, gibt es keine andere Wahl.
+
+Der obige Algoritmus könnte 32-Bit dateien noch um 25%, also auf 75% der
+ursprünglichen Grösse komprimieren.
+
+Will man jetzt eine Megabit Datei um 50% komprimieren, dann müsste man
+also die Länge der Dateien von 2^20 Bits auf 2^19 Bits reduzieren.
+
+Mit 2^20 Bits kann man 2^(2^20) verschiedene Dateien bilden. Mit 2^19 Bits
+kann man 2^(2^19) verschiedene Dateien bilden.
+
+2^(2^19)/(2^(2^20)) = 2^(2^19-2^20) = 2^(-5244288). Mein Taschenrechner
+sagt mir, das sei gleich NULL ;-).
+
+Die relative Anzahl aller sinntragenden und um 50% komprimierbaren
+1-MBit-Dateien ist also fast 0 verglichen mit der Menge aller möglichen
+Datensätze. ;-)
+
+Trotzdem sind die meisten Dateien, mit denen wir arbeiten, komprimierbar.
+Woher kommt das?
+
+Wir selber und das, was wir als sinntragend ansehen, sind Produkt eines
+riesigen, rekursiven Kompressionsalgorithmus, der alle _rekursiv_
+komprimierbaren Datensätze aus der Gesamtzahl aller möglichen
+Datensätze ausfiltert.
+
+Der Kompressionsalgorithmus nennt sich Evolution und das Komprimat heißt
+Gen und Mem.
+
+Vielleicht heisst der Algoritmus auch Gravitation und das Komprimat heisst
+Materie oder Kosmos ;-)
+
+Sorry, das musste ich einfach mal hier präsentieren und nicht in dsph.
+Nicht alle Philosophen verstehen das ;-)
+
+fup 2 dsph gesetzt
+
+Grösse,
+
+Ulfert
+
+-- 
+Reality is _not_ an elephant.
+For a start, it's a rainbow.

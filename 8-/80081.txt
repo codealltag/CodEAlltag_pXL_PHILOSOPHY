@@ -1,0 +1,24 @@
+Am Mittwoch, September 2006 19:02, schrieb Benjamin Kleinhaus:
+
+
+Zur Klärung:
+Diese Begriffe werden erheblich pingeliger aufgefasst:
+Ordnung:
+Irgendeine Ordnungstruktur zB.
+"Ist Teiler von" ist eine "Halb/Teilordnung" auf IN
+"ist sich selber gleich" Ist eine totale Unordnung auf jeder Menge
+Totalordnung:
+Die "natürliche" Ordnungsrelation der reellen Zahlen ist so eine Ordnung.
+Wohlordnung:
+Jede ordnungstreue Teilmenge einer Wohlordnung hat genau ein minimales
+Element Beispiel: Natürliche Zahlen.
+
+Das, wie du sagst, indexieren einer Menge ist laut Axiom immer möglich.
+Dummerweise kenne ich aber meistens nicht die passende Indexmenge
+(Kardinalzahl). Noch als Hinweis:
+Die für dich anscheinend offensichtliche Möglichkeit das indexieren immer
+geht ist einer der grössten Streitpunkte der Logik und Mengenlehre, da die
+Akzeptanz gelinde gesagt sehr paradoxe Schlüsse zulässt.
+-- 
+Mit freundlichen Grössen
+Dieter Nißen

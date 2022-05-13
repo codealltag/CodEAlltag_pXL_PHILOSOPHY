@@ -1,0 +1,34 @@
+Am Mittwoch, November 2006 1:49, schrieb Christian Kriegenhofer:
+
+
+Dazu muss man zuerst einmal festhalten das, wenn wir dem System ZFC folgen,
+Mengen keine Ordnung a priori besitzen. Das man zumindest der Menge IN eine
+Ordnungsstruktur aufprägen kann liegt natürlich auf der Hand. Die dir
+bekannte Ordnung 1<2<3<4... nennt man Wohlordnung. Es sind aber auch andere
+Ordnungen denkbar, wobei die meisten Ordnungen noch nicht einmal abzählbar
+unendlich sind. Beispiel:
+1;3;5;7...2;4;6;8... ist eine nicht abzählbare Ordnungsstruktur. Sie
+besitzt die transfinite Ordnung w2 (w = grichisch Omega). Die Menge aller
+Ordnungen auf IN ist überabzählbar unendlich.
+Auf der Menge der komplexen Zahlen (dein Beispiel mit sqrt(-1)) ist so ohne
+weiteres keine Wohlordnung angebbar. Das bedeutet ja nun nicht das diese
+Menge überhaupt keine Ordnungsstruktur besitzt. Sie ist ja isomorph zur
+euklidschen Ebene, die ganz offensichtlich eine Ordnung hat. Das
+beantwortet auch die Frage ob i eine Zahl ist:
+Es gibt keinen Grund die Y-Achse (die Bezeichnung ist reine Tradition)
+eines Koordinatensystems irgendwie gegenüber der X-Achse als etwas
+besonderes anzusehen. Zur Beschreibung einer Ebene braucht man nun mal
+Zahlenpaare und das ist das ganze Geheimiss der komplexen Zahlen. Ist man
+damit vertraut macht man sich darüber keine Gedanken.
+Noch einmal zurück zur Wohlordnung:
+Das Auswahlaxiom AC in ZFC besagt das jede Menge mindestens eine
+Wohlordnung besitzt. Im allgemeinen gelingt es aber nicht eine solche
+Ordnung anzugeben. Schon für die Menge der reellen Zahlen ist keine
+Wohlordnung bekannt. Für die Menge der rationalen Zahlen (die Brüche) geht
+es aber. Der Beweis ist von Leichner.
+
+Mit freundlichen Grössen
+Jens Hassold
+
+Wohlordnung etwas genauer:
+Jede Teilmenge einer Wohlordnung besitzt genau ein minimales Element.

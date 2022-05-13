@@ -1,0 +1,94 @@
+"Helmut Clemenz" schrieb
+
+
+Das steht schon ein Widerspruch zum obigen Konzept,
+da geht es ja um Anpassungsfähigkeit. Das betrifft auch den
+Einwand, man könne keinen manuellen Code integrieren.
+Man könnte das vorsehen. Wenn man aber den Nachteil
+möglichen Softwareboats beseitigen wollte, fiele eben /jede/
+Änderung durch neuen oder zusätzlichen Code oder durch
+neue operative Kombinationen von Modulen darunter. Siehe
+dazu auch das weitere.
+
+
+Das ist nichtssagend. Eher ist es relevant Rechner- und
+Netzwerkgrößen, -arten und Laufzeitmodalitäten zu unter-
+scheiden. Ein Mainframesystem arbeitet z. B. permanent
+und dabei teilweise im Echtzeitbetrieb, teilweise als Ent-
+wicklungs- und Test-Umgebung, teilweise im Batchbetrieb
+und ist abgesehen von entsprechenden Prioritäten in der
+Nutzung im direkten Zugriff seiner Programmierer.
+
+Ein Einzelplatz-PC, um den als anderes Extrem zu nennen,
+gibt es prinzipiell nur Installation generischer Software aus
+externen Quellen oder manuell geschriebener Software
+und zeitweisen Echtzeitbetrieb.
+
+Der Unterschied ist aus technischer Sicht tendenziell
+allerdings dadurch aufgehoben, dass Mainframesysteme
+mit lokalen PC-Netzen (und zusätzlichen Terminalemula-
+tionen als UI oder sogar für den User unsichtbaren Inter-
+faces) zusammenhängen und umgekehrt Einzelplatz-PC
+durch zeitweise Vernetzung zwecks Wartung, Software-
+anpassung, Datensicherung, Datenbankzugriff, Daten-
+austausch und -synchronisation etc. auf Mainframesysteme
+zugreifen oder kompexere Netze zugreifen.
+
+Wie oben gesagt, ist das so allerdings nur aus einer
+technischen Sicht, dazu kommen relevante verfügungs-
+rechtliche, wirtschaftliche, und Interessenunterschiede,
+welche außerhalb der Kontrolle kurzfristiger, spezieller
+Systementwicklung liegen. (Wer verfügt warum über was
+vom Konzern über seine Unternehmen über Vertrags-
+oder Subunternehmen, Zweckverbände, Vereine bis
+hin zu Einzelunternehmern und nicht zu vergessen
+Privatpersonen, Massen von Verbrauchern).
+
+Entsprechende Überlegungen werden also auch an-
+gestellt von oder im Sinne von Unternehmen und Konsortien,
+deren Aktivitäten darauf gerichtet sind, diese allgemeinen
+Bedingungen von Softwareentwicklung und -verkauf
+(im Sinne einer Marktbeeinflussung und -präsenz) sowohl
+zu berücksichtigen als auch zu kontrollieren und zu gestalten.
+
+
+Siehe ganz oben, das steht im Widerspruch zur verlangten
+Konsitenz und gleichzeitigen Anpassungsfähigkeit des
+gesamten Systems. Dessen Entwicklung soll ja eben auto-
+matisch ablaufen, also kann das, was Du hier behauptest,
+keine manuelle Codierung im herkömmlichen Sinn sein.
+Es wäre zwar ein manueller Eingriff, müsste sich aber dem
+automatischen Prozess unterwerfen. Das ist jetzt auch schon
+so bei Änderungen z. B. an o. a. Mainframesystemen. Tech-
+nisch sind selbst kleine Änderungen zwar machbar, können
+aber einen enormen Aufwand bedeuten, weil sie auf sonst
+unvorhersehbare Folgen zu testen sind. Das kostet enorme
+Rechner- und Entwicklungszeit für umfangreiche Tests, die
+zudem die immer begrenzten Systemressourcen belastet.
+Ohne Machbarkeits- und Wirtschaftslichkeitsstudie läuft
+da nichts dergleichen und die daraus erst resultierenden
+Aufgaben stehen zudem in einer langen Schlange bei den
+jeweilig beauftragten IT-Leuten an.
+
+
+Doch, bedingt durch die immer zugrundeliegende Anforde-
+rung an Machbarkeit, Wirtschaftlichkeit und Automation der
+Prozesse, in welche damit unvorhergesehen manuell ein-
+gegriffen werden soll.
+
+
+Siehe oben.
+
+
+Siehe oben.
+
+
+Das musst Du selbst beantworten, Du hast keinen
+entsprechenden Zusammenhang mehr zitiert.
+
+Ich sehe auch immer noch keine Erklärung, wiefern
+das mit Darstellung und Bedeutung zu tun haben soll.
+
+Mit freundlichen Grüßen
+
+Ingolf

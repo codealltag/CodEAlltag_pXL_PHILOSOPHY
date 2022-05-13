@@ -1,0 +1,34 @@
+Das nennt man in der hier einschlägigen Statistik Partialkorrelation und 
+die Tatsache, dass man aus der Korrelation zwischen dem Verhalten von 
+Eisverkäufern und ihrem Umsatz den Einfluss des Wetters 
+"herauspartialisieren" kann (und muss), zeigt eigentlich eindrucksvoll, 
+dass eben Leistung nicht mit Output (Erfolg, Misserfolg) verwechselt 
+werden darf. 
+
+Es kann durchaus sein, dass zwischen Verhalten und Output nur eine 
+Scheinkorrelation besteht, die völlig verschwindet, wenn man 
+Drittvariablen herauspartialisiert. 
+
+Ganze Berufszweige leben davon, dass ihre Kunden noch nie etwas von 
+Partialkorrelationen gehört haben, wie das Gewerbe der Wunderheiler 
+eindrucksvoll unter Beweis stellt. Deutlich wird das auch beim so 
+genannten Placeboeffekt, wo der Zusammenhang zwischen dem Medikament und 
+seiner Heilwirkung ja auch verschwindet, wenn man die Glaubensstärke des 
+Patienten und ähnliche Drittvariablen herauspartialisiert. 
+
+Bei der Partialkorrelation handelt es sich im Übrigen nicht um eine 
+Subtraktion, auch nicht um "Abziehen", sondern um eine bivariate 
+Korrelation zwischen Regressionsresiduen. Die Partialkorrelation gibt 
+also den linearen Zusammenhang zweier Variablen an, aus dem der lineare 
+Einfluss einer dritten Variable eliminiert wurde. 
+
+Dieses Thema ist mathematisch natürlich wesentlich komplexer, als ich es 
+hier darstellen kann und will. 
+
+Und so, dies sei abschließend hervorgehoben, muss man natürlich 
+beispielsweise aus dem Zusammenhang zwischen dem Verhalten muslimischer 
+Arbeitnehmer und ihrem Output den Einfluss antimuslimischer Vorurteile 
+herauspartialisieren. So hilft uns die Statistik immer wieder aufs Pferd 
+und die Ideologen haben das Nachsehen.
+
+Ursina Muhle

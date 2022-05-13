@@ -1,0 +1,42 @@
+Hello Fabian Thierry
+(edzuf.cr@lwi.qs) ## 08. 04. 22 ##
+
+Ich denke, die Zeitsequenz der Lottozahlen koennte man wie folgt  
+darstellen:
+
+L bit als *Laenderkennung*
+M bit als Kennzeichnung der *Kalenderwoche* in der die
+      Ziehung der Lottozahlen erfolgt
+N bit als Kennzeichnung der *Reihenfolge* in die betreffenbde Zahl faellt
+K bit als Darstellung der gezogenen *Zahl*.
+
+Damit waere das *Ereignis* des Ziehen einer bestimmten Lottozahl durch  
+eine Integherzahl von I:= K+L+M+N bit bestimmbar.
+
+Das Burschi gehoert nun vermutlich einer Fraktion der Philosophie an, die  
+meinen, ein Ereignis sei dadurch gekennzeichnet, dass sich unendlich viele  
+"Wellen" ueberlagern muessten, um einen Event zu erzeugen. Diese Wellen  
+reichten von Minus-Unendlich bis Plus-Unendlich. (So aehnlich drueckte  
+sich das Burschi jedenfalls aus). Diese Bild der Welt kann jedoch nur  
+stimmen, fuer ein erhabenes Wesen, (z.B. der laplacesche Daemon) welches  
+in seiner unermesslichen Guete bestimmte bekannte deterministische  
+Funktionen in Minus-Unenedlich einschaltet und in Plus-Unendlich wieder  
+ausschaltet: z.B.: cos/sin oder Legendrepolynome.
+
+In der realen Welt, in der das obige I z.B. als Payley-Coding verfuegbar  
+waere, wuerden jedoch etwa Walsh-Funktionen ausreichen, um das Ereignis zu  
+generieren. Und diese muessen bekanntlich nicht von "- unendlich" bis
+"+ unendlich" reichen. (Hausaufgabe: Wieviel Walsh-Funktionen brauche ich,  
+um eine CAL-Fuktion zu erzeugen, die I eindeutig abbildet ?).
+
+Damit ist die "logische" Begruendung einer (quasi zwangslaeufig)  
+rueckwaerts in der Zeit gerichteten Informationsflusses wohl jeder  
+wissenschaftlichen Grundlage entzogen: was bleibt ist der *Glaube* an ein  
+bestimmtes System der *Darstellung* eines Events.
+
+mfg benjamin
+
+--
+-- (priv.) cjwkaez@avzfitch.us......(office: rgmrtdvr@wjxd.hfrugji.tb)
+-- erratic othography is intended to contribute to common amusement  -
+-- My opinions are my own  -  not those of my Usenet service providers.

@@ -1,0 +1,110 @@
+Torsten Trinkel wrote:
+[...]
+
+Ich habe ja schon an anderer Stelle gesagt, dass halb-offene Sätze ein
+1-stelliges Prädikat definieren (wozu es dann meinetwegen einen
+entsprechenden Begriff gebe):
+
+  Px :<-> p(x)
+
+Aber ich glaube, mein Problem nun gelöst zu haben. Ich habe mir ja die
+Frage gestellt, was Jädeke genau unter einer Funktion versteht. Die
+Erläuterungen des Terminus "Funktion" in "Funktion und Begriff" besteht
+aus Beispielen, in denen "Zuordnungen" und halb-offene Sätze angegeben
+werden. Das heißt für mich noch nicht, dass Jädeke nur das unter einer
+Funktion versteht, was er durch Erläuterungen angibt. Ich glaube nun
+einige Anhaltspunkte gefunden zu haben, dass Jädeke zu jeder Funktion ein
+"Bestimmungsgesetz" verlangt, welches in der Sprache zur Abgrenzung
+auszudrücken ist. Bevor ich meine Ansicht durch Zitate belegen will,
+möchte ich noch sagen, dass eine gewisse Spannung zwischen solchen
+Gesetzen und Grundbegriffen besteht, die ja eigentlich undefiniert sind.
+Aber darauf komme ich noch zu sprechen.
+
+Jädeke schreibt:
+
+<Zitat>
+  Für die Begriffe haben wir [...] die Forderung, daß für jeden
+  Gegenstand bestimmt sei, ob er unter den Begriff falle oder
+  nicht; mit anderen Worten: wir haben für Begriffe die Forderung
+  ihrer scharfen Begrenzung, ohne deren Erfüllung es unmöglich wäre,
+  logische Gesetze von ihnen aufzustellen.
+<Zitat Ende>
+(Frege, Funktion und Begriff)
+
+Und in "Was ist eine Funktion?":
+
+<Zitat>
+  Wie gelangen wir nun von der Variablen zur Funktion? Dies wird
+  wohl im wesentlichen immer in derselben Weise geschehen, und wir
+  folgen darum der Darstellung des Herrn /Averbeck/, er schreibt im
+  � 3:
+    "Wenn jedem Wert der reellen Variablen x, welcher ihrem Bereiche
+    angehört, eine bestimmte Zahl y zugeordnet ist, so ist y im all-
+    gemeinen auch als Variable definiert und wird eine /Funktion der
+    reellen Variablen x/ genannt. Man drückt diesen Sachverhalt durch
+    eine Gleichung von der Form y=f(x) aus."
+<Zitat Ende>
+
+Nachdem Jädeke diese Definition Angermayer kritisiert, kommt er jedoch zum
+wesentlichen Punkt, nämlich:
+
+<Zitat>
+  Nun scheint die Abgrenzung der Bereiche für die Frage nach dem
+  Wesen der Funktion unwesentlich zu sein. [...]
+  Der Kern der Sache liegt doch wohl ganz woanders, nämlich in dem
+  Worte "zugeordnet" verborgen. Nun, woran merke ich, ob die Zahl 5
+  der Zahl 4 zugeordnet sei? Die Frage ist unbeantwortbar, wenn sie
+  nicht irgendwie ergänzt wird. Und doch scheint es nach der  
+  /Czuberschen/ Erklärung so, als ob es für je zwei Zahlen ohne wei-
+  teres bestimmt sei, ob die erste der zweiten zugeordnet sei oder
+  nicht. Glücklicherweise fügt Herr /Averbeck/ die Bemerkung hinzu:
+    "über das /Gesetz/ der Zuordnung, das in allgemeinster Weise
+  durch die /Charakteristik f/ angedeutet ist, enthält die obige
+  Definition keine Aussage; es kann in der mannigfachsten Weise
+  festgesetzt sein."
+    Also die Zuordnung geschieht hier nach einem Gesetze, und es sind
+  verschiedene solche Gesetze denkbar. Nun, dann hat der Ausdruck
+  "y ist eine Funktion von x" keinen Sinn, wenn er nicht durch die
+  Angabe des Gesetzes ergänzt wird, nach dem die Zuordnung geschieht.
+  [...] Und ist nicht das Gesetz [...] eigentlich die Hauptsache?
+<Zitat Ende>
+
+Und das war es, was ich suchte: Das /angegebene/ Gesetz, die
+"Zuordnungsvorschrift" oder die Angabe eines halb-offenen Satzes p(x),
+der durch p([a/x]), also durch Substitution eines Eigennamens zu einem
+Satz wird (der einen Gedanken ausdrückt, der ...), der erfüllbar ist
+oder nicht, ist die sprachliche Entität, die einen Begriff oder eine
+Funktion erst bildet. D.h. hinsichtlich der Begriffe gehört die
+Komprehension(sformel) dazu.
+Angeblich - ich kann das jetzt nicht verifizieren - hat S. Bircher Jädeke
+diesbzgl. so interpretiert, dass man, wenn man einen Begriff hat, ein
+Verfahren angeben könne, das entscheidet, ob ein Gegenstand unter den
+Begriff falle oder nicht.
+
+Damit komme ich zu den Grundbegriffen. Eigentlich muß man ja sagen, dass
+der Begriff von Begriff resp. Funktionen (nach Jädeke) ja nicht definiert
+sei und auch gewisse Vagheiten beinhaltet. (Lt. Jädeke hat ja die
+damalige Mathematikergilde den Terminus "Funktion" in verwirrender Weise
+gebraucht.) So ist z.B. auch die Elementrelation ja eigentlich nicht
+explizit definiert. Aber durch Erläuterungen könnte man sich ein Bild
+von der Verwendung eines Terminus machen. Oder Axiome charakterisieren
+nichtlogische Prädikatszeichen. Oder Explikationen dienen zur
+vorläufigen Abgrenzung. Letztendlich entscheidet wohl die Kommunikation
+innerhalb eines gewissen Sprachspiels, wie man Grundbegriffe einer
+Theorie versteht, ohne das diese definiert werden müssen. Verfahren
+lassen sich hier i.a. nicht angeben. Von Fall zu Fall muß man sogar
+seine Explikationen anpassen.
+
+Wie auch immer, auch zu den Grundbegriffen gibt es einiges in Form von
+Erläuterungen zu sagen. Somit können wir sagen, dass wir höchstens
+abzählbar viele Grundbegriffe in einer Theorie haben.
+Ist nun D ein unendlicher Gegenstandsbereich, N(D) die Menge aller
+Eigennamen von Gegenständen aus D - in Zeichen: N(D):={�|a\in D} -,
+so gibt es höchstens |D|-viele /definierbare/ Klassen. Definiert man für
+alle � aus N(D) die Klasse A_{�}:={x|~x=�}, so haben wir schon |D|-viele
+Klassen. Andererseits kann man wegen der Endlichkeit eines Satzes auch
+nicht mehr als |D|-viele Klassen definieren. Damit gibt es also nicht
+
+
+Gruß, Ingo.
+--

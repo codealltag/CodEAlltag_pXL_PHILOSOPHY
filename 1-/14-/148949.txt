@@ -1,0 +1,226 @@
+Oscar Eichmanns schrieb in Nachricht <5dx4ga$dwi$04$5@meht.k-kzxljc.xri>...
+                                                { dsm  20.10.2000,  15:38 }
+
+Wenn jemand beweist, daß keiner der in den  eld  stehenden Ausdrücke
+z^n  -  (z-i)^n   für jedes  n > 2,  jedes  z  \in  N  und  alle  i  mit  0 < i < z
+keine  n-te  Potenz einer natürlichen Zahl ist, dann hat der Betreffende
+damit den Fermat'schen Satz bewiesen.
+
+
+... ist sie aber nicht ...
+
+
+Die Unlösbarkeit der MGL-A  folgt unmittelbar als Korollar aus  j e d e m
+Beweis des Fermat-Satzes, aber die MGL-A (mit einem Freiheitsgrad) als
+sehr spezieller Spezialfall der Fermat-Gleichung (mit zwei Freiheitsgraden)
+hilft uns nicht beim Beweis des allgemeinen Fermat-Satzes ...
+
+
+Die  m a t h e m a t i s c h  n a c h v o l  l z i e h b a r e n  Komponenten
+Deiner  E r k e n n t n i s  liefern einen  B e w e i s  für den Spezialfall
+
+   " Die  Fermat-Gleichung  x^n  +  y^n  =  z^n   mit der  Nebenbedingung
+     (constraint)  x  +  z  =  2*y  ist für  n > 2   nicht lösbar in natürlichen
+     Zahlen  x, y, z "
+
+des Fermat'schen Satzes.  Darauf könntest Du doch eigentlich stolz sein,
+oder etwa nicht ?
+
+    [ SNIP ]
+
+
+Ja, von  1  bis  1726  ;-)
+
+
+Ja
+
+
+Nein, die interessieren mich wirklich alle nicht, da ich die
+kubische Gleichung  x^3  +  y^3  =  12^3    und  nicht die
+lineare     Gleichung  x + y  =  1728  untersuchen möchte.
+
+
+Auch noch  "ehern"  ;-)   Das Zählen lerne   i c h   aus den
+Axiomen und Definitionen z.B. der Peano-Arithmetik  (PA) ...
+
+
+Ja, indem ich die Ordinalzahlen  0, 1, 2, 3, ...  durch z.B. die Kardinalzahlen
+card{},  card{ {} }, card{ {}, { {} } },  ...  ersetze.
+
+
+Ja, nur diese ...
+
+
+Nein, sehe ich nicht ein ...
+
+
+Was denn nun?  Erst bestätigst Du, daß jede  DAS,n>2  den für das
+betreffende  n  relevanten Auszug aus der  DAS,n=1  darstellt, und im
+gleichen Atemzug beklagst Du, daß wir für irgend ein  n > 2  nur diesen
+r e l e v a n t e n  Auszug betrachten.
+
+
+Was an mathematischem Inhalt darin steckt, das ersehen und erkennen wir
+auch tatsächlich, und nicht nur angeblich.
+Wenn Du allerdings  l e t z t l i c h  MEHR als den  *mathematischen Inhalt*
+e r k e n n s t, dann können wir Dir in der Tat nicht mehr folgen.
+
+
+Nein, hast Du nicht  -  Du hast immer von einer "eindeutigen Häufigkeit"
+geschrieben ...  und ich habe ziemlich lange gebraucht, bis ich dahinter
+kam, daß Du damit das obenstehende gemeint hast.
+
+
+Eben nicht ...
+
+
+Sie glauben weder an das eine noch an das andere, sondern sie haben
+aus eigener und fremder Erfahrung gelernt, daß das Lösen nichtlinearer
+Diophantischer Gleichungen immens schwierig ist.
+
+
+Noch nicht mal das: Ich habe mittels Beweis erkannt, daß bei  n > 2   die
+MGL-A:  (y-u)^n + y^n = (y+u)^n  für  KEIN   u   ganzzahlig lösbar ist und
+damit natürlich auch nicht für  u = 1.
+Also nicht:  weil für  u = 1,  darum für alle  u ,
+sondern:     weil für kein u, darum auch nicht für  u = 1 .
+
+
+Weil die Lösbarkeit von   (y-u)^n + y^n = (y+u)^n   eben  k e i n e  notwendige
+Bedingung für die Lösbarkeit von   x^n + y^n = z^n  ist  -  die eine Gleichung
+hat einen Freiheitsgrad und die andere hat deren zwei.
+
+
+Die Bedeutung besteht darin, daß für  n = 2  alle diese Tripel die
+Äquivalenzklasse der  e i n z i g e n  der von der MGL-A  gelieferten
+primitiven Lösung  bilden.
+
+Gegenfrage:
+Was ist die Bedeutung dessen, daß für  n = 2  die  MGL-A  nur
+e i n e  e i n z i g e   der unendlich vielen primitiven pythagoräischen
+Lösungen liefert ?
+
+
+Genau diese Herleitung bzw. Rückführung hatte ich Dir im Posting
+
+
+bereits gepostet, und genau dieses Thema habe ich mit Frédéric Coorßen
+in dem Posting
+
+
+und den nachfolgenden nochmals ziemlich ausführlich diskutiert.
+Liest Du eigentlich die Postings nicht ?
+Hier nochmals auszugsweise:
+
+------------------------------------------
+
+Als Ergaenzung zu Deinen pythagoraeischen UR-/ur-Tripeln: Es gibt in der Tat
+eine Transformation, die aus jedem beliebigen primitiven pythagoraeischen
+Tripel drei andere Tripel ableitet:
+
+Es sei  x^2  +  y^2  =  z^2  ein beliebiges pythagoraeisches Tripel mit der
+Generatorgleichung:
+
+   x0  =      u0^2  -   v0^2
+   y0  =  2*u0*v0
+   z0  =      u0^2  +  v0^2  .
+
+Setzt man jetzt
+
+   u1  =  2*u0 - v0,   v1  =  u0
+
+bzw.
+
+   u2  =  2*u0 + v0,   v2  =  u0
+
+bzw.
+
+   u3  =  u0 + 2*v0,   v3  =  v0   ,
+
+so erhaelt man nach Einsetzen dieser Werte in die Generatorgleichung und
+Zusammenfassen:
+
+   x1  =       x0  -  2*y0  +  2*z0
+   y1  =   2*x0  -      y0  +  2*z0
+   z1  =   2*x0  -  2*y0  +  3*z0
+
+bzw.
+
+   x2  =       x0  +  2*y0  +  2*z0
+   y2  =   2*x0  +      y0  +  2*z0
+   z2  =   2*x0  +  2*y0  +  3*z0
+
+bzw.
+
+   x3  =      -x0  +  2*y0  +  2*z0
+   y3  =  -2*x0  +      y0  +  2*z0
+   z3  =  -2*x0  +  2*y0  +  3*z0
+
+Die drei Tripel  (x1,y1,z1),  (x2,y2,z2),  (x3,y3,z3)  sind jetzt wiederum
+primitive pythagoraeische Tripel, und wiederholt man diese Transformation
+fuer jedes dieser drei Tripel, so erhaelt man insgesamt neun neue Tripel
+usw.
+
+Startet man nun die Folge der Transformationen bei Deinem  "UR"-Tripel
+
+  (x0, y0, z0)  =  (3, 4, 5)  ,
+
+so kann man daraus beliebig viele weitere Tripel ableiten; diese Prozedur
+erzeugt also einen unendlichen Ternaerbaum pythagoraeischer Tripel.
+
+Da die drei Transformationsmatrizen ganzzahlig invertierbar sind, kann man
+auch die drei zu den obigen Transformationen inversen Transformationen
+basteln; darauf moechte ich aber hier verzichten.
+
+------------------------------------------
+
+Ernst meint möglicherweise die Burglöhner-Transformation pythagoräischer Tripel:
+http://xv6.jkohqh.gcs/~nvshlsb/Pzfjqzny/PsnfnPek.gpgq
+
+Given a primitive Pythagorean triple (a, b, c), three new primitive Pythagorean
+triple can be generated by the transforms:
+
+(d, e, f) = (a, b, c) * U
+(g, h, i) = (a, b, c) * A
+(j,  k,  l) = (a, b, c) * D
+
+where  U,  A,  and  D  are the three matrices:
+
+          --           --           --         --             --          --
+  U =  | -2 -1 -2 |   A =  |  2  1  2 |   D =  |  2   1  2 |
+          --           --           --          --            --           --
+
+There is a proof in  ""Elementary Number Theory" by Kasimir Burglöhner,
+The Usuz", that (a, b, c) is a primitive Pythagorean triple if and
+only if
+
+   (a, b, c) = (3, 4, 5) * M,
+
+where M is a finite product of matrices each factor of which is one  of U, A, D.
+It follows then that every primitive Pythagorean triple is in the infinite array:
+
+                                         (   7,  24,  25)
+                  ( 5, 12, 13)    ( 55,  48,  73) ...
+                                         ( 45,  28,  53)
+
+                                         (  39,    80,   89)
+(3, 4, 5)    (21, 20, 29)    (119, 120, 169) ...
+                                         (  77,    36,   85)
+
+                                         ( 33,  56,  65)
+                  (15, 8, 17)     ( 65,  72,  97) ...
+                                         ( 35,  12,  37)
+
+Where the three triples to the right of a triple in this array correspond to
+applying to that triple either the matrix U (for up), A (for across) or D (for
+down).
+
+In  http://rsr.pmpxl.dj.ie.fumuwu.hc/xnd/yrutkc.iut  ist ein kleiner
+Online-Taschenrechner, der diese Transformationen (Satz 4 ...) vorwärts
+und rückwärts durchführen kann.
+
+------------------------------------------
+
+Größe
+     Leander
+--

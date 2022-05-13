@@ -1,0 +1,60 @@
+Du meinst bestimmt M = N u {N}, oder ?
+Egal, beide sind kein Element von POT(POT(N)).
+
+
+Ein Beweis ist schon dann nicht korrekt, wenn einer der Beweisschritte keine
+logische Folgerung ist. Davon haben wir genuegend herausgedeutet. Wie du auf
+die Idee kommst du koenntest das ignorieren und dein "Beweis" haette
+trotzdem bestand, wird uns allen ein Raetsel bleiben.
+Und wenn du einen "Beweis" lieferst, der die zu beweisende Aussage bereits
+verwendet, dann ist das eben kein Beweis.
+
+
+Das Diagonalverfahren ist in dem Beweis geschildert worden (von Bruno
+Zinkler) - du konntest keine Stelle benennen, an der ein logisch falscher
+Schluss vorliegt.
+
+
+Ja, nur leider erzeugst du so nur endliche 0,1 Folgen !
+
+[an alle anderen: Sascha schreibt die Folgen doch von rechts nach links...
+er schildert hier nur die normale Binaerschreibweise ]
+
+
+Nope. Dein F ist abzaehlbar. Sie ist die Menge aller endlichen 0,1 Folgen.
+
+
+Die Mengen 2IN und IN sind nicht endlich, 2IN ist eine echte Teilmenge von
+IN
+und die Abbildung  f: 2IN-->IN, 2k |---> k  ist bijektiv.
+Das ist eine Konsequenz der Definitionen.
+Was davon zweifelst du an ?
+
+
+Wie schon oben gezeigt: es gibt unendliche Mengen, die sich bijektiv auf
+eine ihrer echten Teilmengen abbilden lassen. Deshalb geht das schon etwas
+ueber eine "Behauptung der Mengenlehre" hinaus.
+
+ G ist ein Element von POT(G) ! Keine Teilmenge !
+Die Idee "G ist unendlich, wenn man sie bijektiv auf eine ihrer Teilmengen
+abbilden kann" wuerde ja bedeuten, es gibt eine bijektive Abbildung von
+einem Element von POT(G) auf G.
+Dass es keine bijektive Abbildung von ganz POT(G) auf G gibt, ist doch kein
+Indiz fuer einen Widerspruch.
+
+
+ IN enthaelt keine echte Teilmenge mit derselben Peano-Struktur, aber sie
+enthaelt echte Teilmengen (wie z.B. 2IN), die auch eine Peano-Struktur haben
+Jede bijektive Abbildung von IN auf eine Menge M, bedeutet doch nur eine
+"Umbennenung" der Objekte von IN, wobei M=f(IN) die Struktur von IN "erbt".
+In diesem Sinne kann ich die Elemente von IN mit den Elementen von 2IN
+bezeichnen; dann stellt es doch kein "Problem" dar, dass es jetzt kein
+Element in M gibt, dass mit "1" bezeichnet ist.
+Es gibt eben einen Unterschied zwischen den Abbildungen:
+f1: IN ---> IN,   n |---> 2n            und
+f2: IN ---> 2IN, n |---> 2n.
+
+f2 ist bijektiv, f1 nicht.
+
+
+            N

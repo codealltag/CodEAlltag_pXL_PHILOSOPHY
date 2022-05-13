@@ -1,0 +1,28 @@
+doch, sicher ist eine Variable eine Zahl.
+
+
+eine Variable kann viele Zahlenwerte annehmen, nämlich jeden, der in der 
+Menge liegt, der die Variable angehört.
+Die Variable ist aber dennoch eine einzige Zahl, nicht mehrere.
+
+
+es gibt keinen Punkt einer Funktion.
+Funktionen haben keine Punkte.
+Außerdem ist lim_{x to infty} e^{-x} = 0 keine Funktion, sondern der 
+Grenzwert einer Funktion, nämlich der Funktion e^{-x}.
+
+Möglicherweise sprichst du von dem Funktionswert f(x) an einem Punkt x.
+
+
+und warum sollte das nicht möglich sein?
+
+
+falls du den Funktionswert an der Stelle x=e meinen solltest, dann hast du 
+unrecht. e^{-x} hat ja bei x=e keine Definitionslücke, ist also dort 
+definiert.
+lim_{x to infty} e^{-x} ist bei x=e natürlich nicht definiert, denn x kann 
+ja schlecht gegen infty gehen, solange x=e ist. Die Geschwindigkeit eines 
+Autos kann nicht gegen 200 km/h gehen, solange sie konstant 10 km/h ist.
+
+
+falsch, ich versuche überhaupt nicht, irgendetwas zu beweisen.

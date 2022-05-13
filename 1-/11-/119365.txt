@@ -1,0 +1,25 @@
+Solche Mystik braucht man dazu nicht.  Im *eingeschwungenen*[1]
+Nahfeld mag das Feld überall fast phasengleich schwingen, das macht
+aber nichts, da die meiste Energie nur auf der Stelle wabert (zum
+Ausgleich sind dann elektrisches und magnetisches Feld um fast ö0
+phasenverschoben, d.h. man hat lokalisierte Energieumwandlung, aber
+keine Ausbreitung.  Dieser Anteil fällt mit 1/r^2 ab, und weiter
+draußen sieht man nur noch den 1/r-Anteil.  Dieser bewegt sich mit
+c und hat elektrisches und magnetisches Feld im Gleichtakt.
+
+Bis das Nahfeld eingeschwungen ist, hat man auch dort Ausbreitung mit
+c.  Danach braucht man sie nicht mehr (bis auf den Anteil der Energie,
+der wirklich abgestrahlt wird).
+
+[1] das kann eine Weile dauern, wenn die Antenne schmalbandig ist.
+    Irgendwo im WWW liegen animierte Bilder des numerisch berechneten
+    Feldes um Supergainantennen herum herum, da sieht man den Übergang
+    vom Nah- zum Fernfeld besonders schön (eiförmige Wolke mit
+    riesigen Feldstärken um die Antennenelemente, aus dem vorderen
+    Rand der Wolke weit ab von der Antenne kommt ein schmaler Strahl
+    raus).
+
+Burkhard
+-- 
+GS d->? s:++>+++ a+ C++++$ UL+++$ UH+ P++ L++ E+++ W- N++ o-- K- w--- !O M- V-
+PS+>++ PE Y+>++ PGP+ !t !5 !X !R !tv  b+++ DI+++ D?  G+ e++++ h+ r? y?

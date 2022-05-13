@@ -1,0 +1,29 @@
+*Seufz* Theoretische Informatik im Schnelldurchlauf ist wohl nix.
+Es ist eine eigene Sprache, die man erst lernen muß *gg*
+
+
+Ist das nun eine rein theoretische Forderung oder gibt es für
+einigermaßen verschiedene Sprachen bereits Übersetzungsprogramme?
+Zumindest einen automatischen Übersetzer von VB.NET auf C#.NET
+hab ich mal gesehen, aber die beiden sind nicht so sonderlich
+unterschiedlich, nehme ich an. Es gibt gewiß schwierigeres, das
+sehr viel weiter auseinanderliegt.
+Was mir als Beschränkung einfällt, ist: falls es nur einen Weg
+gibt, sagen wir mal, pi zu berechnen, dann könnte das ein
+Übersetzungsproblem sein. Weil man dann entweder den
+Berechnungsweg von pi nur übernehmen kann oder es lassen. Wenn es
+jedoch diverse Wege gibt, pi zu berechnen, dann sollte es mit der
+Übersetzung doch eigentlich klappen, denn dann kann ein der
+anderen Sprache gemäßer Weg gefunden werden.
+
+
+Letzteres ist ja wohl der große Traum eines Zweigs der KI, den
+ich nicht teile, weil ich das für tatsächlich unmöglich halte.
+Was nicht heißt, daß mMn Sprachforschung qua Formalisierung
+nichts bringen würde; aber die Assoziation eines Geruchs z.B.
+wird man damit nicht transportieren können.
+
+
+Ja, Teilmengen sind selbstverständlich, denn auch Mathematik wird
+in natürlicher Sprache ausgedrückt, und die läßt sich
+formalisieren. Auch eine Menge anderes.

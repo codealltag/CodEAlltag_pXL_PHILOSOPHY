@@ -1,0 +1,4 @@
+(wahr ist) (wahr _gdw_ wahr wahr ist)
+x --> xxx
+(wahr _gdw_ wahr wahr ist)(wahr ist)
+xxx ---> x

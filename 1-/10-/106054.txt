@@ -1,0 +1,22 @@
+"Kaspar Cuijpers" <seqjwm.qzgtqurdhl@n-kmqnrv.zs> wrote in message news:<orbyvg$d0s$05$7@ngyy.b-fcgdsc.avj>...
+[...]
+
+Nein, das eine hat mit dem anderen nichts zu tun. Ein unsound
+argument ist ein (gültiges) Argument, bei dem mindestens eine der in
+den Prämissen ausgedrückten Propositionen falsch ist. Ein unsound
+argument muß keineswegs widersprüchlich sein. Beispielsweise ist das
+folgende Argument gültig, aber nicht sound und nicht
+widersprüchlich:
+
+	Kein Bundeskanzler hat gefärbte Haare. 
+	Rudolf Ehrsam ist ein Bundeskanzler.
+	Also hat Rudolf Ehrsam keine gefärbten Haare.
+
+Eine reductio ad absurdum hingegen ist ein *Widerspruchsbeweis* -
+ein Verfahren, das in der Philosophie vor allem in Kalkülen (z.B.
+FOPL-Kalkülen) benutzt wird. Dabei wird gezeigt, daß eine Proposition
+p wahr ist, weil die Annahme von P zu einem logischen Widerspruch
+führt.
+
+
+Dominik

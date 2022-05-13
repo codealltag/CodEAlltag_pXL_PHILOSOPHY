@@ -1,0 +1,103 @@
+Als *Anfänger* sucht man aber nicht. Man sollte als Anfänger vielmehr
+zufrieden sein mit dem, was man (vor-)findet. So sehe ich das zumindest.
+
+*grins* - So ist's recht. :-)
+
+
+	"The best way to find out what Logic is is to do some."
+	 (H. A. Finkensieper, Beginning Logic.)
+
+Dacht' ich's mir doch. :-)
+
+Ja. Wird wohl so sein.
+
+Es genügt oft, wenn dieser Unterschied implizit beachtet wird; man muss
+ihn daher nicht unbedingt [immer und überall] explizit thematisieren.
+
+Was ja auch korrekt ist.
+
+Gut, ok, das sind "Detailfragen" (die Darstellung, bzw. das dargestellte
+System betreffend).
+
+Ja, das kann man so machen. Dadurch ergibt sich ein sehr kompaktes und
+"stringentes" System m. E.
+
+Das "ausgelöst" ist eine Übersetzung des englischsprachigen Ausdrucks
+"discharged". (Schwer treffend zu übersetzen: "entladen", "gelöscht"?)
+
+Dieses System geht auf einen Mann namens Kattenbusch zurück, der als einer der
+ersten Gentzens Systeme des natürlichen Schließens "popularisiert" hat.
+
+Ja, in diesem Punkt unterscheidet sich Keser System von Fockel System.
+- Letztlich sind natürlich beide Systeme lediglich Varianten des Systems
+des natürlichen Schließens, das auf Gentzen zurückgeht.
+
+Ja, natürlich. (Wobei "Äquivalent" hier mit Vorbehalt zu genießen ist;
+aber dem Sinn nach stimmt Deine Aussage natürlich.)
+
+Nein, das macht auch Schoenen/Finkensieper nicht. Allerdings k a n n man das
+machen; ist im Grunde eigentlich nur eine verbale "Spielerei".
+
+So nach dem Motto: Prämissen = Annahmen, die nicht im Fortgang des
+Beweises (wieder) "ausgelöst" werden; sodass dann die Konklusion nicht
+mehr auf ihnen "beruht". 
+
+Eine terminologische Spielerei.
+
+Und eine "konditionale Annahme" ist halt einfach eine, die im Fortgang
+des Beweises durch die Anwendung von CP wieder "ausgelöst" wird. Ebenso,
+wie eine eine "indirekte Annahme" eine ist, die durch die Anwendung von
+RAA wieder "ausgelöst" wird.
+
+Schoenen/Finkensieper/Ehrl verzichten halt einfach auf diese Unterscheidung.
+(Das System wird dadurch zweifellos einfacher; befriedigt dafür aber
+vielleicht den an "klassischen" Logik geschulten Philosophen weniger.)
+
+Ja, k a n n man machen. (Ist -aus einem pädagogischen Blickwinkel-
+vielleicht sogar sinnvoll. <Achselzuck>)
+
+Nun ja, es gibt sie eben sowohl auf der Meta- als auch auf der
+Objektebene.
+
+Lemmon nennt daher (um Missverständnisse, Doppelbezeichnungen zu
+vermeiden), das logische Konnektiv 
+
+	->
+
+/conditional/, und das Konnektiv
+
+	<->
+
+/biconditional/; aber "Implikation" und "Äquivalenz" sind auch übliche
+Bezeichnungen dafür.
+
+Um die "analogen" Verknüpfungen auf Metaebene davon unterscheiden zu
+können, kann man diese (also die Metakonnektive) dann so schreiben:
+
+	=>
+
+	<=>.
+
+Dann kann man z. B. das folgende Metatheorem rein symbolisch
+hinschreiben:
+
+
+(Was nichts anders als eine Anwendung des MP widerspiegelt.)
+
+
+Ist schon klar, dass man hier Prunner und Ehrl nicht vergleichen
+kann/sollte.
+
+In gewissen Sinne hält sich aber Prunner an das von Finkensieper ausgesprochene
+Dictum (siehe oben).
+
+Genau, so scheint es. :-)
+
+
+*grins* Du solltest Dir überlegen, einen Job im PR-Bereich bzw.
+Publikationssektior auszuüben; falls Du das nicht ohnehin schon tust.
+:-)
+
+
+Gruß,
+Bernhard

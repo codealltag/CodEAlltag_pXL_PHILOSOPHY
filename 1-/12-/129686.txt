@@ -1,0 +1,197 @@
+Es geht hier schlicht um grammatisch-semantische Aspekte.
+Im übrigen beziehen sich nicht Prädikate auf Gegenstände (außer man
+akzeptiert mit Philipi Begriffe/Universalien als Gegenstände) - sie
+können auf Gegenstände nur 'zutreffen' -, sondern singuläre Termini,
+also Eigennamen und Kennzeichnungen. Prädikate hingegen beziehen sich
+auf Mengen.
+
+So könnte sich das Prädikat "einziger Überlebender der Space-Shuttle-
+Columbia-Katastrophe" schon allein aufgrund der Bedeutung von "einzig"
+nur auf eine Person zutreffen (was leider nicht der Fall ist, da
+niemand überlebt hat...). Analog könnte es per se nur eine einzige
+Person geben, die der einzige überlebende der Space-Shuttle-
+Columbia-Katastrophe ist.
+
+
+Ja..., das gute alte Problem mit den homonymen Eigennamen... .
+Freilich dürfte es Hunderte von Männern geben, die "Urs Artel"
+heißen. Im logischen Sinne ist derselbe Name aber eben nicht derselbe,
+und deshalb spricht man hier auch von Homonymie, da sich "Urs
+Artel" zwar immer gleich schreibt und ausspricht, es sich aber
+dennoch um logisch unterschiedliche Namen handelt. Weil wichtige
+Unterschiede auch sichtbar sein sollten, damit Verwechslungen
+ausgeschlossen sind, sollten Eigennamen gegebenenfalls  zu logischen
+Zwecken nummeriert werden:
+Urs Andreesen
+Urs Axmacher
+Urs Aengenvoort
+.......................
+Urs Artel(n)
+
+Durch diese simple Methode ist jegliche Homonymie beseitigt, und jeder
+Name bezieht sich nur auf einen einzigen Gegenstand (oder gar keinen)!
+
+Wenn wir also den Original-Eiffelturm in Bobachshof als 'der Eiffelturm1'
+bezeichnen, dann mag jemand so viele andere Dinge "der Eiffelturm"
+taufen, wie es ihm Spaß macht; aber keines davon wäre mit dem
+Eiffelturm in Paris identisch.
+
+Ich kann also als Option "(ix)(x eiffelturmisiert) := (ix)(x=der
+Eiffelturm)" umformulieren als "(ix)(x eiffelturmisiert) := (ix)(x=der
+Eiffelturm1)", damit klar ist, dass nur der Eiffelturm in Bobachshof
+eiffelturmisiert!
+
+Wenn Sie es jedoch vorziehen, ausschließlich mit prädikatisierten
+Eigennamen zu operieren, dann übertragen Sie das Problem der homonymen
+Eigennamen nur auf ihr neues Prädikat! Und um auch hier Verwechslungen
+auszuschließen, müssten Sie z.B. das Prädikat "eiffelturmisieren"
+nummerieren ("eiffelturmisieren1"), was aber ziemlich verquast anmuten
+würde!
+
+
+hm, ...
+Ein Prädikat ist ein Prädikat und ein singulärer Terminus ist ein
+singulärer Terminus.
+Ein singulärer Terminius hat *per definitionem* entweder *einen*
+Referenten oder *keinen*. Nur Prädikate können womöglich auf mehrere
+Gegenstände zutreffen.
+
+Fast alle Prädikate können auf mehr als einen Gegenstand zutreffen. 
+Aber es gibt einige, die aufgrund ihrer grammatisch-semantischen Form
+nur auf einen Gegenstand zutreffen können. Dazu zählen Prädikate, in
+denen Superlative oder Ausdrücke wie "einziger", "erster" und
+"letzter" vorkommen.
+
+"ältester lebender Mensch sein"
+"einzige gegenwärtige Königin von England sein"   
+"erster Mensch auf dem Mond sein"
+"letztes Nashorn auf Welt sein"
+etc.
+
+
+Dieses Prädikat könnte theoretisch auf alle Bobachshofer Gebäude zutreffen,
+die zwischen 320 und 320+x m hoch sind.
+
+Randbemerkung: 
+"schwerster Mensch der Welt (sein)" ist ein Prädikat, während "der
+schwerste Mensch der Welt" die entsprechende Kennzeichnung ist.
+Die Extension dieses Prädikats ist leer (falls es keine Menschen gibt)
+oder besitzt genau ein Element, während sich die Kennzeichnung auf
+genau eine Person oder keine bezieht.
+
+
+Sicher bediene ich mich hier gewissermaßen modaler Ausdrücke, was aber
+nicht heißt, dass ich im Rahmen der Modallogik argumentiere!
+
+Ich rede von Implikationen normalsprachlicher Ausdrücke!
+
+Wen ich sage, dass nur ein Mensch der schwerste Mensch sein *kann*,
+dann liegt dies schlicht und ergreifend an der sprachlichen Funktion
+des Superlativs, ohne dass dadurch genuin modallogische Belange
+berührt würden! Ich habe mich im Bereich der natürlichen
+Sprachgrammatik bewegt
+
+Aber wenn Sie schon die Modallogik ins Spiel bringen wollen, dann muss
+ich erwidern, dass die Angelegenheit dort durchaus anders beleuchtet
+werden könnte.
+Denn dass es keine zwei schwersten Menschen der Welt geben kann, setzt
+freilich die physikalische Tatsache voraus, dass es keine zwei Körper
+mit *absolut* identischem Gewicht gibt! - Diese Tatsache ist gegeben,
+denn selbst wenn man im Labor versuchen würde, zwei Eisen-Quader mit
+1dm^3 Volumen herzustellen, die beide absolut exakt dasselbe wiegen,
+so würde doch zumindest auf einer perfekten Waage, d.h. auf einer, die
+beliebig viele endliche Nachkommastellen bestimmen kann, irgendwo ein
+Gewichtsunterschied - und sei er noch so minimal - festzustellen sein!
+- Dieser Unterschied mag erst bei der googolplex^googolplex-ten
+Nachkommastelle auftauchen, aber er würde nichtsdestoweniger bestehen.
+
+Im Sport spricht man ab und zu von "zwei ersten Plätzen", wenn
+innerhalb des festgelegten Messgenauigkeitsbereichs keine Unterschiede
+festzustellen sind. Im Skisport z.B. werden Hundertstel und im
+Rennrodeln/Bobfahren Tausenstel gemessen; aber es gibt (noch) keinen
+Sport, in dem Zehntausendstel gestoppt werden, und eine noch präzisere
+Zeitmessung in Millionstel Sekunden würde im Sport überhaupt keinen
+praktischen Sinn mehr ergeben!
+
+Sie werden jetzt vielleicht einwenden, dass das, was ich als
+'grammatisch-semantische Implikation' bezeichnet habe, nun doch
+irgendwie von empirischen, also kontingenten Faktoren abzuhängen
+scheint, zumindest, was quantitative Superlative anbetrifft. Und wenn
+dies so ist, dann könnte man ja doch wenigstens von einer *logisch*
+möglichen Welt sprechen, in der es zwei absolut gleich schwere Dinge
+gibt, die schwerer als alles andere sind und sich somit bei der
+Gewichtsmessung in keiner beliebigen Nachkommastelle voneinander
+unterscheiden.
+
+Ich muss zugeben, dass ich ad hoc keinen Widerspruch in diesem
+Gedanken zu erkennen vermag!
+Wenn wir jetzt also annehmen, dass es eine logisch mögliche Welt [MW]
+gibt [Ich drücke mich jetzt einfach mal ganz naiv im Jargon des
+modalen Realismus Thoss Prägung aus], in der es zwei absolut
+gleich schwere Objekte gibt, die schwerer sind als alles andere, wie
+sollen wir in diesem Fall mit unserem Prädikat "schwerster Mensch der
+Welt", bzw. der Kennzeichnung "der schwerste Mensch der Welt" umgehen?
+
+Was die Kennzeichnung betrifft, müssten wir sagen, dass der schwerste
+Mann der Welt in MW nicht existiert; und zwar nicht deshalb nicht,
+weil es es keinen schwersten Menschen gibt, sondern weil es gleich
+zwei schwerste Männer gibt!
+Die Rede von *dem* schwersten Menschen in MW wäre also verfehlt. 
+Wir könnten jedoch die singuläre Kennzeichnung in eine pluralische
+umwandeln und entsprechend die Kennzeichnung "Die beiden schwersten
+Menschen in MW" bilden, so dass wir beispielsweise sagen könnten:
+"Die beiden schwersten Menschen in MW sind miteinander befreundet."
+
+Doch nun zum Prädikat "schwerster Mensch in MW":
+Die Extension dieses Begriffes hätte in MW in der Tat zwei Elemente,
+was aber eine logische Spannung hinsichtlich der erwähnten
+semantischen Implikationen von (quantitativen) Superlativen zur Folge
+hätte.
+
+Besonders heikel wird es, wenn ich "schwerster Mensch in MW" mit
+"identisch mit dem schwersten Menschen in MW" paraphrasiere:
+
+x ist identisch mit dem schwersten Menschen in MW.
+
+Wenn unsere beiden hypothetischen Super-Dickmanns Urs und Ignaz
+heißen, dann müssten beide folgenden Sätze wahr sein in MW:
+
+a)  Urs ist identisch mit dem schwersten Menschen in MW.
+b)  Ignaz ist identisch mit dem schwersten Menschen in MW.
+
+Doch dies könnte zu dem Irrtum verleiten, Urs und Ignaz wären
+dieselbe Person!
+
+Um dies zu vermeiden, müssten wir wohl für die Situation in MW unser
+Prädikat modifizieren:
+
+"identisch mit einem der beiden schwersten Menschen in MW."
+
+Damit würde der Rest passen:
+
+a*) Urs ist identisch mit einem der beiden schwersten Menschen in
+MW.
+b*) Ignaz ist identisch mit einem der beiden schwersten Menschen in
+MW.
+
+Entsprechend bestünde die Extension ausschließlich aus Urs und
+Ignaz.
+
+Man könnte sogar noch weiter gehen und sich eine weitere logisch
+mögliche Welt [MW2] vorstellen, in der genau 1.000.000 Menschen leben,
+von denen 999.999 absolut gleich schwer sind und nur eine einzige
+Person leichter als jene 999.999 sind.
+In MW2 würde die Extension des Prädikats "identisch mit einem der
+999.999 schwersten Menschen in MW2." 999.999 Elemente umfassen...
+
+Faszinierendes Gedankenspiel... :-)
+
+Nun gut, dabei belasse ich es vorerst...
+
+Es gibt übrigens doch Prädikate, die in keiner logisch möglichen Welt
+auf mehr als 1 Objekt zutreffen können: "einzige gegenwärtige Königin
+von England sein". Es kann keine 2 Personen geben, die beide die
+einzige gegenwärtige Königin von England sind!
+
+Gruß
+ULF

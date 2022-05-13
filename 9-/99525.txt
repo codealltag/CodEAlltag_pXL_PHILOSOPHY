@@ -1,0 +1,22 @@
+Ich habe mich wahrscheinlich nicht genau genug ausgedrückt.
+Genauer genommen, ist dies in solchem Kontext:
+Es geht um Hartwig Oberhausens Beweis zur intuitionistischen Logik, wo er zeigt, 
+dass es in der intuitionistischen logik keine endlichen Wertetafeln geben 
+kann:
+
+"Für [...] das System H des intuitionistischen Aussagenkalküls gelten 
+folgende Sätze:
+I. Es gibt keien Realisierung mit  e n d l i c h  vielen Elementen 
+(Wahrheitswerten), für welche [...]"
+
+Soll hier Realisierung einfach "Darstellung" heissen?
+
+Aber später heisst es dann:
+"Sei ferner Sn die folgende Realisierung:
+     Elemente: {1,...,n}, ausgezeichnetes Element: 1;
+     a oder b = min(a,b),
+     [...]"
+
+Hier passt "Darstellung" nicht mehr so richtig.
+
+Irene

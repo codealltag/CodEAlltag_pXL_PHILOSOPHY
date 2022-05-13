@@ -1,0 +1,171 @@
+: Willi Wellinghausen (mugeuvgs@qkffvv80.btyaozykgf.ebp-xxktrhb.sd) wrote:
+
+[snip]
+
+: : Für mich gehören zu jeder Wissenschaft Gesetze und Voraussagen, respektive
+: : Erklärungen von Ereignissen. Gesetze müssen dabei mindestens einen
+: : Allquantor enthalten, um "Gesetz" genannt werden zu können. Einige Theorien
+: : fordern, um ihre Gesetze formulieren zu können, die Existenz von bestimmten
+: : Objekten, so kommen Existenzaussagen in die Theorie. Im Prinzip ist sogar
+: : jedes Gemisch von Existenz und Allquantoren innerhalb einer Theorie möglich.
+
+: Das hoert sich so an, als ob die groesste Bedeutung hier auf den
+: Existenzquantoren liegen wuerde. Das ist aber nicht so, da es eine
+: logische Tatsache ist, dass man einen Allquantor immer vor einen Existenz-
+: quantor ziehen kann, falls er in einem Satz auftaucht. Logisch ist ein
+: solcher Satz also immer ein Allsatz auch wenn er noch Existenzquantoren
+: enthaelt. Der umgekehrte Weg ist im Gegensatz dazu nicht zulaessig.
+
+Bitte? Zurück zum Logikkurs! Es ist doch nicht das Selbe, wenn es jemanden
+gibt, der Alle liebt, oder wenn es für alle jemanden gibt, den sie lieben!
+
+	(\exists x)(\forall y)[ x liebt y] 
+total verschieden von
+	(\forall x)(\exists y)[ x liebt y]
+
+Wie dem auch immer sei, es liegt jedenfalls "keine größere Bedeutung" auf
+den Existenzquantoren, sie bedeuten einfach was anderes als Allquantoren und
+werden benutzt, um andere Dinge auszudrücken. Deswegen sind sie aber nicht
+wissenschaftlich wertloser und natürlich auch nicht wertvoller als
+Allquantoren. In der Wissenschft gibt es eben nicht nur Gesetze (für die man
+Allquantoren braucht).
+
+: : Eine wissenschaftliche Erklärung (Vorhersage) eines Ereignisses E besteht
+: : aus einer Reihe von Antecedenzbedingungen und mindestens einer
+: : Gesetzesaussage (siehe Leimbach und Unverricht). Die Antezedenzbedingungen
+: : werden als Existenzaussagen formuliert, die Gesetze als Allaussagen. Wenn es
+: : also Ereignisse A_1, ..., A_k gibt, dann folgt aus den Gesetzen G_1, .. G_j,
+: : daß das Ereignis E eintritt.
+
+: Die Ereignisse A_1, ..., A_k musst du doch in eine Klasse vergleichbarer
+: Ereignisse einordnen, um ueberhaupt zu wissen, dass du die entsprechenden
+: Gesetze anwenden musst. Das geschieht aber in der logischen Form, dass
+: alle vergleichbaren Vorbedingungen in einem Allsatz klassifiziert werden,
+: so dass sich aus den hypothetischen Gesetzen, die fuer diese Klasse von
+: Ereignissen gelten sollen, das Ereignis E ergeben muesste. Eine Aussage
+: ueber einen Einzelfall bei dem man von konkreten Ereignissen A_1 bis A_k
+: ausgeht, ist doch absolut uninteressant, da man so rein gar nichts
+: prognostizieren kann als diesen einen Fall der Gesetzesanwendung.
+
+Man prognostiziert keine Gesetzesanwendung, sondern mit Hilfe einer
+Gesetzesanwendung und Antezedensbedingungen ein EREIGNIS! Das Vorliegen
+sowohl des zu erklärenden (oder vorherzusagenden) Ereignisses, wie auch der
+Antezedenzbedingungen muß aber empirisch überprüfbar sein und ist somit ein
+Einzelereignis, daß durch einen Existenzquantor beschrieben wird. Nur
+Gesetze nützen, ohne Anwendung auf Einzelfälle sind uninteressant, ebenso
+wie Einzelfälle ohne ein Gesetz als Erklärung nichts taugen. Man braucht
+beides!
+
+Da eine Menge von Einzelaussagen klassifiziert werden kann, hat mit dem
+Fall der konkreten wissenschaftlichen Erklärung aber nur wenig zu tun, da es
+sich dabei um eine Verschiebung der Sprachebene handelt. Denn im ersten
+Fall wird im Rahmen einer Theorie, die Menge der möglichen Anwendungsfälle
+spezifiziert und im anderen Fall wird diese Theorie auf Einzelfälle
+angewandt. Wieso sich hieraus ein "nur Allsätze sind wichtig" ergeben soll,
+ist mir schleierhaft.
+
+: : Fragen wir nun nach der GELTUNG von bestimmten Aussagen, so zeigt die
+: : Lübbers Argumentation, daß Allaussagen nicht per Induktion bewiesen werden
+: : können. Wird damit die Wissenschaft zu einer irrationalen menschlichen
+: : Tätigkeit?  Die Lösung dieses Problems hat Francklin angegeben, wir können das
+: : Gelten von Gesetzen zwar nie beweisen (verifizieren), aber die Ungültigkeit
+: : können wir feststellen (die Gültigkeit falsifizieren). Für Existenzaussagen
+: : gilt aber nach, wie vor, daß sich ihre Gültigkeit verifizieren läßt. Würde
+: : man nicht einmal dieses können, könnte man auch keine Gesetze falsifizieren!
+
+: Natuerlich, aber diese Existenzaussagen kann man immer nur im Lichte
+: einer Theorie gewinnen, so dass man so immer noch keine einwandfreie
+: Verifikation erreicht, sondern hoechstens eine die so stark ist, wie
+: diese Threorie bestaetig ist. Insofern liegt auch bei der Verifikation
+: keine logische Wahrheit vor, sondern nur eine Wahrscheinlichkeit. Solltest
+: du in diesem Punkt deine Meinung total geaendert haben?
+
+Was die Gültigkeit angeht hat sieht es bei der Verifikation nicht anders
+aus, als bei der Falsifikation. So wie Du es einmal in einem
+antirealistischem Moment geschrieben hast, muß eine Falsifikation auch als
+solche akzeptiert werden, das gilt natürlich auch für jede Verifikation!
+
+Und ebenso hast Du recht, daß man bereits über eine Theorie verfügen muß
+(mit All- und Existenbzaussagen), in deren Rahmen die empirischen Daten
+gewonnen und bewertet werden.
+
+: : Aussagen, die aus mehreren gemischten Quantoren bestehen, können weder
+: : falsifiziert werden, noch verifiziert werden, weshalb ihre Gültigkeit
+: : außerhalb einer irgendwie gearteten empirischen Prüfbarkeit liegt. Ein
+: : prominentes Beispiel ist das Kauslit�tsgesetz "Alle Ereignisse haben eine
+: : Ursache", welches weder verifizierbar ist (wg. Allquantor), noch
+: : falsifizierbar (wg. Existenzquantor).
+: : Nun zu sagen, daß nur Allaussagen für die Wissenschft "wichtig" sind, ist
+: : eine arg verkürzte Sichtweise und verwechselt das Geltungsproblem von
+: : Gesetzesaussagen mit der Wissenschaft selbst. 
+
+: Das Beispiel, das du angefuehrt hast, ist aber selbst keine
+: naturwissenschaftliches Gesetz, so dass du diese Verwechslung hier selbst
+: begehst. Es ist vielmehr eine metaphysische Annahme, die schon Altemeyer in
+: den Bereich der Erkenntniskategorien eingeordnet hat, ob alle Ereignisse
+: in Wirklichkeit immer ein verursachendes Ereignis habe muessen, ist hoechst
+: zweifelhaft oder willst du hier einen Gottesbeweis fuehren? Die Existenz
+: einer Ursache ist ja selbst nicht so einfach zu verifizieren, da man nie
+: sicher sein kann, dass eine ausgemachte Ursache die Wirkung bedingt oder
+: nur die Ursache der Ursache ist, usw.
+: Wenn wir schon Wissenschaftstheorie betreiben wollen, muesstest
+: du also schon ein Beispiel z.B. aus der Physik heranziehen, wenn das ganze
+: Sinn machen soll.
+
+Ich stimme Dir zu, daß das "Kausalitätsgesetz" nicht eigentlich ein Gesetz
+ist, es sollte besser "Kausalitätsprinzip" heißen. Allerdings wird es in der
+Literatur meistens in der ersten Form verwendet und ich ging davon aus, daß
+Du in der Lage sein würdest zu erkennen, daß ich weit davon entfernt bin,
+"Gottesbeweise" zu führen oder das Kausalit�tprinzip für eine notwendige
+Wahrheit zu halten. Mir, anhand eines von mir gegeben Beispiels für eine
+empirisch unprüfbare Aussage, zu unterstellen, ich wäre ein Metaphysiker,
+ist zumindest ein merkwürdiges Mißverständnis.
+
+Wie auch immer, ALLE Sätze die aus gemischten Quantoren bestehen haben das
+gemeinsam, daß sie sich weder falsifizieren noch verifizieren lassen. Von
+manchen Autoren wird dies geradezu als ein Kriterium für metaphysische
+Aussagen angesehen. 
+
+Manche dieser Sätze sind sicherlich auch Grundlage von Wissenschaften, wie
+etwa "Alle Ereignisse sind einer wissenschaftlichen Erklärung fähig", den
+man als modernen Ersatz für das Kausalitätsprinzip ansehen
+könnte. Wahrscheinlich braucht auch jede einzelne wissenschaftliche Theorie
+solche Sätze, um überhaupt ihre Beobachtungssätze definieren zu können. Wie
+in solchen Fällen das Abgrenzungskriterium zur Metaphysik aussieht, scheint
+mir keine einfache Sache zu sein, auch wenn ich denke, daß es das gibt.
+
+: : : : Trotzdem bleibt es ein Fakt, daß die Idee der Falsifizierbarkeit aus der
+: : : : Geltungsfrage für Gesetzesaussagen enstanden ist. Dies hat aber nichts damit
+: : : : zu tun, ob Existenzausagen sinnlos, wertlos oder was-auch-immer für die
+: : : : Wissenschaft sind und diese Diskussion geht am Thema und der Praxis vorbei.
+: : 
+: : : Existenzaussagen spielen aber wirklich keine Rolle in den Wissenschaften,
+: : : hoechstens, wenn sie dazu angeben, an welchem Raumzeitpunkt ein Ereignis
+: : : stattfinden soll. Diese sind dann aber immer aus einer Theorie aus
+: : : Allsaetzen abgeleitet, das gilt sowohl fuer Prognosen als auch fuer
+: : : verifizierende oder falsifizierende Es-gibt-Saetze.
+: : Als wenn das "höchstens" geradezu gar nichts wäre! Mir scheint allerdings,
+: : daß genau das eine Rolle von Existenzsätzen ist, die ziemlich "wichtig" ist!
+
+: Nur sind sie nur unter der Vorraussetzung wahr, dass die Allsaetze, aus
+: denen sie abgeleitet wurden, wahr sind. Auch Basissaetze leiden unter diesem
+: Manko, was bedeutet, dass es keine Existenzsaetze in den Wissenschaften
+: gibt, die nicht in irgendeiner Form aus Allsaetzen gewonnen wurden.
+
+Aber Beobachtungssätze sind Beschreibungen von Beobachtungen und werden
+nicht logisch deduziert aus Allsätzen! Wenn Du mit "gewinnen aus Allsätzen"
+meinst, daß diese Beschreibungen erst im Rahmen einer Theorie möglich
+werden, dann ist erstens die Wand und ihre Härte doch theorieabhängig und
+das ganze folgt zweitens aus Sätzen mit gemischten Quantoren (etwa: "für
+alle Zeitpunkte, es gibt unendlich viele Ereignisse, so daß dieses Ereignis
+eine Beobachtung einer Wand ist"), die sich (ich wiederhole mich) weder
+falsifizieren noch verifizeren lassen.
+
+MfG
+	Willi
+--
+Willi Wellinghausen                            svqrwofq@gqtvteuutt.igh-ppjqfnk.ng
+Jansastraße{\"leitzstraße}Maxweg{\tv}unterhausgasse 11 
+09275 Pillig
+Tel: (++05)(++59)32807-067
+WWW: http://dov.mlssrfxwxw.gdi-stnkcfr.ko/Cbavjozebdrxvar/QBY/bntmvxwga/hsuxywyxs/hvwn.ddjn

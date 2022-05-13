@@ -1,0 +1,16 @@
+Warum folgt denn aus Determiniertheit Vorhersagbarkeit?
+
+Nochmal: Neben der Determiniertheit benötigt man für die Vorhersage auch die
+Kenntnis der Anfangsbedingungen, und das ist im Fall der Lottozahlen nicht
+machbar.
+
+Nur wenn
+
+1. die Ermittlung der Lottozahlen determiniert ist
+2. alle das Ergebnis beeinflussenden Ausgangswerte bekannt sind
+
+kann man das Ergebnis vorhersagen. Für fehlende Vorhersagbarkeit reicht es
+aus, dass eine der beiden Bedingungen nicht zutrifft, daher kann man aus einer
+fehlenden Vorhersagbarkeit nicht auf fehlende Determiniertheit schließen.
+
+Erwin

@@ -1,0 +1,221 @@
+"Mirko Schwencke" <czc.przsnbeh@p-stuxsl.kk> schrieb im Newsbeitrag news:3S715777.827K8706@k-tphcgr.ma...
+Willi Zeimet schrieb am 9.Feb.2001 21:13 h:
+
+...
+
+Mal sehen, ob irgendwo ein Fehler im Diagonalbeweis
+gezeigt wird.
+
+
+Genauer: Wir nehmen an, wir hätten eine Bijektion zwischen
+N und der Menge der 0,1-Folgen. Das führen wir zu einem
+Widerspruch, also kann es keine solche Liste geben.
+
+
+Wir haben angenommen, dass die Menge der 0,1-Folgen
+abzählbar ist. Dann müsste also eine Bijektion existieren,
+so dass A = {Menge _aller_ 0,1-Folgen }.
+
+
+Und dies ist ein Widerspruch zu der Folgerung, dass A die Menge
+aller 0,1-Folgen ist.
+Mehr wollten wir gar nicht.
+
+
+Dies ist dabei ziemlich irellevant. (In Wahrheit kannst du
+durch solche Vertauschungen wirklich überabzählbar viele
+0,1-Folgen erhalten).
+
+
+Nicht direkt.
+Wenn F abzählbar unendlich wäre, müsste man F als A
+(also abzählbare Liste) darstellen können. Dies ist die
+Definition abzählbarer Mengen. Wir können also von F = A
+ausgehen, wenn F abzählbar ist.
+Da wir nun F = A wiederlegt haben, kann F also nicht
+abzählbar sein, muss also überabzählbar sein.
+
+Wo ist hier ein Fehler?
+
+
+a) Dies interressiert nicht, wir haben ja schon einen
+Widerspruch.
+
+b) Du meinst die Vereinigungsmenge A' := A u {'die neue 0,1-Folge'}.
+Dass diese abzählbar ist, daran besteht kein Zweifel.
+Wenn du aber eine Bijektion N --> A' aufstellst, damit also
+die neue Liste A' aufschreibst, erhältst du eine neue
+Diagonal-Folge, die wiederum nicht in A' enthalten war.
+
+
+Dies muss nicht bewiesen werden: Wir haben die Existenz einer
+Abzählung von F (Bijektion F --> N) angenommen, und diese Annahme
+widerlegt. Mehr brauchen wir nicht, wenn du dir die Definition
+von überabzählbar noch einmal ansiehst.
+
+
+[... eine weitere abzählbare Menge B]
+
+
+Es ist mir ziemlich egal, wie du die Mengen zusammenführt.
+Wenn die Menge C abzählbar unendlich ist, dann gibt es eine
+Bijektion N --> C. Und dann kann man wieder eine Diagonalzahl
+finden, die nicht in C enthalten ist.
+
+
+Die Tatsache, dass C nur abzählbar unendlich ist.
+
+
+In eine Menge können keine weiteren Elemente hinzugefügt
+werden, das ist richtig. Wir können uns aber eine Liste
+vorstellen, in der (z.B. abwechselnd) beide Mengen eingefügt
+werden. Da ja die Liste abzählbar unendlich ist, können wir
+auch alle Elemente von C dort unterbringen.
+
+
+Mal sehen ...
+
+
+Du hast den Beweis erbracht, dass nicht alle rationalen Zahlen
+in deiner Liste vorkommen - dies liegt an dem ausgewählten
+Beispiel. Du kannst aber IMHO nicht beweisen, dass es keine
+solche Liste gibt, die alle rationalen Zahlen (in [0,1])
+enthält.
+
+Betrachte doch etwa die folgende Liste:
+(Die Perioden sind mit () gekennzeichnet und
+vom vorperiodischen Anteil durch | getrennt,
+damit klar wird, welche Folge gemeint ist.)
+
+ 1) |(1)046592252...         = 1
+ 2) |(0)000000000...         = 0
+ 3) 1|(0)00000000...         = 1/2
+ 4) 0|(1)76756832...         = 1/2 (sogar doppelt, kann weggelassen werden)
+ 5) |(10)05268660...         = 2/3
+ 6) |(01)22904021...         = 1/3
+ 7) 01|(0)0000000...         = 1/4
+ 8) 00|(1)0226350...         = 1/4
+ 9) 11|(0)0000000...         = 3/4
+10) 10|(1)0226350...         = 3/4 (doppelt)
+11) |(0011)152136...         = 1/5
+12) |(0110)509710...         = 2/5
+13) |(1001)805758...         = 3/5
+14) |(1100)544876...         = 4/5
+usw.
+
+Hier kommt jede rationale Zahl zwischen 0 und 1
+mindestens einmal vor (Wenn du die ersten beiden
+weglässt, nur die echt dazwischenligenden).
+Wenn du die doppelten Zahlen weglässt (alle mit (1)-Periode),
+hast du sogar eine Bijektion.
+
+Egal wie du jetzt umsortierst, du erhältst nie eine
+Diagonal-Folge, die eine rationale Zahl darstellt
+(also irgendwann eine 0- oder 1- Periode hat).
+
+
+Wie ich schon in meinem anderen Posting schrieb:
+Dies ist keine Wohlordnung, da es beliebig viele
+Anfänge gibt (alles, was an der letzten Ziffer
+eine 0 hat), und es für fast jeden nicht-Anfang x
+mehrere Folgen y1, y2, ... gibt, so dass x der direkte
+Nachfolger aller dieser Folgen ist.
+
+
+Wenn wir mit einer 0,1-Folge beginnen (etwa ...000),
+so sind in der Folge nur
+
+....00000
+....00001
+....00011
+....00111
+....01111
+usw,
+also nur die um 1 verminderten Zweierpotenzen
+enthalten.
+
+Diese Menge ist natürlich abzählbar (unendlich), aber
+noch lange nicht die Menge aller endlichen 0,1-Folgen.
+
+
+Mit deiner missglückten Nachfolger-Relation kann das
+ja nicht möglich sein.
+
+
+Warum das?
+
+
+Wie wäre es damit:
+Nimm die oben von mir genannte Liste der rationalen Zahlen
+und bilde dann die Diagonalzahl. Da jede Zahl meiner Liste
+wohldefiniert ist (also die k'te Stelle der k'ten Zahl in
+endlich vielen Schritten bestimmt werden kann), kann ich dir
+also nach und nach alle Stellen dieser irrationalen Zahl
+ausspucken.
+
+
+Die Existenz einer Zahl ist nicht davon abhängig, ob es einen
+Algorithmus zu ihrer Berechnung gibt.
+
+
+Ich glaube, du hast eine andere Vorstellung von einer
+Abbildung als wir.
+
+Definiere doch bitte deinen Abbildungsbegriff (oder den
+von Bijektion), oder sage, was dich an der von Willi
+genannten Abbildung f : 2N --> N, f(2k) := k
+stört.
+
+
+Umgekehrt wird ein Schuh daraus:
+
+{G} ist eine (einelementige) Teilmenge von Pot(G),
+wohingegen G nur ein Element (keine Teilmenge) von G ist.
+
+
+Genauer: Einem Element X von Pot(G), wobei X <> G ist.
+
+
+Dass das nie geht, ist doch schon mehrfach bewisen worden.
+
+
+Das ist eine der Definitionen unendlicher Mengen.
+Da du dich ja immer noch nicht für eine dieser Definitionen
+entschieden hast, kannst du es natürlich nicht beweisen.
+
+
+Für jede unendliche Menge X gibt es eine echte Teilmenge Y von X,
+so dass eine Bijektion  X --> Y existiert.
+
+Hier steht natürlich nicht, dass es für alle Teilmengen Y gilt.
+
+
+Was soll denn dieser Satz bedeuten?
+a) "Nicht jede Teilmenge einer unendlichen Menge muss zu
+    dieser bijektiv Äquivalent sein"
+b) "Es gibt zwar eine Bijektion, diese ist aber nicht auf der
+    ganzen Menge, sondern nur auf einer (beliebigen) Teilmenge
+    definiert"
+c)  etwas ganz anderes
+
+a) wurde von niemanden bestritten.
+b) macht keinen Sinn, denn Abbildungen sind immer
+   auf der ganzen Definitionsmenge definiert.
+c) erkläre das bitte genauer.
+
+
+Es hat niemand wirklich behauptet, dass jede unendliche Menge
+zu jeder ihrer unendlichen Teilmengen gleichmächtig ist(*).
+
+Zur Frage steht nur:
+
+    Zu jeder unendlichen Menge _gibt_ es eine echte Teilmenge,
+    die zur Menge gleichmächtig ist.
+
+Benno
+
+Fup2 dsm, weil ich keinen Philosophischen Gehalt in
+dieser Diskussion sehe.
+
+(*) Didier hatte versehentlich eine solche Behauptung
+aufgestellt, diese inzwischen aber korrigiert.

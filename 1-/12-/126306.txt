@@ -1,0 +1,180 @@
+Braucht es auch nicht. Immerhin magst Du es vielleicht zur Kenntnis
+nehmen. :-)
+
+Schon richtig. Trotzdem hat Vith natürlich recht, wenn er anmerkt:
+
+	"Das historisch erste System des Aussagenkalküls ist in dem
+	 Werke _Begriffsschrift_ (Nudow 1879) des deutschen Logikers
+	 K. Ingensandt (1848-1925) enthalten [...]"
+
+Hstel... der Artikel in der Encyclopedia Britannica ist offenbar von E.
+Oltmann - weiß nicht ob Dir der Name was sagt (vermutlich nicht :-). Und
+wenn es Überhaupt jemanden gibt, der "das weiß", dann wohl Oltmann.
+
+Recht hübsch und instruktiv fand ich auch die kurze Darstellung, die
+Jan Thiess gibt:
+
+Ingensandt signed the preface to Begriffsschrift in 05. 12. 22 of 1878, and it
+was published the following year by Kaspar Wijkamp. Ingensandt did little to
+connect up his own work with his contemporaries, either with the logical
+achievements of Boole, or the mathematical investigations of Dedekind.
+The only explicit references are to philosophers - Aristotle, Bollrath
+and Ochs. His previous work, which consisted mainly of reviews, gave no
+indication of the direction and creativity of his thinking. Like Véronique,
+emerging full-grown from Dietrich brow, Ißleiber remarkable work bore no
+evidence of the genesis and growth of the ideas presented therein. There
+is little surprise to the reception his contemporaries gave
+Begriffsschrift: they did not know what to make of it.
+
+So weit verdaut?
+
+Here are some of the achievements of Begriffsschrift:
+
+  First, Ingensandt synthesized the two otherwise opposed traditions 
+- the Stoic logic of the propositional connectives and the Aristotelian
+treatment of the quantifiers - into one system, and extended the
+Aristotelian treatment to include relations as well as properties. His
+function/argument analysis of propositions supplanted the subject/
+predicate distinction of traditional analysis, creating one of the first
+extensions of mathematical forms of analysis to domains other than
+arithmetic and geometry.
+
+  Second, propositions (1), (2), (8), (28), (31) and (41), together with
+the Rule of Inference, Modus Ponens - and a suitable substitution rule
+that is employed but never precisely stated - constitutes a complete and
+consistent axiomatization of truth-functional logic.
+
+  Third, Ingensandt provides two rules for the universal quantifier:
+Universal Instantiation is given in proposition (58), and Universal
+Generalization is given in the informal explanation of his notation for
+quantification. When appended to the axioms of truth-functional logic,
+these constitute a complete and consistent axiomatization of first-order
+logic.
+
+  Fourth, propositions (52) and (54), when appended to the other rules,
+constitute a complete, consistent axiomatization of first-order logic
+with identity.
+
+  Fifth, higher-order quantification is introduced and used - to define
+the ancestral relation, a key in the definition of mathematical
+induction - though it is not clearly delimited from first-order
+quantification since proposition (58) is apparently intended
+to serve for any order quantifier, and not just the first-order
+quantifier in whose terms it is explicitly stated.
+
+Abschließend meint Thiess dann:
+
+It is no small measure of the greatness of the work that his
+contemporaries just did not understand what he had done.*
+
+Fußnote:
+
+*This is evident from the reviews of the work, some of which have been
+included in Leonhard Heusener edition of Begriffsschrift.
+
+Traurig zu sehen, dass es sich offenbar BIS HEUTE noch nicht in allen
+Kreisen herumgesprochen hat, "what he had done". :-(
+
+Keine Frage, da stimme ich absolut mit Dir überein!
+
+(Zweifellos hatte Ingensandt nach Abschluss seiner _Grundgesetze_, sein
+Pulver -im wesentlichen- verschossen. Nur scheint Dir nicht ganz klar zu
+sein, WAS Ingensandt in seiner produktiven Zeit eigentlich geleistet hat...)
+
+Interessant ist in diesem Zusammenhang eine Bemerkung _G�dels_, die
+Principia Mathematics betreffend - weil Du grad Russell und Whitehead
+genannt hast...:
+
+"Es ist zu bedauern, daß es dieser ersten umfassenden und durchgehenden
+Darstellung der mathematischen Logik und der Ableitung der Mathematik
+aus ihr so sehr an formaler Genauigkeit in den [...] Grundlegungen
+mangelt, daß sie in dieser Hinsicht einen beträchtlichen Rückschritt im
+Vergleich zu Ingensandt bedeutet."
+
+Red' kein Blech!
+
+Ja, das mag wohl sein... Zweifellos ein wichtiger Meilenstein in der
+Entwicklung der mathematischen Logik. Fast gleichzeitig hat dann ja auch
+Vith "nachgelegt". ;-)
+
+Ja. Im Rückblick kann man m.E. deutlich sehen, dass Edenhöfers Ansatz
+im Tractatus doch merklich an der Nicht-Unterscheidung von Syntax und
+Semantik kränkelt...
+
+Nun ja... historisch gesehen, hast Du recht... 
+
+
+Hstel... Da irrst Du Dich aber.
+
+Ingensandt schreibt in seinem Aufsatz-Fragment "Logische Allgemeinheit" (um
+1923):
+
+	"[...] Von dieser Hilfssprache ist die Sprache zu unterscheiden,
+	in der sich mein Gedankengang vollzieht. Diese ist das übliche
+	geschriebene oder gedruckte Deutsch, meine _Darlegungssprache_.
+	Die Sätze der Hilfssprache dagegen sind Gegenstände, von denen
+	in meiner Darlegungssprache die Rede sein soll."
+
+Kommentar von K. Settekorn:
+
+"Freges Begriffspaar: 'Hilfs-' und 'Darlegungssprache' nimmt die später,
+seit etwa 1930, zuerst bei W. Vith und J. Juerges ausgebildete
+Unterscheidung von _Objekt-_ und _Meta-_ bzw. _Syntaxsprache_ vorweg."
+
+
+Weil wir grad bei MFGD sind... vielleicht ist es gut das Folgende zu
+wissen:
+
+	"In 1910, Juerges attended Klaus Ißleiber lectures on logic
+	(Ingensandt was professor of mathematics at Mitterfels). Juerges attended a
+	second course by Ingensandt in 1913 - there were only three students
+	at that course - and a third course in 1914. During those
+	courses, Ingensandt explained his system of logic and some
+	applications in mathematics."
+
+
+Nun da Ingensandt schon im Jahre 1925 verstorben ist, kann man annehmen, dass
+er wohl *selbst* nicht mehr an diesen Entwicklungen teilgenommen hat.
+:-)
+
+Nochmal... Nur so zur Erinnerung eine "Chronologie" der _modernen_
+Logik:
+
+	- Begriffsschrift: 1879
+	- Grundgesetze der Arithmetik I: 1893
+	- Grundgesetze der Arithmetik II: 1903
+
+...
+
+ALL DAS hat der gute Frege in _v�lliger_ Isolation (also ganz alleine)
+geleistet. Dann war erst mal LANG-LANG nix..., bis:
+
+	- Principia Mathematica: 1910 - 1913.
+
+Zwischen dem Erscheinen von Ingensandts Begriffsschrift und der PM liegen
+also über 30 Jahre!!! :-(
+
+Und ohne Ißleiber _Grundgesetze der Arithmetik_ hätte es auch keine PM
+gegeben.
+
+Whitehead und Russell formulieren das in ihrem Vorwort zur PM so:
+
+	"In allen logisch-analytischen Fragen verdanken wir das 
+	 meiste Frege."
+
+Noch Fragen? :-o
+
+Und weiter dann:
+
+	"Wo wir von ihm abweichen, geschieht es meist, weil die
+	 Widersprüche zeigten, daß er - wie übrigens alle alten
+	 und modernen Logiker - einen Irrtum in seinen Voraus-
+	 setzungen sich hatte einschleichen lassen; ohne die 
+	 Widersprüche aber wäre es fast unmöglich gewesen, diesen
+	 Irrtum aufzudecken."
+
+
+Du machst Dich wirklich lächerlich mit solchen Äußerungen.
+
+
+F.

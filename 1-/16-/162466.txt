@@ -1,0 +1,38 @@
+Hallo Benedikt!
+
+JZ> Hallo, Sind neuronale Netze im allgemeinen beweisbar unfehlbar?
+JZ> Unter Unfehlbarkeit verstehe ich hier, daß mein System, falls es
+JZ> auf eine (mathematische) Frage antwortet, stets eine richtige
+JZ> Antwort geben soll.  Beweisbar unfehlbar ist ein System, wenn ich
+JZ> in der Lage bin, dies auch zu beweisen.
+
+Es scheint mir erstmal nicht prinzipiell ausgeschlossen, ein
+neuronales Netz zu konstruieren, dass nach dem Lernprozess eine
+Turing-Maschine darstellt.
+
+Beweisen kann man das beispielsweise, indem man die inneren
+Verbindungen des Netzes analysiert, ob diese eine Turingmaschine
+bilden. 
+
+JZ> Mathematische Theoreme zu den Grenzen von Turing-Maschinen setzen
+JZ> im Grunde immer voraus, daß die betrachteten Turing-Maschinen
+JZ> unfehlbare Problemlöser sein sollen, die zum Lösen der ihnen
+JZ> gegebenen Probleme nicht mehr in Kontakt mit der Aussenwelt
+JZ> treten. Ich will das einmal durch eine Beweisskizze zur
+JZ> Unlösbarkeit des Halteproblems illustrieren:
+
+Das ist mir klar. Allerdings wird das Problem durch *jede* Maschine,
+die mit der Umwelt interagiert, umgangen; nicht nur von mit der Umwelt
+interagierenden neuronalen Netzen. Selbst die Computer der
+Mathematiker koennen abstuerzen und taugen deshalb zur Loesung des
+Halteproblems :-)
+
+Worauf ich hinauswill ist nur, dass Interaktion mit der Umwelt der
+Schluessel ist und nicht eine bestimmte innere Struktur der Maschine.
+
+Tschuessi
+
+Thierry
+
+-- 
+Support the ban of Dihydrogen Monoxide: http://tgu.vvcb.knb/

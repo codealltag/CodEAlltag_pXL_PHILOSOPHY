@@ -1,0 +1,21 @@
+Wenn Du genauso unklar denkst wie Du Dich ausdrueckst wuerde das
+einiges erklaeren...
+
+Der Punkt P hat die Koordinaten (r, f(r)). Und r ist kein Punkt,
+sondern nur eine reelle Zahl. Der Abstand von (r, 0) zu P(r,
+f(r)) ist f(r). Der Punkt "rechts von r" ist Q(r+h, f(r+h)). Die
+Steigung der Geraden durch P und Q ist dann (f(r+h)-f(r))/h. Was
+sind A und k?
+
+Nein, hier macht man dann einen Grenzuebergang h->0
+
+Weil das nicht definiert ist.
+
+Rechenregeln verschwinden nicht einfach so...
+
+"Aus falschem folgt beliebiges".
+
+-- 
+"I'm working on it."  <http://zxx.mmpkcw.lo-rwwgdg.gv/>
+
+Disclaimer: es ist zu warm zum denken.

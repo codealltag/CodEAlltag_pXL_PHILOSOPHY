@@ -1,0 +1,87 @@
+: >
+: >: >Jedes Naturgesetz impliziert die Anwendung auf
+: >: >unendlich viele Fälle, oder gilt das Gravitationsgesetz in nur endlich
+: >: >vielen Fällen und danach nicht mehr? Nenn mir auch nur ein Gesetz, daß
+: >: >beansprucht nur für endlich viele Fälle zu gelten! Das wäre nämlich kein
+: >: >Gesetz mehr, sondern eine Liste von Ereignissen!
+: >
+: >: Mal ein kleiner Einwurf: Es ist nicht klar, dass es ueberhaupt unendlich
+: >: viele Faelle gibt (zumindest wenn man nur die praktisch auftretenden
+: >: betrachtet.) Es ist immerhin ohne weiteres moeglich, das das Universum
+: >: raeumlich und zeitlich beschraenkt, d.h. endlich ist, und die Kontinuitaet
+: >: des Raumes und der Zeit ist auch nur eine Hypothese. (In der modernen
+: >: Quantentheorie taucht jedenfalls die Vermutung auf, dass Raum und Zeit
+: >: quantisiert sind.)
+: >
+: >Selbst wenn Raum und Zeit quantisiert wären, würde daraus nicht folgen, daß
+: >der Raum nicht überabzählbar wäre. 
+
+: Klar, aber wenn Raum und Zeit diskret (ich verwende mal diesen Begriff, der
+: ist wohl angemessener) *und* begrenzt sind, dann ist das Universum nicht nur
+: nicht ueberabzaehlbar, sondern sogar endlich. Damit ist z.B. fuer A2 gar
+: nicht mehr Platz genug, da es nur endlich viele Ereignisse gibt.
+
+Das ist fast richtig. Unendliche Folgen würde es natürlich immernoch geben
+können (für Informatiker das Stichwort: IFAB-Automat). Ob A2 dann noch
+gilt, hängt davon ab, ob dieses endliche System deterministisch ist, oder
+nicht. A2 gilt ja bereits schon in einem System mit zwei Zuständen, bei dem
+zu jedem diskreten Zeittakt mit Wahrscheinlichkeit 1/2 der Zustand
+gewechselt wird. Falls das System deterministisch wäre, würde es allerdings
+nach einer Weile periodisch werden und deshalb würde A2 nicht gelten, da in
+diesem Fall die Wahrscheinlichkeit der unendlich langen Folge 
+1/|Zustände|^{Periodenlänge} wäre.
+
+: >Es würde nur folgen, daß er nicht mehr
+: >zusammenhängend wäre (wenn ich meine Topologiekenntnisse noch richtig
+: >erinnere). 
+
+: Ich vermute mal, dass dann Topologie im Kleinen ueberhaupt nicht mehr
+: anwendbar ist, da diese den Begriff Stetigkeit recht ausgiebig benutzt, und
+: der in einem diskreten Raum nicht sinnvoll erscheint.
+
+Stetigkeit läßt sich in beliebigen topologischen Räumen über deren offene
+Mengen definieren und zwar so: Eine Funktion f: A->B heißt stetig, wenn für
+jede offene Teilmenge O\subseteq A gilt, daß auch f(O) offen in A ist. Es
+wird also noch nichteinmal vorausgesetzt, daß der Raum metrisch ist.  Im
+Reellen gibt diese Definition genau die klassische epsilon-delta-Definition
+der Stetigkeit. Aber in der topologischen Version läßt sich Stetigkeit auch
+in abzählbaren und sogar endlichen topologischen Räumen definieren.
+
+: >: Da es also nicht unbedingt unendlich viele Ereignisse geben muss, kann also
+: >: A2 falsch sein, es kann aber auch wahr sein. Das ist IMHO mit dem
+: >: gegenwaertigen Wissensstand nicht entscheidbar.
+: >
+: >Du hast völlig recht! Nichts anderes würde ich behaupten wollen. Fakt ist
+: >allerdings, daß A2 bei der heutigen wissenschaftlichen Modellbildungspraxis
+: >eine sinnvolle Annahme ist!
+
+: Ich sehe es eher als ein "Ueberstrecken" der Theorien. Sicher, es folgt aus
+: den gaengigen Theorien, aber das geht weit ueber deren Gueltigkeitsbereich
+: hinaus. Das die Theorien z.B. die Realitaet mit Hilfe von reellen Zahlen
+: approximieren, heisst ja noch lange nicht, dass auch tatsaechlich jeder
+: reellen Zahl ein Punkt des Raumes entspricht, falls der Begriff "Punkt"
+: ueberhaupt mehr als nur eine Denkhilfe ist.
+
+Jeder der meint, daß dem nicht so ist, der möge bitte eine vergleichbar
+leistungsfähige Physik mit nur abzählbaren (oder sogar endlich) vielen
+Raum-Zeit Punkten liefern. Solange das nicht geschieht, gibt es für mich
+überabzählbar viele Raumzeitpunkte und ich sehe darin keineswegs eine
+Besteckung der Theorie.
+
+Alles andere ist sowieso mäßige Spekulation. Es gibt ja noch nichteinmal
+einen vernünftigen Grund, warum wir trotz der Erfolge der
+�berabz�hlbarkeitsanahme in der Physik davon ausgehen sollten, daß die Welt
+nur abzählbar beschreibbar ist.
+
+: Greetings,
+
+: Haps
+
+MfG
+	Elias
+--
+Elias Ravenhorst                            pottgqzm@xvguelhvha.gjf-jtmknfs.uo
+Nienkampstraße{\"vidosichgasse}Leipzigerplatz{\yz}römergasse 46 
+36454 Calbach
+Tel: (++58)(++07)07646-148
+WWW: http://eur.pjsarpwguv.otq-mcsyfwl.gr/Uglvvuavrlnprac/ASL/mrnunrfgz/uuaqfymho/bzfe.lxsr

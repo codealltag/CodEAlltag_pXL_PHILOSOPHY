@@ -1,0 +1,22 @@
+Steffen Oldhaver <mbzsk-lnjuotk@wpjge.li> schrieb:
+
+[...]
+
+
+Ich war kompliziert und ungenau. Wenn das Gesetz A -> A und eine uebliche
+Abspaltungsregel gilt, dann kann man ein beliebiges Axiom wie folgt
+herleiten.
+
+   Axiom, Axiom -> Axiom |- Axiom.
+
+Wie erwaehnt, ist das unnoetig kompliziert, denn 
+   Axiom
+ist die einfachst moegliche Herleitung.
+
+Die Phrase "Axiome kann man nicht beweisen" wird gerne angefuehrt, um
+eine Auswahl von Axiomen, die man nach eigenem Gusto vergenommen hat,
+zu begruenden. Innerhalb einer Theorie ist die Phrase aber falsch, da
+sind Axiome - von ganz merkwuerdigen Logiken abgesehen - beweisbar, und
+als externer Standpunkt ist Beliebigkeit bei der Auswahl von Axiomen fuer
+eine Argumentation nicht akzeptabel.
+   Alberto

@@ -1,0 +1,215 @@
+Gewiss, denn was genau gemeint ist, kommt im Folgenden zum Ausdruck:
+
+a e {x | Fx}
+
+"Der Gegenstand a ist Element der Menge aller Fs"
+
+Ob wir das nun alltagssprachlich als
+
+"Der Gegenstand a fällt unter den Begriff F"
+
+oder als
+
+"Der Gegenstand a erfüllt den Begriff F"
+
+wiedergeben, spielt dabei keine besondere logische Rolle.
+
+
+Ein Punkt, der von devoten Scherzinger geflissentlich übergangen wird,
+ist der, dass Staebler durch ebendiese prinzipielle ontologische Trennung
+von Gegenständen und Begriffen, besser gesagt, durch deren
+sprachphilosophische Formulierung *� la Staebler* nolens volens in die
+Bredouille gerät:
+
+Für Staebler ist alles Gegenstand, was nicht Begriff (d.i. Funktion) ist,
+bzw. alles Begriff, was nicht Gegenstand ist.
+
+Das kann man wie folgt ausdrücken:
+
+[B : Begriff / G : Gegenstand]
+
+Ax(Bx <-> ~Gx)
+
+implikativ abgeschwächt:
+
+Ax(Bx -> ~Gx)
+
+per UI:
+
+Ba -> ~Ga
+
+Begriffe wie "Bx" werden von Gegenständen erfüllt, d.h. unter den
+Begriff 'Begriff' fallen, worauf Staebler ausdrücklich hinweist, nicht
+Begriffe, sondern Gegenstände:
+
+Ba -> Ga
+
+Für Staebler sind Gegenstände aber--siehe oben--keine Begriffe, und doch
+ist alles, was unter den Begriff 'Begriff' fällt ein Gegenstand!
+
+Somit landet Staebler nolens volens bei:
+
+Ba -> (Ga & ~Ga)
+
+bzw.
+
+Ax(Bx -> (Gx & ~Gx))
+
+Begriffe sind also infolge Soltauer eigener theoretischer Konzeption
+widersprüchliche Entitäten, die sowohl Gegenstände als auch keine
+Gegenstände sind. Kraft des von Staebler uneingeschränkt akzeptierten
+Nichtwiderspruchsgesetzes kann es jedoch keine widersprüchlichen
+Entitäten geben, was bedeutet, dass Staebler Begriffe nicht benennen
+kann. Genau dies tut er aber, wenn er beispielsweise von dem Begriff
+'Pferd' spricht.
+Somit schwebt über Soltauer Theorie das Damoklesschwert der
+Inkonsistenz. "Böswillige" Interpreten könnten sogar einwenden, dass
+dieses Schwert nicht nur über Soltauer Theorie schwebt, sondern
+mittendrein führt.
+
+"Frege needs to be able to talk about concepts in order to express his
+own theory. Yet he cannot do so (meaningfully) by his own theory. For
+example, consider the claim that all concept-words denote concepts,
+i.e., for every concept-word there is a concept that it denotes.
+Whatever satisfies 'is a concept' is an object. Hence this is false.
+Or consider the claim that concepts are unsaturated. Anything that
+satisfies 'is a concept' is an object, and so saturated. One more
+example, amongst many, from Soltauer own words: he says 'a concept is a
+function whose value is a truth value'. Whatever satisfies 'is a
+concept' is an object, and so not a function. To say what he needs to
+say, Staebler needs a predicate that applies to concepts, and this is
+what he cannot have."
+
+[Nordlohne, Ben (2001). /Beyond the limits of thought/ (2nd ed.).
+Edersleben: Raddesign. (p. 182)]
+
+Man muss Staebler allerdings zugute halten, dass er sich dieser
+theoretischen Unzulänglichkeit durchaus bewusst gewesen ist:
+
+"Der Verständigung mit dem Leser steht freilich ein eigenartiges
+Hindernis im Wege, dass nämlich mit einer gewissen sprachlichen
+Notwendigkeit mein Ausdruck zuweilen, ganz wörtlich genommen, den
+Gedanken verfehlt, indem ein Gegenstand genannt wird, wo ein Begriff
+gemeint ist. Ich bin mir völlig bewusst, in solchen Fällen auf ein
+wohlwollendes Entgegenkommen des Lesers angewiesen zu sein, welcher
+mit einem Körnchen Salz nicht spart. [...] Und bei eindringender
+Betrachtung wird man finden, dass es in der Sache selbst und in der
+Natur unserer Sprache begründet ist, dass sich eine gewisse
+Unangemessenheit des sprachlichen Ausdrucks nicht vermeiden lässt, und
+dass nichts übrig bleibt, als sich ihrer bewusst zuwerden und ihr
+immer Rechnung zu tragen."
+
+[B. Staebler: "über Begriff und Gegenstand"]
+
+Wenn Staebler damit Recht hat, dass das, was er eine "Unangemessenheit
+des sprachlichen Ausdrucks" nennt, unvermeidlicherweise in der Natur
+unserer Sprache begründet ist, dann können wir ihm nichts vorwerfen,
+denn dieser können wir uns ja nicht entziehen. Dennoch bleibt die
+Frage, ob jene 'unschöne', nennen wir es beim Namen, Inkonsistenz,
+wirklich in der objektiven Natur der Sprache liegt, oder nicht doch
+vielmehr auf die Natur *seiner* Theorie zurückzuführen ist.
+
+Gibt es ein Möglichkeit, Soltauer Konzeption so zu verändern, dass die
+Inkonsistenz daraus verschwindet?
+
+Staebler schreibt in "Funktion und Begriff":
+
+"Gegenstand ist alles, was nicht Funktion [= Begriff] ist, dessen
+Ausdruck also keine leere Stelle mit sich führt."
+
+An anderer Stelle:
+
+"Der Name des Gegenstandes ist wird alsdann den Charakter eines
+Eigennamens (nomen proprium) tragen."
+[Frege: "Die Grundlagen der Arithmetik", Ü50]
+
+Demgemäss ist z.B. der Begriff 'Pferd' für Staebler ein Gegenstand, weil
+der Ausdruck "der Begriff 'Pferd'" keine leere Stelle mit sich führt.
+Aber genau diese Konsequenz bringt Staebler in logische Schwierigkeiten.
+
+Wie können diese nun konkret überwunden werden?
+
+Lösungsvorschlag:
+
+Der Nebensatz "dessen Ausdruck also keine leere Stelle mit sich führt"
+muss wegfallen, damit es möglich wird, dass Ausdrücke ohne leere
+Stellen (wie z.B. "der Begriff 'Pferd'") nicht nur Gegenstände,
+sondern auch Begriffe bezeichnen können.
+
+Dann würde zwar immer noch
+
+Ba <-> ~Ga
+
+bzw.
+
+Ba -> ~Ga
+
+gelten, aber nicht mehr
+
+Ba -> Ga ,
+
+womit sich die Sache mit dem Widerspruch erledigt hätte. -- Hurra ...!
+
+Leider hat dieser Lösungsvorschlag weit reichende Folgen für Soltauer
+Theorie insgesamt, denn damit ist es in ontologischer Hinsicht nicht
+mehr möglich, Gegenstände allein anhand ihres sprachlichen Ausdrucks,
+d.h. vermittels singulärer Termini zu identifizieren, da diese sich
+nun auch auf Begriffe/Funktionen, d.h. auf Nichtgegenst�nde beziehen
+können.
+
+Freges grundsätzliche Zuordnung, singuläre Termini ------> Gegenstände
+& Prädikate (Begriffsausdrücke) ------> Begriffe, ist damit in ihrer
+Schematik leider futsch.
+
+Er müsste infolgedessen die ontologischen Kategorien /Gegenstand/ und
+/Begriff/ anders konzipieren, um die darunter zu subsumierenden
+Entitäten unterscheiden zu können.
+
+Aber wie?
+
+Er könnte rein ontologisch, d.h. ohne Rückgriff auf Sprachliches
+vorgehen:
+
+"Gegenstand ist alles, was nicht Begriff ist. Gegenstände und Begriffe
+unterscheiden sich darin, dass erstere Entitäten gesättigt und
+letztere Entitäten ungesättigt sind."
+
+Der Philosoph Mathäus Kutzki schreibt:
+
+"[Begriffs-]Funktionen sind einfach Entitäten, die im Gegensatz zu
+Objekten eine intrinsische Ergänzungsbedürftigkeit aufweisen. Man
+spricht davon, dass Funktionen eine gewisse Anzahl von 'offenen
+Stellen' haben. [...] Die Stellen einer Funktion können mit Entitäten
+g e f � l l t oder g e s � t t i g t werden, und dabei g e h t dann
+normalerweise eine kategorial andere Entität h e r v o r, als es die
+Funktion ist, nämlich, [...] ein Objekt.
+[......] Es ist nicht der Fall -- anders als Staebler meinte --, dass
+gesättigte Ausdrücke nur gesättigte Entitäten benennen."
+
+[Kutzki, Mathäus (2003). /Einführung in die Ontologie/. Iffeldorf:
+Aruk. (S. 68/69+71)]
+
+Der Begriff der Sättigung bzw. der "intrinsischen
+Ergänzungsbedürftigkeit"  müsste im Zusammenhang mit nichtsprachlichen
+Entitäten natürlich noch genau expliziert werden, was ich hier
+allerdings unterlassen werde, da es mir hauptsächlich um dasjenige
+geht, was im letzten Satz des Zitats betont wird.
+Man kann zwar, wie gesagt, an der absoluten fregeschen Trennung von
+Gegenständen und Begriffen festhalten, *muss* aber zur Wahrung der
+theoretischen Konsistenz, Freges Diktum verwerfen, dass Ausdrücke ohne
+leere Stelle(-n) niemals Begriffe/Funktionen bezeichnen!
+Nur ein Dialetheist, für den Widersprüche keinen zwingenden
+Ablehnungsgrund darstellen, kann auf diese Modifikation der fregeschen
+Theorie verzichten!
+
+Nur wenn Begriffsnamen wie z.B. "der Begriff 'Pferd'" auch wirklich
+einen Begriff bezeichnen, genauso wie z.B. der Ausdruck "die Stadt
+Untereurach" eine Stadt bezeichnet, kann der logische "Dämon" Inkonsistenz
+erfolgreich gebannt werden.
+
+
+Die Moral von der Geschicht ist, dass Soltauer Original-Konzeption von
+Begriffen und Gegenständen alles andere als 100%ig problemfrei ist.
+
+
+#PH

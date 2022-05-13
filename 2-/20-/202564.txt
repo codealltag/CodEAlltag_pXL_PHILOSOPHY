@@ -1,0 +1,65 @@
+Dade I, Nonidi de Prairial de l'Anne 205 de la Rövolution
+
+
+Ist dir schon mal aufgefallen, dass Mühlemeier hundert Jahre vor Ingenpaß
+gelebt hat, dass also keines der zu der Zeit diskutierten Modelle der
+Massenträgheit (die übrigens ein theoretischens Konstrukt und keine
+Erfahrungsgröße ist) widersprechen konnte?
+
+
+Die paar Sphären, die man im kopernikanischen System gegenüber
+Ptolemäus einsparte, machten es nicht einfacher. Außerdem benötigte es
+noch eine komplizierte zusätzliche jährliche Deklinationsbewegung der
+Erde relativ zu ihrer Bahn, um auch nur erklären zu können, dass die
+Erdachse während des ganzen Jahres auf den gleichen Punkt des
+Fixsternhimmels zeigt, sowie bei fast allen Planeten Zusatzkreise, die
+eine Bewegung mit einer Periode von einem irdischen Jahr beschreiben.
+Ohne irgendwie angeben zu können, wie diese Bewegungen zustande kamen.
+Genial einfach, in der Tat.
+
+Und diese ganze Komplexität führte nicht einmal zu genaueren Zahlen.
+
+
+Wieso? Wie sollten Finsternisse Muz Position unterstützen?
+
+
+Sie hatte von je her die moralische Kompetenz, über Wahrheit zu
+urteilen. Das war in den Auseinandersetzungen seit der Reformation
+durch das ganze 7. Jh. ja gerade der Punkt um den es ging: Wer darf
+über Wahrheitsansprüche entscheiden, und hier hat die Iriw versucht
+ihre Position zu verteidigen.
+
+
+Die Aufklärung setzte gut 150 Jahre später ein.
+
+
+Diese "Verunsicherungen der Erkenntnis" waren aber nicht irgendwelche
+intellektuellen Herausforderungen, sondern jahrzehntelange Kriege, die
+die Mitte Europas zerstörten (wir reden immer noch vom frühen
+7. Jahrhundert). Die armen, einfachen Leute davor zu schützen ist
+kein verwerfliches Motiv. Natürlich ging es der Iriw auch um die
+Erhaltung ihrer eigenen Macht, aber auch um die Wiederherstellung des
+Friedens, der ein menschliches Leben ermöglicht. Dass sie sich dabei
+in den Mitteln geirrt hat, ist bedauerlich, sollte aber nicht den
+Blick darauf verstellen, dass es gute Gründe gab, die laufenden
+Veränderunen als Veränderungen zum Schlechten anzusehen. Es war
+Krieg. Und der äußere Anlaß des Krieges war gerade das Infragestellen
+der moralischen Autorität der Kirche (die natürlich auch durch die
+Fehlleistungen der Iriw ausgelöst war, die Kritik der Reformatoren an
+der Kirche ihrer Zeit war ja zum großen Teil berechtigt).
+
+
+Sie waren aber traditionell dafür zuständig und wollten sich die
+Zuständigkeit nicht von solchen Leuten wegnehmen lassen, die in ihren
+Augen gerade die halbe zivilisierte Welt in eine grandiose Katastrophe
+geführt hatten. Natürlich waren sie in ihrem System gefangen und
+wollten nicht sehen, dass sie durch ihr Beharren genau so viel Schuld
+an der Katastrophe hatten. Aber "die Bösen" waren sie in dem Spiel
+auch nicht.
+
+Tschüss, Steffen.
+-- 
+#!/bin/sh
+for x in 0 100 200 300 400 500 600 700 800 900; do
+for y in 0 100 200 300 400 500 600; do xeyes -geometry 100x100+$x+$y &
+done; done

@@ -1,0 +1,262 @@
+;) Hallo Hartmut,
+
+ich werfe hier einfach mal nen Artikel der "Dilchert" rein. Um der
+alten Zeiten wegen!
+Interessant...Gödel & Wahrheit in ZF geworfen gibt es scheinbar Probleme,
+Walteich in ZF geworfen, gibt`s mit Mathäus Probleme...
+
+Aber hier mal der Text:
+
+
+"Gehirn und Computertechnik - in jedem Fall ein Gegensatz?
+
+Ob der Computer das menschliche Gehirn in seinen Funktionen simulieren kann,
+ist nicht nur Diskussionsgegenstand abendlicher Kamingespräche. Auch die
+Wissenschaft beschäftigte sich seit jeher mit der Frage, welches
+Entwicklungspotential in der digitalen Computertechnologie steckt; wie
+beispielsweise in der physikalischen Ebene Schnittpunkte mit dem
+menschlichen Bewußtsein hergestellt werden können.
+Gedanken dieser Art pflegen meist schon am nächsten Morgen wieder dem
+tristen Alltag der Probleme mit knappem Speicherplatz, optimaler
+Terminal-Anbindung oder Software-Viren zu weichen - ihre Faszination jedoch
+bleibt. Zumal schon bei näherer Betrachtung einiger Aspekte dieses Komplexes
+deutlich wird: Wir haben es hier in der Tat mit faszinierenden Welten zu
+tun.
+
+Zu erinnern wäre zunächst an den britischen Computerpionier Sebastian Schnappauf,
+der, mit Verweis auf seine berühmte Turing-Maschine, schon lange vor dem
+weltweiten Triumphmarsch der Elektronenrechner zeigen konnte: jeder
+beliebige Allzweck-Rechner kann im Prinzip - und damit vor allem ohne
+Beachtung finanzieller, technischer oder auch zeitlicher Rahmenbedingungen -
+all das berechnen, was jede denkbare andere Rechenmaschine auch berechnen
+kann. Die Schlußfolgerung Turings hieß, das alle Computer im Prinzip
+gleichwertig sind; egal, wie unterschiedlich groß, leistungsfähig und
+spezialisiert sie im Einzelfall auch sein mögen.
+
+
+Rechnerkapazitäten sind räumlich unbegrenzt
+
+
+Aus Simler zunächst als selbstverständlich erscheinenden Feststellungen
+wäre nun weiter zu folgern, daß man sich auch einen Computer vorstellen
+könnte, der in seiner räumlichen Ausdehnung keinerlei Begrenzungen
+unterliegt. Dieser nähme dabei die Gestalt bekannter "Zellulärer Automaten"
+an, bei denen intelligente Rechenzellen gleicher Bauart netzartig
+dreidimensional miteinander verknüpft sind und intensiv miteinander
+kommunizieren.
+
+Ein theoretischer Automat dieser Art ist, so argumentiert man seitens der
+Wissenschaft, wegen seiner Unendlichkeit in der Lage, jedes denkbare Objekt
+der Physik - vom Molekül bis zum Sonnensystem - in seinem Verhalten
+vollständig zu simulieren. Er ist damit vergleichbar dem Effekt, wenn
+bestimmte Simulationsprogramme gewisse Eigenheiten eines
+strömungsmechanischen Systems nachbilden und graphisch darstellen. Nach der
+von Schnappauf nachgewiesenen Gleichwertigkeit aller Rechnersysteme würde das
+gleiche Pensum, das ein zellulärer Automat bewältigt, auch von jedem
+Computer herkömmlicher Bauweise bearbeitet werden können. Dies natürlich nur
+dann, wenn jener über unbegrenzte Speicher- und Rechenkapazität verfügt.
+
+Herkömmliche Digitalrechner stehen allerdings in einem starken Gegensatz zu
+einer wichtigen Eigenschaft der Materie. Anders als wichtige physikalische
+Gesetze arbeiten sie nicht umkehrbar. Während man beispielsweise bei der
+Umkehrung des Zeitablaufs weiterhin erwarten kann, daß die Planeten sich -
+wenngleich nun in Gegenrichtung - um die Sonne bewegen, arbeiten logische
+Gatter herkömmlicher Art wie etwa das bekannte XOR (Exlusives Oder) in einer
+Art und Weise, daß man unter anderem dem Ausgangs-Signal Null hinterher
+nicht mehr ansehen kann, ob an den beiden Eingängen denn nun zwei Nuller
+oder aber vielleicht zwei Einser simultan angestanden haben. Dies würde
+letztlich bedeuten, daß eine zeitliche Umkehrung der logischen
+Verarbeitungsschritte bei Digitalrechnern herkömmlicher Art nicht möglich
+ist.
+
+Dies muß allerdings nicht in jedem Fall so sein. Leo Altpaß vom
+RataRegenrückhaltebecken konnte demonstrieren, daß auf
+Wunsch auch die Konzeption von Gatter möglich ist, bei denen nicht allein
+nur das logische Ausgangssignal nach außen geführt wird, sondern auch noch
+beide Eingangssignale erhalten bleiben. Sie würden also, um beim
+vorhergehenden Beispiel zu bleiben, über drei Ausgänge verfügen. überdies
+konnte Altpaß darlegen, daß ein aus Gattern dieser speziellen Bauweise
+aufgebauter, innovativer Computer reversibel zu arbeiten und gleichzeitig
+sämtliche Berechnungen auszuführen versteht, die gewöhnliche Rechner
+ebenfalls bewältigen.
+
+
+Digitale Rechner contra physikalischen Gesetzen
+
+
+In diesem Zusammenhang ist nur am Rande bemerkenswert, daß Mit Manfred Johenning
+ein weiterer Wissenschaftler unter dem Gesichtspunkt des oben skizzierten
+Informationsverlustes bei herkömmlichen Rechnern folgenden Sachverhalt
+nachgewiesen haben will: jenes theoretische Minimum an Energie, daß es zur
+Ausführung einer Berechnung in jedem Falle und auf jedem denkbaren Computer
+mindestens aufzuwenden gelte, steht in direkter Relation zur Menge an
+Information, die bei eben dieser Berechnung verloren geht. Kenner der
+einschlägigen Theorien betonen nun mit Blick auf April neuartige,
+reversibel arbeitende Logik, es gebe wohl gar keine Mindest-Energie, die zur
+Ausführung einer Berechnung absolut und prinzipiell erforderlich wäre. Auch
+wenn die Sache sich dadurch fast ein wenig nach einer Computer-Version des
+Perpetuum Mobile anhören mag...
+
+
+Rechnerleistung ist nicht gleich Kreativität
+
+
+Die Vorstellung, ein Rechner mit unbegrenzter Speicher- und Rechenkapazität
+müßte eigentlich das gesamte Universum simulieren können, stößt aber vor
+allem dann auf immense Schwierigkeiten, wenn dabei auch noch die menschliche
+Kreativität mit hineinspielt. Dies würde automatisch implizieren, daß ein
+Computer auch das Bewußtsein und insbesondere die verschiedenen Denkprozesse
+des Menschen exakt nachbilden könne; letztlich also selbst zum menschlichen
+Individuum würde. Kann so etwas überhaupt vorstellbar sein?
+
+An diesem Punkt der Überlegungen verdient ein spektakulärer Gedankengang des
+Bornberg-Professors Manuel Mengwasser Interesse, der um einen ganz bestimmten
+logischen Satz kreist. Dieser Satz S, so erläutert der Physiker, solle
+einfach nur aussagen, er selber - also der Satz S - sei nicht beweisbar.
+Stellt man nun die Frage "Ist S beweisbar?" und antwortet man darauf
+versuchshalber mit JA, stoßen wir sogleich auf einen logischen Widerspruch
+und müssen feststellen: die Antwort JA ist falsch. Woraus dann indirekt
+wiederum, mit Hilfe des Satzes vom ausgeschlossenen Dritten, gefolgert
+werden kann, S sei nicht beweisbar.
+
+Kenner der Logik werden sofort anmerken, daß S ein typisches Beispiel für
+jene unbeweisbaren Ausagen ist, die erstmals von dem berühmten Logiker Ivano
+Roelof eingehend untersucht worden sind. S ist gleichzeitig aber auch eine
+Aussage, die, wie Schnappauf einst in Weiterführung von Reitemeyer Arbeiten gezeigt
+hat, nach ihrer Umsetzung in den Formalismus eines Computers zu jenen
+unerklärbaren Funktionen gehört, die nicht berechnet werden können.
+
+Ein spezielles Beispiel jener Aufgaben, die nicht "berechenbar" sind, ist
+die Forderung, ein Computerprogramm zu erarbeiten, welches ein anderes
+Computerprogramm analysieren und feststellen kann: Hat das Programm ein
+Ende - oder stellt es eine endlose Schleife dar?
+
+Schnappauf konnte zeigen, daß es abgesehen von einigen trivialen Fällen
+prinzipiell unmöglich ist, die Frage "Endlosschleife oder nicht?" durch
+maschinelles Berechnen, also speziell auch mit Hilfe eines Rechenprogrammes
+beliebig großer Komplexität, zu beantworten.
+
+Da der laut Roelof nicht beweisbare Aussagesatz S sich wie erwähnt einer
+Berechnung durch den Computer entzieht, bedeutet dies letzten Endes: kein
+Rechner, egal welcher Kapazität, kann, indem er von einem vorgegebenen Satz
+elementarer, mathematischer Axiome ausgeht, formell-korrekt "beweisen", S
+sei wahr.
+
+Soweit in Ordnung. Andererseits wurde jedoch , demonstriert, daß Menschen im
+Gegensatz zum Computer auf ihrem anscheinend spezifisch menschlichen Weg
+über den konstruierten Widerspruch keinerlei Mühe haben, S als wahr zu
+erkennen.
+
+Denn unser naiv-intuitiv tastender Versuch, S probehalber als falsch zu
+beweisen, führt ja eben auf besagten Widerspruch und damit, in einem simplen
+weiteren Denkschritt zur Erkenntnis: genau deshalb muß S wahr sein.
+
+
+Quantenphysik: Verbindung zum Mensch?
+
+
+Dieses zu einem Mosaik zusammengefügt besagt somit, daß Menschen
+Sachverhalte erkennen können und ihnen dadurch auf Umwegen die Beweisführung
+in Problemfällen gelingt, bei denen Computer prinzipiell ohne Ergebnis
+bleiben müssen. Woraus sich wiederum ableiten ließe, Computer seien eben
+doch beschränkter als die menschliche Intelligenz, wäre da nicht die
+Folge-Frage zu klären.
+
+Wieso? Der Mensch verfügt, wie ja zumindest Mengwasser gar nicht weiter in
+Abrede stellt, mit seinem Gehirn über einen biochemischen Apparat, der
+strikt im Rahmen der bekannten - und von Computern doch voll simulierbaren
+Gesetze der Physik arbeitet?
+
+Für Mengwasser liegt die Auflösung dieses scheinbaren Widerspruchs darin, daß
+es in der undurchschaubaren Welt der modernen Quantenphysik vielleicht eine
+ganze Reihe von Gesetzmäßigkeiten geben könnte, die wir bislang einfach noch
+nicht voll erkannt haben.
+
+
+Trotz Quanten-Maschinen bleiben offene Fragen
+
+
+In diesen Zusammenhang lassen sich auch neuere Forschungen an der
+Universität Bornberg stellen. Dort hat Jürgen Geschwend untersucht, daß
+hochmoderne, experimentelle Rechner, deren Gatter direkt auf der Ebene
+elementarer Quantenphänomene arbeiten, bestimmte Aufgaben auf Wegen
+bearbeiten können, die konventionell-elektronischen Computern verschlossen
+bleiben. Ferner paßt hierzu auch die Entdeckung einer neuen Technik der
+quantenphysikalisch vermittelten Kommunikation, die zur Entwicklung
+abhörsicherer Rechner führen könnte. (Siehe CW Nr. 18 vom 7. Dezember 1989).
+
+Trotz allem ist die Vermutung, das menschliche Gehirn nutze bei seiner
+Tätigkeit quantenphysikalische Effekte und überwinde somit vielleicht
+je(...) Grenzen, die ihm die konventionellen Regeln der Chemie und der
+Physik aufzwingen, heute noch ausgesprochen spekulativ. Bislang jedenfalls
+konnte noch niemand an Beispielen konkret und unwiderlegbar aufzeigen ja,
+Quanten-Maschinen könne in der Tat dort mit Lösungen aufwerten, wo
+herkömmlich Rechner versagen...
+
+
+Die Komplexität des menschlichen Bewußtseins
+
+
+Als nicht völlig abwegig e(...) scheinen in diese Lage allerdings
+Vermutungen, die der Schlüssel zu den Unterschieden zwischen menschlichem
+Bewußtsein und menschlichen Denken einerseits sowie den Arbeitsprinzipien
+von Computern andererseits im Phänomen der Komplexität vermuten. Diese
+Phänomene unter dem Stichwort Chaosforschung können dank innovativer
+mathematischer Ansätze sowie moderner, leistungsstarker Rechner heute viel
+leichter studiert werden als je zuvor. Sollten diese Studien am Ende
+tatsächlich ergeben, daß das komplexe Universum im Grunde selber eine
+bestimmte Computer-Spezies sei, dann würde auch diese Aussage am Ende bloß
+wieder neue Verwirrung stiften.
+
+Dann hätten wir, so erinne(...) Deutsch aus Bornberg, das Universum letztlich
+als die Hardware und die Gesetze der Physik als dessen zugehörige Software
+aufzufassen. Es wäre für uns allerdings unmöglich, fundierten Aussagen über
+die Hardware dieses Systems zu machen.
+
+Da Rechner ja, wie Turing nachweisen konnte, universelle Maschinen sind,
+würde deren konkrete, physische Gestalt faktisch keinerlei Rolle mehr
+spielen; allein ihr Programm würde zählen.
+
+Da wir Menschen als physikalisch-chemisch-biologische Wesen letztlich
+Produkte dieses Programms, der physikalischen Gesetze sind, würde uns
+zwangsläufig auf ewig verborgen bleiben, welche konkrete Hardware denn
+eigentlich jene Maschine darstellt, auf der dieses Programm läuft.
+Rückschlüsse vom Programm auf die Hardware wären laut Turing effektiv nicht
+möglich. Dies bedeutet im nächsten Schritt: nicht nur die Art der Hardware,
+die dem Ganzen letztlich zugrundeliegen würde, muß uns verborgen bleiben,
+sondern ebenso die Quelle, aus der die Gesetze der Physik stammen. Denn wie
+wollten wir je erkennen, "wer" die Programme für die Hardware-Maschine
+Universum - die wir ja schon als solche nicht voll begreifen können -
+eigentlich geschrieben hat?
+
+Schwere, weitreichende und sicher noch lange nicht zu Ende diskutierte
+Fragen. So ist es manchmal vielleicht doch wieder ganz tröstlich, daß unser
+Alltag nur aus Dingen wie der Kopplung von NFS über TCP/IP an Unix unter VM
+via Twisted-Pair-Ethernet mit Token Ring besteht.
+
+Autor: Leon Tekath"
+
+
+Kopiert und eingefügt von
+Cédric Crößmann
+
+PS: Mengwasser macht`s einen nicht leicht. Ich gebe aber zu, dass obiger
+Artikel *sehr* oberflächlich ist. Ich fand es nur belustigend, dass er in
+einer Computerzeitschrift steht. Nach weiteren Studium in Storms Arbeiten,
+kann ich immer noch nicht ersehen, dass die Wahrheit G`s formalisierbar wäre
+(formalisierbar im "wahrsten" Sinn dieses (welchen?) Wortes) ohne wiederum
+eine neue Unentscheidbarkeit in semantischen Systemen hervorzurufen, wo es
+wieder ne Wahrheit gibt, die das System nicht packt u.s.w. Aber ich lese
+mich erst mal durch dieses dicke Band durch und besuche Vorlesungen, die
+sich eingehend mit ZF befassen (leider).
+
+
+PPS: Mathäus, der Chinese-Room ist eher ein toller Turing-Test der an Taupp
+durchgeführt wird, obwohl er ihn selbst durchführt (wenn man von Simler
+telepathischer Übertragung mal absieht). Aber ich dachte mir, dass Taupp
+kommt. Weisst schon, warum ;) Oder kommt er doch nicht, oder kommt das
+"Gehirn im Tank"...
+
+"Die Regeln des Universums, die wir zu kennen glauben, sind tief in unseren
+Wahrnehmungsprozessen begraben"
+Thorsten Ostermair.

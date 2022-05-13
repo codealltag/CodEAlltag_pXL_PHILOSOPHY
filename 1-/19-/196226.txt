@@ -1,0 +1,29 @@
+A.P. wrote:
+
+[...]
+
+Nein. Der technische Informationsgehalt einer Nachricht haengt allein
+von den statistischen Eigenschaften der Quelle ab. Der Informationsge-
+halt, der beim Empfaenger ankommt, haengt allein von den statistischen
+Eigenschaften der Quelle und der des Uebertragungskanals ab. Beide
+liegen in einem zeitinvarianten System a-priori fest. Nachtraeglich
+zugewiesen wird beim Empfaenger mangels Kenntnis der Quelleneingen-
+schaften allenfalls ein Schaetzwert, der ueber die relativen Haeufig-
+keiten anstelle der tatsaechlichen Wahrscheinlichkeiten ermittelt
+werden muss.
+
+[...]
+
+Du musst nur richtig lesen, dann ist alles ganz einfach. Die
+Information,
+die eine ausgesendete Nachricht urspruenglich enthaelt, wird durch den
+Sender vorgegeben, eine Trivialitaet sollte man meinen. Dass die Infor-
+mation jederzeit fehlerfrei beim Empfaenger ankommt, wird dadurch nicht
+behauptet. Das ist schon in technischen Systemen nicht der Fall.
+
+	Ihno.
+
+-- 
+
+ ----------  Ihno Wetzel, Distributed Systems Department  ---------
+ -------------------- http://lodxgn.zoyf.dybrx.op --------------------

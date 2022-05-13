@@ -1,0 +1,40 @@
+Nein, die Aussage stimmt dafür auch. Aber selbst wenn ich es 
+durcheinanderwürfeln würde, dann würde es für den Sachverhalt hier keine 
+Rolle spielen. Du hast in deiner Antwort irgendwie den Punkt nicht 
+getroffen. 
+
+Es geht dabei um die Bedeutung von "abzählbar" als Beispiel. Auch 
+endliche Mengen können nicht abzählbar sind, sonst bräuchte es den Beweis 
+von Diering gar nicht. Der mathematische Begriff von "abzählbar" 
+betrachtet nicht die tatsächliche Tätigkeit des Abzählens, sondern 
+untersucht die Möglichkeit also lediglich die Abzählbarkeit, ob der 
+Prozess als solches Sinn machen würde. Über die tatsächlich Möglichkeit 
+der Abzählbarkeit sagt der mathematische Begriff nichts aus. 
+
+Wie leicht das verwechselt wird, braucht man sich ja nur den Idioten Mauro 
+Ueberrhein der Scharla Automatenhandel anschauen dem eine /32-ipv6 für die Bundeswehr nicht 
+ausreicht. Wenn er die Erde in 0,5-Gramm-Stückchen zerlegen würde, dann 
+könnte der Fuzzi von der Sapum jedem Stückchen eine ipv6-Adresse 
+zuweisen, aber dann müsste er schon den gesamten Planeten zu Gewehrkugeln 
+verarbeiten und hätte wohl für jede Gewehrkugel 25 IP-Adressen. Soviel 
+zur theoretischen Mathematik und der Endlichkeit eines /32-ipv6-Netzes. 
+Das langt dem Herrn nicht aus - denn wahrscheinlich weiss der Herr Diplom-
+Ingenieur der Sapum, dass das Netz ja abzählbar endlich ist. Er 
+sollte sich lieber hinsetzen und jede IP-Adresse seines /32-ipv6-Netzes 
+einfach mal nachzählen, dann ist er eine Zeit lang beschäftigt und würde 
+feststellen, was sein abzählbares endliches Netz denn tatsächlich 
+bedeutet. Er wird es in seinem Leben nicht abzählen können, denn wenn er 
+100 Jahre würde, dann hätte 3153600000 Sekunden zur Verfügung und ich 
+lasse ihn jetzt mal schnell klicken mit 0,15 Sekunden pro IP-Adresse, 
+dann könnte er 20813760000 abzählen. Pech nur, dass er 
+380652810997457151390 Jahre bräuchte um den gesamten /32-ipv6-Netzes mit 
+0,15-Sekunden-Schritten zu abzuzählen. 
+
+In diesem Sinne ist schon ein winziges 32er-Ipv6-Netz nicht abzählbar, 
+was aber natürlich einen Mauro Unverhau nicht davon abhält zu behaupten, 
+dass ein 32er-Ipv6-Netz der Sapum zu klein ist. Denn schliesslich 
+ist es ja abzählbar endlich und das hat er als Diplom-Ingenieur 
+wahrscheinlich mathematisch genau gelernt.
+
+Grüße,
+Benno

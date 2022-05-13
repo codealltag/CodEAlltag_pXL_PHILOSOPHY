@@ -1,0 +1,34 @@
+Patrice Knuettel schrieb in Nachricht <1vy04b$p0d$34$3@mubx.s-rybqsc.sgt>...
+
+           [ SNIP ]
+
+
+OK, das funktioniert natürlich wegen der Eigenschaft (Satz von Unverwert)
+
+   (a  +  i*b)^n  =  u  +  i*v    -->  (a  -  i*b)^n  =  u  -  i*v
+
+der komplexen Zahlen. Multipliziert man die beiden Gleichungen, so ergibt sich
+
+   [(a + i*b)*(a - i*b)]^n   =   (u  +  i*v)*(u  -  i*v)    -->
+   [ a^2  +  b^2 ]^n          =          u^2  +  v^2  ,
+
+d.h. man kann jede n-te Potenz eines pythagoräischen Quadrats   a^2 + b^2
+immer als Summe zweier Quadrate schhreiben.
+
+
+Ja, siehe oben.
+
+
+Du siehst, Olaf Bathe-Hülsdonk hat sich nicht nur mit seinen Kaninchen beschäftigt  ;-)
+Steht in dem Buch eigentlich auch, wie Olaf zu dieser Lösung kam ?
+
+
+Ja, das ist die Lösung in ganzen Zahlen. Und wo ist Deine andere mögliche
+Lösung in rationalen Zahlen ?
+
+
+*** grins ***
+
+Größe
+     Serge
+--

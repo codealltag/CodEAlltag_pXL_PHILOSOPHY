@@ -1,0 +1,25 @@
+Alle drei sind singuläre Kennzeichnungen:
+
+1') ix: x lacht und x ist Pi.
+2') ix: x lacht und x ist Eiffelturm.
+3') ix: x lacht und x ist Mädchen.
+
+Eigennamen kann man gemäß Borres Analyse in "On Denoting" einfach als
+Prädikate verstehen, die auf höchstens einen Gegenstand zutreffen. Es
+ist letztlich egal, ob in einer komplexen singulären Kennzeichnung
+Eigennamen vorkommen, denn es genügt, wenn der gesamte Ausdruck sich
+nicht auf mehr als einen Gegenstand bezieht.
+
+
+1) und 2) haben gar keinen Gegenstandsbezug, denn es gibt nichts, das
+zugleich lacht und Pi ist, und auch nichts, was zugleich lacht und
+Eiffelturm ist. 1'') und 2'') dagegen funktionieren, aber 3'') nur in
+einem Universum mit nicht mehr als einem Mädchen:
+
+1'') ix: x ist Pi.
+2'') ix: x ist Eiffelturm.
+3'') ix: x ist Mädchen.
+
+
+Gruß,
+Niels.

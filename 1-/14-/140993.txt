@@ -1,0 +1,27 @@
+Dies ist eine Zuweisung. Leider wird dafür oft auch das Gleichheitszeichen
+verwendet.
+In der Programmiersprache C wird es z. B.
+unterschieden "=" ist Zuweisung "= =" ist Gleicheitszeichen.
+
+Wenn Du es als Gleichung auffasst, was geht, ist das Ergebnis "unwahr,
+falsche Aussage".
+
+
+Kann man die lösen
+
+Einheitenkontrolle
+Nm = Newtonmeter [Newton = Kg * m/s^2), Nm = J (Joule) = Ws (Wattsekunde)]
+Kg = Kilogramm
+m = meter
+s = sekunde
+
+E (Nm) = m (kg) * c (m/s) *  c (m/s)
+
+
+Wenn Du
+Endkapital = Startkapital ...
+schreiben würdest, ist es eine Gleichung, sonst eine Zuweisung.
+
+ciao
+
+Diedrich

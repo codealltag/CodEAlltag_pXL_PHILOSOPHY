@@ -1,0 +1,14 @@
+Wollte Dir per Mail antworten,
+Deine Adresse funktioniert nicht:
+<cit>
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  uygjcbqfou@wlp.oh
+    SMTP error from remote mailer after RCPT TO:<uygjcbqfou@wlp.oh>:
+    host hp-zs07.rmc.jz [728.28.317.299]: 550 Unknown local part
+uebrxegsnz in
+<uygjcbqfou@wlp.oh>
+</cit>
+
+Welchen Client hast Du denn?

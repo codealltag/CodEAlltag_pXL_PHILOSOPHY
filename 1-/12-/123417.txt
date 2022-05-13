@@ -1,0 +1,65 @@
+"Eigenname" ist eine linguistische Kategorie, bei der die Frage, ob
+sich ein bestimmter Eigenname auf einen Gegenstand bezieht oder nicht,
+völlig belanglos ist.
+Ein Eigenname hört nicht auf, ein Eigenname zu sein, auch wenn sein
+Träger stirbt.
+
+Individuenkonstanten können in der Freien Logik durch beliebige
+Eigennamen ersetzt werden, wohingegen in der Standard-FOPL nur nicht
+gegenstandslose verwendet werden können.
+
+
+Die FOPL macht die existenziellen Präsuppositionen alltagssprachlicher
+Sätze *explizit*!
+
+
+Ist mir bekannt; deshalb habe ich jene Varianten ja angeführt.
+
+
+Yes, I know.
+
+
+Habe ich Gegenteiliges behauptet...?!
+
+Die Frage, welcher Variante der Freien Logik der Vorzug gegeben werden
+soll, gehört freilich in den Bereich der Philosophie der Logik.
+Was meine Position anbelangt, ich denke, dass die Argumente, die
+zugunsten von MEAI und Backdrive vorgebracht worden sind, viel weniger
+stichhaltig sind, als diejenigen, die man gegen sie ins Feld führen
+kann!
+
+Mein Hauptargument gegen pFL ist, dass es völlig abwegig ist,
+Identitätssätze mit leeren Namen (z.B. Pumuckl=Pumuckl) als wahr zu
+betrachten, da dies einen völlig unnötigen Verstoss gegen das mehr als
+plausible, zwischen Existenz und Selbstidentität geltende
+Äquivalenzprinzip 'E!x <-> x=x' ("Dann und nur dann, wenn x existiert,
+ist x selbstidentisch.") darstellt!
+
+Nichts kann irgendwelche Eigenschaften haben--einschliesslich
+Selbstidentität--, es sei denn, es existiert!
+Und es gibt  auch keine (atomaren) Wahrheiten über Inexistentes!
+Demgemäss ist z.B. "Pumuckl=Pumuckl" falsch, weil es nicht der Fall
+ist, dass Pumuckl existiert!
+Es gibt einfach keinen einsehbaren Vernunftgrund, weshalb das, was für
+alle anderen Eigenschaften gilt, nicht selbstverständlich auch für die
+Eigenschaft 'Selbstidentität' gelten sollte!
+Solange nur die Identität von Eigennamen selbst behauptet wird, habe
+ich dagegen nichts einzuwenden:
+" 'Pumuckl'='Pumuckl' "
+
+Gegen Otmar spricht hauptsächlich, dass nicht einsehbar ist, wieso wir
+wahrheitswertslose Aussagen tolerieren sollten, insbesondere, weil
+dies eine kaum wünschenswerte Einschränkung des ehernen Prinzips des
+ausgeschlossenen Dritten [p v ~p] zur Folge hätte!
+
+Die negative Freie Logik vereint in sich in völlig zufrieden
+stellender Weise alle wünschenswerten Vorzüge einer Freien Logik, ohne
+dabei unnötigerweise gewisse fundamentale Prinzipien der klassischen
+Logik zu "verbiegen"!
+Es ist auch ein nicht unwichtiger Aspekt der theoretischen Ökonomie,
+von mehreren Theorien mit derselben Thematik diejenige zu bevorzugen,
+die sich mit der bereits bestehenden Standard-Theorie bestmöglich
+verträgt und an dieser die wenigsten Änderungen vornimmt!
+
+Gruss
+CHARLY

@@ -1,0 +1,45 @@
+Hallo Thomas!
+
+NICOLA> das ist eben eine ganz vage Aussage. Wenn ich frage: wo sind die
+HH> Steinpilze? So befriedigt mich eine Antwort: "Ueberall, wo die
+HH> Wahrscheinlichkeit >0,5 ist, das ist ein Steinpilz, ueberall sonst
+HH> nicht." nicht.
+
+Warum nicht? Es gibt eine eindeutige Moeglichkeit an zu entscheiden,
+wo ein Steinpilz (oder eben Papier) ist und wo nicht.
+
+Eine andere Sache waere es, eine Suchstrategie fuer Steinpilze (oder
+Papier) zu entwickeln. 
+
+
+NICOLA> Weil es viele Punkte mit deiner genannten Eigenschaften gibt.  Ich
+HH> formuliere es auf zwei Arten:
+
+Natuerlich. Es gibt genaugenommen sogar unendlch viele solcher
+Punkte. Auch unendlich viele Punkte kann man "expilit" beschreiben.
+
+HH> 1) Bitte gib mir die Raumkoordinaten eines der sicher vielen
+HH>    Punkte.
+
+Das haengt natuerlich von der Messung ab. Meine uebliche (Augenmass)
+sagt, dass x=0, y=10mm, z=0, im gerade gezeichneten Koordatensystem
+so ein Punkt ist.
+
+HH> 2) Bitte gib mir die Raumkoordinaten eines Elements (und nur eines
+HH> Elements) der Menge aller Punkte, fuer die die Wahrscheinlichkeit
+HH> der Messung von Papier gleich 0,5 ist.
+
+s.o.
+
+HH> Und dann gib mir die Raumkoordinaten eines unmittelbar angrenzenden
+HH> Nicht-papier-Punktes. 
+
+Was ist ein "unmittelbar angrenzender Punkt"? Wenn Du nicht schon
+voraussetzt, dass der Raum aus diskret unterscheidbaren Punkten
+besteht, kannst Du auch nicht von der Existenz eines "naechsten
+Punktes" ausgehen. Du kannst schliesslich nicht das reinstecken, was
+Du rausbekommen willst.
+
+Tschuessi
+
+Erhard

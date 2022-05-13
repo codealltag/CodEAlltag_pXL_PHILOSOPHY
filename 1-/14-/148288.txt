@@ -1,0 +1,10 @@
+Nun ich lasse seit meinem ersten Posting gar nichts fallen.
+Wenn x = 0 ist, dann gillt x + x/9 = 0 und genauso gilt x + x/8 = 0
+
+Wenn also dieser beiden Rechnungen stimmen,
+dann stimmt auch x + x/9 = x + x/8
+Mögliche Ergebnisse dieses Unterschieds:
+1,p1 x = 1,125 x	(Henning Uedelhoven und konventioneller Schulmathematik)
+0,2 = 0,1p9 		(Manuel Mosbrucker schte mal nach 						Analogieverfahren und oder 
+Grenzwerten)
+0,2 x = 0,p2            (François Eckhart nach Spiel und Laune auf der 	 			Suche)

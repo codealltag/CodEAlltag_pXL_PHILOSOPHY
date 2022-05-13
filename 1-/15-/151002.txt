@@ -1,0 +1,54 @@
+Hallo Niklaus!
+
+AS> 1. Alle Schimmel sind weiss.
+AS> 2. Alle Schimmel sind Pferde.  Prämissen
+AS> _________________________________
+AS> 3. Alle Pferde sind weiss Schlussfolgerung
+
+AS> Nun das dies offensichtlich falsch ist, weiss jeder.
+AS> Aber warum ist es falsch?
+
+Weil aus den ersten zwei Aussagen natuerlich nicht die dritte folgt.
+Die korrekte Folgerung lautet: Alle Schimmel sind weisse Pferde. Es
+folgt nicht einmal, dass alle weissen Pferde Schimmel sind.
+
+Zum Beispiel (Mathematisch - natuerliche Zahlen)
+
+1. Alle durch zwoelf teilbaren Zahlen sind auch durch drei teilbar.
+2. Alle durch zwoelf teilbaren Zahlen sind auch durch zwei teilbar.
+
+folgt aus diesen beiden Aussagen denn "alle durch zwei teilbaren
+Zahlen sind auch durch drei teilbar"?
+
+AS> Die Schlüsse sind falsch, weil die Axiome falsch sind.
+
+??? Zum einen sind die Schimmelaussagen 1 und 2 keine Axiome, sondern
+bestenfalls Folgerungen aus der Definition "Ein Schimmel ist definiert
+als ein weisses Pferd".
+
+Definitionen sind aber lediglich Begriffsbestimmungen und enthalten
+deshalb keinen Wahrheitswert.
+
+AS> Der Einfachheithalber bediene ich mich jetzt von Symbolen a:=alle
+AS> s:=Schimmel p:=Pferd w:=weiss 
+[...]
+AS> 1. awpw
+AS> 2. awpp
+
+Das heisst ausgeschrieben:
+1. "Alle weissen Pferde sind weiss"
+2. "Alle weissen Pferde sind Pferde"
+
+AS> Das überlasse ich jetzt Dir.
+
+Nenene, nun moechte ich schon gerne sehen, wie Du daraus ein "Alle
+Pferde sind weiss" mittels logischer Umformungen basteln willst.
+
+Und natuerlich will ich nun auch wissen, was dies mit der
+"Richtigkeit" von Axiomen zu tun hat - wo doch kein Axiom verwendet
+wurde.
+
+Und wie Du die "Richtigkeit" von Axiomen - beispielsweise in der
+Geometrie - beweisen oder widerlegen willst.
+
+Wolf

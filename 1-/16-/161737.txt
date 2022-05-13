@@ -1,0 +1,222 @@
+Hallo,
+
+
+Gut, das zu wissen ;). Wie definierst Du "Personalität"?
+
+
+Es gibt hier grundsätzlich zwei Techniken; bei der einen zeigt man dem 
+Patienten Buchstaben und kann dann im EEG eine Reaktion nachweisen, wenn der 
+"gewünschte" Buchstabe gezeigt wurde. Bei der anderen bringt man dem Patienten 
+bei, durch Modulierung gewisser Aspekte seiner Gehirnaktivität einen Cursor zu 
+steuern.
+Beides versetzt den Patienten in die Lage, einen Computer zu steuern und Texte 
+zu schreiben.
+
+
+Man kann sich mit dem locked-in-Patienten unterhalten, auch wenn jedes der 
+oben skizzierten Verfahren natürlich zu langen Antwortzeiten führt.
+
+
+Cyc verfügt auch über einen Sinneskanal, auch wenn dieser natürlich eine 
+extrem geringe Bandbreite hat.
+Wenn man eine KI entwickeln will, die - wie Theo - nicht nur auf 
+Teraflops-Supercomputern lauffähig sein soll, gibt es nun einmal nicht die 
+Möglichkeit, sie mit einem Körper auszustatten.
+
+
+Wenn einer Person ein bestimmter Sinneskanal fehlt, dann sind die Begriffe, 
+mit denen über die Daten gesprochen wird, die man über diesen Sinneskanal 
+aufnehmen kann, für die fragliche Person eben abstrakte Begriffe. Wenn ein 
+Begriff abstrakt ist, heisst das aber noch lange nicht, daß man ihn nicht 
+"versteht".
+Ich bin beispielsweise nicht in der Lage, Ultraschall-Töne zu hören, und ich 
+kann mir nicht vorstellen, wie sich ein solcher Ton für meine Katze anhört.
+Dieses Defizit meiner Katze gegenüber verändert nicht meinen Status als 
+Person.
+Ich kann mir nicht vorstellen, wie es ist, eine Katze zu sein, und ein 
+künstliche Intelligenz vom Typ Qru unterscheidet sich von einem Menschen viel 
+deutlicher als eine Katze. Also können wir uns möglicherweise nicht 
+vorstellen, wie es ist, Theo zu sein, und Theo kann sich nicht vorstellen, wie 
+die subjektive Seite des Menschseins aussieht - ich habe damit keine Probleme.
+
+
+Wenn man hinreichend genau wüsste, wie das Erinnerungssystem eines Menschen 
+Farben repräsentiert, könnte man theoretisch durch einen geeigneten Eingriff 
+in das Gehirn eines von Geburt an blinden Menschen diesem eine falsche 
+Erinnerung einpflanzen, in der ein rotes Objekt vorkommt.
+
+
+Was soll denn eine "Person im vollen Sinn" sein?
+Wären Menschen auch "keine Personen im vollen Sinn", wenn es intelligente 
+Vögel gäbe?
+
+
+Das bezweifle ich schon deswegen, weil eine Querschnittslähmung nicht durch 
+eine symptombasierte Diagnose festgestellt wird.
+
+
+Das heisst, dem Alien, der uns biologisch ganz und gar unähnlich ist, 
+schreibst Du keine Schmerzempfindungen zu?
+
+
+Ich zweifle nicht daran, daß man (langsame) Computer (mit kleinen Speichern) 
+aus ungewöhnlicher Hardware bauen kann.
+Im Fall eines Teiches allerdings sehe ich nicht, wie man diesen benutzen 
+könnte, um etwa die Zustandsübergänge einer beliebigen finite state machine 
+vorherzusagen.
+Einfach deswegen, weil die einzigen nichtzufälligen Dinge, die in dem Teich 
+passieren, Konvektionsströmungen sind und Wellenmuster, und das liefert selbst 
+für eine recht kleine finite state machine weder genügend Zustände noch die 
+richtigen Zustandsübergänge.
+Kurz: ich kann natürlich die physikalischen Zustände eines Teichs surjektiv 
+auf Zustände zumindest einer finite state machine abbilden, aber mit dieser 
+Abbildung wird auch schon die Maschinentabelle der finite state machine 
+festgelegt.
+Sei nun S(t) der Zustand des Teiches zum Zeitpunkt t, Z die Menge aller 
+möglichen Teichzust�nde, M die Menge aller Zustände einer finite state machine 
+F, g:M--->M die Zustandsübergangsfunktion von F.
+Dann behauptest Du im wesentlichen, daß eine surjektive Abbildung f:Z--->M 
+existiert mit der Eigenschaft, daß für alle t gilt, daß f(S(t+1))=g(f(S(t)))
+ist.
+Das scheint mir, vorsichtig gesprochen, eine ziemlich mutige physikalische 
+Behauptung zu sein ;).
+
+
+Sei F mein Schachcomputer, dann befindet sich dieser nach der Eingabe einer 
+Stellung x in einem Zustand Zu(x), und nach k Rechenschritten wird er im 
+Zustand (g^k)(Zu(x)) einen Zug y ausgeben. Allgemein soll der Computer im 
+Zustand x die Ausgabe Aus(x) ausgeben.
+Ich wüsste jetzt gerne, wie Du zu der Annahme kommst, es gebe eine feste 
+Input-Abbildung i von der Menge der Stellungen auf die Zustandsmenge des 
+Teiches sowie eine feste Output-Abbildung o von der Zustandsmenge des Teiches 
+auf die Menge der möglichen Züge sowie eine feste Abbildung f von der 
+Zustandsmenge des Teiches auf die Zustandsmenge meines Schachcomputers, so daß 
+(o.B.d.A.)
+
+1.f(i(x))=Zu(x) für alle x
+2.S(t)=x und f(x)=k ===> f(S(t+1))=g(k) für alle x.
+3.o(x)=Aus(f(x)) für alle x.
+
+erfüllt sind.
+
+
+Da es verschiedene Imitationstests gibt, kann man nicht von *dem* 
+Imitationstest reden.
+Ausserdem habe ich nie eine Äquivalenz zwischen "Bestehen eines TT" und 
+"Denkfähigkeit" behauptet - ich bin damit zufrieden, daß das zweite aus dem 
+ersten zu folgen scheint.
+Die Leute, die behaupten, daß man einen Turing-Test bestehen könne, ohne von 
+einem denkenden System gesteuert zu werden, sollten erst einmal definieren, 
+was sie unter "denken" verstehen und dann zeigen, daß es irgendwo irgendein 
+System gibt, das kein denkendes (echtes oder unechtes) Teilsystem enthält und 
+einen Turing-Test besteht.
+Im Gedankenexperiment vom chinesischen Zimmer wird zwar der recht schwabbelige 
+Term "denken" durch das etwas weniger schwammige "fühlen, daß man etwas 
+versteht" ersetzt, und Bönisch würde sicher nicht "fühlen, daß er chinesisch 
+versteht", aber das Gedankenexperiment übersieht, daß Bönisch hier nicht der 
+denkende Teil des Systems ist. Wenn man die Daten des chinesischen Zimmers auf 
+eine andere Hardware überträgt, kann das Programm locker auch ohne MPBI 
+weiterarbeiten; noch mehr, es bemerkt den Wechsel von MPBI zu einer anderen 
+Hardware gar nicht.
+
+
+Was ist denn die "übliche bedeutung" des Wortes "denken"?
+Wenn man (etwa nach einer Hirnverletzung) feststellen will, inwieweit jemand 
+Denkfähigkeiten verloren hat, unterzieht man den Betreffenden auch einer Art 
+Turing-Test - man beobachtet sein Verhalten und sucht nach Fällen, in denen er 
+an Problemen scheitert, die für einen normalen Menschen einfach sind.
+Wie willst Du feststellen, ob etwas "denkt", ohne Bezug zu nehmen auf das 
+Verhalten des möglicherweise "denkenden" Dinges?
+
+
+Den Turing-Test besteht nur das Gesamtsystem, aber nicht jeder Teil des 
+Systems muss auch denken.
+Der Trick des Gedankenexperimentes vom chinesischen Zimmer ist dann, daß es 
+einen Fall konstruiert, in dem ein Teil des Systems, der innerhalb des 
+TT-Kandidaten nur vergleichsweise primitive Aufgaben übernimmt, dennoch genug 
+Eigenintelligenz besitzt, um selbst einen geeigneten Turing-Test bestehen zu 
+können.
+Der Fehlschluss im Gedankenexperiment ist nun einfach die Annahme, daß 
+innerhalb eines Systems, das den Turing-Test bestehen kann, nur eine 
+intelligente Entität enthalten sein kann. Dabei zeigen etwa Menschen mit 
+multipler Persönlichkeitsstörung recht klar, daß dem nicht so ist.
+
+
+Deine nicht zeitlich invarianten Abbildungen von Teichzust�nden auf 
+Computerzust�nde sorgen dafür, daß alles egal wird.
+
+
+Wenn man eine Abbildung angibt, die den oben geforderten Bedingungen genügt, 
+bin ich bereit, anzuerkennen, daß der Teich den Turing-Test bestehen kann.
+Vorher haben wir einfach keine Möglichkeit, mit ihm einen Test durchzuführen, 
+weil wir kein Spiel definieren können, an dem der Teich mitspielen könnte und 
+bei dem nicht "alles egal wäre".
+Und wenn ein System nicht fähig ist, ein Mitspieler bei einem nichttrivialen 
+Spiel zu sein, erübrigt sich die Frage, ob es intelligent sein könnte.
+Solange man mir also kein nichttriviales Spiel angeben kann, bei dem ein Teich 
+ein Mitspieler sein könnte, glaube ich nicht, daß Teiche intelligent sind.
+
+
+Wenn das Interface nicht soviel Datenverarbeitung macht, daß das Spiel für den 
+Ausserirdischen trivial wird, würde ich folgern, daß der Ausserirdische von 
+etwas gesteuert wird, das intelligent ist.
+Sofern der Ausserirdische nicht (wie Bönisch mit dem Zimmer in seinem Kopf) 
+eine multiple Persönlichkeit in dem Sinne ist, daß zu unterschiedlichen Zeiten 
+unterschiedliche Programme die Kontrolle über ihn übernehmen, sage ich dann 
+kurz, daß der Ausserirdische selbst intelligent ist.
+
+
+Ich bin natürlich auch ohne die Hilfsmittel intelligent, weil die Hilfsmittel 
+mir nicht so viel Datenverarbeitung abnehmen, daß das Spiel für mich trivial 
+wird.
+Die Situation wäre anders, wenn ich zum Bestehen des chinesischen TT als 
+Interface einen Chinesen bräuchte, der mir die Antworten vorsagt.
+
+
+Eine denkende Struktur ist eine, die nichttriviale Probleme löst und die zur 
+Lösung dieser Probleme nicht andere denkende Strukturen auf eine Weise 
+aufruft, die von diesen wiederum Denken verlangt.
+
+
+Mir ist nicht klar, was das Wort "bedeutungsvoll" hier bedeuten soll *gg*.
+Ich würde sagen, daß ein physikalischer Prozess bedeutungstragend ist, wenn 
+zwei denkende Systeme ihn benutzen, um miteinander zu kommunizieren.
+
+
+Wenn wir feststellen können, daß das meiste, was ein Wesen sagt, falsch ist, 
+dann besteht es auch nicht den Turing-Test.
+
+
+Er kann abstrakte Kenntnisse über Zahnschmerzen haben und dann feststellen, 
+daß gewisse Dinge, die er selbst erlebt, diesem Wissen entsprechend als 
+Zahnschmerzen zu bezeichnen sind.
+Wenn ein Mensch zum ersten Mal Zahnschmerzen hat, hat er auch keine 
+Schwierigkeiten damit, festzustellen, daß es sich um Zahnschmerzen handelt, 
+obwohl er vorher nie erlebt hat, wie Zahnschmerzen sich anfühlen.
+Also wusste er schon vor diesem Erlebnis, was Zahnschmerzen sind.
+
+
+Die Schmerzen sind zweifellos echt. Oder willst Du behaupten, daß Du besser 
+als der Hypochonder wüsstest, ob er Schmerzen empfindet?
+
+
+Willst Du behaupten, Du wüsstest besser als der Verrückte, was er sieht?
+Falls der Verrückte nicht weiss, daß er verrückt ist, denkt er vielleicht, daß 
+der Tyrannosaurus *wirklich* auf der Strasse herumspaziert; aber daß er einen 
+sieht, das weiss er und das kann ihm auch niemand bestreiten.
+
+
+Achso - ich dachte immer, daß er den stärkeren Satz zeigen will, daß es ein 
+System gibt, das nicht von einer denkenden Struktur gesteuert wird und einen 
+TT besteht ;).
+Mit der Aussage, daß es Systeme geben kann, die *als Ganzes* nicht denken und 
+einen TT bestehen, habe ich keine Probleme - schliesslich könnte eine 
+ausserirdische Intelligenz des Typs Malet (wenn es sie gäbe), die mit uns 
+Funkkontakt aufnähme, leicht die Auffassung vertreten, daß sie mit der 
+Kontaktaufnahme unser ganzes Sonnensystem einem Turing-Test unterworfen habe.
+Dabei würde allerdings nur das Antwortverhalten des Sonnensystems auf 
+modulierte Funksignale von denkenden Strukturen gesteuert, die winzige 
+Subsysteme des Sonnensystems sind.
+
+Größe,
+Lothar.

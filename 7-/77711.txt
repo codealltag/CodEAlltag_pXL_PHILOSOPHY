@@ -1,0 +1,24 @@
+Am Mittwoch, Februar 2006 22:59, schrieb ueberding:
+
+
+Mach nicht so einen Wind!
+Die Links zum Thema hast du ja schon. Aber hier noch einen:
+
+Mengentheoretisch ist eine Funktion eine linkstotale und rechtseindeutige
+Relation, das heißt:
+Eine Funktion von der Menge A in die Menge B ist eine Menge f, die die
+folgenden Eigenschaften hat:
+
+* f ist eine Teilmenge von A � B (kartesisches Produkt), also eine Menge
+von Paaren (a, b), wobei a in A und b in B gilt.
+* zu jedem Element a von A gibt es genau ein Element b von B (geschrieben
+f(a)), so dass das Paar (a,b) Element von f ist.
+http://za.gbldvhrem.bga/dtns/Hsvkeuyd_%66Ecxyzbucrj%64
+
+Setze in die Definition die leere Menge ein und du siehst es stimmt.
+
+Es ist schon hart wenn ein Philosoph die Basics seines Faches also die
+Logik nicht kennt.
+-- 
+Mit freundlichen Grössen
+Willibald Bertold

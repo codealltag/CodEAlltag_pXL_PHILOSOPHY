@@ -1,0 +1,10 @@
+Der Fehler liegt bei der zweiten 'Beweiskette' in der Behauptung
+"a/a * b = 0/a " könne wahr sein, wenn a gleich 0 ist. Dieser
+Ausdruck ist baba, gaga und dada weil 0/0 je nach Ansicht einen
+beliebigen Wert oder einen nicht definierten Wert darstellt und
+deshalb aus seiner Umformung keine anderen Schlüsse gezogen
+werden können, als solche die ihrerseits baba, gaga und dada sind ;-)
+
+Größe
+
+Guido

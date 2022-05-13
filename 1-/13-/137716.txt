@@ -1,0 +1,9 @@
+Das ist die /erste/ Formulierung, die tatsächlich ein wenig paradox
+erscheint, jedenfalls soweit man mit "Objekt" etwas meint, das einen
+Rand oder eine Oberfläche hat. Der Abstand 0 ist aber erreichbar, in
+dem man zuläßt, dass sich die Objekte am Rand berühren dürfen, dort
+einen /gemeinsamen/ Rand haben. Ein eindimensionales Beispiel sind die
+Invervalle [0,1] und [1,2], die sich bei 1 berühren.
+
+
+dirk

@@ -1,0 +1,9 @@
+Roland Ul <ksf43@kqs.lb> wrote:
+[...]
+
+Allg. werden n-stellige Prädikate so interpretiert: Ist A ein Universum, P ein
+n-stelliges Prädikatsymbol, so ist die Interpretation von P eine Teilmenge
+von A^n.
+
+Funktionssymbole: Ist F ein n-stelliges Funktionssymbol, so ist die Inter-
+pretation von F eine Funktion F':A^n -> A.

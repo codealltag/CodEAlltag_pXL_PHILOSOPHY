@@ -1,0 +1,12 @@
+Moin Thorsten,
+
+
+0,9p ist innerhalb der natürlichen Zahlen definiert, da 0,9p = 1 ist.
+0,9p ist nur eine andere Darstellung von der natürlichen Zahl 1. Aber
+wahrscheinlich ist das Beispiel zu konkret. Deshalb jetzt eine Aussage,
+deren Richtigkeit selbst jeder Philosoph einsehen sollte:
+
+Sei M eine beliebige Menge.
+Gilt a \in M und b=a, so gilt auch b \in M.
+
+Charles

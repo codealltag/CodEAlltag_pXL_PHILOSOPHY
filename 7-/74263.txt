@@ -1,0 +1,16 @@
+Das sagt der Satz von Gödel nun mal nicht.
+Er sagt
+Erstens:
+In jedem hinreichend reichhaltigen logischen System (Zb. Mengenlehre nach
+ZFC) ist es nicht möglich mit den Mitteln des Systems seine
+Wiederspruchsfreiheit oder Vollständigkeit zu beweisen.
+Zweitens:
+In jedem solchen System existiert mindestens ein Satz der zu einem
+Wiederspruch führt oder das System ist unvollständig.
+
+Wenn man so ein System in ein Meta-System einbetten kann wird das
+ursprüngliche System Wiederspruchsfrei. Dummerweise gilt der Satz von Fürstenberg
+dann für das Meta-System.
+-- 
+Mit freundlichen Grössen
+Uwe Nühmann

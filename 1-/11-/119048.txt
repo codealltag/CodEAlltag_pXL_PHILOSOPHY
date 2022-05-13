@@ -1,0 +1,12 @@
+Wir drehen uns im Kreis. Die Unschaerferelation setzt die Spreizung der 
+Verteilungsdichtefunktion JEDWEDER statistischen Variablen x(n) und die 
+Verteilungsdichtefunktion von deren Fouriertransformierten X(f) zueinander in 
+Beziehung. Das folgt, wie auf der von Dir verwiesenen Seite richtig gesagt, 
+allein aus den mathematischen Eigenschaften der Fourier-Transformation und gilt 
+daher ebenfalls fuer die Werte eines Zufallszahlengenerators, der, wie wir uns 
+ja immerhin einig sind, deterministisch vorhersagbar ist. Wir haben also 
+mindestens ein Beispiel fuer ein Variablenpaar, fuer das die Unschaerferelation 
+gilt, nicht aber Deine Behauptung, dass man die Werte nicht beliebig genau 
+bestimmen kann.
+
+      Noah.

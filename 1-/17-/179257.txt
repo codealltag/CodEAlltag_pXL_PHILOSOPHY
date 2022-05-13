@@ -1,0 +1,55 @@
+[snip]
+
+
+Eigentlich kann man nicht sagen, daß diese Begriffe in der Physik
+"definiert" seien. Es handelt sich eher um eine Metabeschreibung (eine
+wissenschaftstheoretische Beschreibung) von Formulierungen von
+Gesetzen. 
+
+überlicherweise bezeichnet man solche Gesetze als deterministisch, die
+sich als mathematische Funktion beschreiben lassen und deren
+Bildbereich nicht aus einer Menge besteht. Letztere Einschränkung
+wirkt gek�nzelt, soll aber Formulierungen von "deterministischen"
+Gesetzen mit Funktionen ausschließen, die die Menge der möglichen
+Werte als Bild haben.
+
+"Frei" und "unfrei" sind in der Wissenschaft keine strukturellen
+Begriffe, sie haben eher so einen Status, wie die Ausdrücke "streng",
+"echt", "gebunden" oder "einfach". Sie können in Kontextdefinition im
+Prinzip beliebig verwendet werden, etwa in "freie Radiakle" etc.
+
+Vorhersagbar sind solche Ereignisse, die sich durch tatsächliches
+Messen von Eingangswerten und Ausrechenen der Funktion, als Bilder von
+Funktionen ergeben und auch so eintreten. Allerdings würde ich noch
+ein nicht alszu streng definiertes Gütekriterium mithinzunehmen.
+Meßungenauigkeiten und anderes kann schließlich immer zu kleinen
+Abweichungen führen.
+
+
+Determiniertheit hängt nicht an Berechenbarkeit. Es gibt
+deterministische Vorgänge, die nicht berechenbar sind. Zum einen
+setzen die meisten Wissenschaften die reellen Zahlen voraus, die sind
+jedoch überabzählbar (d.h. es gibt davon ziemlich viel mehr als
+natürlichen Zahlen) und damit sind solche Funktionen nur
+näherungsweise berechenbar. Zweitens gibt es deterministische Vorgänge
+(ohne reelle Zahlen), die trotzdem nicht berechenbar und drittens gibt
+es deterministische Vorgänge deren prinzipielle Berechenbarkeit nicht
+durchführbar ist, weil sie zu viele Ressourcen (Zeit, Platz, Energie)
+verschlingen.
+
+Andersherum gibt es auch nichtdeterministische Vorgänge, die sich
+berechnen lassen. Zumindest in dem Sinne, daß sich die möglichen Werte
+berechnen lassen und zum Teil auch die Häufigkeiten, respektive
+Wahrscheinlichkeiten. 
+
+
+Wenn es sich bei den Gesetzen um stochastische Gesetze handelt, kann
+man nur abschätzen. Bei deterministischen Gesetzen hängt es von der
+Praxis ab, ob man etwas "nur" abschätzt oder vorausberechnet.
+
+MfG
+François
+-- 
+François Czichowlas
+        keep things simple. as simple as possible, but no simpler
+	        (D.Mellinghoff)

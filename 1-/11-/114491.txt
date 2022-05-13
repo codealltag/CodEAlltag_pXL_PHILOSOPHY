@@ -1,0 +1,21 @@
+Ja, so einfach ist es.
+
+In der Freien Logik, die über ein von "=" unabhängiges
+Existenzprädikat, "E!", verfügt, würde man obigen Sachverhalt wie
+folgt ausdrücken:
+
+"Es ist nicht der Fall, dass es etwas gibt, das existiert."/ "Nichts
+existiert.":
+
+          ~ExE!x
+
+Negation:
+
+          ~~ExE!x <-> ExE!x
+
+"Es ist nicht der Fall, dass es nicht der Fall ist, dass es etwas
+gibt, das existiert."/"Etwas existiert."
+
+
+Gruss
+BURKHARD

@@ -1,0 +1,40 @@
+Regarding the article <83487291.2449864@KT-Vdpqgkhnk.syu.spd.lu>, by Karlheinz Eickenbusch <pdymuctgj@fuw.ux>:
+
+
+Kreativitaet characteresiert die Faehigkeit eines Intelligenz (kunstliches
+oder natuerliches) eine neue, nicht vorher begegnete Aufgabe zu loesen.
+
+
+Der Zahl der Versuche spielt hier keine Rolle. Beim zweiten oder dritten
+Versuch kriegt er die richtige Loesung, also es wird doch _immer_ gefunden.
+Dagegen, ein Algorithm, das keine Zufaeligkeit hat, und falsh programiert
+ist, wird immer R wahlen, wobai wir F wollen, also nie richtige Antwort
+unabhaengig von Versuchenzahl...
+
+Und die expotentiellen Steigung der noetigen Versuchenanzahl mit der 
+rombinatorischen Komplizierheit der Aufgabe habe ich schon erwaehnt
+(das hielt aber nicht fuer quasy-zufaellige, lehrnende Algorithmen).
+
+Du verwechselst vermutlich den Begriff des 
+
+Was ist die Diffinition von den beiden Vogel? Hoert sich ziemlich gleich
+an...
+
+
+Deterministisch geht das, nur wenn man von vorne das Labirint kennt.
+Sonnst bleibt das Algorithm einfach bei ersten Verzweigung stehen und
+geht nicht weiter...
+
+Zudem setzt dein 
+
+Das ist wahr - sieh mein Antwort zu Ulrich. Kurz  gesagt - man
+muss das Selbst-modifierung einfuhren.
+
+
+Ah- das ist ja das schoene and zufaeligen Entscheidungen - bei 
+genuegend versuche wird er sogar eine wenig Wahrscheinliche
+Richtung _doch_ irgendwann treffen. Also "jedesmal" geht
+mit zufaeligen Zahlen nicht...
+
+Regards,
+        Alice

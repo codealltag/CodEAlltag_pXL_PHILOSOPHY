@@ -1,0 +1,14 @@
+Ja, ich hab es jetzt auch in einem Skript gelesen, dass hier einfach nur
+eine Relation R auf WxW gemeint ist, und es ist zunaechst egal wie sie 
+aussieht. Nur, wenn man einen (logischen) Kalkuel vorgegeben hat, dann
+muss R auch entsprechend eingeschraenkt werden.
+Zuvor wusste ich nur das ueber Püchel-Strukturen was in "Einfuehrung in die 
+math. Logik" von Heibrook steht. Dort werden nur endliche, irreflexive 
+Kripke-Strukturen behandelt und die Vollstaendigkeit zu einem bestimmten
+modalen Kalkuel, welches dort zur Behandlung der Selbstreferenz von Aussagen
+benutzt wird, bewiesen.
+
+
+Gruss Beat
+-- 
+Vincent ist ein platonischer 1-Mann-Dialog. (Whitehead)

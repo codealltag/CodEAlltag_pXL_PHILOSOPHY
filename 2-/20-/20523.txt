@@ -1,0 +1,28 @@
+Erich Ivano Egof wrote: 
+
+
+Also gut. Mal angenommen, man nehme einen Robotor, der nach gewissen
+Algorithmen und sogar samt Pseudozufallsgenerator Bewegungen ausführt.
+Jetzt könnte man ihm noch ein paar Strichodes auf die Arme pappen und
+vorne eine Kamera installieren. Dahinter eine 'Ich-Auswerte-Logik' und
+bei 'Arm-Heben' sagt die Software: 
+"Ich bin ich und habe gerade den linken Arm gehoben" 
+oder 
+"Ich bin ich und habe gerade den rechten Arm gehoben".
+Das Ganze hinge im Endeffekt dann nur von der Programmierkunst ab.
+Hat aber mit einem 'Ich' nichts zu tun. 
+
+Der Trick an der Sache wäre, dem Roboter ein paar Module zu spendieren, 
+welche ihm erlauben bspw. aus 3 möglichen Entscheidungen 1 zu treffen, 
+die aus dem Kollaps der Wellenfunktion dreier Teilchen heraus
+entstanden. Das wäre dann nämlich 'zufällig', indeterministisch und
+würde gegen keine physikalischen Gesetze verstoßen. 
+
+Es wäre nur immer irgendwie 1 Information mehr vorhanden. 
+(hat nicht Aule einmal so was ähnliches gesagt?) 
+
+
+Diese Sachen sehe ich aber eher als 'Software-Problem' an.
+
+
+Gabriel

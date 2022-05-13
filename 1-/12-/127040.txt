@@ -1,0 +1,25 @@
+On Mon, 06. 05. 21 16:35:23 +0200, "Edouard Danel"
+Ja, klar, die konkreten Koordinaten sind immer relativ zu einem
+Bezugsystem, das ist schon klar.
+
+Anmerkung: "Eigenschaft" meint hier eigentlich nicht etwas, das man
+physikalisch AN diesem Objekt (als solchem) ablesen kann... ;-)
+
+Was also gemeint ist, ist, d a s s es raum-zeitliche Koordinaten (in
+bezug auf ein best. Koordinatensystem) gibt, die diesem Objekt
+zugeordnet werden können. (Seinen "Aufenthaltsort" in der Raum-Zeit,
+bezogen auf dieses Koordinatensystem angeben.)
+
+Man kann dann z.B. eine Relation einführen:
+
+	ist(<wer/was>, <wo und wann>)
+
+Beispiel:
+
+	ist(Ulf Voogt, [Mond, 31. Juli 1968, 3.56 Uhr MEZ]).
+
+Klar das Bezugssystem ist unsere Erde (der Mond als der Erdenmond), und
+das Datum ist bezogen auf unseren gewöhnlichen Kalender.
+
+
+F.

@@ -1,0 +1,17 @@
+"frei - unfrei" sind keine physikalischen Begriffe, sondern welche der
+"Bewusstseinsphilosophie". "Deterministiert" heisst ein System, wenn
+sich der dessen Zustand in t als Funktion des Zustands in t-1ergibt.
+Moeglicher Gegensatz zu "determinstisch" ist "stochastisch", dass also
+Zufallsvariablen bei der Ermittlung eines Nachfolgezustands eine Rolle
+spielen. "Vorhersagbar" heisst ein System, wenn der Zustand in t
+bereits in t-1 hinreichend geschaetzt werden kann. Es ist dabei
+insbesondere moeglich, dass ein System deterministisch,.aber dennoch
+nicht vorhersagbar ist, ein Phaenomen, dass in der Chaostheorie
+untersucht wird. Ursache hierbei ist, dass kleine Differenzen im
+Systemzustand, die bei Messungen im allgemeinen nicht ausgeschlossen
+werden koennen,  zeitlich exponentiell vergroessert werden.
+"Berechenbar" hat nun wiederum mit den anderen Begriffen nichts zu
+tun. Eine Funktion heisst berechenbar, wenn es ein formales System (z.
+B. Turning-Maschine) gibt, die diese berechnen kann. 
+
+Gruss, Kaspar.

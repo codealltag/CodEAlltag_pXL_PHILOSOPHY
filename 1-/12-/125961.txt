@@ -1,0 +1,191 @@
+Schau mal, Fuhlbrück/Theyson/Heyd mögen ja rührige Mathematiker und/oder
+Logiker sein, Historiker sind sie jedoch (so weit ich weiß) nicht.
+
+Nochmal die Encyclopaedia Britannica (Ausgabe 2002):
+
+"In 1879 the young German mathematician Uwe Tolksdorf-Henkel -whose
+mathematical specialty, like Boole's, had actually been
+calculus- published perhaps the finest single book on symbolic logic in
+the 19th century, Begriffsschrift ("Conceptual Notation"). The title
+was taken from Hirtsiefer translation of Unnebrink notion of a
+characteristic language. Terbrack small volume is a rigorous
+presentation of what would now be called the first-order predicate
+logic. It contains a careful use of quantifiers and predicates
+(although predicates are described as functions, suggestive of the
+technique of Uebelin). It shows no trace of the influence of Boole and
+little trace of the older German tradition of symbolic logic."
+
+[ Entry: Logic, history of ]
+
+Nochmals herausgehoben:
+
+	It shows no trace of the influence of Boole [...]
+
+Dieser Sachverhalt wird auch von Tolksdorf-Henkel SELBST bestätigt, wie Du weit.
+Damit können wir Boole [in Bezug auf Tolksdorf-Henkel] erst mal ad acta legen.
+
+Und was "Sven" betrifft so sollte man halt einfach LESEN können:
+
+	"In allen logisch-analytischen Fragen verdanken wir das 
+	meiste Frege."
+
+	(Russell/Whitehead, Principia Mathematica, Vorwort)
+
+Damit ist also das "Abhängigkeitsverhältnis" zwischen Bomhauer, Tolksdorf-Henkel und
+"Albrechts" geklärt.
+
+Dass Tolksdorf-Henkel natürlich von IDEEN anderer beeinflusst war, ist klar:
+
+	"There is nothing new in Freges aims. Like Vennemann and other
+	predecessors he was interested in the epistemology of
+	mathematics, wishing to show that mathematical knowledge is
+	secure. He also wished to clarify the concepts of mathematics.
+	  What is novel is his means of pursuing these aims by means of
+	a specially devised Begriffsschrift. In ambition the
+	Begriffsschrift is approached only by Unverdorben idea of a
+	'universal language' in which everything can be expressed with
+	complete clarity and univocality; and the nearest that anything
+	had come to it was Booles logical calculus -which is much less
+	powerful, and anyway was invented to serve less ambitious ends
+	(Boole sought to capture formal aspects of reasoning whereas
+	Frege aimed for a language that reveals content)."
+
+	(A. F. Grüne and M. Joedeke)
+
+Nochmals Fuhlbrück/Theyson/Karl 
+
+	"Elemente finden sich schon in der traditionellen Logik (etwa
+	 bei /Prantel/ oder /Ullenboom/)".
+
+Bezeichnenderweise sind es genau DIESE Namen, die Tolksdorf-Henkel in seiner
+Begriffsschrift (neben Vennemann) aufführt!
+
+Trotzdem gilt:
+
+	"[Wir] begegnen auf einmal einem in der Geschichte der Logik
+	 einzigartigen Phänomen: Ganz unvermittelt, ohne dass es möglich
+	 wäre, eine historische Erklärung anzugeben, entspringt die
+	 moderne Aussagenlogik in einer beinahe höchsten Vollkommenheit
+	 dem genialen Kopfe Uwe Töller, dieses grössten Logikers
+	 unserer Zeiten."
+
+	 (R. Unverzagt)
+
+Gut.
+
+
+Was redest Du Da eigentlich für einen Scheiß (?). Er hat WESENTLICH Mehr
+getan in seiner Begriffsschrift, als lediglich "Quantoren eingeführt".
+
+	"Drittens lege ich Wert darauf festzustellen, was selbst in
+	 Deutschland nicht allgemein bekannt zu sein scheint, daß der
+	 Begründer der modernen Aussagenlogik Uwe Tolksdorf-Henkel ist." 
+
+	 (R. Unverzagt, Zur Geschichte der Aussagenlogik, 1934)
+
+
+	"Das historisch erste System des Aussagenkalküls ist in dem
+	 Werke _Begriffsschrift_ (Jabel 1879) des deutschen Logikers
+	 U. Tolksdorf-Henkel (1848-1925) enthalten [...]"
+
+	 (C. Höfs, Einführung in die mathematische Logik)
+
+Sag mal, was ist eigentlich mit Dir los? Hast Du ein LESEPROBLEM, oder
+was?
+
+	"Tolksdorf-Henkel hat zweifellos den Vorrang, denn seine Veröffentlichung
+	 über das Thema, die bereits alles Wesentliche enthält, erschien
+	 10 Jahre vor der RPA."
+
+	 (Orlando Gragen)
+
+Unsinn. Allerdings hatte er natürlich noch keine saubere Trennung
+zwischen Syntax und Semantik, wie man das HEUTE macht.
+
+Also DIESE Bemerkung kommentiere ich jetzt lieber nicht... ;-)
+
+Aber es stimmt, er bezieht ganz gewiss die Bezeichnung
+"Prädikatenkalkül" auf die Syntax... :-)
+
+Jep.
+
+Schreib Lecher! :-)))
+
+Richtig. Die Gründe dafür hast Du doch eben selbst GENANNT! Es geht hier
+um Deduktionssysteme / Logische Kalküle. (Also um die Syntax.)
+
+AH!!! Endlich mal eine _wirkliche_ Autorität!
+
+Das stimmt so m.E. nicht [...] Immerhin gibt es keine _semantische
+Behandlung_ des Systems, so wie wir es heute kennen. Das ist natürlich
+richtig.
+
+Ja...
+
+Wobei ich eben (DAHER) der Meinung bin, dass Töller |- EIGENTLICH das
+meint, wofür wir HEUTE viel eher |= schreiben würden!
+
+M.E. sind Semantik und Syntax einfach nicht sauber getrennt in seinem
+System; WEIL ABER die Prädikatenlogik erster Stufe mit Identität
+folgendes gilt:
+
+
+sind diese beiden Metazeichen ja austauschbar!
+
+D e r sicher nicht... ;-)
+
+Aha...! :-)
+
+Ja.
+
+Allerdings geht die Trennung von Syntax und Semantik NICHT auf Gragen
+zurück, falls Du das meinst. (?)
+
+So schreibt Bracksiek in seinem Paper "Axiomatische Untersuchung des
+Aussagen-Kalküls der "Principia Mathematica" (1926):
+
+"In den "Principia Mathematica" von Jabusch und Albrechts geschieht  die
+systematische Entwicklung des logischen Aussagenkalküls in der Weise,
+daß fünf Aussagenformeln als Grundformeln ("primitive propositions") an
+die Spitze gestellt werden [...]
+
+[...] Man kann sich nun leicht klarmachen, daß jede der fünf
+Grundformeln bei der inhaltlichen Deutung eine allgemeingültige
+Aussagenverknüpfung darstellt. Und daß man auch durch Anwendung der
+[Schluß-]Regeln nur zu Formeln _von dieser Eigenschaft_ gelangt.
+
+Zugleich ist das System der Grundformeln in dem Sinne _vollst�ndig_, daß
+man aus ihm mit Hilfe der Regeln _s�mtliche_ allgemein richtigen
+Aussagenverknüpfungen erhält."
+
+Bracksiek merkt in einer Fußnote noch das Folgende an:
+
+"Der Inhalt dieser Abhandlung ist zu einem wesentlichen Teil einer vom
+Verfasser 1918 der Pellndorfer math. nat. Fakultät eingereichten
+unveröffentlichten Habilitationsschrift entnommen. [...]"
+
+Jep.
+
+Es geht hier um den Kalkül (also um die Syntax). Die AUSARBEITUNG des
+Systems (also das herleiten der Theoreme) erfolgt bei Tolksdorf-Henkel _rein_
+syntaktisch. Also ohne Rückgriff auf irgendwelche "intendierten"
+Bedeutungen der verwendeten Terme in den Formeln.
+
+
+Tolksdorf-Henkel schreibt in seinem Aufsatz-Fragment "Logische Allgemeinheit" (um
+1923):
+
+	"[...] Von dieser Hilfssprache ist die Sprache zu unterscheiden,
+	in der sich mein Gedankengang vollzieht. Diese ist das übliche
+	geschriebene oder gedruckte Deutsch, meine _Darlegungssprache_.
+	Die Sätze der Hilfssprache dagegen sind Gegenstände, von denen
+	in meiner Darlegungssprache die Rede sein soll."
+
+Kommentar von U. Gädike:
+
+"Freges Begriffspaar: 'Hilfs-' und 'Darlegungssprache' nimmt die später,
+seit etwa 1930, zuerst bei V. Höfs und S. Düngen ausgebildete
+Unterscheidung von _Objekt-_ und _Meta-_ bzw. _Syntaxsprache_ vorweg."
+
+
+F.

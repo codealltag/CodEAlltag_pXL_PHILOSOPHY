@@ -1,0 +1,126 @@
+On Mon, 7 Mrz 2001 01:49:13 +0200, Francis Odenhoven
+
+Bitte praezisiere sprachlich. Wir sprechen nicht von der _Menge_ aller
+T_k, sondern von der _Vereinigungsmenge_ aller T_k. Dies ist ein
+himmelweiter Unterschied.
+
+
+Wieso "muesste" es das ?
+
+
+Wieso "muss" T auch unendliche Teilmengen als Element enthalten, wenn
+es als Vereinigung aller T_k definiert ist, und laut Definition jedes
+T_k nur endliche Mengen als Elemente enthaelt ? Wenn ein x Element von
+T ist, ist es auch Element eines T_i. Wenn es Element eines T_i ist,
+ist seine damit Maechtigkeit endlich. Punkt. 
+
+
+Wir geben keine T_k an. Es gibt T_k, weil die Eigenschaft "x ist eine
+Menge mit hoechstens k Elementen" eine fuer Mengen sinnvolle
+Eigenschaft ist und es lt. Axiom fuer gewisse "wohlgeformte"
+Eigenschaften (zu denen diese gehört) halt die "Menge aller x mit
+_dieser_ Eigenschaft" gibt.
+
+Ich weiss nicht, was ein "unendlicher Index" sein soll. Wir sprachen
+von den T_k, wobei k eine natuerliche Zahl, also ein Element aus N
+ist. Die Elemente von N, und zwar saemtliche, sind per Dekret als
+"endlich" definiert. Nur die natuerlichen Zahlen und nichts anderes
+als die natuerlichen Zahlen sind "endlich".
+
+Wenn Du die uebliche Definition der natuerlichen Zahlen hernimmst:
+
+Eine Menge x heißt genau dann "endlich", wenn es eine natuerliche Zahl
+n gibt, zu der es eine Bijektion n<->x gibt. Dann ist beweisbar, dass
+die Menge N _nicht_ endlich ist. Es gibt kein n mit einer Bijektion
+n<->N.
+
+Wenn Du darueber philosophieren willst, ob es auch "unendliche"
+natuerliche Zahlen gibt, definiere bitte vorher, was "endlich" ist.
+
+
+Es ist ja nichts anders.
+Die N_k sind endliche Mengen natuerlicher Zahlen. Die
+Vereinigungsmenge der N_k ist unendlich. Die T_k sind endliche Mengen
+von endlichen Mengen natuerlicher Zahlen. Die Vereinigungsmenge der
+T_k ist eine unendliche Menge von endlichen Mengen natuerlicher
+Zahlen, d.h. die _Elemente_ der Vereinigungsmenge der T_k sind
+saemtlichst endliche Mengen.
+
+
+Es gibt kein letztes T_k, weil es keine letzte natuerliche Zahl gibt.
+
+
+Nein. N ist die Vereinigungsmenge aller N_k aber nicht das "letzte"
+N_k.
+
+
+Es ist N, aber wo ist das Problem dabei ?
+
+
+Hier gibt es nichts zu erklaeren. Es gibt kein T_k, das eine
+unendliche Teilmenge von N als Element enthaelt und daher enthaelt
+auch die Vereinigung aller T_k keine unendliche Teilmenge von N als
+Element - und zwar aufgrund der Definition des Begriffs "Vereinigung".
+Punkt.
+
+
+Dies ist ein Folge von Saetzen der deutschen Sprache, aber es
+definiert keine Einquartierung von unendlich vielen neuen Gaesten,
+sondern nur eine Folge von Einquartierungen von je einem Gast.
+
+Diese Folge definiert keinen Zustand, in dem alle neuen Gaeste
+einquartiert _sind_.
+
+
+Richtig. Aber Du hast sie ja nicht nicht alle untergebracht, weil die
+Redeweise "bis alle Gaeste untergebracht sind" keinen Sinn hat.
+
+
+Nein. Das kann ich mir nicht vorstellen. Denn wenn Gast #n im Zimmer
+#n/2 untergebracht _ist_, kann sich kein ungeradezahliger Gast mehr in
+irgendeinem Ziffer befinden,
+
+
+nirgends.
+
+
+nirgends, da sich in jedem Zimmer #n ein Gast mit der #2n befindet.
+
+
+Du moechstest eine Bijektion der natuerlichen Zahlen haben, in der
+jede ungerade Zahl vor jeder geraden "vorkommt" ? Die gibt es nicht,
+aber ob dies ein "Mangel" ist, sei dahingestellt.
+
+
+Nein. Dies hat ueberhaupt nichts damit zu tun. Du hat die T_k so
+definiert, dass die Vereinigung der T_k nur endliche Mengen als
+Element enthaelt.
+
+
+Wenn es Dir nicht gelingt, das was Du "Widerspruch" nennst, in der
+Theorie zu formulieren, wuerde ich das eher als einen Erfolg denn
+einen Mangel der Theorie hinstellen. Ob sie widerspruchsfrei ist,
+wissen wir nicht - und schlimmer: ihre Widerspruchsfeiheit - falls sie
+vorliegt, kann gar nicht bewiesen werden.
+
+
+Nein. Es gibt keine. Wieso "muss" eine existieren ?
+
+Oder anders gefragt: Warum muss es jeden Unsinn, der mit Worten
+formulierbar ist, auch "geben" ;-)
+
+Warum "gibt" es wohl die "Menge aller Mengen, die sich nicht selbst
+als Element enthalten" nicht ? Richtig. Weil das Zulassen von "jedem
+Unsinn" zu Widerspruechen fuehren wuerde ;-)
+
+Den Mathematikern ist in den letzen 100 Jahren nichts besseres
+eingefallen, das "Maechtigkeit" per "Bijektion" zu definieren und auch
+nichts besseres als "die natuerlichen Zahlen" durch die Peano-Axiome
+zu charakterisieren. Die Definition der natuerlichen Zahlen als
+"kleinste induktive Menge" ist dabei ueberhaupt kein Kernpunkt. Sie
+liefert nur ein "real existierendes" und damit anfassbares Modell der
+Peano-Axiome - sofern man die Objekte der Mengenlehre nach ZF oder NB
+als "real" zu akzeptieren gedenkt.
+
+MfG
+Robin

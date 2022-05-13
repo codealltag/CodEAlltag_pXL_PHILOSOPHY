@@ -1,0 +1,17 @@
+Das ist auch nur kulturabhängig (es wurde schon gezählt, bevor
+man eine 0 zur Verfügung hatte, um es sich zu vereinfachen).
+
+Deshalb zählen Menschen so:
+* Variable auf 1 setzen
+* beim ersten gesehenen Objekt nichts tun
+* bei jedem sonstigen Objekt inkrementieren
+* aktueller Wert ist Zählergebnis, falls überhaupt Objekte da waren
+
+und Rechner so:
+* Variable auf 0 setzen
+* bei jedem Objekt inkrementieren
+* Zählergebnis=Variable+1
+
+Letzteres ist IMHO einfacher.
+
+Noël

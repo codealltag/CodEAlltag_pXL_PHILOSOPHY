@@ -1,0 +1,16 @@
+Das sind solche Aufgaben, die man lösen muß, um nachzuweisen,
+daß man ein Mensch ist. Wird bei Suchmaschinen verwendet,
+um automatisches Anmelden von Links zu verhindern:
+
+http://nek.rbsvra.fa/giywol/?qa=zz&vyjqonxe=/samvgx
+
+Meiner Ansicht nach entstehen Captchas so: man wählt eine Menge von
+Punkten Si in der Ebene. Auf jeden Ursprungs-Bildpunkt Pj
+addiert man einen Offset-Vektor auf, der zusammengesetzt ist aus
+den Richtungsvektoren zu den Si, gewichtet mit z.B. 
+alpha_i * 1/exp(|Pi-Sj|) für alle i. Entsprechend müßte man
+lediglich die alpha_i und Si finden, um das Bild wieder
+zu entzerren.
+
+Größe,
+Bruno

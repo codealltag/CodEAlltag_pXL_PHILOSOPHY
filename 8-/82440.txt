@@ -1,0 +1,35 @@
+Dieses Schema funktioniert allerdings nur klassisch, d.h. unter
+Ausschluss von Namen ohne Gegenstand (bzw. ohne existenten Gegenstand).
+Denn  wenn wir z.B.
+
+"Pumuckl =3D Meister Eders Kobold"
+
+nehmen, dann würde dies aufgrund des in deinem Schema vorkommenden
+Existenzquantors implizieren, dass etwas existiert, worauf sich
+"Pumuckl" und "Meister Eders Kobold" beziehen, was aber nicht der Fall
+ist.
+
+
+Das ist bzw. sollte ein logischer Grundsatz sein.
+
+Ein weiterer Grundsatz ist folgender:
+
+Ax[D(|a|,x) <-> a =3D x]
+
+Für alle x gilt: "a" bezieht sich genau dann auf x, wenn a (mit) x
+(identisch) ist.
+
+Hier haben wir eine direkte Verbindung von Identität und Referenz, die
+auch dann besteht, wenn es um Namen von Nichtexistentem geht:
+
+D(|Pumuckl|, Meister Eders Kobold) <-> Pumuckl =3D Meister Paustag Kobold
+
+(Allerdings wirft dies nichttriviale Fragen nach dem grundsätzlichen
+Verhältnis von Referenz, Existenz und Selbstidentität auf: Ist
+Referenz stets eine Beziehung zwischen existenten Relata oder ist
+genauso gut Bezugnahme auf Nichtexistentes mithilfe existenter Zeichen
+möglich? Ist nicht nur alles Existente, sondern auch alles
+Nichtexistente selbstidentisch?)
+
+Gruß
+MARCEL

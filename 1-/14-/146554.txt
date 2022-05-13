@@ -1,0 +1,74 @@
+Das Schöne an realitätsnahen konkreten Überlegungen ist, dass
+die irrtümliche Behauptung eines Widerspruchs auch konkrete und
+offensichtliche Ursachen haben muss. In meinem letzten Beitrag
+habe ich mich etwas übermütig und leichtsinnig zur Behauptung
+eines falschen Widerspruchs hinreissen lassen. Hier der gesamte
+Text, wobei die nicht korrekten Passagen mit "f" zitiert sind:
+
+f  Aber einen WEIT KRASSEREN WIDERSPRUCH erhält man, wenn man das
+f  elektrische Feld, das aufgrund von Leiterkontraktion entstehen
+f  könnte, einmal ausrechnet.
+f
+f Die positive Ionenladung pro cm Leiter (1 Coulomb) könnte
+f sich somit nur um 5.5 * 10^-22 C erhöhen. D.h. es wären fast
+f 3 m Leiter notwendig, um auch nur den Wert einer einzigen
+f Elementarladung (1.602 * 10^-19 C) zu erreichen.
+f
+f  Das Missverhältnis von 5.5 * 10^-22 Coulomb pro cm Leiter als
+f  Erklärung eines elektrischen Feldes von 2 * 10^-7 V/m in einer
+f  Entfernung von 1 cm vom Leiter überrascht sogar mich.
+
+Die positive Ladung pro cm Leiter (1 Coulomb) ist gemäss
+Theorie doppelt so gross, wie von mir hier behauptet,
+nämlich 1.1 * 10^-22 C. Der Grund liegt darin, dass in S'
+(wo Testelektron und Leitungselektronen ruhen) nicht nur der
+Leiter als verkürzt sondern auch die Abstände der Leitungs-
+elektronen als gestreckt angenommen werden, was neben Erhöhung
+der positiven Ionen-Ladungsdichte des Leiters zusätzlich zu
+Verminderung der Leitungselektronen-Ladungsdichte führt.
+
+(Interessant ist, dass beim Einschalten von Strom keine
+Längenverkürzung für die Leitungselektronen im Ruhesystem S
+angenommen wird. Stattdessen wird für die sich z.B. mit 1 cm/s
+bewegenden Leitungselektronen Streckung im bewegten System S'
+postuliert.)
+
+Auch habe ich fälschlicherweise angenommen, 1.1e-22 C pro
+Zentimeter Leiter (d.h. 1 Elementarladung pro knapp 1.5 m)
+als Erklärung eines elektrischen Feldes von 2e-7 V/m in einer
+Entfernung von 1 cm seien ein Missverhältnis. Meine Annahme
+wäre aber höchstens unter der Prämisse gültig, so schwache
+elektrische Felder (und somit Lorentz-Kräfte gerader Leiter
+auf bewegte isolierte Ladungsträger) seien experimentell
+messbar.
+
+Die Differenz einer einzigen Elementarladung wirkt sich in
+100 m Entfernung immer noch als Beschleunigungsdifferenz von
+2.5 cm/s^2 auf ein freies Elektron aus!
+
+  a = q^2 / (4 * pi * eps0 * r^2 * m)
+
+Und die Zyklotronfrequenz eines Elektrons
+
+  T = 2*pi*m /(q*B)
+
+beträgt in Äquatornähe (mit dortigem Erdmagnetfeld von etwa
+3*10^-5 Tesla) nur etwa eine Mikrosekunde (ausser bei v nahe
+c), was bei der dortigen Erdrotationsgeschwindigkeit (etwa
+460 m/s) einen Zyklotron-Bahnradius von etwa 90 Mikrometer
+für ein anfangs relativ zum Boden ruhendes und (bis auf das
+Magnetfeld) völlig abgeschirmtes Elektron ergeben würde.
+
+Die "relativistische" Prämisse, dass ein stromdurchflossener
+Leiter im Ruhesystem des Leiters immer neutral bleibt, ist
+somit kein empirisches Faktum, sondern eine empirisch nicht
+widerlegbare Hypothese.
+
+Jedenfalls ist der Spezialfall, in dem die relativistische
+Beziehung zwischen elektrischen und magnetischen Feldern
+funktioniert, etwas allgemeiner als von mir bisher angenommen.
+
+"Aber das eigentlich Erstaunliche ist doch Folgendes: Wieso kann
+eine falsche Theorie [die SRT] eine so konsistente Erklärung so
+vieler völlig unterschiedlicher physikalischer Phänomene liefern?"
+http://flglluw.eho.bk/wnmruxbu/kxfyfja.kzdg

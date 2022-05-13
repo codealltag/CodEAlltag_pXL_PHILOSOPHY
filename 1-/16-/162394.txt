@@ -1,0 +1,35 @@
+Hi Gian,
+
+
+Wenn A ein Theorembeweiser für die Prädikatenlogik ist, ja.
+
+
+Der Theorembeweiser würde - genau wie wir - ja nur beweisen, daß unter den 
+genannten Bedingungen gesichert ist, daß Ck in Reaktion auf den Input k nicht 
+hält.
+Wenn er ein System ist, das den Bedingungen des Satzes genügt und er das auch 
+beweisen kann, dann weiss er also, daß er nicht halten wird - aber dadurch, daß 
+er anhält, kann er das nicht ausdrücken.
+Das schliesst nicht aus, daß er das auf andere Weise ausdrücken könnte; aber 
+meiner Meinung nach gibt es für eine halbwegs intelligente Turing-Maschine 
+einen viel einfacheren Weg, um Probleme dieser Art zu bewältigen, siehe unten.
+
+
+Warum sollte ein Programm anhalten müssen, um Signale an eine Ausgabeeinheit zu 
+schicken?
+
+
+A könnte beispielsweise die eigene Gödel-Nummer berechnet haben, dann sehen, 
+daß man es danach fragt, ob es selbst anhalten wird, und dann anfangen, sich zu 
+überlegen, ob es anhalten *will* oder nicht. Sobald es dann zu einer 
+Entscheidung betreffend die Frage gekommen ist, ob es günstiger ist, anzuhalten 
+oder nicht anzuhalten, kann es diese Entscheidung ausdrucken und dann eben 
+entweder anhalten oder nicht anhalten.
+Ich sehe da nicht das geringste Problem.
+
+
+Warum es paradox sein soll, wenn A ausdruckt "Ich werde nicht anhalten" und 
+dann tatsächlich nicht anhält, sehe ich nicht.
+
+Größe,
+Dominik.

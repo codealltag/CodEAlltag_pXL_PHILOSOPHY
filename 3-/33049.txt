@@ -1,0 +1,17 @@
+Also für Systeme, die nicht irgendwo neben einem stehen nicht sonderlich 
+gut geeignet, denn ich fahre bestimmt nicht nur um eine neue Scheibe 
+einzulegen mal nach Raisach, Niedermörmter oder Obergrainau nur für einen 
+Releasewechsel. Gut würgaround dd in die swap kenne ich. Mein Traum 
+ähnliche Systeme für Server und Desktop, dass man nicht für jede Maschine 
+andere Befehle tippen muss und sich überlegen muss, was da jetzt gerade 
+der richtige Befehl ist um dies oder das zu tun - wird wohl nicht. Mit 
+WSHE und visage war ich da schon nah dran. Aber jetzt geht ja WSHE 
+mit upstart und dies und das andere Wege und irgendwann wird dann '/etc/
+init.d/dienst start stop restart' oder so nicht mehr funktionieren. Ist 
+ja schon mit pulseaudio auf Benutzerbasis und /etc/xdg so eine 
+Geschichte. Bei der einen Maschine klappt, es bei der anderen nicht.
+
+Wahrscheinlich bin ich einfach zu konservativ.
+
+Grüße,
+Vincenzo

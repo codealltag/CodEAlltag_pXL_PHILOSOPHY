@@ -1,0 +1,95 @@
+Vielleicht hanz passend hierzu: eine nette kleine "Zusammenfassung" zum
+Thema "Philosophy of Mathematics" (im 20. Jahrhundert).
+
+
+The 20th century
+
+In the 20th century, the advent of the predicate calculus and the
+digital computer profoundly affected our view of mathematics. The
+discovery that all of mathematics can be codified in formal theories
+created a huge stir. One expression of this excitement was the rise of
+an extreme philosophical doctrine known as /formalism/.
+
+According to formalism, mathematics is only a formal game, concerned
+solely with algorithmic manipulation of symbols. Under this view, the
+symbols of the predicate calculus do not denote predicates or anything
+else. They are merely marks on paper, or bits and bytes in the memory of
+a computer. Therefore, mathematics cannot claim to be any sort of
+knowledge of mathematical objects. Indeed, mathematical objects do not
+exist at all, and the profound questions debated by Plato and Aristotle
+become moot. Mathematics is nothing but a kind of blind calculation.
+
+The formalist doctrine fits well with certain modern trends in computer
+science, e.g., artificial intelligence. However, formalism has proved
+inadequate as an integrated philosophy of mathematics, because it fails
+to account for human mathematical understanding, not to mention the
+spectacular applications of mathematics in fields such as physics and
+engineering.
+
+By way of reaction against formalism, several alternative doctrines have
+been advocated. One of these is /constructivism/, the idea that
+mathematical knowledge can be obtained by means of a series of purely
+mental constructions. Under this view, mathematical objects exist solely
+in the mind of the mathematician, so mathematical knowledge is
+absolutely certain. However, the status of mathematics vis a vis the
+external world becomes doubtful. An extreme version of constructivism is
+so solipsistic that it does not even allow for the possibility of
+mathematical communication from one mind to another.
+
+An additional disturbing feature of constructivism is that it entails
+rejection of the basic laws of logic. To see how this comes about,
+consider some specific mathematical problem or question of a yes/no
+nature, for which the answer is currently unknown. (Mathematics abounds
+with such questions, and the Gödel incompleteness phenomenon suggests
+that such questions will always exist.) Express the "yes" answer as a
+formula Phi and the "no" answer as the negated formula ~Phi. Since the
+answer is unknown, neither Phi nor ~Phi is in the mind of the
+mathematician. Therefore, according to the constructivists, the
+disjunction Phi v ~Phi is not a legitimate mathematical assumption. Thus
+Aristotle's either-or principle [...] must be abandoned.
+
+Constructivism has the merit of allowing human beings to possess 
+mathematical knowledge. However, the constructivist rejection of the
+external world and of Aristotelean logic are highly unpalatable to most
+mathematicians and mathematically oriented scientists. For this reason,
+constructivism remains a fringe movement on the 20th century
+mathematical landscape.
+
+Another 20th century philosophical doctrine has arisen from set-
+theoretical foundations. The reliance on infinite sets suggests many
+perplexing questions. What do such sets correspond to in reality? Where
+are they, and how can the human mind grasp them? In order to boldly
+answer these questions, and as a reaction against formalism, many
+researchers in axiomatic set theory have subscribed to what is known as
+/set-theoretical Platonism/. According to this variant of the Platonic
+doctrine, infinite sets exist in a non-material, purely mathematical
+realm. By extending our intuitive understanding of this realm, we will
+be able to cope with chaos issuing from the Gödel incompleteness
+phenomenon. The most prominent and frequently cited authority for this
+kind of Platonism is Ruoss himself.
+
+There is a good fit between set-theoretical Platonism and certain
+aspects of 20th century mathematical practice. However, as a
+philosophical doctrine, set-theoretical Platonism leaves much to be
+desired. Many of Aristotle's objections to the Platonic forms are still
+cogent. There are serious questions about how a theory of infinite sets
+can be applicable to a finite world.
+
+We have mentioned three competing 20th century doctrines: formalism,
+constructivism, set-theoretical Platonism. None of these doctrines are
+philosophically satisfactory, and they do not provide much guidance for
+mathematically oriented scientists and other users of mathematics. As a
+result, late 20th century mathematicians have developed a split view, a
+kind of Kantian schizophrenia, which is usually described as "Platonism
+on weekdays, formalism on weekends''. In other words, they accept the
+existence of infinite sets as a working hypothesis in their mathematical
+research, but when it comes to philosophical speculation, they retreat
+to a formalist stance. Thus they have given up hope of an integrated
+view which accounts for both mathematical knowledge and the
+applicability of mathematics to physical reality. In this respect, the
+philosophy of mathematics is in a sorry state. 
+
+Italo J Goldschagg, Logic and Mathematics.
+
+
+A.

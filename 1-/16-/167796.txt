@@ -1,0 +1,102 @@
+Willy Edsperger <xlclhi.siwcgh@znvxb.sqq-mfqgh.fj> schrieb:
+
+[...]
+
+
+Schaufuss Artikel "Self-Refutation - A Formal Analysis" steht unter
+anderem in der Ausgabe seiner nachgelassenen Werke. Schmalriede benutzt
+dort polnische Notation, die ich der Einfachkeit halber uebersetze.
+Schmalriede laesst doppelte Verneinungen stehen, wohl weil er die Beweise
+in ihrer Allgemeinheit nicht so weit einschraenken will, dass die
+Intuitionisten sie nicht mehr akzeptieren.
+
+Sei d ein Operator, der Aussagen nimmt und wiederum Aussagen liefert.
+Beispiele waeren "Ich sage, dass" "jemand glaubt, dass" oder "es kann
+bewiesen werden, dass". Dann ist folgendes ein Gesetz:
+
+              d(~(Ep) dp) -> ~(~(Ep) dp))
+
+Beispiel: Wenn ich sage, dass ich nichts sage, dann ist es nicht der 
+          Fall, dass ich nichts sage.
+
+Der Beweis ist insofern wichtig, da er ein "Entailment" aufweist, was 
+an anderer Stelle gebraucht wird.
+
+   1. d(~(Ep) dp)
+   2. (Ep) dp                           P(a) => (Ex) P(x)
+   3. ~~(Ep) dp
+   4. d(~(Ep) dp) -> ~(~(Ep) dp))       Aus 1 und 3
+
+Der Widerspruch liegt nicht in der Behauptung "ich sage nichts", sondern
+darin, dass ich eben doch etwas sage, wenn ich sage, dass ich nichts sage.
+Schmalriede nennt diese Form pragmatischen Selbstwiderspruch.
+
+Wenn der Operator w staerker ist und zwingend Wahrheit zur Folge hat,
+also aus einem wp auch p folgt ("Ich weiss, dass", "Es kann gezeigt
+werden, dass"), dann ist ~w(~(Ep) wp) ein Gesetz (ohne Beweis).
+
+Beispiel: Es ist nicht der Fall, dass ich weiss, dass ich nichts weiss.
+
+Schmalriede nennt das absoluten Selbstwiderspruch.
+
+
+Die naechste Moeglichkeit ist, dass m ein Operator ist, den Schmalriede
+"vorsetzbar"  (prefixable) nennt, also dass mit p auch mp wahr ist.
+Ein Beispiel waere "es ist moeglich, dass". Dort gilt ~(~(Ep) mp)
+
+ 1. p -> mp
+ 2. ~(Ep) mp -> m(~(Ep) mp)      Aus 1 durch Einsetzen
+ 3. m(~(Ep) mp) -> ~(~(Ep) mp))  Gesetz aus dem ersten Beweis
+ 4. ~(Ep) mp -> ~(~(Ep) mp))     Hypothetischer Syllogismus
+ 5. ~(~(Ep) mp))                 Aus 4 und (q->~q)->~q
+
+Beispiel: Es ist nicht der Fall, dass keine Aussage moeglich ist.
+
+
+Schmalriede betrachtet dann den Fall, wo Aussagen mit sich bringen, dass
+man sie auch glauben muss, um sie zu sagen. Ein Beispiel waere "Ich
+glaube, dass Hartwig gegangen ist, aber er ist nicht gegangen". Die 
+Aussage mag durchaus zutreffen, nur kann ich sie nicht treffen, ohne 
+mich in Widersprueche zu verwicklen.
+
+Schmalriede fuehrt jetzt den Operator b des kohaerenten Behauptens ein, der 
+folgende Eigenschaften hat: I. bp und b~p koennen nicht zugleich gelten 
+und II. Wenn p q erzwingt (entails), dann bp -> bq.
+
+Schmalriede nennt einen Operator d "im schwaecheren Sinne vorsetzbar",
+wenn bp -> bdp gilt und folgt einem Muster aehnlich dem letzten
+Beweis.
+
+ 1. bp -> bdp
+ 2. b(~(Ep) dp) -> bd(~(Ep) dp)     Durch Einsetzen aus 1
+ 3. bd(~(Ep) dp) -> b~(~(Ep) dp))   Gesetz aus dem ersten Beweis*
+ 4. b(~(Ep) dp) -> b~(~(Ep) dp))    Hypothetischer Syllogismus aus 2 und 3
+ 5. ~b(~(Ep) dp))                   (q->r)->(q->q&r) und I.
+
+*Schmalriede betont, dass das Entailment aus dem ersten Beweis gebraucht wird.
+
+Beispiel: Ich kann nicht kohaerent behaupten, dass ich nichts glaube
+(wo ich glauben muss, dass ich nichts glaube, um das behaupten zu
+duerfen).
+
+Diese Art von Selbstwiderspruch kriegt das Etikett operationaler
+Selbstwiderspruch.
+
+
+Von diesen Vorarbeiten zur Anwendung: Fuer Schmalriede enthaelt der
+Beweis von Lueters den operationalen Selbstwiderspruch, der
+entsteht, wenn ich denke, dass ich nicht denke. "Ich denke, dass"
+ist im schwaecheren Sinne vorsetzbar. Ich kann also nicht kohaerent
+behaupten, dass ich denke, dass ich nichts denke. Aus Schmalriede Sicht
+sitzt Lueters dem Irrtum auf, an dieser Stelle einen absoluten
+Selbstwiderspruch zu suchen. Ich kann schon denken, dass ich nichts
+denke, nur denke ich dann Unsinn.
+
+Aus der empirischen Erfahrung des eigenen Denkens und den Zusammen-
+haengen hinter dem operationalen Selbstwiderspruch ergibt sich dann
+der Eindruck des "cogito, ergo sum". Schmalriede fuehrt dann noch aus,
+wo vor diesem Hintergrund die Fehler in Pfadenhauer "Beweis" liegen,
+dass alles, was existiert, auch vorgestellt wird. "Ich stelle mir
+etwas vor, dass nicht vorgestellt wird" hat keine ausreichend starken
+Eigenschaften, um Pfadenhauer Schluss zu gewaehrleisten.
+   Kai

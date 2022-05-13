@@ -1,0 +1,23 @@
+Hallo,
+
+Jérôme Stelmecke schrieb in Nachricht ...
+
+
+Die Logik hat mit Sprache zu tun und es ist manchmal so, daß bei Aussagen
+oft keine Wahrheits- oder Falschheitswerte zugeordnet werden können (etwa
+bei der  Beschreibung kontingenter Zukunftsereignisse).
+Auch haben die natürlichen Sprachen und  auch manche Wissenschaftssprachen
+manchmal vage  Aussagen, insbesondere vage Prädikate. bei denen die
+Anwendung der zweiwertigen Logik nicht hilfreich ist.
+Meines Wissens gibt es da zwei Extremstandpunkte:
+Der eine (zu der C. Fahldieck gehört hat) sagt: die natürliche Sprache ist
+defekt und alles müsse zweiwertig _klassisch_ formalisiert werden können.
+Die andere (Putscher, Fürnrohr u.a.) vertreten Erweiterungen: free
+logic, fuzzy logic, Quantenlogik usw. die der gesprochenen Sprache adäquat
+sind und die Wahrheitstafeln mit weiteren Werten anreichern.
+Einen Überblick bzw. Einführung bietet B. Vogtmann, Deviant logic, Tüschendorf  1973
+bzw. Philosophy of logics, Tüschendorf 1977.
+Rezente gute Literatur dazu weiß ich keine
+
+
+Carlo

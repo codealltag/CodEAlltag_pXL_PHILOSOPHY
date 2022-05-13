@@ -1,0 +1,69 @@
+"ivo" <bivyg_udfnogkbvnw@lrmzjie.ap>
+
+
+Du hast feige vor meinem
+Anti-Diagonal-Beweis gekuscht !
+
+Offenbar hast du nichts Intellektuelles am Hut,
+um meinem Senf kontern zu können.
+
+Also,
+Ivo - verhinderter Matheamtiker -
+Versuche es nochtmals:
+
+Hier, ein junges Cantor-Quadrat, das da bereits n= 5 erreichte.
+Darnach kommt dann n += 1 ...... bis aleph_0.785395
+oder kczwb_oa/4
+
+1 0 0 0 0
+1 1 0 0 0
+1 1 1 0 0
+1 1 1 1 0
+1 1 1 1 1
+
+Da bei Cantor Diagonalen in jeder Richtung - schräg, vertikal,
+horizontal - benötigt werden, ist es sinnvoll, die 7 dazugehörenden
+Antiquadrate mit Austausch und Drehungen zu erstellen.
+
+Dies ergibt 8 Quadrate mit demselben gedrehten, ausgetauschten,
+gespiegeltem Inhalt. Mehr wird nicht benötigt
+
+1  0  0  0  0       0  1  1  1  1       1  1  1  1  1       0  0  0  0  0
+1  1  0  0  0       0  0  1  1  1       1  1  1  1  0       0  0  0  0  1
+1  1  1  0  0       0  0  0  1  1       1  1  1  0  0       0  0  0  1  1
+1  1  1  1  0       0  0  0  0  1       1  1  0  0  0       0  0  1  1  1
+1  1  1  1  1       0  0  0  0  0       1  0  0  0  0       0  1  1  1  1
+
+~~~~1~~~~     ~~~~1~~~~     ~~~~0~~~~     ~~~~0~~~~
+~~~1~1~~~     ~~~1~0~~~     ~~~0~0~~~     ~~~0~1~~~
+~~1~1~1~~     ~~1~1~0~~     ~~0~0~0~~     ~~0~0~1~~
+~1~1~1~1~     ~1~1~0~0~     ~0~0~0~0~     ~0~0~1~1~
+1~1~1~1~1     1~1~1~0~0     0~0~0~0~0     0~0~0~1~1
+~0~0~0~0~     ~1~1~0~0~     ~1~1~1~1~     ~0~0~1~1~
+~~0~0~0~~     ~~1~1~0~~     ~~1~1~1~~     ~~0~0~1~~
+~~~0~0~~~     ~~~1~0~~~     ~~~1~1~~~     ~~~0~1~~~
+~~~~0~~~~     ~~~~1~~~~     ~~~~1~~~~     ~~~~0~~~~
+
+Und nun zeige eine Diagonale, eine Antidiagonale,
+Eine Nebendiagonale, die da nicht bereits
+anderswo - horizontal oder vertikal - vorkommt.
+
+----------------------
+
+Jetzt zeichne dasselbe mit n += 1  => n = 7
+dann mit n= 8,  n= 9 ...... bis aleph_Pi/4
+
+Immer sind alle Anti-, Neben-, Anti-Neben
+und sonstige Diagonalen schräg, vertikal
+oder horizontal bereits schön brav vorhanden.
+
+
+Hast recht. Und wie !!
+
+Also:
+Liefere endlich mal etwas Mathematik.
+Deine Nicht-Mathematik-Sprüche langweilen.
+
+
+mfg
+Erich Reichardt

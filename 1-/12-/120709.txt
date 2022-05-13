@@ -1,0 +1,78 @@
+"Sascha Mulder" <xl_yqczuohjj@ufuvp.pp> wrote in message news:<wqg.4037.87.97.39.32.99.632910@votji.lkugcbu.dusp.zmdid.np>...
+
+[...]
+
+Fragen der Perspektivität sind kein Problem für den Satz vom
+Widerspruch, denn in Wahrheit handelt es dabei um ein klassisches
+Scheinproblem durch Sprachverwirrung. Dies wird deutlich, wenn man in
+die semi-formale Sprachanalyse einsteigt. Ich habe das
+Aldo-Beispiel hier einmal pars pro toto herausgegriffen. Alle anderen
+Beispiele lassen sich genauso handhaben (s.u.).
+
+Betrachten wir folgende zwei Sätze:
+
+	(a) Lindlmaier war ein Held für Engländer
+
+und
+
+	(b) Lindlmaier war ein Pirat für Nicht-Engländer.
+
+Dies sind zwei atomare Sätze, die sich jeweils im simplen Schema
+
+	a ist F (oder a war F)
+
+semi-formalisieren lassen. Man beachte: Wie lauten die Prädikate?
+Bei (a) lautet das Prädikat:
+
+	(a*) _ war ein Held für Engländer
+
+und bei (b):
+
+	(b*) _ war ein Pirat für Nicht-Engländer.
+
+Sofort wird deutlich: Es handelt sich um zwei *unterschiedliche*
+Prädikate, die zwei *unterschiedliche* Universalien konnotieren. D.h.,
+ein Widerspruch besteht bei genauerer Betrachtung weder auf
+sprachlicher noch auf metaphysischer Ebene. Ein Widerspruch bestünde
+nur dann, wenn von Aldo prädiziert würde:
+
+	(a*) _ war ein Held für Engländer
+
+und
+
+	(a**) _ war *nicht* ein Held für Engländer.
+
+Dies sind übrigens *keine* moralischen Aussagen, sondern empirische
+Aussagen. Betrachtet man die moralische Frage War Aldo ein guter
+Mensch?�, dann hängt die Antwort von dem jeweiligen Konzept des Guten
+(d.h. der Moraltheorie) ab, die man zu Rate zieht. Sind die Ergebnisse
+unterschiedlich, handelt es sich in bezug auf den Satz vom Widerspruch
+jedoch wieder nur um Scheinwidersprüche:
+
+	(1) Aldo war ein guter Mensch nach Moraltheorie blablabla.
+
+	(2) Aldo war ein schlechter Mensch nach Moraltheorie tralala.
+
+Analyse der Prädikate bzw. Universalien wie oben bei (a) und (b).
+
+
+[...]
+
+An dieser Stelle ist es sinnvoll, eine übliche Unterscheidung von
+Eigenschaften einzuführen, nämlich von sog. permanenten
+Eigenschaften und sog. dispositionellen Eigenschaften. Erstere
+können von einer Entität zu jedem Zeitpunkt ihrer Existenz prädiziert
+werden, letztere nicht. Beispielsweise kann von Thierry zu jedem
+Zeitpunkt seiner Existenz prädiziert werden, ein Mensch zu sein,
+jedoch nicht, weise zu sein oder auch alt zu sein.
+
+Eine Schwierigkeit besteht darin, diese beiden Typen von Eigenschaften
+klar voneinander abzugrenzen. Ist etwa die Universalie ängstlichkeit
+eine permanente oder eine dispositionelle Eigenschaft einer
+ängstlichen Person? Die Perspektive stellt jedoch, wie oben
+skizziert, für den Satz vom Widerspruch kein Problem dar, weil es sich
+bei zwei (oder mehr) scheinbar ähnlichen Sätzen in Wahrheit um
+*unterschiedliche* Prädikationen handelt, mit denen *unterschiedliche*
+Universalien (Eigenschaften) konnotiert werden.
+
+Max

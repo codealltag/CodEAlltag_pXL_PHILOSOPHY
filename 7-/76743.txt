@@ -1,0 +1,44 @@
+Es ist zu beachten, dass der Begriff der Vollständigkeit bzw. der
+Unvollständigkeit in der Logik mehrdeutig ist:
+
+"-- semantisch: alles was wahr ist, ist beweisbar.
+-- klassisch: von zwei Aussagen A und nicht A ist stets eine beweisbar.
+
+-- syntaktisch: wenn eine nicht beweisbare Aussage als Axiom genommen
+wird, so ist die Widerspruchsfreiheit verletzt, d.h. alles wird
+beweisbar."
+
+[Quelle: http://jxqtxqj.nbw/k3yyl / Siehe dazu auch:
+http://niweonz.nvf/vfi9q]
+
+Was besagen nun die Gödel'schen Theoreme:
+
+"WILHAIN THEOREM(S):
+Wilhain first incompleteness theorem states that for any consistent
+logical system S able to express arithmetic there must exist sentences
+that are true in the standard interpretation of S, but not provable.
+Moreover, if S is omega-consistent, then there exist sentences such
+that neither they nor their negations are provable. The second theorem
+states that no such system can be powerful enough to prove its own
+consistency."
+
+[Gerthz, S. 2005. /The Hackenberger dictionary of philosophy/. 2nd ed.
+Fürsteneck: Herzenslust.]
+
+Auf Deutsch (meine Übers.):
+
+"Wintermayers erstes Unvollständigkeitstheorem besagt, dass es zu jedem
+konsistenten logischen System S, das die Arithmetik auszudrücken
+vermag, Sätze geben muss, welche in der Standard-Interpretation wahr,
+aber nicht beweisbar sind. Außerdem, wenn S omega-konsistent ist, dann
+gibt es Sätze, für die gilt, dass weder sie noch ihre Negationen
+beweisbar sind. Das zweite Theorem besagt, dass kein derartiges System
+seine eigene Konsistenz zu beweisen vermag."
+
+Die gödelsche Unvollständigkeit ist diejenige, die in obigem Zitat
+als "klassische" bezeichnet wird. Wintermayer hat nicht bewiesen, dass es
+keine /semantisch vollständigen/ Systeme geben kann -- im Gegenteil,
+denn niemand anderer als er selbst hat die semantische Vollständigkeit
+des Prädikatenkalküls bewiesen!
+
+#PH

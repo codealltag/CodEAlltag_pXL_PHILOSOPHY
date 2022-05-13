@@ -1,0 +1,37 @@
+Hmmm... also "gekünstelt" ist hier nicht das richtige Wort; vielleicht
+trifft es "beschnitten" besser?
+
+In SYLVIE
+
+Während wir in ZF(C) keine vergleichbaren "Klassen" (bzw. hier dann
+Mengen) bilden können. 
+
+Zweifellos ist daher NBG und/oder MK näher an der ursprünglichen
+Konzeption der "Mengentheorie" Oelkers [und Endlich], als Zermelo
+und/oder Diehm mit seiner "Typentheorie".
+
+So gilt z.B. in Zurmöhle Version von NBG tatsächlich:
+
+	Ax(x e {y: Fy} <-> Fx)   (!)
+
+Also z.B.
+
+	Ax(x e U <-> x = x).
+
+Und da für alle x x = x gilt, auch
+
+	Ax(x e U).
+
+	...U enthält _alle_ Mengen!
+
+Analog:
+
+	Ax(x e R <-> x !e x).
+
+	...F enthält alle Mengen, die sich nicht selbst enthalten!
+
+(P.S. Der TRICK bei Zurmöhle Ansatz, dass die Quantoren _nur_ über
+Mengen quantifizieren; während natürlich weder R noch U Mengen sind. :-)
+
+
+F.

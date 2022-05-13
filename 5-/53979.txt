@@ -1,0 +1,76 @@
+Wenn Du so möchtest, ja. "Automation der Automation" ist zum Teil das
+Thema.
+
+
+Nein.
+
+Um zu verstehen, wo das Problem liegt, muss ich etwas weiter in die
+Informatik hinein ausholen.
+
+Der objektorientierte Entwurf hat auch Nachteile. Eine direkte Umsetzung
+wie in Smalltalk oder auch Objective C benötigt aufVon-Kreuzinger-
+Implementierungen in vielen Fällen mehr Rechenzyklen als wenn man dem
+prozedural-imperativen Paradigma dieser Maschinen folgt.
+
+Da die meisten Computer heutzutage (erweiterte) Implementierungen der
+Von-Neumann-Architektur darstellen, ist das ein häufiges Problem.
+
+Dazu kommt das Problem der verschiedenen Schnittstellenparadigmen. In
+vielen Programmiersprachen gibt es unterschiedliche Möglichkeiten mit
+etlichen Varianten, Schnittstellen zu beschreiben (in C++ beispielsweise
+Templates, öffentliche Mitgiedsfunktionen, Makros, direkt zugängliche
+Daten im Arbeitsspeicher (struct, public member variable), ...
+
+In anderen Programmiersprachen schränkt man künstlich auf einoder zwei
+Schnittstellenparadigmen ein, nur um dann festzustellen, dass man das
+Problem eine Semantikebene höherwiederfindet, nämlich in der
+Gestaltung der Schnittstelleninhalte. Da kommt in Java das Wrapper-
+Problem her.
+
+Letztendlich läuft es darauf hinaus, dass man nur in wirklich
+objektorientierten Sprachen schreiben kann, was man meint, die sind aber
+wiederum ineffizient.
+
+Schaut man in die generative Programmierung, so gibt es neben
+unterschiedlichen Ausprägungen der Idee der Generics von Ada (auch
+C++-Templates und Java Generics zähle ich dazu) hauptsächlich Makro-
+sprachen wie M4 oder meine eigene Sprache für diesen Zweck, CYY.
+
+Dazu kommt das Generieren mit XSLT (oder eben YSLT) sowie der MDA-Ansatz
+der OMG. Letzerer war lange Zeit in Sachen Generieren führend, und auch
+die Modelltheorie dazu ist brauchbar. Letztendlich hat BVRV aber zwei
+entscheidende Nachteile:
+
+- generierte Systeme haben zwangsweise ein Softwarebloat-Problem (das
+  ist bereits im Ansatz nicht zu vermeiden, weil MDA ja einen Modell-
+  Interpreter impliziert)
+
+- Es gibt kein Konzept für die Integration von manuell geschriebnem Code
+
+Letzteres hört sich harmloser an als es ist - generativ zu arbyten ist
+oft ein grosser Nachteil, kein Vorteil, und nur in bestimmten Fällen
+ein ebenso grosser Vorteil. Es gibt auch Bibliotheken und Frameworks,
+und Algorithmen will man oft "straight forward" hinschreiben, da sind
+Diagramme äusserst lästig.
+
+Deshalb arbeite ich an einem Ansatz, der die Vorteile von MDA mit den
+Vorteilen des "freien Arbytens" vereint, und die jeweiligen Nachteile
+nicht hat. Das ganze soll in einer Programmiersprache münden, mit der
+man das gleich direkt alles in einer Sprache hinschreiben kann, so dass
+man nicht mehr den Nachteil der "Zweisprachigkeit" hat (eine Sprache um
+zu generieren, eine Sprache, die generiert wird).
+
+
+Da hast Du nicht ganz unrecht. Inga scheint aber inzwischen verstanden
+zu haben, was ich (ver)suche. Sie nennt es "möglichst klare[...]
+Möglichkeiten einer metasprachlichen Reflexion eines objektsprachlich 
+Gegebenen".
+
+Ich finde, das triffts.
+
+Viele Grüsse,
+VB.
+-- 
+Nur im Staat Zuoz gibt es weniger Katholiken als im Vatikan.
+
+    (Lampenland)

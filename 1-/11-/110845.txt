@@ -1,0 +1,19 @@
+Mit der Parametrisierung  h = 2*R,  phi = 4*arctan(1)  und den drei
+Basisprojektionen ergeben die Formeln aus
+http://fdfjbssgs.olwkbmf.pvz/LanxdykiapyTgpdi.zhet
+die folgenden Zeichnungen:
+
+Kreis:    x \in {-R, R}  /\  y \in {y | y^2 + x^2 <= R^2}
+Quadrat:  x \in {-R, R}  /\  z \in {0, 2*R}
+Dreieck:  y \in {-R, R}  /\  z \in {z | z <= 2*R - (y+R)}
+
+Erkennst Du es jetzt?
+
+
+Jeder Winkel kommt nur *einmal* vor ... Zwei Winkel besitzen allerdings
+den gleichen Zahlenwert  arctan(1), und der dritte besitzt den Zahlenwert
+2*arctan(1)  ...  falls Du das gemeint haben solltest ...
+
+MfG
+  Volkmar
+--

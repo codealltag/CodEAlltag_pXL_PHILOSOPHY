@@ -1,0 +1,179 @@
+Maximilian Gaeckeler expressed:
+
+Astronomen postulieren meist die Existenz von Sternen, Kernphysiker
+die Existenz von Elementarteilchen, Biologen die Existenz von Tieren
+etc. Gehst du beispielsweise davon aus, dass der Bildschirm auf dem
+diese Zeichen erscheinen, nicht existieren könnte? Reine Funktion
+ohne Existenzpostulat anzunehmen, erscheint als magisches Denksystem
+mit beliebigen Öffnungen zum übernatürlichen. Verzichtet man
+komplett auf (philosophische) Ontologie, so verzichtet man auch auf
+eine mächtige Klasse wissenschaflicher Erklärungsansätze, die in der
+Vergangenheit sehr erfolgreich waren. Ich fürchte, dass wir (als
+Objekte unserer biologischen Spezies) nicht imstande sind, auf gut
+funktionoierende Erklärungsansätze zu verichten. Die Geschichte
+zeigt ja auch, dass wir lieber schlechte Erklärungsmodelle (Geister
+oder geheimnisvolle Kräfte etc.) annehmen als gar keine.
+
+Persönlich habe ich überhaupt keine Probleme mit Denkansätzen, die
+auf ontologische Neutralität Wert legen. Das Konfliktpotenzial ist
+klein solange es bei der Empirik klappt.
+
+
+Hier entsteht aber das Problem, dass Modelle per Definition formal
+sind. Deine Aussage wäre demnach Äquivalent mit: Es kann keine
+Theorie der Semantik  geben, denn jede Theorie ist abstakt, d.h.
+formal.
+
+
+Wenn formales zwingend Semantikfreiheit impliziert, dann folgt
+daraus auch die Abwesenheit von Bedeutung. Seltsam ist, dass formale
+Aussagen zwar das Merkmal "set of terms, which are interrelated"
+aufweisen, aber dennoch frei von Bedeutung ("meaning") sind.
+
+Bei Große-Wilde ist das anders, denn er baut Bezugsobjekte in seine
+Theorie mit ein. Formale Ausagen haben keine (natürlich
+hypothetisch!) "realen" sondern abstrakte Bezugsobjekte. Es wäre
+sicher sehr interessant, deinen Ansatz gegenüber der Bungeschen
+Semantik zu vergleichen und abzugrenzen.
+
+
+Hier Übereinstimmung. Es war gedankenlos von mir etwas
+hinzuschreiben, was nahe legt, dass sich über Aussagen keine echte
+Klasse konstruieren lässt. 
+
+Bei dem Beweis, dass Sprache Bedeutung gundsätzlich nicht fassen
+kann, sind allerdings gewisse Schritte für mich nicht so leicht
+nachvollziehbar. Jetzt bloß nicht ärgern, denn nur jemand, der dem
+Unternehmen positiv gegenüber steht, stellt solche Fragen:
+
+- Was sind die Mengen S? Begriffe? Semantiken? Aussagen?
+- Welche Beziehung besteht zwischen "x is in S und "meaning"?
+- Ließe sich die Funktion der rekursiven Potenzmengen auführlicher
+darstellen?
+- Aus der Unbeschränktheit der Folgen ("both sequences are unbound")
+wird geschlossen, dass "Bedeutung" beliebige Kardinalität hat und
+eine echte Klasse ist. Nicht-Experten wissen gerade mal, dass z.B.
+die Klasse aller Ordinalzahlen eine echte Klassen ist. Ließen sich
+hier ggf. noch weitere nützliche Hinweise beifügen?
+- Es wird dann gezeigt, dass die Potenzmenge aller Symbole einer
+beliebigen Sprache abzählbar ist. Da sich viele zu erinnern glauben,
+dass auch die Ordinalzahlen, die ja eine echte Klasse bilden,
+abzählbar sind, stellt sich die Frage, was die Abzählbarkeit im
+Zusammenhang mit dem Beweis bedeutet. Man könnte etwa vermuten, dass
+die Menge aller Bedeutungen überabzählbar ist. Da steht aber nur
+"can have any cardinality" und das bedeutet für mich nur, dass eine
+Menge beliebig viele Elemente haben kann, aber keine
+Überabzählbarkeit.
+- Es scheint jetzt so, als ob aus der Abzählbarkeit der Potenzmenge
+aller Symbole und der Klasseneigenschaft der Bedeutungen gefolgert
+wird, "meaning ... is nothing, which can be formally specified in
+general". Könnte diese Schlussfolgerung nicht noch etwas ausgeführt
+werden?
+
+Noch eine weitere grundsätzliche Frage stellt sich für mich: Es
+sieht so aus, als ob gezeigt würde, dass nicht nur formale sondern
+Sprache ganz generell nicht imstande ist, alle möglichen Bedeutungen
+vollständig zu fassen: "there will be meaning left, which cannot
+specified". Ich kann nicht erkennen, wie im Beweis zwischen formaler
+und nicht-formaler Sprache differenziert worden ist.
+
+(Fußnote: Wer Mathematik anwendet, hat ja oft bereits große
+praktische Schwierigkeiten mit endlichen Mengen. Man denke nur an
+kombinatorische Optimierungsprobleme. Eigenschaften wie
+Überabzählbarkeit spielen in der Praxis daher oft keine Rolle, daher
+kann man auch nicht von besonders breiter Kennerschaft ausgehen.)
+
+
+Richtig. Hier kommt der große Moment der empirischen Überprüfung.
+Wichtig ist allerdings auch die Konsistenz der Wissensbereiche (d.h.
+die Integration von Physik, Chemie, Biologie etc.) Erkenntnistheorie
+ist allerdings bekanntermaßen ein eigenes umfangreiches Thema.
+
+
+Mir scheint es hier wichtig, den untersuchten Bereich
+einzuschränken. Das Phänomen Sematik gibt es ja bei allen
+menschlichen Äußerungen. Hier gleich alles mit nur einer
+einheitlichen Theorie abdecken zu wollen, scheint nicht
+erfolgversprechend. So beschränkt sich z.B. Große-Wilde dediziert auf
+wissenschafliche Aussagen.
+
+
+THERES.
+
+
+Dem letzten Satz stimme ich voll zu.
+
+
+Aus den Ergebnissen der Wahrnehmungspsychologie (siehe z.B. hier
+http://ne.bapmpsjjz.shd/nkeq/Eryvimlzmbly_Qeaaqxhysnm) würde ich
+eher schlussfolgern, dass Bedeutungen hin- und herkippen und nicht
+gleichzeitig präsent sind.
+
+
+Sorry ich hatte vergessen zu erwähnen, dass dies
+Bungesche/Mahnersche Positionen sind. Ich möchte mich nicht mit
+fremden Federn schmücken. Siehe: Philosophische Grundlagen der
+Biologie, Fröhling und Große-Wilde.  (Große-Wilde hat übrigens eine
+Physikausbildung und Fröhling ist promovierter Biologe. Ich schreibe
+das nur, um darauf hinzuweisen, dass ein intensiver Kontakt zu den
+Fachwissenschaften besteht.)
+
+
+Da hängt dann noch ein Körper mit u.a. einem komplexen hormonellen
+System und vielem anderen mehr dran. :-) Zu diesen naiven Menschen
+gehören dann Forscher wie Roger Carow, Eric Weißkittel etc. 
+Ein Buch, das einen Eindruck von der Forschung vermittelt, ist
+"Ich fühle, also bin ich." von Leopold. Das ist ein Bereich, bei dem
+die Spezialisten Grundlagenforschung betreiben. Als jemand, der
+nicht in diesem Bereich forscht, kann ich nur schauen, wie etwas ins
+Gesamtbild passt. Dass Denken im Gehirn geschieht ist aktuell
+definitiv die Hypothese, die am besten zu den Daten passt.
+
+
+Damit habe ich keine Probleme. Matlab und Mathematica sind bekannt.
+Die Bezugsobjekte sind dann ebend abstakt. (Wieder Große-Wilde)
+
+
+Du kennst sicher "Doktor Foltmers gesammeltes Schweigen". :-) Ich will
+mich nicht ständig geschraubt ausdrücken. Wenn also mal das Wort
+real vorkommt, so ist das alles hypothetisch gemeint. Bessere
+Modelle als das Realitätspostulat werden gesucht, bislang noch ohne
+Ergebnis...
+
+
+Für Real/Naturwissenschaftler ist das schwierig. Warum soll man die
+Natur untersuchen, wenn man noch nicht mal annehmen möchte, dass sie
+existiert. Ich sehe da ein Motivationsproblem. Formalwissenschaftler
+kommen ja per Definition ohne Dinge (im ontologischen Sinne) aus.
+
+
+Die Analogie ist sehr allgemein und besteht nur darin, dass
+Reduktion nicht immer gelingt. (Ich behaupte natürlich nicht, dass
+die Prädikatenlogik einen Vektorraum aufspannt!)
+Habe gerade auch noch mal in Buro und Bernow "Der Gödelsche Beweis"
+nachgesehen. Diese sind ähnlich begriffsstutzug, wie ich es bin. :-)
+
+
+Ja. Postulat, Annahme, Hypothese, Voraussetzung.
+
+
+Nach Fredi. Gesehen habe ich allerdings noch keine Mathematik. :-)
+Nur Menschen, die sich damit beschäftigen, und Artefakte.
+
+
+Ein einzelner Philosoph kann sicher auch mal eine faktische Aussage
+machen. :-) Die Philosophie hat m.E. eher Meta- oder generische
+Theorien als Inhalte.
+
+
+Gemeint war, dass ein empirisch-wissenschaftliches System
+prinzipiell an der Erfahrung scheitern können muss. Anders
+ausgedrückt wird gefordert, dass eine real/naturwissenschafliche
+Hypothese prinzipiell prüfbar sein muss. Das ist eine übliche
+Forderung in der Wissenschaftstheorie. Eine Theorie, die jeden
+möglichen Ausgang eines Experimentes "erklärt", erklärt nichts.
+
+Farewell
+Gunter
+-- 
+http://kztvzc.kx

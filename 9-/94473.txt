@@ -1,0 +1,51 @@
+Am Ufam wurde mal "waveicle" vorgeschlagen, aber es hat sich wohl nicht
+sehr durchgesetzt :-)
+
+
+Eine Zahl ist kein Gegenstand. Gegenständlich sind Farbe oder Tinte, mit
+der das die Zahl repräsentierende Symbol geschrieben wird. Du trennst hier
+zwischen dem Gegenstand (der Farbe, die in bestimmter räumlicher Verteilung
+auf der Kugel aufgtragen wurde), und der abstrakten Bedeutung des Symbols,
+die sich erst in Deinem Bewusstsein entfaltet.
+
+
+Ich will mit meinem Beispiel gerade darauf hinaus, dass sich ab einer
+bestimmten Kleinheit der Gegenstand *und* seine Eigenschaften auflösen. 
+
+
+Das *ist* so, und das kann auch gezeigt werden und technisch genutzt
+werden.
+
+
+Ob das logisch so problematisch ist, wage ich wiederum zu bezweifeln.
+Andernfalls hättet Ihr Philosophen jetzt wohl eine Menge Arbeit :-)
+
+Lies' mal ein wenig Populärliteratur über Quantencomputer (für den Anfang
+diese Meldung: http://xrg.flibu.ke/rihzcclrph/fyhqdrs/66048). Da siehst Du
+mein Beispiel mit der Billardkugel realisiert und technisch angewendet. Ein
+als Transistor realisiertes Bit eines Computerchips kann nicht beliebig
+verkleinert werden. Ab einer bestimmten Größe (und in anderer Bauart, aber
+das soll uns hier nicht kümmern) ist sein Stromdurchfluss nicht mehr nur
+nicht eindeutig messbar, sondern überlagert gleichzeitig verschiedene
+Zustände. Und da der eindeutige Zustand eines Transistors vom Programmierer
+als 0 bzw 1 interpretiert wird (so wie Du oben die Farbverteilung auf der
+Billardkugel als "8"), kann die Überlagerung dieser Zustände als
+Überlagerung von 0 und 1 interpretiert werden. 
+
+Und mit diesen überlagerten Zuständen kann man auch rechnen! Eine
+Multiplikation zweier "QBytes" ist also die gleichzeitig durchgeführte
+Multiplikation aller möglichen Zustände der beiden QBytes, und da ein QByte
+256 verschiedene Zustände überlagert, findest Du im Ergebnis die
+Überlagerung aller Multiplikationen aller möglichen Zustände.
+
+
+Doch, davon gehe ich schon aus, denn das ist wirklich prüfbar. 
+
+Gruß
+Dirk Ostkamp
+
+-- 
+DZDZ: Architektur-Werkzeuge für Düsselkiosk (TM)
+           Döll Raumgestaltung  - Architekturbema�ung und Höhenkoten
+           Dipes - Flächenermittlung und Raumbuch nach DIN 277
+Info und Demo unter http://niv.bomfbmtcs.yw

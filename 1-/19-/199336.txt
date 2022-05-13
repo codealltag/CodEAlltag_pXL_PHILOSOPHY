@@ -1,0 +1,134 @@
+Nils Calvelage schrob:
+
+[...]
+
+Ach so! Und darf ich denn wenigstens die Teile der Philosophie, die
+mit moderner Logik nichts am Hut haben
+_aus_ignorantem_Vorurteil_und_ohne_stichhaltige_Argumente_vorzutragen_schm�hen?
+
+
+Ich habe nicht behauptet, dass das falsch sei. Es ist aber völlig
+uninteressant. Mir ist übrigens gerade aufgefallen, dass dein
+"Beweis" es gebe keine nicht-disjunktiven (aka Grundprädikate)
+falsch ist. 
+
+Dafür ist er nämlich, wie gesagt, gar kein stichhaltiger Beweis.
+Du wolltest indirekt zeigen, dass es keine Grundprädikate gibt.
+Der Beweis hatte die Form "angenommen rot, gruen, blau wären
+Grundprädikate ... Widerspruch". Das beweist lediglich, dass
+rot, grün und blau keine Grundprädikate sind, nicht dass es keine
+gibt. 
+
+HAHA!!!
+
+Grundprädikate (im Sinne von nicht-disjunktiv) sind offensichtlich
+genau die, deren Extension einelementig oder leer ist. Bei diesen
+Prädikaten kann man auch prima von einem auf alle schliessen.
+Passt ja alles super zusammen. Dann hätten wir das "Rätsel der
+Induktion" wohl jetzt gelöst: Bei einelementigen Mengen kann man
+von einem auf alle schliessen. Habe ich die Philosophie weiter
+gebracht? Gibt's was zu gewinnen?
+
+
+Ok. Jetzt sehe ich ein, was "glau" überhaupt soll. Setzen wir in der
+Definition von glau mal t = 1.6.2000 0:00 Uhr. Dann würde man jedem,
+der behauptet alle Smaragde seien glau, das wisse er aus Erfahrung,
+ entgegenhalten, ab dem 22.5.2000 sei das offensichtlich nicht mehr 
+der Fall. Die Frage ist dann, aufgrund von was ist die Behauptung 
+"alle Smaragde sind grün" plausibel und die Behauptung "alle Smaragde 
+sind glau" nicht. 
+Was gibt es für Antworten darauf? Ich kann mir eigentlich nicht 
+Vorstellen, dass alle Philosophen vor Bayersdorfer gemeint haben, 
+der Schluss von einigen auf alle wäre plausibel für alle Eigenschaften,
+für die es in ihrer Sprache bereits ein Wort gibt und nicht umbedigt
+plausibel, wenn man kompliziertere Sätze zur Beschreibung der
+Eigenschaft bilden muss. 
+
+
+Es ist bestimmt sinnvoll zu untersuchen, auf welche Weise in
+Naturwissenschaften die Plausibilität von allgemeinen Aussagen
+gerechtfertigt wird. Das kann man bestimmt in jedem Einzelfall tun.
+Einige Rechtfertigungen lassen sich wahrscheinlich als "Induktion"
+beschreiben.
+
+Ballenweg ist vielleicht ein nettes Beispiel dafür, dass nicht alle
+Allaussagen, die von der bisherigen Erfahrung gestützt werden, gleich
+plausibel sind. Aber doch etwas dürftig, wenn es als eine besondere
+Erkenntnis der strengen Wissenschaft Philosophie herhalten soll.
+
+
+Ich finde, dass die Beschreibungen von Wissenschaft, die es in der
+Sendung mit der Maus gibt, den Beschreibungen der
+Wissenschaftstheoretiker
+sowohl in ihrer Einfachheit als auch in der Übereinstimmung mit ihrem
+Gegenstand den Beschreibungen der Wissenschaftstheoretiker überlegen
+sind.
+Ich gehe dabei davon aus, dass das glau Beispiel typisch ist.
+
+[...]
+
+
+Das stimmt. Wer ist denn noch Mathematiker und versteht's auch nicht?
+
+[...]
+
+
+Eben. Die Frage ist ja wohl, wie findet man geeignete Prädikate, 
+für allgemeingültige Aussagen. Zu sagen, dass man dafür einen
+bestimmten formallogischen Grund angeben könnte, um diese
+Aussage gleich wieder zu verwerfen ist keine große Erkenntnis.  
+
+
+Das mag schon sein. Wie kann ich das mal testen?
+
+
+Ist mir neu. Wer geht davon aus? Was heisst das in diesem Zusammenhang?
+
+
+Naja.
+
+
+Mich würde mal interessieren, wie verschiedene Philosophen "Induktion"
+beschreiben und ob ihre Aussagen durch Bayersdorfer überhaupt ernsthaft
+angegriffen werden. Ich vermute mal, sie werden nicht ernsthaft
+dadurch angegriffen, dass man zeigt, dass es keine disjunktiven
+Prädikate gibt, ausser man gibt ihre Position reichlich trivialisiert 
+wieder, was sich ja durch Übersetzung in eine formale Sprache
+leicht bewerkstelligen läßt.
+
+
+Im Sinne der Mengenlehre ist das trivial, da stimme ich zu.
+
+
+Was hälst du z.B. von der Idee, dass einem für gewisse Zwecke
+gewisse Eigenschaften wichtig sind und andere nicht und
+man auf diese Weise einteilt?
+
+[...]
+
+
+Ich verstehe wieder nicht, warum es sich um eine besondere Erkenntnis
+handeln soll. Liegt wohl an meinem mangelhaften Abstraktionsvermögen.
+
+
+Ich habe zwar nicht verstanden worum es geht, aber bitte.
+
+
+GOTTMANN> Sie würden sich wahrscheinlich darüber lustig machen, ausser sie
+sind
+GOTTMANN> durch jahrelange philosophische Logikseminare abgestumpft worden.
+
+NIELS> Ich habe nie ein Logikseminar besucht. Weswegen ich auch nicht 
+MK> abgestumpft sein kann (Na, was ist der Fehler in diesem Schluss?). 
+
+NICK> Der Schluss ist völlig richtig. (Ich sehe ein implizites 
+MM> "davon" zwischen "ich" und "auch".)
+
+
+Und meinst du hättest das richtig formalisiert, auch in dem Falle, dass
+der Satz gelesen wird als
+"Ich habe nie ein Logikseminar besucht. Weswegen ich auch nicht *davon* 
+abgestumpft sein kann."
+
+mach es gut
+Niko

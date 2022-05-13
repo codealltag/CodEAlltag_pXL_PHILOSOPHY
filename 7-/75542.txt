@@ -1,0 +1,14 @@
+Ja Ok
+Dann mal als Skizze was Raum so ganz allgemein ist:
+Sei R eine trivialerweise nicht leere Menge von Objekten genannt Punkte.
+Dann ist die Umgebung eines Punktes die Menge aller Teilmengen von R die
+diesen Punkt beinhalten. Solche Mengen müssen nicht zusammenhängen (haben
+wir noch gar nicht definiert). Beispiel USA <-> Alaska
+Ein Raum ist diskret wenn es zwischen zwei Punkten keinen Weg gibt.
+Ein Raum ist messbar wenn:
+Ab hier spare ich mir den weiteres
+Sollte auch ja nur als Beispiel dienen das Euklid schon lange nicht mehr
+Maß der Dinge ist.
+-- 
+Mit freundlichen Grössen
+Uwe Ottovordemgentschenfelde

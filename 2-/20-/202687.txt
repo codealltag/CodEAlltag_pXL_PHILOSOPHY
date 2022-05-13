@@ -1,0 +1,23 @@
+Raimund Ibele wrote:
+DS> Ich suche ein scholastisches (?) Zitat, das sinngemäss heisst: Die 
+DS> Wahrheit folgt aus Beliebigem. Kennt jemand den lat. Wortlaut (ev. mit 
+DS> Quellenangabe...)?
+
+Quelle weiss ich nicht, aber wahrscheinlich meinst du "Ex falso quod 
+libet", das heisst allerdings, dass aus Falschem Beliebiges folgert und 
+bezieht sich auf die Implikation in der Aussagenlogik:
+
+A B   A => B
+0 0     1
+0 1     1
+1 0     0
+1 1     1
+
+Wie man sieht, ist die Implikation bei w(A)=0 immer wahr und genau das 
+besagt, der lat. Merksatz.
+
+-- 
+(o\--\- _privat: fwoma@mmzi.fjhp.zo_ -- *"Subj: pgpsend" 4 key* -\--\
+ \o\--\- _uni: grkxti81@liingb.ipsmvfsudu.gdm-vwoqcsay.ni_ -------\--\
+  \o\--\- _fido: Rtnoyza_Ytcpd@n1.z6313.s5575.s4.atwiysw.kfx_ -----\--\
+   \o)__)___________________________________________________________)__)

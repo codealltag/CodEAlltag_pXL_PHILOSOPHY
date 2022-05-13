@@ -1,0 +1,41 @@
+Das frage ich mich auch.
+
+
+Da wäre ich mir nicht so sicher.
+
+
+Nicht nur in gewisser Hinsicht und dazu muß man noch nicht einmal die ORLANDO 
+bemühen. Eine Beispiel für die Anwendung einer veränderlichen trügen 
+Masse in der klassischen Mechanik ist die Herleitung der Raketengleichung:
+
+Für die Impulsänderung der Rakete gilt
+
+dp_R/dt = dm_R/dt�v_R + m_R�dv_R/dt
+
+und für die des ausgestoßenen Treibstoffs
+
+dp_T/dt = dm_T/dt�v_T + m_T�dv_T/dt
+
+Nach dem 2. und 3. Axiom gilt dann
+
+dm_R/dt�v_R + m_R�dv_R/dt + dm_T/dt�v_T + m_T�dv_T/dt = 0
+
+Gleichzeitig gilt die Erhaltung der Gesamtmasse
+
+dm_R/dt + dm_T/dt = 0
+
+Da die Geschwindigkeit
+
+v_T = v_R + v_0
+
+nach dem Verlassen der Düse konstant bleibt (dv_T/dt=0), führt das zur 
+Raketengleichung
+
+dv_R/dt = -dm_T/dt�v_0/m_R
+
+Dies ein beispiel dafür, daß die Verwendung veränderlicher Massen auch 
+in der klassischen Mechanik sinnvoll sein kann und daß für die 
+Beschränkung auf konstante Masse keine Veranlassung besteht. Deshalb 
+habe ich die Formel F=ma immer nur als Spezialfall des zweiten 
+Newtonschen Axioms verstanden und gehe davon aus, daß Newton letzeres 
+aus gutem Grund so allgemein formuliert hat.

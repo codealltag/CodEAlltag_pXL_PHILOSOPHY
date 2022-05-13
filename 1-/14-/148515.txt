@@ -1,0 +1,137 @@
+Andreas Indermark schrieb am 31. Dez. 2001 13:15 h:
+
+
+Dann wiederhole ich den Beweis noch einmal etwas ausfuehrlicher.
+Ich verzichte nachfolgend auf die Erwaehnung der Komplementaermengen,
+weil sie die gleiche Maechtigkeit haben wie die zugehoerigen
+Teilmengen. Wenn T unendliche Teilmengen enthaelt, dann natuerlich
+auch die entsprechenden unendlichen Komplementaermengen.
+
+Jede T_k enthaelt alle Teilmengen von N mit der Maechtigkeit k.
+Wuerde nun die Menge T aller T_k nur Teilmengen mit endlicher
+Maechtigkeit enthalten, muesste es groesste Teilmengen von N
+geben, die in einer Teilmenge T_k mit einem groessten Index k
+enthalten waeren. Da es diesen groessten Index k nicht gibt,
+muss T auch unendliche Teilmengen enthalten.
+Wenn aber T unendliche Teilmengen enthaelt, dann alle, weil die
+Definition der T_k kein Auswahlkriterium fuer bestimmte Teilmengen
+gleicher Maechtigkeit enthaelt.
+Die Vereinigungsmenge V aller T_k enthaelt also alle endlichen
+und unendlichen Teilmengen von N und ist daher identisch mit
+Pot(N). Da V abzaehlbar ist, was du ja bestaetigst, ist Pot(N)
+abzaehlbar, qed.
+
+Dem haeltst du entgegen, dass man kein T_k nennen kann, das unendliche
+Teilmengen von N enthaelt. Es gibt nun zwei Moeglichkeiten:
+
+1) Es ist eine Tatsache, dass man nicht alle Elemente einer
+unendlichen Menge angeben kann. Es sind sogar unendlich viele,
+die man grundsaetzlich nicht nennen kann. Die Tatsache, dass man
+nur T_k mit endlichem Index angeben kann, ist also noch kein Beweis
+dafuer, dass es nicht auch welche mit unendlichem Index gibt. Ein
+Indiz dafuer ist z. B. die unendlich lange Diagonale, die man in
+einer Liste erhaelt, die unendlich viele (angeblich) endliche lange
+Zahlen enthaelt, die alle von der Diagonalen geschnitten werden.
+
+2) Wenn die Moeglichkeit 1) ausgeschlossen ist und die T_k tatsaechlich
+nur endliche Teilmengen von N enthalten, kann auch V nur endliche
+Teilmengen enthalten. Das setzt aber die Richtigkeit meines Beweises
+nicht ausser Kraft, sondern wir haben dann zwei sich widersprechende
+Aussagen, welche die Inkonsistenz der Theorie beweisen. Diese
+Inkonsistenz tritt schon in der Menge N auf:
+
+N sei die Menge aller nat. Zahlen ohne die 0.
+N_k ist die Menge der nat. Zahlen von 1 bis k.
+N_k ist Teilmenge von N_(k+1).
+Die Vereinigungsmenge von N_k und N_(k+1) ist N_(k+1).
+Die Vereinigungsmenge aller N_k ist N.
+
+Wir betrachten nun einige unendliche Teilmengen von N, z. B. die
+Menge P der Primzahlen und die Menge G der geraden Zahlen. Jedes N_k
+enthaelt nur eine endliche Teilmenge von P und G. Trotzdem enthaelt
+die Vereinigungsmenge aller N_k auch die unendlichen Mengen P und G.
+Warum sollte das bei der Vereinigungsmenge der T_k anders sein?
+
+Die in den N_k enthaltenen Teilmengen einer unendlichen Teilmenge
+von N sind um so maechtiger (laenger), je groesser der Index k ist.
+Erst das "letzte" N_k enthaelt die vollstaendige unendliche
+Teilmenge. Das gleiche gilt fuer die T_k, die ausser den N_k
+auch alle anderen Teilmengen von N mit der Maechtigkeit k
+enthalten.
+
+Die Existenz einer letzten Teilmenge N_k oder T_k ist eine
+Konsequenz daraus, dass N als Menge und nicht als beliebig
+erweiterbare Folge definiert ist.
+Die Vereinigung aller N_k enthaelt alle nat. Zahlen. Da jede N_k
+alle Zahlen der vorangehenden Teilmengen enthaelt, muss es eine
+Teilmenge geben, die bereits alle Zahlen enthaelt, denn durch die
+Vereinigung kommen keine neuen Zahlen hinzu. Die einzige Menge,
+auf die das zutrifft, ist N. Da N keinen Nachfolger hat, ist N das
+letzte Element in der geordneten Folge der N_k.
+
+Die Existenz der Teilmengen N_k laesst sich nicht bestreiten. Es muss
+also auch ihre Vereinigungsmenge existieren. Welche koennte dies sein,
+wenn es nicht N ist? Es koennte dann nur der Vorgaenger von N sein.
+Damit ist das Problem nicht geloest. Der Vorgaenger von N ist
+die Vereinigung aller N_k ohne N.
+
+
+Die Frage duerfte vorstehend beantwortet sein. Dass die Frage,
+welche T_k eine bestimmte unendliche Teilmenge enthaelt, keinen
+Sinn hat, erklaere ich an einem einfacheren Beispiel.
+
+In bofrost*s Hotel sind die Zimmer mit den nat. Zahlen nummeriert,
+also 1, 2, 3, 4, ... . Die einquartierten Gaeste sind mit den
+ungeraden Zahlen 1, 3, 5, 7, ... nummeriert. Alle Zimmer sind
+belegt, Gast n befindet sich im Zimmer (n+1)/2.
+Die neu einzuquartierenden Gaeste sind mit den geraden Zahlen
+nummeriert. Der Gast mit der Nummer 2 kommt zunaechst in Zimmer 1,
+die bereits einquartierten Gaeste ruecken ein Zimmer weiter.
+Dann kommt Gast 4 in Zimmer 1, Gast 2 in Zimmer 2 und alle
+anderen ruecken ebenfalls ein Zimmer weiter. Das wird so fortgesetzt
+bis die abzaehlbar unendlich vielen neuen Gaeste einquartiert sind.
+
+Kannst du jetzt sagen, in welchem Zimmer sich die Gaeste 14 und 15
+befinden oder welcher Gast sich in Zimmer 1 befindet? Trotzdem wirst
+du doch nicht daran zweifeln, dass die Menge der Gaeste und die Menge
+der Zimmer gleichmaechtig und abzaehlbar unendlich sind.
+
+Du kannst dir auch vorstellen, dass die neuen Gaeste nicht nacheinander
+sondern gleichzeitig parallel in die Zimmer einquartiert werden, so
+dass sich Gast n in Zimmer n/2 befindet. In welchem Zimmer befindet
+sich dann Gast Nr. 1? Die Zuordnung Gast <--> Zimmer ist eine Bijektion
+von N auf N. Im Gegensatz zu Folgen, in denen die Reihenfolge der
+Elemente entscheident ist, ist die Reihenfolge der Elemente in Mengen
+beliebig. Da N als Menge definiert ist, muss auch diese Bijektion
+moeglich sein. In welchem Zimmer befindet sich also Gast Nr. 1?
+Wenn du das nicht sagen kannst, ist das zumindest eine Unzulaenglichkeit
+der Theorie. Denn von einer Theorie der unendlichen Mengen sollte man
+erwarten koennen, dass sie fuer eine derart einfache Zuordnung ein
+geeignetes Ausdrucksmittel anbietet. Dann waere es auch moeglich,
+zu sagen, in welchem T_k sich die Menge der geraden Zahlen befindet.
+
+Der Formalismus der Theorie ist also unvollstaendig. Deshalb lassen
+sich auch viele ihrer Widersprueche nicht in der theorieeigenen
+Sprache formulieren. Aber ist sie deshalb widerspruchsfrei?
+
+Wir betrachten jetzt die Menge A = Vereinigungsmenge von N und
+{1/n | n aus N\0}. Eine Bijektion von A auf N erhaelt man z. B.,
+indem jeder Zahl n aus A eine gerade Zahl aus N und jeder Zahl
+1/n aus A eine ungerade Zahl aus N zugeordnet wird. Da A und N nicht
+als Folgen sondern als Mengen definiert sind, muss eine Permutation
+dieser Bijektion existieren, die jedes n aus A auf das n aus N abbildet.
+Auf welche Elemene in N werden dann die Elemente 1/n aus A abgebildet?
+Entweder reichen die Elemente von N fuer die Abbildung nicht aus
+oder man erhaelt eine echte induktive Teilmenge von N, auf welche
+die induktive Teilmenge N von A abgebildet wird. Da N keine echte
+induktive Teilmenge enthaelt, fuehrt beides zu einem Widerspruch.
+
+Verstehst du jetzt, warum ich den Sinn der Maechtigkeitsdefinition
+mit Bijektionen bezweifle? Es wuerde sich auch lohnen, einmal ueber
+den Sinn der Definition von N als kleinster induktiver Menge
+(Durchschnitt aller induktiven Mengen) nachzudenken. Das kannst du
+selbst tun, ich will kein neues Diskussionsfeld mehr eroeffnen.
+
+Gruss
+
+Hannes

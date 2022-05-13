@@ -1,0 +1,29 @@
+Das ist es. Die Kunst ist es jedoch, diesen Zustand zu erreichen. Meine
+gesamte Arbeit befasst sich damit. Einen entsprechenden Hinweis zu
+Anfang sehe ich deshalb als sinnvoll an.
+
+
+Das missinterpretierst Du. Mit "arbitrary semantics" ist gemeint, dass
+eine Semantik kreiert wurde, willkürlich, und dass dabei keine
+Einschränkungen in der Kreation galten. "Arbitrarität" in dem Sinne, wie
+Du es formulierst, ist nicht gemeint.
+
+
+Damit konterkarriere ich den in der Informatik üblichen Begriff der
+"Ontologie", der (meiner Ansicht nach das Ergebnis von
+Missverständnissen) NICHT für Metaphysik verwendet wird (kein Scherz).
+Auch lehne ich den Begriff der "formalen Semantiken" ab, die den
+Trugschluss beinhalten, sie seien nicht nur formal zu beschreiben,
+sondern ihre Bedeutung, die sie referenzieren, sei immer explizierbar.
+
+Das Problem der Bedeutung von Computerprogrammen ist gerade, dass sie
+keinesfalls immer explizierbar ist. Es geht hier zwar nur um formale
+Transformation, aber es geht auch um das Erhalten der Intension der
+verwendeten Sätze und Symbole, zumindest um den Teil, der beabsichtigt
+ist.
+
+Viele Grüsse,
+VB.
+-- 
+Wenn Du für eine Leistung nichts bezahlst,
+bist Du nicht der Kunde, sondern die Ware.

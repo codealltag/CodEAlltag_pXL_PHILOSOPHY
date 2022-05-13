@@ -1,0 +1,16 @@
+Um Gottes Willen, ich bin kein Softwarearchitekt, ich habe direkt nicht das 
+Geringste mit dieser ganzen Sache zu tun, ausser, daß ich der Ehemann einer 
+Frau bin, die damit zu tun hat. Sie erzählt mir immer, daß die Projekte 
+nicht vornehmlich scheitern, weil das V-Modell keine Iteration vorsieht (sie 
+meint, in der Zwischenzeit wird sowieso nicht mehr streng nach V oder V2 
+gearbeitet), sondern weil schon zu Beginn bei der Anforderungserfassung 
+Fehler gemacht werden, die sich dann bis zum bitteren Ende durchziehen. Tja, 
+und da wären wir auch schon wieder bei den hier diskutierten 
+"Sprachproblemen". Ihre Forderung: Der Requirement-engineer muß "sprachlich" 
+einfach besser ausgebildet sein, damit von Anfang an Mehrdeutigkeiten und 
+unbrauchbare Formulierungen vermieden werden (der berühmte "große button" 
+wäre in diesem Sinne sowas ähnliches wie die "falsche Repräsentation", die 
+ich hier mal aus Wiess zitiert habe).
+
+Gruß
+Jan

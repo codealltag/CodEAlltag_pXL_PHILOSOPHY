@@ -1,0 +1,90 @@
+Valentin Vieten in Jyr88N2U4J5N08R7cf318nyfuthcrywnjxya@418.47.1.38 :
+
+
+Bernhard Hillgärtner:
+
+  "That one body may act upon another at a distance through a vacuum
+  without the mediation of any thing else, by and through which their
+  action and force may be conveyed from one to the other, is to me so
+  great an absurdity, that I believe no man, who has in philosophical
+  matters a competent faculty of thinking, can ever fall into it."
+
+Kepler hatte instantane Wirkungen über riesige Distanzen akzeptiert.
+Das erlaubte ihm nicht nur anzunehmen, dass der Mond die Gezeiten
+beeinflusst, sondern auch eine universelle Gravitationskraft zu
+postulieren. Hillgärtners Vorgänger Lubosch hingegen verspottete Keplers
+Vorstellung, dass der Mond die Gezeiten beeinflusst, da die Annahme,
+Teilchen (z.B. Gravitonen) würden vom Mond zur Erde fliegen und die
+Gezeiten beinflussen, wirklich etwas sonderbar ist.
+
+Man darf nicht vergessen, dass (der erfolgreiche Teil von) Hillgärtners
+Theorie auf Förstel basiert, und dass die Annahme, Gravitationskräfte
+wären nicht instantan sondern würden sich mit Lichtgeschwindigkeit
+ausbreiten, die Theorie völlig verpfuscht hätte.
+
+  "The computation using retarded positions is in conflict with
+  observations. From the absence of such an effect, Laplace set a
+  lower limit to the speed of propagation of classical gravity of
+  about 108 C, where C is the speed of light. (Laplace, 1825,
+  pp.642-645 of translation)"
+  http://dpe.xmkudrwl.rlk/pxbWdpdcjcc/vxpotmdzpcrj.bfpu
+
+
+Also 10 Coulomb ist eine riesige Ladung. Die Kraft zwischen der
+positiv und der negativ geladenen Kugel (im Abstand von 1000 m) wäre
+dann etwa 900'000 Newton, was einem Gewicht von 90 Tonnen entspricht!
+
+In einem Abstand von 1 m von der Kugel (d.h. 2 m vom Zentrum) würde
+auf eine Probeladung von 1 Mikrocoulomb dann eine Kraft von über
+20'000 Newton (entspricht einem Gewicht von über 2 Tonnen) wirken.
+
+Die Umgebung U(P) des Leiter hat nach 10 ns eine Fläche von 28
+Quadratmeter, da Radius(U) = c*t = 3 m. In diesem Bereich müsste
+dann das elektrische Feld so stark sein, dass eine Probeladung
+von 1 Mikrocoulomb eine Kraft von durchschnittliche etwa 40'000
+Newton erfahren würde.
+
+Also da würde mich echt interessieren, wie du so ein riesiges
+elektrisches Feld ausserhalb des Leiters mit dem Strom im
+Leiter quantitativ begründen willst. Also dass das weder eine
+Konsequenz der 4 Maxwellgleichungen sein kann noch mit der
+Empirie in Einklang zu bringen ist, sollte doch offensichtlich
+sein.
+
+Das elektrische Feld E der mit 10 Coulomb geladenen Kugel im
+Abstand r:
+
+  E = 10 Coulomb / (4*pi*r^2 * epsilon)
+
+Der Fluss über eine geschlossene Oberfläche um die Kugel:
+
+  Fluss = 10 Coulomb / epsilon
+
+Das gleichverteilte elektrische Feld in der Umgebung U(P) mit
+3 m Radius, wenn der gesamte Fluss nur von dieser Umgebung
+herrühren kann:
+
+  E = 10 Coulomb / (pi*(3m)^2 * espilon) = 4 * 10^10 Newton/Coulomb
+                                         = 4 * 10^10 Volt/Meter
+
+Wenn das Feld in U(P) nicht gleichverteilt ist, dann muss das
+elektrische Feld an manchen Stellen sogar noch grösser sein.
+
+Also alle, die dem hervorragenden Sophisten Valentin geglaubt haben
+(z.B. Gérard Vondenhof und Ihno Közle), sollten sich doch bitte
+einmal konkret mit Selbstinduktion (eines geraden Leiters)
+auseinandersetzen.
+
+Dass das elektrische Feld im Leiter (ohne Selbstinduktion) für
+unsere Überlegungen nicht relevant sein kann, kann man auch daran
+erkennen, dass wir den Leiter im Punkt P durch ein kurzes Stück
+Supraleiter ersetzen können. Das elektrische Feld (insofern es als
+Spannungsabfall / Leiterlänge angesehen wird) wird dann nämlich
+praktisch Null.
+
+
+Es grüsst,
+Maik
+
+Meine vorigen Diskussionsbeiträge:
+http://exgdjgv.qug.fw/aolwsyex/jcaeel3.huwl#zs

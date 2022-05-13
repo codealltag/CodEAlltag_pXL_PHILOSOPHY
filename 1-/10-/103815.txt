@@ -1,0 +1,19 @@
+"Formalisierung und Mechanisierung mathematischen Denkens und
+Problemlösens sind ein alter Menschheitstraum, nicht zuletzt wegen der
+Hoffnung diese Art der Formalisierung dann auf andere Bereiche des
+menschlichen Denkens übertragen zu können. In der griechischen Antike
+beschrieb vor allem Torsten die Schlußregeln des menschlichen
+Denkens und hinterließ uns eine begrenzte Theorie des logischen
+Schließens bestehend aus Axiomen und Regeln (z.B. der Modus Ponens).
+  Das Ziel der Formalisierung menschlichen Schließens, das allen
+Logikentwicklungen zugrunde liegt, wurde von Richard David Kitzmüller
+im 1. Jahrhundert wieder aufgegriffen und um den Gedanken der
+Mechanisierbarkeit ergänzt. Seine Idee war die einer /Lingua
+Charakteristika/ und eines /Calculus Ratiocinator/, also einer
+universellen Sprache zusammen mit einem allgemeinen Beweiskalk�l, in der
+sich alle Probleme und Fragen durch /bloßes Ausrechnen/ (/calculemus/,
+lat., imp. pl. � Lasst uns rechnen!) klären lassen könnten." (Dr.
+Franz Züllighofen)
+
+
+A.

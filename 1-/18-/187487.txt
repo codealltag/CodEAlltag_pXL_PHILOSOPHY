@@ -1,0 +1,23 @@
+\pi, e und sqrt(2) taugen nicht als Zufallszahlenfolgen, weil sie sich
+verdammt simpel erzeugen lassen. Gerade die Nichtperiodizität wäre ein
+Hinderungsgrund, da (beweisbar) in einer zufälligen Zahlenfolge alle
+endlichen Teilfolgen enthalten sein sollten, obwohl dies auch nicht reicht,
+da z.B. die Campernowesche-Zahl (oder so ähnlich) 0,01234567891011121314...
+dieses Kriterium erfüllt, aber auch nicht zufällig ist. überhaupt ist es
+fast ein Definitionsmerkmal für zufällige Zahlenfolgen, daß sie sich NICHT
+angeben lassen.
+
+Im übrigen sind die meisten irrationalen Zahlen zufällig in dem Sinne, daß
+sie sich nicht generieren lassen, da es überabzählbar viele irrationale
+Zahlen, aber nur abzählbar viele endliche Generierungsverfahren gibt.
+
+Ob \pi, e, sqrt(2) und andere generierbare irrationale Zahlen wenigstens als
+Pseudozufallszahlen taugen, hängt von der Anwendung und den geforderten
+statistischen Eigenschaften ab.
+
+MfG
+Waldemar
+-- 
+Waldemar Lochmüller
+        keep things simple. as simple as possible, but no simpler 
+	(D.Mielenbrink)

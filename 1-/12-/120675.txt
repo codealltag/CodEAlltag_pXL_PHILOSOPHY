@@ -1,0 +1,74 @@
+Von mir aus..., zugestanden. :-)
+	Nun ja. Man kann natürlich ein n-Eck auch so definieren, 
+	dass man es als die Menge der n Eckpunkte auffasst.
+
+	Dann "besteht" ein Quadrat natürlich nicht aus _unendlich_
+	vielen Punkten, sondern eben genau 4.
+
+	Da hast Du schon recht.
+
+Bei so einfachen Gebilden kann man das durchaus so machen. Was aber auf
+diese Weise nicht möglich ist: die Definition "allgemeinerer" Flächen.
+
+Wie würdest DU denn z.B. einen Kreis (mit Radius r) definieren? :-)
+
+ICH würde das so machen:
+
+	K(r) = {(x,y) e R^2 | x^2 + y^2 <= r^2).
+
+Damit i s t dann der Kreis die Menge aller Punkte P = (x,y), für die
+eben x^2 + y^2 <= r^2 gilt.
+
+
+Ist mir jetzt auch nicht ganz klar, was Manuel damit sagen wollte... ;-)
+
+Denn allein aus der Tatsache, dass wir ein entsprechendes Koordinaten-
+system einführen, folgt noch nicht automatisch, dass Geraden und Flächen
+aus unendlich vielen Punkten "bestehen". (Wohl aber, dass unendlich
+viele Punkte "auf (oder in) ihnen" liegen - wenn man so will.)
+
+Ich kann eine Strecke ja auch einfach auffassen, als die Menge ihrer
+beiden Endpunkte:
+
+	S = S(P_1,P_2) = {P_1, P_2}.
+
+Aber das ist eigentlich ziemlich umständlich...
+
+Besser und einfacher so:
+
+	S = S(P_1,P_2) = {P | P liegt zwischen P_1 und P_2}.
+
+
+Nun meinte aber jemand:
+
+Jep. Die eben [zuletzt] definierte Strecke S besteht aus unendlich
+vielen Punkten. Und man kann sehr gut sinnvolle Aussagen machen, die
+sich auf sie beziehen.
+
+Bsp:
+	Seien P_1 = {x_1,y_1) und P_2 = {x_2,y_2}
+
+	Dann ist _die Länge der Strecke S so definiert:
+
+	l(S) = SQRT((x_2 - x_1)^2 + (y_2 - y_1)^2).
+
+	Bei gegebenen Koordinaten x_1,x_2,y_1,y_2
+
+	kann man also die Länge der zugeordneten
+
+	Strecke berechnen und angeben.
+
+
+Nun ja... vielleicht mag man jetzt einwenden, dass ich nicht wirklich
+eine Aussage "über Unendlichkeiten" (oder auch nur "eine Unendlichkeit")
+gemacht hätte. Von mir aus. 
+
+Jetzt mache ich eine:
+
+	N c R
+
+Die unendliche Menge N der natürlichen Zahlen ist eine (echte) Teilmenge
+der unendliche Menge R der reellen Zahlen.
+
+
+F.

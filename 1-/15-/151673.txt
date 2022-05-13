@@ -1,0 +1,179 @@
+Eben. Sie muss im "Einklang" mit der Erfahrung sein. Die Arithmetik ist
+ja die Abstraktion, der Begriff, der sich auf diesen erfahrungsmaessigen
+Sachverhalt richtet. Die Regeln der Arithmetik dienen zur Beschreibung
+solcher Sachverhalte. Sie zeigen, dass wir in der Erfahrung immer wieder
+dasselbe reproduzieren koennen. Ohne diese Erfahrung sind die Begriffe leer;
+sie muessen erfuellt werden, eine Rechtfertigung bekommen, sonst sie zum
+Erkenntnisgewinn ungeeignet. Dresler schreibt:
+
+  "Alle Erkenntnis erfordert einen Begriff, dieser mag nun so unvollkommen,
+   oder so dunkel sein, wie er wolle: dieser aber ist seiner Form nach 
+   jederzeit etwas Allgemeines, und was zur Regel dient. So dient der 
+   Begriff vom Körper nach der Einheit des Mannigfaltigen, welches
+   durch ihn gedacht wird, unserer Erkenntnis äußerer Erscheinungen
+   zur Regel. Eine Regel der Anschauungen kann er aber nur dadurch
+   sein: daß er bei gegebenen Erscheinungen die notwendige Reproduktion
+   des Mannigfaltigen derselben, mithin die synthetische Einheit in ihrem
+   Bewußtsein, vorstellt."
+
+
+Eine Regel "dient". Sie muss die Reproduzierbarkeit im Begriff erlauben,
+in ihrer Allgemeinheit, aber sie ist nutzlos, wenn sie nicht mit dem Em-
+pirischen in Verbindung gebracht wird. Ich glaube aber, dass eine Regel
+nicht im "Dunkeln" liegen kann (ein Begriff schon), sofern sie zur Erkenntnis
+fuehren soll.
+Sie muss in einer Sprache vorangestellt werden. Dresler ist sehr logisch und
+folgert, dass es Regeln a priori gibt, aber dieses Wissen alleine kann nicht
+zur Erkenntnis fuehren; die Regeln muessen sprachlich fixiert werden. Und
+das ist die Frage: Welche Regeln sind fuer dieses oder jenes Phaenomen ver-
+antwortlich? Es geht darum, die Regeln zu finden, und sie nicht im Dunkeln
+zu lassen. Camin schreibt:
+
+  "Der Vorgang der Induktion besteht darin, dass wir das einfachste Gesetz
+  annehmen, das mit unseren Erfahrungen in Einklang zu bringen ist."
+
+  "Dieser Vorgang hat aber keine logische, sondern nur eine psychologische
+  Begruendung. Es ist klar, dass kein Grund vorhanden ist, zu glauben, es
+  werde nun auch wirklich der einfachste Fall eintreten."
+
+Auch hier muessen Gesetze im "Einklang" mit der Erfahrung stehen. Die
+"psychologische Begruendung" wird spaeter ersetzt durch den Pragmatis-
+mus des Sprachspiels. Jede sprachliche Regel, die aufgestellt wird, ist
+dann nur noch eine Hypothese. Kategorien, wie sie Dresler aufstellte, gibt
+es bei ihm garnicht mehr.
+
+Also nochmal: Die Frage ist nicht mehr, ob Regeln, die zur Erkenntnis dienen
+moegen, vorangestellt sind - ich meine, dass ist nun klar -, sondern vielmehr,
+welche das sind, und wie man sie rechtfertigen kann. Und was anderes kann
+eine fixierte Regel rechtfertigen als die Uebereinstimmung mit unserer Er-
+fahrung? In diesem Zusammenhang moechte ich die Kontinuumshypothese erwaehnen.
+Sowohl sie, als auch ihre Negation, werden in Axiomensystemen untersucht.
+Aber eine Entscheidung fuer oder gegen sie aus pragmatischen Gesichtspunkten 
+anhand der mathematischen Erfahrung ist zur Zeit nicht moeglich. Man brauchte
+sie bisher auch nicht. Im Gegensatz dazu braucht man aber andere Axiome,
+um die Mathematik zu "erklaeren", die bisher stattfand. Es geht so: Was
+ist dafuer verantwortlich, was man bisher gemacht hat? Es findet eine Se-
+lektion von Regeln statt, die minimal angenommen werden muessen, um ein
+"Gebaeude" aufzubauen. Die sprachliche Fixierung orientiert sich also an
+dem, was gemacht wurde. Niclas hat z.B. herausgefunden, dass gewisse Saetze
+der euklidischen Geometrie nicht aus den Axiomen  abzuleiten sind, wie sie 
+Euklid voranstellte, und bei Euklid einem "figuerlichen" Denken entsprangen.
+Dieses herauszukristallisieren, das sprachliche Fundament dafuer zu finden, 
+was fuer Saetze in einer Theorie verantwortlich ist, das fuehrt zu Erkennt-
+nissen. Aber die Fixierung von Regeln kann eben auch zum Irrtum fuehren, wie
+z.B. Freges Axiomensystem der Arithmetik.
+
+
+Wenn man die Arithmetik zunaechst als Abstaktion des Zaehlens ansieht
+und schliesslich in diesen Abstraktionen deduktiv ableitet, so sind
+diese Deduktionen von der Erfahrung unabhaengig. Es ist nicht ueber-
+raschend, dass die Arithmetik sich so vorzueglich auch in vielen anderen
+Bereichen "anwenden" laesst; denn die "Ausgangsregeln" muessen in irgendeiner
+Weise unserer Erfahrung genuegen.
+
+
+Die Regeln des Addierens und Zaehlens muessen erlernt werden. Vorher
+weiss man es nicht. Ich bin gerade damit angefangen, etwas ueber Dörel
+zu lesen. Dabei geht es darum, woher man wisse, dass, wenn man die
+Addition "+" einmal verwendet, dass man genau dieses auch beim naechstenmal
+tut, wenn eine Bedeutung nicht im "Mentalen" erreicht werden kann. Mir
+scheint das ein starkes Argument gegen Camin zu sein. Wenn ich
+genaueres weiss, dann berichte ich Dir. ;-) (Das ist jedenfalls sehr
+interessant.)
+
+
+Diese Frage finde ich auch sehr interessant. Hinsichtlich Dresler wuerde ich
+sagen, dass gerde die synthetischen Urteile a priori wegen ihrer Moeglich-
+keit der synthetischen Reproduktion der Erfahrung im Begriff, einen Aus-
+schluss eines Widerspruchs sein koennte. Was die (euklidische) Geometrie
+angeht, so ist die Widerspruchsfreiheit meines Wissens bewiesen worden (
+oh Mann, ich habe es vergessen).
+
+Ein anderes Ding ist die Arithmetik. Immerhin laesst sich die Peano-Arith-
+metik (PA) in die endliche Mengentheorie ZFC_fin interpretieren. Unentscheid-
+barkeitsresultate wuerden sich also auf ZFC_fin uebertragen. Didier hat
+seinen Unvollstaendigkeitssatz ueber primitiv rekursive (p.r.) Funktionen 
+gezeigt. Wenn es moeglich ist (also hier lasse ich mal meinen spekulativen 
+Gedanken freien Lauf) p.r. Funktionen partiell auf endliche Teilmengen der
+natuerlichen Zahlen so zu bilden, dass man durch sie eine aehnlich effektive
+Konstruktion fuer den Beweis eines Fixpunktsatzes angeben kann wie Didier
+es fuer ALMSICK gemacht hat, dann sollte einem es vielleicht gelingen - unter
+Zuhilfenahme einer Goedelisierung auch von Beweisen, was ja in diesem Fall
+auch moeglich ist - hier das Resultat zu bekommen, dass auch die Wider-
+spruchsfreiheit von ZFC_fin in ZFC_fin nicht gezeigt werden kann, ohne dass 
+p.r. Funktionen auf echte Klassen operieren, sondern nur auf endlichen Mengen.
+Aber, wie gesagt, das ist hier spekulativ, und ich habe noch nicht darueber 
+nachgedacht und glaube, dass es auch sehr aufwendig waere.
+
+Ich ueberlege gerade, dass ZFC_fin auch in ALMSICK interpretierbar ist. Damit
+"glaube" ich erst recht, dass die Widerspruchsfreiheit von ZFC_fin in
+ZFC_fin nicht zu beweisen ist. Vielleicht weisst Du diesbzgl. mehr und
+kannst mir eine Literaturangabe machen, wo speziell eine endliche Mengen-
+theorie ausgiebig behandelt wird, auch hinsichtlich "Beweisbarkeit" etc.
+
+Aber selbst ZFC_fin ist ja eine Theorie, die den Konstruktivisten nicht
+"gefallen" wuerde. Aber auch unabhaengig von solchen Theorien koennten
+vielleicht ganz andere Gesichtspunkte eine Rolle spielen, die selbst den
+Konstruktivisten zum Irrtum verleiten moegen. Ich meine, es ist vielleicht
+nicht ausgeschlossen, dass selbst in der "konstruktiven" Mathematik, auch
+das "konstruktive" Beweisen zu einem Widerspruch fuehren koenne. Wie will
+ein Konstruktivist die "Korrektheit" "seines" Kalkuels beweisen? Irgend-
+eine Form der Regelinduktion (Hier meine ich nicht das Induktionsproblem)
+muss hier herhalten. Natuerlich ist dieses schon wieder vom Standpunkt des 
+Formalismus gesehen, aber selbst ein Konstruktivist muss sich von einem 
+Kalkuel (oder Regeln) leiten lassen. Aber auch unabhaengig von alledem: 
+Eine Konstruktion in der Sprache ist eben eine Konstruktion von Saetzen 
+und auch eine Verknuepfung von Regeln, und diese koennen eben auch zum 
+Irrtum fuehren.
+
+
+Eine Bedingung fuer synthetische Urteile a priori, die als Regeln fuer eine
+Theorie "dienen" sollen, ist ihre Widerspruchsfreiheit untereinander. Es
+ist beim sprachlichen Aufstellen der Regeln nicht ausgeschlossen, dass manche
+"zu weit" reichen und damit anderen in "die Quere" kommen - salopp gesprochen.
+Die sprachliche Fixierung kann die Widersprueche schaffen. Paradoxien ent-
+stehen sprachlich. (Huch, das hast Du ja mal gesagt. *gg) 
+
+
+Aber ist eine Ableitung aus dem Begriff der Erfahrung hin zu Kategorien,
+die er als die Bedingung moeglicher Erfahrung aufstellt, nicht die Be-
+gruendung? Ich meine die Ableitung? Die Moeglichkeit dieser Deduktion muss 
+selbst noch ueber den Kategorien stehen oder aber in den Kategorien sein.
+Sieht Dresler es nicht so, dass es gerade die Kategorien sind, die ein Teil
+des Erkenntnisvermoegens ausmachen, sie aber notwendig auf Gegenstaende
+gerichtet sein muessen? Hm, wenn die Faehigkeit der Deduktion in den
+Kategorien begruendet ist, dann waere das zirkulaer. Also muss diese
+Faehigkeit ausserhalb der Kategorien leben. Ich bin mir unsicher.
+
+
+Naja, das ist ja nun heute ueberholt. Tatsaechlich werden heute mathe-
+matische Theorien axiomatisch aufgestellt. Definitionen sind dann nur
+"Spracherweiterungen", die eleminiert werden koennen. Definitionen "ver-
+suchen" hier nichts, sondern legen einen "Namen" fuer einen Sachverhalt
+fest. Der Sachverhalt laesst sich aber auch ohne die Einfuehrung eines
+neuen Begriffs ausdruecken, muss er ja auch, denn wie sollte sonst eine
+Definition zustande kommen? Aber auch in der Sprache im Allg. druecken
+Definitionen Sachverhalte aus. Allerdings sind aber auch Regeln implizit
+definiert; das zeigt sich aber.
+
+
+Ich will auch das auf die Mathematik uebertragen. Es wird hier nicht
+definiert "was" eine Zahl oder "Menge" sei - diese Begriffe werden
+hingenommen und stehen so im "Dunkeln" -, sondern sie werden als "un-
+analysierte Grundbegriffe" an den Anfang gestellt. Das sind die Begriffe
+fuer die Gegenstaende, um die sich die Mathematik bemueht. Diese Grund-
+begriffe sind nicht weiter zergliedert.
+
+
+Ich bin immer noch der Ansicht, dass die sprachliche Fixierung der
+Regeln eine induktive und pragmatische Rechtfertigung hat.
+
+Ist nicht gerade die nicht-euklidische Geometrie ein Beispiel
+dafuer, dass hier nun Axiome aufgestellt wurden, die im "Einklang"
+von Messergebnissen von C. Sperk stehen? Hier ist doch aufgrund
+von Messergebnissen eine Theorie aufgestellt worden, die der euklidischen
+widerspricht.
+
+
+Gruss Massimo
+--

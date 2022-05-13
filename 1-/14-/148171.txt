@@ -1,0 +1,30 @@
+Da ich Mathäus bisher keinen höheren Score verpasst habe,
+weiß ich nicht genau, was er geschrieben hat, ich kenne nur Tschirschwitz
+Satz ;-)
+
+Auf Deutsch lautet der Satz:
+
+"Einige Künstler bewundern sich gegenseitig und sonst
+niemanden." (1)
+
+übersetzt in die Mengensprache:
+
+Es gibt eine Teilmenge A der Menge der Künstler, so dass je zwei
+Personen aus A sich gegenseitig bewundern, und es keine Person (keinen
+Künstler) außerhalb von A gibt, der von Personen aus A bewundert wird.
+
+
+Deine Formalsierung drückt das aber nicht aus, sie sagt,
+normalsprachlich formuliert:
+
+(Es gibt Künstler) und (alle Künstler bewundern sich gegenseitig und
+sonst niemanden).
+
+Außerdem passt deine B-Relation nicht ganz, da ja mit (1) nicht
+ausgeschlossen wird, dass es einen Künstler gibt, der einen anderen
+Künstler bewundert, ohne selbst von letzerem bewundert zu werden. Die
+B-Relation sollte also nicht symmetrisch sein, bei dir ist sie es
+aber.
+
+
+wolf

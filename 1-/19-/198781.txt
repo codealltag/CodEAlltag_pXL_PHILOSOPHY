@@ -1,0 +1,86 @@
+Gr Gott!
+
+
+[Goodsteinfolge]
+
+
+Gut. Ich hatte die Pointe auch nicht richtig zum Ausdruck gebracht, aberwir
+kriegen das schon hin.
+
+Ich sollte vielleicht die Definition der Goodsteinfolge mal hinschreiben,
+damit niemand
+glaubt es sei was ganz obskures:
+
+Man definiert zunächst zu jeder natürlichen Zahl a und jedem n >= 2 die
+Funktion g(a,n+1)
+folgendermassen: "Man entwickle a vollständig zur Basis n und  ersetze in dem
+so
+entstandenen Term n durch n+1."
+
+Beispiel Berechnung von g(10,3) :
+10 "vollständig" zur Basis 2 entwickeln: 10 = 2^3 + 2 ^ 1 = 2^(2^1 + 2^0) +
+2^(2^0)
+= 2^(2^(2^0) + 2^0) + 2^(2^0)
+darin 2 durch 3 ersetzen
+-->  3^(3^(3^0) + 3^0) + 3^(3^0) = 3^( 3 + 1 ) + 3 = 3^4 + 3 = 84 = g(a,3)
+
+Die Goodsteinfolge wird dann definiert als:
+gs(a,1) = gs(a,2) = a
+
+für n>= 2 : gs(a,n+1) = g( gs(a,n), n+1 ) - 1, falls gs(a,n) > 0
+                     gs(a,n+1) = 0                                    sonst
+
+
+Diese Folge wird natürlich zunächst explosionsartig wachsen. Aber man kann
+beweisen:
+
+(1)  Für alle a existiert ein n, so dass gs(a,n) = 0
+
+[...]
+
+
+Genau das bestreite ich. Ich behaupte, dass jeder der zählen kann
+und die Grundrechenarten verstanden hat, weiss, was der Satz bedeutet.
+Und dass man ferner einen Beweis angeben kann, so dass jeder einsieht,
+dass die Aussage richtig ist. Wenn man hingegen die "natürlichen Zahlen"
+für das hält, was durch die Peano Axiome in ihrer PL1 Version charakterisiert
+
+wird, hat man ein Problem: Weder die Aussage noch ihre Negation können
+hergeleitet werden. Man kann natürlich das Axiomensystem durch (1)
+oder durch die Negation von (1) erweitern. Im zweiten Fall hat man ein
+Axiomensystem, aber keines, das die natürlichen Zahlen als Modell hat.
+
+
+Das würde ich herleitbar nennen. Meinetwegen nenne ich das manchmal
+auchbeweisbar.  Aber ich würde mich nicht darauf beschränken lassen.
+
+
+Also um es nochmal auf den Punkt zu bringen: Ich halte (1) für eine wahre
+Aussage.Ich habe extra eine genommen, wo die verwendeten Grundbegriffe klar
+sind.
+Der Beweis dafür ist auch relativ leicht, man kann ihn informal angeben, man
+sieht dabei nicht unmittelbar welche Axiome man braucht. Der Beweis, dass
+sich (1) nicht in den PL1 Peanoaxiomen beweisen l�sstist relativ schwierig,
+er deckt auch auf, welche Axiome man mindestens
+braucht, um den Satz zu beweisen.
+
+[...]
+
+
+Das wird von mir bestritten. Wieso meinst du, dass der Satz vom
+ausgeschlossenenDritten durch Coorssen in einem eigentümlichen Licht erscheint?
+Es gibt womöglich Gründe für eine intuitionistische Logik. Ich sehe nicht,
+was Gödel damit zu tun hat.
+
+
+Unser Etat ist so niedrig. Spenden sind jederzeit willkommen.
+
+
+Tue ich das nicht, deiner Meinung nach?[...]
+
+
+Wobei ich anmerken möchte, daß ich dort eine besonders hegelianische
+Stelle zitiert habe.
+
+Mach's gut
+Gunter

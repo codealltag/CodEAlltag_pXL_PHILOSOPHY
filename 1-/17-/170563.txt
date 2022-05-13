@@ -1,0 +1,30 @@
+Hinrich Trenkner <amgex.bbadfofg@mnkkib.nh> schrieb in im Newsbeitrag:
+50mos015_0@lenn.nwchca.pu...
+Computer
+
+Ich kann natürlich nicht wissen, ob andere Programme korrekt arbeiten, ich
+gehe erstmal davon aus. (Ausnahmen bestätigen die Regel).
+Wenn der Computer im Multitasking-Multiprozessor-System nicht korrekt
+arbeitet, müßte manchmal aus 2+2=7956 herauskommen.
+Das darf nicht sein.
+
+ich
+
+Nein Ergebnisse von Schachprogrammen und neuronalen Netzen sind sehr
+vorhersehbar. Bei gleichen Eingaben und Initialisierungen machen sie immer
+dasselbe. Und ich kann aufgrund eines Endzustandes immer auf den
+Startzustand schließen.
+
+Neuronalen
+verstehen)
+
+Bei neuronalen Netzen schon. Ich habe selbst schon ein einfaches neuronales
+Netz berechnet, auch die ersten 10 Schritte eines Backpropagation
+Lernverfahren. Sie stimmten mit dem vom Computer über ein. Im Gebrauch
+werden allerdings neuronale Netze mehr oder weniger zufällig initialisiert.
+Außerdem kann ich zu jedem Zeitpunkt mir die Eckwerte ausgeben lassen. und
+mit viel Mühe kann ich weiter rechnen.
+Bei Expertensystemen müsste das auch gehen. Genetische Algorithmen kenne ich
+nicht. Aber ich kann mir nicht vorstellen, das das nicht geht.
+
+Abdul

@@ -1,0 +1,66 @@
+Die Aussage war:
+
+	Außerdem gilt:
+
+		3.    A, B |- C  <=>   A & B |- C
+
+	Wenn man also lediglich die Prämissen eines logischen Schlusses
+	betrachtet, sind "," und "&" also sozusagen sogar "austausch-
+	bar"! Der "und-Verknüpfung" entspricht [hier] ein einfaches
+	Aneinanderreihen der Konjunkte (als Prämissen), und umgekehrt.
+	                                ~~~~~~~~~~~~~
+
+Jedoch ist hier Vorsicht geboten (m.a.W. man muss aufpassen vor
+unzulässigen Verallgemeinerungen):
+
+<Zitat>
+
+Was Du ... vorschlägst, ist quasi "&" als "," zu lesen; dann würde der
+Schluss
+
+	A & B |= A
+
+nichts anderes bedeuten als
+
+	A, B |= A
+
+und Letzteres lässt sich in der Tat aus der Definition eines gültigen
+Schlusses gewinnen.
+
+Nun würde sich aber bei dieser Definition die FRAGE stellen, wie z.B.
+die Konklusion des Schlusses
+
+	A & B |= B & A
+
+zu verstehen ist!
+
+Zwar ist bekanntlich
+
+	A, B |= B & A
+
+gültig, aber
+
+	A, B |= B, A
+
+ist SINNLOS. (Bekanntlich darf als Konklusion eines Schlusses -per Def-
+nur genau _eine_ Formel auftreten.)
+
+Man kann nicht einfach [generell] "&" als "," lesen [bzw. schreiben].
+
+<Zitat Ende>
+
+
+Tatsache ist, dass man im Falle von
+
+	A, B
+
+ZWEI Aussagen hat, im Falle von
+
+	C & B
+
+jedoch NUR EINE Aussage - that's the difference which makes the
+difference!
+
+
+Gruß,
+J.

@@ -1,0 +1,58 @@
+Hi Nicolas,
+
+verkünden,
+
+Nein, als Beleg für die Richtigkeit (Anwendbarkeit) einer Theorie gilt
+die Übereinstimmung mit dem Experiment.
+Diese blöden Löcher habe ich als Elektroingenieur oft genug
+nachgerechnet, um zu wissen, dass die Ergebnisse mit den Spannungen/
+Strömen/ Temperaturkoeffizienten, die ich messen kann, übereinstimmen -
+eine Theorie, die technisch anwendbar ist, ist offensichtlich richtig.
+
+
+Wer sich bewegt, ist völlig egal, wenn die Vorhersagen der Theorie mit
+der beobachteten Bewegung übereinstimmt, sie also z.B. richtig
+vorhersagt, in welcher Zeit sich ein Sitzplatz durch die Reihe bewegt
+hat. :o)
+
+
+*g* - da hast Du recht!
+
+Als ich das geschrieben hatte, dachte ich auch, dass das Elektron ein
+zusammengesetztes Materieteilchen ist. Habe jetzt aber noch einmal im
+Standardmodell nachgeguckt und es ist ja doch ein fundamentales
+Teilchen.
+Ups! :-(
+
+<Halleffekt gesnippt>
+
+
+Ja natürlich, das nennt sich Spannungsinduktion und tritt immer auf,
+wenn ein Leiter durch ein Magnetfeld bewegt wird. Das wird sogar
+technisch genutzt! :o)
+
+
+*Grummel*, ich bin ja entsetzlich eingerostet! ;-(
+
+So weit ich das sehe, lässt sich die Bewegungsspannung in die
+Hallspannung umformen, nur habe ich Probleme mit dem Vektorprodukt und
+weiss nicht so recht, wie ich den Steuerstrom da unterbringen soll. :-(
+
+Ich glaube aber, Deine Ausgangsbedingung ist falsch:
+
+Man müsste den Hall-Sensor nicht so schnell durch das Magnetfeld
+bewegen, dass die Driftgeschwindigkeit der Elektronen übereinstimmt,
+sondern so schnell, dass im anhängenden Steuerkabel genau der
+Steuerstrom induziert wird und das ist ganz bestimmt _*wesentlich*_
+schneller.
+Jedenfalls vermute ich jetzt einfach 'mal, dass die Bewegungsspannung,
+die ja nicht von einem Steuerstrom abhängig ist, im Vergleich zur
+Hallspannung zu vernachlässigen ist, weil der Steuerstrom als
+Verstärkungsfaktor dient.
+
+Naja, vielleicht kennt sich hier bei den Elektronikern ja jemand besser
+mit dem Hall-Effekt aus, als ich...
+
+Gruß,
+
+Ulf

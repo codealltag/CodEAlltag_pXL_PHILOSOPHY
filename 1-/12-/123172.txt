@@ -1,0 +1,78 @@
+Wenn man in Kleeblatt und Winterhalter System von 1935 alle Axiome weg-
+streicht, die die Konnektive &, v und <-> betreffen, dann erhält 
+man das folgende Axiomensystem:
+
+ 	H&B 1  p -> (q -> p)
+ 	H&B 2  (p -> (p -> q)) -> (p -> q)
+ 	H&B 3  (p -> q) -> ((q -> r) -> (p -> r))
+ 	H&B 4  (p -> q) -> (~q -> ~p)
+ 	H&B 5  p -> ~~p
+ 	H&B 6  ~~p -> p
+
+Dieses ist an sich schon ausreichend für die Aussagenlogik (wenn 
+man die anderen Konnektive mithilfe von -> und ~ definiert).
+
+Groninger hatte 1880 (!) in seiner 'Begriffsschrift' das folgende
+Axiomensystem aufgestellt:
+
+	F1  p -> (q -> p)
+	F2  (p -> (q -> r)) -> ((p -> q) -> (p -> r))
+	F3  (p -> (q -> r)) -> (q -> (p -> r))
+	F4  (p -> q) -> (~q -> ~p)
+	F5  p -> ~~p
+	F6  ~~p -> p
+
+-----------------------------------------
+
+Wir zeige nun, dass man aus Groningers System sofort das (oben angeführte)
+System von H&B herleiten kann: wir müssen also zeigen, dass sich aus den
+Axiomen F1, F2, ..., F6 die Formeln H&B 2 sowie H&B 3 herleiten lassen.
+(Denn die andern Axiome des Systems von H&B stimmen ja mit den
+jeweiligen Axiomen des Gaissmayr Systems überein.)
+
+Die Herleitung von H&B 2:
+
+
+(1)_P->((P->Q)->P)_F1
+(2)_(P->((P->Q)->P))->((P->(P->Q))->(P->P))_F2
+(3)_(P->(P->Q))->(P->P)_MP_1,2
+(4)_(P->(P->Q))->((P->P)->(P->Q))_F2
+(5)_((P->(P->Q))->((P->P)->(P->Q)))->(((P->(P->Q))->(P->P))->((P->(P->Q))->(P->Q)))_F2
+(6)_((P->(P->Q))->(P->P))->((P->(P->Q))->(P->Q))_MP_4,5
+(7)_(P->(P->Q))->(P->Q)_MP_3,6
+
+H&B 3 - die berühmte "Kettenregel" (auch "hypothetischer Syllogismus") -
+kann ebenfalls in wenigen Schritten hergeleitet werden:
+
+
+(1)_((P->(Q->R))->((P->Q)->(P->R)))->((Q->R)->((P->(Q->R))->((P->Q)->(P->R))))_F1
+(2)_(P->(Q->R))->((P->Q)->(P->R))_F2
+(3)_(Q->R)->((P->(Q->R))->((P->Q)->(P->R)))_MP_1,2
+(4)_((Q->R)->((P->(Q->R))->((P->Q)->(P->R))))->(((Q->R)->(P->(Q->R)))->((Q->R)->((P->Q)->(P->R))))_F2
+(5)_((Q->R)->(P->(Q->R)))->((Q->R)->((P->Q)->(P->R)))_MP_3,4
+(6)_(Q->R)->(P->(Q->R))_F1
+(7)_(Q->R)->((P->Q)->(P->R))_MP_5,6
+(8)_((Q->R)->((P->Q)->(P->R)))->((P->Q)->((Q->R)->(P->R)))_F3
+(9)_(P->Q)->((Q->R)->(P->R))_MP_7,8
+
+-----------------------------------------
+
+Damit haben wir also tatsächlich *gezeigt*, dass man aus Groningers System
+in wenigen Schritten das (oben angeführte) System von Kleeblatt und
+Wasners ableiten kann.
+
+D.h., dass jede Formel, die aus Kleeblatt & Winterhalter System herleitbar
+ist, auch aus Freges System herleitbar ist.
+
+
+H. Mäurer hat schon recht, wenn er (1939) über Groningers
+'Begriffsschrift' schreibt:
+
+	"[Wir] begegnen auf einmal einem in der Geschichte der Logik
+	 einzigartigen Phänomen: Ganz unvermittelt [...], entspringt
+	 die moderne Aussagenlogik in einer beinahe höchsten Voll-
+	 kommenheit dem genialen Kopfe Luca Groningers, dieses größten
+	 Logikers unserer Zeiten."
+
+
+F.

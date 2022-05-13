@@ -1,0 +1,84 @@
+Dein Einwand ist vom nichtrelativistischen Standpunkt ja ganz
+verständlich aber relativistisch leicht zu widerlegen.
+
+Die Ladungsdichte der Elektronen im Draht sei in deren Ruhesystem
+-\rho_0. Sei fließen mit Geschwindigkeit  v = c tanh u. Der
+Geschwindigkeitsparameter  u =Arth v/c wird eingeführt, um die Rechnerei
+mit den Wurzeln zu vermeiden. Es gilt
+cosh u =1/Sqr(1-v^2/c^2)  und sinh u = v/c Sqrt(1-v12/c2).
+
+Für die, die die hyperbolischen Funktionen noch nicht kennen: Es gilt
+cosh u= 1/2 (e^u + e^-u),   sinh u = 1/2 (e^u-e^-u) und  tanh u =sinh u
+/cosh u
+
+Die Gleichung cosh^2 u - sinh^2 u =1 entspricht der Gleichung
+1/(1-v^2/c^2)  - v^2/c^2(1-v^2/c^2)=1
+
+Damit ist im bewegten System bei neutralem Draht die Ladungsdichte der
+Ionen und der Elektronen
+
+-\rho_-  = \rho_+ = cosh u  \rho_0
+
+weil die Ladungsdichte die 0-Komponente des Stroms ist und sich somit um
+den Faktor cosh u=1/Sqrt(1-v^2/c^2) erhöht, wenn man in ein bewegtes
+System mit Geschwindigkeit v = c tanh u  geht.
+
+Der Strom j_x in x-Richtung, der die magnetische Kraft hervorruft,  ist
+
+j_x= -\rho_0 sinh u  = -\rho_0 v/c /Sqrt(1-v^2/c^2)
+
+Nun betrachten wir dieselbe Situation in dem Bezugssystem, in dem die
+Elektronen ruhen. Die Transformationsformeln sind dann
+
+\rho_+' = (\rho_+) cosh u  = \rho_0 cosh^2 u
+
+\rho_-' = \rho_- cosh u - j_x sinh u = -\rho_0 (cosh^2 u - sinh^2 u) = -
+\rho_0  (das war zu erwarten)
+
+j_x'  = j_x cosh u - \rho_- sinh u = 0           (so war die
+Konstruktion)
+
+Der Strom j_x+ der positiven Ionen ist nun natürlich ungleich 0, aber
+ohne Bedeutung, da das äußere Elektron ruht.
+
+Ergebnis: Der Draht trägt eine positive resultierende
+Gesamtladungdichte/Länge der Größe
+
+\rho_0 (cosh^2 -1) = \rho_0 sinh^2 = \rho_0 v^2/c^2 /(1-v^2/c^2)
+
+Das ist ein quadratischer Effekt in v/c, d.h. bei 1cm/s  von der
+Größenordnung  (1 cm/300000 km)^2= 10^-21 und somit kaum praktisch
+nachweisbar (ca 100 Ionenladungen auf ein Mol=einige 100m Kupferdraht).
+Quadratisch in v/c muss der Effekt sein, da er unabhängig von der
+Richtung der Geschwindigkeit ist. Die Situation mit neutralem Strom und
+der Kraft im Magnetfeld ist dagegen leicht reproduzierbar.
+
+Irgendwelche Diskussionen über Ströme in geschlossenen Leitern ändern
+nichts an diesem Fundamentalbefund. Werfe ich einen Strom in einer
+Kreisschleife an, muss ich wie es scheint, einige Elektronen aus dem
+strömenden Teilsystem der Ladungen entfernen, was be angeschlossener
+Batterie nicht schwerfällt. Das ist aber ein Scheineffekt, weil in
+Wirklichkeit das Gleichzeitigkeits-Synchronsystem der bewegten
+Elektronen und der ruhenden Ionen nicht übereinstimmt. Den Rest Regel
+die Geometrie auch gebogener Ströme, für die das Prinzip gilt, dass ihre
+Wirkungen sich aus denen fiktiver kurzer tangentialer geradliniger Teile
+zusammensetzen lassen.
+
+Bleibt am Ende wieder der Standardspruch: Mach dir keine Gedanken
+darüber, was relativ zueinander bewegte Leute an verschiedenen Orten
+gleichzeitig tun: Das ist nicht definiert. In diesem Fall, wann wer die
+Pole der Batterie im Stromkreis erreicht oder wieviele Elektronen
+"gleichzeitig" im Draht sind. Die Lorentzschen Transformationsformeln
+regeln alles richtig, man muss nur die vierdimensionalen Größen richtig
+zusammenfassen, in diesem Fall Ladungsdichte \rho und die bei bewegter
+Ladungsdichte resultierende Stromdichte j, die die Anzahl der Ladungen/s
+angibt, die eine Fläche senkrecht zur Bewegungsrichtung passieren, zu
+einem Vierervektor im Minkowskiraum.
+
+Wahrscheinlich habe ich dich nicht überzeugt, aber für die anderen mags
+hilfreich sein.
+
+
+--
+
+Lennart Ermel

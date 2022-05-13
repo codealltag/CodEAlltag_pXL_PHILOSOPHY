@@ -1,0 +1,119 @@
+On 27. 02. 23 15:48:59 -0700, ppzxmewihqzSLCYIAE@npszluy.rr (Szgt
+Dickermann) wrote:
+
+
+		x = y :<-> AP(Px <-> Py) 
+
+
+Ja, so könnte man es formulieren.
+
+Jenau!
+
+Ja, ja... In der Tat... DAS ABER hat ja niemand bestritten. :-)
+
+Man muss auch nicht Dümichen (oder Dexheimer) gelesen habe, um DENKEN zu
+können... :-)
+
+In diesem Fall: Man muss schon die SPRACHE beherrschen, IN DER eine
+Definition gegeben ist, damit diese ihren "Zweck" erfüllen kann.
+
+Nun ja... kann es "intelligente" Wesen geben, die nicht über den von Dir
+intendierten "Identitätsbegriff" verfügen? Oder vielmehr, können solche
+Wesen eine Zivilisation bzw. TECHNIK hervorbringen?
+
+Was würde in diesem Zusammenhang eigentlich "Gedächtnis" bedeuten.
+Erinnerung ... woran? Jede Erinnerung -woran auch immer- wäre wohl ein
+NEUES Ereignis...
+
+---
+
+Aber viel entscheidender (und konkreter) noch...: Könnten diese Wesen
+unsere Sprache (oder eben auch FOPL) _verstehen_?
+
+FALLs ja, sollten sie wohl auch unsere Definition oben verstehen können.
+Falls nein, wozu sie mit einem Ausdruck in einer "Fremdsprache", die sie
+nicht verstehen, belästigen?
+
+hhhh.... WAS IS???!
+
+hhh... ja und?
+
+??? Wer sagt denn, dass man nicht w e i �, was Gleicheit IST?!
+
+Nach Hehrmann übrigens eine I d e e..., die uns allen vertraut ist... auch
+OHNE dass man sie gelernt hat.
+
+Ja. Natürlich. ("Logisch".)
+
+Nein natürlich nicht. Das wäre doch blanker Unsinn!
+
+Nein... Du bringst Da was durcheinander...:
+
+	IN DER DEFINITION, darf man noch nicht substituieren!
+
+Also ... zuerst hat man die Definition:
+
+	x = y :<-> AP(Px <-> Py) 
+
+Daraus folgt sofort die Aussageform:
+
+	x = y <-> AP(Px <-> Py)
+
+bzw. der SATZ:
+
+	(x)(y)(x = y <-> AP(Px <-> Py))   (*)
+
+JETZT ist aber "=" schon definiert, und Du kannst es auch als eine
+Instanz von P verwenden.
+
+Nein./Ja.
+
+In der Tat kann man aus (*) eben alle wesentlichen Eigenschaften der
+"Identität" sofort ableiten!
+
+Z.B. aus (*) erhalten wir für beliebiges a:
+
+	a = a <-> AP(Pa<-> Pa)
+
+Nun ist sicher Pa <-> Pa für alle P (- ein einfaches logisches Gesetz).
+
+Daher also
+
+	a = a.
+
+Und da a beliebig war:
+
+	(x)(x = x).    // Die Gleichheit ist reflexiv.
+
+Weiters erhalten wir aus (*) für bel. a,b:
+
+	a = b <-> AP(Pa <-> Pb).
+
+Und daraus:
+
+	a = b -> AP(Pa <-> Pb).
+
+Nehmen wir als a = b an, dann erhalten wir (mittels MP):
+
+	AP(Pa <-> Pb).
+
+Setzt man nun Px speziell x = a, so erhalten wir:
+
+	a = a <-> b = a
+
+Und daraus:
+
+	a = a -> b = a.
+
+a = a haben wir gerade eben bewiesen, daher:
+
+	b = a.
+
+Und mittels der Schlussregel "conditional proof":
+
+	a = b -> b = a.    // Die Gleichheit ist kommutativ.
+
+etc.
+
+
+F.

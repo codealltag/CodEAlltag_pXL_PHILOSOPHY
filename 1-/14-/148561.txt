@@ -1,0 +1,107 @@
+Artur Cunze schrieb in Nachricht <9ncko5$l8$13$9@eqne.h-wmkzqh.kej>...
+            { dsm 10.03.2002, 18:05 }
+
+Hallo Artur,
+
+
+Und warum erkärt Du es dann trotzdem immer wieder ?
+
+
+Die UN-Lösbarkeit der MGL-A ist  KEINE  HINREICHENDE  Bedingung für
+die  UN-Lösbarkeit der Fermat-Gleichung, sondern nur eine NOTWENDIGE.
+
+
+Hmm, gar nicht gut  ...  wenn Du nämlich etwas mehr davon verstehen würdest
+und auch verstehen wolltest, dann könnten wie hier wirklich schöne Mathematik
+machen  -  z.B.  Kaprekar-Folgen analysieren  ;-)
+
+
+Und warum postest Du dann anstatt dieser schönen Formel immer wieder Deine nervigen
+Zahlenpyramiden ?
+
+
+Danke für diese Hinweise, aber das wußte ich auch schon seit einiger Zeit  *grins*
+
+
+Hmmm, das zweite folgt doch wohl aus dem ersten, oder etwa nicht ?
+
+
+Nein, das sollte man nicht  - das wäre wieder ein unzulässiger Analogieschluß ...
+
+      [  SNIP ]
+
+
+OK, meinetwegen ...
+
+
+Ja, das habe ich ...
+
+
+Du mußt beweisen, daß   D(i,z^3)  =  z^3 - (z-i)^3  für  KEIN  z  und  KEIN  i
+gleich   i r g e n d  e i n e r   Kubikzahl sein kann.
+Du argumentierst hier aber, daß
+
+    D(i,z^3) + D(j,z^3)  =  3*z^2*(i+j)  -  3*z*(i^2+j^2)  +  (i^3+j^3)
+
+für alle  i, j  niemals gleich  z^3  sein kann ... und das ist etwas anderes.
+
+
+also unabhängig von den von U. Unterberger ca. 1630 (wenn überhaupt) und K. Neumayr um
+1770 gelieferten Beweisen ...
+
+
+Ich lege mich diesbezüglich völlig fest:  Da die klassischen Beweise
+für  n = 3  und  n = 4  zum Beweis für  n > 4  nicht ausreichten und auch
+nicht ausreichen konnten, können dies irgendwelche anderen Beweise
+spezifisch für  n = 3  und  n = 4  ebenfalls nicht.
+Falls Du auf nicht nachvollziehbare Weise  e r k a n n t  hast, daß ein
+Beweis für  3  und für  4  auch für alle  n  >  4  gilt, so ist daß Deine Sache
+  -  ich jedenfalls weiß, daß dem nicht so ist.
+
+
+Weil Du in
+
+
+explizit danach gefragt hast ...
+
+
+OK, das ist Deine Sache ...
+
+
+Ja, mit Zahlen, aber nicht allgemein formelmäßig. Ich bestehe ja nicht auf dem
+D(i,z^n) ; das ist für mich nur ein formales Symbol ...
+
+                                                              also Dx = D(1,5^2)
+
+                                                              also Dy = D(2,5^2)
+
+
+also  Dx + Dy  =  D(1,5^2) + D(2,5^2)  =  (5^2 - 4^2) + (5^2 - 3^2) =
+                         =  2*5^2 - (4^2 + 3^2)    =  2*5^2 - 5^2  =  5^2
+
+
+Wie bitte?  Wie um Himmels willen hast Du denn jetzt eine Entfernung definiert ?
+
+
+Ja, von rechts oben nach links unten ...
+
+
+Nein  -  man folgt nur nicht Deinen Ansichten:
+     "...  Ohne  (3,4,5)  gäbe es auch keine anderen pythagoräischen
+            Tripel ...",
+     "... Wie sollte etwas, was für  n = 2  gilt, für  n = 3  nicht gelten ..."
+
+
+Danke,
+
+
+Aus der Nichtlösbarkeit von   z^3  -  (z-i)^3  =  (z-2*i)^3   mit dem einen
+Freiheitsgrad  i  folgt nicht die Unlösbarkeit  von  z^3  -  y^3  =  x^3  mit den
+beiden Freiheitsgraden  x, y .
+
+
+Letzteres beachten sie zwar, aber auch dann gilt dies nicht ...
+
+Freundliche Größe
+      Michel
+--

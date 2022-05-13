@@ -1,0 +1,46 @@
+Hallo Pasquale,
+
+
+Eigentlich ja, und 0 ist schwarz und 255 grell-was auch-immer.
+
+Schon klar, aber nachstellen kann man immer.
+
+
+Du meinst wegen dem Overlap der Empfindlichkeitskurven? Na, wenn Rot rot
+ist, ist Rot doch im allgemeinen  rot ohne Gelb-Einmischung.
+
+
+Aha!
+
+
+Gebongt
+
+
+Hier hakt es. Negatives Rot oder falscher Nullwert?
+
+
+Das erreicht man oft mit Wegnahme der Helligkeit bei ansonsten Farbcode 00
+FF FF, während 00 CC CC schon "Dreck" ergibt. Lange kann man das Spielchen
+natürlich nicht treiben, und andere Farben sehen doch recht merkwürdig aus
+:-)
+
+
+hm, ursprünglich ging es darum, ob ein 4."Farbempfänger" neue Farben bringt.
+
+an
+
+War ein Praktikumsversuch zur Physiologie: Vermessung der Rot-, Grün-, Blau
+sowie Helligkeitsempfindlichkeit des menschlichen Auges.
+
+
+Wenn du lange eine einfarbige Fläche anstarrst, sollst du angeblich nach
+einiger Zeit gehirnmäßig nur Grau sehen. Mit Pastellfarben klappt das auch.
+Nochmal: Farben entstehen im Gehirn aufgrund dessen, was die Lichtempfänger
+an Impulsen abliefern. (Ich schreibe mal neutral um nicht nur auf
+Primärfarben beschränkt zu sein.) Und interessant wären die Empfindungen,
+wenn jetzt noch ein IR- oder UV-Rezeptor dazukäme (ein röteres Rot? ein
+was-auch-immer-Indigo? Oder die Palette Rot nach Indigo, nur feiner
+aufgeteilt? )
+
+so long,
+uja

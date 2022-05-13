@@ -1,0 +1,54 @@
+Mir fällt auf, daß hier andauernd "Arithmetik" unter "Logik"
+subsumiert wird.
+Das kann ich nicht ganz nachvollziehen.
+Die Rechengesetze brauchen erst einmal einen Haufen
+Grundobjekte, auf denen Operationen definiert werden.
+
+Für Pascal scheinen diese Grundobjekte (Axiome, Definitionen)
+bereits Teil der (seiner) "Weltenlogik" zu sein.
+
+So kann man in einem "Körper der Charakteristik 2" rechnen, in dem
+also für 1 (definitionsgemäß das Neutrale bzg. der Multiplikation)
+und 0 (definitionsgemäß das Neutrale bzg. der Addition) der Zusammenhang
+1+1=0 gilt.
+Weiter ist 2 als 1+1 definiert, weshalb 1 + 2 = 1 - 2 mit
+1 + 0 = 1 - 0 gleichbedeutend ist, 1+0=1 folgt, weil 0 neutral ist,
+1-0 ist als 1+(-0) definiert und man kann aus den Körper- Axiomen und
+Definitionen folgern daß auch 1-0=1 gilt ... also hier 1 + 2 = 1 - 2
+wahr ist.
+[(-x) ist das Inverse von x bzgl. der Addition, aber hier sieht man
+schon, daß das explizite Herleiten eine nicht so spannende Sache
+ist]
+Somit folgt selbst aus den Rechengesetzen und Axiomen für Körper
+nicht logisch daß 1 + 2 ungleich 1 - 2 ist.
+
+Das als Exempel, daß die Logik, wie ich sie verstehe weit weniger
+als Arithmetik ist, wenngleich sie grundlegender Baustein davon
+ist. Je nachdem, auf welchen "Input" in Form von Definitionen
+und Axiomen man den "Logik-Apparat" loslässt können ganz verschiedene
+Ergebnisse herauskommen (hier etwa "1+1=0" in Charakteristik 2 aber
+"1+1 <> 0" sonst).
+Nur ist dieser "Input" keine Logik in meinem Sinne.
+
+Patricks "Weltenlogik" ist anscheinend etwas fundamental anderes, als
+was ich (und vermutlich auch Du) unter Logik verstehe(n).
+Der Schlüssel zu Seinen Ausführungen ist wohl die grundlegende
+Philosophie dieser Weltenlogik zu verstehen.
+Leider müsste zumindest ich dafür anscheinend einige Semester
+"Patricks Welt" belegen, wofür ich keine Zeit habe (obwohl es
+vielleicht spannend wäre).
+Für ihn ist seine (vermutlich in Jahrelanger Arbeit entwickelte)
+private Begriffswelt offenbar klar, weswegen er auch ungeduldig
+wird, wenn man nach einer Woche immer noch nicht "einfachste
+Sachen" versteht oder seine Ausarbeitungen für mich genauso gut
+Chinesisch verfasst sein könnten.
+
+Also, zumindest Christentum hat wohl hier nicht wirklichen
+Bezug, oder? (follow up)
+
+Gruß,
+  Norman
+
+-- 
+Dr. Norman Jehnichen,
+http://pwx.pvcum-vpxhyf.eg  oder http://vfznn-skgmbb.xw

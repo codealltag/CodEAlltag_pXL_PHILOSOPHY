@@ -1,0 +1,66 @@
+Dennis Gerbl in 0g9mw272.117541776@idus.nqe.wua.fg :
+
+
+Mich interessieren reelle Zahlen nur insofern sie einen Bezug zu
+einer Anschauung haben und für die Realität (z.B. Vermessung,
+Buchhaltung, Physik) relevant sind. Die idealisierte Zahlengerade
+ist die Basis der reellen Zahlen, und jede "axiomatische Begründung"
+von "reellen Zahlen", die zu Widersprüchen mit dieser Basis führt,
+ist sowieso unhaltbar.
+
+Ob wir den Begriff "Dimension" für kompliziert erachten oder nicht,
+ändert nichts daran, dass die Zahlengerade ein 1-dimensionales
+Kontinuum darstellt. Strecken bzw. (echte) Intervalle sind dann
+auch 1-dimensional, während Punkte 0-dimensional sind (d.h. Punkte
+haben keine Ausdehnung).
+
+Sofern man nicht bestreitet, dass Punkte ausdehnungslos sind, gilt
+auch immer, dass man durch Vereinigung von Punkten niemals ein
+(echtes) Intervall erzeugen kann. Der Glaube, Intervalle würden sich
+aus Punkten zusammensetzen, beruht auf einer Kategorienvermengung.
+
+
+Ich habe "überabzählbar" nur deshalb vermieden, weil meine
+Argumentation darauf hinausläuft, im Begriff "überabzählbar"
+folgende Komponenten zu unterscheiden:
+
+  1. Benennbarkeit bzw. Abzählbarkeit
+  2. Mächtigkeit
+  3. Unendlichkeit
+
+Als Verhältnis zwischen den reellen und den rationalen Zahlen ergibt
+sich dann:
+
+ - rationale Zahlen abzählbar, reelle Zahlen hingegen nicht
+   (wegen der nicht benennbaren irrationalen Zahlen)
+ - unterschiedliche Mächtigkeit (wegen fehlender Bijektion)
+ - gleiche Unendlichkeit
+
+Wenn wir den Begriff "überabzählbar" für eine reductio ad absurdum
+verwenden, dann lautet diese so:
+
+   Wenn es überabzählbar viele reelle Zahlen gibt, dann folgt als
+   logische Konsequenz die Existenz überabzählbar vieler disjunkter
+   Intervalle, in denen sich wiederum je abzählbar unendlich viele
+   rationale Zahlen befinden. Da das Produkt von "abzählbar"
+   und "überabzählbar" als "überabzählbar" gilt, folgt die
+   Überabzählbarkeit der rationalen Zahlen.
+
+Dein Versuch eines Auswegs aus diesem Dilemma:
+
+
+Das kann nicht richtig sein, unabhängig davon, ob es als erwiesen
+gilt. Denn wie soll man Intervalle, deren Start- und Endpunkte
+beide irrational (und damit nicht-benennbar) sind, abzählen?
+Jedes Intervall lässt sich wiederum in beliebig viele Intervalle
+aufteilen, wobei wiederum Start- noch Endpunkte möglich sind, die
+in keiner abzählbaren Folge enthalten sein können.
+
+Es stellt sich nur die Frage, ob die disjunkten Intervalle die
+Mächtigkeit von |R oder von |R^2 (oder etwas dazwischen) haben.
+Die Menge aller (d.h. nicht nur der disjunkten) Intervalle hat die
+Mächtigkeit von |R^2, denn zur Darstellung der Intervalle werden
+je zwei reelle Zahlen benötigt.
+
+Gruss,
+Orlando

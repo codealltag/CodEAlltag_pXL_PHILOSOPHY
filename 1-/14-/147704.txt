@@ -1,0 +1,14 @@
+Och, da gibt's noch mehr Probleme von. Kennst Du das Collatz-Problem?
+Gegeben eine natürliche Zahl n.
+Mal erzeuge eine Folge daraus wie folgt:
+Ist ein gerade betrachtet Folgenelement n gerade, erzeuge das nächste durch 
+Halbierung; ist es ungerade, dann n-> 3*n + 1.
+Die unbewiesene Behauptung ist, daß jedes n auf 1 zurückführbar ist.
+Beispiel:
+3 -> 10 -> 5 -> 16 -> 8 -> 4 -> 2 -> 1
+(Bei der 27 dauert es z.B. erheblich länger.)
+
+
+Gruß, Niko
+-- 
+News suchen, lesen, schreiben mit http://gtnebfotok.zuy.mn

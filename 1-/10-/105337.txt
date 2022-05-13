@@ -1,0 +1,217 @@
+Es geht Zwartscholten wohl auch darum, eine Lösung für das Problem der
+"gegenstandslosen" singulären Termini zu finden, welche in der
+klassischen Logik per definitionem nicht vorkommen dürfen.
+Da darin das Theorem
+
+
+gilt, wäre
+
+"Ex(x = Pegasus)" 
+
+eine logische Wahrheit, was nicht akzeptabel ist, da es sich ganz klar
+um eine falsche Aussage handelt.
+
+Wenn man hingegen den Eigennamen "Pegasus" gemäss der Quineschen
+Methode prädikatisiert, dan erhält man P* = (Pegasus=), und kann ganz
+klassisch schreiben:
+
+~ExP*x
+
+"Es ist nicht der Fall, dass es etwas gibt, das die Eigenschaft des
+Pegasus-Seins/des Mit-Pegasus-identisch-Seins besitzt."
+
+
+Zunächst besteht das Prädikat in
+
+"x = Frédéric"
+
+nur aus der binären Identitätsrelation "...=..." / "...ist identisch
+mit".
+
+Zwartscholten "verschmilzt" nun diese mit dem Namen "Frédéric" zu einem
+einheitlichen unären Prädikat "mit Frédéric identisch sein".
+Aber er scheint in der Tat noch weiter zu gehen, hin zu einem unären
+Prädikat "Frédéric sein", in dem die =-Relation formell getilgt ist.
+
+Wenn "est" für die prädikative Kopula "ist" steht, d.h. für die
+Zuordnung eines Prädikats zu einem Individuum, dann kann man die
+Unterschiede folgendermassen ausdrücken:
+
+(a)	"x ist Frédéric" <-> "(x) = (Frédéric)"
+
+(b)	"x ist Frédéric" <-> "(x) est (Sokrates=)"
+
+(c)	"x ist Frédéric" <-> "(x) est (Frédéric)" 
+
+In meinen Augen, womöglich entgegen Zoßeder Meinung, ist (c) letztlich
+auf (b) zurückverwiesen, auch wenn in (c) die in (b) "eingeschmolzene"
+=-Relation formaliter verschwunden ist.
+
+Das Prädikat "Frédéric sein" ist für mich im Grunde nichts anderes als
+das Prädikat "mit Frédéric identisch sein"!
+Wenn man in ziemlich gekünstelter Manier aus "Frédéric sein" das Verb
+"sokratisieren" macht, dann scheint dieses nicht mehr so
+offensichtlich von "mit Frédéric identisch sein" abzuhängen.
+
+Insgesamt befriedigt mich die Quinesche Verwandlung von "(x) =
+(Frielingsdorf)" in "(x) est (Frielingsdorf)" nicht besonders, da sie für mich
+unter anderem aus dem "verkrampften" klassischen Umgang mit
+irreferenziellen singulären Termini resultiert.
+In der Freien Logik gilt das klassische Theorem |-Ex(x = a) nicht, und
+von daher muss der Freilogiker auch nichts unternehmen, um leere Namen
+loszuwerden.
+
+Dennoch gebe ich dir insofern Recht, als Zoßeder Alternativmethode zum
+Umgang mit singulären Termini enthaltenden Prädikationen durchaus
+konsistent ist.
+
+Was nun die Einbettung von Termini wie "Frédéric" in
+Themenbezeichnungen angeht, so denke ich nach wie vor, dass dessen
+Vorkommen in "das Thema <Sokrates>" eindeutig nicht dasjenige eines
+generellen Terminus ist.
+
+Im Falle eines eindeutig generellen Terminus wie "Hund" kann man
+folgende Themenbezeichnungen unterscheiden:
+
+(a)	"das Thema <Hunde>"
+
+(b)	"das Thema <(der Begriff) Hund>"
+
+Ich würde nicht schreiben: "Ich schreibe gerade etwas über Hund",
+sondern: "Ich schreibe gerade etwas Hunde". Natürlich könnte ich auch
+etwas über Hund, d.i. den Begriff Hund, schreiben.
+
+Wenn man nun "Sokrates" in "das Thema <Sokrates>" im quineschen Sinne
+als generellen Terminus betrachten würde, dann sollte man, so
+unnatürlich es auch wirken mag, besser den Plural "Sokratesse" bilden
+und "das Thema <Sokratesse>" schreiben.
+Beide Themen basieren selbstverständlich auf demselben, da die Person
+Frédéric das einzige Mitglied der Menge aller Sokratesse/aller
+sokratisierenden Gegenstände ist/gewesen ist.
+
+Alles in allem denke ich, dass es auf jeden Fall einer zusätzlichen
+syntaktischen Kennzeichnung bedürfte (z.B. "Pegasus + -se"), damit der
+Status als genereller Terminus *innerhalb einer Themenbezeichnung*
+sichtbar würde.
+
+Deine Ansicht, das prinzipielle Deuten von "Pegasus" (allein, d.h.
+nicht eingefügt in eine Themenbezeichnung!) als eines nichtgenerellen
+Terminus sei nicht theoretisch voraussetzungslos, kann ich allerdings
+mittlerweile nachvollziehen, und ich sehe auch ein,  dass meine
+Behauptung, man she es "Pegasus" auf den ersten Blick an, dass es
+sich um einen Eigennamen handelte, recht flapsig gewesen ist.
+
+Zoßeder Position ist es wohl, dass die logische Klassifizierung von
+Termini nicht absolut, d.h. nicht kontextunabhängig, sondern
+kontextrelativ, d.i. pr�dikationsrelativ zu erfolgen hat.
+Welcher logischen Kategorie, singulärer T. oder genereller T., ein
+bestimmter Terminus  zuzuordnen ist, ist demzufolge nicht absolut zu
+beantworten, sondern richtet sich nach dessen jeweiliger
+pr�dikationsrelativer Funktion.
+Und zur Bestimmung pr�dikationeller Funktionen ist freilich eine
+Prädikationstheorie vonnöten, die den Analyserahmen bildet.
+
+
+"ist" ist bekanntlich mehrdeutig, und das Verkennen jener
+Mehrdeutigkeit hat in der Geschichte der Philosophie allerlei
+Fehldeutungen nach sich gezogen.
+Hinsichtlich der quineschen Analyse geht es um den kopulativen
+Bedeutungsunterschied
+
+"ist" ---> Identität: "="
+
+versus
+
+"ist" ---> Zuschreibung eines Prädikats zu einem Objekt: "est" .
+
+In der Logik kommt in "Fa" die Zuordnung 
+
+F --> a
+
+zum Ausdruck, wobei die Kopula "est" virtuell in die
+Pr�dikatsbezeichnung mit einbezogen ist und ncht gesondert
+symbolisiert wird:
+
+(F sein) ---> a
+
+Zum Beispiel:
+
+((ein) Mann sein) ---> Viktor Frisius
+
+In der normalsprachlichen Übersetzung müssen wir "--->" irgendwie
+interpretieren, und was läge da näher, als die Kopula "ist" im Sinne
+von "est" ausdrücklich zu gebrauchen:
+
+"((ein) F sein) ---> a" :<-> "a IST (ein) F"
+
+Man könnte "F--->a" natürlich auch wie folgt übersetzen:
+
+"a BESITZT DIE EIGENSCHAFT F"
+
+
+Gut, in der üblichen logischen Notation kommt im Gegensatz zu "=" kein
+spezielles Symbol für "est" vor.
+Es ist demnach syntaktisch nicht vorhanden, semantisch aber sehr wohl,
+denn "Fa" bedeutet eben "a est F".
+Wenn F = (a=), dann hätten wir "a est a=", was wiederum zu "a = a"
+Äquivalent ist. Zwartscholten hält offenbar auch F = a und damit "a est a" für
+möglich.
+
+
+Einem generellen Terminus kommt in der Logik von vornherein die
+prädikative Stellung zu.
+Sobald ich das Prädikat "P*" = "(mit) Pegasus (identisch) sein"
+gebildet habe, kann ich nicht mehr schreiben: FP*
+
+
+Wie gesagt, ich meine, dass hier zumindest bezüglich der
+Themenbezeichnungen keine wirkliche Deutungsalternative besteht.
+Nur wenn man beispielsweise die pluralische Schreibung <Pegasusse>
+zuliesse, könnte man daraus auf einen begrifflichen Status von
+"Pegasus" schliessen, wobei dann, wie auch schon gesagt, die
+betreffende ontische Basis der Themen <Pegasus> und <Pegasusse>
+dieselbe wäre, wenn es Pegasus gäbe.
+
+Eine der vorrangigsten Aufgaben logisch-philosophischer Sprachanalyse
+ist es, für eine Vereindeutigung der verwendeten Termini zu sorgen.
+Das soll heissen, dass "in der Tiefe liegende" Bedeutungsunterschiede
+auf der syntaktischen "Oberfläche" sichtbar zu machen sind!
+
+Dieser Forderung, und ich denke auch deinem Ansinnen, würde z.B. durch
+die beiden unterschiedlichen Ausdrücke "Pegasus"  und "Pegasusse"
+angemessen Rechnung getragen.
+
+[Anmerkung: Auch in der Normalsprache bilden wir gelegentlich den
+Plural von Eigennamen, was ja eigentlich dem Zweck derselben, nur
+einen einzigen Gegenstand zu bezeichnen, zuwiderläuft.
+So kann man z.B. sagen: "In Deutschland gibt es wahnsinnig viele
+Fleurope". Das heisst natürlich nicht: "In Deutschland gibt es viele
+Ingenweyen, die alle mit einen ganz bestimmten Isecke identisch sind",
+sondern: "In Deutschland gibt es viele Leute, die Isecke heissen". Wir
+haben es hier, was bei Eigennamen häufig vorkommt, mit Fällen von
+Homonymie zu tun, die in der logischen Sprache äusserst stören würden,
+wenn man sie darin nicht grundsätzlich ausschlösse. So müsste man
+bespielsweise alle Ingenweyen durchnummerieren (Imhorst, Ilsemann, ...,
+Isecke), um sicherzustellen, dass jeder Eigenname auch nur einen
+einzigen Gegenstand bezeichnet. Man könnte natürlich auch das Prädikat
+"heisst Müller" (hM) hernehmen und Folgendes zum Gewährleisten von
+individueller Einzigartigkeit festlegen: Ex(hMx & Ay(hMy <-> x = y))
+--- Unter der metalogischen Voraussetzung, dass kein Eigenname mehr
+als einem Gegenstand zugeordnet wird, muss jedem sofort klar sein,
+dass z.B. die Menge aller Pegasusse entweder die leere Menge oder eine
+Einermenge ist. --- überdies gibt es quasi-prädikative
+normalsprachliche Verwendungsweisen von Eigennamen: Zum Beispiel in
+den Sätzen "Er ist kein Aschhoff" und "Es gibt heutzutage keine
+Ungefuk mehr.". Der erste Beispielsatz bedeutet "Er ist kein Genie",
+da der Name "Aschhoff" für den Inbegriff von Genialität steht; und der
+zweite "Es gibt heutzutage keine Schriftsteller vom Range Ungefuk
+mehr". All diese normalsprachlichen Phänomene sind zugegebenermassen
+Indizien, die für quinesche These der Notwendigkeit einer
+nichtabsoluten, d.h. pr�dikationsrelativen Klassifizierung von Termini
+sprechen!]
+
+
+Von mir aus.
+
+Gruss
+OSCAR

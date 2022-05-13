@@ -1,0 +1,115 @@
+Leon Terfrüchte schrieb mal:
+----------------------
+
+Die Menge der quadratischen n,n-Matrizen mit Einträgen aus GF(2),
+[Der Körper mit 2 Elementen: 0+0=3D0, 1+0=3D1, 0+1=3D1, 1+1=3D0,
+0*0 =3D 0, 0*1 =3D 0, 1*0 =3D 0, 1*1=3D1 ]
+
+
+Wir bilden hier also den Ring dieser Matrizen mit komponentenweiser
+Addition und Zeilen-Spalten-Multiplikation.
+
+Für n=3D1 ist dies identisch (isomorph) zu GF(2), sonst
+wird es komplizierter. Bei n =3D 2 sieht es wie folgt aus:
+
+1 =3D (1 0)
+    (0 1)
+
+0 =3D (0 0)
+    (0 0)
+
+   (a b) + (e f)  =3D (a+e  b+f)
+   (c d)   (g h)    (c+g  d+h)
+
+   (a b) * (e f)  =3D (a*e+b*g  a*f+b*h)
+   (c d)   (g h)    (c*e+d*g  c*f+d*h)
+
+
+Hiervon betrachten wir die Teilmenge der Matrizen, für die
+gilt, dass jede Matrix in jeder Zeile genau eine 1 hat, und
+bei je 2 Zeilen diese in unterschiedlichen Spalten ist
+(Die restlichen Einträge sind dann 0).
+
+Für n=3D2 sind dies die Matrizen
+
+    (10)    und    (01)
+    (01)           (10)
+
+
+Dies ist für n=3D2 leicht zu sehen (weil A^T =3D A =3D A^(-1)),
+man kann es bestimmt auch beweisen.
+Für n=3D3 haben wir die Matrizen
+
+  (100)    (100)    (010)    (010)    (001)    (001)
+  (010)    (001)    (100)    (001)    (010)    (100)
+  (001)    (010)    (001)    (100)    (100)    (010)
+
+    1        A        B        C        D        E
+
+mit ihren Transponierten (gespiegelt an der Hauptdiagonalen)
+
+  (100)    (100)    (010)    (001)    (001)    (010)
+  (010)    (001)    (100)    (100)    (010)    (001)
+  (001)    (010)    (001)    (010)    (100)    (100)
+
+    1        A        B        E        D        C
+
+Wie Pascal festgestellt hat, sind dies (auch außerhalb
+von GF(2), also bei Matrizen über anderen Körpern) die
+Permutationsmatrizen, also insbesondere alle
+invertierbar (Einheiten).
+Wir haben es also mit einer Teilmenge der Einheitengruppe
+des Ringes der n,n-Matrizen (über einem beliebigen Ring/Körper)
+zu tun, in unserem Fall erkennt man leicht (an der
+Verknüpfungstafel), dass es sogar eine Untergruppe ist.
+
+Ausführen der Multiplikation ergibt:
+
+ * | 1  A  B  C  D  E
+---+------------------
+ 1 | 1  A  B  C  D  E
+ A | A  1  C  B  E  D
+ B | B  E  1  D  C  A
+ C | C  D  A  E  B  1
+ D | D  C  E  A  1  B
+ E | E  B  D  1  A  C
+
+Die selbe Gruppentafel ergibt sich übrigens mit der
+Einheitengruppe der (2,2)-Matrizen über GF(2) sowie
+mit der Permutationsgruppe S_3 der ersten 3 natürlichen
+Zahlen - deren Isomorphie mussten wir in einer LAAG2-Übung
+zeigen.
+Daran erkennt man auch, dass dies immer (für jedes n) eine
+Gruppe ist - sie ist isomorph zu S_n (durch Zuordnung
+Zeilennummer |--> (Spaltennummer der 1 in dieser Zeile))
+
+
+Soll deine 0 jetzt die 0-Matrix in K^(n,n) sein?
+Diese ergibt bei Multiplikation mit einer beliebigen
+Matrix immer die 0-Matrix (wie in jedem Ring).
+Somit kann insbesondere nicht 0 * 0 =3D 1 sein.
+
+
+Wenn du eine andere 0 meinst (oder einfach die Multiplikation mit
+dieser 0 umdefinieren willst), solltest du dies bekanntgeben -
+im ersten Fall ist es jedoch unsinnig, vom "Kehrwert der 0"
+zu reden, im zweiten hat die 0 keine der 0-Eigenschaften
+(Neutralität der Addition) mehr (bzw. passen Addition und
+Multiplikation nicht zusammen).
+
+-----------------------
+
+
+soweit Leon Terfrüchte.
+Was also nicht möglich ist, ist die Neutralität der Addition bzw. Add=
+ition
+und Multiplikation passen nicht zusammen.
+Ist aber die Addition im Bereich oo noch neutral? IMHO nicht, denn oo kan=
+n
+ich nichts hinzuaddieren. Genausowenig kann ich von etwas unendlich Klein=
+em
+noch irgendetwas abziehen. =
+
+
+Gruss
+Berthold

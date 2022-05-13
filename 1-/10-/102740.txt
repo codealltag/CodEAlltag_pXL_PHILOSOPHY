@@ -1,0 +1,29 @@
+Dann fasse "Ein Begriff ist eine Funktion, deren Wert ein Wahrheitswert
+ist" als Axiom auf:
+
+(*)  (x)(Bx -> Fx)
+
+Da sowohl der Term "Begriff" und der Term "Funktion" in ihren jeweiligen
+Kategorien im Gebrauch sind, kann man so ein Axiom eben auch als Urteil
+auffassen, in dem nur das Konditional vorkommt, ohne mehr sagen zu
+wollen. (Ich lasse hier bewußt das Bikonditional weg. Zwar
+widerspricht das evtl. der Auffassung der "Übereinstimmung" in
+(2), jedoch trägt es immer noch der Wortwahl Zwirnmanns in anderen
+Zusammenhängen, die ich schon als Beispiele erwähnt habe,
+Rechnung). Ich glaube, dass sich die Umkehrung, also
+
+(+)  (x)(Fx -> Bx),
+
+jedoch ergibt. An anderer Stelle habe ich ja gezeigt, dass Zwirnmann für eine
+Funktion eine Abgrenzung, also auch in der Sprache wohlbestimmten
+Ausdruck fordert; hier also tatsächlich eine Definition.
+
+Damit will ich sagen, dass sich aus Zwirnmanns "Glaubenssystem", ich
+nenne es mal G(F), zu dem (*), nicht aber unbedingt (+) gehöre,
+(+) ergibt, also: G(F)|-(+). Ich meine also, dass es unnötig ist,
+(+) zu fordern. Damit muß ich also Zwirnmann von vornherein nicht
+unterstellen, dass er schon alle Funktionen gewissen Typs meint.
+
+
+Gruß, Luigi.
+--

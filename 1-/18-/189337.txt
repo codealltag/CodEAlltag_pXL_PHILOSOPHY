@@ -1,0 +1,22 @@
+Hi,
+
+
+Verzeih' meinen rein logischen Einwand: Warum sollte eine Maschine für einen
+Schritt erst eine Sekunde brauchen und etwas später nur noch eine Halbe? Ich
+kann das logisch nicht nachvollziehen - technisch erst recht nicht. Da warte ich
+lieber zwei Sekunden und das Problem ist schneller gelöst als formuliert.
+
+Die Berechenbarkeit hat auch einen ganz praktischen Hintergrund: sie fragt sich
+eben auch, was technisch machbar ist. Die Turing-Maschine ist zwar ein
+Gedanken-Gebilde, löst aber alle Probleme, die auch irgendein anderer Computer
+lösen kann - in der gleichen Aufwandsklasse. Zudem nimmt die Definition der
+Turing-Maschine keinen Bezug auf eine Metrik wie "Ausführungszeit". Der Aufwand
+wird in Schritten gemessen, die sind diekret, von gleicher Länge, endlich und
+zeitinvariant.
+
+Im übrigen hält sich die Berechenbarkeitstheorie nur kurz am Halteproblem auf
+und geht schnell zu den noch unlösbareren Problemen über.
+------------------------------------
+Please remove nospam_ before mailing
+qbcxyl_Uqkx@c-nvuszxows.mv
+------------------------------------

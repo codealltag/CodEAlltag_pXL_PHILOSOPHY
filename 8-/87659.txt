@@ -1,0 +1,52 @@
+Hallo, Kasimir
+
+ich gehe hier nur auf den aus meiner Sicht *zentralen* Punkt ein, da
+ich auf deine sonstigen Bemerkungen schon in meinen vorherigen
+Beiträgen *ausführlich* geantwort habe - auch auf deine unsinnige
+Forderung der "absoluten Sicherheit" von Aussagen über die Realtität
+und eine Erläuterung dessen, was ich überhaupt unter "Realität"
+verstehe, und zwar über die (Pseudo-)Prädikate "x ist real" oder "x
+existiert". Bitte *lies* meine Beiträge  aufmerksam. Und mit
+Verlaub: Meine Lust, mit Leuten zu diskutieren, die meinen, Logik als
+"Spiel" abtun zu können, weil ihr Gestammel damit nicht kompatibel
+ist, hält sich in Grenzen.
+
+
+Sag' 'mal, bist du so inkompetent in Bezug auf Spraphilosophie oder
+tust du bloß so? Du fällst in regelmäßigen Abständen gerne über
+Leute her, die mit phil. Themen nicht so vertraut sind, und plusterst
+dich auf, sie verstünden nichts von Sprachphil. oder
+Wissenschafsttheorie. Wenn man allerdings bei dir nachbohrt, erhält
+man auch nur heiße Luft, deshalb ein winzige aber entscheidende
+logisch-semantisch Bemerkung:
+
+Nach (Teil-)Definition eines Ichthyosaurus gelten - wie Grasegger sie
+nennt - die "unscharfen" (darauf gehe ich jetzt nicht
+ein) semantischen Regeln:
+
+(1) Ax ( I(x) -> Länge(x, 2 m) )
+(2) Ax ( I(x) -> Gewicht(x, 90 kg))
+
+wobei wie üblich 'I' das Prädikat 'x ist ein Ichtyhosaurier'
+abkürzt. (Beachte meine Bemerkungen über die zeitlose Interpretation
+der Quantoren). Nehmen wir nun an, die Extension von 'I' wäre
+nichtleer, d.h. die Aussage 'Ex I(x)' gilt, und bezeichnen wir mit 'a'
+ein Element der Extension von 'I', d.h. es gilt I(a). (MaW: 'a'
+bezeichnet eine Entität, die unter den Begriff 'I' fällt, oder: a ist
+ein Ichthyosaurus.).  Dann gilt nach (1) (quantorenlogischen
+Axiom) und Modus ponens Länge(a, 2m), d.h. a ist 2 m lang. Analog folgt
+aus (2) Gewicht(a, 90 kg).
+
+Ergo: Wenn es überhaupt Ichtyhosaurier gibt/gab, dann haben sie per
+Definition die obigen physischen Eigenschaften. Da ein "Konstukt" (was
+immer das ist) diese Eigenschaften nicht haben kann, kann sich ein
+Eigenname wie 'a', für den 'I(a)' wahr ist, nicht auf ein Konstrukt
+beziehen. Nur /das/ habe ich in diesem (Teil-)Argument behauptet. Und
+da du meine Bemerkungen über das, was nach meinem Verständnis "real"
+ist, in den vorherigen Beiträgen anscheinend überlesen hast, eine
+kurze und knappe Definition:
+
+Realität := { x | x existiert.}
+
+
+Wolfram

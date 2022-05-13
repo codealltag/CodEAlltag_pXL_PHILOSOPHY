@@ -1,0 +1,27 @@
+Nein! Nur weil du _eine_ Null vor dir siehst, teilst du immernoch durch den
+_Wert_ "Null". Und das geht nun mal nicht.
+Wenn du 0 Modellautos in einem Monat zusammenbauen sollst, aber nur 0
+schaffst, hast du dann nur auf der faulen Haut gelegen und solltest gefeuert
+werden? Oder hast du dein Soll erfüllt und verdienst deinen Lohn auch? Im
+Grunde hast du ja nur die Hälfte deiner Arbeit erledigt. Also gibts 'nen
+Rüffel und nur den halben Lohn? Und wie hoch ist dein Lohn/Auto am Ende?
+(1) n*0=0
+(1)*2=(2) 2*n*0=2*0
+(2) 2n*0=0
+(1)/0=(3) n=0/0
+(2)/0=(4) 2n=0/0
+(3) und (4) gleichsetzen=(5) n=2n
+
+n ist in diesem Fall allerdings keine Unbekannte, die zuberechnen wäre
+(würde also 0 sein). Sondern eine Variable. Eine beliebige reele (oder
+hyper-reele) Zahl. Du kannst für n 1 einsetzten, du kannst 7, PI oder
+{3,9,27,81..,3^n} einsetzen und kömmst immer auf das Ergebnis, daß diese
+Zahl gleichzeitig ihr doppeltes ist. Wobei die 2 natürlich willkürlich
+gewählt ist. Du kannst dort auch 11 einsetzen, dann erhälst du als
+Ergebniss, daß _jede_ Zahl ihr elffaches ist.
+--
+Roberto Erle (zfber256@t-zfwmqg.at)
+-----------------------------------------------------------
+A Member of the ---> ANDREA GEORG SCHMELING <--- Fanclub Germany
+      since      http://wdx.hpfk.xn/gpi-wcq      1/99
+-----------------------------------------------------------

@@ -1,0 +1,132 @@
+In de.sci.physik Lothar D. Z. <n@d.yab.yn> wrote:
+...
+# In der Praxis sind die geglaubten Theorien meist so fest in
+# Hirn und Psyche der Experimentatoren verankert, dass von der
+# Erwartung abweichende Messergebnisse nur als störende Effekte
+# wahrgenommen werden.
+
+Das mag in bestimmten Fällen zutreffen, ist aber als Verallgemeinerung
+mit "meist" unzulässig. Zudem gibt es jede Menge Gegenbeispiele. Z.B.
+Messungen der Lichtgeschwindigkeit durch die Jahrhunderte, von denen
+neuere manchmal auch innerhalb der Fehlergrenzen keine Übereinstimmung
+zeigen.
+
+# Zudem müssen sich Experimentalphysiker vor Spott und Schlimmerem
+# fürchten, wenn sie darauf bestehen, ihre Experimente seien
+# korrekt durchgeführt worden und würden wesentliche Teile der
+# offiziellen Theorien widerlegen.
+
+Es stimmt, sie lachten über Galilei. Sie lachten aber auch über
+die Kasper mit der kalten Fusion. Und heute noch würde ich über
+PM Konstrukture lachen.
+
+# In diesem Lichte ist auch die hier öfters propagierte These
+# unrichtig, Experimentalphysiker hoffen und streben danach,
+# als richtig geltende Theorien zu widerlegen, um so zu Ruhm
+# und finanziellen Mitteln zu gelangen.
+
+Wenn Deine Ansichten tatsächlich Substanz hätten, wären schon
+längst Leute beschäftigt, Dir die nobelpreiswürdige Entdeckung streitig
+zu machen. Diese Leute können aber mit den Maxwellgleichungen und
+Lorenztrafos umgehen, erkennen auch logische Böcke in Gedankenexperimenten,
+und widmen sich daher erfolgversprechenderen Theorien. Warum kommen
+so viele Umsturzversuche von Leuten, die bei "Shutup and calculate"
+plötzlich die Segel streichen, weil sie gar nicht mit Differentialen
+umgehen können und ihr Gedankenexperiment einmal quantitativ vorstellen?
+
+# Für eine experimentelle
+# Widerlegung der Quantenmechanik ("die am besten experimentell
+# bestätigte Theorie aller Zeiten")
+
+Das ist IMHO die ART...
+
+# oder der Relativitätstheorie
+# ("nur Spinner zweifeln an ihr") ist den Experimentatoren zur
+# Zeit nur eines sicher: Spott und Hohn.
+
+...siehe Galilei und Kasperl.
+
+#>                    Mathematisch unterschiedliche Modelltheorien
+#> mit identischen Messwerten auf der Menge aller Experimente sind
+#> per Definition physikalisch nicht zu unterscheiden.
+# 
+# Ja. Und RICHTIGE physikalische Theorien sind per Definition
+# logisch konsistent und machen (bei richtiger Anwendung) richtige
+# Voraussagen.
+
+Machen sie ja auch. Ist Dir schon mal der Gedanke gekommen, der Bug
+könnte im Gedankenexperiment sein?
+
+#> Ansonsten siehe Punkt 6 des Crackpot Index:
+#>
+#>    6.  5 Punkte fuer den Gebrauch von Gedankenexperimenten, die
+#>        den Ergebnissen realer Experimente widersprechen.
+# 
+# (Zwischenfrage, wieviele Crackpot-Punkte gibt's für die
+#  Behauptung, Sagenschneider Reinkarnation zu sein? *gg*)
+
+Maximal 50. Bei guter Evidenz aber eher -50.
+
+# Die Forderung, Gedankenexperimente dürfen den Ergebnissen
+# realer Experimente nicht widersprechen, ist ein elegantes
+# Prinzip zur Immunisierung von Theorien gegen logische
+# Widerlegung.
+
+Ja natürlich dürfen sie den realen Experimenten widersprechen.
+Ihre Nützlichkeit für die Physik ist dann aber zilch ("null").
+Wenn es in Deinem Gedankenexperiment nach oben regnet, dann
+wird die Welt zurecht mit den Schultern zucken und 5 Punkte
+vergeben.
+
+# Eine logische Widerlegung mittels Gedankenexperiment sieht
+# so aus, dass (mindestens) zwei sich widersprechende Ereignisse
+# für eine konkrete Situation aus der Theorie abgeleitet werden.
+
+...unter der Voraussetzung, daß keine logischen/mathematischen
+Böcke geschossen werden...
+
+# Dass mindestens eines dieser Ereignisse realen Experimenten
+# (sofern mit genügender Genauigkeit durchführbar) widersprechen
+# muss, ist klar.
+
+Dann war die Theorie schon immer widersprüchlich, ja.
+Nur hast Du uns den Widerspruch in den MWG noch nicht vorgerechnet.
+Und beim "Vordenken" haben wir^Wich bei Dir so meine Zweifel...
+
+# Im diskutierten Gedankenexperiment ruhen zwei gleiche, von allen
+# sonstigen Kräften abgeschirmte Ladungen im Inertialsystem S,
+# wobei ein Seil die elektrostatische Abstossung kompensiert. Hier
+# der Widerspruch:
+
+Diese Ausgangslage steht schon in mindestens einem Punkt im Widerspruch
+mit der Realität: die Wirkung des Seils ist nur mit Hilfe zusätzlicher
+Ladungen zu erklären. Wenn schon die Voraussetzung falsch ist, folgt
+nach der Logik Beliebiges.
+
+...
+# Da der letzte Ausweg, d.h. Lorentz-Kontraktion des elektrischen
+# Feldes, die benötigte Drehimpulskompensierung auch nicht liefern
+# kann, ist die Theorie widerlegt. (Die elektrischen Felder und
+# Kräfte sind im diskutierten Fall so einfach, dass sich die
+# benötigte Drehimpulskompensierung leicht erklären lassen muss,
+# falls diese Erklärung doch existieren sollte.)
+
+Das nennt man "wegdiskutieren" (aka oBdA = ohne Bedenken des Autors eine
+Annahme machen) und ist für ein Gedankenexperimente ein KO-Kriterium.
+Viel besser wäre eine Rechnung, die die beiden Drehmomente explizit
+angibt -- dann hättest Du ein starkes Argument.
+
+Was Du machst, ist beim Übergang vom ruhenden ins bewegte System
+sehr wohl die lorenzinvarianten MWGln zu benutzen (denn sie beschreiben
+das Entstehen/Verschwinden des magn. Feldes) um das Drehmoment zu
+erklären. Dann lehnst Du es ab, die entsprechende Transformation
+für andere Aspekte (nämlich der Raumzeit) auszuführen. Da dann
+ein Drehmoment übrig bleibt, wundert doch niemand.
+
+
+Regards,
+
+	Werner
+-- 
+Werner Uffenkamp http://ftr.mogffgtnqsrs.bpp/
+SIGSIG -- signature too long (core dumped)

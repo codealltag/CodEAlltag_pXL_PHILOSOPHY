@@ -1,0 +1,72 @@
+Wenn man von Modellen (oder auch von Strukturen) fuer eine Theorie T
+spricht, dann muss man im klassen- oder praedikatenlogischen Kontext
+auch die Begriffe "Metasprache" und "Objektsprache" beruecksichtigen.
+Wenn man von "aussersprachlichen Entitaeten" spricht, so wie Olaf es tut,
+so kann man dieses auch so auffassen: Ist eine Anzahl von Saetzen in einer
+Sprache L gegeben, so waere eine Interpretation der Saetze und der Variablen
+etwas meta-sprachliches und das wuerde dann in diesem Kontext heissen, dass
+diese /ausserhalb/ der Objektsprache stattfindet. Soweit koennte ich
+"aussersprachlichen Entitaeten", hier also durch ein Modell, welches ausser-
+halb der Objektsprache existiert, zustimmen. Die "Modellrelation", also
+M|=T ist ja eine metasprachliche Relation. Oder anders gesagt: Wenn Du einer
+Menge von Saetzen wie etwa den oben formulierten Gruppenaxiomen eine Struk-
+tur geben willst, dann findet das nicht in der Objektsprache statt. Also sind
+sind die Entitaeten, worueber die Objektsprache spricht, ausserhalb dieser
+Objektsprache in einem Modell, und die Variablen referieren auf diese En-
+titaeten. Wenn es also fuer eine Theorie eine mathematische Struktur S
+mit Traeger A gibt, die den Satz Ex(phi) erfuellt, dann heisst das "Es gibt 
+ein a aus A, so dass phi durch Substitution der Variablen x durch a erfuellt 
+wird. a selbst ist aber kein Zeichen der Objektsprache. Dieses waere eine
+Konsequenz der Aufteilung von Objekt- und Metasprache. 
+
+Die Unterscheidung von Objekt- und Metasprache wird deshalb notwendig, weil
+das Wahrheitspraedikat in einer semantisch geschlossenen Sprache nicht uni-
+versell zu definieren ist, zumindest dann nicht, wenn man keine Einschraen-
+kung auf selbstbezuegliche Aussagen zulaesst. Es gaebe hier die Moeglichkeit,
+gewisse Saetze auszuschliessen (meines Wissens ging Willhalm diesen Weg), oder
+aber wie Dickmanns es tat, eine Unterscheidung zwischen Objekt- und Metasprache
+zu schaffen.
+
+Die Frage ist nun, ob obiges a in dem Traeger A einen abstrakten Gegenstand
+symbolisiert? Ich meine, es ist auch hier nur ein Zeichen, und wenn man
+in der Objektsprache schreibt x=y, so wird dieser Ausdruck in einem Modell
+erfuellt, wenn x und y mit demselben Element aus a belegt sind. Das ist aber
+alles formal, aber wie schon gesagt etwas meta-sprachliches. Jedoch findet
+diese Formalitaet doch wieder sprachlich statt. Es sind damit formale Gegen-
+staende der Sprache und keine Dinge ausserhalb der Sprache.
+
+Auf der einen Seite steht Oliviers Aussage: "Abstrakt ist das, was nicht 
+konkret ist". Eine andere Aussage ist: "Abstrakt ist das, was vom Konkreten 
+abstrahiert wurde". Hinsichtlich der zweiten Aussage koennte man sagen,
+dass die Abstraktion von konkreten Gegenstaenden zusammengefasst durch
+gewisse gemeinsame Eigenschaften von Gegenstaenden eben dieses Gemeinsame
+ausdrueckt. Die Abstraktion in Form des Abstraktionsoperators {x|phi} ist
+dann die Aussonderung nach bestimmten Eigenschaften von Gegenstaenden. Sind
+die abstrahierten Eigenschaften von Gegenstaenden aber selbst Gegenstaende?
+
+Andererseits koennte man sich auch ueberlegen, ob es ueberhaupt konkrete 
+Gegenstaende gibt. Man koennte sagen, dass die Erscheinungen von Gegen-
+staenden, die Erscheinung des "Ding an sich" ist und man in den Erscheinungen
+die Eigenschaften dieser "Substanz" sieht, welche selbst schon aus einem 
+Abstraktionsprozess herruehren, sozusagen die unmittelbare Abstraktion auf 
+der ersten Stufe.
+Das Ding an sich waere hier das "Konkreteste" was es eigentlich gibt, nur
+vermoegen wir dieses Konkrete nicht zu erkennen, sondern nur Eigenschaften
+davon. Aber diese Eigenschaften sind selbst keine Gegenstaende. Sage ich
+etwas ueber einen Tisch aus, so sage ich etwas ueber eine Abstraktion aus.
+Aber die Eigenschaften eines Tisches ergeben sich nicht a priori aus
+einem "Ding an sich", sondern aus der Verwendung des Begriffes "Tisch"
+in der Sprache; es wird nicht mehr ueber den Tisch als Gegenstand gesprochen,
+sondern ueber die Funktion des Begriffes in der Sprache; die Abstraktion,
+die Eigenschaften sind damit funktional an die Sprachverwendung gebunden.
+Also, gibt es ueberhaupt konkrete Gegenstaende, oder ist nur das Funktionale
+in der Sprachverwendung konkret? Ist nicht alles, womit wir einen Gegenstand
+(begrifflich) "bestimmen", eine Abstraktion? Und sind dann nicht diese Ab-
+grenzungen das Konkrete in unserem sprachlichen Umgang mit den Gegenstaenden?
+
+In der Mathematik neige ich eher zu der Auffassung, dass man es mit /for-
+malen Begriffen/ zu tun hat als mit /abstrakten Gegenstaenden/.
+
+
+Gruss Urs
+--

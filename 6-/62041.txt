@@ -1,0 +1,18 @@
+Axiom 1: Eine Eigenschaft ist genau dann positiv, wenn ihre Negation  
+negativ ist.
+Axiom 2: Eine Eigenschaft ist positiv, wenn sie notwendigerweise eine  
+positive Eigenschaft enthält.
+Theorem 1: Eine positive Eigenschaft ist logisch widerspruchsfrei (das  
+heißt, sie trifft möglicherweise in einem Beispiel zu).
+Definition: Etwas ist gottähnlich genau dann, wenn es nur positive  
+Eigenschaften hat.
+Axiom 3: Gottähnlichkeit ist eine positive Eigenschaft.
+Axiom 4: Positiv sein ist logisch und deshalb notwendig.
+Definition: Eine Eigenschaft P ist genau dann das Wesen von x, wenn x die  
+Eigenschaft P hat und P notwendigerweise minimal ist.
+Theorem 2: Wenn x gottähnlich ist, macht Gottähnlichkeit das Wesen von x  
+aus.
+Definition: x existiert notwendigerweise, wenn es eine wesentliche  
+Eigenschaft hat.
+Axiom 5: Notwendig existent sein ist gottähnlich.
+Theorem 3: Notwendigerweise gibt es ein x so, daß x gottähnlich ist.

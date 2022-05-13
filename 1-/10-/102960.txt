@@ -1,0 +1,68 @@
+Die /Bedeutung/ ist vollständig festgelegt durch die eben gegebene
+explizite Definition (das "e" soll eigentlich ein Epsilon sein, und das
+"_w" ein "Index" "w".)
+
+Wenn Du die normalsprachliche "Interpretation" meinst, dann soll e_w für
+die /Elementrelation in Bezug auf Werteverläufe/ stehen.
+
+Sei also W eine "Werteverlauf" in unserer Standard-Mengenlehre. D. h. W
+ist eine Menge von Paaren der Form <x,W> und <x,F>.
+
+Dann ist z. B. a /Element des Werteverlaufs/ (e_w) genau dann, wenn das
+Paar <a,W> Element (e) von M ist.
+
+Beispiel:
+
+	M = {<1,W>,<2,W>,<3,W>}
+
+Dann ist
+
+	1 e_w M
+	2 e_w M
+	3 e_w M
+
+und andere Elemente sind nicht in M "enthalten" (wobei das "enthalten
+sein" sich hier auf "e_w" bezieht).
+
+Nun kann aber statt M genausogut 
+
+	M' = {<1,W>,<2,W>,<3,W>,<4,F>,<5,F>,...}
+
+gegeben sein.
+
+Und wieder gilt:
+
+	1 e_w M'
+	2 e_w M'
+	3 e_w M'
+
+- und andere Elemente sind nicht in M' "enthalten"  (wobei das
+"enthalten sein" sich hier wieder auf "e_w" bezieht).
+
+Genau!
+
+
+Gruß,
+Theo
+
+
+P.S.
+Es mag einem vielleicht ein wenig seltsam vorkommen, aber eine Menge wie
+
+	L' = {<1,F>,<2,F>,<3,F>,...}
+
+wäre als ein leerer /Werteverlauf/ anzusehen; denn es würde gelten:
+
+	~Ex(x e_w L')
+
+--------------
+
+Gewiss ist es aber "ökonomischer" statt der Werteverläufe, die Paare der
+Form <x,W> und <x,F> enthalten (e), n u r Werteverläufe zu betrachten,
+die lediglich aus Elementen der Form <x,W> gebildet sind.
+
+In diesem falle wäre der /leere Werteverlauf/:
+
+	L = {},
+
+was vermutlich auch eher unsere Intuition anspricht. ;-)

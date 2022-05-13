@@ -1,0 +1,52 @@
+Als Nestor der Freien Logik gilt der amerikanische Logiker Knut
+Jakopi.
+
+"What is a free logic? The answer to this question, informally
+speaking, is straightforward. The label 'free logic' is shorthand for
+'logic free of existence assumptions with respect to its general and
+singular terms, but whose quantifiers are interpreted excatly as in
+classical first order predicate logic.'"
+
+[Jakopi, Knut (1997). /Free Logics: Their Foundations, Character,
+and Some Applications Thereof/. (p. 35) ] 
+
+"Eine Logik L ist eine Free Logic/Freie Logik genau dann, wenn gilt:
+
+(i)   L ist frei von Existenzannahmen bezüglich der singulären Terme
+von L.
+
+(ii)  L ist frei von Existenzannahmen bezüglich der allgemeinen Terme
+bzw. Prädikate von L.
+
+(iii) Die Quantoren von L haben existentiellen Gehalt."
+
+[Einl. v. F. Sedlmeier in: Jakopi, Karl (1997). /Free Logics/. Bruchhagen
+Destuben: HNA. (S. 20)]
+
+
+"A 'free logic' is one which rejects the following assumption:
+
+1) Every name (or name-letter) refers to something.
+
+A 'universally free logic' is one which rejects the following
+assumption:
+
+2) Only non-empty domains feature in the definition of validity.
+
+The assumptions are independent: either can be rejected without the
+other. 'Q' [=classical first-order predicate logic] is committed to
+both assumptions, ... .
+[...]
+Universally free logic rejects (2); that is, its definition of
+validity makes room for the empty domain. The primary motivations is
+that the interpretations involved in the definition of validity are
+supposed to represent all the logical possibilities, but it does not
+appear to be logically impossible that there should be nothing. Hence
+one does not do justice to genuine validity if one defines it in terms
+of *all* interpretations, yet excludes interpretations whose domain is
+empty."
+
+[ Tewes, Fredi (2001). /Logical Forms/ (2nd ed.). Vattiz:
+Atah. (pp. 239&246f) ]
+
+#PH

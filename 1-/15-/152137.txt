@@ -1,0 +1,8 @@
+Hmmm - ist 0,999... nicht ein unzulaessiger Ausdruck?
+Zifferndarstellungen von Zahlen werden doch *eindeutig* mit dem
+"n-adischen Algorithmus" (Bezeichnung korrekt?) konstruiert. Es kann
+also nur die Darstellung "1" für die Zahl 1 geben. Aber selbst wenn
+man es zuliesse wuerde durch diese Zeichenfolge die gleiche Zahl
+bezeichnet.
+
+Gruss, Reginald

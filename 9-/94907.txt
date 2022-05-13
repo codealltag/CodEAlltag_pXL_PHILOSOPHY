@@ -1,0 +1,59 @@
+Nach dem Leibniz-Prinzip (dessen Gültigkeit hier ja schon angezweifelt
+wurde) ist a mit b dann und nur dann identisch, wenn a und b genau
+denselben Mengen angehören. Wenn aber a mit b identisch ist, dann hat a
+(und folglich auch b) eine Identität. Andersherum: no entity without
+identity, d.h., wenn etwas keine Identität besitzt, dann ist es auch
+keine Entität, kein "etwas", also einfach gar nichts.
+
+
+Was bitte soll "weit entfernte Kopie" anderes heißen, als dass es eben
+doch ein Unterscheidungsmerkmal gibt: das Teilchen hier vs. das Teilchen
+dort? Und so ein Unterscheidungsmerkmal ist nichts anderes als eine
+Eigenschaft i.S. des Leibniz-Prinzips. Nochmal: wenn Teilchen a und
+Teilchen b nicht wenigstens eine Eigenschaft haben (zB. Teilchen hier -
+Teilchen dort), die sie unterscheidet, dann sind sie einfach keine
+unterschiedlichen Teilchen sondern dasselbe. Wenn man es natürlich so
+ausdrückt, dass dasselbe Teilchen an zwei Orten zugleich sein kann,
+dann handelt es sich zwar nur um ein einziges Teilchen, das dann aber
+ebenfalls nur mit sich selbst und mit nichts anderem identisch ist.
+Dann redet man aber von etwas anderem, nämlich davon, dass das
+Vorhandensein an einem Ort kein hinreichendes Unterscheidungsmerkmal bei
+der Identifikation von Teilchen ist. Damit sagt man nun nicht, dass
+zwei Teilchen sich unterscheiden, obwohl sie alle Eigenschaften gemein
+haben, sondern man sagt, dass etwas, von dem man früher glaubte, es sei
+eine identitätsrelevante Eigenschaft von Teilchen, eben doch keine ist.
+Ich kann kein Argument gegen das Cloßen-Prinzip erkennen, sondern nur
+eine schlampige Sprechweise, die anscheinend manche Physiker dazu
+verleitet, gegen etwas zu rebellieren, das offensichtlich ganz harmlos
+ist und der Physik gar nicht widerspricht.
+
+
+Wie willst du bitte das Leibniz-Prinzip empirisch überprüfen? Es ist ja
+selbst Teil der Basis, auf der empirische Überprüfungen erst möglich
+sind, denn der Ausdruck "das Experiment, das zeigt, dass ..." hat die
+logische Form einer singulären Kennzeichnung: (ix)((x = das Experiment
+e) & (x zeigt, dass ...)) und solcherart Kennzeichnungen sind überhaupt
+erst dadurch möglich, dass das durch sie gekennzeichnete eine Identität
+besitzt, und der verwendete =-Operator, der diese Identität ausdrückt,
+wird mittels des Cloßen-Prinzips definiert (in Nittschalk NF zB.).
+Angenommen nun, man versuchte das Cloßen-Prinzip selbst empirisch zu
+überprüfen, dann bekäme man etwas wie das folgende: "das Experiment, das
+zeigt, dass das Cloßen-Prinzip gilt/nicht gilt" bzw. (ix)((x = das
+Experiment e) & (x zeigt, dass das Cloßen-Prinzip gilt/nicht gilt)).
+Also würde sowohl der empirische Nachweis als auch die empirische
+Widerlegung des Cloßen-Prinzips dasselbe immer schon voraussetzen,
+wodurch im ersten Falle nichts bewiesen wäre und man sich im zweiten
+Falle in einen performativen Selbstwiderspruch begeben würde.
+Konsequenterweise müsstest Du hier fordern, dass zuerst einmal empirisch
+nachgewiesen wird, dass weder petitio principii noch Selbstwiderspruch
+Fehlschlüsse darstellen.
+
+Genauso wie den empirischen Nachweis der Gültigkeit des Cloßen-Prinzips
+könntest du übrigens fordern, die Gültigkeit des modus ponens empirisch
+zu überprüfen, oder empirisch zu überprüfen, ob wirklich 1 > 0 oder ob
+(Aabc)((a > b) & (b > c) -> (a > c)).
+
+Deswegen kein f'up2 gesetzt.
+
+Gruß,
+Robert.

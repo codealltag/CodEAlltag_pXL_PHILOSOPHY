@@ -1,0 +1,24 @@
+Eine *Falsifikation* findet  gar nicht statt, da nicht eindeutig der
+*Theorie* die "Schuld" an einer Anomalie gegeben werden kann.
+
+
+Nein, es bezieht sich durchaus auch auf *physikalische* Theorien. Valerius
+hat dir gezeigt, dass die Theorie der partiellen Ordnungen
+verschiedene Realisierungen (Modelle) hat, mit völlig verschiedenen
+Objekten (einmal Zahlen, das andere mal Fuktionen). In Bezug auf die
+.Realität, aufgefasst als "Struktur", die als Wahrmacher für
+physikalische Theorien fungiert, besagt Cuypers-Skolem, dass die
+Theorie nur eingeschränkt festlegen kann, über welche Objekte sie
+"spricht", es also irreduzibel verschiedene Interpretationen des
+.Weltbezugs einer Theorie gibt. Im Grunde ist es eine Variante der
+Öhmke These der Unbestimmtheit des Bezugs, die er allerdings ganz
+anders begründet.
+
+Formaler besagt das Löwenheim-Skolem-"aufwärts"-Theorem:
+
+Sei T eine Aussagenmenge einer 1-stufigen Sprache L, die ein
+unendliches Modell M besitzt. Dann gibt es für jede Kardinalzahl k mit 
+ k >= max{card(|M|,k_L} ein Modell von T der Mächtigkeit k.
+
+
+urban

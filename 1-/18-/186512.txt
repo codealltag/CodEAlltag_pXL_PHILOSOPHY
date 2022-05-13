@@ -1,0 +1,68 @@
+~~~~~~~~~~~~~~~~~
+Jut, versuche ichs chronologisch.
+
+Das erste, was mensch tut, um einen physikalischen
+oder chemischen oder meteorologischen oder...
+Vorgang zu beschreiben ist, er stellt eine Gleichung
+auf. Meistens sind das Differentialgleichungen, die
+das Zeitverhalten unseres Vorganges bzw. unseres
+Systems beschreiben.
+
+Nun gibt es bei vielen Diff.gleichungen das Problem,
+sie lassen sich nicht mehr geschlossen integrieren,
+ODER aber, die uns interessierenden Informationen
+ueber das System verstecken sich nicht im Zeitbereich
+sondern im Bildbereich.
+
+Dazu werden die Diff.gleichungen mittels der Laplace-
+Transformation in _algebraische_ Gleichungen umge-
+wandelt. Hier kommen erst Deine erwaehnten Polynome
+ins Spiel, die uns Aussagen ueber die STABILITAET
+eines Vorganges/Systems liefern. Attraktoren, wie ich
+sie hier aufgefuehrt habe (Fixpunkt, period. Orbit,
+Torus, seltsamer Attraktor) und Stabilitaet haengen
+miteinander zusammen. Geraet eine Loesung unseres
+Vorganges in den Einzugsbereich eines Attraktors,
+kann man davon ausgehen, das unser System stabil ist.
+
+Die Wissenschaftler machen es sich aber nicht einfach.
+Sie fragen sich, wie sich ein System (das physikalische,
+chemische, ...) verhaelt, welches sich gerade auf dem
+Rand bzw. an der Grenze eines Einzugsbereiches (die
+nicht im unendlichen liegt ...?) befindet. Und dann
+kommen wir zu den schon erwaehnten JULIA- bzw. MANDELBROT-
+Mengen. Die Mathematik, die dahinter steht, ist
+eine ganz andere, als die, mit der ich hier auf die
+Frage: "was sei ein groszer Attraktor" antworten wollte.
+(Ich wollte dieser Frage vielleicht erst mal alle Mystik
+nehmen. ;-)
+
+Nun noch kurz zur Mathematik:
+
+1. Soweit wie ich weisz, hat Ekman den Begriff
+   FRAKTAL fuer den Sachverhalt, dasz es eine ge-
+   brochene Dimension in natuerlichen Vorgaengen gibt,
+   eingefuehrt. Wir koennen mit dieser noch nicht so
+   richtig umgehen. Denn wir sprechen z.B. bei
+   Laplace, Fourier oder z.T. auch noch bei Wavelet
+   Transformationen noch von einem L2-Raum (Raum der
+   quadratisch-integrierbaren Funktionen) und nicht
+   von einem L2,xy-Raum ...
+
+2.         Z(n+1) = Z(n)^2 + C
+
+   Z,C komplexe Zahlen
+   n+1, n: sprich, die naechste Zahl Z(n+1) berechnet
+           sich aus der vorangegangenen Zahl Z(n) plus
+           'irgendeine' Konstante C
+
+   Mit dieser einfachen Formel (und die entsprechenden
+   Startwerte) lassen sich am Computer die so schoen
+   anzuschauenden Mandelbrot- und Juliamengen in immer
+   neuer Vielfalt erzeugen. Damit bewegen wir uns aber
+   schon weit weg von der urspruenglichen Frage nach
+   der Stabilitaet eines Systems/Vorganges/Loesung.
+
+grusz
+o-fegg
+.

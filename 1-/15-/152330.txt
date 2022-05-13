@@ -1,0 +1,210 @@
+Das wäre ein Beweis für Fragen-beantworten, aber doch nicht für Denkvermögen. Ja 
+oder Nein, kann er auch ohne irgendetwas zu wissen antworten - und dass ist das 
+Problem dabei, wie soll man feststellen ob die Maschine tatsächlich gedacht hat?
+(deine Interpretation, dass kann man nicht aus einem Lexikon beantworten, krankt 
+daran dass man es zufällig korrekt beantworten könnte)
+
+
+Nein, muss er nicht, - und dass ist ein weiteres Problem, ein Rechner mit den 
+Daten als Input, kann durchaus einen interpretiert korrekten Output liefern, aber 
+niemand wird behaupten wollen, dass der Rechner auch nur von irgendetwas, von dem 
+Für Uns dabei die Rede ist, verstünde oder auch nur wisse was Wetter sei. Ein 
+einfacher Beleg ist folgendes:
+Einem Rechner bringt man stets nur korrektes Wissen bei, wobei dass schon mE 
+falsch ausgedrückt ist- aber egal. Der Rechner könnte niemals einen Witz über das 
+Wetter machen, indem er den Begriff falsch, in einer Relation, von sich aus 
+verwendet, es sei denn zufällig! Er kann dass genau nicht WEIL man ihm 
+beibringen muss wie ein Begriff korrekt einzusetzen ist, und zwar stets korrekt.
+ Wenn für ihn Wetter eine bestimmte Bedeutung hat, dann aber auch stets, dass 
+ist eine schwere Einschränkung. Ungeachtet dass er partout mehrere Bedeutungen 
+kennen kann.
+
+
+Testers
+
+
+Kann er ja gar nicht da klassischerweise die Maschine unsichtbar gehalten wird. 
+Allein aus den Antworten soll auf Mensch oder Maschine geschlossen werden können.
+
+
+Schließen, das der Output eine Konsequenz, ein Schluss aus den Prämissen ist, 
+musst du - leider noch.
+Z.B.
+  1. Prämisse: Alle NICHT- Wetter sind NICHT- Segeln
+  2. Prämisse: Alle Wellengang sind NICHT- Wetter
+  3. Prämisse: Alles an Wellengang ist nicht an Segeln
+
+
+Daraus kann der Rechner z.B. auflisten:
+ -   Alles an Wetter ist nicht an Wellengang
+ -   Alle Segeln sind Wetter
+ -   Alle Wellengang sind nicht Wetter
+ -   Alle Wetter sind Segeln
+ -   Alles an Wellengang ist nicht an Segeln
+-	Alle Segeln sind nicht Wellengang
+
+
+Vorgegebene Konklusionen kann der Rechner prüfen:
+1. Konklusion: Alle NICHT- Wellengang sind Segeln               FOLGT
+2. Konklusion: Alle NICHT- Wellengang UND Wind sind Segeln      FOLGT
+3. Konklusion: Alle Wind UND Wellengang sind NICHT- Segeln      FOLGT
+
+
+Und beweisen:
+ 1. Konklusion: Alle NICHT- Wellengang sind Segeln      FOLGT
+
+
+BEWEIS:
+
+
+(1): Alles an Wellengang ist nicht an Segeln
+     Prämisse
+
+
+(2): Alle NICHT- Wellengang UND NICHT- Segeln sind W
+     AUS 1
+
+
+(3): Alle NICHT- Wellengang sind Segeln
+     AUS 2
+
+
+ 2. Konklusion: Alle NICHT- Wellengang UND Wind sind Segeln      FOLGT
+
+
+BEWEIS:
+
+
+(1): Alles an Wellengang ist nicht an Segeln
+     Prämisse
+
+
+(2): Alle NICHT- Wellengang UND NICHT- Segeln sind W
+     AUS 1
+
+
+(3): Alle NICHT- Wellengang UND NICHT- Segeln UND Wind sind W
+     AUS 2
+
+
+(4): Alle NICHT- Wellengang UND Wind sind Segeln
+     AUS 3
+
+
+ 3. Konklusion: Alle Wind UND Wellengang sind NICHT- Segeln      FOLGT
+
+
+BEWEIS:
+
+
+(1): Alle NICHT- Wetter sind NICHT- Segeln
+     Prämisse
+
+
+(2): Alle Wellengang sind NICHT- Wetter
+     Prämisse
+
+
+(3): Alle NICHT- Wetter UND Segeln sind W
+     AUS 1
+
+
+(4): Alle Wetter UND Wellengang sind W
+     AUS 2
+
+
+(5): Alle NICHT- Wetter UND Wellengang UND Segeln UND Wind sind W
+     AUS 3
+
+
+(6): Alle Wetter UND Wellengang UND Segeln UND Wind sind W
+     AUS 4
+
+
+(7): Alle Wellengang UND Segeln UND Wind sind W
+     AUS 5 UND 6
+
+
+(8): Alle Wind UND Wellengang sind NICHT- Segeln
+     AUS 7                   
+
+
+Niemand wird jedoch behaupten wollen, der Rechner wüsste was Segeln oder 
+Wellengang, Wind und Wetter etc. sei, d.h. ja doch; WIR müssen den Output schon 
+noch selbst in diesem Sinne interpretieren. Wellengang etwa, habe ich der 
+Einfachheit oben als nur gefährlich gesetzt, folgt: wenn Wellengang dann NICHT 
+Segeln, obschon natürlich auch stets Wellen beim Segeln auftreten ;-) (btw: wenn 
+es dir Spaß machen sollte kannst du dir das Prog. Unter www.aqssypyzsxxs.hs 
+runterziehen und selbst damit, womöglich besser, experimentieren. Venn.Zip)
+Bäume
+an
+
+
+m.E. kann man dass eben nicht programmieren. Aber selbst wenn, so ist genau dass 
+dann auch der Punkt; man hat es nur wieder programmiert! BW lässt sich aber 
+vermutlich nicht programmieren, etwas hat eines oder nicht. Um nun so etwas wie 
+Referenz hinzubekommen braucht man aber offensichtlich BW, denn um mich auf 
+irgendwas beziehen zu können muss ich davon, wie und was WISSEN. Ich muss auch 
+wissen dass ich es bin der sich beziehe, auch dass Andere sich in ihrer Rede 
+beziehen können, etc. - eben schwierig, wenn nicht unmöglich ohne ein wie auch 
+immer geartetes BW.
+
+
+Womöglich, aber was wäre damit gewonnen? Das korrekte Verwenden der Begriffe 
+allein ist sicher nicht schon Denken geschweige BW. Denn dass die Begriffe 
+(nicht)korrekt verwendet wurden, das konstatieren ja doch wieder NUR wir, Vermöge 
+unseren Denkens.
+
+
+Jazz
+nichts
+
+
+Vermutlich macht es den Großteil aus! (Limbisches System)
+
+
+Das ist natürlich ein fundamentales Handicap - es ist leider nicht hinreichend 
+klar WAS Denken ist. Wenn man hierzu alle kognitiven Leistungen ziehen wolle, 
+dann müsste man auch solche angeben die sich eben davon unterscheiden indem sie 
+keine solche sind, präkognitive Leistungen. Dass aber ist ungeheuer schwierig und 
+schon deshalb auch stets mit einer gewissen Willkür behaftet.
+
+
+Also wenn er abstürzt, dann denkt er :-) ähnlich wie im Gehirn, sind im PC auch 
+nur Stromflüsse präsent, was dem PC aber bislang fehlt ist doch eben DAS welches 
+tatsächlich denkt. Beim Menschen sind DASS ja auch nicht etwa die Schwachströme. 
+Weder hat man im Gehirn Bild-Fragmente noch in einem Computer, also wie kommen 
+solche überhaupt zustande?
+
+
+noch
+
+
+Volkmar kenne ich jetzt nicht unbedingt, ich meinte diejenige nach welcher eine 1 
+zu 1 Abbildung der Objekte/ Außenwelt in unserem Gehirn/ Erkenntnisvermögen 
+angenommen wird/wurde.
+
+
+Nein, dass ist nur die Fehlinterpretation des GiBo. Der Sehnerv kann keine, auch 
+keine verzerrte Bilder, oder Teile eines solchen transportieren. Nur Schwachstrom 
+ist in der Leitung zu finden. Auch auf der Retina ist kein Bild tatsächlich, auch 
+nicht schief, abgebildet, - der vollkommen runde Kreis ist rund aufgrund unseres 
+Vorwissens. Das wir, wenn wir ein aufgeschnittenes OchsenAuge im Experiment (OAE) 
+betrachten, auf der Retina ein kopfstehendes Bild sehen, liegt schlicht nur daran 
+dass unsere, ein OchsenAuge betrachtenden Augen, mit einem Gehirn verbunden sind, 
+welches interpretiert. Dieses kopfstehende Bild gibt es nur in UNSERER 
+Wahrnehmung!
+
+
+Es ist nicht nur gar nicht möglich, es ist auch gar nicht Nötig!  Bildliches 
+Denken-Vorstellen funktioniert nicht wie allgemein angenommen wird, etwa durch 
+tatsächliche Bilder in unseren Köpfen. Was, so fragt sich doch, haben denn 
+Schwachstrom-Impulse, bitteschön mit dem, was daraus entsehen kann, z.B. einem 
+Baum, gemein? - so gut wie nichts, außer das sie der Grund für die Halluzination 
+sind. Und eben diese fehlt einem Computer! Denn auch er hat ja nicht etwa Bild-
+Fragmente auf seiner Platte oder im Speicher, nur abgelegte 0 und 1, 
+magnetisierte ausgerichtete Teilchen finden sich, die wir als Strom AN oder AUS 
+interpretieren können. 
+Mit freundlichen Größen Beate
+-- 
+News suchen, lesen, schreiben mit http://hyvcmpdnwf.gca.yl

@@ -1,0 +1,15 @@
+Der Urknall ist aber kein Element der reellen Zahlen. Folglich kann er kein 
+Beispiel für ein solches epsilon sein, da er nicht der Menge angehört, aus 
+der epsilon sein muß.
+
+Möglicherweise willst du darauf hinaus, daß, wenn das Argument der Funktion 
+e^x die Zeit oder eine streng monotone Funktion der Zeit ist, dieses 
+Argument nicht bis -oo gehen kann, da das Universum erst seit endlicher 
+Zeit existiert.
+Aber:
+1) kann ja auch etwas ganz anderes als die Zeit Argument von e^x sein
+2) kann es sein, daß die Urknall-Theorie falsch ist und das Universum seit 
+ewiger Zeit existiert
+3) ist es in der Physik häufig nützlich - wenn auch physikalisch gesehen 
+nicht exakt richtig - z.B. von t=-oo bis t=+oo zu integrieren, als 
+Näherung, weil das viele Rechnungen vereinfacht.

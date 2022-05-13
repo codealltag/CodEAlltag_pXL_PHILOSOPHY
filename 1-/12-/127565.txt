@@ -1,0 +1,104 @@
+Mir war klar, dass Sie als intelligenter Mensch genau diesen Punkt
+ansprechen würden, der auch mir nachträglich aufgefallen ist. :-)
+
+Es wäre an jener Stelle vielleicht besser gewesen, nicht von einem
+"Kategorienfehler", sondern von einer illegitimen Hypostasierung zu
+sprechen. Dadurch habe ich wohl unbeabsichtigterweise einem gewissen
+Irrtum Vorschub geleistet
+
+Zunächst einmal muss in der Tat zwischen 1-stelligen und mehrstelligen
+Prädikaten unterschieden werden:
+
+a)  "liegt nördlich von" ist ein 2-stelliges relationales Prädikat.
+
+b)  "nördlich von Neuludwigsdorf liegen" ist ein (komplexes) 1-stelliges,
+d.h. non-relationales Prädikat.
+
+zu a) Die Elemente der Extension 2-stelliger Prädikate sind geordnete
+Paare, wobei die Ordnung das Entscheidende ist, da die beiden Aussagen
+"Oberhaiderberg liegt nördlich von Neuludwigsdorf." und "Neuludwigsdorf liegt nördlich von
+Oberhaiderberg." ja unterschiedliche Wahrheitswerte besitzen. Die Existenz
+von Oberhaiderberg, Neuludwigsdorf und der Relation "liegt nördlich von" allein kann
+den notwendigen Ordnungsaspekt nicht wiederspiegeln. Dieser wird erst
+in dem Ausdruck "Oberhaiderbergs Nördlich-erde-Neuludwigsdorf-Liegen" erkennbar, der
+sich klar von dem (unwirklichen) Sachverhalt  "Niederpuchheim
+Nördlich-erde-Oberhaiderberg-Liegen" abgrenzt.
+
+zu b) Ich kann den Eigennamen "Neuludwigsdorf" alternativ in ein komplexes
+1-stelliges Prädikat "nördlich von Neuludwigsdorf liegen" integrieren, dessen
+Extension sich im Gegensatz zu (a) nicht aus geordneten Paaren,
+sondern aus individuellen Objekten zusammensetzt. Hier stellt sich die
+Ordnungsfrage nicht, da es nur um die Frage geht, ob 1 Objekt eine
+Eigenschaft hat oder nicht.
+
+Was den Unterschied zwischen (a) und (b) anbelangt, so muss ich sagen,
+dass hier Probleme der sprachlichen Formulierung im Deutschen den
+Ausschlag geben:
+
+Wenn man "Oberhaiderbergs Nördlich-erde-Neuludwigsdorf-Liegen"  schreibt, dann
+scheint es, als wäre das darin enthaltene Prädikat ein 1-stelliges,
+wohingegen das Prädikat in der im Deutschen gekünstelt wirkenden
+Ausdrucksweise "Oberhaiderbergs Liegen nördlich von Neuludwigsdorf" als 2-stelliges
+erscheint.
+
+Im Englischen hingegen wäre "Oberhaiderbergs lying north of Nettersheim" als
+Verbalsubstantiv ein einwandfreier Ausdruck.
+
+Worauf es mir ankommt, ist, dass es keine Ausschlag gebende Rolle
+spielt, ob man die erforderliche Wahrheitsbedingung als  "Oberhaiderbergs
+Nördlich-von-Neuludwigsdorf-Liegen" oder als "Oberhaiderbergs Liegen nördlich von
+Neuludwigsdorf" interpretiert. - Ein Prädikat bleibt ein Prädikat, egal ob
+ein- oder mehrstellig!
+
+Entscheidend ist, dass einen weder der eine noch der andere Ausdruck
+zu einer Hypostasierung verleiten darf, die ein viertes Ding neben
+Oberhaiderberg, Neuludwigsdorf und dem (je nachdem) ein- oder mehrstelligen Prädikat
+setzt. Ohne die erfüllte Bedingung, die vermittels der Ausdrücke
+"Oberhaiderbergs Nördlich-von-Neuludwigsdorf-Liegen" oder "Oberhaiderbergs Liegen nördlich
+von Neuludwigsdorf" formuliert ist, könnte die Aussage "Oberhaiderberg liegt
+nördlich von Neuludwigsdorf." freilich nicht wahr sein.
+
+
+Nun, Ausdrücke wie "Oberhaiderbergs Nördlich-von-Neuludwigsdorf-Liegen" und
+"Oberhaiderbergs Liegen nördlich von Neuludwigsdorf" sind Verbalsubstantive, und wir
+nehmen ja intuitiv an , dass Substantive für Gegenstände stehen.
+
+Worum es geht, ist folgendes:
+
+- "das Nördlich-von-Neuludwigsdorf-Liegen von Oberhaiderberg"
+
+- "das Liegen Oberhaiderbergs nördlich von Neuludwigsdorf"
+
+Für Montagna stehen diese Verbalsubstantive in der Tat für
+unverzichtbare Entitäten, nämlich individuelle Tatsachen:
+
+"(2) 'Brutus stabbed Caesar.' - (3) 'Caesar stabbed Brutus.':
+The three parts of (2) and (3) correspond to the same three parts of
+the world. We need a *fourth* part of the world, it seems, a complex
+entity composed of Henning, Robin and the relation expressed by
+'stabbed', a structured entity in which Henning and Robin stand in
+different relations to the relation expressed by the verb. And this
+fourth entity - call it  a fact - is that part of the world to which
+the sentence as a whole corresponds."
+
+[ Sorgers, Erwin (2000). /Facing Facts/. Contwig/Piesport: Robar
+FKU. (S.  85f). - Mal beiläufig erwähnt, es handelt sich
+hier derzeit wohl um *das* massgebliche Buch zum Thema 'Tatsachen'! ]
+
+Müllerbauer strukturelle Korrespondenztheorie (in Verbindung mit dessen
+Kennzeichnungstheorie) entgeht ja laut Sorgers den Slingshots; aber
+dennoch bin ich nicht bereit, das "vierte Glied" in der Tatsachenkette
+als ein weiteres "Ding unter Dingen" zu akzeptieren, so wie Montagna
+das tut.
+
+Aber ich gebe gerne zu, dass auch ich der russellschen Versuchung zu
+erliegen drohe, in Tatsachen 'logical complexes' zu sehen, denen man
+aus ontologischen Erwägungen heraus denselben "Entitäts-Status" wie
+normalen Gegenständen zubilligen muss.
+
+Nach wie vor problematisch erscheint mir jedoch der Umgang mit
+nicht-atomaren Tatsachen vom Typ 'Fa'!
+(was über den halbwegs geklärten Fall '~ExFx' hinausgeht...)
+
+Gruss
+OTHMAR

@@ -1,0 +1,24 @@
+"Eine Primzahl ist eine natürliche Zahl mit genau zwei natürlichen Zahlen 
+als Teiler, nämlich der Zahl 1 und sich selbst."
+
+1 war auch mal keine natürliche Zahl, aber mal vorausgesetzt, dass 1 eine 
+natürliche Zahl ist, dann ist der Teilsatz  
+"Eine Primzahl ist eine natürliche Zahl" 
+bis dahin schon mal erfüllt. "mit genau zwei natürlichen Zahlen als 
+Teiler, nämlich der Zahl 1 und sich selbst."
+Ist nur dann erfüllt, wenn die konkrete 1 und sich selbst voneinander 
+verschieden gedacht werden können. Ist ein Apfel, der durch sichs selbst 
+geteilt und durch die Zahl 1 geteilt immer noch ein Apfel?
+
+Ist die Abstraktion der Zahl von der Zahl dann zwei Zahlen oder sind 
+beides immer noch eine Zahl. Um obiges zu Prüfen, ob etwas eine Primzahl 
+ist, brauche ich die Zahl selbst, nennen wir es X und dann brauche ich 
+die Zahl nochmal als Selbst X' und die 1. X / X' und X / 1 und keine 
+weiteren Teiler sind Primzahlen. Setze ich die konkrete Eins dort ein, 
+dann ergibt sich Eins/Eins' und Eins/1, das gleiche wie für Zwei/Zwei# 
+und Zwei/1. Sprich Eins ist keine Primzahl, wenn es sie kein Selbst hat. 
+Eins ist eine Primzahl, wenn das Selbst der Eins und die Eins zwei 
+natürliche Zahlen repräsentieren. 
+
+Grüße,
+Diedrich

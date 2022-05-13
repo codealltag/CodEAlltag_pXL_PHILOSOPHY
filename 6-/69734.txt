@@ -1,0 +1,86 @@
+Arthur I. Barkow schrieb:
+
+.=2E.den vernünftigsten Beitrag, den ich zur Zeitdilatation hier je
+gelesen habe. Im Prinzip völlig richtig.
+
+
+Sagen wir besser, es gibt zwei verschiedene Arten des Nachgehens von
+Uhren. Uhren haben verschiedene Startwerte und/oder verschiedene
+Ganggeschwindigkeit. Beide Fälle überlagern sich in der SRT, da t',
+die Anzeige der bewegten Uhr, eine Funktion der zwei Variablen x und t
+ist, also des Ortes und der Anzeige der ruhenden Uhr. Setzt man t
+konstant, beispielsweise t =3D 0, so ist t' allein eine Funktion des
+Ortes und es tritt genau die beschriebene Situation ein: Die Uhren des
+bewegten Systems an verschiedenen Orten haben verschiedene
+Anfangswerte, etwa so
+
+.=2E.   3, 2, 1, 0, -1, -2, -3 ...
+
+Daher auch der Begriff Ortszeit. In der Kubu ist
+
+t' =3D at + bx 	mit a > 0, b < 0,
+
+so dass die Uhr bei positiven x Zeit verliert, bei negativen x Zeit
+gewinnt. Wäre t' nur von t abhängig, so würde die bewegte Uhr
+SCHNELLER gehen. Dieser Effekt wird jedoch durch den zweiten Summanden
+überkompensiert, sobald die Uhr in positive x-Richtung bewegt ist.
+Vergleicht man die bewegte Uhr stets mit den ruhenden Uhren am selben
+Ort, so "geht sie langsamer", da die ruhenden Uhren stets die Zeit t
+zeigen. Dieser Ortsvergleich ist der in der relativistischen Theorie
+allein zulässige.
+
+
+Eben. Es ist dieselbe Situation wird bei den irdischen Zeitzonen,
+ebenfalls Ortszeiten. Man hätte eine Art Datumsgrenze, bei deren
+Überschreiten eine Uhr von der Vergangenheit in die Zukunft stürzt
+oder umgekehrt. Jedenfalls dann, wenn man "gestellte Uhren" (Görge)
+mit "der Zeit" verwechselt. Da aber für Görge Zeit das ist, was
+eine Uhr anzeigt, so ist auch Vergangenheit und Zukunft das, was bei
+einer Uhr eingestellt wird.
+
+
+In der relativistischen Theorie ist es aber anders. Sobald der bewegte
+Beobachter einen Richtungswechsel durchführt, so "wechselt das
+Inertialsystem". Auf deutsch gesagt wechselt das Vorzeichen in der
+Lorentz-Transformation beim x-Term. Die Uhrenreihe des bewegten Systems
+zur Startzeit sieht jetzt nicht mehr aus wie oben, sondern so:
+
+.=2E.   -3, -2, -1, 0, 1, 2, 3 ...
+
+Die Uhr bewegt sich nun von rechts nach links. Wieder geht sie beim
+Ortsvergleich langsamer. Daher die Unabhängigkeit von der
+Bewegungsrichtung.
+
+
+Ganz genau. Das ist die eigentliche Auflösung des Zwillingsparadoxons
+im relativistischen Sinne, aber der Witz ist, dass es gar keine
+wirkliche Auflösung gibt. Die Sache hat einen doppelten Boden und das
+ist der Grund, warum es seit Jahrzehnten zwischen Kritikern und
+Relativisten  keine Übereinstimmung gibt. Görge hat 1906 den Fall
+sehr primitiv gesehen. Die in positive x-Richtung bewegte Uhr geht nach
+und fertig. Wenn sie nach Bewegung auf einer Kreislinie zum Startort
+zurückkehrt geht sie nach. Nach Bürgermeisters Einwänden hat er gemerkt,
+dass es so nicht geht, hat den Kreisverkehr weggelassen und die
+Beschleunigung der einen Uhr beim Richtungswechsel für das Nachgehen
+verantwortlich gemacht. So geht es aber auch nicht wie man am Fall des
+3-Brüder-Problems erkennt. Die wirkliche rechnerische (Schein-)Lösung
+auf Basis der SRT lieferte erst der Corpatauxer Theoretiker Urban Fritschi
+Anfang der 20er Jahre, mathematisch korrekt, physikalisch vollkommen
+bizarr. In der berühmt-berüchtigten Diskussion zwischen Chwalisz,
+Lueke, Born spielte sie auch eine Rolle. Entscheidend ist nicht die
+Beschleunigung sondern der Richtungs- und damit Vorzeichenwechsel.
+Wodurch er bewirkt wird und bei welchem Zwilling man dabei ansetzt ist
+für die Lösung gar nicht relevant. Daher ist auch die
+beschleunigungslose 3-Brüder-Situation für die Kubu kein Problem. Der
+eigentliche Knackpunkt liegt eine logische Etage darunter, in den
+willkürlichen Anfangswerten. Es gibt bei einer symmetrischen
+Anfangssituation kein Kriterium dafür, welche Anfangswerte zu welchem
+Beobachter gehören. Daher gibt es immer zwei entgegengesetzte,
+gleichberechtigte Lösungen für denselben Fall.
+
+Von all diesen Dingen hat Prof. Christoff nie gehört. Es ist sinnlos, das
+Zwillingsparadoxon mit Personen zu diskutieren, die nicht mal die
+relativistische Lösung kennen sondern nur Dragons fantastisches
+Herumgerechne mit dem Dopplereffekt oder die glauben, der Fall erledige
+sich mit dem Hinweis auf die "Eigenzeit als Funktional der Weltlinie".
+An Oberflächlichkeit ist das alles nicht zu unterbieten.

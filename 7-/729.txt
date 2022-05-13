@@ -1,0 +1,25 @@
+Das Schachspiel ist ein winziges Beispiel dafür, dass es keinen 
+Unterschied macht, ob die Welt inkl. Verhalten der Leute determinierten 
+Prozessen folgt oder ob das Zufall ist. 
+
+Das Schachspiel ist zwar PRINZIPIELL vorhersagbar aber praktisch nicht, 
+Zitat Wiki: 
+
+Schach ist eines der komplexesten Brettspiele. Die Zahl der möglichen
+Stellungen wird auf 2,28 � 10^46 geschützt. Bereits nach zwei Zügen 
+können 72.084 verschiedene Stellungen entstehen. Die Zahl der möglichen
+Spielverläufe ist noch einmal um ein Vielfaches größer: Schon für die 
+ersten 40 Züge belaufen sich die Schätzungen auf etwa 10^115 bis 10^120
+verschiedene Spielverläufe.[4] Dabei wird im geometrischen Mittel über 
+den Partieverlauf von etwa 30 möglichen Halbzügen pro Stellung ausgegangen. 
+
+In der Spieltheorie wird Schach den endlichen Nullsummenspielen mit
+perfekter Information zugeordnet. Theoretisch könnte man also ermitteln, 
+ob bei beiderseits perfektem Spiel Weiß oder Schwarz gewinnt oder 
+die Partie remis enden muss. 
+
+Nach heutigem Wissensstand erscheint es jedoch ausgeschlossen, dass diese
+Frage durch vollständige Berechnung des Suchbaums geklärt werden kann.
+Ergebnisse für Materialverteilungen mit sechs und teilweise bis zu sieben
+Steinen sind jedoch bereits berechnet worden und in Endspieldatenbanken
+(sogenannten Tablebases) verfügbar.

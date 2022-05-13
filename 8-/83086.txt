@@ -1,0 +1,30 @@
+Ja. Es besagt, dass aus einem Widerspruch (bzw. dem Aussagenpaar A,
+~A) alles "folgt".
+
+M.a.W: wenn es in einem logischen System möglich ist, sowohl A als
+auch ~A (nicht-A) herzuleiten, dann kann man jede _beliebige_ Aussage
+herleiten. (Eben mithilfe dieses Theorems und der Schlussregel modus
+ponens).
+
+Mit Mittelalter war ein vergleichbarer logischer Sachverhalt unter dem
+Schlagwort "ex falso quod libet" ("aus Falschem folgt beliebiges") be-
+kannt. 
+
+Dieses Axiom ist übrigens auch eine Tautologie der klassischen Logik,
+wie folgende Wahrheitstabelle zeigt:
+
+	A B | ~A -> (A -> B)
+	----+---------------
+	f f | wf *w* f  w f
+	f w | wf *w* f  w w
+	w f | fw *w* w  f f
+	w w | fw *w* w  w w
+
+
+A.
+
+
+--
+
+E-mail: 
+filvid<ia>simple<bindestrich>line<punkt>de

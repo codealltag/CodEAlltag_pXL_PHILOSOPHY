@@ -1,0 +1,87 @@
+On Tue, 15. 10. 21 12:49:28 +0100, Helmuth Höffner 
+[...]
+
+Der Vorwurf gegen Dich war, dass Du Mass und Gehalt verwechselst und daraus 
+irgeneinen Bloedsinn ableitest.
+
+
+Aber nicht doch, es ist im Gegenteil Deine Absicht, durch nachtraegliches
+Behaupten von Zusammenhaengen, die so nie augestellt wurden, eine Verschichtung
+der Argumentationsebene zu erreichen. Gegen Aeusserungen, die ich nicht gemacht
+habe, brauche ich mich nicht zu verteidigen.
+Darueberhinaus verfolge ich hier keine sekundaeren Interessen. Du kannst
+Dich zum Thema aeussern, darueber koennen wir reden, und ansonsten kannst
+Du die Klappe halten.
+
+
+Bit/s ist zeitabhaengig. Soviel zum Thema Informationsfluss.
+Der Gehalt der uebertragenen Information wird der Senke anschliessend durch
+Auswerten der Wahrscheinlichkeitszustaende ihrer Datenzustaende zugewiesen.
+Die Information liegt dort nicht "gespeichert" vor, sondern der nach der
+Uebertragung geaenderte Systemzustand ist Folge des Informationsflusses.
+
+
+[...]
+
+
+Die Praemisse ist korrekt. 
+
+
+Diese Aeusserung ist irrefuehrend und stellt die gegebene Situation nicht dar.
+"Information" ist keine fixe, messbare Groesse wie die Staerke eines 
+elektrischen Feldes. Der Informationsbegriff basiert auf der Zuweisung einer
+Eigenschaft an ein Signal oder einen Systemzustand. 
+
+[...]
+
+Mein Satz bezog sich aber nicht auf die Entropie des Informationsflusses,
+sondern auf die Systemzustaende. Daher ist meine Aeusserung natuerlich voelig
+korrekt gewesen. 
+Deine Anmerkungen dazu zeigen eher Dein Interesse ad personam zu argumentieren.
+
+
+Es hat hier niemand das Gegenteil behauptet.
+
+
+1. Der Faktor N ist diskret. Nun rate mal, worauf der sich bezieht.
+2. Ist der Fluss nicht von der Speicherung abhaengig, sondern von der Quelle.
+   Auch wenn das Signal nicht vollstaendig gespeichert worden ist, enhaelt es
+   dennoch die besagte Information.
+3. Ist zwischen Informationsfluss und Informationsgehalt der Senke zu unter-
+   scheiden. Diese Unterscheidung wird nur dann aufgehoben, wenn die Kapa-
+   zitaet G der Senke, G >= N gilt und die Daten vollstaendig gespeichert
+   worden sind. 
+
+
+Kapazitaet an Dateneinheiten. Binary Digits, Bit, aber nicht an "Information",
+deren Bit-Einheit nur ideell ist, da Information keine Dimension hat.
+
+
+Eine voellig sinnlose mathematische Operation. Was soll denn der Informations-
+gehalt einer Nachricht auf diese Weise darstellen? Oder ueberhaupt darstellen?
+Wenn Du Signalamplituden zaehlst, zaehlst Du Signalamplituden, wenn Du Fre-
+quenzwechsel zaehlst, sind das Frequenzwechsel, etc.
+Die Diskretheit der Einheiten hat nur dann Informationscharakter, wenn sie
+sich auf die Speicherzustaende beziehen. 
+
+
+Du meinst schon das richtige, Du kannst es bloss nicht richtig ausdruecken.
+Der Informationsfluss wirkt additiv auf die Signalsenke. Die Signale be-
+wirken eine diskrete Zustandsaenderung des System (Festplatte). Der
+"benoetigte Informationsgehalt", oder wie auch immer Du das formulieren willst,
+ist vom Fluss und seines Informationsgehaltes unabhaengig. 
+Fakt ist: vor der Speicherung sind die binaeren Zustaende der Speichereinheiten
+unbestimmt, sprich P(x) = 1/2. Das ergibt immer noch Ld[1/(1/2)] = 1. Fuer N
+Bit Speichergroesse sind das Ld[1/((1/2)^N)] = N. Der Informationsgehalt ist
+N, fuer die gesamte Festplatte (s.o.) ist sie G.
+Fakt ist: nach der Speicherung sind N bits gesetzt, sprich P(x) = 1, fuer
+N eintreffende Signalwechsel. Das ergibt Ld[1/1] = 0, und fuer N Speicherbits 
+Ld[1/(1^N)] = Ld[1] = 0. Der Informationsgehalt dieser N bits ist 0. Der der 
+gesamte Platte noch G-N.
+
+
+I.D.
+
+-- 
+-- Nur ein toter Theologe ist ein guter Theologe -----------------------------
+-------------------------- Eric De-Fehr ---- hvr@rfaawestj.yezt.dn ------------

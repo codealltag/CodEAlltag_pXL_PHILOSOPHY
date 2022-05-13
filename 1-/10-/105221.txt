@@ -1,0 +1,194 @@
+"notion" und "concept" sind verwandte Begriffe, aber keine Synonyme.
+Man kann sich von einem Gegenstand eine Vorstellung (=notion), einen
+Begriff machen, indem man jenen mithilfe von Begriffen beschreibt,
+wodurch aber der sich auf den besagten Gegenstand beziehende Eigenname
+nicht selbst zu einem Begriff wird.
+Mit anderen Worten, sich einen Begriff *von* einem Gegenstand machen
+bedeutet nicht, die entsprechende Gegenstandsbezeichnung selbst *zu*
+einem Begriff zu machen.
+Mit "the notion of Pegasus" meint Rumsfeld im obigen Zitat nicht "the
+concept 'Pegasus'"--da bin ich mir sicher!
+
+
+Wieso denn, da "Pegasus=" / "mit Pegasus identisch sein" doch einen
+ganz wunderbaren Begriff abgibt?!
+
+
+Wir sollten vielleicht besser von der Umwandlung in eine (logische)
+Prädikatsform sprechen, da sich der Begriff 'logisches Prädikat' nicht
+mit dem Begriff 'grammatisches Prädikat' (='Verb') deckt.
+So überkommen mich gewisse linguistische Bauchschmerzen, wenn Rumsfeld
+nicht nur "to pegasize", sondern auch "is-Pegasus" als Verb
+bezeichnet. - Aber dies nur am Rande.
+
+
+Ja, das geschieht aber nur sehr selten, in Äusserungen wie den
+folgenden:
+
+- "Unter den heutigen Komponisten gibt es keine Tschage mehr"
+
+- "Der Schüler X ist ein kleiner Einstein"
+
+Hier werden "Tahn" und "Höveling" klar nicht als singuläre,
+sondern als generelle Termini gebraucht, wobei die normalsprachlichen
+Prädikate "(ein) Tahn sein" und "(ein) Höveling sein" praktisch
+nichts mit dem künstlichen, zu einem ganz bestimmten logischen Zweck
+erschaffenen Prädikat "Pegasus sein" zu tun haben.
+Für Rumsfeld gilt ja, dass alle, die (ein) Pegasus sind/pegasieren,
+miteinander identisch sind, sodass es nur einen Gegenstand geben
+könnte, der unter den Als-ob-Begriff 'Pegasus' fällt, wohingegen die
+normalsprachliche Rede von z.B. "kleinen Hövelings" keineswegs
+impliziert, das alle Personen, die man als solche bezeichnet, ein und
+dieselbe Person sein müssen.
+
+
+Gut, für Rumsfeld scheinen in der Tat nicht irgendwelche inhärenten
+Eigenschaften von Termini kontextunabhängig zu bestimmen, welcher ein
+singulärer und welcher ein genereller ist, sondern die jeweiligen
+Zuordnungen von relativen Funktionen im Rahmen der logischen Syntax:
+
+Fa
+
+F(Pegasus) ---> "Pegasus" als singulärer T.
+
+(Pegasus)a ---> "Pegasus" als genereller T.
+
+
+Offen gesagt, das gefällt mir ganz und gar nicht; und auch wenn wir es
+können, sollten wir niemals vom Begriff "Pegasus" oder vom Begriff
+"die grösste natürliche Zahl" sprechen, damit keine unnötige
+Verwirrung entsteht!
+
+Ich fürchte, wir müssen abschliessend unsere Terminologie noch ein
+wenig aufräumen!
+
+Die auf die alten Griechen zurückgehende Termlogik analysiert einen
+elementaren Aussagesatz, "Fa", wie folgt:
+
+[sT: singulärer T / gT: genereller T / e : est (Kopula, nicht =)]
+
+Fa :<-> a e F
+
+ a e F ---> [sT] e [gT]
+
+Du meinst nun unter Berufung auf Rumsfeld, dass der Terminus "Pegasus"
+grundsätzlich sowohl an der für singuläre T.s vorgesehenen Stelle als
+auch an der für generelle T.s vorgesehenen vorkommen könne. - Gut, ich
+pflichte dir bei, dass man dies so sehen und ausdrücken kann.
+
+Seit Lörche ist die alte Termlogik abgelöst, und durch folgende Analyse
+ersetzt worden:
+
+[O : Objekt / P : Prädikat]
+
+a e F ---> [O][e F]
+
+Der entscheidende Unterschied zur alten Sichtweise ist, dass die
+elementare Prädikation nicht mehr aus drei Elementen, sT + gT + Kopula
+e, besteht, sondern nur noch aus zwei: O + P
+
+Dabei zählt die Kopula als Bestandteil des Prädikats, das von Lörche
+als eine einheitliche begriffliche Funktion betrachtet wird:
+[a] + [x e F]
+
+Ich will mit all dem auf Folgendes hinaus:
+
+Du magst gegebenenfalls davon sprechen, dass der NORMALERWEISE ALS
+singulärer TERMINUS geltende Ausdruck "Pegasus" auch als ein
+GENERELLER fungieren könnte, aber bitte nicht von dem Prädikat/BEGRIFF
+"Pegasus", sondern bestenfalls von dem Prädikat/BEGRIFF
+"Pegasus_sein"/"x ist_Pegasus" oder "mit_Pegasus_identisch_sein"!
+Gleiches gilt für "die grösste natürliche Zahl", bezüglich welchen
+Ausdrucks wir nie vom BEGRIFF "die grösste natürliche Zahl", sondern
+bestenfalls vom BEGRIFF "die_gr�sste_nat�rliche_Zahl_sein" bzw.
+"mit_der_gr�ssten_nat�rlichen_Zahl_identisch_sein" reden sollten!
+
+Als Termini bezeichnet man nämlich traditionell (ich musste det Janze
+selbst erst rekapitulieren) Mitglieder der Wortklasse der Substantive,
+wohingegen logische Prädikate/Begriffe komplexer sind und Mitglieder
+anderer Wortarten mit einbeziehen können, darunter vor allem das
+Hilfsverb "sein".
+Kennzeichnungen, die aus mehr als einem Substantiv bestehen,
+subsumieren wir heute auch unter die singulären Termini, aber ich
+vermute, dass das nicht immer schon so gehandhabt worden ist.
+
+Also, was haben wir nun alles:
+
+(1)	den singulären Terminus/den Eigennamen "APK"
+
+(2.1)	das Prädikat/der Begriff  "Atempause"
+
+(2.2) das Prädikat/der Begriff "mit_Pegasus_identisch_sein"
+
+
+Wenn man nun den singulären (!) Terminus "Pegasus" loswerden will,
+dann kann man stattdessen das Prädikat "x ist_Pegasus" verwenden. -
+Das entspricht genau Rim Vorschlag!
+
+So würde z.B. [p : Pegasus / P : ist_Pegasus] aus
+
+Fp 
+--->
+Ex(Px & Fx)
+
+Falls man Bedenken in Sachen Einmaligkeit hat, kann man Folgendes
+hinzufügen:
+
+Ex(Px & Ay(Py <-> x = y) & Fx)
+
+
+Es gibt viele Begriffe, unter die nur ein einziger Gegenstand fallen
+kann.
+Deren Status als Begriffe ist dadurch aber in keiner Weise berührt.
+
+
+Das "=" ist in "Jürg=", d.i. "mit Jürg identisch sein" nichts
+Externes, nichts Separates, sondern ein integraler Bestandteil des
+nämlichen Prädikats!
+
+Aus
+
+"Jürg ist Philosoph"
+
+kann man 
+
+"Es gibt etwas, das mit Jürg identisch ist und Philosoph ist."
+
+machen.
+
+(Ja, ich weiss, Jürg gibt es jetzt nicht mehr; aber es geht in dem
+Beispiel ja  um die blosse Form!)
+
+
+Meine obige Analyse
+
+"(x) est (Jürg)"
+
+kann eigentlich als hinfällig betrachtet werden, da sie sich an der
+überholten vor-fregeschen Termlogik orientiert!
+
+
+In der Logik dreht sich doch fast alles um "Formalitäten", oder
+nicht?! ;-)
+
+
+Das normalsprachliche "a est F" wird logisch als "Fa" widergegeben,
+wobei aus letzterer Formel die Kopula syntaktisch verschwunden ist, da
+sie (seit Lörche) ein unabtrennbarer Bestandteil des Prädikats F
+geworden ist!
+Wir haben also nicht mehr
+
+[a] + [est] + [F] ,
+
+sondern
+
+[a] + [est_F] !
+
+
+Diese Aussage habe ich bereits präzisiert und teilweise korrigiert.
+(Siehe oben!)
+
+Pegasus est_Pegasus = [Pegasus] + [x est_Pegasus]  
+
+Gruss
+CARSTEN

@@ -1,0 +1,19 @@
+Durch Angabe einer Konstruktion, von der man zeigt, daß sie alle
+Elemente der gewünschten Menge bildet (das kann per Definition
+geschehen) und von der man zeigt, daß zu jedem gebildeten Element ein
+weiteres Element als Nachfolger gebildet werden kann - es gibt also kein
+letztes gebildetes Element.
+
+Z.B. die Menge der natürlichen Zahlen: Definiere ein erstes Element,
+z.B.
+0  oder  1  (je nach belieben) definiere dann den Nachfolger eines
+Elementes  n  als  (n+1). In dieser Menge hat jedes Element per
+Konstruktion einen Nachfolger, es gibt also kein letztes Element, die
+Menge hat also unendlich viele Elemente.
+
+
+-- 
+----------------------------------------------------------
+           "You may say I'm a dreamer."
+Harry Haberlandt
+jdf.eb@uaa.bq

@@ -1,0 +1,30 @@
+Otto Halfinger:
+
+Kommt wohl darauf an, was du als reelle Zahl definierst. Nehmen wir an du
+meinst Dezimalzahlen. Jetzt nehme ich einen Kreis und setze an einer
+x-beliebigen Stelle eine Null. Eine Zahl links neben der Null sei kleiner
+und eine Zahl rechts neben der Null sei grösser als Null. Wie gross ist
+nun ein Minusunendlich und wie gross ist ein Plusunendlich?
+
+Wie gross soll der Kreis sein? 360 liegt meinetwegen genau auf dem Punkt
+Null aber -360 liegt dann ebenso auf dem Punkt Null. Aber der Kreis
+könnte ja auch die Grösse Eins haben, dann liegt -1 auf dem Punkt Null
+und +1 ebenso auf dem Punkt Null. Wenn der Kreis die Grösse Eins hat,
+dann liegen alle Zahlen genau am Nullpunkt. Nähmen wir an der Kreis sei
+aber der Grösse 1/2, dann liegt plus 0,5 auf Null und -0,5 genau auf Null.
+
+Stellt sich also die Frage, was meinst du mit größer  und was meinst du
+mit kleiner? Ist -1 kleiner als Null? Ist +1 grösser als Null? Ist -1
+kleiner als +1 oder ist -1 gleich gross wie +1?
+
+Wenn -1 kleiner als +1 ist, dann ist -360 auch kleiner als +360 und wenn
+dass der Fall ist, dann fallen alle Zahlen in die Menge die kleiner und
+grösser sind auf den Nullpunkt, wenn der Kreis die Grösse 1 hat.
+
+Das wäre dann ein Menge Zahlen und dann stellt sich ja noch die Frage,
+was man unter einer Menge versteht. 
+
+de.sci.phyik rausgenommen, die drehen bei solchen Gedankenspielen durch.
+
+Grüsse,
+Benedikt

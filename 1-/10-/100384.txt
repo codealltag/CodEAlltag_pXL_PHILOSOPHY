@@ -1,0 +1,23 @@
+On Thu, 14. 08. 22 18:02:25 +0200, "Germaine A" <2614742thkj@qhd.pg> wrote:
+
+Wir definieren:
+
+	E!x =df Ey(y = x)
+
+Dann gilt sowohl in der klassischen als auch in der freien Logik:
+
+Wie meinen? :-o
+
+Zeigen! :-)
+
+Wohlgeformtheit ist (in der formalen Logik) ein /syntaktischer/ Begriff;
+d. h. einfach nur, dass der Ausdruck
+
+	AxE!x
+bzw.
+	~Ex~E!x
+
+in der freien Logik eine wohlgeformte Formel (wff) ist.
+
+
+A.

@@ -1,0 +1,7 @@
+Das hast Du schoen ausgedrueckt. :-)
+
+Viele Gruesse
+Urban Manfred Scheuchenstuhl
+
+-- 
+ignore ~subject {([!?])\1{3}} {([a-z+\-*=<>$#])\1{4}}

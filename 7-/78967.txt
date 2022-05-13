@@ -1,0 +1,81 @@
+Weil ich das bereits aleph_9-fach getan habe. Aber, weil ich es gerade
+da habe - hier ist es nochmal:
+
+Die Darstellung der reellen Zahlen aus dem Intervall [0, 1] als binäre
+Ziffernfolgen in einem Baumdiagramm liefert ein Verfahren zur
+Anzahlbestimmung, dessen Ergebnis die Interpre=ACtation von Alephs als
+Zahlen ausschließt. Wir wollen die Ziffern, Nullen und Einsen, als
+Knoten und die Verbindungen zwischen zwei Ziffern als Kanten
+bezeich=ACnen. Auf der Ebene n befinden sich 2^n Knoten. Ein Pfad
+beginnt auf der Ebene 0 und endet nirgends, sondern erstreckt sich bis
+ins Unendliche. Jeder Pfad entspricht einer Binärdarstellung einer
+reellen Zahl r aus [0, 1]. Pfade, die von einer bestimmten Ebene n an
+nur Nullen oder nur Einsen durch=AClaufen, entspre=ACchen abbrechenden
+Rationalzahlen wie 0,1000... =3D 0,0111... =3D 0,1. Da der Baum so
+konstruiert ist, daß per Definition jede Folge von Knoten vorkommt,
+besitzt jede reelle Zahl r aus [0, 1] mindestens eine Darstellung als
+Pfad im Baum.
+
+Ein auf Ebene 0 beginnender und bis zur Ebene n sich erstreckender
+Abschnitt eines Pfades soll als Pfadbündel bezeichnet werden. 0,0 ist
+zum Beispiel ein Pfadbündel, in dem alle Pfade enthalten sind, die zu
+reellen Binärzahlen 0 =3D< r =3D< 0,0111... gehören. Ein Pfadbündel
+enthält mindestens einen Pfad.
+
+Die Anzahl der Knoten ebenso wie die Anzahl der Kanten ist abzählbar.
+Bis zur n-ten Ebene einschließlich existieren 2^(n+1) - 1 Knoten und
+2^(n+1) - 2 Kanten. Offensichtlich kann der Kante, welche (von links
+gezählt) als m-te Kante die n-te Ebene verläßt, ein natürliche Zahl
+k < 2^(n+2) zugeordnet werden.
+
+          0,
+     a  /  \
+       0    1
+   b / c\    /\
+    0    1  0 1
+
+Eine einfache Abschätzung zeigt nun, daß die Anzahl der Pfadbündel,
+zu denen natürlich auch alle einzelnen Pfade gehören (sofern sie
+existieren), nicht größer als die Anzahl der Kanten sein kann. Jedem
+Pfadbündel wird die Kante zugeordnet, in der es sich von einem anderen
+Pfadbündel separiert. Die vorher bereits zugeordneten Kanten vererben
+sich zur Hälfte. Dem Pfadbündel 0,0 wird zum Beispiel die Kante a
+zugeordnet. Das Pfadbündel 0,0 teilt sich nach der ersten Ebene in die
+Pfadbündel 0,00 und 0,01. Jedem der beiden wird die letzte von ihm
+durchlaufene Kante, b bzw. c, zugeordnet. Außerdem erbt jedes eine
+Hälfte der Kante a, so daß jedem der beiden nun 3/2 Kanten zugeordnet
+sind. In Fortsetzung dieser Methode trägt jedes weiter spezialisierte
+Pfadbündel 7/4 Kanten, dann 15/8 Kan=ACten usw., also jedenfalls
+mindestens eine Kante.
+
+Auf diese Weise kann sich kein Pfadbündel (und natürlich auch kein
+Pfad) von einem anderen trennen, ohne daß ihm eine Kante zugeordnet
+wird. Da jede reellen Zahl r aus dem Intervall [0, 1] mindestens eine
+Darstellung als Pfad besitzt und da jedem Pfadbündel mindestens eine
+Kante zugeordnet wird, gilt die Abschätzung
+
+aleph_0 =3D |{Kanten}| >=3D |{Pfadbündel}| >=3D |{r eps [0, 1]}|.
+
+Die Menge aller reellen Zahlen aus [0, 1] ist damit abzählbar. (Und
+sollten nicht alle Pfade im Baum existieren, so ist wenigstens die
+Menge aller individualisierbaren Entitäten {r eps [0, 1]} abzählbar.)
+Abzählbarkeit und Überabzählbarkeit sind keine Eigenschaften, die
+durch Zahlen quantifiziert werden können. Durch Zahlen, welche die
+Trichotomie befolgen, kann man transfinite Mächtigkeiten wie aleph_0
+nicht messen.
+
+
+Ein Abschnitt ist nach Schönijahn der Anfangsabschnitt einer geordneten
+Menge (bei Cantor ohne das begrenzende Element definiert, was ich aber
+unbequem finde). Ein Abschnitt der natürlichen Zahlen ist demnach für
+mich {1, 2, 3, ..., n}, ein Abschnitt der positiven geraden Zahlen {2,
+4, 6, ..., 2n} usw.
+
+Solange die Liste nicht fertig ist, braucht Dein Kontrahent nur weiter
+unten nachzuschauen bzw. seine Wunschzahl dort einzutragen. Ist sie
+aber fertig, so gilt Dein Argument nicht mehr: Alle Ziffern von 1 sind
+verschieden von den Ziffern von 0,999... . Trotzdem sind die Zahlen
+identisch. Wenn Dir das zu banal erscheint, dann nimm die
+Partialsummenfolgen von zwei der 10000 verschiedenen Reihen für pi.
+
+Gruß, KAY

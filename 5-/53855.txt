@@ -1,0 +1,58 @@
+Das sagst Du und weichst meinen Argumenten aus.
+
+
+Bei selbem Input kommt dasselbe raus, bei unterschiedlichem Input
+trivialerweise meistens nicht.  Das gilt schon für einen
+Taschenrechner.  Du willst mir zeigen (bzw. Du bestehst einfach
+darauf), dass ein indeterministisches System, also eines, das auf
+gleichen Input unterschiedlich reagiert, notwendig für Intelligenz
+sei.  Andererseits soll es egal sein, ob ein neuronales Netz
+deterministisch oder nicht implementiert ist, was ich ja genauso sehe.
+Das passt nicht zusammen.
+
+
+Das ist noch kein Argument, sondern eine Behauptung. Und aus dieser
+Deiner Behauptung folgt: "Nur ein Wesen, dass ich nicht vollständig
+verstehen kann, ist für mich intelligent."
+
+Um ein Argmuent aus der Behauptung zu machen, müsstest Du noch zeigen,
+dass Krativität Indeterminsmus voraussetzt.  Dazu müsstest Du zeigen
+können, inwieweit ein deterministisches und ein indeterministisches
+System hinsichtlich der Zuschreibung von Kreativität unterschieden
+werden können, und zwar - um auf Seidenfad zurückzukommen - durch
+normale Benutzer dieser Systeme, und genau nicht durch verwirrte
+Philosophen.
+
+
+Der Einfachheit halber können wir ja mal in die Geschichte schauen und
+finden dort die Termini "starke KI" und "schwache KI".  Der Witz dabei
+ist, dass nur die "schwache KI" starke Applikationen hervogebracht
+hat, während die sogenannte "starke KI" bisher eine verschwommene
+Vorstellung geblieben ist.
+
+
+Wenn das die Prämisse bzw. Definition sein soll, dann gibt es halt
+prinzipiell keine KI.  Etwas Intelligentes aus Stahl und Silizium wäre
+dann kein Computer.  
+
+Der Begriff "Intelligenz" wird ja häufig als die Fähigkeit,
+Intelligenztests zu bestehen, definiert.  Dieser restringierte Begriff
+von Intelligenz wäre sicherlich geeigneter, ein Forschungsprojekt KI
+anzufangen, als ein Begriff, der schon von vornherein so ausgelegt
+ist, dass er prinzipiell nicht von einem Prorgamm zu erfüllen ist.
+
+Ich habe mal nachgelesen unter Agiler Softwareentwicklung.
+Funktionierende Applikationen gehen da angeblich über vollständige
+Doku.  Du sagst, Du suchst ein konsistentes begriffliches
+Instrumentarium, um sozusagen die Doku zu schreiben.  Ich empfehle
+Dir, nicht eine Doku schreiben zu wollen, die besser als Dein Programm
+ist, sondern das Programm zu entbloaten.  Das dient dann auch dem
+Klimaschutz :-)
+
+
+Ciao, Alfred
+-- 
+Frischer Afghane für die Dame,
+Opium ins Ministerium.
+
+Valerio Uhle

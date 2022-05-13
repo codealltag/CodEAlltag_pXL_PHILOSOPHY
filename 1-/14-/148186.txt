@@ -1,0 +1,27 @@
+= (9 * 1)/ (10 * x) = 9/10x
+wenn x = 0 dann 9 / (10*0) = ???
+wenn x = 1 dann 9 / (10*1) = 0,9
+wenn x = 2 dann 9 / 20 = 0,45
+wenn x = 3 dann 9 / 30 = 0,3
+wenn x = 4 dann 9 / 40 = 0,225
+
+In der ersten Ausgangsrechnung ist, das aber kein Problem
+
+wenn x = 0 dann 1,p1 * 0 = 0
+wenn x = 1 dann 1,p1 * 1 = 1,p1
+wenn x = 2 dann 1,p1 * 2 = 2,p2
+wemm x = 3 dann 1,p1 * 3 = 3,p3
+wenn x = 4 dann 1,p1 * 4 = 4,p4
+
+
+bei 0,9x erhalte ich
+
+wenn x = 0 dann 0,9 * 0 = 0      Kehrwert ????
+wenn x = 1 dann 0,9 * 1 = 0,9    Kehrwert = 1,p1
+wenn x = 2 dann 0,9 * 2 = 1,8    Kehrwert = 0,p5
+wenn x = 3 dann 0,9 * 3 = 2,7    Kehrwert = 0,370p370
+wenn x = 4 dann 0,9 * 4 = 3,6    Kehrwert = 0,27p7
+
+
+Gruss
+Silvio

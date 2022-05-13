@@ -1,0 +1,28 @@
+Ich schreibe jetzt einfach mal sinngemäß von Zeldovi� ab:
+
+Die Dichte sei rho, das Potential nennt er phi.  Dann ist
+
+Laplace(phi) = 4*pi*gamma*rho
+
+(Laplace = Summe der zweiten Ableitungen in alle 3 Richtungen).
+
+Im sphärisch-symmetrischen Fall lässt sich das integrieren, man bekommt
+
+phi = (2/3)*gamma*rho*r^2
+
+was natürlich vom Bezugspunkt abhängt (was wiederum egal ist - wählt
+man ein anderes Staubkorn als Ursprung, so transformiert sich das phi
+im beschleunigten Bezugssystem so, dass auch im neuen System ein
+quadratischer Anstieg im den Ursprung herum herauskommt).
+
+Mit d^2 r/dt^2 = - d(phi)/dr bekommt man dann die Beschleunigung
+
+d^2 r/dt^2 = -(4/3)*pi*gamma*rho * r
+
+Das sieht aus wie ein harmonischer Oszillator, ist aber keiner, weil
+die Dichte zeitabhängig ist, wenn der Staub kollabiert.
+
+Louis
+-- 
+GS d->? s:++>+++ a+ C++++$ UL+++$ UH+ P++ L++ E+++ W- N++ o-- K- w--- !O M- V-
+PS+>++ PE Y+>++ PGP+ !t !5 !X !R !tv  b+++ DI+++ D?  G+ e++++ h+ r? y?

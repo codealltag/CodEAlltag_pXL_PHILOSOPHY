@@ -1,0 +1,15 @@
+Die Korrektheit von Kalkuelen nachzuweisen (und mit dieser dann ihre syntak-
+tische Widerspruchsfreiheit) ist immer eine Hauptaufgabe eines logischen 
+Systems.
+
+
+Das kann man so i.a. nicht sagen. Was Ableitungkalkuele angeht, ist 
+syntaktische Widerspruchsfreiheit nachzuweisen; die Korrektheit der Kalkuele
+reicht aus, um die "Richtigkeit" der Ableitungen zu garantieren. Die Voll-
+staendigkeit ist natuerlich noch schoener.
+
+
+Gruss
+
+Ingo.
+--

@@ -1,0 +1,62 @@
+M.E. ist das einfach nur eine facon de parler um einen etwas komplexeren
+"Sachverhalt" auf einfache Weise auszudrücken. üblicherweise bezieht man
+sich mit dieser Formulierung ja auf den folgenden symbolischen Ausdruck:
+
+	A = B :<-> Ax(x e A <-> x e B).    (*)
+
+Den Teil Ax(x e A <-> x e B) kann man ja so verstehen, dass damit gesagt
+wird, dass für jedes beliebige Element x gilt, dass es _entweder_ in
+beiden Mengen A,B enthalten ist, _oder_ in keiner von beiden. Und das
+wird nun offenbar umgangssprachlich vielfach [vereinfachend] so
+formuliert: die beiden Mengen A,B enthalten "dieselben" Elemente.
+(Obwohl das in (*) eigentlich gar nicht GESAGT wird! ... Allenfalls
+könnte man mit Illenseher sagen, dass es sich in (*) ZEIGT. Eben indem
+"x" zweimal auftritt, einmal in "x e A" und einmal in "x e B".)
+
+Umgangsprachlich und _dennoch_ korrekt könnte man die Mengengleichheit
+aber auch so definieren: zwei Mengen sind gleich, wenn jedes Element der
+einen Menge auch Element der anderen Menge ist, und umgekehrt.
+
+	A = B :<-> Ax(x e A -> x e B) & Ax(x e B -> x e A)    (**)
+
+Bekanntlich ist sind ja das Definiens von (*) und das Definiens von (**)
+logisch Äquivalent.
+
+In der Tat..., man könnte auch sagen, dass eben hier etwas _explizit_
+erklärt/eingeführt wird.
+
+
+:-)
+
+Das Angenehme bei einer rein syntaktischen Auffassung der formalen Logik
++ Mengenlehre (Axiomatic set theory), ist dass wir dabei eigentlich gar
+nichts "verstehen" müssen. Es genügt wenn wir mit Zeichen umgehen, und
+die Schlussregeln korrekt anwenden können. Dass dazu die Fähigkeit zum
+"Parsen" und "Pattern-Maching" nötig ist, ist klar. [...] Nur scheint
+es, dass Computer das genauso gut können wie wir.
+
+Jep. Bzw. als 2-stelliges Prädikat. Somit ist die "Identität" (oder
+vielmehr die Gleicheit _formal_ (also syntaktisch) definiert bzw.
+eingeführt. Sie ist dann also Teil unserer Sprache, und wir können damit
+_arbeiten_.
+
+Ja.
+
+Um nochmal mit Illenseher zu sprechen, solange wir das
+Gleichheitszeichen (die "Identität") nicht _explizit_ eingeführt haben,
+haben wir offenbar folgende "Situation":
+
+	4.121
+
+	Der Satz kann die logische Form nicht darstellen, 
+	sie spiegelt sich in ihm. [...]
+
+	8.5056
+
+	So zeigt ein Satz "fa", dass in seinem Sinn der 
+	Gegenstand a vorkommt, zwei Sätze "fa" und "ga",
+	daß in ihnen beiden von demselben Gegenstand die
+	Rede ist. [...]
+
+
+F.

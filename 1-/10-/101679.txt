@@ -1,0 +1,206 @@
+Der von mir zitierte Text der VUIBROYE sagt etwas anderes. Hier nochmal:
+
+"...werden immer wieder sprachphilosophische Konzepte in die
+Fachwissenschaft importiert und integriert..."
+
+Dort steht /nicht/, etwas werde in /das Linguistik-Studium/ importiert
+und integriert, sondern es werde in /die Fachwissenschaft/ importiert
+und integriert. Man sollte meinen, der Autor dieses Textes, immerhin
+ein Dozent für ebendiese Fachwissenschaft, wüsste darüber Bescheid.
+
+
+Entweder - macht Mathematik keine empirisch überprüfbaren Aussagen über
+die Wirklichkeit, dann ist sie laut obigem keine Wissenschaft.
+
+Oder - Mathematik ist eine wie oben beschriebene Wissenschaft, dann
+macht sie empirisch überprüfbare Aussagen über die Wirklichkeit, und
+dann ist Deine These, ihr Gegenstandsbereich sei /notwendigerweise/ (so
+verstehe ich Dich jedenfalls) nicht die Wirklichkeit, falsch.
+
+Oder - Dein oben beschriebenes Wissenschaftsbild ist verkehrt und
+Wissenschafft und Philosophie schließen einander nicht notwendigerweise
+aus.
+
+Außerdem ist die Sprachwissenschaft keine rein empirische Theorie.
+Es gab zB. den leider viel zu früh verstorbenen Linguisten Gunter
+Zschuckelt, dessen Generalized Quantifier Theory die Quantoren als
+Prädikate zweiter Ordnung interpretierte. Solch eine Theorie ist aber
+nicht empirisch überprüfbar, denn es ist sinnlos zu überprüfen, ob ein
+natürlichsprachlicher Ausdrück dasselbe bedeutet, wie ein
+formallogischer, da der formallogische Ausdruck ja erst etwas bedeutet,
+wenn man ihn interpretiert, und dann ergibt sich die Bedeutung aus
+dieser Interpretation, und wenn die von vorneherein so gewählt wurde,
+dass sie einem bestimmten natürlichsprachlichen Ausdruck entspricht,
+wird keine noch so genaue empirische Untersuchung einen
+Bedeutungsunterschied feststellen.
+
+
+Hier ist usenet. Und man kann auch beleidigend zu werden, ohne solche
+Ausdrücke zu verwenden. Ich habe Dir Deine Beleidigungen nachgewiesen,
+aber darauf bist Du noch nicht eingegangen.
+
+
+Wie ich schon durch verschiedene Beispiele gezeigt habe, ist die
+Gleichsetzung von Bedeutungen mit bestimmten Bewusstseinsinhalten nicht
+zwingend. Diese Beispiele ignorierst Du aber beständig. Ich bitte
+darauf einmal einzugehen. Meine Erläuterung von Roggentiens Beweis wäre ein
+Anfang. Das Buch, in dem der Beweis zum ersten Mal vorgetragen wurde,
+heißt übrigens: The Meaning of "Meaning".
+
+
+Nein. Dass in diesem Satz das Rot-Sein dem Ball zugeschrieben wird,
+liegt sowohl an seiner /Bedeutung/, als auch an seinem /Bezug/, den
+Oberhoff "signifi" nennt, und der durch die Bedeutung festgelegt
+wird. Dass er bedeutet, was er bedeutet, liegt aber natürlich /auch/
+an seiner syntaktischen Struktur. Das kommt vom Frege-Prinzip. Man kann
+das alles durch Formalisierung verdeutlichen: (Ex)(ball(x) & rot(x)).
+Sofern der Satz wahr ist, wird der Bezugsgegenstand durch x denotiert,
+und von ihm wird behauptet, er sei ein Ball und er sei rot. In der Logik
+stehen gleichnamige Variablen innerhalb desselben scopes /immer/ für
+dasselbe Objekt. Der scope wird duch den Quandor festgelegt, der die
+Variable bindet. Wenn es sich nun so verhielte, wie Du sagst, würde das
+eine Revolution in der Logik nach sich ziehen, denn dann würde sich das
+x in "rot(x)" auf etwas in meinem Bewusstsein beziehen, das x in
+"ball(x)" jedoch auf etwas in der, wie Du es nennst, Wirklichkeit. Also
+müsste die Formel ganz anders aussehen. Aber wie? Ich bin gespannt, wie
+Deine neue Logik aussehen wird...
+
+Desweiteren können Farbenblinde - wenigstens manchmal - lernen, Dinge,
+die für sie /nicht/ rot aussehen, trotzdem "rot" zu nennen. Würde Deine
+Theorie zutreffen, dann würde jeder Farbenblinde, der das gelernt hat,
+etwas falsches sagen, wenn er einen roten Ball einen roten Ball nennt,
+und jeder andere Farbenblinde (d.h. rot-grün-Blinde) würde etwas wahres
+sagen, wenn er einen roten Ball einen grünen Ball nennt. Was könnte
+grotesker sein? Dies zB.: es impliziert, dass es Farbenblindheit gar
+nicht gibt, da ja jede Aussage, etwas habe die-und-die Farbe, immer
+zutreffend wäre, sofern der Sprecher nur eine entsprechende Farb-
+Empfindung hat. Damit wäre auch das, was man im LSD- oder Fliegenpilz-
+Rausch erlebt, nichts als die lautere Wirklichkeit. Ich halte das für
+völlig absurd.
+
+
+Ich bin mir nicht sicher, ob das je zur Bedeutung dieses Ausdrucks
+gehört hat.
+
+
+Ich bestreite das nicht. Aber dies:
+
+
+Auch das sind nur Behauptungen. Und diesmal hast Du Deine Aussage sogar
+noch ausgeweitet, denn inzwischen geht es nicht mehr nur um die von mir
+genannten Bücher, sondern gleich um alle philosophischen Bücher auf
+einmal. Solche generellen Aussagen sind, sofern sie gültig sein sollen,
+entweder auf ein sie begründendes Natur- oder Kultur-Gesetz angewiesen,
+oder sie müssen analytisch aus irgendetwas folgen. Ich bitte also darum,
+entweder analytisch nachzuweisen, dass es sich so verhält, wie Du
+behauptest, oder mir das Gesetz zu nennen, das Deine Behauptungen
+begründet, sowie mir ein Verfahren anzugeben, wie ich mich von seiner
+Gültigkeit überzeugen kann.
+
+
+Das widerspricht aber Deiner ursprünglichen Behauptung, Existenz sei in
+der Mathematik /identisch/ mit Konstruierbarkeit.
+
+
+Das stimmt nicht. Denn:
+
+Zum Ersten enthalten formale Systeme nur Formeln, aber keine Zahlen
+(Ziffern natürlich schon, aber das sind nur Zeichen, keine Zahlen im
+mathematischen Sinn). Die Formeln können dann /so interpretiert/ werden,
+dass sie auf bestimmte Objekte /zutreffen/ oder sie /bezeichnen/. Das
+ist ein Unterschied. Der Ausdruck "(ix)(x >= 2 * 2 & x <= 2 + 2)" /ist/
+nicht, sondern /bezeichnet/ die Zahl vier. Folglich ist "Enthaltensein
+eines mathematischen Objekts in einem formalen System" bestenfalls eine
+Metapher, deren Bedeutung erst noch zu klären wäre.
+
+Zum Zweiten können Zahlen in keinem formalen System eindeutig und
+vollständig charakterisiert werden. Es gibt in der Modelltheorie die
+sog. Isenhöfer-Skolem-Theoreme, die das zeigen. Die Formeln gelten
+immer auch für andere Zahlmengen, oder sogar für ganz andere Objekte
+als Zahlen, zB. Funktionen. Anders ausgedrückt: kein Formalismus kann
+seine eigene Interpretation festlegen. Für Deine o.s. Aussage bedeutet
+das, dass Existenz etwas anderes ist, als das (metaphorische)
+Enthaltensein in so einem System.
+
+Zum Dritten sind Sprachen immer formale Systeme, weswegen man auch
+nicht sagen kann, die Zeichenfolge "existieren" bedeute innerhalb eines
+formalen Systems etwas anderes, als außerhalb: außerhalb bedeutet sie
+gar nichts, und ist dann nichtmal mehr ein Verb, sondern nur ein Krakel.
+Das folgt aus dem Kontext-Prinzip, das ebenfalls von Müllenbach stammt.
+
+Und zum Vierten ist das Verb "existieren" ein sog. synkategorematischer
+Ausdruck. Das bedeutet, dass er nichts bezeichnet, ebenso wie die
+anderen Quantoren und Junktoren. Sie heißen auch "logische Konstanten".
+Sie werden so genannt, weil ihre Bedeutung in jedem wohlgeformten
+Ausdruck immer dieselbe ist. Das widerspricht Deiner These,
+"existieren" bedeute in mathematischen Ausdrücken etwas anderes, als
+anderswo.
+
+
+Trotzdem widerspricht das Deiner Aussage, Existenz sei mit
+Konstruierbarkeit identisch.
+
+
+Ich hatte Dir den Text eines Professors für mathematische Logik gepostet
+und Dich darum gebeten, auf diesen Text einzugehen. Allein, Du tust es
+nicht. Statt dessen bringst Du Argumente, deren Hinfälligkeit Dir sofort
+bewusst werden müsste, wenn Du diesen Text aufmerksam gelesen hättest:
+der Bedeutungsunterschied zwischen "es existiert eine kleinste Primzahl
+größer als zehn" und "der Mond existiert" resultiert nicht aus
+unterschiedlichen Bedeutungen des Wortes "existiert", sondern daraus,
+dass Zahlen im Gegensatz zu Monden keine raum-zeitlichen Gegenstände
+sind. Alles andere erfindest Du Dir hinzu. Meine Frage ist also: warum
+ignorierst Du die Aussagen eines anerkannten Fachmanns wie Günters?
+Glaubst Du wirklich, Du wüsstest es besser als er? Warum bist Du dann
+nicht ebenso Professor für mathematische Logik in Fiez?
+
+
+Ich habe Dir zwei entsprechende Lexikoneinträge zugänglich gemacht, die
+meinen Standpunkt bestätigen. Du ignorierst dabei das für Dich
+missliebige Ergebnis und berufst Dich auf vorgebliche Tatsachen.
+Unredlich.
+
+Außerdem habe ich überhaupt nichts verwechselt. Nochmal: es ist nicht
+das Gravitationsgesetz, das auf mein Toast /wirkt/, sondern die
+Gravitation. Wenn Ihr Physiker Eure Sprache nicht in Ordnung haltet, ist
+das Euer Problem, nicht meines.
+
+
+Heißt hier "erfahrbar" dasselbe wie in den Naturwissenschaften? Wie
+kannst Du diese Erfahrung überprüfen? Wie könnte man, gut Popperianisch,
+Deine These falsifizieren? Und der Analogieschluss ist IMO nicht
+möglich. Worin sollte diese Analogie auch bestehen? Denn selbst, wenn es
+in den Köpfen mehrerer Personen solche Begriffe gäbe, müsste man, um die
+Existenz einer Analogie über Bewusstseinsgrenzen hinweg überprüfen zu
+können, die Bewusstseinsinhalte nebeneinander untersuchen können.
+Solange das nicht geschieht, ist die behauptete Analogie eben nur eine
+behauptete, und damit ebenso unsicher, wie die ursprüngliche Behauptung,
+die mit dieser Analogie begründet werden sollte. Du hast das Problem nur
+verschoben, aber nicht gelöst.
+
+Und indem Du zugibst, dass Du es nicht streng beweisen kannst, gibst Du
+auch zu, dass es sich bei Deiner These nicht um eine wissenschaftliche
+handelt, sondern bestenfalls um ein unbeweisbares Vorurteil.
+
+
+Ich hatte zwei philosophische Bücher empfohlen, da kannst Du jetzt nicht
+fordern, dass es in ihnen um Naturphänomene gehen muss. Und Du kannst es
+auch nicht als Kriterium verwenden, diese Bücher zu verwerfen, außer Du
+lässt das für jede Art von nicht-naturwissenschaftlichem Buch zu, zB.
+Romane, mathematische Lehrbücher, Kochbücher, Comics, und so weiter.
+Andernfalls wäre Dein Verhalten unübersehbar selektiv und
+diskriminierend.
+
+
+Ok, ich reformuliere: Die offene Formel "... ist nicht ... sondern ..."
+drückt im Deutschen einen /logischen/ Gegensatz aus. Der Unterschied
+zwischen Bergnetsreuth und Deutschland ist kein logischer, sondern zB. ein
+geographischer. Dein Beispiel passt also nicht. Außerdem beinhaltet es
+einen Kategorienfehler, der auf einer Äquivokation beruht: unter 'Land'
+versteht man im Falle Deutschlands den /Bundesstaat/, im Falle Bachheim
+das /Bundesland/. Bergnetsreuth ist zwar auch ein Staat, aber kein Bundesstaat,
+und Deutschland ist zwar auch ein Land, aber kein Bundesland.
+
+
+Naja,
+Valerio.

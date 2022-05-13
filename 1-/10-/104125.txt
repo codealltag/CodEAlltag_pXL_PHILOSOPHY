@@ -1,0 +1,19 @@
+Wie lässt sich das ermitteln?! (Ohne Wahrheitstafeln für die
+Konnektive?)
+
+*Grins* Na ich finde, P -> P ist auch sehr einfach... ;-)
+
+(Wenn Du mit einem System arbeitest, in dem v durch -> und ~ definiert
+ist, dann repräsentiert P v ~P "eigentlich" die Formel ~P -> ~P; es ist
+dann also definitiv komplexer als P -> P. Und selbst wenn man es als
+"primitiven" Ausdruck gelten lässt, entfällt er immer noch 2 Konnektive.
+;-)
+
+
+A.
+
+
+P.S.
+Wenn Du allerdings mit einem System arbeitest, in dem -> durch v und ~
+definiert ist, sieht die Sache anders aus. Dann schenken sich die beiden
+Formeln gegenseitig nix. Denn dann steht P -> P eigentlich für ~P v P.

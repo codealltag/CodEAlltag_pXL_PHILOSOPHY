@@ -1,0 +1,22 @@
+...
+
+Interessant ist noch, dass es (natürlich) eine innige Verbindung
+zwischen diesem Existenzprädikat und dem Existenzquantor gibt. Es gilt
+nämlich:
+
+	E!t <-> (Ex)(x = t).    (Wo t ein Term sein soll.)
+
+Man kann diese Beziehung auch dazu verwenden, um E! zu definieren; d. h.
+man hat dann
+
+	E!t =df (Ex)(x = t)
+
+Betrachten wir nun z. B. den Namen "Froese". Bekanntlich gibt es
+Froese nicht. M.a.W.
+
+	~(Ex)(x = Pegasus)
+bzw.
+	~E!Froese
+
+
+A.

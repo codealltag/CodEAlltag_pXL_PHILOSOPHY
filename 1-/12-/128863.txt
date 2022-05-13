@@ -1,0 +1,230 @@
+Kein Problem, mache ich (kommentarlos) auch.
+
+
+Nunja, wenn ich die Sprache selbst verstehen kann, kann sicherlich
+auch ein anderer sie verstehen, zumindest wenn er klug genug ist und
+genuegend Zeit zum "Dekodieren" verwendet.  Wenn das
+Privatsprachenargument nur diese Trivialitaet feststellen sollte (was
+ich nicht denke) koennte man es vergessen.
+
+Ansonsten denke ich dass "Tiefengrammatik" nicht der Punkt ist.  Unter
+"Tiefengrammatik" wuerde ich die Teile der menschlichen Grammatik
+verstehen, die allen menschlichen Sprachen gemeinsam sind.  Und als
+Grund fuer eine solche Tiefengrammatik die spezifischen Eigenschaften
+der menschlichen Sprachfaehigkeit, wie die Begrenzungen des
+Kurzzeitgedaechtnisses.  Computersprachen waeren jedoch nicht daran
+gebunden.  Im Prinzip koennte man die Entwicklung von
+"hochsprachlichen" Compilern als Methode ansehen, eine der
+menschlichen "Tiefengrammatik" entsprechende Sprache zur
+Programmierung zu verwenden - die Maschinensprache selbst hat eben
+nicht diese Struktur.
+
+
+Dies trifft schon fuer normale Computersprachen nicht zu.
+Verschiedene Sprachen haben verschiedene Maechtigkeiten, automatische
+Uebersetzer sind ziemlich problematisch.  Zwar geht es im Prinzip
+doch, aber die ganze Struktur (Grammatik) der Sprache geht bei einer
+solchen prinzipiell moeglichen Uebersetzung den Bach runter.
+
+
+Nun, dann hast du dich halt unklar ausgedrueckt, oder ich habe dich
+missverstanden, oder beides.  
+
+
+Sicherlich, eine Computersprache zu konstruieren ohne irgendeine
+andere Sprache, menschlich oder computer, zu kennen duerfte kaum was
+bringen.  Das duerfte fuer alle anderen menschlichen Aktivitaeten
+genauso gelten, ich moechte auch in keinem Auto fahren, dessen
+Entwickler noch nie ein anderes Auto gesehen hat.  Insofern ist dies
+eine Trivialitaet.
+
+Auch beim Auto gibt es menschliche Ergonomie und generelle
+aerodynamische Gesetze zu beachten, was auch zu einer Art Analogon der
+"Tiefengrammatik" beim Autobauen fuehrt.  Moderne Autos sehen sich ja
+(aufgrund der Aehnlichkeiten der Windkanaele) ziemlich aehnlich,
+aehnlicher als alte Karren.  Moderne Programmiersprachen sehen sich
+untereinander auch aehnlicher als Uraltassembler.  
+
+Die Regeln fuer verschiedene Sprachen sind deswegen jedoch keineswegs
+gleich.
+
+
+Nun, wenn ich seine Theorie verstehen will, lerne ich halt seine
+Sprache.  Wenn ich dies prinzipiell nicht kann, ignoriere ich seine
+Sprache und Theorie.  Das Nobelpreiskommitee wird sie vermutlich auch
+ignorieren.  Persoenliches Pech fuer den Physiker.
+
+
+Nun, hier findet sich mehrfach der Fehlschluss "kann nicht ueberprueft
+werden => ist sinnlos".  Ausserdem gibt es nur das allgemeine
+"ueberpruefen".  Es besteht jedoch ein wichtiger Unterschied zwischen
+"ich kann ueberpruefen" und "du kannst ueberpruefen".
+
+Weiterhin ist die Moeglichkeit, dass ein Teil der Korrektheit
+ueberprueft werden kann (Syntax, Grammatik, einige
+Kontextabhaengigkeiten), andere widerum nicht, oder in einer
+Privatsprache nicht durch andere.
+
+
+Entschuldigung, ich hatte gerade ein Gegenbeispiel dafuer gebracht,
+naemlich der selbstgeschriebene Text, der vom selbstgeschriebenen
+Compiler erfolgreich ueberprueft wird.  
+
+Jemand anders _kann_ dies sicherlich nachvollziehen, es gibt aber
+keinerlei _zwingend_ dabei.  Ich weiss auch ohne dass andere das
+Programm ueberpruefen dass ich meinen Regeln gefolgt bin wenn der Text
+durch meinen Compiler durchkommt.
+
+
+Im Compilerbeispiel kann ich das aber.  
+
+
+Warte mal.  B hat nachgehakt, aber dann trotzdem akzeptiert. 
+
+
+Ich weiss ja nicht, wann und warum du in solche Ebenen eintrittst, ich
+behalte mir jedenfalls vor, wann immer ich Lust habe in diese Ebene
+einzutreten und zu ueberpruefen was ich will.
+
+
+Nunja, von einer Gewaehrleistung wuerde ich anhand der Erfahrungen mit
+solchen Diskussionen gar nicht erst sprechen wollen.  Ansonsten ist
+der eigene Erkenntnisfortschritt ja ein plausibler Grund fuer
+Diskussionen.
+
+
+Ich erinnere mich halt, dass man dort verschiedene Warnschreie fuer
+verschiedene Gefahren beobachtet hat (beobachtet hat man, genauer
+gesagt, verschiedene Rufe bei verschiedenen Gefahren und verschiedenes
+Verhalten beim Auftreten verschiedener Rufe, wobei das Verhalten der
+jeweiligen Gefahr angepasst war).
+
+Auf diesem Level duerfte das "richtige" Verstehen des Warnschreis
+schon genetisch fixiert sein (was man in diesem Fall wohl auch
+getestet haben duerfte - geht ja einfach, man probiert es mit separat
+aufgezogenen Jungtieren).  Das naechsthoehere Level ist dann Lernen
+von den Eltern.
+
+
+Ich verfolge sowas nur nebenbei als interessierter Laie, kann dir also
+keine Referenzen zu Fachliteratur geben.
+
+
+Ja.  "Theorie" natuerlich im weitesten Sinne.  Du kannst es
+"Disposition zum Theorieentwickeln" nennen.
+
+
+Die Frage, wieviel davon bereits instinktiv vorgegeben ist und wieviel
+dem Lernen ueberlassen wird, ist eine an sich ganz interessante aber
+philosophisch eher uninteressante Fachfrage.  
+
+
+AFAIR sind Ratten schon ein bisschen cleverer, aber darum geht es wohl
+nicht.
+
+
+Mir geht es nicht darum wie "Denken" in der Umgangssprache verwendet
+wird.
+
+Mir geht es darum, dass die wesentlichen Elemente wissenschaftlicher
+Theorien nach Liefeldt ohne Sprache und individuell moeglich sind und
+sogar notwendig sind, um Sprache zu lernen.
+
+Ich denke an "Theorie" als eine Art Blackbox mit der Eigenschaft,
+falsifizierbare Thesen aufzustellen, welche getestet werden koennen.
+Hypothesen darueber, hinter welcher Tuer Fressen bzw. Stromstoesse
+lauern, gehoeren bereits dazu.
+
+Ich gebe gerne zu, dass "Theorie", "Denken" zur Beschreibung dieses
+elementaren try-and-error-Algorithmus etwas hochtrabend wirken.  Ich
+halte aber diesen Algorithmus fuer fundamental.  Ob ueber die Auslese,
+die ja auch ein Try-and-error-Algorithmus ist, die Ergebnisse in Form
+von Instinkten genetisch festgelegt werden, oder jedes Individuum die
+Erkenntnisse damit neuschaffen muss, oder (am wahrscheinlichsten) eine
+Kombination in der einiges (Suchrichtungen, Lernalgorithmen) genetisch
+festliegt und anderes (konkrete Realisierung) gelernt werden muss - es
+beruht, philosophisch gesehen, alles auf demselben Prinzip try and
+error.
+
+Da nun jedes Individuum andere Erlebnisse hat, ist nicht zu erwarten,
+dass sich als Ergebnis des von den Erlebnissen abhaengigen
+try-and-error-Algorithmus bei verschiedenen Individuen einheitliche
+Theorien (und damit ein und dieselbe Sprache) herausbilden.  Im
+Gegenteil, jeder hat im Prinzip seine eigene Sprache.
+
+
+Ich bin zusehr Mathematiker und Programmierer als dass sowas fuer mich
+mehr waere als ein Bezeichner.  Ich brauche einen Bezeichner fuer
+gewisse Dinger, die bei Liefeldt eine Rolle spielen, es gestatten,
+testbare "Hypothesen" aufzustellen, und bei Fehlschlagen dieser
+Hypothesen mit einem try-and-error Algorithmus verbessert werden. 
+Ich verwende, Liefeldt folgend, den Bezeichner "Theorie" dafuer.
+
+Genauso brauche ich einen Bezeichner fuer das, was diese Dinger namens
+"Theorie" produzieren, was man in der Praxis dann testen kann, wobei
+der Test die moeglichen Ergebnisse "Erfolg" oder "Misserfolg" haben
+kann.  Ich verwende, Liefeldt folgend, den Bezeichner "Hypothese"
+dafuer.
+
+
+Doch. Durch gute Begriffe gewinnt man eine Menge.  Vielleicht sieht
+man dies besser beim Gegenteil, schlechten Begriffen.  Schlecht waere
+beispielsweise die Idee, Suesskirschen und Tollkirschen nicht zu
+unterscheiden, sondern mit einem gemeinsamen Begriff "Kirschen" zu
+bezeichnen.  Beide moeglichen Antworten auf die Frage "kann man
+Kirschen essen" haben Nachteile, entweder Vergiftungen oder unnoetigen
+Verzicht auf gute, gesunde und schmackhafte Nahrung zur Folge.
+Hier ist Unterscheidung nuetzlich. 
+
+Gute verallgemeinernde Begriffe zeichnen sich dadurch aus, dass viele
+wichtige, insbesondere die wichtigsten, Eigenschaften allen gemeinsam
+sind.  Wir haben hunderte Apfelsorten, trotzdem ist die gemeinsame
+Bezeichnung "Apfel" nuetzlich.
+
+
+Sie ist genauso ueberpruefbar wie jede wissenschaftliche Theorie.
+D.h. du darfst gerne eine alternative Erklaerung anbieten, aber
+solange niemand eine plausible alternative Erklaerung vorschlaegt,
+gilt diese Erklaerung.  Willst du dies vielleicht instinktiv
+erklaeren?  Wie sollten sich solche Instinkte herausgebildet haben?
+
+Gegen instinktive Faehigkeiten zum Denken und zur Hypothesenbildung
+(angeborener Forscherdrang) habe ich allerdings wenig einzuwenden.
+
+
+Tja, das ist natuerlich der Knackpunkt.  Was muss das Kind alles schon
+wissen und schliessen koennen, und so handeln zu koennen, wie es nun
+einmal handelt?
+
+
+Netter Versuch.
+
+
+Klappt nicht.  Du brauchst ja eine Erklaerung dafuer, dass das Kind im
+einen Fall eher die Haende, im anderen Fall eher den Kopf benutzt.
+
+
+Ziel des Testes ist ja, herauszufinden, welche Faehigkeiten Babies nun
+genau _haben_.  Und man macht dies, indem man ihnen Aufgaben stellt,
+die ohne die entsprechenden Faehigkeiten kaum loesbar sein duerften.
+
+Die getestete Faehigkeit ist hier die Faehigkeit, die gebundenen
+Haende als Grund dafuer zu erkennen, dass der Erwachsene den Schalter
+mit dem Kopf drueckt.
+
+
+Tja, deswegen fragt man die Kids ja nicht einfach sondern denkt sich
+solche eigentlich abstrusen, aber einfachere Theorien falsifizierende
+Experimente aus. 
+
+
+Wenn dir das hanebuechen erscheint, ist dies deine Sache.  Ich habe
+fuer obiges Experiment jedenfalls keine Erklaerung, die ohne Denken
+auskommt.
+
+Und ich habe auch keine Erklaerung, wie man ohne denken zu koennen
+eine Sprache ueberhaupt lernen koennen sollte.
+
+Wolfgang
+-- 
+U. Schmetzle, <etzy@iibq-aocamkjcr.ano> , http://ihmz-mfzinbyqf.lfi

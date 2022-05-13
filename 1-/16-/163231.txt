@@ -1,0 +1,111 @@
+Hallo Fridolin!
+
+HN> Es gibt einen eingabe-datenstrom aus der außenwelt, die
+HN> verarbeitung dieser daten im computer, und einen
+HN> ausgabe-datenstrom zurück in die außenwelt. Alle computer
+HN> funktionieren auf diese simple weise.
+HN> Zumindest teilweise funktionieren menschen sicher so. Probleme
+HN> ergeben sich, sobald man annimmt, daß sie vollständig so
+HN> funktionieren.
+
+Welche Probleme gibt es dann genau?
+
+HN> Das ursprüngliche szenario (raum A & B) sieht anders aus. Es geht
+HN> nicht darum, nachzuweisen, daß man jemanden töten kann, ohne daß
+HN> er es merkt.  Sondern: daß man ihn töten kann, ohne seinen zustand
+HN> im geringsten zu beeinflussen. Noch nicht einmal der raum, in dem
+HN> er sich befindet, wird in irgendeiner weise beeinflußt. Man kappt
+HN> nur die datenleitung zu raum B.
+HN> Das ist mit gedachten "künstlichen personen" möglich. Mit realen
+HN> personen (hoffentlich) nicht.
+
+Warum nicht? Stell Dir vor, jemand fliegt mit einem Raumschiff
+unwiderbringlich von der Erde weg. Warum sollte sich das Bewusstsein
+eines an Bord befindlichen Computers bei endgueltiger Kappung der
+Verbindung anders verhalten als das des an Bord befindlichen Menschen?
+Bei beiden habe ich keine Probleme anzunehmen, dass sie
+weiterexistieren - oder aber ich streiche sie aus meinem eigenen
+Bewusstsein (aus denkoekonomischen Gruenden)
+
+HN> Für computer zählt nur die computerlogik. Und im rahmen dieser
+HN> logik ist die testperson nach dem kappen der verbindung nicht mehr
+HN> existent.
+
+Kannst Du das beweisen?
+
+
+HN> Wie das? Subsysteme verbrauchen speicher und rechenzeit. 
+
+Das ist eine Darstellungsfrage. Wenn pro beobachteter Erscheinung
+eine feste Zahl von Bytes benoetigt, hast Du recht. Wenn aber eine
+andere Abstraktionsebene gewaehlt wird, kann die Annahme von *mehr*
+Erscheinungen effektiver sein, wenn dies auf der gewaehlten
+Abstraktionsebene zu *weniger* Informationen fuehrt.
+
+Dein A<--B Beispiel: Stell Dir vor, ein Computer soll den Raum B
+komplett beobachten und die Weiterentwicklung vorhersagen. Effektiv
+(und in vielen Faellen auch wirksam) ist es, fuer alle Gegenstaende in
+B (incl. der darin enthaltenen Personen) einfach eine lineare
+Extrapolation anzunehmen und mit der Beobachtung staendig zu
+korrigieren. 
+
+Wenn jetzt die Verbindung gekappt wird, ist es *einfacher* anzunehmen,
+dass dort einfach alles so weiter geht - egal ob die Verbindung
+endgueltig gekappt wurde oder nicht. Den Spezialfall einzufuehren,
+dass in ganz bestimmten Faellen von dem einfachen (schnellen, wenig
+Speicher verbrauchenden) Algorithmus "lineare Extrapolation der
+Bewegung" abgewichen werden sollte, kann letztlich viel mehr
+Rechenzeit beanspruchen. Beispielsweise, wenn 1 Milliarde Raeume
+beobachtet werden und nur eine Verbindung davon moeglicherweise
+gekappt wird. Es waere ja uneffektiv bei jeder kleinen Stoerung
+herauszufinden ob sie das endgueltige Aus ist und in diesem Fall die
+Rechnung zu loeschen - den einen Fall von einer Milliarde kann man
+auch problemlos weiterziehen und verbraucht damit wenig zusaetzliche
+Rechenzeit. Und vom Ergebnis her ist es (da die Verbindung endgueltig
+gekappt wurde) sowieso egal.
+
+Ein effizienter Computer wird also den Spezialfall "Objekt
+verschwindet" nur dann beruecksichtigen, wenn die Eliminierung samt
+der dazugehoerigen Tests weniger Rechenzeit kosten als man durch die
+Eliminierung gewinnt. Das ist im allgemeinen nicht trivial zu
+entscheiden und schon gar nicht kann man a priori annehmen dass die
+Eliminierung *immer* "billiger" ist als der Gewinn.
+
+Abgesehen davon muss es auch nicht grundsaetzlich einen "Gewinn" durch
+das geziehlte Ausblenden von Informationen geben. Stell Dir z.B. vor,
+Du speicherst einen einfachen musikalischen Rhythmus nicht zeitlich
+digitalisiert, sondern nur die Fourierzerlegung. Da man nicht alle
+Frequenzen speichern kann, waehlt man nur die aus, die das Signal
+bestmoeglich beschreiben (eine endliche Menge harmonischer z.B.). Nun
+ist das synthetisierte Signal aus einer derartigen Menge aber ziemlich
+periodisch - es ist weitaus schwieriger zu beschreiben (und
+verbraucht mehr Speicherplatz), dass der Rhythmus irgendwann
+"abbricht" als ihn einfach als immerwaehrend anzunehmen. Warum sollte
+ein Computerbewusstsein bei der Beschreibung von B anders herangehen?
+
+HN> Immerhin kann das natürliche bewußtsein nicht ohne
+HN> zustands�nderung oder einflußnahme eliminiert werden. Das ist ein
+HN> durchaus existentieller vorteil, den das natürliche bewußtsein
+HN> gegenüber einem gedachten künstlichen hat.
+
+Ich habe immer noch nicht verstanden worin Du den Unterschied siehst,
+wenn sich im Raum B ein Computer oder ein Mensch befindet. In beiden
+Faellen kann man nach dem endgueltigen Kappen der Verbindung annehmen,
+dass sie nicht mehr existent waeren (auch das menschliche Bewusstsein
+in B wuerde verschwinden, ohne dass derjenige es merkt).
+
+Und auch der Beobachter in A kann sich unabhaengig von seiner Natur
+(Mensch oder Maschine) entscheiden, ob er die Weiterexistenz des
+Bewusstseins in B annimmt oder nicht. 
+
+Das Problem heisst IMO nicht "kuenstliches vs. natuerliches
+Bewusstsein", sondern "das eigene Bewusstsein vs. das der anderen". Ob
+das andere Bewusstsein in einer Maschine steckt oder nicht ist da
+sekundaer.
+
+Tschuessi
+
+Gerald
+
+-- 
+Support the ban of Dihydrogen Monoxide: http://lqc.lpop.cjf/

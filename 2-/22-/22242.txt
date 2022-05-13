@@ -1,0 +1,37 @@
+Du lenkst ab. Es geht hier darum, ob Entropie eine dimensionslose Größe sei 
+oder nicht. Das war die Frage. Dazu ist zu klären, was Entropie bedeutet und 
+was unter einer dimensionslosen Größe zu verstehen ist. Eine dimensionslose 
+Größe ist eine Größe, die als reine Zahl ohne physikalische Maßeinheit 
+angegeben werden kann. Beispiele dafür sind Prozent, Wahrscheinlichkeit und 
+Entropie.
+...
+
+Das mag ja sein. Nur leider ziehst du die ins Auge springenden 
+Schlussfolgerungen daraus nicht.
+
+Der Begriff mag so unklar sein wie er mag: Für die hier in Rede stehende 
+Schlussfolgerung reicht er völlig aus. Ein Maß für Ordnung hat keine 
+physikalische Maßeinheit. Es hat auch nicht, anders als die 
+Boltzmann-Konstante die Dimension Energie/Temperatur. Diese fließt zwar in 
+seine Berechnung ein, sie entspricht aber nicht der Bedeutung dieses Maßes.
+
+
+Die Skala wurde implizit schon angegeben. Es handelt sich um eine 
+Ordinalskala mit Werten zwischen 0 und 10. Es ist aber sicher nicht 
+zutreffend, dass diese Skala einer physikalischen Dimentsion entspricht. 
+Dies kannst du daran erkennen, dass man hier die Meßwerte ohne 
+Informationsverlust in Prozentwerte transformieren könnte. Ein Schüler, der 
+von einem Lehrer auf der Skala bei 7,2 cm markiert würde, erreichte bei 
+diesem entsprechend eine Beliebtheit von 72 % der maximalen Wertschätzung 
+dieses Lehrers. Und weil dies so ist, handelt es sich hier nicht um eine 
+dimensionale Größe (etwa gemessen in cm), sondern um eine dimensionslose. 
+(Nebenbei dürften die meisten Versuchspersonen bei einer Aufgabe wie dieser 
+selbst bewusst oder unbewusst ihre Beliebtheitseinsch�tzung in Prozentwerte 
+umrechnen: Den mag ich nicht so 100pro, sondern kriegt höchstens, na sagen 
+wir: 72 Prozent.)
+
+Nein, Bodo, so ist das einfach nicht. Aus mess- und 
+skalierungstheoretischer Sicht ist es schlicht und ergreifend Unfug, was du 
+da schreibst.
+...
+Niels Pflaume

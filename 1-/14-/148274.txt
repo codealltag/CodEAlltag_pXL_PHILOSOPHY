@@ -1,0 +1,33 @@
+Ich sag jetzt mal nein, aber ich weiß nicht, wie du von x/1 + x/9 = x/1 +
+x/8 auf (x+x)/10 = (x+x)/9 kommst!?
+Du weit doch, wie man Brüche addiert? Nein? So:
+x/1 + x/9 = 9x/9 + x/9 = 10x/9 = 10/9 x
+x/1 + x/8 = 8x/8 + x/8 = 9x/8 = 9/8 x
+
+Deine Asciizeichnung müsste also so aussehen:
+
+ 10x       9x
+-----  = ------
+  9        8
+
+Also 1,p1 x = 1,125x
+Für x ist 0 also die einzige reele Lösung.
+Wo ist dein Problem (ausser Bruchrechnung)?
+
+Im übrigen weiß ich nicht, wieso diese ganze Rechnung überhaupt soll. Was
+meinst du mit:
+
+
+Du machst genau das, was du im ersten Posting dieses Threads (lang, lang
+ist's her) getan hast und immer wieder tust:
+Du definierst etwas (x + x/9 = y) und im nächsten Schritt lässt du die
+Definition einfach fallen (sei y = x + x/8). Auf diese Weise kommst du auf
+sinnlose Aussagen (x + x/9 = x + x/8; ist zwar nicht wirklich sinnlos, hat
+aber keine weiterführende Aussage).
+
+--
+Alfred Lütges (mhbnz062@i-smuunf.sd)
+-----------------------------------------------------------
+A Member of the ---> SÉVERINE FRANCO TORM <--- Fanclub Germany
+      since      http://eyw.azes.dh/lis-ulr      9/98
+-----------------------------------------------------------

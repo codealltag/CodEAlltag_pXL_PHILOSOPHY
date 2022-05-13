@@ -1,0 +1,28 @@
+moin moin,
+
+
+Was gibt es da zu erklaeren?
+Das ganze sieht aus wie folgender korrekter beweis:
+
+A hat einen Schwanz mehr als B
+B hat zwei Schwaenze
+--> A hat drei Schwaenze.
+
+aber leider muss der zweite Satz so umformuliert werden, um ihn in der
+Praedikatenlogik gebrauchen zu koennen:
+
+Es gibt nichts fuer das gilt: Es ist eine Katze und hat zwei Schwaenze.
+
+und damit funktioniert der "Beweis" natuerlich nicht mehr. "Nichts",
+"Alle", "Kein" u.ae. sind keine Gegenstaende, sondern Quantoren, die nur
+ein bisschen so aussehen wie Gegenstaende, womit sich diese albernen
+Beweise zimmern lassen.
+
+hat wer noch einen?
+
+Willibald.
+
+
+-- 
+Neue e-mail-Adresse: pgcyorlb@nfpkk.vx-llzjht.wl!
+Homepage immer noch http://eoq.dujg.bfl/ptpneekw.

@@ -1,0 +1,53 @@
+Hi,
+
+
+=2E.. weil es kaputt by Design ist. Ein Mensch mit einem solchen
+Hirn käme nichtmal auf die Welt bzw. würde sofort nach der
+Durchtrennung der Nabelschnur (quasi der Punkt an dem das eigene
+'OS' die Kontrolle über die 'Hardware' von der Mutter übernimmt),
+mit einem BSOD jämmerlich abstürzen.
+
+Es sollte aber, und wenn es noch so fehlerhaft implementiert ist,
+zumindest deterministisch (man kann aus dem aktuellen Zustand,
+den Folgezustand bestimmen, sofern man ihn kennt, aber er muss
+prinzipiell bestimmbar sein) bleiben, oder?
+
+
+Jeder macht am Anfang mal Fehler. Besonders hübsch ist es,
+parallelisierte MP-Anwendungen auf einem 1-CPU-System zu bauen
+und zu 'testen'. Daß sich dort keine zwei 'parallel' laufenden
+Prozesse/Threads *wirklich* in die Quere kommen ist schon alleine
+deshalb garantiert, weil sich nichts wirklich parallel tut...
+
+Das ist sozusagen der Initiationsritus für richtige Programmierer:
+das erste selbstgebaute MP-Programm auf einer 'richtigen' Maschine
+gnadenlos abstürzen zu sehen. Und das 'Aha'- bzw. Hand-vor-die-
+Stirn-Klatsch - Erlebnis war bei mir wirklich krass, der (zehn
+Jahre erfahrenere) Kollege grinste nur milde als ich meinte das
+hätte 'auf meiner Maschine aber tadellos funktioniert'. :-)
+
+
+Das Gehirn mit einem (falsch programmierten) parallelen Computer-
+system zu vergleichen ist aber auch nicht ohne; von daher ist
+Deine Schlussfolgerung, seine Schlussfolgerung sei zwangsläufig
+falsch, genauso falsch. Das Hirn arbeitet zwar 'massiv parallel'
+(aber das tut eine simple SZLF-CPU auch schon), allerdings auch
+hochgradig synchronisiert. Den Effekt, wenn das durcheinander
+gerät, kannst Du in der geschlossenen Anstalt Deines geringsten
+Misstrauens begutachten.
+
+
+Die derzeitigen Computerprogramme fallen eher in die Kategorie
+'künstliche Dummheit' statt 'künstliche Intelligenz'. Sie bilden
+maximal die Intelligenz des Programmierers ab, haben aber selbst
+keine. Meistens tun sie noch nichtmal das, weil Software immer
+Fehler enthält (laut irgendeiner Sawade-Schneil-$medien-
+wirksame-Worthülsen - Frau ca. 1-2 Fehler pro 1000 Zeilen Code).
+Ausserdem macht eine Software niemals das, was der Programmierer
+eigentlich wollte, sondern immer exakt das, was der Programmierer
+programmiert hat, bzw., noch schlimmer, das was der (ebenfalls
+definitiv kaputte Compiler da reininterpretiert). Die Schnittmenge
+existiert, aber es ist nicht das gleiche :-)
+
+Bernd
+PS: Sowohl Dein From: als auch Dein Reply-To: stinken ganz gewaltig.

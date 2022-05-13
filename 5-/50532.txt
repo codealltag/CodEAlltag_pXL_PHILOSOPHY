@@ -1,0 +1,25 @@
+Wenn Du es so sehen möchtest, dann musst Du auch erkennen, dass das, was
+Du gerade C nennst, nicht Turing-vollständig ist, und zwar weil size_t
+endlich ist (bzw. wohl int in dem von Dir genannten alten Sprach-
+Teilstandard).
+
+
+Die Eingabe der Turingmaschine ist der Anfangszustand des Bandes. Die
+Ausgabe der Turingmaschine ist der Zustand des Bandes nach Erreichen
+eines Endzustandes.
+
+Insofern: selbstverständlich hat eine Turingmaschine I/O.
+
+
+Es ist mit einer Turingmaschine darstellbar, selbstverständlich. Und es
+ist sogar mit der von Dir genannten Programmiersprachenfragment
+darstellbar, beispielsweise über einen I/O-Puffer, erreichbar über einen
+char *.
+
+Wie bei FORTRAN auch ist es Implementierungssache, wohin die Ausgabe
+dann geht.
+
+Viele Grüsse,
+VB.
+-- 
+Bitte beachten Sie auch die Rückseite dieses Schreibens!

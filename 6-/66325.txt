@@ -1,0 +1,20 @@
+Bleibe doch mal erst bei so simplen Dingen wie einer Geraden (nach Euklid)
+Offensichtlich ist es dann Schnurzegal wo du den Nullpunkt festlegst. Du
+sagst einfach:
+Dieser Punkt heisst Null! Basta! Von hier beginnen wir, und vermessen die
+Gerade!
+Dieser Punkt hat natürlich keine Grösse. Woher sollte das logisch
+begründbar sein? 0-0=0 sollte doch stimmen oder?
+Liegt ein Punkt x "rechts" von Null notieren wir (x;0)
+Liegt ein Punkt x "links" von Null notieren wir (0;x)
+Und damit den Nullpunkt als (0;0)
+Also weder rechts noch links
+Auch hier sollte gelten:
+(5;0)-(5;0)=(0;0) oder etwa nicht?
+Die Gleichung sagt: Die nach rechts gemessene Strecke ist sich selbst
+gleich und hat rechts den maximalen Punkt 5
+Und wenn ich dieses Spiel nun weitermache fange ich an die Arithmetrik der
+Geraden Linie zu beweisen.
+-- 
+Mit freundlichen Größen
+Knut Nitschke

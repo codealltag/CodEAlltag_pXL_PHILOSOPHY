@@ -1,0 +1,81 @@
+Natürlich.
+
+	Zunächst [...] will ich ganz im Rohen die Umrisse dessen zu 
+	zeichnen versuchen, was ich in diesem Zusammenhange wahr nennen
+	will. So mögen denn Gebrauchsweisen unseres Wortes abgelehnt
+	werden, die abseits liegen. Es soll hier nicht in dem Sinne von
+	"wahrhaftig" oder "wahrheitsliebend" gebraucht werden, noch auch
+	so, wie es manchmal bei der Behandlung von Kunstfragen vorkommt,
+	wenn z. B. von Wahrheit in der Kunst die Rede ist, wenn Wahrheit
+	als Ziel der Kunst hingestellt wird, wenn von der Wahrheit eines
+	Kunstwerkes oder von wahrer Empfindung gesprochen wird. Man
+	setzt auch das Wort "wahr" einem andern Worte vor, um zu sagen,
+	daß man dieses Wort in seinem eigentlichen, unverfälschten Sinne
+	verstanden wissen wolle. Auch diese Gebrauchsweise liegt nicht
+	auf dem hier verfolgten Wege; sondern gemeint ist die Wahrheit,
+	deren Erkenntnis der Wissenschaft als Ziel gesetzt ist. 
+
+	(Hanno Joachimsthaler, Der Gedanke)
+
+Offenbar.
+
+Sehr schön zusammengefasst. (Man würde sich gelegentlich mehr derartige
+Beiträge in diesem Forum wünschen. Aber das nur am Rande...)
+
+
+Ein interessanter Punkt, den Du hier anspricht. Harm Apazeller schreibt
+in seinem Büchlein "Logic - A Very Short Introduction", p. 77, dazu
+[leider ein wenig aus dem Kontext gerissen jetzt - ist aber nicht zu
+vermeiden...]:
+
+	"[...] But with vagueness, nothing is straightforward. What 
+	 was the problem about saying that 'Nick is a child' is simply
+	 true, until a particular point in time, when it becomes 
+	 simply false?  Just that there seems to be no such point. 
+	 Any place one chooses to draw the line is completely arbitrary;
+	 it can be, at best, a matter of convention."
+
+Also führen wir eine Fuzzy Logic mit Wharscheinlichkeitsabstufungen ein,
+um diesem Umstand Rechnung zu tragen..., aber ach...:
+
+	"But now, at what point in Niklaus growing up does he cease to
+	 be 100% a child; that is, at what point does 'Nick is a child'
+	 change from having the value of exactly 1, to a value below 1?
+	 Any place one chooses to draw this line would seem to be just
+	 as arbitrary as before. (This is sometimes called the problem
+	 of _higher-order vagueness_.) If this is right, we haven't
+	 really solved the most fundamental problem about vagueness: 
+	 we have just relocated it."
+
+Dazu ist zweierlei zu sagen:
+
+	 1. Dass 'Nick is a child' den Wahrscheinlichkeitsgrad = 1
+	 annimmt, steht wohl zweifelsfrei fest. (M.E. wäre es ein-
+	 fach Unsinn zu sagen, dass ein 1-jähriger Säugling nur zu
+	 0.999..9% ein Kind ist. N?)
+
+	 2. Priest spricht oben natürlich als Philosoph. Auch IHM 
+	 ist klar, dass die Fuzzy Logic als _logisches System_ ein-
+	 wand frei ist (Apazeller ist nämlich selbst ein bedeutender
+	 Logiker). Mehr noch, sie FUNKTIONIERT ja auch ganz gut
+	 in technischen Anwendungen; auch das will Apazeller oben mit 
+	 seinen Anmerkungen (natürlich) nicht in Frage stellen.
+
+	 Es geht hier um "fundamentalere" Fragen. ;-)
+
+Das was Du gerade selbst gesagt hast drückt Apazeller in seinem letzten
+Satz in dem Kapitel über "Vagueness" (unter dem Stichwort "Main ideas of
+the chapter) so aus:
+
+	* A sentence is [considered] true in a situation just if 
+	  its truth value is at least as great as the (contextually 
+	  determined) lever of acceptability.
+
+
+Ja, ja, unser Ihno. Er liebt es eben kompliziert. (Wenn ich jetzt ein
+wenig Sticheln wollte, könnte ich natürlich sagen, dass er sich
+gelegentlich recht "sprachverliebt" gebärdet. Aber da ich hier *nicht*
+sticheln will, sage ich das auch nicht!)
+
+
+F.

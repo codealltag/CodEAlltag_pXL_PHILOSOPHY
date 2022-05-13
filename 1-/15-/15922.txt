@@ -1,0 +1,12 @@
+Diese Zahlen haben keinen Zusammenhang mit einer Simulation des Gehirns.
+
+Ich würde die Rechnung auf Basis von 1E10 Nervenzellen mit je 1E4
+Nervenverbindungen anstellen. Das sind ca. 1E14 logische Verbindungen.
+Wenn wir annehmen, 20 Byte zur Beschreibung einer solchen Einheit und
+10 Befehle je Simulationszyklus zu benötigen, dann kämen wir auf
+200 TByte Daten und 100 TFlops/Zyklus. Das Gehirn ist relativ langsam,
+sodass vermutich eine Zeitauflösung von 0.01-0.001 Sekunden ausreicht.
+D. h. wir sind im Bereich gängiger Supercomputerlestungsst�rken mit
+einem Gegenwert von 100.000-1.000.000 PCs.
+
+lg Georges

@@ -1,0 +1,14 @@
+Es dürfte, selbst dir, nicht entgangen sein, dass die Computer ja immer nur 
+Näherungslösungen berechen
+und so gut wie nie *exakte* Werte liefern.
+
+Es gibt sehr wohl Gleitpunktformate, die die Zahl unendlich repräsentieren. 
+Da liegst du völlig falsch.
+
+
+Berechne mir doch mal die Fluchtgeschwindigkeit eines
+Raumschiffes. Das ist die Geschwindigkeit, mit der ein
+Raumschiff von der Erde starten muss, um sich von ihr
+entfernen (unendlich weit) zu können. Wie berechnest du
+die rechte Grenze? Oder ist es vielleicht besser mit
+unendlich zu arbeiten? Gar ein uneigentliches Integrall?

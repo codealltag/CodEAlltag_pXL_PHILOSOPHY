@@ -1,0 +1,56 @@
+Nicht in dem Sinne, dass die Verneinung des Gesetzes vom
+ausgeschlossenen Dritten (GAD) wahr sein könnte, denn das würde zu
+einem Widerspruch führen.
+
+Es gibt ein berühmtes Theorem, das 1. Gesetz von bohse Wasmuht:
+
+~(p v q) <-> (~p & ~q)
+
+Für q = ~p erhalten wir:
+
+~(p v ~p) <-> (~p & ~~p)
+
+Links steht die Aussage der Falschheit des GAD (p v ~p) und rechts ein
+Widerspruch, denn
+
+~p & ~~p
+
+entspricht aufgrund der doppelten Verneinung
+
+~p & p ,
+
+also
+
+p & ~p !
+
+Da etwas, das einen Widerspruch impliziert, nicht wahr sein kann, kann
+die Verneinung des GAD nicht wahr sein.
+
+Das bedeutet jedoch nicht, dass man keine konsistenten vielwertigen
+Logiken entwickeln kann, denn in der Logik bedeutet die Verwerfung
+eines Axioms/Theorems nicht, das dessen Negation als wahr behauptet
+wird.
+Zum Beispiel gilt im intuitionistischen Kalkül (IK) das GAD nicht,
+d.h. in diesem Kalkül ist das GAD weder ein Axiom noch ein
+herleitbares Theorem; aber genauso wenig ist die Negation des GAD '~(p
+v ~p)' ein Axiom oder ein herleitbares Theorem, denn das würde auch im
+IK zu einem inakzeptablen Widerspruch führen!
+
+Die Verwerfung eines bestimmten klassischen Axioms in einem
+nicht-klassischen System ist nicht mit der Behauptung gleichzusetzen,
+die Negation des betreffenden Axioms wäre wahr bzw. allgemeingültig!
+
+Wer behauptet, die Existenz konsistenter vielwertiger Logiken beweise
+die Falschheit der klassischen Binärlogik, der irrt gewaltig!!
+
+
+..., falls die Schlussfolgerungsregeln richtig angewandt werden!
+
+
+Tja, falsch im eigentlichen Sinne des Wortes ist sie jedenfalls
+nicht--was nicht heisst, dass es keine Anwendungsbereiche gibt, in
+denen sich nicht-klassische Logiken als Analyseinstrumente sehr gut
+oder gar besser eignen.
+
+Gruss
+EDGAR

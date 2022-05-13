@@ -1,0 +1,11 @@
+*> "ab=0 --> a/a * b = 0/a --> b = 0/a --> b=0" falsch, da a 0 ist.
+**> Eine x-beliebige Zahl geteilt durch selbst ist 1 also folgt dann daraus
+
+In der mit * gekennzeichneten Stelle muss stehen : ab=0 --> a*b/b = 0/b
+etc...
+Normalerweise sagt man bei solchen Sachen etwas wie " Fall Be ist analog zu
+beweisen".
+Der Fehler liegt darin, daß a und b nicht vollständig die Rollen vertauscht
+haben. Da wir nicht wissen, dass a != 0 gilt - unsere Absicht ist sogar,
+dessen Gegenteil unter der Annahme, dass b !=0 ist, zu beweisen - dürfen wir
+auch nicht durch a dividieren.

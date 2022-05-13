@@ -1,0 +1,32 @@
+Hallo Valerian!
+
+
+JZ> Sind neuronale Netze im allgemeinen beweisbar unfehlbar?
+
+Das haengt davon ab, was man unter "Unfehlbarkeit" versteht.
+
+Sie sind jedenfalls in der gleichen Weise "unfehlbar" wie gewoehnliche
+Software in dem Sinne, dass sie auf die gleiche Folge von
+Eingangsdaten (den Lernprozes dabei natuerlich eingeschlossen) auch
+die gleichen Ausgangsdaten liefern.
+
+Die sind in der Weise nicht "unfehlbar", dass sie bei anderen
+Eingangsdaten unerwartete Ergebnisse liefern.
+
+JZ> Wenn nein, dürfte es schwer sein, die üblichen Theoreme zu den
+JZ> Grenzen der Berechenbarkeit auf sie anzuwenden ;)).
+
+Warum? Wenn ich mein neuronales Netz nur an Bildern von weissen
+Kaninchen lernen lasse, wird es meine schwarze Katze vermutlich nicht
+erkennen. Was hat das mit "Berechenbarkeit" zu tun?
+
+Ein neuronales Netz ist erst mal eine gewoehnliche Turingmaschinen-
+faehige Software und unterliegt damit genau den gleichen
+Beschraenkungen. 
+
+Tschuessi
+
+Björn
+
+-- 
+Support the ban of Dihydrogen Monoxide: http://jup.dtcs.kxb/

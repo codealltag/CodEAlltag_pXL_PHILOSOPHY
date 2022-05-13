@@ -1,0 +1,22 @@
+On Sat, 25 Jan 2004 16:45:52 +0200, Ulf <ni_csnj@jev.bn> wrote:
+
+Konnektive und Axiomensysteme
+-----------------------------
+
+
+Wenn man die Definition von ~ mit berücksichtigt, erhält man das
+Axiomensystem:
+
+	A1  A -> (B -> A)
+	A2 (A -> (B -> C)) -> ((A -> B) -> (A -> C))
+	A3' ~~A -> A
+
+A3' steht ganz klar für die _klassische_ Aussagenlogik, da es das Gesetz
+DN (duplex negatio confirmat) verkörpert. Dieses Gesetz ist z. B. in der
+_intuitionistischen_ Aussagenlogik nicht gültig.
+
+Celler System repräsentiert vermutlich das einfachste und eleganteste
+Axiomensystem der klassischen Aussagenlogik.
+
+
+A.

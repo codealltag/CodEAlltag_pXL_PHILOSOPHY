@@ -1,0 +1,19 @@
+Nein, der Fehler liegt darin, dass Du nicht vernünftig formalisiert 
+hast, sondern einfach "nachgedacht". Damit hast Du Unfug produziert 
+(nicht persönlich nehmen ;) ). Genauso wie Cords in meiner Aufgabe, der 
+versucht hat, Logik anzuwenden, aber dazu nicht die Sprache der Logik 
+verwendet hat. Dadurch hat er eine falsche Bedeutung von "ist" 
+angewendet (von denen mir spontan mindestens 5 einfallen), was ihm bei 
+vernünftiger Formalisierung nicht passiert wäre.
+
+Formalisieren wir es richtig, in der Sprache der Mathematik:
+Seien k (in R_+) die Kosten des Korkens, f (in R_+) die Kosten der Flasche.
+
+Dann gilt:
+I.  f + k = 1,1
+II. f = k + 1
+
+Das ist ein lineares Gleichungssystem mit 2 Unbekannten.
+Die beiden Gleichungen sind linear unabhängig, es lässt sich also 
+eindeutig lösen. Die tatsächliche Ausführung ist dem Leser als 
+Übungsaufgabe überlassen :)

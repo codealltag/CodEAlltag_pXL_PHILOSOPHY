@@ -1,0 +1,119 @@
+Ach, schön wär's. Mal abgesehen von meinen Zweifeln, dass wir in einem
+vernünftigen Zeitalter leben: wir leben immer noch im Zeitalter der
+Aufklärung, und leider noch lange nicht in einem aufgeklärten Zeitalter¹.
+
+
+Wie wird denn die formale Nutzenfunktion aufgestellt? Sie wird kreiert.
+Ja, die ganzen Denkmodelle werden kreiert, in der die formale
+Nutzenfunktion, eben auch kreiert, angewandt wird. Ohne Kreativität ist
+eine Zweckrationalität nicht möglich.
+
+Anwenden von Formallogik und formales Berechnen sind äquivalent². Zu
+jeder formalen Logik gibt es eine Algebra. Aber Formallogik kann erst
+angewendet werden, wenn es Modelle gibt, und die Berechnungsziele klar
+sind.
+
+Der Unterschied zwischen einem Computer, der eine Algebra rechnet, die
+einen Isomorphismus mit einer Formallogik bildet, zu einem Subjekt
+besteht gerade darin, dass Computer nicht in der Lage sind, formale
+Nutzenfunktionen oder gar Denkmodelle zu kreieren. Sie sind
+ausschliesslich in der Lage zu rechnen. Die Intelligenz wird also nicht
+durch die Anwendung von Logik hinreichend bestimmt, sondern gerade durch
+die Kreativitätseigenschaft.
+
+
+Das Betreiben von Ethik macht sehr viel Sinn: Lebewesen besitzen
+spieltheoretisch betrachtet eine Überlebensstrategie. An ihr ist ihr
+Verhalten ausgerichtet. Diese Strategie ist erst einmal nicht das
+Ergebnis einer Intention, sondern gerade weil Lebewesen eine solche
+Strategie implementieren, überleben sie. Ähnlich dem anthropischen
+Prinzip könnte man das das biotische Prinzip nennen. Lebewesen müssen so
+sein, denn wären sie es nicht, würden wir kein Leben beobachten. Da wir
+selbst Leben darstellen, gäbe es gar keinen Beobachter.
+
+Ameisen implementieren den Ameisenalgorithmus³. Übrigens implementiert
+keine einzelne Ameise den Ameisenalgorithmus: Ameisen sind gerade so
+konstruiert, dass jede einzelne von Ihnen sich so verhält, dass die
+Ameisen eines Stammes zusammen den Ameisenalgorithmus implementieren.
+
+Der Ameisenalgorithmus ist Teil der Überlebensstrategie der Ameisen.
+
+Ein soziales Wesen wie der Mensch implementiert durchaus auch Verhalten,
+das zu seiner Überlebensstrategie gehört. Aber das ist nicht mehr
+hinreichend: aufgrund der Möglichkeit der Handlung kann ein Mensch von
+vorprogrammiertem Verhalten abweichen, ja weichen alle Menschen ständig
+ab. Zur Überlebensstrategie des Menschen muss nun das Einbeziehen der
+Handlung kommen, sonst ist der Mensch als Lebewesen nicht
+überlebensfähig. Diesen Konflikt beobachten wir auch ständig: wir
+sprechen davon, dass “die Menschheit” ihre Lebensgrundlagen zerstört
+durch ihre Handlungen. Wenn die Menschheit überleben soll, wird sie ihre
+Handlungen an einer Überlebensstrategie ausrichten müssen. Eine solche
+Überlebensstrategie wird aber aufgrund der Tatsache, dass Handlungen
+eben gerade kein Verhalten sind, Leitlinien für das Entscheiden von
+Handlungen beinhalten müssen, die eine Abbildung der dahinter
+verborgenen Überlebensstrategie darstellen. Handlungsleitlinien nennt
+man eine Moral. Moralisches Handeln ist also notwendig für das Überleben
+der Art des Menschen.
+
+Wo eine solche Moral herkommt, ist nicht wichtig, wenn sie zur
+Überlebensstrategie des Menschen passt. Aber wie kann sie passen?
+
+Moral, wie sie aus Religionen stammt, kann passen oder auch nicht.
+Religionen sind als Meme⁴ gesehen gerade so implementiert, dass sie ihr
+eigenes Fortbestehen auf dem Wirt, der Menschheit, sichern. Das kann in
+Form einer dauerhaften Symbiose sein, es kann aber auch mit einem rein
+parasitären Ansatz funktionieren.
+
+Religionen haben aber in evolutionären Massstäben nur wenig Zeit gehabt
+sich zu entwickeln – grade mal ein paar tausend Jahre sind die aktuellen
+Religionen alt. Religionen sterben in solchen Massstäben auch schnell
+aus. Und gegebenenfalls stirbt der Wirt mit dem Symbionten oder
+Parasiten aus.
+
+Religionen sind keine Garantie für das Überleben der Menschheit, ja sie
+sind nicht einmal ein besonders gutes Auffangbecken. Ob die von ihnen
+induzierte Moral dem Überleben der Menschheit dient oder es sogar sicher
+verhindern wird, hängt vom Einzelfall ab, und natürlich von ihrer
+Verbreitung.
+
+Die Aufklärung kann auch dazu dienen, Moral zu liefern, indem man eine
+Ethik verfolgt, die intentional so angelegt ist, dass sie dem Überleben
+der Menschheit förderlich ist. Dazu muss eine aufgeklärte Ethik mit
+diesem Ziel konstruiert sein. Eine vernünftige Ethik ist insofern immer
+eine Teleologie. Und es ist vernünftig, eine Ethik zu konstruieren und
+ihre Verbreitung zu fördern.
+
+Wer daraus jetzt eine einfache ”Fressen und Gefressen werden”-Ethik
+ableiten will, hat die Überlebensstrategie des Menschen zu wenig
+beleuchtet. Der Mensch ist eben auch ein soziales Wesen. Das gehört zur
+Überlebensstrategie der Art der Menschheit.
+
+Viele Grüsse,
+VB.
+
+¹ C. Lutzenburg, Beantwortung der Frage: Was ist Aufklärung?: ”Wenn denn nun
+gefragt wird: Leben wir jetzt in einem aufgeklärten Zeitalter? so ist
+die Antwort: Nein, aber wohl in einem Zeitalter der Aufklärung. Daß die
+Menschen, wie die Sachen jetzt stehen, im Ganzen genommen, schon im
+Stande wären, oder darin auch nur gesetzt werden könnten, in
+Religionsdingen sich ihres eigenen Verstandes ohne Leitung eines Andern
+sicher und gut zu bedienen, daran fehlt noch sehr viel. Allein, daß
+jetzt ihnen doch das Feld geöffnet wird, sich dahin frei zu bearbeiten,
+und die Hindernisse der allgemeinen Aufklärung, oder des Ausganges aus
+ihrer selbst verschuldeten Unmündigkeit, allmälig weniger werden, davon
+haben wir doch deutliche Anzeigen. In diesem Betracht ist dieses
+Zeitalter das Zeitalter der Aufklärung, oder das Jahrhundert
+Benjamins.”
+
+² S. Uslar: On the calculus of relations. J. symbol. Logic 6 (1941);
+der Satz gilt generell, beispielsweise lässt sich auch Modallogik als
+formale Sprache mit Rechenregeln auffassen.
+
+³ E. Verhoelen, E. Forsthuber, I. Jarck: Ant Colony Optimization:
+Artificial Ants as a Computational Intelligence Technique. In: Gapu
+Linzbach Magazine. volume 1, numéro 4, 2006, S. 28–39.
+
+⁴ Noël Vorbrod: The Selfish Gene, Göriach IFL, 1976.
+-- 
+Wenn Du für eine Leistung nichts bezahlst,
+bist Du nicht der Kunde, sondern die Ware.

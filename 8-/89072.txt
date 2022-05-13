@@ -1,0 +1,13 @@
+Vielleicht:
+
+1  p => q               Prämisse
+2  ~p v q               Es gilt p=>q -||- ~p v q (*)
+3  (~p v q) v ~p        Oder-Einführung
+4  ~p v (~p v q)        Kommutativgesetz
+5  ~p v (p => q)        (*)
+6  p => (p => q)        (*)
+
+Kommt halt darauf an, was ihr schon bewiesen habt.
+
+Gruß
+Sergio

@@ -1,0 +1,30 @@
+Noch Rätsel ?
+
+Welches ist die kleinste mögliche Anzahl von Schnittpunkten, wenn man n Punkte
+in der Ebene durch stetige Kurven untereinander verbindet ?
+
+Die gesuchte Zahl wollen wir mit   Sn   bezeichnen.
+
+
+                  .1.
+               .   �    .
+            .      �       .
+         .         �          .
+      .         . 2 .           .
+   .     .                  .      .
+3.________________.4
+
+
+Nach der Zeichnung (falls verschoben, bitte verschieben)
+ist also;  S4 = 0
+
+S5 = 1  soll auch bewiesen sein !
+S6 =      wahrscheinlich  3
+
+Mehr ist über das Problem nicht bekannt, - jedenfalls mir.
+
+Gesucht wird eine Formel für Sn bzw. ein allgemeines Verfahren, mit dessen
+Hilfe man Sn finden kann.
+
+
+MfG	C.C.

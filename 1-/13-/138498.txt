@@ -1,0 +1,15 @@
+On Thu, 19. 04. 23 23:11:41 +0200, 
+
+Genau! Wie gebrauche ich Quantoren, singulaere Termini, Praedikate
+etc.? Um ueberhaupt Wahrheitsbedingungen festzulegen, brauch ich eine
+Interpretation. Interpretationen sind aber Festlegungen des Gebrauchs
+der Termini in einer Sprache und daher in einer Gemeinschaft
+konventionell. Ein Satz in einer Sprache ist genau dann wahr, wenn es
+sich in einer Interpretation so verhaelt wie der Satz aussagt. Wir
+muessen uns also bei dieser semantischen (partiellen) Definition des
+Wahrheitspraedikats auf eine Konvention einigen wie wir Terme
+gebrauchen.
+
+
+Gruss Philippe.
+--

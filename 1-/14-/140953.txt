@@ -1,0 +1,23 @@
+Ich hätte da auch noch etwas anderes zu klären. Es geht ebenfalls um
+den Gehalt von Formelmengen - diesmal aber um den Falschheits- bzw.
+Wahrheitsgehalt.
+
+In einer meiner Logik-Vorlesungen bekamen wir folgendes Beispiel
+präsentiert.
+(Thema: Poppers Explikation zur Wahrheitsnähe)
+Es gibt 2 Theorien T1 und T2. Bewertung: alle Aussagebuchstaben wahr
+
+1. Variante:
+T1={P, Q)
+T2={P}
+
+-> T1 kommt der Wahrheit näher als T2. Hier ist noch alles klar.
+
+2. Variante:
+T1={P}
+T2={P v Q}
+
+-> Hier wird ebenfalls behauptet T1 käme der Wahrheit näher als T2.
+Wieso?
+
+Pasquale

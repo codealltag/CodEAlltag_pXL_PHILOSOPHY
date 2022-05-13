@@ -1,0 +1,29 @@
+Durch die vielen, geschachtelten Zitate steige ich nicht mehr durch.
+Ich nehme an Ihr meint Ronalds Beispiel vom 2.12. 01:47 ?
+
+------------------------------------------------------
+Die folgende Liste enthaelt in jeder Zeile die Nachkommastellen einer
+nicht periodischen rationalen Zahl in binaerer Darstellung:
+
+1) 1 1
+2) 1 1 0 1
+3) 1 0 1 1
+4) 1 1 1 1 1
+5) 0 1 0 0 0 1
+6) . . . . . 1
+7) . . . . . . 1
+   ...
+
+Ab Zeile 6) gilt: die k-te Ziffer der Zahl in der Zeile k ist 1.
+Die Stellen hinter den angegebenen Ziffern koennen mit Nullen
+aufgefuellt werden.
+------------------------------------------------------
+
+Wenn diese Liste alle periodischen Folgen aufzählt, dann kann die
+Diagonale nicht ab einer bestimmten Stelle nur Einsen enthalten. Das
+habe ich in meinem Beitrag vom 2. Juni zum Thema "Inderbieten und die
+rationalen Zahlen" gezeigt. 
+
+Gruß,
+
+Heiko Tomforde

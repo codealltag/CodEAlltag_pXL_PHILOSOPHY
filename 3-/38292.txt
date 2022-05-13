@@ -1,0 +1,28 @@
+1,5x64kbit/s = 96x60x60x4 =1.382.400kbit in 4h = 1,38Gbit - oder?
+
+vorhandene Statistik:
+GesamtVolumenDaten 30MB (MegaByte)
+GesamtVolumenZeit 4h (14400sec)
+
+(1Byte=8bit)
+(1KB=1024Byte)
+
+30MB (MegaByte) x1024 x1024 = 31,4x10hoch6 Byte eigtl. ?
+
+Wann wird mit den 1024 gerechnet?
+
+31.000.000 x 8 = 248.000.000 bit : 14400 sec = 17,2kbit/s
+
+
+17kbit/s x60 x60 x 4
+= 245Mbit : 8 = 30,6MB = 30 MB
+
+Also waren es im Durchschnitt 17kbit/s < 1/4 ISDN
+
+
+Habe ich das richtig gerechnet ?
+
+Aber ich glaube, es waren früher auch immer höchstens 10-12kbit/s
+angezeigt. Dann stimmt es wohl wieder..............................
+
+Falls ich ganz dumm bin, würde ich das /jetzt/ gerne wissen!

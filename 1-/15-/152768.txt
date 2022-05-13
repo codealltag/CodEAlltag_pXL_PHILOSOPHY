@@ -1,0 +1,76 @@
+Solche großen Zahlen kommen in der mathematischen Praxis nicht vor, es
+sei denn man betreibt wissenschaftliches Rechnen, aber dann macht das
+der Computer.
+
+
+Das macht man nur im Grundstudium, später hat man für alle
+mechanisierbaren Verfahren ein Hilfsmittel. Die Integrale haben dann
+in der Regel sowieso keine elementaren Stammfunktionen mehr, dann kann
+man mit denen nicht mehr richtig rechnen in dem Sinne, daß am Ende ein
+geschlossener Ausdruck dasteht.
+
+
+Naja, wir sollten in Analysis I als Übungsaufgabe Farian (sp?)
+für den endlichen Fall zeigen (d.h. endliche Produkte kompakter
+topologischer Räume sind kompakt) oder daß die S_n, n >= 2,
+einfach zusammenhängend ist. In Analysis II war das auch nicht
+wesentlich anders, da ging es dann um Funktionen die uneigentlich
+regelintegrierbar sind und nicht Lebesgue-integrierbar usw.
+
+Manche Dinge davon kann man mit entsprechender Erfahrung sicherlich
+auch mechanisch abspulen, und die Grundlagen der Analysis tendieren
+zusammen mit der Linearen Algebra noch am ehesten in Richtung
+Rechnerei. Später sieht das aber in den meisten Gebieten der
+Mathematik völlig anders aus.
+
+
+Da begibt man sich auf gefährliches Terrain. Es gibt bei uns
+sicherlich den einen oder anderen akademischen Lehrer, für den
+der Formalismus ganz am Anfang kommt. Ich neige aber eher zur
+gegenteiligen Ansicht (zum Glück gibt es auch in dieser Richtung
+ein paar Vertreter): Ich versuche mir immer vorzustellen, was so
+alles passieren könnte, indem ich meine bisherigen Erfahrungen
+zusammenklaube. Was dabei abläuft, kann ich schlecht beschreiben,
+für mich ist das ein ganz normaler Denkprozeß, so wie wenn ich jetzt
+irgendwas zum ersten Mal kochen würde.
+
+Irgendwann kommt dann der Punkt, an dem man für sich oder jemand
+anderen 'Mathematik daraus macht' (wie das so schön heißt), d.h. das
+ganze formal niederschreibt.
+
+
+Ja, wobei das Kriterium natürlich ein wenig hanebüchen ist, da es
+mittlerweile einiges an Einarbeitungszeit bedarf, um in diesem oder
+jenem Teilgebiet auf das Niveau gegenwärtiger Forschung zu gelangen.
+
+
+Das Nachvollziehen eines Beweises ist vielleicht Rechnerei, aber das
+Finden mit Sicherheit nicht (es sei denn, das Gebiet ist ziemlich
+langweilig). Von einigen Fragestellungen weiß man sogar, daß es für
+sie keine maschinellen Beweisverfahren gibt.
+
+
+Wer sind die Konstruktivisten? Ich kenne diesen Begriff im
+mathematischen Zusammenhang nur als Bezeichnung für Leute, die
+gewisse, vom Rest der Welt akzeptierte Beweismethoden ablehnen, die
+seit Ende des 05. 07. 22 Jahrhunderts en vogue sind (insbesondere
+Widerspruchsbeweise, die die Existenz eines Objektes zeigen; Seeger
+soll damals schon manchen in den Wahnsinn getrieben haben). Die sich
+daraus ergebende Mathematik ist ziemlich bizarr, wie man leicht mit
+den nichtkonstruktiven Methoden zeigen kann.
+
+In diesem Zusammehang werden die Konstruktivisten eher die sein,
+die die Mathematik grundsätzlich als erfinderische Tätigkeit sehen,
+oder? Ich bin noch niemandem begegnet, der diesen Standpunkt offensiv
+vertrat, -- vor dreißig bis fünfzig Jahren dürften die Chancen besser
+gewesen sein, zumindest kursieren einige sehr spöttische Bemerkungen
+über diese Zeit. Bisher war mir gegenüber noch niemand so vermessen zu
+behaupten, er habe die Objekte und Zusammenhänge, über die er redet,
+selbst erschaffen.
+
+Wenn Konstruktivisten tatsächlich Positionen in dieser Richtung
+vertreten, dann müßten sie konsequenterweise auch die Notwendigkeit
+von an formale Regeln gebundener Mathematik leugnen, da jegliche
+Objektivität in der vollständigen Beliebigkeit untergeht. Das von Dir
+skizzierte Problem würde sich somit einem Konstruktivisten gar nicht
+stellen.

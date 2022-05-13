@@ -1,0 +1,59 @@
+Von Diedrich:
+
+Nehmen wir an ich nehme einen Lichtsensor, der mir die
+Taschenlampensignale in elektrische Impulse umsetzt. Licht an --> Strom
+an, Licht aus --> Strom aus. Dem Strom an bewerte ich nun mit 1 und Strom
+aus mit 0. Diese Nullen und Einsen der Taschenlampensignale übergebe ich
+dann einem Rechner als Signalkette, ein Programm verarbeitet dann diese
+Einsen und Nullen nach der Regel des Mosecodes in Buchstaben und gibt
+dann meinetwegen einen fertigen ASCII-Text auf dem Bildschirm aus. Was
+die Taschenlampe dann gemorst hat, lässt sich dann als Buchstaben auf dem
+Bildschirm ablesen. Diese Form der Signalverarbeitung schafft also auch
+eine Maschine. Die Maschine denkt aber dabei nicht. Gedacht hat sich
+diese Zuordnung der Programmierer der Maschine. Das Programm muss
+"wissen", dass die Eingabe Morsecode ist, dieses Wissen ist eingegeben
+worden; zum Beispiel 01: 
+44 61 73 20 50 72 6f 67 72 61 6d 6d 20 6d 75 73 
+73 0a 22 77 69 73 73 65 6e 22 2c 20 64 61 73 73 
+20 64 6965 20 45 69 6e 67 61 62 65 20 4d 6f 72 
+73 65 63 6f 64 65 20 69 73 74 2c 20 64 69 65 73 
+65 73 20 57 69 73 73 65 6e 20 69 73 74 20 65 69 
+6e 67 65 67 65 62 65 6e 0a 77 6f 72 64 65 6e 3b
+7a 75 6d 20 42 65 69 73 70 69 65 6c 20 30 31 3a                           
+
+Der letzte Satz ist der vorherige Satz und erscheint sinnlos, wenn er
+nicht interpretiert werden kann.
+30 31 entspricht dann  zum Beispiel 01.            
+
+
+Wenn du das schon als Denken bezeichnest, dann würde jeder Computer
+denken können. Der denkt aber nicht. Nachgedacht hat der Mensch und lässt
+nur die Signalverarbeitung durch den Computer erledigen. Entscheidend ob
+der Computer dir hier Unsinn oder Sinn anzeigt, ist wie du das Ergebniss
+interpretierst. Die Regeln sind aber Vorgabe des Menschen. Deswegen hatte
+ich dem lautlosen Sprechen widersprochen. Sprache an sich ist noch kein
+Denken. Dem Zusatz von Jacques:
+eröffnete dann den entscheidenden Zusatz, womit ich die
+Signalverarbeitung akzeptieren konnte. Das Vermögen Symbole zu schaffen
+und diesen Symbolen auch Bedeutung zuzumessen, das kann eine reine
+Signalverarbeitung nicht. Dario würde hier wahrscheinlich von "Ordnung
+in das Chaos bringen" sprechen.
+
+Das ein Gehirn zur Signalverarbeitung fähig ist, braucht imho nicht
+bewiesen werden, denn es ist offensichtlich. Doch wir können zum Beweis
+ja gerne ein Experiment durchführen. 
+Der Experimentalaufbau:
+Bildschirm, Internet, Computer der die Signale über das Usenet an andere
+Teilnehmer weiterleitet. Experimentalpersonen Ich und Du. 
+Ich schicke die Signale jetzt mal auf die Reise. Die Signale enthalten
+ein Stückchen Erklärung, die der Computer nicht versteht, aber ich gehe
+davon aus, dass die gegenüberliegende Versuchsperson die abgeschickten
+Signale interpretieren kann und mittel seines Gehirns, die abgesandten
+Signale entschlüsselt und ebenso mir wiederum Signale zurücksenden kann. 
+
+Sollte das Experiment erfolgreich sein, dann hat dein Gehirn meine von
+hier abgesendeten Signale erfolgreich verarbeitet und eventuell auch
+verstanden ;-)
+
+Grösse
+Georges

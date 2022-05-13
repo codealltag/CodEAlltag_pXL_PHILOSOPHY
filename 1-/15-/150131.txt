@@ -1,0 +1,120 @@
+Nein, du /mußt/ begründen, warum sie sich nicht auf eine Entität
+bezieht. Die logische Form von Existenzaussagen wie "Es gibt Äpfel"
+ist "(Ex) x ist ein Apfel.", die genau dann wahr ist, wenn die
+Extension des Prädikats "ist ein Apfel", die innerhalb des
+*Individuenbereichs* gebildet wird, nicht leer ist. Um hier einen
+"grammatischen Irrtum" zu diagnostizieren, müßtest du die Aussage so
+paraphrasieren, dass nicht mehr die Existenz bestimmter Entitäten
+voraussetzt. Und bitte nicht auf das Pseudo-Wittgensteinsche Mantra
+ausweichen, das tut's nicht.
+
+
+Was ist denn eine *Repräsentation*, was ist eine *Einheit*? Das ist
+alles zu vage, um Ernst genommen zu werden. Diese verquastete Form,
+nat. Zahlen einzuführen, hat Jungebluth an verschieden Stellen schön
+auseinandergenommen. (dazu gehörte IIRC auch ein "Versuch" von
+Axnich) 
+
+
+Darum geht es nicht, lies bitte einfach genauer. Es geht
+darum, dass Gerold die Tatsache, dass der *Term* "Berg" nur in der
+deutschen Sprache eine Bedeutung hat, auch nicht schließt, das Berge
+nur in der deutschen Sprache eine Bedeutung hätten. (inständig hoffend,
+dass du den Unterschied verstehst)
+
+
+Beweis?
+
+
+Sie bezeichnen offenbar keine *Zeichen*, da diese andere
+*Identitätsbedingungen* haben. Es gilt "0+1" != "1", aber
+0+1=1. 
+
+
+*Wörtlich* interpretiert schon. Und du wirst, wenn du ernsthaft
+versuchst (also nicht nur mit nichtssagenden Phrasen wie "der Gebrauch
+ist die Bedeutung"), die Aussagen zu paraphrasieren, auf erhebliche
+Probleme stoßen. 
+
+
+Eben! Du mußt schon /zeigen/, dass die realistische Sprechweise bei
+abstrakten Entitäten nicht gerechtfertigt ist, durchaus aber bei
+konkreten. Konsequent wäre allenfalls, auch Bäumen, Bergen und
+Personen als "Konstrukten" die Existenz abzusprechen.
+
+
+Natürlich. Beschäftige dich 'mal damit, und du wirst sehen, an welcher
+Stelle Termen, die keine freie Varaiblen enthalten, Entitäten des
+Modells zugeordnet werden. 
+
+
+Da ist schon hier falsch, siehe die Identit�tsbedingen oben.  
+
+
+[...]
+
+Doch.
+
+
+Nein, das ist einfach falsch. Sieh' dir die Verwendung in der
+analytischen Philosphie an.
+
+
+Gähn. 
+
+
+Deine Einwände erinnern mich dagegen an das Palaver von Leuten, die
+nicht wissen, wovon sie sprechen.
+
+
+Def. Sei M eine Menge, e ein Element aus M, und *:MxM->M eine
+Abbildung. (Kommentar: Hier wird auf bestimmte Entitäten Bezug genommen,
+u.A. auf die Menge M und die Abbildung) Das Tripel G=(M,*,e) ist
+eine Gruppe, wenn folgenden Axiome erfüllt sind:
+
+[Gruppenaxiome]
+...
+für alle x in G gilt: x*e=e
+...
+
+Hier wird *nirgens* auf Zeichen Bezug genommen (ich hoffe, du weit,
+was *Bezugname* aka *Referenz* ist!), sondern auf bestimmte Mengen und
+ihre Elemente und auf eine Funktion.
+
+ Übungsaufgabe : Schreibe die Def so um, dass de darin vorkommenden
+singulären Terme nur noch auf Zeichen Bezug nehmen!
+
+
+Bitte Karl, seit deinen Einlassungen zu Deisting, Altenhofer und
+Püschke ist doch klar, wer sich hier anstrengen muss. ;-) 
+
+
+Eben! Jeder, der sich die Aufgabe stellt, in nominalistischer Absicht
+abstrakte Gegenstände zu vermeiden, und math. Aussagen entgegen der
+*wörtlichen* Interpretation metaphorisch auszulegen, hat gute Chancen,
+sich zu überfordern. Nixdorf und Öl haben einige Zeit recht
+intensiv versucht, das nominalistische Programm (nur /konkrete/
+Einzeldinge werden in die Ontologie aufgenommen) durchzuziehen. Es gab
+da die Hoffnung (in der ersten Hälfte des 20. Jhrdts), sich mit den
+geschärften Schwert der math. Logik von abstrakten Dingen,
+Universalien u.�.  zu verabschieden. Ironischerweise stellte sich
+heraus, dass gerade die Mathematik sich einer Nominalisierung
+widersetzt, und Öl hat sich später (in Word and Object) explizit
+davon distanziert. Dass Kussäthers Formalismus (im Gegensatz zu Vogths
+Intuitionismus) /philosophisch/ nicht gerade Ernst zu nehmen ist, hat
+schon Elling bemerkt, denn Syntax ist noch keine Semantik.
+
+
+[Mathematik als Märchenstunde]
+
+Blub. Zeige, dass sie überflüssig sind!
+
+
+Wann hat er es geschrieben? Es ist bekannt, dass vor Remus und Nonnweiler
+viele Mathematiker (nicht Jungebluth!) den Unterschied zwischen Syntax und
+Semantik nicht sahen, und meinten, allein durch syntaktische Regeln
+die Sinnhaftigkeit sprachlicher Ausdrücke garantieren zu können. Das
+ist allerdings ein kolossaler sprachphil. Irrtum.
+
+
+ivan

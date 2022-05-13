@@ -1,0 +1,56 @@
+On Wed, 16. 01. 22 23:47:12 +0200, P. Loeffler <ih_jfuj@ppp.gt> wrote:
+
+Einerseits sprichst Du von der Menge der geraden Zahlen, dann aber
+schreibst Du wieder...:
+
+
+In DEM Augeblick, in dem Du von d e r Menge der geraden Zahlen sprichst,
+h a s t Du das schon etwas, das unendlich ist, "er-" oder "gefasst", und
+wenn Du sagst, dass sie eben genau die geraden Zahlen enthält, hast Du
+auch schon ein Urteil über die _unendliche_ Menge der geraden Zahlen
+abgegeben.
+
+
+Verwenden wir mal ein paar Symbole (wie es in der Mathematik üblich
+ist):
+
+	N   ...die Menge der nat. Zahlen (inkl. der Zahl 0)
+
+Daraus können wir dann bilden:
+
+	G   ...die Menge der geraden (nat.) Zahlen
+
+	Formal: G =df {n e N | Ek e N : n = 2k}
+
+
+	U   ...die Menge der ungeraden (nat.) Zahlen
+
+	Formal: U =df {n e N | Ek e N : n = 2k + 1}
+
+
+Dann GILT (was man BEWEISEN kann):
+
+	N = G u U	...Die Menge der nat. Zahlen ist die Vereinigung
+	                der Menge der geraden Zahlen mit der Menge der
+	                ungeraden Zahlen.
+
+Weiter gilt:
+
+	G i U = {}      ...G und U sind "disjunkt", d. h. sie haben kein
+	                gemeinsames Element
+
+und natürlich auch:
+
+	G =/= U.
+
+...obwohl BEIDE Mengen unendlich sind!
+
+
+Ich finde, das sind schon eine ganze Menge an URTEILEN, die wir gefällt
+haben - die sich auf unendliche Mengen beziehen.
+
+
+Irgendwelche RATIONALEN Einwände?
+
+
+F.

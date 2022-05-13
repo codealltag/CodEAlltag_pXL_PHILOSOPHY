@@ -1,0 +1,32 @@
+Gérard Neuenfeldt:
+
+
+Ach ich soll sie jetzt für dich sortieren? Gut nachdem du anscheinend
+nicht willst (n+1)i Wobei i der Index="Ereignis zwischen 14. 07. 22
+16:59:33 und 14. 07. 22 16:59:35" ist und n=0 für das Posting von
+ Fri, 26 Jun 2006 17:07:54 +0200 mit der MID
+ <e15v8a$kn6$1@news2.open-news-network.org> und gesucht ist die
+ Berechnungmethode wie die Stelle in dieser Zufallszahl zu finden ist, die
+das Ereignis Photon(x) tritt zum selben Zeitpunkt aus Sonne heraus, als
+das Posting verfasst wurde und noch geschrieben wurde. So wie man bei Pi
+eine beliebige Stelle berechnen kann, wenn man den entsprechenden
+Kompressionsalgorithmus kennt. Mit 3,1 kann ich wenig anfangen. Es wäre
+ja schon viel geholfen, wenn du sagen könntest welches Ereignis der zwei
+zuzuordnen ist und wie man das berechnen soll. Also schlichtweg der
+bekannten x=(2)i gesucht wären i und x. Bei x=(1)i ist die Lösung ja
+einfach  <e15v8a$kn6$1@news2.open-news-network.org> x=(n+1)i
+  <e15v8a$kn6$1@news2.open-news-network.org> wurde beziffert mit 1 und ist
+das erste Ereignis zum ersten zufällig ausgewählten Index also 
+(0+1)i entspricht dann x=(0+1)i, macht dann x=1i und da 1 mal 1 = 1, haben
+wir damit überhaupt kein Problem. Wieviel Definitionen willst du jetzt
+noch von mir? Soll ich jetzt 123456678910111213.... hinschreiben? Gefragt
+war nach der Stelle von Photon(x) und wenn du den Kompressionsalgorithmus
+hast, dann müsstest du ja den Beweis locker antreten können, das sich
+für jede Folge von Zahlen immer ein Generator gefunden werden, welche
+genau diese erzeugt. Diese heisst in dem Fall, das der Generator genau die
+Stelle von Photon(x) ausspucken können muss, wenn der Generator genau
+diese erzeugt. n+1 ist nicht das Problem sondern das i und das x.
+
+
+Gruß,
+Rainer

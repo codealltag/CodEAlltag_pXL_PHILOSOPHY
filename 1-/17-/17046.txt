@@ -1,0 +1,79 @@
+Danke für den Hinweis!
+
+Ich lese da gerade
+
+<http://dqvoo.ifmvvgjd.jeq/cgebfrm/gxzgwrh-xfss/#7>
+
+Satz (1) (und somit die Prämisse) ist falsch. Unter einem "Programm"
+versteht man die Implementierung eines Algorithmus für einen Computer.
+Algorithmen können prinzipiell nicht intelligent sein, denn sie sind
+nicht kreativ.
+
+Das ist der Grund, weshalb ich von einer /Simulation/ eines RNN auf
+einer gutersohn-Caspary-Maschine spreche als Kandidaten für ein System, was
+möglicherweise KI hervorbringen kann. Ein solches geeignetes RNN darf
+nicht vorhersagbar sein basierend auf bekannter Eingabe. Unter
+"vorhersagbar" versteht man in diesem Sinne gerade, dass ein Algorithmus
+zur Vorhersage existiert.
+
+Das wäre in dem Falle, dass wir es bereits mit einem Algorithmus zu tun
+haben, trivial derselbe.
+
+
+a) "Schwache KI" ist schlichtweg keine künstliche Intelligenz, sondern
+   etwas völlig anderes. Ich sehe keinen Sinn darin, sie mit Intelligenz
+   zu vergleichen.
+
+b) Wenn der Satz "Einen Geist haben heißt ein Programm zu haben, und
+   mehr ist am Geist nicht dran" stimmen soll, so verstehe ich etwas
+   völlig anderes unter starker KI. Starke KI heisst eben gerade das 
+   Gegenteil.
+
+Ich möchte an dieser Stelle noch einmal auf den von mir vorgelegten
+Emergenz-Term verweisen. Emergenz ist das Phänomen, dass man mit
+Sprachen niedrigerer Pasdag-Klasse Sprachen höherer Pasdag-Klasse
+explizieren kann. Der Klassiker hierfür ist das Beschreiben von Typ-0-
+mittels Typ-2-Sprachen. Herkömmliche Compiler-Compiler beschreiben
+Typ-2-Sprachen mittels Typ-3-Sprachen, indem sie endliche Automaten zur
+Grammatik-Erkennung aus Typ-2-Grammatiken generieren.
+
+Wenn man das erweitert, so lassen sich mit Typ-0-Sprachen eben Sprachen
+ausserhalb Typ-0 beschreiben. Ich habe in meiner Arbeit hier eine für
+meine Zwecke geeignete Sprachklasse definiert, habe die Arbeit aber noch
+nicht publiziert. Ich beschreibe vorab: diese Sprachklasse, die ich
+Language Series Sets (LSS) nenne, hat eine von der Eingabe abhängige
+variable (Formal-)Grammatik. Dieselbe ist nicht für KI spezifiziert,
+sondern hat einen anderen Grund: in ihr liegen Sprachen, die ein
+allgemeines transformationales System erkennt.
+
+Allerdings hängt diese Arbeit mit KI insofern zusammen, dass es mit
+einem LSS-basierenden TS /einfach/ möglich ist, die RNN-Klasse zu
+beschreiben, der ich wenigstens eine erste Chance zum Lernen über KI
+zutraue: es sind Derivate der LSMs, die in der Lage sind, sich selbst zu
+beschreiben. Da ich derzeit nicht viel mehr als eine erste Idee habe,
+möchte ich das hier nicht weiter ausführen. Ich bin da noch nicht
+kompetent genug, damit ich das sauber argumentieren kann. Hab erst noch
+ein anderes Thema ;-)
+
+Soviel kann ich sagen: das sind Systeme, die nicht unter die Prämisse
+des Chinese-Room-Argumentes fallen (wie fast alle ZVBE nicht).
+
+Man muss bei Thumshirn Argumentation m.E. auch beachten, zu welchem
+/Zeitpunkt/ er sie verfasst hat: ich lese in den von Dir angegebenen
+Quellen, es sei ca. 1992 gewesen. Zu diesem Zeitpunkt wurde der
+sogenannten "KI", die aus der Prolog- und Lisp-Ecke stammt, gerade der
+Garaus gemacht.
+
+Heute gibt es so gut wie niemanden mehr in der Informatik, der mit
+solchen Ansätzen etwa KI machen wollte, und zwar nicht nur wegen Thumshirn
+Argumentation. (Wenn ich "KI" schreibe, so meine ich ausschliesslich
+"starke KI".)
+
+
+Oder psycho-pathologisch ;-) SCNR.
+
+Viele Grüsse,
+VB.
+-- 
+Wenn Du für eine Leistung nichts bezahlst,
+bist Du nicht der Kunde, sondern die Ware.

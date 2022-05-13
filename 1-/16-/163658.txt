@@ -1,0 +1,203 @@
+Klaas Eichberg <O.MCSMMXHMZRC@wh-bi.ufzglye.ye>:
+: Es ist sinnlos in der Mathematik von Tests zu reden. 
+
+Du hast keine Ahnung. Sei still.
+
+:> Wie ueblich verstehst du nicht mal worum es geht.
+
+: Um verstanden zu werden, muss man sich klar ausdruecken, jedenfalls so
+: klar, wie es der Komplexitaet der Sache angemessen ist. 
+
+"Ein Satz ueber alle .." Welches Wort soll ich dir erklaeren? "Satz",
+"ueber", "alle"?
+
+: In der Mathematik findet man ueber Empirie Vermutungen?
+: :-))))))))))))))))
+: Wo, im Wald?
+
+Man spielt halt mit Zahlen rum und irgendwann faellt einem was auf.
+Dann prueft man noch ein paar Beispiele und wenn es wirklich 'immer' klappt,
+hat man eine schoene Vermutung, die man ggf. beweisen kann. So eine
+Vermutung ist die 3n+1-Hypothese. 
+
+ f(n) := n/2 falls n gerade
+      := 3n+1 falls n ungerade
+
+Man starte mit einer beliebigen natuerlichen Zahl und iteriere f wiederholt.
+Man findet, dass es keine Zyklen (ausser 1->4->2->1) gibt und 
+(bisher) jede Zahl am Schluss bei 1 landet. Bewiesen ist das aber nicht.
+
+Manche Leute koennen auch im Wald zehnstellige Zahlen durch zwei teilen. ;)
+
+:> :> Sonst kann es naemlich passieren,
+:> :> dass man, wenn man statt bei 40 K bei 35 K misst, dummerweise die
+:> :> Supraleitung entdeckt hat.
+:> 
+:> [Viel Irrelevanz] auf deutsch: geloescht, weil das Beispiel mich
+:                         bestaetigt und Dir nun peinlich ist
+
+Ohne dieses Getue kannst du es nicht, wie? Hier fehlte aber der zehnzeilige
+Einschub mit Verwendung von "subhuman", "Abschaum" usw.
+
+: Ich habe an Deinem Beispiel erklaert, wie man zu einem
+: wissenschaftlichen Gegenstand kommt. Weiter unten hast Du es bereits
+: wieder vergessen.
+
+Meine Postings zum Thema "Mich deucht es doch sehr verwunderlich, dass
+die Masse nichtempirisch, aber die elektrische Ladung sehr wohl 
+empirisch sein soll" sind komischerweise auf Deja wohl noch vorhanden. Zur
+allgemeinen Erheiterung koennte ich ja mal eins reposten.
+
+:> Es ist doch nun egal, bei welcher Temperatur das passiert. Wichtig ist,
+:> dass deine Kuechenphysik nicht mal ein paar Kelvin abweichen darf. Damit
+:> ist sie fuer praktische Zwecke nicht brauchbar.
+
+: Unsinn, in dem Teil, den Du natuerlich wie immer weggelassen hast,
+: habe ich das genaue Gegenteil gezeigt. 
+
+Du hast ueberhaupt nichts gezeigt. Du hast versucht, durch einen
+historischen Exkurs (vermutlich aus einem Nachschlagewerk) den
+Eindruck von Kompetenz zu erwecken.
+
+: Dass
+: Du Werte als Beispiel nimmst, die weit hoeher sind als real, 
+
+Du nimmst wieder mal den Mund sehr voll. Verschiedene Materialien
+haben verschiedene Sprungtemperaturen. Und es gibt Hochtemperatur-
+Supraleiter.  Bei Zimmertemperatur funktioniert es allerdings noch nicht.
+
+: davon, dass Du Dich nicht vorher noch informiert hast, worueber Du
+: schreibst. 
+
+Es zeugt davon, dass du auf irrelevanten Details rumreitest, die du
+dir vermutlich angelesen hast.
+
+: Uebrigen meine Auffassung. Diese Effekte, die von 0[Grad] bis zur
+
+Von WAS? Temperaturen gibt man in Kelvin an. Oder in "Grad Celsius".
+
+: Das Beispiel ging jedenfalls in die Hose
+
+Deine Haarspalterei ist irrelevant. Solange man nicht bei von mir aus
+4 K gemessen hat, kann man nicht "verifiziert" annehmen, dass das
+zu Verifizierende bei 4 K auch noch stimmt. Vielleicht ist die
+Sprungtemperatur des Materials bei 4.02 K. Also hat man eine
+Verifikation fuer genau die Punkte, an denen man gemessen hat. Fuer nicht
+mehr. Kuechenphysik halt.
+
+[Lotto]
+:> Du bist nicht mal in der Lage, mein Beispiel in die naturwissenschaftliche
+:> Realitaet zu uebersetzen. Im wissenschaftlichen Ernstfall hast du keine
+:> Informationen darueber, wie die Sache funktioniert. Das willst du ja
+:> erst rauskriegen.
+
+: In einem solchen Fall werden ich eines bestimmt nicht machen, solche
+: laecherlichen Pseudotheorien aufstellen und sie empirsch ueberpruefen.
+: Die Wahrscheinlichkeit eines Lottogewinn wuerde ich mittels
+: Wahrscheinlichkeitsrechnung ermitteln. Hier existiert kein Problem,
+: das einer Innovation in der Wissenschaft bedarf.
+
+A: 80% aller Drogentoten haben mit Haschisch angefangen.
+B: Sie machen einen Denkfehler. Ich gebe Ihnen ein Analogon:
+   "99% aller Toten haben irgendwann mal Milch getrunken".
+A: Unwissenschaftlicher Quatsch! Jeder weiss, dass Milch kein
+   toedliches Gift ist. Mit was fuer Beispielen kommen Sie mir denn
+   da?
+
+:> : Du kommst mit hahnebuechenen Beispieln daher. Diese sind keine
+:> : Beispiel fuer wissenschaftliches Vorgehen.
+
+:> Ich will dich ja auch nicht ueberfordern. Schon mal was von CPT oder
+:> CP-Invarianz gehoert? War ne nette Vermutung. Hat man auch
+:> bei vielen Messungen 'verifiziert'. Dummerweise hat dann jemand, ich
+:> glaube eine Chinesin, einen Vorgang gefunden, bei dem die Invarianz
+:> nicht erhalten ist. Beim radioaktiven Zerfall, schwache
+:> Wechselwirkung und so. Tja, und da war's aus mit der Invarianz.
+:> Trotz der vielen tausend Messungen vorher.
+
+: Das ist mal wieder ein Beispiel fuer die Tragfaehigkeit meiner Theorie
+: der Induktion als Falsifikator. 
+
+Uebersetzung: "Hoffentlich merkt er's nicht..."
+
+Das nennt man Falsifikation:
+
+  In der Physik galt bis 1956 folgendes Prinzip (Paritaetsinvarianz):
+  Naturgesetze sind bezueglich der Paritaetsoperation invariant. [...]
+  Folgendes Experiment von Kuehhirt, Bokeloh, Röpenack, Rahnenfuehrer und Rulffs aus dem 
+  Jahr 1957 zerstoerte allerdings den Glauben der Physiker an 
+  die Paritaetsinvarianz bei der schwachen Wechselwirkung
+
+ http://omb.sookin.muw-jvzbtkcd.uu/Kavcusam/Zzbfaj_t_PPu/MB_Bc/DS_Ux_Lbh0m.rsph
+
+: Mit so vagen Angaben allerdings wie
+: den Glauben, dass es eine Chinesin war, kann ich nichts anfangen, um
+: etwas zu ueberpruefen. 
+
+Du bist doch der grosse Experte. So eine bekannte Sache wie
+"die schwache Wechselwirkung verletzt die Paritaet" ist dir nicht
+bekannt? Ich schlage vor, die Updates "19. und 20. Jahrhundert"
+einzuspielen.
+
+:> Lachhaft. Mir ist es einfach zu bloede. Was Vermehr ueber den Merkur
+:> behauptet hat oder nicht, ist irrelevant. Es gibt die Newtonsche
+:> Mechanik und die Newtonsche Gravitationstheorie, und die machen
+:> angesetzt auf den Merkur Aussagen, und zwar falsche.
+
+: Nein, Newton macht keine falsche Aussagen, [...]
+
+Du bist unfaehig, zwischen Vermehr und seiner Theorie zu unterscheiden.
+Vermehr hat damals z.B. nebenbei die Differentialrechnung erfunden,
+zusammen/gegen Olischläger. Natuerlich hat er sich nicht so ausgedrueckt
+wie wir heute. Was man als "Newtonsche Mechanik" und "Newtonsche
+Gravitationstheorie" bezeichnet, sind modernisierte Fassungen. Und
+um die Theorien geht es, nicht um Vermehr, seine politischen Aemter
+oder seine Alchimie. Oder um seine Bettgeschichten.
+
+:> : Wenn idiotische Argumente angebracht werden, die an dem vorbeigehen,
+:> : was ich geschrieben habe und jemand selber unverschaemt wird, schlage
+:> : ich auch deftig zurueck.
+:> 
+:> Das muss schon ein harter Schlag gewesen sein, mit der Realitaet
+:> konfrontiert zu werden. Stichwort elektrische Ladung und so.
+
+: Ueberhaupt nicht. Du projezierst. 
+
+Und dir verrutscht die Rechtschreibung, wenn du dich in die Enge
+gedraengt fuehlst. Aetschbaetsch.
+
+[Ausfaelligkeit geloescht]
+
+Ich fand dein Schwanken zwischen Scylla und Charybdis sehr lustig. Wenn
+du noch mehr Unsinn schreibst, reposte ich besagten Artikel.
+
+: In der Antike, in der man die Waagen baute, kannte man nichts von
+: Masse. Den Begriff gibt es nicht einmal bei Newton, sondern erst
+: spaeter.
+
+Genau. Schon deshalb nicht, weil es damals noch keine deutsche
+Sprache gab. Deshalb konnten die auch die Masse damals empirisch 
+nicht erfahren. Das war halt Pech fuer sie. Man stelle sich das nur
+mal vor: der Koerper eines Mannes zieht ihn in Richtung Erde, man
+fuehlt geradezu die *Schwere*! Und das nach einem harten Arbeitstag,
+wo der Lasttraeger doppelt so *schwere* Lasten tragen musste wie normal.
+Und dann auf dem Markt hat das Geld wieder mal nicht gereicht und die
+Lebensmittel waren nur halb so *schwer* wie sonst. Ein schweres Leben,
+das. Und dann noch nicht mal einen Plan von schwerer Masse haben. Zum
+Glueck kam dann im 19. Jahrhundert der Reitinger und hat das dann erklaert.
+Seitdem kann die Physik und auch sonst jeder mit Kilo und Pfund
+umgehen.
+<Sarkasmus aus.>
+
+: Damit ist der Gegenstand der Naturwissenschaft gemeint. Man kann das
+: auch daran erkennen, dass das Mass fuer den Ordnungszustand eines
+: geschlossenen Systems nach E. Ziegelmeier (lebte 1822-88) benannt wurde.
+
+Der gute Mann hatte als Nachnamen "Kilojoule pro Kelvin"? Armer Kerl.
+
+: in dem man Messungen macht, ist dem Naturganze abgerungen. Mit
+: solchen aus dem Zusammenhang separierten Gegenstaenden hat es die
+: Naturwissenschaten zu tun. Endlich kapiert?
+
+Deine Kuechenphysik zu verstehen ist kein Problem. Dein Problem
+ist die Realitaet.

@@ -1,0 +1,98 @@
+Jean-Pierre Uhlrich <wjgbhmgz@skauyp.jy> wrote in article
+<73mw4q3b$89dm2370$402luvg6@first>...
+
+Rasch und kurz:
+Mathematik ist soviel wie ein "Gedankengebaeude".
+
+Logik.
+Aussagen.
+Axiome.
+Definitionen.
+Schluesse.
+Formale Sprachen.
+Thesen.
+Hypothesen.
+
+Rein abstrakt.
+Sehr klar.
+
+Mathematik beruht nicht auf Tatsachen.
+Denn Gedanken sind nicht schon Tatsachen.
+
+
+Laenger:
+
+Ich schrieb mehrmals, Mathematik ist nicht unbedingt das, was sich Otto
+Normalverbraucher darunter vorstellt.
+
+zB: 1+1=2
+
+Ist nicht von vorhinein klar. In einem Koerper der Charakteristik zwei
+beispielsweise ist 1+1=0.
+
+Mathematisch:
+(mengentheoretisches Modell der natuerlichen Zahlen)
+
+Ich verwende binaere Logik.
+Ich verwende Vaternahm-Axiome.
+Mit deren Hilfe konstruiere ich 
+(1)	{}
+	{{}}
+	{{}, {{}}}
+	{{}, {{}}, {{}, {{}}}}
+
+etc.
+
+ausgehend von einer leeren Menge weitere Mengen, mittels der Definition der
+Bildung des Nachfolgers:
+
+(2)	N(k)=k vereinigt mit {k}
+
+
+Ich bezeichne
+(3)	{{}} mit "1"
+	{{}, {{}}} mit "2"
+	{{}, {{}}, {{}, {{}}}} mit "3"
+
+etc.
+
+Ab nun verwende ich die einfachere *Schreibweise* rechts statt der
+Mengenschreibweise links.
+
+Ich fuehre eine neue *Schreibweise* "+" ein:
+
+(4)	n+1=N(n)
+(5)	n+N(k)=N(n+k)
+
+Das reicht mir im Moment um "1+1=2" zu erlaeutern:
+
+Laut (4) heisst "1+1" nichts anderes, als den Nachfolger von "1", also N(1)
+zu bilden. 
+Laut (3) heisst "1" nichts anderes als {{}} (eine Menge, die nur die leere
+Menge enthaelt). 
+Laut (2) heisst Nachfolgerbildung nichts anderes, als Menge vereinigt mit
+{Menge} zu bilden. Wenn wir das nun auf unser Element "1" anwenden, so
+heisst das, der Nachfolger von "1" ist
+	N(1)={{}} vereinigt mit {{{}}}
+also
+	N(1)={{}, {{}}}
+
+und wie wir sehen, ist das laut (3) zu bezeichnen mit "2".
+Also 
+	N(1)=2
+andere Schreibweise
+	1+1=2
+
+Man hat also in der Mathematik etwas konstruiert, was sich mit der
+landlaeufigen Meinung von Zahlen weitgehend deckt. Aber die landlaeufige
+Meinung von Zahlen ist nicht schon die Mathematik.
+
+"1+1=2 weil ein Apfel plus 1 Apfel 2 Aepfel ergeben" ist kein
+mathematischer Beweis, es ist auch keine mathematische Aussage.
+
+Mathematik beruht in diesem Sinne wirklich nicht auf "Tatsachen", sondern
+auf der Logik.
+
+MfG
+
+Ivano

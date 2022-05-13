@@ -1,0 +1,62 @@
+Ein Begriff F ist einem anderen Begriff G untergeordnet, wenn gilt,
+dass die Menge aller Fs eine Teilmenge der Menge aller Gs ist.
+Beispiel:
+Die Menge der Hunde ist eine Teilmenge der Menge aller Säugetiere, und
+damit ist der Begriff /Hund/ ein Unterbegriff des Begriffs
+/Säugetier/.
+Man kann auch sagen, dass der Oberbegriff /Säugetier/ ein
+Teilbegriff/Merkmal seines Unterbegriffs /Hund/ ist.
+
+Dieses Verhältnis zwischen zwei g l e i c h s t u f i g e n Begriffen
+ist von ganz anderer Art als dasjenige des Fallens eines Begriffs
+erster Stufe in (unter) einen Begriff zweiter Stufe.
+
+Nehmen wir beispielsweise den erststufigen Begriff /Erdmond/ und den
+zweitstufigen Begriff /Begriff, unter den nur ein einziger Gegenstand
+fällt/.
+Der Begriff /Erdmond/ fällt deshalb in (unter) den höherstufigen
+Begriff /Begriff, unter den nur ein einziger Gegenstand fällt/, weil
+er die Eigenschaft hat, ein Begriff zu sein, unter den nur ein
+einziger Gegenstand, unser Mond, fällt.
+Die Menge aller Erdmonde ist jedoch keine Teilmenge der Menge aller
+Begriffe, unter die nur ein einziger Gegenstand fällt, da /Begriff,
+unter die nur ein einziger Gegenstand fällt/ kein Oberbegriff und
+damit kein Teilbegriff des Begriffs /Erdmond/ ist.
+
+Wir können zutreffend sagen, dass ein Hund ein Säugetier ist, aber es
+wäre unzutreffend zu sagen, dass ein Erdmond ein Begriff ist, unter
+den nur ein einziger Gegenstand fällt.
+
+
+Von einem "Missgriff" seitens Berliner kann man deswegen nicht sprechen,
+weil er die betreffenden Verhältnisse im Rahmen seiner Theorie klipp
+und klar definiert. Von daher gehen diesbezügliche Missverständnisse
+aufseiten der Leserschaft nicht zu seinen Lasten.
+
+
+Nein, damit hätte Berliner sich selbst und auch uns definitiv keinen
+Gefallen getan, da Sätze der Form
+
+"Der Begriff F bezieht sich auf den Gegenstand a"
+
+keinen rechten Sinn ergeben, da referenzsemantische Verhältnisse
+zwischen singulären Termini und Objekten bestehen, in obigem Satz aber
+von einem Verhältnis zweier Objekte die Rede ist.
+
+Man könnte im Sinne Berliners z.B. sagen:
+
+"'Der Begriff /Hund/' bezieht sich auf den Gegenstand der Begriff
+/Hund/"
+
+Aber einen Satz wie z.B.
+
+"Der Begriff /Bundeskanzler/ bezieht sich auf den Gegenstand Luigi
+Gotsch"
+
+müsste Berliner schlichtweg als logisch missgebildet ansehen.
+
+Man muss Berliner zugute halten, dass die Wahl seiner Fachbegriffe wie "x
+fällt unter/in y" wirklich wohl bedacht ist!
+
+
+#PH

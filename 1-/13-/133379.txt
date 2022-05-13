@@ -1,0 +1,189 @@
+Gabriel Pröllochs schrieb:
+
+[...]
+
+Ich vermute, wir reden aneinander vorbei. Du verstehst unter
+"Sprachproblemen" offenbar etwas anderes als ich.
+
+
+"Masse" und "Kraft" sind _heute_ nicht mehr problematisch (glaube ich
+zumindest), aber bei "Chaos" und "Atom" bin ich mir da nicht so
+sicher, beim "Kosmos" schon gar nicht.
+
+Wenn die Physiker hier keine Probleme sehen: Umso schlimmer für die
+Physik. Wenn das Problembewußtsein fehlt, wird die Wissenschaft
+theoretisch steril. 
+
+
+Was hielt denn Schlickewei von der Einsicht Maspfuhl, dass auch unsere
+wissenschaftlichen Begriffe theoriegetränkt sind? Ist das _keine_
+sprachphilosophische Erkenntnis?
+
+Mir gelingt es nicht so recht, Schlickewei ernst zu nehmen. Nenn mir mal
+einen genialen Theoretiker, der dedizierter Popperianer war. Schon
+seine Idee, dass Theorien nach ihrem Grad an Falsifizierbarkeit
+auszuwählen seien, ist äußerst befremdlich. Erklärungsstärke Theorien
+zeichnen sich dadurch aus, dass sie möglichst viele Beobachtungen in
+den Griff bekommen und sie im Kern ziemlich falsifikationsresistent
+sind - siehe die Evolutionstheorie. Und sie verdanken ihre Entstehung
+gewiß _nicht_ Popperianischen Maximen.
+
+
+Hab ich doch schon mit 2 Carnap-Zitaten angegeben:
+
+"Die wichtigste Einsicht, zu der ich durch sein Werk gelangte, war die
+Idee, daß sich die Wahrheit logischer Sätze nur auf ihre logische
+Struktur und die Bedeutung ihrer Ausdrücke gründet."
+
+"Eine andere einflußreiche Idee Jess' war die Einsicht, daß
+viele philosophische Sätze, besonders in der traditionellen
+Metaphysik, Scheinsätze ohne kognitiven Gehalt sind."
+
+
+Wer der Meinung ist, Philosophie könne
+nicht vom Problem der Sprache absehen, ist doch nicht auf die
+Inkommensurabilitätsthese verpflichtet! Wie kommst du darauf?
+
+
+Aha. Also vertreten _Menschen_ Theorien und nicht Sprachen. Mit einer
+Sprache lassen sich also viele verschiedene Theorien vertreten.
+
+Ich bin nicht damit einverstanden, dass die Wörter unserer Sprachen
+"Theorien" kodieren. Schäfermann hat IMHO überzeugend herausgearbeitet,
+dass der relativ sprecherinvariante Bedeutungskern von Wörtern einen
+semantischen Stereotypen darstellt. Hältst du den Stereotypen eines
+Elefanten (etwa "großer grauer Dickhäuter mit Stoßzähnen und Rüssel")
+für eine Theorie über Elefanten? Ich nicht. Das Stereotyp würde sich
+auch dann nicht ändern, wenn eine pinkfarbene Elefantenart entdeckt
+würde. Meines Wissens gibt es auch Zwergelefanten, die dem Stereotyp
+nicht entsprechen.
+
+Nur in der Muehlner Sprachtheorie gibt es keine Unterscheidung
+zwischen semantischem Wissen (stereotyp + invariant) und Weltwissen
+(erfahrungsabhängig).
+
+
+Siehst du, und ebensowenig für unsere Sprachen.
+
+
+Du meinst sicher Paradoxa diesen Typs: "Der folgende Satz ist wahr.
+Der vorhergehende Satz ist falsch." Wer solche zirkulären Sätze
+formuliert, den habe ich im
+schweren Verdacht, dass er mit diesen Sätzen überhaupt keinen
+Wahrheitsanspruch verbunden hat, sondern von vornherein eine Antinomie
+produzieren wollte. ;-) Angenommen, die beiden Sätze verteilen sich
+auf verschiedene Sprecher A und B, dann ist etwas mit dem
+Wahrheitsanspruch von B krumm. 
+
+Mein Einwand bleibt folgender: Die
+semantische Antinomie ergibt sich erst dann, wenn wir von der
+pragmatischen Antinomie abstrahieren, die darin besteht, dass ein
+Sprecher sich selbst widerspricht. In meinem Beispiel besteht der
+pragmatische (!) Selbstwiderspruch in folgendem:
+
+(p) "Der folgende Satz ist falsch."
+-> Aussage: ~r
+-> Präsupposition: p (Wahrheitsanspruch)
+
+(r) "Der nachfolgende Satz ist falsch."
+-> Aussage: ~p
+-> Präsupposition: r
+
+Wen nun ein Sprecher den Wahrheitsanspruch, den er mit den beiden
+Sätzen
+verbindet, wechselseitig aufhebt, dann bekennt er damit, seinen Sätzen
+keinen Wahrheitsanspruch zukommen zu lassen.
+
+Außerdem sind solche Sätze unfundiert. Weder in p noch in r wird eine
+Behauptung über einen außersprachlichen Sachverhalt gemacht. Wir haben
+nur selbstbezügliche oder zirkuläre Wahrheitsaussagen über
+Wahrheitsaussagen, aber keine Aussagen über die Wirklichkeit. Wir
+gelangen niemals zu einem objektsprachlichen Satz ohne
+Wahrheitsprädikat, wie etwa "Schnee ist weiß".
+
+
+Ich muß aber nicht in eine formale Sprache wechseln, um die angebliche
+Inkonsistenz natürlicher Sprachen loszuwerden.
+
+
+Ein nichtexistentes Problem in X bedarf keiner Sprache X'. ;-)
+
+
+Gabriel, du magst ja von Mathematik Ahnung haben. Aber ein
+vollautomatisierter _Syntaxcheck_ für natürlichsprachlich verfaßte
+Postings: Das geht nicht! Du kriegst die Ebenen der Syntax, Semantik
+und Pragmatik in natürlichen Sprachen nicht so getrennt wie in
+formalen Sprachen.
+
+
+Ich nicht. Programmierer sollen programmieren und nicht argumentieren.
+;-)
+
+
+Und was hat das nun alles mit Argumentation zu tun?
+
+
+Und dennoch sind Mathematik und Philosophie zwei paar Stiefel.
+
+
+Aber genau da liegt doch der Hase begraben. Sobald du eine Theorie
+formulierst, mußt du vom Sprecher und von der Pragmatik abstrahieren.
+Die Sprache einer Theorie macht nur von einem Fragment der natürlichen
+Sprache Gebrauch. Dass in dieser Objektsprache das Wahrheitsprädikat
+nicht vorkommen darf, ist selbstverständlich. Wahrheitsbewertungen
+sind immer Sprecherbewertungen, haben also in einer Theorie
+nullkommanix verloren. Jeder Fachwissenschaft geht es zwar um die
+"Wahrheit" ihres Objektbereiches, aber keine dieser Wissenschaften hat
+"Wahrheit" selbst zum Objekt. Das ist das Residuum der Philosophie.
+
+Wenn uns die semantischen Anomalien eines lehren können, dann dies:
+"Wahrheit" läßt sich nicht wissenschaftlich erforschen, und keine
+Disziplin kann die Wahrheit ihrer Ergebnisse selbst beweisen.
+
+Genau hier liegt übrigens die Crux von Schlickewei und der "Evolutionären
+Erkenntnistheorie".  Nicht einmal nur für die "Wahrheit", sondern
+sogar auch für die "Gültigkeit" von Theorien ist evolutionärer Erfolg
+ein selbstwidersprüchliches Kriterium. Ich verstehe unter "Evolution"
+hier auch bewußt "kulturelle Evolution". Theorienauslese ist _kein_
+Kriterium! Das liefe auf den unmöglichen Schluß hinaus: Die
+Evolutionstheorie ist gültig (wahr), weil sie Resultat einer Evolution
+ist.
+
+Verstehst du? Wenn ich einer einzelwissenschaftlichen Theorie (wie der
+Evolutionstheorie) meine wissenschaftstheoretischen Wahrheits- bzw.
+Gültigkeitskriterien entnehmen will, dann muss ich zuvor ich in diese
+Theorien semantische Prädikate hinein schmuggeln wie "Erkenntnis",
+"Wissen", "Bewährung" etc. Ich muss also sinnvollen Konzepten wie
+"Wahrnehmung", "Gedächtnis" oder "Überlebensvorteil" erst einen
+erkenntnistheoretischen Drall geben.
+
+Lieber Gabriel, dein hochverehrter Schlickewei tut genau das, wovor der
+mindestens ebenso hochzuverehrende Angermeyer gewarnt hat: Schlickewei und die
+EE vermengen nämlich philosophische Metaebene und
+naturwissenschaftliche Objektebene, indem sie "Erkenntnis", "Wissen"
+und "Bewährung" ebenenübergreifend und ebenenneutral verwenden.
+
+Aus diesem Grund wehre ich mich auch mit Händen und Füßen dagegen,
+natürliche Sprachen als Theorien bzw. Theoriensysteme zu sehen. Ich
+möchte nämlich nicht, dass die Linguistik selbstwidersprüchlich wird.
+Nur die Philosophie darf sich mit Theorien über Theorien befassen,
+aber auch nur sie hat sich dem Problem semantischer Anomalien zu
+stellen.
+
+
+Die Metaphorik ist eine ziemlich zentrale Eigenschaft natürlicher
+Sprachen. Wenn wir diese nicht formalisieren können, heißt das im
+wesentlichen, dass es keine gehaltvolle formalisierte linguistische
+Theorie geben kann.
+
+
+Wozu wurde denn eigentlich die Logik erfunden, wenn nicht zu dem Ziel,
+möglichst alle sprachlichen Mittel zu formalisieren, die einen -
+wahrheitswertfunktionalen - Bedeutungsunterschied ausdrücken können?
+
+
+hem, ich hätte in diese erlauchte Liste auch Schlickewei aufnehmen sollen.
+;-)
+
+Größe,
+Holger

@@ -1,0 +1,157 @@
+x--->[F<-->Z--z'-->z]---->y
+                ^                         ^
+                '_____________'
+
+
+Ist schwer darszustellen. Ich versuche es nochmal:
+
+*Triviale Maschinen* sind:
+
+(a)synthetisch determiniert (1 interner Zustand F)
+(b)linear kausal (Input - Output)
+(c)geschichtsunabhängig
+(d)vorhersagbar
+
+*Nichttriviale Maschinen* sind:
+
+(a)synthetisch determiniert (mindestens 2 interne Zustände F & Z)
+(b) zirkulär kausal (Selbstreferenz)
+(c)geschichtsabhängig
+(d)unvorhersagbar
+
+
+Vergleiche die Punkte [a-d] jeweils anhand der beiden Maschinen.
+Die Triviale Maschine und ihre [a-d] Punkte dürften klar sein.
+
+Wie arbeitet die Nichttriviale Maschine in Worten ausgedrückt?
+
+Input x, gelang in Blackbox [      ]. Was spielt sich in dieser
+Blackbox ab? Wir haben hier 2 interne Zustände, F und Z.
+Wie Du am "trivialen" Beispiel gesehen hast, sind diese
+internen Zustände Transformationsregeln allgemein
+aufgefasst. Ich gab dazu im vorherigen posting einige Beispiele.
+Nun gelangt bei unserer Nichttrivialen Maschine Input x
+über zwei "Leitungen" auf unsere 2 internen Zustände
+F und Z. Von F geht eine "Leitung" zum Ausgang der Box
+und somit zu y. Von Z geht eine Leitung z' auf ein z.
+z erfüllt hier einen wesentlichen Aspekt der
+Nichttrivialen Maschine. z sorgt dafür, dass wir
+"Zirkularität" in der Box erzeugen - Selbstreferenz.
+Dieses z hat zwei Leitungen jeweils zu den 2
+internen Zuständen F und Z. Und fertig.
+
+Ich schreibs anders auf:
+       [ '>-----F-----------' ]
+       [ '         ^                '  ]
+       [ '         '                 '  ]
+x-->[-'        z  <--- '       '-]--------> y
+       [ '        '          '         ]
+       [ '        '          ' z'     ]
+       [ '>----'>-Z---'         ]
+
+
+Die Voraussetzung, dass man etwas voraussagen kann ist die
+Kenntnis der Transformationsregeln. Im trivialen Modell
+kann man auf diese durch Input und Output schliessen.
+So: x---->[ x ]---y ist hier klar, ohne in die Box zu
+sehen, dass wenn ich 1 eingeben, 1 rauskommt, wenn
+ich 2, dann 4, wenn 3 dann 9 wenn 4 dann 16 ect. Wir
+können schliessen, dass die Transformationsregel
+x in der Box sein muss. Aber auch Reiz-->[Organismus]-->
+Reaktion stellt eine solche triviale Maschine dar.
+
+Man muss also wissen, was die Ursache zu einer
+Wirkung macht. Wenn man dieses Wissen nicht
+haben kann, spricht man von obiger Nicht-
+trivialer Maschine. Bei unserer trivialen
+Maschine können wir durch erwähnte
+Input-Output Versuche durch Analyse
+herausfinden, welche internen Regeln
+die Maschine hat.
+
+Nichttriviale Maschinen verändern aber
+ihre innere Struktur und die Transformationsregeln
+immer wieder. In Worten unsere Zuordnungen vom
+vorherigen Posting: Man stelle sich also eine Gruppe
+von möglichen Eingaben und Ereignissen (A,B,C,D)
+und eine Gruppe von potentiellen Resultaten (1,2,3,4)
+vor. Das Experiment: Man gebe Buchstaben A als
+Input ein - und es kommt 1 heraus. Bei erneuter
+Eingabe von A erzeugt aber unsere Maschine
+plötzlich einen anderen Output-Wert. Was ist da
+los? Eine solche Maschine ist analytisch nicht
+bestimmbar, denn sie variiert die Regel der
+Transformationsregel selbst, immer wieder.
+Dies bewirkt die zirkuläre Struktur der Maschine.
+Jetzt müssten wir die Regel kennen, die die
+Transformationsregel ändert. Dann könnten wir
+auch die Nichttriviale Maschine durchschauen.
+
+Wenn das *nicht* der Fall ist, wird es schwierig,
+die Outputs dieser Maschine *vorherzusagen*, obwohl
+sie offensichtlich von gewissen Gesetzen *determiniert*
+ist. Oft ist es sogar unmöglich und unlösbar, trotz
+Determiniertheit der Maschine, etwas auch nur zu
+lösen. Beispielsweise ist die Anzahl nichttrivialer
+Anagramme, die mit einem Alphabet von nur 4
+Buchstaben operieren, das Alter der Welt,
+gegeben in Mikrosekunden, bei weitem übersteigt.
+
+Und jetzt stell Dir einen Menschen (oder sein Gehirn)
+vor. Frage Dich jetzt: Wie funktioniert  dieses System,
+dieses Gehirn? Kann ich in einer endlichen Folge von
+Experimenten die operativen Eigenschaften bestimmen,
+die BOX, die sich an der Beziehung Reiz-Reaktion,
+Ursache-Wirkung, Input-Output, ablesen lassen?
+Lässt sich die Regel der Transformationsregel
+herausbekommen? Bei nichttrivialen Maschinen
+ist sowas meistens unlösbar. Die Transformations-
+regeln hängen von Geschichte und Vergangenheit
+ab. Sie können sich ja im Falle unserer zirkulären
+Nichttrivialen Maschine immer wieder ändern.
+Um wirklich alle Reglen rauszukriegen, müsste man
+in harten Fällen sogar ne Zeitreise zurück zum
+Anfangszustand machen ;)
+
+Du siehst, ähnlich wie beim letzten Chaos, haben
+wir hier nicht vorhersagbare, aber deterministische
+(von Gesetzen abhängige) Vorgänge. Nur, das
+Problem ist, dass wir diese Gesetze, die das
+Verhalten einer Nichttrivialen Maschine bestimmen,
+in den meisten Fällen nicht auf einen Anfangszustand
+reduzieren können.
+
+Der Mensch bleibt für den Menschen
+fast immer unvorhersagbar. Er ist zwar von
+Naturgesetzen determiniert, aber diese sind
+uns (derzeit) unzugänglich. Alles, was wir
+somit wissen ist, dass ein Mensch eine
+Nichttriviale Maschine sein muss.
+
+Frägt ein Lehrer eine Schülerin:"Was ist 2x2 ?"
+Antwortet die Schülerin:"Grün!"
+
+Sie MUSS trivialisiert werden, diese
+Antwort ist unzulässig. Man schickt sie in
+einen Trivialisierungskurs. Dann antwortet sie
+sicherlich:" 4!".
+
+Aufgrund der sich stetig veränderen Regeln
+im Gehirn / Organismus eines Menschen, hat er einen
+nichtrivialisierten, geschichtsabhängigen freien Willen,
+der trotzdem von Gesetzen determiniert ist - kein Widerspruch.
+
+Wir sind eine Mischung Trivialisierter und
+Nichttrivialer Systeme ;)
+
+
+Ein Autopoietisches System ist ein operational geschlossenes
+System. Es ist ebenfalls ein Selbstorganisierendes System.
+(siehe mein Posting: KI-Konstruktivismus und Virtualität)
+
+Hoffe es hilft weiter,
+Mathias Zillibiller
+
+------------------
+iowzcr.tdewxlkbmmta@cr.cqk.au.jf       ///
+http://lsgwd.rdz.cna/yhakgxii/

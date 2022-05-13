@@ -1,0 +1,49 @@
+Die Frage ist, ob damit überhaupt noch eine Theorie formulierbar ist,
+da ja nicht mehr die math. Sätze gelten, die Physiker sonst so
+selbstverständlich in Anspruch nehmen. Dazu kommt, dass schon
+undendlichdimensionale Hilberträume (wie der L^2(my)) eine
+überabzählbare VR-Dimension haben.
+
+Schauen wir uns 'mal an, wie eine  Messung einer Observablen T math.
+beschrieben wird:
+
+Sei  T=\int_A lambda dE_lambda  die Spektralzerlegung von T. Dann ist
+\int_A d<E_lambda phi, phi> die Wahrscheinlichkeit dafür, dass der
+Messwert von T im Zustand phi in der Menge A liegt (wenn z.B
+A={lambda_0}, dann ist die Wahrscheinlichkeit genau dann positiv, wenn
+lambda_0 ein Eigenwert von T ist). Bekanntlich sind nur die Eigenwerte
+von T seiner scharfen Messung zugänglich, es gibt aber genügend
+Operatoren, z.B. den Ortsoperator (H=L^(R^3)), der keine Eigenwerte,
+sondern nur ein stetiges Spektrum hat.
+
+Du siehst also, in die Physik gehen schon eine gehörige Anzahl math.
+Sätze ein, z.B. der Spektralsatz für unbeschränkte Operatoren, von dem
+du nun eine "diskrete" Version formulieren und beweisen solltest. Viel
+Spaß! :-))
+
+
+Der Punkt ist ein anderer: Es ist nur für messbare Menge sinnvoll,
+ihnen ein Maß (z.B. ein Volumen) zuzuschreiben.   
+
+
+Es geht hier um das *können*, als um eine dispositionale Eigenschaft,
+und nach Haussmann ist die menschl. Sprachkompetenz derart, dass
+*prinzipiell* unenendl. viele Sätze verstanden werden *können*. 
+
+
+Nein, es ist keineswegs  klar, dass der Erkenntnisprozeß beim Menschen
+als _Messung_ beschrieben werden kann. 
+
+
+Aber erst, wenn sie schon *digitalisiert* ist. Eine Zeigerstellung
+eines Messgeräts ist z.B. analog.
+
+
+Das ist ein Fehlschluss: Es ging hier nicht um die Frage, ob wir in
+unserer endlichen Lebenszeit tatsächlich nur endlich viele
+"Erkenntnisse"  sammeln, sondern ob unser "Erkenntnisapparat" so
+beschaffen ist, dass wir nur endlich viele Erkenntnisse gewinnen
+*können*. (eine dispositionelle Eigenschaft)
+
+
+martin

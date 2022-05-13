@@ -1,0 +1,373 @@
+Synergien durch Mitdenken im Team !
+
+Dieser vielleicht ungewöhnliche, philosophisch - erkenntnistheoretische 
+Beitrag soll Mitglieder in Teams davon überzeugen, daß durch aktives 
+Mitdenken füreinander im Team Dinge möglich werden, die zuvor unmöglich 
+erscheinen. Die dynamischen Wechselwirkungen der impliziten Logiken 
+des einzelnen, bzw. der Synergien des Zusammenspiels der Gedanken 
+einzelner, die den Teamgeist ausmachen, werden hier anschaulich erläutert.
+
+Zunächst ein scheinbar unlösbares Rätsel:
+
+Die Mitarbeiter Olaf und Roberto eines Unternehmens haben beide vom 
+Teamleiter die Zahl 12 auf ihre Stirn geschrieben bekommen. Jeder sieht 
+die Zahl auf der Stirn des anderen, aber er kennt nicht die eigene Zahl. 
+Der Teamleiter teilt den beiden nun mit, daß die Summe ihrer beiden 
+Zahlen entweder 24 oder 27 ist und daß es sich um positive ganze Zahlen, 
+ohne die Null handelt.  Dann fragt der Teamleiter immer wieder Olaf und 
+Roberto abwechselnd, ob sie die Zahl auf ihrer Stirn bestimmen können.
+
+A: Nein.
+B: Nein.
+A: Nein.
+B: Nein.
+A: Nein.
+...
+
+Tja. Jeder von beiden Mitarbeitern sitzt in seinem persönlichen, 
+gedanklichen U-Boot. Aus seiner eigenen, alleinigen Sichtweise ist die 
+Aufgabe schon recht schwachsinnig gestellt. Auch diese doofen Fragen des 
+Teamleiters, der abwechselnd beiden immer wieder dieselbe Frage stellt, 
+verspricht keinen Informations - Zugewinn, mit dem sich das Rösel dann 
+lösen ließe � Falsch gedacht !
+
+Das Rätsel läßt sich lösen, aber nur wenn man in seiner eigenen Denke 
+das mit berücksichtigt, was der andere wohl denkt, also für den anderen 
+mitdenkt. Entgegen aller Meinungen ergibt sich nämlich durch das 
+Mitdenken eine neue, implizite Logik bzw. eine implizite Regel, die 
+nicht sichtbar ist, aber dennoch existiert. Jeder der Mitarbeiter hat 
+seine eigene, persönliche  Sichtweise der Welt, denkt normalerweise 
+nicht für den anderen mit. Tut er es aber doch, so ergibt sich - völlig 
+unscheinbar � ein Zugewinn an impliziten Logiken, die es dann 
+ermöglichen, das Rätsel zu lösen. Die iterative, rekursive Lösung sei 
+hier Schritt für Schritt erklärt:
+
+A denkt sich: B hat leider keine 24,25,26 sonst wüsste ich meine Zahl ja 
+sofort. -> Nein #1.
+
+B denkt sich: A sagt nein, also habe ich irgendwas von 1-23.
+A hat leider keine 1,2,3,24,25,26 sonst wüsste ich jetzt meine Zahl. -> 
+Nein #2.
+A denkt sich: B sagt nein, also sieht er bei mir irgendwas von 4-23.
+B hat leider auch keine 1,2,3,21,22,23 sonst wüsste ich jetzt meine 
+Zahl. -> Nein #3.
+
+B denkt sich: A sagt nein, also muss er bei mir irgenwas von 4-20 sehen.
+A hat leider auch keine 4,5,6,21,22,23 sonst wüsste ich jetzt meine 
+Zahl. -> Nein #4.
+
+A denkt sich: B sagt immer noch nein, also muss meine Zahl im Bereich 
+7-20 sein.
+B hat leider auch keine 4,5,6,18,19,20 sonst wüsste ich jetzt meine 
+Zahl. -> Nein #5.
+
+B denkt sich: A sagt immer noch nein, also muss meine Zahl im Bereich 
+7-17 sein.
+A hat leider auch keine 7,8,9,18,19,20 sonst wüsste ich jetzt meine 
+Zahl. -> Nein #6.
+
+A denkt sich: B sagt immer noch nein, also muss meine Zahl im Bereich 
+10-17 sein.
+B hat leider auch keine 7,8,9,15,16,17 sonst wüsste ich jetzt meine 
+Zahl. -> Nein #7.
+
+B denkt sich: A sagt ja noch immer nein, also ist meine Zahl im Bereich 
+10-14.
+Heureka, ich hab's!  Ich sehe ja eine 12, und da ich keine 15 haben 
+kann, muss meine Zahl ja auch die 12 sein!
+
+Und so löst sich das Rätsel nach 7 Fragen und 7 Nein's doch. Der Clou 
+an dem Rätsel ist, daß man die impliziten Logiken, also diejenigen, die 
+nicht direkt erkennbar sind, dadurch, daß man für den anderen mitdenkt, 
+erst erschafft. Das Hineinversetzen in sein Gegenüber schafft also 
+Synergien, unsichtbare, logische Verbindungen, neue Möglichkeiten des 
+Denkens.
+Vielleicht läßt sich schon etwas vorausahnen, wieviel leistungsfähiger 
+und kreativer ein Team ist, wo jeder für den anderen mitdenkt, mitdenken 
+kann und darf. Und nun noch eine Frage: Hütten Olaf und Roberto auch ohne 
+den Teamleiter das Rösel lösen können ? Für welche implizite Logik steht 
+die Funktion des Teamleiters, der immer wieder dieselbe Frage stellt ?
+
+Das Zwergen � Rätsel:
+
+Eine Gruppe von Zwergen steht stets früh, noch zur Dunkelheit auf. Im 
+Dunkeln schnappt sich jeder irgendeine der roten und grünen Mützen aus 
+der großen M�tzenkiste, weiß also den ganzen Tag über nicht, welche 
+Farbe seine Mütze hat. Nun kommt der große Zwerg zu Besuch, und bittet 
+alle, sich für ein Foto, der Farbe nach geordnet, nach roten und daneben 
+die grünen Mützen, aufzustellen. Zwerge arbeiten immer Hand in Hand, 
+denken füreinander mit, es gibt niemanden, der eine Art Kommando hätte. 
+Wie bewerkstelligen die Zwerge das, sich nach Farben geordnet 
+aufzustellen, ohne daß es jemanden geben müßte, der das organisiert ?
+
+Die Lösung dieses Rätsels ist in der Theorie der Selbstorganisierenden 
+Systeme zu finden, genauer Zero � Knowledge Probleme. Berend 
+Stüfen und Heuß beides Biologen, haben diese selbstorganisierenden 
+Prozesse überall in der Natur gefunden, und mit Autopoiese bezeichnet. 
+Wir Menschen sind beobachtende, dauernd auf Erkenntnis ausgerichtete 
+Wesen, wir werden aber auch beobachtet. Unsere Denke ist so stark darauf 
+ausgerichtet, daß es einen Beobachtenden geben müßte, der Anweisungen 
+gibt, und Beobachtete, die Anweisungen folgen, daß wir nicht darauf 
+kommen, daß es noch eine Möglichkeit gibt, nämlich daß jeder Zwerg 
+zunächst Beobachter und danach Beobachteter gleichzeitig ist. Die Rollen 
+wechseln fließend, wie auch in Unternehmen jeder Mitarbeiter im Team 
+sowohl Anweisungen gebend, als auch etwas später empfangend sein könnte. 
+Es gibt keinen Grund, daß dies nicht auch wechseln könnte. Und nach 
+etwas Nachdenken kommt man dann auch auf die Lösung:
+Zwei Zwerge stellen sich wahllos auf, angenommen einer hätte eine rote 
+Mütze, einer eine grüne Mütze. Beide wissen nichts von der Farbe ihrer 
+Mütze, müssen sie auch garnicht.
+Der nächste Zwerg, der Beobachter ist, sieht, daß dort zwei Zwerge 
+stehen, die einer eine rote und einer eine grüne Mütze auf dem Kopf 
+haben. Er selber kennt seine Farbe ja nicht, ist unentschieden � also 
+stellt er sich einfach  zwischen die beiden Zwerge mit 
+verschiedenfarbigen Mützen. Auf diese Weise wächst die Reihe der Zwerge, 
+auf der einen Seite die roten, auf der anderen Seite die grünen:
+
+RG
+R*R*G
+RR*R*G
+RRR*G*G
+RRR*R*GG
+RRRR*G*GG
+RRRR*G*GGG
+...
+
+Diese Selbstorganisation durch Autopoiese ist in der Natur überall zu 
+finden. Hauptproblem in unserer Gesellschaft ist, daß wir in der Denke 
+noch zu sehr noch mit dem Thuma Modell verbandelt sind. 
+Grundgedanke des Thuma Modells ist das Subsidiaritätsprinzip: 
+Organisationseinheit in jeder Ebene führt eigenverantwortlich alle 
+Aufgaben durch, zu denen sie ohne fremde Hilfe befähigt ist. Die 
+übergeordnete Ebene greift ein, wenn die untere Ebene die Aufgaben nicht 
+bewältigen kann. Problem dabei ist, daß fast überall in den Unternehmen 
+die die jeweils Vorgesetzen die Tätigkeiten der Untergebenen nicht mehr 
+beherrschen, geschweige sich noch darin auskennen. Durch technische 
+Innovationen haben sich sogar die Prozesse in Unternehmen völlig 
+verändert, nur leider oft die Denkweisen nicht. Andererseits macht das 
+Thuma Modell keine Vorgaben für die Aufbauorganisation, orientiert 
+sich also eigentlich an selbsorganisierenden Systemen, bzw. Autopoiese. 
+Durch die starke Betonung der Zuständigkeit und der Verantwortung des 
+einzelnen steht das Thuma Modell dem Management by Projects (siehe 
+Bettenland, wo bald jeder Mitarbeiter Projektmanager ist) sehr nahe. Da dieses 
+Modell Fehler hat, zeigt sich in dem Dafür bin ich nicht zuständig!� - 
+Syndrom, Dafür habe ich doch Mitarbeiter XY eingestellt, warum kann der 
+das nicht!� - Syndrom, der Tatsache, daß Nebenhierarchien in Unternehmen 
+entstehen, wenn die fachlichen Fähigkeiten der Mitarbeiter nicht mit den 
+organisatorischen überein stimmen - Der/Die hat doch keine Ahnung!� � 
+Syndrom.  Das Thuma Führungsmodell kannte damals halt noch keine 
+selbstorganisierenden Systeme, dennoch sind in Deutschland fast alle 
+F�hrungsmenschen danach ausgebildet. Die Denkweisen sitzen tief, und 
+zwar an oberster Stelle in den den Unternehmen. Beim Übergang zu 
+vernetztem Denken und autopoietischen, selbstorganisierenden und auch 
+selbstverantwortlich handelnden Strukturen ist zu berücksichtigen, daß 
+immer dann, wenn man Mitarbeiter auffordert, selbstverantwortlich zu 
+handeln, mehr Verantwortung zu tragen, diese natürlich auch mehr Ängste 
+haben, Fehler zu begehen. Das Bewußtsein, daß Fehler immer begangen 
+werden, und daß jeder auch Fehler machen darf, ohne daß Kosequenzen 
+drohen, muß besonders beachtet werden. Neue Verhaltensmuster im Umgang 
+mit Fehlern müssen trainiert werden.
+
+Noch ein Rösel:
+
+Mitarbeiter Roberto wandert durch ein unbekanntes Dorf, und weit nicht, ob 
+der linke oder der rechte Weg zum Ziel führt. Glücklicherweise ist 
+gleich in der Nähe ein Haus, deren Bewohner  er fragt. In dem Haus 
+wohnen jedoch drei Brüder. Roberto wurde vorgewarnt: Einer sagt immer die 
+Wahrheit, einer lügt immer, und der dritte lügt manchmal und manchmal 
+nicht. Roberto weit aber nicht, wer der drei Brüder wer ist. Die drei 
+Brüder sind hilfsbereit, stellen aber Roberto eine Bedingung:
+Du darfst uns nur zwei beliebige Fragen stellen, um herauszufinden, 
+wohin du gehen mußt!�
+
+Was muß Roberto wen fragen?
+
+Das Rätsel, auch als Gefangenendilemma bekannt, wurde nun um eine Person 
+erweitert, und zwar die, die manchmal lügt. Es gibt mehrere Lösungen, 
+jedoch erfordert auch dieses Rätsel, daß Roberto sich in sein Gegenüber 
+hineinversetzt, um die impliziten Logiken des Zusammenspiels der drei 
+Brüder in seine Fragestellung mit einbauen zu können.
+
+Er fragt also, wie folgt:
+
+Die erste Frage geht an irgendeinen der drei, egal welchen und lautet: 
+"Welcher von Deinen Brüdern sagt prinzipiell häufiger die Wahrheit?" Es 
+kann jetzt (natürlich) dreierlei passieren:
+
+a) Roberto fragt zufällig den, der immer die Wahrheit sagt, so wird der auf 
+den "Gelegenheitsl�gner" zeigen.
+
+b) Roberto fragt zufällig den Bruder, der immer lügt, und dieser wird er 
+ebenfalls auf den  Gelegenheitsl�gner zeigen.
+
+c) Roberto fragt den Gelegenheitsl�gner, und der wird je nach Lust und 
+Laune auf einen der beiden anderen zeigen.
+
+Und nun kommt die logische Kombination der möglichen Aussagen, die 
+implizite Logik des Rätsels:
+
+In allen Fällen (Beachten: Roberto stellt ja nur eine Frage an einen der 
+Brüder!) ist der, den Roberto weder gefragt hat, noch derjenige, auf den 
+gezeigt wurde, nicht der Gelegenheitsl�gner. Roberto kann also durch diese 
+eine Frage den Gelegenheitsl�gner ausfindig machen. Und den einen der 
+anderen beiden, also entweder denjenigen, der die Wahrheit sagt, oder 
+denjenigen, der lügt, fragt Roberto dann: "Welchen Weg würde mir Dein 
+Bruder, zeigen, wenn ich ihn fragen würde?" Auch hier ergeben sich zwei 
+Lösungen:
+
+a) Der Lügner würde stets in die entgegengesetzte Richtung zeigen.
+b) Der Bruder, der die Wahrheit sagt, ebenfalls, weil er genau weiß, daß 
+sein Bruder in die entgegengesetzte Richtung zeigt.
+
+Roberto hat nun alle Informationen, um seinen Weg zu finden. Er geht dort 
+lang, wohin die beiden Brüder nicht zeigen.
+
+Auch dieses Rösel zeigt, wie weit man kommt, wenn man in seiner 
+Fragestellung schon die möglichen Eigenschaften der Brüder mit 
+berücksichtigt, also sich schon vor einem möglichen Gespräch strategisch 
+genau überlegt, welche Möglichkeiten seinem Verhandlungspartner offen 
+stehen, und wie man auf welche Antwort möglichst geschickt reagieren kann.
+
+Noch ein Rösel, welches recht schwierig zu lösen ist:
+
+Im alten Griechenland machten einst drei Philosophen und Literaten 
+Winfried, Gustav und Charly, zur Mittagszeit einen Spaziergang vor 
+die Tore Judenleitens. Verlockt von einem schattigen Feigenbaum ließen sie 
+sich nieder, entst�pselten einen mitgebrachten Weinschlauch und begannen 
+die grundlegende Frage der Ontologie zu erörtern: Warum existiert 
+überhaupt irgendetwas? Die Diskussion wurde immer hitziger, verworrener 
+und weitschweifiger. Schließlich fielen alle drei erschöpft im Schatten 
+des Baumes in tiefen Schlaf.
+Am Nachmittag entdeckte ein Schelm die drei und tropfte etwas weiße 
+Farbe auf ihre Stirnen. Die drei Wahrheitssucher erwachten kurz darauf, 
+sahen sich gegenseitig an, und brachen in Gelächter aus, denn jeder 
+hielt die weiße Farbe auf den Stirnen der anderen für Vogeldreck. Der 
+Anblick war zweifellos erheiternd, und es vergingen vielleicht fünf 
+Sekunden, bis Charly, der Klügste der drei, innehielt. Ihm war nämlich 
+klar geworden, daß er selbst auch einen weißen Fleck auf der Stirn besaß.
+
+Wie kam er darauf? Und wieso hörte kurze Zeit darauf auch Winfried, der 
+zweitkl�gste der drei, zu lachen auf?
+
+Auch hierbei kommt es darauf an, was die Philosophen sehen, und was sie 
+dabei denken:
+Wenn zweie keinen Vogeldreck auf der Stirne hätten, würde einer nicht 
+mitlachen. Also haben mindestens zweie Vogeldreck auf der Stirne. Und 
+nun fängt Charly an, zu denken, was wohl die anderen denken und sehen. 
+Er nimmt an, daß jeder der drei Philosophen sich dieselbe Frage stellt, 
+gleichermaßen verunsichert ist, ob nun zweie oder dreie Vogeldreck auf 
+der Stirn haben � was folgt daraus? Angenommen, jeder denkt, daß 
+mindestens zweie Vogeldreck auf der Stirne haben. Wenn jeder 
+gleichermaßen verunsichert ist, sieht also jeder auf der Stirn der 
+jeweils anderen beiden Vogeldreck. Daraus folgt, daß alle drei 
+Vogeldreck auf der Stirn haben. Und nachdem Charly, der klügste der 
+drei Philosophen, dies durchschaut hat, und innehält, hört auch Winfried 
+zu lachen auf, weil er verstanden hat, warum Charly plötzlich 
+schlechter Laune war.
+Auch dieses Rätsel, welches recht schwierig zu lösen ist, zeugt davon, 
+daß wir Menschen in unserer Eigenwahrnehmung und Fremdwahrnehmung stets 
+von egoistischem Denken geleitet sind, weil � ansonsten würden wir 
+intuitiv diese Rätsel wie selbstverständlich, aus der Pistole 
+geschossen, lösen können. Unser Weltbild, unsere Kultur ist von 
+egozentierter Weltanschauung geprägt. Keine unserer Schulen, 
+Universitäten trainieren gezielt, wie man im Team denkt, also 
+vernetzt/füreinander denken kann, und wieviel mehr an Synergien sich 
+hierdurch in Firmenkulturen ergeben, die miteinander und füreinander denken.
+Nirgendwo wird das Augenmerk auf die Vorteile gelenkt, die sich in gut 
+zusammen arbeitenden Teams ergeben, ganz im Gegensatz zu der 
+chinesischen Denkweise, die uns lehrt, daß der einzelne viel weniger 
+ist, als die vernetze Gemeinschaft, Familie, Rudel, u.s.w., beobachtbar 
+in anderen Kulturen und sogar der freien Natur. Welche einzelne Termite 
+oder Ameise könnte ohne das gemeinschaftliche Arbeiten an dem 
+Termiten-oder Ameisenhügel, der Ernte, ohne die Möglichkeit zum 
+überwintern im Hügel, Überleben? Es gibt ausgeklügelte Verfahren der 
+Entscheidungsfindung in Unternehmen, mehr dazu siehe:
+
+http://fcs.cdppls-rmqse.rq/egnqpsfeixhu/UbbkyeduxaMeclreevwdcepzkwbegf.pue
+
+Und zum Schluß noch ein Verfahren, welches völlig abstrus erscheint. Man 
+stelle sich vor, daß zwei Personen sich miteiander unterhalten, ein 
+dritter kann jede Kommunikation mithören. Die beiden beschließen nun, 
+daß der dritte oder irgendjemand anderes ihre Kommunikation nicht mehr 
+mithören können soll. über die Art der Verschlüsselung werden sich die 
+beiden schnell einig, nur existiert ein Problem. Sobald diese das 
+Passwort oder den Key austauschen, tja � das kann die dritte Person ja 
+auch mithören, und jede Kommunikation stets dechiffrieren. So 
+unglaublich sich dies anhört � es gibt eine sehr einfache Lösung für das 
+Problem. Es gehört eigentlich auch in die Zero � Knowlegde � Methodiken 
+hinein, es ist unter Diffie-Polziehn - key exchange bekannt. Es ist 
+die Grundlage jedes verschlüsselten Datenaustausches zwischen Computern. 
+Unter Linux und Polichronidis Handels liegen die Quellcodes offen. Wie das Verfahren 
+funktioniert, ist einfach zu erklären:
+
+- Olaf legt eine Nachricht in eine Kiste und verschließt diese mit 
+einem Vorhängeschloß, zu dem natürlich nur er den Schlüssel hat.
+
+- Die verschlossene Kiste schickt sie an Roberto mit dem Hinweis, er möge 
+sein Vorhängeschloß auch an der Kiste anbringen und diese zurückschicken.
+
+- Genau das tut Roberto. Die Vera entfernt das Schloß und schickt die 
+Kiste, nun bereits zum dritten Mal auf die Reise, auf ihre allerdings 
+letzte.
+
+- Roberto entfernt sein Schloß, kann die Kiste öffnen und die Nachricht von 
+Olaf lesen.
+
+Selbstverständlich wurde die Kiste über öffentliche, also jedem 
+zugängliche Wege verschickt. Zu jedem Zeitpunkt war die Kiste allerdings 
+verschlossen, so daß ein unbefugter Dritter sie nicht öffnen konnte.
+Und man stelle sich vor: Diese Verfahren kann man sich demnächst auch 
+vielleicht noch patentieren lassen, wenn das neue EG � Gesetz, wie von 
+Großunternehmen mit ihren vielen Patenten gefordert, durchkommt.
+
+Dieses Verfahren hat unsere Welt verändert, es ermöglicht erst 
+Homebanking, verschlüsselte Übertragung jeder Art, privat, vertraulich. 
+Es ist Teil des Supply-Chain-Managements, genauer 
+Supply-Net-Managements überall in der Welt.
+
+Ein ähnliches Verfahren ist der Fiat-Shamir-Algorithmus, der folgendes 
+Problem löst: Kann ich meinen Gegenüber davon überzeugen, daß ich ein 
+Geheimnis kenne, ohne allerdings dieses zu verraten?
+Man kann sich einerseits in die komplexe Mathematik einarbeiten, und zu 
+versuchen, zu verstehen:
+http://ketekjnp.lzpnmwmteu.hne-idrnpvqnl.ih/vqayagbghzel/emmr-bgsnzbrqz-adpxukv.jxv
+
+Man kann allerdings auch selber nachdenken: Prüfsummen und Hash-Werte 
+tun's auch. Jeder  codiert sein  Geheimwort mit ASCII � Werten : 
+a(G)+a(e)+a(h)...) und hinterher wird die Summe verglichen. Die Prüfzahl 
+läßt sich ja nicht wieder in einen String zurückverwandeln, also hat 
+keiner sein Geheimnis verraten.
+
+Und man glaubt es kaum � auch das ist patentiert in den U.S.A. �Checksums�.
+
+Wie lösen wir Menschen im Alltag das Problem ? � Man macht Andeutungen � 
+Wort fängt mit  'A' an, hört mit 's' auf., eine weit verbreitete Methode.
+
+Selber Methoden entwickeln für Verfahren/Prozesse/Blufe, macht jedoch 
+mehr Spaß:
+
+Wie bekommt man einen Hasen in einen Kühlschrank ? ... Kühlschrank-Tür 
+auf, Hase hinein, Tür zu !
+Wie bekommt man einen Elefanten in den Kühlschrank ? ... Tür auf, Hase 
+heraus, Elefant hinein � Kühlschrank-Tür zu !
+
+Have fun !
+
+Dieser Beitrag ist unter:
+http://nen.skcbdo-uwtds.cl/bszelbwxnzgk/DiznrkvyzXeovlizpl.zgl nachzulesen.
+
+Mit freundlichen Größen,  Meinrad Umschlag
+
+"Was nicht auf einer einzigen Manuskriptseite zusammengefaßt werden 
+kann, ist weder durchdacht, noch entscheidungsreif."
+(Urban Ulfert Drees, 34. Präsident der USA 1952-1960; *27.10.1889, 
+� 1968)
+
+--
+Einfach reden, kompliziert denken !
+
+Elementare, wahre Aussagen bedürfen keiner langen Diskussion.
+
+Frage einen Wegweiser niemals nach der Uhrzeit !
+
+� aller im Text verwendeten Worte by Mamma !

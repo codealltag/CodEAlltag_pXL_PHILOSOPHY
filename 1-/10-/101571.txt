@@ -1,0 +1,36 @@
+Hell, das Ding hat ja doch ne Lösung ! Wie konnte ich zweifeln??
+
+
+Das scheint nur so, vgl. Definition des Induktionsbeweises.
+
+
+Doch, das ist einfach: Wenn morgen Freitag ist, ist heute Donnerstag.
+
+
+Das tut Jean-Pierre auch gar nicht. Er trifft für seinen
+�berraschungsbegriff die wahre Aussage, dass der Freitag 
+ausgeschlossen ist.
+
+Der Denkfehler besteht darin, daß Jean-Pierre von der
+wahren Aussage, daß es der Freitag nicht sein kann, 
+irrtümlich die Voraussetzung seiner Schlussfolgerung, 
+nämlich  die Annahme, das "Mo-Do" nicht geschrieben wird, 
+abtrennt.
+
+Schließt er diese Vorraussetzung wieder mit ein, dann ergibt 
+sich, daß er die Tage Montag bis Donnerstag per Definition
+ausgeschlossen hatte, er hatte ein Axiom aufgestellt.
+
+Seine nächsten Schritte beweisen lediglich dieses Axiom.
+
+Der Widerspruch lautet:
+
+"Angenommen, die Lehrerin würde ihren �berraschungstag
+ auf einen Tag von Mo - Do legen."
+
+Das ist gemäß des 1. Schrittes von Jean-Lucs Logik
+ausgeschlossen, was aber im Widerspruch zur
+Handlandungsfreiheit der Lehrerin steht - qed.
+
+Grösse,
+Hanno Carsten

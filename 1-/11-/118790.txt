@@ -1,0 +1,59 @@
+Hallo Helmuth,
+
+
+Jeder Pseusdozufallsgenerator besitzt eine Bildungsvorschrift fuer die
+i-te Zahl. Nennen wir die mal F(i).
+
+Wenn ich nun eine durch diesen Generator erzeugte Folge a_0, a_1, ...
+habe, dann sind die Zahlen dieser Folge trivialerweise korreliert mit
+den Zahlen aus der Bildungsvorschrift F(i). 
+
+Entsprechend ist die Folge a_i - F(i) keine Zufallsfolge mehr, sondern
+sogar exakt Null fuer alle ihre Glieder.
+
+Diese Argumentation trifft auch auf den von Dir genannten Algorithmus
+zu.
+
+
+So? Ich hatte gezeigt, dass das Wellenmodell mit der gleichzeitigen
+Annahme von genauerem Wissen ueber die Position des Elektrons zu einem
+Widerspruch fuehrt. Eine Widerlegung dieses Beweises wuerde bedeuten,
+dass Du diesen Widerspruch aufhebst. Das hast Du bisher nicht getan.
+
+
+Was heisst "praktisch unmoeglich"? Argumentieren wir hier ueber heute
+menschliche Moeglichkeiten oder ueber Erkenntnistheorie?
+
+Du kannst doch nicht argumentieren: "Vielleicht findet ja spaeter
+jemand eine Moeglichkeit, die Position von Elektronen unabhaengig von
+der Wellennatur des Elektrons genauer zu bestimmen" und in der
+Begruendung anfuehren "Es ist praktisch unmoeglich [== wir kennen
+heute keine sinnvolle Methode, Anm. BERND], statistische Besonderheiten
+bei bestimmten Zufallszahlengeneratoren zu finden".
+
+*Entweder* Du gehst vom heutigen Wissensstand aus, dann kannst Du
+nicht irgendwelche zukuenftigen Moeglichkeiten der genaueren
+Bestimmung der Position eines Elektrons anfuehren.
+
+*Oder* Du schliesst zukuenftige Moeglichkeiten mit ein, dann aber
+bitteschoen konsequent, und dann ist "praktisch unmoeglich" kein
+Argument.
+
+
+Da hast Du aber wahrscheinlich tatsaechlich noch nicht soo viel
+Monte-Carlo-Rechnungen durchgefuehrt; der Nachweis ihrer Brauchbarkeit
+fuer einen bestimmten Zweck (gerade in der Physik) ist absolut nicht
+trivial, und ich habe auch schon einige (aeltere) fehlerhafte
+Ergebnisse von Monte-Carlo-Rechnungen gesehen, die auf eine
+unglueckliche Verwendung von Zufallszahlengeneratoren und ihren
+Eigenschaften zurueckzufuehren sind.
+
+"We did not find" ist einfach eine Annahme. "We have proven that it
+does not exist" etwas ganz anderes. Und in dem von Dir gebrachten
+Artikel finde ich ersteres.
+
+
+Naja, wenn Du auf meine Argumentation nicht eingehst, ist das auch
+etwas schwierig.
+
+Bernd

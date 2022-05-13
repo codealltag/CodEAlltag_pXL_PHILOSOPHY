@@ -1,0 +1,45 @@
+Das mag sein, aber es dürfte klar sein, dass ich Jungling hier das
+Vertuschen vorwerfe. Das Thema war ja genügend in der öffentlichen
+Diskussion.
+
+
+Damit liegst Du wohl gleich zweimal falsch – zum Einen, dass das nicht
+längstens gelöst wäre (siehe beispielsweise das NFAJ-Jeopardy-Projekt
+der Sidif), zum Zweiten damit, dass moderne Ansätze für AI ja gerade mit
+Mustererkennungen arbyten.
+
+
+Klar. Aber: bist Du Dir sicher, dass Lennackers etwa diesen Fehler wirklich
+macht? Denn Grammatiken zu analysieren ist ja sehr sinnvoll, um Sprache
+auf die Spur zu kommen, allein es ist eben nicht hinreichend.
+
+
+Klar.
+
+
+Die Maschine muss ein Gefühl kriegen. Dazu muss sie fehlerhaft werden.
+Das strikte Befolgen von Algorithmen führt zu keinerlei Intelligenz.
+
+
+Die gibt es noch nicht. Aber, im Zweifel: genau so wie das die "grauen
+Zellen" implementieren, oder wenigstens analog dazu. Ich hab den
+konkreten Hinweis ja oben gegeben: die Kultur machts. Wer die
+öffentliche Diskussion verfolgt hat (und wie konnte man nicht, kam es
+doch über alle Kanäle), der weiss, dass der Papst in seinem vorherigen
+Job vertuschte. Vorwürfe, er selbst sei einer der Vergewaltiger, wurden
+dagegen nicht laut.
+
+So funktioniert grob vermutlich die NFAJ-Jeopardy-Maschine: es wird
+eine Wahrscheinlichkeits-Bewertung gemacht unter den möglichen Lösungen,
+und die mit der höchsten Wahrscheinlichkeit ausgespuckt. Dafür gibt's
+Bewertungsmetriken.
+
+Die Maschine ist noch "flach"; sie wird mit allen möglichen Ergebnissen
+"gefüttert", ohne dass sie in der Lage ist, das wirklich zu erkennen.
+Das Bewertungsproblem wird mit Rechenpower und guter
+Trefferwahrscheinlichkeit erschlagen. Das Ding denkt nicht.
+
+Viele Grüsse,
+VB.
+-- 
+Marktkonforme Demokratie: der Steuerzahler bezahlt die Spielschulden.

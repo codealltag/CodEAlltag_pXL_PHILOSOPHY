@@ -1,0 +1,28 @@
+Nein.
+
+Programmiersprachen sind Metasprachen zur Beschreibung von Algorithmen.
+
+
+Ebene?
+
+
+Das ist eine naive Vorstellung.
+
+Tatsächlich ist es so, dass man mit jeder Turing-vollständigen Sprache
+alles beschreiben kann, was berechenbar ist.
+
+Eine bestimmte Klasse von Programmiersprachen, die sogenannten 3GL,
+werden gerne mittels eines Compilers in die Maschinensprache der
+Maschine übersetzt, die die in der 3GL beschriebenen Algorithmen rechnen
+soll.
+
+Ein solcher Compiler ist eine Funktion, also eine rechtseindeutige
+Abbildung von der 3GL in die Maschinensprache. 3GLs sind oft so
+aufgebaut, dass Compiler sich leicht finden lassen, Implementierungen
+von Compilern sich einfach und schnell herstellen lassen, und auch diese
+einigermassen schnell gerechnet werden können.
+
+Viele Grüsse,
+VB.
+-- 
+Bitte beachten Sie auch die Rückseite dieses Schreibens!

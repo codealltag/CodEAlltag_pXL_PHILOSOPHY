@@ -1,0 +1,19 @@
+Das tut's nicht; wenn die Menge der sich gegenseitig bewundernden
+Künstler dreielementig ist, ist (z) (z ~x & ...)  falsch, da es dann
+ja für jedes Paar x,y von Künstlern immer noch ein Künstler z gibt,
+der von x und y bewundert wird. Die Aufnahme von Kuenstler(z) in die
+Bedingung hilft hier auch nicht. Du könntest höchstens die Bedingung
+mit drei Existenzquantoren formulieren, aber dann tut's das
+Gegenbeispiel mit vier Künstlern usw.
+
+Mengentheoretisch läßt sich die Aussage so formalisieren:
+
+(Ex) ( x subset {y| Künstler(y)} & 
+        {(y,z) | Bewundert(y,z)} = 
+                U{ {y} times ({z |Künstler(z)}\{y}) | Künstler(y)}
+
+(wenn man davon ausgeht, dass sich ein Künstler nicht selbst
+bewundert, eine ziemlich realit�sferne Annahme)
+
+
+noël

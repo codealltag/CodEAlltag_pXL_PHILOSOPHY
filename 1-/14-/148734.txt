@@ -1,0 +1,51 @@
+Ich habe gerade (in meinem selbstgeschriebenen LAAG1-Script [1])
+diesen Satz gefunden - den Beweis hatten wir (im Januar) als
+Übungsaufgabe.
+
+Hier eine Kopie (LaTeX-Format):
+-----
+    \subsection{Beweis zu (a)}
+        Jede Permutation $f \in \Perm(M)$ hat eine (evtl. leere)
+        Fixpunktmenge $Fix(f) \in \Pot(M)$.
+        Betrachten wir das Bild der dadurch entstehenden
+        Abbildung $Fix : \Perm(M) \rightarrow \Pot(M)$.
+        Fast alle Teilmengen von $M$ sind in $im(f)$ enthalten, nur diejenigen, die
+        einelementige Komplement"armengen enthalten, sind nicht m"oglich,
+        denn es gibt keine Permutation, die nur ein Element bewegt und die anderen
+        konstant l"asst.\\
+        Alle anderen Mengen $A \in \Pot(M)$ kann man als Fixpunktmenge einer
+        Permutation erhalten, indem man einfach die Elemente der Menge auf sich selbst
+        zuordnet und auf der Komplement"armenge (wenn sie nicht leer ist) eine
+        fixpunktfreie Permutation anwendet. Dies ist immer m"oglich, wenn
+        $card(M \setminus A) \geq 2$ ist.
+         Es ist also $\Pot(M) = im(Fix) \cup \{ M \setminus \{a\} | a \in M\}$.
+        Da $card(\{ M \setminus \{a\} | a \in M\}) = card(M) < card(\Pot(M))$
+        und $M$ unendlich ist, ist
+        $$card(\Pot(M)) =\footnote{Dies wurde in Aufgabe 1 (a) bewiesen.}
+            card(im(Fix)) \leq
+                \footnote{$Fix :\Perm(M)\twoheadrightarrow im(Fix)$ ist eine Surjektion.}
+            card(\Perm(M)).$$
+        Ich hatte auch eine Injektion in die andere Richtung, aber die habe ich mir
+        leider nicht aufgeschrieben und deswegen wieder vergessen.
+        Nehmen wir an, wir h"atten diese Injektion
+            $g : \Perm(M) \hookrightarrow \Pot(M)$, dann w"urde nach dem Satz von
+        Burs, Lindermayer und Ox (also der Totalordnung der Kardinalzahlen)
+        folgen, dass
+            $$ card(\Perm(M)) = card(\Pot(M))$$
+        \qed
+-----
+
+Die Injektion in die andere Richtung erhält man
+leicht durch:
+
+S(M) 'Teilmenge von' Abb(M,M) 'Teilmenge von' Pot(M x M).
+Pot(M x M) ~ Pot(M), da M unendlich.
+
+Erwin
+-----
+[1] Seite 63 auf http://xnfchdl.lkdyaq.ny/qMtow/ZARE5-tgyclo.spi
+
+Der Beweis zum "Äquivalenzsatz von Ox", bei uns unter
+"Satz von Burs-Lindermayer-Bernstein", der ja eigentlich nur
+die Antisymmetrie (nicht Totalordnung) der üblichen Ordnung
+der Kardinalzahlen beschreibt, ist auf Seite 33 zu finden.

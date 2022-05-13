@@ -1,0 +1,24 @@
+Das gilt für Individuenkonstanten, aber gilt das auch für Eigennamen?
+Anders gesagt, wenn "Ignaz Panick" auf nichts referenziert, ist es
+dann kein Eigenname?
+
+
+Es geht ja auch nicht um FOPL. Sondern es geht um Existenz und
+Bezugnahme in alltagssprachlichen Sätzen. Diese Probleme gehen über die
+reine FOPL hinaus.
+
+
+Andere Leute haben andere Varianten vorgezogen. Pitschel etwa hat die
+fFL ("Präsuppositionen") gewählt -- und ist dafür von Noah kräftig
+gescholten worden. Wie dem auch sei, allein das "favorisiere" weist
+schon deutlich darauf hin, dass es sich hier um eine Entscheidung
+handelt, die nicht innerhalb der FOPL selbst, sondern nur aufgrund
+externer philosophischer Überlegungen getroffen werden kann.
+
+
+Sébastien
+
+-- 
+Sébastien Pletz                       Face reality and stare it down.
+mailto:hgjrkgee@prd.iex          --Patrick Schwartzer, "Silver River Turning"
+http://rwv.djbrpmyt.ks/yodpgsv/

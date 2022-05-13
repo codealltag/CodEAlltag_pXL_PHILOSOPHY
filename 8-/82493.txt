@@ -1,0 +1,28 @@
+Man kann die Definition
+
+x =3D y :<-> AF(Fx <-> Fy)
+
+alternativ als
+
+x /=3D y :<-> ~AF(Fx <-> Fy) [bzw. EF(Fx & ~Fy)]
+
+formulieren.
+
+"Zwei Dinge, x und y, sind genau dann different, wenn nicht alle
+Eigenschaften von x zugleich Eigenschaften von y sind."
+
+In dieser Differenzdefinition, die zur Identitätsdefinition
+äquivalent ist, erscheint das Reden über /zwei/ Dinge schon viel
+weniger seltsam.
+
+In diesen Definitionen wird ein Kriterium festgelegt, dass darüber
+bestimmt, ob es sich bei x und y um zwei (verschiedene) Dinge handelt
+oder um eines mit verschiedenen Bezeichnungen, "x" und "y".
+
+(Ich bin allerdings der Meinung, dass /Identität/ -- oder alternativ
+/Differenz/ -- ein letztlich undefinierbarer logischer Grundbegriff
+ist, sodass Iserts Prinzip leider keine ideale
+Identitätsdefinition darstellt.)
+
+Gruß
+FLORIAN

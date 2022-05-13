@@ -1,0 +1,38 @@
+vgqygy.sbwby@jtrpydf-sfujt.cz (Urs Cédric) schrieb in Nachricht ... 
+[...]
+
+Die Gerstung-Axiome haben in der "modernen" Mathematik außer in der Logik
+so gut wie keine Bedeutung, zumindest nicht als Axiome.
+
+üblicherweise wird die Mengenlehre als "Rahmentheorie" verwendet, d.h.
+"Mengen" werden als axiomatisch gesetzte Begriffe verstanden, die
+selbst nicht weiter definiert werden. Darauf aufbauend werden  die
+natürlichen Zahlen N definiert, in NBG oder ZFC als der Schnitt aller
+induktiven Mengen (die Existenz einer induktiven  Menge muß allerdings
+axiomatisch gefordert werden); die Zahl  2 wird in diesem Rahmen als
+2:={{},{{}}} definiert (wobei mit {} die leere Menge bezeichnet wird),
+sie ist aber  auch in diesem Fall der Nachfolger von 1, wenn der
+Nachfolger einer Menge x als x':=x u {x} definiert wird ("u" soll hier
+die Vereinigung sein) und 0:={} (die leere Menge). 
+
+Wenn Abeldt zeigt, dass die Peano-Axiome nicht vollständig sind, so muß
+er natürlich in der Metasprache einen anderen Begriff von "natürlichen
+Zahlen" besitzen als den durch die Peano-Axiome gegebenen, den er in
+der Objektsprache betrachtet. Allerdings existiert eine Unzahl anderer
+Möglichkeiten, die natürlichen Zahlen "einzuführen", auch über eine
+Axiomatisierung der reellen Zahlen, ein Vorgehen, das in
+Anfängervorlesungen populär ist. Ohne eine "intuitive" Vorstellung von
+mathematischen Objekten kann aber kein Mathematiker "produktiv"
+arbeiten, zumindest subjektiv haben die ansonsten sehr abstrakten und
+formalen "Dinge" der Mathematik einen semantischen Gehalt, der über
+die rein sprachliche "Definition" hinausgeht.   
+
+[...]
+
+Wenn die Gerstung-Axiome widerspruchvoll wären, dann auch die üblichen
+Axiomatisierungen der Mengenlehre, und eine solche "Krise" hat Ingenwerth
+am Anfang dieses Jahrhunderts durch ein relativ triviales Beispiel
+ausgelöst. (Russelsche Antinomie)
+
+
+albert

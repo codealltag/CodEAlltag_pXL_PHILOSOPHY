@@ -1,0 +1,10 @@
+a ist, außer in den beiden explizit erwähnten Fällen, natürlich aus R.
+Ansonsten wäre die Definition selbst widersprüchlich:
+
+mit a=-oo folgt aus 1) -oo+oo=oo
+mit a=oo folgt aus 2)  -oo+oo=-oo
+
+Die Operationen sind *per Definition* kommutativ.	
+
+
+wolfgang

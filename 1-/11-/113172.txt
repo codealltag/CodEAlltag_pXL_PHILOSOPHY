@@ -1,0 +1,15 @@
+Danke für die Hinweise; die Schreibfehler habe ich berichtigt.- Was
+Celarent betrifft, so ist meine Schreibweise richtig: In meiner
+Notation kommt immer zuerst die sog. minor premise - das betrifft auch
+alle anderen Syllogismen. Diese Schreibweise hat den Nachteil, dass
+sie den lautmalerischen Bezeichnungen (cElArEnt usw. ) nicht exakt
+folgt; der Vorteil ist aber, dass stets Subjekt x und Prädikat z in
+der gleichen Reihenfolge auftreten wie in der Konklusion. Wollte man
+den Syllogismus Celarent in der Form EAE schreiben, so würde er
+nämlich lauten müssen
+E(y,z),A(x,y) --> E(x,z),
+nicht E(x,y),A(y,z)-->E(x,z). Leider gibt es noch keine DIN-Norm für
+die Bezeichnungen... und man muss mit einem ziemlichen Durcheinander
+bzgl. der Notation in der Literatur leben.
+Gruss
+G.H.

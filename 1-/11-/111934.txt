@@ -1,0 +1,28 @@
+Ingmar Zenkel <igzrfgu@hrzoff-uzzuq.ui> schrieb:
+
+[...]
+
+
+Hier tauchen die Worte "beweisbar" und "Beweisbarkeit" auf.
+
+Wenn sie für dasselbe stehen, schreibst Du (mit B als dem Operator der
+Beweisbarkeit), dass BBa -> Ba. In dem Fall ist wichtig, dass "Ba -> a"
+hierdurch nicht impliziert wird.
+
+Wenn "beweisbar" und "Beweisbarkeit" für jeweils unterschiedliche
+Formen der Beweisbarkeit stehen (etwa nach Art von |= Ba |- |= a)
+solltest Du Dich genauer ausdrücken.
+
+
+Na :<-> ~Ba
+
+
+Hier wird es vollends unklar.
+
+
+[...]
+
+
+Wenn Du Gödels Satz verstanden hättest, würden Dir jede Menge
+Gegenbeweise einfallen.
+   Berend

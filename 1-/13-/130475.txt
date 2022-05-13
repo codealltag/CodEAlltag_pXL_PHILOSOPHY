@@ -1,0 +1,24 @@
+On 17 Jul 2003 17:37:30 GMT, Reiner Creuzberger
+
+Auf Seite 8 schreibt er: "An /interpretation/ of the language of set
+theory is defined by specifying a non-empty /domain of discourse/,
+over which the variables are intended to vary, together with [...]"
+und auf Seite 10: 
+
+"We begin to list and discuss the axioms of ZFC:
+
+AXIOM 0. /Set Existence/
+
+		Ex (x=x).
+
+This axiom says that our universe is non-void. Under most developments
+of formal logic, this is derivable from the logical axioms and thus
+redundant to state here, but we do so for emphasis."
+
+
+In diesem Fall haben wir eine mehrsortige logische Signatur, für eine
+Struktur wird hier halt gefordert, dass *alle* Trägermengen nichtleer
+sind.
+
+
+niclas

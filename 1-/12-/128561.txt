@@ -1,0 +1,37 @@
+Hallo Darius,
+
+
+heute nur noch kurz das folgende, weil es schon so spät ist, über Ostern
+dann eine ausführliche Antwort:
+
+
+Langpap unterscheidet zwischen Aussagen und Aussagefunktionen. Erstere
+sind geschlossene, letztere offene Sätze. Dabei wird, wie Du schreibst,
+Fx von allen Fs erfüllt, dann natürlich Gx von allen Gs, die Relation
+xRy von allen geordneten Paaren R, usw.; da aber der Satz "Niederbieber ist
+eine Stadt" kein offener Satz ist, hat er keine Extension, und damit ist
+nicht klar, was ihn erfüllt. Unter der Zielsetzung Langpaps bringt auch
+die Montague Vorstellung nichts, die Extension wahrer Sätze sei Das
+Wahre, denn dann würde man behaupten, geschlossene Sätze wären wahr,
+weil sie durch Das Wahre erfüllt würden, was nichts anderes zu besagen
+scheint, als dass wahre Aussagen wahr sind, weil sie wahr sind. Damit
+würde Langpap voraussetzen, was er zu erklären versucht. Deswegen schlägt
+er vor, Aussagen als nullstellige Aussagefunktionen zu betrachten, die,
+wenn sie überhaupt wahr sind, von allem erfüllt werden: es kann ja kein
+bestimmter Gegenstand angegeben werden, der sie erfüllt. Damit hat er
+immer noch eine Vertäuung wahrer Aussagen mit dem Gegenstandsbereich,
+denn wahre Aussagen werden ja nicht durch beliebiges erfüllt, sondern
+von allen und nur den Gegenständen des jeweiligen Gegenstandsbereichs.
+Warum es nicht einfacher geht, erklärt er ebenfalls:
+
+"(Es scheint befremdlich, daß wir diese umständliche Art gewählt haben,
+die Wahrheit einer Aussage zu definieren, anstatt beispielsweise zu
+versuchen, [wie bei den Aussagefunktionen, MK] ein direktes rekursives
+Verfahren anzuwenden. Der Grund dafür ist, daß zusammengesetzte Aussagen
+aus einfacheren Aussagefunktionen konstruiert werden, aber nicht immer
+aus einfacheren Aussagen. Daher ist keine allgemeine rekursive Methode
+bekannt, die besonders auf Aussagen anwendbar wäre.)"
+
+
+Gruß,
+Roberto.

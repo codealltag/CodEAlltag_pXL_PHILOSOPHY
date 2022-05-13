@@ -1,0 +1,41 @@
+Hallo Armin,
+
+
+ich habe absichtlich bei meiner Definition von Sprache
+auf die Einführung von Grammatik verzichtet.
+
+Mir scheint, durch Einführung von neuen Symbolen kann
+man immer erreichen, daß ein Satz ohne
+Berücksichtigung der Wortstellung eindeutig bleibt.
+Daher ist in meinen Augen eine Grammatik nicht
+zwingend für das Vorliegen einer Sprache.
+
+Freilich werden dann eventuell sehr viele
+Symbole in eine Sprache eingeführt; dieser
+Umstand ist aber nicht so wichtig.
+Es geht mir nur darum, zu zeigen, daß eine
+Grammatik im Sinne eines Systems von
+Wort-Stellungs-Regeln nicht notwendige
+Voraussetzung für Sprache ist.
+
+In obigem Beispiel würde ich zu jedem Substantiv
+ein aktives (...-a) und ein passives Symbol (...-p)
+verwenden, dann wird der Satz wieder semantisch
+eindeutig.
+
+---"Katzen jagen Muse."---
+
+Katzen-a jagen Muse-p
+jagen Katzen-a Muse-p
+Muse-p Katzen-a jagen
+
+---"Muse jagen Katzen."---
+Muse-a Katzen-p jagen
+Katzen-p Muse-a jagen
+jagen Katzen-p Muse-a
+
+Größe,
+Philippe
+--
+Capture what you cut off.
+(Go-Sprichwort)

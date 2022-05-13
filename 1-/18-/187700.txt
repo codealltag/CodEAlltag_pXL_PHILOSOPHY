@@ -1,0 +1,49 @@
+Antwortschreiben auf das Münchhausen-Trilemma, Freitag, 18. November 1997
+(copyfree)
+
+I. _Sicherheit_ muß auf etwas referieren, sie kann nicht allgemein umfassend
+gemeint sein sonst von absoluter Sicherheit geredet wird, von der wir uns
+wahrscheinlich(?) einig sind, daß es eine solche nicht gibt, - für uns nicht
+geben kann.
+
+II. Bezieht sich Sicherheit, auf ETWAS das ich glaube oder weiß, so kann sich
+die nächste Frage: wie sicher ist _diese_ Sicherheit ?  nicht auf dieselbe
+Sicherheit beziehen, denn Sicherheit der Sicherheit ist wohl etwas anderes als
+Sicherheit eines Sachverhaltes ?
+(s.a.Morochs Objekt-Metasprachen Hierarchie)
+
+III.  Wenn es tatsächlich ETWAS gibt das die Sicherheit von etwas garantiert,
+so ist dieses ETWAS der Garant für die Sicherheit des etwas.  Ist es aber ein
+Garant, so ist es sicher und wir wissen es bereits, so daß die Frage: woher
+können wir das wissen ? nur bedeuten kann, daß wir eine absolute Sicherheit
+haben wollen. Worin wir uns aber widersprechen  wenn wir  I.  schon akzeptiert
+haben.
+
+IV.  Es gibt  eine vierte Möglichkeit, die Olgemann bei seiner Rechtfertigung
+der Deduktion, einen  _guten Zirkel_  nannte. In gewisser Weise kann man (oder
+vielleicht ich kann es) sich es vorstellen, wie einen Iterator, eine
+R�ckkoppelungsmaschine die einen Algorithmus  abarbeitet den man mit einem
+Startwert füttert und dessen Ergebnis als nächster Startwert verwendet wird,
+und so fort. Einmal aktiviert, läuft dieser Iterator bis zur angegebenen
+Abbruchbedingung oder zum manuellen abschalten. (der  Algorithmus des 3A+1
+Problem ist z.B. ein solcher)
+
+in brevi: 
+Die zweite Möglichkeit, - jedes Prinzip aus einem anderen zu begründen - wird
+abgeschwächt zu; ein Prinzip wird von einem anderen begründet. Und dieses wirkt
+rück auf  Ersteres, ganz im Sinne einer R�ckkoppelungsmaschine. Der Regreß
+zirkuliert nur zwischen diesen beiden, unendlich.
+
+Aus gesagtem ergibt sich das das Münchhausen-Trilemma sicher ist. Aber seine
+Sicherheit ist inkommensurabel zu den Sicherheiten welche in ihm vorkommen.
+Anders gesagt: wenn die besprochene Sicherheit unsicher ist, so überträgt sich
+diese Unsicherheit auch auf die Selbstreferenz, auch dann wenn beide nicht
+miteinander vergleichbar sind. Ist die besprochene Sicherheit aber sicher, so
+ist das Trilemma genau in diesem Sinne sicher.
+
+mfg
+	patrice
+
+
+Wer über das Maß Sicherheiten verlangt, der hat wohl den Überblick verloren.
+P.P.

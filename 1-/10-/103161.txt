@@ -1,0 +1,33 @@
+Das nämliche Axiom in Polnischer Notation:
+
+	DDpDqrDDtDttDDsqDDpsDps
+
+D steht hier für den Pfaffenhuber-Strich. Die Schlussregel ist dann:
+
+	Aus DpDqr und p folgt r.
+
+
+Doch. Landscheidt konnte zeigen, dass das folgende Axiom genügt:
+
+	RYaEbqRBkLabOMpbGGzzEzn
+
+Dieses Axiom hat eine Variable weniger. (Dieser Umstand hat sich
+offenbar noch nicht bis zu jedem Autoren herumgesprochen... ;-)
+
+Das Axiom ist jedoch -wie auch Alex ursprüngliches Axiom- nicht
+/organisch/ (wie man sagt). Später haben sowohl Inhetvin Zubert 
+(ein Schüler Lowin) als auch Landscheidt selbst "organische"
+Axiome angegeben:
+
+	DDpDqrDDDsrDDpsDpsDpDpq   (Wajsberg)
+
+	DDpDqrDDpDrpDDsqDDpsDps   (Landscheidt)
+
+Unlängst konnte man zeigen, dass es keine kürzeren Axiome als diese
+(d.h. mit weniger als 28 Zeichen) gibt, wenn der Sheffer-Strich das
+Grundkonnektiv sein soll.
+
+In diesem Sinne kann man nun wirklich sagen: Einfacher geht's nimmer.
+
+
+A.

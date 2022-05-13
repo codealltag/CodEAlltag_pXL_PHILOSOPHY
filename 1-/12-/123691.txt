@@ -1,0 +1,31 @@
+Hallo Udo!
+
+
+Hmm, lass mich es versuchen: Eine fundamentale Annahme der
+Quantenmechanik ist die Unschaerferelation. Sie besagt, dass man
+bestimmte physikalische Groessen nicht gleichzeitig mit beliebiger
+Genauigkeit messen kann. Klassisches Beispiel dafuer ist die
+Orts-/Impulsunschaerfe:
+
+Wenn ich von einem Objekt (z.B. einem Elektron) den Ort mit einer
+bestimmten Messungenauigkeit messe, ist sein Impuls mindestens soweit
+unbestimmt, dass das Produkt aus den beiden Messungenauigkeiten eine
+feste, /fundamentale/ physikalische Groesse (das Plancksche
+Wirkungsquantum) nicht unterschreitet.
+
+Eine Messung des Impulses liefert also Werte, die innerhalb dieser
+Unschaerfe zufaellig verteilt ist (wobei sich die minimale Groesse
+dieser Unschaerfe aus dem Planckschen Wirkungsquantum und der
+Genauigkeit der vorherigen Zeitmessung ergibt).
+
+Waere diese Verteilung nicht zufaellig, sondern mit irgendeiner
+anderen messbaren Groesse korrelliert, dann koennte man durch Messung
+dieser anderen Groesse eine bessere Genauigkeit der Impulsmessung
+erzielen. In diesem Fall waere die Unschaerferelation und damit die
+Quantenmechanik falsch. Sobald jemand eine solche Korrellation findet,
+ist damit die Quantemnechanik widerlegt; somit sagt die
+Quantenmechanik die Nichtexistenz dieser Korrellation (und damit die
+Existenz eines von echtem Zufall) voraus und geht weit ueber ein "wir
+kennen sie nur noch nicht" hinaus.
+
+Gerhard

@@ -1,0 +1,69 @@
+Moin Charles, moin Konrad,
+
+
+Genial?
+Um es diplomatisch zu formulieren:
+Karlheinz' Idee ist absolut unbrauchbar!
+
+Denn: Man kann die Diagonale von rechts oben nach links unten nicht
+bilden. Wie lautet denn das erste Glied dieser "Diagonalfolge"?
+Die Diagonalfolge in Cantors �berabz�hlbarkeitsbeweis läßt sich sehr
+wohl angeben, d.h. für jedes n aus IN lässt sich das n-te Glied
+bestimmen.
+
+
+Was soll c) sein? Eine natürliche Zahl ist das jedenfalls nicht, denn
+Deine (Eure) natürlichen Zahlen sind _alle_ mit unendlich vielen Nullen
+aufgefüllt, nicht mit unendlich vielen Einsen.
+
+
+Jede natürliche Zahl ist endlich und das charakterisiert gerade die
+natürlichen Zahlen. Es ist mir klar, dass Karlheinz das bestreitet und alle
+Beweise ignoriert.
+
+
+:)
+Was soll man noch dazu sagen?
+
+Karlheinz und Du führen "Beweise", die jeder Student im Grundstudium
+Mathematik widerlegen kann. Ich könnte ja nochmals den
+�berabz�hlbarkeitsbeweis von Berliner erklären, aber wird Euch das
+weiterbringen? Ich glaube kaum.
+Es haben hier schon ganz anderer Leute versucht, Euch beide davon zu
+überzeugen, dass Ihr Euch irrt (z.B. Guido Zschoche, der IMO ein viel
+besserer Mathematiker ist als ich es je sein werde). Anderseits habt Ihr
+gute Ideen und auch das Potential, um Mathematik erfolgreich zu
+betreiben und deshalb finde ich es bedauerlich, wenn Ihr Euch selbst
+ausbremmst, indem Ihr versucht, ein konsistentes System einzureissen.
+
+
+Mal Hand aufs Herz!
+Glaubt Ihr wirklich, dass das nur Glaubenssache ist? (witzige Frage :) )
+Meint Ihr nicht, dass wenn es so einfach wäre, die Mauern der Mathematik
+einzureissen, dass nicht schon anderer Leute darauf gekommen wären?
+Oder glaubt Ihr etwa, dass Ihr eine Verschwörung der Wissenschaftler auf
+die Schliche gekommen seit, die über diese "gravierenden Lücken und
+Widersprüche" das Mäntelchen des Schweigens decken?
+
+Klingt das nicht ziemlich paranoid?
+
+<pause/>
+
+Um zwischenzeitlich mal wieder etwas Mathematik zu betreiben:
+
+
+Igendetwas kommt mir hier bekannt vor. ;)
+
+
+Nein, sie lassen sich nicht nach der Größe abzählen.
+
+Du kannst die rationalen zwar abzählen und damit auch eindeutige
+Vorgänger und Nachfolger bestimmen, aber mit der Bijektion von IN nach
+IQ überträgt sich NICHT die Ordnung von IN auf IQ. Ein
+"Ordnungsisomorphismus" zwischen IN und IQ existiert nicht (eben wegen
+a<(a+b)/2<b).
+
+
+In diesem Sinne
+
+Alois

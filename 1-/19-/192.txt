@@ -1,0 +1,9 @@
+Das ist falsch. Die Zustandsgröße der Entropie eines physikalischen
+Systems wird immer zusammen mit ihrer Einheit angegeben
+und die ist J/K mit ihrer Dimension. Letztere findet man z. B.
+in einer Auflistung der SI-Einheiten bzw. der einschlägigen
+Fachliteratur. Man kann sie auch selber herleiten aus den
+jeweiligen verschiedenen aber äquivalenten Gleichungen
+zur Entropieberechnung. Dass Entropie eine statistische
+Größe ist hat damit nichts zu tun, dass heißt lediglich, dass
+man sie nicht direkt messen gleichwohl aber berechnen kann.

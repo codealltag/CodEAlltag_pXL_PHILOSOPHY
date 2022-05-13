@@ -1,0 +1,33 @@
+Tja, hier war ich wohl etwas "zu schnell". UM das tun zu können, brauche
+ich natürlich auch noch eine Einführungs- und eine Eliminationsregel für
+die Negation. (Bisher habe ich ja nur Regeln für & besprochen.)
+
+Ohne Begründung gebe ich jetzt einfach mal zwei mehr oder weniger
+plausible Regeln an (zumindest sind diese Regeln schon seit dem
+Mittelalter bekannt):
+
+Reductio ad absurdum (RAA, ~I)
+
+	 [A]
+	  :
+	B & ~B
+	------
+	 ~A
+
+Wenn man aus der Annahme von A auf einen Widerspruch schließen kann, so
+darf man ~A folgern (wobei die Annahme "fallen gelassen" wird).
+
+Duplex negatio confirmat (DN, ~~E)
+
+	 ~~A
+	-----
+	  A
+
+Ist klar, n?
+
+So das wär's: DIESE Regeln (&I, &E, ~I, ~~E) zusammen mit den
+Definitionen für v und -> bilden die Basis unseres aussagen-
+logischen Systems.
+
+
+A.

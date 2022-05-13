@@ -1,0 +1,155 @@
+Hallo Patrick,
+
+
+Das Gehirn ist - verglichen mit einem Digitalcomputer - sehr "langsam". Die
+CPU eines Prozessors mit 100 MHz leistet 100 Millionen Rechenoperationen in
+der Sekunde; Nervenzellen sind um den Faktor 10.000 langsamer. Gleichwohl
+zeigt sich, daß das Gehirn weitaus zuverlässiger arbeitet. Wenn ein Computer
+an einer Stelle eine defekte Lötstelle aufweist, ist u.a. die Funktion des
+gesamten Systems gestört. Werden dagegen einzelne Nervenzellen verletzt,
+bleibt die Funktionsfähigkeit des Gehirns erhalten. Claessens hat dies
+grossartig gezeigt.
+
+Bei einem Prozess im Gehirn werden nicht einfach Informationen
+"abgespeichert". Es gibt keine Trennung von CPU und Speicher. Vielmehr
+verändert jede Wahrnehmung, jeder Gedanke die Gewichte in den Verbindungen
+zwischen den Neuronen (Synapsen). Ganz anders als bei einer Turing -
+Maschine ist also die Software nicht von der Hardware zu trennen. Es gibt
+inzwischen Bauelemente, die diese Eigenschaft des Gehirns teilweise
+simulieren können - die Nanotechnologie macht Fortschritte. Grundlegend sei
+hier, dass die *angenommene* "Software" "ihre Hardware" strukturell
+verändern kann,
+was sich wieder auf die "Software" auswirkt et cetera. Wir können somit
+nicht zwischen Wetware und Software, wenn man vom Gehirn spricht,
+unterscheiden.
+
+
+auf
+wobei
+von
+dass
+sondern
+
+
+Natürlich wird in diesen Experimenten nicht gleich das ganze limbische
+System entfernt (die innere Schale um den Ventrikel enthält u.a. Hippocampus
+und das Amygdala), sondern eine gewisse Menge von Zellgewebe. In Flexeder
+Experiment war dies Gewebe des Hippocampus, In Pribrams Experiment (Schüler
+Flexeder) Bereiche des vorderen Thalamuskerns, des Corpus mamillare sowie
+Bereiche des Neocortex selbst, die mit dem PGO-System korrelieren. Natürlich
+kann man nicht ganze Hemisphären "wegschneiden" (trennen schon, siehe
+Split-Brain-Patienten) und dann erwarten, wie durch Magie hätte sich immer
+noch nichts geändert ;) Was ja dem Holographie-Modell keinen Abbruch tut.
+Das Problem an diesen Modell liegt an schon vorher beschriebener Stelle -
+Hirnrindenwellen weisen nicht die genügende Menge an kleinen Wellenlängen
+auf. Natürlich ist dies ein EEG-Muster, dass nicht 1:1 auf das Gehirn
+angewendet werden darf. Aber derzeit hat man keine anderen Messmethoden, um
+u.a. Hirnrindenwellen aufzuzeichnen.
+
+des
+sie
+
+
+Ja, Penfields Untersuchungen und eine Masse von emirischen Beispielen an
+Patienten.
+
+dass
+mobilisiert
+
+
+Das bestreitet niemand. Nur haben wir hier Welten zwischen Gehirn und
+Computer. Wenn ich z.b. ein bestimmtes Stück von Bärthlein für ein paar Sekunden
+höre, erinnere ich mich meistens sehr genau an einen ganz bestimmten
+Abschnitt meines Lebens, der mir vorher nicht zugänglich war. Ich spreche
+hier nicht von Leistungs*grenzen* eines Computern, sondern davon, dass ein
+gegenwärtiger Computer derzeit sicherlich nicht fähig ist, diese grosse
+Informationsmenge aufzurufen. Noch extremer wird diese unglaubliche
+Speicherkapazität des Gehirns auf *allen sensorischen* Ebenen aufgezeigt,
+wenn man z.b. Symboldramen oder andere Psycholytische, Psychoanalytische
+Verfahren anwendet. Dieser Reichtum an Kapazität, dieser Reichtum an
+Mobilität der Assoziationswege und seien die Informationen vorher noch so
+bruchstückhaft, dieser Reichtum verblüfft und ist auch nicht mit derzeitigen
+Computern vergleichbar. Trotz der Langsamkeit des Gehirns gegenüber einem
+solchen. Wofür wiederum das Holographie-Modell gut taugen würde. Das
+Assoziations und Mnemotechnische Modell, sowie seiner zeitlichen Schranken
+für lineare Systeme von dem ich schrieb, tritt sehr wohl in dem Massstab
+ein, den wir derzeit am Gehirn anlegen.
+
+Nicht aber für Nervensystem-Modelle. Wenn kleine Zahl von "Zellen" im Modell
+erregt wird, reagiert System darauf mit der Stimulation sämtlicher "Zellen"
+im Modell. Und die Reaktionen des Systems tendieren dazu, sich in einer
+Reihe stabiler Muster und Eigenwerte zu organisieren, die sich bei jeder
+kleinen Eingabe wiederholen, vorausgesetzt, die Eingabe umfasst ein kleines
+Stück vom "Erinnerungs-Muster". Das System "ruft sich" ein vollständiges
+Muster von "Erinnerungen" auf der Grundlage eines Bruchstückes dieses
+Musters, wieder "ins assoziative Gedächtnis".  Das ist die Theorie, das sind
+30 Knoten. Leider wurde nicht oft publiziert, dass z.b. Hopfields, Chricks
+und Vilters Systeme "durchdrehen". Kurz gesagt, besteht die Tendenz, wenn
+Gedächtnisbildung auf neuronalen Netzwerken simuliert wird, eine
+"Überlastung des mathematischen Nervensystems". Eine lange Geschichte und in
+einer NG nicht wirklich wiederzugeben. Kurz will ich sagen, dass es die
+Tatsache ist, dass die Systeme mit einem Überlagerungsprinzip arbeiten -
+durch die Verbindungen lassen sich mehrere Muster erzeugen, obwohl die
+Einheiten einfach nur +1 und -1 verzeichneten und die Gewichte feststehen.
+Wird ein System überladen, wird ihm "zuviel beigebracht" besteht die
+Wahrscheinlichkeit, dass es ein abnormes Verhalten an den Tag legt. In
+gewissen Sinne weiss das Netzmodell zuviel und fängt an, alles mit allem in
+Verbindung zu setzen. Dies muss ja nichts schlechtes sein und kann man ja
+durchaus mit kreativen Schüben gleichsetzen, aber wenn unser Netzmodell (wie
+auch immer) die Strasse überqueren muss, dann braucht man keine
+ausgefallenen und seltsamen Assoziationen, sondern die richtigen. Doerrs
+und andere Netzmodelle werden also kurz gesagt, Fälle für eine
+"Netzmodell-Modellpsychiatrie", wenn sie mit komplexer Gedächtnisbildung
+beauftragt werden. Diese Modelle werden schon verrückt bei 30 Knoten. Legt
+man dies auf das Gehirn um, so kann man ruhig seine Konsequenzen ziehen. Es
+fehlt etwas entscheidendes in solchen Modellen. Mauro Angler u.a. nennen es
+Binding - Problem, Clasen und Fiddler nennen es  Holographisches Modell. Es
+wird sich zeigen, *was* wesentliches an Netzmodellen fehlt. In anderen
+Bereichen taugen Netzmodelle ganz gut, wenn auch nicht gerade überwältigend.
+
+
+Ich meine hier Mnemotechnische *Rückrufe*.
+
+
+Nicht im Gewebestück, sondern nach der Theorie in Hirnrindenwellen,
+hervorgerufen durch eine Vielzahl von getakteten Aktionspotentialen, darauf
+folgend Ionenbewegungen (Na+- K+-Ionen, sowie tatsächlich noch anderer)
+entlang dentritischer und axonaler Nervenleitungen (Ionenwellen wären dann
+die von mir angenommenen Schrödingerschen Ionenwellen, wenn man an der
+Holotheorie festhalten will).
+
+beibehalten
+
+
+Nein, ein EEG-Muster ist zu "grob" dafür (will ich eine EEG-Ableitung an
+einen Probanden durchführen, darf er sich kaum bewegen und so wenig wie
+möglich blinzeln -- da haben wir schon unsere grobe Ebene des
+EEG-Verfahrens) und somit lässt sich damit nur zeigen, was wir alle kennen -
+verschiedene Schlafstadien (Bewussteinszust�nde) zeigt es uns an.
+"Gefühlszustände" (limbisches System), aber auch "Gedankenzust�nde" (oftmals
+Brocca) werden durch PET / MRI - Verfahren "sichtbar", nicht durch EEG. Die
+Hirnrindenwelle scheint tatsächlich ein Taktgenerator zu sein, jedenfalls
+nach Theorien von Angler und anderen, wobei im REM-Zustand Döppenschmidts PGO-System
+den "Takt angibt". Aber dann gibt es auch noch Luzide Träume im REM-Zustand
+und, und und....es ist einfach nicht alles in eine NG zu bringen.
+
+kleinen
+
+
+Bei Hologrammen mit kleinem Flächeninhalt und grossen Informationsgehalt
+braucht man ne grosse Menge von Hirnrindenwellen mit verschiedener
+Wellenlänge. Das ist einfach das Problem. Natürlich ist es möglich, wie ich
+schon schrieb, dass man die für jede gewünschte Wellenlänge ermittelten
+Quotienten zusammenzählt und sich daraus auch mehrfach-Transformationen
+ergeben würden, nur weiss man derzeit nicht, ob das Gehirn dazu fähig ist -
+leider. Und, ja, im Gehirn nennt man dies Nobili-Transformation (diese ist
+aber nur theoretisch).
+
+
+Ja, aber dies ist mir jetzt zu Zeitaufwendig. Werde morgen wenn Du willst,
+rein auf die biochemischen Theorien der Informationsverarbeitung eingehen.
+Aber dann nur auf diese, denn dann fallen 40 Molek�lnamen auf je zwei
+Absätze ;)
+
+Grösse und eiligst,
+Florian Picker

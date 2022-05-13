@@ -1,0 +1,57 @@
+Das ist korrekt, sofern wir uns nur in einem endlichen und deterministischen
+Universum befinden.
+
+Da du es nicht nachvlziehen kannst, das ist verständlich. Selbst ich kann das
+so nicht ;-) Aber wir können die Angelegenheit etwas vereinfachen. Bauen wir
+uns mal ein kleines Modelluniversum:
+
++-+-+
++-+-+
++-+-+
+
+In diesem Universum befände sich folgende "Materie": {X,O}
+Damit haben wir also das, was ich eben vorausgesetzt habe. Die Realität ist zwar
+sehr viel größer und komplexer, jedoch ändert das nichts an der Gültigkeit von
+dem, was ich nun erkläre.
+Betrachten wir einmal die Zustände, die unser Modelluniversum einnehmen kann. Es
+gibt deren genau 12 Stück:
+
++-+-+  +-+-+  +-+-+  +-+-+  +-+-+  +-+-+  +-+-+  +-+-+  +-+-+  +-+-+  +-+-+  +-+-+
++-+-+  +-+-+  +-+-+  +-+-+  +-+-+  +-+-+  +-+-+  +-+-+  +-+-+  +-+-+  +-+-+  +-+-+
++-+-+  +-+-+  +-+-+  +-+-+  +-+-+  +-+-+  +-+-+  +-+-+  +-+-+  +-+-+  +-+-+  +-+-+
+  1      2      3      4      5      6      7      8      9      10     11     12
+
+Betrachten wir nun verschieden Fälle. Nehmen wir zunächst einmal an, daß wir uns
+z.B. in Zustand 3 befinden. Dieser Zustand sei "statisch". Nach einer Zeitperiode
+befinden wir uns also wieder in Zustand 3 und so fort. In diesem Fall wird sich
+trivialerweise alles immer wiederholen.
+Nehmen wir nun an, dieser Zustand 3 sei "dynamisch" und "deterministisch". Er gehe
+nach einer Zeitperiode in z.B. Zustand 6 über. Dieser Zustand gehe nach einer
+weiteren Zeitperiode in Zustand 11 über und dann wieder in Zustand 3. Da wir ein
+deterministisches Universum voraussetzen wird jedem Zustand X genau ein bestimmter
+Folgezustand Y zugeordnet. Es ist leicht ersichtlich, daß dadurch entweder ein
+Zyklus enstehen wird, der sich nach endlich vielen Zeitperioden wiederholt oder
+das Universum auf dem Weg in einen Endzustand ist, der sich selbst als Folgezustand
+hat.
+Der letzte Fall ist ein "dynamisches" und "nicht-deterministisches" Universum. Hier
+kann aus einem Zustand X eine ganze Menge Y anderen Zustände folgen. Da diese Menge
+auch Zustand X selbst enthalten kann, ist eine Betrachtung des Falls "statisch" und
+"nicht-deterministisch" nicht notwendig.
+Dieses Universum wird zwar zwangsläufig ebenfalls immer wieder irgendeinen Zustand
+einnehmen, allerdings muß sich nicht unbedingt alles wiederholen, wie es in dem
+deterministischen Fall war. Es gibt verschiedene Wege, von einem Zustand zu einem
+anderen zu gelangen, und in bestimmten Fällen unendlich viele.
+
+Dieses Modell mag zwar sehr primitiv sein, aber wenigstens kann man sich so klar
+machen, was obige Aussage bedeutet. Allerdings sollte man sich auch darüber im
+klaren sein, daß das Universum unendlich sein könnte.
+
+IMHO ist unser Universum auf jeden Fall teilweise deterministisch. Und unter der
+Voraussetzung, daß der 2. Hauptsatz der Thermodynamik allgemein gültig ist, befinden
+wir uns auf dem Weg in einen Endzustand mit maximaler Entropie, welcher statisch
+ist. Allerdings müssen wir uns dann fragen, wieso unser Universum jetzt in einem
+anderen Zustand ist. Es muß wohl beim Urknall dieser 2. Hauptsatz verletzt worden
+sein. Eine für mich sehr spannende Frage ist, ob das im kleineren Labor-Maßstab
+ebenfalls möglich ist. Was meint ihr dazu?
+
+Waldemar

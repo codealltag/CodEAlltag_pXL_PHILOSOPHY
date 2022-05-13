@@ -1,0 +1,112 @@
+Das ist eine merkwürdige Formulierung, so als gäbe es auch
+ein unvernünftiges Schlußfolgern. Eine Schlußfolgerung kann
+richtig oder falsch sein, aber imho nicht vernünftig oder
+unvernünftig.
+
+
+Das wollte ich damit sagen. Aber nicht jedes Denken
+ist vernünftig.
+
+Wenn jemand die Straße überquert und dabei stehen bleibt,
+und vorschriftsmäßig nach beiden Seiten schaut, dann ist
+das vernünftig. Es ist keine Akt logische Schlussfolgerung,
+sondern das Befolgen einer internalisierten Regel.
+
+Vernünftig kann es sein, auf Atomkraftwerke zu verzichten.
+Es ist aber nicht unbedingt logisch, denn man kann Logik
+für oder gegen Atomkraftwerke verwenden und es liegt in
+der Bewertung durch den Betrachter, welche Argumente
+schwerer wiegen.
+
+Vernunft kann sein, die Dinge so zu tun, wie sie in der
+Gesellschaft als bewährt üblich sind. Heuristisch ist die
+Anpassung und Imitation eine erfolgreiche Strategie.
+Vernunft kann aber auch sein, die Notwendigkeit für neue
+Wege zu erkennen, und mit dem Alten zu brechen.
+
+Kurz: Vernunft ist viel mehr als Logik, aber Vernunft
+ist keinesfalls unlogisch.
+
+
+Nein. Die Prämissen, das Ausgangsmaterial der Logik, ist nicht
+Teil der Logik. Die Anerkennung bzw. Bewertung von Fakten sind
+nicht Teil der Logik. (wie immer sagt die Mathematik allein
+nichts über die Wirklichkeit aus)
+
+
+Ich sehe eine heuristische Regel wie
+   "Angriff ist die beste Verteidigung"
+nicht als Logik an.
+
+Es kann auch divergierende Regeln geben wie
+   "don't be predictable"
+die dagegen spricht, immer auf Angriff zu setzen, weil dies dem
+Gegner ermöglicht, sich taktisch besser einzustellen.
+
+
+Logik zu implementieren, im Computer, ist relativ leicht.
+Prolog war z. B. eine darauf spezialisierte Programmiersprache.
+Vernunft zu implementieren ist schwer, ebenso schwer wie
+Intelligenz. Derzeit ist es sogar unmöglich.
+
+
+Es wird dann schwer, wenn die Machine nicht auf die exakte Aufgabe
+vorbereitet ist. Es gibt soweit ich weiß kein Spielprogramm, das
+in der Lage wäre, auch nur das einfachste Kindergartenspiel von
+einem Partner zu lernen und mit ihm zu spielen. Das wäre eine
+größere Intelligenzleistung, als mit einer Eröffnungsbibliothek
+aller gespielten Schachpartien und brute-force-Suche erstklassig
+Schach zu spielen.
+
+
+Untersuchungen haben gezeigt, dass Großmeister bei Zugüberlegungen
+nur sehr wenige Varianten durchdenken, also keine brute-force-Suche
+"implementieren". Dagegen hat die Stellungsbewertung eine überragende
+Bedeutung. Schachprogramme verzichten fast völlig auf die aufwendige
+und unsichere Stellungsbewertung, zugunsten einer Materialsumme.
+
+
+Das bestreite ich nicht. Ich wollte nur Uwes Argument begegnen,
+dass das Gehirn ein "völlig anderer Computer" und deshalb nicht durch
+einen gängigen Computer nachzuahmen sei (er hat das angedeutet aber
+nicht so dezidiert formuliert). Im Prinzip lässt sich alles, auch
+ein neuronaler Chip auf einem normalen Computer simulieren.
+Die Performance ist eine andere Sache. Auch ein am Computer
+simluierter Gedanke, der ein Monat Supercomputerrechenzeit
+zur Generierung bräuchte, wäre als "Proof of Concept" tauglich.
+
+
+Wir reden nicht von einer Zellgenerierung und einer Simulation
+biochemischer bzw. molekularer Prozesse.
+
+
+Wenn eine Synapse eine bestimme Verarbeitungsfunktion für Inputs
+erledigt, um einen Output zu erzeugen, so wäre das durch einen
+Vektor bzw. eine Vektormultiplikation und Diskriminierung
+effizient abzubilden.
+
+Wir wissen aber nicht, wie man solche mächtigen Logikelemente
+für komplexere Aufgabe (etwa das Bilden eines Satzes, oder das
+Merken eines Bildes) sinnvoll einsetzen soll.
+
+
+Das ist imho nicht klar. Derzeit fehlt es an allen Ecken und
+Enden, auch an der Einsicht, die vorhandenen riesigen IT-Mittel
+sinnvoll auszureizen.
+
+
+Kreativität ist für mich die Fähigkeit, Vorstellungen oder Gedanken zu
+entwickeln, die von dem Erinnerten und Gewussten abweichen und
+eine innovative Qualität besitzen. Diese Innovation muss nicht
+problemlöserisch verstanden werden, sondern schließt
+selbstverständlich den gesamten Bereich der Künste, z. B. die
+Erzeugung ästhetischer oder evozierender Artefakte, mit ein.
+
+Ich schaue bei deinen Definitonsfragen bewusst nicht in die Dreifke
+oder ein anderes Nachschlagewerk, sondern versuche das Eigenem zu
+beantworten. Du kannst es gerne mit der Dreifke vergleichen, aber
+erwarte nicht, dass ich die DME reproduziere. Sonst wäre unser
+Gespräch und deine Fragen an mich ja sinnlos und ich könnte
+dich gleich auffordern, in der Dreifke nachzusehen...
+
+lg Victor

@@ -1,0 +1,186 @@
+Die personelle Trennung von RE, Design, Implementierung, Test und
+Dokumentation darf es in einem agilen Modell nicht geben. Sie ist in
+allen mir bekannten V-Modell-Umsetzungen Tatsache.
+
+Ich kanns auch platt beschreiben: agil zu entwickeln erfordert, dass
+eine Person in ihrem Modul RE, Design, Implementierung und Test
+verantwortet, sinnvollerweise in Reihenfolge RE, Design, Test und
+Implementierung (testgetriebenes Entwickeln).
+
+Das V-Modell lässt sich anpassen; es wird selbst aussagelos und damit
+nicht existent, wenn man es soweit auslegt, bis es auf sinnvolle agile
+Modelle passt; allenfalls Missverständnisse wie ein wörtliches Umsetzen
+von XP oder Scrum lassen sich soweit verbiegen, und verlieren dadurch
+dann ihre Agilität.
+
+Und damit ihre Effektivität, letztlich den Erfolg.
+
+Agiles Entwickeln setzt denkende Menschen voraus, nicht Leute, die
+trainiert sind, Aufgaben abzuarbeiten. Damit kommen Verwalter schlecht
+klar. Ich hab auch schon öfters das Argument gehört, man habe halt kein
+denkendes Personal, die Aufgabe sei es deshalb, 500 Deppen zu
+organisieren, damit sie arbeiten.
+
+Softwareentwickeln heisst aber, man hat heutzutage beliebig viel Deppen-
+Power – und zwar im Blechtrottel vor einem. Der kann nämlich inwzwischen
+auch sehr gut programmieren, sogar viel schneller und qualitativ
+hochwertiger. Also braucht man überhaupt nur noch Entwickler und keine
+Programmierer mehr.
+
+
+Du scheinst der Ansicht anzuhängen, man könne nur sprachlich denken. Das
+ist zwar falsch, aber weit verbreitet. Vermutlich ecke ich hier in einer
+Philosophiegruppe erstmal an, wenn ich sage: dem ist nicht so.
+
+
+Mir fehlt da noch die Definition von "sprachlicher Natur" um zu
+bewerten.
+
+
+Ja, klar. Und abends fliegst Du dann in blauen Strumpfhosen und einem
+roten Umhang um die Häuser ;-) Dort triffst Du vermutlich auf Oswald,
+unsere Grüne Muster-Leuchte, und gemeinsam gründet Ihr die Generische
+Problemlösungsliga ;-)
+
+Rüdiger, sei mir bitte nicht böse: ich mach den Job jetzt auch schon seit
+20 Jahren, und ich denke, ich hab da ein Gefühl, was geht und was nicht.
+Nicht geht, dass man alle Leute an den Schnittstellen von den eigenen
+Vorstellungen überzeugen kann. Das geht ganz einfach politisch nicht in
+einem grösseren Projekt.
+
+
+Nun, wenn man betrachtet, wer bleibt im Budget oder geht nur leicht
+drüber, erreicht aber die Projektziele, und wer sprengt üblicherweise
+jegliches Budget wesentlich, und trotz erweiterter Projektziele wird am
+Schluss eigentlich eher entschieden, obs ein unsinkbares Schiff, ein
+"dieser Sündenbock ist schuld" oder ein "wir finden es einfach alle
+toll, was sollen wir auch sonst tun" wird, dann kann man da sicher
+geeignete Kriterien aufstellen, um eine Bewertung zu operationalisieren.
+
+Nur das Qualitätsthema lässt sich nicht sinnvoll formalisieren. Leider.
+Denn auch da ist das agile Entwickeln üblicherweise über.
+
+
+Pflicht?
+
+Ich mach das einfach seit Jahren in der Praxis. Da hab ich inzwischen
+genügend Leute, die das bestätigen können. Und dank Softwareautomation
+benötigt man die tausend Inder auch gar nicht.
+
+Falls Du Dich für die von mir erarbeitete agile Methodik interessierst,
+kann ich sie gerne mal vorstellen. Ich mach das allerdings beruflich.
+
+
+Gar nicht. Warum sollte ich?
+
+Ich habe den Bereich Grosskonzerne ja gerade verlassen, weil ich nur
+begrenzt Lust auf das ewige Gelaber habe. Ich bin recht froh, wieder für
+mittelständische Kunden tätig zu sein. Da kann man auch mal was machen
+statt viel zu organisieren. Ich bin ja in der glücklichen Lage, mir das
+aussuchen zu können.
+
+In Grosskonzernen würde ich auch nur wieder arbeiten, wenn ich der
+Person, der das Projekt dort gehört, vertraue. Nun, eigentlich mach ichs
+im Mittelstand nicht anders ;-) Es ist aber geradezu eine Erholung, muss
+ich sagen, mal nicht vier Manager zu haben, die alle nur mich managen
+sollen.
+
+
+Ach so, Du "beweisst" durch Behauptung, und wenn ich das in Zweifel
+ziehen möchte, was Du rumrätst, muss ich das Gegenteil beweisen? ;-) Das
+ist eine amüsante Haltung, lieber Rüdiger, aber sie wird zu nichts führen.
+
+So läuft das nicht.
+
+
+Da muss ich jetzt alle Deine Vorurteile bestätigen: ich bin
+Studienabbrecher. Noch schlimmer, ich beschäftigte mich schon parallel
+zur Schule mit Wissenschaftstheorie. Und zu allem übel: ich lehre seit
+über zehn Jahren, und zwar wurde ich mitten im Studium "auf die andere
+Seite des Katheders" angeworben. Noch übler: ich bin in der Hacker-
+Subkultur zuhause. Richtig übel: meine Vita ist von extremen
+wirtschaftlichen Erfolgen wie Misserfolgen bestimmt, und ist die eines
+"Enfant Terrible". Schrecklich, nicht wahr? ;-)
+
+
+Du bist ganz schön eingebildet, mein lieber Reginald Du schlägst hier in
+einer Philosophie-Gruppe auf, machst erstmal die Regulars hier runter,
+entdeckst nach und nach, dass die gar nicht alle allzu blöd sind (wie
+beispielsweise bei Theodor), und behauptest jetzt, ich würde gerade mein
+eigenes Fach von Dir lernen?
+
+Soweit ich erinnere, heisst man das an der Weinsteige: "Dem regnets ind
+Nasalecher nei". ;-)
+
+
+*ROTFL* - Der war richtig gut! Auf die Idee, mal erst hier ein Backlog
+zu lesen, bist Du natürlich nicht gekommen. Ist klar.
+
+Es gibt hier tatsächlich ein paar wenige Leute, denen ich viel Gelerntes
+verdanke. Bisher gehörst Du aber noch nicht dazu. Mal sehen, ob sich das
+ändert. Ich lerne ja gern.
+
+
+Die Klammer ändert da nichts, ausser sie will den Inhalt durch
+rhetorische Tricks ins Gegenteil verkehren einleiten.
+
+
+Du wirst es kaum glauben, aber solche Summen sind in meiner Branche für
+Projekte üblich.
+
+
+An den "Programmen zur Softwareentwicklungs-Automation" liegt das primär
+nicht, vermute ich mal. Das ist übrigens eines der Fächer, die ich seit
+Jahren lehre, und in dem ich seit Jahren selbst forsche - mit sehr guten
+Ergebnissen in der Praxis, übrigens.
+
+
+Bleiben wir beim Müssen. Praktisch gesprochen, nicht theoretisch.
+Theoretisch könnte es ja ein Können sein, aber das spielt leider
+keinerlei Rolle.
+
+Theoretisch ist es übrigens auch ein Müssen, wenn wir mit einbeziehen,
+dass Menschen fehlerhaft sein *müssen*, so wir denn akzeptieren, dass
+Intelligenz Kreativität erfordert. Meine Argumentation hierzu kannst Du
+im Archiv dieser Gruppe nachlesen.
+
+
+Nein, ich meinte müssen. Ich hatte Dich bereits darauf hingewiesen, dass
+nur in der Theorie Theorie und Praxis gleich sind (und in einer
+geeigneten Theorie bleibts trotzdem beim Müssen).
+
+
+Ich wüsste nicht, für was ich Dich einsetzen soll. Hast Du weitere
+Qualitäten? Wie siehts denn in Sachen Modelltheorie und -praxis aus?
+Kannst Du Dich darüber hinaus in gängigen Modellierungssprachen
+ausdrücken?
+
+Neben den Befragungstechniken (die ich Dir zutraue), hast Du das
+notwendige Einfühlungsvermögen und die politische Erfahrung?
+
+Dann könntest Du bei dem RE mitmachen, das ich gerade durchführe.
+
+
+Jetzt hast Du meinen Text weggelöscht. Auch eine Form der "Begründung".
+
+
+Und das bleibt zudem unkommentiert.
+
+
+"Wer Visionen hat, sollte zum Arzt gehen" hat Oswald Heußner einmal
+gesagt. Und wer behauptet, fehlerlos arbeiten zu können, und auch alle
+Beteiligten zum fehlerlosen Arbeiten zu bewegen, hat mehr als "Visionen"
+in diesem Sinne.
+
+
+Ich rede über tatsächliche Projekte, die jetzt gerade in Unternehmen
+stattfinden, die ich mit den Leuten, die ich dort vorfinde, jetzt
+durchführe.
+
+
+War ernstgemeint – wir sind ja scheints Leidensgenoss^WKollegen ;-)
+
+Viele Grüsse,
+VB.
+-- 
+Bitte beachten Sie auch die Rückseite dieses Schreibens!

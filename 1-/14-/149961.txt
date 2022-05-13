@@ -1,0 +1,36 @@
+Diese Zuordnung erfolgt aber. 1/0 kann man nicht nur einen Wert
+zuordnen. 1/0 muss man einen sinnvollen Wert zuordnen, sonst kann man
+nicht sinnvoll rechnen.
+Ich will ein Beispiel geben.
+1 Tag / 0 Stunden ist etwas anderes als 0 Tage / 0 Stunden
+
+1 Tag kann ich definieren als vom Sonnenaufgang bis Sonnenuntergang. 0
+Stunden ist also dann der Moment, an dem die Sonne aufgeht. Die maximale
+Stundenanzahl eines Tages erhalte ich zum Zeitpunkt des
+Sonnenuntergangs. Die länge einer Stunde wird nach dieser Definition
+variabel, da die Sonne nicht zum selben Zeitpunkt aufgeht oder
+untergeht. 0 Tage / 0 Stunden ist der Startpunkt, der Zeitpunkt an dem
+die Sonne aufgeht. 1 Tag / 0 Stunden ist der Zeitpunkt an dem die Sonne
+untergeht. Nur durch diese Definition kann ich jetzt sinnvoll rechnen.
+
+1 Tag / 0 Stunden kann ich aber auch als 24 definieren, aber
+möglicherweise sind es 23 Stunden 59 Minuten 59 Sekunden 99/100 Sekunden
+je nach gewünschter Genauigkeit.
+0 Tag / 0 Stunden ist der Startzeitpunkt des Tages. Gewöhnlicherweise
+Mitternacht. Genausogut könnte ich aber auch den Startzeitpunkt an einen
+x-beliebigen Punkt setzen. 0 Tag / 0 Stunden ist der Startpunkt der Zeit
+an sich. Wissen wir denn, ob die Zeit an sich immer gleich "schnell"
+abgelaufen ist? Ist der Urknall in 0 Sekunden abgelaufen oder hat er
+eine halbe Ewigkeit gedauert?
+
+Eine sinnvolle Definition könnte sein jetzt von diesem Zeitpunkt des
+Postings an ist 0 Tage / 0 Stunden. In genau 24 Stunden ist dann 1 Tag
+vorbei. 1 Tag / 0 Stunden ist dann 24 Stunden durch Definition. Es sind
+zwar noch 0 Stunden bis zum Ende dieses Tages vergangen, aber ich habe
+jetzt bereits definiert, dass der Arnoldsche Tag 24 Stunden enthält also
+ist 1 Tag / 0 Stunden = 1 Tag a 24 Stunden. Genauso könnte ich aber auch
+definieren jetzt ist 1 Tag / 18 Stunden. Der Tag hatte also vor 18
+Stunden begonnen.
+
+Gruss
+Michael

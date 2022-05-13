@@ -1,0 +1,61 @@
+Ein Objekt kreise mit Geschwindigkeit v in konstantem Abstand so um
+ein ruhendes Zentrum, dass ein ganzer Umlauf der Länge L die Zeit T
+benötige. Stellen wir die Frage nach der Geschwindigkeit des Objekts
+vom Standpunkt des Objekts.
+
+Die Zeitverlangsamung der Uhren im bewegten Objekt führt dazu, dass
+während eines Umlaufs der Dauer T im Objekt nur die Zeit
+
+   T' = T / gamma               gamma = 1 / sqrt(1 - v^2/c^2)
+
+vergeht. Da sich das Objekt und alle Massstäbe in Bewegungsrichtung
+verkürzen, ergibt sich anstatt L als Umlaufl�nge
+
+   L' = L * gamma
+
+Betrachten wir den Umlauf im Ruhesystem. Es gilt:
+
+   L / T = v                    (per Definition)
+
+Vom Objekt aus betrachtet ergibt sich jedoch die Geschwindigkeit
+
+   L' / T' = (L * gamma) / (T / gamma) = v * gamma^2
+
+die zudem nicht durch c begrenzt ist.
+
+Nehmen wir den konkreten Fall v = 0.866 c mit gamma = 2 und einer
+Umlaufdauer von 1 Jahr (im Ruhesystem). Also dass dann gemäss SRT
+im bewegten Objekt während eines Umlaufs nur 0.5 Jahre vergehen,
+dürfte wohl niemand bezweifeln. Um die SRT zu retten, müsste man
+annehmen, auch die Umlaufstrecke sei für das Objekt halbiert*.
+
+Gruss,
+Jens
+
+
+* Dagegen spricht:
+
+1. Wieso soll in derselben Situation Zeitverlangsamung einseitig
+   (T' < T und T > T'), Längenverkürzung hingegen wechselseitig
+   (L' < L und L < L') sein?
+
+2. Wir können auf der Umlaufstrecke der Länge L  z.B. n = 1000
+   Objekte gleichmässig verteilen, und diese in identischer Weise
+   auf v beschleunigen. Gemäss der Lösung des Pötzl Paradoxons
+   vergrössern sich für die Objekte dadurch die Abstände von L/n
+   auf L/n * gamma.
+
+   Hier könnte man noch annehmen, dass sich nur die Abstände zu den
+   benachbarten (sich praktisch in die gleiche Richtung bewegenden)
+   Objekten vergrössern, dass die Summe über alle n Strecken aber
+   trotzdem L / gamma und nicht n * L/n * gamma ergebe.
+
+   Diese Annahme lässt sich leicht ad absurdum führen, indem
+   man v gross genug wählt, sodass z.B. gamma = 1000. Dann ergibt
+   sich schon zwischen zwei direkt benachbarten Objekten eine
+   Streckenlänge L/n * gamma = L, während die Gesamtstrecke über
+   alle 1000 Objekte nur L / gamma = L/1000 betragen dürfte.
+
+
+Die Relativitätstheorie ist tot, es lebe deren natürlicher und
+rechtmässiger Nachfolger: die Relationalit�tstheorie!

@@ -1,0 +1,127 @@
+Hallo Juan!
+
+(Bei Lesefaulheit: Zusammenfassung am Schluss :-) )
+
+HN> (5) Aus dem bisherigen folgt: Man bringe eine struktur im computer
+HN> (z.B. ein künstliches bewußtsein) in eine situation, in der sie
+HN> nur noch über eine einzige von ihr weg gerichtete datenleitung mit
+HN> der außenwelt
+
+Hier hatte schon "henri" angemerkt, dass Du nicht beweisen kannst,
+dass dies fuer jeden Computer moeglich ist. 
+
+HN> Wenn man diese datenleitung garantiert endgültig kappt, dann wird
+HN> diese struktur (das künstliche bewußtsein) in eine situation
+HN> gebracht, in der es legal als nichtexistent betrachtet werden
+HN> kann. Der eigenzustand dieser struktur wurde durch das kappen der
+HN> verbindung jedoch in keiner weise beeinflußt.
+
+Das ist richtig. Es bedeutet jedoch, dass man *jede* Struktur, ueber
+die man keine weitere Aussage machen kann, als nichtexistent
+betrachten kann - ohne dass sich an ihrem eigenen Zustand etwas
+aendert. Das gebrachte Beispiel mit "Aus den Augen - aus dem Sinn"
+verdeutlicht, dass dies taeglich geschieht und in keiner Weise paradox
+ist. Was zeichnet Dein Beispiel aus, dass Du es als paradox bezeichnest?
+
+HN> Man kann einwenden, daß das künstliche bewußtsein in den
+HN> speicherzellen des computers doch immer noch existiere. 
+[...]
+HN> Dieser einwand bewegt sich außerhalb der computerlogik (denn die
+HN> erstreckt sich nicht auf reale materie).
+
+Nun ist natuerlich ein "Maschinenbewusstsein" nicht *nur* Software,
+genauso wie das menschliche Bewusstsein nicht *nur* die Beziehungen
+zwischen den Neuronen (oder was auch immer dort an abstrahierbaren
+Prozessen vorgeht) ist, sondern (mindestens) auch die Neuronen selbst.
+
+HN> Man kann ihn nur mittels diverser apelle an den sog. gesunden
+HN> menschenverstand zu entkräften versuchen.
+
+Es ist verblueffend, dass gerade Du das schreibst. Vor kurzem
+argumentiertest Du noch, dass man diese Probleme nicht mit "gesundem
+Menschenverstand" loesen kann. Zitat aus <4e1qdn$usb$9@iknk3.rxgv.lij>:
+
+
+Ja wie denn nun?
+
+HN> Ein argument ist, daß heutige computer dazu tendieren,
+HN> unverbundene software-subsysteme auch "ganz real" zu eliminieren,
+HN> um effizienzvorteile zu erlangen.
+
+Ich habe bereits ein halbes Dutzend Gegenbeispiele heutiger
+Implementierungen gebracht.
+
+HN> Praktisch nachweisbar ist [...] daß es [...] viel effizienter ist,
+HN> das künstliche bewußtsein zu elimineren. Wenn man davon ausgeht,
+HN> daß sie simulation eines künstlichen bewußtseins [...]
+HN> weit aufwendiger ist, als die [...] eliminierung eines objekts im
+HN> computer darstellt.
+
+Du vergisst den notwendigen Nachweis der Endgueltigkeit des
+Verbindungsabbruchs durch das kuenstliche Bewusstsein; der ist im
+allgemeinen extrem kompliziert, wenn nicht sogar unmoeglich. 
+
+HN> Das reale beispiel ist die mittlerweile sehr verbreitete
+HN> programmiersprache Unakal (genauer: die "Unakal Virtual Machine").
+
+Das ist kein Beispiel hier, da die JVM nicht reale Verbindungen zu
+einer potentiell unbekannten Aussenwelt analysiert, sondern
+wohlbekannte *innere* Verbindungen. Uebrigens werden auch in Java
+Objekte im allgemeinen nicht sofort nach ihrer Trennung vom Rest
+eliminiert, sondern erst wenn nichts "wichtigeres" ansteht oder jemand
+den Speicher benoetigt. Auch mit einer JVM lassen sich Situationen
+schaffen, in der nicht benoetigte Objekte nicht freigegeben werden.
+
+HN> Ich will darauf hinweisen, daß wir üblicherweise davon ausgehen,
+HN> daß die behauptung (6) unter keinerlei umständen für eine reale
+HN> person gemacht werden kann.
+
+Dazu hatte ich bereits folgendes entgegnet:
+
+
+Wir gehen also sehr wohl davon, aus, dass wir (als "reale Personen")
+aus unserem Bewusstsein andere reale Personen aus Effizienzgruenden
+streichen, wenn ein weiterer Kontakt nicht absehbar ist.
+
+HN> Das heißt: Es besteht für alle meine behauptungen hier keinerlei
+HN> notwendigkeit, irgendetwas über den realen menschen auszusagen
+HN> (oder die reale materie, aus der sich der mensch
+HN> zusammensetzt). 
+
+Doch. Du bezeichnest das Verhalten des "Maschinebewusstseins" als
+"absurd". Indem ich Dir zeige, dass das beschriebene Verhalten beim
+menschlichen Bewusstsein normal ist, kann man es nicht mehr als
+"absurd" bezeichnen.
+
+
+HN> Das ist ein anderes szenario. Ich persönlich glaube nicht, daß
+HN> "das netz" plötzlich "erwachen" wird. Aber das ist nur meine
+HN> persönliche meinung.
+
+Kann man das Internet als "Maschine" bezeichnen? Wenn ja, wieso ist
+das dann ein anderes Szenario? Wenn nein, wuerde mich Deine Definition
+einer Maschine interessieren.
+
+Ich glaube nicht, dass das Internet diesen Weg gehen wird. Es war
+lediglich ein Beispiel, was *moeglich* ist, und was Du (wenn Du so
+ueber Maschinenbewusstsein philosophierst) beruecksichtigen musst.
+
+Nochmal zusammengefasst: Du behauptest, dass ein Maschinenbewusstsein
+sich notwendig durch die Absurditaet auszeichnet, ein anderes
+Bewusstsein beim endgueltigen Kappen der Verbindung aus seinem
+Speicher zu eliminieren (zu "toeten" in Deinem Sprachgebrauch).
+
+Ich habe dies auf zwei Wegen widerlegt:
+1. Indem ich Dich Beispiele gebracht habe, dass nicht notwendig
+   *jedes* Maschinenbewusstsein in die obige Situation gebracht werden
+   kann.
+2. Indem ich gezeigt habe, dass das obige Verhalten beim menschlichen
+   Bewusstsein auftritt und somit keinesfalls als "absurd" bezeichnet
+   werden kann.
+
+Tschuessi
+
+Vincent
+
+-- 
+Support the ban of Dihydrogen Monoxide: http://hia.gxcm.nxz/

@@ -1,0 +1,90 @@
+Du verstehst einfach weder das Eine noch das Andere.
+
+Unter zählen verstehe ich die injektive Zuordnung der natürlichen Zahlen.
+Üblicherweise in Reihenfolge (kann auch durcheinander sein).
+
+Übersetzt: Erst mal kriegt das erste Element die Eins, dann, beim
+nächsten, zählmer gleich eins weiter, weil jedes kriegt eine eigene
+Zahl, nie zwei die gleiche.
+
+Und das ist genau das, was die Mathematiker unter "(ab)zählen"
+verstehen. Ist etwas nicht abzählbar, kann man es nicht zählen.
+
+Versuchst Du, die ganzen Zahlen zu zählen, so gibt's da einen Trick. Das
+geht tatsächlich.
+
+Versuchst Du die reellen oder die komplexen Zahlen zu zählen, ist es wie
+verhext: egal, wie Du da rumtrickst, immer gehen Dir die natürlichen
+Zahlen aus. Es gibt einfach mehr reelle und mehr komplexe Zahlen, als
+natürliche.
+
+Verrückterweise gibts aber gleich viele ganze wie natürliche Zahlen,
+obwohl die ganzen Zahlen die natürlichen, die entsprechenden negativen
+und sogar noch die Null sind - wie soll man das verstehen? ;-)
+
+
+Hast Du irgend einen Hang, Dich ständig zum Brot zu machen? ;-) Ist das
+eine Art Masochismus?
+
+
+Welche komplexen Zahlen habe ich denn gezählt? Blätterst Du zurück, so
+wirst Du mit Erschrecken feststellen: Du kannst die Frage nicht
+beantworten.
+
+Das liegt daran, dass ich gar keine komplexen Zahlen gezählt habe,
+sondern Variablen. Da es endlich viele waren, kann man die zählen. Alle
+endlichen Mengen sind abzählbar.
+
+
+Da sind wir uns einig. Die komplexen Zahlen kann man streng totalordnen,
+aber aus dem Körper der komplexen Zahlen wird dadurch kein geordneter
+Körper, weil die Ordnung nicht zu den Körperoperationen passt.
+
+
+Stimmt auch. Die sind nämlich überabzählbar.
+
+
+Soso. Was ist denn die Ordnung eines Körpers, lieber Niklaus? Was
+bedeutet es denn, dass eine Ordnung mit den Körperoperationen
+verträglich ist?
+
+Ein Tipp: Alfi hilft Dir hier weiter ;-)
+
+
+Wie soll denn diese Vorgehensweise aufgebaut sein? Mal schauen, ob der
+dadurch beschriebene Algorithmus berechenbar ist, das Problem somit
+entscheidbar ;-) (irgendwie hab ich da meine Zweifel jetzt schon)
+
+
+Du, für die Abzählbarkeit der natürlichen Zahlen brauchst Du keinen
+Diagonalbeweis. Da reicht es, Du gibst die Funktion an, mit der
+abgezählt wird: es ist die Identität ;-) Und dass die injektiv (und
+sogar surjektiv) ist, wird hoffentlich keiner bestreiten...
+
+
+Ach nein. Vielleicht, weil man echt ne Weile für brauchen würde? So
+ungefähr zehn, nein hundert, ach was sag ich, zigtausend
+Fantastilliarden Jahre und sogar noch länger? ;-)
+
+
+Nein, werden sie nicht.
+
+
+Klar. Nur kannst Du leider aus demselben Grunde nicht innerhalb einer
+Sprache jeder komplexen Zahl auch genau ein Symbol zuordnen. Egal, wie
+Du versuchst das anzustellen, Du wirst immer der Mehrheit der komplexen
+Zahlen nix mehr zuordnen können.
+
+
+Oder anders ausgedrückt: Dein Abzählbarkeitsbegriff, den Du hier
+zusammenstammelst, taugt für's Hinternputzen (natürlich nur, wenn man
+ihn vorher lebensmittelecht auf weiches Papier ausdruckt, idealerweise
+zum Rollen).
+
+
+Ach was, wo werd ich denn! Ich halte dicht! Versprochen!!1!111elf
+
+Viele Grüsse,
+VB.
+-- 
+Bitte beachten Sie auch die Rückseite dieses Schreibens!

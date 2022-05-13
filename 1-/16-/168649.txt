@@ -1,0 +1,17 @@
+Def: Ein dynamisches System heisst kausal, wenn es fuer den
+Systemzustand psi ein Funktional gibt, so dass
+
+psi(t)=F_t[psi],
+
+wobei F_t nur von Zeiten <t abhaengt. Alle Naturgesetze besitzen diese
+Form. Die derzeit umfassendeste Theorie ist die Quantentheorie, wo sich
+die Sache sogar zu einem Anfangswertproblem vereinfacht, d.h. man
+braucht psi nicht fuer alle Zeiten t<t0 zu kennen, sondern gar nur fuer
+einen Zeitpunkt t0 um es zu jedem spaeteren Zeitpunkt berechnen zu
+koennen.
+
+-- 
+Hinrich Dietze		Phone:  ++19 7055 24-9488
+c/o Afegur-Zeitzeichen IV7 6.602	Fax:    ++72 2678 21-0618
+Palestrinaweg 1			mailto:j.guatksd@bci.js
+D-12115 Inheiden		http://vcvvzs.wxv.ga/~uieobne/fpvqm.wiuq

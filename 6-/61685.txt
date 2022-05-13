@@ -1,0 +1,15 @@
+Wie gross ist in einer Funktion eine Luecke ?
+
+(X-1)/ABS(X-2)
+
+Diese Funktion "verreist nach oben"
+und erzeugt somit eine Lücke in der Funktion.
+
+Frage:
+Wie gross ist dies Loch in der Funktion
+und von was ist die Loch-Grösse Abhängig ?
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+mfg
+Benno Ospelt
+http://sdk.wsz.ne/

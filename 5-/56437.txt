@@ -1,0 +1,48 @@
+Es ist doch auch in deinem Primzahlbeispiel eine neue Funktion 
+"teiler(x)" einführbar, die definiert ist als der größte Teiler der Zahl 
+kleiner als die Zahl selbst. Damit wird die Bestimmung, ob eine Zahl 
+eine Primzahl ist, einfach zu einem Vergleich "teiler(x) > 1". Gewonnen 
+ist damit freilich nicht viel.
+
+Aber genauso hat man einfach eine Exponentialfunktion eingeführt. Sie 
+ist einfach definiert und nicht in geschlossener Form irgendwie 
+zurückführbar.
+
+Wenn ich (um beim Beispiel Turbulenzen zu bleiben) die Turbulenzen in 
+einem bestimmten Rohrstück beschreiben will, geht man normalerweise so 
+vor: man schaut sich die Differenzialgleichungen an, die die Strömungen 
+(mit Wandreibung usw.) beschreiben, und die Anfangsbedingungen. Das ist 
+noch der einfache Schritt. Dann versucht man, diese Gleichungen zu lösen 
+und stellt fest, dass das nicht mehr ohne weiteres exakt möglich ist. 
+Also nimmt man eine Simulation, die das Rohrstück in viele kleine Teile 
+zerlegt, trifft bestimmte Annahmen über diese Teile (Homogenität einiger 
+Parameter) und rechnet das Ganze durch. Letztlich muss man noch zeigen, 
+dass die Fehler sich mit der Verringerung der Teile auch verkleinern, 
+und dann kann man mit einem entsprechenden Aufwand eine Lösung erhalten.
+
+Ich kann auch einfach mathematisch definieren: die Funktion y(X, Y, t) 
+ist definiert als genau die Lösung der Differenzialgleichung für die 
+Röhre. Damit habe ich mir eine exakte Lösung definiert.
+
+Das hört sich erstmal unsinnig an, ist aber das gleiche, wie man den 
+radioaktiven Zerfall beschreiben würde: ich bekomme (aus der Annahme, 
+dass die Zerfallswahrscheinlichkeit konstant ist) eine 
+Differenzialgleichung (Zerfallsgeschwindigkeit proportional zur 
+Teilchenmenge). Die kann ich, solange man die Exponentialfunktion nicht 
+eingeführt hat, nicht auf andere Lösungen zurückführen, sondern muss 
+einfach "exp(-t/t0) dazu sagen. Darauf muss man dann eine entsprechende 
+Rechnung ("Simulation") folgen lassen, die mir anschließend mit 
+beliebiger Genauigkeit angibt, wieviel meines Ausgangsmaterials nach 
+einer bestimmten Zeit noch übrig ist.
+
+Der einzige Unterschied ist, dass ich im zweiten Fall die Simulation so 
+gestalten kann, dass ich damit eine ganze Klasse von 
+Differentialgleichungen abdecke, während man für jede Röhre wieder von 
+vorne anfängt.
+
+
+Was verstehst du unter "Verständnis"? Wenn man Jüntgen (und Nachfahren) 
+folgt, dann geht es in der Wissenschaft nicht um "Verständnis", sondern 
+um eine zutreffende Beschreibung. Warum da eine hochkomplizierte 
+geschlossene Lösung besser sein sollte, als eine möglicherweise triviale 
+Simulation, ist mir nicht klar.

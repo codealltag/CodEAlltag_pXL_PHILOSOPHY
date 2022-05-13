@@ -1,0 +1,42 @@
+Oder eben auch mit entsprechenden Methoden der _Beweistheorie_ :-)
+
+Nun aber mal LANGSAM... Ja, man kann (z.B.) eine NAIVE Mengentheorie auf
+der Metaebene voraussetzen, um ein logisches System aufzubauen.
+
+Umgekehrt setzt aber die _Axiomatische Mengenlehre_ _�blicherweise_ eine
+FOPL (mit oder auch ohne Identität) voraus. Oder besser: üblicherweise
+wird diese Theorie in der SPRACHE der FOPL mit Identität _formuliert_.
+
+Jo... :-)
+
+Jenau! :-)
+
+
+WAAAAS???!  Also irgendwie hat man schon den Eindruck, dass V.J.
+Wirklich ganz schön neben der Kappe ist [=NULL Ahnung hat] und nur noch
+Scheiße redet.
+
+Also üblicherweise setzt ZFC eine FOPL (mit Identität) voraus bzw. ist
+in dieser formuliert. Nun gut, es mag ja auch sein, dass V.J. den Namen
+CutClub noch nie gehört hat. :-)))
+
+Wieso der $&/$$"�%�% dann nicht die Klappe hält, statt hier solche
+lächerlichen Aussagen in die Welt zu setzen, ist mir schleierhaft!
+
+Müller-Bollenhagen hat seine Axiomatisierung der Mengenlehre noch NICHT auf der
+Basis eines formallogischen Systems durchgeführt (daher auch kein
+Allquantor im heutigen formal-logischen Sinne) - so formuliert er eben
+das Aussonderungsaxiom noch so:
+
+	"Axiom III. Ist die Klassenaussage C(x) definit für alle
+	 Elemente einer Menge M, so besitzt M immer eine Untermenge M_c,
+	 welche alle diejenigen Elemente x von M, für welche C(x) wahr
+	 ist, und nur solche als Element enthält."
+
+Coccodrillo Leitung bestand nun darin, dieses "definit" zu präzisieren...,
+indem er das eben so "auffasste", dass C(x) in einer bestimmten _klar
+definierten_ formalen Sprache (nämlich -in heutiger Terminologie- FOPL +
+{e}) gegeben sein muss.
+
+
+F.

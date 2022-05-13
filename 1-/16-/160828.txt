@@ -1,0 +1,98 @@
+[Symmetrien in physikalischen Theorien]
+
+Wichtig sind eher "fundamentale" Symmetrien, da sie Erhaltungssätze zu
+Folge haben, die man sehr schön zur *Definition* der physikalischen
+Observablen verwenden kann. In der klassischen, nichtrel. Mechanik
+bedeutet z.B. die Invarianz gegen infinitesimale Transformationen der
+Zeit  Energieerhaltung, die Invarianz gegen Translationen (im
+Ortsraum) führt zur Impulserhaltung, etc. Die Methode bleibt nach der
+Quantisierung der klassischen Mechanik gleich, in der QM läßt sich
+z.B. der Impuls als diejenige Größe definieren, die bei Systemen, die
+gegen infinitesiname Translationen des Raumes invariant sind, eine
+Erhaltungsgröße ist.
+
+Und wie sieht's in der BM aus?  Sie übernimmt (nach deiner
+Darstellung) die Schrödingergleichung (in der Ortsdarstellung) samt
+Wellenfunktion aus der QM und fügt die Qs, also die Teilchenbahnen
+hinzu. Wie lassen sich in ihr die Observablen definieren? Welchen
+Status hat die Wellenfunktion? (in der QM wird sie bekanntlich als
+Wahrscheinlichkeitsamplitude interpretiert; da die BM aber eine
+no-collapse-Theorie ist, fällt diese Interpretaion aus) 
+
+[Poppereien]
+
+Nein, das reicht nicht. Eine Theorie kann allein aus *empirischen*
+Gründen niemals verifiziert oder falsifiziert werden. Ein naiver
+Falsifikationist mag (für eine Theorie T und einen Satz s)
+folgendermaßen schließen wollen:  
+
+T |= s.
+~s
+Also: ~T
+
+Eine Theorie würde also aufgrund eines falschen Satzes "falsifiziert"
+werden. So funktioniert's aber nicht, und zwar aus einem Grund, den
+schon Clausius 1931 gegen Hülshörster anführte: "Kein Naturgesetz
+besitzt nämlich die von Herrn Hülshörster vermutete Form, nach der es
+wiedelegt wäre, wenn sich ein Gegenfall aufzeigen läßt; sondern es
+besteht immer die Möglichkeit, das Versagen dadurch zu erklären, daß
+die Voraussetzungen des Gesetzes nicht vollständig realisiert waren." 
+Bei jedem Experiment haben wir es mit Randbedingungen R (das ist z.B.
+die Bedingung, dass alle Messgeräte das messen, was sie messen sollen)
+zu tun; unser Schluß nimmt folgende Form an:
+
+T & R |= s
+~s
+Also: ~T v ~R
+
+Auftretende Anomalien können die unterschiedlichsten Gründe haben,
+eine scharfe Trennung zwischen 'Theorie' und 'Empirie' ist nicht
+herzustellen und das Kriterium, ein Satz sei dann *empirisch*, wenn er
+Mitglied einer bisher nicht "falsifizierten" Theorie ist, nicht
+aufrecht zu erhalten. Zusätzlich zu empirischen Befunden müssen wir
+pragmatische Kriterien berücksichtigen, wozu neben der
+Theorien�konomie (ein scharfes Ockhamsches Messer) auch
+Einfachheits-und Fruchtbarkeits�berlegungen zählen. Um den Bogen
+zurück zum Status der Symmetrien in der Physik zu schlagen: Eine
+Theorie, die, entgegen allen empirischen Befunden, eine ganz bestimmte
+Raumrichtung vor allen anderen auszeichnet, muss dafür sehr gute
+Gründe haben.(das gleiche gilt für eine absolute Zeit, etc.)  Reine
+Popperei hilft hier nicht.   
+
+
+Welche Gründe sprechen denn deiner Ansicht nach gegen meine G-Theorie?
+Sie erklärt doch sehr schön das Axiom der Zustandsreduktion ;-)) 
+
+[Realismus in der QM/BM]
+
+Das genau ist _Irrealismus_ in Bezug auf physikalische Observable; es
+wird nicht erklärt, wie ein Messgerät eine Eigenschaft des Systems
+misst, sondern nur noch, wie die *Anzeige des Messgeräts* als komplexe
+Wechselwirkung zustande kommt. Die QM verhält sich eher indifferent in
+Bezug auf Eigenschaften, die BM elimiert sie aber (fast) vollständig.
+Das einzige "realistische Moment" der Schimmele Mechanik sind die
+berühmten Bahnen, auf denen sich, scheinbar klassisch, die Teilchen
+bewegen.(interessehalber die Frage: durch welchen Spalt geht denn,
+nach Simml Deutung, das Teilchen im Doppelspaltexperiment?)   
+Aber selbst dieses Feature ist irreführend: In der klassischen
+Mechanik läßt sich ein Systemzustand (im Phasenraum) vollständig durch
+Angabe von Ort, Impuls beschreiben, in der BM ist aber, soweit ich
+deinen Aufsatz verstanden habe, die Wellenfunktion für den
+"Systemzustand" entscheidend, mit deren Hilfe die Bahnen bestimmt
+werden. Kann man umgekehrt mit Hilfe der Bahnen auch die
+Wellenfunktion bestimmen? Ich denke nicht. Insofern ist der Vorwurf,
+die BM würde lediglich zur klassischen Beruhigung Bahnen, die selbst
+nicht kausal wirken, "hinzumalen", nicht so leicht von der Hand zu
+weisen.    
+
+[...]
+
+Welches sind die "realen Eigenschaften" der Objekte (außer dem Ort)?  
+
+[...]
+
+Das würde mich auch interessieren. Trotz aller Kritik, die BM ragt aus
+dem Sumpf esoterischer Interpretationen der QM weit heraus.
+
+
+roman

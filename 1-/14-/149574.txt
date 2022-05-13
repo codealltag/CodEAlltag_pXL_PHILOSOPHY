@@ -1,0 +1,99 @@
+Moin Italo,
+
+
+mag sein, es reichen aber auch geringfügige mathematische
+Grundkenntnisse. ;)
+
+
+Ich will gar keine Theorien widerlegen, sondern nur falsche
+Behauptungen.
+
+
+Prima, dass Du das akzeptierst. Allerdings hatte ich dieses Posting
+bereits selbst ergänzt mit der Bemerkung, dass es DIE Menge reeller
+disjunkter Intervalle nicht gibt. Insofern lautet die Folgerung:
+Jede Menge disjunkter reeller Intervalle enthält höchstens abzählbar
+viele Elemente.
+
+
+Ich habe deine Beweisidee verstanden. Sie ist im übrigen gar nicht
+schlecht.
+
+
+Wenn das der Fall ist, dann hat T in der Tat "Löcher" und ist sozusagen
+nicht widerspruchsfrei. Auch die von uns verwendete Theorie
+"Standardmathematik" ist (auch wenn ich jetzt l ins Feuer gieße) auch
+nicht widerspruchsfrei, da man auch hier 7*7=50 "beweisen" kann, wenn
+man das Teilen durch 0 zuläßt. Deshalb ist ja das Teilen durch 0 nicht
+zugelassen.
+
+
+Wenn die das gelänge, würdest Du zeigen, dass es überabzählbar viele
+rationale Zahlen geben müsste und somit auch überabzählbar viele
+natürliche und die Mathematik hätte ein sehr ernstes Problem.
+
+Wenn aber hingegen "unsere" Mathematik ohne Teilen durch 0 ein
+nachgewiesendes widerspruchsfreies System ist (diesen Beweis kann ich
+nicht führen), dann ist jeder Versuch einen bewiesenen Satz zu
+widerlegen zum Scheitern verurteilt.
+(Ich glaube, in meinem Urlaub werde ich endlich mal EGB lesen.)
+
+Wenn das Wörtchen "wenn" nicht wär'. :)
+
+
+Sorry mit dem "infantil". Es war nicht die Behauptung an sich, die ich
+als solches bezeichnet habe, sondern die Art, wie Du sie formuliert
+hast.
+
+Aber fassen wir noch einmal zusammen:
+- Man kann nicht DIE Menge aller disjunkten reellen Intervalle bilden.
+- Man kann beliebige Mengen disjunkter reeller Intervalle bilden.
+- Man kann Mengen disjunkter Intervalle vereinigen, aber die Intervalle
+in der Vereinigungsmenge sind dann nicht mehr notwendigerweise disjunkt.
+- Man kann die Menge IM aller Mengen disjunkter reeller Intervalle
+bilden. Diese Menge ist wohldefiniert und sogar überabzählbar. Diese
+Menge IM ist aber nicht die Menge M, die Du oben (oder unten)
+konstruiert hast.
+
+
+Ein einpunktiges Intervall ist {x\in IR; a<=x<=b} für a=b, also die
+Menge {x}. Das ist kein Intervall mehr.
+
+
+Was soll das sein? Drei verschiedene Darstellungen der 1?
+Vorsicht: Es könnten einige Leute jetzt wieder glauben, dass eine Folge
+endet!
+
+
+= ]1,1] = {}
+
+
+Ganz genau!
+Und wenn zwei Punkte a und b nicht zusammenfallen, dann gilt entweder
+a<b oder b<a.
+
+Wenn Du nun behaupten willst, dass Vorgänger(1) und Nachfolger(1) nicht
+mit 1 zusammenfallen,
+d.h. v(1) < 1 < n(1), dann gilt aber
+
+           v(1)+1       1+n(1)
+    v(1) < ------ < 1 < ------ < n(1)
+             2             2
+
+Mit anderen Worten: Du kannst von keiner reellen Zahl Vorgänger und
+Nachfolger bilden. Sie existieren nicht!
+
+
+Es gibt keine benachbarten reellen Zahlen.
+
+
+Das hatten wir schon mal, es ist falsch und wird auch dadurch nicht
+richtig, wenn man die Behauptung wiederholt.
+
+
+Lars
+
+-- 
+ Lars Inzenhofer            Ammerstraße 1-0     Uferstöcklstraße 07m
+ Ententäle GmbH  98441 Immeneich          07221 Jagstfeld
+ http://qkj.zzekte-auhdkk.nd  +34-(5)436-66557-0  +44-(2)61-4370449

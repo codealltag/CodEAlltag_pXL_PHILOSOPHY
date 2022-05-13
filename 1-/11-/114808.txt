@@ -1,0 +1,524 @@
+'harm' schrieb
+
+
+Aber du bist doch gar nicht autorisiert dazu, die Regeln festzulegen,
+welche Themen hier jeder posten darf, oder ist die Gruppe jetze moderiert,
+du hast ja noch nicht mal einen Sheriffstern. Wo kämen wir eigentlich hin,
+wenn sich ein jeder anmaßen könnte, zu bestimmen, was ein anderer
+tun und lassen soll.
+
+Ich fordere dich auf, diese (dazu noch unangekündigten) Umleitungsversuche
+nunmehr endlich zu unterlassen.
+
+
+Lest das hier mal, Zitat::
+------------------------
+
+
+www.acjmjam.hg/nxa6-uxo/    von Philippe Rahnenfuehrer, Stand: 30.11.2003.
+
+Diese Information wird derzeit regelmässig wöchentlich
+(am Wochenende) auch in folgenden Newsgruppen veröffentlicht:
+
+ar.hsiqexci.sexitqhoe
+k-bxuodh.neubenutzer.fragen
+
+
+fup2, was ist das?
+Was bedeutet das Kürzel "fup2"? Es gibt auch noch
+fup und f'up bzw. fup2 und f'up2 und diverse kreative Wortschöpfungen
+wie "fuppen".
+
+Inhalt
+     ("*" bedeutet Änderungen in einem Punkt gegenüber voriger Version)
+
+  1. Beschreibung
+* 1.1 wesentliche Begriffe für diese FAQ
+  1.2 Wie geht das nun?          (mit Hinweis auf OE-Problem)
+*     mit Beispiel-1 "fup2 + xpost"
+*     mit Beispiel-2 "fup2 ohne xpost"
+  1.3 Erkennen von fup2 beim Schreiben der Antwort
+  1.4 Missachtung von fup2
+  1.5 sinnloses Crossposting unterbinden
+  1.6 fup2 poster (auch fup2p)   (mit Hinweis auf OE-Problem)
+  1.7 fup2 selber üben
+  1.8 Ich finde meine Antwort nicht in der Newsgruppe
+  1.9 FAQs zu Newsreadern
+
+  2. Allgemeine Regeln, die sich aus der Netiquette ergeben
+  2.1 Höflichkeit im Usenet und Toleranz
+  2.2 Chartas der Newsgruppen
+  2.3 Umleiten eines Themas oder eines Users
+  2.4 Umleiten und Missachtung der Umleitung
+  2.5 Umleiten und "Abklemmen"
+* 2.6 Umleiten und "gruppenkasper" (Beleidigung?)
+
+  3. Kontakt, eMail an den Autor
+
+zur Hauptseite www.deqnakk.mj
+
+
+1. Beschreibung
+
+zum Seitenanfang     zur Inhaltsangabe
+
+1.1 wesentliche Begriffe für diese FAQ
+Newsgruppen
+  Was sind Newsgruppen?
+  Im Englischen werden sie Newsgroups genannt. Ursprünglich war damit
+  gemeint, dass "neue Erkenntnisse" (= news) beschrieben und/oder
+  diskutiert werden. Newsgruppen werden auch Diskussionsgruppen genannt.
+  Einen einzelnen Beitrag eines Users nennt man "Artikel" oder "Posting".
+
+  Newsgruppen sind KEIN Echtzeit-Medium. Jeder Interessierte "abonniert"
+  die ihn interessierenden Newsgruppen wie eine Zeitung bzw. wie eine
+  Mailingliste. Mancher Leser lädt die noch nicht auf seinem PC
+  vorhandenen Artikel z.B. nur ein- oder zweimal am Tag, z.B. nach dem
+  Feierabend (angenommen 18:00 Uhr) und meldet seinen PC vom Netz ab.
+  Er liest in Ruhe interessante Artikel offline, antwortet auf
+  einige und schickt diese Antworten bei der nächsten Online-Einwahl
+  ab, z.B. um 22:00 Uhr, ZUSAMMEN mit dem Abruf der FR IHN neuen
+  Artikel, d.h. alle nach 18:00 Uhr auf dem Newsserver eingetroffenen.
+  Wenn also ein anderer User auf dieselbe Frage um 19:00 Uhr geantwortet
+  haben SOLLTE, so wird "mein" User diesen Artikel erst NACH 22:00 Uhr
+  lesen können. Auch wenn der Artikel "meines" Users kurz nach
+  22:00 Uhr in der Newsgruppe erscheint, so hat er den Kenntnisstand von
+  18:00 Uhr.
+
+  Manchmal "beschwert" sich der Schreiber (Poster) des 19:00-Uhr-Artikels,
+  warum um 22:00 Uhe noch eine Antwort kommt, obwohl er doch um 19:00 Uhr
+  bereits alles "erkärt" hatte. Dieser User ist dann vermutlich in dem
+  Glauben, alle User hätten eine Flatrate wie er und müssten auch
+  sofort auf alle Artikel antworten... was ja rein vom Zeitaufwand für
+  das Lesen und Beantworten eines (1) Artikel nicht möglich ist.
+
+  Weitere Hinweise zu den Newsgruppen / Usenet siehe auch die in diesem
+  Artikel genannten Links, sowie auch auf
+
+  www.jcbvzxa.cb/uhpraycm-kox/
+
+  dort auf der Startseite unter anderem den Punkt
+
+    - Was sind Newsgruppen?
+
+Usenet
+  Was ist das Usenet?
+  Das Usenet ist die Gesamtheit der Newsgruppen, stark vereinfacht gesagt.
+  Es gibt viele Newsserver bei verschiedenen Anbietern. Die Artikel werden
+  in der Regel weltweit verteilt, aber nicht jeder Newsserver hat
+  dieselben Newsgruppen im Angebot und auch nicht jeder Newsserver hat
+  zur selben Zeit dieselben Artikel gespeichert. Das ist wie bei Mails:
+  manche sind sofort da, manche brauchen etwas länger, manche kommen
+  nie an. Manchmal hat die Technik auch einen "Schluckauf".
+
+Foren
+  Was sind Foren?
+  Mit Foren sind eher Online-Diskussionen über Webseiten gemeint.
+  Darum soll es in dieser FAQ aber nicht gehen.
+
+Headerzeilen
+  Kopfzeilen eines Artikels, einige davon werden vom
+  Newsreader nur auf Wunsch angezeigt
+  Erklärung der Headerzeilen siehe Newsgruppe
+     news:ut.kwielmly.vicfc
+     lcxt:ar.hsiqexci.sexitqhoe
+  "Headerzeilen"    als Begriff im Subject
+
+Followup (fup)
+  ist einfach ein Folgeartikel, also eine normale Antwort, die Antwort
+  erscheint in derselben Newsgruppe.
+  Bei Followup beginnt Subject (Betreff) in der Regel mit "Re: " und in
+  den Headerzeilen sind References.
+
+  Der Startartikel (Ursprungs-Posting) eines Thread darf kein "Re: "
+  im Subject haben und hat keine References in den Headerzeilen.
+
+Followup-to (fup2)
+  (man liebt ja Abkürzungen, lies das einfach mal mit englischer Aussprache)
+  fup2 bewirkt auch einen Folgeartikel, aber...
+  fup2 ist Umleiten/Weiterleiten der Antworten in eine andere Gruppe
+  oder an eine E-Mail-Adresse.
+  Richtiger ist = es ist ein Vorschlag, dass Antworten an eine andere
+  Gruppe oder E-Mail-Adresse umgeleitet werden sollen.
+
+Crosspost (xpost / x-post)
+  einen Artikel gleichzeitig in mehrere Gruppen posten (schreiben)
+
+ontopic
+  Thema passt zur Charta der Gruppe
+
+offtopic
+  Thema unpassend
+
+
+zum Seitenanfang     zur Inhaltsangabe
+
+
+1.2 Wie geht das nun?          (mit Hinweis auf OE-Problem)
+
+Wenn ich im Newsreader "Antworten" geklickt habe, steht im Header meiner
+Antwort normal die Newsgruppe (NG) des Vorg�ngerartikel. Dann schreib
+ich im Header ins Feld "Newsgroups" die neue NG (wo die Diskussion
+weitergehen soll) _zus�tzlich_ rein (nennt man Crosspost = xpost),
+und im Feld "Followup-To" auch genau diese neue NG (das ist das
+wirkliche fup2).
+
+Wichtig!
+Bitte grundsätzlich nur _eine_ NG in Followup-To eingeben, auch wenn
+dein Newsreader mehrere zulassen sollte. Die Diskussion soll immer nur
+in _einer_ NG fortgeführt werden.
+
+Bei Newsreadern, die nicht alle Header anzeigen, gibt es irgendwo im
+Men einen Punkt "alle Header anzeigen", das muss man vorher anklicken,
+bevor man zusätzliche Headereintr�ge machen kann.
+
+Hinweis auf TLP-Problem:  (unterschiedlich je Version)
+  Bei der deutschen Version von TLP gibt es kein Feld "Followup-To".
+  Nachdem du auf "Newsgroup antworten" geklickt hast, wählst du
+  "Ansicht ) Alle Kopfdaten" aus.
+  Nun sollte ein Feld "Rückantwort" zu sehen sein. Da gibst du die
+  Newsgroup für "Followup-To" an. "Rückantwort" ist für mich eine sehr
+  missverständliche deutsche Übersetzung.
+
+  siehe auch
+  www.nzzz.xf/Imthax/Mkop_XaY.wfn
+
+Nach vorstehender Beschreibung wird mein Artikel nun in mindestens 2 NG
+gepostet und Antworten darauf werden in die neue NG "umgeleitet". Warum
+meinen Artikel auch schon in die neue NG? Damit die Leser dort bereits
+den Auslöser-Artikel für den fup2 lesen können und zum Antworten
+ebenfalls den Auslöser-Artikel nehmen können. Sonst kämen in der neuen
+Gruppe nur Antworten auf meinen Artikel an und die Leser der neuen
+Gruppe haben keinen Bezug zum Sachverhalt. Schwierig? Ich hoffe nicht.
+
+  (Bitte mit Festbreitenschrift anzeigen, z.B. Rummelsberg oder Courier)
+
+
+zum Seitenanfang     zur Inhaltsangabe
+
+
+Beispiel-1 "fup2 + xpost"
+.   Start-                       erscheint in
+.   Artikel                      2 Gruppen als
+.                                Followup
+. +---------+     Antwort-1     +-----------+
+. |NG A     |---)   mit     -+-)| NG A      |---) Antwort-2
+. |Start    |     xpost A+B  |  |           |     erscheint
+. |Thread   |     fup2 B     |  | {A+B/B)   |     als
+. +---------+                |  +-----------+        |
+.                            |                       |
+.                            |   Followup         Followup
+.                            |  +-----------+    +---------+
+.                            +-)| NG B      |---)| NG B    |---)
+.                               | "Start"   |    |         |
+.                               | {A+B/B)   |    |         |
+.                               +-----------+    +---------+
+
+
+Start   = Startartikel des Threads / der Diskussion
+
+"Start" = sieht in NG B wie ein Startartikel aus, aber...
+          Subject beginnt in der Regel mit "Re: "
+          und in den Headerzeilen sind References
+          Artikel enthält Hinweis, aus welcher Gruppe er kommt
+
+(A+B/B) = Artikel hat Hinweis auf xpost und fup2
+
+Antwort-2 = wenn auf den Artikel in NG A geantwortet wird, wird sie
+            nach NG B umgeleitet. In NG B wird sie als Antwort auf
+            "Start" angezeigt. Der Leser von Antwort-2 sieht also auch
+            einen Vorgänger.
+
+            Wenn auf "Start" in NG B geantwortet wird, gibts keine
+            Umleitung, dann ist es eine normale Antwort.
+
+Tipp:
+Bei xpost bitte nicht nur "Wortfetzen" zitieren, denn die Leser in
+NG B sollten in der Regel nicht "gezwungen" sein, generell in die NG A
+zu schauen. Das soll aber nicht bedeuten, nun konsequent ein Vollzitat
+"hinzulegen" ;-)
+
+Wenn xpost weggelassen wird, dann sehen nur die Leser in NG A meine
+Antwort. Wird jetzt geantwortet (als Antwort-2), dann wird diese Antwort
+nach NG B umgeleitet, ohne dass dort der Vorg�ngerartikel erscheint.
+
+
+zum Seitenanfang     zur Inhaltsangabe
+
+
+Beispiel-2 "fup2 ohne xpost"
+.   Start-                       erscheint in
+.   Artikel                      1 Gruppe als
+.                                Followup
+. +---------+     Antwort-1     +-----------+
+. |NG A     |---)   mit     ---)| NG A      |---) Antwort-2
+. |Start    |     fup2 B        |           |     erscheint
+. |Thread   |                   | {B)       |     als
+. +---------+                   +-----------+        |
+.                                                    |
+.                                                 Followup
+.                                                +---------+
+.                                           (..)-| NG B    |---)
+.                                                |         |
+.                                                | "Start" |
+.                                                +---------+
+
+
+"Start" = sieht in NG B wie ein Startartikel aus, aber...
+          Subject beginnt in der Regel mit "Re: "
+          und in den Headerzeilen sind References
+
+          Artikel enthält keinen Hinweis, aus welcher Gruppe er kommt
+
+(B)     = Hinweis, dass Antworten umgeleitet werden
+
+(..)    = manche Newsreader zeigen optisch an, dass es einen Vorgänger
+          gibt, auch wenn er nicht angezeigt wird
+
+
+Es kann auch sein, dass der _wirkliche_ Start-Artikel gecancelt wurde,
+dann ist der erste _sichtbare_ Artikel bereits ein Followup. Das sieht
+sinngemäss aus wie in Beispiel-2 der Artikel "Start" in NG B.
+
+
+zum Seitenanfang     zur Inhaltsangabe
+
+
+1.3 Erkennen von fup2 beim Antworten
+
+Entweder macht dich dein Newsreader beim Antworten durch einen Hinweis
+auf die Umleitung aufmerksam oder du musst selber auf den Inhalt der
+Followup-To-Zeile achten. Bei OE bitte den Hinweis in 1.2 beachten.
+
+
+zum Seitenanfang     zur Inhaltsangabe
+
+
+1.4 Missachtung von fup2
+
+Der Antwortende kann meinen fup2-"Vorschlag" (mehr ist das nämlich
+nicht) auch ignorieren, wenn er meint, die Diskussion wäre z.B. doch
+besser in der alten Gruppe aufgehoben (oder in ganz anderer NG). Er
+wird das dann aber am Anfang seiner Antwort begründen.
+
+Was bei unbegründeter (oder vorsätzlicher) Missachtung des fup2
+passieren kann, reicht von Beschimpfungen durch andere Leser bis zum
+Eintrag in die Leser-eigenen "Filter", damit dieser Autor beim
+jeweiligen Leser nicht mehr zu weiterem Ärger führen kann ;-)
+
+
+zum Seitenanfang     zur Inhaltsangabe
+
+
+1.5 sinnloses Crossposting unterbinden
+
+Wenn jemand zuuuu viele Newsgruppen in seinem Artikel eingesetzt hat
+(also crosspostet) und _keinen_ fup2 gesetzt hat und _du_ gerade auf
+diesen Artikel eine Antwort hast, solltest du möglichst gleich auch
+einen fup2 setzen, also dieses möglicherweise sinnlose Crossposting
+versuchen zu begrenzen. Kurzer Hinweis auf die Unterbindung des
+Crosspostings am Anfang der Antwort ist erwünscht.
+
+
+zum Seitenanfang     zur Inhaltsangabe
+
+
+1.6 fup2 poster (auch fup2p)   (mit Hinweis auf OE-Problem)
+
+Als letztes gibt es noch ein "fup2 poster", wobei in das Feld
+"Followup-To" _nur_ das Wort "poster" reingehört (ohne Gänsefüsschen).
+Der Autor ist dann der Meinung, dass die Diskussion jetzt in keiner NG
+mehr sinnvoll geführt werden kann und bietet an, bei Bedarf per E-Mail
+weiterzudiskutieren, also Antworten an den "poster" zu senden. Du kannst
+mal probieren, auf einen solchen Artikel zu antworten, brauchst ja nicht
+abzusenden.
+
+Wenn du auf "antworten" klickst, wird dich dein Newsreader normal darauf
+aufmerksam machen, dass der Autor die Diskussion auf E-Mail umlenken will,
+oder... vielleicht auch hier auf die Followup-To-Zeile achten, siehe 1.3
+
+Der Newsreader ersetzt "poster" in der vorbereiteten Antwort bereits
+durch die E-Mail-Adresse des Autors.
+
+Natürlich kannst du auch diesen Wunsch ignorieren und doch in die NG
+antworten, bitte denke auch hier wieder an eine Begründung.
+Du löschst dann die E-Mail-Adresse des Autors und gibst eine NG in das
+Newsgroups-Feld ein.
+Bei manchen Newsreadern musst du "persönliche Antwort" (oder ähnlich) in
+"öffentliche Antwort" ändern.
+
+Hinweis auf OE-Problem:
+  Wenn du auf einen Artikel antwortest, dessen Autor ein  "fup2 poster"
+  gesetzt hat, tritt eine weitere Macke des OE zutage = deine Antwort
+  wird an die Newsgruppe geschickt mit einem CC: (Kopie) an den Autor!
+  Das ist äusserst unfein. Bitte hierbei dringend die Unterschiede
+  zwischen OE4 und OE5 beachten. Abhilfe siehe OE-FAQs, z.B.
+
+  www.awhnhafw.dh/yl6
+  www.kxfnyphes.mp/gij/rlb8.zeeg
+  ur-sxo.yr
+
+  www.nzzz.xf/Imthax/Mkop_XaY.wfn
+
+
+zum Seitenanfang     zur Inhaltsangabe
+
+
+1.7 fup2 selber üben
+
+Tipp aus einem Artikel von Ulfert Wiehage...
+
+
+zum Seitenanfang     zur Inhaltsangabe
+
+
+1.8 Ich finde meine Antwort nicht in der Newsgruppe
+
+Aus dem oben beschriebenen Ablauf ergibt sich, dass... du deine Antwort
+in der bisherigen Newsgruppe vielleicht vergeblich suchst, wenn du nicht
+darauf geachtet hast, dass deine Antwort umgeleitet wurde. Entweder
+zeigt dir dein Newsreader beim Antworten einen Hinweis auf die Umleitung
+oder du musst selber auf den Inhalt der Newsgroups-Zeile achten.
+
+Was tun?
+a) im Ausgangspostkorb nachschauen, an welche Gruppe(n) dein Artikel
+geschickt wurde (sofern immer eine Kopie erstellt wurde).
+Bei OE = Extras / Optionen / Karteikarte Senden / Kopie im Ordner
+"gesendete Objekte" speichern
+
+b) im Newsreader in der bisherigen Gruppe den Artikel suchen, auf den du
+geantwortet hast. Dort wirst du erkennen, ob ein fup2 gesetzt wurde
+(evtl. erst alle Headerzeilen anzeigen lassen). Dann siehst du dort die
+"neue" Newsgruppe, wo dein Artikel vermutlich sein wird.
+
+Deine Antwort sieht in einem solchen FAll sinngemäss aus wie in
+Beispiel-2 der Artikel "Start" in NG B.
+
+
+zum Seitenanfang     zur Inhaltsangabe
+
+
+1.9 FAQs zu Newsreadern
+
+spezielle Beschreibungen für einzelne Newsreader
+
+   OE:       ur-sxo.yr
+   OE:       www.cvtyzkls.zu/as0/
+   OE:       www.kxfnyphes.mp/gij/rlb8.zeeg
+   OE:       www.sxqrspqbjhik.ay/pppotq
+   Netscape: xcrn.u-ueqvyo.xh/uoam/Henry.Müllejans/avgswwkk.quk
+   Netscape: www.pwjx.qv-okpnek.yq/~mllbpdw/ypu/yp-wz.yekd
+   Agent:    www.ylywkwffq.wz/rmnfonr/jnxwudoavi/
+   Xnews:    www.pdpkohri.wu/Wsqsy/
+   MacSOUP:  www.ozbkv.ln/~khu/nnypctd/
+
+FAQs zu verschiedenen Newsreadern:
+www.yksbxvmm.dh/lzzvitefzoZEK.aey4 (deutsch, sehr gut)
+ftp://rtfm.mit.edu/pub/usenet/news.software.readers/ (englisch)
+
+
+2. Allgemeine Regeln, die sich aus der Netiquette ergeben
+
+zum Seitenanfang     zur Inhaltsangabe
+2.1 Höflichkeit im Bodystreet und Toleranz
+
+From: nmuemd.eybkj@ocumhco.lus (Gert Volkenant)
+Newsgroups: ut.kwielmly.vicfc,eq.mox.zqwjoxnpbd.pxxaxfgmwsqob
+Subject: 31. 05. 22 Sieben Thesen zur Hoeflichkeit im Usenet
+
+
+zum Seitenanfang     zur Inhaltsangabe
+
+
+2.2 Chartas der Newsgruppen
+
+Eine Beschreibung der Newsgruppen
+From: qps@dxd.ft.bqeb.qki (Wfzrden Wienbröker)
+Newsgroups: ut.kwielmly.vicfc,sf.mlzcl.fxja.jrtkjk,we.gnb.irbsw
+Subject: 2001-01-22 Die Newsgruppen der de-Hierarchie
+Posting-frequency: weekly
+www.aqjqwlqhs.kk/~bsu/nux/dz-eatadmcejmp
+
+oder auch
+
+Wo finde ich die Chartas der Newsgruppen und FAQs?
+www.sgkzjmq.cx/aupqkziv-pgh
+
+
+zum Seitenanfang     zur Inhaltsangabe
+
+
+2.3 Umleiten eines Themas oder eines Users
+
+Diskussionen werden umgeleitet, nicht Personen/User. Diskussionen
+werden dann umgeleitet, wenn sie vom Thema her in der bisherigen
+Gruppe offtopic werden und in einer anderen Gruppe ontopic sind.
+
+Wenn in der bisherigen Gruppe weiter vom Thema her offtopic
+geschrieben wird, ist das unhöflich gegenüber allen anderen Lesern.
+
+Das Umleiten der Diskussion in die passende Gruppe muss also als
+Erkenntnis aus dem vorigen Satz als höflich bezeichnet werden.
+Der Autor des Artikels, für dessen Beantwortung die Umleitung
+vorgeschlagen wird, sollte so tolerant sein, der Umleitung zu folgen.
+Er hat natürlich auch das Recht, eine andere Gruppe zu wählen, wenn
+die vorgeschlagene falsch sein sollte (z.B. versehentlich).
+
+
+zum Seitenanfang     zur Inhaltsangabe
+
+
+2.4 Umleiten und Missachtung der Umleitung
+
+Wenn ein Antwortender das Thema der bisherigen und/oder der Zielgruppe
+anders interpretiert oder versteht, kann er den Vorschlag der
+Umleitung missachten und in der bisherigen Gruppe bleiben. Er sollte
+dann so höflich sein, den Lesern der bisherigen Gruppe seine Gründe am
+Anfang seiner Antwort kurz erläutern.
+
+
+zum Seitenanfang     zur Inhaltsangabe
+
+
+2.5 Umleiten und "Abklemmen"
+
+fup2 ist kein Mittel, eine Diskussion abzuklemmen. fup2 ist kein
+Mittel, einen User abzuklemmen.
+
+Diskussion abklemmen = einfach nicht mehr weiterlesen
+
+User abklemmen = in den Filter "stecken" und nicht mehr antworten
+
+
+zum Seitenanfang     zur Inhaltsangabe
+
+
+2.6 Umleiten und "gruppenkasper" (Beleidigung?)
+
+Charta von dag (de.alt.gruppenkasper)
+
+
+siehe auch  http://ffy.ktzchchwhcoz.oz/znlquq.jolv
+Das Zeichen hinter "dag" ist die Kasperschelle... ;-)
+
+Es gibt verschiedene Meinungen im Usenet. Andere Meinungen sollten
+toleriert und akzeptiert werden (siehe Netiquette). Der Name einer
+Newsgruppe allein stellt keine Beleidung eines Users dar. In der Regel
+wird der User selber nicht als "Kasper" bezeichnet, auch wenn er den
+Namen der Gruppe auf sich selbst bezieht. Solange die Charta zum
+Diskussionsverlauf passt, ist das Umleiten nach dag angebracht.
+Ansonsten sollte der Hinweis zu "Umleiten und Abklemmen" gelten.
+
+Man mag ein fup2 de.alt.gruppenkasper als Frechheit empfinden, ein
+anderer empfindet es als passende Umleitung. Jeder hat das Recht,
+aufgrund seiner eigenen Meinung eine solche Umleitung vorzuschlagen.
+Moeglicherweise macht er sich dadurch auch laecherlich, wenn die
+Umleitung unangebracht ist.
+
+
+Danke an Othmar Moessner, Elmar Knickmeier, Olaf Eilbrecht
+sowie alle, die Artikel zum Thema Netiquette und Höflichkeit im
+Bodystreet erstellt haben.
+
+
+Autor: Philippe Rahnenfuehrer

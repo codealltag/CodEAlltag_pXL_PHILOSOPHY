@@ -1,0 +1,70 @@
+Am 26.02.99, 02:14:13, schrieb yfjes@fvub1.valjd.lm.mc (Evgenij=20
+Barsukov) zum Thema Re: Seele:
+
+
+semcufz@ufty.sm
+Maik
+Elementen
+immer
+
+
+Aufgaben
+kommt der
+
+Auch ein randomisierter Algorithmus löst nur die Aufgaben für die er=
+=20
+geschrieben wurde, das gehört zur Definition von Algorithmus.
+
+rein
+(Kreativitaet)
+
+Das ist falsch! Simples Gegenbeispiel: Wähle zufällig zwischen "R" u=
+nd=20
+"F". Nur mit Wahrscheinlichkeit 1/2 wird "R" gewählt, also keineswegs =
+
+_immer_ . Du verwechselst vermutlich den Begriff des=20
+nichtdeterministischen Algorithmus mit dem des zufälligen Algorithmus.=
+=20
+Dabei handelt es sich um zwei völlig verschieden Klassen.
+
+kombinatorishen
+
+Du beschreibst die deterministische Simulation eines=20
+nichtdeterministischen Algorithmus, die - so weit wir wissen - einen=20
+exponentiell größeren Zeitbedarf hat. Dies gilt für bestimmte Klas=
+sen=20
+von randomisierten Algorithmen nicht.
+
+
+quasi-zufaellig
+funktionieren?
+
+einem
+oder
+
+
+Dabei ist nichts, was nicht auch deterministisch ginge, wenn man halt=20
+den Preis an Ressourcen (Zeit und Platz) bezahlt. Zudem setzt dein=20
+"Erfahrungakkumulieren" voraus, daß das es zwischen der Wahl an der=20
+nächsten Verzweigung und der vorangegangenen einen Zusammenhang gibt, =
+
+der durch das angegebene Lernverfahren erfaßt wird, aber es gibt=20
+nichtzufällige (was immer das eigentlich heißt) Labyrinthe, die Dein=
+em=20
+Lernverfahren den Boden unter den Füßen wegziehen.=20
+
+Um es nochmals klar zu sagen: Randomisierte (selbst=20
+nichtdeterministische) Algorithmen leisten nicht mehr, als=20
+deterministische. Sie können höchstens bestimmte Probleme schneller =
+
+lösen, dies jedoch unter dem Vorbehalt, daß die Lösung auch nicht =
+
+sicher ist. Zudem kannst Du in nicht garantieren, daß Deine=20
+Zufallswahlen nicht JEDESMAL in die falsche Richtung gehen.
+
+MfG
+Maik
+--
+Maik Gebel
+	keep things simple. as simple as possible. but no simpler=20
+	(R. Dähnhardt)

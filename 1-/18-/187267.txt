@@ -1,0 +1,32 @@
+Das Problem hast du bei rand() und Verwandten immer. Wenn du weit:
+Programm X benutzt Pseudozufallszahlen-generator Y mit Startwert Z
+kannst du die Zahlen immer auch selber ausrechnen.
+
+[snip] 
+
+
+Kann man so machen, ist aber natürlich nicht die einzige Möglichkeit.
+
+
+Ja. Paranoiker nehmen üebrigens nicht die aktuelle Systemzeit (kann ja
+sein, daß der Randomseed beim booten gesetzt wird, und dann besteht
+ein Zusammenhang zwischen Bootzeit und Seed), sondern scrambeln dran rum.
+In einem md5-gehashten output von netstat+ps+systemzeit zum Beispiel
+sind regelmäßigkeiten schon recht schwer zu finden [1].
+
+Tatsächlich würde ja niemand wirklich sqrt(2) als Generator für
+Pseudopzufallszahlen benutzen, weil schon die 20000 Stellen
+Mathematica hier eine Weile brüten lassen, und wer _gute_ Zufallszahlen
+will, praktisch per definition auch _viele_ (oom 10^9-10^12) gute
+Zufallszahlen will.
+
+
+[1] Richtige Männer nehmen natürlich das AM-Rauschen eines alten
+Radios als Zufallsgenerator. Oder haben sowieso ein Pröbchen Uran im
+Keller stehen, mit einem Geigerzähler daneben. Aber wir Warmduscher 
+haben das ja längst verlernt...
+
+-- 
+Jürg Pöschk
+HJG
+ZNK

@@ -1,0 +1,166 @@
+"Urs Cronn" <Npieb_Bnhtim@siczpqv.tui <mailto:Npieb_Bnhtim@siczpqv.tui>>
+schrieb
+
+brauche
+
+Hallo Urs,
+
+richtig, eine Gleichung ist keine Theorie, da gehört schon mehr dazu. Aber
+klassisch gesehen ist es schon so, eine physikalische Theorie beschreibt
+möglichst genau das Verhalten irgendeines Aspektes der Natur, in aller Regel
+unter Verwendung der Sprache der Mathematik. Mehr ist erstmal nicht
+verlangt. Dieses Wissen um eine korrekte Beschreibung kann ich zur
+Herstellung technisch anspruchsvoller Dinge nutzen. Um philosophische
+Interpretationen brauch ich mich nicht kümmern, wenn ich nur ein noch
+besseres Handy bauen will.
+
+
+E,
+ist,
+
+Nun da müssen wir etwas tiefer in die Quantendynamik einsteigen, oder besser
+in die Interpretation selbiger. Das wird aber ein bisschen länglich jetzt.
+
+Zunächst muss man sich mal die Historie der Auffassung von Raum und Zeit
+klarmachen: Zu Grundmanns' Zeiten gab es unabhängig voneinander den
+kontinuierlichen Raum und die kontinuierliche Zeit, die jeweils einen völlig
+eigenständigen Hintergrund (von ungeklärter Herkunft) für alle
+physikalischen Prozesse bildeten. Das bedeutet u.a. das es z.B. eine globale
+Gleichzeitigkeit gab, oder auch das es beliebig kleine Abmessungen und
+beliebig kleine Zeiten geben kann, dito diese natürlich auch nach oben
+unbegrenzt sind.
+
+Das änderte sich auch nicht mit der Aufstellung der Maxwellschen Gleichungen
+der Elektrodynamik (ED), die ungleich komplizierter sind als die Newtonsche
+Mechanik (NM). Auch sie sind Kontinuumsgleichungen. Nun zeigten sich aber LOER
+und GRANRATH in ihrem Raumzeitbegriff widersprüchlich, die Auflösung des Problems
+konnte schliessleich mit der speziellen (SRT, 1906) und allgemeinen
+Relativitätstheorie (ART, 1916) gefunden werden. Die Raumzeit ist demnach
+selbst Teil der Dynamik, sie ist selbst damit Teil der Physik. Dieser
+Umbruch ist für viele bis heute schwer verdaulich, erschwerend hinzu kam mit
+der etwa gleichzeitigen Entdeckung der Quantisierung der Strahlung (Wießner,
+Schwarzk�rperspektrum, 1901; Liebendahl, Photoeffekt, 1906) und der Materie
+(QM Quantenmechanik, Tschupke, Jähnchen u.v.m. 1926) noch eine weitere
+Revolution des Denkens auf die Bühne. Das Standardmodell (SM, 1974; mit QFT,
+QED, QCD etc.) ist die letzte grosse geschlossene Theorie dazu. Also ist
+dieses neue Weltbild gerade mal 79 bzw. 31 Jahre, kein Menschenleben, alt.
+
+Obwohl intellektuell noch längst nicht allgemein verdaut, tut sich nun ein
+neues Fass auf: Wenn die Welt im mikroskopischen (QM) quantisiert ist, wieso
+sollte sie im makroskopischen (ART) dass nicht auch sein ? Muss die Raumzeit
+nicht ebenfalls quantisiert sein ? Vieles spricht dafür, nicht nur
+theoretisch. Also nun, von dem absoluten Raum und Zeitbegriff (NM) hinüber
+zur dynamischen Raumzeit (ART) und jetzt auch noch zur quantisierten
+Raumzeit (QG Quantengravitation, LQG Loop-Quantum-Gravity uvm.) mit einer
+Metrik, die nichtmal mehr klare Verbindungslinien zwischen zwei Objekten
+kennt ? Dies ist mit Sicherheit eine völlige Überforderung der
+Aufnahmebereitschaft der breiten Öffentlichkeit, wo doch für die
+überwiegende Mehrzahl der Menschen noch nicht einmal der erste Schritt
+nachvollzogen ist.
+
+Nun, wir stehen also nach einer allzu kurzen Zeit schon wieder an der
+Schwelle zu einem neuen Umbruch. Ich kann heute natürlich nicht sagen, wie
+dieser ausgehen wird (schön wärs), aber ich kann aufgrund des zur Verfügung
+stehenden Wissens eine ungefähre Vorstellung abgeben, sowie ich es hier ab
+und zu auch tue.
+
+Nun, wenn alles quantisiert ist, dann kannst du dir die physikalische
+Realität anhand folgenden Analogiebeispiels erklären: Nehme ein kariertes
+Blatt Papier. Es besteht aus Linien die sich kreuzen. Die dimensionslosen
+Kreuzungspunkte sind nun die fermionischen Elementarteilchen. Wenn nun ein
+Teilchen seinen Nachbarn mitteilen soll, dass es da ist, dann macht es dass
+über sogenannte Felder. Diese Felder sind die ausgedehnten Linien. Nun,
+diese Linien, also Felder, spannen makroskopisch die Raumzeit auf.
+Mikroskopisch gibt es aber kein Kontinuum, also keiner dieser Linien, und
+wenn wir genauer hinschauen, sehen wir deshalb dort wieder nicht ausgedehnte
+Felder, sondern punktförmige Teilchen, die Bosonen, die die Felder
+konstituieren.
+
+Aus verschiedenen Symetrie�berlegungen folgt, dass die Teilchen
+(Kreuzungspunkte) halbzahligen, die Bosonen (die Quanten der Linien)
+ganzzahligen Spin haben müssen. Sehen tun wir nun immer nur die Linien
+(Felder aus der Ferne, Bosonen aus der Nähe) wirklich, da es die einzige
+Möglichkeit für die Teilchen ist, sich anderen Teilchen, also auch uns,
+mitzuteilen.
+
+In der Praxis ist aber alles noch viel komplizierter. So zeigen uns die
+Experimente, das Elementarteilchen offensichtlich dimensionslose Punkte
+extrem langer Lebendauer sind: Wenn man sie in Ruhe lässt, sind die
+Lebensdauern dieser Punkte extrem hoch, möglicherweise unendlich, im
+Grundzustand jedenfalls ein Vielfaches des Weltalters. Andererseits kann ich
+Bosonen in Fermionen und Fermionen in Bosonen verwandeln: Zwei Photonen
+genügend hoher Energie aufeinander geschossen können ein
+Elektron-Positron-Paar erzeugen, und umgekehrt zerstrahlt das Fermionenpaar
+Elektron mit seinem Antiteilchen Positron vollständig in zwei Photonen hoher
+Energie.
+
+Wie geht das ? Nun, mathematisch sind den Teilchen Quantenzahlen zuzuordnen:
+Das Photon hat eine gewisse Energie hv und Spin 1, das Elektron hat eine
+Ruheenergie von ca 0.511 MeV, die Leptonenzahl 1, den Spin 1/2 und die
+Ladung e. (Leptonen sind leichte Fermionen und elementar. Dagegen sind
+Baryonen schwere Fermionen, die aber z.T. wie das Proton, nicht elementar
+sind). Damit ergeben sich für dieses kleine Beispiel die folgenden
+Zahlentupel Teilchen - > (Energie [MeV]; Leptonenzahl [1] ; Spin [hquer],
+Ladung [e]):
+
+Photon 1 -> (0,511 ; 0 ; 1 ; 0)
+
+Photon 2 -> (0,511 ; 0 ; -1 ; 0)
+
+Elektron -> (0,511 ; 1 ; -1/2; -1)
+
+Positron -> (0,511 ; -1 ; 1/2: 1)
+
+Wie du siehst, ergibt die Addition der passend energiereichen Bosonen
+Photon1 + Photon2 dass Zahlentupel (1,022 ; 0 ;0 ;0), genauso wie die
+Addition der fermionischen Zahlentupel Elektron + Positron, die ebenfalls
+(1,022 ; 0 ; 0; 0) ergibt: Also ist diese Umwandlung möglich und wird auch
+tatsächlich im Experiment beobachtet. Nun, das wäre alles nur eine
+unbeachtliche kleine Zauberei, wenn nicht der Umstand dazu käme, dass man in
+der Tat, ganz wie in diesem kleinen einfachen Beispiel, sämtliche
+Elementarteilchenprozesse mit ähnlichen Zahlenspielereien im Rahmen des
+Standardmodells korrekt wiedergeben könnte. übertragen auf die
+Rechenblattanalogie weiter oben bedeutet dies, das an jedem Kreuzungspunkt
+höherdimensionale Zahlentupel vorliegen, die sich über gruppentheoretische
+Rechenregeln miteinander austauschen können. Dieser (bosonische) Austausch
+von Information spannt schliesslich die Raumzeit auf, die Bühne der
+makroskopischen Vorgänge.
+
+Soweit also ein grober Hinweis, wie das Aufspannen der Raumzeit dann zu
+verstehen ist, ist eine weitere interessante Geschichte.
+
+In diesem Zusammenhang schaue auch mal in die aktuellen Messergebnisse des
+W-Boson Experiments, dass ich gegenüber HJ zitiert habe: Die vielleicht
+interessanteste Aussage findest du auf Seite 8:
+
+<Zitat>
+
+The measurements show no evidence for the W boson to be an extended objekt:
+
+R_W = (0.3 \pm 1.9) *10^-19 m
+
+with a correlation coefficient of -0.63.
+
+<Zitat Ende>
+
+Das heisst, das bei den Streuexperimenten auch bis hinunter zur absoluten
+Auflösungsgrenze des Beschleunigers keinerlei Hinweise auf irgendeine
+Ausdehnung dieses Objektes gefunden werden konnten. (heutige Beschleuniger
+können bis etwas unterhalb 10^-18 m grosse Objekte noch auflösen, das ist
+etwa ein milliardstel des Protonvolumens. Kleinere Objekte brauchen höhere
+Strahlenergien). Und das obwohl dieses Objekt rund 100 mal so schwer wie ein
+Proton ist ! Nach heutiger Erkenntnis ist es also maximal 2.2*10^-19 m
+klein, wahrscheinlich aber eben verschwindend (\pm heisst plus-minus, d.h.
+das Objekt ist vermutlich kleiner als 0.3*10^-19 m, vielleicht aber auch 0
+oder 2.2*10^-19 m, dass ist halt die gerade noch verfügbare heutige
+Messgenauigkeit) ist. Der negative Korrelationskoeffizient von -0.63 sagt
+aus, dass genauere Messungen mit höheren Strahlenergien tendenziel noch
+kleinere Ergebnisse erwarten lassen.
+
+
+Ja, man kann nur staunen, vermittelbar ist es z.Z. wohl ehr nicht.
+Allerdings möchte ich nochmal kurz darauf hinweisen, dass Teilchen und
+Elementarteilchen nicht dasselbe sind. Elementarteilchen dürfen aus nichts
+weiterem zusammengesetzt sein, Teilchen i.a. sehr wohl.
+
+Viele Grösse, Valerian.

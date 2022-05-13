@@ -1,0 +1,32 @@
+In article <9vrxt9$d2m@hdclaim.wrj.VM-Qfhlmj.RH> xvyon@hchi.qp-lzkkmr.bw  
+(Bzsldvv Mqye) writes:
+
+[...]
+
+Du kannst Dir sogar von allen, die am Experiment teilnehmen, das von ihnen
+empfangene Signal als Kontrolle zurueckschicken lassen. Die zurueckgesen-
+deten Signale vergleichst Du dann nochmal mit dem von Dir erzeugten Signal.
+Selbst wenn alle identisch sind bleibt die Problematik dennoch die gleiche.
+
+[...]
+
+Fuer paarweise unvereinbare Ereignisse folgt das aus dem Additionstheorem.
+Offenbar waren die Ereignisse in Deinem Beispiel
+
+    "P(x) = 1/2, falls 0<=x<1, P(x)=0, falls x<0 und P(x)=1 falls x>=1"
+
+also nicht paarweise unvereinbar. So gilt fuer jedes x>=1 P(x)=1, das
+heisst, tritt eins dieser Ereignisse ein, sind gleichzeitig auch alle
+anderen eingetreten. Nun lautete aber die Fragestellung, wie man eine
+kontinuierliche Temperaturverteilung angeben kann, ohne eine Dichtefunk-
+tion zu benutzen. Nun, eine Dichtefunktion hast Du tatsaechlich nicht
+benutzt, aber eine kontinuierliche Temperaturverteilung ist dummerweise
+nicht zu sehen.
+
+
+Ein weiteres hoechst interessantes Feature dieses Beispiels ist das Auf-
+treten von Wahrscheinlichkeiten >1.
+
+Gruss,
+
+	Ullrich.

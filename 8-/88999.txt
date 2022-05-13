@@ -1,0 +1,14 @@
+Das Gentzenkalk�l operiert auf Sequenzen. Die nullstelligen
+Relationen, d.h. die Anfangssequenzen a|-a - genauer: {a}|-a und
+etwa |-t=t  (für alle Formeln a einer Sprache L und alle Terme t) -
+/sind die Axiome/ des Sequenzkalk�ls. Genauer muss man hier
+unterscheiden zwischen "|-_S" des Sequenzkalk�ls und dem Zeichen "|-".
+Wir sagen, dass a aus X ableitbar ist - formal: X|-a -, wenn es eine
+Ableitung |-_S(X,a) im Gentzenkalk�l gibt.
+
+Die mehrstelligen Relationen (n>1) sind zwar Schlussregeln, die jedoch
+nicht mehr zu den Axiomen des S-Kalküls gehören.
+
+
+-- 
+Gruß, Domenico.

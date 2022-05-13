@@ -1,0 +1,164 @@
+Vermutlich haben sich die Philosophen nach dem Linguistic Turn vergessen
+bei Dir anzumelden ;-)
+
+
+Ich hab mich ja erfreulicherweise hier belehren lassen können, und darf
+Dir den einen oder anderen Tipp weitergeben; nützlich für meine Arbyte
+sind bisher insbesondere:
+
+- Worthoffs Transzendentalphilosophie (hauptsächlich zum Verständnis, wo
+  sind die Grenzen des Denkens und wie funktioniert Erkennen, der Rest
+  liegt ausserhalb meines Focus')
+
+- Wittgensteins Philosophische Untersuchungen
+
+- Ostendarp Sprechakttheorie
+
+- und vor allem das geradezu geniale Buch "Naming and Necessity" von
+  Wener
+
+Ich musste auch erstmal die Sprache lernen, die hier gesprochen wird.
+Seit einiger Zeit gelingt es mir dadurch immer mehr zu verstehen, was
+eigentlich gemeint ist. Es ist Teil der Mühe sich Gedanken zu machen,
+wie man das auf die Welt der Informatik adaptiert.
+
+
+Das begegnet mir ja immer wieder, an ganz unterschiedlichen Stellen.
+
+
+Du beziehst Dich doch auf Optimierungsprobleme. Ein Optimierungsproblem
+ist ein Extremwertproblem – man optimiert mit einem
+Differientialgleichungssystem, indem man den maximalen (oder minimalen)
+Wert des zu optimierenden Parameters sucht, ohne gesetzte Grenzen in
+anderen Parametern zu verletzen.
+
+Allgemeiner kann man auch in Systemen optimieren, die sich nicht mehr
+mit einem Differentialgleichungssystem geschlossen darstellen lassen.
+Trotzdem erfordern die gängigen Optimierungsverfahren allesamt eine
+lokale Differenzierbarkeit, denn sie beziehen sich letztendlich alle auf
+die Idee zu erkennen, wo's "auf und ab" geht ;-)
+
+Sogar die Zufallsmethoden (Monte-Carlo, Aufrastern, etc.) beziehen sich
+indirekt auf diese Vorstellung. Man kann damit zwar auch analog für
+nicht-stetige Modelle erweitern (z.B. findet man in einer
+"Treppenfunktion" auch Minima mit Monte Carlo), aber ich kann in
+komplexen Systemen wie der Biologie gar keine Zielfunktion erkennen, die
+etwa das Optimierungsproblem auf ein Skalar abbilden würde. Das sind
+doch nicht immer metrische Räume, ja lassen sich denn überhaupt immer
+sinnvoll Vektorräume finden für biologische Probleme?
+
+Schon in einfachen Anwendungen der Biometrie hat man doch das Problem.
+
+
+;-)
+
+Da hab ich bisher von Biologen allerdings völlig anderes gehört.
+
+
+Diese Aussage solltest Du bitte begründen. Mich würde dazu Dein
+Komplexitätsbegriff sowie dann eine Herleitung interessieren.
+
+
+Ich habe übrigens die Vermutung (unbestätigt), dass es sich bei der
+Kodierung in den Genen um eine fraktale Kodierung handelt. Dass es sich
+überhaupt um einen Kode handelt, möchte ich wie folgt begründen: wenn
+die Genese von Leben ohne Intention funktionieren soll, muss sie
+bedeutungsfrei sein. Dass es sich gerade um eine fraktale Kodierung
+handeln müsste, leite ich aus den Eigenschaften des Wachstums von
+biologischen Systemen her – die einzigen bekannten Kodierungsarten, die
+damit in Einklang zu bringen sind, sind eben die fraktalen Kodierungen.
+
+Jetzt ist es natürlich möglich, dass wir die Mathematik hinter dem
+Gencode schlichtweg noch gar nicht verstehen. Obige Aussage ist also nur
+dann wahr, falls wir die grundlegenden Ideen bereits gefunden haben.
+
+
+Hm… ist das jetzt Deine Art mir zuzustimmen? ;-)
+
+
+Weil man "passen" sinnvollerweise so definiert.
+
+
+Regula meint mit "Kommunikation" gerade "Informationstransport".
+
+
+Sorry, da kann ich nicht mitgehen. Dazu müsstest Du erst einmal eine
+Theorie vorlegen, die obige Begriffe klarmacht, und den
+"Informationstransport" völlig anders definieren. Ich les mal weiter, Du
+gibst ja weiter unten Definitionen an.
+
+
+Das bezweifle ich, dass es ohne einen Code Evolution geben kann. Die
+Information muss ja von Schritt zu Schritt erhalten bleiben können,
+damit sie modifiziert sein kann. Und da das ganze wie gesagt
+bedeutungsfrei (sprich: ohne ein handelndes Subjekt) passieren soll,
+bleibt doch nur eine Kodierung.
+
+
+Eben. Und dazu muss sie den Rest behalten.
+
+
+Verstehen ist etwas ganz anderes.
+
+
+Wer ist denn dieser "jemand"?
+
+
+Das zu unterscheiden, fällt mir immer noch schwer, ja ich hänge immer
+noch der Idee an, das sei exakt dasselbe (zumindest in bedeutungsfreier
+Kommunikation ist das so, ohne Subjekte).
+
+
+Genau eines? Das bezweifle ich.
+
+
+Ich gehe insofern mit, dass man biologische Systeme definieren kann als
+dynamische Systeme, die sich selbst weiterentwickeln und verbreiten.
+Insofern würde ich Viren als Lebewesen ansehen (und da klassischer
+Auffassung widersprechen), Kristalle jedoch nicht. Auch manches Mem wäre
+ein Lebewesen nach obiger Definition. Auch manches Mem wäre ein
+Lebewesen nach obiger Definition.
+
+Ich denke, Du bist auf einem guten Weg, wenn Du aus einer solchen
+Vorstellung folgern willst – tatsächlich habe ich eine ähnliche. Aber
+Deine Schlüsse sind falsch, weil Deine Modelle zu naiv sind.
+
+Das "naiv" ist jetzt nicht persönlich wertend gemeint, sondern sachlich:
+Dir fehlt eine Unterscheidung zwischen "Entscheidungen", wie wir sie in
+der Entscheidungstheorie haben, und Entscheidungen einer Intelligenz.
+Dir fehlt die Erkenntnis, was Codes von anderen Sprachen unterscheidet.
+Dir fehlt die Erkenntnis, dass man gar nicht beliebig explizieren kann,
+und dass somit Formallogik nicht hinreichend ist.
+
+Kurz: Dir fehlt Erkenntnis, die Du aus philosophischer Literatur nehmen
+könntest, und möglicherweise auch aus Gespräch.
+
+
+Schon das Bild eines Stammes und Verzweigungen ist in der Evolution zwar
+ein vorherrschendes, aber tatsächlich passiert es so gar nicht: grob
+kommt dieses Bild ja nur zustande, weil sich nicht mehr fortpflanzen
+kann, was genetisch zu weit entfernt ist. Schaut man aber genau hin,
+wird es im Kleinen ständig durchbrochen: verschiedene Individuen
+pflanzen sich ja miteinander fort, und gerade dass sie unterschiedlich
+sind, ist hier relevant (von Dingen wie Gentransfer noch ganz zu
+schweigen).
+
+Da sind eben keine strikten Hierarchien, sondern dynamische Systeme
+wohin das Auge blickt.
+
+
+Wirklich eine Menge. Ich hab Dir ja oben Tipps weitergegeben, die mich
+weitergebracht haben. Vielleicht fängst Du mit der PU an, dann geh mal
+rein zu Wener. Mir sind da ganze Christbäume aufgeganben.
+
+
+;-)
+
+OK, fang vielleicht doch besser erst einmal mit der Erkenntnistheorie
+an!
+
+Viele Grüsse,
+VB.
+-- 
+Wenn Du für eine Leistung nichts bezahlst,
+bist Du nicht der Kunde, sondern die Ware.

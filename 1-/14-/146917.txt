@@ -1,0 +1,46 @@
+Das ist ein zugegebenerweise subtiler Punkt in der Argumentation.
+Tatsaechlich ist aber der stromdurchflossene Leiter im Ruhesystem
+des Leiters neutral. Da die Gesamtladung des Leiters ein Lorentzskalar
+ist, ist sie das übrigens in jedem anderen Bezugssystem auch. Die
+Betrachtung eines unendlich langen Leiters ist natuerlich pathologisch,
+da eine unendlich grosse positive und eine unendlich negative Ladung
+vorhanden ist.
+
+
+Die Ladung ist ein Lorentzskalar, d.h. sie ist invariant. In jedem
+Bezugssystem ist der Leiter insgesamt neutral. Jeder reale Leiter 
+ist endlich und damit da ein Strom fliesst, muss bekanntlich 
+ein geschlossener Stromkreis vorhanden sein.
+
+
+was sich aufgrund der Laengenkontraktion aendert ist die 
+Ladungsdichteverteilung. Damit ueberhaupt ein Strom fliesst, 
+muss ein geschlossener Stromkreis vorhanden sein. Auf der Seite
+dieses Kreises fliesst dann der Strom entgegengesetzt zu der
+anderen Seite. Im Ruhesystem des Leiters ist die Ladungsdichteverteilung
+homogen (was z.B. bei einem exakt kreisfoermigen Stromkreis
+aus Symmetriegründen folgt: Es ist im Ruhesystem keine Richtung
+im Raum ausgezeichnet). Homogene Ladungsverteilung in einem insgesamt 
+neutralen Körper bedeutet aber, dass die Ladungsdichte ueberall 0 ist. 
+Egal ob Strom fliesst oder nicht, die Ladungen ordnen sich in dem
+Leiter so an, dass im Ruhesystem die Ladungsdichte überall 0 ist.
+In jedem anderen Bezugssystem ist dann die Ladung auf einer Seite der 
+Leiterschleife positiv, auf der anderen negativ. Die Gesamtladung ist 
+als lorentzinvariante Größe immer 0. 
+
+Wenn man das richtig nachrechnet, kommt da ein linearer Effekt in
+v heraus: Die positive Ladungsdichte ist um einen Faktor
+gamma = 1/sqrt(1-v^2/c^2)  ~ 1+v^2/(2*c^2) erhoeht, die negative
+um einen Faktor gamma ~ 1+(v+v_d)^2/(2*c^2), wobei v_d die 
+Driftgeschwindigkeit der negativen Ladungen ist. Als Differenz
+erhaelt man als fuehrenden Term etwas lineares in v, naemlich
+v*v_d/c^2.
+
+Du solltest gelegentlich mal zu Ende denken, anstatt herumzutrollen, 
+wenn Du irgendetwas nicht verstanden hast. Zugegebenermassen schweigen
+sich die meisten Bücher darüber aus, warum nun der stromdurchflossene
+Leiter überall neutral ist. Die Ladungen ordnen sich dynamisch so an,
+dass sie in dessen Ruhesystem gleichmaessig verteilt sind und die 
+Gesamtladung ist in jedem Bezugssystem 0.
+
+Erik

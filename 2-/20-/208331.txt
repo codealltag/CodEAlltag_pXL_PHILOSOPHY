@@ -1,0 +1,94 @@
+In article <2habs6$vik@htrlk61.uxo.nds-ejoamkd.fp>,
+
+Nagut, da ich kein Interesse daran habe, das Handbook of Mathematical
+Logic zu lesen (und keine Zeit), kann ich Dir ja ein paar Gedanken
+uebermitteln, die in mir die Idee aufkeimen liessen, dass die Divergenz
+letzendlich auch zu einer "Einheit" fuehren koennte - trotz des
+offensichtlichen Widerspruchs.
+
+
+Die Obersysteme haben erst einmal den Zweck, die grundsaetzlichen
+Unterschiede zwischen unterschiedlichen Aussagen zu eliminieren.
+Der Zweck ist somit die Konvergenz. Die Divergenz entsteht dadurch,
+dass weitere Elemente mit in Betracht gezogen werden, die im Prinzip
+"fremd" waren zu dem eigentlichen Problem.
+
+Bsp.: 3, 23, 17 und 51 sind unterschiedliche Zahlen. Diese Aussage
+laesst sich z.B. dadurch "vereinheitlichen", dass man sagt, es sind
+alles ganze Zahlen. Oder natuerliche Zahlen. Oder Zahlen. Oder ungerade
+Zahlen. Oder Primzahlen usw....
+
+Diese Aussagen sind NICHT gleichwertig, d.h., sie liegen nicht auf
+der gleichen "Ebene": die Aussage "Es sind Zahlen" kann man ebenso
+auf die Aussagen, dass es Primzahlen sind oder dass es ungerade Zahlen
+sind, anwenden usw..
+
+Wir nehmen ein paar unterschiedliche "Aussagen":
+
+7
+46
+15
+44
+
+
+Der naechste Schritt ist die Konvergenz dieser 4 Unterschiede zu
+einem (mehreren) Obersystem(en):
+
+3 23 17 51
+-> natuerliche Zahlen
+-> Primzahlen
+...
+
+
+Der naechste Schritt lautete:
+
+
+3 23 17 51
+natuerliche Zahlen / Primzahlen / ...
+-> reelle Zahlen (Ich nehme einfach mal an, dass das stimmt)
+-> ganze Zahlen
+...
+
+
+Und wieder die Vereinheitlichung:
+
+
+3 23 17 51
+natuerliche Zahlen / Primzahlen / ...
+reelle Zahlen / ganze Zahlen
+-> Zahlen
+...
+
+
+Aus welchem Grunde sollte die Anzahl der Obersysteme staendig
+divergieren, aus welchem Grunde sollte die Menge der Aussagen
+(auf einer Ebene!) groesser werden, je mehr Unterebenen es zu
+diesen Aussagen geben kann?
+
+Ich zweifele die "letztendliche" :( Divergenz an - zumal der
+Zweck der Erzeugung von Obersystemen die Konvergenz ist.
+
+Selbst wenn wir hier dem "Zweck" keinen Erfolg zusprechen,
+dann waere es noch immer voellig unentscheidbar, ob die
+Anzahl von Obersystemen ueber Untersysteme divergieren oder
+konvergieren wuerde.
+
+
+Ein zweiter Kritikpunkt: Deine Aussagen ueber die unendlichen
+Hierarchien (es gibt "beliebige, unendliche Hierarchien von
+divergierenden ... Logiken"). Das wundert mich: nehmen wir an, wir
+befassen uns mit Zahlensystemen, dann wuerde daraus folgen, dass die
+Aussage, dass es sich um Zahlen handelt die letztmoegliche Aussage in
+diesem System ist. Wenn wir uns im System der ganzen Zahlen befaenden,
+dann waere die Aussage: "Es sind ganze Zahlen" die letztmoegliche
+"Wahrheit". Ich sehe hier nicht die Moeglichkeit fuer "unendliche"
+Hierarchien.
+
+Ebenso sollte es eine "letztmoegliche" oder "absolute"
+Wahrheit geben fuer die Welt, so wie sie aus der Sicht des
+Menschen gesehen und erfahren werden kann. Es waere dann
+eine "absolute Wahrheit" fuer das menschliche Erkenntnissystem.
+
+
+Tschuess,
+Ralf

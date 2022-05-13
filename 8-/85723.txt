@@ -1,0 +1,27 @@
+Eine Struktur ist ein Quintupel
+
+  S = (A,(R_i|i\in I),(f_j|j\in J),(c_k|k\in K),s),
+
+für das folgendes gilt:
+
+(1) A ist eine nicht-leere Menge und heißt *Träger* von S,
+
+(2)	(I,J,K,s) ist ein *Typ*, d.h.: I,J,K sind paarweise disjunkte Mengen
+    und s:I\cup J -> |N eine Abbildung in die Menge der Natürlichen
+    Zahlen,
+
+(3) jedem i\in I wird eine *s(i)-stellige Relation* R_i *auf A* zugeordnet,
+    d.h. R_i ist eine Teilmenge von A^{s(i)},
+
+(4) jedem j\in J wird eine *s(i)-stellige Funktion* f_j *auf A* zugeordnet,  
+    d.h. f_j:A^{s(i)} -> A,
+
+(5) jedem k\in K wird eine *Konstante* c_k\in A zugeordnet. 
+
+
+Ist A = {x}, so ist etwa {(x,x)} eine 2-stellige und {(x)} eine
+1-stellige Relation auf $A$.
+
+
+-- 
+Gruß, Wolf.

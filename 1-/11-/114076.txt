@@ -1,0 +1,35 @@
+Hallo Massimo,
+
+ASCII.
+Beliebige endliche Zeichenketten. Da man ja Escape-Sequenzen verwenden
+darf, kann man beliebige Symbole verwenden. Vorschlag: Latex-Notation.
+Oder eine Folge von chinesischen Schriftzeichen als ASCII codierte jpg
+Bilder. Oder nur ASCII. Matrizen, Vektoren usw. alles kann man
+eindimensional codieren. Auch C- oder Lisp-Programme.
+
+Könnte man damit z.B. die Kollision 2er elastischer Kugeln
+_vollst�ndig_ beschreiben?
+
+Wie erkennt man Fehleingaben, die unmögliche Systemzustände bescheiben,
+z.B dass 2 Kugeln sich im Raum durchdringen?
+Solche Dinge sind ja im realen Raum von vorneherein unmöglich.
+
+Was man bestimmt nicht einfach beschreiben kann, ist das Wachstum von
+Neuronennetzen. Wenn die Neuronen eng gepackt sind, führt das zu
+ungelösten Problemen der Knotentheorie.
+Vielleicht ist es gerade die _Nichtbeliebigkeit_ solcher Netze, die erst
+Denken möglich macht.
+
+Im eindimensionalen ist ja nur eine Emulation möglich. Entfernungen
+spielen keine Rolle. Vielleicht gibt es dann _zu viele_ Freiheiten.
+
+Simulieren, emulieren, vorausberechnen.
+Mit endlichem Vorwissen.
+
+Ich muss noch nachdenken, ob man das irgendwie beweisen kann.
+Zur Zeit ist es nur ein Gedanke.
+Ich bin für jede Idee dankbar.
+
+Grösse,
+
+Philipp

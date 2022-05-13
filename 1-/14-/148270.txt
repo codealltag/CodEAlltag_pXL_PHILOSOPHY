@@ -1,0 +1,30 @@
+Hallo Didier,
+
+
+Es mag trivial sein. So trivial, wie die Erde um die Sonne kreist oder so.
+
+0,p9 = 1 hat keine Differenz.
+0 + 0/9 = 0 einverstanden, offensichtlich ist keine Diferenz vorhanden.
+x + x/9 = y
+sei y = x + x/8
+das bedeutet
+x + x/9 = x + x/8
+Einzige Mögliche Lösungsmöglichkeit für x = 0, wenn x aber aus 
+irgendwelchen Gründen nicht 0 ist, dann ist die Gleichung nicht lösbar, 
+oder irre ich mich.
+Natürlich kann ich schreiben
+
+x/1 + x/9 = x/1 + x/8
+
+x + x      x + x
+------  = -------
+  10         9
+
+
+0,2 x =  0,p2 x
+
+
+Ist das richtig?
+
+Gruss
+Raphaël

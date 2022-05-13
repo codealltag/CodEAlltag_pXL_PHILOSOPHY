@@ -1,0 +1,120 @@
+Im Allgemeinen ist das so. Im Besonderen (wir reden ja gerade über die
+Darstellung von Sachverhalten und deren Bedeutung, das war das Thema,
+was ich angeschlagen hatte), ist das ein "Nebeneffekt".
+
+
+Bei der formalen Analyse ja. Ich rede aber nicht nur vom Analysieren.
+
+Ich sollte vielleicht mal kurz die Situation beschreiben, für die das
+kontrollierte Vokabular benutzbar sein soll, was ich hier versuche zu
+erstellen (ich denk, das bin ich de.sci.philosophie schuldig, da das
+keine Informatik-Gruppe ist ;-):
+
+Eine Person, nennen wir sie Kunde, hat einen Sachverhalt vorliegen (das
+bedeutet, sie hat Interessen im Zusammenhang mit diesem Sachverhalt).
+
+Ein formales System soll erstellt werden, was den Sachverhalt geeignet
+abbildet, für den Einstzzweck des Kunden.
+
+Geeignet ist eine Abbildung insbesondere nur dann, wenn Ansprüche in
+Form von Regeln, denen das formale System genügen muss, eingehalten
+werden.
+
+Eine zweite Person, nennen wir sie Entwickler¹, analysiert nun den
+Sacherverhalt. Zudem erfasst sie besagte Regeln. Diesen Vorgang nennen
+wir "Requirement Engineering".
+
+Dann kreiert der Entwickler ein formales System (er modelliert es), und
+zwar so, dass das formale System alle Aspekte des Sachverhaltes
+modelliert, die wesentlich in der Struktur des Sachverhaltes sind, damit
+das modellierte System den Einsatzzweck erfüllen kann. Dazu modelliert
+er es so, dass es den erfassten Regeln entspricht. Diesen Vorgang nennen
+wir "Design".
+
+Der Entwickler wählt unter den möglichen Modellierungen eine aus, die
+einen möglicht guten Kompromiss zwischen Automationsgrad,
+Umsetzungsaufwand sowie Resourcenaufwand für den Betieb einer
+Automation darstellt. Die Kriterien hierfür sind vielfältig, und von
+Fall zu Fall verschieden.
+
+Dann setzt der Entwickler diese Modellierung um, indem er eine formale
+Implementierung von Ablaufbeschreibungen implementiert, für die die
+genannte Modellierung eine solche ist. Wir nennen diesen Vorgang
+Implementierung.
+
+Dann testet der Entwickler die Implementierung darauf, ob sie auch allen
+Anforderungen entspricht.
+
+Der Entwickler geht dabei aber nicht streng sequentiell vor, wie es die
+Satzanfänge mit "dann" suggerieren -da der Prozess kreativ ist (es muss
+ja ständig zwischen vielen oder sogar unendlich vielen Möglichkeiten
+gewählt weren), passiert alles auch parallel und springend, scheinbar
+durcheinander. Das nennen wir "agil". Es ist nur scheinbar
+durcheinander, weil es auch dafür wieder Regeln gibt, aber die sind
+nicht Gegenstand der Diskussion hier.
+
+Das ist die Gesamtsituation.
+
+Welcher Teil ist jetzt interessant?
+
+Ich mache folgende Änderungen (aus guten Gründen, ebenfalls hier
+nicht Thema): Die formale Modellierung des Sachverhalts sowie die
+eigentliche Modellierung des formalen Systems, was implementiert werden
+soll, fasse ich zusammen zu der Modellierung des formalen Systems, das
+implementiert werden soll.
+
+Der Entwickler modelliert gleich die zu erstellende Implementierung, die
+Modellierung des Sachverhalts ist ein Teil davon geworden, im Extremfall
+sind die beiden Modellierungen identisch.
+
+Parallel metamodelliert der Entwickler die Situation, indem er
+sie kategorisiert über eine Musteranalyse. Diese Musteranalyse wird
+solange gemacht und ausmodelliert, bis es für jedesElement im Modell
+von Implementierung/Sachverhalt auch ein Muster im Metamodell gibt, das
+dort Entität ist ("mustergetrieben"), oder aber eine
+Teilimplementierung bereits vorliegt.
+
+Der Entwickler kann jetzt statt eine Implementierung vorzulegen für
+jede Entität der Modellierung des Sachverhalts der Implementierung
+alternativ auch eine Abbildungsvorschrift erstellen, wie sich eine
+geeignete Implementierung einer Entität des Modells aus der
+Metamodellierung und der Zuordnung zum Metamodell der Entität im Modell
+ergibt. Eine solche Abbildung nennt man Compiler.
+
+FürEntwurf und Implementierung der Compiler gibt es ebenfalls Regeln,
+die nicht Gegenstand der Diskussion hier sind.
+
+Wie entscheidet der Entwickler nun, wie er hierbei vorgeht? Um hier
+sinnvolle Entscheidungen zu treffen, ist es sinnvoll, den Hintergrund
+dieser Vorgehensweise zu durchschauen. Dazu muss ich diese Situation
+beschreiben können (ich brauche ein Konzept), und ich muss sinnvolle
+Regeln für die einzelnen Vorgehensweisen angeben oft keine expliziten
+Algorithmen, weil solche Vorgehensweisen agil sein sollen, d.h. die
+Wahl der tatsächlichen Vorgehensweise bleibt absichtlich offen).
+
+Um einem Kandidaten für eine solche Entwicklerrolle also entsprechende
+Tipps geben zu können, muss ich en Konzept vorlegen. Dazu benötige ich
+ein kontrolliertes Vokabular aus dem Bereich Hermeneutik. Den Entwurf
+dafürhab ich hier vorgelegt. Das semiotische Dreieck ist Grundlage.
+
+Ich bitte nochmals darauf zu achten, dass der Text in englischer Sprache
+verfasst werden soll, so dass es hier wohl nochmals Missverständnis-
+Potential geben kann. Das Original findet sich auf
+
+<http://tcsk.pwz/evqoyjn_ererbwegnlan.zmnx>
+
+ein deutscher Übersetzungsversuch in <72362278@jfig.bwi-wtn.ag>
+
+Viele Grüsse,
+VB.
+
+¹ Der Vorgang, wie ich ihn beschreibe, dass der Entwickler das
+  Requirement Engineering macht und nicht eine dritte Person, ist so in
+  der agilen Softwareentwicklung, die ich betreibe, nicht jedoch im
+  klassischen Softwareengineering, mit dem ich mich weniger befasse -
+  dort gibt es den Requirement Engineer und den Designer als eigene
+  Rollen.
+-- 
+Nur im Staat Ferschnitz gibt es weniger Katholiken als im Vatikan.
+
+    (LTRC)

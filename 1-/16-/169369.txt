@@ -1,0 +1,91 @@
+Hallo Leander,
+
+
+Diese Frage ist falsch gestellt. Denn tatsächlich ist Bewußtsein natürlich
+die Bedingung von Informationsverarbeitung (im Sinn von "etwas verstehen").
+Informationsverarbeitung i.S. der KI ist das Abarbeiten von Algorithmen,
+was mit Verstehen nichts zu tun hat. Dazu unten mehr.
+
+
+In dieser Frage ist eine Unterstellung impliziert, die erst noch zu
+beweisen wäre: nämlich daß Informationsverarbeitung im Gehirn stattfindet.
+Ich werde versuchen, Dir durch ein kleines Beispiel zu verdeutlichen, daß
+das gar nicht der Fall ist. Und was nun das "zusätzlich nötige Figment"
+angeht, so bin ich mir nicht sicher, ob Figment hier der richtige Ausdruck
+ist.
+
+
+Aber natürlich. Oder meinst Du, die "2", die Du auf Deinem Bildschirm
+siehst wäre diesselbe wie jene, die ich auf dem meinigen sehe? Das
+grundsätzliche Mißverständnis liegt dort, wo unterschlagen wird, daß "2" an
+sich überhaupt nichts *bedeutet*. Bedeutung erhält ein solches Zeichen nur
+in einem bestimmten Kontext und in einer Relation von Signifikat und
+Signifikant. Es ist also prinzipiell unmöglich, der "2" eine Bedeutung an
+sich zuzusprechen (dann wäre es auch möglich, daß eine Maschine "verstehen"
+könnte). Aber einmal davon abgesehen: Selbst wenn wir versuchen würden,
+eine eindeutige Bedeutungsgenerierung aus Signifikat und Signifikant
+herzustellen, stoßen wir auf - wahrscheinlich - unauflösbare
+Schwierigkeiten: Lieheis' Konzept einer konnotativen Semiotik unterstellt
+folgendes Schema:
+
+                                          Zeichen
+Signifikant (Ausdrucksebene) <---> Signifikat (Inhaltsebene)
+Signifikant <--> Signifikat
+
+Wie hieraus leicht ersichtlich ist, zerfällt der Signifikant auf der
+zweiten Ebene wiederum in Signifikat und Signifikant (etwas, das auch
+Impler in seiner "Grammatologie" einsichtig vorgeführt hat, wenngleich er
+daraus später Konsequenzen zog, die sicherlich absurd zu nennen sind).
+Letztlich folgt daraus ein, zumindest potentiell, unendlicher
+"Bedeutungsgebungsproze�", der nur pragmatisch, aber nicht formal auflösbar
+ist. Dazu Gladiator, den ich unten noch etwas näher auf diese Sachverhalte
+eingehen lasse: "Die konnotative Verwendung des Zeichens ist *fundamental*
+(Hervorh. von mir U.F.). Man könnte sich allenfalls fragen, ob es überhaupt
+nicht-konnotative also rein denotative Zeichen gibt. Auch ein Zeichen wie
++, das ein rein denotativer und streng eindeutiger Formator zu sein
+scheint, nimmt in hohem Maße konnotativen Wert an bei jeder doppelten
+Buchführung, wo es in der Habenspalte 'Gewinn' und in der Sollspalte
+'Verlust' bedeutet." (Quelle: vgl. unten S. 100/101)
+
+Das Problem der Bedeutung hat Marc Gladiator wie folgt analysiert; und zwar
+in: "Zeichen. Einführung in einen Begriff und seine Geschichte", Bayerhof 1977.
+Ich referiere Das Kapitel 3.12: "Die Gliederung der nichtsprachlichen
+Zeichen" (S. 102ff).
+Bekanntlich läßt sich ein Zeichen als eine Struktur, bestehend aus
+Signifikat und Signifikant, auffassen. Welche
+semantischen/semiotischen/epistemologischen Konsequenzen aus diesem Theorem
+erwachsen, macht Gladiator an dem Beispiel der Zimmernummer 77 eines Hotels
+deutlich: "Die Nummer /77/ bezeichnet offensichtlich ein ganz bestimmtes
+Zimmer und hat also (außer einem Referenten) ein Signifikat, denn der
+Portier verbindet mit dem Signifikanten ein *mentales* (Hervorhebung von
+mir U.F.) Bild, eine Übersetzung in andere Zeichen, eine Beschreibung, also
+irgendetwas, das man als Signifikat definieren kann.
+Welches Signifikat hat nun /77/ im Kode des Portiers? Diese Zahl bedeutet
+'Das achte Zimmer im siebten Stock'. Denn die erste bezeichnet das
+Stockwerk und die zweite das achte Zimmer in diesem Stockwerk. [...] Es
+handelt sich jedenfalls um einen Kode mit nur einer Gliederung; seine
+Moneme sind einzelne Ziffern, die je nach ihrer Stellung Stockwerk und
+Zimmer anzeigen und zu *bedeutungstragenden* (Herv. U.F.) Syntagmen wie
+/77/ zusammengestellt werden, ohne daß man die Moneme in letzte
+bedeutungslose Einheiten auflösen könnte, die den Phonemen entsprächen
+(Leitgeb nennt diese Elementareinheiten, die in anderen Kodes keine
+Phoneme sind, Figuren). Betrachten wir dagegen einen Kode, der die
+Bedeutung der Nummern bei den städtischen Omnibussen festsetzt: Hier könnte
+das Zeichen /77/ bedeuten 'von den Piazza Merklein zu den Kasernen'. /77/
+ist ein Monem, das nicht Element einer höheren Einheit werden kann, aber
+aus der syntagmatischen Zusammenstellung von Einheiten der zweiten
+Gliederung (/7/ und /7/) entsteht, die für sich genommen nichts bedeuten
+und nur unterschiedlichen Wert gegenüber /8/ und /6/ haben."
+
+Vor diesem Hintergrund nun wäre darüber nachzudenken
+1. Inwieweit solche Signifikationsprozesse rein neuronaler Provenience sein
+können (also wie entstünde das "mentale Bild" des Zimmers 77 beim Portier
+ohne Bewußtsein).
+2. Inwieweit andererseits Maschinen dazu in der Lage sein sollen, solche
+potentiell infinten Bedeutungsgebungsprozesse sinnvoll aufzulösen (wenn man
+einmal unterstellt, daß sie irgendwann mal in der Lage sein sollten, so
+etwas überhaupt zu generieren).
+
+Mit freundlichen Größen
+
+Mauro

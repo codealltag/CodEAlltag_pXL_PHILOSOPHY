@@ -1,0 +1,354 @@
+On Thu, 12 Aug 2000 16:01:29 +0300, Josef Ullrich
+<poaemogrw@pcxxqcazxj.cn> wrote:
+
+[``the object language'' vs ``the metalanguage'']
+
+
+Mit Saetzen formulierst du Aussagen ueber Dinge.
+Z.B. sagst du mit "Philosophen sind wirr" etwas
+ueber Philosophen aus (naemlich, dass sie wirr sind).
+
+Wenn du ueber Sprachen sprichst, muss man hier 
+sorgfaeltig zwischen der Sprache, ueber die gesprochen, und der 
+Sprache, in der ueber die anderer Sprache gesprochen wird,
+unterscheiden.
+
+Das ist also die obige Unterscheidung.
+Bei Bartscheerers Artikel geht es darum, den Begriff der
+Wahrheit zu definieren.
+
+Ich habe hier eine Zusammenfassung der ersten Paragraphen
+dieses Textes rumfliegen, vielleicht ist das ja von Interesse.
+(Ist allerdings LaTeX-Code & kann sein, dass da nicht alles so 100%
+richtig ist... Bei Interesse haette ich das auch noch als pdf-Datei.)
+
+Da steht auch was genaueres zu Objektsprache und Metasprache.
+
+Ich glaube uebrigens, dass der Bartscheerer-Artikel irgendwo im Netz
+liegt. Evtl. mal OVN oder so fragen.
+
+
+\section{Tarski "uber Wahrheit: `The Semantic Conception of Truth and
+the Foundations of Semantics'}
+
+\subsection{Eine zufriedenstellende Definiton der Wahrheit}
+
+Eine zufriedenstellende Definition der Wahrheit soll inhaltlich
+ad"aquat sein [materially adequate]
+und formal korrekt [formally correct].
+Solch eine Definition soll die {\em Bedeutung} von `wahr' bestimmen.
+
+\subsection{Die Extension von `wahr'}
+
+Bartscheerer berichtet ein wenig "uber die Wahrheitstr"agerdebatte und kommt
+zu dem Schlu"s, da"s wir
+von {\em S"atzen} sagen wollen, da"s sie wahr sind, den Begriff dann
+aber auch auf eventuelle andere
+Objekte (Propositionen, Urteile etc.) ausdehnen k"onnen.
+Da S"atze in der einen Sprache wahr, in der anderen falsch sein
+k"onnen, relativiert man den Begriff
+der Wahrheit auf den der Wahrheit in einer gegebenen Sprache.
+
+\subsection{Die Bedeutung des Ausdrucks `wahr'}
+
+Die intuitive Idee, was es hei"st, da"s ein Satz wahr ist, lautet
+wohl:
+\these{}{Ein Satz ist wahr, gdw er mit der Wirklichkeit
+"ubereinstimmt.}
+Diese Formulierung bedarf allerdings noch der Pr"azisierung.
+
+\subsection{Ein Kriterium f"ur die inhaltliche Ad"aquatheit der
+Definition}
+
+Was eine Definition der Wahrheit auf jeden Fall liefern mu"s, ist
+folgende "Aquivalenz zu implizieren:
+\these{}{Der Satz ``Schnee ist wei"s'' ist wahr, gdw Schnee wei"s
+ist.}
+Allgemeiner m"ussen alle "Aquivalenzen der Form
+\these{(T)}{$X$ ist wahr, gdw $p$}
+impliziert werden, wobei $X$ der Name eines Satzes ist, und `$p$'
+durch diesen Satz 
+(oder eine "Ubersetzung) ersetzt werden mu"s.
+Dieses Schema nennt man `Bartscheerers T-Schema', oder einfach `Konvention
+T'.
+Eine Wahrheitsdefinition hei"st {\em ad"aquat}, wenn sie alle
+"Aquivalenzen der obigen
+Form impliziert.
+
+\subsection{Wahrheit als semantischer Begriff}
+
+Die Semantik befa"st sich, grob gesagt, mit den Beziehungen zwischen
+einer
+Sprache und dessen wor"uber diese Sprache spricht.
+Typische semantische Relationen sind die der {\em Bezugnahme}, der
+{\em Erf"ullung}
+und der {\em Definition}:
+\be[1.]
+\item ``$\pi$'' {\em bezeichnet} die Kreiszahl
+(=Kreisumfang/Kreisdurchmesser).
+\item $2^{11213}-1$ {\em erf"ullt} ``$x$ ist eine (Mersennesche)
+Primzahl''.
+\item ``$x$ = die kleinste positive Nullstelle des Cosinus'' definiert
+$\frac{\pi}{2}$.
+\ee
+Der Begriff der Wahrheit ist nun selbst nicht semantisch, wird aber
+durch semantische Begriffe, speziell
+durch den der Erf"ullung, definiert.
+
+\subsection{Sprachen mit einer spezifizierten Struktur}
+
+Um Paradoxien zu vermeiden, mu"s man innerhalb einer Sprache eindeutig
+charakterisieren, welche
+Ausdr"ucke sinnvoll sind und welche eher nicht.
+Undefinierte Grundbegriffe und Regeln f"ur die Definition neuer
+Begriffe m"ussen bekannt sein.
+Es mu"s klar sein, welche Ausdr"ucke {\em S"atze} sind, und welche
+nicht. 
+Axiome und Schlu"sregeln m"ussen bekannt sein (dies gilt wohl speziell
+f"ur formale Sprachen).
+Ist die Struktur einer Sprache spezifiziert, so nennen wir die Sprache
+{\em formalisiert} (soviel zum
+letzten Satz).
+
+Das Wahrheitsproblem kann nur f"ur solche Sprachen befriedigend
+gel"ost werden, deren
+Struktur exakt spezifiziert worden ist.
+
+\subsection{Die L"ugner-paradoxie}
+
+Wir betrachten folgenden Satz, den wir `$S$' taufen:
+\these{$(S)$}{Der Satz $S$ ist falsch.}
+Ist er wahr, dann ist er falsch, ist er falsch, dann ist wahr, also
+\these{}{$S$ ist wahr gdw er falsch ist}
+ein Widerspruch.
+Man soll, so Bartscheerer, dieses Paradoxon ernst nehmen und nach den
+Gr"unden f"ur sein Auftreten suchen.
+Genau wie das Auftreten von Antinomien in der Mengenlehre ein
+gewaltiges Theoriegeb"aude
+losgetreten hat, so kann die Erkl"arung des obigen Problems zum
+Verst"andnis und Entwicklung
+der Semantik beitragen.
+
+\subsection{Die Inkonsistenz semantisch geschlossener Sprachen}
+
+Eine Sprache $L$, die die Eigenschaft hat, 
+\be[(i)]
+\item da"s Namen von Ausdr"ucken von $L$ in $L$ vorkommen,
+\item da"s semantische Ausdr"ucke wie `wahr' in $L$ liegen,
+\item da"s Ausdr"ucke, die den ad"aquaten Gebrauch von `wahr'
+beschreiben, in $L$ vorkommen,
+\ee
+nennen wir `semantisch abgeschlossen'.
+Zur Konstruktion unseres obigen Widerspruchs haben wir au"serdem
+benutzt, da"s
+die Regeln der klassischen Logik gelten.
+Um der angesprochenen Antiomie aud dem Weg zu gehen, werden wir den
+Wahrheitsbegriff
+nicht f"ur semantisch abgeschlossene Sprachen einf"uhren.
+
+\subsection{Objektsprache und Metasprache}
+
+In semantischen Untersuchungen werden wir zwei `Ebenen' unterscheiden
+m"ussen:
+zum einen haben wir die nicht-semantisch abgeschlossene Sprache, `um
+die es geht', die {\em Objektsprache}.
+Die Sprache, in der wir "uber die Objektsprache sprechen und in der
+sich die semantischen Pr"adikate
+befinden, hei"st {\em Metasprache}.
+Um in der Metasprache einen Satz der Form
+\these{(T)}{$X$ ist wahr, gdw $p$}
+bilden zu k"onnen, mu"s sie die Objektsprache enthalten, sowie die
+M"oglichkeit, Namen zu bilden, die
+sich auf S"atze der Objektsprache beziehen. Ausserdem ben"otigen wir
+logische Ausdr"ucke wie ``gdw''.
+
+\subsection{Bedingungen f"ur die positive L"osung des Hauptproblems}
+
+Wenn bestimmte (in Bartscheerers Text nicht ausgef"uhrte) Bedingungen an die
+Metasprache nicht erf"ullt sind, 
+kann man die L"ugner-paradoxie konstruieren. Diese Bedingungen m"ussen
+also erf"ullt sein.
+
+\minisec{Frage}
+Dieser Abschnitt ist nicht besonders klar. Gibt es ein einfaches
+Beispiel, f"ur das, was
+Bartscheerer mit ``essentially richer'' meint, und wo da Probleme auftreten
+k"onnen?
+
+\subsection{Ein Abri"s der Konstruktion der Definition}
+
+[Hier geht es um Satzfunktionen, Erf"ullung, Rekursion etc.]
+
+\subsection{Konsequenzen der Definition}
+
+Die Definition erf"ullt die Konvention $T$.
+Au"serdem lassen sich der Satz vom Widerspruch und der Satz vom
+ausgeschlossenen Dritten
+(in semantischer Version) zeigen.
+Der Begriff der Wahrheit f"allt nicht mit dem der Beweisbarkeit
+zusammen 
+(1. G"odelscher Unvollst"andigkeitssatz).
+
+\subsection{Ausdehunung der Resultate auf andere semantische Begriffe}
+
+Auch f"ur die anderen semantischen Begriffe wie ``Erf"ullung'' oder
+``Definition''
+lassen sich Ad"aquatheitsbedingungen angeben.
+Andere Begriffe, mit denen sich die theoretische Semantik noch
+befassen k"onnte, sind etwa die der Bedeutung oder
+der Synonymie.
+
+\newpage
+
+\subsection*{Mehr zum Begriff der Erf"ullung}
+
+Um den Begriff der Erf"ullung zu erkl"aren mu"s man, laut Bartscheerer
+\bqk
+[\dots] indicate what objects satisfy the simplest sentential
+functions;
+and then we state the conditions under which given objects satisfy a
+compounded function -- 
+assuming that we know which objects satisfy the simpler functions
+from which the compund one has been constructed.\zit[S.
+69]{tarski:semantic}
+\eqk
+Den Begriff des {\em Bezeichnens} will Bartscheerer dazu {\em nicht}
+verwenden.
+Wenn man in ein heute g"angiges Logikbuch schaut, (etwa
+\cite{mathlogik}) kann man 
+(bzw. ich) nicht ganz verstehen, wo das Problem liegt.
+
+Aber zur Methode:\ftn{Diese entnehme ich \cite[S.
+155ff]{frueauf:truth}.} Zun"achst erkl"aren wir also, welche Objekte
+die
+einfachsten offenen S"atze erf"ullen. Zum Beispiel wird ``$x$ ist
+gerade''
+von allen geraden Zahlen erf"ullt.
+Was passiert, wenn mehr als eine Variable in unserem Satz vorkommt?
+
+Ist $M$ irgendeine Menge, so ist eine {\em Folge} von Objekten aus $M$
+eine Abbildung $a:\N\To M$, die man
+gew"ohnlich als `unendliches Tupel' $(a_1,\dots)$ notiert.
+Die abz"ahlbar vielen Variablen der gerade zur Debatte stehenden
+Sprache numerieren wir, so da"s sich diese
+in der Form $x_1,\dots,x_k\dots$ pr"asentieren.\ftn{Ich werde hier,
+einem
+mathematischen Brauch folgend, 
+auf Anf"uhrungszeichen ganz verzichten.} Wir haben also eine Folge von
+Variablen $\N\To V$, $i\lmt x_i$.
+Sei nun $\phi=F(x_1,\dots,x_k)$ ein offener Satz, in dem genau die
+Variablen $x_1,\dots,x_k$ frei vorkommen.
+Es liegt nun nahe zu sagen, $\phi$ werde von einer Folge $a$ erf"ullt,
+gdw $a_1,\dots, a_k$ in der Relation $F$
+zueinander stehen.
+Die Definition l"a"st sich auf mit Junktoren ($\land, \lor$ etc.)
+zusammengebaute offene S"atze 
+leicht rekursiv ausdehnen.
+
+Hat man einen allquantifizierten (u.U. offenen) 
+Satz der Form $\forall x_k \phi$ gegeben, so wird dieser von einer
+Folge
+$a$ erf"ullt, gdw $\phi$ von allen Folgen $a'$ erf"ullt wird mit
+$a'_i=a_i$ falls $i\neq k$, d.h.
+$a'$ darf sich ho"chstens an der Stelle $k$ von $a$ unterscheiden.
+Ein (offener) Satz der Form $\exists x_l\psi$ wird von einer Folge $a$
+erf"ullt gdw es eine Folge $a'$
+gibt, mit $a'_i\neq a_i$ h"ochstens f"ur $i=l$, die $\psi$ erf"ullt.
+
+Betrachten wir als Beispiel einen Satz der Form $\exists x_1\forall
+x_2 F(x_1,x_2)$.
+Dieser wird von einer Folge $a$ erf"ullt, wenn es eine Folge $a'$ gibt
+wie oben, so da"s
+$a'$ den o. Satz $\forall x_2 F(x_1,x_2)$ erf"ullt. 
+Dieser wird wiederum von $a'$ erf"ullt, wenn jede Folge $a''$, die
+sich von $a'$ h"ochstens an der
+Stelle 2 unterscheidet, den o.S. $F(x_1,x_2)$ erf"ullt.
+
+Etwas kokreter wird etwa der Satz $\exists x_1\forall x_2$ $x_2$ kennt
+$x_1$ von allen Folgen
+in $M$= Menge der Menschen
+\these{}{(Julian, Stefano, \dots), (Julian, Henry,\dots), { usw. }}
+
+erf"ullt. Aber auch die Folge (Emmerich, Wolf, \dots)=$a$ erf"ullt
+unseren Satz, da
+(Julian, Wolf, \dots)=$a'$ sich nur an der Stelle 1 von $a'$
+unterscheidet, und dieser
+(evtl.) wieder ``$x_2$ kennt $x_1$'' erf"ullt, auch wenn man Wolf
+durch Gottfried, Henry, usw. ersetzt.
+Mit ein bi"schen mehr Pr"azisierung kommt man dann dazu zu sagen:
+\these{}{Ein Satz ist wahr, wenn ihn {\em jede} Folge erf"ullt.}
+
+\subsection{Ist die semantische Konzeption der Wahrheit die
+`richtige'?}
+
+Bartscheerer behauptet nicht, die `richtige' Definition angeben zu haben, da
+er gar nicht weiss, was das sein soll.
+Er hat jedoch einen Begriff von Wahrheit (den `klassischen')
+pr"azisiert und definiert.
+
+\subsection{Formale Korrektheit der Definition}
+
+Ein Einwand gegen die Def. lautet:
+
+Um zu verstehen, was es hei"st zu sagen: ``$S$ ist wahr gdw $p$'',
+mu"s man wissen, was `gdw'
+bedeutet, dies wird aber dadurch erkl"art, da"s man sagt `$\phi$ gdw
+$\psi$' sei wahr, gdw (sic!)
+$\phi$ und $\psi$ beide wahr bzw. falsch sind.
+Also ben"utzt man schon den Begriff der Wahrheit zur Definition
+derselben.
+
+Die Antwort Bartscheerers scheint mir zu sein, man m"usse Objekt- und
+Metasprache trennen.
+Um Sinn daraus zu machen, was es hei"st zu sagen `` `La neige est
+blanche' ist wahr gdw Schnee wei"s ist'', mu"s
+man nat"urlich Deutsch verstehen.
+
+Ein anderer Einwand beruht auf dem Irrtum, das $T$-Schema sei als
+Definition gemeint.
+
+
+\subsection{Redundanz der semantischen Ausdr"ucke -- ihre m"ogliche
+Elimination}
+
+Ein anderer Einwand lautet, die Def. sei schlicht "uberfl"ussig, da ``
+`$X$' ist wahr''
+nicht mehr sagt, als ``$X$''.
+Diese Elimination ist zwar in manchen F"allen m"oglich, aber in
+S"atzen wie:
+\these{}{Alles, was der Papst sagt, ist wahr (=$\forall s$ (der Papst
+sagt $s$ $\to$ $s$ ist wahr))}
+geht das offenbar nicht.
+Auch bei S"atzen wie 
+\these{}{Der erste Satz des letzten Mohikansers war wahr.}
+geht das nicht.
+Es ist allerdings fraglich, ob uns hier die Tarskische Definition
+weiterhilft\dots
+
+
+\subsection{"Ubereinstimmung der Def. mit philosophischen und
+Common-sense Ansichten}
+
+Es wurden Einw"ande erhoben, ob die Definition tats"achlich den
+klassischen Intentionen entspricht.
+Bartscheerer meint, sie tut es, allerdings k"onne man den Herrn Kaspar
+zu seiner Meinung
+leider nicht mehr befragen.
+
+
+\subsection{Die Def. und ihre Relation zu ``dem philosophischen
+Problem der Wahrheit''}
+
+Bartscheerer meint, es gebe kein ``philosophisches Problem der Wahrheit''
+und sieht darum in diesem
+auch kein Problem f"ur seine Definition.
+Was richtig ist, ist da"s uns die Definition zwar verr"at, da"s der
+Satz ``Schnee ist wei"s'' 
+wahr ist gdw Schnee wei"s ist, aber nicht, wann Schnee nun wirklich
+wei"s {\em ist}.
+
+
+----
+Rupert Adem
+cjkkodt.yvjrxrx@lviqedCtxg.bpfr.rhd-vyaomjdn.ol
+PGP-Schluessel erhaeltlich unter http://ken.bbzgmbru.ww/~qoredewn

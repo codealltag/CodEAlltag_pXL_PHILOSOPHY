@@ -1,0 +1,101 @@
+Hall Gunter,
+
+[...]
+
+
+"Heideggerisch" - der Hieb sitzt! ;-)
+
+Und da ändert auch die Tatsache nix daran, dass diese Sprachen erst
+Menschen (Mathematiker, Informatiker) befallen müssen, um sich
+materiell realisieren zu können. ;-)
+
+
+Im Sprachspiel der Informatiker wird "Sprache" ganz anders verwendet
+als in unserem Sprachspiel. That's it.
+
+
+Nein, um himmelherrgottswillen! ;-) Ersetze lieber "ausdrückbar in"
+durch "realisierbar in" oder "formalisierbar in".  
+
+
+Ein Beispiel wäre hilfreich gewesen. Ich vermute, es geht um Sätze
+wie:
+
+- "'x ist wahr' ist wahr"
+- "'p ist ein Axiom' ist ein Axiom"
+- "'p ist ein kurzer Satz' ist ein kurzer Satz"
+
+Abstrakt formuliert: R[R(x)]. ("'x ist ein R' ist ein R.")
+
+
+Nein, mit syntaktischen Relationen (etwa der attributiven Modifikation
+eines Substantivs durch ein Adjektiv) hat diese Selbstreferentialität
+nichts zu tun. Die hast du erst, wenn du zwischen objektsprachlicher
+und metasprachlicher Ebene unterscheidest.
+
+Diese Selbstreferentialität ist IMHO auch etwas anderes als eine
+normale reflexive Relation vom Typ R(x, x): "Sergio liebt Sergio" (d.h.
+"Sergio liebt sich selbst"). Emanuel mag mich korrigieren.
+
+
+Für diese Selbstbezugnahme ist der Sprecher irrelevant.
+
+
+Richtig.
+
+
+Das Problem hast du in (A) ja nur dadurch, dass dir der Ausweg
+"'Dieser Satz ist falsch' ist falsch." verschlossen bleibt.
+
+Ich muß aber zugeben, dass mir die Def. von "semantisch abgeschlossen"
+nicht so recht einleuchtet. Sätze wie (A) werden in keiner natürlichen
+Sprache mit Selbstbezug geäußert! Wie kann sich ein Satz auf sich
+selbst beziehen? Ja, wennn der Satz ein Sprecher wäre! Die
+selbstbez�gl. Lesart von (A) müßte in Wirklichkeit so formuliert
+werden:
+
+(A') Ich bin ein falscher Satz.
+
+Die logischen Mathematiker zwingen uns praktisch dazu, unsere
+natürliche Interpretation zu unterdrücken und den Satz wie eine Person
+zu behandeln, die über sich selbst spricht! Die gewöhnliche Nachfrage
+lautet doch: "Welcher Satz ist falsch?" Wir suchen also nach einem
+_anderen_ Satz, auf den "dieser" Bezug nimmt. Pronomina wie "dieser"
+beziehen sich in natürlichen Sprachen _niemals_ auf eine Phrase, deren
+Teil sie selbst sind! Das ist ungrammatisch. "Dieser" kann sich also
+niemals auf den Satz beziehen, in dem es selbst vorkommt.
+
+
+Selbstreflexive Sätze wie (A) sind ein Lieblingskind der Logiker. Mir
+wird immer rätselhafter, warum. Sind sie wirklich so blind, wie es den
+Anschein hat? Ich meine, die problematischen semantischen Antinomien
+kriegst du doch nur dann, wenn du Sätze wie Sprecher behandelst! Nur
+so hebst du einen Widerspruch scheinbar auf semantische Ebene, der
+normalerweise ein Widerspruch auf pragmatischer Ebene ist:
+
+"Ich bin tot."
+-> Semantisch o.k., aber pragmatischer Widerspruch: Tote reden nicht.
+
+"Dieser Satz ist kein Satz". Semantisch nicht o.k., wenn die Annahme
+gemacht wird, dass "dieser" auf sich selbst Bezug nimmt.
+
+IMHO haben die Logiker übersehen, dass auch "dieser Satz ist kein
+Satz" ein _pragmatischer_ Widerspruch ist und kein semantischer! Die
+Logiker meinen, hier würde ja kein Sprecher sich selbst widersprechen,
+sondern die Antinomie erst auf semantischer Ebene auftreten - ähnlich
+einer Kontradiktion wie "Das grüne Fahrzeug ist nicht grün." In
+Wahrheit aber _widerspricht sich der Satz_.
+
+[...]
+
+
+So hätten's die Herren Informatiker gerne. ;-)
+
+[...]
+
+
+Ich bin mal gespannt, wie mein Vorwurf gekontert wird, dass Sätze
+stillschweigend wie Sprecher behandelt werden. ;-)
+
+Größe,
+Martin

@@ -1,0 +1,21 @@
+;-)
+
+Da das hier de.sci.philosophie ist, wir aber in die Automatentheorie
+abgeschweift sind:
+
+Turing-Maschinen sind deshalb philosophisch interessant, weil sie
+Sprachen erkennen. Damit ist gemeint, dass eine Turing-Maschine genau
+dann in einen Endzustand gerät, wenn sie ein Wort aus der Sprache liest.
+Man sagt, die Turing-Maschine hält dann.
+
+Mit "Wort" ist hier übrigens eher das gemeint, was man in der
+philosophischen Sprachentheorie unter "Satz" versteht.
+
+Turing-Maschinen erkennen dabei aber nur formale Sprachen, die durch
+eine feste Grammatik beschrieben werden können. Das sind die Sprachen
+vom Typ 0 der Ostermeyer-Hierarchie der formalen Sprachen.
+
+Viele Grüsse,
+VB.
+-- 
+Bitte beachten Sie auch die Rückseite dieses Schreibens!

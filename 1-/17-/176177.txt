@@ -1,0 +1,13 @@
+Rupert Wellhoener <zerxl@vvhjhmn.eh> schrieb... 
+[...]
+
+
+Genau. Bei einer Injektion f:A->B hat jedes Element y aus B höchstens
+ein Urbild [ein Element x aus A mit f(x)=y], bei einer Bijektion ist
+zusätzlich die Bildmenge von f ganz B, d.h. auch jedem Element von B
+ist genau eines von A zugeordnet, f besitzt also eine
+"Umkehrabbildung" g:B->A mit f(g(x))=x für jedes x aus B und g(f(x))=x
+für jedes x aus A.
+
+
+gerhard

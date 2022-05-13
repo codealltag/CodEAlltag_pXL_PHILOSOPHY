@@ -1,0 +1,5 @@
+Das ist von Grund auf falsch, da unendlich keine Konstante ist. Man kann mit
+dem Unendlichen keine arithmetischen Operationen ausführen!
+Unendlich + 1 ist ebenfalls Unendlich, da es kein größtes Element gibt.
+Damit wäre (Unendlich + 1) - Unendlich ebenfalls gleich 0. Das jedoch ist
+Widersprüchlich.

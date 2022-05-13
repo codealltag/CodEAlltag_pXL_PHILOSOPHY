@@ -1,0 +1,89 @@
+Das obige zeigt, dass Du das Unendlichkeitsaxiom, um das es hier
+schließlich geht, nicht verstanden hast.
+Du kannst die Gesamtheit aller natürlichen Zahlen (hier oft "Menge der
+nat. Zahlen" genannt) nicht aufschreiben, weder theoretisch noch
+praktisch. Eine unendliche natürliche Zahl könntest Du ebensowenig
+aufschreiben, wenn es denn eine gäbe.
+Du kannst also deshalb nicht _alle_ unendlich vielen natürlichen
+Zahlen aufschreiben, da Du damit mindestens _eine_ unendliche
+natürliche Zahl aufschreiben müsstes. Beweis: Alle endlich viele
+endlichen natürliche Zahlen sind, zumindest theoretisch,
+aufschreibbar.
+
+Wenn Du von unendlich vielen Zahlen sprichst, sprichst Du doch von
+einer Anzahl von Zahlen. Was für eine Zahl soll dies nun sein? Unsere
+Zahlen zum zählen sind nun einmal die natürlichen Zahlen.
+
+Wenn es eine Anzahl aller endlichen natürlichen Zahlen gäbe, gäbe es
+eine Zahl die gleich ist wie die größte natürliche Zahl. Denn
+offensichtlich zählen sich die n e |N selbst ab: 1 ist die 1. Zahl, 2
+die zweite, etc. Da es keine größte natürliche Zahl gibt, gibt es
+auch keine Anzahl aller natürlichen Zahlen.
+
+Gibt es nun eine Zahl, die um 1 größer ist als die größte
+natürliche Zahl bzw. die Anzahl aller natürlichen Zahlen?
+Da es keine größte natürliche Zahl gibt, gibt es auch keine Zahl,
+die um 1 größer ist. Jede Zahl ist um 1 größer als ihr Vorgängere,
+ausser die 1 selbst. Darum ist jede Zahl, die um 1 größer ist als
+irgend ein n e |N, selbst Element von |N.
+
+Jede Anzahl, jede, ist als natürliche Zahl angebbar, aus dem einfachen
+Grund, da die natürlichen Zahlen mit der Schrittweite 1 alle Anzahlen
+durchlaufen. Und damit jede denkbare Anzahl erfasst.
+Neben dieser Tatsache bezüglich fertigen, aktualen Mengen, kann man
+noch von potentiellen, nie fertig werdenden Mengen sprechen, denen
+keine feste Anzahl zuzuweisen ist, da ihr Umfang unbegrenzt ist.
+
+Es gibt keine aktual unendlichen Mengen, da eine solche Menge dann eine
+aktual unendliche Zahl enthalten müsste.
+
+
+Die Menge der natürlichen Zahlen kann so geschrieben werden:
+
+1
+2
+3
+.=2E.
+
+
+oder auch so
+
+o
+oo
+ooo
+.=2E.
+
+Dies ist die Folge der natürlichen Zahlen in ihrer unitären
+Stellenschreibweise mit dem Symbol bzw. Ziffer "o" (im Gegensatz dazu
+kann man für die binäre Schreibweise  z.B. "0" und "1" benutzen).
+
+Nun gehen wir nach folgendem Algorithmus vor:
+Wir beginnen mit der 1 in unitärer Schreibweise
+
+o
+
+Nun rücken wir diese 1 um eine Spalte nach rechts und schreiben in die
+1=2E Spalte zwei Ziffern, also die Zahl 2 (senkrecht):
+
+oo
+o
+
+Wieder eins nach rechts und vorne drei Ziffern, also die 3, dazu:
+
+ooo
+oo
+o
+
+Auf diese Art kann man immer weiter machen. Da diese Konstruktion der
+vollständigen Induktion mit der Nachfolgeroperation bzw. den
+Peano-Axiomen folgt, haben wir hier, aktual vervollständigt gedacht,
+die Menge der natürlichen Zahlen vorliegen.
+Nun frage Dich, wie diese Mengen unendlich werden kann, ohne dass in
+der ersten Spalte unendlich viele Ziffern stehen?
+
+Ich gebe zu, dass das alles nicht so einfach ist ...
+.=2E. weil man immer wieder zwischen den zwei alternativen
+Anschauungsweisen umklappen kann. Aber beide sind logisch und legitim.
+
+Gruß
+Werner Merschformann

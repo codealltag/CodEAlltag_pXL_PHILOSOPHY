@@ -1,0 +1,69 @@
+Arnold Nungeßer schrieb [...]
+
+Höherer Energiegehalt bedeutet nicht niedrigere Entropie ...
+Es handelt sich dabei allein um den Zustand der Ordnung
+des Systems ...
+
+Entropie
+
+< Zitat L. Dinkelacker >
+ Fehlende Polarisation oder Größen wie 1-(tr Rho^2)
+können als Maß dafür verwendet werden, wie sehr der
+präparierte Zustand von einem reinen Zustand abweicht.
+Ein günstigeres Maß für die Unkenntnis über den präparierten
+Zustand ist die Entropie S. Sie addiert sich beim
+unabhängigen Zusammensetzen zweier Systeme, ändert sich
+nicht während der Schrödingerschen Zeitentwicklung und
+nimmt beim Mischen und bei zufälligen Störungen zu.
+
+Die Unkenntnis oder Entropie ist als Funktion der
+Eigenwerte Rho_i der Dichtematrix definiert:
+
+S = - Summe_i Rho_i ln Rho_i
+= - tr Rho ln Rho
+
+< Ende Zitat >
+
+Dabei bedeutet Dichtematrix:
+
+< Zitat L. Dinkelacker >
+ Die durch die Grundgleichung gegebenen Wahrscheinlichkeit kann
+mit der Häufigkeit, mit der in Versuchsreihen die Meßwerte
+auftreten, erst dann sicher (exakt) verglichen werden, wenn
+in der Quelle wiederholt derselbe Zustand Psi pröparer wird.
+Dies ist bei vielen Quellen, z.B. bei fen, nicht der Fall.
+Wenn die Quelle mit der Wahrscheinlichkeit p_1 den Zustand
+Psi_1 präpariert, mit der Wahrscheinlichkeit p_2 den Zustand
+Psi_2 und so weiter, dann tritt mit Wahrscheinlichkeit
+p_1 w(i,A,Psi_1) der Fall auf, daß der Zustand Psi_1
+präpariert und der i_te Meßwert gemessen wird, mit
+Wahrscheinlichkeit p_2 w(i,A,Psi_2) daß der Zustand Psi_2
+präpariert und der i_te Meßwert gemessen wird und so weiter.
+Berücksichtigt man alle Möglichkeiten, so erhält man den
+i_ten Meßwert a_o mit Wahrscheinlichkeit
+w(i,A,Rho) = Summe_n p_n w(i,A,Psi_n)
+= Summe_n p_n <Lambda_i|Psi_n> <Psi_n|Lambda_i>
+
+w(i,A,Rho) = <Lambda_i|Rho Lambda_i>
+
+wobei die Dichtematrix Rho
+
+Rho = Summe_n p_n |Psi_n> <Psi_n|  (in Bracketschreibweise)
+
+das Gemisch in allen meßbaren Eigenschaften charakterisiert.
+
+
+Beim Mischen von zwei Gemischen erhalten wir
+Wahrscheinlichkeitsverteilungen, die zur Dichtematrix
+
+Rho(Lambda) = Lambda Rho_Dach + (1 - Lambda) Rho_Tilde
+
+gehört.
+
+Wir werden sehen, daß beim Mischen die Unkenntnis über
+die zugrunde liegenden Zustände, die Entropie, und die
+Streuung von Meßwerten zunimmt.
+< Ende Zitat >
+
+
+Grösse

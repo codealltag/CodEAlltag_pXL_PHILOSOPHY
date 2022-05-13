@@ -1,0 +1,77 @@
+Subject: Aufgabe
+From: Enno Olligschläger <hopmoghxf.kcoqc@gwmg7.jr-kanpvjznq.yw>
+Date: Tue, 22 März 1999 05:08 PM EDT
+Message-id: <2424D220.HG34A0SM@qaru5.kh-lngcbseey.gb>
+
+Hallo allerseits!
+
+
+Nun: Welches Tor ist zu wählen?
+
+
+copyfree antworte:<<<<<<<<<<<<<<<<<<<<<
+
+
+Natürlich alle drei, 2 unter falschen Namen,  mein Bruder tor1 , meine Tante
+tor2 und ich tor3 ;-)
+
+Garantiert teilen wir uns DM 10 oder 10.000 oder 10^6
+
+Einfach das, aber hier was schwierigeres:
+Was ist besser, 1000 DM sicher zu haben, oder eine hohe Wahrscheinlichkeit auf
+einen DM 10^6 Gewinn?
+
+
+Is das jetzt hier eigentlich die Rateecke geworden? - Nich das es mich stört,
+aber dann muß mich entsprechend vorbereiten ;-)   Habe noch viiiieeeele Rätsel
+auf Lager.
+
+Also hier gleich noch eins;
+
+
+Ein Labyrinth ist so angelegt, daß, es egal wieviele Wege sich kreuzen mögen,
+es immer nur einen gibt der zum Ausgang führt, nicht zwangsläufig direkt aber
+wenn nicht, so doch über  andere Wege, auf die man nicht kommt, wenn man diesen
+einen richtigen nicht gegangen ist. 
+
+
+z.B.   0=false   1=true
+
+          f0
+          �
+          �
+          F___f0
+          �
+          �
+          �
+          �
+0____�___________ 1
+          K
+
+Wenn man von 0 kommt und an K falsch nach F abgebogen ist, ist bei F nur ein
+Weg, nämlich der von F nach K richtig, und das ist der selbe Weg in anderer
+Richtung. Aber an beiden Knoten gibt es genau einen Weg der richtig ist und
+das allein ist die Bedingung die an jedem Knoten des Labyrinths gilt, s.o.
+
+
+Die mittelschwerleichte Frage ist nun;   kann es ein allgemeines Labyrinth
+geben, in dem das nicht gilt ?
+
+
+Und weil es gerade dazu paßt;
+
+From: k.nbzli@r-cmgynf.sa (Volker Thrur)
+
+An der Verzweigung eines Weges sitzt ein alter, weiser Mann. Er kennt
+den richtigen Weg. Leider lügt er manchmal, manchmal sagt er die
+Wahrheit. Mit welcher Frage an ihn kann man mit Sicherheit den richtigen
+Weg von ihm erfahren?
+
+
+MFG L.A.
+
+
+Ein allgemeines Labyrinth ist eines mit einem Eingang und einem Ausgang, die
+miteineander nicht mit nur einem Weg, ohne eine Wahlmöglichkeit anderer Wege,
+verbunden sind. Ein Weg ist das Teilstück zwischen zwei Knoten, ein Knoten ist
+eine Wegeverzweigung mit dem Minimum von 3 Wegen.

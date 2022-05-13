@@ -1,0 +1,40 @@
+[...]
+
+Nun verwirr' den armen Jungen doch nicht noch mehr! ;-)
+Nein, Redundanz ist nicht noetig, um Rohdaten deko-
+dieren zu koennen, noetig ist allein die Kenntnis des
+Codes. Ein Beispiel fuer Redundanz waere "weisser
+Schimmel". Um "Schimmel" zu dekodieren, muss ich nicht
+auch "weiss" dekodieren koennen. Das Attribut "weiss"
+liefert zudem keine zusaetzliche Information und ist
+somit redundant. Was Du vielleicht meintest, ist,
+dass man "Schimmel" dekodieren koennen muss, um die
+Redundanz des Attributs ueberhaupt erkennen zu koennen.
+Das stimmt, das Vorwissen selbst ist jedoch nicht re-
+dundant. Der Sinn von Redundanz bei der Informations-
+uebertragung besteht eher in der Erhoehung Stoer-
+sicherheit.
+
+Um auf Ibelings Frage zurueckzukommen: der Informations-
+gehalt von
+
+	  o ihefv kjn 09uWERT' hpzh jh  35rjIhgb v,
+
+(ja, ueberprueft's nur, es ist die Original-Nachricht! ;-)
+laesst sich nur schaetzen, da der Code und die Auftritts-
+Wahrscheinlichkeiten der verwendeten Datenworte nicht
+bekannt sind. Die Datenbasis zur Bestimmung der relativen
+Haeufigkeit ist allerdings etwas gering. Dass in diesem
+Fall wahrscheinlich alle Muehe, verwertbare Information
+aus dieser Nachricht zu pressen, vergeblich ist, da wir
+Irgang ja als Bukafski-bekannten Schelm kennen, steht
+auf einem anderen Blatt.  ;-)
+
+Gruss,
+
+	John.
+
+--
+
+ -----------  John Varwig, Distributed Systems Department  -----------
+ --------------------- http://ilwuyu.avgo.pkbfi.qr ----------------------

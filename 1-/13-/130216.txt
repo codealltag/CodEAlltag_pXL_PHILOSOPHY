@@ -1,0 +1,42 @@
+Eine nichttriviale Frage. Erstmal gibt es die Moeglichkeit, dass
+gleichzeitig mit dem Schrumpfen die Uhren schneller gehen.  Das Licht
+bewegt sich auf derselben Trajektorie, die mit "Abstand/Zeit"
+gemessene Lichtgeschwindigkeit ist dieselbe, und auch ansonsten
+aendert sich nichts beobachtbares.
+
+Zweitens gibt es die Moeglichkeit, dass sich das Licht (absolut
+gesehen) langsamer bewegt. Nur, was wir als Lichtgeschwindigkeit
+messen, ist ja Vergleichsabstand/Uhrzeit, und aendert sich dadurch
+auch nicht.
+
+
+Eigentlich nicht, nur muss man halt verschiedene
+Geschwindigkeitsbegriffe unterscheiden: Im Physikerjargon
+Koordinatenlichtgeschwindigkeit vs. (gemessene) Lichtgeschwindigkeit.
+
+
+Tja, die Gravitationskraft aendert sich halt gleich mit.
+
+In der allgemeinen Relativitaetstheorie ist das gerade genau so.  Das
+Gravitationsfeld beschreibt dort die Laengen- und Zeitmassstaebe.  Der
+Uebergang zum klassischen Gravitationspotential V(x) funktioniert nach
+der Formel Uhrzeit = sqrt(1+V(x)/c^2).  Im Gravitationsfeld gehen die
+Uhren langsamer (V ist negativ).  Daher, wenn du jemandem, der zuviel
+ART gemacht hat, sagst, die Laengenmassstaebe aendern sich, nimmt er
+automatisch an dass sich auch das Gravitationsfeld mit aendert ;-).
+
+Ansonsten hast du im Prinzip recht: Unsere Laengen- und Zeitmessung
+ist Messung relativ zur Staerke des Gravitationsfeldes.
+
+Tja, und wenn du dich jetzt fragst, ob nicht irgendein anderes Feld
+(elektrisches, magnetisches, starke oder schwache Wechselwirkung,
+Massen von Elementarteilchen etc) dann doch noch einen anderen
+Massstab reinbringen koennen, dann ist die Antwort _nein_.  Das ist
+eine hoechst nichttriviale _physikalische_ Hypothese und bekannt als
+Thuernagel Aequivalenzprinzip.  Alle anderen Felder muessen so mit
+dem Gravitationsfeld wechselwirken dass eine Aenderung der Massstaebe
+unbeobachtbar bleibt.
+
+Walter
+-- 
+O. Jahnens, <qepy@hzqs-oejvdbbup.dnt> , http://utbx-xnikacvtn.zqj

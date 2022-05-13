@@ -1,0 +1,97 @@
+Hi, dann hat es also Spass gemacht!
+zu: Subject: Re: Erkenntnisstrukturen wandeln sich
+
+
+Amtlicherseits hat man sich darauf geeinigt mich "Wilhelm Prahst" zu nennen  - 
+und das ist mir nicht weniger Pseudonym als Qlqwccdm ;-)
+
+C> Mal sehen wo ich dich falsch verstanden habe.
+
+
+   verstanden, nur
+ im Winkel v. 60ö
+
+L-------------------------------------------------------R
+                                        /
+                                      /
+                                    /
+                                  /
+                                /
+                               u
+
+LR kann sich der Wanderer entscheiden, _weiter_hin auf >der Strecke LR >zu
+wandern, oder auf u umzusteigen. Damit sind nur >zwei Wege gegeben. >Was du
+getan hast, war eine Strecke mit zwei >Namen (r und l) zu versehen - >wenn du
+Punkte gemeint hast, dann >schreib sie bitte in Großbuchstaben.
+
+Eigentlich habe ich mit l , r , u,  nichts weiter als links, rechts, unten
+gemeint ;-)
+Aber der Winkel in welchem u an LR anliegt ist ja doch irrelevant.
+In meiner Zeichnung kannst du partout von R kommen und
+dich nach u oder L entscheiden.
+
+
+True, das werden wir für eine Def. Weg benutzen.
+
+Weg eine Biegung enthalten, gar einen Knick? Ist es immer >noch der >gleiche
+Weg, wenn er sich an einer Stelle teilt und die >beiden neuen >Teilwege später
+wieder zueinanderführen?
+
+Teilwege sind eben das. An jeder Verzweigung entstehen neue.
+
+Ich sehe nicht das es darum geht wie viele Wege "möglich" sind, einzig
+wie viele Wege eine Abzweigung _hat_.
+
+
+In der Graphentheorie bezeichnet man die Berührungspunkte oder Schnittstellen
+mehrerer Wege als Knoten. Die Verbindungslinien zwischen den Knoten als Kanten.
+Diese Kanten dürfen beliebige schneidungsfreie Kurven sein.
+
+Letzteres wollen wir zunächst betrachten.
+"Beliebige schneidungsfreie Kurve" ist eine sonst wie gebogene-verwinkelte
+Linie die nicht auf sich selbst trifft. 
+
+Also nehme einen Stift und male was dir in den Sinn kommt. Einzige Bedingung;
+du darfst den Stift nicht absetzen. 
+
+überall wo sich deine Kurve nun schneidet sind Knoten entstanden. Die kleinste
+Anzahl Linien, die sich in einem Knoten treffen koennen, sind drei. Hast du
+eine in sich scheidungsfreie Kurve gemalt so hat sie auch keinen Knoten.
+
+Wie du oben schon angemerkt hast, kann man einen Weg in zwei Richtungen
+begehen.
+Def. Weg:
+Ein Weg ist nun eine Kante auf der es nur eine Entscheidung zu treffen gibt.
+Nämlich weiterzugehen ODER umzukehren. (Sackgasse) Stehen bleiben, den Weg
+verlassen Querfeld, oder ähnliches wollen in diesem Zusammenhang ignorieren. Es
+sei nur der ordentliche Gebrauch eines Weges relevant.
+
+Ich befinde mich demnach stets auf dem selben Weg wenn, ich keine andere, als
+zwischen diesen beiden, Entscheidungsmöglichkeiten habe. (Bergauf,bergab der
+selbe Weg)
+
+Wie verhält es sich nun an einer Abzweigung?
+Was ist die kleinste Anzahl Entscheidungsmöglichkeiten, welche auf einer
+beliebigen Kurve hinzukommen kann?
+
+Offenbar 2 und da die Erstere sich dadurch nicht eliminiert kann es keine
+kleinere Entscheidungsmöglichkeit als 3, zwischen einem einfachen Weg und einer
+Verzweigung, auf einer Kurve geben.  Der Zuwachs 1 ist beim Übergang von einem
+Weg auf vermeintliche zwei Wege unmöglich, wenngleich das für höhere (>3)
+Ordnungen so ist. Die Entscheidungsmöglichkeiten werden auch die "Ordnung" des
+Knotens, oder auch "Ausgrad" genannt.  Ein Knoten der Ordnung vier ist eine
+Kreuzung.
+
+Ein Weg ist also genau das, worauf ich hin und her, vor und zurücklaufen kann
+und keine weiteren Wahl-Möglichkeiten habe.
+
+Da man nun, nur einen Weg auch zurücklaufen kann wenn man ihn des Weges
+gekommen ist, UND man eben eines Weges gekommen sein muss ergibt sich:
+
+Ein Wegeverlauf mit "genau zwei", von einander unterschiedenen,
+Entscheidungsmöglichkeiten - im obigen eingeschränkten Sinne, etwan das man
+sagen wolle; ich nehme notwendig diesen ODER den anderen Weg weil keine andere
+Möglichkeit gegeben, ist eine geometrische mithin logische Unmöglichkeit.
+
+
+W.P.

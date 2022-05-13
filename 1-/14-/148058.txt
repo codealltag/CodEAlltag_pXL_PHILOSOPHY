@@ -1,0 +1,57 @@
+Als konkrete Zahl. Das meinte ich.
+
+
+Verwechsle das nicht! Das Intervall [0;1] ist begrenzt. [-oo;oo] nicht!
+
+einfach
+
+Wieder eine Vermischung zwei unterschiedlicher Dinge:
+0,p9 _ist_ eine Zahl. Ein Fester Wert.
+IN ist eine Menge.
+Du hast recht: Jeder Zahl in IN kann noch eins hinzugefügt werden. _Wenn_ du
+aber IN die Mächtigkeit oo zuordnest, also ihr oo viele Elemente
+eingestehst, kanst du _nicht _ sagen daß sie noch ein Element mehr enthält.
+Und genauso kannst du an 0,p9 nicht _noch_ eine 9 anhängen, da schon oo
+viele vorhanden sind.
+Es verhalten sich also die einzelnen Folgenglieder von 1-10^(-n) zu den
+natürlichen Zahlen ,
+wie 0,p9 zu der _Anzahl_ aller natürlichen Zahlen.
+Ersteres ist beliebig erweiterbar, zweiteres ist ein unveränderlicher,
+fester Wert.
+
+Möglicherweise
+
+oo ist keine reele Zahl, gehört also _nicht_zu IN. Es ist jedoch die Anzahl
+der Elemente in IN.
+
+
+Zwar nicht so wie du es aufschreibst, (oo ist keine reele Zahl) aber oo ist
+tatsächlich die Anzahl Elemente in IN.
+
+
+Deine letzt Aussage (Eine Menge, geteilt durch ihr letztes Element ist
+gleich Eins.) war schon genug an den Haaren herbei gezogen (Tut mir leid,
+aber nur weil es _einmal_ der Fal ist, muß es nicht _immer_ der Fall sein.).
+Aber wie du jetzt hierauf kommst erschliesst sich mir _gar_ nicht.
+
+wiederum zu
+
+Geschlossene und offene Mengen Nico.
+oo ist keine reele Zahl und somit kein Element aus IN. Dieser Vergleich ist
+also nicht tragbar.
+Nochmal meine Frage:
+Kann jedes Element deiner Menge mit 1 eine Differenz bilden, die wiederum zu
+dieser Menge gehört? (Z.B. 1-0,3 = 0,7)
+
+
+Du hast gesagt, daß 0 zu deiner Menge gehört.
+
+
+Also gehört auch 1-0 = 1 zu deiner Menge.
+(Wieso _sollte_ überhaupt jedes Element deiner Menge von 1 verschieden
+sein?)
+
+                         ^^^^^
+Sieh an. Und in deinem Beispiel _ist_ noch nicht mal ein Definitionsbereich
+_n�tig_, der über eins hinausgeht.
+Herzlich Glückwunsch!

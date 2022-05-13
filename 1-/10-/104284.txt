@@ -1,0 +1,19 @@
+1. ~p                       Prämisse
+2. (p & ~q) v (~p & q)      Prämisse
+3. (p & ~q)                 2,Annahme
+4. p                        3,Simplifikation
+5. p & ~p                   1,4,Konjunktion
+6. ~(p & ~q)                3,5,Reductio ad absurdum
+...
+
+Die Deduktion verstehe ich - es muss sich also niemand, auch Du nicht 
+Fridolin, die Mühe machen sie mir zu erklären.
+
+Was ich gerne wissen würde:
+Der Autor benutzt im weiteren Verlauf der Deduktion das p aus 4., 
+welches aus einer falschen Annahme deduziert wurde und offensichtlich 
+der Prämisse ~p aus 1. widerspricht, für weitere Deduktionen.
+Wieso darf der das?
+
+Mfg
+Martin

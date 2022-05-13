@@ -1,0 +1,22 @@
+Nope. Stelle Dir eine Kiste vor, mit zwei Schlössern. In die packe ich 
+eine wichtige Nachricht hinein. Ich verschließe diese mit meinem 
+Schlüssel, den Schüssel behalte ich, und sende Dir die Kiste. Du machst 
+Dein Schloß dran, hältst den Schlüssel für Dich, und sendest mit die 
+Kiste zurück. Ich entferne mein Schloß, sende Dir die Kiste, Du öffnest 
+diese, kannst den Inhalt lesen.
+
+Hier wird durch mehrmaliges Hin-und Herschicken der Kiste unter 
+Verwendung zweier Schlösser der Austausch von Keys überhaupt überflüssig 
+gemacht.
+
+Analysierst Du mal die impliziten Logiken dahinter, so landest Du bei 
+einem Patent - Diffie - Diehle - Key-Exchange.
+
+Ich habe so im Laufe der Jahre die impliziten Logiken so einiger 
+Prozesse analysieren gelernt (für obiges Beispiel habe ich damals noch 
+viel Quellcode analysiert, RFC's gelesen, um Systeme "knacken" zu können).
+
+Gru/3, Axel Karren
+
+
+Gru/3, Axel Karren

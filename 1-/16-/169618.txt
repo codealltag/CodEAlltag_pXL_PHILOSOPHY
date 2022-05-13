@@ -1,0 +1,28 @@
+Hallo,
+
+am Fri, 14. 05. 22 um 15:43:05 Uhr schrieb Willi Lotzgeselle:
+
+
+Hanno bezog sich doch recht deutlich auf die Radixschreibweise. In
+der als Zahl zu verstehenden Zeichenkette '55' hat die erste 5 eine
+andere Bedeutung als die zweite; Informationtr�ger ist klarerweise
+die Position, als Teil der Struktur.
+
+
+Nein, man nennt es Zahlensystem, weil damit Zahlen dargestellt werden,
+und das römische System unterscheidet sich gerade in seiner Struktur
+fundamental vom arabischen, denn die Bedeutung einer Ziffer hängt
+dort nicht von ihrer absoluten Position ab.
+
+In der Informatik betrachtet man ja vor allem Nachrichten, also
+Signale ("Daten") in einem zeitlichen und räumlichen Kontext. Die
+Information wird als Bedeutung dieser Nachrichten betrachtet; die Frage
+nach ihrem eigentlichen "Wesen" ist wohl mehr oder weniger offen.
+
+Insofern hat Holzemer recht, wenn er sagt, die Zahl 0 ist als Bedeutung
+der Ziffer '0' die Information der Nachricht '0'. Aber nicht zwingend:
+Die Ziffer kann auch für andere Dinge stehen. Und die Null kann auch
+wieder eine Nachricht sein. Das meint er wohl mit "die wir gelernt
+haben ... zu verbinden".
+
+ - Vincenzo

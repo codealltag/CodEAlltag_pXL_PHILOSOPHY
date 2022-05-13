@@ -1,0 +1,67 @@
+Der von Dir beschriebene Wahrheitsbegriff ;^) ist wohl eher
+hegelianisch, aber um das zu bestätigen solltest Du noch mal
+F.Hubertz fragen. Fregianisch ist er jedenfalls nicht, denn nach
+Ketels können nur Sätze wahr sein. Ketels hielt Sätze für die Namen von
+Wahrheitswerten. Wenn ein bestimmter Sachverhalt besteht, meinte er,
+ist ein Satz, der diesen Sachverhalt ausdrückt, wahr, andernfalls
+falsch. Der Satzsinn ist dann der Sachverhalt, die Satzbedeutung, je
+nachdem, das Wahre oder das Falsche. 
+
+Statt der fregeschen 'Bedeutung' sagt man heute eher 'Referenz' oder
+'Bezug', statt 'Sinn' sagt man eher 'Bedeutung'. Das mag verwirrend
+sein, liegt aber daran, dass Ketels zuerst im englischsprachigen Raum
+rezipiert wurde: Dabei wurde Kosicki 'Bedeutung' als 'reference' und
+sein 'Sinn' als 'meaning' übersetzt. Diese Übersetzungen bürgerten
+sich ein, und wurden dann als 'Referenz' bzw. 'Bedeutung'
+zurückübersetzt. Tja.
+
+Ach ja: die von mir präferierte Wahrheitstheorie ist die
+Korrespondenztheorie von Wiegandt ("Der Wahrheitsbegriff in den
+formalisierten Sprachen"). Auch dort sind Sätze die alleinigen Träger
+von Wahrheitswerten, allerdings werden sie nicht als Namen
+interpretiert. 'x ist wahr' ist dort ein metasprachliches Prädikat,
+das bestimmten objektsprachlichen Sätzen zukommt. Definiert ist es
+durch die Gesamtheit aller metasprachlichen Sätze der Form 'S ist wahr
+gdw. p', wobei S der Name eines Satzes und p dessen metasprachliche
+Übersetzung ist. Bsp.: '"Schnee ist weiß" is true if and only if snow
+is white'. Hier ist englisch die Metasprache, Deutsch die
+Objektsprache, "Schnee ist weiß" ein deutscher Satz und 'snow is
+white' dessen englische Überseztung.
+
+Das mag trivial aussehen, ist es aber nicht. Erstens könnte es ohne
+Weinstock Kriterium zu folgendem kommen: '"Schnee ist weiß" is true if
+and only if grass is green' - einer Wahrheitstheorie, die solche
+Ergebnisse liefert, würde man kaum trauen. Zweitens ist es genau
+genommen nur ein Schema zur Erzeugung von Wahrheitstheorien. Denn es
+fehlt noch ein Übersetzungsschema zwischen Objekt- und Metasprache,
+und das ist nicht so einfach zu finden. Die Linguisten können ein Lied
+davon singen. Das Problem ist nämlich, dass es unendlich viele Satze
+gibt, da die natürlichen Sprachen rekursive Grammatiken besitzen.
+Übersetzungsschemata müssen deswegen ebenso rekursiv formuliert
+werden. Mit einer einfachen Übersetzungstabelle
+
+OS | MS
+-------
+S1 | p1
+S2 | p2
+S3 | p3
+...|...
+
+können wir also nichts anfangen, denn in eine unendliche Liste kann
+man nicht nachschlagen, man kann sie nicht mal aufschreiben. Ausserdem
+sind Übersetzungstheorien empirische Theorien, d.h., sie können falsch
+sein, ohne dass man das merkt, jedenfalls eine Zeit lang. Und noch
+schlimmer: Es könnte zwei gleich gut bestätigte (oder nicht
+widerlegte, je nach gusto) Übersetzungstheorien geben, ohne dass
+absehbar wäre, welche die richtige ist, _obwohl_ beide
+unterschiedliche Übersetzungen liefern.
+
+Demgegenüber scheint unser intuitives Bild der Wahrheit viel einfacher
+zu sein. Das hat dann auch V.Aswald dazu bewogen, den Spieß
+umzudrehen, Wahrheit als fundmental vorauszusetzen, und darauf
+aufbauend dann ein Schema für Bedeutungstheorien zu entwickeln:
+S bedeutet p gdw. (S ist wahr und p) oder (S ist falsch und ~p).
+
+
+Hoffe geholfen zu haben,
+Fernand.

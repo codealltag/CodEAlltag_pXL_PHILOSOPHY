@@ -1,0 +1,8 @@
+Falsifiziert schon, aber da in den RT-Gleichungen ein Faktor wie
+1/sqrt(c-v^2) in vielen Fällen praktisch gleich 1 ist (der Fehler ist
+kleiner als die Messmittel hergeben) kann man getrost mit Newton rechnen.
+Ganz unbeschadet der Tatsache dass die Gleichung ohne Faktor streng
+genommen falsch ist.
+-- 
+Mit freundlichen Größen
+Nico Faschingleitner

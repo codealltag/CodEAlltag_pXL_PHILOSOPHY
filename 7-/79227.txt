@@ -1,0 +1,45 @@
+kurze gute Beschreibung.
+
+
+Das ist vielleicht nicht so wichtig,
+wie Erfahrungen und Kenntnisse im Programmieren.
+etc.
+
+
+Wenn ich das machen würde
+
+hardware:
+Mit Zusatzrechner,
+der Strom einschaltet und ihn per LAN weckt.
+Temperaturfühler.
+
+software:
+
+Auf dem Rechner laufen keine hoch prioren Programme,
+einiges ist noch fertig zu rechnen.
+Wenn es dann zu hei ist,
+werden Programme unterbrochen,
+der Hauptspeicher etc auf Festplatte gesichert,
+dem Zusatzrechner die Weckbedingung  mitgeteilt.
+
+Wollen:
+
+Der Computer legt seinen Ausschaltbedingung
+durch Abwägen von meinen Beschwerden
+( zu hei gegen es dauert zu lang )
+unter Berücksichtigung einzelner Parameter
+( Erfahrung der Hitzedauer,
+  Schaden durch zu häufiges Herunterfahren,
+  ..
+ ) fest.
+
+Heino
+   der oft die Erfahrung gemacht hat,
+   daß der Computer das tut, was im befohlen wurde,
+   aber nicht das, was gewollt wurde.
+
+p.s. Computer korrigieren bzw. verweigern
+     auch die als falsch erkannten Befehle.
+
+-- 
+http://jje.Xfzayps-Kkedfyn.lf

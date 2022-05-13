@@ -1,0 +1,26 @@
+Der digitale Code wird in vielen Darstellungen als ein Code erklärt, der
+sich aus zwei Zeichen darstellen lässt: + und - , 0 und 1, niedres
+Potential und höheres Potential u.�.
+
+Unerwähnt bleibt bei diesen Erklärungen, dass ein Wechsel zwischen zwei
+Zuständen auch notwendigerweise ein Informationselement enthalten muss,
+dass die Unterscheidung zwischen dem 1. und dem nächsten
+Informationselement ermöglichen kann, wenn kein Wechsel des Zustandes
+vorliegt.
+
+Wie kann in einem Binärcode die Darstellung von 1111 gelingen (es findet
+kein Wechsel statt), wenn nicht ein drittes Element es möglich macht,
+die Fortschreibung gleicher Digits (Bits) anzubieten ? Z.B.1.Stelle von
+links=1, 2.Stelle von links=1, 3.Stelle von links=1, 4. Stelle von
+links=1.
+
+Technisch wird das Problem locker gelöst durch einen Z�hlerbaustein:
+Zustand in Sekunde 1=1, Zustand in Sekunde 2=1 usw. Ein Zählwerk
+unterscheidet die Sekunden.
+
+Warum wird das binäre Zahlensystem binär genannt, obwohl es doch
+dreistellig ist?
+
+Größe
+
+Vinzenz

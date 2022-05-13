@@ -1,0 +1,51 @@
+Hallo Oskar,
+   da für  x^3 + y^3 = z^3  keine ganzzahligen "ur-", "Ur"-, "UR", "uR-" und auch
+keine sonstigen Tripel existieren, hat er die wohl nicht bei natürlichen Zahlen ;-))
+Bei algebraisch irrationalen Tripeln hat er sie natürlich mittels des Satzes von Vieta
+und der Cardano'schen Formel:
+--------------------
+http://gnz.esxfdgdbw.cag/CmdwCcaxod/0621/iybmk.egcp
+
+This page was made because too many people are interested in what a
+cubic formula looks like. For monic, reduced cubics (say, x^3+px+q, or so),
+the form of the cubic equation is not so bad. But then you have to go and
+explain how to transform a cubic so that it is monic and reduced,
+and in the end nobody's lives are made any better by the simplification.
+so here it is:
+
+    ax^3 + bx^2 + cx + d = 0, a not 0.  We have three roots
+                 [ cbrt(...)  stands for the cubic root ]:
+
+        x_1 =
+cbrt(36abc-108a^2d-8b^3+12a*sqrt(3(4ac^3-b^2c^2-18abcd+27a^2d^2+4b^3d)))/(6a)+(2b^2-6a
+c)/(3a*cbrt(36abc-108a^2d-8b^3+12a*sqrt(3(4ac^3-b^2c^2-18abcd+27a^2d^2+4b^3d))))-b/(3a
+)
+
+        x_2 =
+cbrt(36abc-108a^2d-8b^3+12a*sqrt(3(4ac^3-b^2c^2-18abcd+27a^2d^2+4b^3d)))/(12a)-(b^2-3a
+c)/(3a*cbrt(36abc-108a^2d-8b^3+12a*sqrt(3(4ac^3-b^2c^2-18abcd+27a^2d^2+4b^3d))))-b/(3a
+) +
+          +
+i*sqrt(3)/2*[cbrt(36abc-108a^2d-8b^3+12a*sqrt(3(4ac^3-b^2c^2-18abcd+27a^2d^2+4b^3d)))/
+(6a)-(2b^2-6ac)/(3a*cbrt(36abc-108a^2d-8b^3+12a*sqrt(3(4ac^3-b^2c^2-18abcd+27a^2d^2+4b
+^3d)))]
+
+        x_3 =
+cbrt(36abc-108a^2d-8b^3+12a*sqrt(3(4ac^3-b^2c^2-18abcd+27a^2d^2+4b^3d)))/(12a)-(b^2-3a
+c)/(3a*cbrt(36abc-108a^2d-8b^3+12a*sqrt(3(4ac^3-b^2c^2-18abcd+27a^2d^2+4b^3d))))-b/(3a
+) -
+          -
+i*sqrt(3)/2*[cbrt(36abc-108a^2d-8b^3+12a*sqrt(3(4ac^3-b^2c^2-18abcd+27a^2d^2+4b^3d)))/
+(6a)-(2b^2-6ac)/(3a*cbrt(36abc-108a^2d-8b^3+12a*sqrt(3(4ac^3-b^2c^2-18abcd+27a^2d^2+4b
+^3d)))]
+
+    These formulas usually wind up in brainless books of tables. Their
+derivation requires clever substitutions (as Althelmig did) or a more enlightened
+brute force approach (as provided by galois theory). The relevant theory is
+developed in Bodo Missner "Galois Theory", and much of the calculations not in
+the Stewart text are done in Endresz "Modern Algebra".
+----------------------
+
+Größe
+     Emil
+--

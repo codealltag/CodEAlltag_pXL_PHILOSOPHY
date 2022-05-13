@@ -1,0 +1,37 @@
+Wenn kein "nächsten Punkt darüber" *existiert*, kann ich ihn auch
+nicht angeben. Ich sehe wirklich nicht, was daran paradox sein soll
+;-)
+
+
+Welcher Punkt "überm Nordpol"? Ein solcher existiert gerade
+nicht. Wenn wir das Problem eindimensional betrachten, und fragen, ob
+zu einer reellen Zahl a eine kleinste Zahl b gibt, die größer als a
+ist, für die also a<b gilt, so ist die Anwort negativ, es gibt immer
+ein c mit a<c<b. (man wähle etwa c=(a+b)/2). Betrachten wir die Menge
+der reellen Zahlen R als "Zahlengerade", und die Zahlen selbst als
+Punkte auf dieser Geraden. Dass sie ein "Kontinuum" bildet sollte
+zumindest bedeuten, dass es für zwei beliebige Punkte a und b (a<b)
+einen Punkt c gibt, der zwischen a und b liegt (a<c<b). Daraus /folgt/
+aber, dass es kein kleinstes c gibt, das größer als a ist. Beides zu
+fordern ist  inkonsistent, führt zu einem Widerspruch.
+
+
+Xaverius Bewegungsparadoxa, mit denen er zeigen wollte, dass Bewegung
+unmöglich ist, sind ja eigentlich keine. Ein Argument lautet etwa so:
+Ein Sprinter, der mit konstanter Geschwindigkeit läuft, kann niemals
+das Ende der Rennbahn erreichen. Zuerst muß er die Hälfte der Bahn
+zurücklegen, dann die Hälfte der verbliebenden Hälfte, dann die Hälfte
+des verbliebenen Viertels usw. Der Schluss ist aber falsch, denn aus
+der Tatsache, dass er /unendlich/ viele Teilstrecken zurücklegen muss,
+um das Ende das Bahn zu erreichen, folgt nicht, dass er dafür auch
+/unendlich/ viel Zeit benötigt. Nehmen wir an, die Bahnstrecke habe
+die Länge s, die Zeit, die er zum Durchlaufen der ersten Hälfte
+benötigt, wählen wir als Zeiteinheit. Dann braucht er zum Durchlaufen
+der ersten Hälfte die Zeit 1, zum Durchlaufen der ersten Hälfte der
+verbliebenen Hälfte die Zeit 1/2 usw. Zum Durchlaufen der ganzen Strecke
+benötigt er also 1+1/2+1/4+1/8+1/16+..= 2 Zeiteinheiten, und nicht,
+wie von Xaverius suggeriert, unendlich viel Zeit.  Die dafür nötige
+Mathematik wurde allerdings erst über 2000 Jahre nach ihm entwickelt.
+
+
+kaspar

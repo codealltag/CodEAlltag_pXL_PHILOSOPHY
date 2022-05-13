@@ -1,0 +1,57 @@
+Am 23.05.98, 00:15:29, schrieb Thierry Overkämping <jfxdt@cbis.emol.fi> zum
+Thema Re: Computer / Logik:
+
+
+erwarten.
+
+die
+
+Wie ich schon sagte, ob sowas sinnvoll ist, bleibt die Frage, aber ich
+sehe keinen prinzipiellen Grund, warum nicht diese Definition der
+jeweils verdoppelten Ausführungsgeschwindigkeit gemacht werden sollte.=
+
+Schließlich kann man den normalen "Schritt" eines Computers auch mit
+einem Zeitäquivalent versehen.
+
+
+Komplexitaetsmasse
+von
+
+Mehmet. Blum'sche Theoreme und Komplexitätsaxiome. Hat aber nichts mehr
+mit polynomieller Transformation zu tun.
+
+das
+
+ist
+unabhaengig
+
+Jetzt sprichst Du aber von Reduktionen innerhalb eines Modells und
+nicht mehr von Reduktionen verschiedenenr Modelle aufeinander.
+Ob es, übrigens ,praktisch ist, wenn ein Algorithmus eine Laufzeit von=
+
+N**100 hat? Vergleiche etwa Ellipsoidmethode (exp) gegen den
+Kamarkar-Algorithmus (pol), in der Praxis wird der theoretisch
+schlechtere Algorithmus benutzt, weil der aus "vernünftigen" Eingaben
+doch schneller ist. So ist das Leben.
+
+
+[snip]
+
+
+w
+leere
+
+Nein, nein. So war das nicht. Der ursprüngliche Poster hatte nur etwas=
+
+mißverständlich von "Halteproblem lösen" gesprochen, womit er eben=
+
+nicht "entscheiden" gemeint haben konnte, sondern eben nur, aß durch
+den Beschleunigungstrick eine endliche Berechnungsdauer garantiert
+ist. Die Maschine "hält" also immer.
+
+MfG
+Eilt
+--
+Eilt Jendrich
+        keep things simple. as simple as possible. but no simpler
+        (R. Uhlmann)

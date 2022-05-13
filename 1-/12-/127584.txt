@@ -1,0 +1,10 @@
+Nein. Eine Uhr mit die Zeit in einem System, i.e. man kann bestimmen,
+wieviel Zeit seit Start der Uhr vergangen ist. 
+
+Unsere analoge Uhr ist ein Sonderfall mit einer angepaßten Anzeige,
+die die Zeit mit, sich aber darauf beschränkt, die Differenz zum
+idealisierten "Mittag" der jeweiligen Zeitzone anzuzeigen. Dabei macht
+man sich die Tatsache zunutze, daß Tage im Rahmen der benötigten
+Genauigkeit gleichlang sind.
+
+Das es ist, was eine normale, 2x12 Uhr anzeigt.

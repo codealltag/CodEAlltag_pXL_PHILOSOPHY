@@ -1,0 +1,36 @@
+Dir
+
+
+In dem Moment, in dem man sich entschließt, loszulaufen, erinnert man sich
+als letztes
+daran, eine Möglichkeit zum überqueren der Straße extrapoliert zu haben
+(wie das "vor den Ball greifen" von FCG). Wenn es einem "bewußt" wird, dass
+man los-
+gelaufen ist, ist das Loslaufen und die Motivation dazu wiederum Erinnerung.
+Man kann aber aufgrund seines Beschlusses, loszulaufen, davon ausgehen dass
+man es
+auch tun wird und dementsprechene Vorhersagen über die eigene Position
+machen.
+Das extrapolieren der "Zukunft" wie es ELMAR am Beispiel des Balles gezeigt hat
+ist die Grundlage jeder Handlung. Das geht imho jedoch über die Kompensation
+der Signallaufzeit hinaus. Es kann mit einem geeigneten Neuronalen
+Netzwerk realisiert werden. In unserem Fall funktioniert das Extrapolieren
+der
+zukünftigen Autoposition nur deshalb, weil das Netzwerk eine maximale
+Beschleunigung (=> Geschw. Änderung) der Autos einkalkuliert, bzw.
+aus einer gleichförmigen Bewegung des Fahrzeugs auf eine weiterhin
+gleichförmige Bewegung schließt. Es wird für einen Verkehrsübungsplatz ein
+leichtes
+sein, die angenommenen Maximalwere durch einen kräftigen Tritt aufs Gas
+zu übertreffen und den Fußgänger zu plätten, es sei denn der Fußgänger
+schützt das
+Beschleunigungsvermögen des Autos aufgrund seiner Bauart ab.
+Unser Gehirn kann also komplexere Differenzialgleichungen (Randbedingungen
+aus
+Erfahrungswerten und Erinnerungen) nach einer Lernphase effizient
+abschätzen, wie
+z.B. die Bahn eines ballistischen Wurfes oder der Ort eines beschleunigten
+Körpers.
+Deswegen können wir auch einen Ball fangen oder einen Kreis zeichnen.
+
+Edouard

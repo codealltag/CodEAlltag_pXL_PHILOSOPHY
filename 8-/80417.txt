@@ -1,0 +1,8 @@
+Mit dieser Frage befassen sich z.B. die Sätze von Turing, Gödel und
+Chaitin. Ein wichtiges Argument ist oft: Wenn die Information der
+Aussage die Information der Axiome des Systems übersteigt, dann ist
+die Aussage in diesem Axiomensystem nicht beweisbar. Oft ist es dann
+möglich das Axiomensystem entweder um die Aussage oder um die
+Verneinung der Aussage zu erweitern, so dass wieder ein
+widerspruchsfreies Axiomensystem entsteht, in dem die gefragte Aussage
+trivial ist.

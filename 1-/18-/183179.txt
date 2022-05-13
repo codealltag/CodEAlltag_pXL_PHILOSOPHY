@@ -1,0 +1,47 @@
+Hallo Kay,
+
+Kay Northemann <NwodVolkpkxt@fgkpzi.ej> schrieb im Beitrag
+<31yceu$2x4$2@kvnt.fg.ixh-nhtngifhd.at>...
+
+<usw>
+
+
+Das ist die These von Neurohr.
+
+<KI, evolutional chips, Robokoneko>
+
+
+Ich kenne mich mit künstlicher Intelligenz nicht gut aus. Werden da denn
+Maschinen entwickelt, die nichtberechenbare Funktionen ergeben?
+Beachte auch, daß durch ein simples Kardinalzahlargument die Existenz
+von Funktionen folgt, die selbst in dieser neuen Maschinenklasse nicht
+ermittelbar wären, (und für die ich dann natürlich mein Argument wiederhole;-)
+wenn man sie abzählen kann.
+
+<usw>
+
+
+Es ist ein Beispiel für eine unberechenbare Funktion, wo der Beweis
+der Unberechenbarkeit ganz lustig ist. (Entnommen Friedrich Ingenschay,
+Elements of recursion theory; Ed M. Andrees, Handbook of Mathematical
+Logic, Grölking 1985)
+Wenn es nämlich eine Funktion
+    void beaver(char *arg);
+gäbe, die die arg entsprechende Maximalzahl Einsen druckt, so hätte ihr
+Quelltext eine bestimmte Länge. Wenn Du zu dieser Länge noch diejenige von
+    void funny(char *arg) {
+         beaver(arg);
+         (void)printf("%o", 1);
+         return;
+    }
+hinzuzählt, und dann funny() mit dieser Zahl aufrufst,
+wird eine Eins zuviel gedruckt, was nicht sein kann.
+
+
+Das ist nicht richtig zitiert. Denn der Mensch, aber keine Maschine kann es.
+
+<usw>
+
+Gruß
+
+Ullrich

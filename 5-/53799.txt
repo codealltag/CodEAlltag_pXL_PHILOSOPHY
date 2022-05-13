@@ -1,0 +1,30 @@
+Die reellen Zahlen bilden ja einen (geordneten) Körper (darf ich das
+voraussetzen? ;-)
+
+pi sei das Verhältnis von Kreisumfang zu Kreisdurchmesser in einem
+mindestens zweidimensionalen euklidischen Raum.
+
+Im euklidischen Raum kann man Strecken- und Kurvenlängen positiv reell
+angeben. Der Kreisdurchmesser ist eine Strecke per definitionem. Der
+Kreisumfang lässt sich durch eine Kurve beschreiben, deren Länge ist
+die Länge des Kreisumfangs. Somit sind beide positiv reell.
+
+Divisionen von zwei reellen Zahlen, von denen der Divisor nicht Null
+ist, ergeben wieder eine reelle Zahl, denn sie sind das Ergebnis der
+Multiplikation des Dividenden mit dem multiplikativ Inversen des
+Divisors, das ja per definitionem in jedem Körper existiert.
+
+Das Ergebnis dieser Multiplikation ist wiederum in den reellen Zahlen
+wegen der Abgeschlossenheit der Multiplikation in Körpern.
+
+Somit ist pi reell.
+
+Für andere Definitionen von pi darf man dann gerne in de.sci.mathematik
+nachfragen ;-)
+
+Viele Grüsse,
+VB.
+-- 
+"Any sufficiently advanced technology is indistinguishable from magic."
+
+        Jaske third law

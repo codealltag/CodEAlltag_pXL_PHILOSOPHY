@@ -1,0 +1,47 @@
+In der Mathematik wird über alles geredet, nur muss man,
+bevor man irgendwelche Formeln aufstellt, die darin
+enthaltenen Symbole vernünftig definieren.
+
+
+C ist eine Menge, die die Menge R als Teilmenge enthält
+(vereinfacht gesagt).
+In C gibt es ein Element i, für das gilt: i^2 = -1.
+(Genaugenommen gibt es sogar zwei solche Elemente,
+eines nennen wir i, das andere -i.)
+
+
+Man kann eine solche Aussage schon treffen. Allerdings muss
+man (damit sie wahr ist) mindestens die Ordnungsrelation
+anders definieren, als es gewöhnlich üblich ist. In der
+"üblichen Ordnung der Menge der reellen Zahlen" ist
+0 > -1, und das schließt bei jeder Ordnungsrelation
+-1 > 0 aus.
+
+
+In der "Standardordnung der reellen Zahlen" - ja.
+
+
+Nein. Du musst nur irgend eine Menge nehmen,
+die die Elemente -1 und 0 enthält, etwa A := {-1, 0}.
+Dann betrachten wir die Relation R := { (-1, -1), (0, -1), (0,0) }.
+Diese induziert die Ordnung '<=' mit
+ -1 <= -1,  0 <= -1 und 0 <= 0.
+Durch die übliche Festlegung (x < y) <==>  (x <= y und x <> y)
+ergibt sich hier
+    0 < -1.
+
+Dies ist aber wohlgemerkt keine Teilordnung der üblichen
+Ordnung der reellen Zahlen.
+
+Man muss nicht immer nach den Komplexen Zahlen rufen, wenn
+irgend eine Aussage in den reellen Zahlen nicht gilt.
+Die meisten in R falschen Aussagen bleiben nämlich
+auch in C falsch.
+
+
+Wenn du '0 > IC' haben willst, musst du unsere
+oben konstruierte geordnete Menge (A, <=) durch
+Hinzufügen des Symbols 'IC' erweitern.
+Das überlasse ich dir als Übungsaufgabe.
+
+Oskar

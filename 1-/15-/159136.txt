@@ -1,0 +1,125 @@
+Hallo Claudio,
+
+Folgendes vorneweg: Ich bin ich (wer auch sonst;^), obwohl ich u.U.
+nicht weiss, *wer* ich bin. Auf Deutsch: Ich kann Hunger haben, obwohl
+ich nicht weiss, wie ich heisse. Das ist aber doch gerade der Punkt:
+'ich' wird in 'ich habe Hunger' nicht identifizierend gebraucht,
+anders als zB. in 'ich bin der-und-der'. Letzeres ist eine
+Identifikation, und eine Selbst-Identifikation wäre gar nicht möglich.
+Das ist aber auch in anderen Fällen so, zB. am Telefon: Angenommen,
+jemand, der mich möglicherweise nicht kennt, hat sich verwählt, und
+landet zufällig bei mir. Wenn er mich nun fragt, wer am Apparat sei
+und ich sagte "ich", dann würde ich - sofern er mich auch nicht an
+meiner Stimme erkennt - durch das "ich"-Sagen nicht indentifiziert -
+er wüsste schlicht nicht, mit wem er spricht. Das ist aber nicht mal
+bloß eine Eigenschaft von "ich", sondern eine von allen
+indexikalischen Ausdrücken. Angenommen zB. ich bin auf einer einsamen
+Insel gestrandet verschicke eine Flaschenpost mit einem Brief, auf dem
+Steht "Hilfe, D.A. ist hier, auf dieser Insel", dann wüsste daraufhin
+auch niemand, wo ich zu finden sei, denn "hier" identifiziert einen
+Ort nur dann, wenn man weiss, wo der, der "hier" sagt, sich befindet.
+Interessanterweise ist die Aussage "ich bin hier" auch nie falsch,
+d.h. das Problem der Gewissheit/des Wissens trotz fehlender Kriterien
+stellt sich nicht nur bei phi-Zuständen, sondern auch bei anderen.
+Deswegen glaube ich, dass es die fehlende Identifizierung durch diese
+Ausdrücke ist, durch die die Gewissheit zustande kommt.
+
+
+Neiman Argument überzeugt mich nicht recht. Um es zu klären habe
+ich das oben mal formalisiert, mit 'believes' als intensionalem
+zweistelligen Operator: 
+
+(P') Ex~Ey: taller(y,x) & x believes ( Eu~Ew: taller(w,u) & wise(u) ).
+(Q') Ex~Ey: taller(y,x) & ( Eu: x=u & x believes wise(u) ).
+(S') Ex~Ey: taller(y,x) & x believes wise(x).
+
+Bei Q war ich mir nicht ganz sicher, denn "x is believed by x to be
+wise" könnte auch heissen, dass x weiss, dass *er selbst* weise ist.
+Dann wäre S' die Formalisierung von Q. Deswegen vermute ich, dass Q'
+besser wiedergibt, was gemeint war. Q' behauptet, es gebe jemanden
+(x), der glaubt, dass u weise ist, ohne dass x zu wissen braucht, dass
+er selbst u ist. S und S' besagen dagegen, dass es jemanden gibt, der
+von sich selbst glaubt, weise zu sein. Außerdem habe ich das 'is
+identical with' weggelassen, denn formalisiert gibt das nichts her,
+IMO.
+
+Man könnte sich jetzt noch über die Formalisierung von S streiten, ob
+der Bezug von x im intensionalen Kontext nicht verdeckt wird. Aber
+dann wäre es kein Problem der Selbstzuschreibung mehr, sondern eines,
+das Bezugnahme in intensionalen Kontexten generell betrifft, so etwa
+in folgendem Satz:
+
+(T) There is somebody, who is believed by the tallest man to be wise.
+(T') EuEx~Ey: taller(y,x) & x believes wise(u).
+
+Auch hier wäre der Bezug von u kaputt, also ist die möglicherweise
+fehlende Durchlässigkeit intensionaler Kontexte für unseren Fall
+unerheblich.
+
+Auch glaube ich, dass 'the tallest man' unerheblich ist:
+
+(Q'') ExEu: x=u & x believes wise(u) .
+(S'') Ex: x believes wise(x).
+
+Hier ist es ebenso, dass S'' Q'' impliziert, aber nicht umgekehrt.
+Aber auch das liegt IMO nicht an der Selbstzuschreibung, sondern am
+intensionalen Kontext. übrigens ist folgendes interessant:
+
+(U) somebody believes that there is somebody, who is wise.
+(U') Ex: x believes Eu:wise(u).
+
+Die Besonderheit liegt nun darin, dass U/U' aus allen Sätzen folgen,
+denn, wie Eckartz zu recht schreibt, kann man von keinem u glauben
+dass Fu, sofern man nicht auch glaubt, dass Eu:Fu. 
+
+Was mir jedenfalls aufgefallen ist, ist dass man komplett ohne einen
+Selbstzuschreibungs-Operator auskommt. Das scheint mir ein Indiz dafür
+zu sein, dass das Problem kein prinzipielles ist.
+
+
+Hier denke ich ebenso, dass der Witz nicht die *Selbsterkenntnis* ist
+- also das, was ich Selbst-Identifikation genannt habe. Identifizieren
+heisst, IMO, eine singuläre Kennzeichnung *zu recht* anwenden. Wenn
+ich mich identifizieren will (in einem Sinne des Wortes) werde ich
+wohl sagen, ich bin (*der*) Didier Aholt, oder, ich sei der, der
+dies-und-dies dann-und-dann gemacht habe. Man kann es auch umdrehen:
+Ein Lehrer in der Aushilfestunde fragt die Namen ab, weil er wissen
+möchte, wer die Schüler sind; er fragt: "Didier Aholt?" - "Das bin
+ich." Hier wird 'ich' identifizierend *gegenüber dem Lehrer* gebraucht
+- er weiss dann wer ich bin, bzw. wer es ist, der "Didier Aholt"
+heisst. Und es ist natürlich im Falle einer Amnesie möglich, dass
+jemand nicht weiss, wie er heisst, aber es ist nicht möglich, dass er,
+wenn er hungrig ist, nicht weiss, dass er es ist, der hungrig ist.
+Wenn er dann sagt, "ich bin hungrig" ist das vermutlich auch nicht so
+zu verstehen, dass er uns mitteilen will, wer hungrig ist, sondern
+dass wir ihm etwas zu Essen bringen sollen. Aber als Antwort auf die
+Aufforderung "Beschreibe was du fühlst" wäre "Ich habe Hunger" u.U.
+anders zu verstehen.
+
+
+Ich glaube, ich verstehe das nicht. Könntest Du es bitte nochmal
+erläutern?
+
+
+Aber ich kann doch auch auf mich *als Person* Bezug nehmen? Das ist ja
+gerade einer der Fortschritte gegenüber Postenbörse 'Ich als Geist'. Es
+gibt kein 'Selbst' mehr, sondern nur noch Personen, die von sich
+selbst sprechen und auf sich als Personen Bezug nehmen.
+
+
+Ich gebe Dir recht. Zudem glaube ich, dass man mit zusätzlichen
+Formalisierungen und 'positivistischen/formal-analytischen' Argumenten
+noch ein Stück weiter kommt. Deswegen werde ich ja auch die
+Xander/Braunwarth/Hasenfus-Schiene nicht aufgeben.
+
+
+Das Kompliment gebe ich gerne zurück. Warum sollte man sich auch
+zanken, wenn die Übereinstimmungen die Differenzen bei weitem
+überwiegen? Zumal es mir auch Spaß macht, und das viel mehr, als mich
+mit Popperianern zu prügeln ;^) 
+
+übrigens habe ich einen Fledermausthread aufgemacht.
+
+
+Viele Größe,
+Didier.

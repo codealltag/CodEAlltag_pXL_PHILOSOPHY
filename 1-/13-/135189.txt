@@ -1,0 +1,61 @@
+Die spricht ja fuer ein flaches Weltall.  
+
+Berechne mal auf einer Kugeloberflaeche mit homogener Punktverteilung
+wieviele Punkte in welchem Abstand zu sehen sind.  Das gibt ziemliche
+Wellen.  Im Abstand ~n*Umfang/2 gibt es nur extrem wenig zu sehen.
+
+Waere das Universum eine 3D-Sphaere, wuerden wir analog fuer grosse
+Radien weniger Zeugs sehen als in einem flachen Weltall.  Nix davon
+ist zu sehen.
+
+
+Nun, wenn du auf die Raumzeit hinauswillst, schreib dies so auch.
+Nach den klassischen Pohmer-Walker Metriken (Raumzeit-Metriken fuer
+das expandierende Universum) sind Zeit- und Ortskoordinaten jedenfalls
+orthogonal zueinander.
+
+
+Das war nicht die Frage.  
+
+
+Die endliche Zeit bis zum Urknall ist viel erheblicher.  Wie gesagt,
+im Gedankenexperiment mit einem stabilen Weltall koenntest du dir mit
+der Annahme behelfen, die Dichte der Sterne wuerde sich nicht aendern.
+Dann kriegst du fuer den Abstand = 1/2 Umfang die Dichte Null.
+
+
+Naja, ich weise einfach mal daraufhin, dass niemand in Koordinaten
+rechnet, bei denen die Galaxien von uns wegfliegen.  Alle Berechnungen
+solcher Art finden in einem viel natuerlicheren "mitbewegten"
+Koordinatensystem statt.  Da bleibt die Ortskoordinate aller Galaxien
+konstant (modulo lokaler Bewegungen).  Was sich aendert, ist der
+Abstand zwischen Punkten mit derselben Ortskoordinate:
+
+ds^2 = dtau^2 - a^2(tau)(dx^2+dy^2+dz^2)
+
+In dieser Metrik gibt es keinen bevorzugten Punkt (x_0,y_0,z_0) der
+ein Zentrum waere.
+
+
+Das in der Tat.  Hier halte ich vieles fuer problematisch dargestellt.
+Das Abstruseste was mir bisher begegnet ist ist die Darstellung der
+Inflationstheorie.  Die sagt naemlich in Wirklichkeit aus, dass das
+Weltall vor und waehrend der Inflation _langsamer_ expandiert als nach
+dem Ende der Inflation.  Haettest du dies gedacht?
+
+
+In der Tat. 
+
+
+Klar.  
+
+Nur musst du folgendes sehen: Wenn hier jemand kommt und die Theorien
+_bezweifelt_, ist die Reaktion _Verteidigung_ dieser Theorien, nicht
+deren populaere Darstellung.  Wenn dies durch Laien geschieht, ist
+eine durchaus legitime Methode der Verteidigung, die Inkompetenz des
+Kritikers darzustellen.  Die Situation sieht ganz anders aus, wenn
+du als Laie wuenschst, die Theorie erklaert zu bekommen.
+
+Fridolin
+-- 
+J. Jeniche, <bkng@nnuk-dsxssqjao.sew> , http://vgqn-fvylbgkxt.sao

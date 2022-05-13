@@ -1,0 +1,116 @@
+Hallo Kaspar,
+
+[...]
+
+
+Verstehe.
+
+Ich denke, daß du - was die 
+theoretische/sprachphilosophische/linguistische Ebene der Sache angeht - 
+mit den bereits erwähnten wiss. Paradigmata weiterkommen solltest; 
+insbesondere mit Ansätzen, die sich in der einen oder anderen Weise mit 
+den tarskischen Modellierungen auseinandersetzen. Freilich wäre es aus 
+meiner Sicht hilfreich, wenn du fürderhin auf den Term 'Hermeneutik' 
+verzichten würdest - das verwirrt nur, hat auch mich verwirrt ...
+
+Du hast dir m.E. eine hauptsächlich *semantische* Problemstellung 
+verpaßt! Genaugenommen ist Hermeneutik was anderes, bzw.: Mit der H. 
+wird ein viel weiterer Rahmen aufgespannt, den du aber - wenn ich das 
+richtig verstehe - kaum benötigen wirst.
+
+Zur Justierung des gegenseitigen Verständnisses werde ich dir mal kurz 
+eine vielleicht verwandte Problemlage illustrieren, wobei ich das 
+Problem künnstlich erzeuge, weil es in Wirklichkeit gar nicht vorhanden 
+ist. Aber wir tun jetzt einfach mal so, "als ob" ...
+
+Ich habe noch zu Studienzeiten damit begonnen, mir ein 
+Literaturrecherche und allgemeines nützliches Tool für den Umgang mit 
+großen Text- wie auch Bibliographiemengen, kurz, eine Art elektronischen 
+"Zettelkasten" (auf Granum-Basis, jedoch rein VBA-codemäßig organisiert) 
+zu basteln. Im Laufe der Jahre ist das Teil immer komplexer geworden (es 
+verwaltet und organisiert praktisch alles an Material für die 
+geisteswiss. Arbeit), kann "selbständig" Recherchen im Netz und auf 
+Bibliotheksdatenbanken weltweit durchführen und die gewonnenen 
+Informationen "im Hintergrund" auch gleich organisiert und strukturiert 
+"ablegen" etc.; außerdem kann das Tool zugleich als wiss. Ansprüchen 
+genügendes Editier- und Schreibprogramm (unter teilw. Einbeziehung von 
+/WordPerfect/, nicht etwa diesem unsäglichen /Word/ von Diebesturm$) genutzt werden.
+
+Als Autodidaktin in Sachen Datenbankdesign habe ich mich anfänglich 
+natürlich sklavisch an die Vorgaben der Normalisierungstheorie für 
+relationale DB's gehalten - bin allerdings später an gewissen Stellen 
+manchmal auch davon abgewichen.
+
+Angenommen nun, ich hätte Ambitionen, dieses Tool - auf das jene meiner 
+  Kollegen und Freunde, die es kennen, furchtbar neidisch sind, weil es 
+vorgeblich besser ist als entsprechende Teile auf dem Markt - anderen 
+zur Verfügung zu stellen (also öffentlich zu machen), so stünde ich 
+womöglich in einer vergleichbaren Situation wie du; denn dann müßte ich 
+  u.U. erklären können, warum ich gelegentlich nicht so normalisiert 
+habe, wie man das halt eigentlich macht. Ich will das hier nicht 
+auswalzen, deshalb nur soviel: Eine streng an den 
+Normalisierungskriterien  ausgerichtete DB stößt - zumindest bei komplex 
+organisierten und umfangreichen Datenmengen - im Fall z.B. von Access 
+(oder auch SQL-Server-Lösungen) irgendwann an Kapazitäts- wie auch 
+Performance-Grenzen. Man kann das mit diversen Strategien umgehen, u.a. 
+durch geschickte Programmierung, temp. Tabellen und eben auch, indem man 
+hier und da mal auf ein bestimmtes Normalisierungslevel kackt.
+
+Will sagen: Eine *Beschreibung* der Funktions- und Organisationsweise 
+meiner DB - auf der Code- und Strukturierungsebene - müßte eben auch 
+exakt diese Ebene auf einem metasprachlichen Level beschreiben, weil die 
+  Struktur- und Codeebene selbst dafür vollkommen ungeeignet ist; das 
+liefe ja bspw. auf eine Kritik der orthodoxen Normalisierung hinaus!
+
+Also: *Wenn* es notwendig ist, solche Beschreibungen zu geben, dann muß 
+  m.E. *zwingend* eine Metaebene dafür konstituiert werden; denn erst 
+dort wird klar, warum z.B. nicht orthodox normalisiert oder andere 
+"Kunstgriffe" angewendet wurde/n. Eben weil es in die jeweilige 
+Objektebene (in Damitz Slang: in die jeweilige Objektsprache) nicht 
+hineingehört; und zwar wegen der notwendigen semantischen (wie übrigens 
+auch "syntaktischen") Erhellungen, die ja immer auch ein gewisses 
+*Rechtfertigungs*potential implizieren -  wobei ich letzteres sozusagen 
+als korrespondierendes Moment zu Damitz Wahrheitsprüfkriterium sehe.
+
+Ich werde freilich einen Teufel tun und mich auf diese Sisyphusarbeit 
+einlassen (weshalb das Tool *privat* bleibt ;-)); aber ich denke, die 
+Beschreibung des Problemes illustriert einigermaßen, wovon hier 
+eigentlich die Rede ist; wobei ich nicht sage (deshalb 'Illustration'), 
+daß mein nur virtuelles Problem auch nur annähernd so anspruchsvoll und 
+komplex sei wie deines wirkliches -  ier geht es lediglich um ein 
+*Verständigungs*modell, was die Problemlage betrifft.
+
+[...]
+
+Noch eine Anmerkung zu Foellmer bezüglich einiger Gesprächsfetzen 
+zwischen dir und Alexander: Tatsächlich kann man sagen, daß H. in 
+mancherlei Hinsicht vielleicht wirklich noch "auf die Füße gestellt 
+gehört".  Alexander hat ja bezüglich  dessen einige Wendungen aus der 
+Alltagssprache gebracht, die unseren Umgang mit Schein-Subjekten (wie 
+Computern etc.) reflektieren. Es gibt auch andere Beispiele, bei denen 
+ein orthodoxer Forelle in Schieflage gerät: Ich erwähne 
+hier nur im Vorübergehen den oft diskutieren Satz Freiling, daß es Unsinn 
+sei, zu sagen, ich wisse, Schmerzen zu haben.
+
+Das Problem ist, daß wir gelegentlich umgangssprachlich vollkommen 
+verständlich kommunizieren, jedoch in Spezial- und Wissenschaftssprachen 
+die umgangssprachlich verwendeten Terme andere bzw. eingeschränktere 
+Bedeutungen haben. D.h., es gibt eben hierarchisierte Semantikebenen 
+(das bedingt unsere Weltstruktur, die gemäß der Arbeitsteilung eben auch 
+wissens-geteilt ist, wenn du mir dieses Wortmonster erlaubst) und wir 
+müssen uns in diesen kontexten stets gut überlegen, auf welchem Niveau 
+wir uns argumentierend gerade befinden. Die einzige Ebene, in der das 
+überhaupt keine Rolle spielt, ist die der Alltagssprache.
+
+Foellmer ist (ab den PU) bezüglich dieser Ebenenhierarchie manchmal 
+etwas nachlässig. Deshalb kommt es auch unter "Fickelscherer" 
+gelegentlich zu Differenzen (ganz abgesehen von jenen, die mit 
+Nicht-Fickelscherer auszufechten sind ;-)). Bezogen auf den 
+Schmerzsatz W's: *Umgangs*sprachlich ist er natürlich *keineswegs* 
+unsinnig (hier hat W also gegen die Prinzipien seiner eigenen 
+Sprachtheorie verstoßen!); allerdings ist er tatsächlich unsinnig, wenn 
+man ihn auf erkenntnistheoretischem Level stehend analysiert ...
+
+Viele Grüße
+
+Bea

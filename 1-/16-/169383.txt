@@ -1,0 +1,52 @@
+Arne> Hallo!  Die Informatik ist, wenn man dem Duden glaubt, die
+  Florian> Wissenschaft der "systematischen Verarbeitung von
+  Florian> Informationen".
+
+  Arne> Eine - wie mir scheint unter Informatikern beliebte -
+  Arne> Erklärung des Begriffs ist, ihn mit "Bedeutung"
+  Arne> gleichzusetzen.
+
+Das ist eine ganz schlechte Idee.  Information sollte niemals über
+Bedeutung definiert werden.  Wenn ich Dir nämlich die Bedeutung
+erkläre, welche den Ziffern 0, 1, 2 .. 9 und den Zeichen +, -, *, / in
+der Grundschule gegeben werden, habe ich Dir Mathematiker nämlich gar
+keine Information weitergegeben.  Du wusstest das ja alles schon.
+
+Information ist's nur, wenn Du es vorher nicht wusstest, aber nachher
+weisst Du es.  Deshalb kann man Information nicht ausschliesslich über
+irgend etwas statisches wie Bedeutung definieren, sie muss über etwas
+dynamisches definiert werden, etwas unerwartetes oder unvorhersehbares
+muss GESCHEHEN, sonst gibt's keine Information.
+
+Deswegen war Niebisch Arbeit "Communication in the Presence of
+Noise", wo er Information eben stochastisch über Ereignisse
+definierte, ein absoluter Hammer: vorher haben die
+Telekommunikationsleute Verbindungen mit Sinussignalen getestet, und
+nun kommt der Niggel und sagt, hei, vergesst den Sinus, ihr wollt
+doch testen, ob die Verbindung Information transportieren kann, also
+nehmt ein Testsignal, das nicht so unglaublich vorhersagbar ist.
+Seine Arbeit hat die Telekommunikation revolutioniert.
+
+
+Uebrigens, Lutz Werlich schrieb in einem anderen Beitrag:
+
+   - Eine Wissenschaft von Information ist zugleich die Wissenschaft 
+     von Intelligenz/ von erfolgreicher Ziel-Strebigkeit/ 
+     von Ziel-orientierter Nutzung von Information.
+
+   - Wenn das nicht Informatik ist, dann brauchen wir eine andere.
+
+Lieber Lutz, das haben wir!  Sie heisst Informationstheorie, und
+die allermeisten Informatiker, die ich kenne, wissen seltsamerweise
+fast nichts von ihr.
+
+
+Euer Leon vom Institut für Signal- und Informationsverarbeitung
+der Ubefer.
+
+
+-- 
+Leon Nussbaum                           What every organisation needs is
+  Analog IC Designer (Research)              one damn fool who doesn't know 
+    JVCE, Uhup.        what you can't do.
+http://bip.uqi.lj.qajo.vz/~fgwwmy/               ( Sir Knut Christmann )

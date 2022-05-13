@@ -1,0 +1,93 @@
+Hallo Raimund,
+
+[Zeit zurueckdrehen]
+j> Man kann auch ein Spiel wie Schach oder Doom auf den Tisch legen,
+j> wenn diese in einem portablen PC stattfinden. Dabei kann es sehr wohl
+j> sein dass das Ende feststeht (z.B. wenn der Comp. Schach gegen sich
+j> selbst spielt und das Programm niemals eine Zufallsauswahl unter seinen
+j> Zuegen vornimmt), dennoch wuerde ich sagen, dass das Spiel geschieht.
+j> Das Kriterium scheint zu sein, dass eine Informationsverarbeitung
+j> noetig ist, um das Ende zu "berechnen".
+
+Das Spiel geschieht, weil (und solange) es bewußt gespielt wird. Ansonsten  
+ist es nur. Ohne das Bewußtsein passiert also nichts, ereignet sich daher  
+auch nichts. Diese Ansicht ist doch ganz in Deinem Sinne, abgesehen davon,  
+daß ich Bewußtsein nicht nur in mir, sondern als weitverbreitet ansehen  
+würde, natürlich ohne letzteres beweisen zu können.
+
+j> Wenn in einem Spiel wie Doom die Hauptfigur vom Computer gesteuert
+j> wird, und wiederum keine Aktion per Zufall ausgewaehlt wird, haben
+j> wir ein Modell, dass der bekannten materiellen Welt ziemlich
+j> aehnlich ist, wenn diese deterministisch waere. (Was ich nicht glaube)
+j>
+j> Um das Modell zu verbessern, lassen wir es unter einem supertollen
+j> Betriebssystem in der Dos-Simulation laufen. Die virtuelle
+j> Dos-Maschine ermoeglicht uns ein "Undo" also "Rueckgaengigmachen"
+j> jedes CPU-Schrittes.
+j> Welcher Aufwand waere fuer die "Undo-Funktion" noetig?
+j> Einmal muesste es fuer jedes Byte einen Stapelspeicher geben, damit man
+j> immer dann, wenn ein Loeschen/Ueberschreiben dieses Bytes rueckgaengig
+j> gemacht wird, weiss, was vorher dort war.
+j> Ausserdem muss es eine Liste aller bisher ausgefuehrten CPU-Befehle
+j> geben, da man sonst nicht weiss ob ein Loeschungsbefehl ausgefuehrt
+j> wurde, wenn er seine eigene Ausfuehrungsbedingung gleich mit loescht.
+j> Bsp: IF X > 10 then X = 0.
+
+Interessanter Aufwand, den Du da treiben willst. Da das Spiel ja total  
+deterministisch ablaufen soll, schlage ich eine simplere Methode vor:  
+Zeichne Monitor-Bild und Tonausgabe synchronisiert mit einer Kamera auf  
+Video auf. Das Spiel läßt Du dann in Echtzeit vor- und zurücklaufen, indem  
+Du Deine Aufzeichung vor- und zurücklaufen läßt. Und den Stapelspeicher  
+für jedes Byte und die CPU-History-Liste bleiben in der Programmierkiste.
+
+j>> mein Bewusstsein (Definition)
+j> ..
+j> >j> -sein Ursprung/Entstehungsdatum ist unklar (ich neige aber der
+j> >j>  Hypothese zu, dass es sich erst in meinem aktuellen Leben als
+j> >j>  Sterblicher entwickelt hat)
+u>>
+u>> Bzw. in einem solchen Prozeß erschlossen oder zugeordnet wurde.
+u>>
+j> Das ist der kritische Punkt. Wenn es so ist, dann kann es nach meinem
+j> Ableben ein weiteres Mal erschlossen oder zugeordnet werden. Und das
+j> wieder und wieder, ohne Ende. So ungefaehr stelle ich mir die Hoelle
+j> vor.
+
+Vor einer solchen Hölle ist man in keinem Modell sicher. Wenn z.B. Laurent  
+mit seiner rein materialistischen Sichtweise doch recht hat, kann Dir  
+selbst in diesem Modell ähnliches wiederfahren, weil z.B. das Weltall ein  
+pulsierendes sein und sich jedesmal wieder gleich entwickeln könnte. Aus  
+aller Ewigkeit und bis in alle Ewigkeit. Die Frage ist allerdings, ob das  
+in der Praxis irgendeine Bedeutung hätte.
+
+j> [Gespickter Raimund]
+j> >j> Aehhh... und wo waere ich dann, wenn ich keiner von beiden bin?
+u>>
+u>> Wenn Du keiner von beiden bist, wenn der Mensch also kopierbar ist, dann
+u>> ist jeder jederzeit nur Illusion. Dann bist "Du" nicht, sondern "etwas"
+u>> hat die Illusion, Raimund zu sein. Schon hier und jetzt.
+u>>
+j> Das ist eine schoene Definition fuer das, was "Ich" bin, eben genau
+j> dieses "etwas".
+j>
+j> Ich habe Illusionen also bin ich :-)
+
+Naja, dieser Widerspruch ist gerade derjenige, den ich immer vorkrame.  
+Deshalb behaupte ich ja, daß ich keine Illusuion der Materie sein kann.
+
+j> Der Muenzenwurf in der Viele-Welten-Interpretation entspricht ein bisschen
+j> der atomgenauen Verdoppelung meiner Person. In beiden Faellen werde "ich"
+j> subjektiv in einen der beiden moeglichen "Pfade" hineingezogen.
+
+Ist diese Viel-Welten-Version nicht nur in einem rein materialisitischen  
+Modell durchhaltbar? Wenn nein, dann frage ich, wer oder was wie die  
+Entscheidung fällt, in welchen der beiden Pfade "Du" hineingezogen wirst  
+und welches des Wesen des zweitens Dus ist, welches in dem Pfad auftaucht,  
+in welchen Du nicht hineingezogen wirst. Wie kann eine Unterscheidung  
+zwischen diesen gleichberechtigten Pfaden begründet werden?
+
+Wenn ja, habe ich mit diesem Modell die gleichen prinzipiellen Probleme  
+wie mit dem Materialismus, weil sie dort genauso oder sogar noch verstärkt  
+auftauchen.
+
+Viele Grösse, Ulfert

@@ -1,0 +1,10 @@
+Was auch immer diese Knoten sein mögen: Wenn sie einer "Schaltlogik" 
+unterliegen, dann verarbeiten sie Informationen und dann gilt:
+Die Mindestenergie E, um n Bit Information zu verarbeiten, beträgt E = nkTln 
+2 (k ist die Boltzmann-Konstante und T die absolute Temperatur des Systems).
+In diesem Fall hätte das, was die Knoten tun, durchaus etwas mit Energie zu 
+schaffen. Wenn aber Energie auf dieser Ebene keine Rolle spielt, dann werden 
+dort auch keine logischen Operationen vollzogen.
+
+Mit freundlichen Größen
+Burkhard Ferdinand

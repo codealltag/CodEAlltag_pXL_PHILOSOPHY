@@ -1,0 +1,17 @@
+Das ist Interpretationssache.  Wenn z.B. ein Tier, das zum Leben
+Dunkelheit (wozu auch immer) braucht, sich von der Einfallsrichtung
+des Lichts wegbewegt, so funktioniert das nicht deswegen, weil es sich
+etwas dabei gedacht hat, sondern weil Lichtstrahlen üblicherweise
+divergent und gedämpft sind; und die Exemplare, die in die
+Gegenrichtung liefen, ausgestorben sind.  Wäre Licht konvergent und
+selbstverstärkend, wäre die umgekehrte Strategie besser (man müsste
+aufs Licht zulaufen, um ins Dunkle zu gelangen).
+
+Eine Implementation, die das leistet, würde ich nicht als
+"zielgerichtet" betrachten.
+
+Nils
+-- 
+GS d->? s:++>+++ a+ C++++ UL+++ UH++ P++ L++ E+++ W- N++ o-- K-
+w--- !O M- V- PS+>++ PE Y+>++ PGP+ !t !5 !X !R !tv  b+++ DI+++
+D? G+ e++++ h+ r? y?

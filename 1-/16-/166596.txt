@@ -1,0 +1,34 @@
+Ivano Noerenberg <ovnxup.wdpjbp@ldbnx.zjh-lmoer.ep>:
+[TM, Primzahlzwillinge]
+: Die *Definitionen* sind eindeutig, sie bestimmen fuer jedes x, ob x ein
+: Pumpfel, ein Knurps oder ein Knarf ist. Was moechtest du mehr? 
+
+Ach ja? Nur dass wir bei den Primzahlzwillingen nicht wissen, ob und
+bei der TM bewiesen ist, dass wir nicht wissen koennen. Die 
+(fiktive) Eindeutigkeit der Definition nuetzt einem da ueberhaupt nichts,
+die muesste man auch erstmal beweisen, und da lauern auch haessliche
+Fallen. Es geht naemlich noch brutaler:
+
+  Def. Eine Menge X heisst Proff, falls gilt:
+
+Ob es Proffs gibt, haengt von der KH ab, und die KH ist unaebhaengig
+von ZFC. ZFC+Proff-Def. ist also nicht "eindeutig", es gibt
+ZFC+Proff-Def "mit Proffs" und ZFC+Proff-Def "ohne Proffs". Und diese
+Definition ist explizit nichtrekursiv und trotzdem in deinem
+Sinne "haarig".
+
+:>: FormelMenge(M):<=> (Atomformel in M) & 
+:>: 	(x,y) (x,y in M -> '(x)&(y)','(x)|(y)','!x' in M)
+:>
+:>: Formel(x):<=> x in "Schnitt aller Formelmengen"
+:>
+[...]
+
+: Machen wir's 'mal expliziter:
+: Nehmen wir ein (endliches) Alphabet A, die Menge aller "Woerter" ist
+: A*, eine abzaehlbare Menge. Die Grundmenge, aus denen ich die Mengen
+: "entnehme", ueber die ich schneide, ist also P(A*) hat also die
+: Maechtigkeit von R. Schon zu viel?
+
+Dann nicht mehr (ausser fuer Konstruktivisten ;)), dann ist es 
+wenigstens noch eine Mengenkardinalitaet. Ich finde das trotzdem Overkill.

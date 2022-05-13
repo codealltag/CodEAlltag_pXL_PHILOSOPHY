@@ -1,0 +1,8 @@
+mische mich nur kurz ein: ohne varianz, also abweichungsquadrate
+von einem mittelwert einer verteilung, kannst du keine
+korrelation berechnen, da die bei einem ereignispaar
+allein immer 0 ergibt, du brauchst also mindestens 2 
+beobachtungspaare, was in der praxis natuerlich auch
+zuwenig ist - aber das ist eine frage der testtheorie.
+
+8-}) pasquale

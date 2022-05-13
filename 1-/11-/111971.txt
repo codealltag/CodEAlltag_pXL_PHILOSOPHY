@@ -1,0 +1,46 @@
+Wenn man noch Frösche hat, reicht das, um Kausalität (oder ihre
+Abwesenheit) zu berechnen.  Man nimmt die Hypothesen Störche=>Babies
+und Störche=>Antifr�sche und prüft die Reichenbachschen Ungleichungen
+für die bedingten Wahrscheinlichkeiten (das "=>" stehe für eine
+Kausalbeziehung).
+
+Konkret verlangt man dazu:
+
+1. Babies und Antifr�sche sind positiv korreliert (d.h. sie treten
+   wahrscheinlicher gemeinsam auf, als dem Produkt ihrer
+   Wahrscheinlichkeiten entspricht);
+
+2. Die bedingten Wahrscheinlichkeiten (unter der Anwesenheit von
+   Störchen) für das Auftreten vieler Babies und Antifr�sche sind
+   höher als die einfachen Wahrscheinlichkeiten dieser Ereignisse;
+
+3. Die Korrelation zwischen Babies und Antifr�schen taucht nicht auf,
+   wenn man die Fälle mit und ohne Störche getrennt betrachtet
+   (d.h. die Wahrscheinlichkeit für gemeinsames Auftreten von Babies
+   und Antifr�schen in Anwesenheit von Störchen ist gleich dem Produkt
+   der beiden bedingten Wahrscheinlichkeiten, im storchlosen Fall
+   analog).
+
+Ich habe hier "Antifr�sche" als Maßeinheit eingeführt (= -1 Frosch),
+um nicht dauernd mit negativen Korrelationen usw. hantieren zu müssen,
+was sich in Prosa schlecht macht.  Das Beispiel ist außerdem
+unpraktisch und kompliziert, da die beobachteten Ereignisse nicht
+Bits, sondern ihrerseits statistische Größen sind (was man zu
+"mindestens 1 Storch im Dorf", "mindestens 1.8 Kinder pro Frau",
+"höchstens 1 Frosch pro m^2" verstümmeln könnte).
+
+
+Nun ja, St. Arthur war bekanntlich etwas wunderlich (wie man an seinen
+Geheimen Tagebüchern sieht oder an Karren Erinnerungen).  Wenn man
+obige drei Regeln als /Definition/ der Kausalität benutzt, wird das
+ganze ziemlich unmystisch (und die Behauptung, wonach die Ursache
+zeitlich vor der Folge zu liegen hat, wird eine nachmessbare
+physikalische Theorie).
+
+Was die unaussprechlichen Dinge angeht, so kommt man IMHO mit der
+Annahme ihrer Nichtexistenz ganz gut hin.
+
+Wilhelm
+-- 
+GS d->? s:++>+++ a+ C++++$ UL+++$ UH+ P++ L++ E+++ W- N++ o-- K- w--- !O M- V-
+PS+>++ PE Y+>++ PGP+ !t !5 !X !R !tv  b+++ DI+++ D?  G+ e++++ h+ r? y?

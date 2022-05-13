@@ -1,0 +1,62 @@
+Lorenz Hothmann in Zbx27FBPX65T1P6Yfw178eykrdephlfdbyeu@512.95.9.67 :
+
+
+Wenn die Maxwellsche Theorie widerspruchsfrei wäre, müsste das wohl
+gelten. Meine Aussage ist von Ladungserhaltung aber unabhängig.
+
+In der hervorragenden Ingenieur-Analysis (Mathäus Ingenweyen, Kultstore)
+aus meiner Studienzeit findet sich hierzu ein schönes Beispiel:
+
+  "Eine inkompressible Flüssigkeit strömt in einer dünnen Schicht
+  zwischen zwei Platten dahin, wobei aber durch die obere Platte
+  weitere Flüssigkeit einsickern oder vorhandene wegdiffundieren
+  kann. Sickert in einer Region der Ebene Flüssigkeit ein, so muss
+  sie irgendwie aus dieser Region abliessen. Umgekehrt müssen
+  Regionen, wo Flüssigkeit verdunstet, einen Zufluss aufwiesen."
+
+Würde sich das Einsickern und Verdunsten nicht instantan auf das
+Strömungsfeld auswirken, wäre die Flüssigkeit nicht inkompressibel,
+und (reale) Zu- und Abflüsse wären nicht mehr über den Gauss'schen
+Satz mit Einsickerungen und Verdunstungen verknüpft.
+
+
+Lass uns die Situation nach 0.9 Mikrosekunden kontinuierlicher
+positiver Aufladung unter der Prämisse von Retardierung (d.h.
+Ausbreitung) mit c analysieren. über folgende Konsequenzen sind
+wir uns dann einig:
+
+  1) Das von der Kugel erzeugte elektrische Feld ist dann in einer
+     Entfernung grösser als 270 m noch nicht vorhanden.
+  2) Wenn wir vom 1000 m langen Draht oder besser der 1000 m langen
+     Spannungsquelle absehen, dann ist der Fluss des elektrischen
+     Feldes durch die 300 m entfernte Oberfläche Null und die
+     1. Maxwellgleichung widerlegt.
+
+Da du von der Konsistenz der Maxwellschen Theorie ausgehst,
+schliesst du dann:
+
+  3) Das elektrische Feld im Leiter ist am Ort, wo dieser die 300 m
+     entfernte Oberfläche durchstösst, genauso so gross, dass die
+     1. Maxwellgleichung erfüllt ist.
+
+Dazu gibt es mehrere Gegenargumente:
+
+  1) Man kann die Verbindung der zwei Kugeln nach z.B. 0.8 Mikro-
+     sekunden unterbrechen und alle Spannungsquellen ausschalten.
+  2) Die Quellstärke der sich aufladenden Kugeln ist eine extensive
+     Grösse, das elektrische Feld im Leiter jedoch eine intensive.
+  3) Das Feld im Leiter hat das falsche Vorzeichen.
+
+
+Ich möchte hier noch betonen, dass alle meine Behauptungen
+in dieser Diskussion (abgesehen von ein paar begrifflichen
+Ungenauigkeiten) richtig sind, auch wenn oberflächliche
+Mitleser aufgrund der vielen "falsch", "Unsinn" usw. meiner
+Diskussionspartner einen ganz anderen Eindruck bekommen haben.
+
+
+Gruss,
+Veit Lars E.
+
+Meine vorigen Diskussionsbeiträge:
+http://dyuxmhc.ljd.rz/nvsyzjsp/wvpgdf8.ddjp#zs

@@ -1,0 +1,77 @@
+On Sat, 20 Jul 2003 17:28:40 +0100, Maik Bielecki
+Du hast es *immer noch nicht* verstanden, was?
+
+Also betrachte mal den 1-dim Schnitt durch Dein "endliches
+Massevolumen":
+
+
+	(    ->   x   <-    )
+
+SO stellst Du Dir das vielleicht vor. Man würde also annehmen, dass auf
+die beiden Bereiche ( und ) nach innen gerichtete Kräfte wirken. Ok.
+
+Nun kann ich aber das Bild mit gleichem Recht erweitern zu...:
+
+(    ->   x   <-    )(    ->   x   <-    )(    ->   x   <-    )
+
+Hier heben sich die beiden Kräfte im Bereich )( jeweils auf... 
+- Sinnbildlich:
+
+( ->      x                    x                    x    <-   )
+
+
+Das Spielchen kann man aber ad infinitum spielen... Am Ende hast Du GAR
+keine RESULTIERENDEN Kräfte mehr.
+
+
+Dein MODELL "hinkt" aber eben schon bei der ANNAHME des "endlichen
+Massevolumens". DENN wie GROSS soll den Deine "Endlichkeit" sein?
+Diese Größe ist durch NICHTS determiniert. D. h. die von mir oben
+angenommene Ausgangslage
+
+	(    ->   x   <-    )
+
+ist völlig fiktiv. Genausogut hätte ich wählen können:
+
+	(    ->                  x                  <-    )	
+
+
+Oder
+
+	    (->x<-).
+
+Und damit (vom Letzten Fall ausgehend) auch:
+
+	...(->x<-)(->x<-)(->x<-)(->x<-)...
+
+Oder eben gleich:
+
+	...->x<->x<->x<->x<-...
+
+
+Jedoch hast Du recht, wenn Du sagst, dass eine
+Ja, natürlich!
+
+Die GERINGSTE Inhomogenität lässt das System "kippen".
+
+
+Das PROBLEM lässt sich also reduzieren auf folgende Frage:
+
+Gegeben sei eine IDEALE Kugel und eine IDEALE Spitze in einem IDEALEN
+Gravitationsfeld "welches nach unten" gerichtet ist):
+
+
+	         O
+	        / \
+	       /   \
+	      /     \
+	     ~~~~~~~~
+
+	v	v	v
+
+
+Wird die Kugel (die zum Zeitpunkt t = 0 als auf der Spitze ruhend
+angenommen wird) nun nach LINKS oder nach RECHTS kippen für t > 0?
+
+
+A.

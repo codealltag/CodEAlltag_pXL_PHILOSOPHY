@@ -1,0 +1,45 @@
+Zehetleitner sowas aus der Systemtheorie bzw. Automatentheorie erben, oder
+brauchen wir da was anderes?
+
+
+Hm... ;-) Das ist ja quasi eine Prozessinstanz dann, also eine Historie
+des Automaten UIPB.
+
+
+Ist das ein Übergang, also ein Aufruf der Übergangsfunktion im
+Automaten, oder ist das was anderes?
+
+
+Da komm ich wieder nicht mit. Was für ein Zentrum?
+
+
+Welcher Zustand? Der Gesamtzustand des Systems, oder sind das
+irgendwelche Einzelzustände?
+
+
+Oh. Dann bitte definiere, was "Zentren" sind.
+
+
+OK. Hört sich an, als seien "Zentren" Zustände von Objekten im System.
+So wird Dein Automat allerdings diskret. Ist das im Sinne des Erfinders?
+
+
+OK, Du scheinst einen diskreten Automaten im Kopf zu haben. Erste
+Näherung: was hältst Du von einer Finite State Machine? Das Ding scheint
+gefühlt Deinem Prozessbegriff am nächsten zu kommen, wenn man
+Statemachine in State zulässt.
+
+
+Besser, ja.
+
+
+Nee, komm jetzt ;-) Ich werde sicher nicht Ideen plattbügeln, nur weil
+ich sie noch nicht durchschaut hab oder sie möglicherweise noch nicht
+ganz ausgereift sind.
+
+Wie soll sonst was entstehen?
+
+Viele Grüsse,
+VB.
+-- 
+Bitte beachten Sie auch die Rückseite dieses Schreibens!

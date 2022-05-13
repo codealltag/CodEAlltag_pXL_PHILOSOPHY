@@ -1,0 +1,12 @@
+Charly Ullbrich <pprx_kzuzuya@djs.ljp>:
+: Bei Monitoren, waers eine Abhilfe wenn man z.B. 6 Farben in guenstigen
+: Frequenzabstaenden als Monitor-Grundfarben benutzen wuerde
+: und die RGB-Werte mit 6 geeigneten Funktionen Ci=Fi(r,g,b)
+: auf die entsprechenden 6 Grundfarben mappen wuerd? Waer mal
+: ein Versuch wert, oder?
+
+Reale (also x*F1+y*F2; x+y=1; x,y>0) Mischung zweier Farben liegt immer auf 
+der Gerade zwischen ihnen. Man kommt also aus dem durch die Grundfarben
+aufgespannten n-eck nicht raus. Das Farbhufeisen ist aber rund. Daraus
+folgt, dass man mit einer endlichen Anzahl von realexistierenden (d.h. im
+Hufeisen liegenden) Grundfarben nie alle Farben darstellen kann.

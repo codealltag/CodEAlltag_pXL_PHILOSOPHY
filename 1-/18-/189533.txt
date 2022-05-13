@@ -1,0 +1,36 @@
+Leopold Jarck <rjnqyxh@gvev.ixr-gfuctcmq.qz> schrieb im Beitrag
+<24NN3C45.5MH2@uxgl.coq-aiflkuou.vz>...
+
+erwaehnt 
+
+Hi, 
+
+vielen Dank fuer Eure Erklaerungen zu ZFC, auch an Willi Mir als Laie
+waren sie aber nicht hinreichend genug, um qualifiziert mitreden zu
+koennen. Deshalb gehe ich nur auf das Beispiel ein: 
+
+Es ergaebe sich: M = {M, m_1, m_2, m_3 } , (ich habe nicht mitgezaehlt,
+wieviel Mengen nun tatsaechlich in Deinem Posting "explizit" erwaehnt
+werden),
+
+und daraus folgend:
+M = { {M, m_1, m_2, m_3 } , m_1, m_2, m_3 } 
+M = { { {M, m_1, m_2, m_3 } , m_1, m_2, m_3 } , m_1, m_2, m_3 }
+M = ....
+
+Das sieht mir nach einer wundersamen Elementenvermehrung aus. Wenn m_1 ,
+m_2 und m_3 Aepfel, Bananen und Birnen in einem Vorratslager waeren,
+koennte ich ueber Nacht ein reicher Obsthaendler werden. :-)  hm, so ganz
+sicher bin ich mir da aber doch nicht. Wenn schon nicht die Anzahl der
+Elemente ins Unendliche waechst, dann aber zumindest die Anzahl der
+definierten Mengen, was dem "explizit erwaehnt" widersprechen wuerde.
+
+M = { {m_1, m_2, m_3 } , m_1, m_2, m_3 } enthaelt zwar nicht mehr sich
+selbst als Element, waere aber nicht ganz so problematisch, obwohl es mich
+auch hier stoert, dass Elemente mehrfach genannt werden. Man duerfte halt
+nicht eine Menge als die Summe ihrer Elemente verstehen, sondern nur als
+das die Elemente verbindende Band. 
+
+-- 
+
+Mit freundlichen Gruessen, Henry

@@ -1,0 +1,107 @@
+Folkert Thünissen:
+
+
+Du hast es nicht verstanden oder?
+Du behauptest an einem Tag x es sei Mittwoch, folglich ist für dich heute
+Freitag. Die Begründung, das heute Freitag ist, ist für dich der Dienstag
+vor dem Mittwoch.
+Ich behaupte nicht an einem Tag y es Donnerstag, sondern ich behaupte am
+Tag x es sei Donnerstag, folglich ist dann heute Samstag. Wenn dein
+Schluss gültig ist, dann ist auch mein Schluss gültig. 
+Als Beispiel brachte ich eine Computerfunktion die an dem Tag x aufgrund
+eines anderen Kalenders Donnerstag auswirft. Als Parameter wurden der
+Funktion dieselben Daten übergeben, sprich dasselbe Datum. 
+Aufgrund dieses Datums errechnet die Funktion eine andere Zahl, aber sie
+verrechnet sich nicht. Ein Computer hat keine Kultur, er kann nichts davon
+wissen, welchen Wochentag wir heute haben, er kann den Tag nur berechnen.
+üblicherweise geschieht dies in Relation zur Systemzeit, wenn wir das
+Datum nur auf hundert Jahre genau haben wollen, da der Speicherplatz der
+Systemzeit aber bei einm 32-Bit Rechner begrenzt ist, kann die Funktion,
+die den Wochentag ermittelt nicht mehr den Wochentag ermitteln, wenn die
+übergebene Zahl, nicht den Sekunden der Systemzeit entspricht. Er weiss
+den Wochentag nicht mehr, weil der Computer keine gültige Schlussregel
+mehr hat. Es gibt auch andere Funktionen zur Wochentagsermittlung, die in
+grösseren Massstäben mit dem ISO-Date rechnen, die kommen dann nicht im
+Hundert in das Schleudern, sondern kommen mit der Umstellung
+gregorianisch/julianisch nicht zu recht. 
+
+  Der Computer schliesst dabei aber logisch korrekt von der vergangen Zeit
+auf den Wochentag, darin verrechnet er sich nicht, da einzige was man ihm
+aber sagen muss ist ein einziger Wochentag und die dazugh�rige Zeit, alles
+andere weiss er dann, am besten nehme man einen Ostersonntag und berechne
+daraus den Rest. Aber wenn Mittwoch ein Feiertag ist, wie der 29 April
+und das Programm wurde geschrieben, als es noch der 13. Januar war, dann ist
+der Tag der deutschen Einheit halt am 13.Januar für den Computer. 
+Da hilft es dir wenig, wenn du dich hinstellst und sagst "Heute ist
+Feiertag." mit der Begründung, weil am 3. Oktober die Wiedervereinigung
+war. Der kulturelle Umstand mag zwar stimmen, aber nicht jeder 3. Oktober
+ist ein Freitag. Wenn du sagst der "Freitag ist ein Feiertag", dann galt
+dies dieses Jahr und in Deutschland am 3. Oktober. Wenn du nun sagst, das
+Freitag ein Feiertag ist, weil gestern Donnerstag war, dann ist das keine
+Begründung. Du verknüpft die Aussage "jetzt" mit dem Wörtchen "heute"
+selbstverständlich mit dem richtigen Wochentag. Den richtigen Wochentag
+weisst du aber nur aus der kulturellen Erfahrung heraus. Wirst du durch
+irgendwas aus dieser kulturellen Erfahrung herausgerissen und kehrst dann
+nach einem Zeitsprung in diese kulturelle Erfahrung zurück, dann musst du
+jemand aus der Kultur fragen, welcher Tag heute ist und wenn er dir sagt
+"Heute ist Freitag" und du bist mehrere Jahre aus dieser Kultur
+herausgerissen worden und es wäre vielleicht noch so, dass du schockgefroren 
+du irgendwann in der Zukunft aufwachst und die Zählung ab Christi Geburt wurde
+abgeschaft und man würde dir sagen auf die Frage "Welches Jahr?" antworten
+169, dann wüsstest du nicht, wielange du aus der Kultur weg warst. Du
+wüsstest zwar das "Heute" heute ist und wärest auf den Stand der Dinge
+gebracht worden, welcher Wochentag in der neuen Zeit wäre. 
+
+  Wenn der Freitag aber ein Mittwoch nach Christi Geburt wäre und du
+hättest die ganze Zeit deiner kulturellen Abwesenheit schön brav
+mitgezählt, dann würdest du sagen, das stimmt nicht "Heute ist Mittwoch"
+und wenn man dich um eine Begründung frägt, sagst du "Weil gestern
+Dienstag war.".
+
+Die nur dann wahr ist, wenn der kulturelle Umstand stimmt. Wenn der
+kulturelle Umstand aber ein anderer ist, dann ist die Aussage falsch. 
+
+
+Aber es ist ein Unterschied, ob es ein allgemeingültiger Sachverhalt ist,
+den man vielleicht auch in physikalische Gesetze fassen kann oder ob es
+eine subjektive Anschauung ist. Die Zählung der Zeit in Jahren, Monaten,
+Tagen und Wochentagen ist kein allgemeingültiger Sachverhalt, er ist nur
+beschränkt auf einen einzigen Planeten gültig und eine Jahreszählung hängt
+von den kulturellen Begebenheiten ab. Ob es das Jahr 5763 oder das Jahr
+21. 10. 21 ist oder Jom Shishi hängt sicherlich nicht davon ab, ob gestern
+Donnerstag war oder heute Freitag. 
+Das heute Shishi ist, ist dann ein zutreffender Sachverhalt, wenn wir die
+gesamte jüdische Kultur miteinbeziehen. 
+  Heute ist Freitag, weil Europa einer christlichen Kultur entstammt und
+ein päpstliche Anordnung dies so festgelegt hat. Der Papst widerum hatte
+damals aus dem Grund, weil unsere Zählung mit dem Lauf des Planeten nicht
+ganz im Einklang stand, für einen Änderung entschieden. 
+  Der Sachverhalt der Welt, machte eine Änderung notwendig und wenn
+vielleicht auch Menschen in der alten Zeit weiterrechneten, so wie die
+orthoxe Kirche heute noch einen anderen Kalender hat, oder so wie mancher
+heute noch in DM rechnet, obwohl wir den Euro haben, ändert das nichts
+daran, dass die Zuordnung willkürlich ist. Solche Zuordnungen sind
+nützlich und sinnvoll, aber sie sind kein Sachverhalt. 
+
+  Die Beschreibung eines Sachverhaltes ist nicht der Sachverhalt. Wenn ich
+sage "Auf dem Tisch steht ein Glas", dann ist dies nur dann ein
+Sachverhalt, wenn die Zeichenkette Tisch auf den Tisch verweist und die
+Zeichenkette Glas auf das Glas verweist. Wenn aber das "Glas" auf den
+Tisch verweist und der "Tisch" auf das Glas, dann verhält sich die Sache
+nicht so. 
+
+"Heute ist Mittwoch." verweist aber nicht in der Art auf einen
+Sachverhalt. "Heute" ist eine Zeitbeschreibung, die den heutigen Tag
+bezeichnet, der Tag ist ein Zeitabschnitt auf unserem Planeten. Heute
+zeigt auf diesen exakten Zeitabschnitt. "Mittwoch" zeigt in seiner
+Funktion in dem Satz auf denselben Zeitabschnitt. Der Zeitabschnitt an
+sich wiederholt sich nicht. In ihrer Referenz zeigen "Heute" und
+"Mittwoch" auf genau denselben Zeitabschnitt. Es werden keine
+unterschiedlichen Tage bezeichnet. 
+
+
+Darin besteht ja kein Problem! Du behauptest, dass es eine Tatsache
+wäre. 
+
+Grösse,
+Igor

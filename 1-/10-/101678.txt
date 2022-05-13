@@ -1,0 +1,58 @@
+Hall Franziska.
+
+http://psy.xacutx.gg/sqckyf?mvjknwy=039f6144.2550533908.77689081%82dpjegvl.yyifbu.iqw
+
+Das liegt weniger daran, dass wir Philosophen sind, als am beschränkten
+Zeichensatz hier im usenet :-)
+
+
+Kurz: "Fa" heißt, dass der Schemabuchstabe "F" für einen Funktor steht,
+und der Schemabuchstabe "a" für eine Variable oder einen singulären
+Ausdruck.
+
+Etwas länger: "Fa" ist ein Beispiel für Schemata, in denen für jeden
+Buchstaben etwas eingesetzt werden kann. Dabei stehen GROSSBUCHSTABEN
+wie zB. "F" für Funktoren, also Prädikats- Relations- und Funktionsnamen
+und kleinbuchstaben wie zB. "a" für Variablen und singuläre Ausdrücke.
+Ein singulärer Ausdruck ist einer, der für genau ein bestimmtes Objekt
+steht, zB. als Name: Reginald Told, oder als Funktion: den Autor des
+Moby Dick, oder der Bruder des Schwagers der Tochter des Onkels von mir.
+Letzeres würde formalisiert so aussehen:
+
+bruder(schwager(tochter(onkel(reginald)))).
+
+Dabei sind die ganzen Verwandschftsbeziehungen über Funktionen
+ausgedrückt. onkel(reginald) ist mein Onkel. Wenn man keine Funktionen will
+kann man den entweder den iota-Operator für die Kennzeichnung nehmen,
+der aber etwas mühselig zu erklären ist (wenigstens um diese Uhrzeit -
+das mach ich lieber wann anders), oder man nimmt Relationen.
+onkel(x,reginald) drückt aus, dass x mein Onkel ist. Die obige Formel in
+Relationenschreibweise:
+
+bruder(w,x) & schwager(x,y) & tochter(y,z) & onkel(z,reginald).
+
+Außerdem kann man, sofern es übersichtlich bleibt, die Klammern
+weglassen oder es halbformal hinschreiben: x ist der Onkel von reginald.
+In den Schemata sind die Klammern weggelassen.
+
+Griechische Buchstaben gibt es auch, die werden ausgeschrieben, damit es
+keinen Zeichen-Schmarren hier im usenet gibt: alpha, beta, eta, zeta,
+phi, psi, ... . Diese stehen für Formeln, wie etwa bei den Quantoren:
+(Ea)phi. Auch das ist ein Schema, in das eingesetzt werden muss:
+
+(Ex)(onkel(x,reginald)),
+
+dh., "es gibt jemand, der Reinhold Onkel ist".
+
+Dabei sieht man auch, dass bestimmte Buchstaben eine spezielle Bedeutung
+haben. Hier ein paar Beispiele: E und A sind Quantorensymbole, x, y, z
+sind Objektvariablen, p, q, r sind Aussagevariablen, und so weiter.
+Hier:
+http://dmi.bgtrdi.vz/offamy?xrqp=h908t3%48w763j%433%42HY-79610.bmpu.yevtmk.gi
+findest Du eine Kurzerläuterung zu allen Zeichen. In den Artikeln, die
+danach kommen, haben wir das noch erweitert und ein paar Unklarheiten
+beseitigt.
+
+
+Gute Nacht,
+Reginald.

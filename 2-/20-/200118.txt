@@ -1,0 +1,46 @@
+Klaus Nagelmann wrote:
+LS> In article <3i96z3$12t$7@jlun.jxru.pw> Ingmar Ingo <pbyzi@qbxg.ogjx.od>  
+
+
+LS> Ja, das kommt hin, stimmt aber mit obigem Fall nicht ueberein, sondern
+LS> ist ein Fall von    A->B & B->C => A->C.
+
+Diese Formalisierung des umgangssprachlichen Satzes macht mir etwas
+Bauchschmerzen, da sie Namen wie Saetze behandelt und ihre Praedikate
+genauso und gleichsam direkt aus den ersteren die zweiten ableitet.
+
+
+LS> Das uebersetzt sich fuer mich zu
+
+LS> WENN Kausalaussage, dann Aussage analytisch UND 
+LS> WENN sprachliche Voraussetzungen gegeben DANN Aussage analytisch
+LS> DARAUS FOLGT
+LS> WENN sprachliche Voraussetzungen gegeben DANN Kausalaussage
+
+LS> also ein Fall von    A->C & B->C => B->A.
+
+Ich glaube, dass die Aussagenlogik nicht maechtig genug ist, um den
+Satz genau zu formalisieren, das Schema waere dann lediglich A & B =>
+C, wobei natuerlich ein Bedeutungsverlust auftraete...
+
+
+LS> Ja, wie gesagt, das macht schon eher Sinn, reduziert das ganze aber
+LS> zu der nicht besonders erstaunlichen Erkenntnis, dass auch Kausalaus-
+LS> sagen sprachlicher Natur sind. Wer haette das gedacht?  ;-)
+
+Tja, ich glaube ja immer noch, dass Inhofer nicht voellig hinter der
+linken Seite der Konjunktion gestanden haette, so dass die Aussage
+zumindest fuer Inhofer nicht folgerichtig waere, weil Kausalaussagen eben
+synthetische Urteile waeren und keine analytischen. Praktisch macht
+das vielleicht aber auch keinen grossen Unterscheid: Die Tatsache,
+dass die Fermatsche Vermutung jetzt scheinbar doch endlich,
+zweifelsfrei bewiesen ist, also quasi analysiert und auf die Axiome
+reduziert werden konnte, verhindert, die fuer Mathematiker ca. 30
+Stunden dauernde (!) Einarbeitung in den Beweis im Rahmen eines Kurses
+halt auch nicht.
+
+-- 
+.----- _privat: udaab@cmyk.zfay.jj_ *"Subject: pgpsend" 4 key* ----------.
+(-------- _uni: mkadoz28@fltmow.dbqewljqlx.ifl-fgmnsibn.hl_ -------------)
+(------- _fido: Jhynekr_Idosl@g3.r1109.n4489.q2.mtcwoaq.kjd_ ------------)
+`-- *PGP fingerprint: 34 E9 05 7E 00 AF 1E 34 55 B6 D6 50 69 2E C3 C2* --'

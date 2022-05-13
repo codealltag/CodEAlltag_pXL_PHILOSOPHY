@@ -1,0 +1,9 @@
+0,9p ist nur dann eine Natürlich Zahl, wenn Du innerhalb der Natürlichen
+Zahlen sie definieren kannst.
+Ist den 0,9poo oder 0,9poo+1Stelle mehr 0,9p?
+Mit der limes und mit Hilfe der Eulerschen Zahl wirst Du den Beweis
+führen können, dass 0,9p = 1 ist. Die Zeichenkette 0,9p wird dadurch
+aber nicht zu einer Natürlichen Zahl.
+
+Gruss
+Ivan

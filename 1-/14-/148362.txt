@@ -1,0 +1,25 @@
+Unterscheidet sich nur in der Form von der C-Notation von Zahlen,
+umgekehrte Ordnung und e als Trennsymbol statt p.
+
+0p1  ist 1e0
+
+Bei negativen Exponenten ist es weitaus schlechter und weniger
+intuitiv. Je grösser der negative Exponent desto kleiner die Zahl.
+So gilt bei
+
+1e-0 > 1e-1 > 1e-10  weil 0 < 1 < 10
+
+aber
+
+0m1  < 1m1  > 10m1 
+
+ =      =      =
+
+1e-10< 1e-9 > 1e-90
+
+
+oder auch heute schon (in C) 6.022e23
+
+Leander
+-- 
+U. Klug,  <lpsb@rhgx-hrzurgtej.zbo>, http://dkwy-awsjmhjaa.npc

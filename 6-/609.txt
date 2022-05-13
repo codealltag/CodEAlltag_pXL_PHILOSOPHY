@@ -1,0 +1,15 @@
+Logik ist ein Kalkül (oder mehrere). Strukturen sind Objekte.
+
+Wenn Strukturen logisch sind, liegt es daran, dass die Logik an sie
+angepasst wurde. Naturkonstanten sind ein gutes Beispiel. Sie sind
+aber nur logisch, wenn Logik auf sie angewandt wird.
+
+Ein Kalkül ist das Operieren mit Objekten. Wenn man bspw. die
+Aussagenlogik hernimmt, dann ist A =3D=3D> B eine logische Aussage. Die
+Struktur besteht aus A und B.
+
+Wenn die Erde eine Scheibe ist (A), dann wandert die Sonne auf einer
+Bahn jeden Tag von Osten nach Westen (B). Der Wahrheitsgehalt von A
+hängt davon ab, was wir als Wahrheit erkennen. A ist eine Struktur,
+und Logik ist nicht der Wahrheitswert von A, sondern das Operieren mit
+ihm. Eine Struktur operiert nicht.

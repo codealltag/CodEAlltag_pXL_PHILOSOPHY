@@ -1,0 +1,49 @@
+In der Standarlogik (etwa FOPL) ist durch den logischen Rahmen
+vorgegeben, dass eine Interpretation einem Eigennamen ein Objekt des
+Individuenbereichs zuordnet, d.h. die Frage der Existenz eines
+Objekts, auf das sich a (oder "a") bezieht, stellt sich gar nicht erst
+, Ey(y=ix(x=a)) ist allgemeingültig, d.h.
+
+ I |= Ey(y=ix(x=a)) 
+
+für alle Interpretationen/Modelle I.
+
+Das sieht man etwa, wenn man die Kennzeichnung ix(x=a) in der Aussage
+Ey(y=ix(x=a)) gemäß Marings Idee eliminiert und so die offensichtlich
+allgemeingültige Aussage
+
+Ez(Ey(y=z) & Ax(x=a <-> x=z)) 
+
+erhält.
+
+[...]
+
+Wie kommst du darauf, dass Ukol nicht existiert? Er lebt nur nicht
+mehr. Ansonsten s.o.
+
+[...]
+
+"Fy" und "y=ix(x=y&Fy)" sind erst einmal *sprachliche* Ausdrücke,
+offene Sätze mit einer freien Variablen "y", die bei Anwendung des
+Lambda-Operators nicht notwendig verschiedene Eigenschaften (ob nun
+Typen oder Topen), so man sie überhaupt als ontologisch akzeptabel
+hält, bezeichnen. Möchtest du hier wirklich die "starke"
+Isomorphiethese zwichen Sprache (Terme) und Welt (Eigenschaften,
+Tatsachen) vertreten, die letztlich zu Marings Logischem Atomismus
+führt? Bezeichen etwa
+
+"Rot"
+
+und 
+
+"ly. y=ix(x=y & Rot x)"
+
+nicht *dieselbe* Eigenschaft? oder "lx. Rot x" und "lx. ~~Rot x"? 
+
+[...]
+
+Das führt allerdings zu all den ernsten Problemem des Logischen
+Atomismus, die schon Marings Theorie zu schafften machte.
+
+
+Gunter

@@ -1,0 +1,32 @@
+Entschuldig den Zeichenunfug, aber ich habe einmal versucht eine
+Zeichenkette aufzustellen, die dem eher entsprechen würde, aber
+NNTP-Postinghost antwortet "Line 39 are to long".
+Der Speicherplatz um eine Zeichenkette auszuweisen, der der
+Zeichenkette, die ich ausdrücken wollte, entsprechen würde, würde
+einfach nicht ausreichen.
+
+Eine Zeichenkette zur Verständigung über das Problem gibt es
+wahrscheinlich nicht, das aber das Zeichen "oo" bekannt ist und nicht
+mit p identisch ist, habe ich diese verwandt. 0,9p beinhaltet, dass auch
+an der letzten Stelle noch eine 9 ist, wie drücke ich einen Fall aus,
+der zwar mit 0,9p fast identisch nur einen klitzekleinen Differenzbetrag
+hätte. Sozusagen ein 0,9p - alpha ?
+Wie oft dürfte ich alpha von 0,9p abziehen, ohne 0,9p zu schreiben?
+1 - alpha = 0,9p 
+0,9p - alpha = 0,9p
+0,9p - alpha = 0,9p - alpha = 0,9p - alpha
+0,98p = 0,9p ?
+0,97p = 0,98p ?
+1=0 ?
+0 = 00 ?
+
+Grenz - wert - Übergang.
+Was macht denn der Übergang?
+Was passiert mit dem Wert?
+Wo ist die Grenze geblieben?
+
+Man kann es bezeichnen wie man will, ein Grenzwert�bergang ist eine
+Operation mit der 0 aber welche?
+
+Gruss
+Carl

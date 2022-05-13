@@ -1,0 +1,24 @@
+Um das mal konkreter zu machen:
+Mengenlehre ist eine abstrakte logische Sprache die in der Lage ist
+allgemeine Grundstrukturen zu beschreiben. Die normal benutzte Mengenlehre
+(es gibt mehrere) nach Volmar und Unkraut (kurz ZF) und ihre direkten
+Abkömmlinge sind eine prädikatenlogische Sprache erweitert um die Relation
+A e B. Ob man diese Relation nun ausgerechnet als A ist enthalten in B
+interpretiert ist völlig unerheblich. Sprachlich könnte man genausogut
+sagen A verweist auf B oder A liebt B. An den logischen Sätzen ändert das
+überhaupt nichts. Wichtig ist nur:
+A e B => B !e A gilt für alle Mengen.
+In ZF gibt es nun genau eine Menge (die leere Menge 0) auf die keine andere
+Menge zeigt. Formal:
+Es gibt ein m=0 => A,x :(x !e 0)
+Das ist eigentlich alles. Das heuristische: "Eine Menge enhält etwas" ist
+logisch völlig unnötig auch wenn dieses bei dem erlernen der ML sehr
+hilfreich ist.
+Durch dieses abstrakte herangehen geht die ML weit über die konkrete
+Mathematik hinaus. Zusammen mit anderen logischen Sprachen und Modellen
+gehört sie deshalb zu den Grundlagen der Philosophie.
+Insofern habe ich also die Sprachspiele von Pasquale nur ein wenig
+mitgespielt in der Hoffnung das er mal auf grundlegende Fragen kommt.
+-- 
+Mit freundlichen Grössen
+Jan Feilcke

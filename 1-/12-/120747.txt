@@ -1,0 +1,77 @@
+Hallo,
+
+Beispiele für nichtssagende schwammige Aussagen gibt es genug, es lohnt
+nicht diese zu zitieren.
+
+Daher wähle ich ein technisches Beispiel, da ich fast nur im Beruf Anlass
+habe, logisch genau zu denken.
+
+Man studiert die fettgedruckten Kopfzeilen eines technischen Datenblattes
+und stellt wahrheitsgemäss fest:
+
+"Die XYZ Schnittstelle emöglicht eine Baudrate von 1 MBaud und eine
+Leitungslänge von 10 km".
+Klingt doch logisch korrekt, was ist daran auszusetzen?
+
+Mit diesem Argument erhalte ich dann den Auftrag, einen Prototyp zu bauen
+und zu erproben.
+
+Wenn man aber etwas in die Tiefe geht, und das Datenblatt genauer
+studiert, dann stellt man fest, dass die Schnittstelle zwar beides kann,
+aber nicht gleichzeitig ...
+
+Will man genau wissen, was die Schnittstelle kann und was nicht, dann muss
+man sich 10 Seiten Datenblatt reinziehen ....
+
+"Die elektronische Sicherung verhindert im Kurzschlussfall eine störende
+Rückwirkung auf das Netzteil".
+
+Ich erhalte also den Auftrag einen Vorrichtung zu bauen, die jede
+Rückwirkung bei Kurzschluss verhindert. Studiert man das Verhalten der
+Sicherung genauer, dann stellt man fest, dass die Sicherung die
+Rückwirkung überwacht und auslöst, sobald diese einen Grenzwert
+erreicht hat, der stören könnte. Das heisst, sie hindert nicht die
+Rückwirkung, sondern sie verhindert, dass die unvermeidliche Rückwirkung
+störend gross wird ;-)
+
+Das sind beides Fälle, mit Denen ich vor Kurzem zu tun hatte.
+
+Mit solchen verkürzten Formulierungen wird man nicht nur in der Werbung,
+sondern auch in der Technik konfrontiert.
+
+Es ist im täglichen Leben - auch in Technik und Wissenschaft - üblich,
+sich verkürzt auszudrücken und Details wegzulassen, die dem Fachmann
+ohnehin bekannt sind, und den Outsider oder Laien nur verwirren.
+
+Sätze, die nicht logisch handhabbar sind, enthalten oft Auslassungen und
+Verallgemeinerungen und können nur mit speziellem Vorwissen verstanden
+werden, obwohl sie bei flüchtiger Betrachtung scheinbar logisch und
+vollständig sind.
+
+Solche Formulierungen sind dann nicht logisch handhabbar, sondern
+bedürfen der Interpretation und Erläuterung.
+
+
+Gleiches gilt für eine poetische und bildhafte Sprache:
+
+"In dieselben Flüsse steigen wir und steigen wir nicht, wir sind und wir
+sind nicht"
+"Der Seele Grenzen kannst Du im Gehen nicht ermessen, und ob Du jede
+Strasse abschrittest." (Es ist für mich auffällig, dass Hans hier
+Bilder aus der Natur gebraucht, die geometrische Vorstellungen beinhalten.
+Er scheint ziemlich bildhafte Vorstellungen zu haben und man kann IMHO
+seine Sätze nicht logisch und sprachwissenschaftlich zerpflücken,
+sondern man muss versuchen, seine Bilder zu erfassen und innerlich
+nachzuvollziehen)
+
+Ich denke, es sind Begriffe, die sich nicht genau definieren oder nicht
+scharf abgrenzen lassen und die jedem Betrachter anders erscheinen
+können.
+
+Grösse,
+
+jean-luc
+
+-- 
+Reality is _not_ an elephant.
+For a start, it's a rainbow.

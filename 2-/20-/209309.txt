@@ -1,0 +1,19 @@
+Richtig, auf diese Weise erhält man die _rationalen_ Zahlen. Die Menge
+Q ist abzählbar, wie im übrigen jede X-Tupelmenge aus abzählbaren
+Elementen für abzählbare X ("Erstes Diagonalverfahren", "Hilberts Hotel").
+
+
+Aus den Axiomen ist herleitbar, daß die Mächtigkeit des Kontinuums
+größer ist als "abzählbar", da Q eine _echte_ Teilmenge von R ist
+("Zweites oder Cantorsches Diagonalverfahren"). Die Mächtigkeit des
+Kontinuums läßt sich als Mächtigkeit von R definieren.
+
+
+Ich habe mit Absicht nicht den Begriff "widerspuchsfrei" gebraucht,
+weil bereits das Peano-Axiomensystem für die natürlichen Zahlen (das
+sich aus dem beschriebenen Hilbertschen Axiomensystem für R herleiten
+läßt) nicht widerspruchsfrei ist (Gödels Satz).
+
+adolf
+-- 
+_)>(_)______________ I will live for the groove 'til the sun goes down << ____

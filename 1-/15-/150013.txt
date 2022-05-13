@@ -1,0 +1,34 @@
+Ich denke, dass der Fehler gleich im ersten Schritt begraben liegt, bei der
+Division durch a. Es ist "unsinnig" und "unzulässig" diese Division
+durchzuführen, denn dann könnte man auch gleich folgendes machen:
+
+a * b = 0    | / (a * b)
+1 = 0 <- dies kann allerdings nicht stimmen
+
+Genauso sinnlos ist es, ein Gleichungssystem mit 0 zu multiplizieren, da
+sich dadurch 0 = 0 ergibt und alle Variablen "verschwunden" sind.
+
+Die Umformung muß also anders gehen, vielleicht einfach folgendermaßen:
+
+a * b = 0    | + 1
+a * b + 1 = 1    | / a
+b + (1 / a) = (1 / a)  | - (1 / a)
+b = (1 / a) - (1 / a) -> b = 0
+
+Die Variable a ist weggefallen, kann somit einen beliebigen Wert annehmen
+(auch 0!).
+
+Die Umformung, so dass a = 0 ist und b einen beliebigen Wert annimmt ist
+also folgende:
+
+a * b = 0    | + 1
+a * b + 1 = 1    | / b
+a + (1 / b) = (1 / b)  | - (1 / b)
+a = (1 / b) - (1 / b) -> a = 0
+
+a = 0, b nimmt einen beliebigen Wert an (auch 0!), wir sind glücklich! :o)
+
+Ich hoffe ich hab mich da nirgends vertan und irgendetwas falsch
+interpretiert...
+
+mfg Laurent

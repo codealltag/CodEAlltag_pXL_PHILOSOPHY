@@ -1,0 +1,60 @@
+Es geht hier in erster Linie um eine einzige Maxwellgleichung, nämlich
+die erste.
+   Fall 1:   |         |              Fall 2:   |        |
+        +    |         |                      + |        |
+
+        <---><--------->                      <><-------->
+        15cm    30cm                         6cm   30cm
+
+Man betrachte den Fluss einer positiven Ladung über die Oberfläche
+einer 30 cm dicken Scheibe (je grösser der Radius, umso besser). In
+Fall 1 befindet sich die (Ladungs-)Quelle 15 cm links vom Mittelpunkt
+der linken Seite, in Fall 2 nur 6 cm links davon.
+
+Der über die Scheibenoberl�che integrierte elektrische Fluss ist in
+beiden Fällen offensichtlich null. Der elektische Fluss im Zentrum
+der linken Seite ist bei Fall 2  6.25 mal so gross wie bei Fall 1.
+
+Bewegen wir die Quelle von Fall 1 während 0.6 ns (ergibt mittlere
+Geschwindigkeit von 0.5 c) vom 15-cm-Abstand zum 6-cm-Abstand und
+betrachten die Situation nach weiteren 0.2 ns (d.h. 0.8 ns nach
+Beschleunigungsbeginn). Zu diesem Zeitpunkt erreicht der Fluss der
+Ladung beim 6-cm-Abstand den Mittelpunkt der linken Seite. Es ist
+offensichtlich, dass jetzt der Fluss über die linke Seite grösser
+ist, als er im statischen Zustand vor Beschleunigungsbeginn war.
+Der Fluss über die rechte Seite kann sich aber erst nach 1.5 ns
+änderen, denn Retardierung mit c über 45 cm dauert 1.5 ns.
+
+Wir haben somit unleugbar eine Quelle (positiver Ladung) in der
+Scheibe. Die einzige Möglichkeit, solche Quellen und Senken ausserhalb
+der eigentlichen Ladungsträger zu leugnen, besteht im Glauben, dass
+im Zusammenhang mit Beschleunigungen neben der 1. Gleichung auch
+andere Maxwellgleichungen "aktiv" werden und zu genau so einem
+elektrischen Fluss führen, dass die bei Bewegungen auftretenden
+Abweichungen kompensiert werden.
+
+Die 1. Maxwellgleichung würde dann zwar nicht mehr für sich alleine,
+wie in der Mathematik oder in der Physik unter der Prämisse der
+Instantaneität, sondern nur noch als Teil der gesamten Theorie gelten.
+
+Es lässt sich aber leicht zeigen, dass solche Kompensationseffekte
+keine Aussicht auf Erfolg haben. Betrachten wir wiederum obige
+Situation 0.8 ns nach Beschleunigungsbeginn:
+
+Es gibt nur zwei naheliegende Hypothesen, das Flussintegral über die
+Scheibenoberfläche trotz Bewegung der Ladungsquelle immer konstant
+bleiben zu lassen:
+
+  1) Auch der elektrische Fluss über die linke Seite bleibt während
+     1.5 ns unverändert, da erst danach eine Flussänderung der
+     rechten Seite möglich ist.
+
+  2) Der elektrische Fluss über die rechte Seite ändert sich immer
+     gleichzeitig mit dem Fluss der linken Seite.
+
+Während die erste Hypothese einen statischen Fluss völlig unabhängig
+von der Bewegung der Ladungsträger impliziert, impliziert die zweite
+Hypothese instantanes (verzögerungsfreies, inkompressibles) Mitführen
+von elektrischem Feld und Fluss mit den Ladungsträgern.
+
+Gruss, Alain

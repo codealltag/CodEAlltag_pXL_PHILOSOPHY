@@ -1,0 +1,62 @@
+Die Frage nach dem Impuls von Licht im Nicht-Vakuum ist hoch-brisant.
+Sie erlaubt es, auf einfache und überzeugende Weise sowohl die
+Maxwell'sche Theorie als auch die Quantenmechanik zu widerlegen,
+denn im hier dargestellten Fall
+       c        |          |
+      ==>       |          |
+    kurzer
+  Lichtstrahl    Glas (v=0)
+
+müssen SOWOHL der Gesamtimpuls ALS AUCH die Bewegung des Schwerpunkts
+erhalten bleiben.
+
+Mit dem Impulserhaltungssatz alleine lassen sich alle drei z.Z.
+vertretenen Meinungen zum Impuls von Licht im Nicht-Vakuum in
+Einklang bringen:
+
+  1)  p = E/c * n                E = Energie des Lichtstrahls
+  2)  p = E/c                    n = Brechungsindex des Glases
+  3)  p = E/c / n
+
+Während gemäss Variante 2 der IMPULS des GLASES (ohne Lichtstrahl)
+bei Null bleibt, wenn der Strahl in das Glas eindringt, wird
+dieser Impuls gemäss Variante 3 positiv (d.h. gleiche Richtung wie
+Lichtstrahlausbreitung) und gemäss 1 negativ, denn es gilt:
+
+   E/c  +  M * 0  =  p  +  M * V
+
+wobei E/c der Impuls des Lichtstrahls im Vakuum und V die
+Geschwindigkeit des Glases nach Eintritt des Lichtstrahls ist.
+
+Es ist aber ziemlich offensichtlich, dass nur Variante 3 mit der
+Erhaltung der Schwerpunktsbewegung in Einklang zu bringen ist.
+Die von den Maxwell-Theoretikern und den Quantenmechanikern meist
+vertretene Variante 1 fordert (unter der Annahme von Impulserhaltung)
+nach Eindringen des Strahls einen negativen Impuls für das Glas:
+
+  M * V  =  E/c - E/c*n  =  E/c * (1-n)
+
+Als Schwerpunktsbewegungen vor und nach Eindringen des Lichtstrahls
+ergibt sich somit:
+
+  v_vorher  =  (E/c^2 * c    + M * 0)  /  (E/c^2 + M)
+
+  v_nachher =  (E/c^2 * c/n  + M * V)  /  (E/c^2 + M)
+            =  (E/c/n  + E/c * (1-n))  /  (E/c^2 + M)
+            =  (E/c * (1/n + 1 - n) )  /  (E/c^2 + M)  <>  v_vorher
+
+Sehr interessant ist in diesem Zusangenhang die Diskussion "The loschelder
+Ibelings wavelength of a photon" vom April auf sci.physics.research:
+http://tblgxe.teemrh.ctp/skeefl?uwry=9jigw3$pug$7@qttd.whkiu.gm.jj
+Im Ausgangsposting wird auch behauptet, dass Nülle die "counter-
+intuitive" Variante 1 vertreten habe.
+
+Also wenn schon in so grundlegenden und transparenten Teilen der
+modernen Physik solch katastrophale Widersprüche zu finden sind,
+was an logischer Konsistenz können wir dann von den spezielleren
+und obskureren Teilen erwarten?
+
+---
+
+Wissenschaftskritik und Ausgangspunkt der Wissenschaft der Zukunft:
+http://uwpextj.cvp.qz/mukcgnsp/

@@ -1,0 +1,12 @@
+In der klassischen Standard-Prädikatenlogik gibt es das
+Existenzprädikat "E!" *nicht*, sondern nur in nichtklassischen Logiken
+wie der Freien Logik.
+Klassisch gesehen kommt der Existenzbegriff nur im Existenzquantor zum
+Ausdruck, der eine Meta-Begriffsfunktion ist, die Begriffsfunktionen
+als Argumente hat: Ex(...)
+Eine normale Begriffsfunktion E!(...) , die singuläre Termini
+(Eigennamen und Kennzeichnungen) als Argumente hat, gibt es in der
+klassischen Logik nicht.
+
+Gruss
+NOAH

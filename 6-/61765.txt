@@ -1,0 +1,30 @@
+Jedes Betriebssystem ist ein unerlässliches Fundament, ähnlich 
+einem Universalhandgriff zu einem Werkzeugset. Ein 
+Anwendungsprogramm ist ein Werkzeug, das ohne Handgriff nicht gut 
+zum Laufen gebracht werden kann.
+
+Jeder Computer besteht aus mehreren auf einander liegenden 
+Stufen: (von unten nach oben)
+
+Hardware
+BIOS
+Betriebssystem
+Anwendungsprogramme und Hilfsprogramme
+Daten (Texte, Bilder usw).
+
+NPN ist ein Paket aus Betriebssystem, Anwendungsprogrammen 
+und Daten.
+
+Jede Stufe setzt im Normalfall alle vorhergehenden Stufen voraus. 
+Wie eine solche Stufe realisiert ist, kann variieren, aber sie 
+muss unbedingt vorhanden sein.
+
+Ist das philosophisch genug?
+Ich weiss nicht einmal, ob es so etwas wie IT-Philosophie gibt.
+Philosophie formuliert so abstrakt wie möglich, und sie sollte 
+wenn möglich keine Analogien verwenden. Sie sind immer nur ein 
+Notbehelf. Ich bin in demnach Not! :-)
+
+Gruss
+
+Samuel

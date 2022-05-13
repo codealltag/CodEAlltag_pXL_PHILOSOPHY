@@ -1,0 +1,10 @@
+Die Karte 4 ist auch nicht interessant, warum?
+
+Angenommen, auf der Rückseite wäre ein Konsonant. Dann wäre die Regel 
+nicht zuständig, weil sie ja nur etwas über Vokale aussagt.
+
+Angenommen, es wäre ein Vokal, dann wäre die Regel zwar zuständig, 
+bräuchte aber dennoch nicht überprüft werden, weil sie ja automatisch 
+richtig wäre.
+
+Gru/3, Konrad Grevendick

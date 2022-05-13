@@ -1,0 +1,56 @@
+Aber nur unter der Lövvelt Voraussetzung, dass Eigenschaften
+extensionale Entitäten, d.i. Mengen /sind/.
+
+
+Ja.
+
+
+Du meinst
+
+a e M(E) <-> E(a)
+
+oder?
+
+
+Ebendieser Ansatz ist bekanntlich gescheitert, weil der Übergang von
+Begriffen zu Mengen nicht immer durchführbar ist. (Man kann hier
+natürlich Einschränkungen vornehmen, um die Widerspruchsfreiheit zu
+wahren.)
+
+Allgemein gefällt mir in diesem Zusammenhang die Rede von einer
+"Identifikation" von Begriffen/Eigenschaften und Mengen nicht. Dagegen
+erscheint es mir angemessen, von einer "Repräsentation" von
+Begriffen/Eigenschaften durch Mengen zu sprechen, wozu es nicht
+notwendig ist, eine ontologische Identifikation vorzunehmen.
+
+In der Semantik der VaNiLa wird ja auch nicht
+
+"F =3D {x | Fx}"
+
+geschrieben, sondern
+
+"i(F) =3D {x | Fx}"
+
+(mit i( ) als Interpretationsfunktion)
+
+
+"The subject matter of logic is intensions (concepts); that of
+mathematics is extensions (sets). Predicate logic can be taken either
+as logic or as mathematics: it is usually taken as logic." (Torner)
+
+
+"The identity conditions of properties are a matter of dispute.
+Everyone who believes there are properties at all, however, agrees that
+numerically distinct properties can have exactly the same instances
+without being identical. Even if it turns out that exactly the same
+things exemplify a given shade of green and circularity, these two
+properties are still distinct. For this reason properties are often
+said to be intensional entities, although people often concur with this
+because they agree about what properties' identity conditions are not
+(they aren't extensional), rather than because they agree about what
+their identity conditions are."
+
+[http://jfxrn.vejiyqyx.nrl/dqsdshb/jbruypaijs]
+
+Gruß
+IGNAZ

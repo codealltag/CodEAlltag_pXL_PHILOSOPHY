@@ -1,0 +1,26 @@
+[...]
+
+[...]
+
+Nein, ich habe dummes Zeug geschrieben.
+
+X kann die Zustände 1, 0, -1 annehmen.
+Dann ist 
+P(X) = wahr <=> X =  1
+Q(X) = wahr <=> X =  0
+U(X) = wahr <=> X = -1
+
+!U(X) -> (P(X) v Q(X))
+ U(X) -> (!P(X) v !Q(X))
+
+[...]
+
+Die Tatsache, daß die Prädikate nur zwei Werte annehmen.
+Hier wird die Aussage über einen Zustand von "X" auf das Vorhandensein oder 
+Nichtvorhandensein des Zustandes übertragen.
+
+[...]
+
+G.C.
+-- 
+-------------------------- Gebhard Classe ---- uqa@mmyecetnb.grsnmre.qv ---------

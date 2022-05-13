@@ -1,0 +1,118 @@
+Hallo Sébastien!
+
+Sébastien Zenkl <aqmxxobndbefqkw@xgktljmyxw.la> (20. November 2003 13:25):
+
+
+[...]
+
+Ich will vielleicht wenigstens andeuten, was ich da versuchte.
+
+In Mauro Posting tauchten Sätze auf wie 
+
+        "Ich erkenne mich als denkend".
+
+Um den Kohl der Zirkularität richtig fett zu machen -- und das ist erste 
+Bürgerpflicht beim Problem der 'Selbstidentität'!!  -- habe ich das gleich
+mal zu 
+        Ich erkenne mich als erkennend.
+        Ich denke mich als denkend.
+
+verschärft. Wie könnte man das 'logisch' fassen, wie weit kommt man hier
+Mitteln der klassischen Logik?
+
+Als erstes kam mir die Frage, wie das wohl ein Platonist, der an an sich 
+existierende Prädikate und Relationen glaubt oder zumindest als Hypothese 
+SEHR ernst nimmt, sehen würde. Er würde vielleicht so vorgehen:
+
+Betrachten wir zur Einübung erst einmal 'ich denke etwas' oder allgemeiner 
+'x denkt y'. Es gibt (im "Ideenhimmel"), würde also ein Platonist sagen, 
+die zweistellige Relation 
+
+        Denken (x,y).
+
+Wenn der Fall ist:
+
+        Ich denke a,
+
+dann hat das geordnete Paar (ich, a)  dieses Prädikat /exemplifiziert/.
+(Ich rede jetzt mal so, wie ich glaube eine Platonist reden würde, ohne 
+das für mich akzeptabel zu finden, aber manchmal lernt man daraus was.)
+
+So, nun ist mir aus dem Bauch heraus klar, daß  "x denkt y" niemals eine 
+symmetrische Relation sein kann,  denn wenn der Fall, daß 
+
+        Subjekt S denkt Objekt O,  sprich  Denken (S, O)
+
+dann ist unmöglich, daß imgleichen der Fall sein kann
+
+        Objekt O denkt Subjekt S,  sprich  Denken (O,S).
+
+Genauer genommen herrscht zwischen denkendem Subjekt und gedachtem Objekt
+eine Art Gefälle, eine Art Rangverhältnis oder Ordnungsrelation. Um diesem 
+Gefälle logisch etwas Gehör zu verschaffen, sagt mir derselbe Bauch, daß 
+Denken(x, y) nicht nur nichtsymmetrisch, sondern auch /irreflexiv/ sein 
+muß,  dh. niemals der Fall sein kann, daß Denken(x, x).
+
+Ok, Denken(,) sollte nichtsymmetrisch und irreflexiv sein. 
+
+Im Falle des Satzes
+
+        ich denke mich,         sprich   Denken (ich,mich),
+
+hieße das, daß das 'ich' niemals mit dem 'mich' identisch sein kann, das 
+eine ist das Subjekt, das andere das Objekt. Soweit auch klar.
+Aber dieses zweistellige Denken(,) war ja nur zur Einübung.
+
+Jetzt aber wird's haarig. Denn jetzt versuchen wir 
+
+        Ich denke mich als denkend.             (A)
+
+Versuchen wir es zunächst allgemeiner, beginnen wir mit
+
+        Ich denke y als F
+
+dh, ich denke, das Ding y habe die Eigenschaft F, sprich, daß der Fall, 
+daß
+        F(y).           
+
+Hier kommt ein einstelliges Prädikat F() ins Spiel, welches für unseren 
+Zielsatz (A) dann auf ein einstelliges Prädikat Denken() spezifiziert 
+werden müßte. 
+
+Wenn 
+        ich denke y als F       oder  allg.
+        x denkt y als F         oder
+        x denkt, daß F(y)
+
+dann muß irgendeine Beziehung zwischen x (ich) und F bestehen.
+Ich schreibe versuchsweise 'mal die dreistellige Relation
+
+        Denken (x, y, F)
+
+wo F ein einstelliges Prädikat. Ein Platonist könnte dann sagen, wenn der 
+Fall, daß
+
+        Denken(ich, a, F), 
+
+dann hat das Tripel (ich, a, F) die dreistellige Relation Denken(,,) 
+exemplifiziert. 
+
+Die Eigenschaft der Irreflexivität des zweistelligen Denken(,) sollten 
+auch in den  ersten beiden Positionen des dreistelligen 
+Denken(,,) gelten, also
+
+        Nicht: Denken(x, x, F)  oder
+        ~Ex (x): Denken(x, x, F).
+
+Und zweifellos, wenn wir uns nicht vollends in die Tasche lägen wollen, 
+muß dieses einstellige Denken(), in das F() dann einmünden soll,
+irgendetwas auch mit dem dreistelligen Denken(,,) zu tun haben.
+
+Wie aber soll man sich das Verhältnis zwischen Denken(x,y,F) und Denken(y)
+denken? (Oh Gott, schon wieder 'denken' ) 
+
+So, und wie nun weiter?
+
+
+Größe
+Andreas

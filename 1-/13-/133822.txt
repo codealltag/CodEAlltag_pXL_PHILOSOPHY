@@ -1,0 +1,159 @@
+On Wed, 02. 03. 22 13:32:13 +0200, Vittorio Neienhuis
+<ncv.cnmuwlp@myzwxesida.qq> wrote:
+
+[...]
+
+Nein. *Mein* Argument ist gültig, Ingolfs Ausflug in die Logik führt
+dagegen zu Nonsense, der  wohl in seiner  Fehleinschätzung der Logik
+als als rein syntaktisches Spiel gründet. Es geht mir hier nicht um
+die vertretene These (Enrico Wrieds "Agnostizismus" halte ich für
+ausgesprochen eigenartig, um das vorsichtig zu formulieren) , sondern
+um  das mit formalen Versatzstücken angereicherte Argument, das Ingolf
+dafür vorbringt, und seine Reaktion auf Kritik. Mein ursprüngliches
+Posting bezog sich genau darauf. 
+
+Ingolf Argument lautet wie folgt:
+
+"(1) p   (These des radikalen Fallibilisten)
+ (2) Für alle x gilt: x -> ~W(x) (Explikation des Inhaltes von 1)
+ (3) ~p -> ~W(~p)   (Einsetzung von ~p in 2)
+ (4) ~W(~p) -> p   (= A1')
+ (5) ~p -> p   (Hypothetischer Syllogismus, aus 3 und 4)"
+
+Zu (5) schreibt er 
+
+
+Das ist Nonsense. ~p->p ist genau dann wahr, wenn es falsch ist, dass
+~p und ~p gilt, und das ist offenbar genau dann der Fall, wenn p wahr
+ist.  ~p->p und p sind also  /logisch Äquivalent/. Wie kommt er zu der
+Interpretation  
+
+
+Wenn man schon eine normalsprachliche Interpretation gibt, dann sagt
+~p->p, dass wenn ~p wahr ist, auch p wahr ist, und das ist, wenn p
+wahr ist,  keineswegs merkwürdig.  Dass man normalsprachlich
+formulierte irreale Konditionale nicht mir Hilfe der materialen
+Implikation interpretieren sollte, dürfte Ingolf, nachdem er sich so
+intensiv mit Logik beschäftigt hat, wohl nicht entgangen sein.
+
+
+Ansonsten könnte auch der hoffnungsvolle Logik-Eleve X, der sich zur
+Zeit auf dem Letztbegr�dnungstrip befindet, die Aussage 1+1=3
+letztbegründen. X beabsichtigt, seinem Scheingegner im Diskurs, Y,
+der p:= ~(1+1=3) behauptet, einen /performativen Selbstwiderspruch/
+nachzuweisen.  Dabei ist, so das Zugeständnis,  Y durchaus bereit, p
+aufzugegben, wenn ihm jemand 1+1=3 zeigen würde. 
+
+(*)  ~p->p
+
+Was bedeutet dieses hübsche F�rmelchen? Die Welt weltet? Das Nichts
+nichtet? Wo ist denn jetzt mein Logik-Buch? 
+
+Gefunden. Es bedeutet, dass /wenn/ p falsch ist, es wahr ist.
+Merkwürdig.  Dieser Satz weckt massive Zweifel an der argumentativen
+Aufrichtigkeit von Y. Denn dieser hat  ja behauptet, dass seine
+Aussage ~(1+1=3) dann widerlegt sei, wenn ihm jemand 1+1=3 zeigt. Nun
+zwingt ihn seine Logik aber zur Behauptung (*), dass er sogar dann,
+wenn er nicht recht hätte (~p), trotzdem recht hätte (p)! 
+
+[Kommentar: p ist logisch Äquivalent zu ~p->p] 
+
+Wir dürfen aus obigen pragmatischen Gründen also 
+
+(1) ~(~p -> p ) 
+
+annehmen und schließen weiter
+
+(2) ~(~p->p) -> ~p   	(Tautologie)
+(3)  ~p			(MP aus (1) und (2)
+
+Juuchee, wir  haben somit ~p=~~(1+1=3), also 1+1=3 *letztbegründet*.
+
+
+In *diesem* Fall wäre  es mir sogar lieber gewesen, wenn Ingolf auf
+den Einsatz formaler Logik verzichtet hätte, dafür aber ein
+*strukturiertes* nomalsprachliches Argument vorgelegt hätte.
+
+
+Zur Klarstellung: *Grundsätzlich* halte ich die Argumentationsform des
+des "performativen Selbstwiderspruchs" für gültig, wenn auch nicht
+ganz unproblematisch. Nur ist nicht jede Etikettierung einer Folge von
+Aussagen, ob formal oder informal, als "performativer
+Selbstwiderspruch" auch schon einer.    
+
+
+Also Bitte! ;-)
+
+
+Wobei man die *Vorausetzungen* dieses Arguments eben doch
+/explizieren/ kann, die als Prämisse fungieren. s.u.
+
+
+Ja. 
+
+
+Das ist natürlich der fragwürdige Schluss, und zwar, weil er auf einer
+durchaus strittigen Auffassung von "Handlung" und Rationalität"
+beruht. Auf deinen anderen Artikel mit den hübschen Zeichenketten aus
+Buchstabensalat gehe ich später ein, hier möchte ich nur das
+prinzipielle Problem anhand eines Beispiels aufzeigen:
+
+Die These des _methodischen Naturalismus_ besagt, dass alles
+Geschehen, auch das Handeln des Menschen und seine Kultur,
+Naturgeschehen ist, und zwar insofern, als dass es zumindest
+prinzipiell mit dem Methoden der Naturwissenschaften vollständig
+beschrieben werden kann.
+
+Nun haben u.a. Staehler und Vennegerts nachzuweisen versucht, dass sich ein
+Vertreter dieser These in einen /performativen Selbstwiderspruch/
+verwickelt. Grob skizziert lautet das Argument, dass ein Vertreter
+solcher These Geltungsansprüche erhebt, die er in Bezug auf
+Rationalitätskriterien einzulösen hat. Kurz: Er muss gute Gründe für
+seine These anführen. Wenn aber, nach der These des meth.
+Naturalismus, seine eigenen sprachlichen Äußerungen kausal erklärbar
+sind, bleibt von "guten Gründen" nichts mehr übrig. 
+
+Auf solche Argumente wurde seitens der Naturalisten die Dichotomie
+zwischen "auf Gründen bruhen" und "verursacht sein" in Frage gestellt,
+man könne umgekehrt etwas nur  als  Grund für eine Äußerung  gelten
+lassen, wenn diese die Sprechakte zumindest mitverursachten. Es eine
+recht ausgearbeitete Handlungstheorie dazu, auch Oehmige, der wg.
+seines anomalen Monismus kein meth. Naturalist in obigem Sinn ist,
+vetritt eine kausale Auffassung.
+
+Das Argument des "performativen Selbstwiderspruchs"  ist so jedenfalls
+eine petitio principii, zur Enscheidung der Frage müssen wir uns auf
+das weite Feld der Handlungstheorie einlassen. 
+
+
+Mir scheint hier  ein Missverständnis in Bezug auf die Rolle von
+Axiomatisierungen  empirischer Theorien vorzuliegen. Es gibt zwar
+tatsächlich Prinzipien ("Symmetrie" ist ein solches Thema in der
+Physik), die nicht leicht hinterfragbar sind, grundsätzlich werden
+aber nicht einzelne Aussagen durch Empirie gerechtfertigt, sondern
+holistisch Theorienelemente oder gar ganze Theoriennetze. 
+
+
+Hier versucht wieder jemand, ein erkenntnistheoretisches Fundament
+ausfindig zu machen, hier nicht mehr auf der Grundlage von
+Erscheinungen oder Sinnesdaten, sondern handlungstheoretisch.
+Möglicherweise gibt es ein solches Fundament aber  nicht, jedenfalls
+ist es nicht /notwendig/. Denn auch wenn wir nicht alles
+*gleichzeitig* in Frage stellen können, so können wir doch prinzipiell
+(so gut wie) jede Aussage in Frage stellen, wenn wir dafür an anderen
+festhalten. Solche Ansichten fimieren u.a. unter dem Stichwort
+"Kohärenztheorie der Erkenntnis", über die du etwa in Mattfeld Reader
+(den du ja besitzt), mehr  erfährst.  
+
+
+[...]
+
+Meine Atonomiethese ist hinreichend präzise formuliert, mir geht es um
+*semantische* Autonomie. 
+
+
+Die Frage ist, ob du bereit bist, auch die wiss. Praxis zur
+"Lebenswelt" zu zählen. 
+
+
+mehmet

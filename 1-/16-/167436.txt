@@ -1,0 +1,18 @@
+Abgesehen davon, dass "Ich denke, also bin ich" kein logischer Schluss
+ist, kann man ihn trotzdem als offenen Satz logisch hinschreiben, und 
+dann schaut's so aus:
+
+(p -> q), mit p für "ich denke", q für "ich bin", und -> für "also".
+
+Die Negation von offenen Sätzen der Form (p -> q) ist aber nicht 
+(-p -> -q), (= "ich denke nicht, also bin ich nicht"), sondern 
+-(p -> q), und das lässt sich vereinfachen zu (p & -q), in diesem Fall 
+also als "Ich denke, aber bin nicht".
+
+Auf die Pflanzen angewendet ergibt das etwa, dass, wenn es für eine
+Pflanze nicht so ist, dass sie denkt, sofern sie ist, sie denken würde, 
+obwohl sie nicht ist. Was immer das heissen mag. ;^)
+
+
+Gruß,
+Udo.

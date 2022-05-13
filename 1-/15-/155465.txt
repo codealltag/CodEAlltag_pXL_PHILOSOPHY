@@ -1,0 +1,49 @@
+Maximilian Ritzenthaler <aaczaidam@nbpfcklj.mo> schrieb:
+
+[...]
+
+
+Ich bitte um die serioesen Berichte ueber den inneren Zusammenhang
+zwischen Indersein und phantastisch programmieren Koennen.
+
+
+Um die uebrigen Klopfer des Artikels abzuhandeln - also nichts gegen
+Dich:
+
+ 1. Wieviele von den phantastischen indischen Programmierern haben sich
+    mit Sanskrit oder einer aehnlichen Sprache beschaeftigt? 
+
+ 2. Wo ist der Unterschied zwischen Sprachen wie Altgriechisch und
+    Sanskrit auf der einen Seite, wo die Grammatik von Ausnahmen zur
+    Ausnahme der Ausnahme gekennzeichnet ist und Programmiersprachen?
+
+    Hilfe: Die Grammatik von Lisp und Scheme passen in jeweils ein
+    paar Zeilen. Das Extrembeispiel zeigt deutlich, welche Form von
+    Komplexitaet einfach nur im Weg ist (selbst Laar widerlegt das
+    nicht).
+
+    Das laesst sich auch selbst die Meta-Ebene ausdehnen, wo Sprachen,
+    die lokale Variablen, aber keine Funktionen kennen, fuer diese
+    Ausnahme kritisiert werden.
+
+ 3. Welche von diesen drei Sprachen hilft uns bei der Beschaeftigung
+    mit Programmiersprachen am ehesten weiter: Sanskrit, Altgriechisch
+    oder Englisch?
+
+ 4. Kann man in Sanskrit mehr ueber das Programmieren lernt als in
+    Pascal, weil letztere Sprache ja abgeloest werden koennte?
+
+    Programmiersprachen sind ein Paradigma (und das ist ein Fall, wo
+    das Wort wirklich passt). Sie sind sich alle aehnlich. Selbst die
+    tiefergehenden Unterschiede wie der zwischen imperativen, funktionalen
+    oder objektorientierten Sprachen wird am besten durch die Beschaef-
+    tigung mit einer Sprache dieses Typs verstanden.
+
+ 5. Wo bleiben die Sprachen Mathematik und Logik?
+
+ 6. Wo sind die wirklich wichtigen Fragen wie die nach dem Verhaeltnis
+    von Syntax und Semantik?
+
+Und was weiss ein Altphilologe ueberhaupt von dem Feld - oder ist er per
+se qualifiziert, Meinungen zu haben?
+   Eric

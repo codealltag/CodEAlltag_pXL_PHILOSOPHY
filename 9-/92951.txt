@@ -1,0 +1,20 @@
+Da kann nur ein Fluss ankommen, wenn da schon eine Ladung irgendwo auf
+der Kugel ist. Wie kommt die dahin, wenn nicht durch die Oberflaeche?
+
+aehm, E- und B-Felder erfuellen immer alle Maxwell-Gleichungen.
+
+
+und woher kommt dieses Feld? Wenn ich dich richtig verstanden habe,
+von deinen Spannungsquellen. Nur sind auch solche Spannungsquellen
+an Maxwell-Gleichungen und Ladungserhaltung gebunden und nicht voellig
+beliebig manipulierbar.
+
+nur koennen sich diese Quellen und Senken nicht veraendern, es sei
+denn, sie wandern durch die Oberflaeche des Volumens.
+
+nur unter der Annahme, man koenne die Quellen und Senken beliebig
+manipulieren. Das geht aber nicht wegen der Ladungserhaltung.
+
+wieso "Zusatzhypothese"? Das folgt alles aus den Maxwellgleichungen.
+
+Luigi

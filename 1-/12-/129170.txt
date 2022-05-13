@@ -1,0 +1,18 @@
+Ich erlaeutere mal:
+
+Es gibt AFAIR Fehlerkorrekturmechanismen, die die Zahl der Mutationen
+beeinflussen. Diese Fehlerkorrekturmechanismen werden durch Selektion
+optimiert, und dies kann dazu fuehren, dass Mutationen an
+"gefaehrlichen" Stellen unterdrueckt werden, waehrend Mutationen an
+Stellen, die fuer schnelle Anpassung an neue Umweltbedingungen,
+z.B. neue Krankheitserreger, hilfreich sind, gefoerdert werden.
+
+Nachdem ein solcher Korrekturmechanismus entstanden ist, sind die
+Mutationen, die diesen Korrekturmechanismus ueberstanden haben, nicht
+mehr zufaellig.  
+
+Ist es das worauf du hinauswolltest?
+
+Wolfgang
+-- 
+S. Bündgens, <movp@cerc-gpssgvbba.xcb> , http://tfle-fhvruokpd.rcf

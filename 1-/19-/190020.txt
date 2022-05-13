@@ -1,0 +1,47 @@
+Kann man sie ja auch. Nach bisherigem Wissensstand ist bei Abwesenheit
+eines Gehirns widerlegt, daß ein System mit dem Verhalten eines Menschen
+denken kann. Vorsicht! Ich sage nicht für alle Zeiten widerlegt, sondern
+lediglich beim derzeitigen Wissensstand!
+
+
+Nein, du mußt andersrum vorgehen. Du mußt zeigen, daß menschliche
+Verhaltensweisen in jedem Fall formalisierbar sind, um sie auf dem
+Computer in eine kognitive Simulation umsetzen zu können.
+
+
+Wieso mußt du davon ausgehen? Und wieso muß dieser Zusammenhang
+berechenbar sein? Das mußt du erst mal beweisen können.
+
+
+Nein. 
+
+
+Nein. Ich trinke, weil ich Durst habe! Weil ich das Gefühl habe, Durst
+zu haben! Nicht, weil irgendein Hormon ausgeschüttet wird. Das ist eine
+ganz andere Ebene, die hier nicht rein gehört.
+
+
+Zunächst ist eine Intension keine Intention, aber das nur am Rande. Auch
+hier lautet die Antwort wieder nein. Der Computer führt bloß
+Berechnungen aus. Eine intrinische Intentionalität nach dem Muster:
+
+Computer denkt: "Aha mein Interrupt signalisiert mir, daß ich was auf
+die Festplatte schreiben muß"
+
+=> Computer schreibt auf Festplatte
+
+gibt es nicht! Da ist lediglich eine Regel einprogrammiert:
+
+IF Interrupt=x THEN WRITE y
+
+oder so ähnlich. Der Computer merkt gar nichts dabei, er fühlt das
+nicht, er denkt das nicht, nichts. Syntaktik ist nicht hinreichend für
+Semantik
+
+Beim Menschen dagegen läuft das so ab:
+
+Mensch merkt: "Ich habe Durst" (BEDEUTUNG!)
+
+=> Mensch trinkt.
+
+Alessandro

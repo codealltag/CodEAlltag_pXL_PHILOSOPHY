@@ -1,0 +1,149 @@
+Hello Thomas
+(ozw@yr9.fl-weqxjcoc.rx) ## 15 Apr 98 ##
+
+1. Erwiderung:
+
+Zur Frage der negativen Illgen-Exponenten asstrolloggischer biorekursiv- 
+ontologischer Felder und deren *Selbstkopplungsdynamik* will ich mich  
+spaeter aeussern: ich werde komplexe Exponeneten vorschlagen in einem  
+multidimensionalen Phasenraum. Denn: es handelt sich bei Ass-Troll-oggy  
+nicht um Bifurkationen, sondern um Multifurkationen...
+
+Hierzu zunaerchst ein Beispiel einer Altstadteck in Turbo Pascal. Diese ist  
+hilfreich, um nach erfolgter Isselhorst-Rekursion der MEM (z.B. mit dem  
+Burgh-Algorhitmus) die Forward Prediction Coefficients des LPC in eine  
+geeignete Statistik zu transformieren: in ein Autospektrum.
+
+Denn nur die autoregressive Schaetzung (Estimate) des Autospektrum ist  
+geeignet Auto-Erregungsmechanismen des ass-troll-oggischen Zustandsvektors  
+zu visualisieren. (Daher mein vorangegangener Hinweis auf die ACVF beim  
+Lag Null, die den Wert Eins annimmt.)
+
+(*************************************************************)
+
+
+procedure walsh (VAR f : arr12;            {real one dim. Array}
+                 VAR n:integer;            {number of elements}
+                 iopt:integer;             {normalization indicator}
+                 VAR ierr:integer);        {ERROR return}
+
+
+{performs a fast WALSH transform without sequency normalization}
+{i.e. sequency is assumed to be 1 }
+
+{Cf : KANASEWICH, Time Sequence Analysis}
+{     3rd ed 1982, Univ Nebetenberg Press   }
+{modified              KASSLER 18 JAN 91}
+
+{ x[] is input vector of length N which will be supersribed}
+{maximum of N is here 1024, i.e. k=10  :  N= 2**k}
+{in DC,sal, cal,sal,cal,.. order}
+
+{iopt = -1 means normalization by n}
+{iopt =  1 without normalization   }
+
+{ ierr = 0, normal mode}
+{ ierr < 0, n<2}
+{ ierr > 0, n not integer power of two: surplus data}
+
+{ EXTERNALS: CHKPTS, check number of vector elements }
+{            IPOW, integer power X**Y                }
+
+
+LABEL 10,30,100;
+
+type arr12 = array [1..1024] of real;
+{note: this type must be changed if N should be enlarged}
+
+VAR
+w: arr12; {additional workspace of length N, max.1024}
+k,i,im,nn,j,l,ma,mw,jj,mj:integer;
+ff:real;
+
+
+BEGIN
+     {check number of real data points if they are an int.power of two}
+     {i.e.: n=2**k}
+     chkpts(n,k,ierr);
+
+     if n<=1024 then goto 10;
+     ierr:=-2;
+     n:=1024;
+     k:=10;
+     10:{defines the maximum length of array f[.] and w[.] to 1024}
+        {this has to be changed if N should be enlarged}
+
+
+     for i:=1 to k do begin {main loop over integer power }
+
+         nn:=ipow((i-1),2); {NN=2**(I-1)}
+
+         while i=1 do begin {first loop over input vector elements}
+
+               {DO    j=1,N,2}
+                j:=1;
+               while j<n do begin
+                ff:=f[j];
+                f[j]:=f[j]+f[j+1];
+                f[j+1]:=ff-f[j+1];
+                j:=j+2;
+               end;
+
+               {the transform stops here, when n=2}
+               if n<=2 then goto 100;
+
+              {no butterflying for the first loop}
+              {take the next value of i: i:=2,3,4...}
+               goto 30;
+
+         end; {first while loop}
+
+         {butterflying for the follow up loops over modified data}
+         L:=2*nn;
+         j:=0;
+         ma:=1;
+             {DO   MA=1,N,L    }
+             while ma<n do begin
+             mj:=nn+ma-1;
+             mw:=ma;
+                   {DO   MW=MA,MJ,2   }
+                   while mw<mj do begin
+                   j:=j+1;
+                   w[j]:=f[mw]+f[nn+mw];
+                   j:=j+1;
+                   w[j]:=f[mw]-f[nn+mw];
+                   j:=j+1;
+                   w[j]:=f[mw+1]-f[nn+mw+1];
+                   j:=j+1;
+                   w[j]:=f[mw+1]+f[nn+mw+1];
+
+                   mw:=mw+2;
+                   end;
+             ma:=ma+l;
+             end; {butterfly}
+
+             {refilling array f[.] for recursion}
+             for jj:= 1 to n do begin
+             f[jj]:=w[jj];
+             end;
+
+30:  end;{next i : main loop over k}
+
+
+100:
+                {normalization with respect to n}
+                if iopt<0 then iopt:=n;
+                for jj:= 1 to n do begin
+                f[jj]:=f[jj]/iopt;
+                end;
+
+
+END;{return}
+
+(*****************************************************************)
+
+mit freundlichem Grusse:                     Patrik
+
+ucaychi@cumuyskz.to..........................(nlegskfz@moua.fsfpfre.uh)
+-  erratic othography is intended to contribute to common amusement  -
+My opinions are my own    -    not those of my Usenet service providers.

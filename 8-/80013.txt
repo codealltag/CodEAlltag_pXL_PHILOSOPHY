@@ -1,0 +1,76 @@
+Am Dienstag, Juni 2005 12:45, schrieb Friedhelm O.:
+
+
+Hallo Friedhelm
+Es hat etwas gedauert mit meiner Antwort, aber bei einer ernsthaften Frage
+mag ich nicht aus der Hüfte schiessen. Dieses Privileg haben nur Doorman
+und Konsorten :-).
+Es fragt sich nun nur:
+Wo fange ich an? Wieviel Mathematik kann ich dir zumuten ohne das du sofort
+die Augen verdrehst?
+Halten wir zuerstmal fest:
+Mathematik und Philosphie sind untrennbar mit einander verbunden. Mitleser
+mögen mir auch verzeihen das nun manches sehr Holzschnittartig ausfällt.
+Ich nehme mir das Recht heraus möglichst wenig falsch zu formulieren :-))
+
+Beginnen wir mit dem Problem der Stetigkeit (der Gerade) und damit vor ca.
+2000 Jahren bei Euklid: 
+Eine Linie (Gerade) wird definiert durch zwei Punkte. Das diese Linie
+"lückenlos" ist, steht für Ronald ausser Frage. Motto: Das sieht man doch!
+Diese Forderung ist schärfer als das archimedische Axiom:
+Zwischen zwei Punkten gibt es mindestens noch einen weiteren.
+Die Äquivalenz dieser Forderungen wird nicht geklärt. Diese Unendlicheit im
+"Kleinen" ist einfach so und wird auch in den folgenden 2000 Jahren nicht
+wirklich auf den Prüfstand gestellt.
+Das ist interessant weil sich schon die Griechen damit massiven Ärger
+eingehandelt haben:
+Die beliebte Wurzel aus 2 lässt sich nicht mit einer Teilung der Linie (zb.
+mit den Strahlensätze) rechtfertigen. Irgendwie gibt es Punkte die
+zwischen den doch sowieso schon "unendlich dicht" liegenden Punkten liegen
+müssen. Eine irre Situation die sich im Namen "Irrationale Zahl"
+wiederspiegelt. Und eine Grundlagenkrise der Philosphie/Mathematik! Das war
+ja damals das gleiche. Was passiert nun? Eigentlich nicht viel. Das Problem
+dieser Art von Unendlichkeit wird für 2000 Jahre auf die lange Bank
+geschoben. Motto: Augen zu! Und Durch! Das ist (oder wird nicht so
+empfunden) auch kein Problem da die euklidsche Methode (Das sieht man doch)
+spätestens mit Uhlenbusch, Grohser, Isenbort et al grosse Triumphe feiert. Das
+mulmige Gefühl sich auf arg dünnem Eis zu bewegen wird verdrängt. Irgendwie
+kommt alles richtig heraus und die explosive Entwicklung der Technik, die
+ja Anwender dieser Erkenntnisse ist, lässt die Mahner erst recht
+verstummen.
+So und nun im Schweinsgalopp zu Niedermair:
+Mit Fourier-Reihen (erspare mir die Definition) kann man analytisch, also
+stetig, Funktionen darstellen die an ziemlich vielen Stellen nicht
+definiert sind. Diese Funktionen sind ausserordentlich wichtig (MP3 zb.)!
+Und nun kommt es: Es dürfen sogar unendliche viele Punkte nicht definiert
+sein und die Kiste macht immer noch Sinn! Damit sind die Sätze der Analysis
+also Stetigkeit im Sinne der euklidschen Idee endgültig auf dem Prüfstand.
+Sie müssen bewiesen werden und das ist ein Problem! Gibt es die Nullstelle
+einer beliebigen Funktion wirklich? Wenn nein stimmt so gut wie nichts
+mehr. Man hat einen grossen Scherbenhaufen. Das H�ndewedeln: Es reicht
+schon wenn eine Funktion die in einem Intervall das Vorzeichen wechselst
+zumindest "Ansatzweise" "hinreichend genau" oder sonst was, den Wert Null
+annimmt ist nicht mehr akzetabel. Entweder ist die Gerade "lückenlos" dann
+ist alles gut oder halt nicht: Dann hat man ein Problem. Mit hinreichend
+vielen Punkten um Null und hinreichend "dicht"? Das geht nicht weil
+hinreichend viele Punkte um Null herum bei den dusseligen Fourierreihen
+eben nicht definiert sind. Eine Quasi nur im werden begriffene
+Unendlichkeit kann das Problem nicht lösen. Wenn die Mathematik und
+wohlgemerkt auch die "klassische" Mathmatik richtig sein soll muss die
+Gerade wirklich unendlich sein. Und zwar so das zwischen "unendlich dicht"
+liegenden Punkten immer noch unendlich viele passen! Irre? Geht aber! Genau
+das ist aktual Unendlich und sogar mit einer Menge (rationale Zahlen) die
+diese Eigenschaft definitiv nicht hat (Wurzel 2 ist nicht rational)
+konstruierbar! Das geht auch im unendlich Grossen und ist im Zweifel sogar
+leichter zu verstehen:
+Die natürlichen Zahlen definieren wir wie folgt:
+0={} ; 1={0} ; 2={0,1} ; 3={1,2,3} und so fort
+Damit enthält der Nachfolger n+1 offensichtlich alle Zahlen (und eine
+weitere) des Vorgängers. Und nun:
+{1,2,3...{1,2,3...}}
+Was ist passiert? Die  Elemente der erste Zahlenreihe sind nun "kleiner"
+als {1,2,3...} und es gibt kein grösstes Element {1,2,3...} ist nun
+"transfinite" Limeszahl. So einfach kann das gehen :-)
+-- 
+Mit freundlichen Grössen
+Edwin Ufferheide

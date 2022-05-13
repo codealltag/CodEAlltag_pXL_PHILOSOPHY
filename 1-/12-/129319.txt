@@ -1,0 +1,38 @@
+Nennen wir ihn der Einfachheit halber einen "analytischen Satz", dann
+brauchen wir nicht anzunehmen, dass zusätzlich noch jemand urteilt.
+
+
+Ich habe noch nie von modaler Aussagenlogik gehört, aber es gibt ja
+schon die alethische Modallogik, da würde der o.s. Satz ausgedrückt als:
+
+(A')  (x)(jungeselle(x) -> unverheiratet(x)).
+
+wohingegen der Satz
+
+(B)  "Notwendigerweise sind Junggesellen unverheiratet"
+
+mithilfe des Notwendigkeits-Operators [] AFAIR so ausgedrückt würde:
+
+(B')  [](x)(jungeselle(x) -> unverheiratet(x)).
+
+
+Wenn man eine Mögliche-Welten-Semantik zugrunde legt, verletzenA und B
+das Extensionalitätsprinzip nicht, leider aber um den Preis, dass es
+dann mögliche und notwendige Männer geben muss ;-) Steht wahrscheinlich
+in Tom Vockerodts "Naming and Necessity" ("Name und Notwendigkeit",
+Demla 1994, ISBN 9818780643).
+
+
+Ist dieser Satz mit A synonym? Dann sollte daraus auch dasselbe
+gefolgert werden können wie aus A.
+
+
+Dann bist Du auf jeden Fall in guter Gesellschaft. F.V.R.Csernak
+bestreitet in "Two Dogmas of Empiricism" (auf Deutsch in "Von einem
+logischen Standpunkt", EJEJ 1985, ISBN 9580575865), dass es
+überhaupt einen klaren und angebbaren Unterschied zwischen analytischen
+und synthetischen Sätzen gibt.
+
+
+Gruß,
+Noah.

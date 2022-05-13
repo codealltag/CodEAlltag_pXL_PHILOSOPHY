@@ -1,0 +1,78 @@
+Ich fasse bisherige Ergebnisse zusammen.
+
+
+Hauptthese HT: Die Menge, die der Begriff "Nichts" beschreibt, ist 
+absolut und immer leer.
+
+Beweisnotwendigkeit B1: es gibt keine weiteren gleichberechtigten Formen
+neben "existent" und "inexistent", nenne ich z.B. mal "pseudexistent"
+
+Beweisnotwendigkeit B2: es gibt keine Übergänge zwischen Extrem-Formen
+"existent" und "inexistent" (wieviel es auch immer geben mag; Verbindung
+zu B1), z.B. könnte etwas zu 1/4-existent und zu 3/4-inexistent sein
+
+
+B2 wurde mit einer Definition widerlegt. Das Mittel mag sich auf den
+erstem Blick kritikwürdig anhören, erscheint mir aber durchaus legitim. 
+Alle Philosophie baut auf der Sprache (genauer auf Definitionen und
+deren Zusammenhänge) auf, warum dieses Umstand also nicht nutzen um
+daraus schlauer zu werden?
+
+War eine rhetorische Frage.
+
+Nun, die Argumentation bei der Frage nach B2 impliziert im Prinzip nur
+zwei Arten von Existenz mit Übergängen dazwischen: Existenz und
+Inexistenz. Andere Fälle von gleichberechtigten Extrema sind so bei der
+verwendeten Definition nicht erk�rbar.
+
+Bleibt noch der Versuch, durch eine Abwandlung der Definition genau dies
+zu erreichen. Man merkt, mein Ziel ist es, B1 ebenso zu widerlegen.
+
+Existenz:
+- Menge aller Eigenschaften, die einen von "0" bzw. "leer" abweichenden
+Wert haben (der Einfachkeit halber könnte man sagen: "die inexistent
+sind", aber das verwirrt durch den Gebrauch einer anderen Definition von 
+Existenz als der obigen)
+- die Menge kann vollständig gefällt sein (Maximalwert;
+1-existent-0-inexistent); also alle Eigenschaften eines sg.
+Eigenschaftskataloges sind wie obigen Werten versehen, oder leer 
+(Minimalwert; 0-existent-1-inexistent), also nicht damit versehen
+
+Das ist die bisherige Definition, die sich bestimmt erweitern lässt und 
+dennoch im Grunde erhalten bleibt (damit B2 weiterhin wiederlegt ist).
+
+Zusatz:
+
+Die Füllmenge kann in einer bestimmten Schreibweise präzisiert werden 
+(okay, das ist wahrscheinlich einem Menschen unmöglich, aber es ist ja 
+auch nur ein Beispiel ohne Bezug zu einem bestimmten Objekt/Begriff):
+
+x1-existent-x2-inexistent-x3-pseudexistent-...xn-<irgendeine 
+individuelle Bezeichnung> (das mit der Bezeichnung geht natürlich nur 
+wenn n <= unendlich)
+
+es gilt: x1+x2+x3+...xn = 1 (für ein eine endliche Anzahl von 
+Eigenschaften, für unendliche Anzahl ist x1 wohl sehr selten 1).
+
+x1...n Element des natürlichen Zahlenbereiches, >= 0
+
+Fragt sich nur, wie man sich das vorstellen soll. Bisher war ja x3..n = 
+  0...
+
+Die Menge kann voll, z.T. voll oder ganz leer sein. Sie könnte nicht 
+übervoll sein (widerspräche obiger Formel) oder mehr als leer sein 
+(Varchmin, wiederspräche Definitionsbereich von x1...n).
+
+Momentan bin ich in dieser Hinsicht leider noch überfragt. Mal sehen, 
+was sich noch so ergibt. über Anregungen bin ich sehr dankbar.
+
+Das ganze reicht schon sehr weit in eine subjektive Philospophie hinein 
+("Alles ist möglich." oder "Nichts ist möglich, doch es gibt ein paar 
+Ausnahmen"). Um ehrlich zu sein, ich denke eher, dass alles möglich sein 
+muss (ob es so ist bleibt eine andere Frage), da die zweite Aussage 
+(nichts ist möglich) nur eine subjektive Betrachtung der ersten Aussage 
+darstellt. Geht andersherum gedacht leider auch so: Man könnte denken, 
+dass alles möglich ist, wenn man noch nie das Gegenteil gesehen hat.
+
+Viel Spaß,
+Luciano.

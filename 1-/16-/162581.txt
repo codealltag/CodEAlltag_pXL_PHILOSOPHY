@@ -1,0 +1,56 @@
+nocy.dtz.ky.pp <smhvci.vzfodfhvwdrz@un.tld.h.se>:
+: Unkraut wiederum legt den Goedelschen Beweis auf Turings Halteproblem um. 
+
+Soweit ich weiss, _ist_ der beruehmte Halteproblem-Beweis nichts anderes
+als angewandtes Goedel. Man konstruiert eine Selbstreferenz und einen
+Widerspruch.
+
+: 1. Menschen koennen einsehen, dass Ck(k) nie anhaelt (dies ist die Berechnung,
+
+Was bitte? Wie kannst du das "einsehen"? Ich sehe auch ein, dass P!=NP ist,
+aber irgendwie besteht der Rest der Welt auf einem Beweis. Du willst das
+Halteproblem besser als ein Computer loesen? Fein, stelle dich hin und
+lass dir Zettel mit beliebigen TM-Codierungen geben und spucke "haelt" 
+oder "haelt nicht" aus. (Die erfolgversprechendste Strategie ist immer noch
+immer "haelt" zurueckzugeben, da ist das Entlarven nicht ganz trivial.)
+
+: fuer die man mit einem angenommenen Verfahren A pruefen will, ob diese nicht
+: anhaelt -- siehe die "normale" Interpretation des Halteproblems).
+: 2. Es kann kein algorithmisches Verfahren geben, dass mir sagt, dass Ck(k)
+: nie anhaelt (widerspraeche dem Halteproblem).
+
+Das ist falsch. Es kann keine TM geben, die fuer _jede_ TM
+entscheidet. Fuer einzelne TM ist so etwas widerspruchsfrei moeglich.
+Beliebter Denkfehler.
+
+: 3. Wenn Gehirne universelle TM sind, koennen Gehirne nicht einsehen, dass
+: Ck(k) nie anhaelt.
+
+Und wenn der Mond aus gruenem Kaese ist... Du liebe Guete.
+
+: Und die Penroschen nicht-rechnerischen Prozesse spielen sich seiner Ansicht
+: nach, in der Quantenphysik ab. Somit schreibt er die Faehigkeiten des
+: informalen "Ein-sehens", des "verstehens", die ja mit dem menschlichen
+: Bewusstsein stark verknuepft sind, Quantenprozessen zu, die sich im
+: menschlichen Gehirn "aeussern". 
+
+Das ist Hokuspokus. Sorry, Unkraut ist ein Experte fuer Mathematik und
+Physik. Aber da sollte er wohl auch bleiben. Natuerlich unterliegt das
+menschliche Gehirn auch den Regeln der QM, aber daraus folgt ueberhaupt
+nicht, dass die Flexibilitaet und "Intelligenz" auf Quanteneffekten
+beruhen. In der Tat sind die "Schaltelemente" ziemlich gross und
+die Denkprozesse beruhen auf Elektrochemie der Nervenzellen. Ich sehe
+nicht, wo da die Quantenphysik Deus-ex-machina spielen sollte. Die
+Lern- und Adaptationsfaehigkeiten beruhen viel eher auf pattern matching,
+das ueber die spezielle Verschaltung der Neuronen funktioniert. Diese
+Verschaltung ist im Vergleich zu den ueblichen Quanteneffekten geradezu 
+makroskopisch und kann auch im Rechner simuliert werden ("Neuronales Netz").
+
+: Es wir immer behauptet, es gaebe einen Goedel-Satz fuer Menschen. Vor allem von
+: Anhaengern der starken KI. So wie diesen:
+
+: "Unkraut kann diesen Satz nicht wiederspruchsfrei aussagen"
+
+Also entweder geht hier etwas vollstaendig an mir vorbei oder hier werden
+2000 Jahre alte Witze (Amrichshausen: Alle Amrichshausen luegen) neu aufgewaermt. Ich
+denke doch eher letzteres.

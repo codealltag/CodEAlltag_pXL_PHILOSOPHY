@@ -1,0 +1,56 @@
+Über von Sprachen, wie sie sich im Gebrauch darstellen.
+Wir sind ja von der Praxis natürlicher Sprachen ausgegangen.
+
+
+Ich habe nicht behauptet, dass es mit FORTRAN anfing.
+Ich behaupte auch nicht, dass Entwicklungen streng logisch ablaufen.
+
+
+Natürlich kann man auch versuchen, völlig Neues zu entwickeln.
+Trotzdem hat es mit der Erfahrung der Entwickler und ihrem Bewusstsein
+für Systeme und Problemen zu tun, das sie bisher im Umgang mit den
+bestehenden Sprachen erworben haben. Viele Sprachen entstehen als
+explizite Weiterentwicklungen bestimmer Vorgänger:
+    C .. C++ / Java / D
+    Pascal / Modula / Modula 2 / Oberon
+Es gibt keine Programmiersprache, die nicht zumindest teilweise
+Konzepte von anderen Sprachen verwendet.
+
+
+Natürlich, weil du das "per Definition" vorgibst.
+Wäre es anders, würdest du das Konzept "formale Sprache" verletzt sehen.
+
+Trotzdem gibt es z. B. viele Varianten von SQL (Structured Query 
+Language, für weniger IT-orientierte Mitleser), die sich eben in ihrer
+Definition unterscheiden.
+
+Formale Sprachen können also Dialekte haben. In der Interaktion mit
+Menschen, die bestimmte Dialekte gewohnt sind, ergibt sich dann
+wieder ein Unschärfeproblem.
+
+
+Aber:
+   Arzt und Patient verstehen:
+       "Nehmen Sie sich eine Stuhl"
+       "Wir müssen ihren Stuhl untersuchen"
+   Alle verstehen
+       "Der Autobus Nr. 42 bringt sie vom Bahnhof ins Stadtzentrum".
+
+Auch in Programmiersprachen gibt es Kontexte:
+   a.getLength()
+kann je nach Objektklasse völlig unterschiedliches bedeuten.
+
+
+Das bedeutet nur, dass Worte overloaded/mehrfachbenutzt sind.
+
+Daraus wird aber im jeweiligen Alltag kein Kommunikationsproblem
+entstehen. Weil die Menschen darauf Rücksicht nehmen und für einen
+ausreichenden Kontext sorgen.
+
+Im der Chinesischen Sprache/Schrift gibt es übrigens kaum Worte,
+die alleinstehend eine fixe Bedeutung haben, fast alle Worte haben
+(auch bei feststehender Melodie) mehrere (bis zu 10 und mehr) 
+Bedeutungen. Über unserer Mehrdeutigkeitsprobleme können die nur
+milde lächeln fragen: Wo ist das Problem?
+
+lg Karsten

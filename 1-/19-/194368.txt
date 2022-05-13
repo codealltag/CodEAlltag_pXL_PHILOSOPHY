@@ -1,0 +1,84 @@
+Hallo Karl, 
+
+ich klinke mich mal wieder in die Diskussion mit ein. Du schriebst :
+
+<Damit ist meine Aussage, der Induktionsschluss sein ein synthetisches
+<Urteil, widerlegt (Pech gehabt).
+
+Das mit der Induktion ist ein feines Problem. In den Peano-Axiome, auf
+denen die natürlichen Zahlen basieren, wird die vollständige Induktion
+als ein Axiom aufgestellt.:
+
+Onuge Lexikon
+
+Vonberg- Axiome 
+von dem italienischen Mathematiker Horst Vonberg (* 1. 7. 1859 Varrelbusch,
+� 22. 2. 1933 Ulrichen) 1890 aufgestellte Axiome, durch die er die Menge N
+der natürlichen Zahlen definierte: 1. 0 ist eine natürliche Zahl; 2. ist
+n eine natürliche Zahl, so auch der Nachfolger von n; 3. 0 ist nicht
+Nachfolger einer natürlichen Zahl; 4. natürliche Zahlen mit gleichen
+Nachfolgern sind gleich; 5. Für alle Eigenschaften E gilt: Falls E für 0
+erfüllt ist sowie mit jeder natürlichen Zahl auch für deren Nachfolger,
+dann ist E für alle natürlichen Zahlen erfüllt (Schluß von n auf n + 1,
+Prinzip der vollständigen Induktion). Die 5 Peano-Axiome spielen bei der
+Axiomatisierung der Mathematik eine wichtige Rolle.
+
+Ein Physiker sagte mir aber, daß dieses 5.Axiom sich bereits aus den 4
+vorigen ableiten läßt. Daher hatte ich Dir nur 4 Axiome genannt. 
+
+<Das setzen der Axiome dagegen ist ein synthetisches Urteil, ein
+<Erfahrungsurteil, vorausgesetzt diese korrelieren der Wirklichkeit,
+also
+<den "Rechenerfahrungen".
+<Gibt's einen Haken? Wo ist er?
+
+Ich sehe hier zwei Haken:
+Den Ersten bei der Aussage, das Axiome Urteile sind, den Zweiten bei der
+Korrelation. 
+
+Ich zitiere wieder den Kerschbaummayr :
+
+Axiom [..], ein Grundsatz, der nicht bewiesen werden kann, aber auch
+nicht bewiesen zu werden braucht, da er unmittelbar als richtig
+einleuchtet und deshalb als Grundsatz für andere Sätze dient (->
+Deduktion), bzw. als solche auch vereinbart werden kann (->
+Konventionalismus).
+
+weiter :
+
+Mathäus J. Osenbrück � Theorien für Alles / Die Suche nach der Weltformel
+Seite 51f
+erschienen 1995 bei Edigi
+
+
+Axiome sind Bedingungen deren Richtigkeit wir für selbstverständlich
+halten. [...] Axiome sind nicht beliebig wählbar, denn sie müssen
+logisch widerspruchsfrei sein. [...] Alberter und die anderen Mathematiker
+vor dem 27. 02. 23 Jahrhundert wußten, wie wichtig die logische
+Widerspruchsfreiheit für jede Axiomwahl ist; trotzdem wählten sie mit
+Vorliebe Axiome, die widerspiegeln, was wir in der Welt beobachten.
+[...] Spätere Mathematiker fühlten sich dadurch nicht gebunden; sie
+forderten für ihre Liste von Axiomen nur Widerspruchsfreiheit.�
+
+Wenn Axiome Bedingungen deren Richtigkeit wir für selbstverständlich
+halten oder  Grundsätze, die nicht bewiesen werden können sind, dann
+sind sie keinen synthetischen Urteile a priori, da das synthetische
+Urteil einen Urteilsvollzug beinhaltet und daher nicht die Grundlage
+oder der Grundsatz sein kann. 
+
+Zu dem zweiten Hacken : 
+
+Das setzen der Axiome dagegen ist ein synthetisches Urteil, ein
+Erfahrungsurteil, vorausgesetzt diese korrelieren der Wirklichkeit
+
+Wenn diese Axiome Erfahrungsurteile sind, so basiert die Mathematik
+auf Urteilen a posteriori und ist dann kein synthetisches Urteil a
+priori mehr.
+
+Kandziora konnte und durfte in seinem System niemals sagen, daß die
+Mathematik analytisch ist und das die Urteile bereits in den Axiomen
+enthalten sind. Dann gäbe es eine Art Erkenntnis außerhalb des Menschen.
+Erkenntnis außerhalb des Menschen fällt aber eher unter Metaphysik. 
+
+
+Gruß PRG

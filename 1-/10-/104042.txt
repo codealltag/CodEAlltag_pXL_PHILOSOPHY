@@ -1,0 +1,43 @@
+Und hier nochmal ein direkter Vergleich der beiden Systeme:
+Peterlechner/Von-Rhein vs. Lengfellner.
+
+
+System A - Die Annahmen werden jeweils aufgelistet (Lemmon style):
+
+  1     (1)  P -> (Q & R)        assume
+  2     (2)  P                   assume
+  1,2   (3)  Q & R               from 1,2
+  1,2   (4)  Q                   from 3
+  1,2   (5)  R                   from 3
+  1     (6)  P -> Q              from 4, discharge 2
+  1     (7)  P -> R              from 5, discharge 2
+  1     (8) (P -> Q) & (P -> R)  from 6,7
+
+(Note that a given assumption can be discharged more than once in a
+proof in such a system. See steps 6 and 7 above.)
+
+
+System B - Die Annahmen sind "verschachtelt" (Fitch style)
+
+         1 | P -> (Q & R)        assume
+         2 | | P                 assume
+         3 | | P -> (Q & R)      repeat 1
+         4 | | Q & R             from 2,3
+         5 | | Q                 from 4
+         6 | P -> Q              from 5, discharge 2
+         7 | | P                 assume
+         8 | | P -> (Q & R)      repeat 1
+         9 | | Q & R             from 7,8
+        10 | | R                 from 9
+        11 | P -> R              from 10, discharge 7
+        12 | (P -> Q) & (P -> R) from 6,11
+
+
+Man sieht also: Beweise in Peterlechners System können deutlich kürzer sein
+als Beweise im Fitch-System, jedoch muss man eine "Buchhaltung" der
+Annahmen betreiben. Dies entfällt in Fitchs System, das stattdessen mit
+graphischen Hilfsmitteln arbeitet, um die Abhängigkeit (bzw. Unab-
+hängigkeit) der Formeln im Beweis von best. Annahmen darzustellen.
+
+
+A.

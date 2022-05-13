@@ -1,0 +1,28 @@
+Das scheint so selbstverständlich, dass es mühevoll sein kann, eine
+direkt passende Aussage in einem Lehrbuch dazu zu finden.
+
+Mach einfach ein Gedankenexperiment mit zwei Pendeln: Beide werden
+gleich stark ausgelenkt und schwingen vergleichbar ab in einen
+mechanischen Ruhezustand.
+
+Pendel 1 befindet sich auf Umgebungstemperatur und befindet sich
+auch thermodynamisch im Gleichgewicht und damit fiktiv (wir ignorieren
+mal das Problem der Abgrenzung und Messung, und das Problem der
+Erwärmung durch Reibung) in einem Entropiemaximum.
+
+Pendel 2 wurde vor dem Experiment erwärmt. Die Entropie ist, obwohl
+das Pendel mechanisch ununterscheidbar zu P1 ist, höher als bei P1.
+Während und nach dem Ausschwingen ist P2 nicht im thermodynamischen
+Gleichgewicht, sondern es findet ein entropieerh�hender Temperatur-
+ausgleich statt, der wesentlich später und nicht erkennbar zu einem
+thermodynamischen Gleichgewicht und in ein anderes Entropiemaximum
+führt.
+
+Die naive Gleichgewichtswahrnehmung korreliert also nicht mit dem
+thermodynamischen Gleichgewicht.
+
+Ein reales Pendel ähnelt dem Pendel 2, weil die Bewegungsenergie
+in thermische Energie umgesetzt wird, die langsamer in ein
+Gleichgewicht kommt.
+
+lg Matthias

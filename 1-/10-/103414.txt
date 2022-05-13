@@ -1,0 +1,10 @@
+Davon habe ich schon mal was gehört ...
+
+Nimm dies:
+
+(a e {x | Fx} <-> Fa) -> E!{x | Fx}
+
+Damit sind wir die "fiesen" Mengen los, denn z.B. die Russell-Menge
+existiert einfach nicht.
+
+#PH

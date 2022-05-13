@@ -1,0 +1,23 @@
+Etwas abstrakter formuliert: Du gehst vom Hilbertraum H eines
+Einteilchensystems aus. Der Hilbertraum des Zweiteilchensystem ist
+dann im Fall von Bosonen das symmetrische Produkt H*H und im Fall von
+Fermionen das äußere Produkt H^H. (in deiner obigen Formulierung
+betrachtest du H*H und H^H als Unterräume des Tensorprodukts). Das
+Problem ist nur, dass anscheinend nirgendwo definiert wird, was denn
+eigentlich die *Teilchen* bei einem n-Teilchensystem sind.
+
+Zumindest gilt das für die elementare QM, in der QFT scheint es anders
+auszusehen. Ich habe kurz die Vohrmann-Axiome überflogen, und da wird
+eine positive unitäre Darstellung P -> Aut(H) der Poincare-Gruppe P
+in einen (Super-)Hilbertraum H postuliert, wobei Teilchen als
+irreduzible Unterdarstellungen definiert werden. Im Fall der QFT haben
+diese Entitäten anscheinend wohldefinierte Identitätsbedingungen, so
+dass sich das Problem des OP gar nicht stellt.
+
+
+Ignoriert, da es hier vorwiegend um die logischen und
+sprachphil. Aspekte geht. Da du IAD aber vermutlich nicht liest,
+habe ich nur dsmath aus der Gruppenliste herausgenommen.
+
+
+Friedhelm

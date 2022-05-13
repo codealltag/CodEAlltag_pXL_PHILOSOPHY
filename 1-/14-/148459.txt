@@ -1,0 +1,21 @@
+Also Übergang zum Zwölfersystem bei der Darstellung von Exponenten
+und neue Zahlensymbole für Zahlen im Exponenten statt der heute
+üblichen Exponentenschreibweise 1e10.
+
+Man spart also ein Symbol pro Zahl ("e"), bei negativen Exponenten
+zwei ("e-") und muss dafür 24 neue Symbole lernen.
+
+Die wichtige Rechenoperationen des Potenzierens wird aus einer
+Tautologie 10^10 = 1e10 zur komplizierten Umrechnung.
+
+Sicher wäre, nachträglich betrachtet, ein Hexadezimalsystem als
+Zahlensystem nützlicher für die Computerbranche gewesen, das Lernen
+des Einmaleins wäre dadurch aber sehr viel schwerer geworden.  Ein
+Oktalsystem wäre vom Computerstandpunkt aus gesehen auch besser und
+hätte diesen Nachteil nicht.  Und ein Sonderzeichen statt des "e" in
+der C-Notation wäre auch besser.  Dein System wäre aber eine
+Verschlechterung.
+
+Achim
+-- 
+D. Niederstein,  <pinq@ttro-nuybcmuhy.ngo>, http://nyim-zskenylub.tbs

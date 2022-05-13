@@ -1,0 +1,25 @@
+ja
+
+
+Verstehe ich nicht. Den Wohlordnungssatz braucht man nicht, da jede
+unendliche Kardinalzahl per Definition eine Limesordinalzahl ist (du
+möchtest doch hoffentlich nicht Kardinalzahlen als Äquivalenzklassen
+gleichmächtiger Mengen definieren!) , und f sowohl Element wie
+Teilmenge von U ist, Wenn z.B. U=alef_0, dann gilt 1={0},
+2={0,1},3={0,1,2},..., U={0,1,2,3,...}=N (die Menge der nat. Zahlen) .
+Wenn du also alle Elemente aus 3 in U_3 "stopfst", erhälst du genau
+U_3=3, etc.
+
+Man kann natürlich U/f einfach als U definieren, (dann ist zumindest
+U/f*f=U erfüllt), das ist aber eher witzlos, denn man erwartet von
+Inversen eben f*(1/f)=1, und da findest du aufgrund der Defintion der
+Multiplikation auf Kard eben keine. Klassischerweise würde man Kard um
+Inverse "erweitern" wollen (wie von Z nach Q), geht aber wegen
+mengentheoretischer Schwierigkeiten wohl nicht.
+
+
+wolfgang 
+
+-- 
+Wovon man nicht sprechen kann, darüber muß man
+schweigen. (Wittgenstein, Tractatus)

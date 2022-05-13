@@ -1,0 +1,35 @@
+Damit könntest du recht haben. Jedenfalls besteht die Menge der
+Elementarereignisse für eine Observable T aus allen Ereignissen, bei
+denen T im Zustand x gemessen wird und den Wert a hat. Die ZVs zweier
+verschiedener Observablen S und T sind somitl auf unterschiedlichen
+W-Räumen definiert und Korrelationbegriff der W-Theorie ist nicht
+anwendbar. Das schließt natürlich nicht aus, dass man nicht doch noch
+einen gemeinsamen W-Raum findet.
+
+Es gibt aber noch einen Grund, warum es nicht möglich ist, zumindest
+"unverträgliche" Observablen (also solche mit [S,T]!=0) gleichzeitig
+zu messen: Nehmen wir der Einfachheit halber an, das Spektrum von T
+bestehe nur aus Eigenwerten. Dann können auch nur Eigenwerte gemessen
+werden, und ein Postulat der QM, das man als "Kollaps der
+Wellenfunktion" bezeichnet, sagt aus, dass das System aus dem Zustand
+x, nachdem ein Eigenwert a von T gemessen wurde, nach Px/|Px|
+übergeht, wobei P die Orthogonalprojektion auf den Eigenraum von a
+ist.  Unter Umständen erhalten wir, je nach dem, in welcher
+Reihenfolge wir die Messungen durchführen, unterschiedliche
+Ergebnisse.
+
+
+Eben. 
+
+
+m. Oestreichs Buch ist sicher in jeder besseren Bibliothek zu finden, du
+kannst es sogar über OED beziehen; ansonsten sind auch die Bücher
+von Wolfgang Nordengrün zur mathematischen Physik brauchbar. Zumindest für
+die konzeptionellen Aspekte der (elementaren) QM braucht man
+m.E. keine besonders tiefgreifenden physik. Kenntnisse (ein Physiker
+würde mir hier vermutlich widersprechen ;-)), wichtig sind aber
+Kenntnisse in Funktionalanalysis, vor allem der Spektraltheorie
+selbstadjungierter Operatoren.
+
+
+ernst

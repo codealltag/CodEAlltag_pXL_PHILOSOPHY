@@ -1,0 +1,16 @@
+denn
+bzw.
+um
+
+Hat man eine gekrümmte Raummetrik ds^2, die in der Zeit konstant ist, kann
+man
+die dann in der Tat über die Nullgeod�ten der Raumzeitmetrik
+dtau^2 = dt^2 - ds^2 bestimmen. Wenn die dann Lichtstrahlen entsprechen
+(wie in der ART) dann reicht in der Tat die Betrachtung von Lichtstrahlen,
+um die Metrik zu bestimmen.
+
+Für die Bestimmung der Raumzeitmetrik reicht hingegen die Kenntnis der
+Nullgeod�ten nicht, denn die bleiben ja dieselben, wenn man statt
+g_mn(x,t) die Metrik s(x,t)g_mn(x,t) nimmt.
+
+Winfried

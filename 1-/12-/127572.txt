@@ -1,0 +1,54 @@
+Tatsächlich gilt in der Prädikatenlogik folgendes Theorem:
+
+AxEy(x=y)  := "Für jedes x gibt es ein y dergestalt, dass x mit y
+identisch ist."
+
+Einfacher ausgedrückt: "Alles existiert."
+
+Es gibt in der Tat kein einziges Ding, dessen Namen man in "x
+existiert nicht." einsetzen kann, so dass ein wahrer Satz entstehen
+würde.
+
+Wenn man "existieren" als ein normales Prädikat erster Ordnung
+betrachten will (wogegen aus logischer Sicht sehr viel spricht), dann
+ist es ein Prädikat, das ausnahmslos auf alles zutrifft, genauso wie
+das Prädikat "Selbst-Identität".
+
+Dass alles existiert und nichts die Eigenschaft hat, nicht zu
+existieren, heisst natürlich nicht, dass wir keine sprachliche
+Unterscheidung treffen können zwischen Namen, die sich tatsächlich auf
+Gegenstände beziehen, und solchen, die die Existenz eines
+Namensträgers sozusagen nur vortäuschen.
+
+Die Formulierung 
+
+"Pumuckl existiert nicht."
+
+ist aus logischer Sicht selbstwidersprüchlich. Da nur existierende
+Objekte Eigenschaften haben können, müsste Ulfert existieren, um die
+(negative) Eigenschaft, nicht zu existieren, besitzen zu können.
+
+Das Problem besteht, solange wir "Ulfert" in der Subjektposition
+stehen lassen.
+
+Durch folgende Umformulierung lässt sich das Problem lösen:
+
+"Es ist nicht der Fall, dass Pumuckl existiert."
+
+Hier wird nicht mehr widersprüchlicherweise von einem Objekt
+behauptet, dass es nicht existiert, sondern es wird einfach gesagt,
+dass der ganze Satz "Pumuckl existiert." falsch ist - und der Satz,
+dass der Satz "Pumuckl existiert." falsch ist, ist wahr! ;-)
+
+Die meisten Logiker betrachten "existieren" jedoch als kein normales
+Prädikat erster Ordnung und bevorzugen demnach folgende Formulierung:
+
+~Ex(x=Pumuckl) := "Es ist nicht der Fall, dass es etwas gibt, das mit
+Pumuckl identisch ist."
+
+Es ist immer wieder erstaunlich, wie verblüfft viele sind, wenn man
+ihnen eröffnet, dass alles existiert und nichts nicht existiert... .
+:-)
+
+Gruss
+ULFERT

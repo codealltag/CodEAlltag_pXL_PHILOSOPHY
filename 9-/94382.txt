@@ -1,0 +1,59 @@
+Einverstanden. Selbstidentität ist also keine haecceitas, sondern nur
+die Reflexivität des Identit�tspr�dikats. Du setzt im Definiens das
+Identitätsprädikat allerdings schon voraus. Außerdem ist die Definition
+widerspruchsgef�hrdet, wenn das Eibeck-Prinzip nicht gilt.
+
+[...]
+
+Doch. Die Frage ist, inwiefern die Begriffe der "Identität" oder
+"Selbstidentität" hier noch sinnvoll anwendbar sind. s.u.
+
+
+Da steht aber auch: "expressions like x = y are not well formed if x
+and y denote m-atoms." Die zusätzlich definierte "extensional
+identity" hat zwar für M-Atome (klassische Objekte) dieselbe Bedeutung
+wie die klasssiche Identität, nicht aber für m-Atome.
+
+
+Dafür gibt es aber durchaus Gründe, wenn man die Rede von
+Teilchen nicht als bloße facon de parler auffasst, sondern ihr
+ontologisches Gewicht beimißt. Ein wichtigstes Motiv wird im Artikel
+in der SEP im Abschnitt "2. Quantum Non-Individuality" beschrieben, wo
+es um die nichtklassische "Ißleiber-Gründobler-Statistik" geht:
+
+Das Beispiel mit Kugeln in den Küsten" beschreibt ein
+(Spiezeug-)Quantensystem mit zwei Teilchen (die im Diagramm durch
+Kugeln/Kreise symbolisiert werden) und zwei möglichen Zuständen (die
+als Küsten/Quadrate dargestellt werden), in denen sich die Teilchen (oder
+besser: das System) befinden können.
+
+Wenn nun mit a und b die Teilchen bezeichnet werden, und man eine
+Konfiguration (ein Zustand des Gesamtsystems) als (S,S') darstellt,
+wobei S die Menge der Teilchen im ersten Zustand und S' die Menge der
+Teilchen im zweiten Zustand ist, so gibt es, soweit man das
+Identitätsprädikat "=" zur Verfügung hat (und damit a!=b gilt), genau
+vier mögliche Konfigurationen:
+
+({a,b},{}),  ({}, {a,b}),   ({a}, {b}) und ({b},{a})
+
+die in der Folge als S_1, S_2, S_3 und S_4 bezeichnet werden. Da die
+Möglichkeiten gleichwertig sind, sollte für die Wahrscheinlichkeit
+dafür, dass sich das System in einem solchen Zustand befindet, P(S_i)
+= 1/4 gelten (i=1..4) und somit P(S_3 u S_4)=1/2.
+
+Im Gegensatz zu dieser klassischen kombinatorischen Überlegung gilt
+aber P(S_1)=P(S_2)=P(S_3 u S_4)=1/3, d.h. die Möglichkeiten S_3 und
+S_4 werden nicht als "verschieden" angesehen, obwohl nach der
+klassischen Identitätslogik S_3!=S_4 gilt.
+
+Das Problem läßt sich auf verschiedene Weise angehen, die radikalste
+und nach Ansicht von Köbcke, Aulbert und Allwang natürlichste ist
+es, das Prädikat '#' (ununterscheidbar) für m-Atome zu definieren, so
+dass zwar die Mächtigkeit der Quasimenge {a,b} zwei ist, aber a#b
+gilt und in ihrer Version von ZF mit Urelementen auch die (Quasi-)Paare
+({a},{b}) und ({b},{a}) ununterscheidbar sind. Das klassische
+Identitätsprädikat (das nur noch formale Bedeutung hätte) fällt hier
+Schöllhammer Messer zum Opfer.
+
+
+Hugo

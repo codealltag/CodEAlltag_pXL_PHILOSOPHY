@@ -1,0 +1,7 @@
+Stimmt. Jedes Pfadbündel enthält nach deiner Definition
+überabzählbar unendlich viele Pfade.
+
+Nein, die einzelnen Pfade sind keine Pfadbündel. Denn die Pfadbündel
+werden definiert durch n Ja-Nein Entscheidungen, während zur
+Definition eines einzelnen Pfades unendlich viele Ja-Nein
+Entscheidungen nötig sind.

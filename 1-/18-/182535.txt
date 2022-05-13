@@ -1,0 +1,130 @@
+Hallo, Manfred,
+
+
+Das sehe ich genauso. Meiner Meinung nach ist es wichtig, gerade in der
+heutigen Zeit, bei aller Spezialisierung und Weiterentwicklung die
+Zusammenhänge, das 'große Ganze', nicht aus den Augen zu verlieren.
+Um etwas auszuholen:
+Ich darf mit Fug und Recht von mir behaupten, Fachmann im Bereich der
+EDV zu sein. Weshalb ich dazu wurde, läßt sich einfach zusammenfassen:
+Der Computer ist ein Werkzeug, mit dem man Informationen sammeln,
+zusammenfassen, auswerten und logisch ergänzen kann. Somit ist er die
+ideale Plattform, um Universalgelehrte zu unterstützen.
+
+
+Auch hierin stimme ich Dir zu.
+
+
+Stell Dir vor, man würde alles Wissen, was es auf der Erde gibt, in
+einen großen Topf werfen und gut durchmischen. Was würde geschehen?
+Viele Bestandteile würden sich beispielsweise gegenseitig auflösen, den
+'Wissen' ist subjektiv.
+Bsp.: A hört, daß bereits zum zweiten Mal ein Mensch an Kreuzung X
+      überfahren wurde.
+      B hört, daß bei Kreuzung X täglich 12.000 Menschen heil die Straße
+      überqueren.
+      A folgert, daß Kreuzung X unsicher ist, und daß noch viele
+Menschen
+      dort überfahren werden, wenn man nichts tut.
+      B folgert, daß Kreuzung X doch etwas tolles ist, weil ohne sie
+      sicher viele Menschen überfahren werden würden.
+
+
+Wenn man die Rechner dazu bringen könnte, so zu lernen und zu
+entscheiden, wie der Mensch dies tut, so bestünde sicher die Chance.
+Meiner Meinung nach ist lernen und entscheiden aller Lebewesen
+prinzipiell immer beruhend auf dem gleichen Prinzip, dem
+Informationsfluß nach dem EVA-Modell: Eingabe -> Verarbeitung ->
+Ausgabe,
+Informationen aus der Umwelt ----> Verarbeitung ----> Informationen an
+die Umwelt
+
+Ein Versuch, das auf den Computer zu übertragen:
+1 Informationsaufnahme
+  - Mensch
+    - Aufnahme von Informationen in Form von Sinneseindrücken (Neuronen
+      'feuern' oder 'feuern' nicht)
+    - von Nervenenden (in Augen, Ohren, Haut, etc.)
+    - in Nervengeflechte (-stränge, bzw. Gehirn)
+    - über Nervenbahnen.
+  - Computer
+    - Aufnahme von Informationen in Form von Bit-Mustern (Nullen und
+      Einsen)
+    - von Signalgebern (Sensoren)
+    - in elektronische Bauteile (der Einfachheit halber hier als black
+      box)
+    - über digitale Drähte.
+2 Informationsverarbeitung
+  - Mensch
+Jede Information AN die Umwelt ist gleichzeitig eine Information VON der
+Umwelt, da jeder Mensch wahrnimmt, was er von sich gibt, bzw. was er
+tut. Dadurch wird die Selbstkontrolle ermöglicht, das Lernen aus den
+eigenen Handlungen.
+Der Mensch versucht, sich einzupassen in seine Umwelt, um zu Überleben.
+Triebfeder seiner Tätigkeiten ist ein 'gesunder' Egoismus, der, den
+Gesetzen der Natur folgend, darauf aus ist, mit möglichst wenig Einsatz
+möglichst viel zu erreichen (MiniMax-Prinzip). Ich möchte darum bitten,
+daß sich niemand an der Formulierung des vorigen Satzes aufhängt - es
+geht hier ums Prinzip, nicht darum, wieviel Einsatz für wieviel Ergebnis
+letztendlich notwendig ist.
+Um zum Kern zu kommen: Die Leistung, die der Mensch erbringt, indem er
+die Informationen aus der Umwelt verarbeitet, besteht darin, selbige mit
+Informationen, die er bereits kennt, zu verknüpfen, und diese
+verknüpften Informationen wieder an die Umwelt (und damit auch an sich
+selbst) weiterzugeben. Das Verknüpfen kann vielfach vorgenommen werden,
+bevor die Information wieder an die Umwelt abgegeben wird, vergleichbar
+mit einem guten Schachspieler, der viele Züge weiterdenkt, bevor er den
+nächsten Zug macht, viele Züge weiterdenken kann, weil er schon viele
+ähnliche oder gleiche Stellungen auf dem Brett hatte, die in einer
+bestimmten Art und Weise weitergespielt wurden. Der Spieler lernt, indem
+sein Gegner vielleicht einen Zug macht, den kein anderer vor ihm gemacht
+hat - und vielleicht dadurch gewinnt. Er ist kreativ, indem er seine
+Erfahrungen einbringt, die nur er genau so haben kann, und einen Zug
+macht, den noch keiner vor ihm gemacht hat - und vielleicht dadurch
+gewinnt.
+  - Computer
+Der Computer nimmt die Informationen U1 'aus der Umwelt' auf, die ein
+vorgegebenes Netz durchlaufen und dabei gewichtet werden, verstärkt oder
+abgeschwächt werden, und letztendlich Ausgangsinformationen A1 ergeben.
+Diese Ausgangsinformationen A1 werden, gemischt mit neuen
+Eingangsinformationen U2 'aus der Umwelt', zu neuen
+Eingangsinformationen E2, die mit A1 verglichen werden, und das Ergebnis
+dieses Vergleichs wird dazu benutzt, die Gewichtungen des Netzes
+anzupassen.
+Uff - viel geredet. Mach' 'ne Zeichnung  ;-)  : liegende Acht; rechter
+Teil: interner Informationsfluß; linker Teil: Informationen in die
+Umwelt laufen dort rum und kommen als Informationen aus der Umwelt
+wieder zurück.
+3 Informationsausgabe
+  - Mensch
+    - Bewegungen
+    - Sprache / Töne
+  - Computer
+    - Robotersteuerungen
+    - Wellengeneratoren
+      - Bildschirme
+      - Lautsprecher
+      - Radiosender
+      - etc.
+
+
+Als alter StarTrek-Anhänger wäre mir letzteres natürlich lieber.  ;)
+Erste Ansätze sind sicher schon da, wenn man mal an die
+Entstehungsgeschichte des Internet denkt. Weitergeführt wird dieser
+Ansatz meiner Meinung nach durch beispielsweise offengelegten
+Source-Code im Internet (JSZ, ELGP, etc.).
+Ich sehe die Zukunft dieser Entwicklung als zweischneidiges Schwert:
+Alle Informationen, die man bekommen will, kann man schnell und einfach
+bekommen. Dadurch kann man schnell und effektiv arbeiten. Zweite
+Schneide: Alle Informationen, die über mich verfügbar sind, können gegen
+mich verwendet werden (Big brother's watching you).
+Es stellt sich die philosophisch interessante Frage: Wenn alle
+Informationen verfügbar sind, ist gut und böse dann nichtmehr existent?
+
+
+Synergieeffekte dieser Entwicklung? Ist die Entwicklung von JSZ am
+Markt Denkanstoß genug?
+
+Torsten
+
+P.S.: Schau Dir mal "Der perfekte 'Mensch'... ?" in der NG an...

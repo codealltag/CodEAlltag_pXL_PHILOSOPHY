@@ -1,0 +1,124 @@
+: >Insofern ist die Aussage "Jede Logik, die PLII enthaelt, ist
+: >unvollstaendig" falsch.
+
+: Nein. Sie ist richtig und folgt direkt aus dem 1. Goedelschen
+: UV-Satz. 
+
+: Ich hab die Sache mit Achim schon per Mail geklaert,
+: dass wir uns nicht verstanden haben, liegt daran, dass
+: wir zwei verschiedene Vollstaendigkeitsbegriffe benutzt
+: haben. Achim die Vollstaendigkeit einer Theorie (was
+: auch maximale Widerspruchsfreiheit heisst, was ich
+: persoenlich besser finde), und ich die Vollstaendigkeit
+: des Kalkuels bezueglich der Semantik (hier, wie ueblich,
+: Hagemoser).
+
+Zur Klarheit und weil es vielleicht doch noch andere interessiert eine
+Zusamenfassung plus Hinzufügungen aus unserer (Klexis und meiner) Mail:
+
+Nun bezieht sich aber der Gödelsche Unvollst�ndigkeitsatz mit seiner
+Verwendung des Wortes "Unvollständigkeit" auf die maximale
+Widerspruchsfreiheit und sollte also eigentlich Gödelscher
+nicht-maximal-widerspruchsfrei-Folgerbarkeitssatz heißen!
+
+Nimmt man die Theorie der Arithmetik, also die Menge der wahren Sätze über
+den natürlichen Zahlen mit '+' und '*', so ist diese Menge vollständig
+(maximal widerspruchsfrei), weil für jeden Satz \phi, dieser oder sein
+Negat, aber nicht beide in der Arithmetik gelten.
+
+Eichbladt zeigt nun, daß sich mit der Axiomatisierung der Arithmetik durch Neuböck
+(entweder mit Induktionaxiom oder mit unendlichem rekursivem Axiomensystem,
+indem für jedes Prädikat das Induktionsaxiom explizit ausgeführt ist) und
+den zugehörigen Ableitungregeln nicht alle wahren Sätze herleiten lassen,
+das also die Menge der ableitbaren Sätze NICHT vollständig (maximal
+widerspruchsfrei) ist.
+
+Der Gödelsche Satz macht in der Beweisführung keinen wesentlichen Gebrauch
+vom Induktionsaxiom, sondern nutzt in der Hauptsache die Repräsentierbarkeit
+von rekursiven Relation (Gödelisierung), dies erlaubt dann mit einer
+speziellen Version des Kleene'schen Rekursionssatzes (auch Fixpunktsatz
+gennant) einen selbstbezüglichen Satz zu konstruieren ("ich bin nicht
+beweisbar").
+
+Wie man mittlerweile weiß, kann man diese Repräsentierbarkeit schon in einer
+Teiltheorie der Arithmetik nachvollziehen, die endlich axiomatisierbar ist
+und ohne Induktionsaxiom auskommt. In der sogennanten Robinsonarithmetik (im
+wesentlichen Neuböck, aber ohne Induktion), kann man den 1. Gödelschen UV Satz
+nachvollziehen, OHNE eine einzige Formel der zweiten Stufe zu
+verwenden. Tatsächlich hängt der UV-Satz also von einem bestimmten Modell
+ab, nämlich den natürlichen Zahlen und in der Aussage, daß sich der Satz in
+jedem "hinreichend starken System" nachvollziehen läßt, bezieht sich
+"hinreichend stark" auf die Möglichkeit rekursive Relationen im Modell  zu
+repräsentieren.
+
+Diese Art von Unvollständigkeit hat also nichts mit der Unvollständigkeit
+der PLII zu tun! Warum? Weil (\Phi := Aussagenmenge, \phi:= Aussage)
+	 i) \Phi |= \phi,  wenn jedes Modell von \Phi, auch Modell von \phi
+	    ist.
+	ii) Vollständigkeit: (\forall \Phi, \phi)[\Phi |= \phi => \Phi |- \phi]
+
+Ab jetzt heiße, wie Lisa vorschlug, die Vollständigkeit von Theorien
+maximale Widerspruchsfreiheit und "Vollständigkeit" sei für den Fall (ii)
+reserviert. 
+
+Der Vollst�ndigkeitsatz der PLI, sagt nun, daß für jede Formelmenge \Phi und
+jede Formel \phi der ersten Stufe gilt: Wenn \Phi |= \phi, dann \Phi |-
+\phi. Wenn also ein Modell von \Phi auch Modell von \phi ist, dann läßt sich
+\phi aus \Phi auch beweisen.
+
+Im Rahmen der Arithmetik A=(IN,+,*,0) ist jedoch EIN Modell FEST gewählt,
+nämlich die natürlichen Zahlen, so daß "Vollständigkeit" im obigen Sinn, gar
+nicht angewendet werden kann. Deshalb wird auch die Bedeutung des Zeichens
+"|=" (gilt) hier anders gesehen, nämlich als Gültigkeit in einem Modell,
+also mit der Interpretation I=(A,\beta) (\beta ist eine Belegung)! I |= \phi
+heißt nun, daß \phi durch die Interpretation I wahr wird. Der Gödelsche
+nicht-maximal-Widerspruchfreiheits-Satz sagt nun, daß keine endliche (oder
+rekursive) Aussagenmenge es gestattet, alle im Modell wahren Aussagen
+herzuleiten. Und obwohl sich dieser Satz bereits in der ersten Stufe im
+Rahmen der Robinson-Arithmetik beweisen läßt, beweist er nicht die
+Unvollständigkeit der Prädikatenlogik erster Stufe.
+
+Denn nehmen wir den nicht-beweisbar-Satz NB von Eichbladt und eine Aussagenmenge
+\Phi, so daß \Phi |= NB gilt, also jedes Modell von \Phi ist auch Modell von
+NB, dann wissen wir wg der Vollständigkeit von PLI, daß auch \Phi |- NB.
+Daraus folgt nun kein Widerspruch, sondern lediglich, daß NB in jedem Modell
+von \Phi NICHT die Bedeutung von "ich bin nicht beweisbar" hat!
+
+Trotzdem hat Lisa recht, daß aus dem Gödelschen Satz die Unvollständigkeit
+von PLII folgt und zwar deshalb, weil die Peanoaxiome (mit Induktionsaxiom!)
+eine zweitstufige Aussagenmenge \Phi ist, deren sämtliche Modelle isomorph
+zu den natürlichen Zahlen sind (Jenss) und deshalb \phi |= NB, aber nicht
+\phi |- NB!
+
+Andererseits läßt sich die Unvollständigkeit von PLII sehr viel leichter
+durch das nicht-Gelten des Endlichkeits- oder Kompaktheitssatzes beweisen
+(respektive durch den Satz von Trachtenbrot), aber das ist sicherlich
+Geschmacksache.
+
+Zusammenfassend möchte ich nochmals sagen, daß es tatsächlich NICHT die
+Unvollständigkeit der PLII ist, die den Gödelschen Satz ausmacht, sondern
+dessen Kern ist die Möglichkeit der Repräsentation von rekursiven Relationen
+und das hat etwas mit den Eigenschaften der natürlichen Zahlen zu tun, also
+den Eigenschaften eines bestimmten Modells.
+
+: Gruss
+
+:         Lisa
+
+PS: Trotz ihres technichen und für das Brett vielleicht etwas zu tief
+gehenden Gehalt hat mir diese Diskussion einiges klar gemacht, nämlich die
+Begriffsverwirrung bezüglich des Ausdrucks "Vollständigkeit", der auch in
+der Literatur nicht überall klar unterschieden wird, was mir einige meiner
+früheren Verwirrungen, die ich mit dem Gödelschen Satz hatte, erklärt. nach
+dem diese Verwirrungen beseitigt sind, habe ich wieder Platz für neue! ;-)
+
+Also, vielen Dank an alle Diskussionsteilnehmer, aber insbesondere an Lisa!
+
+MfG
+	Achim
+--
+Achim Imgrund                            yfzqlxio@knkgsriwfr.eng-pfplega.rz
+Bertramstraße{\"obersteinergasse}Hessenlauweg{\ma}jaegerstraße 15 
+53604 Immenhofen
+Tel: (++46)(++89)10682-965
+WWW: http://kyu.gapfgywter.xcb-esgkvqd.bo/Mqoivlcnkalmnle/RMK/ireqyryky/xtquldjbr/mtnr.tujy

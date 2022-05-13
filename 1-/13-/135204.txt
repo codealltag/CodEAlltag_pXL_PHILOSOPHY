@@ -1,0 +1,14 @@
+Nochmal, in meinem Beispiel 
+
+x = sum_{i=1}^oo 10^(-i(i+1)/2) 
+
+sind alle Stellen der Zahl wohldefiniert. Und
+
+2x = sum_{i=1}^oo 2*10^(-i(i+1)/2) 
+
+ist voellig exakt.  In allen Stellen.  Und dies obwohl x irrational
+ist.
+
+Paolo
+-- 
+L. Neukirchinger,  <ygjk@zsdd-hsvycvyjs.mom>, http://opkj-ptsrasppd.osr

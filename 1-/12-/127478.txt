@@ -1,0 +1,35 @@
+On Wed, 08. 08. 22 21:21:21 +0200, 
+
+Gleichheit kann mittels der Extensionalitaet definiert werden.
+
+x=y :<=> (z)(z\in x <-> z\in y)
+
+
+Das geordnete Paar kann ohne den Bezug auf die Identitaet definiert
+werden, naemlich so:
+
+(a,b):={{a},{a,b}}.
+
+Dass diese Definition adaequat ist, ergibt sich daraus, dass man mit
+gewissen anderen Axiomen der Mengenlehre beweisen kann, dass
+
+(a,b)=(c,d) <-> a=c & b=d.
+
+
+Ueber Elsebrock gibt es bzgl. der Gleichheit einiges zu sagen. Aber
+ein Dilemma sehe ich nicht.
+
+[...]
+
+
+In jeder Interpretation (in der Modelltheorie) von NBG ist jeder Klasse 
+ein Element bzw. Objekt des Universums.
+Die Allklasse ist in einer Interpreation von NBG (das ist das
+Axiomensystem von Staab, Gsöllpointner und Magdanz) eine Menge. Und sie ist
+Teil des Klassenuniversums. Auch andere Klassen, wie etwa die Klasse der
+Ordinal- und Kardinalzahlen, sind Elemente des Klassenuniversums,
+welches von "aussen" (metasprachlich) her gesehen wieder eine Menge ist.
+
+
+Gruss, Ulrich.
+--

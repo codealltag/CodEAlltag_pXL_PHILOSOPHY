@@ -1,0 +1,40 @@
+Um genau zu sein, sagt die Chaostheorie nichts anderes. *Wenn* man
+berechnen könnte, *dann* ... Die Chaostheorie bestreitet das
+Antezedenz, also daß man genau berechnen könnte.
+
+Beim deterministischen Chaos handelt es sich genau um diesen Ansatz:
+Man geht von einer (im Prinzip) vollständigen funktionalen
+Beschreibung F des Systems aus. Winzige Abweichung der Eingangswerte
+von F führen zu großen Abweichungen der Ausgangswerte. Kurz: F ist
+nicht stetig.
+
+Hinzu kommen Einschränkungen bezüglich der Komplexität (im Sinne der
+theoretischen Informatik, nur dort ist die Komplexitätstheorie
+wohldefiniert): F läßt sich womöglich nur nähern, was weitere
+Einschränkungen der Vorhersagemöglichkeit bringt.
+
+
+Wie gesagt, selbst Berechenbarkeit würde nichts nutzen, weil selbst
+Abweichungen unterhalb der Meßgenauigkeit zu großen Änderungen des
+Resulats führen können. Die Wahrscheinlichkeitsaussagen versuchen eine
+Art Stetigkeitsersatz anzubieten, indem sie immerhin Bereiche
+abgrenzen.  
+
+
+Das Problem ist, daß man gar nicht genau angeben kann, was eigentlich
+*echter* Zufall sein soll. Sowenig, wie man sagen kann, was *echter*
+Determinismus ist. Zwar kann man sagen, daß bestimmte (Natur-) Gesetze
+deterministischen oder stochastischen Charakter haben, ob damit aber
+das beschriebene System eben diesen Charakter ebenfalls hat, bleibt
+unklar.
+
+Vermutlich sind alle *absoluten* Begriffe von Zufall und
+Determinismus, sowieso unbrauchbar, ob aber epistemische Konzepte
+ausreichen ist eine praktische Frage.
+
+MfG
+Lukas
+-- 
+Lukas Isaacsohn
+        keep things simple. as simple as possible, but no simpler
+	        (P.Ehrlinspiel)

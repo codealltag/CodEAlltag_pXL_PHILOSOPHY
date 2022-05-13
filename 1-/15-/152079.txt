@@ -1,0 +1,34 @@
+Ist auch hier Definitionsfrage.
+Es gibt Zahlenfolgen, die sich nicht durch einen Algorithmus berechnen
+lassen, z.B. die Folge der Primzahlen.
+Wenn ich also immanent die Zahlenfolge durchzähle, dann sind die
+Primzahlen unberechenbar (=zufällig) eingestreut. Auf der
+nächsthöheren (Meta)-Ebene sind sie nicht zufällig, denn sie müssen
+dort sein, wo sie sind. Das merkt man z.B. wenn man die Ziffernfolge
+der zahl PI zwischen der 1521. und der 1530. Stelle nimmt. Niemand
+wird mit angemessenem Aufwand die 1531. Ziffer berechenen können.
+Damit meine ich, daß er wissen müßte, daß es sich um eine Zahlenfolge
+der Zahl PI (und nicht um eine aus Wurzel 2 oder Wurzel 3 o.�.)
+handelt, dann müßte er diese so lange berechnen, bis er die Identität
+der errechneten Ziffern mit den vorgelegten Ziffern findet. Wenn die
+gleiche Ziffernfolge schon vorher vorkommt, aber die 1531. abweicht,
+ist er schon aufgeschmissen. Ohne diese Zusatzinformationen kann er
+aus den vorgelegten Ziffern nicht auf die nächste schließen. Die muß
+als zufällig erscheinen.
+Nun kann man natürlich sagen, daß 1531. Ziffer "in Wirklichkeit" nicht
+zufällig ist. Aber da frage ich nach dem Unterschied, dem Sinn einer
+solchen Aussage.
+Denn der Begriff "Zufall" ist eine menschliche Wertung. Ob es ihn in
+der Realität gibt, ist unbekannt (gilt auch für Quanteneffekte; für
+diese gilt nur, daß sie in der meßbaren Wirklichkeit objektiv zufällig
+sind. Aber ob die meßbare Wirklichkeit die gesamte Wirklichkeit ist,
+wissen wir nicht. Dazu müßte bewiesen werden, daß das Erfahrbare und
+das Seiende identisch sind. Und dies ist prinzipiell unmöglich).
+Wenn es aber unmöglich ist, ohne Zusatzinformationen in endlicher Zeit
+aus einer gegebenen Ziffernfolge die nächste Ziffer zu bestimmen (was
+schon dann der Fall ist, wenn die Ziffernfolge mit unterschiedlicher
+Folgeziffer mehrfach vorkommt), dann hat es keinen Sinn, diese
+Folgeziffer noch vom Zufall zu unterscheiden.
+
+Wie gesagt: Definitionsfrage!
+Gruss Ulf

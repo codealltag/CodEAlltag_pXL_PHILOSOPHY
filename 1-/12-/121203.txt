@@ -1,0 +1,23 @@
+Hallo Dietrich,
+
+
+Natürlich macht es Sinn.
+Der Beweis ist auch ganz einfach: Man multipliziere alle Primzahlen, die
+man kennt und addiere 1 dazu. Das Ergebnis ist eine ungerade Zahl, die
+durch keine bekannte Primzahl teilbar ist, denn Division ergibt stets den
+Rest 1. Also ist diese Zahl selber prim oder enthält nur neue, bisher 
+unbekannte Primfaktoren. 
+
+Keinesfalls. Es ist zwar möglich, zu sagen, dass es unendlich viele gibt,
+es ist auch möglich, sicher zu bestimmen, ob eine unbekannte Zahl prim ist,
+aber man kann aus den bekannten Primzahlen keine neue bilden (ausser durch
+Probieren). Ihre Verteilung ist im grossen vorhersagbar und im Detail 
+vollkommen unregelmässig.
+
+D.h. sie sind nur statistisch vorhersagbar, genau wie die Realität und
+Zukunft oder das Wetter.
+Und das finde ich hochinteressant.
+
+Grösse,
+
+Orlando

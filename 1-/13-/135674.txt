@@ -1,0 +1,179 @@
+Hallo Wolfram,
+
+[...]
+
+
+Nur zu, mach Schweizer Käse aus mir. ;-)
+
+
+[...]
+
+
+Das würde ich auch meinen. ;-)
+
+
+Dich kann geholfen werden! ;-) Du willst auf den Unterschied zwischen
+referierenden und nicht-referierenden Objekten hinaus.
+
+
+"to go to school" - "zur Schule gehen" referiert nicht auf eine
+bestimmte oder beliebige Schule. Sonst hieße es: "He went to _a_
+school" - "Er ging zu _einer_ Schule." Es liegt also nicht am
+Unterschied zw. definitem und indefinitem Artikel.
+
+Hier gibt es übrigens zwei abstrakte Verwendungen:
+
+a.) Jens goes to school - Jens geht in die Schule. -> Jens ist
+Schüler.
+b.) Jens is going to school - Jens geht gerade in die Schule. ->
+Jens geht zum Schulunterricht.
+
+a.) und b.) sind beide Lexikalisierungen, d.h. komplexe Wörter, deren
+Bedeutung nicht rein kompositionell ermittelt werden kann. Ihre
+Bedeutung ist konventionalisiert und nicht nur ein Produkt ihrer
+Teilausdrücke. (Obwohl es da ebf. Regularitäten gibt: "zur Post
+gehen", "auf die Uni" gehen etc. - Aber "in den Buchladen" gehen hat
+diese abstrakte Bedeutung nicht.
+
+
+Du kannst die Ambiguität im Dt. umgehen, indem du das Objekt von
+"rechtfertigen" einfach in den Plural setzst:
+
+'x kann Sätze rechtfertigen'
+
+Damit wird klar, dass es sich nicht um _bestimmte_ Sätze handelt, die
+x rechtfertigen kann, sondern dass er die Fähigkeit des
+"Sätze-Rechtfertigens" hat.
+
+Mit anderen Worten: "Sätze" hat in diesem Falle keine Referenz,
+sondern erweitert nur das Prädikat "rechtfertigen" um ein
+weiteres Merkmal. Du hast ja schon ein Analogbeispiele gegeben: "x
+kann Auto fahren." Beispiele mit Plural wären:
+
+'x wäscht Wäsche'
+'x it Äpfel'
+
+
+Du hast übrigens noch vergessen:
+
+'x kann /mindestens/ einen Satz rechtfertigen', nämlich mit
+Existenzquantor (Ex), d.h. "Es gibt mindestens ein x, für das gilt:"
+
+Dein 1) wird mit einer Implikation formalisiert:
+
+"'x ist ein Satz' & 'Wenn x, dann kann p x rechtfertigen'"
+
+2) "Für alle Sätze x gilt: x kann p rechtfertigen.
+
+Und 3)?
+
+Das nun ist allerdings schwierig.
+
+Intuitiv würde man sagen, dass 3) ein komplexes Prädikat ist:
+
+'x kann s�tzerechtfertigen' (analog zu 'x kann staubsaugen')
+
+In einer intensionalen Logik (etwa der Klaasen-Semantik) könnte auch
+"Sätze" mit einem Intensor versehen werden. (Leider bin ich nicht
+geübt genug, um das durchführen zu können.)
+
+Trotzdem haben wir ein Problem:
+
+"x kann Sätze rechtfertigen" bedeutet nicht das Gleiche wie
+"x kann mindestens einen Satz rechtfertigen", aber auch nicht wie "x
+kann alle Sätze rechtfertigen".
+
+Der Existenzqantor ist offenbar zu schwach. Wir wollen ja nicht sagen,
+dass es Sätze gibt, die x rechtfertigen kann, sondern dass er die
+Fähigkeit besitzt, Sätze zu rechtfertigen. --> "Wenn etwas ein Satz
+ist, dann kann x diesen Satz rechtfertigen."
+
+Aber der Allquantor wäre zu stark. Wir wollten ja auch nicht sagen:
+
+"Für alle Sätze p gilt: Wenn etwas p, dann x p rechtfertigen."
+
+Wir kommen also mit einer extensionalen Definition von "Sätze" nicht
+zurecht; wir beziehen uns auf die _intensionale_ Bedeutung von Sätzen,
+d.h. auf die semantischen Merkmale, die wir "Sätzen" zuschreiben. Das
+könnte man zwar mit einer Montague-Semantik noch formalisieren. Aber
+insofern Intensionen auch nach Klaasen je nach Weltmodell (möglicher
+Welt) festen Extensionen zugeordnet werden können, bleibt unser
+Problem bestehen.
+
+Dann hieße es nämlich: "Für _alle_ Sätze p in einer Welt W gilt: x
+kann p rechtfertigen."
+
+Der einzige Ausweg ist hier Diekgräf Stereotypen-Theorie. Es gibt
+nämlich einen Unterschied zwischen der Klasse aller möglichen Denotate
+eines Begriffs und zwischen den typischen Denotaten dieses Begriffs.
+
+Beispiel: "Hunde haben einen Schwanz." Aber was, wenn Gunter den Schwanz
+abgeschnitten bekommen hat? Ist er dann kein Hund mehr? ;-)
+
+Die Interpretation mit dem Allquantor - "_alle_ Hunde haben einen
+Schwanz" haut also nicht hin. Aber ebensowenig der Existenzquantor:
+"Mindestens ein Hund hat einen Schwanz". Wir wollten ja keine Aussage
+über eine Teilklasse von Hunden machen, etwa wie in: "Einige Hunde
+wiegen weniger als 20 Kilo.", sondern über "Hunde" - und zwar nicht
+über alle "Hunde", sondern über die wesentlichen Eigenschaften von
+"Hunden". Wir wollten eine Aussage über den _Begriff_ "Hund" treffen,
+aber nicht über einen, einige oder alle Hunde.
+
+So ist es auch mit "Sätze rechtfertigen" - wir wollen wissen, welche
+Fähigkeiten jemand besitzt, der Sätze rechtfertigen kann.
+
+"x kann Auto fahren" und "x kann Sätze rechtfertigen" heißt also
+nicht:
+
+a.) "x kann mindestens ein Auto fahren / mindestens einen Satz
+rechtfertigen.
+b.) "x kann alle Autos fahren / alle Sätze rechtfertigen.
+
+Sondern:
+
+c.) "x kann alle _typischen_ Autos fahren / alle _typischen_ Sätze
+rechtfertigen.
+
+Oder auch:
+
+d.) "x weiß, _wie_ man Auto führt / _wie_ man Sätze rechtfertigt."
+
+Was ein "typischer Satz" ist, läßt sich mengentheoretisch/extensional
+aber kaum definieren. Wieviele und welche Merkmale eines "idealen
+Satzes" muß ein Satz haben, damit wir ihn "typisch" nennen können?
+
+Vgl. auch:
+
+"Marlène mag Hunde." - Mag Marlène wirklich _alle_ Hunde? Also auch
+Kampfterrier? Was für jemanden ein "typischer Hund" ist, variiert. Für
+uns Deutsche gehören sicher Schäferhunde und Dackel dazu. In anderen
+Weltregionen könnten diese schon weniger naheam Idealtyp liegen. Für
+einen hundeliebenden Teen mag aber das Kriterium "lieb" entscheidend
+sein - ein typischer Hund wäre für sie ein "lieber Hund".
+
+Wir haben es hier mit der semantischen Randunschärfe von Begriffen zu
+tun. Wahrheitskonditionale Theorien kommen damit äußerst schwer zu
+recht. Ich weiss nicht, ob die "fuzzy logic" dieses Problem
+wahrheitskonditional auflösen kann.
+
+Die Extension von Begriffen steht ja alles andere als fest. Ein
+Zoologe klassifiziert anders als ein Alltagssprecher, siehe das
+bekannte Beispiel mit dem "Walfisch" - für uns Nichtbiologen ist all
+das ein Fisch, was schwimmt und Flossen hat. Wir könnten natürlich dem
+Zoologen das Privileg zugestehen, dass er die letzte Autorität in
+Sachen "Bedeutung" ist - das also die Wissenschaft das letzte Wort
+hat, welches Exemplar unter einen Artbegriff fällt und welches nicht.
+Aber bei "nichtnatürlichen Gattungsnamen" - etwa Tisch, Tasse, Satz -
+fehlt dieses Kriterium.
+
+Begriffsgrenzen müssen zwischen Sprechern immer neu ausgehandelt
+werden; wie gehen wir z.B. mit nichttypischen Exemplaren um, solche
+die in eine Begriffslücke stoßen? Dann sagen wir etwa "so eine Art
+Stuhl", "ein Mittelding zwischen Tisch und Hocker", "für mich ist das
+noch ein Stuhl" oder "für mich ist das kein richtiger Stuhl mehr" u.
+dgl.
+
+Hoffe, dich geholfen zu haben! ;-)
+
+Größe,
+Eckhard

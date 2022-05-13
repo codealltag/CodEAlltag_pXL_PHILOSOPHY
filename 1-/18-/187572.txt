@@ -1,0 +1,56 @@
+Hallo Benedikt,
+also Nichtwissen 
+
+
+Die Antwort ist einfach, wenn  es einen gäbe, könnte man auch einen
+Algoritmus B entwerfen, der den Kriterien des Testalgorithmus genügt
+:-)
+
+
+Mit der Definition von chaotisch bin ich nicht vertraut genug, aber
+vermutlich hast Du recht.
+Allerdings, der Rechner verhält sich keinesfalls zufällig. Die
+Zustände die der Rechner annimmt kann, wechseln in diskreteten
+Schritten und der jeweils nächste Schritt ist eindeutig durch den
+vorangegangenen bestimmt.
+
+
+Gerade das wäre vermutlich weniger erfolgversprechend als sein
+funktionelles Verhalten zu untersuchen.
+Ich sehe keine besonderen Schwierigkeiten darin, die Funktion eines
+Prozessors den man nur als Black Box betrachtet zu analysieren. Der
+Befehlsumfang eines Prozessors ist eigentlich ziemlich übersichtlich.
+Die Kompexität kommt weniger aus den Grundoperationen als aus den
+kombinatorischen Möglichkeiten.
+
+Ja, ich denke auch, das der Computer hier nicht viel beiträgt. Rechner
+sind die Umsetzung einer mathematischen Idee und wenn sie nicht kaputt
+sind, also die Idee verwirklichen, verhalten sie sich natürlich so
+ideal wie die Mathematik, auf der sie gründen.
+
+
+Wahrscheinlich hilft der Versuch sich da was vorzustellen nicht viel
+weiter. Es scheint doch so zu sein: wenn man die Natur (das Atom)
+beobachtet, stellt man fest, das bestimmte Phänomene auftreten, für
+die man lediglich Wahrscheinlichkeiten angeben kann, für eine
+Einzelmessung kann man das Ergebnis, A oder B, also als zufällig
+bezeichnen. Vieleicht gibt es noch unbekannte tieferliegende Regeln,
+die erklären können warum A oder B, dann wäre das Ergebnis kein
+Zufall. 
+Aber anscheinend gibt es z. Zt. keine Experimente die die Existenz
+solcher weiterer Regeln sichtbar machen, also kann man nicht sagen.
+Zu fordern, es muß diese Regeln geben, weil man sich  was anderes
+nicht vorstellen kann, wäre Metaphysik.
+
+??
+
+;-) Zu Deiner offensichtlich gut sortierten Bibliothek gehört doch
+bestimmt ein Brockhaus oder so was. Könntest Du mal schauen, ob man
+zumindest die Frage, ob für Deteminiertheit schon die Möglichkeit von
+statistischen Vorhersagen ausreicht, beantworten kann.
+Die Frage zieht sich ja schon durch den ganzen Thread.
+
+Gruß
+Valentino
+-- 
+mailto:MM.Mvreqy@i-wutngr.bb

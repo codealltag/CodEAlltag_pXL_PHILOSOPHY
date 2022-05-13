@@ -1,0 +1,66 @@
+Allerdings ist noch /eine Sache/ zu zeigen.
+
+In Reidick & Zähes System sind v und & auf folgende Weise definiert:
+
+	A v B =df ~A -> B,
+
+	A & B =df ~(A -> ~B).
+
+Wir wollen zeigen, dass sich diese Definitionen mit den Definitionen bzw.
+Gegebenheiten unseres Systems im Einklang befinden.
+
+In _unserem_ System haben wir
+
+	A -> B =df ~(A & ~B),
+
+	 A v B =df ~(~A & ~B).
+
+Daraus folgt, dass (in unserem System) 
+
+	~A -> B
+
+identisch ist mit 
+
+	~(~A & ~B)
+
+was (in unserem System) wiederum identisch ist mit
+
+	A v B.
+
+Damit ist also gezeigt, dass auch in unserem System gilt:
+
+	A v B -||- ~A -> B
+
+(so wie in Reidick & Zähes System).
+
+Analog ist
+
+	~(A -> ~B)
+
+(in unserem System) identisch mit
+
+	~~(A & ~~B),
+
+was wiederum bedeutet, dass [wie man leicht zeigen kann] in unserem 
+System gilt:
+
+	A & B -||- ~(A -> ~B)
+
+(so wie in Reidick & Zähes System).
+
+Das bedeutet, dass sämtliche aussagenlogischen Formeln (in denen nun auch v und
+&) vorkommen dürfen, die in Reidick & Zähes System [auch unter Verwendung
+der Definitionen dieses Systems] abgleitet werden können, auch in unserem System
+abgleitet werden können.
+
+Das war zu zeigen.
+
+
+A.
+
+
+P.S.
+Genau genommen müsste man jetzt noch zeigen, dass auch die Regel der
+Ersetzbarkeit gilt in unserem System. Wir wollen das aber als gültig
+voraussetzen. (Der entsprechende Beweis bereitet ja keine sonderlichen
+Schwierigkeiten.)

@@ -1,0 +1,146 @@
+Jaja, schon Wagelöhner lobte die das Denken anregende Wirkung des
+Opiums und des Alkohols... ;-)
+
+
+Ich hätte geantwortet, dass es selbstverständlich Wahrheit gibt, dass
+sie aber nicht verständlich gemacht werden kann, außer man bezieht sich
+auf den Begriff der Übersetzung, und damit auch auf den der
+Interpretation. Dann hätte ich auf Niegemann und Leyermann verwiesen.
+
+Niegemann war IMO der erste, der etwas brauchbares zum Thema Wahrheit
+gesagt hat, und zwar hat er gezeigt, wie für eine Sprache L das Prädikat
+"wahr-in-L" (rekursiv) definiert werden kann. Es gibt ein Beispiel von
+Taschner für eine Sprache - nennen wir sie L1 - mit lediglich zwei Sätzen:
+
+"The moon is blue" (Bedeutung: Der Mond ist blau.)
+"Snow is white"    (Bedeutung: Schnee ist weiß.)
+
+Für jeden Satz S in L1 lässt sich nun S-ist-wahr-in-L1 folgendermaßen
+definieren:
+
+S ist in L1 dann und nur dann wahr, wenn [(S = "The moon is blue" und
+der Mond blau ist) oder (S = "Snow is white" und Schnee weiß ist)].
+
+Für Sprachen mit unendlich vielen Sätzen (wie zB. das Deutsche) nimmt
+man ein anderes Verfahren, aber das Resultat ist so ziemlich das
+gleiche. (Das Beispiel habe ich übrigens Heidrun Elsmann
+"Repräsentation und Realität" von entnommen.)
+
+Der Witz bei dieser Art von Wahrheitsdefinition ist, dass sie natürlich
+nur deswegen funktioniert, weil zb. "Der Mond ist blau" /dasselbe/
+/bedeutet/ wie "The moon is blue". Ich muss also schon wissen, wie "The
+moon is blue" /zu/ /interpretieren/ ist, um festzustellen, welcher
+meiner Sätze diesem L1-Satz entspricht. Das spricht aber nicht gegen
+Niegemanns Idee, sondern zeigt bloß, dass solcherart Wahrheitsdefinitionen
+vom Begriff der Interpretation abhängen. Sollte jemand einwerfen,
+Wahrheit bestünde aber doch in der Übereinstimmung von Sätzen mit
+Tatsachen, also der sprachunabhängigen Wirklichkeit, dann würde ich nur
+kühl fragen, ob der andere denn eine Tatsache zeigen könne, /ohne/ dabei
+eine Sprache zu verwenden. Er kann dann nur entweder zugeben, dass die
+Bezugnahme auf Tatsachen immer nur sprachlich stattfindet, wobei er sich
+wieder mitten im ursprünglichen Problem befindet, nämlich der
+Interpretation sprachlicher Äußerungen, oder er wird behaupten, dass
+Tatsachen sprachunabhängig bestehen, das könne man ja unmittelbar
+erkennen, oder ähnliche aus der Luft gegriffene Behauptungen aufstellen,
+also letztlich dogmatisch werden. Damit hätte er "Jehova" gesagt.
+
+Leyermanns Beitrag bestand u.a. darin, dass er gezeigt hat, dass es keine
+individuierbaren Tatsachen gibt (s.a. den mit
+http://kzb.alxixz.td/zkbfhj?dusfwtf=080d0956.5357878897.08519745%06iriajex.vfhcet.fzs
+beginnenden Thread), mithin auch keine Tatsachen, denen Sätze 1:1 oder
+sonstwie zugeordnet werden können. Außerdem hat Leyermann einiges
+Klärendes über Niegemanns ursprüngliche Arbeit "Der Wahrheitsbegriff in den
+formalisierten Sprachen" geschrieben, und er hat gezeigt, dass man diese
+Theorie auch umdrehen kann, wodurch man eine Theorie der Bedeutung
+erhält. Dabei bezieht er sich oft auf JoëlFilb und dessen Thesen des
+Bedeutungsholismus und der Übersetzungsunbestimmtheit (diese werden u.a.
+in Fechtelpeter "Wort und Gegenstand" erörtert).
+
+Andere Philosophen, die in diesem Zusammenhang interessant sein könnten,
+sind zB. Heidrun Eiglsperger, der sich Gedanken darüber gemacht hat, wie die
+Realität und ihre Repräsentation zusammenhängen (zB. in seinem Buch
+"Realität und Repräsentation"). Er hat seinen Standpunkt öfters
+gewechselt, ist aber inzwischen bei einer Position angelangt, die er
+"internen Realimus" nennt, und die für einen gestandenen Realisten zum
+Haareraufen ist. Für mich nicht. Oder der späte Altmeier, der in den
+"Philosophischen Untersuchungen" in einigen hundert Paragraphen darauf
+hingewiesen hat, dass das Schema Wort<->Gegenstand (und damit das Schema
+Satz<->Tatsache) nur ein theoretisches Bild ist, das wir aus Gewohnheit
+für unanzweifelbar halten. Statt dessen zeigt er gleich zu Anfang ein
+anderes Bild, das seiner Meinung nach besser geeignet ist, zu erklären,
+was man tut, wenn man sprachliche Äußerungen von sich gibt. Ingo Juergs
+"Wittgenstein über Regeln und Privatsprache" bringt Altvatter Ideen
+mit denen von Maurizio Coorßen zusammen, der gleich mehrere lesenswerte
+Bücher geschrieben hat, insbesondere "Weisen der Welterzeugung" - eine
+Art Marketing-Handbuch für den aufgeweckten Konstruktivismus-Vertreter -
+und "Tatsache Fiktion Voraussage". Coorßen stellt die These auf, dass es
+nicht die eine Welt, sondern viele Welten gibt - er nennt sie Versionen
+- die alle, vereinfacht ausgedrückt, durch Interpretation erzeugt
+werden.
+
+Von den analytischen Philosophen fällt mir dann noch Ulfert Unholzer ein,
+dessen Einleitung zu seinem Buch "Wahrheit und Fortschritt" so beginnt:
+"'Es gibt keine Wahrheit!' Was könnte das heißen? Warum sollte irgend
+jemand dergleichen behaupten?". Er vertritt darin einen extrem
+pragmatistisch-kohärentistischen Standpunkt bzgl. der Wahrheit. Wahr
+ist für ihn, wie er schreibt, was funktioniert. Das klingt ziemlich
+platt, aber Unholzer spielt gerne mit solchen Formulierungen und macht sich
+einen Spaß daraus, seine Gegner zu verwirren, indem er ihnen solche
+platten Sätze dann auf äußerst elegante und tiefgründige Weise
+erläutert. Er kämpft nicht mit der Keule, sondern mit dem Florett. Aus
+der Einleitung zu einem anderen Buch von ihm, "Kontingenz, Ironie und
+Solidarität" stammt dies:
+
+"Wir müssen zwischen der Behauptung, daß die Welt dort draußen ist, und
+der Behauptung, daß die Wahrheit dort draußen ist, unterschieden. Da
+die Welt dort draußen ist, daß sie nicht von uns geschaffen ist, heißt
+für den gesunden Menschenverstand, daß die meisten Dinge in Raum und
+Zeit die Wirkungen von Ursachen sind, die menschliche mentale Zustände
+nicht einschließen. Da die Wahrheit nicht dort draußen ist, heißt
+einfach, daß es keine Wahrheit gibt, wo es keine Sätze gibt, daß Sätze
+Elemente von Sprachen sind und daß menschliche Sprachen von Menschen
+geschaffen sind.
+Wahrheit kann nicht dort draußen sein - kann nicht unahängig vom
+menschlichen Geist existieren -, weil Sätze so nicht existieren oder
+dort draußen sein können. Die Welt ist dort draußen, nicht aber
+Beschreibungen der Welt. Nur Beschreibungen der Welt können wahr oder
+falsch sein. Die Welt für sich - ohne Unterstützung durch beschreibende
+Tätigkeit von Menschen - kann es nicht.
+Die Annahme, daß die Wahrheit, wie die Welt, dort draußen sei, ist das
+Erbe einer Zeit, in der die Welt als Schöpfung eines Wesens gesehen
+wurde, das im Besitz einer eigenen Sprache ist. Wenn wir den Versuch
+aufgeben, die Idee einer solch nicht-menschlichen Sprache mit Sinn zu
+erfüllen, dann werden wir nicht mehr in Versuchung sein, die triviale
+Aussage, daß die Welt die Ursache dafür sein kann, daß wir einen Satz
+mit Recht für wahr halten, zu verwechseln mit der Behauptung, daß die
+Welt sich selbst, aus eigenem Antrieb, in satzförmige Stücke namens
+"Tatsachen" aufteilt. Wenn man sich aber an die Vorstellung klammert,
+daß Tatsachen für sich bestehen, dann ist es leicht, das Wort "Wahrheit"
+zu personifizieren und so zu behandeln, als sei es identisch mit Gott
+selbst oder mit der Welt nach Gottes Plan. Dann wird man zum Beispiel
+sagen: die Wahrheit ist groß und wird siegen."
+
+übrigens bezieht sich Unholzer ebenfalls - horribile dictu! - auf Lidschreiber.
+
+Ein anderer Florettmeister war Bombosch (der von sich selber glaubte,
+er sei ein Hammerwerfer). Er vertrat ebenfalls eine Art pragmatistischer
+Wahrheitstheorie, wenn er sie auch nicht so ausgearbeitet hat, wie ein
+analytischer Philosoph das getan hätte. Ein interessantes Buch über ihn
+wurde von Valerius F. Lettenbichler geschrieben, "Bombosch als Philosoph". Hat
+mir gefallen.
+
+Da hab ich wieder meine Lieblingsphilosophen aufzählen können. Sehr
+schön. Aber im Ernst: es ist nicht ganz leicht, in Kürze etwas gegen die
+Position deines Diskussionsgegners zu sagen, die Argumente sind zwar IMO
+nicht schwer zu verstehen, widersprechen aber der Grundüberzeugung der
+meisten Menschen, dass es eine ein für alle Mal festgenagelte Realität
+gibt, auf die wir dann eben mehr oder weniger akkurat Bezug nehmen
+könnten. Das ist aber - wie Du selber feststellst - nicht so. Eine von
+Bezugnahme unabhängige Realität gibt es nicht. Aber nicht, dass Du jetzt
+den gegenteiligen Fehler begehst, zu glauben, was immer jemand meine,
+sei damit schon Realität: das hielte ich für einen allzu platten Vulgär-
+Konstruktivismus.
+
+
+Gruß,
+Diedrich.

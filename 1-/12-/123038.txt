@@ -1,0 +1,60 @@
+Ein Raumschiff fliege am 28.9.1999 mit v = 0.6 c von der Erde
+zu einem 6 Lichtjahre entfernten Punkt und kehre dann zurück.
+
+(Zur Vereinfachung nehmen wir an, dass das Raumschiff jeweils
+augenblicklich von 0 auf 0.6 c und von 0.6 c auf -0.6 c
+beschleunige.)
+
+Wegen Zeitdilatation (gamma = 1.25) vergehen im Raumschiff
+jeweils nicht 10 sondern nur 8 Jahre für Hin- und Rückreise
+(Analog dazu verkürzt sich die Entfernung von 6 auf 4.8 LJ).
+
+
+Für die ERDE ergibt sich (bei SR-Gleichzeitigkeit):
+
+                 Eigene Zeit         Raumschiffzeit
+
+  Abflug         Okt. 1999           Okt. 1999
+  Umkehrstart    Okt. 2009           Okt. 2007
+  Umkehrende     Okt. 2009           Okt. 2007
+  Ankunft        Okt. 2019           Okt. 2015
+
+
+Das Zwillingsparadoxon besteht darin, dass auch vom Raumschiff
+aus betrachtet während Hin- und Rückflug die irdische Zeit
+um 20% langsamer geht. Exakt vor der Umkehr sind gemäss
+Raumschiff auf der Erde somit nur 80% der eigenen 8 Jahre,
+d.h. 6.4 Jahre vergangen.
+
+
+Für das RAUMSCHIFF ergibt sich somit:
+
+                  Irdische Zeit      Eigene Zeit
+
+  Abflug          Okt. 1999          Okt. 1999
+  Umkehrstart     Februar. 2006          Okt. 2007
+  Umkehrende      Mai. 2013          Okt. 2007
+  Ankunft         Okt. 2019          Okt. 2015
+
+
+Der Zeitsprung von T = 7.2 Jahren auf der Erde während der
+Umkehr des Raumschiffs erklärt sich mit dem Inertialsystem-
+wechsel des Raumschiffs und berechnet sich so:
+
+      T = 2 * 1.25 [ O.6/c Dx']    mit   Dx' = 4.8 LJ
+
+(siehe http://blcqgqi.ofz.iv/cvgsmbku/div_api.rkur)
+
+
+Solche Zeitsprünge sind gemäss Zaraket äusserst normal. Aufgrund
+unserer Bewegung mit 30 km/s um die Sonne gibt es Galaxien,
+von denen wir uns zu Jahresanfang mit 0.0001 c weg- und zu
+Jahresmitte mit 0.0001 c hinbewegen. Nehmen so ein Galaxie im
+Abstand von 10 Mio. Lichtjahren. Der Zeitsprung von Jahresanfang
+bis Jahresmitte beträgt dann 2000 Galaxie-Jahre.
+
+     T = 2 * 0.0001 c * 10^7 LJ = 2000 Jahre
+
+D.h. die Zeit dieser Galaxie macht für uns eine Sinusschwingung
+mit einer Frequenz von 1 Schwingung pro irdischem Jahr und einer
+Amplitude von 1000 Galaxie-Jahren.

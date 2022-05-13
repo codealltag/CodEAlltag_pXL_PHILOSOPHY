@@ -1,0 +1,23 @@
+On Tue, 03. 01. 23 14:15:15 +0200, 
+
+Auf das Gleichheitszeichen kann man durch aus vom mengentheoretischen
+Standpunkt verzichten, und es durch die Elementbeziehung definieren.
+
+
+Dann koenntest du auch sagen, dass Tautologien entbehrlich sind. Wir
+haben es beim Gleichheitszeichen zunaechst 'mal nur mit einem Zeichen zu
+tun. x=y wird dann metasprachlich so interpretiert, dass die Zeichen x
+und y auf denselben Gegenstand abgebildet werden. Wollen wir etwa
+zeigen, dass a=b ist und zeigen wir es dadurch, dass es ein x gibt mit
+a=x und b=x, so ist a=b deshalb wahr, weil die "=" transitiv, also x=x
+ist.
+
+x=x oder alg. Terme s=s sind praemissenlose Anfangssequenzen.
+
+
+Der Ausdruck E muss nicht unterbunden werden, wenn man Mengen von
+Klassen unterscheidet. Nur Mengen koennen Elemente von Klassen sein.
+
+
+Gruss, Jürgen.
+--

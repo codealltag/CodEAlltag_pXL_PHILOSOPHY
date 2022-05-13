@@ -1,0 +1,62 @@
+Ob du nun Objekte, Individiuen oder Gegenstaende sagst; das ist alles
+dasselbe in so einem Universum. Metasprachlich gesehen finde ich aber den
+Term "Individuum" im Hinblick etwa auf virtuelle und reale Objekte hier
+informativer, da in einer Struktur Individuen reale Objekte sind,
+ueber die quantifiziert wird. Ein Universum der Mengen ist aber selbst
+kein Individuum in einem Modell fuer etwa ZF. Aber metasprachlich gesehen 
+kann man wiederrum sagen, dass so ein Modell ja eine Traegermenge als
+Universum hat. Insofern ist es auch ein Objekt der Hintergrundmengenlehre.
+Diesbezueglich waere wieder ein Unterschied zwischen Objekt- und Metaebene
+zu machen.
+
+
+Ich glaube, dass du die Sache von der falschen Seite angehst.
+Es geht um die Sprache in der eine Theorie formuliert wird und den damit
+verbundenen Verpflichtungen. Wenn eine Sprechergemeinschaft eine ernst-
+zunehmende wissenschaftliche Theorie ueber Objekte aufstellt, dann ist
+es einfach absurd, wenn Sprecher dieser Gemeinschaft sagen, dass es 
+solche Objekte nicht gibt.
+
+
+Ok, ich glaube, ich weiss nun, wo dein Problem liegt. Obwohl es eigentlich
+merkwuerdig ist, dass du die Bedeutung der Begriffe "Alle" und "Jede"
+hinterfragst, wenn du doch selbst in verschiedenen Saetzen diese Begriffe
+oefters gebrauchst. Und du weisst ja auch, was "alles" und "jedes" in 
+deinem ausgesprochener Satz
+
+
+bedeuten.
+
+Wenn deine Saetze einen Sinn ergeben sollen, dann musst du wissen, was
+du mit "alles" und "jedes" meinst. Was meinst du hier mit "Alles"? Alles
+Denkbare? Eine Welt der Ideen?
+
+"Alle" und "Es existiert" operieren auf einem Universum. Wenn du schreibst
+"Es gibt einen Apfel, der rot ist", dann wirst 
+du doch die Bedeutung dieser Aussage verstehen, oder? Dann verstehst du aber 
+auch die Negation dieser Aussage, naemlich: "Es gibt keinen Apfel, der rot 
+ist". Und ist das nicht aequivalent zu der Aussage: "Jeder Apfel ist nicht 
+rot"?
+
+Interpretationen sind metatheoretische Objekte, und wenn man fuer Ausdrucks-
+mengen S und einen Ausdruck s definiert:
+
+    S|=s :gdw Jede Interpretation, die Modell von S ist, ist auch Modell
+              fuer s,
+
+dann kann man sich ja ueberlegen wie die Negation aussieht:
+
+    nicht S|=s gdw. Es gibt eine Interpretation, die Modell von S, aber
+                    nicht Modell fuer s ist.
+
+Tatsaechlich macht man hier im Hinblick auf den Umgang mit den Quantoren
+(logische Operatoren) ja nichts anderes als im obigen Apfelbeispiel, nur
+dass sie auf andere Objekte angewendet werden.
+
+Man kommt nicht drum rum: Wenn man in dieser Sprache mit diesen Operatoren
+spricht, dann setzt man die Existenz von Objekten voraus. Andernfalls -
+und das sage ich nun nochmal - muss man eine andere Sprache sprechen.
+
+
+Gruss Luis
+--

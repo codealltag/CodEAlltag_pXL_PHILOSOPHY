@@ -1,0 +1,45 @@
+Hallo Ben,
+
+
+Das Beispiel ist nicht von mir eingeführt worden. Wir müssen es nicht
+weiter verwenden.
+
+
+Da aber nach dem Hinzufügen die resultierende Menge nicht mehr N+ ist,
+spielen die Bildungsregeln für N+ gar keine Rolle.
+
+
+Du wirst mir aber doch nicht widersprechen, dass man einem Trio noch
+einen vierten Musiker hinzufügen kann? (dass es nach dem Hinzufügen kein
+Trio mehr ist, sollte ja klar sein).
+
+
+Die notwendigen Bedingungen für Mengen sind in den Axiomen der
+Mengenlehre fixiert. Für die Mathematik sind sie auch hinreichend -- das
+ist ja der Grund, warum das Imroth System scheitert.
+
+
+Überdeterminiert wäre ein Axiomensystem nur, wenn man eins der Axiome
+aus den anderen herleiten könnte. Das ist aber bei modernen
+Axiomensystemen der Mengenlehre nicht der Fall.
+
+
+Es trifft lediglich eine Aussage zur Vollständigkeit, nicht zur
+Überdeterminiertheit.
+
+
+Das ist kein Sollen, sondern die Äquivalenz von A --> B und ¬B --> ¬A.
+
+
+Eine Folge ist eine Teilmenge eines Kreuzproduktes [...]. Das ist keine
+Behauptung, sondern die Definition von "Folge". Wenn Du "Folge" anders
+definierst, dann gib das bitte an.
+
+Eine Teilmenge ist eine Menge [...]. Auch das ist keine Behauptung,
+sondern eine Definition. Auch hier gilt: Wenn Du "Teilmenge" anders
+definierst, gib das bitte an.
+
+Also ist eine Folge eine [spezielle] Menge. Das ist keine Behauptung,
+sondern Definition des Begriffes "Folge".
+
+Guido

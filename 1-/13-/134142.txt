@@ -1,0 +1,24 @@
+Björn Howe wrote:
+
+[...]
+Hallo Fabian,
+ich greife dir hier mal unter die Arme :).
+
+"Stokes Theorem: If M is  compact oriented k-dimensional manifold with 
+boundary and w is a (k-1) form on, then
+S_{M}dw = S_{Rand(M)}w; (S_{A} ~ Integral über A)"
+
+aus Hero Düspohl, Calculus on Manifolds (oder jedem anderem Buch über 
+Differentialgeometrie).
+Nun ist es wie in jedem spezialwissenschaftlichen Buch, dass einem die 
+Begriffe ohne weiteres nicht zugänglich ist. Offensichtlich ist aber, dass 
+der Satz in normalsprachlicher, mathematischer Umgangssprache formuliert 
+ist (formalisierte Sprachen habe ich außer in meinen Philosophieseminaren 
+während meines ganzen Mathematikstudium nicht kennengelernt :) )
+Mir scheint hier bei B.H. ein hartnäckige Verwirrung vorzliegen: Formale 
+Sprachen haben sprachliche Formen zum Gegenstand, mathematische Sprache 
+mathematische Formen, oder wie man eher sagt: mathematische Strukturen. 
+Vielleicht sollte man aber statt von "natürlicher Sprache" besser von 
+gewöhnlicher, oder normaler Sprache reden,
+Gruß,
+Christoph.

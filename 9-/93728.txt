@@ -1,0 +1,13 @@
+Nicht nur "wohl noch", denn die eigentlichen Definitionen sind die
+folgenden:
+
+[]p =3Ddef ~<>~p
+
+<>p =3Ddef ~[]~p
+
+Zur Vermeidung von Zirkularität sollte ein Operator, üblicherweise
+"[]", als undefinierter eingeführt und der andere mithilfe dessen
+definiert werden.
+
+Gruss
+DARIO

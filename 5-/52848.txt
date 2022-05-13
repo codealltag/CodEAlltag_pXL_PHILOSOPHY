@@ -1,0 +1,35 @@
+Hallo Lennart,
+
+
+... was aber nicht notwendig an der Determiniertheit des Systems
+liegt, sondern an der Unkenntnis der genauen Randbedingungen.
+
+
+... weil wir eben nur alle 20 Kilometer eine Wetterstation haben und
+dazwischen die Werte schützen müssen. Weil Lufttemperaturen in 1 km
+Höhe noch seltener erfasst werden. Weil in das Wetter von übermorgen
+natürlich auch die Handlungen der Menschen von morgen eingehen, die
+u.a. politisch motiviert sind.
+
+Würden wir alle derartigen Faktoren völlig exakt *kennen* (und hätten
+beliebig viel Rechenkapazität für beliebig genaue Rechnungen), wäre
+auch das Wetter sehr genau vorhersagbar. Dummerweise beeinflussen all
+die Luftdruckmesser, die wir dazu in 1mm Abstand (oder noch enger) in
+der gesamten Atmosphäre plazieren müssten, die Vorhersage massiv, und
+es fehlt auch der Platz, daneben noch die Feuchtemesser und
+Thermometer zu montieren.
+
+Das Problem ist hier nicht der fehlende Determinismus der Prozesse,
+sondern die prinzipiell fehlende Möglichkeit der Ermittlung der
+Randbedingungen.
+
+
+Das liegt dann aber eben nicht an der Simulation selbst, sondern an
+den Randbedingungen. 
+Viele Größe
+
+Vito
+
+-- 
+If you think technology can solve your problems you don't understand
+technology and you don't understand your problems.  (Ottmar Vomhoff)

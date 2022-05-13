@@ -1,0 +1,14 @@
+On 31 Mrz 2002 14:19:24 GMT, 
+
+Vielleicht eine kleine Bemerkung zu obiger Schreibweise. Es mag vielleicht
+etwas klarer werden, wenn man das Gleichheitszeichen in "a_i\neq a_j" symbo-
+lisch vom Gleichheitszeichen in "i\neq j" trennt, denn i und j muessen ja
+nicht zu der Sprache gehoeren. So definiert man etwa fuer eine Interpretation
+I:    I|=agb gdw I(a)=I(b), wobei g das Gleichheitszeichen in der Sprache
+sein soll, und "=" ein metasprachliches Zeichen ist.
+
+
+Gruss
+
+Henri.
+--

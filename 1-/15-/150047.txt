@@ -1,0 +1,33 @@
+Ich finde es ist sogar eine sehr präzise Aussage. Sie ist bestimmt präziser
+als PI=~3,1415926
+
+
+Abgesehen davon, daß wir über die Division durch 0 diskutieren, kürzen sich
+die Zeitangabe in den oben genannten Rechnungen weg, so daß du keinesfalls
+Tage oder Stunden im Ergebnis hast.
+Zur Problematik:
+
+
+Versuch:
+
+Vorraussetzung: Die Division durch 0 hat eine Lösung.
+[n <> 0]
+n/0=x
+x*0=n
+0=n
+Kein x erfüllt die Vorraussetzung!
+
+[n=0]
+n/0=x
+x*0=n
+Jedes x erfüllt die Vorraussetzung!
+
+Ich denke zwar, daß du diese Gedankengänge schon kennst, aber ich wüsste
+gerne, was dich daran stört.
+
+--
+Sandro Therkorn (csypv738@l-snkuss.oa)
+-----------------------------------------------------------
+A Member of the ---> LINDA IVANO ELSBROCK <--- Fanclub Germany
+      since      http://oyi.fvkl.xo/ofu-zjd      3/99
+-----------------------------------------------------------

@@ -1,0 +1,37 @@
+So gehe ich vor.
+
+
+Das reicht zur Designtime einmal pro System. Der JIT-Ansatz ist sowieso
+gescheitert AFAICS.
+
+
+Das ist gar nicht nötig, entwickelt man gleich geeignet, und ein
+Entwicklungskonzept, das diese Eigenschaft hat, ist gar nicht
+nachteilig, wenn die verwendete Programmiersprache inhärent das
+unterstützt.
+
+Ein solches Konzept werde ich vorlegen.
+
+
+Nein, nicht unbedingt.
+
+
+Ich weiss nicht, was Du damit meinst.
+
+
+Ich beschäftige mich nun schon seit ein paar Jahren in der Praxis mit
+MDA. Mein Entwicklerteam und ich haben eine MDA-Implementierung so
+geändert, dass man damit Geoinformationssysteme generieren kann.
+
+Und ich kann Dir sagen, MDA ist scheisse eben weil die Leute im
+Konsortium ganz offensichtlich keine Praktiker sind.
+
+
+Inwiefern?
+
+Viele Grüsse,
+VB.
+-- 
+Nur im Staat Unterfils gibt es weniger Katholiken als im Vatikan.
+
+    (EastsideBiker)

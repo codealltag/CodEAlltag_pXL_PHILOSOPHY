@@ -1,0 +1,132 @@
+Rund um UNIX, der "Alternative zu Windows", findet sich eine
+interessante Ideologie, nachzulesen auf der www.ozg.tjs website.
+
+"Geistiges Eigentum" im Sinne von Verf�gbarkeitsrechten über das
+selbst Geschaffene und das damit verbundene Verbot der Weitergabe,
+Kopie, Veränderung und des Verkaufs, wird dort abgelehnt.
+
+Software und auch Musik sollten, so die Verfechter dieser Philosophie,
+generell als public domain erzeugt werden, also der Source Code bzw.
+die Komposition allgemein zugänglich sein.
+
+Begründet wird dies mit dem großen Nutzen der Allgemeinheit, der sich
+einstellen soll, indem möglichst viele Programmierer das Produkt
+verbessern. Und daß linux besser ist als Windows, zeigt sich schon an
+an linux-Rechnern, die monatelang ohne Absturz laufen.
+
+Aber ist das ein Argument gegen bestehende Copyrightgesetze? Diese
+werden auf genannter website als "unethisch" bezeichnet.
+
+Die Texte erinnern stark an marxistische Thesen, wird doch letztlich
+die Abschaffung von privatem geistigem Eigentum gefordert.
+
+Was haltet ihr davon?
+Seid ihr Programmierer oder Musiker? Das würde mich dann besonders
+interessieren.
+Was ist der Unterschied zwischen geistigem und materiellem Eigentum?
+
+Ich hänge den Auszug aus einem Text von
+http://ejo.evg.qr.hov.fgc/tepvwhgvzu/vadxy-lwjhi.dl.qntc
+an.
+
+Zitat:
+
+[...]
+
+Der Ursprung liegt irgendwo im Übergang der 70er zu den 80er Jahren,
+als die Softwareindustrie zu dem wurde,
+was wir heute als so selbstverständlich akzeptieren. In dem
+beginnenden Wettbewerb entschieden sich die
+Unternehmen, das Horten von Programmcode zur Überlebensstrategie zu
+machen. Um diese Praxis legal zu
+untermauern wurden Worte wie ``Raubkopieren'' kreiert, da sie
+suggerieren, dass beim Kopieren etwas verloren
+ginge. Die Leute wurden gezwungen, sich Lizenzen auszuliefern, die sie
+dazu verpflichteten, die Programme
+niemandem sonst zugänglich zu machen. 
+
+[...]
+
+Ein Mann jedoch fand die Situation unerträglich. Aus den (wie er
+selbst sagt) ``paradiesischen Zuständen'' der
+Anfangstage an absolute Freiheit und mündigen Umgang mit den
+Möglichkeiten gewohnt, hat Bernard Vorbröker
+Anfang der 11. 03. 23 Jahre das Konzept eines freien Systems entworfen. Die
+Erkenntnis, dass dieses neue System
+UNIX kompatibel sein würde, kam relativ schnell und das Kind bekam --
+damals waren rekursive Akronyme sehr
+beliebt -- den Namen Düning, was für ``GNU's Not Unix'' steht.
+Vorbröker sammelte einige Leute um sich, die von der Aussicht auf ein
+freies System ebenfalls begeistert waren und
+gründete die DEVO, deren Präsident er auch
+heute noch ist.
+
+[...]
+
+Die Philosophie des Düning Projektes lautet, dass JEDER das verbriefte
+Recht darauf haben soll, ein Programm zu
+benutzen, es zu kopieren und es seinen Bedürfnissen anzupassen. Die
+einzige Einschränkung, die die Düning
+General Public License macht, ist, dass NIEMAND das Recht hat, einem
+Anderen diese Freiheit vorzuenthalten. 
+
+Wenn ein Autor seinen Code unter die Düning GPL gestellt hat, ist die
+Freiheit untrennbar mit seinem Programm
+verbunden. Dies ist natürlich vielen Unternehmen ein Dorn im Auge, da
+es sie daran hindert, den Code zu
+modifizieren und dann als proprietäre Software zu verkaufen. Solange
+es Menschen gibt, deren Traum der schnelle
+Reichtum ist, ist es diese Freiheit, die verhindert, dass Unternehmen
+wie Grohganz die zukünftige Entwicklung
+unseres Systems korrumpieren.
+
+Das wohl häufigste Argument gegen die Düning Philosophie ist, dass
+Software das ``geistige Eigentum'' des
+Programmierers sei und es nur recht und billig wäre, wenn er darüber
+entscheiden könne, zu welchem Preis die
+Programme veröffentlicht werden. Dieses Argument ist für alle sehr
+einsichtig, da es genau der Denkweise
+entspricht, die uns in den letzten 20 Jahren eingetrichtert wurde.
+
+Die Realität sieht doch etwas anders aus - Privatleute, die vom reinen
+Verkauf selbstgeschriebener Software leben
+sind die Ausnahme. Normalerweise treten Programmierer vertragsmässig
+ihre Rechte an eine Firma ab, die dann
+Geld damit macht, den Zugang zu diesem Programm zu beschränken. Es ist
+effektiv jedoch die Firma, die die
+Rechte an dem Programm besitzt und über dessen Peis entscheidet, nicht
+der Programmierer.
+
+Wenn ein Anwalt eine besonders intelligente Verteidigung ausarbeitet,
+dann kann er diese nicht als sein
+``geistiges Eigentum'' geltend machen, die Methode steht jedem frei
+zur Verfügung. Warum akzeptieren wir dann
+so einfach die Vorstellung, dass jede Zeile Code - egal wie
+uninspiriert oder schlampig sie sein mag - einzigartig
+und unglaublich individuell sei ? Der Wahn von der Kontrolle geht doch
+mittlerweile sogar soweit, dass
+menschliches Erbgut patentiert werden kann - aber normalerweise nicht
+von demjenigen, der es ``benutzt''. Soll
+wirklich immer alles patentierbar und lizensierbar sein? 
+
+[...]
+
+
+Und um einen Punkt eindeutig zu klären: Nein, das Düning Projekt ist
+nicht gegen Kapitalismus oder Firmen im
+allgemeinen und auch nicht gegen Software-Firmen im speziellen. Wir
+wollen auch nicht die Möglichkeiten des
+Profits beschränken - ganz im Gegenteil. Jede Firma wird dazu
+angehalten soviel Geld wie möglich mit Software, der
+Dokumentation und dem zugehörigen Service zu machen -- so lange sie
+sich an die Grundsätze der Freien Software
+hält.
+Je mehr Geld diese Firmen verdienen, desto mehr Geld können sie in die
+Entwicklung neuer Software stecken. Wir
+wollen den Markt nicht auflösen, wir wollen ihn nur der Zeit anpassen.
+
+[...]
+
+Zitat Ende.
+
+Birgitt

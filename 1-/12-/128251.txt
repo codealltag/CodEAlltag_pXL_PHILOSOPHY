@@ -1,0 +1,105 @@
+Ich habe mir endlich Fredi Hövelmeyers "Facing Facts" von meiner lokalen
+UB ausgeliehen und darin den vollständigen Slingshot-Beweis gefunden,
+der ohne die von mir so vehement kritisierte Kennzeichnung "ix(x=a &
+phi)" auskommt (siehe "Facing Facts", S. 183f):
+
+(Da es nicht möglich ist, griechische Buchstaben darzustellen, werde
+ich "X", "Y" und "Z" als Symbole für Formeln verwenden.)
+
+Schlussregeln:
+
+1) iota-Substitution [io-Sub]:
+
+a) ixX=ixY , Z(ixX) |- Z(ixY)
+
+b) ixX=a , Z(ixX) |- Z(a)
+
+c)  ixX=a , Z(a) |- Z(ixX)
+
+2) iota-Konversion [io-Kon]:
+
+a) iota-Einführung [io-Intro]:   Z(x/a) |- a=ix(x=a&Z(x))
+
+b) iota-Eliminierung [io-Elim]:   a=ix(x=a&Z(x)) |- Z(x/a)
+
+
+Der Gödel-Quine-Slingshot (formuliert von Fredi Hövelmeyer):
+
+(Das Symbol "@" soll für irgendein Satzkonnektiv stehen. Hövelmeyer
+verwendet einen Kreis mit einer 8 darin.)
+
+1                 (01)     Fa     /Prämisse
+2                 (02)     ~(a=b)     /Prämisse
+3                 (03)     Gb     /Prämisse
+1                 (04)     a=ix(x=a&Fx)    /1 io-Kon
+2                 (05)     a=ix[x=a&~(x=b)]     /2 io-Kon
+2                 (06)     b=ix[x=b&~(x=a)]     /2 io-Kon
+3                 (07)     b=ix(x=b&Gx)     /3 io-Kon
+1,2              (08)    ix(x=a&Fx) = ix[x=a&~(x=b)]     /4,5 io-Sub
+2,3              (09)    ix(x=b&Gx) = ix[x=b&~(x=a)]    /6,7 io-Sub
+10               (10)    @(Fa)     /Prämisse
+10               (11)    @[a=ix(x=a&Fx)]     /10 @+io-Kon	
+1,2,10        (12)    @{a=ix[x=a&~(x=b)]}     /8,11 @+io-Sub
+1,2,10        (13)    @[~(a=b)]     /12 @io-Kon
+1,2,10        (14)    @{b=ix[x=b&~(x=a)]}     /13 @io-Kon
+1,2,3,10     (15)    @[b=ix(x=b&Gx)]     /9,14 @+io-Sub
+1,2,3,10     (16)    @(Gb)     /15 @+io-Kon
+
+(Hinter dem "/"-Zeichen steht, woraus etwas hergeleitet wurde!)
+
+
+Die @-Schritte anders dargestellt:
+
+(01)   @(Fa) = @[a=ix(x=a&Fx)]
+(02)   @{[a=ix(x=a&Fx)]} = @{a=ix[x=a&~(x=b)]}
+(03)   @(Fa) = @{a=ix[x=a&~(x=b)]}
+(04)   @{a=ix[x=a&~(x=b)]} = @[~(b=a)]
+(05)   @(Fa) = @[~(b=a)]
+(06)   @[~(b=a)] = @[~(a=b)]
+(07)   @[~(a=b)] = @{b=ix[x=b&~(x=a)]}	
+(08)   @{b=ix[x=b&~(x=a)]} = @[b=ix(x=b&Gx)]	
+(09)   @[b=ix(x=b&Gx)] = @(Gb)
+(10)   @(Gb) = @[~(a=b)]
+(11)   @(Fa) = @(Gb)
+
+Wenn man nun das @-Symbol als "die Tatsache, dass ..." interpretiert,
+lautet der Schluss, dass die Tatsache, dass Fa, mit der Tatsache, dass
+Gb, identisch ist.
+Dies führt zu einem "Faktenkollaps" dahin gehend, dass alle Tatsachen
+miteinander identisch sind, was nichts anderes bedeutet, als dass es
+nur eine einzige Tatsache - die Grosse Tatsache - gibt!
+
+Wer die Prinzipien der iota-Konversion und -Substitution akzeptiert,
+muss zwangsläufig auch die obige Schlussfolgerung akzeptieren, da der
+Beweis deduktiv wasserdicht ist!
+
+Anmerkung:
+
+Die Äquivalenz (dank iota-Konversion)  
+
+~(a=b) <-> b=ix[x=b&~(x=a)]
+
+ist nicht unmittelbar einleuchtend.
+
+Das grundsätzliche Schema sieht ja wie folgt aus:
+
+Fa <-> a=ix(x=a&Fx)
+
+Wenn man nun das Nicht-identisch-sein-mit-a als eine Eigenschaft F von
+b ansieht, dann wird alles klar:
+
+F := (~=a)
+
+(~=a)b <->  b=ix[x=b&(~=a)b]
+
+Dasselbe gilt umgekehrt für die Äquivalenz
+
+~(b=a) <-> a=ix[x=a&~(x=b)]
+
+(~=b)a <-> a=ix[x=a&(~=b)a]
+
+[wobei natürlich auch gilt: ~(a=b) <-> ~(b=a) ]
+
+
+Gruß
+NICK

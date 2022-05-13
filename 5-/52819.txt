@@ -1,0 +1,40 @@
+Nein, das sagt die Mathematik der dynamischen Systeme.
+
+
+Nun, ich rede sowieso nicht über das "was wirklich ist", sondern eben
+über Modelle, die gut funktionieren.
+
+Und die gängigen Wettermodelle sind allesamt dynamische Systeme.
+Letztere sind wiederum mathematisch sehr gut untersucht. Für die
+allermeisten ihrer Zustandskombinationen lässt sich für eine
+Vorhersagefunktion über die Zeit eben keine geschlossene Darstellung
+finden.
+
+Bei den vorliegenden Erkenntnissen denke ich nicht, dass jemand ein
+deterministisches Modell für das Wetter vorlegen kann, das funktioniert.
+
+Das halte ich nach allem, was ich über Wetter weiss, für unmöglich - es
+ist zumindest unmöglich, ein solches Wettermodell zu finden, wenn man die
+bestehende Physik zugrunde legt, weil diese für Wetter nur dynamische
+Systeme zulässt.
+
+Genau wie für Körper im Weltraum.
+
+Für Aufenthaltsorte von Körpern im Weltraum kann man - genau wie beim
+Wetter übrigens - aber Wahrscheinlichkeiten innerhalb der physikalischen
+Modelle angeben.
+
+Bei wenigen Körpern funktioniert das sehr gut, die Wahrscheinlichkeiten
+sind verhältnismässig gross für sehr viele praxisrelevanten Fälle.
+
+Beim Wetter ist es ja so, dass es physikalisch um sehr, sehr viele
+Einzelteile geht. Deshalb macht man Wettervorhersagen üblicherweise
+mittels zellulärer Automaten, die das Wetter annähern. Übringens sind
+aber allgemeine zelluläre Automaten schon nicht deterministisch, da
+fängt das Problem schon an, nicht erst damit, dass man hier bereits
+nähert.
+
+Viele Grüsse,
+VB.
+-- 
+Bitte beachten Sie auch die Rückseite dieses Schreibens!

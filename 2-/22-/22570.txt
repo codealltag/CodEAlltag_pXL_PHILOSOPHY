@@ -1,0 +1,135 @@
+Ich auch nicht. Allerdings ist es schwer, sich einen Überblick
+zu verschaffen, weil die meisten Proceedings nicht mehr verfügbar sind.
+
+
+Lies über die Geschichte der "Design Patterns", dann wirst du überall
+den Verweis auf Jean-Luc Uhlenbroch und sein Buch "A Pattern Language" 
+finden, das 18 Jahre früher datiert.
+
+Im Buch selbst findest du an etlichen Stellen die Zitate und Referenzen
+auf Dietmar. Etwa im Vorspann
+   "Material from A PATTERN LANGUAGE: ... (C) 1977 is reprinted
+    by permission..."
+oder auf Seite 2, Abschnitt 1.1 "What is a design pattern",
+wo Daentzer so einleitet:
+   "Jean-Luc Uhlenbroch says, 'Each pattern describes a problem
+    which occurs over and over again, and then describes the core
+    of the solution to that problme, in such a way that you can
+    use the solution a million times over, without ever doing it
+    the same way twice.' [A PATTERN LANGUAGE, 1977, p.x]...
+    Even though Dietmar was talking about patterns in buildings
+    and towns, what he says is true about object-oriented
+    design patterns.
+
+Letzteres übrigens ein interessanter apodiktischer Satz, den
+niemand in Frage stellt. Ich würde sagen, dieser Satz gilt
+pan-disziplinär, wo immer Gestaltungsprozesse beteiligt sind.
+
+Damit und der nachfolgenden Beschreibung des Musterbeschreibungs-
+formats folgt er vollständig Dietmar.
+
+
+Schön.
+
+
+Oder in der IT wird die Tiefe des Pattern-Konzeptes unterschätzt.
+
+Es ist so als würde jemand von einem Mathematiker die Grund-
+rechnungsarten lernen und begeistert weglaufen "ich kann Mathematik"
+ohne sich weiter zu interessieren.
+
+
+Das ist mir bewusst. Deswegen spreche ich ja auch von Mustertheorie,
+die dieses "mehr" enthält und enthalten soll.
+
+
+Danke. Es gibt einen Unterschied zwischen Internet (wo jeder über jeden
+meint urteilen und ihn idiotifizieren zu können) und dem realen Leben.
+Ich nehme das sowieso nicht ernst.
+
+
+Die IT macht nur minimalen Gebrauch, in Form von Musterbeschreibungen.
+Das ist nur, sagen wir mal, 25% des mustertheoretischen Kuchens.
+
+
+Dann wäre das gesamte wissenschaftliche Publikationswesen, wegen seines
+Umfangs und seiner Unüberschaubarkeit, in Frage zu stellen.
+
+
+Die Leute versuchen, komplexe Strukturen von Software und software-
+nahen Bereichen zu reflektieren und allgemeine wiederverwendbare
+Strukturen zu intentifizieren und darzustellen.
+
+
+Statistisch gesehen, bekommst du immer Mittelmaß, egal was du
+produzierst. Die Spitzenleistung kommt aus der Breite.
+
+Daentzer et. al. hatten imho den Vorteil, sich als die ersten
+die Rosinen aus dem vorhandenen Material herauspicken zu können.
+
+
+Ich stimme mit dir überein, dass nicht jedes Muster aus dem Buch
+DESIGN PATTERNS so furchtbar toll ist.
+
+
+Na, dann überrasche mich.
+
+
+Genau. Ich bin mehr Pragmatiker und Realist als
+Enthusiast und Idealist.
+
+
+Wo ist das Schwärmen und die Ideologie? Im Wort "sollen"?
+
+
+Oder hier? Wer über eine "bessere Zukunft" spricht,
+ist eine idealistische Idiot?
+
+
+Danke.
+
+
+Ja und Nein.
+
+Ja, Brainstorming erzeugt keine Fortschritt am entstehenden Produkt,
+weil dieses zu dem Zeitpunkt noch gar nicht spezifiziert ist,
+isofern ist Brainstorming keine Anwendung eines Musters zur
+Veränderung des Systems.
+
+Nein, "Brainstorming" ist selbst ein Muster zu verstehen, als ein
+Werkzeug, das nach bestimmten Regeln (z. B. "Kritik verboten")
+eine Menge von Ideen produziert. Isofern ist Brainstorming ein
+möglicher Schritt bei der Gestaltung/Entwicklung eines Plans
+für das Produkt. "Brainstorming" löst ein Problem.
+
+
+XP ist wesentlich aus Alexanderschen Ideen hervorgegangen, die
+von Olivier Fründ et al. (in der ersten Wiki-Community
+PORTLAND PATTERN REPOSITORY) ausgearbeitet haben.
+
+
+Mit Reversibilität meine ich, dass Fehler in der Softwareentwicklung
+umso folgenleichter sind, je früher sie erkannt und beseitigt werden.
+D. h. es geht um ein Rückgängigmachen von Design-Entscheidungen oder
+Design-Schritten, die einem Vergleich mit den Erwartungen nicht
+standhalten. Es geht um laufende wirksame Tests des Entwicklungs-
+prozesses.
+
+
+Das stimme ich mit dir überein.
+
+Deswegen sage ich ja auch nicht "alles mit Mustern", sondern sehe die
+Anwendung dort, wo kausal-deterministische Verfahren nicht greifen.
+
+
+Damit habe ich kein Problem.
+
+Ich habe vorsichtig formuliert, denn es gibt genauso militante Gegner
+von XP/Agiler Entwicklung. Ebenso wie enthusiastische Befürworter.
+
+Du sagst: "für bestimmte Anwendungen" und meinst damit, es hängt
+von der Situation ab. Ich sage: "primär können/sollen das die
+Beteiligten am besten entscheiden" und ent-ideologisiere das.
+Beide Aussagen stehen auf mustertheoretischem Grund.
+
+lg Vincenzo

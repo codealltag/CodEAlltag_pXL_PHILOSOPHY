@@ -1,0 +1,8 @@
+Von mir aus komprimiere mal zum Test philosophische Texte mit bzip2,
+und berechne die Ratio von komprimiertem Text/unkomprimiertem Text.
+
+Weißt Du, was Du damit erfährst? Den Informationsgehalt. Je weniger
+sich ein Text komprimieren läßt, umso intelligenter und
+sprachgewandter der Autor.
+
+Gru/3, Ludwig Vonberg

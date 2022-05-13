@@ -1,0 +1,44 @@
+[...]
+
+Nehmen wir aber an, es gäbe nur Steine. In diesem Fall können wir eine
+Sitzgelegenheit als Stein definieren, der eine bestimmte Funktion,
+nämlich zum Sitzen zu dienen, erfüllt. Nehmen wir nun an, dass Steine
+alle Funktionen erfüllen können, für die wir sonst andere
+Gegenstände, Nicht-Steine, postulieren. Dann ist es, aus Gründen
+ontologischer Sparsamkeit, berechtigt, weiterhin nur noch Steine als
+eigenständige Entitäten zu betrachten und alles andere als Steine, die
+diese oder jene Funktion erfüllen. ähnlich sieht mit der Mengenlehre
+aus, in ihr lassen sich alle math. Objekte, seien es Zahlen,
+Funktionen, Polynome, Vektorräume, oder geometrische Objekte wie
+Ebenen, etc., rekonstruieren.
+
+Nehmen wir als Beispiel die Behandlung der Geometrie in
+Zeitschel,Ebbinghausen, Projektive Geometrie.  Die Autoren betrachten
+eine Rang-2-Geometrie (/P/, /G/, I)bestehend aus zwei Typen von
+Objekten, hier Punkten /P/ und Geraden /G/, und einer Inzidenzrelation
+I, die in diesem Fall als "liegt auf" gelesen werden kann. Für eine
+Gerade g definiert man (g):={ P | PIg} (die Menge der Punkte, die auf
+g liegen).  Nun sind die Gerade g und (g), die Menge der Punkte, die
+auf g liegen, *verschiedene* Objekte. Aufgabe 20 in Kap. 1 lautet nun
+
+"20  Sei D=(/P/,/G/,I) ein affiner oder projektiver Raum. Definiere
+die Inzidenzstruktur (D) durch (D):=(/P/, {(g) | g e G}). Zeigen Sie:
+D und (D) sind isomorph. 
+Dies bedeutet: Wer diese Aufgabe richtig gelöst hat, darf in Zukunft
+die Inzidenzrelation eines projektiven oder affinen Raums o.B.d.A. als
+e (die Elementrelation , RH) annehmen."
+
+Selbst wenn wir von Geraden als eigener Sorte von Objekten ausgehen,
+können wir sie durch Mengen von Punkten, die auf ihnen liegen,
+ersetzen. Die sich so ergebene Geometrie ist isomorph (strukturgleich)
+zur ursprünglichen und erfüllt damit dieselbe Rolle innerhalb der
+Goemetrie.
+
+
+Eine ähnliche Diskussion gab es, bei Einführung der Mengenlehre, auch
+innerhalb der Mathematik, und es gibt auch heute noch Leute, die auf
+das Motto "Alles ist Menge." (wobei mit "alles" "alle math. Objekte"
+gemeint ist) leicht allergisch reagieren. 
+
+
+tino

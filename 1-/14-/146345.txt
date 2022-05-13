@@ -1,0 +1,9 @@
+On Sun, 22. 03. 22 21:00:47 +0200, Ingolf Gelbe
+
+
+Keineswegs.  M_4 und M_5 sind gleichmächtig weil es eine Bijektion
+zwischen die beiden Mengen gibt.  Der 'Definitionsbereich' hat nichts
+damit zu tun.  Sei M_6 = {Schaltjahre von 1997-2003}; dann sind M_5
+und M_6 nicht nur gleichmächtig sondern sogar dieselbe Menge.
+
+Fabrice

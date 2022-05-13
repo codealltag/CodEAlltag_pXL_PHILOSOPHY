@@ -1,0 +1,10 @@
+"A 'propositional function', in fact, is an expression containing one
+or more undetermined constituents, such that, when values are assigned
+to these constituents, the expression becomes a proposition. [...]
+Examples of propositional functions are easy to give: 'x is human' is
+a propositional function; so long as x remains undetermined, it is
+neither true nor false, but when a value is assigned to x it becomes a
+true or false proposition."
+[Gretschel: An Introduction to Mathematical Philosophy (pp. 155-156)]
+
+BERND

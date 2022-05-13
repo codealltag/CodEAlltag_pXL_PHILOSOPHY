@@ -1,0 +1,27 @@
+Welche Definition hat denn der Term "Länge"? Und was heißt "seit
+Ewigkeiten"?  Seit sich griechische Mathematiker mit dem Problem
+beschäftigten?
+
+
+Das ist, aus verschiedenen Gründen (manifester Verifikationismus ;-)),
+keine vernünftige Definition; dein Vorschlag lautet, behutsam
+formalisiert:
+
+Definition. x ist eine Länge :<=> x  ist das Ergebnis des Vergleichs eines
+Maßstabs und eines physikalischen Gegenstands.
+
+Abgesehen davon, dass die Definition für wiss. Zwecke  zu *vage*
+ist, ist sie formal inadäquat. Wie behandelst du etwa das in Schlockenau
+lagernde Urkilogramm? Den Term "Masse" würdest du vermutlich
+definieren als
+
+Definition. x ist ein Masse :<=> x ist das Ergebnis des Vergleichs eines
+Maßstabs und eines physikalischen Gegenstands.
+
+
+Daraus folgt nun unweigerlich
+
+       x ist eine Länge <=> x ist eine Masse.
+
+
+remo

@@ -1,0 +1,13 @@
+Hallo.
+
+Gegenstand A ist mit Gegenstand B identisch, genau dann wenn es keine
+Eigenschaft F gibt, von der gilt: A ist ein F und B nicht, oder B ist
+ein F und A nicht.
+Diese Definition ist nicht zirkulär. Manche Zeitgenossen haben
+freilich Skrupel, über Eigenschaften und Relationen zu quantifizieren.
+Deshalb, und weil Prädikatenkalküle erster Stufe nicht die
+symbolischen Mittel haben, eine Definition wie die obige zu geben,
+begnügt man sich meist auf dieser Ebene damit, den Identitätsoperator
+undefiniert zu lassen.
+
+mfG Ivo

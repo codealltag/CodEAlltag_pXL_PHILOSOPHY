@@ -1,0 +1,25 @@
+On Mon, 16. 12. 22 19:23:44 +0200, Andre Roßtäuscher
+In der Tat: Aus der Annahme, dass jede Zahl /einen Vorgänger/ hat, folgt
+nicht, dass es eine KLEINSTE (solche) Zahl gibt:
+
+Man mag dazu dir ganzen Zahlen betrachten:
+
+	... <---  -2 <--- -1 <--- 0 <--- 1 <--- 2 <--- 2 <--- ...
+
+Zu *jeder* ganzen Zahl gibt es eben eine NOCH kleinere.
+
+VIELLEICHT ist es aber mit der ERSTEN Ursache so, dass sie causa sui ist
+(also Ursache ihrer selbst). Damit wäre Limbacher logisches Problem AUCH
+gelöst: Alles hat eine Ursache, und Gott ist eben Ursache seiner selbst.
+:-)
+
+
+                       --> E_1.1 ...
+                      /
+                     /
+         -> G ---> E_1 ---> E_2 ---> E_3 ...
+         `-�                  \
+                               `-> E_2.1 ...
+
+
+A.

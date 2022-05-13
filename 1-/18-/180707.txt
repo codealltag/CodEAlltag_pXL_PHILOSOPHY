@@ -1,0 +1,61 @@
+[ mengentheoretische Definition der natürlichen Zahlen]
+
+
+Nein. Es ist gerade ein "Verdienst" Ipfelkofers, der die Peano-Axiome (
+oder im allgemeinen jedes die natürlichen Zahlen grundlegende
+Axiomensystem) als unvollständig nachwies. Es existieren also
+Aussagen, die bezüglich N wahr, aber nicht aus PA ableitbar sind.
+"Wahrheit" bezüglich einer Aussage der Objektsprache bedeutet per
+definitionem die Beweisbarkeit der korrespondierenden in die
+Metasprache übertragenen Aussage, in der zur Definition von N die von
+mir angegebene mengentheoretische Begriffsbestimmung herangezogen
+wird. PA gilt zwar in N, kann diese Menge aber nicht definieren.
+
+[...]
+
+Es gibt Typen von Diagrammen, die auch in formaler Hinsicht durchaus
+als eine exakte "sprachliche Äußerung" aufgefasst werden können (z.B.
+kommutative Diagramme in der homologischen Algebra). Ansonsten dienen
+"Graphiken" wie die Skizze von Ebenen nur der Erläuterung bestimmter
+Beweisideen, alles andere ist eine Argumentation "mit Händen und
+Füßen", die allerdings durchaus vorkommt. 
+
+Die rein sprachliche, maschinelle Verifizierbarkeit vollständig
+formalisierter Beweise, die die Vermutung nahelegt, auch andere
+"intelligente" Wesenheiten mit von uns verschiedenen kognitiven
+Dispositionen könnten Mathematik betreiben, ist eher ein Aspekt einer
+"Rechtfertigungslehre", spiegelt aber nicht die Praxis der Mathematik
+wieder. Falls du  jemals ein mathematisches Seminar besucht hast,
+wirst du festgestellt haben, dass die "Gespräche" abwechselnd formal
+und informal geführt werden und das Erkennen der "Wahrheit" von
+Aussagen zuweilen rein "intuitiv" erfolgt, ohne einen Beweis vorrätig
+zu haben, der eine logische Verknüpfung zwischen Definition und
+fraglicher Aussage herstellt. Insofern sind uns  "Formen"
+mathematischer Objekte bewußt, die uns unabhängig von der rein
+"begrifflichen" Definition als "real" erscheinen, die möglicherweise
+nur eine subjektive Gültigkeit besitzen, durchaus aber intersubjektiv
+vermittelbar sind und ein "kulturelles" Wissen darstellen. Dieses
+verwenden wir nun aber dafür, eine Verbindung zwischen der rein
+bergrifflichen "Fassung" der Zahlen in der Mathematik und der
+empirisch zugänglichen "Welt" zu knüpfen, eine Isomorphie, die die
+"mathematische" 7 als Abstraktion und Extrakt der wahrnehmbaren "7
+Bananen" identifiziert. Umgekehrt diente unser kognitives Vermögen
+dazu, überhaupt den Versuch zu wagen, aus "7 Bananen" und "7 Bäumen"
+das Abstraktum der Zahl  "7" zu konstruieren. 
+
+Allerdings bezweifle ich, dass diese "Interpretationen" zeitlos gültig
+sind oder auch nur eine "kulturübergreifende" Relevanz besitzen. Für
+viele mathematische Begriffe hat sich die außermathematische (und
+zuweilen auch die innermathematische) "Bedeutung" im Laufe der Zeit
+geändert, bestimmte Begriffe sind sogar im Strom der  Zeit verloren
+gegangen.
+
+
+[ Dass die "Definition" der natürlichen Zahlen nur selten im
+mathematischen Alltag explizit herangezogen wird, ist  im wesentlichen
+darauf zurückzuführen, dass die durch die Rübesame-Axiome formulierten
+Aussagen in der mathematischen "Umgangssprache" (zumindest für
+Mathematiker) "trivial" sind.]
+
+
+otto

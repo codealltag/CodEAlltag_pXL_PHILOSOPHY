@@ -1,0 +1,27 @@
+Das nahm ich daher, dass es in der 1. Aufgabe hieß
+/so, das das ganze überdeckt wird/
+und in der 2. Aufgabe /das gleiche/ aber ohne die
+gegenüberliegenden Eckfelder.
+
+Ich habe also clevererweise mit dem ersten Stein begonnen z. B.
+bei A3/A4 und hätte anweisungsgemäß A1/A2 und G7/G8 frei-
+gelassen, das Problem geht damit auf das Konto einer selbst-
+widersprüchlichen Anweisung.
+
+
+Das wird wohl nicht gehen, schon weil gegenüberliegenden Eckfelder
+die gleiche Farbe haben, aber ein Dominostein immer nur zwei Felder
+mit verschiedenen Farben abdecken kann. Wie sollten also zwei
+gleichfarbige Felder übrigbleiben können (deshalb müsste man eben
+so legen, wie oben beschreieben aber dann bleiben eben vier Felder frei).
+
+
+Ja sicher, dann brauchte man nur ein Mäander legen. Aber die beiden
+übrig bleibenden Felder hätten dann eben auch unterschiedliche Farben.
+
+Sowas behandelt man doch wohl in Kombinatorik, was hat das mit
+Vernunft zu tun?
+
+Größe
+
+Hermann

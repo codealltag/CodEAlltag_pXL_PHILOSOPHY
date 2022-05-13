@@ -1,0 +1,22 @@
+Die radiale Kruskal-Koordinate r(u,v) ~ 2M(u^2-v^2-1)  für r->0,
+u^2-v^2->1 ist metrisch die Wurzel aus der Kugeloberfläche /4pi. Das
+Linienelement in der Nähe der Singularität ist 
+
+ds^2 ~ -dv^2 /(1+v^2) - r^2(u,v) *ds^2(Einheitssphäre)
+
+Die Singularität ist also von einem einschaligen Hyperboloid umgeben,
+dessen Breitenkreise die Länge 0 haben, deren "Radius" aber metrisch
+wie  \int dv/Sqrt(1+v^2) = ArcSinh v wächst.
+
+Also hast du wohl recht. Der Limes ist topologisch-metrisch eine
+zeitartige Halbgerade. Wir können der Singularität eine tickende Uhr
+mitgeben. Das ist eigentlich schön, rettet es doch die Gleichung
+mc^2=\hquer \omega.       
+
+(Rechnungen im Maileditor stehen unter besonderem Vorbehalt der Signatur
+und aller Vorzeichen)
+
+-- 
+Artur Arzt
+
+  +++ exactly <<n>> lines of this message have value <<FALSE>> +++

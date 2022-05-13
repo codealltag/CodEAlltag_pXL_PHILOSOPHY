@@ -1,0 +1,62 @@
+Man schlussfolgert aus der /Aussage/ "Gott richtet..." nicht die
+/Tatsache/ der Existenz Gottes, sondern die /Aussage/ "Gott existiert."
+
+Traude, ich empfehle Dir ernsthaft: Fritz Berndfüchtenschnieder, Grundkurs im
+logischen Schließen. Wäre, wie mir scheint, ganz angebracht.
+
+Huh?!
+	also, therefore, |-
+
+- Diese Wendungen (bzw. dieses Symbol) stehen üblicherweise zwischen den
+Prämissen und der Konklusion eines logischen Schlusses.
+
+Eggerz...
+
+Abkürzungsverzeichnis:
+
+	 g : Gott
+	Rx : x richtet [...].
+
+Schluss (in Autohandelsgesellschaft):
+
+	Rg |- E!g
+
+	"Gott richtet. Also existiert Gott."
+
+Beweis (in Autohandelsgesellschaft):
+
+	1  (1) Rg     A
+	1  (2) E!g    1 rule of denotation
+
+??? Uh???
+
+  ~~~~~~~~~~~
+
+Glglgl...
+
+Aba...
+
+Na egal... Auf jeden Fall kann man mit dem Deduktionstheorem aus
+dem Schluss Rg |- E!g auch sofort auf die Korrektheit des Schlusses
+
+Wir haben somit das von Dir gewünschte
+
+	"Wenn Gott richtet, dann existiert Gott." 
+
+als logisch gültigen Satz erhalten.
+
+Man kann das auch DIREKT beweisen:
+
+	1  (1) Rg     		A
+	1  (2) E!g    		1 rule of denotation
+	   (3) Rg -> E!g	1,2 ->I
+
+Schnorchel... Ist das Heckert'sche-Syndrom jetzt auch schon BEI DIR
+ausgebrochen?
+
+Hoffe nicht!
+
+Hinweis: Man nennt es Fachterminologie.
+
+
+A.

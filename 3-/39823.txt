@@ -1,0 +1,40 @@
+Dann sag mal, was Du unter "Korrelation" verstehst.
+
+
+Ja.
+
+
+???
+
+
+Ja, klar doch. Das statistische Gas war ja auch Dein Beispiel. Es zeigt
+ein kausales Modell ohne (bzw. mit nur geringer) längerfristiger
+Korrelation -- ein chaotisches Modell (kausal, aber die Korrelation von
+Ereignissen nimmt exponentiell im Laufe der Zeit ab). Das Modell,
+welches ich "akausal" nenne, beschreibt aber eine (messbare) Korrelation
+ohne eine kausale Verbindung, also genau die Negation davon. Oder, um es
+mal tabellarisch darzustellen:
+
+Rückführbarkeit
+auf gemeinsame   Korrelation  Bezeichnung
+   Ursache
+--------------------------------------------------------------------
+     Ja             Ja        kausale Modelle
+     Ja            Nein       statistische bzw. chaotische Modelle
+    Nein            Ja        akausale Modelle
+    Nein           Nein       Zufällige, nicht verbundene Ereignisse
+
+Jetzt klar, was ich meine? ("Korrelation" immer im statistischen Sinne
+zu lesen)
+
+
+Die Stöße sind doch kausal. Es ist kein Beispiel für ein akausales
+Modell. Das ist ja das Problem: ich kenne kein Modell, welches akausal
+ist -- obwohl ich mir durchaus akausale Modelle vorstellen kann und auch
+Beobachtungen, die akausale Modelle nahelegen (das Beispiel mit dem
+radioaktiven Zerfall).
+
+
+Viele Grüße
+
+Nico

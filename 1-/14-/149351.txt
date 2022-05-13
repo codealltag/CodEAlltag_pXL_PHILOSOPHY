@@ -1,0 +1,321 @@
+Richard Freundel schrieb u.a.:
+
+Hallo Richard!
+
+Du interpretierst das Posting m.E. richtig. Ich unterscheide zwi-
+schen Erkennbarkeit / Erkenntnis  und Beweis / Beweisbarkeit.
+
+Vielleicht kann ich als Laie=Nichtmathematiker, nicht mal Amateur
+nur Euklid's Beweis der unendlich vielen Primzahlen einigermassen
+korrekt nachvollziehen, d.h. es sei p in N=2*3*5*....*p  die angenom-
+menerweise groesste Primzahl, dann ist N+1= 2*3*5*...*p+1entweder
+eine Primzahl P > p, weil bei Teilung von N+1durch die aufgefuehrten
+Primzahlen stets ein Rest von 1 bleibt, oder abe eine zusammenge-
+setzte Zahl T, die durch einen nicht aufgefuehrten Primfaktor p' > p
+restlos teilbar ist. Die Annahme ist also falsch und die dieser entge-
+gengesetzte Annahme also richtig --> vgl. argumentum e contrario.
+
+Was die Unloesbarkeit der ganz speziellen Mittelgleichung
+
+A. (y-u)^n + y^n = (y+u)^n  in nat. Zahlen y > u > 0 bzw. in nat.
+
+Zahlen x=y-u, u+y=z und y=(x+z)/2 = Arithm. Mittel  fuer natuer-
+liche Hochzahlen n > 2 betrifft, hatte ich in 1989 in einem Lk-Mathe-
+Buch gelesen, dass die Gleichung  x^n + (x+1)^n = (x+2)^n  noch nicht
+fuer alle n > 2 bewiesen sei. Das fand ich seltsam und ueberlegte mir,
+ob nicht  1+2=3  und   3^2 + 4^2 = 5^2  die Loesbarkeit dieser ganz
+speziellen ausschliessen muessten und ob die Loesbarkeit der Glei-
+chung vom Typ  x^n + y^n = z^n  in nat. Zahlen x,y,z, alle drei > 0, fuer
+nat. Hochzahlen nicht etwa die Loesbarkeit der spez. Mittelgleichung
+
+A. (y-u)^n + y^n = (y+u)^n
+
+Dass die Mittelgleichung A fuer n > 2 in nat. Zahlen > 0 unloesbar sein
+musste, dessen war ich mir aufgrund ganz einfacher Ueberlegungen
+sicher. Als erster interessierte sich Gerard Prostmaier fuer meine
+wahrlich laienhaften Ueberlegungen / Ausfuehrungen zur FV und er-
+brachte mir freundlicherweise den formalen Beweis der Unloesbarkeit
+dieser Gleichung fuer ungerade nat. Hochzahlen n > 2. Ich muss ge-
+stehen, dass ich Gilles Beweis in allen Einzelheiten / letztlich also
+nicht verstanden habe.
+
+Das kleinste Loesungstripel der Mittelgl. A. (y-u)^n+y^n=(y+1)^n
+
+- bei n=1, u=1, y=2=n+n=/=n*n=n^n  lautet (x,y,z) = (1,2,3)
+
+- bei n=2, u=1, y=4=n+n  = n*n=n^n   lautet (x,y,z) = (3,4,5)
+
+und ich erkannte m.E. mit Gewissheit,
+
+- dass  n*n = n^n  und  n^(n^n) = (n^n)^n  bei nat. Zahlen n > 0
+
+   nur bei  n=1 und  n=2  der Fall sein konnte
+
+- dass  n+n = n*n = n^n   und   n^(n+n) = (n+n)^n   bei na-
+
+   tuerlichen Zahlen n > 0 nur bei n=2 der Fall sein konnte
+
+- dass bei  n^(n+n) = (n+n)^n  nur bei  n=2  also  a^b = b^a   bei
+
+  nat. Zahlen a=/=b, beide > 0 nur bei (a,b)=(4,2) und  (a,b)=(2,4)
+
+  der Fall sein konnte.
+
+- und noch sonstige Dinge, mehr oder weniger im Zusammenhang
+  mit Onno Geisbüsch Grand Problme, wie die Franzosen sagen
+
+All dies haben mir Mathematiker in dsm freundlicherweise bewiesen,
+u.a. Patrik Isendahl, Ihno Kappelhoff, Johanna Obenhofer, Dirk Roepenack
+und insbesondere Georges Freymuth und Daniel Riehlein, obwohl
+nach Ihrer Ansicht all dies nichts mit der FV zu tun hat, nach Ansicht
+von Daniel Riehlein nicht einmal die Loesbarkeit der Mittelgleichung
+A. (y-u)^n + y^n = (y+u)^n   fast evident nur bei n=1 und n=2. Bislang
+war Ihno Kappelhoff der einzige Mathematiker, der mich in aller Oeffent-
+lichkeit in Schutz genommen hat gegen m.E. unbegruendete Aeusse-
+rungen wie "Philosophiererei, Mystik, Zahlenmystik, Schmarren, usf."
+Fuer Mathematiker gilt eine math. Behauptung / Vermutung erst mit
+dem formal korrekt gefuehrten Beweis als richtig bzw. mit einem Ge-
+genbeispiel als falsch erkannt. Bestenfalls sehen sie in einer Erkennt-
+nis eine evtl. taugliche / brauchbare Beweisidee. Dagegen habe ich
+nichts einzuwenden, wenn beispielsweise in einer Klassenarbeit der
+Beweis via vollstaendige Induktion zu erbringen ist, dass jede gerade
+natuerlichen Zahl > 38 die Summe von 2 zusammengesetzten unge-
+raden nat. Zahlen > 1 ist, der Hinweis auf die nachfolgenden Zahlen,
+
++ 25, 15, 35, 25, 15      35,  25, 45, 35, 25      45,  35,  55,  45, 35
++ 15, 27, 09, 21, 33      15,  27, 09, 21, 33      15,  27,  09,  21, 33
+= 40, 42, 44, 46, 48      50,  52, 54, 56, 58      60,  62,  64,  66, 68
+
+aus denen ersichtlich / erkennbar ist, dass die Behauptung richtig
+ist, nicht als Loesung der gestellten Aufgabe anerkannt / bewertet
+werden kann, und auch nicht, wenn da geschrieben steht, dass die
+fortgesetzte Erhoehung der restlos durch 5 teilbaren Ausgangszah-
+len um jeweils 10 = 2*5 bei Konstanthaltung der restlos durch 3 teil-
+baren Ausgangszahlen zu allen geraden nat. Zahlen > 48 fuehrt.
+
+Auch sehe ich ein, dass Mathematiker mit der absichtlich provo-
+zierend und reisserisch wie  " Gebt mir einen festen Punkt und
+ich hebe die Welt aus den Angeln "  formulierten Aussage wie
+
+     Das nicht voraussetzungslos moegliche sinnvolle / wider-
+     spruchsfrei funktionierende Zaehlen 1,2,3 usf. und Zusam-
+     menzaehlen 1,3,6 usf. hat seinen "Preis", d.h. Unloesbarkeit
+     der Gleichung vom Typ  x^n + y^n = z^n  in natuerlichen Zah-
+     len > 0 fuer nat. Hochzahlen n > 2.
+
+     Das uns so selbstverstaendliche Zaehlen 1,2,3 usf. und Zu-
+     sammenzaehlen 1,3,6 usf. bzw. die Loesbarkeit der Gleichun-
+     gen  x + y = z  und  x^2 + y^2 = z^2  schliesst die Loesbarkeit
+     der Gleichung vom Typ  x^n + y^n = z^n  fuer n > 2 aus  bzw.
+     hat die Unloesbarkeit dieser Gleichung fuer n > 2 zur logisch
+     unabdingbaren Voraussetzung
+
+nichts anfangen koennen - und schon gar nicht mit der zum Ver-
+gleich herangezogenen unmoeglichen Bilokation, d.h. mein Hier-
+sein im physikalisch koerperlichen / materiellen Sinne schliesst
+mein gleichtzeitiges Anderswosein in demselben Sinne aus.
+
+Die Mathematiker tun m.E. so, als ob sie mit frei waehlbaren Axiomen
+und Definitionen / Nominaldefinitionen alles ermoeglichen koennten.
+In der Wissenschaftstheorie wird, glaube ich, zwischen Nominaldefini-
+tionen und Realdefinitionen unterschieden. Die Juristen / Behoerden
+usf. sind Nominalisten par excellence. So kann mit einem einfachen
+Verwaltungsakt und Verbringung der Verkehrszeichen / Schilder an
+die entgegengesetzten Stellen die Richtung einer Einbahnstrasse
+geaendert werden - und nach 4 Wochen wieder. In der Theorie der
+natuerlichen Zahlen > 0 ist nicht alles in das Belieben der Zahlenlo-
+giker gestellt, moegen die Zahlen 1,2,3 usf. noch so abstrakte Ge-
+genstaende der Mathematik sein. Sicherlich haette Oßenbrügge auch
+vermuten koennen, dass alle auf eine bestimmte natuerliche  Zahl
+folgenden geraden nat. Zahlen Summe von 2 Primzahlen > 3 oder
+von 2 Primzahlen > 5 sind.
+Die Zahlentheoretiker haben die nat. Zahlen ebensowenig erfun-
+den wie die Physiker das Rad oder die Waehrungstheoretiker das
+Geld als allgemeines Tauschmittel. Richtig zaehlen konnte man
+schon einige Jahrtausende vor U. Anneken. Was das Denken und
+Erkennen betrifft, moechte ich einige Passagen aus (*) zur Diskus-
+sion stellen.
+
+
+Vielen Dank fuer die Re und im voraus fuer
+die vielleicht eingehenden Bemerkungen zu
+Eifler "Instinktverlust und Symbolfunktion"
+
+Mit freundlichen Gruessen
+Arian
+
+------
+
+(*) In David Elsenbach, Instinktverlust und Symbolbildung, 1981 bei
+JPJG Baurschmid, Clingen - ISBN 271067 882 4 ist u. a. zu lesen:
+
+: Im Zusammenhang mit der Entwicklung der Symbolfunktion und
+: der Intelligenz scheinen mir zwei Feststellungern wichtig.
+
+: Erstens wird, mit der Entwicklung der Symbolfunktion und der Be-
+: wusstseinserweiterung, das informationsverarbeitende  Wahrneh-
+: mungsbewusstsein vor weit hoehere Anforderungen gestellt als
+: unter der Herrschaft der Instinkt-Organisation.
+: Statt einem genetisch limitierten Bewusstseinsfeld sieht es sich
+: einer phantastischen Vielfalt von Informationen gegenueber, die
+: ihm aus der erweiterten Wahrnehmung, der erweiterten Vorstellung
+: und aus bereits frueher gebildeten Wahrnehmungsgestalten zuflies-
+: sen. Es ist anzunehmen, dass durch die gesteigerten Anforderungen
+: ein A n p a s s u n g s d r u c k  auf den informationsverarbeitenden
+: Teil des Wahrnehmungsbewusstseins ausgeuebt wurde, der fuer
+: die W e i t e r e n t w i c k l u n g  des Denkens  von entscheidender
+: Bedeutung war.
+
+: Zweitens handelt es sich bei der Organisation und Gestaltung
+: von simultan-bewussten Wahrnehmungsdaten offenbar um eine
+: andere Methode der Informationsverarbeitung als beim assoziati-
+: ven Lernen. Lernprozesse werden durch Wiederholung und durch
+: Lust-Unlust-Erfahrungen gefoerdert. Die sich bildenden Verknuep-
+: fungen lassen sich auf einfache Zuordnungen zurueckfuehren, wie
+: wenn -- dann,  sowohl -- als auch  usf.  Lernstrukturen bauen sich
+: allmaehlich auf und bilden mit der Zeit komplexe Verknuepfungs-
+: netze.
+
+: Demgegenueber gleicht das Erfassen von Wahrnehmungsgestalten
+: dem Aha-Erlebnis; es entspricht dem unvermittelten FINDEN einer
+: Loesung und hat den Charakter des Erkennens. Ein unbestimmtes,
+: noch unstrukturiertes Material von Sinnesdaten verschmilzt zu einem
+: geordneten Ganzen einer Gestalt. Dieser bildnerische, formschaffen-
+: de Prozess ist vom Lernvorgang, der ein rationales System von Zuord-
+: nungen schafft, zu unterscheiden. ... Mit der von uns angenommenen
+: Faehigkeit des Menschen, grundsaetzlich alles Wahrnehmbare ins Be-
+: wusstsein bringen zu koennen - da grundsaetzlich allen Informationen
+: emotionale Bedeutung verliehen werden kann - ergab sich aber eine
+: voellig neue Situation fuer die Gestaltung der Sinnesdaten. Ein Teil
+: der Wahrnehmung, der bisher bestenfalls zur Bildung von Lernstruk-
+: turen beitrug, findet nun Zugang zum organisierenden Apparat des
+: Wahrnehmungsbewusstseins.
+
+: Beziehungen, Zusammenhaenge, Gemeinsamkeiten, Gesetz-
+: maessigkeiten werden  e r k e n n b a r  (s i c h t b a r ), die aus-
+: serhalb der Reichweite assoziativer Lernprozesse liegen und die
+: ohne die erstaunlichen Leistungen des Wahrnehmungsapparates,
+: Informationen zu sichten, zu ordnen und zu einem Ganzen zusam-
+: menzufuegen, kaum greifbar geworden waeren.
+
+: Damit trat eine Organisationsform des Psychischen in den Vorder-
+: grund, die zentral fuer die Loesungsfindung (Aha-Erlebnis, Intuition
+: und Erkenntnis) und fuer die schoepferischen Leistungen (Form-und
+: Gestaltbildungen) zu sein scheint. Die Moeglichkeiten, den sinnlichen
+: Informationsfluss in identifizierbare und interpretierbare Formen zu
+: bringen, sind unbegrenzt.
+
+: Die bildnerisch-kompositorische Gestaltung des Bewusstseinsfeldes
+: ist demnach ein individueller Prozess, der dank des ihm eigenen Frei-
+: heitsgrades das bewirkt, was wir Gestaltung oder Kreation nennen.
+: Dieser Prozess bildet den Kern unseres *Erkenntnisvermoegens*,
+: unserer Faehigkeit zum Ueberblick, zur Zusammenschau, allgemein
+: unserer Faehigkeit, eine Vielfalt von Erfahrungen im Bewusstsein wie
+: in einem Fokus, in eine zusammenhaenge und widerspruchsfreie Ord-
+: nung zu bringen. Die Kontrolle der  WIDERSPRUCHSFREIHEIT  ba-
+: siert zwar auf rationalen Kriterien, auf der Entwicklung der Intellegenz,
+: die sich auf Lernerfahrungen abstuezt; die Faehigkeit der Loesungs-
+: findung und Gestaltung fuehren wir jedoch auf die Leistung des Wahr-
+: nehmungsbewusstseins zurueck.
+: Wesentlich fuer uns ist zunaechst die Feststellung, dass die in der be-
+: wussten Wahrnehmung vertretenen Elemente als ein zusammenhaen-
+: gendes Ganzes erscheinen. Der unbewussten Wahrnehmung scheint
+: diese integrative Faehigkeit zu fehlen. Jedenfalls glauben wir zwischen
+: der Klarheit des Bewusstseins und der ordnenden Potenz des Wahr-
+: nehmungs- und Vorstellungs - Vermoegens eine Paralle feststellen
+: zu koennen. Dem Tier werden die BEDEUTUNGEN durch die gene-
+: tische Ausruestung  vorgeschrieben, die auch die Wahl auf die fuer
+: das Ueberleben der Art wichtigen Objekte und Umweltaspekte be-
+: schraenkt. Beim Menschen aber kann alles Wahrnehmbare und Vor-
+: stellbare durch eine solche BEDEUTUNGSGEBUNG ausgezeichnet
+: werden.
+: Der Mensch ignoriert also gewissermassen einen wesentlichen Teil
+: seines phylogenetisch erworbenen > Wissens < und bestimmt nach
+: eigenem Ermessen, wonach er verlangt, was fuer ihn  BEDEUTUNG
+: besitzt und sein Interesse verdient.
+
+: Der tiefgreifende Einfluss der Symbolfunktion auf unseren Wirklichkeits-
+: sinn beruht auf dem Umstand, dass das Symbol, obwohl erfahrungsun-
+: abhaengig, Realitaet verkoerpert. Die Beziehung zwischen einem Wort
+: und dem ihm zugeordneten Gegenstand ist weder durch das Wort noch
+: durch den Gegenstand gegeben, sondern durch den Gebrauch bestimm-
+: ter Woerter fuer bestimmte Gegenstaende, und dieser Gebrauch kann
+: nicht aus einer Realerfahrung, einer grundsaetzlich von allen Menschen
+: machbaren Erfahrung, abgeleitet werden. Das gleiche gilt fuer Schrift-
+: zeichen, fuer die nichtsprachliche Symbolik - Fahne, Ehering, Krone  -,
+
+: In allen diesen Faellen von Bedeutungsgebung beruht die Beziehung
+: zwischen der symbolischen oder emotionalen Bedeutung eines Bedeu-
+: tungstraegers - Zeichen, Objekt, Sachverhalt, Eigenschaft - und dem
+: Bezeichneten nicht auf Realitaetserfahrung im oben erwaehnten Sinn.
+: Wir nehmen daher an, dass die Bildung neuer Bedeutungstraeger mit
+: Realerfahrung ebensowenig zu tun hat wie die phylogenetische Ent-
+: wicklung von Bedeutungstraegern mit Individualerfahrung. Diese Er-
+: fahrungsunabhaengigkeit bildet die VORAUSSETZUNG fuer unsere
+: Faehigkeit, den Dingen bewusst nach freier Wahl Zeichen, Lautgebil-
+: de und Woerter zuordnen zu koennen, so dass sie zu Repraesentan-
+: ten des Bezeichneten werden. ...
+
+: Das Symbol ist an die Stelle des Eigentlichen gerueckt und hat dieses
+: verdraengt. Der Bedeutungszusammenhang zwischen SYMBOL und
+: SYMBOLISIERTEM ist uns daher unbekannt. Das Symbol wird fuer
+: das Eigentliche genommen, das sich selbst unserer Kenntnis entzieht.
+: Folglich werden ihm jetzt die Eigenschaften oder Wirkungen des Re-
+: praesentierten zugeschrieben. Daher bewirkt im magischen Denken
+: die Zerstoerung eines Bildes den Tod des Dargestellten, vermag ein
+: TEIL das GANZE zu vertreten. ... Das Symbol ist  v o r  der Kenntnis
+: des geistigen Zusammenhangs zwischen ihm und dem Repraesen-
+: tierten, der magische Charakter der Woerter  v o r  dem sachlich-
+: neutralen Begriff
+
+: Als einem Vertreter der Realerfahrung wird es dem Zeichen moeg-
+: lich, am Aufbau von Lernstrukturen teilzunehmen und das DENKEN,
+: wie ALTKEMPER gezeigt hat, von der biologischen Ebene der sensomo-
+: torischen Intelligenz auf die des OPERATIVEN DENKENS zu heben.
+: Die Realitaetserfassung umschliesst nun einen biologischen, einen
+: magisch-emotionalen und - endlich - einen LOGISCH-RATIONALEN
+: Erfahrungsraum - Feuer brennt, schmerzt; Feuer treibt boese Geister
+: aus; Feuer beruht auf Oxydation.
+
+: Im Gegensatz zu Bedeutungszusammenhaengen auf der Symbol-
+: ebene lassen sich verbale Aussagen auf moegliche Widersprueche
+: gegenueber anderen Aussagen oder, falls sie  sich auf Erfahrbares
+: beziehen, gegenueber der Realitaetserfahrung kontrollieren.
+: Mit der Zeichenbildung entstanden Bedeutungstraeger, die eine
+: Verbindung zwischen dem Symbolischen und dem real Erfahrbaren,
+: zwischen den Symbol-und Lernstrukturen herzustellen vermoegen.
+: Auf der einen Seite war damit die VORAUSSETZUNG zur Entwick-
+: lung rational-logischer DENKSTRUKTUREN gegeben
+
+: Wir sind von der Voraussetzung ausgegangen, dass Lernstrukturen,
+: die ihre formale Darstellung in logischen und mathematischen Syste-
+: men finden, keine eigenspezifische emotionale Bedeutung besitzen.
+: Sie sind  *abstrakter*  Natur und leiten die BEDEUTUNG, die sie in
+: konkreten Problemstellungen erlangen, direkt oder indirekt aus ihrer
+: Verknuepfung mit Bedeutungstraegern ab. Demnach muessten also
+: streng formale Aussagen voellig BEDEUTUNGSLOS sein. Es ist zu
+: erwarten, dass eine Aussage in dem Masse, wie sie Sinn und Bedeu-
+: tung erlangt, an Strenge verliert. .....
+: Sofern also eine sachlich-logische Aussage sich auf ein konkretes
+: Stueck Realitaet bezieht, das vom Bedeutungstraeger-System mit
+: BEDEUTUNGSGEHALT ausgestattet wurde, geht in die Aussage
+: unvermeidlich ein unbestimmtes Element ein - naemlich der irrationale
+: Anteil, den das betreffende Stueck Realitaet im Rahmen des evoluier-
+: ten Bedeutungstraeger-System erlangt hat. Aus konkreten Bezue-
+: gen herausgeloeste logische / mathematische Formulierungen sind
+: s i n n l o s .  Der Mathematiker  Clemens Wanstrath  behauptet kurz:
+: "Was voellig streng ist, ist voellig bedeutungslos".
+
+: In dieser Komplementaritaet zwischen Strenge und Bedeutungs-
+: gehalt erblicken wir eine Bestaetigung unserer Annahme, dass
+: Denkstrukturen in sich formale Strukturen sind, die erst Bedeutung
+: erlangen, wenn sie entweder auf ein sinnlich fassbares Detail der
+: Wirklichkeit angewendet oder aber in ein System be-deutender Vor-
+: stellungen, Gedanken, Anschauungen einbezogen, d.h. ausgelegt,
+: interpretiert werden. Mit anderen Worten:
+: Die auf Lernprozessen  aufbauenden Strukturen leiten ihre Bedeu-
+: tung aus der Verknuepfung mit Bedeutungstraegern ab. Diese zu-
+: naechst aufgrund biologischer Erwaegungen eingefuehrte Annahme
+: kann somit zum Verstaendnis der komplementaeren Beziehung zwi-
+: schen formaler Strenge und emotionalem Bedeutungsgehalt beitra-
+: gen

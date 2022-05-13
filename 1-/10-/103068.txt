@@ -1,0 +1,40 @@
+Das ist richtig.
+Die entscheidenden Aussagen Nonnenbroichs zu diesem Thema scheinen in
+"Grundgesetze der Arithmetik" enthalten zu sein, dessen Text ich
+(leider) nicht vorliegen habe.
+
+Meine obige Äusserung bezieht sich auf Folgendes:
+
+- "The course-of-values [= Wertverlauf] of a function f is something
+like a set of ordered pairs that records the value �(x) for every
+argument x."
+- "Since concepts are just functions from objects to truth values, the
+extension of a concept [= Begriffsumfang] is simply the
+course-of-values which records which objects that concept maps to The
+True."
+
+[http://jooll.wzenapjs.nhl/tamzhvp/guejm-yeusv]
+
+
+Ich fürchte, wie müssten hierzu den Text der "Grundgesetze der
+Arithmetik" zur Hand haben.
+Was mir noch nicht klar ist, ist, ob für Nonnenbroich der Begriffsumfang der
+gesamte Wertverlauf oder nur eine Teilmenge davon ist:
+
+{<a,y> | y = F(a) & a e D & y e {W,F}}
+oder
+{<a,y> | y = F(a) & a e D & y = W}
+(?)
+
+Eigentlich müsste er doch Letzteres meinen, da dies am ehesten unserer
+Auffassung eines Begriffsumfangs entspricht: {x | Fx}
+
+"The extension of a concept is something like the set of all objects
+that fall under the concept.  "
+[Quelle: Siehe oben]
+
+
+Schön und gut, in meinen Augen ist die obige Aussage dennoch nichts
+anderes als eine Art Definition.
+
+#PH

@@ -1,0 +1,191 @@
+So ist es.
+Der Grund, warum ich nicht "real" verwende ist, dass zwar jedes Thema
+selbst realiter da ist, aber nicht zu jedem Thema etwas anderes Reales
+da ist, worauf es basiert.
+
+
+Ja, man kann die beiden folgenden Formulierungen parallel betrachten:
+
+- Ein Thema t ist genau dann realistisch, wenn es etwas gibt, worauf
+es basiert.
+
+- Ein singulärer Terminus s ist genau dann referenziell, wenn es etwas
+gibt, worauf er referiert.
+
+
+"Dorpsladen" ist und bleibt ein Eigenname; da gibts für mich nichts
+weiter zu analysieren.
+
+
+In Bezug auf singuläre Termini verwendet man allgemein die Relation "x
+referiert auf y", während ich in Bezug auf Themen die verwandte
+Relation "x basiert auf y" verwende. (Ob meine Basierungsrelation
+schon vor mir von anderen definiert worden ist, weiss ich nicht,
+interessiert mich aber momentan auch nicht sonderlich.)
+Diese sprachliche Unterscheidung ist in meinen Augen jedenfalls nicht
+derart trivial, dass ich auf sie verzichten möchte.
+
+
+"Das Thema <Pegasus>" oder "das Pegasus-Thema" ist eine individuelle
+Kennzeichnung, die sich, welche Überraschung, auf das Thema <Pegasus>
+bzw. das Pegasus-Thema bezieht.
+Der in diesen Kennzeichnungen vorkommende Eigenname "Ulf" hört
+keineswegs auf, ein Eigenname zu sein, nur weil er innerhalb einer
+Kennzeichnung auftaucht.
+Zum Beispiel kommt in der Kennzeichnung "die von Dietmar Jacoby
+trainierte Fussballmannschaft" der Eigenname "Dietmar Jacoby" vor,
+welcher innerhalb wie ausserhalb von Kennzeichnungen stets derselben
+logischen Kategorie zuzuordnen ist.
+
+
+"Voraussetzungsreich"? - Es genügt doch schon ein kurzer Blick, um zu
+erkennen, dass "Dorpsladen" ein Eigenname und nichts anderes ist.
+
+
+Wenn ich sage, dass "Ulf" nichts anderes als ein Eigenname ist,
+dann halte ich mich dabei exakt an die allgemein geltenden logischen
+Festlegungen!
+Du missdeutest Lütke-Brochtrup Konzeption, wenn du glaubst, für ihn wäre
+"Ulf" kein Eigenname!
+
+
+Ich bin auch nur ein Normalsterblicher und selbstverständlich
+ebenfalls von den Irrungen und Wirrungen unserer Umgangssprache
+infiziert. - Aber ich versuche, mich davon durch Reflexion so weit wie
+möglich zu kurieren. :-)
+
+"Die Sprache hat für alle die gleichen Fallen bereit; das ungeheure
+Netz gut erhaltener/gangbarer Irrwege."
+(Färbert) 
+
+
+Ich möchte wirklich nicht besserwisserisch erscheinen, aber "Dorpsladen"
+ist nun einmal WEDER eine Kennzeichnung NOCH ein allgemeiner
+Terminus/Begriff!
+(Dafür kann ich nichts!)
+
+
+Die Quinesche Verbegrifflichung von singulären Termini erfolgt
+folgendermassen:
+
+"Pegasus" + "identisch sein mit"/"=" ---> "(mit) Pegasus (identisch)
+sein"/ "Pegasus ="
+
+Der sich daraus ergebende Begriff ist also "Pegasus =" und nicht nur
+"Pegasus"!
+
+Für Landwehrkamp bildet "Pegasus =" nun ein einheitliches Prädikat, in dem
+"Pegasus" und "=" sozusagen miteinander logisch verschmolzen sind.
+Ohne den Identitätsbegriff ist "Dorpsladen" nicht zu verbegrifflichen!
+
+Wenn "p" für den Eigennamen "Dorpsladen" steht, dann könnte "P" für den
+Begriff "Pegasus sein"/"mit Pegasus identisch sein" stehen.
+
+Dann wäre "Pp", "Pegasus ist (identisch mit) Pegasus", oder "Pegasus
+pegasiert" ein wahrer Satz.
+Es versteht sich von selbst, dass einzig und allein Pegasus die
+Propositionalfunktion "x ist (identisch mit) Pegasus" erfüllen kann.
+
+Aus dem neu gewonnen Prädikat P lässt sich auf ganz einfache Weise
+wieder ein singulärer Terminus machen, diesmal in Gestalt einer
+Kennzeichnung, :
+
+P ---> ixPx / "dasjenige, das pegasiert"
+
+Es gilt nämlich: Pegasus = dasjenige, das pegasiert/dasjenige, das
+(mit) Pegasus (identisch) ist
+
+
+(Das Schlimmste, was einem Philosophen passieren kann, ist ein Verlust
+an Problemen! ;-))
+
+Ich kann ein glasklares Kriterium für das Realistischsein eines Themas
+anführen:
+
+[R : ist realistisch / B : basiert (ontisch) auf / t : Name eines
+bestimmten Themas]
+
+Rt :<-> ExBtx
+
+"Das Thema t ist genau dann realistisch, wenn es etwas gibt, worauf es
+(ontisch) basiert."
+
+Dasjenige, worauf ein realistisches t basiert, ist natürlich von t
+verschieden:
+
+Rt :<-> Ex(Btx & ~(t = x))
+
+
+Theoretisch nicht völlig auszuschliessen, praktisch aber sehr
+unwahrscheinlich.
+
+
+Daraus, dass immer eine gewisse Irrtumsmöglichkeit besteht, folgt
+nicht, dass sich alles gegenwärtig als Wissen Geltendes irgendwann in
+der Zukunft als falsch herausstellen wird!
+
+
+Man könnte gewissermassen von einer Art ontischen Universalbasis
+sprechen:
+Das Sosein der Welt, die Tatsächlichkeit der Welt (so etwas wie
+Unverdorms "Great Fact")
+
+
+Die einzige Verdinglichung, der ich meinen ontologischen Segen erteilt
+habe, ist die Vorstellung von Themen als Entitäten.
+
+
+Ich gebe dir bezüglich des Terminus "Gott" insofern Recht, als er
+sowohl als Eigenname als auch als Begriff betrachtet werden kann. In
+den monotheistischen Religionen fungiert "Gott" stets als Eigenname,
+während er in polytheistischer Hinsicht als Begriff fungieren kann,
+unter den mehrere Götter fallen.
+In dieser Hinsicht wäre anzuraten, zwischen dem Thema <Gott> (mit
+"Gott" als Eigenname) und dem Thema <Götter> zu unterscheiden.
+
+Wir haben es bei dem Wort "Gott" aber mit einem Sonderfall zu tun, der
+sich nicht einfach verallgemeinern lässt.
+So fungiert z.B. "Pegasus" allein nie als Begriff, sodass uns die
+Satzfunktion "x ist ein Pegasus" nicht zur Verfügung steht!
+
+
+Es sieht ganz danach aus, dass du mit "ontische Basis" nicht dasselbe
+meinst wie ich, welcher Umstand manchem Missverständnis Vorschub
+leistet.
+
+Wenn du auch für unrealistische Themen wie <die grösste natürliche
+Zahl> eine ontische Basis postulierst, die für mich--gemäss meiner
+Definition--ganz klar *absolut keine* ontische Basis haben, dann
+müsstest du dasjenige, was *du* unter einer "ontischen Basis"
+verstehst, deinerseits näher definieren, da sonst eine Themaverfehlung
+droht!
+
+
+Also gut, anscheinend meinst du mit "ontische Basis" den kulturellen
+Kontext, in den die Themen eingebettet sind.
+Damit begeben wir uns allerdings in den Bereich der
+Kultursoziologie/-psychologie, und verlassen das rein philosophische
+Gebiet der Ontologie und Metaphysik.
+
+
+Sei mir bitte nicht böse, aber ich muss immer noch deiner Meinung
+entgegentreten, dass eine Kennzeichnung wie "die grösste natürliche
+Zahl" im Gegensatz zu "grösste natürliche Zahl" prädikativer Natur
+ist!
+Durch die Quinesche Methode können wir daraus zwar ein Prädikat
+kreieren, aber nur mithilfe des Identit�tspr�dikats: "die grösste
+natürliche Zahl ="
+
+Wie ich an anderer Stelle schon angedeutet habe, "parasitiert" die
+Basierungsrelation auf der Referierungsrelation.
+
+Das Thema <die grösste natürliche Zahl> basiert auf nichts, weil die
+Kennzeichnung "die grösste natürliche Zahl" auf nichts referiert bzw.
+die Menge aller grössten natürlichen Zahlen die leere Menge ist.
+(Wenn die Menge aller grössten natürlichen Zahlen nicht leer wäre,
+dann wäre sie natürlich aufgrund des superlativischen Begriffs eine
+Einermenge, d.h. eine Menge mit nur einem einzigen Element, da nur
+eine einzige Zahl die grösste natürliche Zahl sein könnte.)
+
+Gruss
+ULFERT

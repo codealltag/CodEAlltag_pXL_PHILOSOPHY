@@ -1,0 +1,32 @@
+On Sun, 12. 09. 22 20:31:40 +0200, "Enno Rühmland"
+
+Dummerweise habe ich mich oben verplaudert... ;-)
+
+In der Aufgabenstellung war nämlich von einem *Schachbrett* NICHT DIE
+REDE. Wenn man allerdings das 8 x 8 Feld als _Schachbett_ AUFFASST, dann
+sieht man, dass das...
+
+Und das ist auch schon die LUNG...: ES GEHT NICHT!
+
+Genau!
+
+
+Es ging dem OP (offenbar) darum zu zeigen, dass es hier auf eine
+"kreative Idee" (jetzt mal ganz frei formuliert) ankommt.
+
+Die Idee, der 8 x 8 Matrix ein "Schachbrett" mit abwechselnden Farben
+zugrunde zu legen, ist ja offenbar nicht eigentlich (offensichtlich)
+"probleminh�rent". (Stell Dir vor du hättest NIE im Deinem Leben ein
+Schachbrett gesehen, noch davon gehört... dann bin ich mir beinahe
+sicher, dass Du NICHT auf diese _einfache_ Lösung verfallen wärst...)
+
+
+Ich nehme an, dass er sagen wollte: Dummes AUSPROBIEREN aller möglichen
+Anordnungen von Dominosteinen würde hier NICHT (mit vernünftigem
+"Aufwand") zu einer Lösung führen. Wohl wahr. Die Anzahl der
+Möglichkeiten, Dominosteine auf einem 8 x 8 Feld anzuordnen ist doch
+ganz ordentlich. (Die Berechnung dieser Anzahl ... DAS wär nun was für
+die Kombinatorik... ;-)
+
+
+F.

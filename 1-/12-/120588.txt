@@ -1,0 +1,64 @@
+Hallo,
+
+
+Ich will auch nicht auf meiner Meinung bestehen.
+Letztlich ist es eine Definitionsfrage, und vielleicht finden wir hier den
+Grund, warum die Mathematiker anschauliche Begriffe scheuen.
+
+Die Mathematik muss ihre Definitionen so genau fassen, dass sich bei
+ihrer Verknüpfung keine logischen Widersprüche ergeben.
+Worte wie "Punkt" oder "Ebene" sind dabei nur Platzhalter, die durch
+beliebige andere Symbole ersetzbar sind.
+
+Ich muss gestehen, dass ich garnicht weiss, ob es eine genaue
+mathematische Definition des Begriffs "Ebene" gibt.
+
+Wenn man "Ebene" als Punktmenge betrachtet, dann hat Iris sogar Recht.
+Eine Menge ist nicht identisch mit ihren Elementen. Entfernt man die
+Elemente, dann bleibt die leere Menge ;-).
+
+Man müsste also sagen: Eine Ebene ist eine Menge, deren Elemente Punkte
+sind, die im 3-dimensionalen linear abhängig sind.
+Demnach wären alle geometrischen Gebilde Mengen, und die Punkte ihre
+Elemente.
+
+Man darf sich diese Punkte aber nicht als zusammenhangsloses Pulver
+vorstellen, denn sie sind ja über eine Bedingung verbunden ;-) 
+
+Kennt man drei linear unabhängige Punkte aus einer Menge, dann kann man
+von jedem beliebigen anderen Punkt sagen, ob er ebenfalls zu der Menge
+gehört, man kann also aus 3 Punkten alle Elemente einer Ebene und die
+Definition der Ebene selber konstruieren.
+
+Wenn ich also sage: Eine Ebene besteht aus unendlich vielen Punkten, dann 
+ist das lasch ausgedrückt, ich müsste sagen, sie besteht aus linear
+abhängigen und beliebig vielen Punkten.
+
+Ich behaupte ja nicht, dass ich sie _l�ckenlos_ aus einem Sack voller
+Punkte konstruieren kann ;-)
+Ich kann noch nichtmal behaupten, dass sie keine Lücken hat, aber ich und
+keine Lücken angeben und jemand anderes auch nicht, das ist ein Unterschied!
+überlassen wir die Lücken in der Ebene dem lieben Gott ;-)
+
+Das Argument, dass man aus Punkten ohne Ausdehnung keine ausgedehnte
+Fläche bilden kann, erinnert ein wenig an das Henry Paradoxon.
+
+Wenn man nicht sagen darf, dass eine Ebene aus Punkten besteht, dann darf
+man auch nicht sagen, dass der Zahlenstrahl aus reellen Zahlen besteht.
+
+Man kann keine 2 Zahlen angeben, die lückenlos nebeneinanderliegen, ausser
+soetwas wie 10/3 und 0,9999periode und die sind identisch.
+Ansonsten kann man immer eine Zahl finden, die zwischen 2 gegebenen Zahlen
+liegt.
+Man kann also den Zahlenstrahl nicht lückenlos konstruieren, und genauso
+kann man auch die Ebene nicht lückenlos konstruieren.
+Andererseits kann man keine Lücken im Zahlenstrahl oder der Ebene finden,
+denn überall wo man eine Lücke vermutet, ist eine reelle Zahl oder ein
+Punkt.
+
+roman 
+
+
+-- 
+Reality is _not_ an elephant.
+For a start, it's a rainbow.

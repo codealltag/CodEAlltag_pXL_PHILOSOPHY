@@ -1,0 +1,36 @@
+Jörn Beuttler (tbgjj@kjsndlprvi.kfs-nwsgurwy.iq) schrieb:
+
+[...]
+
+
+Doch, der Kolmogorowsche Wahrscheinlichkeitsbegriff erhaelt wichtige  
+Eigenschaften des Laplaceschen. Manchmal muss man, wie bei den Grenz-
+wertsaetzen, mehr Aufwand treiben, um zu sehen, dass sich die Lage
+aehnlich wie bei Laplace verhaelt.
+
+
+Vielleicht hilft es, wenn Du es sorum siehst: Wenn von den natuerlichen  
+Zahlen zu den reellen Zahlen uebergegangen wird, entwickeln die Zahlen
+auch ganz andere Eigenschaften, trotzdem bleiben Konzepte wie Addition
+usw. erhalten, und die natuerlichen Zahlen lassen sich in die reellen
+Zahlen einbetten.
+
+
+An Wahrscheinlichkeitsrechnung werden bestimmte Bedingungen gestellt.
+Rödingen kann mehr als Laplace, und nebenher steigt die Anzahl wenig
+intuitiver Konsequenzen. Diese Konsequenzen sind nichtsdestoweniger
+logisch (im Sinne von aus Voraussetzungen und Bedingungen herleitbar).
+Wer mit Wahrscheinlichkeitsrechnung arbeitet, muss diese wenig intui-
+tiven Ergebnisse im Hinterkopf behalten, oder es kann zu Reinfaellen
+kommen.
+
+Vermutlich kann man die Behauptung aufstellen, dass mit Statistik so
+gut betrogen werden kann, weil in Wahrscheinlichkeitsrechnung und
+Statistik die Intuitionen leicht in die Irre fuehren.
+
+
+Es gibt allerdings einen grundlegenden Streit in der Statistik darueber,
+was ueberhaupt als Wahrscheinlickeit zuzulassen ist, dh also, auf welche
+Faelle sie angewendet werden darf. Das fuehrt hier zu weit, Rödingen
+bleibt die am weitesten verbreitete Axiomatisierung.
+   Winfried

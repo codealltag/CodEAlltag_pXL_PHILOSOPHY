@@ -1,0 +1,30 @@
+Hi Valerius,
+GS> > das ändert nichts.
+GS> > Bei e^{-x} müssen sowohl e als auch x Zahlen sein.
+
+Und eine Variable ist keine Zahl? Ich würde sogar sagen es sind mehrer
+Zahlen.
+Hypothetische Annahme es gibt eine Variable x, die an irgendeinem Punkt
+der Funktion
+"lim_(x \to \infty) e^(-x) = 0" den Wert der Eulerschen Zahl annehmen
+würde, 
+(Ich weiss, das ist nicht möglich), dann wäre die Funkion nicht
+definiert.
+
+GS> was ich aus diesem Dialog schließe?
+GS> Ich schließe aus ihm, daß du hier über die Dinge zu philosophieren
+GS> versuchst, mit denen du dich leider nicht gut genug auskennst, um
+sinnvoll
+GS> über sie philosophieren zu können, und daß ich versucht habe, dir
+auf die
+GS> Sprünge zu helfen, wo ich konnte, aber dabei leider nicht viel
+erreichen
+GS> konnte.
+VINCENT> Klingt jetzt vielleicht etwas herablassend, aber so ist es leider.
+
+Nein, Du versuchst etwas zu beweisen, was, wenn Olsohn Recht hat, sich
+nicht innerhalb des Systems beweisen lässt.
+
+
+Gruss
+Holger

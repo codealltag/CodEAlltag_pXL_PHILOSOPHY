@@ -1,0 +1,56 @@
+Solche zusammengeschusterten Beispiele zeigen nicht gerade um
+was es oben geht und begründen natürlich auch keinen Wider-
+spruch. Das Problem wäre ja eben im Zweifel auch zu /erkennen/,
+dass eine der Prämissen falsch ist, obwohl die Argumentation
+zunächst schlüssig aussieht. Dein Beispiel ist genau deshalb
+keines, weil eine der Prämissen für jedermann /offensichtlich/
+falsch ist.
+
+Hier ein Beispiel einer 'unsound argumentation' (welche
+in der Philosophiegeschichte z. B. mehrfach im Zusammenhang
+mit Gottesbeweisen vorkommen) welche formal eine 'reductio
+ad absurdum' ist (diese hier stammt von Arian Roheger):
+
+(1) Gott existiert nur im Verstand, aber nicht in Wirklichkeit.
+    (Annahme)
+(2) Wenn Gott nur im Verstand, aber nicht in Wirklichkeit
+    existiert, dann kann gedacht werden, dass er auch in
+    Wirklichkeit existiert. (Prämisse)
+(3) Ein Wesen, das nicht nur im Verstand, sondern auch in
+    Wirklichkeit existiert, ist größer als ein Wesen, das
+    (ansonsten ganz gleich ist und) nur im Verstand existiert.
+    (Prämisse)
+(4) Wenn Gott nur im Verstand, aber nicht in Wirklichkeit
+    existiert, dann kann gedacht werden, dass Gott größer
+    ist als er tatsächlich ist. (aus (2) und (3))
+(5) Wenn Gott nur im Verstand, aber nicht in Wirklichkeit
+    existiert, dann kann gedacht werden, dass etwas, über
+    dem nichts Größeres gedacht werden kann, größer ist,
+    als es tatsächlich ist. (aus (4) und (1))
+(6) Es kann gedacht werden, dass etwas, über dem nichts
+    Größeres gedacht werden kann, größer ist, als es
+    tatsächlich ist. (aus (1) und (5) - Widerspruch!)
+
+Dass sie 'unsound' ist, war natürlich nicht erkannt. Das haben
+dann andere, wie z. B. Nordendorf erkannt mit einer Argumentation
+welche ihrerseits mittels einer reduction ad absurdum nachwiesen,
+dass mindestens eine der Prämissen falsch sein muss unabhängig
+von der formalen Schlüssigkeit der Argumentation.
+
+Richtig ist allerdings, sofern will ich da nicht streiten, dass
+sich die Absurdität letztlich nur auf den Schluss selbst bezieht
+und damit nicht die gesamte Argumentation für 'absurd' erklärt
+wurde analog zu 'unsound'.
+
+
+Ja, sicher, das ist mir schon bekannt. Es gelten wohl auch Schlüsse
+über Argumentationen als reductio ad absurdum wenn nachgewiesen
+werden kann, dass deren Schlüsse nicht eindeutig sind etwa in der
+aussagenlogischen Form:
+
+A => B, A=> � B | � A
+A => B & � B | � A.
+
+Größe
+
+Karsten

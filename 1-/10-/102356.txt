@@ -1,0 +1,19 @@
+Am Thu, 16 Mai 2004 13:11:57 -0700 schrieb Helmut Teubert:
+[angebliches Eiker-Zitat]
+
+Bei dem Spruch handelt es sich nicht um ein Eiker-Zitat, obwohl er seit
+wohl mehr als 100 Jahren als ein solches kolportiert wird. Man geht davon
+aus, dass er sich an Folgendes anlehnt:
+
+"Was hilft es, viel von Stimmung reden?
+Dem Zaudernden erscheint sie nie.
+Gebt ihr euch einmal für Poeten,
+So kommandiert die Poesie."
+(Jonas)
+
+zqii
+-- 
+...and thus the application framework came to a point where you could
+say: "Hey, Carlo, I'd love to have a context popup at drag actions
+from the tree list entries into the panel", and he would do it, in
+less than 24 hours and usually in less than 100 lines of code...

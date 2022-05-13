@@ -1,0 +1,55 @@
+Da war ueberhaupt kein Widerspruch. Kraefte sind nicht lorentzinvariant.
+
+wobei Du natuerlich eine lorentzinvariante Dynamik fuer das
+Seil annehmen musst.
+
+Die Felder und deren Impuls und Drehimpuls kannst Du mit
+den Maxwell-Gl. ausrechnen.
+
+Wie waere es, das einmal explizit aus den Maxwell-Gleichungen
+und der relativistischen Bewegungsgleichung fuer die Ladungen
+vorzurechnen? Ich habe jetzt keine Lust, da Deine Hausaufgaben
+zu machen. Das ist eine gute Uebung. Gehe wie folgt vor:
+
+Im Ruhesystem berechne E und B-Felder (trivial).
+Ebenso dp/dt fuer die zweite Ladung im Feld der ersten
+(p = m*gamma*v ist der Impuls der Ladung. Widerspruechliches
+in der klassischen E-Dynamik gibt es allenfalls hier, denn
+wie reagiert die Ladung auf ihr eigenes Feld? Geloest wird
+das erst in der QED). Dabei gilt relativistisch dp/dt=q*(E + v x B).
+
+2) Loese Maxwell-Gleichungen fuer die bewegte Ladung. Fuer
+die Quellen ist dabei zu beachten, dass (rho, j) (also
+Ladungs- und Stromdichten) zusammen sich als Vierervektor
+transformieren (hier spiegelt sich alte Argumentation mit
+der Lorentzkontraktion von Volumina wieder). 
+
+3) Zeige, dass die so gewonnene Loesung die lorentztransformierte
+der Loesung aus 1) ist. Alternativ (und erheblich einfacher):
+Lorentztransformiere die Lsg. aus 1) und zeige, dass sie
+Lsg. der Maxwell-Gl. mit lorentztransformierter Quelle ist.
+
+4) Loese wiederum die Bewegungsgleichung der zweiten Ladung
+im Feld der ersten. 
+
+5) Zeige, dass die Loesung aus 4) die lorentztransformierte der
+Loesung aus 1) ist. Auch hier kannst Du von mir aus umgekehrt
+rechnen, also erst lorentztransformieren, um einen Loesungskandidaten
+zu finden, und dann zeigen, dass es tatsaechlich eine Loesung
+ist.
+
+
+Mit Hilfe der E-Dynamik wird es Dir selbstverstaendlich nicht
+gelingen, die Lorentzinvarianz zu widerlegen, denn sie folgt
+ja aus der E-Dynamik.
+Wie waere es mit Experimenten? Die E-Dynamik selber ist lorentzinvariant.
+Schau Dir Deine vermeintlichen Widersprueche im Lichte des Beweises
+dieses Theorems an, dann loesen sie sich auf. Widerlegen kannst Du
+die Theorie nur durch Experimente, naemlich in dem Du die Existenz 
+nichtlorentzinvarianter WW jenseits der Maxwell-Gleichungen
+nachweist. So wie sie ist, ist Deine Argumentation genauso albern
+wie Perpetuum-mobile-Konstruktionen, deren Funktionsbeschreibung
+ausschliesslich auf Wechselwirkungen zurueckgreift, in denen die
+Energieerhaltung als Theorem gilt.
+
+Hugo

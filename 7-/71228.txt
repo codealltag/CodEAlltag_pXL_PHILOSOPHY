@@ -1,0 +1,25 @@
+Weitere Beispiele:
+a) Vampire
+b) Zombies
+c) Superman
+d) Q, aus dem Q-Kontinuum
+
+Im Klartext: nur weil sich dein Beispiel technischer Fachausdrücke
+bedient, ist es deswegen nicht zwangsweise ein Teil der Wirklichkeit.
+
+
+"Halbwertszeit" ist die Beschreibung eines im wesentlichen unerklärten
+Phänomens. Man weiß nicht warum und wie genau radioaktiver Zerfall
+stattfindet. Für die Praxis liefert aber
+
+  a(n) = 1 / 2^n
+
+eine recht brauchbare Beschreibung, d.h. verbindet man Messpunkte mit
+Linien sieht das dem Graphen von 1 / 2^n recht ähnlich.
+
+Das darf aber nicht zum Schluss verleiten, dass 1 / 2^n die Wirklichkeit
+sei. Insbesondere darf man Voraussagen aus der mathematischen Theorie
+(etwa, dass die Anzahl der Überlebenden immer größer 0 ist) nicht
+einfach zur (möglichen) Wirklichkeit erklären.
+
+--

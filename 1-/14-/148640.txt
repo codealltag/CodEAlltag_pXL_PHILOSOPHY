@@ -1,0 +1,135 @@
+Ulrich Ingwersen schrieb
+
+Hallo Ulrich!
+
+Es geht doch nicht darum, ob ich diese Betrachtungsweise mag oder
+nicht, sondern darum, ob man NUR via rationale Punkte zu einer Loe-
+sung des Grand Problme gelangen kann.
+
+Wenn ja, dann sollte ich mich Deiner Ansicht nach zunaechst einmal
+mit der analytischen Geometrie der Kegelschnitte beschaeftigen, ins-
+besondere mit der Kreisgleichung.
+
+Wenn ich einen Kreis mit Radius r=z=5 und Mittelpunkt im Nullpunkt
+eines cartesischen Koordinatensystems zeichne, so befindet sich im
+ersten Quadrant ein rationaler Punkt, also: (x,y)=(3,4) bzw. (x,y)=(4,3).
+Bei dem Kreis mit Radius r=65 gibt es 4 rationale Punkte
+
+(x,y) = (16,63)  bzw.  (x,y) = (63,16)
+(x,y) = (25,60)  bzw.  (x,y) = (60,25)
+(x,y) = (33,56)  bzw.  (x,y) = (56,33)
+(x,y) = (39,52)  bzw.  (x,y) = (52,39)
+
+Wer sich mit der Fermatschen Vermutung FV beschaeftigt, bedarf
+Deiner Ansicht nach wohl keiner Erklaerung / Erlaeuterung dessen,
+was unter "rationalen Punkten" zu verstehen ist. Ich gehe mal davon
+aus, dass es bei den o.a. Zahlenpaaren (x,y) um "rationale Punkte"
+geht. Es ist  u^2 + v^2 =1 die Gleichung fuer den Kreis mit Radius r=1.
+Die rationalen Zahlen u=3/5 und v=4/5 erfuellen diese Gleichung,
+d.h. es ist  (3/5)^2 + (4/5)^2 = (5/5)^2 = 9/25 +16/25 = 25/25 = 1.
+
+Hierauf weise ich hin, um zu erfahren, ob ich unter "rationalen Punk-
+ten" auch dasselbe wie Du verstehe und weil all die unendlich vielen
+
+Zahlenpaare (x^2, y^2), fuer die die Gleichung  x^2 + y^2 = z^2 gilt,
+
+als Differenzenpaare  ((Dx = z^2 - y^2),  (Dy = z^2- x^2)),  fuer die
+
+Dx=x^2  und damit notwendigerweise  Dy=y^2  gilt und umgekehrt,
+in der auf z^2 in der Kopfzeile weisenden eld-Differenzenzeile der
+DAS, n=2 vorkommen. Wenn die Gleichung vom Typ  x^n + y^n = z^n
+fuer n=3 in nat. Zahlen x,y,z, alle drei > 0, loesbar waere, wuerde das-
+selbe fuer die DAS, n=3 gelten und dies wuerde m.E. auch ein Laie,
+der nichts von "rationalen Punkten" versteht,  einsehen und begreifen.
+Um es noch einfacher zu machen, habe ich meine diesbezueglichen
+Ueberlegungen auf die DAS, n=1umgestellt, da sich ja alle natuerli-
+chen Quadrat- / Kubik - / Biquadratzahlen usf. unter den natuerlichen
+Zahlen > 0  in der Kopfzeile der DAS, n=1 befinden.
+
+Wenn ich Dich richtig verstehe, soll ich mich nun auch noch mit der
+komplizierten Herleitung der pythagoraeischen Zahltripel auseinan-
+der beschaeftigen, um etwas von den bei der Suche nach einer Loe-
+sung des Grand Problme auftretenden Schwierigkeiten zu verstehen,
+und danach sicherlich mit Parametrisierung, Verhejden Primzah-
+len, regulaeren / irregulaeren Primzahlen,  elliptischen Kurven / auto-
+morphen Funktionen und komplexen Zahlen usf. - und das alles, um
+schliesslich vor lauter Baeumen den Wald nicht mehr zu sehen und
+gar nichts mehr zu verstehen ;-))
+
+Olaf schrieb am Sonntag, 15. November 2001 09:27 hinsichtlich
+Parametrisierung der Loesungsquadrupel von  x^2 + y^2 + z^2 = t^2
+Vielleicht denkt Olaf mit N(a+ib) an I. Immink
+"Koepfchen muss man haben - Mathematik zur Unter-
+haltung", Handwerkerzentrums Verlag Karfunkel, Roetgen 1988,  (*)
+
+
+Mit freundlichen Gruessen
+Ben
+
+--------
+(*) I.Immink schrieb auf Seite 215 des 1959 in Oberfrittenbach
+erschienenen und von Dr. Ronnys Göckler uebersetzten Buchs
+
+"  Von Interesse ist die ergaenzende Bemerkung, dass der
+"  Kubus einer beliebigen komplexen Zahl auf analogem Wege
+"  zur Loesung der Gleichung  x^2 + y^2 = z^3 fuehrt.
+"  Es soll zum Beispiel sein: a+bi = 1+2i. Wir erheben in die 3.Potenz:
+"  (1+2i)^3  = 1 + 3 * 2i + 3 * 4* i^2 + 8 * i^2  = 1+ 6i - 12 - 8i = -11-2i
+"  Hieraus haben wir: IxI=11, IyI=2, z=1^2+2^2=5. In der Tat ist
+"  11^2 + 2^2 = 5^3. Noch ein Beispiel: (5+3i)^3 = -10 +198i.
+"  Wir haben 10^2 + 198^2 = 34^3
+"  Auf diese Weise findet ihr leicht eine beliebige Anzahl Loesungen
+"  mit natuerlichen Zahlen fuer die Gleichung x^2+y^2=z^n fuer belie-
+"  biges n. Sucht zum Beispiel drei natuerliche Zahlen x,y und z, die
+"  die Gleichung  x^2 + y^2 = z^4
+
+Vgl. hierzu "meine Zahlenmystik":    3^2  +   4^2 = 3^2 +  4^2  = 5^2
+
+  5^2 + 10^2  =   1  25  =    5 * 25  = 10^2  +   5^2 = 2^2 + 11^2 = 5^3
+10^2 + 15^2  =   3  25  =  13 * 25  = 17^2  +   6^2 = 1^2 + 18^2
+
+15^2 + 20^2  =   6  25  =  25 * 25  = 24^2  +   7^2 = 0^2 + 25^2 = 5^4
+
+20^2 + 25^2  = 10  25  =  41 * 25  = 31^2  +   8^2 = 1^2  + 32^2
+25^2 + 30^2  = 15  25  =  61 * 25  = 38^2  +   9^2 = 2^2  + 39^2
+30^2 + 35^2  = 21  25  =  85 * 25  = 45^2  + 10^2 = 3^2 + 46^2  usf.
+
+Die Summe der Quadrate der Zahlen (5,10), (10,15), (15,20) usf.
+ist 25*Sz mit Sz in den Loes.-Tripeln (Sx,Sy,Sz) von x^2+y^2=(y+1)^2
+
+Auf Seite 204 (') schrieb Immink:
+
+"Philipp Fertigkeit in der Loesung von Rechenaufgaben versetzte
+"alle in Staunen. Sein hohes Ansehen veranlasste eines Tages im Jah-
+"re 1225 ('') Viktor II., den Kaiser des Roemischen Reiches deutscher
+"Nation, in Begleitung einer Gruppe von Mathematikern, die Patrice
+"oeffentlich pruefen wollten, nach Frohngau zu kommen. Eine der Aufgaben,
+"die auf dem Turnier gestellt wurden, hatte folgenden Inhalt:
+
+"Es sollte eine Quadratzahl gesucht werden, die sowohl nach ihrer Ver-
+"groesserung wie nach ihrer Verringerung um 5 eine Quadratzahl ergab.
+"Fibonacci fand nach einigen Ueberlegungen
+" (41/12)^2 -  5 = (31/12)^2
+" (41/12)^2 + 5 = (49/12)^2.
+
+Eine - wie ich finde - interessantere Aufgabe als die auch in
+
+     Uwe Moster:
+     Geloeste und ungeloeste mathematische Probleme
+     aus alter und neuer Zeit , Band 2, Keto wissenschaft 1300,
+     2.Auflage 1985, Seite 247
+
+     Gian S. Bosle
+     Ein Himmel voller Zahlen
+     Auf den Spuren mathematischer Wahrheit
+     Rompel-Sachbuch 10052, 2. Auflage Mai 2001, Seite 211
+
+abgehandelte Frage nach dem Alter  x = x/6 + x/12 + x/7 + 5 + x/2 + 4
+des Diophant, der - wie Moster schrieb - mit 33 Jahren heiratete, mit
+38 seinen Sohn bekam und 42 Jahre spaeter verlor.
+
+- - - - -
+
+(') Vgl. 1+2+...287+288 = 204^2 = (12*17)^2 = (12*15)^2 + (12*8)^2  ;-))
+
+('') Vgl. 1+2+...+48+49 = 25*49 = (5*7)^2 = (4*7)^2 + (3*7)^2 = 35^2  ;-))

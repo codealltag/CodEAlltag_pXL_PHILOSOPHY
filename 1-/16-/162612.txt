@@ -1,0 +1,15 @@
+Diesen Beweis halte ich für falsch, weil er mit einem semantischen
+Trick arbeitet.
+Wer den zu beweisenden Satz liest, denkt natürlich an voneinander
+unabhängige Systeme und nicht an zwei Systeme, von denen das zweite
+seinen Programmfortgang nach dem Output des ersten richtet.
+Es geht auch einfacher: Das zweite System hält an, wenn ein VOP den
+Resetknopf drückt. Da das 1. System nicht weiß, ob der Resetknopf je
+gedrückt wird, kann es diese Frage nicht beantworten.
+
+Wenn man aber die Information dem 1. Computer eingibt und ihn nicht
+auf eine Ja - Nein - Entscheidung festlegt, dann wird er angeben, daß
+der 2. Computer anhält, wenn er das Weiterlaufen prognostiziert und
+umgekehrt.
+
+Gruss Viktor

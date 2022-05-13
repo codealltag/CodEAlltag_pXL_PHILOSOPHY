@@ -1,0 +1,58 @@
+Auch wenn die Paradoxie des Luegners einen im echten Leben nicht
+aufhalten wuerde, stellt sie ein altes Problem in der Logik dar.
+Ich will im folgenden ein kurzes Argument dafuer geben, warum der
+Luegner einen wenig beruehrt, und damit mE einen Hinweis auf den
+Ursprung des Problems geben.
+
+
+ " Dieser Satz ist falsch."
+
+Es gibt andere Formulierungen, doch ist diese die griffigste.
+
+Wenn man zwischen der Existenz einer Aussage - also, ob sie in den
+Raum geworfen wurde - und dem Glauben an eine Aussage unterscheidet,
+heisst der Satz soviel wie:
+
+ " Wenn dieser Satz geglaubt wird, dann wird auch seine Verneinung
+   geglaubt."
+
+Das Praedikat des Glaubens (Fuerwahrhaltens) sei B. Dann lautet der
+Satz des Luegners:
+
+   p : Bp -> B~p
+
+Fuer einen widerspruchsfreien Glauber gilt das Axiom
+
+   D : B~p -> ~Bp
+
+Aus p und D folgt per hpyothetischem Syllogismus:
+
+   Bp -> ~Bp
+
+In der Aussagenlogik gilt fuer jedes beliebige q:
+
+   (q->~q)->~q
+
+Damit folgt auch:
+
+   ~Bp.
+
+
+Ein widerspruchsfreier Glauber glaubt dem Godejohann beweisbar nicht.
+Wenn man sich vor Augen fuehrt, dass das nicht dasselbe ist, wie
+seine Verneinung zu glauben, erscheint der Beweis eher trivial.
+
+Wenn man diese Argumentation akzeptiert, liegt nahe, wieso dem
+Luegner nicht getraut wird, auch wenn ich nicht behaupte, dass
+Menschen in ihrer Ablehnung tatsaechlich diese Gedankenkette durch-
+laufen. Ferner wird klar, dass die technischen Probleme, die mit
+dem Luegner verbunden sind, erst dann entstehen, wenn man dem
+Luegner "erlaubt, direkt ueber den Glauben des Glaubers zu ent-
+scheiden", also nicht zwischen der Existenz einer Aussage und
+dem Glauben an sie getrennt wird.
+
+Bei dem Argument, dass ein widerspruchsfreier Glauber dem Luegner
+nicht glaubt, handelt es sich um eine Repost. Diesmal geht es mir
+aber vor allem um den letzten Absatz. Kommentare sind herzlich
+willkommen.
+   Ullrich

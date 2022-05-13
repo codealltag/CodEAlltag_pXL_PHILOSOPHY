@@ -1,0 +1,15 @@
+Schon a^1 ist nicht mehr in der üblichen Form (a*a*a*a...) mit n Faktoren
+zu schreiben. Sicher, a^1 ist a, aber man soll es ja als Produkt schreiben,
+a allein ist aber kein Produkt. Bleibt also nur a*1. Wenn man nun alle
+Potenzen in der gleichen optischen Form als Produkte schreiben will,
+kann man das so machen:
+
+a^n = a*....a*1
+a^3 = a*a*a*1
+a^2 = a*a*1
+a^1 = a*1
+a^0 = 1
+
+Optisch systematisch, jedes Stutzen der Potenz um 1 eleminiert ein "a*"
+
+Viele Größe, Eilert

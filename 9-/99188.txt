@@ -1,0 +1,13 @@
+Ganz einfach:
+Induktion bedeutet nicht eine Vorgelegte Folge könnte so weitergehen,
+sondern Du musst zeigen:
+Hat ein Objekt die Eigenschaft a so kommt sie allen Objekten einer Menge
+zu. Nicht umsonst sind Induktionsbeweise sehr schwierig und manchmal auch
+unmöglich. Mit Wahrscheinlichkeitsaussagen kommt man da nicht weit.
+
+Mit freundlichen Größen
+Björn Zoerner
+-- 
+ _,,,,,,_    "Ich bin nur der Experte                            ____
+ \| o|o|/    für höchst langweilige                             |o|o |
+ X| _|_|X    Gesteinsformationen."                             X|_|_ |X

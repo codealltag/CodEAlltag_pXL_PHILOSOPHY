@@ -1,0 +1,40 @@
+: > Ist also jemals eine Temperatur a beobachtbar? Was wird beobachtet?
+: Eine Temperatur ist niemals beobachtbar, allein Temperaturintervalle sind
+: es.
+
+Per Festlegung? Wie kann ich von etwas < x feststellen, wenn ich davon
+= x nicht feststellen kann?
+
+: P(Ereignis = x) ist fuer jede kontinuierliche Warscheinlichkeitsdichte
+: ueberall Null und damit fuer deren Charakterisierung unbrauchbar.
+
+Wer will den die Dichte damit charakterisieren? Es geht darum, ob
+Null-ereignisse moeglich sind, nicht ob sie charakteristisch sind.
+Uebrigens ist die Kontinuierlichkeit nicht notwendig.
+
+: Daher wird in der Literatur ueblicherweise P(Ereignis < x) betrachtet. Damit
+: ist die  Wahrscheinlichkeit das Integral ueber die Wahrscheinlichkeits-
+: dichte, bzw. die Wahrscheinlichkeitsdichte die Ableitung der Wahrschein-
+: lichkeit (siehe z.B. die Standardwerke von Wehrmann ueber Statistik und
+: Wahrscheinlichkeitstheorie).
+
+Kaese. Es braucht keine Dichte zu geben.
+
+: > Wozu brauchst du ueberhaupt die Dichte (bzgl des Lebesguemasses)?
+: > Vielleicht gibt es ja gar keine.
+: Bei wertkontinierlichen Modellen kommt man ohne nunmal nicht aus. Ob es
+: sowas tatsaechlich gibt, ist eine metaphysische Fragestellung.
+
+Ich komme ganz gut ohne Dichte aus. Andere ebenfalls. Muessen sie auch
+(siehe oben).
+
+Ich weiss ueberhaupt nicht, was das ganze Gerede von einer Dichte
+damit zu tun hat, dass Nullereignisse bei der Temperatur auftreten
+koennen. Die Ws-theorie verlangt nunmal, dass abzaehlbare Schnitte und
+Vereinigungen als Ereignisse zugelassen sind, Schon damit du
+ueberhaupt mit deiner Dichte kommen kannst, sonst macht das gar keinen
+Sinn. In dem Moment kriegst du aber auch Punkte als Ereignisse. An der
+Stelle musst du ansetzen.
+
+Schoene Gruesse,
+	Josef

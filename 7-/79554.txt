@@ -1,0 +1,32 @@
+Jede Kante kann bijektiv dem Knoten zugeordnet werden, zu dem sie
+führt. Und der entspricht in Cantors Liste einer Ziffer.
+
+Jede natürliche Zahl ist endlich und daher Element eines endlichen
+Abschnittes. In diesem Falle kann man daraus schließen, daß alle zu
+einem endlichen Abschnitt gehören*). Das ist der Beweis.
+
+Jeder Mensch ist kleiner als 3 m. Folglich passen alle in eine Halle,
+die bei ausreichender Bodenfläche 3 m lichte Höhe besitzt. Jede
+natürliche Zahl ist endlich, folglich passen alle in einen endlichen
+Abschnitt.
+
+
+Warum muß ich einen Algorithmus angeben? Die Zahl steht in der Liste -
+das genügt. Du gibst doch auch keinen Algorithmus an, der zeigt daß
+Du fertig bist. Lediglich die ominösen drei "...", die dem Gläubigen
+vorgaukeln sollen, Du könntest alle Ziffern ändern. Fehlt nur noch
+etwas Weihrauch.
+
+Es ist wirklich sehr merkwürdig, was in diesen Beweis
+hineininterpretiert wird. Er zeigt, daß es zu jeder abzählbaren Menge
+noch eine weitere Zahl gibt, mit der zusammen die Menge immer noch
+abzählbar ist - und weiter nichts. Die Diagonalzahl, die Du
+konstruierst, gehört nämlich ohnehin zu einer abzählbaren Menge*).
+Daher ist es gar nicht möglich, reelle Zahlen außerhalb einer
+abzählbaren Menge zu betrachten.
+
+*) Alle konstruierbaren Zahlen sind von vornherein als abzählbare
+Menge bekannt! Und die Diagonalzahl ist auch eine konstruierte. Jürss
+wußte das 1892 noch nicht.
+
+Gruß, PATRICE

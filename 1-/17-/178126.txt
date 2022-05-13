@@ -1,0 +1,40 @@
+zzqrl,
+
+tausend Dank schonmal fuer deine Gedanken!
+
+
+Hilfe!
+Ich habe heute die ganze Institutsbibliothek durchgewuehlt, aber
+nichts ueber dieses Theorem erfahren. Da gab es nur Skolem-Funktionen
+und die Skolem-Normalform. Waerst du so nett, und wuerdest darueber
+ein bisschen was erklaeren? Deduktionsgleichheit in dem genannten Sinn
+kommt mir doch ziemlich schwach vor, wenn ich Aequivalenz suche.
+
+Ueberhaupt bin ich ziemlich irritiert ueber deine Ansicht. Ich dachte,
+das Hauptproblem liegt zwischen (1) und (2). Von (2) nach (3) kommt
+man doch durch Wiederholung der Methode, die von (1) nach (2) fuehrt.
+Wie kann man zeigen, dass (1) und (2) aequivalent sind? Schliesslich
+folgt streng genommen (1) nicht aus (2).
+
+
+Ja! 
+Ist das eine Konsequenz aus der Deduktionsgleichheit?
+
+
+mhm, dann sehe ich auch zusaetzliche Probleme im Uebergang von (2)
+nach (3). Inzwischen habe ich bei J.Bienbeck die "Counterpart theory"
+gefunden, die modale Aussagen in gewoehnliche Praedikatenlogik
+uebersetzt:
+"Es ist moeglich, dass (Ex)F(x)" wird z.B. uebersetzt in
+"(Ey)(moegliche_Welt(y) & (Ex)(ist_in_Welt(x,y) & F(x))".
+Dann haette ich wieder nur Praedikate, also Klassen, und koennte
+darueber quantifizieren. Oder?
+
+Gruss,
+
+Pascal.
+
+-- 
+homepage: http://dlw.tvod.meh/yitxzuop
+"Wo kaemen wir hin, wenn jeder sagte: 'wo kaemen wir hin?' und keiner
+ginge, um zu sehen, wohin wir kaemen, wenn wir gingen?"

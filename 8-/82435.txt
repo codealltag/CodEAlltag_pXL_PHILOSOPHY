@@ -1,0 +1,66 @@
+Dabei ist D aber noch reichlich unbestimmt. Man kann nun (1) durch das
+folgende Axiomen-Schema ergänzen:
+
+	D("alpha",alpha).	(2)
+
+Aus (2) erhält man dann also z. B.:
+
+	D("Amicus",Amicus).
+
+(Der Name "Ulfert" bezeichnet Ulfert.)
+
+Aus (1) und (2) kann man schon zwei Grundeigenschafter der
+Identität/Gleichheit "ableiten":
+
+Reflexivität:
+
+Aus (2) erhalte ich das Theorem-Schema
+
+	D("alpha",alpha) & D("alpha",alpha).
+
+Und daraus durch Existenzeinf�hrung:
+
+	Ex(D("alpha",x) & D("alpha",x)).
+
+Also erhalte ich aus (1) das Theorem-Schema:
+
+	alpha = alpha.
+
+Symmetrie:
+
+Aus (1):
+
+	alpha = beta <-> Ex(D("alpha",x) & D("beta",x))
+	             <-> Ex(D("beta",x) & D("alpha",x))
+	             <-> beta = alpha.
+
+
+A.
+
+
+P.S.
+Eine Idee wäre also daher, als Axiom-Schema zu formulieren:
+
+	D("alpha",alpha)
+
+und die Identität/Gleichheit zu definieren (mit folgendem
+Definitions-Schema):
+
+	alpha = beta :<-> Ex(D("alpha",x) & D("beta",x)).
+
+Damit kann man immerhin schon die beiden Theorem-Schemata
+
+	alpha = alpha
+und
+	alpha = beta -> beta = alpha
+
+ableiten.
+
+Um die Transitivität gewinnen zu können, braucht man dann aber, wie es
+scheint, zusätzliche Axiome.
+
+
+--
+
+E-mail: 
+kigsln<nc>simple<bindestrich>line<punkt>de

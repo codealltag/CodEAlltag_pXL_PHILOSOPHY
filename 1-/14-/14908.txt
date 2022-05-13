@@ -1,0 +1,13 @@
+Es gibt auch eine nicht determinsitische Logik.
+Das hat nichts mit Logik zu tun, sondern wie man einen Operator 
+mathematisch definiert.
+In der Regel operiert ein Operator auf die Elemente _einer_ Menge.
+Für x_n und x_m  aus M:  (x_n <Operator> x_m)= Ergebnis auch in M
+Es ist aber durchaus möglich und solche Fälle gibt es in der Mathematik,  
+dass ein Operator nur auf ein Element einer Menge wirkt oder auf zwei 
+Elemente aus je zwei verschiedenen Mengen und das Ergebnis zu einer dritten 
+Menge gehört. 
+Auch gibt es neben der üblichen binären Logik (WAHR, FALSCH), multivalente 
+Logiken. 
+Alles also eine Frage der mathematischen Definition. Mit irgendwelchen 
+philosophischen Entitäten hat das nichts zu tun.

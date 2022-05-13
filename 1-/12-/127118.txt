@@ -1,0 +1,34 @@
+Der Witz bei dieser Schreibweise ist, dass NACH Einführung derselben,
+unmittelbar der Satz
+
+	x = y <-> Az(z e x <-> z e y)
+
+für beliebige Mengen x,y gilt. [Beweis: x = y <-> x = y. Nun kann "x =
+y" auf der rechten Seite durch sein Definiens ersetzt werden: x = y <->
+Az(z e x <-> z e y).]
+
+M.a.W. ":<->" ist hier also auch einfach recht "suggestiv". ;-)
+
+ähnlich bei der Definition von Objekten. Hier könnte man (analog)
+schreiben:
+
+	A := B u {B}.
+
+Dann hätte man sofort A = B u {B}.
+
+
+Lomanns/Essigkrug/Groht hätten in beiden Fällen geschrieben:
+
+	x = y =def Az(z e x <-> z e y)
+
+	A =def B u {B}.
+
+(oder ähnlich.) Das kann man natürlich auch, ist aber dann halt nicht so
+"suggestiv".
+
+[Und vor allem schlägt sich das "=def" in der ersten Definition ein
+wenig mit dem "=" ... Man hat dann ja _nicht_ (x = y) = Az(z e x <-> z e
+y), sondern, wie gesagt, x = y <-> Az(z e x <-> z e y).]
+
+
+F.

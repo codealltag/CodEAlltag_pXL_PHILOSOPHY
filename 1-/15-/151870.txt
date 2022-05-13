@@ -1,0 +1,5 @@
+Weil ich schreiben könnte:
+lim_{x \to \infty} e^{-x} =3D lim_{y \to \infty} e^{-y} =3D 0
+lim_{x \to \infty} e^{-x} =3D lim_{y \to \infty} e^{-y} =3D lim_{z \to
+\infty} e^{-z} =3D 0
+usf.

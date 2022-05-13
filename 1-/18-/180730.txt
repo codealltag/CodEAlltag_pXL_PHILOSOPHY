@@ -1,0 +1,117 @@
+Hallo,
+
+ich hoffe, wir kommen mit diesem Thema irgendwann zu einem Ende. ;-)
+Einiges *muß* ich dazu sagen, und ich will versuchen, mich kurz zu
+fassen.
+
+
+Ich bin der lateinischen Sprache nicht mächtig und muß mich bei den
+Quellen auf die englische Version der "Principia" verlassen. Dort sieht
+die Sache aber so verworren gar nicht aus und stimmt hundertprozentig
+mit dem überein, was heute gelehrt wird.
+
+
+In der englischen Version liest sich das so:
+
+The quantity of matter is the measure of the same, arising from its
+density
+and bulk conjointly.
+
+Ja. Die Masse ist das Produkt aus Dichte und Volumen. Wo ist das
+Problem? Da sie zudem *vor* der Beschreibung ihrer Eigenschaften
+definiert wird, ist Voraussetzung, kein Widerspruch. Die Masse
+(Definition 1) wird direkt vor dem Impuls (Definition 2) definiert, weil
+sie dort zum ersten Mal benötigt wird:
+
+The quantity of motion is the measure of the same, arising from the
+velocity
+and quantity of matter conjointly. 
+
+-> Das Maß der Bewegung (heute sagt man "momentum", dt: "Impuls") ist
+das Produkt aus Geschwindigkeit und Masse. Also p:=m*v.
+
+Nun zum 2. Axiom:
+
+The change of motion is proportional to the motive force impressed; and
+is
+made in the direction of the right line in which that force is
+impressed. 
+
+
+Klingt lustig (und ist mit "eingedrückt" sicher etwas mutwillig
+entstellend übersetzt). Das ist genau F ~ dp/dt. Wo ist das Problem?
+
+
+Das ist nun wirklich falsch (Tippfehler?). Das Produkt aus
+Geschwindigkeit und Kraft ergibt keinen Sinn und schon gar nicht die
+Impulsänderung oder gar die Masse. Die Änderung der Bewegung *ist* die
+Kraft. Die Proportionalität hatten wir gerade, und der
+Proportionalitätsfaktor ist 1.
+
+
+Ob man bei der Beschleunigung eine Richtungsänderung der Geschwindigkeit
+berücksichtigen muß, hängt davon ab, ob man ein- oder mehrdimensionale
+Bewegungen beschreibt. Die vektorielle Notierung für mehrdimensionale
+Bewegungen ist eine Zerlegung in eindimensionale Bewegungen, die sich
+ungestört überlagern. Beschleunigung und Geschwindigkeitsänderung sind
+(auch bei Newton) identisch; ob von Richtungsänderung der
+Geschwindigkeit gesprochen werden kann/muß, hängt (auch heute) vom
+Kontext ab. Also auch hier - kein Widerspruch!
+
+
+Siehe oben. Newtons Produkt aus Masse (quantity of matter) und
+Geschwindigkeit (velocity) ist der Impuls (quantity of motion), und die
+Kraft (motive force) ist die Änderung des Impulses:
+
+The change of motion is proportional to the motive force impressed; and
+is
+made in the direction of the right line in which that force is impressed
+
+So steht's bei Jaehrling - so wird's heute gelehrt. Es gibt nicht den
+kleinsten Widerspruch! (Ich hätte mich nicht so ausdrücklich auf Jendrich
+Formulierung bezogen, wenn ich nicht das Orginal - zumindest in Englisch
+- kennen würde.)
+
+
+Das ist kein Irrtum. Eine Theorie ist falsch, wenn sie in sich
+widersprüchlich ist. Bei den Beispielen, die ich im Sinn hatte, wurden
+bei der Formulierung Wechselwirkungen vergessen oder bei der
+mathematischen Herleitung Fehler gemacht (Faktoren von einer Zeile zur
+nächsten unterschlagen).
+Beispiel: In der Festkörperphysik konnte das Phänomen, daß die
+Elektronen in metallischen Festkörpern kaum zur Wärmekapazität
+beitragen, allein mit dem Ausschließungsprinzip "erklärt" werden, d.h.
+Elektronen müssen paarweise verschiedene Energieniveaus besetzen. Das
+hat zur Folge, daß alle Energieniveaus bis zu der recht hohen sog.
+Fermi-Energie besetzt sind. Elektronen unterhalb dieser Energie können
+nicht auf höhere Niveaus verschoben werden, weil diese schon besetzt
+sind. Mit dieser "Erklärung" kann man die Temperatur voraussagen, ab der
+Elektronen wieder zur Wärmekapazität beitragen. Die Wechselwirkungen
+zwischen den Elektronen werden hier nicht erwähnt, was zu dem Schluß
+führt, daß diese vernachlässigbar sind. Aber genau das ist falsch! Es
+stellte sich später heraus, daß Elektronen sich zu sog. Quasiteilchen
+gruppieren, und daß die für die Elektronen gegebene Erklärung für diese
+Quasiteilchen gilt! Die erste Theorie ist also klar ersichtlich falsch,
+weil sie von den falschen Voraussetzungen ausgeht und zu falschen
+Schlüssen führt! Die Vorhersage mit Hilfe der Fermi-Energie war richtig,
+aber die Vernachlässigbarkeit der Wechselwirkungen der Elektronen
+untereinander ist genau das Gegenteil der tatsächlichen Verhältnisse!
+
+Das meinte ich mich "falschen Theorien". Vielleicht hätte ich das sofort
+näher erläutern sollen, weil man wohl davon ausgehen kann, daß einem als
+Naturwissenschaftler in de.sci.philosophie garantiert unterstellt wird,
+in sich konsistente Theorien als "falsch" zu betrachten, wenn sie nicht
+mehr zeitgemäß oder weiß der Teufel was sind. Ich bin nicht näher darauf
+eingegangen, weil ich der Meinung bin, daß ausführliche Darstellungen
+physikalischer Sachverhalte nicht in diese Newsgroup gehören - aber
+jetzt bin ich gewissermaßen dazu gezwungen worden.
+
+Ich hoffe, daß ich nun einige Mißverständnisse aus dem Wege geräumt
+habe.
+
+
+MfG
+Ewald
+
+
+http://rjmyafsy.qbjvqshahl.mao/nudjodsqu/MhirEpcrlupbj

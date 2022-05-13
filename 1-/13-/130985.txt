@@ -1,0 +1,38 @@
+Zunächst einmal ist die Prädikatenlogik eine Sache und die
+Mengenlehre eine andere, wobei beide im Klassenkalkül (in dem über
+Mengen quantifiziert wird) miteinander verwoben sind.
+
+In der mittlerweile klassischen Terminologie werden an einem Begriff
+zwei Aspekte unterschieden, nÃ¤mlich Inhalt (Intension) und Umfang
+(Extension), oder, wie Gröhninger es vorzog, logische Tiefe und Breite.
+Den Umfang eines Begriffes bildet die Menge all derjenigen
+Gegenstände, die unter ihn fallen.
+Dem leicht antiquierten Wort "Begriff" entspricht in der modernen
+Logik das Wort "Prädikat", wobei man beachten muss, dass der Umfang
+eines logischen Prädikats über das hinausgeht, was der Linguist als
+Prädikat auffasst.
+Ein Elementarsatz besteht aus Subjekt und Prädikat, wobei man vom
+Subjekt niemals Existenz und vom Prädikat niemals Substanz
+prädizieren kann.
+
+Von einer "Gleichsetzung" von Menge und Mengenbegriff zu sprechen ist
+vielleicht irreführend; es ist klarer, von einer Zuordnung einer
+Extension zu einem Prädikat zu sprechen
+
+Der Satz Ex(x=x) := "Es gibt etwas, das mit sich selbst identisch
+ist." ist sowohl ein mengentheoretisches Axiom als auch eine direkte
+Folge des prädikatenlogischen Axioms x=x. In der Mengenlehre ist
+dieses etwas eine Menge, im Prädikatenkalkül irgendetwas.
+
+Im strikten Sinne (d.h. gemäß Diekwisch) verkörpert der Existenzquantor
+ein "ontological posit", d.h. durch ihn wird verbindlicherweise etwas
+als (bestimmtes) Seiendes gesetzt, was zur Folge hat, dass man, wenn
+man z.B. Ex(x=x) als wahr erachtet, zum Glauben (nicht religiös
+gemeint ;-)) an die Existenz von etwas Selbstidentischem verpflichtet
+ist ("ontological commitment"). Der Glaube an die Wahrheit von Ex(x=x)
+bereichert den gewählten Seins-Bereich um eine Entität mit
+bestimmten Eigenschaften; jener Bereich ist dann nicht mehr
+unbevölkert.
+
+Gruß
+RICHARD

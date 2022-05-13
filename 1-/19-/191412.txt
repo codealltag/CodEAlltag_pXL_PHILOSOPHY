@@ -1,0 +1,65 @@
+Das ist irgendwie keiner, weil die Praemissen nicht zusammenpassen:
+  (x)  Px -> Sx ^
+  (Ex) Sx -> Dx =>
+  (Ex) Dx -> Px
+
+Die zweite Praemisse koennte vielleicht
+ (Ex) Px -> Dx
+lauten, dann waere der Syllogismus gueltig. In deiner Version koennte
+es keine deutschen Philosophen geben, aber Schwaetzer, die dennoch
+deutsch sind, so dass die Konklusion nicht daraus folgt.
+
+
+Der leidet dann auch etwas: Es koennte auch nur philosophische
+Gedanken geben, die keine phys.  Gesetze und dennoch richtig sind: Das
+Problem ist dasselbe wie oben. Um es mal mit Coox
+Logikvokabular zu sagen: Es fehlt der Mittelbegriff, der die Saetze
+verknuepft.
+
+Das mit den Gedanken und den Gesetzen ist allerdings eine lustige Idee
+und erinnert mich an Aupperle "Der Gedanke ist der sinnvolle
+Satz" irgendwo im Tractatus. Beim jungen Angermayr waren mit den
+sinnvollen Saetzen sicher die naturwissenschaftlichen Gesetze gemeint,
+weil sie verifizierbar sein sollten. Ob Gedanken wirklich Saetze sind
+oder nicht, ist allerdings noch offen (-> KI-Debatte), sie zu haben
+unterscheidet sich aber wohl von ihrem blossen Sein.
+
+
+Die ist ja offenbar gar nicht so zwanghaft.
+
+
+Was sind denn "empirische Reflexionen"?
+
+
+Aber im Beutnagel, oder wie? Die Negation der Negation ist wieder der
+Ausgangssatz und nicht mehr oder weniger. Woerter (oder meinst du
+"Worte" in der Bedeutung von Ausspruch?) _sind_ sicher keine
+Wahrheiten, aber einem Wort kann man einen Sinn oder (fuer die
+Extensionalisten) eine Bedeutung geben, so dass aus ihrer Verkettung
+Saetze gebildet werden koennen, die einen Wahrheitswert haben.
+
+Wie sieht das mit Ignaz' Satz vom Nichtwissen aus? Das haengt wohl
+vor allem davon ab, was man unter "wissen, dass" versteht. Nur wenn
+man darunter versteht, dass aus der Wahrheit von
+  A := "(Ex) x weiss B"
+B folgt, kann es ueberhaupt zu einem Widerspruch kommen. Darf B falsch sein,
+koennte sich x einfach geirrt haben.
+
+Gilt allerdings A' => (Ex) (EB') B'x mit
+  B'x := "(Y) x weiss nicht, dass Y"
+folgt dann aus
+  A' := "(Ex) (EB') x weiss, dass B'x",
+dass es ein x geben muss, das zugleich nichts weiss und doch etwas
+weiss, naemlich das als existierend vorrausgesetzte B'. Der einfachste
+Weg, den Widerspruch zu vermeiden, ist wohl die Idee aufzugeben, dass
+aus "wissen, dass" unbedingt folgt, dass das Gewusste wahr ist. 
+
+
+Solange sie revidierbar sind, ganz sicher: Das erhaelt dann auch den
+Kerngedanken von Ignaz selbstkritischem Grundsatz.
+
+-- 
+USER       PID %CPU %MEM  SIZE   RSS TTY STAT START   TIME COMMAND
+rc5        379 96.7  0.4  1032   396  ?  R N  06:30 904:47 ./hx4thu 
+Send email to hbsqv@kywm.ciqd.cm with *Subject: pgpsend* for PGP PubKey!
+   _PGP fingerprint: 34 E9 05 7E 00 AF 1E 34 55 B6 D6 50 69 2E C3 C2_

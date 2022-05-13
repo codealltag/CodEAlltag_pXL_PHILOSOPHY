@@ -1,0 +1,59 @@
+Das kann ich Dir nicht beantworten, da ich
+nicht weiss, was eine Summe von Ereignissen
+ist.
+
+Aber ich kann eine semi-operationelle Beschrei-
+bung des Zustandsbegriffes anbieten. Ich gehe
+mal davon aus, dass wir irgendwie ein (mikro-
+oder makroskopisches) "System" identifiziert
+haben, dass wir auf verschiedene Weise expe-
+rimentell praeparieren und von der Umwelt
+isolieren koennen. EinZustand des Systems
+waere dann gegeben als eine Klasse aller moeg-
+lichen Praeparationsverfahren, die aequivalent
+sind in dem Sinne, dass das System nach der
+Praeparation je "dasselbe" Verhalten zeigt.
+Einem Zustand in diesem Sinne kann man ein
+mathematisches Objekt (fuer den Fachmenschen:
+einen normierten positiven Spurklasseoperator
+auf einem Hilbertraum) zuordnen. Man stellt
+nun fest, dass bei isolierter Entwicklung
+des Systems der Zustand zu einem Zeitpunkt
+eindeutig durch den Zustand zu einem frueheren
+Zeitpunkt bestimmt ist, das System sich also
+in diesem Sinne deterministisch verhaelt.
+
+
+Nein, weil das Ergebnis einer Messung nicht nur
+vom Systemzustand, sondern auch vom Messgeraet
+abhaengt. Also muesste man auch das Messgeraet
+mit dem urspruenglichen System zu einem neuen
+Gesamtsystem zusammenfassen, um den Vorgang
+deterministisch zu beschreiben. Das Messgeraet
+muss wiederum abgelesen werden, z.B. von einem
+weiteren Messgeraet oder einem Beobachter, usw.
+Ultimativ haengt in dieser Kette irgendwo ein
+makroskopisches System, dass so stark an die
+Umwelt gekoppelt ist, dass die Gesamtsystemgroesse,
+die zu einer deterministischen Beschreibung
+erforderlich waere, praktisch mit Lichtgeschwin-
+digkeit waechst, sodass wir ueber dessen Frei-
+heitsgrade keine Kontrolle mehr haben koennen.
+
+<snip>
+
+Vielleicht formulierst Du hier noch einmal
+moeglichst genau die zu entscheidende Frage.
+
+Es gibt sicher ein indeterministisches Element,
+naemlich letztendlich ist in der QM unentscheid-
+bar, was der Beobachter wahrnimmt. Leider ist
+diese Wahrnehmung selbst nichts objektiv exis-
+tierendes; von _aussen_ ist naemlich jeder Beob-
+achter bloss ein weiteres System, das im Prinzip
+rein quantenmechanisch beschreibbar sein sollte
+und daher deterministisch ist.
+
+Gruss,
+-- 
+Sébastien Gatena

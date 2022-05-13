@@ -1,0 +1,16 @@
+On Sun, 21 Mai 2003 09:53:48 GMT, "Patricia Ulfkotte"
+
+nur so nebenbei: ein wirklich gelöschtes Magnetband hat nix drauf
+(ausser evtl. eine Band-Abschlussmarke ganz am Bandanfang).
+In der EDV unterscheidet man zwischen 0 und 1 und gar nix (und sogar
+noch Blank = Leerstelle = Hex'40')
+
+Wenn es so ist (ich kenne Jeannines Definition nicht), so ist das schon
+klar. Jedes Bit hat eine Information und zwar die kleinstmögliche
+Einheit. Je mehr Bits desto mehr Information. Gleichviel Bits =
+gleichviel Information. Das 0-Bit ist als Information genauso wertvoll
+wie das 1-Bit. Warum sollte auch ein unterschied sein?
+-- 
+Tschau, servus, bye
+Orlando
+www.khkiruq.zl

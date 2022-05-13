@@ -1,0 +1,29 @@
+Lars Ryl <rvdzsk.nnnrku@pcx.us> schrieb in im Newsbeitrag:
+42cqgvyhs0.zjb@xgbpwpmt.rmorx.gu...
+
+SNIP
+
+
+SNIP
+
+
+Ich stimme Ihnen zu!
+Ich habe modallogische Formalisierungen des Arguments untersucht und
+schließe mich Ihrer Deutung an:
+
+1. N((Ax)(RHAPSODEx > DICHTERDEUTERx))
+2. ~M((Ex)(DICHTERDEUTERx & ~DICHTERVERSTEHENDx))
+conclusio
+3. ~M((Ex)(RHAPSODEx & ~ DICHTERVERSTEHENDx))
+
+In dieser Formalisierung setzt das Argument kein spezielles modallogisches
+System voraus.
+
+(Ich habe - natürlich - zuerst versucht, den dritten Satz in Voits Text
+[~M((Ex)(DICHTERDEUTERx & ~DICHTERVERSTEHENDx))] als conclusio zu beweisen.
+Das erfordert aber, den zweiten Satz in Voits Text als
+[N((Ax)(DICHTERDEUTERx > RHAPSODEx))] zu formalisieren - und das läßt sich
+dem Text nicht entnehmen.)
+
+Mit freundlichen Größen
+Bruno Benasch

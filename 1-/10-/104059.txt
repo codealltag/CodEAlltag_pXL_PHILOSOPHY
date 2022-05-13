@@ -1,0 +1,33 @@
+Wenn man nicht darauf beharrt, n u r "primitive rules" zu verwenden,
+sondern auch frühere Ergebnisse in Form von sog. "abgeleiteten Regeln"
+zulässt, kann man allerdings den Beweis _auch im Rahmen eines Systems
+des natürlichen Schließens etwas kompakter führen:
+
+   1   (1) ~(P v ~P)        A
+   1   (2) ~P & ~~P         1 SI "DeMorgan"
+       (3) ~~(P v ~P)       2 RAA
+       (4) P v ~P           3 DN
+
+Wenn man nun auch noch die folgende abgeleitete Regel einführt:
+
+(RAA*)	    [~A]
+	     :
+	   B & ~B
+	   ------
+	     A
+
+Dann kann man noch kürzer schreiben:
+
+   1   (1) ~(P v ~P)        A
+   1   (2) ~P & ~~P         1 SI "DeMorgan"
+       (3) P v ~P           2 RAA*
+
+Das ist auch schon ganz nett.
+
+
+A.
+
+
+P.S.
+Tatsächlich folgt der letzte Beweis _derselben_ Beweisidee, die auch im
+Tableau-Beweis des Theorems umgesetzt ist.

@@ -1,0 +1,201 @@
+Schön.
+
+
+(1) Wenn du natürliche Zahlen unbedingt (analog der Konstruktion im
+Standardmodell) als Mengen auffassen willst, dann sind dies
+(bis auf 1) keine einelementigen Teilmengen, sondern
+eine leere, eine einelementige, eine 2elementige, etc.
+
+(2) Es gibt allerdings eine kanonische Injektion
+
+    N  --->  Pot(N)
+    n  |-->  {n},
+
+deren Bildmenge genau die Menge aller einelementigen
+Teilmengen von N ist.
+
+
+Wenn du (1) meinst, stimmt dies aufgrund der speziellen
+Struktur von N.
+Bei (2) ist N nur die Vereinigungsmenge von N.
+
+
+Dies gilt nur bei Betrachtung (1).
+
+
+Dies liegt an der speziellen Struktur von N (im Standard-Modell).
+Wenn du dir stattdessen nur die Peano-Axiom-Festlegung ansiehst
+(also die Identität {0,1,2,3} = 4 ignorierst), kannst du die
+einzelnen Zahlen nicht als Teilmengen von N auffassen.
+
+Jedenfalls gilt auch im ersten Fall: Die einelementigen
+Teilmengen von N sind {n}, die Menge  n  ist nur für
+n=1 einelementig (aber _beides_ sind Teilmengen _und_ Elemente
+von N und Pot(N)).
+
+
+Allgemein (also ohne Betrachtung des speziellen Modells für N)
+sollte man für die einelementigen Teilmengen der Menge (also die
+Elemente der Potenzmenge) die {n}-Schreibweise verwenden.
+
+Dagegen ist {N} eine einelementige Teilmenge von Pot(N),
+hingegen kein Element von Pot(N).
+N ist eine (abzählbar unendliche) Teilmenge von N, damit
+ein Element von Pot(N).
+
+
+Ich versuche, die entsprechenden Korrekturen vorzunehmen.
+
+
+(Das ist jedenfalls richtig formuliert und auch eine Teilmenge
+von Pot(N).)
+
+
+Du meintest bestimmt:
+
+T_1 := { {1}, {2}, {3}, ..., N\{1}, N\{2}, N\{3}, ...}
+a) T_1 ist die Vereinigung der Menge aller einelementigen
+   Teilmengen { {1}, {2}, {3}, ...} und der Menge ihrer
+   Komplementärmengen { N\{1}, N\{2}, N\{3}, ... }.
+b) T_1 ist die Menge aller einelementigen Mengen und
+   ihrer Komplementärmengen.
+   (also T_1 = { X in Pot(N) | |X|=1 oder |N\X| = 1 }
+
+
+Die Formel ist richtig, allerdings würde ich den Text wie oben umschreiben.
+
+
+Dies stimmt.
+
+
+Richtig.
+
+
+Die Formulierung sollte wie oben geändert werden. ("Vereinigung der
+Menge aller dreielementigen Teilmengen und der Menge derer Komplementärmengen").
+
+
+Richtig.
+
+
+Richtig.
+
+
+Falsch. Soll ich dich auffordern, diesen Satz zu beweisen, oder
+genügt dir, dass etwa die Menge aller Primzahlen (oder die Menge
+aller geraden Zahlen, aller durch 3 Teilbaren Zahlen, etc.),
+kurz: alle unendlichen Teilmengen, die auch unendliche
+Komplementärmengen haben (und dass sind eine ganze Menge)
+in keinem der T_k, somit nicht in V enthalten sind?
+
+
+Die Menge V ist abzählbar (unendlich), das stimmt.
+Allerdings ist V nur die Menge der endlichen und
+ko-endlichen Mengen.
+
+
+Damals hattest du nur die endlichen Teilmengen
+(was ja abzählbar viele sind) betrachtet.
+
+Jetzt hast du zusätzlich noch die ko-endlichen Teilmengen
+(also alle Teilmengen, die eine endliche Komplementärmenge
+haben), und
+
+    V = End(N) + CoEnd(N)
+
+ist immer noch abzählbar.
+
+Du meinst, die koendlichen Mengen würden irgendwann
+am Ende in deiner Aufzählung sowieso kommen -
+dies geht aber davon aus, dass diese Aufzählung ein
+Ende hat.
+Die nicht-endlichen-nicht-koendlichen Teilmengen erwischst
+du aber trotzdem nicht, und Pot(N) \ V ist immer noch
+überabzählbar.
+
+
+Dies ist aufgrund deiner Konstruktion der T_k der Fall,
+dazu benötigst du kein Axiom.
+Außerdem ist es nicht notwendig.
+
+Trotzdem: kannst du dein Extensionalitätsaxiom einmal
+hier posten?
+
+
+Hier hast du allerdings wieder nur die
+endlichen 0-1-Folgen (die ja die natürlichen
+Zahlen repräsentieren) aufgezählt.
+Diese sind natürlich isomorph zur Menge der
+0-1-Folgen, die höchstens endlich viele Einsen
+enthalten.
+
+
+Gut. Du hast eine Nachfolgerelation zwischen den 0-1-Folgen
+Definiert. Damit erreichst du (von 0 beginnend) allerdings
+nur diejenigen Folgen, die höchstens endlich viele Einsen
+haben, also am "Anfang" nur Nullen.
+
+
+Gut.
+
+
+Die natürlichen Zahlen entsprechen denjenigen 0-1-Folgen,
+die nur endlich viele Einsen enthalten.
+
+
+Und dieses Element bleibt auch erhalten.
+
+
+Richtig.
+
+
+Dies ist nicht richtig.
+D enthält für jede natürliche Zahl k die Zahl 2^k.
+Dies ist für jede natürliche Zahl ein Produkt von
+k Zweien, also endlich vielen.
+
+Summenbildung in den natürlichen Zahlen (und auch
+in allen anderen üblichen Rechenbereichen) ist zunächst
+nur für Summen aus zwei Zahlen definiert.
+Wegen des Assoziativgesetzes kann man diese Definition auf
+Summen von je endlich vielen Summanden erweitern.
+
+Unendliche Summen gibt es nicht.
+
+[ In den reellen (und komplexen) Zahlen gibt es
+  darüber hinaus auch Reihen ("unendliche Summen"),
+  die allerdings als Grenzwert der Partialsummenfolge
+  (also einer Folge von "endlichen Summmen") definiert
+  sind, dessen Existenz erst nachgewiesen werden muss.
+
+  Die Reihe 2^0 + 2^1 + 2^2 + ... hat jedenfalls keinen
+  reellen Grenzwert, also ist dies erst recht keine
+  natürliche Zahl.]
+
+
+Pot(D \ {2^0}) ist eine Teilmenge von Pot(D).
+Wolltest du das hiermit sagen?
+
+
+Diese Folgerung ist mir jetzt nicht klar.
+
+
+Eine Teilmenge von Pot(D) (nämlich diejenige endlichen Teilmengen von D)
+lässt sich bijektiv auf N abbilden. Dies ist die übliche
+Binärdarstellung der natürlichen Zahlen.
+Du kannst natürlich auch jede andere abzählbare unendliche Teilmenge
+von Pot(D) bijektiv auf N abbilden. Dass dies mit ganz Pot(D)
+möglich ist, den Nachweis bist du uns bisher schuldig geblieben.
+
+Wenn es möglich wäre, hättest du einen Widerspruch gefunden, denn
+nach der üblichen Rechnung ist Pot(D) überabzählbar.
+
+
+Mit dieser Nachfolgerelation erreichst du, wie oben geschildert,
+nur eine abzählbare Teilmenge von Pot(D) bzw. F.
+
+
+Ich bin der Meinung, genug Fehler im Beweis gezeigt zu haben,
+so dass diese Folgerung dann natürlich nicht gilt.
+
+Luc

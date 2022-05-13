@@ -1,0 +1,106 @@
+Moin Karsten,
+
+fassen wir kurz zusammen:
+
+
+Wir haben nun Pot(D) =3D E(D) u U(D), wobei E(D) die Menge aller endliche=
+n
+Teilmengen von D und U(D) die Menge aller unendlichen Teilmengen von D
+sei. Du hast bisher gezeigt:
+E(D) ist abzählbar.
+
+Du behauptest nun, U(D) sei ebenfalls abzählbar, weil die Vereinigung
+abzählbar vieler abzählbar unendlicher Mengen wieder abzählbar ist.=
+ Mit
+anderen Worten: "U(D) ist abzählbar, weil U(D) abzählbar ist".
+
+Sorry Karsten, das Argument können wir nicht gelten lassen. ;)
+
+Es ist ja gerade der Witz, dass U(D) nicht abzählbar ist. Da Du D so
+schön gewählt hast, ist eine Bijektion von Pot(D) in die Menge der
+0,1-Folgen einfach zu bilden, in dem jedes Vorhandensein einer
+Zweierpotenz mit 1 und sonst mit 0 gekennzeichnet wird. Von der Menge
+der 0,1-Folgen wissen wir, dass sie überabzählbar ist.
+
+
+Dazu musst Du eine Bijektion von Pot(D) nach IN finden.
+
+
+Welche Abbildungen existieren?
+Es interessieren nur Bijektionen.
+
+
+Das ist richtig.
+
+
+Diese Schlussfolgerung entbehrt jeder Mathematik und Logik.
+
+
+Jeder Summend kann angegeben werden, aber nicht alle. Dieser scheinbar
+paradoxe Unterschied zwischen "jeder" und "alle" kannst Du offenbar
+nicht begreifen. Du kannst _jede_ natürliche Zahl angeben, weil jede
+natürliche Zahl endlich ist, aber Du kannst nicht _alle_ natürlichen
+Zahlen angeben, weil die Menge der natürlichen Zahlen nicht endlich ist=
+=2E
+
+
+Auch falsch!
+Die Summe kann nicht genannt werden, weil sie nicht existiert. Die
+unendliche Summe ist keine natürliche Zahl, keine rationale oder reelle=
+
+Zahl oder sonst irgendein Element einer Zahlenmenge.
+
+
+Genaugenommen gibt es keine unendlichen Summen. Die Aufsummierung bis oo
+ist nichts weiter als der Grenzwert von Summenfolgen, deren Existenz
+explizit nachgewiesen werden muss.
+
+
+Satz:
+   Jede abzählbare Potenzmenge ist endlich.
+
+Beweis:
+Für eine beliebige Menge X gilt |Pot(X)| > |X|. Ist X endlich, so auch
+Pot(X), genau: |Pot(X)|=3D2^n, mit n:=3D|X|. Ist X unendlich, so ist Pot(=
+X)
+wegen obiger Beziehung schon überabzählbar.
+
+Und es gilt schon gar nicht:
+
+
+Denn das hiesse: Die Potenzmenge der Mange aller Zehnerpotenzen ist
+endlich.
+
+Wenn Du es so willst, Karsten: "Die Menge der natürlichen Zahlen ist die=
+
+kleinste unendliche Menge".
+
+
+Diese Argumentation greift nur, wenn eine ueberabzählbare Menge doch nu=
+r
+abzählbar wäre.
+
+Ich kann verstehen, dass Du damit Probleme hast. Ich behaupte einfach
+mal, dass sich niemand eine überabzählbare Menge vorstellen kann. Es
+kann sich auch niemand eine abzählbar unendliche Menge vorstellen. In
+Wirklichkeit macht unser Gehirn einen "Knick", d.h. wir versuchen, die
+Unendlichkeit zu beugen und stellen uns astronomisch aberwitzige hohe
+Zahlen vor, die in jeder denkbaren Praxis irrelevant sind und somit für=
+
+uns das "Ende" der natürlichen Zahlen beschreiben.
+
+Wir verstehen dann irgendwann, dass z.B.
+
+12^77889999999999^ack(ack(2567642734023429084,234792349237428934),ack(42,=
+7438829))
+
+wirklich riesengroß, aber endlich ist, d.h. selbst wenn irgendjemand
+soviel Schäfchen gezählt hat, so hat er die meisten noch vor sich.
+
+"Und das soll immer noch nicht reichen?"
+
+Die Mathematik ist da unbarmherzig uns sagt "Nein, die Menge der
+natürlichen Zahlen reicht nicht aus, um jede unendliche Menge zu
+beschreiben".
+
+Gernot

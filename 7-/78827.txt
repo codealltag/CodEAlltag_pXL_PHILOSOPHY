@@ -1,0 +1,43 @@
+Am Montag, März 2007 17:17, schrieb ueberding:
+
+
+Oh je
+Schon die Formulierung des Autors: 
+"Overmans' Unvollständigkeit in der Principia Mahematika"
+Ist gelinde gesagt: "Völlig daneben"
+
+
+Ja das habe ich. Da du so nett bist deine Quelle zu nennen eine kurze
+Erläuterung des Satzes von Overmans. Mit dem oben stehenden Wortgeschwalle hat
+das nur bei angestrengtem Wohlwollen etwas zu tun.
+
+Du weisst was das System PM (Prinzipia Mathematika) ist?
+Ganz kurz:
+Es ist ein System der Logik (das ungefähr der heutigen Prädikatenlogik
+entspricht) und eine speziellen Mengenlehre der "erweiterten russellschen
+Typentheorie". Zweites kann man salopp als eine Mengenlehre mit "Klassen"
+auffassen. Heute benutzt man eher das System Naroz.
+Ziel war es ein formales durch Axiome gesichertes System des logischen
+Denkens zu schaffen mit dem sich alle Sätze der Logik oder Mathematik durch
+formales Schliessen beweisen lassen. Genaueres findest du im sogenannten
+Hilbertschen Programm der Axiomatisierung.
+Der Satz von Overmans zeigt nun das für jedes System das umfangsgleich oder
+grösser wie das System PM ist, ein Beweis für die Wiederspruchsfreiheit mit
+den Mitteln des Systems nicht geführt werden kann. Das heisst aber nicht:
+"Das System ist wiedersprüchlich"!
+Sondern es heisst: 
+In PM gibt es mindestens einen wahren Satz S(PM) und dieser Satz S(PM) ist
+mit PM nicht beweisbar.
+Oder kurz: In jedem zu PM äquivalenten System (oder einem Metasystem mit PM
+als Teilmenge) kann man mit den Mitteln des Systems seine
+Wiederspruchsfreiheit nicht beweisen.
+Deshalb ist dein obiger Satz:
+
+
+Schlichter Unsinn. Er würde ja bedeuten das man ein solches Metasystem als
+*nicht wiederspruchsfrei* beweisen könnte. Das wiederspricht aber dem Satz
+von Overmans. Oder falls man ein beweisbar widersprüchliches System benutzt
+(was ja geht) ist man eh ein Vollidiot.
+-- 
+Mit freundlichen Grössen
+Adrian Rodt

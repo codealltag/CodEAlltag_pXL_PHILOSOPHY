@@ -1,0 +1,73 @@
+Das muss ich erst einmal ordnen:
+
+
+Auf diesen Fall bezog sich mein Beweis, wobei ich statt
+Rechnen mit Kardinalzahlen lieber die Konstruktion von
+Injektionen wählte.
+
+
+... wobei es auch Kombinationen von unendlich vielen solchen Zyklen gibt.
+
+
+Sehe ich das richtig, dass du w! in a), b) und c) jeweils mit
+der Kardinalität der jeweiligen Menge der Permutationen
+gleichsetzt?
+
+
+Eine Abbildung kann als Menge von Paaren (x,y) aus N x N
+verstanden werden (eindeutige linkstotale Relation) -
+und Abb(N,N) soll bei mir die Menge aller solchen
+Abbildungen bedeuten.
+
+
+A = {(0,1), (1,2), (2,0), (3,3), (4,4), ...}
+B = {(0,0), (1,1), (2,2),  (Rest irgendwie anders) }
+
+
+Das ist die Mengendarstellung einer Abbildung.
+
+
+Ich rede von w^2. Und dass die Menge N x N
+abzählbar unendlich ist, lässt sich durch Angabe einer
+Bijektion oder zweier Injektionen (Pistori)
+nachweisen:
+N     --> N x N:      n   |--> (n,1)
+N x N --> N         (m,n) |--> 2^n * 3^m
+
+Wo ich hier CH oder AC benötige, kannst du mir
+vielleicht verraten.
+
+
+Damit gilt auch hier die Überabzählbarkeit.
+
+
+Aber können wir aus einem Paar W,W wieder A
+rekonstruieren?
+
+
+Gibt es denn hier immer ein Maximum?
+Genauer: Ist denn Pot(N) eine induktiv geordnete
+Menge?
+
+
+Wie ist dieses A ein Maximum einer überabzählbaren
+Inklusionskette?
+
+
+Das wird mir jetzt zu hoch.
+
+
+Was wolltest du hiermit zeigen?
+Dass P überabzählbar ist?
+
+
+Wir dürfen aber nur endliche Kombinationen
+zulassen, dass sind dann nur abzählbar viele.
+
+
+Ich glaube noch, dass P = { f in Bij(N,N) | W(f) endlich }
+eine abzählbar unendliche Menge ist.
+Deiner Argumentation konnte ich nicht recht folgen,
+ich weiß auch nicht wirklich, was du zeigen wolltest, sorry.
+
+Alois

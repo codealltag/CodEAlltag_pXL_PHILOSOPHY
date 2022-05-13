@@ -1,0 +1,50 @@
+*Klassisch* verschicken geht nicht (d.h. Auslesen des Quantenzustands
+und Verschicken der klassischen Information).  Das liegt daran, dass
+die klassische Information duplizierbar wäre, was die Unitarität
+verletzt.  Was geht, ist die Übertragung der Information von einem
+Teilchen an ein anderes.  Das erste ist hinterher ein einem
+unbekannten Zustand (Dichtematrix mit gleicher Entropie wie die, die
+vorher das empfangende Teilchen hatte).
+
+
+Kai erklärt wieder mal den Fachleuten ihr Fachgebiet?
+übrigens hat Nordkorea jetzt eine Internetseite (mit eben derartigen
+Bildern) - die URL war vor ein paar Wochen auf /. .
+
+
+Und dann gibt es noch QND-Messverfahren, die das nicht tun (releveant
+für die rauscharme Beobachtung von Gravitationswellendetektoren, wo
+das Ausleselicht sonst den Interferometerspiegel verschieben würde).
+übrigens hat schon das uralte Wittinghofer-paper ein Beispiel für eine
+störungsfreie Messung drin (allerdings mit einem ziemlich künstlichen
+Hamiltonian).  Allzuviel über das beobachtete Objekt erfährt man mit
+solchen Verfahren nicht (das verhindert die Unschärferelation), aber
+eventuell genau das, was man wissen will.
+
+
+Nein, und der Kommutator hat sogar bei beiden denselben Wert (nämlich
+-i).  Nur ist er manchmal interessant und manchmal nicht.
+
+
+Nur "hinreichend genau".
+
+Dass das bei kleinen Dingen nicht sinnvoll geht, liegt nicht daran,
+dass die Messung irgendwie schiefgeht, sondern dass das Teilchen Ort
+und Impuls nicht gleichzeitig *hat*.
+
+Das heißt aber umgekehrt auch, dass man Ort und Impuls *nicht*
+*braucht*, um Quantensysteme vollständig zu beschreiben - das wäre eh
+überbestimmt und mit derartigen Daten könnte man das Teilchen am Ziel
+deshalb gar nicht präparieren.
+
+
+Bei Dir steht unten immer
+...
+
+Das Doppelminus braucht vor dem Zeilenwechsel noch ein Leerzeichen.
+Abgesehen davon plenkt der ganze Kram.
+
+Jacques
+-- 
+GS d->? s:++>+++ a+ C++++$ UL+++$ UH+ P++ L++ E+++ W- N++ o-- K- w--- !O M- V-
+PS+>++ PE Y+>++ PGP+ !t !5 !X !R !tv  b+++ DI+++ D?  G+ e++++ h+ r? y?

@@ -1,0 +1,15 @@
+Die Definition reicht nicht; du setzt einen affinen oder projektiven
+Raum als umgebende Struktur voraus (jedenfalls ist es sonst unklar,
+was "kollinear" bedeuten soll, man könnte den Term bei einer
+Riemannschen Mannigfaltigkeit allenfalls als "liegen nicht alle auf
+einer Geodäte" interpretieren), ich möchte aber auch /sphärische
+Dreiecke/ mit einbeziehen, und dann spielen auch die Seiten, gerade
+für den Satz des Horst, eine Rolle.
+
+
+Nein, wenn nur a mit b und b mit c verbunden ist, ensteht kein
+Dreieck. Als 2-Simplex ist es allenfalls die /konvexe Hölle/ von
+{a,b,c}. 
+
+
+fernand

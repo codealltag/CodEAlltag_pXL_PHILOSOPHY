@@ -1,0 +1,5 @@
+Also   (~x v x) /\ (~x v x) = x --> x    ( kürzer:   0 v 1 = 1  --> 1 )
+_und_    (~y v y) /\ (~y v y ) = x --> y    (kürzer:  0 v 1 = 1 -->0 )
+
+und daraus folgt jetzt   0 = 1  . Ist das Deine Absicht ?
+x gdw x ist y --> ?

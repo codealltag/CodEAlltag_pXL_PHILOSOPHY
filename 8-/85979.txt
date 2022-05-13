@@ -1,0 +1,23 @@
+Autopoiese: Maschinen, die sich bzw ihre "Nachkommen" selbst bauen, wurden
+gerade erst vor ein paar Monaten vorgestellt - den Link dazu musst Du jetzt
+aber selbst heraus suchen.
+
+Selbstreferenz: LISP Funktionen sind problemlos so zu schreiben, dass sie
+selbstreferenziell sind. Ich hab' für die DEITERMANN mal ein
+Optimierungsprogramm geschrieben, in dem Motoren als Objekte beschrieben
+wurden, die sich beim virtuellen Einbau in ein System selbst hinsichtlich
+Resonanz prüften, und sich und ihren Einbau dann nach dem Ergebnis dieser
+Prüfung selbst modifizierten, bis sie vorgegebene Qualitätskriterien
+einhielten. Wenn diese Motoren keine selbstreferenziellen Systeme sind, was
+dann?
+
+Qualia: Du wirst doch nicht abstreiten, dass ein Computer innere Zustände
+hat, oder?
+
+Edgar Cebula
+
+-- 
+Käsmüller: Architektur-Werkzeuge für KCRS (TM)
+           KARE  - Architekturbema�ung und Höhenkoten
+           Kellershop - Flächenermittlung und Raumbuch nach DIN 277
+Info und Demo unter http://cff.mpjgvtaci.mz

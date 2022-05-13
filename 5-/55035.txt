@@ -1,0 +1,48 @@
+Hallo Italo,
+
+
+Nein, warum denn?
+
+
+Ja.
+
+
+Die Aussage "Wenn A nicht wahr ist, dass folgt Z" impliziert nicht,
+dass A nicht wahr ist (und wie schon erläutert, gibt es da nicht
+verschiedene Fälle).
+
+
+Nein. Wenn Satz A nicht wahr ist, folgt Z (und damit X), aber doch
+nicht umgekehrt.
+
+
+Die zweite Prämisse lautet "wenn A nicht wahr ist, dann Z". Das ist
+etwas anderes as "A ist nicht wahr".
+
+
+Ich muss wohl nochmal wiederholen: Satz A lautet "für alle geraden
+Zahlen n gilt a(n)"�. Wenn A nicht zutrifft, gibt es mindestens eine
+gerade Zahl i, für die a(i) nicht zutrifft. a(i) ist aber eine andere
+Aussage als A.
+
+
+Die erste Prämisse ist "Wenn Satz A wahr ist, dann folgt Y" und nicht
+"Satz A ist wahr". Das ist etwas anderes.
+
+
+wie oben: A wäre hinfällig, wenn es mindestens eine Zahl i gibt, für
+die a(i) nicht zutrifft. a(i) ist eine andere Aussage als A.
+
+
+Erste Prämisse ist "A-->Y".
+
+Ist es wirklich so schwer zu verstehen, dass "Wenn A dann Y" nicht
+impliziert, dass A wahr ist?  Genauso wie "Wenn nicht A dann Z" nicht
+impliziert, dass A falsch ist?
+
+Viele Größe
+
+Valerius
+
+� a(n) ist die Aussage "die Zahl n lässt sich als Differenz zweier
+Primzahlen darstellen"

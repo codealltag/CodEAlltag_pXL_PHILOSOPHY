@@ -1,0 +1,50 @@
+Dieses EVA-Prinzip (Eingabe Verabeitung Ausgabe) gilt nur für Programme,
+die dem Menschen nützen sollen. Man könnte durchaus ein Programm
+erstellen, dass die 5 Milliardste Nachkommatselle von Pi ausrechnet und
+das Ergebnis für sich behält, nur würde dieses Programm keinem Menschen
+nützen, es wäre sozusagen *wertlos* jedoch existent. Existent, da ich
+die Berechnungen mit Hilfe von technischen Hilfsmitteln nachweisen
+könnte.
+
+
+Man kann auch Unterprozesse sagen.
+
+
+Im Ausgabestrom nicht, aber wie gesagt könnte ich die Existenz durch
+andere techn. Hilfsmittel nachweisen.
+
+
+Das hab ich noch nie gehört. Gibt es dazu eine Quelle ?
+Ich würde eher dagen, dass solche Subsysteme unrelevant wären, unnütz
+für den Menschen, da der Mensch den Computer benutz um Informationen
+zu erhalten.
+
+
+Das ist eine gewagte Interpretation von Existenz.
+
+
+Es gibt Unterprozesse, die ihren Vaterprozess verloren haben sogenannte
+"Zombies". Es ist Sache des Betriebssystems sie zu elimieren oder auch
+nicht. Da die Betriebssysteme im Dienste des Menschen arbeiten, könnten
+sie diese Prozesse elimieren, da sie dem Menschen nicht nützen.
+
+
+Der Computer hat erstmal keine eigene Logik. Er führt nur stur Befehle
+aus, die ihm vom Menschen vorgegeben wurden. Er könnte auch Dinge tun,
+die in unserem Auge unlogisch oder einfach unnütz wären, nur hat keiner
+Interesse daran und deswegen verhalten sich Computer oder besser gesagt
+ihre Betriebssysteme logisch und für den Menschen nützlich.
+
+
+Der Computer muss aber auch Subprozesse, die keinen Ausgabestrom haben
+ausführen, er muss sie in der Prozessliste mitführen und sie im gewissen
+Zeitabstand weiterlaufen lassen. Werden Prozesse nicht ausgeführt, kann
+man das damit vergleichen, das sie schlafen oder im Komma sind, solang
+ihr Code aber im Speicher ist und das Betriebssystem, diesen Speicher-
+bereich schützt, kann man sie wieder aktivieren sozusagen aufwecken.
+Ob sie während sie schlafen existieren oder nicht, ist tatsächlich eine
+philosophische Frage. Wenn man den Code im Speicher mit einem menschl.
+Körper vergleicht, könnte man sagen sie existieren noch.
+
+Gruss,
+Lorenz.

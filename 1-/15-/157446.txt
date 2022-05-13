@@ -1,0 +1,43 @@
+Letzter quote von pr # acwsk.kuzv.pz an Hans Armbrüster
+
+FW> > Keine Disziplin der Wissenschaft verfuegt ueber einen unangreifbaren
+FW> > Lehrsatz: Die Mathematiker streiten sich, ob 0 eine natuerliche Zahl
+FW> > ist;
+FW> Ich biete: Jede natürliche Zahl größer 1 läßt sich als Produkt von
+FW> Primzahlen schreiben, diese Zerlegung ist, bis auf die Reihenfolge der
+FW> Faktoren, eindeutig.
+
+Was ist eine Primzahl?-
+p ist Element der natuerlichen Zahlen.
+Das Problem: Was bedeutet eine Zahl, sofern sie nicht vorher (!) als  
+Element einer Menge definiert ist!?
+Die Axiomatik der Mathematik- dass man im Kleinen anfaengt und auf  
+Groesseres schliesst. Die natuerlichen Zahlen: die kleinste unendliche  
+Menge, die axiomatisch erfasst werden kann.
+
+FW> Mathematische Sätze hängen i.a. nicht davon ab, ob 0 eine natürliche
+FW> Zahl ist oder nicht.
+
+Was ist eine natuerliche Zahl?
+Sei m eine natuerliche Zahl und + als Abbildung von natuerlichen Zahlen  
+definiert. Dann gilt: m ist natuerliche Zahl, falls gilt: m+0=m.
+Es gilt: 0 ist Element der natuerlichen Zahlen.
+Wie gesagt: Die reellen Zahlen- Hokuspokus, falls die Menge der  
+natuerlichen Zahlen nicht bereits definiert ist.
+
+FW> Wichtig hingegen ist: Jede Teilmenge der
+FW> natürlichen Zahlen hat ein kleinstes Element. Wenn man das bestreitet,
+FW> dann kann er, mathematisch gesehen, nicht ziemlich weit kommen.
+
+Der Unterschied: Mathematische und sprachliche Definitionen.
+Der Widerspruch:
+Sei m Element der natuerlichen Zahlen, m<>0.
+Es gelte: m ist "kleinstes Element".
+Es folgt: Es existiert ein n=m mit: n+0=m.
+          Es existiert kein n<m mit n+0=m.
+ABER: Mit + definiert als Abbildung von natuerlichen Zahlen: Sei m=0.
+Es folgt: 0 ist kleinstes Element der natuerlichen Zahlen.
+
+... Nothin but a friendly Boo...
+
+Hans, per email: fcdsadxna@uuj.px

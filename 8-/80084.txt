@@ -1,0 +1,42 @@
+Am Mittwoch, Juli 2006 11:10, schrieb Heribert B.:
+
+
+Nein so nicht. Induktive Mengen sind zwar per se aktual Unendlich, aber das
+Induktionsprinzip muss nicht "die" Eigenschaft sein.
+
+
+Rekursion ist etwas anderes. Wenn du allerdings zeigen kannst das die
+Rekursion nicht abbricht dann hast du zwangsläufig eine induktive Menge.
+Hint: Eine Rekursion kann ab einem bestimmten Index i immer wieder die
+gleichen Elemente erzeugen, dann ist es nix mit Unendlich.
+Bedeutung: Halteproblem bei Turingmaschienen.
+
+
+Das ist die Definition von Dedekind also ja.
+
+
+Also:
+Wir gehen mal ein wenig auf den philosophischen Aspekt ein:
+Es gibt entweder nur aktual Unendlich oder nur potentiell Unendlich. Beides
+zusammen geht nicht. Motto: Ein bisschen schwanger geht auch nicht. Beide
+Standpunkte haben im Zweifel ihre Berechtigung. Ein "nur" potentielles
+Unendlich wird zumindest in der Mathematik weithin als völlig
+unbefriedigendes und veraltetes Denkprinzip abgelehnt. Ganz deutlich:
+Unendlich kann man nicht Beweisen es wird als grundlegendes menschliches
+Denkprinzip (Kategorie oder ähnlich) eingefordert. In der Mathematik die ja
+rigeros abstrahiert macht aus genau diesem Grund daraus ein Axiom. Deshalb
+sieht eine Mathematik die auf dieses Axiom verzichtet völlig anders aus,
+ist aber nicht unmöglich. Wenn man so will ist hier die Mathematik die
+Qintessenz des menschlichen Denkens, denn sie versucht die unscharfe Logik
+der menschlichen Sprache und des Denkens zu vermeiden. In der Mathematik
+ist daraus erst im letzten Jahrhundert (erstaunlicher weise so spät) die
+Prädikatenlogik entstanden, die auch mittlerweile allgemein akzeptiert
+wird. Das macht aber die Fragen: Was ist eigentlich Logik? Wieso denken
+Menschen genauso und nicht anders? nicht überflüssig. Und genau hier ist
+die Philosophie gefragt denn diese Probleme sind keine innermathematischen
+Probleme sie betreffen die Frage: Was ist der Mensch? Was kann er erkennen?
+Und das ist gewiss ein Kernpunkt philosophischer Wissenschaft.
+
+-- 
+Mit freundlichen Grössen
+Fredi Dunkerley

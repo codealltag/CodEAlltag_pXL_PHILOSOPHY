@@ -1,0 +1,6 @@
+Optimierung durch Evolutionsstrategie produziert nur lokale Optima
+und verläßt sie mit endlicher Wahrscheinlichkeit auch wieder.
+Eine echte Leistung (im Gegensatz zu Gradientenmethoden) ist jedoch
+die Findung neuer Nebenoptima.
+
+CHANTAL

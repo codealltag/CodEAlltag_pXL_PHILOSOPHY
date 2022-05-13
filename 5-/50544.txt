@@ -1,0 +1,15 @@
+^^^^^^^^^^^^^^^^^^^^
+
+Sagte ich doch?
+
+
+... welches natürlich Teil der Turingmaschine ist.
+
+
+Sie definiert die zufällige Ausführung. In einem ansonsten deterministischen
+Kontext kann man das durch die "Eingabe von Zufall" beschreiben, aber das ist
+eben schon ein Implementierungsversuch.
+
+Viele Grüße
+
+Eric

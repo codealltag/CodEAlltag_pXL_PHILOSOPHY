@@ -1,0 +1,83 @@
+Was kann man mit herkömmlicher Modellierung denn bitte nicht
+modellieren? Was fehlt Dir?
+
+
+Und was sind Zentren? Was ist deren "Intensität"?
+
+
+Gerne. Keine Ahnung allerdings, ob ich dann die Deinen treffe.
+
+Systemvariablen seien eine Menge von Variablen aus beliebigen
+Räumen.
+
+Eine Systeminstanz ist eine Trajektorie im Phasenraum. Der Phasenraum
+ist der von den Systemvariablen aufgespannte Raum. Eine Trajektorie ist
+eine Kurve im Phasenraum, die sich selbst nicht schneidet.
+
+Systeme sind Mengen von Systeminstanzen (insofern ist der Phasenraum
+selbst ein System, übrigens).
+
+Eine Systemvariable ist in einem System, wenn das System Systeminstanzen
+enthält, die in der Variable variant sind. Sind alle Systeminstanzen in
+einer Systemvariable konstant, so ist die Systemvariable nicht im
+System.
+
+Systeme heissen akausal, wenn es in ihnen Systemvariablen gibt, die
+nicht-diskrete gleichverteilte Zufallsvariablen sind; sonst heissen
+Systeme kausal.
+
+Kausale Systeme heissen probabilistisch, wenn es in ihnen Systemvariablen
+gibt, die Zufallsvariablen sind.
+
+Kausale Systeme heissen vorbestimmt, wenn sie nicht probabilistisch
+sind.
+
+Vorbestimmte Systeme heissen vorhersagbar, falls alle Trajektorien
+Graphen von berechnenbaren Funktionen darstellen.
+
+Eine Menge von Abschnitten einer Teilmenge von Systeminstanzen eines
+Systems heisst Teilsystem.
+
+Wie man einfach sieht, sind die Automaten aus der Automatentheorie
+per definitionem allesamt Systeme.
+
+
+Ursela ;-)
+
+
+Da lohnt es dann, sich über Denken Gedanken zu machen ;-) Wie gesagt,
+ich verstehe unter Denken das Kreieren von Modellen und das Anwenden von
+Formallogik auf diese Modelle.
+
+
+Du meinst Systeminstanz?
+
+
+Oh, das geht doch. Ein Roman ist der Vektor der Buchstabenvariable in
+einem geeigneten System, sprich: ein String, wie wir Informatiker sagen
+;-)
+
+
+Seh ich nicht so. Nunja, mag sein, dass es einige eher vage betreiben.
+Ich hab auch etwas überlegen müssen, um zu obigen Definitionen zu
+kommen, sie scheinen mir gängig in verschiedenen technischen Bereichen,
+zumindest kompatibel.
+
+Entsprechend hab ich sie mir zurecht gelegt.
+
+
+Wieso?
+
+
+Ich kenne die Kritische Theorie zu wenig, um hier mitreden zu können.
+
+
+Nee, das ist nur ein Missverständnis. Ich versuche wirklich nur
+nachzuvollziehen, was Du meinst.
+
+Bitte rechne da auch mit blöden Fragen.
+
+Viele Grüsse,
+VB.
+-- 
+Bitte beachten Sie auch die Rückseite dieses Schreibens!

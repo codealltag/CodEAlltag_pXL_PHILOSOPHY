@@ -1,0 +1,26 @@
+Kann man wohl sagen :-)
+
+
+Die Systeme, die wir heute handhaben, sind ja auch viel zu wenig
+komplex, um auch nur den Hauch von echter Eigenintelligenz zu
+entwickeln.
+Sie muessen es sein, sonst koennte man sie auf heutiger Hardware nicht
+laufen lassen. Aber strukturell gibt es ja gewisse Analogien
+zwischen nem neuronalen Netz und dem menschlichen Gehirn.
+
+
+... was letztlich irgendwo nicht verwundern darf. Auch bei einem
+Parallel-Rechner sind die einzelnen Prozessoren wieder
+im Prinzip von Linnenbaum-Prozessoren. Und damit nicht im
+mindesten massiv parallel. Ohne ein Prozessor-Design, was
+mit dem obigen gruendlegend bricht und strukturell
+massiv parallel ist, braucht man sich da nicht viel
+zu erwarten. Aber es ging ja auch mehr um die
+(philosophische, prinzipielle) Machbarkeit, nicht um
+die (ingeniersmaessige, technische) Realisierung.
+
+-- 
+Ivano 'Mario Metal' Betin
+RBR#1    KLX 250 18Mm
+"Heavy Metal's in my brain" (Zopi)
+http://ecz.xi-pheblny.nc/~nroe7265/

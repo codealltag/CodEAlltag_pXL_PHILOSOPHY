@@ -1,0 +1,142 @@
+On 14. 05. 21 13:12:12 -0700, oidjsqngfjuNUAJDEP@creeflu.lh (Arxw
+Wrabl) wrote:
+
+Silvio ich habe nochmals über Deine folgende Äußerung nachgedacht. Und
+habe dazu ein paar kurze Bemerkungen zu machen. Würde mich
+interessieren, was Du davon hältst.
+
+SEHR GUTER Einwand! Denn:
+
+
+Besser:
+
+VOLLE Zustimmung. DAHER... lass uns doch nochmal die FRAGE untersuchen,
+ob es tatsächlich "logisch möglich" ist, 
+
+	dass es zwei Dinge gibt, die alle Eigenschaften gemeinsam haben,
+	ohne (numerisch) identisch zu sein!
+
+Lass uns dabei doch mal (for the sake of the argument) von "abstrakten
+Objekten" absehen, und nur physikalische Objekte betrachten.
+
+Nun kann man sicher (mit einem gewissen Recht) sagen, dass jedes
+physikalische Objekt einen Ort "einnimmt" zu einer bestimmten Zeit.
+Kurz, die physikalischen Objekte "existieren" in der Raumzeit. Man kann
+ihnen also ihre jeweiligen raum-zeitlichen Koordinaten als
+"Eigenschaften" zuordnen.
+
+Haben nun zwei Dinge *alle* Eigenschaften gemein, dann auch ihre
+raum-zeitlichen Koordinaten (und ihre Ausdehnung, Form, Gestalt,
+Zusammensetzung, etc.) D.h. sie nehmen den selben Platz zur selben Zeit
+ein... TTE es dann überhaupt noch Sinn (sic!) von _zwei_ verschiedenen
+Objekten zu sprechen, oder anders: WIE wollte man hier überhaupt _zwei_
+Objekte als solche "identifizieren"?
+
+Da sie sämtliche Eigenschaften gemein hätten, würden sie auch auf
+irgendwelche äußeren Kräfte (Einflüsse) in genau der GLEICHEN Art und
+Weise reagieren..., sie wären also mithin "inseparabel"!
+
+Kurz: selbst wenn das "zwei" Objekt wären, so wäre es für uns schlicht
+und einfach ohne jede "Bedeutung". WIR würden es als EINES betrachten.
+
+Lass uns also das "Prinzip" formulieren, dass sich an einen best.
+Raum-Zeitpunkt jeweils nur EIN Objekt befinden kann.
+
+Daraus folgt aber sofort, dass es KEINE zwei Dinge gibt, die _alle_
+Eigenschaften gemeinsam haben, ohne (numerisch) identisch zu sein!
+
+Mithin ist Deine Behauptung widerlegt, m.E. (zumindest für physikalische
+Objekte).
+
+
+Ähnlich könnte man aber auch für abstrakte Objekte argumentieren... Nur
+mal so ein Ansatz... Nimm einmal an, dass ein abstraktes Objekt _alle_
+Eigenschaften hat, die auch ein anderes abstraktes Objekt hat und
+umgekehrt.
+
+Nun betrachte den Fall, dass irgendjemand über das eine besagte
+abstrakte Objekt nachdenkt, dann erfüllt offenbar dieses abstrakte
+Objekt die "Eigenschaft" (Prädikat), dass eben diese Person über dieses
+Objekt nachdenkt (oder nachgedacht hat, etc.). 
+
+	Man könnte auch von einer Relation sprechen:
+
+		Dxy : x denkt über y nach.
+
+	Aber für ein feststehendes x, sagen wir A, kann man daraus 
+	das Prädikat bilden:
+
+		Py : A denkt über y nach.
+
+Nach unserer Voraussetzung trifft das dann aber auch auf das andere
+abstrakte Objekt zu. Nun betrachte den Fall, dass die Person wirklich
+nur über EINES der "beiden" Objekte nachdenkt (was ja möglich sein
+sollte, insbesondere, wenn es sich um zwei (numerisch) verschiedene
+Objekte handelt). Dann aber denkt er auch GLEICHZEITIG über das jeweils
+andere Objekt nach (laut Voraussetzung). Kurz, die "beiden" Objekte sind
+offenbar EINS ("numerisch identisch").
+
+[...]
+
+Kurz ich komme zu dem Schluss, dass es in der Tat
+
+	"logisch unmöglich ist, dass es "zwei" Dinge gibt, die alle
+	Eigenschaften gemeinsam haben, ohne (numerisch) identisch 
+	zu sein!"
+
+Aus diesem Grunde erscheint mir also Königseder Definition als absolut
+zweckmäßig! (Sie scheint mir unsere "tiefere" Auffassung von Identität
+im wesentlichen korrekt widerzugeben.)
+
+
+Conclusion:
+-----------
+
+OFFENBAR meinen wir genau das mit "Identität": dass man "zwei"
+identische Dinge eben in der Tat ALLE Eigenschaften "gemein" haben.
+
+Klar, die Richtung
+
+	x = y -> AP(Px <-> Py)    (*)
+
+erscheint unproblematisch. Lediglich die Richtung
+
+	AP(Px <-> Py) -> x = y    (**)
+
+scheint manchen (?) f r a g w � r d i g... Nun, nach dem oben Gesagten,
+sollte das aber nun auch klar (oder besser "akzeptabel") sein..., nein?
+
+Bezogen auf _physikalische_ Objekte wirst Du mir da ja auch wohl kaum
+widersprechen wollen, oder?
+
+Ist jede Eigenschaft von x ("Aufenthaltsort" in der Raumzeit, Größe,
+Gewicht, Zusammensetzung, etc.) auch Eigenschaft von y (und umgekehrt),
+dann ist x identisch mit y.
+
+
+F.
+
+
+P.S.
+Vielleicht ist (**) auch in der folgenden (logisch äquivalenten) Form
+leichter zu "schlucken":
+
+	x =/= y -> ~AP(Px <-> Py)
+bzw.
+	x =/= y -> EP((Px & ~Py) v (~Px & Py))
+
+Wenn also zwei Dinge NICHT identisch sind, dann muss es (noch Königseder
+Definition) _mindestens_ ein "Merkmal" (bzw. eine "Eigenschaft") geben,
+die NICHT beide Dinge/Objekte besitzen. ... Man könnte auch sagen, DURCH
+das (die) sie sich eben unterscheiden!
+
+Macht irgendwie Sinn... m.E.
+
+Und die Umkehrung (nochmal): Wenn es also nichts gibt, durch das sich
+"zwei" Objekte unterscheiden, dann sehe ich sie als identisch an _per
+Def._!
+
+[ Also eigentlich ... zwei Namen a,b bezeichnen ein und dasselbe Objekt,
+wenn es keine Eigenschaft gibt, die _unter Verwendung des einen Namens_
+"zutrifft", nicht jedoch aber _unter Verwendung des anderen Namens._
+In Symbolen:  ~EP((Pa & ~Pb) v (~Pa & Pb)) -> a = b). ]

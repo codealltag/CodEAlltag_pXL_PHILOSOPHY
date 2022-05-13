@@ -1,0 +1,58 @@
+In de.sci.philosophie Serge Cote wrote:
+FL>  Wenn Energie dem Wesen nach Materie ist, welche
+FL>  Materie entspricht dann negativer Energie?
+
+Ich will gar nicht auf Avent duemmliches metaphysisch-ontologisches
+Geplapper eingehen, schon alleine weil er nicht sagt, wie man die
+Wesenhaftigkeit von physikalischen Begriffen bestimmen kann und da es im
+Grunde genommen nur um mathematische Variable geht, denen man relativ
+erfolgreich einen Bezug zur Wirklichkeit zuschreibt. 
+
+Du beziehst dich wahrscheinlich auf die Gleichung
+	E_pot = -GMm/r
+mit der man die potentielle Energie zwischen zwei Massen M und m mit dem
+Abstand r berechnen kann, oder?
+
+Allerdings wird die Gesamtenergie eines Massepunktes hier klassisch
+betrachtet, so dass der Energieerhaltungssatz
+	E_k=E_kin+E_pot=konstant
+gilt, bei dem die Gesamtenergie E_k unveraenderlich ist.
+
+Da fast alle Begriffe der Mechanik durch die ART einem umfassenden
+Bedeutungswandel unterworfen wurden, denke ich aber, dass deine Zweifel
+unbegruendet sind. Die Erhaltung der Gesamtenergie ist in der
+relativistischen Physik nicht mehr unabhaengig von der Masse.Die
+relativistische Gesamtenergie berechnet sich daher durch
+	E_r = E_kin+E_0 = m_0*c^2 / sqrt(1-v^2/c^2) = m_r*c^2,
+und hier bleiben nur noch die Ruheenergie und Ruhemasse konstant, waehrend
+sich die Gesamtenergie, aendern kann: Sie ist gleich der Ruhenergie
+E_0=m_0*c^2, wenn v=0, bzw. geht sie gegen unendlich wenn v->oo. 
+
+FL>  Ausserdem  ist Materie lokalisierbar (d.h. man kann
+FL>  in etwa angeben, wo sie sich aufhaelt). Das ist
+FL>  bei der Energie des Gravitationsfeldes, wenn ich mal 
+FL>  Fachleuten wie Surauf et al glauben darf, nicht der Fall.
+
+Wird die Gravitation in der relativistischen Physik nicht durch eine
+Kruemmung der Raumzeit erklaert? Die Raumzeit veraendert sich abhaengig
+von den Gravitationspotentialen die an bestimmten Koordinaten vorliegen,
+so dass z.B. ein gegebener, regelmaessiger physikalischer Vorgang, seine
+Dauer veraendert, je nachdem welches Gravitationspotential an der
+Messstelle (sp? neo-sp?) vorliegt, das ist ja eine Vorraussage der ART, 
+die man mit Atomuhren je eine im Flugzeug die andere am Erdboden schon 
+nachweisen konnte.
+
+Wie dem auch sei, es fuehrt halt zu Problemen, wenn man die Begriffe z.B.
+Energie in der klassischen Physik mit denen in der relativistischen
+vermischt, da sie ihre Bedeutung gewandelt haben. So taucht die
+potentielle Energie, als gespeicherte kinetische Energie und Faehigkeit
+Arbeit zu verrichten, im relativistischen Energieerhaltungssatz einfach
+nicht mehr auf. Dieser ist ja auch falsifiziert, da z.B. in einem
+Beschleunigerexperiment Energie nicht nur in eine andere Energieform,
+sondern in Materie umgewandelt werden kann. 
+
+-- 
+(o\--\- privat: zuubp@stwo.rrjg.ej -- "Subj: pgpsend" 4 key -\--\
+ \o\--\- uni: dtujke99@mhacit.irpeyaipqn.dhh-jzszfzuw.ax -----\--\
+  \o\--\- fido: Syjjvjp_Ckxbz@6:6067/2780.7 -------------------\--\
+   \o)__)_______________________________________________________)__)

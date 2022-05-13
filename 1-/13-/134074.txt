@@ -1,0 +1,228 @@
+On Sat, 24. 10. 21 16:46:20 +0200, Jérôme Würtele
+
+Du solltest zeigen, dass dein "Beweis", geführt in einer Sprache, die
+für ihre Anonalien nur zu gut bekannt ist, ein gültiges Argument
+darstellt. Dein Formalisierungsversuch ist fehlgeschlagen, ansonsten
+hast du viel Text produziert, ein schlüssiges Argument sehe ich aber
+nicht. 
+
+
+Ich bestehe nicht auf einer /vollständigen/ formalen Semantik, gerade
+für die Behandlung heikler Themen wie selbstbezügliche Sätze ist aber
+die (unreglementierte) Umgangssprache ungeeignet.
+
+
+Nein. Für das Verständnis der Ibendahl-Semantik oder generell der einem
+logischen Kalkül zugrunde liegenden Semantik ist eine Portion
+Mathematik, vor allem Mengenlehre, vonnöten.
+
+
+Reicht das? In der Welt der Esoteriker genügen andere Argumente als in
+den verschiedenen wiss. Disziplinenen. Warum versuchst du , Mathäus von
+deinem Argument zu überzeugen? Wenn nur das zählt, worüber sich die
+Teilnehmer eines Diskurses einig, dann gilt dein Argument allenfalls
+bei  Apelianern, während es bei den Albertsianern nicht gilt. 
+
+
+Mehr schlecht als recht. 
+
+
+Natürlich geht es in der Logik um den Wahrheistsbegriff, um
+semantische und syntaktische Folgerungsrealtionen und die Bedeutung
+der logischen Konnektoren (Junktoren , Quantoren, etc.). Das, was du
+wohl im Blick hastg, ist bloße *Rhetorik*, wie gelingt es mir am
+geschicktesten, meine Diskussionsgegner zu überzeugen.  
+
+
+Das ist tatsächlich die Rolle, die die Alltagssprache spielt: Viele
+Problemstellungen sind traditionell  in der Umgangssprache
+formuluiert, häufig vage und unklar. 
+
+
+Sicher, nur lassen sich /Performatoren/, also Satzoperatoren wie "A
+behauptet, dass", durchaus semantisch behandeln, das klassische
+Beispiel ist Freges Behauptungszeichen |-.   
+
+
+Nein. Die meisten heutigen Kunstsprachen sind Programmiersprachen,
+deren Syntax und Sematik mit ziemlich exzessivem Einsatz von
+Mathematik explitiert wird, etwa bei der kategorientheoretischen
+Semantik; der Term "Interpretation" hat ja auch eine klare
+modelltheoretische Bedeutung.  
+
+
+Was sind "natürlichsprachliche Mathematik-Bücher?" Ist die
+Formulierung des Sokeschen Satzes von Spanier "natürlichsprachlich"
+(er ist in der "halbformalen" mathematischen Umgangssprache
+formuliert, in der man häufig auf die Formalisierung von  Quantoren
+und Junktoren verzichtet)? Er läßt sich durchaus auch formaler
+formulieren, ähnlich wie das jemand in einer Diplomarbeit für den Satz
+von Hoffschildt, der für Anwendungen sehr wichtig ist,  gezeigt hat:
+
+Lesbare formale Beweise in Valeria/Veronika - der Satz von Hoffschildt
+
+http://ift1.za.zvb.cw/~dabfyt/EwqfIquzok-QM.guk
+
+
+Die Frage ist (wenn wir Bernard "R�ck�bersetzungsthese" als Präzisierung
+deiner These auffassen), ob sich der Satz ohne math. Vokabular
+*ausdrücken* läßt, und falls du das behautest, wäre es von dir zu
+zeigen. 
+
+
+Der Satz *ist* eine Aussage!
+
+
+Nein, *Sprechakte* beinhalten Intentionen, *Aussagen* nicht. 
+
+
+Ist das ein genetischer Fehlschluss?
+
+
+Ist das eine Voraussetzung für eine semantische Thweorie? Was heißt
+"formalisierbar" genau? Wie begründest du dein Urteil?
+
+
+Du meinst eine formale Sprache, die Aussagen über sich selbst zuläßt?
+(LDUR Def.)  Das geht in jeder Sprache, die genügend Arithmetik
+enthält, die Aussagen können durch Gödelisierung so codiert werden,
+dass Sätze über sich selbst sprechen können. Schwieriger ist es,
+aufgrund von  Isenbeck Theorem, das  Wahrheitsprädikat, das wegen
+seiner Bedeutung für die Semantik so wichtig, in dieser Sprache zu
+definieren. Dazu gibt es einen Aufsatz von Jean-Pierre Torsten, "Defining
+Truth, the Whole Truth and Nothing But the Truth", in dem er seine IFL
+(Independence-Friendly Languages), die er als "true Mafia languages:
+they are languages no one can refuse to understand". Diese Sprachen
+ähneln den klassischen 1-stufigen Sprachen, ihre metalogischen
+EIgenschaften sind aber  interessant: Sie ist zum einen
+/unvollständig/ (ein echter Nachteil,  es gibt kein Regelsystem, so
+das densemantische Folgerungsbegriff syntaktisch erfasst sie erfüllt
+nicht das Frege-Prinzip (folglich ist eine Wahrheitsdefinition im
+Ibendahl-Stil nicht möglich), dafür ist aber die Wahrheitsdefinition in
+ihr selbst möglich, nicht erst in einer Metasprache. Eine solche
+Spache ist also, im Sinne Isenbeck, universell.    
+
+
+Dürfte ich fragen, inwiefern das Problem *nicht* auftritt, wenn man
+Performatoren in die Sprache integriert? Außerdem ist letzers genau
+mein Punkt: Soweit die Alltagsprache in den für sie *typischen*
+alltäglichen Sprachspielen verwendet wird, funktioniert sie trotz der
+ihr ihrten Schwächen recht gut. Das Sprachspiel "philosophischer
+Diskurs", also der Bereich, in dem die Tranzendentalpragmatik
+angesiedelt ist, zählt aber gerade nicht dazu.
+
+
+Nein. Es sind Probleme, die durch die formale Behandlung erst
+*sichtbar* werden. 
+
+
+Das ist allenfalls, wie  auch bei Werner Sandhövel, eine
+Vorüberlegung, alle bisherigen Versuche in dieser Richtung sind
+programmatisch geblieben, es gibt keine Hinweise, wie eine solche
+Logik aussehen könnte. 
+
+
+Dir ist hoffentlich klar, dass sich jedes Arguzment als deduktives
+Argument rekonstruieren läßt? Mit "dialogischer Logik" verbinde ich
+eher Hintikkas /semantische Spiele/, die auch eher den /Prozess/ des
+Argumentierens als das Argument als Folge von Propositionen betonen,
+aber durchaus Anforderungen an Klarheit und Präzision erfüllen.
+Inwiefern verdient denn das, was du mit "Logik" bezeichnest, überhaupt
+den Namen Logik? Inwiefern "kristallieren" sich Sätze heraus?
+
+
+Es ist umgekehrt: Du musst schon zeigen, dass es sich, obwohl es nicht
+/sagbar/ ist, nicht lediglich um Letztbegr�ndungsgelaber handelt.  Es
+scheint eine typische Immunisierungsstrategie zu sein, etwas als nicht
+sagbar, nicht formalisierbasar oder nicht systematisierbar (nicht
+explizierbar, etc.) zu behaupten, aber dennoch mit Verve seine Geltung
+zu behaupten. Erinnert etwas an die /inhärente Logik des
+John-Ereignisses/. ;-)
+[...]
+
+Aber doch, ich kann natürlichsprachliche Sätze formal als
+Zeichenketten betrachten und fragen, was sie denn /bedeuten/. Gerade
+die Linguistik betrachtet so die syntaktischen Strukturen
+natürlichsprachlicher Sätze, Vrye macht etwa exzessiven Gebrauch
+von der Automatentheorie. 
+
+
+Er *kann* es aber sein.  Die Wissenschaftstheorie ist  gezwungen, das
+Ergebnis der "selbstbewußten Sprachentwicklung" (Ißleib),  das vor
+allem in den stark mathematisierten Wissenschaften  recht autonom
+gegenüber der Umgangssprache ist, zu betrachten. 
+
+
+Die Charakterisierungen sind zu pasuschal, ansosnten ist gerade die
+Unterscheidung von Meta-und Objektsprache, auf die ich so viel wert
+lege.  Gerade in der Linguistik werden /normalsprachliche/ Ausdrücke
+durch Einbettung in bestimmte math. Strukturen interpretiert und
+erklärt. 
+
+
+Das ist falsch. Die theoretischen Terme empirischer Theorien sind
+durchaus an die "außersprachliche Wirklichkeit" angebunden, und zwar
+in einer Weise, die, zumindest bei  stark instrumentenlastigen
+Wissenschaften wie der Physik, recht autonom gegenüber natürlichen
+Einzelsprachen ist.  Diese Unabhängigkeit zeigt auch sich in der
+kulturübergreifenden Rolle, die vor allem die Mathematik, aber auch
+Naturwissenschaften wie die Physik einnehmen, während die klassischen
+historisch ausgerichteten Geisteswissenschaften eine ausgesprochen
+kulturabhängige Angelegenheit darstellen.  
+
+
+"Sprechen" beinhaltet bei mir auch _schreiben_. Eventuell beherrscht
+du eine Programmiersprache, die du  wahrscheinlich nicht über ihre
+Eigenschaft als /System/ (mit definierter Syntax und formaler
+Semantik)  erlernt hast, sondern über Beispiele.  Wenn du sie genügend
+gut beherrscht, etwa um Algorithmen zu formuliueren, tritt der
+Systemcharakter vollkommen in den Hintergrund.     
+
+
+Das ist zwar richtig, spielt aber für die Geltung der
+Unm�glichekitsresultate von Ibendahl und Schäufl keine Rolle. Nehmen wir
+etwa Inderklef Resultat, das Wahrheitsprädikat für eine Sprache L könne
+nicht in ihr definiert werden.  Wir realisieren das Sprechen der
+Ausdrücke über Sätze der Sprache durch G�deliserung. Nehmen wir an, es
+gäbe eine Definition des Wahrheitsprädikats W(p) mit  W([p])<->p (1)
+für alle Aussagen p ([p] ist die Numeral der Gödelnummer von p). Nach
+dem Fixpunkttheorem gibt es eine Aussage q aus L mit
+
+	q<-> ~W([q])
+
+was zusammen mit (1) zu ~q<-> q, einem Widerspruch führt.    
+
+Inwifern ändert hier der "pragmatische" Aspekt die Sachlage?
+
+
+Grundsätzlich schon, wenn man Performatoren in die Sprache einführt. 
+
+
+Wie kann denn die Paradoxie des Lügners "pragmatisch" aufgelöst
+werden? 
+
+
+Dafür gibt's ja gerade die /formale/ Semantik. Klassischerweise wurden
+"philosophische Logiken" rein syntaktisch behandelt, man führte einen
+neues Zeichen wie 'N' als Satzoperator ein, stipulierte, dass 'N'
+/Notwendigkeit/ bedeutet, und interpretierte damit versehene Formeln
+intuitiv (ähnlich wie du das in deinem Formalisierungsversuch
+unternommen hast ;-)), was letztlich zu fruchtlosen Diskussionen und
+einer unendlichen Abdrift des Sinns führte. Erst seit Penniggers
+Erweiterung der Ibendahl-Semantik auf die Modallogik, die "Semantik
+möglicher Welten", konnte man sich eine größere Klarheit über die
+Bedeutung der Modaloperatoren verschaffen.    
+
+[Nichtklassiche Logiken]
+
+Die Lügner-Paradoxie  wird durchaus von Thierry IFL vermieden, der
+auch die Bivalenz aufgibt, und die "verstärkte" Paradoxie ist bei ihm
+/so/ gar nicht formulierbar.  
+
+
+Du hast zu viel zutrauen in die Pragmatik, ich kenne kein phil.
+Problem, das die Erdmannsweiler Philosophen der Normalsprache wirlich gelöst
+haben.
+
+
+niklaus

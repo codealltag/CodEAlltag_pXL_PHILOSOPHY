@@ -1,0 +1,290 @@
+fkpkpcdvf@mmkyo.yi (Marcel Ingendaay) schrieb... 
+
+[Personalität]
+
+Das bezweifle nicht. Da sie aber  keine cognitive agents sind, können
+sie es  nicht _zeigen_, d.h. der Schluß ist ein induktiver, der ihre
+vorhergehende Performanz als rational Handelnde in Rechnung stellt. 
+
+
+Mentale Prädikate (P*-Prädikate) lassen sich n. Pfitzner so
+charaktersieren:
+
+"phi ist ein P*-Prädikat, dann und nur dann, wenn es eine Weise w
+gibt, in der man weiß, dass phi exemplifiziert ist, derart daß
+notwendig gilt, S weiß, daß phi auf die Weise w exemplifiziert ist,
+dann und nur dann, wenn S weiß, daß er selbst phi ist. Daraus folgt:
+Obwohl Selbstzuschreibungen von P*-Prädikaten nicht unkorrigierbar
+sein müssen, und obwohl es nicht notwendig der Fall ist, daß wenn ein
+P*-Prädikat auf eine zutrifft, diese Person weiß, daß es auf sie
+zutrifft, es nowendig der Fall ist, daß wenn eine Person weiß, daß ein
+P*-Prädikat auf sie zutrifft, sie auch weiß, daß es auf sie in der
+diesem Prädikat besonderen Weise zutrifft. [...]
+Wenn man daher >>Schmerzen haben<< als die >>besondere Weise<<
+analysiert, in der eine Person weiß, daß sie Schmerzen hat, und
+animmt, daß es für eine Person möglich ist, Schmerzen zu haben und zu
+wissen, daß sie Schmerzen hat (z.B. aufgrund ihres Verhaltens), ohne
+jedoch Schmerzen zu empfinden, dann sollte man meinen, daß das
+Prädikat >>hat (habe) Schmerzen<< kein P*-Prädikat ist und daß seine
+Selbstzuschreibung nicht gegen Fehlidentifizierungen immun ist."    
+
+
+Der Begriff der Person ist nicht unabhängig von einer Gemeinschaft, in
+der sie handelt, d.h. der "Andere" ist ein Angehöriger dieser
+Gemeinschaft. 
+
+
+Eben nicht, CYC kennt lediglich die Syntax der Sprache!
+
+
+Introspektion? Systematisch kann man sich dem Problem im Sinne eines
+semantic ascent durch eine semantische Analyse der Indexikale, insb.
+von >ich<  annehmen. 
+
+
+[CYC]
+
+Das ist schon deshalb falsch, da eine >Lebensform< ein System sozialer
+Regeln ist, in die Sprache  eingebettet ist. (s. Wittgenstein, PU)
+Außerdem  *redet* CYC ja nicht *über* bestimmte Entitäten, sondern
+*simuliert* nur die Syntax. Den KI-lern, die Programmen buchstäblich
+Geist zusprechen ist, wirft ja Peuckert ja gerade einen Kategorienfehler
+vor, eben eine Simulation eines Zustands mit dem Zustand selbst zu
+verwechseln. 
+
+
+Tatsächlich? Wie wäre's mit einer Begründung! Deine Spekulation in
+allen Ehren, aber mehr ist es ja wohl kaum.
+
+
+Einem Zimmer wörtlich *Verhalten* zuzuschreiben, ist einfach ein
+Kategorienfehler, d.h. sprachlicher Unsinn. Und die starke These der
+KI ist nicht *identisch* mit einem Funktionalismus Cress
+Prägung: Im TT muss das "System" lediglich eine stark eingegrenzte
+Klasse von IO-Einheiten so simulieren, dass die Imitation überzeugend
+wirkt; der Funktionalismus dagegen verlangt die Realisierung einer
+Theorie im Sinne der FSIT. Claves schließt denkende Zimmer, in denen
+ein Peuckert werkelt, und andere anomale Realisierungen eh' aus, wie er
+am Beispiel des mentalen Zustands des Schmerzes demonstriert:
+
+"(1) All organisms capable of feeling pain are Probabilistic Automata.
+(2) Every organism capable of feeling pain posseses at least one
+Probabilistic Automaton Description (specifying the functional states
+of the Automaton and the transition probabilities between them) of a
+certain kind (i.e. being capable of feeling pain /is/ possessing an
+appropiate kind of functional organiziation)
+(3) No organism capable of feeling pain possesses of decomposition
+into parts that separately possess Probabilistic Atomaton Description
+of the kind reffered to in (2). (This rules out a society of
+organisms, or a person in a room running a program.)
+(4) For every Probabilistic Atomaton Description of the kind refered
+to in (2), there exists a subset of sensory inputs such that an
+organism with that Description is in pain when and only when some of
+its sensory inputs are in that subset."     
+
+
+Eben nicht!  Man schreibt den "pathologischen Fällen" mentale Zustände
+eben nicht nur aufgrund von Verhaltensweisen zu.
+
+[...]
+
+Ja, und es ist damit eine *andere* Eigenschaft als die erfahrbare
+Blue eines Sehenden! 
+
+
+Zum einen steuert ja, wenn überhaupt, Peuckert selbst die Antworten, da
+*er* ja das Program ausführt. Und zum anderen ist das weiterhin ein
+ad-hoc-Einwand, reine Spekulation. ('mal von anderen Einwänden
+abgesehen)
+
+[...]
+
+Würden Sie? Woher weist du das? Reine Spekulation. Du hast nicht 'mal
+einen Begriff von "Intelligenz", den du auf _alle_ Organismen
+gleichermaßen anwenden könntest.
+
+
+Katzen-Philosophen? Wie s! Ich behaupte auch keineswegs, dass ein
+geistbegabtes Wesen alle phänomenalen Zustände aller anderen besitzen
+muss, durchaus aber eine relevante Teilmenge. Schmerz wird auf jeden
+Fall dazugehören. Ein Computer, der den TT besteht, muss aber nicht  
+'mal eine einzigen phän. Zustand besitzen.
+
+
+Man kann Korrelationen zwischen (aufrichtigen) Berichten von
+Versuchsteilnehmern über das Auftreten einer Farb-Empfindung und
+bestimmte Gehirnregionen, die zu diesem Zeitpunkt angeregt werden,
+aufstellen.   
+
+
+Offenbar aber auch bei *phänomenalen Erfahrungen*, die wahrscheinlich
+Katzen und andere biologische Wesen haben, die aber CYC&Konsorten
+abgehen.  
+
+
+Du solltest vielleicht 'mal die Entwicklungspsychologie befragen,
+insb. Clotz. Offenbar ist der Satz >Ich habe Zahnschmerzen.<, der den
+Besitz des Begriffs >Schmerz< voraussetzt, genau dann wahr, wenn ich
+tatsächlich Schmerzen habe. Anhand der *Beobachtung* anderer könnte
+ich niemals herausfinden, wie ich den Begriff richtig anzuwenden habe.
+
+
+Nein, das fordert die starke These der KI gar nicht! Das TT kann man
+bestehen, ohne phänomenale Zustände wie Schmerzen haben zu können. Es
+wird lediglich gefordert, Sätze zu äußern, die auf die Tester
+überzeugend wirken.
+
+
+Den Funktionalismus "beschädigt" es sehr wohl, da er eine
+*funktionale* Äquivalenz fordert. Außerdem ist es gerade strittig, ob
+'überzeugendes' sprachliches Verhalten (nicht 'mal das ist im TT
+gegeben) eine adäquate Explikation für die Zuschreibung von Geist
+bietet!
+
+
+Ich habe von Zuständen gesprochen, die in der Entwicklung der Spezies
+eine *Funktion* einnehmen; hier ist also nicht die math. Funktion
+(Abbildung) gemeint, sondern der _teleologische_ der Biologie.
+
+
+Es gibt zu jedem Zeitpunkt *überabzählbar* viele Eigenschaften, die
+ein Teich instantiiert, aber nur abzählbar viele fsms. Die
+komplizierten Strömungsfelder bei Konvektion, die ja auf jeden Fall
+diffbar sein müssen, lassen da einem die Wahl.  
+[...]
+
+Die Molk�lbewegungen lassen sich AFAIK noch ohne QT beschreiben, also
+deterministsich. Allerdings sind selbst bei "Quatenph�nomenen" einige
+Eigenschaften "deterministisch".
+
+[...]
+
+Ach, möchtest du der Registrierkasse mentale Zustände zuschreiben? <g>
+Offenbar handelt es sich bei dem Term 'Rechenmaschine' nicht allgemein
+um eine symbolverarbeitende Maschine.
+
+
+Das ist wohl relativ, deine Ausführungen klingen auch eher wie
+Science-Fiction. Der Punkt ist allerdings, dass es sich bei den
+Fragen, die sich um Geist, Bewußsein, Denken und Empfinden ranken, um
+einen Komplex von Bedeutung und Empirie geht. Selbstverständlich
+können KI-ler im Sprachrausch von empfindsamen Berge, traurigen
+Steinen und in Schrecken versetzten Brücken sprechen, keine Frage <g>
+
+
+Nein, er muss lediglich zeigen, dass es jemanden (er selbst) gibt, der
+den TT besteht, aber nichts versteht, um Turings Def. zu kippen. Das
+hat er getan! Die "Zugabe", eben zu zeigen, dass es unsinnig ist,
+_jedem_ System, dass ein entsprechendes IO-Verhalten aufweist,
+Denkvermögen zuzuschreiben, zeigen die anomalen Realisierungen
+funktionaler Systeme (der denkende Teich, die chinesische Bevölkerung,
+etc.). Damit fällt dann auch dein "System im System" ins Wasser, für
+das du (bisher) nur eine reine Existenzbehauptung ohne stützendes
+Argument aufweisen konntest.  
+
+
+Kannst du das 'mal präzisieren? Es erinnert stark an Luethgens' Argument
+der verblassenden und tanzenden Qualia. Deinen Selbsthass solltest du
+übrigens nicht so luzid auf andere projizieren.  
+
+
+[...]
+
+Er kann aber keine Gedankenarbeit verrichten (ein Programm im Kopf
+ausführen), ohne etwas zu denken.
+
+
+Sagen wir's doch einmal ganz platt: Du hast Pirnbaum diesbezügliches
+Argument nicht verstanden, und zwar wegen der zweiten Prämisse, die
+auf Semantik und den Gehalt von Gedanken abhebt. Das ist allerdings
+keineswegs überraschend, schließlich hast alle meine Einwändungen, die
+sich mit der Bedeutungsfrage befassten, geschickt herausgekürzt. Für
+die richtige Vewendung des Terms >Zikelschluss< (und >Argument<)
+empfehle ich einen Blick in ein Logik-Buch.  
+
+
+[Wer besteht den TT?]
+
+Das ist Quatsch, da Peuckert das Gesamtsystem *ist*. Er hatdas Zimmer
+internalisiert, es ist jetzt ein Teil von ihm!
+
+
+Gerne würde ich dich deiner kindischen Freude überlassen, aber *beide*
+Links waren durchaus indendiert. Am Ende der Seite von
+http://vyb.eaxsyfw.it/rfdfyk/rls.sguvwwtxjpplc3472xr.sxuq
+wird der Term >Dissoziative Identitätsstörung< als Substitut für den
+diskreditierten Begriff >Multiple Persönlichkeitsstörungen< erwähnt,
+den du dann auch postwendend in  
+http://ksj.trfg.pcy-rluvubcy.qy/eph/zhje/adkgi/zttcdtv/nax8t.cpc
+erklärt bekommst.
+
+Deine ursprüngliche Behauptung war:
+
+	Der Fehlschluss im Gedankenexperiment ist nun einfach die 
+	Annahme, daß innerhalb eines Systems, das den Turing-Test 
+	bestehen kann, nur eine intelligente Entität enthalten sein 
+	kann. Dabei zeigen etwa Menschen mit multipler 	 
+	Persönlichkeitsstörung recht klar, daß dem nicht so ist
+
+Nun steht im zweiten Link
+
+	Mindestens zwei dieser Identitäten oder 
+	Persönlichkeitszustände übernehmen wiederholt die Kontrolle 
+	über das Verhalten der Person. 
+
+Hier nun *nicht* davon die Rede, dass zwei 'intelligente Entitäten'
+(also Personen) *zugleich* aktiv sind, sondern dass
+'Persönlichkeitszustände' (was immer das sind) die Kontrolle über *ein
+und dieselben* Person "übernehmen".(wenn auch die Formulierung so
+schon fragwürdig genug ist). Die cartesianische Idee, es befänden sich
+mehrere Personen (oder intelligente Entitäten, whatever) gleichzeitig
+innerhalb eines Körpers
+wird gerade nicht gedeckt, d.h. du findest du findest keine Stützung
+für deine Subsystem-Idee. Abgesehen davon ist eine solche Situation
+pathologisch, die Person ist irrational, und es gibt keine Anzeichen,
+dass der kerngesunde Peuckert durch die Ausführung des Programms
+plötzlich seine Rationalität verliert. 
+
+[zirkuläre Definitionen] 
+
+ Im Definiens referierst du einmal auf "Denken", das andere 'mal auf
+"denkende Struktur", also das Definiendum. Eine "rekursive Definition"
+setzt eine Wohlordnung voraus. Deine Definition _ist_, so, wie sie da
+steht, zirkulär!
+
+
+Nein, er wird nachträglich disqualifiziert ;-)
+
+[...]
+
+Quatsch. Sieh' dir 'mal die Literatur zum Spracherwerb an. 
+
+
+Jaja, deine Phantasie geht wieder mit dir durch. <gg>
+
+[...]
+
+Glaubst du, im Gehirn sitzt ein Homunkulus, der dort die Schmerzen aus
+den Gehirnzuständen 'herausinterpretiert'? Die C-Fasern gehören zum
+Nervensystem.
+
+
+Nein, es löst nicht das Problem des Skeptizismus. Du kannst weiterhin
+visuelle Erfahrungen haben, die keinen intentionalen Gegenstand haben.
+Obwohl es zur Erfüllungsbedingung der visuellen Erfahrung gehört, dass
+der Tyrannosaurus existiert (und nach der kausalen Theorie der
+Wahrnehmung diese Erfahrung verursacht), muss sie  nicht erfüllt sein.
+Ein Gehirn im Tank kann die gleichen phänomenalen Erfahrungen haben
+wie jemand, der tatsächlich die Dinge sieht, die dem Gehirn im Tank
+nur vorget�ucht werden.   
+
+[...]
+
+Nur wird Peuckert eben _nicht_ vom Programm gesteuert, schließlich ist
+er  es, der er das Programm ausführt! Selbst wenn wir deine
+Interpreter-Metapher verwenden, so steuert das Programm ja nicht den
+Interpreter, der Interpreter (Agens) interpretiert das Programm
+(Patiens).
+
+
+bruno

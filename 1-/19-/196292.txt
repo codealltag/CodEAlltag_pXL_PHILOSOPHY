@@ -1,0 +1,35 @@
+Hallo, Waldemar!
+
+Waldemar Crüger wrote:
+[...]
+
+Ja, wenn er denn schon drinlaege. Zumindest auf die Tatsache dass
+nicht hatten wir uns schon geeinigt, jetzt bring Du bitte nicht
+alles wieder durcheinander! ;-)
+
+
+Das ist jedenfalls das, was ich mit Information meinte. H(X) bezeich-
+net die von einer Quelle ausgesendete Information pro Zeichen. Ich
+bin mir aber nicht sicher, dass es auch das ist, was N.V. meint,
+wenn er sagt, der Informationsgehalt einer auf einer Festplatte
+gespeicherten Nachricht sei unabhaengig von der Wahrscheinlich-
+keitsverteilung der Datenwoerter in jedem Fall Null, oder die
+Integration des Informationsfluss ueber die Zeit sei eine "voellig
+sinnlose mathematische Operation" (siehe sein aktuelles Posting).
+Egal... vielen Dank fuer Deinen lesenswerten Beitrag! Eine Zusatz-
+bemerkung sei mir gestattet:
+
+
+Im Modell eines Uebertragungskanals ist bei fehlerfreier Ueber-
+tragung H(Y|X)=0 und damit I(X;Y)=H(X). Die sogenannte Trans-
+information T(X)=I(X;Y) ist in diesem Idealfall gleich der der
+ausgesendeten Nachricht.
+
+Gruss,
+
+	Tim.
+
+-- 
+
+ ----------  Tim Camphens, Distributed Systems Department  ---------
+ -------------------- http://gcgrre.lhbo.hgmib.cd --------------------

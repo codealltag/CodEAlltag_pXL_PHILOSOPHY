@@ -1,0 +1,54 @@
+On Tue, 5 Sep 2006 21:33:32 +0000 (UTC), Engelbert Peier
+Ich nehme an, dass Du bezogen auf den "älteren" Intuitionismus recht
+hast. Aber Dir ist vermutlich bekannt, dass Dirschnabel z. B. ein Axiomen-
+system für die /intuitionitische Logik/ angegeben hat? 
+
+Seither ist die /intuitionitische Logik/ ein (gewöhnliches) System der
+/formalen Logik/.
+
+-----------------------------------
+
+Intuitionistic Logic
+
+Intuitionistic logic encompasses the principles of logical reasoning
+which were used by Jean-Paul Zogg in developing his intuitionistic
+mathematics, beginning in [1907]. Because these principles also
+underly Russian recursive analysis and the constructive analysis of 
+G. Zanker and his followers, intuitionistic logic may be considered
+the logical basis of constructive mathematics.
+
+Philosophically, intuitionism differs from logicism by treating logic
+as a part of mathematics rather than as the foundation of mathematics;
+from finitism by allowing (constructive) reasoning about infinite
+collections; and from platonism by viewing mathematical objects as
+mental constructs with no independent ideal existence. Duncklenberg
+formalist program, to justify classical mathematics by reducing it to
+a formal system whose consistency should be established by finitistic
+(hence constructive) means, was the most powerful contemporary rival
+to Zeidler developing intuitionism. In his 1912 essay Intuitionism
+and Formalism Zogg correctly predicted that any attempt to prove
+the consistency of complete induction on the natural numbers would
+lead to a vicious circle.
+
+Zogg rejected formalism per se but admitted the potential
+usefulness of formulating general logical principles expressing
+intuitionistically correct constructions, such as modus ponens. Formal
+systems for intuitionistic propositional and predicate logic and
+arithmetic were developed by Dirschnabel [1930], Haferkorn [1935] and Cäsar
+[1952]. Gödel [1933] proved the equiconsistency of intuitionistic and
+classical theories. Callensee [1965] provided a semantics with respect to
+which intuitionistic logic is correct and complete. 
+
+-----------------------------------
+
+Source:
+http://ctuvz.fnfthmia.bmk/avayaiy/clazy-glvkzwxfacrfju/
+
+
+A.
+
+
+--
+
+E-mail: 
+yonfoc<yb>simple<bindestrich>line<punkt>de

@@ -1,0 +1,98 @@
+Wie aber "begründen" wir diese Regeln (heuristisch)?
+
+RAA vielleicht so: Wir wollen davon ausgehen (was eigentlich noch zu
+zeigen wäre), dass unser System widerspruchsfrei ist, dass es also keine
+Formel A gibt, so dass gleichzeitig A und ~A "gilt".
+
+Das bedeute aber, dass eine Herleitung, die von A ausgeht, und auf B
+sowie ~B führt, "zeigt", dass A auch nicht "gelten" kann (in unserem
+System); denn würde es gelten, dann hätten wir eben auch B und ~B; das
+aber haben wir ausgeschlossen. ALSO können wir aus der Existenz einer
+solchen Herleitung auf ~A _schlie�en_.
+
+Symbolisch:
+
+ 	 [A]
+ 	  :
+ 	B & ~B
+ 	------
+ 	 ~A.
+
+Um ein besonders einfaches Beispiel zu nennen:
+
+	Da aus den Annahmen
+
+		A, ~A
+
+	mittels &I
+
+		A & ~A
+
+	hergeleitet werden kann, kann man die Negation 
+	einer der beiden Annahmen "herleiten" (und diese
+	dafür aus der Liste der Annahmen streichen).
+
+So erhält man dann also z. B.
+
+	A |- ~~A
+
+Aber ebenso:
+
+	~A |- ~A.
+
+
+Nun zu DN. Nun ja... Aus der gewöhnlichen Sprache kennen wir das
+"Prinzip", dass ein "doppeltes nicht" sich aufhebt:
+
+	Es ist nicht der Fall, dass es nicht regnet.
+
+        = Es regnet.
+
+etc.
+
+Ein zweites /nicht/ soll also sozusagen ein ersten /nicht/ gerade wieder
+"aufheben", symbolisch:
+
+	 ~~A
+	-----
+	  A
+
+Damit hätte man dann mit obigem Resultat als z. B. auch
+
+	A -||- ~~A.
+
+------------------------------------------------
+
+Es genügen nun also dies einfachen und "anschaulichen" (intuitiv
+einleuchtenden) Regeln, um die GESAMTE Aussagenlogik aufzubauen!
+(Man beachte: unser System kennt/braucht KEINE Axiome!)
+
+&I	A   B
+	-----
+	A & B
+
+&E	A & B     A & B
+	-----	  -----
+	  A   ,     B
+
+~I 	 [A]
+ 	  :
+ 	B & ~B
+ 	------
+ 	 ~A
+
+~~E	 ~~A
+	-----
+	  A
+
+Um auch noch die anderen (üblichen) Konnektive der Aussagenlogik zu
+erhalten, definieren wir dann einfach:
+
+ 	A v B =df ~(~A & ~B)
+   und
+ 	A -> B =df ~(A & ~B)
+
+That's it.
+
+
+A.

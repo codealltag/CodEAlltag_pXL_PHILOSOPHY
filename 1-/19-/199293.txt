@@ -1,0 +1,67 @@
+Hallöchen,
+
+
+[Nils M. hatte zurecht festgestellt, dass die reellen Zahlen
+nicht abzählbar sind und dadurch Adrian LKS "Alles was ein
+Modell hat, hat ein Modell in den natürlichen Zahlen"
+widerlegt.]
+
+
+Da kann ich nichts zu sagen. Wie sieht es deiner Meinung nach
+mit Robins Widerlegung (was Kontinuierliches hat kein Modell
+in den natürlichen Zahlen) aus. Ist das deiner Meinung nach eine
+Widerlegung? Wenn nein, musst du mir erklären warum nicht.
+Dann ist mir nämlich nicht klar worüber du redest.
+
+Habe ich nicht mitbekommen, tut mir leid.
+
+Ok, wollen wir mal sehen.
+
+
+Ich kenne das so, dass den geschlossenen *Termen* von f ein Wert aus
+M zu geordnet wird und den offenen Termen ein Wert aus M in Abhängigkeit
+von einer Variablenbelegung. Weiterhin wird den offenen Sätzen
+ein Wahrheitswert in Abhängigkeit einer Variablenbelegung und
+den geschlossenen Sätzen ein Wahrheitswert unabhängig von einer
+Variablenbelegung zugeordnet.
+
+Dabei ist f in der Regel *weder* injektiv noch surjektiv.
+(Eineindeutig bedeutet auch bei dir injektiv und surjektiv, 
+nehme ich an.)
+Injektiv macht keinen Sinn: in einer Formalisierung der
+Zahlentheorie mit dem Modell "natürliche Zahlen" würde man
+den Termen "21" und "17+4" das gleiche Objekt zuordnen
+Surjektiv mach auch keinen Sinn: Die reellen Zahlen
+sind ein Modell der Theorie totalgeordneten Körper, ohne
+dass man für jede reelle Zahl einen Term hat, der diese
+bezeichnet. 
+
+
+Warum _muss_ man das? Man muss es nicht. In der Modelltheorie
+tut man das auch nicht. Man es verbieten und damit einige
+Anwendungen der formalen Logik verhindern.
+
+
+Wenn die Sprache abzählbar ist, kann man auch G�delisieren.
+Wobei das Wort g�delisieren in diesem Zusammenhang gar nicht
+greift, weil es beim G�deliseren im Gödelschen Unvollst�digkeits-
+beweis zusätzlich darum geht, dass alles entscheidbar und
+in der g�delisierten Sprache darstellbar ist pipapo.
+Hier hast du wohl lediglich sagen wollen: Da sowohl die
+Sprache als auch die natürlichen Zahlen abzählbar sind,
+gibt es eine bijektive Abbildung dazwischen.
+
+
+Und sie ist in der Regel kein Modell. Mit der Konstruktion
+eines Modells hat die Gödelisierung nämlich nicht das geringste zu tun.
+
+
+Diese Vorraussetzung war Quatsch.
+
+Du hast jetzt lediglich bewiesen, dass Philosophen nur daherlabern,
+was ja auch Nikos These gewesen war. Zu dem was du hier über
+Logik erzählst kannst du bestenfalls jemanden finden, der staunend
+vor dem Wortgeklingel steht und nichts davon begreift.
+
+-- 
+Andree Paasche

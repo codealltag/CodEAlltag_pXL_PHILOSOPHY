@@ -1,0 +1,61 @@
+Hi,
+
+
+Mal sehen, ob's irgendwann noch bei Dir klingelt:
+
+#v+
+// --------- %< --------------
+const int _e =3D 42;
+typedef struct {int ladung, int spin, double v[3]} teilchen;
+teilchen e[3];
+teilchen *t1,*t2,*t3;
+
+e[0].ladung =3D e[1].ladung =3D _e;
+e[0].spin =3D -2;
+e[1].spin =3D 2;
+
+e[0].v[0] =3D rand();
+e[0].v[1] =3D rand();
+e[0].v[2] =3D rand();
+
+e[1].v =3D e[0].v;
+e[2] =3D e[0];
+
+t1 =3D &e[0];
+t2 =3D &e[1];
+t3 =3D &e[0];
+// --------- %< --------------
+#v-
+
+e[0] bis e[2] _sind_ die Teilchen.
+
+Obwohl e[0] und e[2] gleich sind, sind es nicht identische Teilchen.
+Es gilt: e[0] =3D=3D e[2]
+aber:    &(e[0]) !=3D &(e[2])
+
+t1 und t3 'bezeichnen' allerdings identische Teilchen, obwohl t1 nur
+gleich t3 ist und nicht identisch damit:
+Es gilt: *t1 =3D=3D *t3
+aber:    t1 !=3D t3
+
+Sowas muss doch begreiflich sein.
+
+Und jetzt stell Dir einfach mal vor, t1 und t3 zeigen auf zwei
+'Objekte', die zwar die gleichen Werte haben, also im Speicher
+gleich aufgebaut sind, aber komplett unterschiedlich interpretieren,
+weil es sich bei t3 nicht im ein Teilchen handelt, sondern vielleicht
+um Daten, welche drei Konten eines Bankkunden beschreiben, dann
+wird Dir vielleicht die Absurdität der Selbstsicherheit mit der
+Du hier Gustav Aussagen als Quark usw. bezeichnest, evtl. noch krasser
+bewusst.
+
+
+Wenn Du den Unterschied zwischen gleichen und identischen Objekten
+nicht begreifen kannst, macht es womöglich keinen Sinn, weiterhin
+auf Postings von Dir zu antworten. Viel wichtiger noch, Du solltest
+Dir überlegen, ob Du weiterhin Computerprogramme schreiben willst.
+
+
+Das ist doch das gleiche! ;-)
+
+Konrad

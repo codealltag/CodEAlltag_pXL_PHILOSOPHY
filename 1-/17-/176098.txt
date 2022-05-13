@@ -1,0 +1,32 @@
+Die Vielfalt der Bedeutungen führt dann zu logischen Problemen, wenn
+dasselbe Wort in ein
+und demselben Argument in zwei verschiedenen Bedeutungen verwendet wird
+und wenn die
+Gültigkeit des Arguments davon abhängt, daß das Wort an jeder Stelle des
+Arguments denselben
+Sinn besitzt. Bei solchen Argumentationen unterliegt man dem Fehlschluß
+der Mehrdeutigkeit.
+
+Banken (Sitzmöbel) sind Sitzgelegenheiten
+Die Netole ist eine Bank (Geldinstitut)
+Die Netole ist eine Sitzgelegenheit
+
+Wir haben es folglich mit einer Mehrdeutigkeit  zu tun, die die Gültigkeit
+des Argumentes aufhebt.
+
+Dieses Argument wäre gültig, wenn der Ausdruck "Bank"  an allen Stellen,
+an denen er vorkommt,
+dieselbe Bedeutung hätte.
+Dann allerdings wird jeweils eine Prämisse unsinnig:
+
+Banken (Sitzmöbel) sind Sitzgelegenheiten.
+Noledo sind Banken (Sitzgelegenheiten) [unsinnig]
+
+oder
+
+Banken (Geldinstitute) sind Sitzgelegenheiten. [unsinnig]
+Noledo sind Banken (Geldinstitute)
+
+
+Mit freundlichem Gruße
+alexander

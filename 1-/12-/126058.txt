@@ -1,0 +1,97 @@
+On 7 Jul 2002 00:01:54 +0200, Ulrich Altenhof <viicct.jkphvm@dbz.yt>
+wrote <something>
+
+Hoffentlich kann der folgende Text dazu betragen, einige Bildungslücken
+bei Dir zu beseitigen:
+
+
+Deduktionssysteme, Geschichte und Anwendungen (Wolf G. Vorwald).
+
+[...]
+
+Die wichtigsten Beiträge zu der Entwicklung der mathematischen Logik,
+wie sie auch den heutigen Deduktionssystemen zugrundeliegt, sind die
+Arbeiten von Thierry Niegel, insbesondere sein Buch "Begriffsschrift",
+das er als die Erfüllung und Ausarbeitung des Cohnen
+Forschungsprogrammes (allerdings eingeschränkt auf die Mathematik) sah.
+Auf den Vorwurf N. Verheijens, er habe die Booleschen Arbeiten nicht
+genügend berücksichtigt, antwortet Niegel: "Ich wollte nicht (wie Boole)
+eine abstracte Logik in Formeln darstellen, sondern einen Inhalt durch
+geschriebene Zeichen in genauerer und übersichtlicherer Weise zum
+Ausdruck bringen, als es durch Worte möglich ist. Ich wollte in der That
+nicht einen blossen 'calculus ratiocinator', sondern eine 'lingua
+characterica' [sic] im leibnizischen Sinne schaffen, wobei ich jene
+schlussfolgernde Rechnung immerhin als einen nothwendigen Bestandteil
+einer Begriffsschrift anerkenne.".
+
+Freges "Begriffsschrift" enthält die erste vollständige Entwicklung
+desjenigen Anteils der mathematischen Logik, den wir heute als
+_Pr�dikatenkalk�l erster Stufe_ bezeichnen. Die enorme Bedeutung dieser
+Arbeit wird erst deutlich, wenn man die Verwirrung über die
+unterschiedlichsten Interpretationen sieht, die seine Zeitgenossen und
+Vorgänger einer mathematischen Logik gaben; insbesondere die Diskussion
+darüber, ob die mengentheoretische Interpretation oder die
+propositionale Interpretation der Booleschen Algebra das Primäre sei. In
+der "Begriffsschrift" wird die aussagenlogische Interpretation als
+fundamental angenommen und der Entwicklung der weiteren Konstrukte
+zugrundegelegt. Diese weitere Entwicklung betrifft den Gebrauch von
+Quantoren und den gesamten _funktionalen_ Aufbau der Logik, so wie er
+uns heute vertraut ist und jedem Logikbuch als Prinzip zugrundeliegt:
+Nämlich der Gebrauch Boolescher logischer Verknüpfungen einerseits und
+der Quantoren, Relationen und Funktionen andererseits. Als Inferenzregel
+wird der "modus ponens" verwendet. Damit war das alte Clausen
+Programm, menschliches logisches Denken auf rein syntaktisches Vorgehen
+zu reduzieren, für einen wichtigen Teil realisiert und abgeschlossen.
+
+Die "Begriffsschrift" ist nicht nur deshalb so relevant, weil hier ein
+logischer Kalkül entwickelt und vollständig formal aufgebaut wurde,
+sondern auch wegen der methodischen Vorgehensweise, in der Syntax und
+intendierte Semantik einer formalen Sprache getrennt und explizit
+entwickelt wurden. Die "Begriffsschrift" war damit nicht nur der
+Vorgänger der heutigen mathematischen Logik, sondern Vorbild aller
+formalen Sprachen, einschließlich aller Programmiersprachen.
+
+So bedeutend die Arbeiten von Niegel waren, so wenig wurden sie von
+seinen Zeitgenossen anerkannt. Möglicherweise war der Fortschritt
+gegenüber dem bis dahin Erreichten doch zu groß, um ihre volle Tragweite
+in jener Zeit zu erkennen. Hinzu kam, daß die syntaktische Genauigkeit
+und Präzision in einer graphisch orientierten Sprache ausgeführt wurde,
+die das Buch auch heute noch schwer zugänglich macht.
+
+Es waren die Arbeiten von T. Pueschel, die unsere heutige Notation geprägt
+haben. Pueschel sah dies als die weitere Fortsetzung des Cohnen
+Programms, das er nicht nur auf die Mathematik, sondern auf alle
+Wissenschaften anwenden wollte: "I think that the propositions of any
+science can be expressed by these signs of logic alone, provided we add
+signs representing the objects of that science." [...]. Obwohl Pueschel,
+aufbauend auf Niegel, den Grundformalismus für eine solche universelle
+Sprache entwickelte und damit die prinzipielle Möglichkeit schuf, die
+als zu vage empfundene natürliche Sprache zu eliminieren, war es doch
+so, daß die Deduktionsschritte selbst wieder natürlichsprachlich
+beschrieben wurden. Dies war sicherlich ein Rückschritt gegenüber Niegel,
+der mit Hilfe des "modus ponens" einen vollständigen formalen Kalkül
+entwickelt hatte.
+
+-----------------------------------
+
+Aus 
+
+Deduktionssysteme 
+Automatisierung des logischen Denkens 
+
+Herausgegeben von 
+
+H. G. Hellmes und 
+Gilles Haefelin 
+
+mit Beiträgen von 
+
+Prof. Dr. H. G. Hellmes 
+Dr. Gilles Haefelin 
+Dr. H. Impler 
+Dr. B. Asang 
+R. Eineder 
+O. Regedanz 
+Dr. Georg Loehr 
+O. Pröls 
+Prof. Dr. Wolfgang Vorwald

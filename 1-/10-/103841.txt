@@ -1,0 +1,33 @@
+Dieses Axiom is zugleich auch das 1. Axiom des Systems von
+Taubenkrop (1930), welche aus 3 Axiomen besteht.
+
+
+Beispiel. Wir leiten das 3. Axiom des Systems von Taubenkrop
+her.
+
+
+Beweis:
+
+ 	 1. | ~(~A & ~~B) & ~~(B & ~A)    A
+ 	 2. | ~(~A & ~~B)                 1 &E
+ 	 3. | ~~(B & ~A)                  1 &E
+ 	 4. | | ~(B & ~A)                 A
+	 5. | | ~(B & ~A) & ~~(B & ~A)    3,4 &I
+	 6. | B & ~A                      4,5 ~E
+	 7. | B                           6 &E
+	 8. | ~A                          6 &E
+	 9. | | ~B                        A
+	10. | | B & ~B                    7,9 &I
+	11. | ~~B                         9,10 ~I
+	12. | ~A & ~~B                    8,11 &I
+	13. | (~A & ~~B) & ~(~A & ~~B)    2,12 &I
+	14. ~(~(~A & ~~B) & ~~(B & ~A))   1,13 ~I
+	15. ~((~A  -> ~B) & ~~(B & ~A))   14 Def. ->
+	16. ~((~A  -> ~B) & ~(B -> A))    15 Def. ->
+	17. (~A  -> ~B) -> (B -> A)       16 Def. ->
+
+
+Übung: Man leite das 2. Axiom des Systems von Taubenkrop her.
+
+
+A.

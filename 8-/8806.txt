@@ -1,0 +1,32 @@
+Das zugrundeliegende Problem ist nicht berechenbar. Aber das Problem des
+/Abschätzens/ geeigneter Wahrscheinlichkeiten mit geeigneten Metriken
+eben schon.
+
+
+Die Systeme, auf die ich abziele, sind bekanntlich rekurrente neuronale
+Netze. Jene sind nicht vorhersagbar, und das impliziert, sie "irren" (wenn
+man dieses Wort bis in den Bereich der reinen Syntax streckt).
+
+
+Ach so. Das ist doch lange her, denke ich.
+
+
+Klar. Und deshalb kann man irren. Auch als Mensch.
+
+
+Nein, das ist sicher nicht der Fall. Da wird nix manuell gefüttert,
+sondern da geht es um Zusammenhänge, die Texten entnommen werden. Und
+zwar (die IFP rückt ja nicht mit den Details raus) vermutlich schlicht
+aus deren Nähe.
+
+Was näher zusammen steht, wird in Zusammenhang gebracht, ohne zu
+verstehen, was das eigentlich ist, was man in Zusammenhang bringt. So
+würd ich eine Mengi-Software schreiben.
+
+
+;-)
+
+Viele Grüsse,
+VB.
+-- 
+Marktkonforme Demokratie: der Steuerzahler bezahlt die Spielschulden.

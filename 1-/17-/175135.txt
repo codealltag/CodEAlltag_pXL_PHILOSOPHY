@@ -1,0 +1,56 @@
+Im Artikel <63X00XGP.0GBD9B5@bwhx.wwno-olzpdf.ei>, Nelly Weixelbaum
+
+zwischen den natuerlichen und reellen Zahlen besteht ja auch ein qualitativer
+Unterschied. Z.B. sind die reellen Zahlen ein Kontinuum und die natuerlichen
+Zahlen nicht.
+
+
+wir sind uns einig. Prima :-)
+
+
+ja und? Auch wenn unsere Wahrnehmung die Wirklichkeit erfasst, muss die in
+unserer Vorstellung existierende Welt nicht mit der Wirklichkeit
+uebereinstimmen.
+
+
+Fein.
+
+
+besteht da etwa ein Widerspruch?
+
+
+ich wuerde sagen, da hast du einfach den Weg der Grenzwertbildung ungeschickt
+gewaehlt. Ich wuerde so vorgehen:
+Ich unterteile die Flaeche A des Kreises in N gleich grosse Flaechenstuecke der
+Flaeche a=A/N. Dann lasse ich a gegen Null und entsprechend N gegen unendlich
+laufen. Dabei bleibt stets a*N=A.
+Oder ich modifiziere diese Vorgehensweise leicht, indem ich die Flaechen a der
+N Flaechenstuecke nicht mit N multipliziere, sondern ueber die N
+Flaechenstuecke summiere, also 
+A = Sum_{i=1, N} a_i = a_1+a_2+...+a_N. 
+Dann lasse ich a_i gegen Null gehen und erhalte als Grenzwert dieser Summe fuer
+a_i -> 0 das Integral 
+A = Int_{0, A} d(a). 
+Dieses Integral forme ich um (in Polarkoordinaten {r, phi}) zu 
+A = Int_{0, R} Int_{0, 2*Pi} r d(phi) d(r), 
+und das ergibt A = Pi * R^2,
+wobei R der Radius des Kreises ist.
+
+
+das kann dir schmu erscheinen oder nicht, das ist nun mal so.
+
+
+du hast aber damit argumentiert, dass nach der ART Raum und Zeit eine Kruemmung
+aufweisen. Wie soll denn das gehen, wenn Raum und Zeit nicht physikalisch real
+existent sind? Schliesslich hat diese Kruemmung ja beobachtbare Einfluesse auf
+physikalische Vorgaenge (Gravitation).
+
+
+Das muesste aber nicht bedeuten, dass der Raum einen "Rand" hat, relativ zu dem
+sich ein im Raum befindlicher Ball bewegt. Eine Kugeloberflaeche, die ich von
+aussen betrachte, hat ja auch keinen Rand.
+
+
+Live long and prosper!
+And may the force be with you!
+Fabrice

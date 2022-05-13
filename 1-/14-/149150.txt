@@ -1,0 +1,24 @@
+Hallo Olaf,
+
+es geht nur a). Denn wenn ich mit  L  seine Lebenszeit bezeichne und mit
+G das Lebensjahr, in dem sein Sohn geboren wurde, so gilt:
+
+G = L/6 + L/12 + L/7 + 5, also  84*G = 33*L + 5*84   (*)
+
+Nach a) haben wir  G + L/2 = L - 4, d.h. 2*G = L - 8
+Nach b) haben wir  G + (L-4)/2 = L - 4, d.h.  2*G = L - 4
+
+a)  gibt  84*G = 42*L - 8*42. Wegen (*) also 9*L = 9*84.
+
+b)  gibt  84*G = 42*L - 4*42. Wegen (*) also 9*L = 7*84.
+
+Während  a)  mit  L = 84  gut bedient ist, scheitert  b)  daran,
+dass 9 kein Teiler von 7*84 ist.
+
+Die Antwort lautet also, dass Diophant ( nach neuer Rechtschreibung
+wohl Diofant *g*)  das hohe Alter von 84 Jahren erreicht hat. Sein
+Sohn wurde nur halb so alt und starb mit 42 Jahren, als Diophant
+gerade 80 Jahre alt war.
+
+Gruss,
+Christian

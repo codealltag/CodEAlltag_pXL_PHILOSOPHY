@@ -1,0 +1,14 @@
+z.B. so wie es umgangssprachlich gemacht wird:
+       5  Uhr  vormittags       --     5  am
+       5  Uhr  nachmittags    --     5  pm
+
+
+Durch Kalendervierteljahr, Kalenderwoche, Kalendertag
+
+
+... und  ((2*12 + 6)*12 + 5)*12*7*2*oo  ist dann wohl ein Jahr  (außer in
+Schaltjahren, dafür gelten aber Sonderregeln)     ;-)))
+
+Gruß
+     Waldemar
+--

@@ -1,0 +1,286 @@
+Hallo Henning,
+
+
+Man kann nicht ganz nach Lust und Laune irgendwelche Zahlen beliebig und
+willkürlich herausnehmen  ...  das Herausnehmen muß gemäß bestimmter
+Regeln geschehen, man erhält dadurch eine neue arithmetische Struktur,
+und dann funktionieren auch Zählen und Rechnen widerspruchsfrei innerhalb
+dieser neuen Struktur.
+
+
+weder notwendigerweise noch umgekehrt
+
+
+Genau dies  -  es gibt sie nicht in der arithmetischen Struktur.  Wenn es dort
+z.B. keine Zahl  1  gibt, dann gibt es auch keine Primzahlen im engeren Sinne,
+weil man dann z.B.  5  weder durch  1  noch durch sich selbst teilen kann, wohl
+aber z.B.  die Zahl  8  durch die Zahl  2   ...
+
+
+Man tut nicht nur so, man kann es wirklich ... man muß nur den Begriff "messen"
+der zugehörigen Maßtheorie anpassen.
+
+
+Nicht notwendigerweise. Die Menge  Z  der ganzen Zahlen
+   ...  -3, -2, -1, 0, 1, 2, 3, ...
+hat kein erstes Glied, ebensowenig wie z.B. die Menge  Q+  der positiven
+rationalen Zahlen ...
+
+
+Wenn man keine nat. Zahlen hat, dann nimmt man zum Abzählen halt geordnete Mengen ...
+
+
+Das verstehe ich nicht  -  was ist Giralgeld ?
+
+
+... sogar expressis verbis ...
+
+
+Ja, und in einem konsistenten arithmetischen System sind alle arithmetischen
+Aussagen auch konsistent.
+
+
+Nein, genau dieses Beispiel wäre inkonsistent.  Konsistent wäre z.B eine
+Restklassenarithmetik, die nur die ersten 25 nat. Zahlen einschließlich
+der Zahl Null enthält, oder eine Arithmetik, die nur die durch  3  teilbaren
+Zahlen enthält ...
+
+HK >> Dies stimmt natuerlich nur, wenn die nat. Zahlen im Dezimal-
+HK >> system (Stellenwertsystem zur Basis  10)  dargestellt sind;
+HK >> es stimmt nicht bei ihrer Darstellung in einem Stellenwertsystem
+HK >> mit einer anderen Basis ... und es gilt auch nicht bei den natuerli-
+HK >> chen Zahlen in der Darstellung im roemischen Zahlensystem
+
+Falls Du die Notwendigkeit eines  *gemeinsamen Teilers*   e r k a n n t  hast,
+dann war Deine Erkenntnis mathematisch tragfähig, falls Du aber die  *Endziffer
+5*   e r k a n n t  hast, dann war sie es nicht ...
+
+
+Von denen Du annimmst, daß es so wäre ...
+
+HK >>....  zum Ausrechnen von  x + y = z  braucht man nur Addition und
+HK >> Subtraktion zu beherrschen, zum Ausrechnen von  x^2 + y^2 = z^2
+HK >> muß man aber zumindest noch multiplizieren können.
+
+Wenn die Zahlen bzw. die Mächtigkeiten der Mengen  a priori  bekannt sind,
+dann ja. Wenn sie  a priori  unbekannt sind, dann nein. Welche additive
+Zusammenfassung hat das Produkt   x * y  ?
+
+
+... siehe dort die Definition einer Ordnungsrelation in bzw. auf einer Menge ...
+
+EJ >>> Dieses waere bei dieser Annahme eine logisch / mathematisch
+EJ >>> bedeutungslose "Litanei".
+HK >>
+HK >> Nein, wäre es nicht ...
+
+Weil man damit im Rahmen des zugrundegelegten arithmetischen Systems
+widerspruchsfrei arbeiten kann. Die Gleichung
+     2*x^4  +  x^3  -  5*x^2  - 2*x  +  2  =  0
+hat in natürlichen Zahlen  N  überhaupt keine Lösung, in ganzen Zahlen  Z  eine
+einzige Lösung, in rationalen Zahlen  Q  zwei Lösungen und in reellen Zahlen  R
+vier Lösungen .
+
+EJ >>> Wenn die spez. Mittelgleichung A.  (y-u)^n+ y^n = (y+u)^n
+EJ >>> bei  n = 2, u = 1, y = 4  unloesbar waere, waere nicht nur
+EJ >>> (y-u)^2 + y^2 = (y+u)^2 fuer alle natuerlichen Zahlen u > 0
+EJ >>> unloesbar, sondern auch alle spez. Gleichungen wie
+EJ >>>
+EJ >>> (y-u)^2 + y^2 = (y+1)^2   bzw.  x^2 + y^2 = (y+1)^2
+EJ >>> (y-1)^2 + y^2 = (y+u)^2   bzw.  z^2 - y^2  = (y -1)^2
+EJ >>> (y-u)^2 + y^2 = (y+2)^2   bzw.  x^2 + y^2 = (y+2)^2,
+EJ >>>
+EJ >>> die alle zusammen die allg. Gleichung  (y-u)^2 + y^2 = (y+v)^2
+EJ >>> bzw. die Gleichung vom Typ  x^2 + y^2 = z^2  ausmachen.
+HK >>
+HK >> Nein, wären sie nicht ...
+
+Den Grund hast Du ja im unmittelbar folgenden selbst genannt ;-)
+
+
+Genau das ist der Grund ...
+
+
+Nicht nur nicht auf ganz einfache Weise, sondern leider überhaupt nicht ...
+
+
+Aha, wieder Dein "pars pro toto" Sprüchlein  ...  da wendet sich der Mathematiker mit
+Grausen ...
+
+EJ >>> ... und hast mit ...
+EJ >>>  m.E. zum Ausdruck gebracht, dass Du ... nicht verstanden hast,
+EJ >>>  dass den nat. Zahlen > 0 die zur Loesung der Fermatgleichung
+EJ >>>  x^n + y^n = z^n fuer n > 2 vorausgesetzten Eigenschaften nicht
+EJ >>> zukommen, logisch / arithmetisch / geometrisch notwendigerweise
+EJ >>> nicht zukommen koennen.
+HK >>
+HK >> Hmm, zusammen mit Ulrich sind es also schon mindestens zwei,
+HK >> die das nicht verstanden haben  ;-)
+
+Doch, kannst Du  -  Du hast schließlich das Gerücht aufgebracht, es hätte
+etwas damit zu tun ...
+
+HK >> Sogar mit  3  Unbekannten:
+HK >>    x  +  u  =  43,      y  +  u  =  34,     x   -  2* y  =  0
+HK >>    x = 18,  y = 9,  u = 25
+
+Hmm, vielleicht weil  43, 34  ein Kaprekar-Paar ist ...
+übrigens warte ich immer noch auf Deine Lösungswege  "... nach Art des
+dem Mathematiker beim Ausrechnen seiner Gleichungen kopfschüttelnd
+zusehenden Laien ..."  für das Alter von Edouard ...
+
+
+EJ >>> Eben, d.h. die Nichtexistenz einer Ermittlungsgleichung bedeutet
+EJ >>> doch nichts anderes als Unloesbarkeit der Glchg  x^n + y^n = z^n
+EJ >>> bzw. die Unmoeglichkeit einer "Anordnung aus einem Guss".
+HK >>
+HK >> Nein  -  es könnten durchaus auch isolierte Lösungen existieren ...
+
+Das hat zwar F. Krummacker 1995 bewiesen, aber woher weit Du denn das?
+
+
+Da ich nicht weiß, welchen mathematischen Zusammenhang Du jetzt meinst,
+enthalte ich mich dazu einer Äußerung ...
+
+
+Nicht parametrisierbare Lösungen  -  sowas hatte ich Dir vor einiger Zeit mal
+für die Gleichung    x^y  =  y^x,  x, y  \in  Q,   zu erklären versucht.
+
+EJ >>>  Die Mathematiker schliessen also nicht aus, dass
+EJ >>>  x^3 + y^3 = z^3  im Vergleich zu  x + y = z  sozusagen
+EJ >>>  "in weit mehr als 75% aller Faelle unloesbar" sein koennte ;-)
+EJ >>>  Vgl. Mordell-Vermutung.
+HK >>
+HK >> Doch, das tun sie: Der von W. Lindebaum bewiesene Oesterling
+HK >> Satz besagt, daß sie mindestens fast immer unlösbar ist ...
+
+Stimmt  -  und genau dies bedeutet die obige Formulierung:
+ "fast immer unlösbar"      :  nur in endlich vielen Fällen lösbar,
+"mindestens f.i. unlösbar":  f.i. unlösbar oder immer unlösbar.
+
+
+Nun,  m � g l i c h e r w e i s e  hatte Lichtenthäler ja schon  früher als Castritius
+bewiesen, daß für  n = 4  überhaupt keine Lösungen existieren ;-)
+
+
+Hmmm,   x + 7 = 3  ...
+
+THEDA >> Ja, zu recht
+
+Glücklicherweise meine das nicht nur ich ...
+
+EJ >>> und vergisst dabei, dass die Mittelgleichung A bei n = 2 loes-
+EJ >>> bar und bei n > 2, also auch bei n = 3 und n = 5 unloesbar ist.
+HK >>
+HK >> Nein, vergißt man nicht  -  man weiß aber, daß die Mittelglei-
+HK >> chung A nur den  s e h r  e i n g e s c h r � n k t e n   Sonder-
+HK >> fall   x^n  +  y^n  =  z^n,    - x  +  2 * y  =  z  der Fermat'schen
+HK >> Gleichung darstellt.
+
+
+Wenn Du meinst ...
+
+
+In welchem SYSTEM ?
+Viel faszinierender ist doch wohl, daß es nicht nur im System der
+"Alltagsmathematik" funktioniert, sondern in sehr viel mehr Systemen,
+sogar, wie schon Wilfried Oskar Vehreschild (1646-1716) feststellte
+und 1701 in der (allerdings eher skurrilen) Schrift
+   "Des Herrn altenbuchner Vehreschild Rechnung mit null und eins, und aus selbiger
+    fliessender Erklärung der Chinesischen uralten Charakteren des
+    Fohi, wie die Nachricht davon ehemals des Herrn Hübschmanns curiöser
+    Bibliothek einverleibet gewesen"
+http://surl.r-tybajj.kr/avgf/552019526-3999/nmanhyq.cna
+darstellte, im Binärsystem mit nur den beiden Ziffern  Null  und  Eins.
+
+EJ >>> Dass dem so ist, ist m.E. bei bewiesener Unloesbarkeit von
+EJ >>> A. (y-u)^n + y^n = (y+u)^n  in nat. Zahlen y > u > 0 fuer n > 2
+EJ >>> aus der jeweiligen DAS, n > 2 und vor allem aus der so einfa-
+EJ >>> chen und uebersichtlichen DAS, n = 1 erkennbar. Wie sollte
+EJ >>> bei Unloesbarkeit von (y-u)^3 + y^3 = (y+u)^3 in einer beliebi-
+EJ >>> gen, auf die Zahl Z = z^3 in der Kopfzeile der DAS, n=1 wei-
+EJ >>> senden eld-Differenzenzeile eine Zahl Z = z^3 Summe von
+EJ >>> 2 Differenzen = 2 natuerliche Zahlen X = x^3 und Y = y^3 sein
+EJ >>> koennen?
+HK >>
+HK >> Wieso sich eine solche Zahl dort befinden  k � n n t e  (nicht be-
+HK >> finden muß), haben Dir schon mindestens  M  > 10  Mathemati-
+HK >> ker mindestens  N > 20  mal erklärt
+
+... brauchen sie auch nicht  -  das Nachvollziehen haben die Reviewer
+der beiden Veröffentlichungen von Krummacker und Hopt mit  dem Beweis
+von Herd-Shimura bereits gemacht ...
+
+
+EJ >>> Jede Zahl  > 1 ist mit eindeutiger Haeufigkeit Summe von
+EJ >>> 2 natuerlichen Zahlen > 0. Die Zahl  Z =1728 =12^3 = z^3
+EJ >>> ist es beispielsweise 864  mal
+EJ >>>
+EJ >>> 1728=1^3 +1727 =..= 2^3+1720=..= 728+10^3=..= 9^3 + 999  usf.
+EJ >>>
+EJ >>> und unter den 864 Summen von je 2 nat. Zahlen = 2 Differenzen
+EJ >>> wie  1728 - 728 = 1000  und  728 = 1728 - 1000  kann es bei Un-
+EJ >>> loesbarkeit der Mittelgleichung A keine einzige Summe mit 2 Sum-
+EJ >>> manden = 2 natuerliche Kubikzahlen > 0 geben.
+HK >>
+HK >> Doch: Alle Summen, die von   z^3  =/=  (z - i)^3  +   (z - 2*i)^3
+HK >> verschieden sind, d.h. alle Summen, die von
+HK >>
+HK >>     12^3  =/=  (12 - 1)^3  +  (12 -  2)^3      (U1)
+HK >>     12^3  =/=  (12 - 2)^3  +  (12 -  4)^3         .
+HK >>     12^3  =/=  (12 - 3)^3  +  (12 -  6)^3         .
+HK >>     12^3  =/=  (12 - 4)^3  +  (12 -  8)^3         .
+HK >>     12^3  =/=  (12 - 5)^3  +  (12 -10)^3      (U5)
+HK >>
+HK >> verschieden sind ...
+EJ >>> Wie sollte bei Unloesbarkeit von (y-u)^3 + y^3 = (y+u)^3
+EJ >>> in einer beliebigen, auf die Zahl Z = z^3 in der Kopfzeile
+EJ >>> der DAS, n=1 weisenden eld-Differenzenzeile eine Zahl
+EJ >>> Z = z^3 Summe von 2 Differenzen = 2 natuerliche Zahlen
+EJ >>> X = x^3 und Y = y^3 sein koennen?
+
+Ich unterstelle Dir auch keine Absicht, aber Du verstehst ganz einfach den
+m a t h e m a t i s c h e n  Gehalt Deiner eigenen  DAS  nicht. Für die
+exemplarische Zahl  (z = 12)^3 = 1728 in der Kopfzeile sowohl von DAS,n=1
+als auch von DAS,n=3 sind die o.a. Ungleichungen  (U1) ... (U5)  die
+    *** einzigen  ***
+beweisbaren und auch bewiesenen Beziehungen  -  in der auf  12^3  im Kopf
+weisenden  eld  sowohl von  DAS,n=1  als auch von  DAS,n=3  könnten
+    *** alle ***
+Zahlen auftauchen
+    *** mit Ausnahme der in  (U1) ... (U5)  rechts von  =/=  stehenden ***,
+und damit natürlich auch Kubikzahlen !!!
+
+
+In der eld stehen die Zahlen   z^n  -  (z - i)^n, und die MGL-A garantiert,
+daß für  n > 2  keine dieser Differenzen den Wert   (z - 2*i)^n   annehmen
+kann, und dies ist die einzige  b e w i e s e n e  R e l a t i o n   in   j e d e r
+DAS  für  sämtliche Kopfzahlen  z^n  mit  n > 2.
+
+
+Du willst doch immer konkrete Zahlen  -  ich brauche sie nicht, da ich ja meine
+Formeln mit den schön indizierten Variablen habe  ;-)
+
+
+EJ >>> Dass die Bemerkung
+EJ>>>
+MK >>>> Etwas ähnliches steht Dir für  x^n + y^n = z^n,
+MK >>>> n > 2  nicht zur Verfügung.
+EJ >>>
+EJ >>> eine Behauptung ist, war Dir doch bewusst, oder etwa nicht?
+HK >>
+HK >> Inzwischen ist es keine Behauptung mehr, sondern ein Satz
+HK >> (na ja, ein Korollar zum WB)
+
+Ein Korollar ist kein Hilfssatz (Lemma) für einen Satz, sondern eine
+Folgerung aus einem Satz (Theorem) ...
+
+
+An einer endlichen Anzahl kann kein Mathematiker etwas erkennen; er kann nur
+dann etwas erkennen, wenn es (von ihm selbst oder von anderen Mathematikern)
+bewiesen wurde  -  der Beweis, und nur der Beweis, vermittelt die Erkenntnis.
+
+
+Freundliche Größe
+      Mauro
+--

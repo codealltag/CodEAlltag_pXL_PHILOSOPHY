@@ -1,0 +1,27 @@
+Wahrscheinlich entstehen die Schwierigkeiten mit diesem Satz
+schon dadurch, dass nicht beruecksichtigt wird, dass die
+klassische Logik extensionale Junktoren verwendet.
+
+Uebersetzt in Praedikatenlogik (1. Stufe reicht) lautet der
+Satz:
+
+all x (E(x) -> not E(x))
+
+Was fuer ein Praedikat E ist, ist wurst. Wir muessen uns nur
+drauf einigen, dass E auf kein Objekt zutrifft. Dann ist die
+Aussage trivial wahr.
+
+Im uebrigen geht das Ganze schon in Aussagenlogik:
+
+Wenn der Schnee schwarz ist, dann ist er weiss.
+(Schnee ist schwarz -> Schnee ist weiss)
+
+Wenn wir uns einig sind, dass der Schnee ueblicherweise nicht
+schwarz ist, dann ist die Aussage gleichfalls wahr.
+
+Extensionalitaet von -> besagt, dass die "Bedeutung" von A und
+B fuer die Wahrheit von A -> B belanglos ist. Deswegen koennen
+wir die Implikation mit Wahrheitstabellen festlegen.
+
+Servus
+Meinrad Hintz

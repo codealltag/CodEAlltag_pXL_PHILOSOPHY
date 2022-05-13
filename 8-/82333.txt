@@ -1,0 +1,32 @@
+Sie werden nicht individuell benannt. Etwas klarer wird das, wenn ich
+folgendermaßen vorgehe: Sei K die Menge der Kugeln des
+Black-Universums, a ein (beliebiges/beliebig gewähltes) Element aus K,
+b ein Element aus K\{a} und M der Mittelpunkt von a. Dann erfüllt a
+die Aussageform
+
+"M ist der Mittelpunkt von x.",
+
+b aber nicht. 
+
+
+Das ist etwas ganz anderes. Die Benennung gehört zur *Theorieebene*,
+mit der *wir* die Situation im Black-Universum beschreiben, das
+Aufsprühen von Benennungen gehört dagegen zur *Sachebene*, zu der
+beschriebenen Situation.
+
+
+Eine Formulierung wie "sei x ein (beliebig gewähltes) Element der
+Menge M."  ist keine *identifikatorische* Bezugnahme. Bezugnahmen
+selbst sind natürlich schon deshalb notwendig, um die Situation im
+Black-Univsersum zu beschreiben. Wenn man seine Aussagen formalisiert,
+hat man gleichzeitig auch die Möglichkeit einer *unbestimmten*
+Bezugnahme, wie es die Formulierung "sei x .." ausdrückt.
+
+
+Das muss ich gerade *nicht*, das ist der Witz der unbestimmten
+Bezugnahme, der durch die Formulierung "sei x .." eingeleitet wird. In
+einem geeigneten formallogischen Rahmen lassen sich derartige
+Bezugnahmen auch vollkommen eliminieren.
+
+
+Sven

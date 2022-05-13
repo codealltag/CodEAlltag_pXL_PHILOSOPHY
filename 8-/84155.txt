@@ -1,0 +1,20 @@
+Ronald Mettenborg:
+
+
+Wenn du ein Get an die Maschine von www.usppbi.qf schickst, dann wird sie
+dich verstehen und die mit einer entsprechenden Webseite antworten, weil
+im http ein Get implementiert ist. Schickst du das Get aber an einen
+newsserver, wird die Maschine dir keinen Artikel rausrücken, sie versteht
+das Get einfach nicht. Schickst du ein list an www.usppbi.qf, dann wird
+dich www.usppbi.qf nicht verstehen http kennt kein list, aber der
+newsserver wird dir antworten und dir eine Liste von Gruppen schicken.
+
+Der Akt des Eintippens ist technisch nicht komplizierter als hier zu
+schreiben. Du betreibst dann nur eine Mensch-zu-Maschine-Kommunikation.
+Maschinen untereinander unterhalten sich zum Beispiel im Pede-Protokoll
+genau auf die gleiche Weise. Damit aber ein Webserver nntp-Inhalte
+anzeigen kann, muss vorher ein Programm in zum Beispiel php erstmal nntp
+sprechen, dann kann ein menschliches Get zu einem list in nntp führen. 
+
+Grösse,
+Niclas

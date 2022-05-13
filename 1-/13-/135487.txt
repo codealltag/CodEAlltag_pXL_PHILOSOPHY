@@ -1,0 +1,54 @@
+Zwei gleichförmige Urnen stehen vor Dir. Eine der Urnen enthält 10 Kugeln, die
+von 1-10 durchnummeriert sind. Die andere Urne enthält 1.000 Kugeln, die von
+1-1.000 durchnummeriert sind. Du weit nicht, welche Urne wieviele Kugeln
+enthält, und sollst aus einer Urne eine Kugel ziehen. Nehmen wir nun z.B. an,
+daß Du aus der linken Urne eine Kugel mit der Nr. 5 ziehst.  Nun ist es nach der
+üblichen Wahrscheinlichkeitstheorie sinnvoll anzunehmen, daß Du die Kugel aus
+der linken Urne gezogen hast, die Wahrscheinlichkeit liegt nahe 1.
+
+Bislang sind auf der Erde rund 60 Mrd. Menschen geboren worden. Verpassen
+wir nun jedem Menschen eine Nummer gemäß seinem Platz in der Reihe aller
+bisherigen Geburten. Du hast die Nummer 60 Mrd. (oder so, auf die genauen
+Zahlen kommt es nicht an). Die Zahl aller Menschen, die jemals geboren wor-
+den sind oder geboren werden, liegt bei 60 Mrd. + N. Nun ist es obigem R-
+sonnement folgend wahrscheinlicher, daß Du Nr. 60 Mrd. trägst, je kleiner N
+ist. Es ist also sinnvoller anzunehmen, die Menschheit gehe früher als später un-
+ter.
+
+Verschen wir den letzten Punkt in der Argumentation etwas genauer zu fassen:
+Es ist wahrscheinlicher, daß Du die Nummer 60 Mrd. trägst, wenn die Gesamt-
+zahl aller Menschen, die jemals geboren worden sind oder geboren werden, etwa
+bei 90 Mrd. liegt als etwa bei 900 Mrd. Unsere alternativen Thesen über den Ge-
+samtbestand der Menschheit im Laufe der Existenz des Universums seien:
+
+M (1): Die Gesamtzahl aller jemals geborenen Menschen, bis heute und in Zukunft,
+     beträgt 90 Mrd.
+M (2): Die Gesamtzahl aller jemals geborenen Menschen, bis heute und in Zukunft,
+     beträgt 900 Mrd.
+
+Die a posteriori Wahrscheinlichkeit, daß Du Nr. 60 Mrd. trägst, beträgt für die
+beiden Fälle:
+
+P (60Mrd./M (1)) = 1/90 Mrd.
+P (60Mrd./M (2)) = 1/900 Mrd.
+
+Ordnen wir nun M (1) und M (2) a priori Wahrscheinlichkeiten zu. Sollte die
+Menscheit insgesamt nur 90 Mrd. Individuen hervorbringen, würde dies bei der-
+zeitigen Wachstumsraten ein Ende der Menschheit in weniger als 50 Jahre bedeu-
+ten. Das halten wir für sehr unwahrscheinlich, wir sagen deswegen zum Beispiel:
+
+P (a priori) M (1) = 0.01
+P (a priori) M (2) = 0.99
+
+Nach dem Bayeschen Theorem berechnen wir nun unter Berücksichtigung Deiner
+Geburtsnummer 60 Mrd. (G=60 Mrd.) die a posteriori Wahrscheinlichkeiten von
+M (1) oder M (2):
+
+P (M (1)/G=60Mrd.)= [1/90 Mrd. x 0.01]:[(1/90 Mrd. x 0.01)+(1/900 Mrd. x 0.99)]
+P (M (1)/G=60Mrd.)= [1,11^-13]: [1,11^-13+0,0000000000011]
+P (M (1)/G=60Mrd.)= 1,11^-13: 1,211^-12 =0,92.
+
+Die Wahrscheinlichkeit, daß die Menschheit bald untergeht, hat sich also von unseren
+ursprünglich angenommenen 0.01 auf 0,92 erhöht.
+
+Karsten

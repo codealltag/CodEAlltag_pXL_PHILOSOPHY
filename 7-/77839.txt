@@ -1,0 +1,37 @@
+Carlo Dreve wrote:
+e
+
+Was ist denn das für ein Schmarn!
+Wieso ein kartesisches Produkt von zwei Mengen?
+
+ganz stumnpfsinnig Mathe kurz nach dem Kindergarten
+
+es gibt drei arten von Abbildung:
+
+a. surjektiv.  Abbildung f A -> B ist sujektiv, wenn jedes Element aus A
+mindestens 1 Element aus B abgebildet wird
+
+b. injektiv Abbildung f A-> B ist injektiv, wenn jedes Element aus A auf
+höchsten 1 Element aus B abgebildet wird.
+
+c. bijektiv <=> injektiv und surjektiv
+
+Damit haben wir alle Fälle erschlagen.
+
+Also eine injektive Abbildung kann durch aus alle Elemente aus A auf die
+leere Menge abbilden.
+
+Beispiel:
+
+gesucht sei das Abbild folgender Vorschrift
+
+y = x
+z = x +1
+
+Wir suchen sämtliche wertepaare (xi; yi=zi). das Ergebnis ist die leere
+Menge!
+
+*** ende der durchsage an den kindergarten ****
+
+
+scottmeupbeamy

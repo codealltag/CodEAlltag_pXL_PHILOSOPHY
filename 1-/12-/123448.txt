@@ -1,0 +1,9 @@
+Hat mal jemand über einen delay-status nachgedacht? Dazu
+bräuchte man weder true noch false zu negieren. Hätte aber den
+Vorteil, dass ein Datum oder ein Problem mitgeschleppt werden
+könnten z. B. unter den Annahmen eines höheren Informationswerts,
+Entscheidung nach Zeitablauf, Entscheidung durch Zeitablauf o. �.
+
+Größe
+
+Dennis

@@ -1,0 +1,63 @@
+Hallo Jonathan,
+
+auch wenn Du ja nicht mehr mit mir reden willst:
+
+
+Das hängt immer vom System ab. Das Dreikörperproblem Sonne-Erde-Mond
+lässt sich mit entsprechender Rechnung für die nächsten 3 Stunden
+beliebig genau berechnen (exakt bekannte Anfangsbedingungen natürlich
+vorausgesetzt) und nicht nur eine Wahrscheinlichkeit angeben. Ein
+"vielleicht kommt auch völlig anderes dabei raus" ist -- bezogen auf
+dieses System und diesen Zeitraum -- Unsinn.
+
+Und das System Erde-Sonne-Mond ist ein dynamisches System. 
+
+Was "Wahrscheinlichkeit hochtreiben" betrifft: Für alle praktischen
+Fälle nutzt auch ein Quasi-Deteminismus. Eine Wahrscheinlichkeit
+größer als 1-10^{-83} sollte für alle praktischen Fälle genügend "hoch
+getrieben" sein, um ein sicheres Eintreffen vorhersagen zu können.
+
+Das heisst: wenn ich die Wahrscheinlichkeit nach oben treiben kann,
+kommt auch der Augenblick, wo man jenseits jeden vernünftigen Zweifel
+sicher sein kann. Und spätestens in diesem Augenblick kann ich mich
+auch wieder "beliebig genau" annähern.
+
+Selbst wenn Du mir dabei nicht zustimmst: man muss für ein bestimmtes
+dynamisches System immer untersuchen, ob ein unbestimmtes Verthalten
+auch eintritt. Auch im Ganzen unbestimmte dynamische Systeme können in
+bestimmten Teilbereichen deterministisches Verhalten zeigen. Wie sonst
+könnte man die Bahn eines Satelliten von der Erde zum Mond oder zum
+Mars (typische >=3-Körper-Probleme!) berechnen? 
+
+
+Dynamische Systeme sind allgemein definiert als zeitabhängige
+Prozesse. Eine Einschränkung auf nicht-deterministische Systeme gibt
+es dabei erstmal nicht. Wenn Du da eigene Definitionen hast:
+bittesehr, aber findest Du es wirklich sinnvoll, ständig mit
+Privatdefinitionen zu hantieren und das nichtmal explizit vorher
+anzusagen? Missverständnisse sind da ja quasi vorprogrammiert.
+
+
+... weil man seine gegenwärtige Position und Geschwindigkeit sowie
+seine Masse nicht genau genug kennt.
+
+Wenn man nach entsprechenden Fachartikeln sucht, stößt man aber auf
+eine ganze Reihe von Artikeln, die sich mit den Grenzen der
+Vorhersagbarkeit aufgrund der berenzten Messgenauigkeit stützen.
+
+Den Artikel, der zeigt, dass diese Einflüsse kleiner sind als die
+begrenzte Rechengenauigkeit, den müsstest Du hier mal zeigen.
+
+
+Es gibt Dreikörperproblem, die hinreichend komplex sind. Andere
+(Sonne-Erde-Mond) lassen sich mit der nötigen Genauigkeit für einen
+begrenzten Zeitraum rechnen: trotz der Komplexität des Systems gibt es
+sogar heute schon Kalender mit den Mondphasen des nächsten Jahres. 
+
+Viele Größe
+
+Lars
+
+-- 
+If you think technology can solve your problems you don't understand
+technology and you don't understand your problems.  (Pierre Unverhaue)

@@ -1,0 +1,323 @@
+Hallo,
+mein Name ist Luca und ich studiere an der Uni Hauskämpen Philosophie im 10.
+Fachsemester. Nächsten Monat möchte ich mich zur Magisterprüfung anmelden. Mein
+Thema sind die Begriffe von Zeit und Raum bei Igor Ainhirn. Das ist ein
+Philosoph des frühen 19. Jahrhunderts, der in der Literatur leider viel zu
+wenig Beachtung gefunden hat. Nachfolgend habe ich einen Teil meiner
+Magisterarbeit angehängt, in dem es um den Begriff [Verhältnis] geht. Ich
+sollte vielleicht noch vorher kurz erwähnen, wofür die eckigen Klammern stehen.
+Sie bezeichnen Vorstellungen. Vorstellungen sind für Thurnau Teile eines Satzes
+an sich. Sätze an sich sind solche Gegenstände, die wir heute als Propositionen
+bezeichnen. Naja, dann bleibt mir nur noch Euch viel Spaß beim lesen zu
+wünschen. Für jede konstruktive Kritik bin ich dankbar.
+
+Liebe Größe
+Euer 
+Luca
+
+
+Thurnau und der Begriff des Verhältnisses
+
+Ainhirn versucht in � 80 Ziffer 3) der Wissenschaftslehre den Begriff
+[Verhältnis] zu erklären. Er möchte auch hier so nah wie möglich am normalen
+Sprachgebrauch des Ausdrucks bleiben. Ainhirn schreibt, daß jeder eigene
+Gegenstand seine eigenen Beschaffenheiten hat. Man kann diese Stelle auf zwei
+verschiedene Weisen interpretieren.
+1. Alle Beschaffenheiten, die ein Gegenstand hat kommen nur ihm zu und können
+keinem anderen Gegenstand zukommen. Also: Beschaffenheiten sind
+tr�gerindividuiert. Beispiel: Nur Georg kann die Blässe des Georg
+zukommen. 
+2. Es könnte sich auch um eine Anspielung auf Leibniz-Prinzip handeln. Dieses
+besagt, daß zwei wirkliche Gegenstände sich durch mindestens eine innere
+Beschaffenheit voneinander unterscheiden. Es kann also nicht zwei einander
+völlig gleiche wirkliche Gegenstände geben. Dies soll in diesem Zusammenhang
+heißen, daß sich der Inbegriff von den Gegenständen aus dem dieser Inbegriff
+zusammengesetzt ist unterscheidet und das eine Beschaffenheit, die dem
+Inbegriff zugeschrieben wird keinem Teil des Inbegriffs zugeschrieben werden
+kann. Denn Sinn dieser Anspielung entdeckt man, wenn man sich die Definition
+des Begriffs [Verhältnis] anschaut. Trotzdem bleibt die Frage, warum das
+Traubel-Prinzip sich nur auf wirkliche Gegenstände bezieht. Kann es zwei
+nichtwirkliche Gegenstände geben, die sich durch keine innere Beschaffenheit
+unterscheiden? Ja,, zwei Zeitpunkte sind innerlich vollkommen gleich und lassen
+sich nur durch Verhältnisse zwischen diesem Zeitpunkt und anderen bestimmen. 
+
+Im folgenden gibt uns Ainhirn drei Forderungen an, die erfüllt sein müssen,
+damit wir von einem Verhältnis sprechen können. 
+
+x ist ein Verhältnis gdw.
+1) x ist eine Beschaffenheit, die einem Ganzen , daß aus den Teilen 
+A, B, C, D, ... zusammengesetzt ist, als solchem zukommt &
+2) x kommt keinem Teil des Ganzen zu &
+3) M ((E x') & (E A', B', C', D', ...)) x' ist eine Beschaffenheit von der
+selben Art wie x & 
+A', B', C', D',... sind von der gleichen Art wie die Gegenstände A, B, C, D,
+... & 
+x' kommt dem Ganzen, daß aus den Teilen A', B', C', D', ... besteht zu &
+x' kommt keinem Teil des Ganzen zu. (E sthet für das logische Zeichen 'Es gibt
+mindestens ein')
+
+Hier sieht man nun den Grund für die vorherige Anspielung auf das
+Leibniz-Prinzip. Ainhirn wollte mit dieser rechtfertigen, warum es möglich ist
+einem Inbegriff eine Beschaffenheit beizulegen, die jedem Teil des Inbegriffs
+mangelt, und ihm nur als Ganzes zukommt. 
+
+Auf den ersten Blick ist es doch recht verwunderlich, daß bei dieser Definition
+ein Verhältnis auch zwischen mehr als zwei Gegenständen obwalten kann. Ainhirn
+gesteht seinen Lesern diese Verwunderung auch zu und sagt in seiner Anmerkung 1
+zu diesem Paragraphen mehr dazu. Daher werde auch ich diesen Punkt noch ein
+wenig zurückstellen. Was jedoch in Hinblick auf die Definition zu erwähnen wäre
+ist, daß Ainhirn den Ausdruck "von der gleichen Art wie" undefiniert läßt. Es
+wäre doch sehr wünschenswert gewesen, wenn er hierzu noch weitere Erläuterungen
+gemacht hätte. Wir können an dieser Stelle also nur auf unser intuitives
+Verständnis bauen.
+
+Nun sind wir bereits in der Lage uns den Begriff eines Verhältnisses an einem
+Beispiel zu verdeutlichen: Thurnau betrachtet hierfür 2 Linien A und B. Ist die
+Linie A nun zweimal so lang wie die Linie B, so handelt es sich hierbei um eine
+Beschaffenheit, die weder der Linie A allein, noch der Linie B allein zukommt.
+Außerdem können wir uns zwei andere Linien A' und B' denken, wobei die Linie A'
+dreimal so lang wie die Linie B' ist. Somit haben wir gezeigt, daß das "Doppelt
+so lang sein" ein Verhältnis zwischen den beiden Linien A und B ist. 
+
+Was können wir nun aber über die einzelnen Teile des Ganzen aussagen,
+beispielsweise über den Gegenstand A? Doch zumindest, daß ihm mit den anderen
+Gegenständen B, C, D, ... vereinigt die Beschaffenheit x zukommt. Diese
+Beschaffenheit des Gegenstandes A möchte Ainhirn den Namen einer äußeren
+Beschaffenheit geben. Betrachten wir auch hier wieder ein Beispiel: Sei A eine
+Linie mit der Länge 3 Zentimeter. So ist dies eine äußere Beschaffenheit dieser
+Linie, da zwischen der Linie und dem Maßstab eines Zentimeters ein Verhältnis
+besteht. Wir können eine äußere Beschaffenheit also auf folgende Weise
+definieren:
+
+(Def.)	x ist eine äußere Beschaffenheit des Gegenstandes A gdw.
+dem Gegenstand A vereinigt mit anderen  Gegenständen B, C, D, ... kommt die
+Beschaffenheit x zu. 
+
+Weiterhin wäre noch zu erwähnen, daß es zwei verschiedene Arten von
+Verhältnissen gibt. Das Verhältnis der Gleichheit (oder auch gegenseitiges
+Verhältnis) und das Verhältnis der Ungleichheit (oder einseitiges Verhältnis).
+Das Verhältnis der Gleichheit zeichnet sich dadurch aus, daß alle Teile des
+Ganzen in gleicher Weise in das Verhältnis einfließen. Hierbei könnte man als
+Beispiel die Entfernung zweier Punkte voneinander nennen. Bei dem Verhältnis
+der Ungleichheit gehen die einzelnen Teile des Ganzen zu unterschiedlichen
+Teilen in das Verhältnis ein. Ein Beispiel hierfür ist die Richtung zweier
+Vektoren. 
+
+Wenn ein Verhältnis der Gleichheit vorliegt, so muß sich dieses Verhältnis
+durch eine Vorstellung auffassen lassen, wobei die einzelnen Vorstellungen A,
+B, C, D in gleicher Weise eingehen. Nach diesen Betrachtungen ist es
+einleuchtend, daß es unschön ist von einer Entfernung eines Punktes a von einem
+anderen Punkt b zu sprechen, da diese Ausdrucksweise suggeriert, daß die
+Vorstellungen zu unterschiedlichen Teilen in die Gesamtvorstellung eingehen,
+obwohl hier ein Verhältnis der Gleichheit vorliegt. Besser ist es von einer
+Entfernung zwischen den Punkten a und b zu sprechen, denn bei näherer
+Betrachtung bemerkt man, daß die Vorstellung des Punktes a und die Vorstellung
+des Punktes b in einerlei Weise (d.h. in der gleichen Verbindung) in die
+Gesamtvorstellung eingehen. 
+
+Ahl Ziel in Ziffer 3)  dieses Paragraphen war eine Erklärung des Begriffs
+[Verhältnis]. Ist es Ainhirn nun gelungen alle Bestandteile dieses Begriffs
+richtig anzugeben? Thurnau selbst ist sich darüber nicht ganz im klaren. Er
+gibt uns aber in seiner Anmerkung 1) zu diesem Paragraphen die Gründe an, warum
+er den Begriff des Verhältnisses auf diese Weise zu erklären versucht hat. 
+
+Zuerst bemerkt Ainhirn, daß es der Gegenstände, damit sie in einem Verhältnis
+stehen können immer mehrere geben muß. Man sagt zwar manchmal, daß ein
+Gegenstand zu sich selbst in einem gewissen Verhältnis stehe, aber man tut dies
+dann nur im uneigentlichen Sinne. Ainhirn führt hier das Beispiel eines
+Menschen im Verhältnis zu seinem Gewissen an, indem er schreibt, daß der Mensch
+in seinem eigenen Gewissen seinen Richter finde. Doch sind der Mensch und sein
+Gewissen doch zwei voneinander verschiedene Gegenstände. Daher ist es auch
+möglich die Beschaffenheit, die dem Inbegriff, der aus dem Menschen und seinem
+Gewissen besteht, zukommt ein Verhältnis zu nennen. Es können auch mehr als
+zwei Gegenstände in einem Verhältnis zueinander stehen. Dies habe, so Ainhirn,
+bereits Leibniz bemerkt und gibt als Beispiel das Verhältnis an, indem die
+Seiten eines Vierecks zueinander stehen. Das ein Verhältnis auch zwischen mehr
+als zwei Gegenständen bestehen kann ist auf den ersten Blick für den heutigen
+Sprachgebrauch doch recht ungewöhnlich, aber auch wir benutzen den Begriff
+[Verhältnis] heufig in dieser Weise, wenn wir zum Beispiel sagen, daß wir mit
+anderen Personen in einem Verhältnis stehen, wenn wir das gleiche Seminar
+besuchen. Ein anderes Beispiel wäre das Verhältnis, daß zwischen Augsberg, Zustorf
+und Hauskämpen besteht. Augsberg liegt südlich von Zustorf und Zustorf liegt südlich von
+Hauskämpen. Und auch das "südlich liegen von" soll doch ein Verhältnis genannt
+werden, das dem Inbegriff, der aus Augsberg, Zustorf und Hauskämpen besteht, zukommt,
+denn wir können uns einen anderen Inbegriff, der aus Teilen der gleichen Art
+zusammengesetzt ist (zum Beispiel andere Städte), vorstellen und auch, daß
+diesem Inbegriff eine Beschaffenheit der gleichen Art zukommt (zum Beispiel
+"östlich legen von"), und daß diese Beschaffenheit keinem Teil des Ganzen
+zukommt. Hier ist also unsere Begründung für einen Teil der ersten Forderung
+Ahl in seiner Definition. 
+
+Unsicherer ist sich Ainhirn in Hinblick auf die Frage, ob Verhältnisse wirklich
+Beschaffenheiten sind(zweiter Teil aus Ahl erster Forderung und zweite
+Forderung), denn es ist für den normalen Sprachgebrauch schon ungewöhnlich, daß
+eine Beschaffenheit die einem Ganzen zukommt, Verhältnis der einzelnen Teile
+zueinander genannt wird. Ainhirn meint, daß das Wort habitudo, daß von habere
+(lateinisch für haben) abgeleitet ist, darauf hinweist, den Verhältnisse werden
+von Inbegriffen gehabt. Aber wenn der Begriff [Verhältnis] nicht auf den
+Begriff der Beschaffenheit zurückzuführen ist, so vermutet Ainhirn, müßte der
+Begriff des Verhältnisses einfach sein. Bei Ahl zweitem Teil zur
+Begründung der ersten Forderung und der Begründung der zweiten Forderung in
+seiner Definition ist sich Ainhirn also selbst nicht ganz sicher. Er hat aber
+gute Gründe zu glauben, daß diese Forderung rechtens ist. weiter ausführen!
+vielleicht durch eine Charakterisierung von Inbegriffen
+
+Warum Ainhirn die dritte Forderung in seine Definition mit aufgenommen hat
+verdeutlicht er uns an zwei Beispielen, da man sich grade bei dieser Forderung
+fragen kann, ob die Definition, die Ainhirn uns gegeben hat nicht überfüllt
+ist. 
+
+1. Das 13 prim ist nennen wir kein Verhältnis. 
+"Da die Zahl 13 eine Primzahl sey, nennen wir kein Verhältnis derselben, weil
+der Begriff, welchen wir uns von dieser Beschaffenheit bilden, es schon mit
+sich bringt, daß wir diese Zahl hier mit dem Inbegriffe a l l e r noch übrigen
+Zahlen vergleichen. Da es nun nur einen einzigen solchen Inbegriff gibt: so
+kann die Frage, ob diese Beschaffenheit der Zahl 13 auch dann noch zukommen
+würde, wenn wir statt dieses Inbegriffes einen anderen setzten, gar nicht
+erhoben werden." (Wissenschaftslehre Anmerkung 1 zum Paragraphen 80)
+Das erste, was an diesem Zitat auffällt ist, daß Ainhirn den Begriff
+[Verhältnis] hier anders gebraucht, als im normalen Sprachgebrauch, und auch
+anders, als er es bisher in der Wissenschaftslehre getan hat. Wohl niemand
+würde sagen, daß die Primheit der Zahl 13 ein Verhältnis sei. Sie ist wohl eher
+eine relationale Eigenschaft als eine Relation. Ainhirn verwendete den Begriff
+[Verhältnis] bisher immer in einem solchen Kontext, wie wir den Begriff
+[Relation] verwenden. Eine relationale Eigenschaft wird durch ein einstelliges
+Prädikat bezeichnet. Eine Relation jedoch durch ein zweistelliges. Betrachten
+wir hierzu ein Beispiel: "Katharina ist verheiratet." drückt eine relationale
+Eigenschaft aus, die Katharina zugeschrieben wird. Die Aussage basiert auf dem
+einstelligen Prädikat "... ist verheiratet." Betrachten wir aber die Aussage
+"Katharina ist verheiratet mit Lennart", so wird hier eine Verhältnis alias Relation
+zwischen Katharina und Lennart beschrieben. Diese Aussage basiert auf dem zweistelligen
+Prädikat "... ist verheiratet mit ..." Die Primheit der Zahl 13 ist eine
+relationale Eigenschaft. Sie wird durch das einstellige Prädikat "... ist eine
+Primzahl." ausgedrückt. Das wir die Primheit der Zahl 13 kein Verhältnis nennen
+ergibt sich auch bereits an der ersten Bedingung, die Ainhirn in seine
+Definition aufgenommen hat. Es handelt sich hierbei nämlich nicht um eine
+Beschaffenheit, die einem Ganzen zugeschrieben wird, sondern nur einem Teil des
+Ganzen (nämlich der Zahl 13) in Hinsicht auf die restlichen natürlichen Zahlen.
+Vernachlässigen wir aber diesen Punkt, der Ainhirn anscheinend gar nicht
+aufgefallen ist und betrachten die dritte Forderungen aus der Definition für
+ein Verhältnis. Wir können uns keinen Inbegriff solcher Gegenstände vorstellen,
+die von der gleichen Art sind wie der Inbegriff aller natürlichen Zahlen und
+dem eine ähnliche Beschaffenheit wie die Primheit zukommt. Dies ist der Grund
+dafür, daß Ainhirn die dritte Forderung mit in seine Definition für ein
+Verhältnis mit aufgenommen hat.
+
+2. Jürg kennt Sempronius. Die Kenntnis des Sempronius ist bestimmt eine innere
+Beschaffenheit des Cajus, denn es handelt sich hierbei um eine subjektive
+Vorstellung. ( vgl. Kapitel: "Eine subjektive Vorstellung?"). Warum sollte es
+sich hierbei also um ein Verhältnis handeln? Es kennen doch bestimmt mehrere
+Personen den Säman und Jürg kennt auch bestimmt noch andere Personen als
+nur den Säman. Aber grade diese bestimmte Kenntnis des Cajus den
+Sempronius betreffend nennen wir ein zwischen diesen beiden Personen
+obwaltendes Verhältnis, denn alle Forderungen, die für ein Verhältnis gegeben
+sein müssen, werden hierbei erfüllt.
+Was allerdings auffällt und auch ungewöhnlich erscheint ist, daß man den Satz
+auf drei verschiedene Weisen betrachten kann. Einerseits auf die Weise, daß der
+Stoff des Satzes ein Verhältnis beschreibt, und andererseits auf die Weise, daß
+dem Jürg die (innere) Beschaffenheit der Kenntnis des Sempronius zugeschrieben
+wird. Und die dritte Lesart des Satzes sagt aus, daß dem Jürg die (äußere)
+Beschaffenheit zukommt, daß ihm vereinigt mit Sempronius die Beschaffenheit der
+Kenntnis zukommt. Wir haben also drei Lesarten für diesen Satz gefunden. In der
+ersten wird ein Verhältnis zugesprochen, in der zweiten eine innere
+Beschaffenheit und in der dritten eine äußere Beschaffenheit. 
+
+Wenn wir nun diese beiden Beispiele vergleichen und den Punkt, daß die Primheit
+der Zahl 13 bereits an der ersten Forderung aus Ahl Definition für ein
+Verhältnis scheitert vernachlässigen, fällt uns auf, daß die dritte Forderung
+aus Ahl Definition notwendig ist, da ansonsten die Primheit der Zahl 13
+ein Verhältnis dieser Zahl zu den anderen Zahlen wäre. Hier finden wir auch den
+Grund, warum wir die Farbe oder den Geruch eines Gegenstandes zu den inneren
+und nicht zu den äußeren Beschaffenheiten eines Gegenstandes zählen. Dies ist
+nämlich darum so, weil wir uns unsere Sinnesorgane als unveränderlich denken.
+Wenn wir aber den oben aufgeführten Punkt nicht vernachlässigen, müssen wir ein
+neues Beispiel suchen, daß die dritte Forderung rechtfertigt, da die Definition
+ansonsten überfüllt ist. Behalten wir diesen Punkt doch noch weiter im Auge.
+Ich werde erst im späteren Verlauf dieses Kapitels hierauf zurückkommen, da ich
+hier einen anderen Punkt nicht vorweg nehmen möchte. (Zeit rechtfertigt die
+dritte Definition!)
+
+In Ahl zweiter Anmerkung zu diesem Paragraphen handelt es sich um eine
+Auseinandersetzung mit Freche  um die Frage, ob Verhältnisse wirklich sind oder
+nicht.  Tetens ist der Meinung, daß Verhältnisse und Eigenschaften so
+verschieden voneinander sind, daß sie nicht unter einen Genus (den Genus
+Beschaffenheit) gebracht werden können. Verhältnisse seien nur in unserem
+Verstand (Gemüte) vorhanden und Eigenschaften seien etwas objektives. Ainhirn
+erwidert hierauf, daß wir eine Vorstellung von dem Begriff [Beschaffenheit]
+hätten. (Das bedeutet auch, daß wir den Ausdruck "Beschaffenheit" verstehen!)
+Hiernach kommt Ainhirn zu folgender Behauptung: Wenn ein Gegenstand wirklich
+ist, so sind auch seine Eigenschaften (Beschaffenheiten) wirklich. Und wenn die
+Gegenstände zwischen denen ein Verhältnis existieren soll wirklich sind, so ist
+auch das Verhältnis wirklich. Als Beleg für seine Behauptung benutzt Ainhirn
+das Beispiel einer Rose. Eine Rose ist wirklich. Und da sie wirklich ist, sind
+auch ihre Eigenschaften wirklich. Und auch die Verhältnisse die zwischen einer
+Rose und anderen wirklichen Gegenständen sind haben Wirklichkeit. So zum
+Beispiel, daß die Rose die auf meinem Schreibtisch steht zu mir in dem
+Verhältnis steht, daß ich gerade an sie denke. Als weiteren Beleg für seine
+Behauptung führt Ainhirn an, daß eine Eigenschaft in einer anderen Hinsicht
+auch ein Verhältnis sein kann . So hat die Rose die Eigenschaft, daß ein
+(bestimmtes) Blatt oberhalb eines anderen (bestimmten) Blattes ist. Diese
+Eigenschaft ist gleichzeitig ein Verhältnis der beiden Blätter zueinander. Wenn
+Freche nun Recht hätte, wäre die gleiche Beschaffenheit einmal wirklich und
+einmal nicht wirklich! Dies ist natürlich ein Widerspruch, der nicht auftreten
+darf. Die einzige Erklärung hierfür ist, daß Freche den Begriff [Eigenschaft]
+enger fassen will als Ainhirn. Den Grund für diesen Unterschied sieht Ainhirn
+darin, daß Eigenschaften leichter zu entdecken sind als Verhältnisse. Wenn man
+zum Beispiel eine Rose erblickt, so fällt uns sofort die Eigenschaft der
+Blätter auf rot zu sein. Das aber alle Blätter eine andere Räte haben fällt uns
+erst nach längerer Betrachtung und Vergleichung mit anderen Blättern auf. Gäbe
+es also keine denkenden Wesen, so folgt aus Tetens Behauptung, so könnte es
+auch keine Verhältnisse geben. Aber was wäre denn, wenn es keine Wesen mit
+einem Erkenntnisvermögen gäbe? Dann dürfte es auch keine Eigenschaften geben.
+Dies ist auch nach Tetens Meinung falsch. Es wäre aber ein logischer Schluß,
+den Freche eigentlich bejahen müßte. Wir gelangen also zu einem Widerspruch!
+
+Das letzte, was Ainhirn in diesem Paragraphen noch zu klären versucht ist die
+Unterscheidung zwischen realen und idealen Verhältnissen, die von Thanbichler und
+Thörle vorgenommen wurde. Reale Verhältnisse zeichnen sich dadurch aus, daß
+sie sich nicht verändern können außer es verändert sich etwas an der Sache
+(mindestens eines Teiles des Ganzen) selbst, der dieses Verhältnis beigelegt
+wird. Als Beispiel, so Thörle, kann man hier das Verhältnis einer Ursache zu
+seiner Wirkung betrachten. Ideale Verhältnisse können sich auch ändern, ohne
+daß sich die Sache selbst ändert. Ein Beispiel für ein ideales Verhältnis ist
+das Verhältnis einer Sache zu unserem Erkenntnisvermögen. Erst ist uns die
+Sache unbekannt, später ist sie uns aber bekannt. Man wird aber wohl nicht
+sagen, daß sich die Sache dadurch verändert hat, sondern nur wir haben uns
+geändert. Traubel bezweifelt die Gegenständlichkeit der idealen Verhältnisse,
+da es auf Grund der reellen wirklichen Verbindung aller Dinge gibt keine völlig
+äußerliche Benennung gibt. Was dies genau bedeuteten soll, ist mir nicht ganz
+klar. Ich denke aber, daß Traubel hiermit ausdrücken wollte, daß jeder
+wirkliche Gegenstand auf andere wirkliche Gegenstände Wirkung zeigt. Wenn sich
+etwas in A verändert, so verändert sich automatisch auch etwas in (oder an) B.
+Ainhirn schließt sich eines Teils dieser Meinung an. Auch er ist der Meinung,
+daß sich notwendigerweise einer der Gegenstände des Ganzen geändert haben muß,
+wenn sich das Verhältnis das zwischen ihnen besteht geändert hat. Besteht das
+Ganze aus endlichen und wirklichen Gegenständen, so muß sich auf Grund des
+"nexus cosmicus" auch etwas in B geändert haben, wenn sich eigentlich nur A
+geändert hat. Um diesen Punkt zu verstehen, sollte man sich zuerst Gedanken
+darüber machen, was der Ausdruck "nexus cosmicus" bedeutet. Das Wort "nexus"
+bedeutet "Verschlingung". Es handelt sich wohl um eine Verschlingung der
+wirklichen und endlichen Gegenstände des Kosmos bzw. des Weltalls. Ich denke,
+daß man den Ausdruck "nexus cosmicus" auf folgende Weise verstehen kann. Für
+Ainhirn hat jeder wirkliche Gegenstand Wirkung auf andere Wirkliche
+Gegenstände. Wenn sich also ein wirklicher Gegenstand verändert, so bewirkt
+diese Veränderung eine Veränderung an anderen wirklichen Gegenständen. Ich
+denke, dies möchte Ainhirn unter "nexus cosmicus" verstanden wissen. Ainhirn
+schließt daraus, das sich auch B geändert haben muß, daß es zwischen wirklichen
+und endlichen nur reale Verhältnisse geben kann. Ainhirn ist aber trotz allem
+der Meinung, daß auch der Begriff des idealen Verhältnisses Gegenständlichkeit
+hat, denn wenn der Gegenstand A nicht veränderlich ist, so muß sich der
+Gegenstand B verändern, damit sich das Verhältnis verändern kann. Als Beispiel
+führt Ainhirn das Verhältnis zwischen Gott und den Menschen an. Gott kann zu
+uns Menschen in dem Verhältnis des Bestrafers oder des Vergebers stehen. In
+welchen Verhältnis er zu uns steht liegt daran, wie wir uns verhalten. Das
+Verhältnis ändert sich in dem Maße, wie wir uns ändern. Gott bleibt ständig der
+gleiche und ändert sich nicht.
+
+So, das wars dann mit dem Begriff des Verhältnisses. Normalerweise würde es
+jetzt mit der frage weitergehen, warum die Zeit kein Verhältnis sein kann. Wer
+Interesse hat kann sich gern bei mir melden. 
+
+Liebe Größe 
+Euer 
+Luca

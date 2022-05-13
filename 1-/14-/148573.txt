@@ -1,0 +1,24 @@
+Rumtreiber
+ATU
+
+
+Das ist immer wieder daselbe:
+Es ist eben nicht gleichbedeutend !
+Obwohl die T_k nur endliche Teilmengen von IN enthalten, existieren doch
+unendlich viele von ihnen.
+
+
+Du solltest dir nochmal die Definition von Vereinigungsmengen ansehen.
+Jedes Element deiner Vereinigunsmenge V muss in einem der T_k enthalten
+sein. Und in jedem T_k sind nunmal nach _deiner_ Definition nur endliche
+oder co-endliche Mengen. Also ist es nach deiner Definition so, dass in V
+nur endliche oder co-endliche Mengen sind.
+Wenn du das anzweifelst hast du entweder nicht das aufgeschrieben was du
+meinst, oder du stellst dir unter der Vereinigungsmenge irgendetwas wie ein
+Erzeugnis von <T_0, T_1, ... > vor.
+
+Also bleibt immer noch das schoene Beispiel der Primzahlen (du hast doch
+Beispiele so gern), um einzusehen, dass deine Menge V keine Menge enthaelt,
+die weder endlich noch co-endlich ist.
+
+            N

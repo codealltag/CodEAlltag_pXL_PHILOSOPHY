@@ -1,0 +1,54 @@
+Stimmt :-ooooo
+
+
+Eine Portion Apfelmus aus einem Apfel hergestellt ist kein Apfel, selbt
+wenn Masse, Volumen usw gleich sind.
+
+
+Unendlichkeit ist also schliesslich zu der Frage verkommen, wie die
+natürlichen Zahlen definiert sind. Abgesehen davon, das die
+Unendlichkeit auch in anderen Zahlenreihen vorkommen, fand ich es
+einfacher die Unendlichkeit sich anhand der Menge |N zu verdeutlichen.
+Aber meinetwegen können wir auch als Anschauungsmaterial den Fussweg zum
+Ende des Universums gehen. Da werden wir mangels unserer Geschwindigkeit
+in unserem Leben zwar nicht ankommen [Wieviel Stunden brauche ich
+eigentlich bei 5 km/h bis zum Ende unseres Sonnensystems, wenn ich die
+Strecke zu Fuss zurücklegen will? ;-)]
+
+Natürliche Zahlen
+Menge der natürlichen Zahlen: . 
+
+ Nach DIN 5473 ist Null ebenfalls natürliche Zahl. 
+
+Menge der natürlichen Zahlen ohne Null: . 
+
+Auf dieser Menge basiert jede Art von Abzählung ( Kardinalzahlen)  und
+Ordnen ( Ordinalzahlen,  1., 2., 3., ...). Ferner dienen sie der
+Indizierung (). Symbolisch werden natürliche Zahlen oft mit  notiert. 
+
+ In FORTRAN sind die Buchstaben i-n standardmäßig für INTEGER -Zahlen
+reserviert. 
+
+Speicherung natürlicher Zahlen: Große natürliche Zahlen sind auf einem
+Taschenrechner nicht exakt darstellbar. Der Betrag des Bundeshaushaltes
+1991, ca. 420.000.000.000 DM kann nicht mehr exakt gespeichert werden
+und ist auf einer Anlage mit acht signifikanten Stellen nicht von
+420.000.000.348 zu unterscheiden.
+Bei PCs und Großrechnern gelten ähnliche Beschränkungen. 
+
+ Im Rechner gibt es immer eine größte natürliche Zahl, die keinen
+Nachfolger hat. 
+
+ Jede natürliche Zahl besitzt einen Nachfolger, z.B. ist 13 Nachfolger
+von 12. 
+
+ Genau eine natürliche Zahl, die Null, ist nicht Nachfolger einer
+anderen natürlichen Zahl, d.h., sie besitzt keinen Vorgänger. 
+
+
+ Verschiedene natürliche Zahlen haben verschiedene Nachfolger. 
+
+ Es gibt unendlich viele natürliche Zahlen: Die Folge der natürlichen
+Zahlen ist nach oben unbeschränkt. Sie sind auf einem Zahlenstrahl
+(einer Zahlenhalbgeraden) als isolierte, äquidistante Punkte
+darstellbar.

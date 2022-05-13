@@ -1,0 +1,30 @@
+Hallo Hilmar,
+
+
+Der Satz A ist dann falsch. Ohne Wenn und Aber. Nicht "in einem Fall",
+sondern einfach falsch. So ist er formuliert. Eine All-Aussage ist
+eben genau dann falsch, wenn mindestens ein Gegenbeispiel gefunden
+wurde -- das Gegenbeispiel macht aber eben die Gesamtaussage falsch
+und nicht nur "in einem Fall".
+
+
+A war "Alle geraden Zahlen lassen..." und A ist falsch, wenn es eine
+gerade Zahl gibt, für die das ... nicht zutrifft. A ist *eine*
+Aussage, und die hat auch nur *einen* Wahrheitswert (wenn man man von
+der Ausgangsfrage absieht :-) ) und keinen "manchmal".
+
+
+Es gibt nur die beiden Fälle. Ich habe keine Aussagen a(n), die für
+jede (gerade) Zahl n wahr oder falsch sein kann, sondern ich habe nur
+eine einzige Aussage. Diese Aussage lässt sich so konstruieren:
+
+A ist wahr, genau dann wenn für alle geraden Zahlen n die Aussage a(n)
+wahr ist. a(n) ist dabei die Aussage "ich kann n durch die Differenz
+zweier Primzahlen darstellen". Wir reden hier über die Aussage A,
+nicht über die Aussagen a(n). Die Aussagen a(n) können je nach
+gewähltem n wahr oder falsch sein, die Aussage A jedoch nicht.
+Ich denke, das ist das Missverständnis, dem Du aufgelegen bist.
+
+Viele Größe
+
+Leander

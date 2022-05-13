@@ -1,0 +1,67 @@
+"Nils Potkamp" schrieb
+
+
+Das kann er wohl nicht, denn dann würde er die Ableitung (den Beweis)
+wohl hinschreiben und damit wäre der Fall erledigt.
+
+Abgesehen von folgendem: "Berechenbar" ist da ohnehin schon falsch
+verwendet, durch einen Widerspruchsbeweis (einen indirekten Beweis)
+wird z. B. (da wo einer vorliegt) gezeigt, warum sich prinzipiell eine
+"Berechnung" (etwa im Sinne eines Beweises durch vollständige Induktion)
+erübrigt, was aber auch letzteren als zusätzlichen Beweis nicht ausschießen
+muss.
+
+Also bleibt es dabei, dass hier offensichtlich nicht verstanden ist, dass
+Sätze, selbst wenn sie der normalspachlichen Form nach identisch sind,
+verschiedene Aussagen zum Inhalt haben können. Aus einem Überschau-
+baren Zusammenhang "Sieh an, alle gerade betrachteten Zahlen lassen
+sich als Summe zweier Primzahlen darstellen" wird ohne Beweis eine
+begründete und brauchbare Vermutung "Jede gerade Zahl lässt sich als
+Summe zweier Primzahlen darstellen" oder eine Frage, sofern auf einem
+ausstehenden Beweis insistiert wird: "Lässt sich jede gerade Zahl als
+Summe zweier Primzahlen darstellen?" Für den Fall, dass der Satz be-
+wiesen würde, behielte er seine normalsprachliche Form, also dieselbe,
+die sie auch als Vermutung schon haben konnte, allerdings bei: "Jede
+gerade Zahl lässt sich als Summe zweier Primzahlen darstellen", mit
+dem kleinen Unterschied, dass es jetzt ein bewiesener Satz wäre.
+
+"Definitiv nicht berechenbar" ist in diesem Zusammenhang aber schlicht
+zweifacher Unsinn, auch weil es keinen Grund für diese Annahme gibt
+(läge der vor, wäre das ja im Gegenteil schon der Beweis, welcher der
+Annahme widersprechen würde und damit wäre sie hinfällig. Das ist wohl
+das, was Du sagen wolltest). Deine Begründung endete allerdings mit dem
+Satz: "Wenn wir es [eine gerade Zahl finden, die sich nicht als Summe
+zweier Primzahlen darstellen lässt] nicht können, wäre die Aussage aber
+bewiesen und damit ebenfalls entscheidbar." Das ist leider nicht richtig,
+denn etwas nicht finden oder nicht wissen ist kein anerkannter Beweis.
+
+Der Fehler schon lag darin, "berechenbar" ernst oder wörtlich zu nehmen,
+gemeint war ja wohl nur "nicht bewiesen". Einen nicht bewiesenen Satz
+kann man aber selbtverständlich negieren. Interessant mag noch sein,
+dass die positive Vermutung auf einen überschaubaren Bereich ja zutrifft
+und in irgendeinem Zusammenhang als brauchbar angesehen werden kann,
+was allerdings für die Negation so nicht zutrifft. Auch ein Gegenbeweis
+würde daran nicht unbedingt etwas ändern. Der Gegenbeweis negierte ja
+nicht den Grund der Vermutung oder deren Brauchbarkeit sondern etwas
+ganz anderes, nämlich dass sie für jede (auch bisher nicht betrachtete)
+Zahl oder für jeden Zahlenbereich zuträfe. Daraus könnten z. B. neue
+Konstruktionsanweisungen für diese und jene Zahlen sich ergeben usw.
+
+
+Ich sehe da einen Unterschied. "Jede Zahl" verlangt nach einer definitiven
+Konstruktionsanweisung oder Definition derselben. "Alle Zahlen" könnte
+auch solche umfassen, die einander - als in einem einheitlichen Axiomen-
+und Regelsystem definiert - einander ausschließen würden oder solche
+deren Konstruktion schlicht noch unbekannt ist. Einfaches Beispiel:
+"Jede Zahl kann Teiler einer anderen Zahl sein". Als wahrem deskriptiven
+Satz aufgefasst folgte daraus, dass Null keine Zahl ist, als normativen
+Satz aufgefasst folgte daraus, dass Regeln, Verfahren, Zahlzeichen an-
+zuerkennen wären, welche eine Division durch Null erlauben, als falschem
+deskriptivem Satz aufgefasst folgte daraus das Gegenteil als wahr nämlich
+"Nicht jede Zahl kann Teiler einer anderen Zahl sein", was wiederum die
+Frage aufwirft nach einer definitiven Konstruktions- oder Verfahrensan-
+weisung für welche Zahlen es wann gilt oder nicht gilt.
+
+Mit freundlichen Größen
+
+Ronald

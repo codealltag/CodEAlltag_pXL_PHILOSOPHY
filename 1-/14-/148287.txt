@@ -1,0 +1,15 @@
+Wenn also x = 0 ist darf ich 0 + 0 nicht rechnen, da dann 9 = 8 wird?
+0/9 + 0/9 = 0
+0/8 + 0/8 = 0
+
+0 die unbekannte Zahl wieder mit x ersetzt ergibt
+
+x/9 + x/9 = x
+x/8 + x/8 = x
+
+Da wir ja von oben Wissen, dass beide Ausdrücke 0 sind könnte ich also 
+schreiben:
+
+x/9 + x/9 = x/8 + x/8
+
+Was ist dann das Ergebniss?

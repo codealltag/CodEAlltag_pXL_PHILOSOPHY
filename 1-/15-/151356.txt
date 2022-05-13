@@ -1,0 +1,6 @@
+Wie soll den diese ternäre 'a b c --> d' Verknüpfung aussehen? Sie scheint nicht
+einmal assoziativ zu sein.
+Bsp.  y y x  --> falsch.   (falsch ist falsch) ist wahr -->falsch ;   falsch ist
+( falsch ist wahr ) --> falsch   ??
+Beachte: jeder Interpretatorische Versuch sollte ' x x y  --> w '   ebenfalls
+konsistent erklären.

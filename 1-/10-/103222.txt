@@ -1,0 +1,35 @@
+Allgemein ist es so, dass Rüdell drei Dinge unterscheidet: Begriffe,
+d.h. 1-stellige Begriffsfunktionen, Begriffsumfänge und Wertverläufe.
+
+Den Wertverlauf des Begriffs F kann man formal wie folgt darstellen:
+
+eF(e) = {<a,y> | y = F(a), a e D & y e {W,F}}
+
+und den Umfang des Begriffs F wie folgt:
+
+eF = {<a,y> | y = F(a), a e D & y = W}
+
+Das heisst, der Umfang eines Begriffs ist eine Teilmenge des
+Wertverlauf eines Begriffs.
+
+Man muss dabei, so wie ich die Sache sehe, aufpassen, dass man den
+Begriffsumfang von F nicht einfach so mit der Menge aller Fs
+gleichsetzt:
+
+~[{<a,y> | y = F(a), a e D & y = W} = {x | Fx}]
+
+
+"Ein Begriff ist eine Funktion, deren Wert immer ein Wahrheitswert
+ist.
+Auch der Wert der Funktion (x+1)^2 = 2(x+1) ist immer ein
+Wahrheitswert."
+(aus Frege: "Funktion und Begriff")
+
+Das ist für mich eine Definition.
+
+
+Das meint er; denn aus der obigen Definition folgt ja auch, dass alle
+(1-stelligen) Funktionen, deren Wert immer ein Wahrheitswert ist,
+Begriffe sind.
+
+#PH

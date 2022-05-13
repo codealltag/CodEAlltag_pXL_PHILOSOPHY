@@ -1,0 +1,21 @@
+On 27. 05. 21 19:20:32 -0700, 
+
+Das ist wohl richtig. Deshalb schrieb ich in meinem Artikel auch nicht
+vom Extensionalitaetsaxiom, sondern von der Extensionalitaet. Dennoch
+wird die Identitaet durch eine \in-Formel ausgedrueckt. (Hier kommt kein
+"="-Zeichen vor. Daher ist auf der formal-syntaktischen Ebende die
+Definition voellig korrekt.)
+
+Schreibst du einem Computer einen Begriff von Identitaet zu, wenn er
+Zeichen so parsen kann, dass er /Typen/ erkennt? Wuerdest du sagen,
+dass, wenn du ein Minimalprogram schriebest, in welchem auf die eine oder
+andere Weise ein Zustand identifiziert wuerde, der Computer, der
+dieses Programm ausfuehrte, ein Verstaendnis von Identitaet habe? Wie
+sieht es mit einfachen Taschenrechnern aus?
+
+Also: Hat ein Parser - und sei er auch noch so minimal - einen Begriff von
+Identitaet?
+
+
+Gruss, Niklaus.
+--

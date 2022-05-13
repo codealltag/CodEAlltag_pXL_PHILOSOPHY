@@ -1,0 +1,33 @@
+Hallo Berend,
+
+vielen Dank für deine umfangreiche kritische behandlung des von mir
+zitierten Oetzel-Textes. Ich kann jetzt nur auf einen ersten Punkt
+eingehen.
+
+Da ich den Scan nur oberflächlich bearbeitet habe wurde aus Information
+Enform ation. Sorry!
+Was den Taktgeber in der binären Informationsverarbeitung angeht:
+Das Signal besteht aus einem von zwei Zuständen, nämlich entweder 1 oder
+Null. Dieser zusatnd bezieht sich immer auf einen Takt, sonst wäre ja
+ein Wechsel von 1 zu 1 oder von Null zu Null nicht möglich, also die
+Übermittlung der Zahl 11100011 unmöglich. Das Fortschreiben der Stellen
+wird durch den Takt gewähleistet weshalb bei fehlerhafter
+Takt-Synchronisation von sendendem und empfangendem Element ein
+ziemlicher Murks übermittelt wird.
+Wenn nun das Gehirn gar keinen solchen Taktgeber hat muss es wohl
+grundsätzlich anders mit der Signalverarbeitung umgehen, wie ein
+Computer, auch wenn der mit noch so vielen Paralell-Prozessoren
+ausgestattet ist.
+Der Bio-Rhythmus ist eine andere Geschichte.
+
+Analog werden die Signale im Gehirn auch nicht gespeichert.
+
+Da du aber von einem asychronen Digitalrechner schreibst bin ich
+neugierig, wie der funktioniert. Kannst du mir einen Tip geben, wo ich
+entsprechnde Informationen finden kann?
+
+So weit erst Mal.
+
+Größe
+
+Heinz Ruyter

@@ -1,0 +1,11 @@
+Nein, eine Theorie der reellen Zahlen muss ja nicht erster Ordnung sein.
+
+Erster Ordnung war AFAIR dass man Quantoren nur über Variablen hat,
+nicht über Prädikate. Insbesondere sind die Peano-Axiome nicht erster
+Ordnung, also die übliche Axiomatisierung schon der natürlichen Zahlen
+fällt nicht darunter.
+
+
+Das hätte ich gerne mal erläutert.
+
+Joël

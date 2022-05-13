@@ -1,0 +1,55 @@
+Hallo Bernd!
+
+
+Ich denke, doch. Die Schroedingergleichung macht schliesslich eine
+Aussage ueber die Aufenthaltswahrscheinlichkeit des Teilchens. Eine
+genauere Kenntnis des Verhaltens von Einzelteilchen wuerde diese
+Aufenthaltswahrscheinlichkeit zerstoeren.
+
+Einfaches Beispiel, Doppelspalt: Ich habe eine Teilchenquelle und
+einen Doppelspalt. Die Teilchenquelle emittiert die Teilchen so, dass
+"gleichzeitig" immer nur ein Teilchen den Doppelspalt passiert.  Wenn
+das Preoblem symmetrisch ist, ist dies auch die Schroedingergleichung
+und es ergibt sich eine Wahrscheinlichkeit von 50% fuer jeden Spalt.
+
+Es ergibt sich ein Interferenzmuster, natuerlich nur, wenn ich den
+Durchgang der Teilchen durch den Spalt nicht messe.
+
+Und jetzt stelle Dir vor, auf irgendeine Weise kannst Du vor dem
+Teilchendurchgang erfahren, durch welches der beiden Spalte das
+Teilchen geht (d.h. an welchem Spalt ich das Teilchen messe, wenn sich
+dort ein Detektor befindet), und zwar ohne dass man dazu das Teilchen
+beeinflusst. Dann kannst Du eine Vorrichtung bauen, die konsequent
+alle Teilchen "wegfaengt", die durch einen der beiden Spalte gehen.
+
+Das gleiche wiederhole ich noch einmal mit dem anderen Spalt, so dass
+ich auf die gleiche Anzahl der Teilchen auf dem Schirm komme.
+
+Frage: Ergibt sich wieder ein Interferenzmuster?
+
+Ja: denn die einzelnen von der Quelle emittierten Teilchen sind
+unabhaengig voneinander und die nicht "weggefangenen" Teilchen wissen
+ja nichts von der Fangvorrichtung. Und es sind ja durch den
+Experimentaufbau die gleiche Anzahl von Teilchen wie vorher.
+
+Nein: wenn ich die Teilchen an beiden Spalten messe, ergibt sich, dass
+in der ersten Haelfte des Experiments alle Teilchen an einem Spalt
+ankommen, in der zweiten am anderen. Das heisst, ich kann den jeweils
+unbenutzten Spalt auch zumachen, ohne dass sich etwas an der
+Verteilung der Teilchen aendert. Mit nur einem Spalt ergibt sich aber
+kein Interferenzmuster.
+
+Also fuehrt die Moeglichkeit, den Weg des Teilchens vorherzusehen,
+zu einem Widerspruch.
+
+
+Nein; ich denke, dass das Problem an einer ganz anderen Stelle liegt;
+naemlich an der Festlegung, was "deterministisch" ist. Sobald hier
+eine physikalische Festlegung getroffen wird (das schliesst
+physikalisch verwertbare Vorhersagbarkeit ein), kann es auch eine
+physikalische Theorie geben, die diese Frage wissenschaftlich pruefbar
+macht und damit einer philosophischen Diskussion entzieht. 
+
+Viele Gruesse
+
+Volker

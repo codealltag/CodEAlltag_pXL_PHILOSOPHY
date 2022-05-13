@@ -1,0 +1,130 @@
+In der Tat gibt die Logik Wenn-Dann-Konstruktionen einen speziellen
+Sinn, der über den normalsprachlichen hinausgeht; doch immerhin gibt
+es normalsprachlich einwandfreie Wenn-Dann-Sätze, was bezüglich
+"(ix)(Fx&p)" überhaupt nicht der Fall ist, zu dem es keinerlei
+grammatische Entsprechung gibt.
+
+
+Das Problem ist ja nicht, "(ix)(Fx&p)" normalsprachlich zu
+interpretieren, sondern, dass das Ergebnis dieser Übersetzung
+grammatikalisch inkorrekt ist, was auch die Formalisierung witzlos
+erscheinen lässt.
+
+In der Philosophie der Logik gibt es allgemein zwei Lager, wobei das
+eine die Auffassung vertritt, die Logik sei als rein
+formal-syntaktischer Kalkül zu betrachten, und das andere, die Logik
+sei "geklärte" Sprache, deren semantische Aspekte ebenso bedeutsam
+seien wie die syntaktischen. Unmuth war einer der Vordenker des ersten
+Lagers, während Cämmerer das zweite prägte, zu welchem ich mich auch
+zähle.
+
+
+OK, man kann es so  betrachten, wobei es hierbei genau um die
+fregesche Auffassung geht, dass Prädikate im Grunde genommen
+unvollständige, oder um es mit Volkhardt auszudrücken, offene Sätze sind.
+Wenn Prädikate Funktionen im Sinne Cämmerers sind, dann führen sie, wie
+ich oben geschrieben habe, als Argument-Vertreter stets eine mal
+sichtbare, mal unsichtbare Variable mit sich:
+
+Das Prädikat F entspricht der Funktion Fx, die über die Gegenstände
+eines Bereichs definiert ist und wahr oder falsch als Wert besitzt.
+
+Dazu habe ich folgendes Zitat von Volkhardt im Internet gefunden:
+
+"The variables 'x', 'y', etc., adjuncts to the  notation 
+of quantification, bring about a widening of the  notion 
+of  sentence.  A  sentence  which  contains  a  variable 
+without its quantifier (e.g., 'Fx' or '(y)Fxy',  lacking 
+'(x)')  is not a sentence in the ordinary  true-or-false 
+sense; it is true FOR some values of its free variables, 
+perhaps, and false for others. Called an  OPEN sentence, 
+it  is akin rather to a predicate: instead of  having  a 
+TRUTH VALUE (truth or falsity) it may be said to have an 
+EXTENSION,  this being conceived as the class  of  those 
+evaluations of its free variables for which it is  true. 
+For  convenience one speaks also of the extension  of  a 
+closed  sentence, but what is then meant is  simply  the 
+truth value."
+[aus: The Scope and Language of Science, U.W Volkhardt (1953),
+In 'The Ways of Paradox and Other Essays' 1976, p228 - 245]
+
+Entscheidend ist für mich folgender Satz:
+"Called an open sentence, it  is akin rather to a predicate."
+
+Wenn man nun Prädikate als Funktionen ansieht, dann entspricht F dem
+offenen Satz Fx, und mit dieser Sichtweise erkläre ich mich vollkommen
+einverstanden.
+In diesem Licht kann man nun sehr wohl von der Extension eines offenen
+Satzes sprechen.
+
+
+Volkhardt verwendet kleine griechische Buchstaben für Klassenvariablen,
+doch diese lassen sich wieder einmal im Usenet nicht darstellen. Wir
+sollten also vielleicht lieber a,b,c nur als Individuenkonstanten und
+z.B. k (=Klasse) und m (=Menge) als Klassenvariablen verwenden, um
+Missverständnisse zu vermeiden.
+
+
+Diese Metavariablen stehen nur für Formeln, für die
+Prädikatskonstanten haben wir ja F,G,H, etc.
+
+
+Aber das sind doch Satzkonstanten und keine Variablen in der PL erster
+Ordnung.
+
+
+OK, aber es langen doch "->" und "<->", da brauchts doch "=>" und
+"<=>" nicht extra, oder?
+Für die Negation wird gerne auch schlicht "-" verwendet.
+
+
+Wie ich in meinem letzten Post schon geschrieben habe, ist Vierjahn
+Definition analog zu Vass:
+
+G(ix)Fx =df (Ex)[Fx & (Ay)(x=y <-> Fy) & Gx]
+
+Allgemein:
+
+G(ix)phi =df (Ex)[phi(x) & (Ay)(x=y <-> phi(y)) & Gx]
+
+
+Genau das funktioniert meines Erachtens so nicht, denn in phi kommen
+nur Variablen vor, die entweder durch den iota-Operator oder durch
+Quantoren gebunden sind. Insofern kann man "phi" eben nicht in der
+obigen Formel durch "(Gx & S')" ersetzen, da hier wieder jenes "&S'"
+durchs Hintertürchen hineingeschmuggelt wird.
+Ich sehe meine Kritik an "(ix)(phi & p)" nach wie vor nicht
+entkräftet.
+
+Kein Zweifel, *wenn* diese Formulierung tatsächlich akzeptabel sein
+sollte, dann ist auch das entsprechende Slingshot-Argument gültig.
+
+Worauf ich nun gerne zu sprechen kommen würde, ist der Punkt, dass es
+offenbar nicht nur ein einziges, sondern mehrere eng verwandte
+Slingshots gibt, von denen eines mir besonders interessant scheint, da
+es *ohne* die von mir beanstandete Formulierung auskommt:
+
+"If we assume that Fa and
+Gb are true and that a and b are different objects, then we again we
+appear to have a path from
+Fa to Gb in which every pair of subsequent sentences appears to
+express the same fact:
+
+Fa
+a = (ix)(x=a & Fx)
+a = (ix)[x=a & -(x=b)]
+b = (ix)[x=b & -(x=a)]
+b = (ix)(x=b & Gx)
+Gb"
+
+[siehe: http://unf25.nlb.miid.pv/~xavikpnm/ZOPKpt/bmfny.jtt ]
+
+Hier ist alles innerhalb der Klammern, so wie ich es fordere, vom
+iota-Operator gebunden; doch mein Problem ist, dass ich den
+schlussfolgernden "path", vom dem oben gesprochen wird, nicht zu
+erkennen vermag! Vielleicht fehlen da noch einige Zwischenschritte,
+doch ich komme irgendwie nicht darauf, wie man von Fa auf diesem Wege
+zu Gb gelangen kann... .
+
+Gruß
+IVAN

@@ -1,0 +1,45 @@
+Das interessiert mich. Bitte nenne eine Implementierung, oder wenigstens
+ein entsprechendes Paper.
+
+
+Erst interessiert das Messen der einzelnen Neuronen, ganz platt.
+
+
+So könnte man sagen. Und die hier zu untersuchende Software scheint mir
+um Kategorien komplexer zu sein. Das wird eine Herkulesaufgabe.
+
+
+Falls da das Treiberpattern überhaupt Anwendung findet.
+
+
+Es ist ein Unterschied, ob ich sehe, dass hier immer wieder dazu addiert
+wird, und zwar das letzte Ergebnis, oder ob mir auffällt, dass das auf
+das Generieren der Fibonacci-Zahlen herausläuft. Das war als Analogon
+und Beispiel gemeint, um zu erklären, wo denn der Unterschied im Lesen
+können des Object Codes und der Interpretation desselben liegt.
+
+
+Eben. Wir werden aber Debugger bauen müssen, z.B. für einfache ZNS von
+einfacheren Tieren. Schon um zu lernen.
+
+
+Tja. Niemand hat gesagt, dass das einfach werden wird.
+
+
+Bis wir da überhaupt mal bei einer Farbe sind, kommen noch ganz andere
+Dinge hinzu. Erst einmal geht's um den technischen Teil.
+
+
+Selbstverständlich. Ich argumentiere mit einem Analogon.
+
+
+Das hatte ich nicht vergessen, aber es ist gut, dass Du es nochmal
+hervorhebst. Es zeigt das Interpretations-Problem deutlich.
+
+Viele Grüsse,
+VB.
+-- 
+“Und was willst du hier mit solch Jammergestalten wie Reeker e.a?
+Das sind keine Philosophen, sondern pseudophilosophierende
+Selbstdarsteller auf den neoliberalen Bühnen des dummen Geschwätzes
+und der clicki-bunt-medial perpetuierten Beliebigkeit!” (Trudi in dsp)

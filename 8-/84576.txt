@@ -1,0 +1,33 @@
+On 25. 05. 22 18:37:08 -0800, "Pascal Zanner"
+
+Dabei genügt es ja schon, wenn man Folgendes als gültig akzeptiert:
+
+	~<>A -> ~A
+
+Bsp.: Wenn es nicht möglich ist, dass er den Mord begangen hat [z. B.
+weil er zur Tatzeit nicht am Tatort war], dann hat er den Mord auch
+nicht begangen.
+
+Daraus folgt durch Kontraposition logisch (also zwingend):
+
+	A -> <>A.
+
+	"Wenn A, dann ist es möglich, dass A."
+
+Es stimmt schon. Man sagt selten (außer man ist Logiker): "Wenn er den
+Mord begangen hat, dann ist es (auch) möglich dass er den Mord begangen
+hat." - Trotzdem ist diese Aussage /logisch/ gesehen korrekt.
+
+	Man kann auch so argumentieren: A und ~<>A schließen sich
+	gegenseitig aus. Bsp: "Er hat den Mord begangen." und "Es
+	ist nicht möglich, dass er den Mord begangen hat." schließen
+	sich gegenseitig aus. Es gilt dann (symbolisch formuliert):
+	"~(A & ~<>A)" bzw. "A -> <>A". qed.
+
+
+A.
+
+--
+
+E-mail: 
+zjafcb<zb>simple<bindestrich>line<punkt>de

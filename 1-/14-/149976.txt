@@ -1,0 +1,51 @@
+Dies hast du noch nicht beantwortet :-)
+
+
+Das ist kein Vorteil, sondern ein Widerspruch! Wenn ich mir für n/0 jede
+Lösung suchen kann die mir gerade in den Kram passt, dann verliert dieser
+Ausdruck seine Inhalt. Beispiel:
+
+a = b   |*a
+a^2 = ab   |+(a^2-2ab)
+a^2 + (a^2-2ab) = ab + (a^2-2ab)   |ausmultiplizieren
+2a^2-2ab = a^2-ab   |faktorisieren
+2(a^2-ab) = a^2-ab   |/(a^2-ab)
+2 = 1
+Und du willst mir jetzt doch nicht erzählen, daß das richtig ist, oder?
+
+
+Nein, nicht ermitteln: aussuchen.
+
+
+Eben. Es gibt keine Lösung!
+
+
+Das Verhältnis ist eben nicht definiert. 1 ist definiert als das neutrale
+Element der Multiplikation (n*1=n).
+0 ist definiert als das neutralen Element der Addition (n+0=n).
+
+
+oo soll ja gar kein Wert zugeordnet werden. Wenn du oo und oo+1
+unterscheiden könntest, könntest du einen Wert für oo nennen. Aber dann ist
+oo nicht mehr unendlich.
+
+
+Wieso? Wenn du zur 'letzten nat. Zahl 1 addierst ist das Ergebnis wieder
+eine neue nat. Zahl, gehört also auch zur definierten Menge.
+
+
+Sowieso.
+
+
+Das klingt nach einem unendlich großen Ring. nach den nat. Zahlen kommt also
+wieder die 0. Wo sind denn dann die negativen Zahlen geblieben?
+Oder redest du von der Anzahl Elemente in der Menge der nat. Zahlen? Dann
+bleibt zu erwähnen, daß die nat. Zahlen selbst schon oo+1 Elemente
+enthalten. (z.B. Die Anzahl aller Nachfolger und die 1).
+
+--
+Wolfram Paßmann (fficv228@w-jfozno.zz)
+-----------------------------------------------------------
+A Member of the ---> MAGDALENA ALFONS SKUBOW <--- Fanclub Germany
+      since      http://yva.ftkp.wd/jwn-tpe      2/99
+-----------------------------------------------------------

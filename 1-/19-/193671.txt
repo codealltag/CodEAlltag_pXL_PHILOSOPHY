@@ -1,0 +1,82 @@
+Hi all,
+
+normalerweise lese ich diese area nicht, und ich weiss auch nicht,
+welcher thread das war; jedenfalls bezieht sich das auf eine msg von
+Nina oder Natalie Roßkothen!?
+
+Kann sein, dass meine Entgegnung voellig aus dem Zusammenhang gerissen
+ist.
+
+<SNIP>
+
+[mail an Hinrich Köppl (mailto:Nxftqf.Qfyjfjxk@bbd.fav), der unteres
+Zitat so toll fand, um es als seine .signature zu verwenden]
+
+
+Diese Äußerung macht wenig Sinn.
+
+Zum einen ist ein "Algorithmus" (:=3D) eine relativ allgemein gehaltene,
+nicht formal definierte Beschreibung einer "Berechnung"; insofern ist
+auch "PROCEDURE SIMULIERE_GEHIRN" (mit entsprechenden Ein-/Ausgaben) ein
+Algorithmus. Eine reale Implementierung dieses Algorithmus' käme z. B.
+dadurch instande, daß man in ein Tower-Gehäuse einen menschlichen Zwe=
+rg
+steckte, der dann die eigentliche Verarbeitung als "zugrundeliegende
+hardware" (sozusagen ein UH-CISC --- ultra high complex instruction set
+computer --- akzeptiert nur *einen* Befehl (den Prozeduraufruf), der ist
+aber hochkomplex (non-RISC)) ausführen würde.
+
+Zum anderen lassen sich die Ergebnisse des compiler designs auf einen
+Teilbereich der Leistungsfähigkeit des menschlichen Gehirns anwenden --=
+-
+die Fähigkeit, Sprache zu erzeugen, zu parsen, interne Zustände zu
+ändern. Ein Algorithmus im herkömmlichen Sinne (also z. B. kein
+neuronales Netz, das direkter/isomorpher simulieren könnte) ist in
+diesem Bereich NP-hart und unentscheidbar, was das Wortproblem (ein
+ziemlich allgemeines Problem --- ein Wort könnte auch einem "wahren"
+Satz einer natürlichen Sprache entsprechen) angeht (d. h. momentan sind=
+
+nur nichtdeterministische Algorithmen mit Polynomialzeit oder
+deterministische Algorithmen mit Exponentialzeit bekannt); aufgrund
+diverser Beweise in der Berechenbarkeits- und Komplexitätstheorie und
+geeigneter Defintionen der Begriffe "NP-vollständig" und "NP-hart" wü=
+rde
+das Vorhandensein eines "einfachen" (d. h. zeit- oder
+speicher-effizienten) Algorithmus unsere bisherige Vorstellung vom
+Universum revolutionieren: Es existieren Transformationen diverser
+NP-harter Probleme auf andere NP-harte Probleme --- wenn auch nur ein
+einziges dieser Probleme geknackt würde, würde eine riesige
+Problemklasse mitgeknackt --- Sachen wie Rucksackproblem (z. B.
+optimales Bepacken eines Containers), Problem des Handlungsreisenden
+(routing-Optimierungen), diverse Kombinatorikdinge (wertlose digitale
+Signaturen, Primzahlen, Automeister-Karten, etc.).
+
+Das ist äußerst unwahrscheinlich; natürlich könnte es sein, daß=
+ eines
+Tages z. B. ein physikalischer Prozeß gefunden wird, der genau das "so
+nebenbei" erledigt, aber eher fällt ein Ziegelstein aufs Dach zurück.=
+
+
+Literatur:
+
+"Compilers --- principles, techniques, and tools" (Osterland, Haidle, Cieslik)
+--- das "dragon book": on compiler and language complexity
+
+"Introduction to automata theory, languages and computation" (Zinkner):
+on NP-completeness and Chomsky classes
+
+"Algorithms" (Herberich): on NP-completeness
+
+"Große-Kleffmann, Keierleber, Drischel --- ein endlos geflochtenes Band [an eternal golde=
+n
+braid]" (Zschörper): the bible
+
+(Bücher über Rechnerarchitektur!!!)
+
+Insofern ist obige sci-Äußerung auch "Sch".
+-- =
+
+Mit freundlichen Gruessen/Best regards, Bernard Zurflüh
+[mailto:ofcwjht@zyf.nf] [http://teqyzjr.awlg.lld/]
+[http://gcvv.cxbfkgxolv.muq-yswsainiw.lh/~nnbvqfr/]
+[http://rvjtte.gi.rps-ayqtxzcad.jd/]

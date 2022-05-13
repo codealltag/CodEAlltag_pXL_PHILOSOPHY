@@ -1,0 +1,25 @@
+Sind Mengen keine Gegenstände? Ein Analogon zu Karls Satz
+ist: 
+
+"Es wird von Autos geredet, aber doch nicht von Gegenständen." 
+
+Ist der Satz sinnvoll?
+
+In der Modelltheorie wird der /Bezug/ auf Gegenstände zum /einen/
+durch die Interpretation hergestellt, bei einer L-Struktur A wird etwa
+jeder Konstanten ein Element aus dem Individuenbereich |A| zugeordnet
+(die Entität, auf die sich die Konstante bezieht), und zum /anderen/
+durch Variablenbelegungen h:Var_L -> |A|, die in den Bikonditonalen
+
+   A |= '(x) phi'  [h]   gdw.  A |= 'phi' [h(x\a)] für alle a in |A| 
+
+
+vorkommen. Die Terme "Bezug" oder "Referenz" werden natürlich nur dort
+gebraucht, wo *über* eine Objektsprache und ihre Semantik gesprochen
+wird, also in der jeweiligen Metasprache.  Die Terme der Objektsprache
+beziehen sich also auf Gegenstände, obwohl die Worte "Bezug" oder
+"beziehen sich auf" dort nicht notwendig fallen müssen, auch wenn das
+gelegentlich geschieht.
+
+
+wolfram

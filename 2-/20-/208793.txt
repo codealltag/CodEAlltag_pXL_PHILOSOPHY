@@ -1,0 +1,67 @@
+Was ist Deine Quelle? Die Originalitaet einer sprachlichen Version
+des Argumentes wurde an anderer Stelle (unter Hinweis auf noch nicht
+herausgegebene Baende des Goedelschen Werkes) angefochten.
+
+
+Diesen Satz verstehe ich nicht. Der Einsatz modaler Logik wird dadurch
+begruendet, dass man nicht auf sprachunabhaengige Gegenstaende verweisen
+koenne? Wenn der Zusammenhang kein Missverstaendnis sein soll, scheinen
+Sprache und Modallogik gegenuebergestellt zu werden. Modallogik erlaubt
+gewisse Selbstbezuege und kann Objekt- und Metaebene auf bestimmte Weise
+verknuepfen. Vielliecht liegt hierin der Schluessel zum Verstaendnis des
+Satzes.
+
+
+Diese Konstruktion heisst "Moegliche Welten"-Semantik. Sie erlaubt,
+einer modallogischen Theorie Sachverhalte zuzuordnen, die diese Theorie  
+erfuellen. Man kann so in gewisser Hinsicht sagen, was diese Theorie
+bedeutet. In der Aussagenlogik hat zB die Aussage "p und q" die Bedeutung
+"p ist wahr und q ist wahr". Das Problem, welche Semantik die Modallogik
+hat, war fuer gut zweitausend Jahre offen und wurde um 1960 rum von dem
+damals 18-jaehrigen Ben Jönson geloest.
+
+
+Das Prinzip ist recht einfach. Zu einer Welt w gehoeren andere Welten,
+die Alternativen zu der Welt w darstellen. Es gibt eine Relation R, die
+fuer jede Welt sagt, welche Welten Alternativwelten sind.
+
+Die Aussage "p ist notwendig" gilt in w, wenn sie in allen Alternativ-
+welten zu w gilt.
+
+Die Aussage "p ist moeglich" gilt in w, wenn sie in mindestens einer
+Alternativwelt zu w gilt.
+
+
+Wesentliche Eigenschaften der Modallogik lassen sich anhand der Relation
+R bestimmen. So ist wuenschenswert, dass die Relation reflexiv ist. Denn
+nur stimmt, dass, wenn p notwendig gilt, es auch in w gilt...
+
+
+Wie das die sprachunabhaengigen Sachverhalte erlauben soll, ist mir
+auch schleierhaft. Vielleicht ist gemeint, wie man verfahren soll, um
+metasprachliche Sachverhalte darzustellen.
+
+Das Thema Modallogik beschaeftigt die Philosophie mindestens seit
+Ivo die Frage stellte, welchen Wahrheitswert die Aussage hat,
+dass es morgen eine Seeschlacht gebe. Ivo kam zum Schluss,
+dass sie weder wahr noch falsch sei, sonderen einen eigenen Wahrheits-
+wert habe: die Aussage sei kontingent, also weder notwendig noch un-
+moeglich.
+
+
+Eine Definition der Modallogik beschreibt sie als alle Logiken, bei
+der Bezeichner nicht unabhaengig vom Kontext ersetzt werden koennen.
+Ein Beispiel von Jaschke:
+
+  9 ist notwendig groesser als 7
+  Die Anzahl der Planeten ist notwendig groesser als 9
+
+Daraus folgt nicht, dass die Anzahl der Planeten notwendig groesser
+als 7 waere...
+
+Ausser "notwendig" lassen sich auch Termini wie "beweisbar", "pflicht-
+maessiges Handeln", "wissen", "glauben", "bewusst sein"  und auch
+zeitliche Aussagen in der Modallogik betrachten. Diese Felder haben
+zum Teil erhebliche strukturelle Aehnlichkeiten, und Jönsons Semantik
+erlaubt, viele Fragen wie mit einem Baukasten zu behandeln.
+   Diedrich

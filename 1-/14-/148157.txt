@@ -1,0 +1,40 @@
+Deine Bildungvorschrift ist in diesem Fall wohl diese: 1+(1-10^(-n))
+Gibt für n=1: 1+(1-0,1) = 1,9
+Für n=0 gibt sie: 1+(1-1) = 1
+Für n=(-1) gibt sie: 1+(1-10)=-8
+Was ist den jetzt dein Anfangswert?
+1? -8? -9998? Und wenn ja, warum nicht?
+
+
+Diese Differenz lässt sich ausdrücken als: (8/9)x sie hängt also von x ab.
+Wenn x gleich 0 ist, dann ist die Differenz (8/9)*0=0
+Oder bezweifelst du, daß 1*0 = 2*0 = 8*0 = 99*0 = 0 ist?
+
+
+Das ist aber ziemlich willkürlich, oder? Wer sagt dir denn, daß es nicht
+doch weiter geht? Nur weil zwei Linien aufeinanderfallen, sind es nicht
+unbedingt die selben Linien. (In diesem Fall die selben Abschnitte einer
+Linie.)
+
+schreiben
+
+
+Nein. Wieso auch?
+Du hast eine schöne Spirale, die du nach innen und aussen unendlich
+fortsetzen kannst.
+
+"Ende"
+
+Soll heissen?
+
+und nein ... 1/3 ist genauer, weil abgeschlossen.
+
+0,Stadtreinigung ist doch auch geschlossen. Ich konnte sie hier hinschreiben, ohne
+Speicherprobleme zu kriegen.
+
+--
+Wolfram Tellinghusen (wkfce414@d-drnugq.kg)
+-----------------------------------------------------------
+A Member of the ---> DORA BEN LINDHOLZ <--- Fanclub Germany
+      since      http://ycq.qgyx.rs/qmk-wod      1/99
+-----------------------------------------------------------

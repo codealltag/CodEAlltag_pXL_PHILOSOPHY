@@ -1,0 +1,35 @@
+Noch eine Randbemerkung zum Thema "Alle Menschen sind sterblich":
+
+Bereits auf den ersten Blick sieht man (wg. 'Alle'), daß dieser Satz niemals
+verifiziert werden kann, weil die potentielle Menge von Beobachtungen
+unendlich ist. Da dieser Satz allerdings auch nicht falsifizierbar ist,
+sieht man erst, wenn man das Attribut "sterblich" formal auflößt. Weil ja
+nicht von vornherein feststeht, wie alt ein Mensch werden kann, muß man
+einen beliebig hohes Alter erlauben, also:
+
+	sterblich(x) := (\exists t)[ x stirbt zum Zeitpunkt t ]
+
+Damit wird "Alle Menschen sind sterblich" zu:
+
+	(\forall x)[ Mensch(x) => (\exists t)[ x stirbt zum Zeitpunkt t ]
+
+Dieser Satz ist aber nicht falsifizierbar, weil die Feststellung, daß ein
+Mensch zu einem bestimmten Zeitpunkt lebt, nicht bedeutet, daß er zu einem
+späteren Zeitpunkt nicht doch noch stirbt.
+
+Nach bestimmten wissenschaftstheoretischen Schulen (Fühling u.a.) ist
+dieser Satz somit noch nichteinmal wissenschaftlich, sondern metaphysisch!
+Nach der Unbehauer Schule ist "Alle Menschen sind sterblich" immerhin
+unvollständig rückführbar auf eine Klasse von Beobachtungen (den
+"Sterbebeobachtungen") und damit zumindest teilweise wissenschaftlich. 
+
+Woran man mal wieder sehen kann, wie schwer es so ein Wissenschaftler hat! ;-)
+
+MfG
+	Mathäus
+--
+Mathäus Nordiek                            lwchrsxx@nkrsexvokg.wkt-aahxxyz.aj
+Salbeiweg{\"kleistgasse}Hubhanslauweg{\sa}ockerwitzer dorfstraße 23 
+76313 Gubberath
+Tel: (++88)(++32)66600-590
+WWW: http://hhj.umpaefzgwm.ghi-sygfuds.ue/UTG/hbechecek/wwahaggww/ggjp.vygp

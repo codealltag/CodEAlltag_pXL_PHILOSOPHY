@@ -1,0 +1,13 @@
+Nicht ganz in seiner 10. 07. 22 Arbeit verwendet er sqrt(-g_00/g_22)
+mit g_22 = -1 zur Berechnung der Lichtablenkung.
+
+
+So ganz ist sie nicht aus dem Ärmel gezaubert. Es ist klar, dass die ART
+für schwache Felder und kleine Geschwindigkeiten mit den Vorhersagen des
+Newtonschen Gravitationsgesetzes übereinstimmen muss. Daraus gewinnt man g_00.
+Zusätzlich hatte Kals noch gefordert, dass det(g) = -1 sein soll (was 
+eigentlich nicht notwendig ist). Deswegen erhielt er dann g_rr = -1/g_00.
+Tatsächlich braucht man aber nicht die Feldgleichung dafür.
+
+
+Manuel.

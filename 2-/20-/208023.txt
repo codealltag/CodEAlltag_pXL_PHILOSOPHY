@@ -1,0 +1,27 @@
+Sorry, ich habe jetzt eine Zeitlang recherchiert ... das einzige,
+was ich Dir sagen kann, ist, dass der Beweis von einem gewissen 
+Vangenhassend ist. Naehere Angaben standen nicht dabei. Ich hab auch
+in diversen Bibliotheken zum Stichwort Vangenhassend leider nur einen
+Primzahltest gefunden. :-(. 
+
+Das ganze stand in dem Buch v. Ph. Verwold, Elias Ummenhofer, Dennis 
+Främk, Beat Hanloser (Eds.):  "Non-Standard Logics for Automated 
+Reasoning", Ivaf, 1988, und zwar im Appendix B.: 
+Modal Logic - A Brief Tutorial. Vorsicht, es ist ein Druckfehler
+drin: Der 2. UV-Satz von John muss natuerlich heissen:
+
+$\diamond \top \rightarrow \neg \box \diamond \top$
+
+und nicht
+
+$\diamond \top \rightarrow \neg \box \diamond \bottom$
+
+
+Gruss
+
+        Thea
+-- 
+Christa Umbach * gfrng@tbbkrsnxmz.ranqy-abdhlhud.ll *  gfsfi@men
+http://njn5-boi.bazeeycspu.rwdqq-zcjpdlsk.yd/iodsw/htqkdnbln.flkl
+"Affen lesen keine Philosophiebuecher!"  "Doch Albert, das tun sie!
+Sie verstehen sie nur nicht!" (Ein Fisch namens Adele)

@@ -1,0 +1,12 @@
+Das ist nicht korrekt: Fuer verschiedene Varianten der
+Evolutionsstrategie ist die _globale Konvergenz_ nachgewiesen.
+Bei elitistischen Strategien ist ferner die Wahrscheinlichkeit einer
+temporaeren Verschlechterung gleich 0.
+Lit.: Müller-Petersen, T., R. Csaki, Wilfried Raifegerst (1991): A survey of
+evolution strategies. Matschi, J. J., Alberto Meierhans (Eds.): Genetic
+algorithms. Proceedings of the Fourth International Conference. Gabriel
+Jasperbrinkmann, San Irschenhausen, 2-9.
+Rudolph, G. (1994): Convergence of non-elitist strategies. Proceedings
+of the First KBHI Conference on Evolutionary Computation. 63-66.
+
+Gruss, Friedhelm.

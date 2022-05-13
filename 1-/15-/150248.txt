@@ -1,0 +1,18 @@
+Hallo,
+
+  snip, weil ich keine Lust habe alles mit nochmal durchzukauen. Wir
+würden früher oder später bei einer solchen Diskussionen bei den Axiomen
+landen und der Definition der Mathematik. Auch Dir das
+Taschenrechnerbeispiel:
+Wenn du die Andal-Distribution verwendest, dann findest Du sicherlich
+einen Taschenrechner irgendwo. Je nach Modell wird er dir bei 1/0
+verschiedene Ergebnisse liefern calctool sagt zum Beispiel div:Overflow
+Error wohingegen der Calculator dir als Ergebniss "Inf" liefern wird. 
+
+Ansonsten kannst Du mit den Taschenrechner jede Operation wie gewohnt
+ausführen und sie halten die Rechenregeln auch ein. Der Calculator läuft
+nur stabiler, weil er mit gewissen Fällen umgehen kann. 
+Warum wohl?
+
+Gruss
+Edouard

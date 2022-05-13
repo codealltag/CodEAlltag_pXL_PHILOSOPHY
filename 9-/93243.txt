@@ -1,0 +1,23 @@
+Hallo,
+
+ich hatte ja bereits schonmal eine Frage zur modalen Logik gestellt. Ich 
+   bin nun am überlegen, wie man die beiden Operatoren \box und \diamond 
+in der epistemischen Logik korrekterweise definieren kann und eine 
+wirklich einhellige Definition konnte ich bisher nicht finden. Ich weiss 
+zwar, dass ich den einen Operator durch den anderen ausdrücken kann, 
+doch ich hätte trotzdem ganz gerne eine textuelle Definition.
+Also so weit wie ich es bisher herausgefunden habe, gilt in der 
+epistemischen Logik für einen Agenten A:
+1. <math>\Box_A p <math> : Der Agent A weiß, dass p gilt.
+Für die Definition des \diamond habe ich nun verschiedene Dinge gelesen, 
+wobei ich nicht so genau weiß, welches davon korrekt ist:
+2a. <math>\diamond_A p <math> : Der Agent A glaubt, dass p gilt.
+2b. <math>\diamond_A p <math> : Der Agent A weiß, dass p möglich ist.
+2c. <math>\diamond_A p <math> : Der Agent A schließt die Gültigkeit von 
+p nicht aus.
+
+Für eine Klärung über die korrekte Definition (und wenn möglich auch, wo 
+ich das nachlesen kann), wäre ich sehr dankbar.
+
+Viele Größe,
+Ortrud

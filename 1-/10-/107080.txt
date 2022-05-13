@@ -1,0 +1,30 @@
+Die RNA muss da aber erstmal hinfahren, und auf der untersten Schicht
+ist das Protokoll lokal (ebenso wie die Bewegungen aller anderen
+Moleküle oder Felder in der Zelle).  Dass wir uns für den Inhalt der
+*NA besonders interessieren, für ihren Transportmechanismus selbst
+aber weniger, sorgt dafür, dass wir auf den höheren
+Interpretationsschichten nichtlokale effektive Theorien benutzen.
+
+Meine Behauptung besagt daher eigentlich nichts wilderes oder
+nichtbanaleres als "jede Datenübertragung über Funk oder Kupferkabel
+ist analog" (was auch fast jeder für eine Schnapsidee hält, da die
+Zahl der Leute, die sich wirklich für Schicht 1 (so Zeugs wie V.90)
+interessieren, sehr gering ist).
+
+Inzwischen ist mir allerdings eingefallen, dass man die Schachregeln
+wahrscheinlich isomorph so umformulieren kann, dass sie lokal in Raum
+und Zeit werden (für Rochade müsste man unsichtbare Hilfsfiguren
+einbauen - es wird dann richtig haarig), indem man jeden Zug in 7
+Minige zerlegt und eine Art zellulären Automaten angibt, nachdem
+z.B. ein Turm nur in Richtung des vorangegangenen Minizugs
+weiterrutschen oder stehenbleiben (dann für den Rest des Gesamtzuges)
+darf.  Ist aber eh unrealistisch, da Schach diskret ist.
+
+In der richtigen Welt geht es nicht, da die Taylorentwicklung einer
+Differenzengleichung Ableitungen unbegrenzter Ordnung erfordern würde,
+weshalb Differenzengleichungen verboten sind.
+
+Jérôme
+-- 
+GS d->? s:++>+++ a+ C++++$ UL+++$ UH+ P++ L++ E+++ W- N++ o-- K- w--- !O M- V-
+PS+>++ PE Y+>++ PGP+ !t !5 !X !R !tv  b+++ DI+++ D?  G+ e++++ h+ r? y?

@@ -1,0 +1,27 @@
+Es geht hier aber weder um das eine, noch um das andere, sondern um eine 
+Implikation.
+
+p (Prämisse 1)
+p → q (Prämisse 2, Implikation)
+———
+q (Konklusion)
+
+Prämisse 1: Es regnet.
+Prämisse 2: Wenn es regnet, dann wird die Straße nass.
+Konklusion: Die Straße wird nass.
+
+Die Konklusion kann wahr sein oder auch falsch. Die Logik untersucht, 
+was aus der Wahrheit oder Falschheit einer oder beider Prämissen für die 
+Konklusion folgt.
+
+
+Das scheint nur so. Diese spielen hier gar keine Rolle.
+
+
+Mit freundlichen Grüßen
+
+Werner Johannes
+
+
+-- 
+http://ept.rkfh.xg

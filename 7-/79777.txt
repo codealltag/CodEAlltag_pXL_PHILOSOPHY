@@ -1,0 +1,28 @@
+Lies die Beiträge zum binären Baum nach. Dort findest Du den
+Widerspruch, daß niemals Pfade, also Pfadbündel mit einzelnen Pfaden
+existieren (der Baum also nur potentiell unendlich ist), wogegen in
+Johanßons Liste die Diagonalzahl als (Pfadbündel mit einem einzigen)
+Pfad vollständig existiert.
+
+Betrachte zum Bespiel die Tatsache, daß jeder Abschnitt gerader
+positiver Zahlen solche enthält, die größer als die Kardinalzahl des
+Abschnittes sind. Die Vereinigung aller Abschnitte ergibt die Menge der
+geraden positiven Zahlen. Deren Kardinalzahl soll aber größer sein
+als jede positive gerade Zahl.
+
+Oder betrachte die Tatsache, daß die folgende Josten Liste ihre
+Diagonalzahl enthalten muß, wenn diese aktual existiert:
+
+0,1
+0,2
+0,11
+0,22
+0,111
+0,222
+.=2E.
+
+Zur Bildung der Diagonalzahl werden 0 oder 1 durch 2 ersetzt.
+
+Es wimmelt nur so von Widersprüchen.
+
+Gruß, STEFFEN

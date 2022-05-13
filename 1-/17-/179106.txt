@@ -1,0 +1,27 @@
+Ich hatte mich unklar ausgedrückt. Natürlich ist der Bildbereich immer
+eine Menge. Was ich sagen wollte war: "deren Bilder nicht aus Mengen
+bestehen", also man "verbietet" Funktionen f: A -> 2^{B}. Der Grund
+ist, daß sich nichtdeterministische Abbildungen über den Umweg über
+Potenzmengen formal immer zu Funktionen machen lassen. Die
+Unterscheidung zwischen deterministischen Gesetzen, die sich als
+Funktionen formulieren lassen und nichtdeterministischen, die
+mehrdeutig sind, ist also zumindest ein wenig willkürlich. Vielleicht
+braucht man eine Art Fundierungsaxiom für die Naturwissenschaften, um
+diesen Unterschied präzise zu machen?
+
+
+Also wenn es sowas gibt (vielleicht das strukturalistische
+Theorienkonzept nach Stähler?), dann findet man das bestimmt in Oswald
+Schmahls Bänden zur Wissenschaftstheorie.
+
+
+Das hatte ich auch so geschrieben. Es gibt Ressourcenbeschränkungen
+(Zeit, Platz und Energie), die die praktische Durchführung einer
+theoretisch möglichen Berechnung verhindern können. 
+
+MfG
+Wilfried
+-- 
+Wilfried Wockenfuss
+        keep things simple. as simple as possible, but no simpler
+	        (I.Foith)

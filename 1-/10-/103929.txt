@@ -1,0 +1,46 @@
+Ok, ich bin von fehlerhaften Voraussetzungen ausgegangen. J e t z t ist
+mir manches klarer.
+
+
+So natürlich:
+
+
+	1.  | ~(P -> P)     A
+	2.  | ~~(P & ~P)    1 Def. ->
+	3.  | P & ~P        2 DN
+	4.  ~~(P -> P)      1,3 RAA
+	5.  P -> P          4 DN
+
+
+Und CP kann s o gezeigt werden:
+
+
+	Angenommen es gibt einen Beweis der Form
+
+		[A]    (Annahme)
+	         :
+	         B
+
+	Dann können wir auch folgenden Beweis hinschrieben:
+
+	1.  | ~(A -> B)     A
+	2.  | ~~(A & ~B)    1 Def. ->
+	3.  | A & ~B        2 DN
+	4.  | A             3 &E
+              :            } wird als gegeben voraus-
+	n.  | B              gesetzt (siehe oben)
+       n+1. | ~B            3 &E
+       n+2. | B & ~B        n,n+1 &I
+       n+3. ~~(A -> B)      1,n+2 RAA
+       n+4. A -> B          n+3 DN
+
+	Also:  [A]
+	        :
+	        B
+	      ------
+	      A -> B
+
+	wobei A "gelöscht" wird.
+
+
+A.

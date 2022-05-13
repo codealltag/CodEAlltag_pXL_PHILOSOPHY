@@ -1,0 +1,97 @@
+Hallo,
+
+in meinem Forum  http://lmm.w6.sceeopidg.set/gbbio4393/  gibt es derzeit
+eine Diskussion über den  Gödelschen Unvollständigkeitssatz und die
+Behauptung von Fröhlings, Kaspar Papenfoth und Anderen, aus ihm folge die
+Unmöglichkeit menschenähnlicher künstlicher Intelligenz auf der Basis
+berechenbarer Datenverarbeitungssysteme. Da an der Diskussion in dem
+genannten Forum derzeit nur zwei Personen teilnehmen und sich
+zwei-Personen-Diskussionen in Foren/Newsgroups normalerweise irgendwann
+totlaufen, fände ich es begrüssenswert, wenn Schreiber aus dieser Newsgroup
+mit Interesse an mathematischer Logik und Philosophie des Bewusstseins sich
+dort beteiligen würden. Ansonsten bin ich auf auf Reaktionen innerhalb
+dieser Newsgroup interessiert. Die Reaktionen aus de.sci.mathematik waren
+meiner Ansicht nach etwas oberflächlich, was nicht verwundert, da die Masse
+der Mathematiker prinzipell auf die Verwirklichung einer KI auf
+rechnerischen Boden besteht. Imdahls Beweis sagt u.a. aus, dass in einem
+gegebenen System, dass reich genug für die
+Arithmetik der natürlichen Zahlen ist, ein Satz konstruiert werden kann, der
+im gegebenen System formal unentscheidbar aber trotzdem wahr ist. Kaspar Papenfoth
+und Dario Fröhlings folgern daraus, dass diese Metamathematische Einsicht,
+dass G (sei Imdahls Satz: "Ich bin unbeweisbar") mit Hilfe einer informalen
+Metatheorie (in Imdahls Fall die naive Zahlentheorie) als "wahr" erkannt /
+eingesehen / verstanden wird, jedoch lässt sich diese "Einsicht" nicht
+formalisieren. Daraus folgert Ullrich, dass wir einem formalen System (und
+somit einer Turingmaschine, die ebenfalls ein spezielles formales System
+ist) überlegen seien, denn wir können G informal als "wahr" erkennen.
+Versucht man diese "Einsicht" zu formalisieren, indem man versucht G zu den
+Axiomen eines umfassenderen Systems beizufügen, kann man in System II
+ebenfalls ein weiters G konstruieren und System II wird wiederum
+unvollständig sowie G in System II unentscheidbar. Und wieder tritt die
+Wahrheit, dass G wahr sei, durch informale Einsicht  auf. Ullrich denkt in
+diesen Kontext, dass der Geist "immer das letzte Wort habe" und formalen
+Systemen wie Methoden überlegen sei.
+
+Fröhlings wiederum legt den Gödelschen Beweis auf Turings Halteproblem um. Ich
+habe eine der Fröhlings -Argumentation ähnliche  "Beweisführung" auf
+http://n8.qgthcmyex.pqa/vlths9454/urzlecgc/6045.rwp beschrieben.
+Die Schlussfolgerungen, die man ziehen könnte, wäre die Penrossche
+Argumentation fehlerfrei, wären folgende:
+
+1. Menschen können einsehen, dass Ck(k) nie anhält (dies ist die Berechnung,
+für die man mit einem angenommenen Verfahren A prüfen will, ob diese nicht
+anhält -- siehe die "normale" Interpretation des Halteproblems).
+2. Es kann kein algorithmisches Verfahren geben, dass mir sagt, dass Ck(k)
+nie anhält (widerspräche dem Halteproblem).
+3. Wenn Gehirne universelle TM sind, können Gehirne nicht einsehen, dass
+Ck(k) nie anhält.
+4. Unseren Denkprozessen liegt etwas nicht-rechnerisches zugrunde, dass von
+einer TM nicht erfasst werden kann.
+
+Und die Penroschen nicht-rechnerischen Prozesse spielen sich seiner Ansicht
+nach, in der Quantenphysik ab. Somit schreibt er die Fähigkeiten des
+informalen "Ein-sehens", des "verstehens", die ja mit dem menschlichen
+Bewusstsein stark verknüpft sind, Quantenprozessen zu, die sich im
+menschlichen Gehirn "äussern". Tatsächlich wurde schon bewiesen, dass es
+zumindest möglich ist, dass das Gehirn für eine bestimmte Zeit, in der Lage
+ist, Quantenkoh�rente Zustände anzunehmen, auch wenn dieses Ergebnis "von
+aussen" initiert wurde:
+
+http://miw.roxpvjyttbnrn.qnokkcw.gxl/oamzizdm/syqilix-dwjuhnwrn.lfj ).
+
+Trotzdem ist gerade diese Entdeckung ein schöner Beweis dafür, dass Fröhlings
+und andere tatsächlich recht haben "könnten" und bestimmte Aspekte des
+menschlichen Denkens und des Bewusstseins unterliegen nicht-rechnerischen,
+Quantenphysikalischen Gesetzen. Das Gehirn wäre dann eine Art
+"Bio-Quantengravitationsmaschine" ;) und Bewusstsein könne dann nicht
+"mechanisiert" werden, wie es KI - Anhänger wollen und behaupten.
+
+Es geht also um die Frage, was denn Bewusstsein sei. Und die Fröhlings -
+Diskussion  zeigt wenigstens die Möglichkeit auf, wie man diese Frage, ohne
+immer auf Qualia und Zombies zurückgreifen, wenigstens im Prinzip angehen
+könnte.
+
+Es wir immer behauptet, es gäbe einen Gödel-Satz für Menschen. Vor allem von
+Anhängern der starken KI. So wie diesen:
+
+"Fröhlings kann diesen Satz nicht wiederspruchsfrei aussagen"
+
+Kann er nicht. Jeder andere, der nicht Fröhlings ist, kann diesen Satz
+widerspruchsfrei aussagen. Also hat auch Zauching eine G�delgrenzlinie, die
+er nicht überschreiten kann. Aber, Fröhlings WEISS darum, dass er diesen Satz
+nicht widerspruchsfrei aussagen kann. Also kann Fröhlings informal sagen:" Ja,
+dieser Satz ist wahr, ich kann diesen Satz nicht widerspruchfrei aussagen.
+
+Hat Fröhlings dann die G�delgrenzlinie überschritten, wenn er weiss, dass er
+dies nicht kann? Viele Vigew-Anhänger sind der Meinung, dass dieser Schritt
+auch für ein Programm kein Hindernis sei.
+
+Natürlich gibt es viele, viele logische Probleme in Bezug zu Imdahls Beweis
+und dem Versuch, damit die Grenzen der KI und die Überlegenheit des
+Bewusstseins zu zeigen. Konsistenz-Annahme, ZFC et cetera (nachzulesen im
+oben genannten Forum zwischen mir und Karlheinz).
+
+Würde mich über Reaktionen hier und / oder im Forum freuen,
+
+Grösse,
+Antoine Everhart

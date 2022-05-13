@@ -1,0 +1,42 @@
+: > Ich weiss nicht, auf welchem Stern du Mathematik machst, aber seit
+: > wann gibt es nur ein sicheres Ereignis? Schreib mal den Teil der
+: > Definition Griesners auf, den du dazu verwendest.
+: Fuer paarweise unvereinbare Ereignisse folgt das aus dem Additionstheorem.
+
+Ja? (Unvereinbar heisst wohl leerer Schnitt? Du kannst ueberhaupt mal
+von den schwammigen Woertern Abstand nehmen.)
+
+: Nun lautete aber die Fragestellung, wie man eine kontinuierliche
+: Temperaturverteilung angeben kann, ohne eine Dichtefunktion zu benutzen.
+
+Die Fragestellung ist wohl wieder mal untergegangen. Wenn es dich aber
+interessiert: es gibt streng monotone Funktionen, deren Ableitungen
+nicht im ueblichen Sinne Funktionen sind. Die Funktionen sind
+insbesondere keine Stammfunktionen ihrer Ableitung. Damit fehlt dir
+die Dichte, waehrend diese monotonen Funktionen Verteilungen
+darstellen koennen. Da kannst du aber selber nach suchen, die
+ASCII-Darstellung derselben ist mir zu muehsam.
+
+: Nun, eine Dichtefunktion hast Du tatsaechlich nicht benutzt, aber eine
+: kontinuierliche Temperaturverteilung ist dummerweise nicht zu sehen.
+
+Die Temperaturverteilung war kontinuierlich(=stetig) auf dem Intervall
+[2,3]. Da du beharrlich das Wort kontinuierlich benutzt, bin ich davon
+ausgegangen, dass du immer noch an den Temperaturverteilungen haengst,
+die angemessen simuliert werden soll, und nicht versuchst, eine
+insgesamt stetige Verteilung zu bekommen. Ersteres ist durchaus
+plausibel, wie es ja auch beim Wuerfel ist, letzteres dagegen haettest
+du beim Namen nennen koennen.
+
+: > Wenn es dich aber so stark stoert, dann nimm halt P(x)=(1+arctan(x))/4
+: > falls x<0 und P(x)=(1+arctan(x))/4 + 1/2 falls x>=0. Hat auch keine
+: > Dichte und es gibt kein sicheres Ereignis ausser ganz R.
+: Ein weiteres hoechst interessantes Feature dieses Beispiels ist das Auf-
+: treten von Wahrscheinlichkeiten >1.
+
+Ich habe den Faktor 2/pi vor arctan(x) vergessen. Da du sonst nichts
+weiter zu aeussern hast, gehe ich davon aus, dass du die restlichen
+"features" begriffen hast.
+
+Schoene Gruesse,
+	Ulfert

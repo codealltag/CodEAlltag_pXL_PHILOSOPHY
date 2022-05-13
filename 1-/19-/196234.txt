@@ -1,0 +1,25 @@
+Hallo Darius,
+
+CW> Natürlich treten in einem Rechner Verluste bei der
+CW> Informations-Übertragung auf. So werden bei modernen Chips nur 10E12
+CW> Operationen garantiert, die wirklich laufen, ohne einen Fehler zu haben.
+CW> Die (10E10)+1-te Operation kann sehr wohl einen Fehler haben, der aus
+CW> einer fehlerhaften Informationsübertragung resultiert.
+
+Das ist Haarspalterei. Sollten zwei Durchläufe auf einem Rechner mit  
+identischen Startparametern tatsächlich unterschiedliche Ergebnisse  
+liefern, könnte man doch nachvollziehen, ob dieser Effekt auf einem  
+Rechenfehler beruht, oder auf die verwendeten Gesetze zurückzuführen ist.  
+Zur Not verwendet man gleich ein Dutzend Rechner parallel. Und wenn das  
+noch immer nicht reicht, rechnet man halt mit Papier und Bleistift jede  
+einzelne Operation nach.
+
+CW> Nein, es geht hier um das Problem, daß jede elektronische Schaltung nur
+CW> für den "Normalfall" layoutet wurde. Wenn einige Bedingungen
+CW> zusammenkommen, die nicht vorhergesehen waren, dann verhält sich das
+CW> ganze Ding unvorhersehbar.
+
+Was aber mit der prinzipiellen Vorausberechenbarkeit nichts mehr zu tun  
+hat.
+
+Viele Größe, Roberto

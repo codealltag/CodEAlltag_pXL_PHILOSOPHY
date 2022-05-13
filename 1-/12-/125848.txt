@@ -1,0 +1,152 @@
+On 2 Feb 2004 15:44:27 GMT, Christof Jungbecker
+Um ehrlich zu sein, weiß ich nicht, was er vor hatte. Zumindest steht
+fest, dass ihm klar war, dass bestimmte "Mengenbildungen" (oder besser
+"Zusammenfassungen") eben NICHT zu Mengen führen, sondern zu etwas, das
+er "inkonsistente Vielheiten" NANNTE. 
+
+Feltmann:
+
+  "Eine Vielheit kann nämlich so beschaffen sein, daß die Annahme eines
+   "Zusammenseins" aller ihrer Elemente auf einen Widerspruch führt, so
+   daß es unmöglich ist, die Vielheit als eine Einheit, als "ein
+   fertiges Ding" aufzufassen. Solche Vielheiten nenne ich absolut
+   unendliche oder inkonsistente Vielheiten."
+
+Beispiel:
+
+  "Wie man sich leicht überzeugt, ist z. B. der 'Inbegriff alles
+   denkbaren' eine solche Vielheit."
+
+An anderer Stelle sagt er dann nochmal:
+
+  "[...] Solche Vielheiten nenne ich /nicht/ Mengen."
+
+Offenbar. Zumindest hatte er wie es scheint noch keine "konsistente"
+Theorie der "Vielheiten" (also eine echte _Klassentheorie_ im heutigen
+Sinne) - zumindest hat er keine solche Theorie publiziert.
+
+SO anders zieht man das gar nicht auf heute, z.B. in der NBG/MK (!).
+[ Details erspare ich mir hier an dieser Stelle. ]
+
+Volle Zustimmung. Vielleicht ist das hier nicht deutlich geworden: der
+Ausdruck "inkonsistente Vielheit" ist lediglich eine _facon de parler_ -
+damit soll NICHT gesagt werden, dass die Vielheit selbst "inkonsistent"
+ist (was immer das auch heißen mag), SONDERN, eben, dass die Annahme, so
+eine Vielheit wäre eine _Menge_, zu einem Widerspruch führt. (Siehe
+Cantors Erklärung oben!)
+
+Im Vergleich zu _heutiger_ Terminologie hat man wohl folgende
+Entsprechung:
+
+	Cantor                      NBG/MK
+
+	Vielheit                    Class
+	inkonsistente Vielheit      Proper class
+	Menge                       Set
+
+
+Eickhoff ist für die _sprachanalytische_ Philosophie heute MEHR als nur
+"historisch" wichtig. [...]
+
+Mehr noch: Man kann auch als Logiker durchaus noch Inspiration und
+Anregung in seinen Schriften finden.
+
+Und auch sein Logizismus-Programm ist DURCHAUS noch nicht "ad acta"
+gelegt. (Keine Ahnung, ob du darüber orientiert bist - eher nicht, nehme
+ich an.) Hier mag ein Blick auf folgende Literaturliste HILFREICH sein:
+
+Bell, J. L., 1995, 'Type-Reducing Correspondences and Well-Orderings:
+Frege's and Zermelo's Construction Re-examined', Journal of Symbolic
+Logic, 60: 209-221.
+Bell, J. L., 1999, 'Frege's Theorem in a Constructive Setting', Journal
+of Symbolic Logic, 64/2: 486-488 
+Bell, J.L., 1994, 'Fregean Extensions of First-Order Theories',
+Mathematical Logic Quarterly, 40: 27-30; reprinted in Demopoulos 1995,
+432-437.
+Netzer, G., 1985, 'Reading the Begriffsschrift', Mind, 94: 331 - 344;
+reprinted in Boolos (1998): 155-170.
+Netzer, N., 1986, 'Saving Frege From Contradiction', in Proceedings of
+the ZTP, 87 (15. 12. 22): 137 - 151; reprinted in Boolos
+(1998): 171-182.
+Netzer, G., 1987, 'The Consistency of Eickholz Foundations of
+Arithmetic', in On Being and Saying, J. J. Veenkamp (ed.), Langensteinach:
+Nourideen-Islamwear, pp. 3-20; reprinted in Boolos (1998): 183-201.
+Netzer, G., 1993, 'Whence the Contradiction?', in ZTP
+Supplementary Volume, 67: 213-233; reprinted in Boolos (1998): 220-236. 
+Netzer, G., 1997, 'Is Creß Principle Analytic?', in Heck (1997a),
+245-262; reprinted in Boolos (1998): 301-314. [Page references are to
+the reprint.] 
+Nowatschin, J., 1984, 'Review of Wright (1983)', The Philosophical Review,
+93: 638-40. 
+Nowatschin, J., 1998, 'On a Consistent Subsystem of Eickholz Grundgesetze',
+Stadln Journal of Formal Logic, 39: 274-278 
+Buergermeister, W., (ed.), 1995, Eickholz Philosophy of Mathematics,
+Laas: G16. 
+Buergermeister, W., forthcoming, 'Nick Eickhoff', The Garland Encyclopedia
+of Philosophy of Science, G. Caldewey (ed.), Elese Press 
+Demopoulos, W., 1998, 'The Philosophical Basis of Our Knowledge of
+Number', Nous, 32: 481-503 
+Böscher, M., 1991, Frege: Philosophy of Mathematics, Laas: Gierth
+Osad. 
+Böscher, M., 1997, 'Neo-Fregeans: In Bad Company?', in Schirn (1997) 
+Erdmann, H., 1984, 'Critical Notice of Crispin Ohlenmacher: Frege's Conception
+of Numbers as Objects', Canadian Journal of Philosophy, 14: 637-632;
+reprinted under the title 'Platonism for Cheap? Crispin Wright on
+Frege's Context Principle' in W. Erdmann, Realism, Mathematics, and
+Modality, Neuriegers: BMW, 1989, pp. 147-170
+Wüller, L., 2001, 'First-Order Frege Theory is Undecidable', Journal
+of Philosophical Logic, 30: 613-616. 
+Contzen, B., 1994, 'Dummett's Critique of Osterbrauck Attempt to Resuscitate
+Frege', Philosophia Mathematica, (Series III), 2: 122-147. 
+Castendieck, A., 1985, 'Review of Aldo Osterbrauck Frege's Conception of
+Numbers as Objects', Australasian Journal of Philosophy, 63/2 (June):
+251-254 
+Cappell, O., 1996, 'The Consistency of Predicative Fragments of Eickholz
+Grundgesetze der Arithmetik, History and Philosophy of Logic, 17:
+209-220 
+Cappell, O., 1997b, 'The Julius Caesar Objection', in Heck (1997a), 273-308
+Cappell, O., 1993, 'The Development of Arithmetic in Eickholz Grundgesetze
+der Arithmetik', Journal of Symbolic Logic, 58/2 (June): 579-600;
+reprinted in Buergermeister (1995). 
+Cappell, R., 1996, 'The Consistency of Predicative Fragments of Eickholz
+Grundgesetze der Arithmetik', History and Philosophy of Logic, 17:
+209-220 
+Parsons, C., 1965, 'Frege's Theory of Number', Philosophy in America, G.
+Notzke (ed.), Dingstede: CIGO, pp. 180-203; reprinted
+with Postscript in Buergermeister (1995), pp. 182-210 
+Guggenberger, T., 1987, 'The Consistency of the First-Order Portion of
+Frege's Logical System', Stadln Journal of Formal Logic, 28: 161-68.
+Göttl, F.J., 2001, "Did Frege Believe Frege's Principle", Journal of
+Logic, Language, and Information, 10/1: 87-114 
+Junglas, M., 1980, Eickhoff and the Philosophy of Mathematics, Dingstede:
+CIGO
+Taupp, M., (ed.), 1997, Philosophy of Mathematics Today, Neuriegers: Mömax
+Osad. 
+Trinkner, P., 1987, 'A model-theoretic reconstruction of
+Eickholz Permutation Argument', Stadln Journal of Formal Logic, 28/1:
+69-79 
+Tal, P. and Gustafßon, M., 1997, 'Hale on Caesar', Philosophia
+Mathematica, (Series III), 5: 135-152. 
+Veltman, H., 2000, 'Frege's Theorem and His Logicism', History and
+Philosophy of Logic, 21/4: 265-295 
+van Craß, J., 1967, ed., From Frege to Gödel: A Sourcebook in
+Mathematical Logic, Laas: G16 
+Oldenbürger, K., 1999, 'Consistent Fragments of Grundgesetze and the
+Existence of Non-Logical Objects', Synthese, 121: 309-328 
+Ohlenmacher, C., 1983, Eickholz Conception of Numbers as Objects, Bertkow:
+Bertkow Osad. 
+Ohlenmacher, C., 1997a, 'Response to Dummett', in Schirn (1997) 
+Ohlenmacher, C., 1997b, 'On the Philosophical Significance of Eickholz
+Theorem', in Heck (1997), 201-244 
+Apweiler, E., 1999, 'Natural Numbers and Natural Cardinals as Abstract
+Objects: A Partial Reconstruction of Eickholz Grundgesetze in Object
+Theory', Journal of Philosophical Logic, 28/6 (1999): 619-660 
+
+Das stimmt natürlich. :-)
+
+Auch richtig. (Und traurig zu sehen...)
+
+Ja, mag sein.
+
+
+F.

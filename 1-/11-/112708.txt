@@ -1,0 +1,81 @@
+"Clemens Stuckenschneider" <Plfau_Ejwgdk@xawvwej.rsn>
+
+
+Was Rasterung anbetrifft: Ja.
+
+Kurven sind *immer* Projektionen.
+Unfug sind Kurven genau dann, wenn der Realitätsbezug fehlt.
+
+
+Möglich, dass das stimmt.
+Deine Sprache ist da unexakt.
+
+In der Realität sind das keinesfalls Treppen.
+Und der Begriff Raster ist auch falsch.
+
+In der Physik nennt man dies
+- Rauschen: Rausch-Breite, Rausch-Abstand, weisses Rauschen ...
+- Signifikanz, Prozentuale Abweichung
+- Auflösung, kleinste mögliche Anzeige-Differenz
+usw.
+
+Je nach dem, was für Zahlenmaterial du hast,
+sind die dem angepassten verwendete Begriffe.
+
+Es gibt hier auch Definitionen.
+Der Rauschabstand wird meistens in dB (Dezibel) angegeben.
+
+
+Das ist verschieden.
+
+Der Geltungsbereich von realen, korrekten Zahlen
+beträgt so von 2 bis 10 Dekaden.
+Selten weniger, noch seltener mehr.
+
+Tischhöhe:   75 cm
+Genauer ist meistens Unsinn.
+
+Temperatur in Unterkulm:  17 Grad.
+Genauer ist Unsinn. Denn das ist
+ein gerundeter Durchschnittswert.
+
+Wenn du nun eine in einer Kurve die Temperaturwerte
+von Unterkulm über einen Monat erstellst, so ist diese Kurve
+als Mittelwert bestenfalls auf ein Grad signifikant.
+
+Also, die Zeit - Temperaturkurve ist so auf
+ca. +/-1 Grad Absolutwert signifikant.
+
+-----------------------------------------
+
+Nun nimm mal so Kreise mit Tangenten,
+bei denen du so Unendlich erkennst.
+
+Bastle mal so etwas als Holz und spanne die Tangenten mit Fäden.
+Und nun sieh zu, wo dein "Unendlich" resp. "Null" sein Ende findet.
+
+Bei Null ist das bei dir bei ca. 0.001 bis 0.0001 m
+
+Gebe das einem Feinmechaniker.
+der kommt auf 0.000001 m
+
+Aber dann ist Schluss.
+
+
+Gib da stets die Signifikanz an.
+Geltungsbereich, Auflösung, Rauschen .....
+Dann ist das Realistisch.
+
+Fehlt das, ist es Phantasterei.
+
+Aber jede Zahl mit mehr als 10 Dekaden
+ist physikalischer Unsinn.
+
+Als Spielzeug-Mathe sind mehr als 10 Stellen erlaubt.
+Wenn es als Spielzeug angeschrieben ist.
+
+Wird es aber als "Realität" propagiert, dann  ist es Betrug.
+
+
+mfg
+Gunter Jurack

@@ -1,0 +1,54 @@
+On 3 Nov 2006 08:33:40 -0800, "Ben Anlar"
+Meins auch nicht... ;-)
+
+Aber ich denke, dass ich Dir trotzdem ein wenig "unter die Arme
+greifen kann"; zumindest hoffe ich das. Let's see.
+
+Ok. Neben dem einfachen Gegenstandsbereich D (der Objekte) gibt es
+also noch Bereiche, die die n-stelligen Relationen und n-stelligen
+Funktionen enthalten.
+
+Dürfte klar sein. Ist halt einfach so.
+
+Klar.
+
+Fein, fein.
+
+Klar, oder? Im Prinzip nix anderes als eine "Verallgemeinerung" der
+Semantik der FOPL.
+
+Klar.
+
+Gut, gut.
+
+...intuitively.
+
+Diese letzte Aussage ist m. E. etwas "unglücklich". Eine Definition
+ist ja bekanntlich weder wahr noch falsch, und auch nicht gültig oder
+nicht gültig. :-(
+
+Also w a s will der Autor uns damit sagen? Offenbar, dass, wenn wir
+"x = y" so wie in der FOPL interpretieren, die gesamte Aussage
+"AxAy(x = y <-> AX(Xx -> Xy))" in der Second-Order Logic gültig ist.
+D. h. man k � n n t e das als Axiom formulieren. Was man aber in der
+Regel nicht tut, w e i l man stattdessen das "=" definitorisch ein-
+führt, eben mittels der Definition:
+
+		x = y :<-> AX(Xx -> Xy)
+
+Ja. Hinzu kommt noch, dass offenbar auch Phänomene der Mikrophysik in
+diese Richtung zu deuten scheinen.
+
+Laurence.
+
+Zweifelsohne. Allerdings hat er natürlich durch die Formale Logik +
+Modelltheorie ein sehr mächtiges Werkzeug zur Hand. (->Modallogik)
+
+
+A.
+
+
+--
+
+E-mail: 
+yvjdry<lu>simple<bindestrich>line<punkt>de

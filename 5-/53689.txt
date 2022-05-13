@@ -1,0 +1,50 @@
+Ich habe mal UML vor Jahren gelesen und bisschen rumgespielt und wenn du 
+das mit Codegenerierung  meinst (In UML das Problem erfassen und 
+hinterher daraus C++ oder Java-Code generieren), dann - nein nicht 
+wirklich. Sprich ich habe nichts gemacht, was in der Praxis auch nur den 
+Anspruch an Codegenerierung standhält. Schaue ich mir dein YML an, dann 
+halte ich das für ein Übersetzungsproblem und insofern dem nicht 
+unähnlich, was passiert, wenn du kompledo Sprachtools mit dem Satz aus 
+einer Sprache fütterst, dann durch alle Sprache jagst und schliesslich in 
+die Ausgangssprache von der letzten Sprache zurückübersetzt.
+
+Aus deiner Frage wird dann zum Beispiel:
+"Haben Sie schon einmal ein Problem, wie Sie den Code ein, oder 
+beschreiben die Bedeutung der offiziell?"
+
+Sprich hier ist die Codegenerierung, wechsel des Sprachcodes von einer 
+natürlichen Sprache in die anderen. Obwohl nun alle Bedeutungen der 
+einzelnen Worte in die andere Sprache bekannt sein müssen, damit eine 
+maschinelle Übersetzung möglich ist, langen die alleinigen 
+Wortbedeutungen nicht aus. 
+
+Ähnlich dein Problem der Beschreibung eines Problems in einer 
+Metasprache, welche dann in einer konkreten Maschinensprache umgesetzt 
+werden soll und das Konzept der Sprache, die die Sprache beschreiben 
+soll. Hierbei willst du eine Struktur in eine andere Struktur überführen. 
+Deine Beschreibung müsste also so perfekt sein, dass es ohne Problem 
+möglich sein muss aus der Sprache A) in die Sprache B) zu transferrieren 
+ohne die wesentlichen Bedeutungen zu verlieren. 
+
+Jeder menschliche Übersetzer, der zwei Sprachen perfekt beherrscht, 
+schafft das ohne Probleme. Er generiert also ohne Probleme einen Code in 
+den anderen Code. Dennoch schafft er es niemals eineindeutig. Im 
+Zweifelsfalle wird dann im Streitfall auf das Original zurückgegriffen. 
+
+So stelle ich mir Codegenerierung vor. Ob eine Funktion/Algorithmus das 
+macht, was in der Aufgabenbeschreibung drin steht wird im Zweifelsfalle 
+an der Aufgabenbeschreibung gemessen. Das Problem ist dann perfekt in die 
+Maschinensprache übersetzt, wenn es im Original hieß: {"Die Kasse 
+erstellt Rechnungen und druckt sie aus, die korrekt sind."}  
+und: 
+public class Kasse {
+     public static void main(String[] args) {
+         System.out.println("Rechnungen!");
+     }
+ }
+
+Rechnungen korrekt ausgedruckt wurde, die richtige Antwort auf das 
+Problem ist.
+
+Grüße,
+Vittorio

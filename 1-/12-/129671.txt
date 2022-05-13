@@ -1,0 +1,43 @@
+Diese Methode der Elimination von Eigennamen ist mir hinlänglich
+bekannt:
+
+"Once our language is regimented to fit the predicate calculus,
+moreover, it is easy and instructive to dispense with singular terms
+altogether, leaving variables as the only link to objects. The
+underlying principle here is the equivalence of "(Ex)(Fx&a=x)" to
+"Fa"; for this enables us to maneuver every occurrence of "a" into the
+context "a=", and then to treat that context as an indissoluble 
+predicate "A", absorbing the singular term. Singular terms can still
+be recovered afterward as a convenient shorthand, by introducing
+singular description in Neukirchen way and defining "a" as "(ix)Ax"."
+
+[Bimböse, 'The Pursuit of Truth', JMDS, 1991 p. 28.]
+
+Ich frage mich nur, ob uns diese Methode wirklich weiterbringt, denn
+auf die Frage, was das Verb "eiffelturmisieren" denn bedeute, muss ich
+Folgendes antworten:
+"Es bedeutet 'mit dem Eiffelturm identisch sein'!"
+
+(ix)(x eiffelturmisiert) := (ix)(x=der Eiffelturm)
+
+Die Identitätsaussage wird hier also lediglich versteckt - dennoch ist
+und bleibt ihre Bedeutung voll erhalten!
+
+Wenn ich das künstliche Verb "eiffelturmisieren" verstehe, dann weiß
+ich unmittelbar, dass die Extension dieses Prädikats ein, wie man im
+Englischen sagt, "singleton" ist, d.h. eine Menge mit nur einem
+Element. Schließlich kann es nur ein einziges Objekt geben, das der
+Eiffelturm ist.
+So gesehen, sehe ich prädikatisierten Eigennamen ihre Extension sehr
+wohl an, sobald ich deren Sinn verstehe, was eine Voraussetzung dafür
+ist, dass ich ein Prädikat überhaupt vernünftig anwenden kann!
+
+Genauso sehe ich dem Prädikat "schwerster Mensch der Welt" an, dass es
+nur eine einzige Person geben kann, auf die dieses Prädikat zutrifft.
+
+Es gibt also Fälle, in denen bereits die Bedeutung eines Prädikats
+beeinhaltet, dass es nur auf einen einzigen Gegenstand/Person
+zutreffen kann!
+
+Gruß
+INGO

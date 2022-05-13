@@ -1,0 +1,15 @@
+Du verwechelst hier Division und Multiplikation.
+Du benutzt 0 Stunden als Zeiteinheit. Dann ist aber 0*0Stunden der Anfang
+deine Tages.
+1 Tag*0 Stunden ist dann das Ende deines Tages. Das Problem ist nur, das
+0+0, also 2 deiner Einheiten nacheinander, gleich 0 sind, also immernoch
+einer Einheit entsprechen. Das bedeutet daß dein Tag nicht in die Puschen
+kommt, da alle Einheiten zusammen immernoch solang sind wie eine diese
+Einheiten.
+
+--
+Ulf Wohlfahrth (godsn653@n-avbbic.nb)
+-----------------------------------------------------------
+A Member of the ---> LIANE SILVIO HELLBERND <--- Fanclub Germany
+      since      http://plt.btgs.lu/dvc-box      2/99
+-----------------------------------------------------------

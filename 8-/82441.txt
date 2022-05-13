@@ -1,0 +1,19 @@
+Man könnte dein Schema aber auch ganz einfach ontologisch
+"entschärfen", indem man statt des klassischen E-Quantors den
+existenziell neutralen S-Quantor ("S" für "some") Priests hernimmt,
+den man "Partikularquantor" nennen könnte (oder auch anders; aber eben
+nicht länger "Existenzquantor", da er ja gerade nicht
+existenz-implizierend sein soll):
+
+t_1 =3D t_2 <-> Sx(D(|t_1|,x) & D(|t_2|,x))
+
+t_1 ist mit t_2 identisch genau dann, wenn etwas derartig ist, dass
+sowohl "t_1" als auch "t_2" darauf Bezug nehmen.
+
+Unter den Voraussetzungen, dass absolut alles, d.h. auch alles
+Nichtexistente, selbstidentisch ist, und Bezugnahme auf Nichtexistentes
+möglich ist, gilt dies sowohl für existente als auch für
+nichtexistente Objekte.
+
+Gruß
+VALENTIN

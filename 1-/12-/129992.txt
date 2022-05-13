@@ -1,0 +1,76 @@
+Hallo Jacques!
+
+
+Das habe ich nicht behauptet. Genauso wie ein Ball sich selbst
+beschreiben kann, sich auch ein neuronales Netz selbst beschreiben.
+
+"X kann Y beschreiben" meint hier immer: X ist eine Beschreibung von Y.
+"X  beschreibt sich selbst" analog: X ist eine Beschreibung von X.
+
+"beschreiben koennen" ist also (in dieser Diskussion) eine
+Eigenschaft, keine Beschreibung der Faehigkeit zu einer Taetigkeit.
+         +------------------------------------------+
+
+
+Ich bin der OP, und ich meinte das obige mit "beschreiben" ;-)
+
+
+Sicher. Ein Buch kann eine Handlung beschreiben, obwohl das Buch "tot"
+ist.
+
+
+Richtig. Und der ist (in diesen Kontexten) grundsaetzlich der Mensch.
+
+
+Der Mensch steht immer am Ende, denn er denkt sich diese
+Turingmaschinen ja aus. 
+
+
+Es ist schlicht falsch, das habe ich auch nicht behauptet. Der Mensch
+ist zum Einen endlich (die Turingmaschine ist unendlich), zum Anderen
+besitzt ein Mensch einen Kontakt zur Umwelt (die Turingmaschine
+nicht). Ausserdem ist eine Turingmaschine ein mathematisches Gebilde,
+der Mensch jedoch ein physisches.
+
+Es geht ja auch nicht um eine Identitaetsbeziehung ("Der Mensch ist
+eine Turingmaschine"), sondern um eine Modellierungsbeziehung ("Es
+gibt eine Turingmaschine, die ein Modell des Gehirns darstellt", oder
+auch "Das menschliche Gehirn ist durch eine Turingmaschine beschreibbar"
+bzw. "Das menschliche Gehirn kann durch eine Turingmaschine beschrieben 
+werden.")
+
+Und da komme ich wieder auf meine Argumentationskette zurueck: Wenn
+das menschliche Gehirn durch ein Kuenstliches Neuronales Netz
+beschreibbar ist, dann ist es (da das Kuenstliche Neuronale Netz durch
+eine Programmiersprache beschreibbar ist und jene wiederum in eine
+Turingmaschine uebersetzt werden kann) auch durch eine Turingmaschine
+beschreibbar.
+
+Oder, negiert: Wenn Du nachweisen kannst, dass das menschliche Gehirn
+nicht durch eine Turingmaschine beschreibbar ist, dann ist es auch
+nicht durch ein Kuenstliches Neuronales Netz beschreibbar.
+
+Aber was hat das mit der Kultur des Menschen zu tun? 
+
+
+Etwas, das (nur) in einem mathematischen Axiomensystem definiert ist. 
+
+
+Das kann man ja tun. Man kann den Lernprozess so gestalten, dass er
+den Output des Kuenstlichen Neuronalen Netzes verbindet mit der Anzahl
+der eigenen Neuronen und der Anzahl der Schichten. Im einfachsten Fall
+(wenn die Zahlen jeweils konstant sind) durch Vorgeben der
+entsprechenden Zahlen. Damit ist diese Ich-Bezueglichkeit gegeben.
+
+
+Nochmal: Die Diskussion ging um eine "passive" Form des
+Beschreibens. So beschreibt z.B. eine Computersimulation eines
+physikalischen Experimentes dieses Experiment. Das setzt implizit
+immer den Menschen als Empfaenger der Beschreibung voraus, und nicht
+etwa, dass die Simulation das Experiment "versteht".
+
+Eine Turingmaschine, die sich selbst beschreibt, ist hier in genau dem
+gleichen Sinne gemeint - naemlich, dass die Turingmaschine /mir gegenueber/ 
+als Beschreibung ihrer selbst dienen kann.
+
+Fritz

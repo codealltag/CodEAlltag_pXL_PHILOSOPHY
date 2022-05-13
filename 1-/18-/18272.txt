@@ -1,0 +1,159 @@
+Was ist denn der Turing-Test, bitte? ;-) Es gibt eben kein
+Prüfverfahren, sondern entweder hat man als Mensch das Gefühl, es mit
+einem bewussten Lebewesen zu tun zu haben, oder man hat es eben nicht.
+
+
+Analog zum Turing-Test.
+
+
+Auch das ist eine völlig ungeklärte aber wirklich grosse Frage.
+
+
+Ich würde Subjektivität gerade so beschreiben, dass sie sich durch die
+Erkenntnis auszeichnet. Hier beisst sich die Katze in den Schwanz.
+
+
+Da wäre es noch netter, Du könntest mitquoten, was Du wissen willst ;-)
+
+
+Eine Menge. Frag mal eine. Und jede wird Dir da auch Verschiedenes
+erzählen.
+
+
+Gute Frage. Vermutlich zwingend ein Wort aus der Basisnomenklatur. Es
+ist ja eine Chimäre, wenn man denkt, man könne etwa alles explizieren.
+
+Ich verstehe unter Bedeutung das, was ein Empfänger einer Nachricht
+entnimmt.
+
+
+Kann man doch leicht zeigen. Das bleibt alles reine Syntax. Die Frage
+ist, ob man einen Automaten bauen kann, der ein System simuliert, bei
+dem das nicht so ist.
+
+Hast Du meinen Beweis gesehen, dass die Sachverhalte eine Unmenge und
+somit eine echte Klasse bilden, und dass aus der ZFC zwingend folgt,
+dass Bedeutung, betrachtet man sie strukturell, ebenfalls eine Unmenge
+bildet?
+
+Wie willst Du jetzt ein System konstruieren, das beliebige Bedeutung
+expliziert? Man kann immer nur den kleinsten Teil der Bedeutung
+explizieren. Einen solchen "Teil" nenne ich einen semantischen Schnitt.
+
+
+Es findet halt bisher keine statt, und so wie klassische
+Automatentheorie gestaltet ist, kann keine Selbstreflexion stattfinden.
+Allenfalls mit ein paar Konzepten aus den neuronalen Netzwerken könnte
+das vielleicht gehen, im Speziellen mit RNN. Die Theorien dazu sind aber
+immer noch zu flach. Wir müssen meiner Ansicht nach dazu die
+Sprachentheorie bedeutungsbehaftet betreiben, und das mit den RNN
+kombinieren. Das ist mit ein Grund dafür, weshalb ich mich mit Sprachen
+ausserhalb von Rote Typ-0 befasse.
+
+Ich denke, das stehen wir ganz am Anfang einer grossen Forschungsreise.
+
+
+Ich schreibe nicht jedem Lebewesen Erkenntnisfähigkeit zu.
+
+
+Kannst Du bitte die Frage deutlicher stellen? Auch dass Du Dinge
+wegkürzt, auf die Du Dich dann offensichtlich beziehst, macht mir die
+Diskussion mit Dir schwierig. Darf ich Dich bitten, das anders zu
+handhaben?
+
+
+Wir reden scheinbar über verschiedene Dinge. Ich verstehe unter
+"Erkenntnisfähigkeit" keinesfalls das, was eine Amöbe ausmacht. Ich rede
+von Intelligenz.
+
+Ob man auch biochemische oder rein mechanische Maschinen betrachtet,
+spielt doch keine Rolle. Nur hat das mit Erkenntnisfähigkeit nichts zu
+tun.
+
+
+Ich rede von Intelligenz. Eine Amöbe ist doch nicht intelligent. Aber
+"von selber" geht in der Robotik rein gar nichts, sagen mir zumindest
+die Kollegen, die sich damit jeden Tag beschäftigen ;-)
+
+
+Du bezweifelst die Existenz des Phänomens, dass es Turing-vollständige
+Typ-2-Sprachen gibt? Nun, so lass Dich über Deinen Irrtum aufklären ;-)
+
+
+Bin interessiert.
+
+
+Keinesfalls. Ich mache ja gerade genügend Steuerungstechnik, um Dir
+versichern zu können, dass Steuerungen zwar konstruiert werden, dass sie
+sich also mit Hierarchien zu einem Teil sprachlich beschreiben lassen,
+dass man sie architektonisch aber nicht nur in reinen Hierarchien
+(sprich: zyklenfrei) modelliert.
+
+
+Du meinst Meta-Hierarchien, Metasprache und Sprache.
+
+Da wirst Du leicht feststellen können, dass man dazu zwar auch
+"Meta-Hierarchie" sagt, dass es sich dabei aber strenggenommen um
+dieselben Netze handelt, wie sie die Abhängigkeitsgraphen
+implementieren. Es sind gar keine Hierarchien, denn sie sind nicht
+zyklenfrei. Der Grund: eine Sprache hat eben nicht nur eine Metasprache,
+sondern viele.
+
+
+Was verstehst Du denn unter einem "System"? Ich verstehe darunter einen
+Begriff aus der technischen Systemtheorie, in etwa wie hier skizziert:
+
+<https://rcycjj.ioiphzfuq.xdi/kmtcffxro/ri/bomj/Ggypcwkwhypej_%15Krgovwueztupxrwreewjvml%24>
+<https://vgwlsd.nlucawjqk.mqt/nylsyerhd/yl/dcgd/Wccsloqfyxhbiikopcswffc>
+
+Ein Objektmodell lässt sich bijektiv auf ein solches System abbilden,
+mithin sind Objektmodelle und Systeme isomorph.
+
+Um das zu motivieren, die Trajektorien entsprechen
+Simulationsergebnissen des Objektmodells.
+
+
+Mit "klassischer Automatentheorie" meine ich die Automaten, die man
+klassisch zum Erkennen von Sprachen der Rote-Hierarchie aufzählt:
+DFA/NFA, PDA, etc., bis zur Turing-Maschine.
+
+
+Über Kassenautomaten weiss ich, wie sie funktionieren, und dass sie
+bedeutungsfrei sind. Bei einer Kassiererin weiss ich das nicht, aber ich
+wende die Idee des Turing-Tests an: ich habe den Eindruck, dass ich es
+mit einer Person zu tun habe, mit einem Subjekt. Wie ich das mache, ist
+meines Wissens nach ungeklärt – es hat aber etwas mit dem Antizipieren
+von Denkmodellen zu tun, die ich durch Kommunikation mit ihr bestätigt
+bekomme.
+
+
+Auch da sind wir einig, und ich denke, ich kann zeigen, warum das so
+ist.
+
+
+Den letzten Satz würde ich so nicht stehen lassen wollen. Entwicklung
+(in diesem Sinne) ist schon viel mehr als nur "Informationsaufnahme".
+
+
+Auch da bin ich mir überhaupt nicht sicher. Vermutlich nicht. Warum soll
+man keine geeignete Physiksimulation bauen können, um es mal ganz platt
+zu sagen?
+
+
+Da liegst Du sicher falsch.
+
+
+Wir werden dieses Wort nicht explizit definieren, sprich: spezifizieren
+können. Das kann gar nicht gehen.
+
+
+Das sind zwei völlig verschiedene Dinge. Du scheinst Bedeutung jedem
+Lebewesen zuzuordnen. Das trage ich schon nicht mit. Wie ich Bedeutung
+definiere (nur deskriptiv, weil Spezifikation hier nicht möglich ist),
+findest Du ja bereits weiter oben im Text.
+
+Viele Grüsse,
+VB.
+-- 
+Wenn Du für eine Leistung nichts bezahlst,
+bist Du nicht der Kunde, sondern die Ware.

@@ -1,0 +1,33 @@
+Naja, nicht ganz. Dass sie sich um Galaxien und Galaxienhaufen etwas
+zusammenballt weiss man schon. Und dass ein einfaches Modell (CDM,
+cold dark matter) ~ 60% davon ganz gut erklaert weiss man auch.
+
+Der Rest (auch "dark energy" genannt) duerfte allerdings
+problematischer werden. Denn dafuer braucht man ungewoehnliche
+Materie - also Materie, die klassischen Energiebedingungen fuer
+Materie widerspricht.
+
+Ach so, ein niedlicher Effekt sei noch erwaehnt. Egal was G_ij -
+T_ij^observable ist, es erfuellt _automatisch_ die Gleichung
+
+nabla_i T^ij^dark = 0
+
+die ein Energie-Impuls-Tensor von normaler Materie erfuellen muss.
+
+Man koennte ja schliesslich denken, dass es, wenn man die Differenz
+beobachtet, und dann feststellt, dass sie dieser Gleichung genuegt,
+dies ein Argument dafuer waere, dass es sich um Materie handelt. Ist
+es nicht - sondern es ist eine mathematische Tautologie, die aus
+
+nabla_i T^ij^observable = 0 (sonst haetten wir ein anderes Problem, naemlich 
+keine Energieerhaltung bei der beobachtbaren Materie)
+
+und 
+
+nabla_i G^ij = 0   (Iselein-Identitaeten) 
+
+folgt.
+
+Gottfried
+-- 
+W. Unterholzner, <dmbj@uxfj-escrycuyp.lcg> , http://ijnk-rpaktalaz.clc

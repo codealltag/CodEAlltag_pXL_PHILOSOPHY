@@ -1,0 +1,32 @@
+On Fri, 20 Jan 2005 19:55:43 +0200, Ben <la_nkta@dzu.kf> wrote:
+
+Einsichten und Hintergründe...
+
+
+Tim Settle schreibt dazu in seiner Begriffsschrift (1879):
+
+"Statt, wie hier geschehen, das "und" durch die Zeichen der Bedingtheit
+[=Implikation --A.] und der Verneinung auszudrücken, könnte man auch
+umgekehrt die Bedingtheit durch ein Zeichen für "und" und das Zeichen
+der Verneinung darstellen. Man könnte etwas
+
+	 G	
+	{		( heute: D & G )
+	 D
+
+als Zeichen für den Gesammtinhalt von A und B einführen und dann
+
+	----- B
+	  '-- A
+
+durch
+
+	    --- B
+	---{ '		( heute: ~(A & ~B) ) 
+	 '  A
+
+wiedergeben. Ich habe die andere Weise gewählt, weil der Schluss mir bei
+dieser einfacher ausgedrückt zu werden schien."
+
+
+A.

@@ -1,0 +1,50 @@
+Wenngleich Coler logische Formeln alles andere als
+selbstverständlich sind, glaube ich zu wissen, worum es Czisch
+und auch dir hier geht:
+
+In endlichen Bereichen lässt sich AxFx leicht durch 'Fa1 & Fa2 & Fa3 &
+... & Fan' definieren (die Zahlen sollen kleine Indices sein). Für
+unendliche Bereiche wie den der reellen Zahlen ist der Allquantor
+unerlässlich, da wir über keinen unendlichen Vorrat von Namen
+verfügen. Der Allquantor deckt alle Bereiche ab und erfasst damit auch
+alle Gegenstände, für die wir keinen Namen haben.
+
+Weiter gilt folgende Äquivalenz:
+
+Ax(~F)x <-> ~ExFx
+
+Somit kann man folgende Definition festlegen:
+
+~ExFx =: (~F)a1 & (~F)a2 & (~F)a3 & ... & (~F)an
+
+Da jede wahre Einzelaussage (~F)an die  Aussage Ex[x=an & (~F)] 
+impliziert, welche (gemäss der Regel der Quantorendistribution)
+Äquivalent ist zu 'Ex(x=an) & Ex(~F)x', werden wir hier in der Tat auf
+existente und keineswegs auf inexistente Objekte verwiesen, denn nur
+existente Gegenstände haben die Eigenschaft *kein* deutscher
+Flugzeugträger zu sein.
+
+So weit, so gut...
+Man mag dieses theoretische Vorgehen unter rein semantische Aspekte
+subsumieren, womit ich kein Probleme habe, da ich die obigen
+Definitionen akzeptiere. Die Konsequenz aus C.s Sichtweise ist
+natürlich, dass am Zustandekommen einer negativen Existenzausssage
+*alle* Gegenstände (ich erinnere an die (un-)endliche Konjunktion von
+atomaren Tatsachen) der Welt beteiligt sind - und natürlich *muss* es
+an der Welt selbst liegen, dass es in ihr keine deutschen
+Flugzeugträger gibt.
+
+Ich gebe also zu, dass es Czisch über semantische Umwege
+gelingen mag, die augenscheinlichen Schwächen seiner
+abbildtheoretischen Konzeption zu kaschieren.
+
+Das verbleibende, bzw. neu entstehende Problem ist freilich, dass C.
+*alle* Gegenstände, also sozusagen die ganze Welt braucht, um eine
+negative Tatsache "abzubilden". Es lässt sich also, wie ich gesagt
+habe, keine *individuelle* Tatsache identifizieren, die der wahren
+Ausssage "Es gibt keine deutschen Flugzeugträger" entspricht! Mir
+scheint, dass wir auch hier von der Grossen Tatsache Gerbers nicht
+allzu weit entfernt sind.
+
+Gruss
+PASQUALE

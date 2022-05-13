@@ -1,0 +1,30 @@
+While I agree with the statements above,
+for the German AI Forthmind I need to
+keep entering useful German words into the
+http://stqt.mikitz.rmf/r/kawsdaiew/ccab/LuXlka
+bootstrap sequence. A German word is an =93internal
+1 symbol=94 but the recognition of the acoustic
+or written word is required to activate the symbol.
+
+While adding more German words today, I
+made a pleasant discovery in the matter of
+how to handle irregular German nouns. I
+suddenly realized what to do with the
+German word =93der Mensch=94 for =93human being.=94
+
+We can say =93The human knows you=94 in German
+with =93Der Mensch kennt dich,=94 but to say
+=93You know the human,=94 we have to say,
+=93Du kennst den Menschen.=94 Today I
+realized that my German DeBoot sequence
+needs only to store only the nominative case
+for regular German nouns, plus the accusative
+case for an irregular noun like =93der Mensch=94.
+The HauptWort noun-phrase module will
+use nominatives and accusatives interchangeably,
+unless an irregular like =93Mench=94 forces a default.
+
+The above may sound esoteric and over-detailed,
+but I am working hard!
+
+Lutz

@@ -1,0 +1,5 @@
+Die gaengige Antwort auf die Frage aus Linguistik und Informatik ist
+eindeutig: Die Anzahl der Woerter w mit w \in \cup_{i >=0} A^i, wobei
+A ein endliches Alphabet ist, ist abzaehlbar unendlich.
+
+Gruss, Rolf

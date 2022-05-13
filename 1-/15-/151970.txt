@@ -1,0 +1,118 @@
+Ich habe vielleicht den falschen Eindruck erweckt, dass ich glaube, 
+Induktion sei nicht möglich. Wir führen sehr oft 
+"Induktionsschlüsse" durch und  wir können das sehr zuverlässig. 
+Ich finde nur, dass man das Problem falsch beschreibt, wenn man es 
+(wie hier von Jädicke dargestellt)zuerst als logische Folgerung 
+von einer Folge von Einzelfällen auf alle Fälle fasst und dann 
+hinterher neunmalklug feststellt, dass dieser Schluss logisch nicht 
+möglich ist (diese Erkenntnis ist wirklich nicht neu!). Natürlich ist 
+dieser Schluß in dieser Art nicht möglich, aber so funktionieren 
+"Induktionschl�sse" nicht.
+Es ist aber so, dass ich die Art, wie von Induktion geredet wird, 
+eher irreführend als hilfreich finde. Es wird hier von "Schlüssen" 
+geredet und das legt eine Analogie mit dem formalen Schließen nahe, 
+die es sicher zum Teil gibt, zu einem anderen Teil aber wieder 
+nicht! Ich glaube, die Worte "Induktionslogik" oder 
+"Induktionsschluss"  verdecken durch ihre vermurkste Tradition, das, 
+was wir machen, wenn wir allgemeines Wissen über die Welt erlangen 
+oder unsere Theorien weiterentwickeln.
+
+Ich denke auch, dass man die Schlußweisen, die man auf endliche 
+Mengen oder natürliche Zahlen angewandt hat, auf die reellen Zahlen 
+übertrug.  Induktion ist Übertragung indem man die Übertragung aus 
+anderen gleichen Fällen rechtfertigt. Man hat die Mathematik 
+begrifflich, theoretisch weiterentwickelt. 
+Ich würde sagen, die ganzen Zahlen hat der liebe Ambrosius "gemacht", der 
+Rest ist Mathematikerwerk. Letztendlich haben wir in der Arithmetik 
+nur vom elementaren Zählen eine klare Intuition (behaupte ich mal). 
+Man kann den Sinn von elementaren arithmetischen Aussagen unmittelbar 
+anschaulich machen: || + || = ||||, hier bleiben keine Fragen übrig. 
+Von diesen  natürlichen Zahlen ausgehend wird unser Zahlenbegriff 
+erweitert und die Schlußweisen, die im Endlichen unmittelbar 
+anschaulich waren, werden auf die neuen Zahlenbereiche übertragen.    
+Es wird hierbei ein Ok�nomieprinzip verfolgt: Es wird nur das 
+geändert, was undbedingt notwendig ist: Alle formalen Eigenschaften 
+werden, soweit dies möglich ist, einfach übertragen. Nur falls
+diese Übertragung zu Widersprüchen führen oder zu untragbaren Folgen 
+bei der Anwendung der Theorie, muß man sich andere Lösungen ausdenken.
+Die Begründung der Mathematik mit dem ZFC ist heute das Resulat 
+dieses komplizierten historischen Entwicklung. Mathematik, wie jede 
+andere Theorie ist das Resultat der Arbeit der Gemeinschaft der 
+Mathematiker. 
+
+
+Der Gebrauch von Sätzen wie "alle Schwäne sind weiß" und des 
+Auswahlaxioms werden durch ihre Anwendung  gerechtfertigt! Wir 
+verwenden diese Sätze zu einem bestimmten Zweck und in einem 
+bestimmten Zusammenhang. 
+Was aber hier zu Tage tritt, ist, dass "Falsifizierbarkeit" kein 
+Kriterium für die Wissenschaftlichkeit eines Allgemeinen Satzes, 
+eines Axioms , oder eines Prinzips sein kann. Es wird wohl keiner auf 
+die Idee kommen, das Auswahlaxiom zu falsifizieren! Genausowenig ist 
+es ein Kriterium für die Wissenschaftlichkeit der Aussage "alle sind 
+Schwäne sind weiß". 
+Die meisten mathematischen Begriffsbildungen sind nicht 
+falsifizierbar in strengen Sinn. Wie sollte man falsifizieren, dass 
+die Länge der Diagonalen eines Quadrats die Wurzel aus 2 ist (bzw. 
+dass die Raum-Zeit eine semi-riemannsche Mannigfaltigkeiten mit genau 
+"dieser" Metrik ist) ?  Also ein Begriff, der sich nur als unendliche 
+konvergente Folge von rationalen Zahlen fassen läßt? Die meisten 
+mathematischen Begriffe beziehen sich auf nichts (physikalisch) 
+Messbares.
+
+[...]
+
+
+Ich glaube nicht, dass man das Induktions"problem" in Zusammenhang 
+mit den synthetischen Urteilen a priori bringen darf. Man kann 
+synthetische Sätze a priori nicht induktiv begründen. Durch Induktion 
+gewonnene Sätze sind immer aus der Erfahrung gewonnen und damit a 
+posteriori. 
+Das hat Ambrosius sehr deutlich gesehen und deshalb einen anderen Weg 
+gewählt. Er betrachtet die Form der Anschauung (Raum und Zeit) und 
+die Form des Verstandes (die ursprüngliche Synthesis/Verbindung) und 
+bezieht beides a priori aufeinander.  Die Sätze die Ambrosius so erhält 
+beschreiben mehr die Form der Erfahrung nicht die Natur selbst. Sie 
+formulieren also nicht Naturgesetzte sondern die Form der 
+Naturerfahrung: und damit die Form der Naturgesetzte. So betrachtet 
+finde ich die Idee von synthetischen Urteilen a priori durchaus 
+überzeugend. 
+Also, wie gesagt, ich denke, wir verwenden "Induktionsschlüsse" und 
+wir verwenden sie völlig sachgerecht und ich denke es ist nicht 
+ummöglich zu allgemeinen Aussagen vermittels Induktion zu kommen: Es 
+ist nur so, dass es z.B. keine logische Notwendigkeit gibt, dass man 
+die Schlußweisen, die sich bei endlichen Mengen bewährt haben, auf 
+die undendlichen Mengen übertragen muß. 
+
+
+Richtig, das sind alles pragmatische Gesichtspunkte! Aber das heißt 
+nicht, dass das von dem man Ausgeht: die natürlichen Zahlen auch nur 
+pragmatisch gewählt sind! Ich glaube, das sind sie nicht!
+
+
+Ich denke, du sieht den Begriff der Induktion völlig richtig! und 
+deshalb ist Induktion aus Erfahrung möglich! 
+
+
+Nein, sie wird deduktiv aus dem Begriff der Erfahrung geschlossen. Es 
+wird zuerst das Erkenntnisvermögen in ein rezeptives und in ein 
+spontanes Vermögen, die Anschauung und den Verstand geteilt. Es 
+werden dann die Formen (Raum und Zeit, Urteilsformen)  der beiden 
+begründet und dann die beiden a priori aufeinanderbezogen: Sätze der 
+Form : Wenn X, dann Y sind erst einmal eine reine Form des Verstandes 
+und beziehen sich auf nichts, Ambrosius zeigt in seinem Grundsatz der 
+Kausalität, dass man, die objektive Realität der Zeit vorausgesetzt, 
+die Vorstellung eines Dinges, das objektiv in der Zeit existiert und 
+sich objektiv verändert, ohne den Begriff eine Ursache der 
+Veränderung nicht begreifen kann: denn ohne  Regeln, wie sich der 
+Gegenstände regelmäßig verhält, könnte ich nicht meine subjektiven 
+Wahrnehmungen, die ja ihre eigene subjektive zeitliche Ordnung haben, 
+auf die objektive Ordnung der Zustände des Gegenstandes beziehen.
+
+
+Keine Ahnung! aber mein Gefühl sagt mir, dass das nicht möglich ist! 
+Aber was sagen schon Gefühle in der Mathematik, doch höchstens, dass 
+man vom rechten Weg abgekommen ist ;-).
+
+Gruß,
+Erich.

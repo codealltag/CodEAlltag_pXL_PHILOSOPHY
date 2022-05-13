@@ -1,0 +1,32 @@
+Na und?  Monochromatische Laserstrahlung bekommt man mit
+Interferenzschichtstapeln bei streng orthogonalem Einfall (oder
+meinetwegen auch anderem, aber hart festgelegtem Winkeln) sogar zu
+99.9% reflektiert.  Die optischen Astronomen sind froh, wenn ihre
+Spiegel im Dauerbetrieb bei 80% bleiben - die brauchen es nämlich
+breitbandig, und im Gegensatz zu erdumspannenden Rohren darf es sogar
+teuer sein.
+
+Und den Längsschnitt einen Röntgensatelliten kannst Du Dir gern mal
+anschauen - dort bastelt man Kaskaden kompliziert geformter
+Hyperboloide ineinander, um immer streifenden Einfall zu bekommen.
+
+
+Das ist Dein Kernproblem: Pöbeln statt Rechnen.  Aber meinetwegen
+setze 99.9% statt meiner 95% ein und ziehe in Betracht, wie weit
+Australien weg ist.  Für Punkt 1 (reflexionsfreier Durchgang nahezu
+achsenparalleler Strahlen) ändert sich nichts, für 2 und 3
+verfünfzigfacht sich die erreichbare Länge.
+
+
+Und wieviel Watt Kühlleitung pro Fläche bei welchem Verbrauch bringt
+das?
+
+
+Die Strahlenoptik hat sich seit den Zeiten des ollen
+Glockenkurvenerfinders nicht wesentlich geändert.
+
+Bernhard
+-- 
+GS d->? s:++>+++ a+ C++++ UL+++ UH++ P++ L++ E+++ W- N++ o-- K-
+w--- !O M- V- PS+>++ PE Y+>++ PGP+ !t !5 !X !R !tv  b+++ DI+++
+D? G+ e++++ h+ r? y?

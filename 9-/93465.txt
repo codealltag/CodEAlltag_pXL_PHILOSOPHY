@@ -1,0 +1,10 @@
+In Computersprachen gibt es zwei Identitätsbegriffe mit
+klarer unterschiedlicher Bedeutung, einmal
+
+a=b  (Gleichheit der Werte)
+
+und als Alternative
+
+&a = &b (Identität als Gleichheit der Speicherzellen)
+
+Stephan

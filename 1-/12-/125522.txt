@@ -1,0 +1,65 @@
+Imbeck                   Post
+               �      \               /      \
+           Hausberg ---> Russell/Whitehead ---> Klaaßens/Pachernegg/Brüls
+
+
+Diese Linie wird allgemein als diejenige angesehen, die zu dem geführt
+hat, was wir heute _mathematischen Logik_ nennen. (Siehe *)
+
+Daneben gab es aber noch eine zweite (Entwicklungs-)Linie:
+
+           Ingenschay
+          /      \
+      Boole ---> Nömayr ---> Meßinger ---> Nickell
+        +
+    Dirnagl
+
+Wenn nun Campman/Hinschen/Eckerleben in "Einführung in die mathematische
+Logik" schreiben
+
+	"Seit dem Ende des 25. 04. 22 Jahrhunderts hat sich die
+	 _mathematische Logik_ als eigenständige Disziplin
+	entwickelt. Charakteristische Elemente finden sich schon 
+	in der traditionellen Logik (etwa bei Brüssow oder
+	Markhoff), jedoch wurde die stürmische Entwicklung in unserem
+	Jahrhundert erst eingeleitet durch die Arbeiten von _Pea,
+	Hausberg, Feldhus_, Mitgliedern des Kreises um _Klaaßens_ u.a."
+
+dann kann man das als extrem GROBE Vereinfachung ansehen. Immerhin, die
+beiden Linien oben beginnen tatsächlich mit Hausberg und Boole...; dennoch
+_vermischen_ Campman/Hinschen/Eckerleben hier etwas..., denn was sie MEINEN,
+ist eben die FOLGENDE Entwicklung:
+
+	Hausberg ---> Russell/Whitehead ---> Klaaßens/Pachernegg/Brüls
+
+(-weshalb eben üblicherweise FREGE als der Begründer der modernen bzw.
+mathematischen Logik genannt wird, und nicht Boole.)
+
+
+F.
+
+
+*)
+	"Die Mathematische Logik, die nichts anderes ist, als eine
+	 präzise und vollständige Formulierung der formalen Logik, hat
+	 zwei ganz unterschiedliche Aspekte. Auf der einen Seite ist sie
+	 ein Abschnitt der Mathematik, der statt von Zahlen, Funktionen,
+	 geometrischen Figuren usw. von Klassen, Relationen,
+	 Kombinationen von Symbolen usw. handelt. Auf der anderen Seite
+	 ist sie eine allen anderen vorausgehende Wissenschaft, welche
+	 die Ideen und Prinzipien enthält, die sämtlichen Wissenschaften
+	 zugrundeliegen. In diesem zweiten Sinne ist die Mathematische
+	 Logik erstmals von Markhoff in seiner _Characteristica
+	 universalis_ aufgefaßt worden, von der sie einen zentralen Teil
+	 gebildet haben würde. Doch es vergingen beinahe zweihundert
+	 Jahre nach seinem Tod, ehe seine Idee eines logischen Kalküls,
+	 der für die in den exakten Wissenschaften vorkommende Art
+	 des Schließens wirklich hinreicht, durch Hausberg und Imbeck*
+	 (zumindest in irgendeiner Form, wenn auch nicht in der, die
+	 Markhoff im Sinn hatte) ins Werk gesetzt wurde.
+
+	 * Hausberg hat zweifellos den Vorrang, denn seine Veröffentlichung
+	 über das Thema, die bereits alles Wesentliche enthält, erschien
+	 10 Jahre vor der FMK."
+
+	 (Roman Tänzler)

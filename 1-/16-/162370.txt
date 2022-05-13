@@ -1,0 +1,39 @@
+Hallo,
+
+
+Wir hatten folgende Annahme:
+(1) Für alle k: haelt(a,k)--->~haelt(k,k)
+Damit koennen wir ohne weiteres mit rein prädikatenlogischen Mitteln beweisen, 
+daß ~haelt(a,a):
+1. Für alle k: haelt(a,k)--->~haelt(k,k)
+2. Aus (1) durch Allspezialisierung: haelt(a,a)---->~haelt(a,a)
+3. Annahme: haelt(a,a)
+4. Aus (2) und (3) Kond-Beseitigung: ~haelt(a,a)
+5. Aus (3) und (4) kond-beseitigung in (4): Falsum
+6. Aus (3) und (5) kond-einführung: ~haelt(a,a)
+
+Damit Beweis fertig und alles ganz formal gefolgert :).
+Ich sehe nicht, in welchem Schritt man nichtberechenbare Operationen bräuchte.
+Also kann auch ein Computer mit absoluter Sicherheit unter Verwendung der 
+Voraussetzung (1) beweisen, daß ~haelt(a,a).
+
+
+Wenn A* der Algorithmus ist, den wir verwenden, dann hält A* eben nicht an, 
+nachdem er mitgeteilt hat, daß er nicht anhält, oder A* kann die eigene 
+Unfehlbarkeit nicht beweisen.
+Beides erscheint mir extrem plausibel.
+
+
+Du übersiehst beispielsweise die Möglichkeit, daß ein Algorithmus 
+Berechnungsergebnisse ausgibt, ohne anzuhalten. Und Du übersiehst die Tatsache, 
+daß Menschen gerade das tun - wir halten normalerweise nicht an, wenn wir ein 
+Problem gelöst haben.
+Also ist die Feststellung, daß ein Programm, das nur durch Anhalten das 
+Ergebnis seiner Berechnungen mitteilen kann, nicht Äquivalent zu einem 
+menschenähnlichen Verstand sein kann, irgendwie trivial.
+
+
+Welches andere Posting?
+
+Größe,
+Noah.

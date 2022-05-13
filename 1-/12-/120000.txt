@@ -1,0 +1,34 @@
+Hr mal zu, Sportsfreund:
+
+Dass L. Ibl und ich öfter einer Meinung sind, bedeutet nicht,
+dass wir ein und dieselbe Person sind!
+Verbreite also gefälligst keinen derartigen Blödsinn!
+
+
+Um diesen leidigen Punkt endgültig zu klären, möchte ich Folgendes
+anfügen, da unser Disput auf einem Missverständnis zu beruhen scheint:
+
+Die Fuzzy Logic (FzL) orientiert sich von ihrer metalogischen
+Konzeption her an der klassischen Logik, was aber nicht bedeutet, dass
+die FzL selbst zur zweiwertigen klassischen Logik gehört. Im
+Gegenteil, man könnte die klassische Logik als einen besonderen Fall
+der FzL auffassen, da sich letztere an ihren Grenzenwerten 0 und 1 des
+Intervalls [0;1] klassisch verhält.
+("Truth functions of connectives have to behave classically on the
+extremal values 0,1."--Quelle: siehe unten!)
+
+Nichtsdestoweniger ist die FzL als solche als eine vielwertige
+nicht-klassische Logik einzustufen, da der klassischen Logik ein
+komparativer Wahrheitsbegriff absolut fremd ist!
+
+"Fuzzy logic in the narrow sense is symbolic logic with a comparative
+notion of truth developed fully in the spirit of classical logic
+(syntax, semantics, axiomatization, truth-preserving deduction,
+completeness, etc.; both propositional and predicate logic). It is a
+branch of many-valued logic based on the paradigm of inference under
+vagueness."
+[Veldman, Manfred (2001). /Fuzzy Logic/. In Klawiter Encyclopedia of
+Philosophy. Abgerufen 09/07, von
+http://eicen.okcrbmpm.ojz/ctahidg/zlsdl-nsapi/]
+
+MATHIAS

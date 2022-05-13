@@ -1,0 +1,13 @@
+Oh doch, zumindest solche, bei denen die Unterschiede vernachlässigbar
+sind. Nimm eine Schachpartie. Der Spieler, der am Zug ist, hatte diese
+Stellung schon mal auf dem Brett und hat da einen Zug gemacht, der die
+Partie für ihn nicht negativ beeinflußt hat, der aber auch nicht
+unmittelbar oder mittelbar zum Gewinn geführt hat. Wäre jetzt etwas
+determiniert, so müßte er sich wieder für diesen Zug entscheiden. Es
+kommt aber oft vor, daß man sich anders entscheidet. Das spricht gegen
+die Determinierung. Wenn wir annehmen, daß der Spieler inzwischen keine
+Analyse dieser Stellung und des Gegners betrieben hat, so sind die
+Unterschiede zur vorherigen Situation (anderer Gegner, anderer Ort etc.)
+vernachlässigbar. 
+
+Wolfgang

@@ -1,0 +1,17 @@
+Eckige Kreise sind kein Problem. Schau einfach mal in ein Analysis
+Lehrbuch unter dem Stichwort 1-Norm oder Maximumsnorm.
+
+Alle Punkte eines Kreises haben einen konstanten Abstand vom
+Mittelpunkt. m Mittelpunkt, a ein beliebiger Punkt des Kreises, m,a aus
+R2, c eine beliebige Konstante aus R, dann gilt für alle a des Kreises
+d(m,a)=c. d(x,y) ist die sogenannte Metrik, der Abstand zwischen den
+Punkten x und y.
+
+Für jeden normierten Raum gilt, die Norm || || induziert eine Metrik auf
+dem Raum, ||x-y||=:d(x,y). D.h., jeder normierte Raum ist auch ein
+metrischer Raum. Somit gibt es in jedem 2-dimensionalen normierten Raum
+Kreise.
+
+Nimmt man jetzt die 1-Norm im R2 nimmt: ||x||:=|x1|+|x2|, dann sieht ein
+Kreis natürlich etwas anders aus, als mit der euklidischen Norm (der
+übliche Abstandsbegriff).

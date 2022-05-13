@@ -1,0 +1,9 @@
+Es gibt auch eine Variante des Gentzen-Kalküls (siehe Untersehr & Hand,
+Logic Primer), in dem sogar folgender Beweis möglich/korrekt ist:
+
+1	(1)  P -> Q           A
+2	(2)  P                A
+1	(3)  P -> (P -> Q)    1 ->I (2)
+
+
+A.

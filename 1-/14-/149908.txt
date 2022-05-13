@@ -1,0 +1,13 @@
+So schlimm ist es nun doch nicht:
+
+Betrachten wir K^(n,n)  für K=GF(2).. Nehmen wir S=( K^(n,n),+,*).
+Und nun M=({P=(p_ij) in K^(n,n) | A i E_1 j : p_ij =1},*) . Hier ist nun P^(-1)=
+P^T  (T = transponiert).
+So läßt sich M konsistent mit einem Annhilator 0 =(0) ( in K^(n,n)) erweitern
+und dabei ist 0^(-1)=0^T.
+Es läßt sich also durchaus soetwas wie ein 'Kehrwert von 0' strukturabhängig
+aber konsistent einführen.
+Selbst eine entsprechende 'Kehrwert'-Erweiterung auf  S für weitere
+(Teil-)Annhilatoren ist damit möglich.
+Da es sich nun für char K = 0 leicht anders darstellt ist Colordec keineswegs 'eine
+VORRAUSSETZUNG für das Gebäude der Mathematik! '

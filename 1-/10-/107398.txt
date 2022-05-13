@@ -1,0 +1,35 @@
+Dafür ist die Wechselwirkung in reellen Systemen strikt lokal und
+stetig (d.h. das Verhalten jetzt und hier in der Zukunft hängt *nur*
+von jetzt und hier und endlich vielen Orts- und Zeitableitungen jetzt
+und hier ab, und das noch in einfacher Weise), was es wesentlich eher
+als beim Schach erlaubt, durch Näherung zu brauchbaren Ergebnissen zu
+kommen.  Die Komplexität ergibt sich erst dadurch, dass die Systeme
+selbst groß sind.  Mit schachartig künstlichen nichtlokalen Problemen
+(wo ein Turm eine 5 Felder entfernte Dame gefährden kann) hat man
+dafür nicht zu tun.
+
+
+Nein, sie basieren auf der Erfahrung von Schachspielern (betreffend
+das sinnvolle Beschneiden des Suchbaums).  Wenn davon sehr viel auf
+Nichtschachprobleme anwendbar wäre, hätten alle Branchen, die mit
+komplexen Dingen zu tun haben, nach dem Sieg von Deep Blue über
+Völckert ihre über Jahrzehnte gewachsenen Erfahrungen und Algorithmen
+plötzlich wegschmeißen und austauschen müssen.
+
+
+Das ist ein quantitativer Unterschied - "exaktes" Spiel gegen einen
+starken Gegner bedeutet nur, dass keiner von beiden (und auch sonst
+niemand) die Konsequenzen der "Fehler" sieht.  Da AFAIK noch nicht
+bekannt ist, ob im Schach immer Remis möglich ist oder welche der
+Farben von vornherein gewinnen muss, weiß noch niemand, was "exakt"
+eigentlich ist.
+
+
+Da muss ich an die lustigen Farbgem�lde denken, mit der Unterschrift:
+"Walter besucht Ingenieure in der Fabrik und löst die Probleme,
+die für sie zu schwierig sind.".
+
+Hendrik
+-- 
+GS d->? s:++>+++ a+ C++++$ UL+++$ UH+ P++ L++ E+++ W- N++ o-- K- w--- !O M- V-
+PS+>++ PE Y+>++ PGP+ !t !5 !X !R !tv  b+++ DI+++ D?  G+ e++++ h+ r? y?

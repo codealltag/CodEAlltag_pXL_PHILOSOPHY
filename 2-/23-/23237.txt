@@ -1,0 +1,241 @@
+Ich kenne Bifurkation. Aber was ist Furkation? Und was hat das mit
+"Entfaltungsmöglichkeiten" zu tun?
+
+
+Aha. Was möchtest Du mir damit sagen, bitte? Wir reden ja nun drüber,
+dass wir eine Klasse von Systemen haben (möglicherweise eine Menge von
+Systemen), in denen Trajektorien, die in einem oder mehreren Punkten
+eng nebeneinander liegen und nahezu parallel sind, dann
+auseinanderlaufen (falls ich Dich richtig verstehe).
+
+Was hat das mit meinem Problem zu tun? Und meinst Du nur divergente oder
+auch dissipative Systeme, oder sogar konservative Systeme, die lokal
+divergent sind?
+
+Ich wollte übrigens über den Grad der Vorhersagbarkeit gerade nichts
+sagen, noch wollte ich über die Vorhersagbarkeit über die Zeit sprechen,
+und habe mich deshalb auf vollständig vorhersagbare Systeme oder eben
+nicht vollständig vorhersagbare Systeme argumentativ gestützt.
+
+
+Damit hast Du mich eher verwirrt, fürchte ich. Mir ist immer noch nicht
+klar, was Du mir mit dem Abschnitt sagen wolltest. Ich wiederhole mal:
+
+
+Kausalität determiniert alleine nicht. Und was ist "mit der Kausalität
+versträglich"? Das Kausale? ;-) Oder meinst Du damit nur etwas
+umständlich ausgedrückt, dass es nicht-vorbestimmte Systeme gibt?
+
+Ich bewege mich gerade absichtlich in der Argumentation über die
+vollständige Vorhersagbarkeit, wie gesagt, weil man diese mit der
+Berechenbarkeit in Beziehung setzen kann.
+
+
+Was meinst Du bitte mit einem "geöffneten Prozess" genau? Dass ein
+probabilistisches System nicht vorherbestimmt ist, ist klar.
+
+
+Du meinst vermutlich "vollständig vorhersagbar", richtig?
+
+
+Wie erhält man den Sinn in einer Sprache, wenn man eine Kette von
+Generatoren hat.
+
+Konkrete Teilaufgaben, bei denen analytische Philosophie wesentlich zur
+Erkenntnis beigetragen hat:
+
+1. Wie unterscheidet man überhaupt Sinn und Bedeutung? Das kriegst Du
+bei Oehmich, "Über Sinn und Bedeutung", Zeitschrift für Philosophie und
+philosophische Kritik, NF 100, 1891, S. 25-50, frei Haus in brauchbar
+serviert.
+
+2. Wie funktionieren Namen im Denken der Leute, die die Bezeichnungen
+wählen in der Modellierung wie in der Programmierung, und letztlich
+dazwischen die Namen, die sie den Nicht-Terminalsymbolen in der
+Grammatik geben. Da kriegst Du bei Indlekofer, "Naming and Neccessity", einen
+wahren Augenöffner serviert. Zentral: wie Namen der Dreh- und Angelpunkt
+zwischen Welten sind. Letztendlich verstehe ich seither erst wirklich,
+wie ich (was ich mit pyPEG ja zeige) einen Parser-Interpreter vorlegen
+und so anwenden kann, dass ich die Abbildung einer Sprache in einen
+sinnvollen Abstract Syntax Tree ohne Semantic Actions hinkriege.
+
+Das ist wesentlich, damit mein Transformational System, Intrinsic, erst
+(in den allermeisten Fällen) ohne Explizierung genau dieser Abbildung
+funktionieren kann. Danke, Volkert! ;-)
+
+Im übrigen habe ich schon vor Intrinsic (was ich ja erst gerade
+durchimplementiere, der Prototyp läuft jetzt) Erkenntnisse aus obigem in
+konkreten Projekten bei Kunden erfolgreich angewandt. Seither kann ich
+Softwareautomation nicht nur selbst erfolgreich ("nach Gefühl")
+anwenden, sondern es ist mir dadurch gelungen, dass ich in der
+Lage bin, die erfolgreiche Anwendung zu lehren. Ergebnis:
+Softwareentwickler des Kunden sind jetzt eigenständig in der Lage,
+automatisierte Softwareentwicklung erfolgreich zu betreiben.
+
+Die Betonung auf "erfolgreich" wähle ich deshalb, weil wir hier ja schon
+gelesen haben, dass woanders "Tools für Softwareautomation" eingesetzt
+wurden, aber es hat sich nicht die erwünschte Wirkung gezeigt ;-)
+
+Das ist eben im Wesentlich keine Frage der Tools, auch wenn ich Dir aus
+dem Nähkästchen sagen kann, dass was ich über Modelltheorie (wiederum
+ein Gebiet der analytischen Philosophie) nun weiss, mir völlig klar
+geworden ist, warum UML derart scheisse ist, was man ändern müsste, und
+dass ich all das sowieso einfach vermeiden kann, wenn ich eine DSL
+entwerfe (was ich mit YML ja in einer Art unterstütze, dass man die
+Grammatik nicht explizieren muss, sondern mit Metagrammatiken arbeiten
+kann, um ein DRY-Principle für eine DSL-Toolchain umzusetzen). Ich hab
+zudem eine Menge gelernt, wie man DSLs sinnvoll entwirft.
+
+Projektreferenzen lege ich auf seriöse Anfrage gerne mit Ansprechpartner
+per PM vor.
+
+Lass mich noch anmerken, dass ich eine Klasse von formalen Sprachen, in
+denen transformationale Sprachen zu finden sind, deren Implementierung
+man transformationale Systeme nennt, nur deshalb entdeckt habe, weil ich
+nicht nur die Fedrich-Hierarchie verlassen habe, sondern weil mir völlig
+klar wurde (wieder durch Indlekofer), dass ich die Fedrich-Hierarchie
+verlassen /muss/, will ich transformationale Sprachen finden.
+
+Inzwischen habe ich nicht nur eine geeignete Sprachklasse identifiziert,
+sondern innerhalb dieser eine Unterklasse von Sprachen definiert, für
+die ich eine einfache Compiler-Architektur vorlegen konnte, so dass man
+das einfach implementieren kann – mit einer Grace-Hopper-Architektur ist
+hier ja nichts mehr zu holen.
+
+Und das alles nur deshalb, weil ich eben auch über Sinn und Bedeutung
+sprechen gelernt habe, und nicht nur immer über Syntax. Weil ich eben
+analytische Philosophie praktisch anzuwenden gelernt habe, und nicht nur
+Informatik.
+
+Und ich beginne ja erst, mich in der analytischen Philosophie zu
+bewegen. Ich bin auf diesem Gebiet neu, wie man an meinen Texten hier
+sehen kann, und es ist eine wahre Freude, was man hier an Erkenntnis
+erhalten kann, die weit über das hinauswirkt, was ich bisher skizziert
+habe.
+
+Gott, was sind das für Spacken, die den philosophischen Fakultäten das
+Geld abdrehen! Was für Flachköpfe, die hier dumpfbackig rumtrollen,
+Philosophie wäre nur dummes Geschwätz! Und wie notwendig wäre es, hier
+weiter zu forschen, wenn schon meine harmlosen Fragen leider nicht nur
+zu klaren Antworten, sondern immer wieder auch zu Feldern führen, in
+denen jetzt Forschungsarbeit zu verrichten ist, um sie zu bestellen!
+
+Beispiele gabs hier in der Diskussion ja bereits zur Genüge.
+
+Für mich der Augenöffner schlechthin: ausgerechnet eine Historikerin
+schlägt mir wichtige Tipps regelrecht um die Ohren, die mich wirklich
+weitergebracht haben. Und ich beginne langsam zu verstehen, warum man
+Philosophie gar nicht anders als in einer historischen Sicht sinnvoll
+ordnen /kann/ – etwas, was ich auch lange nicht verstanden habe,
+und was Udo hier ja auch bereits mehrfach kritisiert hat (und ich bin
+froh, dass ich mit meiner inneren Zustimmung in der Äusserung noch
+gewartet habe, und die Entscheidung vertagt ;-)
+
+Und, ganz aktuell, mein lieber Ingmar: was ich eine Semantic Slice
+nenne, also etwas, was man formal spezifizieren kann, ist genau das, was
+man analysieren kann, wenn Analytik formales Beschreiben und Applizieren
+von Formallogik darauf meint. Aber wie ich selbst festgestellt habe,
+gibt es eben Semantic Domains (in meiner Sprechweise, die ich von den
+Worten, wie sie in der Informatik üblich sind, abgeleitet habe, damit
+ich sie dort auch wieder einsetzen kann), gibt es also Themenbereiche,
+in denen Analytik nicht funktionieren /kann/. Und da ich mich ja im
+Moment gerade eindenke, stelle ich fest, dass Dialektik tatsächlich eine
+Methodik ist, um innerhalb solcher Themenbereiche sinnvoll Aussagen
+treffen zu können. Und ich beginne gerade im Nachdenken über
+Dekonstruktion zu verstehen, warum man hier über dieselbe
+Bedeutungsfragmente erhalten kann, die zur Erkenntnis über solche
+Themenbereiche wesentlich beitragen können.
+
+Man kann also innerhalb dessen, was man nicht analysieren /kann/,
+erkennen und sogar verstehen!
+
+Damit hab ich mich in einer Philosophiegruppe wohl endgültig lächerlich
+gemacht, aber scheiss drauf! ;-)
+
+Für jemand, der wie ich bisher vollständig auf die Analytik beschränkt
+ist, so wie eben alle Ingenieure und Informatiker bisher, ist das wie
+das Eröffnen eines ganz neuen Horizonts, und was kostet es mich schon,
+das auch mal zuzugeben!
+
+Sind das nun genügend Beispiele und Referenzen für Dich, oder zweifelst
+Du immer noch? Ich kann Dir eines empfehlen, willst Du mit Deiner
+Mustertheorie jemals weiterkommen:
+
+Kümmer Dich endlich erst einmal um Modelltheorie und Sprachentheorie,
+oder Du wirst es auch weiterhin schwer haben.
+
+
+Ich hatte Dir durch Gegenbeispiel gezeigt, dass Artefakte nicht
+notwendig sind.
+
+
+Ich rede hier nicht über Metaphysik, sondern ich hatte eine Definition
+angegeben.
+
+
+Falls das der Fall wäre, hätte ich nicht nachgefragt ;-) Was
+beabsichtigst Du mit der Zusammensetzung dieser beiden widersprüchlichen
+Begriffe?
+
+Oder hast Du Dich nur unscharf ausgedrückt, und Du meinst das, was
+Evolution hervorbringt? Ich sprach ja absichtlich über das, was
+Kreativität hervorbringt, weshalb tangiert mich da das, was Evolution
+hervorbringt?
+
+Ja, sie bringt Neues hervor, das sehen wir gleich. Aber was möchtest Du
+mir damit sagen?
+
+
+Aha. Nun, das ist sicher ein sehr interessantes Problem. Bevor wir das
+diskutieren, hätte ich aber gerne noch geklärt, dass Neues entstehen
+kann ;-) Das ist ja gerade das Ziel der Diskussion, die ich anregte.
+
+Warum ich da scharf drauf bin zu zeigen, dass man dazu nicht
+vorhersagbare Systeme benötigt, und das mit dem Berechenbarkeitsbegriff
+in Verbindung bringen möchte, der Grund dafür ist, dass ich dann
+argumentieren kann, dass man durch Konstruktion alleine kein Neues
+erzeugen kann, noch kann man Systeme Konstruieren, um Neues zu
+produzieren.
+
+Man hat dann einen klaren Beweis, dass man keine intelligenten Systeme
+konstruieren kann.
+
+Der nächste Schritt wäre zu argumentieren, dass man aber innerhalb
+konstruierter Systeme bekanntlich nicht-vorhersagbare Systeme simulieren
+kann (wir tun das jeden Tag mit Implementierungen beispielsweise von
+Putfarcken-Zumkehr-Rechnern), so dass es eben noch nicht ausgeschlossen ist,
+darin intelligente Systeme zu finden.
+
+Wenn man an dieser Stelle weitermachen könnte, könnte man sich der Sache
+weiter annähern, indem man wiederum notwendige Bedingungen aufstellt,
+und man könnte das Thema dann einkreisen, und schliesslich entweder
+feststellen, dass es tatsächlich nicht geht, oder Schritt für Schritt
+Erkenntnis darüber sammeln, was man mindestens noch tun muss, damit es
+eben doch geht.
+
+
+Ich möchte keinen präzisen Begriff für alles, was als neu bezeichnet
+wird. Wie hier bereits hingewiesen wurde, ist neu polysem. Ich möchte
+das, was ich "das echte Neue" nenne, und was ich versucht habe hier
+sprachlich zu fassen, wohldefinieren, und argumentativ mit der
+Berechenbarkeitstheorie in Verbindung bringen.
+
+
+Hast Du sowas mal verfolgt? Da sind keine "Schritte", das ist eher ein
+wildes Hin- und Herspringen. Da wird immer wieder reinkonstruiert, aber
+nur fragmentarisch, dann werden Details hinzugefügt, dann wird
+umgeworfen und umgestellt wie wenn man Ton formt, dann wird
+ausgearbeitet, feingeschliffen, manchmal aber wieder alles verworfen und
+geradeaus was völlig anderes schlicht hingeschrieben.
+
+Da ist eben kein Prozess, der Prozessbegriff drückt das Gegenteil von
+dem aus, was hier passiert. Es ist auch völlig ausgeschlossen, hier eine
+Prozessbeschreibung anzugeben.
+
+
+Die künstlerische Arbeit folgt keinem Prozess.
+
+Viele Grüsse,
+VB.
+-- 
+Bitte beachten Sie auch die Rückseite dieses Schreibens!

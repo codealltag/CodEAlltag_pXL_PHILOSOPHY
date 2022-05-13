@@ -1,0 +1,10 @@
+Genauer gesagt ist es die Raumzeitkrümmung. Mit Geodäten sind in der
+ART die kürzeste Verbindungen zwischen zwei Raumzeitpunkten gemeint, d.h.
+die Bewegungsgleichung (oder Geod�tengleichung) ist vierdimensional.
+Für Licht muß natürlich noch erfüllt sein, dass das differentielle 
+Linienelement gleich 0 ist (ds^2 = g_ik dx^i dx^k = 0). Das ist die
+Verallgemeinerung auf krummlinige Koordinaten von x = ct für Licht 
+im flachen Raum.
+
+
+Niels.

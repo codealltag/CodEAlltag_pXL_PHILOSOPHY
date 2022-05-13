@@ -1,0 +1,15 @@
+Es ist in vielen Bereichen der Mathematik ueblich, Zahlen, Punkte etc.
+selber nicht als Mengen zu betrachten. Insofern werden z.B. natuerliche
+Zahlen als "Urelemente" betrachtet, die keine Mengen sind. Und die "Ge-
+samtheit" dieser Zahlen nennt man dann Menge der natuerlichen Zahlen.
+
+Wenn man aber die natuerlichen Zahlen in einer Mengenlehre, die nur Mengen
+als Objekte hat, explizieren will, dann muss man hier zeigen, dass die
+Menge der natuerlichen Zahlen nicht selbst zu dieser Menge gehoert.
+Wenn man zeigt, das keine natuerliche Zahl n ein Element von sich selbst ist,
+dann ist dieses Problem geloest. Beweise sind hier in dsm schon darueber
+gefuehrt worden. Man muss sie nur lesen.
+
+
+Gruss Cornelius
+--

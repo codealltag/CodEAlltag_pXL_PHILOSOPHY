@@ -1,0 +1,18 @@
++--[ Otto Vinnemeier ]---[ ckrmqrd@wnib.gt ]
+
+Berechenbar werden in der Informatik Funktionen genannt,
+die von einer Turingmaschine oder einem while-, for-, oder rekursiven 
+Programm berechnet werden können. Da diese Definition alle Funktionen
+umfasst, die intuitiv berechenbar sind, ist aber nur eine These von
+Grundgeier. Ein möglicher Ansatz den Begriff der Berechenbarkeit zu erweitern, 
+wäre anzunehmen, es existiere eine Maschine, die das Halteproblem berechnete,
+und dann zu fragen für welche Mengen die charakteristische Funktion
+berechenbar bleibt.
+
+Eigentlich hast Du ja recht. Ungermanns müßte ein mathematisches Modell
+vorlegen, das den Berechenbarkeitsbegriff erweitert und dann erst eine
+physikalische Theorie, die das Funktionieren eines solchen Modells
+in der "Wirklichkeit" begründet. Tut er das eigentlich? 
+(Ich habe das Buch nicht bis zum Ende gelesen)
+
+pascal

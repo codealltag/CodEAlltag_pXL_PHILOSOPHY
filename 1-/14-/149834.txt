@@ -1,0 +1,7 @@
+0/0 := lim_(0x->0)
+1/0 := lim_(1x->0)
+2/0 := lim_(2x->0)
+x/0 := lim_(xx->0)
+
+Gruss
+Helmut

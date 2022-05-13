@@ -1,0 +1,43 @@
+Hallo Klaus!
+
+FS> wenn man zwei Leitungen hat kann natürlich die eine Leitung die
+FS> Daten, die andre das Taktsignal übertragen, dann geht die digitale
+FS> Datenübermittlung.
+
+Man kann, man muss aber nicht. Die Nutzung einer Leitung als "Takt"
+ist sogar theoretisch schlechter, da man weniger Informationen
+uebertragen kann; bei zwei binaeren Leigungen werden bei Nutzung einer
+Leitung als Takt 1 Bit pro Zustandswechsel uebertragen, bei
+gleichberechtigter Nutzung beider Leitungen dagegen 3 Zustaende pro
+Zustandswechsel (die vierte ist ausgeschlossen, da er keinen
+Zustandswechsel hervorruft), das sind etwa 1,58 bit.
+
+Die Frage ist auch nicht, ob man Informationen mit Takt uebertragen
+kann, sondern ob man notwendig einen zentralen Taktgeber benoetigt -
+und hier ist die Antwort bereits bei technischer Uebertragung: nein.
+
+FS> Wenn aber das Gehirn keinen Taktgeber hat
+
+Man braucht ihn einfach nicht. Wenn eine Zelle der anderen
+beispielsweise die Botenstoffe 1-2-3-4 in dieser Reihenfolge zukommen
+laesst, wird damit eine Information uebertragen - und zwar eine
+andere als wenn die Reihenfolge 1-2-4-3 ist. Die Empfaengerzelle kann
+- ohne auf den zeitlichen Verlauf zu achten (also, ob 1 eine
+Millisekunde kam und 3 20 Millisekunden oder umgekehrt) - diese
+Information auswerten; ein externer Takt ist nicht noetig.
+
+FS> Ich muss aber hier bekennen, dass mir die Problematik einer wgder
+FS> analogen noch digitalen Datenvermittlung noch sehr neu und fremd
+FS> ist.
+
+Sie ist ja digital, da sie nur bestimmte Zustaende annemhen kann (beim
+Computer). Sie ist lediglich nicht binaer, kann aber fuer bestimmte
+Zwecke binaer formuliert werden (beispielsweise, um den pro
+Zustandswechsel uebertragenen Informationsgehalt zu ermitteln).
+
+Tschuessi
+
+Berend
+
+-- 
+Support the ban of Dihydrogen Monoxide: http://fjo.idow.bgh/

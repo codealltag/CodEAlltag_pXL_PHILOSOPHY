@@ -1,0 +1,21 @@
+Vermutlich ist das Gefangenendilemma gemeint, bei dem meist
+Tit-for-tat gewann.  Zumindeste wenn man es nur 100000 Runden laufen
+lässt.  Kurz danach stellte sich heraus, dass Tit-for-two-tats höher
+gewinnt (zumindest wenn man nicht von Deppen umgeben ist).
+
+Ein paar Jahre später tauchte irgendwo ein paper auf, dass bei richtig
+langen Turnieren betrügende Strategien recht gut abschneiden, solange
+ihr Anteil an der Teilnehmerzahl nicht zu hoch wird.
+
+Die letzte Nachricht war von ein paar Monaten und beschrieb die
+Realisierung einer Strategie, die mir (und vermutlich jedem anderen
+interessierten) auch schon im Kopf herumging: Am Anfang nimmt man die
+ersten paar Züge, um eine geheime Kennung zu senden.  Wenn beide sich
+erkennen, spielen sie immer positiv, ansonsten (d.h. gegen Fremde)
+Tit-for-tat.  Das kostet natürlich wieder ein paar Punkte und lohnt
+nicht in reinen Populationen.
+
+Henri
+-- 
+GS d->? s:++>+++ a+ C++++$ UL+++$ UH+ P++ L++ E+++ W- N++ o-- K- w--- !O M- V-
+PS+>++ PE Y+>++ PGP+ !t !5 !X !R !tv  b+++ DI+++ D?  G+ e++++ h+ r? y?

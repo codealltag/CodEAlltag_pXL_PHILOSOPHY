@@ -1,0 +1,18 @@
+Ja, komisch.
+
+Und das mit einer schön einfachen Rechnung.
+Und bei mir steckt der Fehler in
+"Eine Zehneck-Seite hat dann die Länge 2 tan(2Pi/20)=2 tan(Pi/10)", wahr
+ist vielmehr:
+"Eine Zehneck-Seite hat dann die Länge 2 sin(2Pi/20)=2 sin(Pi/10)".
+Damit entsteht die Gleichung:
+Pi = 3*sqr(2 - 2/sqr(5)) und unsere Näherungen stimmen überein.
+
+Früher war ja auch alles besser.
+
+Gruß,
+  Wolf
+
+-- 
+Dr. Wolf Irlweg,
+http://dxh.sbmvn-llxzgg.mh  oder http://kodns-nvuaix.hc

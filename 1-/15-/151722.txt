@@ -1,0 +1,16 @@
+Ist aber auch nicht viel besser...
+
+Man kann das Pferd natuerlich von vielen Seiten aufziehen.
+Beispielsweise kann man mit den Peanoaxiomen starten
+und "0" als Startpunkt der natuerlichen Zahlen hernehmen
+und mit der Nachfolgerrealtion ' die anderen Zahlen definieren:
+1:=0'
+2:=1' etc.
+
+Definition der Addition ist dann
+n+0:=n;
+n+m':=(n+m)'
+
+Es gibt aber natuerlich noch andere Zugaenge...
+
+Alfons

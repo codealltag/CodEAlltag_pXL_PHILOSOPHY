@@ -1,0 +1,44 @@
+Da Du mein Vorredner warst, oder genauer mein Vorschreiber, seh ich das
+als etwas seltsame Form des Eigenlobes. Aber Dir steht natuerlich frei,
+ueber Dich zu denken, wie Du moechtest.
+
+Spass beiseite, mich verwundert wirklich, warum Du glaubst, logische
+Schluesse ziehen zu koennen, wenn Du diese vorher ausschliesst.
+Eine Entscheidung aus dem Bauch, ist hier passend und ich sehe auch
+keine Einwaende, die dagegen sprechen wuerden. Diese Entscheidung
+hinterher logisch begruenden zu wollen, wird jedoch fehlschlagen.
+
+Was die ganze Sache erschwert, sind unpraezise oder nicht verstandene
+Formulierungen, die Dir immer wieder passieren.
+
+Beispiel aus einem Deiner Artikel:
+
+Hier ist nicht klar, ob das Schludrigkeit in der Formulierung ist, oder
+ob der Begriff "Unendlichkeit" falsch verstanden wird.
+
+Pi ist nicht unendlich, Pi ist eine einzige Zahl (also endlich,
+Anzahl=1), die wir auf Grund unseres gewaehlten Zahlensystems nicht
+korrekt darzustellen vermoegen. Man braucht nicht einmal Pi um dies zu
+berwerkstelligen, hier reicht der Bruch 1/3 = 0,3333... 
+Die Zahlendarstellung besteht aus einer endlosen Kette aus Ziffern, alle
+Ziffern haben den Wert 3 und trotzdem gibt es die letzte Ziffer nicht.
+Folglich macht es keinen Sinn nach ihr zu fragen. Da es die letzte
+Ziffer nicht gibt, kann sie auch nicht 3 sein.
+Fuer jede Ziffer 3 wirst du eine weitere Ziffer finden, die danach
+kommt. Das ist per Definition so.
+Genau so verhaelt es sich mit der Lampe. Du fragst, was fuer einen
+Zustand die Lampe fuer den Zeitpunkt tx >=t hat. Dazu benoetigst du den
+letzten Zustand fuer tx<t. Diesen letzten Zustand gibt es einfach nicht.
+Fuer jedes beliebeige AN in Deiner Versuchsanordnung findest Du ein AUS,
+das spaeter kommt, fuer jedes beliebige AUS findest Du ein AN, das
+spaeter kommt, Du hast es schliesslich so definiert. Da Du nie zu einem
+letzten Schaltzustand der Veruschsanordnung kommst, kommst Du auch nie
+zu dem Zustand dahinter. Deswegen gibt es kein 'plausibel' fuer diesen
+Zustand.
+
+Nicolas.
+
+Wie wir alle wissen, geht Trockeneis direkt vom festen in den
+gasfoermigen Zustand ueber. Es gibt also keinen fluessigen Zustand. Wenn
+es diesen gaebe, wie plausibel waere es, dass Trockeneis bei
+Zimmertemperatur dickfluessig ist?

@@ -1,0 +1,6 @@
+Computer laufen heute meist mit HEP Arithmetik und liefern NaN.
+Natuerlich darf man 1/0 einfuehren (HEP Arithmeitk),
+solange man nicht erwartet,
+dass die Koerpergesetze dann noch gelten.
+
+Steffen

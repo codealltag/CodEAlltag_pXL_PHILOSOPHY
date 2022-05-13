@@ -1,0 +1,63 @@
+On 3 Jan 2007 05:11:02 -0800, "Gérald Jeutter"
+
+Wie ich schon sagte:
+----------------------------------------------------
+
+     [...] Wenn wir lediglich Objekte aus einem best. universe of
+discourse [einem Grundbereich, a domain] betrachten, dann ist das 
+völlig ok.
+
+Du wirst mir doch zustimmen, dass bei einer gegebenen Eigenschaft E
+auf ein Objekt a (aus unserem universum D) entweder E zutrifft oder
+nicht zutrifft (klassische Betrachtungsweise vorausgesetzt).
+
+Demnach kann man also die folgende Menge bilden:
+
+	M(E) = {x e D : E(x)}
+
+Das ist die Menge aller d e r Objekte aus D, auf die E zutrifft. Es
+gilt dann offenbar für alle Objekte x aus D:
+
+	  x e M(E) <-> E(x).
+
+Du siehst also, dass hier die Identifizierung der Eigenschaft E mit
+der ihr zugeordneten Menge M(E) gerechtfertigt (und unproblematisch)
+ist. [Und zwar deshalb, weil in der Tat für jedes Objekt x aus D gilt:
+x e M(E) <-> E(x).]
+
+----------------------------------------------------
+
+Richtig.
+
+Mag sein, ja. In so einem Fall, würde ich eben das Extensionalität-
+axiom 
+
+	AEAF(Ax(Ex <-> Fx) -> E = F)
+
+weglassen.
+
+Es spricht aber m. E. nichts dagegen, die Identität für Prädikate in
+einem System der 2OL in ähnlicher Weise einzuführen wie die Identität
+für Gegenstände in der FOPL:
+
+	1) AF(F = F)
+	2) AFAG(Phi[F] & F = G -> Phi[G])
+
+Daraus kann man dann Theoreme ableiten wie:
+
+	AFAG(F = G -> G = F)
+	AFAGAH(F = G & G = H -> F = H)
+
+etc.
+
+Ich würde hier aber als Identitätssymbol nicht "=" verwenden, sondern
+z. B. "///" (also "=" mit 3 Strichen).
+
+
+A.
+
+
+--
+
+E-mail: 
+pwnczr<sy>simple<bindestrich>line<punkt>de

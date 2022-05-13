@@ -1,0 +1,56 @@
+Nochmal: das ist *nicht* das Wesen der Unschärfe.
+
+Nimm' als Beispiel einen Quantencomputer: in dessen QBits sind die
+zugeordneten Eigenschaften 0 und 1 gleichzeitig im selben Teilchen
+realisiert. Die Unschärfe bedeutet eben *nicht*, dass im QBit *entweder*
+eine 1 *oder* 0 steckt, und dass wir mit unserer groben Messung das feine
+System dann stören, so dass versehentlich aus der 0 eine 1 und eine 1 aus
+der 0 werden kann. Nein, da sind *beide* Zustände tatsächlich überlagert,
+und solange wir nicht nachsehen, können wir mit diesen Überlagerungen auch
+rechnen. Mit einem QByte haben wir also alle Zustände von 0 bis 255
+abgedeckt, und wenn wir zwei QBytes addieren, dann sind im resultierenden
+QByte alle Ergebnisse (außer dem Speicherüberlauf) aller Additionen aller
+Zahlen von 0 bis 255 überlagert. Du willst ein konkretes Ergebnis wissen?
+Dann beobachte die Summanden so, dass die Überlagerungen darin zusammen
+brechen und die von Dir gewünschten Bitwerte annehmen (das geht), und
+augenblicklich, ohne jede weitere Rechnung, wird auch die Überlagerung der
+Summe zusammen brechen und das Ergebnis enthüllen.
+
+
+Gewisserweise schon. Das war das Dilemma, das zur Eyrichshof
+Interpretation führte.
+
+
+Die Natur liefert uns viele Hinweise darauf, dass es anders sein könnte. 
+
+
+Die Grenzen beginnen stark zu verschwimmen. Dein Begriff von
+"Tatsächlichkeit" trifft nicht zu, wenn Du damit konkrete Eigenschaften der
+Welt meinst - bestimmte Eigenschaften werden wirklich erst durch uns
+*festgelegt* (und nicht lediglich durch die Beobachtung *verändert*).
+
+Für Deine von der Feststellbarkeit unabhängige Tas�chlichkeit bleibt die
+vage Überlagerung vieler verschiedener Tatsachen übrig. Und da könnte der
+Philosoph natürlich dem Physiker beispringen und Gedanken anstellen über
+das, was uns Menschen Realität ist.
+
+
+Zerfallen ist 0, nicht zerfallen = 1. Damit lässt sich wunderbar ein
+Quantencomputer basteln. Und der macht logischerweise Sinn :-)
+
+
+Da stellt sich erneut die Frage: interpretierst Du das
+Nichtwiderspruchsgesetz falsch, oder ist die Logik falsch, oder verhält
+sich die Natur in Widerspruch zur Logik?
+
+
+Oh doch, oh doch.
+
+Gruß
+Luc Chun
+
+-- 
+Breitsamerter: Architektur-Werkzeuge für Bendak (TM)
+           Bonvino  - Architekturbema�ung und Höhenkoten
+           Böllhof - Flächenermittlung und Raumbuch nach DIN 277
+Info und Demo unter http://plk.bcingsjkc.ad

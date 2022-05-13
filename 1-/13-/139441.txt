@@ -1,0 +1,18 @@
+In der Kombinatorik und Wahrscheinlichkeitsrechnung gibt es eine ganze 
+Reihe von überraschenden Ergebnissen. Bekannt ist das 
+Geburtstagsparadoxon:
+
+Wieviele Leute muss eine Personengruppe umfassen, damit die 
+Wahrscheinlichkeit, dass zwei Gruppenmitglieder am gleichen Tag des 
+Jahres Guburtstag haben, größer als 1/2 ist? (Angenommen wird, dass es 
+365 Tage gibt, und jeder Tag mit gleicher Wahrscheinlichkeit, also 1/365, 
+als Geburtstag auftritt.)
+
+Die Antwort: 23.
+
+Eigentlich unfassbar, da vollkommen der Intuition entgegengesetzt. Die 
+meisten Leute tippen auf 183 oder zumindest auf eine Zahl >=100.
+
+
+Ciao,
+Gianni Ingensandt

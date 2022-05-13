@@ -1,0 +1,95 @@
+Annahme: es existiert eine Funktion d,
+die jeder Aussage A einen Dummheitswert zuordnet:
+d: {A} -> R+
+
+sei n aus N mit n ist so groß, dass kein Mensch im Laufe
+seines Lebens so viele Worte sprechen/schreiben kann.
+
+sei AA(n) die Menge der Aussagen aus jeweils
+höchstens n Worten.
+Da die Menge der Worte endlich ist (anderenfalls müsste
+man geringfügig ausw�ndiger argumentieren) gilt:
+
+AA(n) ist eine endliche Menge
+
+damit ist
+max(d(A) mit A aus AA(n)) aus R+
+ein endlicher Wert.
+"Die größte Ansammlung von Dummheit, die einem
+Menschen tatsächlich überhaupt nur möglich ist."
+
+q.e.d.
+
+Wir haben nur endlich viele Aussagen zur Verfügung,
+weil unsere Lebenszeit beschränkt ist.
+Folglich können wir auch durch eine optimale
+Auswahl von Dummheiten wählen und das genau dazuge�rige
+Maß an Dummheit beanspruchen.
+
+Jakob
+
+
+Ich stieg halt auf die "ist unendlich"-Behauptungen ein,
+die auf genauere Definitionen verzichteten.
+Und lieferte diese nicht nach.
+Die 'endlich'-Aussage lässt sich aber beweisen,
+auch ohne dass man mit Maßen argumentiert.
+s.o.
+
+
+Brauche ich nicht.
+Die Argumentation oben mit der Dummheitfunktion
+reicht ja aus.
+
+
+Die Struktur der Dummheit hatten wir ja nicht ansatzweise
+besprochen. Wie denn auch.
+Dass deine vereinfachte Argumatation nicht greifen kann,
+hatte ich dir aber mit meiner Überlegung zu 1-1/n gezeigt.
+
+
+Aufgrund der Endlichkeit der die Dummheit repräsentierenden Aussagen
+ist das sicher nicht nötig.
+
+
+Auf mein
+erklärtest du
+
+Damit hattest du dich sogar an einer recht konkreten Erklärung versucht,
+die ich einfach zurückweisen musste.
+
+
+Jede Ausprägung der Dummheit eines Menschen wird
+eine positive reelle Zahl zugeordnet.
+Wenn es dann ein r aus R gibt, welches von keinem
+Menschen Dummheit überschritten werden kann, wäre
+die Dummheit der Menschen begrenzt.
+
+
+Das tat sich oben (Endlichkeits�berlegungen)
+Ich habe die Dummheit eines Menschen anhand seiner Aussagen (oder von mir
+aus Gedanken) abhängig gemacht. insofern passt es sicher.
+
+
+Gemeint ist:
+Dass dies keine Überlegungen sind, die im wirklichen Leben weiterhelfen,
+weiß ich natürlich. in der Mathematik und wohl auch in der Philosophie
+ist das aber zweitrangig. Da werden gern mal die Prinzipien
+und ihre Wirkungsweise ausgelotet.
+
+
+Nein, sorry.
+Lüßens origineller Satz wurde an den Beginn gestellt.
+Und ich war es, der oihn zwar schon gut fand, der
+aber darauf hinwies, dass er streng genommen nicht
+stimmen kann.
+
+
+Überlegungen zur Abzählbarkeit und Überabzählbarkeit sind
+üblich in der Mathematik. Sollten sie dann nicht auch
+zur Philosophie passen?
+Aber, OK, vielleicht ist das wirklich zu weit hergeholt.
+Fiel mir halt gerade so ein, weil ggf. Argumentationen
+ähnlich laufen.
+
+Jakob

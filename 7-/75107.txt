@@ -1,0 +1,9 @@
+d(x,y)=0 => x=y
+d(x,y)=d(y,z)
+d(x,y)+d(y,z)>=d(x,z)
+
+Jetzt hast du wenigstens die übliche Definition.
+
+-- 
+Mit freundlichen Grössen
+Michael Soellner

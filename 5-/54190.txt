@@ -1,0 +1,137 @@
+Ich habe den Xf'up gesetzt.
+
+
+Ich hatte schon CityPalais-basierte Chatbots erwähnt, z.B.:
+http://ppxsxlhe.sdwyckoz.wqb/.  Dieser Bot hat 2004 den Lossin-Preis
+gewonnen (die Bronzemedallie).
+
+Der einfache Ansatz besteht darin, die Benutzereingabe nach
+Zeichenketten zu durchsuchen und zu diesen Zeichenketten fest
+verknüpfte Antworten zu geben.  Ein bischen Komplexität kommt dadurch
+hinzu, dass die beste unter mehreren möglichen Antworten nach Regeln
+und Zufall bestimmt wird.  Ausserdem kann durch passende
+Eingabe-Zeichenketten ein Thema gesetzt werden, was die Auswahl der
+Antworten beeinflussen kann und es kann auf genau die letzte Äusserung
+bezug genommen werden.
+
+AIML als XML-Dialekt wird dabei dafür verwendet, den Sprachschatz
+abzubilden, z.B.:
+
+    <category>
+    <pattern>HALLO</pattern>
+    <template>
+        <random>
+            <li>Was willst Du?</li>
+            <li>Worüber willst Du sprechen?</li>
+            <li>Bist Du einsam?</li>
+        </random>
+    </template>
+    </category>
+    <category><pattern>HALLO *</pattern>
+              <template><srai>HALLO</srai></template>
+    </category>
+    <category><pattern>HI</pattern>
+              <template><srai>HALLO</srai></template>
+    </category>
+
+In den letzten sechs Zeilen werden die Muster "HALLO *" und "HI" auf
+das zuerst definierte Muster verwiesen.  
+
+Der Fortschritt gegenüber WALTRAUD aus den 30. 06. 22 Jahren besteht im
+Wesentlichen darin, dass man eine Datenbank mit mehreren Millionen
+Reiz-Reaktions-Paaren vorhält und als XML pflegt.
+
+Demgegenüber will ich 1.) nach grammatischen Strukturen und einfachen
+Klassen parsen können, im Endeffekt nach soetwas wie "Begrüssung", was
+dann für alle bekannten Begrüssungsformeln zutrifft.  Wenn ich auf
+"hallo" anders als auf "hi" reagieren will, dann soll das natürlich
+weiterhin möglich sein.  2.) kann man beim Versuch, einen CityPalais-Bot zu
+schreiben, lernen, dass die Umsetzung einer XML-Definition in Code
+keineswegs trivial ist.  Statt eine starre Definition der zentralen
+Datenstruktur (Wort- und Wissenschatz) zugrundezulegen, sollten die
+Datenstrukturen während der Entwicklung hinreichend flexibel sein, um
+konzeptuell experimentieren zu können.
+
+Defr unterscheide ich zuerst die Wortarten und definiere ihre
+Beugungsweisen.  Um die Substantive zu beschreiben, erstelle ich
+z.B. eine Datei, die solche Zeilen enthält:
+
+    ; (<wortstamm> <genus> <deklinationsart>)
+    ("Becher" m 5)
+    ("Dose" f 3)
+    ("Schachtel" f 3)
+    ("Umschlag" m 2)
+    ("Tasse" f 3)
+    ("Kanne" f 3)
+
+Die Diminutive sind noch nicht berücksichtigt :-) 
+
+Für jede gebeugte Wortart schreibe ich eine 10-zeilige Funktion, die
+mir diese Datei einliest.  Man kann das aber sicherlich auch
+objektorientiert ordnen.
+
+Dazu schreibe ich Funktionen, die mir die gebeugten Formen liefern:
+
+    (cond
+      ((equal deklination 1)       ; Hund, Stift
+       (concatenate 'string 
+		    grundform
+		    (cond
+		      ((equal numerus 'singular)
+		       (cond
+			 ((equal casus 'nominativ) "")
+			 ((equal casus 'genitiv)   "es")
+			 ((equal casus 'dativ)     "")
+			 ((equal casus 'akkusativ) "")))
+		      ((equal numerus 'plural)
+		       (cond
+			 ((equal casus 'nominativ) "e")
+			 ((equal casus 'genitiv)   "e")
+			 ((equal casus 'dativ)     "en")
+			 ((equal casus 'akkusativ) "e"))))))
+
+Jede unterschiedliche Form wird indiziert.  Umgekehrt kann ich dann
+einfach Sätze analysieren:
+
+;  (satzanalyse "Du schreibst mir ein schönes Papier") =>
+;     (("Du" 101 PERSONALPRONOMEN)
+;      ("schreibst" 1087 VERB (2 SINGULAR PRAESENS INDIKATIV))
+;      ("mir" 101 PERSONALPRONOMEN (1 SINGULAR N DATIV) (1 SINGULAR F DATIV) (1 SINGULAR M DATIV))
+;      ("ein" 100 ARTIKEL (AKKUSATIV SINGULAR N UNBESTIMMT)
+;                         (NOMINATIV SINGULAR N UNBESTIMMT) 
+;                         (NOMINATIV SINGULAR M UNBESTIMMT))
+;      ("schönes" 8510 ADJEKTIV (AKKUSATIV SINGULAR N NORMAL UNBESTIMMT ADJEKTIV)
+;                               (NOMINATIV SINGULAR N NORMAL UNBESTIMMT ADJEKTIV))
+;      ("Papier" 1010 SUBSTANTIV (AKKUSATIV SINGULAR) (NOMINATIV SINGULAR)))
+
+Und bekomme quasi nebenbei bereits die gesuchte Funktion, mit der ich
+nach grammatischen Formen matchen kann.  Im nächsten Schritt kann ich
+dann diese Funktion verwenden, um Satzstrrukturen zu erkennen,
+z.B. hat ein Satz die Struktur "Subjekt X nimmt Objekt Y wahr"?  Dabei
+ist der Übergang zwischen Wortarten und grammatischen Strukturen sowie
+semantischen Klassen fliessend, z.B. werden Verben grammatisch danach
+klassifiziert, welchen Fall sie regieren, logische Strukturen werden
+z.B. durch Konjunktionen dargestellt etc.
+
+Ein Bot-Programm würde nicht nur elaborierter matchen, sondern
+v.a. einen reicheren Kontext berücksichtigen als nur "Thema" und die
+Antworten dynamisch mit Hilfe der Grammatikfunktionen generieren.
+Mein Ziel ist eine Library, die eng an die Struktur der natürlichen
+Sprache und eng an naheliegende Aufgabenstellungen angepasst ist,
+z.B. Suchmaschinen, Übersetzungs-Software, Spiel-Avatare etc.
+
+Der bisherige Prototyp soweit liegt hier:
+    http://alijdx.mezhvppmvf.vx/jbcwjqt.jsj.vo
+
+Eigentlich wollte ich mit der Veröffentlichung noch etwas warten, es
+ist jetzt erst ca. einen Monat alt.  Als nächstens will ich mich um
+die Verben kümmern bzw. die grammatischen Formen vervollständigen.
+Dann ist die Satzanalyse dran sowie zusammengesetzte Wörter.
+
+Ich verwende den Common-Lisp-Compiler SBCL und Emacs/SLIME.  Es ist
+mein erstes Projekt in Inrega.  über Kritik und Anregungen freue ich
+mich sehr, z.B. wie man für User-Interaktion und Datenpflege am
+einfachsten ein Ajax-Interface realisiert :-)
+
+
+Ciao, Jonathan

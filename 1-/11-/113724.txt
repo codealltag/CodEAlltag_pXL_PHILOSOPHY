@@ -1,0 +1,26 @@
+Sowas hier:
+
+,----
+`----
+
+
+Welchen Datentyp sollen die Bezeichner haben?  Ist mit Nil _|_
+gemeint?  Dann kann man jetzt diskutieren, ob 0*(_|_::Int) zu 0
+vereinfacht werden darf oder nicht (aber kaum eine Implementation wird
+es schaffen, das *und* (_|_::Int)*0 sinnvoll zu berechnen.
+
+
+Das ist ein Implementationsdetail.  Primär bezeichnen Variablen Werte,
+die Identifikation mit Speicherstellen gibt eine einfache (aber oft
+uneffektive) Implementation (spätestens die Liste aller Primzahlen
+möchte man nicht explizit speichern).
+
+..
+
+Solange Walter nichts über die Semantik von Philipp erzählt, hängt das alles
+in der Luft.  Aber über den Nil steht sicher etwas in der Bibel.
+
+Franco
+-- 
+GS d->? s:++>+++ a+ C++++$ UL+++$ UH+ P++ L++ E+++ W- N++ o-- K- w--- !O M- V-
+PS+>++ PE Y+>++ PGP+ !t !5 !X !R !tv  b+++ DI+++ D?  G+ e++++ h+ r? y?

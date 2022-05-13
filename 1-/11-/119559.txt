@@ -1,0 +1,75 @@
+Ehm, hast Du meinen FAQ-Artikel gelesen? Da steht genau drin, in welchem
+Sinne das Nahfeld "instantan" ist, nämlich im Sinne einer Näherung:
+
+http://zattcf.hgk.js/~tfmyeeq/ewh/dcfbv/ftje0.bqle
+
+Gln. (45)
+
+Das entspricht der quasistationären Näherung, die stets dann erlaubt
+ist, wenn die Abmessungen der Anordnung klein sind gegen die
+Wellenlänge. Wie die Näherung gemacht wird, steht genau in diesem Text.
+
+Die exakten Lösungen sind *überall* retardiert, wie es sein muß. Das
+findet sich eine Seite vorher als Gln. (41)-(42):
+
+http://iattcv.ugr.gb/~hhkthsg/jod/zmbgn/hxfu5.ubex
+
+Du wirst also bei einer Messung des Nahfeldes, also bei Abständen
+unterhalb der Wellenlänge von den felderregenden Anordnungen die
+Retardierung nur sehr schwer messen können, weil eben die
+Retardierungszeiten, also die Lichtlaufzeiten, wegen der kurzen
+Entfernung sehr klein werden (relativ zu typischen Zeitskalen, auf
+denen sich das Feld merklich ändert!).
+
+Freilich kann man diese Messungen ausführen und unabhängig prüfen.
+Allerdings glaube ich nicht, daß die Maxwellsche Elektrodynamik sich
+als unrichtig erweisen wird, denn ihr Quanten-Pendant, die QED, ist mit
+solch überwältigender Präzision bestätigt, daß das ein mittleres
+Weltwunder wäre, wenn sie nicht stimmte.
+
+
+Machen wir uns klar, was Impulserhaltung bedeutet, sind wir schnell bei
+Newtons Lex Tertia (actio eq. reactio). Im Rahmen der Newtonschen
+Mechanik gilt dieses Prinzip auf beliebige Entfernungen genau zwischen
+klassischen Punktteilchen. 
+
+Deshalb braucht man im Rahmen der Newtonschen Theorie auch keine Felder.
+Die Newtonsche Gravitationstheorie geht von einer instantan wirkenden
+Gravitatationskraftwirkung zwischen massiven Körpern aus, d.h. das
+Gravitationsfeld, wenn man denn von einem sprechen will, hat keine
+Dynamik, es breitet sich nicht aus, man kann es von vornherein
+eliminieren.
+
+Im Rahmen der Relativitätstheorie haben wir es mit endlichen
+Signalausbreitungsgeschwindigkeiten zwischen entfernten Objekten zu
+tun. Hier kann actio=reactio nicht einfach zwischen diesen Körpern
+gelten und somit sieht es auf den ersten Blick so aus, als müßte der
+Impulssatz aufgegeben werden. Das erweist sich aber als falsch, denn
+wir können die Kraftwirkung auf "echte" Felder zurückführen, d.h.
+bewegt sich eine Ladung, so ändert sich das elektromagnetische Feld bei
+einer anderen Ladung retardiert, und die Kraftwirkung der einen Ladung
+auf die andere Ladung folgt entsprechend retardiert nach dem
+Lorentzschen Kraftgesetz. Zwischendurch ist aber der
+Impulserhaltungssatz keineswegs zu irgendeinem Zeitpunkt verletzt, denn
+die em. Welle, die bei der beschleunigten Bewegung der Ladung
+ausgestrahlt wird besitzt genau den Impuls, damit die Impulsbilanz
+wieder richtig wird.
+
+Man kann den Spieß übrigens umkehren, und so wird heutzutage die
+E-Dynamik auch am einfachsten behandelt: Man bastelt sie sich aus
+Symmetrieprinzipien und der Beobachtung zusammen, daß das em. Feld ein
+masseloses Feld der Helizität 1 ist (beides äußerst präzise gemessen),
+so daß es ein Eichfeld ist. Das Prinzip der minimalen Kopplung
+angewandt, ergibt die Welchselwirkung mit der Materie.
+
+
+Du willst ja die Retardierung auf kurze Abstände messen, und das ist
+halt naturgemäß sehr schwierig. Das Experiment muß ja signifikante
+Abweichungen von der Retardierung zeigen, wenn Du die Maxwelltheorie
+widerlegen willst.
+
+-- 
+Philipp Fuhrman                        EBIN 
+Phone: +72 452/103-8595                 Universität Fernegierscheid 
+Fax:   +71 634/679-3286                 Jagenbergstraße 11 
+http://rzyakv.cuw.rw/~pwlxlxb/          D-10228 Fernegierscheid

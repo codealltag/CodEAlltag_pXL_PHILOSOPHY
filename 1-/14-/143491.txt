@@ -1,0 +1,34 @@
+Das sollte man respektieren, wenn jemand nur über Dinge reden
+möchte, von denen er etwas versteht. Wir sind hier ja in d.s.p.
+und nicht in d.s.m.
+
+
+Den Tip gebe ich zurück und empfehle dir insbesondere eine
+Überprüfung deines Verständnisses der folgenden Auszüge aus
+deiner Quelle (Hervorhebungen von mir):
+
+"Typically, a logic consists of a formal or informal language together
+with a deductive system and/or a model-theoretic semantics. *The
+language is, or corresponds to, a part of a natural language* like English
+or Greek. The deductive system is to capture, codify, or simply record
+which inferences are correct for the given language, and the semantics
+is to capture, codify, or record the meanings, or truth-conditions,
+or possible truth conditions, for at least part of the language."
+
+"Here we develop the basics of a formal language, or to be precise,
+a class of formal languages. Again, a formal language is a recursively
+defined set of strings on a fixed alphabet. Some aspects of the formal
+languages correspond to, or have counterparts in, natural languages like
+English. *Technically, this "counterpart relation" is not part of the formal
+development*, but I will mention it from time to time, to motivate some
+of the features and results."
+
+*Worüber* also spricht die formale Logik, wenn ihr größtenteils der
+*Inhalt* natürlicher Sprachen fehlt?
+
+
+Wer die Nase zu hoch trägt, guckt in die Luft.
+
+Größe
+
+Julian

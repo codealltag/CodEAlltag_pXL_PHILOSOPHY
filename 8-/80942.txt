@@ -1,0 +1,41 @@
+Wie schön, dass Du das auch schon erkannt hast! :-)
+- Hat nie jemand etwas anderes behauptet. (Anders formuliert: "der
+König" hat nichts zu verbergen, und will das auch gar nicht. :-)
+
+(Also 5 Jahre Logik-Studium braucht man dafür grad nicht. Aber ein
+bissl sollte es dann schon sein... :-)
+
+
+Durch Spezialisierung (traditionall würde man wohl von einem Schluss
+"vom Allgemeinen aufs Spezielle" sprechen) erhält man aus diesem Axiom
+z. B.:
+
+	A = B -> AF(F(A) <-> F(B))
+
+(wo "A" und "B" Terme bzw. Namen sind).
+
+Gilt nun
+
+	A = B ,
+
+so kann ich mittels Modus Ponens folgern:
+
+	AF(F(A) <-> F(B)).
+
+	"Für jede Eigenschaft F: F(A) gilt genau dann wenn F(B) gilt."
+
+
+2OL = Prädikatenlogik zweiter Stufe (second-order logic).
+
+Die "Standard-Logik" in der Mathematik ist nämlich üblicherweise die
+Prädikatenlogik erster Stufe (FOPL = first-order predicate logic),
+daher der Hinweis oben (darauf, dass man d a f � r eine 2OL braucht).
+
+
+A.
+
+
+--
+
+E-mail: 
+fnpkmp<rw>simple<bindestrich>line<punkt>de

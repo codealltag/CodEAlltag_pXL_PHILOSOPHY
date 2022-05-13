@@ -1,0 +1,43 @@
+Der Satz von Loewenheim und Skolem sagt etwas ueber die Maechtigkeit von
+erfuellbaren Ausdrucksmengen aus. Du selbst sprachst insbesondere von
+Theorien, was ja auch Ausdrucksmengen sind. Ich zitiere Dich nochmal:
+
+MK> Das abwärts-LST besagt, dass jede *einstufige* Theorie, die ein Modell
+MK> beliebiger unendlicher Kardinalität k besitzt, auch eines jeder
+MK> unendlichen Kardinalität k' besitzt, mit k' <= k.
+
+Mein Axiomensystem lautet nun: {a_i\neq a_j: i\neq j}. (*)
+Das sind ja ganz viele Axiome. Und ein Traeger (und das nun schon zum 4. Mal) 
+kann wohl nur ueberabzaehlbar sein.
+
+Der obige Satz von Dir ist auch nicht der LS-abwaerts. Schau ihn Dir doch
+mal genau an. Betrachte "..., auch eines jeder unendlichen Kardinalitaet...".
+Das heisst doch, dass es zu jeder unendlichen Kardinalitaet k'<=k so ein
+Modell gibt. Das ist ja gerade der Fehler, der Dich zu diesem falschen Schluss
+veranlasst:
+
+MK>Das "abwärts"-LST besagt, dass jede Theorie, die ein unendliches Modell,
+MK>gleich welcher Kardinalität, besitzt, auch immer mindestens ein abzählbares
+MK>Modell besitzt.
+
+Wenn also mit LS-abwaerts immer ein abzaehlbares Modell folgte und man dann
+noch LS-aufwaerts betrachten wuerde, dann koennte man die Saetze zu einem
+zusammenfassen und sagen, dass eine Theorie, die ueber einem unendlichen
+Menge erfuellbar sei, dann schon ueber jede unendliche Menge erfuellbar waere.
+
+(*) besteht nur aus Saetzen, und es gibt keine abzaehlbare Interpretation.
+
+
+Es handelt sich bei (*) um ein ueberabzaehlbares Axiomensystem und nicht um
+_ein_ Axiom. Stell Dir das Axiomensystem von LURT vor. Dort gibt es auch nicht
+_das_ Axiom der Aussonderung, sondern ein Schema von Aussonderungsaxiomen,
+nur das diese eben abzaehlbar sind.
+
+
+Unsinn! Lies ein Buch ueber Logik.
+
+
+Gruss
+
+Winfried.
+--

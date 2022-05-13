@@ -1,0 +1,67 @@
+Lise Fendesack wrote:
+
+[Vollständige Axiomatisierung vs. Entscheidbarkeit einer
+Theorie]
+
+
+Winfried Oberstehöhefeld schrieb:
+
+"Er [Kämpe] hat (im Prinzip) "nur" gezeigt,
+dass man zu jeder Menge von Axiomen und Ableitungsregeln eine Aussage
+konstruieren kann, die aus _diesen_ Axiomen mit _diesen_
+Ableitungsregeln weder
+bewiesen noch widerlegt werden kann. [...]
+[Walbrühl] dachte naemlich, mit einem geeigneten
+Axiomensystem und geeigneten Ableitungsregeln muesste es einen
+Algorithmus
+geben, der zu jeder Aussage entscheidet, ob sie wahr oder falsch ist."
+
+Er hat meiner Meinung nach eine richtige Kurzdarstellung gegeben.
+Kritisieren kann man hieran, dass unterstellt wird Walbrühl habe
+die *Absicht* gehabt, ein Entscheidungsverfahren für 
+mathematische Aussagen (ob eine Aussage - z.B. über die natürlichen
+Zahlen - wahr ist oder nicht) zu finden. Es stimmt aber, dass
+eine vollständige Axiomatisierung der natürlichen  Zahlen in einer
+'finiten' Sprache, in welcher es entscheidbar ist, ob eine gegebene
+Herleitung einer Aussage eine gültige Herleitung ist, genau darauf
+hinausgelaufen wäre. 
+
+
+Da behaupte ich einfach mal frech: Du bringst den Vollständigkeits
+und den Unvollständigkeitssatz durcheinander.
+
+Den Unvollständigkeitssatz (oder ein Korrollar davon) kann man
+formulieren als: Gegeben eine Sprache L mit Funktionsymbolen 0, s,
++, * und die Struktur (N,0,s,+,*) (die natürlichen Zahlen mit 
+Null, Nachfolgerfunktion, Addition und Multiplikation). 
+Dann ist die Menge der in dieser Struktur wahren
+Aussagen
+
+Th(N) := { F  e Fml(L) : N |= F }
+
+keine entscheidbare Teilmenge der Menge Fml(L) aller Aussagen über L. 
+Da Berechenbarkeit sinnvollerweise nur
+für Funktionen auf natürlichen Zahlen, bzw. etwas allgemeiner
+auf solchen Datenstrukturen wie sie in der Informatik vorkommen,
+definiert ist - oder in anderen Worten: man kann eine Turingmaschine
+nicht mit reellen Zahlen füttern, sondern hat in diesem Fall
+sogar ein endliches Alphabet - macht diese Behauptung für Sprachen
+mit überabzählbar vielen Funktionszeichen gar keinen Sinn.
+
+Der Vollständigkeitssatz hingegen macht auch für Sprachen mit
+überabzählbar vielen Symbolen Sinn. Es ist auch sinnvoll
+solche Sprachen zu betrachten, mit Modelltheorie kann man
+damit z.B. die Existenz diverser algebraischer Strukturen
+zeigen.
+
+Da Meinrad und du einen durchaus richtigen, das Problem
+gut darstellenden Beitrag unqualifiziert und unbegründet
+angegriffen habt, wird es wohl erlaubt sein, entsprechend
+zurückzuschlagen. Noch dazu, wo du ja eingentlich Ahnung von der
+Sache hast, und die Leute (ausser gewissen Postboten und anderen
+Randerscheinungen)  dir das glauben, was du sagst, mindestens
+wenn es mit Informatik zu tun hat.
+
+
+bis dann dann
+Igor

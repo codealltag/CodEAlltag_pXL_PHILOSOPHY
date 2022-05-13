@@ -1,0 +1,37 @@
+Hallo Tim,
+
+
+Dann betrachten wir doch noch einmal genauer Deine Argumentation.
+
+
+Die letzten beiden Aussagen sind allerdings keine Definitionen mehr.
+
+
+Und hier ist der Fehler: Diese Aussage gilt fuer die Vereinigung von
+endlich vielen Mengen N_k (Beweis z.B. durch Induktion), aber warum
+sollte sie auch fuer beliebige N_k, also insbesondere fuer unendlich
+viele richtig sein?
+
+
+Die Vereinigung aller N_k ist eben nicht schon eine der vereinigten
+Mengen, da Dein obiger Schluss fuer unendlich viele N_k falsch ist. 
+
+
+Die Frage ist damit ueberfluessig, denn natuerlich ist N die
+Vereinigungsmenge, auch wenn N kein Element der Folge der N_k ist.
+
+
+Warum sollte es ein solches N_k geben? Jedes N_k ist endlich, und es
+gibt immer noch ein groesseres. Es kann also gar kein "maximales" N_k
+geben!
+
+
+Um es noch einmal auf den Punkt zu bringen: Warum muss die Vereinigung
+der unendlich vielen N_k bereits eines der N_k sein? Fuer endliche
+Vereinigungen sehe ich ja einen Beweis, aber fuer unendliche?
+
+
+-- 
+
+Gruesse,                                        email: ifpqwej@kccgm.uil
+Waldemar              URL: http://zzh.qauzdanyq.isu/Mbarmnung/Temnqsd/3085

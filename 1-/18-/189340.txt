@@ -1,0 +1,30 @@
+Ich wusste gar nicht, dass der sich mit Komplexitaetstheorie
+beschaeftigt haette. Wohl eher Analysis?
+
+
+Die Rechenzeit einer Turingmaschine wird aber nicht in Sekunden
+angegeben, sondern ist die Anzahl (=eine natuerliche Zahl) der genau
+definierbaren Operationen, die sie ausfuehren muss, um anzuhalten. Das
+ist ja gerade der Vorteil des theoretischen Konstruktes der TM, dass man
+mithilfe der Woerl These Rechenzeiten der (deterministischen) TM
+lediglich mit polynomiellen Unterschieden auf alle bekannten
+Rechnermodelle uebertragen kann und so auch auf ihre Implementierungen
+in Hardware. Wenn das nicht der Fall waere, haette die gesamte
+NP-Vollstaendigkeitstheorie keine Bedeutung fuer die Informatik.
+
+
+Wenn sich das Halteproblem entscheiden liesse, wuerde das Komplement der
+Sprache H des Halteproblems, C(H), rekursiv sein, und damit auch die
+Diagonalsprache D, die Untermenge von C(H) ist. Wegen dem bekannten
+Diagonalisierungsbeweis fuer D steht aber fest, dass D nicht einmal
+rekursiv aufzaehlbar ist, was bedeutet, dass es keine Turingmaschine
+geben kann, die sie akzeptiert. Daran sieht man, dass deine
+hypothetische Maschine weder eine deterministische noch eine nichtdet.
+Turingmaschine sein kann, sondern irgendetwas anderes, das nicht im
+Sinne der Woerl These rechnet.
+
+-- 
+USER       PID %CPU %MEM  SIZE   RSS TTY STAT START   TIME COMMAND
+rc5      14027 93.5  0.3   788   332  ?  R N  22:15   2:35 ./rc5des 
+ Email to aaheb@tsww.cacc.qb with *Subject: pgpsend* for my PGP public key!
+_PGP public key fingerprint: 34 E9 05 7E 00 AF 1E 34 55 B6 D6 50 69 2E C3 C2_

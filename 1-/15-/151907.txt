@@ -1,0 +1,53 @@
+hm, schauen wir uns das nochmal genauer an:
+
+
+in einem Koordinatensystem gibt es nur einen einzigen Nullpunkt.
+
+
+sag mal, soll x nun ein bestimmter Punkt in diesem Koordinatensystem sein, 
+oder eine Funktion von einer Koordinate des Koordinatensystems?
+Wenn x ein Punkt ist, kann x nicht monoton stetig fallend sein. Wenn x eine 
+Funktion x(u) ist, wobei u eine Koordinate des Koordinatensystems ist, dann 
+kann x monoton stetig fallend sein, jedoch kann sich x dann nicht an einem 
+bestimmten Punkt, wie z.B. dem Nullpunkt befinden.
+
+
+ein Koordinatensystem hat nur einen einzigen Nullpunkt.
+
+
+also sind x, y und z Funktionen x(u), y(u), z(u)?
+Und was meinst du damit, daß alle drei Funktionen ins unendlich gehen?
+Da sie bei einem bestimmten u=u0  ins unendliche gehen?
+Also lim_{u -> u0} x(u) = lim_{u -> u0} y(u) = lim_{u -> u0} z(u) = oo?
+
+
+1) von welcher Funktion redest du jetzt?
+2) was ist der Beginn einer Funktion?
+
+
+nach dieser Zeichnung zu urteilen sind x, y und z Funktionen der (in 
+waagerechter Richtung aufgetragenen) Koordinate u, der Form
+
+x(u) = Ax*e^{-u}, y(u) = Ay*e^{-u}, z(u) = Az*e^{-u}
+
+wobei Ax, Ay und Az konstante Vorfaktoren sind, mit Ax > Ay > Az
+
+
+= lim_{u to -oo} e^{-x(u)} = lim_{u to -oo} e^{-Ax*e^{-u}}
+
+
+natürlich, wenn du x, y und z gleichzeitig gegen oo gehen läßt, dann 
+bekommst du trivialerweise x = oo, y = oo und z = oo.
+Wenn du dann außer acht läßt, daß man mit oo nicht rechnen kann, dann 
+kannst du daraus in der Tat x = y = z = oo ableiten.
+
+
+wenn du als Bedingung voraussetzt, daß zwischen x und y eine Differenz x-y 
+voneinander gegen oo gehen lassen. Es gibt dann zwischen x und y einen 
+Zusammenhang, so daß dann x als Funktion von y schreiben kannst, x(y).
+Und dann ist lim_{y to oo} (x(y) - y) > 0.
+
+Zwar ist lim_{y to oo} x(y) = oo und lim_{y to oo} y = oo, aber weil mit oo 
+nicht gerechnet werden darf, kann daraus eben nicht
+lim_{y to oo} (x(y)-y) = lim_{y to oo} x(y) - lim_{y to oo} y = oo - oo = 0
+abgeleitet werden.

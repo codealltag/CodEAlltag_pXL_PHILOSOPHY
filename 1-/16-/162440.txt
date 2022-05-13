@@ -1,0 +1,21 @@
+Hallo,
+
+hinreichend
+eine
+
+Ja, hier wird ein "Trick" benutzt ;). Und Du hast vollkommen recht mit Deiner 
+Bemerkung, daß P eine Antwort der Art "Wenn ich sage, daß P' anhält, dann hält 
+P' nicht an und umgekehrt" geben könnte. 
+Aber der Beweis wird dadurch nicht falsch und ohne einen Trick dieser Art kann 
+man die Unlösbarkeit des Halteproblems gar nicht beweisen, zumindest soweit mir 
+bekannt.
+Da das Halteproblem aber schon in einfachen Fällen unsäglich schwierig wird, 
+kann man sehr sicher sein, daß es auch nicht die Möglichkeit gibt, daß ein 
+Programm etwa "das Halteproblem in allen Fällen ausser den 'Trick-Fällen'" 
+löst.
+Ein Roboter dagegen könnte unter Umständen sogar in der Lage sein, das 
+Halteverhalten von P' sicher vorherzusagen, selbst wenn P sein eigenes Programm 
+ist.
+
+Größe,
+Waldemar.

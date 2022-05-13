@@ -1,0 +1,22 @@
+Stimmt, ich wollte mich nur auf die FINKEN beziehen. Naja, hab ich
+geschlampt.
+
+Das stimmt schon, aber A3 behauptet ja auch keine Eindeutigkeit,
+sondern nur Existenz. Da koennte es durchaus mehrere geben. Aber man
+kann das Ganze auch eindeutig machen, indem man nicht mehr von
+Funktionen, sondern von deren (Aequivalenz-)Klassen spricht. Als
+einzige Einschraenkung muss dann gelten, dass fuer alle Paare von
+Funktionen einer Klasse '=' erfuellt ist. Wenn man von der Bedeutung
+ausgeht, die man '<' und '=' fuer Funktionen gegeben hat, und diese
+Zeichen im Metasystem der Klassen rekonstruiert, dann waere die
+Interpretation von A1 etwa: Es gibt eine Klasse derart, dass ihre
+Funktionen zu allen Funktionen aller anderen Klassen in der Beziehung
+'<' stehen. Aber fuer das Axiomensystem ist das egal, hier ist die
+Bedeutung von '<' und '=' immer noch nicht eindeutig festgelegt.
+
+Ich sehe schon, dass ich mich hier auf Haaresbreite der Definition der
+natuerlichen Zahlen naehere, aber selbst das laesst mE noch nicht den
+Schluss zu, dass ich ueber natuerliche Zahlen rede.
+
+Gruss,
+Didier.

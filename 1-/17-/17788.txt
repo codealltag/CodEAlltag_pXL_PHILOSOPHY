@@ -1,0 +1,29 @@
+In der Wahrscheinlichkeitstheorie, die der entsprechenden Rechnung 
+zugrunde liegt, geht es um Ereignisse.
+
+Ein Ereignis im Sinne der Wahrscheinlichkeitstheorie ist eine Menge von 
+Ergebnissen eines Wahrscheinlichkeitsraumes.
+
+Geht es also um deine weißen Kugel, dann muss man sie identifizieren und 
+von anderen unterscheiden können. Dafür spielt die Identität überhaupt 
+keine Rolle.
+
+Beim Würfeln mit einem Würfel lautet der Ergebnisraum: Ω = 
+{1,2,3,4,5,6}. Diese Zahlen sind unterscheidbar. Wenn ich zweimal die 3 
+würfele, dann kommt es nicht auf die Identität der Dreien an, sondern 
+nur auf deren Unterscheidbarkeit von den anderen Ergebnissen der 
+Ergebnismenge.
+
+Statt der Zahlen könnten auch beispielsweise sechs verschiedene 
+Obstsorten auf dem Würfel abgebildet sein. Und wenn ich zwei Würfel 
+hätte mit leicht abweichenden Darstellungen von Äpfeln, Birnen oder 
+Pflaumen, dann würde das am Ergebnis auch nichts ändern. Und dies: weil 
+es einzig und allein um Unterscheidbarkeit geht, also um 
+Identifizierbarkeit (als Apfel, Birne, Pflaume etc.).
+
+Mit freundlichen Grüßen
+
+Mirko Ulf
+
+-- 
+http://vvn.qtnh.kz

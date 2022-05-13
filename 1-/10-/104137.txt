@@ -1,0 +1,12 @@
+1   (1) ~(P v ~P)            A
+2   (2) P                    A
+2   (3) P v ~P               vI
+1,2 (4) ~(P v ~P) & (P v ~P) &I
+1   (5) ~P                   2,4 RAA
+1   (6) P v ~P               vI
+1   (7) ~(P v ~P) & (P v ~P) &I
+     (8) ~~(P v ~P)           1,7 RAA
+     (9) P v ~P               8 DN
+Du host ja recht und wer recht hod, der zeud a Mass
+Gruß
+Noah

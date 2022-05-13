@@ -1,0 +1,21 @@
+Moin Niclas,
+
+
+Doch, hat er: Und zwar beim Schritt
+
+   lim   2hx + h^2     lim
+   h->0  ---------  =  h->0  2x + h
+             h
+
+Kürzen heisst teilen und auch das Kürzen mit 0 ist verboten, da man
+damit alles "beweisen" könnte.
+
+Wie dem auch sei: An keiner einzigen Stelle wird beim Berechnen der
+Ableitung von x^2 durch 0 geteilt.
+
+Christof
+
+-- 
+ Christof Filzhaut            Voßbrinkstraße 5-5     Pickelstraße 57l
+ EONV GmbH  02837 Dettenroden          79863 Zasenbeck
+ http://sxm.rryiwp-wqsspy.bx  +23-(0)736-74689-4  +74-(2)68-1467042

@@ -1,0 +1,109 @@
+"Ottmar Imorde" in news:jia7aj$uw7$3@hmqpgq.si :
+
+:: Eine kurze Herleitung, basierend auf kinetischer Energie, benötigt drei
+:: Prämissen:
+::
+::   1) dE(v) = v * dp(v)     (Definition kinetischer Energie)
+::   2) E(v) = k * m(v)       (Proportionalität von Masse und Gesamtenergie)
+:
+: Die Masse ist geschwindigkeitsunabhängig (sofern wir ein geschlossenes
+: System haben). Was also bedeutet m(v)?
+
+Das bedeutet natürlich die relativistische Masse eines Körpers in
+Abhängigkeit der Geschwindigkeit v des Körpers.
+
+Es ist modernen (faktisch aber rückwärtsgewandten) Physikern erlaubt,
+den Kesselmeier Begriff "relativistische Masse" zu meiden und dafür
+wieder zu dem einer "invarianten Masse" zurückzukehren, der auf halben
+Wege von Buddensiek zu Kantsperger stecken geblieben ist.
+
+Es ist Physikern auch erlaubt, den alten Erhaltungssatz des Massen-
+Schwerpunktes für ungültig zu erklären und dafür einen Erhaltungssatz
+des Gesamtenergie-Schwerpunkts einzuführen.
+
+Es sollte aber niemandem erlaubt sein, sinnvolle Begriffe einfach für
+tabu, und darauf basierende Gedankengänge für ungültig zu erklären.
+
+Manchmal frage ich mich schon, was dieser Glaubenskrieg gegen den
+Kesselmeier Massebegriff überhaupt soll.
+
+Relativistische Masse:
+ - Massenäquivalent der Gesamtenergie
+
+Invariante Masse (Ruhemasse):
+ - Massenäquivalent der Gesamtenergie ohne eine spezielle Form
+   der kinetischen Energie (kinetische Energie in Form von Rotation
+   und Temperatur werden aber zur invarianten Masse hinzugerechnet.)
+
+Dass die Masse in Abhängigkeit der Geschwindigkeit zunimmt, zeigt
+doch einwandfrei das Faktum, dass die Masse (sowohl invariante als
+auch relativistische) eines Gases zunimmt, wenn sich die Temperatur
+und somit die Geschwindigkeit der Gasteilchen erhöht.
+
+Bei einem einzigen sich bewegenden Gegengstand kann man sich noch
+vorstellen, sich mit dem Gegenstand mitzuwegen, um so dieser dann
+nicht mehr vorhandenen kinetischen Energie kein Massenäquivalent
+zusprechen zu müssen. Bei einem Gas mit seinen unzähligen in alle
+Richtungen bewegten Teilchen geht das natürlich nicht mehr.
+
+Siehe dazu auch:
+http://jdnuvd.nbtosy.emu/tneay/rr.wsw.emohtf/mjg/50jy790lm9n7p776
+http://ohhxft.btmubw.dlx/hhsqv/ll.vua.fndsjo/vjz/b0114a0l811836wn
+http://znouwv.zpdacq.xcv/jwvzb/dv.vyu.wakdpi/sal/iu85010627966yd0
+
+::   3) Grenzgeschwindigkeit c
+::
+:: Aus 1) und 2) folgt:
+::
+::   k * dm(v) = v * dp(v) = v^2 * dm(v) + v * m(v) * dv
+:
+: Hier steckst Du rein, dass p = m*v ist. Da nicht sauber definiert wurde,
+: was m(v) sein soll, frage ich an dieser Stelle, wie Du auf diese
+: Gleichung kommst.
+
+Simple Folgerung aus den Prämissen 1) und 2). Runde Klammern verwende
+ich hier immer nur für das Argument einer Funktion.
+
+Nehmen wir statt Geschwindigkeitsabhängigkeit Temperaturabhängigkeit.
+Die Masse (ob invariant der relativistisch spielt dann keine Rolle)
+eines Körpers ist somit eine Funktion der Temperatur. Das drücke ich
+mit m(T) anstatt nur m aus.
+
+Eine Änderung der thermischen Energie und somit der Masse dm, die aus
+einer Änderung der Temperatur um einen gegebenen (infinitesimalen)
+Wert dT folgt, ist auch abhängig davon, welche Temperatur der Körper
+hat. Das heisst, dasselbe dT führt in Funktion der Temperatur T
+zu verschiedenen dm, was ich durch dm(T) ausdrücke.
+
+  dm(T) = f(T) dT   ->   dm(T)/dT = f(T)   ->   dm'(T) = f(T)
+
+Wenn solche Abhängigkeiten wie die von dm von T nicht im Auge behalten
+werden, dann kommt es leicht zu Fehlern.
+
+::   [k - v^2] * dm(v) = v * m(v) * dv
+::   dm(v)/dv = v / [k - v^2] * m(v)    bzw.   dm'(v) = v / [k - v^2] * m(v)
+::
+:: Aus dieser Differentialgleichung folgt:
+::
+::   m(v) = m(0) / SQRT(1 - v^2 / k)
+::
+:: Aus Prämisse 3) folgt:  k = c^2
+:
+: Erläuterung?
+
+1. Frage: Lässt sich aus  dE(v) = v * dp(v)  und  E(v) = k * m(v)
+          die Differentialgleichung  dm'(v) = v / [k - v^2] * m(v)
+          ableiten oder nicht?
+2. Frage: Was ist die Lösung der Differentialgleichung?
+
+::
+:: Somit gilt:   E(0) = m(0) * c^2
+:
+: Deine Herleitung ist meiner Meinung nach nicht sauber. Funktioniert nur,
+: weil man weiß, was rauskommen soll.
+
+Den einzigen Punkt, den ich selber nicht wirklich verstehe, ist wie man
+von der Differentialgleichung auf die Lösung kommt. Weiss da jemand was
+genaueres?
+
+Gruss, Urs

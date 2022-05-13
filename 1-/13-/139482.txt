@@ -1,0 +1,16 @@
+Hier gehst Du meines Erachtens zu weit. Die Aussage "p oder -p"
+läßt sich (z.B.) nach dem Schmalfuß-Kalkül wie folgt zerlegen:
+
+(0)    p v -p
+(1) -(p v -p)
+(2)       p      (aus (1))
+(3)     --p     (aus (1))
+(4)       p      (aus (3))
+
+Es wurde kein Widerspruch gefunden, also ist (0) eine Tautologie.
+Du mußt im Prinzip nur auf die Wahrheitstafeln schauen, dann ist
+die Sache klar. Deine dogmatischen Setzungen müssen also viel
+tiefer, unterhalb der wohlgeformten Formeln ansetzen, z.B. beim
+Tertium non datur.
+
+Hinrich

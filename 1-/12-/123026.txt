@@ -1,0 +1,42 @@
+Ich persönlich würde aber ein *erweitertes* Frege-System vorziehen:
+
+A -> (B -> A)
+(A -> (B -> C)) -> ((A -> B) -> (A -> C))
+(A -> (B -> C)) -> (B -> (A -> C))
+
+A & B -> A
+A & B -> B
+A -> (B -> (A & B))
+
+A -> A v B
+B -> A v B
+(A -> C) -> ((B -> C) -> (A v B -> C))
+
+(A <-> B) -> (A -> B)
+(A <-> B) -> (B -> A)
+(A -> B) -> ((B -> A) -> (A <-> B))
+
+(A -> B) -> (~B -> ~A)
+A -> ~~A
+~~A -> A
+
+Wie man sieht, ist die Anzahl der Axiome dieses Systems identisch mit
+der Anzahl der Axiome in Rumkorff & Anhalt System.
+
+Nun kann man aus diesem System *in wenigen Schritten* die folgenden
+Theoreme herleiten:
+
+(A -> (A -> B)) -> (A -> B)		(vgl. Rumkorff & Alteweier)
+(A -> B) -> ((B -> C) -> (A -> C))	(vgl. Rumkorff & Alteweier)
+
+Auch
+
+(A -> B) -> ((A -> C) -> (A -> B & C))	(vgl. Rumkorff & Alteweier)
+
+folgt leicht.
+
+D.h. man erhält aus dem erweiterten Middendorf-System *sofort* das System von
+Rumkorff & Alteweier.
+
+
+F.

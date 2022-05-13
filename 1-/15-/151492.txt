@@ -1,0 +1,81 @@
+Nun ich dachte, irgendwer würde mir nachweisen, das die Aufgabenstellun=
+g
+auch die Lösung 4 und -4 enthalten müsste. Nun ist für mich erwiese=
+n,
+das die 0 in der Mathematik oder auch beim Programmieren gar nicht wahr
+genommen wird. Hier in diesem Forum wurde die Frage gestellt, "Was ist
+Mathematik?" =
+
+Mathematik ist das vernünftige Ablehnen, dass man nicht rechnen kann.
+Die Beispiel Aufgabenstellung:
+Es ist ein Apfel, es sind drei Menchen.
+"sinnvolle Lösung" "der Aufteilung des Apfels" "auf die
+drei Menschen"
+
+hätte auch auch lauten können : c , a  , 3b
+
+Um damit überhaupt etwas anfangen zu können, muss der Rechnende etwas=
+
+tun. Tut er es nicht, dann bleibt einfach ein 3abc. =
+
+
+Wenn ich jetzt sage, das sind 4 Elemente, dann habe ich bereits
+gerechnet.
+
+3abc =3D 4 Elemente beinhaltet die Rechnungen 3 =3D 1, a =3D 1, b =3D 1 ,=
+ c =3D 1
+und 1 + 1 + 1 + 1 =3D 4
+
+c wurde formuliert als "sinnvolle Lösung", was wir trennen können in
+sinnvoll und Lösung.
+Also war der allererste Schritt anzunehmen, man kann was sinnvolles
+damit tun.
+4 Elemente anzunehmen ist was sinnvolles. Dieses setzen von 1 und die
+darauffolgende Aussage:
+3abc sind 4 Elemente, wird also bei der Interpretation der Aufgabe von
+Dir und vielen anderen einfach übersehen. Es wird von Dir sogar
+bestritten, das 4 sinnvoll ist, obwohl Du es selbstverständlich getan
+hast ohne darüber nachzudenken. 3 =3D 1 ist offensichtlich unsinnig,
+deswegen wird es auch gleich wieder verworfen
+denn du erkennst sofort die Verküpfung von 3 und b welches auch mit b +=
+
+b + b geschrieben werden kann
+b + b + b =3D 3. In diesem Moment reduzierst Du die Anzahl der
+unterschiedlichen Element um -1 auf
+b + b + b , a , c
+c wird weiterhin interpretiert als Lösung, die beinhaltet, dass es das
+Gesuchte ist und wird von Dir nicht als Element gesehen. Auch hier wird
+unbewusst ein Rechenschritt unternommen mit c =3D 0 Element. =
+
+Wir erhalten 4 Elemente b,b,b,a und c 0
+b+b+b+a=3D0
+a ist nun die Aufteilung des Apfels, dieses ist nun eine von Dir
+interpretierte Rechenoperation.
+Teilung und a
+a/b+b+b=3D0
+Da du das Element 3 brauchst um überhaupt etwas sinnvolles damit
+anfangen zu können setzt du die Element holst Du Dir die 3 wieder zurü=
+ck
+a/3b=3D0
+Dabei setzt du aber auch wieder die 1 ein.
+1a/3b=3Dc
+die von Dir ermittelte Lösung ist dabei dann c=3D1/3
+a und b lässt Du weil Du es dir nicht zu kompliziert machen willst
+einfach unter den Tisch fallen, als seien sie in der Aufgabenstellung
+nie gestanden.
+Nun ich akzeptiere die Lösungsm=F6glichkeit den Apfel zu zerschneiden,
+denn ich weiss, dass dies pragmatisch machbar ist, aber es ist nicht die
+einzige Lösungsm=F6glichkeit. Oder wie Friedrich schrieb, ich könnte =
+ja
+einfach auch 2 Menschen erschiessen, wobei die für mich sympatischere
+Lösungsm=F6glichkeit 2 weitere Äpfel zu kaufen jedenfalls besser ist.=
+ Also
+rechne ich einfach mal weiter, in dem ich a und b nicht unter den Tisch
+fallen lasse. =
+
+Dein Programm tut das nicht und stellt insofern eine inkomplette Lösung=
+
+des Problems dar. Die Aufgabe wurde nicht vollständig gelöst.
+
+Gruss
+Ivan

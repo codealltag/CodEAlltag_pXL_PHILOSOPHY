@@ -1,0 +1,39 @@
+Hallo Theodor,
+
+Theodor Wiesegger <edvlit_iklwheyxfuj@ienm.pfzcyrmn.zo> schrieb im Beitrag
+<37IEX22X.X1970594@ytcl.ojlnggsb.ny>...
+
+<usw>
+
+datur
+
+
+Intuitionistische Logik tritt zum Beispiel auch als interne Logik bei
+Topoi auf. Ein Topos ist ja eine Kategorie mit allen endlichen Limites
+und Kolimites, die Exponentiation und einen Unterobjekt- Klassifikator
+hat, aber seiner Logik fehlt eben das "tertium non datur".
+
+Das Transferprinzip (Alle Theoreme der Mengenlehre beweisbar
+in der Sprache der freien Topoi sind unter geeigneter Interpretation
+in jedem Topos wahr) wird sehr schön beschrieben in Nick Böncke,
+The Logical Foundations of Mathematics, Junkersmitteldeich, 1981.
+Leseprobe Kap 8.12:
+
+"[The transfer principle] enables us to transfer wholesale certain known
+theorems of set theory to toposes. Since the logic of topos theory is
+intuitionistic, it also gives precise content to the vague feeling of many
+mathematicians that "to prove something constructively is to prove
+more". Moreover, the transfer principle continues to hold for the
+appropriate class of toposes when we add other data to a topos such
+as a natural number object. Generally speaking, if a theorem is provable
+in set theory without using the law of the excluded middle (the intuitionistic
+restriction) and without using the axiom of choice (which forces the topos
+to be Boolean and therefore structurally similar to the category of sets)
+it is true in any topos, thus in such categories as pre-sheaves over any
+small category and sheaves over any topological space."
+
+<usw>
+
+Gruß
+
+Paolo

@@ -1,0 +1,104 @@
+Hallo Didier!
+
+FS> 1. Wir haben keinen Taktgeber. Dadurch ist auch Enfor mation im
+FS>    Sinne binärer Informationsverarbeitung nicht definiert.
+
+Kannst Du mal kurz sagen, was "Enformation" ist? (Heith?)
+Ansonsten gibt es auch Computer ohne Taktgeber (asynchrone
+Digitalrechner, Analogrechner u.a.); ein Taktgeber ist AFAIK nicht
+Voraussetzung fuer "klassische" binaere Informationsverarbeitung.
+
+Davon abgesehen, haben wir Taktgeber: der Tagesrhythmus ist einer
+davon. 
+
+FS> 2. Wir versuchen, uns unsere Zeit selber zu geben. Dabei haben
+FS>    auch diese Zeitgeber-Systeme ihre Eigenzeiten.
+
+Huch? Ich dachte, dass eine der grundlegenden Eigenschaften eines
+"Zeitgebers" die Existenz einer charakteristischen Eigenzeit ist: Ein
+Erdentag hat als "Eigenzeit" eben die Dauer von 24 Stunden; nur diese
+ihm eigene Zeit mach ihn als "Zeitgeber" tauglich.
+
+FS> 3. Bekommt unsere Software einen anderen Körpei so erhält sie
+FS>    auch eine andere Zeit. Unsere Kohlenstoffeigenschaften geben
+FS>    uns ganz bestimmte Zeitcharakteristiken.
+
+Halte ich fuer sehr gewagt: Es gibt ja Experimente, Menschen durch
+Aenderungen der aeusseren Einfluesse einen anderen Tagesablauf zu
+geben - und zwar (in Grenzen) erfolgreich; bei veraenderten
+Bedingungen kann dann ein (gefuehlsmaessiger) Tag z.B. 25 Stunden lang
+sein. Offensichtlich sind es nicht die Kohlenstoffeigenschaften, die
+eine bestimmte Zeitcharakteristik ergeben, sondern aeussere Einfluesse.
+
+FS> 4. Da uns eine universale Zeit fehlt, mangelt es uns auch an einer
+FS> universellen informationellen Deutung unserer Hirnt�rigkeit.
+
+Wuerde so sein, wenn 
+1. Informationsverarbeitung prinzipiell nur mit Zeitgeber deutbar ist
+2. uns jede Art von "universeller" (im Sinne von aeusserer) Zeit
+   fehlt
+
+Da beides nicht der Fall ist, ist die These IMO falsch.
+
+FS> 6. Das Gehirn verringert seine Nervenzellzahl und gelangt dadurch
+FS>    zu besseren Leistungen. Beim Computer gibt es eine derartige
+FS>    Kastration nicht.
+
+Moderne Programmiersprachen besitzen eine "Garbage-Collection": das
+ist ein Prozess, der staendig nach Objekten ("Nevernzellen" wenn man
+so will) sucht und diese eliminiert. Damit wird die Komplexitaet des
+Problems verringert, unnoetige Operationen vermieden und die Leistung
+verbessert. 
+
+Also ist 6. nicht belegbar.
+
+FS> 7. Durch die Diffusion von Gasen (u. a. Stickstoffoxyd) werden im
+FS>    Gehirn räumliche Prinzipien der Benachbartheit
+FS>    wirksam. Derartiges findet sich im Computer nicht.
+
+Transputer sind spezielle Mikroprozessoren, die mit jeweils (z.B.) 4
+Verbindungen mit ihren Nachbarn (und nur mit diesen) verbunden
+sind. In einer Transputerfarm gibt es also sehr wohl Prinzipien der
+raeumlichen Benachbartheit, womit 7. falsch ist.
+
+FS> Die Diffusion von Gasen zur Signalverarbeitung im Nervensystem
+FS> eröffnet mit ihrem kontinuierlichen Aspekt den konkreten
+FS> physikalischen Raum für die Interpretation mentaler
+FS> Ereignisse.
+
+Und warum sollte das in einem Computer nicht modellierbar sein?
+
+FS> Bisher mußte man immer noch mit der auf einen Dualismus
+FS> rekurrieren den These arbeiten, daß Kontinuitäten im Mentalen
+FS> durch aus mit Diskontinuitäten im Neuronalen verbunden sein
+FS> konnten.
+
+Koennte es nicht sein, dass "mentale Befindlichkeiten" nur
+naeherungsweise kontinuierlich sind, in Wirklichkeit aber nur ueber
+sehr feingestufte diskrete Werte verfuegt?
+
+FS> Neurophysiologisch gesehen, ware die herausragende Stellung der
+FS> Kugel-Wahrnehmung nicht einfach sekundär aufgrund der
+FS> geometrischen Besonderheit und Vollkommenheit, sondern weil sie
+FS> ihr Diffusionskorrelat in der neuronalen Bearbeitung hat.
+
+Da scheitert mein Verstaendnis: Selbst *wenn* die (von mir geloeschte)
+Herleitung der Besonderheit der Kugel bei der Diffusion innerhalb des
+Nervensystems korrekt ist: wie kann man dann von da auf die
+makroskopische Wahrnemung der Kugel schliessen?
+
+FS> (Ingo Unterhalt: Backmunds Doppelgänger. Das Gehirn und sein Ich.
+FS> Junkersmitteldeich. ISBN 8 048 69711 5. Seiten 85ff)
+
+Um ehrlich zu sein, ich finde die zitierten Thesen ziemlich naiv,
+trotz der zugeordneten ISBN. 
+
+Na, wahrscheinlich habe ich von dieser Materie ueberhaupt keine Ahnung
+und sehe das zu primitiv ...
+
+Tschuessi
+
+Kai
+
+-- 
+Support the ban of Dihydrogen Monoxide: http://qtl.hbhc.mnb/

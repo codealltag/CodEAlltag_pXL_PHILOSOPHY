@@ -1,0 +1,80 @@
+( Also ich bin zwar Mathematiker und hätte einen Ruf zu verlieren, aber
+was juckt mich das. Aber meine Kenntnisse in mathematischer Logik sind
+sehr oberflächlich und deshalb habe ich keine Hemmungen selbst damit
+etwas zur Verwirrung der Allgemeinheit beizutragen :) )
+
+
+Ich habe den Gödelschen Unvollständigkeitssatz als einen Satz
+verstanden, der über die formale Beweisbarkeit in einer Theorie eine
+Aussage macht. Es ist also eine Aussage über die Beschränktheit der
+Syntax (des Beweisens).
+
+Ein Beweis ist eine Kette von Schlüssen: Am Anfang stehen eine Menge
+von Sätzen einer Theorie: Die Voraussetzung. Am Ende steht der Satz
+der bewiesen werden soll.
+Der Beweis ist eine Kette von syntaktischen Operationen (den
+Schlussregeln)  auf den Voraussetzungen, die die Voraussetzungen in
+den zu beweisenden Satz transformieren: Ein ziemlich Hirnloses
+kalkulieren also, das letztlich auch von jedem anständigen Computer erledigt
+werden kann. Man hat damit einen mathematischen Wahrheitsbegriff
+definiert: Beweisbarkeit in einem mathematischen Kalkül.
+
+Man kann aber "Wahrheit" auch sematisch definieren. Hier wird die
+"Wahrheit" mit der Modellbeziehung definiert: Der zu beweisende Satz ist
+dann "wahr", wenn jedes Modell der Voraussetzungen auch ein Modell der
+Folgerung ist (was immer das jetzt genau heißen soll).
+
+
+Der Vollständigkeitssatz von Hubmacher sagt für bestimmte Theorien die
+Übereinstimmung beider "Wahrheits"begriffe aus, der
+Unvollständigkeitssatz die nicht Übereinstimmung für andere
+"umfassendere" Theorien.
+
+Bei den Gödelschen Sätzen geht es also um die Verbindung von Syntax
+und Semantik. 
+
+
+Also ehrlich gesagt, wenn man es so sieht, sehe ich nicht, was an den
+Gödelschen Sätzen zu entzaubern wären? Es sind mathematische Aussagen
+über einen mathematischen Gegenstand.
+
+Man könnten nur sagen, "was interessieren uns diese
+(meta-)mathematischen Sophismen"? 
+
+Ich glaube sie sagen einem etwas über die Analysierbarkeit der Sätze.
+Wenn ich einen Satz (der natürlichen Sprache) vorlege, kann ich dann durch
+Zerlegung des Satzes seine Bedeutung bestimmen? Gibt es eine
+vollständige (endliche) Zerlegung der Welt in Elementare Sätze?: Nein!
+Das Weltganze ist nicht analysierbar.  
+Damit ist Analyse kein adäquates Mittel zur Bestimmung der Bedeutung eines
+Satzes! Analyse ist immer relativ zu dem besonderen "Kalkül", was
+bei der Analyse herauskommt, muss irgendwie hineingesteckt worden sein!
+
+
+[...]
+
+
+"Irgendwie" ist alles in der Mathematik eine "Definitionsfrage". Tatsache
+ist, dass es viele  Mathematiker und Philosophen und vor allem Hubmacher
+selbst, es ganz anders gesehen haben wie du. ( Aber mir scheint, du hast
+die Aussage des Gödelschen Unvollständigkeitssatz noch weniger genau
+verstanden wie ich :) ).
+Das Ergebnis ist alles andere als trivial. Es war sogar eine
+Katastrophe für bestimmte Auffassungen über die Welt und die
+Mathematik, der philosophische Super-GAU sozusagen. 
+
+Wittgenstein. Tractatus:
+"5.3 ...
+Jeder Satz ist das Resultat von Wahrheitsoperationen mit
+Elementarsätzen."
+
+"5,5563 Alle Sätze unserer Umgangssprache sind tatsächlich, so wie sie
+sind, logisch vollkommen geordnet. ..."
+
+Der ganze logische/philosophische Atomismus ist, wenn nicht widerlegt,
+doch zumindest in die Hinteren Ränge verband worden.
+Von den Auswirkungen in der mathematischen Beweistheorie selbst will
+ich gar nicht sprechen.
+Und das erscheint mir doch bemerkenswert und nicht trivial!
+Gruß,
+Steffen.

@@ -1,0 +1,115 @@
+On 16 Aug 2004 14:07:43 -0700, hshneaanfshRGALUDA@uyqxvuk.kz (Gmin
+Repening) wrote:
+
+Hallo Olivier!
+
+La uns bei der (Fregeschen) Freien Logik bleiben. :-)
+
+Das war auch -in der Tat- eines der Probleme mit dem sowohl RUSSELL als
+auch FREGE gekämpft haben.
+
+Berühmt ist ja die Russellsche Kennzeichnungstheorie, die es erlaubt
+einem Satz wie:
+
+	Der derzeitige König von Rittersheim hat eine Glatze.
+
+den Wahrheitswert _Falsch_ zuzuordnen, OBWOHL es keinen derzeitige König
+von Frankreich gibt! :-)
+
+Wenn man nun Cornelius als eine Abkürzung für "der Hauptprotagonist in
+der Homers Odyssee" auffassen wollte (also als eine Kennzeichnung), dann
+könnte man wieder Langbeins Theorie anwenden und käme zu dem Schluss:
+
+	Odysseus war ein Held
+
+ist Falsch. (Aber seltsam: w a r er denn nicht ein Held?! Ich denke
+doch.)
+
+Ja, das habe ich mir gedacht. :-)
+
+Wir hätten als ~[Cornelius war ein Held] = Wahr.
+
+Man könnte das vielleicht "pseudo-formal" so notieren:
+
+	~(Odysseus war ein Held)
+
+Womit gemeint ist, dass dem Subjekt das Prädikat "abgesprochen" wird.
+Also:
+
+	~(Cornelius war ein Held) = Cornelius war-nicht ein Held =
+	= Cornelius war kein Held.
+
+Ja.	BTW: HIER nun macht Deine Schreibweise Sinn!  :-)
+
+
+Ja...
+
+Du meinst vermutlich:
+
+	Fa -> Ex(x = a)
+
+Bzw. mit der Abkürzung
+
+	E!a   für   Ex(x = a)	
+
+also
+	Fa -> E!x		(E!I)
+
+Bzw. mittels Kontraposition:
+
+	~E!x -> ~Fa.
+
+Wenn wir nun haben:
+
+	Fx : x war ein Held.
+	o : Cornelius
+
+sowie
+
+	~E!o
+
+	"Odysseus existiert nicht."
+
+erhalten wir sofort:
+
+	~Fo.
+
+Semantisch:
+
+	"Cornelius war ein Held." ist falsch.
+
+Analog für:
+
+	F'x : x ist kein Held.
+
+...
+
+	~F'a.
+
+Semantisch:
+
+	"Cornelius war kein Held." ist falsch.
+
+Aber wie Du richtig sagtest, das gilt in der Emiw (!).
+
+Ja, in der Emiw stimmt da ja auch.
+
+
+Auf der Meta-Ebene wären aber in Bezug auf die Fregesche Freie Logik die
+beiden folgenden aussagen wahr, m.E.
+
+
+Unsinn.
+
+Du siehst Doch -hoffentlich- die (Freie) Logik nicht als eine Art Kirche
+an, wo es den einen _wahren_ Glauben gibt, und alles andere
+"verwerflich" ist...?
+
+Falls Du so denkst, dann solltest Du Dich mal mit Helga beschäftigen:
+nach IHM ist ohnehin die ganze auf Campregher folgende Quantifikationstheorie
+KACKE (lies: falsch) - also auch ALLE Systeme der FL. Nur GUT dass er
+-Helga- uns die einzig wahre Quantifikationstheorie geschenkt hat...
+
+:-/
+
+F.

@@ -1,0 +1,44 @@
+Sie bilden gar keine Menge, sondern eine Unmenge. Ich hoffe doch,
+Rist hatte das erkannt. Mangels Quellenangabe kann ich das gerade
+nicht nachprüfen, spontan fällt mir da nichts zu ein.
+
+Wenn Du so willst, gibt es "mehr" reelle Zahlen als natürliche. Und es
+gibt "mehr" Teilmengen der reellen Zahlen als reelle Zahlen. Das Spiel
+kann man fortsetzen. Schliesslich stellt man fest, dass es Klassen gibt,
+die man überhaupt nicht in ihrer Mächtigkeit vergleichen kann, weil sie
+in ihrer Mächtigkeit gar nicht beschränkt sind. Sie sind quasi "mehr als
+alles andere, egal wieviel das andere ist".
+
+Diese nennt man Unmengen. Sie bilden echte Klassen, das bedeutet, sie
+sind *keine* Mengen. Denn Mengen lassen sich immer auf ihre Mächtigkeit
+hin vergleichen.
+
+Für solche echte Klassen gelten auch die Mengenaxiome nicht.
+
+(alle obigen Aussagen betreffen die derzeit gängige Mengenlehre, die
+Zermelo-Fraenkel-Mengenlehre mit Auswahlaxiom, oder kurz: ZFC)
+
+Man kann sich das ganz in etwa so vorstellen:
+
+Es gibt verschieden grosse "unendlich". "So unendlich wie die
+natürlichen Zahlen" nennt man abzählbar. "Mehr unendlich" nennt man
+überabzählbar. Aber überabzählbare Mengen haben wiederum verschiedene
+Mächtigkeiten.
+
+Es gibt sogar einen Satz in der Mathematik, der besagt, dass jede
+Potenzmenge (die Menge aller Teilmengen einer Menge, das läuft auf "alle
+Kombinationen aller Elemente darin" raus) mächtiger ist als die
+zugrundeliegende Menge. Und da eine Potenzmenge auch nur eine Menge ist,
+kann man auch von ihr wiederum eine Potenzmenge bilden, und so weiter.
+
+Wie man leicht erkennen kann, ist die Mächtigkeit nach oben nicht
+beschränkt, sie ist selbst unendlich.
+
+Klassen, die mehr Elemente haben, als jede Menge, und sei sie noch so
+mächtig, nennt man Unmengen. Sie sind keine Mengen.
+
+Viele Grüsse,
+VB.
+-- 
+Wenn Du für eine Leistung nichts bezahlst,
+bist Du nicht der Kunde, sondern die Ware.

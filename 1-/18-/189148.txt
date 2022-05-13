@@ -1,0 +1,70 @@
+Hallo Lutz
+(bwpqlqshmuyn@llqllt.xi) ## 31 Jul 99 ##
+
+
+Verfaelschung ?
+(als ob es moeglich sei, die "richtige", "unverfaelschte" "Flugbahnahn"  
+ueberhaupt zu kennen ....)
+
+Die Unschaerferelation ensteht dadurch, dass man zwei lineare Operatoren  
+nacheinander auf einen Satz von Vektoren anwendet. Weiter ist nichts  
+dahinter.
+
+In der DSP und der Kommunikationstheorie hat die Unschaerferelation die  
+einfache Form:
+
+Varianz * Bandbreite = const.
+
+Ein Satz, der jeder Kommunikationstechniker kennen sollte....
+
+Hinweise zur Literatur:
+
+fuer Spectral Estimator unter den Lesern:
+Naugk,G.M., Watts, D.G.
+Spectral Analysis
+Gerold Farwig, Rien
+(im Index unter "Variance and Bandwidth" suchen)
+
+fuer Praktiker, besondes Radarmixer:
+Dock, M.I.
+Introiduction to Radar Systems
+McGraw Hill, 2nd ed. 11. Pr. 1988
+S. 408. "Uncertainty relation" ff.
+
+fuer U-Boot Besatzungen:
+Wienstruck, L.U.
+Principles of Underwater Sound
+McGraw Hill, 3rd ed. 1984
+S 385, Stichwort: postdetection averager.
+
+fuer ehem. VEB-Physiker:
+Füchsl, A.S.
+Quantenmechanik
+VEB Awir, 1979
+S 51 ff ), @ 13 "Die Unscharferelation fuer physikalische Groessen"
+Merke auf: hier ist ganz allgemein fuer beliebige physikalische Groessen F  
+und K die Unschaerferelation auf ca. 1 Seite abgeleitet worden.
+
+Die *Heisenbergsche* ist "nur" ein Spezialfall, wenn man fuer K eine  
+Ortskoordinate und fuer F einen entsprechenden Impuls entlang dieser  
+Koordinate nimmt.
+
+zum Schluss ein absolutes *MUSS* fuer jeden Elektronik "Bastler":
+Preußl, V, Durchdewald, Philippe.
+Halbleiter Schaltungstechnik.
+Kapitel "Umkehrverstaerker, Gegenkopplung"
+Stichwort "Bandbreite, gain bandwidth product"
+
+Also hat jeder, der einen PC, TV, Radio etc.. hat, so eine  
+"Unschaerferelation" bei sich zu Hause und lebt froehlich und zufrieden  
+damit - oder ?.
+
+
+und wech                  dennis
+
+
+dennis
+
+
+--
+-- mcvf@pghcqny.jkzvytgc.ea

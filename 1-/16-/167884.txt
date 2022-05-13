@@ -1,0 +1,36 @@
+Louis Armbrustmacher <wdf.aipxhze@vinapde.gr> schrieb... 
+
+[...]
+
+Die Frage, ob ein Mathematiker von der "vorbehaltlichen Wahrheit eines
+Satzes bei einer Vermutung ausgeht" , ist für die Frage des Status'
+von "Vermutungen" in der Math. erst einmal unerheblich. Für
+"Vermutungen" gilt:
+
+(1) Sie sind unbewiesen und unwiderlegt.
+(2) Es gibt "Gründe", die für ihre Wahrheit sprechen.
+(3) Sie fomulieren ein "math. interessantes" Problem.
+
+Ein Mathematiker kann sie für wahr halten, sie "neutral" erwägen, oder
+sie gar für falsch halten.(neben anderen prop. Einstellungen)
+
+Ein Beispiel (aus Buchmeier: "Algebraische Zahlentheorie" über die
+Riemannsche Zetafunktion):
+
+"[...]
+ Die anderen Nullstellen müssen wegen zeta(s)!=0 für Re(s)>1 sämtlich
+im _kritischen Streifen_ 0<=Re(s)<=1 liegen. über sie besteht die
+berühmte, noch immer unbewiesene  
+
+_Riemannsche Vermutung_: Die nichtrivialen Nullstellen von zeta(s)
+liegen auf der Geraden Re(s)=1/2.
+
+Man hat diese Vermutung für 150 Millionen Nullstellen verifiziert. Sie
+hat eine unmittelbare Auswirkung auf die Frage nach der Verteilung der
+Primzahlen über alle natürlichen Zahlen. [...]"
+
+
+harm
+-- 
+Wovon man nicht sprechen kann, darüber muß man
+schweigen. (Wittgenstein, Tractatus)

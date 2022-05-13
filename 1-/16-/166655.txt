@@ -1,0 +1,22 @@
+On 8 Apr 2000 16:42:28 GMT, xrlq@gvjbtdw.as wrote:
+
+[...]
+
+Eine "rekursive Definition" ist deshalb problematisch, weil i.A.
+unklar ist, inwiefern die Rekursionsformel tatsächlich etwas
+definiert. (dahinter muss so etwas wie ein "Rekursionssatz" stehen,
+der die Existenz und Eindeutigkeit garantiert)
+
+Etwas "sauberer" könnte man es so anstellen:
+
+FormelMenge(M):<=> (Atomformel in M) & 
+	(x,y) (x,y in M -> '(x)&(y)','(x)|(y)','!x' in M)
+
+
+Formel(x):<=> x in "Schnitt aller Formelmengen"
+
+
+ZF *definiert* aber nichts rekursiv.
+
+
+leon

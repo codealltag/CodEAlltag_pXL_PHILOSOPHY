@@ -1,0 +1,17 @@
+Das ist ja das schoene: Wenn Du durch Null teilst und damit etwas
+beweisen willst kann ich sofort sagen das der Beweis falsch ist.
+
+Nein. Man darf durch h teilen weil h nicht Null ist. Der
+Differenzenquotient der Sekantensteigung ist 2x+h (fuer h != 0)
+und diesen kann man problemlos fuer h == 0 ausrechenen und
+bekommt damit als Tagentensteigung 2x (als Ableitung von x^2).
+
+Nein. Nein. Nein. Es wird nicht nur Null geteilt. Wenn Du solche
+Behauptungen aufstellst haette ich gerne Quellen.
+
+Kein einziger Standard-Beweis teilt durch Null, weil die Division
+durch Null nicht definiert ist (in diesem Zusammenhang, also
+Standard-Analysis der 11. Klasse...)
+
+-- 
+"I'm working on it."  <http://fdv.akhupi.ik-kpsmtp.ff/>

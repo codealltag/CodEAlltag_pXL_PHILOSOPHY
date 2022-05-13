@@ -1,0 +1,23 @@
+Mglw. war die Rettung der Kursivschrift die Absicht.
+
+Wenn an eine Texthervorhebung (kursiv, fett, unterstrichen) ein 
+Interpunktionszeichen anschließt (.,!?"), liefert z.B. mein Newsreader 
+(CityHair) nur für Punkt und Komma das gewünschte Ergebnis, ansonsten kommen 
+die Formatierungszeichen im Klartext. Wie das bei anderen Newsreadern ist, 
+habe ich nicht probiert, jeder sieht das ja jetzt mal bei seinem:
+        /kursiv/.  /kursiv/,  /kursiv/?  /kursiv/!  /kursiv/"
+        *fett*.  *fett*, *fett*?  *fett*!  *fett*"
+
+Deshalb hatte auch ich in solchen Fällen oft ein Leerzeichen eingefügt. 
+Inzwischen schließe ich die Satzzeichen lieber in die Hervorhebung mit ein:
+        /kursiv?/  *fett?*
+
+/Schön/ freilich ist das auch nicht.
+
+
+Wegen erwarteter Großdebatte zur Bandbreitenschonung wankelmütig 
+f'up2 physik gesetzt.
+
+
+Größe,
+Orlando

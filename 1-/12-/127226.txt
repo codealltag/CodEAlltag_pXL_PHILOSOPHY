@@ -1,0 +1,53 @@
+Hallo Ulfert!
+
+Ulfert Nuhsbaum <hvkxwr.lkcpip@opz.rb> (6. September 2002 00:52):
+
+
+Was verstehst Du unter "axiomatisch charakterisierbar"?
+'Implizite Definitionen', daß die Grundterme sich wechselseitig stützen?
+
+
+Mir ist nicht ganz klar, ob dieses "Explizit"machen Deiner Ansicht nach 
+durch obigen Text samt 'Figur' schon geleistet sein soll oder ob dies nur 
+ein Hinweis war, wo man Nachlesen muß. Wenn ersteres, sehe zumindestens 
+ich es nicht. Inwiefern zB zeigt Obiges, daß Identität auf "der Ebene der 
+Ausdrücke (oder der Sinne)" nichttrivial ist, was ich nicht bezweifle, 
+aber wieso macht das der Text
+
+
+explizit?
+
+
+siehe mein Nachbarposting an Dich.
+
+
+In diesem Fall habe ich sie tatsächlich mehr oder weniger benutzt und den 
+Ausdruck "die "Bedeutung von 'a'" als synonym zu "der durch 'a' 
+bezeichnete Gegenstand" gebraucht. Das hatte aber mehr den
+äußerlichen Grund, durch den Gleichklang von "bedeuten" und
+"die Bedeutung" dann der (schön einfachen) Formel B(a=b) := B(a)=B(b)
+am nächsten zu sein. In Deiner Formel  (M,h)  |= (s=t) gdw.  [s]=[t]
+wird für das Bedeuten (die metasprachliche Interpretation) von 's=t' ein 
+anderes Symbol geschrieben als für die Belegung der Einzelvariablen, 
+nämlich (..) vs. [..]. Hat das einen tieferen Grund?
+
+
+Am Zirkel oder Regreß jeder Definition von Identität ändert übrigens 
+das Einschieben noch eines Zwischenreichs des Sinns zwischen Zeichen 
+(Namen) und Gegenstand (Bedeutung) natürlich nichts. Ob zur Erläuterung
+von 'a=b' nun gesagt wird, daß verschiedene Zeichen 'a' und 'b' auf 
+*denselben* Gegenstand referieren,
+
+  a --> G <-- b
+
+oder verschiedene Zeichen 'a' und 'b' erst noch verschiedene Sinne S(a) 
+und S(b) ausdrücken und erst dann auf *denselben* Gegenstand referieren,
+
+  a --> S(a)  --> G <-- S(b) <-- b  
+
+stets sind es Erklärungen der Art (in Deiner Bezeichnungsweise)
+(a=b) <=> [a]=[b] bzw. im zweiten Fall (Sa=Sb) <=> [a]=[b].
+
+
+Größe
+Gilles

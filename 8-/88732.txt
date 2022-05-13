@@ -1,0 +1,93 @@
+In der Tat gilt:
+
+AxE!x <-> AxEy(x =3D y)
+
+
+Natürlich nur jeder *existente* Valentin.
+Der Allquantor erstreckt sich auf alles, d.h. auf *alles Existente*.
+Formeln des Typs
+
+"Ax(... x ...)"
+
+sind zu lesen als
+
+"Alles (Existente) ist dergestalt, dass es ..."
+
+Man könnte die Axiome also auch wie folgt formulieren:
+
+Ax(E!x -> E!x) bzw. Ax(E!x -> Ey(x =3D y))
+
+Das mutet tautologisch an, macht aber doch besonderen Sinn, wenn man
+sich folgende Äquivalenzen vor Augen führt:
+
+AxE!x <-> ~Ex~E!x
+"Alles existiert" <-> "Nichts existiert, das nicht existiert"
+
+bzw.
+
+Ax(E!x -> E!x) <-> ~Ex(E!x & ~E!x)
+"Alles Existente existiert" <-> "Nichts existiert und existiert nicht"
+
+
+Dass es nichts gibt, das nicht existiert, bedeutet nicht, dass es keine
+wahren negierten Existenzaussagen gibt. Allerdings ist es in der
+klassischen Logik so, dass alle Formeln des Typs "Ex(x =3D a)"
+Theoremstatus besitzen, d.h. logische Wahrheiten sind, deren Negation
+niemals wahr ist. Es gibt in der klassischen Logik somit keine wahren
+negierten Existenzaussagen des Typs "~Ex(x =3D a)", weil darin von
+vornherein festgelegt ist, dass jeder singuläre Terminus (Eigennamen,
+Kennzeichnungen) einen Träger zu haben hat.
+Genau diese Festlegung ist es, die in der Freien Logik fallen gelassen
+ist, sodass darin auch Eigennamen und Kennzeichnungen ganz normal
+verwendet werden können, die sich auf nichts beziehen, sozusagen
+"gegenstandslos" sind.
+
+Nichtsdestoweniger sind Existenzaussagen besonderer Natur, da sie nicht
+einfach so wie andere Aussagen verneint werden können.
+In der Freien Logik kommt nämlich der Unterschied zwischen interner
+Negation [IN] (Prädikatsnegation) und externer Negation [EN]
+(Satznegation) zum Tragen, welche Unterscheidung in der klassischen
+Logik keine Rolle spielt.
+
+Klassisch ist es egal, ob ich "~Fa" als "a ist nicht F" [IN] oder als
+"Es ist nicht der Fall, dass a F ist" [EN] lese. In der Freien Logik
+ist es jedoch alles andere als wurscht, ob ich "~E!a" als "a existiert
+nicht" [IN] oder als "Es ist nicht der Fall, dass a existiert" [EN]
+lese.
+
+Denn die 'Wahrheit von intern negierten Existenzaussagen des Typs
+
+"a existiert nicht"
+
+würde widersprüchlicherweise die Existenz von a voraussetzen, was
+bedeutet dass Sätze dieses Typs unmöglich wahr sein können.
+
+Dagegen können extern negierte Existenzaussagen des Typs
+
+"Es ist nicht der Fall, dass a existiert"
+
+sehr wohl wahr sein.
+
+Der Grund dafür ist, dass in letzterem Fall nichts über etwas
+vermeintlich Nichtexistentes ausgesagt wird, sondern etwas über eine
+Existenzaussage, nämlich, dass sie falsch ist. Und dass es sich um
+eine falsche Existenzaussage handelt, kann eine wahre Aussage sein, wie
+z=2EB. "Es ist nicht der Fall / nicht wahr, dass Moby Dick existiert."
+
+Lange Rede, kurzer Sinn:
+
+Die logisch korrekte Negation von Existenzaussagen des Typs
+
+"a existiert"
+
+ist nicht
+
+"a existiert nicht"  ["E!~a"],
+
+sondern
+
+"Es ist nicht der Fall / nicht wahr, dass a existiert." ["~(E!a)"]
+
+
+Gruss
+VITTORIO

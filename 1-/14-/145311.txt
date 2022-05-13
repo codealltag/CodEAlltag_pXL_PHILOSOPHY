@@ -1,0 +1,8 @@
+Ein Dreieck ist zunaechst nur durch aus {a,b,c} definiert, wobei a,b,c
+nicht kollinear liegen. Auch ein n-Eck kann entsprechend definiert werden,
+wobei es zunaechst egal ist wie man die Punkte miteinander verbindet; nur
+liegen nicht jeweils 3 Punkte kollinear.
+
+
+Gruss Ivan
+--

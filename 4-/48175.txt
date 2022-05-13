@@ -1,0 +1,28 @@
+Oje ;-) Du meinst also schlicht "Binärdaten" damit. Dann sag das doch.
+
+
+Maschinen "lesen" nicht, das tun immer Menschen. Und auch wenn es Dir
+"unleserlich" scheint, was so ein Hex-Editor anzeigt, für einige
+Menschen ist es das ganz und gar nicht.
+
+
+Die Maschine weiss nie etwas. Daran wird ja in der KI gearbytet, dass
+man mal eine Maschine hinkriegt, die etwas weiss. Bisher funktioniert
+das nicht.
+
+
+Nun, das auf keinen Fall, oder das ganze würde ja nicht funktionieren.
+
+
+MP3 spezifiziert ja grade eine "Repräsentation aus Nullen und Einsen".
+WAV bezeichnet eine Gruppe von Codecs, jeder davon spezifiziert eine
+"Repräsentation aus Nullen und Einsen". Das ist, was eine Quellcodierung
+eben macht.
+
+Viele Grüsse,
+VB.
+-- 
+Affentheater: Herr Messerer, wie muss ein Brot sprechen?
+Kaspar Messerer: Tief. Sehr tief. Es ist ja ein Grundnahrungsmittel.
+
+    (Interview mit dem Puppenspieler Messerer über Nikolaus)

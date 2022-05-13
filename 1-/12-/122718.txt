@@ -1,0 +1,12 @@
+Hallo Nico!
+
+
+Fuer die Bequemlichkeit und aus historischen Gruenden. Wuerdest Du
+eine Laenge in Nanosekunden angeben, wuerde Dich einfach niemand
+verstehen. Darum rechnet man die Nanosekunden in Meter um, und fuer
+diese Umrechnung (die nicht anders vonstatten geht als jene zwischen
+Zentimeter und Zoll) heisst der Faktor halt 299293 km/s.
+
+Wenn ich Zentimeter in Zoll umrechne, lautet der Faktor 2,54 cm/Zoll.
+
+Ewald

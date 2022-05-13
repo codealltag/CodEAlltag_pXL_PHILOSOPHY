@@ -1,0 +1,45 @@
+Nein. Ohne jetzt auf Konzepte aus der formalen Semantik wie das der
+mit der Verwendung von Sprache verbundenen /ontologischen
+Verpflichtungen/ zurückzugreifen, die dich wohl überfordern würden,
+eine informale, aber etwas strukturiertere und ausführlichere Version
+obigen Arguments:
+
+(1)  Das Gehirn ist ein Gegenstand der Außenwelt.
+
+(2)  Für alle x gilt: Wenn x ein Gegenstand der Außenwelt ist, dann ist
+x ein Konstrukt des Gehirns.
+
+(3) Wenn das Gehirn ein Gegenstand der Außenwelt ist, dann ist das
+Gehirn ein Konstrukt des Gehirns.
+
+(4) Das Gehirn ist ein Konstrukt des Gehirns.
+
+Die Prämissenmenge ist {(1),(2)}, die Konklusion (4). Aussage (3)
+folgt aus (2) mittels quantorenlogischem Axiom und Anwendung des Modus
+ponens, und (4) aus (1) und (3) wiederum mittels Modus ponens.
+
+
+Eine L-Aussage p folgt (logisch) aus einer Menge S von L- Aussagen genau
+dann, wenn für jedes L-Modell M von S auch M ein Modell von p ist.
+
+
+Schau' in ein Logikbuch, es ist (im wesentlichen) FOPL. Das Argument
+ist alllerdings so elementar, dass es sich selbst mit aristotelischer
+Syllogistik formulieren läßt.  Die Frage ist eher: In *welcher*
+"Logik" führt mein Schluss *nicht* zu einem Widerspruch?
+
+btw: Es scheint auch etwas weniger logikresistente Vertreter des THOMAS zu
+geben, siehe etwa:
+
+http://cun.shp-djkaiet.zb/~kfnwycgm/kjzunhcownozcfcg/ghjqb6.wvy
+
+'2. "Wenn ich aber annehme, daß die Wirklichkeit ein Konstrukt meines
+Gehirns ist, so bin ich gleichzeitig gezwungen, eine Welt anzunehmen,
+in der dieses Gehirn, der Konstrukteur, existiert.  Diese Welt wird
+als objektive, bewußtseinsunabhängige oder transphänomenale Welt
+bezeichnet. Ich habe sie der Einfachheit halber Realität genannt und
+sie der Wirklichkeit gegenübergestellt". (David Kuppermann, a.a.O.,
+S. 288)'
+
+
+thierry

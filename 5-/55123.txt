@@ -1,0 +1,15 @@
+Du beschäftigst Dich mit dem Begriffspaar "wahr vs. beweisbar".
+
+In hinreichend ausdrucksmächtigen Logiken sind Ausdrücke
+formulierbar, die wahr, aber nicht beweisbar sind.
+
+Jede Aussage, durch eine Beweisfolge aus Axiomen und Regeln
+hergeleitet wurde, ist wahr. Gilt zusätzlich noch, daß
+jede wahre Aussage beweisbar ist, so ist das Logiksystem
+ein vollständiges.
+
+Die Sprache der Alltagsmathematik gilt aus ausdrucksmächtig
+genug, um wahre, aber nicht beweisbare Aussagen zu enthalten.
+
+Größe,
+Dietmar

@@ -1,0 +1,106 @@
+Die Objekte der Welt sind nicht von einander unabhängig, auch wenn einem dies der Verstand
+zwecks möglichst eindeutiger Erkennenung und Klassifizierung aller Gegenstände so vormacht.
+Die Erklärung der Welt mittels mathematischer Methoden führt aufgrund der im Prinzip sehr
+guten Brauchbarkeit dieser Verquickung zu einer Verstärkung der Annahme, dass die Objekte
+der Welt in gleichem Maße von einander unabhängig sind, wie es z.B. die mathematisch
+idealisierten Elemente zweier Mengen sind, deren Schnittmenge leer ist, oder ähnliches. Wie
+schlecht im Gegensatz zur prinzipiell guten Brauchbarkeit der Mathematik zur Erklärung der
+Welt aber eine totale Gleichsetzung funktioniert, erfährt man spätestens dann, wenn man
+beispielsweise versucht, den mathematischen Mengenbegriff, der ja eine Umsetzung von
+Welterfahrung in mathematische Sprache darstellt, auf die übliche streng axiomatische
+Definitionsbasis zu stellen, das funktioniert nämlich nicht. Oder umgekehrt, wenn man z.B.
+mathematisch genau definieren soll, was ein Tisch ist. Dies ist praktisch unmöglich.
+Entweder muß man einen Tisch so scharf definieren, dass es am Ende nur noch einen Tisch
+gibt oder man definiert Tische weitfassender, dann werden aber plötzlich Objekte zu
+Tischen, die keine Tische sind, oder sie werden immer tischähnliche. Ein Tisch ist ein
+Tisch ist kein Tisch, könnte man sagen. Daher ist am Ende ein Sack Kartoffeln auch immer
+etwas Brotmesser.
+
+
+Meines Erachtens machst hingegen Du hier zwei Fehler. Erstens übersiehst Du ein handfestes
+mathematisches Argument. Betrachten wir mal jenseits aller tautologischen Fallstricke (>
+schwarz zu sein gehört dann nicht zur Definition von Rabe sein) nochmal die Aussage "alle
+Raben sind schwarz". Zweifelsohne ist diese Aussage, wenn man nicht anfängt, Haare zu
+spalten und darüber diskutieren will, wie schwarz etwas schwarz zu sein hat, damit man noch
+sagen kann, es sei schwarz, entweder richtig oder falsch. Wenn die Aussage richtig ist,
+dann ist auch richtig, dass ich jedes Objekt der Welt untersuchen kann und ich werde die
+Aussage nicht falsifizieren können. Egal, welchen Raben ich auffinde, er wird immer schwarz
+sein. Im Hinblick auf das zu erwartende Ergebnis (Bestätigung der Behauptung) kann ich also
+mit Fug und Recht behaupten, dass in diesem Fall das Auffinden schwarzer Raben die
+Behauptung stützt.
+
+Interessanter, wenn die Aussage falsch ist. Dann gibt es mindestens einen Raben auf der
+Welt, der nicht schwarz ist. Der ungünstigste Fall bezüglich einer Falsifikation ist
+sicherlich der, dass es tatsächlich nur einen einzigen nicht-schwarzen Raben auf der Welt
+gibt. Daher gilt in der Summe folgendes: Entweder ist die Behauptung wahr, dann ist es
+egal, was ich untersuche, alle positiven wie negativen Tests werden die Behauptung stützen,
+oder sie ist nicht wahr, dann ist die Wahrscheinlichkeit, sie bereits als nicht-wahr zu
+erkannt zu haben, abhängig von der Zahl der untersuchten Raben. Im Falle von nur einem
+Objekt, welches die Behauptung widerlegt, ist die Wahrscheinlichkeit n/k (n=untersuchte
+Raben, k=Gesamtzahl der Raben), die Aussage falsifiziert zu haben. Dies ist wohlgemerkt der
+ungünstigste Fall, im allgemeinen Fall ist sie höher. Da k fest ist und n mit einer
+steigender Zahl von Tests wächst, steigt die Wahrscheinlichkeit, eine Aussage falsifiziert
+zu haben, ! wenn sie denn falsifizierbar ist !, mit jeder Untersuchung stetig an. Umgekehrt
+bedeutet das in dem Fall, dass man tatsächlich nicht weiß, ob eine Behauptung, Hypothese,
+Theorie wahr oder falsch ist, dass mit jedem positiven Test die Wahrscheinlichkeit
+qualitativ abnimmt, dass die Behauptung, Hypothese, Theorie falsch ist, und zwar deshalb,
+weil umgekehrt die Wahrscheinlichkeit gewachsen ist, sie falsifiziert zu haben, wenn sie
+denn falsifizierbar wäre, was aber nicht eingetreten ist.
+
+Zweitens übersiehst Du einen methodischen Effekt. Wenn Du Recht hättest (weil man den
+Zusammenhang z.B. in Deinem Sinne definieren würde), würde das in der Praxis zu dem
+Ergebnis führen, dass alle nicht falsifizierten Behauptungen, Hypothesen und Theorien
+gleich gut  (d.h. eher gleich schlecht) bestätigt sind, egal, ob diese erst einmal oder
+schon unzählbar oft in Experimenten positiv bestätigt wurden. Die Behauptung, dass ein
+Zieselzusel immer mindestens 1kg wiegt, wobei ich selbst der Erschaffer aller Zieselzusels
+sein könnte, wäre damit nach dem Auffinden eines 2kg schweren Zieselzusels genauso gut oder
+schlecht bestätigt, wie das Gravitationsgesetz. Das mag in bestimmten mathematischen Fällen
+sinnvoll anzunehmen sein, aber es taugt nicht für die Praxis, es wäre das Ende aller
+sinnvollen Naturwissenschaft.
+
+
+Hier besteht keine Konfusion meinerseits, bestenfalls eine zu oberflächliche Betrachtung
+der Zusammenhänge seitens derjenigen, die die Überlegungen als verwirrend empfinden. Man
+kann solche Aussagen flugs am PC simulieren und dort meine Aussagen bzw. die von Herrn
+Weizenecker dazu, die noch etwas quantitativer sind, bestätigen.
+
+
+Ich glaube, Du hast nicht erfaßt, worum es überhaupt geht. Wesentlich Voraussetzung für die
+Brauchbarkeit von positiven Verifikationen bezüglich der Feststellung der
+Wahrscheinlichkeit der Brauchbarkeit irgendwelcher Behauptungen von mir aus "über den
+Zusammenhang von Eigenschaften von Gegenständen eines Individuenraumes" ist in erheblichem
+Maße die Endlichkeit der Zahl der Individuen. Wenn die Zahl der Individuen nicht beschränkt
+ist, dann ist jede Allaussage über diese Individuen entweder falsifiziert oder gleich
+schlecht positiv bestätigt, weil der Anteil der untersuchten Individuen im Verhältnis zur
+Gesamtzahl der Individuen hier immer Null ist, völlig unabhängig von der tatsächlichen Zahl
+der bereits untersuchten Individuen. Oder kurz wie oben ist dann n/k=0 mit n beliebig, aber
+endlich.
+
+
+Hier sprichst Du zwei verschiedene Dinge an, einmal richtig, einmal weniger richtig.
+Richtig ist, das habe ich aber in diesem Thread durchaus auch so geschrieben, dass das
+Auffinden roter Rosen _in der Praxis_ keine meßbare Bestätigung der Aussage "alle Raben
+sind schwarz" darstellt. Insofern Zustimmung. Etwas anders sieht es bei dem Auffinden von
+Massen schwarzer Raben ohne einen Ausreißer aus. Vielleicht kann man deshalb nicht soweit
+gehen und die Aussage als definitv wahr bezeichnen, aber vielleicht kann man ihr dann schon
+den Status einer Regel spendieren. Das hängt eben wesentlich davon ab, wie groß die Zahl
+der untersuchten Raben im Verhältnis zur geschützten Gesamtzahl der Raben ist. Wie auch
+immer, in der Praxis gibt es doch gar keine andere Möglichkeit, eine Allaussage über eine
+Objektklasse zu bestätigen oder zu falsifizieren, als eben möglichst viele dieser Objete zu
+untersuchen, das wirst Du wohl nicht abstreiten wollen. Damit bestätigst Du aber das
+Gegenteil von dem, was Du einige Absätze weiter oben geschrieben hast.
+
+
+An dieser Stelle tut sich aber Konfusion Deinerseits auf. Wenn man von mehr oder weniger
+gut bestätigten Theorien sprechen will, dann muß es auch Kriterien dafür geben, Theorien
+qualitativ nach dem Grade ihrer bisherigen Bestätigung zu unterscheiden. Die beiden
+Extremfälle, nämlich dass eine Theorie entweder falsifiziert oder definitiv verifiziert
+wurde, gibt es auch ohne solche Kriterien. Die Kriterien können sich daher sinnvoll nur
+auf  jene Theorien beziehen, die sich irgendwo zwischen diesen beiden Positionen befinden.
+Nun möchte ich allerdings eine Gruppe von Kriterien sehen, die zur Bewertung der Qualität
+einer Theorie _nicht_ in irgendeiner Weise die Zahl der Überprüfungen der Theorie oder
+ihrer Folgen enthält. Ich behaupte, ein solche Gruppe von Kriterien gibt es nicht,
+jedenfalls keine brauchbare. Die Folgen daraus zu ziehen, sofern Du dem zustimmst,
+überlasse ich Dir.
+
+Größe, Luca

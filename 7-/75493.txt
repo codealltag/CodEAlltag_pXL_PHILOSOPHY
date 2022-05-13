@@ -1,0 +1,10 @@
+Wähle zwei beliebige Elemente und vergleiche sie.
+Wenn x und y zwei solche Elemente sind und x=y dann ist x oder y Element.
+
+
+Man kann die Elemente wie die Perlen auf einer Schnur anordnen. Wie ist
+egal es muss nur gelten a -> b -> c usw.
+
+-- 
+Mit freundlichen Grössen
+Rüdiger Schwabaur

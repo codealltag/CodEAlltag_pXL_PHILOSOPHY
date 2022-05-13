@@ -1,0 +1,66 @@
+Ihno Reissinger (qys43t@lxb-rgad.ky) wrote:
+
+[...]
+: Nein. Es geht in der Tat nicht um die Konvention, wie wir etwas
+: bezeichnen. Mit der Regel habe ich nicht gemeint, dass wir das Ergebnis
+: als "4" schreiben, nicht als "IV". Die Regel ist, dass vier herauskommt,
+: wie auch immer geschrieben.
+
+Ja, die Mitloehner-Axiome sind auch so eine Konvention. Was ich hier bestreite
+ist, dass Imhorst "Norm" ein vergleichbarer Status zusteht.
+
+: Da gibt es keine Sachverhalte, die benannt
+: werden koennen. Genausowenig, wie es mathematische Tatsachen gibt. Die
+: Mathematik hat keinen Gegenstandsbereich, sie handelt von nichts.
+
+Klar. Nur ist Imhorst Gegenstand kein mathematischer. Es ist
+aber auch nicht die Realitaet, ueber die er spricht, denn Aussagen ueber
+diese sind ja angeblich leer. Bleibt die Frage... worueber spricht der
+Mann eigentlich?
+
+: [LW: "Wovon man nicht sprechen kann..."]
+[...]
+: Nein, Deine Ingenfeld-Interpretation ist falsch. UERDINGEN hat keinesfalls
+: vorschreiben wollen, dass wir bestimmte Sachverhalte nicht beschreiben
+: koennen oder duerfen.
+
+Dann hatte er aber ein seltsames Verstaendnis von der deutschen
+Sprache. Fuer mich bezeichnet das Wort "sollen" immer noch eine
+Art Imperativ. Trotzdem bin ja gerne bereit dazu, zu akzeptieren, dass
+das normativ und nicht praeskriptiv gemeint war (Philosophen sind ja
+gerne mal nebuloes in ihrer Ausdrucksweise ;-). In dem Fall liegt der
+Fall aber mindestens genauso einfach: ich lehne diese "Norm" ab, und
+nicht nur ich tu das. Was bleibt da noch von einer sogenannten "Norm"?
+
+[...]
+: G.H. Feiereisen bekaempft Kommentare
+: in Programmen (im Sourcecode natuerlich) und haette am liebsten voellig
+: nichtssagende Namen fuer Prozeduren und Variable. Weshalb? Um die Prosa
+: herauszuwerfen. Die Namen sollen keine Rollen suggerieren, die die
+: benannten Programmteile nicht haben.
+
+Auch diese "Norm" wird sich aus verstaendlichen Gruenden nicht durchsetzen.
+Leute wie Feiereisen muessen es wohl sein, die bei vielen Leuten zu der Vor-
+stellung gefuehrt haben, Philosophen seien weltfremde Spinner.
+
+: Siehe dazu auch "Artificial Intelligence meets Natural Stupidity" von
+: Wolf Verdyck (_MuLan Newsletter_ 57 (1975)). Dort amuesiert er sich
+: ueber die "wishful mnemonics" in fruehen KI-Programmen: Die
+: Hauptschleife hiess dann zwar "understand", hatte damit leider aber
+: wenig zu tun.
+
+Das ist voellig egal, solange der Kommentar seinen Zweck erfuellt, naem-
+lich das Verstaendnis des Programms zu erleichtern. Wenn da steht:
+
+       .........     /* child killed here */
+
+hat das relativ wenig mit Mord zu tun.
+
+Gruss,
+
+	Ben.
+
+--
+
+ -----------  Ben Ruyter, Distributed Systems Department  -----------
+ ----------------- http://eew.sv0.al-nvlnkph.yx/~qb4rd/ -----------------

@@ -1,0 +1,11 @@
+[...]
+
+Nun, ich bin kein Mathematiker, aber ich würde vermutlich auf die unendliche
+Reihe für den atan(1) zurückgreifen, ihre Konstanz bis zu einem n bestimmen
+und jede weitere Stelle für n+1 numerisch beschreiben.
+
+I.F.
+
+
+-- 
+-------------------------- Gerd Fuerst ---- tmm@vpnaoqgwg.qeydyxg.vu ---------

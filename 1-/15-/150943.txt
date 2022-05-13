@@ -1,0 +1,76 @@
+das ist sie eben nicht.
+
+
+sondern stattdessen wären sie über die Gaußschen Satz mit Divergenzen 
+verknüpft, die entweder Einsickerungen/Verdunstungen oder longitudinale 
+Wellen (die es in inkompressiblen Flüssigkeiten nicht gäbe) sein können.
+
+
+nein, aber dafür ist dort das durch den elektrischen Strom, der durch den 
+Draht fließt, erzeugte Feld vorhanden.
+
+
+von denen kannst du aber eben nicht absehen, denn sie sind ja in deinem 
+System vorhanden.
+Wenn du einfach so tust, als wären sie nicht da, brauchst du dich nicht 
+wundern, wenn du zu falschen Ergebnissen kommst.
+
+
+falsch, denn du hast ja immer noch den elektrischen Fluß, der von dem 
+elektrischen Strom durch den Draht erzeugt wird.
+
+Vielleicht mal etwas ausführlicher:
+gemäß
+
+A(x,t) = int d^3 x' j((t-|x-x'|,x')/|x-x'|
+
+erzeugt der elektrische Strom I durch den Punkt P ein elektromagnetisches 
+Vektorpotential A in der Umgebnung U(P), mit dem ein elektrisches Feld 
+E=-dA/dt verbunden ist.
+Wäre I zeitlich konstant, so wäre auch A konstant, und damit wäre 
+E=dA/dt=0. I würde also kein elektrisches Feld erzeugen.
+In deinem Beispiel ist I aber eben nicht konstant. Der Strom wird ja 
+schließlich irgendwann (bei t=0) eingeschaltet, und benötigt eine bestimmte 
+Zeit Delta_t, um einen konstanten Wert I0 anzunehmen.
+Sei nun Delta_t = 1 Nanosekunde. Dann bewirkt zwischen t=0 und t=1ns der 
+durch P fließende Strom ein elektrisches Feld E in U(P).
+Jetzt könnte man natürlich behaupten, daß der Strom nach 1 ns konstant wird 
+und dann kein elektrisches Feld mehr in U(P) erzeugt.
+Das ist in der Tat auch richtig, aber der Strom fließt ja eben nicht nur 
+durch den Punkt P, sondern durch den gesamten Draht zwischen den beiden 
+Kugeln, also z.B. auch durch einen Punkt P', der 0,3 m von P entfernt ist.
+Und aufgrund der Retardierung kommt die Information, daß durch P' ein Strom 
+fließt, erst nach 1 ns bei P an. Daher bewirkt der Stromdurchfluß durch P' 
+mit einer Verzögerung von 1 ns ein elektrisches Feld in der Umgebung U(P) 
+des Punktes P. Wegen des Stromes in P' ist also zwischen t=1ns und t=2ns in 
+U(P) ein elektrisches Feld vorhanden.
+Nach t=2ns verschwindet dieses Feld zwar ebenfalls, aber dafür wird dann 
+ein Feld durch den Strom in einem dritten Punkt P'', der 0,6 m von P 
+entfernt ist, erzeugt.
+Und so geht das immer weiter, bis es schließlich (nach 1 Mikrosekunde) die 
+Ladung der Kugel ist, die das elektrische Feld in U(P) bewirkt.
+
+
+ja und?
+Daraus ergibt sich dann einfach, daß sich der Stromfluß durch den Draht 
+gerade so verändert, daß der elektrische Fluß durch die Oberfläche O der 
+elektrischen Ladung entspricht, die sich in den 0,8 Mikrosekunden auf der 
+Kugel angesammelt hat.
+
+
+ja und?
+
+
+n.
+Das von dem Strom erzeugte Vektorpotential A hat ja die Richtung des 
+technischen Stromes, also dem Elektronenfluß entgegengesetzt. A zeigt also 
+zu der Kugel, die positiv aufgeladen wird, hin. 
+Das elektrische Feld E ist -dA/dt, und wegen des Minuszeichens zeigt E in 
+die entgegengesetzte Richtung, also von der positiv aufgeladenen Kugel weg. 
+Und das ist die genau die Richtung, mit der sich ein der positiven 
+Aufladung der Kugel entsprechender positiver elektrischer Fluß durch die 
+Oberfläche O ergibt.
+
+
+tja, und ich möchte betonen, daß fast alle deine Behauptungen in dieser 
+Diskussion falsch sind, begriffliche Ungenauigkeiten hin oder her ;-)

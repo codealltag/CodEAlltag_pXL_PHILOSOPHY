@@ -1,0 +1,14 @@
+Eine solche 1. Zahl gibt's nicht. Denn wenn es sie gäbe, gäbe es eine
+Differenz zu 1, die ich halbieren könnte, womit *diese* dann die
+(vorläufig) erste Zahl wäre.
+
+Gruss Jean-Pierre.
+
+PS.
+übrigens: Wenn man 10:9 ausrechnet, bekommt man 1,1111Periode 1
+wenn man dies Ergebnis von 10 abzieht, erhält man 8,88888 Periode 8
+Zählt man nun den obigen Quuotienten hinzu, so hat man 8,888Periode 8
++ 1,111 Periode 1 = 9,999 Periode 9. 10-(10:9)+(10:9) ist aber = 10.
+Bei beiden Rechnungen darf nichts unterschiedliches herauskommen.
+
+Gruss Jean-Pierre

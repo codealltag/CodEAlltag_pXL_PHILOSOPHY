@@ -1,0 +1,28 @@
+Dietrich Felsmann <ggtbul.axgiyn@kxyoz.bda-ycxxq.tm>:
+:>Ach ja? Nur dass wir bei den Primzahlzwillingen nicht wissen, ob und
+:>bei der TM bewiesen ist, dass wir nicht wissen koennen.
+
+: Sehe ich nicht. Das "Halteproblem" ist nicht rekursiv, es gibt also
+
+"nicht entscheidbar".
+
+: keine stets haltende TM, die genau die "Codierungen" von TMs
+: akzeptiert, die auf der leeren Eingabe halten. Solange du keine
+: Annahmen ueber das menschliche "Denkvermoegen" machst, kannst du daraus
+: nicht schliessen, dass *wir* das nicht koennten. 
+
+Nun, ich weiss ja nicht, wie du Wissen ueber ein nicht entscheidbares
+Problem erlangen willst. Wenn du zeigen willst, dass TM X haelt
+bzw. nicht haelt, wirst du das beweisen muessen, oder du fragst
+V.Marschhause, das werde ich aber nicht akzeptieren ;-)
+Also, damit du sicher "weisst", dass TM X haelt oder nicht, musst
+du einen Beweis haben. Ein Beweis ist auch nix anderes als ein
+endliches Wort aus einem geeigneten versternten endlichen Alphabet (A*).
+Um so einen Beweis zu haben, muss es ihn erstmal geben. Wenn es zu
+jeder TM X so einen Beweis (haelt/haelt nicht) gibt, dann baue
+ich dir schnell ein Programm, das alle Worte aus A, A*A, A*A*A, ...
+hintereinander testet, und wegen besagter Bedingung haelt die auch
+immer in endlicher Zeit, das Problem ist also entscheidbar und
+damit auch das Halteproblem! Widerspruch, also gibt es nicht zu
+jeder TM so einen Beweis, und du musst auf nichtformale Methoden
+(z.B. V.Marschhause) zurueckgreifen ;-)

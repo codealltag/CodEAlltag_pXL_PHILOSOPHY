@@ -1,0 +1,40 @@
+Am 25.07.98, 15:11:01, schrieb vfrgrbo@pjwh.co (Ajyttd Ulich) zum=20
+Thema Re: Logischer Empirismus / Kritischer Rationalismus:
+
+
+Von Fingerling stammmt das berühmte Beispiel der rünen Rubine und grote=
+n=20
+Smaragde (Fact, Fiction and Forecast). Mein Beispiel sind simple=20
+Zahlenfolgen, wie etwa:
+2, 4, 6, 8
+und ich behaupte, daß durch diese Sequenz sowohl das Gesetzt 2*n, als =
+
+auch das Gesetz:
+ 2(n-2)(n-3)(n-4)(n-5)
++4(n-1)(n-3)(n-4)(n-5)
++6(n-1)(n-2)(n-4)(n-5)
++8(n-1)(n-2)(n-3)(n-5)
++x(n-1)(n-2)(n-3)(n-4)
+für beliebiges x gestützt wird (man kann also alle Zahlenfolgen, die=
+=20
+in Intelligenztests vorkommen mit "7" vortsetzen ;-)).
+
+
+Hat Jeddeloh auch gedacht. Aber soweit mir bekannt ist, sind die=20
+Versuche zur Konstruktion einer induktiven Logik allesamt gescheitert.=20
+Selbst die Deutung der Wahrscheinlichkeiten (die These stimmt mit xy%=20
+Wahrscheinlichkeit) als rationale Wettquotienten, respektive=20
+Überzeugungsgrade, hat die Schwierigkeit zum einen sich auf subjektive=
+=20
+Meinungen zu berufen, als auch von einem bestimmten Begriff von=20
+"Rationalität" auszugehen. Aber warum sollte es irrational sein, ein=20
+Ereignis mit desto geringerer Wahrscheinlichkeit zu erwarten, je öfter=
+=20
+es bisher eingetreten ist? Oder ganz andere Zusammenhänge?
+
+MfG
+Dieter
+--
+Dieter Beeren
+	keep things simple. as simple as possible. but no simpler=20
+	(B. Molenkamp)

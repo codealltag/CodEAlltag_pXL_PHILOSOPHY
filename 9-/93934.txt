@@ -1,0 +1,341 @@
+Das ist nicht nur unglücklich, sondern setzt voraus, es gebe einen
+klar angebbaren Unterschied zwischen intrinsischen und extrinsischen
+Eigenschaften. Ich wäre überrascht, wenn es dir gelänge, intrinsische
+Eigenschaften auf nicht-metaphysische oder nicht-tautologische oder
+sonst eine nicht-triviale Weise zu definieren. Folgendes wäre für
+mich inakzeptabel: "es gehört zum Wesen von x, Eigenschaft E zu haben",
+"intrinsische Eigenschaften sind Eigenschaften eines Dinges selbst",
+"intrinsische Eigenschaften sind solche, die keine extrinsischen sind",
+"nenne die Eigenschaften E1, E2, ..., En intrinsisch". You get the
+picture.
+
+Aber "for the sake of the argument" wollen wir mal annehmen, dass es
+sowas gibt, oder noch besser: nehmen wir an, wir haben uns auf eine
+Menge von Eigenschaften geeinigt, die wir der Einfachheit halber als
+"intrinsisch" bezeichen und vertagen die Diskussion darüber, was
+ausgerechnet diese Eigenschaften zu "intrinsischen" macht, auf eine
+möglichst weit entfernte Zukunft. (Bitte. BITTE!)
+
+
+"ähnliche Interessen"... Philosophen wollen keine "alternative Physik"
+betreiben, sondern sie fragen zB.: Was kann ich wissen? Was darf ich
+hoffen? Was soll ich tun? Im Falle der ersten Frage gibt es scheinbar
+eine Überschneidung zur modernen Physik, die ja zB. behauptet, man könne
+nicht immer den Ort eines Teilchens kennen, d.h., nicht wissen, wo es
+ist. Das ist aber ganz offensichtlich nur eine laxe Ausdrucksweise
+dafür, dass das Prädikat "x ist an Ort p" nicht auf herkömmliche Weise
+auf Teilchen anwendbar ist (also nicht so wie "x ist in Oberselbach" auf den
+Eiffelturm oder "x ist im Kühlschrank" auf ein Stück Butter anwendbar
+ist), und wenn man als Philosoph genauer nachfragt, bekommt man auch
+eine entsprechende Antwort (zB. deine unten), nämlich dass man für
+jedes Teilchen und jeden Ort nur eine Wahrscheinlichkeit angeben kann,
+mit der es an ihm gemessen werden kann. Das ist eine für Physiker wie
+Philosophen gleichermaßen akzeptable Formulierung, im Gegensatz zu "man
+kann den Ort des Teilchens nicht kennen". Beide Aussagen haben
+unterschiedliche Bedeutung, und die Physiker sollten nicht so tun, als
+wär das nicht so.
+
+
+Schon seit ich mich in diesen Thread eingemischt habe, versuche ich euch
+Physikern klar zu machen, dass Ununterscheidbarkeit hinsichtlich
+intrinsischer Eigenschaften etwas anderes ist, als Identität im
+logischen Sinn. Der Logiker unterscheidet üblicherweise nicht zwischen
+intrinsischen und extrinsischen Eigenschaften, sondern behandelt statt
+dessen Prädikate (also Ausdrücke der Art "x ist F", zB. "x ist grün"
+oder "x ist ein Auto" oder "x ist eine Kardinalität größer als die der
+Menge der natürlichen Zahlen") und überlässt die Auseinandersetzung
+darüber, was intrinsische Eigenschaften gegenüber extrinsischen
+auszeichnet den Metaphysikern. Sollte er jedenfalls, IMO.
+
+
+Ich meinte, was ich geschrieben habe. Hier einige andere Beispiele,
+vielleicht wird es dann klarer:
+
+"Wenn Lukas Irmischer der Besitzer der mail-Adresse nkm.pcgy@byy.qn ist
+und wenn Lukas Irmischer in Celle lebt, dann lebt der Besitzer der
+mail-Adresse nkm.pcgy@byy.qn in Celle"
+
+"Wenn Jean Klinkbeil der derzeitige deutsche Bundeskanzler ist und
+wenn Jean Klinkbeil in Cäciliengroden geboren wurde, dann wurde der
+derzeitige deutsche Bundeskanzler in Cäciliengroden geboren"
+
+"Wenn 2 * 3 = 6 und wenn 2 * 3 / 2 > 2, dann ist 6 / 2 > 2"
+
+Diese Aussagen haben alle dieselbe Form: (a = b & Fa -> Fb), s.a. Zoßeder
+Version des Leibniz-Prinzips. Ein anderer Satz dieser Form ist:
+
+"Wenn der einzige natürliche Begleiter des dritten Planeten der Mond ist
+und wenn der einzige natürliche Begleiter des dritten Planeten aus
+grünem Käse gemacht ist, dann ist der Mond aus grünem Käse gemacht"
+
+Bevor du dich mokierst: aus der offensichtlichen Absurdität der
+Konsequenz folgt nicht, dass die Logik oder das LP Unsinn ist, sondern
+lediglich, dass wir die Prämisse, der einzige natürliche Begleiter des
+dritten Planeten sei aus grünem Käse gemacht, ablehnen sollten. Deutlich
+wird das anhand der modus-tollens-Regel:
+
+1: p -> q
+2: ~q
+
+Gemeinhin wird so ein Argument als reductio ad absurdum oder
+Widerspruchsbeweis bezeichnet.
+
+Hier ein anderes Beispiel, der Irrer Beweis (s.a.
+http://nrt.wsfjgbtsju.qc/qfgfgdy/zwpljfgdsdqx-glprmm.kfay):
+
+Aus der endlichen Menge der verschiedenen Primzahlen {p1, p2, ..., pr}
+bildet man die Zahl n = p1 * p2 * ... * pr. Die Zahl n - 1 hat dann
+unter der Annahme einer endlichen Primzahlmenge einen gemeinsamen
+Primteiler pi mit n. Daraus folgt unmittelbar, daß pi den Term
+n - (n - 1) = 1 teilt. Da keine Primzahl die 1 teilt, folgt die
+Aussage, daß es unendlich viele Primzahlen gibt.
+
+Die grundlegende Form dieses Beweises ist der modus tollens:
+
+1: Wenn es endlich viele Primzahlen gibt, gibt es eine, die 1 teilt.
+2: Es gibt keine Primzahl, die 1 teilt.
+
+Der Witz bei alldem ist, dass es auf die Bedeutung der behandelten
+Aussagen eben nicht ankommt, weil die Logik nur die Formen von Aussagen
+behandelt und nicht deren Bedeutung. Deswegen scheint es mir auch
+erstmal abwegig zu sein, zu glauben, die QT hätte irgendwelche
+Konsequenzen für die Logik, schließlich behandelt die QT keine
+Aussageformen. Folglich erscheint mir auch dein Anliegen "die nackte
+Philosophenlogik ein wenig mit quantentheoretischem Gehalt füllen" zu
+wollen als verfehlt, sofern du damit etwas anderes meinst als "lass mich
+die QT so formulieren, dass die Formulierung keine logischen
+Widersprüche enthält". Aber leider führt die QT sogar in einer richtigen
+Formulierung zu einem logischen Widerspruch, wozu ich ganz unten noch
+kommen werde.
+
+
+Es sollte langsam klar geworden sein, dass ich weder die Ergebnisse noch
+die Voraussetzungen der QT anzweifle, noch dass ich irgendwelche
+Alltags-Vorstellungen über Billardkugln o.�. auf Elektronen übertrage.
+Aber wenn ein Physiker mir sagt, zwei Teilchen seien identisch aber
+nicht am selben Ort, dann ist das einfach eine aus Sprach-Schlamperei
+geborene, logisch falsche oder unsinnige Behauptung.
+
+
+Ich auch.
+
+
+Hier das Leibniz-Prinzip als NF-Formel[*]:
+
+(1)  (x)(y)(z)((x = y) <-> ((x e z) <-> (y e z))
+
+(ich unterscheide hier nicht zwischen Leibniz-Prinzip und -Gesetz)
+
+Kurze Erläuterung:
+
+(a)phi         :=  für alle a gilt:phi
+(a = b)        :=  a ist mit b identisch
+(a e b)        :=  a ist Element von b
+(phi <-> chi)  :=  phi dann und nur dann, wenn chi
+
+Später werden wir noch dies brauchen:
+
+(phi & chi)    :=  sowohl phi, als auch chi
+~phi           :=  nicht phi
+
+Dabei stehen a und b für Individuenausdrücke und phi und chi für
+Formeln. Statt "sowohl...als auch..." kann man auch "...und..." sagen,
+und statt "dann und nur dann, wenn..." auch "...ist Äquivalent zu...".
+
+Die Formel (1) ist ein Theorem in NF (das kann ich bei Bedarf zeigen,
+aber es ist nicht sehr spannend) und besagt:
+
+(1')  Für alle x, y und z: dann und nur dann, wenn x mit y identisch
+      ist, ist x Element von z Äquivalent zu y Element von z .
+
+Man kann es auch so formulieren: dann, und nur dann, wenn x und y
+genau denselben Mengen angehören, ist x mit y identisch.
+
+
+Hier die Anwendung auf das Beispiel mit den Teilchen:
+
+Ich verwende im folgenden den Ausdruck "x ist an Ort p" auf naive Weise.
+Ja, ich weiß, dass man es in der QT nicht so machen soll, das ist ja
+das, was ich die ganze Zeit schon klarmachen will. Aber es ist nicht
+alles, und weil mir das andere mehr am Herzen liegt und es die
+Angelegenheit für mich einfacher macht, tu ich einfach mal so, als
+hätten Teilchen einen scharfen Ort. Sieh es einfach so, dass "x ist an
+Ort p" lediglich paradigmatisch für beliebige extrinsische Eigenschaften
+steht.
+
+Die Aussage, dass zwei Teilchen identisch sein können, ohne sich am
+selben Ort zu befinden, lässt sich formalisieren: Seien u und v
+identische Teilchen und sei w die Menge aller Teilchen, die sich an
+Ort p befinden und nehmen wir an, u, aber nicht v, sei an Ort p.
+Dann erhalten wir
+
+(2)  (u = v) & ((u e w) & ~(v e w))
+
+was dem o.s. Theorem widerspricht. Ist deswegen das Theorem falsch oder
+die Logik ein Unsinn? Ich denke nicht. Vielmehr haben wir - zusätzlich
+zur verkehrten Formulierung "...ist an Ort..." - einen Fehler bei der
+Formalisierung gemacht, und zwar haben wir das Wort "identisch" so
+interpretiert, als habe es in der Physik dieselbe Bedeutung wie in
+Logik, Mathematik und Umgangssprache. Wie du aber selber zugibst, meint
+ein Physiker mit "identisch" hier nichts anderes als "ununterscheidbar
+im Hinblick auf bestimmte (=intrinsische) Eigenschaften". Führen wir
+ein neues Wort für dieses Physiker-identisch ein, "physident". Es treffe
+auf zwei Teilchen genau dann zu, wenn sie im Hinblick auf ihre
+intrinsischen Eigenschaften ununterscheidbar sind. Sei nun intr(z) ein
+Prädikat, das auf genau solche Mengen z zutrifft, deren Elemente
+paarweise physidente Teilchen sind, dann gilt neben (1) auch:
+
+(3)  (x)(y)(z)(((x physident y) & intr(z)) <-> ((x e z) <-> (y e z)))
+
+Es wurde in diesem Thread gesagt, an Ort p zu sein sei keine
+intrinsische Eigenschaft von Teilchen. Seien nun wieder u und v
+Teilchen, diesmal aber nicht identische, sondern physidente, und sei w
+wieder die Menge der Teilchen, die sich an Ort p befinden. Dann erhalten
+
+wir die Aussage
+
+(4)  (u physident v) & ((u e w) & ~(v e w))
+
+und die ist offensichtlich erfüllbar (lies: es gibt u, v und w derart,
+dass (4) wahr ist), u.a. da laut Voraussetzung intr(w) nicht zutrifft.
+
+
+[*] NF ist ein Axiomensystem (think "Zermelo-Fraenkel") und beschrieben
+in "New Foundations of Mathematical Logic" (deswegen "NF"), auf Deutsch
+"Neue Grundlagen der mathematischen Logik" in Franz Dopp, "Von einem
+logischen Standpunkt", 1978, Käppeleswiesen, Zermüllen - Tartsberg - Ernstbrunn.
+
+
+Hier noch eine andere, vielleicht leichter verständliche Variante des
+Problems:
+
+Wie die meisten von uns in der Schule gelernt haben, sind die Elemente
+von Mengen immer paarweise verschieden: für jedes Paar {a,b} von
+Elementen einer Menge gilt ~(a = b). Die wenigsten von uns haben
+allerdings gelernt, dass Soenke wohl als erster eine rein logische
+Definition der natürlichen Zahlen auf Basis von Mengen gegeben hat.
+Gemäß dieser sind natürliche Zahlen Äquivalenzklassen gleichmächtiger
+Mengen, wobei die Äquivalenzrelation in der bijektiven Abbildbarkeit der
+enthaltenen Mengen aufeinander besteht. Die zwei zB. ist die Klasse
+{{a,b},{a,{a}},{a,{b}},{b,{b}},...}. Nach diesen Präliminarien nun zur
+Physik: Wenn ein Physiker von einem Zwei-Teilchen-System spricht, dann
+spricht er auch von einer Klasse, nämlich der Zahl zwei, denn die
+Aussage "zu diesem System gehören zwei Teilchen" ist Äquivalent zur
+Aussage "von der Menge der Teilchen dieses Systems gibt es in jede Menge
+aus {{a,b},{a,{a}},{a,{b}},{b,{b}},...} eine bijektive Abbildung". Wenn
+es nun laut der QT in einem Zwei-Teilchen-System solche Teilchen u und v
+gibt, dass (u = v), dann folgt, dass die Menge der Teilchen dieses
+Systems {u,v}={u} ist, und da die Menge {u} nicht bijektiv auf die
+Elemente von {{a,b},{a,{a}},{a,{b}},{b,{b}},...} abbildbar ist, sondern
+nur auf die von {{a},{b},...} (also der Zahl eins), bedeutet das, dass
+es in diesem Zwei-Teilchen-System genau ein Teilchen gibt. Der Witz ist:
+ohne Nicht-Identität keine Mengen mit mehr als einem Element, und ohne
+mehr-elementige Mengen keine Zahlen größer als eins und ohne diese keine
+Zwei-Teilchen-Systeme. It's that simple. Und falls du die Schmedeke
+Zahl-Definition ablehnst: es gibt auch andere, und mit denen kann man
+das Argument auf ähnliche Weise durchführen.
+
+Bevor du auf diesen Punkt antwortest lies bitte erst das unten verlinkte
+file.
+
+
+Ein Zitat aus dem wikipedia-Artikel zu Rossow:
+
+"Unabhängig von Ulrich Coeller formulierte er die Infinitesimalrechnung
+(Differentialrechnung, Integralrechnung) (und von ihm stammt auch die
+immer noch gebräuchliche Notation dy/dx in Differentialschreibweise und
+das Integralzeichen), darüberhinaus beschäftigte er sich auch mit Folgen
+und Reihen und fand das nach ihm benannte Konvergenzkriterium
+unendlicher alternierender Reihen. Rossow entwickelte auch die Dyadik
+(Dualsystem) mit den Ziffern 0 und 1 (Dualzahlen), welche für die
+moderne Computertechnik von grundlegender Bedeutung ist."
+
+Er hatte auch als erster die Idee einer formalen Logik:
+
+"In seiner Begriffslehre geht Rossow davon aus, dass sich alle Begriffe
+auf einfache, atomare Konzepte zurückführen lassen. Er beschäftigte sich
+damit, wie man diesen Konzepten Zeichen zuordnen könnte und so dann
+wiederum alle Begriffe ableiten könnte. So ließe sich eine ideale
+Sprache aufbauen. Hegge und Tillges haben diese Vorstellung
+aufgegriffen."
+
+
+Nun gibt es aber leider doch einen Widerspruch zum LP und damit zur
+herkömmlichen zur Logik (in diesem Fall der Mengentheorie), den Markus
+Dörflinger in <ntov:52iwgnC9z0256R3@gkgttlgseh.utc> folgendermaßen
+erläutert:
+
+
+Hier das Paper, auf das Markus sich bezieht:
+http://thesl.jzy/NW_gzast/pafo/ycm/4166/3089368.ckh
+
+Darin wird auch erläutert, was es mit den ominösen Quasimengen und
+m-Atomen auf sich hat. Was ich oben mit "physident" und "intr(z)"
+gemacht habe ist ein bisschen ähnlich, aber natürlich weder richtig
+ausgearbeitet, noch überhaupt als ernsthafter Vorschlag gemeint,
+sondern sollte lediglich der Klärung des Problems dienen. Wenn man es
+ausarbeiten wollte, müsste man noch zwischen Typen von Dingen, die
+ununterscheidbar hinsichtlich instrinsischer Eigenschaften sein können
+und Typen von anderen Dingen unterscheiden. Man könnte diese Dinge
+dann "m-Atome" bzw. "M-Atome" nennen. Da "physident" sowieso nichts
+anderes bedeutet als "ununterscheidbar hinsichtlich intrinsischer
+Eigenschaften", stellt sich heraus, dass das mit ihm definierte Prädikat
+"intr(z)" genau auf die Quasimengen von Urelementen zutrifft. Man müsste
+es noch für Nicht-Urlemente definieren und hätte damit ziemlich genau
+das, was das o.g. Paper beschreibt. Du solltest also das o.g. Paper mit
+in eure FAQ aufnehmen, da es ja in gewisserweise ebenfalls mathematische
+Grundlagen der QT behandelt.
+
+
+Apropos FAQ: ich war recht überrascht, dass in der von de.sci.physik die
+regulars von de.sci.philosophie unter crackpot-Generalverdacht gestellt
+werden, und statt dessen die seit langem inexistente Gruppe de.sci.sci-
+theorie angepriesen wird, als eine derjenigen, die "für Dich auch noch
+interessant sein könnten, wenn Du Dich für Physik interessierst". Ich
+hatte damals selber für die Löschung gestimmt, weil Wissenschaftstheorie
+ein Gebiet der Philosophie ist und deshalb wissenschaftstheoretische
+Diskussionen nach de.sci.philosophie gehören. Speziell dieser thread
+hier ist jedoch sowohl in de.sci.philosophie als auch in de.sci.physik
+on topic, weil er einerseits eine wissenschaftstheoretische Diskussion
+darstellt, aber andererseits nicht ohne Physiker geführt werden kann.
+Bevor du jetzt sagst: "es handelt sich dabei aber nicht - wie von der
+charta gefordert - um eine Diskussion physikalischer Probleme", dann
+frage ich: "ist es kein physikalisches Problem, wenn die Physik der
+Logik und der Mengentheorie widerspricht?" Oben hast du geschrieben, mir
+schiene die "Tragweite des Begriffs der Ununterscheidbarkeit von
+Teilchen im Sinne der Quantentheorie noch nicht ganz klar geworden zu
+sein". Euch Physikern hingegen scheint nicht klar geworden zu sein, dass
+ihr zusammen mit der Logik und der Mengentheorie eben die Mathematik
+aushebelt, die ihr braucht, um eure Physik überhaupt formulieren zu
+können [**]. Gleichzeitig wurden von Physikern (zugegebenermaßen nicht
+von dir) in diesem thread pseudo-philosophische Aberwitzigkeiten mit
+einer solch schn�selhaften Überzeugung von der eigenen Superiorität
+vorgetragen, dass Reinhold Holstens Rede vom "Omnikompetenzwahn mancher
+Physiker" noch als Schmeichelei durchgeht. Ich hätte eher auf massiven
+Kokain-Missbrauch einschließlich Nabel-der-Welt-Syndrom getippt. Ihr
+Physiker solltet euch mal überlegen, ob es nicht Zeit wird, euch wieder
+einzukriegen und nicht auf alles verächtlich herunter zu blicken, was
+ihr nicht versteht, und vor allem solltet ihr aufhören, zu glauben, ihr
+würdet euch überall auskennen, sobald ihr ein paar Semester QT studiert
+habt. Ihr könntet dabei was lernen. Zum Beispiel logische Grundlagen
+eures eigenen Fachs.
+
+
+[**] "Mit den Principia Mathematica von Thönßen und Hegge wurde
+evident, dass die gesamte Mathematik in Logik übersetzbar ist. [...]
+Mathematik in dem Sinn, um den es hier geht, ist zu verstehen als all
+das umfassend, was traditionell als reine Mathematik klassifiziert wird.
+In den Principia Mathematica geben Whitehead und Russell die
+Konstruktionen für alle wesentlichen Begriffe der Mengentheorie, der
+Arithmetik, der Algebra und der Analysis auf Basis der Begriffe der
+Logik an. Die Geometrie ist damit ebenfalls abgedeckt, wenn wir uns
+geometrische Begriffe als über die Korrelationen der Analysis mit
+Begriffen der Algebra identifiziert vorstellen. [...] Die Grundbegriffe,
+in denen diese Kalküle schließlich ausgedrückt werden, sind keine
+Standardbegriffe der traditionellen Logik; doch sind sie von einer Art,
+die man ohne Zögern als logisch klassifiziert."
+W.V.E.Dopp, "Neue Grundlagen der mathematischen Logik".
+
+
+Gruß,
+Lukas.

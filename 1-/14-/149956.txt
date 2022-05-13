@@ -1,0 +1,64 @@
+Hallo Gabriel,
+
+Gegeben sei ein Graph einer Funktion f(x) und als Beispiel die
+Quadratfunktion.
+als f(x) = x^2
+An einem bestimmten Punkt P auf dem Graphen ist sein Schatten auf x = r.
+Die Länge von r nach P ist f(r).
+Ein Punkt rechts von r ist f(r + h).
+Eine Steigung von einem Punkt links A nach P ist definiert mit f(r)/k
+
+f(r)    f(r+h) -(r)
+---- =  ------------
+ k          l
+
+Nun kann ich ab hier den Weg gehen:
+
+f(r+h) - f(r)           (r+h)^2 - r^2
+-------------  gleich   ------------- 
+    h                         h         
+
+Da ich du Null nicht teilen darf kann ich mich noch ein weilchen
+rumspielen
+
+wzB:
+ r^2 +  2rh + h^2 - r^2  
+
+um schliesslich zu einem Ausdruck wie 
+
+h(2r + h)
+--------- 
+    h          
+
+
+um dann schliesslich festzustellen dass:
+
+2r + h 
+
+
+Ach ja und weil ich ja nach der der Nullstelle suchen wollte kommt dann
+ganz genial
+
+2r  + 0 = 2r
+
+Fragt sich nur, warum ich dann nicht einfach durch Null teile und dabei
+aber berücksichtigen muss, dass die Rechenregeln wie + und -
+verschweinden müssen
+
+Schaue ich mir doch nochmal 
+
+f(r+h)- r
+---------       
+   h           
+
+Frage wann wird h 0, wenn h keine Rolle mehr spielt und entfernt werden
+kann. Wass muss aber berücksichtig werden.
+Wenn ich also durch 0 teile "verschweinden alle Rechenregeln und es
+bleibt was übrig.
+
+r und r bleibt übrig und das kann ich mit Rechenregeln wieder als 2r
+schreiben.
+
+
+Gruss
+Jochen

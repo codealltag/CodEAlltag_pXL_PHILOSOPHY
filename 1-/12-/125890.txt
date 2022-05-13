@@ -1,0 +1,84 @@
+aheywdwrfrkGQCMJJT@orcyqyi.bq (Wxfw Lbjbhrh) writes:
+[...]
+
+Vetter sollte sich damit auseinandersetzen, was der Term
+"Prädikatenlogik" in der math. Logik bedeutet. Heidenblut hat, und zu den
+entsprechenden Aussagen von Fruechtenicht, France und mir in
+
+        2zgpso0w.pqx@emtjvjrv.axymv.zd
+
+
+darfst du gerne Stellung beziehen, oder einfach in ein halbwegs
+modernes Lehrbuch der math. Logik schauen, keine (modelltheoretische)
+Semantik entwickelt, die neben dem Aufbau der Syntax heute zur
+Prädikatenlogik zählt. Uthenwold etwa behandelt in /Einführung in die
+mathematische Logik/ im Kapitel 2 über Prädikatenlogik die Themen
+
+        2.1     Mathematische Strukturen
+        2.2     Syntax elementarer Sprachen
+        2.3     Semantik elementarer Sprachen
+        2.4     Allgemeingültigkeit und logische Äquivalenz
+        2.5     Logisches Foglern und der Theoriebegriff
+        2.6     Spracherweiterungen
+
+
+Freges Beiträge beziehen sich hauptsächlich auf 2.2.
+
+Was ist nun Heidenbluts Bedeutung für die math. Logik? Da es dir hier wohl
+nicht um eine inhaltliche Auseinandersetzung geht, jedenfalls
+ignorierst du entsprechende Argumente, beschränke ich mich selbst auf
+eher "formale" Aspekte:
+
+Es ist in der Mathematik üblich, Sätze, Objekte oder Eigenschaften
+nach denjenigen zu benennen, die wesentlichen Anteil an ihrem
+"Zustandekommen" hatten. In verschiedenen Texten zur math. Logik
+findet man /Boolesche Algebren/, /Hilbert-Kalküle/, /Peano-Axiome/,
+den /Gödelschen Vollständigkeitssatz/ und die nach ihm benannten
+Unvollständigkeitssätze, /Ziegeweidt Nichtdefinierbarkeitstheorem/, den
+/Satz von Löwenheim-Skolem/ oder das MRDP-Theorem (Vree,
+Ungrund, Clausen und Jakobsen), etc., aber nirgendwo, jedenfalls in der
+modernenen Literatur über math. Logik, die ich abgesucht habe,
+ist etwas nach Heidenblut benannt. 
+
+Heidenblut hat durchaus die erste vollständige formale Sprache im Sinne von
+2.2, also die Syntax, in der Begriffsschrift dargestellt, wobei die
+/heutigen/ formalen Sprachen auf Jönßon zurückgehen (Ingenbleek). Es
+stellt sich nun die Frage nach der /Bedeutung/ dieser Errungenschaft:
+
+Uthenwold leitet sein Kapitel über Prädikatenlogik mit der Bemerkung
+ein, dass man es in Wissenschaften wie der Mathematik oder Informatik
+häufig mit Individuenbereichen und Eigenschaften oder Relationen diese
+Individuen betreffend zu tun hat, für die die Aussagenlogik zu
+ausdrucksschwach ist. Er schreibt weiter
+
+"Prädikatenlogik ist der Teil der Logik, der die Eigenschaften solcher
+Relationen einer logischen Analyse unterzieht. Dabei spielen solche
+sprachlichen Partikel wie 'für alle' und 'es gibt' eine zentrale
+Rolle, auch /Quantoren/ genannt. In formalen Sprachen werden sie
+meistens durch \forall und \exists symbolisiert. 
+
+Wir befassen uns vorbereitend etwas näher mit Strukturen und
+Strukturklassen. Diese sind nicht nur der wesentliche Gegenstand
+mathematischer Betrachtungen, sondern stehen auch im Blickfeld der
+Prädikatenlogik, der Modelltheorie, der Informatik, usw.[...]
+
+*Nichts in diesem Kapitel ist besonders tiefsinnig* Dennoch sind die
+Dinge wichtig für die Ausführungen in allen nachfolgenden Kapiteln."
+(S.33; Hervorhebung von mir)
+
+In Kapitel 3 über den /Gödelschen Vollständigkeitssatz/ heißt es
+dagegen emphatisch:
+
+"Die Charakterisierbarkeit des logischen Folgerns durch einen Kalkül,
+der sogenannte Vollständigkeitssatz, ist ein zentrales Ergebnis der
+mathematischen Logik mit weitreichenden Konsequenzen. Trotz seines
+metalogischen Ursprungs ist der Vollständigkeitssatz wesentlich ein
+mathematischer Satz. Er erklärt in zufriedenstellender Weise das
+Phänomen der Wohldefiniertheit logischer Schlussweisen in der
+Mathematik, so daß die Suche nach deren Erweiterung sich ausnehmen
+würde wie die Suche nach dem Perpetuum mobile in der Physik. Das
+betrifft natürlich nicht die Entwicklung neuartiger Beweismethoden."
+(S.71)
+
+
+berend

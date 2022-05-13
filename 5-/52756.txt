@@ -1,0 +1,29 @@
+Hallo Clemens,
+
+Du hast den Teil weggelassen, in dem ich angeführt hatte, dass
+fehlende Vorhersagbarkeit auch durch Unkenntnis der Randbedingungen
+bei deterministischen Systemen entstehen kann (z.B. beim Wetter).
+
+
+Ich würde eher formulieren, dass wir sie nicht von vornherein als
+deterministische Systeme betrachten können. Es gibt schließlich auch
+dynamische Systeme, die (im Rahmen des betrachteten Problems)
+deterministisch sind. Beispiel sind (ideale) Gase, die mikroskopisch
+matürlich nicht deterministisch sind (zumindest nicht mit machbarem
+Aufwand), die makroskopischen Größen aber deterministischen Gesetzen
+folgen.
+
+
+Man kann ihn nicht einfach postulieren. Aber man kann natürlich hier
+(wie bei allen Beobachtungen auch) Gesetze ableiten. Wenn es gute
+Hinweise gibt, dass ein Gesetz unabhängig von den unberücksichtigten
+Randbedingungen gilt, dann kann ich dafür ebenso Determinismus
+annehmen wie bei Zustands�nderugen von Gasen.
+
+Viele Größe
+
+Bruno
+
+-- 
+If you think technology can solve your problems you don't understand
+technology and you don't understand your problems.  (Erhard Pickard)

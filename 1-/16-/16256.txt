@@ -1,0 +1,21 @@
+Die Menge aller Punkte auf der Ebene, die den gleichen Abstand von einem
+gegebenen Mittelpunkt haben. Z.B. dieses:
+
+/\
+\/
+
+(unter Verwendung der Summennorm)
+
+oder dieses:
+
++--+
++--+
+
+(Maximumsnorm).
+
+Damit liegt also das Verhältnis von Fläche und Radius^2 eines Kreises,
+je nach verwendeter Norm, zwischen 2 und 4. Was den euklidischen Kreis
+auszeichnet ist natürlich, dass er invariant unter Drehungen der Ebene
+ist, aber das ist eine andere Geschichte.
+
+Thorstens

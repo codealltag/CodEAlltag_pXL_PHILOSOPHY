@@ -1,0 +1,67 @@
+Fredi Mühlhans schrieb:
+
+[snip von Bsp. von IN-Bijektionen denen sich kein Signum zuordnen läßt]
+
+
+Dem stimme ich zu.
+
+a.)  S_IN sind alle IN-Bijektionen dann sind auch 'offene Zyklen'  (0 1 2 ...) dabei und
+hinsichtlich der Anzahl ergibt sich , daß die Möglichkeiten für ein Bild der  0   w-viele
+Möglichkeiten existieren , für 1  w-1=w -viele etc . Da jedesmal w Bildwerte vorhanden sind ergeben
+sich also w^w  IN-Bijektionen .
+  (Also a priori  w! = Prod_(n in IN)  (w-n)   = w^w )   GCH liefert also unmittelbar |S_IN| = 2^w
+.
+   ( Keine 'echte' Zyklendarstellung, kein Signum)
+
+b.)  S_IN sind diejenigen IN-Bijektionen die aus endlichen Zyklen aufgebaut sind (0 1) (2 3) ...
+    Wie in a.)  ist unmittelbar (entspricht dem von Dir angeführtem Beweis) durch  Pot(IN)\ {T|
+mit w-Komplement schon selbst wieder w!-viele  s in S_IN als Bild haben kann, ist auch  {T|
+Unterschied zu dem von Dir zitiertem Beweis diese w-vielen nicht einfach 'unterschlagen' werden da
+2^w > w benutzt wird, sondern explizit zugeordnete Bilder genannt werden.So nebenbei ist daraus
+folgend (w!)*2^w = w! eine tatsächliche Kardinalit�tsklasse unabhängig von GCH, bevor ich hier
+misverstanden werde : d.h. nicht notwendig 2^w < w! oder 2^w <> w!)
+     also    w^w >=  w! >= 2^w     ( auch hier liefert GCH unmittelbar w! = 2^w)
+(Zyklendarstellung, kein Signum)
+
+[...snip zum wesentlichen Teil der Umkehrung  w! <= 2^w]
+
+
+Hmm, jeder Abbildung(N,N) ist ein _Element_ aus Pot(NxN) zuordbar aber Abb(N,N) Teilmenge Pot(NxN)?
+Bspw.  (0 1 2 )(Rest fix)   |--> {0,1,2} x {Rest}   . Wie werden dann A= (0 2 1) (Rest fix)   und B=
+(0)(1)(2)(Rest Unordnung)   im Falle ganz S_IN behandelt ?
+
+
+weil zwischen w und 2^w keine Kardinalität liegt (CH)  und/oder sich w-Mengen separieren lassen (AC)
+?
+
+
+c.) P in S_IN  besteht  nur aus endlich vielen endlichen Zyklen der Länge > 1 .
+       (und so die limes-Kardinalitäten lim_(n-->w) n^n >=  lim_(n-->w) n! >=  lim_(n-->w) 2^n )
+         ( Zyklen, Signum )
+
+Injektion(?) von Pot(IN) in S_IN :
+     Endliche Teilmengen E (>= 2) werden auf den Zyklus  (E) abgebildet der die Elemente  gemäß >
+geordnet enthält. ko-finite (mit Komplement |E| >=3) auf einen Zyklus gebildet aus E nicht identisch
+dem für die endlichen Teilmengen.Die mit ko-finitem |E| =2 werden auf die nicht benutzten Zyklen der
+Länge 3 abgebildet.( Btw , die einelementigen {a}könnten so ja mit den Transpositionen ( a  a+1)
+starten und die entsprechenden 2-elementigen können ja dann auf die nicht benutzten 3-elementigen
+abgebildet werden und die mit kofinitem |E|=2 würden auf entsprechende 4-Zyklen gelegt. Aber es
+kann  ja auch das Argument w+w=w benutzt werden)...ach ja  IN |--> Id .(  :-) )
+w-(Teil)Mengen (A) mit w-Komplement(A') : Für jedes dieser Paare (A, A') gilt A und A' sind
+Teilmengen verschiedener ko-finiter w-Mengen (W,W)  ( mit W geschnitten W = leer) .
+Einfachheitshalber mit AC ( bzw Zorn'schem Lemma)   wird das entsprechende minimale ko-finite W und
+W bestimmt und so
+A |--> f(W)f(W)  und  A' |--> f(A)(disjunkte Transposition) . Auch sei hierbei A als maximales
+(wieder AC) von Inclusionsketten angenommen. ( _eine_  solche Kette ist ja schon überabzählbar ;
+bspw. A={0,2,4,...}).
+Direkt unterhalb von A liegen nun w-viele A_1 so, daß  |A\A_1|= 1 (e.g.{a_1}) darunter dann A_2 mit
+abzählbare Vereinigung abzählbarer Mengen; limit cardinals).Zu fest gewähltem A_1 erhält man dann W
+\ {a_1} und  W u {a_1} usf. ... und wenn dies nicht zu falsch ist eine überabzählbare Vereinigung
+abzählbar vieler (unterschiedlicher) Permutationen
+
+Andere Argumentation:
+ IN ist in w-viele disjunkte (endliche) Teilmengen zerlegbar -- auf überabzählbar viele Weisen; jede
+dieser Teilmengen kann als Zyklus verwendet werden und so eben auch deren Kombinationen.
+
+            Gruß
+                  Werner

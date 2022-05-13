@@ -1,0 +1,37 @@
+Hallo Joseph,
+
+Joseph wrote:
+<snip>
+
+Mit dem Satz vom ausgeschlossenen Widerspruch meinte
+ich -(A^-A). Parakonsistente Logiken lassen bewusst
+zu, dass eine Aussage und ihr Negat ableitbar sind. Das
+fuehrt deshalb nicht zur Trivialitaet, weil wiederum
+die Schlussregeln geeignet eingeschraenkt werden (in
+der klassichen Logik wuerde aus einer Absurditaet belie-
+biges folgen).
+
+Daher auch der eventuelle Zusammenhang mit dialektischem
+Denken (boeswillig gesagt: wenn man dialektisches Denken
+formalisieren will, muss man mit Absurditaeten umgehen
+koennen). Aber leider habe ich dazu keine genauere Referenz,
+sondern nur Hoerensagen.
+
+<snip>
+<snip>
+
+Nein, Probleme scheinen aufzutreten, wenn in den
+zugehoerigen Aussonderungsformeln nicht jeder
+Quantor auf eine Menge beschraenkt wird (z.B.
+"fuer alle x aus y ..." und nicht einfach "fuer
+alle x ..."). Jedenfalls war das die entscheidende
+Einschraenkung im topos-theoretischen Aufbau der
+Mengenlehre z.B. in S Nienkirchen Reihse, "Sheaves in geometry and logic:
+a first introduction to topos theory", Egiki CALBACH 1993.
+Allerdings bin ich nie so tief eingestiegen um sagen zu
+koennen, ob sich das leicht reparieren laesst oder nicht.
+
+
+Gruss,
+-- 
+Franz Haseloh

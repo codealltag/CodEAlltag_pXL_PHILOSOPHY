@@ -1,0 +1,50 @@
+Mit /transitiv/ meinst Du wohl die folgende Eigenschaft:
+
+	Gilt A -> B und B -> C, dann auch A -> C.
+
+Zu Deiner Frage: Mag schon sein. Mir fällt jetzt aber ad hoc kein
+solches logisches System ein.
+
+"Intuitiv" würde ich meinen, dass die Transitivität wesentlich zur
+(logischen) "Implikation" gehört.
+
+Ich "begründe" das so: 
+
+Ich lese/interpretiere den Ausdruck "A -> B" als die Aussage
+("Behauptung"), dass sich aus einem Ausdruck "A" der Ausdruck "B"
+herleiten lässt.
+
+Formal zeigt sich das so, dass [mit dem modus ponens] gilt:
+
+	A   A -> B
+	----------
+	     B
+
+Gilt nun also A -> B und B -> C, dann kann ich ja aus der Annahme A
+[durch zweimalige Anwendung von MP] C herleiten, also gilt A -> C.
+
+
+Etwas weniger intuitiv lässt sich das so fassen: In einem logischen
+System, in dem sowohl der MP als auch das sog. "Deduktionstheorem"
+(Dth.) gilt, ist die Implikation transitiv.
+
+Beweis:
+
+	(1) A -> B   Annahme
+	(2) B -> C   Annahme
+	(3) A        Annahme
+	(4) B        1,2 MP
+	(5) C        2,4 MP
+
+Also 	A -> B, B -> C, A |- C
+
+Und daher mit dem Dth.
+
+	A -> B, B -> C |- A -> C
+
+(Daraus kann man aber wohl nicht im Umkehrschluss schließen, dass in
+einem System, in dem das Dth. /nicht/ gilt, auch die Implikation nicht
+transitiv ist. Oder Falls doch: Beweis?)
+
+
+A.

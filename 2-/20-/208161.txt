@@ -1,0 +1,31 @@
+: (Etienne Steincke) writes:
+[Thermometer]
+: > : 	"P(x) = Wahrscheinlichkeit, dass Temperatur < x" 
+
+[...]
+: > Insbesondere fuer welche a, die Menge {x=a} ein Ereignis ist.
+: {x=a} ist ein Ereignis mit der Wahrscheinlichkeit P(x)-P(a) = 0.
+: Da es sich um ein Nullwahrscheinlichkeitsereignis handelt, kann
+: keine Aussage darueber getroffen werden, ob es physikalisch exis-
+: tent ist oder nicht. Das Ereignis ist nicht beobachtbar.
+
+Ist also jemals eine Temperatur a beobachtbar? Was wird beobachtet?
+
+: > Wenn es so ein a gibt, musst du aus Konsistenzgruenden, abzaehlbare
+: > Schnitte zulassen. Die koennten aber auch ein ein anderes {x=a'} als
+: > Schnitt haben. Wie kannst du diese klassifizieren, ohne aus der ueblichen
+: > Theorie der Ws. auszubrechen?
+: Ich kann nicht sehen, wo ich hier aus der "ueblichen Theorie der Ws.
+: ausbreche". Zumindest in der mir bekannten Literatur wird die Wahr-
+: scheinlichkeitsdichte p(x) als d/dx(P(Ereignis < x)) definiert.
+
+Wovon redest du? Von der Ws-dichte oder der Ws-verteilung (kurz: Ws.)?
+Das sind zwei verschiedene Dinge. Ich rede von P(Ereignis = x) und
+fuer welche x das ein Ereignis ist. (Ich dachte, x sei dein "Ereignis",
+die Zufallsgroesse - sei's drum.)
+
+Wozu brauchst du ueberhaupt die Dichte (bzgl des Lebesguemasses)?
+Vielleicht gibt es ja gar keine.
+
+Schoene Gruesse,
+	Etienne

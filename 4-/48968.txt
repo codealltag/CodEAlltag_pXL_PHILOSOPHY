@@ -1,0 +1,71 @@
+Hallo Berend,
+
+
+Deine Aussage war aber eine klare: in einem solchen Versuch verschwindet
+das zweite Teilchen, sobald das erste absorbiert wird. Und genau das
+passiert eben nicht. Und auch Linner hat keinen "Trick", mit dem er
+die Absorption verhindert, sondern verwendet wie alle anderen auch
+einfach Photomultiplier.
+
+
+Es geht mir hier um etwas anderes: Dinge wie Verschränkung oder auch das
+quantenmechanische Tunneln sind ziemlich kompliziert und werden wohl von
+vielen Leuten nicht verstanden. Intuitiv glauben diese Leute (Dich hier
+eingeschlossen) aber eher den wenigen (wie Cornelius), die hier sehr
+spekulative Theorien vertreten als den vielen (konventionellen
+Physikern), die hier ein Verständnisproblem bei Cornelius sehen.
+
+
+Und die lassen sich nunmal in einem Einteilchensystem nicht
+erfüllen. Wenn ich eine Wechselwirkung hatte und dabei (wie das in den
+Verschänkungsexperimenten so üblich ist) zwei Photonen erzeuge, dann
+kann davon keins plötzlich verschwinden, ohne dass die Erhaltungssätze
+verletzt werden. Wenn ich also eins absorbiere, dann muss immer noch der
+Gesamtspin (z.B.) Null sein; da das absorbierte den Spin 1 hatte, muss
+noch ein weiteres Teilchen mit Spin 1 vorhanden sein -- eben das andere
+Photon.
+
+
+Ja und? Aber erst dann. Das zweite Photon hat natürlich erst zur Messung
+einen bestimmten Spin usw. -- solange man es nicht gemessen (und damit
+zerstört) hat, hat es auch diese Eigenschaft nicht; sie kann also gar
+nicht "zerstört" werden.
+
+
+Diese Deine Vorstellung ist einfach experimentell widerlegt, siehe oben.
+
+
+Letztlich geschieht der Nachweis über den Photoeffekt, d.h. Energie und
+Impuls des absorbierten Photons finden sich als Änderung von
+Elektronenergie und -impuls wieder.
+
+
+Die Schrödingergleichung ist nicht auf relativistische Teilchen
+und nur bei konstanten Teilchenzahlen anwendbar.
+
+
+Du kannst keine "Eigenschaften manipulieren", Du kannst sie nur messen,
+damit liegen sie fest. Mit der Messung legst Du eine Eigenschaft des
+zweiten Teilchens fest, Du kannst sie jedoch nicht beeinflussen.
+
+Beispiel wieder Polarisation: man kann die Polarisation eines der beiden
+Photonen messen und damit liegt automatisch die Polarisation des anderen
+Photons (instantan) fest. Du kannst diese Polarisation jedoch nicht
+beeinflussen.
+
+
+Wie schon geschrieben: dagegen spricht das Experiment, und zwar genau
+eines, wie es z.B. bei Linner angeführt wurden: man erzeugt ein
+verschränktes Photonpaar und vernichtet die beiden Photonen (in einem
+Photomultiplier, durch den Photoeffekt) -- durch Ungenauigkeiten im
+experimentellen Aufbau stets nacheinander. Die Tatsache, dass man dabei
+*zwei* Photonen nachweist zeigt, dass Deine Überlegung nicht stimmt.
+
+Und zwar stimmt sie deshalb (unabhängig von der Nichtanwendbarkeit auf
+relativistische Teilchen, wie Photonen) nicht, weil Schrödingergleichung
+normiert ist, d.h. die Gesamtaufenthaltswahrscheinlichkeit des
+Teilchens, integriert über den gesamten Raum, ist zeitlich
+konstant. Damit können keine Teilchen verschwinden, darum lässt sich mit
+der Schrödingergleichung keine Absorption erklären.
+
+Patrick

@@ -1,0 +1,155 @@
+[...]
+
+Da bin ich natürlich anderer Ansicht. Speziell Leidmanns Kritik an dem
+Konzept der iterability (ich verwende hier die englische
+Bezeichnung, da ich die Akzente auf der Tastatur nicht finde ;-))
+halte ich für stichhaltig. Allerdings teile ich Niesz' Kritik an
+der Sprechakttheorie, die "zu viel" auf einmal möchte, wenn sie
+Sprache /direkt/ auf außersprachliche Konzepte (Intentionen)
+zurückführt.
+
+
+Wobei ich nur so nebenbei erwähnen möchte, dass du mit Leidmann auch
+nicht gerade sanft umgesprungen bist ;-)
+
+[...]
+
+Ich halte es tatsächlich für irrational, zugleich einen Satz (oder
+besser eine Äußerung samt Ort und Zeitpunkt) für wahr *und* für falsch
+zu halten, da er, wenn er überhaupt wahrheitsdefinit ist, *entweder*
+wahr oder falsch ist. Das heißt aber nicht, dass jeder Satz
+entscheidbar ist. Es ist durchaus rational, die Argumente, die gegen
+oder für eine Theorie sprechen, abzuwägen, ja sogar, zwei Theorien in
+unterschiedlichen Maße für adäquat zu halten. *Wahrheit* sollte nicht
+mit *Rechtfertigung* gleichgesetzt werden, ersteres ist ein absolutes
+Konzept, während das Zweite von unserem Wissen abhängt, also in den
+Bereich der Erkenntnistheorie fällt. Man kann zwei einnander
+widersprechende Sätze zugleich für gerechtfertigt halten, wenn kein
+Verfahren bekannt ist, den Wahrheitswert zu bestimmten. Man kann sie
+aber nicht gleichzeitig für wahr halten, solange man als rational
+gelten möchte.
+
+
+In diesem Fall leitet sich der Geist in der Philosophie des
+Geistes, die du gerne als Philosophie des Bewußtseins bezeichnest,
+ von mind ab, d.h. der Geist hat sämtliche unterhalt Konnotationen
+eingebüßt.
+
+[Was leisten Bedeutungstheorien?]
+
+Die Aufgabe einer Bedeutungstheorie ist es, unser sprachliches Verhalten
+zu erklären. Der Witz ist, dass Niesz sowohl den
+sprechaktheoretischen Ansatz wie auch die von Vockmann herrührende
+Auffassung, Bedeutung sei konventionell, durch Regeln innerhalb einer
+Sprachgemeinschaft, zu erfassen, verwirft, und damit auch nicht die
+Verwendungsweisen klassifizieren muss.
+
+
+Nein, die *Theorie* läßt sich durchaus "auf den Punkt" bringen. Es ist
+möglicherweise nur nicht in jedem Einzelfall *entscheidbar*, wie die
+Theorie auf ihn anwendbar ist. Selbst wenn es eine pyhsikalische
+.Theory of everything geben sollte, ist damit noch keineswegs klar,
+dass wir jeden der Einzelfälle vollständig erklären
+können. Grundsätzlich lassen sich nämlich *Ereignisse* oder
+*Gegenstände* gar nicht erklären, sondern nur *Sachverhalte*. Wir
+können z.B. kein Haus erklären, denn dazu müßten wir nicht nur seine
+Entstehung und Geschichte beschreiben, sondern auch alle Relationen,
+zu denen es zu seiner Umgebung steht, wir würden letztlich bei einer
+Beschreibung des Universums enden.
+
+
+Nein. In der Praxis urteilen wir recht erfolgreich, ohne eine Theorie zur
+Hand zu haben. Hösel hält deshalb Wahrheitstheorien für
+überflüssig. Das Instrument, über Satzwahrheiten zu
+entscheiden, liefert eine Erkenntnistheorie, eine Theorie der
+Rechtfertigung.
+
+
+Nein. Es handelt bei der Explikation des Wahrheitsbegriffs nicht
+darum, Wahrheit zu *konstruieren*, es ist eine *rationale
+Rekonstruktion* im Sinne Carnaps eines schon voranalytisch gegebenen
+Prädikats (jedefalls soweit man ist wahr überhaupt als Prädikat
+auffasst, was durchaus strittig ist). Wir müssen natürlich eine
+Wahrheitstheorie *rechtfertigen*, und das setzt u.A. die Existenz des
+Wahrheitsprädikats in der Metasprache und bestimmter
+Rechtfertigungsstandards voraus; nur entsteht deshalb kein Zirkel.
+
+(da Existenz!= Definierbarkeit) ("!=" bedeutet "ungleich" ;-))
+
+
+Das ist schon hier falsch: Eine Wahrheitstheorie ist zwar, wie du
+betonst, durchaus mit Rechtfertigung korreliert (wobei die
+interessante Frage ist, auf welche Weise), aber sie *rechtfertigt*
+(oder prüft) nicht die Sätze einer Objektsprache. Leicht verkürzt
+formuliert, ist Olieslager Theorie eine Metatheorie über
+Wahrheitstheorien, eine Adäquatheitsbedingung, die fordert, dass eine
+Wahrheitsheorie für eine Objektsprache O die materialen Bikonditionale
+des Schemas
+
+ s ist wahr in O gdw. p
+
+impliziert, wobei s durch einen Satz der Objektsprache (mache sagen
+auch, durch einen Namen des Satzes, wenn Zitate als Namen
+interpretiert werden) und p durch eine Übersetzung von s in die
+Metasprache ersetzt wird.
+
+
+Doch, da die Prüfung der Wahrheitsbedingung in M unabhängig von der
+Definiton des Wahrheitsprädikats ist (nur letzeres müßte in der
+Metametasprache geschehen). Wenn eine Wahrheitstheorie für's Englische
+das Bikonditonal
+
+ .Snow is white ist wahr gdw. Schnee ist weiß., 
+
+impliziert (also O=Englisch, M=Deutsch), dann besteht die Prüfung, ob
+der Satz Snow is white.� wahr ist, darin, eventuell empirisch zu
+entscheiden, ob Schnee tatsächlich weiß ist. Dazu muss ich nicht in
+die Metametasprache MM (=Englisch) gehen, um den Satz
+
+ .Snow is white ist wahr gdw. Schnee ist wei߫ is true
+ iff. (Snow is white  ist wahr gdw. Schnee ist weiß).
+
+zu prüfen.      
+
+
+Die Konstruktion des Begr�ndungsdillemmas bei Michelmair geschieht mir etwas
+zu "mechanisch" (stammt nicht von ihm die "Widerlegung" Jungcurts?) und
+setzt selbst schon einen Wahrheitsbegriff voraus. Wenn ich eine
+Objektsprache mit einer Metasprache untersuche, so wird vorausgesetzt,
+dass ich ein kompetenter Sprecher der *Metasprache* bin. Dann bin ich
+bei "künstlichen" (Objekt-) Sprachen in der Lage, diese semantisch zu
+interpretieren, oder bei natürlichen Sprachen, die schon
+vortheoretisch eine Bedeutung haben, diese formal zu rekonstruieren.
+
+
+Verstehe ich nicht. Im Grunde liefert eine Wahrheitstheorie, die neben
+Ommerborns Adäquatheitsbedingung einige zusätzliche Bedingungen erfüllt,
+eine *Bedeutungstheorie* für die Objektsprache (ja, ich gebe zu, eine
+ziemlich Davidsonianische Interpretation), und eine Übersetztung in
+die Metasprache. *Wenn* die Theorie selbst stimmt (und eine solche
+Theorie ist für natürliche Sprachen *emprisch*), *kann* ich nun, in
+dem ich Sätze der Metasprache auf Wahrheit prüfe, auf die Wahrheit von
+Sätzen in der Objektsprache zurückschließen. Das ist aber nur *eine*
+Möglichkeit und schließt andere Methoden, die Wahrheit von Sätzen
+der Objektsprache festzustellen, nicht aus.
+
+
+Ich sehe zumindest *hier* keine Zirkelgefahr.
+
+[Die Bedeutung der Sinnlichkeit]
+
+Wirtgen schreibt, wir könnten über physikalisches Wissen auch dann
+verfügen, wenn wir keinem einzigen unserer *jetzigen* Sinne
+ausgestattet wären. Ich stimme dir insofern zu, als dass ich auch
+nicht glaube, ein Wesen *ohne* Sinne könne Wissen erwerben. Nur sollte
+es nicht auf eine ganz bestimmte "Ausstattung" ankommen. (m.E. *meint*
+das Nagel, obwohl nach dem, was er *sagt*, auch deine Interpretation
+möglich ist) Hier ist auch der entscheidende Punkt, warum ich
+glaube, dass Ommerborns Wahrheitstheorie für eine
+Bedeutungstheorie wichtig ist: Durch die objektionale Deutung stellt
+sie den Weltbezug von Sprache her, und zwar auch solcher Sätze, deren
+"Gegenstände" zu abstrakt sind, als dass  für sie ein direkter
+"Beleg" durch Sinnesdaten gegeben werden könnte.
+
+
+igor

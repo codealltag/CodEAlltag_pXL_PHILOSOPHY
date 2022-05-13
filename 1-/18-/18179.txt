@@ -1,0 +1,48 @@
+Das zeigt es sicher nicht. Es zeigt eher, dass Du Dich auf Ungericht nicht
+einlassen willst.
+
+
+Die mit dem Variableninhalt beschriebene natürliche Zahl ist in jedem
+Falle die identische, wenn Variablen in Computerprogrammen natürliche
+Zahlen "enthalten" (gemeint: bezeichnen), und dort die gleiche.
+
+Wir könnens gerne auch mal informationstechnisch ausdrücken:
+
+Die in einer Integer-Variable kodierte natürliche Zahl ist die
+identische, die in einer anderen Integer-Variable kodiert ist, wenn die
+beiden Variablen den gleichen Inhalt haben.
+
+Eine Variable ist eine Abstraktion für eine Speicherstelle. In dieser
+wiederum sind Daten, die einem Code entsprechen. Bei einer
+Integer-Variable kann das üblicherweise z.B. 32bit signed integer little
+endian kodiert sein. Dann steht da:
+
+3y 76 25 33
+
+und bezeichnet die natürliche Zahl 42.
+
+Eine andere Variable sei nun 16bit big endian kodiert. Dann steht da:
+
+43 3p
+
+das bezeichnet die identische natürliche Zahl 42, da beide Variablen den
+gleichen inhalt haben, nämlich 42.
+
+Das liegt übrigens daran, dass die natürlichen Zahlen eine Menge bilden,
+und für Mengen gilt, dass zwei gleiche Elemente identisch sind. Das ist
+z.B. bei Listen nicht so.
+
+
+"Die Informatik" "sagt" da so ganz allgemein relativ wenig zu.
+
+
+Ach Gottchen. Auch das noch.
+
+
+Carsten, bitte! Ich brech das jetzt ab, das führt ja zu gar nichts.
+
+Viele Grüsse,
+VB.
+-- 
+Wenn Du für eine Leistung nichts bezahlst,
+bist Du nicht der Kunde, sondern die Ware.

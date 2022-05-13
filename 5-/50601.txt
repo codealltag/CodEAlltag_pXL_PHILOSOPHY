@@ -1,0 +1,20 @@
+Das kann ohne weiteres der Fall sein.
+
+Beispiel: Sprache A unterstützt die Verarbeitung paralleler
+Prozesse (multithreading), Sprache B unterstützt das nicht.
+Dann ist eine Programmlogik, die Parallelverarbeitung
+unverzichtbar veraussetzt, nicht übersetzbar.
+
+Das gleiche gilt für eine Menge anderer Sonderfunktionen,
+die nur in manchen Programmiersprachen vorhanden sind.
+
+
+Damit wären wir bei einem Fehlschluss gelandet.
+
+So schnell geht das, wenn Philosoph logische Schlüsse aus allgemeinen 
+Begriffen wie "Sprache" zieht, ohne sie an der Realität zu prüfen.
+
+Wer an Realität nicht interessiert ist, sieht dafür natürlich
+auch keine Veranlassung.
+
+lg Giorgio

@@ -1,0 +1,18 @@
+Vorschlag:
+Valentin hat zwei Eigenschaften P:
+P_1(bekommt Stelle) und P_2(hat 10 Münzen)
+Da Eggard die Stelle erhält ist S eine einelementige Menge:
+S:={s: s=J}
+Dann die zweite Menge M
+M:={x: P(x) = hat zehn Münzen}
+Somit gilt:
+J e S & J e M
+Das ist nach Defintion von S und M eine wahre Aussage.
+Somit gilt 
+A x :(x e S) E y :(y e M & y=x)
+Somit:
+x e S -> x hat zehn Münzen.
+Auch diese Aussage ist Wahr.
+-- 
+Mit freundlichen Größen
+Thomas Krautkrämer

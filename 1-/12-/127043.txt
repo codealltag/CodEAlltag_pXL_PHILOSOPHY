@@ -1,0 +1,56 @@
+On Mon, 12. 04. 22 17:15:17 +0200, E. Jacobie <uo_gmre@nbypcm-mzhx.uf>
+wrote:
+
+Wir haben also das Prädikat:
+
+	O(x) : ist(x, [Mondoberfläche, da und da (genau), 
+                       7. Juli 1969, 3.56  Uhr MEZ]).
+
+--------------------------------
+
+Betrachten wir nun Alexander Dohrmann und Hanspeter. Und stellen wir uns die
+Frage: sind das ZWEI Personen, oder nur eine?
+
+Es soll dabei gelten: AP(P(Alexander Dohrmann) <-> P(Düsterloh)).
+
+Dann hätten wir also auch:
+
+	O(Alexander Dohrmann) <-> O(Düsterloh).
+
+Nun wissen wir, dass O(Alexander Dohrmann) gilt. Daher also auch O(Alden).
+
+Nach unserem Prinzip (dass sich an einen best. Raum-Zeitpunkt jeweils
+nur EIN Objekt befinden kann) hätten wir dann:
+
+	Alexander Dohrmann ist "numerisch identisch" mit Hanspeter.
+
+Einfacher:
+
+	Alexander Dohrmann _ist_ Hanspeter.
+
+(Was übrigens stimmt.)
+
+
+Und genau zum selben (sic!) Ergebnis führt auch die Leibnitzschen
+Definition:
+
+	x = y :<-> AP(Px <-> Py).
+
+Daraus folgt:
+
+	AP(Px <-> Py) -> x = y.
+
+Setzt man für "x" "Alexander Dohrmann" und für "y" "Düsterloh" ein, so erhält
+man:
+
+	AP(P(Alexander Dohrmann) <-> P(Düsterloh)) -> Alexander Dohrmann = Düsterloh.
+
+Oben hatten wir vorausgesetzt: AP(P(Alexander Dohrmann) <-> P(Düsterloh)), also
+haben wir (mit MP):
+
+	Alexander Dohrmann = Düsterloh.
+
+Sehr schön!
+
+
+F.

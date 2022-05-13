@@ -1,0 +1,15 @@
+Sei K ein Körper.
+
+Zeige: für beliebige x gilt 0 * x = 0.
+
+Unter a/b versteht man die eindeutig bestimmte Lösung von 
+	b * x = a,
+falls denn eine solche existiert.
+
+Da aber stets 0 * x = 0 ist, erfüllen ALLE x aus K die Gleichung.
+Also existiert keine EINDEUTIGE Lösung.
+
+Punkt.
+
+--
+albrecht

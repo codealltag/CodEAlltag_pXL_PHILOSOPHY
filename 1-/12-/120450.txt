@@ -1,0 +1,37 @@
+Hi, gnea !
+
+1. Erkenntnis kann sein, daß das Schema sich ändert.
+2. Erkenntnis kann sein, daß das die Änderung des Schemas einem oder 
+keinem Schema folgt.
+3. Erkenntnis kann sein, daß Sequenzen dem Resultat einer einfachen 
+Formel zur Berechnung von PI folgt:
+
+#include <stdio.h>
+int n=10000,b,c=2800,d,e,f[2801],g;main()
+{for(;b-c;)f[b++]=n/5;
+for(;d=0,g=c*2;c-=14,printf("%.4d",e+d/n),e=d%n)
+for(b=c;d+=f[b]*n,f[b]=d%--g,d/=g--,--b;d*=b);
+}
+
+314159265358979323846264338327950288419716939937510582097494459230781640628
+620899862803482534211706798214808651328230664709384460955058223172535940812
+848111745028410270193852110555964462294895493038196442881097566593344612847
+564823378678316527120190914564856692346034861045432664821339360726024914127
+372458700660631558817488152092096282925409171536436789259036001133053054882
+046652138414695194151160943305727036575959195309218611738193261179310511854
+807446237996274956735188575272489122793818301194912983367336244065664308602
+139494639522473719070217986094370277053921717629317675238467481846766940513
+200056812714526356082778577134275778960917363717872146844090122495343014654
+958537105079227968925892354201995611212902196
+
+In diesem Moment ist eine einfache Formel zur Berechnung von PI die 
+Steuerung für die Änderung des Schemas.
+Wetten, daß nach einer ausreichend langen Rechnung die Sequenz der 
+Karten sich irgendwo in den Nachkommastellen von PI wiederfindet ?
+Hierzu müßte mal allerdings die Formel von Merklinghaus zu Hilfe ziehen, 
+die ca. 300.000 Nachkommastellen bei jeder Interation liefert.
+
+Es ist also Schwachsinn, diese Aufgabe, weil es unendlich viele Schemata 
+gibt, die Kartenzusammengeh�rigkeiten erzeugen, auch eine Erkenntnis, oder ?
+
+Mit freundlichen Größen, Engelbert Nagelschmitz

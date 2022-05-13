@@ -1,0 +1,15 @@
+In die Kuenstliche Intelligenz (zum Beispiel "language understanding")
+tritt das Problem auch auf. Die Loesung ist da anzuerkennen dass ein
+Wort mehrere Bedeutungen haben kann. Das Wort Bank ist wass man hoert,
+schreibt oder liest, fuer die Bedeutungen benuetzt mann Bank1 und Bank2.
+Dann tritt Dein Problem nicht mehr auf:
+
+  Banken1 sind Sitzgelegenheiten
+  Die Höhenflug ist eine Bank2
+
+Problem bleibt zu entscheiden ob eine gehoerte Bank eine Bank1 oder
+Bank2 ist.
+
+Und fuer Feinschmecker: ob Person1's Bank1 auch Person2's Bank1 ist.
+
+Franz

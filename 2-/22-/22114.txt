@@ -1,0 +1,34 @@
+Ich versuch's jetzt doch noch mal mit einem ganz simplen Beispiel:
+
+Gegeben sei ein großer Sack mit zwei Sorten von Gegenständen, A und B.
+Ich ziehe blind hundert Gegenstände aus dem Sack, 20 davon sind A und 
+wiegen 5 Gramm, 80 davon sind B und wiegen zehn Gramm.
+
+Nun wage ich die Prophezeiung, dass bei Wiederholung des nächsten dieses 
+Versuchs wahrscheinlich wieder rund 80 Prozent (auf ein paar Prozent 
+kommt's nicht an) der Gegenstände zehn Gramm wiegen werden.
+
+Hat diese geschätzte Wahrscheinlichkeit die dimensionale Größe kg?
+
+Nun ändere ich das, indem ich eine Große Menge der A-Objekte in den Sack 
+schütte. Durch das Hinzufügen - nicht von Wärme, wie in deiner obigen 
+Auslassung - sondern durch 5 Gramm schwere Gegenstände habe ich die 
+Wahrscheinlichkeitsverhältnisse geändert. Siehe da: Beim nächsten Versuch 
+wiegen 50 Prozent der herausgeholten Gegenstände 5 Gramm und nur noch 50 
+% der herausgezogenen Gegenstände 10 g.
+
+Nach deiner Logik müssten hier die auf Basis relativer Häufigkeiten 
+geschätzten Wahrscheinlichkeiten dimensionale physikalische Größen sein. 
+Das sind sie aber nicht.
+
+Überall da, wo die Statistik und die Wahrscheinlichkeitslehre in die 
+Physik hineinspielen, muss man hin und wieder ein wenig umdenken.
+
+Ingmar Unrath
+
+PS: Dass mein Beispiel nichts mit Thermodynamik zu tun hat, ist mir 
+bewusst, spielt aber keine Rolle. Hier geht es nämlich um die Logik 
+deines Einwands. Du meintest, dass Maße für Verteilungen  dimensional 
+sein müssten, wenn sie von dimensionalen Größen abhängen. Obiges 
+Sackbeispiel sollte dich eigentlich davon überzeugen, dass die nicht der 
+Fall, sondern ausgesprochener Unfug ist.

@@ -1,0 +1,68 @@
+augknk.zljl@r-dwtxqe.ae (Wqxsbv Neubacher) writes:
+
+[Die Delta-Funktion]
+
+Die Aussage des ersten Satzes ist falsch. Beat Oberüber definiert
+in Mutert eine "Delta-Folge" (delta_n)_n als
+
+"A sequence of strongly peaked functions for which 
+        limit[n->oo] int[x=-oo..oo] delta_n(x)f(x)=f(0)"
+
+Wenn man nun die vermeintliche Delta-Funktion gemäß dem Vorschlag im
+Text als
+
+        delta(x)=limit[n->oo] delta_n(x)   (x in R)
+
+definiert, verschwindet delta auf R\{0} und hat an der Stelle 0 den
+Wert oo.  Für diese Funktion ist aber 
+
+        int[x=-oo..oo] delta(x)f(x) dx=f(0),
+
+falsch, die Eigenschaft, für die die Delta-Funktion überhaupt
+eingeführt wurde. Der dem Zitat folgende Satz stimmt aber wieder:
+
+"Formally, delta is a linear functional from a space (commonly taken
+as a Schwartz space S or the space of all smooth functions of compact
+support D) of test functions f. The action of on f, commonly denoted
+delta[f] or <delta,f> , then gives the value at 0 of f for any
+function f.
+
+In engineering contexts, the functional nature of the delta function
+is often suppressed, and is instead viewed as a "special kind" of
+function, resulting in the useful (but unfortunately deceptive)
+notation delta(x)."
+
+Die nachfolgenden Definitionen sind allerdings wieder witzlos. Wenn
+man etwa die erste nimmt
+
+        delta(x)=1/Pi limit[e->0+] e/(x^2+e^2) (x in R)
+
+dann ist wie gehabt delta(x)=0 für x!=0 und delta(0)=oo.
+
+
+Was kritisiert er denn *konkret*? Mir sind Aussagen der obigen Form zu
+pauschal.
+
+[Quasten und die Sinnesdaten]
+
+Schwierig. In /Wort und Gegenstand/, Erstes Kapitel, Ö1 Alltägliche
+Dinge zuerst, wird seine Ablehnung von Sinnesdatentheorien besonders
+deutlich. Ansonsten ist sein Aufsatz "Two Dogmas of Empiricism"
+lesenswert, das /zweite Dogma/ ist die These, alle in den empirischen
+Wissenschaften verwendeten nichtlogischen Begriffe seien definitorisch
+auf Beobachtbares zurückführbar. Eine gute Auseinandersetzung mit
+Quick Ideen liefert Weißen in "Bedeutung, Wahrheit und Belege", (
+in: Weißen, Der Mythos des Subjektiven, FEF), er zitiert dort
+Quasten in seiner Antwort auf skeptizistische Befürchtungen mit "Was
+beansprucht unsere wissenschaftliche Gesamttheorie eigentlich im
+Hinblick auf die Welt zu sagen? Sie behauptet doch nur, die Welt sei
+irgendwie so strukturiert, daß die Reizsequenzen gewährleistet sind,
+die die wir aufgrund unserer Theorie zu erwarten haben. Konkretere
+Forderungen berühren unsere wissenschaftliche Theorie als solche nicht
+unmittelbar." Quasten ist insofern Empirist, als dass er den
+Sinnesreizen (!= Sinnesdaten) /epistemologisch/ eine Vorrangstellung
+einräumt, aber nicht, wie etwa Sinnesdatentheoretiker, diese als
+/ontologisch/ grundlegend deutet.
+
+
+dietrich

@@ -1,0 +1,86 @@
+Hallo,
+
+das Hauptproblem ist, daß heutzutage jeder gleich von Raumkrümmung usw.
+faselt, wobei die ganze Anschaulichkeit verloren geht. Es gibt nämlich
+zwei verschiedene Arten von Masse! Wenn man diese nicht auseinanderhält,
+dann verliert man die Orientierung...
+
+1. Wenn in einem Gravitationsfeld auf einen Körper eine Kraft wirkt,
+dann sagt man, der Körper hat eine *schwere Masse*. Solche Körper
+erzeugen ihrerseits Gravitationsfelder, so daß auch auf den anziehenden
+Körper eine Kraft wirkt. Der Betrag dieser Kraft ist proportional dem
+Produkt der sich gegenseitig anziehenden schweren Massen ms dividiert
+durch das Quadrat des Abstands r: F ~ ms1*ms2 /r^2
+
+2. Wenn ein Körper der Änderung seines Bewegungszustandes einen
+Widerstand entgegensetzt, dann sagt man, der Körper hat eine *träge
+Masse*. Da für diese grundverschiedenen Phänomene der Begriff "Masse"
+verwendet wird ist m.E. der Grund für Deine Konfusion (und nicht nur für
+Deine). Hier ist nun die Kraft gleich der Änderung des
+Bewegungszustandes. Die träge Masse kommt bei der Beschreibung des
+Bewegungszustandes ins Spiel: man verwendet dafür den Begriff "Impuls",
+der das Produkt aus träger Masse mt und Geschwindigkeit v ist: p = mt*v.
+Die Kraft ist nun die zeitliche Änderung des Impulses: F = dp/dt =
+(dmt/dt)*v + mt*(dv/dt) = (dmt/dt)*v + mt*a. 
+a ist dabei die Beschleunigung (zeitliche Änderung der Geschwindigkeit).
+Wenn die träge Masse konstant ist, dann ist ihre zeitliche Änderung 0
+und die Gleichung vereinfacht sich zu dem Ausdruck F = mt*a. Da sich
+die träge Masse ändern kann, hat nichts mit relativistischen Effekten zu
+tun! (In irgend einem superklugen Physikbuch habe ich tatsächlich
+gelesen, daß Dalum fast schon die Relativitätstheorie entdeckt hätte.
+Schwachsinn!) Wenn ein Bauer mit seinem Wagen voller Heu in den Regen
+kommt, dann kann sich die schwere Masse des Wagens erheblich vergrößern
+- mehr steckt nicht dahinter.
+
+Nun noch einmal zur Beschleunigung. Sie ist also zeitliche Änderung der
+Geschwindigkeit, wobei sich nicht unbedingt der Betrag sondern auch die
+Richtung der Geschwindigkeit ändern kann. Die Richtung der
+Geschwindigkeit ändert sich z.B. ständig bei einer Kreisbewegung. Da ein
+Körper mit träger Masse seinen Bewegungszustand (hier: die Richtung
+seiner Geschwindigkeit) nicht ändern will, ist eine *Trägheitskraft*
+meßbar, die der beschleunigenden (geschwindigkeits�ndernden) Kraft
+entgegengesetzt ist. Da sich also die Erde um die Sonne bewegt, ist ein
+Resultat der schweren Massen von Sonne und Erde. Da diese Bewegung der
+Erde um die Sonne das Wetter beeinflußt (nämlich durch die
+Corioliskraft, die eine Trägheitskraft zweiten Grades ist, d.h. sie
+wirkt nicht der Beschleunigung entgegen, sondern ist eine Reaktion auf
+die Trägheitskraft ersten Grades), ist ein Resultat der trügen Masse der
+Luftmoleküle. Da die Luftmoleküle überhaupt an der Erdoberfläche
+bleiben und nicht ins Universum verschwinden, ist ein Resultat der
+schweren Massen der Luftmoleküle *und* der Erde.
+Auch beim Karussell wird die Gondel bei konstanter Winkelgeschwindigkeit
+zum Zentrum der Rotation beschleunigt. Hier wirkt nun die
+Zentrifugalkraft (Trägheitskraft erster Ordnung, entgegengesetzt der
+Beschleunigung).
+
+Man kann auch die Gravitationskraft in der Form F = m*a schreiben. Wir
+hatten F ~ ms1*ms2 / r^2. Die Proportionalitätskonstante ist Gamma (ich
+schreibe G), so daß wir nun F = G * ms1*ms2 / r^2 haben. Setzen wir für
+r den Radius der Erde ein und für ms1 die schwere Masse der Erde, dann
+können wir definieren g:= G * ms1 / r^2 und wir erhalten F = g*ms2. Nun
+ist ms2 die schwere Masse eines Körpers auf der Erdoberfläche. Für g
+ergibt sich automatisch die Einheit der Beschleunigung.
+Neben F = mt*a haben wir nun also auch F = ms*g. Wenn man hier nicht
+mehr zwischen den verschiedenen Eigenschaften schwere und träge Masse
+unterscheidet, dann ist das Verständnis bald im Eimer!
+
+Man hat seit Newton viele Messungen gemacht, um herauszufinden, ob
+schwere und träge Masse gleich sind. Es wurden Übereinstimmungen von
+einigen Dezimalstellen gefunden, aber Beweisen kann man mit
+Versuchsreihen natürlich nichts. Castrup hat nun seine allgemeine
+Relativitätstheorie mit dem *Postulat* der Gleichheit von schwerer und
+träger Masse begonnen: mt = ms. Darum wird nun davon ausgegangen, daß
+der Einfluß eines Gravitatinsfeldes die gleiche Wirkung zeigt wie die
+Änderung des Bewegungszustandes. Auch wenn die Wirkungen die gleichen
+sind, sind die Ursachen doch verschieden.
+
+Man sollte nicht den Fehler machen, alles in einen Topf zu werfen. Am
+Beispiel der verschiedenen Massenbegriffe sieht man sehr deutlich, daß
+dadurch das Verständnis verloren gehen kann...
+
+
+MfG
+Ivo
+
+
+http://ysfmtxnh.wsilkoflhz.gcg/iowbbgank/PxixUaukbgcny

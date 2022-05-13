@@ -1,0 +1,42 @@
+Hallo Raphael,
+
+Eben.
+Und ich habe darüber eine Berechnung angestellt, aus welcher sich ergibt,
+dass die Wahrscheinlichkeit w einer 50%igen Dichteschwankung sich zu der
+Ausdehnung a der Dichteschwankung so verhält:
+
+w = 2^(-a/2)
+
+Dabei habe ich als Modell einen eindimensionalen zufälligen Bitstrom
+genommen. Wenn ich mich recht erinnere, dann haben alle Oberwellen eines
+Dirac-Impulses die gleiche Amplitude. Wenn man nun a (die Bitanzahl der
+Audehnung der Dichteschwankung) beliebig gross werden lässt, werden die
+"Bits" zu Dirac-Impulsen und dann sollte sich weisses Rauschen ergeben.
+(Wenn meine schwache Erinnerung an die Fourieranalyse nicht trägt)
+
+Bereits bei 1 Million Bits wäre die Wahrscheinlichkeit einer solchen
+Schwankung nur noch 2^(-500000).
+Man bedenke das z.B. für eine Ansammlung von einigen Trillarden Bits
+(Moleküle,Qanten, oder wasauchimmer) oder das ganze Universum!!!
+Bei grösseren Ausdehnungen wird eine Dichteschwankung praktisch unmöglich.
+Man kann das auch leicht auf andere Dichtefaktoren umrechnen, wegen des
+exponentiellen Anstiegs ändert sich an der  Betrachtung nichts.
+
+Hinzu kommt, wenn man die Schwankung der Energie- oder Massendichte pro
+Volumen anschaut, dass die Dichteschwankungen in der Realität viel höher
+sind, als 50%.
+
+Ich ja auch nicht. Ich habe lediglich versucht, den Zustand eines
+thermischen Gleichgewichts zu berechnen.
+
+Thermisches Rauschen ist doch reiner Zufall, was sonst?
+
+Klar ist das umstritten, ich streite halt mit ;-).
+
+Grösse,
+
+Sergio
+
+-- 
+Reality is _not_ an elephant.
+For a start, it's a rainbow.

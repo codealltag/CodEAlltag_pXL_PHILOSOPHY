@@ -1,0 +1,43 @@
+Was ist bei dir eine RGB-Pallette? 
+Die drei Farbkanäle bei deinem Rechner? Das was bei Photoshop u.�. von 0
+bis 255 geht und RGB heisst? 
+
+Das ist aber nur ein Spezielfall von Primärfarben. Die Werte geben
+indirekt die Spannung an den Kathodenstrahlröhren an, durch
+Elektronenstrahlen die Leutphosphore anregen. Letztere sind relativ
+Schmalbandige Lichtquellen. Aber nur relativ. Die billigen Phosphore die
+z.B. für TV und Computermonitore verwendet werden, sind nicht so
+schmalbandig wie die für NTSC und PAL vorgeschriebenen Normphosphore.
+Die Leutdichte(->Helligkeit) der Phosphore ist nichteinmal linear zu den
+Codevalues (0-255). Die berühmte Monitorkennlinie und das noch betere
+Gamma spielen hier mit rein. 
+Andere Phosphore->andere Farben. 
+Es gibt nicht _die_ RGB Grundfarben!
+Und selbst mit den smalbandigsten Lichtquellen können nicht alle drei
+Zapfen beliebig unterschiedlich gereizt werden. 
+
+Wenn du eine monochromatische Lichtquelle betrachtest und jetzt
+versuchts mit 3 beliebigen Prim�rlichtquellen (RGB) diesen Farbton zu
+reproduzieren, erhälst du 3 Werte. über das gesamte Spektrum erhälst du
+drei Kurven. Das sind die sog. Colormatching-Funktionen. Für jede
+prim�rlichtquellen sehen diese unterschiedliche aus. Aber egal wie,
+irgendwo werden sie immer negativ (im Experiment nur durch Tricks-
+kontanter Offset, interpolation- zu ermitteln.
+Diese Farben wo ein Funktionswert negativ ist, kann demzufolge nicht
+dargestellt werden. 
+Zum Beispiel kann mit Film (und Druckfarben) gesättigtere Cyan-Töne
+dargestellt werden als auf dem Computermonitor. 
+
+
+Die Kurven kann ich dir gerne rauskramen, sind aber unerheblich. 
+
+
+Ja. Aber auch irrelavant. Die Abstraktion für unsere Betrachtung als
+drei Empfänger mit bestimmter spektraler Empfindlichkeit reicht für
+unsere Überlegung. 
+
+
+Versteh ich nicht. Was, wie, wo, warum? 
+
+
+_Das_ "Neutralgrau" gibt es auch nicht. (->Farbadaption)

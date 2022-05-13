@@ -1,0 +1,95 @@
+Was würde Taller wohl zu Härteis' System sagen?
+
+Härteis präsentierte 1952 ein Axiomensystem (_beruhend auf der
+Implikation und der Negation_), das lediglich aus einem einzigen Axiom
+besteht.
+
+Axiom-Schema:
+
+	Ax. (((((A->B)->(~C->~D))->C)->E)->((E->A)->(D->A)))
+
+Schlussregel:
+
+	MP   A -> B  A
+	     ---------
+	         B
+
+Ok, wir haben 2 Junktoren, was aber eigentlich eher "nicht so schlimm"
+ist, weil wir auf diese Weise ja eine Definition eines Konnektivs der
+Aussagenlogik einsparen.
+
+(Anmerkung: Das Herleiten von Ergebnissen ist in diesem System NOCH
+problematischer als in Eggekraut System, würde ich sagen.)
+
+
+A.
+
+
+P.S.
+
+Hier der Beweis für
+
+	P |- P.
+
+(1)((((P->P)->~P->~P)->P)->P)->(P->P)->P->P_Axiom
+(2)((((~P->~(((((P->P)->~P->~P)->P)->P)->(P->P)->P->P))->~(~P->~((P->P)->P))->~(~(~P->~(((((P->P)->~P->~P)->P)->P)->(P->P)->P->P))))->~P->~((P->P)->P))->P)->(P->~P)->~(~P->~(((((P->P)->~P->~P)->P)->P)->(P->P)->P->P))->~P_Axiom
+(3)(((((~P->~(((((P->P)->~P->~P)->P)->P)->(P->P)->P->P))->~(~P->~((P->P)->P))->~(~(~P->~(((((P->P)->~P->~P)->P)->P)->(P->P)->P->P))))->~P->~((P->P)->P))->P)->(P->~P)->~(~P->~(((((P->P)->~P->~P)->P)->P)->(P->P)->P->P))->~P)->(((P->~P)->~(~P->~(((((P->P)->~P->~P)->P)->P)->(P->P)->P->P))->~P)->~P->~(((((P->P)->~P->~P)->P)->P)->(P->P)->P->P))->((P->P)->P)->~P->~(((((P->P)->~P->~P)->P)->P)->(P->P)->P->P)_Axiom
+(4)(((P->~P)->~(~P->~(((((P->P)->~P->~P)->P)->P)->(P->P)->P->P))->~P)->~P->~(((((P->P)->~P->~P)->P)->P)->(P->P)->P->P))->((P->P)->P)->~P->~(((((P->P)->~P->~P)->P)->P)->(P->P)->P->P)MP[3,2]
+(5)((((P->~P)->~(~P->~(((((P->P)->~P->~P)->P)->P)->(P->P)->P->P))->~P)->~P->~(((((P->P)->~P->~P)->P)->P)->(P->P)->P->P))->((P->P)->P)->~P->~(((((P->P)->~P->~P)->P)->P)->(P->P)->P->P))->((((P->P)->P)->~P->~(((((P->P)->~P->~P)->P)->P)->(P->P)->P->P))->P)->P->P_Axiom
+(6)((((P->P)->P)->~P->~(((((P->P)->~P->~P)->P)->P)->(P->P)->P->P))->P)->P->P_MP[5,4]
+(7)(((((P->P)->P)->~P->~(((((P->P)->~P->~P)->P)->P)->(P->P)->P->P))->P)->P->P)->((P->P)->P->P)->(((((P->P)->~P->~P)->P)->P)->(P->P)->P->P)->P->P_Axiom
+(8)((P->P)->P->P)->(((((P->P)->~P->~P)->P)->P)->(P->P)->P->P)->P->P_MP[7,6]
+(9)((((~(P->P)->~(((((P->P)->~P->~P)->P)->P)->(P->P)->P->P))->~(~(P->P)->~(((((((P->P)->~P->~P)->P)->P)->(P->P)->P->P)->P->P)->P))->~(~(~(P->P)->~(((((P->P)->~P->~P)->P)->P)->(P->P)->P->P))))->~(P->P)->~(((((((P->P)->~P->~P)->P)->P)->(P->P)->P->P)->P->P)->P))->P->P)->((P->P)->~(P->P))->~(~(P->P)->~(((((P->P)->~P->~P)->P)->P)->(P->P)->P->P))->~(P->P)_Axiom
+(10)(((((~(P->P)->~(((((P->P)->~P->~P)->P)->P)->(P->P)->P->P))->~(~(P->P)->~(((((((P->P)->~P->~P)->P)->P)->(P->P)->P->P)->P->P)->P))->~(~(~(P->P)->~(((((P->P)->~P->~P)->P)->P)->(P->P)->P->P))))->~(P->P)->~(((((((P->P)->~P->~P)->P)->P)->(P->P)->P->P)->P->P)->P))->P->P)->((P->P)->~(P->P))->~(~(P->P)->~(((((P->P)->~P->~P)->P)- >P)->(P->P)->P->P))->~(P->P))->((((P->P)->~(P->P))->~(~(P->P)->~(((((P->P)->
+~P->~P)->P)->P)->(P->P)->P->P))->~(P->P))->~(P->P)->~(((((P->P)->~P->~P)->P)->P)->(P->P)->P->P))->(((((((P->P)->~P->~P)->P)->P)->(P->P)->P->P)->P->P)->P)->~(P->P)->~(((((P->P)->~P->~P)->P)->P)->(P->P)->P->P)_Axiom
+(11)((((P->P)->~(P->P))->~(~(P->P)->~(((((P->P)->~P->~P)->P)->P)->(P->P)->P->P))->~(P->P))->~(P->P)->~(((((P->P)->~P->~P)->P)->P)->(P->P)->P->P))->(((((((P->P)->~P->~P)->P)->P)->(P->P)->P->P)->P->P)->P)->~(P->P)->~(((((P->P)->~P->~P)->P)->P)->(P->P)->P->P)MP[10,9]
+(12)(((((P->P)->~(P->P))->~(~(P->P)->~(((((P->P)->~P->~P)->P)->P)->(P->P)->P->P))->~(P->P))->~(P->P)->~(((((P->P)->~P->~P)->P)->P)->(P->P)->P->P))->(((((((P->P)->~P->~P)->P)->P)->(P->P)->P->P)->P->P)->P)->~(P->P)->~(((((P->P)->~P->~P)->P)->P)->(P->P)->P->P))->(((((((((P->P)->~P->~P)->P)->P)->(P->P)->P->P)->P->P)->P)->~(P->P)->~(((((P->P)->~P->~P)->P)->P)->(P->P)->P->P))->P->P)->(P->P)->P->P_Axiom
+(13)(((((((((P->P)->~P->~P)->P)->P)->(P->P)->P->P)->P->P)->P)->~(P->P)->~(((((P->P)->~P->~P)->P)->P)->(P->P)->P->P))->P->P)->(P->P)->P->P_MP[12,11]
+(14)((((((((((P->P)->~P->~P)->P)->P)->(P->P)->P->P)->P->P)->P)->~(P->P)->~(((((P->P)->~P->~P)->P)->P)->(P->P)->P->P))->P->P)->(P->P)->P->P)->(((P->P)->P->P)->(((((P->P)->~P->~P)->P)->P)->(P->P)->P->P)->P->P)->(((((P->P)->~P->~P)->P)->P)->(P->P)->P->P)->(((((P->P)->~P->~P)->P)->P)->(P->P)->P->P)->P->P_Axiom
+(15)(((P->P)->P->P)->(((((P->P)->~P->~P)->P)->P)->(P->P)->P->P)->P->P)->(((((P->P)->~P->~P)->P)->P)->(P->P)->P->P)->(((((P->P)->~P->~P)->P)->P)->(P->P)->P->P)->P->P_MP[14,13]
+(16)(((((P->P)->~P->~P)->P)->P)->(P->P)->P->P)->(((((P->P)->~P->~P)->P)->P)->(P->P)->P->P)->P->P_MP[15,8]
+(17)(((((P->P)->~P->~P)->P)->P)->(P->P)->P->P)->P->P_MP[16,1]
+(18)P->P_MP[17,1]
+
+
+------------------------------------------------------
+------------------------------------------------------
+
+Objektiver Vergleich mit Alessandro System:
+
+Anzahl der Axiome:
+
+Eggekraut System:    1
+Härteis' System: 1
+
+Anzahl der Schlussregeln:
+
+Eggekraut System:    1
+Härteis' System: 1
+
+Gesamtanzahl der Vorkommen von Konnetiven:
+
+Alessandro System:    11
+Merediths System: 11
+
+Gesamtanzahl der Vorkommen von Variablen:
+
+Alessandro System:    12 (!)
+Merediths System: 10
+
+Max. Anzahl der versch. Variablen:
+
+Alessandro System:    5
+Merediths System: 5
+
+Vergleich der Schlussregeln:
+
+Eggekraut System:    Aus X und (X|(Y|Z)) folgt Z
+Härteis' System: Aus X und X -> Y folgt Y
+
+
+Gemessen an diesen _objektiven_ Kriterien ist Hannebohms System offenbar
+/einfacher/ als Alessandro System. (Ok, Eggekraut System benutzt lediglich ein
+Konnektiv; Härteis System hingegen zwei. Dafür sind aber -> und ~ schon
+typische aussagenlogische Konnektive, und brauchen daher nicht mehr
+eigens definiert zu werden.)

@@ -1,0 +1,63 @@
+Die Aussage "X ist schwarz" sagt über das Objekt X zwei Dinge aus, die nicht identisch sind.
+Etwas kann nur schwarz sein, wenn es sowohl über die Eigenschaft "Farbe" verfügt (was auch
+anders sein könnte), als auch zweitens der Wert der Eigenschaft "Farbe" gerade eben schwarz
+ist (was auch anders sein könnte). Die Aussage "die natürlichen Zahlen sind schwarz" ist
+nicht falsch, weil Zahlen nicht schwarz sind (das wäre wohl die übliche Antwort auf die
+Frage, warum die Aussage falsch ist), sondern weil sie die Eigenschaft "Farbe" erst gar
+nicht besitzen. Das logische Denken macht jedoch freiwillig keinen Unterschied zwischen
+nicht-schwarzen Objekten, die Farbe haben - nur eben keine schwarze - und solchen, die
+überhaupt keine Farbe haben. Diese sind für uns allesamt "nicht-schwarz". Daher läßt man
+Dich den obigen Absatz i.A. unwidersprochen behaupten.
+
+Die Aussage "X ist nicht-schwarz" hat als Folge der Nichtunterscheidung im Denken jedoch
+weniger Informationsgehalt als die positive Variante, und das nicht nur, weil sie weniger
+konkret ist. Dieses läßt sich weitgehend generalisieren, weshalb es in der Regel auch wenig
+vorteilhaft ist, Dinge über das zu definieren, was sie nicht sind. Denn "X ist
+nicht-schwarz" läßt uns zunächst im unklaren darüber, ob X vielleicht blau oder rot ist (was
+auf der unkonkretern Formulierung beruht), oder aber etwas ist, was keine Farbe hat (was auf
+generalisierendem Denken beruht).
+
+Will man die zweite Schwäche der negativen Aussage ausgleichen, hat das Folgen. Die Aussage
+"X ist nicht-schwarz" darf dann Äquivalent zur positiven Aussage nur auf  solche X
+angewendet werden, die Farbe haben. Dann wird allerdings dein obiger Absatz falsch, weill
+dann natürliche Zahlen genauso wenig nicht-schwarz sind, wie sie schwarz sind. Die binäre
+Unterscheidung in Schwarze und Nicht-Schwarze fällt dem Vorgang ebenfalls zum Opfer, denn
+neben Schwarzen und Nicht-Schwarzen gibt es nun weitere, die weder das eine, noch das andere
+sind. Damit wird auch die generelle Übertragbarkeit binärer Logik auf die materielle Welt
+unzulässig, denn wenn ich aus der Menge aller Objekte die Menge der schwarzen Objekte
+entfernt habe, bleibt nicht nur mehr die Menge der nicht-schwarten Objekte zurück, sondern
+weitere Objekte, es sei denn, alle Objekte haben die Eigenschaft "Farbe".
+
+Interessanterweise fällt dadurch das Paradoxon zunächst nicht weg, noch wird die Formung der
+�uivalenten Aussage "Alle Nicht-Schwarzen sind Nicht-Raben" unzulässig. Sind mit
+Nicht-Schwarzen die gemeint, die Farbe haben, aber nicht schwarz sind und mit Nicht-Raben
+die, die Raben sein könnten (z.B. Wirbeltiere) es aber nicht sind, bleibt der Schluss
+korrekt. Allerdings besteht nun die Möglichkeit, allgemeine Aussagen bezüglich ihrer Eignung
+als Best�tigungss�tze neu zu bewerten. Neben Aussagen, die zu "Raben sind schwarz" absolut
+keinen Bezug haben, weil ihre Objekte weder Farbe haben, noch Raben sein könnten,  können
+Aussagen über Objekte, die eine der beiden Eigenschaften haben, durchaus bestätigend wirken,
+vor allem dann, wenn wir von endlich mächtigen Objekt-Mengen reden.
+
+Nochmals, ich bestreite nicht die formale Existenz des Paradoxons, auffällig ist jedoch,
+dass es erst so richtig einleuchtet, wenn man es auf materielle Objekte überträgt. Und genau
+diese Operation scheint mir nur in Spezialfällen sinnvoll.
+
+
+Wenn das Universum endlich ist und wenn Zeit, Raum, Energie sowie Materie allesamt kein
+Kontinuum bilden, sondern jeweils vollständig gequantelt sind , dann ist, bei allem Respekt,
+die Unendlichkeit irgendeiner Menge, auch die der natürlichen Zahlen, rein hypothetisch,
+eine Illusion. Selbstverständlich, die vollständige Induktion z.B funktioniert weiterhin,
+aber Beweise über vollständige Induktion sagen auch immer nur aus, dass (nach erfolgreichem
+Induktionsbeweis) eine bestimmte Aussage über N für alle (eventuell bis auf endlich viele)
+Elemente N gilt, aber nicht, dass N tatsächlich unendlich ist. Eines ist jedoch in einem
+gequantelten Universum gewiss, es gibt eine Obergrenze für die größte darstellbare Zahl.
+Auch wenn fast das gesamte Universum nichts weiteres tut, als diese Zahl darzustellen, auch
+wenn diese durch geschickte Rechenvorschriften unvorstellbare Größenordnungen erreichen
+könnte, es könnte immer nur eine konkrete Zahl sein und keine konkrete Zahl ist unendlich.
+So gesehen und wiederum nur so gesehen ist der mathematisch idealisierte
+Unendlichkeitsbegriff nur unter großer Vorsicht ausserhalb der Mathematik verwendbar. Der
+Schluss dass dann schon der Raum, gemeint ist wohl das Universum, unendlich groß sei, weil N
+uns als geistiges Konstrukt unendlich scheint,  ist aber nicht gerade vorsichtig, im
+Gegenteil.
+
+Viele Größe, Gerold Klessig

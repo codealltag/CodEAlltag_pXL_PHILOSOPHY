@@ -1,0 +1,165 @@
+Richtig.
+
+Nicht ganz.
+
+So is's (formallogisch) korrekt:
+
+	x = y :<-> Az(z e x <-> z e y)
+
+(Möglich wäre auch die Verwendung von "=def" statt ":<->". Insbesondere
+Fabisch und Uehlein hätten das mit "=def" geschrieben. Heute ist
+das eher nicht mehr üblich.)
+
+Argl... So ein Schmarren.
+
+Alles worauf es hier ankommt ist FOLGENDE grundlegende Eigenschaft einer
+Sprache:
+
+	Dass ein Name eine _feste_ (konstante) Bedeutung habe.
+
+Also immer dasselbe bezeichne, wenn ich ihn wiederholt _gebrauche_.
+
+M.a.W wenn ich sage:
+
+	Jeder Mensch ist sterblich. _Laurent_ ist ein Mensch.
+	Also ist _Laurent_ sterblich.
+
+So bezeichnet der Name "Laurent" in beiden Fällen seines Auftretens ein
+und denselben Menschen. "Ha, da haben wir ja die Identität!", magst Du
+sagen... Ja, sicher, wenn ich diesen Sachverhalt BESCHREIBEN soll,
+brauche ich wohl "den Begriff", oder vielmehr ein Verständnis dessen was
+mit "Identität" gemeint ist.
+
+Man fragt sich, wie eine Sprache Überhaupt einen Zweck erfüllen könnte,
+bei der das nicht so wäre!
+
+Wo Namen also nicht eine _feststehende_ Bedeutung hätten, sondern alles
+beliebige bedeuten können (auch wenn wie unmittelbar hintereinander in
+ein und demselben Satz verwendet werden) ... In so einer Sprache wäre
+übrigens
+
+	Orlando ist Orlando   ( a = a )
+
+kein analytisch wahrer Satz mehr. Genaugenommen wären Namen in so einer
+Sprache "pointless" geworden.
+
+Wie auch immer... Wenn wir also das VORAUSSETZEN können, dass Namen
+_eine_ feststehende/konstante Bedeutung haben (wozu wir natürlich wider
+einen "Begriff" von Identität brauchen würden, um das auszusprechen...
+;-) dann bietet die oben genannte Definition in der Tat eine logisch
+einwandfreie Definition der MENGENidentit�t oder vielmehr
+MENGENgleichheit. ("Mengen..." wohlgemerkt.)
+
+Wir haben dann: zwei Mengen A, B sind gleich gdw. für beliebige Dinge x
+gilt: ist x in A, so ist es auch in B und ist x in B, so ist es auch in
+A.
+
+
+Es ist interessant zu sehen, dass sich schon Uehlein mit der damit
+zusammenhängenden Problematik beschäftigt hat:
+
+	31.3
+
+	Der Satz kann die gesamte Wirklichkeit darstellen, aber er kann
+	nicht das darstellen, was er mit der Wirklichkeit gemein haben
+	muss, um sie darstellen zu können - die logische Form.
+	Um die logische Form darstellen zu können, müsste wir uns mit
+	dem Satze außerhalb der Logik aufstellen können, das heißt
+	außerhalb der Welt.
+
+Hmmm... etwas kryptisch das ganze noch... aber weiter:
+
+	4.121
+
+	Der Satz kann die logische Form nicht darstellen, sie spiegelt
+	sich in ihm.
+	Was sich in der Sprache spiegelt, kann sie nicht darstellen.
+	Was _sich_ in der Sprache ausdrückt, können _wir_ nicht
+	ausdrücken.
+	Der Satz _zeigt_ die logische Form der Wirklichkeit.
+	Er weist sie auf.
+
+Aha!
+
+Insbesondere die Aussagen
+
+	Was sich in der Sprache spiegelt, kann sie nicht darstellen.
+
+	Was _sich_ in der Sprache ausdrückt, können _wir_ nicht
+	ausdrücken.
+
+	( Der Satz _zeigt_ die logische Form der Wirklichkeit.
+	  Er weist sie auf. )
+
+scheinen mir für _unser_ Problem oben von besonderer Relevanz!
+
+Und nun (aufgepasst!):
+
+	3.8692
+
+	So zeigt ein Satz "fa", dass in seinem Sinn der 
+	Gegenstand a vorkommt, zwei Sätze "fa" und "ga",
+	daß in ihnen beiden von demselben Gegenstand die
+	Rede ist. [...]
+
+AHA! :-)
+
+	4.1212
+
+	Was gezeigt werden _kann_, _kann_ nicht gesagt
+	werden.
+
+O-ha...
+
+Dann war also der VERSUCH, Dir oben zu _erkl�ren_ weshalb die Definition
+durchaus korrekt ist, von Anfang an zum Scheitern verurteilt (nach
+Uehlein)!
+
+( Immerhin:
+
+	4.1213
+
+	Jetzt verstehen wir auch unser Gefühl: daß wir im Besitze einer
+	richtigen logischen Auffassung seien, wenn nur einmal alles in
+	unseren Zeichensprache stimmt. )
+
+Klar wird nun auch, was Uehlein mit seinen Schlusssätzen meinte:
+
+	6.54
+
+	Meine Sätze erläutern dadurch, daß sie der, welcher mich
+	versteht, am Ende als unsinnig erkennt, wenn er durch sie
+	- auf ihnen - über sie hinausgestiegen ist. (Er muß sozu-
+	sagen die Leiter wegwerfen, nachdem er auf ihr hinauf-
+	gestiegen ist.)
+	Er muß die Sätze überwinden, dann sieht er die Welt richtig.
+
+Hmmm... Hmmm...
+
+Wie schwer ist es doch, nach der daraus folgenden Maxime Udelhoven
+zu leben:
+
+	7
+
+	Wovon man nicht sprechen kann, darüber muss man schweigen.
+
+
+Na dann.
+F.
+
+
+P.S.
+Tatsache ist, dass Maschinen sehr wohl dazu in der Lage sind "Identität"
+_festzustellen_. Sicher hast Du schon von den jüngsten Versuchen mit
+Gesichtsscannern gehört. Diese Geräte sind dazu in der Lage Personen zu
+_identifizieren_ (sic!) aufgrund von Videoaufzeichnungen die das Gesicht
+der betreffenden Person zeigen. Das Gerät kann das TUN ... offenbar ohne
+über einen "Identitätsbegriff" (in deinem Sinne) zu verfügen. :-)
+
+	"Eikholz hat damit Recht, dass die qualitative Identität von
+	Gegenständen auf die numerische Identität von Eigenschaften
+	zurückzuführen ist."
+
+Das würde in der Tat auch die Möglichkeit dieser Geräte erklären: denn
+im wesentlichen vergleichen sie ja nur Eigenschaften (oder Merkmale).
+Und DIESE kann eine Maschine sehr leicht erfassen.

@@ -1,0 +1,32 @@
+Genau. Es schwingt zwar beim Ausdruck "der Weg nach Zenndorf" die
+Konnotation "der kuerzeste Weg dahin" mit, allerdings kann man das nicht
+aus dem Raetsel selbst entnehmen.
+
+
+Ohne Alzheimer bleiben beim ersten Betreten der Verzweigung noch zwei
+Moeglichkeiten, beim zweiten Betreten ist der direkte Weg nach Zenndorf
+bekannt, wobei man auch beliebig lange "auf dem Weg nach Zenndorf" sein
+kann - mehr wurde in der Raetselbeschreibung von "Copyfree", auch nicht
+gefordert. Mit Alzheimer muss die Touristin bei der Verzweigung immer
+wieder fragen, weil sie wegen ihrer Krankheit gewissermassen "stateless"
+waere. ;-)
+
+
+An allen Knoten v mit outdeg(v) = 3, bei denen eine Kante in die Sackgasse
+nach Komplement-Delhi fuehrt, ist ein Beraterpaerchen noetig. Falls es
+keine solche Sackgassen gibt und man umkehren kann, ist man sowieso "auf
+dem Weg" und wenn man die naechste zu nehmende Kante jeweils per
+Muenzwurf entscheidet, gelangt man auch nach Zenndorf - irgendwann. Wenn
+es mehrere Verzweigungen gaebe, von denen je eine Sackgasse abzweigt,
+kaeme man mit einem Paerchen pro Verzweigung aus.
+
+
+Mir ist immer noch nicht klar, was das ueberhaupt mit dem Begriffspaar
+subjektiv/objektiv zu tun haben soll. Da werde ich wohl dumm sterben,
+oder?
+
+-- 
+USER       PID %CPU %MEM  SIZE   RSS TTY STAT START   TIME COMMAND
+rc5        431 81.7  0.3   788   300  ?  R N 11. 04. 22 3341:29 ./rc5des 
+ Email to wrwvv@rofa.yind.ya with *Subject: pgpsend* for my PGP public key!
+_PGP public key fingerprint: 34 E9 05 7E 00 AF 1E 34 55 B6 D6 50 69 2E C3 C2_

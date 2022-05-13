@@ -1,0 +1,11 @@
+nun, über den Grenzwert kann man schon eine Aussage machen.
+Wenn ich z.B. eine Funktion f(x) betrachte, die bei x0 eine Singularität 
+hat, dann gibt es zwar keinen Funktionswert f(x0), wohl aber einen 
+Grenzwert lim_{x -> x0} f(x).
+
+
+ich habe "Durchmesser" stillschweigend durch "Skalenfaktor" ersetzt.
+
+
+die aber aus der ART folgt. In jedem guten Kosmologie-Buch findest du das 
+hergeleitet.

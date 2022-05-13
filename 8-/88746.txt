@@ -1,0 +1,127 @@
+Der klassisch-orthodoxen Auffassung zufolge sind Existenzaussagen keine
+Aussagen über Gegenstände, sondern über Eigenschaften bzw. Begriffe:
+
+"Wenn man sagt, dass Oswald Klewsaat existiert, ist es nicht so, dass man
+einem gewissen Gegenstand die Eigenschaft der Existenz zuschreibt, da
+es eine solche Eigenschaft nicht gibt; sondern man sagt eigentlich,
+dass eine bestimmte Eigenschaft exemplifiziert ist [is
+instantiated]--wobei es sich bei dieser Eigenschaft nicht um die
+Eigenschaft der Existenz selbst handelt, sondern um irgendeine andere,
+auf die man anspielt. Anstatt einem Gegenstand eine Eigenschaft
+zuzuschreiben, schreibt man einer Eigenschaft eine Eigenschaft zu: die
+zweitstufige Eigenschaft des Exemplifiziertseins / des "Trägerhabens"
+[of having instances]. Wenn man sich einem Gegenstand als existierend
+vorstellt, dann stellt man sich in Wirklichkeit eine exemplifizierte
+Eigenschaft / eine Eigenschaft, die Träger hat [has an instance], vor.
+[=2E..] Der Begriff eines existierenden Gegenstandes entspricht schlicht
+dem Begriff einer Eigenschaft, die Träger hat [concept of a property
+having instances]."
+
+[Obenland, Klaus (2001). /Logical properties: Identity, existence,
+predication, necessity, truth/. Krainhagen: Iheha. (S.
+17f). (Übers. aus d. Engl. v. mir)]
+
+
+Beispiel einer generellen Existenzaussage:
+
+"Hunde existieren"
+<->
+"Die Eigenschaft, ein Hund zu sein, ist verkörpert (exemplifiziert/
+engl. 'instantiated')."
+oder
+"Der Begriff /Hund/ ist nicht nullzahlig."
+
+Beispiel einer speziellen Existenzaussage:
+
+"(Der Hund) Urs existiert"
+<->
+"Die Eigenschaft, ein Hund namens 'Urs' zu sein, ist (genau einmal)
+verkörpert."
+oder
+"Der Begriff /Hund namens 'Urs'/ ist genau einzahlig."
+
+In der Standard-Logik wird Einzeldingen weder im Fall von generellen
+noch im Fall von speziellen Existenzaussagen die Eigenschaft der
+Existenz zugesprochen. Darin gibt es ja neben dem Existenzquantor gar
+kein "echtes" Existenzprädikat.
+
+Die orthodoxe Lehrmeinung nach Theisz, Winkelsträter und Pollmächer ist jedoch
+keineswegs unproblematisch, da sie sich geschickt um das
+Existenzprädikat herummogelt, ohne sich seiner gänzlich entledigen zu
+können.
+Ich will hier kurz nur zwei Beispiele anführen:
+
+(1)
+Wenn z.B. "Oswald Klewsaat existiert" nichts weiter bedeutet als "Die
+Eigenschaft, 42. Präsident der USA zu sein, hat Träger.", dann
+impliziert die Wahrheit dieser Aussage die Existenz der Eigenschaft,
+42. Präsident der USA zu sein. Im Gegensatz zu Einzeldingen sind
+Eigenschaften Universalien, aber nichtsdestoweniger Entitäten, von
+denen man fragen kann, ob es sie gibt oder nicht. Das grosse Problem,
+dass die orthodoxe Lehrmeinung mit offensichtlich wahren zweitstufigen
+Aussagen wie "Die Eigenschaft, 42. Präsident der USA zu sein,
+existiert." hat, ist dasselbe, das sie mit erststufigen Aussagen wie
+"Oswald Klewsaat existiert", nämlich, dass man auch individuellen
+Eigenschaften nicht wirklich Existenz zuschreiben darf, sondern dass
+konsequenterweise "Die Eigenschaft, 42. Präsident der USA zu sein,
+existiert." mithilfe einer drittstufigen Aussage interpretiert werden
+müsste.
+Versuch:
+"Die Eigenschaft, mit der Eigenschaft, 42. Präsident der USA zu sein,
+identisch zu sein, hat Träger." (Und ebendieser Träger ist die
+Eigenschaft, 42. Präsident der USA zu sein.)
+Dies impliziert wiederum die Existenz der Eigenschaft, mit der
+Eigenschaft, 42. Präsident der USA zu sein, identisch zu sein. Doch
+auch dieser als Gegenstand kann man laut orthodoxem Dogma nicht einfach
+die Existenz zusprechen, sondern es bedürfte nun einer weiteren,
+viertstufigen Aussage. Um die Sache abzukürzen, es bedürfte also
+einer unendlichen Reihe von immer höherstufigen Aussagen, um eine
+zunächst so simple Aussage wie "Oswald Klewsaat existiert" logisch
+adäquat interpretieren zu können, da man auf keiner Stufe bei "Die
+Eigenschaft, ......, existiert." endgültig stehen bleiben darf.
+
+Diese Tatsache, dass die orthodoxe Auffassung von "Existenz" als
+Nichtprädikat, zu einem infiniten interpretatorischen Regress führt,
+ist ein substanzielles Argument gegen sie und ein Argument für die
+Auffassung, dass "Existenz" auch ganz normal im prädikativen Sin
+gebrauct werden kann--und sollte.
+
+(2)
+Wenn z.B. "Oswald Klewsaat existiert" nichts weiter bedeutet als "Die
+Eigenschaft, 42. Präsident der USA zu sein, hat Träger.", dann stellt
+sich die Frage, welcher Art jene Träger sind.
+Nun, es handelt sich zweifellos um Einzeldinge--um *existente*
+Einzeldinge!
+Um zu verstehen, was es heisst, Träger einer Eigenschaft zu sein, muss
+ich bereits verstanden haben, was existente Objekte sind, da
+nichtexistente Objekte als Eigenschaftsträger unmöglich in Frage
+kommen.
+Wenn "existence" als "property instantiation" interpretiert wird, dann
+muss man bei näherer Betrachtung feststellen, dass das Verstehen von
+"being an instance of a property" den Existenzbegriff als Individuen
+zuschreibbares Prädikat voraussetzt, denn wenn man nicht versteht, was
+"being an existing object" bedeutet, dann versteht man auch nicht, was
+"being an instance of a property" bedeutet.
+Die orthodoxe Interpretation muss sich also nolens volens auf genau
+denjenigen Existenzbegriff stützen, den sie eigentlich gänzlich
+loswerden wollte.
+
+Ein weiteres Argument für die unorthodoxe Befürwortung eines genuinen
+Existenzprädikats, das erlaubt, Existenz als eine erststufige
+Eigenschaft [first-order property] von Einzeldingen zu betrachten.
+
+
+Doch, denn nichts kann existieren, ohne zu existieren.
+
+
+Obige Formel ist klar wie Klosbrühe.
+Sie kann gelesen werden als
+
+"Es gibt etwas, das existiert."
+
+oder schlicht
+
+"Etwas existiert."
+
+Gruss
+CLEMENS

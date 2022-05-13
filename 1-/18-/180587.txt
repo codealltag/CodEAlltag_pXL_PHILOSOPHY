@@ -1,0 +1,17 @@
+PA ist durchaus die Menge der Peano-Axiome _mit_ Induktionsschema,
+aber selbst dann lassen sich die natürlichen Zahlen _nicht_ durch PA
+bis auf Isomporphie charakterisieren. 
+
+Eine Folgerung aus dem (ersten) Gödelschen Unvollständigkeitssatz
+besagt, dass  eine Aussage delta existiert, die im Standardmodell
+(also in N) wahr, aber nicht aus PA ableitbar ist.
+
+Sei  nun delta eine solche Aussage. Dann ist PA u {~delta} ein
+widerspruchsfreies Axiomensystem, für das es nach dem Gödelschen
+Vollständigkeitssatz ein Modell N' gibt. Folglich gilt delta zwar in
+N, aber nicht in N' (da dort ~delta gilt), die beiden Modelle von PA
+sind also nicht elementar Äquivalent und somit auch nicht isomorph. 
+q.e.d.
+
+
+tom

@@ -1,0 +1,25 @@
+Man muß sich halt vorhangeln. Ne nette Entspannungsübung;-)
+
+
+Ich bin mir nicht so sicher, /wie/ stark die Wahrscheinlichkeit abnehmen
+würde, da ja der Rand der Mandelbrotmenge M die Hausdorffdimension 2
+hat. Strengenommen ist der Rand von M damit garnicht fraktal, da er
+keine fraktale Dimension hat.
+Da das 2-dim Maß des Randes allerdings 0 ist, geht natürlich die
+Wahrscheinlichkeit, bei einer wahllos herausgegriffenen Kreisscheibe
+(oder Quadrat) vom Radius d den Rand zu treffen, gegen null für d->0.
+Die Frage ist, wie.
+
+Andererseits wäre es auch interessant, nach den Wahrscheinlichkeiten zu
+fragen, wenn man das Kreisscheibchen nicht wahllos aus [-1,1]^2
+auswählt, sondern aus einer Umgebung des Randes (Abstand e). Wenn man
+nun d und e gegen 0 gehen lässt, aber d/e konst. lässt; wie sieht es
+dann mit der Wahrscheinlichkeit aus?
+
+
+Echt selbstähnlich sind die Strukturen des Randes vom M /afaik/ ohnehin
+nicht. Näherungsweise selbstähnlich sollte allerdings jeder Ausschnitt
+des Randes sein. Ob er natürlich dann hübsch ist, ist wieder eine andere
+Frage.
+
+Grüße.

@@ -1,0 +1,46 @@
+Hallo Ralph,
+
+wenn ich recht sehe, definierst Du Kausalitaet eines
+Prozesses ueber eine spezielle Eigenschaft des diesen
+Prozess charakterisierenden Funktionals. Fuer alle
+wichtigen Faelle ist dies z.B. die Markov-Eigenschaft.
+
+Ergibt sich hier aber nicht ein (vielleicht pingeliges)
+Problem? Diese Eigenschaft ist ueberhaupt nur dann
+sinnvoll _definierbar_, wenn fuer den Prozess-Parameter 
+t (hier "Zeit" genannt) eine "<"-Relation definierbar
+ist. (Es gibt z.B. schlicht keinen Markov-Prozess in
+komplexer Zeit).
+
+Also: Man muss Zeiten _vergleichen_ koennen, man muss
+sagen koennen was "vorher" und was "nachher" ist. 
+Unsere gesamte Vorstellung von "vorher" und "nachher"
+ist jedoch wiederum eng mit der Kausalitaet verknuepft.
+Denn, wie wuerde man experimentell _testen_ ob ein
+bestimmter Zustand vor einem anderen Zustand statt-
+gefunden hat? (-> Die Laboruhr zeigt eben eine spaetere
+Zeit an. Woher weiss ich, dass diese spaeter ist? Weil
+nach 2 Uhr 3 Uhr kommt und nicht umgekehrt. Warum? Weil 
+die Zeiger im Uhrzeigersinn laufen. Warum? Weil die 
+Zahnraedchen so gemacht sind, dass eine Rechtsrumdrehung 
+geht aber eine Linksrumdrehung nicht. Oder: Weil die 
+Batterie nachher leerer ist. Etc. Auf jedenfall: Achtung! 
+Im thermodynamische Gleichgewicht haben Uhren keine 
+Vorzugsrichtung, wie misst man also jetzt, ob Zeit vergeht?
+Etc. Etc...)
+
+Kurz: Die Tatsache, dass man Zeiten ueberhaupt ordnen
+kann nach frueher und spaeter, und die Du so sorglos zur
+Definition der Kausalitaet verwendest, koennte eventuell
+selbst eine _Folge_ der Tatsache sein, dass diese Welt
+kausal ist. 
+
+Vielleicht ist dies aber auch mystischer als noetig.
+
+Ich behaupte hier nicht, dass man das alles nicht
+irgendwie koenne. Man muss aber aufpassen, dass man 
+nicht auf subtile Weise einen wichtigen Teil der
+Kausalitaet bereits in ihre Definition hineingraebt
+und sich einem (partiellen) Zirkelschluss hingibt.
+
+Gruss, Fritz

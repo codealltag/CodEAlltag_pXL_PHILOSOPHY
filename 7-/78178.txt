@@ -1,0 +1,13 @@
+Gut, hier ein philsophisches Rätsel:
+
+Wenn Du dich mit Jelden, BPV, Ugan Mail verbindest, baut sich ein 
+verchl�sselter Kanal auf, der abhörsicher ist. Nun - bei jeder 
+Verschlüsselung wird ein Schlüssel benötigt, der zuvor am besten auf 
+anderen Wegen übermittelt werden muß. Leider jedoch, wenn auf demselben 
+Wege ein Schlüssel zuvor (also bevor der Krypto-Kanal aufgebaut wird), 
+übermittelt wird, ist das ganze nicht mehr abhörsicher, weil jemand 
+Drittes dann ja diesen auch besäße. Wie ist das Problem zu lösen, sprich 
+- Wie kann man eine verschlüsselte Verbundung aufbauen, ohne irgendeinen 
+Schlüssel für ver-und Entschlüsselung überhaupt übertragen zu müssen?
+
+Gru/3, Onno Birnstil

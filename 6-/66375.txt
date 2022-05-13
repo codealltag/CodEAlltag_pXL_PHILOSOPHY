@@ -1,0 +1,44 @@
+Normalerweise wird die Dimension eines Raumes vorher festgelegt. Das
+dürfte daran liegen daß die Lineare Algebra ein Universalwerkzeug ist,
+das es dem untersuchenden Mathematiker erlaubt einen beliebigen (bzw
+bequemen) Standpunkt aus einer großen Anzahl auszuwählen.
+
+Man nimmt einfach die Basis in der es paßt. Daher ist klar, daß man die
+Dimension von vorneherein für das passend auswählt, was man mit dem
+Vektorraum vor hat.
+
+Wenn schon die Basis frei festlegbar ist (man muß nur eine wählen)
+stellt sich z.B. die Frage, warum man denn einen eindeutigen
+Nullpunkt wählen muß.
+
+Nun - man muß nicht. Ein referenzpunktfreier Raum heißt Torsor.
+(Begriffen habe ich diese Idee erst durch diesen kleinen Artikel von
+Edouard Philipp: http://ijbi.wft.xlk/aveq/ubxx/oijpmwc.tsue )
+
+Das Beispiel zeigt, wie sich der Wert einer mathematischen Aussage
+vergrößert, wenn sich die mit in die Aussage hineingetragenen
+Grundannahmen verringern. Die Aussage hat als Ergebnis eines Modells
+weniger Wert denn als *Konsequenz* einer allgemeineren Struktur.
+
+Auch aus der Ecke habe ich diesen Link auf ein Paper gefunden, daß die
+Verwendung der Determinante im Lehrbetrieb stark kritisiert:
+
+http://bxd.wycxk.uzd/QaX.slup
+
+Das kann man wegen mir halten wie man will, aber es wird sichtbar, daß
+unter dem Ballast der Determinanten die Anschaulichkeit stark leiden
+kann, selbst wenn mit und ohne Determinante dieselbe Struktur
+beschrieben wird.
+
+Daher finde ich es gerechtfertigt, wenn man von *einer* Null auch in
+verschiedenen Dimensionen spricht. Bei dem was ich bis dato gelesen
+habe wäre so eine Unterscheidung auch wenig nützlich.
+
+Grüße
+  - Joël Hammermann
+
+--=20
+/* mandlsig.c v0.23  (c) by Joël Figura */
+I=3D1702;float O,o,i;main(l){for(;I--;putchar("oO .,m>cot.uzqofyq\
+@uegmrl <raguFit erobR"[I%74?I>837&874>I?I^833:l%5:5]))for(O=3Do=3Dl=3D
+0;O*O+o*o<(16^l++);o=3D2*O*o+I/74/11.-1,O=3Di)i=3DO*O-o*o+I%74*.04-2.2;}

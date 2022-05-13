@@ -1,0 +1,40 @@
+/Welcher/ Sprecher? Deine Def. ist schon /formal/ ungenügend, da auf
+der rechten Seite eine Variable, nämlich 'S', /frei/ vorkommt. Wenn
+ich meine "klassische Definition" formaler mit /eingeschränkten
+Quantoren/ schreibe, lautet sie:
+
+(x: Person)(p: Proposition) W(x,p) <=> G(x,p) & R(x,p) & p
+
+wobei 'W(x,p)' für 'x weiß, dass p', 'G(x,p)' für 'x glaubt, dass p'
+und 'R(x,p)' für 'x kann p rechtfertigen' steht.
+
+
+Eben. Deine Def. (ohne S) ist schon deshalb ungenügend, weil es
+/mögliche Situationen/ gibt, in denen x etwas Gerechtfertigtes aber
+Falsches glaubt. 
+
+
+Wann existiert ein Begriff?
+
+
+Das ist abhängig von der Semantik, bei Inhülsen und Nachfolgern wie
+Nowaczynski geht das sehr wohl, da bestimmt die Intension die
+Extension. Kannst du deinen Einwand etwas klarer formulieren?
+
+
+Kannst du mir erklären, wie du von der Ungültigkeit ontologischer
+Gottesbeweise auf die Ungültigkeit von
+
+(wissen, daß p) -> p
+
+schließt? Letzteres gehört tatsächlich zur Semantik von "Wissen", im
+Gegensatz zum "gerechtfertigtem Glauben". Wenn jemand /weiß/, dass
+Gott existiert, dann existiert er auch, es reicht aber nicht, dass
+derjenige es nur /glaubt/.
+
+
+Wenn du jetzt noch den Term "Metaphysik" explizieren könntest, wäre
+ich dir sehr dankbar ;-)
+
+
+remmer

@@ -1,0 +1,52 @@
+Hallo Siebelt,
+
+Ich glaube, man kann das nicht so sehen. Die Information, die _beim
+Empfänger aus einem Signal _neu_ gewonnen wird, hängt davon ab, wieviel
+Information bei dem Empfänger bereits vorhanden ist.
+
+Wenn man zunächst den Algoritmus eines Komprimierverfahrens überträgt,
+dann kann man später, wenn dieser Algoritmus beim Empfänger bereits
+vorhanden ist, mehr Information übertragen.
+Man schränkt damit aber den Kreis potentieller Empfänger ein und die
+Anzahl möglicher Kopien ein.
+
+Das Problem ist, dass die Informationsmenge nicht einfach additiv
+akkumuliert wird, wie die übertragene Energie oder Masse, sondern sie
+wird multiplikativ akkumuliert.
+
+Daher ist die Informationsmenge nach Deinem Verfahren überhaupt nicht
+berechenbar, denn durch Komprimieren erhöht sich auch das Risiko von
+Informationsverlusten, die sich ebenfalls multiplikativ auf die
+Gesamtmenge der vom Empfänger dekodierten Information auswirken.
+
+Ausserdem schränkt jede Komprimierung die Art der dekodierbaren Daten ein
+und verhindert das übertragen von inkompatibler Information oder blüht
+deren Datenmenge auf.
+
+
+Ich glaube, man muss es dem Empfänger überlassen, wieviel Information er
+dekodieren und verwerten kann. (Je besser er das kann, um so höher sind
+seine Überlebenschancen)
+Wenn ein Empfänger eine Information nicht verwerten kann, dann kann es der
+Nächste vielleicht umso besser.
+
+Die Informationsmenge kann man IMHO an diesen Gesichtspunkten festmachen:
+
+1. Die Arbeit, die nötig war, die Information zu gewinnen.
+2. Die Anzahl von Kopien, die erstellt werden kann und damit auch die
+Anzahl der potentiellen Empfänger, die eine Information dekodieren können.
+Daher ist auch die innere Entropie und damit die Energiemenge, der Raum-
+und Zeitbedarf , die nötig sind, eine Information zu übertragen, zu 
+kopieren und zu speichern, ein Mass für die Information.
+
+Man darf Folgendes nicht übersehen:
+Obwohl Information abstrakt ist, braucht man Energie,Raum, und Zeit um sie
+zu übertragen, zu kopieren und sie zu speichern.
+
+Grösse,
+
+Philipp
+
+-- 
+Reality is _not_ an elephant.
+For a start, it's a rainbow.

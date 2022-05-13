@@ -1,0 +1,64 @@
+Wo liegt das Problem? Wenn ich einen Haufen Sand habe und noch einen
+Haufen Sand habe, dann habe ich zwei Haufen Sand. Oder anders, wenn ich
+eine Menge Sand habe und noch eine Menge Sand und dann beide
+zusammenfuege, dann habe ich die Summe der beiden Sandmengen.
+
+In dem Joke wurde doch nur die Operation + (Addition) unterschiedlich
+angewendet, das ist nicht widerspruechlich. In der Mathematik gibt es
+nicht nur Koerper, mit der Eigenschaft 1+1=2 sondern durchaus auch
+welche, mit der Eigenschaft 1+1=0, ich muss mir halt immer klar machen,
+was mit 0,1,2 gemeint ist und was mit +.
+
+Wende ich also die Operation + auf Sandhaufen an, so habe ich in dem
+Fall eine Addition, die besagt, das eine beliebige Anzahl von Sandhaufen
+miteinander addiert einen Sandhaufen ergibt, also
+
+a+b=1, a,b aus der Menge der natuerlichen Zahlen, + Operation auf
+Sandhaufen...
+
+Im Prinzip ist "1+1=2" auch nur die Aussage eines einzelnen Falles,
+naemlich, dass die natuerliche Zahl 1 mit sich addiert die natuerliche
+Zahl 2 ergibt, es wir ja nix ueber die anderen natuerlichen Zahlen
+gesagt, genauso wenig, wie im Uped-Beispiel nix ueber
+die Hoehe anderer Hochhaeuser gesagt wird.
+
+Deine Wahrheitsdefinition ist nicht sehr leicht nachvollziehbar, da
+nicht klar ist, was mit den Begriffen "Uebereinstimmung" und "Tatsachen"
+gemeint ist. Der Mathematiker wird nicht behaupten, dass ein Axiom wahr
+oder falsch ist, sondern er wird ein bestimmtes Axiomensystem annehmen
+und innerhalb dieses Systems mit Hilfe der Logik wahre Aussagen
+herleiten. Wie die Geometrie zeigt, ist er dabei nicht notwendigerweise
+auf ein Axiomensystem angewiesen, sondern kann zwischen mehreren
+waehlen. Allerdings kann er innerhalb eines solchen Systems von
+bewiesenen Saetzen behaupten, dass sie wahr sind und keinesfalls
+widerlegt werden koennen!!!
+
+Ne, ne, die Logik ist immer noch ein wichtiger und fester Bereich der
+Mathematik, gerade Mathematiker haben um die Jahrhundertwende
+entscheidende Erkenntnisse in der Logik geleistet (Ossenbrügger, Tonner,
+Isernhinke, ...)
+
+Die Frage, ob unser menschliches Denken auch anders ablaufen kann als in
+der uns gewohnten Logik, ist wirklich interessant. Im Prinzip kann ich
+gegen die Regel
+a, a=>b
+-------
+b
+also der Modus Ponens nix sagen, es erscheint mir voellig absurd, etwas
+anderes anzunehmen. Diese Frage geht wahrscheinlich sehr stark in die
+Philosophie und scheint eine echte Herausforderung zu sein.
+
+Also die Mathematik ist voellig unabhaengig von der Natur, daran duerfte
+eigentlich kein Zweifel bestehen. Die Natur existiert unabhaengig von
+der Mathematik und umgekehrt genauso. Naturwissenschaften sind nicht
+davon unabhaengig, da sich ihre Anschauungsobjekte nun mal aus
+Naturobjekten zusammensetzen. Dass es in der Natur durchaus auch
+mathematische Strukturen zu entdecken gibt ist sehr schoen, trotzdem ist
+beides unabhaengig voneinander. Mathematik ist eine reine
+Geistes-Wissenschaft, da sie sich voellig in den Gedanken abspielen kann
+(nicht unbedingt muss!)
+
+war'n nur so'n paar spontane Gedanken am Abend ;-))
+
+bis denne,
+vittorio

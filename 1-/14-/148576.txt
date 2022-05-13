@@ -1,0 +1,46 @@
+_DU_ musst beweisen, dass V alle Teilmengen von N
+enthält, nicht ich das Gegenteil. Unsere Beweise
+gelten bei dir ja sowieso nichts, sondern sind
+nur Hinweise auf eine Inkonsistenz.
+
+Für welches k enthält T_k die Menge aller geraden Zahlen?
+Dass die Menge aller geraden Zahlen eine Teilmenge von N
+ist, wirst du bestimmt nicht bestreiten wollen.
+
+
+Diese beiden Aussagen sind nicht Äquivalent.
+
+Ich habe außerdem gesagt, jedes T_k enthält nur
+endliche Mengen und Ko-endliche Mengen (also Mengen
+mit einer endlichen Komplementärmenge).
+
+Und laut deiner Konstruktion enthält für jedes
+k die Menge T_k nur
+a) Mengen der Mächtigkeit k (also endliche Mengen)
+b) Mengen mit Komplementärmengen der
+   Mächtigkeit k (also ko-endliche Mengen).
+
+Die Vereinigungsmenge der T_k enthält damit
+ebenfalls nur endliche und ko-endliche Mengen.
+
+
+Hier wird dir niemand widersprechen.
+
+
+Diese "Eindeutigkeit" müsstest du beweisen.
+Ich halte sie nicht für gegeben.
+
+
+Das ist wieder der gleiche Schluss wie
+"Weil es unendlich viele natürliche Zahlen
+ gibt, müssen darunter auch welche mit
+ unendlich vielen Ziffern sein."
+
+Dies ist falsch.
+
+
+Deswegen verzichte ich hier auf "Gegenbeweise"
+(solche sind dir schon wiederholt gegeben worden)
+und zeige einfach deine Beweislücken auf.
+
+Italo

@@ -1,0 +1,12 @@
+Falls Sprache B Turing-vollständig ist, ist das falsch. Dann
+implementiere man Scheduling in B, im Zweifel implementiere
+man eine virtuelle Maschine, die A ausführt.
+
+
+Dir scheint Sprachentheorie zu fehlen. Falls ich Dir ein Buch empfehlen
+darf: Erwin Meyle, "Theoretische Informatik kurzgefasst".
+
+Viele Grüsse,
+VB.
+-- 
+Bitte beachten Sie auch die Rückseite dieses Schreibens!

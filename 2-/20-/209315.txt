@@ -1,0 +1,24 @@
+On 20. 04. 23, Eckhard wrote:
+
+Sollte das eine Satire sein? Die armen nicht- Mathematiker hier!
+
+
+Wechseln sich ab ist falsch und unmathematisch. Was heisst denn in einem 
+Kontinuum "wechseln sich ab"? Das klingt ja wie "wir nehmen die 
+kleinste Zahl groesser Null".
+
+In jeder beliebig kleinen Umgebung von einer beliebigen Reellen Zahl 
+findest Du |Q| rationale und |R| reelle Zahlen.
+
+
+Integriere doch einfach mal Deine abgewandelte Dirichlet- Funktion. Ihr 
+Lebesgue- Integral ist 1, also ist es egal, was die Funktion auf den 
+paar rationalen Zahlen macht. Ergo: |R| >>>> |Q|.
+
+Merke: "Der Mensch ist das Mass aller Dinge.
+        Lebesgue ist das Mass *fast* aller Dinge".
+
+Thorsten.
+----
+" ... nur: wenn alle so tun, als waer alles schon klar - 
+  ich frag mich, wo kaem' wir da hin? " - Karsten Krohe

@@ -1,0 +1,43 @@
+Die Batch ist nur um die einzelenen teile zu einer PDF zusammenzufügen.
+Da die PDF in mehrere teile gesplittet ist, hat er halt die bat 
+angehängt für die Daus die zu blöd sind copy zu benutzen. Nix verkehrt 
+dran. Endprodukt ist eine PDF Datei, also keine Ausführbare Datei.
+Von nem PDF Virus hab ich jedenfalls noch nie was gehört.
+Für die falsche Emailadresse ibt es die einfache Erklärung, dass er a) 
+die Adresse mal hatte als er sein Mailprogramm eingerichtet hat oder b) 
+keinen Bock hatte zugespammed zu werden.
+
+die bat: (Kommentare von mir)
+
+@Echo Off
+Echo.
+Echo Creating Görken Faenomenologie des Geistes.pdf from the 3 original 
+pieces.
+Echo.
+Echo This may take a while...
+Copy /b "Görken Faenomenologie des Geistes.pdf.001" "Hegel Faenomenologie 
+des Geistes.pdf" /y > nul
+
+rem kopiert Teil 1 in die PDF im Binary Mode
+
+Copy /b "Görken Faenomenologie des Geistes.pdf" + "Hegel Faenomenologie 
+des Geistes.pdf.002" /y > nul
+
+otto hängt den 2. Teil an die PDF
+
+Copy /b "Görken Faenomenologie des Geistes.pdf" + "Hegel Faenomenologie 
+des Geistes.pdf.003" /y > nul
+
+rem hängt den 3. teil an die PDF, > nul leitet einfach nur den Output 
+ins Nichts, damit es hübsch aussieht.
+
+Echo.
+Echo File creation is complete - Görken Faenomenologie des Geistes.pdf
+Echo.
+Echo.
+Echo.
+Echo.
+Echo.
+
+
+<snipped>

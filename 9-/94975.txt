@@ -1,0 +1,25 @@
+An ihrem Zustand. Ein System ist durch seinen Zustand
+charakterisiert. In der traditionellen Interpretation hat ein
+Einzelsystem S_k einen reinen Zustand, gegeben durch
+    rho_k = psi_k psi_k^* = |k><k|
+wobei psi_k = |k> eine auf Norm 1 normierte Wellenfunktion ist.
+Das Ensemble, das das System S_k mit der Wahrscheinlichkeit p_k
+(sum_k p_k = 1) enth"alt, ist durch den gemischten Zustand
+    rho = sum_k p_k rho_k
+charakterisiert. W"aren alle S_k ununterscheidbar, so w"are
+    psi_k = psi_1 = |1> f"ur alle k,
+also
+    rho_k= |1><1| = rho_1 f"ur alle k
+und daher
+    rho = sum_k p_k rho_k = sum_k p_k rho_1 = rho_1
+Also w"are rho derselbe reine Zustand.
+
+In einem idealen Gas beispielsweise ist (wie in jedem anderen
+mit statistischer Mechanik behandelten System)
+der Zustand aber hochgradig gemischt.
+
+
+s.o.
+
+
+Björn Roehner

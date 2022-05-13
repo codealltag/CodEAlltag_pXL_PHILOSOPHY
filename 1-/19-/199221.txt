@@ -1,0 +1,41 @@
+Patrik Czichowski wrote:
+
+[...]
+
+
+Hmmm... ist jetzt die TeX-Version oder die ASCII-Version die
+richtige? Ich tippe auf die TeX-Version, da dort jede Variable
+einen Quantor hat (ausserdem: was waere das (x)?)
+
+
+Falsch: Fuer y=(Leere Menge) existiert kein x, so dass y \in x.
+Damit ist auch die Und-Aussage fuer die leere Menge und beliebiges
+x falsch, und somit die Existenzaussage fuer x.
+
+Was du vermutlich meintest ist:
+
+\exists y (\forall x ((\x \in y) \lor (x \in x)))
+
+also
+
+Ex: Ay: (x e y) | (x e x)
+
+was aequivalent ist zu
+
+Ex: Ay: (~(x e x))->(x e y)
+
+oder sprachlich:
+
+y enthaelt alle x, die sich nicht selbst enthalten
+
+[Christoph Hüllebrand:]
+[Denis Mendel:]
+
+Hierzu ein schoenes Beispiel:
+
+Fuer alle nichtexistenten Dinge gilt, dass sie existieren.
+
+Nun, er macht eine All-Aussage ueber nichtexistente Dinge.
+Ist er also wahr? :-)
+
+[...]

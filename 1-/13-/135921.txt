@@ -1,0 +1,186 @@
+Hallo Niklaus,
+
+
+Der jeweils aktuelle. Der, der den Satz "x weiß, dass p" mit
+Wahrheitsanspruch vertritt.
+
+
+Ach, das ist beckmesserisch. Ich will hier keinen stubenreinen
+Formalismus produzieren, ich könnte es auch gar nicht.
+
+Der Clou meines Argumentes ist die Sprecherzentrierung der Aussage. In
+deiner Definition von "Wissen" fehlt nämlich der Sprecher komplett.
+Eine linguistische Analyse epistemischer Verben wie "wissen", "meinen"
+etc. muss diesen jedoch miteinbeziehen, um den Unterschied zwischen
+folgenden Sätzen beschreiben zu können:
+
+(1) X behauptet, dass der Zug morgen führt.
+(2) X weiß, dass der Zug morgen führt.
+
+Wissen(x, p) ist ein sog. _faktives Prädikat, d.h. p wird vom
+Sprecher als "wahr" präsupponiert.
+
+Behaupten(x, p) ist ein nicht-faktives Prädikat, der Sprecher klammert
+also den Wahrheitswert von p ein.
+
+(Auch Glauben(x, p) ist ein solches nicht-faktives Prädikat.)
+
+In der klassischen Definition von "wissen" spielt aber der Sprecher
+seltsamerweise keine Rolle. Dann brauchts natürlich gleich die
+Wahrheit von p, um "wissen, dass" von "glauben, dass" unterscheiden zu
+können. Ich brauche nicht die Wahrheit von p zur abgrenzenden
+Bedeutungsexplikation von "wissen" - ich benötige nur gemeinsames
+_und_ gut begründetes Fürwahr-Halten.
+
+Mich interessiert auch nicht, was einen Satz _wahr_ macht, sondern wie
+er _gebraucht_ wird. Mit Inderwischs Gebrauchstheorie der Bedeutung
+ist die Linguistik bislang ganz gut geformen. Wie man heute überhaupt
+pragmatische, diskursorientierte Ansätze bevorzugt. Leider kenn ich
+mich zuwenig mit der Diskurssemantik aus, um hier was beisteuern zu
+können.
+
+
+Und was beweist jetzt diese technische Reformulierung?
+
+Ich kontere:
+
+(x: Person)(s: Sprecher)(p: Proposition) W(x,s,p) <=> G(x,p) & G(s,p)&
+R(x,p) & R(s,p)
+
+Ich nehme also "wissen" als dreistelliges Prädikat, auch der Sprecher
+ist ein Argument. Vielleicht gäbs noch eine elegantere Formulierung,
+aber das tut hier nichts zur Sache.
+
+Was gefällt dir an meinem Argument nicht?
+
+
+Moment aber. Eine Definition _ohne_ S wäre nicht mehr die meine! Die
+wäre sowohl für mich wie für dich aus ebigem Grund unsinnig.
+
+Meine Wissensdefinition wird der sprachlichen Realität gerechter als
+deine. Sätze werden nicht im luftleeren Raum geäußert, sondern von
+Sprechern, die Überzeugungen haben, Präsuppositionen in ihre Sätze
+unterbringen, Kontextwissen haben, mit Äußerungen etwas bewirken
+wollen. Wohingegen "Wahrheit"
+weit über den Wolken schwebt, wenn darunter mehr verstanden werden
+soll als gemeinsames, gut begründetes Fürwahrhalten. (Wobei du sogar
+die Gemeinsamkeit ausblendest.)
+
+
+Sorry, ich meinte die Existenz des Begriffsreferenten, besser: dass
+die Extension eines Begriffes ungleich der leeren Menge ist. 
+
+
+War unklar, stimmt. Also: Aus der Intension eines Begriffes kann ich
+auf rein sprachanalytischem Wege keine Extensionen folgern. Ich kann
+natürlich die Intension in einer definierten möglichen Welt in
+Extension auflösen. Aber dazu gehört Weltwissen (bzw. das Modell einer
+möglichen Welt), aus dem Begriff alleine kann die Extension nicht
+gefolgert werden.
+
+Aber ich seh schon, mein Einwand geht fehl. Auf der linken Seite
+deiner Wissensdefinition steht ebenfalls eine Extension, nämlich [X
+weiss, dass P]. Mir bleibt jedoch schleierhaft, welchen Nutzen die
+Definition einer Extension hat. Ich dachte immer, _Bedeutungen_ müßten
+erklärt werden, nicht Extensionen. Platt formuliert: Ich kann zwar die
+Bedeutung von "Hund" definieren, aber nicht die Menge aller Hunde und
+ebensowenig Nachbars Michael. Mir bleibt das ganze Vorgehen rätselhaft.
+
+
+Das Problem ist nur, dass ich keinen kenne, der _wei�_, dass Gott
+existiert. ;-)
+
+Mir gefällt deine Wissensdefiniton einfach nicht - da wir nie wirklich
+in einem emphatischen, absoluten Sinn "wissen" können, dürften wir
+eigentlich das Verb "wissen" in diesem Sinne niemals in den Mund
+nehmen. Wir nähmen den Mund viel zu voll damit. Und dennoch äußern wir
+oft solche Sätze wie "Ich weiss, dass ...", "Edwin weiß, dass ...".
+
+Für mich gehört eben die Wahrheit von "p" _nicht_ zur Semantik von
+"wissen". Ich kann Äußerungen, in denen "wissen" vorkommt, perfekt
+verstehen, ohne die leiseste Ahnung zu haben, wie die Wahrheit von p
+festgestellt werden könnte.
+
+Inderwischs Satz: "Die Bedeutung eines Satzes kennen, heißt wissen,
+was der Fall ist, wenn dieser Satz wahr ist." kann auch reformuliert
+werden in ein "Wissen, was der Fall ist, wenn die behauptete Tatsache
+sich als gerechtfertigt erweist."
+
+Eine solche Rechtfertigung kann auf mehrere Arten geschehen: a.)
+sinnliche Evidenz: Ich schau aus dem Fenster, ob wirklich Schnee auf
+der Wiese liegt. b.) Vertrauen auf glaubhafte Zeugen: XY hat
+nachgesehen, und wirklich liegt Schnee auf der Wiese. c.) Vertrauen in
+Experten: Der Wetterdienst hat heute in Emmelndorf 23 Grad gemessen.
+
+Alle Verifikationsbedingungen, mit der man die Wahrheit von Äußerungen
+nachprüfen kann, sind mehr oder weniger gute Rechtfertigungen. Mehr
+läßt sich nicht haben - mehr brauchen wir aber auch nicht, um Sätze
+verstehen zu können. 
+
+Zur Parallelität von Gottesbeweis und Wissensdefinition:
+
+a.) Gottesbeweis [p: "Gott existiert"; (Gottesbeweis): komplexer Term]
+
+(1) p
+(2) (Gottesbeweis)
+-------
+aus (1) und (2):
+
+(3) (Gottesbeweis) -> p
+(4) p
+
+Ungültig, wg. Petitio Principii. :-)
+
+b.) Wissensdefinition:
+
+(1) p
+(2) (x weiss, dass p) -> (x glaubt p) & (x kann p rechtfertigen)
+-----
+
+aus (1) und (2):
+
+(3) (x weiss, dass p) -> (x glaubt p) & (x kann p rechtfertigen) & p
+(4) (x weiss, dass p) -> p
+(5) p
+
+Ebenfalls eine Petitio principii. :-)
+
+Ich geb ja gerne zu, dass meine Beweisführung polemisch ist. ;-)
+
+Ich wollte nur zu erkennen geben, dass eine analytische 
+Begriffsdefinition, aus der die Wahrheit eines Satzes p folgt, genauso
+"platonisch" ist wie ein Gottesbeweis, aus dem die Wahrheit Gottes
+folgt.
+
+Um Gottes Existenz zu bejahen, müßte man wissen, wie Gott wirklich
+ist.
+Um aus einem "wissen dass p" die Wahrheit von p zu folgern, müßte man
+man einen Begriff vom "Wesen der Dinge" der haben.
+
+
+Ich formulier's mal so: Metaphysik ist, wenn ich aus der Bejahung
+einer analytischen Begriffsexplikation Wahrheiten über das Sein der
+Dinge schlußfolgern kann. ;-)
+
+Nimm den Satz: "Edwin weiss, dass es keine höheren Geschwindigkeiten
+als die Lichtgeschwindigkeit geben kann."
+
+Nun würdest du, würden wir beide Edwin recht geben. Wir würden beide
+sagen: Dieser Satz ist richtig. Aber aus deiner Wissensexplikation
+folgt mehr, nämlich dass der von Edwin geäußerte Satz auch in einem
+unbedingten Sine "wahr" ist, wenn ich die Aussage über Erics Wissen
+bejahe.
+
+Dein "wissen" ist ein "wirklich wissen" - d.h. ein unbedingtes,
+nicht-relatives, a-soziales Wissen - eine platonische Ideenschau
+sozusagen. 
+
+Aber das meinen wir nicht, wenn wir im Alltag sagen, "X weiss, dass
+..."
+
+Weshalb die klassische Wissensdefinition keine ist, die unseren
+alltäglichen Wissensbegriff entfaltet. Stattdessen entfaltet sie den
+Wissensbegriff der Metaphysiker.
+
+Größe,
+Gérald

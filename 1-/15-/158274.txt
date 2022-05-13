@@ -1,0 +1,55 @@
+Also ich kann nicht sagen, dass ich verstanden haette, was mit
+"Halbunendlich" gemeint sein soll, aber es gibt schon Dinge von denen
+man einerseits sagen kann, dass sie unendlich (ohne Ende), aber auch
+endlich sind. 
+Wenn man nur das Unendlichzeichen betrachtet: Endliches Laengenmass
+aber kein Anfang und kein Ende.
+
+
+Also meiner Meinung kann man mit guten Gruenden bestreiten, dass es
+das Unendliche in der Welt ueberhaubt gibt. 
+Der Begriff des Undendlichen ist, wenn man ihn auf die Welt
+anwendet, in sich aesserst fragwuerdig. Es gibt da dieses beruehmte
+VWH Hotel: Ein Reisender kommt in VJAAS Hotel an die Rezeption
+und fragt nach einem Zimmer, Man schaut nach: leider sind alle
+Zimmer belegt, ..., er denkt ein Weile nach...!? und sagt kein Problem
+wir haben noch ein Zimmer frei: er bittet den Gast aus Zimmer 1 in
+Zimmer 2 umzuziehen und vermietet das erste Zimmer an den neuen Gast,
+den Gast aus Zimmer 2 bittet er in Zimmer 3 usw. ..., weshalb geht das
+gut, das Hotel hat unendlich viele Zimmer, prima oder?
+
+Also ich habe noch kein Hotel erlebt bei dem das geht. 
+
+
+Also mit Mathematik hat das NICHTS zu tun!
+Man kann davon ausgehen, dass die Umrandung auch von
+Grossbritanien durch eine differnzierbare, regulaere einfach
+geschlossene Kurve c:[a,b]->E in der Ebene E=RxR beschrieben werden kann.
+Die Bogenlaenge ist dann durch den Ausdruck: 
+s = Integral von a nach b  (laenge der Tagente in t) dt,  (t ist
+Kurvenparameter) gegeben.
+Da die Menge [a,b] kompakt ist und die Laenge der Tagente sich stetig
+mit t aendert, ist die Laenge der Tagente nach oben beschraenkt, und
+deshalb ist die Laenge der Kurve endlich! 
+
+Aber auch sonst ist die Argumentation ziemlich fragwuerdig: Eigentlich
+wird gezeigt (wenn die Argumentation richtig waere), dass der Begriff
+der Laenge auf den Rand der Britischen Inseln nicht anwendbar ist.
+Man zieht ins Nebuloese, was "Rand der Britischen Inseln" heisst,
+indem man wild Begiffe aus voellig unterschiedlichen Bereichen
+zusammen wuerfelt: Was haben Kieselsteine mit Atomen und Molekuelen zu
+tun?
+
+Aber man muss nur einen ordentlichen Geometer fragen, der stoesst
+einem schon bescheid, was es heisst, dass die Kueste Englands x,x
+Meilen lang ist: Es ist voellig klar, wie das zu messen ist (keine
+Rede von Kieselsteinen oder Atomen).
+
+Es ist aber nicht klar, wie man die Umrandung eines Molekuels
+oder Atoms messen kann (was ist das Oberflaechenmass eines
+Atoms?), es ist noch nicht mal klar, was das bedeuten soll und
+DESHALB kann man es nicht messen (unschaerfe Relation).
+
+
+Gruss,
+Harm

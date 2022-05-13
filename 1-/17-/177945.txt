@@ -1,0 +1,37 @@
+Das steht da in ziemlich klaren Worten. Ein Wort gehoert zu einer
+Sprache, wenn sie von einem stochastischen Automaten mit einer
+gewissen Mindestwahrscheinlichkeit erkannt wird, der Automat also
+mit einer bestimmten Mindestwahrscheinlichkeit in einem besonders
+gekennzeichneten Zustand ist.
+
+Dein Vortrag in P und nicht P zeigt, dass Du die neuen Moeglichkeiten 
+nicht siehst. Ich habe aber schon unterstrichen, dass stochastische 
+Automaten mehr als nicht-deterministische Automaten sind. Es gibt einen
+Unterschied zwischen "gibt einen moeglichen Weg, dass der Automat in
+einem bestimmten Zustand ist" und "Automat ist mit einer bestimmten
+Wahrscheinlichkeit in diesem Zustand".
+
+Lies es jetzt nochmal, oder hol Dir ein Buch ueber stochastische
+Automaten, wenn Dir das nicht hilft.
+
+
+Nein, hier geht es um die Moeglichkeit, bei stochastischen Automaten
+Worte bzw. Sprache zu definieren. Man kann reine Erkenner definieren,
+und man kann Automaten definieren, die ein richtiges Wort anerkennen 
+und ein falsches ablehnen. Reine Erkenner koennen noch allgemeinere
+Sprachtypen erkennen.
+
+
+[...]
+
+
+Es ist Menschen aus diversen Gruenden prinzipiell nicht moeglich,
+Probleme die Wirklich! Lange! Zeit! dauern und Wirklich Viele
+Schritte [tm] brauchen, zu loesen. Ausgerechnet hier zu sagen,
+prinzipiell koennten sie es ja, "wenn nicht..." idealisiert an
+genau der falschen Stelle. Was wir nach den Idealisierungen be-
+trachten, ist kein Mensch mehr, sondern ein abstraktes Geistwesen.
+
+
+Das ist falsch. Sie sagt was anderes.
+    Mathäus

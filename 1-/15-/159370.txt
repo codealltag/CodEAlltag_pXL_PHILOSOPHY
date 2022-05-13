@@ -1,0 +1,63 @@
+Auf welcher *Erfahrung* basiert denn der modus ponens? Beschreibe mir
+eine Situation, in der der modus ponens *falsch* ist! (btw.: natürlich
+basiert die (explizierte) Formulierung Regel insofern auf Erfahrung,
+als dass jemand "herausgefunden" hat, dass sie wahre Aussagen in
+ebensolche überführt; die Regel selbst ist aber keine
+*Erfahrungstatsache*, die konsistent bezweifelt werden könnte)
+
+
+Interessant, du möchtest auf den Wahrheitsbegriff verzichten?
+
+
+Isaacsohn und Dienelt haben gezeigt, dass sich Semantik nicht durch Syntax
+(das Kalkül) erfassen läßt, insb. läßt sich das Wahrheitsprädikat
+nicht syntaktisch definieren. Du unterchl�gst hier, dass das Konzept
+der *Wahrheit* (ob nun absolut oder relativ zu einem Modell) und
+Isaacsohns Unterscheidung zwischen Meta-und Objektsprache wesentlich für
+die Logik ist. Die rekursive Definition der Wahrheit wird ja (im
+Wesentlichen) durch das Bikonditional
+
+ .� s ist wahr in L (bzw. M) gdw p
+
+ausgerückt, wobei s ein Satz der Objektsprache und p eine Übersetzung
+desselben in die Metasprache ist. In der Form wird Wahrheit (relativ
+zu einem Modell) auch in 1-stufigen Sprachen definiert.
+
+
+Nein. Die (empirische) Psychologie zeigt recht gut, dass unsere
+"Denkgewohnheiten" keineswegs logischen Gesetzen gehorchen. Logik
+ist (auch) ein *normatives* Unternehmen, kein auf reiner Faktizität
+beruhendes. Wie möchtest du die logischen Regeln *rechtfertigen*, wenn
+sie *faktisch* nicht den Denkgewohnheiten entsprechen?
+
+
+Auch ein Zeigen im Sinne Lütke-Stratkötters kann *argumentativ* sein:
+
+Die logischen Regeln werden mit Bezug auf Wahrheit gezeigt, u.A. in
+Form der Korrektheitsbeweise. Die Implikation .�->� z.B. wird durch
+eine Wahrheitsfunktion f:{0,1}^2->{0,1} interpretiert. Anschließend
+wird gezeigt (im math. Sinne), dass die *syntaktisch* definierte Regel
+des modus ponens Äquivalent zum *semantischen* Folgerungsbegriff ist,
+insb. wahre Aussagen in wahre überführt.
+
+übrigens gibt es "kategoriale Argumente", die nicht (unbedingt) die
+Wahrheit einer Proposition zeigen, aber denjenigen, der sie
+bezweifelt, in einen pragmatischen oder operationalen
+Selbstwiderspruch verwickelt.
+
+
+Wörtlich verstanden, und in einer Logik formalisiert, zu deren
+Objektbereich Propositionen gehören, lautet der Satz (mit W als
+Abkürzung für Ich wei߫) :
+
+ .W(~(E p) Wp)�
+
+...und das und führt recht schnell zu einem Widerspruch.  (wegen der
+Regel Wp -> p)
+
+
+...und jetzt erwarte ich von dir eine Interpretation der sokratischen
+Dialoge ;-))
+
+
+hannes

@@ -1,0 +1,40 @@
+Wie sieht es nun mit der "anderen Richtung" aus? Lässt sich vielleicht
+auch ~(~P & ~Q) |- P v Q herleiten?
+
+Let's see:
+
+1	 (1)  ~(~P & ~Q)              A
+2	 (2)  ~(P v Q)                A
+3	 (3)  P                       A
+3	 (4)  P v Q                   3 vI
+2,3	 (5)  (P v Q) & ~(P v Q)      4,2 &I
+2	 (6)  ~P                      3,5 RAA
+7	 (7)  Q                       A
+7	 (8)  P v Q                   7 vI
+2,7	 (9)  (P v Q) & ~(P v Q)      2,8 &I
+2	(10)  ~Q                      7,9 RAA
+2	(11)  ~P & ~Q                 6,10 &I
+1,2	(12)  (~P & ~Q) & ~(~P & ~Q)  11,1 &I
+1	(13)  ~~(P v Q)               2,12 RAA
+1	(14)  P v Q                   13 DN
+
+JA!
+
+
+Wir haben also gezeigt:
+
+	P v Q -||- ~(~P & ~Q)
+
+(sofern man annimmt, dass die Regeln vI,vE gelten).
+
+Man beachte: linker Hand steht das noch zu definierende logische Symbol,
+und rechter Hand kommen nur logische Symbole vor, die im System schon
+definiert sind (und für die entsprechende Schlussregeln definiert sind).
+
+Durch dieses Ergebnis wird also die folgende Definition von v wirklich
+nahegelegt (man wird geradezu dazu gedrängt)!
+
+	A v B =df ~(~A & ~B)	(Def. v)
+
+
+A.

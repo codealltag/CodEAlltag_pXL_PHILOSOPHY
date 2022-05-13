@@ -1,0 +1,41 @@
+Moin Giuseppe,
+
+
+es gibt nicht _die_ Menge (paarweiser) disjunkter Intervalle, da
+Disjunktheit gegenseitige Abhängigkeit implementiert. Wenn z.B. eine
+Menge disjunkter Intervalle das Intervall [-1,1] enthält, dann kann z.B.
+das Intervall [0,1] nicht in dieser Menge enthalten sein. Es gibt aber
+unendlich viele Mengen paarweiser disjunkter Intervalle, die [0,1]
+enthalten.
+
+
+Aha, du willst eine Kette halboffener Intervalle bilden und ganz IR
+damit ausfüllen. Das ist sozusagen o.B.d.A. zulässig :).
+
+
+Selbst wenn diese Aussage stimmen würde, so würde das nur die
+Unendlichkeit, nicht aber die Überabzählbarkeit dieser Menge disjunkter
+Intervalle beweisen. Das Proebstl Diagonalprinzip hast Du gar nicht
+benutzt, denn sonst müsstest Du wie folgt vorgehen:
+
+Gegeben sei eine Menge M paarweiser disjunkter reeller Intervalle.
+a) Annahme: M ist abzählbar, d.h. ich kann alle Intervalle untereinander
+aufschreiben (durchnummerieren)
+b) Folgenkonstruktion: Schreibe jedes Intervall [a,b] als Folge
+((a_1,b_1),(a_2,b_2), ...) wobei jedes (a_i,b_i) die i-te Binärstelle
+von a und b ist.
+c) Bilde nun die komplementäre diagonale Binärfolge k_i = (x_i,y_i) und
+betrachte das zugehörige Intervall J (der Existenzbeweis von J sei dem
+Leser überlassen).
+d) Da M abzählbar ist, muss J nun an endlicher Stelle k unter der ersten
+Folge "aufgeschrieben" sein und man hat dann den Widerspruch, dass
+sowohl (x_k,y_k) = (1-a_k,1-b_k) (Def. von J) als auch (x_k,y_k) =
+(a_k,b_k) (Abzählbarkeit von M) gilt.
+
+M wäre also überabzählbar, müsstest Du nicht noch die "Kleinigkeit"
+zeigen, dass J zu allen enthaltenen Intervallen aus M disjunkt ist.
+
+Frédéric
+
+PS: Das, was Du gerne als "bekanntlich" oder "logsiche Konsequenz"
+bezeichnest, ist IMO das, was Du selbst am wenigsten verstehst.

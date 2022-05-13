@@ -1,0 +1,94 @@
+Subject: Re: =?iso-8859-1?Q?Intelligenz-Beweiß?=
+From: radosuv@tqfz.yu (Ulhjjo Cartharius)
+Date: Tue, 05. 08. 22 07:13 AM EST
+Message-id: <tdcv9661hy.7v.geurpxh@d0.irso.yp>
+
+Onno Röschenkämper <dgoup412@lble.pww-xfzbm.ld> wrote:
+
+[...]
+
+zu
+
+
+Richtig ist, es gibt Heute noch keinen Computer der dieses leisten könnte,
+wegen der Variantenexplosion (aus den 20 möglichen ersten Zügen werden sehr
+schnell Tausende). Das aber die heutigen Computer nicht dazu in der Lage
+_sind_, impliziert ja nun nicht, daß  es auch zukünftige _nie_ seien werden.
+
+Rechenkraft
+für
+Ihm
+hingegen
+erinnere,
+suchten,
+
+Diesen Unterschied, kann ich nicht bestätigen. Es ist nach meiner Erfahrung
+eher so, daß ein Mensch sehr wohl auf die Idee kommt seine Dame gegen einen
+Springer zu tauschen, das hängt einzig von der Information ab die er bereits
+über das Spiel hat. So kann ich sagen das es durchaus logisch und auch
+folgerichtig ist, einen störenden Springer zu eliminieren, die Frage, oder
+vielmehr Rechnung dabei ist,  - zu welchem Preis. Nicht selten argumentieren
+die Kinder, aber nicht nur die, ich habe zwei Steine und du nur einen
+bekommen. Und damit haben sie zunächst mal unbestreitbar Recht !  
+
+Der tatsächliche Unterschied, wie er sich mir darstellt, von purer Rechnung
+gegen Intelligenz ist der der Selektion, soll heißen; der Mensch ist in der
+Lage intuitiv Schach zu spielen indem er bestimmte Alternativz�ge gar nicht
+erst in seine Berechnungen aufnimmt. (ich muß mir nicht erst ausrechnen, daß es
+mir nicht gefallen wird, von einer Schlange gebissen zu werden, - ich weiß es
+einfach) Dieses selektieren ist auch längst in die Schachprog. übernommen
+worden und birgt dort natürlich genauso wie beim Menschen die Gefahr, daß
+gerade >der Zug< in der Partie weggeschmissen wird.
+
+In den 05. 08. 22 Jahren habe ich an die 20 käufliche Schachcomputer (keine PCs)
+getestet. Zu diesem Zeitpunkt war es sicher noch so, daß die Maschine nach
+jedem gesetztem Zug alle Einsteller (Schwachsinnsm�glichkeiten) neu berechnete
+und durchaus 99% seiner Berechnungszeit dafür aufwenden mußte um Unsinn
+auszurechnen. Heute ist das aber längst überholt. Das Schachprog. >Gabriel< war
+glaube ich das erste kommerzielle, welches mit sog. Hash-Tables auf einem PC
+arbeitete, - heute Standard.  Um nicht immer wieder dieselbe Stellung neu
+berechnen zu müssen schreibt sich das Prog. die Stellung mit den
+Bewertungsparametern in eine Liste und schaut dort einfach bei Bedarf nach. Das
+ist natürlich sehr viel effizienter und kommt somit der Rechentiefe zu Gute.
+
+(BTW seine Dame zu opfern um in nachfolgenden Zügen mattsetzen zu können, wird
+in der Fachsprache mit Taktik, nicht mit Strategie bezeichnet)    ;-)
+
+
+Wenn man es als Zauberkraft bezeichnen will, so kann man darunter vielleicht
+das Paradox verstehen, das als Anekdote unter Schachspielern bekannt ist; ein
+Großmeister hatte , wie sich nach der Partie herausstellte, in schwieriger
+Situation einen genialen Zug gefunden und wurde zu diesem befragt (nach der
+Partie) wie weit er denn dessen Konsequenzen berechnet habe. Seine erstaunliche
+Antwort: � nicht einen Zug weit �
+
+Das zeigt m.E. sehr schön, was man denn eigentlich unter Intelligenz (beim
+Schachspiel) zu verstehen habe. Die Maschine rechnet, und das stur. Der Mensch
+hat die Befähigung Stellungen anzusteuern, in denen er nicht mehr rechnen muß,
+- ER weiß dann.  Die Maschine aber, kann immer nur wissen, was sie auch
+berechnet hat. Trotz der immensen Menge dieses ausgerechnetem Wissens, (im
+letzten Kampf Mensch gegen Maschine, waren das eine potentielle Menge von
+satten 200 Millionen Stellungen pro SEKUNDE) ist das Schachspiel doch zu
+komplex um es mit derart brutaler Gewalt, (Brute-force Prinzip), mit den heute
+bekannten Algorithmen vollständig analysieren zu können. Ein erster Ansatz in
+dieser Richtung ist aber schon einige Jahre auf dem Markt, sog. Endspiel
+CD-Roms. Diese sind in der Lage beliebige F�nfsteiner, das sind Endspiele mit
+genau noch fünf Figuren auf dem Brett, vollständig zu analysieren. Wenn man
+bedenkt, daß zwei Könige immer in einer regulären Stellung auf dem Brett sein
+müssen, ist das nicht gerade berauschend. Schon das Einsetzten eines sechsten
+Steines kann nicht mehr erschöpfend bewertet werden, - noch nicht.
+
+
+Es kommt natürlich darauf an, was ich bereit bin als Intelligenz zu bezeichnen.
+Ich würde eine Maschine, in einem Bereich, nicht als intelligent bezeichnen
+solange sie nur rechnet. Denn auch wenn sie das ausgerechnete Wissen konsequent
+verwendet, kommt hierbei doch eher die Intelligenz der Programmierer durch, als
+irgend etwas das die Maschine von sich aus, ALLEINE tun würde. Die Intelligenz
+des Menschen hingegen, macht sich schon in dem Umstand, daß er es gar nicht
+nötig hat sehr viele Stellungen zu berechnen, um dennoch vernünftig Schach zu
+spielen, deutlich bemerkbar. (er verzichtet darauf etwas leisten zu wollen, was
+er gar nicht kann,  - DAS mache man mal einer Maschine klar,  ... diese nämlich
+würde ja argumentieren, _ICH kann es doch!_ )
+
+mfg
+	u.o.

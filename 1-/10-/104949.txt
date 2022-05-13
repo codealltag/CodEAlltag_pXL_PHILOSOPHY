@@ -1,0 +1,8 @@
+Ich muss mich genauer ausdrücken:
+Eine Propositionalfunktion bildet zunächst singuläre Termini auf
+Aussagen (Propositionen) ab. Da man sagen kann, dass eine geschlossene
+Aussage entweder für das Wahre oder das Falsche steht, kann man auch
+sagen, dass eine Propositionalfunktion singuläre Termini auf einen
+Wahrheitswert abbildet.
+
+ULF

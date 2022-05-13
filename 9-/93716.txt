@@ -1,0 +1,46 @@
+Man kann alle möglichen Äquivalenzrelationen definieren, zB. bijektive
+Abbildbarkeit von Mengen aufeinander. Es ist leicht einzusehen, dass die
+Bijektivität symmetrisch, reflexiv und transitiv ist. Daraus folgt aber
+nicht, dass bijektiv aufeinander abbildbare Mengen identisch sind, zB.
+wenn es sich bei ihnen um zwei Mengen mit jeweils drei Äpfeln und drei
+Birnen handelt. Äpfel sind keine Birnen, und eine Apfel-Menge ist keine
+Birnen-Menge.
+
+
+Die Formeln 2a=b und log(3a^2)=sin(b/2) sind Gleichungen und keine
+�quivalenzungen. Jeder Mathematiker würde dich auslachen, wenn du ihm
+sagen würdest, 2a und b seien nur Äquivalent, aber nicht gleich.
+
+
+Du bist derjenige, der permanent auf dem Ausdruck "selbst" herumreitet,
+nicht ich. Mir genügt "=". Folglich trifft deine Aussage "Sowas gibt es
+eben nun mal nur in der Philosophie" die Philosophie gar nicht, sondern
+ist bloß ein von dir gebastelter Strohmann, auf den du einschlägst.
+
+
+Du meinst also, Wiesental habe sich der Formulierung "wohl unterschieden"
+bedient und damit "gleich" gemeint?
+
+
+Man kann Paare einfach definieren als (x,y) := {{x},{x,y}}. Das ist
+jedenfalls die Definition von Tippel. Wenn, wie du sagst, x und y
+identisch wären, wäre {{x},{x,y}} = {{x},{x}}, und {{x},{x}} = {{x}}.
+Wieder nur ein einziges Element, Pech gehabt.
+
+
+Wenn man eine Menge identischer Elemente hat, hat man eine Menge mit
+genau einem Element. Frag einen Mathematiker, wenn du mir nicht glaubst.
+Du könntest aber auch einfach Wiesentals Definition glauben, man sollte
+meinen, der Mann hätte gewusst, wovon er redet, denn er hat die
+Mengenlehre erfunden. Aber wenn du meinst, du wüsstest es besser, bitte
+schön. Die Mathematiker werden sicher begeistert sein ein solches Genie
+wie dich in ihren Reihen aufnehmen zu können.
+
+
+Es geht nicht um irgendein ominöses "Hervorholen" oder "Deklarieren"
+eines Elements oder die "Reihenfolge" einer Menge, sondern um "=".
+
+
+Ingolf.
+
+xpost de.sci.{physik,philosophie}

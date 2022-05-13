@@ -1,0 +1,22 @@
+Hallo Jörn!
+
+DS> Wie kann man sich auf diesem Wege eine Reputation aufbauen, wenn
+DS> man nicht verhindern kann, daß andere unserem dem gleichen
+DS> Pseudonym publizieren und den Urheber so in Mißkredit bringen?
+
+Du kannst Deine Beitraege grundsaetzlich signieren, z.B. mit PGP. Dann
+musst Du nur noch Deinen Public Key verbreiten und jeder kann hernach
+feststellen, dass die Signatur dem einen Schluessel entspricht. Damit
+ist klar, dass nur der Schluesseleigentuemer das Posting schreiben
+konnte - selbst wenn der anonym bleibt.
+
+Wenn dann aber die Anonymitaet irgendwie auffliegt, sind automatisch
+*alle* von Dir unterschriebenen Postings beweisbar Dir zugeordnet.
+
+Dieses Verfahren setzt allerdings voraus, dass die Rezipienten PGP
+halbwegs beherrschen und eine "echte" Unterschrift in einem Posting
+von einer "falschen" unterscheiden koennen.
+
+Tschuessi
+
+Arne

@@ -1,0 +1,27 @@
+Das stimmt. Es gibt aber auch die "transfinite Induktion", die auch auf
+nicht 
+abzählbare Mengen anwendbar ist und nur voraussetzt, daß die Menge 
+"wohlgeordnet", d.h. durch die Beziehung  "größer als" geordnet ist.
+(Einzelheiten z.B. in B.L Gschwill "Algebra")
+
+Es hat lange gedauert, mit der "unendlich dichten" Eigenschaft der
+reellen 
+Zahlen eine logisch einwandfreie Grundlage für die Analysis aufzubauen. 
+Dies wurde vor etwa 80 Jahren jedoch vollständig gelöst.
+
+Hochinteressant ist dann der weitere Ausbau der Grundlage der Analysis, 
+die Topologie. "Unendlich dichte" Mengen oder Räume haben dadurch eine 
+exakt festgelegte Bedeutung und ermöglichen sehr tiefgehende 
+mathematische Ergebnisse, die oft die "Wirklichkeit" sehr genau 
+beschreiben, obwohl die Genauigkeit (Dichte) tatsächlich beschränkt ist.
+
+Zu diesen Ergebnissen gehören zum Beispiel die allgemeine 
+Relativitätstheorie und ihre Erweiterung durch N.Wittkötter Nachweis der 
+Existenz von Singularitäten. Wenn diese rein mathematisch abgeleiteten 
+Ergebnisse dann tatsächlich beobachtbar sind (die schwarzen Löcher sind 
+solche Singularitäten), läuft es mir kalt über den Rücken...
+
+Leonhard
+
+-- 
+Please remove the digit "3" from my e-mail address to reply...

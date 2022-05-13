@@ -1,0 +1,71 @@
+Wie willst du hier deine Rechenoperationen (Addition
+und Multiplikation) definieren?
+
+Wenn du nur die Zahlen der ganzen Stunden betrachtest,
+also
+
+ 0 = 12 = 24 = 36 = ...
+ 1 = 13 = 25 = 37 = ...
+ 2 = 14 = 26 = 38 = ...
+ 3 = 15 = 27 = 39 = ...
+ 4 = 16 = 28 = 40 = ...
+ 5 = 17 = 29 = 41 = ...
+ 6 = 18 = 30 = 42 = ...
+ 7 = 19 = 31 = 43 = ...
+ 8 = 20 = 32 = 44 = ...
+ 9 = 21 = 33 = 45 = ...
+10 = 22 = 34 = 46 = ...
+11 = 23 = 35 = 47 = ...,
+
+dann kannst du einfach die gewöhnliche
+Addition und Multiplikation übertragen.
+(Diese Menge ist auch als Z_12 bekannt).
+
+Es gilt dann etwa 7 * 5 = 35 = 11,
+8 * 6 = 48 = 0.
+Dieser Ring ist also nicht nullteilerfrei,
+wie man es bei den Zahlenmengen gewohnt ist.
+Die üblichen Rechenregeln (Assoziativ-, Kommutativ-
+Distributivgesetze, neutrale und inverse Elemente
+der Addition) gelten jedoch weiter.
+
+Allerdings ist auch hier die Division durch 0
+nicht möglich, da (wie in jedem Ring) 0*y = 0 ist,
+also existiert kein y mit 0*y = x (für x <> 0).
+Außerdem ist aber auch die Division durch
+2,3,4,6,8,9,10 nicht immer und sonst nicht
+eindeutig möglich (Wir haben etwa kein x mit
+10*x = 7, also ist 7/10 nicht definiert, dagegen
+haben wir 2 Zahlen x mit 10*x = 8, also ist auch
+8/10 nicht eindeutig.) - du hast also nichts
+gewonnen.
+
+-----------------------
+
+Wenn du alle reellen Zahlen zwischen 0 und 12
+zulässt (also alle möglichen Stellungen der Zeiger),
+(nennen wir die Menge U := [0, 12) ) und die
+entsprechenden Operationen analog definieren willst,
+erhalten wir:
+
+a  +_U  b  :=  [a+b]     (wobei [x] := y, mit y in [0,12),
+                          y = k*12 + x, k in Z, + und * die
+a  *_U  b  :=  [a*b]      üblichen Operationen in R)
+
+
+In dieser Menge sind die Ring-Axiome (also Rechenregeln
+wie oben) erfüllt. Allerdings ist die Division
+überhaupt nicht sinnvoll definierbar:
+
+9 = 7 * 3
+  = 7 * 9/7
+  = 7 * 33/7
+  = 7 * 45/7
+  = ...
+
+Wie willst du denn hier 9/7 definieren?
+Das Problem besteht analog für jedes Paar aus U^2.
+Die Division durch 0 ist natürlich immer noch
+nicht möglich, denn 0 * x = 0 gilt wie überall.
+
+Massimo

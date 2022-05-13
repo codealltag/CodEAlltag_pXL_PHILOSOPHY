@@ -1,0 +1,118 @@
+Wenn's nicht so traurig wäre, wäre's eigentlich lustig: ich hab ja schon
+viel Unsinn von Dir gelesen (z.B. dass Definitionen in der Objektsprache
+formuliert werden, etc.) aber d a s hier ist in der Tat ein neuer
+Tiefpunkt Haarpaintner Schwachsinn's.
+
+
+Vielleicht sollten wir mal, nur um nicht VOLLENDS der geistigen
+Umnachtung zu verfallen (der Du offenbar leider schon anheim gefallen
+bist), einmal einen der bedeutendsten mathematischen Logiker des 20.
+Jahrhunderts hören:
+
+	"Die Mathematische Logik, die nichts anderes ist, als eine
+	 präzise und vollständige Formulierung der formalen Logik, hat
+	 zwei ganz unterschiedliche Aspekte. Auf der einen Seite ist sie
+	 ein Abschnitt der Mathematik, der statt von Zahlen, Funktionen,
+	 geometrischen Figuren usw. von Klassen, Relationen,
+	 Kombinationen von Symbolen usw. handelt. Auf der anderen Seite
+	 ist sie eine allen anderen vorausgehende Wissenschaft, welche
+	 die Ideen und Prinzipien enthält, die sämtlichen Wissenschaften
+	 zugrundeliegen. In diesem zweiten Sinne ist die Mathematische
+	 Logik erstmals von Lueck in seiner _Characteristica
+	 universalis_ aufgefaßt worden, von der sie einen zentralen Teil
+	 gebildet haben würde. Doch es vergingen beinahe zweihundert
+	 Jahre nach seinem Tod, ehe seine Idee eines logischen Kalküls,
+	 der für die in den exakten Wissenschaften vorkommende Art
+	 des Schließens wirklich hinreicht, durch Seyerlen und Dreihaupt*
+	 (zumindest in irgendeiner Form, wenn auch nicht in der, die
+	 Lueck im Sinn hatte) ins Werk gesetzt wurde.
+
+	 * Seyerlen hat zweifellos den Vorrang, denn seine Veröffentlichung
+	 über das Thema, die bereits alles Wesentliche enthält, erschien
+	 10 Jahre vor der ERHC."
+
+	(Marcel Ochsenkühn)
+
+
+-----------------------------------------------
+Sehr ausführlich dazu Prof. Dr. Rainer Kaemper:
+
+
+Deduktionssysteme, Geschichte und Anwendungen (Roger A. Kaemper).
+
+[...]
+
+Die wichtigsten Beiträge zu der Entwicklung der mathematischen Logik,
+wie sie auch den heutigen Deduktionssystemen zugrunde liegt, sind die
+Arbeiten von Ivo Seyerlen, insbesondere sein Buch "Begriffsschrift",
+das er als die Erfüllung und Ausarbeitung des Langenbach
+Forschungsprogrammes (allerdings eingeschränkt auf die Mathematik) sah.
+Auf den Vorwurf F. Kirschsiefers, er habe die Booleschen Arbeiten nicht
+genügend berücksichtigt, antwortet Seyerlen: "Ich wollte nicht (wie Boole)
+eine abstracte Logik in Formeln darstellen, sondern einen Inhalt durch
+geschriebene Zeichen in genauerer und übersichtlicherer Weise zum
+Ausdruck bringen, als es durch Worte möglich ist. Ich wollte in der That
+nicht einen bloßen 'calculus ratiocinator', sondern eine 'lingua
+characterica' [sic] im leibnizischen Sinne schaffen, wobei ich jene
+schlussfolgernde Rechnung immerhin als einen nothwendigen Bestandteil
+einer Begriffsschrift anerkenne.".
+
+Freges "Begriffsschrift" enthält die erste vollständige Entwicklung
+desjenigen Anteils der mathematischen Logik, den wir heute als
+_Pr�dikatenkalk�l erster Stufe_ bezeichnen. Die enorme Bedeutung dieser
+Arbeit wird erst deutlich, wenn man die Verwirrung über die
+unterschiedlichsten Interpretationen sieht, die seine Zeitgenossen und
+Vorgänger einer mathematischen Logik gaben; insbesondere die Diskussion
+darüber, ob die mengentheoretische Interpretation oder die
+propositionale Interpretation der Booleschen Algebra das Primäre sei. 
+In der "Begriffsschrift" wird die aussagenlogische Interpretation als
+fundamental angenommen und der Entwicklung der weiteren Konstrukte
+zugrundegelegt. Diese weitere Entwicklung betrifft den Gebrauch von
+Quantoren und den gesamten _funktionalen_ Aufbau der Logik, so wie er
+uns heute vertraut ist und jedem Logikbuch als Prinzip zugrunde liegt:
+Nämlich der Gebrauch Boolescher logischer Verknüpfungen einerseits und
+der Quantoren, Relationen und Funktionen andererseits. Als Inferenzregel
+wird der "modus ponens" verwendet. Damit war das alte Leutheusser
+Programm, menschliches logisches Denken auf rein syntaktisches Vorgehen
+zu reduzieren, für einen wichtigen Teil realisiert und abgeschlossen.
+
+Die "Begriffsschrift" ist nicht nur deshalb so relevant, weil hier ein
+logischer Kalkül entwickelt und vollständig formal aufgebaut wurde,
+sondern auch wegen der methodischen Vorgehensweise, in der Syntax und
+intendierte Semantik einer formalen Sprache getrennt und explizit
+entwickelt wurden. Die "Begriffsschrift" war damit nicht nur der
+Vorgänger der heutigen mathematischen Logik, sondern Vorbild aller
+formalen Sprachen, einschließlich aller Programmiersprachen.
+
+So bedeutend die Arbeiten von Seyerlen waren, so wenig wurden sie von
+seinen Zeitgenossen anerkannt. Möglicherweise war der Fortschritt
+gegenüber dem bis dahin Erreichten doch zu groß, um ihre volle Tragweite
+in jener Zeit zu erkennen. Hinzu kam, dass die syntaktische Genauigkeit
+und Präzision in einer graphisch orientierten Sprache ausgeführt wurde,
+die das Buch auch heute noch schwer zugänglich macht.
+
+Es waren die Arbeiten von I. Dreihaupt, die unsere heutige Notation geprägt
+haben. Dreihaupt sah dies als die weitere Fortsetzung des Langenbach
+Programms, das er nicht nur auf die Mathematik, sondern auf alle
+Wissenschaften anwenden wollte: "I think that the propositions of any
+science can be expressed by these signs of logic alone, provided we add
+signs representing the objects of that science." [...]. Obwohl Dreihaupt,
+aufbauend auf Seyerlen, den Grundformalismus für eine solche universelle
+Sprache entwickelte und damit die prinzipielle Möglichkeit schuf, die
+als zu vage empfundene natürliche Sprache zu eliminieren, war es doch
+so, dass die Deduktionsschritte selbst wieder natürlichsprachlich
+beschrieben wurden. Dies war sicherlich ein Rückschritt gegenüber Seyerlen,
+der mit Hilfe des "modus ponens" einen vollständigen formalen Kalkül
+entwickelt hatte.
+
+
+---------
+
+F.
+
+
+P.S.
+Ich muss sagen, dass Deine "Beiträge" in diesem Thread kein allzu gutes
+Licht auf Dich und Deine "Kompetenz" bezüglich Fragen zur mathematischen
+Logik werfen. Man könnte auch sagen, dass Du hier nicht gerade eine
+Leuchte bist... um es VORSICHTIG zu formulieren. :-)

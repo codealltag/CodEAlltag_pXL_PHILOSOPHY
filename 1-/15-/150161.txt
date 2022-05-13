@@ -1,0 +1,17 @@
+0^-1,
+
+ich hatte einen körper zugrundegelegt, und in den axiomen die ich da kenne
+taucht unteranderem auch "1 ungleich 0" auf, dann ist dat ja ein
+widerspruch.
+ob das in jedem ring gilt... naja, im nullring geht das wohl, aber in
+anderen ringen mit 1?
+man kann ja jedes element r aus einem ring R schreiben als r=r*1. 1=0 ist
+dann Äquivalent zu r=0, was bedeutet, daß "1=0" nur im nullring gilt.
+
+
+als kleinsten körper kenne ich nur den F2={0,1}, das würde dann mit deiner
+def auch passen.
+
+ok, bis später
+
+    uwe

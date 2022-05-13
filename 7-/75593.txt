@@ -1,0 +1,38 @@
+Ob man leere Räume aka leere Menge akzeptiert war in der Entwicklung dieser
+Ideen durchaus Streitthema. Manche Mengentheoretiker wie zb. Donkels hatten
+da arge Bauchschmerzen.
+Wenn du das nachlesen möchtest:
+Es gibt eine Schrift zu Ehren von Clausius in den mathematischen Annalen wo
+das alles steht.
+Googel => Ossiladen
+
+
+Er wir auch bei weitem nicht von allen Philosophen geteilt!
+Von den modernen Mathematikern im allgemeinen aber schon.
+
+
+Schon das was extensional gleich sein soll ist ein Hon gegenüber dem naiven
+Begriff der Gleichheit:
+100 weisse Schafe sind dann genau 1 weisses Schaf!
+So als Formel:
+X=Y => Ax e X E(y=x) e Y <=>  Ay e Y E(x=y) e X
+So einen logischen Ausdruck solltest du als Philosoph locker lesen können.
+Gehört zur Grundausbildung.
+Um dann die Menge mit einem Element so als Fingerübung zu definieren:
+Ax e y => x=x & y !=0 
+oder 
+Ex e y => Ax e y => x=x 
+Wie du siehst ist meine Definition der Gleichheit eine arge Zumutung für
+den "normalen" Menschenverstand. Aber ohne diesen "merkwürdigen" Begriff
+von Gleichheit könnte man überhaupt keine Mathematik betreiben!
+
+
+Die Sprache der Epsilonektik legt nur das Minimum der Bedingungen fest.
+Eine finale Aussage über Stetigkeit wird nicht gemacht. Aber interessanter
+Weise kann man zeigen das wenn für eine stetige Menge bestimmte Regeln
+gelten sollen dann kann die Menge aller "Punkte" dieser Menge eine gewisse
+Grösse nicht überschreiten.
+Tolles Ergebniss logischen Denkens oder?
+-- 
+Mit freundlichen Grössen
+Klaus Lischeid

@@ -1,0 +1,67 @@
+Es langt eine einzige 1 um mindestens ein gültiges Ergebniss zu erhalten. 
+
+Eine einzige 1 in einer unendlichen Reihe aus 0 ist doch eine Nullfolge 
+oder?
+Stellt sich nur noch die Frage, ob diese einzige 1 vorhanden ist.
+Meine These ist, dass in einer Nullfolge mindestens immer eine 1 
+irgendwie vorhanden ist. Beweisen kann ich das nicht, aber für mich 
+sprechen einige Überlegungen dafür.
+0,9p = 1 hatten wir ja schon ausführlichst diskutiert.
+  In meiner Kunstmenge, die 0 und 1 als Grenze haben würde und die 
+Definition einer Menge der Element 0,0 bis 0,p9 bedeuten würde, ist 1 zu 
+0,9p insofern unterschiedlich, dass es die Grenze der Menge ist. Warum 
+sollte dies nicht auch für eine Menge unendlich vieler Nullen gelten. 
+Der Wert der Menge wäre 0, denn der Inhalt der Menge besteht nur aus 
+Null. Die Leermenge würde keine 0 enthalten. Welchen Wert könte ich 
+einer Leermenge zuordnen. Eigentlich auch nur 0. Diese 0 wäre aber 
+wieder ein Element der Menge, die ich da gebildet habe und dann wäre die 
+Menge nicht mehr leer. Also kann ich mich über den Wert der Menge an 
+sich gar nicht mehr unterhalten. Das heisst ich habe mindesten eine 
+Menge, der Wert zwar unbekannt ist, aber in der Sprache habe ich mit dem 
+Ausdruck, dass ich mindestens eine Menge hätte mit dem Ausdruck "eine" 
+bereits einen Wert zugeordnet, der gemeinhin mit dem Ziffernsymbol 1 
+dargestellt wird.
+
+
+These: Die Null besitzt mindestens eine Eins.
+
+Betrachte ich mir im Gegenstück dazu mal die behauptete Eins in der 0.
+Wo ist die Grenze dieser Eins? Gehört eine Grenze zum Gegenstand an sich 
+oder gehört eine Grenze nicht mehr zum Gegenstand?
+Wahrscheinlich weder noch. Die Grenze ist die Grenze und der Wert einer 
+Grenze ist soviel wie 0, aber ich habe dort dasselbe Phänomen wie bei 
+der 0 und der Leermenge. Somit denke ich das jede Eins mindestens eine 
+Null enthält.
+
+These: Jede 1 besitzt mindestens eine Null.
+
+
+Wenn beide Thesen bewiesen werden könnten, dann wäre eine Rechnung, die 
+die 1 durch 0 dividiert immer mindestens 1.
+
+
+Wie würde dies mit anderen Zahlen ausschauen?
+
+2 könnte ich zerlegen in 1 + 1 und 3 in 1 + 1 + 1 usf.
+Wenn jede 1 mindestens eine Null enthält müsste auch in jeder anderen 
+Zahl mindestens eine 0 enthalten sein.
+
+Weiterhin gilt doch allgemein, das jede Zahl durch sich selbst dividiert 
+  1 ergibt. Wenn also in jeder Zahl eine 0 steckt, dann ist die Zahl 
+durch eine unendliche Folge von Null (was das selbe wäre wie Null) 
+dividiert auch 1.
+Zur Vorstellung könnte man sich auf die Konvention einigen, dass bei 
+einer Rechnung 1/0 die 0 der 1 an der ersten Stelle steht, sozusagen 
+eine 01 und sich dann eine Folge ergäbe die so aussehe
+(0/0,1/0,1/0,1,0.....)
+mit dem Ergebniss
+(1,ungültig,ungültig, ungültig....)
+Wohingegen bei der 2 es dann  002 wäre mit der Folge
+(0/0,0/0,2/0,2/0,2/0,2/0,2/0.....) (1,1,ungültig,ungültig, ungültig.....)
+
+
+Soweit meine unsinnigen und blödsinnigen Gedanken eines Menschen, der 
+nicht durch 0 teilen darf, der es aber trotz Verbot einfach tat.
+
+Gruss
+Luc

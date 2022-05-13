@@ -1,0 +1,39 @@
+Um Objekte zu definieren sollte man am besten im Mikrokosmos anfangen. Da
+gibt es einen recht begrenzten Satz Teilchen, die durch den Ort (x,y,z),
+einen Geschwindigkeitsvektor (dx,dy,dz) und einen Drehimpuls eindeutig
+definiert sind (Parameter sind alle quantisiert).
+
+Du kannst nun einen Supercomputer bauen, ihn mit diesen Daten für alle zu
+berechnenden Teilchen füttern und noch die Wechselwirkungen einprogrammieren
+und dann solltest du unser Universum "simulieren" können.
+(Vorausgesetzt, du bekommst das mit den bis heute noch nicht vorhersagbaren
+Quanteneffekten in den Griff)
+
+
+Mein Vorschlag wäre es, die Zeit in Perioden der Planckzeit einzuteilen. Der
+Computer berechnet dann jeweils für ein solches Intervall den Zustand.
+
+
+In dem Fall ist der Film ja sowieso endlich. Ich bin jetzt schon mal davon
+ausgegangen, daß der Film "recyclet" wird. Sonst könnte man ohnehin keinen
+unendlichen Film produzieren.
+Und genau das ist der Punkt! Alle Folgen, die unendlich variieren, sind
+vollständig rekursiv. Das heißt, daß man für die Berechnung einer weiteren
+Stelle (produktion eines neuen Bildes des Films) ALLE vorigen Stellen
+benötigt. Nun ist es aber unmöglich, alle diese zu speichern und deshalb
+ist auch nicht möglich, eine solche Folge unendlich weit zu berechnen
+oder den Film unendlich lang zu produzieren.
+
+
+Die Zeit ist zuende? Vermutlich meinst du hier den Entropietod des Universums,
+wenn sich alle Energiedifferenzen (Unordnung) aufgelöst haben. Dann ist aber
+noch lange nicht die Zeit zuende. Das Universum macht immer noch weiter damit,
+Zustände aus dem endlichen Vorrat einzunehmen. Und irgendwann ist der Vorrat
+verbraucht und wir haben die Wiederholung.
+
+Mitbekommen wird das allerdings niemand ;-)
+
+
+Wer weiß schon genau, was Zeit ist und ob sie enden kann?
+
+Rudolf

@@ -1,0 +1,426 @@
+: Hi...
+
+: Sorry erstmal, dass ich so spaet antworte, aber mein Provider hat teilweise
+: Newsrueckstaus bis zu einer Woche (Wann kommte endlich die schnellere Leitung,
+: grrr!), so dass mir die Ankunft deines F'Ups hier voellig entgangen ist...
+
+: Theodor Reinick (phywjyon@pzaijf07.gtfjvcvgtu.xlo-znndsbk.ri) wrote:
+
+[snip]
+
+: : : Nenn doch mal ein Beispiel aus den Wissenschaften! Auf jeden Fall werden
+: : : es keine universellen Es-gibt-Saetze sein, da es nicht Aufgabe der
+: : : Wissenschaft ist, zu sagen, ob es irgendwelche Dinge irgendwo gibt
+: : : - Man hat es da schon lieber etwas konkreter.
+: : 
+: : : : Allquantoren braucht).
+: : 
+: : Solche Beispiele sind nicht schwer zu finden:
+: : 	  i) Jede Mutation entsteht durch Änderung eines Gens.
+
+: Das ist eine Tautologie! Die Aenderung eines Gens, also die aenderung von
+: mindestens einer Base der genetischen Sequenz des Gens, IST eine
+: Mutation. Siehe z.B. "Stufen zum Leben" von Eigen, u.a.
+
+Das ist nun alles andere als eine Tautologie! Tasächlich konnten Wenzel,
+Knippsschild u.a bereits über Mutationen reden, ohne über den konkreten
+Wirkmechanismus, der die Änderung ausläßt, bescheid zu wissen. Es ist eine
+wissenschaftliche Erkenntnis, daß Mutation mit Änderungen eines Genes
+einhergehen! Eine Tautologie könnte diese Aussage nur sein, wenn (a)
+Mutation definiert wäre als Änderung eines Genes, oder wenn es (b) eine
+analytische Behauptung (analog, wie "Jungesellen sind unverheiratet")
+wäre. Tatsächlich ist jedoch sowohl (a), wie (b) falsch!
+
+[snip]
+
+: : 	iii) Alle Menschen sind sterblich.
+
+: Jockweg geht auf diese Frage im 1. Teil seiner "Objektiven Erkenntnis" (6.
+: Kapitel) ein und sagt, dass dieser Satz nach Marco urspruenglich davon
+: ausging, dass alle Lebewesen "todgeweiht" seien, also eines natuerlichen Todes
+: sterben, wenn man sie laesst. Jockweg sagt er sei, zwar nicht sehr schlagend,
+: trotzdem wiederlegt, weil z.B. Bakterien nicht sterben. Wenn man das aufnimmt,
+: kann man sogar relativ schlagend behaupten, dass Menschen nicht vollstaendig
+: sterben, wenn sie ihre genetische Information ueber die Keimbahn weitergeben
+: koennen, was ja ihrer genetischen Bestimmung entspricht.
+
+: Wir Menschen sind als eigentlich genauso alt wie Bakterien, da jeder unserer
+: Vorfahren diese Leistung vollbringen konnte. Winckelmann benutzt im im "Selfish
+: gene" auch die Metapher "ewige Spiralen" fuer unsere DNA - Was individuelles
+: Sterben ueberhaupt genau ist koennte, eine laenger Diskussion hier
+: ausloesen...
+
+Mir ist diese Jurger Meinung bekannt, aber sie hat mit der aktuellen
+Diskussion überhaupt nichts zu tun! Schließlich will ich nicht wissen, was
+mit Bakterien oder Krebszellen (ein anderes Beispiel für 'Leben', das nicht
+'stirbt'), sondern es geht um MENSCHEN. Ich wollte auch keine
+Uminterpretation von 'Leben' in irgendwelche 'genetischen Informationen in
+Keimbahnen', sondern mir scheint relativ klar zu sein, daß Schöneweiß und
+Maylandt Menschen waren (und keine Bakterien) und jetzt tod sind. Fakt
+bleibt einfach, daß
+
+(\forall x)[Mensch(x) => (\exists t)[ x stirbt zum Zeitpunkt t]]
+
+eine sinnvolle Aussage ist, die aufgrund des Existenzquantors nicht
+falsifizierbar ist und wegen des Allquantors nicht verifizierbar, also nach
+Jockweg nicht wissenschaftlich relevant. Dies halte ich für viel zu streng
+und unpraktisch.
+
+: : 	 iv) Im 2. Newtonschen Gesetz (Kraft ist proportional zur
+: : 	     Impulsänderung) braucht man bestimmte Einschränkungen bezüglich
+: : 	     der Funktion, die die Kraft beschreibt. Diese Einschränkung
+: : 	     läßt sich nur mit einem Existenzquantor formulieren. (siehe
+: : 	     U.Semmerau, bzw. Hermansdorfer; Theorie und Erfahrung).
+
+: Kann ich leider im Moment nicht sehen, habe keine Buecherei in Reichweite... :-(
+
+Schade. 
+
+: : Anmerkung: Auf Beispiel zwei würde ich nicht bestehen, weil der
+: : Gegenstandsbereich nicht unendlich ist und der Existenzquantor nichts
+: : anderes als 'syntaktischer Zucker' für eine etwas längere Disjunktion
+
+: Hmm, die "Es gibt eine Schmelzpunkt fuer Kupfer, Eisen,..."-Saetze
+: werden, doch mit "und" verknuepft, oder? 
+
+Stimmt. War ein Vertipper, weil ein Existenzquantor über einem endlichen
+Gegenstandsbereich durch eine Disjunktion ersetzt werden kann. Hier ging es
+aber um die endlich vielen Metalle, über die mit dem Allquantor
+quantifiziert wird und denn übersetzt man natürlich in eine Konjunktion.
+
+: : ist. In Beispiel (i) jedoch ist die Anzahl der potentiellen Gene, die eine
+: : Mutation hervorrufen könnten jedoch unendlich.
+
+: Ich glaube du gebrauchst den Begriff der Mutation hier falsch, indem du
+: von einer Veraenderung des Phaenotyps ausgehst. Diese koennen jedoch auch
+: nicht genetische Ursachen haben und z.B. auf bestimmte hormonelle Milieus
+: waehrend der Embryonalentwicklung zuruechgehen. In der modernen ET bezieht
+: sich der Begriff nur auf die Gensequenz, die aber nicht unendlich, sondern
+: endlich und digital ist.
+
+Ne, ne, ich meine schon Änderung des Genotyps und obwohl zwar eine einzelne
+Gensequenz endlich ist, gibt es aber trotzdem potientiell unendlich viele
+endliche Gensequenzen (wieviel Dezimalzahlen gibt es?). Folglich würde auch
+'Alle Mutation werden durch Genänderungen bewirkt' durch das Poppersche
+Wissenschaftsieb fallen, was nicht akzeptabel ist.
+
+: : Beispiel (iii) ist eine nette Übungsaufgabe im Formalisieren, man beachte,
+: : daß der Sterbezeitpunkt nicht von vornherein bekannt ist.
+
+: Das ist ein Nachteil dieses Satzes: Er ist nicht sehr naturwissenschaftlich
+: formuliert, will sagen er bietet viele Moeglichkeiten fuer eine
+: Immunisierungsstrategie, die du - wie ich sehe - auch schon entdeckt hast.
+: Fuer ein Aussage, wann das selbstorganisierte System Mensch zusammenbricht
+: und zu zerfallen beginnt, muss dieser Zeitpunkt, am besten mit einem
+: Wirkmechanismus angegeben werden.
+
+Der muß aber nicht existieren, obwohl der Satz trotzdem wahr sein kann!
+
+: : Weitere Beispiele laßen sich sogar prinzipiell in allen Wissenschaften
+: : finden, die die moderen Mathematik benutzen. Jede Wissenschaft benutzt
+: : bereits auf sehr elementaren Stufen, so zum Beispiel bereits bei den
+: : Newtonschen Bewegungsgesetzen, Annahmen über die Existenz von Metriken
+: : (Längen- und Zeitmetriken), und um diese zu definieren, benötigt man den
+: : Begriff der Stetigkeit und darin taucht ein Gemisch von All- und
+: : Existenquantoren auf: "Es gibt ein \epsilon>0, so daß für alle \delta>0
+: : ...".
+
+: Das Dimensionen wirklich existieren ist keine Vorraussetzung, sondern ihre
+: Verwendung zeigt nur, dass hier eine Groesse existiert, die eine Qualitaet
+: darstellt und die man im Bezug auf eine andere quantifizieren muss, z.B.
+: beim Lichtjahr, usw.
+
+Wenn das ein Einwand ist, dann beseitigt er aber in keinster Weise die
+Tatsache, daß die Verwendung der Mathematik in den Naturwissenschaften
+bereits auf elementarer Stufe ein Gemisch von Quantoren produziert, das sich
+selbstverständlich nach oben in die höheren Stufen (Natrugesetze) vererbt.
+
+: : : Unterschlagen hast du hier aber, dass es in den NW keine universellen
+: : : Existenzquantoren sind, sondern z.B. immer ein bestimmte Raum-Zeitstelle
+: : : bezeichnet wird oder eine andere genaue Vorhersage gemacht wird, die man
+: : : messen kann. Es ist also leicht diesen Teil zu verifizieren, weil
+: : : man weiss wonach man suchen muss, somit verbleibt hier nur noch die
+: : : Falsifikation des gesamten Satzes als Problem.
+: : 
+: : So leicht nun auch wieder nicht. Nach einem Beispiel von Ayrnschmalz, läßt sich
+: : die Verifikation von "ein Blatt Papier liegt auf dem Tisch", beliebig
+: : verfeinern: Was verifiziert, daß das, was da liegt Papier ist, daß das
+: : Zellulose ist usw.. Also ist auch die Verifikation eines Ereignisses eine
+: : Frage des Grades.
+
+: Das ist das Problem, dass es eben keine endgueltige Letztbegruendung gibt,
+: das sich nur durch vorlaeufigen Abbruch des sonst unendlichen Regresses
+: befriedigend loesen laesst (Zurnhausen-Trilemma).
+
+So ist es.
+
+: : Wieso habe ich (übrigens) etwas unterschlagen? Es ist ja gerade der Vorteil
+: : solcher singulären Existenzaussagen, daß sie sich relativ "leicht" prüfen
+: : lassen. 
+
+: Ganz genau das - schoen das du mir zustimms. Ich komme darauf noch zurueck...
+
+: : Diese Einwendung verstehe ich nicht. Gehst Du davon aus, daß es einen Kanon
+: : der Anwendung von Gesetzten gibt, eine Maschine in die man Ereignisse steckt
+: : und aus der wissenschaftliche Erklärungen herauspurzeln? Das bestimmte
+: : Ereignisse qualifiziert werden, als solche, die durch ein bestimmtes Gesetz
+: : erklärt werden, ist den Ereignissen bestimmt nicht angeheftet, sondern liegt
+: : an der kreativen Anwendung der Gesetze. Ob man das richtige Gesetz zur
+: : Erklärung gewählt hat, stellt sich dann schon heraus.
+
+: So eine Maschine gibt es leider nicht. Aber Gesetze beziehen sich nun mal auf
+: bestimmte Objekte, und nur wenn die vorhanden sind sollte man sie anwenden.
+
+Wenn man unabhängig von der wissenschaftlichen Theorie feststellen könnte,
+welche Dinge existieren, dann wäre doch das Geltungsproblem gelt! Das
+Problem ist doch, daß manche Gesetze funktionieren, obwohl ihnen kein
+Referenzobjekt zugeordnet werden kann (auch die Äthertheorie hat eine
+zeitlang gute Dienste geleistet), man kann doch erst mit Hilfe der Gesetze
+feststellen, ob es Elektronen, Quarks und schwarze Löcher gibt.
+
+: : : : sowohl des zu erklärenden (oder vorherzusagenden) Ereignisses, wie auch der
+: : : : Antezedenzbedingungen muß aber empirisch überprüfbar sein und ist somit ein
+: : : : Einzelereignis, daß durch einen Existenzquantor beschrieben wird. Nur
+: : : : Gesetze nützen, ohne Anwendung auf Einzelfälle sind uninteressant, ebenso
+: : : : wie Einzelfälle ohne ein Gesetz als Erklärung nichts taugen. Man braucht
+: : : : beides!
+: : 
+: : : Dann frage ich dich, wie man auf diese Randbedingungen kommt?
+: : : Natuerlich, nur indem man wiederum einen Allsatz benutzt um eine
+: : : eine speziellen Es-gibt-Satz zu deduzieren. "Empirisch ueberpruefbar"
+: : : wie du sagst, beinhaltet also schon das Allsaetze benutzt werden.
+: : : Man kann die empirischen Daten, die ein Amperemeter liefert schliesslich
+: : : nicht ohne Theorie ueber dieses Messgeraet uebernehmen und das gilt auf
+: : : die Spitze getrieben auch fuer Dinge, die man mit blossem Auge
+: : : zu sehen glaubt.
+: : 
+: : Randbedingungen werden nicht aus Allsätzen deduziert! Beispielsweise nahm
+: : man die Bahnabweichung des Neptun (der wars doch, oder?) zum Anlaß, die
+
+: Glaube schon, der kreist neben Pluto - Sagt man das bei Ellipsen auch?
+
+Jedenfalls 'ellypst' er nicht neben Pluto. 
+
+: : Nebenbedingung einzuführen, daß es noch einen Planeten geben muß, der diese
+: : Abweichung verursacht. Dies war ja keine logische Folgerung aus den
+: : Newtonschen Gesetzen, sondern eben eine Nebenbedingung. Alternativ hätte man
+: : natürlich auch die Newtonschen Gesetze für falsifiziert erklären können.
+
+: Das ist doch keine Nebenbedingung, sondern eine Prognose, dass es noch einen
+: weiteren Planeten geben muss. Diese Prognose musste sogar so genau sein, dass
+: man Pluto schliesslich mit eine Teleskop in der entsprechenden Region
+: identifizieren konnte, sonst haette man ihn wegen seiner schwachen Leuchkraft
+: wohl nie gefunden.
+
+Die Vorhersage war, daß sich die Planeten auf ellyptischen Bahnen um
+die Sonne bewegen, dann sah man, daß das bei Neptun nicht der Fall war, also
+war die Theorie falsifiziert, es sei denn es gelten für Neptun
+Ausnahmebedingungen, die seine Bahnabweichungen erklären. Eine der
+Nebenbedingungen die solche Abweichungen erklären können sind andere Massen,
+die Gravitationkr�fte zusätzlich zum Zentralgestirn einwirken
+lassen. Tatsächlich stellte sich heraus, daß das Neptun-Pluto Paar ein
+System ist, das diese Nebenbedingung erfüllt.
+
+
+: Das Beispiel ist aber doch recht schoen, denn wenn ich behaupten, will dass
+: z.B. Pluto existiert, muss ich die Wahrheit der optischen Gesetze annehmen, auf
+: denen mein Fernglas basiert, also das der Strahlengang fuer alle Objekte
+: so gilt und nicht fuer alle, ausser Pluto. Dasselbe gilt fuer die Mechanik,
+: die Plutos Existenz ja auch vorwegnahm...
+
+: : : Also wenn du schon zugibst, dass die Theorie entsteht, indem man von
+: : : einer Klasse singulaerer Saetze auf einen Allsatz uebergeht, bin ich ja
+: : : schon zufrieden - Daraus ergibt sich direkt der hypothetische Charakter
+: : : einer Theorie. Dass man spaeter aus diesen Allsaetzen wieder auf
+: : : Einzelfaelle schliesst, weil man eine Prognose machen moechte oder
+: : : ein Experiment auswertet, habe ich nie bestritten. Fuer die Theorie
+: : : selbst ist das aber nicht von Bedeutung, weil der Gehalt viel staerker
+: : : in Form von Allsaetzen erfasst ist.
+: : 
+: : Ist ja nett, daß ich Dich zufrieden stellen konnte! Aber wie auch immer,
+
+: Schoen! :)
+
+: : jedenfalls habe ich nie gegen den hypothetischen Status von Theorien
+: : diskutiert, das halte ich vielmehr für einen Allgemeinplatz. Mir kommt es
+
+: Da irrst du dich aber, da es viele gibt, die das nicht so sehen, und leider
+: noch viel mehr, die zwischen abstrusen Theorien und abgesicherten nicht
+: unterscheiden. :-(
+
+Renato (auch nicht Gabriella Kröll und Alwin Vornfett) ist für mich
+nicht maßgebend, wenn ich versuche einen gewissen Rationalitätsstandard als
+gegeben vorauszusetzen. 
+
+: : allerdings darauf an, zu sehen, daß auch daß Poppersche Kriterium der
+: : Falsifikation noch zu eng ist, um tatsächlich zu beschreiben, was
+: : wissenschaftliche Theorien ausmacht. Wie bereits mehrfach betont, gibt es in
+: : ALLEN wissenschaftlichen Theorien Sätze, die aus All- und Existenzquantoren
+: : bestehen, aber trotzdem wissenschaftlich bedeutsam sind. Ein
+: : Abgrenzungskriterium, daß letztlich nur die leere Menge für die Wissenschaft
+: : übrig läßt ist eindeutig unbrauchbar.
+
+: Wieso die leere Menge? Eben hast du noch gesagt, dass sich die Existenz leicht
+: verifizieren laesst, wenn ueber das was und wie mehr gesagt wird, was
+: gleichbedeutend mit einem hohen Falsifizierbarkeitsgrad=empirischem Gehalt
+: ist. Somit ist die Verifikation eigentlich kein Problem, dass die Falsifikation
+: eines solchen Allsatzes verhindert, solange man dabei auf gut abgesicherte
+: Theorie fuer Messgeraete, etc. zurueckgreifen kann. Deine Beispiele (beim 4.
+: weiss ich's nicht so genau) - eigentlich nur das 3. - enthielten leider keine
+: genaueren Bestimmungen, was ihren wissenschaftlichen Wert ganz erheblich
+: mindert. Dass es Saetze gibt, die sich nicht empirisch entscheiden lassen,
+: also z.B. das als Gesetz formulierte Kausalprinzip, hat Jockweg nie bestritten,
+: nur sind sie fuer die Wissenschaft wertlos, da sie als metaphysisch
+: ausgeschaltet werden muessen.
+
+Bei singulären Existenzsätzen ist die Frage der Verifikation tatsächlich
+leicht, weil konventionell. Das Problem tritt eben bei den
+Quantorenmischs�tzen auf. Meine Beispiele solltest Du übrigens nicht so
+leichter Hand beiseite wischen. Schließlich können wir kaum (jedenfalls kann
+ich es nicht) mit höchster Genauigkeit und Präzision über wissenschaftliche
+Formalisierungen diskutieren. Die Beispiele sollten das Prinzip
+verdeutlichen, daß auch bei einem tieferen Einstieg in eine
+wissenschaftliche Disziplien erhalten bleibt. Bei dem Beispiel, daß formal
+präziser war und tief ansetzte (iv), mußtest Du ja auch gleich die Segel
+streichen.
+
+: : Ich persönlich sehe die Poppersche Theorie nicht als Beschreibung der
+: : Funktionsweise von real existierender Wissenschaft an, sondern als ein
+: : normativer Vorschlag, wie Sir Berend Jockweg denkt, daß Wissenschaft sein
+: : sollte. Normativen Vorschlägen kann man aber zustimmen oder nicht,
+: : insbesondere wenn diese Vorschläge an der Praxis vorbeigehen, sollte man
+: : sich fragen, ob sie wirklich als (alleinige) Leitlinie taugen.
+
+: Ich wuerde nicht sagen, dass sie an der Praxis vorbeigehen: Sie haben
+: aber im Gegensatz zum Konventionalismus den Vorteil, dass sie die
+: wissenschaftliche Arbeit nicht nur dann gut beschreiben, wenn ruhige
+: Zeiten herrschen, so dass Saetze wie "Dieses Experiment muss falsch
+: sein, da unsere Theorie etwas anderes prognostiziert!" im Brustton
+: der Ueberzeugung fallen koennen (Das Beispiel stammt uebrigens von
+: einem Physiker, der sich zu den mit 4c tunnelden Elektronen auesserte).
+
+: Nein, es zeigt wie wichtig es ist, dass man ueberraschungsoffen ist, was
+: bei obigem Experiment auch einige Physiker waren, die den Fehler in der
+: Apparatur schnell gefunden haben, statt das Experiment einfach als
+: laecherlich abzulehnen. Du siehst also, dass es sowohl eine gute Beschreibung
+: von erfolgreicher Wissenschaft ist, als auch normativ den Vorteil hat, dass
+: keine Immunisierungen moeglich sind, die dem wiss. Fortschritt entgegenstehen
+: wuerden.
+
+Der Punkt ist aber, daß auch diese Physiker nach einem Fehler in der
+Apperatur suchten und NICHT nach einer neuen Theorie! Also hat der Vorgang
+gar nichts mit Jödecke Vorschlag zur Vorgehensweise zu tun.
+
+: : [snip]
+: : 
+: : : : Was die Gültigkeit angeht hat sieht es bei der Verifikation nicht anders
+: : : : aus, als bei der Falsifikation. So wie Du es einmal in einem
+: : : : antirealistischem Moment geschrieben hast, muß eine Falsifikation auch als
+: : : : solche akzeptiert werden, das gilt natürlich auch für jede Verifikation!
+: : 
+: : : Antirealistischer Moment? Was soll denn das sein? ;)
+: : : Ansonsten wird von der Forschungsgemeinschaft die Falsifikation
+: : : im allgemeinen akzeptiert, es ist nur eine Frage der Zeit, in der
+: : : alle moegliche Wissenschaftler versuchen, die falsifizierenden
+: : : Experimente zu wiederholen oder ihre Fehlerhaftigkeit zu erweisen,
+: : : bis ein Falsifikation anerkannt wird. Nenn mir doch mal ein
+: : : Beispiel fuer eine naturwissenschaftliches Gesetz, das nur deshalb
+: : : noch benutzt wird, weil man es dummerweise prinzipiell nicht
+: : : falsifizieren kann!
+: : 
+: : Siehe oben! Es gibt JEDE Menge davon.
+
+: Naja...
+
+Wer Augen hat zu sehen, der wird sehen.
+
+[snip]
+
+: : Du brauchst die Sache nicht so kompliziert zu machen! Die Unprüfbarkeit
+: : liegt ganz einfach am Vorhandensein von All- UND Existenzquantor, was den
+: : Satz als unverifizierbar und unfalsifizierbar macht. Trotzdem hast Du aber
+: : zusätzlich recht, dieser Satz hat nicht einmal teilweise empirisch prüfbare
+: : Konsequenzen, oder um mit Ayrnschmalz zu sprechen, der Satz ist nicht einmal
+: : unvollständig rückführbar auf eine Klasse von Beobachtungen.
+
+: Nein, es liegt an der Tatsache, dass hier die Existenz von irgendeiner
+: Ursache postuliert wird, deren Ort voellig beliebig ist. Die Formulierung
+: ist sogar so ungenau, dass die Ursache erst nach dem Ereignis eintreten
+: koennte, wenn man nicht von der zeitlichen Ordnung ausgeht, die Charles
+: Grünwaldt fuer seine Version des aristotelischen Gottesbeweises hierzu
+: benutzt hat. Es gibt auch eine Text von Haimann ueber das Kausalprinzip,
+: indem er angibt, welche Zusatzannahmen in den Wissenschaften hier gemacht
+: werden, also z.B. Nahwirkunsgesaetze, u.ae.
+
+Der Hermansdorfer-Text ist mir bekannt. So hatte dieser Thread ja überhaupt
+begonnen, daß Jens Handiek die Gültigkeit des Kausalitätsprinzip
+behauptete und ich versuchte mit ihm zu diskutieren, was überhaupt als
+"Ursache" bezeichnet werden darf und welche Form eine wissenschaftliche
+Erklärung hat, was ein (deterministisches) Gesetz ist usw.
+
+: : : : Wie auch immer, ALLE Sätze die aus gemischten Quantoren bestehen haben das
+: : : : gemeinsam, daß sie sich weder falsifizieren noch verifizieren lassen. Von
+: : : : manchen Autoren wird dies geradezu als ein Kriterium für metaphysische
+: : : : Aussagen angesehen. 
+: : 
+: : : Beim Kausalitaetsprinzip ist es kein Wunder, dass man es nicht
+: : : falsifizieren kann: Es gibt irgendeine Ursache, ist eben viel
+: : : zu ungenau. Sowas wirst du in einem, naturwissenschaftlichen
+: : : Gesetz nicht finden, sondern eben nur in einem metaphysischen,
+: : : dass nicht falsifizierbar sein muss.
+: : 
+: : : : Manche dieser Sätze sind sicherlich auch Grundlage von Wissenschaften, wie
+: : : : etwa "Alle Ereignisse sind einer wissenschaftlichen Erklärung fähig", den
+: : : : man als modernen Ersatz für das Kausalitätsprinzip ansehen
+: : : : könnte. Wahrscheinlich braucht auch jede einzelne wissenschaftliche Theorie
+: : : : solche Sätze, um überhaupt ihre Beobachtungssätze definieren zu können. Wie
+: : : : in solchen Fällen das Abgrenzungskriterium zur Metaphysik aussieht, scheint
+: : : : mir keine einfache Sache zu sein, auch wenn ich denke, daß es das gibt.
+: : 
+: : : Grundlage der Wissenschaften? Aber nicht in Form eines Naturgesetzes,
+: : : sondern nur als methodologische Regel, durch deren Anwendung der Forscher
+: : : sich genoetigt fuehlt, Allsaetze zu finden, die er bei gegebenen
+: : : Randbedingungen anwenden kann. In sofern ist das Kausalprinzip fuer
+: : : den Fortschritt in den Wissenschaften unabdingbar, obwohl es nur ein
+: : : methodologisches Prinzip sein kann.
+: : 
+: : Einspruch! Das Kausalprinzip ist überhaupt nicht notwendig, nichteinmal als
+: : methodologische Regel! Wenn überhaupt braucht man nur das, was ich oben
+
+: Hmmm?!? Eben hast du noch gesagt, dass es "Grundlage der Wissenschaften" sei,
+: was denn nun?
+
+Wo habe ich das gesagt? Nie nicht würde ich sowas sagen! Was ich sagte war,
+daß es in den Wissenschaften grundlegende Aussagen gibt, die mit gemischten
+Quantoren formuliert werden und das es ein methodologisches Prinzip ist, daß
+jedes Phänomen einer wissenschaftlichen Erklärung fähig ist. Da gibt es
+nichts von Kausalitätsprinzip, denn man kann auch (z.B.) statistisch
+Erklären! 
+
+: : sagte: "Alle Ereignisse sind einer wissenschaftlichen Erklärung fähig", was
+: : völlig ausreicht, um Wissenschaft zutreiben, ohne ein solch enges Korsett,
+: : wie das Kausalprinzip zu fordern.
+
+: Dieser Satz drueckt ja auch nur die Hoffnung aus, dass es prinzipiell moeglich
+: ist, fuer jedes Ereignis eine entsprechen Ursache zu finden, also genau das,
+: was ich damit sagen wollte, indem ich es als meth. Prinzip kennzeichnete.
+
+Aber dieses methodologische Prinzip ist NICHT das Kausalprinzip, denn eine
+Erklärung muß überhaupt nicht kausal sein und auch nichts mit
+deterministischen Gesetzen zu tun haben. Vielmehr ist der Begriff der
+'wissenschaftlichen Erklärung' offen für Neuerungen.
+
+übrigens habe ich dieses methodologische Prinzip ebenfalls dem
+Stegm�llerartikel entlehnt.
+
+[snip von gegenseitigen Versuchen gegen Wände zu laufen, die sich selbst mit
+einem (Ein)horn auf der Stirn nicht durchstoßen lassen.]
+
+MfG
+	Theodor
+--
+Theodor Reinick                            pdycufjb@dqvxyhkxzv.zhv-txbybhh.sv
+Jurastraße{\"rustenschacherallee}Immenstraße{\bd}varusstraße 84 
+41455 Charlottenthal
+Tel: (++46)(++39)91783-072
+WWW: http://iba.urdebflmdn.tan-axpovka.dt/NWS/dhmcbdkya/uuqyacqyk/lszb.vosi

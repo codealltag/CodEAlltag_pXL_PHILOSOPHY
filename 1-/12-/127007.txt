@@ -1,0 +1,61 @@
+On 05. 07. 22 15:15:35 -0700, 
+
+Das habe ich nicht geschrieben, sondern - wenn ich mich recht erinnere -
+Fernand. Nix fuer ungut. ;-)
+
+
+Das tue ich doch garnicht. :(
+
+
+Bei der mengentheoretischen Definition der Identitaet handelt es sich um
+eine Spracherweiterung, wobei ein 2-stelliges Relationszeichen
+hinzugefuegt wird. Dieses wird in einer formal-semantischen
+Interpretation in einer Meta-Mengenlehre als Relation interpretiert.
+Das Relationszeichen war vor der Definition nicht Teil der
+Ausgangssprache. Deshalb ist die Definition nicht zirkulaer. Ich
+fuerchte, du verstehst hier nicht, was eine /Definition in einer Sprache
+L/ ist. Definiert werden hier Zeichen (Konstanten-, Relations- und
+Funktionssymbole). Auf dieser syntaktischen Ebene hat das eben noch
+nichts mit Semantik zu tun. Wenn du nun eine Semantik in's Spiel bringen
+willst, dann gibt es zwei Moeglichkeiten: (1) du versuchst die
+mengentheoretischen Ausdruecke in die gewoehnliche Umgangssprache
+hereinzuholen, oder (2) die Ausdruecke werden innerhalb einer
+semantischen Theorie interpretiert. Aber (2) hiesse dann, dass wir den
+ganzen Apperat einer Meta-Mengenlehre zur Verfuegung haben. Und vom
+Standpunkt einer Meta-Mengenlehre gibt es hier semantisch keine
+Probleme. Die Probleme tauchen nur auf, wenn man sich durch (1) an die
+Bedeutung der Ausdruecke heranmachen will.
+
+Dennoch, eine semantische Analyse ist eben etwas anderes als eine
+spracherweiternde Definition in einer Sprache L. Einigen wir uns auf den
+Begriff der /explitziten Definition in L/, den ich hier schon
+vorgestellt habe, so musst du schon zugestehen, dass es in dieser Weise
+keine Zirkularitaet gibt. Wir verwenden ein bestimmtes Zeichen durch die
+Definition auf bestimmte Art.
+
+Es kann durchaus sein, dass unsere Umgangssprache mit der
+Gleichheitsdefinition in der Mengenlehre nicht fertig wird!
+M(A,b).
+
+M |= (z)(z\in x <-> z\in y) <=>
+Fuer alle a aus A gilt M[a/z] |= z\in x <-> z\in y <=>
+F.a. a aus A gilt: (M[a/z] |= z\in x <=> M[a/z] |= z\in y) <=>
+F.a. a aus A gilt: a\in_A b(x) <=> a\in_A b(y).
+
+Das ist die metasprachliche Interpretation der o.a. objektsprachlichen
+Formel. Die Zeichen "F.a.", "aus" koennen in der formalen
+Meta-Mengentheorie durch den Allquantor und das Meta-Elementzeichen
+ersetzt werden.
+
+Das "="-Symbol ist in der Interpretation eine 2-stellige Relation und
+Teilmenge von AxA. (Wir haben ja unsere Sprache erweitert.)
+
+M |= x=y <=> b(x) =_A b(y).
+
+
+Gruss, Renato.
+-- 
+"Ohne die Mathematik dringt man niemals auf den Grund der Philosophie.
+Ohne die Philosophie dringt man niemals auf den Grund der Mathematik.
+Ohne beide kommt man auf den Grund von gar nichts."
+(Ulf Isenrich)

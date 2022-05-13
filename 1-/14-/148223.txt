@@ -1,0 +1,184 @@
+<veröffentlicht & per Mail versendet>
+
+
+Aber das setzt doch vorraus, was gezeigt werden soll! Warum 
+sollen die Elemente der Trägermenge  Gegenstände oder Objekte sein? 
+Eine Belegung in einer Struktur ist eine Abbildung, die jeder 
+Variable ein Element der Trägermenge.
+Und das ist doch des Pudels Kern: Bezeichnen Elemente einer Menge 
+(immer) abstrakte Objekte! Ob ich nur "1" oder 1 schreibe: das sind 
+beides sprachliche Zeichen, das "1" ist eine Konstante der Objekt, 
+das 1 ist eine Konstante der Metasprache. 
+Ich kann nichts Abstraktes erkennen: Nur konkrete Zeichen und ihre 
+spezifische Art und Weise, sie zu verwenden (Symbole also): In 
+der Objektsprache ist die Verwendung in Frage gestellt; in der 
+Metasprache wird die Verwendung der Zeichen (welche Relationen für 
+welche Elemente des Trägers gelten sollen etc. ) als bekannt 
+vorausgesetzt.
+
+Versuchen wir doch einfach mal ernst zu nehmen, was du sagst 
+(vielleicht verstehe ich dich ja falsch):
+Ich habe eine sehr einfache Sprache S:
+Es gibt eine Konstante G
+Es gibt einstellige Prädikate: M, G, I.
+und hierzu die S-Struktur mit der Trägermenge A = { Gott }
+a(M)x : x ist allmächtig
+a(G)x:  x ist allgegenwärtig
+a(I)x:  x ist ingelligentes Wesen.
+a(G) = Gott;
+und eine Belegung b(v) = Gott;
+
+Man betrachtet nun den S- Ausdruck:
+\exists_{v}Mv and Gv and Iv.
+
+Nun das Modell des Ausdrucks: 
+Nun ist x aus A  Gott und für Gott gilt sicher: x ist allmächtig, x 
+ist allgegenwärtig, x ist intelligentes Wesen.
+Man hat also mit (Gott, allmächtig, allgegenwärtig, intelligent) ein 
+Modell für unseren Ausdruck gefunden.
+
+Gibt es nun einen Gott oder nicht? bzw. Muss man nun einen Gott 
+annehmen? 
+
+Willst du also sagen, dass man annehmen muss, dass Gott existiert 
+oder 
+was soll das bedeuten: den Gegenstand  Gott annehmen? Ich halte diese 
+Art Wirklichkeit zu konstruieren für absurd! Man hat noch nicht mal 
+theoretisch einen Begriff gewonnen, was es heißen soll, dass so ein 
+allgegenwärtiges, allmächtiges, intelligentes Wesen gibt: Wir haben 
+davon keinen Begriff, wir wissen hieraus nicht, was das bedeutet! Was 
+kannst du also aus diesen Überlegung als Rechtfertigung für deine 
+Annahme ziehen?
+
+Die Verknüpfung der "Dequotation" mit ontologischen Fragen scheint 
+mir doch etwas Magisches zu haben! Man äußere nur das Wort 
+akrakadabra  zum Term x und schon ist der Gegenstand vorhanden, man 
+entferne nur die Anführungszeichen und schon ist der abstrakten 
+Gegenstand "angenommen"!
+
+Ich glaube diese Vorstellung ist eine Fehlinterpretation der 
+Modellrelation: es ist nicht so, dass man sozusagen durch die 
+"Dequotation" von der Objektsprache zu den Objekten übergeht, sondern 
+man geht von der Objektsprache, formuliert und betrachtet in der 
+Metasprache, aus und ordnet dieses Zeichen in der Objektsprache 
+Symbole (Zeichen mit Sinn/Bedeutung) der Metasprache zu. 
+Die Modellrelation ist eine Abbildung in der Metasprache!
+
+Nur weil man die Modellrelation nicht ontologisch-metaphysisch 
+ausbeuten möchte, muss man noch lange nicht die Modellrelation und 
+ihre Rolle in der Beweistheorie zurückweisen. Man lernt nicht etwas 
+über das Sein der Gegenstände sondern über die Struktur unserer 
+(mathematischen) Sprache! Man kann denn Begriff der Logischen 
+Wahrheit und des Folgerungsbegriffs präzisieren und damit den 
+strukturellen Zusammenhang mit anderen mathematischen 
+Strukturbegriffen untersuchen (Isomorphielemma) und erforscht die 
+Standardstrukturen, indem man Nichstandardmodelle angibt (nicht 
+archimedische geordnete Körper). etc. pp. 
+Alles sehr nützliche Dinge und genau deshalb sollte man sich genau 
+überlegen, ob das mit einer anrüchigen Metaphysik belasten will! 
+
+Was mir unklar bleibt, ist was du mit "abstrakten Gegenstand 
+annehmen" meinst? Was trägt die Annahme zu der Theorie bei, zu den 
+Symbolen, den Zeichen: Termen, Ausdrücken und ihrer Verwendung in der 
+einer Theorie? Das sehe ich nicht, ich sehe noch nicht einmal wie das 
+möglich wäre.
+Denn dass man sagen, kann "es existiert eine Menge mit ..." das 
+bestreite ich nicht, inwiefern dies Sinn hat, entscheidet der 
+Gebrauch in der entsprechenden Theorie. Ich bestreite nicht, die 
+Rechtfertigung des Gebrauchs von z.B. unendlichen Mengen. Ich 
+bestreite nur, dass man annehmen sollte, sie seien Gegenstände!       
+
+"Unser Begriff von einem Gegenstande mag also enthalten, was und wie 
+viel er wolle, so müssen wir doch aus ihm herausgehen, um diesem die 
+Existenz zu erteilen. Bei Gegenständen der Sinne geschieht dieses 
+durch den Zusammenhang mit irgendeiner meiner Wahrnehmungen nach 
+empirischen Gesetzen; aber für Objekte des reinen Denkens ist ganz 
+und gar kein Mittel, ihr Dasein zu erkennen, weil es gänzlich a 
+priori erkannt werden müsste, unser Bewusstsein aller Existenz aber 
+(es 
+sei durch Wahrnehmung unmittelbar, oder durch Schlüsse, die etwas mit 
+der Wahrnehmung verknüpfen,) gehört ganz und gar zur Einheit der 
+Erfahrung, und eine Existenz außer diesem Felde kann zwar nicht 
+schlechterdings für unmöglich erklärt werden, sie ist aber eine 
+Voraussetzung, die wir durch nichts rechtfertigen können." 
+Kranig, Kritik der reinen Vernunft, Von der Unmöglichkeit eines 
+ontologischen Gottesbeweises vom Dasein Gottes. 
+
+
+Wieso denn das? Die Belegungsabbildung ist eine Abbildung zwischen 
+zwei sprachlichen Gebilden: der Objekt"sprache" (von Sprache darf man 
+hier eigentlich noch nicht sprechen, da den Sätzen bis dahin noch 
+kein Wahrheitswert zugeordnet, also noch keine logische Struktur 
+zugeordnet ist) und der Metasprache: also der normalen Sprache, in 
+der sich die normale Mathematiker und Menschen unterhalten und deren 
+Sätze eine logische Struktur besitzten.
+
+"Es ist wichtig, dass das Wort "Bedeutung" sprachwidrig gebraucht 
+wird, wenn man damit das Ding bezeichnet, das dem Wort >entspricht<. 
+Dies heißt, die Bedeutung eines Namens verwechseln mit dem Träger des 
+Namens." PU ä40
+
+Wenn man sagt :"dies ist ein Ball", dann ist hier ja auch kein Ball 
+sondern ein Satz über einen Ball. Sätze kann man auf das Papier 
+schreiben, keine Bälle. 
+Sonst könnte wir die Gegenstande nur dadurch, dass wir über sie 
+sprechen hervorbringen, bzw. dass wir nicht über sie sprechen, ihre 
+Wirkung auf uns abwenden. Das können wir aber nicht! 
+Wenn wir die Flut nicht erkennen, und nicht wissen, dass sie kommen 
+wird, werden wir absaufen, ganz gleich, ob wir und welches Konzept 
+wir von Wasser oder Meer oder Mond oder Welt haben.
+
+Nehmen wir mal wieder ernst, was du sagst und betrachten folgende 
+Beispiele: der Weihnachtsmann oder die sieben Zwerge:
+Sei Sprache mit der Konstante w und dem Prädikat R gegeben mit der 
+Struktur a(w)=Weihnachstmann und a(R)x="x hat eine rote Mütze". Nun 
+ist mit der Belegung b(v)=" es ex. x in der Menge der Weihnachtsm�ner 
+mit x hat eine rote Mütze" ein Modell des Ausdrucks \exists_{v}Rx
+"Es ist wichtig, dass das Wort "Bedeutung" sprachwidrig gebraucht 
+wird, wenn man damit das Ding bezeichnet, das dem Wort >entspricht<. 
+
+Also existiert der Weihnachstmann und er hat auch noch eine rote 
+Mütze auf?
+
+Oder "Es exisiteren die sieben Zwerge hinter den sieben Bergen" gdw 
+wenn die sieben Zwerge hinter den sieben Bergen existieren.
+
+Das ist doch Magie, mit Ontologie hat das nichts zu tun!
+"Es existieren die sieben Zwerge hinter den sieben Bergen" 
+akrakadabra gdw. Es existieren die sieben Zwerge hinter den sieben 
+Bergen". oh halt ich habe simsalabim vergessen!
+
+"Es existieren die sieben Zwerge hinter den sieben Bergen" 
+akrakadabra gdw. Es existieren die sieben Zwerge hinter den sieben 
+Bergen simsalabim! Und schon gibt es sie die sieben Zwerge :).
+
+Der Unterschied zum Beispiel mit Gott und den unendlichen Mengen ist 
+hier, dass wir zumindest einen Begriff haben, was es bedeutet, dass 
+es die sieben Zwerge gibt: Man kann könnte den Satz "Der 
+Weihnachstmann existiert und hat eine rote Mütze" ungefähr so 
+verifizieren wie "Mein Großvater existiert und hat eine Hut auf" oder 
+"Hinter den sieben Bergen bei den sieben Zwergen existiert das 
+Schneewittchen" könnte man vielleicht so verifizieren "Wie meine 
+Schwiegereltern wohnen in Mitwick". Aber was es bedeutet, dass es 
+den "lieben Gott" oder die "Unendlichkeit" gibt, davon haben wir 
+keinen klaren Begriff: in der Mathematik ist für den Gebrauch die 
+Widerspruchsfreiheit des Gebrauchs in einer mathematischen Theorie 
+hinreichend für eine allgemeine Ontologie aber nicht! Das Dasein 
+bedarf einer Vermittlung durch etwas anderes!
+
+Bei dieser Diskussion könnte man fast zum Hegelianer konvertieren :), 
+aber zum Glück gibt es den guten Kranig:
+"Wo also Wahrnehmung und deren Anhang nach empirischen Gesetzen 
+hinreicht, dahin reicht auch unsere Erkenntnis vom Dasein der Dinge. 
+Fangen wir nicht von Erfahrung an, oder gehen wir nicht nach Gesetzen 
+des empirischen Zusammenhanges der Erscheinungen fort, so machen wir 
+uns vergeblich Staat, das Dasein irgendeines Dinges erraten oder 
+erforschen zu wollen." Kranig, Kritik der reinen Vernunft, Postulate 
+des empirischen Denkens überhaupt.
+
+Ich möchte hier einen Schnitt machen, weil sonst, so denke ich, die 
+Diskussion zu sehr zerfasert. Wir können sie ja, wenn sie nicht in 
+anderen Threads diskutiert wird, wieder aufnehmen.
+
+Gruss,
+Nils.

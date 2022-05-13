@@ -1,0 +1,46 @@
+Mal sehen.
+
+
+Daten oder Datenmanipulation und Methoden sind in Objekten
+prinzipiell schon verknüpft.
+
+
+Ein ganz anderes Problem, nämlich der Rechnerstrukturen und
+auch kein allgemeines Problem, weil auch Parallelstrukturierungen
+möglich sind. Aber auch bei letzteren ist bei objektorientiertem
+Code eine strikte Trennung von Daten, Methoden, Prozessor-
+befehlen prinzipiell nicht möglich aber selbstverständlich gibt es
+mehr Möglichkeiten der Optimierungen der Nutzung der größeren
+Ressourcen und ihrer Architektur, nämlich ...
+
+
+... Prozessoren, Registern, Bussen, Datenspeichern, Schnittstellen etc.
+
+
+Das muss nicht so bleiben, je nach Aufwand-Nutzenverhältnis
+wäre es denkbar, die /gesamte/ Software auf einem System
+jedesmal aufeinander abgestimmt automatisch neu zu schreiben
+oder zu optimieren, wenn neue Teile oder neu dazukommende
+operative Kombinationen gebraucht oder festgestellt würden.
+Wenn das allerdings mehr Zeit und Rechnerressourcen ver-
+brauchte, als die eingesparte Arbeit wert ist, könnte man so
+etwas auch nicht brauchen.
+
+
+Siehe oben, das könnte man angehen, sofern oder wenn mehr Zeit
+und Ressourcen zur Verfügung stehen, als zu verkaufbarer Arbeit
+nötig sind. Ein Supercompiler wie oben müsste ja ohnehin bidirek-
+tional arbeiten, das heißt er könnte auch im Rahmen bestimmter
+Standards beliebigen vorliegenden Code auch decompilieren,
+den Quelltext optimieren oder neu schreiben und neu kompilieren.
+Der würde aber selbst manuell geschriebene Code dabei prüfen
+und ggf. anpassen müssen. Die Zeit der gut meinenden Bastler ist
+wohl ohnehin zuende. Konsortien wie solche, die so etwas wie
+MDA hervorbringen, setzen ja gerade Standards, die in diese
+Richtung weisen.
+
+Damit hat sich Dein obiges "Nein" wohl erledigt.
+
+Mit freundlichen Grüßen
+
+Patrick

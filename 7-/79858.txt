@@ -1,0 +1,7 @@
+Eine Menge ist abzählbar unendlich, wenn jedem Element der Menge eine
+endliche Zahl zugeordnet werden kann. Der Zahl 1/9 ordnest du aber die
+'Zahl' unendlich zu, was nach Definition nicht erlaubt ist.
+Du begründest diese Zuordnung mit dem Argument: Die Liste muss ja
+unendlich lang sein, weil sie abzählbar unendlich ist. Ja, das stimmt:
+Die Liste ist unendlich lang. Aber trotzdem musst du jedem bestimmten
+Element eine endliche Zahl zuordnen.

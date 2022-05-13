@@ -1,0 +1,22 @@
+??? Was redest Du denn da zusammen? "Fs exist" braucht keine "Bedeutung"
+zu haben. Es handelt sich dabei um einen formalen Ausdruck (der Theorie
+T) der Form "ExFx". Alles was Du dabei "verstehen" musst, ist, was es
+bedeutet, _dass dieser Ausdruck in T herleitbar ist_.
+
+Damit ist dann die Bedeutung des Ausdrucks:
+
+	"'Fs exist' has been proven from the axioms of theory T"
+
+klar. - Genauer müsste man hier noch zwischen Objekt- und Metasprache
+unterscheiden, es müsste also hier heißen:
+
+	"ExFx' has been proven from the axioms of theory T"
+
+Und daher ist dann auch die Bedeutung von
+
+	"Fs have been shown to exist" 
+
+klar. Alles klar jetzt? :-)
+
+
+A.

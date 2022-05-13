@@ -1,0 +1,10 @@
+Der Ausdruck "limes fuer x gegen 0 von f(x)" besitzt uebrigens
+keine freie Variable mehr, die irgendetwas waehlbares sein
+Kann. Aehnlich wie Existenz, oder Allquantoren sorgt er gerade
+fuer das Verschwinden der freien Variable.
+
+Das waere wie "Summe 1/n^2 von n=1 bis 8" fuer bestimmte Werte 
+von n betrachten zu wollen ...
+
+Gruss,
+  Helmuth

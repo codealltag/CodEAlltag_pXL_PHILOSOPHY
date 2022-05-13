@@ -1,0 +1,235 @@
+Hi Dennis,
+
+wir sind langsam sehr O.T., deshalb schlag ich vor, nach
+de.sci.philosophie auszuwandern. Gut? Deshalb auch F'up an d.s.p.
+
+
+Schon klar. Aber _meine_ nicht. ;-)
+
+
+Alter und andere haben den radikalen Fallibilisten schon zur Genüge
+Beispiele für Letztbegründungen demonstriert (v.a. bezügl.
+Erkenntnistheorie und Ethik). Sie wurden ihnen vorgelegt, kritisch
+geprüft - und verworfen. Fragt sich halt, ob diese Verwerfung zu Recht
+oder zu Unrecht erfolgte.
+
+Du wirst dich hoffentlich nicht auf die verwegene These festlegen
+wollen, dass der Beweis für die Existenz von Letztbegründungen erst
+dann erbracht ist, wenn ihn auch die Gemeinschaft radikaler
+Fallibilisten anerkennt. ;-)
+
+
+Eben, und das ist die Crux. Gian sagt nirgends nie, wie denn eine
+mögliche (empirische?) Widerlegung seiner Position aussehen könnte. Du
+auch nicht.
+
+
+Was noch lange nicht die Richtigkeit von Anzeneders Position beweist.
+
+
+Das sagst du. Dabei trägst du deinen Panskeptizismus gut sichtbar und
+mit beträchtlichem missionarischen Eifer wie eine Fahne vor dich her.
+;-) Soll ich mal eine Umfrage in d.s.t und d.s.w.c machen? ;-)
+
+[...]
+
+
+Das ist dann aber Dogmatismus. Der Gläubige könnte genauso gut sagen:
+"Zeig mir doch, dass es keinen Gott gibt. Wenn du das nicht kannst,
+ist meine Theorie nicht falsifiziert, ergo gibt es einen Gott."
+
+Wenn du erwartest, dass dir _empirische Sätze als letztbegründbare
+Sätze präsentiert werden, kannst du lange warten.
+
+Ich möchte von dir gerne ein Argument für deine Auffassung, dass
+dein radikaler Fallibilismus durch Aufzeigen eines letztbegründeten
+Satzes falsifiziert wäre. In Frage steht also, inwieweit deine
+Position überhaupt das ist, was sie zu sein behauptet: Eine
+falsifizierbare Hypothese.
+
+Welches ist dein Falsifikationskriterium? Dass sich ein radikaler
+Fallibilist von der Falschheit seiner Position überzeugen ließe?
+
+Prima. ;-) Dann wäre also der Fallibilist die letzte philosophische
+Richtinstanz. "Wahrheit" ist das, was ein Fallibilist als "Wahrheit"
+anerkennt. Hat ziemliche Ähnlichkeit mit dem Satz: "Wahrheit ist das,
+was der Papst als Wahrheit verkündet." ;-)
+
+
+Mit einem Unterschied: Igor zeigt ihnen die Selbstwidersprüchlichkeit
+ihrer Position auf. Du wartest auf eine Falsifikation deiner Position,
+obwohl sie nicht falsifizierbar ist.
+
+
+Das stimmt nicht. Wenn du mir beweisen kannst, dass unsere Position
+widersprüchlich ist, gebe ich sie gerne auf. Wir lassen uns auf
+philosophische Argumente ein. Du aber wartest wie Godot auf etwas
+Unmögliches, nämlich auf eine _empirische_ Falsifikation deiner
+Position durch einen mirakulösen Evidenzbeweis.
+
+
+Ich versuche mich nun an einem Beweis dafür, dass dein
+Fallibilismus eine unhaltbare Position ist. O.k.? In den Axiomen für
+diesen Beweis bemühe ich mich, deinen Standpunkt möglichst fair zu
+rekonstruieren.
+
+
+###Beweis für die Selbstwidersprüchlichkeit des radikalen
+Fallibilismus###
+
+Zunächst folgende terminologische Festlegungen:
+
+Sätze können _notwendig_ wahr sein oder nur _empirisch_ wahr
+(kontingent wahr). Statt "empirisch wahr" kann man auch "gültig" bzw.
+"zeitkernig gültig" sagen. Insbesondere der Fallibilist hält seine
+eigenen Sätze für nur empirisch wahr.
+
+Da der Fallibilist in eine Argumentation mit dem Antifallibilisten
+tritt, muß er seine Sätze zumindest für empirisch wahr ("gültig")
+halten. Und da der Fallibilist seine Position aufgegeben würde, wenn
+ihm der Antifallibilist einen notwendig wahren Satz zeigen würde, muß
+er zumindest die theoretische Möglichkeit von notwendig wahren Sätzen
+anerkennen.
+
+W(x) heiße: "Satz x ist notwendig wahr" (a priori wahr,
+letztbegründet, sicheres Wissen etc.)
+
+~W(x) heiße: "Satz x ist nicht notwendig wahr" (a
+posteriori/kontingent/empirisch wahr, "nur zeitkernig gültig" etc.)
+
+(Ein Prädikat für "x ist notwendig falsch" benötigen wir nicht, da die
+Aussage synonym zu W(~x) ist.)
+
+p sei der Satz: "Kein Satz ist notwendig wahr." (Radikaler
+Fallibilismus)
+~p ist demzufolge: "Mindestens ein Satz ist notwendig wahr"
+(Anti-Fallibilismus)
+
+Es gelten folgende Axiome, auf die sich Fallibilist und
+Antifallibilist einigen können:
+
+(A1)  ~p -> W(~p)
+(A1') ~W(~p) -> p
+(A2)  p -> ~W(p)
+(A2') W(p) -> ~p
+
+Erläuterung:
+
+ad (A1): Wenn mindestens ein Satz notwendig wahr ist (= ~p), dann ist
+auch der Satz "Mindestens ein Satz ist notwendig wahr" notwendig wahr
+(= W(~p)). Anders ausgedrückt: Wenn es Sätze gibt, die unter keinen
+Umständen widerlegt werden können, dann kann auch der Satz, der diesen
+Sachverhalt ausdrückt, unter keinen Umständen widerlegt werden.
+
+Die Umkehrung dieses Satzes per Modus Tollens ergibt (A1'): Wenn der
+Satz des Anti-Fallibilisten (~p) nicht notwendig wahr ist (~W(~p),
+dann hat der Fallibilist recht (p).
+
+ad (A2): Aus dem Satz "Es gibt keine notwendig wahren Sätze" folgt,
+dass auch dieser Satz selbst nicht notwendig wahr ist.
+
+Die Umkehrung durch Modus Tollens ergibt (A2'): Wenn der Satz des
+Fallibilisten (p) notwendig wahr wäre (W(p)), dann wäre er falsch und
+der Antifallibilist hätte recht (~p).
+
+Jetzt können wir die Konsistenz des radikalen Fallibilismus
+untersuchen:
+
+(1) p   (These des radikalen Fallibilisten)
+(2) Für alle x gilt: x -> ~W(x) (Explikation des Inhaltes von 1)
+(3) ~p -> ~W(~p)   (Einsetzung von ~p in 2)
+(4) ~W(~p) -> p   (= A1')
+(5) ~p -> p   (Hypothetischer Syllogismus, aus 3 und 4)
+
+Erläuterung:
+
+ad (2) Wenn x ein Satz ist, dann ist er nicht notwendig wahr.
+ad (3) Deshalb ist auch der Satz des Anti-Fallibilisten nicht
+notwendig wahr.
+
+Satz (5) ist überraschend, führt aber zu keiner logischen Inkonsistenz
+beim Fallibilisten. Er besagt: "Wenn mindestens ein Satz notwendig
+wahr ist, dann ist kein Satz notwendig wahr." Ein Konditional ist
+genau dann wahr, wenn entweder der Vordersatz falsch ist oder der
+Hintersatz wahr ist (= Regel der Materialen Implikation). Daraus
+ergibt sich:
+
+(6) p v p (Materiale Impl., aus 5)
+
+und aufgrund der Tautologie-Regeln:
+
+(7=1) p (Tautologie, aus 6)
+
+Der Fallibilist könnte jetzt jubeln - ihm konnte bislang kein
+Widerspruch nachgewiesen werden, seine Argumentation ist noch
+konsistent.
+
+Aber Satz (5) weckt massive Zweifel an der argumentativen
+Aufrichtigkeit des Fallibilisten. Er hat ja behauptet, dass sein
+Fallibilismus dann widerlegt sei, wenn ihm endlich ein notwendig
+wahrer Satz präsentiert würde. Nun zwingt ihn seine Logik aber zur
+Behauptung (5), dass er sogar dann, wenn er nicht recht hätte (~p),
+trotzdem recht hätte (p)!
+
+Mit anderen Worten: Der radikale Fallibilismus kann _unter keinen
+Umständen widerlegt werden, der Fallibilist hat _immer Recht_! Selbst
+wenn ihm eine sichere Erkenntnis präsentiert würde und sogar ihm ihre
+absolute Wahrheit evident wäre, müßte er messerscharf schließen, dass
+sie nicht notwendig wahr wäre. Und das führt leider zu der ihm äußerst
+unbequemen Schlußfolgerung, dass sein Satz "Kein Satz ist notwendig
+wahr" ein notwendig wahrer, a priorischer, durch kein empirisches
+Faktum widerlegbarer Satz ist. Daher folgt aus (7):
+
+(8) W(p) ("Der Fallibilist hat immer Recht.")
+
+Wir können weitergehen:
+
+(9) W(p) -> ~p (= A2)
+(10) ~p
+
+Jetzt haben wir eine faustdicke Kontradiktion zu (7) bzw. (1)! Der
+Fallibilist ist gezwungen, auf ~p zu schließen. Da der Fallibilist p
+angenommen hat (1), ergibt sich per reductio ad absurdum, dass ~p
+richtig ist.
+
+Und aus (A1), das hier als (11) wiederholt wird
+
+(11) ~p -> W(~p) (=A1)
+
+folgt außerdem:
+
+(12) W(~p) (Modus Ponens, aus 10 und 11)
+
+D.h., der Satz "Mindestens ein Satz ist notwendig wahr" ist notwendig
+wahr. Damit kann jetzt der notwendig wahre Satz präsentiert werden,
+den der radikale Fallibilist als Falsifikationskriterium verlangt hat.
+Wenn er konsequent ist, muß er seinen radikalen Fallibilismus
+aufgeben.
+
+###ENDE DES BEWEISES###
+
+
+Hast du einen Fehler in meiner Beweisführung gefunden? Streitest du
+die Gültigkeit eines der Axiome ab und wenn ja, mit welchen Gründen?
+
+Wenn nein, dann sollte dir jetzt klar sein, dass dein radikaler
+Fallibilismus eine dogmatische Selbstimmunisierungsstrategie ist und
+der selbst noch seine Widerlegung als Beweis für die eigene Wahrheit
+ableiten kann. Ein Fallibilismus, der dogmatisch wird, hebt sich aber
+selbst aus den Angeln.
+
+Du könntest nun auf den Ausweg verfallen, die Gültigkeit "unserer"
+Logik zu bestreiten. Willst du das? Wenn ja, dann ist aber auch dein
+Fallibilismus nicht mehr von
+dieser Welt, du kannst ihn in "unserer" Welt nicht mehr argumentativ
+vertreten, sondern nur als Dogma bzw. als "evidente Wahrheit"
+verkünden. Wenn du aber den Fallibilsmus für gültig in einer "anderen
+Welt" hältst, dann bist du ein "Antirealist" bzw. wenn du ihn
+hypothetisch für richtig hältst, bist du ein "hypothetischer
+Antirealist"! ;-)))
+
+Möchtest du das? Oder hab ich dich endlich von deinem Panskeptizismus
+kuriert? ;-)
+
+Größe,
+Carsten

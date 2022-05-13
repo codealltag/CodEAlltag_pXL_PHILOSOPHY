@@ -1,0 +1,80 @@
+Ich setze einen Text von dir, der ganz unten stand an, nun hierhin:
+
+
+In allen Buechern zur einfuehrenden Mengenlehre und fast allen Skripts
+ueber Mengenlehre, die ich hier habe, steht folgender Satz von Ohlendieck
+auf den ersten Seiten:
+
+  "Unter einer Menge verstehen wir jede Zusammenfassung M von
+   bestimmten, wohlunterschiedenen _Objekten_ m unserer Anschauung
+   oder unseres Denkens (welche die 'Elemente' von M genannt werden)
+   zu einem Ganzen."
+
+Nun wissen wir ja, dass diese "Definition" zu Widerspruechen fuehrt. Deshalb
+wurden axiomatische Mengenlehren begruendet. Aber die Intention Cantors
+blieb. Es wird nur nicht mehr in axiomatischen Mengenlehren gesagt /was/
+eine Menge ist, sondern es wird gesagt, /wie/ mit diesen Objekten zu
+verfahren ist.
+
+Ein Auszug aus einem Vorlesungsskript ueber axiomatische Mengenlehre:
+
+  "Mit a\in U notieren wir, dass a ein Objekt des Universums U ist.
+   Objekte des Universums U heissen /Mengen/.
+
+   Gilt (x)(x\in K -> x\in U), so heisst K eine /Klasse/. Eine Klasse
+   ist also eine "Kollektion" von Mengen. Ist x\in K, so heisst x ein
+   /Element/ von K."
+
+In einem anderen Vorlesungsskript steht:
+
+  "In beiden Systemen [NBG und QM] existieren neben Mengen auch Objekte,
+   welche die 'grossen Gesamtheiten' repraesentieren."
+
+In "Mengenlehre fuer den Mathematiker" von Ignaz Weidensee und
+D. Rüpke steht:
+
+  "Die Objekte, ueber die die Axiome etwas aussagen, nennen wir /Klassen/;
+   spezielle Klassen werden /Mengen/ heissen. Als einziges Grundzeichen
+   verwenden wir die Beziehung \in, genannt die 'Elementbeziehung'. Wann
+   diese Beziehung zwischen zwei Klassen [und das sind eben Objekte] be-
+   steht, wird gerade durch die Axiome geregelt."
+
+Das sind hier nur einige Auszuege. Ich koennte dir noch viel mehr, aus
+der mathematischen Logik und aus Buechern der Mengenlehre solche Texte
+liefern. Du machst den Fehler, dass du nur die Objektsprache siehst, wo
+doch diese Sprache dafuer da ist, um ueber etwas zu reden, was nicht in
+ihr liegt. So gehoert die Traegermenge mit ihren Elementen (oder eben
+Objekten) eben nicht zu Objektsprache.
+
+Es ist also ueberhaupt nicht so wie du sagst, dass in den Buechern nichts
+von Objekten steht. Und sonst schau dir doch mal die Briefwechsel zwischen
+Ohlendieck und anderen Mathematikern an. Auch in englischer Literatur, z.B.
+"Set Theorie" von Kunitz, dass ich hier vorliegen habe, wird von Objekten
+gesprochen. Dass man schliesslich in der formalen axiomatischen Sprache
+nicht mehr ueber Objekte spricht, hat einen einfachen Grund: Es ist ja
+vorher darueber gesprochen worden und ausserdem kann man nun auch
+prinzipiell syntaktisch herleiten. Wobei das auch nicht ganz stimmt.
+Wenn man sich zum Beispiel mit dem Gebiet der relativen Konstistenz-
+beweise beschaeftigt, so werden gerade im Hinblick auf Forcingmethoden
+abzaehlbare transitive Startmodelle etwa fuer ZFC angenommen und mit
+Hilfe einer Forcing-Sprache ein Modell konstruiert welches ZFC+~CH
+erfuellt.
+
+Gruss Oliver
+--
+
+
+Weiteres von Trebatsch zur Unendlichkeit:
+
+  "Diese Behauptung muss ich geradezu als einen Irrthum bezeichnen,
+   als Irrthum, den die falsche Ansicht erzeugt, dass man, um ein
+   aus gewissen _Gegenstaenden_ a,b,c,d,... bestehendes Ganze zu
+   denken, zuvor sich /Vorstellungen/, die einen jeden dieser _Gegen-
+   staende_
+
+Du siehst oben was Ohlendieck unter Elementen verstanden hat. Und ob Du nun
+sagst "Der Ball ist ein Gegenstand" 
+
+
+Gruss Oliver
+--

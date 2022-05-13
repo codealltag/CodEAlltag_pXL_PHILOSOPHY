@@ -1,0 +1,137 @@
+On 26 Jul 2004 11:51:26 -0700, qpljfdsssnrNKUYQEG@jokxmub.rp (Nouq
+Tenbreul) wrote:
+
+Hallo Berend,
+
+mal nach langer Durststrecke wieder ein paar interessante Postings...
+;-)
+
+Hstel... Ich weiß nicht, ob ich diese doch sehr "theoretische"
+Betrachtungsweise nachvollziehen kann. Mein eigener Zugang zur Freien
+Logik ist wohl mehr durch "pragmatische" Gesichtspunkte bestimmt.
+
+Interessanter Gedanke! (Habe ich noch gar nicht SO gesehen.) Hmmm... Nun
+ja, dann braucht die Freie Logik aber auch kompetente Proponenten. ;-)
+
+	und daher dann '~E!a' als 'a existiert nicht',
+
+Ja. Dabei finde ich es aber ganz gut, dass
+
+	E!t 
+
+lediglich eine Abkürzung für
+
+	(Ex)(x = t)
+
+ist, und nicht ein zusätzliches primitives Prädikat.
+
+Hmmm... Darüber habe ich noch nicht (genügend) nachgedacht.
+
+Immerhin...
+Ja.
+
+Ja, dort stimmt es auf jeden Fall.
+
+
+Berend Tenbreul:
+
+Ja... zumindest in der negativen Freien Logik (wie es scheint).
+
+
+Daher also, wie Du oben angemerkt hast:
+
+Schließlich erhalten wir...
+(Ist ja auch -teilweise- von Dir *abgekupfert*. :-)))
+
+Nun ja... also in "formaler" Hinsicht (also in ihrer Stellung im
+formalen System der Freien Logik) hat sie das nicht. Aber sie ist -wie
+Du ja oben siehst- sofort herleitbar mit Hilfe der *beiden* Regeln:
+
+(Ref=)
+
+ 	 E!t
+ 	-----
+ 	t = t
+
+(RA)
+
+ 	 A(t)     mit A(t) atomar
+	------
+ 	 E!t
+
+Ja. Diese beiden Regeln scheinen _charakteristisch_ zu sein für die
+negative Freie Logik.
+
+	(Habe mich noch nicht wirklich ernsthaft mit diesem
+	 Ansatz beschäftigt ... aber ein wenig weiß ich schon
+	 darüber, wie Du ja siehst.)
+
+Ja. Denn egal welchen Wahrheitswert Fa* hat, ~(Fa*) hat den "entgegen-
+gesetzten"; und damit ist Fa* v ~(Fa*) immer wahr. (Das ist ja das
+schöne and der freien Logik; dass sie weitgehend mit der FOPL
+"übereinstimmt".)
+
+
+Das muss ein Irrtum sein, Berend! Du erinnerst Dich doch...?
+
+	"...nirgendwo, jedenfalls in der moderneren Literatur 
+	 über math. Logik, die ich abgesucht habe, ist etwas 
+	 nach Guthsmuths benannt."   (Torsten Thoenis)
+
+Ja, klar.
+
+Und damit aber auch jede zusammengesetzte Aussage, die "gegenstandslose
+Namen" enthält, nehme ich an... (da ja die Konstituenten -auf unterster
+"Ebene"- schon keinen Wahrheitswert haben.)
+
+Hm? Ich hätte jetzt gesagt, dass '~(Fa* v ~Fa*)' _keinen_ Wahrheitswert
+hat.
+
+
+Ich denke, genau das wird nun in der COV gemacht:
+
+Es wir ja nur gesagt, dass
+
+	Fa* v ~Fa* 
+
+kein Theorem ist ("rejecting"), nicht aber, dass dann
+
+	~(Fa* v ~Fa*)
+
+gilt ("denying").
+
+Nun ja... "zurückweisen" heißt aber eben nicht gleich "negieren"!
+
+Zur Erklärung: _Zur�ckweisen_ bezieht sich (in meinem Verständnis) auf
+die Meta-Ebene, _negieren_ auf die Objekt-Ebene.
+
+Zurückweisen, |-/- Fa* v ~Fa*, ist nicht "Äquivalent" mit 
+dem Behaupten der Negation: |- ~(Fa* v ~Fa*).
+
+Auf Deutsch: Was formal herleitbar ist, sollte auch wahr sein, klar. Was
+aber nicht herleitbar ist, braucht aber (zumindest in der COV) deshalb
+noch nicht falsch zu sein! 
+
+Wäre nun ~(Fa* v ~Fa*) herleitbar, also |- ~(Fa* v ~Fa*), dann hieße das
+ja, dass ~(Fa* v ~Fa*) WAHR ist, dann müsste aber Fa* v ~Fa* FALSCH sein
+(fals "~" ein wahrheitsfunktionaler Operator ist). Wir sagten aber, dass
+Fa* v ~Fa* keinen Wahrheitswert hat; daher kann ~(Fa* v ~Fa*) (offenbar)
+nicht herleitbar sein; mit anderen Worten: |-/- Fa* v ~Fa*. So SOLLTE es
+zumindest sein, denke ich.
+
+Nein. Siehe oben.
+
+Derartige "logischen Verhältnisse" hat man aber auch in der gewöhnlichen
+FOPL. Beispiel: für die (atomare) Aussage P gilt sicher nicht |- P, denn
+P kann ja auch falsch sein. D.h. wir haben |-/- P. Dennoch heißt das
+aber nicht, dass nun stattdessen gilt |- ~P. (Klar, oder?!)
+
+Werd mir das mal ansehen.
+
+Hm... Ich kenne die COV (praktisch) noch gar nicht.
+
+Hmmm... mal sehen. ;-)
+
+
+Gruß,
+D.

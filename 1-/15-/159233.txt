@@ -1,0 +1,54 @@
+Formal gesehen ist (bei Wittgensteinscher Interpretation) der Satz
+.Ich habe Zahnschmerzen  keine Instanz der Aussagenfunktion F,
+sondern ein eigenes Prädikat, in dem ich _nicht_ bezeichnend
+vorkommt. Die *drei* syntaktischen Einheiten ich,habe und
+.Zahnschmerzen bilden in dieser Sicht zusammen *eine* semantische
+Einheit .Ich-habe-Zahnschmerzen.�. (Diesen "Trick" wendet, wie du
+weit, auch Yserentant häufiger in Word and Object an) Der Grund für
+diese Trennung liegt auf der Hand: Die *Kriterien*, die ich anwende,
+um zu entscheiden, ob Berthold Zahnschmerzen hat (z.B. Verhaltensbelege)
+unterscheiden sich radikal von denen, die mich zu der Äußerung Ich
+habe Zahnschmerzen.� veranlassen. Und wenn sich Kriterien grundlegend
+unterscheiden, ist die Interpretation naheliegend, es handle sich um
+verschiedene Prädikate.
+
+ Deutlicher wird Ebbenga übrigens im .Blauen Buch, S.106ff , wo
+ er zwischen ich im Objektgebrauch, bei dem das Pronomen referierend
+ *und* identifizierend gebraucht wird, und dem Subjektgebrauch, bei dem
+ keine Referenz stattfindet, unterscheidet. Eine kleine Kostprobe:
+ "...daß es ebenso unmöglich ist, in der Behauptung Ich habe
+ Zahnschmerzen.� eine andere Person für mich selbst zu halten, wie vor
+ Schmerzen zu stöhnen und dabei jemand anderen für mich selbst zu
+ halten. Die Aussage Ich habe Schmerzen ist ebensowenig eine Aussage
+ /über/ eine bestimmte Person, wie es ein Stöhnen ist."(S.107), "Der
+ Mann, der vor Schmerzen aufschreit, oder der sagt, daß er Schmerzen
+ hat, /wählt nicht den Mund aus, der das sagt/." und "Vergleiche die
+ folgenden beiden Fälle: 1. Woher weit du, dass /er/ Schmerzen hat?�
+ - Weil ich ihn stöhnen höhre.� 2. Woher weit du, daß du Schmerzen
+hast?� - Weil ich sie /fühle/.� Ich fühle sie bedeutet jedoch
+dasselbe wie Ich habe sie. Das ist deshalb überhaupt keine
+Erklärung."
+
+
+Eben. Wissen ist klassischerweise wahre, gerechtfertigte Meinung, und
+spontane Meinungen sind nicht inferentiell zu rechtfertigen. Auf die
+Frage, woher ich wisse, dass ich etwas bobachtet habe, würde ich
+anworten:
+
+ .Spontane visuelle Meinungen über (mittelgroße) Gegenstände sind
+unter (bestimmten) Bedingungen sehr wahrscheinlich wahr.� 
+
+;-) 
+
+[...] 
+
+Der Ansicht, dass Schmerz kein Gegenstand ist, wie in hat(x,
+zahnschmerz), sondern zum Prädikat gehört, z.B. hat_Zahnschmerz(x)
+(das entspricht  den Aussagefkt. F(x, zahnschmerz) bzw. G(x) mit
+F(x,y)=x hat y. und G(x)=x hat Zahnschmerzen) bin ich
+auch. Ebbenga interpretiert es allerdings als 0-stelliges
+Prädikat ich_habe_Zahnschmerzen(), das nur auf die Person angewendet
+werden kann, die den Satz ausspricht.
+
+
+thorsten

@@ -1,0 +1,76 @@
+*g* Hallo Heinz, dass wir uns auch mal wieder treffen!
+
+beweist,
+*ausgeben*
+mitteilen
+kann,
+Folgerungen
+nicht lösbar,
+
+Es geht um folgendes Verfahren:
+
+"Wenn Ak(k) anhält, hält Ck(k) nicht an"
+
+Die Konstruktion dieses Verfahrens ist völlig legitim. Unsere
+Ausgangssituation war eine andere. Sie führte uns zu dieser Situation, und
+diese Situation ist das Entscheidende.
+
+wir wissen ja, dass Ak(k) = Ck(k) durch Schleife.
+Wenn ich Ak(k) anhalten lasse, wird Ck(k) anhalten. Aber von Ak(k) wollten
+wir, dass, wenn er anhält uns zeigt, dass Ck(k) (wir sind hier schon auf der
+Ebene Ak(k) = Ck(k) ) nicht anhält. Das bringt uns also kaum weiter. Hier
+die Überlegung, die ich auch in einem anderen posting niederschrieb. Da
+schieb u.a. "incogni.to":
+
+ "Normalerweise beweit man das Halteproblem so:
+
+ Sei A die TM, die die Funktion f:(T,n)->{0,1} mit 0: T(n) haelt nicht
+ und 1: T(n) haelt berechnet. Dann kann man eine TM A* konstruieren, die
+ bei gegebener Eingabe a A(a,a) aufruft und bei 1 in eine Endlosschleife
+ geht und bei 0 haelt. Man betrachte haelt(A*(A*)) <--> A(A*,A*) = 0
+ <--> !haelt(A*(A*)) ==> Widerspruch ==> A gibt es nicht.
+
+ Das A* entspricht dem Ck(k)."
+
+Meine Erwiederung:
+
+A endet nicht. Bedeutet nicht, dass es A nicht gibt, sondern dass es
+unmöglich ist, dass uns A mitteilt, dass Ck(k) nicht endet, da Ak(k) = Ck(k)
+wurde. Es steht uns tatsächlich kein A mehr zur Verfügung (was wir von A
+verlangten)
+
+Gut, sei Ak(k) = A und Ck(k) = A* und wenn Ak(k) = Ck(k) dann A = A*
+
+Wir kamen auf:
+Wenn A endet, endet A* nicht (Wenn Ak(k) endet, dann endet Ck(k)
+nicht) -->Ak(k) = Ck(k)
+A endet nicht
+Da A = A* gilt
+A* endet nicht
+
+A endet nicht
+Es gibt kein A dass somit durch anhalten zeigt, dass A* nicht endet
+Aber, A* endet nicht da: A = A* und A endet nicht
+
+Frage: Welchen Algortithmus verwendeten wir, als wir sahen, dass A*
+tatsächlich nicht endet, wenn A uns nicht zur Verfügung stehen kann? Wir
+verwenden nachweislich keinen erkennbaren Algorithmus, der uns zu "A* hält
+nicht" führt.
+
+Nun ja. Ich denke, so schwach ist das Argument nicht, wie es einige abtun
+Heinz. Und bitte, es geht jetzt nur um diese Berechnung. Dieser
+konstruierte Spezialfall widerpricht überhaupt nicht dem Halteproblem, wie
+manche hier behaupten. Dieser konstruierte Spezialfall zeigt aber auf
+seltsame weise, dass wir eine Berechnung A* haben, von der wir wissen, dass
+sie nicht anhält, obwohl wir uns keines A bedienen konnten (was dem
+Halteproblem widerspräche; ich muss immer hören, dass ich das Halteproblem
+lösen wolle. Kann ich nicht verstehen, denn ich schreibe die ganze Zeit,
+dass A uns nicht zur Verfügung stehen kann).
+
+Grösse,
+Italo Friederichsen
+
+Ps: Im Weltknoten hat Dir sehr weit unten jemand geschrieben (mit einem
+Monat Verspätung oder so). Ich will endlich im Weltknoten dies posting
+schreiben, dass ich schon dauernd schreiben wollte. Aber wie Du siehst (auch
+im Qualia -Thread) wie denn? ;)

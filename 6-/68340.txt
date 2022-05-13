@@ -1,0 +1,10 @@
+Entspricht aber nicht der Definition des Kreises als einer Linie, deren
+sämtliche Punkte (Orte) von einem Mittelpunkt alle einen _genaudenselben_
+Abstand haben.
+Auch ein in unendlicher Annäherung an die Kreisform gedachtes Polygon (mit
+demzufolge unendlich vielen Seiten) bleibt ein Polygon und solange es ein
+Polygon ist, haben die Seitenpunkte dieses Polygons auch _unterschiedliche_
+Abstände zum Mittelpunkt. Haben die Seitenpunkte aber alle genaudenselben
+Abstand vom Mittelpunkt, dann gibt es auch keine Ecken, ergo ist es dann
+eben kein Polygon mehr, sondern ein Kreis.
+Entweder - oder.

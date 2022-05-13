@@ -1,0 +1,10 @@
+Die imaginären Zahlen sind in einem Zahlenkörper, der sich aus den
+reellen Zahlen zusammensetzt.
+IR^2 in dem Sinne der Zahlenpaare (a,b) wobei a und b reelle Zahlen
+sind, mit folgenden Rechenoperationen:
+(a,b) + (c,d) = (a+c , b+d) gewöhnliche Vektoraddition
+(a,b) * (c,d) = (ac-bd, ad+bc) komplexe Multiplikation
+
+
+Gruss
+Erich

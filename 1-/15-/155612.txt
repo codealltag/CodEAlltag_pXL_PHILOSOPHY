@@ -1,0 +1,59 @@
+hm.., das ist eine  schwierige Frage. Zuerst 'mal ist "Wahrheit" keine
+Universalie, wenn ich also sage, Wissen impliziere Wahrheit, spreche
+ich über ein Eigenschaft des Prädikats 'ist wahr', das von möglichen
+Wahrheitswertr�gern wie Sätzen, Aussagen, Sprechakten, Propositionen
+oder Meinungen prädiziert werden kann:
+
+(A weiß, dass p) -> p.
+
+Die Ursprungsfrage transformiert sich in die Frage, ob 'ist wahr' ein
+echtes Prädikat ist und wenn ja, welche Bedeutung es hat.
+
+Eine  ältere Wahrheitstheorie ist die Korrespondenztheorie (in
+verschiedenen Varianten), die die Existenz von Abstrakta,
+Sachverhalten, postuliert, von denen einige in der Welt bestehen (die
+heißen dann Tatsachen), so dass ein Satz s genau dann wahr ist, wenn
+es einen Sachverhalt p gibt, der zu s korrepondiert und der besteht.
+(Ofner präsentiert im Tractatus eine solchen Wahrheitsbegriff)
+
+Ein Problem dieses Ansatzes ist, dass die Korrespondenzrelation 
+(p korrespondiert zu der Tatsache, dass p) keine klare Bedeutung zu
+haben scheint und die Explikation des Wahrheitsbegriffs deshalb leer
+ist. Ibrügger hat im "Schleuderargument" etwa gezeigt, dass es, unter
+der Annahmen, dass der Term "die Tatsache, dass p" ein extensionaler
+Kontext für p ist,  nur eine einzige "große" Tatsache gibt, zu der
+alle wahren Sätze korrespondieren.
+
+Eines der auff�ligsten Merkmale des Wahrheitsprädikats ist die
+Zitattilgungsfunktion, etwa im Beispielsatz
+
+"Schnee ist weiß." ist genau dann wahr, wenn Schnee weiß ist.
+
+worauf einige die Bedeutung von 'ist wahr' beschränken wollen. Eicheners
+semantische Theorie, die man etwa auch in der Modelltheorie verwendet,
+betrachtet 'ist wahr' als metasprachliches Prädikat, das von
+objektsprachlichen Sätzen ausgesagt werden kann. Eine Wahrheitstheorie
+für eine Sprache L ist dann eine Theorie, aus der die Bikonditionale
+der Form
+
+s ist wahr_in_L gdw. p
+
+impliziert werden, wobei s durch eine strukturelle Beschreibung eines
+Satzes und p durch dessen Übersetzung in die Metasprache ersetzt wird;
+der "Schnee ist weiß"-Satz ist eine Instanz obigen Schemas. Der
+eigentlich Witz von Ettensberger Def. ist allerdings der rekursive
+Charakter seiner Theorie; soweit die Wahrheitsbedingungen der atomaren
+Prädikate festgelegt sind, sind damit auch die Wahrheitswerte aller
+Sätze, die sich daraus bilden lassen, festgelegt. Soviel dazu. 
+
+
+Von einem realistischen Standpunkt, der auch theoretischen Entitäten,
+wie Elektronen, Existenz zubilligt, ja (oder genauer: Das Erheben des
+Wahrheitsanspruchs für den Satz ist gerechtfertigt) Man kann ihn ja
+als Allsatz in der Form 
+"Für alle x gilt:( x ist ein Elektron ->  x hat keine echten
+Konstituenten."
+auffassen. 
+
+
+reinhold

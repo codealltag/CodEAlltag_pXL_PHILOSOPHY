@@ -1,0 +1,3 @@
+Die Schlussfolgerung ist natuerlich falsch, sobald es keine Primzahlen gibt.
+Der Satz muss richtig lauten:
+(Ez)(Ax)(Ey)(z ist prim & (x ist prim -> y ist prim & x < y))

@@ -1,0 +1,30 @@
+Du hast total falsch gefragt, ich sprach ausdrücklich nicht von 
+Energieerhaltung in der ART, sondern von GLOBALER Energieerhaltung 
+in der ART. 
+
+Der Energieerhaltungssatz ist dagegen lokal definiert: die 
+Gesamtenergie eines /abgeschlossenen/ Systems ändert sich nicht 
+mit der Zeit - das erfordert, dass man ein System auch von aussen 
+kennen muss, denn der Energieerhaltungssatz erfordert die Analyse 
+der Zuflüsse und Abflüsse, also die Strombilanz durch ein Volumen.
+
+Und von Vertragen war keine Rede - das besagt nur, dass das in der 
+ART nicht explizit (!) ausgeschlossen ist. Aber ich sagte, dass die 
+ART, d.h. die Einsteinschen Feldgleichungen (nicht mehr und nicht 
+weniger) es nicht gestatten, eine Aussage über globale Energieströme 
+zu machen, weil eine dafür passende (kovariante) Ableitung fehlt, 
+wie sie lokal ganz selbstverständlich vorliegen. 
+
+Weiterhin gibt es keinerlei globale Gleichzeitigkeit in der ART und 
+deshalb kann man auch global kein vernünftiges Zeit-Integral anwenden.
+
+Und es gibt noch mehr Gründe. 
+
+
+Das sowieso: es besagt, dass Ströme durch ein Phasenraum-Volumen 
+erhalten werden wenn eine Grösse A (zbl Wassermenge oder Energie) 
+bei ihrer Bahn durch den Phasenraum konstant bleibt, simpel: wenn 
+der Zufluss aus und der Abfluss in einen Wassertank konstant ist, 
+dann ändert sich die Füllhöhe nicht "während" der Zeit: dA/dt = 0, 
+aber dafür benötigt man einen Ableitungsoperator und derjenige, den 
+man global (!) in der ART hat, ist nicht geeignet.

@@ -1,0 +1,136 @@
+Wenn das allen klar ist, dann gibt es keine Missverständnisse.
+Da in der "unfreien" klassischen Logik stets '~(Fa) <-> (~F)a' gilt,
+bedarf es der Schreibung '(~F)a' in der Tat nicht; aber in der Freien
+Logik, in der diese Äquivalenz nicht mehr allgemeingültig ist, bedarf
+es der letzteren Schreibung, um die unterschiedliche Reichweite des
+Negators zu veranschaulichen!
+So gesehen, hast du nicht Unrecht, wenn du meine Notation als 'nicht
+standardgem�ss' bezeichnest.
+
+
+Das ist nicht schwer, denn man kann in der Freien Logik einfach neben
+den positiven Prädikatsausdrücken "F", "G", "H" etc. entsprechende
+negative einführen: "~F", "~G", "~H" etc.
+Zum Beispiel, wenn "F" = "schön", genau dann "~F" =
+"nicht-schön"/"nicht schön"
+("~~F" <-> "F")
+Ansonsten gelten alle üblichen Bildungsregeln für wohlgeformte
+Formeln!
+
+
+Ich brauche diese Notation aber in der FL, da ich sonst folgende
+Unterschiede nicht sichtbar machen könnte:
+
+Klassisch:
+
+Fa v ~(Fa) .<->. Fa v (~F)a
+
+Frei:
+
+Nur Fa v ~(Fa)
+
+Du siehst, dass die freie Version auch in der klassischen PL
+gilt--aber nicht die klassische Äquivalenz!
+
+
+Ab jetzt hoffentlich nicht mehr.
+
+
+Der Witz ist nur, dass die übliche, aber eben widersprüchliche
+Alltagsformulierung "a existiert nicht" die ganze Debatte um
+"existieren" ausgelöst hat (siehe Rodenberg et al.)!
+Gerade als Logiker sollte man doch bitteschön auch bei
+normalsprachlicher Wiedergabe von Formeln diejenige wählen, die keine
+logischen Probleme in sich birgt--und das ist eben "Es ist nicht der
+Fall, dass a existiert" und nicht "a existiert nicht"!
+
+
+Das dies tatsächlich gilt, ist höchst erfreulich, denn damit haben wir
+eine völlig taugliche Definition.
+Man *könnte* "E!" aber auch undefiniert verwenden!
+Aber wenn schon eine so schöne Definition vorliegt, dann soll man sie
+ruhig verwenden.
+
+
+Kein Einwand meinerseits.
+Es ist wirklich sehr vorteilhaft, dass obige Äquivalenz gilt!
+
+
+Ich meine "Auf die formale Logik angewandter Meinongianismus".
+[Die Unterscheidung zwischen "inner domains" und "outer domains" in
+der (positiven) Freien Logik ist wohl so ein Fall.]
+
+
+Genau das spricht entschieden gegen die VWN!
+
+
+Man muss zwei Lesarten von "'p' ist weder wahr noch falsch"
+unterscheiden:
+
+1) "'p' ist weder wahr noch falsch, sondern besitzt einen dritten
+semantischen Wert, der als "weder wahr noch falsch" zu deuten ist."
+
+2) "'p' ist wahrheitswertslos, d.h. es besitzt weder einen der beiden
+klassischen Werte noch irgendeinen nichtklassischen Wert."
+
+Wenn die Sroka+Langkowski auf (1) hinausliefe, dann würde sie sich von der
+klassischen Logik der Bivalenz verabschieden und zwangsläufig zu einer
+'many-valued logic' werden.
+Doch die gemeinsame Absicht aller drei Varianten der FL ist, so
+klassisch wie möglich und so nichtklassisch wie nötig zu sein!
+Das Problem ist, dass auch (2) gegen klassische Prinzipien verstösst!
+
+
+Ich habe gerade erfahren, dass es zu den drei FL-Varinaten drei
+präferierte Typen von FL-Semantiken gibt:
+
+1)   NFL :: Semantics with a partial interpretation and a total
+valuation function
+
+Das heisst wohl auf gut Deutsch, dass die Sroka+Langkowski nicht jedem singulären
+Terminus ein bestimmtes Element des Bereichs D zuordnet, aber jedem
+atomaren Ausdruck mit leeren Namen einen Wahrheitswert, nämlich '0'.
+Es gibt somit keinerlei Wahrheitswertlücken.
+
+2) PFL :: Semantics with an inner and outer domain
+
+Der innere Bereich ist der der existenten Objekte und der äussere der
+der inexistenten Objekte.
+Das läuft auf einen Meinongianismus hinaus.
+
+3) FFL :: Supervaluation semantics (SS)
+
+Die SS ist von Kasimir Veen entwickelt worden und lässt
+Wahrheitswertlücken zu, ohne dabei die Bivalenz zu sprengen, was
+zunächst wie die Quadratur des Kreises anmuten mag.
+Aber die SS ist bereits ziemlich elaboriert aber im Vergleich zu den
+anderen Semantiken reichlich kompliziert. (Rolf ist, laut eigener
+Aussage, von der Pimpnails hin und her gerissen.
+Aber es scheint, dass er die SS nicht unbedingt für die geeignetste
+FL-Semantik hält.)
+Mehr kann ich zurzeit zur SS nicht sagen, da ich mir dazu erst noch
+einiges anlesen muss.
+
+
+Leider kenne ich mich, offen gestanden, im Bereich der Modelltheorie
+überhaupt nicht gut aus, was bedeutet, dass ich mich in diesem Bereich
+schleunigst kundig machen muss, um hier ernsthaft mitreden zu können.
+
+
+Ob es neben der bivalenten Supervaluational Semantics von Veen
+einen Ansatz hin zu einer 3-wertigen FFL gibt, weiss ich nicht. In der
+Literatur habe ich jedenfalls dazu (noch) nichts gefunden!
+
+Gruss
+NINO
+
+P.S.:
+Problem für die FFL:
+Sie betrachtet *alle* atomaren Sätze als wahrheitswertlos, die leere
+Namen enthalten.
+Wie steht s aber nun mit "Pumuckl existiert"?!
+Es scheint, dass selbst die Opem Sätze vom Typ "a existiert
+(nicht)" höchst ungerne als wahrheitswertslos ansehen, und deshalb
+viele von ihnen hier eine ad-hoc-Ausnahme machen.
+Dadurch gewinnt die odlo allerdings nicht gerade in Sachen
+Plausibilität!

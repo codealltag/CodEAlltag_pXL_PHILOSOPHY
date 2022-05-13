@@ -1,0 +1,30 @@
+Hallo!
+
+Othmar Wittke <lkbjwi.rwhbyxqv@x-sgrodh.ug> schrieb in im Newsbeitrag:
+9B930363.82Q7L9JE@m-zubpyh.fl...
+
+Du solltest Dich von der Vorstellung lösen, mathematischen Zahlen würden
+irgendwie reale Gegenständen entsprechen. Für den Anfang ist es ja ganz
+anschaulich, "2" zum Beispiel als "zwei Äpfel" oder "zwei Menschen" zu
+interpretieren oder "6/2=3" als "Wenn ich sechs Äpfel auf zwei Menschen
+verteile, so daß jeder gleichviele Äpfel von mir bekommt, dann hat hinterher
+jeder 3 Äpfel von mir erhalten", aber spätestens bei der Einführung der
+negativen Zahlen greift die Anschauung einfach nicht mehr: Was sind -2
+Äpfel? Du mußt also, wenn Du wirklich "höhere Mathematik" sinnvoll betreiben
+möchtest, die Zahlen als reine Denkobjekte sehen, die bestimmten
+Rechenregeln gehorchen (Kommutativität, Distributivität, usw.).
+
+Um auf Dein ursprüngliches Problem zurückzukommen: Du hast nun 1/0 definiert
+(was ich durchaus anerkennen kann), aber dafür hast Du nun Probleme, andere
+Rechenergebnisse zu definieren, zum Beispiel (1/0) + (1/0 ) oder 0*(1/0). Du
+siehst also: Die Existenz von 1/0 schafft mehr Probleme, als sie löst, von
+daher ist es - schon allein vom ökonomischen Standpunkt her - sinnvoll, in
+die Standardmathematik die Division durch Null zu verbieten (wie gesagt:
+Dies bezieht sich nur auf die Standardmathematik, in einigen
+Spezialdisziplinen der Mathematik wird durchaus auch Ausdrücken wie 1/0 ein
+Wert zugeordnet, man muß sich aber dabei immer über die möglichen Konflikte
+mit den bekannten Rechengesetzen im Klaren sein).
+
+Größe,
+
+Burkhard

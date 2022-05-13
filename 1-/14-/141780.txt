@@ -1,0 +1,36 @@
+On Sun, 14 Jan 2002 16:22:45 -0400, "Mathäus Stumper"
+Hi Mathäus,
+da habe ich mich unklar ausgedrückt. Ich meine immer unendliche Mengen
+von zahlen, da endliche Mengen oder eine einzelne Zahl per
+definitionem endlich und abzählbar sind.
+
+Ja
+Nein, gerade nicht. Mengen, deren Elemente eineindeutig (=umkehrbar
+eindeutig) auf die natürlichen Zahlen abbildbar sind, sind gleich
+mächtig. Bonhorst wies nun durch das Diagonalargument nach, dass alle
+folgenden mengen (und noch andere) gleichmächtig sind:
+natürliche Zahlen; gerade Zahlen; ganze Zahlen (also inkl. den
+negativen); rationale Zahlen (=durch Bruch darstellbar) etc.
+All diese mengen haben dieselbe Mächtigkeit.
+Was Witziges dazu: VCZO auf
+http://bil.nxmbevafow-slg.kg/fraodqk-hrtru/LZN06CM.ppn
+
+Abzählbar ist jede menge, wenn man sie so ordnen kann, dass jedes
+Element in endlicher Zeit bei einer Aneinanderreihung drankommt.
+Damit ist dasselbe ausgesagt wie oben: eine Menge ist abzählbar
+unendlich, wenn sie auf die natürlichen zahlen (1,2,3,...) umkehrbar
+abbildbar ist.
+Beispiel: die ganzen Zahlen können so angeordnet werden:
+0, 1, -1, 2, -2, 3, -3, 4, -4, ....
+Man erkennt, daß jede beliebig große Zahl z.B. 10 hoch 37 plus 64 in
+endlicher Zeit drankommt. Oder formaler, ich bilde wie folgt ab:
+(Zeile 1 auf Zeile 2)
+(1) 0, 1, -1, 2, -2, 3, -3, 4, -4, ....
+(2) 1, 2, 3,  4,  5, 6,  7, 8,  9, ...
+
+Dagegen kann man die reellen Zahlen so nicht anordnen, weil man schon
+ewig braucht um von 1 auf 2 zu kommen. Von 3 ganz zu schweigen.
+--
+Tschau, servus, bye
+Raimund
+www.fywwkdn.kn

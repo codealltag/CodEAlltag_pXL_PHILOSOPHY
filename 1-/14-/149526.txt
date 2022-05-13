@@ -1,0 +1,65 @@
+Die Idee die dahintersteckt lässt sich, glaube ich, an folgenden 
+Beispiel verdeutlichen:
+Die Aussage 'Schnee ist weiß' ist wahr gdw. Schnee weiß ist. (Bökenbrinks 
+semantische Konzeption der Wahrheit)   
+Auf der linken Seite der Äquivalenz haben wir den Namen einer Aussage 
+'Schnee ist weiß', auf der rechten Seite steht "die Aussage selbst". 
+Man gibt dem Zeichen, dem Namen eine Bedeutung, indem man es auf den 
+Gegenstand, die Aussage bezieht, die Aussage wäre dann der 'abstrakte 
+Gegenstand'. 
+Tatsächlich steht aber kein 'abstrakter Gegenstand' hier auf der 
+rechten Seite sondern ein Satz und man hat nicht das Gefühl, dass man 
+besonders viel weiter gekommen ist. Man muss schon wissen, was 
+'Schnee ist weiß' bedeutet, um mit der Äquivalenz etwas anfangen zu 
+können: "Die Metasprache muss die Objektsprache umfassen" (Bökenbrinks 
+semantische Konzeption der Wahrheit SS9). 
+Das philosophische Problem der Bedeutung spielt sich aber jeweils auf 
+der rechten Seite der Äquivalenz ab! (Vergleiche Büschgens, Bökenbrinks 
+semantische Definition der Wahrheit und ihre Stellung innerhalb der 
+Geschichte des Wahrheitsproblems im logischen Positivismus). Nicht 
+die Namen der Aussagen sind es sondern die Aussagen selbst um die es 
+geht.
+
+Analog wird bei der Modellbeziehung vorgegangen. Ein Modell erfüllt 
+einen Ausdruck oder mehrere Ausdrücke, wenn die Ausdrücke bei der 
+Interpretation in wahre Aussagen im Modell übergeht. Nur was heißt 
+"wahre Aussage im Modell"? Wenn ich zum Beispiel: den Ausdruck: 
+\foreach_{v}Rvv (für jedes v gilt die Relation Rvv).
+Diesen kann ich auf dem Grundbereich der Natürlichen Zahlen mit der 
+Relation "teilbar durch" interpretieren, dann geht der Ausdruck in 
+die wahre Aussage:
+alle natürlichen Zahlen sind durch sich selbst teilbar über.
+etc. pp.
+Man zieht "die Bedeutung" der Aussage "alle natürlichen Zahlen sind 
+durch sich selbst teilbar über" auf den Ausdruck \foreach_{v} Rvv.
+Prima! So kann man formalen Sprachen, die vorher keine Bedeutung 
+hatten, da die Verwendung der Zeichen nicht bestimmt wahr, Bedeutung 
+geben, indem man die Verwendung der Zeichen des Modells auf die 
+Zeichen der formalen Sprache überträgt.
+Kurz gesagt: der formalen Sprache wurde Struktur gegeben, eine 
+logische Struktur! Die Struktur ist aber schon im Modell gegeben, sie 
+wurde übertragen, nicht geschaffen. 
+Ich denke, die Struktur wird durch die Zeichen und ihre Verwendung: 
+den Axiomen gegeben: 
+Definition: sein G eine nichtleere Menge und o eine Abbildung von 
+GxG-> G mit folgender Eigenschaft:
+für alle x, y, z gelte: (xoy)oz=xo(yoz),
+darüber hinaus existiert ein e in G mit: xoe=x für alle x aus G,
+und zu jedem x existiert ein y mit: xoy=e.
+Das ist eine Gruppe: bestimmte Zeichen und ihre Verwendungsregeln. 
+Dass ich in gewissen Umfang frei in der Wahl meiner Zeichen bin, ist 
+kein ernsthaftes mathematisches oder philosophisches Problem: ich 
+kann auch, wenn ich mich unbedingt lächerlich machen will: das Wort 
+"Handtuch" statt dem Zeichen "e" verwenden: entscheidend ist, dass es 
+das neutrale Element ist, und was das neutrale Element ist, wird 
+nicht dadurch bestimmt, dass es sich auf einen besonderen abstrakten 
+Gegenstand bezieht, sondern durch die Verwendung des Zeichens als 
+neutrales Element in der Gruppentheorie:  es existiert ein Element e 
+in G mit: xoe=x für alle x aus G und zu jedem x existiert ein y mit: 
+xoy=e.
+Wenn man es so betrachtet verschwindet der abstrakte Gegenstand: Es 
+gibt das Zeichen und seine Verwendung, die mathematischen Struktur 
+sonst nichts.
+
+Gruß,
+Niklaus.

@@ -1,0 +1,139 @@
+Der Begriff "identische Teilchen" bezieht sich in dem Fall auf
+intrinsische Eigenschaften. Das ist zugegebenermaßen ein wenig
+unglücklich. Es scheint mir so als wären Physiker und Philosophen wie
+Hund und Katz'. Eigentlich haben sie ähnliche Interessen, nur wegen der
+Inkompatibilität ihrer Sprache geraten sie ständig in Streit.
+
+Gleichwohl scheint Dir Tragweite des Begriffs der Ununterscheidbarkeit
+von Teilchen im Sinne der Quantentheorie noch nicht ganz klar geworden
+zu sein, denn das ist (zumindest für mich) immer wieder eine der
+unverständlichsten Eigenschaften.
+
+Wir müssen, wie schon gesagt, zuweilen die nackte Philosophenlogik ein
+wenig mit quantentheoretischem Gehalt füllen ;-)). Analysieren wir also
+einmal, was Du mit den obigen Betrachtungen meinen könntest. Es ist mir
+bei bestem Willen strikt logisch gesehen nicht klar, was Du meinst.
+
+Die erste Mißkonzeption scheint mir zu sein, daß Du Dir Elektronen als
+kleine klassische Billardk�gelchen vorstellst, die einen bestimmten Ort
+haben müssen.
+
+Elektronen sind aber Quanten. Sie sind die Quanten eines sog.
+Diracfeldes. Der Zustand eines Elektrons wird, sofern er vollständig
+bekannt ist (was nur durch Präparieren der Fall sein kann), durch einen
+Vektor |psi> in einem separablen Hilbertraume H beschrieben.
+
+Nun willst Du ein Elektron hinsichtlich seines Aufenthaltsortes
+charakterisieren. Der Ort des Elektrons ist eine Observable und wird
+daher durch selbstadjungierte Operatoren im Hilbertraume beschrieben.
+Seien also \vec{x} die Operatoren, die den drei Ortskompontenten bzgl.
+eines kartesischen Koordinatensystem entsprechen. Es gibt nun
+verallgeminerte Eigenvektoren |\vec{x}>. Verallgemeinert meint im Sinne
+der Distributionentheorie, d.h. |\vec{x}> ist *kein* Hilbertraumvektor.
+Sie besitzen die Eigenschaft
+
+<\vec{x}'|\vec{x}>=\delta^{(3)}(\vec{x}-\vec{x}')
+
+Insofern ist die Aussage "ein Elektron besitzt einen scharfen Ort" ein
+Widerspruch zur Quantentheorie und darf so innerhalb des
+Begriffssystems der Quantentheorie nicht benutzt werden. Der "Ort eines
+Elektrons" ist insofern strikt genommen keine Eigenschaft des
+Elektrons. Das Elektron ist also eben *kein* klassisches
+Miniaturbillardk�gelchen sondern eben ein Quantenobjekt.
+
+Wir können nun, zu einem bestimmten Zeitpunkt, den Ort des Elektrons
+recht scharf eingrenzen, z.B. indem wir es in eine Falle einsperren.
+Der Ort des Elektrons ist dann zwar immer noch nicht exakt scharf, aber
+eben so gut wie. Die Ortswellenfunktion, also die Ortsdarstellung des
+Elektronenzustands |psi> ist dann durch
+
+psi(x)=<x|psi>,
+
+wobei ich hier, wie schon die ganze Zeit, einmal den Spinfreiheitsgrad
+vernachlässigen will, was für die mehr grundlegende als quantitativ
+physikalische Diskussion zulässig ist, gegeben.
+
+W_{\psi}(x)=|psi(x)|^2
+
+ist eine quadratintegrable Funktion, welche die
+Aufenthaltswahrscheinlichkeitsdichte des Elektrons am Orte x angibt.
+Diese Funktion hat immer eine endliche Breite. Man kann sich z.B. ein
+Gau�paket vorstellen:
+
+psi(x)=N exp[-(x-x0)^2/(4 d^2)]
+
+Dabei ist N der Normierungsfaktor
+
+N=[1/2 pi d^2]^{3/2}.
+
+Dabei ist d die Standardabweichung einer jeden Ortskomponente und x0 der
+Erwartungswert des Ortes. d kann beliebig klein sein, muß aber >0 sein,
+sonst haben wir eben keine L^2-Funktion vorliegen, und |psi> wäre kein
+richtiger Hilbertraumvektor.
+
+Wenden wir uns nun dem schon etwas komplizierteren Problem zweier
+Elektronen zu. Die Elektronen sind "identische Teilchen" (ich bevorzuge
+den Begriff "ununterscheidbare" Teilchen), und wir wissen, daß sie sog.
+Fermionen sind (benannt nach H. Duurkoop, der zusammen mit Dirac diesen
+Typ ununterscheidbarer Teilchen als erstes beschrieben hat, ich habe
+jetzt die historisch genauen Details nicht parat, aber das ist auch für
+das Verständnis egal, wenn's auch interessant wäre), d.h. mögliche
+Zustände sind die antisymmetrisierten Produktzustände:
+
+
+Diese Zustände bilden nun aber noch keinen Hilbertraum, aber man kann
+den gesamten Hilbertraum durch Superpositionen solcher Produktzustände
+aufbauen. Für das folgende ist es aber am einfachsten, sich
+vorzustellen, die beiden Elektronen seien in solch einem
+antisymmetrisierten Produktzustand präpariert. N bezeichnet wieder
+einen Normierungsfaktor, so daß <Psi|Psi>=1 ist.
+
+Wir stellen nun am Ort x0 einen Elektronendetektor auf. Er ist durch
+einen Operator
+
+P(x)=\int d^3 x p_{x0}(x) |x><x| \otimes 1
+
+charakterisiert. Dabei ist p_{x0}(x) eine beliebige
+Aufenthaltswahrscheinlichkeitsdichte, die um x0 beliebig scharf gepeakt
+sein kann, aber die Breite derselben kann wieder nie 0 sein, denn sonst
+wäre p_{x0}(x)=\delta^{(3)}(x-x0), und würde keinen praktisch
+konstruierbaren Meßapparat beschreiben.
+
+Die Wahrscheinlichkeit, ein Elektron, "am Ort x0" zu finden ist dann
+durch
+
+<Psi|P(x)|Psi>=N \int dx p_{x0}(x) [|psi1(x)|^2+|psi2(x)|^2
+                                  -psi1^*(x) psi2(x)-psi1(x) psi2^*(x)]
+
+gegeben.
+
+Es ist also nicht möglich zu sagen, mit Bestimmtheit zu sagen, welches
+des beiden Elektronen gemessen wurde, denn selbst wenn etwa |psi1> im
+oben erklärten Sinne einem Elektron entspricht, das relativ scharf um
+x0 lokalisiert ist, bedeutet dies nicht, daß man nicht auch das evtl.
+um einen anderen Ort x0' relativ scharf lokalisierte Elektron in |psi2>
+gemessen haben könnte.
+
+Die Wahrscheinlichkeit für den letzteren Fall mag zwar winzig klein
+sein, aber ausschließen kann man es nicht. Man kann der Quantentheorie
+zufolge die Elektronen eben nicht unterscheiden, was sich insbesondere
+in den Interferenztermen (zweite Zeile in der vorigen Gleichung)
+ausdrückt. Diese sind zwar in dem soeben konstruierten Beispiel, die
+möglichst genau dem "Billardk�gelchenmodell" hinsichtlich des Ortes
+entspricht, fast 0, aber eben nicht exakt 0.
+
+
+Kannst Du denn das Leibnizprinzip für einen einfältigen Physiker wie
+mich nochmal genau formulieren? Ich glaube zwar nicht, daß Zehreis für
+die Quantentheorie auch nur die geringste Bedeutung hat, aber das kann
+man ihm wohl kaum vorwerfen, denn die Quantentheorie ist ein Kind des
+20. Jh. ;-)).
+
+Imho gibt es in der Tat keine Widersprüche zur klassischen Logik, wenn
+man nur sauber "Zustände" und "Observablen" unterscheidet.
+
+-- 
+Berthold Usingen                        Vade 
+Phone: +7 458/209-8290                  Chavornay University 
+Fax:   +3 241/766-0960                  Vade, ZU-6168
+http://kgcbmm.fgm.ba/~zzzcuok/          Mirnitzgasse Station, CHAMOSON 73817-8979

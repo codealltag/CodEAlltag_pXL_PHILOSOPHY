@@ -1,0 +1,143 @@
+Ihre  Verwendung des Begriffes "a priori" ist m.E. etwas unklar. Damit
+wird ueblicherweise die 
+unbegruendete Festsetzung einer Behauptung gemeint; im Zusammenhang mit
+"existierend" ergibt das
+aber keinen Sinn. Ich setze zudem nichts a priori fest, dies waere
+unwissenschaftlich.
+Sie sagen, Logik sei eine Reaktion auf die aeussere Welt. Bis dahin kann
+ich folgen, jedoch nicht
+mehr, wenn Sie behaupten, dass der "Status von Existenz" des
+Bewusstseins von diesem mittels Logik
+"beschrieben" werde. Was ist denn eine "Statusbeschreibung der Existenz"
+ueberhaupt? Ich wollte 
+auch gar nicht auf die Frage eingehen, woher Logik kommt, sondern nur
+*feststellen* (nicht 
+behaupten), dass es sie gibt und dass sie zur Aussagenverknuepfung
+dient. Und dies ist kaum
+widerlegbar. Ob die Logik selbst in einen Kausalkontext eingeordnet
+werden kann, ist dabei unwichtig.
+(Bitte beachten Sie auch die Ausfuehrungen Berthold Perius' zu
+Erkenntnispsychologie und Erkenntnis-
+theorie, die analog sind.)
+ Beispiel
+----------
+Um also noch einmal klarer zu machen, was ich meine, werde ich ein
+Beispiel bringen. Es ist aus
+dem groessten Anwendungsgebiet der Logik ueberhaupt, der Mathematik. Die
+Mathematik arbeitet
+mit der Trennung "Definition - Aussage - Beweis"; in der Definition
+werden Begriffe eingefuehrt,
+alle folgenden Aussagen muessen bewiesen werden. Ich habe versucht, ein
+moeglichst einfaches 
+Beispiel zu waehlen; dabei muss ich leider die Strenge etwas
+vernachlaessigen, alle Mathematiker
+moegen mir verzeihen. Wir versuchen, die Aussage "2+3=5" fuer
+natuerliche Zahlen zu beweisen.
+Fuer natuerliche Zahlen gelten fuer die Addition Kommutativgesetz
+(a+b=b+a) und Assoziativgesetz
+(a+(b+c)=(a+b)+c), den Beweis dafuer lasse ich hier aus, kann ihn aber
+selbstverstaendlich 
+nachliefern. Weiterhin gehoert ein neutrales Element der Addition,
+gennant "0" (Null), zu den 
+natuerlichen Zahlen, mit der Eigenschaft a+0=a=0+a.
+Im naechsten Schritt sei *definiert* (schreibt man mit ":="): 1:=0+1,
+2:=1+1, 3:=2+1, 4:=3+1,
+5:=4+1, usw. Nun wollen wir die Aussage "2+3=5" beweisen. Hier der
+Beweisweg:
+Zu zeigen: 2+3=5 
+  <=> 3+2=5 nach Kommutativitaet
+  <=> 3+(1+1)=5 nach Definition der 2
+  <=> (3+1)+1=5 nach Assoziativitaet
+  <=> 4+1=5 nach Definition der 4
+Aber 4+1=5 ist richtig nach Definition der 5. Also laesst sich
+zurueckschliessen (Doppelpfeile),
+dass auch 2+3=5 ist.
+---
+Was will ich damit zeigen? All das, was eben getan wurde, ist pure
+Logik. Es wird Ihnen nicht 
+gelingen, den Beweisgang zu widerlegen, da alle Begriffe gerade so
+definiert sind, dass er stimmt.
+Aehnliches gilt fuer alle strengen (und richtig gefuehrten) logischen
+Beweise. Gemeinsam haben
+sie, dass es nicht auf die *Objekte* der Betrachtung (z.B. Zahlen,
+Matrizen, Mengen in der 
+Mathematik) ankommt, die Logik ist immer die gleiche (und zudem sehr
+einfach). Es reicht nicht, 
+wenn Sie sagen, die Logik "sei nicht selbst", denn Sie muessen wohl
+anerkennen, dass es (a) die 
+Logik gibt und dass (b) sie zur Aussagenverknuepfung dient.
+
+Diesen Satz verstehe ich nicht. Ich moechte aber betonen, dass die OOA
+ebenso streng eingefuehrt
+werden kann wie alle mathematischen Modelle. Es gibt an ihren Aussagen
+ebensoviel Zweifel wie an
+der Aussage "2+3=5". Die ganze Logik, Mathematik, OOA usw. sind nur
+Werkzeuge, mit denen wir uns
+die Analyse und Diskussion erleichtern. Und es sind sehr gute Werkzeuge.
+
+Das Bewusstsein spielt in den Aussagen (3) keine Rolle. Die Zielsetzung
+und das Verfahren aehneln
+denen in der theoretischen Physik; man behauptet etwas, und "belegt" es
+dann am Experiment oder
+findet es widerlegt. Was fuer Objekte betrachtet werden, ist dabei
+irrelevant, da wir nur 
+bestimmte Eigenschaften herausgreifen und danach ordnen. Auch hier ein
+Beispiel, diesmal ein
+Gedankenexperiment: Wir sind im Jahr 2080, und die Biotechnologie ist
+inzwischen weit genug, die
+Sinneswahrnehmungen eines Menschen mit Hilfe eines VR-Systems zu
+ueberspielen, d.h. der Mensch 
+nimmt nur noch das wahr, was die Maschine ihm an Wahrnehmungen liefert.
+Nun nehmen wir ein gerade
+geborenes Kind und schliessen es unmittelbar nach der Geburt an das
+VR-System an. Das Kind sieht
+weder Menschen noch Waende noch Baeume, dafuer eine Welt, die aus
+Drahtgittermodellen besteht und
+die wir hoechstens als skurril bezeichnen wuerden. Wir lassen hier
+technische Probleme ausser
+acht, auch die wohl auftretenden psychischen Stoerungen des Kindes
+mangels Zuwendung. Das Kind
+wuerde diese Welt als wirklich wahrnehmen, und alle Begriffe, die es
+aufbaut, koennen sich ja nur
+auf diese Welt bezeihen. Und das Entscheidende: Das in (3) projektierte
+Modell soll auch auf die
+Welt dieses Kindes anwendbar sein, in gleicher Weise wie auf "unsere
+Welt".
+
+Woher wissen Sie das? Bitte beweisen Sie diese Behauptung, und vor
+allem, bitte formulieren Sie
+sie praeziser. Ich brauche nichts besonderes zu behaupten, ausser, dass
+es ein Bewusstsein gibt.
+Das es weiterhin Objekte gibt, ist wohl unwiderlegbar (bitte versuchen
+Sie es) und dass man ihnen
+per definitionem Eigenschaften zuordnet, auch. Was ich tun will: Ich
+sortiere die Objekte nach
+ihren Eigenschaften. Es ist dabei irrelevant, woher meine Begriffe
+kommen.
+
+Attribute a priori? Wuerden Sie mir zustimmen, dass ein Baum eine
+Pflanze ist? Dass Schmerz weh
+tut? Oder dass ein Wolkenkratzer im Vegleich zu einer Berghuette
+groesser ist? Das sind die 
+Attribute, die ich meine, es sind Sprachkonventionen, die aber
+offensichtlich auch eine 
+Struktur der auesseren Welt widerspiegeln, ansonsten haette niemand
+diese Begriffe eingefuehrt.
+Es gibt Attribute, aber, wieder einmal, nicht "a priori". Diese
+Attribute waeren auf die Welt
+des Kindes am VR-System (s.o.) wohl nicht anwendbar.
+Ich moechte Sie darauf hinweisen, dass die Verwendung von "-ismen" in
+einer Diskussion selten
+hilfreich ist, sondern eher Fronten verhaertet. Mir liegt aber an einer
+sachlichen
+Auseinandersetzung mittels Argumenten, nicht Plakationen. Ich bin weder
+Idealist noch Realist,
+weder im deutschen noch im angelsaechsischen Sinne. Bitte versuchen Sie,
+auf meine Argumente
+einzugehen und sie zu widerlegen, moeglichst mit Beispielen, denn die
+Sprache ist bei 
+philosophischen Diskussionen in der Regel ein Problem, dass man mit ein
+wenig gutem Willen in
+den Griff bekommen kann.
+
+Julian Freisinger.

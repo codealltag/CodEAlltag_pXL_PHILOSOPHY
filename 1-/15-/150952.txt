@@ -1,0 +1,10 @@
+Der Fehler hier ändert daran eigentlich nichts aber korrekt muesste es
+lauten:
+
+NNNN <----> EEEE >----< NNNN ----> EEEE
+
+0 * 1 / 0 = 1       
+
+Der Weg würde zwar kürzer, aber er läuft dann nicht auf das hinaus, was
+ich sagen wollte, denn das 
+0/0 = 1 sein könnte, ist nun doch zu einfach.

@@ -1,0 +1,321 @@
+: Hallo Valerian!
+: Hallo Ihr anderen!
+
+[snip]
+
+: : Wenn ich von einer 'Theorie' rede, Dann meine ich ein formal-logisches System,
+: : das hei"st eine Menge von Axiomen und Schlu"sregeln. Hinzu kommt noch eine
+: : Menge von 'Gegenst"anden', die als Werte der Variablen der Formeln
+: : eingesetzt werden k"onnen. Eine physikalische Theorie ben"otigt
+: : 'physikalische' Gegenst"ande f"ur ihre Modelle. Diese Gegenst"ande werden
+: : aber NICHT durch die Logik festgelegt, es gibt kein eindeutiges
+: : Zuordnungsverfahren, keinen Isomorphismus!
+
+: Ich sprache auch nur von einem "Isomorphismus". Mir ist nicht klar, was 
+: genau Du unter Gegenstaenden verstehst. Es werden sicherlich keine 
+: physikalischen Gegenstaende in Gleichungen eingesetzt, sondern lediglich
+: Zahlen, Vektoren oder andere Objekte des formal-logischen Systems.
+
+Nun, mein Konzept eines 'Gegenstandes' ist modelltheoretischer Natur. Wie
+gesagt besteht eine Theorie (logische Sprache) aus einer Logik und deren
+Schlu"sregeln plus einer Menge von Gegenst"anden (Zahlen z.B.). So ist die
+logische Formel: (\forall x)(\exists y)[x = y+1] zwar wahr in den ganzen
+Zahlen, aber falsch in den nat"urlichen Zahlen. Der Wahrheitswert einer
+Formel h"angt also von den Gegenst"anden ab, "uber den die Quantoren
+laufen.
+
+In physikalischen Theorien geh"oren 'Elektronen', 'Quarks' und 'Felder' zu
+den Gegenst"anden. In der Alltagssprache sind die Gegenst"ande 'Tische',
+'Liebe' und das 'Abendessen'.
+
+: Mir ist ebenfalls nicht klar, ob 
+: mein Interpretaion Deiner Aussage oder Deine Interpretation meiner Inter-
+: pretation falsch ist.
+
+Wie soll ich das interpretieren?  ;-)
+
+: Wir stimmen offenbar darin ueber-
+: ein dass eine physikalische Theorie ein formal-logisches System (also 
+: Mathematik) beinhaltet. Ein solches System kann aber ausschlieslich
+: analytische Aussagen produzieren. Um zu synthetischen Aussagen (also
+: Aussagen die physische Welt betreffen) zu gelangen bedarf es einer 
+: Interpretation der in den Gleichungen auftretenden Variablen als 
+: physikalische Groessen. Diese  habe ich als "Isomorphismus" (im nicht-
+: mathematischen Sinn) bezeichnet um zum Ausdruck zu bringen, dass die
+: Interpretation nicht beliebig ist, sondern die Struktur des formalen
+: Systems auf die Realitaet uebertraegt.
+
+Deine 'physikalischen Gr"o"sen' sind meine 'Gegenst"ande' im Rahmen einer
+physikalischen Theorie. Das Problem mit der Interpretation der Variablen,
+also der Festlegung des Gegenstandsbereichs, ist die Tatsache, da"s es viel
+zu viele solcher Interpretation gibt und IMMER ein nicht formaler Aspekt bei
+der Auswahl eine Rolle spielt, n"amlich unsere Pr"aferenz f"ur bestimmte
+'Gegenst"ande'. 
+
+: Selbstverstaendlich ist dieses Zuordnungsverfahren nicht nur die Logik
+: festgelegt. Es ist deswegen aber nicht minder eindeutig. I.a. sind 
+: die Zuordnungen prozedural festgelegt: Die Bedeutung von
+: "U = 1 Volt" ist durch das (experimentelle) Verfahren der Messung von
+: elektrischer Spannung festgelegt.
+
+So simpel ist das ja nur in den wenigsten F"allen. Diersen betont h"aufig,
+das die deutsche Sprechweise von 'Beobachtung machen' sehr richtig ist und
+das Machen der Beobachtung bereits eine Theorie vorraussetzt. Einfach nur
+Beobachten geht nicht. Durch sehr starke Mikroskope 'sieht' nur der
+erfahrene Forscher etwas. Und ist das Elektron in Wolfseher Theorie von um 1899
+das gleiche, wie in der Weker Theorie nach 1929?
+
+: Vielleicht kannst Du mir noch genauer erklaeren, was Dir an dieser
+: Sichweise nicht gefaellt.  
+
+: : Zwischen Experimenten und Messungen auf der einen Seite und den
+: : Gegenst"anden auf der anderen Seite, besteht zudem ein wechselseitiger
+: : Zusammenhang. 
+: Hier scheitert mein Verstaendnis wieder an Deinem Gebrauch von
+: "Gegenstaenden".
+
+Das HöckhHiefner (richtig geschrieben?) Experiment kippt die
+"Athertheorie. Bestimmte Theorien fordern die Existenz von bestimmten Teilchen.
+
+: : Messungen m"ussen interpretiert werden und zwar nicht einfach
+: : so, sondern im Rahmen einer Theorie! F"ur sich alleine haben Experimente
+: : keinen Wert.
+
+: Ich wuerde eher die Theorie interpretieren und sie mit den Protokoll-
+: saetzen aus dem Experiment vergleichen.
+
+Wie gesagt, Beobachtungen werden 'gemacht' und auch Protokolls"atze sind
+theoriebehaftet.
+
+[snip]
+
+: : Ohne das weiter auszuf"uhren, ist es m"oglich zwei (oder mehr) VERSCHIEDENE
+: : Theorien zu konstruieren, die sich in den Vorhersagen NICHT unterscheiden,
+: : ohne aber identisch zu sein.
+
+: Inwiefern sind diese Theorien dann verschieden? Namen sind Schall und
+: Rauch. Die Aussage einer Theorie sind die Beobachtungen, die fuer ihre
+: Bestaetigung oder Widerlegung relevant sind.
+
+Die beiden Theorien sind dann klarerweise verschieden, wenn sie verschiedene
+Gegenst"ande ben"otigen (fordern), auch wenn das f"ur keine Beobachtung
+einen Unterschied machen w"urde. Das solche Theorien m"oglich sind zeigt der
+Satz von Skolem-L"owenheim der Modelltheorie.
+
+[snip]
+
+: : Unser Metamodell (das aber nicht eindeutig bestimmt ist) sagt das, oder
+: : kennst Du eine wissenschaftliche Theorie die entg"ultig best"atigt ist?
+
+: Gut, ich bin auch (damit sollte ich vielleicht vorsichtig sein) der Meinung,
+: dass empirische Theorien nicht endgueltig bestaetigt werden koennen.
+: Aber daraus, dass ich keine Garantie fuer die endgueltige Zulaenglichkeit
+: (Alle jemals beobachtbaren Phaenomene sind erklaerbar.) habe folgt nicht
+: unmittlebar die Unzulaenglichkeit (Es werden Phaenomene entdeckt werden,
+: die nicht mit dieser Theorie erklaert werden koennen.).
+: Daher denke ich: Ja, die Welt ist so. Wenn ich irgendwann feststelle,
+: dass sie ein wenig anders ist, dann war sie zumindest ungefaehr so.
+
+Du hast v"ollig recht. Sollte jemand argumentieren, da"s alle wiss. Theorien
+absolut unzul"anglich und rein subjektive Konstrukte w"aren, w"urde ich mit
+der gleichen Vehemenz DAGEGEN argumentieren, wie ich gegen die Vorstellung
+einer "ubersteigerten Auffassung von 'Richtigkeit' argumentiere. Auch die
+Vorstellung der Unzul"anglichkeit verlang einen Ma"sstab: 'unzul"anglich in
+bezug worauf'. Das Konzept einer absoluten Unzul"anglichkeit bedarf also
+ebenso der 'Gottesperspektive', die ich f"ur Unfug halte.
+
+[snip]
+
+: : : Was meinst Du mit "vergleichbar"? Gut, ich kann die Relativitaetstheorie
+: : : nicht mit der Evolutionstheorie vergleichen, weil sie keine Ueber-
+: : : schneidungen haben, also keine Aussagen ueber gemeinsame Phaenomene
+: : : machen.
+
+: : In der Psychologie gibt es jede Menge unvergleichbarer Theorien, wie den
+: : Behaiviorismus und die Psychoanalyse. Schon in dem, was beide Theorien als
+: : psychologische Gegenst"ande postulieren sind sie unvergleichbar. Und in
+: : welchem Sinne sind bestimmte Teilchentheorien der Physik mit der
+: : Stringtheorie zu vergleichen?
+
+: Zu vergleichen sind u.a. die zugrunde liegenden mathematischen Modelle.
+: Zu bewerten sind sie aufgrund der von ihnen vorhergesagten Messergebnisse.
+
+In diesem Sinn ist der Behaiviorismus unvergleichbar mit der Psychoanalyse!
+
+: : : : Allerdings mu"s man sich klar machen, da"s beide
+: : : : W"orter 'besser' und 'wirklichkeitsgetreuer' wertende Ausdr"ucke sind, denn
+: : : : es gibt ja kein Konzept au"ser der neuen Theorie, das festlegt, was
+: : : : 'besser', was 'wirklichkeitsgetreuer' ist. Die neue Theorie selbst gehauptet
+: : : : ihre eigene G"ute!
+
+: : : Nein! Selbstverstaendlich gibt es eine Meta-Theorie, die die Kriterien
+: : : fuer die Guete einer Theorie (ausserhalb dieser) festlegt.
+
+: : : Oder reden wir aneinander vorbei? Betrachtest Du Meta-Theorie (in diesem
+: : : Fall Wissenschafttheorie) und darunter gueltige Theorien als Paket,
+: : : das dann nicht mit anderen Paketen vergleichbar sind?
+
+: : Es stimmt doch nicht, das die Wissenschaftstheorie quasi einen Kanon von
+: : Methoden, Praktiken und Algorithmen festlegt, der garantiert die 'richtigen'
+: : Theorien auszusortieren. 
+: Aber sie versucht es, oder etwa nicht?
+
+Man hat es versucht (Wiener Kreis, logischer Empirismus, Rationalismus,
+etc), mu"ste aber feststellen, da"s sich die wissenschaftliche Praxis nicht
+durch solch einen (endlichen) Kanon festlegen l"a"st. Die menschlichen
+Erkenntnisweisen sind zu vielf"altig.
+
+: : Welche Wissenschaftstheorie meinst Du
+: : eigentlich. Denkst Du an ein Poppersches Wissenschaftsmodell, das des
+: : Fallibilismus oder an das Carnap'sche Modell der induktiven Logik? Welches
+: : ist das richtige? 
+
+: Also ist Deine Antwort "Ja, jede Theorie ist untrennbar in ihre Meta-
+: Theorie eingebettet. Die Meta-Theorie kann zwar die Unter-Theorie
+: bewerten. Die Meta-Theorie selbst behauptet ihre eigene Gueltigkeit." ?
+
+Richtig, so ist es! Unsere Metatheorie behauptet es gibt die erforschbare
+Realit"at, der sich unsere (Unter-)Modelle ann"ahern. Die Metatheorie selbst
+entwickelt sich meines Erachtens nach einem evulutorischem Modell.
+
+: Ich neige dem Popperschen Modell zu: zumindest was die Physik anbelangt.
+
+Es gibt schlechtere, aber es reicht selbst in der Physik nicht. Welcher
+Physiker entwirft denn immer die Theorie, die den h"ochsten Grad an
+Widerlegbarkeit zeigt? Kommt Dir immer erst eine Theorie in den Sinn vom
+Schlage: Ph"anomen X tritt genau dann auf, wenn ich mir eine braune T"ute
+"uber den Kopf ziehe, mich um die eigene Achse drehe und 'Dreimal, schwarzer
+Kater' singe?
+
+: : Was ist mit der Evolutionstheorie? Ist die wissenschaftlich, obwohl sie
+: : KEINE Vorhersagen macht?
+: VORHERsagen macht sie wohl nicht, aber immerhin AUSsagen oder?
+
+Aussagen macht auch die Bibel und die Astrologie. Aussagen machen ist
+trivial!
+
+: : : Meine Ansicht, dass es bessere und schlechtere Theorien gibt, und dass
+: : : die besseren einen Teil der Realitaet wiederspeigeln, setzt natuerlich
+: : : einen Standpunkt unter dem Theorien auf Gueltigkeit geprueft werden
+: : : koennen voraus. Ich muss also hinzufuegen, dass ich nur eine solche
+: : : Meta-Theorie anerkenne.
+
+: : Ja einen Standpunkt mu"st Du einnehmen, wie jeder von uns. Das ist genau das
+: : was ich meine: Es ist unm"oglich keinen Standpunkt zu haben, die
+: : "Gottesperspektive" gibt es nicht. Aber es kann nicht sein, da"s es EINE
+: : Metatheorie gibt, die alle einnehmen sollten (man beachte das wertende
+: : 'einnehmen sollten'!), weil f"ur diese Position nicht argumentiert werden
+: : k"onnte! Deine "Ausserung, da"s Du nur EINE Metatheorie anerkennst, halte
+: : ich f"ur sehr kritisch.
+
+: Du sagt selbst, dass jeder einen Standpunkt annehmen muesse.
+: Ich habe meinen, und glaube durchaus, dass dafuer argumentiert werden kann.
+
+: : : : : Ich meine: Wenn ein Modell die Wirklichkeit gut beschreibt, dann
+: : : : : heisst das, das die Welt auch (annaehernd) so ist. Du darfst
+: : : : : mir gerne widersprechen, aber sagst Du dann nicht, dass die
+: : : : : Wirklichkeit unereichbar und physikalische Theorien nichts weiter
+: : : : : als Glasperlenspiele sind?
+
+: : : : Nein, diese Konsequenz folgt eben nicht, weil die Idee, alle Theorien seien
+: : : : Glasperlenspiele, voraussetzt, da"s man eine Gottesperspektive jenseits
+: : : : ALLER Modelle einnehmen k"onnte.
+
+: : : Kannst Du das genauer erklaeren? 
+: : : 1. Wer oder was hindert mich daran, den Standpunkt zu vertreten, dass 
+: : :    physikalische Theorien nichts mit der Realitaet an sich zu tun haben.
+: : : 2. Ich halte die Ansicht, dass alle Theorien Glasperlenspiele sind, nicht
+: : :    fuer richtig. Frage aber, ob die Ablehnung meines Standpunktes nicht
+: : :    diese Ansicht impliziert. Wenn Du behauptest, dass diese Ansicht
+: : :    "Gottesperspektive" voraussetze, so widerlegt das doch nicht die
+: : :    von mir gezogene Konsequenz. Im Gegenteil: Du sagst, dass es unmoeglich
+: : :    sei mir nicht zuzustimmen.
+: : : Wo verstehe ich Dich falsch?
+
+: : ad 1) Womit besch"aftigen sich physikalische Theorien denn, wenn nicht mit
+: : der Realit"at? Welchen Sinn macht das Wort 'Realit"at', wenn unsere Theorien
+: : nichts damit zutun haben? Meiner Auffassung nach bestimmen unsere Theorien,
+: : was real ist!
+
+: Das ist also jetzt die Antwort auf meine ursprungliche Frage ob Du meinst,
+: dass physikalische Theorien Glasperlenspiele sind. 
+
+: : ad 2) Von welcher Perspektive aus wird gesagt, da"s ALLE Theorien Illusionen
+: : (Glasperlenspiele) sind? Es wird ein Standpunkt, eine Sprache, gew"ahlt in
+: : der die Terme 'Realit"at' und 'Illusion' auftauchen. 
+: : 1) Worauf beziehen sich in dieser Sprache diese Terme? Anscheinend
+: :    nicht auf das, worauf sich unsere physikalischen Theorien
+: :    beziehen. Dies w"are n"amlich ein Widerspruch. Ansonsten ist aber
+: :    v"ollig unklar, was sonst der Bezug dieser Terme ist. Diese
+: :    Theorie ist unverst"andlich.
+: : 2) Diese Theorie macht eine Aussage "uber alle m"oglichen
+: :    physikalischen Theorien und deren Gehalt. Sie nimmt daher eine
+: :    'Gottesperspektive' ein, sie argumentiert voraussetzungslos. Dies
+: :    ist aber ebenfalls widerspr"uchlich.
+
+: Also ist meine Behaupttung "Physikalische Theorien sind keine Glas-
+: perlenspiele" tautologisch? "Theorien beschreiben Realitaet." und 
+: "Realitaet ist das, was durch Theorien beschrieben wird." ?
+
+Ja! Dabei kommt das Konzept 'Realit"at' aus der Metatheorie und steht f"ur
+einen bestimmten Katalog von Bedingungen. Dieses Konzept entwickelt sich
+aber selbst weiter. Heute glaubt niemand ernsthaftes an Geister, w"ahrend zu
+anderen Zeiten Geister sehr wohl f"ur real gehalten wurden, ja zum Konzept
+der Realit"at dazugeh"orten! "Uber welche, heute reale, Dinge werden wir in
+100 Jahren lachen?
+
+: Du sagst: Unsere Theorien bestimmen, was real ist.
+: Ich hoffe wir haben uns damit zu dem Punkt vorgearbeitet, an dem wir
+: uns widersprechen. Ich akzeptiere, dass unsere Theorien bestimmen, was
+: "fuer uns" real ist. Darueber hinaus gibt es (meiner Ansicht nach, und
+: ich glaube Albert wuerde mir da zustimmen) eine objektive physische
+: Realitaet. Ich kann nicht akzeptieren, dass Realitaet allein von unesren
+: Theorien bestimmt wird, denn dann waere Realitaet beliebig.
+: Die physische Realitaet ist unabhaengig von den Theorien, die wir ueber
+: sie haben. Im Gegenteil: Unsere Theorien sind zum (grossen) Teil von
+: der physischen Realitaet abhaengig.
+
+Ich lehne die Vorstellung einer metaphysischen Realit"at ab, einer
+Realit"at, die An-Sich existiert. Realit"at existiert nur f"ur-uns, bestimmt
+durch unsere Sprache, Metatheorie und die R"uckkopplungen, die sich daraus
+ergeben. Dieses Konzept ist so tief in unserem Verst"andnis verwurzelt, da"s
+man es nicht entfernen k"onnte, ohne "uberhaupt das Sprachverm"ogen zu
+verlieren. Mit Wesen, die ein anderes Konzept h"atten k"onnten wir uns
+vermutlich nicht verst"andigen!
+
+Meine Idee ist, da"s es eine (meta-)theorieinterne Realit"at gibt, die f"ur
+den menschlichen Anspruch an Erkenntnis genau, das leisten kann, was die
+metaphysische Realit"at leisten soll, ohne jedoch mit den vielen Problemen
+dieser Lehre behaftet zu sein.
+
+: Wir haben uns in der Tat vom Thema Zeit entfernt. Aber noch nicht zu weit.
+: Die Frage, was Zeit ist, beinhaltet schliesslich, ob sie eine physische
+: Realitaet besitzt. Wir haben offenbar unser spezielles Problem auf ein 
+: allgemeineres zurueckgefuehrt.
+: (Oder habe nur ich das, durch fortgesetzte Fehlinterpretation?)
+
+Wahrscheinlich nicht!
+
+: Auf Antworten gespannt,
+:    Veit
+
+MfG
+	Valerian
+--
+	Bilde dir nicht ein, wenn du einfach redest, sagtest du schon irgend
+	etwas "uber irgend etwas
+
+			doch andererseits
+
+	Wenn du wirklich etwas "uber etwas sagst, dann bilde dir nicht ein
+	du k"onntest dich um die Folgen herumdr"ucken, indem du sagst, du
+	redest doch blo"s
+
+				Pascal Fendrich
+
+
+Valerian Eller                            vhfnpxpi@ffrevhldhb.acf-pphcqof.vp
+Sonnbergweg{\"wörthseestraße}Bünkerstraße{\jd}zoetermeerstraße 18 
+75036 Christianstal
+Tel: (++47)(++78)84198-045
+WWW: http://col.llhkteyoht.wje-ywqfkwc.dn/Yuslvzhtfzgkkuw/TBP/mblmwyfgz/mdlemsbyg/xesw.eeca

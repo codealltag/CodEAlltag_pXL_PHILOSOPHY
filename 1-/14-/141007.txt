@@ -1,0 +1,16 @@
+Hallo liebe Logiker und Logik-Interessierte!
+
+Meine Frage:
+
+Können zwei verschiedene Formelmengen den selben Gehalt haben?
+(Gehalt: Menge _aller_ geschlossenen Formeln, die aus der Formelmenge
+folgen)
+
+Meine Überlegungen führen mich immer zur Schlussfolgerung: Nein
+*) Aber nur wenn {A,B} und {B,A}, usw. als _verschiedene_ Formelmengen
+gelten.
+
+Ist die Annahme unter *) richtig?
+
+Tsch,
+Urs

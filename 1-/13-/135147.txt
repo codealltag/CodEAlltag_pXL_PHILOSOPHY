@@ -1,0 +1,30 @@
+doch, das ist die Aussage.
+Die Wahrscheinlichkeit zur Zeit t ist 
+
+q(t) = int_{X}^{t} w(t') dt'
+
+und die Aussage, daß q(+oo)=1 sein soll, ist damit die Aussage, daß
+
+q(+oo) = int_{X}^{+oo} w(t) dt = 1
+
+sein soll.
+
+
+Normierungen sind nur dann notwendig, wenn die Forderung gestellt ist, daß 
+das Integral über die Wahrscheinlichkeitsdichte (hier: die 
+Wahrscheinlichkeit pro Zeiteinheit w(t)) 1 ist.
+Das ist z.B. in der QM der Fall, wo die Einteilchenwellenfunktion auf 1 
+normiert werden muß, da die Wahrscheinlichkeit, das Teilchen irgendwo im 
+Raum zu finden, natürlich 1 sein muß (irgendwo muß das Teilchen ja sein).
+
+Hier aber ergibt sich keine solche Forderung. Es sei denn du machst 
+explizit die Annahme, daß das Integral über w(t) 1 sein soll. Damit hast du 
+dann aber bereits als Annahme vorausgesetzt, daß die Wahrscheinlichkeit 
+q(+oo) bei t=+oo 1 wird. Und genau das kannst du nicht machen, da du ja 
+beweisen willst, daß q(+oo)=1 ist. Du kannst ja nicht das als Annahme 
+voraussetzen, was du beweisen willst, denn das wäre dann kein Beweis, 
+sondern Tautologie.
+
+=> es gibt keine Notwendigkeit dafür, w(t) so zu normieren, daß das 
+Integral int_{X}^{+oo} w(t) = 1 ist. Folglich muß die Wahrscheinlichkeit 
+q(+oo) bei t=+oo nicht 1 sein, sondern kann auch kleiner sein.

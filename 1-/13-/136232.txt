@@ -1,0 +1,14 @@
+es ist aber keine tautologie und man muss auch gar nichts umformen:
+p ^ P = 0
+q ^ Q = 0
+=> ((0 -> q) ^(0 -> p)) -> (p <-> q)
+aus 0 folgt immer 1, also:
+1 -> (p <-> q)
+aus 1 kann 0 und 1 folgen. p<->q ist 0, falls p und q verschieden sind 
+und 1, falls p und q gleich sind.
+=> F = 0 für p ungleich q und F = 1 für p = q.
+
+ich würde mir mal ein gutes Logik - Buch kaufen !
+
+Gruss,
+   Siebelt

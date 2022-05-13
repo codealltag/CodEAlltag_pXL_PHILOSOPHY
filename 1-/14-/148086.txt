@@ -1,0 +1,77 @@
+Also in meinen Buch zur mathematischen Logik ist von Gegenständen 
+nicht die Rede, es wird, wie in allen anständigen mathematischen 
+Darstellungen ausgehend von dem Verständniss der Mengenlehre 
+ausgehend von Mengen, Elementen  und Abildungen gesprochen: 
+Die Satz "es gibt ein x aus M mit Ex" handelt nicht von Gegenständen 
+sondern von Mengen. 
+a ist also "kein Symbol für einen Gegenstand" sondern a ist das 
+Element einer Menge. Und was das bedeutet habe ich wärend meines 
+Studiums gelernt: Ich weiß, wie man Sätze der Form "es gibt ein x aus 
+M mit Ex" verwendet. Von einem oder Mehreren Gegenständen ist nicht 
+die Rede. Ich weiß nicht, was du damit erreichen willst, dass du die 
+präzise und wohlbekannte mathematische Sprache durch eine 
+metaphysisch-onologische Paraphrasierung verdunkelst? 
+Aber vielleicht habe ich ja etwas übersehen, deshalb versuche ich 
+hier, die Definition wie ich sie verstanden habe wiederzugeben:
+
+Das erste was mir wichtig erscheint, ist die Definition einer 
+S-Strukur zu einer (formalen)Sprache S (Eigentliche ist das keine 
+richtige Sprache, weil die Zeichen hier völlig bedeutungslos sind, 
+die Symbole einer Sprache aber immer Bedeutung haben).
+
+Man hat eine nicht-leere Menge A (eine Menge besteht nicht aus 
+Gegenständen sondern Elementen) als Grundbereich oder Träger.
+dann ordnet man den Konstantenzeichen Elemente aus dem Träger, 
+Relationszeichen bekannte Relationen auf der Grundmenge, 
+Funktionszeichen bekannte Funktionszeichen auf der Grundmenge zu.
+
+Man definiert also Abbildungen zwischen Elementen von Mengen. Was das 
+bedeutet weiß ich. Das Einzige was noch bemerkenswert ist, ist, dass 
+die Bedeutung, der Elemente, der Relationen und Funktionen 
+vorausgesetzt wird, dass ist hier noch nicht wichtig, sondern wird 
+erst dann bedeutsam, wenn Wahrheitswerte betrachtet werden.
+
+Der nächste Schritt ist die Defintion der Belegungsabbildung auf 
+einer S-Struktur: Dies ist eine Abbildung von der Menge der Variablen 
+von S in die Trägermenge und der Interpretation.
+
+Dann kommt dieser schnukelige Trick mit der bx/a Belegung:
+Sei b eine Belegungsabbildung auf eine S-Struktur, a ein Element der 
+Trägermenge, x eine Variable von S, dann ist b x/a die 
+Belegungsabbildung, die x auf a abbildet, und sonst eine Variable v 
+auf das Element der Trägermenge b(v).
+
+Nun kommt man zu der Modellbeziehung, die im wesentlichen bedeutet, 
+dass die Wahrheitswerte der auf der Trägermenge definierten Ausdrücke 
+auf Ausdrücke der Sprache S übertragen werden.
+
+Das einzig interessante ist noch die Bedeutung des Ausdrucks:
+
+I(a/x)|=phi, für eine Variable x der formalen Sprache S und ein a aus 
+der Trägermenge der Struktur und ein Ausdruck phi der Sprache S.
+
+Aber auch hier ist nichts geheimnisvolles: Die Wahrheitwerte werden 
+rekursiv entlang der Sprachkonstruktionen von den Relationen und 
+Gleichungen auf den zusammengesetzten, komplexen Aussdruck 
+übertragen: 
+Der Ausdruck  I(a/x)|=phi prüft dann den Wahrheitswert an der Stelle 
+a für den entsprechenden Ausdruck in auf der Trägermenge.
+
+Anyway, ich sehe hier keine metaphyischen oder ontologischen 
+Beziehungen auf einen "abstrakten Gegenstand". Das ist eine völlig 
+normale mathematische Theorie, die wie in der moderenen Mathematik 
+üblich, auf einem (naiven) Mengenverst�dnis aufbaut und damit in 
+ihren ontologische Implikationen vergleichbar zum Beispiel der 
+Ma�theore oder Topologie.
+
+
+Habe ich hiermit getan und ich weise nochmal darauf hin, das ich, wie 
+es in jedem anständigen Mathematikbuch geschieht, die 
+ontologisch-metaphysiche und obskure Redewiese vom Bezug auf 
+Gegenstände nicht verwendet habe.
+Ich sehe auch aus dem bisherigen nicht, dass das notwendig ist, oder 
+auch nur naheliegt: Ich finde den Zusammenhang zwischen Ontologie und 
+semantischer Theorie an den Haaren herbeigezogen und ein Fall für 
+Päuker oder Molner.
+Gruss,
+Ludwig.

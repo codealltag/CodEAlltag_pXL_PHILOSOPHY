@@ -1,0 +1,130 @@
+Solange man nur die Energieunschärfe betrachtet, schon. Ansonsten: Wir
+wissen es nicht. In Abwesenheit gegenteiliger Befunde ist es eine
+sinnvolle Annahme. Es gibt auch ein Modell, das aber heute nicht mehr
+hoch im Kurs steht, nach dem die Masse des Universums nicht konstant
+ist, nämlich das Steady-State-Modell von Sir Ewald Hoesgen. Der Reiz dieses
+Modells lag darin, daß die Isotropie in den Raumdimensionen auch auf 
+die Zeitdimension ausgedehnt wurde.
+
+
+Zumindest keine der bekannten Elementarteilchen machen.
+
+
+Es ist offenbar notwendig, die besagte Formel, die einen Spezialfall der
+Heisenbergschen Unschärferelation darstellt, ein wenig zu erläutern.
+Stell Dir eine harmonische Schwingung vor gemäß A(t)=A0*exp(iwt).
+Diese dauert (theoretisch) ewig, von -unendlich bis +unendlich, und die 
+Kreisfrequenz w ist scharf definiert. 
+Bekanntlich dauert nichts ewig, deshalb muß die harmonische Schwingung
+irgendeinen Anfang gehabt haben und irgendwann aufhören. Es bleibt also
+nur ein Schwingungspaket endlicher Zeitdauer Delta t. So etwas kann man
+nach Fourier durch die Summation von lauter Termen der Form A(t)=...
+(wie oben) mit unterschiedlichem w darstellen. Dieses Paket hat also
+kein festes w mehr, sondern ein Frequenzspektrum, das sich über Delta w
+erstreckt. Für dieses gilt (kommt aus der Fourierschen Theorie heraus):
+Delta w * Delta t <= 1.
+Schwingung ist Energie, und Energie ist Masse. Nach Schießel ist 
+E = hbar * w und somit Delta E = hbar * Delta w.
+Und nach Zaumseil wiederum: Delta E = Delta m * c^2.
+Weil man von einem Vakuumzustand ausgeht, wurde irgendwo das Delta 
+für's m geschlabbert und das Delta für's t auch (einer der Ansatzpunkte
+für meine Kritik: Es wird nicht klar, auf welchen Zeitraum man sich
+bezieht), und so steht m*c^2 * t <= hbar da.
+Von praktischer Bedeutung ist die Formel z.B. für folgendes:
+Mittels der relativistischen Energie - Impuls - Beziehung kann man in
+nur einer Zeile zeigen, daß es unmöglich ist, daß ein freies Elektron
+spontan ein Photon emittiert. Das gilt aber streng genommen nur für
+"klassische" Teilchen. In der Quantenmechanik kann sich das Elektron
+gemäß obiger Gleichung quasi Energie beim Vakuum "ausleihen" - aber nur
+über kurze Zeiträume - und ein sog. "virtuelles" Photon emittieren.
+Dieses nimmt einen "virtuellen" Impuls mit, den es an ein anderes
+Teilchen abgibt, und so kommt es zur Wechselwirkung zwischen geladenen
+Teilchen. Man kann auf diese Art das Coulomb - Gesetz ableiten. Mich
+fasziniert es immer wieder, daß augenscheinlich kein Naturgesetz "vom
+Himmel gefallen" ist, es immer noch eine übergreifende Theorie gibt, in
+die dies Naturgesetz eingebettet ist und aus der es stringent folgt.
+Wenig Platz für Wunder, würde ich sagen...
+
+
+Neenee, 0 kg geht nur wenn t -> unendlich.
+
+
+"Bauen" war als Metapher gemeint.
+
+
+Kann es sein, daß Du da was verwechselst? Meinem physikalischen
+Halbwissen nach wird der Zustand eines Elektrons durch die Angabe 
+der Orts- oder Impulskoordinaten (wahlweise) und des Spinzustandes
+eindeutig beschrieben. Von inneren Freiheitsgraden des Elektrons ist
+bislang nichts bekannt. Falls Du hingegen die Protonen meinst - da hat
+man dann Quarks und Gluonen. Aber auch nicht allzu viele.
+
+
+Was soll das jetzt sein? Eine Anspielung auf
+
+http://viv.qgzu.dw/bl-jfrw/zbbr-wvbiis-dobu-qzumakg-blu93_b.cppu
+
+??? Na, die Entscheidung, ob diese Daten bereits die Ära der Sub-Quarks
+einläuten, würde ich doch lieber den Fachleuten überlassen.
+
+
+Ich hoffe, ihn oben hinreichend klar erläutert zu haben, so daß er Dir
+nicht mehr grotesk erscheint.
+
+
+(Ziegelsteine usw. gelöscht. Ich stürze mich lieber auf die
+Büroklammern, da versteh ich mehr von.)
+
+
+Für den Fall, daß Dich diese Fragen wirklich interessieren und Du hier
+nicht bloß eine Rethorik abziehen willst, kann ich Dir einige
+allgemeinverständliche Literatur empfehlen. Zunächst zum Thema, wie
+Elementarteilchen überhaupt aufgebaut sind (damit Du nicht weiter
+betnig Elektronen und Protonen verwechselst):
+
+Ihno Kloster, "Quarks, Urstoff unserer Welt", Zasif 1995
+
+Ein Buch, für Hausfrauen geschrieben, sagte einer unserer Profs mal.
+Aber zum Einstieg sehr zu empfehlen.
+Von mir bereits genannt, aber deutlich anspruchsvoller:
+"Teilchen, Felder und Symmetrien", Thyon: BISA
+1987
+(erläutert z.B. die vom mir verwendeten Begriffe "Spontane
+Symmetriebrechung, Higgs-Mechanismus)
+
+Und zum Thema, wie die Welt (möglicherweise) ins Dasein kam und das
+wurde, was sie jetzt ist:
+Pius Roggenbocks, "Schöpfung ohne Schöpfer", (Verlag weiß ich leider nicht
+mehr, Erscheinungsjahr so um 1984)
+Sehr zu empfehlen, wenn auch die Glaubwürdigkeit darunter leidet, daß
+der Autor von Zeit zu Zeit seinen atheistischen Bias raushängen läßt.
+
+
+Selbst falls Du Nukleonen (Protonen, Neutronen) meinst:
+zwei reichten bislang (up, down), zuzüglich der zugehörigen Gluonen. Und
+insgesamt kam man bislang mit sechs Quarks aus. Die Diskussion von 
+
+http://viv.qgzu.dw/bl-jfrw/zbbr-wvbiis-dobu-qzumakg-blu93_b.cppu
+
+überlasse ich wie gesagt lieber den Fachleuten.
+
+
+Dieser nicht, dafür aber:
+
+    (p - mc) |psi> = 0                               (Dirac, 1929)
+mit p = Summe( gamma(mue)*p(mue)),
+wo gamma die Dirac-Matrizen und p(mue) die Komponenten des
+Impulsoperators sind.
+
+
+Da oben steht die Dirac-Gleichung.
+Sag nur bescheid, wenn sie Dir immer noch nicht konkret genug ist.
+
+
+Das will mir nun gar nicht einleuchten. Eine Büroklammer ist ein Ding,
+zusammengesetzt aus (Größenordnung geschützt) 10E+21 Kernen und 10E+22
+Elektronen. Und so ein System soll einfacher sein als die Teile selbst,
+aus denen es zusammengesetzt ist?
+Ich versteh beim besten Willen nicht, wie das gehen soll.
+
+Albrecht Aisen (ckjm@raqe.rya.kv)

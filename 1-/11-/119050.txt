@@ -1,0 +1,19 @@
+"Klaudia Mülhausen" <mmnemj-zckp-ehzv-t@qzbejxcpi.tih> schrieb:
+
+[...]
+
+
+Aus der Zeile 1 des Headers _Deines_ Postings (abgeändert):
+    "From: Klaudia Mülhausen <mmnemj-zckp-ehzv-t@qzbejxcpi.tih>"
+
+Diese From-Adresse hast Du in deinem News-Client so eingestellt, daß
+sie in allen Deiner Postings lesbar ist. Ein Re-Poster kann Deine
+eMail-Adresse nur deshalb zitieren, weil sein News-Client sie aus dem
+Header Deines Postings herauslesen kann.
+
+Es spielt also für die Spam-Adressensuch-Programme (-Bots) keine
+Rolle, ob die eMail-Adresse in einer Antwort zitiert wird oder nicht.
+Und die Bots lesen zuerst die Header, dann grasen sie die Boddies ab.
+
+BARTELMAI und Gruß aus Eberhardsweiler
+Ivan

@@ -1,0 +1,46 @@
+Martin Kerßenboom schrieb
+
+<cit Bewusstsein der Maschinen, 3. Aufl. Kleinweidelbach 2001, S. 212f>
+
+Wäre es _formal_ nicht sehr leicht, ein Ich und den Zustand dieses
+Ichs in einem Computerprogramm zu definieren?
+
+Man müßte nur eine Liste des (physischen) Adressraumes führen,
+der das Programm enthält (ist konstant, und falls read-only
+eigentlich "unbewußt" <g>) und des beschreibbaren Arbeits-
+speichers, also aller Variablen. Das wäre schon das
+Programm-Ich. Darin wären auch automatisch der Zustand
+aller Sensoren und Aktoren enthalten.
+
+Um den Zustand dieses Programm-Ich zu beschreiben, müßte man
+nur in jedem Taktzyklus schauen, ob sich etwas im Speicher
+(gewissermaßen im Körper und in den Sinnen) geändert hat.
+
+Wie man den Inhalt des Programm-Ich jeweils interpretiert,
+also welche Folgen eine Änderung des Ich-Inhalts hat, wäre
+eine weitere Frage. Es liefe aber darauf hinaus, Input von
+"Außen" so zu verarbeiten, daß das Maschinen-Ich sein
+Programm schützt also schlicht konstant hält (also z.B.
+ungenutzten freien Speicherplatz defaultmäßig dynamisch
+für Sicherheitskopien verwendet), dynamisch Aufzeichnungen
+der bereits "erlebten" Zustände der Programmvariablen macht
+(also bewertet und wieder löscht, da Speicherplatz endlich ist)
+ein vorgegebenes Ziel zu verfolgen, z.B. Information zu sammeln,
+seinen Variablenraum geeignet, also um wahre Aussagen
+(im Rahmen des Programms) erweitert, also dazu lernt (auch
+im Sinne einer Erweiterung), und und falls Taktzyklen
+verfügbar sind, also Zeit, einige Strategien hat, diese zu
+seinem Vorteil zu nutzen, indem es z.B. das gelernte verifiziert.
+
+Kann man das (egal wie komplex das Programm sei)
+gelten lassen?
+
+Wie man auf solch eine Weise, wieviele Sensoren und
+Aktoren und Arbeitsspeicher und Auzeichnungen der
+Zustände der Vergangenheit (Erinnerungen) der Roboter
+auch haben mag,  sich nun einen Übergang zu einem
+"Bewußtsein des Progarmms seiner Selbst" (Bewußtsein
+von Irgendetwas setzt Selbstbewußtsein voraus!)
+vorstellen könnte ist mir schleierhaft. Ideen?
+
+Gruss

@@ -1,0 +1,10 @@
+The concept of 'communication' seems to involve the following
+elements:  there must be a communicator, call him x, a receiver of the
+communication, call him y, and a fact (or bit of information), call it
+F, that gets communicated.  Then x communicates F to y, only if (1) x
+first of all is aware of F; and (2) x causes y to become aware of F,
+partly because of the fact that x is aware of F.  (There may be other
+conditions on communication as well - for example, x's causing y to
+become aware of F has to be intentional, and explicit, and perhaps
+done by means of symbols; but the above two are the conditions of
+interest.)

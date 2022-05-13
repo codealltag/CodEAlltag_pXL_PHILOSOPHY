@@ -1,0 +1,6 @@
+Ack. Das dürfte in dem Beispiel mein Fehler sein.
+
+M_2 = {0} und M_2 = {} ist halt nicht dasselbe.
+
+Gruss
+Remo

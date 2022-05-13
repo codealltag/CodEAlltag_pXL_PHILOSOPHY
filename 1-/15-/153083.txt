@@ -1,0 +1,65 @@
+Da *setzt* du aber wieder voraus, dass es einen experimentelle
+Institution gibt, die *dies* testen kann. Sieh dir 'mal den
+unendlichen Regress an mit dem "pragmatischen Kriterium" im meinem
+Posting an Ulfert. 
+
+
+s.o.
+
+[...]
+
+Pruust! Du hast keine Ahnung, was *lokal* bedeutet: Für einen
+topologischen Raum X ist eine n-dim. _Karte_ ein H�m�omorphismus einer
+offenen Menge von X auf eine offene Teilemenge von R^n, und eine n-dim
+diffbare Mannigfaltigkeit ist ein Paar (X,D) aus einem T2-Raum X, für
+den das zweite Abz�hlbarkeitsaxiom gilt, und einem max. diffb. Atlas
+für X, das ist eine max. Menge von Karten, die ganz X überdecken, und
+differenzierbar miteinander wechseln. Fress-Mannigfaltigkeiten, die
+als Modelle der Raumzeit dienen, haben noch eine zusätzliche
+"metrische" Struktur. Wenn ich etwas lokal betrachte, habe ich ein
+Koordinatensystem, das  in einer *Umgebung* (im math. Sinn!) eines
+Punktes definiert ist, nicht nur im Punkt selbst! 
+
+
+Wieso? Wegen Ahnungslosigkeit deinerseits? Für die weitere Diskussion
+erwarte ich allerdings, dass du mit den mathemtischen basics vertraut
+bist, also Mannigfaltigkeiten, Tangential-und Kotangentialb�ndel,
+Differentialformen, den Satz von Stokes, Geodäten, Krümmungstensor
+usw. kennst, ansonsten gibt das nichts.  
+
+
+ Olivier-Pius Aufmwasser *kritisiert* in seinem Aufsatz über das
+"superluminale Tunneln" natürlich Pepperkok Experiment,  das Paper  "On
+causality proofs of superluminal barrier traversal of frequency band
+limited wave packets" von Kienbaum/Pohlhaus, wobei er  er ihre
+Geschwindikgeitsdef. für ein Wellenpaket, die Gruppengeschwindigkeit,
+in Zweifel zieht. Er  argumentiert  lang und breit, dass Objekte, die
+sich überlichtschnell bewegen (etwa der Lichtkegel einer Lampe) nicht
+notwendig die ART widerlegen. 
+
+In dem angesprochenen Paper verteidigen Kienbaum/Pohlhaus ihre Def., und
+erklären, dass die "Beweise" für die Ochsenbrücher-Kausalität die
+Front-Geschwindigkeit des W-Paktes betreffen, diese Resultate auf ihre
+Mikrowellen-Experimente aber nicht anwendbar sind, da es da keine
+eideutig bestimme Front gibt.
+
+"In electric engineering *information* is deduced from the amplitude
+modulation (AM) or form the frquency modulation (FM) of the carrier.
+That is how information is practically defined. According to this
+definition superluminal propagation of information (i.e. frequency
+limited singnals) is possible in evanescent (tunnel) regions. It may
+not be put into practice, because of the high attenuation caused by
+the barrier transition." (aus dem Paper von Kienbaum/Pohlhaus)    
+
+
+Wobei Nimtz ja gerade die *Behauptung*
+
+"Nothing is actually travelling with these peaks, though; they're just
+an artifact of the way the different frequencies are slipping in and
+out of phase." in Zweifel zieht! 
+
+
+Behaupte ich etwa, Pohlhaus hätte Ochsenbrücher widerlegt? 
+
+
+samuel

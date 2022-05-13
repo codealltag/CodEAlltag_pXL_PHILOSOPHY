@@ -1,0 +1,25 @@
+Ich denke nicht, dass damit eine Überabzählbarkeit von |N bewiesen wäre.
+Eine Zahl ist wie auch immer eine abgeschlossene Einheit. Ich kann eine
+Zahl immer nur dann setzen, wenn ich diesen Abschluss tätige. Setze ich
+diesen Abschluss nicht, befinde ich mich in einer undefinierten
+Unendlichkeit. Warum die natürlichen Zahlen abzählbar unendlich sind,
+ist leicht an einem anderen Beispiel nachvollziebar:
+Eine Zahl ist wie ich oben postulierte immer eine abgeschlossene Einheit
+ohne irgendeine besondere Eigenschaft. Dieses kann ich zum Beispiel mit
+einem Klammersymbol ausdrücken {} Anfang und Ende einer x-beliebigen
+Zahl. Nun kann ich wenn ich will darauf eine Definition aufbauen. 
+{} =: 0
+{{}} =: 1
+diese Definition kann ich dann x-beliebige in die Unendlichkeit hinein
+erweitern. 
+{{{{{{{{{{}}}}}}}}}} =: 9 usw
+die gröstmögliche Zahl ist nur dann eine Zahl, wenn es immer noch aus
+einem Klammernpaar besteht.
+Insofern kann ich dieses als abzählbar bezeichnen. Es ist links und
+rechts ausgewogen und es ist eigentlich egal wieviel { und } ich links
+und rechts von der Mitte stehen habe. Es ist auch oo schliesslich und
+endlich eine Zahl, die zählbar ist. Anders she es aus, wenn dieses
+Gleichgewicht nicht mehr gegeben ist.
+
+Gruss
+Carlos

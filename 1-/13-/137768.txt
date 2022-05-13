@@ -1,0 +1,81 @@
+Mathematischer Grenzwert 
+
+Eine geordnete Menge von Zahlen heisst in der Mathematik Zahlenfolge.
+Um eine Zahlenfolge benennen zu können, brauchen wir erstmal eine Menge
+Zahlen.
+Klassische Zahlenmengen sind natürliche Zahlen (was auch immer das sein
+mag), ganze Zahlen rationale Zahlen, reele Zahlen oder auch die
+komplexen Zahlen. Im alltäglichen Gebrauch hat der Begriff Menge
+unterschiedliche Bedeutungen. In der Mathematik beschränkt er sich wohl
+auf die Bedeutung viel. Doch beschränkt sich der mathematische
+Mengenbegriff nicht alleine auf die Bedeutung viel, sondern es muss für
+die Mathematik auch die Eigenschaft wohlunterschieden hinzutreten. Ein
+mathematischer Mengenbegriff kann als nicht einfach eine homogene Menge
+sein, in der nicht mehr unterschieden werden kann. Wohlunterschiedene
+Objekte sind Bedingung der Menge.Da Dario eine Definition des
+Grenzwertbegriffes haben will der präzise sein soll, komme ich hier
+philosophisch schon ins schleudern, da zur vollständigen Definition des
+Grenzwertes die Zahlenfolge benötigt wird. Eine Zahlenfolge kann aber
+nur in einer Menge entstehen. Dieser Menge fehlen bereits wesentliche
+Eigenschaften wie zum Beispiel ist die Körpermenge eines Menschen sehr
+wohl in wohlunterschieden Objekte aufteilbar, wenn ich dies aber mit
+einem Menschen tue und ihn dementsprechend seziere habe ich zum Schluss
+nur noch eine Leiche. Aber wir wollen mal die Leichen aussen vorlassen
+und uns wieder der Zahlenfolge zuwenden. Da die mathematische Menge nur
+wohlunterschiedene Objekte kennt, ist es nun auch keine Problem mehr
+eine Zahlenfolge aufzustellen. Solche Folgen können zum Beispiel die
+ungeraden Zahlen sein oder die Primzahlen.Eine konstante Folge erhalte
+ich, wenn ich aus der Menge der Zahlen mir immer wieder dieselber
+Herausgreife. Eine unendliche Folge von Zahlen ist die Menge der
+natürlichen Zahlen selbst, ich kann immer noch eine Zahl hinzuzählen,
+aber natürlich ist die Menge der geraden Zahlen auf dieselbe Art
+unendlich. Um hier die Exaktheit nicht überzustrapazieren, will ich es
+hier mal bewenden lassen.
+Verlangt ist ja der Grenzwert. Grenzwertermittlungen finden
+klassischerweise in Funktionen statt. Um eine Funktion entstehen lassen
+zu können, brauchen wir eine. Ein Funktion braucht in der Regel eine
+Relation. Eine Relation entsteht in der Regel durch die Zuordnung von
+zwei veränderlichen Grössen. Um diese Zuordnung zwei veränderlicher
+Grössen zueinander zuordnen zu können, brauche ich zwei Mengen. Diese
+zwei Mengen gewinne ich durch Anschauung. In der Mathematik wird der
+eine Teil gebildet als Definitionsmenge und oh Wunder der andere Teil
+als Wertemenge. Das ich natürlich wissen muss, was das Definierte ist
+und was das Wertige ist, ist auch klar. Wenn ich in der Definition
+entsprechende Schranken setze, dann kann ich mathematisch auch einen
+Grenzwert bestimmen. Im Falle unseres Läufers im Stadion ist das die
+Ziellinie. Ob diese Grenze so existiert oder nicht, ist für die
+Mathematik unerheblich. Hat die Folge keine Begrenztheit, dann ist auch
+kein Grenzwert für die Mathematik. Also wenn Fernand seine Schildkröte
+jagdt und dabei immer langsamer wird, dann ist dort keine Grenze für die
+Mathematik. Wenn ich mir den Läufer im Stadion anschaue, dann habe ich
+den Ausdruck 1/x vor mir liegen. x steht dann hier für die Elemente der
+Zahlenfolge 2, 4, 8 usw. Damit der Läufer die Ziellinie überqueren kann
+brauchen wir noch ein paar Bedingung. Im Prinzip verlangt soweit ich das
+begreife, die Mathematik lediglich das alle Werte existieren müsssen und
+das sie endlich sein müssen und sie dürfen nicht null sein. Die Werte an
+sich wären durch die ständige Division unendlich Viele. Diese
+Unendlichkeit wird aber begrenzt durch eine abzählbare Unendlichkeit.
+Soviel ich weiss beruht die abzählbare Unendlichkeit wieder auf der
+Menge. Dies funktioniert mit einer Zuordnung in zum Beispiel
+Tabellenform. Das ist mir in Worten zu kompliziert
+
+0  1  2  3 
+------------
+1  1  2   4 
+2  8  16  32
+3 64 128 256
+
+Wie man sieht kann ich die Zahl 256 auch der Zahl drei zuordnen. Damit
+wäre also die Abzählbarkeit unserer Brüche die durch die Teilung der
+Strecke entstehen gegeben. Aber wenn ich mir das Recht überlege hat das
+eigentlich nichts mehr mit dem mathematischen Grenzwert zu tun. Um den
+Grenzwert zu betrachten muss ich mir hier mehr der Beschränktheit
+zuwenden. Eine Folge von Zahlen gilt dann als beschränkt wenn sie eine
+obere und eine untere Schranke hat. Unsere Folge hier hat eine Schranke,
+da sie zwar immer kleiner wird, aber wohl nicht negativ. Auch der obere
+Bruchteil scheint sich nicht sonderlich zu verändern.Somit gilt für die
+Mathematik wohl hier der Grenzwert als ermittelbar. Um jetzt aber jetzt
+wirklich den Grenzwert zu definieren, müsste man sich noch auf Brökel und
+monoton und stetig einlassen. Dazu habe ich nun wirklich keine Lust mehr
+und wer ausser Dario tatsächlich dies gelesen haben sollte, der scheint
+mehr Mathematiker als Philosoph zu sein.

@@ -1,0 +1,30 @@
+Hallo Karsten,
+
+Was ist der !mathematische kontext!?
+
+Kennst Du Uwe T. Forsten die "Rational Choice Theory"?
+Wenn der !mathematische kontext! schon so betont wird, dann frage ich
+mich, wie es mit mathematischen Formeln in der Betriebswirtschaft alles
+mögliche nachgewiesen wird, bis hin zum rational begründeteten
+Selbstmord. Und was ist der !mathematische kontext!? Kann die Mathematik
+kontextfrei Systeme entwickeln, die im ganzen durchaus zu nützlichen
+Ergebnissen kommen kann, sich aber um Begriffe ausserhalb der Mathematik
+nicht kümmern muss? Not a Number ist für mich eine Alltäglichkeit. Der
+Computer stürzt in die Abgründe seiner Existenz, weil ein Programm sich
+durch den Willen des Programmieres dazu entschieden hat eine ungültige
+Rechenoperation durchzuführen. Denkwürdigerweise führt eine Verbesserung
+des Programms dazu, dass dies nicht mehr geschieht. Die Lösung dazu, ist
+zumeist alles andere als trivial. 
+
+
+Unzulänglichkeiten sprachlicher Definitionen ist schon zutreffend. Sind
+Programmiersprachen noch mathematisch oder sind es Sprachen und als
+solches unzulänglich.
+Ein javascript, welches ich mal geschrieben hatte, öffnete ein weiteres
+Browserfenster, weil aber das Wort window in der Skriptsprache schon
+reserviert war, entstand ein fenster mit der eigenschaft window, so dass
+der Befehl window sich selbst aufrufen konnte, so entstand dann ein
+neues Fenster/window. Es war mir egal, ob das mathematisch korrekt ist,
+es funktionierte und die Maschine konnte damit umgehen und
+entscheidender, es entstand kein error mehr. window --> window führte
+aber zu einem solchen.

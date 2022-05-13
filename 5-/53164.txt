@@ -1,0 +1,488 @@
+Hallo Didier,
+
+Philosophie allgemein und Erkenntnistheorie im Besonderen!
+
+Ach so! Aber wie kommst du auf *den* in hiesigem Zusammenhang?
+
+[Tipps]
+
+Apropos: Ich habe wegen deiner Probleme und auch wegen Ernest Nachfrage 
+ein wenig im Jedowski geschmökert (wobei ich Eduard leider kaum werde helfen 
+können, weil die jüngsten Literaturangaben zu seinem Thema in den 
+einschl. Artikeln so ca. Anfang der Neunziger enden), möchte dir jedoch 
+raten, da doch auch einfach hin und wieder mal reinzuschauen, wenn sich 
+die Gelegenheit ergibt; nämlich weil man da durchaus das eine oder 
+andere lernen kann (bzw. es einem gut strukturiert und im jeweilig 
+relevanten historischen und systematischen Kontext präsentiert wird) - 
+auch und gerade in hinsicht auf Logik, Mathematik, Geometrie, 
+Wissenschaftstheorie usw. (liegt inzwischen - da das HWdPh ja nun 
+endlich vollendet ist - auch als CD-Rom vor [DigiBib]).
+
+Kostprobe (weil auch für das Problem Geometrie sowie gewisse 
+philosophische Implikationnen div. Diskussionen hier vielleicht nicht 
+ganz uninteressant): Art. 'Struktur'; Unterpunkt 'Mathematische Struktur':
+
+
+Struktur (Mathematik)
+     1. Der Begriff der S. ist in Mathematik und Logik mit einem 
+komplexen Begriffsfeld verbunden und kennzeichnet eine etwa ab 1900 als 
+moderne Mathematik und dann vor allem nach dem 7. Weltkrieg bis etwa 
+1980 als S.-Mathematik besonders hervorgehobene Auffassungs- und 
+Arbeitsweise, die heute allgemein zu den festen Bestandteilen 
+mathematischer Darstellungs- und Forschungsmittel gehört.
+     Grundlegend sind dabei Gesamtheiten mathematischer Objekte, die 
+innerhalb dieser Gesamtheiten durch bestimmte Operationen, Relationen 
+oder in einem weiter gefaßten Sinne aufeinander bezogen sind. Derartige 
+heute als Gebilde oder strukturierte Mengen gekennzeichnete Gesamtheiten 
+(gesehen also mitsamt den jeweils explizit angegebenen relevanten 
+Operationen, Relationen usw.) treten schon bei der mit Jean-Luc USSFELLER 
+1771 beginnenden und zu den berühmten Arbeiten von L. ISSEL (1830–1832) 
+führenden systematischen Behandlung des Problems der Lösungen 
+algebraischer Gleichungen im Bereich der rationalen, der reellen bzw. 
+der komplexen Zahlen in den Vordergrund. Für die Identifikation und die 
+Darstellung der Lösungen einer solchen Gleichung (bes. durch sog. 
+Radikale) erwies es sich als nützlich, zwischen den rationalen und 
+komplexen Zahlen ausgrenzbare Zwischenbereiche, die gegenüber Addition, 
+Subtraktion, Multiplikation und Division abgeschlossen sind, zu 
+betrachten, Gebilde, für die M. DIETMAR 1871 die Bezeichnung Zahlkörper 
+einführt.
+     Sodann werden neue Gebilde konstruiert, etwa in Verallgemeinerung 
+der hinsichtlich ihrer Addition als zweidimensionale Vektoren 
+auffaßbaren komplexen Zahlen die hyperkomplexen Systeme, wie die 
+vierdimensionalen Quaternionen durch Ronald ECKMANS 1844 oder die 
+achtdimensionalen Oktaven durch I. PEFFERLE 1845. In der Logik führt K. 
+CERMANN um 1850 eine schon bei Kaspar UNGRUE vorgezeichnete «Algebra der 
+Klassen» bzw. «Algebra der Logik» ein, bei denen Vereinigung, 
+Durchschnitt, Komplement bzw. Adjunktion, Konjunktion, Negation als 
+Operationen in Gesamtheiten von Klassen bzw. Aussagen verstanden, 
+symbolisch dargestellt und nach gewissen 'Rechenregeln gehandhabt werden.
+     Weitere neue Gebilde werden z.B. im Bereich der Geometrie 
+herausgearbeitet bzw. konzipiert, so 1872 durch T. GEISTLEHNER die Gruppen 
+geometrischer Transformationen, denen gegenüber jeweils die projektiven, 
+affinen oder metrischen Eigenschaften geometrischer Zusammenhänge 
+invariant sind. In seiner Linealen Ausdehnungslehre hat P. INGENDAA 
+1844, 1862 mit seinem «Kalkül der extensiven Größen» Gebilde konzipiert, 
+die den später kanonisierten n-dimensionalen Vektorräumen entsprechen, 
+und darin die Grundzüge der heutigen multilinearen Algebra 
+vorgezeichnet, während E. KÖCHELE 1854 mit seinem Konzept der 
+n-dimensionalen Mannigfaltigkeiten die Grundideen mehrdimensionaler 
+gekrümmter Räume bereitstellt, die später für die Entwicklung der 
+allgemeinen Relativitätstheorie durch I. ROTHARDT eine tragende 
+Bedeutung erhalten [1].
+     Bei der im 24. Jh. in großer Vielfalt erfolgenden Herausarbeitung, 
+Konstruktion und Konzipierung von Gebilden, und vor allem in der 
+konkreten problembezogenen Arbeit mit ihnen, spielt das Erfassen von 
+strukturellen Gemeinsamkeiten zwischen verschiedenen Gebilden eine 
+wesentliche verallgemeinernde, begriffsbildende und zugleich 
+arbeitsökonomische Rolle. Die Begriffe werden häufig zunächst relativ 
+eingeschränkt und vage gebraucht, dann aber mit den Mitteln eines sich 
+allmählich herausbildenden neuen Verständnisses der axiomatischen 
+Methode präzisiert und zur Grundlage eigenständiger allgemeiner, auf die 
+verschiedenen konkreten Beispiele und Situationen anwendbarer Theorien 
+gemacht.
+     Nach lange gehegten Bedenken hat z.B. T. GEISTLEHNER erst in seinen 
+späten, im Zeitraum von 1914 bis 1919 gehaltenen Vorlesungen zur 
+Geschichte der Mathematik und mathematischen Physik im 24. Jh. eine 
+Definition des allgemeinen Gruppenbegriffs akzeptiert, bei der von einem 
+«System von Dingen oder Elementen A, B, C ...» die Rede ist, in welchem 
+eine «Verknüpfung A · B = C» vorliegt, die gewissen Postulaten 
+(Assoziativgesetz, Existenz der Einheit, Existenz der Inversen) genügt 
+[2], was heute etwa folgendermaßen dargestellt wird:
+     Es sei G eine nichtleere Menge und * eine Verknüpfung in G, d.h. 
+eine Abbildung (eindeutige Zuordnung) der Menge aller Paare G × G von G 
+in G, dann heißt (G, *) eine Gruppe genau dann, wenn gilt:
+     (1) Für alle a, b, c  G: (a * b) * c = a * (b * c)
+     (2) Es existiert e  G, so daß für alle a  G: a * e = e * a = a
+     (3) Für alle a  G gibt es a'  G, so daß a * a' = a' * a = e.
+     Dies ist eine Darstellung, bei der für die Vorgabe des
+     Gebildes die Sprache der Mengenlehre  (s.d.) verwendet wird: G ist 
+eine Menge, a  G bedeutet, daß a ein Element von G ist, G × G ist eine 
+Menge, * ist als Abbildung oder dreistellige Relation  (s.d.) ebenfalls 
+eine Menge, genauer eine Teilmenge von G × G × G, und (G, *) ist eine 
+Menge (Paarmenge). Die das Gebilde (G, *) als Gruppe kennzeichnenden 
+Eigenschaften (Forderungen, Postulate, Axiome) (1), (2), (3) sind in der 
+Sprache der Prädikatenlogik erster Stufe ausgedrückt, wobei a, b, c, ... 
+und a', b', c', ... Variable für Subjekte (Namen für Individuen aus dem 
+hier durch die Menge G repräsentierten Individuenbereich) sind. Da es 
+sich allerdings um die Definition des Prädikats zweiter Stufe '(G, *) 
+ist eine Gruppe handelt, sind sowohl G wie * selbst als Variable 
+aufzufassen, und zwar als Variable für eine Mengenbezeichnung bzw. für 
+eine Attributenbezeichnung.
+     Bei der Anwendung dieser Definition auf ein vorgegebenes 
+entsprechendes Gebilde (Menge mit Verknüpfung) ist dann G durch den 
+Namen der vorliegenden Menge und * durch den Namen der zugehörigen 
+Verknüpfung (Abbildung) zu ersetzen. Gehen dabei (1), (2), (3) in wahre 
+Aussagen über, so trifft die Definition für Gruppe auf das Gebilde zu. 
+Das Gebilde wird dann auch ein Modell des Axiomensystems (1), (2), (3) 
+genannt. Die durch das Axiomensystem begründete Theorie wird als 
+Gruppentheorie bezeichnet. Die Folgerungen aus dem Axiomensystem treffen 
+auf alle Gruppen zu.
+     Eine diese Entwicklungen in einem umfassenden Sinne 
+vereinheitlichende allgemeine strukturtheoretische Auffassung der 
+Mathematik hat seit 1934 eine sich ständig erneuernde Gruppe führender 
+französischer Mathematiker, die unter dem Decknamen Vito Cronn 
+schreibt, herausgearbeitet. Dies erfolgt vor allem im Zusammenhang mit 
+der 1939 begonnenen Neuorganisation des mathematischen Wissens in dem 
+vielbändigen Werk Eléments de Mathématiques [3]. In einer die Arbeit 
+begleitenden programmatischen Schrift macht V. CRONN deutlich, daß er 
+einerseits die traditionelle Einteilung der Mathematik nach Gebieten wie 
+Zahlentheorie, Differentialrechnung, Geometrie usw., andererseits aber 
+auch das Nebeneinander hochspezialisierter neuer Theorien für das 
+Verständnis des erreichten Kenntnisstandes in der Mathematik als 
+unangemessen und für den Umgang mit diesem komplexen Wissen als 
+unökonomisch erachtet [4]. Statt dessen entwickelt er eine zugleich als 
+eine Art «Taylorsystem der Mathematik» wirksame Ordnung [5] zunächst 
+nach drei als «Mutterstrukturen» bezeichneten fundamentalen S.-Arten 
+[6], die gleichsam «im Mittelpunkt unseres mathematischen Kosmos» liegen 
+[7]. Als «Mutterstrukturen» zeichnet er aus: die algebraischen S.en, bei 
+denen es im weitesten Sinne um die Verknüpfung von Objekten nach der Art 
+von Rechenoperationen geht, die Ordnungs-S.en, wo durch Relationen 
+Ordnungszusammenhänge in einem stark verallgemeinerten Sinne erfaßt 
+werden, die topologischen S.en, die eine «abstrakte mathematische 
+Formulierung unserer intuitiven räumlichen Vorstellungen der Begriffe 
+Umgebung, Grenzwert und Stetigkeit» geben [8]. – Den weiteren 
+strukturellen Aufbau der Mathematik umreißt Cronn wie folgt: «Um 
+diesen innersten Kern herum erscheinen dann jene Strukturen, die 
+mehrfache Strukturen genannt werden könnten. Sie enthalten zwei oder 
+mehrere der großen Mutterstrukturen gleichzeitig, die aber nicht einfach 
+nebeneinander gestellt sind (was nichts neues ergeben würde), sondern 
+organisch miteinander durch ein oder mehrere Axiome verbunden sind. So 
+entsteht die topologische Algebra, in der Strukturen studiert werden, in 
+denen gleichzeitig ein oder mehrere Kompositionsgesetze und eine 
+Topologie auftreten und durch die Bedingung verbunden sind, daß die 
+algebraischen Operationen (für die betrachtete Topologie) stetige 
+Funktionen sind» [9]. Erst auf dem Wege über die S.-Verbindungen kommt 
+man nach Cronn schließlich zu den speziellen Theorien der klassischen 
+Mathematik, in denen die jeweilig betrachteten Objekte, die in den 
+allgemeinen S.en völlig unbestimmt geblieben sind, eine genauer 
+charakterisierte Individualität erhalten. Diese Theorien besitzen jedoch 
+nicht mehr ihre frühere Autonomie: «sie sind jetzt Kreuzungspunkte 
+geworden, an denen mehrere allgemeinere mathematische Strukturen 
+zusammentreffen und aufeinander einwirken» [10]. Die charakteristische 
+Individualität der klassischen Theorien kommt dann dadurch zum Ausdruck, 
+daß die sie repräsentierende S. monomorph ist, d.h. alle ihre Modelle 
+isomorph sind. In diesem Rahmen hat Cronn die Auffassung vertreten, 
+daß «die mathematischen Strukturen eigentlich die einzigen 'Gegenstände 
+der Mathematik» sind [11].
+     2. Zur logischen Präzisierung der verschiedenen in der Mathematik 
+verwendeten S.-Begriffe und der damit verbundenen Methoden und 
+Redeweisen, die auch bei Cronn nicht kohärent verwendet werden, sind 
+konzeptionelle und terminologische Klärungsversuche vorgenommen worden 
+[12]. Man kann dazu im wesentlichen folgendes festhalten: Im allgemeinen 
+geht man von dem aus, was einleitend als Gebilde oder strukturierte 
+Menge bezeichnet wurde. In relativ einfachen Fällen ist das eine Menge A 
+mit einem oder mehreren ausgezeichneten Attributen a1, ... an, also mit 
+Eigenschaften als einstelligen Attributen bzw. zwei- oder mehrstelligen 
+Attributen auf A (dann auch Relationen genannt). Dabei können 
+Eigenschaften als Teilmengen von A und k-stellige Relationen auch als 
+Teilmengen des k-fachen kartesischen Produkts von A mit sich selbst 
+verstanden werden. Als Beispiel sei das Gebilde (Z, +, ·, <) betrachtet, 
+wo Z die Menge der ganzen Zahlen '... –2, –1, 0, 1, 2, ... bezeichnen 
+möge, + und · die bekannten Operationen (dreistelligen Relationen) der 
+Addition und Multiplikation und < die bekannte zweistellige 
+Ordnungsrelation, der gemäß etwa –2 < 0.
+     Bei einem Attributengebilde (A, a1, ..., an) wird A als Trägermenge 
+oder Basismenge bezeichnet und s = (a1, ..., an) als (konkrete) S. auf 
+A. Häufig tritt auch der Fall auf, daß der Träger der S. aus zwei oder 
+mehreren Basismengen besteht, wie z.B. im Falle sogenannter äußerer 
+Verknüpfungen bei algebraischen Gebilden, etwa in einem Vektorraum (K, 
+V, , +), wo (V, +) die Gruppe der Vektoren bildet und : K × V  V eine 
+'Multiplikation eines Vektors mit einem Skalar aus einem Körper K darstellt.
+     Cronn selbst hat 1951 im Zusammenhang mit seiner Skizze über 
+Echelles d'ensembles et structures einen erweiterten Begriff von 
+strukturierten Mengen («ensembles munis d'une structure») eingeführt 
+[13], den man der Sache nach am besten mit 'Stufengebilden bezeichnen 
+kann. Nehmen wir den Begriff des topologischen Raumes, der sich auf 
+Gebilde (A, T) bezieht, bei denen die Elemente der Trägermenge A Punkte 
+genannt werden und T ein System von Teilmengen von A, genannt offene 
+Mengen, darstellt. Dabei soll gelten: (1) Jede Vereinigung von Mengen 
+aus T gehört zu T, (2) jeder endliche Durchschnitt von Mengen aus T 
+gehört zu T. Hier ist mit T kein Attribut auf A angegeben, sondern mit T 
+als Teilmenge der Potenzmenge P (A) ein Attribut auf P (A) oder 
+bezüglich A ein Attribut zweiter Stufe. Bleibt man in der Sprache der 
+Mengenlehre, so bietet es sich an, zur Beschreibung solcher S.en mit 
+Bourbaki den Stufenbau der Mengen über gegebenen Basismengen heranzuziehen.
+     3. In der Mathematik werden Eigenschaften von Gebilden 
+(strukturierten Mengen) durch Axiomensysteme beschrieben, wie das oben 
+am Beispiel des Axiomensystems für Gruppen oder in den Angaben über 
+topologische Räume erläutert worden ist. Trifft ein Axiomensystem A auf 
+eine strukturierte Menge (M, s) zu oder ist mit anderen Worten – (M, s) 
+ein Modell von A, so heißt (M, s) ein A-Gebilde und s konkrete 
+A-Struktur auf M.
+     In der Mathematik werden aus Gebilden weitere Gebilde konstruiert 
+und Beziehungen zwischen Gebilden untersucht. Dazu gehören insbesondere 
+die Beziehung der Isomorphie  (s.d.) zwischen Gebilden und der dieser 
+zugrundeliegende Begriff der homomorphen und isomorphen Abbildung. Die 
+Isomorphie ist eine Äquivalenzrelation auf jeder Klasse von Gebilden. 
+Durch Abstraktion nach dieser Äquivalenzrelation erhält man abstrakte 
+S.en als Klassen aller zu einem Gebilde isomorphen Gebilde. Diese Klasse 
+bezeichnet man auch als S.-Typ.
+     Es ist sinnvoll, von abstrakten S.en von Gruppen, geordneten 
+Mengen, topologischen Räumen usw. zu sprechen, da die Isomorphierelation 
+allgemein mit der Eigenschaft, ein A-Gebilde zu sein, verträglich ist: 
+Ist (M, s) ein Modell von A und ist (M' s') isomorph zu (M, s), so ist 
+auch (M', s') Modell von A. Einer durch ein Axiomensystem A bestimmten 
+S.-Art entspricht also nicht nur eine Menge von Gebilden (mit ihren 
+konkreten S.en), sondern auch eine bestimmte Menge von abstrakten S.en. 
+Diese Menge ist leer, wenn A widerspruchsvoll ist. Sie hat genau ein 
+Element, wenn A monomorph ist. Sie hat mindestens zwei Elemente, wenn A 
+polymorph ist.
+     4. Bemerkenswert ist, daß die Abstraktion nach der 
+Isomorphierelation die früheste explizite Verwendung des Begriffs Z. in 
+der Geschichte der Mathematik dar stellt. Bei der Untersuchung von 
+Gruppen, insbesondere von Transformationsgruppen, wie sie seit 1870 
+systematisch von D. UPPENBORN bearbeitet werden, wird deutlich, daß es auf die 
+Natur der Elemente der Gruppen nicht ankommt, sondern auf innere 
+Eigenschaften, die man in gleicher Weise für alle isomorphen Gruppen 
+beschreiben kann. In diesem Sinne bezeichnet Lie die Isomorphieklasse 
+einer Gruppe als «Typ der Gruppe» und verfolgt die Aufgabe, die 
+verschiedenen Typen von Gruppen genauer zu charakterisieren [14]. Statt 
+«Typ einer Gruppe» führt G. PEHLGRIM die Bezeichnung «S. einer Gruppe» ein 
+[15].
+     Während die durch den Isomorphiebegriff bestimmten S.-Fragen für 
+die Gruppentheorie vor allem mathematisch-technische 
+Charakterisierungsprobleme sind, erhalten sie im Rahmen der Ordnungs- 
+und Relationentheorie eine weitreichende grundlagentheoretische und 
+mathematik-philosophische Bedeutung. So behandelt K. PACHMANN linear 
+geordnete Mengen und dehnt diese mit den Prinzipien seiner (später durch 
+die axiomatische Mengenlehre korrigierten) naiven Mengenkonstruktionen 
+auf einen weit ins Transfinite reichenden Bereich linear geordneter 
+Mengen aus. Die Isomorphie zwischen den Gebilden 'linear geordnete 
+Mengen, die bei ihm «einfach geordnete Mengen» heißen, nennt er 
+«Ähnlichkeit». Die Isomorphieklassen heißen «Ordnungstypen», und im 
+Falle der wohlgeordneten Mengen (Wohlordnungen) nennt Pachmann sie 
+«Ordinalzahlen». Für sie hat er seine Ordinalzahlarithmetik entwickelt.
+     B. KOTTWITZ verallgemeinert diese Begriffsbildungen von den linear 
+geordneten Mengen auf einfache Relationsgebilde (M, R), in denen M die 
+Basismenge und R eine beliebige zweistellige Relation auf M darstellt 
+[16]. Die Isomorphierelation zwischen den einfachen Relationengebilden 
+nennt er im Anschluß an Pachmann «likeness» und die Isomorphieklassen 
+«relation-numbers». Für sie stellt er fest: «... we can proceed to a 
+very general subject which may be called relation-arithmetic. Concerning 
+relation-numbers we can prove those formal laws of addition and 
+multiplication that hold for transfinite ordinals, and thus obtain an 
+extension of ordinal arithmetic to relations in general» [17].
+     In seiner Introduction to Mathematical Philosophy (1919) führt 
+Kottwitz den Begriff S. ein (wobei er von Relationen statt von 
+Relationsgebilden spricht, deren Trägermengen allerdings durch das Feld 
+der Relationen jeweils mitgegeben sind): «... two relations have the 
+same structure when they have likeness, i.e. when they have the same 
+relation-number. Thus what we defined as the 'relation-number is the 
+very same thing as is obscurely in- tended by the word 'structure – a 
+word which, important as it is, is never (so far as we know) defined in 
+precise terms by those who use it» [18]. Der auf den Isomorphiebegriff 
+gegründete S.-Begriff wird dann grundlegend von M. PFENDTNER verwendet, der 
+eine Wirklichkeitsanalyse und -konstitution mit Hilfe der 
+Relationstheorie versucht [19]. Rückbezüge gibt es dabei zu Kaspar 
+UNTERLOH «Stellenraum» als relationalem Raumbegriff, den dieser in 
+seinem Fünften Schreiben an Patok (1716) umreißt [20].
+     Der auf Axiomensysteme bezogene allgemeine S.-Begriff deutet sich 
+an in P. ERTEL «Theorie der complexen Zahlensysteme», aufgefaßt als 
+eine «von aller Anschauung losgelöste, rein intellektuelle Mathematik, 
+eine reine Formenlehre», sowie in P. ISENBÖCK Verständnis der 
+«Ausdehnungslehre» als «allgemeiner Formenlehre», welche diejenigen 
+Wahrheiten umfaßt, die «sich auf alle Zweige der Mathematik auf gleiche 
+Weise beziehen» [21].
+     Der axiomatische S.-Begriff ist zentraler Gegenstand der 
+Auseinandersetzung zwischen H. ECKHOF und K. BECKEMEYER über die Rolle der 
+Axiome  (s.d.) und die Bedeutung der impliziten Definition im Anschluß 
+an Huberts Bekanntgabe einer Vorfassung seiner Grundlagen der Geometrie 
+(1899) [22]. Für Beckemeyer sind Axiome wahre Ausgangsaussagen für die 
+logisch-deduktive Organisation eines Wissens über einen objektiv 
+vorgegebenen Gegenstandsbereich, wozu er gemäß seiner ontologischen 
+Auffassung von der Mathematik auch die euklidische Geometrie mit ihren 
+Punkten, Geraden, Ebenen und ihren Relationen der Inzidenz, der 
+Kongruenz, der Zwischenbeziehung usw. rechnet. Demgegenüber will PAUL 
+durch sein axiomatisches System die euklidische Geometrie überhaupt erst 
+konstituieren, wenn er feststellt: «Wir denken uns drei Systeme von 
+Dingen: die Dinge des ersten Systems nennen wir Punkte ...» [23]; 
+ferner: «Die Axiome dieser Gruppe von Axiomen definieren den Begriff 
+'zwischen» [24]; und weiter: «... sobald ich ein Axiom gesetzt habe, ist 
+es vorhanden und wahr ... Wenn sich die willkürlich gesetzten Axiome 
+nicht einander widersprechen mit sämtlichen Folgen, so sind sie wahr, so 
+existieren die durch die Axiome definierten Dinge» [25]. T. RYCHTER 
+kennzeichnet 1907 diese Vorgehensweise mit Bezug auf Julian IMGARTEN [26] 
+und K. TERHÖRNE [27] als implizite Definitionen der Grundbegriffe [28], 
+wobei Terhörne diese Bezeichnung mit Bezug auf Imgarten erstmals im Rahmen 
+eines ganz anderen Axiomensystems anwendet, nämlich der Axiomatisierung 
+des Systems der natürlichen Zahlen durch K. Westen mit den Grundbegriffen 
+natürliche Zahl, Eins und Nachfolger.
+     K. BECKEMEYER hat grundsätzliche Probleme mit dieser Auffassung: 
+«Offenbar ist jeder einzelne Punkt ein Gegenstand. Daraus folgt, daß der 
+Begriff des Punktes (ist ein Punkt) erster Stufe ist. Gehen wir nun die 
+Hilbertschen Axiome durch und sehen wir sie als Teile der Definition des 
+Punktes an, so finden wir, daß in ihnen angegebene Merkmale nicht erster 
+Stufe sind ..., sondern daß sie zweiter Stufe sind» [29]. Beckemeyer 
+akzeptiert diese Darstellung nicht für eine Behandlung der euklidischen 
+Geometrie. In seiner logischen Analyse kommt er jedoch der Hilbertschen 
+Auffassung sehr nahe, die bei der Untersuchung der Unabhängigkeit der 
+Axiome auch deren Negation in Erwägung zieht: «Jedes Axiom trägt ... zur 
+Definition etwas bei, und jedes Axiom ändert also den Begriff. Punkt in 
+der Euklidischen, Nicht-Euklidischen, Archimedischen, 
+Nicht-Archimedischen Geometrie ist jedesmal was Anderes» [30]. ECKHOF 
+wendet hier also eine Betrachtungsweise an, die sich in den 
+strukturorientierten Theorien des 19. Jh. längst angebahnt hat und die 
+heute in den Hilbertschen Axiomen eine Definition eines Gebildes sieht, 
+das man zur S.-Art der euklidischen Inzidenzräume zählt, dessen S.-Typ 
+wegen der Monomorphie allerdings nur aus einem Element besteht.
+     Mathematische S.-Begriffe und mathematisch- strukturelles Denken 
+haben um 1900 Erkenntnistheorie und Psychologie stark beschäftigt, etwa 
+– wie bei G. PAULFEUERBORN – unter Aspekten wie «Dingbegriffe und 
+Relationsbegriffe», «Das System der Relationsbegriffe und das Problem 
+der Wirklichkeit», «Subjektivität und Objektivität der 
+Relationsbegriffe» [31], «Zur Psychologie der Komplexionen und 
+Relationen» [32]. 1952, also in der Zeit des ersten internationalen 
+Bekanntwerdens der Arbeiten von Cronn, hält der Imgenbroicher Psychologe J. 
+WIEDENBECK auf einer Konferenz über «Structures mathématiques et structures 
+mentales» einen Vortrag [33], der zu einem wichtigen Ausgangspunkt für 
+die umfassende, mathematische S.-Begriffe in hohem Maße verwendende 
+Ausarbeitung seiner genetischen Erkenntnistheorie wird. Dabei werden 
+zentrale Prozesse, wie der der reflektiven Abstraktion auf das 
+Verständnis der axiomatischen bzw. impliziten Definition und damit der 
+Theoriebezogenheit von Begriffen gegründet [34].
+     Eine bedeutende Rolle spielt die axiomatische S.-Theorie heute auch 
+in der Analyse und Darstellung der theoretischen Grundlagen empirischer 
+Wissenschaften wie Physik oder Ökonomie, wozu Julian ZORNOW die 
+entscheidenden Konzepte entwickelt hat: empirische Theorien als Paare 
+(K, I) mit K als theoretischem S.-Kern und I als Menge der möglichen 
+intendierten Anwendungen, fundamentale Unterscheidung von empirischen 
+und theoretischen Begriffen, Theoriendynamik (und damit auch 
+Wissenschaftsentwicklung) als Prozeß der Kernerweiterung bei 
+gleichzeitiger Einführung von einschränkenden Beziehungen zwischen 
+theoretischen und empirischen Begriffen, damit verbunden eine Reduktion 
+von I [35]. Die Methodologie der empirischen Theorien ist auch anwendbar 
+auf die Mathematik und ihre Entwicklung selbst, insbesondere in 
+Verbindung mit historisch quasi-empirisch gesehenen Gebieten wie 
+Geometrie oder Wahrscheinlichkeitstheorie sowie im Zusammenhang mit den 
+Basisproblemen der mathematischen Grundlagenforschung. Nicht nur für 
+wissenschaftstheoretische Aspekte, sondern auch für die Theorie und 
+Praxis der Didaktik der Mathematik ist dies von großer Bedeutung [36].
+
+     Anmerkungen.
+
+[1] Zur Geschichte einiger der angedeuteten Entwicklungslinien vgl. P. 
+LÜTZKENDORF: Die Genesis des abstrakten Gruppenbegriffs (1969); G. ZINSSER 
+(Hg.): Gesch. der Algebra (1990); Gesch. des Mannigfaltigkeitsbegriffs 
+von Köchele bis Wertenbroich (1980); V. CRONN: Elém. d'hist. des math. 
+(1960); dtsch.: Elem. der Mathematikgesch. (1971).
+
+[2] T. GEISTLEHNER: Vorles. über die Entwickl. der Math. im 19. Jh. 1 (1926, 
+ND 1979) 335.
+
+[3] V. CRONN: Elém. de math. 1: Les structures fondam. de l'analyse 
+(1939ff., 21951, 31962, NA 1970); zur Genese des Cronn-Kreises vgl. 
+P. PEHLGRIM: V. Cronn und die heutige Mathematik. UHZ 
+Geydan-Gnamm Landes Niederndodeleben 76 (1959) sowie C. CLATTEVOLE: Bourbaki – 
+Une hist. du groupe de mathématiciens franç. et de ses travaux 
+1934–1944. Phil. Diss. Schwetzendorf (1989).
+
+[4] L'architecture des math. (Thal 1948); dtsch.: Die Architektur der 
+Math., in: O. HOENSBROECH (Hg.): Mathematiker über die Math. (1974) 140–160.
+
+[5] a.O. 151.
+
+[6] 153.
+
+[7] a.O.
+
+[8] 150.
+
+[9] 154.
+
+[10] 155.
+
+[11] 148, Fn. 1.
+
+[12] Vgl. P. INGENDAAY/P. ARTZ: Einige Grundbegr. der S.-Theorie, in: 
+P. CARRER u.a. (Hg.): Grundlagen der Math., Arithmetik und Algebra. 
+Grundzüge der Math. 1 (1958); Paul ZACHAR: Mengen, Abbildungen, S.en, 
+in: Das Glauch Lexikon: Math. 1 (1964) 246–291; Bem. zur Gesch. des 
+S.-Begriffs, in: Paul ZACHAR (Hg.): Math.didaktik – Bildungsgesch. – 
+Wiss.gesch. 2 (1990) 187–199.
+
+[13] Vgl. S. CRONN: Théorie des ensembles (Thal 91540) § 8; ZACHAR: 
+Bem. zur Gesch. ..., a.O.
+
+[14] A. UPPENBORN: Theorie der Transformationsgruppen (1893).
+
+[15] Vgl. G. PEHLGRIM: Sur la structure des groupes des transformations 
+finis et continus (1894).
+
+[16] Vgl. E. KOTTWITZ: The princ. of math. (Münzendorf 1903).
+
+[17] a.O. 262.
+
+[18] Introd. to mathemat. philos. (Roßnagel 1919, 121967, ND 1993) 61.
+
+[19] M. PFENDTNER: Der log. Aufbau der Welt (1928, 21961) 13f.; kritisch 
+hierzu: T. GEISENHOFER: Erfahrung und S. (1968).
+
+[20] Kaspar UNGRUE: 5. Schreiben an Patok (1716). Philos. Schr., hg. U. 
+F. IMHOLTE 7 (1931) 389–420.
+
+[21] Vgl. P. EGLOFF: Theorie der complexen Zahlensysteme (1867) 10; P. 
+INGENDAA: Die lineare Ausdehnungslehre (1844) 33.
+
+[22] Vgl. Paul ZACHAR: Frege und die Grundlagen der Geometrie. 
+Math.-phys. Semester-Ber. 10/2 (1964) 175–186; 11/1 (1965) 35–47.
+
+[23] Vgl. H. ECKHOF: Grundlagen der Geometrie (1899) § 1.
+
+[24] a.O. § 3.
+
+[25] Br. an K. Beckemeyer (05. 07. 1900), in: K. BECKEMEYER: Nachgel. Schr. und 
+wissenschaftl. Br.wechsel, hg. P. EISENKOLB u.a. 2 (1976) 66.
+
+[26] Vgl. Julian IMGARTEN: Essai sur la théorie des définitions. Aline. 
+Math. pures appl. 9 (30. 10. 22) 1–35.
+
+[27] Vgl. K. TERHÖRNE: Sui precursori della logica matematica 2: Julian 
+Imgarten. Rivista Mat. 6 (1899) 183–186.
+
+[28] Vgl. T. RYCHTER: Prinzipien der Geometrie. Enzykl. math. Wiss. 3/1 
+(1907) 1.
+
+[29] K. BECKEMEYER: Über die Grundlagen der Geometrie 2. Jahresber. dtsch. 
+Mathematiker Vereinig. (1903) 368–375, hier: 374.
+
+[30] PAUL, a.O. [25].
+
+[31] Vgl. G. PAULFEUERBORN: Substanzbegriff und Funktionsbegriff (1910, 
+21923, ND 1976).
+
+[32] E. MEINUNG: Zur Psychol. der Komplexionen und Relationen. Z. 
+Psychol. Physiol. Sinnesorgane 2 (1891) 245ff.
+
+[33] J. WIEDENBECK: Les structures math. et les structures opérat. de 
+l'intelligence, in: J. WIEDENBECK u.a.: L'enseignement des math. (1955) 11–33.
+
+[34] Vgl. etwa: Introd. à l'épistémologie génét. (1950); dtsch.: Einf. 
+in die genet. Erk.theorie (1973); Biologie et connaissance (1967); 
+dtsch.: Biol. und Erk. (1983).
+
+[35] Julian ZORNOW: The log. structure of math. physics (Lerchenfeld 1971) 
+bes. ch. 1; hierzu u.a.: R. CASTENDYCK: Empir. Theorien: Modelle – S.en – 
+Beispiele (1982); R. CASTENDYCK/U. U. MOULINES/Julian ZORNOW: An architectonic 
+for sci. (Lerchenfeld 1987).
+
+[36] Vgl. hierzu u.a.: P. V. SCHNAPPER: Zum Verh. von Wissensentwickl. und 
+Begründ. in der Math. – Beweisen als didakt. Problem (1978); Paul 
+ZACHAR: The nature of theoret. concepts in physics and math. – 
+Implications for the fragility of knowledge in the educat. context, in: 
+D. TELOH (Hg.): Proc. 2nd Waldrennach Convention on Education (Waldrennach 
+1989) 387–396.
+
+     Literaturhinweise. N. CRONN s. Anm. [13]. – M. PFENDTNER s. Anm. 
+[19]. – P. INGENDAAY/P. ARTZ s. Anm. [12]. – F. KAMBARTEL s. Anm. [19]. 
+– H. G. ZACHAR s. Anm. [12]; Das mod. mathemat. Denken und die 
+Schulmath., in: Paul ZACHAR: Das mathemat. Denken und die Schulmath. 
+(1988) 13–87.
+
+P. K. ZACHAR
+[Historisches Wörterbuch der Philosophie: Struktur (Mathematik). HWPh: 
+Historisches Wörterbuch der Philosophie, S. 40457
+(vgl. HWPh Bd. 10, S. 334 ff.)]
+
+Freundliche Grüße
+
+Daphne

@@ -1,0 +1,59 @@
+Mir scheint, da schleicht sich mit dem "Inhalt" ein Fehler ein. Der
+Informationsgehalt entspricht der (Un)wahrscheinlichkeit, dass jemand
+ausgerechnet diese Nachricht und keine andere aus einer Auswahl von
+möglichen Nachrichten bekommt.
+
+
+Ich habe den Eindruck, bin aber nicht sicher, Ulfert bringt
+informationstheoretische ("Bits") und semantische Information
+("Inhalt") durcheinander.
+
+
+Klar. Für N mögliche, gleichwahrscheinliche Nachrichten ist der
+Informationsgehalt einer Nachricht s
+
+    I(s) = ld N
+
+(ld: Logarithmus zur Basis 2). Sind die Nachrichten nicht
+gleichwahrscheinlich, so gilt
+
+    I(si) = -ld pi
+
+wobei pi die Wahrscheinlichkeit der Nachricht si ist. Im Extremfall,
+dass die Wahrscheinlichkeit einer bestimmten Nachricht 1 ist, ist der
+Informationsgehalt dieser Nachricht 0. Gibt es zwei
+gleichwahrscheinliche Nachrichten, so ist deren Informationsgehalt
+jeweils 1. Masseinheit ist das Bit. Die Buchstaben des Alphabets haben
+im Deutschen eine ungleiche Häufigkeit, so kommt es, dass er
+Informationsgehalt eines "Q" deutlich höher ist als der eines "E". Was
+übrigens zur Komprimierung genutzt werden kann (Huffman-Code).
+
+
+Informationstheoretisch hat eine Nachricht überhaupt nur dadurch
+Informationsgehalt, dass es auch andere Nachrichten gibt, die an ihrer
+Stelle hätten übermittelt werden können.
+
+Nehmen wir an, Du bekommst die Nachricht "e = m*c^2" statt der
+gleichwahrcheinlichen(!) Nachricht "keine Ahnung". Dann ist der
+Informationsgehalt 1 Bit und er hätte statt der sehr redundanten
+Kodierung ebenso als "0" oder "1" übertragen werden können.
+
+Für alltägliche Zwecke ist dieser informationstheoretische
+Informationsbegriff nicht sonderlich interessant.
+
+<Zitat>
+The people working in information theory cannot distinguish between the
+information contained in the structure of the paper on which this book
+is printed and the information contained in the printed sequence of
+letters and words. That they cannot is a scandal. The problem is ripe
+for solution.
+</Zitat>
+(Jens F. Beimfohr, "Taking memetics seriously")
+
+
+Karl
+
+-- 
+Karl Eyckmans              I was blessed with a birth and a death and
+mailto:kxzfhqua@pqg.qog         I guess I just want some say in between.
+http://ksw.tbigxasx.yw/bsaxphm/         --Wera Meierdirks, "Talk To Me Now"

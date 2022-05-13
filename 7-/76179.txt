@@ -1,0 +1,26 @@
+Ich hatte einfach beim Lesen "laut gedacht" ;)
+
+Eine Matrix enthält von der Idee her gleichartige Elemente, 
+z.B. ganze Zahlen oder irgendwelche Vektoren, oder irgendwelche
+Abbildungen wie z.B. Funktionen. Aus dem Rang einer Matrix ergibt 
+sich deren Dimensionen. Der Dimensionsbegriff ist ja viel 
+allgemeiner gefaßt als die Vorstellung der Dimensionen des 
+euklidischen Raumes. 
+
+Nun sagste du "einzuschreibender Elemente räumlicher Orientierung"
+und meinst, daß wir die gleichartigen Elemente irgendwie eine 
+Richtung geben können müssen, sonst brauchen wir ja keine 
+Dimensionen. (Wenn man bestimmte qualitative Aussagen über die 
+Längenelemente und die möglichen (Punkt-)Elemente (Positionen) in 
+einem Raum machen kann, hat dieser Raum eine Metrik. Dein obiger 
+Raum wäre dann etwas das, "eine Metrik ausbildet aus bis auf die 
+Orientierung gleichartigen (Längen-)Elementen". Hmm... 
+
+In der Matrix stehen aber eher Punkte mit drei Koordinaten, 
+die selbst keine Richtung haben, erst zwei Punkte ergeben eine 
+Richtung ;) Tja, es ist also schon das schwierig, mit diesen 
+wenigen Worten eindeutig umzugehen... 
+
+
+MfG
+--

@@ -1,0 +1,16 @@
+Tja, das Problem ist aber nunmal, dass es schon bei simplen Implementationen 
+schwer ist das nachzuweisen und versuch das erstmal mit einem Generator wie 
+diesem hier
+
+	ftp://random.mat.sbg.ac.at/pub/publications/peter/aes_sub.ps
+
+am besten in endlicher Zeit, damit ich's noch erlebe.
+
+
+Das habe ich getan. Es beruht darauf, dass es praktisch unmoeglich ist den 
+Unterschied zwischen einer echten Messreihe und ihrer Simulation mittels eines 
+deterministischen Zufallszahlengenerators festzustellen. Wenn Du's mir bisher 
+nicht geglaubt hast, wirst Du's mir allerdings auch jetzt nicht glauben und so 
+hat es wohl wenig Sinn das Thema in diesem Rahmen noch weiter zu iterieren.
+
+     Victor.

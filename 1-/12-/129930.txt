@@ -1,0 +1,55 @@
+Hallo Karsten!
+
+
+Koenntest Du dafuer einen Beleg bringen? Davon abgesehen habe ich
+nicht behauptet, man koenne mit einer Turingmaschine das gesamte
+Spektrum menschlichen Denkens erklaeren, sondern nur, dass sie eine
+Beschreibung des Gehirns darstellt, wenn ein Kuenstliches Neuronales
+Netz eine Beschreibung des Gehirns darstellt.
+
+
+J.Osthus, "Grundprobleme der Philosophie des Geistes", Wildcat 2001.
+
+
+Tut mir leid, ich habe das immer noch nicht verstanden :-(
+
+
+Warum? Ich kann fuer jeden Moment angeben, wer sich in welchem Zimmer
+aufhaelt (bzw. ich koennte, wenn ich Algorithmus und Intention
+verstanden haette). Warum ist das denn unvollstaendig?
+
+
+??? Braucht man nicht immer "definierte Zustaende", um irgendwelche
+Aussagen treffen zu koennen? 
+
+Warum sollte denn eine Vorschrift "Startbedingung + sequentieller
+Algorithmus" keine vollstaendige Beschreibung sein? 
+
+Der Algorithmus 
+x[0] = 1
+x[1] = 1
+x[n] = x[n-2] + x[n-1] fuer n > 1
+
+beschreibt die Fibonaccizahlen vollstaendig, selbst wenn ich eine Weile
+rechnen musss, um x[10^8] angeben zu koennen.
+
+
+... die ja auch keiner behauptet hat.
+
+
+Ja, aber das ist doch trivial und das hatte ich auch recht weit am
+Anfang schon geschrieben: eine Turingmaschine ist in sich abgeschlossen 
+und ist deshalb ganz sicher keine vollstaendige Beschreibung des Gehirns.
+
+Ein Kuenstliches Neuronales Netz ist aber ebenso in sich abgeschlossen
+(wenn man den Lernprozess und die Testfaelle hinzunimmt) und stellt
+deshalb genausgut/schlecht eine "Beschreibung" des Gehirns dar.
+
+
+Sicher. Und was hat das mit der Frage zu tun, ob sie eine Beschreibung
+des Gehirns darstellt?
+
+
+Nee, offenbar nicht. Another Loop?
+
+Raymond

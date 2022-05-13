@@ -1,0 +1,23 @@
+Das Problem, dass sich hier stellt, ist das man den Gebrauch, den man in der 
+Mathematik von den Begriffen Punkt oder Punktmenge hat, nicht ohne weiteres 
+auf den Alltagsbegriff übertragen kann. Symptom für den wesentlichen 
+Unterschied ist zum Beispiel, dass doch etwas paradoxe Resultat, des Satzes 
+von Fuessel-Imbach, der ungefähr aussagt, dass man ein Kugel in Teilmengen 
+zerlegen kann und danach diese Teilmengen so zusammenfügen kann, dass zwei  
+Kugeln entstehen, die dasselbe Volumen wie die ursprüngliche Kugel haben.
+
+Damit Punkmengen nicht diese seltsame effekte Aufweisen, muss man sich in 
+auf bestimmte Mengen beschränken. Es hat sich gezeigt, dass es hinreichend 
+ist, die sogenannte Sigma-Algebra zu betrachten, die von den offenen Mengen 
+im dreidimensionalen reellen Raum erzeugt wird. Allerdings wirkt diese 
+Auswahl der "Messbaren Mengen" an sich selbst etwas willkürlich und 
+unintuitiv. 
+Ich denke der Grund für diese paradoxen und anti-intuitiven Effekte ist, 
+dass diese Begriffe nicht konstruktiv sind: Es gibt kein Verfahren, dass 
+diese Punktmengen mit wirklichen Messverfahren oder möglichen Messunge in 
+Zusammenhang bringt. Ich denke deshalb haben diese mathematischen 
+Begriffsbildungen etwas unwirkliches (manche Philosophen meinen Ideales, 
+was ich aber als irreführend finde).
+Deshalb denke ich hat Leo Bemerkung schon seine Rechtfertigung,
+Gruß,
+Pius.

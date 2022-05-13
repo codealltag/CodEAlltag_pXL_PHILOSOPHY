@@ -1,0 +1,148 @@
+Moin Edwin,
+
+
+eigentlich willst Du doch nur N erweitern. Dass Du das mit Mengen
+machst, verwirrt ein wenig.
+Warum nicht M := N u {0}, oder M := N u {-1} (falls wir 0 eh schon als
+natürliche Zahl definieren).
+
+Um auf Deine Frage zurückzukommen (0 sei nicht in N enthalten):
+Ich betrachte die Abbildung f:M->N; n -> n+1, falls n aus N, 1 sonst.
+Diese Abbildung f ist bijektiv.
+
+
+Nein, Du kannst mit der Abbildung jeden Bildpunkt >= 5_n erreichen
+(blöde Notation).
+
+
+Die Frage ist sehr wohl beantwortet, die Antwort lautet: "ja".
+
+
+Nicht bei beliebig ausgewählten Teilmengen, sondern nur bei endlichen
+Teilmengen.
+Wie dem auch sei: Man kann sicher nicht alle Bildelemente einzeln
+hinschreiben, aber das ist auch nicht notwendig. Deine Frage: "Kann man
+alle Elemente von M auf N abbilden?" lautet mathematisch: "Ist f auf M
+definiert und ist f(M) in N enthalten?". Der erste Teil ist laut
+Definition von f klar, denn die Operation +1 kann auf jede natürliche
+Zahl angewendet werden und die 0 wird auf die natürliche Zahl 1
+abgebildet. Daraus folgt schon "f(m) in N", da der Nachfolger n+1 einer
+beliebigen natürlichen Zahl n wieder eine natürliche Zahl ist. Umgekehrt
+gibt es zu jeder natürliche Zahl n (genau) ein Element m aus M
+(Schreibweise: f(M)=N) und das bedeutet: f ist surjektiv. Aus der
+Verschiedenheit natürlicher Zahlen folgt auch die Verschiedenheit der
+Nachfolger und somit die Injektivität von f, also insgesamt die
+Bijektivität von f auf der gesamten Menge M.
+
+Ich brauche also nicht explitit für alle Elemente auf M den
+Funktionswert von f anzugeben um zu wissen, dass ich für alle m aus M
+den Funktionswert f(m) bilden kann und dass f(m) eine natürliche Zahl
+ist.
+
+
+Permutationen auf endliche Mengen in sich sind natürlich Bijektionen.
+Mehr noch: Sei X eine nichtleere endliche Menge, dann gilt:
+1.) f:X->X ist Bijektion <=> f:X->X ist Permutation.
+2.) Sei n:=|X|, dann gibt es n! verschiedene Permuationen.
+
+Aber wie willst Du Permutationen auf unendliche Mengen definieren?
+Und was soll die Permutation einer Abbildung sein?
+
+
+Für den Begriff der Teilmenge wird der Begriff der Abbildung nicht
+benötigt.
+
+
+Bis hierher ist das völlig ok.
+
+
+Warum dieses?
+Ehrlich gesagt weiss ich überhaupt nicht, wie ich die Menge _aller_
+natürlichen Zahlen auf diese Art und Weise bilden soll, ohne auf die
+traditionelle Definition von N nach Klueppel zurückzugreifen, denn ich kann
+mit der mengentheoretischen Definition nur auf die Vorgänger, nicht aber
+auf die Nachfolger schließen. Und würde ich mit Hilfe der Peano Axiome
+versuchen, die Menge aller natürlichen Zahlen zu bilden, d.h. die
+Vereinigung aller natürlichen Zahlen, dann erhalte ich mit
+"R�ckdefinition" nichts anderes als N im "traditionellen" Sinne. Mit
+anderen Worten: Es gibt keinen Nachfolger aller natürlichen Zahlen.
+
+
+N ist auch nach der mengentheoretischen Definition keine natürliche
+Zahl, denn N kommt in dieser Mengenfolge überhaupt nicht vor. Du kannst
+zwar N u {N} bilden, aber Du kannst auch N u {-1} oder N u {tote Maus}
+bilden. Es bedeutet nichts.
+
+
+Es bestätigt sich, dass sich die Menge aller natürlichen Zahlen nicht so
+einfach kaputtdiskutieren lässt.
+
+
+Unter der falschen Voraussetzung, dass die Menge aller 0,1-Folgen
+abzählbar ist.
+
+
+Richtig.
+
+
+Nein, z.B. ist D in Pot(D) enthalten, aber nicht in der Vereinigung
+aller Pot(D_i) (wenn dem so wäre, dann müsste ein k aus N existieren, so
+dass D aus Pot(D_k) ist). Die Vereinigung aller Pot(D_i) enthält nur
+endliche Teilmengen von D (und genau diese).
+
+
+Selbst wenn deine vorherige Behauptung richtig wäre, würde diese
+Folgerung falsch sein.
+
+
+E(D) ist auch unendlich, da die Menge der endlichen Teilmengen einer
+unendlichen Menge unendlich ist.
+
+
+Wenn man will ...
+
+
+Bei allem Respekt: Meine Aufteilung ist im Gegensatz zu deinen meisten
+Konstruktionen präzise!
+
+
+Was meinst Du damit?
+Was ist ein abzählbarer Bereich?
+
+Jede natürliche Zahl und somit jede Zweierpotenz finde ich in E(D)
+wieder, da endlich.
+Jede natürliche Zahl kann ich mit endlich vielen Nullen und Einsen
+darstellen, d.h. ich brauche für keine natürliche Zahl eine 0,1-Folge.
+Ich kann selbstverständlich jede natürliche Zahl mit unendlich vielen
+Nullen aufblühen, aber damit erhalte ich nicht alle möglichen
+0,1-Folgen.
+
+
+Was soll denn das nun wieder?
+Mengen sind abzählbar oder nicht, auf Zahlen können diese Begriffe nicht
+angewandt werden.
+
+
+Es gibt aber abzählbar unendlich viele Pot(D_i).
+
+
+Edwin, das ist Müll!
+
+Zu _jeder_ natürlichen Zahl gibt es eine eindeutige binäre Darstellung!
+
+
+Es geht um die grundsätzliche Frage, ob sich eine Auseinandersetzung mit
+Dir überhaupt noch lohnt? Ich war der festen Überzeugung, dass Du dem
+Glauben der unendlichen natürlichen Zahlen abgeschworen hast.
+
+
+Diese falsche Behauptung hatte ich bereits korrigiert.
+
+
+Nein, die Elemente von Pot(G) sind definitiv Teilmengen von G.
+
+{G} ist also eine echte Teilmenge von Pot(G).
+
+G ist ein Element von Pot(G).
+
+Waldemar

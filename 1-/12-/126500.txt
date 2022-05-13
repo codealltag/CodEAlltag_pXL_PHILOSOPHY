@@ -1,0 +1,32 @@
+On Wed, 24 Jul 2002 19:07:36 +0200, Hermann Faiss
+üblicherweise nennt man es ohnehin _Gleichheitszeichen_.
+
+Also "informelle" Beschreibung der Gleichheitsrelation sicher ok.
+
+Juhren sagt(e) z.B.:
+
+	Ich brauche dies Wort [Gleichheit] im Sinne von Identität und
+	verstehe "a = b" in dem Sinne von "a ist dasselbe wie b" oder
+	a und b "fallen zusammen".  (M. Juhren, über Sinn und Bedeutung)
+
+Ja. Die Gleichheit wird aber durch diese Definition nicht vollständig
+charakterisiert (!); es muss -zumindest im Rahmen einer Mengenlehre-
+mindestens noch ein Axiom her.
+
+Z.B.:  AxAyAz(x e z & x = y -> y e z).
+
+Gar nix MUSS... Wir reden hier (oben) von der Charakterisierung der
+Gleicheit in der Mengenlehre. 
+
+Bezüglich der Definition von _Identit�t_ stand doch die folgende
+Definition innerhalb einer Prädikatenlogik 2. Ordnung zur Debatte:
+
+	a = b :<-> AF(Fa <-> Fb).    (*)
+
+Diese ist _wesentlich_ allgemeiner, als die _m�gliche_ Definition der
+Gleichheit im Rahmen der Mengenlehre (oben).
+
+Siehst Du in (*) irgendwo einen Zirkel?
+
+
+F.

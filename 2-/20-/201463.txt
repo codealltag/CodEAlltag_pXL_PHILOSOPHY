@@ -1,0 +1,44 @@
+Und wie gross ist die Wahrscheinlichkeit, dass tatsaechlich noch
+unendlich viele Steine fallengelassen werden? Vermutlich in derselben
+Groessenordnung (so man hier noch von einer "Groessenordnung" reden
+kann).
+Gegenfrage: Angenommen, Dir bietet einer folgendes Spiel an:
+Du taetigst einen Einsatz, er wirft einen idealen Wuerfel, und
+wenn er eine Sechs wuerfelt, dann geht Dein Einsatz floeten, wenn
+aber eine andere Zahl kommt, bekommst Du das doppelte Deines
+Einsatzes. Wuerdest Du nun dieses Spiel ablehnen, weil die
+Wahrscheinlichkeit, "unendlich oft" Zahl zu bekommen, Null ist?
+Oder wuerdest Du nicht eher sagen, beim einzelnen Spiel werde ich
+viel wahrscheinlicher gewinnen als verlieren, und deshalb ist
+es ratsam, mitzuspielen, und zwar so oft wie moeglich?
+
+Ich jedenfalls wuerde die zweite Alternative waehlen. Und analog
+ist es auch mit obiger Wahrscheinlichkeit. Ich kann mit an
+Sicherheit grenzender Wahrscheinlichkeit davon ausgehen, dass
+der Stein das naechste Mal wieder faellt. Und auch das uebernaechste
+Mal. Ja, wenn der naechste Stein wieder wie erwartet faellt, dann
+kann ich mir beim uebernaechsten Stein natuerlich *noch* sicherer
+sein.
+Sollte ein Stein natuerlich *nicht* fallen, dann kommt die grosse
+Verunsicherung. Dieser kann aber durch weitere Experimente
+abgeholfen werden, die zeigen, ob sich jetzt etwas geaendert hat
+und die Steine jetzt immer (oder zumindest haeufiger) nach oben
+fallen, oder ob der Stein eben mit einer geringen, aber endlichen
+Wahrscheinlichkeit nach oben faellt, im Allgemeinen aber doch noch
+immer nach unten (diese Wahrscheinlichkeit kann ich dann wiederum
+abschaetzen). Im folgenden bin ich dann von einem einzelnen weiteren
+nach oben fallenden Stein nicht weiter beunruhigt (ich weiss ja
+schon, dass das passieren kann). Nur wenn die Haeufigkeit sich
+deutlich aendert, gibt es eine gewisse Verunsicherung. Um so
+groesser natuerlich, je laenger sich die Haeufigkeit nicht
+geaendert hat.
+
+
+Nun, diesen Text kenne ich jetzt nicht, aber von Deiner Ausfuehrung
+weiter oben schliesse ich, dass er von unendlich vielen weiteren
+Experimenten ausgeht. Und dies ist m.E. ein Fehler. Eine Aussage
+gilt zunaechst einmal fuer ein einzelnes Experiment. Natuerlich
+kann man dann auch Aussagen ueber 5, 10, 100, wasweissich wieviele
+Experimente machen, aber die Sicherheit der Aussage sinkt, je mehr
+Ergebnisse ich voraussage. Was den Wert der Regel aber nicht
+vermindert.

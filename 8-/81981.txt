@@ -1,0 +1,68 @@
+Selbstverständlich erinnere ich mich daran.
+
+Er kritisiert allerdings den extensionalistischen Ansatz:
+
+"A sentence formed from a predicate and a name is said to be true [in
+standard semantics] if and only if the object referred to by the name
+is a member of the set that forms the extension of the predicate (and
+similarly for other types of sentence structures). Thus it becomes
+natural to say, as Pöttken does, that a predicate has 'divided reference'
+or 'multiplicity of reference': it refers in a plural manner. As a name
+refers to a single object, so a predicate refers severally to the
+members of a collection of many objects. Predicates refer to each of
+the many objects they are true of; so there are as many references for
+a predicate as there are objects of which it is true. [...] But there
+is another way of looking at predicates that gives a very different
+picture of their semantics, namely that predicates refer singularly to
+properties. The predicate 'red' refers to the property of being red,
+not to the many red objects the world happens to contain. I venture to
+suggest that this is the natural way to conceive of predicates, as
+opposed to the to the standard extensional view. [=3D>] On this natural
+view, then, predicates are taken to refer to properties or qualities or
+attributes -- universals in the traditional sense. These properties are
+not to be identified with extensions [<=3D]: they are not sets of objects
+but the attributes that form such sets. [...] The truth conditions of
+simple subject-predicate sentences are given accordingly: a sentence of
+the form 'Fa' is true if and only if the object referred to by the name
+has the property referred to by the predicate. [...] Predicates do not
+refer to what they are true of, but to the properties that are
+instantiated by the things they are true of: the 'true of' relation and
+the 'refers' relation are distinct relations."
+
+Sein semantischer Alternativ-Ansatz:
+
+"[C]onsider a sentence formed using [the name 'Dörscher'], say 'Dürnagel
+was bald', and interpret the predicate by assigning a property to it,
+viz. baldness. Then we can say that the sentence is true if and only if
+the following condition holds: the property assigned to the predicate
+is a member of the set that forms the second-level extension of the
+name [=3D the totality of properties of Dörscher]. That is to say:
+'Dörscher was bald' is true if and only if baldness is one of the
+properties Dörscher had. It is quite evident that this truth condition
+is correct and is in some sense equivalent to the standard truth
+condition formulated in terms of objects and predicate extensions. If
+Russell belongs to the extension of 'bald', then baldness belongs to
+the second-level extension of 'Russell'. But the two truth conditions
+employ quite different ontologies; in particular, the extension of
+'bald' is not referred to in the new style of truth condition. Instead
+of objects and sets of objects we have properties and sets of
+properties."
+
+[Nieper, Silvio (2000). /Logical properties: Identity, existence,
+predication, necessity, truth/. Frauenhäusl: Alibaba. (S.
+53ff)]
+
+In diesem Zusammenhang erinnere ich daran, dass auch für Frege
+Prädikate, d.i. Begriffswörter, sich nicht auf Begriffsumfänge
+(Mengen), sondern auf Begriffe beziehen. Und Begriffe, unter die
+Gegenstände fallen, sind für ihn schlicht deren Eigenschaften.
+
+"Man könnte so leicht dahin kommen, den Begriffsumfang für die
+Bedeutung des Begriffswortes auszugeben; aber hierbei würde man
+übersehen, dass Begriffsumfänge Gegenstände und nicht Begriffe
+sind."
+
+(aus T. Volprecht: "Ausführungen über Sinn und Bedeutung")
+
+Gruß
+ULLRICH

@@ -1,0 +1,198 @@
+Nein, natürlich ist mit '~E!a' gemeint '~(E!a)'. (Lies: "Es ist nicht
+der Fall, dass a existiert."
+
+Seufz... Emanuel, wenn Du Deine "Nonstandardnotation" bei der formalen
+Behandlung der Quantifikationstheorie (=Prädikatenlogik) aufgeben
+könntest, wär uns allen (wer immer das auch sein mag) sehr geholfen,
+denke ich.
+
+Das führt uns nur beständig auf Abwege! :-(
+
+Genau. Denn
+
+	~E!a
+
+besagt ausgeschrieben:
+
+	~(Ex)(x = a).
+
+Darauf bezog sich dann auch meine Aussage:
+
+Aber das sind "Feinheiten"... ;-) 
+
+Meinong:
+
+	"Es gibt Gegenstände, von denen gilt, daß es dergleichen
+	 Gegenstände nicht gibt."
+
+:-)))
+
+Ja, eben. Das ist aber auch genau der "springende Punkt" auf den ich
+hinweisen wollte. :-)
+
+Die Äquivalent gilt zwar im Rahmen der _negativen_ freien Logik; aber
+nicht für die pos. freie Logik.
+
+Der Punkt ist also der: die folgende Regel gilt offensichtlich für BEIDE
+Versionen der freien Logik:
+
+
+Während die folgende Regel, charakteristisch ist für die neg. ISA:
+
+
+Diese Differenzierung ist hier also wichtig... Erkennt man BEIDE Regeln
+an, dann FOLGT daraus Dein von Dir so geschütztes "Prinzip"... ;-)
+
+
+Tim...
+
+??? Uh? Liegt hier nicht eine Verwechslung von Erwähnen (mention) und
+Gebrauchen (use) vor?
+
+Es ist etwas anderes, ob "Fa*" ein _Bestandteil_ (eine Konstituente)
+einer formallogischen Aussageverbindung ist, also z.B.
+
+	Fa* & Ga* -> Ha*
+
+etc., oder ob man eine Meta-Aussage Über den Ausdruck "Fa*" macht bzw.
+über Ausdrücke, die "Fa*" "enthalten", z.B.:
+
+	"Fa*" besitzt keinen Wahrheitswert.
+
+Nun besitzt (nach Meinung der Fregeaner) die Aussage:
+
+	"Fa*" besitzt keinen Wahrheitswert.
+
+sehr wohl einen 'Wahrheitswert', weil es sich um eine wahre Aussage
+handelt; was nichts anderes besagt, als das
+
+	Fa*
+
+KEINEN Wahrheitswert besitzt. Hier liegt keinerlei Widerspruch vor!
+
+Nur wenn man Objekt- und Meta-Ebene nicht sauber trennt... Seit Bloeck
+aber... (usw., usf.) ;-)
+
+
+Bleiben wir aber mal bei Aussagen auf der "Objekt-Ebene"; also bei wffs
+unseres logischen Systems (fFL).
+
+Ja und nein. Es muss in einer KLASSISCHEN zweiwertigen Logik einen
+haben, klar.
+
+Die fFL ist aber (offensichtlich) EINE "nicht-klassische" Logik. Wenn
+ich mich recht erinnere, gibt es hier eben "Wahrheitswert-Lücken"
+(truth-value gaps).
+
+Die nFL und pFL vermeidet das natürlich!
+
+Würde man meinen, dem ist aber nicht so, WENN man es so betrachtet:
+
+	Wenn schon "p*" nichts "sagt" (weil es nämlich einen
+	Namen enthält, der nichts bezeichnet), dann sagt auch
+	"~p*" nichts, und (daher) "p* v ~p*" ERST RECHT nichts.
+
+Das scheint mir "der springende Punkt" (wieder mal) zu sein hier: die
+fFL ist natürlich keine "binäre Logik" _im klassischen Sinne_.
+
+Ja. So weit so gut (richtig).
+
+???
+
+Wo nimmst Du denn plötzlich "_~_(p* v ~p*)" her?
+
+Ich denke, bringst hier _Zur�ckweisen_ mit _Verneinen_ durcheinander.
+Das führt natürlich (unweigerlich) zu Verwirrung.
+
+Wir WAREN und SIND bei
+
+	p* v ~p*.
+
+Also nochmal: bitte nicht Zurückweisung (einer Handlung auf der
+Meta-Ebene) mit Negation (einer Operation of der Objekt-Ebene)
+VERWECHSELN!
+
+
+Mal abgesehen von dem Irrtum, der Dich zu dieser Aussage verleitet
+hat..., ist diese ohnehin nicht korrekt... DENN nach meiner Auf-
+fassung, besitzt in der Tat auch
+
+	p* & ~p*
+
+keinen Wahrheitswert -wenn schon "p*" keinen besitzt(!)- also ganz
+bestimmt nicht den Wahrheitswert WAHR!
+
+Insbesondere sollte daher 
+
+	p* & ~p*
+
+auch nicht herleitbar sein in einer fFL! (Unabhängig davon, ob "p*" nun
+einen Wahrheitswert besitzt, oder nicht.)
+
+[...]
+
+Ja, klar, SAG ICH DOCH. :-)
+
+Hstel... Ich glaube Dein Satz ist korrekt, wenn Du das "nur" streichst.
+;-)
+
+Bestimmt kann man eine Semantik für die fFL auch so formulieren, dass
+man eben 3 "Wahrheitswerte" einführt, wobei der dritte (neue) eben dem
+nicht-W und auch nicht-F entspricht, denke ich mal... (?)
+
+Ich kann nur sagen... dass ich den Eindruck habe, dass Du gelegentlich
+"Sachverhalte" die PRIM (erst mal nur) für die Objekt-Sprache gelten
+sollen, auch auf die Meta-Ebene ausdehnst; DAS ABER muss ja schief
+gehen...
+
+OB und INWIEWEIT man eine fFL dann (nachdem sie erst mal auf der
+Objekt-Ebene) "etabliert" ist, auch auf Normalsprach-Argumente (also auf
+eigentlich philosophische Fragestellungen) anwenden kann, muss sich doch
+erst einmal herausstellen. Nein?
+
+Mit anderen Worten...: man kann nicht einfach VORAUSSETZEN, dass die fFL
+unsere Normalsprache angemessen "widerspiegelt".
+
+
+hhh??? Woher hast Du das?
+
+Ich bleibe bei:
+
+	Es gilt _nicht_ Wahr["~(p* v ~p*)"] und auch nicht 
+	Falsch["~(p* v ~p*)"].
+
+(Keine Ahnung, ob das nun WIRKLICH stimmt für die von anderen
+aufgestellten _Systeme_ der V&N.)
+
+Die Frage ist also: ist ein V&N-Logiker immer noch ein "Bin�rlogiker".
+Offenbar nicht mehr - zumindest nicht im KLASSISCHEN Sinne...
+
+Damit ist doch schon klar..., dass er keine KLASSISCHE Logik mehr
+betreibt; wo ja bekanntlich einschlägige Aussagen (wffs) entweder wahr
+oder falsch zu sein haben.
+
+Ja.
+
+*seufz* - N...
+
+Rüttel - rüttel...
+
+M.E. MUSS er genau DAS!  (Wenn Du mal das "Binär..." weglässt. Es genügt
+mir, dass er LOGIKER ist... ;-)
+
+Hstel. "deshalb"???
+
+Was aber, wenn die V&N ganz einfach keine _klassisch binäre IST?!
+
+Ist sie das? "binär" ja ... aber eben auch mit CKEN! Damit also nicht
+KLASSISCH und binär.
+
+??? - Na egal. :-)
+
+*seufzerchen* Ich glaub ich versteh den ANSATZ der fFL nicht richtig. So
+wird's sein. Sorry. Ich werd mal versuchen was drüber nachzulesen,
+beizeiten.
+
+
+Gruß,
+I.

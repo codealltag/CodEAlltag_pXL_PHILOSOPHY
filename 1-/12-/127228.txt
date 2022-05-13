@@ -1,0 +1,25 @@
+AxAz[Ay(y e x <-> y e z) -> x=z]
+
+Wenn man daraus eine Identitäts-Definition basteln wollte, dann she
+das folgendermassen aus:
+
+x=z :def Ay(y e x <-> y e z)
+
+Das angebliche definiens besagt: 
+
+Immer wenn x ein Element y enthält, genau dann enthält z ein Element
+y. Doch das in z enthaltene y-Element ist nicht irgendein y-Element
+neben anderen, sondern das einzig mögliche y-Element, das *identisch*
+ist mit dem y-Element in x, was nichts anderes bedeutet, als dass es
+notwendigerweise immer *ein und dasselbe* y-Element ist, das sowohl in
+x als auch in z enthalten ist!
+
+Man kann es also drehen und wenden, wie man will, man bringt einfach
+keine gescheite, nicht-zirkuläre Definition von "Identität" zustande!
+
+"Identität" ist ein logisch primitiver Begriff!
+
+Warum fällt es manchen so schwer, dies einzusehen...?!
+
+Gruss
+ROLAND

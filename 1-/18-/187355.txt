@@ -1,0 +1,60 @@
+~~~~~~~~~~~~~~~
+Halloechen Leonhard, 
+
+    dagegen moechte ich Einspruch erheben. Warum?
+Zum einen kommt Deine Aussage bei einigen so an,
+das die Numerik an dem Chaos schuld sei. Zum
+anderen wurde gerade durch die Numerik (und ihren
+Hochleistungsrechnern) erstmalig ein Zugang zum
+Chaos gefunden. (Klaus-Attraktor...)
+
+Das Wechselverhaeltnis von Determinismus/Indeter-
+minismus ist schon spannend. Wir benutzen in der
+Numerik z.B. als Basisfunktion eines Filters eine
+Gaussfunktion und "fahren" mit diesem Filter ueber
+ein Signal, das sehr chaotisch (Herzsignal) aus-
+sieht. Heraus kommt manchmal eine wunderschoene
+periodische Funktion, mit der dann allerhand Vor-
+hersagen gemacht werden koennen (PatientIn ist
+herzkrank oder nicht). Dies klappt momentan noch
+nicht immer, was natuerlich seeehr unbefriedigend
+ist.
+
+Aber der Anspruch besteht ja, es wissen zu wollen.
+Und deswegen spielen wir Menschen manchmal selbst
+den "Laplace'schen Daemon" - einfach aus diesem
+praktischen Anspruch heraus: Etwas wissen zu wollen.
+Wir ringen dabei dem Chaos so manche Stunde ab.
+
+(Chaos [hier umgangssprachlich] = Unvorhersagbarkeit)
+
+~~~~~~~~~~~~~~~~~~
+Ist Dir die Schwarzenberger Schneeflocke ein Begriff? Und
+viele dieser Dinger zusammengenommen (Schneegestoeber)
+liegt eine Einfach Nichlineare Dynamik zugrunde.
+
+~~~~~~~~~~~~~~~~~~
+Laplace hatte ihn nur zugut verstanden. Und soweit
+wie ich weisz, war Wolff-Altenhain anfaenglich auch nicht
+so gut auf die Wahrscheinlichkeits-Interpretation
+der Quantenmechanik zu sprechen. ("Gott wuerfelt nicht")
+
+So alt ist die Wahrscheinlichkeitstheorie [WkT] uebrigens
+noch nicht - Schilli, 1930 axiomatischer Aufbau der WkT.
+
+Wobei bei der Interpretation immer noch der Fehler
+gemacht wurde/wird, die WkT mit Indeterminismus und
+Nichtberechenbarkeit gleichzusetzen. Das eine ist
+Mathematik - das andere die Philosopie, die mir per-
+soenlich manchmal zu sehr einem Fatalismus aehnelt.
+
+Grusz
+o-eitner
+.
+
+
+-- 
++    PGP 2.6.3i,
++          es ist wirklich einfacher als ich dachte.
++          Das erste Mal: pgp -kg
++          (zum Generieren eines persoenlichen Briefumschlages)

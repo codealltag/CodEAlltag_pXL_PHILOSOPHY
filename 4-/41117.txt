@@ -1,0 +1,282 @@
+Die Frage ist: was ist für die Konstruktion wesentlich. Es ist nicht die
+Kreativität, sondern es lassen sich für Konstruktionsaufgaben deshalb so
+einfach Algorithmen finden, weil diese eben im Vordergrund stehen.
+
+
+Ja, sicher.
+
+
+Dann muss identifiziert werden, worans liegt, und die Konstruktion
+geändert.
+
+
+;-)
+
+Wenn Dinge berechenbar sind, heisst das noch lange nicht, dass Du einen
+Algorithmus dafür vorliegen hast, und letzteres immer noch nicht, dass
+Du eine Implementierung davon besitzt.
+
+Ich habe übrigens nicht behauptet, dass Konstruktion aus Spezifikation
+immer berechenbar ist. Tatsächlich lässt sich aber durchaus
+Spezifikation finden, aus der eine Konstruktion berechenbar ist, indem
+man (trivialerweise) die Spezifikation geeignet erweitert, und diese
+Spezifikation formale Modelle referenziert.
+
+Durch den hohen Anteil an Berechenbarkeit ist ein solcher Weg
+erfahrungsgemäss um Klassen kürzer als das von Hand zu machen, die
+Spezifikationssprache bleibt weiterhin einfach.
+
+Übrigens ist das genau das, was ich gerade im Maschinenbau mache.
+
+
+Unter Konstruktion verstehe ich, ein Problem top-down anzugehen, und
+zwar unter Zuhilfenahme der üblichen Ingenieursvorgehensweise,
+beispielsweise Schätzen. Bei der Konstruktion gestaltet man ein
+Konstruktionsergebnis, das ein Modell ist für die zu konstruierende
+Sache.
+
+Ist das Modell hinreichend, dass man die Sache implementieren kann, ist
+die Konstruktion vollständig.
+
+Wichtig zu sehen: das Konstruktionsergebnis ist ein Modell für die
+Sache, nicht ein Modell für die Anforderung.
+
+
+Das lässt sich so allgemein nicht sagen, aber es kann ein
+Konstruktionsergebnis sein, stammt es aus einem Konstruktionsprozess.
+
+
+Du redest von Planung, als geht es hier um Planung, die kann man doch
+dann nicht weglassen.
+
+Üblicherweise plant man im Paradigma Arbeitsschritte, Resourcen, Belegung
+und Kosten.
+
+
+Ich rede hier über Ingenieurswesen.
+
+
+Und was hat das jetzt mit Konstruktion zu tun?
+
+
+Da bin ich überfragt, musst einen Bauingenieur fragen ;-)
+
+
+Es geht ja um Parameter, wie hoch der Druck an welcher Stelle
+werden soll, welche konkreten Leitungen wo verlegt werden sollen
+mit welchen Eigenschaften. Wenn ich eine Druckleitung habe, die einen
+hohen Druck aushalten kann, warum soll der Druck an der Stelle viel
+niedriger sein? Das hängt doch dann damit zusammen, wo ich wieviel Druck
+sonst brauche. Ggf. kann ich auf in die stabilere Leitung ausweichen,
+natürlich auch in grösseren Durchmesser. Ggf. kann man Leitungen auch
+anders gabeln und zusammenführen.
+
+Mag aber durchaus sein, dass das der häufigste Fall ist, keine Ahnung.
+Hab ich nicht untersucht.
+
+
+Möglich.
+
+
+Praxis jetzt oder Theorie? ;-) Erstmal besorgt man sich den Auftrag, das
+Ding überhaupt zu simulieren, und die notwendigen Informationen dazu.
+Hoffentlich muss man nicht nachmessen :-/
+
+Obwohl das auch nicht so schlimm ist, man kann ja ein Teilsystem
+drumherum ausmessen im Druck. Dann sieht man ja oft, wo das Problem
+liegt.
+
+Übrigens: wir reden gerade nicht mehr über Konstruktion, sondern über
+das, was wir ITler gerne "Bugfixing" nennen.
+
+
+Und wie liest er das aus dem Netzplan?
+
+
+Oje. Wo fang ich da an? ;-)
+
+Die Hauptschule gibt's nicht mehr, ist jetzt Ausländersonderunterricht,
+und zwar von Ausländerkindern, bei denen viele kein Deutsch können,
+könnten sies aber, so könnten sie oft höhere Schulen besuchen. Ein paar
+Deutsche sind noch darunter, bevorzugt aus Familien, wo die Kinder nicht
+mal mehr lernen, wie man sich bewegt oder artikuliert, weil sie zu
+reinen übergewichtigen Fernsehkonsumenten verdummt werden.
+
+In der Realschule lernt man offensichtlich nicht mehr Lesen und
+Schreiben, denn in der Zeit, als ich mit Jugendlichen Projekte machte
+(waren ein paar Jahre), hab ich irgendwann aufgehört, Realschüler noch
+anzusprechen, weil wenn die Leute mit einem Zweierschnitt auch nicht
+mehr Lesen und Schreiben können (und nein, 20 Rechtsschreibfehler in 3
+Sätzen zähle ich unter Analphabetismus), hats ja keinen Sinn auf Dauer
+(nein, war kein Einzelfall, sondern die Regel).
+
+Im vielen Gymnasien herrschen kriegsähnliche Zustände. Der Druck ist
+dort inzwischen oft so hoch, das Klima derart vergiftet, dass ich schon
+"Ausnahmeschule" zu einem Gymnasium sage, bei dem das nicht so ist (ich
+kenne eins).
+
+Kein Wunder, dass bei dem einen oder anderen "Loser" auf Schülerseite in
+diesem Krieg dann die Zündschnur abgebrannt ist, und sie/er (war
+inzwischen ja auch ein Mädchen dabei) die Peiniger endlich tot sehen
+will.
+
+Computerspiele, my ass. Als sei da schon einer mit der
+Computerspielschachtel totgeschlagen worden statt mit der Waffe aus dem
+Schützenverein erschossen.
+
+
+Jetzt möchte ich Dir fast gratulieren - sei froh, wenn Du das nicht
+weisst ;-)
+
+Ein Kollege an einer mir bekannten Hochschule ist fachlich völlig blank.
+Dafür kann er mit Studenten nicht, und kriegt die Orga nicht auf die
+Reihe. Er wurde in Rekordzeit Prof., verbeamtet, zum Fachleiter
+befördert.
+
+Grund: er hat einem sehr wichtigen Menschen einen Invest besorgt (war
+sein vorheriger Job), und der hat die notwendigen Verbindungen im
+Kultusministerium.
+
+Ich kannte einen Mathelehrer, der sich auf sein eigentliches Fach
+konzentriert hat: wie krieg ich das in diese Köpfe rein?
+
+Er hatte Riesenerfolge, die Kinder verstanden zum ersten Mal eigentlich
+alle Mathe.
+
+Die Kollegen haben ihn weggemobbt, zwischenrein brach er zusammen und
+musste therapiert werden.
+
+
+Verstehe ich nicht. Für alle Begriffe, die Du haben wolltest, habe ich
+Dir exakte Definitionen vorgelegt. Hast Du diese nicht verstanden?
+
+
+Dazu notwendig wären klare Begriffe aus der Wissenschaftstheorie, sonst
+muss das scheitern.
+
+
+Nein, aber ich hatte notwendige Bedingungen genannt.
+
+
+Im Gegenteil.
+
+
+Ich habe wohldefiniert, was ich unter System verstehe. Jetzt versuche
+ich Deinen Begriff zu verstehen.
+
+
+Irgendwie bleibts immer noch schwammig.
+
+
+Also benötigst Du noch Interaktionen und Wechselwirkungen? Was wirkt
+hier mit was wechsel?
+
+
+Vorwurf? Ich mache gar keine Vorwürfe, weshalb sollte ich? Ich
+diskutiere hier völlig freiwillig mit Dir, und hoffe, dass wir beide
+daraus lernen können.
+
+
+Du kannst ja gerne dort Definitionen referenzieren, dann hammer endlich
+welche.
+
+
+Dann passts doch. Die Funkitionen, die die Variablen repräsentieren,
+haben dann eben auch Parameter ausserhalb des Phasenraumes.
+
+Passt genau.
+
+
+Was meinst Du bitte mit "Objektabstraktion"?
+
+Falls Du denkst, ich konstruiere aus einem System heraus Objekte, so ist
+das ein Missverständnis. Ich definiere beispielsweise einen Automaten,
+und stelle fest, dass er ein System ist, weil er der Definition genügt.
+
+Somit kann ich Aussagen, die für Systeme gezeigt sind, auch auf
+Automaten anwenden.
+
+Beispielsweise kann ich damit zeigen, ob ein Automat vorhersagbar ist,
+welcher Teilautomat vorhersagbar ist, welcher nicht.
+
+Falls Du das für unwesentlich hältst, so schau Dir mal die Automaten an,
+die man aus Aussagen in der VWL modellieren muss: man kann sehr leicht
+zeigen, dass die meisten davon nicht vorhersagbar sind.
+
+Im Gegenteil, man kann zeigen, dass diese meist dynamische Systeme mit
+Rückkopplung sind, die keinesfalls nur in Form von Mitkopplung
+existiert.
+
+Das macht die "Wirtschaftswaisen" sehr, hm..., "interessant", die für
+das Pfannkuche regelmässig die Glaskugel bedienen.
+
+
+Das magst Du so sehen, ich sehe das völlig konträr (und mit mir alle
+Leute, die simulieren oder Sprachen erkennen).
+
+
+Beliebigkeit? ;-) Die wollte ich gerade vermeiden.
+
+
+Hab ich bereits (für meine eigene Definition).
+
+
+OK.
+
+
+OK, Systeme sind spezielle Zentren.
+
+
+Wieso ist das Wort "Mehrheit" ein Zentrum? Ah, "Zentrum" heisst schlicht
+"Objekt".
+
+
+Aha. Das sind also Rollen. Systeme haben Elemente, Du sagtest, sie sind
+Listen, OK.
+
+Was eine "eigenständige Rolle" ist, hab ich noch nicht ganz verstanden.
+Was ist "innere Struktur", was "innere Funktion"? Schwierig, dass wir
+jetzt keinen wohldefinierten Systembegriff haben.
+
+
+Du überschätzt mich. Ich hinterfrage grundsätzlich. Würde ich das in
+einem Buch lesen, würde ich vermutlich das Buch weglesen und nicht mehr
+reinschauen ;-)
+
+Hier hab ich Dich, und wir können das diskutieren.
+
+
+Naja. *Irgendeine* Abstraktionsebene muss man ja schon haben, damit man
+was definiert kriegt. Ich nenne sowas ja eine Semantic Slice.
+
+
+Es taucht ja schlicht in "Diskussion" auf, das reicht.
+
+
+;-) Na, komm. So sag doch ganz bestimmt nicht nur ich, oder?
+
+
+Och nee, jetzt.
+
+
+Gerne:
+
+Lassen sich Teilmengen in zwei Mengen identifizieren, die isomorph sind,
+liegt Analogie vor. Lassen sich in Modellen Teilmodelle finden, die
+isomorph sind, folgt daraus eine Analogie nach dem ersten Satz.
+
+
+Mir ist nicht ganz klar, was Du mit der Abkürzung willst.
+
+
+Sie ergibt Klarheit über Denkmodelle, formalisiert sie, so dass man
+darin rechnen ("folgern") kann.
+
+
+Ein Modell ist eine (formale) Beschreibung eines formalen Sachverhalts.
+Somit ist es selbst ein formaler Sachverhalt.
+
+Viele Grüsse,
+VB.
+-- 
+Bitte beachten Sie auch die Rückseite dieses Schreibens!

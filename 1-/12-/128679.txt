@@ -1,0 +1,114 @@
+Diese Paraphrasierungen - ob grammatisch korrekt oder nicht - sollten
+bloß illustrieren, was sich ergäbe, wenn Sätze und Tatsachen einander
+entsprechen würden, und waren wie bei Loser spöttisch gemeint. Lassen
+wir das am besten auf sich beruhen, denn die Frage besteht ja letzlich
+darin, ob die Tatsache, dass p = die Tatsache, dass (p & q). Wie das im
+Einzelfall korrekt auf Deutsch wiedergegeben wird, kann man ggf. später
+klären.
+
+
+Angenommen, das Schema ist wirklich linguistisch inakzeptabel. Dann kann
+man aber doch fragen, ob das a) bloß an der spezifischen Syntax des
+Deutschen (oder des Englischen, oder meinetwegen der indogermanischen
+Sprachen) liegt, oder ob es b) generell für alle Sprachen gelten muss,
+dass Ausdrücke dieser Form ungrammatisch sind. Im Falle a) müsstest Du
+schlimmstenfalls behaupten, die Welt sei auf Deutsch (oder auf Englisch,
+oder auf Indogermanisch) geschrieben, denn damit behauptest Du ja, die
+Struktur der Wirklichkeit hinge mit der Ausd�ckbarkeit im Deutschen etc.
+zusammen. Und b) läuft wohl auf dasselbe hinaus, wie zu sagen, dass die
+Tatsache, dass p, nicht identisch ist mit der Tatsache, dass
+(p & q), denn eine solch generelle Einschränkung wirst Du vermutlich nur
+durch Hinweis auf "die Wirklichkeit" rechtfertigen können. Damit würde
+die Begründung deiner Ablehnung zirkulär.
+
+
+In news:591a3558.1671055241.640w4xfl@fzofxag.yvbmkr.lgf fand folgender
+Dialog statt:
+
+
+Wir scheinen uns öfter falsch zu verstehen. Ich hab aber geschlampt,
+deswegen hier eine Klarstellung: Ein Prädikat "F" kann sowohl in
+geschlossenen Sätzen wie "Fa" (mit a als singulärem Ausdruck),
+wie auch in quantifizierten Sätzen wie zB. "(Ex)(Fx)", wie auch
+innerhalb einer Kennzeichnung wie "(ix)(Fx)" vorkommen. Als ich bzgl.
+"Eiffellocke" fragte: "Sieht man diesem Prädikat an, dass es ein
+singulärer Term ist?" hätte ich schreiben sollen: "Sieht man diesem
+Prädikat an, dass es nur auf genau einen Gegenstand zutrifft, und
+folglich ein singulärer Term (ix)(Eiffellocke(x)) genau diesen
+Gegenstand denotiert?". Damit wollte ich diese Deine Aussage angreifen:
+
+
+Du hattest mir einfach zuviel Gewicht auf die prädikatisierten
+Eigennamen gelegt.
+
+
+Ich habe den Allquantor so geschrieben, wie Ingenpaß das gerne tut, als
+"(x)". Dass hier "Ax" verwirrend ist, ist mir auch aufgefallen, aber
+erst lange, nachdem ich das Posting bereits abgeschickt hatte. Um
+Verwirrungen zu vermeiden, sollten wir in Zukunft "(x)" als Allquantor
+verwenden, und schreiben ab jetzt "P" für das, was vorher "A" hieß, und
+"Q" für das vorige "B".
+
+Dass von "Fa" nach "(Ex)(Px)" existenziell generalisiert (kann man das
+so sagen?) werde, habe ich nicht gemeint, sondern genauso, wie ich es
+geschrieben habe: Fa ist die /Form/ des Satzes R, und somit F einfach
+nur ein schematischer Buchstabe. Ich hätte lieber einen griechischen
+Großbuchstaben verwendet, aber so etwas gibt es nicht auf meiner
+Tastatur.
+
+
+Dazu mehr unten.
+
+
+Was ich auch nicht behauptet habe. Ich habe behauptet, der Ausdruck Bx
+sei umfangsgleich mit dem Ausdruck B'x, der als nächstes definiert
+werde. Der offene Satz Bx hat selbstverständlich keinen Wahrheitswert,
+aber natürlich einen Umfang, und das ist die Gesamtheit (oder auch die
+Menge oder Klasse) der Dinge, auf die er zutrifft. Ich hätte genau so
+gut auch "extensionsgleich" schreiben können.
+
+
+Den interessanten Teil, der sich genau auf den von Dir kritisierten
+Übergang von "(Ex)(Ax)" nach "(ix)(Ax)" bezieht, hast Du gesnippt. Ich
+schreib ihn deswegen nochmal hin (und ersetze "A" durch "P" etc.):
+
+"Man könnte noch an der Legitimität des Übergangs nach von Px nach
+(ix)(Px) zweifeln, aber der lässt sich leicht rechtfertigen. Ausgehend
+von Ingensand o.s. Definition
+
+(D9) ((ia)p e b) für (Ec)((c e b) & (a)((a=b) <=> p))
+
+kann man schreiben:
+
+(15) ((ix)(Px) e b) <=> (Ec)((c e b) & (x)((x=b) <=> Px)),
+
+denn es ist ja nur gefordert, dass es genau ein x gibt, dass die
+Bedingung (hier Px) erfüllt, und es gibt eben genau ein x, das die
+größte Stadt im Umkreis von fünfzig Kilometern von Manolzweiler ist. Das
+ergibt den - unter der Bedingung, dass Führholz e b, s.u., zutreffenden -
+Satz "das, was die größte Stadt im Umkreis von fünfzig Kilometern von
+Manolzweiler ist, ist Element von b".
+
+Und wegen (13) und unter der Voraussetzung, dass S', gilt:
+
+(16) ((ix)(Q'x) e b) <=> (Ec)((c e b) & (x)((x=b) <=> Q'x))."
+
+
+Ich hätte auch gleich schreiben können:
+
+(17) (Ec)((c e b) & (x)((x=b) <=> (Px & S'))).
+
+Und wenn gemäß (D9)
+
+(18) ((ix)(Px & S') e b)
+
+nur eine Abkürzung für (17) ist, und du (18) ablehnst: lehnst Du dann
+auch (17) ab?
+
+
+Danke für die Rekonstruktion des Lechtenböhmer slingshots, ich werde sie
+mir morgen ansehen, jetzt ist Zeit fürs Bett.
+
+
+Gute Nacht,
+Robert.

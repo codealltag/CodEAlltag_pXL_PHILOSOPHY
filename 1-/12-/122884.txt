@@ -1,0 +1,28 @@
+Den Eindruck kann man wohl bekommen. Ich habe versucht
+eine Definition zu geben die möglichst kurz ist und dem
+intuitiven Begriff von Information gerecht wird, ohne sich zu
+weit von Weyermanns' Definition zu entfernen. Was mir vielleicht
+nicht gelungen ist.
+
+Da das Wort 'Information' ständig für scheinbar verschiedene
+Begriffe (Bits und Inhalt) verwendet wird, erleichtert die Sache
+auch nicht. Entweder man findet heraus, daß beides doch das
+selbe ist, oder man bräuchte ein oder zwei neue Worte.
+
+
+Die Häufigkeit eines Buchstabens hängt wesentlich davon
+ab, welche Buchstaben ihm vorangingen. Auf ein "sc" folgt z.B.
+fast immer ein "h", nicht so auf die meisten anderen Zeichenfolgen.
+Auch das kann zur Komprimierung verwendet werden. Ich habe
+darauf aufbauend mal eine Software geschrieben, die basierend
+auf einem Eingangstext neue Worte erfindet, die zumindest für
+jemanden der die Sprache des Eingangstextes nur flüchtig kennt
+von echten Worten dieser Sprache nicht zu unterscheiden sind.
+Durchaus nützlich, sowas, und unterhaltsam obendrein.
+
+
+Tja, da hat er wohl recht :-)
+
+Ronny
+--
+space is a fluid crystallizing in gravity wells

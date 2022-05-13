@@ -1,0 +1,8 @@
+Übrigens, diese Formel ist missgebildet, weil für das a in "Ex(x =3D
+a)" kein Begriff wie /Loch/, sondern nur der Name eines Gegenstandes
+eingesetzt werden darf.
+
+"Es gibt Löcher" ist wie folgt zu formalisieren:
+"Ex(x ist (ein) Loch)" oder "ExLoch(x)" oder "(Ex)Loch(x)"
+
+#PH

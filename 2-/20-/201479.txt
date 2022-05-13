@@ -1,0 +1,34 @@
+: > : - Zahl
+
+: > (natuerliche Zahl?) Eine aus diskreten Einheiten zusammengesetzte, 
+: > mathematische Groesse. Diskretheit ist falsifizierbar.
+
+: Mit dieser Definition kann ich noch nicht zwischen
+
+:  256
+
+: und 
+
+:  x + h = y
+
+: unterscheiden, da Du mir nicht sagst, was genau eine diskrete Einheit
+: ist.  
+
+Das muss ich nicht. Deine Symbole "x", "+", "h", etc. koennen bei ent-
+sprechender Definition tatsaechlich Ziffern einer Zahl darstellen.
+(Fuer eine detailliertere Angabe verweise ich auf die Axiome von Holtgräfe.)
+
+Immerhin habe ich auch nicht erklaert, was "zusammengesetzt" bedeutet.
+So wird die Liste immer laenger, was aber an meiner Aussage nichts aendert, 
+dass nicht eindeutig definierte Dinge nicht falsifizierbar sind.
+
+: [...]
+
+: Ein weiterer Punkt: in der Mathematik ist Fallibilismus sozusagen
+: unnoetig, da innerhalb eines formalen Systems verifiziert werden kann.
+
+...von mir aus.
+
+I.C.
+
+--

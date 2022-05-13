@@ -1,0 +1,39 @@
+Hallo Patrice,
+
+       [ SNIP ]
+
+
+... und allgemein kann man mittels der Cardano'schen Formel für die
+reelle Nullstelle von
+
+    (y-u)^3    +    y^3    =    (y+u)^3    mit    y = 2r    -->
+  (2r - u)^3  +  (2r)^3  =  (2r + u)^3
+
+den folgenden Ausdruck ausrechnen [ cbrt(...)  bedeutet die Kubikwurzel ]
+
+   y  =  2r  =  [ 2 + cbrt( 9 + sqrt(17) )  +  cbrt( 9  -  sqrt(17) ) ] * u  =
+                 =  6.0545588226... * u
+
+ -  und der gilt für  ALLE   u .
+Und da   [ ... ]   eine algebraisch irrationale Zahl ist, so existiert also  KEIN
+ganzzahliges  u,  für welches die Mittelgleichung A (beim Exponenten  n = 3)
+eine ganzzahlige Lösung besitzt.
+
+
+Bitte genau zitieren. Meine von Dir hier zitierte Antwort  { dsm 14.12.2000,
+23:32 } bezog sich auf Deine Behauptung:
+
+   " Obwohl m.E. mit Gewissheit erkennbar ist, dass eine bei  u = 1  unloes-
+   " bare Gleichung  (y-u)^n + y^n = (y+u)^n  fuer nat. Zahlen  u > 1 nicht
+   " loesbar sein kann, ... "
+
+und das ist für mich etwas völlig anderes als meine o.a. Feststellung:
+
+   " ... daß diese Gleichung für kein einziges ganzzahliges  u  eine
+   " ganzzahlige Lösung besitzt ... "
+
+         [ SNIP ]
+
+Freundliche Größe
+    Jochen
+--

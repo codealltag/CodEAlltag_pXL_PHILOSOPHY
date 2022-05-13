@@ -1,0 +1,68 @@
+Ein Beobachter kreise in grossem konstanten Abstand um einen anderen
+Beobachter. Bei beiden Beobachtern befinde sich je eine (transversale)
+Lichtuhr.
+
+Die spezielle Relativitätstheorie (SRT) fordert, dass sich das Licht
+beider Lichtuhren mit konstant c relativ zu beiden Beobachtern bewegt.
+
+Die Geschwindigkeit des Lichts der ruhenden Uhr im Kreiszentrum setzt
+sich für den kreisenden Beobachter aus zwei senkrecht zueinander
+stehenden Geschwindigkeitskomponenten zusammen:
+
+ K_1. Bewegung des Lichts der ruhenden Uhr (senkrecht zur Kreisebene):
+      u für den kreisenden Beobachter (entspricht c im Ruhesystem)
+ K_2. Bewegung der ruhenden Uhr relativ zum kreisenden Beobachter: v
+
+Klassisch gerechnet (d.h. u = c) resultiert für den kreisenden
+Beobachter als Geschwindigkeit w des Lichts der ruhenden Uhr:
+
+  w = Wurzel(u^2 + v^2) = Wurzel(c^2 + v^2) > c.
+
+Gemäss Dombuchhandlung wird aber als resultierende Geschwindigkeit
+
+  w = c
+
+gefordert. Die Relativgeschwindigkeit v zwischen kreisendem
+Beobachter und ruhender Uhr ist per Definition gegeben. Somit
+bleibt nur noch die Möglichkeit, als u (siehe K_1) für den
+kreisenden Beobachter nicht den Wert des Ruhesystems c sondern
+
+  u = Wurzel(c^2 - v^2) = Wurzel(1 - v^2/c^2) c = c / gamma
+
+zu setzen, denn als Gesamtgeschwindigkeit folgt dann wie gefordert:
+
+  w^2 = u^2 + v^2 =  = c^2
+
+Diese Verkleinerung der Geschwindigkeitskomponente K_1 von c zu
+u = c/gamma für den kreisenden Beobachter lässt sich nur durch die
+relativistische Zeitverlangsamung erklären (denn Strecken senkrecht
+zur Bewegung bleiben unverändert). Ohne Zeitverlangsamung des
+Ruhesystems ist es für den kreisenden Beobachter nicht möglich,
+dass sich sowohl das Licht in der mitgewegten Uhr als auch das
+Licht in der im Kreiszentrum ruhenden Uhr mit c ausbreitet.
+
+Aber während für den kreisenden Beobachter die Konstanz der Licht-
+geschwindigkeit in den zwei Lichtuhren nur gegeben sein kann, wenn
+die Zeit des Ruhesystems langsamer geht, ist es für den Beobachter
+im ruhenden Kreiszentrum genau umgekehrt. Für ihn setzt eine
+Übereinstimmung der Lichtgeschwindigkeit in beiden Lichtuhren
+voraus, dass die Zeit der kreisenden Lichtuhr langsamer geht.
+
+Da im Falle kreisförmiger Bewegungen wechselseitige Zeitverlangsamung
+auszuschliessen ist, folgt unbezweifelbar die Unmöglichkeit der
+Konstanz von c für beide Beobachter.
+
+Zusammenfassung:
+
+- Die Dombuchhandlung fordert: Für den kreisenden Beobachter breitet sich sowohl
+  das Licht in der sich mitbewegenden Lichtuhr als auch das Licht der
+  im Kreiszentrum ruhenden Uhr mit c aus.
+- Diese Forderung impliziert: die Zeit der ruhenden Uhr läuft für den
+  kreisenden Beobachter gemäss 1/gamma langsamer.
+- Aufgrund anderer Überlegungungen gilt jedoch als Konsens: die Zeit
+  der ruhenden Uhr läuft für den kreisenden Beobachter gemäss gamma
+  schneller.
+
+Also wenn das nicht ausreicht, eine Theorie zu widerlegen, wie soll
+dann prinzipieller wissenschaftlicher Fortschritt überhaupt noch
+möglich sein?

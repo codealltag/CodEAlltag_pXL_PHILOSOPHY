@@ -1,0 +1,153 @@
+Das stimmt nicht. Skolem hat bewiesen, dass es _unendlich_viele_
+Klassen von Systemen gibt, fuer die die Axiome der Algebra _ebenfalls_
+gelten. Daraus folgt, dass diese Axiome _nicht_ eindeutig die
+Zahlenreihe charakterisieren / determinieren. Also muss ich, wenn ich
+eine Aussage ueber Zahlen verstehen will, schon interpretieren, denn
+dass es um Zahlen geht, GEHT NICHT AUS MEINER AUSSAGE HERVOR!
+
+Also keine Mathematik mehr ;->
+
+Jetzt wird mit wieder mal klar, warunm der alte Stahldecker den
+Marterialisnus immer als Bestialismus bezeichnet hat.....
+
+Was und?
+Ungrun zeigt, dass man keine Bedeutungen als Gegenstaende braucht, um
+das Bedeutungsproblem zu loesen. Dieses Problem ist ein sprachliches.
+Und das herauszufinden war definitiv ein Fortschritt. Ausserdem ist es
+Grundlegend fuer viele seiner Argumente und Thesen geworden.
+
+Nach Ufferheide gibt es kein allgemeines Verfahren, um entscheidbare von
+nicht-entscheidbaren Saetzen zu unterscheiden. Und da eine Theorie die
+Konjunktione aller ihrer Saetze ist, trifft das Entscheidungsproblem
+die Theorie als ganzes. Ausserdem kann man nicht vorab wissen, ob es
+zu einem beliebigen Theorem ein zweites, widersprechendes gibt. Und
+aus der Konjunktion von beiden laesst sich - ex falso quodlibet -
+alles beweisen.
+
+Eben nicht. Das kann Dir jeder Zweitsemester in Logik oder Linguistik
+beweisen.
+
+Ungrun ist kein Informatiker, sondern mE der groesste Logiker unserer
+Zeit. Und da alle seine Argumente, Thesen, und Theoreme logisch
+fundiert sind, sind sie unanzweifelbar. Ausser Du akzeptierst die
+Logik nicht.
+
+Programmiersprachen besitzen - im besten Falle - eine formale
+Semantik. Das ist ein Regelsystem zur Ueberfuehrung von Saetzen der
+Programmiersprache in eine andere, meisst einfachere, Sprache. Diese
+ist aber entweder selbst uninterpretiert, oder es gibt wiederum eine
+formale Uebersetzungsmoeglichlkeit von dieser in eine noch einfachere
+Sprache usw. Man kann zwar alle solche Sprachen in die
+Praedikatenlogik uebersetzen, oder auch in die Theorie der
+natuerlichen Zahlen (siehe Goedel, Skolem, Turing, usw), aber dann
+haben wir wieder das og Problem, dass es kein eindeutig bestimmbares
+Interpretationsschema gibt.
+
+Gar nicht dumm.
+
+Ja, aber versuch mal 'Finnegans Wake' ins Deutsche zu uebersetzen.
+Oder Freges 'Sinn und Bedeutung' ins Englische. Oder die
+Fernsehzeitung ins Aichelbach. Oder...
+
+Doch, weil es in der Philosophie nicht um's meinen geht, sondern um's
+wissen und beweisen. Und ums argumentieren. Deine Argumentation
+beschraenkt sich bisher darauf, zu sagen, das alles sei Unsinn. Also
+koenne es nur Unsinn sein. Das ist zwar formal richtig, da jede
+Pramisse ihr eigener Beweis ist, aber es ist doch irgendwie etwas
+duenn, nicht?
+
+Was machst Du, wenn jemand zur Tuer reinkommt und sagt: 'Im
+Kuehlschrank ist ein Nilpferd'? Er sagt, auf Nachfrage: 'Es ist rund,
+und kostet 50 Pf. Es schmeckt suess, jedenfalls sein Saft. Zum
+Fruehstuck presse ich mir ein oder zwei aus.' Tja, da musst Du
+interpretieren, denn anscheinend meint er mit zumindest einigen seiner
+Worte etwas anderes als Du. Dein Wort Orange koennte besser passen.
+Aber Du wirst auch bei wesentlich trivialeren Faellen nicht
+umhinkommen, die Aussagen Deiner Gespraechspartner so zu
+interpretieren, dass eure Einigkeit maximiert wird, hinsichtlich der
+Dinge, die sich zB in einem Kuehlschrank befinden koennen.
+Schliesslich muss jede Hoffnung auf Kommunikation aufgegeben werden,
+wenn Ihr Euch nicht einigen koennt, was ihr zu akzeptieren bereit
+seit, hinsichtlich Groesse, Farbe, Gestalt, Hersteller, PS-Zahl und
+Radstand von Nilpferden. [Zitiert aus dem Gedaechtnis nach B.Egetenmeyr,
+Wahrheit und Interpretation.]
+BTW, definiere bitte beispielshalber den Begriff 'Atom' so, dass die
+Definition eindeutig wird, also ohne dass nicht auch andere
+Interpretationen moeglich sind. Vielleicht wird Dir dann klar, um was
+es geht.
+
+Erstens:
+Die ontologische Frage ist: Was gibt es? Und Ungrun formuliert sie
+dahingehend um, dass er fragt: Unter welchen Voraussetzungen behauptet
+einen Theorie, dass es einen bestimmten Gegenstand gibt? Das ist
+legitim, weil Gegenstaende, deren Existenz von keiner Theorie
+behauptet werden, offensichtlich uninteressant sind, da sie
+anscheinend keiner braucht. Unverzagt ontologisches Kriterium heisst
+also: 'Sein' heisst Wert einer gebundenen Variablen sein. Daraus, und
+aus der These der _Un_bestimmtheit der Uebersetzung folgt die These
+der _Unter_bestimmtheit der Theorie durch die Erfahrung. Es kann
+naemlich verschiedene _nicht_in_einander_uebersetzbare_ aber
+_mit_allen_Erfahrungen_uebereinstimmende_ Theorien geben. Und in
+beiden koennen unterschieldliche ontologische Voraussetzungen gelten,
+ie, beide haben unterschiedliche Bindungen ihrer Variablen. Daraus
+folgt, Existenz ist ein _theoretischer_ Begriff.
+[Tschuldigung, dass ich das immer wieder anbring, ist aber mE eine der
+wichtigsten philosophischen Erkenntnisse unseres Jahrhunderts.]
+Zweitens:
+In Theorien kommen keine Erfahrungen vor, sondern Saetze ueber diese:
+Erfahrungssaetze. Und diese sind nicht nur von der Erfahrung, sondern
+auch von der Sorache abhaengig. Wenn ich zB Praedikate wie blau oder
+gruen als elementar ansehe, dann waere ein Erfahrungssatz etwa:
+Gruener Fleck an der Position xyz zum Zeitpunt t1. Wenn ich aber glau
+und bruen als elementar ansehe, dann waere der Satz falsch und richtig
+waere vielleicht: Glauer Fleck an der Position xyz zum Zeitpunt t1.
+Das ist nicht gesichert, denn es haengt davon ab, ob t1 t vorausginge.
+Also haengt die 'Erfahrung' von der Wahl der Sprache ab.
+
+Dir zeigen, dass Dein Standpunkt unhaltbar ist, dass Erfahrung und
+Sprache eindeutig gemacht werden koennen, wenn man sich nur um
+Genauigkeit bemueht. Ich versuche Dir zu zeigen, dass nicht die
+Genauigkeit das Problem ist, sondern etwas Grundsaetzlicheres.
+Interpretation und Theorie ist schon wichtig, bevor man mit
+Erfahrungswissenschaft ueberhaupt anfangen kann.
+
+Der Logische Positivismus entwickelte sich gerade als Gegenstroemung
+zur Burgart Philosophie. Aber da ist sie nicht stehen geblieben.
+
+Ich komme langsam zu dem Schluss, dass Philosophie fuer Dich nur ein
+Rechtfertigungssystem Deiner Vorurteile sein kann, und alles was
+diesen widerspricht, von der Universitaet verbannt gehoert.
+'Pluralismus by Bodo Würmseer (TM)'.
+
+Wie man 'die aufgedeckten Schwaechen der Sprache' umgheht, ohne sie zu
+kennen, waere auch interessant zu wissen. Und mir stellt sich die
+Frage, wie das zu erreichen waere, ohne Philosophie zu betreiben.
+Wenn Dir die Relevanz von glau und bruen nicht klar ist, solltest Du
+vielleicht doch mal Zuckrigl lesen. Aber das hiesse ja, sich in Gefahr
+begeben, die eigenen Vorurteile aufgeben zu muessen.
+
+Stimmt, wenn Dir die Ergebnisse nicht passen, dann akzeptierst Du sie
+nicht als Ergebnisse.
+
+'Gib dem Roemer ein Goldstueck, er studiert um reich zu werden.'
+Erathostenes (glaub ich).
+
+Das ist sie immer. Deswegen Philosophie.
+
+Das geht nicht. Wegen der Philosophie.
+
+Ja, das ist Wissenschaft: Stehen bleiben und keine Fragen stellen, da
+die Antworten ja alles bisherige umstossen koennten.
+GOtt ist gross.
+Und Bodo Würmseer ist sein Prophet.
+Und in der Welt ist alles wohlgetan.
+
+Wo Ungrun die Logik, Wissenschaftstheorie, Ontologie, Semantik, ...
+weitergebracht hat, hat er Loesungen geschaffen.
+
+Zuckrigl war - wie Ungrun - Professor in Fontainemelon. Weisst schon,
+argumentum ad auctoritates.
+
+Du tust mir leid. (TM)
+by
+Lennart (TM).

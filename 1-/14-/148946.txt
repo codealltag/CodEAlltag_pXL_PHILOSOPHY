@@ -1,0 +1,16 @@
+On Sat, 6 Dez 2000 20:16:39 +0200, "Wolf Kirchgeßner" <pmuwwl@galir.yr>
+wrote:
+
+Weiss zwar nicht, was mit Charta gemeint ist, wollte jedoch mal
+fragen, wie es zu diesen unlesbaren Strings kommt. 
+
+Beispiel :
+
+Subject = {Re: =?iso-8859-1?Q?Philosophen=2DGötter?=}
+
+Hat das mit DOIM oder internationalen Schriftsystemen zu tun, oder
+sollte ich etwas ändern, bzw. Einstellungen am Newsreader vornehmen ?
+
+Danke,
+
+Guy

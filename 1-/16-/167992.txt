@@ -1,0 +1,39 @@
+Jeder, der sich ein wenig mit der Erzeugung von Zufallszahlen auf
+dem Computer beschaeftigt hat, weiss dass es periodische Korellationen
+gibt, bestimmte Werte oder deren Kombinationen treten immer wieder
+auf. Wenn man aufeinanderfolgende Zufallszahlen (sagen wir, immer 2
+Stueck, x-y) als Steuerparameter fuer eine Richtung nimmt, wird der
+Computer sich nach ein paar Millionen Zahlen ganz deutlich fuer eine
+Richtung entscheiden, ob mit oder ohne Kueken. 
+
+Da der verwendete 'Roboter' sicher einen simplen modulo-Generator
+erhalten hat (geringster Rechenaufwand), kann man aus dessen
+Quelltext fast schon ableiten, wo der 'Roboter' landet.
+
+Am Anfang (beim 'Kontrollexperiment') sieht die Bewegung vielleicht 
+noch zufaellig aus, nach ein paar Stunden oder Tagen (je nach
+Rechengeschwindigkeit) ueberwiegt eine Richtung.
+
+
+Es erstaunt immer wieder, auf welche Unkenntnis man bei den
+Zeitgenossen setzen kann, um Geld zu verdienen (Buecherkauf).
+
+
+Da kenne ich auch ein gutes Experiment. Die Hypothese: "Wenn man vor
+dem Mittagessen betet, wird das Essen kalt".
+Nun kann man einen Versuchsaufbau waehlen, in dem man die
+Temperatur des Essens einmal vor dem Beten, ein paar mal 
+waehrend des Betens und einmal nach dem Beten misst. Die 
+gemessene Temperatur traegt man gegen die Messzeit auf und 
+schon kann man die Hypothese als 'wahr' belegen: "Beim Beten 
+wird das Essen kalt".
+
+
+Ich interpretiere das Resultat als Folge der Entscheidung der
+Roboterprogrammierer, die nicht wussten, 'wozu' man deren System
+ueberall einsetzen kann und als das Fehlverstaendnis der 
+Experimentatoren, was 'Computerzufallszahlen' sind.
+
+Viele Gruesse
+
+Niklaus

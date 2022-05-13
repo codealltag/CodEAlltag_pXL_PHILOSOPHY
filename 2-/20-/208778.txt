@@ -1,0 +1,37 @@
+Hallo Leute.
+
+Ich bin wieder da. :-)
+
+Mein News-Server hatte ziemliche Probleme, wodurch ich recht ploetzlich  
+aus den Diskussionen gerissen wurde. Ich hatte noch per Mail gebeten, mein  
+Missgeschick kundzutun. Ob diese Mails noch angekommen sind, weiss ich  
+bislang noch nicht. Doch wie ihr lest, jetzt sind die Probleme beboben und  
+ich kann wieder an der Gruppe teilzunehmen.
+
+Mich interessiert, ob Tino, Niklaus, Herta, Pierre usw. ( alphabetisch und  
+unvollstaendig ;-) noch dabei sind, oder ob hier jetzt nur noch ein  
+gewisser Brett-Mobber sein Unwesen treibt.
+
+        Ansonsten freue ich mich auf konstruktive,
+        klaerende Dialoge, so wie vorher halt,
+
+                mls, Walter
+
+BTW: Ein kurzes *Reply* im Brett waere nett, dann weiss ich, dass mein  
+Posting ankommt.
+( Ja ich weiss, dafuer existieren Testbretter, aber ... ;-)
+
+--
+[...]
+
+class Mensch Ich( "Hanna Gravenhorst", "Wxe@Fgmsyxb.cuqofi.ers", ... );
+class Leser *Du;
+
+[...]
+
+if (( You->Nett() == TRUE ) || ( You->Konstruktiv() == TRUE )) {
+   Ich.Gruss( Du );
+   Ich.Sage(  Du, "Antworte mal wieder...." );
+} else {
+   Ich.Sage( Du, "Tschuess." );
+}

@@ -1,0 +1,48 @@
+Nein, es geht dabei darum, dass die elementare Zahlentheorie nicht
+festlegt, was "Zahl" bedeutet, indem die Theorie auch mit unendlich
+vielen anderen Interpretationen von "Zahl" verträglich ist. Etwas
+überspitzt formuliert: Die elementare Zahlentheorie sagt uns, was wir
+mit Zahlen anfangen könnten, wüssten wir nur, was Zahlen /sind/. =
+
+
+Normalerweise geht man davon aus, dass "<", "=3D" und ">" nur auf Zahlen
+funktionieren, man kann diese Operatoren sogar verwenden, um mit ihnen
+die Zahlentheorie zu formulieren. Auf einstelligen Funktionen sind sie
+zunächst nicht definiert. Deswegen schlägt Meßthaler vor, zunächst ein=
+mal
+für zwei Funktionen f1 und f2 und jedes x die Ergebnisse von f1(x) und
+f2(x) zu vergleichen. Für jeden Vergleich wird dann das Ergebnis in ein=
+e
+Tabelle eingetragen, indem man ein o in die entsprechende Zeile
+schreibt:
+
+           x  |  0  1  2  3  4  5  6  7  8  9  ...
+--------------|-----------------------------------
+f1(x) > f2(x) |  o     o        o              ...
+f1(x) =3D f2(x) |     o     o        o  o        ...
+f1(x) < f2(x) |              o           o  o  ...
+
+Aus dem tertium non datur folgt, dass unter jedem x genau ein o steht,
+und außerdem, dass in mindestens einer Zeile unendlich viele o stehen.
+Nun kann man festlegen: a) Wenn in der obersten Zeile unendlich viele o
+stehen, gelte f1 > f2. b) Wenn das nicht der Fall ist, aber in der
+zweiten Zeile unendlich viele o stehen, dann gelte f1 =3D f2. c) Wenn
+weder a) noch b) zutreffen, gelte f1 < f2. Was man gewinnt, ist eine
+Interpretation der Zeichen "<", "=3D" und ">" für Funktionen. Es ergibt=
+
+sich nun, dass alle Gesetze, von denen man glaubte, sie würden
+definieren, was Zahlen sind, auch auf solcherart klassifizierte
+Funktionen zutreffen. Mithin definieren die Gesetze der elementaren
+Zahlentheorie nicht "Zahl". Und natürlich ergibt sich durch dieses
+Verfahren nicht nur /eine/ zusätzliche Interpretation, sondern unendlic=
+h
+viele, denn man kann statt f1(x) auch f1'(x) :=3D f1(f1(x))^f(x+999) oder=
+
+irgendwas anderes einsetzen.
+
+Das hat Konsequenzen für jeden Theoriebegriff, denn wenn es noch nicht
+mal bei so etwas einfachem wie "Zahl" funktioniert, eindeutig
+festzulegen, worauf es zutrifft, wie soll das dann erst bei
+"Higgs-Boson" funktionieren?
+
+Raphael.

@@ -1,0 +1,23 @@
+Ich halte die Modallogik fuer verkehrt, weil sie referentiell
+undurchlaessig ist. Notwendig-sein bzw. moeglich-sein ist dabei eher
+intensionalen Praedikaten aehnlich, als der Standard-Praedikaten-Logik,
+und deswegen sollte man deren Gebrauch besser in einer Theorie der
+intensionalen Praedikate erklaeren. Teucher z.B. hat einiges
+erhellendes dazu veroeffentlicht.
+
+
+Danke, dass Du das honorierst.
+
+
+Und hier kommt man zu zwei erheblichen Problemen: 1. Heisst das nicht
+mehr, als dass zwar alle gueltigen Saetze einer mathematische Theorie
+entweder Axiome, Definitionen oder analytische Saetze sind, erweist aber
+noch nicht die Erfahrungsunabhaengigkeit der Theorie als solcher. Mit
+diesem Analytizitaetsbegriff koennte ich fast leben, wenn nicht das
+Folgende der Fall waere: 2. Gegeben zwei unterschiedliche mathematische
+Theorien L1 und L2, dann kann man zwar definieren analytisch-in-L1 und
+analytisch-in-L2, aber nicht analytisch-in-allen-moeglichen-Lx, da man
+hier offensichtlich in einen viciuos circle geraet.
+
+Gruss,
+Leon.

@@ -1,0 +1,15 @@
+Das Gausssche Gesetz (ich hatte zuvor versehentlich Coulombsches  
+geschrieben) lässt sich im *statischen* Fall aus den Maxwellschen  
+Gleichungen ableiten. Es ist explizit ein statisches Gesetz. Die von Dir  
+beschriebene Situation ist dynamisch, und betrifft es deswegen gar nicht.
+
+Für dynamische Situationen darfst Du nicht von der Integralform ausgehen  
+(Fluss=Flächenintegral(Feld)), sondern von der differentiellen  
+Maxwellschen Gleichung: Div(E)=ro/epsilon-0. Du musst also für die  
+Berechnung des Flusses das "Gausssche Kästchen" unendlich klein um die als  
+Punkte gedachten Ladungen ziehen. Dann geht alles richtig auf.
+
+Im statischen Fall, und nur dann, folgt daraus das Gausssche Gesetz.
+
+Größe
+D.

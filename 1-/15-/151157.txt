@@ -1,0 +1,15 @@
+Pietro Averkorn <cdqoav.jcytsqay@c-fbhkky.wv> schrieb in im Newsbeitrag:
+0U9Z6194.1294CYL7@z-fdcyzr.pm...
+oder
+
+Du solltest nicht 0 und 1 schreiben, da die eben anders definiert sind,
+sondern z. B. 1+ bzw. 1-, je nachdem von welcher seite Du dich annähert,
+oder einen Buchstaben. Kommt einfach besser.
+Das ganze kommt von der Grenzwertberechnung, oder eben alles wo man eine
+beliebige genauigkeit braucht. Du kannst somit auch nicht alle reellen
+Zahlen erfassen, da Du dich einmal für eine Schrittgrösse (  (0+) + (1+) = x
+Da es jedoch zwischen 0 und 1 unendlich viele Zahlen gibt bräuchte man
+unendliche genauigkeit, und die ist nur theoretisch vorhanden.
+
+Gruss
+Pierre

@@ -1,0 +1,30 @@
+Fraktale können identische Strukturen enthalten. Betrachtet man aber die
+Relation zwischen zwei geometrischen Objekten, so ist das nur dann
+sinnvoll, wenn es sich auch um zwei Objekte handelt. Und aus Sicht der
+Geometrie enthalten geometrische Objekte sich niemals selber.
+
+Ein Beispiel: eine Kochsche Schneeflockenkurve enthält sich als Struktur
+selber. Aber zwei Kochsche Schneeflockenkurven als geometrische Objekte
+betrachtet, eine von (0|0) nach (0|1) und eine von (0|2) nach (0|3),
+sind zwei verschiedene geometrische Objekte, genau wie die Kurve von
+(0|0) nach (0|1) und die Kurve von (0|0) nach (0|1/3) zwei verschiedene
+geometrische Objekte sind. Das letzte Beispiel ist dabei im vorletzten
+enthalten (streng genommen ist das letzte Beispiel übrigens Teil des
+vorletzten, und das ist eine andere Beziehung als das Enthalten, es ist
+aber /auch/ enthalten).
+
+
+Eine vollständige Simulation setzte voraus, dass das Universum diskret
+ist. Die bisherigen physikalischen Modelle scheinen mir aber nicht
+diskret zu sein.
+
+Entsprechend wäre die einzige Möglichkeit, eine zweite Physik zu haben,
+die dasselbe Universum reimplementiert.
+
+
+"Ceci n'est pas une pipe."
+
+Viele Grüsse,
+VB.
+-- 
+Bitte beachten Sie auch die Rückseite dieses Schreibens!

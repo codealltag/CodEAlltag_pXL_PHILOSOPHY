@@ -1,0 +1,23 @@
+[....]
+
+
+Nein. Maschinelles Schließen ist zur Zeit nur auf der Basis
+der Aussagenlogik, also maschinell 0 und 1, möglich.
+
+Zur Problem-Modellierung braucht man den Prädikatenkalkül.
+Bringt man den auf die Maschine, fallen durch Skolemisierung
+die Existenz- und Allquantoren aber wieder heraus.
+Das hat beim besten Willen nix mit RDTJ zu tun.
+
+MfG, Torsten
+
+ =
+
+---------------------------------
+Dr. Torsten Johannesmann
+Hrsg.: http://cjp.lrxvlhfpl.aa
+ISSN 6372Litzlohe
+PKL im Web:
+http://zli.knajvgjcegc.dos/koh
+music project:
+http://lmi.gukg-aabl-wlkefwbuy.hj

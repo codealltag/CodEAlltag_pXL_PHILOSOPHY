@@ -1,0 +1,239 @@
+: In article <2o41bv$s4f@vnyhw33.foi.mbo-xllpikz.dg>,
+: ...
+: >Hiermit rekurierst Du auf die Bedeutung von Worten. Du versuchst Dein
+
+: Oh, Verzeihung, ich habe die Bedeutung nur benutzt, weil sie (mir) nahelag.
+
+: ...
+: >Es bleiben Dir zwei Möglichkeiten:
+: >	1) Du DEFINIERST "Geburt" als logisch verknüpft mit "Tod", dann ist
+: >	   dies die Voraussetzung 3 und Deine Behauptung eine Tautologie.
+
+: Das verstehe ich jetzt nicht...
+
+Ganz einfach: Wenn Du definierst, daß auf die Geburt der Tod folgt, dann ist
+es eine tautologisch zu sagen, daß alles was geboren wird auch stirbt. Das
+ist oBdA trivial! 
+
+: >	2) Du gestehst zu, daß die Frage, ob alles (oder nur Menschen) was
+: >	   geboren wird auch stirbt, eine Frage der Empirie ist, die sich
+: >	   also nur durch Beobachtungen entscheiden läßt, dann aber kannst
+: >	   Du keine logische Gewissheit mehr erwarten.
+: >
+: >: Da es aber um Geburt ging, hielt ich es fuer notwendig, darauf
+: >: hinzuweisen, dass es um das System geht, das aus {Geburt, Tod}
+: >: besteht und aus nichts weiterem...
+: >
+: >Wie gesagt, es gibt nichts am geboren werden, das mit irgendeiner logischen
+: >oder begrifflichen Notwendigkeit das Sterben beinhaltet.
+: >
+: Halt, halt: es ging um die These, dass die Geburt die Notwendigkeit
+: des Sterbens enthaelt. Wir betrachten also genau dieses System, das
+: aus diesen beiden Elementen besteht. Und warum soll es nicht aus
+: weiteren Elementen bestehen koennen?
+
+Zunächst eine weitere Begriffsklärung, oder besser ein Aufruf zur
+Unterlassung: Das Wort "notwendig" sollte sparsam verwendet werden! In den
+meisten Fällen ist damit nicht mehr als 'logische Folgerung' gemeint, wobei
+es dann auch einfach weglassen werden kann ohne Aussagekraft zu
+verlieren. In naturwissenschaftlichen Aussagen hat dieses Wort schon gar
+nichts verloren, weil in der Natur nirgens etwas mit Notwendigkeit auf
+irgendetwas folgt.
+
+In der Philosophie findet man hin und wieder, daß verschiedene Autoren diese
+oder jene Annahme 'notwendig' finden. An diesen Stellen sollte man immer
+besonders aufmerksam sein und sich fragen, ob der Autor das Wort im
+logischen Sinne oder nur in einem psychologischen Sinne verwendet, um den
+Leser durch die 'Notwendigkeit' seiner Beweisführung zu beeindrucken.
+
+Was bleibt ist eine Erweiterung der klassischen Logik um die Modaloperatoren
+\box (notwendig) und \diamond (möglich), die jedoch erst im Rahmen der
+Bentele-Semantiken (viele-Welten-Semantik) eine präzise Bedeutung
+gewinnt. Aber diese Frage hat mit unserem Problem nichts zu tun.
+
+Als nächstes fährst Du das Wort 'System' ein und meinst, daß damit eine
+klare Bedeutung verbunden wäre. Dem ist nicht so! Es gibt ja nicht mal ein
+'natürliche' Bedeutung von 'System'! Wenn Du also meinst, daß es um ein
+System geht, in dem zwei Elemente vorkommen, die Du mit 'Geburt' und 'Tod'
+bezeichnest, dann wäre es nett gewesen, etwas präziser zu sagen, welche
+Beziehungen zwischen den Elementen, die zum System gehören, bestehen, ob es
+noch andere Elemente gibt, ob Elemente das Gleiche sind wie Zustände, ob
+Elemente sowohl Zustände, wie Beziehungen meint und so weiter und so fort.
+
+Aber auch Systeme lassen sich über logische Formeln beschreiben, so daß
+letztlich nichts neues gewonnen ist, wenn die Beschreibungssprache
+gewechselt wird.
+
+: Naja, Tod und Geburt sind beides Veraenderungen, die sich allein durch
+: die Richtung in Bezug auf den Beobachter unterscheiden. Wenn etwas fuer
+: einen Beobachter wahrnehmbar wird, dann wird es geboren, wenn es aus
+: einem Zustand der Sichtabrkeit "verschwindet", dann "stirbt" es. Was
+: fuer den einen wie eine Geburt aussieht, kann ein anderer als Tod
+: wahrnehmen. Der Parameter, der zwischen "Tod" und "Geburt" anders
+: ist, ist die Richtung. Aus "Tod" und "Geburt" wird ein orthogonales
+: System aufgespannt, das keine weiteren Elemente benoetigt.
+
+In diesem ganzen Absatz habe ich kein Wort verstanden. Für mich hört sich
+das so an, als würdest Du Begriffe so lange durchkauen, zerknetten,
+vermengen und wieder neu zusammensetzten, bis man alles damit behaupten
+kann. Mir scheint es (naturwissenschaftlich, nicht begrifflich) erwiesen,
+daß es sich sowohl bei Geburt, wie Tod, um irreversible Prozesse handelt und
+insbesondere scheint es mir keine Frage des Standpunktes zu sein, ob Björn
+Adloff Tod ist oder nicht.
+
+: ...
+: >(3) sagt das es so sei und ist mit dem zu beweisenden identisch! Aus einer
+: >Menge von Axiomen folgt natürlich jedes dieser Axiome. Es wäre eben
+
+: Nein, das ist nicht richtig. Wenn wir ein System betrachten, dass aus
+: den "Elementen" Tod und Geburt besteht, dann ist damit noch lange nicht
+: ausgesagt, dass es Veraenderungen von dem einen Element zum anderen
+: geben muss.
+
+Klar! Wenn man sich darum drückt klar zu sagen, was man meint, dann ist
+eigentlich noch überhaupt nichts ausgesagt.
+
+: ...
+: >: Aus (3) haette folgen sollen, dass \neq Geboren(x,t') identisch mit
+: >: Tod(x,t') ist.
+: >
+: >Das ist aber eindeutig falsch! Den wie ich gerade an mir überprüfen konnte,
+: >gilt \not Geboren(Ingmar,25.06.1997), obwohl ich alles andere als
+: >tod bin (hoffe ich wenigstens).
+: >
+: :-)
+
+: ... (\exists t')[ ... \not Geboren(x,t') ]
+
+: Offensichtlich ist t=26.07.1997 fuer x=Ingmar nicht mit t' identisch...
+
+Offensichtlich ist damit wiederlegt, daß etwas, was zu einem Zeitpunkt nicht
+geboren wird auch nicht tot sein muß. Tatsächlich galt:
+	\not Geboren(Ingmar,25.06.1997) & \not Tod(Ingmar,25.06.1997)
+und gilt sogar heute noch.
+
+: Noch eine Anmerkung zu der strittigen Voraussetzung oder Annahme
+: Nummer drei:
+
+: Diese Voraussetzung ist nicht mit der zu beweisenden These identisch
+: (oder: sie soll es nicht sein). Die These lautet:
+:    (\forall x, t) \box [ Geboren(x,t) => (\exists t')[ Tod(x,t') ]
+: (3) sollte dagegen lauten:
+:    (\forall x) [ \not Geburt(x) => Tod(x) ]
+
+Dieser 'Ersatz' ist aber unzulänglich, denn es ist wohl kaum richtiger
+Sprachgebrauch, daß meine zukünftigen Kinder jetzt bereits tod sind! Den
+Zeitindex fallen zulassen scheint mir nicht statthaft. Zudem haben wir es
+jetzt mit anderen Prädikaten zu tun und solange keine Beziehungen zwischen
+'Geburt(x)', 'Geboren(x,t)', respektive zwischen 'Tod(x)' und 'Tod(x,t)',
+bekannt ist, läßt sich daraus überhaupt nichts folgern. 
+
+Könnte es sein, daß Du auf Kriegsfuß mit der Logik stehst?
+
+: Warum? Siehe oben.
+
+
+: Na gut - die "binaere" Betrachtung erscheint mir nicht angemessen
+: (und in sofern erscheint mir meine dritte Aussage auch nicht ganz
+: richtig zu sein). Eher erscheint es mir wie ein Kreislauf: die
+: Geburt als Veraenderung in eine bestimmte Richtung. Die Richtung
+: aendert sich mit der Zeit. Ein "Beweis" hierfuer? Hmmm, ich hielt
+: es fuer "selbstverstaendlich". Zumindest fuer "offensichtlich"
+: genug :(
+
+Persönliche Stimmungen und Gefühle sind schlechte Ratgeber in Bereichen, die
+sich sehr wohl argumentativ bearbeiten lassen.
+
+: Ich gebe mich geschlagen - jegliche "Voraussetzungen", die ich mache,
+: koennen angezweifelt werden. Solange es keine einheitliche Diskussions=
+: "basis" gibt, solange laesst sich nichts diskutieren. Aber ich wehre
+: mich dagegen, wenn meine Aussagen unrichtig interpretiert werden.
+
+Es ist aber nicht so schwierig eine gemeinsame Basis zu finden, wenn man
+sich bemüht klar und deutlich zu formulieren. Unklarheiten entstehen, wenn
+man sich auf eine bildhafte Art zu denken einläßt und nicht in der Lage ist,
+dies in eine präzise Form zu übersetzen.
+
+Das ich Dich falsch verstanden habe, glaube ich eigentlich immer noch nicht,
+denn was ich gemacht habe, war eigentlich Deine Aufgabe: Deiner Behauptung
+eine präzise Form zu geben, die man diskutieren kann, ohne in der
+schwammigen und vor Beliebigkeit strotzenden Interpretation von Bildern
+stecken zu bleiben.
+
+: Also:
+
+: Erste Annahme:
+:    V(x,t) := (\exists t')[ t < t' & Zustand(x,t) \neq Zustand(x,t') ]
+: Etwas ist veraenderlich, wenn es zu einem spaeteren Zeitpunkt einen
+: _anderen_ Zustand hat.
+
+Okay. Hier hatte ich Dich also richtig verstanden.
+
+: Zweite Annahme:
+:    (\forall x,t)[ Geboren(x,t) => V(x,t) ]
+: Wenn etwas geboren wurde, dann ist es auch veränderlich.
+
+Hier also auch.
+
+: Dritte Annahme:
+:    (\forall x) [ \not Geburt(x) => Tod(x) ]
+: Wenn etwas nicht im Zustand "Geburt" ist, dann ist es im Zustand "Tod".
+: Ich belasse es erst einmal bei dieser "binaeren" Aussage, die ich aber
+: letztendlich nicht "binaer" meine. Aber zur Vereinfachung lasse ich es
+: erst einmal so stehen.
+
+Diese Annahme stammt nicht aus meinem Interpretationsversuch und hat mit den
+anderen beiden Annahmen auch nichts zu tun. Plötzlich gibt es zwei neue Prädikate
+
+: Eine logische Gewissheit kann ich hieraus schon folgern. Also: in
+: einem System, indem (1), (2) und (3) gelten, gilt der Satz, dass
+: alles, was geboren ist auch sterben wird. Ist das richtig?
+
+Nein! Als Informatiker solltest Du doch wissen was eine logische Ableitung
+ist und müßtest nicht mich fragen, ob eine bestimmte Ableitung aus
+bestimmten Annahmen folgt; Du könntest diese Ableitung alleine
+durchführen. Aber tatsächlich ist dies auch nicht möglich! Denn wie bereits
+mehrfach erwähnt, müßtest Du zwischen den Prädikaten 'geboren' und 'tod'
+noch eine Beziehung herstellen, nämlich die, daß aus dem geboren werden, das
+Sterben folgt. Die Annahme, daß sich alles was geboren wird, auch verändert,
+reicht nicht, weil nicht jede Veränderung zum Tode führt!
+
+: Jetzt fehlt nur noch die Offensichtlichkeit, dass (1) und (2) und (3)
+: unsere Realitaet beschreiben...
+
+Damit wären wir wieder beim Ausgang, nämlich der naturwissenschaftlichen
+(nicht logischen!) Hypothese, daß alles was geboren wird, auch stirbt. Die
+Gültigkeit einer solchen Hypothese läßt sich aber nicht beweisen!
+
+übrigens stimmt es auch gar nicht, daß alles was geboren wird, auch stirbt,
+denn schließlich vermehren sich Bakterien durch Teilung und die einzelnen
+Individuuen sterben nicht. ähnliches gilt auch für einige Krebszellen, die
+prinzipiell beliebig lange leben können.
+
+: Natuerlichsprachlich wuerde ich zusammenfassen: "Wir betrachten
+: Veraenderung, deren Struktur es ist, dass in der zeitlichen Abfolge
+: _andere_ Zustaende aktiv werden, die aber nur insoweit anders sein
+: koennen, als dass sie eine Variation des Ursprungszustandes mit
+: geaenderten Parametern sind. Geburt sei ein Zeichen von Veraenderung,
+: dessen zu betrachtender Parameter die Richtung der Veraenderung
+: sei (der Unterschied zwischen Geburt und Tod)".
+
+Wenn das 'natürliche Sprache' ist, dann muß es eine andere natürliche
+Sprache sein, als die, die ich spreche. In meiner Sprache hat weder Geburt
+noch Tod eine Richtung.  Aber selbst wenn ich versuche einen Sinn darin zu
+sehen kommt dabei nicht heraus, daß der Tod zwangsläufig auf die Geburt
+folgt, es sei denn Du definierst es so, womit das ganze dann aber keine
+naturwissenschftliche Behauptung, sondern eine Festsetzung wird, deren Sinn
+aber erst erklärt werden müßte.
+
+: Tschuess,
+: Jacques Hersemeyer
+
+MfG
+	Ingmar
+--
+Ingmar Lüningschrör                            egjnpedh@mjpfxoythj.exe-hckaymf.bo
+Erlenbachstraße{\"gerstenbergerweg}Almenweg{\cb}burgundgasse 91 
+96160 Michelau
+Tel: (++24)(++26)88222-683
+WWW: http://ntm.egvusmxrgf.twl-rbugdmp.zp/ITU/sdgwtqcwf/qsjlnojee/wpbk.qiix

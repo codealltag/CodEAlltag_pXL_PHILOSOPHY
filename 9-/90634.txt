@@ -1,0 +1,41 @@
+"Gummimuffe" <Anvbjwqzzr@cls.fn>
+
+
+Ich habe da noch einen Tipp-Fehler gemacht
+255 ist korrekt!  Also Hex.  FF
+Sonst ergibt das keinen Sinn.
+
+zwei und zwei =  {-1, 0, 1. 2 ,4 ,10,100, 255}
+
+Also, mal normale Arithmetik
+
+zwei und zwei =  Dez. 4;  Quart 10;  Bin 100
+
+
+Bitvergleich
+
+zwei und zwei = 2
+
+
+Logisch
+
+Harte Typenprüfung
+zwei und zwei =  Falsch  =  Bool  0
+
+Weiche Typenprüfung
+zwei und zwei =  Wahr =  Bool  1, Compi  -1  = FF = 255
+
+Das wär's mit mathematischer Logik
+
+-----------------------
+
+Nun "schräg" geometrisch:
+
+Kugel Umfang =  9
+zwei und zwei  = {4; 5}       :-))
+
+Wieso, braucht vielleicht etwas "Phantasie".
+
+
+mfg
+Ulf Pflughaupt

@@ -1,0 +1,36 @@
+Italo:
+Dann sind sie gleich, vergleichbar, gleichgestaltig / identisch ist nur
+ein Objekt mit sich selbst
+
+Zwei Objekte, die Du nicht unterscheiden kannst sind gleich. Identisch
+sind nur zwei Objekte, auf die zwei Zeiger zeigen und die sich bei
+näherer Betrachtung als ein Objekt herausstellen.
+
+Das hilft uns nicht weiter.
+
+
+Ja, und nichtmal gleich.
+
+Ich verwechsle schon nicht Objekt und Bild von Objekt. Das hilft uns
+nicht weiter, oder?
+
+
+Alles zugegeben
+
+"Ich denke, ich bin zu dick"
+
+Das erste ich denkt und das zweite ist zu fett.
+
+Erster und zweiter Zeiger zeigen auf ein Objekt. Bei näherer Betrachtung
+handelt es sich bei beiden um das selbe Objekt, nicht nur das gleiche.
+Wenn ich dem Objekt, auf das der erste Zeiger zeigt, ins Ohr beiße
+schreit es. Es schreit aber auch das Objekt, auf das der zweite Zeiger
+zeigt. Es handelt sich also nicht nur um ein gleiches Objekt sondern um
+dasselbe. Die Objekte sind identisch in meinem obigen Sinne.
+
+
+Niclas
+-- 
+"Am meisten Angst macht mir nicht die globale Erwärmung, sondern die
+globale Verblödung."
+Sina Eveslage

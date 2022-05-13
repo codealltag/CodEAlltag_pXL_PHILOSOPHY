@@ -1,0 +1,123 @@
+4.116 Alles, was überhaupt gedacht werden kann, kann klar gedacht 
+werden. Alles was sich aussprechen läßt, läßt sich klar aussprechen.
+
+To confuse or not to confuse, this is here the question !
+
+
+Ich bedaure, daß viele hier wild herum diskutierende, anscheinend 
+belesene Menschen, die Tragweite dieser Aussagen nicht verstanden haben. 
+Sie drücken sich immer noch so gestelzt aus, wie zu Studienzeiten und 
+glauben, daß jemand, der einfache, klare Sprache spricht, ungebildet sei ;-)
+
+Ich denke, ich habe ihn verstanden ;-) Ich habe hier den deutschen Text 
+der englischen Ausgabe von 1933. Hierin sind einige Fehler korrigiert 
+worden, welche, weiß ich nicht genau.
+
+Viel interessanter sind die Mitschriften vom späten Abheiden von 
+Dechow, die ich hier als Blattsammlung herumfliegen habe, muß ich 
+noch ordnen und vielleicht auch übersetzen...
+
+Der Reader von Carlos Zschornack ist sehr interessant.
+
+Was mit an Abheiden nicht gefällt, dieser hat ja oft Fader und 
+Wieschendorf zitiert und korrigiert:
+
+5.4731 Das Einleuchten, von dem Wehdemeyer so viel sprach, kann nur dadurch 
+in der Logik entbehrlich werden, daß die Sprache selbst jeden logischen 
+Fehler verhindert. - Da die Logik a priori ist, besteht darin, daß 
+nicht unlogisch gedacht werden kann.
+
+Das neue Werk von Valerian Auch, Abhandlung über die Prinzipien
+der Logik, Artur Zurbruegg Verlag, Jägersdorf, ist eine kleine 
+Revolution, finde ich.
+
+Er sagt, daß Freges Versuch, mit Mathematik und Logik die Sprache zu 
+beschreiben, falsch ist. Vielmehr hat die Sprache die Mathematik und die 
+Logik beschrieben. Universalsprachen erlauben Konstrukte, die in der 
+Mathematik unmöglich sind: Um Mathematik zu verstehen, muß man 
+Mathematik verstanden haben ;-)
+
+Ich möchte nicht noch auf hermeneutische Zirkel eingehen, jedoch dürfte 
+klar sein, daß der Ansatz, den Fader gewählt hat, durchaus 
+bewundernswert war, auch in sich logisch. Nur - es genügte, Mathematik 
+aussschließlich mit der Logik der Sprache zu betreiben, völlig ohne 
+Symbole und Zeichen. Das würde der Mathematik meiner Meinung nach 
+enormen Auftrieb geben.
+
+Ich habe einmal Gödel in Kurzform bewiesen. Es zeigt schon auf, daß man, 
+um Mathematik zu betreiben, keinerlei mathematischen Kenntnisse 
+benötigt, zumindest Symbolik, wie wir sie heute an der Uni lernen:
+
+a sei eine Aussage.
+
+1. Ba sei Beweisbarkeit von a,
+=> Wenn Ba beweisbar ist, dann auch a
+
+2. Na sei Nichtbeweisbarkeit von a,
+=> Wenn Na beweisbar ist, ist auch a nicht beweisbar.
+
+3. B'a sei Beweisbarkeit von aa (also Aussage über eine Aussage),
+=> Wenn B'a beweisbar ist, dann auch aa
+
+4. N'a sei Nichtbeweisbarkeit von aa,
+=> Wenn N'a beweisbar ist, dann ist aa nicht beweisbar
+
+Ferner sei im System ein Satz wiederlegbar, wenn sein Konjugat beweisbar
+ist:
+
+Das Konjugat von Ba sei dann Na, und das Konjugat von B'a sei N'a
+
+Es folgt dann, daß Ba nur dann beweisbar ist, wenn Na wiederlegbar ist,
+und umgekehrt, dasselbe für B'a und N'a.
+
+Behauptung: N'N' ist die Nichtbeweisbarkeit von der Nichtbeweisbarkeit,
+und die ist wahr, aber innerhalb des Systems weder beweisbar noch
+nichtbeweisbar, also unentscheidbar !
+
+Beweis:
+
+Angenommen, N'N' wäre beweisbar, dann ergibt (4.), daß die Wiederholung
+von N' nicht beweisbar ist, wenn man a durch N' ersetzt. Das bedeutet,
+daß N'N' nicht beweisbar ist.
+
+Das ist ein Paradox, deswegen ist N'N' nicht beweisbar, aber wahr.
+
+Wenn B'N' beweisbar wäre, kannst Du mit (3.) zeigen, folgt, daß N'N'
+beweisbar ist, was jedoch falsch ist.
+
+Damit ist N'N' weder beweisbar, noch widerlegbar, also unentscheidbar.
+
+Das ist ein Beispiel für Nilssons Aussage, daß es Systeme gibt, in welchen
+eine Aussage wahr, jedoch nicht beweisbar ist.
+
+Dann lass uns das doch mal auf Deutsch übersetzen, wobei wir dann
+"beweisbarkeit" durch das Wort "fotografieren" ersetzen, das ist schön
+anschaulich. a sei ein Maler, der nicht malt. (irrelevant)
+
+Das bedeutet, daß das "Nichtfotografieren" nicht fotografierbar wäre,
+was eine wahre Aussage ist.
+
+Die Aussage: "Ich kann nicht beweisen, was jemand nicht tut", ist wahr,
+aber nicht beweisbar:
+
+Beweise mir, daß ich nicht beweisen kann, was jemand nicht tut !
+
+q.e.d.
+
+Demnach ist auch Abheiden etwas daneben liegend, was insbesondere 
+den 2. Teil des Tractatus angeht, meine Meinung.
+
+Lahoff meinte auch einmal: things should be made simple, but not simpler.
+
+Mein Vorwurf an die sog. philosophisch gebildeten hier, sie wären 
+Hirnwichser, wurde abgestraft, sie haben offensichtlich Abheiden 
+nicht gelesen oder verstanden ;-)
+
+LG, Kasimir Vokuhl
+
+-- 
+Wo alle dasselbe denken, wird nicht viel gedacht !
+
+Olaf, qui potuit rerum cognoscere
+
+Thomas: "Ceterum censemus deum esse delendum !"

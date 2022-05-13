@@ -1,0 +1,24 @@
+Das ist furchtbar naiv.
+
+Erstens musst du zwei Dinge messen:
+   - die zugeführte Wärmemenge
+   - die Temperatur
+
+Zweitens muss du beides hochgenau messen. (sehr schwierig)
+Miss einmal die Temperatur eines Systems auf 0.001 Grad
+genau oder genauer. Wie fährst du genau definierte
+Wärmemenge zu oder misst diese?
+
+Drittens muss du für das gemessene System selbst (also z. B.
+für ein Kubikmeter Luft) die Abgeschlossenheit sicherstellen
+(dass also der Behälter nicht mitspielt) und dass weder bei
+der Wärmezufuhr, noch bei der Temperaturmessung eine Störung
+im Sinne eines zusätzlichen unbekannten oder unkontrollier-
+baren Wärmetransportes stattfindet. (sehr schwierig)
+
+Entropiemessungen (also genauer: die rechnerische Bestimmung
+der Entropie aus experimentellen Wärmemengen- und Temperatur-
+messungen) sind äußerst anspruchsvoll. Ich persönlich kenne
+niemand, der das schon durchgeführt hat.
+
+lg Mirko

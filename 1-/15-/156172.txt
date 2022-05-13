@@ -1,0 +1,22 @@
+Du scheinst es, glaube ich, nicht so recht zu verstehen, was eine ueberab-
+zaehlbare Sprache ist. Die Symbolmenge besteht aus ueberabzaehlbar vielen
+Konstanten a_i. Betrachte nun die Menge der Ausdruecke (ja sogar Saetze!)
+{a_i\neq a_j: i\neq j}.
+
+Da die Indexmenge I ueberabzaehlbar ist, muss die Interpretation auch ueber-
+abzaehlbar sein.
+
+
+Habe ich irgendwas von Quantoren geschrieben? Ich spreche hier von dem
+Ausdruck a_i\neq a_j fuer i\neq j, und das ist sogar ein Satz, da er keine
+freien Variablen enthaelt.
+
+
+Ich denke, es ist damit offensichtlich, dass es kein abzaehlbares Model gibt,
+oder wie willst Du die ueberabzaehlbar vielen Konstanten dort wiederfinden?
+
+
+Gruss
+
+Oliver.
+--

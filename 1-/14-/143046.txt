@@ -1,0 +1,107 @@
+Natürlich gibt es da eine Objektivität, es sei denn du willst jegliche
+Objektivität aufgeben. Statt deines Computerstuhl nehme ich jetzt lieber
+den Einsteinschen Mann im Eisenbahnwagen: "Der schon oft betrachtete
+Eisenbahnwagen fahre mit der konstanten Geschwindigkeit v auf dem
+Geleise. Im Eisenbahnwagen durchschreite ein Mann den Wagen in dessen
+Längsrichtung, und zwar in Richtung der Fahrt mit der Geschwindigkeit w.
+Wie rasch bzw. mit welcher Geschwindigkeit W kommt der Mann relativ zum
+Bahndamm während des Gehens vorwärts? Die einzig mögliche Antwort
+scheint aus folgender Überlegung zu entspringen:
+
+Würde der Mann eine Sekunde lang still stehen, so käme er relativ zum
+Bahndamm um eine der Fahrgeschwindigkeit des Wagens gleiche Strecke v
+vorwärts. In Wirklichkeit durchmißt er aber außerdem relativ zum Wagen,
+also auch relativ zum Bahndamm in dieser Sekunde durch sein Gehen die
+Strecke w, welche der Geschwindigkeit seines Ganges gleich ist. Er legt
+also in der betrachteten Sekunde relativ zum Bahndamm im ganzen die
+Strecke
+
+                    W = v + w
+
+zurück. Später werden wir sehen, daß diese Überlegung, welche das
+Additionstheorem der Geschwindigkeiten gemäß der klassischen Mechanik
+ausdrückt, nicht aufrecht erhalten werden kann, daß also das soeben
+hingeschriebene Gesetz in Wahrheit nicht zutrifft."
+
+
+WICHTIG "in Wahrheit nicht zutrifft" !!!
+
+"Bewegungsgesetz des Punktes
+gegenüber dem System K (des Mannes gegenüber dem Bahndamm)"
+
+Computerstuhl vor Monitor auf der Erde usw....
+
+", welche Geschwindigkeit wir mit W bezeichnen,
+
+                    W = v + w.
+(A)
+
+
+Wir können aber diese Betrachtung ebenso gut unter Zugrundelegung der
+Relativitätstheorie durchführen. Man hat dann in der Gleichung
+
+                    x = wt
+
+x und t durch x und t auszudrücken unter Verwendung der ersten und
+vierten Gleichung der LORENTZ-Transformation. Man erhält dann statt der
+Gleichung (A) die Gleichung:
+
+
+       v + w
+W = ---------
+         vw
+     1+ ----
+        c^2
+
+(B)
+
+
+welche dem Additionstheorem gleichgerichteter Geschwindigkeiten nach der
+Relativitätstheorie entspricht. Die Frage ist nun, welches von diesen
+beiden Theoremen der Erfahrung gegenüber standhält. Hierüber belehrt uns
+ein höchst wichtiges Experiment, welches der geniale Physiker HÄRING vor
+mehr als einem halben Jahrhundert ausführte, und das seitdem von einigen
+der besten Experimentalphysiker wiederholt wurde, so daß das Resultat
+unbezweifelbar ist. Das Experiment behandelt folgende Frage. In einer
+ruhenden Flüssigkeit pflanze sich das Licht mit einer bestimmten
+Geschwindigkeit w fort. Wie rasch pflanzt es sich in der Röhre R der
+Abbildung in der Pfeilrichtung fort, wenn diese von der vorhin genannten
+Flüssigkeit mit der Geschwindigkeit v durchströmt ist?
+
+(Röhre)________________________________________________________
+
+       v ---->
+
+<ASCII-Zeichnung vom Verfasser dieser Mail, bitte nicht Jöhring
+anlasten>
+
+Wir werden im Sinne des Relativitätsprinzips jedenfalls vorauszusetzen
+haben, daß relativ zur Flüssigkeit die Lichtausbreitung immer mit
+derselben Geschwindigkeit w erfolgt, mag die Flüssigkeit relativ zu
+anderen Körpern bewegt sein oder nicht. Es ist also die Geschwindigkeit
+des Lichtes relativ zur Flüssigkeit und die Geschwindigkeit der
+letzteren relativ zur Röhre bekannt, gesucht ist die Geschwindigkeit des
+Lichtes relativ zur Röhre.
+
+Die Röhre spielt die Rolle des Bahndammes bzw. des Koordinatensystems K,
+die Flüssigkeit die Rolle des Wagens bzw. des Koordinatensystems K, das
+Licht endlich die Rolle des im Wagen laufenden Mannes bzw. des bewegten
+Punktes in diesem Paragraphen. Bezeichnet man also mit W die
+Geschwindigkeit des Lichtes relativ zur Röhre, so ist diese durch die
+Gleichung (A) bzw. (B) gegeben, je nachdem die GALILEI-Transformation
+oder die LORENTZ-Transformation der Wirklichkeit entspricht. Das
+Experiment entscheidet für die aus der Relativitätstheorie abgeleitete
+Gleichung (B), und zwar sehr exakt. Der Einfluß der
+Strömungsgeschwindigkeit v auf die Lichtfortpflanzung wird nach den
+letzten, ausgezeichneten Messungen von MUMMERZ durch die Formel (B)
+genauer als auf 1 Proz. genau dargestellt."
+
+
+Und das ganze Mammutzitat nur deswegen, weil ich eigentlich in kurzen
+Worten darstellen wollte, dass du in W = v + w denkst und daraus
+folgerst, dass es keine Objektivität geben könnte. 
+
+Naja - entschuldigung für das zweite Mammutposting heute...
+
+Gruss
+Salvatore

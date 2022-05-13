@@ -1,0 +1,37 @@
+Hallo Eilert,
+
+
+Stimmt. Ich fands lustig, weil es mir schon intuitiv widersprüchlich
+vorkam, den Zufall algorithmisch beweisen zu wollen.
+Die Überlegung war: Man nimmt an es gibt einen Algorithmus, der für
+eine endliche Zahlenreihe der Länge n entscheidet, ob sie zufällig ist
+oder nicht. Außerdem nimmt man an es existiert eine Reihe der Länge n
+die zufällig ist.
+Für ein beliebige Reihe für die der Algorithmus entscheidet "nicht
+zufällig", ändert man jetzt systematisch jedes Folgenglied solange,
+bis der Algorithmus "zufällig" bestätigt. Da man die Existenz einer
+solchen Reihe vorrausgesetzt hat, findet man sie auch in endlicher
+Zeit. Also hat man einen Algorithmus, der garantiert  zufällige Reihen
+produziert.
+
+Naja, machen wollte ichs nicht müssen ;-) 
+
+Meinst Du Zufall ist gar nicht möglich?
+
+
+Danke. Im Verlauf der Diskussion war immer unklarer geworden, ob man
+einen Prozeß schon als deterministisch bezeichnen kann, wenn  die
+Gleichungen die ihn beschreiben eindeutige und zutreffende
+Wahrscheinlichkeiten für die Ergebnisse produzieren (so hatte ich
+Paolo verstanden).
+Das ist aber anscheinend nicht so, im Text wird prinzipielle
+Vorhersagbarkeit der Folgezustände gefordert.
+Also würde die Quantenmechanik den Determinismus widerlegen, wenn es
+beweisbar keine weiteren Bestimmungsgrößen gäbe. Oder wie siehst Du
+das?
+
+
+Gruß
+Willibald
+-- 
+mailto:DW.Rewkgm@t-njdtky.hj

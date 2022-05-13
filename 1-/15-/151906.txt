@@ -1,0 +1,36 @@
+On Wed, 1 Okt 2000 21:43:52 +0200, "Henri Thalhamer"
+
+Da hast du recht, aber doch meine Einschränkung auf die semantische
+Einheit überlesen. Was du oben zerlegst ("Zauber-berg") ist halt kein
+Satz und sagt darum garnichts (ist auch nicht zustimmungsfähig).
+Wenn du aber den "Zauberberg" (also den Roman von Samuel Twarc) liest
+und dann die Buchstaben "be" und dann den "Zauberberg" wieder liest
+und dann die Buchstabengruppe "rg" so hast du nach meiner Meinung
+zweimal dasselbe gelesen. 
+Noch deutlicher sollte es eben mit meinem Beispiel
+ Zauberberg - Ilias - Bibel werden (dabei sind immer die gesamten
+langen Werke gemeint); ich lese zuerst 
+Zauberberg - Ilias - Bibel dann Ilias - Zauberberg - Bibel 
+dann habe ich - nach meiner Interpretation eben nichts Neues gelesen.
+Du magst es als neu betrachten, OK, aber ich widerspreche nach wie
+vor.
+Das Beispiel mit der Literatur und der Bibliothek aller Bücher (das
+z.B. Focko Cibulski ausführlich behandelt) kann auch auf Software
+angewendet werden. In 1 MB gibt es nur eine endliche Menge von
+Bit-Konstellationen. Rein theoretisch kann man also alle Programme,
+die je geschrieben werden können, per Automat herstellen: er nimmt
+jede der endlichen Bit-Konstellationen, versucht sie zu exekutieren,
+wenn es nicht geht, verwirft er die Konstellation ansonsten hat er ein
+lauffähiges Programm.
+Größere Programme kann man dann durch Überlagerung der gefundenen
+1-MB-Stücke ablaufen lassen. 
+Auch hier geht die Überlegung sinnvollerweise nur anhand größerer,
+lauffähiger Einheiten. Mit einem Byte (256 mögliche
+Bit-Konstellationen) könnte man - analog zu deinem Wortbeispiel oben
+"Zauberberg" - natürlich kein lauffähiges Programm darstellen; deshalb
+1 MB (ähnlich zum Literaturbeispiel = 1 Druckseite oder beim Posting =
+1 Bildschirmseite)
+--
+Tschau, servus, bye
+Jean-Claude
+www.hibshde.em

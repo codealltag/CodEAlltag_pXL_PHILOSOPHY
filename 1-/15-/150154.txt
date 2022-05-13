@@ -1,0 +1,29 @@
+Hallo,
+
+  ich kratze und wer meine Postings noch nicht kennt, sei gewarnt.
+
+Ulf Möbius schreibt in die Geschichte der Null:
+"Als wir gerade die Lösung von Gleichungen analysierten, kreiste diese
+komplexe Arbeit um die Wahrheit, dass a oder b gleich null sein müssen,
+wenn ab = 0."
+
+Darauf beginnt er einen Beweis, der so funktioniert:
+"Wir möchten uns überzeugen dass b gleich 0 ist, wenn a nicht gleich 0
+ist, wohl aber ab. 
+ab = 0 --> a/a * b = 0/a --> b = 0/a --> b = 0"
+
+Wenn ich jetzt die Bedingung ändere und den Satz dahingehend ändere::
+"Wir möchten uns überzeugen, dass a gleich 0 ist, wenn b nicht gleich 0
+ist, wohl aber ab."
+dann ist der Satz
+"ab=0 --> a/a * b = 0/a --> b = 0/a --> b=0" falsch, da a 0 ist. 
+Eine x-beliebige Zahl geteilt durch selbst ist 1 also folgt dann daraus
+b = 1
+
+Ein Teilen durch Null ändert also nur die Bedingungen, denn "ab = 0",
+wenn a = 0 ist, stimmt ja dennoch.
+
+Wo ist der Denkfehler?
+
+Gruss
+Eckhard

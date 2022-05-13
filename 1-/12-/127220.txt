@@ -1,0 +1,79 @@
+Da bin ich wohl zunächst missverstanden worden. Soweit hier praktikable
+Lösungen für OCR das Thema wären, da weiß ich natürlich, die gibt es schon
+und das Problem ist kaum noch eines, jedenfalls nicht in der Art, dass man es
+als prinzipiell unlösbares ansehen könnte.
+Ein Teil der Lösung besteht in einem vorgegebenen Definitionsbereich von
+verschiedenen token je Buchstabentyp, ein Teil in der Erweiterungsfähigkeit
+dieses Definitionsbereichs um weiterere token (z. B. aus individuellen Hand-
+schriften oder nicht berücksichtigte Alphabeten) und ein weiterer Teil in einer
+sogenannten KI, die mögliche Worte und ganze Kontexte, sogar in verschie-
+denen Sprachen, verarbeiten kann, um zu zuverlässigen OCR-Ergebnissen zu
+kommen. Hier geht es zunächst nur um Zeichenerkennung, von Bedeutung ist
+hier keine Rede. Das betrifft hier also soweit auch deinen nächsten Absatz.
+
+Das Prinzip, was hier zugrundeliegt ist jedoch ein recht simples:
+a) Es gibt einen apriorischen, endlichen Definitionsbereich.
+b) Es gibt einen endlichen Algorithmus, die in endlicher Zeit zu Ergebnissen führt.
+c) Das Verfahren ist damit im Wesentlichen ein Matching, d. h. es wird
+    die Übereinstimmung vorkommender token (aus einem Text) mit denen
+    einer vorgegebenen Menge von token (den Matchcodes) verglichen
+    (ggf. noch unter Zuhilfenahme des Kontextes)
+    und der jeweilige Buchstabentyp wird aus einer Tabelle gelesen.
+
+Diese Erläuterung reicht hinunter bis zum Ende meines übernächsten Absatzes.
+
+
+Ja, siehe oben. Wobei ich persönlich anmerken möchte, dass "Vorschläge
+machen" und "eventuell stoppen" speziell in diesem Zusammenhang bei mir eine
+allergische Reaktion auslöst. Entweder das Ding weiß was es tut oder nicht :-)
+
+
+Nehmen wir einmal an, du wärest der Computer, der nach dem Prinzip matchen
+würde, wie es oben unter a) bis c) beschrieben ist. Nun würde ich dich (Com-
+puter) fragen, woher du denn die Buchstabentypen hättest, auf welche hin du
+letztendlich matchst. "Aus dem platonischen Ideenhimmel natürlich", würdest du
+antworten, (weil ein humorvoller Programmierer dies vorgegeben hätte :-).
+
+Allem, was du oben schreibst kann ich im Wesentlichen schon zustimmen.
+Zwei Dinge möchte ich dabei aber besonders hervorheben.
+
+Es gibt für jede Gesamtheit von Sachverhalten (Ansicht oder Ausschnitt von
+Welt) prinzipiell zwei Arten, sie zu erfassen, entweder synthetisiert zu einem
+Ganzen, intuitiv, (kantisch gesprochen als Anschauung aber hier des Ganzen)
+oder analytisch, in einer Gesamtheit von Einzelbestimmungen, (zunächst auch
+als Anschauung, jedoch einzelner Phänomene). Das letztere setzt auf jeden
+Fall die Fähigkeit zur Identifikation von Einzelphänomenen voraus. Es finden
+also notwendig Abgrenzungen statt, noch bevor überhaupt Vergleiche an-
+gestellt werden können und noch bevor überhaupt reflexives Denken darüber
+einsetzen kann. D. h. die Identität von Gegenständen muss gegeben sein,
+bevor über sie verfügt, reflektiert werden kann. Erst die nachfolgende Re-
+flexion verifiziert (oder falsifiziert oder reorganisiert) das Gegebene, das
+Identifizierte auch anhand des Verstandes und der Vernunft.
+
+(Um die eigenen Voraussetzungen zu hinterfragen, ist es vielleicht nützlich,
+sich einfach vorzustellen, man käme vorübergehend in eine völlig fremde
+Inselwelt, die keinerlei bekannte Gegenstände bereithält. Man könnte aber
+dennoch Gegenstände identifizieren, auch ohne etwas über sie zu wissen.)
+
+Das zweite, was ich aus deinem obigen aufgreifen möchte ist nun die
+"Regelerfüllung" oder "Regelanwendung". Nach dem vorstehenden und
+zusätzlich mit dem Verweis auf obige Einleitung ("Ideenhimmel" :-)dürfte
+doch klar sein, dass Identifikation eine Grundfähigkeit betrifft, die sich
+ihre Objekte selbst sucht und die Regeln selbst bildet.
+
+Auf Maschinen bezogen heißt das, sie brauchten ein kognitives System,
+das sich seine Objekte selbst sucht und sie brauchten prinzipiell un-
+endliche Algoritmen, die aber selbst ihre Abbruchbedingungen erzeugen
+um etwa das zu leisten, was mit Identifizierung im anspruchvollsten Sinne
+eigentlich gemeint ist.
+
+
+Mit Speicher- und Rechenleistung lässt sich vieles machen, die Kunst
+ist es so zu machen, dass es wenig Resourcen, Zeit und Strom kostet :-)
+
+
+Ja, warum nicht? Timcke ist ja nicht notwendig das Ende aller Logik. :-)
+
+Größe
+
+Francis

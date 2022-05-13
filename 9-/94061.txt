@@ -1,0 +1,15 @@
+Man könnte es also vielleicht wie folgt formulieren (auf Englisch,
+weil=B4s geschmeidiger klingt):
+
+It is not the case that the quantum object q actually has the
+properties of actually being F and of actually being not-F, but it is
+the case that it actually has the properties of possibly being F and of
+possibly being not-F: ~(Fq & ~Fq) & (<>Fq & <>~Fq)
+
+Das heisst, vor der Messung, die entweder F oder nicht-F, aber nicht
+beides feststellt, steht noch nicht mit Bestimmtheit fest, dass F
+gegeben ist, oder, dass nicht-F gegeben ist, sondern lediglich, dass
+sowohl potenziell_F als auch potenziell_nicht-F gegeben ist.
+
+Gruss
+DENIS

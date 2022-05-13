@@ -1,0 +1,138 @@
+: In article <8pzs4a$4en@kdcwp81.bez.arj-iqpmtns.qm>,
+: >
+: Endlich mal jemand mit konstruktiver Kritik. Schoenen Dank.
+
+Da nicht für.
+
+: >: Wenn etwas / jemand geboren wird, dann ist eine Eigenschaft dieses
+: >: "Jemand" die Veraenderung (ohne Veraenderung ist keine Geburt moeglich).
+: >
+: >: Veraenderung bedeutet, dass der aktuelle Zustand sich in einen
+: >: ANDEREN Zustand wandelt - Geburt als ein Extrem kennt nur einen
+: >: einzigen anderen (Extrem-) Zustand: naemlich den Tod.
+: >
+: >Voraussetzung 1: 
+: >V(x,t) := (\exists t')[ t < t' & Zustand(x,t) \neq Zustand(x,t') ]
+: >Inhaltlich: Etwas ist veränderlich, wenn es zu einem späteren Zeitpunkt einen
+: >anderen Zustand hat.
+: >
+: >Voraussetzung 2:
+: >(\forall x,t)[ Geboren(x,t) => V(x,t) ]
+: >Inhaltlich: Wenn etwas geboren wurde, dann ist es auch veränderlich.
+: >
+: >Voraussetzung 3:
+: >(\forall x, t)[ Geboren(x,t) => (\exists t')[ t \le t' & Tod(x,t') ] ]
+: >Inhaltlich: Wenn etwas geboren wird, dann stirbt es auch. Oder mit Herbert
+: >Worten (von Achim als "Wortgeklingel" bezeichnet): Geburt kennt als Extrem
+: >nur das andere Extrem des Todes.
+: >
+: Oh - das ist ein Missverstaendnis. Vielleicht koenntest Du meine
+: folgenden (hoffentlich klaerenden) Worte auch uebersetzen:
+
+: Ein System, das nur die Geburt kennt und die "Geburt" zum Gegenstand
+: der Betrachtung nimmt, kennt als GegenTEIL(!) der Geburt nur den Tod.
+: Wenn ich die Vorderseite einer Muenze betrachte, dann gibt es als
+: Gegenteil nur die Moeglichkeit der Rueckseite und nicht das Muenz=
+: material oder das Innere der Muenze etc.. Ich wollte hiermit alleine
+: die Moeglichkeit ausschliessen, dass es sich zu allen moeglichen
+: anderen Dingen hin entwickelt, aber nicht zum Tod.
+
+Hiermit rekurierst Du auf die Bedeutung von Worten. Du versuchst Dein
+Argument über die Interpretation des Wortes "Gegenteil" aufzuziehen. So wie
+Du das tust, ist das aber falsch! Das Gegenteil von "Der Wohnsitz des
+nordamerikanischen Präsidenten ist weiß" ist nicht  "Der Wohnsitz des
+nordamerikanischen Präsidenten ist schwarz", sondern  "Der Wohnsitz des
+nordamerikanischen Präsidenten ist nicht weiß". Ebensowenig ist das
+Gegenteil der einen Seite der Münze die andere Seite, das ist eben höchstens
+"die andere Seite".
+
+Es bleiben Dir zwei Möglichkeiten:
+	1) Du DEFINIERST "Geburt" als logisch verknüpft mit "Tod", dann ist
+	   dies die Voraussetzung 3 und Deine Behauptung eine Tautologie.
+	2) Du gestehst zu, daß die Frage, ob alles (oder nur Menschen) was
+	   geboren wird auch stirbt, eine Frage der Empirie ist, die sich
+	   also nur durch Beobachtungen entscheiden läßt, dann aber kannst
+	   Du keine logische Gewissheit mehr erwarten.
+
+: Da es aber um Geburt ging, hielt ich es fuer notwendig, darauf
+: hinzuweisen, dass es um das System geht, das aus {Geburt, Tod}
+: besteht und aus nichts weiterem...
+
+Wie gesagt, es gibt nichts am geboren werden, das mit irgendeiner logischen
+oder begrifflichen Notwendigkeit das Sterben beinhaltet.
+
+: >: Jeder, der geboren wird, traegt damit automatisch die Notwendigkeit
+: >: fuer seinen Tod mit sich herum.
+: >
+: >Folgerungsinterpretation (Version 1): 
+: >(\forall x, t)[ Geboren(x,t) => (\exists t')[ t \le t' & Tod(x,t') ]
+: >
+: >Dies ist aber nicht anderes als die Voraussetzung 3, während alle anderen
+
+: Nein, das ist es nicht - ich hoffe, ich habe das klarstellen koennen.
+
+Leider nicht.
+
+: >Voraussetzungen gar nicht benutzt werden und somit überflüssig sind. Also
+: >haben wir hier keinen Beweis sondern eine Festsetzung, die unbegründet
+: >bleibt, aber mit vielen Worten verschleiert wird. Fazit: Viel Rauch um
+: >nichts!
+: >
+: Aus (1) und (2) folgt, dass eine Veraenderung eintreten muss, wenn
+: eine Geburt aufgetreten ist. Aus (3) folgt, dass diese Veraenderung
+: der Tod sein muss.
+
+(3) sagt das es so sei und ist mit dem zu beweisenden identisch! Aus einer
+Menge von Axiomen folgt natürlich jedes dieser Axiome. Es wäre eben
+interessant zu sehen, wie "Alle Menschen sind sterblich" aus einer Menge von
+Axiomen folgt, die diesen Satz (oder einen äquivalenten, wie, das "Geburt
+nur den Tod als Gegenteil kennt") nicht als Axiom enthält.
+
+: >Folgerunginterpretation (Version 2): ("\box" sei der Notwendigkeitsoperator)
+: >(\forall x, t) \box [ Geboren(x,t) => (\exists t')[ t \le t' & Tod(x,t') ]
+: >
+: >Dies ist nun natürlich nicht mehr die Voraussetzung 3, weil ja nun mit
+: >"Notwendigkeit" der Tod auf die Geburt folgt. Andererseits ist aber auch nun
+
+: Voraussetzung (3) ist doch in Deiner Variante keine Voraussetzung mehr,
+: sondern der zu beweisende Satz. Oder fehlt in (3) noch die Notwendigkeit?
+
+Nein, die Struktur Deines Beweises war es eben, daß das zu beweisende
+bereits in den Voraussetzungen enthalten war.
+
+: >keinerlei Folgerungsbeziehung zwischen (angeblicher) Konklusion und den
+: >Voraussetzungen mehr erkennbar.
+: >
+: Die Folgerung aus (1) und (2) heisst doch:
+
+: (\forall x, t) \box [ Geboren(x,t) => (\exists t')[ t \le t' &
+:                                                      \neq Geboren(x,t') ]
+: ("\neq Geboren" soll bedeuten, dass es ein Zustand ist, der
+: unterschiedlich ist zum Zustand "Geboren").
+
+
+Aus (1) und (2) kann dieser Satz NUR folgen, wenn der Notwendigkeitsoperator
+trivial interpretiert wird (und also weggelassen werden kann). Ansonsten
+hast Du aber recht (mit \not statt \neq), aus (1) und (2) folgt:
+
+(\forall x, t) [ Geboren(x,t) => (\exists t')[ t \le t' & \not Geboren(x,t') ]
+
+: Aus (3) haette folgen sollen, dass \neq Geboren(x,t') identisch mit
+: Tod(x,t') ist.
+
+Das ist aber eindeutig falsch! Den wie ich gerade an mir überprüfen konnte,
+gilt \not Geboren(Olivier,01.08.1995), obwohl ich alles andere als
+tod bin (hoffe ich wenigstens).
+
+: Gruss,
+
+: Herbert Hülsmann
+
+MfG
+	Olivier
+--
+Olivier Grunen                            anotjzkw@tztyzjawor.scw-jhkeqlj.qn
+Im Mayergraben{\"cyclopstraße}Ziegelofenweg{\dw}greilweg 66 
+81232 Zegast
+Tel: (++79)(++29)47892-332
+WWW: http://zye.jnoxskezkt.xka-zgbqkou.al/XCB/dpljjyhjf/yjgizxwtr/ewax.obou

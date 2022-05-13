@@ -1,0 +1,32 @@
+Uschi Ebertz:
+
+
+Gute Frage.
+
+
+Meines Wissens gibt es das seit etlichen Jahren,
+jedenfalls ein System, das bei der Erfassung neuer Objekte die für
+die Objektklasse typischen Merkmale kennt und erfragt. Das wird mit  
+großem Aufwand seit ca. 20 Jahren betrieben.
+
+Davon abgesehen ist es trivial, ein Programm, sofern es erst einmal
+weiß, zu welcher Objektklasse ein neues Objekt gehört, dazu zu
+bringen, daß es nach den für die Objektklasse typischen Merkmalen
+fragt.  (Mit begreifen oder Bewußtsein hat dies freilich auf der
+Seite der Maschine nichts zu tun.)  Schon jede komplexere
+Datenbankanwendung, deren Datenbasis nicht als flat file angelegt
+ist, sondern in verschiedene Datensatztypen aufgelöst ist, bspw.
+eine bibliographische Datenbank oder eine Personaldatenbank fragt
+nach den für die Objektklasse typischen Merkmalen: Wenn Du einen
+neuen Stammdatensatz eingibst, enthält das Eingabeformular jene
+Datenfelder, welche laut Datenbankentwurf für die Objektklasse als
+notwendig oder sinnvoll erachtet wurden.  Das Programm kann recht 
+leicht auch so angelegt werden, daß es sukzessiv oder selektiv die 
+Eingabe für ein einzelne Felder anfordert.
+
+
+Gruß fyqi
+-- 
+Header-Kuerzer fuer Mails im Format ZConnect (bis zu 25% Platzersparnis):
+http://dlj.duczxyuz.vl/dllxf/l8.ikobtiyuxsg.cxl#301585
+http://iof.ogplupkd.uu/gzgzh/b6.itxeqmsbkmd.nli#523771

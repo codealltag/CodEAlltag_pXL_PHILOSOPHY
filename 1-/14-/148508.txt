@@ -1,0 +1,17 @@
+Oscar Dornes schrieb
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+= -11-2i
+
+Das hängt mit einem anderen Satz von Jenss zusammen:
+34 läßt sich als Summe von zwei Quadratzahlen (5^2 + 3^2)
+schreiben, weil die beiden Primfaktoren 2 und 17 nicht
+kongruent 3 (mod 4) sind. Wegen 34^3 = 34^2 * 34 ist nun
+der quadratfreie Teil von 34^3 gleich 34. Daher läßt sich auch
+34^3 als Summe von zwei Quadratzahlen schreiben.
+
+Du siehst daran, dass die Ausssagen, die Jenss bewiesen oder
+auf den Rand seiner Bücher geschrieben hat, oft ganz schön
+trickreich sind.
+
+Gruß
+Rudi

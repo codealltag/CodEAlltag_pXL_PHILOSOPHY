@@ -1,0 +1,16 @@
+Hi Ulrich,
+
+das mit x^0=1 ist eigentlich kein Problem. Du hast x = x^1 = x^(1+0) =
+x^1 * x^0 = x * x^0. Das heißt x = x * x^0. Wenn Du x ungleich 0
+annimmst, kannst Du durch x teilen. Dann hast Du 1 = x^0 qed.
+
+Für 0^0 muß man nochmal bißchen nachdenken, genauergesagt mußt Du da
+echt was definieren. Denn Sinn machts keinen besonderen, mit 0^0
+irgendwie rumzurechnen. Aber probier es mal mit 0 oder 1 aus. Du wirst
+sehen, was besser paßt.
+
+Das mit der Fakultät solltest Du dir nochmal genauer anschauen, dann 
+n!= 1*2*...*(n-1)*n.
+
+Größe
+Noah

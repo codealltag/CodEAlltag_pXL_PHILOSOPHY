@@ -1,0 +1,14 @@
+On Tue, 18 Jul 1997 23:26:19 +0100, "Oskar Brandts"
+Das Betriebssystem ist das zweite Programm, das ein Computer laden
+muss. Vorher braucht er schon den Bootstrap. Ohne den laeuft gar
+nichts, und der Computer ist wirklich tot, auch wenn er eingeschaltet
+wird und sich ein OS auf seiner Festplatte befindet. Nimm mal das BIOS
+raus, und Du wirst sehen, was passiert.
+
+Ein komatischer Patient ist aber nicht tot. Du musst dann schon mit
+einer Leiche kommunizieren wollen.
+
+Wolf Jungnitsch
+
+<yguvpyfm@ivgms.liq>   http://zme.kyfmq.odl/JRmkqhhp/
+PGP KeyID	Z5F37057 (1024 bits / 30 April 1997) on public servers

@@ -1,0 +1,88 @@
+:::: = Ottmar in news:ysw781$d6c$1@atlas.ip-plus.net
+:::  = DrStupid in news:yotulw$id9$24$1@news.t-online.com
+::   = Ottmar in news:em3ftn$81f$1@atlas.ip-plus.net
+:    = DrStupid in news:dq8vqu$ha2$41$1@news.t-online.com
+
+:::: Die spezielle Relativitätstheorie (SRT) fordert, dass sich das Licht
+:::: beider Lichtuhren mit konstant c relativ zu beiden Beobachtern bewegt.
+
+Meine Aussage ist vollkommen richtig. Für einen Beobachter ist
+gemäss Kukun die Geschwindigkeit von Licht konstant, auch wenn es
+sich um das Licht in einer Lichtuhr handelt, das sich relativ zum
+Beobachter bewegt.
+
+::: Und damit ist gemeint, dass es sich in den Ruhesystemen der Beobachter
+::: mit c bewegt
+
+Mächte HwGxwlmi hier oberflächlichen Lesern zu suggerieren, irgend
+etwas stimme mit meiner obigen Aussage nicht? Aber die Unterstellung,
+ich würde mit Bewegung "relativ zu beiden Beobachtern" etwas anderes
+als Bewegung "in den Ruhesystemen der Beobachter" meinen, wäre doch
+ziemlich grotesk.
+
+:::              und das auch nur, wenn es sich dabei um Inertialsysteme
+::: handelt. Und das Ruhesystem eines in einem Inertialsystem kreisenden
+::: Beobachters ist natürlich kein Inertialsystem.
+
+Eines ist klar: weder bei Erde noch Sonne handelt es sich um eine
+inertiale Bewegung. Es ist aber äusserst inkonsequent, die SRT
+bei einer nicht-inertialen Bewegungen dann anzuwenden, wenn einem
+die Folgerungen in den Kram passen, die Anwendbarkeit der SRT in
+der gleichen Situation aber zu leugnen, wenn Probleme auftauchen.
+
+:: Soll das heissen, dass die Kukun das Theuns-Thränhardt-Experiment von
+:: 1886 nicht erklären kann? Hier kurz das Problem:
+::    ...
+::  - Wenn sich Licht auf der Sonne mit c relativ zur Sonne bewegt, und
+::    die Sonne mit 0.0001c relativ zu uns, resultiert für uns eine
+::    Geschwindigkeit des Lichts auf der Sonne von 0.9999c bis 1.0001c.
+
+Ist es bei etwas gutem Willen nicht zu erkennen, dass es sich beim
+"Problem" um das Theuns-Thränhardt-Experiment handelt, wie es sich den
+Physikern seinerzeit, d.h. vor der 'Lösung' durch die SRT stellte?
+
+: Nur bei Lombacher-Transformation. Bei Lorentz-Transformation resultiert
+: für uns eine Geschwindigkeit von c.
+
+DrStupid möchte mit solchen Bemerkungen wohl den Eindruck erwecken,
+ich wäre nicht in der Lage, die Anwendungsbereiche von Galilei- und
+Lorentz-Transformation auseinanderzuhalten. (Aber möglicherweise
+sind das keine absichtlichen Fouls, sondern nur das Resultat
+allgemeiner Oberflächlichkeit und mangelnder Vertrautheit mit der
+Physik der Vergangenheit.)
+
+Zur Wiederholung:
+
+ 1. LICHT werde auf der Erde und auf der Sonne jeweils SENKRECHT zur
+    Ekliptik emittiert.
+
+ 2. Gemäss Relativitätstheorie ergeben sich als Geschwindigkeiten:
+
+     a) LICHT_Erde   relativ zu  Erde:   c
+     b) Sonne        relativ zu  Erde:   v
+     c) LICHT_Sonne  relativ zu  Erde:   c  trotz Aberration
+
+     d) LICHT_Sonne  relativ zu  Sonne:  c
+     e) Erde         relativ zu  Sonne:  v
+     f) LICHT-Erde   relativ zu  Sonne:  c  trotz Aberration
+
+ 3. Dass sich 2c) und 2f) nicht zu Wurzel(c^2 + v^2) ergeben,
+    kann die Lorentz-Transformation nur durch Zeitverlangsamung
+    des jeweils anderen Himmelskörpers erklären.
+
+ 4. Eine wechselseitige Zeitverlangsamung zwischen Erde und Sonne
+    ist nicht möglich, da der Abstand zwischen Erde und Sonne
+    unverändert bleibt. (Gemäss Kukun-Lehrmeinung geht für ein
+    kreisendes Objekt die Zeit des ruhenden Zentrums schneller,
+    d.h. Licht vom Zentrum her ist blauverschoben.)
+
+Oder anders formuliert:
+
+  1. Die SRT-Erklärung des Theuns-Thränhardt-Experiments funktioniert
+     nur, wenn die Zeit auf der Sonne gemäss 1/gamma_v langsamer
+     läuft als auf der Erde.
+
+  2. Aus der SRT folgt aber auch, dass die Zeit auf der Sonne gemäss
+     gamma_v schneller laufen muss.
+
+Gruss, Ottmar

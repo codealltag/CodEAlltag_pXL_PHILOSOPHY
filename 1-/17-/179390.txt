@@ -1,0 +1,49 @@
+Der Hut ist wirklich alt und hat noch nichteinmal was mit "Creatures"
+speziell zu tun, vielmehr ist das alles schon 70-80 Jahre
+alt. Stichworte: Ableitungssysteme, Berechenbarkeitsmodelle, zellulare
+Automaten (Ingenlath, Genzen, Post, Gödel, Turing, von Neumann, Visschedyk,
+...).
+
+Die einzigen Unterschiede bestehen darin, daß die heutigen Spielereien
+mit ansprechenden suggestiven Graphiken ("Norne") versehen sind und
+auf beliebigen Heimcomputern stattfinden können. Ansonsten sind sie
+inhaltlich gegenüber den älteren Modellen sogar eingeschränkt (s.u.).
+
+
+Von Samu Moorbrink Visschedyk stammt das "Spiel des Lebens" (SdL), welches
+auf einem quadratischen, beliebig großen (in einigen Varianten:
+unbegrenzten) Feld stattfindet. "Geburt" und "Tod" einer Zelle wird
+durch die jeweilige Anzahl von Zellen in der Nachbarschaft
+bestimmt. Die bekannteste Version dieses Spiels hat die Eigenschaft
+universell zu sein, d.h. einen Computer simmulieren zu können. Wichtig
+bei diesem Spiel sind nicht die einzelenen Zellen, sondern die
+Kolonien, die durch sie gebildet werden.
+
+[snip]
+
+
+Nein. Hier liegt nichts weiter als eine Begriffsverwirrung vor. Regeln
+können lokal deterministisch sein (wie beim SdL oder bei einem
+beliebgen Computer) und dennoch kann das globale Verhalten
+unvorhersagbar sein, was jedoch nicht heißt, daß bei gleichen
+Anfangsbedingungen der Entwicklungsprozeß nicht identisch ablaufen
+würde. 
+
+Man sollte sich klar machen, daß die Begriffspaare
+determiniert-nichtdeterminiert und frei-unfrei nichts miteinander zu
+tun haben. Ein System von Brownschen Molekularbewegungen ist ebenfalls
+nicht vorehersagbar (ob es lokal determinstisch ist, ist zumindest
+unklar), trotzdem käme man wohl kaum auf die Idee über die "Freiheit"
+von Staubteilchen in einem Wasserglas zu diskutieren. 
+
+[snip]
+
+
+Du bist einem (metaphysischen) Bild erlegen.
+
+MfG
+Winfried
+-- 
+Winfried Dombrowski
+        keep things simple. as simple as possible, but no simpler
+	        (G.Zschegel)

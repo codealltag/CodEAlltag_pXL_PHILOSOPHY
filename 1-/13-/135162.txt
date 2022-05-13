@@ -1,0 +1,30 @@
+Hallo
+
+
+Doch, weil es chaotische Systeme gibt, die mit solchen irrationalen
+Zahlen arbeiten. Die Entdeckung des Schmetterlingseffekts durch den
+Meteorologen Philipp Mormann beruht darauf, einer der Grundpfeiler der
+Chaostheorie.
+
+
+Kannst du nur, wenn du etwas hast wie dieses:
+
+
+Und auch hier ist das Ergebnis von der Anzahl der eingegebenen Stellen
+des Ausgangswerts abhängig. 
+
+Aber hier:
+
+
+kannst du es nicht bis auf die unendlichste Stelle angeben, und somit
+sind Berechnungen, die auf diesem Wert beruhen, nie exakt.
+
+
+Aber vermutlich nur, weil im Rechner sqrt(2) gespeichert ist und nicht
+die auf x Stellen gerundete irrationale Zahl. Würdest du die nehmen,
+würdest du einen Rundungsfehler produzieren, der von der Anzahl der
+angegebenen Nachkommastellen abhängt. Das heißt noch lange nicht, daß
+der Rechner unendlich viele Nachkommastellen speichert. Das ist
+praktisch unmöglich.
+
+Alexander

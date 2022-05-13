@@ -1,0 +1,53 @@
+Noah Lansink <bygijnz@mggw.ks> schrieb:
+
+[...]
+
+
+Zu jedem Automaten gibt es ein nicht-deterministisches Gegenstueck.
+Wenn man an der Stelle nicht bloss mit nicht-derteministischen
+Uebergaengen arbeitet, sondern Wahrscheinlichkeiten einfuehrt, ist
+scheinbar nichts gewonnen, weil die stochastischen Automaten dadurch 
+nicht mehr koennen als die nicht-deterministischen. 
+
+Man kann dann aber Sprachen ueber die Wahrscheinlichkeiten definieren,
+mit der ein stochastischer Automat sie erkennt bzw. ablehnt. Eine
+Pointe liegt in Sprachen, deren Worte so definiert sind, dass sie 
+bloss erkannt werden, und keinerlei Aussagen ueber das Verhalten
+des Automaten gemacht wird, wenn er mit Worten gefuettert wird, die
+nicht zur Sprache gehoeren.
+
+Auch ohne diesen Kunstgriff laesst sich zeigen, dass es Sprachen
+dieses Typs gibt, die nicht von normalen Turing-Maschinen erkannt 
+werden koennen. Die Inklusion, also dass eine stoachastische Turing-
+maschine mindestens dasselbe wie eine deterministische kann, ist aber 
+offensichtlich gegeben.
+
+
+[...]
+
+
+Ich halte die Pilhofer These aus mehreren Gruenden fuer falsch.
+
+ - Einer ist, dass die Faehigkeiten stochastischer Automaten uebersehen
+   werden. Ich sehe den Grund in einem deterministischen Vorurteil, dass
+   sich etwa wie folgt formulieren laesst: In _dem_ Denken gibt es zu
+   _dem_ Problem auch _die_ Loesungm bzw. dass alles Denken sich mindestens
+   auf diese Form bringen laesst, ohne etwas qualitativ zu verlieren.
+
+ - Ein anderer zielt auf meinen Zweifel an den menschlichen Faehigkeiten
+   ab. Ich weiss, dass die Chursche These nicht sagt, wie Menschen allge-
+   mein rekursive Funktionen berechnen, doch halte ich fuer absurd, dass 
+   irgendein Mensch vom Prinzip her all das berechnen kann, wofuer eine
+   jeweils berechnungsminimale Turingmaschine sagen wir, 10**(10**12) 
+   Schritte braucht. (Ich war gerade zu faul, anstelle der Zahl eine
+   richtig grosse hinzuschreiben).
+
+Falls der Einwand finitistisch klingt, liegt es daran, dass er das ist.
+Was hier geschieht, ist eine absurde Ueberhoehung menschlicher Faehigkeit. 
+Vom Gehalt her ist es nichts anderes als Metaphysik, wo der Mensch zur 
+Abwechslung mal nicht die Welt von der Warte Gottes aus sieht, sondern 
+sie als eine Art reiner Geist berechnet. 
+
+Das taugt nicht als Idealisierung, weil es genau an der falschen Stelle
+idealisiert, und es reicht nicht einmal fuer ein Transzendentalargument.
+   Andree

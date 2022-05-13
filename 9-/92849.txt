@@ -1,0 +1,33 @@
+Das heisst: der (durch welche Kombination der vier Maxwell-Gleichungen
+auch immer verursachte) elektrische Fluss über die rechte Seite der
+betrachteten Vakuum-Scheibe bleibt 1.5 ns lang unverändert.
+
+Es folgt, dass auch der (von derselben Kombination verursachte) Fluss
+über die linke Seite der Scheibe 1.5 ns lang unverändert bleiben muss,
+da ansonsten die Divergenz in der Scheibe ungleich null wird.
+
+
+Der Schluss, dass während dieser 1.5 ns "sich das Integral über die
+ganze linke Seite nicht ändert", ist unumgänglich, ganz unabhängig
+davon, wie die zu integrierenden "Beiträge an den verschiedenen
+Stellen" der linken Seite auch immer zustande kommen mögen.
+
+Man kann die Situation beliebig mit nicht näher präzisierbaren elektro-
+magnetischen Effekten verkomplizieren und vernebeln, das hilft aber
+alles nichts:
+
+Denn es spricht nichts gegegen, die rechte Seite der Scheibe (mit
+möglichst grossem Radius) unter Beibehaltung der übrigen Parameter
+um z.B. 60 cm nach rechts zu verlagern (was eine Scheibendicke von
+90 cm ergibt). Der Beschleunigungsbeginn der 15 cm links von der
+linken Scheibenseite liegenden Ladung kann sich dann erst nach
+15 cm + 90 cm / c = 3.5 ns auf die rechte Seite und somit auch auf
+das Integral der linken Seite auswirken. Daraus, dass wir die Breite
+der Scheibe beliebig vergrössern können, folgt, dass sich "sich das
+Integral über die ganze linke Seite" nie ändern kann.
+
+Es handelt sich somit bei der vermeintlich alternativen Hypothese
+nur um Hypothese 1), die einen statischen Fluss völlig unabhängig
+von der Bewegung der Ladungsträger impliziert.
+
+Gruss, Garrelt

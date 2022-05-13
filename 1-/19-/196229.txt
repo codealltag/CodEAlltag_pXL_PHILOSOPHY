@@ -1,0 +1,70 @@
+Hallo Dieter,
+
+j> Das wird klarer, wenn du dir statt der Zukunft die Vergangenheit
+j> anschaust: Stell dir vor, dein Super-Rechner so wird umprogrammiert,
+j> dass die Zeit zuruecklaeuft. Da gibt es z.B. irgendwo einen
+j> lauwarmen Aschehaufen, der, wenn die Zeit zuruecklaeuft, immer heisser
+j> wird. Irgenwann bricht das Feuer aus, aber was laesst es zurueck?
+j> Einen Haufen mit eckigen Holzscheiten, einen mit runden Holzscheiten,
+j> oder gar eine Blockhuette? Hier _muss_ der Super-Rechner seine Random-
+j> Funktion benutzen.
+
+Ein interessanter Einwand. Sollten zwei verschiedene Universum-Zustände  
+tatsächlich in einen identischen Folgezustand übergehen, kann allein aus  
+diesem der Ursprungszustand nicht mehr rekonstruiert werden. übrigens auch  
+nicht mit Zufallsfunktion, denn deren Ergebnis wäre mit entsprechender  
+Wahrscheinlichkeit falsch.
+
+Ob das ein Informationsverlust ist, ist eine andere Frage. Was ist in  
+einem deterministischen System Information (auf das System bezogen) mehr,  
+als eben gerade sein Zustand?
+
+Interessant finde ich jedoch, daß sogar ein deterministisches Universum  
+zwar theoretisch vorausberechnet werden könnte, aber im allgemeinen Fall  
+nicht zurück.
+
+j> Und wenn es eine Blockhuette war, welche Augenfarbe hatte der ehemalige
+j> Bewohner? Und was ist mit dessen Vorfahren, die aus den verwesten
+j> Ueberresten "berechnet" werden muessen? Wenn alles auf deterministischem
+j> Weg berechnet wird, veroedet die Welt sehr schnell. Ich sehe keinen Grund
+j> warum das mit der Zukunft anders sein soll.
+
+Dieser Schluß ist IMHO aber nicht richtig. Nur, weil nicht mehr brechnet  
+werden kann, ob in der Blockhütte ein Bewohner lebte und welche Augenfarbe  
+dieser hatte, ist nicht festgelegt, ob es so oder anders war. Diese  
+Unberechenbarkeit läßt Freiraum für Deine Version, aber ebenso für ihr  
+Gegenteil.
+
+Da Tatsache, daß es nur eine Vergangenheit gibt, kann man aber umgekehrt  
+auch dafür verwenden, daß das Universum deterministisch sein soll. Werfe  
+ich keine Münze, sondern habe ich eine Münze geworfen, dann zeigt sie z.B.  
+Kopf. Wenn dies zufällig war, dann hätte sie also auch Zahl zeigen können.  
+Aber hätte sie das wirklich? Vor mir liegt die Münze mit "Kopf". Hätte sie  
+wirklich Zahl zeigen können? Nein, denn sie tut es nicht. Ich gebe zu, das  
+ist eine sonderbare Sichtweise.
+
+j> Andersherum gesagt, den jetzigen Zustand der Welt und die Naturgesetze
+j> kannst du dir in deinem deterministischen Modell nur erklaeren, wenn
+j> du das Vorhandensein eines gewaltigen, aber unsichtbaren Vorrats
+j> an Komplexitaet postuliert: zu jedem Elementarteilchen gibt es detaillierte
+j> Plaene, wann es zerfaellt, in welche Richtung gegebenenfalls freiwerdende
+j> Energie zu versenden ist usw. Wenn es keine Plaene gibt, muesste es
+j> stattdessen weitere Naturgesetze geben, die so komplex sind, dass
+j> sie unverstaendlich sind und ihr Wirken wie Zufall erscheint.
+
+Das ist definitiv nicht richtig. Ich kann einen Satz von Objekten  
+definieren, die aus einem Satz von Objekten bestehen und genaue Gesetze  
+festlegen, wie sich diese zueinander zu verhalten haben. Ich kann diese  
+Gesetze aus dem Erscheinen der Objekte ableiten, damit sogar das Verhalten  
+von neuen Objekten determinieren, die es zum Zeitpunkt der Schaffung  
+dieses Mini-Universums noch gar nicht gab. Ein solches Universum kann  
+vollkommen determiniert und absolut exakt vorausberechenbar sein.
+
+Konkret: Ob ein Objekt z.B. in seine Bestandteile zerfällt, ergibt sich  
+allein aus dem Zustand des Gesamtsystems und seiner Gesetze. Obwohl  
+niemals ein Plan bestand, ob und wann das passiert, würde es jedesmal  
+wieder an der gleichen Stelle und zur gleichen Zeit passieren, wenn
+die Startparamter der Simulation identisch sind und keine Zufallsfunktion  
+eingesetzt wird.
+
+Viele Größe, Klaus

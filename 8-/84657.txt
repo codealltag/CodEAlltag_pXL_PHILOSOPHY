@@ -1,0 +1,76 @@
+﻿
+
+
+Nicht alles Unwirkliche ist möglich; denn nur dasjenige Unwirkliche,
+das das (bloß_)Mögliche ist, ist möglich, wohingegen dasjenige
+Unwirkliche, das das Unmögliche ist, per definitionem nicht möglich
+ist.
+
+Es gilt allgemein:
+
+- Nicht alles, was unwirklich ist, ist unmöglich, d.i., einiges, was
+unwirklich ist, ist möglich.
+- Nicht alles, was unwirklich ist, ist möglich, d.i., einiges, was
+unwirklich ist, ist unmöglich.
+
+Das Unwirkliche umfasst also sowohl das bloß_Mögliche als auch das
+Unmögliche, wobei das bloß_Mögliche im Gegensatz zum Unmöglichen
+nicht notwendigerweise unwirklich ist.
+
+
+Wenn es Unwirkliches gäbe, das wirklich ist, dann wäre es möglich.
+Doch es kann ja nichts geben, das sowohl wirklich als auch
+nichtwirklich ist, da dies einen glatten Widerspruch darstellen würde.
+Wirkliches Unwirkliches ist per se unmöglich.
+
+
+Das Unmögliche als notwendigerweise Unwirkliches ist per definitionem
+unmöglich.
+
+
+Was du hier ins Spiel bringst, sind sog. "iterierte Modalitäten", die
+die Sache in der Tat komplizierter machen, aber nicht das Geringste an
+der Wahrheit obiger elementarer modallogischer Grundgesetze ändern.
+
+Es gilt, wie gesagt:
+
+
+"Wenn p (wirklich) der Fall ist, dann ist es möglich, dass p der Fall
+ist."
+
+Wen wir für "p" z.B. "~<>q" einsetzen, dann erhalten wir:
+
+~<>q -> <>~<>q
+
+"Wenn q unmöglich der Fall ist, dann ist es möglich, dass es
+unmöglich der Fall ist, dass q."
+
+Dies bedeutet jedoch mitnichten, dass Folgendes gilt:
+
+- Alles Unmögliche ist möglich.
+
+Aus
+
+~<>q -> <>~<>q
+
+folgt
+
+~<>q -> <>[]~q
+
+und schließlich
+
+~<>q -> []~q
+
+"Wenn es unmöglich der Fall ist, dass q, dann ist q notwendigerweise
+nicht der Fall."
+
+Das entspricht der Aussage:
+
+- Alles, was unmöglich ist, ist (notwendigerweise) nicht wirklich.
+
+
+Ich beziehe mich hier auf nichts weiter als das modallogische
+Einmaleins, das in jedem einschlägigen Lehrbuch so dargestellt ist.
+
+Gruß
+ELIAS

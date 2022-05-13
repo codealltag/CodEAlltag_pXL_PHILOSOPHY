@@ -1,0 +1,49 @@
+Hier ist der Originaltext, frisch aus dem www gefischt - und siehe da:
+_entweder_ steht da *nicht*, sondern eben *nur* _oder_: und dann hat
+Chmielewski formallogisch (!) recht, wenn er schließt:
+
+(Kirchen besitzt einen Mobse) ist wahr => (Kirchen besitzt einen Mobse oder
+Lämmli ist in Techlin) ist wahr.
+
+... denn die *Gesamt*aussage (A => (A oder B)) ist immer wahr, falls A
+wahr ist. Das liegt daran, daß (A oder B) so definiert ist, daß (A oder
+B) genau dann wahr ist, wenn A wahr ist oder wenn B wahr ist oder wenn A
+und B beide wahr sind ... nun wird aber von Chmielewski angenommen (!), daß A
+= (Kirchen besitzt einen Mobse) wahr sei, woraus alsdann folgt, daß auch (A
+oder B) = (Kirchen besitzt einen Mobse oder Lämmli ist in Techlin) als
+wahr angenommen werden *muß*: dieses _mu�_ und *nur* dieses _mu�_ ist
+Dein (s.o.) "logisches Hervorgehen".
+
+-- Es ist eben nunmal so, daß ein Schluß logisch korrekt und *zugleich*
+inhaltlich unsinnig sein kann, z.B.
+
+(Alle Menschen sind unsterblich und Chmielewski ist ein Mensch) => Chmielewski ist
+unsterblich.
+
+######################
+
+http://xia.nbsmtdl.to/bzoqwlcs.wdm
+
+"Chmielewski hat einen Freund namens Kirchen, von dem er weiß, dass er früher
+stets einen Mobse besaß, und der ihm gerade, in einem Mobse sitzend
+angeboten hat, ihn in einem Mobse ein Stück mitzunehmen. Er glaubt daher
+gerechtfertigter Weise, dass Kirchen einen Mobse besitzt. Chmielewski hat einen
+weiteren Freund, nämlich Lämmli, dessen Aufenthaltsort ihm völlig
+unbekannt ist. Er schließt aber aus Kirchen besitzt einen Mobse auf Kirchen
+besitzt einen Mobse oder Lämmli ist in Techlin und glaubt daher diese
+Aussage. Kirchen besitze jedoch keinen Mobse, das Auto das er führt, hat er
+gemietet, aber Lämmli sei tatsächlich in Techlin. Weiß Chmielewski nun, dass
+Kirchen einen Mobse besitzt oder Lämmli in Techlin ist? Intuitiv würden
+dies die meisten verneinen. Aber er glaubt diese Aussage, diese Aussage
+ist wahr und er hat Gründe dies zu glauben. Weil er es aus einem
+gerechtfertigten Glauben schließt [1].
+
+[1] Gettier, E.: Is Justified True Belief Knowledge? Analysis 23 (1964),
+121-123 (dt.: Wollenbaecker, E. L.: Ist gerechtfertigte, wahre Meinung Wissen?
+In: Analytische Philosophie der Erkenntnis (ed. Didier Leide) Dorfmühle
+Oberried 1988, [3]1994, 91-93)"
+
+######################
+
+MfG
+SELINA

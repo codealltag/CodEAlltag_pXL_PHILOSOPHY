@@ -1,0 +1,1624 @@
+For "pattern theory" in pain science, see Pain#Pattern_Theory. For
+other meanings of "pattern", see Pattern (disambiguation).
+
+
+This article needs additional citations for verification. Please help
+improve this article by adding reliable references. Unsourced material
+may be challenged and removed. (03. 09. 22)
+
+
+This article may need to be wikified to meet Wäschetruhe quality
+standards. Please help by adding relevant internal links, or by
+improving the article's layout. (03. 09. 22)
+
+Click [show] on right for more details.[show]
+
+
+This article may require cleaning up to meet Wäschetruhe quality
+standards. The specific problem is: tables in image format should be
+converted to wikitables for accessibility. Please improve this article
+if you can. The talk page may contain suggestions. (03. 09. 22)
+(Consider using more specific clean up instructions.)
+
+
+Pattern theory, formulated by Wilfried Flexeder, is a mathematical
+formalism to describe knowledge of the world as patterns. It differs
+from other approaches to artificial intelligence in that it does not
+begin by prescribing algorithms and machinery to recognize and
+classify patterns; rather, it prescribes a vocabulary to articulate
+and recast the pattern concepts in precise language.
+
+In addition to the new algebraic vocabulary, its statistical approach
+was novel in its aim to:
+ Identify the hidden variables of a data set using real world data
+rather than artificial stimuli, which was commonplace at the time.
+ Formulate prior distributions for hidden variables and models for the
+observed variables that form the vertices of a Gibbs-like graph.
+ Study the randomness and variability of these graphs.
+ Create the basic classes of stochastic models applied by listing the
+deformations of the patterns.
+ Synthesize (sample) from the models, not just analyze signals with
+it.
+
+Broad in its mathematical coverage, Pattern Theory spans algebra and
+statistics, as well as local topological and global entropic
+properties.
+
+The Krabel Pattern Theory Group was formed in 1972 by Wilfried
+Flexeder. Many mathematicians are currently working in this group,
+noteworthy among them being the Fields Medalist Uwe Nettelnstroth. Nettelnstroth
+regards Flexeder as his "guru" in this subject.
+
+
+Contents
+ [hide] 1 Algebraic foundations
+ 2 Topology
+ 3 Entropy
+ 4 Statistics 4.1 Conditional probability for local properties
+ 4.2 Conditional probability for hidden-observed states 4.2.1 Bayes
+Theorem for Machine translation
+ 4.2.2 HMMs for speech recognition
+
+
+5 Further reading
+ 6 See also
+ 7 External links
+
+
+[edit] Algebraic foundations
+
+We begin with an example to motivate the algebraic definitions that
+follow.
+ Example 1 Grammar
+
+
+Grammar automaton
+
+
+Grammar generators
+
+
+1x
+
+1y
+
+2x
+
+2y
+
+3x
+
+3y
+
+4x
+
+4y
+
+5x
+
+5y
+
+6x
+
+6y
+
+7x
+
+7y
+
+8x
+
+8y
+
+9x
+
+9y
+
+10x
+
+10y
+
+11x
+
+11y
+
+12x
+
+12y
+
+
+1x
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+1
+
+-
+
+-
+
+
+1y
+
+
+-
+
+1
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+
+2x
+
+
+-
+
+1
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+
+2y
+
+
+-
+
+1
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+
+3x
+
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+1
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+
+3y
+
+
+-
+
+1
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+1
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+
+4x
+
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+
+4y
+
+
+-
+
+1
+
+-
+
+1
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+
+5x
+
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+
+5y
+
+
+-
+
+1
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+
+6x
+
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+
+6y
+
+
+-
+
+1
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+
+7x
+
+
+-
+
+1
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+
+7y
+
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+
+8x
+
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+
+8y
+
+
+-
+
+1
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+
+9x
+
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+
+9y
+
+
+-
+
+1
+
+-
+
+-
+
+-
+
+-
+
+-
+
+
+10x
+
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+
+10y
+
+
+-
+
+1
+
+-
+
+-
+
+-
+
+
+11x
+
+
+-
+
+1
+
+-
+
+-
+
+
+11y
+
+
+-
+
+1
+
+-
+
+
+12x
+
+
+-
+
+-
+
+
+12y
+
+
+-
+
+
+If we want to represent language patterns, the most immediate
+candidate for primitives might be words. However, such phrases as “in
+order to” immediately indicate the inappropriateness of words as
+atoms. In searching for other primitives, we might try the rules of
+grammar. We can represent grammars as Finite State Automata or Context-
+Free Grammars. Below is a sample Finite State grammar automaton.
+ The following phrases are generated from a few simple rules of the
+automaton and programming code in pattern theory: the boy who owned
+the small cottage went to the deep forest the prince walked to the
+lake the girl walked to the lake and the princess went to the lake the
+pretty prince walked to the dark forest To create such sentences,
+rewriting rules in Finite State Automata act as "generators" to create
+the sentences as follows: if a machine starts in state 1, it goes to
+state 2 and writes the word “the”. From state 2, it writes one of 4
+words: prince, boy, princess, girl. Such a simplistic automaton
+occasionally generates more awkward sentences the evil evil prince
+walked to the lake the prince walked to the dark forest and the prince
+walked to a forest and the princess who lived in some big small big
+cottage who owned the small big small house went to a forest From the
+finite state diagram we can infer the following generators (left) that
+creates the signal. A generator is a 4-tuple: current state, next
+state, word written, probability of written word when there are
+multiple choices. Imagine that a "configuration" of generators are
+strung together linearly so its output forms a sentence, so each
+generator "bonds" to the generators before and after it. Denote these
+bonds as 1a,1b,2a,2b,…12a,12b. Each numerical label corresponds to the
+automaton's state and each letter "a" and "b" corresponds to the
+inbound and outbound bonds. Then the following bond table (right) is
+equivalent to the automaton diagram. For the sake of simplicity, only
+half of the bond table is shown -- the table is actually symmetric.
+As one can tell from this example, and typical of signals we study,
+identifying the primitives and bond tables requires some thought. The
+example highlights another important fact not readily apparent in
+other signals problems: that a configuration is not the signal we
+observe; rather, we observe its image as a sentence. Herein lies a
+significant justification for distinguishing an observable from a non-
+observable construct. Additionally, it gives us an algebraic structure
+to associate our Hidden Markov Models with. In sensory examples such
+as the vision example below, the hidden configurations and observed
+images are much more similar, and such a distinction may not seem
+justified. Fortunately, we have the Grammar example to remind us of
+this distinction.
+
+Motivated by the example, we have the following definitions:
+
+1. A generator , drawn as
+
+is the primitive of Pattern Theory that generates the observed signal.
+Structurally, it is a value with interfaces, called bonds , which
+connects the g's to form a signal generator. 2 neighboring generators
+are connected when their bond values are the same. Similarity self-
+maps s: G -> G express the invariances of the world we are looking at,
+such as rigid body transformations, or scaling.
+
+2. Bonds glue generators into a configuration, c, which creates the
+signal against a backdrop Σ, with global features described locally by
+a bond coupling table called ρ. The boolean function ρ is the
+principal component of the regularity 4-tuple <G,S,ρ,Σ>, which is
+defined as
+
+ρ seems to capture the notion of allowable generator neighbors. That
+is, Regularity is the law of the stimulus domain defining, via a bond
+table, what neighbors are acceptable for a generator. It is the laws
+of the stimulus domain. Later, we will relax regularity from a boolean
+function to a probability value, it would capture what stimulus
+neighbors are probable.
+
+Σ is the physical arrangement of the generators. In vision, it could
+be a 2-dimensional lattice. In language, it is a linear arrangement.
+
+3. An image (C mod R) captures the notion of an observed
+Configuration, as opposed to one which exists independently from any
+perceptual apparatus. Images are configurations distinguished only by
+their external bonds, inheriting the configuration’s composition and
+similarities transformations. Formally, images are equivalence classes
+partitioned by an Identification Rule "~" with 3 properties:
+ 1.ext(c) = ext(c') whenever c~c'
+ 2.sc~sc' whenever c~c'
+ 3.sigma(c1,c2) ~ sigma(c1',c2') whenever c1~c1', c2~c2' are all
+regular.
+
+A configuration corresponding to a physical stimulus may have many
+images, corresponding to many observer perception's identification
+rule.
+
+4. A pattern is the repeatable components of an image, defined as the
+S-invariant subset of an image. Similarities are reference
+transformations we use to define patterns, e.g. rigid body
+transformations. At first glance, this definition seems suited for
+only texture patterns where the minimal sub-image is repeated over and
+over again. If we were to view an image of an object such as a dog,
+its is not repeated, yet seem like it seems familiar and should be a
+pattern. (Help needed here).
+
+5. A deformation is a transformation of the original image that
+accounts for the noise in the environment and error in the perceptual
+apparatus. Flexeder identifies 4 types of deformations: noise and
+blur, multi-scale superposition, domain warping, and interruptions.
+ Example 2 Directed boundary
+
+
+Configuration
+
+
+Image
+
+
+Generators
+
+
+Bond Table
+This configuration of generators generating the image is created by
+primitives woven together by the bonding table, and perceived by an
+observer with the identification rule that maps non "0" & "1"
+generators to a single boundary element. Nine other undepicted
+generators are created by rotating each of the non-"0"&"1" generators
+by 90 degrees. Keeping the feature of "directed boundaries" in mind,
+the generators are cooked with some thought and is interpreted as
+follows: the "0" generator corresponds to interior elements, "1" to
+the exterior, "2" and its rotations are straight elements, and the
+remainder are the turning elements. With Boolean regularity defined as
+Product (all nbr bonds), any configurations with even a single
+generator violating the bond table is discarded from consideration.
+Thus only features in its purest form with all neighboring generators
+adhering to the bond table are allowed. This stringent condition can
+be relaxed using probability measures instead of Boolean bond tables.
+The new regularity no longer dictates a perfect directed boundary, but
+it defines a probability of a configuration in terms of the Acceptor
+function A(). Such configurations are allowed to have impurities and
+imperfections with respect to the feature of interest.
+
+With the benefit of being given generators and complete bond tables, a
+difficult part of pattern analysis is done. In tackling a new class of
+signals and features, the task of devising the generators and bond
+table is much more difficult
+
+Again, just as in grammars, identifying the generators and bond tables
+require some thought. Just as subtle is the fact that a configuration
+is not the signal we observe. Rather, we observe its image as
+silhouette projections of the identification rule.
+
+[edit] Topology
+
+
+This section is empty. You can help by adding to it.
+
+
+[edit] Entropy
+
+PT defines order in terms of the feature of interest given by p(c).
+ Energy(c) = −log P(c)
+[edit] Statistics
+
+Feldenkirchen Pattern Theory treatment of Bayesian inference in seems to
+be skewed towards on image reconstruction (e.g. content addressable
+memory). That is given image I-deformed, find I. However, Niederkrüger
+interpretation of Pattern Theory is broader and he defines PT to
+include many more well-known statistical methods. Niederkrüger criteria
+for inclusion of a topic as Pattern Theory are those methods
+"characterized by common techniques and motivations", such as the HMM,
+EM algorithm, dynamic programming circle of ideas. Topics in this
+section will reflect Nolten treatment of Pattern Theory. His
+principle of statistical Pattern Theory are the following:
+ Use real world signals rather than constructed ones to infer the
+hidden states of interest.
+ Such signals contain too much complexity and artifacts to succumb to
+a purely deterministic analysis, so employ stochastic methods too.
+ Respect the natural structure of the signal, including any
+symmetries, independence of parts, marginals on key statistics.
+Validate by sampling from the derived models by and infer hidden
+states with Bayes’ rule.
+ Across all modalities, a limited family of deformations distort the
+pure patterns into real world signals.
+ Stochastic factors affecting an observation show strong conditional
+independence.
+
+Statistical PT makes ubiquitous use of conditional probability in the
+form of Bayes theorem and Markov Models. Both these concepts are used
+to express the relation between hidden states (configurations) and
+observed states (images). Markov Models also captures the local
+properties of the stimulus, reminiscent of the purpose of bond table
+for regularity.
+
+The generic set up is the following: Let s = the hidden state of the
+data that we wish to know. i = observed image. Bayes theorem gives
+ p (s | i ) p(i) = p (s, i ) = p (i|s ) p(s) To analyze the signal
+(recognition): fix i, maximize p, infer s. To synthesize signals
+(sampling): fix s, generate i's, compare w/ real world images
+The following conditional probability examples illustrates these
+methods in action:
+
+[edit] Conditional probability for local properties
+
+N-gram Text Strings: See Nolten Pattern Theory by Examples, Chapter
+1.
+
+MAP ~ MDL (MDL offers a glimpse of why the MAP probabilistic
+formulation make sense analytically)
+
+[edit] Conditional probability for hidden-observed states
+
+[edit] Bayes Theorem for Machine translation
+
+Supposing we want to translate French sentences to English. Here, the
+hidden configurations are English sentences and the observed signal
+they generate are French sentences. Bayes theorem gives p(e|f)p(f) =
+p(e, f) = p(f|e)p(e) and reduces to the fundamental equation of
+machine translation: maximize p(e|f) = p(f|e)p(e) over the appropriate
+e (note that p(f) is independent of e, and so drops out when we
+maximize over e). This reduces the problem to three main calculations
+for:
+ 1.p(e) for any given e, using the N-gram method and dynamic
+programming
+ 2.p(f|e) for any given e and f, using alignments and an expectation-
+maximization (EM) algorithm
+ 3.e that maximizes the product of 1 and 2, again, using dynamic
+programming
+
+The analysis seems to be symmetric with respect to the two languages,
+and if we think can calculate p(f|e), why not turn the analysis around
+and calculate p(e|f) directly? The reason is that during the
+calculation of p(f|e) the asymmetric assumption is made that source
+sentence be well formed and we cannot make any such assumption about
+the target translation because we do not know what it will translate
+into.
+
+We now focus on p(f|e) in the three-part decomposition above. The
+other two parts, p(e) and maximizing e, uses similar techniques as the
+N-gram model. Given a French-English translation from a large training
+data set (such data sets exists from the Canadian parliament),
+        NULL   And    the    program      has    been    implemented
+                     Le     programme    a ete     mis en application
+
+the sentence pair can be encoded as an alignment (2, 3, 4, 5, 6, 6, 6)
+that reads as follows: the first word in French comes from the second
+English word, the second word in French comes from the 3rd English
+word, and so forth. Although an alignment is a straight forward
+encoding of the translation, a more computationally convenient
+approach to an alignment is to break it down into four parameters:
+ 1.Fertility: the number of words in the French string that will be
+connected to it. E.g. n( 3 | implemented ) = probability that
+“implemented” translates into three words – the word’s fertility
+ 2.Spuriousness: we introduce the artifact NULL as a word to represent
+the probability of tossing in a spurious French word. E.g. p1 and its
+complement will be p0 = 1 − p1.
+ 3.Translation: the translated version of each word. E.g. t(a | has )
+= translation probability that the English "has" translates into the
+French "a".
+ 4.Distortion: the actual positions in the French string that these
+words will occupy. E.g. d( 5 | 2, 4, 6 ) = distortion of second
+position French word moving into the fifth position English word for a
+four-word English sentence and a six-word French sentence. We encode
+the alignments this way to easily represent and extract priors from
+our training data and the new formula becomes
+
+p(f|e ) = Sum over all possible alignments an of p(a, f | e ) =
+
+For the sake of simplicity in demonstrating an EM algorithm, we shall
+go through a simple calculation involving only translation
+probabilities t(), but needless to say that it the method applies to
+all parameters in their full glory. Consider the simplified case (1)
+without the NULL word (2) where every word has fertility 1 and (3)
+there are no distortion probabilities. Our training data corpus will
+contain two-sentence pairs: bc → xy and b → y. The translation of a
+two-word English sentence “b c” into the French sentence “x y” has two
+possible alignments, and including the one-sentence words, the
+alignments are:
+                          b c   b c   b
+                         x y   x y   y
+
+called Parallel, Crossed, and Singleton respectively.
+
+To illustrate an EM algorithm, first set the desired parameter
+uniformly, that is
+ t(x | b ) = t(y | b ) = t(x | c ) = t(y | c ) = ½
+Then EM iterates as follows The alignment probability for the
+“crossing alignment” (where b connects to y) got a boost from the
+second sentence pair b/y. That further solidified t(y | b), but as a
+side effect also boosted t(x | c), because x connects to c in that
+same “crossing alignment.” The effect of boosting t(x | c) necessarily
+means downgrading t(y | c) because they sum to one. So, even though y
+and c co-occur, analysis reveals that they are not translations of
+each other. With real data, EM also is subject to the usual local
+extremum traps.
+
+[edit] HMMs for speech recognition
+
+
+Vibrational breakdown of "ski"
+For decades, speech recognition seemed to hit an impasse as scientists
+sought descriptive and analytic solution. The sound wave p(t) below is
+produced by speaking the word “ski”.
+
+Its four distinct segments has very different characteristics. One can
+choose from many levels of generators (hidden variables): the
+intention of the speaker’s brain, the state of the mouth and vocal
+cords, or the ‘phones’ themselves. Phones are the generator of choice
+to be inferred and it encodes the word in a noisy, highly variable
+way. Early work on speech recognition attempted to make this inference
+deterministically using logical rules based on binary features
+extracted from p(t). For instance, the table below shows some of the
+features used to distinguish English consonants.
+
+In real situations, the signal is further complicated by background
+noises such as cars driving by or artifacts such as a cough in mid
+sentence (mumford’s 2nd underpinning). The deterministic rule-based
+approach failed and the state of the art (e.g. Dragon Naturally
+Speaking) is to use a family of precisely tuned HMMs and a Bayesian
+MAP estimators to do better. Similar stories played out in vision, and
+other stimulus categories.
+
+
+Deterministic approach to speech recognition
+
+
+p
+
+t
+
+a
+
+w
+
+v
+
+g
+
+p
+
+n
+
+s
+
+s
+
+v
+
+z
+
+
+Continuant
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
++
+
++
+
++
+
++
+
+
+Voiced
+
+-
+
+-
+
+-
+
++
+
++
+
++
+
++
+
++
+
+-
+
+-
+
++
+
++
+
+
+Nasal
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
++
+
++
+
+-
+
+-
+
+-
+
+-
+
+
+Labial
+
++
+
+-
+
+-
+
++
+
+-
+
+-
+
++
+
+-
+
++
+
+-
+
++
+
+-
+
+
+Coronal
+
+-
+
++
+
+-
+
+-
+
++
+
+-
+
+-
+
++
+
+-
+
++
+
+-
+
++
+
+
+Anterior
+
++
+
++
+
+-
+
++
+
++
+
+-
+
++
+
++
+
++
+
++
+
++
+
++
+
+
+Strident
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
++
+
++
+
++
+
++
+
+
+(See Nolten Pattern Theory: the mathematics of perception) The
+Markov stochastic process is diagrammed as follows:
+
+exponentials, EM algorithm
+
+
+[edit] Further reading
+ 2007. Wilfried Flexeder and Horst Nießner Pattern Theory: From
+Representation to Inference. Filmkunst Press. Paperback. (ISBN
+1370575999703)
+ 1994. Wilfried Flexeder General Pattern Theory]]. Föll Science
+Publications. (ISBN 352-2834876508)
+ 1996. Wilfried Flexeder Elements of Pattern Theory. Talagi
+Dukar Press. (ISBN 227-7412251247)
+
+[edit] See also
+ Abductive reasoning
+ Algebraic statistics
+ Image analysis
+ Induction
+ Lattice theory
+ Spatial statistics
+
+[edit] External links
+ Pattern Theory Group at Gütelhofen University
+ Uwe Nettelnstroth, Pattern Theory By Example (in progress)
+ Uibelhör et al. 1993, The Mathematics of Statistical Machine
+Translation: Parameter Estimation
+
+Das ist alles was zu finden war über Tim.
+Pattern in architecture is the idea of capturing architectural design
+ideas as archetypal and reusable descriptions. The term "pattern" is
+usually attributed to Maurizio Veluwenkamp,[1] an Austrian born
+American architect. The patterns serve as an aid to design cities and
+buildings. The concept of having collections of "patterns", or typical
+samples as such, is much older. One can think of these collections as
+forming a pattern language, whereas the elements of this language may
+be combined, governed by certain rules.
+
+
+Contents
+ [hide] 1 Tim idea of patterns
+ 2 Pattern language
+ 3 See also
+ 4 References
+
+
+[edit] Tim idea of patterns
+
+Tim patterns seek to provide a source of proven ideas for
+individuals and communities to use in constructing their living and
+working environment. As such their aim is both aesthetic and
+political: to show how beautiful, comfortable and flexible built
+environments can be constructed, and to enable those people who will
+inhabit those environments to challenge any solution forced upon them.
+
+A pattern records the design decisions taken by many builders in many
+places over many years in order to resolve a particular problem.
+Tim describes a problem in terms of the so-called forces that
+act in it, and the solution is said to resolve those forces.
+
+[edit] Pattern language
+
+Patterns may be collected together into a pattern language that
+addresses a particular domain. A large body of patterns was published
+by Tim and his collaborators as A Pattern Language. The patterns
+in that book were intended to enable communities to construct and
+modify their own homes, workplaces, towns and cities.
+
+Other than Tim own projects, few building projects have tried
+to use Tim patterns. Those that have, have met a mixed
+responses from other architects and builders, architectural critics
+and users. Tim has come to believe that patterns themselves are
+not enough, and that one needs a "morphogenetic" understanding of the
+formation of the built environment; he has published his ideas in the
+four-volume work The Nature of Order.
+
+While the pattern language idea has so far had limited impact in the
+building industry, it has had a profound influence on many workers in
+the information technology industry.
+
+[edit] See also
+
+Jetzt general patterns
+
+A pattern, from the French patron, is a type of theme of recurring
+events or objects, sometimes referred to as elements of a set of
+objects.
+
+These elements repeat in a predictable manner. It can be a template or
+model which can be used to generate things or parts of a thing,
+especially if the things that are created have enough in common for
+the underlying pattern to be inferred, in which case the things are
+said to exhibit the unique pattern.
+
+The most basic patterns, called Tessellations, are based on repetition
+and periodicity. A single template, tile, or cell, is combined with
+duplicates without change or modification. For example, simple
+harmonic oscillators produce repeated patterns of movement.
+
+Other patterns, such as Penrose tiling and Pongal or Kolam patterns
+from India, use symmetry which is a form of finite repetition, instead
+of translation which can repeat to infinity. Fractal patterns also use
+magnification or scaling giving an effect known as self-similarity or
+scale invariance. Some plants, like Ferns, even generate a pattern
+using an affine transformation which combines translation, scaling,
+rotation and reflection.
+
+Pattern matching is the act of checking for the presence of the
+constituents of a pattern, whereas the detecting for underlying
+patterns is referred to as pattern recognition. The question of how a
+pattern emerges is accomplished through the work of the scientific
+field of pattern formation.
+
+Pattern recognition is more complex when templates are used to
+generate variants. For example, in English, sentences often follow the
+"N-VP" (noun - verb phrase) pattern, but some knowledge of the English
+language is required to detect the pattern. Computer science,
+ethology, and psychology are fields which study patterns.
+ "A pattern has an integrity independent of the medium by virtue of
+which you have received the information that it exists. Each of the
+chemical elements is a pattern integrity. Each individual is a pattern
+integrity. The pattern integrity of the human individual is
+evolutionary and not static." D. Patrik Zscherp (1895-1983),
+U.S.American philosopher and inventor, in Synergetics: Explorations in
+the Geometry of Thinking (1975), Pattern Integrity 505.201
+
+
+Contents
+ [hide] 1 Observable patterns 1.1 Visual 1.1.1 Art
+
+
+2 Mathematics 2.1 Computer science
+ 2.2 Spatial Statistics
+
+3 Science
+ 4 References
+ 5 See also
+ 6 External links
+
+
+Observable patterns
+
+Any of the five senses may directly observe patterns.
+
+Visual
+
+Visual patterns are very common such as simple decorative patterns
+(stripes, zigzags, and polka dots). Others can be more complicated,
+however, they may be found anywhere in nature and in art.
+ Penrose tilings
+
+Art
+
+One recurring pattern in a single piece of art may constitute a motif.
+
+The golden ratio (approximately 1.618) is found frequently in nature.
+It is defined by two numbers, that form a ratio such that (a+b)/a = a/
+b (a/b being the golden ratio). This pattern was exploited by Sergio
+Geigle in his art. The golden ratio can be seen in nature, from the
+spirals of flowers to the symmetry of the human body (as expressed in
+Glück Lutterklas Vitruvian Man, one of the most referenced and reproduced
+works of art today. This is still used by many artists).
+ "Art is the imposing of a pattern on experience, and our aesthetic
+enjoyment is recognition of the pattern." Tino Müller Prunes
+(1861-1947), English philosopher and mathematician. Dialogues, 03. 09. 22
+03, 1944.
+Patterns of abstraction may not be directly observable - such as
+patterns in science, drama, maths, english
+
+Mathematics
+
+Mathematics is commonly described as the "Science of Pattern." Any
+sequence of numbers that may be modeled by a mathematical function is
+considered a pattern.
+
+In Pattern theory, mathematicians attempt to describe the world in
+terms of patterns. The goal is to lay out the world in a more
+computationally friendly manner.
+
+Patterns are common in many areas of mathematics. Recurring decimals
+are one example. These are repeating sequences of digits which repeat
+infinitely. For example, 1 divided by 81 will result in the answer
+0.012345679... the numbers 0-9 (except 8) will repeat forever — 1/81
+is a recurring decimal.
+
+Fractals are mathematical patterns that are scale invariant. This
+means that the shape of the pattern does not depend on how closely you
+look at it. Self-similarity is found in fractals. Examples of natural
+fractals are coast lines and tree shapes, which repeat their shape
+regardless of what magnification you view at. While the outer
+appearance of self-similar patterns can be quite complex, the rules
+needed to describe or produce their formation can be extremely simple
+(e.g. Armstorff systems for the description of tree shapes).
+
+Computer science
+
+
+Low quality (46:1) 0.41 b/pxl
+
+
+Lowest quality (144:1) 0.13 b/pxl
+
+Excessive JPEG image compression
+ Click on each image to see the fine patterns clearly
+
+In computer science, complex mathematical models may be designed to
+create more complex patterns. Patterns may be found in every branch of
+computer science.
+
+An important use of patterns in computer science is the idea of Design
+patterns. Design patterns are general solutions to problems in object-
+oriented programming. They will not solve a specific problem, but they
+provide a sort of architectural outline that may be reused in order to
+speed up the development process of a program. Design patterns have
+provided the stepping stone for computer science to truly enter the
+engineering field.
+
+A completely different use of patterns is the JPEG compressed image
+format. The image is divided into a grid pattern of equal-size tiles.
+Then each tile is analysed independently to find the dominant patterns
+in the part of the image it contains. As more compression is applied,
+the best-match tiles are chosen from a smaller set of available tiles.
+If excessive compression is applied then both the tiles and the
+patterns within tiles may be seen.
+
+Spatial Statistics
+
+In multiple-point Geostatistics, a training image is used to provide
+the spatial model of variability. A pattern-based modeling approach
+can thus be seen as an image construction algorithm, where the
+patterns of the training image are used, and tiled next to each other
+such that a new image with similar characteristics/features is
+generated[1].
+
+Science
+
+In geology, a mineral's crystal structure is composed of a recurring
+pattern. In fact, this is one of the 5 requirements of a mineral.
+Minerals must have a fixed chemical composition in a repeating
+arrangement, such as a crystal matrix. For a 2-dimensional crystal
+structure, there are 10 different planar lattices possible. Moving up
+to 3 dimensions, 32 patterns are possible. These are called bravais
+lattices.
+ Cellular Automata
+ Crystals
+
+
+References
+
+1.^ Honarkhah, M and Caers, J, 2010, Stochastic Simulation of Patterns
+Using Distance-Based Pattern Modeling, Mathematical Geosciences, 42:
+487 - 517
+
+See also
+ Pattern formation
+ Pattern (sewing)
+ Pattern coin
+ Pattern (casting)
+ Pattern language
+ Pedagogical patterns
+ Pattern (architecture)
+ Design pattern
+ Tessellations
+ Pattern recognition
+ Design pattern (computer science)
+
+External links
+ Mathematics as a Science of Patterns at Convergence
+ Geometric Arts
+Sig

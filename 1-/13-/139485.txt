@@ -1,0 +1,27 @@
+Tja, das ist es ja gerade. Die Mehrheit kann mit einer derartigen Aussage
+nichts anfangen, obwohl sie trivial ist. Es braucht lediglich einen logischen
+Folgeschluss.
+
+Nehmen wir mal an, Du rundest obiges Resultat derartig, dass
+immer ganze Zahlen entstehen. Ok, dann ergäben sich 3 männliche Nachkommen
+aus einer Menge von 5. Kannst Du diese Aussage 3 aus 5 mit gleicher Genauigkeit
+bestätigen, wenn Du nur eine Grundmenge mit 3 Nachkommen hast?
+
+Nein. Was ist also die logische Schlussfolgerung? Um der Aussage
+"~ 2,50013 von 5 Nachkommen sind männlich" gerecht zu werden, sollte man
+- entweder von einer Grundgesamtheit ausgehen, die gross genug ist, so dass man
+auch die fünfte Stelle nach dem Komma noch durch eine Person mehr oder weniger
+ausdrücken kann, oder
+- die 2,50013 eben entsprechend abrunden (was eben einen entsprechenden Fehler
+ergibt).
+
+Wo liegt da Dein Problem? Ist es nicht vielmehr, dass die Mehrheit nicht in
+der Lage ist, den Nutzen der Mathematik für die Praxis zu erkennen, sprich,
+nicht erkennt, dass Mathematik nur dann sinnvoll anwendbar ist, wenn man
+
+1. die Realität in ein mathematisches Modell transformiert,
+2. die Mathematik walten lässt,
+3. die mathematische Lösung wieder in die Realität zurücktransformiert?
+
+ciao
+Jonathan

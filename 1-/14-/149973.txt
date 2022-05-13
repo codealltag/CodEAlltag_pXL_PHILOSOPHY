@@ -1,0 +1,27 @@
+Wenn n/0 einen Wert als Lösung hat, dann hat n/0 _jeden_ Wert als
+Lösung!
+Das bedeutet doch nicht, dass n/0 jeden Wert annehmen kann.
+Gerade das n/0 _jeden_ Wert als Lösung annehmen kann, ist der
+riesengrosse Vorteil.
+Dadurch kann ich jedes n ermitteln!
+Wenn n/0 nicht definiert ist, dann ist auch jede Lösung nicht definiert!
+Jede definierte Lösungsmenge macht genau das. Sie definiert das
+Verhältniss von 1 zu 0. Die Definition bestimmt, was als 1 und was als 0
+zu gelten hat.
+Wenn also in der Definition festgelegt ist, dass oo + 1 gleich oo - 1
+ist ,dann kann ich oo keinen Wert zuweisen. Wenn ich allerdings oo + 1
+als grösser ansehe als oo - 1, dann kann ich einen Wert zuweisen.
+So könnte eine Definition so lauten:
+oo + 1 liegt in der Menge der ganzzahligen natürlicher Zahlen ausserhalb
+der definierten Menge.
+oo - 1 liegt in der Menge der ganzzahligen natürlicher Zahlen innerhalb
+der definierten Menge.
+oo liegt in der Menge der ganzzahligen natürlichen Zahlen genau auf der
+Grenze der Menge wie auch 0 genau die Grenze der Menge ist.
+Die Menge der ganzzahligen natürlichen Zahlen liegt genau zwischen 0 und
+oo.
+oo + 1 ist in dieser Menge mit dem Wert 0 zu versehen, da es keine
+Bedeutung innerhalb dieser Menge dafür gibt.
+
+Gruss
+Nick

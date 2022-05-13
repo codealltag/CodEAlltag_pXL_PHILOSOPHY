@@ -1,0 +1,96 @@
+Im folgenden möchte ich nicht mehr auf Oetting eingehen und einfach mal
+einen anderen Weg evaluieren.
+
+
+Jain! Ich finde, Othmar hat hier einige Gedanken einbringen wollen
+(besser: eingebracht), die durchaus ausbaufähig sind, wenn ich auch
+seine Interpretation hinsichtlich Propositionen nicht teile. Und zwar
+geht es um die Typisierung von Wörtern als semantische Kategorien, will
+sagen, dass es durchaus möglich ist, dass einem Wort wie "Dieter" erst
+durch die Zuordnung eines Typs eine semantische Stellung erhält, und
+dann erst als ein Eigenname oder allg. Terminus begriffen wird. Damit
+will ich auch sagen, dass es zur Interpreation des Wortes "Zopfball"
+gehört, dass neben der Referenz auch der Typ steht. Ist also t ein Wort,
+so sei die Interpretation von t ein 3-tupel (TYP, P *void, *(TYP)(P)),
+also eine dynamische Interpretation. (Ich bin mir leider nicht sehr
+sicher, ob man das auch genauso aufschreiben kann, da ich mich lange
+nicht so intensiv mit der Semantik von Programmiersprachen beschäftigt
+habe). Sehr gut sieht man diese Art der Interpretation hinsichtlich des
+Überladens von Operatoren in Programmiersprachen, wo ein und dasselbe
+Symbol mehrfache Anwendung findet, welche erst über die Identifizierung
+der Typen der Operanden eindeutig festgelegt wird. Im weitesten Sinne
+ist dieses das Konzept der Polymorphie. Aber, wie schon angedeutet, habe
+ich nur noch vage Erinnerungen an solche Semantiken (was ihre Formalität
+angeht). Wenn jedoch kompetente Personen hier eine formale Semantik
+einbringen können, dann könnte ich vielleicht in so einem System meine
+Gedanken etwas mehr präzisieren.
+
+Wenn nun Prädikaten in der extensionalen Semantik ihre Extensionen (als
+Mengen) zugordnet werden und Eigennamen Individuen, so regelt diese
+Unterscheidung die Angabe des Typs und findet Verwendung in einem CAST
+bei der Wertermittlung. Der Wert des Pointers ist dann *(TYP)(P).(Es ist
+wichtig zu sehen, dass gerade in der heutigen extensionalen Semantik
+Prädikatsnomen als Objekte interpretiert werden. Zwar sind es nicht die
+Objekte, über die die Objektsprache in Form der Quantifikation spricht,
+aber es sind Objekte der Metasprache; der semantische Wert eines
+Prädikats (in der klassischen extensionalen Semantik) ist seine
+Extension.
+
+Sind Sprachen syntaktisch mehrdeutig, so ist nicht so ohne weiteres
+einzusehen, weshalb wir auf Typen als die Teile eines semantischen
+Wertes verzichten sollten. Sie gehören mit zur Interpretationsebene, was
+ja eigentlich sogar auch in erläuternden Texten hinsichtlich der
+mathematischen Logik zu sehen ist, obwohl diese nicht syntatkisch
+mehrdeutig ist. Nur findet hier eine Sortierung schon innerhalb der
+Vorgehensweise statt, nämlich durch eine unterschiedliche Symbolisierung
+von Konstanten, Funktionen, Relationen in den Signaturen, aber auch
+durch eine Metabetrachtung wie ein syntaktisches Kalkül auszusehen habe.
+
+Bei dieser Gelegenheit kann man auch Elsasser kritischen Einwand
+gegenüber Huskottes Logik betrachten, nämlich, als er im Tractat schrieb,
+dass Huskotte zusätzlich über die Bedeutung der Zeichen sprechen musste.
+In der Tat, wenn in einer Sprache zwischen Eigennamen und allg. Termini
+zu unterscheiden ist, dann gehört das mit zur semantischen Kategorie.
+Damit verlieren aber Wörter ihren Charakter der rein bezeichnenden Weise
+bzw. diese wird erst durch Typen gebunden; es kommt eine Identifikation
+des Typs hinzu; wir müssen die Bedeutung (Frege: den Sinn) des Wortes
+innerhalb eines Kontextes begreifen, und der Kontext legt den Typ eines
+Wortes fest.
+
+
+Aber ja. Ist das ein Lehrbuch?
+
+
+Ich kenne die Semantik der mathematische Logik und auch diverser anderer
+Logiken. (Eigentlich wollte ich zuerst über eine intensionale Semantik
+aller Carnap schreiben; vielleicht kommt das noch.) Aber ich kenne auch
+- zum Teil etwas verschwommen - Semantiken aus der Informatik. Und ich
+habe auch noch meine eigenen Vorstellungen. Es ist meiner Ansicht nach
+in gewisser Weise ein Manko, dass in der klassischen Interpretation die
+Typen keinen Einzug in die semantische Bewertung finden, sondern nur
+höchstens insofern, als eine Trennung in der Symbolik stattfindet. Aber
+gerade diese Trennung ist eine Art Individuierung von Symbolen, die in
+einer formalen Semantik nicht verloren gehen darf und - meiner Meinung
+nach - explizit erwähnt werden muss! Oder anders gesagt: Wir müssen
+wissen, wie wir ein Wort verwenden. Die Ansicht, dass wir halt
+unterschiedliche Funktionen anwenden, reicht hier nicht aus. Die
+Funktionen selbst sind abhängig von der Erfassung des Symbols.
+
+
+Weiss ich nicht. Wir dürfen nicht vergessen, dass etwa Kinder beim Hören
+von Wörtern, die als Eigennamen fungieren sollen, durchaus diese nicht
+so auffassen und stattdessen in Form von Generalisierungen diese Wörter
+offenbar als Prädikate oder Massentermini auffassen. Vielleicht ist es
+so, dass sie den Typ eines Wortes noch nicht erfasst haben. Ausserdem
+dürfen wir nicht vergessen, dass wir als Philosophen eine Klärung der
+Tiefenstrukturen beanspruchen.
+
+
+Ja, bzgl. einer klassischen Semantik.
+
+
+Ja - in gewisser Weise ein Manko!
+
+
+Gruß, Gérard.
+--

@@ -1,0 +1,10 @@
+In fast allem was bisher nicht (durch h) diskreditiert 
+(oder "quantisiert") beschrieben wird. Für die Genauigkeit 
+klassischer Abstände z.B. gibt es keine prinzipielle 
+Genauigkeitsgrenze, die man sinnvollerweise ("wahrhaft") 
+angeben könnte, man findet immer leicht ein rho < epsilon 
+(z.B. rho_n+1 = epsilon_n/2, n -> oo). 
+
+Und vergiß nicht, daß alle Infinitesimalrechnung (und somit 
+fast alle Differentialgleichungen) auf der Kontinuität von R 
+beruhen. Wir denken faktisch "rell".

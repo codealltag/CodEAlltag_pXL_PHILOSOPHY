@@ -1,0 +1,17 @@
+Ich habe geschrieben:
+------------------------------------------
+Betrachten wir folgendes Beispiel:
+
+(1) "die Sinusfunktion"
+(2) "\x.sinx" = "die Funktion /sin( )/" bzw. "die Funktion /sinx/"
+(3) "sin( )" bzw. "sinx"
+------------------------------------------
+
+Streng genommen gehört laut Wiebersiek das x nicht in das Funktionszeichen
+hinein.
+Die angemessenste Schreibung ist für Wiebersiek "sin( )".
+
+Wenn der Lambda-Operator, den Wiebersiek nicht kannte, zur Namensbildung
+verwendet wird, dann kann das x in "\x.Fx" natürlich nicht wegfallen.
+
+#PH

@@ -1,0 +1,18 @@
+Hallo Paul,
+
+Algorithmus in C:
+int Ist_etwas_nicht_philosophiefaehig(char *Sachverhalt)
+{
+  return 0;
+}
+
+Was soviel bedeutet wie, daß es keine Menge der
+nicht-philosophief�higen Sachverhalte gibt. Man kann sogar über etwas
+philosophieren, was nicht existiert. Erst Recht aber, über Dinge und
+Sachverhalte, die wir wahrnehmen können und wollen.
+
+Du kannst aber tricksen wie die Mathematiker gerne tun:
+Per Definition erlaubst Du, über was philosophiert wird und was nicht.
+
+Gruß
+Domenico

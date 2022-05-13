@@ -1,0 +1,30 @@
+Richtig! DESHALB habe ich es ja verwendet! Genauer: das Zeichen, das ich
+verwende, ist ":<->".
+
+Dieses gehört zur _Metasprache_, ist also NICHT mit dem
+objektsprachlichen "<->" zu verwechseln. (Wehalb man auch "=def"
+vewenden könnte, was eben AUCH NICHT "=" meint.)
+
+Von wegen. Das ist dann KEINE Definition (in meinem Sinne), sondern
+einfach ein Satz.
+
+Aber zweifellos kann man Definitionen technisch auch so formulieren, wie
+Du es hier beschreibst.
+
+
+Jain... man muss schon dazu *sagen*, dass das folgende eine Definition
+ist. Ansonsten wäre es einfach ein (objektsprachlicher) Ausdruck, der
+ein _undefiniertes_ Zeichen _verwendet_. Was wir ja eben nicht wollen...
+;-)
+
+Kurz, man könnte, nehme ich an, wohl auch gelten lassen:
+
+Definition:
+
+	x=y <-> (z)(z\in x <-> z\in y).
+
+(Meine oben verwendete Form der Def. ist schlicht und einfach eine
+Abkürzung, die aber dasselbe leistet, wie die letztere.)
+
+
+F.

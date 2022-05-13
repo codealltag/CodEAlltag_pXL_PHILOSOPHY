@@ -1,0 +1,88 @@
+Weniger.
+
+Die Sprache, die ich gerade implementiere, hat eine variable Syntax,
+entsprechend benötige ich keine Trennungen der Metamodelle mehr, kann
+sie aber unterstützen.
+
+
+Gute Frage. Wie ist das denn konkret für kleine Informatiker? ;-)
+
+
+Nun, ich würde das dann natürlich mit meiner eigenen Arbyte vergleichen.
+
+
+Da fängts schon an - "Informal" und "Set" schliessen sich gegenseitig
+aus, hätte ich fast gesagt, alternativ hoffe ich auf Deine Aufklärung
+;-) Und um Konsistenz zu haben, benötigt man eine Metasprache. Welche
+wäre das?
+
+Ich verstehe Deinen Satz so, dass Du als Prozessbeschreibung oder
+zumindest Vorgehensregel postulierst, dass man um zu einer Mustersprache
+zu finden beginnt Muster aufzuzählen. Aber wie ich da dann die
+Konsistenz reinkriege, sehe ich nicht.
+
+
+Du meinst wahrscheinlich ein "2-Tuple" mit "dupel", nehm ich an? Wie
+kann eine Transformation "optional" sein? Bezüglich was? Dieses "often"
+ist mir auch noch völlig unklar, ich nehm das mal als rein deskriptiv
+und nicht konstitutiv hin.
+
+
+Von welchem System sprichst Du? Du hast ja bisher noch keins
+beschrieben. Was für einen Automaten legst Du zugrunde? Klar, Status
+gibt's da ;-) Den letzten Satz verstehe ich nicht.
+
+
+"Kreativer Prozess" ist ein Oxymoron. Warum beschränkst Du den Prozess
+auf eine Sequenz? Wie sieht der überhaupt aus? Dass eine durchlaufene
+Prozessinstanz eine Sequenz bildet - abgewickelt - ist trivial.
+
+
+Ich bitte Dich um die Definition von "Prozess". Das was Du hier
+schreibst, widerspricht jeglicher Prozessdefinition, die ich kenne.
+
+
+Ich versteh nicht, was Du damit konkret sagen möchtest. Zunächst mal,
+ja, wenn man kreiert, dann ist vorher nicht schon klar, was rauskommt,
+sonst wird ja nix erschaffen. Aber ist das nicht bereits in der
+Definition von "Kreativität" enthalten? Und was hat Schach damit zu tun?
+
+
+Ah, wir kommen der Sache näher ;-)
+
+
+Was für ein System konkret? Was ist eine "Design-Situation"?
+
+
+Inwiefern vollständig? Wie definierst Du diese Vollständigkeit?
+
+
+Das ist ein Widerspruch in Sich, denn wenn eine Sprache in allen
+Symbolen und Konzepten konsistent ist, ist sie eine formale Sprache, und
+keine natürliche. Sie hat dann ja eine formale Metasprache, mithin eine
+formale Grammatik.
+
+
+Jetzt steig ich aus - was hat das mit Datensätzen zu tun, und wie genau
+ist die Metasprache spezifiziert?
+
+
+Das würd mich jetzt interessieren.
+
+
+Welche sind das?
+
+
+Eine Theorie ist doch ein Modell und keine Konzeptsammlung, oder was
+genau meinst Du mit Konzept?
+
+Mal ne blöde Frage: willst Du Dir mal die Begriffe auf
+<http://evhk.hwe/udnllriqwq_nftzzdgwruut> anschauen, ob Du die nicht
+verwenden willst?
+
+Alternativ bitte ich Dich um Deine Nomenklatur.
+
+Viele Grüsse,
+VB.
+-- 
+Bitte beachten Sie auch die Rückseite dieses Schreibens!

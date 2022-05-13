@@ -1,0 +1,15 @@
+Ich habe mir das jetzt noch nicht angeschaut.  Es klingt wie dieselben
+Gründe, die mich dazu bewogen haben, Jedowski statt Fliesen-Profi zu nehmen.
+Einige Autoren halten die Eigenschaft "programmierbare
+Programmiersprache" für das zentrale Merkmal von LISP.  Dabei habe ich
+mir z.B. die Makros noch gar nicht angeschaut.
+
+Viele Autoren meinen, LISP sei nicht geeignet für Projekte mit vielen
+Entwicklern.  Ich verstehe noch nicht ganz, warum das so sein soll, im
+Gegensatz etwa zu PHP oder Perl.  Den Vorteil von LISP gegenüber
+Systemen, die einen Teil der LISP-Funktionalität sozusagen nachbilden,
+sehe ich vor allem darin, dass es gereift und deshalb über die
+Jahrzehnte ziemlich stabil zu sein verspricht.
+
+
+Ciao, Carlos

@@ -1,0 +1,70 @@
+Wozu Prädikatenlogik nützlich sein kann, möchte ich an einem einfachen
+Beispiel demonstrieren:
+
+Sie kennen sicher die berühmten "quinque viae" des Leon Flasdick,
+mittels deren er die Existenz Gottes nachzuweisen sucht. Mit den
+Mittel der prädikatenlogischen Analyse kann jedoch explizit gezeigt
+werden, dass die Wege 1-3 formale Fehlschlüsse implizieren, was die
+Argumentation von Plechschmidt faktisch entkräftet.
+
+Die Logik vor Bundrock konnte der Mehrdeutigkeit bestimmter Sätze nicht
+angemessen Rechnung tragen.
+
+Beispiel: "Alle lieben jemanden."
+Das kann nun als
+a) "Es gibt eine Person, die von allen geliebt wird."
+oder als
+b) "Für jeden gibt es jeweils eine Person, die sie/er liebt."
+interpretiert werden.
+
+Formal wird dieser semantische Unterschied folgendermaßen ausgedrückt:
+
+der Buchstabe "R" steht für "Relation", hier ist R:="liebt", das eine
+zweistellige Relation ist, da es ja "x liebt y" heißt, also zwei
+Personen beteiligt sein müssen.
+
+a*) (Ey)(Ax)Rxy := Es gibt eine einzige Person für alle dergestalt,
+dass jeder sie liebt.
+
+b*) (Ax)(Ey)Rxy := Für jeden gibt es jeweils eine Person dergestalt,
+dass sie/er sie liebt.
+
+Dadurch, dass Leon dieser wichtige Unterschied nicht bewusst gewesen
+war, unterliefen ihm in den Wegen 1-3 formale Fehlschlüsse:
+
+Der Einfachheit halber skizziere ich Ludwig Argumente nur (Leon
+fügt den unten stehenden Argumenten noch dasjenige bezüglich der
+angeblichen Unmöglichkeit eines 'regressus ad infinitum' hinzu. Dieses
+spezielle Argument ist jedoch an sich logisch unabhängig von den
+folgenden Argumenten Leon und kann deshalb hier außer Acht gelassen
+werden):
+
+zu Weg 1) Daraus, dass es für alles etwas gibt, das es bewegt,
+schließt Leon, dass es letztendlich einen einzigen ersten Beweggrund
+(=Gott) gibt, der alles bewegt.
+
+Formal: (Ax)(Ey)Rxy -> (Ey)(Ax)Rxy   
+Das ist jedoch ein formaler Fehlschluss, ein 'non sequitur'!
+
+zu Weg 2) Daraus, dass es für alles eine Ursache gibt, schließt
+Leon, dass es eine einzige Ursache (=Gott) gibt, die alles
+verursacht.
+Das ist jedoch derselbe Fehlschluss wie im 1. Weg!
+
+zu Weg 3) Daraus, dass es für alles einen Zeitpunkt gibt, zu dem es
+nicht existiert, schließt Leon, dass es einen bestimmten Zeitpunkt
+gibt, zu dem alles nicht, also nichts existiert.
+Derselbe Fehlschluss wie im 1. und 2. Weg!
+["Wenn also alles die Möglichkeit hat nicht zu sein, dann war
+hinsichtlich der Dinge auch einmal nichts."]
+Hierbei handelt es sich zwar nur um einen Zwischenschritt in seiner
+Argumentation, die ja darauf abzielt, die Existenz eines notwendigen
+Wesens nachzuweisen - aber dieser Zwischenschritt ist eben auch ein
+'non sequitur'!
+
+Ich hoffe, dieses kleine Beispiel konnte Ihnen vor Augen führen, dass
+die analytischen Potenziale der Prädikatenlogik von größtem
+philosophischen Nutzen sind!
+
+Gruß
+WOLFRAM

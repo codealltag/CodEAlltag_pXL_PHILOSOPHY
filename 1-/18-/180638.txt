@@ -1,0 +1,44 @@
+Das ist genau der Punkt. Aus modelltheoretischer Sicht existieren
+_unendlich_  viele Modelle von PA, N selbst eingeschlossen, die im
+allgemeinen untereinander nicht einmal elementar Äquivalent,
+geschweige denn isomorph sind. Der durch die mengentheoretische
+Definiton geprägte Begriff der natürlichen Zahlen ist spezifischer als
+der durch ARMIN reklamierte. Wie ich in meinen Anführungen zum Ausdruck
+gebracht zu haben hoffte, zeigt Baltes genau dies. 
+[ Nehmen wir an, phi ist eine Aussage, von der wir wissen, dass sie in
+N wahr ist, aber nicht aus PA abgeleitet werden kann. Dass wir wissen,
+dass phi in N wahr ist, bedeutet, dass sie (in der Metasprache) mit
+Hilfe  der mengentheoretischen Definiton bewiesen werden kann (
+ansonsten könnten wir nicht wissen, dass sie wahr ist), gleichzeitig
+ist sie aber nicht aus PA ableitbar. Wenn wir davon absehen, dass es
+kein _eindeutiges_ N' gibt, dass durch PA konstituiert wird,
+unterscheiden sich die Mengen der _beweisbaren_ Aussagen bezüglich der
+beiden Definitionen, und zwar wenigstens um phi] 
+
+
+In der mathematischen Logik heißt eine Formel einer Sprache der
+Prädikatenlogik erster Stufe eine Aussage, wenn sie keine freien
+Variablen enthält. Wenn wir also die "Wahrheit" einer Aussage der
+Objektsprache mit Hilfe eines "Semantikoperators" als "Wahrheit" der
+korrespondierenden Aussage der Metasprache definieren (was auch getan
+wird ), so ist es durchaus möglich, dass sie auch dort nicht
+beweisbar, aber wahr ist. Falls wir also _wissen_, dass eine Aussage
+der Objektsprache wahr ist, so haben wir sie in der Metasprache vorher
+_bewiesen_. In diesem Sinne ist meine _pragmatische_ "Definition" zu
+verstehen. [ Durch die Unterscheidung Objekt-/Metasprache wird
+verhindert, dass der Wahrheitsbegriff aus der Sprache selbst
+hinausführt]
+Eine etwas paradoxe Folge besteht deshalb darin, dass es unbeweisbare,
+aber als wahr nachweisbare Aussagen gibt. Ob die als wahr
+nachweisbaren Aussagen mit den "wahren" Aussagen (im Sinne von
+"tertium non datur" ) übereinstimmen, ist eine Frage der
+Vollständigkeit des Axiomensystems in der Metasprache und unabhängig
+von der Frage, ob PA vollständig ist.
+
+
+Btw: Wenn wir uns von der formalen Logik in die "ordinary language"
+begeben, ist  der Satz A: "A ist nicht beweisbar.", deiner Ansicht
+nach eine wahre, aber nicht beweisbare Aussage, oder aber überhaupt
+keine Aussage?
+
+domenico

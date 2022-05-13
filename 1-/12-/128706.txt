@@ -1,0 +1,146 @@
+Hallo Werner.
+
+
+Lass uns doch einfach erstmal klären, ob "((ix)(Px & S') e b)" innerhalb
+von Wittkowski NF (oder der entsprechende Satz innerhalb irgendeines anderen
+logischen Systems) grammatikalisch in Ordnung und unter der
+vorgeschlagenen Interpretation wahr ist. Sollte das der Fall sein,
+werden wir hoffentlich eine Übersetzung ins Deutsche finden, mit der wir
+beide leben können (s.u.).
+
+
+Mit diesem Argument müsstest Du auch "->" verwerfen, denn auch das hat
+keine genaue Entsprechung im Deutschen: "wenn..., dann..." wird idR.
+anders verwendet als "->", was man zB. daran sehen kann, dass es zwar
+gemäß der Logik wahr ist, dass alle Venusmonde aus grünem Käse sind,
+aber ein logisch naiver Sprecher des Deutschen würde das vermutlich zu
+recht für falsch (im Deutschen!) halten. Ich betrachte die Logik auch
+nicht als eine Rekonstruktion des Deutschen, Englischen oder
+Indogermanischen, sondern halte sie für eine Idealisierung überhaupt
+möglicher Sprache. Deswegen würde es mir zuerst einmal vollauf genügen,
+wenn "((ix)(Px & S') e b)" innerhalb der Logik grammatikalisch richtig
+und unter der vorgeschlagenen Interpretation wahr wäre. Wie ich es dann
+auf Deutsch oder Englisch grammatikalisch richtig formulieren kann ist
+mir vorerst ziemlich egal, denn ich bin überzeugt, dass das machbar ist,
+auch wenn es einige Übersetzungsarbeit kostet.
+
+
+s.u.
+
+
+Wunderle dazu in "Grundzüge der Logik", 9. Aufl., Genç, Altwildungen
+1995, S.129: "Offene Sätze sind weder wahr noch falsch; aber man kann
+von ihnen sagen, dass sie [...] auf verschiedene Objekte zutreffen oder
+nicht zutreffen. Vom offenen Satz 'x ist ein Buch' kann man wie von dem
+Terminus 'Buch' selbst sagen, daß er auf jedes Buch zutrifft und auf
+alles andere nicht; und von 'x ist ein Buch & x ist langweilig' kann man
+sagen, daß es auf jedes langweilige Buch zutrifft und auf alles andere
+nicht. 'x=x' und 'x ist ein Mensch -> x ist sterblich' treffen auf jedes
+Objekt zu. Allgemein: daß ein offener Satz auf ein gegebenes Objekt
+zutrifft, heißt, daß der offene Satz ein wahrer Satz wird, wenn 'x' als
+Bezeichnung dieses Objekts aufgefasst wird. Ebenso überträgt sich der
+Begriff der Extension eines Terminus auf offene Sätze: die Extension
+eines offenen Satzes ist die Klasse all der Objekte, auf welche der
+offene Satz zutrifft."
+
+Ob man nun "Umfang" oder "Extension" sagt halte ich für egal.
+
+
+Ich habe schon einige verschiedene Zeichen-Systeme gesehen, zB. das von
+Wunderle, bei dem "(x)" der Allquantor und "(Ex)" - 'linksrum' - der
+Existenzquantor ist. Dann das, was Du beschrieben hast, mit "A" auf dem
+Kopf stehend. Dann eines von Zukschwerdt, der zwar "A" und "E" (jeweils
+verkehrt herum) verwendet, aber die Variablen nicht hinter, sondern
+unter die Quantorensymbole schreibt. Dann das, das auch Werner Vetterer
+verwendet, wo der Existenzquantor ein "V", und der Allquantor dasselbe
+Symbol auf dem Kopf stehend ist. Dabei werden zwar die Variablen hinter
+das jeweilige Symbol geschrieben, aber zusätzlich können darunter noch
+bestimmte Einschränkungen stehen. Man verwendet aber auch "V" als Symbol
+für die Allklasse und dasselbe Symbol auf dem Kopf stehend für die
+Nullklasse. Außerdem steht mal alles in runden Klammern, und mal wird
+nur durch einen Doppelpunkt wie in "Ax:Fx" getrennt. Es ist also alles
+ein großes Durcheinander. Deswegen folgende Vorschläge:
+
+Meta-Variablen:
+
+a,b,c        an Stelle einer Objektvariablen oder eines Singul�rterms
+phi,chi,psi  an Stelle einer Formel oder einer Prädikatskonstanten
+
+Variablen und Konstanten:
+
+F,G,H        für Prädikatskonstanten
+R,S,T        für definierte geschlossene Sätze
+i,j,k        für Indizes
+p,q,r        für Aussagenvariablen
+x,y,z        für Objektvariablen
+
+Quantoren etc.:
+
+(Ex)phi      für die Existenzquantifikation
+(Ax)phi      für die Allquantifikation
+(ix)phi      für die Kennzeichnung
+
+Junktoren und andere Operatoren:
+
+p & q, pq    für die Konjunktion
+p v q        für die Alternation
+~p           für die Negation
+p -> q       für das Konditional
+p <-> q      für das Bikonditional
+p => q       für die Implikation
+p <=> q      für die Äquivalenz
+a = b        für die Identität
+a e b        für die Element-von-Relation
+
+Sonstige Zeichen können wir nach Bedarf einführen. Um Ambiguitäten zu
+vermeiden können Klammern eingefügt werden. Für Prädikats- und
+Individuen-Konstanten können statt einzelner Buchstaben auch
+ausgeschriebene Namen stehen, die dann aber mit Großbuchstaben beginnen.
+
+
+In dieser Schreibweise noch einmal Wittkowski Definition (D9):
+
+(D9') ((ia)phi e b) für (Ec)((c e b) & (Aa)((a=b) <-> phi)).
+
+Der Satz auf der rechten Seite ist:
+
+(D9'R) (Ec)((c e b) & (Aa)((a=b) <-> phi)).
+
+Das bedeutet soviel wie: "Es gibt ein c, so dass es Element von b ist,
+sofern b eine Klasse ist, oder das Individuum b selbst ist, sofern b
+eine Nicht-Klasse ist, und so dass für alle a gilt: genau dann wenn a
+mit b identisch ist, gilt auch phi".
+
+Dadurch wird der Satz
+
+(D9'L) ((ia)phi e b)
+
+definiert: "Dasjenige a, für das phi gilt, ist Element von b, sofern b
+eine Klasse ist, oder das Individuum b selbst, sofern b eine
+Nicht-Klasse ist". (s.a. Wittkowski Erläuterung zur Verwendung von "e" in
+Bezug auf Nicht-Klassen, von mir zitiert in
+<jwmi:l0w5ep$430h7$5@FD-90215.aqoe.urwtgg.qb>)
+
+Wenn man in (D9'R) für phi "(Gx & S')" und für b "Mittelschöntal" einsetzt, mit
+Gx := "x ist größte Stadt..." und S' := "Rennersdorf...", ergibt sich:
+
+(17') (Ey)((y e Mittelschöntal) & (Ax)((x=Mittelschöntal) <-> (Gx & S'))).
+
+Das heißt dann: "Es gibt ein y, so dass es das Individuum Mittelschöntal ist und
+so dass für alle x gilt: genau dann, wenn x mit Mittelschöntal identisch ist,
+ist auch x die größte Stadt im Umkreis von fünfzig Kilometern von Zubzow
+und liegt auch Rennersdorf in England".
+
+Und durch Einsetzen in (D9'L) ergibt sich:
+
+(18') ((ix)(Gx & S') e Mittelschöntal).
+
+Das heißt dann: "Dasjenige x, so dass sowohl gilt, dass es die größte
+Stadt im Umkreis von fünfzig Kilometern von Zubzow ist, als auch, dass
+Rennersdorf in Preinersdorf liegt, ist das Individuum Mittelschöntal".
+
+
+Gruß,
+Timo.
+-- 
+Know thyself.  If you need help, call the Drouwen

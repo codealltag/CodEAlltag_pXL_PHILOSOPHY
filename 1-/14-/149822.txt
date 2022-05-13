@@ -1,0 +1,42 @@
+Es laesst Spielraum fuer Interpretationen.
+Das wurde ja auch prompt ausgenutzt, siehe auch
+die Antwort von Willy unter 
+"Re: Schachmatt der Ueberabzaehlbarkeit"
+Die Intervalle [r-1,r[ und [r,r+1[ sind Disjunkt
+und lassen sich nicht abzaehlen.
+Ein "paarweise" wuerde es wohl klarmachen, wenn man
+in N bleibt.
+
+aha!
+
+disjunkt wozu?
+
+Genau dies ist in der spaeteren Folge durch Andere geschehen.
+
+Die bei vernuenftiger Formulierung ausgeschlossen waere.
+
+Das ist die gewuensche Interpretation.
+Es steht aber nicht da.
+Oben habe ich ueberabzaehlbar viele disjunkte
+Intervalle hingeschrieben (durch eine reelle
+Variable parametrisiert).
+
+...
+Genau das sollte aber bei einer mathematisch korrekt
+formulierten Aussage vermieden werden.
+
+Ok, wenn man keine Ueberabzaehlbare Menge paarweise
+disjunkter echter Intervalle in R findet, gibt es 
+insbesondere auch keine Ueberdeckung von R durch
+solche.
+...
+
+
+Ich wusste, wie das zu interpretieren war.
+
+Ich habe lediglich den Thread analysiert: genau
+die aufgeworfene Ungenauigkeit war Grundlage 
+etlicher seltsamer Argumentationen.
+
+Gruss,
+  Otto

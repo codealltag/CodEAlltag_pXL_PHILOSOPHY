@@ -1,0 +1,53 @@
+Ich schlage vor, dieses Axiom pragmatisch zu verstehen:
+Wenn wir Aussagen der Form "forall x irgendwas(x)" beweisen wollen,
+beginnen wir den Beweis mit
+"Es sei ein x gegeben" und beweisen dann, dass irgendwas(x) gilt.
+Falls man dazu (aus irgendwelchen formalen syntaktischen Gründen,
+weil irgendein nützliches Resultat sowas als Voraussetzung hat)
+einen Begriff F(y) braucht, dessen Umfang x ist, dann könnte man
+das obige Axiom gebrauchen.
+
+Allerdings hat man in dieser Situation eigentlich schon so einen
+Begriff: F(y) ist "y element x".
+
+Ich sehe folgende Alternativen: Die gewählte formalisierte Sprache
+für die Mathematik lässt so etwas wie das folgende
+
+"Es sei ein x gegeben. Dann sei F(y) definiert durch 'y element x'.
+Dann gilt F(y) <=> 'y element x', womit der Umfang von x F ist. qed."
+
+oder syntaktische Varianten davon als Beweis gelten, dann brauchen
+wir das Axiom nicht sondern können es beweisen. Oder der Beweis
+ist vom Standpunkt der formalen Sprache aus gesehen lückenhaft,
+und die Lücke kann mit dem Axiom geschlossen werden. Dann
+braucht man es. Oder der Beweis ist in der formalen Sprache auch
+mit Axiom nicht zu retten. Dann sollte man sich pragmatisch überlegen,
+ob die formale Beweissprache nicht zu sehr eingeschränkt definiert ist.
+
+Philosophisch gesehen würde ich sagen, dass bereits die erste Zeile
+des typischen Beweises: "Es sei ein x gegeben" mit x einen innerhalb
+des Beweises verwendbaren Begriff einfach einführt. Eigentlich
+passiert das ja schon innerhalb der Aussage "forall(x) irgendwas(x)"
+selbst.
+
+
+Denke ich nicht. Die KI-Leute können solcherart "Theorie der Begriffe"
+sehr wohl gebrauchen. Siehe z.B. die Arbeit
+B. Benninghaus, G.L. Robeck, An overview of OntoClean,
+in: E.Lindstaedt, F. Löwenhag (eds.), Handbook on Ontologies,
+Kochzeit, Waltringen 2003, p.151,
+in der ein Identitätsbegriff, der sich von Extensionalität unterscheidet,
+verwendet werden, um Fehler in "Ontologien" für automatische
+Wissensverarbeitung zu finden.
+
+
+Hm, ich würde eine solche Position (a la "euer Streit interessiert mich
+nicht,
+weil das Ergebnis für mich unwichtig ist") eher neutral nennen.
+
+
+Ich sehe u.a. auch die Kategorientheorie in der Mathematik
+als Entwicklung in die entgegengesetzte Richtung, weg vom
+Extensionalen.
+
+Pierre

@@ -1,0 +1,52 @@
+Liebe Ursi,
+
+
+an anderer Stelle führst du den lanatmigen und überflüssigen
+Beweis, dass A nicht gleich B sein kann.
+
+Obwohl ich keine Sympathien für François' Position habe, kann ich
+doch leicht verstehen, was er meint. Bzw. das was er sagt,
+sinnvoll interpretieren. Bedenklich ist, dass du entweder zu
+einer wohlwollend-verstehenden Interpretation nicht in der
+Lage bist (was ich nicht annehme), oder nicht willens bist.
+
+Ich erkläre es dir einfach:
+
+Ein Wort W habe mehrere Bedeutungen W(i), W(j), W(k);
+im vorliegenden Fall
+    Baum(Biologie)
+    Baum(Informatik)
+    Baum(Genealogie)
+
+(außer einer vagen Vorstellung von "Verzweigung" verbindet
+diese Termini/Begriffe nichts. soviel zur "Logik" der
+Sprache im Bezug auf die Verwendung des Wortes "Baum")
+
+François meint mit
+    Baum=Baum
+natürlich nicht, dass Ungleiches gleich wäre, z. B.
+    Baum(Informatik)=Baum(Biologie)
+
+sondern er meint, dass
+    Baum=Baum
+als triviale Identität immer gilt, egal ob man
+nun eine bestimmter Baum-Bedeutung
+    Baum(x)=Baum(x)
+oder alle Baumbedeutungen als Vektor/Menge/Cluster
+    [Baum(Biologie) Baum(Informatik) Baum(Genealogie)] =
+    [Baum(Biologie) Baum(Informatik) Baum(Genealogie)]
+betrachtet.
+
+
+Das ist so einfach, dass es jeder halbwegs intelligente
+Mensch verstehen müsste. Nachdem ich dich für mehr als
+halbwegs intelligent halte, kann ich nur annehmen, dass
+du hier eine Art Katz-und-Maus-Spiel treibst, wo du
+deine Gesprächspartern absichtlich überinterpretierst
+und wortreich unhaltbare Strohmann-Positionen konstruierst,
+um sie als Idioten darzustellen.
+
+Ich finde das - zu deinen Gunsten wohlwollend
+formuliert - ein wenig langweilig.
+
+lg Oswald

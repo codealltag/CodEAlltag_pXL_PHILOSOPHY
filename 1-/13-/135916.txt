@@ -1,0 +1,23 @@
+Reiner Goreis <pcvny@vfsswdes.xd> writes:
+
+[Ultrametrizit�t]
+
+Kannst du das etwas /formaler/ formulieren? Was ist "Distanz ab"? Die
+übliche math. Definition eines _metrischen Raums_ ist folgende:
+
+Def. Ein Paar (M,d) mit einer Menge M und einer Abbildung d:MxM->R
+heißt _metrischer Raum_, wenn für alle x,y,z in M gilt
+
+        (a) d(x,y)=0 <=> x=y
+        (b) d(x,y)=d(y,x)
+        (c) d(x,z)<= d(x,y)+d(y,z)   ("Dreicksungleichung")
+
+
+Was ist jetzt ein _ultrametrischer_ Raum?
+
+[...]
+
+Geht das etwas präziser?
+
+
+frank

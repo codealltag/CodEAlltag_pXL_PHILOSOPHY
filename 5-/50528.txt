@@ -1,0 +1,27 @@
+Nun, ein kurzer Wrapper um jede Programmfunktion, der einen
+Zufallszahlengenerator aufruft, und jede andere Turing-vollständige
+Sprache hat das auch.
+
+
+Stimmt. Aber rand() ist es: 7.20.2.1.
+
+
+Pseudo-Zufallsquellen gibt es genügend. Und es genügt für einen
+Programmlauf zu fordern, dass als Eingabewort ein Seed zu Anfang auf dem
+Band stehen muss. Schon lässt sich Java2k mit einer Turingmaschine
+darstellen.
+
+Das Eingabewort ist ja die Eingabe in eine Turing-Maschine, das
+entspricht dann der Eingabe des Zufalls in Efah.
+
+Falls Du keinen Pseudozufall magst, so ist hinreichend viel Zufall
+abgrenzbar lesbar auf dem Band passend zur restlichen Eingabe die
+Entsprechung.
+
+Obwohl Pseudozufall mit hinreichendem Seed natürlich nicht schlechter
+sein muss als echter Zufall.
+
+Viele Grüsse,
+VB.
+-- 
+Bitte beachten Sie auch die Rückseite dieses Schreibens!

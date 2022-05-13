@@ -1,0 +1,17 @@
+Vinzenz Henken <Vryamx.Gjrkdrslx@DDK.Mfa-Jzkemjyqx.LD> schrieb in im
+Newsbeitrag: 9usqk6$vmk7j$2@ZE-15741.cbrg.lugsci.hq...
+wrote:
+Tat
+syntak-
+Kalkuele
+
+Aber nur innerhalb der verwendeten Logik. Das Sequenzkalk�l über AL
+(Aussagenlogik) ist konsistent und vollständig in Bezug eben auf AL.
+Verwendet man das angepasste Sequenzenkalkül mit FO (Prädikatenlogik erster
+Stufe), dann ist das Kalkül ebenfalls konsistent und vollständig. Aber FO
+selbst kann nicht mit FO auf Konsistenz geprüft werden. Außerdem ist die
+Aussagekraft von FO stark begrenzt, es lassen sich in keiner Weise alle
+Sätze der Mathematik über Sequenzen auf FO herleiten (So sind die reelen
+Zahlen in FO nicht Axiomatisierbar.). Es gibt natürlich noch
+ausagekr�ftigere Logiken wie MSO, die monadische Logik zweiter Stufe, aber
+auch MSO hat Grenzen usw....

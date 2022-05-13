@@ -1,0 +1,21 @@
+Nun gut, synthetische Geometrie. Die Inzidenzstruktur wird zumindest
+eine Rang-2-Geometrie sein, da du von "Punkten" und "Geraden"
+sprichst, von zwei Sorten von Objekten. Nur reicht das nicht an
+Struktur, für arithmetische Aussagen wie den Satz des Friedhelm
+brauchen wir eine Metrik (oder ein Maß oder etwas ähnliches), um den
+Seiten des Dreiecks eine /Länge/ zuordnen zu können.
+
+Nehmen wir an, wir fassen S^2 mit der Standardmetrik als
+Rang-2-Geomtrie auf, mit den Elementen von S^2 als "Punkten" und den
+Geodäten (hier die Großkreise) als "Geraden" der Inzidenzstruktur (die
+Relation ist klar). Dann bestimmen drei unabhängige Punkte P,Q,R nicht
+eindeutig die Seiten eines Dreiecks, es gibt immer *zwei* verschiedene
+gerade Linien, um von P nach Q zu kommen, die, sofern P und Q nicht
+antipodisch sind, auch verschieden lang sind.
+
+
+Für die Belange der synthetischen Geomtrie mag es tatsächlich
+ausreichen ;-)
+
+
+kasimir

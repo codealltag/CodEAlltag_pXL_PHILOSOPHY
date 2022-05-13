@@ -1,0 +1,79 @@
+On Tue, 14. 04. 22 10:31:43 +0200, Italo Knorz
+
+Def. Eine Sprache L kann  über sich selbst sprechen (ist
+selbstreferentiell), wenn es (singuläre) Terme  von L gibt, die  auf
+Ausdrücke von L  Bezug nehmen.
+
+
+/Faktisch/ sind Logiker/Mathematiker in der Lage, in einer 1-stufigen
+formalen Sprache mit ZF als mengenth. Axiomensystem Mathematik zu
+betreiben.(siehe auch das Mizar-Projekt)
+
+
+Das kann er  auch mit Hilfe einer formalen Sprache, die durch
+Performatoren erweitert ist. Was heißt überhaupt *ankündigen*?  Es
+geht  hier um die Frage, ob die Ausdrücke einer formalen Sprache
+*semantisch* von natürlichsprachlichen Ausdrücken "parasitär"
+abhängen.  Die Links, die ich dir angegeben habe, sind nicht in der
+Alltagssprache formliert, sondern /halbformal/ in der math.
+Umgangsprache, die Objektsprache ist dagen eine vollständig
+formalisierte Sprache, in der, als Beispiel, ein wichtiger Satz samt
+Beweis ausgedrückt wird. Inwiefern ist hier die vollständig
+formalisierte Version *semantisch* von der Alltagssprache "parasit"
+abhängig? 
+
+Ich darf dich übrigens daran erinnern, das du /Fachsprachen/ mit
+folgender Formulierung, nicht als Teil von nat. Sprachen auffassen
+kannst:
+
+
+Fachsprachen (oder nat. Sprachen, die um diese erweitert sind) werden
+nämlich von Kindern nicht im Erstspracherwerb gelernt, und
+unterscheiden sich teilweise erheblich, in Syntax und Semantik, von
+den je unterschiedlichen nat. Einzelsprachen.
+
+Meiner Autonomiethese  stimmst du vermutlich zu:
+
+Mathematische Sätze (also Sätze, die math. Termini wesentlich
+enthalten), lassen nicht in die die Alltagssprache  "rückübersetzen".
+
+(das Gegenteil ist die These, die wohl Artur vertritt)
+
+Das sprachliche Inventar einer künstliche Sprache muss auch nicht in
+der Alltagsprache explizierbar sein, man kann erstere erlernen, ohne
+sie als "System" kennenzulernen. Das beste Beispiel sind
+/Programmiersprachen/, die häufig anhand von Beispielen, die
+alltäglichen Situationen entnommen werden, von Menschen erlernt
+werden, deren operationale Semantik (die in etwa ausssagt, was ein
+Computer bei bestimmten Anweisungen macht) aber davon wesentlichen
+unabhängig ist.  Nun hast ja im anderen Posting zugegeben, dass sich
+ihre Syntax und Semantik ein erheblicher Teil Mathematik notwendig
+ist. Eine Explikation einer operationalen  Semantik /für/ eine
+Programmiersprache läßt sich aber selbst in einem vollständig
+formalisierten Rahmen durchführen, und wird etwa auch von den Autoren
+von http://ltl9.bf.qow.bx/~vhvusvc/faceaw/AdkdVlyzww-ap-Rivz.mjt
+projektiert:
+
+
+Man zieht sich hier, dem Namen des Threads angemessen, am eigenen
+Schopf aus dem Sumpf.
+
+
+Was ist denn die "Umgangssprache"? Wenn es die math. Umgangssprache
+ausschließt, ist der Satz sicher falsch.
+
+
+Nein. Die formale Semantik untersucht gerade, in welcher Beziehung
+Terme zu Strukturen und Modellen (in der Modelltheorie) oder zu
+Automaten (operationale Semantik bei Programmiersprachen) stehen, wie
+sie dort interpretiert werden. 
+
+
+Meine Replik ist einfach, dass du selbst  überhaupt keinen Begriff
+einer Sprache besitzt, das Zitat aus dem  "Lexikon für
+Sprachwissenschaft" ist ja an Präzission kaum zu unterbieten,
+abgesehen von dem fragwürdigen Mentalismus und Psychologismus, der
+dort zum Ausdruck kommt.
+
+
+leopold

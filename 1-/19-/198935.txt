@@ -1,0 +1,37 @@
+Ich glaube zwar, dass dich die Art der Darstellung ärgert, aber sie
+war schon korrekt. Insbesondere hat er die Beweisidee richtig
+dargestellt,
+nämlich dass zu einem gegeben Ableitungskalkül eine Aussage konstruiert
+wird, die zwar wahr ist, aber nicht hergeleitet werden kann.
+Wenn man mal nur das übliche Beispiel, die PL1 Axiomatisierung
+der natürlichen Zahlen betrachtet, kann man auch mit etwas Mühe
+eine mathematisch interessante Behauptung finden, die zwar wahr,
+aber in dem Kalkül nicht beweisbar ist. Z.B. dass zu jedem a
+ein n existiert, so dass das n-te Glied GS(a,n) der Goodsteinfolge
+mit Anfangswert a den Wert 0 hat.  
+
+
+Dann fang mal an.
+
+
+Was heisst denn die "üblichen formalen Kriterien"?
+Fang doch mal mit deiner eingeforderten genaueren Formulierung an.
+Was ist gegen den in der Informatik und math. Logik verwendeten 
+Begriff der Berechenbarkeit einzuwenden?   
+
+
+Das entspricht der Vollständigkeit der PL1:
+keinen Unterschied zwischen Syntax und Semantik machen und
+daher diesen Vollständigkeitssatz für trivial "wenn man das
+übliche Gerede über Mengen mal weglässt" halten. Das habe ich so
+bei einem Bechte Schüler mal gelesen.
+
+
+Das kann man auch dahingehend interpretieren, dass in der
+intuitionistischen Logik (p v q) eine andere Semantik hat.
+
+
+Nein, aber es hilft dabei.
+
+-- 
+Vito Class

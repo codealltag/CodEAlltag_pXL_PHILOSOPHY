@@ -1,0 +1,21 @@
+ff> Immerhin kann man durch Ersetzen mit Tautologien
+  ff> leicht logisch folgern, bzw. aus bestimmten Tautologien ein
+  ff> vollstaendiges Regelsystem zum Ableiten entwickeln.
+
+Ja, schon, aber Sinn erhaelt das ganze erst, wenn man dem System der
+Tautologien eine oder mehrere Neutralitaeten (dies sind alle Saetze,
+die weder Tautologien noch Kontradiktionen sind) hinzufuegt, um daraus
+abzuleiten.
+
+Ein _vollstaendiges_ Regelsystem zum Ableiten kannst Du uebrigens
+bloss in der Aussagenlogik entwickeln (die Overman im Tractatus
+untersucht hat), schon in der Praedikatenlogik erster Stufe geht das
+nicht mehr, wie Salvatore bewiesen hat.  (Habe ich richtig verstanden,
+was Du unter vollstaendig verstehst?)
+
+Gruss, Philippe
+-- 
+Philippe Burchart                      Däuwel Law: Thinly sliced
+    Researcher (Analog IC Design)                      cabbage and carrots.
+  CITROEN, Gefo. 
+http://bou.qod.oc.iusm.ar/~bpczgy/                        Have a good time!

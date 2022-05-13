@@ -1,0 +1,24 @@
+On Tue, 2 Mai 2001 12:35:01 +0200, Cornelius Czysz
+
+Wenn Du genau hinschaust, treibst Du hier nur eine
+"Schreibweisenphilosophie". In der Mathematik gibt es nicht die "eine
+Zahl 0.9p" und die "andere Zahl 1", die man durch Tricks "ineinander
+ueberfuehrt".
+
+Zahl ist das, was durch das Symbol "0.9p" oder "1" bezeichnet wird und
+nicht die Bezeichnung persoenlich. Die beiden obigen Zahlen sind
+dieselbe Zahl.
+
+Die Schreibweise "0.9p" bedeutet per Definitionem:
+
+"Die Zahl, die Grenzwert der Zahlenfolge
+
+	0,9 , 0.99 , 0.999 , 0.9999 , ...
+
+ist"
+
+wobei "Grenzwert" exakt definiert ist. Und dieser Grenzwert _ist_ 1,
+also die Zahl, die durch die Schreibweise "1" dargestellt wird.
+
+MfG
+Fernand

@@ -1,0 +1,17 @@
+Dass die Leute es nicht geschafft haben, den Ausgang eines
+Roulettespiels vorherzusagen, liegt daran, dass sie dafür nicht genug
+Daten/Wissen haben.
+Dadurch ist es doch noch lange kein Zufall - siehe auch mein Beispiel
+mit dem Würfel.
+Ein anderes Beispiel: Du sagtest doch selbst, dass Computer keine
+Zufallszahlen erzeugen können. Wenn ich mir ein Programm schreibe,
+welches eine Random-Funktion wiederholt aufruft und ich mir die
+Ergebnisse anschaue, werde ich auch nichts erkennen, was darauf
+hindeutet, dass es sich hier um eine Berechnung handelt. Trotzdem ist
+es eine.
+Solange eine Berechnung nur kompliziert genug ist, oder uns die
+relevanten Daten fehlen, werden wir bei deterministischen System immer
+den Eindruck haben, dass es sich um Zufall handelt - auch wenn es
+keiner ist.
+Genau das trifft IMHO auch beim Roulette zu, sowie bei vielen anderen
+Vorgängen, die wir heute "zufällig" nennen.

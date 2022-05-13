@@ -1,0 +1,27 @@
+L.V. <zxj@wynabmqqg.knesiuo.qb> schrieb:
+
+[snip]
+
+
+Es gilt sogar: U(X) -> (!P(X) & ! P(X))
+
+
+Nein, Arian, das reicht für eine Zurückführung bei weitem nicht, da Du
+Prädikatenlogik auf Aussagenlogik anwendest und damit in eine viel zu
+starke Logik wechselst (zumal selbst dieses Verfahren bei unendlichen
+vielen Wahrheitswerten versagt). Du müßtest dreiwertige Aussagenlogik
+in zweiwertige Aussagenlogik und dreiwertige Prädikatenlogik
+in zweiwertige Prädikatenlogik einbetten und dabei höchstens endlich
+viele neue Symbole verwenden.
+
+Ansonsten wäre es ja so, als würdest Du nichtdeterministische endliche
+Automaten auf einer deterministischen Turingmaschine simulieren. Das
+das geht, ist schließlich keine Kunst. Die Kunst (naja) ist es den
+Potenzautomaten zu konstruieren (als Informatiker wirst Du dieses
+Beispiel wohl verstehen).
+
+Torsten
+-- 
+Torsten Ihle
+        keep things simple. as simple as possible, but no simpler
+	        (O.Nemecek)

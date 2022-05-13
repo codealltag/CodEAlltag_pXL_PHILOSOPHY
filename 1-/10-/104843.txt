@@ -1,0 +1,134 @@
+Du bist ein Klugschwätzer, der zu intelligent ist, um sich klar 
+auszudrücken !
+
+Das ist auch noch definitiv falsch ! Bilden nicht auf einen 
+Wahrheitswert ab. Genau das eben nicht !
+
+Sagen Dir lamda - Kalküle in Programmiersprachen etwas ? Lambda - 
+Operatoren ? Funktionale Programmiersprachen ?
+
+
+leute = [120,76,100,7,94,123];
+gruppen = map(lambda x:x/11,leute);
+print gruppen
+
+Ergebnis:
+[10, 6, 9, 0, 8, 11]
+
+
+Neutrale, typenfreie Lambda - Operatoren sind Russell'sche 
+Propositionalfunktionen, die liefern nämlich typisierte Begriffe zurück:
+
+worte = ["an","herum", "auf"];
+neueworte = map(lambda x:x+"stehen",worte);
+print neueworte
+
+Ergebnis:
+['anstehen', 'herumstehen', 'aufstehen']
+
+Und hier sieht man, daß sie wirklich typenfrei ist:
+
+worte = ["an","herum", "auf"];
+neueworte = map(lambda x:x*2,worte);
+print neueworte
+
+Ergebnis:
+['anan', 'herumherum', 'aufauf']
+
+übrigens, das ist die Programmiersprache Python, die gegenüber Java, C++ 
+Programmierung 2/3 Zeit einspart, bares Geld in der Entwicklung. Hiermit 
+gehen Dinge, die in anderen Programmiersprachen unmöglich sind x*2 für 
+Strings, z.B.
+
+
+Propositionalfunktionen sind einleuchtend, leicht zu erklären, sie 
+lenken das Augenmerk prinzipbedingt auf Kategorienfehler und sind daher 
+didaktisch sehr gut geeignet, verirrte Menschen zu sauberer Denklogik 
+wieder zurückzuführen, siehe Whitehead/Russell, "principia mathematica":
+
+Definition von Propositionalfunktionen:
+
+Es sei Px oder auch P(x) (nicht korrekt, aber für Leute, die normale 
+Mathe gelernt haben, einleuchtend) eine (zunächst bedeutungslose, sprich 
+typenfreie) Funktion, die zu einer (bedeutungsvollen) Proposition, also 
+zu einem Begriff mit Bedeutung wird, wenn die Veränderliche x einen 
+bestimmten (sinnvollen) Wert annimmt. Eine Klasse a (Menge oder 
+Mannigfaltigkeit) bilden dann alle möglichen Werte für x, für die Px zu 
+einer Proposition wird.
+
+Begriffe haben inverschiedenen Kontexten verschiedene Bedeutung.
+
+Das bedeutet für P(x aus a) wird die Propositionalfunktion zu einem 
+sinnvollen Begriff, der verstanden wird. Vorher ist sie einfach nur eine 
+Art neutrale Suchfunktion, die den Prozess des Nachdenkens, Grübelns 
+darstellt.
+
+Es kommt hierbei darauf an, daß Ausdrücke zunächst als reine
+typenfreie Propositionalfunktionen aufgefasst werden, die erst dann zu 
+Begriffen werden, sprich auch Sinn machen, wenn sie in dem richtigen 
+Kontext angewendet werden.
+
+"Ich schlage mit dem Fisch den Nagel in das Holz."
+
+Macht keinen Sinn, weil die 4 Propositionalfunktionen für alle 
+gemeinsamen x, für
+
+Fisch, Nagel, Holz, schlagen,
+
+als p1(x) ^ p2(x) ^ p3(x) ^ p4(x)
+
+kein gemeinsames x finden, für welches alle vier Funktionen einen Sinn 
+ergeben. Immer wieder schert p1(x) mit Fisch bei der Eigenschaft oder 
+Kategorie "Härte" aus, was verhindert, daß der Satz einen Sinn macht.
+
+Das ist übrigens die Definition von "Sinn", im mathematisch - 
+sprachlichen Sinn ;-)
+
+Im Russischen z.B. würde der Satz nur heißen "Schlagen Fisch Nagel 
+Holz", oder (Fisch schlagen Holz Nagel).
+
+Worte besitzen eine innere Logik, die man in vielen anderen Sprachen, 
+ungleich der deutschen Sprache, nicht noch mal extra mit komplizierter 
+Grammatik betonen muß.
+
+Das Hirn denkt sich Worte, wie in, an, um .... alles eh weg, überliest 
+sie gewissermaßen.
+
+Wäre nur noch der Begriff Proposition zu klären - belassen wir es bei 
+dem englischen Ausdruck.
+
+Sofern ein Begriff in dem Kontext eine Bedeutung hat, also in dem Satz 
+einen Sinn macht, dann wird die Propositionalfunktion zu einer 
+Proposition, also zu einem Begriff:
+
+Beispiel:
+
+  "Dastiewastummakst" geht nach Hause !
+
+"Dastiewastumakst" ist eine Propositionalfunktion, für welches es kein x 
+gibt, was den Ausdruck zu einem Begriff, einer Proposition macht, also 
+sinnlos ist. Vom Kontext mit "nach Hause" brauchen wir dann nicht mehr 
+zu reden.
+
+Genauer, aber veraltet, steht es hier:
+
+http://ldsocdwuvrvl.alzm.kk.yg/mzrrhzdxxkf/Blxxlpt%94ral%90Anvwugoyfa/zw/AOBUEFUVNRM%63%43%57Kemntzeqw%Q7%Q3u.zqk
+
+
+Und wenn man das alles genau verstanden hat, schmeißt man die Texte von 
+90% aller Philosophen in die Tonne, insbesondere die, die über "Sinn und 
+Bedeutung" Müll ohnegleichen abgesondert haben, aber nie Pauk 
+Propositionalfunktionen verstanden haben, geschweige denn 
+Interpretationsfuktionen von Neuhalfen, die nicht so elegant, weil typenfrei 
+sind.
+
+Hinter alledem steckt Zermelo-Fraenkel Mengenlehre, typenfrei ;-)
+
+LG, Kay Feuler
+
+--
+Elementare, wahre Aussagen bedürfen keiner langen Diskussion.
+
+Frage einen Wegweiser niemals nach der Uhrzeit !
+
+� aller im Text verwendeten Worte by Mamma !

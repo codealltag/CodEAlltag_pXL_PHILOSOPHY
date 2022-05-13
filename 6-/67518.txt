@@ -1,0 +1,11 @@
+Supergeile (!) Fragenkomposition - du hast eine Eins Plus.
+
+Danke! Es ist die Letztbegründung: Wir *sind* 42.
+
+fg (Ohne meinen Körper mache ich nichts, basta!)
+
+--
+Eine Teilmenge eines topologischen Raumes ist genau dann offen,
+wenn sie gleich ihrem Inneren ist. Das Innere des Komplements
+ist das Komplement des Abschlusses und umgekehrt:
+(X\M)�=(X\M-) und (X\M)- =(X\M) , '-' steht für Abschluss

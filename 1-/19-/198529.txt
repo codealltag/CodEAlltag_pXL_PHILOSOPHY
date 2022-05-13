@@ -1,0 +1,114 @@
+Hi Ingo,
+[Zeit zurueckdrehen]
+u>
+u>Bzw. allein schon deshalb, weil man ihn auf einen Tisch legen kann.
+u>
+
+u>Ich meine nicht, daß irgendetwas berechnet wird. Die materielle Welt  
+u>könnte einfach in der Zeit systematisch angeordnet sein. Das System der  
+u>Anordnung äußert sich in den sogenannten Naturgesetzen.
+u>
+
+Man kann auch ein Spiel wie Schach oder Doom auf den Tisch legen,
+wenn diese in einem portablen PC stattfinden. Dabei kann es sehr wohl
+sein dass das Ende feststeht (z.B. wenn der Comp. Schach gegen sich
+selbst spielt und das Programm niemals eine Zufallsauswahl unter seinen
+Zuegen vornimmt), dennoch wuerde ich sagen, dass das Spiel geschieht.
+Das Kriterium scheint zu sein, dass eine Informationsverarbeitung
+noetig ist, um das Ende zu "berechnen".
+
+Wenn in einem Spiel wie Doom die Hauptfigur vom Computer gesteuert
+wird, und wiederum keine Aktion per Zufall ausgewaehlt wird, haben
+wir ein Modell, dass der bekannten materiellen Welt ziemlich
+aehnlich ist, wenn diese deterministisch waere. (Was ich nicht glaube)
+
+Um das Modell zu verbessern, lassen wir es unter einem supertollen
+Betriebssystem in der Dos-Simulation laufen. Die virtuelle
+Dos-Maschine ermoeglicht uns ein "Undo" also "Rueckgaengigmachen" 
+jedes CPU-Schrittes.
+Welcher Aufwand waere fuer die "Undo-Funktion" noetig?
+Einmal muesste es fuer jedes Byte einen Stapelspeicher geben, damit man
+immer dann, wenn ein Loeschen/Ueberschreiben dieses Bytes rueckgaengig
+gemacht wird, weiss, was vorher dort war.
+Ausserdem muss es eine Liste aller bisher ausgefuehrten CPU-Befehle
+geben, da man sonst nicht weiss ob ein Loeschungsbefehl ausgefuehrt
+wurde, wenn er seine eigene Ausfuehrungsbedingung gleich mit loescht.
+Bsp: IF X > 10 then X = 0.
+
+Nun kann das Spiel mit gleicher Geschwindigkeit
+vor- und zuruecklaufen. Die Geschwindigkeit ist von der Leistungs-
+faehigkeit des PCs abhaengig, Zeitspruenge sind also nicht drin.
+
+Interessant ist folgendes:
+Eine zufallsdeterministische Welt(-Simulation) kann man mit genau
+demselben Aufwand zurueck- und wieder vorlaufen lassen, und sie wird
+zum selben (internen) Zeitpunkt immer wieder exakt in demselben
+Zustand sein.
+(Ich hatte in einem frueheren Posting das Gegenteil behauptet, das
+war also Unsinn)
+
+
+j> mein Bewusstsein (Definition)
+..
+u>
+u>Bzw. in einem solchen Prozeß erschlossen oder zugeordnet wurde.
+u>
+Das ist der kritische Punkt. Wenn es so ist, dann kann es nach meinem
+Ableben ein weiteres Mal erschlossen oder zugeordnet werden. Und das
+wieder und wieder, ohne Ende. So ungefaehr stelle ich mir die Hoelle
+vor.
+
+Natuerlich gibt es die Moeglichkeit, das mein Bewusstsein sich
+in meinem aktuellen Leben als Sterblicher soweit modifiziert hat
+dass eine Zuordnung zu einem embryonalen/kindlichen Verstand
+nicht mehr moeglich ist. Es waere dann also eine voellig andere
+"Inkarnation" oder gar keine moeglich.
+
+Wenn sich das Bewusstsein eines Sterblichen zu Lebzeiten auf ein
+subhumanes Niveau reduziert (etwa durch Alzheimer) koennte
+dies der Weg sein um hinterher eine Zuordnung zu einem
+entsprechenden Verstand zu erfahren. 
+Z.B. koennte der Betreffende als Schwein "wiedergeboren" werden.
+(Falls jemand diesen Gedanken als beleidigend ansieht, bitte
+ich um Verzeihung: man darf die Augen nicht vor der theoretischen
+Moeglichkeit verschliessen)
+
+
+[Gespickter Kaspar]
+u>
+u>Wenn Du keiner von beiden bist, wenn der Mensch also kopierbar ist, dann  
+u>ist jeder jederzeit nur Illusion. Dann bist "Du" nicht, sondern "etwas"  
+u>hat die Illusion, Kaspar zu sein. Schon hier und jetzt.
+u>
+Das ist eine schoene Definition fuer das, was "Ich" bin, eben genau
+dieses "etwas".
+
+Ich habe Illusionen also bin ich :-)
+
+
+u>Ich habe mich schon immer gefragt, was man damit gewinnen will. Die Fragen  
+u>werden nicht gelöst, sondern nur verlagert. Ich stehe nicht mehr vor dem  
+u>mystischen Problem, aus welchem Grund die Münze gerade Zahl und nicht Kopf  
+u>zeigt, weil ja letztlich beides eintritt.
+u>
+u>Dafür stehe ich vor dem nicht weniger mystischen Problem, warum sich mein  
+u>Bewußtsein gerade in der Welt befindet, in der die Münze Zahl zeigt und  
+u>nicht etwa Kopf. Der Grund für die erfolgte Auszeichnung kann in beiden  
+u>Modellen nicht in der materiellen Welt selbst begründet sein.
+u>
+Der Muenzenwurf in der Viele-Welten-Interpretation entspricht ein bisschen
+der atomgenauen Verdoppelung meiner Person. In beiden Faellen werde "ich"
+subjektiv in einen der beiden moeglichen "Pfade" hineingezogen.
+
+Insofern sehe ich das Verdoppelungs-Gedankenexperiment als Indiz
+fuer die Richtigkeit der Viele-Welten-Interpretation an, da man mit
+der vervielfaeltigten Person sozusagen Teilstuecke aus den vielen Welten
+leibhaftig zu sehen bekommt. Aus der Perspektive der verdoppelten
+Person sind es 2 Pfade die ausnahmsweise in derselben materielen Welt
+verbleiben, und aus der Sicht einen unbeteiligten Beobachter nur ein Pfad.
+(Zum Vergleich: beim Muenzenwerfen haben wir 2 Pfade, beim Russischen
+Roulett bis zu 6 Pfade, die sich jeweils fuer immer trennen)
+
+
+Gruss
+Kaspar

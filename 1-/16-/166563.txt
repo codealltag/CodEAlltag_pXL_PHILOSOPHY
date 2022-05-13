@@ -1,0 +1,13 @@
+On Thu, 26 Sep 2000 19:19:31 +0200, Urban Verfers
+<vhfeff.exoztw@nrvok.hfc-vdoso.sa> wrote:
+
+[...]
+
+Ich habe darüber noch 'mal nachgedacht, und der Algorithmus könnte
+tatsächlich funktionieren, da man nicht zu einer TM einen Beweis
+brechnen muss, sondern nur für eine bestimmte TM t und ein Wort b aus
+A* entscheiden muss, ob b ein Beweis dafür ist, dass t hält (oder
+nicht hält), und das ist immer entscheidbar.
+
+
+urban

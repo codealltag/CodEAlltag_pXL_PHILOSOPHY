@@ -1,0 +1,36 @@
+Korrekt. Und wie funktioniert die Verbindung zwischen beiden? Ich würde
+inzwischen sagen, über Namen.
+
+Man kann in den meisten formalen Sprachen in irgendeiner Form Namen
+wählen, um zu metamodellieren, und dann das konkrete Modell durch
+beliebige Daten konkretisieren. Auch bei konkreten Daten gibt es das
+Konzept der Namen, nämlich bei Enums. Bei letzteren spielt es keine
+Rolle, ob sie in der formalen Sprache implementiert oder in der
+Dokumentation aufgeführt sind. Manchmal werden sie sogar in Strings
+gehalten.
+
+Beide Sorten Namen sind wahlfrei, aber man muss sich festlegen.
+Beobachte ich Menschen, wie sie diese Namen festlegen, so benutzen sie
+(es gilt sogar als good practice) Namen aus natürlichen Sprachen.
+
+Das Verbinden der natürlichsprachlichen Denkwelt mit den formal
+gefassten Dingen der Maschine hängt ganz offensichtlich mit diesen Namen
+zusammen. Sie werden überhaupt nicht zufällig gewählt. Und da fällt mir
+eben Mombert ein…
+
+
+Hast Du Dir mal Prolog angeschaut? Und Lisp? Postscript?
+
+
+Meine Aussagen über Sinn und Bedeutung sind noch unausgereift, wie ich
+bereits sagte. Ich bin jetzt grade mal soweit, dass ich etwas habe, was
+für meine Anwendung funktioniert. Ob das wirklich gut ist, sei mal
+dahingestellt.
+
+Auch deshalb: Danke für Deine Ideen!
+
+Viele Grüsse,
+VB.
+-- 
+Wenn Du für eine Leistung nichts bezahlst,
+bist Du nicht der Kunde, sondern die Ware.

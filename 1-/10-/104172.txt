@@ -1,0 +1,101 @@
+Aha. Nie gehört den Namen.
+
+Habe mich aber h i e r schlau gemacht: http://idf.pyonp.kl/
+
+Grab, wähl, such... ah ja: "Die vorliegende Darlegung geht auf Timo
+Pullmann (1965) zurück, wobei oft dessen formalen Beispiele verwendet
+werden."
+
+- Hab ich mir beinahe gedacht... Naja.
+
+
+(p & ~q) v (~p & q), ~p |- q
+
+1     (1)  (p & ~q) v (~p & q)          Annahme (A)
+2     (2)  ~p                           A
+3     (3)  p & ~q                       A  [1. Disjunkt von (1)]
+3     (4)  p                            3 Simplifikation (S)
+2,3   (5)  p & ~p                       2,4 Konjunktion (K)
+2     (6)  ~(p & ~q)                    3,5 Reductio ad absurdum (RAA)
+7     (7)  ~q                           A
+3,7   (8)  p & ~q                       4,8 K
+2,3,7 (9)  (p & ~q) & ~(p & ~q)         6,8 K
+2,3  (10) ~~q                           7,9 RAA
+2,3  (11) q                             10 Doppelte Negation (DN)
+12   (12) ~p & q                        A  [2. Disjunkt von (1)]
+12   (13) q                             12 S
+1,2  (14) q                             1,3-11,12-13 v-Elimination
+
+Es ist so: Die Formel in Zeile (6) beruht tatsächlich nicht mehr auf der
+Annahme aus Zeile (3). Aber Zeile (8) beruht dann wieder auf der Annahme
+in Zeile (3). Kein Problem, solange immer klar bestimmt ist, welche
+Zeile auf welcher Annahme beruht. 
+
+Hier fällt sie in der Tat _wieder_ weg. Die Formel in Zeile (11) beruht
+ja noch auf der Annahme in Zeile (3).
+
+
+Analyse des Beweises:
+---------------------
+
+Der Beweis besteht eigentlich aus 2 "Unterbeweisen", der zweite davon
+ist trivial, der erste nicht.
+
+Sehen wir uns den ersten Teil gesondert an:
+
+~p, p & ~q |- q
+
+1     (1) ~p                    A
+2     (2) p & ~q                A
+2     (3) p                     2 &E         
+1,2   (4) p & ~p                1,3 &I
+1     (5) ~(p & ~q)             2,4 RAA
+6     (6) ~q                    A
+2,6   (7) p & ~q                3,6 &I
+1,2,6 (8) (p & ~q) & ~(p & ~q)  5,7 &I
+1,2   (9) ~~q                   6,8 RAA
+1,2  (10) q                     9 DN
+
+Die Beweisidee des ursprünglichen Beweises ist also nun die folgende:
+
+1. Aus p & ~q [und ~p] wird q hergeleitet. (Siehe Beweis oben.)
+2. Aus ~p & q wird ebenfalls q hergeleitet. (Trivial)
+3. Also kann q aus (p & ~q) v (~p & q) [und ~p] hergeleitet werden.
+
+Schritt 3. basiert auf der v-Eliminationsregel:
+
+		[A]	[B]
+		 :	 :
+	A v B	 C	 C
+	------------------
+	         C
+
+Der Beweis kann nun durch entsprechende Formatierung transparent gemacht
+werden:
+
+1     (1)  (p & ~q) v (~p & q)          A
+2     (2)  ~p                           A
+
+3     	 (3)  p & ~q                    A  // 1. Disjunkt von (1)
+3     	 (4)  p                         3 Simplifikation (S)
+2,3   	 (5)  p & ~p                    2,4 Konjunktion (K)
+2     	 (6)  ~(p & ~q)                 3,5 Reductio ad absurdum (RAA)
+7     	 (7)  ~q                        A
+3,7   	 (8)  p & ~q                    4,8 K
+2,3,7 	 (9)  (p & ~q) & ~(p & ~q)      6,8 K
+2,3  	(10) ~~q                        7,9 RAA
+2,3  	(11) q                          10 Doppelte Negation (DN)
+
+12   	(12) ~p & q                     A  // 2. Disjunkt von (1)
+12   	(13) q                          12 S
+
+1,2  (14) q                             1,3-11,12-13 v-Elimination
+
+Die Annahme ~p wird benötigt, um aus dem 1. Disjunkt q ableiten zu
+können; dies geht also als eine Prämisse in unseren Schluss ein. Wir
+haben dann:
+
+	(p & ~q) v (~p & q), ~p  |- q.
+
+
+A.

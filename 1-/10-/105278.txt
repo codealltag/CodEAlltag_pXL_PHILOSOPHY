@@ -1,0 +1,19 @@
+Joachim Goßmann:
+
+
+Sind jetzt natürliche Zahlen in den Ziffern 0 und 1 in der binären
+Darstellung keine natürlichen Zahlen mehr? 
+1 -> 0001
+2 -> 0010
+3 -> 0011
+4 -> 0100
+5 -> 0101
+6 -> 0110
+7 -> 1000
+9 -> 9889
+
+Zählen wir mal zusammen, dann haben wir 12 Einsen und 20 Nullen.
+37,5 Prozent zu 62,5 Prozent.
+
+Grösse,
+Benjamin

@@ -1,0 +1,44 @@
+On Sun, 17 Sep 2002 14:19:52 +0200, R. Lohß <zu_oosi@nvxiyf-jqez.um>
+wrote:
+
+Also SO vielleicht:
+Ja, in der Reihenfolge würde ich es sofort unterschreiben. Insbesondere,
+wenn man deine "Klassentheorie" eben wirklich als Theorie der _Klassen_
+auffasst: NBG und/oder MK, etc.
+
+Und in der Tat, diese Theorien sind wirklich prächtig! Ich persönlich
+empfinde ja MK als _wesentlich_ eleganter als z.B. die doch arg
+"gekünstelt" wirkende ZF(C).
+
+HIER ist jede Klassen-Bildung zulässig (sofern sie die spezifizierende
+"Eigenschaft" eine wff ist, natürlich nur). D.h. ich kann sofort bilden,
+die Allklasse:
+
+	U = {x : x = x}.
+
+Und in der Tat, die Allklasse (das Mengenuniversum) enthält *alle*
+Mengen unserer Theorie. So wie man das auch erwartet:
+
+	Ax(Set x -> x e U).
+
+Oder die Russell-Klasse:
+
+	R = {x : x !e x}
+
+R enthält alle Mengen, die sich nicht selbst enthalten.
+
+Und die Frage R e R? führt ganz und gar nicht auf einen Widerspruch
+(hier). (Die Antwort ist, nein, R enthält sich nicht selbst, weil R eine
+proper class ist, und diese per Def. nicht Element irgendeiner Klasse
+sein kann.)
+
+Andererseits enthält R *jede* Menge, die sich nicht selbst enthält:
+
+	Ax(Set x & x !e x -> x e R).
+
+etc. etc.
+
+Ein wirklich schönes/elegantes System.
+
+
+F.

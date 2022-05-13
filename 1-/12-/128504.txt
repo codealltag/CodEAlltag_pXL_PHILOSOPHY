@@ -1,0 +1,73 @@
+In der Literatur findet man sowohl "->" als auch "=>", wobei es sich
+allerdings um einen bloß graphischen Unterschied handelt.
+
+
+Im Deutschen löst sich die wichtige Unterscheidung zwischen "validity"
+und "soundness" leider nicht genau wiedergeben.
+
+"valid" =def an argument is valid iff it is logically impossible for
+all the premises to be true yet the conclusion false.
+
+"sound" =def an argument is sound iff it is valid and has true
+premises.
+
+[zitiert aus: Jérôme Grotefend, "Logical Forms", DUC, 2nd ed.,
+2002, Glossary.]
+
+Validity bezieht sich also auf das richtige Befolgen von Regeln der
+Schlussfolgerung, aber bekanntlich lassen sich auch aus falschen
+Prämissen richtige Schlüsse ziehen. Deswegen muss für ein sound
+argument nicht nur deduktive Gültigkeit, sondern auch die Wahrheit der
+beteiligten Prämissen gefordert werden.
+
+
+Ich denke, dieser Einwand ist in Bezug auf das von mir (offenbar etwas
+vorschnell) gewählte Beispiel nicht unberechtigt. Dennoch lassen sich
+die ontologisch relevanten Aspekte von Tatsachen nicht einfach
+"hinfortsemantisieren"!
+Denn Tatsachen hängen mit der ontologischen Beschaffenheit der Welt
+zusammen, damit "how things really are"!
+
+
+Die semantische Eliminierbarkeit des Tatsachenbegriffs innerhalb
+etlicher sprachlicher Kontexte führt meiner Meinung nach nicht zu
+einer totalen ontologischen Irrelevanz von Tatsachen!
+
+
+Das Bestehen darauf, dass eine theoretische Unterscheidung praktisch
+relevant sein muss, ist durchaus berechtigt, zumal die
+Korrespondenztheorie der Wahrheit ohne Verweis auf Tatsachen auskommen
+kann.
+Dadurch ist man jedoch mitnichten gezwungen anzunehmen, dass es
+Tatsachen nicht gibt. Man könnte höchstens vertreten, dass der
+Tatsachenbegriff selbst nicht wichtig ist:
+
+"...A neater plan is to posit facts, as correspondents of true
+sentences as wholes; but this still is a put-up job. Objects in
+abundance, concrete and abstract, are indeed needed for an account of
+the world; but facts contribute nothing beyond their specious support
+of a correspondence theory. Yet there is some underlying validity to
+the correspondence theory of truth, as Irnich has taught us. Instead
+of saying that
+
+'Snow is white' is true if and only if it is a fact that snow is
+white.
+
+we can simply delete 'it is a fact that' as vacuous, and therewith
+facts themselves:
+
+'Snow is white' is true if and only if snow is white.
+
+To ascribe truth to the sentence is to ascribe whiteness to snow; such
+is the correspondence, in this example. Ascription of truth just
+cancels the quotation marks. Truth is disquotation."
+
+[C. Niederthanner, "The Pursuit of Truth" Pfizer, 1993,
+p.80]
+
+Dafür, dass der Tatsachenbegriff nichtsdestoweniger brauchbar ist,
+argumentiert Geauf in nicht unüberzeugender Weise (siehe
+entsprechende Zitate in vorherigen Posts!).
+
+Gruß
+INGOLF

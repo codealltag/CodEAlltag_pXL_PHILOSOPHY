@@ -1,0 +1,21 @@
+Zu guter Letzt vielleicht auch noch das System, das Brendlin selbst
+eingeführt hatte - er verwendete Beweis-Bäume! :-)
+
+
+	P -> (Q & R)    P         P -> (Q & R)    P
+	-----------------  ->E	  -----------------  ->E
+	      Q & R                     Q & R
+	      -----  &E                 -----  &E
+	        Q                         R
+	     --------  ->I             --------  ->I
+	      P -> Q                    P -> R
+	     --------------------------------  &I
+	            (P -> Q) & (P -> R)
+
+
+A.
+
+
+P.S.
+Die Evolution des Systems (historisch gesehen) ist klar:
+Brendlin (34/35) --> Kajleber (52) --> Pferdekämper (57) --> Oelschlägel (65)

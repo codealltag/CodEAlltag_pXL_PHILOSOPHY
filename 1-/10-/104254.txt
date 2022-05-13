@@ -1,0 +1,87 @@
+Hallo Pietro,
+
+Faber legt großen Wert darauf dies "beweisen" zu können:
+"Die Logik verdankt ihre Autorität dem Umstand, dass sie einige ihrer 
+wichtigsten Behauptungen beweisen kann. Diese Forderung läßt sich aber 
+nur verwirklichen auf der Grundlage einer Theorie, in deren Schoß ein 
+Beweisbegriff vorliegt, der den Benutzer in die Lage versetzt, nach 
+abgelaufener Argumentation zu kontrollieren, ob ein Beweis im 
+behaupteten Sinn vorliegt ..."
+Nach einigem Geschwurbel über "Sprache und Metasprache" und "Syntax und 
+Semantik" legt er die drei Axiome fest:
+A1: A -> (B -> A)
+A2: (A -> (B -> C)) -> ((A -> B) -> (A -> C))
+A3: (~A -> ~B) -> (B -> A)
+Sowie die zwei Bildungsregeln:
+R1: A sei ein gültiger Ausdruck und auch A -> B, dann ist auch B ein 
+gültiger Ausdruck.
+R2: Ein Ausdruck p wird in A durch p' ersetzt, indem an allen Stellen 
+von A p durch p' ersetzt wird.
+
+"[...]Da alle Funktoren der Aussagenlogik auf die Funktoren ~ und -> 
+reduzierbar sind, ist die Sprache A reichhaltig genug, um den 
+Aussagenkalkül darzustellen[...]"
+Dann wird unter anderem bewiesen, dass ~A v B <-> A -> B gilt. Ich muß 
+allerdings zugeben, dass ich dieses Kapitel wohl gelesen aber noch nicht 
+verinnerlicht habe.
+Konnekiv = Junktor = Funktor = Logikoperator?
+Sicher? Kann man dies nicht aus der Definition: "Wenn alle Annahmen wahr 
+sind, dann ist auch die Konklusio wahr." ableiten? Könnte man jetzt 
+nicht argumentieren, dass eine und-Verknüpfung nur eine Aufzählung von 
+Annahmen ist, und dass ja per Definition alle Annahmen wahr sein müssen 
+um zu einem gültigem Schluß zu gelangen bzw. kontradiktorisch gesehen: 
+"Gibt es eine Annahme, die nicht wahr ist, ist auch die Konklusio nicht 
+wahr". Womit wir die Wahrheitswerte der Konjunktion abgeleitet hätten 
+ohne Wahrheitswertetafel. Jetzt kann ich weiter Argumentieren wenn A & B 
+wahr ist dann muß per Definition "Wenn alle An..." auch A für sich und B 
+für sich wahr sein, wenn das Schlußschema gültig sein soll...
+Im übrigen bemerkt Gausmann in seinem Buch "Grundzüge der Logik" 
+ausdrücklich, dass er auf Wahrheitswertetafeln verzichtet und eine 
+sprachphilosphischen Zugang zur Logik darsellt. Wie sich das dann 
+praktisch gestaltet kann ich Dir (noch) nicht sagen, weil ich bisher nur 
+die Einleitung überflogen habe.
+
+Ja. Faber beschreibt da noch die teilweise Wahrheitswertetafel mit der 
+man auch umfangreicheres bewältigen kann:
+P v (Q & R) <-> (P v Q) & (P v R)
+              0                       Annahme
+   0                     1
+        0           1         1
+0                0   1     0   1
+      1   1                           Wiederspruch => Annahme falsch => 
+Äquivalenz gültig.
+Mit ein wenig Übung reichen dann für solch eine Aufgabe zwei, drei Zeilen.
+Dann gibt es da noch:
+P v (Q & R) <-> (P v Q) & (P v R) <->
+(P v (Q & R) -> (P v Q) & (P v R)) & ((P v Q) & (P v R) -> P v (Q & R)) <->
+(~(P v (Q & R)) v (P v Q) & (P v R)) & (~((P v Q) & (P v R)) v (P v (Q & 
+R))) <->
+((~P & (~Q v ~R)) v (P v Q) & (P v R)) & ((~P & ~Q v ~P & ~R) v (P v (Q 
+& R))) <->
+((~P & ~Q~R) v (PQ & PR)) & ((~P~P & ~P~R & ~Q~P & ~Q~R) v (PQ & PR) <->
+~PPQ & ~PPR & ~Q~RPQ & ~Q~RPR & ~P~PPQ & ~P~PPR & ~P~RPQ & ~P~RPR & 
+~Q~PPQ & ~Q~PPR & ~Q~RPQ & ~Q~RPR
+(Die DNF spare ich mir jetzt)
+
+oder:
+KCApKqrKApqAprCKApqAprApKqr
+   _            _
+K/ApKqrK/pq/pr/KApqApr/pKqr
+   _             _  _
+K/ApKqrK/pq/pr//ApqApr/pKqr
+K/KpKqrK/pq/pr//KpqKpr/pKqr
+    _ __          __ __
+K/Kp/qrK/pq/pr//KpqKpr/pKqr
+----^---------^--^---^----^- |  ~ppq
+                                 ~q~ppr
+                                 ~q~rpq
+                                 ~q~rpr
+:~ppq & ~ppr & ~q~rpq & ~q~rprg & ~p~ppq & ~p~ppr & ~p~rpq & ~p~rpr & 
+~q~ppq & ~q~ppr & ~q~rpq & ~q~rpr
+
+Wenn ich das so betrachte, dürfte, was Übersichtlichkeit, Fehlerquellen 
+und Tippaufwand anbelangt, das schrittweise Deduzieren nach Lemmon 
+ausser Konkurenz sein.
+
+Gruß
+Gunter

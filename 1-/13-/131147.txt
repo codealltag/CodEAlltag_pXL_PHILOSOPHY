@@ -1,0 +1,43 @@
+Da irren Sie sich, denn das, was Sie als ein Prädikat betrachten, ist
+in Wirklichkeit eine Konjunktion von 8 Prädikaten:
+1) Buch
+2) mit 5mm Loch versehen (kurz: 5mm L.)
+3) mit 7mm Loch versehen (kurz: 7mm L.)
+4) mit 8mm Loch versehen (kurz: 8mm L.)
+5) mit 10mm Loch versehen (kurz: 10mm L.)
+6) mit 12mm Loch versehen (kurz: 12mm L.)
+7) mit 14mm Loch versehen (kurz: 12mm L.)
+8) mit 17mm loch versehen (kurz:17mm L.)
+
+Die Existenzbehauptung "Es gibt ein Buch mit 7 Löchern � 5, 7, 8, 10,
+12, 14, 17 mm Durchmesser." würde in der Prädikatenlogik wie folgt
+ausgedrückt:
+
+Ex[(Buch)x&(5mm L.)x&(7mm L.)x&(8mm L.)x&(10mm L.)x&(12mm L.)x&(14mm
+L.)x&(17mm L.)]
+
+Eine Konjunktion ist bekanntlich nur dann wahr, wenn sämtliche Glieder
+wahr sind.
+
+Ob es schon ein solches durchlöchertes Buch gibt, weiß ich nicht, was
+aber hinsichtlich des logischen Gehalts der Existenzbehauptung
+nebensächlich ist.
+
+Im übrigen handelt die Prädikatenlogik nur von dem, was der Fall ist,
+und nicht von dem, was der Fall sein kann.
+Die Begriffe 'Möglichkeit' und 'Notwendigkeit' finden erst in der
+Modallogik Anwendung!
+
+Summa:
+Obige Definition von Existenz hat überhaupt kein Problem, mit Ihrem
+komplexen Prädikat zurande zu kommen!
+
+
+Der logische Existenzbegriff erfasst grundsätzlich all dasjenige, was
+es gibt; das können konkrete materielle Dinge wie Tische, aber auch
+abstracta wie Zahlen und Mengen sein. Metaphysische Fragen des
+"Ansichseins" von Gegenständen überlassen die Logiker gerne den
+Metaphysikern.
+
+Gruß
+ERIC

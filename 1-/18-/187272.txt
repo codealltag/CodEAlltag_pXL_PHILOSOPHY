@@ -1,0 +1,11 @@
+Das ist schon richtig, aber wenn jede Wurzel, die nicht aufgeht
+(wie z.B. sqrt(9/4)) eine Zufallsziffernfolge erzeugt, was ich
+vermute, aber nicht beweisen kann, dann koenntest Du fuer jede
+Zufallszahlenreihe einfach aus Datum + Uhrzeit die Wurzel ziehen,
+fertig, nicht wiederholbar! Aber zum Berechnen sind 10000 oder
+mehr Stellen unpraktisch. Andere Random-Algorithmen sind viel
+schneller.
+
+Gruss
+
+Cornelius

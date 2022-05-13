@@ -1,0 +1,28 @@
+"Dominik Flantz" schrieb
+
+
+Es läßt sich keine allgemeine Aussage über den Wahrscheinlichkeitsgewinn
+einer einzelnen Beobachtung machen, weil erst geklärt sein muß, ob (und wenn
+ja in welcher Weise) die einzelnen Beobachtungsfakten miteinander verknüpft
+sind. Sind sie voneinander unabhängig, und hat jede einzelne Kugel die
+Wahrscheinlichkeit p schwarz zu sein, dann ist vor dem Betrachten der
+letzten Kugel die Wahrscheinlichkeit für die Aussage, daß alle schwarz sind,
+100/p %.  Vor der vorletzten waren es noch 100/p % und so weiter. Das ist
+eine Ver-p-fachung der Wahrscheinlichkeit bei jedem Ziehen einer Kugel.
+Kennt man eine Beziehung, beispielsweise daß immer monochrome
+Hunderter-Säcke mit Kugeln eingefüllt wurden, dann ist der Anstieg der
+Wahrscheinlichkeit komlizierter und ändert sich nach der 900. Kugel
+überhaupt nicht mehr. Sobald man den Begriff der "Bestätigung" mit dem der
+Wahrscheinlichkeit verknüpft, ist das ganze kein philosophisches Problem
+mehr, sondern ein (unter Umständen recht verzwicktes) mathematisches. Die
+Sache wird dadurch noch komplizierter, daß der Mensch ein sehr ausgeprägtes
+Wahrscheinlichkeits-Gefühl besitzt, das aber, wie Untersuchungen immer
+wieder belegen konnten, systematisch zu falschen Einschätzungen neigt. Es
+gibt ganze Sammlungen von falschen Wahrscheinlichkeits-"Paradoxien", die
+mathematisch gesehen gar keine sind.
+All diesen Schwierigkeiten entgeht man, wenn man eine "Bestätigung" als eine
+Beobachtung definiert, die die Wahrheit einer Aussage sicherstellt, indem
+sie eine vollständige Induktion abschließt. Das aber geschieht erst nach der
+letzten Kugel.
+
+Serge

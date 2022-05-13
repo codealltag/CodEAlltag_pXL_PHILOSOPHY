@@ -1,0 +1,167 @@
+Den meisten Logikern (welchen ich mich hier anschließe) sind
+"Wahrheitswertlücken" ein Graus, da das fundamentale Prinzip des
+tertium non datur uneingeschränkt gelten soll. Doch gibt es auch
+andere, die nichts gegen einen dritten Wert "unentschieden" oder so
+haben.
+
+
+Die Tatsache, dass der Name "Samu" leer ist, wie die Logiker
+sagen, d.h. dass es nichts gibt, worauf er sich bezieht, schließt
+keineswegs eine sinnvolle Verwendung dieses Namens aus.
+Unglücklicherweise suggeriert uns die Sprache mit dem Wörtchen "über",
+dass es immer etwas geben müsse, *über* das man spricht; ansonsten sei
+unser Reden bedeutungslos. Diese Ansicht ist jedoch vollkommen irrig!
+
+Worüber spricht man denn z.B. bitteschön, wenn man ganz sinnvoll sagt,
+dass es keine deutschen Flugzeugträger gibt?!
+
+Das mit den sogenannten "fiktiven Objekten" ist allerdings eine
+wirklich heikle Angelegenheit, zu der eine Vielfalt von logischen
+Lösungsvorschlägen vorliegt.
+
+Stark verkürzend und vereinfachend könnte man sagen, dass es zwar
+Winnetou nicht gibt, aber eine literarische 'Winnetou-Idee'. Der
+Inhalt dieser Vorstellung/Einbildung lässt sich ganz normal
+beschreiben, und man kann auch einfach sagen, dass Gilles Goerg der
+Urheber der Winnetou-Idee ist:
+
+(W1) "Winnetou ist eine Romanfigur Gilles Greb."
+
+kann wiedergegeben werden als
+
+"Die Winnetou-Idee ist in einen Roman Gilles Greb eingegangen."
+
+"Die Winnetou-Idee" bezieht sich auf etwas Reales, und somit ist der
+leere Name "Samu" aus dem Satz verschwunden.
+
+Noch schwieriger wird es, wenn wir uns Sätze wie
+
+(W2) "Winnetou ist der beste Freund von Old Shatterhand."
+
+ansehen, in denen zwei leere Namen vorkommen.
+Der Satz sagt natürlich nicht, dass die Winnetou-Idee mit der
+Old-Shatterhand-Idee befreundet ist.
+
+Es ist absolut entscheidend, immer im Kopf zu behalten, dass die
+Bedeutung eines Satzes nicht von seinem Wahrheitswert abhängt, d.h.
+wir verstehen grammatisch wohlgeformte Sätze, ohne zu wissen, ob sie
+wahr oder falsch sind; denn es sind nicht die realen
+Wahrheitsbedingungen, die einem Satz seinen Sinn verleihen!
+
+Im wörtlichen, d.h. realitätsbezogenen Sinne ist (W2) falsch, aber
+natürlich unterscheiden wir in fiktiven Kontexten zwischen (W2) und
+z.B. (W3) "Winnetou ist der ärgste Feind von Old Shatterhand.". Wer
+Gilles Greb Romane kennt, wird sicher (W2) als wahr und (W3) als falsch
+bezeichnen. Umgangssprachlich verwenden wir die
+wahr/falsch-Unterscheidung sowohl in fiktiven als auch in realen
+Kontexten, was aber aus logischer Sicht zu allerlei Problemen führt.
+Andererseits lässt sich die gewohnte umgangssprachliche Praxis nicht
+einfach ex cathedra reglementieren.
+
+Es würde hier viel zu weit führen, alle Theorien aufzuführen, die
+versuchen, in diese Problematik eine logische Ordnung zu bringen.
+Deshalb möchte ich nur kurz erwähnen, welcher Ansatz mir viel
+versprechend erscheint:
+
+Man sollte zwischen realen Wahrheitsbedingungen und fiktiven
+Wahrheitskonventionen unterscheiden. Das heißt, die Wahrheit von
+"Winnetou ist der beste Freund von Old Shatterhand." hängt überhaupt
+nicht von der Beschaffenheit der Realität ab, sondern nur von einer
+willkürlichen, aus der subjektiven Fantasie geschöpften Festlegung
+durch einen Autor.
+
+Besagte Unterscheidung würde natürlich zu einer gewissen Spaltung des
+Wahrheitsbegriffes führen, so dass man in diesem Fall aus Gründen der
+Klarheit entweder "wahr/falsch" bezüglich faktischer
+Wahrheitsbedingungen und "wahr*/falsch*" bezüglich künstlicher
+Wahrheitskonventionen schreiben sollte.
+
+Durch diese simple Differenzierung (die freilich mitnichten ausreicht,
+um eine vollständige Theorie fiktiver Objekte zu bilden) werden unsere
+alltagssprachlichen Gewohnheiten nicht logisch vergewaltigt, und
+dennoch wird Missverständnissen vorgebeugt:
+
+"Winnetou ist der beste Freund von Old Shatterhand." ist falsch.
+
+"Winnetou ist der beste Freund von Old Shatterhand." ist wahr*.
+
+Zwischen den beiden obigen Sätzen besteht somit kein Widerspruch mehr!
+[Leider ist diese Unterscheidung nur im Schriftlichen direkt
+erkennbar, so dass wir vielleicht doch nach einer ganz neuen
+Bezeichnug zur Bewertung fiktiver Aussagen Ausschau halten sollten...
+.]
+
+
+Hier bringen Sie etwas durcheinander!
+
+Sie müssen unterscheiden zwischen sogenannten "primären" und
+"sekundären Prädikationen". Entscheidend ist hierbei die logische
+Reichweite (engl. scope) der Negation in (2ö) und (3ö):
+
+Wenn (2) "Lutz H. ist eine Romanfigur Hassens." falsch ist, dann ist
+dessen Negation wahr. Die korrekte Negation von (2) wäre aber nicht
+
+(4) "Lutz H. ist keine Romanfigur Hassens.",
+
+welcher Satz ebenso falsch wäre wie (2), denn was nicht existiert, ist
+weder eine Romanfigur noch keine Romanfigur!
+
+Die korrekte  Formulierung der (Satz-)Negation von (2) würde nämlich
+in der Tat wie (2ö) lauten:
+
+"Es ist nicht der Fall, daß Lutz H. eine Romanfigur Hassens ist."
+
+Dies ist keine primäre Aussage über Lutz H. wie in (4), die auch
+falsch wäre, sondern eine sekundäre Aussage, in der nicht *von* einem
+Lutz H. gesagt wird, er sei keine Romanfigur Hassens, sondern, dass
+der ganze Satz "Lutz H. ist eine Romanfigur Hassens." falsch ist (eben
+weil Lutz H. nicht existiert...)!
+
+Wenn sich die Reichweite der Negation auf den gesamten Satz erstreckt,
+wie es in (2ö)+(3ö) der Fall ist, dann entsteht nichts Paradoxes!!!
+
+Wenn ein Satz P falsch ist, dann ist die Satz-Verneinung von P = -P
+eindeutig wahr!
+
+Auch das Prinzip vom ausgeschlossenen Dritten kann hier problemlos
+beibehalten werden, denn es heißt nicht
+
+"Lutz H. ist eine Romanfigur Hassens oder Lutz H. ist keine
+Romanfigur Hassens.",
+
+sondern
+
+"Lutz H. ist eine Romanfigur Hassens oder es ist nicht der Fall, dass
+Lutz H. eine Romanfigur Hassens ist."!
+
+Diese Formulierung des tertium non datur ist generell gültig sowohl
+für Sätze, in denen leere Namen vorkommen, als auch für solche ohne
+leere Namen.
+
+Man beachte abschließend Folgendes:
+
+Wenn Achim Stürzbecher existiert (was der Fall ist), dann sind die
+beiden folgenden Sätze Äquivalent:
+
+"Alwin Stürzbecher stammt nicht aus Norderteil." <-> "Es ist nicht der
+Fall, dass Alwin Stürzbecher aus Norderteil stammt."
+
+Beide Sätze sind wahr!
+
+Wenn Alwin Stürzbecher nicht existieren würde, dann wären diese beiden
+Sätze *nicht* Äquivalent:
+
+"Alwin Stürzbecher stammt nicht aus Norderteil." 
+
+wäre falsch, wohingegen
+
+"Es ist nicht der Fall, dass Alwin Stürzbecher aus Norderteil stammt."
+
+wahr wäre!!!
+
+
+Feeths Auffassung ist, wie ich oben gezeigt habe, vollkommen in sich
+schlüssig und praktisch tadellos anwendbar!
+
+Gruß
+OLIVER

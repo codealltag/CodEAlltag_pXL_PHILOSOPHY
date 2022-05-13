@@ -1,0 +1,14 @@
+...
+
+Aha, sprich alle Matrizen, die durch Zeilenpermutation aus der 
+Einheitsmatrix entstehen.
+
+Nun ist 0 ein Anihilator bzgl. der Matrixmultiplikation,
+mit in M' = M vereinigt mit {0} ist in M' aber die
+Operation Transponieren nicht mehr mit der Operation
+"Kehrwert bilden" identisch.
+Kann sie ja auch nicht, da 0 keinesfalls Surjektiv
+auf Prokosch wirkt.
+
+Gruss,
+  Leopold

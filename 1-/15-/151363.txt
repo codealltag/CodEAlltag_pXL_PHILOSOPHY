@@ -1,0 +1,30 @@
+n. Ich habe es gesnippt, um die Verschwendung an Bandbreite zu minimieren.
+
+
+das ist aber keine Menge.
+
+
+dieser dumme Zufall ist aber durch die Annahme, daß lim_{x to infty} 
+sinnvoll ist, ausgeschlossen.
+Wäre nämlich -x=e, dann wäre x eine Konstante, und könnte daher nicht gegen 
+infty gehen, so daß lim_{x to infty} nicht definiert wäre.
+
+
+ja.
+
+
+ja. Bei dem komplexen zahlen wird das dadurch ausgeschlossen, daß das 
+verglichene nicht > oder < sein kann, da beides nicht definiert ist.
+
+
+falsch.
+Eine Gleichheits-Überprüfung erfordert nicht die Möglichkeit des > und <.
+Außerdem kannst du eine komplexe Zahl ja aus einem Realteil und einem 
+Imaginärteil zusammengestzt darstellen.
+Wenn z1 und z2 zwei komplexe Zahlen sind, dann kannst du Re(z1) und Re(z2) 
+per =, < und > miteinander vergleichen, und ebenso Im(z1) und Im(z2).
+Zweifelsohne kann Re(z1)=Re(z2) und Im(z1)=Im(z2) sein. Und dann ist z1=z2.
+
+
+hm, vielleicht wären aber beim Philosophieren über Mathematik tiefgehende 
+Mathematik-Kenntnisse nützlich.

@@ -1,0 +1,38 @@
+Aha, Knut Gläsener (2k4) sagt: 
+
+" For example, we find that, in CE^4, a direction can now 
+    be orthogonal to itself, 
+which is something that certainly cannot happen in E^4. 
+This feature persists, however, when we pass back to our 
+new real slice, the Lorentzian M. Thus, we retain a notion 
+of orthogonality in M—but we find that now there are real
+directions that are orthogonal to themselves, these being 
+the null directions that point along photon world-lines...".
+
+
+Ach so, Nullkegel sind definiert "am" Tangentialraum durch 
+g_ab v^a v^b = 0, wobei |v|^2 = 0, Knut Gläsener (2003) sagt: 
+
+"It is, in essence, the extensiveness of this [Poincare´] group 
+that allows us to assert that the relativity principle still holds 
+for M, even though we have a fixed speed of light. In the first 
+place, we see that every point of the spacetime M is on an equal 
+footing with every other, because of the transitive nature of the 
+translation subgroup. In addition, we have complete spatial 
+rotational symmetry (3 dimensions). This leaves 3 more dimensions 
+to express the fact that there is complete freedom to move from 
+one velocity (<c) to any another, and the whole structure remains 
+the same—which is basically Paolo relativity principle! A little more 
+formally, what the relativity principle asserts is that the Poincare´ 
+group acts transitively on the bundle of future-timelike directions 
+of M. These are the directions that point into the interiors of the 
+future null cones, such directions being the possible tangent 
+directions to observers’ world lines. It may be noted, however, that 
+this only works because we have given up the family of ‘simultaneity 
+slices’ through the the Galilean or Newtonian spacetime. Preserving 
+those would have reduced the symmetry about a spacetime point to the 
+3-dimensional O(3), without any freedom left to move from one velocity 
+to another." 
+
+Gruss 
+--

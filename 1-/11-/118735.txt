@@ -1,0 +1,36 @@
+Halli hallo,
+
+
+Eine mögliche Definition von "Wissen" ist:
+
+Mann weiß, dass "p" wahr ist, wenn "p" wahr ist, man gute Gründe für "p" 
+hat und man der festen Überzeugung ist, dass "p" wahr ist.
+Kurz: W(p) = p & G(p) & �(p)
+Man muss dieser Definition nicht zustimmen, aber mal angenommen man tut 
+es, treten folgende Probleme auf:
+
+Da es eine Konkunktion ist, müssen alle 3 konjugierten Glieder wahr 
+sein, damit W(p) wahr wird.
+
+1. Was bedeutet "Gute Gründe"? Wann ist ein Grund gut genug
+    um G(p) wahr zu machen? Wer bestimmt, ob ein Grund gut
+    ist und welcher Grund gut ist?
+
+2. Es ist bei vielen Dingen unmöglich zu überprüfen, ob
+    "p" wahr ist. Alle haben sich schonmal getäuscht, ein
+    Irrtum kann nur in den seltensten Fällen komplett
+    ausgeschlossen werden. D.h. man wird den Wahrheitswert
+    für p bestenfalls /raten/ können. Hat man richtig
+    geraten, weiß man, dass "p" wahr ist, hat man falsch
+    geraten, weiß man es nicht. Man kann also wissen
+    (in dem Fall hat man richtig geraten), aber nicht
+    "wissen, dass man weiß" (da man nie wissen kann,
+    ob man nun richtig geraten hat oder nicht).
+
+Viele Größe
+
+Edgar
+
+-- 
+There is nobody so irritating as somebody with less intelligence and 
+more sense than we have. (Ewald Ekamper)

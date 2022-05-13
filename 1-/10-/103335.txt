@@ -1,0 +1,59 @@
+Du hast mit Sicherheit noch nie eine funktionale Programmiersprache 
+programmiert, denke ich. Weit Du was Monaden sind, Lambda-Kalkulus ?
+
+C, C++:
+
+total = 0;
+for (i=1; i<=10; ++i)
+    total += i;
+
+Scheme:
+
+(define sum
+    (lambda (from total)
+        (if (= 0 from)
+            total
+            (sum (- from 1) (+ total from)))))
+(sum 10 0)
+
+
+Sicher.
+
+
+Aha. Schon mal was davon gehört? "Wahrheit und Wirklichkeit sind 
+relative Begriffe", ebenso, wie Erlebnis und Verständnis verschiedene 
+Dinge sind. Welche inneren Logiken besitzt ihr und welche impliziten 
+Logiken der Dynamik haben sich aus der Zusammenarbeit ergeben ? Warum 
+sagt man "Drei sind einer zuviel ?", oder "zuviele Küche verderben den 
+Brei ?". Welche impliziten Logiken treten hier auf, die schädlich für 
+das Projekt sind ?
+
+
+Das eine schließt das andere nicht aus.
+
+
+Warum fragen den Menschen nach "Herrschaft" ? Welche impliziten Logiken 
+des Verhaltens, welches in Mensch bereits seit Geburt einprogrammiert 
+ist, liegen dem zugrunde ?
+
+...
+
+
+Du hast eine Wahrnehmungsstörung. Das Wort wird nach alter und neuer 
+Rechtschreibung mit "h" geschrieben! Immer !
+
+...
+
+Es ist aber peinlich, wenn man darauf aufmerksam gemacht wird, daß man 
+eine Wahrnehmungsstörung hat, und diese nicht bemerken will ;-)
+
+LG, Pius Foltz
+
+--
+Einfach reden, kompliziert denken !
+
+Elementare, wahre Aussagen bedürfen keiner langen Diskussion.
+
+Frage einen Wegweiser niemals nach der Uhrzeit !
+
+� aller im Text verwendeten Worte by Mamma !

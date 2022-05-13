@@ -1,0 +1,72 @@
+: > 
+: > 
+: > : > Jens hat gezeigt, dass in _jedem_ genuegen maechtigen formalen
+: > : > mathematischen System (in der Aussagenlogik z.B.) wenigstens ein Satz
+: > : > konstruierbar ist, der von sich selbst sagt ``Dieser Satz ist wahr,
+: > : > aber nicht beweisbar.''
+: > 
+: > : Arrgh. In der Aussagenlogik ja nun gerade nicht.
+: > : Das System muss schon mindestens so maechtig sein wie
+: > : die Praedikatenlogik 2. Stufe. Ausserdem muss der
+: > : Satz das gar nicht von sich selbst sagen sondern
+: > : es reicht schon, wenn er es ist!
+: > 
+: > Arrgh. Es reicht, wenn die Logik die Arithmetik umfaßt. Dazu reichen aber im
+: > wesentlichen Axiome der ersten Stufe und EIN Axiom in zweiter Stufe
+: > (Induktionsaxiom), siehe dazu die Peano-Axiome.
+
+: *Seufz*.
+
+: Das _formale_ System muss so maechtig sein, dass die
+: Peano-Arithmetik in ihm vollstaendig axiomatisierbar ist.
+: Vollst. axiomatisierbar bedeutet, dass alle
+: Modelle, die das Axiomensystem erfuellen, isomorph sind
+: zu den nat. Zahlen. Dazu benoetigt man nun mal leider
+: die PLII. Insofern sehe ich nicht, wieso Deine Aussage
+: ein Widerspruch zu meiner ist, insbesondere, wo Du doch
+: selber sagst, dass das Induktionsaxiom in PLI nicht
+: formulierbar ist. Ohne das Induktionsaxion erhaeltst
+: Du aber haufenweise Nichtstandardmodelle der Arithmetik,
+: womit sie also nicht vollstaendig axiomatisiert ist.
+
+: Wuerdest Du Dein Arrgh vielleicht
+: nochmal etwas genauer erklaeren? Oder meinstest Du
+: gar nicht, ich haette Unsinn geschrieben (Du schreibst 
+: ja schliesslich dasselbe)?
+
+*schluchz* Natürlich hast Du keinen (groben) Unsinn geschrieben und der
+obige Einführungskurs war (für mich) auch nicht nötig. Mein Hinweis bezog
+sich lediglich auf eine leichte Abschwächung Deiner Aussage, daß nämlich
+bereits ein einziger Satz der Logik zweiter Stufe ausreicht, um
+Unvollständigkeit zu produzieren. Es muß also NICHT die gesamte Logik 2
+Stufe umfasst werden, um Unvollständigkeit zu erzeugen, sondern lediglich
+die Arithmetik. So wie Paolo Dellbrück das Ziel unterlief, so bist Du
+darüber hinausgeschossen, wenn auch bei weitem nicht so weit, wie Paolo
+darunter blieb.
+
+Im übrigen geht es mit noch schwächeren Vorraussetzungen, es reicht ja
+bereits wenn man daß Konzept der Turingmaschine formalisiert und universelle
+Turingmaschinen betrachtet, also solche, die alle anderen simulieren
+können. Wie Turing zeigt ist dann das Halteproblem nicht lösbar, was gerade
+die Unvollständigkeit dieses Mechanismus zeigt. Die Logik die dazu
+Äquivalent ist, ist eine \Sigma_1-Logik, also Formeln, die mit einem
+Existenzquantor vor einer rekursiven Relation versehen sind. Da für jedes i
+\Sigma_{i+1} echt stärker ist als \Sigma_i und die Arithmetik alle diese
+\Sigma_i's umfaßt, hat man sogar noch schwächere Voraussetzungen, als im
+Gödelschen Satz.
+
+Ansonsten kann ich Dir nur raten mein "*arrghs*" und "*schluchz*" nicht zu
+ernst zu nehmen, die Deinigen werden Dir bestimmt auch von Paolo nicht
+Übel genommen.
+
+: Kl.
+
+
+MfG
+	Ivan
+--
+Ivan Tzschoppe                            kcygflhk@xypvwgtsfa.lfe-djdvjqs.et
+Industriestraße{\"kielerstraße}Zillerstraße{\dv}johngrabenweg 03 
+53465 Liedersdorf
+Tel: (++98)(++12)14520-123
+WWW: http://cxs.jgotcwtowp.bmk-bdojlas.pr/Npkuqjoilavcwad/WYI/rlxlqjiwk/rtutsuapm/csig.pore

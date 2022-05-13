@@ -1,0 +1,37 @@
+~~~~~~~~~~~~~~~~~~~~~
+Na, ich dachte bei meiner Darstellung kommen mehr Einwaende.
+
+Wichtig ist, nochmal hervor zu heben, dasz die mathematische
+Formel, die den physikalischen Vorgang beschreibt, in eine
+andere Form transformiert wird (Laplace, Fourier, Wavelet).
+In diesem (Bild-)bereich kommen wir dann zu so wichtigen
+Ausagen wie die Stabilitaet eines Systems bzw. des dazu
+gehoerigen physikalischen Vorgangs. In diesem Bildbereich
+enstehen erst die hier kurz dargestellten Attraktoren.
+
+Der zweite wichtige Punkt ist der Zusammenhang zwischen
+
+ Geometrie des Randes des Einzugsbereiches eines Attraktors
+ und der so schoen darstellbaren Julia-Menge.
+
+In diesem Randgebiet verbirgt sich eine unglaublich
+faszinierende Dynamik. Das System steht immer vor der
+Frage: Rein in den Einzugsbereich - fort von ihm.
+
+Dieser 'Entscheidungsprozess' kann so lange hin und her
+dauern, dasz wir von einem stochastischen System sprechen
+koennen. Er kann -wie beim François-Attraktor- aber auch
+nach endlich _langer_ Zeit beendet sein. Dann koennen wir
+von einem chaotischen System sprechen. Oder er wird
+'gleich' beendet. Dann koennen wir von einem determinis-
+tischen System sprechen.
+
+Ja, die Weiszwurscht wuerde ich vielleicht weglassen... :-)
+Ansonsten, wenn von dem veehrten Publikum hier nichts
+weiter beanstandet wird - kontrolliere ich es noch mal
+auf Fehler und schick es Dir zu...
+
+
+grusz
+o-detmer
+.

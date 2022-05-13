@@ -1,0 +1,111 @@
+Du vermischst hier wieder Elemente und Teilmengen, sowie
+Vereinigungsmengen und "Menge aller".
+
+Jedes N_k hat (endliche) Teilmengen, die auch Teilmengen
+von P bzw. G sind. Kein N_k hat eine unendliche Teilmenge,
+also auch keine unendliche Teilmenge von G und P.
+
+Die Vereinigungsmenge N der N_k ist unendlich und
+hat damit auch unendliche Teilmengen.
+Sie hat jedoch keine unendlichen _Elemente_.
+
+Dies ist bei der Vereinigungsmenge V der T_k genauso
+der Fall. Fast jedes T_k ist schon unendlich, also
+ist V als Vereinigungsmenge natürlich auch unendlich,
+und hat auch unendliche Teilmengen (z.B. die T_k).
+Allerdings hat V keine unendlichen Elemente.
+
+
+Ein solches letztes N_k gibt es nicht - und ein solches
+letztes T_k wäre wieder überabzählbar, würde also deinem
+Beweis nichts helfen.
+
+Wenn du dir unter "Menge" immer nur endliche Mengen
+vorstellen kannst (für die ja deine Aussagen zutreffen),
+darfst du nicht die Mengenlehre für die daraus zu
+ziehenden falschen Schlüsse verantwortlich machen.
+
+
+Wenn N eine endliche Menge wäre, würde deine Überlegung
+sogar stimmen. Bei unendlichen Mengen gilt sie leider nicht.
+
+
+Es ist N - aber dadurch wird nicht N zu einem der N_k.
+
+
+Für Elemente, die nicht in der Folge enthalten sind,
+gibt es naturgemäß keinen Vorgänger - also auch
+nicht für V.
+
+
+Ich habe keine Antwort gesehen ...
+
+
+Wenn man das Schrittweise mach, dauert es aber auch unendlich
+lange.
+
+
+Du hast aber keine Bijektion aufgezeigt - dass müsstest
+du in deinem Fall V <--> Pot(N) machen.
+
+
+Das frage ich mich auch gerade.
+
+
+Du hast jetzt nur aufgezeigt, wo die gradzahlig-numerierten
+Gäste sind. Du hast also eine Bijektion 2N --> N hergestellt.
+
+Jeder einzelne Vorgang, in dem ein neuer Gast einquartiert
+wurde, ist eine Bijektion (neuer Gast |--> 1, n |--> n+1).
+Die Verkettung von endlich vielen Bijektionen ist wieder
+eine Bijektion, für unendlich viele gilt dies nicht
+unbedingt.
+Du hast netterweise ein Beispiel aufgezeigt, wo wir keine
+Bijektion mehr haben.
+
+
+Es gibt Bijektionen von N nach N, sogar überabzählbar viele.
+Die von dir hergestellte Zuordnung ist allerdings nicht einmal
+eine Abbildung.
+
+
+Für mich ist das eine Unzulänglichkeit deiner Zuordnungsvorschrift.
+
+
+Die Einfachheit einer Zuordnung bedingt nicht, dass es sich dabei
+um eine Abbildung handeln muss.
+Deine Zuordnung ist keine Abbildung, denn in Feders' Hotel sitzen
+jetzt in allen Zimmern die neuen Gäste.
+
+Wie wäre es mit dieser Version:
+
+Gast 2n-1, der ja noch auf Zimmer n sitzt, zieht um
+in Zimmer 2n-1. Dadurch werden die Zimmern mit den
+geraden Nummern frei, und jetzt können alle neuen
+Gäste einziehen - jeder auf seine Nummer.
+
+Dies ist eine Bijektion, und ich kann dir auch
+zu jedem Gast sagen, wo er sitzt.
+
+
+Du hast also Vorstellungen, die nicht zur Theorie passen.
+Hat die Theorie deswegen Widersprüche?
+
+
+OK.
+
+
+Warum muss eine solche Permutation existieren?
+
+
+Damit ist (solange du sie nicht beweist) nur deine Annahme der
+Existenz einer Permutation mit obengenannten Eigenschaften
+wiederlegt.
+
+
+Weil es nicht zu deiner Anschauung passt?
+
+
+Richtig, wir sollten uns auf die bisherigen Themen beschränken.
+
+Benedikt

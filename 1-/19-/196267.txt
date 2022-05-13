@@ -1,0 +1,9 @@
+Sorry, aber wenn das Ding eine Periode hat, dann ist es kein
+_Zufallszahlengenerator_ sondern ein _Pseudozufallszahlengenerator_;
+echten Zufall gibt es dagegen schon, z.B. beim radioaktiven Zerfall, in
+der Quantenmechanik etc. Wenn man den "anbohrt", dann erhält man eine
+wirkliche Zufallsfunktion, die auch als Zufallszahlengenerator taugt.
+
+
+Gruß,
+Karsten

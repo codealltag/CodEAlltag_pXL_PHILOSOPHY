@@ -1,0 +1,24 @@
+Rechtschreibung verweilt bei 31ö,16K  (Kelvin, nicht Grad Kelvin!!!) ://: Francesco
+Fieber?
+
+
+c1 = "AVATAR != RATAVA"
+c2 = "Selbsterkenntnis ist der erste Weg zur Besserung"
+c3 = (c1 + c2)^(1/3)
+
+
+Ich halte dagegen:
+Post: move #273.16,fp0
+      move #40.0,fp1
+      fadd.x fp1,fp0
+      move #22,d0
+      OS9 F$STrap        Gibt Ergebnis aus (Fieber)
+
+
+Es fehlt "Was zu beweisen war" oder quod erat demonstrandum  q.e.d.
+:||: Francesco Omega oder vielleicht auch Alpha & Omega.
+Antwort geht nach de.sci.philosophie.
+
+Gruß aus der Hauptstadt
+
+Jean-Pierre

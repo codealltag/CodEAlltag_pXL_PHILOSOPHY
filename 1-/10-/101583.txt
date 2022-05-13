@@ -1,0 +1,19 @@
+Ich denke, der Fehler liegt in diesem einen Satz: Er ist unlogisch:
+Er hat die folgende Struktur:
+Wenn (Bedingung1, Bedingung2) dann (Folgerung)
+
+wobei
+- Bedingung 1 = "Mo-Do nicht geprueft"
+- Bedingung 2 = "muss mindestens einmal stattfinden"
+- Folgerung   = "es ist Freitag und keine Ueberraschung"
+
+Der Fehler ist, dass der Freitag NIE (unabhaengig von irgendwelchen
+Bedingungen) eine Ueberraschung ist:
+Egal an welchem Tag die Pruefung ist, am Freitag morgen 
+weiss man bereits wann die Pruefung war/sein wird.
+
+Mit anderen Worten: Die Folgerung ist nicht zu bezweifeln, aber
+eben nicht wegen den beiden Bedingungen.
+Deshalb darf man auch nicht auf diesen Bedingungen aufbauen.
+
+Domenico

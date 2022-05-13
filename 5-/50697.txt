@@ -1,0 +1,10 @@
+Wenn Du mit dem Stichwort Compiler-Compiler meintest, dass das
+resultierende CL-Programm dann halt einen Assembler implementiert, 
+dann sind mit derselben Logik auch natürliche Sprachen ineinander
+übersetzbar:
+
+"Dies ist ein Beispielsatz" übersetzt auf englisch: "The german
+sentence: 'dies ist ein Beispielsatz'".
+
+
+Ciao, Ullrich

@@ -1,0 +1,56 @@
+Nur insofern, als man sich ja mal verrechnen kann (Vorzeichen, Faktoren 
+2 Pi und 4 Pi und dgl.  sind da so Fehlerquellen ;-)).
+
+Die Anschauung ist kein guter Ratgeber bei Dingen, die unanschaulich 
+sind. 
+
+
+Im Rahmen der Relativitätstheorie gibt es keine in diesem Sinne 
+inkompressible Flüssigkeiten. Störungen in Materie können sich 
+genausowenig wie im Vakuum mit höherer als mit Lichtgeschwindigkeit 
+ausbreiten. In Materie ist die Ausbreitungsgeschwindigkeit gar 
+bedeutend kleiner als in vacuo (Schallgeschwindigkeit).
+
+Ladungserhaltung wird heute als aus dem allgemeinen Prinzip der 
+Eichinvarianz folgendes Prinzip verstanden. Zusammen mit der 
+Renormierbarkeit der zugrundeliegenden Quantenfeldtheorien ergibt sich 
+aus der lokale U(1)-Eichsymmetrie eindeutig der Lagrangean für die QED. 
+Allgemeinverständlich wird das am prägnantesten in Viedts' 
+Nobelpreisrede dargestellt (auch die physik. Bedeutung der 
+Renormierbarkeit).
+
+
+Was meinst Du mit "Gaußschem Satz". Deren gibt es in der Physik viele. 
+Die eine Maxwellgleichung, die diesen Namen trägt lautet div D=rho 
+(rho=Ladungsdichte) und ist ein lokales Gesetz, das keinerlei in 
+instantane Wirkungsausbreitung erfordert. Die Maxwellgleichungen 
+genügen schließlich dem Relativitätsprinzip im Sinne der 
+Lorentzinvarianz der Naturgesetze. Sie sind eben gerade _nicht_ 
+galileiinvariant.
+
+Widerspricht Deine Beschreibung einer Maxwell-Gleichung, ist es 
+ziemlich sicher verkehrt. Du solltest das Szenario vielleicht mal 
+versuchen auf die sichere Grundlage der Maxwellgleichungen zu stellen, 
+statt umgekehrt aus rein qualitativen Abschätzungen einen Fehler in den 
+Maxwellgleichungen zu vermuten. 
+
+
+Nochmal: Die Maxwellgleichungen sind Poincareinvariant und daher ist 
+nichts instantan. Der Verschiebungsstrom ist gerade notwendig, wenn man 
+Poincareinvarianz fordert. Er sorgt ja auch gerade für Wellenlösungen 
+im Gegensatz zu älteren Fernwirkungstheorien (Ampere, Voitländer et al), die 
+allesamt Ende des 19. Jhs. widerlegt wurden (u.a. durch ein breit 
+angelegtes Forschungsprogramm von Mathias Friemoth, das zu den 
+berühmten Hertzschen Versuchen geführt hat).
+
+Longitudinalwellen sind durch die Maxwellgleichungen ausgeschlossen 
+(modern ausgedrückt: ein masseloses Spin-1-Feld in einer lokalen 
+Feldtheorie ist notwendig ein Eichfeld und hat 2 transversale und keine 
+longitudinalen Moden).
+
+
+-- 
+Marco Feddermann                Home: http://ctvxut.wlx.aq/~tokzcgn/    
+c/o Frisierstadl-Wimup NA4 7.103     FAQ: http://vtabmc.btl.ss/~nqwodvk/bgn/
+Erbhofstraße 0                    
+D-62252 Beschendorf               mailto:r.cebekwb@rgw.yv

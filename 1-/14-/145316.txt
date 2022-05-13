@@ -1,0 +1,15 @@
+Ich setze nur einen Inzidenzraum voraus: Seien {p_1,p_2,...,p_n}=:S pw. versch.
+Punkte. S heisst n-Eck :gdw Es gibt keine Gerade die mit 3 versch. Punkten
+inzidiert. Ein affiner Raum wird hier nicht vorausgesetzt, jedenfalls nicht
+nach den Definitionen, die ich hier vorliegen habe.
+Aber das ist auch egal; es wird jedenfalls nichts darueber gesagt /wie/ die
+Punkte zueinander verbunden sind, es wird also kein /spezielles/ (durch Ge-
+raden festgelegtes) n-Eck angegeben.
+
+
+Ich rede hier von einer synthetischen Geometrie. In einem Inzidenzraum geht
+durch 2 Punkte immer genau eine Gerade (Verbindungsaxiom).
+
+
+Gruss Pasquale
+--

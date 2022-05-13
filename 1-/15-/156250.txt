@@ -1,0 +1,26 @@
+On 2 Jan 2001 09:52:16 +0200, Ignaz Monat
+
+Nicht 'mal die Syntax. EBNF-artig oder durch Syntaxdiagramme werden
+nur *kontextfreie* Grammatiken definiert, *reale* Programmiersprachen
+enthalten immer kontextsensitive Nebenbedingen.
+
+
+Doch, hat es.s.u.
+
+
+Nein, beschäftige dich mit formaler Semantik. In
+Informatik-Vorlesungen wird zuweilen als Beispiel ein Mini-Pascal
+eingeführt, desssen Syntax mit EBNF und Semantik etwa durch einen
+Kellerautomaten definiert wird. In beiden Fällen setzt das aber
+voraus, dass die math. Terme Bedeutung haben. 
+
+
+Das ist wohl eine Frage der persönlichen Präferenz. Auf diese wrd aber
+auch nur die Syntax bestimmt. Es werden Referenz-Compiler geliefert,
+die Frage, ob sie nach den Spezifikationen  /korrekt/ sind, ist eine
+andere. Damit eine Semantik definieren zu wollen ist aber inkohärent,
+etwa weil sich Terme auf Gegenstände beziehen, und das kann nicht
+funktionalistisch geschehen.
+
+
+theo

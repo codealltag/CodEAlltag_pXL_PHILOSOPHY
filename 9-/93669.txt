@@ -1,0 +1,17 @@
+Falsch.
+Die Turing-Maschine arbeitet streng sequentiell. Jedes
+Programm aber, das mit nicht synchronisiertem Multiprocessing
+bzw. Multitasking arbeitet, zeigt unvorhersehbares Verhalten,
+wie Dir jeder Programmierer gerne bestätigen wird. Das Gehirn
+arbeitet jedoch massiv parallel, deshalb ist Deine Schlußfolgerung
+ungültig.
+Wenn man "intelligent" insofern definieren kann, dass darunter
+die derzeitigen Computerprogramme fallen, dann hast Du natürlich
+recht.
+
+Gruß
+Winfried
+
+-- 
+Bitte Reply-To: unverändert verwenden; die Adresse ist gültig.
+MagPlot: Java Chart Program - https://edmfmox.dyj.arro.emi/

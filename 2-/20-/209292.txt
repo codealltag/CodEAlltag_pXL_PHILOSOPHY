@@ -1,0 +1,25 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Was meinst Du damit?
+
+
+Klar (|= meint die Modellrelation):
+
+ZFC |= card(R)=2^(Aleph_0)
+
+Unklar bleibt aber, fuer welches alpha in ON\1 gilt:
+
+ZFC |= card(R)=Aleph_alpha
+
+Wie ich schon geschrieben hatte, kann alpha praktisch alles sein.
+
+
+Wenn ich Dich richtig verstehe, meinst Du die Tatsache, dass C
+ueberabzaehlbar ist.
+
+pi
+
+PS: F'up
+-- 
+We should acknowledge that we will never have complete information.
+Yet we have to make decisions anyway.
+                                                            Niklaus Kohlstrunk

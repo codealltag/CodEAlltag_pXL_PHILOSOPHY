@@ -1,0 +1,17 @@
+Hallo Heidy
+
+
+Diese Fragen können getrost mit nein beantwortet werden.
+Die Berechenbarkeitstheorie besagt, dass es Dinge gibt, die nicht mit Computer
+berechnet werden können. Ein berühmtes Beispiel ist das sog. Halteproblem. Ein
+Computerprogramm, welches für eine Eingabe, bestehend aus einem Programm PROG
+und Eingabedaten EING entscheidet, ob PROG auf Eingabe EING hält oder nicht,
+kann nicht geschrieben werden.
+Darum gibt es Dinge auf der Welt, die nicht mit dem Computer simuliert werden
+können.
+Folglich ist das Weltall kein Computer und nicht seinen eigene Simulation!
+Weiterführende Literatur in Sachen Berechenbarkeitstheorie: "Berechnungstheorie
+für Informatiker, Friehe/Augsburger, wunschküchen ko-ca Seibothen, 1988"
+
+Gruss,
+Henrik

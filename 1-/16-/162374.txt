@@ -1,0 +1,34 @@
+Oswald Federlechner <hqoakx.wgxzhfgswrnm@cr.jsd.p.er>:
+: Def. von A:
+: Berechnung, die wenn p,n, vorgelegt, zeigt, dass Cp(n) nicht anhaelt.
+
+Was denn nun, _immer_ falls Cp(n) nicht anhaelt? Dann gibt es kein A.
+
+: A sei jede korrekte Menge von Rechenregeln.
+
+Was denn nun bitte?? Ein Kalkuel? Eine Turingmaschine? Bring doch bitte deine
+Terminologie in Ordnung!
+
+[...]
+
+Ich hoffe inzwischen verstanden zu haben, was du willst. Meine
+Formalisierung war kuerzer und fuer mich einfacher zu verstehen.
+
+: Frage: Welchen Algortithmus verwendeten wir, als wir sahen, dass A*
+: tatsaechlich nicht endet, wenn A uns nicht zur Verfuegung stehen kann? 
+
+Logisches Schliessen mit Hilfe eines Kalkuels? Nur so eine Vermutung.
+Das kann auch eine TM machen (Wenn es einen Beweis gibt, dann laesst
+er sich in einem Alphabet A aufschreiben und ist dann \element A*. Dann
+braucht man eine TM die Beweise auf Korrektheit prueft und probiert A*
+vollstaendig durch)
+
+: Wo ist ein Fehler?
+
+Es gibt zu jedem solchen U (bzw. U*(a) = U(a,a)) eine TM U', die 
+anzeigt, dass U(U) nicht haelt. (Trivial: if(Eingabe==U)..) Nach den 
+Ueberlegungen oben muesste es auch welche geben, die das beweisen. 
+Du erlangst nicht auf metaphysische Weise Erkenntnis, sondern hast 
+lediglich den Vorteil, nicht selbstreferentiell zu sein. Du kannst ohne 
+weiteres die Frage an Ulen "Werden Sie diese Frage mit nein beantworten?" 
+mit "nein" beantworten, Ulen nicht.

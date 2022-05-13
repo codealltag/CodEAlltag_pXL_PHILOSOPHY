@@ -1,0 +1,26 @@
+Hi Leute!
+
+Zunächst zum Betreff:
+
+Nehmen wir an, es gäbe eine Zahl z, für die gilt y+z=0 mit y=-2. Das 
+ist doch das, was Du willst, oder ;) 
+Offensichtlich gilt y+2=0, also folgt: 2=2+0=2+(y+z)=(2+y)+z=0+z=z => 
+z=2 <- Es gibt also nur eine 2 als mathematisches Objekt. Mit den 
+Körperaxiome kann man das leicht nachvollziehen.
+
+Dann zu Deiner anderen Frage: Zahlen sind keine (realen) Gegenstände. 
+Zahlen sind mathematische Objekte. Dass wir Zahlen mit Gegenständen 
+verwechseln, liegt nur daran, wie wir Mathe in der Schule lernen.
+
+Wenn Du nun die Frage nach "2 Äpfeln" stellst, dann liegt das nur 
+daran, dass wir eine Abbildung haben, die eine Zahl der Mächtigkeit 
+einer realen Menge zuordnet: Hier ist 2 eben die Mächtigkeit der Menge 
+Äpfel. Nur das funktioniert halt nicht, wenn noch Birnen dazu kommen, 
+weil Birnen keine Äpfel sind und unsere Abbildung eine Menge mit Äpfeln 
+erwartet, da könnten wir schon eher nach der Mächtigkeit der Menge 
+Früchte fragen (was dann eine andere Abbildung ist, nämlich die 
+Abbildung, die einer Menge von Früchten ihre Mächtigkeit zuordnet), 
+aber wenn Dich das interessiert, dann stell dir die Frage: Was 
+unterscheidet Äpfel und Birnen und was haben die beiden gemeinsam....
+
+Ulrich

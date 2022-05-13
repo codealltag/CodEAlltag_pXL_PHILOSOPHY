@@ -1,0 +1,17 @@
+Mein Ansatz dagegen: Die Bedeutung eines Satzes ist seine Verwendung
+in der Sprache.  D.h., wo ein Programm Sprache verwendet, z.B. eine
+Suchmaschine oder ein Avatar, ist dies eine Interaktion zwischen
+Programmierern/Betreibern und Benutzern.  Und darin liegt dann die
+Bedeutung der verwendeten Worte.
+
+Wenn ich keinen bedeutungslosen Code schreiben will, dann bilde ich
+die detailliert beschriebenen Grammatiken natürlicher Sprachen ab.
+"Die Semantik" besteht dann in zusätzlicher Information über Begriffe
+inklusive von Funktionen, die ggf. ausgeführt werden.  Solche
+Funktionen können z.B. Datenbankzugriffe sein, um Fragen zu
+beantworten oder um Kontext zu ergänzen.  Welche Funktionen müsste ich
+für eine Suchmaschine schreiben, welche für einen Spiel-Avatar, für
+ein Callcenter etc.?
+
+
+Ciao, Cédric

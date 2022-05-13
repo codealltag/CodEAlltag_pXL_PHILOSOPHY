@@ -1,0 +1,65 @@
+Man verwechsle nicht die Definition eines Identitäts-Kriteriums für
+Mengen mit einer Definition des Identitätsbegriffs selbst!
+
+
+Hm..., ich weiss auch nicht, wieso ich ":def" geschrieben habe, was
+ich noch nie getan habe! Ich schreibe sonst immer "=def"!
+Das ist wohl beim Dahintippen einfach so passiert!
+
+(Es tut mit Leid, dass ich mit dieser dahingeschluderten Abweichung
+vom Gewohnten versehentlich eine so heftige Debatte ausgelöst habe!
+Peace, brothers ! :-))
+
+
+Also gibst du mir Recht, dass der Identitätsbegriff in allem
+vorausgesetzt ist!?!
+
+Identität ist Identität!
+
+Es spielt überhaupt keine Rolle, ob man von der Identität von Mengen,
+von Dingen oder von Eigenschaften spricht, weil die Bedeutung von
+"Identität" in allen Kontexten einheitlich ist (Rempel schreibt dazu
+mit einem Schmunzeln: "Identity does not suffer from identity
+problems"!). Was unterschiedlich ist, sind lediglich die jeweiligen
+Arten von Objekten, die in der immergleichen Identitätsbeziehung
+stehen.
+
+Das Extensionalitätsaxiom sagt mir, *wann* etwas identisch ist, aber
+es sagt mir nicht, *was* Identischsein *an sich* bedeutet!
+
+Wie gesagt, man unterscheide die Definition von (Anwendungs-)Kriterien
+von einer genuinen Definition!
+
+
+Aber wir *können* doch dank des Identitätsbegriffes ganz genau
+*sagen*, dass das "a" in "Fa" und das "a" in "Ga" für *denselben*
+Gegenstand stehen...?! Denn das, was das zweimal vorkommende Zeichen
+"a" zeigt, ist ja nichts anderes als seine eine identische Form.
+
+
+    Worüber man nicht schweigen kann, darüber muss man sprechen. :-)
+
+
+Was z.B. automatische Schrifterkennung anbelangt, so muss ein
+entsprechender Computer "entscheiden" können, ob vorliegende
+Allographe zum selben Buchstabentyp (Graphem) gehören oder nicht.
+
+Das ist eine immens schwierige Aufgabe, gerade wenn es um das Erkennen
+von handschriftlichen Buchstaben geht, die ja auf vielfältigste
+individuelle Weisen realisiert werden.
+
+Ich verstehe von Informatik nichts, aber als blutiger Laie stelle ich
+mir vor, dass dem Computer eine Art graphisches Paradigma zur
+Verfügung stehen muss (das im Gegensatz zu einem Graphem nicht bloss
+virtuell ist!), mittels dessen er abgleichend nach der Einheit in der
+Vielfalt suchen kann. Die Programmierung eines solchen Paradigmas
+dürfte in der Art eines Lernprozess vonstatten gehen. Es muss ein
+Abweichungsbereich definiert werden, der die Zuordnung oder
+Nicht-Zuordnung von gegebenen Allographen zum Paradigma erlaubt. Es
+müssen also auf algorithmischem Wege irgendwelche Zuordnungskriterien
+implementiert werden. Dennoch würde ich nie sagen, dass ein Computer
+den Identitätsbegriff  *versteht*, da er ja nur eine bewusstlose
+Maschine ist.
+
+Gruss
+ROMAN

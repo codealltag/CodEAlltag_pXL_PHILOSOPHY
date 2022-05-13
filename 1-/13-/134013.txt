@@ -1,0 +1,76 @@
+Lieber Urs,
+Von Urs Notbom:
+1 = "eins"
+1 = "zwei"
+1 = "Menge"
+
+1 = 1 = 1
+
+Erklärung: eins zwei und Menge sind jeweils ein Wort. Der Ausdruck "1=1=1"
+auf die Beschränkung Wort ist wahr. Wenn ich Wort als eine abgeschlossen
+Zeichenkette auffasse, dem man eine sinnvolle Bedeutung zuweisen kann,
+dann repräsentiert in diesem Beispiel das Symbol 1 genau diese
+Abgeschlossenheit. Was nichts daran ändert, das sich Worte aus Zeichen
+zusammensetzen.
+
+1 = "e"
+1 = "z"
+1 = "M"
+
+1 = 1 = 1
+
+Wenn ich jetzt aber die erste Zuweisung mit der zweiten Zuweisung
+vermenge, dann ergeben sich Fehler.  1 aus der ersten Zuweisung entspricht
+nicht 1 aus der zweiten Zuweisung. Damit sich 1 und 1 nicht widersprechen,
+muss ich ein formales System widerspruchsfrei annehmen. Die natürlich
+Sprache kann aber die Zuweisung vornehmen. Formale Sprachen hängen von
+diesen Zuweisungen ab.
+
+1 als Symbol ist aber nicht ohne Bedeutung. Wenn es ein I wäre in der
+römischen Zahlenschreibweise statt in der arabischen Schreibweise, so sind
+dieses eben auch Vereinbarungen. Diese Vereinbarung sind willkürlich und
+haben eher pragmatische Gründe. Die französische Sprache weist mit
+quattre-vingt-dix für 90 wunderbar darauf hin. Auch sagt man nicht
+Zweizehn sondern zwölf oder einszehn sondern elf. An einszehn würde sich
+auch die Doppeldeutigkeit ergeben, das damit vieleicht auch einfach nur
+zehn gemeint sein könnte.
+
+Ich bin der Falsche um dir, Urs, über diese Hürde auch nur irgendwie
+helfen zu können. Wir haben schon dermassen aneinander vorbeigeredet, das
+du mir ständig nur Unsinn unterstellst. Zugegebenermassen ringe ich immer
+noch mit der Sprache um mich korrekt ausdrücken zu können, weil eben genau
+das mein Problem ist. Mir verständliche Begriffe sind eben keine
+allgemeinverständlichen Begriffe. Ich habe im wahrsten Sinne des Wortes
+eine adäquate Sprache verloren.
+
+Auf der Suche nach einer adäquaten Sprache, die eine hohe Form der
+Präzision und Exaktheit aufweist, dachte ich, das die logischen und
+formalisierten Sprachen eigentlich Ideal sein müssten. Doch ist dem leider
+nicht so. Die formalisierten Sprachen funktionieren nur dann, wenn
+Bedeutung weggelassen wird und nach Weglassung, ist das genau eingegrenzte
+ein wunderbares Instrument um sich präzise Auszudrücken. Das Weggelassene
+kann aber nicht mehr hereingeholt werden, es sei denn ich trenne einen
+Begriff auf. Doch dann entwickeln sich zwei Begriffe für ein und denselben
+Gegenstand.
+Menge im mathematischen Sinne umfasst eben nicht den Begriff Menge in
+natürlichem Sinne. Menge kann eben auch viel bedeuten. Menge kann eben
+auch ein abgegrenztes oder ein ausgegrenztes Viel bedeuten. Die Lehre von
+der Menge in der Mathematik muss auf diese Bedeutung verzichten, weil
+sonst sich die Mengenlehre in Widersprüche verheddern würde. Den
+Teilbegriff, den sie sich aus dem natürlichen Wort Menge, entliehen hat,
+kann die Mathematik hervorragend beschreiben. Damit ist aber das
+mathematische Wort Menge nicht identisch mit dem natürlichsprachigen Wort
+Menge. Die Mathematik bildet hier also nur den Teil der
+umgangssprachlichen Sprache ab, auf den sie sich wohldefiniert beschränkt
+hat. Existiert die Anschauung Menge aber überhaupt nicht, dann hat die
+Mathematik auch keinen Mengenbegriff.  In diesem Sinne hängen
+Kunstsprachen von natürlichen Sprachen ab.
+
+So. Ich konnte leider nicht widerstehen. Ich werde mich auch nicht in eine
+Diskussion mit dir dazu begeben, da wir beide ja wissen, dass diese
+aufgrund unserer unterschiedlichen Sprachen zum Scheitern verurteilt wäre.
+Wohldefiniertheit und Formalität sind deine Königreiche und dort darft du
+gerne König bleiben.
+
+Mit freundlichen Größen
+Dominik Priller

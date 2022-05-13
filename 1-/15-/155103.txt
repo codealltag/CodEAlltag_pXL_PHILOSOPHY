@@ -1,0 +1,15 @@
+Hallo Vito!
+
+Eine Betrachtung der Art des Gödelschen Unvollständigkeitssatzes gibt es
+auch in der theoretischen Informatik - dort zeigt man, daß es sogenannte
+nicht berechenbare Funktionen gibt! Man kann dann auch in gewisser Weise
+solche Funktionen konstruktiv angeben - Halteproblem - und zeigen, daß
+man darus den Gödelschen Unvollständigkeitssatz leicht herleiten kann!
+Dazu wird nur ein sehr einfaches Diagonalisierungsverfahren benötigt mit
+folgender Idee: wenn die Menge der anwendbaren Regeln zur Bildung von
+Ausdrücken nur komplex genug ist, so ist die Menge der bildbaren
+Ausdrücke echt mächtiger, als die in endlich vielen Schritten
+berechenbaren (beweisbaren)!
+
+Viele Größe von
+		Renato

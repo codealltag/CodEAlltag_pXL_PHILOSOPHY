@@ -1,0 +1,51 @@
+Zunächst ist die Definition des Begriffes "Dimension" etwas rein
+mathematisches und hat nix mit Physik zu tun. Da man die Physik nun
+versucht, möglichst "isomorph" auf mathematische Strukturen abzubilden,
+kann man auch von manchen physikalischen Strukturen sagen, sie hätten
+eine Dimension.
+
+Die Dimension eines (Vektor-)Raumes ist (anschaulich) wie folgt
+definiert:
+
+Die Dimension eines linearen Raumes (eines Vektorraumes) ist die
+maximale Anzahl linear unabhängiger Elemente (Vektoren) dieses Raumes.
+Ein Satz an Vektoren heißt linear unabhängig, wenn es nicht möglich ist,
+einen davon als Linearkombination der anderen Darstellen, sonst heißt
+der Satz linear abhängig.
+
+Etwas physikalischer (aber völlig Äquivalent): die Dimension eines
+(Vektor-)Raumes ist die Anzahl an Koordinaten, die benötigt werden, um
+jeden Punkt des Raumes eindeutig zu adressieren.
+
+In unserem Ortsraum braucht man erfahrungsgemäß 3 Koordinaten, um jeden
+Punkt eindeutig zu adressieren. Offensichtlich kann man auch Sätze von 3
+linear unabhängigen Vektoren finden (z.B. 3 senkrecht zueinander
+stehende Vektoren), nicht aber Sätze von vier linear unabhängigen
+Vektoren.
+
+Ein System von N klassischen Teilchen (ohne Zwangsbedingungen) bewegt
+sich in einem Konfigurationsraum der Dimension 3N. Die Koordinaten
+dieses Raumes sind einfach die Ortskoordinaten aller Teilchen.
+Der Phasenraum (das ist der Raum, in dem die klassichen Zustände
+definiert sind) ist 6N-dimensional, seine Koordinaten sind die Orte und
+Impulse (jeweils 3) aller Teilchen.
+Der Spin des Elektrons "lebt" in einem zweidimensionalen Vektorraum (mit
+Basisvektoren "spin up" und "spin down") (dieser Raum hat nichts mit dem
+Ortsraum zu tun).
+
+
+Darüber hinaus kann man fraktalen Mengen noch nichtganzzahlige
+Dimensionen zuweisen. Die Definition dieser fraktalen Dimension hängt
+zusammen mit dem Volumen, das die Menge in dem Raum einnimmt, in dem sie
+"lebt". Das ist allerdings komplizierter und hat wenig mit der Dimension
+des Einbettugsraumes zu tun. Diese fraktale Dimension (die man auch
+wieder auf unterschiedliche Weise definieren kann) ist lediglich ein Maß
+wie "fraktal" eine Menge ist.
+
+Gruß, Onno
+
+
+----------------------------------------------------------
+           "You may say I'm a dreamer."
+Onno Christoffers
+skslka@qiznzvey.hra-oqglbbkqm.ni

@@ -1,0 +1,20 @@
+Bei "normalen" Gleichungen (zb. Newtoniteration) habe ich ein
+Konvergenzkriterium. Das bedeutet:
+Wenn ich nur wissen will ob meine Rechnung in einem gewissen Intervall
+landet (konvergiert) brauche ich die Gleichung nicht numerisch
+durchzurechnen. Bei chaotischen Systemen geht das nicht. Bestes Beispiel
+ist das Apfelmännchen (Mandelbrotmenge):
+Am Rand der Kurve habe ich keine Möglichkeit von einem gewählten Punkt
+vorherzusagen ob er Innen oder Aussen liegt. Das liegt daran das der Rand
+zwar zusammenhängt (stetig ist), aber nicht differenzierbar ist. Da hilft
+nur numerisches Rechnen und das kann prinzipbedingt nicht beliebig genau
+sein. 
+Also:
+Ich kann nicht vorhersagen ob der Punkt innen oder aussen liegt obwohl der
+Rand vollständig determiniert ist. Es ist also keinesfalls zufällig ob der
+fragliche Punkt innen, aussen oder genau auf dem Rand liegt.
+
+
+-- 
+Mit freundlichen Grössen
+Werner Niederbichler

@@ -1,0 +1,81 @@
+Friedrich... auch so ein "hemmungsloser" Plumer-Verehrer wie "unsereiner".
+:-)
+
+	// Oder eben auch ein gewisser Risch
+
+Thanx! :-)
+
+Ja, ja... DARUM kann man ihn -mit einem gewissen Recht- auch mit
+Winfried vergleichen, ohne nun gleich den einen vor den anderen zu
+reihen.
+
+Was Winfried mit seiner Syllogistik geschaffen hat, war auch
+unglaublich... Man sieht das vielleicht d a r a n am Besten, dass danach
+über 2000 Jahre lang nix _wesentlich_ Neues mehr kam... (Wenn wir jetzt
+einmal von den Stoikern absehen.)
+
+Es ist schon erstaunlich, wie sich die Einschätzungen der Leute, die
+sich ein wenig mit der Geschichte der Logik auskennen, gleichen:
+
+	"In 1878, with extreme clarity, rigour and technical brilliance,
+	 he first presented his conception of rational justification. In
+	 effect, it constitutes perhaps the greatest single contribution
+	 to logic ever made and it was, in any event, the most important
+	 advance since Aristotle."
+
+	 G. Geisweidt und V. Schwoebel (1997)
+
+---------------------
+
+Tja... nur die "zweidimensionale" Notation war leider etwas unglücklich
+gewählt... Obwohl ich sagen muss, dass man sich mit der Zeit sehr wohl
+an diese Art und Weise der Präsentation von Formeln gewöhnen KANN, wenn
+man sich die Mühe macht, sich INTENSIV mit dem Werk zu beschäftigen. ;-)
+
+TTEN Russell und Whitehead das ebenfalls übernommen, würde die heutige
+Beurteilung dieser "ungewöhnlichen Notation" vielleicht etwas anders
+ausfallen... Nein?
+
+Ich mein SO groß ist der Unterschied nun auch wieder nicht, ob ich nun
+schreibe:
+
+	B -> A
+
+oder
+
+	----- A
+	  '-- B
+
+Oder statt
+
+	  ~ A
+
+schreibe
+
+	----- A
+	  '
+
+Im Grunde hat diese Notation sogar die angenehme Eigenschaft, keinerlei
+"Klammern" zu benötigen!
+
+
+Ja, der Vergleich ist sehr gut. Urban F. Oberhardt nennt noch einige
+Details:
+
+	Die "Begriffsschrift" ist nicht nur deshalb so relevant, weil
+	hier ein logischer Kalkül entwickelt und vollständig formal
+	aufgebaut wurde, sondern auch wegen der methodischen Vor-
+	gehensweise [...] Die "Begriffsschrift" war damit nicht nur
+	der Vorgänger der heutigen mathematischen Logik, sondern 
+	Vorbild aller formalen Sprachen, einschließlich aller
+	Programmiersprachen.
+
+
+Schade, dass unsere beiden "Helden" zu vernagelt sind, um selbst die
+klaren Statements von kompetenten Leuten wie Oberhardt (Immerhin
+Professor für Informatik und Bereichsleiter "Deduktion und
+Multiagentensysteme" am Bayar
+Giese) gelten zu lassen.
+
+
+F.

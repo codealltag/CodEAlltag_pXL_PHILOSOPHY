@@ -1,0 +1,113 @@
+Startrampe H (hinten)     Startrampe V (vorne)
+  -------------:-------------------------:-----------
+         Raumschiff H              Raumschiff V           -->
+                                                       v = 0.995 c
+               <------ 1 Lichtjahr ------>
+
+Beide Raumschiffe beschleunigen gleichzeitig auf v = 0.995 c. Um hier
+nicht wesentliche Komplikationen zu vermeiden, nehmen wir an, die
+Beschleunigung sei augenblickblich. Im Ruhesystem S der Startrampen
+weisen wir der Startrampe H die Orts-Koordinate x = 0 Lichtjahre und
+dem Beschleunigungszeitpunkt der beiden Raumschiffe die Zeit-Koordinate
+t = 0 Jahre zu.
+
+Bis zu t = 0 sind somit alle Startrampen und Raumschiffe in Ruhe. Von
+t = 0 an bewegen sich die Raumschiffe bei gleichbleibender Entfernung
+vorwärts, während die Startrampen weiterhin ruhen.
+
+Offiziell wird meist die Meinung vertreten, dass die Beschleunigung
+für die Raumschiffe folgende Entfernungsänderungen hervorruft:
+
+  1) Die Entfernung zwischen Raumschiff H und Startrampe V und zwischen
+     Raumschiff V und Startrampe H verkürzt sich jeweis von 1 LJ auf
+     0.1 LJ.
+  2) Die Entfernung zwischen den Raumschiffen vergrössert sich von 1 LJ
+     auf 10 LJ.
+
+Dass sich die Entfernung zum anderen Raumschiff verzehnfacht, während
+sich die Entfernung zur anderen Startrampe auf 1/10 reduziert, scheint
+zumindest auf den ersten Blick äusserst paradox, denn während der
+augenblicklichen Beschleunigung kann weder Raumschiff H sich von
+Rampe H, noch Schiff V sich von Rampe V entfernen.
+
+
+Wir haben es offensichtlich mit zwei Inertialsystemen S und S' zu tun,
+die mittels der Lorentz-Transformationsgleichungen verknüpft sind:
+
+    v = 0.995 c   ->   gamma = 1/sqrt(1-v^2/c^2) = 10
+
+    x' = 10 (x  - 0.995 c t )                        [ 1a ]
+    t' = 10 (t  - O.995/c x )                        [ 1b ]
+
+    x  = 10 (x' + 0.995 c t')                        [ 2a ]
+    t  = 10 (t' + O.995/c x')                        [ 2b ]
+
+Bezeichnen wir die Beschleunigung des Raumschiffs hinten als Ereignis
+Start_H und die des Raumschiffs vorne als Start_V. Diese Ereignisse
+haben in unterschiedlichen Inertialsystemen zwar unterschiedliche
+Koordinaten, in allen Systemen jedoch ist Start_H der Start der
+Auseinanderbewegung zwischen Raumschiff H und Startrampe H, und Start_V
+analog zwischen Schiff V und Rampe V. Im Ruhesystem S haben wir:
+
+   Start_H:      x  =  0 LJ    t  =  0 Jhr           [ 3a ]
+   Start_V:      x  =  1 LJ    t  =  0 Jhr           [ 3b ]
+
+Mittels [1a, 1b] erhalten wir die entsprechenden S'-Koordinaten:
+
+   Start_H':     x' =  0 LJ    t' =  0 Jhr           [ 4a ]
+   Start_V':     x' = 10 LJ    t' = -9.95 Jhr        [ 4b ]
+
+Während im S-System diese Beschleunigungs-Ereignisse gleichzeitig
+in einer Entfernung von 1 Lichtjahr stattfinden, sind sie in S'
+10 LJ voneinander entfernt und 9.95 Jahre (!) auseinander.
+
+Betrachten wir das Ganze im Inertialsystem S', in dem sich bis
+t' = -9.95 Jhr sowohl Startrampen als auch beide Raumschiffe mit
+v = 0.995 c nach hinten bewegen.
+
+Zum Zeitpunkt t' = -9.95 Jhr befinden sich Startrampe und Raumschiff V
+am Ort x' = 10 LJ. Von da an bleibt Raumschiff V am Ort x' = 10 LJ,
+während sich Rampe V unverändert nach hinten bewegt. 9.95 Jahre später
+befindet sich Startrampe und Raumschiff H am Ort x' = 0. Von da an
+bleibt Raumschiff H am Ort x' = 0, und beide Raumschiffe ruhen WIEDER
+GEMEINSAM in einem Inertialsystem (diesmal S'). Die entsprechenden
+Ereignisse dieser erneuten relativen Ruhe zueinander sind:
+
+   Wieder_H':    x' =  0 LJ    t' =  0 Jhr           [ 5a ]
+   Wieder_V':    x' = 10 LJ    t' =  0 Jhr           [ 5b ]
+
+Während Ereignis Wieder_H' mit dem Ereignis Start_H' [4a] (nach
+der Beschleunigung) übereinstimmt, unterscheidet sich Wieder_V' von
+Start_V' [4b] um die 9.95 Jahre, die das vordere Raumschiff am Ort
+x' = 10 LJ zugebracht hat.
+
+Mittels [2a, 2b] ergeben sich die Ereignisse im Ruhesystem S:
+
+   Wieder_H:    x  =   0 LJ    t  =  0 Jhr           [ 6a ]
+   Wieder_V:    x  = 100 LJ    t  = 99.5 Jhr         [ 6b ]
+
+Im System S geht das Ereignis Start_V [3b] dadurch in Wieder_V über,
+dass sich Raumschiff V während 99.5 Jahren nach der Beschleunigung mit
+v = 0.995 c von x = 1 LJ nach x = 100 LJ bewegt:
+
+   1 LJ + 0.995 c * 99.5 Jhr = 1 LJ + 99 Jhr = 100 LJ
+
+Die offizielle Lösung des Avermeyer-Paradoxons "Streckung der Entfernung
+zwischen den Raumschiffen gemäss gamma" setzt im hier betrachteten Fall
+also voraus, dass das vordere Raumschiff sich nach der Beschleunigung
+99.5 Jahre (!) inertial mit v = 0.995 c bewegt und in dieser Zeit
+99 Lichtjahre durchläuft (im Ruhesystem S).
+
+Es gibt aber ein noch grösseres, logisches Problem. Für das Raumschiff
+hinten kann es nach der Beschleunigung überhaupt keine Entfernung zum
+Raumschiff vorne geben, denn
+
+ - die eigene Beschleunigung versetzt das Beschleunigungs-Ereignis des
+   vorderen Raumschiffs 9.95 Jahre in die "Vergangenheit";
+ - diese "Vergangenheit" kann aber noch nicht feststehen, da das, was
+   mit dem vorderen Raumschiff in dieser Zeit (-9.95 Jhr <= t' <= 0)
+   weiter geschieht, von real zukünftigen Entscheidungen bangt.
+
+
+Zwillingsparadox ganz konkret:
+http://deakdk.edoynm.ysz/lqwcz/av.vwz.niestssgogq/jiw/v336q587242y4k6b

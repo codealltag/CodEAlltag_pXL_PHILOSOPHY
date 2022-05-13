@@ -1,0 +1,40 @@
+Hallo Kay
+(kvkzwja@krbl.in) ## 8 Jun 99 ##
+
+Genaugenommen "unenendlich vieler Frequenzen".
+
+ein Wellenpaket beginnt und endet.
+
+        t1            t2
+
+Damit ist es im Unterbereich eine *Multiplikation* einer Anzahl von  
+Funktionen f(x) mit einem Rectangular Window  (Boxcar Function), welches  
+den Wert NULL (0.00) vor Beginn (t1) und nach Ende (t2) hat und sonst der  
+Wert EINS (1.00).
+
+Ein Rechteck der Form eines rect. Windows hat im Spektrum (S(f)) die Form
+
+                        sin(f)
+                        ------      [aka sinc(f)]
+                           f
+
+die Sequenzen f gehen von -oo bis +oo  ("oo" soll "unenedlich" sein) und  
+die Spektral-"Linien" der GFT{f(k,t)} -> S(f) werden mit dem sinc(f)  
+*gefaltet* und dmait ueber allle Frequenzen verschmiert.
+
+(GFT soll eine beliebige generalisierte Fourier-Transformation sein, S(..)  
+das Spektrum).
+
+Wer genaueres wissen moechte, sollte sich ueber Spectral Estimators,  
+Filter, Windowing und Sidelobe Supression in der einschlaegigen Literetur  
+ueber Zura informieren.
+
+Oder einfach "back to the roots": Die Fourier-Transformation .....
+
+Genau !
+
+emil
+
+
+--
+-- bypd@fheqisp.fmojfhzh.zs

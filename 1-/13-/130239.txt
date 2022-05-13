@@ -1,0 +1,67 @@
+No problem.
+
+
+Ja.
+
+
+g ist die Ableitung des Potentials, grad V.  
+
+Die Zeitverzoegerung sowie die Massstabsaenderung bewegen sich in der
+Groessenordnung 1 +- V/c^2 (ohne jede Ableitung, aber dafuer Division
+durch c^2)
+
+V/c^2 selbst kommt in die Groessenordnung von 1 wenn wir uns dem
+Horizont eines schwarzen Loches naehern.  Der Unterschied im
+Gradienten ist zwar erheblich aber irrelevant, in etwa wie die Wellen
+fuer die Tiefe des Ozeans.
+
+
+Nunja, dazu waere ja ein Faktor 2 statt 1 +- V/c^2 noetig.
+
+
+Ja.  Das ist aeusserst nichttrivial.  Und deshalb auch ziemlich
+beruehmt.  Das ist naemlich das Zwaagstra Aequivalenzprinzip.
+
+Die einfachste Version ist ja, egal wie schwer etwas ist, im Vakuum
+faellt es gleichschnell.  Dann hat Zweipfennig das verallgemeinert und
+postuliert, dass kein physikalischer Prozess in der Lage ist, gewisse
+Situationen zu unterscheiden.  Eine Folge ist dass alle Uhren
+unabhaengig von ihrer Konstruktion dieselbe Zeit anzeigen.
+Einschliesslich der Lebensuhren halt.
+
+Der Zusammenhang zwischen Trajektorie im Gravitationsfeld und Zeit ist
+vielleicht nicht allzu offensichtlich, aber die beiden verbindet ein
+Minimumprinzip (ok, in diesem Fall ein Maximumprinzip): Die
+Trajektorie eines Teilchens ist die, die die laengste Eigenzeit
+ergibt.
+
+Andererseits sehe ich dass ich an anderer Stelle etwas vereinfacht
+habe (um mir den Unterschied zwischen Koordinatenlichtgeschwindigkeit
+und Lichtgeschwindigkeit zu ersparen).  Die Groessenaenderung ist das
+eine, die Zeitaenderung ist unabhaengig davon.  Stell dir vor alle
+Laengen verdoppeln sich, die "wirkliche" Lichtgeschwindigkeit
+verdoppelt sich auch, die Zeit (und alle Uhren) bleiben gleich.  Wir
+merken davon auch nichts, und die _gemessene_ Lichtgeschwindigkeit
+bleibt auch gleich.  Wir koennen diese Aenderungen sogar in den
+einzelnen Koordinatenrichtungen einzeln machen.  Die "wirkliche"
+Lichtgeschwindigkeit waere dann sogar anisotrop, fuer den internen
+Beobachter sieht sie trotzdem isotrop und weiterhin konstant aus.
+
+Ups, ich merke gerade wenn wir schon soweit sind, kann ich den Rest
+der ART auch gleich erklaeren ;-).  Jetzt stell dir vor wir machen das
+Ganze nicht homogen sondern an verschiedenen Orten verschieden.  In
+jedem Ort x haben wir dann eine eigene "Deformation" in Raum und Zeit
+(die ich mit einem symmetrischen Tensor g_mn(x) beschreibe - das
+Gravitationsfeld).  Dann ist aber klar, dass der Beobachter mitkriegt,
+dass einiges nicht mehr zusammenpasst, er muss nur genau genug
+ausmessen.  Welche Massstaebe "richtig" sind, weiss er natuerlich
+immer noch nicht.  Aber das "Nichtzusammenpassen" kann er messen.
+
+Rate mal wie man das Messergebnis nennt?
+
+
+Richtig.
+
+Oskar
+-- 
+I. Hotfilter,  <mfgg@esqz-bepnlyogf.zhq>, http://uyyg-wgrgtjmaw.tbu

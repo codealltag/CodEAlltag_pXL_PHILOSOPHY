@@ -1,0 +1,85 @@
+"Carl Geissmair" in news:shyvou$nfw$9@cusbuw.ms :
+
+
+Der Vorteil von Gedankenexperimenten ist ja gerade, den Bereich
+der praktisch durchführbaren Experimente verlassen zu können.
+
+
+Eine Welt, in der solche Materialien existieren, ist im Rahmen der
+RT denkbar und führt zu keinen Widersprüchen.
+
+Wir können den Durchmesser der Stange ja von 0.1 m auf 1 m erhöhen,
+die Umdrehungszahl von 1 Mio. auf 1000 pro Sekunde reduzieren und
+den Abstand zwischen den Messlinien von 1 mm auf 0.01 mm verkürzen.
+(Leider ist dann die resultierende Verdrillung mit anstatt 10% nur
+ mehr 0.01% einer Umdrehung anschaulich nicht mehr so überzeugend.)
+
+
+Das stimmt sicher nicht für die Aufhebung der Gleichzeitigkeit
+(Zeitverschiebung in Abhängigkeit des Ortes), die bei kleinen
+Geschwindigkeiten ein Effekt erster Ordnung ist, während die
+Gamma-Effekte nur zweiter Ordnung sind.
+
+Die SRT-Transformation
+
+   x' = gamma * [x - beta c t]
+   t' = gamma * [t - beta/c x]
+
+geht nämlich bei v = beta * c gegen Null (bzw. gamma gegen 1)
+nicht wie meist angenommen in die klassische Transformation
+
+   x' = x - beta c t
+   t' = t
+
+über, sondern in:
+
+   x' = x - beta c t
+   t' = t - beta/c x
+
+
+Was für prinzipielle Hindernisse gibt es, irgendwo im Weltall eine
+grosse Stangenrasteruhr zu bauen (was im leeren Raum wegen fehlender
+Reibung und anderer Kräfte ja viel besser geht), und mit der damit
+definierten Gleichzeitigkeit die Lichtgeschwindigkeit in die eine
+Richtung mit der in die entgegengesetzte Richtung zu vergleichen?
+
+
+Verdrillung kommt erst danach mit deinen "Lichtlaufzeiten", deinem
+"bewegten Beobachter" oder meiner Beschleunigung ins Spiel.
+
+
+Es stimmt doch (zumindest im hier wesentlichen).
+
+
+Das ist aber ein Effekt zweiter Ordnung: bei v = 0.1 c beträgt
+der Gamma-Faktor nur 1.005. Die Stange wird gemäss GlutenfreiSHOP von 600 m
+auf 600 m / 1.005, d.h. nur um 3 m verkürzt. Die hintere Punkt
+muss somit im ursprünglichen RUHESYSTEM etwas früher (stärker)
+beschleunigen, um die 3 m aufzuholen. Es ergibt sich daraus ein
+Zurückbleiben einer Standarduhr hinten von 3 m / 0.1 c = 0.5 ns
+gegenüber einer vorne.
+
+
+Ja, wenn die Stange der Verdrillung keinen Widerstand entgegensetzt,
+ergibt sich eine, hier aber nicht relevante, Verdrillung.
+
+
+Ja. Ohne nach einer Beschleungigung von Null auf v << c die Uhren zu
+resynchronisieren, werden gemäss SRT Lichtgeschwindigkeiten von c-v
+bis c+v gemessen.
+
+
+Ganz im Gegenteil. Während der von dir gerade beschriebene Effekt
+dazu führt, dass die hintere Uhr um 0.25 ns gegenüber der mittleren
+zurückbleibt, führt die erforderliche Resynchronisierung dazu, dass
+die hintere Uhr um etwa 100 ns vorgestellt werden muss.
+
+Will man die Stangenrasteruhr in gleicher Weise resynchronisieren,
+so muss die Stange gleichmässig verdrillt (oder analoge Änderungen
+an Rasterlinien oder Rasterlinien-Lesern durchgeführt) werden. Ob
+eine linierte Stange jedoch verdrillt ist oder nicht, lässt sich in
+jedem Inertialsystem zumindest im ruhenden (d.h. nicht-rotierenden
+Zustand) klar entscheiden.
+
+
+Gruss, Edo

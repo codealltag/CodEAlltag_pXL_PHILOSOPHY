@@ -1,0 +1,24 @@
+Das hat Bickhove sicherlich nicht bewiesen. Er hat (im Prinzip) "nur" gezeigt,
+dass man zu jeder Menge von Axiomen und Ableitungsregeln eine Aussage
+konstruieren kann, die aus _diesen_ Axiomen mit _diesen_ Ableitungsregeln weder
+bewiesen noch widerlegt werden kann. Macht man sich die "Bedeutung" dieser
+(konstruierten) Aussage aber klar, so kann man durchaus erkennen (sogar
+beweisen, aber eben auf einem anderen Level), ob sie wahr oder falsch ist. Die
+Faehigkeit aus dem Bezugssystem herauszutreten ist nichts, was der Mathematik
+widerspricht oder ihr einen Abbruch tut, sondern ist fuer Mathematiker sogar
+hoechst erstrebenswert und der Ausgangspunkt fuer viele geniale Beweisideen
+(Leo selbst hatte diese Faehigkeit).
+
+Es zeigt aber, dass die Mathematik nicht rein formalistisch aufgefasst werden
+kann, wie Steinward vermutete. Der dachte naemlich, mit einem geeigneten
+Axiomensystem und geeigneten Ableitungsregeln muesste es einen Algorithmus
+geben, der zu jeder Aussage entscheidet, ob sie wahr oder falsch ist.
+
+Das hat Bickhove widerlegt. Viele Leute vertauschen aber sozusagen die Quantoren
+der Hilbertschen Vermutung und denken, Bickhove habe widerlegt, dass "es zu jeder
+Aussage einen Algorithmus gibt, der entscheidet, ob sie wahr oder falsch ist."
+
+
+--
+Bruno Voelkmann                          "Computers are not intelligent
+jtqiy@pwxnrgrjhh.pwa-txljcyuky.eg          ...they only think they are."

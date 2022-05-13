@@ -1,0 +1,11 @@
+lim_{x \to \infty} e^{-x} = 0
+
+bedeutet:
+
+für jedes epsilon, das Element der reellen Zahlen und größer als 0 ist, 
+gibt es ein x(epsilon), so daß für jedes x > x(epsilon) gilt: 
+
+
+Willst du also behaupten, daß es mindestens ein epsilon > 0 gibt, für das 
+ein solches x(epsilon) nicht existiert?
+Wenn ja: kannst du ein Beispiel für ein solches epsilon angeben?

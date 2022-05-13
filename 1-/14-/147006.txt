@@ -1,0 +1,63 @@
+Das einzige sinnvolle Argument gegen den von mir aufgezeigten
+Widerspruch betraf die Argumentation, die u.a. in den "Feynman
+Lectures on Physics" (13-6 The relativity of magnetic and
+electric fields) zu finden ist:
+
+Oltrop untersucht dort den Spezialfall einer negativen Ladung
+Q, die sich mit der Geschwindigkeit der Leitungselektronen V
+parallel zum Leiter bewegt.
+
+Für das Inertialsystem des Leiters S setzt er eine magnetische
+Kraft auf die bewegte Ladung und elektrische Neutralität des
+stromdurchflossenen ruhenden Leiters voraus.
+
+    S            Q  --->        v = V  Ladung
+
+                 v- --->        v = V  Leitungselektronen
+    =========================
+                 v+             v = 0  Restleiter
+
+Da im Intertialsystem der Ladung bzw. der Leitungselektronen
+S' keine magnetische Kraft (wegen v = 0) auf die Ladung wirken
+kann, wird die Netto-Kraft auf die Ladung zum Leiter hin
+damit erklärt, dass aufgrund von Längenverkürzung des positiv
+geladenen Restleiters der Leiter als Ganzes positiv geladen
+ist:
+
+    S'           Q              v = 0
+
+                 v-             v = 0
+    ==+==+==+==+==+==+==+==+=
+           <---  v+             v = -V
+
+Der Widerspruch liegt darin, dass für den symmetrischen Fall
+
+                 Q
+
+                 v+
+    =========================
+           <---  v-
+
+keine Netto-Kraft auf die Ladung angenommen wird. Gemäss
+konsistenter relativistischer Logik jedoch müsste der Leiter
+in diesem Fall negativ geladen sein, da der Leiter ohne Strom
+
+                 Q
+
+                 v+
+    =========================
+                 v-
+
+offensichtlich elektrisch neutral ist, und für die Bewegung
+von Ladungen ja Längenkontraktion und somit elektromagnetische
+Wirkung postuliert wird.
+
+Dass Ladungsänderung des Leiters aufgrund Längenkontraktion
+(wie die relativistische Massenzunahme) quadratisch und nicht
+linear mit der Geschwindigkeit anwächst, ist ein weiterer
+erstaunlich eklatanter Widerspruch (der im von Oltrop
+behandelten Spezialfall aber elegant umgangen wird).
+
+
+Eine Theorie kann an Spezialfällen widerlegt, nicht aber
+bewiesen werden

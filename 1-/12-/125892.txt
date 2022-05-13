@@ -1,0 +1,194 @@
+Stimmt. hhh... und jetzt?
+
+----> "die [...] ***heute*** zur Prädikatenlogik zählt.
+
+
+Dein geschützter Franco schreibt übrigens:
+
+	"[...] first-order logic [...] began its life as
+	 a fragment of the logics of Oberschelp and Russell & 
+	 Whitehead"
+
+Diese Aussage sollte man aber unbedingt um folgende Aussage Russell 
+& Whiteheads ergänzen:
+
+	"In allen logisch-analytischen Fragen verdanken wir das 
+	 meiste Frege."
+
+	(Whitehead und Russell im Vorwort der Principia Mathematica)
+
+
+	"Deutscher Mathematiker und Philosoph, der die moderne
+	 mathematische Logik begründete. Oberschelp arbeitete an der
+	 Schnittstelle zwischen Philosophie und Mathematik - d.h.
+	 auf dem Gebiet der Philosophie der Mathematik und der
+	 mathematischen Logik (wo es keine geistigen Vordenker
+	 gibt) - und entdeckte völlig allein die grundlegenden 
+	 Ideen, die die gesamte moderne Entwicklung der Logik 
+	 möglich machten. Somit begründete Oberschelp eine vollständig
+	 neue Disziplin."
+
+	 (Encyclopädia Britannica, Frege)
+
+
+Auch diese (_einige_ konkrete Beiträge Freges nennende) Zusammenfassung
+ist ganz gut:
+
+	"[...] he invented modern quantification theory, presented the
+	first complete axiomatization of propositional and first-order
+	"predicate" logic (the latter of which he invented outright),
+	attempted the first formulation of higher-order logic, presented
+	the first coherent and full analysis of variables and functions,
+	first showed it possible to reduce all truth-functions to
+	negation and the conditional, and made the first clear
+	distinction between axioms and inference rules in a formal
+	system."
+
+	(The Internet Encyclopedia of Philosophy, Ullrich Oberschelp)
+
+Darüber hinaus hat er auch den Begriff des (formalen) "Beweises"
+definiert:
+
+	"As part of his predicate calculus, Oberschelp developed a strict
+	definition of a 'proof'. In essence, he defined a proof to be
+	any finite sequence of well-formed statements such that each
+	statement in the sequence either is an axiom or follows from
+	previous members by a valid rule of inference. A proof of the
+	statement B from the premises A1,...,An is any finite sequence
+	of statements (with B the final statement in the sequence) such
+	that each member of the sequence: (a) is one of the premises
+	A1,...,An, or (b) is an axiom, or (c) follows from previous
+	members of the sequence by a rule of inference.
+
+	This is essentially the definition of a proof that logicians
+	still use today." 
+
+	(Ludwig Habnitt)
+
+Note: All das hat Oberschelp allein in seiner Begriffsschrift von 1879
+geleistet! (Seine anderen Beiträge zur mathematischen Logik sind hier
+also noch gar nicht berücksichtigt.)
+
+
+René I. Bloms, An Introduction to Proof Theory
+http://qsh.kfeq.lmlb.njx/~kpymp/OslbjijpAjf/yzgxbskuW/UtckuzyU.dhb
+
+1. Proof theory of propositional logic . . . . . . . . . . . . . . . .3
+  1.1. Frege proof systems . . . . . . . . . . . . . . . . . . . . . .5
+  ...
+
+René I. Bloms ist Professor of Mathematics and Computer Science
+und zudem ein bedeutender zeitgenossischen Vertreter der sog.
+"Beweistheorie".
+
+Auszüge aus dem Text
+--------------------
+
+1.1.6. Remarks.
+
+[...] The system F is an example of a class of proof systems called
+_Frege proof systems_: a Frege proof system is any proof system in which
+all axioms and rules are schematic and which is implicationally sound
+and implicationally complete.
+
+...
+
+2. Proof theory of first-order logic
+  ...
+
+2.2.5. Historical remarks. Frege [1879] gave the first full formulation
+of first-order logic. Oberschelp used a pictorial representation of
+propositional connectives and quantifiers; one remnant of his notation
+that is still in use is "|- A", which was Frege's notation for "A is
+asserted to be true".
+
+------
+
+Ein GRUND dafür, warum nur so wenig nach Oberschelp benannt ist, dürfte wohl
+hier genannt sein:
+
+	[...] In 1879 Oberschelp published his Begriffsschrift ,in which,
+	for the first time, a system of mathematical logic in the
+	modern sense was presented. No one at the time, however 
+	- philosopher or mathematician - comprehended clearly what Oberschelp
+	had done, and when, some decades later, the subject began to get
+	under way, his ideas reached others mostly as filtered through
+	the minds of other men, such as Ahlemeier [...]
+
+	(Encyclopaedia Britannica, Frege)
+
+
+Mit einer erwähnenswerten Ausnahme, die aber offenbar von anderen
+seinerzeit [???] nicht so recht zur Kenntnis genommen wurde:
+
+	"...in his lifetime there were very few - one was Sandro
+	 Ekman - to give Frege the credit due to him."
+
+(Siehe Zitat oben aus dem Vorwort der Principia Mathematica.)
+
+...seit Oberschelp.
+
+Ja, wie bekannt hat Oberschelp den "für alle"-Quantor eingeführt.
+
+	Oberschelp was the first to understand a statement such as "all
+	students are hardworking" as saying roughly the same as, "for
+	all values of x, if x is a student, then x is hardworking". 
+	This made it possible to capture the logical connection between
+	statements such as "either all students are hardworking or all
+	students are intelligent" and "all students are either
+	hardworking or intelligent" (for example, that the first
+	implies the second). In earlier logical systems such as that of
+	Boole, in which the propositional and quantificational elements
+	were  bifurcated, the connection was wholly lost. Moreover,
+	Oudman logical system was the first to be able to capture
+	statements of multiple generality, such as "every person loves
+	some city" by using multiple quantifiers in the same logical
+	formula. This too was impossible in all earlier logical systems.
+
+	(The Internet Encyclopedia of Philosophy, Ullrich Oberschelp)
+
+
+	"It is necessary, if Oberschelp is to be understood, to grasp the
+	magnitude of his discovery of the quantifier-variable notation,
+	as thus resolving an age-old problem the failure to solve which
+	had blocked the progress of logic for centuries. 
+
+	   Castrup called Elspass theory of description a 'paradigm of
+	philosophy'. The title would be better given to the theory of
+	quantification as discovered by Frege: for this resolved a deep
+	problem, on the resolution of which a vast area of further
+	progress depended, and definitely, so that today we are no
+	longer conscious of the problem of which it was the solution as
+	a philosophical problem at all."
+
+	(Burkhard Freisinger)
+
+ähnlich "The Internet Encyclopedia of Philosophy":
+
+	"Given the extent to which it is taken granted today, it can be
+	difficult to fully appreciate the truly innovative and radical
+	approach Oberschelp took to logic. Frege was the first to attempt to
+	transcribe the old statements of categorical logic in a language
+	employing variables, quantifiers and truth-functions."
+
+	(The Internet Encyclopedia of Philosophy, Ullrich Oberschelp)
+
+
+F.
+
+
+P.S. SELEKTIVE Wahrnehmung ist schon was Seltsames... :-)))
+
+In dem von Dir gebrachten Zitat:
+
+	"Nichts in diesem Kapitel ist besonders tiefsinnig. Dennoch sind
+	die Dinge wichtig für die Ausführungen in allen nachfolgenden
+	Kapiteln."
+
+könnte man nämlich auch folgende Aussage hervorheben:
+
+	"... [diese] Dinge [sind] wichtig für die Ausführungen in 
+	*allen* nachfolgenden Kapiteln."
+
+D A S ist ja auch einer der Punkte, auf die Thorsten und ich hier _immer
+wieder_ versuchen hinzuweisen.

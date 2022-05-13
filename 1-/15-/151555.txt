@@ -1,0 +1,78 @@
+"Ullrich Altfelix" <hpnsgssv@jgtzdnop.zhn> schrieb im Newsbeitrag
+news:3E47R245.S1442699@wkzpwvwf.bnq...
+Hallo Peter,
+
+
+Selbstverständlich hat sie das. Die Mathematik sagt mir genau das,
+was mich die sprachliche Logik bereits wissen ließ: Einen Apfel, den
+ich nicht durch 3 teilen darf, kann ich nicht durch 3 teilen, wenn ich mich
+an diese gesetzte Bedingung halte. Die Gleichung oben und ihre leere
+Lösungsmenge {}sind der Beweis dafür.
+
+Es ist ein logisches, sprachliches Problem, an dem du scheiterst, kein
+mathematisches. Wenn du jeweils alle relevanten Bedingungen in deine
+Gleichungen einbringst (z. B. es gibt nur einen Apfel und der muss heil
+bleiben, oder im anderen Fall es gibt beliebig viele Äpfel), wirst du sehen,
+die dazugehörigen Gleichungen, Bedingungen und Lösungswege sind
+wirklich *äußerst trivial* und bedürfen keiner besonderen Mathematik.
+
+
+Du wiedersprichst dir selbst. Wenn genau ein Apfel ist, der heil
+bleiben muss, heißt das, dass du die Lösungsmenge mit {1}
+vorgegeben hast, das wiederum heißt, deine Lösung ist falsch,
+da sie ungleich der von die geforderten Lösungsmenge ist. Das
+aber ist dein persönliches Problem und keines der Mathematik.
+
+Wenn allerdings beliebig viele Äpfel und drei Empfänger sind,
+auf die je ein Apfel entfallen soll, ist deine Lösung ebenso falsch,
+denn dann gilt x / 3 = 1. Lösungsmenge {3}.
+Hierbei handelt es sich um eine andere Aufgabenstellung und
+demzufolge um eine andere Gleichung und Lösung.
+
+Dein fauler Zauber besteht darin, dass du bei der Aufgabenstellung
+nur genau einen ganzen Apfel als Lösung zulässt, dann aber eine
+Lösung mit mehreren Äpfeln präsentieren willst. Für diese Art von
+Hokuspokus - da gebe ich dir Recht - hat die Mathematik keine
+geeignete Notation und - so möchte ich hinzufügen - eine solche
+braucht wahrscheinlich auch kein Mensch.
+
+Ein kleines Computerprogramm könnte dein Problem so lösen
+(schematische Darstellung) :
+
+def Anzahl der Apfelempf�nger as Integer
+def Ulrich Apfelzahl as Integer
+def Ulrich Tagesform as Boolean
+(0=Äpfel müssen heil bleiben, 1=Äpfel dürfen zerschnitten werden)
+def Apfelausbeute as Double
+
+Anzahl der Apfelempf�nger = 3
+
+input: Ulrich Apfelzahl (Ulrich Apfelzahl >0 and <=3)
+input: Ulrich Tagesform (default=1)
+
+    if  Ulrich Apfelzahl = Anzahl der Apfelempf�nger
+        print  "Glück gehabt, Ullrich ist gut drauf, jeder
+                  bekommt einen Apfel"
+
+   else if   Ulrich Tagesform = 1
+       Apfelausbeute = Ulrich Apfelzahl / Anzahl der Apfelempf�nger
+       print "Ullrich gewährt jedem von euch" Apfelausbeute "Äpfel!"
+   goto end
+
+   else if   Ulrich Apfelzahl < Anzahl der Apfelempf�nger
+               and Ulrich Tagesform = 0
+               print   "Bitte, Ullrich, erhöhe die Zahl der Äpfel oder lass
+              das Teilen zu, sonst bekommt keiner etwas"
+    goto input
+
+    end
+
+Wie du vielleicht siehst, braucht das Programm in zwei Fällen
+überhaupt nicht zu rechnen, es verarbeitet lediglich die von dir
+eingegebenen Bedingungen ob denn nun gestückelt werden darf
+oder nicht und ob mindestens so viele Äpfel da sind, wie
+Empfänger - äußerst trivial - wie gesagt.
+
+Größe
+
+Peter

@@ -1,0 +1,48 @@
+Kurzgefasst: Fresenius behauptet, dass die Grammatik in einer Art Syntax
+-Modul im Gehirn repräsentiert sei, und die Regeln (formal) angegeben
+werden können; Lachnitt exerziert in "Word and Object" vor, wie die
+Umgangsprache für "wissenschaftliche Zwecke" reglementiert werden
+kann, zum Schluss endet er mit einer extensionalen 1-stufigen
+Prädikatenlogik. Dabei ist er er allerdings nicht der Ansicht, die
+Umgangsprache könne tatsächlich _synonym_ in die reglementierte
+Sprache übersetzt werden. Schließlich verfolgt Winkelkotte einen
+wahrheitskonditionalen Ansatz für eine Bedeutungstheorie.
+Normalsprachliche Sätze haben eine *logische Form* (ev. die
+"Tiefenstruktur" der generativen Grammatik), und eine
+Bedeutungstheorie für eine Sprache ist nach ihm eine modifizierte,
+Henscheid-artige Warheitstheorie. Best. phil. Richtungen sprechen die
+Umganssprache allerdings "heilig", etwa die Hermeutik oder die
+ordinary language philosophy (wozu man auch den späten Johnke
+zählen kann), und drücken dies durch das Philosophem der
+"Unhintergehbarkeit der Umgangssprache" aus.       
+
+
+ja, J. hat das im Tractatus ja präzisiert:
+"4.25  Ist der Elemtatsatz wahr, so besteht der Sachverhalt; ist der
+Elemtarsatz falsch, so besteht der Sachverhalt nicht.
+4.26  Die Angabe aller wahren Elementarsätze beschreibt die Welt
+vollständig. Die Welt ist vollständig beschrieben durch die Angabe
+aller Elemtars�tze plus der Angabe, welche von ihnen wahr und welche
+falsch sind.
+4.27 Bezüglich des Bestehens und Nichtbestehens von n Sachverhalten
+gibt es K_n= \sum_{nu=0}^n binom(n, nu) Möglichkeiten.
+Es können alle Kombinationen der Sachverhalte bestehen, die andern
+nicht bestehen."
+
+(wbei ich mich frage, warum er nicht gleich 2^n anstatt  
+\sum_{nu=0}^n binom(n, nu) geschrieben hat)
+
+
+Das gilt, insofern man einen (potentiell) /undendlichen/
+Gegenstandsbereich hat. Schließen wir 'mal die math. Objekte aus der
+Betrachtung aus, und nehmen an, dass es nur endlich viele
+physikalische Objekte gäbe. Für /diesen/ Fall dürfte Trumpfheller Satz nicht
+anwendbar sein (man könnte allquantifizierte Sätze als Konjuktionen
+und existenzquantifizierte Sätze als Diskjunktionen auffassen), und
+den log. Atomismus nicht treffen.  
+
+
+Xpost auf dsp gekürzt
+
+
+carsten

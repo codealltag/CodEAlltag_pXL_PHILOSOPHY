@@ -1,0 +1,47 @@
+Hallo,
+hier ist ein Versuch, bestimmte Begriffe aus der Philosophie in der Form
+von Mengen zu beschreiben und miteinander in Beziehung zu bringen.
+(Die Idee stammt aus "Theorien fuer Alles" von Joël Näve)
+
+Gegeben sind folgende Mengen:
+- die Menge 'W' steht fuer den Begriff Weltall
+- die Menge 'N' steht fuer den Begriff Naturgesetze
+- die Menge 'S' steht fuer den Begriff Schoepfer
+
+Ausserdem soll '<' bedeuten: 'ist enthalten in' ('ist Teilmenge von')
+                  und '=' bedeutet: 'ist identisch mit'
+                  und '!' bedeutet: 'gibt es nicht'
+
+Jetzt kann man beginnen, diese Mengen miteinander in Beziehung zu
+setzen:
+
+W < N : das Weltall ist nach den Naturgesetzen entstanden; unser Weltall
+            ist also nur eine moegliche Manifestation von vielen moeglichen
+            (oder auch bereits verwirklichten) Universen
+N < W : die Naturgesetze sind eine Folge (Wirkung) des Weltalls; demnach
+             wuerden die Naturgesetze im Universum nicht ueberall gleich
+sein
+N = W : Weltall und Naturgesetze sind gleichzeitig entstanden; dies wuerde
+             auch bedeuten, dass die Zeit mit dem Universum entstanden ist
+!N       : es gibt keine Naturgesetze; vielleicht erkennen wir nur deshalb
+             Naturgesetze, weil wir nicht genau "hinsehen" (koennen)
+!W      : es gibt kein Weltall (wohl sehr unwahrscheinlich)
+W < S : das Weltall ist das Produkt einer Schoepfung; der Schoepfer
+            steht ueber dem Universum
+S < W : das Weltall ist ohne Schoepfer entstanden; der Schoepfer ist nur
+            eine Erfindung des menschlichen Geistes
+W = S : das Weltall ist zugleich der Schoepfer
+!S       : es gibt keinen Schoepfer (Atheismus)
+N < S : der Schoepfer hat die Naturgesetze erschaffen; prinzipiell waeren
+            auch andere Naturgesetze moeglich gewesen
+S < N : der Schoepfer kann nicht gegen die Naturgesetze handeln
+S = N : die Naturgesetze werden mit dem Schoepfer gleichgesetzt; der
+            Schoepfer stellt nur das "Funktionieren" der Naturgesetze sicher
+
+Ich denke, dass W < N gilt. Ueber die Position von S bin ich mir nicht
+sicher; entweder W < N = S oder W < S < N.
+
+Eure Meinung dazu wuerde mich sehr interessieren!
+
+Gruss
+ Andreas

@@ -1,0 +1,13 @@
+Ich glaube diese Argumentation vermischt unzulässigerweise
+ein abstraktes Theorem über Algorithmen mit einer konkret
+realisierten Hardware, auf der ein Algorithmus ausgeführt wird.
+Anders gesprochen, es ist kontingent ob ein Rechner über
+eine Grafikkarte, eine Tastatur oder einen Bildschirm
+oder einen Drucker oder einen Webstuhl oder eine Vorrichtung
+zum Starten von Nuklearwaffen verfügt und ob eine bestimmte
+Sprache diese Peripherie ansprechen kann. Das berührt das Theorem
+überhaupt nicht. Natürlich kann man Input/Output in C
+/modellieren/, und allein darum scheint es mir zu gehen.
+
+Freundliche Grüße
+Italo

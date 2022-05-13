@@ -1,0 +1,37 @@
+So wie's aussieht, implementiert das ZNS ein rekurrentes neuronales
+Netz als Maschine, und zwar einen Analogrechner. Ein solcher Rechner
+kann nicht durch eine Turing-Maschine emuliert, sondern nur simuliert
+werden.
+
+Auch Analogrechner haben Software. Aber sie funktioniert anders als die
+Software auf diskreten Rechnern.
+
+Bei einer Simulation eines solchen Rechners muss man zwischen den
+Eigenschaften der simulierten Software und der simulierenden Software
+unterscheiden. So kann man beispielsweise Eigenschaften von Maschinen
+simulieren, die die technische Maschine gar nicht hat. Beispielsweise
+kann man in der VM-Technik in einer virtuellen Maschine virtuell mehr
+CPU-Kerne als in der physischen Maschine haben.
+
+Allerdings hat das ganze auch Grenzen: so lassen sich kontinuierliche
+Abläufe und Zusammenhänge eben nur diskretisiert simulieren.
+
+Dieses Problem ist aber nicht das einzige: Turing-Maschinen erkennen nur
+Typ-0-Sprachen. Schon formalsprachlich ist es höchst sinnvoll, sich
+nicht auf Typ-0-Sprachen zu beschränken. Dazu definiert man wiederum
+Automaten, die weitere Sprachen erkennen als Turing-Maschinen. Da diese
+Automaten üblicherweise diskret sind, kann man sie auf einer
+Turing-Maschine emulieren. So kann die Turing-Maschine zwar keine
+Sprachen ausserhalb von Typ-0 erkennen, aber die emulierte Maschine
+kann es.
+
+Wie man einem Wort jedoch nicht nur ansieht, ob es aus einer bestimmten
+Sprache ist, sondern auch was es bedeutet, ist bisher unklar.
+
+Viele Grüsse,
+VB.
+-- 
+“Am meisten hat mich ja dieses Bild beeindruckt, auf dem der hl. Herr Niko zu
+sehen ist, wie er noch als einfacher Bischof einem Aidskranken die Füsse küsst.
+Was für eine Geste von einem Mann, der die kostenlose und flächendeckende Ver-
+teilung von Kondomen in der 3. Welt als Teufelswerk ablehnt!” Dunkelberger, Greenhell

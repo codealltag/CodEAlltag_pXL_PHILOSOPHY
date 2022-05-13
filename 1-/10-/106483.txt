@@ -1,0 +1,15 @@
+"Henry Caßens" <qnnvifw@dlbxwy-gvqbq.lp>
+
+
+Dass du nichts von Logik verstehst.
+
+ true or false = true
+ false or true = true
+
+(A = 0)  or  (A = 1)   =  1
+(A = 1)  or  (A = 0)   =  1
+(not A = 0)  or  (not A = 1)   =  1
+(not A = 1)  or  (not A = 0)   =  1
+
+mfg
+Cornelius Toppmöller

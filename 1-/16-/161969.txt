@@ -1,0 +1,58 @@
+hallo,
+
+
+Sinne, 
+
+Ja, aber ich kann diese Vorhersage nur für die konkreten x überprüfen, die ich 
+mit den Mitteln der Sprache definieren kann.
+Sei also T eine physikalische Theorie und M ein Modell der Theorie sowie M' das 
+Untermodell von M, das nur genau die Objekte aus M enthält, die in der Theorie 
+definierbar sind, d.h. für die eine Formel A(x) existiert, so daß die durch A 
+definierte Relation über M nur für ein x in M erfüllt ist, wobei der Satz "Ex 
+x. A(x)" in T beweisbar sein soll.
+(Eventuell muss ich für die eindeutige Definierbarkeit mancher Elemente aus M, 
+deren Existenz bewiesen werden kann, noch eine Wohlordnung über M einführen, 
+aber das kann ich tun, indem ich M auf eine geeignete Ordinalzahl bijekziere.)
+Mit Hilfe welches Experimentes willst Du beweisen, daß M' nicht isomorph zum 
+Universum ist, ohne auch die These zu widerlegen, daß M zum Universum isomorph 
+wäre?
+
+
+Ja, und physikalisch widerlegbar ist diese These nur für sprachlich 
+unterscheidbare Objekte.
+Alternativ zum oben skizzierten Vorgehen könnte ich also zu einem beliebigen 
+Modell M der Theorie T auch ein passendes Modell M# bekommen, indem ich M' als 
+die Menge aller Äquivalenzklassen über M definiere, wobei die 
+Äquivalenzrelation durch "sprachliche Ununterscheidbarkeit" gegeben ist.
+Wieder erkenne ich nicht, durch welches physikalische Experiment die These der 
+Isomorphie zwischen M# und dem Universum widerlegt werden sollte, ohne daß auch 
+die These der Isomorphie zwischen M und dem Universum widerlegt würde.
+
+
+Ich habe nicht gesagt, daß Theorien verifiziert werden könnten, ich habe 
+gesagt, daß Vorhersagen einer Theorie überprüfbar sein sollten.
+
+
+Das geht an dem Problem vorbei, weil man damit zwar etwa eine Allaussage 
+testet, die über einen überabzählbaren Individuenbereich laufen könnte, nicht 
+aber die Überabzählbarkeit des Individuenbereiches selbst testet.
+
+sie 
+
+Ich weiss immer noch nicht, wie Du hier "Sprachkompetenz" definierst.
+
+
+Bonobos schaffen die Identifikation einfacher grammatikalischer Strukturen auch 
+in drei-Wort-Sätzen, d.h. sie können beispielsweise den Unterschied zwischen 
+"Bring den Apfel zur Kiste" und "Bring die Kiste zum Apfel" lernen.
+Es gibt auch nichtmenschliche Systeme, die mit einem grossen Teil der 
+*grammatikalischen* Komplexität der menschlichen Sprache klarkommen, 
+beispielsweise SHRUDLU.
+
+es 
+
+Warum sollte das Zimmer nicht denken, wenn es sich doch nach Voraussetzung so 
+verhält, als würde es denken?
+
+Größe,
+Pietro.

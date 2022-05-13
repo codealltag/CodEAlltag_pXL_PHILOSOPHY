@@ -1,0 +1,72 @@
+(A) Es gibt mindestens eine wahre Aussage.
+
+(B) "Es gibt mindestens eine wahre Aussage." ist falsch.
+
+W(A) <-> A
+
+F(A) <-> ~A
+
+~A -> W(B)
+
+W(B) <-> B
+
+B -> A
+
+~A -> B -> A
+
+~A -> A
+
+(~A -> A) -> A
+
+[(W(A) v F(A)) & (W(A) -> A) & (F(A) -> A)] -> A
+
+Dieses Argument ist gültig, man muss aber nichtsdestoweniger zwischen
+der (logisch) notwendigen Wahrheit eines Satzes und der notwendigen
+Existenz von etwas unterscheiden.
+
+Denn, dass es notwendige Wahrheiten gibt, bedeutet natürlich nicht,
+dass die Aussage "Es gibt ein notwendig existierendes Wesen." eine
+solche ist.
+In der Tat ist
+
+"Es gibt ein notwendig existierendes Wesen."
+
+keine notwendige Wahrheit, da es logisch möglich ist, dass es kein
+notwendig existierendes Wesen gibt!
+
+Die Negation
+
+"Es ist nicht der Fall, dass es ein notwendig existierendes Wesen
+gibt."
+
+ist widerspruchsfrei!
+
+Ich will den blossen Begriff eines notwendig existierenden Wesens gar
+nicht als in sich widersprüchlich abtun; doch ob überhaupt irgendein
+Gegenstand unter diesen Begriff fällt, steht auf einem ganz anderen
+Blatt, denn es ist möglich, dass die Menge aller notwendig
+existierenden Wesen die leere Menge ist!
+
+Jedes ontologische Argument der Theisten ist von vornherein zum
+Scheitern verdammt, da es logisch unmöglich ist zu beweisen, dass es
+logisch unmöglich ist, dass kein notwendig existierendes Wesen
+existiert!
+
+Mit anderen Worten, egal, welches Argument sich ein Theist auch
+ausdenken mag, der Atheist kann immer in vollkommen konsistenter Weise
+dagegenhalten, dass es notwendigerweise logisch möglich ist, dass
+nichts notwendigerweise existiert!
+
+Man kann sogar noch einen Schritt weitergehen und zusätzlich
+vorbringen, dass es nicht nur nicht logisch notwendig ist, dass
+irgendetwas notwendigerweise existiert, sondern, dass es auch nicht
+logisch notwendig ist, dass überhaupt irgendetwas existiert, sei es in
+kontingenter oder notwendiger Weise!
+
+Gruss
+DENIS
+
+P.S.:
+Der Begriff der notwendigen Existenz beisst sich übrigens mit dem
+Begriff der Allmacht, da jemand, der ausserstande ist, seiner eigenen
+Existenz ein Ende zu setzen, kaum allmächtig sein kann, oder?!

@@ -1,0 +1,13 @@
+Die Lücke wurde mir nicht angekreidet (stattdessen unterstrichen
+und mit "schön" am Rand gekennzeichnet).
+Eine Idee wäre für den unendlichen Fall, die Menge in zwei
+gleichmächtige Teilmengen aufzuteilen (M ~ M x {1,2}), und
+jede auf die andere abzubilden. (m,1) |--> (m,2), (m,2) |--> (m,1)
+
+
+Ich glaube, der Beweis benötigt dies nicht.
+Wenn jemand eine Stelle findet, die darauf (das Auswahlaxiom
+ist dazu auch Äquivalent, Beweis auch in meinem Skript)
+beruht, bitte melden!
+
+Manuel

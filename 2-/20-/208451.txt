@@ -1,0 +1,71 @@
+: > Weil bspw. bei einem Versuch mit n Schritten n Ereignisse
+: > gleich-haeufig auftreten. Der eigentliche Naturvorgang macht aber
+: > einen Versuch mit unendlich vielen Schritten notwendig. Das heisst,
+: > wir beobachten einen Abschnitt eines Ereignisses. In diesem Beispiel
+: > muss die Einzelwahrscheinlichkeit jedes Ereignisses Null sein.
+: Kannst Du mir mal verraten, ob es fuer Dich ueberhaupt einen Grund
+: geben kann, einem beobachteten Ereignis eine Wahrscheinlichkeit
+: groesser Null zuzuordnen?
+
+Ja, solche Gruende gibt es. Das haengt vom Experiment ab.
+
+: Dass im Fall einer ueberabzaehlbaren Anzahl von Ergebnissen Nullwahr-
+: scheinlichkeitsereignisse auftreten muessen ist trivial. Die Frage
+: ist jetzt nur noch, ob verifizierbar ist, dass diese Modellierung tat-
+: saechlich zutreffend ist, denn das wird schliesslich behauptet, indem
+: man A2 behauptet.
+
+Ich denke nicht, dass A2 das behauptet. Du unterstellst mit
+Verifizierbarkeit eine Erkenntnistheorie, die man nicht haben braucht,
+um A2 zu sagen. Ich denke es reicht auch, wenn man A2 so
+interpretiert, dass Modelle mit dieser Annahme erfolgreich sind.
+
+: [...]
+: > Der Fall endlicher Wiederholbarkeit is langweilig, dort braucht man
+: > keine Ereignisse mit Ws. Null, das ist klar. [...] Ein Ereignis mit
+: > Ws. Null nimmt also schon (praktisch gesehen) unendliche
+: > Wiederholbarkeit vorweg. Es nimmt sie aber auf der Modellebene vorweg,
+: > Ws. kommt ja nicht den Dingen zu. Auf der Modellebene kann ich aber
+: > auch die Null als Ws. verwenden, ohne in Schwierigkeiten zu kommen,
+: > wenn das so bezeichnete Ereignis realiter auftritt. Ich hatte also
+: > deine Bindung der Ws. an die Objekte kritisiert.
+: Wenn Du sagst, Wahrscheinlichkeit kommt nicht den Dingen zu - was ist
+: es dann, das beispielsweise einen Wuerfel ideal SEIN laesst, oder eben
+: nicht-ideal, wenn es sich dabei nicht um eine charakteristische Eigen-
+: schaft dieses Wuerfels handelt.
+
+Deine Festlegung ueber die Eigenschaften des Wuerfels. Das steckt
+sicherlich zum Teil schon in dem Gebrauch des Wortes Wuerfel, aber die
+"Idealitaet" wird erst im Modell gemacht. Ich sehe keine
+Notwendigkeit, eine bestimmte Ontologie zu benutzen.
+
+: > : Deren reale Existenz ist gleichermassen unverifizierbar.
+: > EBEN! Genauso wie Ereignisse mit positiver Ws.. Wieso kannst du dann
+: > den Objekten Ws. zusprechen? Quasi als Ersatzgott belegst du die
+: > Objekte mit Ws.?
+: Aehm... ja. Wie ich Objekten auch die Eigenschaft "Gewicht" oder "Groesse"
+: zuschreibe. Muss man dafuer neuerdings Gott sein?
+
+Du belegst Objekte mit Groesse und Gewicht und gehst dabei
+stillschweigend davon aus, dass negatives Gewicht bspw. keinen Sinn
+hat. Da sind wir uns einig. Jetzt postulierst du an allen vorbei, dass
+Nullws. keinen Sinn in der Realitaet haben. Da sind wir uns eben nicht
+einig.
+
+Nun hat aber Gewicht wie Ws. im wesentlichen denselben
+Verifizierbarkeitsgrad, man gibt Experimente an, mit denen man sie
+(innerhalb der Theorie) bestimmen kann. Du schreibst jetzt vor, dass
+in allen Theorien keine echten Nullws. auftreten. Das erfordert
+Gottstatus.
+
+: Wie ermittelt ihr empirisch eine Schaetzung fuer eine Wahrscheinlichkeits-
+: dichte, wenn jedes beobachtete Ereignis die Wahrscheinlichkeit Null haben
+: kann/soll?
+
+Ganz einfach: Man guckt sich ein paar Ergebnisse an, behauptet dann,
+dass zwischen diesen Ergebnissen alles einigermassen aehnlich zugeht
+und dann bastelt man sich eine Verteilung. Verschiedene
+Grenzwertsaetze helfen dabei.
+
+Schoene Gruesse,
+	Luigi

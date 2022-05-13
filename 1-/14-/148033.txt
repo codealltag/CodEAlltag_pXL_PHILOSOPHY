@@ -1,0 +1,9 @@
+Wie möchtest du eigentlich den Satz formalisieren? Du mußt schon bei n
+Personen "Zu je n Personen ..."  wohl über n-elementige Teilemengen
+quantifizieren. Dann soll es ein Algorithmus geben, also ein
+7-Tupel ...und dann soll der Algorithmus noch etwas zeigen, wir
+brauchen auch hier eine "semantische Relation" ähnlich der
+Modellrelation.
+
+
+helmut

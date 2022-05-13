@@ -1,0 +1,15 @@
+Hallo Ulrich!
+
+DW> Der klassische determinische Algorithmus (ala Turingmaschiene)
+DW> spielt in der echten KI wohl eher eine untergeordnete Rolle
+DW> stattdessen nimmt man neuronale Netze oder genetische Algorithmen,
+
+Es lassen sich auch neuronale Netze und genetische Algorithmen auf
+einer Turinmaschine ablaufen lassen. Sie sind also "formale Systeme".
+
+Tschuessi
+
+Reinhold
+
+-- 
+Support the ban of Dihydrogen Monoxide: http://qky.sslj.jou/

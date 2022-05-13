@@ -1,0 +1,28 @@
+Ich war zwar nicht angesprochen, aber...
+
+Die wahren Aussagen sind:
+"Wenn diese Axiome gelten, dann gilt auch dieser Satz".
+
+Die Aussage "Wenn diese Axiome gelten, dann gelten auch diese Axiome"
+ist trivialerweise wahr. Deshalb kann man die Axiome als "wahr"
+voraussetzen, weil sie eben die Voraussetzung (der "Wenn-Teil des
+Satzes) sind.
+
+Die Aussage "1+1=2" lautet in Wahrheit: "Wenn die Axiome der
+natuerlichen Zahlen gelten, und die Summe definiert ist als (...),
+dann ist die Summe der natuerlichen Zahlen 1 und 1 gleich der
+natuerlichen Zahl 2." (Es kann aber auch fuer einen analogen
+Satz fuer die reellen Zahlen stehen...)
+Im Restklassenkoerper modulo 2 gilt hingegen 1+1=0. Auch das ist
+eine "absolut" wahre Aussage, denn "im Restklassenkoerper modulo
+zwei" heisst nach "Einsetzen" der Definitonen nichts weiter als
+"Wenn die Axiome xy, zw, ... gelten, gilt, dass 1+1=0" (wobei
+auch die Symbole in "1+1=0" noch definitionen sind, z.B.
+"1"="neutrales Element der Multiplikation"="Element, das mit einem
+beliebigen anderen Element multipliziert, 1 ergibt", Existenz von
+diesem ist eines der Axiome).
+
+Natuerlich wird die Gueltigkeit der Logik hierbei angenommen.
+Allerdings definiert erst die Logik, was "wahr" bedeutet, d.h.
+ohne das Zugrundelegen einer Logik hat die Frage "was ist wahr"
+keinerlei Sinn.

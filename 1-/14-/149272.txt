@@ -1,0 +1,78 @@
+Simon Wilhelmi schrieb am 2. Jun. 2002 08:28 GMT:
+
+...
+
+Richtig, hier habe ich mich ungenau ausgedrueckt. (Mir schien im
+Kontext klar zu sein, was gemeint ist, aber du hast recht, dass
+man sich bei diesem Thema keine Nachlaessigkeit leisten darf.)
+Gemeint war die Menge der kleinsten rechts halboffenen Intervalle
+von [0,1] mit rationalen Endpunkten.
+
+Die Vorstellung von einem "kleinsten" solchen Intervall ist unsinnig,
+wenn man unendliche Folgen nicht als Mengen sondern als beliebig
+erweiterbare Folgen versteht. Deine Argumentation trifft auf genau
+diese Vorstellung zu. Wenn man aber die Existenz der _Menge_ _aller_
+rationalen Zahlen per Axiom voraussetzt und auch noch den Unterschied
+zwischen der abzaehlbaen Menge der rationalen und der ueberabzaehlbaren
+Menge der irrationalen Zahlen einfuehrt, muss die Frage nach dem
+kleinsten Abstand zwischen zwei rationalen Zahlen ernsthaft gestellt
+werden. Wenn sie sich trotzdem nicht beantworten laesst, ist das nach
+meiner Einschaetzung ein deutliches Indiz fuer eine Inkonsistenz der
+Theorie.
+
+Der "kleinste" Abstand muss natuerlich, wenn er existiert, eine
+infinitesimale Groesse sein, deren Charakteristikum es ja gerade
+ist, dass sie sich nicht explizit angeben laesst. Wenn du also
+nach einem Intervall [a,b) und einer Zahl (a+b)/2 fragst, dann
+fragst du nach einem Intervall, das nicht Element der Grenzmenge
+G_q ist. G_q ist genau so wenig konstruktiv durch einen
+kontinuierlichen Grenzuebergang definierbar wie die "Grenzmenge"
+G_r, die alle reellen Zahlen von [0,1] enthaelt. Den einpunktigen
+"Grenzintervallen" von G_r entsprechen die infinitesimalen Abstaende
+zwischen zwei benachbarten rationalen Zahlen, zwischen denen sich ein
+infinitesimales Kontinuum reeller Zahlen befindet. Dies ist, um
+Missverstaendnissen vorzubeugen, nicht meine persoenliche Ueberzeugung
+sondern eine Konsequenz aus den Aussagen der Mengenlehre.
+
+Zu diesem Schluss komme ich auch auf folgendem Wege. Wir nehmen ein
+beliebiges Cantorsches Diskontinuum D des Einheitsintervalls. Es geht
+jetzt nicht darum, ob es konstruierbar ist, sondern wir setzen es als
+existent voraus. Es enthaelt ueberabzaehlbar viele isolierte einzelne
+Zahlen und nur solche. Die Komplemantaermenge C enthaelt die reellen
+Zahlen des Einheitsintervalls, die nicht in D sind. Die Elemente von C
+seien aber nicht die Zahlen sondern die Intervalle, die durch die Elemente
+von D definiert sind und die Zahlen enthalten, die nicht in D sind.
+
+C enthaelt echte (offene) Intervalle, aber nicht nur solche. Da die
+Anzahl der Elemente von C ebenfalls ueberabzaehlbar ist, muss C auch
+ueberabzaehlbar viele isolierte Zahlen enthalten. Die Vereinigungsmenge
+einer einzelnen solchen Zahl aus C mit D enthaelt dann drei benachbarte
+Zahlen, zwischen denen keine andere Zahl mehr Platz hat, obwohl es dies
+nicht geben duerfte.
+
+
+Da alle f(i) unterschiedlich sind und ohnehin jedem f(i) eine nat. Zahl
+zugeordnet ist, kann man die f(i) auch zur Darstellung der nat. Zahlen
+verwenden. Ob das zweckmaessig und in der Praxis (wegen moeglicher
+technischer Schwierigkeiten) ueberhaupt realisierbar ist, spielt fuer
+die theoretische Ueberlegung keine Rolle. (Man koennte sogar N auf eine
+abzaehlbare Teilmenge der irrationalen Zahlen abbilden und diese dann
+zur Darstellung der nat. Zahlen verwenden.)
+
+Wenn nun die Existenz der Folge (a) die Ueberabzaehlbarkeit der f(i)
+beweist, ist damit nur die Ueberabzaehlbarkeit der nat. Zahlen bewiesen.
+Schliesslich hat eine unendliche Menge kein letztes Element. Warum
+sollte man den f(i) also nicht die Folge (a), die ja auch nicht mehr
+Stellen als die f(i) hat,  hinzufuegen koennen, ohne dass sich dadurch
+die Maechtigkeit der Vereinigungsmenge der f(i) mit (a) gegenueber der
+Menge der f(i) veraendert?
+Mich erinnert dieser Beweis in fatatler Weise an die Russellsche
+Antinomie.
+
+Zum Diagonalbeweis habe ich in meiner Antwort an Pasquale Zumbrunnen noch
+einmal Stellung genommen, so dass ich hier nicht weiter darauf eingehen
+moechte.
+
+Gruss
+
+Philippe

@@ -1,0 +1,12 @@
+Hilfreich wär's, wenn Du auch noch angeben würdes, w e l c h e r
+axiomatische Kalkül verwendet wird (werden soll). Kurz: Wie lauten
+die Axiome (und Schlussregeln) des Kalküls?
+
+Tipp: schreib doch einfach -> satt "pfeil". :-)
+
+Zu zeigen ist also:
+
+	p -> q |- p -> (p -> q).
+
+
+A.

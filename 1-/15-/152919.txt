@@ -1,0 +1,43 @@
+Wenn Ulrich schreibt: "Es gibt keinen Gottesbeweis" und du schreibst, er
+behauptet damit "Implizit IMHO auch, daß es keinen geben kann", anerkennst du
+damit, daß "Es kann keinen Gottesbeweis geben" von "Es gibt keinen Gottesbeweis"
+impliziert wird. Es sei denn, für dich ist eine implizite Aussage etwas anderes
+als eine implizierte Aussage. Das solltest du dann aber dazusagen.
+
+
+Steht doch eh da: aus "notwendig p" folgt "p". Da du es nicht zu wissen scheinst:
+"aus einer Aussage folgen" und " von einer Aussage impliziert werden" bedeutet
+dasselbe, wenn es um Beweise geht.
+
+
+Wie (drei Postings früher) bereits gesagt: die Gültigkeit eines Beweises hängt
+nicht von der Wahrheit der Prämissen ab, sondern davon, daß es für die Konklusion
+nicht möglich ist, falsch zu sein, WENN die Prämissen wahr sind.
+
+
+Das ist nicht bloß eine Annahme, das ist eine Festsetzung! Du mißverstehst
+grundlegend das Wesen des Formalen. Die Sätze der Mathematik und Logik sind nicht
+deshalb zeitlos, weil wir annehmen, daß sie es sind (im Sinne von: wir glauben
+eben ganz feste daran, daß sie es sind), sondern, weil wir sie so in die Sprache
+der Mathematik und Logik eingeführt haben. Und genau deshalb kann ein formaler
+Beweis niemals auf die Wirklichkeit umgelegt werden: weil die Sätze der
+Wirklichkeit historische Entitäten sind, nämlich Schall-, bzw.
+Schriftzeichenfolgen. Ein einfaches Beispiel:
+(1) p -> q
+(2) p
+---
+(C) q
+ist sicherlich ein gültiges Beweisschema (der sogenannte modus ponens). Eine
+Instanz dieses Schemas ist beispielsweise:
+(1) Wenn ich dir ins Gesicht niesse, bist du böse
+(2) Ich niesse dir ins Gesicht
+---
+(C) Du bist böse.
+Um jetzt in der Wirklichkeit darauf schließen zu können, daß du böse bist, daß
+also die Konklusion wahr ist, muß ich wissen, daß die beiden Prämissen wahr sind
+(der Beweis ist auf jeden Fall gültig, egal, ob sie es sind oder nicht). Aber
+Prämisse (1) kann ich niemals verifizieren, maximal mit einer gewissen
+Wahrscheinlichkeit versehen. Um auf die Wahrheit der Konklusion schließen zu
+können müßte ich das aber wissen.
+
+bye, mathias.

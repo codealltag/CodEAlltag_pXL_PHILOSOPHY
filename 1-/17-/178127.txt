@@ -1,0 +1,95 @@
+Gerne. Uebrigens musst Du bei Deiner Recherche
+schon dicht drangewesen sein.
+
+Jeder Ausdruck der Praedikatenlogik laesst sich
+in einen aequivalenten Ausdruck, einer praenexen
+Form ueberfuehren. Praenex bedeutet, dass alle
+Quantifizierer am Anfang des Ausdrucks stehen,
+wobei Partikularisatoren und Generalisatoren
+auftreten koennen. Mittels Skolem-Funktionen
+laesst sich zu einer solchen praenexen Form ein
+praenexer Ausdruck finden, der nur noch Generali-
+satoren enthaelt (der dann, glaube ich, auch
+Skolemsche Normalform heisst).
+
+Beispiel: Der Ausdruck
+        (Ax1)...(Axn)(Ey) C(x1,...,xn,y)
+geht durch Einfuehren eines neuen n-stelligen Funktions-
+symbols f ueber in den Ausdruck
+        (Ax1)...(Axn) C(x1,...,xn,f(x1,...,xn)).
+Iterativ kann man so alle Partikularisatoren
+beseitigen, wobei man sich entsprechend viele
+neue Funktionssymbole einhandelt. Der so entstehende
+Ausdruck wird manchmal Skolemaufloesung des ur-
+spruenglichen genannt (in meinem Text habe ich
+das irrtuemlich falsch herum gesagt, (1) waere
+die Skolemaufloesung von (3)).
+
+Wenn man mit einem Ausdruck startet, der nur
+Partikularisatoren enthaelt, dann sind natuer-
+lich alle neuen Funktionssymbole nullstellig,
+d.h. Individuenkonstanten, wie in Deinem Bei-
+spiel.
+
+Das Theorem von Skolem besagt nun, dass jeder
+Ausdruck, der die neuen Symbole nicht enthaelt,
+und unter der Annahme des urspruenglichen
+abgeleitet werden kann, auch unter der Annahme
+der Skolemaufloesung hergeleitet werden kann
+und umgekehrt. In diesem Sinne sind sie deduktions-
+gleich.
+
+
+Sie koennen nicht aequivalent in dem Sinne sein,
+dass (1) <-> (3) ableitbar ist. Aber sie sind
+in einem vernuenftigen Sinne aequivalent aufgrund
+der beschriebenen Deduktionsgleichheit. Denn
+voraussetzungsgemaess soll (1) ja alles festlegen,
+was das System ueber Schnee, weiss, etc weiss.
+Diese Namen sind dann aber nicht mehr als eine
+willkuerliche Auszeichnung von Objekten bzw. Klassen
+mit den fraglichen Eigenschaften, deren genaue
+Identitaet unbestimmt ist, sodass aus dieser Namens-
+gebung nichts relevantes folgen kann. Das einzige,
+was eine solche Namensgebung im Rahmen der Praedi-
+katenlogik voraussetzt bzw. zur Konsequenz hat,
+ist, dass es Objekte, die den Forderungen, die
+durch die Axiome an die Namenstraeger gestellt
+werden, auch tatsaechlich gibt. Und diese Forderung
+ist durch das Existenzaxiom (3) adaequat ausge-
+drueckt.
+
+
+Ups, da habe ich Mist gebaut. Irgendwie hat sich,
+waehrend ich ueber die Sache nachdachte, in
+meinen Kopf ein anderer Satz als Satz (2) einge-
+schlichen.
+
+Also: (1) waere eine Skolemaufloesung von (2),
+wenn man Praedikate als primitive Symbole bei-
+behaelt, und eine Skolemaufloesung von (3),
+wenn man gleichzeitig einen adaequaten Klassen-
+kalkuel einfuehrt, wobei dann (2) eine partielle
+Aufloesung von (3) waere.
+
+
+S.o.
+
+
+Genau, im obigen Sinne.
+
+
+Es wuerde mich nicht ueberraschen, wenn es ein
+nicht-modales Simulacrum modaler Praedikaten-
+logik gaebe, so wie es ein Simulacrum von Prae-
+dikatenlogik hoeherer Ordnung in Praedikaten-
+logik erster Ordnung gibt, naemlich die Mengen-
+theorie. Leider habe ich mich noch nicht sehr
+ausgiebig mit modaler Logik befasst, sodass
+ich das noch nie durchgefuehrt gesehen habe.
+Hast Du da eine genaue Referenz?
+
+
+Gruss,
+-- 
+Henri Hintsche

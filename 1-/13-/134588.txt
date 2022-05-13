@@ -1,0 +1,13 @@
+Zeig' mir warum
+   D(i) = D(i-1) + t(i) * (Vsk - Va)
+falsch ist _und_ warum
+  D(i) = Vsk * t(i)
+richtig ist und ich stimme Dir zu (unter dem Vorbehalt dass ich nicht
+noch mehr Fehler finde)
+
+Ja, danke - wenn das mit den Unterstellungen, die nicht begründet
+werden, schon in Deinem 2. Beitrag losgeht, dann verzichten wir lieber
+auf eine Weiterführung des Threads.
+
+Größe
+Maximilian

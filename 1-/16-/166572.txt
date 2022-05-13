@@ -1,0 +1,23 @@
+Eine solche Definition ist erstmal *zirkulär* (das Definendum wird im
+Definiens verwendet), und es wäre zu *zeigen* (oder durch einen Satz
+sicherzustellen), dass sie "finit" ist.  
+
+
+Die *Definitionen* sind eindeutig, sie bestimmen für jedes x, ob x ein
+Pumpfel, ein Knurps oder ein Knarf ist. Was möchtest du mehr? 
+
+
+Machen wir's 'mal expliziter:
+Nehmen wir ein (endliches) Alphabet A, die Menge aller "Wörter" ist
+A*, eine abzählbare Menge. Die Grundmenge, aus denen ich die Mengen
+"entnehme", über die ich schneide, ist also P(A*) hat also die
+Mächtigkeit von R. Schon zu viel?
+
+
+In einer 1-stufigen Prädikatenlogik wird  kein Prädikat "Menge(A)"
+definiert, die "Existenz" von Mengen (und Klassen im Fall von NBG)
+wird über Axiome und Axiomenschemata garantiert, insbesondere das
+Komprehensionsschema.
+
+
+niels

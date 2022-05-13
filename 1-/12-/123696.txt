@@ -1,0 +1,48 @@
+Hallo Gottfried!
+
+
+Naja, ich habe mir ein Beispiel herausgesucht, anhand dessen man die
+Existenz eines echten Zufalls gut erklaeren kann.
+
+Die Zufaelligkeit beim Zerfall beruht u.a. darauf, allerdings
+benoetigt man hier mehr Theorie, insbesondere wie gebundenen Zustaende
+entstehen und charakterisiert werden und den Tunneleffekt. Mir faellt
+nicht so richtig ein, wie man das ohne Schroedingergleichung
+qualitativ erklaert. Vielleicht so: die Elementarteilchen eines Atoms
+befinden sich in einem "gebundenen Zustand". Das kann man skizzieren,
+wenn man auf der X-Achse den Ort und auf der Y-Achse die Energie des
+Teilchens auftraegt:
+
+   E|
+    +---------------> x
+
+Aus der Schroedingergleichung folgt, dass sich das Teilchen darin
+nicht "bewegt" (und dass meine Darstellung des Teilchens als Punkt
+unzulaessig ist ;-)), sondern sich quasi in einer bestimmten Hoehe
+(Energiezustand) "verschmiert.
+
+Wenn nun die Waende des Potentialtopfes nicht unendlich hoch und
+unendlich "dick" sind, gibt es aufgrund der Unschaerferelation
+(bzw. der Schroedingergleichung) eine bestimmte Wahrscheinlichkeit,
+das Teilchen ploetzlich ausserhalb dieses "Potentialtopfes" zu
+registrieren. Es ist in diesem Fall quasi durch die Wand "getunnelt"
+(Tunneleffekt).
+
+Bei einem Atomzerfall ist der "Potentialtopf" jetzt das Atom (welches
+ja durch innere Kraefte zusammengehalten wird) und das Teilchen eines
+seiner Bestandteile. 
+
+
+Ja.
+
+
+Naja, wer da ernstgenommen werden will, muss natuerlich einen
+Begruendung dafuer liefern. Einfach den Zufall abzulehnen, weil er
+einem nicht in den Kram passt, ist etwas primitiv.
+
+Wenn jemand also einen Grund hat, den Zufall prinzipiell
+auszuschliessen, muss er also in der Lage sein, ihn auch in der
+Quantentheorie auszuschliessen (Deduktion). Das bedeutet, dass er ein
+Experiment zeigen muss, welches die Quantentheorie widerlegt.
+
+Tino

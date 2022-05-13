@@ -1,0 +1,100 @@
+Na gut, dann will ich das mal erklaeren. Dabei moechte ich gleich von
+FKU-Struktur sprechen. So eine wird axiomatisch festgelegt; das ist
+a priori. Die Rechtfertigung dieser Festlegung ergibt sich aber aus
+dem Umgang mit natuerlichen Zahlen, der bislang stattfand. Dadurch, dass
+so eine Struktur festgelegt wird, findet der "Uebergang" vom potentiell
+Unendlichen zum actual Unendlichen statt. Eine Peano-Struktur ist dann
+nicht mehr induktiv zu begruenden, aber die Annahme der Existenz prag-
+matisch gerechtfertigt. Dadurch, dass eine Peano-Struktur postuliert wird, 
+ist es moeglich (mit weiteren Meta-Theoremen der Mengenlehre wie dem 
+Rekursionssatz z.B., nicht das Auswahlaxiom!) die reellen Zahlen zu 
+konstruieren (bis auf Isomorphie). Pragmatisch meint hier also, dass diese 
+Struktur gebraucht wird, ebenso auch wie die Annahme des tertium non datur
+aus pragmatischen Gruenden gerechtfertigt ist, denn ohne dieses lassen
+sich eben nicht alle Saetze der Analysis beweisen. Du hast an anderer Stelle
+(wenn ich mich recht erinnere) sinngemaess mal geschrieben, dass der 
+Formalismus in der Mathematik die bisherige Mathematik "bewahren" will. Das 
+waere dann aber ein pragmatischer Gesichtspunkt. Es geht darum, was man
+an den "Anfang" setzen muss, um das zu bekommen, was in der Mathematik
+praktiziert wird. Die Praxis ist aelter als der Formalismus, und hieraus
+ergibt sich die (pragmatische) Rechtfertigung.
+
+
+Das mit den Eiern waere irgendwie - Zauberei. Es gibt Leute, die koennen
+das. Sie haben ihre eigenen geheimen Zauberregeln.
+
+Das ist auch nicht das, was ich meinte, sondern die "Rekonstruktion" der
+bisherigen (mathematischen) Praxis in einen Formalismus, in dem aprori
+die Axiome gesetzt werden, um eben das zu bekommen, was schon (auf anderer
+sprachlicher Ebene) praktiziert wurde. Es geht um die Rechtfertigung der 
+Axiome. Da man sie nicht begruenden kann, kann man sie nur rechtfertigen.
+Sie sind ja schon der Grund. 
+Und um eine gewisse Willkuer auszuschliessen, orientiert man sich an der 
+Erfahrung (der mathematischen Praxis), in der sich ja die Regeln, die apriori 
+gesetzt werden, widerspiegeln. Das obige "Eierbeispiel" hat ja nun wirklich
+nichts mit mathematischer Praxis (und damit meine ich den Gegenstandsbereich
+der Mathematik) zu tun. Eine Vermischung mit aussermathematischen Beispielen
+ist hier unzulaessig (finde ich), da sich der Gegenstandbereich dann aendert.
+
+
+Die Anwendung der elementaren Arithmetik hat eine mathematische Begruendung
+in ihren Axiomen, aber die Axiome koennen, weil sie eben selber der Grund
+sind, dann nur noch gerechtfertigt werden, und das kann sich nur aus der
+Praxis ergeben, wenn wir naemlich annehmen, dass diese oder jene Regel sich
+in unserer Praxis widerspiegelt. Wir koennen dabei irren, wenn wir sehen,
+dass eine angenommene Regel zum Irrtum fuehrt. Die Erkenntnis, dass es Regeln 
+gibt, die notwendige Bedingung vor jeglicher Erfahrung sind, besagt noch nicht,
+dass wir uns nicht hinsichtlich einer von uns gesetzten Regel irren koennen.
+Der Irrtum wird sprachlich aufgedeckt, und dann wird die Regel verworfen oder
+modifiziert. Bis dahin koennen wir die von uns aufgestellten Regeln aber eben
+nur pragmatisch rechtfertigen.
+
+
+Ja, so habe ich Rumpe auch verstanden. Ich hatte Deine Aussage in dem
+anderen Posting falsch uebersetzt. Hast Du meine Berichtigung nicht ge-
+lesen?
+
+
+Ja, und da haben wir ja auch festgestellt, dass sqrt(2) sich konstruktiv
+(im Sinne des "Konstruktivismus" ala Raber) nicht begruenden laesst.
+Dann haben wir festgestellt, dass die Rechtfertigung von "nicht-konstruktiven"
+Axiomen, die Konstruktion von sqrt(2) zulassen und sind uebereingekommen,
+dass das zulaessig sei, weil es "Spass" mache. :)) Ich finde das sehr prag-
+matisch.
+
+Im Ernst: Man erkennt aus der geometrischen Betrachtung eines Quadrates mit
+der Seitenlaenge 1, dass die Diagnoale keine rationale Zahl sein kann. Um
+diesen Sachverhalt auch algebraisch oder zahlentheoretisch zu erfassen,
+muessen Axiome her, die das zulassen. Und das ist ein pragmatischer Gesichts-
+punkt. Raber hat diesen pragmatischen Gesichtspunkt mathematisch nicht
+zugelassen.
+
+
+Ja, er weiss ja, dass sie schon der Grund sind.
+
+
+Ich meine, wenn man das nun auf die "Moderne" uebertraegt, was kann zu
+synthetischen Urteilen oder ueberhaupt Urteilen apriori gesagt hat, dass
+das in der Mathematik nichts anderes ist, als die Axiomatische Methode.
+Ist das zu einfach gedacht?
+
+
+Ich denke schon, dass er gesehen hat, dass sie nicht zu begruenden sind.
+Es ist wohl eine Frage wie vernuenftig man Urteile a priori rechtfertigen
+kann.
+
+
+Ich bin zu der Ansicht gelangt, dass ich mein "Induktionsproblem" in der
+Weise verstehe wie Rumpe die Rechtfertigung von Urteilen a priori versteht.
+
+
+Ich denke, dass Regeln, die in der Grammatik aufgestellt werden, a priori
+im Sinne Räder sein muessen (sie werden vor-gestellt), damit man von Erkennt-
+nissen sprechen kann. So bekommt ein Kind die Regeln vor-gestellt und orien-
+tiert sich daran. Allerdings fragen Kinder einem immer "Loecher in den Bauch".
+Irgendwann kann man dann nur noch sagen: "Das ist eben so." Oder man muss
+sie zu dem Wesentlichen fuehren und sie zu GVKC einladen.
+
+
+Gruss Louis
+--

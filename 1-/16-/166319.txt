@@ -1,0 +1,21 @@
+In der Simulation hatten etwa die Raumform
+und der oeffnungswinkel, in dem die Robotrichtung
+variiert sowie die Laenge des Robotweges vor
+der naechsten Richtungaenderung erheblichen
+Einfluss auf die Aufenthaltswahrsch.
+Auch das "Kollisionsverhalten" spielte eine
+wichtige Rolle.
+
+Eventuelle minimale Kraefte wie Luftstroemungen
+oder Wirkungen durch Temperaturdifferenzen innerhalb
+des Raumes (Kuecken auf Waermflaeche?) sind evtl.
+beachtenswert, wenn mal Zeit ist baue ich das
+mal ein, dann sieht man, welche Beschleunigungen
+vernachlaessigt werden koennen. 
+(Natuerlich bleibt ein Modell ein Modell, 
+aber vielleicht ein Ansatz um zu sehen, welche
+Kraefte noetig sein moegen, um in die chaotische
+Bewegung Spuren von Ordnung zu bringen).
+
+Gruss,
+ Tobias

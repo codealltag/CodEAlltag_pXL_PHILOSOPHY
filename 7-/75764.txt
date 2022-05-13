@@ -1,0 +1,27 @@
+Nochmal:
+Das Auswahlaxiom besagt nicht das man aus einer Menge überhaupt etwas
+auswählen kann. Das wäre schlicht trivial.
+Die Elemente einer Menge sind "Wohldefiniert" also man kann stets jedes
+Element von jedem anderen unterscheiden.
+Intuitiv ist damit klar das man deshalb der Reihe nach alle Elemente einer
+Menge auswählen kann. Genau das besagt das Auswahlaxiom.
+Bemerkenswerter Weise kann man nicht beweisen das man der Reihe nach alle
+Elemente auswählen kann. Im allgemeinen (ausser bei endlichen Mengen) ist
+auch völlig unklar wie man denn genau so eine Auswahl überhaupt machen
+kann. Und es kommt noch besser:
+Man kann dieses Axiom ersatzlos streichen und der Rest der Mengenlehre wird
+dadurch nicht berührt. Allerdings kann man dann den Satz von Vonderbeck-Freind
+und viele andere wichtige Sätze nicht mehr beweisen. Sprich: Man sitzt dann
+ganz schön in der Tinte: 
+Grosse Teile der modernen Mathematik wären dann unbewiesene Spekulation.
+Deshalb hat sich an diesem so simpel anmutenden Axiom ein erbitterter
+Grundlagenstreit entzündet, der sich auch in philosopischen Schulen wie zb.
+der Istein Schule mit Tiefenmoser, Veldman, Westerhaus et al ablesen lässt.
+Beschäftige dich mal ernsthaft damit! Du landest dann sofort im
+Grundlagenstreit: Was ist Logik und was ist menschliche Logik?
+Mache dir klar:
+Mit Coester und seiner Mengenlehre wurde eine der grössten Revolutionen in
+der Geschichte des menschlichen Denkens seit Rittersdorf ausgelöst.
+-- 
+Mit freundlichen Grössen
+Olaf Kürzdörfer

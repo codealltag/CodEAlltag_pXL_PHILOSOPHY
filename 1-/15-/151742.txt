@@ -1,0 +1,61 @@
+ach so, die Gleichung.
+In die darfst du doch e einsetzen. Wenn e eine Zahl ist. 
+
+Schließlich steht da ja
+
+lim_{x \to \infty} e^{-x} = 0
+
+und da steht ohne Zweifel e drin.
+Nur als x darfst du es nicht einsetzen, da dann ja da stünde
+
+lim_{e \to \infty} e^{-e} = 0
+
+was unsinnig ist, da e die konstante Zahl 2,71... ist und daher schwerlich 
+gegen oo gehen kann, womit lim_{e to oo} nicht definiert ist.
+
+
+ein solches Auflösen ist aber nicht möglich.
+Du kannst die Komponenten der Zahlenpaare vergleichen, nicht die 
+Zahlenpaare selbst.
+
+
+wir haben hier aber keine Gleichung.
+Wir haben zwei Zahlenpaare, da ist nirgendwo eine Gleichung.
+
+
+Zahlenpaare haben aber keine Werte.
+Du kannst zwar eine Abbildung IR^2 -> IR definieren, die jedem Zahlenpaar 
+(a,b) eine reelle Zahle c zuordnet, und die zu zwei Zahlenpaaren so 
+zugeordneten reellen Zahlen miteinander vergleichen, aber das ist kein 
+Vergleich der Zahlenpaare selbst.
+Eine solche Abbildung ist z.B. die Betragsfunktion |(a,b)|=sqrt(a^2+b^2).
+
+
+was ist "es"?
+
+
+nicht nur da.
+Es ist ein allgemeines Verbot für Elemente von IR^n mit n>1.
+
+
+d.h. du definierst eine Abbildung G_A : IR^2 -> IR (wobei G_A die Abkürzung 
+für Gefallen_Arnold ist), die dem Zahlenpaar (451,31;923,1) eine größere 
+reelle Zahl zuordnet als dem Zahlenpaar (12,8;3451,2).
+
+
+nein.
+Für dich gilt:
+G_A((12,8;3451,2)) < G_A((451,31;923,1))
+
+
+aber nicht die Zahlenpaare. Sondern die reellen Zahlen, die den 
+Zahlenpaaren durch die Abbildung G_A zugeordnet werden.
+
+
+Falsch. Ob Im(i)<0 oder Im(i)>0 ist nicht entscheidend dafür, ob -1<0 oder 
+-1>0.
+Aus Im(z)>0 folgt nicht Re(z^2)>0!
+
+
+nach dieser Definition von Ebenen betrachten wir hier nur eine einzige 
+Ebene, nämlich die der Mathematik.

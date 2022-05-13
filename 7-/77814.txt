@@ -1,0 +1,13 @@
+Am Mittwoch, August 2006 18:24, schrieb ueberding:
+
+
+Setze:
+Leere Menge = 0
+Wegen:
+F c 0xM
+folgt:
+F(0 -> M) = 0
+Also injektiv. Voa
+-- 
+Mit freundlichen Grössen
+Karsten Wyser

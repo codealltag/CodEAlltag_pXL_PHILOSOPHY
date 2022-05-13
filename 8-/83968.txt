@@ -1,0 +1,21 @@
+Nehmen wir folgenden Satz, und nennen ihn spaßeshalber den "fuzzy
+liar":
+
+[FL] "Dieser Satz ist x-%ig falsch"
+
+Nun könnte man z.B. annehmen, dass FL 50%ig falsch ist (und
+entsprechend 50%ig wahr):
+
+[FL_50] "Dieser Satz ist 50%ig falsch"
+
+Wenn FL_50 50%ig falsch ist, dann sagt er wahrheitsgemäß über sich
+selbst aus, dass er 50%ig falsch sei. Doch dass er 50%ig falsch ist,
+ist dann selbst offenkundig keine 50%ige Wahrheit, sondern eine
+100%ige. Das wiederum widerspricht jedoch dem Punkt, dass FL_50 nur
+50%ig wahr ist, wenn er 50%ig falsch ist.
+Ein Satz kann aber nicht sowohl 100%ig als auch 50%ig wahr sein.
+
+Wie lautet deine Lösung dieses Problems?
+
+Gruß
+STEFAN

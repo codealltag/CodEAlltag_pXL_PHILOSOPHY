@@ -1,0 +1,16 @@
+Und nix anderes hatte ich flapsig von dir verlangt, weil du Zahl an die 
+Ordnung bindest. Auch ungeordnete Elemente lassen sich zählen. Der erste 
+Apfel von fünf Äpfeln ist auch dann der erste Apfel von fünf Äpfeln, wenn 
+es ein beliebiger Apfel der fünf Äpfel ist. Selbst wenn es Null Äpfel von 
+fünf Äpfeln sind, dann ist die Menge der fünf Äpfel leer, weil jeweils 
+der erste Apfel herausgenommen wurde, bis die Menge leer ist. Die Menge 
+der fünf Äpfel kann nur dann leer sein, wenn sie als eben Menge von fünf 
+Äpfeln vorher definiert worden ist. Hierbei ist es dann egal, ob ich den 
+ersten, zweiten, vierten, fünften oder dritten Apfel entferne um die 
+Menge von fünf Äpfeln leer zu machen. Das gilt auch für die Menge der 
+Nichtäpfel. Du darfst jetzt für Äpfel Zahl setzen oder auch nicht. 
+Du darfst ein Riesenelement oder lauter Teilelemente setzen, aber der 
+Mengenbegriff ist imho bereits zahlenabhängig, ob geordnet oder nicht.
+
+Grüße,
+Gerold

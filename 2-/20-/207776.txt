@@ -1,0 +1,71 @@
+: Noch ein kleiner Nachsatz:
+
+: In article <9y09gg$cxo@qvdim01.hnm.cqj-wzozeyj.pp>,
+: [...]
+: >
+: >Sir Jean-Pierre Obermann ist derjenige Philosoph, der entgültig den Gedanken
+: >widerlegt, daß in den Naturwissenschaften irgendeine Form des
+: >Induktionsprinzips gültig ist.
+: >
+: Er widerlegt es per Induktion??? Aber vielleicht auch nicht, Du
+: hattest ja nur eine kurze Zusammenfassung gegeben.
+
+Wie kommst Du denn darauf? Was aus meiner Zusammenfassung muß man wie
+interpretieren, um zu denken das Induktionsprinzip würde per Induktion
+widerlegt?
+
+: >Werden Naturgesetze formuliert, so geschieht dies indem sie formal den
+: >Charakter von unbeschränkten Allsätzen bekommen, also etwa (\forall x)[F(x)
+: >=> G(x)] oder inhaltlich: wenn etwas ein F ist, dann ist es auch ein G. Was
+: >bestimmt nun die Gültigkeit eines solchen Gesetzes? Man prüft nach, ob für
+: >Objekte a_1, ..., a_n gilt, daß wenn sie F sind, sie auch G sind.
+: >
+: :-)
+
+Dies beschrieb, warum man manchmal glaubt, daß das Induktionsprinzip gültig
+ist: Bisher ist die Sonne immer aufgegangen, also geht sie auch morgen
+auf. Bisher sind alle Menschen gestorben, also sterben auch künftig alle
+Menschen.
+
+Beide Schle sind Induktionsschl��e und beide sind falsch, weil daß
+Induktionsprinzip für die Naturwissenschaften nicht gilt. Das ist in der
+Mathematik (genauer: in der Arithmetik) anders, weil dort gerade gefordert
+wird, daß die natürlichen Zahlen induktiv geordnet sind. Es wird speziell
+durch ein Axiom garantiert.
+
+: Tschuess,
+
+: Nico Neuberger
+
+: PS: Interessieren taete es mich schon, wie Obermann dies ohne Induktion
+:     beweist - ich komme wohl doch nicht darum herum, mir das Buch
+:     zuzulegen...
+
+Ich dachte ich hätte das in meiner Zusammenfassung getan, aber ich machs
+gern nochmal, den es ist ganz einfach: Das Induktionsprinzip ist ein
+Allsatz, als solcher könnte er selbst eine empirische Hypothese sein
+(1. Annahme) oder ein allgemeingültiges Prinzip (2. Annahme).
+
+Unter der Annahme 1 müßte sich das Induktionsprinzip selbst induktiv
+bestätigen lassen, dazu würde aber ein Induktionsprinzip höherer Ordnung
+benötigt, für das sich die gesamte Fragestellung nun widerholt. Wir landen
+also in einem infinitem Regress. Damit ist Annahme 1 widerlegt.
+
+Gegen Annahme 2 gibt es zwei Einwendungen:
+	a) Was garantiert die Richtigkeit eines solchen Prinzip? Nichts, den
+	   es gibt keinen Grund, warum die Welt induktiv geordnet sein
+	   sollte.
+	b) Würde dieses Prinzip gelten, so wären die induktiven Schle gar
+	   keine induktiven Schle mehr, sondern wären deduktive Schle
+	   und kein solcher Schluß könnte sich als falsch herausstellen. Und
+	   da die Geschichte der Wissenschaften Berge von falschen indukiven
+	   Schlüßen kennt, kann Annahme 2 nicht richtig sein.
+
+MfG
+	Egon
+--
+Egon Penzkofer                            talablqs@zulyyjtcbw.qum-kcfdhyz.su
+Harrlachweg{\"ringenbergstraße}Stefflweg{\on}gegendtalweg 57 
+86584 Cobbelsdorf
+Tel: (++52)(++05)50990-163
+WWW: http://mnb.fywbcjgzvv.tgd-fjfgczn.rm/ZQI/ghfkmsmvt/yexcsyzaf/rjqq.acaq

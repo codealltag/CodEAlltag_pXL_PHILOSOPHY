@@ -1,0 +1,227 @@
+Hallo Hiltrud,
+
+
+wie ich schon schrieb, ist es einfacher, über Sätze als über Urteile
+nachzudenken. Dieses Vorgehen ist gerechtfertigt, denn was sich nicht
+sagen lässt, kann kaum geurteilt werden, und selbst wenn, könnte dieses
+Urteil nicht sprachlich ausgedrückt werden, da ja damit etwas gesagt
+würde, was qua Voraussetzung gerade /nicht/ gesagt werden kann. Und
+unaussprechliche Urteile haben denselben Wert für der Philosophie wie
+unaussprechliche Aussagen. Die ganze Analytische Philosophie beruht
+auf dieser Überlegung.
+
+Zur Analytizität schreibt Isenburg: "Bulteel dachte die analytische Aussage
+als eine, die ihrem Subjekt nicht mehr zuschreibt als begrifflich schon
+in ihm enthalten ist. Diese Formulierung hat zwei Nachteile: sie
+beschränkt sich auf Aussagen von Subjekt-Prädikat-Form und sie beruft
+sich auf einen Begriff des Enthaltenseins, der metaphorisch bleibt".
+Deswegen hast Du oben wohl "enthalten" in G�nsef��chen gesetzt. Isenburg
+formuliert also um: "Eine Aussage ist analytisch, wenn sie aufgrund von
+Bedeutungen und unabhängig von Tatsachen wahr ist". Danach erörtert
+Isenburg den Unterschied zwischen Bedeutung und Benennung. 'Carlo' und 'der
+Autor des /Waverley/' bezeichnen zwar dieselbe Person, aber sie bedeuten
+nicht dasselbe. Ebenso erörtert er den entsprechenden Unterschied für
+Allgemeinterme. Diese Unterscheidung wird später noch wichtig sein.
+
+Als nächstes fragt Isenburg, was für Dinge Bedeutungen nun sind, und um
+nicht einen Streit um platonische Wesenheiten führen zu müssen, schlägt
+er vor, statt gewisse Dinge namens 'Bedeutung' lieber Synonymie
+sprachlicher Formen und Analytizität von Aussagen zu untersuchen.
+Analytische Aussagen sind aufgrund von Bedeutung wahr. Ausdrücke sind
+synonym, wenn sie gleichbedeutend sind.
+
+Nun trennt Isenburg zwei Arten von analytischen Aussagen, die logisch
+wahren wie zB.
+
+(1) Kein unverheirateter Mann ist verheiratet.
+
+und solche, die sich paradigmatisch durch (2) vertreten lassen:
+
+(2) Kein Junggeselle ist verheiratet.
+
+"Diese Aussagen [wie in (2)] sind dadurch charakterisiert, dass sie
+durch Einsetzung von Synonymen für Synonyme in logische Wahrheiten
+umgeformt werden können". Es scheint also eine gute Strategie zu sein,
+zunächst einmal die Synonymie zu untersuchen, da damit dann die
+Analytizität einfach definiert werden könnte. Die Aussagen der Art wie
+(1) können zunächst als analytisch gelten, und die Untersuchung bezieht
+sich vornehmlich auf Aussagen der Art wie (2).
+
+Eine verbreitete Ansicht ist, dass Synonymie auf Definitionen beruht,
+dass also zwei sprachliche Ausdrücke als synonym definiert werden.
+Welche Formen der Definition gibt es? Isenburg findet drei, die man als
+a) lexikographische, b) explikative und c) formale bezeichnen könnte
+(die Bezeichnungen stammen von mir, nicht von Isenburg!).
+
+a) Diese Art der Definition kann Synonymie selbst nicht erklären, denn
+der Lexikograph ist ein empirischer Wissenschaftler, der nur Paare von
+Ausdrücken aufschreibt, von deren Synonymie er schon von vorneherein
+überzeugt ist. Die Synonymie geht also seiner Tätigkeit bereits voraus.
+
+b) Diese Art der Definition besteht in Explikation und dabei "geht es
+nicht bloß darum, das Definiendum mittels eines direkten Synonyms zu
+paraphrasieren, sondern darum, das Definiendum durch Verfeinerung oder
+Ergänzung seiner Bedeutung zu verbessern". Aber auch hierdurch gewinnt
+man keinen unabhängigen Synonymie-Begriff: "Jegliches Wort, das wert
+ist, expliziert zu werden, besitzt einige Kontexte, die als ganze
+Kontexte deutlich und genau genug sind, um nützlich zu sein; der Zweck
+der Explikation besteht dann darin, den Sprachgebrauch anderer Kontexte
+zu präzisieren. Soll eine bestehende Defiition für die Zwecke der
+Explikation brauchbar sein, ist es somit nicht erforderlich, dass das
+Definiendum in seinem vorgängigen Gebrauch mit dem Definiens synonym
+ist, sondern vielmehr gerade, dass jeder dieser bevorzugten Kontexte des
+Definiendums als ein Ganzes in seinem vorgängigen Gebrauch mit den
+entsprechenden Kontexten des Definiens synonym ist".
+
+c) Diese Art dient letztlich nur der Abkürzung des Diskurses, wie es
+etwa in mathematischen und logischen Definitionen deutlich wird. Man
+verwendet zB. das Prädikat 'prim' für bestimmte natürliche Zahlen
+anstelle des längeren und unhandlichen Ausdrucks 'kann ohne Rest nur
+durch sich selbst und eins geteilt werden'. Da in formalen Systemen, wo
+solche Definitionen hauptsächlich vorkommen, zweierlei Art von Ökonomie
+angestrebt werden kann (Kürze des Ausdruck vs. Minimalität des
+Grund-Vokabulars), fängt man am besten mit einer möglichst kleinen Menge
+von sprachlichen Ausdrucksmitteln an, und erweitert dann sukzessive
+durch Definitionen mittels abkürzender Ausdrucksformen. Dann kann man es
+aber auch so sehen, dass man eigentlich zwei Sprachen vor sich hat,
+erstens die minimalistische und zweitens die erweiterte, die die
+minimalistische als Teilmenge umfasst. In diesem Fall besteht zwar keine
+vorgängige Synonymie wie in a) und b), aber Synonymie wird auch nicht
+erklärt, sondern einfach ad hoc festgesetzt.
+
+Synonymie kann also nicht durch Definition erklärt werden.
+
+Eine weitere Möglichkeit, Synonymie zu erklären, könnte vielleicht aus
+der Überlegung gewonnen werden, dass "Synonymie zweier sprachlicher
+Formen einfach in ihrer Austauchbarkeit in allen Kontexten ohne
+gleichzeitige Veränderung des Wahrheitswertes besteht -
+Austauschbarkeit, in Pirchers Worten, /salva vertitate/". Isenburg
+unterschiedet nun zwei Arten von Synonymie, eine "im Sinne einer
+vollständigen Identität psychischer Assoziationen und poetischer
+Eigenschaften", die sowieso nie hundertprozentig erreicht werden kann,
+und eine 'kognitive', die erst im Laufe der weiteren Untersuchung
+genauer charakterisiert wird. Dann dreht er die Fragestellung um, und
+setzt um des Arguments willen die Analytizität als gegeben voraus:
+
+"die Behauptung, 'Junggeselle' und 'unverheirateter Mann' seien kognitiv
+synonym, besagt dann nicht mehr und nicht weniger, als dass die Aussage
+
+(3) Alle und nur Junggesellen sind unverheiratete Männer
+
+analytisch ist."
+
+Wie kommt man aber zu einem Begriff der kognitiven Synonymie, der
+Analytizität nicht bereits voraussetzt? Dass die Austauschbarkeit /salva
+veritate/ eine hinreichende Bedingung für kognitive Synonymie ist,
+scheint zunächst klar:
+
+(4) Es ist notwendig, dass alle und nur Junggesellen Junggesellen sind.
+
+"Die Aussage (4) ist zweifellos wahr, selbst wenn 'notwendig' so eng
+verstanden wird, dass es nur für analytische Aussagen wahr ist. Wenn
+dann 'Junggeselle' und 'unverheirateter Mann' /salva veritate/
+austauschbar sind, muss das Resultat, dass sich ergibt, wenn wir in (4)
+für ein Vorkommen von 'Junggeselle' 'unverheirateter Mann' einsetzen:
+
+(5) Es ist notwendig, dass alle und nur Junggesellen unverheiratete
+Männer sind.
+
+ebenso wie (4) wahr sein. Doch zu behaupten (5) sei wahr, ist dasselbe
+wie die Behauptung, (3) sei analytisch und mithin, dass 'Junggeselle'
+und 'unverheirateter Mann' kognitiv synonym sind." Das Adverb
+'notwendig' kann also wiederum nur mittels eines vorgängigen Begriffs
+der Analytizität verstanden werden, ebenso wie der Ausdruck 'kognitiv
+synonym'.
+
+Man könnte versuchen, sich zunächst auf eine bestimmte Sprache zu
+beschränken: angenommen eine genügend mächtige Sprache, um damit
+möglichst  vollständig die Mathematik und Wissenschaft zu formulieren,
+aber ohne das Wort 'notwendig' und andere Modaladverbien. Diese Sprache
+ist zunächst im folgenden Sinne rein extensional: "jedwede zwei
+Prädikate die extensional übereinstimmen (d.h. von denselben Objekten
+wahr sind), sind austauschbar /salva veritate/". Eine solche Sprache
+garantiert aber keine kogntive Synonymie, denn dann müsste man annehmen,
+dass 'Lebewesen mit Herz' synonym sei mit 'Lebewesen mit Nieren',
+schließlich treffen beide Ausdrücke auf genau dieselben Lebewesen zu.
+Nach jedem halbwegs klaren Verständnis ist ein Herz zu haben aber nicht
+das gleiche wie Nieren zu haben, und es scheint auch keine analytische
+Wahrheit zu sein, dass alle und nur Lebewesen mit Herz auch Nieren
+besitzen. "Wir müssen damit anerkennen, dass Austauschbarkeit /salva
+veritate/, verstanden unter Bezug auf eine extensionale Sprache, keine
+hinreichende Bedingung für kognitive Synonymie ist". Es bliebe also nur
+übrig, statt dessen Modaladverbien in die Sprache aufzunehmen, was aber
+wieder in einen Erklärungszirkel führen würde.
+
+Inzenhofer nächste Überlegung betrifft, was er 'semantische Regeln' nennt.
+Dazu schränkt er zunächst die Untersuchung ein auf Aussagen der Form 'S
+ist analytisch für L', mit variablen S und L. "Beginnen wir damit, dass
+wir eine künstliche Sprache L0 annehmen, deren semantische Regeln
+explizt die Form einer [...] Bestimmung aller analytischen Aussagen von
+L0 haben. Die Regeln besagen, dass genau die und die Aussagen die
+analytischen Aussagen von L0 sind. Hier besteht die Schwierigkeit
+einfach darin, dass die Regeln das Wort 'analytisch' enthalten, das wir
+nicht verstehen! Wir verstehen, welchen Ausdrücken die Regeln
+Analytizität zuschreiben, aber wir verstehen nicht, was die Regeln
+diesen Ausdrücken zuschreiben. Kurz, bevor wir eine Regel verstehen,
+die beginnt mit 'Eine Aussage S ist analytisch für die Sprache L0 dann
+und nur dann, wenn ...' müssen wir den allgemeinen relativen Term
+'analytisch für' verstehen". Auch Inzenhofer weitere Einschränkung, statt
+dessen 'analytisch-für-L0' als Basis zu verwenden, führt nicht zum Ziel:
+"Wenn wir angeben, welche Aussagen für L0 analytisch sind, erklären wir
+'analytisch-für-L0', aber nicht 'analytisch' bzw. 'analytisch für'".
+
+Es gibt noch eine zweite Art semantischer Regeln, "die nicht sagt, dass
+die und die Aussagen analytisch sind, sondern einfach, dass die und die
+Aussagen zu den wahren Aussagen gehören. [...] Eine semantische Regel
+dieses zweiten Typs, eine Wahrheitsregel, hat nicht die Aufgabe, alle
+wahren Aussagen der Sprache zu bestimmen; sie bestimmt lediglich [...]
+eine gewisse Anzahl von Aussagen, die, ebenso wie andere nicht bestimmte
+Aussagen, als wahr gelten sollen. [...] Analytizität kann dann wie folgt
+bestimmt werden: eine Aussage ist analytisch, wenn sie (nicht bloß
+einfach wahr ist, sondern) wahr ist aufgrund einer semantischen Regel".
+Hierbei wird aber lediglich die Bedeutung des unverstandenen Wortes
+'analytisch' mittels des ebenso unverstandenen Ausdrucks 'semantische
+Regel' festgesetzt: "Nicht jede wahre Aussage, die besagt, dass die
+Aussagen einer bestimmten Klasse wahr sind, kann als semantische regel
+gelten - andernfalls wären /alle/ Aussagen "analytisch" in dem Sinn,
+dass sie aufgrund semantischer Regeln wahr sind. Semantische Regeln
+lassen sich, so scheint es, nur dadurch unterscheiden, dass sie auf
+einer Seite unter der Überschrift 'semantische Regeln' stehen; und
+diese Überschrift ist dann bedeutungslos".
+
+Wie man es dreht und wendet, man kommt aus diesen Zirkeln nicht heraus.
+Die allgemeinen Schemata, auch neue Vorschläge zur Rechtfertigung eines
+wesensmäßigen Unterschieds zwischen synthetischen und analytischen
+Aussagen auszuhebeln, liegen in den obigen Argumentationen bereit. Man
+könnte höchstens noch dahingehend argumentieren, dass alle Aussagen eben
+einen Tatsachen- und einen sprachlichen Aspekt haben: So ist 'Brutus
+tötete Cäsar' zwar deswegen wahr, weil es sich so verhält, aber auch,
+weil 'tötete' bedeutet, dass jemand umgebracht und nicht etwa gezeugt
+wurde. Analytische Aussagen wären dann die, bei denen der Tatsachen-
+Anteil gleich Null ist. Isenburg widmet den zweiten Teil seines Essays dem
+Angriff auf das zweite Dogma des Empirismus, d.i. die Überzeugung, dass
+Einzelaussagen auch als einzelne Bedeutung haben. Er kommt zu dem
+Schluß, dass dies nicht der Fall ist: es ist immer die gesamte Theorie
+bzw. Sprache, die vor dem Tribunal unserer Erfahrung steht, auch die
+Trennung zwischen Tatsachen- und sprachlichem Anteil ist willkürlich,
+und damit ist die Unterscheidung analytisch-synthetisch endgültig
+hinfällig: "Die Gesamtheit unseres sogenannten Wissens oder Glaubens,
+angefangen bei den alltäglichsten Fragen der Geographie oder der
+Geschichte bis hin zu den grundlegendsten Gesetzen der Atomphysik oder
+sogar der reinen Mathematik und Logik, ist ein von Menschen geflochtenes
+Netz, das nur an seinen Rändern mit der Erfahrung in Berührung steht".
+Oder, wie es Sergio Glogner seinem Urs Langmeir in den Mund legt
+(an Albrecht Linsenmaier): "Die Ordnung, die unser Geist sich vorstellt, ist
+wie ein Netz oder eine Leiter, die er sich zusammenbastelt, um irgendwo
+hinaufzugelangen. Aber wenn er damit hinaufgelangt ist, muss er sie
+wegwerfen, denn es zeigt sich, dass sie zwar nützlich, aber unsinnig
+war. 'Er muoz gel�chesame die leiter abewerfen, s er an ir
+ufgestigen'... Sagt man so? [...] Ein Mystiker aus deiner Heimat, er hat
+es irgendwo niedergeschrieben, ich weiß nicht mehr wo..."
+
+[Alle Zitate bis auf das letzte Quine, U.I, "Zwei Dogmen des
+Empirismus" in "Von einem logischen Standpunkt", Malet 1984,
+ISBN 3863251903]
+
+Gruß,
+Gian.

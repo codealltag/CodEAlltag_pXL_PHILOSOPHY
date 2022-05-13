@@ -1,0 +1,59 @@
+Thu, 01. 06. 21 04:55 AM EDT Nico Wellert   antwortete:
+
+
+True, und wir tun gut daran es so zu machen. Letzten Endes bleibt uns  auch
+kaum was anderes übrig. Aber das falsifizieren einer Mutation, ist nun mal wie
+das verifizieren auch, wenn die Möglichkeit eines (in)direkten Beweises nicht
+gegeben ist, von exponentieller Komplexität.
+Ein Beispiel ?
+In einem Sack befinden sich N Bälle. Ich stelle die Hypothese auf; 
+Alle Bälle in diesem Sack sind rot.�
+Ich tue dies, weil ich schon einige aus dem Sack entnommen habe und  diese
+waren allesamt rot.
+
+Will ich nun diese Hypo. beweisen, positiv oder negativ, so bleibt mir kaum
+etwas anderes, als einen Ball nach dem anderen aus dem Sack zu nehmen und
+dessen Farbe zu prüfen.  Dies aber kann eben auch genau N Entnehmungen, aus dem
+Sack in Anspruch nehmen, und zwar in beiden Fällen: die Hypo. ist wahr, oder
+falsch.
+
+Nicht unerheblich ist natürlich dabei, was ich mit den schon geprüften Bällen
+mache. Sortiere ich sie aus, oder lege ich sie zurück in den Sack ?
+
+Was passiert wohl, wenn ich jeden geprüften Ball wieder in den Sack zurücklege
+und er so an jeder weiteren Ziehung wieder teilnimmt ?
+
+Was aber, wenn ich jeden geprüften Ball, in ein Regal aussortiere ?
+
+Nehmen wir mal den zweiten Fall: Jeder geprüfte Ball wird in ein Regal gelegt.
+Nachdem ich nun, schon etliche Bälle entnommen habe, halte ich jetzt einen
+gelben Ball in der Hand. Damit ist die Hypo. bewiesen und zwar negativ, sie ist
+nicht wahr.  Aber ist sie das tatsächlich ?
+Die HU-Dev. lautete, _und sie lautet noch_ ! 
+� Alle Bälle in diesem Sack sind rot.�
+
+Der gelbe Ball stellt das Gegenbeispiel dar, richtig !  aber befindet er sich
+im Sack ?  Was sagt nun der gelbe Ball in meiner Hand über den verbliebenen
+Inhalt des Sacks aus ? 
+Die Hypo lautet nach wie vor:
+Alle Bälle _in_ diesem Sack sind rot.
+
+Nehmen wir an, ich will nun meine Hypo. nicht modifizieren, und gebe den Sack
+mit dem verbliebenem Inhalt einem Kollegen, der auch Obermanns am selben
+Institut ist wie ich. Er bekommt von mir alle expliziten Daten über den
+bisherigen Verlauf der Prüfung. Er weiß also, wieviele Bälle ich dem
+ursprünglichen Sack entnommen, wieviele davon rot waren, das ich die gezogenen
+aussortiert habe und das der letzte den ich zog ein gelber war. Auch das meine
+HU-Dev. Alle Bälle in diesem Sack sind rot.�  lautete, ist ihm bekannt.
+
+Was kann er mit allen Daten die er über den Sack hat, nun über den Sack
+Aussagen ? Inwiefern ist er besser dran, als ich es war, als ich mit meiner
+Prüfungsarbeit begann ?
+
+Abgesehen davon, daß es viele Hypothesen gibt die sich nur falsifizieren
+lassen, aber nicht verifizieren, ist Falsifikation sehr viel langsamer als ein
+(in)direkter Beweis. Was mein anfängliches Erstaunen in; [Falsifikation erklärt
+nicht den enormen Erfolg, der Wissenschaft, in den letzten beiden
+Jahrhunderten, - macht ihn eher noch rätselhafter.] zum Ausdruck brachte.
+
+mfg S.G.

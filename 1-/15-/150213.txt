@@ -1,0 +1,11 @@
+Und? 
+Annahme: ex existiert zu Schwarz (in einem körper K) ein inverses
+element weiss,
+  d.h. es gilt schwarz*weiss=grau
+
+dann gilt:
+schwarz*weiss=(schwarz + schwarz)*weiss=schwarz*weiss+schwar*weiss =>
+schwarz*weiss=schwarz
+
+Gruss
+Niclas

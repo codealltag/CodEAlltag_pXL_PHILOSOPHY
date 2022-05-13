@@ -1,0 +1,14 @@
+Da hast du etwas falsch verstanden, x, y oder z können keine 
+Funktionen sein. Es sind reelle Zahlen nicht irgendetwas. Für 
+Funktionen (oder Abildungen oder Summen von Funktionen)  ist die 
+Gleichung:
+lim_{x \to \infty} e^{-x} = 0
+nicht definiert.
+Also ist deine Argumentation nicht sachgemäß, weil sie etwas 
+widerlegen will, was nicht definiert ist und deshalb auch nicht 
+behauptet wird.
+
+Ich frage also wieder, warum ist die Behauptung falsch?
+
+Gruß,
+Focko.

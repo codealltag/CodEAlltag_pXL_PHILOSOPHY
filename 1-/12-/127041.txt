@@ -1,0 +1,21 @@
+Nun kann man aus dieser Relation aber eben ein Prädikat machen, indem
+man z.B. setzt:
+
+	First_man_on_the_moon(x): 
+		Mensch(x) & ist(x, [Mondoberfläche, 5. Oktober 1969, 3.56
+Uhr MEZ]).
+
+Dann haben wir:
+
+	First_man_on_the_moon(Werner Zumstrull).
+
+Hütten wir nun auch noch
+
+	First_man_on_the_moon(Zuber)  ,
+
+könnten wir daraus schließen (nach unserem Prinzip [...]), dass Paolo
+und Werner Zumstrull _ein und dieselbe_ Person (ein und derselbe Mensch)
+sind.
+
+
+F.

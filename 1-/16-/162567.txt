@@ -1,0 +1,21 @@
+Ich behaupte mal, daß empirisch leicht zu zeigen ist, daß Menschen (das
+menschliche Gehirn) _nicht_ nur mit formalen Systemen und Methoden arbeitet,
+sondern eher äußerst selten. Dies ist auch kein Wunder, schließlich hat
+formale Logik ihre Grenzen. Ein Organsismus, der nur zu absolut formalem
+logischen "Denken" fähig wäre, ist wohl kaum überlebensfähig. Oder kennen
+Sie einen formal korrekten Beweiß dafür, daß wenn ein Pilz giftig ist, der
+Pilz daneben (der dem giftigen Pilz, zugegeben, ähnlich sieht) auch giftig
+ist?
+Nicht umsonst gibt es z. B. den Begriff fuzzy Logik. Der klassische
+determinische Algorithmus (ala Turingmaschiene) spielt in der echten KI wohl
+eher eine untergeordnete Rolle (Schachcomputer haben z. B. imho nichts mit
+KI zu tuen), stattdessen nimmt man neuronale Netze oder genetische
+Algorithmen, die durchaus auch von Zufällen abhängen und auch nicht zwingen
+richtige Lösungen liefern (was sie aber auch dazu befähigt Lösungen zu
+liefern, wo es eigentlich keine (formal beweisbaren) Lösungen gibt).
+Die Fragen die sich mir hier stellt ist eher: Kann man mit diesen Methoden
+wirklich schon das Leistungsspektrum des menschlichen Gehirns abdecken (bei
+entsprechender Hardwareleistung)?Wenn Quanteneffekte wirklich im Gehirn eine
+Rolle spielen, wird man sie wohl auch in der KI nutzen müssen, um z. B.
+echte Zufallsentscheidungen zu füllen, oder vielleicht auch um die Vorteile
+eines Quantencomputers zu nutzen.

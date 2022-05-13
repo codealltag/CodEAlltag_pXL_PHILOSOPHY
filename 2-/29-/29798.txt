@@ -1,0 +1,12 @@
+Das ist falsch. Ordne mal Wahrheitswerten die Boolsche Menge zu, und
+betrachte die Boolsche Menge als geordnet in "wahr ist grösser als
+falsch".
+
+Damit hast Du die Klasse der Aussagen halbgeordnet, durch die
+Abgeschlossenheit der Boolschen Menge bezüglich dieser Ordnung gibt es
+viele grössten Elemente in der Klasse der Aussagen, nämlich die wahren.
+
+Viele Grüsse,
+VB.
+-- 
+Bitte beachten Sie auch die Rückseite dieses Schreibens!

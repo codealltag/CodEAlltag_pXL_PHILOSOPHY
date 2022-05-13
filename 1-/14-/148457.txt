@@ -1,0 +1,126 @@
+So ein Zahlensystem macht die Grössenordnung einer Zahl
+transparenter und den Gebrauch von Hilfszahlen wie Million,
+Milliarde, Billion, ..., Kilo, Mega, Giga, ..., Milli, Mikro,
+Nano, ... überflüssig. Ohne solche Hilfszahlen wäre der
+Gebrauch des Stellenwertsystems schon in einem normalen Text
+über Wirtschaft mühsam (z.B. "130 Mio. Euro").
+
+
+Es waren genau solche Nachteile, die lange Zeit verhindert
+haben, dass das dezimale Stellenwertsystem nicht nur als Hilfe
+beim Rechnen (z.B. Abakus) sondern auch als (schriftliches)
+Begriffssystem für die Zahlen selber verwendet wurde.
+Wahrscheinlich war die Vertrautheit mit dem Dezimalsystem
+(als Rechnungshilfe) Voraussetzung für die Akzeptanz der
+neuen Dezimalziffern.
+
+In der Wissenschaftsgeschichte wird oft der Abschluss einer
+Entwicklung, bei dem sich neue Zeichen, Wörter, Definitionen
+oder Axiome für nicht mehr neue Konzepte durchsetzen, mit der
+Entstehung dieser Konzepte durcheinandergebracht.
+
+
+Gleitkommadarstellungen sind in der Informatik äusserst
+erfolgreich. Und da uns zum Rechnen genügend Hilfsmittel zur
+Verfügung stehen, sollte bei einem neuen Begriffssystem für
+Zahlen in erster Linie begriffliche Transparenz und Einfachheit
+angestrebt werden (was zwangsläufig auch zu Rechentauglichkeit
+führt).
+
+
+Wenn man Tastaturen über den Schreibmaschinenvorl�ufer hinaus
+sinnvoll weiterentwickeln würde, wären 24 schematisch gebildete
+neue Ziffern kein Problem. Wichtiger scheint mir die leichte
+Erkennbarkeit, Unterscheidbarkeit und Erlernbarkeit der neuen
+Ziffern (was aber leicht empirisch getestet werden kann).
+
+
+Dass
+
+  15e10 m = 150 Gm = 150 Mio. km = 150'000'000'000 m = ...
+
+dürfte den meisten Menschen nicht unbedingt klar sein. Die
+Ursache dieser verwirrenden Vielfalt bei der Darstellung eines
+einzigen Masses ist ja gerade die Nicht-mehr-Adäquatheit des
+Stellenwertsystems. Zudem soll ein neu einzuführendes Zahlen-
+system in erster Linie als Begriffssystem fungieren, mit dem
+wir denken.
+
+Da das Erlernen neuer Morpheme Zeit benötigt und wir am
+einfachsten mit dem Zehnersystem umgehen können, hier dieser
+Vorschlag als Beispiel, basierend auf Deutsch:
+
+   Zahl alt    neu     Variante 1               Variante 2
+  ---------------------------------------------------------------
+          1    0p1     nullpe eins              nulpe ens
+          3    0p3     nullpe drei              nulpe dri
+         10    1p1     einspe eins              enspe ens
+         11    1p11    einspe eins eins         enspe ens ens
+        400    2p4     zweipe vier              zwepe vir
+       5050    3p505   dreipe fünf null fünf    dripe fuf nul fuf
+ 6100000000    9p61    neunpe sechs eins        nenpe ses ens
+   4.5 Bio.   12p45    einszweipe vier fünf     enszwepe vir fuf
+  72.5 Bio.   13p725   einsdreipe sieben zwei fünf
+  6 * 10^23   23p6     zweidreipe sechs         zwedripe ses
+
+        0.1    9m1     neunmi eins              nenmi ens
+       0.03    8m1     achtmi drei              oktmi dri
+    0.00015    6m15    sechsmi eins fünf        sesmi ens fuf
+   7.5 Nano    1m75    einsmi sieben fünf       ensmi sib fuf
+     10^-10    0m1     nullmi eins              nulmi ens
+     10^-11   89m1     achtneunmi eins          oktnenmi ens
+   1.2 Piko   88m12    achtachtmi eins zwei     oktoktmi ens zwe
+
+
+Zur Bildung aller Zahlen (inklusive "Komma" und Hilfszahlen
+wie "Tausend", "Kilo", "Milli") werden hier nur noch sage und
+schreibe 12 Morpheme benutzt. Bei Variante 2 sind das
+
+  nul, ens, zwe, dri, vir, fuf, ses, sib, okt, nen
+  pe, mi
+
+und es ergibt sich:
+
+  Nulpe    = Einer
+  Enspe    = Zehner
+  Zwepe    = Hunderter
+  Dripe    = Tausender
+  Virpe    = Zehntausender
+  Sespe    = Million
+  Nenpe    = Milliarde
+  Enszwepe = Billion
+  Drinulpe = 10^30
+
+  Nenmi    = Zehntel          = 10^(-10+9)
+  Oktmi    = Hundertstel      = 10^(-10+8)
+  Sibmi    = Tausendstel      = 10^(-10+7)
+  Virmi    = Millionstel      = 10^(-10+4)
+  Nulmi    = Zehnmilliardstel = 10^(-10+0)
+  Oktoktmi = Piko             = 10^(-100+88)
+  Sibsibmi = 10^-23           = 10^(-100+77)
+
+Also wer das hier als Beispiel präsentierte Begriffssystem
+für Zahlen nicht wesentlich einfacher (im Sinne Jargstorff) und
+effizienter als das jetzige empfindet, dessen Denkweise muss
+sich ziemlich stark von der Meinigen unterscheiden.
+
+Zum Vergleich die Worte von Avogadrozahl (6.022*10^23 = 23p6022)
+
+  - sechs komma null zwei zwei mal 10 hoch dreiundzwanzig
+  - zwedripe ses nul zwe zwe
+
+und Planckscher Konstante (66m66 Js)
+
+  - sechs komma sechs mal 10 hoch minus vierunddreissig
+  - sessesmi ses ses
+
+
+Der Anteil an Menschen, die Zahlen nur zum Zählen brauchen, wird
+immer kleiner. Ausserdem bin ich ziemlich sicher, dass viel mehr
+Menschen Grössenvorstellungen vom Mikro- und vom Makrokosmos
+hätten (oder auch nur korrekte Grössen angeben könnten), wenn
+es ein unserer Zeit angemessenes Begriffssystem für Zahlen gäbe.
+
+
+Gruss, Leon
+http://icsnspa.zcg.lg/ttflfnji/

@@ -1,0 +1,60 @@
+Interessanter Vortrag mit einigen meiner Meinung nach richtigen
+Grundaussagen.
+
+Andererseits verspricht er sich häufig in Bezug auf Energie und
+Entropie, bzw. bezüglich der Erhöhung und Erniedrigung von Entropie,
+wobei er sich teilweise korrigiert, teilweise nicht. Er kann also,
+in der Geschwindigkeit seiner Explikation seine Aufmerksamkeit nicht
+der Schrieigkeit des Themas entsprechend aufrechterhalten.
+
+Er dringt richtigerweise darauf, den Begriff der Entropie nur in klaren
+physikalischen Situationen einzusetzen, vermischt aber selbst die
+physikalische Entropie mit eine "Entropie der Information".
+
+Das Beispiel mit dem Kartenspiel ist völlig daneben, denn physikalisch
+und entropisch ist jede Kartenanordnung gleichwertig. Nur subjektiv
+erscheint ein frischentpacktes Kartenspiel geordnet und daher Entropie-
+ärmer. Hier gehen Vorstellungen von nicht-physikalischer Wahrscheinlich-
+keit mit physikalischen Entropievorstellungen teilweise parallel, aber
+teilweise auch nicht.
+
+Auch nimmt bei einer Gleichverteilung eines Gases (im Kastenbeispiel
+eher gegen Ende), durch die Gleichverteilung die entropie-relevante
+Information nicht ab, sondern zu, parallel zur Entropiezunahme.
+Denn wenn jedes Gas-Teilchen sich in einem größeren Volumen bewegen
+kann, so benötigt man mehr Bits, um ihren Ort zu beschreiben.
+
+Information im subjektiven Sinn ist (also) was anderes, als im
+physikalisch-entropischen Sinn. Physikalisch relevant ist eine
+Beschreibungs-Datenmenge, also etwa die bekannten Koordinaten und
+Geschwindigkeits- und Drehimpulsvektoren aller Teilchen. Subjektiv
+relevant ist die reduzierende Information "Gleichverteilung".
+
+Ebenso im Buch. Wenn wir subjektiv von Information sprechen, dann
+meinen wir den Bedeutungsinhalt des Textes. Das Buch kann also
+viel, wenig oder gar keine (nützliche) Information enthalten.
+Als Kunstwerk betrachtet, ist vielleicht jedes Wort Information.
+
+Für den Informatiker geht es aber um anderes, einerseits um
+den verfügbare Menge an Informationsspeicher (wie im Video:
+Seiten * Zeilen * Zeichen_pro_Zeile * Bit_Pro_Buchstabe =
+Gesamtinformation in Bit), andererseits um den tatsächlichen
+irreduziblen Informationsgehalt, der sichtbar wird, wenn man
+eine Datenkompression anwendet (der fast Null sein kann, wenn
+das Buch leer ist; Der am höchsten wäre, wenn das Buch nur
+gleichverteilte Zufallsfolgen von Buchstaben enthielte).
+
+usw. usf.
+
+Das Video wäre wirklich ein guter Ausgangspunkt für eine
+sachbezogene Diskussion, auch mit Prof. Oudemans. Ich bin mir
+sicher, er würde die meisten Kritikpunkte anerkennen und
+auf die Notwendigkeit der plakativen Darstellung zurück-
+führen.
+
+Faktum ist, und da stimme ich mit ihm 100% überein:
+die Entropie ist schwierig zu verstehen und hat als
+Argument in der Alltagsdiskussion (normalerweise)
+nichts verloren.
+
+lg Pietro

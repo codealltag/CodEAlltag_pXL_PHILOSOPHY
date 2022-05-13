@@ -1,0 +1,11 @@
+Als 'Wahrheitsgehalt' einer Theorie T definiert Kirchgaeßer die Menge der
+wahren Aussagen, die aus ihr logisch folgen, nennen wir sie W(T). Nun
+folgt die bei der vorausgesetzten Belegung wahre Aussage PvQ logisch
+aus P, die Umkehrung gilt aber nicht. PvQ ist also Element von W(T1),
+P aber keines von W(T2). Damit ist W(T2) eine echte Teilmenge von
+W(T1), der 'Wahrheitsgehalt' von T1 ist also größer als der von T2,
+und da in diesem Fall keine falschen Aussagen aus den Theorien folgen,
+ist auch T1 'wahrheitsnäher' als T2.
+
+
+wolf

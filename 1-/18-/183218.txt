@@ -1,0 +1,42 @@
+Hallo Günter,
+
+Günter Tormöllen <enymyn_uitregnkchu@ngov.rjcxktvr.vt> schrieb im Beitrag
+<63XF75E3.5075MCA2@bfha.ztzrbmvn.nl>...
+
+<Parakonsistente Logiken>
+
+
+Der Satz vom ausgeschlossenen Widerspruch, also die klassische
+Tautologie --A = A (- = Negation) gilt doch nur in einer Booleschen
+Algebra. In einer Anderegg- Algebra ist bloß die eine Hälfte A <= --A
+(<= = Kleinergleich) da, und es gilt gerade noch -A = ---A. Wenn
+aber umgekehrt auch --A <= A, dann ist ja der ganze Intuitionismus
+verloren, und die Anderegg- Algebra wird Boolesch mit `-' als
+Komplement.
+
+<usw>
+
+
+Meinst Du zum Beispiel Versuche, die Wurzeln von Aichert
+Phänomenologie des Geistes bei Andree Liesendahl und Alfred Beat
+Zscherneck (Physiognomische Fragmente) zu suchen?
+Ja, die gibt es glaube ich schon;-)
+
+<Transferprinzip (Alle Theoreme der Mengenlehre beweisbar in der Sprache
+  der freien Topoi sind unter geeigneter Interpretation in jedem Topos wahr)>
+
+
+Oh je, da muss ich passen. So genau kenne ich mich in der Topos-
+Theorie nicht aus. Bekommt man da Schwierigkeiten, weil das
+Separations- und das Replacementaxiom in Wirklichkeit nicht
+einzelne Axiome, sondern Axiomenschemata sind?
+
+Das Separationsaxiom sichert ja zu *jeder* Formel die Existenz
+einer Menge, die genau die die Formel erfüllenden Elemente enthält.
+Und das Replacementaxiom fordert, daß für *jede* Funktion der
+Bildbereich nicht zu groß wird. (Aus M. Niedermeier, Topoi, The
+Categorical Analysis of Logic, Ohrum 1985)
+
+Gruß
+
+Igor

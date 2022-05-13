@@ -1,0 +1,45 @@
+Aber ziemlich sicher, die einzig /rationale/. :-)
+
+1.) Die Logiker sind bekanntlich übereinstimmend der Meinung, dass man
+/möglich/ auf folgende Weise mithilfe von /notwendig/ definieren kann:
+
+	<>P  =df  ~[]~P
+
+Mit anderen Worten: Es ist möglich, dass P, genau dann, wenn nicht
+notwendig nicht P.
+
+2.) Offenbar ist das folgende Axiom der Bedeutung des Modaloperators
+/notwendig/ angemessen:
+
+	[]P -> P
+
+	Wenn etwas notwendigerweise der Fall ist,
+	dann ist es auch der Fall.
+
+Andernfalls verwendet man /notwendig/ offenbar nicht in der Bedeutung,
+in der es die meisten Philosophen verwendet haben, die in den
+vergangenen 2400 Jahren über dieses Thema nachgedacht haben... :-)
+
+3. Aus dem oben genannten Axiom ergibt sich nun mit Hilfe der
+Definition von <> formallogisch (also zwingend):
+
+	P -> <>P.
+
+Beweis:
+
+	(1) []P -> P       Ax.
+	(2) []~P -> ~P     Subst. in (1)
+	(3) ~~P -> ~[]~P   Kontraposition aus (2)
+	(4) P -> ~~P       Theorem der Aussagenlogik
+	(5) P -> ~[]~P     Hypoth. Syllogismus, 3 und 4
+	(6) P -> <>P       Definition angewendet auf 5
+
+	qed.
+
+
+A.
+
+--
+
+E-mail: 
+lqloxy<uz>simple<bindestrich>line<punkt>de

@@ -1,0 +1,56 @@
+Nein, die Konsequenz der Existenz dieser "absurden" Theorien ist eher,
+dass reine Syntax für eine Interpretation nicht ausreicht. Denn wie
+kommst du dazu, die Formel con_{PA} so zu interpretieren, dass sie
+aussagt, dass PA konsistent ist? Das geschieht ja dadurch, dass die
+Beweisrelation für PA in PA repräsentierbar ist, wozu schon eine
+Interpretation von PA auf das Standardmodell N (die Menge der
+nat. Zahlen) vorgenommen wird, die Terme S(S(..S(0)..) werden etwa als
+naürliche Zahlen interpretiert.
+
+Wenn man nun die konsistente Theorie T= PA u {~con_{PA}} betrachtet, so
+hat sie nach dem Vollständigkeitssatz ein Modell, aber offenbar ein
+"nichtintendiertes" Modell, in dem die Formel con_{PA} /nicht/ als
+Aussage über die Konsistenz interpretiert werden kann. Gerade solche
+Interpretationen zeigen eben, wie wenig die reine Syntax zur Frage der
+Bedeutung von Wörtern und Sätzen beitragen kann.   
+
+
+Die Aussage ist ja auch richtig, und zwar bezogen auf den
+metasprachlichen Rahmen.
+
+
+Ja. Feigl hat die Wahl eines Sprachrahmens als rein /pragmatische/
+Wahl angesehen, die nichts über über irgendwelche Entitäten
+aussagt. Existenzaussagen sind nur /innerhalb/ dieses Rahmens
+sinnvoll. Allerdings ist das kein Ansatz, der etwas über die Bedeutung
+der Wörter aussagt. Wenn wir Behauptungen aufstellen, wie etwa die,
+dass sich auf dem Tisch eine Schale mit Obst befindet, so ist das
+nicht nur eine Bewegung der Lippen, der Zunge,etc. die die Luft in
+Schwingungen versetzt, mir müssen, damit die Aussage nicht nur
+sinnvoll, sondern auch wahr sein kann, die Existenz bestimmter Dinge
+wie eines Tischs und einer Schale annehmen, sofern wir solche Aussagen
+nicht anders paraphrasieren können. (Beliebt waren vor allem
+/phänomenologische/ Übersetzungen in die "Sinnesdatensprache") Das
+sind in diesem Fall die /ontologischen Verpflichtungen/, die wir mit
+dem Sprechen der Sprache eingehen.  Allgemeiner gehen wir, wenn wir
+Sprache verwenden, bestimmte ontologische Verpflichtungen ein, setzen
+bestimmte Entitäten voraus, so dass die Sätze, die wir formulieren,
+nicht nur verständlich, sondern auch wahr sein können. 
+
+Ausweichen können wir dieser Verpflichtung allenfalls, wenn wir die in
+Frage stehende Sprache nicht mehr verwenden. "Moderne" Nominalisten
+(vor allem Physikalisten) haben deshalb auch versucht, physikalische
+Theorien, die sie gerne /wörtlich/ interpretieren, ohne die in ihrem
+Sinne "problematische" Mathematik zu formulieren.
+
+
+Eben. Und wir erfahren nichts über die /Bedeutung/ der Wörter und
+Sätze, es ist eben reine Syntax. Wenn du meinst, das alles, was gesagt
+werden kann, die Grammatik ist, wird Mathematik tatsächlich zu einer
+ausgesprochen sinnfreien Veranstaltung (vielleicht mit Ausnahme der
+/direkt/ anwendbaren Mathematik, aber selbst das geschieht in eher
+hochtheoretischen Bereichen wie der theo. Physik) Der Formalismus ist
+eigentlich ein Rückzugsgefecht, der die Mathematik trivialisiert.
+
+
+volkert

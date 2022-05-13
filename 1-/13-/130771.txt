@@ -1,0 +1,51 @@
+Kleiner erläuternder Anhang zu meinem letzten Beitrag:
+
+Existenz := Nichtleerheit der Extension eines Prädikats.
+
+1) "Bundeskanzler der BRD existieren." 
+:= Es gibt (mindestens) ein Element der Extension des Prädikats
+"Bundeskanzler der BRD".
+
+2) "Stefano Neldner existiert."
+ := Es gibt (genau*) ein Element der Extension des Prädikats "Stefano
+Neldner sein"/"mit Stefano Neldner identisch sein".
+(Hier wird der zunächst nicht-prädikative Eigenname "Stefano Neldner
+" kurzum mitsamt dem Prädikat "Identität" in ein einheitliches
+Prädikat verwandelt. Durch diesen logischen Kunstgriff kann man
+sämtliche Eigennamen, aber auch Kennzeichnungen - siehe 3 - loswerden)
+
+*Es kann natürlich nur eine Person geben, die die Eigenschaft hat, mit
+Stefano Neldner identisch zu sein, und das ist Stefano Neldner
+selbst.
+
+3) "Der gegenwärtige Bundeskanzler der BRD existiert."
+:= Es gibt (genau*) ein Element der Extension des Prädikats "der
+gegenwärtige Bundeskanzler der BRD sein"/"mit dem gegenwärtigen
+Bundeskanzler der BRD identisch sein". (siehe 2).
+
+*Auch hier ist klar, dass nur einer, nämlich der gegenwärtige
+Bundeskanzler der BRD (das könnte freilich jemand anderer sein als
+Stefano Neldner!), mit dem gegenwärtigen Bundeskanzler der BRD
+identisch sein kann. Die Extension dieses Prädikats ist also
+zwangsläufig, wie es Englisch heißt, ein "singleton", d.h. eine Menge
+mit nur einem Element.
+
+Wie Sie sehen, können mit obiger Definition sowohl Begriffe,
+Eigennamen als auch Kennzeichnungen eindeutig behandelt werden!
+
+Falls man für Prädikate fordern sollte (wie ich es nicht tue), dass
+diese grundsätzlich auf mehr als einen Gegenstand zutreffen können
+müssen, dann bedarf es nur eines Zusatzes, um Einmaligkeit zu
+gewährleisten:
+
+2*) Es gibt (mindestens) ein Element der Extension des Prädikats "mit
+Stefano Neldner identisch sein", und für alle Elemente der Extension
+dieses Prädikats gilt, dass sie (numerisch) identisch sind.
+
+3*) Es gibt (mindestens) ein Element der Extension des Prädikats "mit
+dem gegenwärtigen Bundeskanzler der BRD identisch sein", und für alle
+Elemente der Extension dieses Prädikats gilt, dass sie (numerisch)
+identisch sind.
+
+Gruß
+BURKHARD

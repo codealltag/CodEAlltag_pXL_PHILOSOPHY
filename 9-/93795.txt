@@ -1,0 +1,10 @@
+Hi,
+
+Ist folgendes bzgl. der Modallogik korrekt, bzw. kann man die Operatoren 
+der Modallogik so definieren:
+- (Diamant)p : Es ist möglich, dass die Aussage p erfpllt ist.
+- (Box)p : Es ist notwendig, dass die Aussage p erfpllt ist.
+Stimmt das so?
+
+Größe,
+Ana

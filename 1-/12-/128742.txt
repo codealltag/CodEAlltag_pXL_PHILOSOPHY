@@ -1,0 +1,123 @@
+Die grammatikalisch richtige Übersetzung ins Normaldeutsche ist eben
+etwas, von dem ich glaube, dass es geleistet werden kann, allerdings
+erst, wenn wir uns über die logisch korrekte Form der Aussage einig
+sind.
+
+
+Ich denke, ich gehöre zu keinem der beiden :-) Ich sehe die Logik als
+formal-syntaktischen Kalkül, der die Formen unserer Praxis
+wiederspiegeln kann, zB. das logische Schließen, das Rechnen, oder das
+Sprechen, und der zudem ohne den möglichen Bezug auf solche Praktiken
+keinerlei Sinn hätte. Die Logik hilft uns auch, Klarheit in unsere
+Praktiken und unser Verständnis von ihnen zu bringen, und auch, diese
+Praktiken zu verbessern. Ich vermute, dass etwas, das sich nicht logisch
+- in einem sehr weiten Sinn von "logisch" - ausdrücken lässt, gar nicht
+in den Bereich unserer Praxis gehören kann; dabei bin ich mir aber nicht
+sicher.
+
+Nebenbei: wer andauernd unvorhersagbar so handeln würde, als würde er
+unsere Praktiken nicht kennen, den könnten wir auch nicht verstehen, und
+das betrifft nicht nur den Fall, in dem uns seine Lautäußerungen vor
+Rätsel stellen. Im schlimmsten Fall, wenn wir überhaupt keinen Sinn in
+sein Verhalten bringen können, dürften wir eigentlich nicht einmal als
+"Person" bezeichnen.
+
+
+Ok. Aber Zschippig macht diesen Unterschied nicht, wahrscheinlich weil NF
+ohne Typsystem auskommt, und die jeweilige Kategorie eines Gegenstandes
+nur für die Wahrheit einer Aussage eine Rolle spielt, aber nicht dafür,
+ob sie sinnvoll ist. Deswegen wohl auch die Festsetzung, dass "(a e b)"
+für den Fall, dass b eine Nicht-Klasse ist, "a ist das Individuum b"
+bedeutet.
+
+
+Deswegen schrieb ich ja auch: "an Stelle von ...". "F","G","H" stellen
+tatsächliche Prädikatskonstanten dar, die griechischen Buchstaben
+dagegen markieren die Stellen in einem Schema, an denen man
+Prädikatskonstanten einsetzen muss.
+
+
+Just in case, falls wir aussagenlogische Formeln diskutieren, und auch,
+weil sich mit p und q die Junktoren-Definitionen am un�berrschendsten
+haben darstellen lassen.
+
+
+"=>" bzw. "<=>" sind für den Fall vorgesehen, in dem "->" bzw. "<->"
+allgemeingültig sind, wenn sie also nicht nur wie zB. bei "(p -> q)"
+besagen, dass nicht zugleich das Vorderglied wahr und das Hinterglied
+falsch sein darf, sondern eine Folgerungsbeziehung ausgedrückt werden
+soll. Vielleicht hätte ich hier nicht "p" und "q" schreiben, sondern
+Schemabuchstaben verwenden sollen. Da wir keine Schemabuchstaben für
+Aussagenvariablen vereinbart haben, nehme ich "zeta" und "eta", für die
+Aussagenvariablen eingesetzt werden müssen:
+
+zeta => eta   für die Implikation
+zeta <=> eta  für die Äquivalenz
+
+Um den Unterschied zwischen "=>" bzw. "<=>" und "->" bzw. "<->" zu
+veranschaulichen, zwei Beispiele:
+
+
+Da (p -> q) nicht allgemeingültig ist, gilt -(p => q):
+
+      p -> q
+ T -> q  |  F -> q
+    q    |    T
+  T | F  |
+
+Es gibt also eine Belegung (p wahr und q falsch), unter der (p -> q)
+falsch ist, und das bedeutet, das q nicht aus p folgt.
+
+
+Da (p -> (p v q)) allgemeingültig ist, gilt (p => (p v q)):
+
+          p -> (p v q)
+ T -> (T v q)  |  F -> (F v q)
+ T ->    T     |    T
+    T          |
+
+Hier stellt sich heraus, dass (p -> (p v q)) unter allen Belegungen wahr
+bleibt. Das ist gleichbedeutend damit, dass (p v q) aus p folgt.
+
+
+"<=>" wird analog behandelt.
+
+
+Gerne.
+
+
+Für (D9') wird lediglich gefordert, dass an der Stelle, an der "phi"
+steht, eine Formel eingesetzt wird. Wie sie aufgebaut sein soll, wird
+nicht weiter bestimmt. Nun ist "(Gx & S')" sicherlich eine Formel, oder
+lässt sich zumindest 1:1 in eine übersetzen, und deswegen darf man es
+auch für "phi" einzusetzen. Schlimmstenfalls, zB. bei ((ix)(S') e k),
+ist die Aussage trivialerweise falsch, da es nicht "das" Element von k
+gibt, für das gilt, dass Orzens in England liegt. Selbst wenn k nur ein
+einziges Element enthält, und sogar, wenn dieses Element Orzens ist, ist
+diese Aussage falsch, da, falls S' überhaupt wahr ist, es von allem
+wahr ist, und es gibt ja nun mal mehr als einen Gegenstand. (s.a.
+<news:k3xrq4$xohq7$4@PZ-71236.ghdt.qnphws.eu>)
+
+
+Ich schon :-)
+
+
+Ich denke, es fehlen wahrscheinlich die von mir eingefügten und mit
+Hochkomma markierten Zeilen (immer vorausgesetzt, dass Fa & Gb):
+
+[1]  Fa
+[2]  a = (ix)(x=a & Fx)
+[2'] a = (ix)(x=a)
+[3]  a = (ix)[x=a & -(x=b)]
+[3'] a = (ix)[x=a & -(x=b)] <=> b = (ix)[x=b & -(x=a)]
+[4]  b = (ix)[x=b & -(x=a)]
+[4'] b = (ix)[x=b]
+[5]  b = (ix)(x=b & Gx)
+[6]  Gb
+
+Selbst, mit (a=b) wäre [3'] noch wahr, da damit beide Seiten der
+Äquivalenz falsch wären.
+
+
+Gruß,
+Kurt.

@@ -1,0 +1,10 @@
+Man kann streng mathematische Beweise maschinell überprüfen.
+Allerdings ist es leider auch nicht möglich zu beweisen, daß der
+Beweispr�fer korrekt programmiert ist.
+
+
+Was soll das heißen, "universelle Allgemeingültigkeit"? Die Sätze der
+Mathematik haben meist eine recht eingeschränkte Gültigkeit.
+Beispielsweise gilt der Satz des Pythagoras nur in der euklidischen
+Geometrie. Andere Bereiche beschäftigen sich nur mit natürlichen
+Zahlen, etc.

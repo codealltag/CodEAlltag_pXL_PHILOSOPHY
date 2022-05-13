@@ -1,0 +1,46 @@
+Wie kommst du darauf? ;-)
+
+
+Aaah, das also meintest du! ;-) Richtig, "ein" ist in unserer Sprache
+(in sehr vielen anderen ebf.) ambig.
+
+
+Verstehst du also a.) im Sine von "Marcel kann jeden beliebigen Satz
+rechtfertigen."? In logischer Begrifflichkeit: "Für jedes p gilt:
+Marcel kann p rechtfertigen."?
+
+Ich weiß, mit der logischen Quantifizierung ist es eine Crux. Du hast
+nur die Auswahl zw. dem Existenzquantor ("Für mindestens ein p gilt")
+und dem Allquantor ("für alle p gilt"). 
+
+Ich würde hier allerdings den Existenzquantor wählen: "Für mindestens
+ein p gilt: Marcel kann p rechtfertigen." Es können ja sehr viele
+Sätze sein, für die das zutrifft - du willst aber kaum sagen wollen,
+dass Marcel _alle_ Sätze rechtfertigen kann, oder? 
+
+
+b.) kann man logisch - ohne Quantor! - wie folgt auflösen:
+
+p -> Rechtfertigen(Marcel, p)
+
+Also: Wenn etwas ein p ist, dann kann es Marcel rechtfertigen.
+
+
+Ich würde sagen: Ja. ;-) Umgangssprachliche Bedeutung von Wörtern und
+die spezielle Bedeutung, die Logiker manchen Wörtern geben, sind nicht
+deckungsgleich. Logiker abstrahieren von allen Bedeutungsanteilen, die
+sie formal nicht erfassen können. Wenn Logiker Prädikate im Rahmen
+eines formalen Systems definieren, dann gehen sie ähnlich vor wie
+Wissenschaftler, die Alltagsbegriffen eine präzise, aber
+merkmalsärmere Bedeutung verleihen und sie dadurch zu handhabbaren
+Fachtermini machen.
+
+
+Sicher nicht in dem Sinne, dass der Arzt die _Wahrheit_ seiner Aussage
+rechtfertigen kann. Eben dies verstehen aber die Logiker unter
+"Rechtfertigung". Ob die Aussage des Arztes _ethisch_ gerechtfertigt
+ist, wäre ein anderer Thread. 
+
+Ich weiß nicht, ob man das sagen kann. ;-)
+
+Roger

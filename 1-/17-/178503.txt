@@ -1,0 +1,38 @@
+Dein Fehler hier ist die Vermischung von
+Zeichen und Bezeichnetem. Das tritt schon
+in viel elementareren Situationen auf:
+"Der Morgenstern und der Abendstern sind
+dasselbe, formal also x=x. Mithin ist es
+eine logische Notwendigkeit, dass Morgen-
+und Abendstern dasselbe sind."
+
+Das Problem liegt darin, dass Du zwei Namen
+(genauer: Beschreibungen) fuer Klassen ein-
+gefuehrt hast: "Die Klasse aller Dinge, die
+ein Herz haben" und "Die Klasse aller Dinge,
+die eine Niere haben". Diese beiden Namen
+sind verschieden, obwohl sie (kontingenter-
+weise) dieselbe Klasse bezeichnen. Mithin
+musst Du in der formalen Uebersetzung auch
+verschiedene Zeichen dafuer einsetzen.
+
+Es gibt uebrigens eine Notation, die fuer
+Klassenabstraktion ziemlich weit verbreitet
+ist: Fuer die Klasse aller Dinge x, die die
+Aussageform A(x) erfuellen, schreibt man den
+Term x^A(x) (das ^ steht direkt ueber dem x).
+Wenn wir also abkuerzen: H(x) fuer die
+Aussageform "x hat ein Herz" und N(x) fuer
+"x hat eine Niere", dann lautet die formale
+Uebersetzung obigen Satzes ("in" fuer "ist
+Element von):
+
+ (Ax)(x in x^H(x) -> x in x^N(x)).
+
+Eine andere Notation fuer Klassenabstraktion,
+die in der Mengentheorie gebraeuchlich ist,
+waere { x | A(x) }.
+
+Gruss,
+-- 
+Focko Janssen

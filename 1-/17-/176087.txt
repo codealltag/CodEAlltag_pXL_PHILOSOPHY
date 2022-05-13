@@ -1,0 +1,11 @@
+Korrektur:
+Logisch läßt sich nicht schließen, daß eine Milchwerk
+keine Sitzgelegenheit sei.
+
+Die Bänke sind eine Teilmenge aus der Menge der Sitzgelegenheiten.
+Eine Milchwerk ist nicht Element der Bänke. Sie kann dann immer
+noch Element der Sitzgelegenheiten sein, die nicht Bänke sind.
+
+Jedenfalls ist logisch alles Ok.
+
+JANINA

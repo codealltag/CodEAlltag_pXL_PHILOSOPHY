@@ -1,0 +1,23 @@
+1. Roboterevolution: Durch einen Zufallsgenerator
+   kann man neue Programme erzeugen.
+   Wenn diese neue Programme erfolgreich sind,
+   bleiben sie laenger erhalten als erfolglose.
+
+2. Da es zu viele Kombinationen (Moeglichkeiten)
+   gibt und das reale Ausprobieren zu lange dauert,
+   wird die reale Evolution mehr und mehr
+   durch virtuelle Evolution als Simulation ersetzt.
+   Und der Zufalls-Pfade bei Suche und Konstruktion
+   wird aufgrund von Erfahrung durch erfolgreichere
+   Pfade ersetzt.
+   Dabei gibt es mehrfache Indirektion
+   ( Abstraktion ist ein Spezialfall der Indirektion ).
+
+Punkt 2 kann auch als Denken bezeichnet werden.
+Bisher habe ich noch keinen Hinweis
+auf einen grundlegenden Unterschied gefunden
+wie Menschen denken, und wie Computer denken koennen
+   ( ausreichende Hardware und mangelnde
+     Denkblockade vorrausgesetzt)
+
+Lukas

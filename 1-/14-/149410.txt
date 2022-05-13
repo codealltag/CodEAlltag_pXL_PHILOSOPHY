@@ -1,0 +1,50 @@
+Hallo,
+
+  zulange nachgedacht, dachte ich. 
+Aber vielleicht muss man, wenn man denkt, dass die Schmerzgrenze
+erreicht ist noch ein paar Schritte weitergehen. 
+Vielleicht kann der menschliche Geist einfach nicht stehen bleiben,
+selbst dann nicht, wenn einem die Vernunft gebietet: "Jetzt hör aber
+auf!". 
+Nun belästige nur die Philosophen, weil die Mathematiker sicherlich auf
+dem Standpunkt stehen, das 0/0 oder 1/0 entweder eine unsinnige
+Zeichenkette oder nicht definiert ist. Die Emotionalität mit der diese
+Zeichenkette verteidigt wird, ist nicht nur höchst interessant. Es
+verbirgt etwas.
+Ein neuer Ansatz ein neues Glück ;-)
+Zunächst ein bisschen Definition:
+0 =: {}
+1 =: {{}}
+
+Da in einem binären System die bisher bekannten Rechenregeln erfüllt
+werden können, postuliere ich einfach unbewiesen, dass auch in einem
+neuen System 0/0 oder 1/0 definiert sind. Ein Computer der sich nur der
+0 und 1 bedient dürfte keinerlei Probleme haben alles mögliche
+auszurechnen ausser jenen gefürchteten OVERFLOW und UNDERFLOW.
+Teils entsteht ein OVERFLOW aus mangelnden Resourcen, sprich z.B. zu
+wenig Arbeitsspeicher. Ein Underflow ist dagegen schon schwieriger zu
+verstehen. Aber gut dies nur nebenbei.
+Wenn 0 =: {} ist, dann ist auf jeden Fall dass System trotzdem noch
+konsistent.
+0 ist halt nur das neutrale Element der Addition und somit ergibt 1 + 1
+immer noch 2. Doch was meines Erachtens übersehen wird, was heisst hier
+neutral?
+Neutral ist dann auch nichts anderes als 0, aber was soll das heissen:
+0 ist 0 Element der Addition
+oder 0 ist 0 Element des +
+oder 0 ist 0+
+Wo bitte ist minus geblieben?
+Die Bewertung in positiv und negativ?
+Es gelten aber anerkannte Rechenregeln von + * - = - oder - * - = + oder
++ * + = +.
+Was soll dass aber sein?
+0/0=+- könnte eine Lösung sein. Nur +- ist neutral.
+Ein halb volles Glas und ein halb leeres Glas ist nicht 0 sondern
+einfach 1/2 und richtig
+0,5/0,5 = 1 es ist einfach halb. Weder voll noch leer ohne Bewertung ob
+es halb voll oder halb leer ist.
+In diesem Sinne wäre dann 0/0 = 1.
+
+
+Gruss
+Mark

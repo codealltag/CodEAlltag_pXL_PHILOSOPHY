@@ -1,0 +1,115 @@
+Folkert Voerste schrieb am 22. Jun. 2001 04:43 h:
+
+Wenn das richtig ist, folgt aus dem Zahlenbeispiel, das ich genannt
+habe und auf das du bezeichnenderweise nicht eingehst, dass die
+Menge der rationalen Zahlen nicht abzaehlbar ist, denn in diesem
+Beispiel ist sie als A definiert und als abzaehlbar vorausgesetzt
+waehrend die cantorisierte Diagonale eine weitere rationale Zahl ist, die
+"kein Urbild in N hat (nicht in der Liste ist)" Damit "ist der
+ Widerspruch zur Annahme erreicht. Also ist die Menge - entgegen der
+ Annahme - nicht abzaehlbar.
+ Q.E.D. Beweis-Ende. Finito. Ende. Basta. Aus die Maus. Erledigt.
+Abgehakt."
+
+Du machst den fuer die Mengenlehre typischen Fehler, dass du einen
+Widerspruch feststellst und diesen dann unbesehen in deinem Sinne
+interpretierst. Ein Widerspruchsbeweis ist aber erst dann vollstaendig,
+wenn die Ursache des Widerspruchs bekannt ist, damit man weiss, was
+denn nun eigentlich bewiesen oder widerlegt wurde. Im vorliegenden Fall
+ist also zu klaeren, welche Funktion die Diagonale ueberhaupt hat. s. u.
+
+
+Aber die Menge A wird nicht veraendert! Zwei Mengen mit denselben
+Elementen in anderer Reihenfolge sind identisch! Nur darauf kommt
+es hier an. Deshalb wurde in dem Thread "Cantor und die rationalen
+Zahlen" das Umsortieren ausdruecklich erlaubt! Wenn du die Zahlen
+nicht binaer sondern dezimal schreibst, erhaelst du auch ohne
+Umsortieren beliebig viele rationale Zahlen als cantorisierte
+Diagonale.
+
+
+Nein, sie sind nicht identisch. Man kann zwar zunaechst annehmen,
+sie seien identisch. Nachdem man aber eine 0,1-Folge gefunden hat,
+die nicht in A ist, muss man zwischen F und A unterscheiden.
+
+In Wahrheit muss man schon vorher unterscheiden, denn durch die
+Entscheidung, welche 0,1-Folgen in die Zeilen der Liste geschrieben
+werden und welche nicht, ist die Funktion f definiert und auch schon
+entschieden, welche 0,1-Folgen A enthaelt und welche nicht, das
+braucht also nicht mehr mit der Diagonalen geprueft zu werden. 
+Die cantorisierte Diagonale CD kann jede Zahl sein, die nicht in A
+ist. Durch die Entscheidung, welche Zahlen (0,1-Folgen) in die
+Liste geschrieben werden, wird eine Teilmenge ausgewaehlt.
+Diese ist immer auch Teilmenge einer abzaehlbaren Menge E, weil
+es keine groesste abzaehlbare Menge gibt. Und weil CD jede Zahl
+sein kann, die nicht in A ist, kann sie auch eine Zahl aus E sein.
+Es spielt daher keine Rolle, ob CD eine rationale oder irrationale
+Zahl ist, denn es gibt auch abzaehlbare Mengen, die irratinale
+Zahlen enthalten (z. B. die Vereinigung der Menge der rationalen
+Zahlen mit der Menge der Quadratwurzeln aus den rationalen Zahlen).
+
+Selbst wenn es keine ueberabzaehlbaren Mengen gaebe, wuerde also das
+Verfahren immer ein Element liefern, das nicht in A ist.
+Das Diagonalverfahren sagt also nichts ueber die Ueber-Abzaehlbarkeit
+von Mengen aus, es bestaetigt nur, dass es keine groesste abzaehlbare
+Menge gibt. Die Frage, ob es ueberabzaehlbare Mengen gibt, muss auf
+andere Weise entschieden werden.
+
+
+Was du fuer Annahmen machst, hat auf das Funktionieren des Diagonal-
+verfahrens nicht den geringsten Einfluss. Wenn du eine bestimmte
+0,1-Folge als cantorisierte Diagonale erhalten willst, darf sie
+gerade _nicht_ in der Menge A enthalten sein. Das ist der Trick
+des Diagonalverfahrens und der hat nichts mit Abzaehlbarkeit zu tun.
+
+
+_Jedes_ Element aus A _hat_ eine Nummer, denn durch die Zuteilung
+der Nummern, wird die Teilmenge A ausgewaehlt. Wenn man A in
+geeigneter Weise als Teilmenge von N definiert, kann man auch
+erreichen, das CD eine nat. Zahl ist. Die Zahl, die man als CD
+erhalten will, darf eben nicht in der Liste stehen.
+Ein Beispiel mit Dezimalzahlen:
+Kannst du gerne haben. Um zu vermeiden, dass die Zahlen am
+Kreuzungspunkt mit der Diagonalen eine Null haben, nehmen wir
+nur solche Ziffernfolgen in die Liste auf, die (ausser den fuehrenden)
+keine 0 enthalten, z. B.
+1)          1 8 4
+2)        4 2 7 2
+3)      5 3 1 9 6
+4)    2 1 1 4 3 7
+       ...
+
+Die Anzahl der Stellen nimmmt von Zeile zu Zeile zu. Wir nehmen
+nur solche Zahlen in die Liste auf, die in Zeile k an der Stelle
+k (von rechts nach links gezaehlt) eine von 0 verschiedene Ziffer
+haben. Man kann auch auf Zahlen mit einer 0 als Ziffer ganz verzichten.
+Die Diagonale von rechts oben nach links unten enthaelt also keine 0.
+Man kann sie daher so cantorisieren, dass CD links von einer
+weahlbaren Stelle nur Nullen hat (z. B. ...0002235 in obigem Beispiel).
+CD ist also eine nicht in der Liste enthaltene nat. Zahl. Nach deiner
+obigen Argumentation ist also N nicht abzaehlbar.
+
+
+Zitat aus deinem posting vom 11. Jun. 2001 20:58 h:
+
+Dass sie nicht in der Liste vorkommt ist unmittelbar zu erkennen.
+Ausserdem kommt CD nie in der Liste vor. Hier hast du also den
+geforderten Widerspruch.
+
+
+Das Beispiel veranschaulicht noch ein anderes Problem, auf das
+bisher hartnaeckig die Antwort verweigert wird, naemlich die
+Frage, wie man mit endlich vielen Stellen unendlich viele Zahlen
+darstellen kann. Vor der Cantorisierung hat die Diagonale ...1174
+in dem Beispiel unendlich viele von 0 verschiedene Ziffern. Nach
+Definition ist sie also keine nat. Zahl. Andererseits sind die
+Zahlen der Liste eindeutig eine Teilmenge von N, sie enthaelt
+also nur Zahlen mit endlich vielen Stellen. Mindestens eine Zahl
+der Liste muss aber genau so viele Stellen haben wie die Diagonale.
+Wir haben also einen weiteren Widerspruch, der nicht auftritt,
+wenn N nicht als Menge sondern als unbegrenzte Folge definiert wird.
+
+
+Gruss
+
+Jürg

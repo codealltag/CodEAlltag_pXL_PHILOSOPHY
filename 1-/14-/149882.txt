@@ -1,0 +1,94 @@
+Die folgende Entgegnung Willys auf die Widerlegung des Konzepts
+"überabzählbar" ist besonders interessant, da sie eins zu eins
+auf Ziehms Diagonalbeweis angewandt werden kann.
+
+Da der Thread "Ist überabzählbar-unendlich mehr als abzählbar-
+unendlich?" schon aus den Nähten platzt (weil Unterthread von
+"unendliche Mengen"), und es für mich nur noch darum geht, mein
+"Schach matt" zu rechtfertigen, eröffne ich hiermit einen neuen.
+
+Meine vier vorigen Postings (wobei im sehr kurzen vom 14.10.00
+alles wesentliche gesagt ist):
+http://dziwdnh.zda.nm/rnwzirmc/fmbxma0.rxhd#zjvwpgxhl
+
+
+Willy Uphagen in 9k0p1p$8fbgd$1@ID-54909.news.dfncis.de :
+
+
+Mit Verlaub, aber das ist doch eine groteske Forderung, die du
+mit genau gleichem Recht Ziehm stellen kannst. Jede (direkt)
+konstruierbare Menge ist abzählbar.
+
+
+Und wie heisst's im Cantorschen Diagonalbeweis:
+
+  "Wenn die Menge der reellen Zahlen abzählbar wäre, ..."
+
+
+Also ist auch Ziehm einfach dahergelaufen, erzählt mir nichts
+dir nichts von einer "Super-Menge S, von der kein Mensch je gehört
+hat und die es auch gar nicht".
+
+
+Ziehm macht ja auch nichts anderes.
+
+Und dass eine Folge von n unterschiedlichen reellen Zahlen r_n (mit
+0 > r_n > 1) das Einheitsintervall in genau n+1 disjunkte Intervalle
+teilt, solltest du doch auch ohne einen offiziell anerkannten Beweis
+(oder ein Axiom) nachvollziehen können, oder etwa nicht?
+
+Wenn wir auch die reelle Zahl 1 in Ziehms Liste aufnehmen, dann
+repräsentiert jedes Element nicht nur eine Zahl, sondern auch das
+Intervall, das von dieser Zahl am oberen Ende begrenzt wird.
+
+(Beim Verlängern der Liste werden die bisherigen Intervalle zwar
+kürzer, verschwinden aber genausowenig wie die Zahlen, von denen
+sie repräsentiert werden.)
+
+
+Ob wir die "Super-Menge S, von der kein Mensch je gehört hat und die
+es auch gar nicht gibt" als reelle Zahlen, oder als Punkte auffassen,
+die das Einheitsintervall zerteilen, spielt doch hier keine Rolle.
+Punkte haben ja keine Nachbarn, sondern sind von allen (echten oder
+potentiellen) Nachbarn durch (echte) Intervalle getrennt.
+
+
+Was ist denn das Aufregende an Cantors r, das von allen r_n seiner
+abzählbar unendlichen Folge verschieden ist?
+
+
+Dieser Mittelpunkt hilft mir nicht weiter, weil wir nicht wissen
+können, ob dieser Punkt verschieden ist von allen abzählbar
+unendlichen Genzpunkten x_n der Liste. Und damit die Menge der
+Intervalle als überabzählbar bezeichnet werden kann, muss garantiert
+sein, dass der neue Grenzpunkt x mit keinem der x_n übereinstimmt.
+Denn nur dann haben wir eine neues Intervall.
+
+Ich streite natürlich nicht ab, dass die Menge disjunkter Intervalle
+mit rationalen Endpunkten abzählbar ist. Aber dass die Menge der
+disjunkten reellen Intervalle (apriori) etwas mit der Menge der
+rationalen Zahlen zu tun haben soll, streite ich sehr wohl ab.
+
+Wer den eleganten, einfachen und transparenten Beweis der
+Überabzählbarkeit disjunkter Intervalle nicht glauben will, der
+soll doch bitte den Beweis ihrer Abzählbarkeit mittels Bijektion
+auf N versuchen. Luigs Messer kann dann entscheiden.
+
+
+Gruss, Michael
+
+
+PS. Urs Pistorius hat am 14.10.00 mehr als 30 Crosspostings für
+    de.sci.philosophie und de.sci.mathematik abgesetzt, was
+    zusammengenommen 63 Einzelpostings ergibt. Was ist der Grund für
+    dieses Spamming? Meine Vermutung:
+
+ 1) Den Ruf der sci-Newsgruppen als Ort seriöser Diskussionen zu
+    schädigen.
+ 2) Sich selber und andere (z.B. solche mit ähnlichen Themen und
+    gleicher Crosspostliste) zu diskreditieren. Die Diskreditierung
+    Unbeteiligter wird vor allem auch dadurch gefördert, dass viele
+    Diskussionsteilnehmer bei ihren Antworten die Namen derer
+    herauslöschen, denen sie antworten.
+ 3) Ablenken von wesentlichen Diskussionsbeiträgen.
+ 4) Crossposten insgesamt zu diskreditieren.

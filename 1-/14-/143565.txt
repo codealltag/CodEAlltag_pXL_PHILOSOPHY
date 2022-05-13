@@ -1,0 +1,22 @@
+Davon müssen wir uns nicht noch extra überzeugen. Wenn B = ~A und A
+den Wahrheitswert (w) hat, folgt daraus, daß B den Wahrheitswert (f)
+hat. Die Negation ist einfach so definiert. 
+
+
+Was für ein Urteil? Formuliere das Mal aus, bitte. Oder mache es an
+einem anderen Beispiel deutlich. 
+
+
+Mit was wird hier gerechnet. Mit den Wahrheitswerten von A und B oder
+mit den Aussagen selbst? Wie ist eine Multiplikation oder eine
+Division für Wahrheitswerte oder Aussagen definiert? A/A ist nicht
+'bekanntlich' 1/1, sondern nur dann, wenn es sich bei A um eine Zahl
+<> 0 handelt. Bei A handelt es sich in Deinem Beispiel aber nicht um
+eine Zahl, sondern entweder um einen Wahrheitswert oder um eine
+Aussage. 
+
+
+Was wäre denn ein 'glückliches Ergebnis' -- ich verstehe kein Wort von
+dem, was Du hier schreibst, sorry!
+
+Gruß,			Laurent

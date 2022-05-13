@@ -1,0 +1,282 @@
+B. Vaterrodt <br_hfkx@rpq.je> (Donnerstag,  14. Oktober 2003 00:25):
+
+
+[...]
+
+Er betrachtet also 'Identität' und 'Gleichheit' als Synonyme. 
+Also alle Deine Ersetzungen 'Identität' -> 'Gleichheit' retour!  :-)
+
+
+Ach so läuft das!?
+
+Ok, kann ich auch:
+
+---- M-Theorie ----
+[Relation ~ sei schon eingeführt]
+
+*Definition* (der Relation #):
+
+        a # b :<=> (x)(a~x => b~x)
+
+Bem.: Diese Definition ist zirkelfrei, oder sieht jemand rechts ein "#"?!!
+
+*Axiom:*
+
+        (x)(a~x => b~x) <=> (x)(a # x  =>  b # x)  
+
+(Da schaut keiner mehr hin, denn das ist "nur" ein Axiom.)
+...
+[Durchführung... (wunderbares Arbeiten mit Def. /und/ Axiom)]
+---- M-Theorie ----
+
+
+Aber im Ernst: Wenn ich das richtig verstanden habe, kann man also
+entweder Identität als logisch primitive Relation auffassen und betrachtet
+dann das Extensionalit�tsAxiom
+
+         x = y <-> Az(z e x  <->  z e y)
+
+als Bestimmung darüber, /wann/ zwei Mengen identisch sind (sozusagen als 
+Teil noch der Begriffsbestimmung von 'Menge' und '\in'), oder aber man 
+erblickt in 
+
+         x = y :<-> Az(z e x  <->  z e y)
+
+eine Definition von Identität (zwischen Mengen) und muß dann aber noch
+ein Axiom wie
+
+        AxAyAz(x e z & x = y -> y e z)
+
+hinzufügen, um dieselben Ausdrücke/Aussagen wie im ersten Fall herleiten 
+zu können.(?) 
+
+Hmmm... So ganz erschließt sich mir das Evidenzgefühl derer, 
+die dann sagen, man könne Identität/Gleichheit in der Mengenlehre 
+"definieren", nicht. Der Schnitt zwischen den logischen "Figuren", die ich 
+als 'Definition' verkaufe und denen, die "nur" noch Axiome sind, scheint 
+doch ziemlich willkürlich. Wenn 'Definition' sowas wie die 
+Ersterwähnung eines Zeichens, könnte als Definition doch ebensogut 
+dastehen:
+
+Def:  =         [Obacht, ein neues Zeichen! Alles Weitere in den Axiomen]
+
+        oder 
+
+Def:  =   :  zweistellige Relation!     [Alles Weitere in den Axiomen]
+
+        oder 
+
+Def:   x = y <-> Az(z e x  <->  z e y)  [Alles Weitere in den Axiomen]
+
+        oder
+
+Def:    x = y <-> Az(z e x  <->  z e y),
+        AxAyAz(x e z & x = y -> y e z)  [keine weiteren Axiome]
+
+Einen echten Strich ziehen kann man wohl nur unter die Pr�missenbasis
+aus Definitionen und Axiomen als Ganzes. Von /expliziten/ Definition kann
+willkürfrei dann vermutlich überhaupt nicht mehr geredet werden, höchstens 
+noch von impliziten oder von "axiomatischer Charakterisierung". 
+
+
+Zumindest Carl und Frank sprachen im Rahmen der Mengenlehre von der 
+/Definierbarkeit/ der Identität/Gleichheit. 
+Gegen den Anspruch, nur zu /charakterisieren/, ist natürlich wenig 
+einzuwenden. (Zumal dieser Ausdruck hinreichend vage ist. ;-))
+
+
+Warum unterstreichst Du das _M�gliche_ der Gleichheits-Definition im
+Rahmen der Mengenlehre? Weil die Deutung als /Definition/ nicht notwendig 
+ist?
+
+
+In dem Sinne, daß das Zeichen "=" rechts wiederum auftaucht, ist da kein 
+Zirkel. Dieser rein grafische Standpunkt ist freilich ein recht 
+reduzierter (wenngleich für alle formale Logik schier unumgänglicher).
+
+Zirkeleinw�nde kamen, vorgebracht vor allem von Wolf, ja folgende:
+
+1) Der logische Zeichengebrauch als solcher bedürfe zum Ausmachen
+der 'typidentischen' Zeichen bereits ein Verstehen von Identität.
+
+        Das wurde von den Opponenten Carl, Frank und Dir zwar
+        auch weitgehend zugestanden, aber irgendwie für /begrifflich/ 
+        irrelevant befunden, denn solches "Parsen" könnten schließlich 
+        auch Maschinen und hätten die etwa einen /Begriff/ von Identität? 
+
+        Da die Voraussetzungen des logischen Zeichengebrauchs
+        für ein /Begreifen/ von Identität für irrelevant gehalten werden, 
+        macht mich zwar fassungslos -- hier kommt ja die ganze
+        wunderschöne Raum-Zeit-Problematik herein, die Anschauung,
+        das Problem des "unmittelbaren Diesen", der "konkreten Dinge" -- 
+        aber aus reiner Schwäche hefte ich diese Ignoranz jetzt einfach 
+        'mal zu den übrigen sieben Weltwundern.
+
+2) Definieren als solches sei ein Identifizieren und Identischsetzen, eine
+Definition verstehe folglich nur der, der bereits um Identität wisse.
+
+        Das wurde, soweit es überhaupt erwogen wurde, wohl abgewehrt
+        mit dem Argument, man habe nicht verstanden, was 'Definieren'
+        in der formalen Logik eigentlich sei. 
+
+        Ich gestehe, das noch immer nicht zu wissen. Ich gestehe sogar den
+        Verdacht, daß der, der es vor allem hier zu verstehen vorgibt,
+        Frank, es auch nicht versteht oder höchstens irgendein grafisches
+        Manöver irrtümlich dafür hält.  Ja ich gestehe sogar -- aber dann
+        ist's langsam genug mit dem Gestehe! -- den Verdacht, daß dieses
+        Rätsel niemals ganz zu klären sein wird, hieße es doch wohl, das 
+        Schöpferische selbst zu verstehen.  Das Schöpferische aber ist 
+        nie ohne ein Setzen, und Setzen hat mit Setzenk�nnen zu tun und
+        Setzenk�nnen mit Selbstsein, Einssein, Spontansein, Subjektsein,
+        Zeitlichsein, kurzum: Selbstidentischsein. Mehr aber weiß ich auch
+        nicht. :-)
+
+3) Der rechterhand  durch "Fa <-> Fb" kodierte Gedanke
+
+        "a hat die Eigenschaft F gdw b die Eigenschaft F hat"
+
+erfülle seinen Zweck nur, wenn er /verstanden/ werde als 
+
+        "a hat die Eigenschaft F gdw b dieSELBE Eigenschaft F hat"
+
+und da sei wieder Identität/Selbigkeit benutzt, Identität jetzt für 
+Prädikate.
+
+        Dem dürfte entgegengehalten worden sein, daß dieses
+        Selbigkeitsverst�ndnis schon durch das Erkennen der
+        Typidentit�t der beiden Token "F" und "F" abgedeckt 
+        sei (Fall 1 also, begriffloses Maschinentun also), und es
+        wurde entgegnet, daß dieses Einschieben von "selbe" in
+        eine normalsprachliche Explikation(?) doch rein "erratisch"
+        (Carl) erfolge.
+
+[Aus Bequemlichkeit weiter ohne Einrückung]
+
+Das Erkennen (Parsen) 'typidentischer' Zeichen ist Eines,
+die Einordnung nach Individuenzeichen und Prädikatszeichen
+noch ein Anderes. "Weiß" eine parsende Maschine eigentlich
+um den Unterschied zwischen Individuen und Prädikaten? 
+"Für sie", sei mir Kleinwechter einmal gestattet anzunehmen, reduziert 
+sich das auf den Unterschied zB. Kleinbuchstaben vs. Großbuchstaben,
+also wieder nur Typidentit�t oder Typnichtidentit�t von Token. /Wer/ weiß
+dann um diesen Unterschied? Nehmen wir irrlichtenderweise einmal
+an, es sei der davorsitzende Mensch. Die Maschine oder sein       
+parsender Augapfel liefert also ihm die Information
+
+        "a", "a" -- typidentische Kleinbuchstaben;
+                Er interpretiert: identische Individuen!
+
+        "F", "F" -- typidentische Großbuchstaben;
+                Er interpretiert: identische Prädikate!
+
+Schön und gut. 
+
+Nun hat er die Formel (*) sich geschrieben, die ihm 'Identität'
+erhellen, um nicht zu sagen, definieren soll. Genauer gesagt,
+er hat zuvor die Unterscheidung zwischen Individuen und Prädikaten
+eingeführt, und definiert werden soll jetzt Identität zwischen 
+Individuen mittels gewisser logischer Figuren, in denen
+Prädikatszeichen und Individuenzeichen vorkommen.
+
+Sein Augapfel also parst erwartungsvoll die rechte Seite und liefert u.a. 
+ihm die Information: 
+        "F", "F" -- typidentische Großbuchstaben; 
+und Er, der Mensch, interpretiert:  
+                identische Prädikate!
+
+Hmm...
+Stört das Wörtchen "identisch" in der Definens-Interpretation 
+einer Identitäts-Definition nicht jetzt ein wenig? 
+
+Muß man das denn interpretieren? Schön wäre, wenn man es bei
+"typidentische Großbuchstaben" belassen könnte, das wäre wenigstens
+reines Maschinenwissen und die brauchen bekanntlich keinen Begriff von 
+Identität. Dann wär's echt nichtzirkulär, echt!
+
+Leider scheinen Maschinen zu blöd für den 'intentionalen' Unterschied 
+zwischen Individuen und Prädikaten, und mensch muß selbst noch Hand 
+anlegen. Um das interpretierende Denken, ist jetzt ein Individuum oder ein 
+Prädikat /gemeint/, kommt er leider nicht drumrum und dabei gerät ihm das 
+rechtsseitige Zeichenaufgebot "F", "F" unweigerlich zu dem Gedanken 
+/identische/ /Prädikate/. Leider.  Denn damit scheint's nun zirkulär 
+geworden.
+
+Als Variation könnte man auch formulieren, daß
+
+3a) Allein schon der Gedanke einer /Individuation/ von Prädikaten (der ja 
+offenbar die rechte Seite trägt) ein Verständnis von Identität (wann sind 
+zwei Prädikate identisch, wann nicht-identisch?) voraussetzt.
+
+        Man wird vielleicht jetzt sagen, das sei durchaus gar nicht so
+        klar, viel unklarer jedenfalls, als die Frage, ob zwei Individuen
+        identisch seien (letzteres die übliche paradoxe
+        Zwei-sind-Eins-Formulierung), aber dann fragt sich natürlich
+        erst recht, was (*) dann eigentlich soll, etwa ein Klares mit Hilfe
+        von Unklarem klarmachen?
+
+
+Zum Vorwurf des Erratischen ließe sich auch noch einiges sagen,    
+muß aber auch nicht unbedingt sein. 
+
+
+4) Schließlich hatte ich noch vorgebracht, daß im Konzept der Variable als 
+solchem, hier im rechtsseitigen Allquantor: des "für alle x" oder "für 
+alle F", dem der Gedanke eines /Annehmens/ (eines Wertes) 
+zugrundeliegt, ein Identifizieren oder Indentischwerden oder 
+Identischsetzen immer schon gedacht werde. ähnelt (3a).
+
+----------------- 
+
+Ingesamt scheint mir da Einiges, was am Lack von Grüners 
+Formel als einer akkuraten 'expliziten' Definition von Identität kratzt.
+Typischerweise entspringen alle diese Einwände mehr oder weniger 
+unmittelbar einer Reflexion auf das logiktreibende Subjekt.
+
+Allerdings hattest zumindest Du ja bereits eingestimmt, daß zum Verstehen 
+von (*) schon ein (Vor)Verständnis von Identität vorliegen muß und Dein 
+Insistieren war nur noch, daß (*) einen irgendwie vagen 
+(normalsprachlichen?) Identitätsbegriff für bestimmte, strengere Zwecke 
+einschränke und klar(er) mache, nicht mehr heiße hier 'Definition'.
+
+Dem könnte ich fast zustimmen, eine Einwendung muß ich aber doch noch 
+loswerden. Inwiefern "klärt" Formel (*) den Identitätsbegriff oder läßt  
+sich mit Erfolg "benutzen"?
+
+Problematisch ist sicher der /unbeschränkte/ Allquantor über "alle 
+Eigenschaften".  Zum Beispiel wären dann Eigenschaften wie "Prädikat()"
+oder "Satz()" oder "Eigenname()" auch darunter, also Sprachmittel, um
+über sprachliche Zeugnisse selbst zu sprechen (Rückbezug). 
+Womöglich auch noch Eigenschaften wie "wahr()" und "falsch()". Damit hätte 
+man alles zusammen, um Antinomien zu erzeugen. 
+
+Ich vermute daher, daß in den Gegenstandsgebieten (Mathematik, 
+Mengenlehre), in denen (*) gute Dienste leistet, der zugelassene 
+Objektbereich und/oder die zugelassenen Prädikate im Vorfeld 
+bereits so eingeschränkt wurden, daß solche Antinomien (möglichst) nicht
+mehr konstruierbar sind.
+
+
+Nach allem scheine ich ja kaum ein gutes Haar an Grüners Formel 
+zu lassen? -- Das wäre aber jetzt doch ein falscher Zungenschlag! Sie ist 
+vermutlich (mit) das Beste, was -- aber jetzt bin ich unsicher, soll ich 
+sagen "mittels klassischer Logik" oder soll ich sagen "im klassischen 
+Paradigma" (klassische Logik + klassische Ontologie) zum Thema Identität 
+vorgebracht wurde und vozubringen ist. Nach meiner Überzeugung greift aber 
+das Identitätsthema über das "klassische Paradigma" hinaus. Ich hänge 
+ziemlich dem Gedanken an, daß sowas wie Prädikation, sowas wie 
+symbolischer Zeichengebrauch, sowas wie formale Logik nur Seiendem im 
+Selbstbezug, und besser und schärfer wohl, nur Selbstbewußtem möglich ist 
+und hier Identität ihren eigentlich "Grund" und ihr eigentliches 
+"Herkommen" hat. /über/ Identität zu reden redet (bei diesem 
+Selbstverständnis) in irgendeiner Hinsicht immer schon über die "Einheit 
+des Selbstbewußtsein" und damit über die eigenen Voraussetzungen
+und wird per se zirkulär. Da trotzdem solche Kreisgänge dann keine 
+sinnleeren Kreise drehen, sondern darin immer auch ein noch
+"Widerständiges" ist und also Sinnvolles noch erfahren werden kann, war 
+nach meinem Verständnis eine der Grundüberzeugungen des spekulativen 
+Deutschen Idealismus. Ich gestehe, manchen ihrer Gedanken gar nicht so 
+abhold zu sein. :-)
+
+
+Größe
+Kurt

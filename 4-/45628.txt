@@ -1,0 +1,66 @@
+Hallo Oswald,
+
+
+Es gibt eine Definition von N+, keine "Bildungsregel". Eine Menge ist N+, wenn
+sie bestimmte Eigenschaften erfüllt. Im ZF-System kann man die Existenz einer
+solchen Menge beweisen.
+
+
+Die Axiome fordern *keine* Folge. Sie fordern die Existenz einer Menge mit
+bestimmten Eigenschaften.
+
+Der Begriff "Folge" hat in der Mathematik eine bestimmte, definierte
+Bezeichnung, die eine Folge als eine spezielle Menge charakterisiert.
+
+
+Das ist ja kein Hokuspokus. Axiome sind (solange sie unabhängig und
+widerspruchsfrei sind) frei wählbar. Dich zwingt niemand, die ZF-Axiomen "zu
+akzeptieren"; wähle Dir doch beliebige, die Dir besser gefallen.
+
+Viele Mathematiker finden die im ZF gewählten nunmal spannender; das kann man
+ihnen nicht verwehren. Und sie lösen damit eine Reihe Probleme, die die
+Jenicke Mengenlehre hatte. Günter Tschöpe kann Dir vielleicht was dazu
+erzählen.
+
+
+Es ist lediglich bisher fehlgeschlagen; den Beweis der Unmöglichkeit gibt es
+nicht.
+
+
+Es ist kein "Schein"; jeder Interessierte weiß es und fügt die passende
+Voraussetzung implizit bei der Verwendung ein.
+
+
+Nein. B folgt aus A genau dann wenn Nicht-A aus Nicht-B folgt. Wenn Nicht-A
+nicht aus Nicht-B folgt, dann folgt B auch nicht aus A. Da ist kein "Sollen".
+
+
+???
+
+
+Sicher. Ich gehe von einem Axiomensystem für Mengen aus und baue daraus eine
+Mathematik. Dieses definiert weitere Begriffe, wie z.B. "Folge".
+
+
+Wenn ich mich in diesem Axiomensystem bewege, kann ich das ohne weiteres. Ich
+habe es jetzt vorausgesetzt, weil es das allgemein übliche ist.
+
+Wenn Du ein anderes verwendest, dann musst Du das hier angeben.
+
+
+Du verwendest einen Begriff in einem mathematischen Kontext. Da muss dieser
+Begriff eine entsprechende Definition haben.
+
+
+Ich erwarte lediglich, dass Du mathematische Definitionen für "Folge" und
+"unendlich" angibst sowie die Axiomatik derjenigen Mengenlehre beschreibst, in
+der die Natürlichen Zahlen keine Menge sind.
+
+Wenn Du das kannst, dann sind in Deinem Axiomensystem die natürlichen Zahlen
+eine Folge und keine Menge. Wenn noch jemanden findest, der dann mit Dir im
+Rahmen Deines Axiomensystems reden möchte, dann könnte es sich sogar
+verbreiten :-) (Ich gehöre mangels mathematischer Kenntnisse sicher nicht dazu).
+
+Viele Grüße
+
+Horst

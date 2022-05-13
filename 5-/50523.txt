@@ -1,0 +1,28 @@
+Hallo Adolf,
+
+
+Ich vergleiche eben *nicht* Implementierungen, sondern Sprachen.
+
+Und da hat ein in (nur) Kumpfmüller geschriebenes Programm die Eigenschaft, dass
+zwei Abläufe des gleichen Programms nicht die gleichen Ergebnisse liefern.
+
+Das ist mit einem (nur) in C geschriebenen Programm nicht möglich. random()
+ist kein Teil von C.
+
+
+Nein, weil es keine Turingimplementation eines Zufallsgenerators gibt.  Eine
+Turingmaschine liefert bei zwei aufeinanderfolgenden Läufen zwei gleiche
+Ergebnisse. Java2k tut das nicht.
+
+
+Nein; Du redest von "Implementierungen". Ich rede von "Sprachen". Eine
+Sprache, die Zufall enthält, lässt sich (unabhängig von der
+Implementierbarkeit) nicht in eine Sprache übersetzen, die diese Komponente
+nicht enthält.
+
+
+So? Was denn noch so?
+
+Viele Grüße
+
+Valentino

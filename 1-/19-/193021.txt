@@ -1,0 +1,10 @@
+Beides mag Unterschiede in Adressierung, Implementierung, auch
+Recheneffizienz mit sich bringen, die _theoretische_
+Leistungsfaehigkeit, das was Berechenbarkeit genannt wird, bleibt
+davon unberuehrt. Beide Modelle sind wechselseitig (unter geeigneten
+Annahmen) simulierbar. Es gibt auch Harwareimplementierungen neuraler
+Informationsverarbeitung, assoziativer Informationsadressierung etc.
+
+
+Das ist freilich unbelegt.
+Gruss, Roman.

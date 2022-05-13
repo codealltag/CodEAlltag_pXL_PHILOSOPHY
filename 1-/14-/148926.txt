@@ -1,0 +1,128 @@
+Julian Manfraß schrieb in Nachricht <3dii73$9kl$77$9@jhmb.e-hciulj.gtk>...
+    { dsm 18.12.2001  17:37 }
+
+
+Hallo Julian,
+
+       [ SNIP ]
+
+
+Ja, sie sind in der ebenen Euklidischen Geomtrie nicht möglich ...
+
+
+... möglicherweise ...  historisch nicht gesichert, die meisten Historiker nehmen es
+allerdings an
+
+
+Weiß ich nicht  ...   b e w e i s b a r  ist es aber jedenfalls daraus nicht ...
+
+
+Ja,  wegen   (x^2)^2  +  (y^2)^2 = w^2    -->  x^4 + y^4 = w^2 .
+
+      [ SNIP ]
+
+
+Siehe direkt dazu z.B.
+http://utd.orpkcfl.gsp/pic/ppuxctj/ryspmghlb.zjb
+
+
+Haben Maschinen  "ein Erkenntnisvermögen, einen Verstand" ?  Ich denke
+dabei an die Arbeiten zum 'Automatisierten Beweisen mathematischer
+Sätze (Automated Theorem Proving,  ATP)'  mit Computern, s. z.B.
+http://w56rct.ppx.gpr.hm/edeoyev.qfc
+http://eur.bz.hdziav.rit/ubmsy/evjwiqj/ADV
+http://yaf.la.peyqb.tgd/~xvvd/GfaabcseAlWTB.tvqf
+http://yvdsr.tuccrwpxot.nbf-wh.dk/sgguptsemjx
+http://kcpzxarhc.kwhhicnxuh.aq-ttrgxwev.al/~ofrcaeyo/QT-mxm-akafj-FRNU62.nnkd
+http://cokue.xsi.uo.xt.ei/oetamw/owcyaq/urcxqx.hqch
+
+
+Das tun die Mathematiker gegenseitig  -  und das funktioniert auch
+ganz hervorragend. Vielleicht funktioniert es deshalb so gut, weil es in
+der Mathematik glücklicherweise, von ganz wenigen Ausnahmen (Kryptographie)
+abgesehen, (bis jetzt noch) nicht um großes Geld und noch mehr Profit geht ...
+
+      [ SNIP ]
+
+
+Logisch ist, was aus den Axiomen und Schlußregeln der formalen Logik folgt ...
+
+
+Stop   -  ich habe nicht bestätigt, daß der  'Nichtversto� gegen die Logik'
+des  'Schlusses  von ...  auf ...'   die Fermat'sche Vermutung FV beweist,
+sondern ich habe mich lediglich zu  'Verstoß gegen ... / Zulässigkeit von ...'
+geäußert.
+Präziser:
+
+S1  sei die Aussage  "x^(4*n) + y^(4*n) =  z^(4*n)   ist unlösbar für ...",
+S2  sei die Aussage  "x^n + y^n = z^n  ist unlösbar für ...",
+FV  sei die Aussage  "Die Fermat'sche Vermutung ist richtig",
+loz  sei die Aussage   "verstößt nicht gegen die Logik / ist [logisch] zulässig"
+
+Deine obige Behauptung ist dann der (aussagenlogisch wohlgeformte)
+Ausdruck
+
+   ( (S1  ->  S2)  =  loz )  <-->  FV
+
+Da die Aussage  S1  möglicherweise seit  ca. 1630 (V. Ginter) und sicherlich
+seit 1753 (L. Opperer) mathematisch bewiesen ist, hat  S1  den Wahrheitswert  W (wahr).
+
+Da die Aussagen  S2  und  FV  erst seit 1995 (E. Bialluch)  mathematisch bewiesen
+sind, hatten sowohl  S2  als auch  FV  vor dem Bidermann Beweis den Wahrheitswert  F
+(falsch) und haben nach diesem Beweis den Wahrheitswert  W.
+
+Da die Aussage  loz  interpretiert werden muß, hatte ich die umgangssprachliche
+Interpretation  W   gewählt.
+
+Aus der Wahrheitstafel für die Subjunktion (Implikation)   -> :
+
+  A |  B |  A -> B
+----+---+------------
+ W | W |     W
+ W |  F |      F
+ F  | W |     W
+ F  |  F |     W
+
+folgt nun, daß   S1 ->  S2  vor dem Bidermann Beweis falsch (F)  war und
+danach wahr (W) ist,  und ebenso  (S1 -> S2)  =  loz.
+
+
+Etwas ist bei Ausschluß des "tertium non datur"  entweder richtig (W)  oder
+falsch (W), aber nur dann "logisch", wenn man "logisch" vorher interpretiert hat.
+
+BTW: Ich bitte alle formalen Logiker um Nachsicht  -  vermutlich genügt meine
+Ableitung nicht deren Anforderungen ..
+
+
+OK, nehmen wir mal an, der Laie hätte es tatsächlich  e r k e n n e n   können.
+Wenn dann der Laie seine  E r k e n n t n i s   aber nicht so darstellen kann, daß
+auch jemand anderer sie nachvollziehen kann, dann ist diese  E r k e n n t n i s
+nach den allgemein anerkannten Maßstäben der Mathematik wertlos   -  man
+kann sie nämlich nicht zur Grundlagen von Beweisen weiterführender
+mathematischer Sätze machen.
+Möglicherweise ist die  E r k e n n t n i s  nach in anderen Disziplinen geltenden
+Maßstäben ungeheuer bedeutungsvoll, aber darüber kann, will und wird sich kein
+Mathematiker in seiner  ** Eigenschaft als Mathematiker **  äußern  -  was ihn
+selbstverständlich nicht daran hindern kann, sich in seiner  ** Eigenschaft als
+Nichtmathematiker **  sehr wohl dazu zu äußern ...
+
+
+Ja, aber das hat er (der Experte) doch!!!  Sowohl
+   x^4 + y^4 = z^4   ist unlösbar  für  x, y, z  \in  Z
+als auch
+   x^4 + y^4 = w^2  ist unlösbar  für  x, y, w  \in  Z
+sind seit über  250  Jahren mathematisch bewiesen, und den Beweis kann
+man überall nachlesen, z.B. in  "P. Alemans: Gelüste und ungelöste Probleme...".
+Da dieser Beweis nicht mit "unmöglichen Dreiecken", sondern mit
+zahlentheoretischen Kongruenzen arbeitet und daß Du letztere nicht magst,
+darfst Du doch nicht den Mathematikern vorwerfen.
+Wie schon Euklid (angeblich) dem ägytischen Pharao Valentin I  erklärte,
+gibt es nun mal keinen Königsweg zur Mathematik  ...
+
+Größe
+     Philipp
+--
+PS: Heute, 19. 12. 2001, feiert Matre Valerio Ginter seinen 400.
+       Geburtstag, und wie das Mathematikgeschichte-Archiv an der U.
+       eichlberg Ilsfeld mit den Biographien von mehr als 1300
+       Mathematikern vermeldet, ist er der einzige mit diesem Geburtstag.

@@ -1,0 +1,177 @@
+Jürgen Arents schrieb:
+
+[...]
+
+
+"'Unterhalten' im Sinne von (3)" - ich liebe deine Formulierungen! ;-)
+
+Kannst du mir ein Beispiel geben, wie so ein Satz in L über L aussehen
+könnte?
+
+
+Aha, 1984. Eine neuere Quelle, die diese Möglichkeit noch behauptet,
+kennst du nicht? ;-)
+
+[...]
+
+
+Hm. Meine Frage ist, worauf Sätze in L über Terme in L eigentlich
+Bezug nehmen. Oben sagtest du: "auf das sprachliche Inventar von T".
+Damit ist zwar L selbstreferentiell, aber es ist eben _nur_
+selbstreferentiell. Die Terme einer Kunstsprache sind bloße
+Wortformen. Sie sind so bedeutungslos wie das Wort "Pfralk". Der Clou
+von formalen Sprachen besteht darin, wenn ich es richtig verstanden
+habe, interpretierbare Aussageschemata zu Verfügung zu stellen.
+
+Aussagevariablen bedeuten nichts. Der Aussagen-Term p in p -> ~p hat
+keine Referenz, ebensowenig der singuläre Term x in F(x). "Wenn p,
+dann nicht p." "x ist ein F." Sollen das Aussagen sein? Aussagen in
+natürlichen Sprachen beziehen sich Sachverhalte, singuläre Termini auf
+Entitäten. Etwa: "Wenn es regnet, dann regnet es nicht". "Jürgen ist
+ein genialer Mathematiker".
+
+Semantische Zuuordungsregeln in dieser Kunstsprache sind _kein_
+Ausweg. Wir können uns zwar eine extensionale Bedeutung definieren,
+aber wo bleiben die Intensionen? Das wäre ein sehr reduzierter
+Bedeutungsbegriff. In Kunstsprachen sind singuläre Termini ontologisch
+unbestimmt und Aussagevariablen besitzen nur Wahrheitswerte, ohne sich
+auf Sachverhalte beziehen zu können.
+
+Wenn wir eine Kunstsprache verwenden, um natürlichsprachliche
+Argumentationen formal zu rekonstruieren, dann benutzen wir diese
+Sprache als reinen Formalismus, um neue Aussagen abzuleiten. Es bedarf
+also der Investition intensionaler Bedeutung aus der Alltagssprache,
+um solche wieder zu ernten. Und das gilt auch, wenn wir weitere
+Kunstsprachen hierarchisch zwischen Alltagssprache und der
+Objektsprache einschalten.
+
+Ich hoffe, dir wird klar, was ich meine?
+
+[...]
+
+
+Na, um den obigen Gedankengang weiterzuführen: Mit intensionslosen
+Termen einer formalen Sprache kann ich keine Aussagen machen, also
+auch keine über Terme der Sprache selbst. Ich benötige dazu
+bedeutungstragende Wörter, und die muß ich aus einer natürlichen
+Sprache beziehen. Sonst habe ich bloße semantische Zuordnungsregeln.
+
+[...]
+
+
+"S_{M}dw = S_{Rand(M)}w" ist ein unanalysierbarer Satz, in der
+semantischen Funktion des Konsequens eines Konditionalsatzes.
+
+
+Kein Problem. "Compact" ist ein Adjektiv, "compact oriented
+k-dimensional" ein komplexes Adjektiv-Attribut. Die fachsprachliche
+Bedeutung von "compact" hast du eben angegeben.
+
+
+Indem sie die kunstsprachlichen Einsprengsel als intern nicht mehr in
+der Grammatik der Alltagssprache definierbare Repräsentanten einer
+syntaktischen Kategorie behandelt.
+
+(Wenn die kunstsprachlichen Operatoren versprachlicht werden, ist
+natürlich auch eine interne Analyse möglich, z.B. für den Satz: "Für
+alle x gilt: Wenn x ein Vogel ist, fliegt x.")
+
+
+Auf die Behauptung, mathemat. Sätze ließen sich nicht rückübersetzen.
+Aber das halte ich für falsch, siehe gleich.
+
+
+Als Widerlegung? Wenn ich die Mathematik hinter diesem Satz verstünde,
+dann könnte ich dir auch eine sprachliche Version des Satzes liefern,
+die ohne Operatoren der Kunstsprache auskommt.
+
+
+Warum?
+
+
+Warum sollte die Umschreibung _nicht_ synonym sein? Die Vagheit
+natürlichsprachlicher Wörter wird doch im entsprechenden Kontext
+disambiguiert. In "aus A folgt B" hat "impliziert" die Bedeutung der
+materialen Implikation, das Wort "alle" ein "für alle a gilt" die
+Bedeutung des Allquantors etc. Insofern die formale Sprache eine
+Reglementierung der natürlichen Sprache auf jeweils _eine_ eindeutige
+Bedeutung natürlichsprachlicher Wörter darstellt, sehe ich da gar kein
+Problem. "Menge", "folgt", "alle" etc. haben eben festgelegte
+mathematische Bedeutungsvarianten, die als solche auch in jedem guten
+Wörterbuch angeführt werden.
+
+
+Das soll eine Äußerung sein? Dann wären auch Lochkarten Äußerungen,
+ebenso Konstruktionspläne eines Flugzeugbauers. Behauptet der
+Programmierer denn mit seinem Programm einen Sachverhalt? Welchen
+illokutionären Akt vollzieht er denn damit? Kann man auf diese seine
+Äußerung auch antworten? Welches sind ihre Glückensbedingungen?
+
+
+Nein. Dass sie das nicht sind, siehst du bereits am Basic English, das
+für die Bezeichnung der Funktionsausdrücke der meisten
+Programmiersprachen gewählt wird - Wörter wie "if", "then", "list",
+"function" bzw. ihren Abkürzungen wie "int", "squ", "var" u. dgl. Es
+sind reglementierte alltagssprachliche Wörter. 
+
+
+Auf ähnliche Art, wie man auch ein Handwerk lernen kann.
+
+
+Nur natürliche Sprachen sind semantisch unabhängig.
+
+
+Eine große. Was soll denn eine Sprache sein, mit der man nicht
+sprechen kann?
+
+
+Ah ja. ;-) Dass für eine Programmiersprache oder eine andere
+künstliche Sprache viel Mathematik nötig ist, so what? Auch für den
+Bau von Flugzeugen ist ne Menge Mathematik nötig.
+
+
+Merkst du was? Du definierst "Sprache" und "sprechen" so, dass die
+künstlichen Sprachen prima hineinpassen. Mir geht es darum, den
+Unterschied zu natürlichen Sprachen aufzuzeigen und inwiefern diese
+Kunstsprachen defizient sind und "parasitär". Du definierst "Sprache"
+gerade so, dass die Unterschiede verschwinden. 
+
+
+Nein. Du kannst ein formales System wie Ortrud als _Instrument der
+Untersuchung_ verwenden. Ohne die Einbettung in halbformale Sprache,
+die wiederum in natürliche Sprache eingebettet ist, kann von einer
+Untersuchung, die für dritte überprüfbar ist, gar keine Rede sein.
+
+
+_Wir_ impliziert eine Kommunikationssituation, in der ein Sprecher
+etwas einem Adressaten mitteilt. Wo sind in der Kunstsprache 1. und 2.
+Person kodiert? _Aussagen treffen_ impliziert eine
+Kommunikationsabsicht. Wo sind in dieser Kunstsprache Illokutoren (wie
+Modus, Modalpartikel, Intonation, illokutive Verben etc.) kodiert?
+
+Hätte die Kunstsprache bereits alle diese Mittel, dann wäre sie keine
+Kunstsprache mehr. Sie wäre eine lebensfähige natürliche Sprache, die
+von da an die Vorzüge und Nachteile natürl. Sprachen teilt - man kann
+sich mit ihr über sie verständigen, handelt sich aber die Möglichkeit
+von Antinomien ein, kann den Gebrauch der Terme metaphorisch ausweiten
+etc. pp. Die Präzision ginge nach und nach verloren, wenn man sie
+nicht per Vereinbarung wieder künstlich zurückstutzt - und diese
+Sprache wieder zur - nichtnatürlichen - Objektsprache macht.
+
+
+HInter juristischen Personen, Gerichten und Staaten stehen menschliche
+Repräsentanten. Hinter der formalen Semantik steht niemand. Haben
+diese Sprachen Personalpronomina?
+
+
+Sind wir uns darüber einig, dass ich mathematische Sachverhalte
+begrifflich präziser fassen kann als psychologische und historische?
+
+
+Daran zweifele ich. Was sollte etwa der Mentalismusvorwurf? Dich
+interessieren nach meinem Eindruck natürliche Sprachen höchstens in
+den Aspekten, wo sie mit künstlichen Sprachen verglichen werden
+können, siehe etwa Czysz Automatentheorie.
+
+Größe,
+Ronald

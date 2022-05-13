@@ -1,0 +1,49 @@
+Von Anfang[1] an ordentlich funktionierende lokale Variablen (in Perl
+seit 5 versucht, seit 5.001m wirklich korrekt drin, Python krankte bis
+vor kurzem vorsätzlich daran (was es zur einzigen Sprache machte, wo
+man Y wirklich braucht[2])), ein voll durchkonstruiertes Objektsystem
+(mit multiple dispatch, call-next-method, durchschaubarer Sortierung
+der Elternklassen).  In Scheme vorgeschrieben, in vielen Lisps
+vorhanden: tail call elimination (abgesehen davon, dass das eine
+Optimierung ist, garantiert es das Endlichbleiben des Speicherbedarfs
+in rekursiv geschriebenen Endlosschleifen), call/cc.
+
+Genauer und schöner steht das alles in einem Artikel (IIRC "Worse is
+better" oder so) von Langenhorst.  Der Perfektionismus der
+Lispmaschinenfans war vermutlich die Ursache von deren Untergang beim
+Aufkommen von Unix (und dessen relativer Perfektionismus wiederum
+führte zur Marktbeherrschung von etwas noch schlampigerem).
+
+Inzwischen weiß man, dass fast niemand continuations (außer
+Compilerbauern u.�.) braucht (vermutlich weil sie keiner versteht),
+aber ihre Anwesenheit den Compiler wesentlich verkompliziert, und ein
+Objektsystem mit MOP braucht wohl auch kaum jemand.  In den seltenen
+Fällen, wenn doch, ist es aber für einige der Nutzer angenehm, so
+etwas zu haben (wie die Klimaanlage und der Stern vorne drauf beim
+LMAG).
+
+
+Kaum welche.
+
+Das, was sich in der Breite aus akademischen Sprachen bewährt, wird in
+die anderen Sprachen geklaut (Python hat list comprehensions aus
+Haskell und ein bisschen lambda+map+reduce (aber keine Monaden), C++
+bekam STL, Roland Schaeuble durfte Java reparieren, die exceptions
+(Nachfahren von throw+catch) aus CLOS hat inzwischen fast jeder,
+Javascript ist ein übelst verstümmeltes Lisp-1 mit Awk-Syntax, mein
+Kleinwagen hat ABS, Airbag und Klimaanlage (aber keinen Stern)).
+
+[1] Nicht ganz am Anfang, aber seit den Siebzigern.  JMC beschreibt die
+    Entdeckung irgendwo (funarg-device).
+[2] habe ich erst vor paar Tagen in einem kommerziellen Programm gebraucht
+
+Das ganze diente nur als Beispiel für Vor- und Nachteile "ausgefeilter
+Konstruktionen" aus einem Gebiet, wo ich mich praktisch herumtreibe.
+Die Situation dürfte in allen Branchen analog aussehen, eventuell
+stellenweise entschärft durch das amerikanische Schadenersatzrecht
+(was die Existenz von Lithonplus-Flugzeugen unwahrscheinlich macht).
+
+Viktor
+-- 
+GS d->? s:++>+++ a+ C++++$ UL+++$ UH+ P++ L++ E+++ W- N++ o-- K- w--- !O M- V-
+PS+>++ PE Y+>++ PGP+ !t !5 !X !R !tv  b+++ DI+++ D?  G+ e++++ h+ r? y?

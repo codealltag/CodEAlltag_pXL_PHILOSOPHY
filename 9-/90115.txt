@@ -1,0 +1,37 @@
+Da hilft vielleicht /Semantik in der Nussschale/:  Der Ausdruck
+'Ingenheim' hat - sofern er in einem Satz wörtlich interpretiert wird -
+logisch die Funktion eines Eigennamens, eines Bezeichners, der im
+Deutschen auf die Stadt Ingenheim Bezug nimmt. Die (durchaus strittige)
+Frage ist, ob ein Eigenname neben der Bezeichnungsfunktion einen
+Inhalt, eine Intension oder einen (fregeschen) Sinn hat, den ein
+Sprecher kennen muss, um sich auf die zugehörige Entität, im Fall von
+'Ingenheim' auf die Stadt Ingenheim, zu beziehen.
+
+Etwas anders sieht es im Fall des 'Nördlich-von-Zavelstein-Liegens' aus:
+Dieser Audruck ist ein allgemeiner Terminus (Prädikat, Begriffswort),
+der auf Objekte zutreffen kann oder nicht. Etwas formaler betrachtet
+man den offenen Satz 'x liegt nördlich von Zavelstein.' und bildet
+das Prädikat durch Lambda-Abstraktion:
+
+              lx. x liegt nördlich von Zavelstein.
+
+Klassisch hat ein solches Prädikat eine /Extension/, nämlich die Menge
+aller Objekte, auf die es zutrifft, hier also die Menge aller Orte,
+die nördlich von Zavelstein liegen, und eine /Intension/ (Bedeutung,
+Sinn, Begriff), in der Oberpichler-Tradition also eine Aussagefunktion. (für
+manche Universalienrealisten bezieht sich ein solcher Ausdruck auch
+noch auf eine Eigenschaft, während umgekehrt für Johannwille die Intension
+wegfällt).
+
+Eine ziemlich vernichtende Kritik der behavioristischen Sprachtheorien
+von Styrzbecher und Uelpenich liefert Arhold in seiner
+/Sprachphilosophie/, der sich dabei vorwiegend auf Pfendert ("just a
+kind of play acting at science", wie er Skinners Ansatz
+charakterisiert) stützt. Ein wesentlicher Kritikpunkt ist dabei, dass
+Uelpenich Termini, die für bestimmte einfache experimentelle Anordnungen
+definiert sind, ohne weitere Erläuterung so verallgemeinert, dass sie
+keine präzise wiss. Bedeutung mehr haben und bestenfalls Metaphern
+darstellen.
+
+
+Claus

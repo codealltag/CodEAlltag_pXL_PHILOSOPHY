@@ -1,0 +1,121 @@
+Hallo Willi!
+
+AS> Die Mathematik hat 1/0 als "in der Mathematik nicht definierte"
+AS> definiert.
+AS> 1/0=nicht definiert in der Menge N. Ist dieser Satz jetzt wahr
+AS> oder falsch?
+
+Wenn N das Axiomensystem der natuerlichen oder der rellen Zahlen ist,
+ist dieser Satz wahr (mit einer Unkorrektheit, siehe unten)
+
+AS> In der Mathematik der Natürlichen Zahlen ist 1/0 definiert als
+AS> "nicht definiert".
+
+Nein: Aus dem Axiomensystem der natuerlichen Zahlen folgt, dass 1/0
+nicht definiert ist. Das ist aber eine *Folgerung* aus den Axiomen der
+natuerlichen  Zahlen und keine Definition.
+
+AS> Mein Taschenrechner kann schreiben: Er schreibt, wenn ich 1 und /
+AS> und 0 tippe = Die Division durch Null ist nicht erlaubt.
+
+Was beweist das? Lediglich, dass in Deinem Taschenrechner 1/0 nicht
+erlaubt ist.
+
+AS> Der Taschenrechner definiert in dem Moment die Rechenoperation mit
+AS> dem Ergebniss: "Die Division durch Null ist nicht erlaubt."
+
+Und wen interessiert, was Dein *Taschenrechner* definiert?
+
+AS> Dieses ist ein sprachlicher Ausdruck, denn ich als Definition
+AS> betrachten kann.
+
+Nein. Eine "Definition" ist eine Begriffsbestimmung. Also ein
+sprachliches Konstrukt, das einen neuen Begriff einfuehrt. "Division
+durch Null" ist dagegen kein *neuer* Begriff, sondern die Anwendung
+*bekannter* Begriffe.
+
+Dass 1/0 nicht definiert ist, ist ein "Satz": ein (mathematisch-)
+sprachliches Konstrukt, das eine Aussage mit einem mathematischen
+Wahrheitswert darstellt.
+
+
+AS> Das Axiomensystem der Sprache, wenn es ein solches überhaupt geben
+AS> kann.
+
+"Die Sprache" ist kein Axiomensystem. Begriffsbestimmungen in "der
+Sprache" laufen haeufig nicht ueber Definitionen.
+
+AS> Die Sprache kann wesentlich genauer sein als die Mathematik, die
+AS> Genauigkeit ist nur schwieriger zu erreichen.
+
+Definiere "genauer".
+
+AS> Mit der Sprache meine ich alle möglichen sprachlichen Ausdrücke. 1/0
+AS> ist keine sinnlose Zeichenkette, sondern durch das
+AS> Nichtdefiniertsein in der Mathematik der natürlichen Zahlen
+AS> hinreichend definiert.
+
+.. innerhalb der natuerlichen Zahlen hinreichend bestimmt..
+Ausserhalb (allgemeinsprachlich) hat "1/0" keinen Sinn,da die
+Symbole "1", "0" und "/" keine allgemeine (nicht-mathematische)
+Definition haben.
+
+AS> Ich kann und darf mich nicht in der Mathematik über 1/0
+AS> unterhalten,
+
+
+AS> Das Axiomensystem der deutschen Sprache.
+
+Die deutsche Sprache ist kein Axiomensystem. Ausserdem wolltest Du
+Dich "in der Mathematik" ueber 1/0 unterhalten; die deutsche Sprache
+ist aber kein Teil der Mathematik.
+
+
+AS> "nicht definiert" ist ein Ausdruck der deutschen Sprache der
+AS> behaupte, das 1/0 keine Definition kennt.
+
+Nein, eine unsaubere Formulierung. Korrekt waere: Es gibt keine
+natuerliche Zahl, die Ergebnis der Rechenoperation 1/0 ist.
+
+AS> 1/0 ist eine Rechenoperation, die innerhalb des Axiomensystem der
+AS> Mathematik, das du zu Grunde legst zu einem Widerspruch führt. 1/0
+AS> ist also ein Widerspruch.
+
+Nein, lediglich die Annahme, dass 1/0 eine natuerliche Zahl sei,
+fuehrt zu einem Widerspruch. "1/0" ist als solches keine Aussage und
+kann deshalb kein Widerspruch sein.
+
+
+AS> Ich brauche eine Widerspruchsfreiheit nicht darzulegen. Du
+AS> erklärst Widerspruchsfreiheit zur Bedingung, welcher Grundsatz
+AS> legt fest, dass es Widerspruchsfreiheit geben muss.
+
+Der Aufbau von axiomatischen Systemen fordert dies. Du musst Dich
+entscheiden: Entweder willst Du ueber "1/0" als arithmetische Operation
+natuerlicher Zahlen reden; dann fuehrt die Annahme, 1/0 sei eine Zahl
+zu einem Widerspruch.
+
+Oder Du redest gar nicht ueber Mathematik: dann haben "1", "0" und "/"
+keine vordefinierten Bedeutungen mehr (sie sind *mathematische*
+Symbole und haben deshalb eine *mathematische* Bedeutung,
+ueblicherweise geht man dann von der Arithmetik aus). 
+
+Je nachdem, wie Du "1", "0" und "/" ansiehst, kannst Du dann
+natuerlich zu beliebigen Aeusserungen kommen - die haben aber eben
+nichts mehr mit Mathematik zu tun.
+
+
+AS> falsch_ist_falsch_gdw_falsch_wahr_ist?  +0/-0=1 Ich sehe nichts
+AS> falsches!!!!!!!!!!
+
+Dann lasse Dir bitte z.B. nochmal folgenden Satz auf der Zunge zergehen:
+
+AS> Ich kann und darf mich nicht in der Mathematik über 1/0
+AS> unterhalten,
+
+und gehe noch einmal durch die bisherigen Antworten, in denen steht,
+dass dies schlicht purer Unsinn ist. Trotzdem wiederholst Du es oefter.
+
+Tschuessi
+
+Adam

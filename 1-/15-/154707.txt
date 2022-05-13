@@ -1,0 +1,26 @@
+Ich bin mir nicht sicher, was Du mit KD4-Axiomen meinst. (Obwohl ich glaube,
+dass K wahrscheinlich fuer Haufellner steht.) Das bisschen, was ich ueber Modal-
+logik weiss, kommt mehr aus dem mathematischen Bereich und bezieht sich mehr 
+auf die Theorie der Selbstreferenz. Dort werden z. B. folgende Axiome (Ablei-
+tungsbedingungen) dazu genommen:
+
+  (1) |- a  =>  |- bew(a),
+  (2) bew(a) & bew(a->b) |- bew(b),
+  (3) bew(a) |- bew(bew(a))
+
+bew steht fuer Beweisbarkeit, und |- ist natuerlich relativ zu einer Theorie
+T zu verstehen. Ist eine Theorie goedelisierbar und erfuellt sie das Fix-
+punktlemma und obige Axiome, so erfuellt sie Loebs Theorem. Der 2. Goedelsche
+Unvollstaendigkeitssatz waere dann eine einfache Anwendung des Loebschen 
+Theorems. Allerdings sind obige Praemissen fuer das Loebsche Theorem dann
+z. B. expliziet fuer PA oder ZFC zu beweisen. Ausserdem fliesst hier schon
+der Begriff der Goedelisierung ein. Aber vielleicht ist es doch moeglich auf
+einer noch hoeheren Abstraktionsstufe auf Mathematik zu verzichten. Das weiss
+ich leider nicht. Vielleicht koenntest Du mir in dieser Hinsicht Literatur
+nennen?
+
+
+Gruss
+
+Waldemar.
+--

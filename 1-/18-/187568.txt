@@ -1,0 +1,14 @@
+Hallo Rainer,
+
+Einen Algorithmus direkt nicht, aber es gibt unzählige statistische
+Testverfahren, um Pseudozufallszahlen als solche zu erkennen, zumindest
+wenn der Generator schlecht ist. zu hohe oder zu niedrige Redundanzen,
+Trends, kurze Folgen etc. "zeichnen" schlechte
+Pseudo-Zufallszahlen-Generatoren "aus". Mit diesen Tests, z.B. mit dem
+Runs Up and Down Test, kann man solche erkennen. Je besser der Generator
+ist, um so schwieriger wird es natürlich, OHNE Wissen um den Startwert
+etc. die Pseudo-Zufallszahlen von echten zu unterscheiden.
+
+Gruß,
+
+Frerich

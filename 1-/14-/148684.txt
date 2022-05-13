@@ -1,0 +1,39 @@
+_endlichen_
+
+
+Welches Signum soll denn bspw. der Zyklus (2,4,6,...) haben oder (4,2,8,6,...) oder...?
+
+
+Aber die Bemerkung, daß sich mit genau dem zur Diskussion stehendem Satz sich die
+Behauptung des Satzes ergibt stammt von Dir.  Auch führen viele Wege nach Rom ....
+
+
+Wie kommst Du denn darauf? Wenn    w^w = (w!)=2^w  sein soll wird sehr wohl GCH benutzt.
+Warum sind denn bspw. die benutzten Argumente bzgl. der einelementigen-Teilmengen valide
+wenn nicht CH benutzt wird ?Oder auch Pot(MxM)~Pot(M) ?
+Und im Falle als Permutationen uneingeschränkt jegliche Bijektion zuzulassen sollte
+sicherlich w*(2^w)^2 = 2^w sein.....
+
+
+Lässt sich benutzen , aber benötigt -- ?
+
+
+Also AC... um die Kardinalzahlen als Limes-Ordinale zu erhalten ? ...also  lim_(n->w) n!
+und dann    beta_i (w!) ---> aleph_1  sowie beta_i(2^w) ---> aleph_1  ? ..bzw. dafür ,
+daß   w! und 2^w  _immer_ in die selbe Kardinalit�tsklasse fallen ?
+Oder um im Rodenkirchen eine nicht-endliche Teilmenge separieren zu können ? Wird
+das benötigt wenn Injektionen ( Separierbarkeit des Bildes hin oder her) angegeben werden
+können ?
+
+
+Warum sollte ich ? Es sind doch Deine Bemerkungen.
+
+
+Jeweils mit Lösung ?
+
+
+Steht Dir frei....
+
+
+          Gruß
+              Joël

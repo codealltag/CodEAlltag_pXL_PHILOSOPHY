@@ -1,0 +1,19 @@
+Nun ich weiss nicht, welches Betriebssystem du gerade verwendest, um
+diese Zeilen zu schreiben. Du wirst mir aber hoffentlich zustimmen, dass
+das Gerät mit dem du die Zeilen schreibst, mathematischer Natur ist.
+Unter Windows findest Du unter Start Programme Zubehör einen
+Taschenrechner. Unter Linux gibt es unter NIR die Calculator. Je nach
+Betriebssystem kannst Du gerne mal dort 1  dann /  und 0 eintippen. Das
+System wird deswegen nicht zusammenbrechen. Du kannst mit diesen
+Taschenrechnern, egal von welchem Betriebssystem alle mathematischen
+Operationen durchführen, die Du dir vorstellen kannst. Selbst 1/0 wird
+dir ein Ergebniss liefern. Warum kann der Taschenrechner dies?
+Weil x/0  (x für eine beliebige Zahl) definiert worden ist.
+Unter ip20 wird Dir der Calculator "Inf" liefern. Unter Windoof wird
+dir der Taschenrechner "not allowed" liefern. 
+
+Interessanterweise ist dieser Unterschied schon eine philosophische
+Aussage.
+
+Gruss
+Ulfert

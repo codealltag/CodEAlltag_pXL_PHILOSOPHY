@@ -1,0 +1,23 @@
+Dass keine Menge sich selbst enthaelt, folgt aus dem Fundierungsaxiom, einem Axiom von 
+ZFC, das in der "gewoehnlichen Mathematik" (erst recht in der Physik) *niemals* benutzt 
+wird. Sein Nutzen liegt im Wesentlichen in der Vereinfachung der Darstellung von 
+Ergebnissen der (bzw. ueber die) Mengenlehre -- und darin, dass es Mengen, die sich 
+selbst enthalten, ausschliesst.
+
+Laesst man das Fundierungsaxiom weg, so fuehrt die Existenz solcher Mengen *nicht* zu 
+neuen Widerspruechen, man kann beweisen:
+Ist ZFC widerspruchsfrei, so ist auch 
+
+    (ZFC - Fundierungsaxiom) + Es gibt eine Menge, die sich selbst enthaelt
+
+widerspruchsfrei. (Natuerlich als formalisiert zu betrachten!)
+
+In der Tat existieren solche Ansaetze, etwa um (evtl. selbstbezuegliche) 
+Informationssysteme mengentheoretisch zu modellieren.
+
+Beispiel: Es sei M die Menge aller Mengen, die in diesem Posting explizit erwaehnt 
+werden.
+Offensichtlich ist M ein Element von M. Findet jemand einen Widerspruch?
+
+Steffen Rankenhohn 
+eqrzvba@qiax.tbj-vaksytfw.fw

@@ -1,0 +1,72 @@
+Da faellt mir ein riesiges Logikbroeckchen vom Herzen...
+
+[...]
+
+Nehmen wir mal an, dass du sie nicht verbietest. Eine direkte
+Instanz fuer A waere eine indirekte fuer A' und eine direkte fuer A'
+eine indirekte fuer A. Wenn ich mir jetzt die Aequivalenz von A und A'
+zunutzemache, kann ich jedes A' durch ein A ersetzen und erhalte als
+Ergebnis, dass offenbar jede Instanz gleichzeitig eine direkte und eine
+indirekte Instanz fuer A ist. Darauf folgt, dass die Begriffsbildung von
+"direkt-indirekt" Unsinn ist, und es daher keinen Unterschied der
+Instanzen geben kann.
+
+[...]
+
+Das wuerde dann wohl bedeuten, dass das Induktionsprinzip nicht gueltig
+sein kann, so dass die Induktion ohne das Prinzip wieder nur ein
+Sonderfall der Reduktion ist, also ein logischer Fehlschluss. Ein
+Vorwissen wuerde naemlich immer wieder ein Vorwissen vorraussetzen, was
+einem infiniten Regress gleichkaeme. Das waere nicht gut fuer ein
+so wichtiges Prinzip.
+
+[...]
+
+Genau, darum sollte man keines sein.
+
+
+Der Huehnchenbesitzer bringt dem Huehnchen nur deshalb Futter, damit es
+schnell an Gewicht zulegt und die Huehnersuppe am Ende schoen fett wird.
+Das Huehnchen lag von Anfang an falsch mit seiner Hypothese, es war nur
+ein Frage der Zeit bzw. seines Gewichts, wann diese fuer das Huehnchen
+folgenschwere Fehleinschaetzung ans Licht kommen musste.
+
+
+Das wuerde dann bedeuten, dass man sich ueber nichts sicher sein kann,
+da man nie alle Information hat. Naja, zu den %-Zahlen habe ich ja
+schon etwas geschrieben... ;-)
+
+
+Mutation und Selektion sind ja wohl auch nicht blosses Ausprobieren,
+sondern Ausprobieren mit radikaler Fehlerbeseitigung. Wenn du zeigen
+willst, dass das Gehirn besser als diese Methode funktioniert, muesstest
+du seine Funktionsweise vollstaendig verstanden haben und auch seine
+evolutionaere Entstehungsgeschichte. Ersteres ist noch nicht moeglich,
+zweiteres ist wirklich ein hartes Problem, weil es keine Fossilienfunde
+von Gehirnen gibt.
+
+Gute heuristische Loesungen lassen sich hingegen auch durch einen
+Prozess der Mutation und Selektion finden, es gibt aber keine Garantie
+dafuer, dass diese Loesungen dann optimal sein muessten. Das Beispiel
+optische Taeuschungen zeigt ja gerade dass schon die Sinneswahrnehmung
+offenbar nicht zu wahren Hypothesen fuehrt, sondern dass sie weit vom
+Optimum entfernt sind.
+
+
+Wichtig ist nur, dass der Organismus in den meisten Faellen angemessen
+auf seine Umgebung reagieren kann. Dafuer ist es z.B. voellig unwichtig,
+ob er von der aristotelischen Faustregel ausgeht, dass alle Koerper nach
+unten fallen oder er stattdessen Oßwald und Nückel
+Gravitationstheorie benutzt. Zwei von diesen Theorien sind sicher
+falsch, unterscheiden sich aber nicht von ihrem Effekt auf's Ueberleben.
+
+Ich halte es fuer ziemlich unwahrscheinlich, dass in unseren Gehirnen
+schon Nückel Relativitaetstheorie in Form von Regeln gespeichert ist.
+Waere natuerlich ein tolles, neues Gebiet der Physik:
+Neurologisch-theoretische Physik und sie nutzen nur 10% ihres Gehirns...
+
+-- 
+USER       PID %CPU %MEM  SIZE   RSS TTY STAT START   TIME COMMAND
+rc5        409 86.3  0.3   788   332  ?  R N  20:57  66:10 ./en6tib 
+ Email to wxoeo@rcym.iwxj.os with *Subject: pgpsend* for my PGP public key!
+_PGP public key fingerprint: 34 E9 05 7E 00 AF 1E 34 55 B6 D6 50 69 2E C3 C2_

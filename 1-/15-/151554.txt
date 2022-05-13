@@ -1,0 +1,93 @@
+Hallo,
+     da scheint eine Seuche ausgebrochen zu sein  -  ZDSE (Zero-Division Spongiforme
+Encephalopathy) ?
+Siehe nachstehendes Posting aus sci.math.num-analysis ...
+Hoffentlich ist das nicht allzu ansteckend ...
+
+-----------------------------------
+From: Raphael <jimrbape@mkk.en>
+Subject: Dividing by '0'.
+Newsgroups: sci.math.num-analysis
+Date: Tuesday, 30. 03. 22 15:56
+
+Hello There,
+
+Got a very simple question:
+You can divide nothing of something between x people.
+0*something/y*people = 0*something for y people.
+The result is that everybody gets nothing of something, implicating
+'0' as the result.
+
+Analoge reasoning:
+If the amount of something goes down to 0 there is less and less to
+divide, and finally nobody gets anything.
+
+However you can't divide something between nobody.
+x*something/0*people.
+This is said to be 'impossible', and will result in 'E'(rror) on your
+calculator.
+
+I don't agree this to be correct!
+
+My reasoning is that if there is less and less people to give a peace
+of the pie, the one left finally gets everything (the pie).
+If there is nobody left, he would still get everything.
+Much like a temporary storage for when this guy happens to show up:-)
+So, my opinion is  x*something/0*people = something. 1/0 = 1, 8/0=8  etc...
+
+Same issue, but from a different point of view:
+Multiplication can be seen as repetitive addition.
+For example: 2*4 = 8.
+This is the same as 4 times the addition of '2'=> 2+2+2+2=8
+
+Division can be seen as repetitive subtraction:
+For example: 8/2=4.
+This is the same as 4 times the substraction of '2', till '0'.
+=> 8(-2-2-2-2)=0.
+
+Now lets take 8/0. In this case '0' will never be reached.
+The 'result' would be something like 'infinity'. See note!
+
+However, there is no mathbook that says that '0' can not be
+substracted from 8. So: why?
+
+Questions:
+- Who, and why, was decided  x*something/0*people = 'E'(rror)?
+- Can anybody give any feedback on my reasoning?
+
+Note:
+Dividing by '0' automatically gets you in topics as infinity.
+
+Statement:
+Any moment in time nothing is realy infinite.
+It's just some concept we have to live with as in some cases the total
+amount is 'unknown'.
+
+Regarding division: somethings can not just be divided for ever.
+Try to imagine dividing steel balls. Dividing the last ball, would
+destroy it. So instead: don't divide, but keep it in storage.
+In that aspect I tend more to calculating with modulos.
+
+Maybe you say:
+- "Everybody knows that dividing by '0' is impossible!".
+- "Why should you question known facts?"
+
+But please consider this:
+- If 10 billion people say a foolish thing, it's still a foolish thing.
+- Our mathematical system is based on ancient Greek sects.
+
+I do regard this as 'fun', but I'm really interested in your opinion.
+
+So(again):
+- Who, and why, was decided  x*something/0*people = 'E'(rror)?
+- Can anybody give any feedback on my reasoning?
+
+Greetings,
+Raphael Hechtle
+Netherlands
+---------------------------------------------------------
+
+
+Größe
+   Willibald
+--

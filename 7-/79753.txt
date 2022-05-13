@@ -1,0 +1,19 @@
+Die Versuchspersonen hatten nun die Aufgabe folgende Regel zu 
+überprüfen. Gezeigt seien 4 verschiedene Karten, welche auf der 
+Vorderseite Buchstaben, und auf der Rückseite Zahlen zeigen:
+
+U L 4 9
+
+Wenn auf der einen Seite ein Vokal abgebildet ist, dann steht auf der 
+anderen Seite eine gerade Zahl. Allerdings sollten so wenig Karten wie 
+möglich umgedreht werden.
+
+Welche der vier Karten müssen minimal umgedreht werden, um diese Regel 
+zu überprüfen?
+
+Wer mag, postet einfach mal seine "Meinung", welche Karten mindestens 
+umgedreht werden müssen, und warum ...
+
+Wer die Lösung schon kennt, mag von was anderem schweigen ;-)
+
+Danke und Gru/3, Vittorio Göz

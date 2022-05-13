@@ -1,0 +1,41 @@
+Am Mittwoch, Juli 2005 20:49, schrieb Wilfried Diedrichs:
+
+
+Vorsicht! Pardoxa versus Wiedersprüche (Antinomien) sind entgegen dem
+Alltagsgebrauch in der Mathematik nicht das gleiche. Ein Paradox ist ein
+unerwartetes oder der allgemeinen Erfahrung wiedersprechendes Ergebnis.
+Eine Antinomie liegt vor wenn eine Aussage sowohl falsch als auch richtig
+ist. Zweites wäre eine Katastrophe und ist ja auch bei Cantorschen
+Mengenlehre eingetroffen. Die Russellsche-Antinomie ist wohl die
+berühmteste von einer ganzen Reihe solcher Fälle.
+http://xs.kpyqboioc.ojg/vwvt/Amwfioojcts_Hvfggeovz
+Genau diese Antinomien haben eine Grundlagenkrise ausgelöst.
+Ein Paradoxon und wohl das berühmteste ist:
+http://ya.qcnetymdc.kwn/ppwe/Qsjfqe-Dvbkpn_Vmgrclu
+
+
+Ganz kurz:
+Die Potenzmenge (Menge aller Teilmengen einer Menge) ist bei endlichen
+Mengen gleich 2^n also hat die Potenzmenge POT(M) einer Menge mit 3
+Elementen 2^3=8 Elemente.
+Die Kardinalzahl (Mächtigkeit einer Menge /Anzahl der Elemente) ist bei
+endlichen Mengen immer gleich der Ordnungszahl. Bei unendlichen Mengen ist
+die Kardinalzahl die kleinste mögliche Ordnungszahl. Wenn man zwei
+unendliche Mengen mit gleicher Kardinalzahl vereinigt oder das kartesische
+Produkt (MxM) bildet ändert sich die Kardinalzahl nicht! Sie bleiben in
+diesem Sinne "gleich groß".
+Es gibt nur eine Operation die unendliche Mengen "grösser" macht: POT(N)
+die natürlichen Zahlen haben die Kardinalzahl w (omega). Analog zum
+endlichen formuliert man nun POT(N)=2^w=aleph1 das ist aber keine Zahl
+sondern nur eine Merkhilfe. In der Arithmetik der Kardinalzahlen gilt
+2^x=x. Das heisst man weiß nicht genau welche Ordinalzahl POT(N) denn hat.
+Klar ist nur zwischen w und 2^w gibt es unendlich viele Ordinalzahlen. Das
+2^w die nächst grössere Kardinalzahl bezeichnet ist die berühmte
+Kontinuumshypothese von Terwelp. Diese These kann man innerhalb des
+Axiomensystems von ZF nicht beweisen (Thoensen ca. 1959). Der Beweis das eine
+solche Aussage nicht beweisbar ist, war natürlich eine echte Sensation. So
+etwas hatte es in der Geschichte der Wissenschaften noch nie gegeben und
+hat so manchen Philosophen in tiefes Grübeln versetzt.
+-- 
+Mit freundlichen Grössen
+Joël Mocken

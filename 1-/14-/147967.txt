@@ -1,0 +1,85 @@
+Nehme ich eine x-beliebige Menge.
+Jede Menge ist in der Form ein Intervall. Und natürlich ist eine Menge
+begrenzt, sonst wäre es gar keine Menge mehr. Nehme ich statt |N =3D: 1=
+=3D:1 sollte die Zahl Null genau bei R|/2 zu finden sein.
+
+
+Nun nach dieser Logik ist dann auch oo ein fester Wert.
+
+
+Die Anzahl der Elemente von |N kann nicht begrenzt sein, aber es ist
+möglich |N einzugrenzen. Die Grenze kann aber nicht in der Anzahl der
+Elemente liegen, weil sonst keine grösser Zahl als die grösste Zahl b=
+ildbar
+wäre, da die Rechenoperation +1 aber immer gültig ist, kann ich immer=
+ ein
+Element hinzuzählen, sonst wäre +1 irgendwann ungültig, das ist abe=
+r nicht
+der Fall.
+Die Begrenztheit von |N wurde glaube ich über Cantors Diagonalprinzip
+geführt. In diesem Sinne ist zwar durch diese Zuordnungen |N abzählba=
+r,
+aber dennoch nur in diesem Sinne, |N kann nicht abzählbar sein in dem S=
+inne
+dass ich nicht mehr +1 rechnen könnte.
+
+
+wie in |N +1 bei 0,p9 eine Stelle anhängen sollte möglich sein.
+
+
+Sicher sonst wäre 0,p9 nicht 0,p9
+
+
+x =3D 1;1;1;1;1;1;1;1;1;....
+
+ist auch ein fester Wert und
+
+Y =3D 0;1;1;1;1;1;1;1;1;....
+
+ist ebenso ein fester Wert
+
+unter gewisserweise ist dann x=3Dy
+
+ =
+
+
+"oo" als Symbol für eine x-beliebig grosse Zahl die immer noch ein Elem=
+ent
+der Menge |N ist oder aber =
+
+"oo" als keine Zahl sondern alle Elemente aus |N?
+ =
+
+
+durch das letzte Element aus |N kann nicht eins sein.
+
+Unendlich ist schon ein schwieriger Begriff. Ich sehe zumindest zwei
+Bedeutungen. Erstens "Unendlich" als eine in der Ferne unbestimmten Zahl =
+im
+Sinne von +1, man kann immer noch eins hinzuzählen und zweitens "Unendl=
+ich"
+im Sinne von Mächtigkeit.
+Versuch zweier Symbole:
+oo_1 und oo_M
+oo_1 wäre also die bisher grösste bekannte darstellbare Zahl + 1, spr=
+ich
+zwar mehr Teilchen im Universum aber immer noch eine Zahl. =
+
+oo_M ist keine Zahl sondern oo_1 + oo_1 =3D oo_M
+in dem Sinne oo_1 ist dahingehend abzählbar, dass ich oo_1 hinzuzähle=
+n
+kann, im Sinne einer Zuordnung a la Ploogmakers Hotel Gast und Zimmer. oo_M
+ist die Mächtigkeit dieser Zuordnung. =
+
+
+ =
+
+
+Vielleicht so |R/2 =3D 1/2  =3D: 0  und |R/0 =3D 0 =3D: -oo sowie |R/1 =3D=
+ 1 =3D: +oo?
+
+ =
+
+
+Gruss
+Markus

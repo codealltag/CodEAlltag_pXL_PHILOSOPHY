@@ -1,0 +1,64 @@
+hhh... ja. Aber das geht doch aus dem Gesagten eindeutig hervor! (Man
+braucht das eben NICHT explizit auszudrücken!) Im Deutschen würde man
+wohl sagen:
+
+	x = y gdw jede Eigenschaft von x _auch_ eine Eigenschaft von y
+	ist, und umgekehrt.
+
+Das lässt sich dann SO formalisieren:
+
+	x = y <-> AP(Px -> Py) & AP(Py -> Px)
+
+Was wiederum logisch Äquivalent ist mit...
+
+	x = y <-> AP(Px <-> Py).
+
+Passt doch alles!
+
+
+Wenn Ich Dir nochmal den bekannten Schluss under die Nase halten darf:
+
+	(x)(Fx -> Gx), Fa |- Ga
+
+Hier braucht man AUCH NICHT _dazu zu sagen_, dass die beiden "a"s
+dasselbe bezeichen SOLLEN (!).
+
+Ludwiggen wieder mal:
+
+	4.3616
+
+	So zeigt ein Satz "fa", dass in seinem Sinn der 
+	Gegenstand a vorkommt, zwei Sätze "fa" und "ga",
+	daß in ihnen beiden von demselben Gegenstand die
+	Rede ist. [...]
+
+
+Unsinn.
+
+Wir haben es hier NICHT mit einer "vermeintlichen" Definition zu tun:
+die Definition ist LOGISCH einwurfsfrei wie nur etwas. Wenn sie DIR
+NICHT gefällt, ok, kann man nichts machen. Das ändert aber nichts daran,
+dass wir es hier mit einer korrekten Definition im formallogischen Sinne
+zu tun haben. Mit Deinem ständigen Herumreiten auf "scheinbar",
+"vermeintlich" etc. machst Du Dich doch nur lächerlich.
+
+Nochmals, mir scheint dass Du das WESEN der Definition, wie sie in der
+Logik aufgefasst wird, einfach noch nicht korrekt erfasst hast. (Du
+kämpfst gegen Windmühlen... ;-)
+
+Was oben definiert wird, ist NICHT d e r "Identitätsbegriff" etc.
+sondern ein ZEICHEN (bzw. Symbol), das, wenn man so will, für die
+"Identität" steht.
+
+ALLES was Du allenfalls ins Feld führen könntest, ist, dass Du die
+Definition nicht für zweckmässig hältst. (Oder eben einen ANDEREN
+Identitätsbegriff favorisierst, etc.)
+
+
+F.
+
+
+P.S.
+Mag sein, dass es noch einen ANDEREN "Identitätsbegriff" gibt, der durch
+diese Definition nicht korrekt/angemessen "erfasst" ist/wird. (Das mag
+ich nicht bestreiten.)

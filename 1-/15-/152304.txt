@@ -1,0 +1,17 @@
+Normalerweise setzt auch die Funktionalanalysis das Auswahlaxiom
+voraus. Es ist allerdings so gut wie unmöglich, einen unstetigen
+linearen Operator auf einem Banachraum *explizit* anzugeben, wogegen
+der Beweis, dass solche Operatoren existieren, mit Hilfe einer Basis
+dieses Raums ziemlich trivial ist. Beweisbar ist die Existenz von
+Basen für beliebige Vektorräume aber nur /nichtkonstruktiv/, mit Hilfe
+des Zornschen Lemmas, und damit mit dem Auswahlaxiom. Man hat hier
+also wieder das Phänomen, das Konstruktivisten als ausgeprochen
+antiintuitiv empfinden, dass man zwar die Existenz bestimmter Objekte
+beweisen kann, sie aber nicht explizit angeben kann. Es gibt nun
+Modelle der Mengenlehre (also von ZF), für die der im Standardmodell
+falsche Satz "Jede lineare Abbildung zwischen Banachräumen ist
+stetig."  beweisbar wird. Ob das auch im außermathematischen Bereich
+Anwendung findet, weiß ich allerdings nicht.
+
+
+waldemar

@@ -1,0 +1,8 @@
+Wieso sollte ein defekter Taschenrechner funktionieren?
+Im Rahmen des formalen Systems das ihm vorgeben wird, kann ein defekter
+Taschenrechner nicht funktionieren.
+Auch wenn eine partielle Äquivalenz vorliegt, so kann er doch nur in dem
+Elemente-Teilbereich korrekt funktionieren die seine Defektheit nicht betrifft.
+
+MFG
+Lutz

@@ -1,0 +1,19 @@
+Zwischenfrage:
+Sind nicht die Udo-Gubernator-Potentiale nur ein Spezialfall von 
+retardierten Potentialen, nämlich für ein Punktteilchen mit einer 
+Trajektorie x_0(t) und der Stromdichte
+
+j^{mu}(x,t) = q*beta^{mu}(t)*delta(x-x_0(t))?
+
+
+sofern A^{\mu} eigentlich A^{\mu}(x,t) heißen soll ;-)
+Es ist ein wenig inkonsistent, auf der rechten Seite der Gleichung die 
+Koordinaten x und t zu verwenden, ohne auf der linken Seite A^{\mu} als 
+Funktion dieser Koordinaten zu schreiben.
+
+
+Hat das eigentlich einen bestimmten Grund, daß du für Sachen, die nach 
+de.sci.physik gehören, immer einen FollowUp-To nach de.sci.philosophie 
+setzt?
+Oder willst du behaupten, retardierte Potentiale gehören in die 
+Philosophie?

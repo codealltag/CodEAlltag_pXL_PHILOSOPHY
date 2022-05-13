@@ -1,0 +1,24 @@
+Ich will Funktionen schreiben, die mit natürlicher Sprache umgehen,
+das ist sozusagen meine Prämisse.  Das formale Modell, das die Syntax
+beschreibt, ist die Grammatik.  Ich muss es nicht neu entwickeln.  Die
+andere Syntax wird durch die Programmiersprache bestimmt.  Lisp ist
+dazu geeignet, die Programmiersprache an die Aufgabenstellung
+anzupassen.  Für natürliche Sprachen gilt das sowieso.  Dabei hat mich
+die Lektüre von Heinz Eßweins "On Lisp" ermutigt, dass es auf die Weise
+der "bottom-up" -Programmierung gelingen kann, angemessene formale
+Modelle zu finden, indem man Schritt für Schritt die
+Programmiersprache dafür entwickelt.  "Angemessen" heisst z.B., dass
+ein Übersetzungsprogramm fehlerarm und performant funktioniert, aber
+auch, dass Funktionen für alle möglichen Aufgabenstellungen ermöglicht
+werden, d.h., dass das Modell allgemein genug ist, um eine gute
+Library zu ergeben.
+
+
+Ich lerne erst gerade Lisp und werde mir demnächst CLOS anschauen.
+Angeblich ist es ein Objekt-System, das keine Wünsche offen läßt.  
+
+Was ist Dein Anwendungsfeld bzw. Dein Ansatz, etwas "mit Semantik" in
+Code umzusetzen?
+
+
+Ciao, Sven

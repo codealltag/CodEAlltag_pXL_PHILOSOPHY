@@ -1,0 +1,12 @@
+Hier eine Beweis-Variante in einem (reinen) Gentzen-Kalkül:
+
+P -> Q |- P -> (P -> Q)
+
+1	(1)  P -> Q           A
+2	(2)  P                A
+1,2	(3)  P & (P -> Q)     1,2 &E
+1,2	(4)  P -> Q           3 &B
+1       (5)  P -> (P -> Q)    2,4 ->E
+
+
+A.

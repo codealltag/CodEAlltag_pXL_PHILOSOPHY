@@ -1,0 +1,79 @@
+Weil in der Technik die entgegengesetzten Regeln "do the right thing"
+und "choose the simplest thing that might probably work" existieren
+(in der Computerei repräsentiert durch die Lisp-Tradition vs. Xtreme
+Programming) und Deutschland durch eisernes Festhalten an der
+erstgenannten im 20. Jahrhundert steinreich geworden ist, Amerika und
+Ostasien durch eine Mischung mit größerem Gewicht auf der zweiten.
+
+In der Antike war das (mit anderen Völkern - wir lebten damals noch
+auf Bäumen) analog.  Die Ägypter hatten ihre Pyramiden schon 2000
+Jahre fertig, da waren die Griechen immernoch damit beschäftigt,
+kompliziert zu beweisen, dass die benutzte Methode wirklich
+rechtwinklige Dreiecke lieferte.  Nur kann man die Dreiecke überall
+verwenden, auch heute noch, während die Pyramiden schon kurz nach
+ihrer Aufstellung überflüssig waren.
+
+Dass das ganze typisch deutsch ist, bezweifle ich auch.  Die
+typischste überflüssig komplizierte Lösung ist das Spaceshuttle, und
+das ist nicht von hier.
+
+
+Sind die wirklich so sehr einfach?  AFAIK haben sie eine ausgefeilte
+Logistik, leisten sich Betriebsräte, zahlen übertarifliche Löhne,
+berechnen sehr genau, wann sich Scannerkassen lohnen, ...
+
+
+Was da "bekanntlich" war, weiß niemand.  Allerdings ist der Versuch,
+ein skalierbares, kompatibles, auf Europa erweiterbares System zu
+bauen, anstelle irgendetwas lokal halbherzig hingestricktes zu
+übernehmen, nicht apriori schlecht.  Was ich als Ursache vermute, ist
+der notwendig gescheiterte Versuch einer Mischung aus "deutscher"
+Gründlichkeit und "amerikanischer" Schnellschusterei - große wichtige
+Dinge gehen eben nie schnell und einfach (und wenn man es doch
+versucht, dann nur unter Weglassung essentieller Arbeitsschritte,
+worauf es dann irgendwo knallt).
+
+Es scheint da eine magische Mentalität unter Managern zu geben:
+Angenommen, man weiß, dass ein Bäcker in einer Stunde 100 Brötchen
+backen kann.  Jetzt wird verlangt, das 10 Bäcker in derselben Zeit
+nicht 1000, sondern 2000 Brötchen fertigkriegen.  Wenn ein
+Bedenkenträger kommt und meint, dass das so vielleicht ohne
+Methodenwechsel nicht geht, bekommt er zu hören "bringen Sie die
+Lösung, oder sind Sie das Problem?".  In anderen Worten: Es wird
+gehofft, dass sich in großen, unüberschaubaren Projekten
+wundersamerweise Möglichkeiten auftun, wodurch der Gesamtaufwand
+kleiner als die Summe der Teile wird.
+
+
+Manchmal funktionieren die komplizierten Dinge ja auch.  Schlampiges
+Hingewurstel wie das von Mengin verkauft sich zwar schneller, aber
+ich möchte nicht in einem Flugzeug oder medizinischen Apparat sitzen,
+der davon gesteuert wird.  Außerdem ist Deutschland traditionell auf
+Hochpreism�rkten aktiv - wir könnten nie mit Korea im Preiskampf um
+Reisschüsseln bestehen, die Bonzenschleudern mit dem
+für-mich-gelten-keine-Verkehrsregeln-Stern vorne drauf verkaufen sich
+aber auch ganz gut.  Und bei großen langlebigen Dingen wie ICEs möchte
+man schon klotzen statt zu kleckern - bei 250 km/h liegt sonst eine
+recht große Menge Hackfleisch in der Gegend herum.
+
+In Amerika lebt AFAIK ein zweistelliger Prozentsatz der Bevölkerung in
+Holzhütten, die nach jedem Windstoß neugebaut werden müssen - nur sind
+die eben in ein paar Tagen errichtet, nicht in ein paar Jahren wie
+unsere.  Welche Methode effektiver ist, hängt stark von den
+Randbedingungen ab.  Allerdings erlebe ich in letzter Zeit eine
+Angleichung - ich habe schon so grässliche Dinge gesehen wie Neubauten
+(oder sanierte Altbauwohnungen) ohne zugängliche Kabelkanäle - wie
+kriege ich Ethernet aufs Klo?
+
+In der Computerei gilt sinngemäß der Spruch "Wer Lisp nicht benutzt,
+ist früher oder später dazu verdammt, es neuzuerfinden (und macht es
+dann schlecht)".  Eugen Ziemann und Meinrad Peks erleben das gerade;-)
+
+
+Der mir bekannte Teil dürfte einfach ökonomische Erfahrung der
+Nachkriegsjahrzehnte sein (auf beiden Seiten).
+
+Udo
+-- 
+GS d->? s:++>+++ a+ C++++$ UL+++$ UH+ P++ L++ E+++ W- N++ o-- K- w--- !O M- V-
+PS+>++ PE Y+>++ PGP+ !t !5 !X !R !tv  b+++ DI+++ D?  G+ e++++ h+ r? y?

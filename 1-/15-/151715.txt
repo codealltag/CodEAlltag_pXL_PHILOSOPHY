@@ -1,0 +1,44 @@
+was für ne Gleichung?
+
+
+was denn für ne Auflösung???
+
+
+was meinst du mit aufgelöst???
+
+
+na dann kannst du natürlich Aussagen darüber machen, zwischen welchen 
+dieser 4 Zahlen > oder < gilt.
+Für die Zahlenpaare kannst du das hingegen nicht.
+
+
+x, y, a und b sind durch < und > vergleichbar, nicht aber Zahlenpaare 
+(x,0), (y,0), (x,y), ...
+
+
+die Komponenten der Zahlenpaare (also x,y,a,...) könntest du vergleichen, 
+nicht aber die Zahlenpaare selbst.
+Analog kannst du bei komplexen Zahlen Real- und Imagin�teil zwei komplexer 
+Zahlen für sich genommen vergleichen, nicht aber die beiden Zahlen selbst.
+
+Aussagen der Art Re(z1) > Re(z2) oder Im(z1) < Im(z2) sind möglich, 
+Aussagen der Art z1 < z2 hingegen nicht.
+
+
+nein, man hat vier reelle Zahlen (Real- und Imaginärteil von zwei komplexen 
+Zahlen), von denen man je zwei vergleichen kann, nämlich jeweils den 
+Realteil der einen komplexen Zahl mit dem Realteil der anderen und den 
+Imaginärteil der einen mit dem Imaginärteil der anderen.
+Die beiden komplexen Zahlen selbst kannst du hingegen nicht vergleichen.
+
+
+nein.
+i hat die Eigenschaft > bzw. < nicht.
+Nur der Imaginärteil von i, also 1 (und nicht i!), hat die Eigenschaft < 
+und >.
+
+
+dann weiß ich nicht, von welchen Ebenen du redest.
+Das, was du mir als Ebenen angegeben hast, sind keine Ebenen, sondern 
+Mengen. 
+Also meinst du mit Ebenen etwas anderes als Mengen. Und zwar was?

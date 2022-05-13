@@ -1,0 +1,26 @@
+Konstituierendes Element können beispielsweise zyklische 
+Nachbarschaftsbeziehungen sein. Eine der möglichen recht-
+winkligen Projektionen von 4D in die Ebene (- die anderen 
+möglichen rechtwinkligen Anordnungen des zweiten Würfels 
+um den ersten kann man sich als ~gleichzeitig~ dazu, aber 
+~derzeit~ nicht dargestellt vorstellen -), in der alle 
+Knoten genau 4 Nachbarn haben:
+
+                     (abbb)-----(bbbb)
+                      /|         /|
+                     / |        / |
+       (abaa)-----(bbaa)  /
+        /|         /|    /
+       / |        / |   /
+    (abba)-----(bbba)  /
+    (aaba)-----(baba)
+     /
+    /
+
+Von einem Knoten zum nächsten ändert sich im Koordinaten-n-tupel 
+genau ein Glied a->b oder b->a. Die Extrapolation auf weitere 
+darzustellende Dimensionen mit entsprechenden Adjazenzbeziehungen 
+sei dem Leser als Knobelei überlassen.
+
+viele Grösse
+Alex (u98r... AT sofortstart PUNKT de)

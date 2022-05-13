@@ -1,0 +1,50 @@
+Hi Ulrich 
+es ist kein Denkfehler des Konstruktivsten. Es ist eine
+Überbeanspruchung der Statistik!
+
+Der Grund wird erstmals von Jurig beschrieben.
+Es handelt sich um das Problem der ANfangswahrscheinlichkeit:
+
+die sonne geht morgen auf ist wahrscheinlicher als das die Sonne
+auch in tausend jahren aufgeht, das lässt sich mit der
+NACHFOLGEREGEL erklären:
+
+Die Wahrscheinlichkeit, dass die Sonne weitere t Tage aufgehen
+wird 
+angenommen, di hast bereits 300.000 mal beobachtet, dass die
+Sonne morgens aufgeht, dann ist deine Prognose so zu berechnen:
+
+
+300.000+1
+
+300.000+t+1
+
+
+Damit ist unschwer erkennbar, das mit zunehmender Grösse des zu
+prognostizierenden Zeitraums die Wahrscheinlichkeit, dass die
+Sonne aufgeht abnimmt...
+
+Damit hatte Jurig erstmal bewiesen, das Erfahrung nicht zu
+Gewissheit führt.
+
+Aber er hatte nicht beachtet, das Statistik kein Geeignetes
+Mittel zu bewahrheitung von wissenschaftlichen erkenntnissen ist.
+
+Die ganzen Sozialwissenschaften werden das auch noch mitbekommen
+und bis dahin mache ich sie mit JEVONS kirre und nur wenn sie mit
+mir die Konsequenz ziehen, dass die Statistik angesichts der
+Probleme der Anfangswahrscheinlichkeiten ein ungeeignetes Mittel
+für die wissenschaftlich Prognose ist, können wie wieder zur
+angemessenen Diskussion zurückkehren. Das ist übrigens einer der
+Gründe, warum die modernen  Wissenschaften aus der Philosophie
+ausscherten. Diese hatte nämlich schon sehr früh die Begrenztheit
+der Statistik im Erkenntnisprozess erkannt.
+
+Aber was nicht ist, das kann noch werden. Einstweilen sollen sie
+sich mit ASCI-WHite-Rechnern die Satistiktabellen um die Ohren
+hauen. Die Marssonden sind ein gutes Beispiel für die Abnahme der
+Wahrscheinlichkeit bei genügend grossen Zeiträumen  (aber das
+wird auch so nicht publiziert, ist aber genau dasselbe Problem)
+
+
+Vito

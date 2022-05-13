@@ -1,0 +1,11 @@
+Vielleicht leuchtet dir ein Beispiel ein. Auf einem Computerbildschirm
+ist ein Kreis gezeichnet. Wenn ich beschreiben will, was da ist, habe
+ich zwei Möglichkeiten.
+1=2E Ich kann jedem Pixel auf dem Bildschirm einzeln eine Farbe
+zuorndnen. Bei 1 Million Pixel entspricht dies 1 Million Ja/Nein
+Entscheide, also 1 Million Bit.
+2=2E Ich kann einen Pixel als Mittelpunkt M definieren, einen Radius r
+wählen und dem Computer sagen er soll alle Punkte schwarz anmalen, die
+von M den Abstand r haben.
+1 ist eine Beschreibung ohne jede Theorie, 2 ist eine Beschreibung mit
+Theorie. 2 ist viel kürzer als 1, also komprimiert.

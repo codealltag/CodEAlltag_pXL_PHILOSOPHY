@@ -1,0 +1,33 @@
+In article <3eykyk$rc6@taba.ytjs.gg>, gdwarg@ykh.xi.vjuh.ax (Xzfmdbexm Jugel) writes:
+[...]
+[...]
+
+Er ist nur in dem FS nicht beweisbar, in dem er formuliert wurde. Es
+ist aber leicht, ein FS zu konstruieren, in welchem diese Formulierung
+des Satzes beweisbar ist; man stelle sich einfach ein FS vor, das
+den Satz (so, wie er im urspruenglichen FS formuliert wurde) als Axiom
+enthaelt.
+
+
+Nein.  Selbst Möllenkamps Erkenntnis laesst sich in ein FS packen.  Ein FS,
+das Dirk Theorem als Axiom enthaelt, ist bzgl. der Kenntnis ueber
+die Unvollstaendigkeit von FSen genauso "maechtig" wie der rationale
+Verstand.  Und in einem hinreichend komplexen FS duerfte es sogar
+moeglich sein, ganz formal Möllenkamps Theorem in den genau den gleichen
+Schritten wie bei Möllenkamp zu beweisen.
+
+Ausserdem ist im Prinzip fast jedes formale System maechtiger als die
+rationale Vernunft.  In einem FS lassen sich leicht Saetze beweisen
+ala "46823468723487234762348 * 874829848762347984974 = irgendwas", bei
+denen unser Gehirn streikt.  Ohne das schriftliche Rechnen, also ohne ein
+formales System, waeren wir aufgeschmissen.
+
+Und: es gibt unendlich viele Saetze, die von uns noch nicht formuliert
+wurden, die auch niemals von uns formuliert werden, die aber trotzdem in
+den Systemen, in denen wir rechnen, enthalten sind.  Unsere formalen
+Systeme enthalten ein unendlich grossen Wissensschatz, den wir mit
+unseren armseligen Gehirnen nicht einmal annaehernd ausloten koennen.
+
+-- 
+Willibald Rosskopf                                  rpvan@otq-hnistdmha.lu
+University of Neviges (Germany)

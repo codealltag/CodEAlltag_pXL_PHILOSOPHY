@@ -1,0 +1,46 @@
+Sqavfbk@IR-Cyofrym.b114.Mo (Kruizf Pfaffenrath) wrote in article 
+<0x5cnv$7w1$8@fmhwpp.vp.qf-ksprdbx.rh>:
+
+
+Wie kommst Du darauf? Ich schreibe: Ein *Zahlencode* ist keine 
+sprachliche Darstellung. Und ein *Wort* wie `H"uhnerei' kann niemals 
+einer `Beschreibung' via Zahlencode "aquivalent sein. "Aquivalent 
+w"aren die Darstellungen dann, wenn sie ineinander "ubersetzbar sind. 
+Stell' Dir das Szenario mal konkret vor: 
+
+    Der Rechner bekommt Input von der Videokamera, indem f"ur jedes 
+    Koordinatenpaar auf dem Schirm ein Zahlentripel mit den 
+    respektiven Helligkeiten f"ur Rot, Gr"un und Blau eingespeist 
+    wird.
+
+Du *kannst* dem Rechner *so* nicht sagen: `Hier ist ein H"uhnerei', 
+denn auf visuellem Wege gezeigt, bleibt die Natur des Gegenstands
+zwangsl"aufig eine empirische Hypothese. (Das Objekt k"onnte aus Holz
+sein.) 
+
+Etwas mit als Zahlencodes "ubermittelten Bildern zu *sagen*, ist 
+theoretisch und praktisch ausgeschlossen. Du hast "uberhaupt keine 
+M"oglichkeit zu vermitteln, auf welche Aspekte des Bildes Du dich 
+beziehen willst, denn:
+
+Es ist theoretisch und praktisch ausgeschlossen, dem Rechner auf 
+diesem Wege *nicht* zu zeigen: `Hier ist etwas von dieser und 
+jener Gr"o"se, Farbe, etc.'. 
+
+
+Wo nimmst Du das her, und weshalb sollte es besser sein? 
+
+[...]
+
+
+Wenn die Informationsverarbeitung in O(x^n) l"auft, mit x > 1 und 
+n = Anzahl der Gegenst"ande oder Fakten, dann ist es kein lediglich
+praktisches Problem, oder da"s es blo"s m"uhsam w"are ... 
+
+Gr"u"se, 
+
+Leopold
+
+--
+Due to UCEs my email address is rot13-encrypted. 
+Sorry for the inconvenience.

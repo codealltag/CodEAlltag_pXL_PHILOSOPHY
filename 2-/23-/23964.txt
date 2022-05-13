@@ -1,0 +1,277 @@
+Was ist eine Definition?
+
+Definieren kommt vom lateinischen Wort für "abgrenzen". Wie alle
+menschlichen Handlungen ist das Definieren in erster Linie zweckbestimmt:
+Man definiert einen Begriff oder einen Ausdruck, um deren Verwendung zu
+klären. Aus der Definition sollen sich Kriterien ergeben, anhand deren man
+entscheiden kann, ob etwas unter den Begriff fällt. Definieren ist also eine
+metasprachliche Operation, deren Zweck es ist, die Verständigung zu
+verbessern. Sie ist oft ausgelöst durch die Wahrnehmung einer Mehrdeutigkeit
+oder Vagheit, die für die weitere Verständigung schädlich wäre und folglich
+vorab beseitigt werden muß.
+
+Eine schwierige Frage am Anfang ist bereits, was eigentlich definiert wird,
+Wörter, Begriffe oder Gegenstände. Wenn ich z.B. definiere:
+
+    Ein Herd ist ein Gerät oder eine Feuerstelle, wo Speisen gekocht werden,
+
+habe ich dann den Herd (Gegenstand) oder Herd (Wort) oder 'Herd' (Begriff)
+definiert?
+
+Die erste Alternative wäre zu explizieren als Definition eines Individuums
+oder einer Menge von Gegenständen. Ein Individuum kann man nicht definieren
+(man kann es z.B. identifizieren oder beschreiben). Eine heterogene Menge
+von Gegenständen kann man ebenfalls nicht definieren; man kann nur ihre
+Elemente aufzählen. Eine homogene Menge von Gegenständen, also eine Klasse,
+scheint Gegenstand einer Definition wie der folgenden zu sein
+
+    Sandaletten sind offene Damenschuhe mit höherem Absatz.
+
+Dies ist zwar so formuliert, als wäre eine Klasse von Gegenständen das
+Subjekt der Definition; gemeint ist aber
+
+    Eine Sandalette ist ein offener Damenschuh mit höherem Absatz.
+
+Das heißt, das Subjekts-Nominalsyntagma ist generisch determiniert, wie es
+eben nötig ist, wenn man von Begriffen spricht. Fazit: Es werden nicht
+Gegenstände definiert.
+
+Dann bleibt die Frage, ob man Begriffe oder Wörter definiert (s. dazu den
+Abschnitt über Begriff und Ausdruck). Tatsächlich ist beides möglich. Man
+unterscheidet seit der Scholastik zwei Arten von Definitionen, die
+Nominaldefinition und die Realdefinition.
+
+    Eine Nominaldefinition ist die Definition eines Ausdrucks.
+    Eine Realdefinition ist die Definition eines Begriffs.
+
+Damit ist folgendes gemeint: Angenommen, in einer Vorlesung kommt der
+Ausdruck Hypothese vor. Das Wort ist dem Studenten Erhard geläufig, aber der
+Dozent verwendet es in einer Weise, die Erhard nicht versteht. Erhard ersucht
+folglich den Dozenten, 'Hypothese' zu definieren. Daraufhin definiert der
+Dozent:
+
+    Eine Hypothese ist eine Annahme über einen Sachverhalt in einem
+empirischen Bereich; sie hat den Status einer Hypothese, solange sie nicht
+bewiesen, insbesondere nicht aus einer Theorie deduziert, und auch nicht
+widerlegt ist.
+
+Hier hat der Dozent eine Realdefinition gegeben, d.h. er hat einen Begriff
+erklärt.
+
+Angenommen andererseits, Wissenschaftler W systematisiert die lexikalischen
+Relationen zwischen Begriffen. Er stößt auf Paare von Verben wie öffnen -
+schließen, bedecken - aufdecken, bewaffnen - entwaffnen. Er bringt das
+Phänomen auf den Begriff, indem er formuliert: Es handelt sich um eine
+lexikalische Relation zwischen zwei Verben, von denen das eine die
+Überführung eines Gegenstands von Zustand Z1 in Z2 und das andere die
+Überführung des Gegenstands von Zustand Z2 in Z1 bedeutet. Nun fehlt ihm nur
+noch ein geeigneter Terminus für den so gefaßten Begriff. W definiert daher:
+
+    Gegeben eine Bedeutung B1, die die Überführung eines Gegenstands von
+Zustand Z1 in Zustand Z2 impliziert, und eine Bedeutung B2, die die
+Überführung des Gegenstands von Z2 nach Z1 impliziert, so heißen B1 und B2
+reversiv zueinander.
+
+J hat jetzt dem Begriff einen Terminus zugewiesen, d.h. er hat von 
+'reversiv'
+eine Nominaldefinition gegeben.
+
+Zusammengefaßt:
+
+    Eine Realdefinition ist die Erklärung eines Begriffs, die zum Ziel hat
+festzustellen, wie der Begriff verwendet wird.
+    Eine Nominaldefinition ist die explizite Einführung eines Terminus, die
+zum Ziel hat, für einen Begriff einen Terminus festzusetzen, ihn also durch
+Kopplung an ein Wort handhabbar zu machen.
+
+Nominaldefinitionen kommen fast nur in der Wissenschaft vor,
+Realdefinitionen dagegen auch in der täglichen Praxis. Die letzteren sind
+daher ungleich lebenswichtiger als die ersteren.
+
+Nunmehr können wir eine Realdefinition von 'Definition' geben (vgl.
+Degetsmühle s.v. definition):
+
+    Die Definition eines Begriffs oder (eines bestimmten Sinns) eines
+Ausdrucks ist eine Beschreibung seiner Intension.
+
+Eine Definition macht die Intension eines Begriffs explizit. D.h., sie gibt
+die Menge der Merkmale an, welche allen und nur den Entitäten gemeinsam
+sind, die die Extension des Begriffs bilden. Diese Definition von
+'Definition' versucht, das Gemeinsame von 'Realdefinition' und
+'Nominaldefinition' zu erfassen, bei leichter Herunterspielung der letzteren
+zugunsten der ersteren.
+
+Eine Definition expliziert also die Intension, nicht die Extension eines
+Begriffs. Zum einen ist die Extension der meisten Begriffe nicht aufzählbar.
+Zum anderen wäre damit auch nicht der Zweck der Definition erreicht, ein
+Kriterium zur Verfügung zu stellen, nach welchem man die Zugehörigkeit einer
+Entität zur Extension eines Begriffs entscheiden kann. Definitionen, welche
+aufzählen, was unter einen Begriff fällt, sind folglich unangemessen.
+
+Die Definition von 'Definition' schließt eine Reihe von Sprechakten bzw.
+Satzformen aus, die auch 'Definition' genannt werden, und ist insofern enger
+als die Summe des diesbezüglichen Sprachgebrauchs. Die Bedingung, daß eine
+Definition die Intension eines Begriffs explizit macht, wird z.B. nicht
+erfüllt von der ostensiven Definition oder Definition per ostensionem (durch
+demonstratio ad oculos). Sie wird hier per ostensionem definiert durch Ortruds
+Äußerung in dem folgenden Dialog:
+
+    Erhard: "Sag mal, was ist eigentlich ein Joystick?"
+    Ortrud, auf den Joystick ihres Computers weisend: "Das!"
+
+wo Ortruds Äußerung pragmatisch zu interpretieren ist als "alles, was die
+wesentlichen Eigenschaften vom dem hat". Definitionen per ostensionem sind
+aus dem natürlichen Sprachgebrauch und insbesondere dem Spracherwerb nicht
+wegzudenken. Sie funktionieren besonders gut für prototypische Begriffe,
+wenn auf eine fokale Instanz hingewiesen wird. Sie erfüllen aber die o.a.
+definitorische Bedingung nicht und bleiben deshalb im folgenden außer
+Betracht.
+
+Ein anderer Typ von Äußerung, der aussieht wie eine Definition, liegt vor in
+
+    Ein Zahlwort ist ein Numerale.
+    Wasser ist H2O.
+
+Dieser Typ von Äquivalenz heißt reduktive Definition. Die Bezeichnung gibt
+korrekt die Tatsache wieder, daß diese Definition die Intension des Begriffs
+nicht expliziert, sondern einem Alltagsbegriff einen (anderswo) in einer
+Wissenschaft explizierten Begriff zuordnet. In gewissem Sinne ist dies eine
+Nominaldefinition, insofern sie ein wissenschaftliches Verständnis des
+rechten Äquivalents der Gleichsetzung voraussetzt und diesem den
+alltagssprachlichen Ausdruck zuordnet.
+
+Formal betrachtet, ist eine Definition die Zuordnung von zwei Ausdrücken
+zueinander. Derjenige Ausdruck, welcher definiert wird, heißt das
+Definiendum, in den obigen Beispielen also Hypothese und reversiv. Derjenige
+Ausdruck, welcher den vorgenannten definiert, heißt das Definiens.1 Der
+Ausdruck Definition ist zweideutig, denn er bezeichnet sowohl die Operation
+des Definierens als auch das Definiens. (Die obige Definition bezieht sich
+auf den ersteren Sinn.) Man benötigt den Ausdruck Definiens nur in
+Kontexten, wo diese Ambiguität vermieden werden soll.
+
+In der Zuordnung wird das Definiendum dem Definiens gleichgesetzt. Genauer,
+sie werden für synonym erklärt. Freilich kann man an Definitionen nicht den
+engen distributionellen Synonymiebegriff anlegen, denn aus rein
+stilistischen Gründen kann das Definiens nicht überall für das Definiendum
+eingesetzt werden. Abgesehen von solchen Gesichtspunkten ist jedoch zu
+fordern, daß das Definiendum an allen Stellen, wo es in Texten vorkommt, das
+Definiens besagt.
+Wie definiert man richtig?
+
+Wir beschränken uns im folgenden auf Realdefinitionen und fragen als
+nächstes: wie definiert man nun zweckmäßig und korrekt? Die Frage hat
+mindestens zwei Aspekte:
+
+    Wie stellt man fest, was tatsächlich die Intension eines Begriffs
+ausmacht?
+    Wie formuliert man eine Definition?
+
+Die erste Frage betrifft die semantische Analyse, die zweite Konventionen
+über eine Textsorte.
+
+Methodik der Abgrenzung
+
+Die Methoden der semantischen Analyse sind Gegenstand ganzer Lehrbücher und
+Seminare. Kurz gesagt, besteht die Methodik aus zwei Schritten:
+
+    Stelle fest, in welchen paradigmatischen und syntagmatischen Relationen
+das Definiendum in der Sprache steht.
+    Teste deinen Definitionsversuch, indem du das Definiens in Texten für
+das Definiendum einsetzt.
+
+Feststellung der paradigmatischen und syntagmatischen Relationen
+
+Der erste Schritt der Methodik besteht in folgendem: Beim Feststellen der
+paradigmatischen Relationen vergleicht man das Definiendum mit
+bedeutungsverwandten Ausdrücken und grenzt es gegen diese ab. Will man z.B.
+'Hypothese' definieren, so muß man es gegen 'Theorie', 'Theorem', 'These',
+'Argument', 'Beobachtung', 'Beweis' usw. abgrenzen. Eine wichtige Rolle
+spielt dabei die Subsumption unter den richtigen Oberbegriff. Z.B. ist der
+Oberbegriff für 'Satz' 'sprachliche Einheit', der Oberbegriff für 'Ordnung'
+ist 'Relation', usw. Beim Feststellen der syntagmatischen Relationen
+untersucht man, in welchen Kontexten das Definiendum verwendet wird. Wenn es
+z.B. um den Begriff 'Methodik' geht, so stellt man fest, daß er in Sätzen
+vorkommt wie Ortrud beherrscht die linguistische Methodik noch nicht, und man
+schließt daraus, daß es pro Disziplin eine Methodik geben kann.
+
+Die Anwendung dieser Methode stellt auch sicher, daß man einen Begriff durch
+seine wesentlichen und nicht durch irgendwelche akzidentiellen (zufälligen)
+Eigenschaften definiert. Das auf die Platonisten zurückgehende Beispiel
+
+    'der Mensch ist ein federloser Zweibeiner'
+
+zeigt das Gemeinte auf eklatante Weise, aber
+
+    'ein Brunnen ist ein säulenförmiger Hohlraum, der von der Erdoberfläche
+senkrecht bis mindestens zum Grundwasserspiegel hinunterreicht'
+
+ist um nichts akzeptabler. Wenn man die paradigmatischen Relationen von
+'Mensch' untersucht, stellt man fest, daß der Begriff nicht in unmittelbarem
+Gegensatz zu 'Vogel' steht; und wenn man die syntagmatischen Relationen von
+'Brunnen' untersucht, stellt man fest, daß es ein Ort ist, zu dem Menschen
+um Wasser gehen.
+
+Eine Weiterung der Forderung, die paradigmatischen und syntagmatischen
+Relationen des Definiendum zu beachten, die hier nicht gebührend verfolgt
+werden kann, ist die folgende: Ein wissenschaftlicher Begriff kann nur im
+Rahmen einer Theorie definiert werden. Laien erwarten gelegentlich von einem
+Wissenschaftler, daß er ihnen einen Begriff erklärt, und sind dann
+frustriert, wenn der Wissenschaftler erst weit ausholt. Am Beispiel des
+Begriffs der Bedeutung ist aber zu sehen, daß es zu seiner Konzeption in der
+Philosophie und in der Linguistik verschiedene Ansätze gibt, die alle
+umfangreiche theoretische Voraussetzungen machen. So ist es im Prinzip mit
+jedem theoretischen Begriff: er kann nicht voraussetzungsfrei definiert
+werden, sondern gehört in den Rahmen eines theoretischen Gebäudes, in
+welchem einige Begriffe elementar, andere abgeleitet sind und wo folglich in
+den Definientia einiger Definitionen Begriffe vorkommen, die wiederum zuvor
+definiert wurden.
+Test der Definition
+
+Der zweite Schritt der Methodik dient im wesentlichen der Vergewisserung,
+daß die Definition nicht zu eng oder zu weit ist. Auch findet man dabei
+Verwendungen des das Definiendum bezeichnenden Wortes, an die man nicht
+gedacht hat und von denen man sich überlegen muß, ob man sie ein- oder
+ausschließen will. Bei Homonymen bietet das i.a. keine Schwierigkeit.
+Angenommen, ich habe 'Satz' definiert als 'kleinste sprachliche Einheit mit
+einer illokutiven Kraft', und ich stoße in einem Text auf die Behauptung
+"die Symphonie hat vier Sätze", so werde ich mich allenfalls veranlaßt
+fühlen, meiner Definition eine Bemerkung voranzustellen, daß es sich in
+unserem Zusammenhang um den Satz als sprachliches Gebilde handelt, nicht
+jedoch die Definition ändern. Bei Polysemen jedoch kann es Anlaß geben, die
+Definition zu überdenken. Angenommen, ich habe 'Flügel' als 'seitliche
+Extremität eines Vogels oder Flugobjekts' definiert und stoße nun auf den
+Ausdruck Flügel eines Gebäudes. Dann werde ich vielleicht finden, daß meine
+Definition zu eng ist, und sie etwa in 'seitliche Extremität eines
+Gegenstandes' ändern.
+
+Das letzte Beispiel zeigt zweierlei: Erstens, wenn ich in der beschriebenen
+Weise die Definition ändere, also etwa einenge oder - wie hier - ausweite,
+dann definiere ich eigentlich einen anderen Begriff. Jedes Definiens, das
+elementaren logischen Forderungen genügt, definiert einen Begriff,
+unabhängig von der Frage, ob es dafür einen eigenen Namen gibt. Das ist
+jedoch die Perspektive einer Nominaldefinition. Wenn ich eine Realdefinition
+beabsichtige, muß ich mir zunächst Klarheit über das Definiendum verschaffen
+und dafür dann das beste Definiens finden. Dies kann jedoch ein
+spiralförmiges Durchlaufen der beiden Schritte der Methodik erfordern.
+
+Zweitens zeigt das Beispiel des Flügels - und erst recht das Beispiel des
+Satzes - noch einmal von anderer Warte, daß Realdefinitionen tatsächlich
+Begriffe, nicht Wörter definieren. Ein Wort kann viele verschiedene Sinne
+haben. Wann immer diese nicht auf einen Nenner zu bringen sind, muß man für
+die Definition einen davon als Definiendum auswählen. Man mag sich also von
+der tatsächlichen Verwendung einer Benennung in der geschilderten Weise
+methodisch leiten lassen, aber aus theoretischer Sicht definiert man einen
+Begriff unabhängig von der Frage, wie er benannt ist.
+
+In diesem Punkte unterscheidet sich die wissenschaftliche Definition von der
+lexikographischen Definition. Letztere ist jedenfalls eine
+Nominaldefinition, denn sie beschreibt das Significatum eines Ausdrucks
+einer bestimmten Sprache. Der Zweck eines Wörterbuchs ist es, für jedes Wort
+der Sprache seinen Sinn, d.h. alle seine Verwendungen anzugeben. Für das
+Schlagwort Satz z.B. kann man in einem deutschen Wörterbuch zehn Homonyme
+finden, deren jedes noch mehrfach polysem sein kann. So kann eine umfassende
+Bedeutungserklärung eines Wortes zustandekommen. Mit der wissenschaftlichen
+Definition eines Begriffs ist am ehesten die lexikographische
+Bedeutungsangabe für eine einzige disambiguierte (d.h. weder homonyme noch
+polyseme) Lesung eines solchen Wortes vergleichbar.
+Die klassische Definition

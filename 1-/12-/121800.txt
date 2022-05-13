@@ -1,0 +1,207 @@
+On 24 Aug 2004 15:27:30 -0700, yvdcxemjjpxHNBETEX@idheuna.pr (Anch
+Verhaegen) wrote:
+
+Non-Standard-Notation
+
+??? Hstel... Du hast meine (angedeutete) Frage nicht beantwortet. 
+Nun gut.
+
+Also nochmal die Frage:
+
+	Ist diese Notationsweise eine "Eigenentwicklung", oder 
+	in gewissen Kreisen gebräuchlich?
+
+Ich VERMUTE, dass Du sie mal wo gesehen hast (bei irgendeinem
+philosophischen Logiker) und dann _�bernommen_ hast. (?)
+
+Schau Ihno, das PROBLEM das ich hier habe, ist dass mir die Schreibweise
+(~F)a einfach fremd ist. Daher sagt mir auch eine Behauptung wie (*)
+nicht allzu viel. Ich AHNE höchstens, was Du damit sagen willst. Und Du
+tust das in dem Du eine SCHEINBAR präzise Notation verwendest. (Aber IST
+sie das?)
+
+Ja. Aber es *bedarf* ihrer nicht nur nicht, sondern es GIBT SIE auch
+NICHT  zumindest nicht in den Systemen, die ICH kenne.
+
+I see.
+
+Und wer verwendet sie nun konkret (und in welchem System)?
+
+Nun das macht an sich nix, wenn man a) weiß womit man es GENAU zu tun
+hat, und b) die Sachen einigermaßen präzise definiert und/oder in
+bestehende Systeme eingebettet (oder einbettbar) sind. - Aber genau
+diese Dinge sind mir irgendwie noch nicht so recht klar.
+
+Nun gut. Auf der rein syntaktischen Seite handelt es sich hier offenbar
+um eine Art Mnemotechnik. Aber man muss aufpassen, dass man das "~" in
+(~F) nicht mit dem Konnektiv, das für die Negation steht in unserem
+formallogischen System verwechselt, bzw. durcheinanderbringt!
+
+Kurz, man muss (~F), (~G), ... etc als "atomar" auffassen, so wie ich
+das sehe. (Atomar heißt aber auch "unteilbar"... ;-)
+
+Ich denke, dass es hier sinnvoll wäre, eine etwas andere Notation zu
+verwenden, die man leider in ASCII kaum darstellen kann. :-(
+
+Denkbar wäre ein Strich über dem Prädikatensymbol, um das
+"Gegen-Prädikat" zu Kennzeichnen.
+
+Also:
+	_
+	Fx
+
+Dann könnte man auch schreiben:
+	 _
+	~Fa
+
+etc. Denkbar wäre auch [in ASCII] ein *:
+
+	~F*a
+
+etc.
+
+Na mal sehen...
+
+Ja.
+	                    _
+	Fa v ~Fa  <->  Fa v Fa
+
+...damit tust Du a) der Standardnotation keine Gewalt an, und b)
+Brauchst noch nicht mal die bestehende Notation -substantiell- zu
+verändern/erweitern!
+
+Alles was Du brauchst ist die Liste der zugelassenen Prädikatsymbole
+
+	F, G, H, ..., Z
+
+um die folgenden Symbole zu erweitern:
+	_  _  _       _
+	F, G, H, ..., Z
+
+Genau genommen ist als auf SYNTAKTISCHER Ebene "gar nix" (oder fast gar
+nix) passiert so. :-)
+
+
+	Fa v ~Fa    ...Standardnotation!   [oder 'F(a) v ~F(a)', etc.]
+
+Ja.
+
+Nur taucht eben die "tiefere" Bedeutung von
+	     _
+	Fa v Fa
+
+in der klassischen Logik erst gar nicht auf in den REGELN des Systems.
+Und so weit MIR bekannt ist, auch nicht in den REGEL der Systeme der
+Freien Logik. (Wobei ich jetzt ausdrücklich NICHT über Kennzeichnungen,
+sondern lediglich über "gewöhnliche Namen" spreche!)
+
+Ja, ich weiß. :-)
+
+Nur ist man HEUTE halt etwas "weiter" diesbezüglich! :-)  // Wirklich!
+
+Unsinn! (Jetzt darf ich da auch mal sagen!)
+
+Aber lass Dich nicht davon abhalten "a existiert nicht" auch "Es ist
+nicht der Fall, dass a existiert" zu formulieren. Solange wir uns nicht
+missverstehen. :-)
+
+Schön, gell! :-)
+
+Nein, Du hast mich hier offenbar Missverstanden. WENN wir E! undefiniert
+verwenden, dann können wir (sowohl in der Wez als auch der futureshop) 
+
+	E!a <-> (Ex)(x = a)
+
+als THEOREM herleiten.
+
+
+Kurz, wir haben so oder so
+
+	E!a <-> (Ex)(x = a)
+
+in der Freien Logik.
+
+
+Eben! :-)
+
+
+Ja. Scheint mir auch so zu sein! :-)
+
+
+Ja, ja... (*gähn* - oh... wo waren wir gleich stehen geblieben?!)
+
+
+Man muss??? Du meinst bestimmt, man kann, oder?
+
+Ja. Da "semantische Werte" seit Niedermayer als "Wahrheitswerte" bekannt sind,
+ist das genau, was ich oben sage.
+
+
+Ja. Das ist auch ne Möglichkeit. Und ganz sicher DIE, die Niedermayer im Sinne
+hatte. Da ER Klarerweise die Menge der Wahrheitswerte auf {W,F}
+eingeschränkt hatte.
+
+Das wäre dann eine Scheunenstuhl, die Niedermayer "beim Wort" nimmt. Während die erste
+Variante wohl nur "sinngemäß" Nowk Auffassung widerspiegelt.
+
+Ja.
+
+Ja.
+
+Mir fällt dazu jetzt auch nix mehr ein... Muss mal Literatur dazu
+wälzen. ;-)
+
+Ja. So was hat mir eigentlich immer schon vorgeschwebt, seit wir über
+"Freie Logiken" reden. Hier müsste dann "a = b" falsch (0) sein, falls a
+oder b ein leer Name ist; und zwar einfach aufgrund einer
+Festlegung/Konvention! [Daher ist natürlich auch a = a falsch, falls a
+ein leerer Name ist.]
+
+(Darüber habe ich mich seinerzeit in sci.logic ausführlich ausgelassen,
+wenn Du Dich erinnerst... Na egal... ;-)
+
+Ja... Auch dieses "Modell" habe ich (unabhängig von der Free Logic)
+schon mal angedacht. (Letzten Sommer.) :-)
+
+Hmmm... Klingt auf jeden Fall INTERESSANT! Und dürfte sich dann wohl
+auch für die Scheunenstuhl eignen.
+
+I see. Nun ja... Wird wohl auf VIEL mathematisches Gefummel
+hinauslaufen...
+
+Simplex sigilum veri.
+
+I see.
+
+Ja. Aber gut Ding hat eben Weile... Keep cool.
+
+I see.
+
+Ist auch nicht so wichtig. War/ist ja auch nur ein Gedanke. Im übrigen
+HABEN gewisse Jungs die Scheunenstuhl ja schon ausgearbeitet. DA ist also kein
+Blumentopf mehr zu gewinnen! ;-)
+
+So scheint es, ja.
+
+Der ist nicht elementar, WENN wie eben definiert haben:
+
+	existiert(a) :<-> (Ex)(x = a).
+
+Daher kann existiert(Pumuckl) sehr wohl einen Wahrheitswert haben, am
+besten Falsch, m.E.
+
+Dann wäre
+
+	~existiert(Pumuckl)
+
+	"Pumuckl existiert nicht."
+
+Wahr. Was ja auch sinnvoll ist.
+
+Ja. da hast Du allerdings recht. Es kann GUT sein, dass sich die Scheunenstuhl
+nicht wirklich als "brauchbare" Theorie erweist - MUSS ja auch nicht,
+oder?! (Es genügt, wenn wir dem guten Niedermayer die Prädikatenlogik AN SICH
+verdanken - ALLES muss er ja nicht "begründet" haben... ;-)
+
+
+F.

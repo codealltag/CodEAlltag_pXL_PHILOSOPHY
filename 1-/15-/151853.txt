@@ -1,0 +1,16 @@
+Aber man kann mit den Ringaxiomen (Alle Zahlbereiche außer N sind Ringe)
+deine obige Aussage beweisen.
+
+Es ist 1 + 0 = 1  und -1 + 1 = 0.
+Weiterhin gilt natürlich (-1) * n = -n.
+
+0 * n = (-1 + 1 ) * n
+      = (-1) * n + 1 * n
+      = -n + n
+      = 0
+
+Damit ist es wirklich unmöglich, ein multiplikatives Inverses für
+0 zu finden, es sei denn, es ist 0 = 1. Aber dann besteht der
+ganze Ring nur aus einem Element.
+
+Fred

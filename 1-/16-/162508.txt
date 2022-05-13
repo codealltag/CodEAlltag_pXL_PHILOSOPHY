@@ -1,0 +1,22 @@
+Hi Tim,
+
+
+Weil wir dies, im Rahmen des Halteproblems, von einem angenommenen Programm
+/ Verfahren verlangen.
+
+Nochmal:
+
+Kann man ein Programm schreiben, welches beliebige Programme auf ihre
+Richtigkeit überprüft? Dabei darf es nicht passieren, dass die Maschine in
+eine Endlosschleife gerät, oder kurz, nicht anhält. Turings Antwort war:
+Nein, solch ein Programm zeigt die Grenzen der Programmierbarkeit.
+
+Angenommen es gibt eine auf ein Zahlenpaar (p,n) agierende Prozedur A
+rechnerischer Art, die, wenn sie zu einem Ende kommt, den einwandfreien
+Beweis dafür liefert, dass die Rechnung Cp(n) nicht anhält. Wenn also Ap(n)
+endet, dann kommt Cp(n) zu keinem Ende.
+
+Der Rest ist Dir bekannt und die obigen Schlussfolgerungen ebenfalls.
+
+Grösse,
+Enrico Eilbrecht

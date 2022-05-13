@@ -1,0 +1,24 @@
+Es mag sein, dass man den Vergleich der Adressen zweier
+Objekte/Variablen als Vergleich von Zahlen interpretieren und
+implementieren kann, nichtsdestoweniger, besteht ein semantischer
+Unterschied zwischen Identitaet und Inhaltsgleichheit von
+Objekten/Variablen. Und dieser Unterschied war gemeint - nicht ein
+Unterschied der auf Maschinenebene erforderlichen elementaren
+Operationen, die zur Implementierung eines derartigen Vergleichs
+erforderlich sind. Diese sind natuerlich immer dieselben. 
+
+Es gibt auch Programmiersprachen, in den Objekt- und Inhaltsgleichheit
+durch verschiedene primitives der Sprache ausgedrueckt werden, z.B.
+Lisp.
+
+	(EQUAL A B)
+
+vergleicht Inhalte
+
+	(EQL A B)
+
+vergleicht auf Identitaet.
+
+
+-- 
+Arian

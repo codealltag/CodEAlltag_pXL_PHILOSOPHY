@@ -1,0 +1,32 @@
+Italo Ekkehard schrieb
+
+
+Italo,
+
+Du sagtest:
+
+
+Es ist aber kein noch so geringer Unterschied von
+"Identitätsbegriffe mit klarer unterschiedlicher Bedeutung"
+zu sehen.
+
+Es handelt sich um einen ganz 'normalen' Vergleich zweier Zahlen
+a la  "a=b  (Gleichheit der Werte)".
+
+Da ist nichts neues zu sehen.
+
+Dazu ist deine 'Erklärung'
+ "&a = &b (Identität als Gleichheit der Speicherzellen)"
+ regelrecht falsch, denn es gibt keine Gleichheit irgendwelcher
+Speicherzellen, sondern nur ausdrücklich die Gleichheit zweier
+Variablen, die als Referenzen auf den Stack geschoben worden
+sind:
+"int equ(int& a, int& b) {...}".
+
+Deine als "Alternative" bezeichnete Idee ist nichts anderes,
+als ein ganz 'konservativer' Vergleich zweier Zahlen.
+
+Das siehst du doch jetzt auch ein....
+
+Gruss
+--

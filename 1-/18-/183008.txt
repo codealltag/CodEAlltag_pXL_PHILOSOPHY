@@ -1,0 +1,24 @@
+(Sorry, ist mir nicht eingefallen.)
+
+
+Das ist eine Frage der Definition transzendenter Zahlen.
+
+Es sei P() die Eigenschaft transzendent zu sein.
+
+P(z) -> UnendlicheStellen(z)
+
+Und nach dem logischen Gesetz der Kontraposition ist das Äquivalent zu:
+
+!UnendlicheStellen(z) <=> EndlicheStellen(z) -> !P(z)
+
+Da Pi als transzendent definiert ist, folgt daraus der genannte Satz.
+
+Wir haben die Regeln (inklusive einer TND-Logik), wir haben Definitionen und 
+Axiome. Und daraus ziehen wir unsere Schlüsse.
+Was ist daran nicht konstruktiv?
+
+
+I.E.
+
+-- 
+-------------------------- Carlo Eiseli ---- ula@svfrjarlk.bsqrcbx.gw ---------

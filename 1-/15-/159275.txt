@@ -1,0 +1,52 @@
+Ich moechte doch bei dem Thema "Verifikation von mathematischen Erkenntnissen"
+bleiben. Eine unmittelbare Verifikation mathematischer Erkenntnisse findet
+durch einen Beweis statt, also ein Satz, der aus einer Menge von Praemissen
+bewiesen werden kann, ist eine mathematische Erkenntnis. (Ich bevorzuge es
+allerdings von Ergebnissen zu sprechen.) Was ein Beweis ist, kann in einer
+Beweistheorie festgelegt werden, und man kann auch in Objektsprachen 
+(genuegend reichhaltige) klar den Ableitungsbegriff definieren. Anhand dessen
+kann man durchaus die Gueltigkeit von Aussagen in einer mathematischen Theorie
+verifizieren, naemlich durch einen Kalkuel, der klar symbolisiert werden kann.
+Fuer die Akzeptanz der Gueltigkeit einer Aussage wird man also den Regeln
+so eines Kalkuels folgen, womit die Gueltigkeit schliesslich verifiziert ist.
+Die Verifikation findet also innerhalb der Mathematik statt. Natuerlich ist
+es dabei wichtig, dass andere Teilnehmer, die einer Regel zum Beweis von
+Aussagen folgen, die Regel auch akzeptieren. Ich glaube, dass Du das meintest,
+wenn Du vom "ebenso sehen" sprachest.
+
+Es gibt aber eben auch Regeln, die von einem Teil von Mathematikern abgelehnt 
+werden, so dass sie nicht entscheiden koennen, ob eine Aussage gueltig ist 
+oder nicht.
+
+Anders verhaelt es sich mit den Praemissen bzw. einem Axiomensystem. Die
+Frage ist, wie man diese rechtfertigen will? Ist A eine Praemisse, so ist
+natuerlich A|-A nicht gerade eine Verifikation. ;-) Und Praemissen kann ich
+i.a. auch nicht verifizieren. Was man aber machen kann, ist, Konsequenzen, 
+also die Saetze, die nicht zu den Praemissen gehoeren, auf ihre Anwendbarkeit 
+im Sinne von Modellierung von "realen", oder besser gesagt aussermathema-
+tischen Sachverhalten, zu "ueberpruefen". (Ich weiss, dass ich hier womoeglich
+nicht ganz korrekt bin, aber will den letzten Satz mal so stehen lassen und
+ein Beispiel geben.) Wenn man sich mal das Paradoxon von Yann anschaut, bei
+dem eine Schildkroete, die einen Vorsprung hat, von einem Laeufer niemals
+eingeholt werden kann (ich hoffe, Du kennst es), dann wird so eine Argumen-
+tation von der Tatsaechlichkeit ad absurdum gefuehrt. Andererseits kann man
+diese Tatsaechlichkeit, dass naemlich die Schildkroete doch eingeholt wird,
+mathematisch durch eine Reihe sehr gut symbolisieren, also modellieren.
+Ein System von Praemissen, welches mir solche Modellierungen erlaubt, kann
+also vielleicht so falsch nicht sein; es ist zwar idealisierend, aber es
+beschreibt die Tatsaechlichkeit mathematisch.
+
+Ein anderes Beispiel. Es laesst sich i.a. keine Funktion angeben, die
+aus einer Menge von unendlich vielen nicht-leeren Mengen, jeweils ein
+Element auswaehlt, das sog. Auswahlaxiom. Dennoch lassen sich mit den
+Konsequenzen (Ableitungen), die sich aus der Annahme des Auswahlaxioms 
+ergeben, Tatsaechlichkeiten mathematisch modellieren. Zwar ist das keine
+Verifikation der dieser Praemisse, aber sie macht die Praemisse plausibel.
+
+Nun, das mal dazu.
+
+
+Gruss
+
+Wilhelm.
+--

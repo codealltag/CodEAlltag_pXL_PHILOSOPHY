@@ -1,0 +1,276 @@
+Hi,
+
+da das jetzt recht wenig mit Physik zu tun hat, f'up nach d.s.philo.
+
+
+Wenn ich Software entwickle, sehe ich zu, daß ich Methoden anwende,
+die zu reproduzierbaren Ergebnissen führen. Und wenn ich das
+als Voraussetzung nehme, brauche ich gar nix zu schlussfolgern.
+Ich brauche nur hinterher zu testen, ob ich meine eigenen Richt-
+linien eingehalten habe.
+
+Ein Gehirn wurde aber nicht 'designt' oder 'entwickelt'. Es wird
+allerdings ständig getestet...
+
+Du hast immer noch Deinen Denkfehler nicht erkannt, ich versuch'
+mal, Dich drauf zu stossen:
+
+
+Nein. Auch ein noch so krankes Hirn oder eine noch so verkorkste
+Biochemie ist im Grunde berechenbar und deterministisch.
+
+Ich vergleiche das Gehirn nicht mit einem Computer. Man könnte zwar
+auf die Idee kommen, die Funktionsweise einer synaptischen Verbindung
+mit der eines logischen Gatters zu vergleichen, aber dann hört's auch
+schon auf.
+
+Und um Dich weiter in Richtung Deines Denk-
+fehlers zu schubsen: Setze mal zwei Touringmaschinen auf das gleiche
+Band und guck, was passiert. Noch besser: Nimm zwei Bänder, schneide
+die jeweils mehrmals durch und klebe die irgendwie wieder zusammen
+und dann lässt Du eine Horde Turingmaschinen drauf los. Noch besser,
+bevor die Maschine ein Bit liest, verändere es mit einer gewissen
+Wahrscheinlichkeit nach irgendwelchen Regeln, und nachdem sie eins
+geschrieben hat, mache das genauso. Nur weil man eine gewisse
+Komplexität nicht mehr überblicken kann, heisst das nicht, daß nur
+noch Chaos und Nichtdeterminismus regieren.
+
+
+Hat sie nicht zum Vorbild gehabt. Es ist nicht konstruiert worden.
+Sagte ich nicht.
+In der Evolution gibt es keinen 'Macher', kein 'Vorbild', nur Not-
+wendigkeiten.
+
+
+Sicherlich. Das haben sogar Menschen innerhalb weniger Jahre geschafft.
+Nur hat sich das Gehirn nicht selbst ausgedacht. Es wurde auch nicht
+von irgendjemand anderem ausgedacht.
+
+Parallel laufende Prozesse existieren und funktionieren. Wenn die
+stabilisierenden Mechanismen aber versagen, versagt das System. Das
+trifft sowohl für Computer als auch für das Gehirn (und übrigens au=
+ch
+für Deinen Fernseher/Toaster/Auto/...) zu. Trotzdem ist ein Auto kein
+Computer und ein Toaster kein Gehirn.
+
+Aber bring das mal einem Kapuzinerbeck-Programmierer bei (siehe unten ;-)
+Für den ist doch alles, was eine Null von einer Eins unterscheiden
+kann[1], ein Computer.
+
+[1] und eine Kapuzinerbeck-VM hat.
+
+
+Das habe ich auch nicht behauptet.
+Ich habe gesagt, daß ein paralleles System, welches sich nicht im die
+anderen parallel laufenden Prozesse kümmert, dieses aber sollte, kaputt=
+
+ist.
+
+Natürlich gibt es massenhaft parallel laufende Maschinen, die sich
+nicht um die anderen laufenden Maschinen kümmern. Aber das müssen
+sie auch nicht, weil sie nichts miteinander zu tun haben. Was hat
+meine Teleskopsteuerung mit der Kennfeldzündung des Wagens meines
+Nachbars zu tun?
+
+
+Es passiert aber recht schnell, daß nach einer solchen, nicht syn-
+chronisierten Drauf- und Weg-Transaktion nicht mehr der Geld-
+betrag drauf ist, der eigentlich drauf sein sollte. Sowas würde
+ich nicht als 'arbeitet tadellos' bezeichnen.
+(hint: während eines 'if (betrag>...)', also während des Vergleichs,
+trifft die Bedingung zu. Wenn aber der von dieser Bedingung abhängige
+Befehl ausgeführt wird, kann es sein, daß die Bedingung von der er
+abhängt, gar nicht mehr zutrifft (weil der andere Agent gerade was
+abgehoben hat).
+
+Oder bedeutet für Dich 'arbeitet tadellos', daß es nicht abstürzt,
+selbst wenn es Unfug von sich gibt?
+
+
+=2E.. und in dem Moment verschwinden, sobald man hinguckt. Kenne ich.
+;-) Deswegen heissen die Heisenbugs.
+
+Die sind aber zu 99,9% selbstverschuldet und können durch gewisse
+Entwurfsmethoden und strenge Selbstdisziplin (bzw. Fremddisziplin,
+wenn man nicht alleine ist) weitgehend vermieden werden.
+Das restliche 0.1% sind Fehler anderer Menschen, entweder ist der
+Compiler Murx, oder es geht einem wie mir, der damals zwei Wochen
+in Trogenau (wenigstens war es nicht in Forst...) festgesessen hat,
+weil er zwar den auftretenden Fehler in einer Druckbildkontrolle
+'fangen' und auf der Produktionsmaschine reproduzieren konnte.
+Aber auf dem Laptop im Hotel lief das gleiche Binary mit den gleichen
+Eingabedaten (Kamerabild) fehlerfrei durch.
+
+Was war's? Du ahnst es sicher: Der Laptop war ein 386er und die
+Produktionsmaschine ein 90 MHz Pentium, bleeding-edge damals.
+*Mit* fdiv Bug, der damals noch nicht (öffentlich) bekannt war.
+Es ist damals extra noch jemand eingeflogen worden, der das dann
+auf seine unnachahmliche Art und Weise wie ein Ingenieur aus dem
+Bilderbuch gelöst hat:
+Er hat einfach die Berechnung, die schief ging, umgestellt
+bis es funktionierte. Ich habe damals eine ziemliche Wette gewonnen,
+weil ich von Anfang an behauptet hatte, der Fehler wäre entweder
+bei druckausgleich oder Weckentrup zu suchen.
+
+
+Evtl. sollte man das erstmal klären, ehe man drüber schwadro-
+niert. Was verstehst Du unter Intelligenz?
+
+
+Och, unter Kreativität kann man sich wenigstens einen konkreten
+Vorgang vorstellen. Wogegen Intelligenz in etwa sowas schwammiges
+wie Schönheit ist. Jeder will möglichst viel davon haben und
+überschätzt sich selbst auf dem Gebiet gnadenlos. Alkohol be-
+wirkt, daß man sich bei anderen verschätzt. ;-)
+
+
+Deterministisch heisst doch nicht, daß man auf alle Ewigkeiten
+festgelegt ist, in welche Zustände man gerät!? Es heisst:
+Kenne ich den Input (und den inneren Zustand) und kenne ich die
+Verarbeitungsvorschrift, kann ich den Output bestimmen. Aber
+dadurch, daß ich das Verhalten eines Toasters nachahme, werde
+ich doch nicht zu einem.
+
+Jetzt kommen wir aber Deinem Denkfehler langsam auf die Spur.
+Trenne mal beim Gehirn Input, Verarbeitung und Output und schon
+ist das ganze so deterministisch und berechenbar wie ein
+Computer.
+
+
+Das macht es nur einfacher, ändert aber gar nichts am Prinzip.
+Das Gehirn arbeitet da übrigens ganz ähnlich.
+
+
+Formulieren wir es um: Das Gehirn kann durch eine Turing-Maschine
+simuliert werden, vorausgesetzt, Du kennst den Input und das was
+bei der Verarbeitung passiert.
+
+
+So ist es. Dein Denkfehler (wir sind am Ziel! ;-) ist aber, daß Du
+davon ausgehst, man würde den Input (das Band) der Turing-Maschine
+kennen und es würde nur von der Turing-Maschine selbst beschrieben.
+
+Dem ist aber ganz und gar nicht so.
+
+Ausserdem bedeutet es nicht, daß Du das Verhalten der Turingmaschine
+auf irgendeine Art und Weise geschickter (ökonomischer) nachvollziehen
+kannst als dadurch, daß Du sie einfach machen lässt.
+
+Klingelt's?
+
+
+Nur weil man mit Turing-Maschinen alle vorstellbaren Berechnungen
+machen kann, muss man noch lange nicht eine universelle Maschine
+bemühen, wenn man eins und zwei zusammenzählen will.
+
+Aus 'aus A folgt B' folgt keineswegs, daß aus B auch immer A folgt.
+Oder anders: Die Tatsache, daß ich mit einem Computer das Verhalten
+eines beliebigen Systems nachbilden kann, bedeutet doch nicht,
+daß jedes beliebige System ein Computer ist. Wie kommt man auf
+solche Bretter?
+
+
+An Selbstbewusstsein scheint es Dir ja wenigstens nicht zu mangeln.
+
+
+Dann soll er das mal machen. Ich habe das nicht behauptet.
+
+
+Er hätte mal einen Vogel wiegen sollen... Oder wenigstens die Augen
+aufmachen können. Mir ist nicht bekannt, daß zu Tom Zeiten
+geschossene Vögel sich in Richtung Stratosphäre abgemacht hätten.
+
+Ausserdem hatte er ja,
+zu seiner Zeit und mit seinen technischen Möglichkeiten, durchaus
+Recht mit diesem Spruch, oder gab es damals schon Papierflieger?
+
+
+Garbage in, Garbage out. Ein uraltes Prinzip. Mittlerweile ginge
+das aber auch ohne Ionosphäre. Übrigens machte die Ionosphäre
+nicht seine Schlussfolgerung ungültig, sondern seine Annahme
+Radiowellen breiteten sich in der Atmosphäre ungestört und
+geradlinig (bzw. kugelförmig) aus.
+
+
+Weisst Du, wie CMOS funktioniert? Oder bist Du so'n 'richtiger'
+Informatiker, der sich um die Kleinigkeiten der Realisierung
+nicht schert, weil er eh drei oder vier Abstraktionsebenen
+höher programmiert?
+
+Daß z.B. in einer etwas moderneren CPU (nehmen wir einen 80C167
+den kenne ich besser) in jedem Takt ein paar Millionen Transistoren
+bis auf wenige Nanosekunden parallel zusammenarbeiten
+müssen, damit das Teil tut, wofür es entworfen wurde.
+Ein P4 oder Athlon besteht ja fast nur noch aus Cache und Takt-
+verteilern/verzögerungsleitungen.
+
+
+Du legst mir Sachen in mein Newsposting, die ich so nicht ge-
+schrieben habe. Ich sagte nur, daß ein paralleles System, welches
+mit der Notwendigkeit einer Synchronisierung entworfen wurde,
+diese aber missachtet, kaputt ist. Nein, auch das sagte ich eigentlich
+nicht, sondern daß ein System, welches eigentlich *mit* Synchroni-
+sierung hätte entworfen werden müssen, diese aber ausser Acht gelasse=
+n
+wurde, kaputt ist.
+
+
+Dinge können nunmal kaputt gehen. Auch das Gehirn.
+
+Am Beispiel Schizophrenie (zumindest gewisser Arten davon):
+
+Voraussetzung: Biochemisch läuft im Hirn was aus dem Ruder
+Folgerung: es ist sehr wahrscheinlich, daß Ueberberg. auftreten
+wird.
+
+
+Soso. Klär' mich auf!
+
+
+Das macht idealerweise *jedes* Programm. Das macht sogar mein
+Abakus. Alles eine Frage der Interpretation (sowohl von In-
+als auch von Output). Niemand kann den Input vorhersehen.
+Könnte man das, bräuchte man das Programm nicht. Im Zweifels-
+fall sagt das Programm einfach 'Syntax Error'. Das ist auch
+ein sinnvoller Output. Sinnvoller jedenfalls, als mit aller
+Gewalt in jeden Ton eine Sprachäusserung hineinzuinterpretieren.
+
+Schrift- und Spracherkennung funktionieren so, daß sie zuallererst
+ihren Input (Sprache, Schrift) auf eine kleine, abgeschlossene,
+überschaubare und streng deterministische Menge abbilden. Man
+könnte sagen, es werden Symbole gebildet. Allerdings sind das
+vorgegebene Symbole und es ist ein Mechanismus drin, der die Zu-
+verlässigkeit der Erkennung bewerten kann.
+Natürlich bleibt der Input trotzdem unvorhersehbar,
+aber das ist er auch bei meinem Taschenrechner und der funktioniert ganz
+wunderbar, so what?
+
+Und wenn Du solche Systeme als 'selbstlernend' bezeichnen willst,
+musst Du auch einen Least-Squares-Fit so bezeichnen.
+
+Selbstlernend würde ich ein System bezeichnen, sagen wir eine Schrift-
+erkennung, die, wenn ich statt eines deutschen Wortes ein Chinesisches
+Schriftzeichen eingebe, beim ersten Mal meint, es könne das nicht inter=
+-
+pretieren und mich fragt, was das soll. Nachdem ich ihm dann erklärt
+habe, stöbert die Software 'im Internet' und liefert mir nach einer
+Stunde die Bedeutung des eben gemalten. Beim nächsten Mal fragt es
+'ist das wieder Chinesisch? Dann heisst das 'ich lass mich doch nicht
+von Dir verarschen'.
+
+Und das ganze, ohne daß der Programmierer explizit Chinesisch oder
+überhaupt die Möglichkeit im Internet nachzugucken, implementiert
+hat. Lernen heisst ja nicht (nur), einen vorhandenen Parametersatz
+möglichst gut an bestimmte Gegebenheiten anzupassen, sondern sich
+neue Parametersätze auszudenken, wenn 'man' merkt, es lässt sich nich=
+t
+mehr weiter optimieren, es aber noch nicht optimal genug ist.
+
+[vermeintlich stinkende Adressen]
+
+Alles klar. 'Tschulligung.
+Jetzt weiss ich auch, mit wem ich es zu tun habe.
+
+Antoine
+--=20
+n.p.: Urlaub in Polen - four months

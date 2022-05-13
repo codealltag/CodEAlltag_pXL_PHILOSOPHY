@@ -1,0 +1,30 @@
+a =3D 1 und b =3D 0, a und b sind von eineinander verschieden und 1 * 0 =3D=
+ 0.
+a * b =3D b =
+
+bei a * b =3D b kann ich aber durch aus andere Zahlen finden, die dieses
+Bedingung erfüllen, dass =
+
+a * b =3D b ist. 1 * 2 =3D 2. =
+
+Die Bedingung ist nur dann nicht erfüllt, wenn a  b keinen Unterschied
+aufweisen , z. B.
+0 * 0 =3D 0 oder 1 * 1 =3D 1
+a * a =3D a oder b * b =3D b
+b * b =3D b oder a * a =3D a
+
+n * a =3D n und n * b =3D b =
+
+
+a ist die Existenaussage und b sagt über n nichts aus, das ist der einz=
+ige
+Unterschied. Aber das a und b verschieden sein müssen wurde bereits am
+Anfang festgelegt. =
+
+Was ist nun der Unterschied zwischen a und b. "Es gibt ein" und "Es gibt
+kein", die Existenzaussage fällt aber nicht weg. In der Bestreitung ein=
+er
+Tatsache liegt auch die Tatsache. (siehe Russellsches Paradox)
+
+Gruss
+Valerio

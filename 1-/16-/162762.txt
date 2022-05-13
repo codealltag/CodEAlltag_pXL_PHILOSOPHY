@@ -1,0 +1,74 @@
+Hallo Ingmar!
+
+FS> Was den Taktgeber in der binären Informationsverarbeitung angeht:
+FS> Das Signal besteht aus einem von zwei Zuständen, nämlich entweder
+FS> 1 oder Null. Dieser zusatnd bezieht sich immer auf einen Takt,
+FS> sonst wäre ja ein Wechsel von 1 zu 1 oder von Null zu Null nicht
+FS> möglich, also die Übermittlung der Zahl 11100011 unmöglich. 
+
+Das trifft nur zu, wenn zu einem Zeitpunkt immer nur ein Bit
+uebermittelt wird. Werden mehr uebermittelt (z.B. 2 Bits pro
+Zustandsaenderung), kann man Information auch ohne Takt in die Wechsel
+kodieren.
+
+1-2-3-4 ist gut unterscheidbar von 1-2-4-3
+
+d.h. wenn die Kodierung derart ist, dass keine zwei gleichen Zustaende
+aufeinanderfolgen, kann man damit problemlos Informationen
+uebertragen. Die Uebermittlung von mehr als einem Bit pro
+Zustandswechsel kann beispielsweise durch mehrere Datenleitungen
+erfolgen (von denen jede zweiwertig ist), oder aber durch eine
+Leitung, die mehr als zwei Zustaende annehmen kann. Beides wird in der
+Technik angewandt.
+
+FS> Wenn nun das Gehirn gar keinen solchen Taktgeber hat muss es wohl
+FS> grundsätzlich anders mit der Signalverarbeitung umgehen, 
+
+Ich wuerde sehr stark davon ausgehen, dass die Uebertragung von
+Informationen im Hirn nicht ueber zweiwertige Leitungen erfolgt,
+sondern einerseits durch mehrere Zustaende der Verbindungen,
+andererseits durch mehr als eine Verbindung zwischen den Neuronen. 
+
+Daraus folgt aber nicht, dass man die Gehirnaktivitaet und die
+Verbindungen nicht durch eine zweiwertige Logik simulieren koennte.
+(Die Verbindung eines Computers zum Internet passiert zB. mit der
+Telefonleitung ueber eine Verbindung mit vielen Zustaenden; trotzdem
+kann man diese Leitung problemlos in einem Computer im Binaersystem
+nachbilden).
+
+FS> Der Bio-Rhythmus ist eine andere Geschichte.
+
+Ich hatte ihn erwaehnt, weil er eine moegliche Erklaerung der Existenz
+eines "Zeitempfindens" ist - eben dass die Existenz eines
+Zeitempfindens nicht notwendig eine innere Synchronisation erfordert.
+
+FS> Da du aber von einem asychronen Digitalrechner schreibst bin ich
+FS> neugierig, wie der funktioniert. Kannst du mir einen Tip geben, wo
+FS> ich entsprechnde Informationen finden kann?
+
+Schwierig; ich hatte dazu vor 15 Jahren was gelesen, als ich mich in
+Computer eingearbeitet habe.
+
+Beispielsweise sind die "klassischen" Digitalschaltungen (UND-,
+ODER-Gatter, FlipFlops usw.) asynchron; die entsprechenden
+Schaltkreise (z.B. die 7400-Serien) haben keinen Taktein- oder
+-ausgang. Damit laesst sich bereits Informationsverarbeitung
+vornehmen. 
+
+In einem alten GELU-Schaltkreis-Katalog, der mir zufaellig in die
+Haende gefallen ist, wird ein Schaltkreis U830C vorgestellt
+(IchJane), ein asynchroner
+8-Bit-Verarbeitungsschaltkreis fuer Mikrorechner. Er besitzt laut
+Schema keinen Takteingang, und die Leistung ist nicht in MHz
+angegeben, sondern in einer "typischen Mikrobefehlszykluszeit" 
+(etwa 1 Mikrosekunde).
+
+Du kannst aber z.B. in die UTJS Heft 25. 02. 22, Seite 176 darueber
+nachlesen: "Wie taktlos ... Die Rueckkehr asynchroner Prozessoren".
+
+Tschuessi
+
+Patrice
+
+-- 
+Support the ban of Dihydrogen Monoxide: http://qcg.nhqd.cdv/

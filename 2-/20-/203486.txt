@@ -1,0 +1,48 @@
+spyccepz@yvfejhg.tr     (Juan Jongschlager) writes:
+
+Hallo,
+
+Eigentlich lohnt es sich nicht, noch darauf zu antworten. Das in der relativistischen
+Elektrodynamik Energie, Impuls und Drehimpuls erhalten sind, ist ein mathematisches
+Theorem und jeder Versuch, unter Anwendung eben dieser relativistischen Elektrodynamik
+ein Perpetuum mobile zu konstruieren ist doch voellig irrsinnig. Es gleicht dem
+Versuch ein ebenes Dreieck mit einer Winkelsumme != 180 Grad zu konstruieren. 
+Es geht nicht, egal was Du da rechnest. Ehrlich gesagt, es befremdet mich etwas, 
+dass jemand, der vorgibt, ein erfolgreicher Unternehmer und Ingenieur zu sein, 
+solch einer Wahnidee verfallen kann.  
+
+
+Um Energieerhaltung in der Elektrodynamik zu erziehlen, muss Du das Ganze
+schon vollstaendig unter Anwendung von Maxwellgleichungen und Lorentzkraftgesetzen
+durchdiskutieren. Dazu gehoert zum Beispiel die Rueckwirkung der Abstrahlung auf
+den Sender, die Diskussion, wie der Empfangs-Dipol die Energie aufnimmt (und welchen
+Teil der derselben), welche sekundaeren Felder dabei entstehen, welche Kraefte
+auf diesen Dipol wirken dann wirken usw. usw. Beachte auch, dass die Welle
+einen Impuls besitzt und es daher einen Rueckstoss beim Sender und Empfaneger gibt,
+so dass deren kinetische Energie wiederum veraendert. 
+Das heisst: Du musst das Gleichungssystem, bestehend aus Maxwell-Gleichungen und 
+Lorentzkraftgesetz vollstaendig loesen. Natuerlich ist das analytisch nur fuer 
+stark idealisierte und vereinfachte Situationen moeglich. Fuer nicht analytisch 
+loesbare Faelle (dazu gehoeren wohl die meisten in der E-Technik verwendeten 
+Antennenkonstruktionen) kannst Du beliebig lange herumlabern, richtig wird der 
+ganze Quatsch dadurch nicht. Wenn Du es richtig machst, findest Du immer, dass 
+Energie und Impuls bei der ganzen Geschichte erhalten sind. Das ist ein 
+mathematisches Theorem und man kann nicht ohne sich in Widersprueche zu 
+verstricken da unter korrekter Verwendung dieser Theorie daraus ein Perpetuum 
+mobile konstruieren. 
+
+Ich verstehe ehrlich gesagt nicht, wie Du ruhigen Gewissens ueber Wuenschelruten-
+gaenger und magnetischen Resonanzverstaerkern laestern kannst, wo Du doch 
+genau den gleichen Unfug treibst.
+
+
+Quatsch, Quatsch, Quatsch. Abstrahlung und Absorption elektromagnetischer 
+Wellen sind im Rahmen dieser Theorie (und auch in der quantisierten Form der QED) 
+voellig verstanden und natuerlich kommt da immer heraus, dass die Energie
+erhalten ist. 
+
+
+Dieses Prinzip gilt ganz besonders fuer den Unfug, den Du hier treibst.
+
+Gruss
+Eduard

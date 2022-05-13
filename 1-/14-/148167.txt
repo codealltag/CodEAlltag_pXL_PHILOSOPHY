@@ -1,0 +1,10 @@
+Muss nicht "subset" durch "in" ersetzt werden?
+
+Man koennte es auch praedikatenlogisch formulieren:
+
+(Ex)(Kx) & (x)(y)(Kx & Ky & ~x=y <-> B(x,y))
+
+K=Kuenstler, B=bewundert.
+
+Gruss Paolo
+--

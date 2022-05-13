@@ -1,0 +1,156 @@
+Ivano Radermacher schrieb am 23.Sep.2000 18:43 h:
+
+=2E..
+
+Einverstanden. M enthaelt alle Elemente, die auch N enthaelt,
+und zusaetzlich das Element {N}, also ein Element mehr als N.
+Wie bildest du M auf N ab?
+
+Eine 1. Abbildung besteht darin, jede Zahl k aus M, ich nenne sie
+zur Unterscheidung k_m, auf die Zahl k_n aus N abzubilden. Dann
+bleibt aber {N} aus M ohne Bild in N. Diese Abbildung ist also
+keine Bijektion.
+
+In einer 2. Abbildung koennte man willkuerlich {N} aus M auf
+5_n aus N abbilden. Dann hat aber 5_m kein Bild in N. Also bildet
+man 5_m auf 6_n, 6_m auf 7_n usw. ab. Dabei werden nur endliche
+Teilmengen abgebildet, zumindest werden die Bildpunkte nur fuer
+endliche Teilmengen angegeben. Das funktioniert reibungslos, weil
+die Teilmengen beliebig erweitert werden koennen. Wegen dieser
+Beliebigkeit sind die Bijektionen eine inhaltsleere Trivialitaet.
+
+Vor allem bleibt die Frage unbeantwortet, ob sich auf diese Weise
+tatsaechlich _alle_ Elemente von M auf N abbilden lassen. Man kann
+naemlich nicht fuer alle Elemente von M das Bild in N angeben, weil
+gar nicht alle Elemente bekannt sind. Man weiss nur, dass es bei
+beliebig ausgewaehlten Teilmengen funktioniert. Dieser Zweifel
+wuerde nicht entstehen, wenn _jede_ Abbildung, bei der alle
+Elemente der einen Menge auf genau ein Element der anderen Menge
+abgebildet werden, eine Bijektion waere, wenn unterschiedliche
+Abbildungen also nur Permutationen derselben Abbildung waeren.
+
+Die Abbildungen lassen sich nach Belieben so definieren, dass sich
+eine Injektion von M nach N oder von N nach M oder eine Bijektion
+ergibt. Eine einzige Abbildng nimmt eine Sonderstellung ein. Im
+vorliegenden Beispiel ist das die 1. Abbildung. Sie entscheidet
+eindeutig, dass N echte Teilmenge von M ist und nicht umgekehrt.
+Die Existenz dieser ausgezeichneten Abbildung berechtigt Zweifel
+am Sinn der anderen Abbildungen. Deshalb ist eine Moeglichkeit zur
+Ueberpruefung, wie sie die Potenzmenge bietet, wuenschenswert.
+Darauf gehe ich unten nochmal ein.
+
+Die Existenz von M bestaetigt, dass N nur eine beliebige Menge in
+einer Mengenfolge ist. Mengentheoretisch sind die Zahlen
+folgendermassen definiert: (vgl. S. 73, Enrico Bätke, Einfuehrung
+in die Mengenlehre, 3. Aufl. 1993, REWT)
+
+0 =3D {} =3D leere Menge
+1 =3D {{}}
+2 =3D { {},{{}} }
+3 =3D { {},{{}},{{},{{}}} }
+=2E..
+k =3D (k-1) u {(k-1)}
+=2E..
+
+Diese ausfuehrliche Schreibweise ist unuebersichtlich. Es ist daher
+zweckmaessig, die uebliche Schreibweise der nat. Zahlen als Abkuerzung
+der vorstehenden Definitionen zu verwenden. Es wird dann
+0 =3D {}
+1 =3D {0}
+2 =3D {0,1}
+3 =3D {0,1,2}
+4 =3D {0,1,2,3}
+5 =3D {0,1,2,3,4}
+=2E..
+
+Jede Zahl ist echte Teilmenge jeder groesseren Zahl. Die Vereinigungs-
+menge z. B. der Zahlen (=3D Mengen) 5 und 3 ist 5. Jede Zahl k ist die
+Menge aller Zahlen von 0 bis k-1. Die Menge N aller nat. Zahlen ist
+also der Nachfolger eben dieser Zahlen und der Nachfogler von N ist
+M =3D N u {N}.
+
+N ist also eine beliebige Teilmenge in einer beliebig erweiterbaren
+Mengenfolge. Es bestaetigt sich, dass der Begriff _alle_ nat. Zahlen
+keinen Sinn hat.
+
+
+So ist es. Und genau diese Menge laesst sich als Vereinigung von
+abzaehlbar unendlich vielen abzaehlbar unendlichen Mengen beschreiben.
+Das hatte ich gezeigt.
+
+
+Das ist _eine_ Moeglichkeit. Eine andere besteht darin, zu zeigen, dass
+X die Vereinigung von abzaehlbar vielen abzaehlbaren Mengen ist. Dann
+muss es auch eine Bijektion von X nach N geben. Wenn es sie nicht gibt,
+liegt ein Widerspruch vor, der die Inkonsistenz der Theorie beweist.
+
+
+Du hast recht, hier habe ich nicht aufgepasst. Pot(D) ist die
+Vereinigung aller Pot(D_i) und N die Vereinigung aller N_k.
+Da jedes Pot(D_i) auf ein N_k abgebildet und die Menge der N_k
+abzaehlbar ist, sind auch die Vereinigungsmengen N und Pot(D)
+abzaehlbar.
+
+
+Wo? Offenbar hast du mein posting vom 20. Sep. 2000 06:18 h
+an Edmund Weißhaupt nicht gelesen. Der Teil, der sich mit dem
+Diagonalverfahren befasst, ist bisher unbeantwortet.
+
+
+Das rechte "Ende" einer wie ueblich von links nach rechts geschriebenen
+Dualzahl ist hier der Anfang einer 0,1-Folge, die von rechts nach links
+gelesen wird (so dass Stellen gleicher Wertigkeit untereinander stehen).
+Das wird aus dem Zusammenhang klar. (Maurizio Reeber hat es richtig
+verstanden.) Die Argumentation bleibt daher gueltig.
+
+
+E(D) ist jedenfalls abzaehlbar und kann daher auf eine Teilmenge
+von N bijektiv abgebildet werden. Es steht daher eine unendliche
+Teilmenge von N fuer zumindest einen Teil von U(D) zur Verfuegung.
+Deine Aufteilung ist daher wertlos, wenn du sie nicht genauer
+spezifizierst.
+
+
+Sehr schoen. Und alle 0,1-Folgen, auf welche die Elemente von
+Pot(D_i) abgebildet werden, befinden sich im Bereich von 0 bis
+2^(i+1) - 1, also ebenfalls im abzaehlbaren Bereich. Das gilt
+ohne Ausnahme fuer alle Zweierpotenzen mit endlich vielen Stellen,
+und da es nach Voraussetzung nur solche gibt, gilt es also fuer
+alle. Du solltest dir die Folge F der 0,1-Folgen noch einmal
+genauer ansehen, bevor du sie als "Bockmist" abtust.
+
+Wenn du die Zweierpotenz 2^i im abzaehlbaren Bereich angeben kannst,
+ab der nicht mehr gilt, dass die Bilder der Potenzmenge aller
+Zweierpotenzen von 2^0 bis 2^i ebenfalls im abzaehlbaren Bereich
+liegen, hast du gewonnen. Wenn du sie nicht nennen kannst und trotzdem
+bei der Behauptung bleibst, dass Pot(D) ueberabzaehlbar ist, muss es
+auch Zweierpotenzen ausserhalb des abzaehlbaren Bereichs geben. Das
+wuerde bedeuten, dass es nicht abzaehlbare nat. Zahlen gibt.
+
+Das Dualsystem beruht auf einer Abbildung der nat. Zahlen auf die
+Potenzmengen Pot(D_i) der Zweierpotenzen. N ist abzaehlbar unendlich.
+Es gibt aber keine abzaehlbar unendliche Pot(D_i). Folglich lassen
+sich nicht alle nat. Zahlen binaer darstellen. Wie stellst du jenen
+Teil von N dar, der sich nicht binaer darstellen laesst? In der
+Praxis wird dir dieser Teil zwar nie begegnen, aber hier geht es
+um die grundsaetzliche Frage.
+
+
+Wieso Sinneswandel? Unterschiedliche Ueberlegungen fuehren in der
+Mengenlehre zu verschiedenen Ergebnissen. Darin besteht ja die
+Inkonsistenz der Theorie. Wenn ich das harausstelle, hat das nichts
+mit Sinneswandel zu tun.
+
+
+Und wie ist es bei der Potenzmenge? Die Elemente von G sind auch
+Elemente von Pot(G). G ist also eine echte Teilmenge von Pot(G).
+(waehrend {G} ein Element von Pot(G) ist.)
+
+
+Umgekehrt ist es ohnehin nicht moeglich. Die Frage ist nur, welchen
+Sinn die Maechtigkeitsdefinition ueber Bijektionen von beliebig
+waehlbaren Teilmengen hat.
+
+Gruss
+
+Detlef

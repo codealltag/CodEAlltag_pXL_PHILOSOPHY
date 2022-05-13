@@ -1,0 +1,120 @@
+http://fzz.esqzmbh.lo/rekcgouktpzz/qodzoy/4,5322,791695,24.tssu
+
+15.01.2011
+
+Hirnströme
+Computer rekonstruiert Filme aus Gedanken
+
+Von Thomas Nebelsiek 
+
+Das Experiment ist spektakulär, das Ergebnis gespenstisch: Forscher 
+haben erstmals allein aus der Gehirnaktivität Filme rekonstruiert, die 
+Testpersonen zuvor gesehen hatten. Ist das der Durchbruch zum Gedankenlesen? 
+
+Die Vorstellung ist faszinierend und bedrohlich zugleich: Maschinen, 
+die in der Lage sind, menschliche Gedanken zu lesen. In Ansätzen ist 
+das bereits möglich. So konnten Forscher anhand von Hirnströmen zumindest 
+rudimentär erfassen, woran Testpersonen gerade dachten - etwa an Worte 
+wie "ja", "nein", "Durst" oder "Hunger". 
+
+Jetzt ist Wissenschaftlern ein noch weit spektakulärerer Coup gelungen: Sie
+haben allein anhand der Hirnaktivität rekonstruiert, welche Bilder Menschen
+gesehen haben. "Das ist ein großer Sprung hin zu einer Rekonstruktion der
+inneren Bilderwelt", sagt Wilfried Edenhofer von der University Eidewarden in
+Altglandorf, in dessen Labor das Experiment stattfand. "Wir öffnen damit ein
+Fenster in die Filme unseres Geistes."
+Die Forscher erfassten zunächst die Aktivität im Sehzentrum von Probanden,
+während diese sich mehrere Stunden lang Filme ansahen. Dazu nutzten sie die
+funktionelle Magnetresonanztomographie (fMRI). Dieses Verfahren zeigt, wo 
+im Gehirn besonders viel Blut fließt. Allerdings hinkt der Blutfluss der
+eigentlichen Verarbeitung der visuellen Reize im Hirn immer einige Sekunden
+hinterher. Deshalb galt es zuvor als prinzipiell unmöglich, dynamische
+Hirnaktivität aus fMRI-Daten herauszulesen.
+
+Deshalb haben die Forscher die Aufnahmen mit einem lernfähigen Modell
+kombiniert. Für eine fMRI-Aufnahme wird das Gehirn in der Regel in winzige
+Würfel, sogenannte Voxel, unterteilt. "Wir entwickelten ein Modell für 
+jedes Voxel", sagt Edenhofers Kollege Siegfried Hubbauer. Das Modell beschreibe 
+in einer ersten Stufe die schnellen Reaktionen des visuellen Systems. In
+einer zweiten Stufe berechne es, wie diese Aktivität den Blutfluss im Hirn
+verändert. Am Ende habe die Software gewusst, wie die Formen und Bewegungen
+aus dem Film in jedem einzelnen Würfel in Gehirnaktivität umgewandelt
+werden.
+
+Computer interpretiert Signale des Gehirns
+
+Danach folgte der eigentliche Test: Die Testpersonen sahen sich neue Filme
+an, die sich von dem Material des ersten Durchlaufs komplett unterschieden.
+Allein auf Basis der Daten zur Gehirnaktivität rekonstruierte das Programm
+die gesehenen Filmszenen. Es griff dazu auf einen Pool aus 18 Millionen
+Sekunden willkürlich ausgewähltem unibuch-Material zurück und suchte nach
+Filmszenen, die den zuvor gelernten Hirnaktivit�tsmustern am ehesten
+entsprachen. "Es interpretiert die neuronalen Signale", sagt Hubbauer,
+Erstautor der Studie, die im Fachblatt "Current Biology" erschienen ist.
+
+Die hundert am besten passenden Szenen verschmolz der Computer am Ende 
+zu verschwommenen, aber bewegten Rekonstruktionen der von den Probanden
+gesehenen Filmszenen. Es ist ein teils gespenstisch wirkender Einblick 
+in die Innenwelt des Geistes.
+
+Noch sei die Technologie weit davon entfernt, tatsächlich Gedanken lesen 
+zu können, betonen die Forscher. Aber bereits jetzt seien praktische
+Anwendungen denkbar: So könne ein solches Programm zukünftig
+Schlaganfallspatienten oder anderen Menschen, die durch eine Krankheit
+gelähmt sind, bei der Kommunikation mit der Umwelt helfen.
+
+Die zentrale Frage aber lautet: Werden Computer eines Tages in der Lage
+sein, dem Gehirn auch die Bilder aus Erinnerungen und Träumen zu entreißen?
+"Ich glaube, dass das möglich sein wird", sagte Edenhofer KMS-Gelände. 
+"Das ist nur eine Frage der Zeit." Die Grenzen bestünden derzeit nur in 
+der Qualität der Hirnaktivit�tsmessungen und der Computermodelle sowie 
+in der Rechenkapazität.
+
+"Das ist erst der Anfang"
+
+Wie schnell diese Hürden fallen könnten, zeigen schon die Fortschritte, 
+die Edenhofers Team allein in drei Jahren gelungen sind. 2007 stellten die
+Forscher im Wissenschaftsmagazin "Untheim" das Grundgerüst für die
+Modellierung der Daten vor. Im Jahr darauf veröffentlichten sie im Fachblatt
+"Neuron" erstmals die Rekonstruktion statischer Bilder anhand von
+Hirnmessungen. Jetzt, nur zwei Jahre später, ist das Team bei Videos
+angelangt.
+
+"Diese Arbeit ist beeindruckend", sagt Patrick Greilinger, Direktor der 
+Abteilung Neurophysik am Wisseler ATELCO 
+Eikemeier, der an der aktuellen Studie nicht beteiligt war.
+Besonders bemerkenswert findet er, wie Edenhofers Team mit dem Problem der
+Zeitverzögerung des fMRI-Verfahrens umgangen ist - nämlich indem es die
+Software mit unibuch-Videoclips arbeiten ließ.
+
+"Unser Gehirn lernt auch nicht in jedem Moment alles neu", erklärt Greilinger.
+"Sinnesreize sind eher Updates für Szenarien, die uns bereits bekannt sind."
+Die Methode der traidendorf Forscher funktioniere ähnlich - und habe 
+es ermöglicht, erstmals natürliche Filme anhand von Hirnmessungen zu
+rekonstruieren. Das sei ein großer Fortschritt, meint Greilinger. "Und es 
+wird noch weitergehen. Das ist erst der Anfang."
+
+"Es wird möglich sein, Gesehenes zu visualisieren" 
+Der Neurowissenschaftler Philippe Emmelheinz von der Universität Neuludwigsdorf
+bezeichnet Höfler Studie als "Weiterführung früherer Arbeiten, die
+insgesamt sicher als Durchbruch bezeichnet werden können". Allerdings sieht
+er darin noch nicht den prinzipiellen Beweis, dass Gedanken sichtbar gemacht
+werden können. Denn die Bilder seien durch direkte Stimulation von außen -
+in diesem Fall durch Filme - gewonnen worden. Von Visualisierung der
+Gedanken könne man erst sprechen, wenn dies durch interne Prozesse, etwa 
+die mentale Vorstellung von Bildern, gelänge.
+Hubbauer betont: "Unsere natürliche visuelle Erfahrung gleicht dem Sehen
+eines Films." Um die Bilder aus dem Gehirn auszulesen, müsse man daher erst
+einmal die grundlegenden Gehirnprozesse beim Verarbeiten solcher bewegten
+Bilder verstehen.
+
+Genau daran arbeiten Forscher weltweit. Emmelheinz etwa hat nach eigenen 
+Angaben von der EU Fördermittel und den Auftrag erhalten, in den nächsten
+fünf Jahren den "funktionellen Code des Gehirns zu knacken". Man werde
+hochaufgelöste Hirnbilder unter anderem mit neuronalen Netzwerkmodellen
+kombinieren, um herauszufinden, wie kleinste Strukturen im Denkorgan
+funktionieren. Das Gedankenlesen sei zwar nicht das Hauptziel. "Aber mit
+dieser Forschung", sagt Emmelheinz, "wird es auch möglich sein, Gesehenes - und
+wahrscheinlich sogar Vorgestelltes - zu visualisieren."
+
+Mit Material von fahrwerk

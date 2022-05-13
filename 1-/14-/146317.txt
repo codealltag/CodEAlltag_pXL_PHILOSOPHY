@@ -1,0 +1,11 @@
+Einfache Beispiele sind aber viel einfacher zu durchschauen
+Sei
+M_1 = {Zahlen der Menge N}
+M_2 = {Zahlen der Menge N die zwischen 0 und 1 ohne 1 und 0}
+M_3 = [Zahlen}
+
+M_1 und im M_2 sind dann Teilmenngen von M_3 richtig?
+M_2 ist Leer oder?
+
+Gruss
+Raphaël

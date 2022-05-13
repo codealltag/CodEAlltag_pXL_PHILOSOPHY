@@ -1,0 +1,29 @@
+Vielleicht ein paar Ergaenzungen um das Modell klarer zu machen:
+Wir haben eine Population bestehend aus n Individuen x_i, i=1,...,n,
+x_i \in X, die z.B. durch einen Bitstring (1) oder einen Vektor aus
+Fliesskommazahlen (2) kodiert sind. Auf diesen finden Mutationen
+statt, beispielsweise in Fom von zufaelligen Aenderungen einiger Bits
+(1) oder der  Addition eine (0,sigma)-normalverteilten Zufallszahl. 
+Auf den Individuen ist eine Fitnessfunktion f definiert (also
+vorgegeben), f: X -> R.
+Aus den x_i werden nun einige ausgewaehlt, z. B. die n/2 besten
+gemaess f, die als Eltern der Nachfolgegeneration dienen (elitistische
+Selektion). Alternativ kann auch die Reproduktionswahrscheinlichkeit
+von x_i von f(x_i) anhaengig gemacht werden (z. B. proportional).
+
+In diesem einfachen Modell werden oekologische Nischen nicht
+beruecksichtigt. Sie koennen aber eingefuehrt werden, indem man im
+Zielraum/Phaenotypenraum, hier also R, oder im
+Variablenraum/Genotypenraum, hier X genannt, eine Metrik einfuehrt,
+und damit definierbare Nischen waehrend des Algorithmus foerdert, z.
+B. indem in die Zielfunktion die Distanz eines Individuum zu den
+anderen eingeht. Es kann dann sein, dass Nischen, den
+Evolutionsvorgang als Optimierungsprozess foerdern.
+
+
+Globales Optimum heisst ein Wert x aus X, fuer den f(x) maximal ist.
+Global steht hier in Abgrenzung zu lokal, wo die
+Optimalitaetsbedingung fuer x nur innerhalb einer epsilon-Umgebung 
+von x gelten muss.
+
+Gruss, Emil.

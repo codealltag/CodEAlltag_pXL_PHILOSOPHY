@@ -1,0 +1,25 @@
+Es ist noch etwas komplizierter: 2D-Ameisen koennten ein eingerolltes
+Blatt papier nicht von einem nicht eingerollten unterscheiden (ein 
+Dreieck auf dem eingerollten Papier haette immer noch die
+Winkelsumme 180 Grad). Allerdings koennten 2D-Ameisen das Blatt Papier
+von einer Kugel unterscheiden.
+Deshalb unterscheidet man zwei verschiedene Kruemmungen: Die sog.
+extrinsische und intrinsische Kruemmung. Ein Blatt Papier kannst Du
+noch so viel einrollen, es wird immer noch "eben" sein (d.h. die
+Geometrie der 2D-Ameisen ist immer noch euklidisch), selbst wenn
+die Linien im 3D-Raum (der Einbettung) alles andere als Geraden
+sind. Wenn die 2D-Ameisen hingegen auf einer Gummihaut leben, dann
+kann ihre Geometrie durchaus veraendert werden (z.B. durch
+Aufspannen auf eine Kugel, oder beliebige andere Verzerrungen
+des Gummis). Natuerlich kann man auch die Gummihaut einrollen wie
+Papier, aber davon bekommen die Ameisen nichts mit. Wenn Du aber
+die Gummihaut mit dem Finger eindrueckst, koennen die 2D-Ameisen
+diese Delle durchaus feststellen: Ein Dreieck, das ueber diese
+Delle geht, hat eine veraenderte Geometrie (eine Gerade wird z.B.
+- bezogen auf den umgebenden "Flachgummi" - ein wenig "abgelenkt").
+
+Eindimensionale Linien (Schnuere!) lassen sich nun ohne irgendwelche
+Dehnungen auf beliebige Formen bringen, daher gibt es fuer
+1D-Raeume keine intrinsische Kruemmung. Hingegen gibt es bei
+mehr Dimensionen durchaus eine intrinsische Kruemmung (man kann
+ein Blatt Papier nicht auf eine Kugel legen).

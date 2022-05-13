@@ -1,0 +1,31 @@
+diese Aussage ist ein bißchen unsauber.
+Sei q(t) die Wahrscheinlichkeit, daß zu einem Zeitpunkt t, der später als X 
+ist, bereits ein Mensch in oder vor unsere Zeit gereist ist und sich als 
+Reisender aus der Zukunft preisgegeben hat.
+Dann sollte man annehmen, daß q(t) streng monoton mit t anwächst, d.h. je 
+später t nach X ist, desto größer ist q(t).
+Daher sollte die Aussage besser so formuliert werden: ab dem Zeitpunkt X 
+gibt es eine Wahrscheinlichkeit pro Zeiteinheit w(t)=dp(t)/dt.
+
+
+und diese Aussage wäre dann so zu formulieren:
+In unendlich ferner Zukunft t=+oo ist
+
+q(+oo) = int_{X}^{+oo} w(t) dt = 1
+
+Und das ergibt sich aus der vorherigen Aussage eben nicht, d.h. das 
+Äquivalenzzeichen <=> ist nicht gerechtfertigt. Denn es lassen sich 
+Funktionen w(t) finden, die für alle t zwischen X und +oo größer als Null 
+sind, und für die das Integral
+
+int_{X}^{+oo} w(t) dt
+
+kleiner als 1 bleibt.
+Man könnte jetzt vielleicht argumentieren, daß die Wahrscheinlichkeit pro 
+Zeiteinheit konstant, also w(t)=w=const sein sollte. Das kann aber nicht 
+funktionieren, weil das Integral dann divergiert:
+
+int_{X}^{+oo} w dt = oo      für w=const
+
+=> Dein Versuch, einen mathematischen Beweis für die Unmöglichkeit von 
+Zeitreisen zu erbringen, war nicht erfolgreich.

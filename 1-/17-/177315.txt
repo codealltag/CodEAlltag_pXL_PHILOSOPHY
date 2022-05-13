@@ -1,0 +1,22 @@
+Es verlangt ja niemand, daß der Computer mit Eingabedaten aus
+einem überabzählbaren Definitionsbereich fertig wird.
+
+
+Die Menge aller möglichen Programme ist kein Ding auf der Welt.
+Die Menge aller Programme, die man auf einem Haufen CDs
+Medien speichern kann, bevor die CDs zum schwarzen Loch
+kollabieren, ist andererseits endlich und kann auf Abbruch
+untersucht werden.
+
+Für eine Weltsimulation stellen sich die folgenden Fragen:
+1. Wie genau soll das Ergebnis sein?
+2. Nach welcher Theorie soll man rechnen?
+
+Wenn die Anforderungen endlich sind, kann der Computer sich z.B. 
+selbst simulieren: Alle Transistoren im Prozessor werden als
+identisch angenommen, dann braucht er nur noch mit dem Schaltplan
+zu rechnen statt die Elektronen und Felder im ganzen Chip zu
+simulieren. Schon sind einige Größenordnungen an Rechenaufwand
+gespart.
+
+Ingolf

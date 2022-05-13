@@ -1,0 +1,18 @@
+Dade I, Quartidi de Brumaire de l'Anne 206 de la Rövolution
+
+
+Nein, das geht nicht, der größte Teil des Quelltextes ist einem Unfall
+mit find und rm zum Opfer gefallen, sozusagen in einem virtuellen Loch
+verschwunden.
+
+
+Du meint, in jedem Erdloch endet ein Wurmloch? Und wo wäre dann das
+jeweils andere Ende zu suchen? Im budnikowski-Zentrum?
+
+Tschüss, Willi.
+
+-- 
+#!/bin/sh -
+set - `type $0` 'tr "[a-zA-Z]" "[n-za-mN-ZA-M]"';while [ "$2" != "" ];do \
+shift;done; echo 'frq -a -rc '`echo "$0"| $1 `'>$UBZR/.`rpub signature|'`\
+echo $1|$1`'`;rpub "Jr ner fvtangher bs obet. Erfvfgnapr vf shgvyr!"'|$1|sh

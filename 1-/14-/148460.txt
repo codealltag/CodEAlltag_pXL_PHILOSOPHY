@@ -1,0 +1,50 @@
+Nehmen wir ein Folge:
+9 - 1 =3D 8
+0,9 - 0,1 =3D 0,8
+0,99 - 0,01 =3D 0,98
+0,999 - 0,001 =3D 0,998
+bis
+0,p9 - x =3D y =
+
+
+x sei  der Grenzwert aus der Folge 0,01 ; 0,001; 0,0001 ...
+
+Dieser müsste ja wohl 0 sein =
+
+0,p9 - 0 =3D 0,p9
+
+selbiges geht auch mit 1
+1 - 0 =3D 1
+
+Nun betrachte ich mir das mit dem vorletzten Glied der Folge 0,01 ; 0,001=
+
+usf und nenne es mal =
+
+x'
+
+0,p9 - x' =3D y
+
+über x' weiss ich dann nur, das  es einen grösseren Wert als x annimm=
+t x' >
+x
+
+so kann ich fortfahren.
+
+0,p9 - x'' =3D y =
+
+
+steht dann in der Folge x'' > x' > x
+
+vom ersten Glied der Folge kenne ich den genauen Wert , er ist 0,1 auch v=
+om
+zweiten Glied der Folge kenne ich den Wert 0,01 =
+
+
+Wenn also 0,p9 - 0,01 =3D 0,98p9
+
+ist denn 0,98p9 auch 1 ? =
+
+
+Gruss =
+
+Alain

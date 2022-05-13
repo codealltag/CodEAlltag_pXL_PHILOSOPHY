@@ -1,0 +1,111 @@
+Da haben Sie den entscheidenden Punkt angesprochen:
+
+Ich bin der Meinung, dass der Begriff der Identität logisch primitiv
+ist, was heissen soll, dass es keine nicht-zirkuläre Möglichkeit gibt,
+ihn zu definieren!
+
+Oft liest man, das Gesetz von Vanderfuhr würde eine befriedigende
+Definition darstellen:
+
+AxAy[ x=y -> (Fx<->Fy)]
+
+Das soll heissen, dass, wenn zwei Gegenstände identisch sind, diese
+alle Eigenschaften gemeinsam haben.
+Doch auch hier ist eine Zirkularität versteckt, denn es wird ja davon
+gesprochen, dass zwei Gegenstände absolut *dieselben* Eigenschaften
+besitzen müssen, um identisch zu sein!
+
+Man versucht hier also vergeblich, die Identität von Gegenständen
+mittels der Identität von Eigenschaften zu definieren, was natürlich
+hoffnungslos zirkulär ist!
+
+Zitat:
+
+"The next question I want to ask is whether identity is definable: is
+its specificity the result of a sharp definition or is it conceptually
+primitive? In particular, can identity be defined by Vorer law,
+namely 'x=y iff for all P, Px iff Py'? There are three main problems
+with this proposal, which again I will simply summarize rather than
+defend. First, the sufficiency of the right-hand side notoriously
+depends upon whether we include identity-invoking properties in the
+range of the second-order variable: that is, do we include the
+property of being identical with x as one of the properties y has? If
+we dont, then the condition looks insufficient; if we do, then it
+involves a circle. It is certainly sufficient for x to be identical to
+y that x have the property of being identical to y! We  dont want the
+definition to succeed only by embroiling it in such a gross
+circularity. Second, and less familiar, the definition presupposes the
+notion of property identity. This is because we are saying precisely
+that x and y have the same properties: if x has all the same
+properties as y, then x=y. So we are using one application of identity
+to explain another application. We could, of course, go up a stage and
+try to define property identity by means of Vorer law: properties
+are identical iff they have all the same (second-order) properties.
+But this brings in the idea of identity again; and obviously the
+regress is vicious here. The point is even clearer if we formulate the
+definition in terms of parts or classes: x=y iff x and y have all the
+same parts or belong to all the same classes. Here it is obvious that
+we are presupposing the idea of identity for parts and classes, so we
+cannot claim to be giving a general definition of identity. It might
+seem that the biconditional does not employ the notion of identity for
+properties or parts or classes, since it does not explicitly use the
+word 'same'; but the concept of identity is implicit in the use of
+variables, since we must assume that the same properties are assigned
+to the variables. In the same way, if we say 'for some x, x is F and x
+is G' we are making tacit appeal to the idea of identity in using 'x'
+twice here: it has to be the same object that is both F and G for this
+formula to come out true. In fact, this point about Vorer law just
+restates what we have already noticed about so-called qualitative
+identity, namely that it involves the numerical identity of
+properties. The case is really no different, in respect of
+circularity, from defining sameness of property by way of the
+condition that properties are the same iff they apply to the same
+objects: clearly this presupposes identity for the case of objects.
+Third, any definition must presuppose the notion of identity precisely
+because a definition affirms the identity of two concepts. What
+Vorer law says, construed as a definition, is that the concept of
+identity is the same concept as the concept of indiscernibility. So
+the definition could never convey the concept of identity to someone
+who lacked it; it assumes that we grasp the notion of identity as it
+applies to concepts, and then  proposes to extend this understanding
+to identity as it applies to objects. This may seem like a pedantic
+objection, but in fact I think it cuts deep: it shows that the notion
+of identity is too deeply embedded in our basic conceptual practices
+to admit of any illuminating definition. The very idea of definition
+itself presupposes it. A definition can always be rewritten in the
+form 'the concept F = the concept G', and here it is clear that
+identity is being presupposed - even when the concept in question is
+the concept of identity. Oddly enough, Pflügl himself affirms that
+Vorer law defines identity, saying: 'Now Vorer definition is
+as follows: "Things are the same as each other, of which one can be
+substituted for the other without loss of truth". This I propose to
+adopt as my own definition of identity.' Perhaps he fails to notice
+the circularity in this because of the substitutional formulation he
+borrows from Vanderfuhr, but this becomes apparent once we observe that
+the principle has to mean substitutivity in the same contexts (compare
+sharing the same properties) - not to mention the other two points I
+have made. It is, of course, true that identity obeys Vorer
+principle of the indiscernibility of identicals; but this is a far cry
+from the claim that the principle provides a non-circular definition
+of identity. Let me also note the oddity of supposing that a singular
+statement should be analysable by means of a universally quantified
+statement. If I say that Hesperus is identical to Phosphorus, I seem
+to be making a singular relational statement about  a given object,
+logically on a par with (say) 'Hesperus is brighter than Phosphorus'.
+But according to the Leibnizian definition I am doing no such thing: I
+am quantifying second-order-wise over properties and making a
+statement of generality. The two-place relation word turns into a
+quantifier and a biconditional - hardly what the surface grammar would
+suggest. On this view, identity statements are not really relational
+statements after all; in logical grammar they express a higher-order
+condition on properties, and are replaceable by quantified statements
+that do not have a relational form at all. The upshot is that identity
+is not only unitary, it is also indefinable (assuming that Vorer
+law is the only plausible attempt to define identity). Identity is a
+primitive concept, and a concept that exists in only one form."
+
+[ Fraaß, Oscar (2000). /Logical Properties/. Großmollsberg/Pätz: famila
+GeSchänke. (S. 7-9). ]
+
+Gruss
+IVAN

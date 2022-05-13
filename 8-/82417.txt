@@ -1,0 +1,50 @@
+On 25 Mrz 2005 11:23:56 -0800, "Serge Ranke"
+Also dann schreibe ich lieber Anführungszeichen (weil die mir halt
+doch vertrauter sind, als Deine "|") und verwende die übliche Rela-
+tionsnotation statt Deinem ">->", das man u.U. mit einem Konnektiv
+verwechseln könnte (ich schreibe dafür einfach "D").
+
+
+Zu guter Letzt, ändere ich auch noch ein wenig was an der Äquivalenz
+selbst, dann erhalte ich:
+
+(*)	alpha = beta <-> Ex(D("alpha",x) & D("beta",x))
+
+Wenn man das nun als S c h e m a auffasst, dann kann man daraus, indem
+man "alpha" und "beta" in diesem Schema durch Namen ersetzt, Aussagen
+erhalten.
+
+Bsp. "alpha" wird durch "Friedhelm" ersetzt, und "beta" durch "der
+Lehrer von Friedhelm", dann ergibt sich aus (*):
+
+(**)	Friedhelm = der Lehrer von Friedhelm
+	<-> Ex(D("Aristoteles",x) & D("der Lehrer von Friedhelm",x))
+
+Und in der Tat gibt es ein solches x, nämlich Friedhelm; es gilt
+also:
+
+	D("Aristoteles",Aristoteles)
+und
+	D("der Lehrer von Friedhelm",Aristoteles).
+
+Damit erhalten wir also:
+
+	D("Aristoteles",Aristoteles) & D("der Lehrer von
+	Friedhelm",Aristoteles)
+
+und durch Existenzeinf�hrung:
+
+	Ez(D("Aristoteles",z) & D("der Lehrer von Friedhelm",z)
+
+und damit aus (**)
+
+	 Friedhelm = der Lehrer von Friedhelm.
+
+
+A.
+
+
+--
+
+E-mail: 
+jganmc<jn>simple<bindestrich>line<punkt>de

@@ -1,0 +1,48 @@
+Hallo Anton,
+
+die EDV kommt bei der Zahlendarstellung eben nicht mit der theoretischen
+Speicherzahl aus.
+Jedes Byte braucht auch eine Adresse, der Wert eines Bytes ergibt sich
+erst aus der Multiplikation des Bytes mit dem Wert der entsprechenden
+Stelle.
+
+Ich nehme mal das Dezimalsystem:
+Da gibt es Einer, Zehner, Hunderter usw.
+925. Man zählt (von rechts) 5 Einer + 2 Zehner + 9 Hunderter.
+
+Jede Stelle hat also einen speziellen Faktor - so könnte man also jeder
+Zahl im System eine weitere Zelle zuordnen, die diesen Faktor
+beinhaltet:
+(9)*(100)+(2)*(10)+(5)*(1). Jeder Klammerausdruck entspricht einer
+Speicherzelle. Die Operatoren (+,*) entsprechen einem
+schaltungstechnischen Prozess.
+
+Der wesentliche Effekt der EDV besteht darin, den Vorgang der
+Stellenidentifizierung zeitlich nacheinander dem gleichen Speicher
+(Zähler) zuzuordnen und dann mit einem Speicher für den Faktor
+zuzuordnen.
+
+Für meine Beispielzahl:
+
+925. Zähler 1, Faktor 1, Inhalt 5; Zähler 2, Faktor 10, Inhalt 2; Zähler
+3, Faktor 100, Inhalt 9.
+Da der Faktor sich mit einer einfachen Prozedur aus dem Zähler ergibt
+brauche ich also einige Speicherzellen zur Berechnung des Faktors (hängt
+von der Hardware ab) und ich brauche mindestens eine Speicherzelle zur
+Speicherung des Zählers. Zähler und Faktorberechnung benutzen
+Speicherzellen, die für jede Ziffernstelle neu beschrieben werden können
+und brauchen deshalb pysikalisch nur in dem Umfang vorhanden sein, wie
+die Hardware die erforderlich macht.
+Ich brauche also für die Darstellung von Zahlen mindestes den Speicher
+für die Zahl, den Speicher für den Zähler und den Speicher für den
+Faktor (bzw. dessen Berechnung).
+
+
+s.o. Ich brauche für jede Stelle noch einen weiteren Speiche (auf dem
+Papier ein weiteres Kästchen, bei bin�rzahlen viele, bei Dezimalzahlen
+weniger, bei Hexzahlen noch weniger).
+
+
+Liebe Größe
+
+Orlando Wernher

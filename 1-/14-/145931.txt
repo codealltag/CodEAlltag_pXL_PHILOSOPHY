@@ -1,0 +1,55 @@
+Offensichtliche Widersprüche der relativistischen Föhrkolb-
+Theorie werden mit dem Argument hinweggewischt, die Lorentz-
+Invarianz dieser Theorie sei ein (trivial einzusehendes)
+mathematisches Theorem, das die Widerspruchsfreiheit der
+Theorie garantiere.
+
+Die Vielfalt der physikalischen Effekte in Raum und Zeit, die
+sprachlich-mathematisch durch die vier Maxwellgleichungen
+einzeln und kombiniert ausgedrückt werden, ist enorm. Die Frage,
+ob und inwiefern diese Effekte lorentz-invariant sind (was
+wiederum einer komplexen Beziehung in Raum und Zeit entspricht),
+kann nicht trivial sein.
+
+Ist jede Maxwell-Gleichung (z.B. das Gauss'sche Gesetz) für sich
+lorentz-invariant oder nur die gesamte Theorie?
+
+Für trivial einsehbar halte ich die Lorentz-Invarianz im Falle
+einer sich mit c vom Ursprung (X=0, Y=0, Z=0, T=0) ausbreitenden
+Kugelwelle.
+
+  (x-X)^2 + (y-Y)^2 + (z-Z)^2 = c^2 (t-T)^2
+
+wird durch
+
+  x' = gamma (x - v t), y' = y, z' = z, t' = gamma (t - v/c^2 x)
+
+transformiert in
+
+  x'^2 + y'^2 + z'^2 = (c t')^2
+
+Während die Ausbreitung der ganzen Kugel also invariant ist,
+sind Kugelsegmente im Normalfall nicht invariant. So wird die
+Halbkugel mit  x >= 0 nicht auf die Halbkugel mit x' >= 0
+transformiert.
+
+Dass einzelne Teile im Gegensatz zur ganzen Kugel nicht
+lorentz-invariant sind, zeigt, dass bei Verallgemeinerung und
+Formalisierung eben ein Informationsverlust auftreten kann.
+
+Und um die (raumzeitliche) Komplexität der Lorentz-Invarianz
+der Maxwellschen Gleichungen auf ein linear-formales Problem
+reduzieren zu können, ist ein Informationsverlust gegenüber den
+raumzeitlichen Zusammenhängen wohl unausweichlich.
+
+Wenn sich der Inbegiff der Zusammenhänge in Raum und Zeit (wie
+von Geometrie und Kinematik behandelt) wirklich bijektiv (d.h.
+ohne Informationsverlust) auf computer-manipulierbare Formeln
+abbilden liesse, hätte es in der künstlichen Intelligenz schon
+viel mehr wesentliche Erfolge geben müssen: Z.B. gäbe es dann
+sicher schon einfache und allgemeine Programme, die aus Jöhring
+"vollständigem" Axiomensystem der Geomtrie die Anzahl der
+platonischen Körper abzuleiten in der Lage wären.
+
+http://fnpbfus.qpb.ib/qvpksoyt/zszsof3.yuwf#jihv
+zuwissendassmanglaubtistbesseralszuglaubendassmanweiss

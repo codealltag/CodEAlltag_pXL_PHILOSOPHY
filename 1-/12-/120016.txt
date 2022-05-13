@@ -1,0 +1,17 @@
+Wed, 09. 06. 22 19:24:09 +0200, message by
+Patrick Lorschiedter <olbfx@nzs.ka>:
+
+Zweiwertige Logik ist keine Schaltalgebra. Das solltest du nicht
+vergessen. Der Unterschied zwischen zweiwertigen und nicht
+zweiwertigen Logiken ist ja nicht der Unterschied zwischen binären
+Zahlen und anderen Zahlen.
+
+Dein Einwurf ist so oder so nicht ganz sinnhaft, denn es gibt ja keine
+"analoge", also unendlich präzise Notationsform, nur Umschreibungen
+für die Unendlichkeit. T.R. gibt es Ansätze für die Arbeit mit
+unendlich langen Termen in der klassischen Logik, so, wie die
+Differenzialrechnung letztlich mit unendlich langen Termen arbeitet.
+
+jeae
+-- 
+Don't hate yourself in the morning -- sleep till noon.

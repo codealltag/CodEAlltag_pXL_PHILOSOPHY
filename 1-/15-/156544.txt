@@ -1,0 +1,140 @@
+Hallo,
+
+
+Wer bitte mystifiziert hier? Du behauptest, es gäbe so etwas wie innere,
+private Bedeutungen, die ja wohl kaum objektiv beobachtbar sind, und Du
+behauptest, es gäbe Buchstabenfolgen, die, ohne dass jemand ihre Bedeutung
+kennt, sinnvolle Sätze seien. Das ist doch höhere Mystik, oder? Was ich
+dagegen behaupte ist, dass ein Satz in einem Buch auch eine Bedeutung hat,
+wenn das Buch zugeschlagen ist. Nach Deiner These müsste die Bedeutung nur
+dann gegeben sein, wenn zufällig jemand den Satz gerade liest. Da könntest
+Du genauso behaupten, die Möbel in Deinem Zimmer würden verschwinden, wenn
+gerade niemand drin ist.
+
+Aber damit wir uns nicht missverstehen: Tatsächlich können nur Wahrheiten
+erkannt werden, und was prinzipiell unerkennbar ist, kann nicht wahr sein.
+Das wäre auch eine gute Erklärung an jemandem, dem man den Gebrauch des
+Wortes "Erkennen" beibringen will.
+
+Aber bevor du jetzt gleich zu jubeln anfängst: Nein, damit widerspreche ich
+mir weder, noch gebe ich Dir damit implizit recht in Bezug auf Deine These,
+dass es unsinnige Sätze nicht gibt. Das geht so:
+
+Falschheit:
+Ich kann erkennen, dass der Satz "die Sonne geht jeden Tag um 6:00 Uhr auf"
+falsch ist. Damit erkenne ich etwas *wahres*, nämlich dass die Sonne *nicht*
+jeden Tag um 6:00 Uhr aufgeht.
+
+Unsinn:
+Die Wahrheit des Satzes '"laber laber blau" ist unsinnig' erkenne ich, indem
+ich zuerst die Buchstabenreihe "laber laber blau" an Hand der mir bekannten
+Bildungsregeln für deutsche Sätze auf *mögliche* Sinnhaftigkeit teste. Es
+kann natürlich sein, dass ich nicht alle Regeln kenne, die es gibt, aber bei
+speziell dieser Reihe kann ich es genau angeben: *Jeder* deutsche Satz
+besteht aus einer Nominal- und einer Verbalphrase, in dieser Reihenfolge.
+"laber" ist vielleicht ein Verb, und "blau" ist ein Adjektiv. Um ein Satz zu
+sein, müsste es eine Nominalphrase geben, also mindestens ein Nomen, ein
+Pronomen, oder einen Artikel, aber da diese fehlen, ist es kein Satz. Wenn
+es kein Satz ist, kann es auch kein sinnvoller Satz sein. Danach teste den
+Satz '"laber laber blau" ist unsinnig'. Er ist ein sinnvoller Satz, der
+etwas über eine Buchstabenreihe aussagt. Er hat die Struktur:
+
+                    S
+                   / \
+                  /   \
+                NP     VP
+                N    V    Adv
+"laber laber blau"  ist  unsinnig
+
+Es ist ein Satz. Also ist es sinnvoll (s.u.). Und es ist wahr, weil sich
+"laber laber blau" als unsinnig herausgestellt hat, da das kein Satz ist.
+Fertig und aus. Wenn Du das nicht akzeptieren kannst, weiß ich nicht, wie
+wir weiterdiskutieren sollen, denn dann willst Du offensichtlich die
+Linguistik reformieren, und da möchte ich doch lieber nicht dabei sein.
+
+
+Axiomatische Bedeutungen, höchst lächerlich. Frag irgendeinen Linguisten, ob
+Sprache so gelernt oder verwendet wird, er wird Dir bestätigen, dass Du
+unrecht hast.
+
+
+Mir ist aufgefallen, dass wir hier bisher eine Unterscheidung unterschlagen
+haben: Nicht jede Buchstabenreihe ist ein Satz, auch nicht wenn Leerzeichen
+darin vorkommen. "Cäsar ist eine Primzahl" ist ein Satz, und IMO ein
+sinnvoller, aber falscher. Ich gebe Dir also dahingehend recht, dass es
+keine sinnlosen Sätze gibt, weil das Prädikat "ist ein Satz" nur auf solche
+Buchstabenreihen zutrifft, auf die auch "ist sinnvoll" zutrifft. Gut. Es
+gibt aber noch nicht-satzartige Buchstabenreihen, und die sind sinnlos.
+"laber laber blau" ist eine solche.
+
+
+Nicht nur habe ich das oben gezeigt, ich bestreite auch, dass *unsere* Logik
+(als ob es eine andere gäbe!) nicht taugt zur Feststellung der Unsinnigkeit
+einer Buchstabenfolge. Ich glaube mit ziemlicher Sicherheit, dass Du Dich
+nicht in Logik auskennst. Ich glaube nicht, dass Du beweisen kannst, dass
+~(p -> q) == (q -> p) ist (um vorerst bei der Aussagenlogik zu bleiben).
+Wenn Du das aber nicht kannst, weiß ich nicht, wie Du Dich traust, solche
+Reden über die Unzulänglichkeiten der Logik zu führen.
+
+
+Also folgt aus unserer Logik, dass es sowohl keine unsinnigen Sätze gibt
+(wie Du als 'Axiom' eingeführt hast), als auch keine sinnvollen (wie aus
+meiner Karikatur folgt)? Das glaubst Du nicht im Ernst, oder?
+
+
+Du hast es immer noch nicht kapiert. xxy ist *entweder* ein Buchstabenreihe
+*oder* eine Variable. Wenn es eine Variable ist, dann kann sie an einen Wert
+*gebunden* werden, z.B. an "laber laber blau", welchletzteres dann immer
+noch eine Buchstabenfolge wäre. Als Java-Programm könnte das so aussehen:
+
+String xxy;
+xxy = "laber laber blau";
+System.out.println( xxy );
+
+Die Ausgabe wäre dann:
+
+laber laber blau
+
+In der Logik macht man das etwas anders, und man benutzt üblicherweise
+einbuchstabige Varibalen, ich nehme mal x statt xxy:
+
+(1) Ex: x = "laber laber blau" & x ist Unsinn.
+
+oder, noch einfacher:
+
+(2) "laber laber blau" ist Unsinn.
+
+
+Beachte bitte die Anführungszeichen. Sie sind notwendig, damit die
+Grammatikalität gewahrt bleibt.
+
+Jedenfalls ist (2) ein wahrer Satz, weil die Buchstabenreihe "laber laber
+blau" unsinnig ist.
+
+
+Ich behandle Dich gemäß dem, was Du schreibst.
+
+
+Das ist falsch. Dass Worte Homonyme sein können ist ein alter Hut, auf den
+ich selbst schon hingewiesen habe. Es gibt hier einfach verschiedene Arten,
+wie wir das Wort gebrauchen, eine private Bedeutung folgt daraus überhaupt
+nicht.
+
+
+Woher der Gebrauch kommt ist für die Bedeutung eines Wortes völlig
+irrelevant. Selbst Schadees Programm Wiltraud konnte bedeutungsvolle Sätze
+erzeugen ohne dass es selbst, oder der Computer auf dem es lief, dabei etwas
+dachte. überhaupt sind Computer Symbolverarbeitungsmaschinen, und Symbole
+verarbeiten sie bisher noch ohne zu denken. Selbst ein Abakus ist eine
+solche Maschine, und wie Buderath gezeigt hat, kann man mit fünf Symbolen
+alles berechnen, was überhaupt berechenbar ist. Da man den natürlichen
+Zahlen eineindeutig die syntaktisch gültigen deutschen Sätze zuordnen kann,
+kann man offenbar jeden solchen Satz von einer solchen Maschine erzeugen
+lassen. Denkt die Maschine dabei? Ich glaube nicht. Haben die erzeugten
+Sätze eine Bedeutung? Das glaube ich schon, aber ich bin überzeugt, dass
+diese Bedeutung von der Rolle herrührt, die *wir* von diesen Sätzen machen
+würden, d.h., davon, wie *wir* sie gebrauchen würden.
+
+
+Gruß,
+Peter.

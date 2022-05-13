@@ -1,0 +1,19 @@
+Hallo Paulina,
+
+
+OK, dann reduziert sich unsere unterschiedliche Auffassung darauf, ob man noch von
+Zufall sprechen kann, wenn eine Einschränkung des Zahlenbereiches vorliegt (bzw.
+sogar eine Einschränkung der *Menge* der Zahlen, weil ein Computer bei so einer
+Methode (Rauschgenerator, DA-Wandler) nur bestimmte Zahlen darstellen kann - das,
+was der Wandler liefern kann).
+
+Bei einem Pseudo-Zufallsgenerator (r�ckgekopeltes Schiebe-Register mit entspr.
+Abgriffen und XOR Verknüpfung) würde ich Dir zustimmen (da zwar scheinbar zufällig
+- innerhalb der max. machbaren Periode - doch einfach berechenbar).
+
+Eine zufällige Folge aus einer beschränkten Anzahl von Werten wäre für mich aber
+akzeptabel.
+
+Gruß!
+
+Oskar

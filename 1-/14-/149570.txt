@@ -1,0 +1,78 @@
+Gilbert Mehlkopp in 8Q888HN1.1Z542541@nusjvm-jvybvn.yb :
+
+
+Es braucht schon eine gehörige Portion erkenntnistheoretischer
+Naivität, um diesen Beweis als relevant zu erachten. Du hast
+anscheinend keine Ahnung, wie man vorgehen muss, um eine Theorie
+zu widerlegen.
+
+Hier die Essenz deines Beweises von 24.06.02:
+
+  a) Die Menge der rationalen Zahlen ist abzählbar-unendlich.
+  b) Die Menge der reellen Zahlen ist überabzählbar.
+  c) Jedes reelle Intervall enthält abzählbar-unendlich viele
+     rationale Zahlen.
+
+  Aus a), b) und c) folgt dann: Es kann höchstens abzählbar-unendlich
+  viele disjunkte reelle Intervalle geben.
+
+Ich streite sicher nicht ab, dass dem so sein muss, wenn die Theorie
+konsistent ist. Dieser Beweis ist sogar Teil meiner Widerlegung. Der
+andere Teil ist der Beweis, dass die Menge der möglichen reellen
+(sich wechselseitig nicht überschneidenden) Teilintervalle nicht
+abzählbar sein kann.
+
+Zur Veranschaulichung: Theorie T gilt offiziell als konsistent.
+Jemand widerlegt die Theorie dadurch, dass er 7*7=50 aus T ableitet
+und zeigt, dass andererseits auch 7*7=49 gilt. Wäre es in so einem
+Fall nicht geradezu grotesk, die Widerlegung von T mit dem Argument
+widerlegen zu wollen, dass 7*7=49 falsch sein muss, weil aus T
+7*7=50 folgt?
+
+
+Nochmals: Ich führe den Begriff "überabzählbar" ad absurdum, indem
+ich zeige, dass sich ein beliebiges Intervall in überabzählbar viele
+echte Intervalle teilen lässt.
+
+
+Sehr interessant! Zuerst bezeichnest du das Argument, "die Menge
+disjunkter Intervalle" sei ähnlich spezifiziert wie "die Menge
+unterschiedlicher reeller Zahlen" als "infantil", und ein paar
+Absätze weiter nimmst du es dann doch ernst.
+
+Simon Rotfuss hat es so formuliert:
+
+  "Klar kannst Du R in eine auf natürliche Weise geordnete Menge
+  disjunkter einpunktiger Intervalle zerlegen, wenn Du magst...".
+
+Soll das etwas heissen, es ergeben sich "Punkte" ala
+
+  Vorgänger (1) = 0.999...9
+  1             = 1.000...0
+  Nachfolger(1) = 1.000...1
+
+mit somit auch "einpunktige Intervalle"
+
+  ] Vorgänger(1), 1  ]
+  ] 1, Nachfolger(1) ]
+
+
+Zur Wiederholung (aus meinen Postings vom 23. und 24. Juni):
+
+ Für zwei Punkte gibt es nur zwei Möglichkeiten: entweder sie fallen
+ zusammen, oder sie sind durch ein [echtes] Intervall getrennt. Oder
+ ist irgend jemand in der Lage, wenigstens ein einziges Paar zweier
+ benachbarter (aber unterscheidbarer) Punkte zu benennen oder zu
+ beschreiben, die nicht durch ein [echtes] Intervall getrennt sind?
+
+ Sofern man nicht bestreitet, dass Punkte ausdehnungslos sind, gilt
+ auch immer, dass man durch Vereinigung von Punkten niemals ein
+ (echtes) Intervall erzeugen kann. Der Glaube, Intervalle würden sich
+ aus Punkten zusammensetzen, beruht auf einer Kategorienvermengung.
+
+
+Gruss, Winfried
+
+
+Meine vorigen Postings:
+http://gnwlugh.wgz.ci/lzavemmi/jjrsnt6.gmnz#qnrbzkuip

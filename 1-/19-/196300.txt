@@ -1,0 +1,29 @@
+ls> Egal... vielen Dank fuer Deinen lesenswerten Beitrag! 
+
+Vielen Dank fuer die Blumen!
+
+
+  ls> Im Modell eines Uebertragungskanals ist bei fehlerfreier Ueber-
+  ls> tragung H(Y|X)=0 und damit I(X;Y)=H(X). Die sogenannte Trans-
+  ls> information T(X)=I(X;Y) ist in diesem Idealfall gleich der
+  ls> [Entropie] der ausgesendeten Nachricht.
+
+Ich bin nicht ganz einverstanden.  Ein Kanal kann bewusst
+verlustbehaftet gemacht sein, z.B. fuer Datenkompression (z.B. JPEG).
+Obwohl die Uebertragung fehlerfrei ist, wird dann H(X|Y)>0.
+
+Andereseits, wenn Du unter `fehlerfrei' verstehst dass X identisch mit
+Y ist, dann kannst Du gleich I(X;X)=H(X) schreiben, so wurde H(X) auch
+schon als `self-information' bezeichnet.
+
+Aber das sind bloss technische Details.  Es freut mich, dass Du die
+Informationstheorie kennst.  Lass Dich bloss nicht von aggressiven
+Unsachverstaendigen ins Bockshorn jagen und zum schludrigen
+Diskutieren verleiten.
+
+Gruss, Carsten
+-- 
+Carsten Nimmersgern                          It is not likely that MAD circuit
+    Researcher (Analog IC Design)             designers will be replaced by
+  Signal Processing Laboratory, Kinderfundgrube.        design tools in the forseeable
+http://git.uvy.cv.qjgm.tr/~obcdtq/          future.       (Xandl Dinkelacker)

@@ -1,0 +1,15 @@
+: Die Ereignisse 100 und 200 sind im Fall der Festlegung
+: 	"P(x) = Wahrscheinlichkeit, dass Temperatur < x" 
+: nicht disjunkt.
+
+Ich hatte uebersehen, dass du deine Ws. nur auf einem
+Erzeugendensystem deines Massraums definierst. Nun moechte ich noch
+wissen, was alles ein "Ereignis" ist und welche x du zulaesst.
+Insbesondere fuer welche a, die Menge {x=a} ein Ereignis ist.  Wenn es
+so ein a gibt, musst du aus Konsistenzgruenden, abzaehlbare Schnitte
+zulassen. Die koennten aber auch ein ein anderes {x=a'} als Schnitt
+haben. Wie kannst du diese klassifizieren, ohne aus der ueblichen
+Theorie der Ws. auszubrechen?
+
+Schoene Gruesse.
+	Victor

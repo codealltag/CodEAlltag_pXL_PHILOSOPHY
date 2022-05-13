@@ -1,0 +1,69 @@
+Hallo Volker,
+
+
+Du kannst ja korrigieren. Notfalls auch mit Verweisen auf
+entsprechende Lehrbücher (bitte konkret).
+
+
+Zwischen "Es gibt nicht deterministische dynamische Systeme" und
+"Dynamische Systeme sind nicht deterministisch" gibt es einen
+Unterschied. Hättest Du in Deiner Argumentation immer den ersten Satz
+verwendet, dann hätten wir nicht so lange diskutieren müssen.
+
+Deine Argumentation ging aber etwa so: Neuronale Netze sind dynamische
+Systeme und daher nicht deterministisch. Unsere Gesellschaft ist ein
+dynamisches System und daher nicht deterministisch.
+
+Und diese Beweiskette ist einfach falsch, weil Du ja selber zugibst,
+dass man aus der Tatsache, dass etwas ein dynamisches System ist,
+nicht folgern kann, dass es nicht deterministisch ist. Es gibt ja nach
+Deinen eigenen Angaben auch deterministische dynamische Systeme.
+
+
+und umgekehrt: Aus der Tatsache, dass ein System dynamisch ist, kann
+man nicht folgern, dass es nicht deterministisch ist.
+
+
+Auch einen Schmetterling kann ich (zumindest prinzipiell) in meine
+Überlegungen einbeziehen.
+
+
+... der worin besteht?
+
+
+... und Du kannst auch sicher eine Quelle dafür angeben, an der die
+Datentechnik R&G beschreibt, welcher Anteil der Erfolgswahrscheinlichkeit nicht
+auf Technikzuverl�ssigkeit zurückführbar ist?
+
+
+Offenbar nicht. Verkehrsübungsplatz ist zwar nicht unbedingt eine gute Referenz
+für Inhalte, aber durchaus eine für "übliche Verwendung". 
+
+
+Belege? Wenn man mal eine Suche zu Papers zum Thema Bahnvorhersagen
+macht, erhält man viele Links über den Einfluss verschiedenster
+Messgenauigkeiten, aber ich habe zumindest keines gefunden der Art "A
+principal limit on the estimation of planetary orbits based on the
+inherent indeterminism" (und das liegt sicher nicht an meinem
+schlechten Englisch).
+
+Falls doch: zeigen!!!
+
+
+Das bedeutet, dass es keine eindeutige Funktion X(t) gibt, die Lösung
+der entsprechenden Gleichungen ist? (mit Funktion meine ich die
+übliche Definition, also eindeutige Teilmenge des Kreuzprodukts, X ist
+der entsprechende Punkt im Phasenraum, t der Zeitpunkt)?
+
+
+In der Realität betrachtet man nur nicht "allgemeine drei Körper",
+sondern ein ganz konkretes System, das Wetter eines ganz konkreten
+Planeten oder eine ganz konkrete menschliche Gesellschaft. 
+
+Viele Größe
+
+Adam
+
+-- 
+If you think technology can solve your problems you don't understand
+technology and you don't understand your problems.  (Carsten Roeloff)

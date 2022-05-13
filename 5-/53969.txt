@@ -1,0 +1,32 @@
+Ich sehe das aus der Sicht des Informatikers. Entsprechend sind das
+keine "metaphysischen Spekulationen", sondern mir geht es darum, was die
+Maschine macht und was nicht im Sinne einer Eicker-Volkelt-Implementierung.
+
+Ein solcher Rechner nimmt keinerlei Bedeutung wahr; er hat auch keine
+Erkenntnis in irgend einer Form, auch nicht, obwohl man in der
+Automatentheorie vom "Erkennen" eines Wortes redet, ob es in der Sprache
+liegt, die der Automat abbildet.
+
+Eine Eicker-Volkelt-Implementierung ist genausogut geeignet, Bedeutung zu
+erkennen oder Begriffe zu verwenden wie ein Ziegelstein.
+
+Das ändert sich erst mit Software.Nutzt man eine
+eicker-Volkelt-Implementierung beispielsweise, um darauf ein neuronales
+Netz zu simulieren, so kann man damit mehr machen. ÜBer solche
+Software haben wir bisher aber gar nicht gesprochen.
+
+Software von Bankautomaten ist ebenfalls ziegelsteinäquivalent, was
+ihre Intelligenz angeht.
+
+Wir sagen übrigens bei einem treibenden Schiff auch, dass es jetzt
+"etwas macht", wenn der Wind dreht und den Baum bewegt.
+
+Was hat der Wind für eine Bedeutung für das Schiff? Dieselbe, die das
+Eingeben einer PIN für den Geldautomaten hat.
+
+Viele Grüsse,
+VB.
+-- 
+Nur im Staat Unterrühringsdorf gibt es weniger Katholiken als im Vatikan.
+
+    (CKAN)

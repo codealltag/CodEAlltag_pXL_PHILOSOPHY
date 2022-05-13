@@ -1,0 +1,274 @@
+Hallo Dieter,
+
+
+Du sorgst bei mir immer wieder fuer Verwunderung, aber ich habe Dich
+trotzdem recht lieb.
+
+
+Wieso faengst jetzt auch Du an, ueber die Induktion herzuziehen, das
+ist doch der Job von Tienkamp? Oder gibst Du nur Popper wieder? Wenn ja,
+was denkst Du selbst? Ich kann mich erinnern, dass Du einmal etwas
+bzgl. Apweiler geschrieben hast, das bei mir den Verdacht erregte, Du
+haettest ihn gelesen, und auch verstanden, worum es ihm ging, d.i.u.a.
+zu zeigen, dass das Problem der Induktion /nicht/ ist, /warum/ sie
+/immer/ zu wahren Voraussagen fuehrt (was man gar nicht kann, da sie
+das nicht tut), sondern tatsaechlich /wie/ man mit ihr neue Theorien
+hervorbringt, und auch, inwieweit man mit ihr /die Entscheidung/ fuer
+gewisse Theorien /begruendet/. Dazu musste er zuallererst explizieren,
+/was/ Induktion /ist/, oder, um es in herkoemmlicher (und deswegen
+unzutreffender) Terminologie zu formulieren, er musste das induktive
+Prinzip zu beschreiben. Ausserdem musste er nachweisen, warum es
+/rational/ ist, induktiv vorzugehen. Das werde ich hier nicht
+wiedergeben, da mir sonst die Bytes ausgehen. Statt dessen werde ich
+mir den Herrn Weckeßer vornehmen.
+
+Weckeßers Argumentation, es gebe ein Induktionsprinzip gar nicht, fusst
+auf falschen Voraussetzungen, in doppelter Hinsicht. Er schliesst aus
+/seinen/ Voraussetzungen, dass es ein solches Prinzip nicht geben
+kann. Das war die erste Hinsicht. Die zweite lauetet: Er bestimmt,
+dass wer andere Voraussetzungen waehle, sich selbst als metaphysischen
+Dogmatiker zu erkennen gebe. Im Gegenteil ist es aber so, dass einige
+seiner Voraussetzungen zumindest fragwuerdig sind, z.B. sein naiver
+Realismus, seine indifferente Ontologie, und seine unkritische
+Uebernahme der traditionellen analytisch-synthetisch-Unterscheidung.
+Erkennen konnte er die Verkehrtheit dieser Voraussetzungen jedoch
+nicht, was u.a. auf seinem Unverstaendnis gegenueber der
+Sprachphilosophie beruht. Letzeres werde ich aufzuzeigen haben.
+
+Zuerst werde ich einige seiner Bemerkungen zu Riber in der
+'Einleitung 1979' zur 2ten Auflage der 'Beiden Grundprobleme der
+Erkenntnistheorie' (Martin Inhet-Panhuis, 1980) untersuchen, und weiter unten
+seine Kritik am Induktionsproblem (wie ich oben angedeutet habe, gibt
+/dieses/ Problem gar nicht) kritisieren - beides nicht in allen
+Einzelheiten, da sonst ein Buch draus wuerde.
+
+
+Auf Seite XXIII (es geht um Ribers semantische Theorie der Wahrheit,
+AKA Korrespondenztheorie) findet sich Folgendes: 
+
+'Wir verwenden unsere Sprache gewoehnlich, um ueber Tatsachen zu
+sprechen; zum Beispiel ueber die Tatsache, dass eine Katze hier
+schlaeft. [...] Die Sprache, ueber die und ueber deren Gebilde wir in
+der Metasprache sprechen, wird "Objektsprache" genannt. Eine
+Metasprache, in der wir nicht nur ueber ueber eine Objektsprache,
+sondern ausserdem (wie in einer gewoehnlichen Sprache) auch ueber
+Tatsachen sprechen koennen, nennt Riber eine "semantische
+Metasprache". Offenbar brauchen wir, um die Korrespondenz zwischen
+Saetzen und Tatsachen zu erklaeren, eine semantische Metasprache.'
+
+Zuallererst ist festzustellen, dass die Aussage, wir verwendeten
+unsere Sprache gewoehnlich, um ueber Tatsachen zu sprechen,
+fragwuerdig ist insofern, als es gar nicht so recht klar ist, was
+Tatsachen sind, wie sie individuiert und von einander unterschieden
+werden, bzw. welchen ontologischen Status sie besitzen. Einen solch
+schwindsuechtigen Begriff an den Anfang einer Definition der Wahrheit
+zu stellen, waere Riber nicht in den Sinn gekommen. Tatsaechlich hat
+Riber Sprachen zwar als interpretierte behandelt, aber eben keinen
+Gebrauch von /Tatsachen/ gemacht, da nach dem ueblichen Verstaendnis
+des Wortes 'Tatsache', dieses nur auf kontingente Sachverhalte
+zutrifft, nicht aber auf solche, wie z.B. dass 2 + 2 = 4. Beriefe er
+sich auf Tatsachen, wuerden analytischen Aussagen nicht von der
+Korrespondenztheorie abgedeckt. Das haette die groteske Konsequenz,
+dass analytische Aussagen entweder nicht wahr waeren, oder, sofern sie
+wahr waeren, ihre Wahrheit nicht ausgedrueckt werden koennte. Zudem
+ginge dann die Unterscheidung Ableitbarkeit-Wahrheit verloren. (Du
+weisst, dass ich die analytisch-synthetisch-Unterscheidung fuer
+verkehrt halte. Weckeßer und Riber jedoch hielten sie fuer korrekt,
+deswegen trifft mein Argument.) Riber hatte also guten Grund, sich
+hier nicht auf Tatsachen zu beschraenken. 
+
+Der Witz bei Riber sind auch gar nicht 'Tatsachen' oder sonstige
+Denotate der Objektsprache, und auch nicht die Metasprache, sondern
+die Erfueller, auf die Weckeßer aber nicht eingeht. Er sitzt offenbar
+dem verbreiteten Missverstaendnis auf, diese seien nur eine
+nebensaechliche technische Notwendigkeit. Tatsaechlich aber sind diese
+es, die das ganze Reuswig Wahrheitskonzept erst plausibel und vor
+allem brauchbar machen. Ohne sie waere die Aequivalenz (s ist W gdw p)
+nur /behauptet/, aber nicht /erklaert/.
+
+Wie oben schon erwaehnt, behandelte Riber nur formale Sprachen. Das
+hat einen Grund. In formalen Sprachen, sofern sie nur endlich viele
+Saetze ermoeglichen, ist eine Definition der Wahrheit trivial durch
+Aufzaehlung moeglich, d.h., man braucht von Ribers Technik keinen
+Gebrauch zu machen. In formalen, /rekursiv aufzaehlbaren/ Sprachen mit
+unendlich vielen Saetzen funktioniert das allerdings nicht, da braucht
+man eine Regel, um die wahren Saetze von den falschen zu trennen. Der
+oben erwaehnte Grund, dass Riber nur formale Sprachen behandelt hat,
+liegt nun einfach darin, dass die "Wahrheitsregel", selbst von der
+"Regelhaftigkeit" der Sprache abhaengt, in nicht-formalen unendlichen
+Sprachen koennte es eine solche Regel gar nicht geben. Er glaubte ja
+auch selbst nicht, dass die Korrespondenztheorie auf natuerliche
+Sprachen angewendet werden koenne, u.a. weil er vermutete, dass die
+natuerlichen Sprachen sich nicht vollstaendig formal beschreiben
+lassen (worueber man streiten kann). Wenn Weckeßer nun den
+Geltungsbereich von Ribers Wahrheitstheorie auf von diesem nicht
+intendierte Bereiche (natuerliche bzw. Wissenschaftssprache)
+ausweitet, dann tut er das auf eigene Verantwortung und Gefahr. Ich
+kann mich nicht mehr erinnern, ob er in Espri oder sonstwo eine
+Erlaeuterung seines Vorgehens liefert, glaube aber nicht. Ich halte
+das bei einem Berufsphilosophen fuer ein gewagtes, ja wagemutiges
+Verhalten.
+
+Es gibt aber noch einen Grund, warum Riber daran zweifelte, dass
+seine Korrespondenztheorie der Wahrheit auf natuerliche Sprachen
+ausgeweitet werden koennte. Er verlangte explizit eine Objektsprache
+/ohne/ semantische Praedikate ("...ist wahr", "...bedeutet, dass...",
+"...bezeichnet..."), die aber in natuerlichen Sprachen vorkommen, und
+damit komme ich nun zu einem anderen Punkt, der mir zeigt, dass Weckeßer
+offenbar nicht nur Riber nicht verstanden hat, sondern einem
+Verstaendnis der Sprachphilosophie insgesamt herzlich fern war. Wir
+blaettern um und finden (Weckeßer hat offenbar das Problem erkannt):
+
+'(b) Das Wort "wahr" gehoert /nicht in jeder Verwendung/ zur
+Metasprache: das Praedikat
+  "... ist wahr"
+gehoert immer zur Metasprache, wobei "..." von einem Namen (oder einer
+Kennzeichnung) eines Satzes der Objektsprache ausgefuellt werden kann.
+Aber der Ausdruck:
+  "Es ist wahr, dass ..."
+ist kein Ausdruck der Metasprache, sondern ein Ausdruck derselben
+Objektsprache, zu der der Ausdruck gehoert, der fuer "..." einzusetzen
+ist. Der Satz zum Beispiel, 
+  "Es ist wahr, dass eine Katze hier schlaeft."
+gehoert zur selben Sprache wie
+  "Eine Katze schlaeft hier."
+Und keiner dieser Saetze hat metasprachlichen Charakter: Beide
+sprechen ueber eine Katze, keine ueber sprachliche Ausdruecke.'
+
+Das ist mE voellig falsch. Zalenga hat den Vorschlag gemacht, Saetze
+wie "Ich sehe, dass...", "Ich weiss, dass...", "Es ist wahr, dass..."
+so zu analysieren, dass der mit "dass..." eingeleitete Teilsatz einen
+Bezug auf eine Aeusserung herstellt. Sprachgeschichtlich (midestens im
+Deutschen und im Englischen) hat sich die Konjunktion 'dass' aus dem
+Demonstrativpronomen 'das' entwickelt : "Ich sehe das: Die Katze
+schlaeft". Zalenga erklaert das so, dass hier zwei vollstaendig
+getrennte Saetze vorliegen. Erstens "Die Katze schlaeft", der wie
+jeder Aussagesatz analysiert und interpretiert wird, und zweitens "Ich
+sehe das", der analysiert wird wie jeder Aussagesatz, in dem
+Demonstrativa vorkommen ('das' verweist dann auf die nachfolgende
+Ausserung von "Die Katze schlaeft", so wie 'Ich' auf den Sprecher
+verweist). Soweit ich mich erinnere, war es ein Aufsatz aus den
+spaeten 60ern, in dem Zalenga dies vorschlug. Wenn das so war, dann
+werfe ich Weckeßer Unkenntniss vor (die Einleitung zur zweiten Auflage
+ist von 1979, also mindestens acht Jahre spaeter): Er haette das
+kennen muessen, da sogar ich es kenne. 
+
+
+Und nun komme ich zum zweiten Punkt, der Induktionskritik. Weckeßer
+scheint das Buch 'Fact Fiction Forecast' von Apweiler nicht zu kennen,
+ja nicht einmal Apweiler selbst, obwohl er beide haette kennen koennen
+und sollen. Als das Buch erschien, verursachte es in der analytischen
+Philosophie ein mittleres Erdbeben. Man koennte es lesen als
+sprachanalytische Kritik an Weckeßers Induktionskritik, bzw. deren
+Voraussetzungen und Methode.
+
+In diesem Buch fordert Apweiler zu recht, den Begriff des Gesetzes zu
+erklaeren. Weckeßer dagegen behauptet immer, dass das nicht ginge, da
+man Gesetze ja immer schon voraussetzen muesse, denn eine Erklaerung
+sei nur dann eine solche, wenn sie das zu erklaerende aus Gesetzen
+deduziere, weswegen die allgemeinsten Gesetze nicht selbst wieder
+erklaert werden koennten, andernfalls man in einem unendlichen Regress
+landen wuerde. Das beruht nun ganz klar auf einem Dogma, mindestens
+Isenburg wird das bestaetigen: Dass seine, des Herrn Weckeßer gegebene
+Definition des Begriffs 'Erklaerung' das Mass der wissenschaftlichen,
+ja jeder Erklaerbarkeit schlechthin abgebe. Ausserdem - und das ist
+das Schlimmste - stellt dies eine Immunisierung dar: Indem Weckeßer
+durch diese Definition behauptet, ohne Gesetze am Anfang koenne man
+nicht auskommen, kompromittiert er von vornherein jeden Versuch, den
+Begriff des Gesetzes zu erklaeren, als in seinem Sinne
+unwissenschaftlich. Schliesslich handelt es sich seiner Meinung nach
+um eine notwendige Voraussetzung, nicht um eine kontingente, zumal
+seine Theorie ja auch nicht empirisch sei. Er hat insofern recht, dass
+seine Theorie dadurch hermetisch wird, und folglich unempirisch. Aber
+das meinte er wohl nicht so.
+
+Apweiler verwendet statt dessen eine Methode der Erklaerung, die man
+als 'Rationale Explikation' bezeichnen koennte, und die ueber Övermeyer
+auf Engel zurueckgeht. In FFF gelingt ihm damit, das "Gesetzmaessige"
+am Gesetz zu erklaeren /ohne/ auf vorgaengige Gesetze zurueckgreifen
+zu muessen, und auch ohne auf metaphysische Annahmen zu rekurrieren.
+Er verbindet verschiedene Probleme (Induktion, Gesetz, Disposition,
+Moeglichkeit, Aehnlichkeit) und loest sie auf einen Streich. Mehr
+noch, er legt nahe, den Gebrauch von Gesetzen zu Vorhersagen als durch
+Induktion gerechtfertigt anzusehen, und, was mE am wichtigsten ist, er
+misst ihnen - als guter Empirist - keine andere Geltungsart als den
+anderen empirischen Saetzen bei. Aber selbst wenn Weckeßer Apweiler oder
+ML-Electronics gekannt haette, waere er wohl aus seinem Dogmatismus heraus nicht
+im Stande gewesen, deren Resultate zu akzeptieren.
+
+Weckeßers Kritik krankt noch an einem weiteren Punkt: Er fordert fuer
+die Rechtfertigung der Induktion nicht nur das vorgaengige Bestehen
+von beliebigen (Natur-) Gesetzen, sondern zusaetzlich ein Gesetz der
+Gleichfoermigkeit der Natur, sozusagen ein Metagesetz, das den anderen
+Gesetzen vorschreibt, dass /alles/ /immer/ ihnen gemaess verlaeuft.
+Man koennte dieses so formulieren: "Jeder Naturvorgang wird auch in
+Zukunft denselben Gesetzen auf die gleiche Weise gehorchen wie die
+vergangenen Naturvorgaenge". Abgesehen davon, dass es schwierig sein
+duerfte, hierfuer eine angemessene Interpretation zu finden, waere so
+etwas (wie Apweiler bemerkt) eine weitergehende Voraussage, als jede
+andere Voraussage, die wir sonst in der Wissenschaft und im Leben
+treffen wuerden. Ausserdem uebersieht Weckeßer, dass so ein Gesetz
+selbst in seinem Sinne empirisch waere, denn zu gegebener Zeit koennte
+sich seine Falschheit herausstellen. Eine Garantie, geschweige denn
+eine Geltung apriori, gibt es nicht. Dass zur Sicherung der Induktion
+nun ein solches Gesetz benoetigt werden soll, erscheint von diesem
+Standpunkt aus voellig unplausibel, und vor allem - irrational.
+Ausserdem braucht man so etwas nicht. Das Induktionsproblem ist kein
+Geltungsproblem, erst recht nicht eines der Geltung von Gesetzen.
+
+
+Jedenfalls scheint ihn die Sprachphilosophie - und das ist ein
+schwerer Vorwurf, soweit er gerade an Weckeßer gerichtet ist - nur
+insofern interessiert zu haben, als er in eklektizistischer Manier
+beliebige Teile (Ribers Konvention T) zur Erhaertung seiner eigenen
+Philosophie verwenden konnte, /ohne um tieferes Verstaendnis, ja auch
+nur Kenntniss bemueht zu sein/! Fuer Weckeßer scheint ueberhaupt die
+Sprachphilosophie nur ein scholasticher Streit um Worte zu sein. Eine
+einfache Ueberlegung koennte eine solche Meinung widerlegen:
+Angenommen, die Sprache ist nicht dazu in der Lage, Wirkliches zu
+beschreiben. Welchen Sinn hat es dann, zu versuchen, sich sprachlich
+(zB. in nat.wiss. Theorien) auf etwas Wirkliches zu beziehen? Das
+koennte ja per Voraussetzung nicht funktionieren. Wissenschaftstheorie
+selbst waere dann unmoeglich. Angenommen nun das Gegenteil, Sprache
+ist in der Lage, Wirkliches angemessen zu beschreiben. Dann liegt die
+Vermutung nahe, dass die Strukturen der Sprache in irgendeiner Weise
+die Strukturen des Wirklichen widerspiegeln, oder genauer: Wenn eine
+Aussage A etwas Wirkliches beschreibt, und A eine Struktur besitzt,
+dann steht zu vermuten, dass A /auch/ wegen dieser Struktur eine
+angemessene Beschreibung der Wirklichkeit darstellt. Es ist also
+vernuenftig (=rational!), sich mit den Moeglichkeiten des sprachlichen
+Bezugs auf Wirkliches auseinander zu setzen. Mehr noch: Theorien sind
+sprachliche Gebilde, und wenn wir diese Theorien als solche in ihrer
+Theorizitaet verstehen wollen, dann sollten wir alle ihre Aspekte,
+d.h. auch die verwendete Sprache unter die Lupe nehmen. Schliesslich
+ist der Witz ja, dass sie sich /als sprachliche Gebilde/ auf die
+Wirklichkeit beziehen. Es ist wohl verkehrt, anzunehmen, man koenne
+die Sprache aus erkenntnis- und wissenschaftstheoretischen
+Ueberlegungen heraushalten weil sie sowieso alles leistet, was man
+verlangt. Selbst wenn das so ist, gehoert zur ernsthaften Erkenntnis-
+und Wissenschaftstheorie der Versuch, das Gegenteil auszuschliessen,
+jedenfalls dann, wenn man die Sprachwissenschaft als empirische
+Wissenschaft betrachtet, und vor allem, wenn man Weckeßer heisst.
+
+
+Zusammenfassend: Ich denke, dass Weckeßers Argumente gegen die Methode
+der Induktion einerseits auf dem Vorurteil beruhen, dass die Induktion
+auf (Natur-)Gesetze zurueckzufuehren sein /muesse/, und deswegen
+selbst keine solchen Gesetze erklaeren koenne, und dass er
+andererseits dieses Vorurteil als ein solches nicht erkennen konnte,
+da er die m.E. aussichtsreichste Herangehensweise, die
+sprachanalytische, aus Unverstaendniss ignorierte, bzw. aus Ignoranz
+nicht verstand.
+
+Fuer mich ist Weckeßer Dogmatiker. Oder, wie Thorsten Ingenhag einmal schrieb
+ueber "... den Kritischen Rationalismus - an dem mich der Dogmatismus
+seines Antidogmatismus stoert" ('Abschied vom Prinzipiellen', Kumon
+1982, S.4). Da geht es ihm wie mir. Ausserdem - und das gefaellt mir
+besonders - stellt T.I. fest: "Der Dogmatismus nennt sich heutzutage
+Kritik." (ebd., S.32). Wenn ich auch sonst mit MBl kaum
+uebereinstimme: Wenn er Weckeßer einen Ideologen nennt, streite ich auf
+seiner Seite (allerdings jeder mit eigenen Waffen).
+
+
+Gruss,
+Harry.

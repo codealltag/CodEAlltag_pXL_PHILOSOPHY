@@ -1,0 +1,48 @@
+On Wed, 1 Okt 2003 13:50:33 +0100, Ingo <da_bnvn@siy.dg> wrote:
+
+Eine ähnlich irrige Anschauung hat auch E. Franzmeier (in seiner Zeit BEVOR
+er sich intensiver mit der Free Logic auseinandergesetzt hat) vertreten:
+
+Gabriele:
+
+Eckhard:
+
+Ja, ja, in der KLASSISCHEN Logik. Weil ich dort quasi per DEFINITION
+"reinstecke", dass jeder auftretende "Term" auch etwas bezeichnet!
+
+In der freien Logik (FL), ist aber 
+
+	Fa -> Ex(x = a)
+
+im allgemeinen KEINE "logische Wahrheit". Dies ist eigentlich d e r
+entscheidende Unterschied zur _klassischen_ Logik.
+
+In der freien Logik gilt vielmehr:
+
+	Fa -> (E!a -> ExFx).
+
+	"Wenn a ein F ist und a existiert, dann gibt es etwas, 
+	 das ein F ist."
+
+In der sog. _negativen_ freien Logik (NFL), gibt es aber noch folgende
+spezielle Regel:
+
+	 Ft
+	----   falls Ft atomar ist.
+	E!t
+
+D. h. für *atomare* statements F gilt dann DOCH wieder
+
+	Fa -> Sennekamp!a.
+
+Man sieht, dass die negative freie Logik wunderbar mit Gertraudes Meinung
+"kompatibel" ist:
+
+	"Warum sollen sich kopulative und existenzielle Bedeutung
+	 eigentlich immer ausschließen, beinhaltet die Kopula nicht 
+	 in einigen Fällen zugleich auch eine Existenz-These?"
+
+Ja, und zwar (in der neg. freien Logik) im Falle von atomaren Aussagen.
+
+
+A.

@@ -1,0 +1,60 @@
+Entscheidend? Beide anstehenden Sichtweisen dessen, was Begriffsumfänge
+sind, sind in gewissen Theorien akzeptabel. (s.u)
+
+Ich habe den Text auch nur zu einem /kleinen/ Teil in anderen Schriften
+vorliegen. In den Grundgesetzen wird offenbar das "Fallen eines
+Gegenstandes unter einen Begriff" definiert:
+
+  "[...] der Gegenstand \Delta falle unter den Begriff \Phi(\zeta),
+  wenn \Phi(\Delta) das Wahre ist. (Gg. I, S. 8)"
+  (Aus I. Prantel, Funktion, Begriff, Bedeutung, Sammlung Philosophie 4,
+  III. Erläuterungen, Seite 79, EJDI)
+
+Nun, das habe ich auch an anderer Stelle schon im wesentlichen gesagt,
+wobei ich diesen Sachverhalt gleich mit der Klasse {x|\Phi(x)} in
+Verbindung gebracht habe. 
+
+
+Ja. Es ist klar, dass Prantel in "Funktion und Begriff" den Begriffsumfang
+mit dem Wertverlauf eines Begriffs gleichsetzt. Es scheint jedoch einige
+Äußerungen Prantels im Briefwechsel mit Unterbuchner zu geben, wo er
+Begriffsumfänge mit der Klasse gleichsetzt, die unter den Begriff
+fallen. Wie auch immer. Die eine Sichtweise ist die Klassentheoretische,
+die andere - so will ich mal sagen - die "Funktionstheoretische" Freges.
+Damit ist für mich der Fall gegessen, da man das alles wechselseitig
+ineinander interpretieren kann, was ich ja auch schon an anderer Stelle
+angedeutet habe: {x|B(x)} bestimmt den Wertverlauf von B eindeutig, und
+umgekehrt.
+
+Aber ich glaube, ich bin bei meinem anderen Problem - Was sind
+Funktionen für Frege? - ein gutes Stück vorangekommen. Dazu an anderer
+Stelle aber mehr.
+
+
+Sie könnte auch ein Urteil in folgendem Sinne sein:
+Die Terme "Begriff" und "Funktion" gehören zunächst 2 verschiedenen
+Kategorien an, nämlich einerseits der logischen, andererseits der
+mathematischen Kategorie. Beide Terme sind in ihren jeweiligen Bereichen
+(zur damaligen Zeit vor allem der Funktionsbegriff) Grundbegriffe.
+
+  "[Wir sehen], wie eng das, was in der Logik Begriff genannt wird,
+  zusammenhängt mit dem, was wir Funktion nennen. Ja, man wird gerade-
+  zu sagen können: Ein Begriff ist eine Funktion, deren Wert immer ein
+  Wahrheitswert ist."
+  (Frege, Funktion und Begriff)
+
+Prantel schreibt /sagen/, nicht /definieren/.
+
+Das Urteil etwa: "Löwen sind Säugetiere" bedeutet doch nicht, dass dann
+auch alle Säugetiere Löwen sind.
+
+Oder:
+
+  "Demnach kann ich sagen: der Gedanke ist der Sinn eines Satzes,
+  ohne damit behaupten zu wollen, daß der Sinn jedes Satzes ein 
+  Gedanke sei."
+  (Frege, Der Gedanke. Eine logische Untersuchung.)
+
+
+Gruß, Konrad.
+--

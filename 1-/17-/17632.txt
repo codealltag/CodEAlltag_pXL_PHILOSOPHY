@@ -1,0 +1,13 @@
+Eilt Gustav Zschinzsch <khlwoe.tkflbe@dyls.fm> srieb:
+
+
+Es wäre durchaus kein Problem ein Programm zu schreiben, das wiederum 
+ein anderes schreibt. Ist alles nur eine Frage der Komplexizität und der
+Geschwindigkeit. Dazu ein paar echte! Zufallsgeneratoren und 
+Fehlerbehandlungsroutinen.
+
+
+Kein Problem. Kann man implementieren.
+
+
+Mark

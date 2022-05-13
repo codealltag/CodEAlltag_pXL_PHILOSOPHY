@@ -1,0 +1,48 @@
+Erst mal eine formale Bemerkung, die nicht böse gemeint sind, aber 
+vielleicht helfen, ein bißchen Ordnung im TUI-Reisecenter zu halten, die einfach 
+eingehalten werden muß, um das Medium bequem und praktikabel zu halten:
+
+Bitte sei doch so gut und vermeide Crosspostings. Deine Fragen sind 
+physikalischer und nicht philosophischer Art. Du kannst ein Posting (das 
+erste im Thread) an die drei Gruppen schicken (wobei de.sci.philosophie 
+völlig inadäquat ist, das Thema ist dort extrem off topic) und ein F'upTo 
+setzen. Das halte dann doch bitte selber auch ein. Dann wird der Thread in 
+de.sci.physik (wohin ich jetzt zum wiederholten Male das F'upTo setze!!!) 
+weitergeführt, und Interessierte aus den anderen Gruppen können sich dort 
+an der Diskussion beteiligen. Mehrfachpostings in verschiedene Gruppen 
+nerven nur und bringen nichts.
+
+
+Die Maxwelltheorie ist widerspruchsfrei, insofern das eine physikalische 
+Theorie sein kann (die Maxwelltheorie muß, so wissen wir heute durch die 
+Gesetze der Quantentheorie ergänzt werden und zur QED ausgebaut werden, 
+wenn man den Gültigkeitsbereich der klassischen Maxwellgleichungen verläßt, 
+aber das nur am Rande).
+
+Du diskutierst hier eine andere Theorie, nämlich nichtrelativistische 
+Strömungsmechanik. Natürlich gibt es in dieser Näherung instantane 
+Fernwirkungen, aber das verwundert ja nicht, denn die Annahme einer 
+inkompressiblen Strömung verlangt ja genau das: Wenn ich an einem Ende auf 
+einen Stempel drücke, fließt am anderen Ende instantan etwas heraus.
+
+Dies ist aber nur eine für viele praktische Belange vollkommen ausreichende 
+Näherung. Du hast bei der Einführung Deiner Näherungsannahmen auf die 
+Behandlung von durch die Relativitätstheorie geforderten 
+Retardierungseffekten verzichtet. Du mußt Dich dann nicht wundern, daß im 
+Rahmen dieser Näherung die Relativitätstheorie nicht mehr gilt.
+
+Im Umkehrschluß folgt daraus, daß es im Rahmen der Relativitätstheorie 
+keine inkompressiblen Flüssigkeiten gibt, weil hier immer 
+Retardierungseffekte berücksichtigt werden müssen. Das geschieht durch eine 
+relativistisch kovariante Formulierung der Hydrodynamik von selbst (vgl. 
+z.B. Lindner/Langkamp, Bd. VI, wo das ausführlich durchgerechnet wird).
+
+In der Maxwelltheorie kann es Verletzungen der Retardierungsbedingung nicht 
+geben, weil sie bereits relativistisch kovariant ist.
+
+
+-- 
+Raymond Bangart                Home: http://paedgm.fag.bx/~clegjni/    
+c/o MLN-Funthomas RE3 0.388     FAQ: http://wthqam.woe.ts/~gkksetl/lds/
+Echternachweg 4                    
+D-39669 Innstadt               mailto:l.zreidzt@gcm.fq

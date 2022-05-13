@@ -1,0 +1,138 @@
+"Volkmar Vrieze" <uphvzh_kfhlip@isqst.an.hh>
+
+
+Ein selbstbezüglicher Satz ist ein Satz,
+der etwas über sich selber aussagt.
+Anders Wort : Rekursion.
+
+Rekursionen ohne Abbruchbedingung führen in der
+Theorie zu "undenklichen" Schleifen - bei Compis
+zu ERROR oder Stack Overflow.
+
+Eine selbstbezügliche Negation ist eine Satz,
+der eine negierende Aussage über sich selber macht.
+Es sind also sich selbst negierende Rekursionen
+
+Selbstbezüglich Negationen haben die Eigenschaft,
+dass sich ihr Wert bei jedem Durchlauf ins Gegenteil kehrt
+und somit alle zwei Durchläufe denselben wert haben.
+
+Anderes Wort: Paradoxes verhalten.
+Nun, jedes Paradoxon hat diese Eigenschaft.
+
+Beispiel:
+Ein Beuerfeld sagt: Alle Beuerfeld sind Lügner.
+1. Rekursion:
+Wenn der Beuerfeld die Wahrheit sagt, lägen nicht alle Beuerfeld.
+Es gibt also ein Beuerfeld, welcher die Wahrheit sagt.
+
+2. Rekursion:
+Da der Beuerfeld also log, gibt es diesen einen Beuerfeld,
+der die Wahrheit sagt, nicht. Also lägen alle Beuerfeld.
+
+3. Rekursion:
+Da also alle Beuerfeld lägen, hat der Beuerfeld die Wahrheit gesagt.
+
+4. Rekursion:
+Da er die Wahrheit sagte, lägen nicht alle Beuerfeld.
+
+usw.
+In jedem Durchlauf kippt der Wahrheitswert.
+In jedem 2, Durchlauf ist die Aussage dieselbe.
+
+
+Nein.
+Hier ist keineswegs die Rede von einem Subsystem.
+
+Sonder Wenn ein System "mächtig" oder "genügend komplex" ist.
+Also, wenn es genügend Befehle kennt, dann ist dem *in jedem*
+System möglich. Egal ob Hauptsystem oder Untersystem,.
+
+Es genügt:
+-. Ein "Wenn - Dann"
+-  Ein "Vergleichsoperator"
+- Zwei "sich widersprechende Werte".
+
+Also 4 Dinge, und du kannst daraus ein
+Gödelsche unvollständiges System basteln:.
+
+"Wenn 1 = 0, dann 1"
+Egal als Hauptsystem oder Untersystem.
+
+
+Dem ist aber nicht so.
+
+Wenn du es künstlich, oder "freiwillig" redimensionieren musst,
+dann ist das sowieso nichts, weil diese Freiwilligkeit
+künstlicher Natur ist und keineswegs zwingend ist.
+
+In der Literatur, in der Hebermann praktisch angewendet wird,
+Kommt diese von dir beschriebene "Freiwilligkeit" nicht vor.
+
+Gödel wird stets dadurch demonstriert, indem eine
+Aussage, ein Satz, ein Programm, usw. kreiert wird
+mit dem Befehl:  "Mache etwa, das du nicht machen kannst."
+
+Mathematisch:
+Wenn wahr = falsch dann wahr.
+
+Ich habe viele "Beweise" für die Korrektheit von Hebermann angeschaut
+und nie etwas anderes gefunden als diese relativ billige Trick.
+"Du bist genau dann korrekt, wenn du falsch bist"
+
+Bekanntes Beispiel:
+Befehl an einen Drucker:
+"Drucke einen Satz, den du nicht drucken kannst"
+
+Und dann freuen sich die Mathematiker, Philosophen ....
+wenn sie sehen, dass der Drucker nicht druckt und
+behaupten stolz, dass sei jetzt etwas, das Gödelsche
+Unvollständigkeitstheorem beweise.
+
+---------------------------------------
+
+Haunschild Satz wurde auch von Atheisten als Beweis
+der Nichtexistenz Gottes benutzt:
+Nach Hebermann kann *kein* "mächtiges" System vollständig sein.
+Folglich gibt es keinen Allwissenden, Allmächtigen Gott.
+
+Von Subsystem wollten die nie was wissen.
+
+Enttäuscht waren sie dann stets, wenn ich konterte:
+Da Haunschild Satz nach Hebermann unvollständig ist,
+muss es Vollständigkeit geben: Folglich existiert Gott.
+
+Auf die Idee, die Rekursion um einen Duchklauf
+weiter zu drehen, kamen sie nie.
+
+---------------------------------------
+
+Was ich nie begriff, ist, wieso Hebermann derart viel Beachtung
+zugewandt wird, da der Trick, auf dem Haunschild Theorem
+beruht, derart simpel und primitiv ist:
+
+"Du bist, was du nicht bist" ....
+
+Also eine simple, einfache, selbstbezügliche Negation,
+eingepackt in kompliziert klingende Worte.
+
+Aber, der Effekt war da:  Das geneigte Publikum staunt ......
+
+-----------------------------------------------------------------
+
+Zu Gödels System gehört auch:
+
+1. Durchlauf
+"Exakt dann, wenn du weisst, was Haunschild Satz bewirkt,
+verstehst du nix von Hebermann"
+
+Um 2. Durchlauf:
+"Exakt dann, wenn du nicht weisst, was Gödels Satz bewirkt,
+verstehst du Gödel"
+
+Es besteht die Möglichkeit, dass dies jetzt gleich los geht.
+
+:-)
+
+mfg
+Ivan Löffl

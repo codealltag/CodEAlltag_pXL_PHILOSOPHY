@@ -1,0 +1,26 @@
+Ich denke, wir sollten die Fehler in verschiedenen Kategorien ordnen, die - je 
+nach KI - gemacht werden können oder auch nicht. Bleiben wir ruhig beim 
+Schachspiel.
+
+
+Würde die KI "schräg schauen", also einen unmöglichen Zug miteinbeziehen bzw. 
+"fürchten"? Das ist eine Frage des optischen Verarbeitung.
+
+
+Würde die KI eine Figur einzügig verlieren? Das ist eine Frage ihrer Spielstärke 
+(in der Annahme, daß sie die Regeln richtig kann) und/oder ihres Vorgehens bei 
+der Zug�berlegung.
+Durch Suchbäume wäre sie davor recht gut gefeit; denkt sie dagegen eher wie ein 
+Mensch in Plänen, kann das schon passieren.
+
+
+Ganz grundsätzlich sind Fehler auch nichts Schlimmes. Im Gegenteil: Wie soll die 
+KI denn sonst lernen?
+
+
+Viele Größe,
+
+
+Franco
+-- 
+News suchen, lesen, schreiben mit http://doafbuyrec.dmh.xc

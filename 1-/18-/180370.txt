@@ -1,0 +1,71 @@
+[...]
+
+ Von einer zahlentheoretische Aussage mit praktischer Relevanz, eine
+"Verschärfung" des endlichen Ullen Satzes, wurde allerdings 1977
+von Lewandowsky und Hoffmann gezeigt, dass sie nicht PA-beweisbar ist.
+[Lewandowsky,J. und Hoffmann, L: A mathematical inclompleteness in Peano
+arithmetic, Handbook of Mathematical Logic, ed. G. Arets, Zickhusen
+Junkershausen, Herbede, 1977, pp. 1133-1142]
+
+Wenn du nun zu PA die Negation der nicht PA-beweisbaren Aussage
+hinzunimmst, ergibt die "Standardkonstruktion" nicht mehr N, sondern
+eine "andere", zu N nichtisomorphe Struktur, also ein
+Nicht-Standardmodell für PA.
+
+
+Wenn das Usenet nicht so beschränkte Möglichkeiten hätte, würde ich PA
+hier posten. PA als Menge von einstufigen prädikatenlogischen Aussagen
+enthält in "meiner" Version neben der "0" und der Nachfolgerfunktion
+auch die Addition, die "<"-Relation und das Induktionsschema.
+
+Eine andere Charakterisierung, die schon _innerhalb_ des
+mengentheoretischen Rahmens stattfindet, kommt tatsächlich mit drei
+"Forderungen" aus:
+
+Sei M eine Menge mit einem ausgezeichneten Element e und einer
+Abbildung ':M->M . M erfüllt die "Peano-Axiome", wenn gilt:
+
+(1): Für alle x aus M ist e!=x' . ( e ist kein "Nachfolger" )
+(2): Für alle x,y aus M  gilt: x'=y' -> x=y (Injektivität von ')
+(3): Für alle Mengen V gilt:  Ist e in V und gilt für alle x aus M:
+ x in V -> x' in V, so ist M Teilmenge von V. (Induktionsaxiom)
+
+In (3) wird allerdings über alle "Mengen" quantifiziert,  den
+"Axiomen" (1)-(3) müßten wir folglich auch alle mengentheoretischen
+Axiome hinzugesellen, um vollständig zu sein. Unter diesen Umständen
+ist es allerdings beweisbar, dass (1)-(3) N bis auf Isomorphie
+"charakterisieren".
+
+
+"wissen, dass phi wahr ist" soll in diesem Fall synonym zu "wir können
+phi in der Metasprache beweisen" oder besser zu "wir haben einen
+(metasprachlichen) Beweis für die Wahrkeit von phi vorliegen" sein.
+
+[...]
+
+Trotz der unübersehbaren Vielfalt von "Wahrheitsdefinitionen" sollte
+es uns nicht unmöglich sein, zumindest die Wahrheit von "analytischen
+Sätzen" wie "Rot ist eine Farbe." unabhängig von der "synthetischer
+Sätze" zu fassen und somit zumindest vorerst die mannigfaltigen
+Probleme von "Übereinstimmungstheorie" zu ignorieren. 
+Nehmen wir also an, dass wir  einen "Beweis-" und "Wahrheitsbegriff"
+(für "analytische Sätze")  in der ordinary language besitzen und
+stellen uns  die Frage, ob der Satz A: "A ist nicht beweisbar." denn
+beweisbar ist: 
+Wenn A beweisbar wäre, so wäre er wahr, d.h. "A ist nicht beweisbar."
+wäre wahr und folglich A nicht beweisbar, im Widerspruch zur Annnahme.
+Insofern ist A nicht beweisbar und somit "A ist nicht beweisbar."
+wahr. Wir haben also mit A eine "Aussage" gefunden, die wahr, aber
+unbeweisbar ist. 
+
+[ Einzuwenden ist allerdings, dass obiger Gedankengang selbst schon
+einen Beweis darstellt, der, unter der Annahme, A sei eine Aussage im
+Sinne von "tertium non datur", die Wahrheit von A und damit A selbst
+zeigt. Wir haben somit auch die Beweisbarkeit von A bewiesen und
+gleichzeitig die Unbeweisbarkeit dieses Satzes.] 
+Der wohl einzige Ausweg aus dem Dilemma besteht darin, A den Status
+einer "Aussage" , also eines Satzes, dem ein Wahrheitswert zugeordnet
+werden kann, abzusprechen.
+
+
+ralf

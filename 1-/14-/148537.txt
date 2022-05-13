@@ -1,0 +1,59 @@
+Das leuchtet mir jetzt zwar nicht ein, aber weiter ...
+
+
+Nur so nebenbei: Wenn T die Menge der T_k ist, sind die
+T_k die Elemente von T.
+Du meinst wohl: "Würde die Menge T aller T_k nur solche
+T_k enthalten, die nur endliche Teilmengen von N enthalten, ..."
+
+Die Folgerung, dass es dann eine größte Teilmenge geben muss,
+ist falsch.
+
+
+Wir haben dir schon oft erläutert, dass es keine "größte"
+endliche Mächtigkeit gibt. Darum muss es in einer unendlichen
+Menge von endlichen Mengen keine Menge mit maximaler Mächtigkeit
+geben.
+
+
+Die Definition von T_k enthält in der ersten Version nur
+endliche Mengen, in der zweiten Version nur endliche und
+ko-endliche Mengen.
+
+
+Den Fehler im Beweis habe ich IMHO gezeigt.
+
+
+Dies ist schon aufgrund der endlichen Lebensdauer eines
+Menschen unmöglich.
+
+
+Dies mag bei der Menge der reellen Zahlen sein
+(Es gibt eine abzählbare Teilmenge berechenbarer
+reeller Zahlen, der Rest ist nicht angebbar),
+aber bei der Menge der natürlichen Zahlen besteht
+das Problem höchstens in der Art der Darstellung
+(etwa, weil die Dezimalschreibweise zu lang ist,
+um sie in der Lebenszeit eines Menschen auszusprechen
+oder aufzuschreiben).
+
+Von "grundsätzlich" würde ich da nicht reden.
+
+
+Jetzt kommen wir wieder auf die unendlichen natürlichen
+Zahlen ...
+
+
+Diese unendlich lange Diagonale ist ja gerade _keine_ natürliche Zahl.
+
+
+Wenn dein Beweis korrekt wäre, würde das die Inkonsistenz der
+Theorie zeigen, so ist dies nicht der Fall.
+
+Die Fehler in deinem Beweis wurden dir schon mehrmals direkt
+nachgewiesen.
+
+
+Zu N antworte ich in einem extra Posting.
+
+Luc

@@ -1,0 +1,6 @@
+Die IP steht bei Keto.groups  im Header. Im übrigen steht die IP bei 
+fast allen Provider im Header nur nicht immer im Klartext, aber bei 
+Keto mit Injection-Info sogar im Klartext.
+
+Grüße,
+Wolfram

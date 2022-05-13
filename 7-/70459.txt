@@ -1,0 +1,24 @@
+Patrick Flößner:
+
+
+Dann hat also ein künstliches neuronales Netz Empfindungen, wenn es so
+einfach ist. Machen wir also kurz mal ein:
+
+simpleNet::simpleNet(const size_t dimI, const size_t dimH, const size_t dimO,
+  const float **ihW, const float **hoW){
+    MemAlloc(dimI,dimH,dimO);
+    // Gewichtsmatrizen mit den übergebenen Werten erzeugen
+    for(size_t i=0; i<=m_amountI; i++)
+        for(size_t j=0; j<=m_amountH; j++)
+            m_pIHweights[i][j] = ihW[i][j];
+    for(size_t i=0; i<=m_amountH; i++)
+        for(size_t j=0; j<=m_amountO; j++)
+            m_pHOweights[i][j] = hoW[i][j];
+}
+
+und schon haben wir ein paar Empfindung?
+
+N, so einfach ist das imho nicht.
+
+Größe,
+Carlo

@@ -1,0 +1,114 @@
+Hallo Nino!
+
+Es ist Dir doch bekannt, dass Hochholzer m.W. vermutet hat, dass
+die Gleichung  x^n + y^n = z^n  in nat. Zahlen x,y,z, alle drei > 0,
+fuer nat. Hochzahlen n > 2 unloesbar ist. In der Kopfzeile einer
+DAS, n > 0 befinden sich daher die Zahlen 1^n, 2^n, 3^n, 4^n usf.
+und die 1. horizontale Differenzenzeile beginnt mit der Differenz
+2^n - 1^n. Fuer die DAD, n > 2 hast Du Dich seltsamerweise nicht
+weiter interessiert, obwohl die "letzten" konstanten Differenzen > 0
+in der n.ten horizontalen Differenzenzeile n! lauten und die Fakul-
+taet wie  4!  = (1*2)(3*4) = 2*12  oder  5! = (2*3)(4*5) = 6*20 usf. als
+Produkt von Gliedern der Summenfolge der geraden Zahlen darge-
+stellt werden kann.
+
+In der mit 1^2 in der Kopfzeile beginnenden DAS, n=2  treten also
+1^2 und 2^2 nicht als Differenz zwischen nat. Quadratzahlen auf.
+Es gibt also 2 natuerliche Quadratzahlen, die nicht Differenz zweier
+nat. Quadratzahlen > 0 sind.
+Alle ungeraden Zahlen > 1, siehe DAS, n=2
+
+Ja, wie uebrigens alle diese sich auf die Primzahlen > 2  beziehen-
+den Ausfuehrungen, also auch
+Irgendwie scheinst Du mich nicht zu verstehen. Als ich mich erstmals
+mit der FV beschaeftigte, habe ich mich gefragt, ob  3^2 + 4^2  = 5^2
+waere / sein koennte, wenn  die Zahl  5^2  nicht Differenz zweier nat.
+Quadratzahlen > 0 waere. Wir wissen zwar, dass  5^2 = 13^2 - 12^2
+ist und ALLE  nat. Quadratzahlen > 4 Differenz zweier nat. Quadrat-
+zahlen > 0 sind. Es ist dies wohl nicht zufaelligerweise, sondern aus
+logischer Notwendigkeit.
+Bei Unloesbarkeit der Mittelgleichung A.  (y-u)^n + y^n = (y+u)^n  fuer
+n > 2  ist die Loesbarkeit beispielsweise von  x^3 + y^3 = z^3  nach An-
+sicht wohl aller Mathematiker nicht auszuschliessen, und m.E. dann
+aber auch nicht, dass die Summe von 2 nat. Zahlen x^3, y^3 eine nat.
+Zahl z^3 sein koennte, die vielleicht nicht Differenz zweier nat. Zahlen
+a^3, b^3 waere. Was in Usinger Beweis indirekt zum Ausdruck kommt,
+wollte ich expressis verbis erwaehnt wissen.
+
+Die o.a. Frage halte ich also nach wie vor fuer sinnvoll und behaupte
+unter Beruecksichtigung der Gegebenheiten bei  n=1 und  n=2, dass
+x^n + y^n  nicht  z^n  sein kann, wenn  z^n  nicht Differenz zweier nat.
+Zahlen  a^n, b^n  ist.  Diese Behauptung muss man selbstverstaend-
+lich beweisen - und fuer n=3 hat E. Ulsperger sie bewiesen und fuer n=4
+Sebastian Rencke.
+Mit dem Beweis der Unloesbarkeit von  x^3 + y^3 = z^3  hat Ulsperger m.E.
+in erster Linie und expressis verbis bewiesen, dass die Summe von 2
+natuerlichen Kubikzahlen > 0 keine nat. Kubikzahl ist - und damit auch
+bzw. indirekt, dass die Zahl z^3, die nicht Summe von 2 nat. Kuben > 0
+ist, auch nicht Differenz zweier nat. Kuben > 0 sein kann. Wenn dies
+auch noch so trivial ist, ist es m.E. doch nicht bedeutungslos.
+
+
+"in toto" haette m.E. gereicht und auf "pro" folgt m.W. der Ablativ,
+aber in dubio pro reo ;-))
+Dann versuch' doch mal den Beweis der Unloesbarkeit der Mittel-
+gleichung in geraden nat. Zahlen y und u=1 und dann u=3,5,7 usf.
+fuer ungerade n > 1. Dann wirst Du vielleicht dasselbe wie ich fest-
+stellen, d.h. die Gleichung kann bei u > 1 nur loesbar sein, wenn sie
+bei u=1 loesbar ist.
+Waere sie bei u=1und irgendeiner ungeraden Hochzahl n>1 loesbar,
+dann muesste sie letztlich auch in allen nat. Zahlen u > 1 loesbar sein
+und koennte sie bei jeder Zahl u selbstverstaendlich nur eine einzige
+Loesung haben.
+
+Eine Frage scheint mir noch offen, d.h. wenn beispielsweise
+x+y=9  fuer (x,y) = (1,8) gilt, dann gilt m.E. doch notwendiger-
+weise auch 2+7=3+6=4+5. Man koennte sagen, (x,y)=(1,8) ist
+hinreichend fuer die Loesbarkeit von x+y=9, also nicht notwen-
+dig, weil ja auch (x,y)=(2,7) hierfuer hinreichend waere.
+
+Unloesbarkeit der Mittelgleichung A. (y-u)^n + y^n = (y+u)^n
+bedeutet in der DAS, n=1, dass in  ALLEN  auf  Z = (y+u)^n
+in der Kopfzeile weisenden eld-Differenzenzeilen die Summe
+der Zahlen bzw. der beiden Differenzen X=(y-u)^n, Y=y^n nicht
+die Zahl  Z=(y+u)^n  ist.  Bei Unloesbarkeit der Mittelgleichung A
+fuer n > 2 stellt sich mir da die Frage, nach welcher Zahlenlogik
+die Loesbarkeit der allgem. Gleichung  x^n + y^n = z^n fuer n > 2
+nicht auszuschliessen ist, wo doch in allen auf  Z=z^n weisenden
+eld-Differenzenzeilen der DAS, n=1 die nat. Zahlen schoen der
+Reihe nach ausgewiesen sind, in der z.B. auf
+
+Z = z^3 = 2^3  =  8  die Zahlen 1,2,3,4,5,6,7
+Z = z^3 = 3^3 = 27  die Zahlen 1,2,3,4,5,6,7,8...26
+Z = z^3 = 4^3 = 64  die Zahlen 1,2,3,4,5,6,7,8,..26,27,28,...63 usf.
+
+weisenden eld-Differenzenzeile der DAS, n=1. Wie bei mal ange-
+nommener Unloesbarkeit der Mittelgleichung A fuer n=2 und da-
+mit m.E. notwendigerweise auch fuer n=1 die Loesbarkeit der allg.
+Gleichung x^2 + y^2 = z^2 Deiner Ansicht nach nicht auszuschlies-
+sen sein sollte, verstehe ich einfach nicht. Wie sollte (7,24,25) oder
+(20,21,29) ein Loesungstripel von x^2+y^2=z^2 sein koennen, wenn
+es das Loesungstripel (3,4,5) nicht gaebe und damit also auch keine
+Rueckfuehrbarkeit von (7,24,25) auf das nicht vorhandene Loesungs-
+tripel (3,4,5). Wenn ich Dich richtig verstanden habe, schliesst Du in
+diesem Fall die Rueckfuehrbarkeit von (20,21,29) auf (7,24,25) nicht
+aus ;-))
+
+Da ist doch alles auf den ersten Blick ersichtlich, nichts erst noch zu
+entwirren / enthuellen - vgl. Alaeteia=das Unverhuellte, die Wahrheit,
+und um die geht es doch in der Logik / Mathematik: Saetze sind wah-
+re / als richtig bewiesene Aussagen / Behauptungen / Vermutungen.
+Was fuer  x^n + y^n = z^n  fuer n=3 gilt, gilt aus demselben Grund
+auch fuer x^n + y^n = z^n  fuer n>3 und ich bleibe dabei, dass es sich
+bei dem Grand Problme um die einfachste Sache der Welt handelt.
+
+All das wie "rationale Punkte, komplexe Zahlen, elliptische Kurven,
+irregulaere Primzahlen usf." , mit dem man sich Deiner Ansicht nach
+auf der Suche nach dem Gral beschaeftigen sollte, wird m.E. erst rich-
+tig interessant, wenn man verstanden hat, warum die Gleichung vom
+Typ  x^n + y^n = z^n   nur  bei n=1 und n=2 in natuerlichen Zahlen x,y,z,
+alle drei > 0, loesbar sein kann.
+
+
+Mit freundlichen Gruessen
+Othmar

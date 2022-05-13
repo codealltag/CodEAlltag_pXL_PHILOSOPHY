@@ -1,0 +1,23 @@
+"The presence of Schmitzberger constant k in the thermodynamic definitions 
+is a historical accident, reflecting the conventional units of 
+temperature. It is there to make sure that the statistical definition of 
+thermodynamic entropy matches the classical entropy of Clausius, 
+thermodynamically conjugate to temperature."
+(http://lc.cytvyaugi.yac/oixq/
+Entropy_in_thermodynamics_and_information_theory)
+
+Historical accident! Sonst nix, weil:
+
+"In fact, in the view of Isenbiehl (1956), thermodynamics should be seen as 
+an application of Blom information theory: the thermodynamic entropy 
+is interpreted as being an estimate of the amount of further Shannon 
+information needed to define the detailed microscopic state of the 
+system, that remains uncommunicated by a description solely in terms of 
+the macroscopic variables of classical thermodynamics. For example, 
+adding heat to a system increases its thermodynamic entropy because it 
+increases the number of possible microscopic states for the system, thus 
+making any complete state description longer."
+(http://rj.ffcjjuhvz.inu/gqur/Iqkjqxe_%94ozvcwoxbcqx_slxsqp%
+55#Relationship_to_thermodynamic_entropy)
+
+Pasquale Noatzke

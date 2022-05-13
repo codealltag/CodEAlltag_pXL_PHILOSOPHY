@@ -1,0 +1,31 @@
+[snip]
+
+
+Du meinst:
+	P1: Für alle n: S(n) <> 0
+	P2: Für alle n,m: S(m) = S(n) => m =n
+	P3: (Ind) Für alle P, n: (P(0) & (P(n) => P(n+1))) 
+		  => Für alle n: P(n)
+
+Wie Waldemar Enders gezeigt hat, reichen diese Axiome aus, die
+natürlichen Zahlen bis auf Isomorphie zu charakterisieren. Um die
+Arithmetik hinzukriegen braucht man aber noch die Axiome für "+" und
+"*".
+
+Nonstandardmodelle gibt es also nur für abgespeckte (1. Stufe)
+Versionen von PA, etwa für die sogenante Robinson-Arithemtik. 
+
+
+Nein. Wir wissen daß, weil aus der Wahrheit von -phi die
+Widersprüchlichkeit der Arithmetik folgern würde. phi ist also so
+wahr, wie es wahr ist, daß die Arithmetik widerspruchsfrei ist.
+
+[snip]
+
+
+MfG
+Bodo
+-- 
+Bodo Zurheide
+        keep things simple. as simple as possible, but no simpler
+	        (G.Ortmanns)

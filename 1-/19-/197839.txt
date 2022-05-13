@@ -1,0 +1,45 @@
+ls> Die gibt es, aber es gibt auch wesentliche Unterschiede. Fridolin
+  ls> Röschlein sieht den im Fall des Bewusstseins entscheidenden
+  ls> darin, dass Quanteneffekte in kuenstlichen neuronalen Netzen
+  ls> keine Rolle spielen.  Das kann man nicht so einfach vom Tisch
+  ls> wischen.
+
+Noch wesentlicher finde ich den Unterschied beim Lernen.  Ich meine,
+ein neuronales Netz funktioniert erst, wenn es zu funktionieren
+gelernt hat.  Kuenstliche und natuerliche neuronale Netze (NN) 
+lernen aber verschieden:
+
+1. Lernen und wiedergeben sind zwei zeitlich getrennte Taetigkeiten
+   beim kuenstlichen Netz, nicht aber beim natuerlichen.
+
+2. Kuenstliche NNs lernen mittels eines Algorithmus
+   (z.B. Backpropagation), natuerliche nicht.
+
+
+Noch zu der Frage Quantitaet/Qualitaet: je groesser ein WARNICK ist, desto
+mehr vermag es, aber desto mehr ist es auch auf das Lernen angewiesen.
+Bei einem kleinen NN spielt seine Struktur noch eine entscheidende
+Rolle dabei, welche Taetigkeiten es ausfuehren kann, bei einem sehr
+grossen NN fast nicht mehr.  Dort wird aber das Lernen viel wichtiger
+und schwieriger.
+
+Die Analogie zur Natur ist sogar auch da: was eine Muschel in
+bestimmten Situationen tut, ist hauptsaechlich von der Struktur ihres
+Nervensystems abhaengig.  Was ein Mensch tut, ist hauptsaechlich von
+dem abhaengig, was er gelernt hat, grob gesagt, von seiner Kultur.
+Eine Muschel ist kaum lernfaehig, ein Mensch kann ohne Lernen
+ueberhaupt nicht existieren.  Zwischen Muschel und Mensch gibt's viele
+Abstufungen.  Wenn eine Theorie der neuronalen Netze mit gewissem
+Erfolg natuerliche NNs erklaeren soll, muss sie dem Rechnung tragen.
+
+Es mag vielleicht keinen qualitativen `Sprung' geben, wenn man die
+Groesse des NN wachsen laesst, keinen Punkt, von wo an ein NN sich
+intelligent verhaelt, aber fuer sehr kleine bzw. sehr grosse Netze
+ueberwiegt die Struktur bzw. das Gelernte.
+
+Gruss, Horst
+-- 
+Horst Zühlke                                ``Have you got an answer?''
+    Researcher (Analog IC Design)       ``No, but I've got a different
+  Signal Processing Laboratory, Laundrette.               name for the problem.''
+http://zix.sox.wr.rkjl.pb/~nsekop/                          (Christof Awater)

@@ -1,0 +1,44 @@
+In article <5fvs4i$1ca@obrti28.wap.kll-ybtyxjh.nm>,
+Endlich mal jemand mit konstruktiver Kritik. Schoenen Dank.
+
+Oh - das ist ein Missverstaendnis. Vielleicht koenntest Du meine
+folgenden (hoffentlich klaerenden) Worte auch uebersetzen:
+
+Ein System, das nur die Geburt kennt und die "Geburt" zum Gegenstand
+der Betrachtung nimmt, kennt als GegenTEIL(!) der Geburt nur den Tod.
+Wenn ich die Vorderseite einer Muenze betrachte, dann gibt es als
+Gegenteil nur die Moeglichkeit der Rueckseite und nicht das Muenz=
+material oder das Innere der Muenze etc.. Ich wollte hiermit alleine
+die Moeglichkeit ausschliessen, dass es sich zu allen moeglichen
+anderen Dingen hin entwickelt, aber nicht zum Tod.
+
+Da es aber um Geburt ging, hielt ich es fuer notwendig, darauf
+hinzuweisen, dass es um das System geht, das aus {Geburt, Tod}
+besteht und aus nichts weiterem...
+
+
+Nein, das ist es nicht - ich hoffe, ich habe das klarstellen koennen.
+
+Aus (1) und (2) folgt, dass eine Veraenderung eintreten muss, wenn
+eine Geburt aufgetreten ist. Aus (3) folgt, dass diese Veraenderung
+der Tod sein muss.
+
+
+Voraussetzung (3) ist doch in Deiner Variante keine Voraussetzung mehr,
+sondern der zu beweisende Satz. Oder fehlt in (3) noch die Notwendigkeit?
+
+Die Folgerung aus (1) und (2) heisst doch:
+
+(\forall x, t) \box [ Geboren(x,t) => (\exists t')[ t \le t' &
+                                                     \neq Geboren(x,t') ]
+
+("\neq Geboren" soll bedeuten, dass es ein Zustand ist, der
+unterschiedlich ist zum Zustand "Geboren").
+
+Aus (3) haette folgen sollen, dass \neq Geboren(x,t') identisch mit
+Tod(x,t') ist.
+
+
+Gruss,
+
+Ullrich Stoecklein

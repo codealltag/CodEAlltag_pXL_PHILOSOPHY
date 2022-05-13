@@ -1,0 +1,23 @@
+Auch exakt meine Meinung. Und eine weitere Verbesserung wäre:
+man könnte kollaborative Filterung implementieren, bei der
+ein auf (meinetwegen nur partiellem) gegenseitigem Einverständnis
+gegründetes verteiltes Updating der Filter stattfinden könnte.
+Um dabei die Abhängigkeit von einer einzelnen "Peer"-Group und
+ihren möglicherweise nur teilweise akzeptablen Filterregeln zu
+vermindern sollte es möglich sein, mehrere "Abos" bei verschieden
+definierten "Peergroups" zu nehmen und diese (bspw. über "oder/und")
+logisch zu verknüpfen.
+Der Aufwand für das leidige Filter-adjustment für die täglichen
+Kreationen von Absendernamen würde sich dann entsprechend der
+Anzahl der Beteiligten in einer Abo-Gruppe reduzieren.
+
+
+Regelmäßiges Posten von Statements von geeigneten Vorbehalten wäre eine
+Möglichkeit dieses Problem zu mindern. sci.* Newsgrupppen werden
+sicherlich ein journalm��iges Peer-Review niemals aufweisen. Und
+ohne solches Peer-Reviewing wäre auch jedes Printjournal zunächst
+versandet und schließlich unverkäuflich....
+Filter-Abos wie oben angerissen könnten eine -sicherlich sehr
+primitive- Form von solchem "Peer-Review" abbilden/implementieren.
+
+Nils

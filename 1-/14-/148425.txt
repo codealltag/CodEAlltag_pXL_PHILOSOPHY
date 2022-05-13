@@ -1,0 +1,81 @@
+Egon Jäckel schrieb
+
+
+:
+: Alle Potenzen der Primzahlen p der Form 4*k + 1 wie 5, 13, 17 usf.
+: sind Summe zweier Quadratzahlen. Die Zahlen
+:    p^1   und   p^2   sind es einmal
+:    p^3   und   p^4   sind es zweimal
+:    p^5   und   p^6   sind es dreimal usf.
+:
+: Hingegen gilt fuer alle Potenzen der Primzahlen p der Form 4*k-1
+: wie 3, 7, 11, 19, 23  usf.: Sie sind nicht Summe von 2 natuerlichen
+: Quadratzahlen.
+:
+: Alle Primzahlen p > 2 sind Differenz zweier nat. Quadratzahlen > 0
+: Die Zahlen  p^1  und  p^2   sind es einmal
+: Die Zahlen  p^3  und  p^4   sind es zweimal
+: Die Zahlen  p^5  und  p^6   sind es dreimal usf.  (*)
+
+: Die Kuben der Primzahlen > 2 sind also bereits zweimal Differenz
+: zweier nat. Quadratzahlen > 0 und daher, wie ich behaupte, nicht
+: Differenz zweier nat. Kubikzahlen > 0 und somit also auch nicht
+: Summe von zwei natuerlichen Kubkizahlen > 0.
+
+Die Haeufigkeit, mit der die Kuben, Biquadrate usf. der ungeraden
+Primzahlen p > 2 Differenz zweier nat. Quadratzahlen > 0 sind, ist hin-
+sichtlich FLT alles andere als bedeutungslos. Die Kuben der p > 2 als
+mehr als einmal mit sich selbst multiplizierte natuerliche Zahlen sind
+mehr als einmal Differenz zweier nat. Quadratzahlen > 0 und daher,
+d.h. im Sinne eines weiteren / ergaenzenden approach an FLT = FV
+unmoeglich Differenz zweier nat. Kubikzahlen > 0.
+
+Wenn man mal erkannt / verstanden hat, warum  x^3 + y^3 = z^3
+in nat. Zahlen x,y,z, alle drei > 0, unloesbar ist, dann muss man m.E.
+auch verstehen - und als Mathematiker beweisen - koennen, warum
+die Gleichung vom  TYP  x^n + y^n = z^n   fuer  n > 3  bzw. ab  n = 3
+stellvertretend fuer natuerliche Hochzahlen  n > 3  in nat. Zahlen x,y,z
+unloesbar sein muss und folgende "3-Faelle-Logik" gilt:
+
+- Es gilt immer x+y=z in dem Sinne, dass die Summe
+   von 2 nat.Zahlen x,y eine natuerliche Zahl z > 1 ist.
+
+- Es gilt nicht immer  x^2 + y^2 = z^2;  beispielsweise
+   ist diese Gleichung in ungeraden nat. Zahlen x,y
+   und also geraden nat. Zahlen z unloesbar
+
+- Es gilt immer nicht = nie   x^n + y^n = z^n  fuer nat.
+  Hochzahlen n > 2.
+
+Eine bei u=1 unloesbare Mittelgleichung A. (y-u)^n + y^n = (y+u)^n
+kann bei nat. Zahlen u > 1 evident nicht in nat. Zahlen y > 0 loesbar
+sein. Es gibt keine vielfachen Loestripel eines bei u=1 nicht vorhan-
+denen "einfachen" bzw. primitiven Loesungstripels. Aus der jeweili-
+gen DAS, n > 2 und vor allem aus der DAS, n=1 ist in aller Deutlich-
+keit ersichtlich, dass bei Unloesbarkeit der Mittelgleichung A die Glei-
+chung vom TYP  x^n + y^n = z^n  in nat. Zahlen x,y,z, alle drei > 0, fuer
+nat. Hochzahlen nicht loesbar sein kann.
+
+Dem kann ich nur zustimmen. Ich schliesse ja auch nicht aus, dass
+Mark Naerlich tatsaechlich eine "wunderbare Loesung" des nach
+ihm benannten Problems gefunden hatte. Wenn nicht, dann bestand
+nach meiner Ueberzeugung zumindest die Moeglichkeit einer ganz
+einfachen=wunderbaren Loesung des Grand Problme, d.h. bei dem
+mathematischen Wissensstand zu Mark Niemeyer Lebzeiten.
+
+
+Mit freundlichen Gruessen
+Stephan
+
+
+(*) Die Loesbarkeit von  x^2 + y^2 = z^2  schliesst
+
+     die Loesbarkeit der Gleichung  x^4 + y^4 = z^4  ebenso aus wie
+     die Loesbarkeit der Gleichung  x^4 + y^4 = w^2  bei w^2=/=z^4
+
+     und
+
+     die Loesbarkeit der Gleichung  x^3 + y^3 = w^2 ebenso ein wie
+     die Loesbarkeit der Gleichung  x^4 + y^4 = 17 * z^4.  Wie steht
+     es mit rechtwinkligen Dreiecken mit 3 ganzzahligen Seiten zu
+     diesen loesbaren Gleichungen ? ;-)

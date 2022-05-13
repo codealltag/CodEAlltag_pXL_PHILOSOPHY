@@ -1,0 +1,89 @@
+Die Semantik der 2-stufigen Logik ist leider nicht gerade mein
+Spezialgebiet, und von daher möchte ich mich hier nicht allzu weit aus
+dem Fenster lehnen.
+Dessen ungeachtet versuche ich, deine Argumenatation nachzuvollziehen.
+
+"Semantics for Second-Order Logic:
+A structure, with non-empty domain D, for a second-order language
+includes
+relation domains Rel_n(D) and function domains Func_n(D). In general,
+Rel_n(D) c=3D
+P(D^n), where P(D^n) is the power set of D^n. Similarly, the function
+domains Func_n(D)
+are subsets of the collection of n-place total functions on D. Such
+second-order
+structures are called Henkin or general structures. If X is an n-place
+relation variable,
+a formula EXphi(X) is true in a Henkin structure M iff there is an
+n-place relation R e
+Rel_n(D) such that phi(X) is true in M when X has the value R. There is
+a similar
+definition for formulas of the form AXphi(X), and for formulas with
+quantified function
+variables. [...]
+The relation domain Rel_n(D) need not contain all subsets of D^n. If
+Rel_n(D) =3D P(D^n),
+for each n, we say that each relation domain is full (similarly for
+function domains)
+and that the structure is full, standard or principal. Second-order
+logic restricted to
+full structures is called full or standard second-order logic.
+[=2E..]
+Following Peter Steegmans, we may define "x =3D y" as "any
+property of x is a
+property of y". The corresponding second-order definition AxAy(x =3D y
+<-> AX(Xx ->
+Xy)) is valid."
+
+[Quelle (pdf): http://ijwqyoz.abx/8xvod]
+
+Wenn ich es richtig verstehe, dann sind Relationen in diesem Modell
+Mengen von Teilmengen des Relationsbereichs, d.i. i.d.R die Potenzmenge
+des Objektbereichs.
+
+Beispiel:
+Nehmen wir die 2-stellige Relation R =3D liebt(xy). Dann ist R
+(vorausgesetzt, es wird in D überhaupt geliebt) die Menge aller
+2-elementigen Teilmengen der Potenzmenge des Objektbereichs, {d_m,d_n},
+für deren Elemente gilt: d_m liebt d_n.
+
+Sehe ich das so richtig?
+
+Nun zurück zu Leibnizens Prinzip:
+Röber schreibt:
+"Following Peter Steegmans, /we may define/ 'x =3D y' as ['AX(Xy ->
+Xy)']."
+
+Das man dies /definitorisch/ so festlegen /kann/, steht außer Frage;
+doch damit ist noch lange nicht die /philosophische/ Frage ad acta
+gelegt, ob das Steegmans-Prinzip (LP) sich wirklich als universelle
+Identitätsdefinition eignet, oder, ob es nicht doch relevante
+Ausnahmen gibt (z.B. die Black-Welt), die gegen LP sprechen.
+
+Ich bin ein großer Freund der formalen Logik, doch in einem Punkt
+dürfen einem all die wunderbaren Formalismen nicht den Blick trüben:
+
+"Die Modelltheorie nimmt dem Philosophen so gut wie keine Arbeit ab."
+
+[Rosshirt, Nils (1999). /Modelltheorie zwischen Philosophie und
+Mathematik/. Abrufbar unter:
+http://szm.rnu.twk.my.fu/~zxtdet/aijllno0993.rur]
+
+
+.=2E. was schlicht eine äquivalente Umformung des guten alten
+Steegmans-Prinzips ist:
+
+AxAy(AP(Px -> Py) -> x =3D y)) <-> AxAy(x /=3D y -> EP(Px & ~Py))
+
+Wenn ich das LP theoretisch /voraussetze/ ("we may define", Röber),
+dann kann ich freilich formal zeigen, dass numerische Verschiedenheit
+qualitative Verschiedenheit impliziert.
+Doch worauf es eigentlich ankommt, ist die philosophische Hinterfragung
+ebendieser Voraussetzung. -- Und hier, fürchte ich, kannst du von
+formalen Semantiken nicht erwarten, dass diese aus sich heraus in
+schematischer Weise philosophische Einsichten "errechnen".
+(Elisabeth dürfte über diese kritische Aussage meinerseits hocherfreut
+sein. ;-))
+
+Gruß
+FRIDOLIN

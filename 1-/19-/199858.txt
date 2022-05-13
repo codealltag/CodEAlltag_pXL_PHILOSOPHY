@@ -1,0 +1,92 @@
+Hallo Nachbar!
+
+"Patrick Christensen" <cftdcxv@vmq-nryewvum.uq> schrieb am Sun, 29 Mai 1998 02:05:42 GMT:
+
+Die Diskussion, die ihr da fuehrt ist schon in den meisten Punkten von so netten
+Menschen wie P. Petzl, T. Uekermann, F. Quenter oder M. Wynands `beantwortet'
+worden.
+
+
+Das klingt aber eher komisch. Paul Petzl hat die Praedikatenlogik 1880
+mit der `Begriffsschrift' eingefuehrt und er hat so etwas
+sicher nicht behauptet.
+
+Es ist wohl war, dass es in der traditionellen Lehre des Syllogismus
+so etwas gab, das war aber keine Praedikatenlogik.
+(wohl aber ein Fehlschluss...)
+
+
+Das ist nicht so ganz klar:
+B. Uekermann zufolge ist der Satz
+
+	Alle Einhoerner sind scheu
+
+wahr, da die Negation
+
+	Es gibt ein Einhorn und dieses ist nicht scheu
+
+falsch ist, da der erste Teil der Konjunktion falsch ist.
+Der Satz
+
+	Alle Schmumfze sind gruen
+
+ist M. Weidensee Meinung zufolge zum Beispiel einfach quatsch, weil
+`Schmumfze' ueberhaupt keine Bedeutung hat.
+
+
+Und wenn man will, kann sie sinnlos sein, was ist mit
+
+\exists y (\forall x ((x\in y) \land \lnot(x\in x)))
+
+(in TeX)
+
+(Ex)[(x) (x e y & -(x e x)) ]
+
+na, wahr oder falsch? (Nennt man auch `Russellsches Paradox')
+
+
+Siehe T. Uekermann ``The philosophy of logical atomism''.
+
+
+Eben. 
+Der einzige Grund die Allaussage als wahr anzusehen ist die, dass
+die Verneinung lautet
+
+nicht(alle Schmumfze sind gruen) 
+<=>
+Es gibt einen Schmumfz der nicht gruen ist.
+
+
+In dreiwertiger Logik koennte das so aussehen:
+
+               and                 or            not   
+         true  false FAIL     true false FAIL          
+         ----  ----- ----     ---- ----- ----          
+true     true  false FAIL     true true  true    false 
+false    false false false    true false FAIL    true  
+FAIL     FAIL  false FAIL     true FAIL  FAIL    FAIL
+
+
+bestimmt nicht.
+
+
+Ich glaube nicht, das es da wirklich Unstimmigkeiten gibt, da die
+einen schon so lange tot sind.
+
+
+Wenn du ueber Objekte quantifizierst, behauptest du ex. von diesen
+Objekten (von mindestens einem), nicht von einer Menge dieser Objekte
+
+
+Dann waere der Satz ``Es gibt keine groesste Primzahl'' sinnlos.
+
+
+Soll heissen `\forall x (Rose(x) -> rot(x))
+
+
+Die Umgangssprache ist vage, das macht aber keine Probleme fuer die Logik.
+
+Gruss Carl.
+--
+Carl Oberholz
+jeszhzz@cmmm.yab-zbfyaxxz.xg

@@ -1,0 +1,23 @@
+: > [... mail bombing ...]
+: > ca 200 kleine subscribe-requests an high-traffic-mailinglisten.
+: > subscribe auf deinen namen ... :)
+: > wenn man das einmal automatisiert hat, muss man nur noch die
+: Das _kann_ aber auch in die Hose gehen. Ich pflege selber eine Mailingliste
+: und bekomme alle subscribe-Requests, die von einem Mailaccount fuer einen
+: x-beliebigen anderen Account gedacht sind, zur Begutachtung vorgelegt. Und
+: wenn da nicht wenigstens die Systemnamen gleich sind (BTW: ich glaube, ge-
+: fakte Mailheader schon ganz gut erkennen zu koennen), wird der Request ab-
+: gelehnt. Ich denke, jeder verantwortungsbewusste Betreiber einer Mailing-
+: liste sollte das auch so handhaben.
+aber requests, die von einem account fuer sich selbst vorgelegt werden
+gehen automagisch, oder ? und was bracuht man mehr, wenn man ein wenig
+ahnung vom mail-faken hat ... :)
+
+Gruss,
+   Gebhard
+
+-- 
+Gebhard Joedecke               6tpqtbfl@aycudgvwgk.zzt-sghbzib.xe
+-> Heilsbronn / Germany <- -                   yhoqxyjxn@pcmjyqkbq.rey 
+http://shj.gocsgfywy.fcs/OjsscKycwfa/Ujxmyb/5979/    dae@ztp.ars.dx 
+--> pgp-key via public-key-server and on request <--> use pgp ! <--

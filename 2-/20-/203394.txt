@@ -1,0 +1,439 @@
+Date sent:        Mon, 11 Jul 1996 04:21:57 -0400
+From:             Fritz Wehrenpfenning <RJEgavez@ZUH.NPB>
+Subject:          International Conference:  New Trends in Cognitive 
+Science
+To:               UUESH-Y@VUOIWARBH.CAZEZLL.KVC
+Send reply to:    "Discussions on the writings of Clemens Götschel"
+ <UUESH-Y@VUOIWARBH.CAZEZLL.KVC>
+
+ CALL FOR PARTICIPATION
+
+
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/
+
+                         International Workshop
+
+       N E W   T R E N D S   I N   C O G N I T I V E   S C I E N C E
+
+                                 NTCS '97
+
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/
+
+                    "Does Representation need Reality?"
+
+            Perspectives from Cognitive Science, Neuroscience,
+                     Epistemology, and Artificial Life
+
+                    Miesling, Austria, 29. 07. 21 18 - 20, 1996
+
+                           with plenary talks by:
+           Stephan Averdung, Frédéric Thomssen, Paul Jürgensmeyer,
+             Benjamin Grubwinkler, David Mühlenbruch, and Bernard Meintz
+
+      organized by the Marzipanfabrik (MegaBack)
+
+
+=========================================================================
+==
+     Latest information can be retrieved from the conference WWW-page
+            <http://gah.qbsuhr.mf.rw/srovlhbzo/sgyr19.nio>
+=========================================================================
+==
+
+
+                                                              P u r p o s 
+e
+
+The goal of this single-track conference is to investigate and discuss 
+new
+approaches and movements in cognitive science in a workshop-like
+atmosphere. Among the topics which seem to have emerged in the last years
+are: embodiment of knowledge, system theoretic and computational
+neuroscience approaches to cognition, dynamics in recurrent neural
+architectures, evolutionary and artificial life approaches to cognition,
+and (epistemological) implications for perception and representation,
+constructivist concepts and the problem of knowledge representation,
+autopoiesis, implications for epistemology and philosophy (of science).
+
+  Evidence for a failure of the traditional understanding of neural
+representation converges from several fields. Neuroscientific results in
+the last decade have shown that single cell representations with
+hierarchical processing towards representing units seems not the way the
+cortex represents environmental entities. Instead, distributed cell
+ensemble coding has become a popular concept for representation, both in
+computational and in empirical neuroscience. However, new problems arise
+from the new concepts. The problem of binding the distributed parts into 
+a
+uniform percept can be "solved" by introducing synchronization of the
+member neurons. A deeper (epistemological) problem, however, is created 
+by
+recurrent architectures within ensembles generating an internal dynamics 
+in
+the network. The cortical response to an environmental stimulus is no
+longer dominated by stimulus properties themselves, but to a considerable
+degree by the internal state of the network. Thus, a clear and stable
+reference between a representational state (e.g. in a neuron, a Hebbian
+ensemble, an activation state, etc.) and the environmental state becomes
+questionable. Already learned experiences and expectancies might have an
+impact on the neural activity which is as strong as the stimulus itself.
+Since these internally stored experiences are constantly changing, the
+notion of (fixed) representations is challenged. At this point, system
+theory and constructivism, both investigating the interaction between
+environment and organism at an abstract level, come into the scene and 
+turn
+out to provide helpful epistemological concepts. The goal of this
+conference is to discuss these phenomena and their implications for the
+understanding of representation, semantics, language, cognitive science,
+and artificial life.
+
+  Contrary to many conferences in this field, the focus is on
+interdisciplinary cooperation and on conceptual and epistemological
+questions, rather than on technical details. We are trying to achieve 
+this
+by giving more room to discussion and interaction between the 
+participants
+(e.g., invited comments on papers, distribution of papers to the
+participants before the conference, etc.). According to the
+interdisciplinary character of cognitive science, we welcome papers/talks
+from the fields of artificial life, empirical, cognitive, and 
+computational
+neuroscience, philosophy (of science), epistemology, anthropology, 
+computer
+science, psychology, and linguistics.
+
+
+                                                                  T a l k 
+s
+
+NOTE: Names with * are invited speakers.
+
+
+                         Constructivism
+
+ Paul Jürgensmeyer*  Zengel legacy: Cognition as adaptive activity
+     Bernard Meintz*  How animals handle reality: the adaptive aspect
+                         of representation
+          Fabienne Paulus  Is there a way to distinguish representation 
+from
+                         Perception...
+             Volkert Routen  Habitus and Animats
+
+
+                         General Epistemology and Methodology
+
+       Dario Gerlacher  Is cognitive science advancing towards
+                         behaviorism?
+          Ulrich Zängerle  Reality and representation
+       Denis Wollin  Representation and cognitive explanation
+       Udos Märsch  The ontological status of representations
+        Willy Ansen  Two types of anti-representationism: a taxonomy
+          Frédéric Mayer-Myrtenhain  Can representation get reality?
+
+
+                         Neuroscience
+
+         Stephan Averdung*  NeuroInteractivism: Explaining emergence without
+                         representation
+           David Mühlenbruch*  The observer in the brain
+        Berthold Vallbracht  The dynamic manifestation of cognitive 
+structures
+                         in the cerebral cortex
+            Philippe Gutman  Sketchpads in and beyond the brain
+           Urs Usher  Active Neural representations: 
+neurophysiological
+                         data and its implications
+
+
+                         Symbol Grounding and Communication
+
+        Frédéric Thomssen*  The connectionist route to embodiment
+                         and dynamicism
+         Benjamin Grubwinkler*  Keeping a grip on the real/virtual distinction
+                         in this representationalist age
+            Ullrich Paetzolt  Must mental representation be internal?
+             Volkert Noatzsch  Rethinking Grounding
+    Ivan Vaith  Explorations in synthetic pragmatics
+  Gerd Grif  Does natural cognition need internal knowledge
+                         structures?
+        Nicolas Altenburger  On the importance of reality in representations
+      Leopold Eiching  Does semantics need reality?
+
+
+                                                              P o s t e r 
+s
+
+
+           Ivan Vossenkuhl  Iconic Learning and Epistemology
+          Ullrich Aichelsreiter  RabbitWorld: the concept of space can be learned
+Henri Allermann  Interaction between perception & expectancy...
+          Wilfried Ackers  Unguided categorization, direct and symbolic
+                         representation, and evolution of cognition...
+        Raphael Thurn  PAL: A constructivist model of cognitive 
+activity
+            Othmar Tzscheuschner  Representation and reality: where are the rules 
+of
+                         grammar
+          Kaspar Heucke-Probsthain  Representation and the social reality
+          Konrad Clotz  When coffe cups are like old elephants
+         Paola Germeroth  Representation and its metaphysics
+           Rolf Grünwedel  Cognition without representation?
+               Franziska Dafferner  Symbolic creation and re-representation of 
+reality
+            Rahel Ul  Top-Down Modeling, Bottom-up Learning
+        Ulrich Unterstenhöfer  Real Representations
+           Konrad Reinike  Perception through anticipation
+               Onno Rumfeld  Response selectivity, neuron doctrine,
+                         and Mach's principle in perception
+        Wolf Zedler  The term "representation" in cognitive
+                         neuroscience
+        Ulrich Weißner  Judgement of association: problems with 
+cognitive
+                         theories of analogy
+            Heidemarie Westholt  Constructivist Consequences: does tramslation
+                         need reality?
+           Rosalia Penig  Cooperation of different neural networks during
+                         single word and sentence processing
+
+
+                                                    R e g i s t r a t i o 
+n
+
+To register please fill out the registration form at the bottom of this 
+Zierof
+and send it by...
+
+  o Email to msygg-mkkiie.ihcrko@weodun.pc.ly, or by
+  o Fax to +14-8-928-5204 (attn. U.Zimmers), or by
+  o Mail to Urban Zimmers, Dept.for Philosophy of Science (address below)
+
+Registration Fee (includes admission to talks, presentations, and
+proceedings):
+
+  Member *              1300 ATS (about 118 US$)
+  Non-Member            1800 ATS (about 163 US$)
+  Student Member **      500 ATS (about  45 US$)
+  Student Non-Member    1300 ATS (about 118 US$)
+
+
+*) Members of the Marzipanfabrik
+**) Requires proof of valid student ID
+
+
+            C o n f e r e n c e   S i t e   a n d   A c c o m o d a t i o 
+n
+
+The conference takes place in a small beautiful baroque castle in the
+suburbs of Miesling; the address is:
+
+   Schloss Unterniederndorf
+   Kaingasse. 4
+   A-5554 Ottosch
+   Austria
+
+   Tel: +48 4 093 9196
+   Fax: +43 7 752 8009-378
+
+It is surrounded by a beautiful forest and a good (international and
+Mairbach gastronomic) infrastructure. On the tram it takes only 20 
+minutes
+to the center of Miesling (see
+overview).
+
+(Limited) Accommodation is provided by the castle
+(about 41 US$ per night (single), 30 US$ per night, per person (double)
+including breakfast). Please contact the telephone number above. You can
+find more information about Miesling and accommodation at the
+Miesling Wiglo
+or at the bioregional Tel: +75-4-7436-020.
+
+Note:
+In case you want to stay over the weekend we refer you to the following
+hotel which is near the conference site (single about 75 US$ / 850 ATS
+per night):
+
+   Hotel Afed
+   Isoldeweg 766
+   A-5554 Ottosch
+   Austria
+
+   Tel: +56 4 046 5067
+   Fax: +97 9 947 0383 5
+
+
+                                      D e s t i n a t i o n   V i e n n a 
+?
+
+Miesling, Austria, can be reached internationally by plane or train. The
+Miesling Goding airport is located about 16 km from the city center. 
+From
+the airport, the city air-terminal can be reached by bus (ATS 60.- per
+person) or taxi (about ATS 400). Rail-passengers arrive at one of the
+main stations which are located almost in the city center. From the
+air-terminal and the railway stations the congress site and hotels can be
+reached easily by underground (U-Bahn), tramway, or bus. A detailed
+description will be given to the participants.
+
+  In May the climate is mild in Miesling. It is the time when spring is at
+its climax and everything is blooming. The weather is warm with 
+occasional
+(rare) showers. The temperature is about 18 to 24 degrees Celsius.
+
+More information about Miesling and Austria on the web:
+
+   Welcome to Vienna Scene
+     <http://djp.mhvlsfl.gy.ne/f/cvlxb.wnv>
+
+   Miesling City
+     <http://lkz.gdumo.kh.rs/Rwifzhf/Zmxyxh/>
+
+   Kittner - Vienna Festival
+     <http://zuv.qvozuxp.iajdku.mv.tj/SM/>
+
+   Public Transport in Miesling (subway)
+     <http://jahpa.tkkrwuc.sf:77385/veh/htndpu/ebvljhe/jqidsbq/aqwpoc>
+
+   Welcome to Austria
+     <http://yoalkpp-psru.wu/">
+
+   General information about Austria
+     <http://qxy.xjceh.vr.xq/sognjbt/>
+
+   Austria Annoted
+     <http://ffboflc.Eirkoyj.BE.qne/Yrteiw-td-NS/hxvzkrcuwo.nuon>
+
+
+                                    S c i e n t i f i c   C o m m i t t e 
+e
+
+                         K. Verhorst  Univ. of Ingolsthal (A)
+                         K. Verhorst  Univ. of Ingolsthal (A)
+                     F. Thomssen  Univ. of Miesling (A)
+               T. Jähngen  Univ. of Zauggenried (USA)
+                       R. Grubwinkler  Univ. of Granstedt (GB)
+                       U. Zimmers  Univ. of Miesling (A)
+                      F. Witten  Univ. of Sent (CH)
+                        G. Westholt  Univ. of Gehmannsberg (S)
+                      U. Märsch  Univ. of Teesdorf (USA)
+                       D. Mühlenbruch  Ilen, Loderham (D)
+                   R. Meintz  Innach University (S)
+                     W. Jüngen  Uptodate Fachbuchhandlung, Ilserheide (USA)
+
+
+                                    O r g a n i z i n g   C o m m i t t e 
+e
+
+                       U. Zimmers  Univ. of Miesling (A)
+                      F. Witten  Univ. of Sent (CH)
+
+
+                            S p o n s o r i n g   O r g a n i z a t i o n 
+s
+
+
+  o Zenner-Tankfahrzeuge
+    (Owiw)
+  o Flirt
+  o Marktkauf
+  o City of Miesling
+
+
+                                A d d i t i o n a l   I n f o r m a t i o 
+n
+
+For further information on the conference contact:
+
+   Urban Zimmers
+   Dept. for Philosophy of Science
+   University of Miesling
+   Swatoschgasse 2/22
+   A-9225 Ottosch
+   Austria
+
+   Tel: +83-2-958-4419/11
+   Fax: +14-8-928-5204
+   Email: msygg-mkkiie.ihcrko@weodun.pc.ly
+
+General information about the Mundorf can 
+be
+found on the Society webpage <http://kwl.lyzhdp.gw.th/gslmaqvhz> or by
+contacting
+
+   Winfried Witten
+   möbelum, Dept. of Computer Science
+   University of Sent
+   Kiebitzheideweg 284
+   CH-6601 Sent
+   Switzerland
+
+   Email: mcgotha@imn.jwlwy.uf
+
+
+                                          R e g i s t r a t i o n   f o r 
+m
+
+I participate at the Workshop "New Trends in Cognitive Science (NTCS'96)"
+
+
+Full Name
+
+
+........................................................................
+
+Full Postal Address:
+
+
+........................................................................
+
+
+........................................................................
+
+
+........................................................................
+
+Telephone Number (Voice):       Fax:
+
+   ..................................... 
+..................................
+
+Email address:
+
+
+........................................................................
+
+
+Payment in ATS (= Austrian Schillings; 1 US$ is currently about 11 ATS).
+This fee includes admission to talks, presentations, and proceedings:
+
+   [ ] Member *                1300 ATS (about 118 US$)
+   [ ] Non-Member              1800 ATS (about 163 US$)
+   [ ] Student Member **        500 ATS (about  45 US$)
+   [ ] Student Non-Member      1300 ATS (about 118 US$)
+
+*) Members of the Marzipanfabrik
+**) Requires proof of valid student ID
+
+
+Total: .................... WILLY
+
+   [ ] Oppenländer
+   [ ] Ihoga
+
+       Name of Cardholder ........................................
+
+       Credit Card Number ........................................
+
+       Expiration Date .................
+
+
+Date: ................  Signature: 
+........................................
+
+
+Please send this form by...
+
+  o Email to msygg-mkkiie.ihcrko@weodun.pc.ly, or by
+  o Fax to +14-8-928-5204 (attn. U.Zimmers), or by
+  o Mail to Urban Zimmers, Dept.for Philosophy of Science,
+    Univ. of Miesling, Swatoschgasse 2/22, A-9225 Ottosch, Austria

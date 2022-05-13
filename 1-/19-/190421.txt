@@ -1,0 +1,30 @@
+Es war von Kreativität die Rede. Dabei geht es nicht unbedingt um das
+Lösen von Problemen, es fallen einem ja ggf. erst zu lösende Probleme
+ein! Und das ist in meinen Augen durchaus sinnvoll durch einen
+Zufallsprozeß darstellbar.
+
+
+In der Mathematik gibt es die sog. "Monte-Carlo-Methode", eine
+gut dokumentierte Methode, mit Zufallszahlen z. B. Integrale zu
+berechnen, die sich einer analytischen Behandlung entziehen. Diese
+Methode ist allerdings numerisch ziemlich unbefriedigend, da sehr
+langsam konvergierend.
+
+Andererseits können Zufallszahlen auch manchmal dazu dienen, gerade
+falsche Lösungen zu vermeiden! In meiner Doktorarbeit hatte ich es
+mit selbst erarbeiteten Meßkurven zu tun, die ich dann per nichtlinearer
+Optimierung an eine Theoriefunktion angepaßt und dadurch die physika-
+lischen Parameter dieser Theorie bestimmt habe. Bei solcher nichtlinearer
+Optimierung gibt es das Standardproblem, daß man mit üblichen mathe-
+matischen Verfahren leicht in ein sog. Nebenminimum (des Fehlers
+zwischen Theorie und Messung) geraten kann, aus dem das Verfahren
+alleine nicht mehr herauskommt, um das echte, viel "bessere" (im
+Sinne von kleinerem Fehler) zu erreichen. Das vermeidet man praktisch
+z. B. so, daß man den Verlauf der Optimierung überwacht und bei einem
+Stillstand sich die aktuellen Werte zwar merkt, dann aber von dieser
+Stelle aus per Zufallszahlensatz eine gewisse Strecke entfernt neu
+ansetzt und testet, ob das zu besseren Ergebnissen führt.
+
+-- 
+Best Regards, Dr. Daniel Moenninghoff       // E-Mail:
+Private Site in Schwetzendorf, Germany \X/  lbarnl @ effvs.sgklhvl.qqh

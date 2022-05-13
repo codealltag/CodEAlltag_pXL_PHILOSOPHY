@@ -1,0 +1,58 @@
+Olivier Andrehs in news:1826054603.254629.313114@i63g2819wng.qbkfceiqplbg.ywe :
+
+
+Instantan? Die Kugeln werden werden kontinuierlich geladen. Siehe:
+news:o86rmz$1t1$2@ljwxo.gg-pebb.yde (Dieses Posting und nicht das
+Startposting ist es auch, das die Links zur früheren Diskussion
+enthält.)
+
+
+H? Elektronen fliessen im Verbindungsleiter z.B. während 6000 ns
+mit einer Geschwindigkeit von 0.1 mm/s von links nach rechts. Das
+ergibt eine Wegstrecke von nur 0.6 Nanometer (aber trotzdem eine
+relevante Ladungsmenge in beiden Kugeln)! Diese Situation verletzt
+die Kontinuitätsgleichung nicht mehr und nicht weniger als das Aufladen
+eines normalen Kondensators.
+
+
+Ausbreitung mit c ist bei elektro-magnetischen Transversalwellen
+(Photonen) ganz klar eine Folge der Maxwellgleichungen (aber sicher
+nicht einer Maxwellgleichung). Hingegen ist Retardierung mit derselben
+Geschwindigkeit c bei der Ausbreitung von Änderungen magnetischer
+oder elektrischer Felder im Vakuum nur eine Zusatzhypothese, die
+zudem das Fundament der Herleitung von c bei e.m. Transversalwellen
+untergräbt.
+
+
+"Jean-Pierre" in news:nptbte0ce8oa8sut@kwc :
+
+
+Völlig richtig.
+
+
+Eines ist sicher: Wenn sich das Feld einer Elementarladung instantan
+mit der Ladung mitbewegt, dann ist mit beschleunigten Ladungen
+instantane Informationsübertragung zumindest im Prinzip möglich.
+
+Praktisch von dem Moment an, wo eine bisher ruhende Ladung konstant
+beschleunigt wird, ergibt sich eine Feldänderung z.B. für einen
+entfernten Punkt, zu dem die Ladung hinbeschleunigt. In diesem Falle
+ist die Divergenz ausserhalb der Ladung auch immer Null, denn es zählt
+für das elektrische Feld nur der Abstand von der Ladung zum gegebenen
+Zeitpunkt.
+
+
+Wenn wir uns auf die Linie beschränken, in der die Ladung gleichmässig
+beschleunigt wird, dürfen bzw. müssen wir senkrecht dazu sich
+ausbreitende Wirkungen (egal welcher Art) ignorieren.
+
+
+Wenn wir Retardierung mit c annehmen, wird das Coulomb-Feld einer
+beschleunigten Ladung (so wie Schllwellen einer beschleunigten
+Schallquelle) in Bewegungsrichtung mehr und mehr komprimiert und in
+die entgegengesetzte Richtung gestreckt. Das führt unweigerlich zu
+Divergenz ungleich null bzw. zu Quellen und Senken ausserhalb der
+beschleunigten Ladung.
+
+Gruss,
+Max

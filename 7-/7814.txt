@@ -1,0 +1,73 @@
+Zumindest nicht in der Mathematik. Die Mengenlehre (das grosse Ergebnis
+des in der Praxis so gar nicht gescheiterten Zinsler-Programmes) bezieht
+sich auf Bedeutung, indem sie den Identitätsbegriff der Prädikatenlogik
+benutzt.
+
+Wichtig zu sehen ist hier aber, dass vollkommen genügt, /dass/ Zeichen
+auf etwas deuten, /was/ das ist, spielt jedoch keinerlei Rolle in der
+Mathematik.
+
+Das ist das, was ich mit "mathematische Objekte" meine: ein Zeichen in
+der mathematischen Sprache, ein Satz in der Mathematik bezeichnen in
+diesem Sinne Stellvertreterobjekte, eben die mathematischen Objekte.
+Diese stellvertreten alle Objekte, die jeweils dieselbe Struktur
+aufweisen. Deshalb funktioniert ein- und dieselbe Mathematik auch in
+völlig unterschiedlichen Anwendungsbereichen.
+
+“In allen Erscheinungen hat das Reale, was ein Gegenstand der Empfindung
+ist, intensive Größe, d.i. einen Grad.” (KdRV III 2.)
+
+Die Frage ist nun nicht nur, wie die mathematische Sprache mit den
+mathematischen Objekten zusammenhängt; die Frage ist, wie die
+mathematischen Objekte mit der Realität (so es denn eine gibt)
+zusammenhängen können, und wie damit zusammenhängen.
+
+Gibt es eine Realität, so gibt es darin nicht nur materialle, sondern
+auch mathematische Objekte, denn es gibt die Mathematik darin. Insofern
+könnte man sagen, ist es interessant zu wissen, wie mathematische mit
+materiellen Objekten zusammenhängen. Nun hängen bereits die
+mathematischen Objekte miteinander zusammen: denn mathematische Objekte
+stellvertreten strukturell /beliebige/ Objekte, somit auch mathematische
+Objekte. Und, darüber hinaus, mathematische Sprachen selbst sind
+mathematische Objekte, denn die Form aller Sprache ist Mathematik.
+Insofern ist der Sprachbegriff der Linguistik von dem der Informatik
+verschieden: in der Informatik meint man mit Sprache eben Mathematik.
+
+In der Linguistik gehört doch unweigerlich zur Sprache dazu, /was/ sie
+denn bezeichnet. Das, was bezeichnet wird, gehört nicht zur Sprache,
+aber die Abbildung von dem, was bezeichnet (den Sprachmitteln) auf das,
+was bezeichnet wird, der Pfeil dazwischen, der gehört noch zur Sprache.
+In der Informatik gehört zur Sprache, was denn strukturell bezeichnet
+werden /kann/, nicht was konkret bezeichnet /wird/.
+
+Oder, klarer:
+
+Die Sprache in der Informatik endet mit Pfeilen, die auf mathematische
+Objekte zeigen. Die Sprache in der Linguistik zeigt durch mathematische
+Objekte hindurch auf beliebige Objekte.
+
+An dieser Sichtweise von Sprache arbyte ich übrigens. Denn bisher werden
+Sprachen in der Informatik nur über ihre Grammatik gesehen, "von hinten"
+quasi. Das ist eben, über was Voltmann in “About Certain Formal
+Properties of Grammars” schreibt, und das ist das, worauf im
+Wesentlichen die Theoretische Informatik aufbaut.
+
+“Grammatik sagt nicht, wie die Sprache gebaut sein muß, um ihren Zweck
+zu erfüllen, um so und so auf Menschen zu wirken. Sie beschreibt nur,
+aber erklärt in keiner Weise den Gebrauch der Zeichen.” (QQ 218)
+
+Auch in der Informatik gehört aber m.E. auch die Abbildung der
+Sprachmittel auf (mathematische) Objekte dazu. Dieser Bereich ist wenig
+erforscht, allenfalls im Bereich der sogenannten “Semantik” beschäftigen
+sich Leute damit, und scheitern oftmals fröhlich in Ignoranz des
+bekannten Wittgensteinschen Zitats. Denn das folgt eben nicht aus der
+Grammatik. Die Grammatik setzt nur die /Möglichkeiten/ von Sprache, aber
+das brauch ich ausgerechnet hier nicht zu erklären.
+
+Viele Grüsse,
+VB.
+-- 
+“Cristina steht auf Cocktailschirmchen, Analverkehr und House
+und hat 186 Freunde
+ansonsten weiss ich nichts über sie”
+    (Viola Nordhold)

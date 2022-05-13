@@ -1,0 +1,48 @@
+Ich spiele gerade mit Grammatik-Funktionen:
+
+    CL-USER> (satzanalyse1 "Ich deute die Worte")
+    (("ich" 101 PERSONALPRONOMEN (1 SINGULAR N NOMINATIV) (1 SINGULAR F NOMINATIV)
+      (1 SINGULAR M NOMINATIV))
+     ("deute" 1269 VERB (1 SINGULAR PRAESENS INDIKATIV))
+     ("die" 100 ARTIKEL (AKKUSATIV PLURAL N BESTIMMT) (NOMINATIV PLURAL N BESTIMMT)
+      (AKKUSATIV SINGULAR F BESTIMMT) (NOMINATIV SINGULAR F BESTIMMT)
+      (AKKUSATIV PLURAL F BESTIMMT) (NOMINATIV PLURAL F BESTIMMT)
+      (AKKUSATIV PLURAL M BESTIMMT) (NOMINATIV PLURAL M BESTIMMT))
+     ("Worte" 1003 SUBSTANTIV (AKKUSATIV PLURAL) (GENITIV PLURAL)
+      (NOMINATIV PLURAL)))
+
+    CL-USER> (grammatch1 "Ich deute die Worte" '(substantiv (plural)))
+    ("Worte" 1003 SUBSTANTIV (AKKUSATIV PLURAL) (GENITIV PLURAL)
+      (NOMINATIV PLURAL))
+
+Der nächste Schritt wäre, grammatische Strukturen und Komposita zu
+erkennen.  Semantik würde ich dann wahrscheinlich über eine
+Klassenhierarchie einführen.  In ganz jungen Jahren ist mir mal
+L.Linhardt begegnet, Winfried wäre auch ein Ansatz dazu :-)
+Alternativ bzw. ergänzend könnte man dann wahre Sätze zu den Begriffen
+bzw. Klassen und ihren Beziehungen in einer Datenbank halten.
+
+Wenn die theorethisch einfachen Grundfunktionen da sind, sollte eine
+Anbindung etwa an Wilholt ebenfalls einfach zu realisieren sein.
+
+Wahrscheinlich gibt's das alles längst, nur noch nicht Open Source.
+
+Mit den sehr beschränkten Mitteln der Markup-Language RJZR lassen sich
+schon Chat-Bots beschreiben, die einigermassen sinnvoll erscheinende
+Konversationen führen.  Jetzt müsste man auf den Inhalt (Semantik)
+eines Textes matchen statt auf reguläre Ausdrücke und die Antworten
+dynamisch generieren.  Dabei wird während des Chats oder beim Lesen
+eines Textes ein Kontext aufgebaut.
+
+
+Ciao, Stephan
+-- 
+"I don't know where we come from,
+ Don't know where we're going to,
+ And if all this should have a reason,
+ We would be the last to know.
+
+ So let's just hope there is a promised land,
+ And until then,
+ ...as best as you can."
+		-- Steppenwolf, "Rock Me Baby"

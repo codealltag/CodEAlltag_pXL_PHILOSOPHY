@@ -1,0 +1,77 @@
+Du kannst natuerlich jede Variable in einer Rechnung als "Dimension"
+bezeichnen. Im quantenmechanischen Zustand waeren das dann
+unendlich viele. Wenn Du im Vektor statt Zuweisungen auf Raum-
+sektoren die Fouriertransformierte davon ablegst, kann Du natuerlich
+auch auf die hoeheren Frequenzen verzichten und zum Beispiel Dich
+mit 7938 Dimensionen begnuegen.
+
+Ich kann Dir voellig problemlos vorrechnen, wie man mit wenig Aufwand ein
+klassisches Feld mit einer Wellendifferentialgleichung so aufblasen kann,
+dass z.B. 10 Variable einer ansonsten chaotischen Differentialgleichung
+stehenbleiben, mit jeweils eigenen Differentialgleichungen zwischen einigen
+dieser Variablen, die man, wenn man nur letztere DGL's kennt, problemlos
+als Grundgleichungen akzeptieren koennte. Je nach Ansatz des Systems und
+der Loesung kommt dabei sogar z.B. die Schroedingergleichung bei heraus.
+Man kann nun beliebig auf diesen Gleichungen rumrechnen, Teilchen bilden
+und erhaelt so eine eigene Welt. Je nachdem was oben hereinsteckt, kommt
+natuerlich unten eine andere Welt heraus.
+
+NUR: Mit solchen "Grundgleichungen" auf Pseudodimensionen ist das System
+und der Zusammenhang dahinter eben nicht verstanden. Meine Kritik geht dahin,
+dass diese ueberzaehligen Dimensionen irgendwann durch noch grundlegendere
+Gleichungen (waere in diesem Fall die urspruengliche Wellen-DGL) wieder ver-
+schwinden muessen, und davon ist z.B. eine Superstringtheorie weit entfernt.
+
+Diese, welche fuer einzelne Massenpunkte oder messbare Kraftfelder
+als echte Freiheitsgrade verfuegbar sind, zudem mit einer eigenen Erhaltungs-
+groesse ausgestattet sind und in 999 von 1000 Experimenten direkt als
+solche erkennbar werden ;-)
+
+(Anmerkung: Drehimpuls und damit auch Spin sind keine echten Dimensionen,
+insbesondere den Drehimpulserhalt kann man problemlos selbst mit klassischer
+Physik durch Anwendung der Newtonschen Axiome bzw. fortgeschrittenerer
+Prinzipien wie Lagrange oder Hamilton auf ein System von Massenpunkten
+ableiten. Anmerkung 2.: Jetzt warte ich nur auf den Hinweis, ein Elektron sei
+doch ein Massenpunkt ;-)
+
+Nur ist eben die Quantenmechanik durch Experimente begruendet worden,
+um diese zu erklaeren, und nicht als spinnerte Theorie aus dem Aermel
+geschuettelt worden, fuer Dinge, fuer deren Existenz es auch nicht im
+geringsten einen Anhaltspunkt gibt, und die allen Gesetzen der Logik
+hohnsprechen. Denn eben diese Logik wird benoetigt, um die Theorie
+zu begruenden. (Du kennst sicher auch den "Beweis" fuer 1=2 mit dem
+(n^2-n)=n*(n-1) und ein paar "Umrechnungen" ;-)
+
+Welche bitte ? Die Zeitdilatation ist eine Skalierung, aber kein Sprung
+wie z.B. ein Wormhole. Es ist problemlos vorstellbar, dass diese durch einen
+Einfluss der hohen Geschwindigkeit auf grundlegende Vorgaenge in der
+Materie zustande kommt, die alle solchen Vorgaenge langsamer werden
+lassen. Das ist voellig identisch zur Zeitdilatation, es handelt sich nur um
+eine andere Betrachtungsweise. Und um es ganz klar zu sagen: Es gibt kein,
+aber auch wirklich kein einziges Experiment, welches ausser der Zeit-
+dilatation irgendwelche Spruenge oder sonstigen Veraenderungen im
+Ablauf der Zeit beschreibt. Es waere auch unlogisch, denn die Zeit ist
+eben keine Dimension, sondern ein gedachtes Mass zur Beschreibung der
+Wirkung vieler (infinitesimal kleiner) Zustandaenderungen.
+
+Es wundert mich schon sehr, dass ernsthafte Wissenschaftler derart logisch-
+unlogische Theorien massiv vertreten. Ich habe aber gelernt, nicht alles,
+was publiziert wird ("publish or perish"), auch fuer bare Muenze zu nehmen,
+und gerade in der modernen Physik ist der Glaube an Namen heute vielfach
+groesser wie die Akzeptanz von Fakten. Papier ist geduldig. In unserer
+Branche (Elektronik) muessen die Entwicklungen hingegen funktionieren,
+sonst kommt das Produkt wieder und nicht der Kunde ;-) Obwohl: Auch da
+gibt es viel geduldiges Papier. Wir hatten z.B. fuer ein bestimmtes Projekt
+die V.xx Modem Normen auf einem DSP zu implementieren, und ich weiss
+inzwischen, dass von den deutschsprachigen Buchautoren, deren Werke
+wir bemueht hatten, keiner, aber auch wirklich kein einziger, jemals das
+ausprobiert hat, was sie beschrieben haben. Denn dann haetten die Herren
+gemerkt, was fuer einen Bloedsinn sie in Buchform gebracht haben.
+Randanmerkung: Es waren alles promovierte und habilitierte Autoren ;-)
+
+Gruss Kai
+
+------------------------------------------------------
+Kai Seekamp + Jepolding, Germany + ncvqabzd@tthhrud.in
+http://yhg.vhtlefp.gi + Phone: +29-3262-4704-7 Fax:-83
+------------------------------------------------------

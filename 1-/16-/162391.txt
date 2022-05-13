@@ -1,0 +1,41 @@
+Hallo Willy,
+
+
+beweisen,
+
+bräuchte.
+
+'A* ~STO führt.
+
+an,
+
+
+Tatsache,
+ein
+
+Ich sitze hier auf nem fremden Rechner (warum, siehe eMail an Dich).
+Kann hier nicht lange bleiben. Morgen wird der ZID meinen Zugang wieder
+herstellen (I hope so). Dann kann ich auch klar darauf reagieren.
+Derweilen stelle ich Dir zwei Fragen:
+
+(a)Sind diese Prädikatenlogische Mittel in A enthalten?
+Wenn ja, dann ist diese Berechnung ebenfalls aus der
+Familie C1(n)....Cp(n) und sie fällt selbst mit A in eine
+Schleife. An welchen Punkt von A (im Konstruktionsschritt)
+setzt Du diese Prädikatenlogische) Berechnung Cp(n) ?
+
+(b)Kann A ohne STOP (wie Du schreibst) uns z.b. durch
+ein externes Signal mitteilen dass A* ~STOP, obwohl *in
+diesen Beispiel*  A = A* ist? Wie soll das möglich sein?
+A & A* sind so konstruiert, dass sogar das Anhalten, oder
+ein Signal, dass A* ~STOP, paradox wird, da A* = A.
+A gibt es in diesem Beispiel nicht mehr, (doch, aber als
+"strange loop) Nur noch A*. Ab Zeitpunkt:
+Ak(k) STOP ----> ~STOPCk(k) ist meines
+erachtens jedes A *verloren*; im wahrsten Sinn
+des Wortes.
+
+Morgen genauere Gedanken, nur das erste, was mir in den Sinn kam.
+
+Herzlichst,
+Robert Intorp

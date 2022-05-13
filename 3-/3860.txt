@@ -1,0 +1,69 @@
+ok, kleine Starthilfe:
+
+Nehme der Einfachheit halber einen zyklischen FOR-NEXT-LOOP mit einem 
+Wertebereich zwischen z.B. 3 und 142, und sehe ihn an als einen normalen 
+Lebenszyklus, z.B. einen Stoffwechselzyklus.
+
+Dann programmierst du eine Umwelt, die dir den Wertebereich des 
+Stoffwechsels per Zufall verändert, also statt der 142 irgendeinen 
+anderen Wert einsetzt, also z.B. 112, 84 oder 13.
+
+Selbstverständlich muss der dazu nötige Zufallsgenerator unabhängig sein 
+vom Systemtakt des Stoffwechsels, damit irgendwann auch sicher obere und 
+untere Werte den selben Betrag haben können, der Stoffwechsel also 
+verhungert. ;-)
+
+(Bedenke auch hieran, wie wichtig dabei die QM ist, da nur sie eine 
+Unabhängigkeit der Systemtakte ermöglicht, !Gérald!)
+
+Nun kannst du ein weiteres Lebewesen dazu programmieren, indem du einen 
+weiteren FOR-NEXT-LOOP, aber mit anderem Takt, hinzunimmst.
+
+Den setzt du in ein logisches Verhältnis zum ersten LOOP, indem du 
+irgendeinen Beziehungsalgorythmus verwendest und wirst dann feststellen 
+können, dass der erste LOOP nicht mehr zufällig stirbt oder weiterlebt, 
+sondern abhängig ist von Systemtakt des zweiten und besonders vom 
+Beziehungsalgorythmus.
+
+Je nach math. logischem Algorythmus lebt der erste Stoffwechsel mal 
+länger mal kürzer, in Abhängigkeit vom zweiten, je nach 
+Bezuiehungslogik, genau wie im wahren Leben.
+
+Somit hast du kollektive Funktionen und Verhalten mit Hilfe von Software 
+generiert.
+
+Bewusstsein kann man man ganz einfach hinzu programmieren. Dazu musst du 
+nur immer die sich veränderten LOOP-Grenzenwerte ABSPEICHERN.
+
+Diese stellen dann die zu kommunizierenden Bewusstseinsinhalte dar.
+
+Um diese dann kommunizieren zu können, musst du nur noch Outputs 
+herstellen, z.B. sprachlicher oder grafischer Art, sodass auch die 
+Inhalte als Output nach außen gelangen können.
+
+Du kannst auch nur Softwarerückwirkungen verwenden, die dann den ersten 
+LOOP verändern, die dann natürklich auch immer abgespeichert werden 
+müssen, um daraus Optima zu entwicklen.
+
+Um Empfänger der Kommunikation der Gedächtnisinhalte zu bekommen, musst 
+du die FOR-NEXT-LOOPS so erweitern, dass diese auf die kommunizierten 
+LOOP-Grenzen reagieren, indem sie z.B. optimierte Grenzwerte erreichen.
+
+Mit dieser Grundsystematik kannst du ganze Leben innerhalb komplexer 
+Welten porgrammieren.
+
+Die zur Selbstmodfikation notwendigen Grundfunktionen sind real in 
+diesem Universum schon angelegt. Du musst diese also nur nutzen, so wie 
+die Natur das sowieso macht.
+
+Eine Bewusstwerdung besteht immer aus einem Grundwert, Sollwert, an dem 
+sich der Rest der Abläufe orientieren kann, was neuronal oder 
+elektronisch leicht nachbaubar ist.
+
+Das funktioniert so bei Quanten, bei Spins, bei Molekülen, bei Sofanutzern.
+
+
+Mehr Tips gebe ich nicht, den Rest solltest du schon selber erdenken 
+können, da du sowieso schon mind. 30 Jahre zurückliegst. ;-)
+
+Gruß   Niels.H.

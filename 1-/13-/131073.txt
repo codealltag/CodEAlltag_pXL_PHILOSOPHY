@@ -1,0 +1,27 @@
+nmvkrqjupnjEFJFKES@rnndtie.kv (Tnxo Uiututp) writes:
+[...]
+
+Die Mengenlehre ist metasprachlich für die Behandlung der Syntax wie
+der Semantik von formalen wie natürlichen Sprachen unverzichtbar.
+
+
+Welche Identitätsbedingungen haben  /Intensionen/?
+
+[...]
+
+Du bist also der Ansicht, jede Mengen sei  Extension eines
+geeigneten Prädikats?
+
+
+Wohl kaum, jedenfalls wenn wir x in Var(L) oder 'x' in Var(L)
+annehmen. Zwar ist in einer (klassischen) 1-stufigen Sprache L, in der
+die Identität nicht definiert sondern nur axiomatisch charakterisiert
+werden kann, die Reflexivität der Identität, also (Ax) x=x, ein
+_logisches_ Axiom; daraus folgt aber nicht (Ex) x=x, wie am Beispiel
+der leeren Struktur zu sehen ist. (Soweit L _Konstanten_ hat, etwa
+'a', folgt aus a=a allerdings Ex x=x). (Ex) x=x zählt auch nicht zu
+den _nichtlogischen_ Axiomen von ZF, obschon die Aussage aus dem
+Nullmengenaxiom folgt.
+
+
+volker

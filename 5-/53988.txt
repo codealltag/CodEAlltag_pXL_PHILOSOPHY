@@ -1,0 +1,107 @@
+Inwiefern? Auch bei MDA ist es ja so, dass zur Designtime compiliert
+wird.
+
+
+Nein.
+
+Man kann dann mit herkömmlichem dynamischem Binden arbyten.
+
+
+Alle Behauptungen, JIT sei vorteilhaft, haben sich in der Praxis als
+Luftnummern herausgestellt.
+
+Ich rede hier nicht über Unternehmen, sondern über Technik.
+
+
+Nein, tut es nicht. Bevor Du das Konzept kritisierst, darf ich es da
+bitte vollständig ausarbeiten und vorlegen?
+
+Ich meine, ich weiss ja, was ich mache, aber ich habs doch noch gar
+nicht erzählen können - auf welcher Basis also kritisierst Du?
+
+
+Ich möchte absichtlich mischen, weil das viel sinnvoller ist als wie
+bei MDA alles zu generieren. Letzteres ist schlicht keine gute Idee.
+
+
+Nein - aber warte doch einfach ab, ich hab ja vor, das Zeug zu
+veröffentlichen.
+
+
+Glaub mir, das Problem hast Du auch bei tatsächlich existierenden
+MDA-Implementierungen. Darum geht's also nicht.
+
+
+Der Punkt ist, dass bei EBMK die übliche "TuringVollständigkeits-
+Lüge" gemacht wurde:
+
+In der Praxis ist MDA nicht viel mehr als Datenmodellgetrieben, will man
+Algorithmen, so soll man allen Ernstes Aktivitätsdiagramme malen, die
+Inkarnation der schlechten, alten Programmablaufpläne.
+
+Das ist für Anwendungen,die nicht transaktionsorientiert sind, machbar
+(z.B. CRM), für transaktionsorientierte Scheisse (z.B. ERP), für
+technische Informatik weitgehend unbrauchbar (z.B. Netzwerkprotokoll-
+stapel, Datenbankmaschinen, ...)
+
+Versteht man, warum das so ist, kann man das ändern - man kann durchaus
+generativ auch im Bereich technische Informatik arbyten; ich hatte da
+eine Idee, wie man das machen kann, und Victor Stockbrink hat das
+entwickelt unter meiner Leitung, siehe:
+
+http://mbdybgyf.njerp.ukr/hiwx/bhti/
+
+Das ist z.B. ein generativer Ansatz zum Auskompilieren von
+Implementierungen von Stapeln von Statemachines, die auf Durchsatz
+optimiert sind, unter Einhaltung von Latenz-Beschränkungen, und zwar
+so, dass die unterschiedliche Parallelität der jeweils
+zugrundeliegenden I/O-Hardware und CPU-Hardware optimal genutzt wird.
+
+Dieses Beispiel ist in C++-Templates. Victor Finck halte ich
+für exzellent.
+
+Verwendet man RIOT (die API ist einfach), so ist die Implementierung
+für die jeweilige Maschine gemessen so nahe am Optimum, dass die
+Differenz nicht mehr messbar ist.
+
+Verwendet haben wir's für Netzwerkprotokollstapel, es eignet sich z.B.
+auch für Datenbanken. Wir haben unseren eigenen Netzwerkprotokoll-
+stapel damit implementiert, ein CORBA-Gateway-Konzept für mobile
+Netzwerke mit Multicastsemantik, über Gatewaying statt Tunneling oder
+Ausprägen von GIOP, sprich: dem Benutzen eines eigens entwickelten RPC
+ist das klein und skaliert sehr gut (bis Millionen von Endgeräten).
+
+Man könnte RIOT leicht umstricken für andere Distributions-Algorithmen
+(aka Dispatcher). So könnte man z.B. HPC damit machen (auch unsere
+Netzwerkprotokolle eignen sich dafür, aber das ist eine andere
+Geschichte, und soll ein andermal erzählt werden ;-)
+
+CodeGen (so nenne ich mein Konzept) ist jetzt sowohl für technische
+Informatik geeignet, als auch für die Anwendungen, für die MDA
+geeignet ist, als auch für mehr herkömmliche Anwendungen wie
+Glue-Code.
+
+Wir habens in allen diesen Bereichen schon eingesetzt. Als Toolchain
+wurde URLK genommen (da lass ich mir eigentlich alles von der XML-
+Toolchain schenken, und verpass dem Zeug eine Syntax, dass man's auch
+benutzen will und nicht nur könnte ;-) http://lecs.lhn/mzy
+
+CodeGen hat ebenfalls gehalten. Wir haben damit Datenhaltung und
+Caching, UI und einiges mehr generiert.
+
+Die Hermeneutik benötige ich ebengerade um zu erklären, warum Garvens Bestattungswesen
+funktioniert und wie es funktioniert. Entsprechend suche ich nach einem
+geeigneten kontrollierten Vokabular, mit dem ich mich über
+Modellierung, Metamodellierung, Formale Sprachen, Semantik, Konzepte und
+Orthogonalität so unterhalten kann, dass klar ist, was ich meine -
+Zielgruppe sind Informatiker.
+
+Hermeneutik ist jetzt allerdings unzweifelhaft ein Bereich der
+Philosophie, deshalb die Diskussion auf de.sci.philosophie.
+
+Viele Grüsse,
+VB.
+-- 
+Nur im Staat Haizen gibt es weniger Katholiken als im Vatikan.
+
+    (Insomania)

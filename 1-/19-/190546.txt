@@ -1,0 +1,74 @@
+Regarding the article <62L5718S.234H4050@nm.oju.aai-lcdcgicsqh.yt>, by Ulf Zschaage <knmfsqtw@qy.lwk.pbf-fbxerlfzqa.wx>:
+
+
+Ich wuerde das gerne lesen, aber es ist extrem schecht mit Bibliotheken
+wo ich gerade bin. Gibt's dieses Buch irgendwo im Net?
+
+Inzwischen, koenntest du bitte seine grundlegende Unterschiede zwischen
+menschlichen Intelligenz und AI darlegen? Du beziest sich darauf, zeigst
+aber kein einziges Beispiel..
+
+
+Nein? Wie verhaelt sich denn ein Mensch, wenn er eine vollig neue
+(nie vorher begegnete Aufgabe) trifft? Ihm bleibt nichts anderes
+uebrig, als zufaelig zu entscheiden.
+
+Allerdingst, das oben ist nur ein Beispiel, um zu zeigen wie das Lehrnen
+und Zufaeligkeit zusammen unterzubringen. Das gezeigte Algorithm
+ist quasy-zufaellig, aber nicht selbst-modifizierend. Was bedeutet
+das? 
+
+Selbst-modifizierendes Algorithm kann jeden Schritt nicht nur
+fuer die Aufgabe Loesung einsetzen, sondern auch zum Veraendrung
+von sich selbst. Und diese Veraenderungen mussen auch quasy-zufaellig
+sein. 
+
+Z.B. stellen wir uns for ein Labirint, wo der richtige Weg liegt so, das
+man muss abwechselnd nach rechts und nach links gehen. Das 
+Algorithm A (in alten Beispiel) wird da umsonst Zeit verschwenden
+auf die Speicherung von alten Daten, weil er benutzt gerade das 
+letzte-Schritt information. Jetzt erschaffen wir selbst-modifizierende 
+Algorithm B. 
+
+Bei jeder Verzweigung hat er Freiheit, die Gewichte fuer den Wuerfel (1) von
+lezten Schritt zu nehmen, oder von vorlezten usw. Beim ersten mal
+weist er nicht, was zu entscheiden, deswegen macht er diese Entscheidung
+vollig Zufaelig (Wuerfel 2). Da faelt z.B. das vorige Schritt's Result fuer 
+Gewichte zu nehmen (nehnen wir das -1 und insgesamt gibt es -1,-2,-3).
+
+Er geht, und - uups, das war falsh. Dann setzt er beim nechsten 
+Entscheidung (Wuerfel 2) ein kleineres Gewicht auf -1 (jetzt gibt es
+schon -1,-2,-3,-4). Ihm faelt dann -2, er wirft das Wuerfel 1 mit
+Gewichten von -2, da komt links und -WOW! - es war richtig! 
+So beide Gewicht  auf -2 (W2) und auf links werden schwehrer.
+Offensichtlich das bald leuft unsere schlaue, teilweise selbst-modifizierende
+Algorithm ganz floet ueber der Labirint.
+
+Offensichtlich, das wenn wir das "teilweise" vollstaendig entfernen, und
+geben ihm die Freiheit ueber _absolut alles_ was da ueberhaupt zu Entscheiden
+gibt (auch ueber reservieren mehr Speicherplatz usw.) wird er "jede" Labirint 
+ganz flott erlehrnen. 
+
+Das einzige, was von Veraenderungen beschutzt werden
+soll, ist das Kriterium von "Gut-und-Boese", d.h. das Kriterium ob er richtig
+oder falsch gegengen ist in Labirint. 
+
+******
+Also - Summary, was brauchen wir fuer ein Algorithm, das alle Aufgaben
+loesen kann:
+
+- Selbst-modifizierung;
+- Zufaeligkeitselement in jede Entscheidung;
+- Das Lehrnen von Erfolgen/Misserfolgen von alles was er tut, inclusive
+die Selbstmodifizierungen;
+- Festes Kriterium (beschutzt von Modifizierung), die der Sinn der Aufgabe 
+bestimmt.
+*******
+
+
+Welche Handlung eines Menschen wird durch oben geschriebene Theorie
+nicht erklaert?
+
+
+Regards,
+        Micheline

@@ -1,0 +1,381 @@
+Wo verwende ich in realen IT-Projekten die ZFC-Mengenlehre? In jedem,
+würde ich mal sagen.
+
+Was ist daran so ungewöhnlich, sich Begriffe zu definieren und dann
+darauf aufzubauen, damit die eigene Theorie Boden unter den Füssen hat?
+
+Ich arbyte eben daran, dass ich Sprachentheorie, Modelltheorie und
+Systemtheorie zusammenkriege, und übrigens: Du hast mir mit der
+Diskussion hier grundsätzlich geholfen:
+
+Ich hab nämlich schonmal mindestens entdeckt, dass ich tatsächlich
+Zahlen verwenden muss in jeder Systemvariable, sonst bekomme ich im
+aufgespannten Phasenraum nämlich keine Kurven, weils sonst kein
+Vektorraum ist.
+
+Danke dafür ;-) Ich hab den Fehler mal korrigiert.
+
+
+Das ist genau Akausalität, das Verfahren ist äquivalent.
+
+
+Ja, klar. Du scheinst immer auf irgendwelche vollständigen Berechnungen
+rauszuwollen, denn falls nicht, so kann man doch eine Menge über Systeme
+aussagen, die nicht berechenbar sind, oder die zwar berechenbar sind,
+deren Berechnungsverfahren man nicht kennt, oder die berechenbar sind,
+man hat aber nicht genügend Informationen, um ein Berechnungsverfahren
+finden zu können.
+
+Man kann eine Menge ableiten, und zwar je nach System anderes. Nein, da
+gibt's in meinem Modell leider keine Allgemeinplätzchen, die ich da
+backen könnte, und alles wird gut.
+
+Mathematik funktioniert so nicht.
+
+
+Ja, und? Habe ich etwa gesagt, nimm die paar Definitionen, und das ist
+hinreichend für ein konkretes Modell? Das ist keinesfalls so. Aber als
+notwendig sehe ich klare Definitionen schon an, und ich sehe keinen
+Grund, das anders zu halten.
+
+
+Ich sagte etwas über Systeme per se aus, indem ich sie definierte, ich
+sagte mit den Definitionen gar nichts über ein einzelnes System aus, was
+darüber hinausgeht.
+
+
+"mittels" bedeutet schlicht "unter Zuhilfenahme von", und ich denke, das
+weisst Du auch.
+
+Modelle sind formale Sprachen, ich hatte das hier bereits argumentiert.
+Ich kann es gerne wiederholen, falls Du das überlesen haben solltest.
+
+
+In meiner Strukturellen Hermeneutik:
+
+<http://axda.pbf/sqaetrfnpl_ncwqouoaoqmb>
+
+Dort unter "Modelling". Ich beziehe mich in den Begriffen, bei denen es
+um Sprache geht, auf die üblichen Definitionen für formale Sprachen,
+konkret auf Ulrich Kämp, "Theoretische Informatik kurzgefasst", FVDI
+Bero, 3. Auflage.
+
+
+Das hatten wir hier doch schon mehrfach: ich beschreibe, indem ich
+Begriffe referenziere. Ich benutze dazu das semiotische Dreieck, d.h.
+ich referenziere Begriffe zu Sachverhalten über das Zuordnen von
+Symbolen.
+
+Begriffe lassen sich zu Sachverhalten aus formalen Sprachen
+spezifizieren, ich gehe genau darauf konkret in meiner Strukturellen
+Hermeneutik ein. Ich nenne einen Bedeutungsbereich, in dem das
+funktioniert, dort einen "semantischen Schnitt".
+
+Das ist der Vorteil von formalen Sprachen, Begriffe aus der
+Sprachdefinition lassen sich eineindeutig auf Symbole abbilden.
+
+Die interessante Frage ist also, inwiefern man formale Sprachen nutzt,
+um etwas anderes als formale Sprachen zu beschreiben.
+
+Für diesen Zweck stelle ich das Analogon des semantischen Schnittes: man
+finde eine formale Sicht auf das zu beschreibende Problem, und behandle
+diese wie alle anderen formalen Sprachen auch.
+
+Das ist das Referenzproblem, mit dem ich mich beschäftige. Ich bin an
+der Stelle noch nicht so firm, dass ich sagen würde, das Kapitel ist
+abgeschlossen; meine Idee war ja (auch das hab ich hier bereits zur
+Diskussion gestellt), dass man alle lexikalischen Konstrukte einer
+formalen Sprache zur Bedeutungsreferenzierung heranziehen kann, und dass
+nicht mehr Bedeutung direkt referenziert ist (der Rest muss indirekt
+referenziert sein, beispielsweise über die Kultur, aus der feste Namen
+stammen, auf solche wollte ich mich ja beschränken in formalen
+Sprachen, ebenfalls aus gutem Grunde).
+
+Was indirekt referenziert ist, lässt sich nicht formal fassen. Es kann
+bei jeder formalen Ableitung verloren gehen.
+
+Dort ist übrigens meine aktuelle Idee, ob man nicht die indirekt
+referenzierte Bedeutung, die den festen Namen zugeordnet ist, eben über
+diese Zuordnung weitergeben kann, und nur noch das, was "zwischen den
+Zeilen" steht, nicht garantiert weitergeben kann.
+
+Entsprechend suche ich nach einer Beschreibung für "zwischen den Zeilen"
+und "expressis verbis". Mir schwebt da eine Metrik vor, oder wenigstens
+irgendeine Ordnung. Denn:
+
+Soweit ich das verstehe, funktioniert das bei Bedeutung, die von diesen
+Begriffen wiederum direkt referenziert ist, ganz gut, aber nicht
+unbedingt bei Bedeutung, die aus Kobinationen von Begriffen resultiert.
+
+Da wiederum ist mein Ansatz, dass ich diese Kombinationen beibehalte,
+übrigens schon dadurch, dass ich Compiler (die Abbildung von einer
+formalen Sprache zur nächsten) als Musterimplementierungen sehe.
+
+Zum Begriff des Musters habe ich noch nicht veröffentlicht, aber intern
+bin ich da sehr weit gekommen: Tatsächlich kann man Musteranwendung,
+Instanziierung und Spezialisierung als ein und dieselbe Sache
+betrachten, ohne dass man dabei verfälschend vereinfacht, mit Ausnahme
+der Tatsache, dass es dabei zu Implementierungsunterschieden kommt.
+
+Oder anders formuliert: Musteranwendung, Instanziierung und
+Spezialisierung unterscheiden sich nicht prinzipiell, sondern
+ausschliesslich in der Implementierung. Ich rede hierbei von
+Compilerbau.
+
+Wenn sie sich aber sonst nicht wesentlich unterscheiden, dann kann man
+die Unterscheidung in der Modellierung weglassen, ohne dass man weniger
+aussagt als vorher.
+
+Das ist mein aktueller Stand in etwa. Da sind noch genügend Fragen
+offen, dass ich noch nicht von einer veröffentlichungsfähigen Theorie
+sprechen mag. Mir scheint aber, ich bin da näher dran als die
+Mustertheorie.
+
+
+Keinesfalls.
+
+
+Ich verstehe Deine Frage ehrlich gesagt nicht. Kannst Du sie bitte
+anders formuliert nochmals stellen? Hilft Dir mein Text oben weiter?
+
+
+<http://axda.pbf/sqaetrfnpl_ncwqouoaoqmb>
+
+Den Link hab ich ja schon ein paarmal gepastet ;-)
+
+
+Tatsächlich würde ich es als Implementierung eines Modells bezeichnen,
+nicht als Modell.
+
+Das liegt daran, dass ich eine Fachsprache definiere, die nicht
+vollständig mit der Umgangssprache übereinstimmen kann, ihr aber sicher
+auch in einigen Bereichen keinesfalls widerspricht.
+
+Den Begriff des Modells habe ich jedoch nicht aus der Umgangssprache,
+sondern aus der eines wissenschaftlichen Modells, also aus der
+Wissenschaftstheorie entliehen. Er entspricht, soweit ich das sehen
+kann, auch genau dem, was das Ergebnis einer Modellierung ist, so wie
+der Begriff in der Informatik üblich ist - und wie ich ihn selber in
+meinem eigenen kontrollierten Vokabular definiere.
+
+
+In der Graphentheorie ist das wohldefiniert, in allgemeinen Räumen
+beschränke ich mich auf die Argumentation eines Abstandes, eine Metrik
+in einem metrischen Raum.
+
+
+Aber das tue ich doch.
+
+
+Wenn jemand sagt, dass Katzen Schleichjäger sind, so ist das eine qualitative
+Aussage, denn sie qualifiziert Katzen als Schleichjäger.
+
+Man kann jetzt sagen, dass eine Wirtschaftsflaute eine Sache ist, die
+die Arbeitslosigkeit steigert, und somit qualifiziert man
+Wirtschaftsflauten als die Arbeitslosigkeit steigernde Sache. Das ist
+zwar eins, aber kein besonders gutes Beispiel für eine qualitative
+Aussage, denn sie lässt den Trugschluss zu, qualitativ wäre schlicht
+weniger informativ als quantitativ. Dabei ist's nur anders.
+
+
+Mag sein, dass Du andere Definitionen benötigst, die Dir mehr helfen.
+Ich finde einen abstrakten Systembegriff zu haben nützlich.
+
+
+Ich bin kein Physiker, habe also auch mit statistischer Mechanik wenig
+am Hut. Ich kann mir momentan allerdings kein Beispiel für ein System
+vorstellen, was sich nicht mit den von mir gewählten Definitionen fassen
+lässt, da wäre ich für eins dankbar.
+
+
+Ich hab doch gar keine dargestellt, sondern nur ein paar Begriffe
+definiert, damit ich welche habe ;-)
+
+
+Möglich.
+
+Mir passt ja bisher auch hauptsächlich die Methodik nicht, mit der eine
+Modelltheorie betrieben zu werden scheint, keinesfalls Zweck oder
+möglicherweise auch Inhalte.
+
+Ich möchte halt nicht "im Nebel rumlabern", wenn Du mir das verzeihst,
+sondern ich suche nach Antworten. Ich will wissen, nicht mich gut
+fühlen.
+
+Allerdings: wenn Du die Modelltheorie lieber Modellmethode nennst, und
+sie gute Ergebnisse hat: warum nicht?
+
+Gut ist, was funktioniert.
+
+Die Ergebnisse hätte ich dann aber gerne allerspätestens in messbar,
+bitte ;-)
+
+
+"Good practice" ist das, wonach wir Softwareentwickler immer suchen. Ich
+sehe überhaupt nichts abwertendes darin.
+
+Momentan muss ich der Modelltheorie, so wie Du sie vorträgst, allerdings
+mangelnde wissenschaftliche Systematik unterstellen. Wenn ich etwas
+kritisiere, dann das.
+
+
+Als eine Methode: ja. Ich kann bisher keine wissenschaftliche Theorie
+erkennen.
+
+
+Das sehe ich nun wirklich ganz anders.
+
+Was wir Automatisierer tun ist die Förderung und Verbreitung von
+Faulheit, und wir geben uns eine immense Mühe, setzen unglaublich viel
+Aufwand ein, um endlich so richtig faul sein zu dürfen ;-)
+
+Aller Erfahrung nach funktionieren die Methoden mit guten Defaults immer
+am allerbesten, wer Faulheit belohnt, wird belohnt.
+
+
+Warum das Kind nicht beim Namen nennen?
+
+
+Ja, schon passiert ;-)
+
+http://lxdw.opg/aws/lqze
+
+Keine Angst, das Ding ist schlicht geklaut von XSLT, ist also gar nicht
+so richtig eigen ;-)
+
+
+Kein Problem.
+
+Ich mach das ja nicht ohne Grund. Ich suche nach einer geeigneten
+Sprache, die nicht die Nachteile der dynamischen Scriptsprachen hat,
+aber deren Vorteile, sowie das Beschreiben von Modellen, Compilern und
+allgemeinen performancekritischen Algorithmen endlich in einer Sprache
+zulässt.
+
+Sowas gibt's halt noch nicht, also selber machen.
+
+Diese Sprache hat den Zweck, den Aufwand herkömmlicher
+Softwareentwicklung um Faktoren von 20 bis 100 zu senken, Faktoren, die
+ich für spezielle Probleme mit meiner bisherigen Toolchain bereits
+in der Praxis erreiche. Dabei soll aber das Vielsprachenproblem gelöst
+werden, das ich bisher eben habe.
+
+
+Darum geht's ja grade. Ich hätte das nur gerne auch in praktikabel, das
+ist nicht so einfach. Mein derzeitiger Entwurf scheint aber zu halten,
+was er verspricht (ich habe einen Prototypen am Laufen).
+
+
+Ja, wirklich. Den Phasenraum auch in der Regelungstechnik, wenn Du mir
+diesen Scherz verzeihst ;-) - obwohl da noch viel mehr Wahrheit drin
+ist, als ich offensichtlich glaubhaft machen konnte.
+
+
+Ich halte mich aus Metaphysik üblicherweise raus. Ja, das geht als
+Modelltheoretiker wirklich extrem schlecht ;-) Man kann Böckelmann ja
+ausschliesslich mit Metaphysik im Hinterkopf lesen.
+
+Ich versuche aber, mich auf das zu konzentrieren, über was ich Aussagen
+treffen kann, und das möglichst von dem zu separieren, wo ichs nicht
+kann.
+
+
+Befreien? Nein, das geht nicht. Aber raushalten.
+
+
+Das nicht. Empirie genügt.
+
+
+Nein, nicht unbedingt (von vielen aber so gemeint).
+
+
+Mei ;-)
+
+
+Ethiken sehe ich sinnvollerweise als Teleologien an, sie beschreiben
+keine Systeme im Sinne der Systemtheorie, sondern versuchen Wertesysteme
+zu beschreiben - ein anderer Systembegriff. Er entspricht dem Konzept in
+meiner strukturellen Hermeneutik.
+
+Allerdings, da Ethiken teleologisch sind, und derart Gesellschaftssysteme
+referenzieren (Systeme im Sinne dieser Begrifflichkeit), spielen diese
+Begriffe eine Rolle, will man die Auswirkung von Ethiken auf
+Gesellschaften messen oder simulieren.
+
+
+Systeme sind Zentren, die Zentren beinhalten oder aus Zentren bestehen?
+
+
+Ach Gottchen - da würd ich ja am liebsten sagen: gar nicht ;-) Darf ich
+dazu auf Verwaltungswissenschaften verweisen?
+
+Was die Leute benutzen, sind Modelle in dem Sinne, wie ich sie meine,
+sie modellieren in dem Sinne, wie ich den Begriff definiere.
+
+Ob die eine Systemsicht auf einen Bürgermeister haben, weiss ich nicht,
+kann man aber sicher sinnvoll machen.
+
+
+Ich benutze in der Modellierung aber ständig Automaten, die sind
+ungemein praktisch. Ich hatte ja auch Dir bereits die Nutzung einer FSM
+für eines Deiner Teilprobleme nahegelegt, und nicht ohne Grund.
+
+
+"Neues" als "Neue Struktur" zu definieren, bringt doch nichts. Das ist
+ja ein Zirkel.
+
+
+Neu ist, was sich durch Berechnung nicht aus Vorliegendem ableiten
+lässt.
+
+Da ich beobachte, dass Neues nicht nur durch Zufall, sondern auch
+intentional entsteht, weise ich die Eigenschaft der Kreativität zu, das
+ist die Fähigkeit, intentional entstehen zu lassen - zu schöpfen.
+
+
+Oben eben nochmal.
+
+
+Von mir aus gerne.
+
+
+Jein. Er enthält absichtlich nicht den Zufall. Kreativität ist nichts,
+wofür ich eine Metrik angeben möchte.
+
+
+Liest Du eigentlich hier mit? ;-) Emergent ist ein System, wenn es Neues
+erzeugt ohne Zufall. Kreativ ist ein System, wenn es Neues absichtlich
+erzeugt ohne Zufall, wenn es also Subjekteigenschaften hat.
+
+
+Ja, klar.
+
+
+Ist es.
+
+
+;-)
+
+Seid Ihr Objekte? Die drei Personen in meinem Modell davon schon. Und
+die sind insofern Zahlen, wenn Du beispielsweise über eine Aufzählung
+der Plätze die Personen aufzählst. Diese geordnete Menge enthält dann
+Zahlen, übrigens durch die Zuordnung von Ordinalzahlen.
+
+In Informatik-Sprech: ein enum.
+
+
+Weniger klar, ich fürchte, das war ein Irrtum meinerseits. Wenn ich das
+so definiere, so kann ich den Phasenraum nicht als Vektorraum
+aufspannen, folglich hab ich keine Kurven, mithin keine Trajektorien.
+
+Sorry für den Irrtum ;-)
+
+
+Ich verwende die Begriffe doch dauernd, ich spreche doch dauernd von
+Systemen und ihren Eigenschaften, was soll "Anwendbarkeit" denn sonst
+sein?
+
+Viele Grüsse,
+VB.
+-- 
+Bitte beachten Sie auch die Rückseite dieses Schreibens!

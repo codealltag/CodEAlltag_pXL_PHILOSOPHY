@@ -1,0 +1,27 @@
+Na klar, auch das ist alles ganz einfach, wenn man bisschen "mitdenkt"... 
+
+
+Und um Überabzählbarkeit zu zeigen, da denkst du einfach 
+an kein Urbild, also dass es keine umkehrbare Abbildung 
+oder Funktion von einer Menge M zu P(M) gibt; 
+ist also f:M -> P(M) irgendeine Funktion, dann hat die Teilmenge 
+A:= {x \isin M | x \notin f(x)} kein Urbild, weil 
+die Aussage f(y) = A für ein y \isin M den Widerspruch 
+y \isin f(y) <-> y \in A <-> y \notin f(y) ergibt, 
+so dass f nicht umkehrbar ist, 
+
+  und man ist fertig. 
+
+Du sagst ja "dazu" oder "zu sowas" immer q.e.d., näch! ROFL...
+
+
+Viele Größe 
+ (auch an deinen Leck-Prinzen Benedikt, ROFL) 
+
+Und immer daran denken, Konstruktivismus geht nicht wegen Mathe! 
+Q. E. D.! 
+
+Und Nemoh hat auch keine Ahnung, sowas muss man wie Benedikt mit 
+angestrengter (!) "Arbyte" an "intelligenter Software" machen... 
+
+Jaaa, wirklich, ich glaub euch beiden "Profis" das!

@@ -1,0 +1,107 @@
+On Fri, 30. 01. 22 19:00:11 +0200, "Niclas F. Ohlwärter"
+Um es ganz kurz zu sagen (es gibt einige Gruppen dabei,
+bei denen das wohl nicht mehr ganz on topic ist) und
+dann zu beenden:
+
+a) Wir messen ständig Signallaufzeiten mit High Speed
+Messtechnik, hier steht z.B. ein Struben Oszi rum, das
+problemlos 4 Milliarden Samples pro Sekunde mit einem
+Schuss pro Kanal (1 GHz) schafft. Das ist Tagesgeschäft.
+Daneben messen wir auch *Phasenverschiebungen*
+mit einem Netzwerkanalysator bis 6 GHz, das Teil ist
+saumäßig genau und stellt auf Wunsch aus vielen
+Messungen zusammengesetzt die Zeitachse da,
+das Zauberwort heißt schnelle Fouriertransformation.
+
+b) Wenn Du Deine Platte schnell genug laden willst,
+dann ist das keine Platte mehr, sondern eine schlechte
+Antenne.
+Ein Feld heißt statisch, weil es statisch ist, statisch war
+und statisch bleibt, was wiederum heißt, dass da sich
+eben nix ändert und das es eben nicht dynamisch ist,
+denn sonst würde man es dynamisch nennen ...
+
+c) Wir haben bisher bei allen Signalen, die unsere
+High Speed Messtechnik gut messen kann, egal ob
+als Puls oder als moduliertes Funksignal, eingeschränkt
+natürlich durch die Messgenauigkeit und dadurch,
+das unsere Messungen makroskopisch sind (d.h.
+wir haben reale Gegenstände mit sehr vielen Atomen)
+keine Abweichung der Signallaufzeit im freien Raum
+von der Lichtgeschwindigkeit messen können.
+Wenn Material im Spiel ist, dann wird das Signal
+üblicherweise um den Faktor sqrt(epsilon_r) langsamer.
+Schneller wurde es bisher noch nie.
+
+d) Du solltest Dir mal an einer nahegelegenen Uni
+ein paar Experimente z.B. mit einem Netzwerkanalysator
+zeigen lassen, es ist sehr beeindruckend, wenn man
+ein *offenes* Koaxkabel dranhängt und der Time
+Domain Puls dann um die Länge wandert.
+Mit einem Pulsgenerator und einem schnellen Oszi
+kann man das auch sehr schön zeigen, sowohl
+mit Reflexion als auch mit Transmission.
+TDR-Messungen (gebrochene Kabel) laufen ähnlich.
+Auch beeindruckend sind Spiele mit Radarpulsen,
+da sieht man sehr schön, dass das Feld eine Art
+Eigenleben hat, d.h. der Puls läuft auch dann
+immer noch, wird reflektiert und kommt zurück, wenn
+die Quelle längst abgeschaltet ist.
+Das ist *das Argument* gegen jede Art der
+Fernwirkungstheorie ...
+
+e) Es gibt einen Einfluß des Gravitationsfeldes auf
+jedwede Art der Zeitbestimmung, den kann man
+"relativ" preiswert mit Cäsium-Atomnormalen messen,
+mit den neueren Rubidium-Modulen müßte es eigentlich
+auch gehen, und die sind mit ca. 1500 Euro pro Modul
+garnicht soooo teuer. Allerdings reagieren sie u.a. auf
+Magnetfelder empfindlich und sind kein Prim�rstandard.
+Die Dinger laufen im Tal tatsächlich langsamer als
+auf dem Berg, eine Leitung und ein Phasenvergleicher
+sollten ausreichen, um das sichtbar zu machen.
+D.h. *alle* physikalischen Vorgänge werden durch
+ein starkes Gravitationsfeld verzögert.
+Man kann das sehr gut berechnen (ART) und modellieren
+(Raumverzerrung), es stimmt auch, was dabei rauskommt,
+aber *warum* das mikroskopisch betrachtet so ist, dass
+weiß der Geier, die beiden Theorien (Quantentheorie
+fürs Kleine und ART fürs Grobe) verweigern jede Art der
+Zusammenarbeit ...
+
+Es gibt kein alleinstehendes sich änderndes statisches
+Feld. Das ist ein Widerspruch in sich.
+Wird das elektrische Feld geändert, dann bedingt das
+im freien Raum *automatisch* ein magnetisches Feld, und
+das kann man auf vielfältige Weise messen.
+Wäre das anders, dann würde z.B. das Radar nicht
+funktionieren.
+
+Du kannst Dir das einfach klarmachen:
+Nimm einen Kondensator, der *gerade eben* über eine
+Batterie und einen Widerstand geladen wird.
+Dann fließt durch den Draht zum Kondensator ein Strom,
+und der erzeugt unstrittig ein Magnetfeld (Kompassnadel)
+um den Draht herum.
+
+Dieckhaus stellte sich nun die Frage, wie das eigentlich
+*im Moment des Aufladens* zwischen den Platten ist, und
+die sowohl logisch konsequente wie auch experimentell
+bestätigte Antwort ist, dass sich dort ebenfalls ein
+Magnetfeld bildet. Ist ein Dielektrikum dazwischen, dann
+kann man sich das über die Verschiebung von Ladungen
+im Dielektrikum beim Aufladen und den daraus
+resultierenden Strom (der dann das Magnetfeld erzeugt)
+vorstellen, aber im Vakuum funktioniert es ebenfalls.
+
+Ansonsten ist die Laufzeitmessung wie gesagt Tagesgeschäft,
+wüßte ich, wie es schneller als Licht geht, dann tt ich
+sofort für die Gamer die "Faster_than_Light Networks" (tm)
+aufmachen und den üblichen Verdächtigen die DSL
+Teilnehmer mit Fastpath abluchsen ;-)
+
+Gruß Valerian
+
+-- 
+Valerian Ludders + Uedding, Germany + tlqdpegg@gcurboo.gd
+http://mlx.wprgfwu.wn + Phone: +83-2024-0395-9 Fax: -95

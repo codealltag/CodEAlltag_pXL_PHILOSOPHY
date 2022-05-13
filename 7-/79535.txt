@@ -1,0 +1,11 @@
+Kannst du bitte 'Kante' definieren. Ich habe Edeka-Großmarkt ohne Kanten
+kennengelernt.
+
+Jeder Abschnitt enthält nur endlich viele Zahlen. Aber woraus
+schliesst du, dass es endlich viele Abschnitte sind? Das sollst du doch
+gerade beweisen.
+
+Du musst aber einen Algorithmus angeben, mit dem ich in endlicher Zeit
+die Stelle berechnen kann, an der deine Zahl steht.
+"Die Zahl x wird dann sicher auch noch irgendwohin abgebildet" ist kein
+Algorithmus.

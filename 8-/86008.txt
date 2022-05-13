@@ -1,0 +1,44 @@
+Hallo!
+
+Am Sun, 19. 02. 22 15:10:45 +0200 schrieb Willy Altena:
+
+[Parallelisierung von Problemen für Occam]
+Stimmt!
+
+Man kann es auch kürzer beschreiben. Parallelisierbar ist nur, was in
+Teilprobleme zerlegbar ist, die nicht durch Zwischenergebnisse so
+verknüpt sind, daß sie sich gegenseitig blockieren. Der Teilprozeß
+wartet auf die Zwischenergebnisse, die braucht.
+Es findet eine vollständige Parallelisierung statt. Kommt ein
+Teilergebnis nicht, dann steht der Laden.
+
+Ich arbeite nicht so. Wenn ich einen Urlaub plane, dann sicher sehr
+schlampig. Wenn ich kein Zimmer habe und die Zeit nicht kritisch ist, dann
+fahre ich trotzdem. Wenn ich beim Bäcker A keine Brötchen kriege, dann
+kaufe ich bei Bäcker B.
+Es gibt Zeitgenossen, die machen ein Riesengeschrei, wenn von den fünf
+Sachen, die sie sich für einen Urlaub einbilden, nur eine gefährdet sein
+könnte. Sie haben sich 100%ig festgebissen und reagieren entsprechend.
+
+Wenn in meinem Entscheidungsprozeß ein Zwischenergebnis auf sich warten
+läßt, dann lasse ich es aus und nehme an der Stelle ein Risiko oder
+einen Ausweichplan in Kauf.
+Meine Rechnung bleibt nicht stehen wie die eines Transputerarrays. Ich
+kann diese Probleme heilen.
+
+Warum soll eine solche Verfahrensweise nicht implementierbar sein?
+
+Sie fordert natürlich ein völlig anderes Herangehen und eine andere
+Kodierung der Probleme. Rein mathematische Rechnungen kann man so nicht
+behandeln, Entscheidungsprozesse aber schon!
+
+Wenn von fünf Voraussetzungen vier auf 80% stehen und für die letzte ein
+Ausweichen möglich ist, dann kann ich sehr beruhigt eine Reise antreten,
+die andere nur als Katastrophe bezeichnen würden.
+
+
+Gruß
+Italo                 xNFJPIdngTChilmaQDHDHqw
+-- 
+"Die eigentliche Frage ist auch gar nicht, ob Maschinen intelligent 
+sein können, sondern ob es die Menschen sind." Sven West

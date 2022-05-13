@@ -1,0 +1,34 @@
+Vielen Dank!
+
+ich hatte leider vergessen, die Kugeln als Massenpunkte, d.h.
+ohne elastische Deformation durch die Gravitation zu definieren.
+Wenn ich Dich richtig verstehe, sind die Gleichungen auch dann
+nicht lösbar. Die Störung der zwei Körper durch den dritten
+genügt.
+
+Einfacher gesagt: ist es ein rein mathematisches und kein
+physikalisches Problem? 
+
+Wenn ja: war der Dämon von Laplace, der alle Zukunft vorauswissen
+könnte, eine reine Behauptung auf Grund von Annahmen, die nicht
+bewiesen waren und die auch ohne neue Physik eindeutig falsch
+war?
+
+Ich frage deshalb so hartnäckig, weil ich einmal gelesen habe,
+dass nur unsere Computer zu klein seien, sie müssten 
+10^(weiss der Teufel wieviel) mal grösser sein als das ganze
+Universum - aber theoretisch wäre es möglich.
+
+
+ich lese so viel, dass ich das nicht mehr weiss. Obiges Beispiel
+habe ich erfunden. Aber ich hatte selbst Simulationen auf meinem
+SEN berechnet: bei einfacher gegen doppelte Genauigkeit
+liefen die Kurven bei gleichem Anfang immer weiter auseinander.
+Genau das Gleiche wie das, was ich über den 'Schmetterling' sah.
+Die Chaostheorie ist ja 'experimentelle Mathematik': das muss ja
+gelegentlich schiefgehen. Dass Mathematikprogramme und
+Prozessoren falsch rechnen liest man immer wieder.
+
+Gruss
+
+Igor

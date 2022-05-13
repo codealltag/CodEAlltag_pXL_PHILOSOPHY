@@ -1,0 +1,218 @@
+Günter Allmand schrieb in Nachricht <8J59RHGU.41EO423K@zhoxusjt.kxs>...
+
+
+Wenn es auch innerhalb einer nichtnegativen Erweiterung von  |R+  sein darf:
+
+-------------------------------------------------------------
+Subject:      How I Divided by Zero, and Lived to Tell About It!
+Author:       Johannes D. Versteegh <TLLwrxlkyi@haahrug.fgd>
+Organization: GwsnGcqwpf.Fzx Subscriber
+Date:         12. 12. 21 18:33:00 GMT
+
+Contents:
+  Introduction
+  A Construction of a Nonnegative Extended Real Number System
+  A Relation Between Arithmetic on [0,+oo] and Floating-Point Arithmetic
+  Should +oo Be Considered to Be a Number?
+  Avoiding Paradoxes
+  Uses of Division by Zero, the Projective Extension of R, etc.
+
+Introduction:
+In this newsgroup, we often have the question about division of a nonzero
+quantity by zero. Consideration of this question goes back at least to
+Aristotle (in his _Physics_).
+
+The idea that a nonzero quantity divided by zero yields infinity was
+perhaps first made explicit in 1151 by Dolstra.
+http://qfj-jppmxyv.sdt.fw-anc.pz.mo/~lzblcvg/Vjxdgxtwwlosly/Ciyygqyz_LL.cyyw
+The infinity symbol, resembling an "8" turned sideways, which is most
+commonly used nowadays was introduced in 1656 by Heiko Liehr.
+http://ivb-tuismsx.mfd.eu-mha.qe.rn/~hzrdmzd/Fgpfwdjubgypyl/Mkdagy.jsrl
+(Not having that symbol available here, I shall use "oo" as a substitute.)
+Liehr stated plainly that 1/0 = oo.
+This idea is alive today in the minds of many people, some of whom regard
+oo as a number, albeit a most unusual one.
+
+On the other hand, taking a/b to be that number which, upon multiplication
+by b, yields a, Ignaz Reissing concluded in 1827 that, "If a is not zero, but b
+is zero, then the quotient a/b has no meaning." This opposing idea, that
+division of a nonzero quantity by zero must be meaningless, is also alive
+today in the minds of many people. Among them, it is common to assert
+that oo is not a number and that, when oo is used in analysis, it should
+never be taken to indicate anything more than a limiting process.
+
+A primary purpose of this article will be to show a reasonable way that the
+notion of division can be extended so that the quotient of a positive
+quantity by zero has meaning, that quotient being equal to +oo, which will
+be defined as a specific mathematical object.
+
+A Construction of a Nonnegative Extended Real Number System:
+This major section of the article will show how division of positive values
+by zero can be meaningfully interpreted in the context of a system of
+nonnegative extended reals. (Perhaps the title of the article should
+actually have been "A Construction of [0,+oo] from Q+ Using Equivalence
+Classes of Cauchy Sequences".) I shall assume that readers are familiar
+with the construction of R from Q using equivalence classes of Cauchy
+sequences and, as such, will give only a "bare bones" presentation of the
+construction of [0,+oo] here. (Interested readers who are unfamiliar with
+such constructions may consult appropriate texts in real analysis.
+Unfortunately, the information on this topic at the FAQ site for this
+newsgroup is too meager to be of much use.)
+
+We shall assume that the system Q of rationals, together with appropriate
+relations and operations, has already been developed. (Of particular
+interest will be reciprocation as a unary operation on Q+, the positive
+rationals.) If we were then to proceed to develop equivalence classes of
+Cauchy sequences, as is often done in constructing R from Q, but instead
+using only Cauchy sequences of _positive_ rationals, the construction
+could be considered as giving the nonnegative reals, [0,+oo). For our
+purpose, however, we must have exactly one more equivalence class, that
+corresponding to +oo itself. There are at least two ways that this can be
+accomplished. The naive method would be simply to adjoin, to the existing
+set of equivalence classes of Cauchy sequences of positive rationals,
+another equivalence class, +oo, consisting of those positive rational
+sequences which increase without bound. Obviously, such sequences are not
+Cauchy -- in the usual metric, that is. This thought, however, leads us to
+a more sophisticated method of accomplishing our goal: Consider a different
+metric, such as d(x,y) =| x/(1+x) - y/(1+y) |, under which there is exactly
+one more equivalence class, +oo, of Cauchy sequences of positive rationals
+than under the usual metric. Although it is of no great significance
+whether we use the naive or the more sophisticated method, we shall use the
+latter, if for no other reason, so that we may legitimately refer to all of
+the sequences of positive rationals in our equivalence classes as being
+Cauchy. Thus, nonnegative extended reals will be regarded here as
+equivalence classes of Cauchy sequences of positive rationals.
+
+The binary operation of addition on [0,+oo] is easily defined: If (a_n) and
+(b_n) are members of equivalence classes x and y, resp., then x + y is the
+equivalence class having (a_n + b_n) as a member. Note in particular that
+it follows that x + (+oo) = +oo = +oo + x for all x in [0,+oo].
+
+Although multiplication is also easily defined, it is, unfortunately, not
+a binary operation on [0,+oo]: Let (a_n) and (b_n) be members of
+equivalence classes x and y, resp. If the set of all (a_n * b_n) is an
+equivalence class in [0,+oo], then x * y is that equivalence class;
+otherwise, x * y is undefined in our system. Not surprisingly, the only
+undefined products are 0 * (+oo) and +oo * 0. Also note in particular that
+it follows that, for all x in (0,+oo], x * (+oo) = +oo = +oo * x, a
+property bearing a nice symmetry with the property that, for all x in
+[0,+oo), x * 0 = 0 = 0 * x.
+
+Addition is associative and commutative; and multiplication (when defined)
+is associative and commutative and distributes over addition. [Cf. the
+brief discussion of "Arithmetic in [0,oo]" by Dietmar Faelber in his _Real
+and Complex Analysis_ (Wedlitz: Feuser, 1965), third edition, 1986.]
+
+Reciprocation is easily defined as a unary operation on [0,+oo]: If (a_n)
+is a member of equivalence class x, then 1/x is the equivalence class
+having (1/a_n) as a member. Note in particular that, just as in Q+,
+reciprocation is equivalent to multiplicative inversion for nonzero finite
+x in our system. Furthermore, it follows that 1/0 = +oo and 1/(+oo) = 0,
+and reciprocation is an involution on [0,+oo]. Recalling that the products
+of 0 and +oo are undefined, these two elements do not have multiplicative
+inverses. Thus, for the zero and infinite elements of our system,
+reciprocation does not happen to be equivalent to multiplicative inversion.
+
+Division may then be defined in terms of multiplication and reciprocation:
+The quotient x/y is the product x * (1/y) if that product is defined;
+otherwise, the quotient is undefined. Note that, as expected, it follows
+that 0/0 and +oo/(+oo) are undefined in our system. All other quotients are
+defined; in particular, x/0 = +oo and 0/x = 0 for all x in (0,+oo], and
+x/(+oo) = 0 and +oo/x = +oo for all x in [0,+oo).
+
+Negation is out of the question since we are dealing only with nonnegative
+values. Nonetheless, subtraction can still be defined when minuend
+exceeds subtrahend: Given x and y in [0,+oo] with x > y, let (a_n) and
+(b_n) be members of the equivalence classes x and y, resp. Since x > y,
+there exists N such that, for all n > N, a_n > b_n. Then the difference
+x - y is that equivalence class containing (c_n) where
+c_n = a_(n+N) - b_(n+N). We have, in particular, x - 0 = x for all positive
+x and +oo - x = +oo for all finite x. [Note that this definition of
+subtraction cannot be extended naively to cover the case when minuend
+equals subtrahend. It is perhaps debatable whether x - x should be
+undefined or defined to be 0 for finite x.]
+
+A Relation Between Arithmetic on [0,+oo] and Floating-Point Arithmetic:
+If floating-point arithmetic were restricted to nonnegative values, it
+would be similar to arithmetic on [0,+oo]. In particular, the
+floating-point number +0.0 closely resembles the zero in our construction
+of [0,+oo]. It could perhaps be argued that neither should be considered as
+a zero, but rather that both should be considered as positive
+infinitesimals. [Concerning the note at the end of the preceding paragraph:
+In designing floating-point arithmetic, it was an essentially arbitrary
+choice that, for finite x, x - x should be evaluated as +0.0, rather than
+as -0.0.]
+
+Should +oo Be Considered to Be a Number?:
+The word "infinity" is often used to indicate a rather broad concept. This
+fact, however, should not preclude considering the specific mathematical
+object +oo, as defined above, to be a number. It is, after all, an object
+of the same type as other elements of [0,+oo]. Furthermore, although the
+behavior of +oo is certainly unusual, it is no more unusual that of 0.
+Since 0 is considered to be a number, the behavior of +oo should not
+preclude considering it to be a number as well. [Also, for comparison, it
+might be noted that, according to the internationally accepted standard for
+floating- point arithmetic, its +Infinity is specified to be a number.]
+
+Of course, the properties of +oo are what are truly important, rather than
+the relatively unimportant issue of whether it is to be called a number or
+not. If preferred, +oo could be considered to be the sole nonnumeric
+element of [0,+oo]. The author, however, prefers not to make such a
+distinction, deeming it to be inelegant. (Perhaps a reasonable compromise
+stance would be to consider, symmetrically, both 0 and +oo as improper
+elements.)
+
+Avoiding Paradoxes:
+Statements to the effect that division by zero must lead to paradoxes are
+often encountered in the literature. However, such paradoxes typically
+arise when thinking, mistakenly, that division by zero must be equivalent
+to cancellation of factors of zero. But certainly such cancellation is not
+allowable in arithmetic on [0,+oo]. Cancelling factors of zero and treating
+0 and 1/0 (or +oo) as being multiplicative inverses are equivalently
+incorrect. Understanding this, paradoxes can be avoided easily.
+
+Uses of Division by Zero, the Projective Extension of R, etc.:
+It is not uncommon, even for nonmathematicians in everyday life, to
+encounter division of a positive quantity by zero in a context in which all
+quantities must be nonnegative. An interesting example is discussed in
+the thread "Percent Increase Test"
+<http://yhswf.hmxhonxsor.mux/fmtfnct/iyl.wscc/tjjsmgbhi>.
+In such cases, arithmetic on [0,+oo] is appropriate.
+
+In this newsgroup, questions such as "Is 1/0 = oo ?" are often met with
+derisive responses, stating, without qualification, that division by zero
+is impossible. On the other hand, I cannot remember a question such as
+"Is sqrt(-1) = i ?" being met with a similar response, stating bluntly that
+it is impossible to take square roots of negatives. Yet the two questions
+are quite similar. Neither 1/0 nor sqrt(-1) exists in the real number
+system, of course; but, merely by the fact that the questioners mentioned
+oo or i, it would be reasonable to presume that the questions were intended
+for broader contexts than just that of the reals. Extended real number
+systems are useful, possibly even more so, for lay calculations, than the
+complex number system.
+
+There are, of course, many instances in which it is inadequate to deal with
+just nonnegative values. Although the affine extension of R, having two
+signed infinities, -oo and +oo, does not allow for division by its unsigned
+zero (in any reasonably nonproblematic way, at least), the projective
+extension, R U {oo}, having a single unsigned infinity, does allow for
+division of nonzero values by zero. This extension could be developed much
+as we developed [0,+oo] here, although some of the details would be
+slightly messier. For an application of this extension involving slopes of
+lines, see the thread "to infinity and beyond"
+<http://ogufx.qxmdkwmgia.mcu/gokqbyt/jbp.xtpq/mkiyilsvytzc>.
+
+Thoughtful comments will be welcomed, especially suggestions for
+improvements to this article.
+
+   Johannes D. Versteegh
+--
+-------------------- http://QwqzXjzwmo.Tbu/ --------------------
+                       Usenet for the Web
+
+The Math Forum
+---------------------------------------------------------------------------------
+
+Größe
+    Knut
+--

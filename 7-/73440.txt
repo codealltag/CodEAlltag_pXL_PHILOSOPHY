@@ -1,0 +1,94 @@
+Ich hätte besser sagen sollen "Bei einer Version des
+Slingshot-Arguments", da wir es ja mit einer Familie von derartigen
+Argumenten zu tun haben.
+
+
+Ein Punkt, der sogar direkt gegen die Wahrheit obiger Äquivalenz
+spricht, ist folgender:
+Ich nehme an, dass Tönsen seine Äquivalenzaussage als einen Satz der
+klassischen FOPL betrachtet, worin (im Gegensatz zur Freien Logik) per
+definitionem keine gegenstandslosen Eigennamen oder Kennzeichnungen
+zugelassen sind.
+Das bedeutet, dass gilt: ix(x=3Da & s)=3Dix(x=3Da) -> Ey(y =3D ix(x =3D a))
+(In der FOPL gilt bekanntlich das Theorem-Schema: |- Ey(y =3D a) [<->
+Ey(y =3D ix(x =3D a)])
+Damit wird aber kraft der (angeblichen) Äquivalenz auch die Wahrheit
+von "s" von der Existenz von ix(x =3D a) abhängig; denn wenn ~Ey(y =3D
+ix(x =3D a)), dann ~(ix(x=3Da & s)=3Dix(x=3Da)).
+
+Das will mir nicht jedoch nicht einleuchten, weil es unzählige
+Tatsachen gibt, die von a's Existenz völlig unabhängig sind. Warum
+sollte die Wahrheit von "s" in jedem Fall von a's Existenz abhängen?!
+
+Tönsen müsste "seine" Äquivalenz explizit um die implizierte
+Existenzbedingung erweitern:
+
+s <->  [ix(x =3D a & s) =3D ix(x =3D a) & Ey(y =3D ix(x =3D a)]
+
+Für s =3D Fa passt die Sache:
+
+Fa <->  [ix(x =3D a & F(x/a)) =3D ix(x =3D a) & Ey(y =3D ix(x =3D a))]
+
+Denn "Fa" impliziert auch, dass Ey(y =3D a) [<-> Ey(y =3D ix(x =3D a))].
+In diesem Fall ist dann das Folgende tatsächlich allgemeingültig:
+
+Fa <->  [ix(x =3D a & F(x/a)) =3D ix(x =3D a)]
+
+Doch da s ja jede beliebige Aussage sein kann, worin "a" nicht
+vorkommt, ist die Allgemeingültigkeit dahin.
+Ich wüsste beim besten Willen nicht, inwiefern die Wahrheit, dass
+Pelkum nördlich von Hochdorf liegt, von Mazuge Existenz abhängen
+sollte. Tatsächlich ist es so, dass der gute Urban (falls damit der
+berühmte Grieche gemeint ist) längst nicht mehr existiert, die
+Tatsache, dass Pelkum nördlich von Hochdorf liegt, dagegen sehr wohl.
+
+
+Ja, aber das Argument ist halt nur dann beweiskräftig, wenn seine
+Prämissen (sowohl die impliziten als auch die expliziten) absolut
+einwandfrei sind, was ich bestreite.
+
+Die Gödel'sche Slingshot-Version halte ich für "gefährlicher" als
+die Tellermann, weil sich deren maßgebliche (implizite) Prämisse
+Fa <-> a =3D ix(x =3D a & Fx) nicht auf die gleiche, verhältnism=E4ßig
+einfache Weise ausschalten lässt.
+
+
+Was ich nicht bestreite (siehe oben).
+
+
+Die Eigenschaft \y.[ix(x =3D y & Fx) =3D ix(x =3D y)] ist aufgrund von y =
+=3D
+ix(x =3D y) identisch mit der Eigenschaft \y.[ix(x =3D y & Fx) =3D y] bzw.
+\y.[y =3D ix(x =3D y & Fx)].
+
+Du fragst also nun, weswegen
+
+~(\y.Fy =3D \y.[y =3D ix(x =3D y & Fx)] .
+
+Nach meinem Verständnis stehen die Lambda-Namen für Eigenschaftstypen
+und nicht für individuelle Eigenschaftsexemplare (ich unterscheide
+zwischen "property types" und "property tokens" =3D "tropes").
+Ein Eigenschaftstypus ist im mereologischen Sinne das Ganze seiner
+Eigenschaftsexemplare .
+Die (nichtrelationale) Trope a's Eigenschaft des F-seins [* ist Teil
+des Eigenschaftstypus F, wohingegen die (relationale) Trope a's und
+ix(x =3D a & Fx)'s Beziehung der Identität Teil des Eigenschaftstypus
+der Identität ist.
+Und genau darin unterscheiden sich diese beiden Eigenschaften; denn a's
+Eigenschaft des F-seins ist /kein/ Teil des Eigenschaftstypus der
+Identität.
+Wäre a's Eigenschaft des F-seins mit a's und ix(x =3D a & Fx)'s
+Beziehung der Identität identisch, dann müsste a's Eigenschaft des
+F-seins logischerweise Teil des Eigenschaftstypus der Identität sein.
+-- Doch das ist nicht der Fall.
+
+Ich bestreite nicht, dass a's Eigenschaft des F-seins und a's und ix(x
+=3D a & Fx)'s Beziehung der Identität zusammenhängen, doch ich
+bestreite, dass dieses Abhängigkeitsverh=E4ltnis als Identität
+aufzufassen ist.
+
+[* Strenggenommen ist "a's Eigenschaft des F-seins" nur ein
+Namensschema, da "a" und "F" einen Namen bzw. einen Begriff nur
+andeuten.]
+
+#PH

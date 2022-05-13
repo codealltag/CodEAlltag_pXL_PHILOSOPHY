@@ -1,0 +1,18 @@
+Nein, denn man darf wirklich z.B. zwischen intrinsischen Eigenschaften
+und Lagebezieungen unterscheiden. Auch kannst du z.B eine digitale
+Kopie, also z.B. einfach eine Zahl, von einer anderen, die gleich ist,
+nicht unterscheiden, denn das macht keinen Sinn, siehe auch die ML:
+
+"In der Mengenlehre sind die Mengen rein extensional bestimmt,
+d.h. zwei Mengen sind genau dann identisch, wenn sie dieselben
+Elemente haben. In der Zermelo-Fraenkel-Mengenlehre, einer
+verbreiteten Axiomatisierung der Mengenlehre, wird das durch
+das Extensionalitätsaxiom
+
+       /forall A,B : A = B <-> /forall C : (C e A <-> C e B)
+
+ausgedrückt. Gelegentlich werden die Wörter "Extensionalitätsaxiom"
+und "Extensionalitätsprinzip" synonym verwendet."
+
+Aber das wirst du nicht kapieren...
+--

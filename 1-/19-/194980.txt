@@ -1,0 +1,9 @@
+Mal ganz grundsätzlich: Es gibt keine Sandhaufen. Beweis :
+
+Induktionsanfang: Ein Sandkorn ist kein Sandhaufen. (Klar.)
+Induktionsschritt: n Sandkörner sind kein Sandhaufen. Lege ich jetzt ein
+Sandkorn dazu, so habe ich immer noch keinen Sandhaufen. //
+
+Ich hoffe, dieser kleine Hinweis hilft Euch, das Problem zu lösen (was
+ja offensichtlich gar nicht existiert ... ;-) ).
+Tschuess, Angelo.

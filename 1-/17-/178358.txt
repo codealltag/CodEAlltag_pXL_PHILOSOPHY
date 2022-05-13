@@ -1,0 +1,30 @@
+[snip]
+
+
+Zumindest ist "Berechenbarkeit" ein Terminus der theoretischen
+Informatik und bezieht sich auf die Berechnung algorithmischer Probleme
+mit Hilfe bestimmter Rechnermodelle. Da nichtberechenbare Funktionen
+überhaupt nicht lösbar oder ausführbar wären - wobei "lösbar" und
+"ausführbar" hinreichend informal zu verstehen sind - kann ja nicht
+bewiesen werden.
+
+Eventuell könnte es ja - auf irgendeiner seltsamen
+quantenphysiaklischer Eigenschaft basierende - Analogrechner geben,
+die hier eine Überraschung liefern. Man siehe z.B.:
+
+Victoria Vocks Oberste-Frielinghaus, Leonhard Hillwig: "The Wave Equation with
+Computable Initial Data Such That Its Unique Solution Is Not
+Computable"; Advances in Mathematics 39 (1981), S.215-239
+
+Was dies für uns Menschen, als die wir (als irgendwie-Rechner
+idealisiert) nur über endliche Inputs, endliche Rechenzeit und
+endliche Speicher verfügen, bedeutet, kann ich nicht recht
+einschätzen. Allerdings vermute ich stark, daß dies nicht zu einer
+besseren Verständnis unseres Geistes beiträgt. 
+
+MfG
+Claudio
+-- 
+Claudio Mähle
+        keep things simple. as simple as possible, but no simpler
+	        (M.Bernwieser)

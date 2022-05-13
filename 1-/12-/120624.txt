@@ -1,0 +1,41 @@
+Ich habe es drüben in Kaugummi-Automat schon mal gesagt: Fuzzy ist
+Regelungstechnik, nicht Logik.  Von einer Logik würde ich verlangen,
+dass die Wahrheitswerte einen Verband usw. (näheres siehe im
+Goldblatt[1]) bilden und dass A&~A immer den Minimalwert annimmt.
+
+
+Nimm als Menge der Wahrheitswerte die Topologie der Oberfläche
+(d.h. die Menge aller ihrer offenen Teilmengen).  Der Wahrheitswert
+der Aussage "der Apfel ist von Schale bedeckt" ist dann gerade die
+bedeckte Fläche abzüglich des Randes, der der Aussage "der Apfel ist
+unbedeckt" die abgebissene Fläche (auch ohne Rand).  Die Konjunktion
+aus beiden ist die leere Menge, was (nicht zufällig) der minimale
+Wahrheitswert ist.  Das TND gilt in dieser Logik übrigens hier nicht -
+beide Aussagen mit "oder" verknüpft ergeben etwas, dem zu "wahr" die
+Randlinie der Bissfl�che fehlt.  Nimmt man statt der üblichen die
+diskrete Topologie (d.h. die Menge *aller* Teilmengen), dann entfällt
+das Problem mit dem Rand (falls AC gilt).
+
+Man kann IMHO nicht schöne handliche Wahrheitswerte (wie Zahlen aus
+[0...1]) verlangen, TND vermeiden, Extensionalität fordern und dann
+trotzdem noch etwas sinnvolles damit anfangen wollen.  Lässt man die
+erste Forderung fallen, so bekommt man klobige Wahrheitswerte (wie
+obige Teilmengen).  Dabei packt man alle Unwägbarkeiten,
+Nebenbedingungen, Ortsabh�ngigkeiten usw. in den Wahrheitswert (muss
+man, damit es extensional bleibt) und spürt das Gesetz von der
+Erhaltung der Schwierigkeit.
+
+
+Und was sagt die Fuzzysteuerung ihrer Maschine jetzt: Soll sie den
+Apfel schälen oder als schon geschält behandeln?  Oder beides?
+
+
+Das hängt davon ab, ob es ein Frauenparkplatz ist.
+
+Gert
+
+[1] G. Boehnke: "TOPOI\nThe categorial analysis of logic",
+Altstrimmig 1979 (bei mir nur russisch vorhanden).
+-- 
+GS d->? s:++>+++ a+ C++++$ UL+++$ UH+ P++ L++ E+++ W- N++ o-- K- w--- !O M- V-
+PS+>++ PE Y+>++ PGP+ !t !5 !X !R !tv  b+++ DI+++ D?  G+ e++++ h+ r? y?

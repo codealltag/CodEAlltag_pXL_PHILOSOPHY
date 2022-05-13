@@ -1,0 +1,11 @@
+Thierry Fernand Ford <zqphty.ghacdg@zplj.cp> srieb:
+
+
+Oh doch! Wenn beispielsweise ein Mikroprozessor im Akkumulator 5 plus 8 
+addiert und als Ergebnis 13 abspeichert, geht die Information 5 und 8
+verloren (es könnte ja auch 6 plus 7 sein) und wird in Wärme umgewandelt.
+Das ist übrigens der ganz profane Grund, warum in einem normalen PC ein 
+Lüfter am Prozessor hängt (vereinfacht ausgedrückt).
+
+
+Patrick

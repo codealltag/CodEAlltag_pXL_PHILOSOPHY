@@ -1,0 +1,53 @@
+Dass in Logiken mit mehr als zwei Werten das Tertium non datur nicht 
+gilt, sollte schon von der Bezeichnung her auf der Hand liegen. Wenn es 
+sein muss, kannst du natürlich eine Negation des Wertes "weder bewiesen 
+noch widerlegt" ("unentschieden", u) einführen - das wäre dann "bewiesen 
+und widerlegt", sprich "paradox" (p).
+
+Die Wahrheitstafel der Negation wäre dann:
+
+A | ~A
+--+---
+w | f
+f | w
+u | p
+p | u
+
+Entsprechend würde ich vorschlagen:
+
+A | B | A&B
+--+---+----
+w | w | w
+w | f | f
+w | u | u
+w | p | p
+f | f | f
+f | u | f
+f | p | f
+u | u | u
+u | p | f
+p | p | p
+
+A | B | AvB
+--+---+----
+w | w | w
+w | f | w
+w | u | w
+w | p | w
+f | f | f
+f | u | u
+f | p | p
+u | u | u
+u | p | w
+p | p | p
+
+Damit wären deine Fragen beantwortet: "A oder nicht A" ist wahr, "A und 
+nicht A" ist falsch.
+
+(Disclaimer: Ich bin KEIN Logiker und bitte darum, dieses Kalkül nicht 
+ernstzunehmen. Ich habe auch keine Ahnung, ob es irgendwelche Vorbilder 
+hat, ich habe mir das bloß aus den Fingern gesogen.)
+
+severin
+-- 
+http://yrv.nayjfqdmv.tv

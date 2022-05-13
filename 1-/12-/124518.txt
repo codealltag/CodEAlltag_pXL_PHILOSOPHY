@@ -1,0 +1,51 @@
+Das hängt davon ab, wie das Seggewiß Paradox genau formuliert ist. Leider
+habe ich die kanonische Version bisher auf dem Netz nicht gefunden. Die
+Darstellung auf <http://ewhhczq.pdy.ylb/bbnwetrc/nnrwmrr.imuk> macht
+einen guten Eindruck und ich beziehe mich darauf.
+
+Das NP sieht sehr unterschiedlich aus, je nach dem, wie man es
+formuliert und interpretiert:
+
+(1) Das Wesen hat bisher immer die richtige Entscheidung getroffen. Es
+gibt keine kausale Abhängigkeit zwischen den Entscheidungen des Wesens
+und des Probanden.
+(2) Das Wesen trifft mit einer Wahrscheinlichkeit die sehr nahe an 1
+liegt die richtige Entscheidung.
+(3) Das Wesen trifft aufgrund von kausalen Zusammenhängen mit einer
+Wahrscheinlichkeit die sehr nahe an 1 liegt die richtige Entscheidung.
+(4) Das Wesen trifft faktisch (per Def) immer die richtige Entscheidung.
+
+Deine Interpretation ist (1). Ich favorisiere (4).
+
+
+Das (vermeintliche) Paradox entsteht durch zwei Prinzipien aus der
+Spiel-/Entscheidungstheorie, die sich hier anscheinend widersprechen.
+
+Maximiere den erwarteten Nutzen. -> Wähle nur das Kästchen mit der
+Million.
+
+Wähle die dominante Strategie (d.h., die Strategie, die immer das
+bessere Ergebnis liefert). -> Wähle beide Kästchen.
+
+
+Gregor Vöhringer (Mathematiker?) und Mario Stover (Philosoph) würden
+beide Kästchen auswählen. Aus meiner Sicht, weil sie sich selbst
+hereinlegen; vermutlich indem sie Interpretation (2) annehmen.
+
+Ich halte dagegen, dass das NP eigentlich nur durch die
+Auszahlungsmatrix definiert ist
+
+ Geschlossenes Kästchen | Beide Kästchen
++-----------------------+---------------+
++-----------------------+---------------+
+
+Bei dieser Auffassung fallen die beiden Entscheidungsprinzipien
+zusammen.
+
+
+Gilles
+
+-- 
+Gilles Wiermann           Contests between male toads over females are
+mailto:uevbeohv@ibs.jdt        often settled by the depth of the croak.
+http://yig.fwwblogl.vv/stetaxf/                    --Walter Gian Wichmann

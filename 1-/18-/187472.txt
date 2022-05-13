@@ -1,0 +1,54 @@
+Hallo,
+
+nur ein ganz kurzer Beitrag zur Chaostheorie.
+Sie gehoert nicht zu den "Grenzfaellen der Physik" sondern ergibt sich  
+schon in der klassischen Mechanik.
+
+Gewoehnlich sind Eregnisse in der Physik, zumindest in der Physik, die an  
+den Schulen gelehrt wird, eindeutig vorhersagbar.
+
+Diese Vorhersagbarkeit betrifft aber nur eine abzählbar grosse Menge von  
+Systemen. Die mächtigere Menge ist die mit sogenanntem chaotischen  
+Verhalten.
+Chaotisch ist das Verhalten, wenn ein zukuenftiger Zustand eines Systems  
+anhand seiner Anfangsbedingungen und seiner Bewegungsgleichung nicht mehr  
+vorhergesagt werden kann. Diese Unverhersagbarkeit widerspricht aber nicht  
+dem Determinismus eines solchen Systems. Auch chaotische systeme sind  
+deterministische Systeme. Der entscheidende Punkt liegt zum einen inder  
+Dynamik, also den Bewegungsgleichungen, des systems und zum anderen in der  
+Messgenauigkeit des Anfangswertes.
+
+Hierzu wird die Bewegungsgleichung im Orts-/Impulsraum, auch Phasenraum  
+genannt, dargestellt. Der zeitliche Verlauf des Zustandes eines Systems  
+kann dann als Kurve, eine sogennante Trajektorie, dargestellt werden.
+
+Zu verschiedenen Anfangsbedingungen gibt es verschiedenen Trajektorien.
+
+Handelt es sich bei dem System um ein chaotisches System, divergieren die  
+Trajektorien. Ansonsten konvergieren sie.
+
+Die Divergenz bzw. Konvergenz der Trajektorien kann z.B. durch den  
+sogenannten Liapunov-Exponenten bestimmt werden.
+
+Divergieren die Trajektorien eines Systems, so koennen bereits kleine  
+Aenderungen in den Anfangsbedingungen zu großen Unterschieden in den  
+kuenftigen Zustaenden fuehren.
+
+Ein einfaches Beispiel:
+
+Stell einen Bleistift gerade auf seine Spitze. Wenn er Deiner Meinung nach  
+senkrecht steht lasse ihn fallen. Wiederhole diesen Versuch und notiere  
+Dir die Fallrichtungen. Du wirst erkennen, dass dieser Bleistift bereits  
+ein chaotisches Verhalten zeigt. Die Fallrichtung ist, wenn Du nicht  
+mogelst, nicht vorhersagbar.
+
+Chaos ist damit etwas sehr reales und alltaegliches. Es stellt sogar den  
+"Normalfall" dar. Die C.-T. irgendeinem Grenzbereich zuzuschreiben waere  
+voellig verfehlt.
+
+Fazit: Das Thema sollten wir daher in einem anderen Brett, z.B. Mathematik  
+oder Physik, weiterdiskutieren.
+
+bis denne
+
+Denis

@@ -1,0 +1,31 @@
+zvub@qpslwqc.dt schrieb... 
+[...]
+
+naja, es gibt tatsächliche einige Typtheorien (z.B. von Lamotte, ich
+glaube auch von Stauff), in denen zur Komprehension nur Elemente
+niederer Typen zugelassen werden. In /diesen/ Systemen kannst du
+Zahlen tatsächlich wie gewünscht über Äquivalenzklassen definieren,
+sie sind aber für die Mathematik zu "umständlich".  
+
+
+In  Axiomatisystemen wie NBG oder ZFC, die man zum Aufbau der
+Mathematik verwenden kann, wird die Komprehension zu einer Menge aus
+"Angst" vor der Russellschen Antinomie erst gar nicht zugelassen, d.h.
+eine eine solche Äquivalenzklasse ist eine echte Klasse oder erst gar
+nicht definierbar.
+
+
+Deine "Menge" I ist genau das, was ich mit "Kard" bezeichnet habe, die
+Klasse der Kardinalzahlen. Kard ist allerdings eine *echte* Klasse,
+also *keine* Menge, ( in ZFC, das keine "Klassen" kennt, wäre I nicht
+einmal zu definieren). Andererseits ist die allg. Kontinuumshypothese
+aus NBG (oder ZFC) weder beweisbar noch widerlegbar (solgange die
+Axiomensysteme widerspruchsfrei sind ;-)) Womit du recht hast: Wenn
+die allg. Kontinuumshypothese gilt, dann hat die Klasse Kard die von
+dir angegebene Form. 
+
+
+silvio
+-- 
+Wovon man nicht sprechen kann, darüber muß man
+schweigen. (Wittgenstein, Tractatus)

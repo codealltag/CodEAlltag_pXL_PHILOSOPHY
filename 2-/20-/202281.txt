@@ -1,0 +1,20 @@
+Dade II, Quartidi de Prairial de l'Anne 205 de la Rövolution
+
+
+Nein, das ist sie nicht, da der Schluss von der Theorie auf die
+Empirie nicht logisch ist, sondern auf konventionellen Festlegungen
+und der praktischen Erfahrung der Wissenschaftler beruht. Dadurch ist
+keine Theorie durch einen empirischen Widerspruch logisch
+falsifizierbar. Das funktioniert nur, wenn du die eigentliche
+wissenschaftliche Tätigkeit aus der philosophischen Analyse komplett
+ausblendest und die Wissenschaft auf Aussagenlogik reduzierst.
+
+
+Auf die Sinnlosigkeit eine jeden Falsifikationismus.
+
+Tschüss, Karlheinz.
+-- 
+#!/bin/sh
+for x in 0 100 200 300 400 500 600 700 800 900; do
+for y in 0 100 200 300 400 500 600; do xeyes -geometry 100x100+$x+$y &
+done; done

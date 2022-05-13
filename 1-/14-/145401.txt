@@ -1,0 +1,93 @@
+Das hab ich mir gedacht. Das ist aber nur ein _Spezial_fall von drei
+Primärvalenzen. Die noch dazu nicht überall die selben sind. Dazu kommt,
+dass die Helligkeit nicht(!) proportional zu den Codevalues ist. 
+
+
+Wie nachstellen? Du meinst die Farbräume linear in andere
+transformieren. Das funktioniert aber auch nur bedingt. Hättest du zum
+Beispiel auf deinem Monitor ein Rot, welches leicht zu Gelb ist,
+könntest du dieses Gelb durch zunahme von Blau kompensieren. D.h. der
+Blaukanal müsste vom (gewünschten) Rotkanal abhängig sein. Und das ganz
+intensive Rot könntest du damit nicht darstellen. Egal wie. Einmal wäre
+es zu Gelb mit deinen falschen Phosphoren, mit Farbraumtransformation
+was zum zusätzlichen Blau führt, weniger Gesättigt, da mit Weissanteil
+(Blau+Gelb).
+Um das ganz intensive ideale "Norm"-Rot darstellen zu können müsstest du
+Gelb abziehen. D.h. Grün anziehen. Grün müsste also negativ sein.
+Nochmal mit Formeln: 
+
+R,G,B sind die Primärfarben (Blau und Grün sein ideal angenommen das R
+ist zu Gelb, hat also zusätzlichen Grünanteil 
+
+R = Rideal + rg*Gideal (rg ist der Faktor um den es zu Grün ist) 
+
+r,g,b sind die entsprechenden Faktoren
+Ich will maximales Rot erreichen, also r = 1, g= 0, b= 0
+
+Rreal = r * R + g * G + b *B 
+Rreal = R = Rideal + rg*Gideal 
+
+mit keiner Transformation erhalte ich also ein zu gelbes Rot
+
+mit Transformation muss ich den falschen Grünanteil abziehen (g<0) geht
+nicht. Also zusätzliches Blau. 
+
+Rreal2 = r *(Rideal + rg*Gideal) + b(r) *B 
+
+jetzt habe ich einen zusätzlichen Weissanteil[]:
+
+Rreal2 = Rideal + rg*G + b(r)*B 
+       = (1-rg)*Rideal + [rg*Rideal + rg*G + b(r)*B]
+
+
+Im übrigen wird beim Film deswegen die sogenannte (orange) Maskierung
+angewendet. Dadurch erreich ich praktisch negative Dichten. (Bei
+Umkehrfilmen durch entsprechende Entwicklungshemmung) 
+
+
+Ich kann mit sehr langwelligen Licht den Rot-Zapfen ziemlich alleine
+Reizen, das stimmt noch halbwegs. Ich kann aber nicht den Grünzapfen
+reizen ohne den Blau-Zapfen und Rot-Zapfen mitzureizen. Ebenso kann ich
+den Blau-Zapfen nicht alleine Reizen. Der Rot- und Grünzapfen wird immer
+mitgereizt. Allesnfalls für extremes violett wird der Grünzapfen nicht
+mit gereizt, dafür der Rotzapfen umso mehr. 
+Ich kann mich drehen und wenden mit drei Primärfarben kann ich
+nichteinmal alle spektralen Farben darstellen. Zumindest nicht in der
+theoretischen Sättigung, wenn ich die Zapfen einzeln reizen würde. 
+
+
+Siehe Beipiel oben. Um die ideale Farbe zu erreichen, muss eine
+Primärfarbe negativ werden. Um zum Beispiel den Blauzapfen umabhängig zu
+reizen müsste ich den Anteil den ich den Rotzapfen ungewollt mitreize
+mit einem negativen roten Licht kompensieren. Klar jetzt? 
+
+
+Nein du verstehst nicht ganz. Löse dich von dem konkreten
+Computercodevalues. 
+Hmm....vielleicht kann man es auch daran erklären: 
+Du kannst nich cyanischeres darstellen als 0, 255, 255. 
+Oder normieren wir auf 1: 0,1,1. 
+Mit Film ist es möglich ein noch gesättigteres (nicht bloss helleres)
+cyan darzustellen. 
+Ein Cyan was vielleich 0, 1.5, 1.5. entsprechen würde. 
+
+(ich bin mir nicht ganz sicher, kan sein, dass es geanu umgekehrt ist
+und mit Monitor gesättigteres Cyan produziert werden kann, aber am
+Prinzip ändert es nichts.) 
+
+
+Stimmt. 
+
+
+Stimmt auch. Selbst schon probiert. Aber nur in gewissen Grenzen. Zum
+Beispiel merkt man einen leichten Farbstich im Kino nicht. Wenn
+allerdings zwei Filmakte, die z.B. an anderen Tagen (oder gar anderen
+Kopierwerk) entwickelt wurden hintereinander geschnitten werden, dann
+merkt man u. U. deutliche Farbanweichungen. (selbst schon oft im Kino
+beobachtet) 
+
+
+und vorallem was das Gehirn draus macht. Letztendlich ist das
+Farberleben mit einem zusätzlichen Zapfen nur spekulation. Ich würde
+sogar behaupten, dass das was ich z.B. als Rot empfinde für dich im
+Gehirn ganz anders aussieht. Aber das ist ebenso irrelevant.

@@ -1,0 +1,12 @@
+...
+
+Das gilt für die zweiwertige Logik. Ich mag auch nicht die Deutung
+der Wahrheitswerte jenseits deren formallogischem Sinn:
+Nennen wir die beiden Werte einfach O und L. Die kann man kombinieren
+und erhält so die formallogischen Operatoren.
+
+Das gleiche kann man auch mit 3 Wahrheitswerten -1, 0, 1 machen:
+Ich hatte schon 'mal erwähnt, daß viele Computerbausteine dieser
+Logik gehorchen (z.B. CPU an einem Bus-Arbiter).
+
+HILTRUD

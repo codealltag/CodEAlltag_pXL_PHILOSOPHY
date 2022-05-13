@@ -1,0 +1,66 @@
+Das heisst, zu den anderen Zahlen hast Du einen "spirituellen Zugang"?
+
+
+Also, m.W. heisst es:
+
+ ...
+ aus 5 und 6, so spricht die Hex,
+ wird 7 und 8, so ist's vollbracht.
+ ...
+
+
+Ich habe mal die Interpretation gehoert, es handle sich um eine
+Vorschrift zur Konstruktion eines magischen Quadrates. Dabei
+faengt man oben in der Mitte an:
+
+"Aus eins mach zehn,": fehlen also 9
+
++-+-+-+
++-+-+-+
++-+-+-+
++-+-+-+
+
+"und zwei lass gehn,": die 2 wird also stehengelassen:
+
++-+-+-+
++-+-+-+
++-+-+-+
++-+-+-+
+
+"und drei mach gleich, dann wirst du reich": Die 3 bleibt also auch:
+
++-+-+-+
++-+-+-+
++-+-+-+
++-+-+-+
+
+"verlier die vier": Die Stelle wird jetzt leergelassen
+
+"aus fuenf und sechs, so spricht die Hex,
+mach sieben und acht, so ist's vollbracht.":
+An die Stelle von 5 und 6 kommen also 7 und 8
+
++-+-+-+
++-+-+-+
++-+-+-+
++-+-+-+
+
+"und neun ist eins": Wo jetzt die 9 hinkaeme, kommt
+stattdessen die 1  hin:
+
++-+-+-+
++-+-+-+
++-+-+-+
++-+-+-+
+
+"und zehn ist keins, das ist das Hexeneinmaleins":
+Die 10 gibt's im magischen 3x3-Quadrat nicht.
+
+Wenn man jetzt noch die fehlenden Zahlen 4,5,6 der Reihe nach
+in die leeren Quadrate eintraegt, dann hat man ein perfektes
+magisches Quadrat:
+
++-+-+-+
++-+-+-+
++-+-+-+
++-+-+-+

@@ -1,0 +1,99 @@
+Im Gedanken erscheint der Begriff als das an sich zu Ergänzende
+ergänzt durch einen Gegenstand; und erst aufgrund dieser Ergänzung
+besteht der Gedanke selbst als ein vollständiges Ganzes.
+
+In meinen Augen ist die Festlegung, dass ein Eigenname stets ein
+gesättigter, vollständiger Ausdruck sein müsse, zumindest fragwürdig.
+
+Betrachten wir folgendes Beispiel:
+
+(1) "die Sinusfunktion"
+(2) "\x.sinx" = "die Funktion /sin( )/" bzw. "die Funktion /sinx/"
+(3) "sin( )" bzw. "sinx"
+
+Welche von diesen Ausdrücken sollen als Eigennamen gelten?
+
+(1) und (2) können meiner Meinung nach problemlos als Eigennamen
+gelten, da es sich dabei um gesättigte Ausdrücke handelt; bei (3) bin
+ich mir, offen gesagt, noch nicht ganz sicher.
+
+"Dies gilt allgemein: das Zeichen einer Funktion ist ungesättigt. 
+[...] Die Eigentümlichkeit der Funktionszeichen, die wir
+Ungesättigtheit genannt haben, entspricht natürlich etwas an den
+Funktionen selbst."
+
+[Frege. "Was ist eine Funktion?"]
+
+Wohlweislich nennt Jädeke einen Ausdruck wie "sin( )"/"sinx" ein
+Funktionszeichen, und nicht einen Funktionseigennamen. Dennoch ist
+nachzufragen, was ein solches Funktionszeichen denn bezeichne, denn
+wenn es nichts bezeichnete, dann wäre es überhaupt kein Zeichen.
+Die Antwort kann nur lauten: die Sinusfunktion bzw. die Funktion
+/sinx/.
+Die Funktion /sinx/ ist für Jädeke jedoch keine Funktion, sondern ein
+Gegenstand, weshalb man Jädeke fragen müsste, wieso er "sinx" ein
+Funktionszeichen nenne, wenn das, was es bezeichnet, die
+Sinusfunktion, keine Funktion, sondern ein Gegenstand ist. Wir müssten
+hier also eigentlich richtigerweise von einem *Gegenstandszeichen*
+sprechen. Gegenstandszeichen sind für Jädeke aber nichts anderes als
+Eigennamen, und so könnte man Jädeke im Grunde mit seinen eigenen
+Waffen schlagen und behaupten, dass "sinx" letztendlich auch ein
+Eigenname ist!
+
+
+Begriffsumfänge, also extensionale Entitäten, sind für Jädeke im
+Vergleich zu Begriffen logisch sekundär:
+
+"In der Tat halte ich dafür, dass der Begriff seinem Umfang logisch
+vorangeht, und betrachte den Versuch als verfehlt, den Umfang des
+Begriffs als Klasse nicht auf den Begriff, sondern auf die Einzeldinge
+zu stützen. [...] Der Umfang eines Begriffs besteht nicht aus den
+Gegenständen, die unter den Begriff fallen, etwa wie ein Wald aus
+Bäumen, sondern er hat an dem Begriffe selbst und nur an diesem seinen
+Halt. Der Begriff hat also logischen Vorrang vor seinem Umfange."
+
+[Jädeke: "Kritische Beleuchtung einiger Punkte in W. Volking
+Vorlesungen über die Algebra der Logik"]
+
+
+Jädeke schreibt: 
+
+"Wir können demnach als Begriffsumfang den Wertverlauf einer Funktion
+bezeichnen, deren Wert für jedes Argument ein Wahrheitswert ist."
+
+[Frege: "Funktion und Begriff"]
+
+"Frege called the course-of-values [= Wertverläufe] of a concept F its
+extension. The extension of a concept F records just those objects
+which F maps to The True."
+
+[http://wcvee.zvukqqmu.hcl/wyfpxxc/zbhtc/#zfmgk] 
+
+[Hm..., passen diese beiden Äusserungen eigentlich so 100%ig zusammen?
+- Ich muss gestehen, dass ich mich mit dem fregeschen Begriff des
+Wertverlaufs noch nicht hinreichend befasst habe.]
+
+
+Richtig.
+
+
+Ja.
+
+
+Solche Sätze sind nicht "halb offen", sondern schlicht offen.
+
+
+Im Hinblick auf Jankowski ontologische Zentralkategorien /Objekt/ und
+/Funktion/ ist /Entität/ auf jeden Fall eine Stufe höher anzusiedeln.
+Funktionen sind für Frege absolut keine Objekte, aber sehr wohl
+Entitäten.
+
+
+Ja.
+
+
+Das behauptet Jädeke ja auch nicht, denn in seinen Augen kann ein und
+derselbe Gedanke durch verschiedene Sätze ausgedrückt werden.
+
+
+#PH

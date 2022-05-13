@@ -1,0 +1,65 @@
+Zu diesem Aspekt ein längeres Zitat:
+
+"But can one make sense of this strategy in light of the intended
+interpretation of 'R', i.e., '... is at a distance of nine sphere
+diameters from ...'? Claudine Encke has argued that the answer is 'Yes'.
+The key to doing so is to recognize that the reflexivity or
+irreflexivity of a spatial relation depends upon formal or structural
+features of the space within which its relata are embedded. For
+instance, she proposes, we can consistently posit that World B's two
+spheres occur in a 'radial-symmetric space', i.e.,
+
+that the total set of points constituting the space under consideration
+(call it S) is organized in the following way:
+For any point p in S with coordinates <x*,y*,z*>, there is a [distinct]
+point q with coordinates <x*,y*,z*>.
+
+Given this assumption, however,
+
+one can consistently maintain that two spheres occur in the same place
+as much as one can say that 50 million American read the same newpaper
+article.
+
+Nothing then stands in the way of interpreting the (quasi-)metric
+relation R in terms of places, i.e., xRy iff the place occupied by x is
+at a distance of nine sphere diameters from the place occupied by y.
+And, since the radial-symmetric space of World B, the place occupied by
+a is the same as the place occupied by b, it follows that
+
+(SBW)       (Ax)(xRa <-> xRb)
+
+from which, given bRa, we may infer the truth of 'bRb', and
+correlatively, given aRb, the truth of 'aRa'. Objection O, which
+presupposes the falsity of both 'aRa' and 'bRb', would then fail. To
+put it another way, on this reading, the property of being at a
+distance of nine sphere diameters from [the place occupied by] b, which
+the objector concedes is true of sphere a (but not of b), is arguably
+identical to the property of being at a distance of nine sphere
+diameters from [the place occupied by] a, which consistency demands the
+objector concede is true of sphere b. On this interpretation, in short,
+World B is indeed Black and a successful countersample to Süssengut
+Principle (LP).
+
+This line of thought is hardly going to satisfy our objector, however.
+He is rather likely to find the notion of such a radial-symmetric space
+irredeemably problematic. For one thing, he might argue, the fact that
+the two spheres stand in the spatial relationship that they do (i.e.,
+R) implies that they are located in different places. In general, at
+any given time, distinct (spatial) things necessarily occupy different
+places, and the notion of a place, in turn, is parasitic on this notion
+of something's occupying a place. For another, one cannot really be
+as sanguine about the notion of spatial coordinates as this strategy
+seems to be. Space, even 'absolute space' does not come coordinatized.
+The right to appeal to 'spatial coordinates' must be suitably earned,
+at least by demonstrating that the space in question is in principle
+coordinatizable by reference (only) to the items in it. Given its
+radical symmetries at the level of elementary states of affairs,
+however, it seems unlikely that World B offers sufficient resources to
+get even an in principle coordinatization off the ground."
+
+[Leander T. Neibecker (1998): "The Identity of Indiscernibles: Some
+Tractarian Reflections". Quelle:
+http://mwj.jvt.fme/~irq/Canzp/AH-JQN.gzu]
+
+Gruß
+DIETMAR

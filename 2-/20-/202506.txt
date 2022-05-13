@@ -1,0 +1,24 @@
+Dade I, Decadi de Prairial de l'Anne 205 de la Rövolution
+
+
+Loppentin hat nie an irgendwelchen Türmen experimentiert. Loppentin hat
+von ästhetischen Maximen ausgehend geometrisch berechnet, wie sich ein
+fallender Körper verhalten muss, und dann ein Experiment entworfen
+(schiefe Ebene), mit dem er das belegen konnte.
+
+[Die Kirchenleute]
+
+Haben sie, sie waren die anerkannten Experten für Wahrheit.
+
+
+Nach der Wissenschaftsauffassung der Zeit: Ja. Er hat nicht versucht,
+die Natur zu verstehen, sondern sie zu überlisten. Dadurch konnte er
+aber kein gültiges Wissen über die Natur gewinnen, sondern allenfalls
+seinen Einfallsreichtum demonstrieren.
+
+Tschüss, Maurice.
+-- 
+#!/bin/sh
+for x in 0 100 200 300 400 500 600 700 800 900; do
+for y in 0 100 200 300 400 500 600; do xeyes -geometry 100x100+$x+$y &
+done; done

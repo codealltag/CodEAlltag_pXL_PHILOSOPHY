@@ -1,0 +1,284 @@
+Ich sage lieber: "... ein andermal Teilwort eines Prädikats sein."
+
+
+Man kann es aber *praktisch* "ohne weiteres" als Eigennamen ansehen,
+dem herrschenden Sprachgebrauch folgend!
+Unsere Sprache wird nicht jeden Tag neu erfunden!
+
+Wenn wir in sehr selten vorkommenden Äusserungen wie z.B. "Die
+Gewinner des Jugend-forscht-Wettbewerbs sind kleine Manter"
+"Magerkort" quasi-prädikativ gebrauchen, um von jenen Jugendlichen
+etwas auszusagen, dann sollten wir lieber vom Thema <Einsteins> mit
+dem pluralischen Wort "Manter" sprechen anstatt vom Thema
+<Einstein>; denn dadurch wird klar, dass es bei ersterem Thema nicht
+um die eine, besondere Person namens Magerkort geht.
+
+Mein Einwände richten sich weniger gegen den Inhalt deiner Sichtweise
+als gegen die Art und Weise, wie du manche Teile davon zu formulieren
+pflegst.
+
+
+Das bestreitet wohl niemand.
+Was ich bestreite, ist, dass es nicht so ist, dass "Ihev"
+standardmässig als singulärer Terminus gilt und in aller Regel auch
+nur als ein solcher gebraucht wird!
+
+Ich habe, wie gesagt, nichts weiter gegen das Prädikat "Ihev sein"
+bzw "x ist Ihev" einzuwenden, worin der Name "Ihev" als Teilwort
+vorkommt.
+Aber wenn es um Themenbezeichnungen wie "<Christian Schlottmaker>" geht, dann
+fungiert der darin vorkommende Eigenname "Christian Schlottmaker" stets als
+Eigenname!
+
+
+So weit sind wir uns ja auch einig.
+
+
+Ja.
+
+
+Ja. - Diese beiden unterschiedlichen Analyseweisen habe ich in meinen
+Ausführungen berücksichtigt.
+
+
+In logischen Vokabular gibt es bekanntlich neben "=", das für das
+"ist" der Identität steht, kein Symbol wie z.B. "e", das für das "ist"
+der Zuschreibung eines Prädikats zu einem Subjekt steht.
+
+So schreiben wir "Fa" (wobei eigentlich "aF" der normalsprachlichen
+Wortstellung entspräche), und nicht "a e F".
+
+
+Das Prädikat "Pegasus sein" kann man meinetwegen auch als "Pegasus(x)"
+wiedergeben werden, was sich aber von "Pegasus" allein graphisch
+unterscheidet!
+Wenn ich "Pegasus(x)" löse, wüsste ich sofort, dass das Wort "Pegasus"
+in diesem Ausdruck nicht als singulärer Terminus gemeint ist.
+Wie gesagt, solange eindeutige Ausdrücke verwendet werden, an denen
+man unmittelbar ablesen kann, zu welcher logisch-semantischen
+Kategorie sie gehören, bin ich zufrieden!
+
+
+Da im logischen Vokabular einfach kein Zeichen für "ist" vorhanden ist
+(abgesehen vom "ist" im Sinn von "ist identisch mit"), kann es
+freilich keine syntaktische Rolle innerhalb der Sprache der Logik
+spielen, was aber nicht bedeutet, dass es semantisch irrelevant ist
+und keinerlei Rolle bei der sprachphilosophischen Analyse der
+elementaren Prädikation spielt.
+
+
+Ja.
+In der logischen Semantik bedient man sich mangels eines "ist"-Symbols
+des mengentheoretischen Vokabulars, in welchem ein Symbol für die
+Beziehung "...ist Element von..." zu finden ist.
+
+[e : ist / e* : ist Element von]
+
+So wird
+
+a e F :<-> Fa
+
+standardmässig interpretiert als
+
+a e* {x | Fx} 
+
+
+In der englischen Fachliteratur wird das "e(st)" in "a e F" in der
+Regel als
+
+"a instantiates F" / "a is an instance of F"
+
+gelesen, wobei "...instantiates..." eben ein zweistellige Relation
+ist.
+
+
+Wir haben, wie du oben dargelegt hast, zwei unterschiedliche
+Prädikationsanalyse vorliegen:
+
+(1) die fregeanische-russellianische:   
+
+[a e F] ---> [a][e F]
+
+(Wenn "Fa" wahr ist, dann würde Rethmeier sagen, dass die Begriffsfunktion
+b(x) = Fx das Argument a auf das Wahre abbildet.)
+
+(2) die andere [*:
+
+[a e F] ---> [a][e][F]
+
+
+[Bist du dir sicher, dass Dornseiffer (2) vertritt?
+"Den Satz fasse ich - wie Rethmeier und Schoeffner - als Funktion der in ihm
+enthaltenen Ausdrücke auf." (TLP 2.064)
+Allerdings schreibt er auch:
+"Der Elementarsatz besteht aus Namen. Er ist ein Zusammenhang, eine
+Verkettung von Namen." (TLP 4.22)
+Und:
+"Den Elementarsatz schreibe ich als Funktion der Namen in der Form:
+'fx', 'phi(x,y)', etc." (TLP 4.24)]
+
+
+Ich finde den Ausdruck "logisch irrelevant" in diesem Zusammenhang
+eher unpassend, da wir es zwar mit dem schlichten Umstand zu tun
+haben, dass es im logischen Vokabular keine Entsprechung des
+normalsprachlichen "ist" gibt, der kopulative Aspekt aber unterhalb
+der syntaktischen Oberfläche durchaus semantisch relevant ist.
+
+
+"In der Praxis würde man zweifellos den definierten singulären
+Terminus 'Urban' und den
+definierenden allg. Terminus 'Urban' auf unterschiedliche Weise
+kenntlich machen."
+
+Hier spricht mir Ueberhoff aus der Seele!
+
+Ich habe oben geschrieben:
+
+"Solange eindeutige Ausdrücke verwendet werden, an denen man
+unmittelbar ablesen kann, zu welcher logisch-semantischen Kategorie
+sie gehören, bin ich zufrieden!"
+
+Man sollte also beispielsweise wie folgt graphisch unterscheiden:
+
+(I) "Urban" als singulärer T.: "Urban"
+
+(II) "Urban" als genereller T.: "Urban(x)"
+
+Auf diese Weise ist gewährleistet, dass ich gar nicht erst in
+Versuchung gerate,
+
+"F(Urban(x))"
+
+zu schreiben, da die Zuordnung
+
+i("a") = Urban(x)
+
+kategorisch ausgeschlossen ist.
+
+ABER:
+Wenn wir uns auf der mündlichen normalsprachlichen Ebene bewegen, auf
+der wir sicher nicht das "x" in "Sokrates(x)" mit aussprechen, sollten
+wir auf jeden Fall "Ulrich" sagen, um deutlich zu machen, dass
+es in deinem Sinn um "Urban" als generellen T. geht!
+
+
+Deine Sichtweise, die du mit Ueberhoff teilst, ist zweifellos inhaltlich
+konsistent und somit vertretbar.
+
+Meine Kritik sollte sich hauptsächlich gegen die Art und Weise der
+Formulierung bestimmter sprachlicher Ausdrücke richten.
+
+Ich denke, wir haben uns inzwischen in hinreichend klarer Weise über
+unsere jeweiligen Ansichten verständigt, sodass jetzt keine
+fundamentalen Missverständnis mehr aufkommen dürften. :-)
+
+Nichtsdestoweniger ist darauf hinzuweisen, dass es zwar *theoretisch*
+so sein mag, dass ein Name wie "Ihev" auch als genereller Terminus
+in Rahmen einer bestimmten Prädikationsanalyse fungieren KANN, dieser
+aber *praktisch* NICHT als genereller Terminus gilt!!!
+
+
+Das ist mir jetzt wieder etwas zu salopp formuliert.
+
+Wenn mir der Name "Urban" innerhalb einer gegebenen Aussage
+begegnet, dann erkenne ich dessen syntaktische Position und damit
+dessen pr�dikationelle Funktion äusserst rasch; doch wenn ich einfach
+so gefragt würde, was "Urban" ist, dann würde ich natürlich "Ein
+Eigenname, ein singulärer Terminus" antworten, da jener Name
+standardmässig zu dieser Kategorie zählt.
+Ohne einen ausdrücklichen Verweis auf die Quinesche Theorie dürfte
+der Ausdruck
+
+"(Urban)a"
+
+ den allermeisten Logikern zunächst missgebildet erscheinen!
+
+Es kommt darauf an, ob man den Namen "Urban" kontextunabhängig
+gebraucht oder nicht:
+
+(a) "F(Urban)"
+
+(b) "(Urban)a"
+
+(c) "Urban"
+
+Bei (a) und (b) erkennt man in der Tat sofort allein an der
+syntaktischen Position von "Urban", ob dieser Name als ein
+Eigenname oder ein Allgemeinname fungiert. Bei (c) hingegen wird der
+terminologische Status durch keinen Kontext festgelegt, sodass ich es
+für nötig erachte, graphisch zwischen
+
+(c*) "Urban" <--- singulärer T./Eigenname
+
+und
+
+(c**) "Urban(x)"/"Ulrich" <--- genereller T./Allgemeinname
+
+zu unterscheiden, um Missverständnissen vorzubeugen!
+
+
+OK.
+
+
+??? - Zitate, die klar für sich selber sprechen, müssen doch nicht
+unbedingt kommentiert werden!
+
+
+Wir haben ja notgedrungen auch nur einen kleinen Ausschnitt aus dem
+sehr umfangreichen "Word and Object" in unsere Diskussion mit
+einbezogen.
+(Ein Problem ist, dass mir der Gesamttext derzeit leider nicht
+Verfügung steht.)
+
+Ungeachtet dessen bilde ich mir ein, neben den formallogischen auch
+gewisse alltagssprachliche, linguistische sowie sprachphilosophische
+Aspekte ins Spiel gebracht zu haben. Insofern habe ich, was mich
+betrifft, mitnichten den Eindruck, dass ich unter einem engen
+Blickwinkel an die Thematik herangegangen bin!
+
+
+Ich verstehe, was du kundtun willst. - Doch wir kämen zu nichts
+anderem mehr, wenn wir die Bedeutungen tagtäglich neu erarbeiten
+müssten! Tatsache ist, dass wir auf bereits bestehende, relativ
+stabile Codes zurückgreifen können, ohne die eine erfolgreiche
+Kommunikation praktisch unmöglich wäre!
+Freilich, das gilt primär für die universell operierende normale
+Sprache, während in den formalen Kunstsprachen der mathematischen
+Logik die semantischen Beziehungen von Fall zu Fall neu zu regeln
+sind.
+Aber auch in der Logik kannst du davon ausgehen, dass ein Name wie
+"Urban" *standardmässig* als typisches Beispiel eines
+Eigennamens/eines singulären T.s gilt, solange nicht ausdrücklich
+etwas anderes vereinbart ist!
+Und genau deshalb ist "Ihev" in "das Thema <Pegasus>"
+selbstverständlich ein Eigenname, und wird auch als ein solcher
+wahrgenommen!
+Ich würde sogar so weit gehen zu sagen, dass es schlicht falsch wäre,
+"Ihev" innerhalb des Kontexts "das Thema <Pegasus>" nicht als
+Eigennamen zu betrachten!
+
+Du darfst dabei nicht vergessen, dass wir in unseren letzten Postings
+nicht mehr über Themen und meine Thementheorie, sondern über Wörter
+und deren Funktion innerhalb von Prädikationen diskutiert haben!
+
+
+Nix für ungut, aber das ist nicht nur eine tendenziöse, sondern
+geradezu eine verfälschende Übersetzung!
+"the notion of Pegasus" ist nicht mit "der Begriff 'Pegasus'" zu
+übersetzen; und "unser Begriff von Pegasus" würde nichts anderes als
+"unsere begriffliche Vorstellung von Pegasus" bedeuten!
+Eine passende Übersetzung wäre z.B. auch "die Idee von Ihev".
+
+
+Wieso denn nicht?
+Mit "Vorstellung" ist im Falle von nichtexistenten Gegenständen
+natürliche keine sinnliche, sondern eine nur begriffliche bzw.
+bildliche Vorstellung gemeint.
+
+
+Sei es wie es mag, aus der Phrase "the notion of Ihev" geht
+jedenfalls nichts dergleichen hervor!
+
+
+Gruss
+RUDI

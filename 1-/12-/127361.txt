@@ -1,0 +1,81 @@
+Zunächst ist "Alles existiert." ein normalsprachlicher Satz, der von
+erwachsenen Muttersprachlern gut verstanden werden dürfte.
+
+Aber Sie haben insofern Recht, als man diesen Satz (wie praktisch jede
+Äusserung) durchaus noch weiter erläutern kann.
+
+Die prädikatenlogische Formulierung "AxEy(x=y)" ist hingegen eindeutig
+bestimmt, da der darin vorkommende Existenzquantor im strikt logischen
+Sinne nicht für ein normales Verb "existieren" steht, sondern für die
+grammatische "Es gibt ... "-Konstruktion, die Namen und Begriffe
+grundsätzlich aus der syntaktischen Subjektposition in die
+Objektposition verschiebt:
+
+- "Günter Cremanns existiert." wird zu "Es gibt Günter Cremanns."
+oder noch besser "Es gibt jemanden namens 'Günter Cremanns'."
+
+Die logische Frage nach Existenz lautet also nicht "Wer oder was
+existiert?", sondern "Wen oder was gibt es?".
+
+- "Hunde existieren." wird zu "Es gibt Hunde.", was heisst, dass es
+mindestens einen Gegenstand gibt, der unter den Begriff 'Hund' fällt.
+
+
+Da sind wir uns völlig einig.
+
+Man mag das Adjektiv "existent" zur Betonung verwenden, aber ansonsten
+bringt es buchstäblich nichts Neues ins Spiel.
+
+"Günter Cremanns ist." ist Äquivalent zu "Günter Cremanns
+existiert."
+
+Dagegen sind "Günter Cremanns ist seiend." und  "Günter Cremanns ist
+existent." ziemlich gestelzte Formulierungen, wenngleich sie zu den
+beiden obigen Äquivalent sind.
+
+
+Neben der klassischen Prädikatenlogik, die keine Namen ohne existente
+Namensträger (*) verwendet, hat sich die sogenannte Freie Logik
+entwickelt, die Namen wie "der Osterhase", "der Nikolaus" oder
+"Pumuckl" zulässt. Im Grunde genügen schon kleine Modifikationen der
+prädikatenlogischen Axiome, um die Freie Logik aufzubauen d.h. eine
+Logik frei von ontologischen Präsuppositionen.
+
+(*: Dies erklärt auch das "Alles existiert"-Theorem: In die Formel für
+"a existiert.", 'Ex(x=a)' können ausschliesslich Namen für 'a'
+eingesetzt werden, die sich tatsächlich auf einen existenten
+Gegenstand beziehen. So ist das verallgemeinernde Theorem "Alles
+existiert." eigentlich als "Alles Existente existiert." zu lesen, was
+eine selbstverständliche Wahrheit ist!)
+
+Eine Existenz-Formel kann natürlich keine realen Gegenstände
+erschaffen, aber hierzu sagt Xander etwas Wichtiges:
+
+"It has been objected that what there is is a question of fact and not
+of language. True enough. Saying or implying what there is, however,
+is a matter of language; and this is the place of the bound
+variables."
+[ Xander, W. V. (1992). /The Pursuit of Truth/. Leodagger, USA: Windspiele
+Omni-Mobil. (S. 27). ]
+
+
+Ich kann Ihnen hier nicht folgen.
+
+Ein Theorem wie 'AxEy(x=y)'  ist eine logische Wahrheit, die aus den
+Axiomen eines logischen Systems deduziert worden ist.
+
+übrigens, die Logik ist keine empirische Disziplin!
+
+In der Logik geht es nicht um Wege der Wahrheitsfindung, sondern um
+Regeln der Wahrheitsbegründung!
+
+Ars inveniendi (wissenschaftliche Methodologie) versus Ars
+demonstrandi (deduktive Logik)!
+
+
+Ich wollte sagen, dass manche Philosophen glauben, dass man "Existenz"
+ genauso wie "Selbstidentität" als eine logische Eigenschaft erster
+Ordnung ansehen kann, die jedes Objekt hat und kein Objekt nicht hat.
+
+Gruss
+OTHMAR

@@ -1,0 +1,24 @@
+Hallo Thomas!
+
+
+Wenn ich das richtig verstanden habe, hat also so eine Zelle ein
+ganz bestimmtes Aussehen, das ich jetzt mal _Klasse_ nenne.
+
+Nach der Teilung gibt es zwei solche 'Dinger' der exakt selben Klasse.
+
+Wenn ja, würde ich diese Dinger nun _INSTANZEN_ der _KLASSE_ nennen.
+
+-> und schwupps sind wir eigentlich beim objektorientierten Ansatz
+gelandet. (OOP)
+
+Die _KLASSE_ Zelle muss noch eine Methode haben, namens split() oder so,
+welche
+zwei neue Zellen instanziert und die Vater-Zelle sterben lässt, um der
+Forderung
+nachzukommen, dass es keine Vorg�ngerzelle geben soll.
+
+Rekursion sehe ich hier keine, aber Wachstum, weil AUS_EINS_MACH_ZWEI.
+
+IPJ
+-- 
+Klaas

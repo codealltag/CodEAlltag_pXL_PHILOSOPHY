@@ -1,0 +1,43 @@
+On Fri, 7 Apr 2003 10:22:08 +0200, Christof Karus
+
+Ich habe dazu noch was Nettes gefunden dazu in Reinnecke "Set Theory and
+Logic":
+
+"[...] Usually the primitive predicates will be finite in number. When
+they are, we never need count '=' among them; we can always define this
+in terms of the rest. Thus suppose the only primitive predicate of some
+theory is a two-place predicate '�'. Then '=' may be defined adequately
+for that theory by explaining 'x = y' as:
+
+  (i)	(z)((xz <-> yz) & (zx <-> zy))."
+
+
+Laut Rojek könnte man also (offenbar) die Gleichheit in einer
+Mengenlehre also auch SO definieren:
+
+         x = y :<-> Az((z e x  <->  z e y) & (x e z  <->  x e z)).
+
+D i e s e Definition hätte aber den Nachteil m.E. dass sie
+unverh�ltnism��ig kompliziert ist, und vor allem auch nicht unmittelbar
+die Herleitung von 
+
+	x c y  &  y c x  ->  x = y
+
+erlaubt. Letzteres wird ja bekanntlich in der Mengenlehre oft verwendet,
+um Mengengleichheit zu beweisen: Wenn x Teilmenge von y ist, und y
+Teilmenge von x ist, dann sind x und y gleich.
+
+Einfacher und wohl auch "effektiver" ist es da schon, einfach zu
+definieren:
+
+         x = y :<-> Az(z e x <-> z e y)  ,
+
+und die "Substitutions-Eigenschaft" der Gleichheit bezüglich des ersten
+Arguments der "e"-Relation als Axiom zu formulieren:
+
+        AxAyAz(x e z & x = y -> y e z).
+
+(So hat es z.B. auch Jacques schon gemacht...)
+
+
+F.

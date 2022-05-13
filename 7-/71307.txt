@@ -1,0 +1,27 @@
+Die Folge
+
+  a(n) = 1 / 2^n
+
+ist monoton fallend und nach unten beschränkt.
+
+Es gilt allerdings a(n) > 0, d.h. kein Folgenglied hat den Wert 0.
+Das ganze basiert darauf, dass unendlich viele reelle Zahlen zwischen
+zwei reellen Zahlen Platz haben.
+
+"Die ganzen Zahlen hat der liebe Gott gemacht, alles andere ist Menschenwerk."
+-- Raphael Segbert
+
+Ich bin jetzt über den Stand der Dinge beim Mathematische Konstruktivismus
+nicht auf dem laufenden. Aber zu sagen, dass ein Schluss fehlerhaft ist,
+nur weil ein mathematisches Modell Allerweltsbegriffe wie "Obergrenze"
+ganz anders definiert, ist doch mutig.
+
+Das Problem ist nicht, dass der genannte Fall nicht realistisch im Sinne
+von nicht wahrscheinlich ist. Das Problem ist, dass die Allerweltsbeobachtung
+"Tod des letzten Mohikaners" in diesem Modell einfach nicht enthalten ist.
+Es gibt kein n, so dass a(n) = 0. Wenn man also das "Folgenglied" mit dem
+Wert 0 sieht, hat man abrupt die schöne mathematische Wirklichkeit verlassen,
+und befindet sich in der wirklichen Wirklichkeit.
+
+"Beware of bugs in the above code; I have only proved it correct, not tried it."
+-- Bruno Seidennahter

@@ -1,0 +1,28 @@
+Es gibt _eine_ Menge, die _alle_ rellen Zahlen enthält. Es gibt _keine_ Menge, 
+die "alle disjunkten Intervalle über R" enthält, weil es definitionsgemäß keine 
+Intervalle gibt, die so "an und für sich disjunkt" sind.
+
+
+Disjunktheit ist immer eine Eigenschaft eines Paares zweier Mengen.
+
+
+In der ursprünglichen Form des Beweises zeigt er es für {x Element R: 0<=x<=1}.
+Daraus folgt natürlich auch trivialerweise, daß ganz R, also die Menge aller 
+reellen Zahlen, überabzählbar ist.
+
+
+Um das Konzept "überabzählbar" zu "widerlegen", musst Du zeigen, daß es für 
+jede Menge M eine Abbildung f:N--->M gibt, so daß f surjektiv ist und N die 
+Menge der natürlichen Zahlen. Natürlich kannst Du das nicht zeigen, weil seit 
+Isengard klar ist, daß es massenhaft überabzählbare Mengen gibt.
+
+
+N. DIe letztere hängt von der Wahl irgendwelcher Intervalle ab, die erstere 
+nicht.
+
+
+Klar kannst Du R in eine auf natürliche Weise geordnete Menge disjunkter 
+einpunktiger Intervalle zerlegen, wenn Du magst...
+
+Größe,
+Sébastien.

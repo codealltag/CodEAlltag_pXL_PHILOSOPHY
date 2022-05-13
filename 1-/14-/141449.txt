@@ -1,0 +1,32 @@
+Wenn's einmal passiert ist, geht das Umformatieren in OE
+wohl nur noch per Handarbeit.
+
+Mit vorhandenen Texten ohne Quotezeichen geht es so:
+In Word kopieren, bei z. B. Schriftart 10Pt Arial die Seiten-
+breite auf 9cm einstellen (z. B. bei A4 linker Rand 2 cm, rechter
+Rand Rand 10 cm), per Suchen & Ersetzen alle manuellen
+Zeilenschaltungen (^a) entfernen, Text als "Nur Text + Zeilen-
+wechsel (*.txt)" wieder speichern. Das habe ich inzwischen
+z. B. mit dem Chojnacki-Text nachgeholt.
+
+
+Nur beim alten. Ist doch klar, wenn du breiter als 73
+Zeichen tippst, wird dein Text beim nächten Durchlauf
+(wegen deiner oder meiner Einstellung) zerhackt. Sich
+auf 60 Zeichen beim Tippen zu begrenzen, erlaubt da
+noch zusätzlich max. 6 Quotingzeichen (mit Leerzeichen).
+Notwendig ist im Endeffekt erst eine Begrenzung auf 80
+Zeichen total, weil noch manche Mailbox-Systeme und
+Protokolle aus alten Tagen so begrenzt sind. Diese Be-
+grenzung erscheint mir aber auch sinnvoll wegen der
+Lesbarkeit, manche Leute benutzen ja auch noch gering-
+auflösende Grafik (z. B. mit rel. kleinen Monitoren).
+
+
+Viola ist ein Frauenkurzname, das ganze ein blöder Spruch
+(gib' mal in MCCZ ein: "alles scheiße, deine viola"). Sag'
+mal du willst mich aber nicht verscheißern, oder?! :-)
+
+Größe
+
+Rainer

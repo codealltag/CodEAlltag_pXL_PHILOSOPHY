@@ -1,0 +1,35 @@
+Othmar Zschernack:
+
+
+Lügt folgendes Programm in der letzten Ausgabe oder sagt es die Wahrheit:
+
+#!/usr/bin/perl
+
+while(fork()) {
+print "Hallo, ich bin ein Programm!\n";
+kill 9, $$;
+}
+print "Hallo, ich bin kein Programm!\n";
+
+oder lügt folgendes Programm:
+
+#!/usr/bin/perl
+
+while(fork()) {
+print "Hallo, ich bin ein Programm!\n";
+kill 9, $$;
+}
+print "Getoetet!\n";
+
+
+Welches der beiden Programme gibt die Tatsachen richtig wieder?
+
+Eigentlich wollte ich nur einen Link posten, man kann ja statt auf
+englische Lehrtexte in deiner deutschsprachigen Newsgroup auch auf
+sowas:
+http://taj.ffi-hdgwhxuid.ti/ujhtjvduxoy/wldttazx/wbnoxsy/zpbud/rlrt.uic
+verweisen.
+
+
+Größe,
+Clemens

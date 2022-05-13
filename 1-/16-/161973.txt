@@ -1,0 +1,132 @@
+Ja, aber zum einen hat unsere Sprache Mittel, die über Eigennamen und
+Kennzeichnungen hinausgehen, z.B. die Indexikale >dies<, >hier<,
+"Situationen" hat, prinzipiell auf jede einzelnen beziehen können. Und
+auch dann, wenn man nur abzählbar viele Kennzeichnungen hat, gibt es,
+wenn der zugrunde gelegte Bereich auch nur abzählbar ist,
+überabzählbar viele mögliche Zuordungen: 
+aleph_0^aleph_0 > alef_0 
+
+
+Ja, der math. Teil ist wohl auch zwischen uns unstrittig. Konstruiert
+wird das Standardmodell einer widerpsruchsfreien Menge S von
+L-Aussagen einer 1-stufigen Prädikatenlogik ja durch  sukzessive
+Erweiterung der Sprache durch Konstanten, so dass es für jede
+L-Aussage >(E x) F< eine Konstante >a< gibt mit >(E x) F -> F(x\a)< in
+S*. Das Modell entsteht dann durch Äquivalenzklassenbildung auf der
+Menge der kontanten Terme und ist im Fall von card(L)=aleph_0 selbst
+schon abzählbar.(wie im Fall von ZF).    
+
+
+Deine Frage ist selbst schon "unmöglich", da sie eine Position
+einnehmen möchte, die außerhalb der Welt (des Universums) liegt, eben
+einen Gottesstandpunkt:
+
+Nehmen wir an, W wäre die Welt, die alle existierenden Objekte
+enthält, es gelte card(W)=alef_0 und W |= T. Nun ist T an sich ein
+uninterpretiertes Kalkül, die Aussage, dass T in W wahr ist, ist eine
+metasprachliche Aussage. Die Frage ist nun, in welcher Welt
+card(W)=alef_0 wahr ist. Wenn W *unsere* Welt wäre, so kann wegen
+P(W)>alef_0  P(W) nicht Teilmenge von W sein kann, obwohl alle
+Elemente von P(W) zu unserer Welt gehören. Also ist unsere Welt nicht
+W, im Widerspruch zur Voraussetzung.
+
+Du kannst also unserer Welt, in der die Aussagen der Sprache, die wir
+gebrauchen, wahr sind, nicht selbst von Standpunkt innerhalb der Welt
+als *Objekt* betrachten (z.B. als Menge). Wenn du das tust, musst du
+Gottestandpunkt außerhalb der Welt einnehmen, oder gerätst, wie oben,
+in einen Widerspruch.   
+
+
+Definiere die doch bitte 'mal. Und berücksichtige dabei auch
+Indexikale. 
+
+
+s.o.
+
+
+Und eine Hypothese/Theorie, die über überabzählbar viele Objekte
+spricht, ist durchaus überprüfbar, und zwar im Sinne Klopper:
+
+"Ich sagte, dass Vorhersage nicht der Hauptzweck der Wissenschaft ist,
+sondern nur der Prüfstein. Sie ist ein negativer Test, ein Test durch
+Widerlegung. Ich füge als weiteren Rückzieher hinzu, wider dem
+Positivismus, daß ein Satz nicht einmal testbar sein muß, um als
+respektabler wissenschaftlicher Satz zu zählen. Ein Satz ist in meinem
+liberalen oder holistischen Sinn testbar, wenn er eine Menge bereits
+akzeptierter Sätze zu einem kategorischen Beobachtungssatz
+komplettiert, der nicht schon von den zuvor akzeptierten Sätzen
+impliziert wurde." (Kühni, Naturalismus -oder: Nicht über seine
+Verhältnisse leben)
+
+Beobachtungssätze sind z.B. >Das Messgerät zeigt 3 A an.< oder >Da ist
+ein Kaninchen.<, wobei diese Satz, geäußert in verschiedenen
+Situationen, wegen des wechselnden Bezugs von >da<  und >das
+Messgerät< unterschiedliche Propositionen ausdrücken, also
+verschiedene Bedeutung haben. 
+
+
+Wir können in einer Sprache auch nichts über den Objektbereich *als*
+Objekt aussagen, da er nur in einer Metasprache als solcher aufgefasst
+werden kann. (Meta-und Objektsprache sind dabei *relativ* aufeinander
+bezogen) Wir können aber trottzdem in einer Sprache, die wie die
+Mengenlehre ausdruckstark genug ist, das Prädikat >card(x)< zu
+definieren, über *Teilbereiche* sprechen. Wenn wir also eine
+physikalische Theorie T haben, haben wir deren implzite Ontologie zu
+akzeptieren, also im Fall der QM die überabzählbaren Hilberträume,
+sofern wir keine Theorie T' mit gleicher empirischer Signifikanz als
+Alternative bereitstellen können, die mit einer weniger
+"verschwenderischen" Ontologie auskommt.
+
+Der Umweg darüber, dass wir die Theorie T nur objektsprachlich
+betrachten, scheitert daran, dass kein Modell, das für T gilt, mit der
+Welt identisch sein kann, in der wir Aussagen mit Hilfe der
+Metasprache machen. (andernfalls heben wir die Unterscheidung zwischen
+Objekt-und Metasprache auf, und erhalten Widersprüche, wie weiter oben
+demonstriert)  
+
+
+Das Konzept stammt von Amtsbüchler, der zwischen Kompetenz und Performanz
+unterscheidet. Seine Autonomiethese, die er mit einer Fälle
+empirischen Materials stützt, sagt aus, dass wir ein genetisch
+verankertes "Syntaxmodul" besitzten, das im Prinzip erlaubt, die
+hierarchisch struktierte Syntax der natürlichen Sprachen (die
+Univeralgrammatik) zu analysieren.( und dieses Modul fehle eben
+Tieren). Die Regeln, nach der wir die Sätze analysieren, erlauben,
+dass jeder grammatische Satz beliebiger Länge strukturell zerlegt
+werden kann, obwohl wir, bei denen dieses implzite Wissen faktisch
+instantiiert ist, aufgrund der Gedächtniskapazität u.�.
+Einschränkungen faktisch nur Sätze mit beschr�nter Länge verstehen
+können. 
+
+
+Die Frage ist hier aber, ob sie Sätze nicht als Ganzes lernen, also 
+jeweils als semantische Einheiten betrachten. Um das Prädikat      
+a,b die Sätze >Bring a zu b.< beherrschen, um obiges auszuschließen.
+Die andere Frage ist, ob sie es nicht auch auf >Apfel Kiste.< und
+von anderen Verben unterscheidet, gar nicht ankommt, etc.  
+
+
+Die Syntax ist tatsächlich unproblematischer als die Semantik; es geht
+aber nicht darum, natürlichsprachliche Sätze nur einfach in einen
+Parsebaum auszudrücken, entscheidend ist hier, das dies allenfalls die
+Voraussetzung ist, um die Sätze zu verstehen, deren Bedeutung zu
+erfassen. Solche Projekte wie CYC sind da wohl eher fehlgeleitet. Und
+SHRUDLU "funktionierte" AFAIK ja nur in einer künstlichen Welt. 
+
+[...]
+
+N, es müßte erst 'mal argumentiert werden, dass Zimmer (oder alle
+physikal. Syteme) überhaupt zum Sinnhaftigkeitsbereich des Prädikats
+*beliebig* etwas definieren. (ansonsten ginge auch: 
+Def. x denkt gdw. x ist ein Mensch oder x ist ein Stein.
+Also denken Steine.
+) 
+Der Zimmer-Einwand ist insofern ein ad hoc Argument, genauso gut
+könnte es der Schuhabsatz des Tanneberg-im-Zimmer o.�. sein, das Zimmer
+ist in Bezug auf die erbrachte "kognitive Leistung" irrelevant; Tanneberg
+könnte den Turing-Test, leicht verändert, auch auf Parkbänken
+stattfinden lassen, ohne das nun der Parkbank eine kognitive Leistung
+zugeschrieben werden könnte. 
+
+
+roland

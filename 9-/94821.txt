@@ -1,0 +1,59 @@
+IMO trifft es das Beispiel mit den Geldbeträgen auf dem Konto am besten. 
+Ich kann 100 Euro vom Giro aufs Sparkonto überweisen, aber nicht von der 
+Bank verlangen, sie mögen bitte genau die Euros 101-200 überweisen.
+Ich kann feststellen, das 5 Photonen im Zustand A, 4 in B und 2 in C 
+sind, aber wenn eins von A nach B übergeht, kann ich nicht sagen, 
+*welches* der 5
+Man kann noch sehr viel feinere Unterscheidungen treffen, z.B. schlägt 
+Theres Steltz in einem ähnlichen Kontext [1] fünf Stufen vor (es wird 
+ein bißchen analytisch):
+
+1) kontinuierlich anhäufbar: x gehört zur Art K und für alle y der Art K 
+gehört die mereologische Summe von x und y z ebenfalls zur Art K
+[Bsp. "unteilbare", d.h. konzeptuell nicht mehr aufteilbare "Dinge" wie 
+  Spaß oder Kreativität, von denen man nur sagen kann, dass hier etwas 
+mehr davon ist als dort]
+
+2) x ist _diskret anhäufbar (oder meßbar), wenn x zur Art K gehört und 
+x ein Teil von S ist, das koextensiv mit einer Summe nichtüberlappende 
+Teile p_i der Art K ist, und wenn für jedes y,z, wenn y und z Teil von S 
+sind, auch ihre Summe ein Teil von S ist.
+[Bsp. 100 "einzelne" Liter Wein in einem Fass Wein, allgemein Stoffe, 
+die durch Massenterme bezeichnet werden]
+
+3) x ist _aggregierbar_, wenn x diskret angehäuft werden kann und für 
+jede Summe S_i von Entitäten der Art K gibt es genau ein S_k, so dass 
+S_k koextensiv mit S_i ist und S_k ist eine Summe nichtüberlappende 
+K-Atome (d.h. Teile der Art K, die keine Teile der Art K haben)
+[Bsp. "unstrukturierte Gruppen diskreter Einzeldinge", z.B. je zwei 
+Gruppen von Fußballfans sind wieder eine Gruppe von Fußballfans, je zwei 
+  Haufen Stroh wieder ein Haufen Stroh, allgemein so etwas wie "körnige" 
+Stoffe]
+
+4) x ist _kardinalz�hlbar_, wenn x aggregierbar ist und es eine 
+Abbildung f:P->N von K-Atomen in die natürlichen Zahlen gibt.
+[Bsp. Murmeln in einer Box, die durch Wiegen der gesamten Box "gezählt" 
+werden. Wie im anderswo genannten Bsp. der Schafe verzichtet man 
+natürlich nur auf eine Information, die man eigentlich haben könnte. 
+Aber es scheint keine besser alltagssprachliche Analogie als die oder 
+die mit den Geldbeträgen zu geben]
+
+5) x ist _ordinalz�hlbar_, wenn es kardinalz�hlbar ist und je zwei 
+K-Atome distinkt sind.
+[Bsp. "normale" abzählbare Einzeldinge mit deskriptiver oder primitiver 
+Diesheit]
+
+Photonen sind wohl 4), aber nicht 5), d.h. sie sind partikulär, aber 
+nicht individuell.
+(Steltz selbst hat IIRC eine andere Theorie im Rahemn eienr 
+Prozessontologie, aber das führt zu weit, ich weiß es auch nicht mehr genau)
+
+NICK
+
+FABRICE
+
+[1] Steltz, J. (2002):
+Quanta, Tropes, or Processes: Ontologies for QFT: Beyond the Myth of 
+Substance, in: Disterhoft, M./Cölln, H./ Fennekohl, A. (Hrsg.) (2002):
+Ontological Aspects of Quantum Field Theory, Nottau, Icker, 
+u.a., S. 53-97. Obiges von S.76f übersetzt und etwas erläutert.

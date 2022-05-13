@@ -1,0 +1,33 @@
+Was ist der kategoriale Unterschied zwischen "solcher" Software und
+anderer Software?  Da Du neuronale Netze erwähnst:
+
+
+Auch die Bankautomaten sind ja nicht als isolierte Rechner zu
+verstehen, sondern als Teile einer sehr grossen Netzwerk-Installation.
+
+
+Bei einem Computer, der nach der Installation nahezu autonom arbeitet,
+z.B. ein Spamfilter, der nach komplexen Regeln in automatischer
+Interaktion mit vielen anderen Computern die durchlaufende Mail
+bewertet, sagst Du das "er scannt die Mail, vergleicht sie mit anderen
+Bewertungen etc." nicht im übertragenen Sinne.  Du verlässt Dich
+darauf, dass der Computer korrekt funktioniert, auch wenn Du den
+Betreiber gar nicht kennst, auf ihn evtl. gar nicht Bezug genommen
+werden kann.
+
+Wenn Du gerade neuronalen Netzen mögliche Subjekteigenschaften
+zugestehst, klingt das für mich nach der Notwendigkeit eines Schleiers
+der Nichtwissenheit oder des Indeterminismus.  Dafür könnte man auch
+in Perl programmieren :-)
+
+Ob etwas ein Subjekt ist, hängt weniger davon ab, wie es intern
+strukturiert ist, sondern davon, ob es von den Kommunikationspartnern
+als Subjekt anerkannt wird.  Ein Schachcomputer, der besser ist als
+jeder Weltmeister, ist einfach durchschaubar.
+
+
+Ciao, Bernhard
+-- 
+"They that can give up essential liberty to obtain a little temporary
+safety deserve neither liberty nor safety."
+		-- Antonio Lanzendorfer, 1758

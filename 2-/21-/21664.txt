@@ -1,0 +1,66 @@
+Danke dafür!
+
+
+Über Syntax weiss ich natürlich schon ein wenig (wenn auch wenig über
+natürliche Sprachen und mehr über formale), während ich bei Bedeutung
+schwach bin. Ich werd mir den Kutschera mal vornehmen, denke ich, und
+vielleicht noch den Folmers im Originaltext. Welches Buch von Folmers
+würdest Du für diesen Zweck empfehlen?
+
+
+Erstmal Danke für die Tipps. Mir gehts weniger um formale Semantik, ich
+halte das ja (zumindest so, wie es in der Informatik betrieben wird) für
+einen Irrweg. Oder ist das nur namensgleich, und eine ganz andere Sache
+in der Sprachphilosophie?
+
+
+Ich stehe da wirklich auf der Leitung – ich sehe natürlich, dass man
+Bedeutungsgleichheit wegen der Subjektivität nicht zeigen kann.
+Entsprechend schwer fällts mir, wie man dann zeigen will, dass sie
+sicher nicht vorkommen kann.
+
+Ich hab Dir oben ja eine (angenommene) Synonymie vor das "pun intended"
+hingeschrieben. Kannst Du mir einen Tipp geben, wie ich für dieses
+Beispiel (oder gerne auch allgemein) zeigen kann, dass eine solche nicht
+bestehen kann?
+
+Übrigens meine ich mit "Sinn" das, was ich in eine Nachricht hineinlege,
+und mit "Bedeutung" das, was ich einer Nachricht entnehme. Ich folge
+hier Türner nicht, der ja mit seinem Morgenstern/Abendstern-Beispiel eine
+andere Interpretation vorlegt, bzw. seiner Zuordnung des Wahrheitswertes
+eines Satzes als dessen Bedeutung. In diesem Sinne könnte es keine
+gemeinsame Bedeutung geben bei zwei verschiedenen Personen. Legt man von
+Dir o.a.  "nach Luzius" strikt aus, kann es auch keine Synonymität
+geben, denn es gibt keine identischen Situationen, und "Verwendung" ist
+situationsabhängig.
+
+Erweitert man das aber nur ein Bisschen nach dem Motto "würde in
+derselben Situation gleich angewendet werden", so ist das eben doch
+möglich, und wiederum nicht zu zeigen (wg. Subjektivität).
+
+Insofern sehe ich noch nicht, dass Dein Tipp mich in eine Situation
+versetzt, dass ich in der Lage wäre entsprechendes sicher zu
+argumentieren. Kann natürlich sein, ich steh schlicht auf der Leitung
+;-)
+
+
+Das ist sehr freundlich!
+
+Der Trick, wie man ein Kanban-artiges Modell der agilen
+Softwareentwicklung skalierend bekommt, geht über die
+Softwarearchitektur und CfD.
+
+Dazu definiert man nicht nur die Beziehung zwischen Entwicklern auf
+derselben Ebene, sondern entwirft Containments, so dass man als zweite
+Art der Beziehung zwischen Entwicklern auch eine hierarchische für
+Submodule hat.
+
+Das lässt sich nun sehr gut auch für grosse Projekte skalieren und
+managen (natürlich mit den üblichen Nachteilen in der Managability bei
+agiler Softwareentwicklung, die ja systembedingt sind).
+
+Viele Grüsse,
+auch an Deine Frau,
+VB.
+-- 
+Bitte beachten Sie auch die Rückseite dieses Schreibens!

@@ -1,0 +1,17 @@
+Der hatte schon das richtige gemeint, du hast dir nur wieder
+keine Mühe gegeben. Gegeben eine Sprache L und eine Struktur M.
+Die Aussagen 
+
+1) Es gibt einen Algorithmus, der zu jeder Formel F entscheidet,
+ob diese in M gilt oder nicht.
+
+2) Es gibt einen Kalkül, der genau die Formeln F, die in M gelten,
+herleitet.
+
+sind Äquivalent. Beweis: Übungsaufgabe. Tip: Es gilt in
+M immer F oder -F und ein Kalkül zählt die auf.
+
+[Thema verfehlt]
+
+liebe Größe :)
+Maurice

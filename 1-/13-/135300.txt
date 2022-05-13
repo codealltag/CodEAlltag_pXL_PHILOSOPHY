@@ -1,0 +1,67 @@
+Lies dir
+
+        http://zmo.bejnqiptw-uxjevsihm.tuv/eygdga5.rvst
+
+durch, es geht hier nicht um die Frage, /ob/ die Menschheit austirbt,
+sondern, unter der Bedingung, dass es nur _endlich_ viele Menschen
+gibt, es rational ist, anzunehmen, dass sie früher als später
+untergeht. Das /eigentlich/ Interessante ist aber nicht das
+Doomsday-Argument selbst, sondern allgemein die Struktur von
+Argumenten, die ein "anthropisches Prinzip" in Anspruch nehmen.
+
+Nun zur Mathematik: Die Einzelereignisse meines
+Wahrscheinlichkeitsraums (W,A,P) besagen, dass der k-te geborene
+Mensch in einem Universum lebt, in dem es genau n Menschen in
+Vergangenheit, Gegenwart und Zukunft gibt (k,n in N).  Repräsentiert
+wird ein solches Einzelereignis durch ein Paar <k,n>. Wir haben also
+
+                 W:={<k,n> | k<=n; k,n in N}
+
+Eine Partition von W ist (W_n)_n mit W_n:={<k,n> | k<=n}, (n in N), die
+die Laplaceschen W-Räume (W_n,Pot(W_n),P_n) ergeben. Wir setzen nun
+A=Pot(W) und für (a_n)_n, der Dichte einer Verteilung auf N (wobei wir
+a_n<1 für alle n annehmen), und B in Pot(W) definieren wir
+
+                P(B):= sum[k=1..oo] a_k P_k(B \cap W_k)
+
+Das Tripel (W,Pot(W),P) ist so ein W-Raum, und für a_n>0 und B in
+Pot(W) gilt 
+
+                         P(B|W_n)=P_n(B \cap W_n).
+
+Das Ereignis E, dass der k-te Mensch existiert, ist hier offenbar
+{<k,n> | n>=k}.
+
+
+"objektiv" (in Anführungszeichen) bezieht sich auf den Schritt II im
+obigem Link, in dem /Gott/ würfelt, in meinem Fall mit einem
+unendlichseitigen Würfel. Es ist allerdings nicht meine Absicht, für
+einen /objektiven/ W-Begriff zu argumentieren, nimm einfach an, es
+seien /subjektive/ Wahrscheinlichkeiten, an der Struktur des Arguments
+ändert es nichts.
+
+
+Was sagt der Satz genau aus?
+
+
+Das Argument ist kein /Beschiss/, lies dir einfach die Darstellung noch
+einmal durch.
+
+
+Kein Wunder, die Möglichkeit, dass es unendlich viele Menschen gibt,
+wird hier _explizit_ ausgeschlossen.
+
+[...] 
+
+Du meinst vermutlich einen Galton-Watson-Prozess, bei dem die
+Zufallsvariablen "Anzahl der Nachkommen" für jedes Individuum
+(offenbar handelt es sich dabei nicht um Menschen, sondern um sich
+selbst befruchtende Wesen) /gleichverteilt/ sind. Dann hängt die
+Antwort auf die Frage, ob die Population fast sicher ausstirbt, von
+der erzeugenden Funktion dieses Prozesses ab, im Fall E(N)<=1 stirbt
+sie in der Tat fast sicher aus. Die Aussage über das asymptotische
+Verhalten derartiger Prozesse hängt allerdings stark von der
+Prämisse der Gleichverteilung ab.
+
+
+nico

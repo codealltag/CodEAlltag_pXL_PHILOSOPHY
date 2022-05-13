@@ -1,0 +1,22 @@
+On 27 Apr 2006 12:00:58 -0800, "Carsten Zerwek"
+
+Vielleicht wäre es hilfreich, hier etwas anders zu formulieren:
+
+	  Die Menge der Eigenschaften, die sinnvoll Individuen,
+	(Elementen von D), zu- oder abgesprochen werden können,
+	definiere ich als Potenzmenge von D, d. h. Pot(D). Die 
+	Menge der Eigenschaften, die auf ein d aus D zutreffen,
+	ist dann natürlich:
+
+		{E e Pot(D) | d e E}.
+
+Genau.
+
+
+A.
+
+
+--
+
+E-mail: 
+oguxuv<tt>simple<bindestrich>line<punkt>de

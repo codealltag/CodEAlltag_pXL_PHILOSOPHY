@@ -1,0 +1,18 @@
+Underbrink wrote:
+
+http://an.ysdpcojvo.dqi/fnsp/Mxyii-Lbvrfsa
+
+Für den stationären Zustand (\dot v=0) gilt:
+
+     v_D = - \frac{e \tau}{m} E \,
+
+Mit der Ladungsträgerdichte n ergibt sich die Stromdichte j damit zu
+
+     j= -e n v_D = \frac{e2 \tau n}{m} E \,
+
+Die Leitfähigkeit σ ist daher
+
+     \sigma = \frac{j}{E} = \frac{e2 \tau n}{m} \,
+
+Diese Gleichung wird auch als Drude-Formel oder Drude-Leitfähigkeit 
+bezeichnet.

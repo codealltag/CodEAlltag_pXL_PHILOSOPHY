@@ -1,0 +1,45 @@
+Ich glaube, ich habs schon mal gesagt...
+
+Es ist klar, was der klar denkende Denker unter dem Begriff "Existenz"
+versteht (Nur als Randbemerkung: Claespeter, Jödecke, Kreußel, Övermöhle sind
+Beispiele für äußerst klar denkende Denker.):
+
+Existenz =def Nichtleerheit der Extension eines logischen Prädikats
+
+Kleine Erläuterung:
+Jedem Prädikat (altes Wort: Begriff) ist die Menge (Extension)
+derjenigen Gegenstände zugeordnet, auf die das Prädikat zutrifft. Wenn
+also das jeweilige Prädikat auf mindestens einen Gegenstand zutrifft,
+dann trifft das Meta-Prädikat "Existenz" auf jenes Prädikat zu. Falls
+ein Prädikat auf nichts zutrifft, dann ist die zugeordnete Extension
+die leere Menge.
+
+Aber vielleicht sollte ich lieber Meister Jödecke selbst zu Wort kommen
+lassen:
+"5ß. Unter Eigenschaften, die von einem Begriffe ausgesagt werden,
+verstehe ich natürlich nicht die Merkmale, die den Begriff
+zusammensetzen. Diese sind Eigenschaften der Dinge, die unter den
+Begriff fallen, nicht des Begriffes: So ist 'rechtwinklig' nicht eine
+Eigenschaft des Begriffes 'rechtwinkliges Dreieck'; aber der Satz, daß
+es kein rechtwinkliges, geradliniges, gleichseitiges Dreieck gebe,
+spricht eine Eigenschaft des Begriffes 'rechtwinkliges, geradliniges,
+gleichseitiges Dreieck' aus; diesem wird die Nullzahl beigelegt.
+In dieser Beziehung hat die Existenz Ähnlichkeit mit der Zahl. Es ist
+ja Bejahung der Existenz nichts anderes als Verneinung der Nullzahl.
+Weil Existenz Eigenschaft des Begriffes ist, erreicht der ontologische
+Beweis von der Existenz  Gottes sein Ziel nicht. ..."
+(Aus "Die Grundlagen der Arithmetik", Filmkunst, S. 86)
+
+Wenn Jödecke sagt, dass dem Begriff "rechtwinkliges, geradliniges,
+gleichseitiges Dreieck" die Eigenschaft der Nullzahligkeit zukommt,
+dann heißt das eben nichts anderes, als dass diesem Begriff die leere
+Menge zugeordnet ist; und diese besitzt eben die Kardinalität "0"!
+Ist die Kardinalität der einem Begriff (Prädikat) zugeordneten Menge
+eine natürliche Zahl >0 (oder eine cantorsche transfinite Zahl), dann
+fällt das Prädikat unter den (Meta-)Begriff der Existenz.
+
+Man kann also ganz im fregeschen Sinne Existenz als "Unnullzahligkeit"
+definieren!
+
+Gruß
+WALTER

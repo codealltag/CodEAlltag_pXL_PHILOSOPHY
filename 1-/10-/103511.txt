@@ -1,0 +1,20 @@
+Aus Seite 21 steht:
+
+"Ist nämlich eine konsistente Theorie T gegeben, so ist weder der
+objektsprachliche Satz Con_T, noch ~Con_T /in/ T beweisbar".
+
+Das ist falsch, wie man etwa in
+
+  "Einführung in die mathematische Logik, A. Oberstebrink-Gall"
+
+im Kapitel 7 nachlesen kann. Der 2. GUV verbietet zwar im speziellen
+ZFC|-Con(ZFC) (unter der Voraussetzung der Konsistenz von ZFC), nicht
+jedoch ZFC|-~Con(ZFC).
+
+Oberstebrink-Gall zeigt dann, dass es Theorien T gibt, die bei Annahme ihrer
+Konsistenz und durch Hinzunahme von Con(T), also T+Con(T), inkonsistent
+werden.
+
+
+Gruß, Rudolf.
+--

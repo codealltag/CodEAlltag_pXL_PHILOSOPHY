@@ -1,0 +1,37 @@
+Nein Rupert, nochmal... eine Definition ist eine SPRACHREGELUNG.
+
+Ich behaupt dabei also nicht die Identität "zweier" Begriffe, sondern
+ich erkläre, wie ich eine bestimmte sprachliche Wendung _verstehe_ bzw.
+verstanden wissen will.
+
+Was also definiert wird, ist die "Bedeutung" (bzw. der Sinn nach Frege)
+des Ausdrucks:
+
+	"A ist identisch mit B".
+
+Und die Definition bringt dann zum Ausdruck, dass ich darunter eben
+
+	"Alle Eigenschaften, die A besitzt, besitzt auch B, 
+	und umgekehrt."
+
+verstehe. Der Ausdruck "A ist identisch mit B" ist daher eine
+_Abk�rzung_, für das letztere.
+
+SO musst Du 
+
+	x = y =def AP(Px <-> Py)
+
+auffassen.
+
+Arno, ausnahmsweise mal SEHR klar:
+
+	Fähre ich durch eine Gleichung ein neues Zeichen "b"
+	ein, indem ich bestimme, es soll ein bekanntes Zeichen
+	"a" ersetzen, so schreibe ich die Gleichung -Definition-
+	(wie Elhöft) in der Form "a = b Def.". Die Definition
+	ist eine Zeichenregel.
+
+	(L.D., TLP, 8.640)
+
+
+F.

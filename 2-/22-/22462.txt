@@ -1,0 +1,153 @@
+Das mag sein, aber ich denke doch, Du verstehst es? im übrigen gibt es
+einen analogen Kapselungs-Begriff auch in der Philosophie.
+
+
+Strikte Trennung von Schnittstelle und Implementierung mit dem Ziel
+möglichst seiteneffektfreier Systeme.
+
+
+Insofern, dass man über die Wirkung eines Musters nur dann Aussagen
+machen kann, wenn man Kapselung durchgesetzt hat. Sonst hat man mehr
+Nebenwirkung durch die Seiteneffekte als Wirkung, und die Anwendung
+eines Musters kann alle Effekte bis zum Gegenteiligen haben dessen, was
+man anstrebte.
+
+Bei Funktionalität hat man das Problem wesentlich mehr als bei reiner
+Statik in der Architektur, aber frag mal einen Statiker zum Thema
+Architekten und Verständnis solcher Probleme ;-)
+
+
+Das wird schwierig. Ich spreche hier aus Beobachtungserfahrung. Ich habe
+keine eigene Theorie zum Thema, noch liegt mir eine solche aus dritter
+Quelle vor.
+
+Ich kann es vielleicht motivieren: die Kunsthochschulen wie die
+Designhochschulen stellen ihren Auswahlprozess zunächst auf das Talent
+ab; man muss eine Mappe mit Arbeiten einreichen, *bevor* man das Studium
+beginnen kann. Beide lehren nicht nur theoretische Fächer, sondern das
+Erfahrungswissen wird intensiv durch Projekte gelehrt, die die Schüler
+machen müssen, und die das Wesen des Unterrichts ausmachen. Die Theorie-
+fächer sind begleitend.
+
+Falls Du das nicht glaubst, empfehle ich Dir, Dich einfach mal lokal an
+solchen Hochschulen umzuschauen und deren Lehrprogramm und die
+Lehrpraxis daraufhin anzusehen.
+
+
+Wenn Du solche "Theorien" untersuchst, wirst Du meist feststellen, dass
+ihr analytischer Gehalt verschwindend gering ist. Die Leute versuchen
+sich in sprachlichen Beschreibungen ihrer emotionalen Vorgehensweise,
+was sich häufig – meiner Erfahrung nach – in eher seltsamen und sinnlos
+scheinenden Texten oder Vorträgen zeigt.
+
+
+Ich will ja nicht sagen, dass man etwa nicht gleichzeitig Theoretiker
+und Künstler sein könne.
+
+
+Falls sie das tut, ist sie falsch. Sie beruht dann auf einem
+Kardinalirrtum.
+
+
+Siehe unten:
+
+
+Das ist eine Plattitüde.
+
+
+Das ist eine Tautologie.
+
+
+Das ist eine Plattitüde.
+
+
+Das mag man so halten.
+
+
+Falls das so ist, ist die Mustertheorie keine Theorie. Sie ist dann eben
+nicht nur keine wissenschaftliche Theorie, sondern gar keine.
+
+
+Das tut Mathematik gar nicht. Insofern liegst Du falsch.
+
+
+Das kannst Du laut sagen ;-)
+
+
+Naja. Kommen wir wieder auf den Teppich. Ich denke schon, dass es einen
+weitgehenden Konsens gibt, was wissenschaftliches Arbeiten ausmacht.
+
+
+Klar. Du sprachst ja von einem Angebot.
+
+
+Hast Du ja auch. Du hast Dich mit einer Gestik ausgedrückt.
+
+
+Mir ist dann nicht klar, was Du mit "grundsätzlich getrennt" meinst. Das
+sind grundverschiedene Dinge, wollte ich sagen.
+
+[...]
+
+Nein. Das ist wesentlich.
+
+
+Dann formulierst Du extrem unscharf. Wohin soll das führen, in einer
+Theorie mit dem Anspruch der Wissenschaftlichkeit?
+
+
+Womit Dein Handwerker-Beispiel schlichtweg Deine Argumentation nicht
+stützt, denn wir diskutieren ja gerade das Arbeiten als Ingenieur und
+das als Künstler. Das sind ja die beiden Bereiche, in denen ich die
+Anwendung von Mustern wie in der Softwarearchitektur kritisch sehe.
+
+
+Na, und?
+
+
+Da eine Bewertung prinzipiell subjektiv ist, alles andere ist eine
+Operationalisierung, ist das eine Plattitüde.
+
+
+Nun, bei der Programmiersprache gibt es zumindest eine Idee, wie das
+geht, und ich denke, ich weiss jetzt, wie man da hinkommt. Bei der
+Architektur liegst Du richtig, aber: na, und?
+
+
+Du kommst sicher drauf ;-)
+
+
+Von der Situation.
+
+
+Von einer wissenschaftlichen Theorie erwarte ich, dass sie harte
+Aussagen macht. Wenns nicht geht, dann muss sie wenigstens Aussagen der
+Art treffen "das ist meistens so" – dann sollte sie aber empirisch
+belegt werden.
+
+
+"Reife" ist nicht operationalisierbar. VVE ist Bullshit für die
+Kravatten ;-) Effizienz muss man messen.
+
+Lars, bitte lass uns den Laberbacken-Bereich wieder verlassen.
+
+
+So ein Fixing-Projekt hatte ich auch mal. Aber die sind nicht häufig.
+
+
+Hardware ist doch meist kein Problem mehr.
+
+
+Das ist eine weite Dehnung von "Strukturerhaltung".
+
+
+Meine Mutter macht bildende Kunst. Ich habe Kontakt zu Musikern. Ich
+denke nicht, dass ich das mache.
+
+
+Eben. Dann hatte er das Problem gar nicht.
+
+Viele Grüsse,
+VB.
+-- 
+Bitte beachten Sie auch die Rückseite dieses Schreibens!

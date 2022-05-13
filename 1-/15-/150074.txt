@@ -1,0 +1,76 @@
+Hallo Hubert,
+
+tut mir leid, dass ich Dich als "Haken" benutzen muss.
+Ich kriegte das Posting einfach nicht als Antwort an
+Thomas drangeklemmt.
+
+
+Hallo Theodor,
+
+das ist eine interessante Aufgabe, die Hubert Dir da stellt. Er
+will damit natürlich testen, ob Du Deine bisherigen Überlegungen
+aufrecht halten kannst.
+
+Das "gewonnen" deutet auf eine Art Spiel hin. Und Dein unten
+abschliessend gejubeltes "Schach matt!" deutet darauf hin, dass
+Du auf das Spiel eingehen willst.
+
+Als Kiebitz (so nennt man die Zuschauer beim Schachspiel) weiss
+ich, dass Du eine verlorene Stellung hast und erwarte gespannt
+Deinen Zug. D.h. ich erwarte von Dir so etwas wie:
+
+      1. Ich konstruiere eine Menge M aus disjunkten Intervallen,
+          indem ich wie folgt vorgehe: ...
+
+      2. Ich zeige nun, dass M überabzählbar ist. Denn ...
+
+Aber was kommt zu meinem Erstaunen als "Zug" ?
+
+
+Wie was ? Du sollst doch eine Menge konstruieren !
+Aha, Du machst wohl nur eine etwas weit ausholende Geste, bevor
+Du deinen Zug machst. Na, mal sehen ...
+
+
+halt, halt, was ist denn das ? Hier soll ein Spiel gespielt werden, das
+Du nicht ungeschickt mit Schach vergleichst - und dann holst Du
+einfach ein "As aus dem Ärmel" ?
+Dieser Vergleich von mir drängt sich auf, weil Du die Spielregeln
+missachtest und auch noch falsch zu spielen anfängst.
+Statt eine Menge zu konstruieren, erzählst Du plötzlich was von
+einer Super-Menge S, von der kein Mensch je gehört hat und die
+es auch gar nicht gibt:  S = Die Menge disjunkter Intervalle.
+
+
+Mit Hilfe dieser nichtexistenten Menge S machst Du Dich jetzt an
+die Konstruktion einer Folge reeller Zahlen, ich fasse es kaum und
+schaue dem Spiel gebannt zu.
+
+
+Aha, jetzt hast Du noch mit richtiger Folgerung aus falschen Voraus-
+setzungen eine Zahl  G  gefunden, die von allen Folgegliedern x_i
+verscjheden ist. Na ja, das ist ja nichts besonderes, denn ich weiss
+ja, dass man die reellen Zahlen nicht abzählen kann. Was ist also
+nun das Aufregende an G ?
+Nimm doch mal irgendein Intervall, das als Element in dieser merk-
+würdigen Menge S ist. Warum sollte G nicht einfach der Mittelpunkt
+dieses Intervalls sein können ? Wegen der DISJUNKTHEIT der
+Intervalle ist dieser Mittelpunkt ja sicher kein Grenzpunkt x_n.
+
+
+Irrtum. Eher: KO nach Schlag unter die Gürtellinie :-)
+Rein formal hätte Dir schon auffallen müssen, dass bei deiner
+Argumentation etwas faul ist. Denn das WORT "disjunkt" verwendest
+Du zwar, aber die EIGENSCHAFT "disjunkt" verwendest Du nicht.
+In meinem Einwand verwende ich die Eigenschaft aber.
+Mein Tipp: überlege doch mal, was Du Dir überhaupt bei deiner
+Menge S gedacht hast. Dann wirst Du sehen, dass Du irgendwie
+Gespenster gesehen hast.
+
+Gruss,
+Mario
+b.zhknoojyb@xsa.mb
+-
+P.S. Die Sicherheit, mit der Du argumentierst, lässt mich fast raten,
+dass Du Lehrer bist. Etwa Mathe-Lehrer ? Denn Spass scheint Dir
+die Sache ja zu machen :-)

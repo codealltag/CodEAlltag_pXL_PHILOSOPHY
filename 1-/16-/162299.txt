@@ -1,0 +1,39 @@
+Hallo,
+
+
+Erstens ist mir kein Indiz für die Annahme bekannt, daß die Menge der möglichen 
+Zustände des Universums überabzählbar wäre, was Du für Deine These bräuchtest.
+Zweitens halte ich es für unwahrscheinlich, daß die qualitativen Eigenschaften 
+einer funktionierenden Datenverarbeitungsmaschine von (etwa) der hundersten 
+Nachkommastelle gewisser veränderlicher ihren jeweiligen Zustand 
+beschreibender physikalischer Parameter  abhängig sein sollten.
+Wäre das nämlich so, dann müßte das Gehirn ziemlich gut gegen äußere Einflüsse 
+abgeschirmt sein, weil diese in nichtkonstruktiver Weise auf die hundersten 
+Nachkommastellen eventuell stattfindender echt-analoger Berechnungen im Gehirn 
+Einfluss nehmen.
+Anders gesprochen: wenn ein Staubkorn auf den Boden eines Hauses in Ispringen 
+fällt, dann verändert dieses Ereignis mit Sicherheit in ganz geringer Weise 
+physikalische Vorgänge in meinem Gehirn, aber dessen qualitative Eigenschaften 
+werden dadurch nicht beeinflusst. Ich schliesse daraus, daß für ein 
+funktionierendes Gehirnmodell die Rechengenauigkeit im allerschlimmsten Fall 
+vielleicht zehn Größenordnungen über dem Niveau des Hintergrundrauschens sein 
+muss, damit das Modell funktioniert :).
+Und beispielsweise die Aktivitätsmuster eines neuronalen Netzwerks mit einigen 
+hundert Milliarden Neuronen mit einer Genauigkeit von hundert Nachkommastellen 
+zu berechnen, sollte etwa mit einem tausend-Petaflops-Supercomputer des Jahres 
+2019 möglich sein. Dabei ist zu beachten, daß dies für die KI schon das 
+worst-case-Szenario nichtreduzierbar analoger Rechenprozesse ist :).
+
+
+Schauen wir uns doch einmal ein etwas einfacheres System an: das Verhalten 
+eines Doppelpendels ist langfristig nicht vorhersagbar.
+Trotzdem würde man kein Experiment angeben können, das ein gut auf einem PC 
+simuliertes Doppelpendel von einem echten Doppelpendel unterscheidet, wenn die 
+Bahndaten beider Pendel mit gleicher Genauigkeit ausgegeben werden, weil das 
+qualitative Verhalten des simulierten und des realen Pendels gleich ist.
+Ein simuliertes Doppelpendel besteht also genausogut den 
+Doppelpendel-Turingtest wie ein simulierter Mensch den Turing-Test für 
+allgemeine Intelligenz bestehen würde.
+
+Größe,
+Ferdinand.

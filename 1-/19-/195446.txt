@@ -1,0 +1,116 @@
+Falsch: a, b aus der Menge der Sandhaufen *oder* + Operation auf
+natuerlichen Zahlen (wenngleich nicht unbedingt diejenige, die wir
+ueblicherweise mit diesem Symbol verbinden).
+
+Im ersten Fall waere die Aussage "Operation +(=zusammenschuetten) auf
+zwei Sandhaufen angewendet, ergibt wieder einen Sandhaufen" - was nicht
+problematischer ist als "Operation +(=uebliche Addition) auf zwei
+natuerliche Zahlen angewendet ergibt wieder *eine* natuerliche Zahl"
+(und nicht etwa zwei natuerliche Zahlen).
+
+Im zweiten Fall - und das ist m.E. der interessantere - ist die
+Aussage: "Operation +(=etwas, das der Zahl der Sandhaufen nach dem
+Zusammenschuetten entspricht) angewendet auf 1 und 1 ergibt wieder 1".
+(Was ist wohl 1+2 fuer Sandhaufen? Ich habe den Verdacht, dass + hier
+nicht kommutativ ist: Es macht einen Unterschied, ob man nun den einen
+Sandhaufen auf die beiden schuettet, oder die beiden auf den ersten.)
+
+
+Ich wuerde sogar noch weiter gehen: Es wird nicht nur nichts ueber
+andere
+Zahlen, sondern auch nichts ueber andere "plus" gesagt. Ja, sogar die
+Bedeutung des "ist gleich" liesse sich diskutieren (z.B. ist in Q
+1/2=2/4,
+obwohl weder 1=2, noch 2=4).
+
+
+Ein wichtiger Punkt. So sind z.B. alle folgenden Aussagen genauso wahr
+wie "1+1=2":
+
+"Zu jeder Geraden geht durch jeden Punkt genau eine Parallele"
+"Zu jeder Geraden gehen durch jeden Punkt unendlich viele Parallelen"
+"Zwei Geraden schneiden sich stets in einem Punkt - es gibt keine
+Parallelen"
+
+Nur, dass jede dieser Aussagen zu einem anderen Axiomensystem gehoert.
+
+Genaugenommen lautet eine mathematische Aussage stets:
+
+  "Wenn die Axiome x wahr sind, dann ist auch die Aussage y wahr."
+
+Diese Art von Saetzen ist es, die eigentlich bewiesen wird.
+Was ist aber nun ein Beweis? Nun, letztlich ist es ein Anwenden
+der Regeln der (bzw. einer) Logik, mit dem Ziel, obige Aussage
+zu machen. Der einfachste Beweis ist z.B. das Ausgehen von den
+Axiomen, das Anwenden logischer Regeln, um die Aussage zu erhalten,
+um dann die logische Grund-Regel "wenn die Axiome wahr sind, und ich
+durch Anwendung der logischen Regeln eine Aussage gewinne, dann
+ist die Aussage wahr" anzuwenden. Der Widerspruchsbeweis ist etwas
+komplizierter, indem er die Verneinung des Satzes (ebenfalls durch
+die Logik definiert) zu den Axiomen hinzufuegt, und dadurch einen
+Widerspruch (eine Aussage der Form "X und nicht X") herleitet,
+um anschliessend die so erhaltene Aussage ("Wenn ((nicht y) und x),
+dann Widerspruch") logisch weiter umzuformen ("Wenn nicht Widerspruch,
+dann nicht ((nicht x) und y)", "nicht Widerspruch" => "nicht ((nicht y)
+und x)" => "(nicht x) oder y", also "wenn x, dann y").
+
+Nun, hier wurde wiederum "wahr" verwendet. Was aber ist diesmal "wahr"?
+Nun, ganz einfach: Das, was die Logik als "wahr" definiert!
+
+Wenn wir also wissen wollen, ob eine Aussage "wahr" im "normalen"
+(was ist das?) Sinn ist, dann muessen wir zwei Fragen beantworten:
+
+1. Welches Axiomensystem entspricht das reale Phaenomen?
+   Dies ist die Domaene der Naturwissenschaft, birgt aber auch
+   philosophische Fragen (Stichwort Verifikation/Falsifikation,
+   Abhaengigkeit Beobachtung/Theorie).
+
+2. Ist das "wahr" der angewendeten Logik identisch mit dem intuitiven
+   "wahr" (d.h., ist die verwendete Logik "wahr" in einem "hoeheren"
+   Sinne)?
+   Dies ist eindeutig eine philosophische Frage.
+   Gibt es eine "absolute" Wahrheit, die nicht von der Logik abhaengt?
+   Ist die Logik unabhaengig von der "Welt"/"Realitaet"?
+   Was ist ueberhaupt "wahr"? (Siehe z.B. Fuzzy-Logik, wo eine Aussage
+   "wahrer" sein kann als eine andere.)
+
+
+Nun, das eine schliesst m.E. das andere nicht aus.
+
+BTW, kann jemand die mathematische Definition fuer eine Logik posten?
+(Und dazu noch, in welcher Logik man die Definition zu interpretieren
+hat? ;-))
+
+
+In diese Regel gehen aber schon einige Annahmen ein:
+
+1. Aussagen koennen total wahr sein.
+   Was, wenn man als Wahrheitswert beliebige reelle Zahlen zulaesst?
+   (Nicht etwa nur ein Intervall, wie [0,1] in der Fuzzy-Logik).
+   Dann gaebe es keine maximal wahre Aussage, sondern nur relaiv
+   wahre Aussagen. Das heisst, zu jeder Wahrheit koennte es eine noch
+   groessere Wahrheit geben.
+
+2. Schlussfolgerungen gelten absolut.
+   Was, wenn man auch einer Schlussfolgerung einen Wahrheitswert
+   zugesteht, der nicht absolut ist? Wer weiss schon mit absoluter
+   Sicherheit, dass die Aussage "Es ist Montag, also ist morgen
+   Dienstag" wahr ist?
+
+3. Wahrheit ist zeitunabhaengig
+   Wenn heute wahr ist "die Sonne scheint", und morgen, "wenn die
+   Sonne scheint, besteigt Wolfgang den Mount Everest", dann muss die
+   Aussage "Wolfgang besteigt denn Mount Everest" trotzdem zu keinem
+   Zeitpunkt wahr sein...
+
+
+Nun, die Mathematik ist abhaengig von der Logik (und nur von dieser).
+Selbst, wenn sie die Logik als Untersuchungsgegenstand benutzt, muss
+sie sich ihrer trotzdem als Hilfsmittel bedienen. Saetze ueber die
+aristotelische Logik sind genaugenommen Zirkelschluesse (es sei denn,
+man benutzt dafuer eine andere Logik - aber fuer deren Definition
+und Beweis ihrer Funktionstuechtigkeit hat man vermutlich wieder
+die aristotelische Logik verwendet...).
+
+
+Gleichfalls. :-)

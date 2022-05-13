@@ -1,0 +1,196 @@
+: In article <8vupi9$dvr@bluil51.ped.btt-fflpsuq.ld>,
+: >: In article <8j9zea$p38@nlvoc79.swv.msd-hrfhscv.hj>,
+: >: >
+: >: >Es gibt IMMER divergierende Obersysteme, also in dem Sinne, daß mindestens
+: >: >ein Satz der wahr in System A falsch im System B ist. Prominentes Beispiel
+: >: >ist die Kontinuumshypothese, die man als wahr in ein System integrieren kann
+: >: >(Cuipers), aber auch als falsch (Zuern).
+: >: >
+
+: >: Leider ist es Dir noch nicht gelungen. Du sagst: "Es gibt IMMER
+: >: divergierende Obersysteme", leider fehlt die Begruendung fuer die
+: >: Notwendigkeit dieser Aussage. Falls es so waere, wie Du sagst, dann
+: >: haetten wir eine prinzipiell unendliche Aussagenwelt. Ich sehe noch
+: >: nicht recht, weshalb dies so sein sollte (oder gar muss).
+: >
+: >Tatsächlich gibt es beliebige, unendliche Hierarchien von divergierenden (im
+: >obigen Sinn) Logiken. Dies ist eine Folgerung aus der Modelltheorie und
+: >findet - unteranderem - Anwendungen in der Mengenlehre.
+: >
+: >Ein Beweis würde weit über das hinausgehen, was man in den News klären kann,
+: >weshalb ich auf die entsprechende Literatur (siehe z.B. Handbook of
+: >Mathematical Logic) verweise.
+: >
+: Nagut, da ich kein Interesse daran habe, das Handbook of Mathematical
+: Logic zu lesen (und keine Zeit), kann ich Dir ja ein paar Gedanken
+: uebermitteln, die in mir die Idee aufkeimen liessen, dass die Divergenz
+: letzendlich auch zu einer "Einheit" fuehren koennte - trotz des
+: offensichtlichen Widerspruchs.
+
+: Die Obersysteme haben erst einmal den Zweck, die grundsaetzlichen
+: Unterschiede zwischen unterschiedlichen Aussagen zu eliminieren.
+: Der Zweck ist somit die Konvergenz. Die Divergenz entsteht dadurch,
+: dass weitere Elemente mit in Betracht gezogen werden, die im Prinzip
+: "fremd" waren zu dem eigentlichen Problem.
+
+: Bsp.: 3, 23, 17 und 51 sind unterschiedliche Zahlen. Diese Aussage
+: laesst sich z.B. dadurch "vereinheitlichen", dass man sagt, es sind
+: alles ganze Zahlen. Oder natuerliche Zahlen. Oder Zahlen. Oder ungerade
+: Zahlen. Oder Primzahlen usw....
+
+: Diese Aussagen sind NICHT gleichwertig, d.h., sie liegen nicht auf
+: der gleichen "Ebene": die Aussage "Es sind Zahlen" kann man ebenso
+: auf die Aussagen, dass es Primzahlen sind oder dass es ungerade Zahlen
+: sind, anwenden usw..
+
+Nach meinem Empfinden liegen hier unterschiedliche Auffassungen darüber vor,
+was eine "Vereinheitlichung" ist. Das was Du als "Vereinheitlichung"
+bezeichnest würde ich eher "Klassifikation" oder "Vereinigung" nennen. Eine
+Vereinheitlichung würde ich als das Zusammenfassung von unterschiedlichen
+Konventionen zu einer einzigen definieren.
+
+: Wir nehmen ein paar unterschiedliche "Aussagen":
+
+: 3
+: 23
+: 17
+: 51
+
+Das sind keine Aussagen.
+
+: Der naechste Schritt ist die Konvergenz dieser 4 Unterschiede zu
+: einem (mehreren) Obersystem(en):
+
+: 3 23 17 51
+:     |
+: -> natuerliche Zahlen
+: -> Primzahlen
+: ...
+
+Dies sind keine Obersysteme, sondern Prädikate.
+
+: Der naechste Schritt lautete:
+
+
+: 3 23 17 51
+:     |
+: natuerliche Zahlen / Primzahlen / ...
+:     |
+: -> reelle Zahlen (Ich nehme einfach mal an, dass das stimmt)
+: -> ganze Zahlen
+: ...
+
+
+: Und wieder die Vereinheitlichung:
+
+
+: 3 23 17 51
+:     |
+: natuerliche Zahlen / Primzahlen / ...
+:     |
+: reelle Zahlen / ganze Zahlen
+:     |
+: -> Zahlen
+: ...
+
+: Aus welchem Grunde sollte die Anzahl der Obersysteme staendig
+: divergieren, aus welchem Grunde sollte die Menge der Aussagen
+: (auf einer Ebene!) groesser werden, je mehr Unterebenen es zu
+: diesen Aussagen geben kann?
+
+: Ich zweifele die "letztendliche" :( Divergenz an - zumal der
+: Zweck der Erzeugung von Obersystemen die Konvergenz ist.
+
+Das ist nicht der Zweck von Obersystemen.
+
+: Selbst wenn wir hier dem "Zweck" keinen Erfolg zusprechen,
+: dann waere es noch immer voellig unentscheidbar, ob die
+: Anzahl von Obersystemen ueber Untersysteme divergieren oder
+: konvergieren wuerde.
+
+Der gesamte Abschnitt ist (leider) von einer völligen Unkenntnis dessen, was
+Aussagen, Logiken oder Obersysteme sind, gekennzeichnet. :-( 
+
+Die von Dir als Aussagen bezeichneten Zeichen '3', '23' usw. sind im
+logischen (und auch intuitiuven) Sinn leider keine Aussagen, sondern
+Konstanten, also höchstens Terme. Damit aus Termen Aussagen werden, men
+sie noch mit Variablen, Funktionensymbolen, Relationensymbolen, Junktoren
+('und', 'nicht') und Quantoren ('für alle') in geregelter Weise verknüpft
+werden. Aussagen sind dann - in einer entsprechend konstruierten Logik - '3
+ist ungerade' oder '4 ist eine Primzahl'.
+
+Beispielsweise ist '3 ist ungerade' die Aussage:
+	(\exists x)[3=2x+1]
+Der offene Satz (es kommt eine freie Variable vor): (\exists x)[a=2x+1]
+charakterisiert die ungeraden Zahlen. Dies setzt allerdings voraus, das im
+Modell (das die Objekte bezeichnet, die man anstelle der Variabelen
+einsetzten darf) NUR natürliche Zahlen vorkommen. Würde man die rationalen
+Zahlen wählen, so würde sogar (\forall y)(\exists x)[y=2x+1] wahr sein, was
+in den natürlichen Zahlen nicht gilt.
+
+Man kann natürlich - und das scheint mir Deine Idee zusein - im Rahmen der
+rationalen Zahlen die ungeraden Zahlen wieder neu einführen, in dem man ein
+zusätzliches Prädikat 'Nat(x)' = 'x ist eine natürliche Zahl' einführt. Dann
+kann man das Prädikat 'a ist ungerade' durch den offenen Satz
+(\exists x)[Nat(a) -> a=2x+1] beschreiben.
+
+Aber dies ist nicht das, was mit divergierenden Obersystemen gemeint ist!
+Ich versuche mal ein einfacheres (naja) Beispiel als die Kontinuumshypothese
+darzustellen. In der Euklidischen Geometrie gilt das Parallelaxiom, das man
+auch in der folgenden Form angeben kann: Die Summe der Innenwinkel jeden
+Dreiecks ist 180 Grad. Leider ließ sich dieses Axiom nicht aus den anderen
+Euklidischen Axiomen beweisen, obwohl es jahrtausende lang vermutet und
+versucht wurde. Erst im letzten Jahrhundert gelang der Nachweis, daß dieses
+Axiom tatsächlich unabhängig von den anderen ist!
+
+Das bedeutet, daß man (mindestens) drei UNVERGLEICHBARE, divergierende
+Geometrien formulieren kann:
+1) die normale Euklidische,
+2) eine in der Summe der Innenwinkel jeden Dreiecks größer 180 Grad ist und
+3) eine in der Summe der Innenwinkel jeden Dreiecks kleiner 180 Grad ist!
+
+Dies sind völlig verschiedene Systeme. 
+
+: Ein zweiter Kritikpunkt: Deine Aussagen ueber die unendlichen
+: Hierarchien (es gibt "beliebige, unendliche Hierarchien von
+: divergierenden ... Logiken"). Das wundert mich: nehmen wir an, wir
+: befassen uns mit Zahlensystemen, dann wuerde daraus folgen, dass die
+: Aussage, dass es sich um Zahlen handelt die letztmoegliche Aussage in
+: diesem System ist. Wenn wir uns im System der ganzen Zahlen befaenden,
+: dann waere die Aussage: "Es sind ganze Zahlen" die letztmoegliche
+: "Wahrheit". Ich sehe hier nicht die Moeglichkeit fuer "unendliche"
+: Hierarchien.
+
+Wenn Du Dich auf eine Logik (plus Modell) festlegst, dann gibt es nur noch
+wahre und falsche Aussagen, aber keine 'letztmöglichen' Aussagen. Wenn Du
+eine Sequenz von Logiken betrachtest, dann kannst Du eine bestimmte Formel
+verfolgen, wie sie sich in dieser Sequenz verhält. Man könnte dann
+möglicherweise von einer 'Konvergenz' diese Formel sprechen ABER sowohl, um
+die Sequenz, als auch die Konvergenz beschreiben zu können, benötigst Du ein
+Metasystem und dieses ist NIE eindeutig bestimmt, sondern kann beliebig
+divergieren. 
+
+: Ebenso sollte es eine "letztmoegliche" oder "absolute"
+: Wahrheit geben fuer die Welt, so wie sie aus der Sicht des
+: Menschen gesehen und erfahren werden kann. Es waere dann
+: eine "absolute Wahrheit" fuer das menschliche Erkenntnissystem.
+
+Okay, dieser Gedanke, daß es möglicherweise eine Obergrenze des menschlich
+Machbaren und Denkbaren gibt, ist mir sehr sympathisch! Allerdings sollte
+man solche 'menschlichen Wahrheiten' nicht absolut nennen. Zumal jedes
+menschliche Handeln und Denken Irrtümern ausgesetzt ist und bleibt. Zudem
+müßte man, um eine Wahrheit als an der Grenze des menschlichen Denkens zu
+bezeichenen, beide Seiten der Grenze denken können. Das ist aber logisch
+unmöglich! 
+
+: Tschuess,
+: Torsten
+
+MfG
+	Alberto
+--
+Alberto Iggena                            bqdpvpbw@vvkhrlqmcs.cjo-rmrxmhk.kr
+Eckmüllnergasse{\"vollmoellerstraße}Gasteigergasse{\gd}lehmgrubenweg 86 
+37331 Zeschdorf
+Tel: (++52)(++43)93873-288
+WWW: http://rvp.soiszkoimo.vra-qpoqtdf.yg/Rpmsexwhabvhrtx/NAT/yxicmgian/ixtrdpuqw/wdhx.ovju

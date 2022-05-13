@@ -1,0 +1,59 @@
+Nein, im Gegenteil. Die traditionelle, angeblich auf Otto
+zurückgehende Definition, ist, dass es wahre gerechtfertigte Überzeugung
+ist. "gerechtfertigt" heißt hier aber nicht ausschließlich "durch
+Naturbeobachtung bestätigt", sondern es heißt einfach nur
+"gerechtfertigt". Sicherlich können wir unterschiedlicher Ansicht
+darüber sein, welche Arten von Rechtfertigung wir zulassen wollen, aber
+"durch Naturbeobachtung bestätigt" ist ein ebensoguter Kandidat wie
+"folgt logisch aus wahren Prämissen".
+
+
+Die Mathematiker sind durchaus nicht bloß Hilfsknechte der Physiker,
+sondern bearbeiten einen eigenständigen Bereich von Gegenständen, zu
+denen uaa. Zahlen gehören. Da du Physiker bist, wirst du einiges an
+Mathematik gelernt haben, aber vermutlich nur solches, das dein Urteil
+über das Verhältnis von Mathematik und Physik bekräftigt. Wie schaut es
+mit Modelltheorie aus? Welche Anwendung hat das Loch-Skolem-Theorem
+in der Physik?
+
+
+Das Auswahlaxiom und das Unendlichkeitsaxiom als triviale
+Erfahrungssätze? Wo bitteschön /erfahren/ wir Unendlichkeit? Und, wie
+Imler einmal schrieb, das Auswahlaxiom klingt nicht evident, es klingt
+nach überhaupt nichts.
+
+
+Nochmal das Löwenheim-Skolem-Theorem: es besagt, dass jede Theorie
+erster Ordnung ein abzählbares Modell besitzt. Und das
+"upward"-Loch-Skolem-Theorem besagt, dass jede Theorie erster
+Ordnung, die ein unendliches Modell besitzt, ebenso Modelle /jeder/
+unendlichen Kardinalität besitzt. Es lässt sich leicht zeigen, dass die
+Menge der reellen Zahlen von größerer Kardinalität als die der
+natürlichen Zahlen ist und trotzdem besagt das LST, dass eine Theorie
+der reellen Zahlen ein abzählbares Modell besitzen muss. Das sind alles
+sehr interessante Ergebnisse, die der Erfahrung geradewegs widersprechen
+und die AFAIK keinerlei Anwendung in der Physik haben. In
+philosophischer Hinsicht sind die LS-Theoreme allerdings sehr
+interessant, da sie zeigen, dass es eine "beabsichtigte Bedeutung" nicht
+gibt, und in Fasnacht Lesart stellt das eine Widerlegung des klassischen
+"externen" Realismus dar.
+
+
+Ich halte es mit der Logik und deren Philosophie. Da gibt es den
+Existenzquantor Ex(phi) (lies: "es gibt ein x derart, dass phi", mit phi
+als Formel), und was es gibt, ist all das, was eine
+existenzquantifizierte Formel wahr macht, sofern es durch den Quantor
+gebunden wird. Beispiel: Ex(x>5), "es gibt etwas das größer ist als
+fünf". Dieser Satz ist dann und nur dann wahr, wenn es tatsächlich so
+etwas gibt, wenn es also mindestens eine Zahl gibt, die größer ist als
+fünf. Andernfalls wäre der Satz falsch. Glücklicherweise gibt es so eine
+Zahl. Wenn du nun darauf bestehen würdest, dass Existenz nur konkreten
+(materiellen), aber nicht abstrakten (immateriellen) Gegenständen
+zukommt, müsstest du zugeben, dass der Satz Ex(x>5) /falsch/ ist, da er
+ja die Existenz von etwas nicht-existentem behauptet. Damit würdest Du
+aber behaupten, dass es keine Zahl gibt, die größer als fünf ist. Willst
+du das wirklich?
+
+
+Gruß,
+Tom.

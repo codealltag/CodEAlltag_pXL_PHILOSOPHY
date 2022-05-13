@@ -1,0 +1,85 @@
+daowpkecs@igpbq.ri (Thomas Johnnsson) schrieb... 
+
+[...]
+
+Das bestreite ich ja auch nicht. Du hast aber mehr gesagt:
+
+	Der Redeker-Skolem sagt mir also, daß jede physikalische 
+	Theorie, die sich keiner über ZFC hinausreichender 
+	mathematischer Mittel bedient, auch über ein (vom Standpunkt 
+	der naiven Mengenlehre aus betrachtet) abzählbares Universum 
+	reden könnte.
+
+Der Satz ist schon semantisch unsinnig: Eine physikalische Theorie
+kann nur über math. Objekte *sprechen* (reden), wenn sie die math.
+Theorie *gebraucht*; sie kann aber nicht vom Standpunkt der
+Metasprache aus (der naiven Mengenlehre o.�.) die Objektsprache
+*gebrauchen*, sondern nur *anführen*, also allerhöchstens deren Terme
+gebrauchen (wovon sie allerdings nichts hat).
+
+Es gibt abzählbare Modelle von ZF, die Menge der Mengen existiert
+trotzdem nicht, auch nicht, wenn ZF die Metasprache ist.
+
+
+Nein!  Eine Aussage  >(x)(E y) x in y <  *spricht* über *alle* Mengen.
+(und, wie du weit, gibt es nicht nur abzählbar viele Mengen.)
+
+
+Nein. Eine physikalische Theorie *spricht* i.A., wenn sie Mathematik
+verwendet (z.B. die reellen Zahlen) über überabzählbar viele Objekte,
+z.B.
+
+
+Der Allquantor "läuft" über alle Objekte.
+
+
+Hier würde ich gerne einen Grundkurs in Wissenschafththeorie empfehlen
+;-) . Hypothesen/Theorien werden getestet, und nicht verifiziert! So
+können Aussagen mit empirischer Signifikanz getestet werden, auch
+welche, die über überabzählbar viele Objekte sprechen. (wobei wir
+jetzt 'mal annehmen, das es eine Folgerung aus deinem Satz gibt, die
+empirische Signifikanz hat.)
+
+
+N. Du meinst, dass eine physikalische Theorie keinen Hilbertraum
+braucht, sondern nur ein Element eines Modells von ZF, das die
+objektsprachliche Aussage ' x ist ein Hilbertraum' wahr macht. Das
+Problem ist allerdings, dass diese Äquivalenzklasse von Termen mit
+'t1=t2' keinerlei Ähnlichkeit mit einem Hilbrtraum hat, und auch keine
+"Teilstruktur" desselben darstellt. Du bekommst also, wenn du
+Hilbertraumtheorie in der Objektsprache machst, keine abzählbare
+Hilbertraumtheorie in der Metasprache, wenn du objektsprachlichen
+Sätze übersetzt. Zum 'wissenschaftstheoretischen' Teil deiner
+Behauptung s.o. 
+
+Wir sind wieder am Anfang: Zeig mir explizit, wie man die Hilberträume
+aus der QT entfernen kann, und dennoch die Theorie aufrechterhält.
+(und dann die von dir so ersehnte "abzählbare" Teilstruktur enthält)
+Daran bist du schon 'mal gescheitert.    
+
+Es geht ja letztlich darum, ob nach den physikalischen Theorien der
+Zustandsraum unseres Universum abzählbar oder überabzählbar ist. Die
+(nichtrel.) QM sagt nun, unter Verwendung üblichen Mathematik, dass es
+überabzählbar viele gibt. Du kannst mit Redeker-Skolem nichts
+folgern, das dem widerspricht, da die Unterscheidung zwischen
+Objekt-und Metasprache, wie ja Zebisch anhand der sonst entstehenden
+semantischen Anomalien gezeigt hat, absolut essentiell ist. 
+
+
+[Sprechen Affen?]
+
+Von der Sprachkompetenz her schon. Schau dir die Arbeiten von Försterling
+und seiner fleissigen Linguisten an. Die natürliche Sprache ist
+syntaktisch hierarchisch strukuriert (und auch semantisch
+strukuriert), und genau daran scheitern alle Versuche, sie (höheren)
+Tieren beizubringen, die vom, Informationsgehalt her, nicht mehr als
+Zweiwortsätze zustande bringen. (s.z.B. Koinegg, Sprachtheorie) 
+
+
+Nein, es setzt nur voraus, dass Menschen Sprache verstehen; die
+System-Replik ist selbst nicht zu halten (i.S.v. "das Zimmer denkt",
+man kann ja auch nach draußen geh'n) Wir können dies aber gerne
+diskutieren ;-)
+
+
+giovanni

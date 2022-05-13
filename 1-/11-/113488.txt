@@ -1,0 +1,68 @@
+"Ludwig Oberreiter" <aewjns.jsafdorxwg@x-bibxeu.cc>
+
+
+Sicher.
+Bloss,  berechnen, das konntest du nicht.
+
+Und das mit der Schildkröte ist *noch* trivialer.
+
+Tragischerweise bist du selber nicht in der Lage,
+derartige Primitiv-Mathe zu durchdenken.
+Weder logisch noch mathematisch.
+
+======================================
+
+Achilles und die Schildkröte
+----------------------------------
+
+Ullrich läuft auf die Schildkröte zu.
+Die Schildkröte läuft von Ullrich weg.
+Die Schildkröte ist exakt - Mitte - Mitte - 100 m von Ullrich
+entfernt und bewegt sich mit 1/10 der Geschwindigkeit von Achilles.
+Achilles wie Schildkröte sind 30 cm Breite in der Laufrichtung.
+
+Berechnet wird die Anzahl Halbierungen der Strecke bis zum
+Erreichen der Schildkröte nach der Reihe 1/2 + 1/4 + 1/8 + 1/16 usw.
+des jeweils aktuellen  - Mitte - Mitte - Abstandes.
+
+Wenn Die Differenz Achilles-Schuldkr�te kleiner 30 cm ist,
+dann hat Ullrich die Schildkröte aufgeholt
+und *stösst* die Schildkröte.
+
+ - ; Westbrock; ------- ; Utermöhl ; ------- ; Differenz
+ 1 ;    0.00 ;   50.00 ;  100.00 ;  110.00 ;  100.00
+ 2 ;   50.00 ;   80.00 ;  110.00 ;  116.00 ;   60.00
+ 3 ;   80.00 ;   98.00 ;  116.00 ;  119.60 ;   36.00
+ 4 ;   98.00 ;  108.80 ;  119.60 ;  121.76 ;   21.60
+ 5 ;  108.80 ;  115.28 ;  121.76 ;  123.06 ;   12.96
+ 6 ;  115.28 ;  119.17 ;  123.06 ;  123.83 ;    7.78
+ 7 ;  119.17 ;  121.50 ;  123.83 ;  124.30 ;    4.67
+ 8 ;  121.50 ;  122.90 ;  124.30 ;  124.58 ;    2.80
+ 9 ;  122.90 ;  123.74 ;  124.58 ;  124.75 ;    1.68
+10 ;  123.74 ;  124.24 ;  124.75 ;  124.85 ;    1.01
+11 ;  124.24 ;  124.55 ;  124.85 ;  124.91 ;    0.60
+12 ;  124.55 ;  24. 10. 22 ;  124.91 ;  124.95 ;    0.36
+13 ;  124.73 ;  124.84 ;  124.95 ;  124.97 ;    0.22
+
+Nach   13   Halbierungs-Zyklen  ist das Ziel erreich.
+
+Die Differenz - Mitte- Mitte - ist hier bloss noch 22 cm.
+Ullrich schiebt die Schildkröte hier bereits um 8 cm.
+
+Das "Unendlich" der Philosophen ist also mit
+13 Halbierungs-Schritten erreicht.
+
+======================================
+
+
+Conrad nützt dir nichts.
+
+Bevor du dich mit Conrad beschäftigen willst, solltest
+du mindestens so Primitiv-Mathe durchdenken können.
+
+Auch empfehle ich dir, einen Kurs in Aussagelogik zu belegen.
+Denn auch hier kannst du viel zu wenig, um Logik
+erkennen und durchdenken zu können.
+
+mfg
+Lars Eßlage

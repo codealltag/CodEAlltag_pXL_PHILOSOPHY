@@ -1,0 +1,173 @@
+F.ZEVBBTVJVXA@um-zu.xoyuxty.by schrieb in Nachricht
+<0b4Qm2VFeZQ@h-yhs.si-wa.odjbemu.ql>...
+
+
+Hallo Bernd,
+
+ich habe im folgenden nahezu alles gelöscht und den
+anderen Teil Deiner Antwort unbeantwortet gelassen,
+da es IMO keinen Sinn macht, sich über Folgerungen zu
+streiten, wenn bereits die Grundlagen, aus denen diese
+folgern sollen, strittig sind.
+
+Strittig scheint mir insbesondere der Begriff der "Wahrheit"
+und der "Realitätserkenntnis" zu sein.
+
+Meine Position zur Frage der Erkenntnismöglichkeiten läßt
+sich - um Dich einmal mit der Nennung des Namens V....
+zu verschonen <eg> in etwa durch Zschornak, Knörich, Zehner,
+Zobelt und ähnliche Vertreter der EE oder des
+Konstruktivismus beschreiben. Ich wüßte auch nicht, wie über
+die dort aufgezeigten Grenzen hinaus Erkenntnis möglich sein sollte.
+
+
+Nun zum Begriff der "Wahrheit", von dem Du sowohl
+Existenz als auch Erkennbarkeit behauptest, während
+ich außerhalb analytischer Systeme die Erkennbarkeit
+verneine und über die Existenz keine Aussage für
+möglich halte.
+
+Spannend wird es vollends beim Begriff der Axiomatik.
+Du streitest rundweg ab, daß die von Dir vertretene
+Philosophie eine axiomatische Basis habe und schreibst:
+
+
+Dann nehmen wir also an, S(0) sei ein Satz oder eine Menge
+von Sätzen Deiner Philosophie.
+
+Damit S(0) "wahr" ist, muß es sich entweder zwingend
+aus einem anderen Satz oder Menge von Sätzen S(1)
+ergeben, deren Wahrheit widerum zu zeigen wäre, oder
+aus einem Axiom bzw. Axiomensystem A folgen.
+
+Letztere Variante scheidet nach Deiner Auffassung aus.
+Da die Wahrheit von S(1) noch nicht gezeigt wurde, die
+Rückführung auf eine Axiomatik aber auch hier ausgeschlossen
+sein soll, kann diese sich nur aus einer Rückführung auf
+elementarerere Sätze S(2) ergeben, die wiederum in
+S(3) begründet sind ....
+
+Nun gibt es folgende Möglichkeiten:
+
+1.
+Wir erhalten ernen Regress ad infinitum und können
+über die Wahrheit von S(n) (für n gegen unendlich)
+nur sagen, daß S(n) wahr sein muß, wenn S(n+1)
+wahr ist. Man könnte auf die Idee des Induktions-
+beweises verfallen, scheitert aber am Problem der
+Verankerung. Selbst wenn der Schluß von n auf n+1
+gelänge, müßte ich (z.B) die Wahrheit von S(0)
+beweisen - ohne auf Axiome zurückzugreifen.
+
+2.
+Die Katze beißt sich in den Schwanz, statt sich
+im Unendlichen zu verlaufen, das Aussagensystem
+S(n) ist vollständig selbstbezüglich in sich geschlossenen.
+Neben der neuen Frage nach der Relevanz eines solchen
+selbstbezüglich in sich geschlossenen  Konstrukts ist die
+Frage nach der Axiomatik aber nun beantwortet. Man hat
+die Axiomatik nämlich implizit durch die Hintertür von
+konstruktionsimmanenten Vernetzungsregeln eingeführt,
+die beschreiben, wie und wo die Katze sich in den Schwanz
+beißt und welche Initialzustände die Systemvariablen
+haben sollen.
+
+Dies muß nicht der einfache Zirkelschluß sein, die
+selbstbezügliche Vernetzung kann z.B. in Form eines
+finiten Zustandsautomaten beliebiger Komplexität
+erfolgen. Hier kommen wir nun auf eine ganz hübsche
+Konsequenz. Man hat gezeigt (Anzelm; Introduction to the
+Theory of Finite State Machines), daß finite Zustands-
+automaten oberhalb einer bestimmten Komplexität
+zwar synthetisch vollständig determiniert, aber analytisch
+nicht mehr determinierbar sind (eine Tatsache, die man z.B.
+in der Kryptographie nutzt, weshalb eher kryptographisch
+denn philosophiesch gebildete Geister wie ich in der Hegelei
+für den Output eines LFSR-Stromchiffrieres vermuten)
+Man könnte dann natürlich auf die Idee kommen, der
+Beschreibung dieser nach unverstandenen und analytisch
+nicht verstehbaren  Regeln vor sich hin selbstbez�gelnden Kiste
+sein nur eine dunkle, mythenhafte Sprache angemessen.
+
+Anyway - das System ist axiomatisch.
+
+3.
+Statt in einer Axiomatik A oder in implizit axiomatischer
+Selbstbezüglichkeit zu enden, könnten Deine philosophischen
+Sätze S natürlich irgenwann in einer Reihe von Tatsachen T
+einer (wie auch immer gearteten) "Realität" begründet sein.
+
+Formal ähnelt das der axiomatischen Letztbegründung.
+Da Du Axiomatik aber nicht willst, müßte T gegenüber A
+auch außerhalb der Gesamtmenge S der Sätze Deiner
+Philosophie erkennbar  ausgezeichnet sein.
+
+T kann also nicht aus S deduziert sind und S als Voraussetzung
+haben, denn dann wären wir bei Punkt 2, der Selbstbezüglichkeit
+eines hermetisch in sich geschlossenen, implizit axiomatischen
+Systems gelandet.
+
+Wir müßten also ein von S unabhängiges Verfahren zur
+Erkenntnis und zweifelsfreien Verifikation(!) dieser Tat-
+sachenbasis T finden, das auch jemanden, der S ablehnt,
+zwingend zu T führt, worauf er ggf. dann (aber erst dann)
+zugeben müßte, das S sich zwingend aus T ergibt, nicht
+jedoch seine abweichende Ausgangshypothese S'.
+
+Ich bezweifle prinzipiell, daß es ein solches Verfahren
+geben kann und stelle rein empirisch fest, daß in der
+Philosophie zwar schon viele unter lautem Heureka-
+Geschrei aus der Badewanne sprangen und nackt
+durch die Gassen liefen und sich ebenso regelmäßig
+zum Gespött ob der argumentativen Nacktheit
+ihrer Wahrheit machten.
+
+
+Ich kenne keins  Nenne mir eines! Ich kenne nur
+empirisch ganz gut bestätigte Hypothesen. Zeige mir,
+wie z.B. der Allsatz "metallisches Cu ist ein Leiter"
+zu verifizieren wäre. Zeige, daß er auch für alle
+metallischen Cu-Vorkommen Cu im Andromedanebel
+gilt.
+
+
+Bestätigt, nicht verifiziert. Für Verifikation sind beliebig
+viele (im Grenzfall unendlich viele) Experimente
+erforderlich.
+
+Und wir kennen ja nun genug "Gesetze", die
+durch hinterhältig ausgetüftelte Versuche
+über den Haufen geworfen wurden.
+
+
+Würdest Du von mir ungeprüft einen Gebrauchtwagen
+kaufen? Selbst dann, wenn ich Deine präzise formulierte
+Frage nach eventuellen Mängeln des Vehikels nur in
+unverbindlich-mehrdeutiger
+
+   "Die-Qualität-des-Vehikels-ergibt-sich-aus-dem-Vehikel-
+   selbst-denn-Nichtanerkenntnis-der-Qualität-des-Vehikels-
+   ist-ein-Ausfluß-notwendig-falschen-Qualitätsbewußtseins-
+   und-der-Begriff-Mängel--ist-der-Sache-sowiso-nicht-
+   angemessen-und-reicht-nicht-einmal-entfernt-an-sie-heran"
+
+Sprache beantworte?
+
+Analog zu Deiner Argumentation:
+
+
+Falls Du mir ein solcherart angepriesenes Fahrzeug
+abkauftest, wärest Du vielleicht ein beliebig netter,
+aber auch ein beliebig naiver Mensch.
+
+Bei gebrauchten Weltanschauungen erlaube ich mir
+jedenfalls Mißtrauen. Schaffnermentalit�t hin oder
+her.
+
+
+über der seit Arnscheidt das Damoklesschwert
+des Unvollständigkeitstheorems baumelt.
+
+Gruß
+
+Nico-Björn

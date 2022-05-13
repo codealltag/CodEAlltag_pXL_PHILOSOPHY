@@ -1,0 +1,16 @@
+Oh, das ist einfach. XML ist eine Abkürzung für Extensible Markup 
+Language und wie die Übersetzung schon sagt eine erweiterbare 
+Auszeichnungssprache. Einer der Ursprünge der Auszeichnungssprachen für 
+Maschinen ist SGML die Normierte Verallgemeinerte Auszeichnungssprache. 
+Die meisten Auszeichnungssprachen sind Untersprachen von SGML. 
+XML ist aus dem Bedürfnis entstanden die Vermischung von Form und Inhalt 
+in HTML wieder aufzulösen und eine strukturierte Auszeichnungssprache zu 
+schaffen, die jeglichen Inhalt transportieren kann und gleichzeitig jedes 
+Element für Dokumenttypendefinitionen zugänglich zu machen. So ist es 
+dann möglich den gleichen Inhalt entweder dem Browser oder dem 
+Mobilfunkgerät oder dem Drucker zur Verfügung zu stellen oder aber auch 
+zu definieren, was welchem Gerät angezeigt werden soll. Darüberhinaus hat 
+sich bewährt als Austauschformat für Datenstrukturen. 
+
+Grüße,
+Leon

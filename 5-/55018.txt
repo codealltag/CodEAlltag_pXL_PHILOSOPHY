@@ -1,0 +1,33 @@
+Hallo Niklaus,
+
+
+Verstehe ich nicht.
+
+
+Nein. Der komplette Beweis würde lauten 
+
+"Wenn A, dann Y und daher X. Wenn A, dann Z und daher X".
+
+Da steckt kein "probeweise" drin, sondern einfach die Verknüpfung der
+Wahrheitswerte. Der Satz "A" hat einen (wenn auch vielleicht nicht
+bekannten) Wahrheitswert, und die genannte Abfolge beweist X
+unabhängig vom Wahrheitswert von A.
+
+
+Nein. A ist eine Vermutung, und durch Einbeziehung sowohl der
+Vermutung als auch ihrer Negation erreiche ich, dass mein Beweis
+unabhängig vom Wahrheitswert dieser Vermutung ist.
+
+
+*Was* ist denn danach zufällig? Der Wahrheitswert von X auf jeden Fall
+nicht, und nur auf den kommt es in dem Beweis an. Die Wahrheitswerte
+von selbst Y und Z sind zwar nicht bekannt, aber die Wahrheitswerte
+von A-->Y und A-->Z. Das reicht jedoch schon für den Beweis.
+
+Viele Größe
+
+Francisco
+
+-- 
+If you think technology can solve your problems you don't understand
+technology and you don't understand your problems.  (Lorenz Corst)

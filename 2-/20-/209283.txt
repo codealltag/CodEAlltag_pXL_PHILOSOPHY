@@ -1,0 +1,30 @@
+Wenn man gezeigt hat, daß es möglich ist, über Eigenschaften von
+reellen Zahlen zu reden, ohne sich in Widersprüche zu verwickeln
+(d.h.es existiert ein konsistenter Begriff der reellen Zahlen), so
+"kann" es sie geben, sie men aber nicht notwendigerweise existieren.
+Beispielsweise gibt es den Begriff "Gott", über den sich sicherlich
+trefflich streiten läßt (insbesondere von Atheisten), ohne daß allein
+durch die Existenz dieses Begriffs Gott in einem ontologischen Sinne
+existieren muß.
+Auf die mathematische Begriffswelt übertragen "kann" es dann reelle
+Zahlen geben, wenn ein Axiomensystem für rellen Zahlen (d.h. eine
+Menge von Aussagen über  Eigenschaften dieser Zahlen, aus denen man
+alle anderen "gewünschten" Eigenschaften hofft, ableiten zu können)  
+widerspruchsfrei ist.
+
+Eine andere Frage ist es, ob reele Zahlen tatsächlich existieren, d.h.
+ob es eine mathematische Struktur (eine nichtleere Menge mit gewissen
+Operatoren und Relationen) gibt, in der die Axiome gelten. Solch eine
+Struktur wird  "Modell" genannt.
+
+Unter bestimmten Annahmen über die Ausdruckskraft der formalen
+Sprache, in der ein Axiomensystem formuliert ist, und unter Verwendung
+der Mengenlehre als "Rahmenthoerie"  ( die Mengenlehre selbst ist dann
+Teil der Metasprache)  ist die Widerspruchsfreiheit eines
+Axiomensystems Äquivalent zu der Existenz eines Modells für dieses
+Axiomensystem (Gödelscher Vollständigkeitssatz).
+
+Folglich gibt es relle Zahlen genau dann, wenn es sie "geben kann" :-)
+
+
+Mirko

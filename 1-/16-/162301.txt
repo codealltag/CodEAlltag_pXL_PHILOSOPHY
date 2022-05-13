@@ -1,0 +1,77 @@
+Hallo,
+
+
+Bei den ersten Computersystemen gab es auch keine 
+Hardware/Software-Unterscheidung.
+Ich habe von daher gar kein Problem damit, zuzugeben, daß biologische Gehirne 
+diese Trennung auch nicht kennen - das ist einer der Nachteile, die biologische 
+Gehirne gegenüber hinreichend leistungsfähigen freiprogrammierbaren Computern 
+haben: die letzteren sind erheblich flexibler, was Umstrukturierungen ihrer 
+Datenverarbeitungsprozesse angeht.
+Ein riesiges neuronales Netz kann sich nur relativ langsam verändern, während 
+ein Petaflops-Supercomputer beispielsweise ein riesiges neuronales Netz oder 
+ein Programm für symbolische KI oder ein spezielles Beweis-Verifikationssystem 
+innerhalb weniger Mikrosekunden laden kann, wann immer das nützlich erscheint 
+und diesen Prozessen dann auch sofort ein erheblicher Teil der 
+Gesamtrechenkapazit�t zur Verfügung stehen kann.
+
+
+Naja, es gibt auch etwa die Experimente von Nagls, bei denen die künstliche 
+Erregung festgelegter Stellen des Gehirns festgelegte Erinnerungssequenzen 
+aufzurufen schien...
+Ich frage mich auch, mit welcher Art Gedächtnis sich die von Dir beschriebenen 
+Versuche befassen, da meines Wissens etwa das episodische Gedächtnis deutlich 
+anders funktioniert als der Teil des Gedächtnisses, der in 
+Konditionierungs-Experimenten wichtig ist.
+Im übrigen zeigt gerade Dein Experiment *keinen* Unterschied zwischen Gehirnen 
+und künstlichen Computern, denn die Zerstörung eines bestimmten Abschnitts 
+einer Festplatte könnte ohne weiteres nur zur Folge haben, daß viele Dateien 
+ein bisschen beschädigt sind; einfach deswegen, weil in einem real 
+existierenden Computer meistens nicht einer Datei ein kleines zusammenhängendes 
+Festplatten-Segment zugeordnet ist. Das Gehirn würde dann Deinem Experiment 
+zufolge eben vielleicht einem Computer entsprechen, der schon länger kein 
+Defragmentierungsprogramm mehr gesehen hat - was wiederum bei Computern, bei 
+denen Datenspeicherung Hardwareumbau bedeutet, naheliegend wäre, weil für 
+solche Computer ein Defragmentierungs-Durchlauf reichlich unökonomisch wäre.  
+
+
+Ein Computer kann ohne weiteres darauf programmiert werden, unvollständige 
+Information durch geeignete Interpolationsverfahren zu vervollständigen oder 
+abgespeicherte Daten mit unvollständigen Eingabe-Daten zu vergleichen und in 
+ersteren nach "besten Entsprechungen" für eine möglichst gute Rekonstruktion zu 
+suchen.
+Ein ganz triviales Beispiel für ein System, das so etwas tut, ist FLT 
+(www.oajjwxeiv.szi).
+Nun ist es durchaus so, daß verschiedenartige Hardware-Strukturen ein 
+"assoziatives" Abrufen von Speicherinhalten unterschiedlich gut unterstützen, 
+aber jeder derartige Effekt kann durch "Erhöhung der Rechenleistung" 
+ausgeglichen werden.
+Ich halte es zwar für nicht unwahrscheinlich, daß man eines Tages 
+holographische Massenspeicher auf breiter Front in Computern einsetzen wird, 
+aber das wird nicht primär daran liegen, daß diese - was der Fall ist - 
+"assoziative" Datenverwaltungstechniken besonders gut unterstützen, sondern 
+daran, daß man mit derartigen Speichern höhere Datendichten erreichen kann als 
+mit der heute dominierenden Festplatten-Technik.
+
+
+Mit anderen Worten: das Gehirn tut alles, was es tut, mit einem gewaltigen 
+Rechenaufwand und bezeichnet das dann als effizient :).
+Zugegeben, für gewisse Anwendungen *sind* die Datenverarbeitungsmechanismen des 
+Gehirns effizient, aber im Zweifelsfall wird die Sache noch effizienter, wenn 
+man entsprechende Prozesse auf einer genügend leistungsfähigen 
+freiprogrammierbaren Hardware emuliert, sobald sie benötigt werden.
+
+
+Das kann mein Computer auch.
+
+
+H.... mein Computer hat auch keine Schwierigkeiten damit, ganz viele 
+verschiedene Datentypen zu verwalten, ohne daß sein Speicher deswegen speziell 
+für assoziative Datenverarbeitung konstruiert wäre.
+
+
+Bei meinem Computer gibt es auch keine Unterschiede zwischen verschieden alten 
+Datensätzen, was die Zugriffszeiten betrifft.
+
+Größe,
+Walter.

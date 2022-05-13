@@ -1,0 +1,36 @@
+Nein, die logische Form dieses Satzes ist
+
+~ (Ex) (x schmeckt Heinrich besser als Fischstäbchen.)
+
+Anzunehmen, der Term "nichts" referiere, ist tatsächlich eine
+Begriffsverwirrung.
+
+
+Ja, dadurch, dass er eingeschrumpft ist, kann es nicht mehr als
+Maßstab für den Meter dienen.
+
+
+Um *festzustellen*, dass das Urmeter geschrumpft ist, brauchst du
+einen *anderen* Maßstab. Ansonsten kannst du nicht sagen, er sei
+geschrumpft. 
+
+
+Doch, es sind 0 Nässe im Eimer. Was ist daran Paradox? Vorbehaltlich
+technischer Schwierigkeiten mit diesem Ansatz definiert man
+nat. Zahlen wie folgt:
+
+Wir bilden Mengen (Gesamtheiten) von Dingen, etwa die Murmeln im
+Eimer, und die Schafe auf der Wiese. Wir können nun feststellen, ob es
+genau so viele Murmeln im Eimer wie Schafe auf der Wiese
+gibt.(vorbehaltlich, dass sie sich nicht abrupt vermehren,etc.), in
+dem wir sukzessive gleichzeitig eine Murmel aus dem Eimer und ein
+Schaf von der Wiese nehmen, und es sind gleich viele, wenn wir mit dem
+Verfahren mit der letzten Murmel auch das letzte Schaf "herausnehmen".
+
+Eine Zahl definieren wir nun als Äquivalenzklasse von Mengen, die
+jeweils gleichviele Dinge enthalten. Die 0 ist dann die
+Äquivalenzklasse, die zum leeren Eimer gehört, so dass wir sinnvoll
+sagen können: Der Eimer enthält 0 Dinge.
+
+
+lukas

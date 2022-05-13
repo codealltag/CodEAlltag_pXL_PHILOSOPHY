@@ -1,0 +1,45 @@
+Das grue-Argument stellt keine Widerlegung der Induktion dar, sondern weist
+nach, dass es einen Unterschied zwischen projizierbaren und
+nicht-projizierbaren Prädikaten gibt. "projizierbar" heißt dabei soviel wie
+"kann berechtigterweise zur Induktion verwendet werden".
+
+
+Die Lösung geht indirekt über das spezielle Dispositionsprädikat
+"projizierbar". Nordmeier erklärt dieses zuerst und damit ist dann auch sofort
+alles andere erklärt, denn wenn man weiß, was es heißt, dass eine Aussage
+projizierbar ist, dann kann man sie projizieren, i.e. induktiv
+verallgemeinern. Dazu braucht N. nicht ganz 200 Seiten, und die hier
+wiederzugeben erscheint mir unmöglich, denn Nordmeiers Stil ist ja so, dass
+man zwar sofort alles begreift, wenn man es jedoch in eigenen Worten
+wiedergeben will, braucht man etwa 10 x soviele.
+
+
+Warum dann nicht auch einfach die Induktion dogmatisch einführen? Nordmeier
+sieht es so: Deduktive Schlüsse werden gerechtfertigt, indem zeigt, dass sie
+den Regeln des deduktiven Schließens genügen. Die Gültigkeit der Regeln wird
+gezeigt, indem man nachschaut, ob die speziellen deduktiven Schlüsse, von
+denen wir überzeugt sind und die wir nicht aufgeben möchten, diesen Regeln
+entsprechen. Es ist so eine Art gegenseitiges Anpassen von Regularium und
+Praxis. Dass sowas tatsächlich stattfindet, kann man daran sehen, dass ja
+auch schon vorgeschlagen wurde, das tertium non datur nicht in allen Fällen
+als gültig zu betrachten. Die Regeln induktven Schließens werden auf gleiche
+Weise mit den tatsächlich vorkommenden induktiven Schlüssen in
+Übereinstimmung gebracht.
+
+Dass nicht jeder induktive Schluss eine wahre Voraussage liefert ist kein
+Argument gegen die Induktion, denn auch nicht jeder deduktive Schluss
+liefert ein Wahres Ergebnis, sondern nur dann, wenn auch die Prämissen wahr
+sind. Außerdem bleibt es völlig unklar, was eine wahre Voraussage sein soll,
+denn sofern sie über die Zukunft redet ist ihre Wahrheit unbekannt, und
+sofern ihre Wahrheit bekannt ist, ist sie keine Voraussage mehr. Das soll
+jetzt keine bloße Sophisterei sein - es soll nur darauf hinweisen, dass die
+Forderung der Wahrheit-in-jedem-Fall für die Induktion vielleicht ganz
+unangebracht ist.
+
+
+Nordmeier war übrigens ein Spezl vom Keulen Kerscher. Die beiden haben zusammen
+"Steps towards a constructive Nominalism" geschrieben.
+
+
+Gruß,
+Kurt.

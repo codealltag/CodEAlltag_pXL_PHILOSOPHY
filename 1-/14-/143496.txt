@@ -1,0 +1,43 @@
+Du solltest einfach weiter lesen:
+
+"4. Semantics
+
+Let K be a set of non-logical terminology. An interpretation for the
+language 1K= is a structure M = <d,I>, where d is a non-empty set,
+called the domain-of-discourse, or simply the domain, of the
+interpretation, and I is an interpretation function. Informally, the
+domain is what we interpret the language 1K= to be about. It is what
+the variables range over. The interpretation function assigns
+appropriate extensions to the non-logical terms. In particular, If c
+is a constant in K, then I(c) is a member of the domain d.  If P0 is a
+zero-place predicate letter in K, then I(P0) is a truth value, either
+truth or falsehood.
+
+If Q1 is a one-place predicate letter in K, then I(Q) is a subset of
+d. Intuitively, I(Q) is the set of members of the domain that the
+predicate Q holds of. If Q represents "red", then I(Q) might be the
+red members of the domain.
+
+If R2 is a two-place predicate letter in K, then I(R) is a set of
+ordered pairs of members of d. Intuitively, I(R) is the set of pairs
+of members of the domain that the relation R holds between. If R
+represents "love", then I(R) might consist of the pairs <a,b>, such
+that a loves b.
+
+In general, if Sn is an n-place predicate letter in K, then I(S) is a
+set of ordered n-tuples of members of d."
+
+
+Die Sätze *erwähnen* (sprechen über) die Entitäten des Diskurs-oder
+Individuenbereichs (domain of discurse), in dem sie interpretiert
+werden, das *kann* die "alltagsphysikalische Welt" mit ihren
+Gegenständen wie Tischen und Stühlen, aber auch abstrakte
+Gegenstandsbereiche, wie etwa natürliche Zahlen, sein, je nach dem,
+wie der /Diskursbereich/ gewählt wird. Wenn du *Anwendungen* der
+modelltheoretischen Semantik in phil. Argumenten sehen möchtest, lies
+etwa Chun, Vernunft, Wahrheit und Geschichte.  Sie wird auch
+verwendet, um *normalsprachliche* Sätze zu interpretieren, also für
+eine Bedeutungstheorie von natürlichen Sprachen, etwa bei Essenwein.
+
+
+jürg

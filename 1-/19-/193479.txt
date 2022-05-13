@@ -1,0 +1,127 @@
+Findest Du das wenig? (2') ist ein allgemeines, wahres Nicht-Gesetz.
+Ob ein solcher Satz ein Gesetz ist, wird also nicht nur durch die
+syntaktische Form bestimmt. Eine Philosophie, derzufolge erklaeren
+heisst, aus Gesetzen abzuleiten, erklaert gar nichts, solange sie
+keinen Unterschied zwischen Gesetzen und wahren allgemeinen
+Nicht-Gesetzen angeben kann.
+
+
+Ich habe schon an mehreren Stellen geschrieben, dass die Orts- und
+Zeitunabhaengigkeit kein Kriterium der Gesetzeshaftigkeit sein kann,
+da man Saetze immer so umformen kann, dass sie ohne solche Referenzen
+auskommen. Und, was noch wichtiger ist, man kann jedes Gesetz so
+umformulieren, dass zB von einem Zeitpunkt die Rede ist. Ich muss wohl
+endlich einen Beweis bringen, an Hand des folgenden Beispiels, wobei
+ich davon ausgehe, dass der Zeitpunkt t in der Zukunft liegt:
+
+(3) Alle Smaragde sind gruen.
+
+Def.1: Nenne jeden Gegenstand Smarphir, der vor t geprueft wurde und
+ein Smaragd ist, oder nicht vor t geprueft wurde, aber ein Saphir ist.
+
+Def.2: Nenne jeden Gegenstand Saphragd, der vor t geprueft wurde und
+ein Saphir ist, oder nicht vor t geprueft wurde, aber ein Smaragd ist.
+
+Def.3: Nenne jeden Gegenstand glau, der vor t geprueft wurde und gruen
+ist, oder nicht vor t geprueft wurde, aber blau ist.
+
+Def.4: Nenne jeden Gegenstand bruen, der vor t geprueft wurde und blau
+ist, oder nicht vor t geprueft wurde, aber gruen ist.
+
+Dann kann man formulieren:
+
+(4) Alle vor t geprueften Smarphire sind glau, und alle nicht vor t
+geprueften Saphragde sind bruen.
+
+Die Saetze (3) und (4) sind offenbar aequivalent. Wenn (3) ein Gesetz
+ist, ist anzunehmen, dass (4) auch eines ist, /obwohl/ es einen Bezug
+auf einen Zeitpunkt gibt.
+
+
+In einer Sprache, die solch pathologische Praedikate wie in Def.1-4
+als Ausgangspraedikate besitzt, ist nun folgendes definierbar:
+
+Def'.1: Nenne jeden Gegenstand gruen, der vor t geprueft wurde und
+glau ist, oder nicht vor t geprueft wurde, aber bruen ist.
+
+Def'.2: Nenne jeden Gegenstand blau, der vor t geprueft wurde und
+bruen ist, oder nicht vor t geprueft wurde, aber glau ist.
+
+Die Paare blau/gruen und glau/bruen verhalten sich also, bezogen auf
+die jeweils andere Sprache, voellig symmetrisch zueinander. Die
+Behauptung, unsere Sprache sei die 'richtigere', kann offenbar nicht
+ohne Metaphysik begruendet werden.
+
+
+Es ergibt sich ein weiteres Problem. Die vorliegenden Daten, also das,
+was bisher geprueft wurde, sollte einigermassen falsche von richtigen
+Hypothesen (= Gesetzen) trennen. Das ist leider nicht so:
+
+Def.5: Nenne jeden Gegenstand Smarbin, der vor t geprueft wurde und
+ein Smaragd ist, oder nicht vor t geprueft wurde, aber ein Rubin ist.
+
+Def.6: Nenne jeden Gegenstand grot, der vor t geprueft wurde und gruen
+ist, oder nicht vor t geprueft wurde, aber rot ist.
+
+Dann ist der Satz:
+
+(6) Alle Smarbine sind glau.
+
+ebenso gut durch die vorliegenden Daten gerechtfertigt wie
+
+(7) Alle Smarbine sind gruen.
+
+oder auch
+
+(8) Alle Smarbine sind grot.
+
+da Smaragde gruen sind, und jeder Smarphir, der bisher geprueft wurde,
+ein Smaragd war, und mithin gruen, dh auch glau und grot.
+
+Aus (6) folgt aber, dass Rubine nach t blau sind, und aus (7), dass
+sie dann gruen sind. Wenn Du jetzt erwiderst, dass man jetzt schon
+wisse, dass Rubine nach t rot bleiben werden, dann frage ich Dich:
+Woher weisst Du das? Kannst Du hellsehen? Schliesslich geht es ja um
+Zukuenftiges, was /jetzt/ gar nicht geprueft werden kann.
+
+Das heisst uebrigens auch, dass (8) im Moment nicht falsifizierbarer
+ist als (6) oder (7). Damit ist wohl gezeigt, dass das Kinsky
+Kriterium gar nicht immer das leistet, was es verspricht.
+
+(Die Beispiele stammen im Wesentlichen von Theuerer)
+
+
+Ja, das waere eine rationale Entscheidung. ;-)
+
+
+Da sind wir uns ja einig. Trotzdem bleibt die Frage, inwieweit man
+Tatsachen dann noch zur Definition der Wahrheit verwenden kann.
+
+
+Dass ich behaupte, das, was Kahlhöfer unter Tatsachen versteht, gibt es
+nicht. Wenn man in der Alltagssprache ueber Tatsachen redet (und dabei
+meist das Wort 'Tatsache' gebraucht), verpflichtet man sich nicht auf
+eine Ontologie derselben. Es ist nur eine lockere Redeweise, um die
+eigenen Worte zu bekraeftigen. Man koennte ebensogut statt "Es ist
+eine Tatsache, dass ..." sagen "Es ist wahr, dass ..." oder "Ich
+weiss, dass ..." oder auch "Es ist doch klar, dass ...". 
+
+Der Zusammenhang mit dem semantischen Holismus ist folgender: Die
+einzelnen Saetze einer Sprache haengen nicht unabhaengig voneinander
+mir der Wirklichkeit zusammen, sondern als Kollektiv. Die Bedeutung
+eines Satzes haengt davon ab, wie die Sprache als Ganzes organisiert
+ist. Also kann man auch nicht einfach einzelne Tatsachen herausnehmen
+und behaupten wegen der Tatsache Ti sei der Satz Si wahr.
+
+
+[wer behauptete, die empirische Basis bestimme die Theorie?]
+Du hast recht, ich hatte da was durcheinander gebracht. Wir sind hier
+offensichtlich beide der Meinung, dass die Basissaetze nicht ohne
+weiteres die Theorie bestimmen.
+
+
+???
+
+
+Gruss,
+Willi.

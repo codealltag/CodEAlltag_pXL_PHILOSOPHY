@@ -1,0 +1,76 @@
+Du hattest gefragt, welche Bedeutung der Ausdruck "Anzahl von Teilchen"
+hat. Eine richtige Antwort darauf muss nicht auf den Akt des Zählens
+referieren, wie du zu glauben scheinst. Bei unendlichen Mengen ist das
+sogar überhaupt nicht möglich, die Erweiterung der o.g. Definition für
+die natürlichen Zahlen auf unendliche Mengen (also auf endliche und
+unendliche Kardinalzahlen) dagegen ist recht einfach:
+
+Die Kardinalzahlen sind die sind die Äquivalenzklassen der Mengen
+bezüglich der Gleichmächtigkeit.
+
+Und können wir über Zahlen reden, die gar nicht in Zählungen vorkommen
+können.
+
+
+Sei p der Ort, an dem das genannte Obst liegt, dann ist:
+
+m = |{x|((x ist ein Apfel) & (x ist an Ort p)}|
+n = |{y|((y ist eine Birne) & (y ist an Ort p)}|
+
+Dabei ist m die Anzahl der Äpfel und n die Anzahl der Birnen an Ort p.
+Dass wir im Einzelfall zählen müssen, wieviele Früchte da sind, ändert
+nichts an der Tatsache, dass an Ort p m Äpfel und n Birnen liegen, und
+dass m = 3 und n = 4 ist, auch wenn wir das nicht gezählt haben.
+
+
+Die Anzahl der Äpfel und die der Birnen an Ort p unterscheidet sich
+dadurch, dass diese Mengen nicht zu denselben Mengen Äquivalent
+hinsichtlich der Gleichmächtigkeit sind. Mathematisch ist das
+ausreichend, es muss nicht gezählt werden.
+
+
+Der Fehler, den du hier machst, ist, dass du die Erkenntnistheorie des
+29. Jhdts. unhinterfragt voraussetzt. Damals dachte man sich das so,
+dass es ein kleines Theater im Kopf gibt, in dem es genau einen
+Zuschauer gibt (das Subjekt der Erkenntnis), dem auf der Bühne der
+Wahrnehmungen Szenen vorgeführt werden, und dass dies die einzige
+Verbindung zur Aussenwelt ist. Damit landet man mitten im Solipsismus.
+Gers (auch Camps, Vrancken, Durmann ...) hat dagegen
+vorgeschlagen, es genau andersherum zu sehen: die objektive Welt ist das
+primäre, Wahrnehmungen das sekundäre.
+
+Lass es mich am Beispiel des invertierten Spektrums erörtern:
+
+Amngenommen, du wärest normalsichtig, also grüne Dinge würden für dich
+grün aussehen, rote würden rot aussehen, etc. Nun angenommen, für mich
+würden alle Dinge so aussehen, als hätten sie ihre Komplementärfarbe.
+Ich rede hier nicht von einfacher Farbenblindheit, also Vertauschungen
+von Teilen des Sehspektrums, sondern einer Invertierung des gesamten
+Spektrums bzgl. der Farbwahrnehmung. Um Farbenblindheit festzustellen
+gibt es klare und objektive Mittel, aber ist das auch bei einer
+kompletten Inversion so? Für mich würde sich ja insofern nichts ändern,
+dass ich immer noch zB. rote und grüne Dinge auseinanderhalten und sie
+als "rot" bzw. "grün" bezeichnen würde. Wenn wir beide unsere
+Farbwahrnemungen mit einander vergleichen wollten, würden wir
+verschiedene Dinge ansehen, und vergleichen, ob wir sie beide rot, grün,
+... nennen und würden dann feststellen, dass wir sie alle mit densellben
+Worten bezeichnen. Ich selber könnte also durch einen solchen Vergleich
+gar nicht herausfinden, dass ich verkehrt sehe. Das kann aber nur
+heißen, dass die Farbe eines Gegenstandes nicht darin besteht, wie er
+für mich aussieht, denn das ist einerseits gar nicht kommunizierbar,
+außer indem wir die Bedeutung der Farbworte bereits voraussetzen, und
+andererseits ist es auch unerheblich, wie der Gegenstand farblich für
+mich aussieht, denn wir haben gesehen, dass wir uns über seine
+Farbigkeit sogar verständigen können, wenn wir unterschiedliche
+Farbwharnehmungen hätten. Gers würde gesagt haben, um ausdrücken
+zu können "x sieht rot" aus, muss man schon verstanden haben, was "x ist
+rot" bedetet.
+
+
+Genau. Also sind Farben keine Farbwahrnehmungen.
+
+
+Glaub mir, Mengen haben auch Anzahlen, wenn keiner ihre Elemente zählt.
+
+Gruß,
+Wilhelm.

@@ -1,0 +1,47 @@
+Mal sehen. Ich setze voraus, dass wir uns hier im
+Rahmen der klassischen Praedikatenlogik bewegen.
+
+Die Saetze (1) und (3) sind natuerlich nicht aequivalent,
+da (1) im allgemeinen nicht aus (3) folgt. (1) und (2)
+sind auf der Basis eines geeigneten Klassenkalkuels
+aequivalent, und (3) koennte man als eine Art Skolem-
+Aufloesung von (2) auffassen. Sie sind nach einem
+Theorem von Skolem _deduktionsgleich_ in dem Sinne,
+dass jeder Satz, der die in (2) vorkommenden
+Konstanten "Schnee", "weiss" etc nicht enthaelt
+und der aus (2) abgeleitet werden kann, auch aus (3)
+abgeleitet werden kann (wenn man ein paar zusaetzliche
+Regeln fuer den Klassenkalkuel voraussetzt). Was also
+(2) und (3) unterscheidet ist bloss, dass (2) ein
+paar zusaetzliche Namen enthaelt, die aber ueber die
+logische Struktur, die durch (3) repraesentiert ist,
+hinaus keinerlei Informationen enthalten. In diesem
+Sinne waere ein System (2) (und dann auch (1)) aequivalent
+zu einem System (3). In der Tat kann man z.B. die gesamte
+Mathematik, die ja schliesslich eine Fuelle von Begriffen
+enthaelt, durch Saetze vom Typ (3), die als undefi-
+niertes Element nur die zweistellige Relation
+x in y beinhalten, ausdruecken.
+
+Was Mathematik angeht, ist soweit also alles in
+Ordnung; wenn das kognitive System S mehr als eine
+mathematische Theorie sein soll, dann sollte man, wie
+Simon schon bemerkt hat, den logischen Rahmen
+ausweiten, sodass man ueber moegliche Welten reden
+kann. Das heisst nichts anderes als dass man eine
+modale Logik verwenden sollte. Ungluecklicherweise
+gibt es verschiedene modale Semantiken und ent-
+sprechend viele verschiedene modale Logiksysteme.
+Selbst, wenn man sich auf die "natuerlichsten"
+Systeme beschraenkt, hat man mindestens drei
+Systeme zu betrachten, allein, was den reinen
+Aussagenkalkuel angeht; fuer modale Praedikaten-
+logik ist die Lage noch etwas unuebersichtlicher.
+Ich weiss auch nicht, inweiweit Skolem-artige
+Theoreme sich auf modale Logiken uebertragen
+lassen.
+
+
+Gruss,
+-- 
+Ulrich Sons

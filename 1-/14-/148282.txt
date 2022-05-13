@@ -1,0 +1,23 @@
+[ snip ]
+
+
+Wenn man  (10/9)*x  =  (9/8)*x  als Bestimmungsgleichung für  x   betrachtet,
+dann ist in  IR  die einzig mögliche Lösung  in  x = 0,   und in einer projektiven
+Erweiterung von  IR  gibt es noch die zusätzlichen Lösungen  x = oo  und  x = -oo
+wobei  oo  und  -oo  selbstverständlich keine Zahlen, sondern Punkte der
+projektiven Geometrie sind.
+PUNKT
+
+Wenn man  (10/9)*x  =  (9/8)*x  als Identität betrachtet und z.B.
+Koeffizientenvergleich machen will, dann ist dies nicht möglich, da eine
+solche Identität mathematisch nicht existiert.
+
+
+Du kannst das schreiben und als Bestimmungsgleichungen für  x  betrachten,
+und dann gilt ...  siehe oben.
+Wenn Du es als etwas anders betrachtest, dann existiert das Betrachtete
+entweder mathematisch nicht oder es ist eine niemals erfüllbare Tautologie ...
+
+Größe
+    Otto
+--

@@ -1,0 +1,14 @@
+tino, am 20.7.01:
+
+
+mir scheint, der satz würde wahr, wenn der betrag der differenz von 2z +1 und 2(z+1) + 1, bzw. von 2z und 2(z+1) für eine
+beliebige ganze zahl z kleiner als 2 ist. rechnet man sich die differenzen aber aus, ergibt sich ein betrag gleich 2. darum ist
+dieser satz falsch.
+ im übrigen ist mir nicht klar, was genau du zeigen willst. du schreibst, die nichtdualit�t kann die nichtinh�renz der logik und
+der unlogik inhärent beweisen. was ist ein inhärenter beweis? muß ein inhärenter nichtinh�renz-beweis selbst inhärent sein? was
+genau ist es, das nicht dual ist? ist " Es  gilt im Ganzen : (1) Der Satz ist unwahr; (2) sein Gegenteil ist unwahr; (3) _und_
+beide zusammen sind auch unwahr." die formulierung der nichtdualit�t? wie stellt eine verknüpfung symmetrie und
+selbstbez�glichkeit her? und wie "erzeugen" diese dann inhären?
+bitte um ein wenig präzisierung.
+
+bye, tom.

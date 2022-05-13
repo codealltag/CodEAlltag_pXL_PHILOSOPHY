@@ -1,0 +1,139 @@
+Hallo Udo,
+ich möchte mich vorderhand auf ein Problem konzentrieren - womöglich 
+bestehen alle Mißverständnisse nur darin - und werde versuchen, es 
+darzustellen. Den Rest können wir ja später noch verhandeln.
+
+
+Alles klar. Ich habe gegen dieses Argument keine Einwände. Es beschreibt 
+aber nicht mein Problem, weil Du nur die sprachunabhängige Existenz 
+irgendeines Dinges erschließt, nicht aber eines *bestimmten* Dinges 
+namens "I" mit ganz bestimmten Eigenschaften, die gerade für I stehen 
+und nur für I. In Deinem Argument könnte I für alles stehen - das 
+interessiert mich aber nicht, weil ich eh nicht bezweifle, daß 
+irgendwelche Dinge existiert haben, bevor sie vom Menschen *als etwas* 
+erkannt und näher bestimmt wurden.
+
+Ich werd' mein Problem jetzt, analog zu Deiner Formalisierung, 
+aufzubauen versuchen. Denn mich interessiert eigentlich weniger der 
+Nachweis, ob es korrekt ist, zu sagen, S. habe in P. gelebt, auch wenn 
+es in P noch keine Sprache und kein sprachbegabtes Wesen gab, sondern 
+was es *bedeutet*, wenn vom Leben eines I in P die Rede ist. Hansruedis 
+Beispiel ging ja bekanntlich von Fossilienfunden aus. Insofern nun 
+irgendwelche Knochen in irgendwelchen geologischen Schichten den Schluß 
+nahelegen, es habe in M ein I gelebt, darf wohl davon ausgegangen 
+werden, daß die Knochen dem I zugehörig sind. Ich sehe jetzt mal davon 
+ab, daß tatsächlich ja zumeist keine Knochen, sondern "Abbilder" von 
+Knochen vorhanden sind. Wir behandeln die Fossilien also so, als wären 
+es "richtige" Knochen. Folglich hat I die Eigenschaft, Knochen gehabt zu 
+haben. Nun weisen die Wissenschaftler, die sich mit Sauriern 
+beschäftigen, diesen Tierchen auch noch andere Eigenschaften zu, auch 
+solche, die nicht fossil dokumentiert sind. D.h. aber im Klartext, daß I 
+nicht allein durch die Eigenschaft beschrieben ist, Knochen gehabt zu 
+haben, sondern I soll z.B. auch Eier gelegt haben, obwohl vielleicht 
+noch nie ein I-Ei gefunden wurde. I soll womöglich gelbschillernde Haut 
+gehabt haben, obwohl noch nie gelbschillernde I-Haut gefunden wurde.
+
+Es scheint also so zu sein, als würde das, wofür "I" steht, durch 
+Eigenschaften beschrieben, die sich - für unsere Zwecke - in zwei 
+Gruppen einteilen lassen: solche, die wir mit einer hohen Sicherheit aus 
+dem fossilen Befund ableiten können (p) und solche, wo wir die entspr. 
+Eigenschaften zwar vermuten, aber nicht genau verifizieren können (q).
+
+Die entscheidende Frage ist nun, wodurch "I" hinreichend beschrieben 
+ist. Reicht es aus, mit dem, was wir materiell identifizieren können 
+(wie die Knochen), "I" hinreichend zu beschreiben? - Ich fürchte nicht. 
+Denn tatsächlich weisen wir "I" eine Menge Eigenschaften zu, die die 
+aufgefundenen Knochen nicht unmittelbar anschaulich machen. Ja, wir 
+geben, wenn wir von "I" sprechen, sogar an, wie er sich verhalten, 
+fortgepflanzt, wovon er sich ernährt und wie er Brutpflege betrieben 
+hat. All das hat nie jemand gesehen noch ist es anderweitig 
+dokumentiert, sondern es ist *erschlossen*, aus analogen Fällen bei 
+verwandten Tieren, aus mittelbaren Hinweisen und aus Hypothesen.
+
+Würde I durch p hinreichend beschrieben, dann hieße 'Es gab ein I in M', 
+daß in M ein paar Knochen (und vielleicht noch ein paar andere Dinge) da 
+waren. Streng genommen folgt daraus noch nicht mal, daß I überhaupt ein 
+Lebewesen ist, aber selbst wenn wir unterstellen, daß Knochenfunde wie 
+die von I Leben implizieren, folgt daraus nicht das, was ich in einem 
+entsprechenden Lehrbuch über die Fauna von M finde. Da finde ich nämlich 
+einen ganzen Lebensraum, Verhaltensbeschreibungen, Ernährungs- und 
+Forpflanzungsverhalten usw.. Jene Anteile davon, die nicht durch p 
+verbürgt sind, also den materiellen Befund, nennen wir q. *Wenn* sie 
+aber nicht unmittelbar verbürgt sind wie der Knochenbefund, wodurch sind 
+sie dann verbürgt? Nun, es liegt auf der Hand, daß wir dabei 
+*rekonstruieren*. Denn es mag sein, daß beim Fund eines Saurierfossils, 
+das ganz ähnlich dem Skelett von I war, fossile Eier gefunden wurden 
+(nennen wir diesen Saurier "B").
+
+Nun passiert folgendes: Wir *folgern*: *Wenn* B eierlegend ist & B und I 
+beinahe identischen Aufbau zeigen & B und I immer in der selben 
+geologischen Schicht angetroffen werden & ... *dann* ist zu folgern, daß 
+B und I verwandt sind. *Wenn* aber B und I verwandt sind & sie beide in 
+M gelebt haben, *dann* werden sie auch beide Eier gelegt haben. - Ich 
+sehe auch hier davon ab, in eine tiefere Analyse dessen einzutreten, was 
+an dieser Stelle die Konstatierung von "Verwandtschaft" eigentlich 
+bedeuten mag und komme zum Schluß der Propädeutik: die q-Anteile von "I" 
+- hier speziell das "Eierlegen" - sind offenbar unter Zuhilfenahme 
+logischer und sprachlicher Partikel in den Eigenschaftenkatalog 
+gekommen, derweil die p-Anteile (zumindest in unserem vereinfachten 
+Fall) unmittelbare Evidenz zeigen.
+
+Ich komme nun zum modifizierten Argument:
+
+(01) Es gibt ein I für das gilt: p und q
+(02) Es gab p in M.
+(03) Es gab keine geistbegabten Wesen im M.
+(04) Es gab keine Sprache im M.
+(05) Es gibt p und q in H (heute).
+(06) Es gibt geistbegabte Wesen im H.
+(07) Es gibt eine Sprache in H.
+(08) Wenn M und H Zeiträume mit M < H sind, p in M existiert und q 		 
+   in H existiert, so ist p onotolog. unabhängig von H, jedoch
+      ontologisch abhängig von M.
+(09) p ist von Sprache ontolog. unabhängig.
+(10) Wenn M und H Zeiträume mit M < H sind, p in M existiert und q 		 
+   in H existiert, so ist q onotolog. abhängig von H, jedoch
+      ontologisch unabhängig von M.
+(11) q ist von Sprache ontolog. abhängig.
+
+---> Wenn für I gilt: p & q, so muß im Zeitintervall M das Ding I nicht 
+unbedingt existiert haben! Was da existiert hat, ist ein ?-Ding mit der 
+Eigenschaft p. Es könnte freilich sein, daß I auch schon im Intervall M 
+existiert hat, aber das wissen wir nicht, Udo; wir wissen - bei viel 
+gutem Willen und der Einfachheit halber - gemäß (02), daß ein Ding 
+existierte, daß die Eigenschaft p aufwies. Denn von den anderen 
+Eigenschaften, ausgedrückt in q, wissen wir erst seit dem Zeitintervall 
+H. Insofern also I aus p *und* q besteht, existiert I sicher erst seit 
+H. Das schließt natürlich nicht aus, daß I doch schon im Intervall M 
+existierte - aber bis die gelbglitzernde I-Haut und die I-Eier gefunden 
+sind, bleibt diese Frage offen.
+
+I ist also ein Konstrukt (deshalb heißt es in (01) auch: "es gibt" statt 
+"es gab", denn das Konstrukt ist ja rezent), es existiert nicht ohne 
+Zutun unseres Erkenntnisvermögens. Würden wir nämlich jene 
+Eigenschaften, die aus unseren Schlüssen hervorgehen, von I abziehen, 
+wäre I nicht mehr I, sondern ein Haufen steingewordener Knochen.
+
+Hinter dieser Ableitung steht - hoffentlich durchsichtigerweise - der 
+Gedanke, daß ein "I" zu postulieren mehr bedeutet als nur einem 
+Fossilhaufen einen Namen zu geben. Wenn dem aber so ist, also wenn wir 
+an "I" oder "B" usw. Konzepte herantragen, die nicht unmittelbar evident 
+sind, sondern vielmehr erschlossen, dann können wir m.A.n. nicht einfach 
+hergehen und so tun, als sei es sicher, daß *I* existiert habe. Denn 
+insofern im Konzept namens "I" Dinge, Eigenschaften und Zuschreibungen 
+stecken, die nicht unmittelbar evident sind, ist's ganz einfach 
+unsicher, ob das, was unter dem *Namen* "I" figuriert, wirklich so 
+gewesen ist, wie wir uns das vorstellen. - Es geht also nicht darum, die 
+Existenz der Entität, welcher wir den Namen I gegeben haben, zu 
+bestreiten, sondern vielmehr sieht es so aus, als stecke in allem, was 
+über die bloße Existenz hinausgeht, offenbar ein Mitkonstruieren unseres 
+Verstandes.
+Ich wüßte nicht, wie wir diesen subjektiven Faktor - genauer ist es ja 
+eine Vermittlung von Objektivität und Subjektivität - aus der Sache 
+raushalten könnten.
+
+Mag sein, daß Dir dazu was einfällt. - Mir vorerst nicht.
+
+Mit freundlichen Größen
+
+Pietro

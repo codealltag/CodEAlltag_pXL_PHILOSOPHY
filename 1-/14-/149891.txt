@@ -1,0 +1,35 @@
+On Mon, 24 Feb 2002 11:30:59 +0200, 
+
+Wieso macht sie keinen Sinn? Ob man nun sagt, dass es eine Menge
+von pw. disjunkten mehrpunktigen Intervallen gibt, die ueber-
+abzaehlbar sei, oder sagt "Es gibt ueberabzaehlbar viele disjunkte
+mehrpunktige Intervalle" macht keinen Unterschied, da sich der Begriff
+/ueberabzaehlbar/ eben nur auf Mengen bezieht.
+
+Mir scheint, dass Du den Fehler begehst, in die Aussage /die/ Menge aller
+disjunkten mehrpunktigen Intervalle hineinzuinterpretieren, fuer die dann
+gesagt werde, dass sie /ueberabzaehlbar/ sei. 
+Das ist aber eine Fehlinterpretation der Aussage. In der Aussage wird nur die
+Existenz einer ueberabzaehlbaren Menge gefordert, deren Elemente mehrpunktige 
+Intervalle und pw. disjunkt sind. 
+Durch welche "Eigenschaften" sie dabei aus Pot(R) ausgesondert wurden oder ob 
+sie R ueberdecken sollen, ist dabei voellig irrelevant. Man kann die Aussage 
+naemlich auch so sehen: "In Pot(R) gibt es ueberabzaehlbar viele .... 
+Intervalle".
+
+
+Ich glaube, Du verstehst nicht, worum es geht.
+
+
+Das kann man auch schreiben, ist aber nicht noetig. Wieso sollte ich
+aufeinmal von Ueberdeckungen sprechen? Also Deine Aussage ist im wesentlichen
+nichts anderes als "Es gibt eine Teilmenge von Pot(R), die ueberabzaehlbar
+viele pw......enthaelt." Und das ist ja nichts anderes als "Es gibt ueber-
+abzaehlbar viele ....", also die Ursprungsaussage.
+
+
+Versuche in Zukunft die Aussage richtig zu interpretieren.
+
+
+Gruss Igor
+--

@@ -1,0 +1,64 @@
+Dann wäre die Abbildung
+
+    2n     |--> 2n+1
+    2n+1   |--> 2n
+
+eine Permutation?
+Sie lässt sich ja in Zyklen zerlegen:
+
+<0,1>, <2,3>, <4,5>, <6,7>, <9,10>, ...
+
+Ein Signum kann man hier trotzdem nicht angeben.
+
+
+Dies hängt eben an der allgemeinen Definition von S_M.
+
+Mit Rechenoperationen (!) für unendliche Kardinalzahlen möchte
+ich nicht operieren, bevor das nicht eindeutig definiert ist.
+
+
+Ich bin auch der Meinung:
+
+
+Du schienst dies wiederlegen zu wollen, deswegen
+habe ich auf meinen Beweis verwiesen.
+
+Sehe ich das richtig, dass du mit GCH die Aussage
+meinst, dass bei unendlichen Mächtigkeiten aleph die
+n�chstgr��ere Kardinalität mit 2^aleph gebildet wird?
+
+
+Was willst du damit sagen?
+
+w^w ist die Mächtigkeit der Menge Abb(N,N).
+Die Menge  Bij(N,N) ist eine Teilmenge davon.
+
+Andererseits ist Abb(N,N) eine Teilmenge von
+Pot( N x N) (jede Abbildung ist eine Teilmenge
+des kartesischen Produktes).
+
+Damit ist
+     card(Bij(N,N)) <= w^w <= 2^(w^2)
+
+Nun ist w^2 = w  (N x N ~ N), also
+
+    2^(w^2) = 2^w
+
+also
+
+    card(Bij(N,N)) <= 2^w.
+
+Eine Injektion in die umgekehrte Richtung habe
+ich auch gezeigt.
+
+Und dass  2^w > w  ist, wurde doch schon
+mehrfach bewiesen (auch ohne Auswahlaxiom oder
+Kontinuumshypothese).
+
+
+Sagen wir es so: mit KONRAD kann man allgemein mehr anfangen
+als mit CH.
+
+
+Wofür brauchen wir da nailscorner und Ivulen ?
+Und was willst du damit zeigen?

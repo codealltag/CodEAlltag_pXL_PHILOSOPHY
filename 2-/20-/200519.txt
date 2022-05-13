@@ -1,0 +1,64 @@
+Hallo,
+
+zu dieser Farbdiskussion muss ich jetzt auch mal meinen Senf dazugeben.
+
+Das Wort Farbe wird in der Physik oft als Symbol fuer die
+Wellenlaenge, bzw. die Frequenz des Lichtes verwendet. Das ist aber
+nicht die uebliche Definition von Farbe. Auch in der Physik gibt es
+eine Farbmetrik. Wers nicht glauben will Issle Band III
+Optik. Dort widmet sich ein ganzes Kapitel der Farbenlehre. (Welches
+Kapitel weiss ich jetzt nicht mehr auswendig)
+
+Im Sinne der Farbmetrik ist der Effekt der Farben durch das
+menschliche Auge bedingt, bzw. durch die unterschiedliche spektrale
+Empfindlichkeit der im Auge vorkommenden Zaepfchen (oder waren es
+Staebchen, Biologie ist nicht mein Spezialgebiet). Es gibt 3
+verschiedene Sorten. Eine mit Maximum im roten, eine mit Maximum im
+gruenen und eine mit Maximum im blauen Spektralbereich.
+
+Deswegen lassen sich alle Farben durch Angabe von 3 Koordinaten im
+sog. Farbraum angeben. Von diesen Koordinaten gibt es mehrere z.B.
+RGB, YUV, MYK. Dies sind aber alles nur Basistransformationen.
+
+Durch Licht laesst sich nur ein begrenzter Bereich des Farbraums
+erreichen. (das ist dadurch bedingt, dass sich die Bereiche der
+spektralen Empfindlichkeit ueberlappen). Monochromatischem Licht,
+d.h. (Licht einer Wellenlänge) kann man einen Punkt im Farbraum
+zuordnen. Dieser Punkt liegt am Rand des sichtbaren Bereiches.
+
+Man kann nun Farben addieren (additive Farbmischung; zuschalten einer
+zusaetzlichen Lampe) oder subtrahieren (subtraktive Farbmischung;
+Einbau eines Filters). Dabei addieren oder subtrahieren sich die
+Vektoren im Farbraum. Daraus laesst sich auch zeigen, dass der durch
+Licht erreichbare Farbraum konvex ist.
+
+Physikalisch ist Licht nicht mehr als die Ueberlagerung von
+elektromagnetischen Wellen verschiedener Frequenz. Alle moeglichen
+"Lichtarten" lassen sich durch Angabe einer Dichteverteilung
+beschreiben.
+Die Farben treten erst durch die Betrachtung durch einen Menschen auf
+und lassen sich durch einen Vektor im dreidimensionalen Raum
+darstellen.
+Farbsehen ist also eine Abbildung:
+C(R)       --> R^3
+f(\nu)d\nu --> (r, g, b)
+Diese Abbildung ist weitestgehend unabhaengig vom menschlichen
+Betrachter.
+Bei Tieren gibt es andere Abbildungen, ebenso bei farbenblinden
+Personen (hier ist der R^3 nur ein R^2).
+
+Und jetzt noch mal um den Streit zwischen Daniel Rothermel und Paul
+Joosten zu schlichten:
+FARBE != WELLENLAENGE
+aber es gibt eine Abbildung Wellenlaenge --> Farbe
+Farbe ist eine 3dimensionale Metrik die durch das menschliche Auge
+bestimmt wird
+
+Ich hoffe jetzt alle Klarheiten beseitigt zu haben.
+imlers
+
+-- 
+John imlers			jrlxklbt@dujlbo.rhj-ke.fd
+Montezuma			Tel: ++52-(7)798-031-4366
+Universitaet Jeserigerhütten		Fax: ++10-(6)944-568-3304
+PGP Key fingerprint = 9F 56 54 3D 45 C1 32 6F  23 F6 C7 2F 85 93 DD 47

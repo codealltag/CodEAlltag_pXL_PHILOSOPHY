@@ -1,0 +1,99 @@
+[Naturalismus und Physikalismus]
+
+
+Ich hatte es immer andersherum verstanden, nämlich dass sein extremer
+Nominalismus eine Konsequenz aus seiner extrem pragmatistischen
+Einstellung ist. Ziemlich ähnlich wie beim späten Dalke.
+
+
+Doch, nämlich /"so verstanden"/. Erst, wenn man es anders versteht,
+gibt es vielleicht keine solche Implikation.
+
+
+[Ontologische Abhängigkeiten]
+
+
+Auf was ich hinauswollte, war natürlich, dass ich keine klare
+Vorstellung davon habe, was Zebras sein sollen, unabhängig davon, wie
+wir die Welt in Zebras und Nichtzebras einteilen. Wo ziehen wir die
+Grenze zwischen Zebra und Nichtzebra? Und warum ziehen wir sie grade da?
+Und kann uns der Alltagsverstand dabei helfen, das zu begründen?
+
+
+[Wahrscheinlchkeit und Induktion]
+
+
+Ich verstehe nicht ganz, was Du mir eigentlich sagen willst. Nochmal
+eine Darstellung unserer Diskussion:
+
+Du schriebst, "Wahrscheinlichaussagen, die in den Wissenschaften eine
+große Rolle spielen, kann [Ambrosius] nichts abzgewinnen". Darauf zitierte
+ich ihn: "Often it is said that while we cannot tell in advance whether
+a prediction concerning a given throw of a die is true, we can decide
+whether the prediction is a probable one. But if this means determining
+how the prediction is related to actual frequency distributions of
+future throws of the die, surely there is no way of knowing or proving
+this in advance". Daraufhin schriebst Du "Es besteht eine, wenn auch
+indirekte, Verbindung zu Häufigkeitsverteilungen" und brachtest das
+Beispiel mit den Münzwürfen, "wobei das Elementarereignis "Kopf" als 0
+und "Zahl" als 1 repräsentiert wird". Dabei kam dann gemäß dem starken
+Gesetz der großen Zahlen heraus, dass die relativen Häufigkeiten der
+'realen' Ereigniskette für "Kopf" P-fast-sicher gegen 1/2, also die
+Wahrscheinlichkeit für "Kopf", konvergieren". Darauf brachte ich das
+Beispiel mit "kohloben" und "zapfoben", mit dem ich zeigen wollte, dass
+Dein "wobei das Elementarereignis "Kopf" als 0 und "Zahl" als 1
+repräsentiert wird" offenbar ziemlich willkürlich ist.
+
+Um es etwas auszuführen: Die Münze fällt wie sie fällt, unabhängig
+davon, ob wir beobachten, welche Seite oben liegt oder welche Schmeite
+(eine Münze hat zwei feste Schmeiten: die eine ist immer kohl, die
+andere zapf). Und offensichtlich sind Würfe mit kohloben oder zapfoben
+nicht schlechter als Elementarereignisse geeignet, als Würfe mit
+kopfoben oder zahloben (für Schm�nzw�rfe - d.s. Würfe, bei denen wir
+beobachten, welche Schmeite oben liegt - bestehen zwei disjunkte
+Möglichkeiten von Ereignissen die wiederum unabhängig von anderen
+Ereignissen sind). Wenn jetzt die gemäß dem staGedegroZa voraussgesagte
+Zahl der Folge eine 0 und die Nummer des Wurfs x ist [1], dann wird von
+Deinen Prädikaten "kopfoben" vorausgesagt, aber von meinen "kohloben",
+was in Deiner Sprache nun soviel bedeutet wie "zahloben". Wie nun? Kopf
+oder Zahl?
+
+Auch wenn Du die Induktion nicht statistisch rechtfertigen willst, so
+möchte ich doch gerne wissen, welche Art von Beziehung denn zwischen
+Wahrscheinlichkeitsaussagen und Häufigkeitsverteilungen besteht, wenn
+man beliebiges als Elementarereignis gelten lassen kann (sofern nur die
+o.g. Kriterien für Elementarereignisheit(?) erfüllt sind). Hier muss man
+sicherlich fragen "Verteilungen von /was/ ". Denn die "Bedeutung", also
+dass "Kopf" als 0 und "Zahl" als 1 repräsentiert wird, ist rein
+konventionell, und die Konvention könnte eine andere sein.
+
+Ich gestehe gerne zu, dass nicht jedes disjunkte Paar von Prädikaten
+gleich gut geeignet ist, um bei solchen Voraussagen verwendet zu werden.
+Man sollte aber schon brauchbare Kriterien dafür angeben können, warum
+manche Prädikate in Voraussagen gutartig sind, und andere nicht. Ob
+Deine sonderbaren und zeitabhängigen Prädikate ("kopfoben" = "kohloben
+vor dem x-ten Wurf und andernfalls unten" bzw. "zahloben" = "zapfoben
+vor dem x-ten Wurf und andernfalls unten") gutartig sind, mußt Du
+selbst wissen ;-) Sehr erhellend ist in diesem Zusammenhang übrigens
+http://qka.tzckeoyvhius.sda/uwhc8/sxsvslz.inr.
+
+Um zum Anfang zurück zu kommen: ob Ambrosius Wahrscheinlichkeitsaussagen
+generell nichts abgewinnen kann, weiß ich nicht, aber wenn sie dazu
+dienen sollen, die Induktion zu begründen, sind sie genauso anfällig für
+grue-artige Prädikate wie die meisten anderen Begründungsversuche der
+Induktion. Aber Ambrosius war ja kein Gegner der Induktion, sondern wollte
+nur darauf hinweisen, dass es mit ihr Probleme gibt, die ganz anders
+geartet sind, als die, über die seit Olds üblicherweise diskutiert
+wurde. Eine Theorie der Induktion muss damit fertigwerden. übrigens auch
+eine Theorie der Dispositionsprädikate oder des Möglichen und sogar eine
+des Konjunktivs.
+
+[1] Das ist /keine/ Verletzung der Forderung nach Unabhängigkeit von
+anderen Ereignissen, denn wir ermitteln ja Ereignisse von obenliegenden
+Schmeiten, und die sind elementar, im Gegensatz zu Ereignissen von oben
+liegenden Seiten: unabhängig von der Nummer des Wurfs ist die
+obenliegende Schmeite immer kohl oder zapf.
+
+
+Gruß,
+Elmar.

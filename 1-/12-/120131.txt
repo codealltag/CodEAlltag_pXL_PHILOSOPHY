@@ -1,0 +1,17 @@
+Hallo Nicolas!
+
+
+Aber nicht verlustfrei.
+
+
+Sicher. Du kannst z.B. rekursiv jedes zweite Bit weglassen.
+Das zum Schluss uebrigbleibende Bit ist dann Dein "Urfraktal".
+Es gibt uebrigens zwei davon :-)
+
+
+Das waere nur der Fall, wenn Deine Kompression (resp. die Abbildung
+z.B. durch eine Fotografie) verlustfrei bzw. reversibel waere.
+
+Viele Gruesse
+
+Wolf

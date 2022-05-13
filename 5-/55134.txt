@@ -1,0 +1,43 @@
+Hallo Valerius,
+
+
+Für den genannten Fall 
+
+
+kann der Fall, dass der Wahrheitswert der Aussage definitiv nicht
+berechnbar ist, aber nicht eintreten: Angenommen, er wäre definitiv
+nicht entscheidbar. Können wir dann eine gerade Zahl finden, die sich
+nicht durch Primzahldifferenzen darstellen lässt? Offenbar nicht, denn
+wenn wir es könnten, dann wäre die Aussage widerlegt und damit
+entscheidbar. Wenn wir es nicht können, wäre die Aussage aber bewiesen
+und damit ebenfalls entscheidbar.
+
+
+Deine Aussage ist aber eine, die für "alle" Zahlen gilt: "Jede" Zahl
+ist nur ein anderer Ausdruck dafür.
+
+
+Man kann mit der Formulierung "Für alle Zahlen gilt:" offenbar
+erfolreich Mathematik betreiben. Das wäre für mich synonym mit "Es
+gibt 'alle Zahlen'". Falls du das anders siehst, dann sage bitte, was
+du unter "es gibt das Mathematische Konstrukt xyz" verstehst.
+
+
+Sie ist denkbar (sonst könnten wir nicht darüber diskutieren), und man
+kann auch Mathematik mit ihr betreiben: als Mächtigkeit von Mengen. Ob
+ich die Mächtigkeiten von Mengen als Zahlen bezeichne, ist eher
+Definitionssache.
+
+
+Warum? Die Aussage "Jede gerade Zahl ist entweder als Differenz zweier
+Primzahlen darstellbar oder nicht" ist doch auf jeden Fall wahr.
+
+
+Wofür? Dass eine mathematische Aussage wahr ist? Was sollte eine
+solche Wahrscheinlichkeit aussagen? "Wenn ich die Aussage x mal
+tätige, dann ist sie y mal wahr" (wenn die Wahrscheinlichkeit y/x
+ist)?
+
+Viele Größe
+
+Hans

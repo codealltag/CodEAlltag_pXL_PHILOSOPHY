@@ -1,0 +1,35 @@
+Hallo!
+
+Ullrich Andree <necspk.fldkwiyk@j-zrodur.mr> schrieb in im Newsbeitrag:
+3U9926F1.584VW48N@w-takbkn.hs...
+
+Nun, mein Rechner liefert hier das Ergebnis: "Division durch Null". Das ist
+aber auch egal, ob jetzt "Inf" oder eine Fehlermeldung oder sonstwas als
+Ergebnis kommt, wesentlich ist nur, daß der Rechner mir dann das
+weiterrechnen verbietet. (Ich hoffe, auch unter Linux läßt der Rechner Dich
+nicht mit "Inf" weiterrechnen).
+Dazu allgemein: In den reellen Zahlen ist 1/0 wie schon gezeigt nicht
+definierbar, ohne mit den vorhandenen Rechenregeln in Konflikt zu kommen.
+Was man aber immer machen kann: Man definiert 1/0 als einen Wert, der nicht
+in IR liegt, also keine reelle Zahl ist: Man definiert damit die
+Multiplikation/Division anstatt auf IR auf IR vereinigt {Inf} oder IR
+vereinigt {Division durch Null}. Dies ist zunächst widerspruchsfrei möglich,
+da es eine reine Definition ist. Zu den Widersprüchen kommt man erst, wenn
+man mit Inf weiterrechnen möchte, also die üblichen Rechenregeln auch für IR
+vereinigt {Inf} fordert (Du kannst natürlich sagen, "Die üblichen
+Rechenregeln interessieren mich auf IR vereinigt {Inf} nicht", aber welchen
+außermathematischen Sinn hat das ganze dann noch?).
+
+Man hat also durch 1/0=Inf das Problem "Division durch Null nicht definiert"
+gelöst und sich dadurch zum Beispiel das neue Problem "Addition Inf+Inf
+nicht definiert" eingehandelt.
+Nun könnte man auf die Idee kommen, einfach Inf+Inf zu definieren, zum
+Beispiel als Inf2, aber dies würde wieder zu Problemen führen, denn:
+Man kann mathematisch beweisen, daß es - egal wie man die Rechenoperationen
+definiert - nicht möglich ist, auf einer Menge, die zwei verschiedene
+Elemente 0 und 1 enthält, zwei Operationen + und * zu definieren, die die
+üblichen Rechenregeln erfüllen und bei denen immer -a und 1/a definiert ist.
+
+Größe,
+
+Manuel

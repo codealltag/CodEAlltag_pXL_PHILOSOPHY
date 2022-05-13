@@ -1,0 +1,44 @@
+rscqka.qvdkg@bqjostj-gzgrp.iq (Ludger Waldemar) schrieb... 
+[...]
+
+
+Ein "System" ist bei dir also eine Folge diskreter Zustände. Die
+meisten physikalischen Systeme laufen doch aber kontinuierlich ab,
+d.h. es gibt keinen direkten Nachfolger-oder Vorgängerzustand [ t ist
+bei dir der "Zeitparameter", oder?] und fallen aus deiner
+"Systemsicht" heraus. Eine andere Möglichkeit für die
+Charakterisierung von "deterministisch" besteht einfach in der
+"wörtlichen" Deutung, d.h. ein System ist dann "deterministisch", wenn
+jedem "Zeitpunkt" _eindeutig_ ein Zustand zugeordnet ist. Deine
+Definition ist imho zu "berechenbarkeitsorientiert", d.h. ein
+determinstisches System ist bei dir schon dann berechenbar, wenn die
+"Überführungsfunktion" berechenbar ist.   
+
+
+Wobei aus der Berechenbarkeit eines Systems seine Determiniertheit
+folgt.[ Oder soll ein System auch dann als berechenbar gelten, wenn
+Wahrscheinlichkeiten für "Folgezustände" berechenbar sind?] 
+
+Schwieriger ist der Begriff der "Vorhersagbarkeit", d.h es kann
+deterministische, nicht-vorhersagbare und  auch
+nicht-deterministische, aber vorhersagbare Systeme geben.
+Die quantenmechanischen Systeme sind wohl insofern "vorhersagbar", als
+dass Wahrscheinlichkeiten für bestimmte Ereignisse angegeben werden
+können, ihnen mangelt es aber an  "Determiniertheit".
+
+Ein deterministisches System dagegen kann auch dann "vorhersagbar"
+sein, wenn die "Überführungsfunktion" stetig ist, d.h kleine
+Veränderungen eines Zustands auch kleine Veränderungen des
+"Nachfolgerzustands" bewirken.[ ist ja gerade bei den von dir
+angegebenen Beispielen aus der Chaostheorie nicht der Fall].
+
+Immerhin wären das dann aber schon zwei *verschiedene* Präzisierungen
+von "Vorhersagbarkeit".
+
+Vorläufig kann zumindest der Schluß gezogen werden, dass ein
+deterministisches Universum die Möglichkeit eines "freien Willens"
+kategorisch ausschließt, eine vorhersagbare Welt intentionalem, auf
+freien Willen gegründetem Handeln aber nicht a priori widerspricht.
+
+
+reginald

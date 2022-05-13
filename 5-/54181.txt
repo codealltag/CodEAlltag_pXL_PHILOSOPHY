@@ -1,0 +1,98 @@
+Semantics    Meaning of something. Generally, it is the meaning of a set 
+of terms, which are interrelated.  
+
+Bedeutungen   Begriffsinhalt von irgendwas.  Im Allgemeinen gilt der 
+Begriffsinhalt in den Begriffsrahmen, welche in Wechselbeziehung stehen.
+
+richtig?
+
+Semantic Domain   Semantics, which is a domain  inside given semantics. 
+That means, it is a part of the meaning of a subset of the set of terms 
+of the semantics where it is a domain inside.  
+
+Semantischer Bereich   Bedeutungen, welche in einem Bereich innerhalb 
+gegebener Bedeutungen sind. Das bedeutet, es gilt ein Teil der Bedeutung 
+der Teilmenge des Begriffsrahmens der Bedeutungen, wo es einen Bereich 
+innerhalb gibt. 
+
+richtig? 
+
+Semantic Slice    Semantic domain, which can be described formally. That 
+means, it can be specified with a formal language.
+
+Semantisches Teilstück  Semantischer Bereich, welcher formal beschrieben 
+werden kann. Das bedeutet, es kann in einer formalen Sprache   	
+spezifiziert (genau festgelegt?) werden.
+
+Issue   An issue is semantics, which is described inside a semantic 
+domain. Described inside a semantic domain means, that it is described 
+using the terms of the semantic domain in the meaning of the semantic 
+domain. 
+
+Nachkomme  Ein Nachkomme ist bedeutungstechnisch, das innerhalb eines 
+semantischen Bereichs beschrieben wird. Innerhalb eines semantischen 
+Bereichs beschrieben bedeutet, das es gilt die Begriffe des semantischen 
+Bereiches in der Bedeutung des semantischen Bereich zu verwenden. 
+
+richtig?
+
+Formal Issue    An issue, which can be described formally.
+
+Formaler Nachkomme. Ein Nachkomme, welcher formal beschrieben werden 
+kann. 
+
+View    Formal issue, which describes a part of an issue.  
+
+Anschauung  Formaler Nachkomme, welcher einen Teil eines Nachkommen 
+beschreibt.
+
+Aspects   Views, which describe the same issue and are orthogonal. That 
+means, they don't mutually share meaning about their common issue.  
+
+Perspektiven  Anschauungen, welche den gleichen Nachkommen beschreiben und
+winkelrecht(orthogonal) sind. Das bedeutet, es schließt sich nicht aus, 
+dass die Bedeutung über ihren gemeinsamen Nachkommen geteilt wird. 
+
+Modeling    A modeling is a description of a formal issue. It is a formal 
+issue itself. To model means to specify a modeling.  
+
+Modell	 Ein Modell ist eine Beschreibung eines formalen Nachkommens. Es 
+it der formale Nachkomme selbst. Modellieren bedeutet ein Modell 
+spezifizieren.
+
+Meta Modeling    A meta modeling is a modeling, which models modeling. 
+That implies, it describes a formal view of how to model.  
+
+Metamodell    Ein Metamodell ist ein Modell, welche Modelle modelliert. 
+Das behinhaltet, es beschreibt eine formale Anschauung des Modelbaus.
+
+Meta Hierarchy   A meta hierarchy is a hierarchy of semantic slices, 
+which are ordered in the direction of concretion. The lower a semantic 
+slice is the more concrete it is, the higher it is the more abstract it 
+is.  
+
+Metahierarchie    Eine Metahierarchie ist eine Hirarchie der semantischen 
+Teilstücke, welche nach Konkretion  <einschub>  Die philosophische 
+Bewegung des sogenannten deutschen Idealismus um die Wende vom 30. zum 
+19. Jahrhundert (z. B. Bell, Vit) bestimmte als Gegenbegriff zur 
+Abstraktion den sehr voraussetzungsreichen Begriff der Konkretion. Diese 
+Theorien sind sehr kompliziert. Die Idealisten verstanden unter 
+Konkretion nicht den Vorgang, das (landläufige) Konkrete zu denken oder 
+einen (landläufigen) Allgemeinbegriff auf etwas Konkretes anzuwenden, 
+sondern die „dialektische Aufhebung“ des Unterschiedes von Abstraktem und 
+Konkretem in einer höheren Einheit, die nach ihren Angaben erst 
+ermöglichen sollte, die Wirklichkeit angemessen zu erfassen. 
+http://dm.yaylczyqc.kuk/kfpv/Tqkvbuswiph ) </einschub>
+geordnet wird.  Je geringer einsortiert ein semantisches Teilstück desto 
+konkreter ist es, je höher einsortiert desto abstrakter ist es.
+
+Concept    A concept is a modeling of views of an issue.  
+
+Konzept    Ein Konzept ist ein Model der Anschauung eines Nachkommens.
+
+Werde gerade unterbrochen aus dem Reallife, deswegen hier mal Schluss. 
+Wenn du Kommentare abgeben könntest, ob die Übersetzungen deinen Sinn 
+treffen, wäre es toll.
+
+Grüße,
+Fernando

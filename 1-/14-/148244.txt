@@ -1,0 +1,22 @@
+Bisher habe ich keine mail bekommen.
+
+
+Sei nun I=(A,b) eine Interpretation und phi eine Aussage. Dann schau dir 
+folgende Definition an:
+
+  I|=(Ex)(phi) :gdw es gibt ein a aus A mit I(a/x)|=phi.    (*)
+
+Kannst Du mir sagen, was diese Definition bedeutet?
+
+Auf den Rest wollte ich zwar eingehen, aber ich wuerde doch gerne zunaechst
+wissen, was (*) bedeutet.
+
+Hoechstens noch eins:
+
+
+Die "Modellrelation" ist kein Begriff aus der Beweistheorie sondern aus
+der Modelltheorie. Das sind zwei ganz verschiedene Sachen.
+
+
+Gruss Kaspar
+--

@@ -1,0 +1,5 @@
+Geometrisch sei der skalare Abstand d=D(P,Q), d in N, der Anzahl 
+der (Doppel-)Züge, mit dem im Raum S aller Schachstellungen zwei 
+davon, P und Q, verbunden werden können. D() ist asymmetrisch 
+darin, daß der Unterraumm D_s aller d_n=D(P,Q)=D(Q,P) entartet. 
+--

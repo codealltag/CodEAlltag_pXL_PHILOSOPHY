@@ -1,0 +1,17 @@
+'F' und 'F' sind als /Token/ natürlich nicht identisch, nur als
+/Buchstabentypen/. Ein Verständnis des Satzes setzt also voraus, dass
+wir die Fähigkeit haben, verschiedene Token als zum selben
+Buchstabentyp zugehörig zu erkennen. (diese Fähigkeit haben allerdings
+auch Maschinen, etwa Computer). Das heißt aber nicht, das wir ein
+Verständnis von einer /Eigenschaftsidentit�t/ haben müssen.
+
+
+Das folgt offenbar nicht.
+
+
+Für Buchstabentypen, also allein die *syntaktische* Ebene
+betreffend. Generell muss man hier wohl einen Parser voraussetzen, der
+die syntaktische Struktur erkennt.
+
+
+ingolf

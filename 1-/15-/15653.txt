@@ -1,0 +1,57 @@
+Das halte ich für missverständlich. Deshalb hatte ich doch Modallogik
+angesprochen, die eben insofern nicht als Ableitung der Prädikatenlogik
+gesehen werden kann (im Gegensatz zur Relevanzlogik).
+
+Die Junktoren der Prädikatenlogik erster Ordnung sind die der
+Aussagenlogik sowie die Prädikaten; dieselben lassen sich als
+Aggregationen betrachten, die man jeweils analog zu einer Summe
+definieren kann (man betrachtet die kommuntativen Monoide aus den
+Aussagen, dem Oder und dem Falsch, bzw. aus den Aussagen, dem Und und
+dem Wahr).
+
+"Möglich" und "notwendig" in der Modallogik sind nicht mit Junktoren aus
+der Aussagenlogik darstellbar. Man kann sie zwar prädikatenlogisch
+herleiten – A ist notwendig bedeutet, dass es eine (prädikatenlogische)
+Aussage gibt, so dass A, A ist möglich bedeutet, dass nicht A nicht
+notwendig ist, es bedeutet also, dass keine (prädikatenlogische) Aussage
+existiert, so dass nicht A.
+
+Wir haben uns hier aber mit dem nebelsieck Unvollständigkeitssatz zu
+befassen, denn Modallogik ist so verstanden eine Logik höherer Ordnung.
+Also gibt es nicht immer eine solche Herleitung, unabhängig davon, wie
+die Axiome gewählt werden, somit ist Modallogik eben nicht vollständig
+auf Prädikatenlogik rückführbar.
+
+Im übrigen müsste das Problem noch grösser sein, weil Modallogik so
+definiert sich nicht auf Prädikatenlogik einer bestimmten Ordnung
+bezieht, sondern /jeder/ Ordnung. Ich habe mich bisher zu wenig damit
+beschäftigt um sagen zu können (oder bereits rezipiert zu haben),
+inwieweit das Probleme macht. Aber für die Betrachtung hier genügt ja,
+dass das überhaupt der Fall ist.
+
+Im übrigen gibt es immer noch die Betrachtung von Logik als Sprache. Das
+halte ich für einen Fehler: man muss zwischen den Sprachen der Logik und
+den logischen Strukturen unterscheiden, so wie man allgemeiner zwischen
+der Sprache der Mathematik und den mathematischen Objekten unterscheiden
+muss, denn auch logische Strukturen bilden eine Unmenge, und sind somit
+keine Sprache.
+
+
+Hättest Du ein konkretes Beispiel, bitte, dass ich das verstehe? Mir ist
+bereits klar, dass man modallogisch fassen kann, was man
+prädikatenlogisch nicht zu fassen kriegt (oben argumentiere ich das ja),
+aber /was/ das konkret ist, habe ich noch nicht verstanden.
+
+Übrigens: Rationalität lässt sich Mithilfe von Modallogik *und*
+Prädikatenlogik besser darstellen als nur mit einem von beiden, in dem
+Sinne, dass besser ist, wenn man Bedeutung explizieren kann, die man
+sonst nicht explizieren kann.
+
+Das ist ein wesentlicher Unterschied zur Relevanzlogik, die in diesem
+Sinne schlicht Prädikatenlogik ist.
+
+Viele Grüsse,
+VB.
+-- 
+Wenn Du für eine Leistung nichts bezahlst,
+bist Du nicht der Kunde, sondern die Ware.

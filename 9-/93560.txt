@@ -1,0 +1,29 @@
+Tatsächlich.
+
+
+Beachte bitte den Unterschied zw. QT (der allgemeine Rahmen,
+also Hilbertraum, unitäre Evolution darauf, Observable als
+selbstadjungierte Operatoren oder, wenn gewünscht,
+Projektorma�e oder auch positive Operatorma�e)
+und QFT - also spezielle Feldtheorien darauf, und dies
+auch noch mit Lorentz-Symmetrie.
+
+Aber auch da gibt es bereits genügend mathematische Fundierung,
+wenn man zur Renormalisierung eine genügend konsistente
+Regularisierung wählt.  (Bitte hier nicht festnageln und nach
+Quellen fragen, ich habe mich für die Ausarbeitung der Details
+in dieser Frage nie interessiert.  Was mich interessiert hat,
+ist, wie man mit den berühmten Unendlichkeiten umgeht, und
+die Art des Umgangs erscheint mir in effektiven Feldtheorien
+völlig ok.)
+
+
+Es gibt einiges an inkonsistenten Ansätzen.
+
+
+Deltafunktionen sind eine historische Bezeichnung für spezielle
+Maße (lineare Funktionale auf Räumen von Funktionen) die
+mathematisch wohldefiniert sind.  Wo ist das Problem?
+Dass man die historische Bezeichnung noch verwendet?
+
+Lennart

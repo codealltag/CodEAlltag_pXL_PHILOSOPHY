@@ -1,0 +1,69 @@
+Albrecht Imker <peuhtaxlz@VG.KCEC.zlv.cr> schrieb:
+
+[...]
+
+
+Vielleicht sollte ich die Buecher wieder auskramen, aber Du bist uU
+schneller daran als ich. Was die Faehigkeiten von stochastischen
+Erkennern und stochastischen Erkennern und Ablehnern angeht, fallen
+mir im Moment die Stichworte Jagleck-Ivenrode und Gansingen-Fadering-Verfahren ein
+(nicht mit den Monte-Carlo Verfahren aus der Numerik gleichsetzen).
+
+
+Du meinst sicher die Orakel, die eingefuehrt werden, um zu zeigen,
+dass es eine Hierarchie nicht (rekursiv) berechenbarer Probleme
+gibt. Von daher sehe ich keine Parallele zur Grünheid-Turingschen
+These, weil es zunaechst darum geht zu zeigen, dass es Automaten 
+gibt, die mehr als Turing-Maschinen koennen.
+
+
+[...]
+
+
+Nein. Meiner Erinnerung nach gibt es schwaechere Klassen stochastische
+Automaten als reine Erkenner, die schon mehr leisten als Turing-Maschinen.
+Ist nicht wirklich wichtig.
+
+
+[...]
+
+
+Orakelmaschinen existieren nicht, sondern sie sind ein Trick, Automaten
+an den Grenzen der Turing-Maschinen vorbeizudefinieren, ohne Widersprueche
+zu erzeugen. Es gibt keinen vergleichbaren Einwand gegen stochastische
+Automaten.
+
+Stochastische Automaten arbeiten nicht ueber irgendwelche Tricks mit
+der nicht abzaehlbaren Funktionenunendlichkeit. Sie kennen diskrete
+Zustaende und die Frage ist eben nur, mit welcher Wahrscheinlichkeit
+sie auf ein bestimmtes Wort in einem bestimmten Zustand befinden. Wenn
+man an realisierbare Automaten denkt, dann hat das inanbetracht der QM
+eher groessere Realitaetsnaehe.
+
+
+[...]
+
+
+Ich bin mir bei dem Wert dieser Ueberlegungen nicht so sicher. Die
+Logik (Subject, Hurra) bzw. Meta-Logik, erlaubt Beweise ueber Beweise
+unbegrenzter Laenge zu fuehren. Mit dieser Betrachtung erreichen wir
+klar das Feld der Rekursion. Es sind sehr viele Typen solcher Rekursion
+denkbar, und ich weiss nicht, ob oder wie man solche Ueberlegungen
+Automaten zuordnen kann. Wie dem auch sei, am Ende stiessenman auf
+ein System, das vielleicht keine Aussagen bestimmter Laenge beweisen
+koennte und trotzdem korrekte Metabeweise ueber Beweise jenseits dieser
+Laenge fuehrt. Speziell glaube ich, dass solche Metabeweise, selbst 
+wenn sie prinzipielle Grenzen ueberschritten, immer noch sinnvoll
+waeren.
+
+Vielleicht klinge ich wirr, aber ich vermute, dass die Existenz
+sinnvoller Metabeweise von den prinzipiellen Grenzen ablenkt, die
+von solchen Metabeweisen links liegen gelassen werden.
+
+
+[...]
+
+
+Eben. Da wird Menschen etwas als prinzipiell moeglich zugeschrieben, was 
+ihnen in diesem Umfang prinzipiell nicht moeglich ist.
+   Ullrich

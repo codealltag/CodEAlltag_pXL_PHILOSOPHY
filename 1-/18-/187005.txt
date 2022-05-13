@@ -1,0 +1,61 @@
+Ja, mach ich. (Ich gehe morgen in Urlaub (segeln) und deshalb muss es
+etwas kurz ausfallen, aber in ca. 14 Tagen koennen wir uns
+ausfuerlicher austauschen)
+
+Das, was den Physikern ja z.Z. noch etwas Schwierigkeiten bereitet ist
+ja das, was Gerard immer als 'Coarse Graining' bezeichnet. (Nicht
+alle Wissenschaftler sind der Meinung, dass der von Gerard mal
+erwähnte Projektionsformalismus eine hinreichende Beschreibung des
+Sachverhaltes ist) Der Übergang von der mikroskopischen zur
+makroskopischen Beschreibungsebene wird durch Partionierungsfunktionen
+des Zustandsraumes beschrieben. Die kontinuierliche Struktur vor der
+Vergröberung wird in eine diskrete Struktur nach der Vergröberung
+umgewandelt. Dies geschieht durch Einteilung des Zustandsraumes in
+Zellen, die disjunkt sind und den Zustandsraum überdecken. Diese
+Zellen A_i kann ich nun mit z.B. Buchstaben eines Alphabets z.B. a_i
+bezeichnen. Ich erhalte also zu jeder mikroskopischen Trajektorie eine
+Folge von Zellen und damit eine Folge von Buchstaben, oder auch
+Symbolsequenz genannt. Diese Symbolsequenzen sind Gegenstand der 
+'Symbolischen Dynamik'. Jedes n-Wort (c_1,....,c_n) (Wort mit n
+Buchstaben) entspricht nun einer Teilmenge des Zustandsraumes, welche
+alle Anfangswerte enthaelt, die zum Zeitpunkt t in der Zelle C_1
+starten und deren Trajektorien in den nächsten (n-1) Schritten durch
+C_2,.....,C_n verlaufen. Durch Rückwärtsprojektion (im Grunde genommen
+eine fortgesetze Schnittmengenbildung der Bildbereiche der
+Umkehrfunktion der Partionierungsfunktion) kann man diese Mengen
+beschreiben. (Man spricht auch von der 'dynamischen Verfeinerung' oder
+auch 'self refinement')
+Die Anzahl und die topologischen Eigenschaften der durch die
+Verfeinerung entstehenden Zellen hängt natürlich sehr stark von der
+gewählten Partionierungsfunktion ab. Was möchte man dann da haben?
+----> 'Gütemaße'. Hier werden diese Gütemaße Entropien genannt.(die
+sogenannten nyi-Entropien, wobei die sogenannte topologische und
+metrische Entropie vielleicht die wichtigsten sind. Aber darüber
+wollte Urban was schreiben, wenn er Zeit hat. Mit einem
+Stieltjes-Integral ueber ein Wahrscheinlichkeitsmaß bekommt man
+Metriken auf die Zellenstruktur)
+. 
+Gleichmäßige Partionierungen (sämtliche Zellen sind von gleicher Form
+und Ausdehnung) spielen eine Hauptrolle im Zusammenhang mit
+Messprozessen.(Die endliche Auflösung der Messapparatur bedeutet eine
+gleichmäßige Zerlegung der reellen Zahlenachse in Zellen, deren
+Durchmesser durch die Toleranz bestimmt ist)
+
+Wichtig sind auch Markov-Partionierungen.(die Symbolsequenzen haben
+den Character von Markov-Ketten) 
+
+Die Zeitdiskretisierung (die fehlt ja noch) wird durch die Methode des
+Poincare-Schnittes (kennt jeder, der deterministisches Chaos kennt)
+bewerkstelligt.
+
+Symbolsequenzen sind ja prädestiniert dafür mit Automaten bearbeitet
+zu werden. (Man möchte 'dynamisch generierte Strukturen' haben)
+Den Symbolsequenzen kann man Komplexitätsmaße zuordnen (mit einem
+probabilistischen  Automaten - EpsilonAutomat- ) und damit (über die
+Shannon Theorie) generierte Symbolsequenzen beurteilen.
+(man ist ja z.B. daran interessiert zu erfahren, was bei
+Grenzuebergaengen passiert)
+Das wäre es, vorläufig.
+
+Viel Spass weiterhin
+Wolfgang

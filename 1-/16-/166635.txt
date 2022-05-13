@@ -1,0 +1,22 @@
+Reingefallen ;-) Wenn ich definiert hätte , dass eine Menge M genau
+dann unendlich ist, wenn für *jedes* a aus M M bijektiv auf M\{a}
+abgebildet werden kann, dann wäre {} tatsächlich unendlich und du
+hättest recht, es gibt aber kein Element aus {}, und insofern ist für
+M={} die Existenzaussage  auf der rechten Seite *falsch*.
+
+Mit phi(a,M):= "Es gibt eine Bijektion zwischen M und M\{a}"  besagt
+die rechte Seite meiner Def.
+
+ (E a) ((a in M) & phi(a,M))
+
+Und diese ist für die M={} falsch, da (a in {}) allgemein falsch ist. 
+
+
+Das ist *keine* Definition, da rekursiv.
+
+
+cédric
+
+-- 
+Wovon man nicht sprechen kann, darüber muß man
+schweigen. (Wittgenstein, Tractatus)

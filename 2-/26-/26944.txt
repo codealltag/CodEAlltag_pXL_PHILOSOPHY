@@ -1,0 +1,36 @@
+"Roman Echterhagen" schrieb
+
+
+Das kann er schreiben, weil es eine Einheit der physikalischen
+Größe Entropie gibt (J/K).
+
+
+Ja, das schrieb ich Dir auch schon vor ein paar Wochen.
+
+Es gibt im ISQ keine dimensionslosen Einheiten. Die Basis-
+größen und deren Dimensionen sind vielmehr äquivalent (in
+dem Sinne, dass Einheiten eben konventienell für bestimmte
+Dimensionen festgelegt sind) und die davon abgeleiteten
+kohärenten Einheiten enthalten selbstverständlich auch die
+zu den Basisgrößen im obigen Sinn gehörigen Dimensionen.
+
+Die Dimension einer beliebigen Größe kann in einer Dimensions-
+gleichung angegeben werden. Bei Entropie sind das die Dimen-
+sionen, die im IS bzw. ISQ mit der hergeleiteten Größe für Energie
+und der Basisgröße für thermodynamische Temperatur bezeichnet
+sind. Die letztere ist also eine Basisgröße für eine Dimension
+(Einheit K, Größe T, Dimension Θ (Theta)) und Energie ist bekannt-
+lich eine hergeleitete Größe aus mehreren anderen Basisgrößen
+(bzw. Dimensionen), deren Hinschreiben ich mir hier erspare.
+
+Vielleicht bist Du verwirrt, weil Du speziell von Dimensionen
+der Mechanik (ohne K, T, Θ) ausgehst. Vielleicht irritiert Dich auch,
+dass Entropie eine extensive Zustandsgröße ist, d. h. abhängig ist
+von Volumen oder Masse des betrachteten Systems. Das haben
+extensive Zustandsgrößen eben so an sich, deshalb sind sie nicht
+dimensionslos, im Gegenteil ist das für physikalische Größen
+grundsätzlich eine widersinnige Behauptung.
+
+Mit freundlichen Grüßen
+
+Dominik

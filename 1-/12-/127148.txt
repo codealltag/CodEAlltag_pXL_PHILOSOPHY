@@ -1,0 +1,51 @@
+Hinsichtlich der Mengenlehre jedenfalls nicht in dieser Form, ausser bei
+Trinkel. In verschiedenen Skripten habe ich jedoch noch andere
+Schreibweisen gesehen, die allerdings dasselbe ausdruecken, naemlich die
+Substitution von Zeichenketten.
+
+
+Dass ich hier nur 2 Literaturangaben gemacht habe, laesst nicht
+schliessen, dass ich nicht mehr haette machen koennen und diese dann
+alle nicht gelesen haette.
+
+Es geht um folgendes: Du musst dir eingestehen, dass du selbst nur ein
+Partialwissen hast und anscheinend Schwierigkeiten in Gerolds Formulierung
+deshalb siehst, weil seine Schreibweise nicht mehr - oder dir nicht - so 
+gelaeufig ist. Das ist aber kein Grund, zu sagen, dass seine
+Schreibweise inkorrekt waere. Durch Einbeziehung von metasprachlichen
+Zeichen laesst sich diese Schreibweise - wie auch deine - rechtfertigen.
+Mir kam es jedoch auf etwas anderes an, und zwar auf eine /Definition in
+einer Sprache L/, bei der das einzige Zeichen, was nicht zu L gehoert,
+das definierte selbst ist und sonst keins, also auf die strikte Trennung
+von Metasprache und Objektsprache.
+
+
+Du musst zwischen Meta- und Objektsprache bzw. zwischen Definitionen in
+der Meta- und Definitionen in der Objektsprache unterscheiden.
+
+
+Du irrst, wenn du meinst, dass diese Schreibweise nicht sagt, dass es
+sich um eine Definition handelt. Wenn das Zeichen zum ersten 'mal in 
+einer Theorie auftaucht, wird die Sprache erweitert. Beim erstmaligem 
+Verwenden des Zeichens in dieser o.a. Form ist gesagt, dass es sich um
+eine Definition handelt.
+Danach erst ist es ein Satz der Expansion. L und L[r] sind verschiedene 
+Sprachen.
+
+
+Sorry, aber du hast es nicht verstanden. Die Objektsprachler muessen von
+den metasprachlichen Definitionen nichts wissen.
+Definitionen fuer Relationszeichen haben in der Objektsprache die Form
+von (D).
+
+
+Doch, das denke ich schon.
+
+
+Gruss, Urs.
+
+-- 
+"Ohne die Mathematik dringt man niemals auf den Grund der Philosophie.
+Ohne die Philosophie dringt man niemals auf den Grund der Mathematik.
+Ohne beide kommt man auf den Grund von gar nichts."
+(Kay Underbrink)

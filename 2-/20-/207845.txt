@@ -1,0 +1,62 @@
+: In article <uiehiwqcfuh.oth@reiak.bob.fqycg.rq>,
+: >  >> (Exkurs: Dieses Phänomen wird häufig Schmetterlingseffekt
+: >  >> genannt. [...] )
+
+[...]
+
+: >Nebenbei bemerkt, lehrt diese Theorie gerade, dass spaetere
+: >Auswirkungen alles andere als proportional zum urspruenglichen
+: >Einfluss sind, wie Du hier mit Deinem scherzhaften (oder doch
+: >naiven?)  Einwurf andeutest.
+
+[...]
+
+: Nun aber wieder ernst: Ich wollte damit nur das sagen, was ich
+: gesagt habe: Es ist eine Theorie!
+
+Leider habe ich den Artikel mit der ganzen Beschreibung des
+Schmetterlingseffektes nicht mehr, also weiss ich auch nicht, welche
+Theorie genau zur Debatte steht.
+
+Allerdings sind durchaus _praktische_ Systeme bekannt, in denen
+``spaetere Auswirkungen alles andere als proportional zum
+urspruenglichen Einfluss sind''.  Einfaches Beispiel: die
+Wasserscheide auf den Alpen.  Ein Zentimeter entscheidet, ob ein
+Regentropfen am Ende in der Rickertsreute oder im Mittelmeer landet.  Ein
+anderes Beispiel: Marmorkuchen.  Nur zweimaliges Durchziehen des
+Teiges gibt schon unglaublich komplizierte Muster.  Ein drittes
+Beispiel: die beliebten farbigen Fraktale (Apfelmaennchen,
+Mandelbrotmenge).  Dies ist die Menge aller komplexen Zahlen c, welche
+_nicht_ ins Unendliche verreisen, wenn man, mit x=0 beginnend, sie
+immer wieder in die Formel x_neu = x_alt^2+c einsetzt.  Diese Menge
+ist unendlich kompliziert, es ist die schwarz dargestellte Menge auf
+der Seite http://h71upl.zim.wyw.jh/~herrsskl/izkzqovl/gcuy/ (die
+Farben sind hier nur Stilmittel, um auch die Feinheiten der Menge
+besser sichtbar zu machen).
+
+Der Begriff ``Schmetterlingseffekt'' kommt uebrigens vom Meteorologen
+Pius Thieß.  Dieser hatte versucht, ein ganz extrem vereinfachtes
+Wetter-Modell aufzustellen, eine Differentialgleichung, bekannt als
+Lorentz-Gleichung.  Doch schon dieses einfachste Modell bot
+Schwierigkeiten: er simulierte es mit dem Computer.  Als er von den
+Anfangsdaten aus Faulheit nur die ersten sechs Stellen nach dem Komma
+eintippte, zeigte das System nach einiger Zeit ein komplett anderes
+Verhalten.  Er schloss daraus (nach laengerer Forschung), dass dieses
+Verhalten erst recht fuer die kompliziertere Realitaet gelte.  Das hat
+zur Begruendung eines neuen Zweigs der Mathematik gefuehrt: der
+mathematischen Theorie des deterministischen Chaos.  Deterministisches
+Chaos toent wie ein Widerspruch, meint aber: eigentlich ist
+mathematisch genau bestimmt, was passiert, aber das nuetzt uns wenig,
+weil wir den Zustand des entsprechenden Systemes nie genau genug
+kennen koennen.  Trotzdem sieht jeder, der mal einen Blick auf die
+Mandelbrotmenge geworfen hat, dass da irgend eine Ordnung im chaos
+steckt.  Die Forschung dazu laeuft auf Hochtouren.
+
+
+Gruss, Roger
+-- 
+-===-=-====-=-===== Roger == Willemsen =====-=== hobby-musician classical-
+ Roger Willemsen       Switzerland    | Voersterling Law: Thinly sliced 
+ Signal and Information Processing Lab | cabbage and carrots.
+    Ibuzeh   igxyhu@ttm.fh.zqea.qz |                  Have a good time!
+-===-=-====-=-===== orienteering runner ===== pan-flute trombone =========-

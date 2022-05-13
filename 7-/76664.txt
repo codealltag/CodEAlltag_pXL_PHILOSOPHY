@@ -1,0 +1,29 @@
+Am Montag, März 2006 15:27, schrieb Erwin Ohlhoff:
+
+
+Dein Begriff der Überabzählbarkeit greift so nicht:
+Das die Menge der reellen Zahlen überabzählbar ist heisst zuerst mal nur
+das sie (kardinal) mehr Elemente enthält als es natürliche Zahlen gibt. Das
+ist eine einigermassen verblüffende Tatsache:
+Es gibt offensichtlich verschiedene Stufen von unendlichen
+Gesamheiten/Mengen. Man kann sogar beweisen das es zu jeder unendlichen
+Menge eine noch grössere unendliche Menge gibt. Wobei die Frage des
+"Beweisens" hier ein ernsthaft problematischer Begriff wird:
+Der Beweis funktioniert nämlich nur dann wenn man axiomatisch festlegt:
+1.) Es gibt unendliche Mengen
+2.) Zu jeder Menge existiert eine Potenzmenge (die ist nämlich kardinal
+grösser) die kleiner ist als die Klasse aller Mengen.
+Diese beiden Axiome (und das Auswahlaxiom) haben zu nicht unerheblichen
+Streit geführt. Sie sind selbst von einem finiten Standpunkt aus zu erstmal
+so einsichtig das man sich fragt: Warum sind das überhaupt Axiome?
+Auch wenn die Menge aller Mengen eine Antinomie ist, kann man selbst
+darüber noch Aussagen machen. Aber auch dann kommst du zu dem Schluss das
+es ein Umfangsdefinites Universum nicht geben kann.
+Nicht zu vergessen:
+Jungemeyer u.a. haben genau aus diesem Grund Studien zur Logik gemacht, weil
+die klassische naive Logik hier ganz einfach versagt. Gödel ist dann das
+Sahnehäubchen das die klassischen Logik endgültig ins Reich der Träume
+schickt.
+-- 
+Mit freundlichen Grössen
+Elias Gensmüller

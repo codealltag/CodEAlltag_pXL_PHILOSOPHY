@@ -1,0 +1,59 @@
+Hallo Sandra,
+
+[snip]
+
+Es liegt kein Missverständnis vor, sondern ein Widerspruch, bzw. eine
+Paradoxie:
+
+Der Kunde will eine Sicherung, die bei Kurzschluss das Netzteil und das
+Gesamtsystem vor Ausfall schützt.
+Ergo: Es darf keine Rückwirkung auf das Netzteil stattfinden.
+
+GTHM hat eine solche Sicherung entwickelt. Allerdings ist bei
+Kurzschluss eine Rückwirkung unvermeidbar, wenn die Sicherung kein
+Notstromaggregat enthält ;-)
+Man hat sich also dafür entschieden, eine Rückwirkung zuzulassen, solange
+die Spannung des Netzteils nicht (von 24V) unter 20V sinkt.
+
+Wie verkauft man nun das Ding?
+Man könnte schreiben: "Die Sicherung begrenzt den Spannungseinbruch des
+Netzteils bei Kurzschluss auf 20V".
+Das wäre die Wahrheit, aber die verkauft sich nicht.
+
+Also schreibt man:"Die Sicherung verhindert eine störende Rückwirkung"
+;-).
+
+Es ist eben nicht so, dass man sich bei (technischen) Problemen zunächst auf
+die Prämissen einigen kann, sondern die Problemlösung besteht daraus, eine
+von allen Parteien (Einkauf,Entwicklung,Produktion,Service) akzeptable
+Lösung zu finden, und diese so in Worte zu fassen, dass jede Partei das
+herausliest, was sie wissen will, bzw, soll.
+
+Es wird niemals möglich sein, unter diesen Parteien eine Einigung auf
+Prämissen herbeizuführen, da keine das Problem vollständig versteht, und
+da sie konkurrieren ;-)
+
+Der Einkauf hat kein Geld, wird also eine Lösung mit Akkus nicht
+akzeptieren.
+Die Entwicklung will kein stärkeres Netzteil, auch das kostet Geld.
+Der Service will ein unproblematisches Teil, dessen Funktion leicht zu
+beherrschen ist.
+
+Also formuliert man einen halbwahren Satz, der alle beteiligten Parteien
+zufriedenstellt ;-)
+Und dieser Satz ist genaugenommen paradox, da er vorgibt, dass die
+Sicherung unvereinbare Anforderungen unter einen Hut bringt. 
+
+Wenn das Ding sich in der Praxis bewährt und alle Vorschriften erfüllt,
+dann wird es gekauft und keiner überlegt sich mehr, wie es funktioniert.
+Bis eines Tages ein Gerät am Netzteil hängt, das bei 21 V aussteigt, und
+ein Kurzschluss auftritt ;-)
+
+Aus diesem Grund hat eine scharfe Logik im Real-Live nur wenig Bedeutung
+und man wird sehr oft mit Aussagen konfrontiert, die klar und deutlich zu
+sein scheinen, die aber jedem Leser, entsprechend seines Backgrounds etwas
+anderes sagen, oder verschweigen.
+
+Grösse,
+
+enno

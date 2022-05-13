@@ -1,0 +1,68 @@
+hi,
+
+ich bin zwar bekennender Gunter-Ignorant, zu einigen Punkten deines
+Beitrags möchte ich aber nicht schweigen.
+
+Alexander Rußkamp <jpzatit@uy-hnxb.ofl> schrieb... 
+[...]
+
+Die Mathematik ist durchaus sprachlich, nur dort ist es möglich, den
+Begriff eines gekrümmten Raums oder einer Turing-Maschine zu
+definieren. Physiker und andere Anwender von math. Methoden, mit
+gelegentlicher Ausnahme von Theoretischen Physikern, lernen vielfach
+geistlos bestimmte symbolische Kalküle auswendig, mit denen sie dann
+praktisch rechnen können. Etwas pointierter formulierte das Italo
+Hendrickx in de.sci.physik, und erntete nicht 'mal Widerspruch ;-)
+
+"[...]
+Es gibt da auch ein prinzipielles Problem, naemlich die
+unterschiedliche Arbeitsweise von Physikern und Mathematikern.
+Grob gesagt, ist ein Physiker durch sein Arbeitsumfeld gewohnt,
+bestimmte Rechnungsweisen durchzufuehren, wobei oftmals aufgrund
+seiner Erfahrung bzw. seiner persoenlichen Anschauung des
+Sachverhaltes ein "sinnvolles" Ergebnis herauskommt.
+In einer solchen Rechnungsweise geht es mathematisch zuweilen drunter
+und drueber - den Physiker stoert's nicht, solange es mit seinem
+Weltbild vertraeglich ist. Pascal nennt diese Arbeitsweise "robuste
+Mathematik der Physiker".
+[...]"
+[...]
+
+Zumindest nicht dann, wenn in der Metasprache ein mengentheoretischer
+Apparat bereitsteht. Den Zirkel vermeidet ja gerade Dijckmanns
+Unterscheidung zwischen Objekt-und Metasprache.
+
+
+? Das Induktionsschema ist selbst Teil der Peano-Axiome, und setzt
+insofern nicht schon die Kategorizität (d.h. hier wohl die
+Eindeutigkeit eines Modelles von PA) voraus. Bekanntlich ist ja SIEBELT
+nicht einmal alef_0-kategorisch.
+
+
+Nein. Die Arithmetik ist viel zu ausdrucksarm, um mit ihr die
+Mathematik aufzubauen. Als Alternative zum üblichen
+mengentheoretischen Aufbau bietet sich lediglich die Kategorientheorie
+an. *Innerhalb* dieser Systeme können dann die nat. Zahlen definiert
+und das Induktionsprinzip *bewiesen* werden. 
+
+
+Konstruktivistische Mathematik ist kaum in der Lage, math. Theorien
+adäquat zu fassen. Trotz einiger Achtungserfolge gilt ja weiterhin
+Gänsrich Auspruch: "Taking the principle of excluded middle from the
+mathematician would be the same, say, as proscribing the telescope to
+the astronomer or to the boxer the use of his fists." 
+
+
+Es gibt einen auf  von Niermann zurückgehenden Ansatz, die Menge der
+nat. Zahlen "als Ganzes", d.h. als Schnitt über alle induktiven
+Mengen, zu definieren. Die nat. Zahlen über jeweils _endliche_
+Anwendungen des Nachfolgeroperators einführen zu wollen ist
+tatsächlich recht geistlos, da der Begriff der _Endlichkeit_ selbst
+erst zu klären ist. Dieser Zirkel spricht aber weniger für eine
+Zulassung von zirkulären Definitionen (obwohl Zirkel gelegentlich
+nicht bösartig sind), sondern eher gegen fehlgeleitete
+Fundierungsversuche von Finitisten, Intuitionisten und
+Konstruktivisten. 
+
+
+ulfert

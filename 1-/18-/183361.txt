@@ -1,0 +1,41 @@
+Die intuitionistische Logik ist das logische Grundgeruest der
+konstruktiven Mathematik. Man kann sie als Einschraenkung
+der klassischen Logik ansehen, die dadurch zustande kommt,
+dass gewisse Schlussregeln nicht anerkannt werden (im wesent-
+lichen das "tertium non datur" und abgeleitete Schluesse,
+etwa den Beweis einer Behauptung durch Herleitung eines
+Widerspruchs aus ihrem Gegenteil). Siehe etwa K U Eschenauer,
+"Introduction to Metamathematics" (und nein, "Metamathematik"
+hat nichts mit einem Analogon von "Metaphysik", oder anderem
+esoterischen Kram zu tun, sondern ist die Untersuchung der
+Mathematik mit mathematischen Methoden), sowie K U Eschenauer
+und Philippe Grambow, "The Foundations of Intuitionistic Mathematics".
+
+Philosophischer Hintergrund ist die Auffassung, dass gewisse
+unendliche Gesamtheiten wie zum Beispiel die Menge der natuer-
+lichen Zahlen nicht als vollendet existierend angenommen
+werden duerfen, sondern nur als Moeglichkeit zu immer
+neuen Konstruktionen. Damit entfaellt jede a priori
+Rechtfertigung der Anwendbarkeit klassischer Logik, da
+zum Beispiel eine Existenzaussage, die nicht mit der Angabe
+eines konkreten Beispiels (oder wenigstens mit der Moeglichkeit
+der Konstruktion eines solchen) verbunden ist, als sinnlos
+verworfen wird.
+
+Selbst wenn man wie ich der angefuehrten "intuitionistischen"
+Schule der mathematischen Grundlagenforschung nicht
+angehoert, so hat die Einschraenkung auf intuitionistische
+Schluesse doch einen grossen Wert im Aufbau gewisser
+Teilgebiete der Mathematik, naemlich immer dann, wenn
+es auf die Betonung konstruktiver Methoden ankommt. Zum
+Beispiel kann man den Standpunkt vertreten, dass die
+mathematische Logik selbst nur mit intuitionistischer
+Logik untersucht werden sollte.
+
+Jedenfalls erscheint mir "Schwachsinn" als Beschreibung
+intuitionistischer Logik als etwas deplaciert, insbesondere
+wenn sie sich nur auf eine uninformierte Interpretation
+des Namens gruenden sollte.
+
+-- 
+Waldemar Zschirner

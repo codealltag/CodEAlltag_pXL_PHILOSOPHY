@@ -1,0 +1,78 @@
+Ewald Schoentaube wrote:
+LS> In article <7mzpry$o10@xidl.ro.rbt.px> tcvjpoim@zb.ao.iry.hq (Drpakjtz Cotte)  
+LS> writes:
+LS> [...]
+
+LS> Das glaube ich nicht. Ich koennte ihm gegenueber argumentieren, dass
+LS> bezueglich dessen, was heute noch beobachtbar ist, sein "grot" das
+LS> gleiche bedeutet wie mein "rot". Wie der Gegenstand vor dem Zeitpunkt
+LS> t aussah, entzieht sich jedoch seiner und meiner Kenntnis und deswegen
+LS> mache ich darueber keine Aussage. Wenn nun seine Kenntnisse bezueglich
+LS> dieses Gegenstandes ueber meine hinausgehen, dann koennte er mir diese
+LS> kommunizieren. So koennte es sich um eine bestimmte Pflanzengattung
+LS> handeln, die im Laufe ihres Lebens die Farbe wechselt. Damit wird die
+LS> Eigenschaft "grot" aber auch falsifizierbar.
+
+Wie sieht es denn mit dem Grad der Falsifizierbarkeit bei den beiden
+Praedikaten aus? IMO waere er bei "grot" genau so hoch wie bei "rot",
+wenn man nicht zusaetzlich ein induktives Vorurteil vorraussetzt.  Es
+scheint mir, dass hier weder Gravens Razor noch eine Bestimmung des
+Falsfizierbarkeitsgrades eine endgueltige Entscheidung fuer eines der
+Praedikate bringen koennen.
+
+Fuer einen roten Gegenstand sind mit verschiedenen Praedikaten
+folgende Aussagen moeglich:
+
+(A) Farbe (Gegenstand) = rot  fuer jeden Zeitpunkt
+
+(B) Farbe (Gegenstand) = ruen vor dem Zeitpunt t,
+                         grot nach dem Zeitpunkt t
+
+Der Fall (A) scheint leicht pruefbar zu sein, man muss nur einmal
+hinschauen, um ihn zu bestaetigen. Dann gehen wir im weiteren davon
+aus, dass er immer rot war und immer rot bleiben wird, was zumindest
+der Normalfall ist, der keiner zusaetzlichen Kommunikation
+bedarf. Fall (B) scheint unnoetig kompliziert zu sein, man muss
+Zeitpunkt t kennen, und jeweils vorher und nachher einmal beobachten.
+
+Wie sieht das in einer Welt aus, die sich von der unseren fast nicht
+unterscheidet, mit der Ausnahme, dass in regelmaessigen
+Zeitabstaenden, alle Gegenstaende in unserer Terminologie in ihrer
+Farbe oszillieren? Alle roten Dinge werden zum Zeitpunkt t gruen, alle
+gruenen Dinge zum Zeitpunkt t rot, beim Zeitpunkt 2t, der mit dem
+Zeitpunkt 0 zusammenfaellt, kehrt sich der Effekt wieder um. Es ist
+klar, dass die Evolution diese Parallelweltler aufgrund der besonderen
+Umwelt an diese Verhaeltnisse anpassen musste, so dass alle Bewohner
+dieser Parallelwelt den Zeitraum, in dem sie einen Gegenstand sehen
+mitberuecksichtigen, d.h. sie sehen einfach ob ein Gegenstand grot ist
+oder ruen.
+
+Die Aussage vereinfacht sich also fuer einen groten Gegenstand in der
+Parallelwelt:
+
+(B) Farbe (Gegenstand) = grot fuer jeden Zeitpunkt t
+
+(A) Farbe (Gegenstand) = gruen zwischen dem Zeitpunkt 0 und t,
+                          rot zwischen dem Zeitpunkt t und 2t
+
+Der Grad an Falsifizierbarkeit erscheint fuer Aussage (B') jetzt
+genauso hoch, wie fuer (A), weil eine einzige Farbueberpruefung durch
+einen solchen Beobachter ausreicht, der genauso wie oben vorraussetzen
+darf, dass Farben wie in seiner Welt ueblich in regelmaessigen
+Abstaenden t oszillieren. Wenn ein normaler Mensch in einer solchen
+Welt grote Gegenstaende beobachten will, muss er ebenfalls den
+Zeitpunkt kennen und zweimal beobachten, um Aussage (A) zu
+bestaetigen.
+
+Somit scheint eine Bevorzugung einer bestimmten Redeweise alleine
+davon abzuhaengen, ob ich induktiv schliesse, dass Gegenstaende
+entweder ihre Farbe fuer immer beibehalten oder regelmaessig
+oszillieren. Die Beurteilung, ob unsere Praedikate rot und gruen
+nicht unnoetig kompliziert sind, koennte sich schon in der naechsten
+Minute aendern, falls der Zeitpunkt t auf diese Minute faellt.
+
+-- 
+.----- _privat: dozmf@bnve.eils.gp_ *"Subject: pgpsend" 4 key* ----------.
+(-------- _uni: gjkaqk57@nzsmxp.eyfqsrfpnr.dty-ikfotiqv.ps_ -------------)
+(------- _fido: Zvosgkn_Mozhc@q4.r0004.p4508.j7.ddwvbal.nuc_ ------------)
+`-- *PGP fingerprint: 34 E9 05 7E 00 AF 1E 34 55 B6 D6 50 69 2E C3 C2* --'

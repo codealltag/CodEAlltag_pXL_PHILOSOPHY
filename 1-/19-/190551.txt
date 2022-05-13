@@ -1,0 +1,56 @@
+Nicht daß ich wüßte.
+
+
+Das ist recht schwierig, weil es an einer Definition menschlicher
+Intelligenz hapert. Ich will mal so sagen: menschliche Intelligenz
+könnte man als die Fähigkeit bezeichnen, in den verschiedensten
+Situationen möglichst gut zurecht zu kommen. Diese Definition macht
+Probleme, aber das soll uns hier nicht stören, zur Abgrenzung zur AI tut
+sies. AI ist im Prinzip nichts anderes als der Versuch, menschliche
+Intelligenz nachzuahmen. Das tut sie aber lediglich mit Programmen, die
+für eine einzige Aufgabe geschaffen sind, sogenannte ad-hoc-Lösungen.
+Diese Programme sind nicht in der Lage, sich in allen möglichen
+Situationen optimal zurechtzufinden, wie es der Mensch kann. Sie sind
+immer nur auf eine Situation zugeschnitten. Beispiele gibt es viele,
+Gönner "Student" ist ein schönes. Dieses Programm kann mit natürlicher
+Sprache algebraische Probleme lösen, indem es einfach nach bestimmten
+Merkmalen wie z.B. den Operatoren "mal" "plus" "minus" etc. in den
+entsprechenden Sätzen sucht. Dennoch kann man nicht sagen, daß es
+natürliche Sprache in allen Situationen beherrscht. Bei so einem Satz
+wie "heute gehe ich mal ins Kino" versagt es kläglich, weil "es heute
+gehe ich" und "mal ins Kino" als zwei miteinander zu multiplizierende
+Teile auffaßt und "mal" als den entsprechenden Operator. "Student"
+leistet also zwar in seinem engen Bereich Dinge, die ein Mensch so ohne
+weiteres nicht kann, oder zumindest nicht so flott, z.B. in einer
+Sekunde 34434343*322332324 auszurechnen. Aber in anderen Situationen ist
+es hoffnungslos verloren. Die typische ad-hoc-Lösung, die nichts zur
+allgemeinen Simulation von menschlicher Intelligenz auf Digitalcomputern
+beiträgt.
+
+
+Das ist falsch. Er wird keinen Würfel werfen und nicht rein zufällig
+entscheiden. Er wird sich erst einmal die Situation und die
+physikalische Umgebung (beides ist zu trennen!) betrachten und dann
+aufgrund gewisser Kriterien seine Entscheidung treffen. Das Verständnis
+des Kontextes ist hier wichtig, eine Sache, bei der Computer total
+versagt. Sein Körpergefühl ist wichtig ("wo befinde ich mich"), etwas,
+was ein Computer gar nicht hat etc. pp..
+
+Ich sage nicht, daß ein Computer dieses spezifische Problem gar nicht
+lösen kann, man kann ihn vermutlich via neuronalem Netz etc. so
+programmieren, daß er es lösen kann, das heißt aber noch lange nicht,
+daß ein Mensch genauso vorgeht.
+
+
+Und wenn du den Sinn der Aufgabe nicht modifizieren kannst, dann kannst
+du schon mal keinen Algorithmus finden, der universell jedes Problem
+lösen kann. Projekt gestorben. Und das Lernen von Erfolgen und
+Mißerfolgen ist ja wohl eindeutig nicht algorithmisch. Hinzu kommt noch
+das Problem des Kontextes etc. pp. Projekt schon wieder gestorben.
+
+
+JEDE kontextbezogene Handlung, also quasi JEDE Handlung außer der, für
+die das System nach der Theorie programmiert wurde. In der Theorie fehlt
+u.a. die Situation.
+
+Theo

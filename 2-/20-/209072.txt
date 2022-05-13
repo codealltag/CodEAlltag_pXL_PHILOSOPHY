@@ -1,0 +1,84 @@
+Wieso stoeren Dich jetzt die Variablen? Aber dazu
+spaeter.
+
+
+Nein, zumindestens nicht nur.
+
+Eine Interpretation legt fest, in welche Struktur ich meine
+Variablen und Konstanten, Pradikatensymbole und Funktionssymbole
+abbilden will. Bei freien variablen legt sie
+sogar die Belegung fest. Ausserdem muss noch festgelegt werden,
+auf was genau die Praedikatensymbole und die Funktionssymbole
+abgebildet werden sollen.
+
+Beispiel: Nimm die Theorie:
+
+\forall x: P(x, y)
+\forall x: f(x, z) = x
+
+Diese Formeln kann ich jetzt so interpretieren,
+dass die unterliegende Struktur die natuerlichen Zahlen 
+mit + und * sein sollen sowie den Relationen > und <. 
+x ist nicht frei, also muss
+ich mir  nur ueber die Belegung von y und z gedanken machen.
+Sei B(y) = 0 und B(z) = 1. Nun muss ich noch die
+Praedikaten- und Funktionssymbole interpretieren:
+Sei f = * und P = >.
+
+Dann erhalten wir folgendes:
+
+x \in N
+\forall x: x > 0
+\forall x: x*1=x
+
+Du siehst, dass die natuerlichen Zahlen mit +, *, <, >
+ein Modell fuer diese Theorie sind. Mithilfe eines
+korrekten Kalkuels kann ich aus diesen zwei Formeln
+nichts ableiten, was in den natuerlichen Zahlen
+nicht stimmen wuerde.
+
+
+??
+
+
+In der Logik heisst eine Formelmenge nicht widerspruchsfrei,
+wenn folgendes gilt: F |- f und F |- ~f. F ist also nicht
+unbedingt falsch, sondern erhaelt nur Widersprueche. Wenn F
+nicht minimal ist, kann dieser Effekt evtl. durch Entfernen
+einer Formel beseitigt werden. Diese Formelmenge heisst in
+der Logik uebrigens Theorie.
+
+
+Nein. Charly hat nicht nur gesagt, sondern bewiesen,
+dass ein Kalkuel ab einer bestimmten
+Maechtigkeit nicht mehr vollstaendig sein kann.
+
+Nicht vollstaendig bedeutet lediglich, dass in
+dem kalkuel nicht mehr alles, was wahr ist, auch 
+hergeleitet werden kann. Keinesfalls bedeutet
+das, dass der Kalkuel nicht mehr korrekt waere.
+
+Was meinst Du eigentlich mit "das heute verwendete
+Logikkalkuel"? Da gibt's viele verschiedene, aber es
+gibt auch verschieden maechtige Logiken.
+
+Die Praedikatenlogik 1. Stufe ist heutzutage
+als Werkzeug weit verbreitet. Fuer sie gibt es
+jede Menge Kalkuele, die korrekt und vollstaendig
+sind.
+
+Die Praedikatenlogik 2. Stufe, Temporale Logik, etc.
+sind zwar alle korrekt (was will man sonst damit??),
+aber nicht vollstaendig.
+
+Die natuerlichen Zahlen uebrigens sind bereits 
+durch die PL1 nicht mehr vollstaendig axiomatisierbar.
+
+Gruss
+
+	Janine
+-- 
+Michèle Trömner * nxlbv@fwwnncdrdb.rdbid-jmihgjgd.pv *  ulrif@rvp
+http://swo4-dta.rmshrwgvhh.feumt-jrjgdryk.qx/qothr/zdbebyvbb.hutm
+"Affen lesen keine Philosophiebuecher!"  "Doch Wilhelm, das tun sie!
+Sie verstehen sie nur nicht!" (Ein Fisch namens Nicola)

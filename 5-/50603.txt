@@ -1,0 +1,27 @@
+Hallo Urban,
+
+
+Dafür wird es sicher keine "prinzipielle" Begründung geben; und je nachdem,
+was man unter "Programmiersprache" versteht, ist das auch nicht unbedingt so.
+
+Wenn eine Programmiersprache als "Äquivalent zu einer Turing-Maschine"
+definiert ist, dann gilt der Satz sicher, aber dann ist er auch trivial.
+
+Wenn eine Programmiersprache nicht unbedingt turing-vollständig ist, gilt er
+schon nicht mehr: man kann beispielsweise nicht jedes C-Programm (eine
+Programmiersprache, turing-vollständig) in ein SQL-Programm (eine nicht
+turing-vollständige Programmiersprache) umgewandelt werden.
+
+Umgekehrt lassen sich mit Programmiersprachen, die ein Superset der
+Turing-Maschine darstellen, auch Programme schreiben, die nicht z.B. in C
+darstellbar sind. Das trivialste Beispiel ist ein Programm mit Input und
+Output; da diese Operationen nicht Teil der Sprache C sind, lässt sich
+beispielsweise ein Fortran-Programm nicht ohne weiteres in ein C-Programm
+konvertieren. (Bevor jetzt jemand auf f2c hinweist: das benötigt eine
+zusätzliche Bibliothek libf2c.a, welche wiederum libc.a benötigt, und dort
+sind Funktionen wie putchar() enthalten, die wiederum irgendwie auf die
+Rechnerhardware zugreifen, was kein Bestandteil der Sprache C ist).
+
+Viele Grüße
+
+Joël

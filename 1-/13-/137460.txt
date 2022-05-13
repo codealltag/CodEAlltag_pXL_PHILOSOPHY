@@ -1,0 +1,39 @@
+Allerdings. Daher würde ich nach tausend mal "5" in Folge an ein und
+demselben Roulettetisch auch eher davon ausgehen,
+
+1) dass ich träume
+2) der Tisch defekt ist
+3) der Tisch manipuliert ist
+4) was anderes mit dem Tisch ist, auf dass ich nicht komme
+
+bevor ich glauben würde, dieses sei tatsächlich zufällig geschehen.
+
+
+Wie entscheidend Randinformationen zur Berechnung der Wahrscheinlichkeit
+werden können, zeigt das 3-Türen-Problem. In einer Show befindet sich
+hinter einer von drei Türen der Hauptgewinn, hinter den anderen zwei Türen
+jeweils eine Niete. Der Spieler wählt eine der drei Türen, danach öffnet
+der Showmaster eine der beiden anderen Türen, hinter der sich eine Niete
+befindet und bietet dem Spieler noch einmal an, zu wechseln. Ist es klug,
+zu wechseln? Dieses Problem ist nicht neu, wird aber in der Regel einseitig
+ausgewertet, weil (ohne dass dieses gesagt wurde!) davon ausgegangen wird,
+dass der Showmaster weiß, hinter welcher Tür sich der Preis befindet und
+dem Spieler ausserdem noch wohlgesonnen ist. Dann ist es in der Tat
+vorteilhaft, zu wechseln.
+
+Rt der Showmaster hingegen selbst, ist es völlig egal, ob man wechselt,
+oder nicht. Diese Version ist noch vereinzelt als Version des
+"vergesslichen Showmasters" bekannt. Bisher nicht gefunden habe ich die
+Version mit "bösartigem" Showmaster: Der Showmaster weiß, hinter welcher
+Tür sich der Preis befindet, er weiß weiterhin, dass der Spieler die
+übliche Version des 3-Türen-Problems kennt (wechseln!) und befolgen wird.
+Da er dem Spieler nicht gut gesonnen ist, oder das Budget schon erschöpft
+ist ;) bietet er dem Spieler nur dann einen Tausch an, wenn der Spieler
+zufällig die Tür mit dem Hauptgewinn gewählt hat. Da dieser den Wechsel
+immer annimmt, des vermeintlichen Vorteils wegen, ist das Ergebnis, dass er
+den Hauptgewinn auch mit größtem Glück nicht mehr gewinnen kann.
+
+Oder anders, ohne weitergehende Information ist das 3-Türen-Problem nicht
+eindeutig lösbar.
+
+Größe, Willibald

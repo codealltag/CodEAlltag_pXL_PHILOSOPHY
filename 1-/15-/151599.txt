@@ -1,0 +1,67 @@
+Nein, das wäre einfach Quatsch.
+
+
+x ist in dieser Formel eine gebundene Variable und keine Konstante wie e. 
+Feine aber wichtige Unterschiede.
+
+
+Mit 0,9p = 1 verbinden sich bei mir ein paar nette
+Kindheitserinnerungen.  Ich hatte die Aussage mal von meiner Mutter
+(Mathelehrerin) gehört.  Unser Mathelehrer hatte davon allerdings
+nichts gehört, und die geniale Idee, dass ein offenes Interval (-1,1)
+dasselbe wäre wie ein geschlossenes Intervall [-0,9p,0,9p].  
+
+Und da platzt nun ein Schüler (ich) ganz unverschämt mit der
+Behauptung 0,9p = 1 rein.  Die Stunde war geschmissen, alle waren
+gegen mich, ich versuchte mich am Beweisen, und kriegte immerhin sowas
+wie 0,8p + 0,1p = 0,9p, 8/9 + 1/9 = 9/9 = 1 zustande.  Am nächsten Tag
+hatten sich dann noch einige meiner härtesten Konkurrenten in
+irgendwelchen Nachschlagewerken kundig gemacht und ich hatte gewonnen.
+Allerdings hatte ich nun einen Lehrer, der mich ganz offensichtlich
+nicht leiden konnte ....
+
+
+Naja, Unsinn ist wohl eher das was du hier fabrizierst.
+
+
+Teilen (Division) sollte die Umkehrung der Multiplikation sein.  Es
+soll also immer folgendes gelten: a/b = c wenn a = b*c ist.  Ausserdem
+sollte a/b etwas eindeutig definiertes sein.  Nun ist allerdings 0*x =
+0.  Was könnte also a/0 sein?  Aus a/0 = c folgt a = c*0 = 0.  Also
+kann man Zahlen, die nicht selbst 0 sind, nicht durch 0 teilen.  Und
+0/0 ist halt unbestimmt, es könnte alles sein, aus 0/0 = c folgt 0 =
+0*c, was immer stimmt.
+
+Da ist die einfachste Lösung, a/0 generell zu verbieten. 
+
+
+Oh, es könnte durchaus auch sein, dass du die Grundlagen nicht kapiert
+hast.  
+
+
+Gut. 
+
+
+Wenn .... 
+
+
+Im dreidimensionalen Raum gibt es leider keine solchen Rechenregeln,
+die alle Axiome der komplexen Zahlen erfüllen.  Im vierdimensionalen
+Raum gibt es immerhin sowas ähnliches, nämlich die Quaternionen.
+Die haben allerdings die unschöne Eigenschaft, dass die Regel 
+a*b = b*a nicht mehr gilt.  
+
+Dann gibt es noch Oktonionen, die sind im 8-dimensionalen Raum.  Die
+sind noch schlechter, fuer die gilt nicht mal mehr a*(b*c) = (a*b)*c.
+
+Dann gibt es noch andere Möglichkeiten, Multiplikationen zu
+definieren, aber die haben alle Nullteiler, also Elemente a != 0, b !=
+0 fuer die a*b=0 ist.  Und damit taugen sie als "Zahlen" gar nichts
+mehr.
+
+
+Das verwundert nicht.
+
+Rudi
+-- 
+H. Overdieck, <qtkq@dpoc-lwlbczmih.koq> , http://aika-bcljtdkbj.qyj

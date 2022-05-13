@@ -1,0 +1,27 @@
+;-) Lies den Jakobi. Der kann echt gut erklären.
+
+
+Es gibt Übersetzungsprogramme, Implementierungen von Compilern eben.
+
+
+Es gibt einen Satz in der theoretischen Informatik, dass es für jedes
+berechenbare Problem unbegrenzt viele Algorithmen gibt, die es
+berechnen. Unbegrenzt meint hier abzählbar. Dazu kann man jedes
+berechenbare Problem sowohl iterativ als auch rekursiv berechnen.
+
+Nicht alle Turing-vollständigen Programmiersprachen geben einem aber
+alle Formulierungsmöglichkeiten.
+
+
+So ist es, allerdings nur, wenn die Sprachen Turing-vollständig sind.
+Wenn nicht, dann stellt sich eben die Frage, welche Klassen von
+Problemen man mit den Sprachen berechnen kann.
+
+
+Den Geruch finde ich da viel weniger problematisch als das, was
+"zwischen den Zeilen steht".
+
+Viele Grüsse,
+VB.
+-- 
+Ceci n’est pas une pipe: |

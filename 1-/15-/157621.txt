@@ -1,0 +1,13 @@
+Nein. Mathematische Längen haben i.d.R. keine Einheiten.
+
+
+Man kann die Einheiten alle sehr konsistent loswerden, indem man ein
+System wählt, in dem ein paar fundamentale Konstanten den Wert 1
+haben.
+
+
+'Einheit' in diesem Sinne kommt in der Mathematik nicht allzu häufig
+vor, fürchte ich. Der Algebraiker wird die ganzen Einheiten als
+transzendente Körpererweiterung der reellen Zahlen betrachten, und
+damit ist auch schon alles erledigt, was man dazu sagen müßte, denke
+ich.

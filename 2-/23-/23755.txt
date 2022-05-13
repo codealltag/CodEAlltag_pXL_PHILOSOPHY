@@ -1,0 +1,25 @@
+Deshalb funktionieren Wasserfall-basierende Methoden nicht: Fehler bei
+der Anforderungserfassung lassen sich gar nicht vermeiden. Das hängt
+auch nicht nur (aber auch) an Sprachproblemen. Deshalb (und aus weiteren
+Gründen) sind agile Methoden um Klassen erfolgreicher.
+
+
+Du hast doch genügend Bildung, dass Dir vollkommen klar sein müsste,
+dass die Sprachen in den verschiedenen Subkulturen in einem Unternehmen
+alle die Probleme aufweisen, die Véronique genannt hat (und noch einige
+mehr, man hat ja üblicherweise gar kein kontrolliertes Vokabular, in
+keiner der Bereiche). Auch hast Du genügend Erfahrung, dass Dir klar
+sein müsste, dass das den beteiligten Personen keinesfalls klar ist, und
+dass diese ihre Standpunkte vertreten ohne dass ihnen solche Probleme
+bewusst sind. Die meisten sind nicht einmal willens, darauf einzugehen.
+
+Entsprechend müsste Dir auch klar sein, dass RE reaktiv geführt werden
+muss, will es erfolgreich sein, und die verschiedenen Sprachen abbilden.
+Dass sich hier trotz aller Querfragen Fehler einschleichen müssen, ist
+einer der Hauptgründe dafür, weshalb alle Wasserfallmodelle scheitern,
+insbesondere auch die V-Modelle. Agiles Entwickeln tut not.
+
+Viele Grüsse,
+VB.
+-- 
+Bitte beachten Sie auch die Rückseite dieses Schreibens!

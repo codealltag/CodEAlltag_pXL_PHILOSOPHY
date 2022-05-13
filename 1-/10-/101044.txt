@@ -1,0 +1,19 @@
+Klassische Bezeichnungsregel: Kegel=Verbindungen einer ebenen Kurve
+mit einem Punkt außerhalb der Ebene, Torus=Spur der Drehung einer
+ebenen Kurve um eine in der Ebene liegende Achse.
+
+
+Mit R,r als Radien (R sein das, was beim Fahrradreifen verdoppelt "26
+Zoll" heißt, r entspreche den 1.75 Zoll) ist
+
+(sqrt(x^2+y^2)-R)^2 + z^2 = r^2
+
+Nach Entwurzeln ist es auch 4. Grades.
+
+
+Das will ein anderes Java als mein Browser spricht.  Gibt es das in statisch?
+
+Alwin
+-- 
+GS d->? s:++>+++ a+ C++++$ UL+++$ UH+ P++ L++ E+++ W- N++ o-- K- w--- !O M- V-
+PS+>++ PE Y+>++ PGP+ !t !5 !X !R !tv  b+++ DI+++ D?  G+ e++++ h+ r? y?

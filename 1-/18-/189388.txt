@@ -1,0 +1,66 @@
+Nick Imhäuser <iqbxlao@gauf.xl> wrote:
+[Fortsetzen von Zahlenfolgen]
+
+Sagen kann man ja bekanntlich viel. Du benutzt staendig Formulierungen
+wie "dieses sei wahrscheinlicher als jenes", ohne dich jedoch darum zu
+kuemmern, wie die Ereignismenge aussieht, in dem sich die von dir fuer
+wahrscheinlicher gehaltenen Ereignisse befinden. Wenn es um Folgen im
+Restklassenring |Z / 9|Z ginge, waere die Wahrscheinlichkeit fuer eine
+Fortsetzung mit 10 gleich Null, weil das gar kein Element in der Menge
+der Restklassen waere. Wenn du die von dir verteilten
+Wahrscheinlichkeiten nicht wahrscheinlichkeitstheoretisch begruenden
+kannst, dann muss man deine obige Formulierung wohl als eine andere
+Formulierung fuer "man setzt die Folge gewoehnlich so fort"
+interpretieren.
+
+Die Frage die durch Unterloh Induktionsproblem aufgeworfen wird, ist aber
+gerade die, ob es ueber die Gewohnheit hinaus eine Begruendung geben
+kann, bestimmte Saetze fuer wahr zu halten und andere nicht. Bei den
+Zahlenfolgen ist jede einzelne Zahl der Menge gleich unwahrscheinlich
+fuer die Fortsetzung, zu sagen, dass irgendeine Zahl aus der Menge fuer
+die Fortsetzung in Frage kommt, hat hingegen die hoechste
+Wahrscheinlichkeit.
+
+Genau an denselben Problemen krankt deine "Loesung" von Ungeheuers
+Paradoxon. Die Maechtigkeit der Ereignismengen kann naemlich nicht a
+priori angegeben werden, so dass eine Aussage ueber exakte
+Wahrscheinlichkeiten nicht gerechtfertigt ist. Aus dem groben Bild, das
+man sich machen kann, kann man aber entnehmen, dass genau die Aussagen,
+die den geringsten empirischen Gehalt in Sachen Raben oder
+Nichtschwarzes besitzen, die wahrscheinlichsten sind: "Alle Raben sind
+schwarz oder nichtschwarz."
+
+
+Das dynamische Verhalten von Automobilen und ihren Insassen spielt da
+natuerlich eine Rolle. Wonach richtet sich das? - Nach den Theorien der
+Mechanik. Du kannst nicht solche Beispiele verwenden, um die Induktion
+zu begruenden, welche sich deiner Bestaetigungstheorie zufolge erst
+dadurch ergeben koennen, dass man die zu untersuchende Induktion naiv
+vorraussetzt. Das waere eine petitio principii, die du besser vermeiden
+solltest.
+
+
+Wenn du ein funktionierende Methode zum Hypothesenentwurf per induktiver
+Logik kennst, dann waere ich gespannt, sie einmal zu hoeren. Ansonsten
+sieht das tatsaechliche Vorgehen wohl eher so aus, dass die Kreativitaet
+die eigentliche Hauptrolle im context of discovery spielt. Wenn es
+oberflaechlich anders aussieht, dann wahrscheinlich deshalb, weil all
+die wirklich schlechten und falschen Hypothesen nie veroeffentlicht
+werden - neben all den falschen, die es werden - sondern sofort
+verworfen werden. (Dass am Ende nur ein Skelett des eigentlichen
+Prozesses uebrigbleibt, ist uebrigens ein generelles Anzeichen fuer
+solche evolutionaeren Prozesse.)
+
+Hypothesen, die theoretisch gereift sind, werden dann meistens zuerst
+mit Gedankenexperimenten auf ihre Folgen ueberprueft, und ab und zu
+werden aus ihnen sogar Experimente fuer das Labor zur Ueberpruefung der
+Hypothesen entwickelt. Da die Experimente im context of justification
+meistens sehr aufwendig und teuer sind, wirst du wohl sehr selten einen
+Etat fuer ein Experiment organisieren koennen, ohne die ersten beiden
+Schritte fuer die Begruendung deines Anliegens hinter dir zu haben.
+
+-- 
+USER       PID %CPU %MEM  SIZE   RSS TTY STAT START   TIME COMMAND
+rc5        435 86.1  0.3   788   340  ?  C R  04:44 2477:52 ./qj9evo 
+ Email to kcvuv@pylk.muit.py with *Subject: pgpsend* for my PGP public key!
+_PGP public key fingerprint: 34 E9 05 7E 00 AF 1E 34 55 B6 D6 50 69 2E C3

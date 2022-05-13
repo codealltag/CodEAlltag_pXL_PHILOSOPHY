@@ -1,0 +1,74 @@
+Hallo,
+
+in
+dass
+
+Ganz einfach: Zwischen Determinismus und Vorhersagbarkeit gibt es einen
+Unterschied.
+Ein System kann deterministisch sein, aber nicht vorhersagbar. Beispiel das
+Chaos.
+Das Chaos ist durch allgemeine Gesetze determiniert, D.h. es arbeitet
+Schritt für
+Schritt nach gewissen vorgeschriebenen Regeln und ist durch diese
+determiniert.
+Trotzdem ist das Chaos ab einer gewissen Stufe unvorhersagbar. Warum?
+Weil wir die Anfangsbedingungen nicht genau wissen. Somit können wir auch
+nicht vorhersagen, wie sich das System verhält. Trotzdem folgt es Regeln und
+ist, wie geschrieben, von diesen determiniert. Ein anderes Beispiel sei der
+lustige zellulare Automat LIVE. Wir haben hier 3 Regeln die die
+Ausgangsfiguren
+und deren Entwicklung  determinieren. Und trotzdem können wir ausgehend von
+manchen Ausgangsfiguren in LIVE nicht vorhersagen, wie sie sich entwickeln.
+
+Ein anderes Beispiel sei Remmer Voellmann triviale und nichttriviale
+Maschine:
+
+Eine triviale Maschine:
+
+x --->[f]--->y
+
+Input--->Operation--->Output
+unabhängige Variable--->Funktion--->abhängige Variable
+Ursache--->Naturgesetz--->Wirkung
+Untersatz--->Obersatz--->Schluss
+Reiz--->Organismus--->Reaktion
+Motiv--->Charakter--->Tat
+Ziel--->System--->Verhalten
+
+Diese triviale Maschine ist determiniert, vergangenheitsunabh�ngig,
+analytisch
+bestimmbar, vorhersagbar.
+
+Eine nichttrviale Maschine:
+
+x--->[F<-->Z--z'-->z]---->y
+          ^                         ^
+          '_____________'
+
+In Zustand I
+x       y       z'
+A      1       I
+B      2       II
+C      3      III
+D      4      II
+
+Im Zustand II
+
+x      y       z'
+A     4       I
+B     3       I
+C     2       II
+D     1       II
+
+Die nichttriviale Maschine mit inneren Zustand z: Ist *determiniert*,
+vergangenheitsabhängig und *nicht voraussagbar*.
+Da der menschliche Organismus ein autopoietisches System ist,
+trifft auf ihn die nichttriviale Maschine zu.
+
+Somit:
+Der Mensch ist von Naturgesetzen determiniert, aber manche seiner Handlungen
+nicht
+vorhersagbar. Zwischen beiden Begriffen gibt es keinen Widerspruch.
+
+Grösse,
+Oliver Viets

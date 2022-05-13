@@ -1,0 +1,11 @@
+Nehmen wir an, es existiert eine Ordnung (A,<=) (A nichtleer) , für
+die (1) und (2) gilt. Sei a ein Element aus A. Wegen (2) gibt es ein b
+mit a<b und der dort garantierten Eigenschaft:
+
+        (3)  Für alle c aus A gilt:  a<c<=b  => c=b.
+
+Nun existiert wegen (1) ein Element c mit a<c<b, woraus wir mit (3)
+b=c schließen. Widerspruch!
+
+
+udo

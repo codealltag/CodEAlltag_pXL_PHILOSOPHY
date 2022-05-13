@@ -1,0 +1,76 @@
+: : : In article <9zvhb7$s0k@tofw.tgmo.ux>,
+: : : >Die DNA ist ein sehr lange Reihe von Aminosaeuremolekuelen
+: : : >(Adenin, Guanin, Cytosin und Tymin). Diese Grossmolekuele bestehen aus
+: 
+: : Kleine Korrektur von Fehlern, die Marc an sich auch haette bemerken
+: : koennen: Das sind keine Aminosaeuren sondern Basen (Basenpaare), die in der
+: : DNA vorkommen. Jede Aminosaeure wir durch drei Basen kodiert in einem
+: : sogenannten Triplet; diese Saeuren oder Peptide, die aber entgegen dem Namen
+: : basisch sein koennen werden von Ribosomen an der mRNA, die als Zwischenschritt
+: : fungiert, abgelesen und zu Aminosaeureketten oder Polypeptiden (Proteinen)
+: : verbunden.
+: 
+: Damit nun auch ja kein Mißverständnis auftritt, etwa das Aminosäuren durch
+: Lesen entstehen oder ähnliches, sei noch bemerkt, daß die Aminosäuren in der
+: Zellflüssigkeit vorhanden sein müssen, damit sie entsprechend der Kodierung
+: der messenger-RNA am Ribosom zu Proteinen zusammengesetzt werden können.
+
+In einer so kurzen Mail koennen leider immer Missverstaendnisse auftreten,
+aber wer es wirklich ganz genau wissen will, sollte ein Lehrbuch ueber
+Molekulargenetik befragen, da es zu dem Thema noch einiges zu lesen gibt...
+
+: [snip]
+: 
+: : Die Chaostheorie wird auf mathematische Modelle angewendet, die ein
+: : voellig undefiniertes Verhalten zeigen, wenn man die Anfangswerte nur
+: : wenig aendert. Sind diese Werte genau bekannt, verhalten sich solche
+: : System genau bestimmt (deterministisches Chaos), also nicht zufaellig.
+: 
+: Auch hier ist eine kleine Klarstellung angebracht. Die Chaostheorie
+: bezieht sich auf deterministische Systeme, die sich nicht stetig
+: verhalten. D.h. eine kleine Änderung der Anfangsbedingung kann zu großen
+: Unterschieden im Ablauf führen. Chaotische Systeme haben deshalb den
+: Nachteil, daß ihre Berechenbarkeit nicht invariant bezüglich von kleinen
+: Meßfehlern oder Idealisierungen sind.
+
+Letzteres ist aber lediglich ein Problem, das in der Physik auftritt,
+in der Mathematik selbst, kann man genaue Werte benutzen.
+
+: Meines Erachtens kann die Chaostheorie lediglich dazu herhalten, zwischen
+: verschiedenen Konzepten von Unberechenbarkeit zu unterscheiden:
+: 
+: 1) prinzipielle Unberechenbarkeit (Unentscheidbarkeit): Halteproblem,
+:    Erfüllbarkeit, etc.
+: 2) praktische Unberechenbarkeit (Komplexitätstheorie): Probleme deren Lösung
+:    nachweislich exponentiell oder mehr Zeit benötigt u.a.
+: 3) physikalische Unberechenbarkeit:
+: 	a) wegen Nichtdeterministischer Grundstruktur, etwa Quantentheorie
+: 	b) wegen Nichtstetigkeit, kleine Fehler in den Anfangsbedingungen
+: 	   führen zu großen Fehlern im Ergebnis
+:  
+: Aber dies hat natürlich kaum was mit der aktuellen Diskussion zu tun und ist
+: somit unerheblich. :-(
+
+Das wuerde ich nicht unbedingt sagen. Mir war es vor allem wichtig darauf
+hinzuweisen, dass die Chaostheorie eine mathematische Theorie ist, die
+trotz ihres Namens deterministisch ist. Dass es eine sinnvolle Anwendung der
+Physik dafuer gibt, halte ich fuer sehr fragwuerdig, da man so nie Ergebnisse
+erhaelt.
+
+Wie aus 3) hervorgeht, lassen sich genaue Messungen nach a) prinzipiell
+nicht erreichen, wenn man keine "Heisenberg-Kompensatoren a la StarTrek
+besitzt oder sonst nach b) nur endlich genaue Messwerte ereichen, was leider
+auch nie genuegt. Ob es nicht doch eine anderes Rechengesetz gibt, das bei
+genaueren Messwerten nicht dieses Verhalten zeigt, laesst sich nicht
+abschliessend feststellen.
+
+Die frueheste Beschreibung eines chaotischen Systems habe ich uebrigens
+in Zickenheimers "Ziel und Struktur phys. Theorien" gelesen, wo es bei der
+Berechnung der Bewegung eines Massepunktes auf einer besonders geformten
+dreidimensionalen Flaeche entsteht.
+
+-- 
+--\-\----------------------------------------------------------------
+ --\-\-- privat: fydoa@nrlw.zvdz.ob - Fuettere ihn mit cthugha-l! --
+  --\-\-- uni: mmnsba44@wwqnhg.kjsbwfewlz.ort-yvndscgq.hf ---------
+   --\-\-- fido: Gmegcim_Fchvx@v3.i0162.i5530.z9.fjbf.usm.sq -----

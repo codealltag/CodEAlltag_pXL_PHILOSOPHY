@@ -1,0 +1,31 @@
+Hallo François!
+
+HH> Problem, kannst aber offenichtlich (zumindest nicht bis jetzt)
+HH> nicht einmal angeben, wo das eine Objekt aufhört und das andere
+HH> anfängt.
+
+Natuerlich kann ich, ich wiederhole mich da nur immer: bei einer
+Messwahrscheinlickeit von 0,5 hoert das "Nicht-Papier" auf, jeder
+Punkt bei dem die WK groesser ist, ist Papier.
+
+HH> OK, siehe oben, nenne mir das Papierintervall und das
+HH> Nicht-Papierintervall.
+
+Entlang einer Achse z.B. ist das Intervall eines Blatt Papiers das
+offene Interval (-64mm, 64mm) und das "Nicht-Papier" alles andere.
+
+ROSMARIE> Du wirst doch anerkennen, dass das Papier ein Ende hat?
+
+Definiere "das Ende". Wenn Du meinst "einen letzten Punkt" (in einer
+bestimmten Richtung gemessen), gibt es den nicht.
+
+Wenn Du meinst "Es gibt einen Punkt, der eine groessere X-Koordinate
+als jeder beliebige Papierpunkt hat" (Begrenzheit), dann ja.
+
+Nochmal: das ist voellig aequivalent dazu, dass das offene Intervall
+reller Zahlen (-Pi,Pi) begrenzt sind, man aber keine "unteren" oder
+"oberen" Grenzpunkt des Intervalls angeben kann.
+
+Tschuessi
+
+Vincenzo

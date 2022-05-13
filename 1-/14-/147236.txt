@@ -1,0 +1,24 @@
+Hallo Arian,
+
+Deine Formulierung reizt mich zu formallogischer Analyse :-)
+Und nach der brauchst Du gar nicht zu uppsen.
+
+Ausage A(x):
+    "Leon Bültge könnte am 15. Mai 2001
+      seinen x-ten Geburtstag feiern."
+
+Aussage B:
+    "Leon Bültge ist am 10. Mai 1576 in
+      Unterlangenstadt gestorben."
+
+Originalaussage ist:
+                "Wenn nicht B, dann A(400)".      (***)
+
+Weil B wahr ist, ist "nicht B" falsch.
+Aus etwas falschem kann bekanntermassen alles folgen.
+Also ist Dein originales (***) korrekt.
+
+"Noch korrekter" ist allerdings wirklich die geuppste Aussage.
+
+Gruss,
+Sebastian

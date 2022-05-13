@@ -1,0 +1,70 @@
+Hallo Beat!
+
+Das Problem ist, dass du die Prinzipien nicht verstanden hast und nun
+drauflos�berlegst. 
+In wirklichkeit gibt es keine Farbe, sondern nur verschiedene
+Frequenzen. Wir betrachten mal nur den sichtbaren Bereich, denn eine
+hypothetische Ausdehnung in infrarot und ultraviolett würde anologe
+Erbenisse liefern. Normales Licht ist ein kontinuierliches Gemisch aus
+verscheidenen Frequenzen mit verschiedenen Amplituden. Also unendlich
+viele Möglichkeiten. 
+Wir habe nun drei Empfänger, die unteschiedliche spektrale
+Empfindlickeit haben und drei _Ausz�ge_ anfertigen. D.h die unendlichen
+Kombinationen werden als Linearkombinationen von drei Werten abgebildet.
+Hier bleibt eine Menge auf der Strecke. Wir können nicht sagen ob das
+Gelb nun aus der Kombination von einem grünen und einem roten Licht
+besteht oder monochromatisch Gelb ist. Beide male werden unsere
+Empfänger in gleicher Weise gereizt. Ebenso können wir Farbeindrücke
+erzeugen, die keine entsprechung in monochromtischen Licht haben.
+(Magenta) 
+
+Alle technishen Sachen wie TV, Fotografie und Druck basieren auf diesen
+Farbauszügen. Wir erzeugen nicht das reale Frequenzgemisch, sondern wir
+versuchen mit drei Farbauszügen unsere Empfänger in gleicher Weise zu
+reizen wie es das reale Frequnzgemisch tun würde. (nimm dir aus Spass
+vom Baumarkt ein paar Farbproben mit und jage sie über den Scanner: du
+wirst staunen, der Scanner sieht nämlich anders als dein Auge. Das der
+Scanner trotzdem so gut bei Drucksachen und Fotos finktioniert liegt
+daran dass er nur drei Farbauszüge erkennen muss. Also aus einer
+Kombination von drei relativ schmalbandigen Frequenzbereichen diese
+Zusammensetzunge erkennen muss.) 
+
+Mit diesen drei Farbauszügen kann man einen dreidimensionalen Farbraum
+aufspannen. Das rotestewt Rot erhalten wir, wenn wir nur den Rot-Zapfen
+maximal reizen und die anderen nicht. Das gnter Grün, und blaueste
+Blau genauso. Bedingt durch die Empfindlichkeiten der Zapfen erreichen
+wir diese Kanaltrennung maximal für Rot. D.h. es gelingt nicht mit
+natürlichen Lichtquellen(Primärvalenzen) den Farbraum maximal
+auszufüllen. 
+Die Empfindlichkeiten sind auch nicht Blockm�ssig verteilt. Also Blau
+nur bis zu einer bestimmten Wellenlänge, Grün exakt ab da und nicht
+vorher usw.
+Vor allem die spektralen Empfindlickeiten der Grün- und Rot Zapfen
+überlagern sich stark. Blau- und Gr�nzapfen überlagern sich und Rot und
+Blauza�fen überlagern sich. (Vor allem Filme haben schwierigkeiten das
+violett des Regenbogens zu reproduzieren, denn beim Film hat die
+Rotempfindliche Schichte keine Empfindlichkeit im violetten Bereicht,
+spektrales violett wird Blau)
+
+Vor allem manche Cyan und Grüntöne können nicht dargestellt werden.
+Selbst mit den intensivsten monochromatischen Lasern. Man kann natürlich
+neue Primärvalenzen wählen (z.B. Blau, Grün und Cyan) und damit auch
+diese Farben reproduzieren, aber dann hätte man Probleme mit anderen
+Farben. Mit den gängigen Grundfarebn Rot, Grün und Blau spannt man nur
+den maximalen Farbraum innerhalb des theoretisch möglichen auf.
+Die theoretischen XYZ-Farbvalenzen liegen ausserhalb des möglichen. Sie
+wären nur durhc negative Anteile erzeugbar und auch gar nicht sichtbar. 
+
+Kurz: Wellenlänge und Farbeindruck haben nur mittelbar was miteinander
+zu tun. 
+
+Jetzt können wir uns überlegen was passiert, wenn wir einen neuen
+violett-Zapfen hätten. 
+Erstens würde die unterscheidung von monochromatischen Violett und
+Blau-Rot-Gemsich ermöglicht werden. Zweitens würden wir neue Mischfarben
+bekommen. Vilolett-Grün und Violett-Rot, Letzters wäre Magenta, Blau-Rot
+dann allerding nicht mehr. Der Farbraum wäre vierdimensional. Es würde
+nicht mehr gelingen Violettöne durch Blau-Rot-Mischung zu erzeugen. 
+
+Und Farbnamen sind sowieso unbrauchbar für eine genaue Betrachtung. Sie
+sind zu ungenau und willkürlich.

@@ -1,0 +1,200 @@
+tvykposph@jrglz.wq (Mario Thedieck) schrieb... 
+[...]
+
+Kriterien für Personalität sind:
+
+(1) Vernunft.
+(2) Bewußtseinszustände; Personen können wörtlich mentale oder
+intentionale Prädikate zugeschrieben werden.
+(3) Eine Person muss den Anderen ebenfalls als Personen behandeln,
+unter Einschluss moralischer Kategorien.
+(4) Personen müssen eine Sprache beherrschen. 
+(5) Selbstbewußtsein (damit ein Wesen ein "moralisches
+Handlungssubjekt" sein kann, und  Verantworung für begangene
+Handlungen übernehmen kann)
+
+näheres z.B. in Zieglmayer, Bedingungen für Personalität, in: Bieri,
+Analytische Philosophie des Geistes
+
+[Locked-in-Patienten]
+
+Also keine Gehirnaktivit�tssemantik. Der "eingeschlossene" Patient
+verfügt aber anscheindend über alle Sinne, zumindest aber den
+Gesichtssinn. Für unserer Eröterung sind derart eingeschränkte
+Menschen allerdings trotzdem irrelevant, s.u.  
+
+[CYCs Sinne]
+
+Das Problem ist , das er nicht _handeln_ kann, also nicht beweisen
+kann, dass er Sprache, die inhärent mit einer Lebensform verbunden
+ist, verstanden hat. Dem Locked-in-Patienten _wird_ diese, aufgrund
+seines menschlichen Antlitzes, einfach unterstellt! Insofern ist der
+Verweis auf pathologische Fälle irrelevant.   
+
+
+Unsinn. Ein abstrakter Begriff ist ein Begriff, unter den abstrakte
+Gegenstände fallen, z.B. Zahlen, Mengen, Funktionen, etc.
+
+
+*Versteht* Eckenfels die chinesische Sprache? 
+
+
+Ultraschallt�ne sind keine Begriffe!
+
+
+Dagegen spricht die Empirie: Die neuronalen Korrelate, die mit dem
+subjektiven Erlebnisinhalt einer Rotempfindungen (Quale) verbunden
+sind, sind  von Mensch zu Mensch verschieden, und ändern sich auch bei
+einem einzelnen Menschen über die Zeit. 
+
+Außerdem: Du änderst deine Taktik. Jetzt kommt es plötzlich doch auf
+die *biologische* Ausstattung einer Person an?  
+
+[...]
+
+Bei einer nur teilweisen Unterbrechung der Leitungsbahnen des
+Rückenmarks ist die Diagnose AFAIK symptombasiert. Außerdem kommt hier
+wieder die Medizin bzw. Biologie ins Spiel: Reine *Verhaltensmerkmale*
+gelten zwar als *Symptome*, genau wie beim Schmerz, sind nicht
+entscheidend.
+
+
+Im Wortsinne nicht. Neben der biologischen Verfasstheit ist wohl auch
+eine menschenähnliche "Form" ausschlaggebend. Vielleicht gibt es
+Verhaltensweisen, die der Alien bei Schäden seiner "Oberfläche"
+aufweist, aber eine Schmerzempfindung ist subjektiv, die ich nur Wesen
+zuschreiben kann, in die ich mich "hineinversetzen" kann. Der Witz bei
+einem Roboter ist ja, das er ein viel perfekterer Schauspieler als ein
+Mensch ist, und so ein *Schmerzverhalten* aufweisen kann, ohne
+Schmerzen zu haben. Wenn man die evolutionäre Funktion von Schmerz in
+Betracht zieht, könnte man auch Wesen, die sich biologisch von uns
+stark unterscheiden, aber auch Zustände besitzen, die in der
+Entwicklung ihrer Spezies eine ähnliche Funktion gehabt haben,
+Schmerzen nennen.        
+
+[Denkt der Teich?]
+
+Die relevanten Zustände mit den passenden Zustandsübergängen wählt man
+natürlich entsprechend den Anforderungen der Theorie aus. (die
+funktionale Theorie muss ja nur im Teich _realisiert_ sein, auf welche
+Weise ist irrelevant) Die komplexen Strömungsvorgänge nichtstationärer
+oder stationärer Art bei Konvektion liefern aber mit Sicherheit
+genügend Zustände und "passende" Übergänge für finite state machines,
+ebeso wie Molekülbewegungen. 
+
+
+Der Punkt ist: Es gibt nicht *die* Zustände eines Teichs. Generell
+sind die für die Realisierung unserer Theorie relevanten Zustände  aus
+den physikalischen "Basiseigenschaften" (z.B. Temperatur)
+kombinierbar, ein Teich hat überabzählbar viele physikalsiche
+Eigenschaften. (und für unsere Zwecke müssen die Output-Zustände
+messbar sein)
+
+
+Nein, ich behaupte nur, dass für es für jede Theorie im Sinne der
+functional state identity theory (FSIT) eine Realisierung in einem
+(sonnenbeschienen) Teich gibt, oder anders formuliert (wobei ich mir
+nicht sicher bin, ob die FSIT Äquivalent zu FSM ist) : Für jede finite
+state machine F mit g:M->M, |M|=n existiert eine Menge physikalischer
+Eigenschaften Z={P1,...,Pn} des Teichs und eine bijektive Abb. 
+f:Z->M, so dass für alle t gilt: f(S(t+1))=g(f(S(t)). (wobei bei
+dieser Darstellung die IO-Einheiten fehlen)
+
+btw: finite state machines haben gewöhnlich kein IO. Welche Definition
+benutzt du?
+
+[Der Teich spielt Schach]
+
+Das ist nach der FSIT etwas anders: Bei einer Realisierung einer FSIT
+für den Teich sind die Zustandsmenge Z, die Inputmenge I und
+Outputmenge O beliebig wählbar. (natürlich im Rahmen dessen, dass sie
+physikalische Eigenschaften des Teichs sind). Wenn wir also einen
+Schachcomputer mit einem Teich Schach spielen lassen wollen, wählen
+wir die Zustände (und IO-Einheiten), so, dass sie das Schachprogramm
+realisieren. Das Interface verbindet lediglich die entsprechenden
+Output-Zustände des Computers mit den Input-Zuständen des Teichs und
+vice versa.     
+
+[...]
+
+Wenn wir die Eigenschaft, zu denken (ohne Relativierung auf eine
+konkrete Sprache), prädizieren möchten, hast du die Wahl:
+
+(1) x denkt <= (S) x besteht den S-TT.
+(2) x denkt <= (E S) x besteht den S-TT
+
+wobei der Quantor über alle Sprachen läuft.
+
+Wofür entscheidest du dich?  
+
+
+Ja *Du*, nicht aber Turing!
+
+
+Da würde ich dir am liebsten die Regalmeter philosophischer Literatur
+an den Kopf schmeißen, allen voran Zeihs ;-) Gedanken sind mentale
+Episoden, die die Eigenschaft der Intentionalität besitzen, mithin
+propositionalen Inhalt und semantische Identitätsbedingungen haben.
+Für sie gilt eine Form von first-person authority, d.h. derjenige, der
+einen Gedanken hat, weiß auch (unkorrigierbar) dass er den Gedanken
+hat. Neben der durchaus nicht konkurrenzlosen  *positiven*
+Charakterisierung ist die *negative* unumstritten:
+
+"Die Erforschung des Geistes fängt mit Tatsachen an wie der, daß
+Menschen Überzeugungen haben, Thermostaten, Telefone und
+Rechenmaschinen hingegen nicht. Wenn sich eine Theorie findet, die das
+widerlegt, ist ein Gegenbeweis gegen die erste erbracht, und diese ist
+folglich falsch." (Eckenfels, "Geist, Gehirn, Programm")
+Zur Bedeutung (aufgefasst als regelorientierter Gebrauch) des Terms
+allgemeiner auf Personen (die *verkörpert* sein müssen). Nach der Def.
+bleibt nur Eckenfels als möglicher Kandidat übrig ;-)
+
+Deine Aufforderung, nachzuweisen, dass nirgendwo ein denkendes System
+existiert, ist natürlich unsinnig, genauso könnte ein Theist
+behaupten, der Materialist müsse erst 'mal beweisen, dass es nirgenwo
+einen Gott gibt. *Du* behauptest, in Eckenfels sei irgendein "denkendes"
+System, demnach bist du beweispflichtig. Ohne Begründung ist der
+Einwurf einfach ein ad-hoc-Argument, einfach irrational. ( ist der
+Geist in Everts Schuhabsatz?)
+
+Außerdem weigerst du dich seit längerem standhaft, die Phrase, ein
+System hätte den TT bestanden, zu präzisieren:
+
+
+Sind nun die IO-Einheiten aussschlaggebend? Welche Kriterien muss ein
+System erfüllen, um Kandidat des TT zu sein? Ich verstehe ja durchaus
+deine Verweigerungshaltung <g>
+
+
+Nein, es ist die angesprochene first-person-authority, die den Termen
+/denken/ und /verstehen/ durch ihre Bedeutung zufällt. Außerdem sind
+propositonale Einstellungen und 'Gefühle' zu trennen, letztere haben
+keine semantischen Inhalt. 
+
+
+Ist er natürlich schon! (oder bezweifelst, dass Eckenfels denkt?). Der
+Punkt ist, dass er qua Ausführung eines Programms, das nur die Syntax
+einer Sprache betrifft, die Semantik nicht erfasst, folglich nichts
+versteht:
+
+"...in cognitive science, the mistake is: the mind is a computer
+program; and the mind is to the brain as the program is to the
+hardware. Minds, in short, are computer programs implemented in
+brains. This view, which I have baptized 'Strong Artificial
+Intelligence' (Strong AI for short), can be refuted in one sentence.
+Minds cannot be identical with computer programms, because programs
+are defined, syntactically in terms of manipulation of formal symbols,
+such as 0s and 1s, whereas minds have mental or semantic contents;
+they have more than syntax, they have semantics. This refutation came
+to be known as The Chinese Room Argument, because I originally
+illustrated it with the following parable.
+[...]
+This is a simple refutation of Strong AI. Like all arguments it has a
+logical structure. It is a derivation of a conclusion of three
+premises:     
+
+premise 1: programs are formal (syntactical),
+premise 2: minds have contents (semantics),
+premise 3: syntax is not sufficient for semantics.
+
+The story about The Chinese Room illustrates the truth of premise 3.

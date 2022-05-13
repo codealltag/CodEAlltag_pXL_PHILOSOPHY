@@ -1,0 +1,45 @@
+W> Eine Wertung benötigt immer einen Maßstab.  Was soll der Maßstab
+  W> für eine gewertete NW sein?
+
+Meiner Meinung nach kann es keine allgemeingültigen Massstäbe geben,
+weil in jedem Fachgebiet die Wertvorstellungen zusammen mit den
+Theorien wachsen und sich beides gegenseitig beeinflusst.  Es ist
+vielleicht auch noch zu früh, Massstäbe festlegen zu wollen, zuerst
+sollte man sich die zahllosen bereits bestehenden Massstäbe bewusst
+machen.  Die sind abhängig von der Kultur in einem Fachgebiet.
+
+Ich versuche, ein einfaches Beispiel zu geben: mathematische Beweise
+in den technischen Wissenschaften. 
+
+Ich habe heute mit einem Kollegen gesprochen, der arbeitet mit
+adaptiven Systemen.  Dort kann man eine Lernkurve (beschreibt, wie
+schnell das System einschwingt) entweder berechnen oder empirisch
+ermitteln.  Beim Berechnen muss man, damit es überhaupt berechenbar
+wird, so starke Vereinfachungen machen, dass das Resultat zwar
+quantitativ vielleicht ungefähr stimmt, aber qualitativ (also die
+Kurvenform betreffend) kaum.  Trotzdem gelingt es kaum, ein Paper ohne
+mathematischen Beweis zu veröffentlichen.
+
+Ich selbst arbeite mit integrierten Signalfiltern.  Dort gibt es die
+sogenannte Harmonic Distortion (beschreibt, wie stark ein Signal
+verzerrt wird), auch die kann man entweder berechnen oder empirisch
+ermitteln.  Beim Berechnen gilt dasselbe wie oben.  In diesem
+Fachgebiet ist die Reaktion auf Papers mit Berechnungen aber: hübsche
+Arbeit, aber wozu soll eine solch komplizierte Rechnung gut sein?
+
+Daran sieht man, dass sogar in zwei nahe verwandten Fachgebieten einer
+mathematischen Beweisführung verschieden starke Bedeutung beigemessen
+wird.  Ich könnte dutzende von weiteren Beispielen geben, aber die
+würden wohl diese Diskussion nicht weiter erhellen. 
+
+Uebrigens, die Frage, ob in einem Fachgebiet erst die Werte oder die
+Theorien wegweisend wirken, ist genau wie die Frage, ob das Huhn oder
+das Ei zuerst kam, zwar interessant zu diskutieren, aber nicht
+relevant für den heutigen Zustand der Naturwissenschaften.
+
+Gruss, Igor
+-- 
+Igor Kuhlwein                           What every organisation needs is
+  Analog IC Designer (Research)              one damn fool who doesn't know 
+    PNZ, McDonald´s.        what you can't do.
+http://mto.ens.bd.hwvd.da/~qimdrw/               ( Sir Marc Imme )

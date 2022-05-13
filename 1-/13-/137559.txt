@@ -1,0 +1,103 @@
+Das Thalemer Paradoxon ist keins, es beruht auf einer unzulässig
+eingeschränkten Akzeptanz von Best�tigungss�tzen. Ich nehme zur
+Darstellung die Aussage Alle Raben sind schwarz. Nun soll das
+Auffinden von oder das Zeigen auf schwarze Raben zu einer Bestätigung
+der Aussage führen, das Auffinden grüner Paprika oder roter Rosen soll
+hingegen die Aussage nicht bestätigen. Letztere sind hingegen sehr wohl
+Bestätigungen für die äquivalente Aussage Alle Nicht-Schwarzen sind
+Nicht-Raben, woraus das Paradoxon folgen würde. Dieses folgt nicht,
+weil, so meine Behauptung, das Auffinden grüner Paprika oder roter Rosen
+sehr wohl die Aussage über die Schwärze der Raben bestätigt, wen auch
+mit einer anderen Dynamik als das Auffinden schwarzer Raben. Konkret:
+das Zeigen auf eine rote Rose bestätigt die Aussage Alle Raben sind
+schwarz (qualitativ) genauso wie das Zeigen auf einen schwarzen Raben.
+
+Das sieht man so. Angenommen, jemand stellt die Behauptung auf, dass
+alle Raben schwarz sind. Die Aufgabe besteht darin, diese Aussage auf
+ihren Wahrheitsgehalt hin zu untersuchen.
+Zur Wahl stehen zwei Untersuchungs-Möglichkeiten: Entweder dürfen alle
+schwarzen Objekte der Welt untersucht werden, oder alle nicht-schwarzen
+Objekte. Ich glaube, wenn man sich innerhalb einer Sekunde entscheiden
+müsste, würde fast jeder die schwarzen Objekte wählen. Doch diese Wahl
+ist falsch.
+
+Untersucht man die schwarzen Objekte der Welt, kommt man nicht wirklich
+weiter. So ist es dann unmöglich, die Aussage zu falsifizieren. Findet
+man schwarze Raben, kann man sich nicht wirklich freuen, denn wenn auch
+nur ein einziger Rabe im nicht-schwarzen Bereich herumgeistert, war
+alle Arbeit am Ende umsonst, auch wenn man schon ein paar Millionen
+Raben im schwarzen Bereich gefunden hat. Doch was im nicht-schwarzen
+Bereich vorliegt, bleibt einem bei dieser Wahl verschlossen. Findet man
+schwarze Nicht-Raben bringt einen das ebenfalls überhaupt nicht weiter.
+Da man nicht falsifizieren kann, kann man aber auch nicht verifizieren.
+Ein Verfahren, welches prinzipiell keine Falsifikation liefern kann,
+kann man nicht wirklich zur Verifikation heranziehen.
+
+Ganz anders, wenn man die nicht-schwarzen Objekte untersucht. Mit jedem
+nicht-schwarzen Objekt, welches sich nicht als Rabe herausstellt, wächst
+(zumindest in endlich großen Mengen) die Wahrscheinlichkeit, dass die
+Aussage richtig ist. Nur hier kann die Aussage falsifiziert werden, die
+Macht der Falsifikation nimmt jedoch mit der Zahl der untersuchten
+Objekte ab. Im Grenzfall, wenn _alle_ nicht-schwarzen Objekte untersucht
+wurden, ist die Aussage entweder falsifiziert oder eben tatsächlich
+verifiziert.
+
+D.h. durch das Auffinden nicht-schwarzer Objekte, die sich dann als
+Nicht-Raben herausstellen, wird die Aussage Alle Raben sind schwarz
+bestätigt. Das Auffinden schwarzer Objekte, die sich als Nicht-Raben
+herausstellen, hat hingegen tatsächlich keinerlei Bestätigungswert.
+
+Warum sind wir nicht geneigt, das Zeigen auf einen goldenen Ring als
+Best�tigungssatz für Alle Raben sind schwarz anzuerkennen? Weil in
+aller Regel die Zahl der Objekte, über die wir eine All-Aussage treffen,
+sehr klein ist im Vergleich zu allen Objekten der Welt, so dass es in
+der Praxis wesentlich aufwendiger, wenn nicht gar unmöglich ist, eine
+Aussage über das Untersuchen der Komplementärmenge zu treffen. Die
+Wahrscheinlichkeits�nderung pro untersuchter Eigenschaft in der
+Komplementärmenge ist dann eine viel geringere als die in der Menge,
+über die die Aussage getroffen wurde.
+
+Untersucht man zufällig 1000 Raben und sind alle 1000 Raben schwarz,
+ergibt sich nur noch eine geringe Wahrscheinlichkeit, einen
+nicht-schwarzen Raben zu finden. Untersucht man hingegen 1000 beliebige
+nicht-schwarze Objekte, wird wahrscheinlich noch kein einziger Rabe
+dabei sein. Der Vorteil der Untersuchung der Komplementärmenge zeigt
+sich in diesen Fällen erst am langen Ende. Die zuerst so erfolgreiche
+Methode der direkten Rabenuntersuchung wird andererseits niemals
+endgültig beweisen können, dass alle Raben schwarz sind. Die zweite
+Methode kann dies im Grenzfall leisten, in der Praxis kann das
+allerdings eine rein theoretische Möglichkeit sein.
+
+Ein Beispiel, um meine Behauptung zu belegen. Gegeben sind Spielkarten,
+vorne immer mit einem Objektsymbol, z.B. Rabe, Tomate, Paprika usw., auf
+der Rückseite befindet sich immer ein farbiges Quadrat. Ich lege 4
+Karten aus: Paprika, weiß, schwarz, Rabe. Die Behauptung ist folgende:
+Wenn vorne Rabe, dann hinten schwarz. Welche Karten müssen umgedreht
+werden, um den Wahrheitsgehalt der Aussage zu prüfen? Das Umdrehen der
+Karten ist in folgender Reihenfolge sinnvoll (bei symmetrischer
+Verteilung): Rabe, weiß, Paprika&schwarz
+
+Durch das Umdrehen der Rabenkarte kann die Aussage unterstützt oder
+falsifiziert werden. Daraus folgt: Das Zeigen auf Raben führt entweder
+zur Bestätigung oder zur Falsifikation. Durch das Umdrehen der weißen
+Karte kann die Aussage nur falsifiziert werden. Trotzdem ist eine nicht
+erfolgte Falsifikation aufgrund ihres Ausbleibens als Bestätigung zu
+werten. Das Umdrehen der beiden letzten Karten liefert schwächere
+Aussagen, diese muss aber nicht vollkommen unsinnig sein, bei endlichen
+Kartensätzen. Welche von beiden sinnvoller umzudrehen ist, ergibt sich
+daraus, ob es mehr Objekte oder Farben gibt.
+
+Wer sich hier noch weigert, das Umdrehen der weißen Karte mit einem
+Nicht-Raben auf der anderen Seite als Best�tigungssatz zu akzeptieren,
+der überdenke seine Überlegung noch einmal unter der zusätzlichen
+Annahme, dass es im ganzen Spiel nur eine einzige Karte mit einer
+nicht-schwarzen Rückseite gibt. Welche Karte hat nun die größte
+Aussagekraft?
+
+Hier kann man erkennen, dass die Stärke der Bestätigungskraft einer
+Aussage über die Komplementärmenge direkt von der Mächtigkeit beider
+Mengen abhängt. Das Paradoxon beruht lediglich auf einer unzulässigen
+Verallgemeinerung der Erfahrung, nämlich, dass die Mächtigkeit der
+Komplementärmenge größer ist.
+
+Mit freundlichen Größen, Hansruedi Justi

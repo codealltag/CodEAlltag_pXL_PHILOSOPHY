@@ -1,0 +1,66 @@
+Moin Klaus,
+
+
+Mathematik mit der Brechstange?
+
+Deine Aussage ist genauso infantil, wie die meisten Beiträge von Luc
+Heidemeyer, frei nach dem Motto: "Wenn ICH das nicht darf, dann dürft IHR
+das auch nicht!".
+
+Es wurde schon lange bewiesen, dass jede Menge disjunkter Intervalle
+reeller Zahlen höchstens abzählbar ist.
+
+Aber sei es drum, schauen wir doch mal nach, was Du so planst:
+
+
+Das musst Du erst beweisen.
+
+
+Das willst Du nun beweisen?
+
+
+Das ist albern!
+
+Es gibt nur eine Menge der reellen Zahlen, nämlich die, die alle reelle
+Zahlen enthält und nur reelle Zahlen enthält und die wir i.A. mit IR
+bezeichnen.
+
+Und IR ist überabzählbar, wie Opitz in seinem verblüffend einfachen
+Beweis demonstriert hat.
+
+
+"überabzählbar" ist einen Eigenschaft, kein Konzept.
+Außerdem: Wolltest Du nicht die Überabzählbarkeit zeigen?
+
+
+Das darf man so natürlich nicht aufschreiben, aber ich glaube, Deine
+Intervallteilung hat jeder verstanden.
+Du betrachtest nun die "Grenzmenge" M, die dadurch entsteht, das alle
+Mengen disjunkter Intervalle auf diese Art "vereinigt" werden.
+
+Leider fehlt in diesem "Beweis" der Nachweis, dass M überabzählbar viele
+"echte", d.h. keine einpunktigen Intervalle enthält. In Wahrheit enthält
+M überhaupt kein Intervall mehr.
+Beweis:
+
+Sei [a,b] ein Intervall aus M mit a < b. Nach obiger Konstruktion gibt
+es eine Menge M0 disjunkter Intervalle, die das Intervall [a,c] enthält
+mit c:=(a+b)/2, d.h. es gilt a < c < b. Nach Konstruktion von M wird
+[a,b] zerlegt in [a,c] und [c,b]. [a,b] kann also nicht in M sein und
+somit überhaupt kein Intervall.
+
+Damit hast Du gezeigt: M = IR, d.h. M ist tatsächlich überabzählbar.
+
+
+Sie lassen sich ordnen, aber nicht anordnen.
+
+
+Hier müsstest Du eigentlich merken, dass die Länge gegen 0 strebt und
+somit deine Intervalle nichts mehr Wert sind.
+
+Onno
+
+-- 
+ Onno Unverhaue            Odinstraße 5-4     Jordansweg 81r
+ Federvieh GmbH  66476 Nöpke          47810 Eyach
+ http://jqr.dhzskb-ygnbyz.dz  +14-(2)848-77077-6  +60-(2)10-3621070

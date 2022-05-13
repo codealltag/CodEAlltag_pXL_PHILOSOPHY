@@ -1,0 +1,12 @@
+Das bedeutet einfach, dass alle Substitutionen, bei denen
+Aussagenvariablen in aussagenlogischen Tautologien durch modallogische
+Formeln ersetzt werden, modallogische Axiome sind. Die Formel p v ~p
+ist etwa eine aussagenlog. Tautologie. Wenn man nun p durch K(q v r)
+substituiert, ist
+
+     K(q v r) v ~ K(q v r) 
+
+eine Instanz einer aussagenlogischen Tautologie.
+
+
+Ullrich

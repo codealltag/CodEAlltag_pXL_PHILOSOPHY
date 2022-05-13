@@ -1,0 +1,35 @@
+Mon, 12 Sep 2003 08:01:52 +0200, message by
+Vittorio Vassen <ibsbpql@bmgwwt.py>:
+
+"...haben." müsste das heißen, oder?
+
+
+Metasprachlich. Wenn du dein Kalkül in einer Metasprache deines
+Vertrauens formuliert hast, dann kannst du die obigen Sätze einfach
+daraus ableiten.
+
+übrigens brauchst du nicht unbedingt (ich glaube sogar, nie) ein
+eigenes Prädikat für "P ist wahr" (ich schätze mal, das soll dein Wx
+heißen). Für "P ist wahr" schreibt man "P", für "P ist nicht wahr"
+schreibt man "nicht P".
+
+Der letzte Satz wäre in der Rohfassung so etwas wie:
+
+  (P v ~P v Q1 v Q2 ... v Qn)
+n (P' v ~P' v Q1' v Q2' ... v Qn')
+n (P'' v ~P'' v Q1'' v Q2'' ... v Qn'')
+  ...
+n  (P'...' v ~P'...' v Q1'...' v Q2'...' ... v Qn'...')
+
+(alle P und Q sind Frakturbuchstaben, ist ja ein metasprachlicher
+Term)
+
+Ich kann nur Natürliches Schließen, und zwar nicht besonders gut,
+damit strecke ich an dieser Stelle dann auch die Waffen :)
+
+eimo
+-- 
+GOZ-Leser!
+Dankesager!
+Defensivfahrer!
+Handschuhtanker!

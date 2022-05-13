@@ -1,0 +1,74 @@
+Hallo Mark,
+
+
+Nein, Du hast recht. Da habe ich zu schnell geschrieben 
+und Konjunktion und Disjunktion verwechselt. 
+
+also (A->B)^(A->-B) sei eine Tautologie. Das gilt aber 
+nur für den Ausdruck: (A->B)v(A->-B) 
+Bitte entschuldige die Nachlässigkeit. 
+
+Äquivalent zu (A->B)^(A->-B) ist -A (nicht A) 
+
+Wenn's zu unübersichtlich wird, kann man übrigens das alles sehr 
+schön mit folgendem Logikrechner (gerade gefunden) ausprobieren: 
+http://gnqkd.bkl.oixeyb.sq.jb/~giuzb/quyskvnu-lycnfns.gfwf
+
+Doch zurück zu meinem ursprünglichen Posting. Meine 
+einleitender Hinweis zur Vorsicht bezog sich auf die 
+Tatsache, daß man aus der Wahrheit von (A->B) nicht 
+auf die Wahrheit von A rückschließen kann. 
+
+In Deinem Beispiel (A->B)^(A->-B) kommt noch Information 
+hinzu, nämlich (A->-B). Die Wahrheitstabelle lautet: 
+
+A B    (A->B)^(A->-B)
+W W     F
+W F     F
+F W     W
+F F     W
+
+Aus der Wahrheit der Konjunktion der Ausdrücke (A->B) und (A->-B) 
+kann man also schon auf die Falschheit der Prämisse rückschließen,
+da hast Du recht. 
+
+Der einleitende Hinweis in meinem ersten Posting bezog 
+sich eher auf die Tatsache, daß die Gefahr besteht, aus 
+einer (logisch) korrekten Argumentation und einer daraus 
+folgenden wahren Aussage zu denken, man habe die Realität 
+korrekt beschrieben. 
+
+Beispiel: 
+A: Elektrizität ist eine Flüssigkeit
+B: Flüssigkeiten kann man in Flaschen füllen 
+
+(A->B): Wenn Elektrizität eine Flüssigkeit ist, 
+        dann kann man sie in Flaschen füllen. 
+
+Daraufhin baut man die sog. Leydener Flasche und 
+kann im Experiment tatsächlich Ladungen in diese 
+Flaschen "einfüllen", denkt also, weil (A->B) wahr
+ist (bzw. im Rahmen des Experiments wahr zu sein 
+scheint), habe man den Nachweis geführt, daß A 
+wahr sei. 
+
+Dein korrektes Beispiel (A->B)^(A->-B) hilft dann 
+weiter, wenn man die Situation "(A->B)^(A->-B) wahr"
+herbeiführen kann oder ersatzweise auch 
+A wahr, B wahr und (A->B)^(A->-B), was logisch 
+gesehen ein Gegenbeispiel für die Aussage wäre.
+Noch schöner wäre natürlich (A->B)^-(A->B), das 
+wäre dann AFAIR die besagte reductio ad absurdum. 
+
+
+Ohne sie zu verändern wird wohl nicht gehen, da ein 
+Beobachter immer die Messung beeinflußt. Es würde 
+hier aber reichen, wenn die Störung so gering wäre, 
+daß sie keinen Enfluß auf das Ergebnis hat. 
+Natürlich ist die Überlegung sehr akademisch, weil 
+wir ja nicht annähernd die Möglichkeiten haben, das 
+in absehbarer Zeit zu realisieren. 
+
+Viele Größe, 
+
+Mike Essegern

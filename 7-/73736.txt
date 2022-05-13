@@ -1,0 +1,776 @@
+Bemerkungen zu Niemayrs Diskursethik
+Axel Niemayr behauptet, mit Hilfe seines sogenannten
+transzendentalpragmatischen Ansatzes Letztbegründungen für die
+verschiedensten philosophischen Thesen liefern zu können. Die Grundidee des
+Ansatzes ist, dass man philosophische Theorien dadurch widerlegt, dass man
+zeigen kann, dass man diese Theorien nicht in einer Diskussion vertreten
+kann, ohne durch sein eigenes Verhalten während der Diskussion der Theorie
+zu widersprechen. Ein solcher Widerspruch zwischen der vertretenen Theorie
+und dem eigenen Verhalten während der Verteidigung der Theorie wird
+performativer Selbstwiderspruch genannt.
+
+Nun führen sicherlich gewisse relativistische Bedeutungs- oder
+Wahrheitstheorien (wie "es gibt keine Wahrheit", "Sprache ist sinnlos") zu
+solchen performativen Selbstwidersprüchen, und diese Widersprüche sind
+natürlich äußerst wichtige Argumente gegen die jeweiligen Theorien. Niemayr
+verbindet damit allerdings einen Anspruch auf Letztbegründung, den ich nicht
+nachvollziehen kann. Die Überhöhung des Arguments vom performativen
+Selbstwiderspruch zur Letztbegründung scheint nur vom Standpunkt einer
+Konsenstheorie der Wahrheit aus plausibel: Erst wo der Konsens einer
+Diskursgemeinschaft die Wahrheit einer Aussage definiert, wird die
+Unmöglichkeit, eine These in einem Diskurs zu vertreten, zu einem alles
+entscheidenden Argument. Im Rahmen eines klassischen Realismus ist der
+Status eines performativen Selbstwiderspruchs weitaus geringer - sicherlich
+stärker als ein reines ad hominem Argument, aber keineswegs an einen echten
+Widerspruch heranreichend.
+
+Aber nicht nur dem Anspruch auf Letztbegründung muss widersprochen werden.
+Niemayr behauptet die Letztbegründung von Thesen, die ich nicht einmal für
+richtig, geschweige denn für begründet oder gar letztbegründet halte. So
+behauptet Niemayr, man könne unter Verwendung transzendentalpragmatischer
+Argumente gewisse ethische Prinzipien begründen. Die ethischen Prinzipien,
+die er so zu begründen können glaubt, nennt er "Diskursethik". Ethische
+Theorien können jedoch nicht mit Hilfe von Niemayrs Transzendentalpragmatismus
+begründet werden. Denn, wie wir zeigen können, kann einmal ein Amoralist
+problemlos ohne jeden performativen Selbstwiderspruch an jedem beliebigen
+Diskurs teilnehmen. Auch die Möglichkeit, dass Computerprogramme durchaus,
+zumindest in manchen Fragen, Diskussionspartner ersetzen können, ohne dass
+dadurch ethische Verpflichtungen gegenüber solchen Programmen entstehen
+würden, lässt wenig Hoffnung für eine gehaltvolle Diskursethik.
+
+Das Programm der Letztbegründung der Diskursethik muss also scheitern.
+Trotzdem bleibt der Grundidee der Ausnutzung performativer
+Selbstwidersprüche zur Ethikbegründung eine Verführungskraft, die es wert
+ist, genauer untersucht zu werden. Die Frage wäre zu stellen, wohin sie uns
+(ver)führt. Niemayr behauptet, es folge vor allem das Prinzip der
+Gleichberechtigung der Diskussionspartner: "[Jeder Argumentierende] kann als
+evident entdecken, dass er mit jedem ernsthaften Argumentationsakt zugleich
+bereits die prinzipielle Gleichberechtigung aller Mitglieder der realen
+Kommunikationsgemeinschaft und aller denkbaren Mitglieder einer idealen
+Kommunikationsgemeinschaft anerkannt hat." (S. 181). Ist dies wirklich der
+Fall? Wir versuchen zu zeigen, dass eine "Diskursethik" keineswegs eine
+Ethik der Gleichberechtigung und des Pluralismus wäre, sondern eher eine
+Ethik der Ausmerzung aller Schwachen und der Errichtung einer totalitären
+Weltherrschaft. Eine These, die möglicherweise nicht nur Niemayrs Version der
+Diskursethik widerlegen könnte. Sie könnte auch einen Teil der Faszination
+totalitärer Ideologien aus der Verführungskraft der Diskursethik heraus
+erklären.
+
+Kurz zusammengefasst: Niemayrs transzendentalpragmatischer Ansatz liefert weder
+eine Letztbegründung noch überhaupt eine Begründung seiner Diskursethik. Und
+das ist auch gut so, da das Begründungsschema der Diskursethik viel
+plausibler zur Begründung totalitärer Ideologien verwendet werden könnte.
+
+Zur Definition von Diskursethik
+Gleichberechtigung für meinen Computer!
+Eine der ersten Fragen, die sich stellt, wenn man aus der Beteiligung an
+einer argumentativen Diskussion ethische Schlüsse ziehen will, sollte
+heutzutage ja wohl die nach ethischen Schlußfolgerungen in Hinsicht auf
+künstliche Intelligenzen sein. Doch wir müssen gar nicht die Höhen der
+künstlichen Intelligenz betrachten, im Gegenteil. Wir beschränken uns erst
+einmal auf die Betrachtung recht primitiver Computerprogramme.
+
+  a.. Als erstes betrachte ich den Austauch von Texten mit einem Compiler.
+Ich übergebe dem Compiler einen Text, von dem ich meine, dass er ein
+syntaktisch korrekter Text in der fraglichen Computersprache (sagen wir
+Fuke) ist. Falls dies nicht der Fall ist, liefert mir der Compiler konkrete
+Fehlermeldungen zurück. Daraufhin korrigiere ich den Ausgangstext solange,
+bis es keine Fehlermeldungen mehr gibt.
+  b.. Eine Variante dieses Beispiels (wie er sich beispielsweise in der
+sogenannten "beweisbaren Programmierung" findet) ist eine formale Sprache,
+in der mathematische Beweise geschrieben werden können. Ein Programm, der
+Beweispr�fer, ist dann in der Lage, die Richtigkeit des Beweises zu
+überprüfen. Ist der Beweis nicht korrekt, liefert er eine Fehlermeldung, in
+der die Lücke im Beweis aufgezeigt wird.
+Der Austausch von Texten mit solchen Programmen ist natürlich kein Diskurs
+in der üblichen Bedeutung dieses Wortes. Trotzdem finden sich genügend
+Gemeinsamkeiten zwischen beiden Tätigkeiten. Welche sind dies?
+
+  a.. Das, was ausgetauscht wird, kann man als sinnvolle Aussagen oder
+Fragen betrachten, wie sie auch in Diskussionen zwischen Menschen sinnvoll
+sind. Das übergeben eines Textes an den Compiler wäre beispielsweise der
+Behauptung "Die Datei xxx.java enthält einen syntaktisch Korrekten
+Java-Text" oder der Anfrage "Könntest du in der Datei xxx.java einen
+Syntaxfehler finden?" Äquivalent. Für den Beweis im zweiten Beispiel gilt
+dies erst recht.
+  b.. Auch die Antwort, die das Programm liefert, entspricht ohne Zweifel
+einer sinnvollen menschlichen Antwort auf die Behauptungen oder Fragen, die
+im vorigen Punkt gestellt wurden.
+  c.. Die Reaktion des Programmierers auf diese "Antworten" entspricht genau
+der, die man von einem ernsthaften Diskussionspartner erwartet. Angesichts
+der "Gegenargumente" - der Fehler, die in seinen Behauptungen gefunden
+wurden - korrigiert er seinen "Standpunkt" und liefert eine korrigierte
+Version seines Programms oder Beweises.
+Wir können sogar noch weiter gehen. Nehmen wir an, der Programmierer hat
+gerade einen schlecht eingerichteten Computer, auf dem weder Compiler noch
+Beweispr�fer vorhanden ist, aber immerhin noch eine Verbindung zu den
+Newsgroups. Wäre es nicht eine Notlösung für ihn, in einer Newsgroup zu
+fragen, ob jemand Fehler in seinem Programm oder seinem Beweis findet?
+
+Nehmen wir an, jemand antwortet ihm. Könnte unser Programmierer überhaupt
+herausfinden (wenn wir von Kriterien wie Fehlerfreiheit und Stilfragen mal
+absehen), ob sein Diskussionspartner die Fehler selbst herausgefunden hat
+oder einfach nur einen Compiler oder Beweispr�fer auf seinem Computer
+"befragt" hat?
+
+In dieser hypothetischen Situation kann nicht einmal der Programmierer
+selbst sein Verhalten in der Diskussion mit einem Menschen von der
+Programmierarbeit mit einem Compiler oder Beweispr�fer unterscheiden. Und
+insofern ist eines klar: Zwischen einem Programmierer, der mit einem
+Compiler oder Programmpr�fer arbeitet, und dem Teilnehmer an einem Diskurs,
+in der es um die Korrektheit von Programmen, Algorithmen oder Beweisen geht,
+gibt es keinerlei performativen Unterschied.
+
+Diese Beobachtung schränkt die Folgerungen, die man aus der Performance der
+Beteiligung an einem Diskurs ziehen kann, erheblich ein. Warum sollte aus
+meiner Beteiligung an einem Diskurs folgen, dass ich meinen
+Diskussionspartner ethisch höher bewerten muss als die Programme auf meinem
+Computer, wenn ich denselben "Diskurs" auch mit den Programmen auf meinem
+Computer direkt führen kann?
+
+Aber gegenüber den Programmen auf meinem Computer habe ich keinerlei
+ethische Verpflichtungen, nichts, was auch nur entfernt irgendeinem
+kategorischen Imperativ oder einer Art Gleichberechtigung nahekommen würde.
+Ich habe lediglich eine ganz normale Klugheitsregel (also einen
+hypothethischen Imperativ): "Behandle deine Werkzeuge pfleglich, wenn du sie
+in Zukunft weiterhin benutzen willst". Hieraus schließen wir die folgende
+These:
+
+Aus der Teilnahme an einem idealen argumentativen Diskurs über
+Geltungsansprüche zumindest mathematischer Art ergeben sich keinerlei
+nichttriviale ethische Folgerungen. Insbesondere folgt daraus keinerlei
+Akzeptanz der Gleichberechtigung der Diskursteilnehmer in irgendeinem
+ethisch relevanten Sinn.
+
+Wie weit geht die Compileranalogie?
+Strenggenommen haben wir die Gegenthese zur Diskursethik, dass aus der
+Beteiligung an Diskursen keinerlei ethische Schlußfolgerungen gezogen werden
+können, mit der Compileranalogie nur für einen sehr begrenzten Bereich - den
+der rein mathematischen Diskurse - in vollem Umfang beweisen können.
+
+Man könnte also im Prinzip weiterhin versuchen, aus der Beteiligung an
+Diskursen anderer (insbesondere rein philosophischer oder ethischer) Art
+ethische Schlußfolgerungen zu ziehen. Jedoch reicht es dafür natürlich
+nicht, diese anderen Diskurstypen von den rein mathematischen Diskursen
+abzugrenzen und dann zu behaupten, aus der Beteiligung an den anderen
+Diskurstypen würde die Anerkennung ethischer Prinzipien folgen. Dies müsste
+im Detail begründet werden.
+
+Gibt es Anlass, auf eine solche Begründung zu hoffen? Ich sehe wenig Grund
+dafür. Denn unser Compilerbeispiel gibt auch für andere Typen von Diskursen
+Hinweise darauf, welche Arten von Argumentation nicht dazu taugen, um
+ethische Schlußfolgerungen aus der Diskussionsbeteiligung zu ziehen.
+
+Dazu stellen wir ein paar qualitative Eigenschaften der "Diskurs mit dem
+Compiler" fest:
+
+  a.. Der "Diskurs" ist ernsthaft. Der Programmierer ist eindeutig ernsthaft
+daran interessiert, Fehler in seinem Programmtext zu finden.
+  b.. Der "Diskurs" ist argumentativ. Die Fehlermeldung ist ein Argument.
+  c.. Der "Diskurs" ist so nahe am idealen Diskurs wie ein realer Diskurs
+nur sein kann. Viele Schwächen realer zwischenmenschlicher Diskurse
+entfallen. Insbesondere sind die vom Compiler vorgebrachten "Gegenargumente"
+(ein fehlerfreier Compiler sei vorausgesetzt) sachlich, richtig, korrekt
+formuliert, in keiner Weise beleidigend.
+  d.. Der "Diskurs mit dem Beweispr�fer" ist inhaltlich allgemein genug um
+den gesamten Bereich rein mathematischer Diskurse abzudecken.
+  e.. Als Teilnehmer an diesem "Diskurs" unterwirft man sich Regeln. Diese
+Regeln - Syntax und Semantik der Computersprache oder der Beweissprache -
+sind sogar sehr viel schärfer als die Regeln der Umgangssprache in
+zwischenmenschlichen Diskursen.
+  f.. Der "Diskurs" hat sein erfolgreiches Ende gefunden, wenn zwischen
+Programmierer und Compiler ein "Konsens" besteht, dass das Programm
+syntaktisch korrekt ist.
+Aus all diesen Eigenschaften des "Diskurses mit dem Compiler" folgt ethisch,
+wie gezeigt, gar nichts. Und daher kann man aus diesen Eigenschaften
+irgendeines anderen "ernsthaften idealen argumentativen Diskurses", sagen
+wir der experimentellen Wissenschaft oder der Ethik, auch keinerlei ethische
+Schlußfolgerungen ziehen. Eine Argumentation, die aus einer
+Diskursbeteiligung die Akzeptanz ethischer Regeln folgern will, muss sich
+auf andere, besondere Aspekte dieses Diskurses beziehen, also Aspekte, die
+in rein mathematischen Diskussionen gar nicht vorhanden sind.
+
+Für den Bereich der wissenschaftlichen Diskussion, bzw. generell
+Diskussionen über Sachfragen - hier kommen als neues Element im wesentlichen
+lediglich Berichte über Beobachtungen oder den Ausgang von Experimenten
+hinzu - sehe ich keinerlei Chance, solche wesentlichen Unterschiede zu
+finden. Am ehesten kämen ethische Diskurse dafür in Frage. Die Idee, dass
+eine Beteiligung an einem ethischen Diskurs die Akzeptanz gewisser ethischer
+Prinzipien unhintergehbar impliziert klänge noch am ehesten plausibel.
+
+Trotzdem sind es ja gerade die bereits in unserer Liste vorkommenden Aspekte
+der Beteiligung an einem Diskurs, die auf ersten Blick die Nimpsch
+Argumentation überhaupt plausibel machen - insbesondere die Unterwerfung
+unter Regeln, die Verwendung von Argumenten, die Ausrichtung auf einen
+Konsens. Wenn aus all dem gar nichts mehr folgt, was bleibt dann noch an
+Plausibilität von der Niethammer Argumentation übrig?
+
+Strategische und normative Diskurse
+Obwohl Niemayr an einigen Stellen suggeriert, man würde schon mit jeder
+mathematischen Diskussion die Diskursethik akzeptiert haben, ("Der
+nichthintergehbare argumentative Diskurs ... ist prinzipiell nicht als ein
+kontingentes Projekt vorstellbar, über dessen Zweck man im Lichte möglicher
+Alternativen diskutieren könnte, sondern er stellt die von jedem, der -
+welches Problem auch immer - vernünftig diskutiert, ..." S.266), nimmt er
+diesen Anspruch an anderen Stellen zurück und beschränkt ihn auf rein
+normative Diskussionen (die er allerdings bevorzugt "argumentativ" nennt,
+als ob es in wissenschaftlichen, mathematischen oder strategischen
+Diskussionen keine Argumente zu hören gibt).
+
+Wir verlassen also im folgenden den Bereich der logisch-mathematischen
+Diskussion und betrachten ethische Diskurse. Diese stehen bei Niemayr im
+Gegensatz zu offen strategischen Diskursen. Als Beispiel für einen offen
+strategischen Diskurs dient beispielsweise die Aufforderung des Bankräubers
+"Geld her oder ich schieße." Und, soviel zumindest ist Niemayr klar, bedeutet
+eine solche Aufforderung (und somit eine Beteiligung an einem offen
+strategischen Diskurs) keine Akzeptanz von irgendwelchen Moralregeln. (Auch
+wenn der Bankangestellte mit dem Bankräuber Probleme beim Auszahlen, die
+z.B. mit Zeitschl�ssern verbunden sind, vernünftig diskutieren könnte.) Der
+Bereich des Diskurses, aus dem, wenn überhaupt, ethische Regeln folgen
+könnten, ist sicherlich begrenzt auf ethische Diskussionen.
+
+Das Verhalten des Amoralisten
+Um zu zeigen, dass aus der Beteiligung an ethischen Diskursen irgendetwas
+ethisch relevantes folgt, muss aufgezeigt werden, dass ein Amoralist sich
+durch eine solche Beteiligung in einen performativen Selbstwiderspruch
+verwickelt. FBWT hat dieses Problem sehr wohl erkannt. So schreibt er:
+"Gesetzt den Fall, jemand hat in seiner Adoleszenzkrise Dickerboom
+genealogische Erklärung des moralischen Gewissens als Krankheit ...
+internalisiert und weigert sich aufgrund dieser Überzeugungen, ...
+Grundnormen ... anzuerkennen: sollen wir nun sagen, für ihn seien die ...
+Grundnormen nicht rational verbindlich? Mir scheint eine solche Formulierung
+philosophisch nicht akzeptierbar zu sein; denn sie widerspricht dem, wofür
+Menschen - d.h. selbst die fiktiv unterstellten Anhänger des Amoralismus -
+in einer Kommunikationsgemeinschaft performativ widerspruchsfrei
+argumentieren könnten."
+
+Leider wird hier nicht erläutert, worin denn dieser performative Widerspruch
+besteht. Man findet lediglich eine Erläuterung:
+"Empirisch-sozialpsychologisch dürfte dem die Tatsache entsprechen, das
+Amoralisten ihre 'Weltanschauung' kaum jemals konsequent praktizieren. Eher
+schon werden sie - in einer quasi-postkonventionellen Regression auf einen
+konventionellen Typus der 'Binnenmoral' - eine den Amoralismus
+kompensierende Form der elitären Gruppen- oder Bandenmoral vertreten."
+
+Nun, diese "Tatsache" wäre wohl nicht einmal dann ein ernstzunehmendes
+philosophisches Argument, wenn sie der Wahrheit entsprechen würde. Denn man
+kann sie bestenfalls dahingehend deuten, dass sich im allgemeinen Verhalten
+in der Regel ein performativer Widerspruch zeigt. Zu zeigen wäre jedoch,
+dass er sich auch notwendigerweise zeigen muss, und nicht im allgemeinen
+Verhalten, sondern im eng begrenzten Teilgebiet der Kommunikation.
+
+Die Hauptschwäche dieser Argumentation besteht jedoch darin, dass Niemayr nicht
+klar zu sein scheint, wie sich ein rationaler (kluger) Amoralist
+entsprechend seiner 'Weltanschauung' verhalten sollte. Was er ablehnt, sind
+die verschiedensten Pflichten, kategorischen Imperative, die ihm die
+verschiedensten Moralapostel aufdrängen wollen. Ein Amoralist ist jedoch
+kein Antimoralist, er ist nicht moralisch verpflichtet, gegen jede Regel der
+verachteten Moral zu verstoßen. Er ist frei, die Moralregel einzuhalten oder
+zu brechen. Und dabei richtet er sich nach seinem eigenen Interesse.
+Insbesondere richtet er sich dabei nach den verschiedensten
+Klugheitsregeln - also hypothetischen Imperativen.
+
+Nun gibt es hinter jeder wichtigen ethischen Regel eine ihr entsprechende
+Klugheitsregel. Hinter "du sollst nicht lägen" steht die Klugheitsregel "wer
+einmal lügt, dem glaubt man nicht", hinter "was du nicht willst, das man dir
+tu" steht "wie man in den Wald hineinruft, so schallt es heraus", hinter der
+Pflicht zur Einhaltung von Gesetzen das Vermeiden von Strafe. Solange sich
+die Amoralisten in der Regel an solche Klugheitsregeln halten, sind sie
+nicht zu unterscheiden von denen, die sie als unbedingte ethische Regeln
+akzeptieren und bei der Ausübung ab und zu "schwach werden".
+
+Eine wichtige Folgerung daraus ist, dass kluge Amoralisten sich an ethischen
+Diskussionen beteiligen können und werden. Und dies in jedem Sinne
+ernsthaft, also nicht nur in einer nihilistischen Ablehnung der jeweiligen
+ethischen Argumentation. Denn die Argumente, die in einer solchen konkreten
+ethischen Diskussion fallen, übersetzen sich für den Amoralisten in
+einfacher Weise in sinnvolle Argumente einer offen strategischen Diskussion:
+Aus "mit Handlung X verstößt du gegen Regel Y" wird "mit Handlung X handelst
+du dir die Risiken und Nebenwirkungen ein, die nach den dir bekannten
+Klugheitsregeln üblicherweise mit Verstößen gegen die Regel Y einhergehen."
+Aus solchen ethischen Argumenten kann unser Amoralist also aus den ihm
+bereits bekannten Klugheitsregeln neue, abgeleitete Klugheitsregel erhalten.
+Dies ist für unseren Amoralisten von großer Wichtigkeit, weswegen Zweifel an
+seiner Ernsthaftigkeit nicht gerechtfertigt sind. (Ganz abgesehen davon,
+dass viele ethische Diskussionen voll sind von offen strategischen
+Argumenten.)
+
+Wie auch immer, der Amoralist wird sich in seinem Verhalten nach den von ihm
+erkannten Klugheitsregeln richten. Und wo immer eine Korrespondenz zwischen
+Klugheitsregeln und Moralregeln besteht, wird er sich ähnlich verhalten wie
+ein Moralist. Ein moralisches Verhalten seinerseit stellt also keinerlei
+performativen Selbstwiderspruch dar. Eher wird ein völlig unmoralisches
+Verhalten starke Zweifel wecken.
+
+In einen performativen Widerspruch gelangt lediglich der Antimoralist, für
+den der Verstoß gegen alle Moralregeln der etablierten Moral zur eigenen
+Moral wird. Dies wird in der Tat performativ kaum durchzuhalten sein, da
+eben ein nicht unerheblicher Teil der etablierten Moral Klugheitsregeln
+entspricht, und der Antimoralist moralisch verpflichtet wäre, sich dumm zu
+verhalten, also wider besseres Wissen seinen eigenen Interessen zu schaden.
+
+Was wir hier über das Verhalten des Amoralisten im Allgemeinen gesagt haben,
+gilt natürlich auch für sein Verhalten in Diskursen jeder Art. Er nimmt
+daran teil, weil es in seinem Interesse ist, weil man dabei etwas lernen
+kann, weil es also klug ist. Er verhält sich dabei entsprechend den Regeln
+des höflichen Umgangs und andere Moralregeln der fraglichen
+Kommunikationsgemeinschaft, weil er nur so Vorteil aus der Kommunikation
+ziehen kann. Wie aus einem solchen Verhalten ein performativer
+Selbstwiderspruch hergeleitet werden könnte, bleibt zumindest mir völlig
+unklar.
+
+Aus einem regelkonformen Verhalten folgt eben keinesfalls auch die
+Anerkennung der Bindungskraft der befolgten Regel. Und somit kann er ohne
+jeden performativen Selbstwiderspruch bei jeder beliebigen ethischen Regel
+argumentieren, dass sie als allgemeinverbindliche Regel ungültig, lediglich
+eine strategische Regel mit begrenztem Gültigkeitsbereich sei, und dies
+unabhängig davon, ob er sich im Leben nach dieser Regel richtet oder nicht.
+
+Was ist mit interner Kritik?
+Im Zusammenhang mit der Diskursethik verlangt eine klassische Form der
+argumentativen Kritik - die interne Kritik - besondere Aufmerksamkeit.
+
+Interne Kritik besteht darin, dass man - for the sake of the argument - die
+Annahmen der eigentlich für falsch gehaltenen Theorie akzeptiert, und daraus
+dann Schlußfolgerungen zieht, die entweder gleich zu einem logischen
+Widerspruch oder doch wenigstens zu mehr oder weniger absurden,
+inakzeptablen oder unerwünschten Ergebnissen führen.
+
+Wir haben hier also eine Situation, in der - innerhalb der gegebenen
+Argumentation - Thesen akzeptiert werden, die vom Argumentierenden in
+Wirklichkeit ganz explizit abgelehnt werden. Welche Teile der Argumentation
+dabei vom Argumentierenden abgelehnt werden, bleibt im Kontext der
+Diskussion offen. Es kann jede einzelne der verwendeten Thesen sein. Und
+daher ist auch nicht auszuschließen, dass es die von der
+Diskursgemeinschaft, in der die Diskussion stattfindet, verwendeten
+Schlußregeln sind.
+
+Eine interne Kritik erfüllt natürlich die für FBWT wichtigen Kriterien. Sie
+ist insbesondere argumentativ, ernstgemeint, legitimer Teil auch von idealen
+Diskursen, prinzipiell konsensfähig und auf Konsens ausgerichtet. Und
+offensichtlich stellt es keinen Selbstwiderspruch dar, im Rahmen einer
+solchen internen Kritik Prinzipien und Schlußweisen zu verwenden, die man
+selbst nicht akzeptiert.
+
+Wie soll man also anhand einer Argumentation überhaupt entscheiden können,
+dass der Argumentierende, ohne in Selbstwiderspruch zu geraten, irgendwelche
+ethischen Prinzipien akzeptiert, wenn er, ohne in Selbstwiderspruch zu
+geraten, bei interner Kritik sogar die von ihm selbst explizit abgelehnten
+Thesen und Schlußweisen verwenden kann?
+
+Erschwerend kommt hinzu, dass - gerade in dem Fall, dass die interne Kritik
+nicht zu einem expliziten Widerspruch führt, sondern lediglich auf eine auf
+die eine oder andere Weise unliebsame Folgerung - anhand der Argumentation
+gar nicht entschieden werden kann, welche Position der Argumentierende
+selbst einnimmt. Der Argumentierende könnte sehr wohl auch alles
+akzeptieren, und lediglich seine Genossen auf einige unliebsame Folgerungen
+vorbereiten. Oder er könnte damit zeigen wollen, dass gewisse Folgen gar
+nicht bekämpft werden sollten, sondern eben als Notwendigkeit hinzunehmen
+sind.
+
+Diskursethik als Ethik der Ausmerzung aller Schwachen und Etablierung einer
+totalen Weltherrschaft
+Nehmen wir einmal an, man könnte tatsächlich unter Zuhilfenahme von
+performativen Widersprüchen aus der Beteiligung an Diskussionen ethische
+Schlüsse ziehen. Welche wären dies? Eine offensichtlich inkorrekt gestellte
+Frage. Aber wenn man die Anforderungen herunterschraubt, den Anspruch auf
+strenge Begründung (erst recht natürlich auf Letztbegründung) aufgibt,
+sondern die ethischen Schlüsse aus der Beteiligung an Diskursen lediglich
+als Analogieschlüsse ohne jede Verbindlichkeit sehen, können wir daraus
+durchaus eine sinnvolle Frage machen. Auch wenn wir es statt mit
+performativen Selbstwidersprüchen nur mit Scheinwidersprüchen zu tun haben,
+so kann man trotzdem sinnvoll die Frage stellen, durch welche Ethik die
+Konsistenz zwischen Verhalten im Diskurs und Verhalten im Leben maximiert
+und Widersprüche minimiert werden. Eine solche Ethik könnte man dann mit
+gutem Recht als Diskursethik bezeichnen.
+
+Niemayr zufolge wäre der wichtigste ethische Schluß die Gleichberechtigung
+aller Diskursteilnehmer. Mir scheint dies jedoch überhaupt nicht plausibel
+zu sein.
+
+Betrachten wir dazu erst einmal das Verhalten von Menschen in realen
+Diskursen, insbesondere im Fall größerer Teilnehmerzahlen, beispielsweise in
+Newsgruppen oder Internetforen. Das erste, was man feststellt, ist, dass die
+Qualität der Beiträge verschiedener Teilnehmer sehr verschieden ist.
+Insbesondere gibt es immer auch Diskursteilnehmer, deren Argumente man glatt
+vergessen kann. Andere Teilnehmer hingegen werden - aufgrund der Qualität
+ihrer Argumente - hoch bewertet und zu Autoritäten.
+
+Nach einiger Zeit wird man die Beiträge gewisser Teilnehmer einfach nicht
+einmal mehr lesen. Jeder Newsreader hat heutzutage dafür extra die
+technische Möglichkeit geschaffen - das sogenannte Killfile. In diesem File
+werden diejenigen abgespeichert, deren Beiträge man gar nicht erst angezeigt
+bekommen möchte.
+
+Bereits der Name "Killfile" spricht Bände und deutet an, worauf ich hinaus
+will. Befindet sich derjenige, der bereits mehrere Leute in seinem Killfile
+hat, diese Leute aber trotzdem noch draußen lebend rumlaufen lässt, nicht
+bereits in einem performativen Selbstwiderspruch?
+
+"Natürlich nicht!" ist die klare Antwort eines Liberalen. Das ist auch meine
+Antwort. Aber gibt es nicht genügend Leute, die dies ganz anders sehen? Rein
+sachlich gesehen: Derjenige, der die Leute umbringt, deren Beiträge zum
+Diskurs schädlich sind, weil diese, aufgrund ihrer Trivialität und Dummheit,
+die Gruppe belästigen und "Bandbreite verschwenden", könnte damit zumindest
+kurzfristig den ernstgemeinten, argumentativen Diskurs fördern.
+
+Dies ist nicht der Zeitpunkt, den liberalen Standpunkt zu begründen. Es geht
+lediglich darum, dass es eher der Liberale ist, derjenige, der allen
+Gleichberechtigung zubilligt, aber selbst seine Leichen im Killfile hat, der
+viel eher in der Gefahr steht, in einen performativen Selbstwiderspruch zu
+geraten, als der Ausmerzer der geistig Schwachen.
+
+Dies fassen wir zur folgenden These zusammen: Wenn sie überhaupt existiert,
+ist Diskursethik eine Ethik der Ausmerzung aller geistig Schwachen.
+
+Der zweite Aspekt ist das Endziel. Das Ziel des Niethammer Diskurses ist, wie
+Niemayr auch immer wieder betont, der Konsens. Es ist nicht friedliche
+Koexistenz verschiedener Wahrheitsformen. Sondern, eben, klar und eindeutig,
+Konsens. Und solange noch kein Konsens besteht, gibt es ernsthafte,
+argumentative Auseinandersetzung. Einen gnadenlosen Kampf der Argumente, bis
+der Konsens erreicht ist.
+
+Wer befindet sich also eher im performativen Selbstwiderspruch - der
+Liberale, der für eine pluralistische Welt eintritt, aber im Diskurs nach
+einer einzigen Wahrheit sucht, oder der Fundamentalist, der die totale
+Weltherrschaft derjenigen Theorie herstellen will, deren Wahrheit durch den
+Konsens in unserem ernsthaften argumentativen Diskurs festgestellt wird?
+
+Ich denke, die Antwort ist ziemlich offensichtlich: Wenn sie überhaupt
+existiert, ist Diskursethik eine Ethik der Etablierung einer totalen
+Weltherrschaft.
+
+Wir können beide Thesen kurz und markant zusammenfassen: Diskursethik wäre
+eine Ethik des Totalitarismus.
+
+Im Gegensatz dazu unterscheidet die liberale Tradition, bis hin zum Paradox,
+zwischen den Ideen und deren Trägern. Die Ideen werden bekämpft, dem Träger
+der Ideen billigt man hingegen alle Menschenrechte zu, einschließlich des
+Rechts, seine Ideen zu verbreiten. Hier besteht ein Konflikt zwischen
+Verhalten in der Diskussion und im Leben.
+
+Auch der Fernsehzuschauer, der erfährt, dass die beiden politischen
+Kontrahenten, deren scharfe Diskussion er gerade verfolgt hat, nach der
+Sendung zusammen ein Bier trinken gehen, spürt diesen Konflikt. Er fühlt
+sich betrogen, die politische Diskussion wird für ihn zur Farce.
+
+Und die Anhänger totalitärer Ideologien spüren ihn auch. Und sie nutzen ihn
+auch aus in ihrer Propaganda, in der sie Liberale als hohle Schwätzer
+darstellen. Wer wollte Jeuter einen performativen Widerspruch unterstellen,
+wenn er die Angehörigen der laut Theorie aussterbenden Klassen umbringen
+lässt? Oder Krassel, wenn er dasselbe mit rassisch Minderwertigen macht?
+
+Und spüren ihn nicht auch, nur von der anderen Seite aus, die Anhänger
+relativistischer Wahrheitstheorien? Sind diejenigen, die den Anspruch der
+westlichen Wissenschaft auf Wahrheit als Dogmatismus, als Teil des
+Imperialismus ablehnen, nicht einfach nur Opfer desselben diskursethischen
+Fehlschlusses?
+
+Sicher, sie alle sind auf dem Holzweg. Sie alle begehen einen Irrtum. Aus
+dem Verhalten, was für Diskurse angemessen ist - die Ausmerzung aller
+falschen Argumente, mit dem allgemeinen Konsens als Ziel - kann man eben
+keine ethischen Schlüsse auf das Verhalten gegenüber den Vertretern anderer
+Ideen schließen. Und es ist wichtig, zu begreifen, dass der performative
+Widerspruch zwischen harter und kompromissloser Diskussion und Toleranz
+gegenüber dem Opponenten nur ein scheinbarer Widerspruch ist.
+
+Bevor wir weitergehen, sei noch die Frage betrachtet, inwieweit die Schlüsse
+dieses Abschnitts dadurch bestritten werden können, dass in der Diskursethik
+ja ein idealer Diskurs betrachtet werden muss, während wir bisher einen
+realen Diskurs betrachtet haben.
+
+Ich meine, dass sich wichtige Eigenschaften, die wir im realen Diskurs
+festgestellt haben und die die Grundlage unserer Argumentation bilden, sich
+auch in einem idealen Diskurs wiederfinden. Zum Teil werden sie sogar in der
+Idealisierung noch verschärft.
+
+Insbesondere ist das Ziel - nämlich das Erreichen des Konsens mit allen
+Diskussionspartnern - auch im idealen Diskurs vorhanden. Man kann sogar
+sagen, es ist erst im idealen Diskurs wirklich in aller Schärfe vorhanden.
+Der Argumentation für die Diktatur der wahren Theorie kann also durch den
+Übergang zum idealen Diskurs nicht ausgewichen werden.
+
+Aber auch die wesentlichen Argumente für die Regel "Tötet alle Dummen"
+bleiben im idealen Diskurs bestehen. Einerseits ist auch der ideale Diskurs
+sinnlos, wenn alle dieselben Argumente vertreten. Denn dann ist der Konsens
+bereits erreicht, und es findet gar keine Diskussion mehr statt. Eine
+Idealisierung des Diskurses, in der gar kein Diskurs mehr stattfindet, ist
+sinnlos. Somit werden auch im idealen Diskurs von verschiedenen Teilnehmern
+verschiedene Argumente vertreten.
+
+Andererseits gehört es natürlich auch zu einem idealen Diskurs, dass falsche
+Argumente widerlegt werden. Dazu ist es aber erforderlich, dass die falschen
+Argumente auch vorgebracht werden. Somit gehören auch falsche Argumente zu
+einem idealen Diskurs.
+
+Die Teilnehmer am idealen Diskurs bringen also verschiedene Argumente vor,
+unter ihnen auch falsche Argumente. Und das Ziel ist auch im idealen Diskurs
+die Ausmerzung der falschen Argumente. Unsere Argumentation lässt sich also
+durchaus auch auf den idealen Diskurs anwenden - alle Bestandteile der
+realen Diskurse, die wir brauchen, bleiben auch in allen sinnvollen
+Idealisierungen des Diskursbegriffs bestehen.
+
+Welche Rolle spielt der Konsens?
+Wir hatten bereits den engen Zusammenhang zwischen Diskursethik und
+Konsenstheorie der Wahrheit erwähnt - ein Zusammenhang, den auch Niemayr sieht
+("so scheint mir gezeigt zu sein, daß die Begriffe ... der Konsens-Theorie
+der Wahrheit und der philosophischen Letztbegründung einander nicht
+ausschließen, sondern fordern." S. 193). Gibt es einen solchen Zusammenhang
+auch für unsere totalitäre Variante der Diskursethik? Dies scheint ohne
+weiteres plausibel. In totalitären Staaten ist wahr, was die
+Volksgemeinschaft im Konsens vertritt. Zweifellos ist dies eine
+Banalisierung des philosophischen Konzepts der Konsenstheorie der Wahrheit.
+
+Das Ziel, welches hingegen ein Realist verfolgt, ist ein ganz anderes - es
+ist, in strategischen Diskussionen, das Herausfinden der besten Strategie,
+oder die Beeinflussung der Entscheidung der anderen Teilnehmer im eigenen
+Interesse. In wissenschaftlichen Diskussionen ist es die objektive
+Erkenntnis.
+
+ähnlich wie die ethische Diskussion kann die wissenschaftliche Diskussion
+auf die strategische zurückgeführt werden: Jeder dürfte schon als Kind
+gelernt haben, dass es normalerweise klüger ist, auf objektive Fakten zu
+vertrauen als auf Wunschträume. Die objektiv-wissenschaftliche Frage "hält
+die Brücke meinen Wagen aus?" ist nun einmal eng verbunden mit der
+strategischen Frage "sollte ich über diese Brücke fahren?".
+
+Und diese Betrachtung zeigt auch, dass Konsens nicht das Ziel von
+wissenschaftlichen Diskussionen ist. Jedenfalls nicht für unseren
+Autofahrer, der vor der Brücke steht. Er neigt zu einem "Ja", fragt aber
+vielleicht noch einen Anwohner. Mit Niemayr sollte man denken, er wäre durch
+ein "Ja" befriedigt. Schließlich ist damit Konsens erreicht. Aber nicht das
+"Ja" ist ihm wichtig, sondern die Begründung: "Hier führt täglich ein Wagen
+rüber, der doppelt so groß ist wie Ihrer.", oder "Die Spalte da ist vor 10
+Jahren bei einem Erdbeben entstanden und seit dem nicht größer geworden.".
+Und hierbei ist nichts davon zu bemerken, dass dem Autofahrer irgendein
+Konsens wichtig wäre. Die Informationen sind es, die ihm helfen, eine für
+ihn lebenswichtige Entscheidung zu treffen.
+
+Nebenbei hängt der Wert dieser Information nicht davon ab, dass überhaupt
+ein Diskurs verwendet wurde. Wäre der Autofahrer schon hier gewesen, als der
+größere Wagen vorbeifuhr, oder gar beim Erdbeben vor 10 Jahren, dann wären
+die Informationen für ihn nutzlos gewesen - er selbst hätte sie ja schon aus
+erster Hand und wäre noch viel sicherer in seinen Entscheidungen, denn er
+müsste nicht überlegen, ob die von ihm Befragten die Wahrheit sagen, oder ob
+er die Bedeutung ihrer Worte richtig entschlüsselt hat.
+
+Ziel ist in unserem einfachen Beispiel also nicht irgendein Konsens, sondern
+die Gewinnung von objektiv richtigen Informationen. Und unser Autofahrer
+wird, möglicherweise, einen allgemeinen Konsens der Dorfbewohner ignorieren
+und einen Umweg wählen. Denn es ist sein Leben, das er riskiert.
+
+Auch das Compilerbeispiel ist hier noch einmal wert, betrachtet zu werden.
+Der Punkt ist, dass man auch im Fall des "Diskurses" mit dem Compiler von
+einem "Konsens" als Ziel der Kommunikation sprechen könnte. Der "Konsens"
+besteht darin, dass der Compiler das Programm als syntaktisch korrekt
+akzeptiert und in Programmcode übersetzt.
+
+Allerdings ist das Ziel der Arbeit des Programmierers keineswegs der
+"Konsens" mit dem Compiler, sondern ein korrekt arbeitendes Programm. Der
+"Konsens" mit dem Compiler ist dabei nur ein Zwischenschritt: Die
+eigentliche Hauptarbeit kommt erst danach - das Debuggen des Programms.
+
+Interessant ist in dieser Hinsicht ein weiterer Aspekt des modernen
+Sprachdesigns und Compilerbaus. Ziel ist es, Sprachen zu entwickeln und
+Compiler zu bauen, die sehr viel mehr Fehler finden. Fehler, die man
+ansonsten im Prozess des Testens finden müsste, sollen möglichst bereits
+durch den Compiler gefunden werden. Dies läuft darauf hinaus, dass die
+"Konsensfindung" mit dem Compiler künstlich erschwert wird. Was soll das?
+Wenn Konsensfindung das Ziel wäre, hieße das, ich mache mir künstlich das
+Leben schwer, wenn ich eine moderne Programmiersprache mit modernerem
+Compiler benutze.
+
+Erst wenn man berücksichtigt, dass das Ziel eben nicht Konsensfindung ist,
+sondern diese nur ein Mittel ist, wird das Verhalten der Compilerbauer
+verständlich.
+
+Und steht dasselbe Ziel nicht auch hinter der Formalisierung, der
+Mathematisierung, der Einführung von Fachbegriffen in die natürliche
+Sprache, die den Übergang von natürlicher Sprache zur Wissenschaftssprache
+kennzeichnen? Wird man bei Verwendung genauerer Sprache nicht viel häufiger
+auf Widersprüche stoßen, Widersprüche, die in der Alltagssprache einfach
+untergegangen wären?
+
+Welche Grenzen hat die transzendentale Argumentation?
+Bisher haben wir das grundlegende Argumentationsmuster der
+Transzendentalpragmatik, die Notwendigkeit der Vermeidung performativer
+Selbstwidersprüche, unhinterfragt akzeptiert. Nur, wie schwerwiegend ist
+eigentlich ein performativer Selbstwiderspruch? Gerade wenn ein Verfahren
+den Anspruch auf Letztbegründung erhebt, müsste ein solcher Widerspruch in
+jedem Fall fatal sein. Ist er das überhaupt?
+
+Vom Standpunkt des gesunden Menschenverstandes aus gesehen muss man hierbei
+durchaus Unterschiede machen. Wo der Widerspruch auf logischem Gebiet
+entsteht, wie bei Aussagen vom Typ "Es gibt keine Wahrheit", wird man die
+Theorie sicherlich ablehnen. Wenn aus einer empirischen Theorie folgen
+sollte, dass, beispielsweise, der Vortragende unfähig sein müsste, zu reden,
+weil beispielsweise der menschliche Kehlkopf zur Rede ungeeignet wäre,
+hätten wir einen Widerspruch zwischen Voraussage und Experiment, den wir mit
+anderen Widersprüchen zwischen Voraussage und Experiment auf eine Stufe
+stellen würden.
+
+Aber was ist mit dem hier besonders interessanten Fall einer ethischen
+Theorie? Der typische performative Widerspruch wäre ein ethisches
+Schweigegebot, welches man mit der Darstellung oder Begründung der Theorie
+durchbrechen müsste. Doch ein solches Schweigegebot, zumindest vom
+Standpunkt des gesunden Menschenverstands aus gesehen, kaum ein
+ernstzunehmendes Argument gegen eine ethische Theorie. Allerhöchstens ist
+sie ein pragmatisches Hindernis bei der Weiterverbreitung der Theorie.
+
+Ethische Theorien, die Schweigegebote enthalten, finden wir im Alltag
+häufig. Die Ethik der Wissenschaft ist voll von Betrachtungen darüber, ob
+wahre wissenschaftliche Theorien, beispielsweise darüber wie man
+Massenvernichtungswaffen baut, offengelegt werden sollten. Auch bei
+metaphysischen und ethischen Theorien, wie dass es kein Weiterexistieren
+nach dem Tod oder keine gottgewollte Moral gibt, kann die Weiterverbreitung
+als problematisch angesehen werden - sie würden den Menschen den letzten
+Trost nehmen und könnten zu Chaos und Revolutionen führen. Egal wie man zu
+solchen Theorien steht - wer würde das Argument ernstnehmen, diese Theorien
+wären falsch, weil man sie nicht ohne performativen Selbstwiderspruch dem
+Volk verkünden könne?
+
+Ein nettes Beispiel für potentielle performative Selbstwidersprüche findet
+sich im Recht von Angeklagten und Zeugen, vor Gericht die Aussage zu
+verweigern, wenn sie sich durch die Aussage selbst belasten müssten - was
+sie nicht begründen können, ohne zu sagen, womit sie sich selbst belasten
+würden, wenn sie aussagen würden. Sollte man deswegen diesen Paragraphen
+abschaffen? Oder wiegen die Gründe für diese Ausnahmeregelung nicht doch
+schwerer als die Probleme damit, herauszufinden, ob ein Zeuge zu Recht von
+dieser Ausnahmeregelung Gebrauch machen will?
+
+Und stehen wir nicht alle irgendwann vor der Frage, ob wir irgendein
+Geheimnis offenbaren sollen? Eine Frage, bei der die Antwort "nein, behalt
+es für dich" zu einem performativen Selbstwiderspruch führt? Wieviele
+Menschen bewegt dies, all ihre Geheimnisse zu offenbaren?
+
+Doch warum sind wir in diesen Alltagssituationen geneigt, diese
+offensichtlichen performativen Widersprüche zu tolerieren? Sollten wir nicht
+jeden Widerspruch ernst nehmen? Sollten wir nicht, wenn die Wissenschaft,
+hier die Philosophie, uns Widersprüche in unserem Alltagsverhalten aufzeigt,
+dieses Verhalten ändern? Nur, verhält sich jemand wirklich
+selbstwidersprüchlich, wenn er der performativ selbstwidersprüchlichen Regel
+"behalte für dich, dass du beim Sex an (eigene Phantasien hier einsetzen)
+denkst" folgt? Oder wenn er sie als ethische Regel akzeptiert? Oder sind
+solche performativen Selbstwidersprüche doch nur Widersprüche zweiter
+Klasse?
+
+Um das zu entscheiden, brauchen wir eine philosophische Grundlage. Es ist
+dabei von erheblicher Wichtigkeit, ob wir eine Form des Realismus vertreten,
+in der die Wahrheit durch Übereinstimmung mit der Realität bestimmt wird,
+und eine intersubjektive Diskussion nur ein Mittel unter anderen ist, die
+Theorie zu kritisieren und möglicherweise abzulehnen, oder ob man eine
+Konsenstheorie der Wahrheit vertritt, in der eine Theorie, die nicht
+intersubjektiv diskutiert werden kann, gar nicht auf Wahrheit überprüfbar
+ist.
+
+Für den kritischen Rationalisten reicht es vollkommen, dass man die
+fragliche Theorie selbst durchdenken und dabei eben auch kritisieren kann.
+Das monologische sprachliche Denken ist für ihn eine vollwertige Methode der
+Kritik, in keinerlei Hinsicht defizitär oder parasitär. Was durch den
+performativen Selbstwiderspruch geschieht, ist nichts als das eine andere
+wichtige Methode - die intersubjektive Diskussion - leider nicht anwendbar
+ist. Dadurch entgehen uns möglicherweise wichtige Argumente. Aber für die
+Frage der Richtigkeit der ethischen Theorie ist dies genauso unwesentlich
+wie die Unmöglichkeit, bestimmte Experimente real durchzuführen, sagen wir
+Teilchenbeschleuniger mit dem Radius der Milchstraße zu bauen, etwas über
+die Wahrheit einer physikalischen Theorie aussagt, die durch solche
+Experimente widerlegt werden könnte.
+
+Diese Betrachtung zeigt, dass die Überzeugungskraft performativer
+Selbstwidersprüche von den philosophischen Theorien abhängt, die man bei
+philosophischen Betrachtungen über diese Überzeugungskraft implizit
+voraussetzt. Womit wir, was sowieso zu erwarten war, feststellen können,
+dass Versuche von Letztbegründungen scheitern müssen, weil sie regelmäßig
+irgendetwas implizit voraussetzen müssen und damit bestenfalls normale
+Begründungen sind, welche auf der Akzeptanz von Voraussetzungen basieren.
+
+Aber könnte der Nimpsch Transzendentalpragmatismus nicht wenigstens für die
+Grundlagen der Logik eine Letztbegründung liefern? Ist nicht wenigstens die
+Theorie "Es gibt keine Wahrheit" durch den notwendigen performativen
+Selbstwiderspruch widerlegt? Nun, ich sehe keinerlei Grund dafür, dass ein
+allgemeines Verfahren, welches, wie gezeigt, auf einem Gebiet nur schwache
+Begründungen liefern kann, auf einem anderen Gebiet plötzlich strenge
+Letztbegründungen liefern sollte. Viel wahrscheinlicher ist, dass die
+Begründung uns nur deswegen plausibel erscheint, weil wir das Ergebnis auch
+ohne Begründung schon immer akzeptiert haben. In Begründungen, in denen
+Falsches begründet wird, kann man Fehler durch sukzessive Unterteilung
+finden: Man braucht sich lediglich zu fragen, ob eine Zwischenthese selbst
+wahr oder falsch ist, schon weiß man, ob der Fehler danach oder davor
+passiert. Außerdem weiß man sowieso, dass die Begründung fehlerhaft sein
+muss. Solch eine Methode zum Finden von Lücken in Begründungen richtiger
+Aussagen gibt es leider nicht.
+
+Außerdem sollte man die Möglichkeiten von Theorien nicht unterschätzen,
+performative Selbstwidersprüche zu verhindern. "Es gibt keine Wahrheit"
+könnte immer noch auf einer Theorie beruhen, die den üblichen
+Wahrheitsbegriff nur als eine Annäherung enthält, ähnlich wie die klassische
+Mechanik in der Quantentheorie als klassische Näherung überlebt. Mit dieser
+Näherung zu operieren ist, laut Quantentheorie, in gewissen Bereichen,
+insbesondere im Alltag, völlig legitim. Warum sollte es in einer
+Wahrheitstheorie ohne Wahrheit nicht ein ähnliches Gebiet geben, in dem der
+klassische Wahrheitsbegriff als Näherung anwendbar ist? Warum sollte dieser
+Bereich nicht alle Diskurse in natürlicher Sprache einschließen können?
+
+Sicher, als Anhänger einer höchst klassischen Wahrheitstheorie halte ich von
+solch alternativen Wahrheitstheorien wenig. Und unter meinen Argumenten
+gegen viele solcher Theorien haben auch performative Selbstwidersprüche
+ihren Platz. Nur: Für einen Letztbegründungsanspruch sehe ich auch hier
+keinerlei Grundlage.
+
+Voraussetzungen für eine Vertragsgesellschaft
+Ein klassisches Problem von Letzbegr�ndungsphilosophien ist die Frage, warum
+Verträge eingehalten werden sollten. So schreibt Niemayr: "Die ... Motive für
+das Eingehen von Vertragsverhältnissen sind in der Tat äußerst plausibel und
+sogar ausschlaggebend, wenn die einsehbar notwendige Anerkennung der
+"Grundnorm" bzw. des Grundprinzips einer kommunikativen Vernunftethik schon
+vorausgesetzt werden kann. Ohne diese Voraussetzung aber ... ist die gesamte
+Begründungskonzeption ... keineswegs schlüssig." (S. 243)
+
+Was hat Niemayr gegen die strategisch-zweckrationale Begründung der Ethik
+einzuwenden? Einmal dass "...jeder strategisch-rational Denkende daran
+interessiert sein müßte, daß alle anderen sich auf Verträge ... einlassen
+und [sie] einhalten, während er selber den Vertrag nur scheinbar (d.h. mit
+kriminellem Vorbehalt) mitabschlie�t, um ihn bei passender Gelegenheit (wenn
+keine Sanktionen zu befürchten sind) zu brechen." (S.243)
+
+Nur hat das Brechen von Verträgen nun einmal erhebliche Risiken und
+Nebenwirkungen: Wer einmal lügt, dem glaubt man nicht. Und weil unter lauter
+rational denkenden Menschen alle wissen, dass die Vertragspartner auch ihre
+kriminellen Vorbehalte haben können, löst man diese Probleme durch die
+verschiedensten Kontrollmöglichkeiten.
+
+Wir brauchen also keinerlei Anerkennung einer "Grundnorm" der Vertragstreue,
+wenn Vertragsbruch hinreichend bestraft wird. Und dazu ist ausreichend, dass
+er bekannt wird - schon weil man sich, aus purem Eigeninteresse, nicht auf
+Verträge mit Vertragsbrechern einlassen wird.
+
+Niemayrs zweites Argument läßt mich noch ratloser zurück: "Soll in dieser
+Situation der sogenannten "rationalen Wahl" das Motiv des parasitären
+Vorbehalts (des "free riders") tendenziell ausgeschaltet ... werden, dann
+muß der einzelne bei der Beantwortung der post-Aufklärungs-Frage "Warum
+moralisch sein?" auf eine prinzipiell andere rationale Motivation
+rekurrieren können als die der utilitaristischen Erwägungen von Vorteilen
+und Nachteilen im Sinne der strategischen Spieltheorie. Er muß, gerade um
+die plausiblen Argumente utilitaristischer Kooperationstheorien von
+vornherein im nichtegoistischen Sinne verstehen und würdigen zu können,
+schon im vorherein ein deontisches Universalisierungsprinzip im Sinne der
+Gerechtigkeit oder Fairness als unbedingt verbindlich anerkannt haben (also
+nicht erst aufgrund der Erwägung von Folgen faktisch anerkennen!)." (S.243)
+Soll denn? Warum? Vielleicht möchte ja Niemayr, wie obiger strategisch-rational
+Denkende, erreichen, dass alle anderen sich an die Verträge ohne kriminellen
+Vorbehalt halten und dabei ihr eigenes strategisch-rationales Handeln
+aufgeben? Dann wäre es in der Tat nützlich, wenn alle anderen die Gesetze
+als unbedingt verbindlich anerkennen. Unser Amoralist kennt jedenfalls keine
+Gründe für obiges "soll".
+
+Nein, wir brauchen keine Letztbegründung für das Einhalten von Verträgen. Es
+reicht völlig aus, die Einhaltung von Verträgen so zu überwachen, dass es
+zur Klugheitsregel wird, Verträge einzuhalten.
+
+Sicherlich, es wäre schön, wenn man sich all die Kontrollen sparen könnte,
+weil alle Menschen ehrlich sind und wir alle uns aus freiwilliger Einsicht
+in Niemayrs Letztbegründung nach den objektiven Normen seiner Diskursethik
+richten würden. Nur sind solche Utopien keine Option. Höchstens im
+Elfenbeinturm der Philosophie mag man damit ganz gut leben können.
+
+Niklaus

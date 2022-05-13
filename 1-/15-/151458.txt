@@ -1,0 +1,25 @@
+das war natürlich etwas mißverständlich formuliert:
+
+
+man kann natürlich auch bei kompressiblen Flüssigkeiten den Zufluß von 
+Flüssigkeit beliebig ein- und ausschalten. Allerdings würde dann die 
+Strömung nicht nur dort eine Divergenz haben, wo ein Zufluß stattfindet. 
+Beim Einschalten eines Zuflusses bildet sich eine sich ausbreitende 
+Wellenfront, die Bereiche mit verschwindender Strömung von Bereichen mit 
+nichtverschwindender Strömung abgrenzt. Und an dieser Wellenfront weist die 
+Strömung ebenfalls eine Divergenz auf, da die "Feldlinien" des 
+Strömungsfeldes an der Wellenfront enden. 
+Betrachtet man ein Raumvolumen, innerhalb dessen sich der Zufluß samt 
+Wellenfront befindet, so daß die Strömung an der Oberfläche dieses 
+Raumvolumens Null ist, dann ergibt das Volumenintegral über die Divergenz 
+Null, da sich die Divergenz des Zuflusses und die Divergenz der Wellenfront 
+genau kompensieren. Der Gaußsche Satz ist also erfüllt.
+
+Analog kann es natürlich auch bei einem retardiert reagierenden Feld 
+Ladungserzeugung/-vernichtung geben. Nur müßte es dann zur Erfüllung des 
+Gaußschen Satzes longitudinale Wellen mit nichtverschwindender Divergenz 
+geben. Was bedeutet, daß bei einem solchen Feld die 1. Maxwell-Gleichung 
+(die ja besagt: Divergenz des Feldes = Ladungsdichte) nicht gelten würde.
+Aus der Gültigkeit der 1. Maxwell-Gleichung folgt also in Verbindung mit 
+dem Gaußschen Satz, daß es bei einem retardiert reagierenden Feld keine 
+longitudinalen Wellen und keine Ladungserzeugung/-vernichtung geben kann.

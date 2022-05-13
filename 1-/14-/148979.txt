@@ -1,0 +1,136 @@
+On Thu, 5 Okt 2000 07:05:19 +0200, Orlando Buddenberg
+
+Eine unendliche 0-1-Folge hat kein rechtes Ende. Das, was Du suchst,
+waere das "letzte" Element der Folge, das 0 ist. Zu einer Folge f, in
+der unendlich viele Nullen vorkommen, gibt es kein n mit f(n)=0 und
+f(m)=1 fuer alle m>n. Du erwischst damit nur diejenigen Folgen, fuer
+die ab irgendeinem n gilt f(m)=1 fuer alle m>n. Diese Menge _ist_ die
+Menge der natuerlichen Zahlen.
+
+
+1) Hast nur fuer bestimmte Folgen und nicht fuer alle einen Nachfolger
+definiert.
+
+2) Selbst _wenn_ Du fuer jede 0-1-Folge einen Nachfolger definiert
+haettest, waere damit nicht gezeigt, dass die Menge _wohlgeordnet_
+ist, aber lassen wir dies aussen vor.
+
+3) Selbst wenn Du fuer in einer Menge eine eindeutige
+Nachfolgerfunktion definiert haettest, so dass je zwei verschiedene
+Elemente verschiedene Nachfolger haben. wuerde dies nicht zeigen, dass
+diese Menge abzaehlbar ist. (Zur Mengenlehre gehoert i.A. das Axiom,
+dass fuer _jede_ Menge eine Wohlordnung gibt). Entscheidennd ist, dass
+Du zeigen muesstest, dass jedes Element ausser dem ersten auch
+Nachfolger _ist_, d.h. dass es in der Menge einen unmittelbaren
+Vorgaenger besitzt.
+
+Diese simple Widerlegung Deines "Abzaehlbarweises" fuer P(N) in dem
+erwaehnten Artikel hast Du anscheinend grosszuegig unter den Tisch
+fallen lassen. 
+
+Das erste "Teilstueck" Deiner Konstruktion bestand aus den endlichen
+Teilmengen von M. Fuer diese hast du je einen eindeutigen Nachfolger
+in Form eiener ebenfalls endlichen Teilmenge von N angegegeben.
+Aber es fehlt das Bindeglied zu den unendlichen Teilmengen von N. In
+Deiner Konstruktion gab es keine endliche Teilmenge von N, deren
+Nachfolger eine unendliche Teilmenge von N ist. Damit besitzten die
+endlichen Teilmengen von N bereits "Peano-Struktur", und die von dir
+"gemeinte" induktiv definierte Abbildung:
+
+f(0) = leere Menge
+f(n+1) = Nachfolger von f(n)
+
+erfasst nur die endlichen Teilmengen von f.
+
+Wenn zwischen N und einer Menge M eine bijektive Abbildung existiert,
+die die Nachfolgerrelation auf M wiedergibt, so besitzt damit M
+automatisch eine Peanostruktur bezueglich dieser Nachfolgerrelation.
+
+Deine Konstruktion hat aber keine Peanostruktur, da eine echte
+Teilmenge (die endlichen Teilmengen von N) bereits allein
+Peanostruktur besitzt, Die wesentliche Eigenschaft einer
+Peaonostruktur ist, dass keine echte Teilmenge der Struktur ebenfalls
+Peanostruktur ist. Genau dies wird bei der Definition der natuerlichen
+Zahlen durch "N ist die _kleinste_ Menge...." ausgedrueckt.
+
+
+Siehe oben. In F _ist_ nicht jedes Element bis auf ein bestimmtes
+Element (vulgo Startelement) unmittelbarer Nachfolger eines anderen
+Elements. Bei N _ist_ jedes Element ausser 0 unmittelbarer
+Nachfolger.eines anderen Elements von N. Damit ist F nicht auf
+dieselbe Weise bezeuglich der Nachfolgeroperation "zusammenhaengend"
+wie N.
+
+Der Fall liegt aehnlich wie hier.
+
+Du definiert in N folgende Nachfolgerrelation:
+
+Nachfolger(n) := n+2
+
+du kannst jetzt induktiv eine Abbildung definieren mit
+
+f(0) = 0
+f(n+1) = Nachfolger(f(n))
+
+Diese Abbildung erwischt aber nur die geraden Zahlen und ist damit
+eine Bijektion zwischen N und den geraden Zahlen. Die obige
+Nachfolgerrelation auf N ist also keine Nachfolgerrelation, die eine
+Bijektion _induziert_, die man zur Definition einer Bijektion
+verwenden kann, die eine Bijektion "ergibt". obwohl jedes Element
+einen Nachfolger _hat_. Der Punkt ist, dass 1 bezeuglich der
+Nachfolgerrelation kein Nachfolger _ist_. Die Kette hat einen Bruch.
+
+
+Keine Ahnung. Jedenfalls hast Du nur solche Elemente auf N abgebildet,
+die von einem Startelement aus ueber je endlich viele Nachfolger
+erreichbar sind. Dies ist genau das, was N characterisiert. Jedes
+einzelne Element von N ist von 0 aus durch je endlich viele Additionen
+von 1 erreichbar. In F ist nicht zu erkennen, wie man jedes einzelne
+Element durch je endlich viele Schritte erreichen kann.
+
+
+Man kann beweisen, dass es keine Bijektion zwischen N und Pot(N) gibt.
+
+Dieser Beweis ist hier dutzendfach gefuehrt worden.
+
+Damals hast Du eingewendet. Ja, aber ich habe doch eine Bijektion
+gefunden, also ist die Mengenlehre (aus der dieser Beweis folgt)
+widerspruechlich.
+
+Wenn Du nun nicht mehr so ganz ueberzeugt bist, dass Du eine Bijektion
+gefunden hast, steht zwar immer noch im Raum, dass die Mengenlehre
+widerspruechlich sein _koennte_ aber Du haettest nichts mehr auf dem
+Tisch, was Deine Auffassung belegt.
+
+Wir wollen Dich nicht davon ueberzeugen, dass die Mengelehre
+widerspruchsfrei ist, denn dies koennen wir nicht, Wir wollen Dich nur
+davon ueberzeugen, dass _Du_ keinen Widerspruch gefunden hast.
+
+
+Du sagst es. Deine konstruierten Nachfolgerrelationen sind ebenfalls
+in diesem Sinne "unterbrochen".Daher taugt sie nicht zur induktiven
+Definition einer Bijektion a la
+
+f(0) = Startelement
+f(n+1) = Nachfolger(f(n))
+
+und nur so laesst sich eine Bijektion von N definieren, die eine Menge
+bezueglich dieser Relation "abzaehlbar macht". Dies ist die
+mathematisch exakte Formulierung, die hinter Deiner
+"Puenktchenschreibweise" 
+
+	f(0) = Startelement
+	f(1) = Nachfolger(Startelement)
+
+	und so weiter
+
+stecken muss, damit sie einen Sinn ergibt. Deine "Wunschbijektionen"
+springen immer grosszuegig ueber die tief klaffenden Loecher in den
+Puenkchenfolgen in Pot(N) hinweg, obwohl das, was hinter einem Loch
+liegt, "unerreichbar" ist. Dies soll nur eine Metapher sein. Eine
+exaktere Formuliereng (nicht vorhandene Peano-Struktur von Pot(N)
+bezeuglich der Nachfolgerrelation in Pot(N)) steht oben.
+
+
+MfG
+Ralf

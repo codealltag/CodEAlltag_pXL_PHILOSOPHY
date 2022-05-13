@@ -1,0 +1,85 @@
+"Theodor B. M." <z@z.lol.li> wrote in 
+news:9iddr2$n95$1@newsreaderg1.core.theplanet.net:
+
+                                           Der Gaussche Satz
+
+falsch.
+Der Gaußsche Satz gilt für beliebige Vektorfelder, also auch für das 
+Strömungsfeld einer kompressiblen Flüssigkeit.
+Nur hat man bei einer kompressiblen Flüssigkeit nicht nur Divergenzen in 
+Form von Zuflüssen und Abflüssen, sondern auch in Form von longitudinalen 
+Wellen.
+Würde man die Nichtexistenz longitudinaler Wellen fordern - wie man es beim 
+EM-Feld durch die 1. Maxwell-Gleichung tut - dann würde daraus folgen, daß 
+Zu- und Abflüsse nicht ein- und abschaltbar sind.
+
+
+falsch.
+Denn der Gaußsche Satz basiert ja gar nicht auf einer instantanen 
+Ausbreitung.
+
+
+nein, das tut sie nicht.
+
+
+nein, schwer zu verstehen ist es nicht, im Gegenteil, es ist sogar ganz 
+einfach.
+Nur ändert das nichts daran, daß es einfach falsch ist.
+
+
+sofern die elektrische Ladung gleichförmig bewegt ist, ja.
+Da das in völliger Übereinstimmung mit der retardierten Ausbreitung des 
+Feldes steht, habe ich dir ja bereits erklärt.
+
+
+du hast recht, es ist in der Tat erstaunlich, in welche extremen Maße du 
+die logisch/mathematische Vernunft mit Füßen trittst (z.B. indem du die 
+erwiesenermaßen falsche Behauptung, der Gaußsche Satz gelte nur für 
+instantan reagierende Felder, aufstellst), nur weil sie deinem fanatischen 
+religiösen Glauben, daß sich das EM-Feld instantan ausbreiten müsse, 
+widerspricht.
+
+
+und mit Retardierung ist es sogar genauso klar.
+
+
+es gibt keine solche ad-hoc-Hypothese. Die Retardierung ist nämlich keine 
+ad-hoc-Hypothse.
+
+
+falsch.
+Vielmehr ist klar, daß eine nicht-existente ad-hoc-Hypothese prinzipiell 
+nicht zur Verletzung einer Gleichung führen kann.
+
+
+jeder, der genug Grips im Kopf hat, um mal ein klein wenig nachzudenken:
+Betrachten wir ein Raumvolumen V, das diejenige der beiden Kugeln, die 
+positiv aufgeladen wird, enthält, und dessen Oberfläche O 300 m von dieser 
+Kugel entfernt sei.
+Der Stromdraht, der die beiden Kugeln miteinander verbindet, durchstoße die 
+Oberfläche O in einem Punkt P.
+Wenn jetzt die Ladung der Kugel von 0 auf +10e (e = Elementarladung) erhöht 
+wird, dann fließen, da ja durch den Draht ein Stom fließt, zugleich 10 
+Elektronen mit der Ladung -10e durch den Punkt P aus dem Volumen V heraus. 
+Da die Ladung in V zuvor 0 war, erhöht sich durch diesen Elektronenfluß die 
+Ladung in V auf +10e. Dadurch entsteht in der Umgebung U(P) des Punktes P, 
+an dem ja die Elektronen aus V hinausgeflossen sind, ein elektrisches Feld 
+E. Dadurch wird, da das elektrische Feld an allen anderen Stellen der 
+Oberfläche O außer U(P) Null ist, das Oberflächenintegral der elektrischen 
+Feldstärke über die Oberfläche O von Null verschieden, und zwar gerade so 
+groß wie die Ladung in V, also +10e.
+Die 1. Maxwellsche Gleichung ist damit erfüllt.
+Verantwortlich für ihre Erfüllung ist natürlich nicht, daß sich die 
+Aufladung der Kugel sofort an der Oberfläche O bemerkbar machen würde (das 
+tut sie ja erst nach 10^(-6) Sekunden), sondern daß Elektronen am Punkt P 
+durch den Draht aus dem Raumvolumen V hinausfließen.
+
+Hier zeigt sich wieder, wie sehr du die logisch/mathematische Vernunft mit 
+Füßen trittst, nur weil sie nicht mit deinen Glaubensvorstellungen 
+übereinstimmt:
+es gibt einen mathematische Beweis dafür, daß die Gültigkeit der 4 Maxwell-
+Gleichungen (einschließlich der 1.!) dazu führt, daß EM-Felder retardiert 
+sind. Da bei diesem Beweis die 1. Maxwell-Gleichung als richtig 
+vorausgesetzt wird, folgt aus ihm logischerweise, daß die Retardierung 
+nicht im Widerspruch zur 1. Maxwell-Gleichung stehen kann. Dennoch 
+behauptest du, daß sie es doch täte, und damit verwirfst du die Logik.

@@ -1,0 +1,21 @@
+Oswald Ungruhe <khmdtk@b-bwurxo.es> schrieb... 
+
+[...]
+[...]
+
+
+Die Prämisse "Banken sind Sitzgelegenheiten." ist in der
+Interpretation "Alle Banken sind Sitzgelgenheiten" einfach *falsch*.
+
+Dagegen ist die Aussage "Alle Banken sind Sitzgelegenheiten oder
+Geldinstitute" [oder etwas formaler: 
+"Für alle x gilt: (x ist eine Bank) => ((x ist eine Sitzgelegenheit)
+oder (x ist ein Geldistitut))"] wahr. [jedenfalls solgange nicht noch
+eine Konnotation aus dem Hut gezaubert wird]
+
+Extensional ist die Menge der Banken also Teilmenge der
+Vereinigungsmenge der Menge der Geldinstitute und der Menge der
+Sitzgelegenheiten, aber nicht Teilmenge der Sitzgelegenheiten.
+
+
+fritz

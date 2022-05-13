@@ -1,0 +1,56 @@
+Wer es gerne _symmetrisch_ hat, kann auch folgende Regeln als
+Ausgangspunkt wählen:
+
+&I	A   B
+	-----
+	A & B
+
+&E	A & B     A & B
+	-----	  -----
+	  A   ,     B
+
+~I 	 [A]
+ 	  :
+ 	B & ~B
+ 	------
+ 	 ~A
+
+~E 	 [~A]
+ 	  :
+ 	B & ~B
+ 	------
+ 	  A
+
+
+Übung: Man zeige, dass die beiden Regeln ~~E und ~E einander
+"Äquivalent" sind in diesem System.
+
+---------------------------
+
+Nun kann man auch, um die Dinge einfacher zu gestalten, die beiden
+letzten Regeln (~I und ~E) zu einer einigen Regel "RAA*" zusammen-
+fassen; damit würde unser logisches System auf den 3 folgenden Regeln
+basieren:
+
+
+&I	A   B
+	-----
+	A & B
+
+&E	A & B     A & B
+	-----	  -----
+	  A   ,     B
+
+RAA* 	 [A]       [~A]
+ 	  :         :
+ 	B & ~B    B & ~B
+ 	------    ------
+ 	 ~A   ,     A
+
+
+Man kann also die _gesamte_ Aussagenlogik aus der Regel RAA*, sowie den
+beiden "trivialen" Operationen "Zusammenfassen" (&I) und "Trennen" (&E)
+gewinnen. M.E. ein durchaus _nicht-triviales_ Ergebnis.
+
+
+A.

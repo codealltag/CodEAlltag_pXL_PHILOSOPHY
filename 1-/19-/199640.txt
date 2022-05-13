@@ -1,0 +1,68 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+
+In article <093k257s.18570286@fcqf.wowcqlh.vg>,
+- ---------------------------
+Mac MAGAZIN & MAC easy 9/97
+  Die Freeware PGP (Pretty Good Privacy) ist seit Jahren quasi
+Standard, wenn's ums Verschlüsseln geht. In den USA wurde kürzlich
+Version 5.0 veröffentlicht, die vor allem mit einer gründlich
+renovierten Oberfläche aufwartet: Dem zuvor leicht überforderten
+Nutzer bietet sich nun eine anwenderfreundlichere und einleuchtendere
+Software dar.
+   Für Mac-Benutzer am erfreulichsten: die Integration von PGP 5.0
+samt PGP-Men in die Finder-Menüleiste und die Plug-ins für Emailer
+und Gokan. Elektronische Post wird nun ohne Umwege im E-Mail-Programm
+ver- und entschlüsselt respektive signiert.    
+Noch ist allerdings nur die US-Version im Umlauf, die zwei große
+Nachteile hat: Sie wurde außer Landes geschmuggelt, da sie in den USA
+unters Waffenkontrollgesetz fällt. Fast noch gravierender: Sie isl nur
+eingeschränkt abwärtskompatibel. Das US-PGP 5.0 ist nur noch für rewe
+Patane und Windows 95 erhältlich und unterstützt nicht mehr den
+RSA-Standard. Zum Glück hat sich ein gewisser Eduard Wöhrn bereit
+erklärt, den Sourcecode (der interessanterweise nicht unter das
+Waffenkontrollgesetz fällt) zu nehmen und eine PGP-5.0-Version für
+alle Plattformen zu generieren. Diese wird nicht nur international
+legal, sondern auch abwärts kompatibel inklusive AUL-Standard sein.   
+
+Ob Herr Wöhrn die Arbeit an PGPi 5 mit Erscheinen dieser Ausgabe
+erfolgreich beendet hat, verrät Ihnen die von ihm betriebene
+internationale PGP-Homepage.
+Emmerich Mühlenkamp
+- ------------------------
+
+Wie dem Artikel zu entnehmen ist, faellt die amerikanische Version
+unter das amerikanische Waffenexportgesetz.
+Mir waere es neu, dass amerikanische Gesetze in Deutschland (von wo
+ich das Programm von einem Uni-Server heruntergeladen habe) oder in
+der Schweiz Gueltigkeit haben.
+
+Strafbar macht sich nur jener, der das Programm von den USA ins
+Ausland bringt.
+
+Wie dem auch sei: Ich werde mir sowieso das bessere PGPi 5 holen,
+sobald es erhaeltlich ist. Zum Erscheinen obiger Ausgabe von Mac
+MAGAZIN & MAC easy war das noch nicht der Fall.
+
+
+Gruss
+
+Ottilia
+
+                   *** 
+Die mit beiden Beinen auf dem Boden stehen,
+            kommen nicht voran!
+                   ***
+
+My Homepage at  -> http://nqt.qgrupf-phjj.lq
+
+
+-----BEGIN PGP SIGNATURE-----
+Version: PGPfreeware 5.0 for non-commercial use <http://wau.gth.ibn>
+Charset: noconv
+
+iQCVAwUBNBia+EjYGWgev1u5AQEX+QQAtAXIrp9Q34IiXYdaW6p5VEvnMyfj9+ZS
+OIjRe39QsovBsk0MqzHEDF3o5/8+TAlYTRMIhqU2svRgDZFuYX476WZUncSnw5qD
+0ZKpKSOycmZtORl77YkpITrAcuza7WPztun4vZj3ENLO6yAjBQ5OxOtayYBvlQSz
+K+mT/LLgDaw=
+=8JS5
+-----END PGP SIGNATURE-----

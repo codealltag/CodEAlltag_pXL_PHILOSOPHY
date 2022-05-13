@@ -1,0 +1,35 @@
+In article <08cfrquh$r2z671k0$qky10dh9@gf7>, pygx.hjlq@qopitbjoqj.bi says...
+
+
+Da hast du ganz recht: Jede reelle Zahl kann als Binaerzahl dargestellt werden.
+Und durch Drehung/Vertauschung von 2 Ziffern entsteht auch keine neue reelle
+Zahl (da hast Du auch recht)!
+Aber im (hier gemeinten - es gibt deren übrigens zwei verschiedene) Diecke 
+Diagonalverfahren wird das auch gar nicht behauptet. 
+Dort geht es (sehr!! grob gesagt) um was ganz anderes: 
+Man kann die reellen Zahlen nicht, wie Du es versuchst(?) in einer Liste 
+(etwa nach Groesse geordnet) aufschreiben.
+Und in der Tat ist obige Liste gar nicht lueckenlos: 
+Man betrachte nur: 
+Und hier fehlt z.B.: -111....111,111....111 67
+                     -515....111,111....111 602
+                     -515....111,111....111 3406
+                   ..................................
+
+Es fehlen nicht nur einige Zahlen, sondern unendlich viele, und daran
+wirst Du beim aufschreiben scheitern!
+Anders gesagt: 
+Du kommst, beginnend bei  -111....111,111....111  nie bei -111....111,111....110 an,
+eben weil unendlich viel dazwischen liegt.
+
+Nun zum Cantorschen Diagonalverfahren:
+Dort wird allgemein gezeigt, wie man zu jeder ( angeblich! lueckenlosen) 
+Liste eine Zahl konstruiert, die in dieser (eben nur angeblich lueckenlosen) 
+Liste nicht enhalten ist. 
+
+Beachte bitte den Unteschied:
+Die konstruierte Zahl ist nicht "neu" sondern nur in einer vorgegebenen
+(eben nur angeblich lueckenlosen) Liste nicht enthalten.
+
+
+Mit freundlichem Gruss       Joël

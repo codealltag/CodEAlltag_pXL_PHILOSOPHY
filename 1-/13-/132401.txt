@@ -1,0 +1,29 @@
+On Sun, 07. 09. 21 11:32:04 +0100, Otmar Ebenkofler
+
+Was hast du denn da zusammengerechnet?
+Wenn es um Musik gehen soll, dann handelt es sich um Audiosignale!
+Die werden abgetastet mit einer Samplingfrequenz, die mindestens
+doppelt so hoch sein muß als die Frequenz des Audiosignals, meistens
+44,1 khz, um das Frequenzspektrum bis 20 khz darstellen zu können.
+Die Bit-Tiefe x repräsentiert die Anzahl der Lautst�rkeabstufungen
+(Quantisierungsstufen). 
+Also 8-Bit Audio hat 2^8 = 256 Lautstärkestufen, 16-Bit 2^16.=65536
+.usw.
+Da ist nix mit Dezibel, es wird einfach die komplette Schwingung
+digitalisiert, egal wie laut diese sein mag.
+Zum Nachschauen:
+
+http://azj.dlgdb-tnssfup.afs/wzwaxnkyub/cah/krnjaboi.jki
+
+
+....informationstheoretisch simple Klänge langweilig....?????
+Was sind denn
+1. Kriterien für die informationstheoretische Darstellung ?
+2. Kiterien für lanweilig ?
+
+
+Das würde mich jetzt aber doch interessieren, auf welche Weise Klänge
+mit Ästhetik und Informations Theorie bit-weise anders dargestellt
+werden können als mit den gängigen Digitalisierungsverfahren.
+
+Gruß Ulf

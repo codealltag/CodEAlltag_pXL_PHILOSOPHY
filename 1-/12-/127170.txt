@@ -1,0 +1,67 @@
+Im Grunde sind die mit dieser "Problematik" zusammenhängenden Fragen
+durchaus interessant...
+
+Schreibt man
+
+Def.:	x = y <-> Az(z e x <-> z e y)
+
+so wir dieser Ausdruck sozusagen in einer _doppelten_ "Bedeutung"
+gebraucht. Zum einen handelt es sich um einen metasprachlichen Satz, der
+da (übersetzt in Normalsprache) lauten könnte:
+
+	Unter "x = y" wollen wir im weiteren "Az(z e x <-> z e y)"
+	verstehen.
+
+Zum anderen wird auch schon eine erste Formel, die dieses gerade eben
+definierte Symbol ("=") enthält "gegeben" (...).
+
+Gerade wegen dieser (vielleicht fragwürdigen) Doppelbedeutung, die mit
+dieser Schreibweise verbunden ist, ziehe ich gelegentlich (?) die
+Schreibweise
+
+	x = y :<-> Az(z e x <-> z e y)
+
+vor. HIER ist klar, dass wir _keinen_ Ausdruck der Objektsprache vor uns
+haben: ":<->" gehört nun mal nicht zur Objektsprache der
+Prädikatenlogik.
+
+Andererseits ist immer noch deutlich klar gemacht, dass wir auch gleich
+
+	x = y <-> Az(z e x <-> z e y)
+
+als (unmittelbare) _Folge_ dieser Definition haben.
+
+Ich bin mir nicht im klaren darüber, was nun in methodologischer
+Hinsicht vorzuziehen ist. [...] Eines steht m.E. jedoch fest: eine
+Definition ist (üblicherweise?) sicherlich NICHT durch das einfache
+Hinschreiben einer Formel, die das nichtdefinierte Zeichen enthält,
+gegeben!
+
+In diesem Kontext ist wirklich SEHR interessant, was T. Wieshaider im
+Zusammenhang mit der ersten (formalen) Definition sagt, die in seiner
+"Begriffsschrift" auftritt:
+
+"
+
+Dieser Satz unterscheidet sich von den bisher betrachteten Urtheilen
+dadurch, dass Zeichen in ihm vorkommen, die vorher nicht erklärt worden
+sind; er giebt selber diese Erklärung. Er sagt nicht: "die rechte Seite
+der Gleichung hat denselben Inhalt wie die linke"; sondern: "sie soll
+denselben Inhalt haben". Dieser Satz ist daher kein Urteil [...]
+
+Obgleich (69) ursprünglich kein Urtheil ist, so verwandelt es sich doch
+sofort in ein solches; denn nachdem die Bedeutung der neuen Zeichen
+einmal festgesetzt ist, so gilt sie nunmehr, und es gilt daher auch
+Formel (69) als Urtheil, aber als analytisches, weil es das was in die
+neuen Zeichen hineingelegt war, nur wieder hervortreten lässt. Diese
+Doppelseitigkeit der Formel ist durch die Verdoppelung des
+Urtheilsstrichs angedeutet. In Bezug auf die folgenden Ableitungen, kann
+also (69) als gewöhnliche Urtheil behandelt werden."
+
+:-)
+
+Es scheint mir, dass Wieshaider hier so ziemlich den selben (gleichen?)
+"Sachverhalt" anspricht, wie ich oben...
+
+
+F.

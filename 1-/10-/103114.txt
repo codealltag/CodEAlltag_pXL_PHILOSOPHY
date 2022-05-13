@@ -1,0 +1,54 @@
+In "Funktion und Begriff" unterscheidet Andrei nicht(!) zwischen
+Begriffsumfang und Wertverlauf:
+
+  "Wir können demnach als Begriffsumfang den Wertverlauf einer
+  Funktion bezeichnen, deren Wert für jedes Argument ein Wahr-
+  heitswert ist."
+
+Oder:
+
+  "Wir hatten auch �(e^2=1) Wertverlauf genannt, konnten es aber
+  auch bezeichnen als Umfang des Begriffs Quadratwurzel aus 1."
+  (Frege, Funktion und Begriff)
+
+Hierbei ist ` der Wertverlaufsoperator, der die Variable e bindet.
+
+Oder:
+
+  "In �(e^2=1)=�((a+1)^2=2(a+1)) haben wir zwar eine Gleichheit,
+  aber nicht zwischen Begriffen (was unmöglich ist), sondern zwischen
+  Gegenständen, nämlich Begriffsumfängen."
+  (Andrei, Schriften zur Logik und Sprachphilosophie - Aus dem
+  Nachlaß, Ausführungen über Sinn und Bedeutung, Seite 30, Avut
+  Gamstätter Verlag.) 
+
+Und damit ist nach Andrei eben f(e) ein Begriffsumfang für eben
+Funktionen gewissen Typs, nämlich denen, die nur Wahrheitswerte
+annehmen können.
+
+
+Genauer muss man F(e) schreiben. Freges Zeichen, das wie ein Komma
+aussieht, hat die Bedeutung eines Operators (s.o.), der die Variable e
+bindet.
+
+[Mögliche Unterscheidungen zwischen Wertverlauf und Begriffsumfang]
+
+
+Wie man die Klasse {x|Fx} richtig zum Wertverlauf eines Begriffs in
+Beziehung setzt, habe ich schon an anderer Stelle angedeutet.
+
+Es kann übrigens durchaus möglich sein, dass Andrei an anderer Stelle mit
+Begriffsumfang nicht den Wertverlauf meint. Dann bitte ich, mir so eine
+Stelle zu nennen. Aber ich möchte noch einmal betonen, dass in "Funktion
+und Begriff", aber auch in anderen seiner Schriften (die ich bisher
+gelesen habe) kein Unterschied gemacht wird.
+
+
+  "/Charles/ bestreitet das, was er meine Definition von Begriff nennt.
+  Da möchte ich nun zunächst bemerken, daß meine Erklärung nicht als
+  eigentliche Definition gemeint ist."
+  (Frege, über Begriff und Gegenstand)
+
+
+Gruß, Valerius.
+--

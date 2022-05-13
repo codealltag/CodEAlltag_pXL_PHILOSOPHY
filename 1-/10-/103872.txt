@@ -1,0 +1,152 @@
+Nun ja, vielleicht hast Du ja nicht verstanden, was ich in einigen der
+letzten Posts geschrieben hatte, denn die Antwort ist wohl eher ja.
+(Obwohl es keine Methode ist, bei der i c h mich "wohlfühlen" würde.)
+
+Es geht darum: dass die Konnektive bestimmte Eigenschaften haben SOLLEN
+(so dass bestimmte Regeln gelten) ist natürlich eine "ausserlogische"
+Angelegenheit.
+
+Man argumentiert also (wohl wissend dass so etwas möglich ist!) in etwas
+so: Ich will ein Konnektiv einführen, sagen wir ->, mit folgender
+Eigenschaft:
+
+	A -> B    A
+	-----------
+	     B
+
+(die mir aus anderen logischen Systemen als MPP bekannt ist). Die FRAGE
+ist nun, wie A -> B aus den Basiskonnektiven unseres Systems "aufgebaut"
+sein muss, DAMIT MPP gilt...
+
+Idee! Wir setzen MPP als gegeben voraus, und betrachten welche formale
+BEZIEHUNGEN zwischen A -> B und anderen Formeln unseres Systems (die nur
+Grundzeichen enthalten) bestehen. (Das ist wohl der Kern des Ansatzes
+von Gaedeke, wenn ich das recht sehe.)
+
+Es zeigt sich nun, dass man leicht herleiten kann:
+
+	A -> B |- ~(A & ~B)
+
+also MUSS (falls MPP gilt, was wir ja anstreben) eine enge Beziehung
+zwischen A -> B und ~(A & ~B) gelten (wir können zwar nicht sagen, ob
+auch ~(A & ~B) |- A -> B gilt; aber wenn wir A -> B entsprechend
+definieren, ist das natürlich so.)
+
+Also "versuchen" wir die Definition
+
+	A -> B =df ~(A & ~B)
+
+Und SIEHE DA, wir ERHALTEN (als abgeleitete) Regel, die für uns so
+wichtige (und angestrebte) Regel MPP!
+
+D. h. das so definierte "A -> B" hat in der Tat die Eigenschaft, die wir
+ursprünglich haben wollten! (Die Eigenschaften, die es SONST noch hat,
+werden sich ja dann noch zeigen...)
+
+Und es gilt nun (natürlich):
+
+	A -> B -||- ~(A & ~B)
+
+Ja, man BRAUCHT sie auf der Stufe ja auch n o c h NICHT!
+
+(Gaedeke geht hier offenbar analog wie Jablonski vor, der auch e r s t 
+keine Wahrheitstafeln anführt, und die Regeln, bei ihrer Einführung,
+"natursprachlich" rechtfertigt.)
+
+Natürlich gibt es auch die Methode der Wahrheitstafeln, mit dieser kann
+man UNMITTELBAR beweisen, dass die so eingeführten Regeln "korrekt"
+sind. (und mithin das gesamte logische System korrekt ist):
+
+Siehe Bemerkung von oben.
+
+Ja, der konditionale Beweis (CP) kann allerdings noch mithilfe der
+anderen Regeln begründet werden.
+
+ELKE
+
+	Angenommen es gibt einen Beweis der Form
+
+		[A]    (Annahme)
+	         :
+	         B  ,
+
+	dann könn(t)en wir folgenden Beweis hinschreiben:
+
+	1.  | ~(A -> B)     A
+	2.  | ~~(A & ~B)    1 Def. ->
+	3.  | A & ~B        2 DN
+	4.  | A             3 &E
+              :            } wird als gegeben voraus-
+	n.  | B              gesetzt (siehe oben)
+       n+1. | ~B            3 &E
+       n+2. | B & ~B        n,n+1 &I
+       n+3. ~~(A -> B)      1,n+2 RAA
+       n+4. A -> B          n+3 DN
+
+	Also:  [A]
+	        :
+	        B
+	      ------
+	      A -> B
+
+	wobei A "gelöscht" wird.
+
+
+Man kann umgekehrt aber auch den RAA (im Sinne Hörnemanns) leicht als
+korrekt nachweisen, wenn man den CP voraussetzt!
+
+	Angenommen es gibt einen Beweis der Form
+
+		[A]    (Annahme)
+	         :
+	       B & ~B   ,
+
+	dann gilt mit CP auch:
+
+	... |- A -> (B & ~B).
+
+	Nun kann man mithilfe der Methode der Wahrheits-
+	tafel leicht zeigen, dass die folgende Formel
+	eine Tautologie (immer wahr) ist:
+
+		(A -> (B & ~B)) -> ~A.
+
+	Ist nun also A -> (B & ~B) wahr, dann ist auch 
+	~A wahr (da MPP "wahrheitserhaltend" ist).
+
+	Damit wäre gezeigt, dass wir von 
+
+	... |- A -> (B & ~B)
+
+	auf 
+
+	... |- ~A 
+
+	schließen dürfen.
+
+	Mithin haben wir also gezeigt, dass die Regel
+
+
+		[A]    (Annahme)
+	         :
+	       B & ~B
+	       ------
+	        ~A
+
+	korrekt ist.
+
+
+Und den CP kann man aus einer gänzlich anderen Betrachtung -dem sog.
+"Deduktionstheorem"- erhalten. (Aber dazu muss man der Betrachtung ein
+axiomatisches System zugrunde legen. Doch das führt hier zu weit vom
+Thema ab.)
+
+-------------------------------------
+
+Ich muss gestehen, dass mir Göller Ansatz bisher noch nicht bekannt
+war, hat aber was. Nur scheint er in "pädagogischer" Hinsicht nicht
+gerade das Gelbe vom Ei zu sein, wie es scheint. Hmmm... (Obwohl ich
+selbst im Moment "das Problem" nicht sehe... Hmmm...)
+
+
+A.

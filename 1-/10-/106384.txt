@@ -1,0 +1,40 @@
+"Ingolf Lincker" <hcrcweq@raupsq-aexma.co>
+
+
+Es ist eine Aussage.
+
+Es gibt nun drei Möglichkeiten
+
+- Das Auto ist rot
+- Das Auto ist gelb
+- Das Auto ist zum Teil rot und zum Teil gelb.
+
+ (Aussagen sind entweder wahr oder falsch).
+
+Bei sehr einfacher Logik: Ja.
+
+Bei etwas realitätsbezogener Logik
+gibt dann noch das "Nil" (Unbestimmt).
+Und den "Error" (Falsch)
+
+Bei noch komplexerer Logik gibt es
+dann das "vielleicht".
+
+Und bei ganz komplexer Logik dann
+die Wahrscheinlichkeit mit Signifikanzangabe.
+
+Das sind dann die wahren Aussagen in der Physik.
+
+
+Ja.
+Das ist eine Beschreibung der Zustandsm�glichkeit.
+
+Du musst hier bloss beachten, dass das
+Umgangssprachlicher Oder nicht gleichbedeutend mit
+dem Logischen Oder ist.
+
+Das umgangssprachliche Oder wird
+in der Logik mit XOR angegeben.
+
+mfg
+Jakob Schickentanz

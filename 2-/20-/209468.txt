@@ -1,0 +1,19 @@
+: Content-Type: multipart/mixed;
+:      Boundary="*-*-*- Next Section -*-*-*"
+
+: --*-*-*- Next Section -*-*-*
+: Content-Type: Text/Plain; charset=ISO-8859-1
+
+: --*-*-*- Next Section -*-*-*
+: Content-Type: Application/octet-stream; name=info.doc
+: Content-Transfer-Encoding: Base64
+
+: 0M8R4KGxGuEAAAAAAAAAAAAAAAAAAAAAOwADAP7/CQAGAAAAAAAAAAAAAAAC
+: AAAAAQAAAAAAAAAAEAAAAgAAAAIAAAD+////AAAAAAAAAAB+AAAA///////
+
+u.s.w.
+
+wie macht man daraus denn jetzt die Datei "info.doc"?
+(Bin nun mal zu dumm dazu...)
+CIAO,
+Beat./

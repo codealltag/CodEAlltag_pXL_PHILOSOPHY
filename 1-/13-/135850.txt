@@ -1,0 +1,28 @@
+Erich Ackerbauer <Vbqprn.Ztfshrolr@PJN.Xky-Bgyihfkii.NU> writes:
+[...]
+
+Du verwechselst Meta-und Objektsprache (:-)) (oder Anführen und
+Gebrauch), die du selbst hier auseinanderhalten musst. Es gibt mehrere
+Formulierungen des Schemas W, etwa
+
+                s ist wahr gdw. p
+
+wobei 'p' durch einen Satz der Sprache, auf die sich das Prädikat
+'wahr' bezieht, und 's' durch eine strukturelle Beschreibung ( oder
+einen Namen) des Satzes ersetzt wird. Beispiel:
+
+        "Schnee ist weiß." ist wahr gdw. Schnee ist weiß.
+
+Rechts steht ein Satz und links eine strukt. Beschreibung oder ein
+Name des Satzes. Wenn man mit '^' den Konkatenationsoperator
+bezeichnet, kann man obiges auch ausführlicher als
+
+ 'S'^'c'^'h'^'n'^'e'^'e'^' '^'i'^'s'^'t'^''^'w'^'e'^'i'^'�'^'.'  ist wahr 
+                gdw.  Schnee ist weiß.
+
+
+Nein. Selbst in diesen Fällen muss die Struktur des Satzes analysiert
+werden, wobei man das besser bei allquantifizierten Sätzen sieht.
+
+
+armin

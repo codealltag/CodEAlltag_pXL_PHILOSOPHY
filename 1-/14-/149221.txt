@@ -1,0 +1,46 @@
+Am Ende der Liste ? Die Liste hat kein Ende.
+Und die Diagonale erreicht jede Zeile der Liste.
+
+
+Na dann "cantorisiere" doch; nenne uns die Definition deiner Diagonale !
+Und zeige dann, sie ist einerseits ein Element der Menge, aber sie kommt
+nicht in der Liste vor.
+MACH ES !
+Und behaupte es nicht nur.
+
+
+Wolltest du die Diagonale nicht eben noch so "cantorisieren", dass sie
+unendlichviele fuehrende Nullen hat ? Wieso betrachtest du sie dann jetzt
+als ob sie unendlich viele Stellen haette ?
+
+Du hast mehere Chancen:
+
+Entweder deine konstruierte Ziffernfolge hat unendlich viele fuehrende
+Nullen - dann ist sie Element der betrachteten Menge, aber du musst noch
+zeigen, dass sie nicht in der Liste vorkommt, um den Cantor'schen
+Widerspruch zu erhalten.
+
+Oder die konstruierte Ziffernfolge hat nicht unendlich viele fuehrenden
+Nullen - dann ist sie kein Element der Menge, auf die du Wildensee
+Diagonalverfahren anwenden willst.
+
+Auf jeden Fall greift das Verfahren nicht und kann folglich auch keinen
+Beweis der Ueberabzaehlbarkeit von IN erbringen. Also auch keinen
+Widerspruch.
+
+
+Du meinst wohl "bis zu ihrem Anfang". Denn ein Ende hat die Diagonale ja
+nicht.
+Diese Stellenanzahl die du beschreibst ist also endlich...
+
+
+Wie kommst du denn darauf ?
+Das ist immer noch der gleiche Denkfehler wie zu Beginn all dieser
+Diskusionen.
+
+
+Es laesst sich auch "vermeiden", wenn man erkennt das die eigene
+Schlussfolgerung falsch ist.
+
+
+            N

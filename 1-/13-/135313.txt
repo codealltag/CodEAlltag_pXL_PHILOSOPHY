@@ -1,0 +1,15 @@
+Uns ist soweit noch keine Verteilung über die Ns angeboten worden,
+die diesen Schluss erlaubte. In den Annahmen einer Verteilung über
+den Ns liegt einer der Knackpunkte.
+
+
+Hier wird P(A|B) > P(A) <-> P(B|A) > P(B) bemüht: weil die Wahrschein-
+lichkeit für meine Existenz unter Annahme eines kleinen Ns größer
+ist, ist unter Annahme meiner Existenz ein kleines N wahrscheinlicher.
+
+Für dieses Argument müssen die Wahrscheinlichkeiten für A und B
+ungleich Null sein. Das unterstellen Bayesianer zwar fast automatisch, es
+ist aber nicht gegeben. Ferner handelt es sich auch um kein festes N, sondern
+um eine Verteilung über den N, und da läuft das Argument nicht so
+einfach.
+   Luciano

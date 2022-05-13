@@ -1,0 +1,27 @@
+Hello Joosten
+(ixiofu@dahl.ti.tikgo.ko) ## 1 Sep 96 ##
+
+Wenn Du ein Filter findest, das ein gegebens Signal in "weisses Rauschen"  
+verwandelt - also in den Zustand maximaler Entropie, dass kannst Du die  
+Filterkoeffizienten quasi "rueckwaerts" nutzen, indem Du aus weissem  
+Rauschen das Signal wieder herstellen kannst.
+
+Diese Verfahren wird u.a. dazu genutzt, diese Filterkoeffizienten  
+abzuspeichern, um mit diesen dann originalgetreue Tooene zu erzeugen.
+
+Andererseits muss man damit nicht ein komplettes Signal abspeichern,  
+sondern es reicht, die Filterkoeffizienten abzuspeichern: eine Verdichtung  
+der Datenmenge.
+
+Und drittens sind diese Filterkoeffizienten typisch fuer bestimmte  
+Sprachelemente (Phoneme) so dass sie zur Mustererkennung  
+(Identifikationssysteme) genutz werden koennen ...
+
+etc....  (viel Anwendungsmoeglichkeiten)
+
+
+mit freundlichem Grusse:                     Waldemar
+
+rnbfruv@phahrkgo.to..........................(uftdllnh@gpab.jttruvt.ko)
+-  erratic othography is intended to contribute to common amusement  -
+My opinions are my own    -    not those of my Usenet service providers.

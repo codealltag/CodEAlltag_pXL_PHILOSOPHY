@@ -1,0 +1,72 @@
+Hallo Isabella!
+
+
+Warum eigentlich? In de.sci.physik tummeln sich eine ganze Menge sehr
+guter Physiker, und die bestimmen i.allg. auch zum Grossteil die
+Quailtaet jener Gruppe (zumindest solange nicht Pascal Meerrettig da auftaucht
+;-) ). 
+
+
+Yep. Ich meinte ja auch, dass mir noch nicht klar ist, ob "die
+Philosophie" inzwischen schon einen hohen Stand bei der
+Begriffsfindung "Beschreibung" erreicht hat oder zwar haenderingend
+sucht, aber nix brauchbares hat.
+
+
+Ja, mit gewissen Bedenken bezueglich des Wortes "vollstaendig".
+
+
+In diesem Sinne waere aber "Kuenstl. Neuron. Netz" oder "Turingmaschine"
+*ueberhaupt* keine Beschreibungen fuer Hirnprozesse, da sie ja schon
+Theorien voraussetzen. Insbesondere scheint mir die Vermengung hier 
+gefaehrlich: man hat zwar keine gute Theorie ueber die Funktionsweise 
+des menschlichen Gehirns, glaubt aber (aufgrund der Beschreibung als 
+Turingmaschine), dass es gewissermassen mechanisch funktioniere - oder
+aber umgekehrt, dass man aus der intuitiven Annahme, es wuerde nicht 
+mechanisch funktionieren, folgert, dass es nicht durch eine Turing-
+maschine beschrieben werden kann. 
+
+Irgendwie habe ich das Gefuehl, dass in der Argumentation Konsequenz
+fehlt, den Begriff "beschreiben" dann auch wirklich nur in der
+dargestellten Weise zu verwenden und nicht wie eine fertige Theorie zu 
+verwenden.
+
+
+Das bedeutet, dass
+1. die Transitivitaet dieses Begriffes nicht grundsaetzlich gegeben ist?
+2. man genaugenommen grundsaetzlich den Kontext nennen muss, in dem man 
+   diesen Begriff verwendet? Warum wird das dann nicht getan?
+
+
+Nix. Es ist ja nicht mein Modell und ich bin kein Neurologe. Ich bin
+lediglich darueber gestolpert, dass Pauen[1] einerseits Turingmaschinen
+als ungeeignet fuer die Beschreibung haelt, andererseits Kuenstliche
+Neuronale Netze fuer vielversprechend. Das ist in meinen Augen ein 
+logischer Widerspruch.
+
+*Ob* nun das Gehirn durch Kuenstliche Neuronale Netze beschrieben
+werden kann - das muessen, denke ich, Neurologen beantworten.
+
+
+Pauen geht es in seinem Buch um Bewusstseinstheorien; er bringt die
+Kuenstl. Neuronalen Netze vor allem Im Zusammenhang mit der Diskussion
+des Funktionalismus:
+
+Der Funktionalismus versucht, das Bewusstsein (u.a.) durch das Modell
+einer State Machine zu beschreiben[2], und diese ist eine Interpretations-
+moeglichkeit der Turingmaschine.
+
+Cermann setzt u.a. dagegen, dass Turingmaschinen nicht lernfaehig seien,
+sondern einem festen Programm folgen wuerden, und dass Kuenstl. Neur. 
+Netze viel besser geeignet seien. 
+
+Und damit macht er m.E. den Denkfehler, auf dem ich in diesem Thread so
+herumhacke. Meine Frage ist nur, ob das sein Denkfehler ist oder meiner.
+
+Ihno
+
+----
+[1]  D. Cermann "Grundprobleme der Philosophie des Geistes"
+[2]  In der Auspraegung "psychologischer Funktionalismus" sind die 
+     Bewusstseinszustaende sogar nur abstrakt und ohne direkte Relation
+     zu Alltagsbeschreibungen wie Lust, Furcht usw.

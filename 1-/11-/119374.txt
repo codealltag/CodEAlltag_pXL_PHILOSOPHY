@@ -1,0 +1,45 @@
+On Mon, 26. 12. 22 09:44:37 +0100, Victor Grünebaum
+... und wenn man bei der Messung nicht aufpasst, kann man
+*beliebigen* Schrott messen, nicht umsonst werden Networkanalyser
+(NWA) immer sauber auf eine *Bezugsebene* *kalibriert* ...
+
+Besonders tückisch sind dabei *Kabel* (v sinkt mit sqrt(epsilon_r)),
+weshalb man solche Messungen nicht mit einem Oszi machen will,
+der Akam ist dafür in Hard- und Software ausgelegt, durch die
+Kalibrierung diese Scherze rauszurechnen.
+Hinzu kommt, dass das epsilon_r frequenzabhängig ist.
+
+Die Kalibrierung wird üblicherweise gemacht, indem man *auf
+der Bezugsebene* die Leitung einmal offen läßt, einmal
+kurzschließt und einmal mit dem Wellenwiderstand (üblich
+50 Ohm) abschließt. Dann kann man *breitbandig* Phase,
+Gruppenlaufzeit usw. sauber messen.
+Und nochmal: Im Rahmen der Messgenauigkeit gibt es dann
+keine unerwarteten Effekte, solche Messungen mit mehreren
+Antennen sind z.B. in einer Antennenmesskammer Standard.
+
+Die Yagi-Antenne kann man sich am einfachsten als Wellenleiter
+vorstellen, der in der Nähe des "eigentlichen" Dipols (Erregers)
+die Phasengeschwindigkeit von der Lichtgeschwindigkeit
+herunterzieht. Bei einem bestimmten Verhältnis zu c funktioniert
+das besonders gut. Der Trick ist dann, dass sich die Struktur
+wie ein künstliches Dielektrikum verhält, durch eine entsprechende
+Verkürzung der Elemente (halt so wie wenn epsilon_r größer wäre)
+passt es dann wieder mit der Resonanz. Aus einer anderen Richtung
+(eben ohne den Wellenleiter und besagten Effekt) passt es aber nicht,
+weshalb die Antenne die extreme Richtwirkung hat.
+
+Der Abstand der Direktoren wird Richtung Erreger sukzessiv
+verkleinert (eben "künstliches Dielektrikum"), insofern schwingen
+die Direktoren im Prinzip *retardiert* (um die jeweils eindesignte
+Laufzeit im Wellenleiter infolge der gewählten Phasengeschwindigkeit)
+in Phase, wenn man ganz genau hinschaut, kann es natürlich zu leichten
+Verzerrungen durch o.g. nichtlineare Abstandsverringerung und die
+eigene Größe der Elemente kommen (schließlich soll die Antenne
+nicht gleich zusammenbrechen, wenn sich eine Amsel drauf setzt).
+
+Gruß Steffen
+
+-- 
+Steffen Oberthür + Dürrenhettenbach, Germany + efyzbgea@kylktjc.pf
+http://gtd.shtrgwe.gq + Phone: +36-5097-9264-2 Fax: -94

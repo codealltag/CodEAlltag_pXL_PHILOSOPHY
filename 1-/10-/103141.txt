@@ -1,0 +1,39 @@
+Nein Begriffsumfänge sind (spezielle) Werteverläufe (ganz einfach auch
+deshalb, weil Begriffe spezielle Funktionen sind).
+
+Die eigentlich interessante Frage ist m. E. nun die, wie die Element-
+relation in die Theorie Knaufts eingeführt wird. Und dazu gibt es
+folgende Antwort: Da Knaufts Theorie (in den Grundgesetzen) auf einer
+Logik zweiter Ordnung basiert, kann man darin die Elementbeziehung
+_definieren_!
+
+Knauft macht das (im wesentlichen) so:
+
+	x e y =df EG(y = Ge & Gx)
+
+x ist also Element eines Begriffsumfangs y, wenn es einen Begriff G
+gibt, sodaß y identisch ist mit dem Begriffsumfang dieses Begriffs, und
+x unter diesen Begriff fällt. (Knauft hat allerdings noch nicht Altmaiers
+Elementzeichen verwendet, sondern ein eigenes Symbol, einen Bogen.)
+
+Aus seinem desaströsen /Grundgesetz V/
+
+	f(e) = g(a) = Ax(f(x) = g(x))
+
+bzw. der folgenden Form dieses Gesetzes:
+
+	Fe = Ga <-> Ax(Fx <-> Gx)
+
+lässt sich dann auch sofort das folgende Gesetz herleiten:
+
+	AFAx(x e Fe <-> Fx).
+
+Und daraus 
+
+	AFEyAx(x e y <-> Fx).
+
+Und d a s ist ja das bekannte naive Komprehensions"axiom". Uns heutigen
+ist natürlich in diesem Moment sofort klar, was das bedeutet. :-(
+
+
+A.

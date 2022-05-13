@@ -1,0 +1,98 @@
+Hallo Didier,
+
+
+p und q sollen, wenn ich Dich recht verstehe, genau wie I Eigenschaften
+(Begriffe, Aussagen mit einer ungesättigten Stelle) sein -- weshalb ich sie
+lieber im folgenden einheitlich groß schreibe --, mit der Besonderheit so
+zwar, daß die Konjunktion von P() und Q() gerade den Merkmalskatalog I()
+ergibt, I(x) <=> P(x) & Q(x). Der Einfachheit halber sei P(x) die
+Eigenschaft <x ist ein Saurierknochen> und Q(x) die Eigenschaft <x ist eine
+eierlegende Echse>.
+
+
+(05) will vermutlich ausdrücken, daß im Zeitraum H[eute] sowohl Dinge
+existieren (aufgefunden wurden), die P() erfüllen (Saurierknochen), als auch
+solche, die Q() erfüllen (eierlegende Echsen), aber keine, die zugleich
+P() /und/ Q() erfüllen, denn dann gäbe es diese Saurier ja heute.
+Formalisiert in Prozell Diktion vielleicht so:
+
+(05) Ex Ey Et P(x) & Q(y) & (x!=y) & Zeitraum(t) & t=H &
+              vorkommen(x,t) & vorkommen(y,t)
+
+
+Der Schluß auf die 'ontologische Abhängigkeit' der Q-Dinge von Sprache
+scheint mir durch Obiges nicht gedeckt, hier fehlt mAn noch eine Prämisse.
+Francis nannte eine Sache x [Ichthyosaurus]  "ontologisch /unabhängig"/ von
+einer Sache y [Sprache] mit der Begründung, daß x zeitlich y vorausging,
+versteht darunter also soviel wie die Unmöglichkeit einer (wie auch immer
+vorgestellten) Wirkung von y auf x, weil nach üblicher Auffassung nichts in
+die Vergangenheit zurückwirken kann. Es kann aber nicht nun umgedreht aus
+dem Zugleichvorkommen von x und y schon auf ontologische /Abhängigkeit/
+(Bestehen einer Wirkung) geschlossen werden, was man z.B. schon daran sieht,
+daß auch P-Dinge laut Deinem (42) ja heute existieren, also zugleich mit
+Sprache, und dennoch als ontologisch /unabhängig/ von Sprache eingestuft
+wurden. Zugleichvorkommen ist also nicht hinreichend für ontologische
+Abhängigkeit. Ein hinreichendes Kriterium für ontologische Abhängigkeit --
+könnte allenfalls sein -- wenn man einen solchen Befund denn überhaupt
+positiv bescheiden kann --, daß Q-Dinge nie früher, nur zeitgleich oder
+später als das Ding Sprache existiert haben, also ungefähr:
+
+(Def) Existiert x im Zeitraum T_x und y im Zeitraum T_y 
+    und ist T_x >= T_y, so heißt x *ontologisch abhängig* von y. 
+(a) Q-Dinge und Sprache existieren beide erst in H.
+    (Sprich, Q-Dinge existierten /nicht/ in M < H!)
+(b) Ergo: Q-Dinge sind ontologisch abhängig von Sprache.
+
+Weil die Prämisse (a) die Nicht-Existenz von Q-Dingen in M behauptet,
+können dann auch I-Dinge, die ja (P & Q)-Dinge sein sollen, in
+M /nicht/ existiert haben. So wäre die Nichtexistenz von I-Dingen in
+M aus den Prämissen (01) und (a) deduziert.
+
+Allerdings muß ich gestehen ist mir Deine ganze Unterscheidung zwischen
+P()- und Q()-Eigenschaften und daß in M sicher zwar P-Dinge, aber nicht
+Q-Dinge existiert hätten, dunkel. 
+Vielleicht kann man  -- in Abwandlung des Spruches, daß alles wahrhaft
+Existente /jetzt/ existiere -- noch zustimmen, daß P-Dinge (Saurierknochen)
+und Q-Dinge (eierlegende Echsen) wahrhaft und faktisch im Zeitraum H (heute)
+existierten. Die weitere Behauptung (02) aber bereits, diese P-Dinge
+(Knochen) hätten auch schon in M existiert, ist ja auch schon nur
+noch eine erschlossene, nämlich erschlossen aus anderen -- wiederum
+H-zeitigen -- Korrelationen, Koinzidenzen, Zusammenhängen, z.B.
+Auffinden gewisser Isotopenverhältnisse in den Knochen und Vergleich dieser
+mit im  -- H-zeitigen -- Labor ermittelten Halbwertszeiten und Rückschluß
+danach auf das Alter dieser Knochen; oder Auffinden dieser Knochen in einer
+bestimmten Gesteinsformation, von der man aus wieder anderen Zusammenhängen
+Gründe hat anzunehmen, daß sie vor t Jahren entstanden sei; -- die
+Gesteinsformation als solche existiert für uns 'mit Gewißheit' ja auch nur
+in H. Kurzum, ich sehe keinen prinzipiellen Unterschied in der Weise, von
+heute erfahrbaren P-Dingen auf deren frühere Existenz oder Nichtexistenz in
+M zu schließen, und von heute erfahrbaren Q-Dingen auf deren frühere
+Existenz oder Nichtexistenz in M zu schließen Auch wüßte ich nicht, wie
+groß das Zeitintervall H anzusetzen wäre? -- so weit schriftliche
+Aufzeichnungen reichen oder mündliche oder meine persönlichen Erinnerungen
+oder...? Am Ende ist H ein Punkt, das eine stehende Jetzt, und alles Reden
+über Nicht-Jetztiges 'Konstrukt'.
+
+Mit der Trifftigkeit der subjektphilsophischen Position hat das alles
+aber mE überhaupt nichts zu tun.
+Die oben von Francis in seinem Argument eingeführten und von Dir übernommenen
+'geistbegabten Wesen', die noch nicht in M, erst in H existiert hätten,
+sind nicht das Subjekt der Subjektphilsophie, einem Subjektphilosophen
+sind diese Entitäten (Dinge, Objekte)  natürlich auch
+subjekt-objekt-konstituiert, genauso subjekt-objekt-konstituiert übrigens
+wie das erst ab einer bestimmten Zeit existieren sollende logische
+Individuum (Entität, Ding) namens 'Sprache'. 
+
+
+Existierten I-Dinge in H (heute) -- d.h. existierten heute Entitäten,
+"Dinge", logische Individuen, die unter diesen Begriff I() fielen -- ,
+hieße das, es gäbe heute lebendige Saurier. 
+
+Wenn Du indes sagen wolltest, daß der /Begriff/ I() erst heute existiere
+und dabei unter 'Begriff' nicht das sprachliche Zeichen, sondern eher so
+etwas wie den darin 'gedachten Gedanken', den innewohnenden (Fregeschen)
+'Sinn' verstehst, -- hmm, dann wird's  verwickelt.
+
+
+Größe
+Marko

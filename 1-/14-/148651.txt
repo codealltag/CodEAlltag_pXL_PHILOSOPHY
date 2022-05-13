@@ -1,0 +1,32 @@
+[Darstellung des neuen Zahlensystems]
+
+Vorteil:
+Zahlen, die mit 10^n geschrieben wurden,
+werden jetzt kürzer.
+
+Nachteil:
+Man muss sich erst umgewöhnen, es gibt entweder diverse
+neue Symbole, oder man muss wirklich aufpassen, die
+Buchstaben nicht mit irgendwelchen Variablen, Konstanten
+oder Funktionssymbolen, die in der Formel vorkommen, zu
+verwechseln.
+
+Fraglich:
+Der große Fortschritt bei der Einführung des
+Stellenwertsystems war ja die Erleichterung des Rechnens.
+Man kann also sehr einfach addieren, subtrahieren,
+multiplizieren, indem man jede Stelle einzeln betrachtet.
+
+Wie sieht das mit deinem System aus?
+Vergleichen wir doch einmal:
+
+    9528.851
+  -   24.253
+  ----------
+    8402.448
+
+Wie rechnest du e1234456 - b12389 ?
+Wie läuft eine Addition, Multiplikation,
+Division?
+
+Daniel

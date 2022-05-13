@@ -1,0 +1,43 @@
+Hallo Ingolf!
+
+
+Tut er ja nicht. Er gibt eine Exponentialfunktion: nach der Zeit t
+sind ist noch der Anteil exp(-t/t0) des Ausgangsmaterials vorhanden.
+
+Oder (was aequeivalent dazu ist) dass die Wahrscheinlichkeit eines
+Atoms, bis zum Zeitpunkt t zerfallen zu sein ist 1-exp(-t/t0).
+
+
+Der Frohwieser waere auch wirklich unlogisch. Die Exponentialkurve ergibt
+sich direkt aus der zeitlich konstanten Zerfallswahrscheinlichkeit,
+die sich wiederum aus dem Fehlen eines fuer den Zerfall relevanten
+"inneren Zustandes" ergibt.
+
+
+Meine Definition von Zufall habe ich schon geliefert. Gluecklicherweise 
+enthebt mich das dem Problem, die beiden anderen Begriffe zu definieren, 
+um die Frage nach der Existenz von Zufall zu klaeren.
+
+Vielleicht koennte man Determiniertheit dann als das Fehlen von Zufall
+definieren (wobei dies sicher ein quantitatives Mass ist, dass sich
+aus der Staerke der Korrelation ableitet), und Kausalitaet koennte man
+aehnlich festmachen:
+
+Seien A und B korrelierte wiederholbare Ereignisse, wobei B zeitlich
+spaeter stattfindet als A. Dann nenne ich A und B "kausal verbunden",
+wenn es kein wiederholbares, zeitlich vor A liegendes Ereignis C gibt,
+dass sowohl mit A als auch mit B korreliert ist, bei dessen
+Nichtauftreten aber die Korrelation von A und B verschwindet. Bei
+kausal verbundenen Ereignissen nenne ich das zeitlich fruehere
+Ereignis "Ursache", das zeitlich spaetere Ereignis "Wirkung".
+
+(so ins unreine geschrieben; die Idee ist dabei, den Fall
+auszuschliessen, dass zwei Ereignisse gemeinsam Wirkung einer Ursache
+sind).
+
+
+Der Orginalposter (der sich uebrigens offenbar verduennisiert hat) hat
+keine Definition mitgeliefert, also bin ich da recht frei in meiner
+Wahl. Immerhin kann ich eine geben.
+
+Stephan

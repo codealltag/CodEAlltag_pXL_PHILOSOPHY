@@ -1,0 +1,225 @@
+Grösse,
+
+
+Berechnung,
+ist,
+noch
+nicht
+Ck(k)
+
+Kein Denkfehler, es wird das Wissen vorausgesetzt, dass eine Berechnung
+Cp(n) die Wirkung der qten Turing-Maschine auf n ist.
+
+
+dass
+
+Mit dem lieben Mann im Mond, der seinen Käse isst, hat das Rühmekorf Argument
+leider nichts zu tun.
+Es kann eine Berechnung gefunden werden wie Ck(k), die nicht anhält, und wir
+wissen, dass sie nicht anhält. Es steht uns aber kein A zur Verfügung, da
+Ak(k) nicht anhält, weil er gleich Ck(k) ist.
+Ich will also "kurz" nochmal die Konstruktion einer Berechnung Ck(k) zeigen,
+die jeden Algorithmus besiegt und wir trotzdem informal einsehen können,
+dass Ck(k) nicht anhält:
+
+
+Turing: Kann man ein Programm schreiben, welches beliebige Programme auf
+ihre Richtigkeit überprüft? Dabei darf es nicht passieren, dass die Maschine
+in eine Endlosschleife gerät, oder kurz, nicht anhält. Turings Antwort war:
+Nein, solch ein Programm zeigt die Grenzen der Programmierbarkeit.
+
+Was ist eine Berechnung:
+
+Die Tätigkeit einer Turing-Maschine
+
+Was sind nicht-anhaltende Berechnungen?
+
+[ Finde eine ungerade Zahl, die die Summe von zwei geraden Zahlen ist ]
+
+Es ist klar, dass diese Berechnung nicht anhalten wird, da keine ungerade
+Zahl die Summe von zwei geraden Zahlen sein kann.
+
+Wie wird entschieden, ob eine Berechnung nicht anhält?
+
+Es gibt Fälle, wo es leicht ist, diese Frage zu entscheiden, in anderen
+Fällen ist es natürlich schwerer. So schwer, dass noch niemand eine Antwort
+hat.
+
+Klar, dass man sich also einen Algorithmus A wünscht, der uns zeigt, dass
+Berechnungen, bei denen wir zu keinen Ende kommen, tatsächlich nie anhält.
+
+Seit Gödel/Turing ist auch klar, dass es solch einen A nicht geben kann.
+Jede Menge von Regeln ist dafür unzureichend.
+
+Halteproblem auf Gödel umgemünzt:
+
+Sei C(n) eine Berechnung, die von einer natürlichen Zahl n abhängt.
+C(n) liefert eine ganze Anzahl von Berechnungen -- für jede natürliche Zahl
+0,1,2,3,4,5,6,... somit jeweils Berechnung C(0), C(1), C(2)..die Realtion zu
+n ist berechenbar.
+
+Für eine TM heisst dass, das sie C(n) für die Zahl n ausführt.
+Zahl n sei Input, und MAURICE beginnt zu rechnen.
+
+Berechnung die von einer natürlichen Zahl n abhängt:
+
+Q:[ Finde Zahl, die nicht Summe von n Quadratzahlen ist ]
+
+Q hört nur dann auf, wenn n = 0, 1, 2, 3 ist, was Zahlen 1, 2, 3, 7 ergibt.
+
+W:[ Finde ungerade Zahl, die Summe von n geraden Zahlen ist ]
+
+W wird bei keinen n aufhören.
+
+Frage: Mit welchem Verfahren kann man allgemein beweisen, dass solche
+Berechnungen nicht aufhören? Lässt sich solch ein Verfahren selbst in Form
+einer Berechnung bringen?
+
+Das angenommene Rechenverfahren A:
+
+Annahme: Es gibt ein Rechenverfahren A, dass, wenn es anhält, uns beweist,
+dass eine bestimmte Berechnung wie C(n) nie aufhört.
+
+Wenn A zum Schluss kommt, C(n) halte nicht an, tut C(n) dies auch nicht. A,
+so die Annahme, liefert uns niemals falsche Antworten, A ist korrekt (bei
+Nöllner sei es die Konsistenz des F - Systems).
+
+Wenn A nicht korrekt ist, lässt sich dies nachweisen. Wenn A
+fälschlicherweise zeigt, dass C(n) niemals aufhört, und C(n) hört doch auf,
+würde Durchführung der Berechnung C(n) zu Widerlegung von A führen.
+
+Ein allgemeines A:
+
+Nun muss man die verschiedenen Berechnungen C(n) codieren, damit A mit
+dieser Codierung arbeiten kann.
+
+Alle möglichen C wären
+
+C0, C1, C2, C3, C4...
+
+Sei Cq die q'te Berechnung. Solche Berechnung soll auf Zahl n angewendet
+werden:
+
+C0(n), C1(n), C2(n) ect.
+
+Diese Auflistung ist berechenbar (ähnlich Nöllners Formelbaum in seiner
+Orginalarbeit) , so dass eine einzige Berechnung C ein Cq liefert, wenn ihr
+q eingegeben wird. Die Berechnung C wird auf das Zahlenpaar q,n angewendet,
+was dann Cq(n) ergibt.
+
+Was ist jetzt A?
+
+A ist jetzt eine Berechnung, die, wenn ihr Zahlenpaar q,n vorgelegt wird,
+versucht zu zeigen, dass Berechnung Cq(n) nicht aufhört.
+
+Hört A auf, dann ist bewiesen, dass Cq(n) nicht aufhört.
+
+Sei A die Menge aller Algorithmen, wie in obigen Beispiel. Dazuf�gen möchte
+ich, dass A jede korrekte Menge von Rechenregeln ist, mit der sich beweisen
+lässt, dass manche Berechnungen Cq(n) niemals anhalten.
+
+Die Berechnung A's, die von q,n abhängt schreibt sich A(q,n)
+
+Somit:
+
+K Wenn A(q,n,) anhält, hält Cq(n) nicht an
+
+Digonalverfahren:
+
+q = n
+
+L Wenn A(n,n) anhält, hält nicht Cn(n) an (sei dies Gödels Onkel)
+
+C(n,n) ist nun von einer Zahl n abhängig, so dass es eine der Berechnungen
+C0, C1, C2, C3.. sein muss. Angenommen, dies sei nun Ck. Dann:
+
+L A(n,n) = Ck(n)
+
+Diagonalverfahren: n = k
+
+Aus L folgt
+
+M A(k,k) = Ck(n)
+
+und aus L mit n = k folgt:
+
+N Wenn A(k,k) anhält, hält nicht Ck(k) an
+
+Setzt man K in L ein folgt:
+
+
+O Wenn Ck(k) anhält, hält Ck(k) nicht an
+
+
+Wir können nun folgern, dass Ck(k) nicht anhält. Aber A(k,k) kann auch nicht
+anhalten, weil es wegen A(k,k) = Ck(n) dasselbe ist wie Ck(k).
+
+Somit kann Verfahren A (Halteproblem) nicht zeigen, dass Berechnung Ck(k)
+nicht aufhört, obwohl sie nicht aufhört.
+
+Wenn wir also A in seiner Korrektheit kennen, lässt sich eine Berechnung
+Ck(k) konstruieren, von der wir sehen können, dass sie niemals aufhört.
+Somit kann A Menschen nicht zur Verfügung stehen (wenn sie TM sind).
+
+Folgerung: Gehirne verwenden zum Nachweis der Wahrheit
+mathematisch-logischer Sätze keinen erkennbar korrekten Algorithmus.
+
+und deshalb nochmal die 4 Punkte:
+
+1. Menschen können einsehen, dass Ck(k) nie anhält.
+2. Es kann kein algorithmisches Verfahren geben, dass mir sagt, dass Ck(k)
+nie anhält
+3. Wenn Gehirne universelle TM sind, können Gehirne nicht einsehen, dass
+Ck(k) nie anhält
+4. Unseren Denkprozessen liegt etwas nicht-rechnerisches zugrunde, dass von
+einer TM nicht erfasst werden kann.
+
+
+Leider kenne ich diese "über-drüber-Ausage" schon und sie wurde von Vera
+(CYC) so formuliert.
+Mit Zauberei hat das nicht zu tun. Mit Zabuerei haben eher Ansichten von
+Große-Honebrink zu tun, der ja sein Bewustsein vom Gehirn abschöpfen will und in ne
+TM  transferieren. Dann ist er (fast) unsterblich, der Gute. Ein Penrose ist
+wirklich nich harmlos dagegen. Im übrigen
+
+
+Nein, nicht nur auf der Grössenordung der Nervenzellen, sondern auch in der
+Grössenordnung präsynaptischer Vesikelgitter, Gliazellen, die tatsächlich
+eine komplexe Aufgabe übernehmen (man sollte ihren Namen ändern) und
+Mikrotubulis, die eine wichtige Aufgabe im Molek�ltransport spielen. U.a.,
+wie geschrieben; ein Gehirn kann für ~15ms extern initiierte
+Quantenkoh�rente Zustände annehmen (wir bekommen dann wunderschöne Bilder
+vom Gehirn; es funktioniert also, besser als mit MRI Verfahren). Da spielen
+z.b. Dipoleigenschaften eine wesentliche Rolle. Prof. Int-Velt und Team ist
+diese experimentell gesichterte Erkenntnis gelungen. Mit:"Das Gehirn ist ein
+Makroskopisches Objekt, deshalb keine Quanteneffekte möglich" ist es vorbei.
+
+Netz").
+
+Es gibt gute Gründe anzunehmen, dass Quanteneffekte in Bezug zu "Bewusstein"
+eine grundlegende Rolle spielen. U.a. wenn Rühmekorf recht behält oder wenn
+Bernd Westerwick Modell funzt. Auch in der Quantentheorie selbst ergeben sich
+Phänome, die an einen bewussten Beobachter gekoppelt sind. Hierzu sei
+"Imhäusers Freund" zu betrachten, wie Theorien bekannter Grössen wie Niklaus
+termaten Frahmke, Edgar Imhäuser, Reiner Iblher u.v.a. Ich habe nicht die
+Zeit, all diese Argumente hier zu beschreiben. Man kann es selbst nachlesen
+und nachrechen. Und wie geschrieben, nicht nur Neuronen sind miteinander
+verschaltet. Diese Ausgangssituation, das Gehirn zu verstehen ist
+inakzeptabel. Neuronale Netze sind nur grobkörnige Modelle des Gehirns.
+
+
+Diesen "Witz" verwendete Nöllner, um die Prinzipia Mathematica und verwandete
+Systeme (das ganze Hilbert-Programm) in Grund und Boden zu stampfen. Daraus
+folgte die Typentheorie, die solche Aussagen einfach verbieten sollte. Das
+ging in die Hose. Nöllners Satz in natürliche Sprache übersetzt (oder durch
+die Relationszeichen in einer Metamathematischen Sprache interpretiert; es
+ist völlig legitim), erzählt auch folgenden "Witz":
+
+"Ich bin nicht beweisbar".
+
+Weil Du dies nicht verstanden hast und als Witz abgetan, zeigt mir dies,
+dass Du Nöllners Beweis (so bezeichnet man allgemein  seine Arbeit) nicht
+richtig verstanden hast. Sorry.
+
+Herzliche Grösse,
+Veit Trassl

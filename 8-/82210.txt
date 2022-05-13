@@ -1,0 +1,38 @@
+Die Rede von "der einen" und "der anderen" ergibt natürlich nur dann
+Sinn , wenn wir es mit genau zwei Dingen zu tun haben, was in der
+Black-Welt ja der Fall ist. Und auf diese bzeieht sich meine obige
+Aussage.
+
+
+Also ganz so, wie es modelltheoretischer Standard ist:
+
+i(F) =3D {x e D | Fx}
+
+
+Die Menge der D-Teilmengen ist die Potenzmenge von D.
+Wenn d ein Element aus D ist, und E(d) dessen Eigenschaftsmenge, dann
+setzt du diese mit der Potenzmenge von D gleich: E(d) =3D P(D)
+Tut mir leid, aber das verstehe ich nicht.
+
+
+Mir ist das nicht direkt klar.
+Wenn d e D, dann enthält E(d) in deinem (mutmaßlichen) Sinn nicht
+alle D-Teilmengen, d.i. die gesamte Potenzmenge von D, sondern nur
+diejenigen Teilmengen von D, deren Elemente jeweils dieselbe
+Eigenschaft besitzen wie d.
+
+Beispiel:
+Wenn d rot ist und es in D insgesamt 10 rote Dinge gibt, dann enthält
+E(d) diejenige D-Teilmenge, die die 10 roten Dinge, einschließlich d
+selbst, enthält:
+
+{x e D | rot(x)} c E(d)
+bzw.
+{d,d2,d3,d4,d5,d6,d7,d8,d9,d10} c E(d)
+
+So weit, so gut.
+Wie man damit das von dir oben Angeführte beweisen kann, ist mir
+jedoch (noch) völlig unklar.
+
+Gruß
+OTHMAR

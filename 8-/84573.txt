@@ -1,0 +1,54 @@
+On 19. 01. 22 18:44:03 -0800, "Uwe Nordbrock"
+<vrlssluducgXAWGOKERFPCNK@njabfgd.pu> wrote:
+
+Hallo Uwe!
+
+Vergiss es. Lydia ist rationalen Argumenten gegenüber einfach nicht
+aufgeschlossen. (Insbesondere dann nicht, wenn die Argumente sprach-
+analytischer/logischer Natur sind. :-)
+
+Tatsächlich legt sie "möglich" kontextabhängig offenbar auch als
+"blo�_m�glich" aus. Und da stimmt das ja: Wenn etwas /wirklich/ 
+ist (geworden ist), ist es nicht (mehr) nur /blo�_m�glich/ (=mg-
+lich aber nicht wirklich).
+
+Folgende Überlegung scheint mir auch recht deutlich zu zeigen, wie es
+tatsächlich um die Sache steht.
+
+Es gilt:
+
+	unmöglich <=> nicht möglich
+
+Wir wollen das Symbiol "U" einführen, um "unmöglich" auszudrücken.
+Formal definieren wie also: UP =df ~<>P.
+
+Zweifellos gilt dann (auch in der gewöhlichen Sprache):
+
+	P   und   UP
+
+	schließen sich gegenseitig aus.
+
+Formallogisch:
+
+	~(P & ~UP)
+bzw.
+	P -> ~UP.
+
+Wenn etwas der Fall ist, dann ist es sichlich nicht unmöglich der Fall.
+
+Wenn wir für 'U' ("unmöglich") das Definiens '~<>' ("nicht möglich")
+einsetzen, dann erhalten wir:
+
+	P -> ~~<>P
+bzw.                        
+	P -> <>P.          (nicht unmöglich <=> möglich)
+
+qed.
+
+
+A.
+
+--
+
+E-mail: 
+jazoqy<yw>simple<bindestrich>line<punkt>de

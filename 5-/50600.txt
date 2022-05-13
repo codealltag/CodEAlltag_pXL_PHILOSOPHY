@@ -1,0 +1,8 @@
+Sprache basieren nicht auf Maschinencode, sie werden in
+Maschinencode umgesetzt.
+
+Besonders dumm ist es, zu schreiben, dass sie auf "demselben"
+Machinencode (z. B. eines albw Handles 68000 CHIP oder eines
+UHZ i7 Prozessors) basieren.
+
+lg Victor

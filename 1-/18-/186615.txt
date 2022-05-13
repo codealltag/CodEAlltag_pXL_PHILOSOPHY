@@ -1,0 +1,34 @@
+Da die Schachteln in der Reihenfolge 1, 2, 3, 4, 5 geöffnet werden - und
+keine der sonstigen Permutationen (immerhin gäbe es noch 119 andere
+�ffnungsreihenfolgen!) ist der Überraschungseffekt tatsächlich weg, wenn
+beim öffnen der 4-ten Schachtel noch immer kein Ei da ist: - das muß nun in
+der letzten Schachtel sein.
+
+(Selbst wenn die Reihenfolge der Schachteln nicht festgelegt wird, ist der
+Überraschungseffekt weg, wenn beim öffnen der 'vierten' Schachtel immer noch
+kein Ei da ist: - das muß nun einfach in der 'fünften', der ungeöffneten
+Schachtel sein.)
+
+Aber wenn das Ei in Schachtel 4 versteckt sein sollte, dann wüßte der
+eifrige Schachtel�ffner beim Anblick der geöffneten - und leeren -
+Schachteln 1, 2, 3 und der geschlossenen Schachteln 4 und 5 NICHT WIRKLICH,
+ob das Ei nun in Schachtel 4 oder Schachtel 5 ist.
+
+Nimmt er nun an, daß das Ei gar nicht in Schachtel 5 sein KANN, WEIL es
+keine Überraschung für ihn WRE, wenn er Schachtel 4 öffnete und kein Ei
+fände  -  und zöge er tatsächlich aus diesen Prämissen den Schluß, daß das
+Ei nun sicher in Schachtel 4 sein müsse . . .
+. . . so wäre er nun DOCH überrascht, wenn das Ei tatsächlich in Schachtel 4
+ist.
+
+Denn durch die modale Schlußkette (Es ist *unmöglich*, daß das Ei in
+Schachtel 5 ist, es ist demnach *notwendig* in Schachtel 4) - und der
+vorausgehenden Prämisse: Das Finden des Eis ist *notwendig* überraschend  -
+ist er nun zur WIRKLICHEN Überzeugung gelangt, Schachtel 4 kann *unmöglich*
+das Ei enthalten.
+
+Man braucht nur das Ei in einer der Schachteln 1, 2, 3, 4 zu verstecken, um
+bei einem modallogisch inspirierten Eiersucher Überraschung hervorzurufen.
+
+Mit freundlichen Größen
+Burkhard Gerken

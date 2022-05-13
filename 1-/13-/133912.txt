@@ -1,0 +1,42 @@
+Hallo Ivano, 
+
+Theo hat dir schon geantwortet, ich stelle die Zitate aber  noch
+einmal gegenüber, zum einen Alberto Formulierungen, die ich satzweise
+nummeriert habe:
+
+
+und meine (wie auch wohl Timo) Interpretation:
+
+
+Was soll (3) genau bedeuten? Niemand weiß es so genau, am
+allerwenigsten wohl Arne, wie seine Antwort zeigt. Wie komme ich auf
+meine Interpretation?
+
+Der  Ausdruck "semantisch abgeschlossen" hat eine technische
+Bedeutung, eine Sprache L ist  _semantisch abgeschlossen_, wenn die
+Wahrheitsbedingungen der Sätze von L in L ausdrückbar sind (und nicht
+etwa erst in einer Metasprache). Eine Sprache L ist _selbstreflexiv_,
+wenn es singuläre Terme von L gibt, die sich auf Ausdrücke von L
+beziehen (können).
+
+Die klassische Antinomien, weswegen Altman die nat. Sprachen aus der
+Betrachtung ausgeschlossen hat, sind bestimmte selbstbezügliche Sätze
+wie 
+
+(A)	/Dieser/ Satz ist falsch.
+
+
+Man könnte nun  auf die Idee kommen, das Problem läge generell in der
+Selbstbezüglichkeit semantisch abgeschlossener Sprachen, und
+semantisch offene Sprachen, zu denen viele  formale Sprachen zählen,
+wären nicht selbstreflektiv. Das ist aber falsch. Falls also Alberto
+Satz (2) auch nur irgendeinen Konnex zu (3) aufweist,  ist meine und
+Timo Interpretation die einzig sinnvolle. 
+
+Alberto Antwort ist dagegen einfach eine für ihn wohl typische
+rhetorische Ausflucht. Wenn er auch nur annähernd die technische
+Bedeutung der von ihm verwendeten Begriffe kennen würde, hätte ich
+folgendes Argument nicht noch einmal *explizit* formulieren müssen: 
+
+
+kaspar

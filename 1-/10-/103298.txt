@@ -1,0 +1,92 @@
+On Sat, 6 Sep 2003 10:53:42 +0200, Benjamin <lw_ehhx@szm.xr> wrote:
+
+
+	A1  A -> (B -> A)
+	A2 (A -> (B -> C)) -> ((A -> B) -> (A -> C))
+
+
+Hier ein paar Herleitungen einfacher (aber wichtiger) Theoreme:
+
+Theorem 1:
+
+	P->P		(Identity)
+
+(1) P->((P->P)->P)                            Ax. 1
+(2) (P->((P->P)->P))->((P->(P->P))->(P->P))   Ax. 2
+(3) (P->(P->P))->(P->P)                       MP 2,1
+(4) P->(P->P)                                 Ax. 1
+(5) P->P                                      MP 3,4
+
+Theorem 1.1:
+
+	P v ~P		(TND)
+
+(1) ~P->~P     Th. Identity
+(2) P v ~P     Df. v 1
+
+Theorem 2:
+
+	(Q->R)->((P->Q)->(P->R))  	(Prefixing)
+
+(1) ((P->(Q->R))->((P->Q)->(P->R)))->((Q->R)->((P->(Q->R))->((P->Q)->(P->R))))  Ax. 1
+(2) (P->(Q->R))->((P->Q)->(P->R))                                               Ax. 2
+(3) (Q->R)->((P->(Q->R))->((P->Q)->(P->R)))                                     MP 1,2 
+(4) ((Q->R)->((P->(Q->R))->((P->Q)->(P->R))))->(((Q->R)->(P->(Q->R)))->((Q->R)->((P->Q)->(P->R))))   Ax. 2
+(5) ((Q->R)->(P->(Q->R)))->((Q->R)->((P->Q)->(P->R)))                           MP 4,3 
+(6) (Q->R)->(P->(Q->R))                                                         Ax. 1
+(7) (Q->R)->((P->Q)->(P->R))                                                    MP 5,6 
+
+Theorem 3:
+
+	(P->(Q->R))->(Q->(P->R))	(Permutation)
+
+ (1)  Q->(P->Q)                                                       Ax. 1
+ (2) (Q->(P->Q))->((P->(Q->R))->(Q->(P->Q)))                          Ax. 1
+ (3) (P->(Q->R))->(Q->(P->Q))                                         MP 2,1
+ (4) ((P->Q)->(P->R))->((Q->(P->Q))->(Q->(P->R)))                     Th. Prefixing
+ (5)_(((P->Q)->(P->R))->((Q->(P->Q))->(Q->(P->R))))->(((P->(Q->R))->((P->Q)->(P->R)))->((P->(Q->R))->((Q->(P->Q))->(Q->(P->R)))))_Th._Prefixing
+ (6) ((P->(Q->R))->((P->Q)->(P->R)))->((P->(Q->R))->((Q->(P->Q))->(Q->(P->R))))   MP 5,4  
+ (7) (P->(Q->R))->((P->Q)->(P->R))                                    Ax. 2
+ (8) (P->(Q->R))->((Q->(P->Q))->(Q->(P->R)))                          MP 6,7
+ (9) ((P->(Q->R))->((Q->(P->Q))->(Q->(P->R))))->(((P->(Q->R))->(Q->(P->Q)))->((P->(Q->R))->(Q->(P->R))))  Ax.2
+(10) ((P->(Q->R))->(Q->(P->Q)))->((P->(Q->R))->(Q->(P->R)))           MP 9,8
+(11) (P->(Q->R))->(Q->(P->R))                                         MP 10,3
+
+Theorem 3.1:
+
+	(P->Q)->((Q->R)->(P->R))	(Suffixing)
+
+(1) (Q->R)->((P->Q)->(P->R))                                  Th. Prefixing
+(2) ((Q->R)->((P->Q)->(P->R)))->((P->Q)->((Q->R)->(P->R)))    Wolf. Permutation
+(3) (P->Q)->((Q->R)->(P->R))                                  MP 2,1
+
+Theorem 3.2:
+
+	P->((P->Q)->Q)     (Assertion)
+
+(1) ((P->Q)->(P->Q))->(P->((P->Q)->Q))    Wolf. Permutation
+(2)  (P->Q)->(P->Q)                       Th. Identity
+(3)  P->((P->Q)->Q)                       MP 1,2
+
+Theorem 4:
+
+	(P->(P->Q))->(P->Q)	(Contraction)
+
+(1)  P->((P->Q)->P)                                 Ax. 1
+(2) (P->((P->Q)->P))->((P->(P->Q))->(P->P))         Ax. 2
+(3) (P->(P->Q))->(P->P)                             MP 2,1
+(4) (P->(P->Q))->((P->P)->(P->Q))                   Ax. 2
+(5) ((P->(P->Q))->((P->P)->(P->Q)))->(((P->(P->Q))->(P->P))->((P->(P->Q))->(P->Q)))  Ax. 2
+(6) ((P->(P->Q))->(P->P))->((P->(P->Q))->(P->Q))    MP 5,4
+(7) (P->(P->Q))->(P->Q)                             MP 6,3
+
+
+Ja, wenn ich elegant s a g e, dann m e i n e ich auch elegant. ;-)
+
+
+(Der schwierigste Beweis oben, ist der Beweis für "Permutation"; dieses
+ Theorem wurde -von A1 und A2 ausgehend- erstmals von Clausjürgens und Deis
+ bewiesen.)
+
+
+A.

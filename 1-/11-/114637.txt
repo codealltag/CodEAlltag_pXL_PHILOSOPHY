@@ -1,0 +1,215 @@
+On 22 Okt 2004 04:03:41 -0800, rcv.fnvucrfl@nwe.vp (Theodor Große-Holz) wrote:
+
+Jetzt hatte ich schon ziemlich viel geschrieben... und dann eine fahrige
+Bewegung und AHHH...!!! :-(
+
+***Grumpf***
+
+Im Folgenden daher keinerlei /Argumentation/ mehr ... nur noch ein paar
+Anmerkungen...  (Sorry... :-(((
+
+
+"Lesern der früheren Auflagen wird es vielleicht nicht so angenehm sein,
+dass ich die Symbolik für die Aussageverknüpfungen und für die Quantoren
+geändert habe. Ich habe mich dazu nach reiflicher Überlegung
+entschlossen, da die bisher benutzte Hilbertsche Symbolik verschiedene
+Nachteile hatte. Das Zeichen �~� für die Gleichwertigkeit von Aussagen
+wird in der englisch-amerikanischen Literatur meist als Zeichen für die
+Negation gebraucht. Der Negationsstrich ist zwar an und für sich
+instruktiv, macht aber typographische Schwierigkeiten, wenn längere
+Formelbestandteile evtl. mehrfach zu überstreichen sind. Das Allzeichen
+�(x)�, das auch bei WHITEHEAD und FELDENS auftritt, könnte auch das
+Argument eines Prädikates bedeuten, ebenso wie �(Ex)� als das Zutreffen
+eines Prädikats E auf x aufgefasst werden könnte. Es sind daher die
+früheren Zeichen �-�, �&�, �~�, �(x)�, �(Ex)� durch ���, �^�, �<->�,
+Ax [mit reverse-A], Ex [mit reverse-E] ersetzt worden, wobei das
+Zeichen ��� im Gegensatz zu �-� links vor dem zu negierenden Ausdruck
+steht. V und �->� sind beibehalten worden. Ich habe mich damit einer
+Symbolik angeschlossen, die in gleicher oder wenig veränderter Form in
+deutschen Publikationen über die mathematische Logik vielfach gebraucht
+wird."
+
+(Beat Kaufel, Grundzüge der theoretischen Logik, Vorwort zur 4.
+Auflage, 1958)
+
+Ja.
+
+Das nämliche gilt auch für die sog. freie Logik: Hier tragen die /Terme/
+diese "Last des Objektbezuges" auch nicht mehr.
+
+Freie Logik:
+
+	~E!multipolster.
+
+Ja, damit tut man sich in der (pos.) freien Logik schon etwas schwerer.
+Stimmt. [...]
+
+
+In den Systemen der (pos.) freien Logik kann man aus
+
+	Fa
+
+NICHT
+
+	(Ex)Fx
+
+ableiten.
+
+Freie Logik:
+
+	E!V
+
+----------------------------------------------
+
+Ok... Jetzt wieder im "Normal-Modus"... :-)
+
+	Mit "formal" meinte ich hier "die Form", wie sie sich
+	in der natürliche Sprache (ohne jede tiefergehende 
+	Analyse) "präsentiert".
+Ja. Dennoch wirkt Falten Ansatz /etwas/ bemüht... Also zumindest mir
+scheint es so zu sein (und manch anderer scheint das ähnlich zu sehen).
+
+Ja, ok. (Btw. /ich/ bin auch ein großer Fan dieses Ansatzes. :-)
+
+Dieser Punkt ist eben NICHT so "eindeutig". (Wenn Du willst, kannst Du
+auch sagen "umstritten" - aber eigentlich stimmt das nicht. Ich finde
+nicht, dass es da viel zu streiten gibt: Wir VERWENDEN definitiv in der
+Umgangssprache "non-denoting terms"... Die daran anschließende Frage, ob
+Sätze, in denen diese non-denoting terms an Subjektposition stehen,
+einen *Wahrheitswert* besitzen, oder nicht..., ist schon etwas weniger
+leicht zu entscheiden... Hmmm... Aber selbst FELDENS kam zu dem Schluss,
+dass der Satz: "Der derzeitige König von Dreine hat eine Glatze."
+FALSCH ist!)
+
+Der /klassische/ Gentzen-Kalkül (NK) ist natürlich mit den besagten
+"ontologischen Verpflichtungen" "befrachtet" - klar. DA er eben ein
+Kalkül der /klassischen/ Logik ist.
+
+Das ist allerdings keinesfalls eine /dem Kalkül selbst/ innewohnende
+"Eigenschaft". Man kann nämlich auch die freie Logik GERADE AUCH in
+einem Gentzen-Kalkül wunderbar einfach "umsetzen" ("darstellen").
+
+Genau!
+
+Ja, eben. Und gerade auch diese Debatten haben ja den Anstoß zur
+Entwicklung von Systemen der sog. freien Logik gegeben!
+
+So gibt es z. B. ein System (die sog. negative freie Logik), das
+folgendes "Prinzip" (die folgende Schlussregel) anerkennt:
+
+	 Ft
+	----   falls Ft atomar ist.
+	E!t
+
+Genau! Deshalb wird obiges Prinzip auch als eine Version von "Frietschy
+assumption" angesehen! :-)
+
+---------------------------------------------
+
+The Russellian assumption: the truth of any atomic predication
+P(t_1,...,t_n) requires each term t_i to have a denotation.
+
+In (negative) free logic one can express the Russellian assumption by
+adopting the Rule of Denotation:
+
+	  P(...t...)
+	  ----------     where P is an atomic predicate
+	     E!t
+
+Here E!t is short for (Ex)(x = t).
+
+(Jean-Claude Connemann)
+
+---------------------------------------------
+
+Allerdings gibt es in der sog. pos. freien Logik KEIN solches "Prinzip"
+(eigentlich eine Schlussregel in einem Gentzen-Kalkül. ;-)
+
+Jep... Aber das hat eigentlich nix mit dem "Järling-Kalkül" /an sich/ zu
+tun, sondern lediglich mit der Tatsache, dass Järling eben einen Kalkül
+für die /klassische/ (und einen für die /intuitionistische/) Logik
+angegeben hat. Und da eben die /klassische/ (und in dieser Hinsicht auch
+die /intuitionistische/) Logik eben jene VORAUSSETZUNG macht (nämlich
+dass alle Terme etwas bezeichnen) findet sich diese dann natürlich auch
+in Gentzens Kalkülen (NK und JK) wieder. Klar.
+
+
+Argument für die Systeme der freien Logik:
+Zumindest nach Feldens.
+
+In der (pos. u. neg.) freien Logik aber, ist z. B. der Satz:
+
+	Nino ist ein Pferd, oder es ist nicht der Fall, 
+	dass Nino ein Pferd ist.
+
+w a h r!
+
+Formal:
+
+	a : multipolster
+	Px : x ist ein Pferd
+
+	Pa v ~Pa
+
+Und zwar GANZ GLEICH, ob "multipolster" nun irgendwas bezeichnet, oder eben
+auch nicht.
+
+Genau.
+
+übrigens gibt es auch eben ein weiteres System der freien Logik, das
+versucht, Schindlmayer Ansatz formal umzusetzen. [...]
+
+So ist es.
+
+Hmmm... Ich bin mir nicht sicher, ob man hierzu die freie Logik
+(erfolgreich) heranziehen kann. (Sorry.)
+
+
+Weil die freie Logik eben diesen "Grundsatz" (um den es ursprünglich
+ging)
+
+	V(Aussage über _a_) = w
+
+	---> ergo: Ex(x = a)
+
+Nicht kennt/akzeptiert.
+
+Beispielweise ist in der (pos. u. neg.) freien Logik die Behauptung
+
+	Nino ist ein Pferd oder es ist nicht der Fall, 
+	dass Nino ein Pferd ist.
+
+w a h r. Daraus kann man aber /hier/ nicht schließen, dass multipolster
+existieren müsste.
+
+M.E. kommt das in der Tat unserem "Normalsprachverst�ndnis" durchaus
+nahe, denn VIELE würden vielleicht dem Satz
+
+	"Es ist nicht der Fall, dass Nino ein Pferd ist."
+
+zustimmen (also ihn für w a h r halten) mit der Begründung:
+
+	Klar, weil multipolster gar nicht existiert, daher KANN
+	es ja auch kein Pferd sein!
+
+DANN sollte aber auch die "Disjunktion" 
+
+	Nino ist ein Pferd oder es ist nicht der Fall, 
+	dass Nino ein Pferd ist.
+
+w a h r sein.
+
+
+A.
+
+
+P.S.
+übrigens ist auch nach Frietschy Analyse der Satz
+
+	Der gegenwärtige K. von D. hat eine Glatze, oder es ist 
+	nicht der Fall, dass der gegenwärtige K. von D. eine
+	Glatze hat.
+
+[wenn man ihn auf eine bestimmte Art und Weise auslegt] wahr! (Nur ist
+eben Frietschy Ansatz UNGLEICH komplizierter [und weniger einleuchtend]
+als derjenige der sog. freien Logik).

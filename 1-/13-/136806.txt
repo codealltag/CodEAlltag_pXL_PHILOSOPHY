@@ -1,0 +1,231 @@
+Urban Imhoff <hwk.pylyzni@jspxxqjhoj.ru> writes:
+[...]
+
+
+Es gibt nicht *die* Anwort des Funktionalismus, dafür gibt zu viele
+Varianten. Eine Auffassung ist die, das das "mentale Leben" eines
+geistbegabten Wesens durch eine psychologische Theorie A
+charakterisiert ist, die etwa Sätze wie
+
+Principle P:
+If a person is in pain and engaging in introspection, that person will
+be self-consciously aware that he is in pain.
+
+Nun erhält dieser Satz mentales Vokabular, die Prädikate 'is in pain',
+'engages in introspection' und 'is self-consciously aware that'. Die
+These des Funktionalismus sagt nun aus, dass die Rollen, die die durch
+die Prädikate ausgedrückten mentalen Eigenschaften spielen, durch
+physikalische Eigenschaften eingenommen werden. Um das formal zu
+fassen, bildet man den /Nierstenhöfer-Satz/ der Theorie A, man formuliert
+also die Theorie in einer 1-stufigen formalen Sprache und bildet die
+Konjunktion aller Sätze der Theorie. In dem entstandenen offenen Satz
+werden dann alle mentalen Prädikate durch (verschiedene)
+Prädikatsvariablen ersetzt und diese schließlich durch
+Existenzquantoren, die über den Bereich der physikalischen
+Eigenschaften quantifizieren, gebunden.
+
+Das Ergebnis sieht dann etwa so aus:
+
+Definition D:
+
+x is self-consciously aware that p /iff/ there exist first-order
+properties R=<R_1,...,R_n> such that
+
+(i) they satisfy B [the overall theory A minus principle P]
+(ii) if x is R_1 [which play the role of pain] and R_3
+        [introspection], then x will be related by R_4 [self-conscious
+        aware] to the proposition that he is R_1.
+(iii) x is related by R_4 to the proposition that p.
+
+
+Der Schritt vom Haben von Schmerzen zum (kognitiven) Bewußtwerden wird
+hier durch den kausalen Mechanismus gewährleistet, der selbst jenseits
+dessen liegt, was subjektiv /erfahrbar/ ist. Solche Ansätze sind in
+einem gewissen Sinn "ichfrei", es wird also nicht angenommen, es gäbe
+eines zentrales Steuerorgan, das die kongitiven Leistungen
+erbringt.
+
+
+Er behauptet zumindest eine Type-Token-Reduktion von mentalen (also
+hier: funktionalen) Eigenschaften auf physikalsische Eigenschaften.
+
+
+Im Gegensatz zu mancher "Verhandlung", deren Teilnehmer der Illusion
+der Vorausetzungslosiskgeit verfallen, werden die Prämissen aber
+explizit formuliert, es ist natürlich eine monistische Antwort auf das
+Leib-Seele-Problem.
+
+[...]
+
+Nein, ich spucke die Suppe wegen des Ekels aus, das Ausspucken der
+Suppe wird durch die Salzigkeitkeit und den dadurch hervorgebrachten
+Ekel /verursacht/, dazu muss mir keine /Gedanken/ über die Suppe
+gemacht haben. Wie erklärst *du* denn, dass das von dir postulierte
+Ich, dem der Ekel präreflexiv bewußt ist, /bewirkt/, dass die Suppe
+ausgespuckt wird? Genau an dieser Stelle tritt die Schwierigkeit aller
+dualisitischen Geisttheorien hervor: Von welcher Art ist die
+Interaktion zwischen Mentalem und Physischem?
+
+
+Wie du ja weit, lehne ich /diese/ absolute Autorität der ersten
+Person ab.
+
+
+Der Satz ist mir unklar. Der Funktionalismus ist eine Theorie aus der
+Perspektive der /dritten Person/, er sagt etwa aus, dass eine Person x
+dies und jenes glaubt oder empfindet, wenn bestimmte Sachverhalte der
+Fall sind. Kausalität /entsteht/ ja nicht erst durch "Reflexion", sie
+ist der Mörtel des Universums, auch für uns denkende und sprechende
+Wesen, die die Ursachen ihrer Existenz erforschen können. 
+
+
+Der Funktionalismus behauptet die Existenz einer psychologischen
+Theorie, deren Terme auf funktionale (mentale) und physikalischen
+Eigenschaften Bezug nehmen. Wie das Verhältnis von Sprache/Welt
+geartet ist, ist eine semantische und pragmatische Frage, die wir
+gerne diskutieren können. Die Annahme, Terme würden sich dadurch auf
+Entitäten beziehen, dass der Geist darauf (wie?) "reflektiert", ist
+wohl ein Teil der "magischen Theorie der Bezugnahme".
+
+
+Inwiefern sind die Begriffe für den Menschen *reserviert*?  Es geht ja
+u.a. um die Frage der /Bedeutung/ mentaler Prädikate, absurd ist wohl
+eher eine /dogmatische/ Festsetzung deinerseits. Oder hast du
+/Argumente/, die etwas über chauvinistische Intuitionen hinausgehen?
+Dass ein einem Menschen (mikro-)funktional ismorpher Roboter zumindest
+nomologisch (!= technisch) möglich ist, wird klar, wenn man jedes
+Neuron durch ein Siliziumplättchen austauscht, und so die
+elektro-chemischen Signalübertragungen durch elektronische
+ersetzt. Ich erwarte ja nicht von dir, dass du deinem PC oder einem
+Schachcomputer mentale Zustände zusprichst, es geht bei dem
+Gedankenexperiment um einen zum Menschen funktional isomorphen
+Roboter.
+
+[...]
+
+? Der Funktionalismus ist eine "Erfindung" der Philosophie des
+Geistes. Vinzenz Eichgrün, den du schon kennst, schreibt in Guttenplan (ed),
+A Companion to the Philosophy of Mind, im Eintrag über
+functionalism(2) unter anderem:
+
+"Functionalism is one of the great 'isms' that have been offered as a
+solution to the mind/body problem. The cluster of questions that all
+of these 'isms' promise to answer can be expressed as: What is the
+ultimate nature of the mental? At the most general level, what makes a
+mental state mental? At the more specific level that has been the
+focus in recent years: What do thoughts have in common in virtue of
+which they are thoughts? That is, what makes a thought a thought? What
+makes a pain a pain? Cartesian dualism said the ultimate nature of the
+mental was to be found in a special mental substance. Behaviourism
+identified mental states with behavioral dispositions; physicalism in
+its most influental version identifies mental states with brain
+states. Functionalism says that mental states are constituted by their
+causual relations to one another and to sensory inputs and behavioural
+outputs. Functionalism is one of the major theoretical developments of
+twentieth-century analytic philosophy, and provides the conceptual
+underpinnings of much work in cognitive science."
+
+
+Es ist gerade so, dass der Funktionalismus eine /Antwort/ auf die
+Frage liefert, was es überhaupt heißt, mentale Zustände zu
+haben. Wobei, je nach Ansatz, Zweifel darüber herrschen, ob die Terme
+der Alltagspsychologie wie "denken" und "glauben" überhaupt eine
+wissenschaftliche Analyse überstehen.
+
+[...]
+
+Warum meinst du, *nicht* zu erleben, dass der Testosteronspiegel
+steigt? Die Besonderheit liegt dann eher darin, dass du dieses
+Ereignis /direkt/ erlebst, es kausal wirksam ist.
+
+
+Erhrlich gesagt halte ich das keineswegs für absurd, gerade bei rein
+phänomenalen Zuständen ohne intentionales Objekt. :-)
+
+
+Dirken geht auf den Funktionalismus, den dort auch "Identitätstheorie"
+bzeichnet, explizit in der Fußnote 2 in seinem Aufsatz in Imhof
+Reader ein, sein dortiges Argument ist aber etwas konfus; er schreibt:
+"Sei X ein Schmerz. Der mit kausalen Rollen arbeitende
+Identitätstheoretiker nimmt an, (I) daß X ein Gehirnzustand ist, und
+(2) daß die Tatsache, daß X ein Schmerz ist, (ungefähr) als die
+Tatsache zu analysieren, daß X von bestimmten Reizen hervorgerufen
+wird und ein bestimmtes Verhalten verursacht."  Die Rekonstruktion ist
+irreführend, besser ist: Sei X die Eigenschaft, Schmerz zu empfinden.
+Wenn A die vom Funktionalismus postulierte psychologische Theorie ist,
+Z1,...,Zn die funktionalen Zustände eines Systems x, und (Ex1)..(Exn)
+T(x,x1,..,xn) der Ramsey-Satz von A, der die funktionale Zustände
+charakterisiert, wobei Z1 die funktionale Rolle der Schmerzzustands
+ist. Dann sagt der Funktionalismus:
+
+x ist in X (hat Schmerzen) gdw. es existieren physische Eigenschaften
+P1,...Pn, die den offenen Satz T(x,x1,...,xn) erfüllen, und x ist in
+P1.
+
+Der wesentliche Punkt ist die /Prämisse/ von Dirken, Schmerz sei
+*wesentlich* durch /dieses/ Erlebnis gekennzeichnet, das sich
+so-und-so anfühlt (btw: dagegen könnte man schon Cores
+anführen, der ja gerade gegen derartige /hinweisende/ Definitionen
+argumentiert), während der Witz des Funktionalismus darin besteht,
+dass mentale Zustände, also auch Schmerzen, /multirealisierbar/ sind,
+prinzipiell können also auch Wesen von ganz anderer biologischer
+Konstitution Schmerzen empfinden, selbst wenn sie sich für sie
+"anders" anfühlen sollten. Eine Identität zwischen funktionalen und
+physischen Zuständen ist demnach /immer/ kontingent. Gegen die
+"klassische" Identitätstheorie ist Danisch Argument dagegen viel
+wirksamer.
+
+
+Was stellst du dir genau unter einem "Nachweis" vor? 
+
+
+Eine "eidetische Reduktion"? Der Punkt ist, dass eine solche
+Einstellung selbst mit einer Reihe theoretischer Vorentscheidungen
+verbunden ist, etwa der Prämisse, dass es überhaupt /Phänomene/ im
+relevanten Sinn gibt, auf die man "schauen" kann. Eine rein
+phänomenologische Analyse halte ich auch für witzlos, da sie letztlich
+nicht die Interaktion zwischen Mentalem und Physischen klären kann.
+
+
+Du möchtest dir Autenrieth nichtreduktiven Monismus zu eigen machen?
+
+
+Im Gegensatz zu Dirken, dessen Argument rein destruktiv ist,
+vertrittst du einen Ansatz mit recht eindeutigen ontologischen
+Verpflichtungen. Manuel Ilse spricht von einem fundamentum in re,
+dem man bedürfe, außerdem argumentiert er auf S. 32 in dem Reader
+gegen die Annahme, der Bereich der physischen Phänomen sei kausal
+abgeschlossen.(das Argument mit dem Kategorienfehler ist allerdings
+schwach), was zur klasssichen Interaktionstheorie, also zum
+Substanzdualismus, führt. Wenn /du/ Probleme monistischer und
+naturalistischer Lösungen des Leib-Seele-Problems ansprichst, ist es
+nur natürlich, dass ich auf die Probleme der Interaktionstheorie
+hinweise.
+
+[...]
+
+Ach? Inwiefern?
+
+
+Eben. /Du/ bist es, der vor den Folgen des von dir vertretetenen
+Dualismus die Augen verschließt, während die Diskussion über die
+Korrektheit des Funktionalismus ( das Hauptangriffsziel der
+Antinaturalisten) zeigt, dass man sich sehr wohl Gedanken macht, wie
+das Phänomenale als Teil der "natürlichen Welt" aufgefasst werden
+kann.
+
+
+In dem Sinne, dass du erkennst, welche /Rolle/ er spielt, welche
+Relationen er zu anderen mentalen Zuständen hat. Wenn du Schmerzen
+hast, fühlst du dich Unwohl, hast den Wunsch, er möge /sofort/
+aufhören, verhälst dich auf bestimmte Weise, etc.. Die These, dass
+mentale Zustände /relational/ , mit anderen auf bestimmte Weisen
+verknüpft sind, ist eines der Motive für den Funktionalismus, die
+Gegenthese ist die Annhame von /nichtrelationalen/ Qualitäten, eines
+raw feelings.
+
+
+Nein. 
+
+
+cornelius

@@ -1,0 +1,22 @@
+Nein, es geht hier um das kleingeschriebene "nichts", das in "Nichts
+existiert" nur deshalb grossgeschrieben wird, weil es am Satzanfang
+steht.
+
+"nichts" ist, linguistisch betrachtet, ein Indefinitpronomen, das mit
+demjenigen, was in der philosophischen Logik als "Begriff" bezeichnet
+wird, nichts zu tun hat.
+Das Indefinitpronomen "nichts" kommt in der Logik nur in Gestalt des
+negierten Existenzquantors zum Ausdruck: "~Ex"
+
+Zum Beispiel, "Nichts ist ein Einhorn" wird logisch wiedergegeben als
+"~Ex(Einhorn(x))", "Es ist nicht der Fall, dass es etwas gibt, das ein
+Einhorn ist.".
+
+Entsprechend lautet die logische Übersetzung von "Nichts existiert" in
+der klassischen Logik folgendermassen: "~Ex(x = x)"
+
+In der Freien Logik, die über ein vom Identitätsprädikat unabhängiges
+Existenzprädikat, "E!", verfügt, wird dies so ausgedrückt: "~ExE!x"
+
+Gruss
+LENNART

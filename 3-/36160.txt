@@ -1,0 +1,41 @@
+Traditionelle Logik "im Sinne letztlich" der Quantorenlogik ist 
+simple mathematische Trivia. Kinderkram, da gibts nix zu verstehen, 
+und solche alltäglichen Anwendungen wie SQL beherrscht heut jeder 
+halbwegs gesunde Grundschüler. Mathematisch anspruchsvoll sind 
+erst mehrwertige Logiken, wie z.B. Fuzzy-Logik in der ich früher 
+einiges gearbeitet hatte. 
+
+Und deine klassische sprachliche Formulierung der üblichen Logik 
+ist nix weiter als die Anwendung einiger weniger naheliegender 
+(Aus-)Schlussregeln wie die vom ausgeschlossenen Dritten, der 
+einfach nur besagt, dass die verwendete Logik zweiwertig ist, 
+deren Funktionswerte also genau zwei einander ausschliessende 
+(Wahrheits-) Werte {wahr, falsch} sind und deren wenige 
+Verknüpfungen NICHT (!w=f,!f=w), UND (wuw=w,wuf=f,fuf=f,fuf=f), 
+ODER (wow=w,wof=w,fof=wf0f=f). 
+
+Klar, die hemmungslose freie Phantasie hat uns unzählige Märchen-
+bücher geschenkt, deren sinn- und nutzlosen Inhalt man ohne Hilfe 
+erst später im Leben als Schwachsinn erkennt, so wie Hochgrefe.
+
+Wiki: 
+"Das Bivalenzprinzip steht mit anderen Fragestellungen in Verbindung, 
+vor allem mit metaphysischen oder mit sprachwissenschaftlichen Fragen. 
+
+Ein Beispiel wäre die metaphysische Frage, ob die Wirklichkeit 
+adäquat durch zweiwertige Logik beschrieben werden kann, ob also ein 
+metaphysisches Bivalenzprinzip gilt – ob es eine absolute Wahrheit gibt. 
+
+Solche Fragen werden in der Wissenschaftstheorie und Sprachphilosophie
+behandelt. Die Korrespondenztheorie der Wahrheit geht von einer objektiven,
+absoluten Wahrheit aus und bejaht eine solche metaphysische Idee, während
+die Kohärenztheorie Wahrheit als subjektive gesellschaftliche Konstruktion
+versteht, die nur relativ zum sozialen Standort des Betrachters existiert."
+
+Welch eine verblödete und verblödende Trivia, bestenfalls, und Stuss...
+
+
+Ich habe keinen und will auch keinen, mir reicht die übliche QFT.
+
+
+Und dann brauchst du ja nicht gelehrt über diesen Scheiss rumzuqatschen.

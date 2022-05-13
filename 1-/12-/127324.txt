@@ -1,0 +1,88 @@
+Olaf Holloh <djxtkdjkxxdSTMFQOR@mzivipq.xo> (30. Juli 2003 23:33):
+
+[...]
+
+Sofern jedes Wort auch nur einmal ausgesprochen würde.
+Wir aber versichern wir uns bei mehrmaligen Gebrauch der "Gleichheit der 
+Zeichen und Worte"? Zugegeben, ein explizites Gleichheitszeichen scheint 
+da nicht benutzt. In "P ==> p" kommen fünf Zeichen vor: "�", "�", "p", 
+"p", "=>". Da "�" und "�" oder "p" und "p" von *identischem* 
+Buchstabentyp sind, unter *denselben* 'Begriff' fallen, dieses Vernehmen 
+und Verstehen muß für allen regelgeleiteten logischen Zeichengebrauch 
+schon vorausgesetzt werden; auch natürlich für die Formel "x=x".
+
+Man könnte vielleicht sagen, logische Subjektivität muß sich /erinnern/ 
+können -- sonst "ist" keine. Man könnte vielleicht sagen, "x=x" ist die
+jetzt ausdrückliche (zur räumlichen Figur vergegenständlichte)
+Versicherung der Logikteilnehmer:  "Ja, /erinnern/ ist möglich!"
+
+
+Warum nennst Du es das "zentrale" Axiom. Ohne die Ersetzungsregel (wenn
+x=y, kann (unter gewissen Auflagen) jedes "x" durch "y" ersetzt werden)
+nützt 'x=x' doch gar nichts?
+
+Aber ich habe jetzt mal ein Beispiel gefunden, wie 'x=x' gebraucht wird:
+(Axiom) x=x
+Ersetzungsregel: ...
+
+Beweis von x=y ==> y=x:
+
+x=y  (Beweisannahme)
+x=x  (Axiom)
+y=x  (Ersetzungsregel)
+
+
+Ich frage mich nur, worin diese "fundamentale Einsicht" eigentlich besteht.
+Wenn sich gewisse (evident erscheindenden) normalsprachlichen Sätze
+formallogisch nur unter Einbeziehung der Identitätsformel "nachstellen" 
+lassen, was sagt uns das nun? Ich meine, was sagt uns das über "die Welt"
+oder über unser "In-der-Welt-Sein"?
+Offenbar kann man Identität nicht zirkelfrei nochmal definieren oder 
+erklären, es gibt keinen logischen Standpunkt außerhalb derselben.
+(Wie umgedreht natürlich die Auskunft "Zirkel!" wiederum Logik benutzt, 
+nicht außerhalb der Logik steht.)
+
+Sagen wir es vielleicht mal so:
+Aller logischer Zeichengebrauch setzt (als Gleichheit von Zeichen)
+Identifizierenk�nnen voraus. Wenn die Logik nun Identität explizit
+unter ihre "Zeichenfiguren" aufnimmt, dann fängt sie an, eine ihrer 
+Voraussetzungen /auch/ zu ihrem Gegenstand zu machen 
+/(ganz/ geht nicht, wegen der Unmöglichkeit des äußeren Standpunktes).
+
+Wenn Identifizierenk�nnen "gleicher" Zeichen etwas mit Erinneren zu tun 
+hat, fängt sie in diesem Moment also an, auch /über/ Zeit zu sprechen?
+(Nur so ein Gedanke)
+
+
+Das klingt fast schon dialektisch; außer der Schluß natürlich, Identität 
+als "absolute Indifferenz" ist natürlich dann grobfalsch. ;-)
+
+
+Ich habe, das ist vielleicht etwas mißverständlich rübergekommen, nicht 
+den Begriff der Identität verabschieden wollen, ganz im Gegenteil, ich 
+möchte ihn besser verstehen. (Ich fühle mich von Identitäten umzingelt und 
+werde ihrer nicht Herr.) Meine etwas provokante Frage, ob auf die Figur 
+"x=x" nicht überhaupt verzichtet werden könnte, war auch in der Hoffnung 
+gesagt, eine Stelle gezeigt zu bekommen, wo sie unverzichtbar ist.
+Um dann nachzuschauen, was dort stattfindet.
+
+
+[...]
+
+Stimmt, kann man wirklich nicht. :-)
+
+
+Da kommt ein bißchen auf die Definition an. Wenn Tautologie := 
+'nichtssagende Wahrheit', dann ist eine belangvolle Tautologie 
+unmöglich. Wenn Tautologien belangvoll, wenn sie etwas sagen, wäre 
+natürlich interessant auch zu erfahren, was?
+
+Das Belangvolle, ja absolut Abgründige an Tautologien ist für mich, daß 
+sie "dasselbe" Zeichen immer mindestens zweimal bemühen müssen.
+Selbigkeit läßt sich anscheinend immer nur qua Zweiheit 'denken', 
+Einssein nur via Zweisein. 'Denken' heißt hier soviel wie 'zum Gegenstand 
+machen'. Das muß etwas aussagen über 'Denken'.
+
+
+Größe
+Veit

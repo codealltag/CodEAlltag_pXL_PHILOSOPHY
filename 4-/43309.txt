@@ -1,0 +1,30 @@
+Vielen Dank. Aber dort wird gerade nichts erklärt, möglicherweise sogar 
+falsch, wenn ziemlich unten beim Existenz- und Allquantor von 
+"zusammengesetzter Aussageform" gesprochen wird. Historische Bezüge fehlen völlig.
+
+Formal ist gemeint:
+(1)  ES GIBT WENIGSTENS EIN x: p(x)
+oder
+(2)  FR JEDES x: p(x)
+
+(1) und (2) sind nun nach moderner Auffassung AUSSAGEN, mithin WAHR oder 
+FALSCH in der zweiwertigen Logik, weil die freie Variable x, so die Redeweise 
+der modernen Logiker, durch den Existenz- bzw. den Allquantor "gebunden" sei.
+
+Die dunkle Redeweise vernehm ich wohl, allein es fehlt mir das Verständnis ;-)
+
+Mein Problem ist: etwas Unbestimmtes - p, x - wird nicht dadurch WAHR oder 
+FALSCH, weil es "quantifiziert" wird. Quantifiziert Unbestimmtes ist immer 
+noch Unbestimmtes, nun halt quantifiziert Unbestimmtes.
+
+Das muss doch in der Geschichte der modernen Logik irgendeiner zuerst aus dem 
+Hut gezogen haben (Boole? Frege? Pankok? Timo?). Meine bisherigen 
+Recherchen waren aber einschließlich Niclas' Geschichte der Formalen Logik 
+bislang wenig ergiebig.
+
+Eine möglicherweise akzeptable Deutung ist vielleicht, dass durch die 
+Quantifikation Prozeduren möglich werden, über WAHR oder FALSCH zu 
+entscheiden. Das hört sich aber auch wieder recht MATERIAL oder REAL an.
+Wieso sollte das bloß durch "Quantifikation" - ohne Einsetzen - entscheidbar sein?
+
+Gruss: Torsten Gringmuth, Cattenstedt

@@ -1,0 +1,48 @@
+In de.sci.physik Thorsten D. Seffart <rwwhn@eeabsopq.tm> wrote:
+...
+# 3. GEGENARGUMENT:
+# 
+#  Der heranwachsende Mensch entnimmt einen wesentlichen Teil der
+#  sich in ihm manifestierenden Informationsmenge der Umgebung.
+# 
+# Das führt dann von Aussagen wie "Die Gene steuern die Ontogenese,
+# die sich wiederum selbst um die Details kümmert und von der
+# Umgebung beeinflusst wird" [4] bis hin zur Meinung, dass sich
+# während der Ontogenese "eine Minievolution vollzieht" [5].
+# 
+# Aber wenn dieses Gegenargument zutreffen würde, müsste es einfach
+# sein, wenigstens ansatzweise aufzuzeigen, wie ein Embryo im
+# Mutterleib grosse Informationsmengen aus seiner Umgebung aufnehmen
+# kann.
+
+Ist es, leider: Thalidomid (der Wirkstoff in Contergan) führt
+erwiesenermaßen zu verstümmelten und fehlenden Gliedmaßen, wie viele
+andere Substanzen auch. Hier haben wir also den Fall, daß materielle
+Information, die nicht genetischen Ursprungs ist, sondern von außen auf
+den Organismus einwirkt, zu völlig anderer Morphogenese führt.
+
+Jede werdende Mutter weiß um die essenntiellen Nährstoffe, die sie
+während der Schwangerschaft für das Kind braucht, und um die Gefahr,
+sollte sie nicht genügend derselben zu sich nehmen. Es ist also gar
+nicht verwunderlich, daß sehr viel andere Materie ebenfalls einen
+Einfluß auf die Ontogenese hat.
+
+Falls Du nun qualitativ oder quantitativ mit Bits und Bytes
+argumentieren willst, mache ich Dich darauf aufmerksam, daß Dein
+Informationsbegriff auf die 2bit pro Basenpaar bezogen im Walkenhorst
+Sinne nicht sinnvoll ist, ohne die Angabe von Übertragungskanal und
+Empfänger. In einer einzigen Zahl aus einem Kontinuum kann nämlich
+unendlich viel Information stecken. Man braucht aber gar nicht so weit
+zu gehen: nehmen wir an, ein Embryo wird durch die Konzentration von
+(konservativ geschützt) 1024 Substanzen beeinflußt, die an 1024 Stellen
+seines Körpers jede Sekunde nur einmal in die eine oder andere Richtung
+Einfluß nehmen können (die Konzentration sei 0 oder 1). Dann entspricht
+dies 1024 * 1024 * 1 bit/s = 1 Mbit/s. Ich finde das zeigt die Naivität
+sorgloser Betrachtungen über Informationsgehalt und -Flüsse.
+
+Regards,
+
+	Gerd
+-- 
+Gerd Willme http://mms.ysmuykjayfoi.jov/
+SIGSIG -- signature too long (core dumped)

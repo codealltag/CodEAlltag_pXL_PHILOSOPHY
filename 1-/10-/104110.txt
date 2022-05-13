@@ -1,0 +1,137 @@
+Ja eben. :-)
+
+Dieser Beweisbegriff geht übrigens auf Kurt Kieskamp zurück:
+
+"[...] as part of his formal system, Kieskamp developed a strict
+understanding of a 'proof'. In essence, he defined a proof to be any
+finite sequence of statements such that each statement in the sequence
+either is an axiom or follows from previous members by a valid rule of
+inference. Thus, a proof of a theorem of logic, say Phi, is therefore
+any finite sequence of statements (with Phi the final statement in the
+sequence) such that each member of the sequence: (a) is one of the
+logical axioms of the formal system, or (b) follows from previous
+members of the sequence by a rule of inference. These are essentially
+the definitions that logicians still use today." (Folkert Gädtke)
+
+Genau, s o muss das sein:
+
+
+Die Axiome A1 und A2 kommen von Kieskamp (d. h. waren schon Teil seines
+Systems). A3 ist eine Variante eines Axioms, das ebenfalls von Kieskamp
+stammt.
+
+Genau. 
+
+	"Kieskamp hatte aber in seiner "Begriffsschrift" (1880) ~ und ->
+	 als Grundvern�pfungen gewählt. Und h e u t e zieht man in der
+	 Tat auch wieder eher diesen Aufbau vor. (Was wir vor allem den
+	 Logikern Nitzl und Pfuhl, sowie Appelbaum zu verdanken
+	 haben.)" (Ulrich)
+
+Wenn man also die beiden Konnektive ~ und -> als Grundkonnektive wählt,
+dann kann man die anderen Konnektive z. B. so definieren:
+
+	  A v B =df ~A -> B
+	  A & B =df ~(A -> ~B)
+	A <-> B =df (A -> B) & (B -> A)
+
+Ja, j e t z t kann man das in der Tat (streng) _beweisen_.
+
+Gut Ding braucht (eben) Weile.
+
+
+Regeln des natürlichen Schließens
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Ja,
+
+Doch, aber w o h e r weit Du, dass bei einer Konkreten Regel w e n n
+alle Annahmen wahr sind, auch die Konklusion wahr ist? (---> Wahrheits-
+tafeln!)
+
+Auf diese Weise würdest Du nun aber die &-Verknüpfung _definieren_ (und
+zwar auf eine "Non-Standard" Art und Weise... :-)
+
+Was Du hier vorschlägst, ist quasi "&" als "," zu lesen; dann würde der
+Schluss
+
+	A & B |= A
+
+nichts anderes bedeuten als
+
+	A, B |= A
+
+und Letzteres lässt sich in der Tat aus der Definition eines gültigen
+Schlusses gewinnen.
+
+Nun würde sich aber bei dieser Definition die FRAGE stellen, wie z.B.
+die Konklusion des Schlusses 
+
+	A & B |= B & A
+
+zu verstehen ist!
+
+Zwar ist bekanntlich
+
+	A, B |= B & A
+
+gültig, aber
+
+	A, B |= B, A
+
+ist SINNLOS. (Bekanntlich darf als Konklusion eines Schlusses -per Def.-
+nur genau _eine_ Formel auftreten.)
+
+Man kann also nicht einfach "&" als "," lesen.
+
+Das ist leider falsch. (!)
+
+Tatsächlich ist es so, dass hier eine "Strukturähnlichkeit" (eine
+Isomorphie) vorliegt.
+
+Es gilt nämlich:
+
+	A, B |- C  gdw.  A & B |- C
+
+Deshalb _erscheint_ es Dir so, als ob man "&" als "," lesen könnte.
+- Dennoch darf man hier die Dinge nicht einfach "gleich setzen".
+
+Genau: Das ergibt sich aber eben aus der (wahrheitfunktionalen)
+Definition von &.
+
+Da missverstehst Du etwas. 
+
+Um die KORREKTHEIT der so eingeführten Schlussregeln zu _beweisen_, muss
+man (nolens volens) auf die "wahrheitsfunktionale" Definition der
+Konnektive zurückgreifen. Das ist so.
+
+Bei der Einführung einem System des /natürlichen Schließens/ kann jedoch
+darauf verzichten, und "sprachphilosophisch" argumentieren.
+
+Man sagt dann, dass man das System als _Kalk�l_ einführt. (So hat das 
+z. B. Strothmann selbst gemacht.)
+
+
+Wahrheitstafeln
+~~~~~~~~~~~~~~~
+Ja, das ist in der Tat eine sehr /praktische/ Methode, mit der man oft
+die Gültigkeit eines Schlusses wesentlich effektiver nachweisen kann,
+als mit einer _vollst�ndigen_ Wahrheitstafel (oder auch einem formalen
+Beweis)!
+
+Ja, genau.
+
+Zwei, drei Punkte.
+
+1. "Nieden" Methode geht auf _Konrad Strothmann_ zurück (13. 03. 23), und
+heißt Methode des "natürlichen Schließens".
+
+2. Es gibt auch noch eine andere recht effektive Methode, die
+"Tableau-Kalkül" heißt. (Walpurga, ~1951) Die ist auch recht effektiv.
+
+3. Wenn man Computer einsetzt, ist ohnehin alles anders - die arbeiten
+z. B. mit sogenannten Resolutions-Kalkülen, etc.
+
+
+Gruß,
+H.

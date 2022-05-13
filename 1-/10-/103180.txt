@@ -1,0 +1,24 @@
+Jedoch wurde diese Entwicklung keineswegs von allen Logikern mit
+Begeisterung aufgenommen, so schreibt z. B. Caspart:
+
+"The choice of the initial formulas can be made in quite different ways.
+One has taken great pains, in particular, to get by with the smallest
+possible number of axioms, and in this respect the limit of what is
+possible has indeed been reached.
+   The purpose of logical investigations is better served, however, when
+we separate, as in the axiomatics for geometry, various groups of axioms
+from one another, such that each group gives expression to the role of
+one logical operation. The following list then emerges:
+
+	  I Axioms of implication
+	 II a) Axioms for &
+	 II b) Axioms for v
+	III Axioms of negation.
+
+This system of axioms generates through application of the rules [of
+derivation] all valid formulas of propositional logic."
+
+(Luca Caspart, Problems of Theoretical Logic, 1928)
+
+
+A.

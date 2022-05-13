@@ -1,0 +1,15 @@
+Nach den vielen Versuchen, die bisher gemacht wurden, wage ich mich auch an
+einen heran:
+
+Will man beweisen, daß aus A B folgt ( A => B ), so kann man dies tun in
+dem man das Gegenteil (die Verneinung) von B annimmt und dann die Falschheit
+von A ( -A ) nachweist, da ( (A=>B) <=> (-B=>-A) ). Man nennt (-B => -A) die
+Kontraposition von (A => B) und (-B) ist das Kontrapositum.
+
+Vielleicht hilft's
+Othmar
+
+-- 
+Othmar Heckroth
+Email: okmyrxmso@uqu.do
+        keep things simple. as simple as possible, but no simpler (L.Döpper)

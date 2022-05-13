@@ -1,0 +1,90 @@
+Das steht inzwischen so im Lexikon, siehe beispielsweise:
+
+https://pufcbo.tnkjvulsv.ymv/qctyxbbjy/qg/orad/Qvyjrufsehgbqogobst#Sfabkgafbkvfzokz
+
+
+Ich hatte kürzlich ja dargelegt, mit welchem Denkmodell ich arbeite.
+Muss ich das wiederholen?
+
+
+Ich nehme niemandem etwas weg. Ich argumentiere eben über Denkmodelle,
+somit positivistisch.
+
+
+Ich will keine transzendenten Schlüsse ziehen. Ich argumentiere ja
+gerade über Wahrnehmung.
+
+
+Nein. Manche kausalen Modelle sind probabilistisch, andere sind
+vorbestimmt. Lies mal den PKPM-Link, den ich oben angegeben habe,
+der drückt eigentlich ziemlich gut aus, wie ich das meine. Und nein, ich
+hab ihn nicht selbst geschrieben ;-)
+
+Das Wort "Determiniertheit" vermeide ich, damit keine Verwechslungen
+aufkommen, und verwende nur "vorbestimmt" und "vorhersagbar".
+
+
+Nun, man kann Radioaktivität zunächst als akausales Phänomen wahrnehmen.
+Allerdings ist das AFAIK nicht Stand der Dinge (wie Du richtig anmerkst,
+bin ich kein Physiker und sicher weiter weg von der Physik als Du,
+weshalb ich hier vorsichtig argumentieren muss, und keinesfalls den
+Anspruch erhebe, dass ich hier korrekte Physik darstelle).
+
+Soweit ich informiert bin, gibt es inzwischen Erklärungsmodelle, /warum/
+manche Atome instabil sind, und man kann eine /Wahrscheinlichkeit/
+angeben, dass ein Atom in einer bestimmten Zeit zerfällt.
+
+Die Physik versucht natürlich (das ist ja gerade ihre Aufgabe),
+*kausale* Modelle zu finden. Das mit der Vakuumfluktuation ist ja auch
+nur ein exotisches Beispiel, wo's mal nicht so ist, und deshalb nenne
+ich es gerne an der Stelle. Ich kenne auch kein zweites Beispiel, kann
+mir aber vorstellen, dass da längsten Physiker an Erklärungsmodellen
+arbeiten, die Akausalität vermeiden. ;-)
+
+
+Es ist nicht dasselbe. Ich unterscheide zwischen echtem Zufall und
+Zufall mit einer Verteilung, die nicht weiss ist. Dann unterscheide ich
+zwischen Ereignissen, die einen Grund haben, und Ereignissen, die
+spontan ohne jeden Grund auftreten.
+
+Ereignisse, die spontan ohne jeden Grund auftreten, und das
+gleichverteilt, nenne ich akausal. Modelle, die solche Ereignisse
+enthalten, nenne ich akausal.
+
+Alle anderen Modelle nenne ich kausal. Unter den kausalen Modellen gibt
+es Modelle, die Zufallsvariablen enthalten.  Diese nenne ich
+probabilistisch. Kausale Modelle, die keine Zufallsvariablen enthalten,
+nenne ich vorbestimmt.
+
+(Vollständige) Vorhersagbarkeit ist eine Eigenschaft von vorbestimmten
+Modellen. Mit Vorhersagbarkeit meine ich, dass es einen Algorithmus zur
+Vorhersage gibt, also zur Berechnung des (exakten) zukünftigen Zustandes
+aus den Zustandsinformationen eines vorherigen.
+
+
+Ich sagte es bereits, und deshalb wundert es mich nicht: Physiker haben
+die Aufgabe, akausale Modelle zu vermeiden, und haben hier wohl schon
+weiter gearbeitet ;-) Es bleibt das Kriterium des echten Zufalls,
+übrigens. AFAIK verwenden Physiker denselben als Kriterium für
+Indeterminismus, und verstehen darunter etwas ähnliches wie Akausalität
+insofern, dass Indeterminismus bedeutet, dass Zufallsereignisse weiss
+sind (egal, ob man einen Grund für sie in einem interpretierenden Modell
+hat oder nicht).
+
+Bildet man die Begriffe auf diese Weise, so sind die akausalen Modelle
+eine Teilklasse der indeterministischen Modelle.
+
+Das mag für Physiker praktisch sein. Ich bin eher den
+Nichtdeterministmus aus der Informatik gewohnt. Und der kommt eben nur
+bei kausalen Modellen vor, und eröffnet eine dritte Klasse der kausalen
+Modelle: solche, bei denen jedes Ereignis Gründe hat, aber man kann
+nicht immer Wahrscheinlichkeiten angeben, wie es zu einem konkreten
+Zustand kommt. Das ist eine Vorstellung aus der Automatentheorie, die
+sehr praktisch in der Argumentation ist, entsprechend verwende ich sie
+gerne.
+
+Viele Grüsse,
+VB.
+-- 
+Wenn Du für eine Leistung nichts bezahlst,
+bist Du nicht der Kunde, sondern die Ware.

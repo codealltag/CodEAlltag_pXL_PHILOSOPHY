@@ -1,0 +1,18 @@
+Ach so, jetzt versehe ich zumindest was du meinst. Allerdings ist ein
+Grenzelement einer Menge nicht die Menge.
+Ob 0 und 1 _zu_ dieser Menge gehören, ist definitionssache. Wenn du alle
+Zahlen in dem Intervall [0;1] nimmst gehören 0 und 1 nicht dazu. Du kannst
+kein grösstes oder kleinstes Element angeben. Im Intervall ]0;1[ allerdings
+schon.
+Du kannst ja auch alle Primzahlen von 1 bis 20 in eine Menge definieren:
+IP = {2,3,5,7,11,13,17,19}
+In dieser Menge sind 2 und 19 die 'Grenzen'.
+(Ausserdem sollte es zwischen 0 und 1 ebenfalls (überabzählbar) unendlich
+viele Zahlen geben.)
+
+--
+Vittorio Ungerbieler (lnzve333@m-vjjifd.au)
+-----------------------------------------------------------
+A Member of the ---> KORNELIA DIEDRICH HERWIK <--- Fanclub Germany
+      since      http://jem.dxhl.we/tru-zlv      11/98
+-----------------------------------------------------------

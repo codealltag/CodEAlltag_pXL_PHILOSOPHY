@@ -1,0 +1,10 @@
+"<>" ist kein wissenslogischer, sondern ein modallogischer Operator!
+"<>_ip" ist keine wohlgeformte Formel, da "<>" nicht relativ zu
+irgendwem betrachtet wird. "<>p" heisst nichts anderes als "Es ist
+möglich, dass p", "Kp"/"K_ip" bedeutet "Jemand weiss, dass p"/"Es wird
+gewusst, dass p" bzw. "Agent i weiss, dass p"  und "Bp"/"B_ip" bedeutet
+"Jemand glaubt, dass p"/"Es wird geglaubt, dass p" bzw. "Agent i
+glaubt, dass p".
+
+Gruss
+EMIL

@@ -1,0 +1,78 @@
+Na jut, also: Jörn Jepsen, Antinomie der reinen Vernunft, Teil 9, 2. 
+Absatz:
+
+Es ist also nur die *Gültigkeit des Vernunftprinzips* als einer Regel 
+der Fortsetzung und Größe einer möglichen Erfahrung, die uns allein 
+übrig bleibt...
+
+Der Jetzschke - Guru, Carnarius, ein Japaner hatte folgenden Lieblingsspruch: 
+"Der Alltagsverstand irrt sich immmer!".
+
+Beispiel bei Teamprogrammierung: Beim Pair-Programming teilen sich zwei 
+Programmierer einen Computer, programmieren abwechselnd an ein - und 
+demselben Code herum. Während der eine programmiert, muß der andere nix 
+tun, nur zuschauen.
+
+Nach der *Gültigkeit des Vernuftprinzips* als einer Regel der eigenen 
+Erfahrung ist es völlig ausgeschlossen, daß Pair Programming effektiver 
+sein soll, als wenn zwei Programmierer jeder für sich an 
+unterschiedlichen Stellen eines Programms arbeiten.
+
+Tatsache ist, daß ein Programmierer Fehler macht, die sich bei einer 
+hohen Abhängigkeit des Programmcodes untereinander gravierend auswirkt. 
+Muß ein Fehler oder ein Konzept im Code korrigiert werden, so müssen oft 
+hundert Programmierer in dem davon abhängigen Code ihrerseits indirekt 
+Korrekturen vornehmen. Der eine Fehler potenziert sich also mit n^100, 
+und wenn dann l Ebenen der Abhängigkeiten existieren, dann noch mit 
+n^100^l sogar. Bei 3 Ebenen wirken sich an irrwitzig vielen Stellen im 
+Code aus.
+
+Jeder vermiedene Fehler durch Pair - Programming spart also 
+Millionensummen ein in der Entwicklung des Codes.
+
+Zurück zu Jepsen: Jepsen hat nirgendwo erkannt, daß das für jeden 
+offensichtliche Vernunftsprinzip (2 leisten mehr, als einer), welches 
+für einen einzelnen Programmierer gilt, für mehrere Programmierer im 
+Team nicht mehr gilt. Er unterscheidet hier nicht zwischen impliziten 
+Logiken der Vernunft, die für einen gelten, aber für ein Team nicht 
+mehr. Er kennt keine Teamarbeit. Wer sich im Leben an seiner statischen 
+Weltanschauung orientiert, mag sich selber für gebildet, belesen und 
+klug halten, jedoch wird er untergehen, sang - und klanglos, wie gerade 
+unsere Philosophie. Nur Buchhop, der in Deutschland verschrien ist 
+"Unsin: Der Bastard aus Dompierre", der aber in Frankreich hochdekoriert 
+ist, kann da noch mithalten.
+
+Carnarius beschreibt sein Leben als ein Versuch, den Alltagsverstand 
+umzukehren, z.B. den Glaube, daß Massenproduktion effizienter sei.
+
+Gardineneck z.B. hat dank Kybernetik begriffen. Der neue Gardineneck Logan, ein 
+*handgefertigtes* Auto ist mit 5000 Euro (Neu), in Europa produziert, 
+viel billiger zu produzieren, als es Handwerkstatt, Cache-Kontor, Bahlmann mit Robotern in 
+China überhaupt könnte.
+Man überlege sich: Wie ein GIL handgefertigt!!! 5000 Euro!. 
+Kannst kaufen, jetzt lieferbar.
+
+Verstehst Du nun den Unterschied zwischen der alten, statischen 
+Weltanschauung, und der neuen, dynamischen?
+
+Bist Du nun bereit, endlich Kybernetiker, wie Pitscheneder, Samuel goerig 
+Akermann zu lesen? Erkennst Du nun, auf welchem Niveau mit welchem 
+begrenzten Horizont hier diskutiert und an "Vernunftsprinzipien" 
+festgehalten wird, die schon lange überholt sind?
+
+Ich übersetze im Moment gerade aus dem chinesischen ein Handbuch über 
+Strategien, aus dem Jahre 2500 v.Chr. So viel habe ich noch nie über 
+philosophische Dinge gelernt, wie aus diesem Buch. Es erscheint 
+demnächst auf meiner Homepage zum kostenlosen download.
+
+LG, Karlheinz Iler
+
+--
+Bilden bedeutet einerseits zu lehren, wie man eigenständig denkt,
+andererseits manipuliert man gedanklich.
+
+Wer den Weg weist, weis nichts darüber, wie spät es ist.
+
+Einfach reden, kompliziert denken !
+
+� aller im Text verwendeten Worte by Mamma !

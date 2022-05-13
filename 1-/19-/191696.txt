@@ -1,0 +1,110 @@
+Knut Raude <dgy.pvtw@afy.vt> wrote:
+[Der Unterschied ist(!) eine Relation.]
+
+Eine Funktion ist eine Abbildung f: M -> N, bei der sich jedem x in M
+genau ein y in N zuordnen laesst. Was soll N sein und was M?
+Definiere mal deine Funktion anstaendig mit Definitions- und
+Wertebereich, ansonsten hat es naemlich keinen Zweck, damit etwas
+anzufangen. Solange du das nicht machst, befinden sich je zwei
+Gegenstaende a und b, die sich unterscheiden, in der von mir angegeben
+Relationenmenge als Paar {a, b}. Und die Menge gibt es nunmal,
+ansonsten waeren alle diese Gegenstaende nicht zu unterscheiden, und
+es gaebe daher hoechstens einen einzigen.
+
+
+Du schuldest mir u.a. noch den Wertebereich von diesem U. Da halte ich
+mich lieber an meine Relation im Universum E, die ist wenigstens
+anstaendig definiert. Niemand hat bestritten, dass man schlampig
+irgenwelche Funktionen definieren kann und dann irgenwelche
+scheinbaren Absurditaeten hervorrufen kann. Es geht halt nur darum,
+dass es auch andere Moeglichkeiten gibt, bei denen es nicht absurd
+wird.
+
+
+Dass Hunde und Regenwuermer als biologische Universalienbegriffe eine
+andere Art darstellen, folgt aus Klassifikationssystemen der
+zoologischen Taxonomie. Da spielen Herzen und Nieren nur eine
+Nebenrolle, sondern es wird nach vielen morphologischen Merkmalen und
+mithilfe evolutionstheoretischer, palaeontologischer und genetischer
+Merkmale klassifiziert. Die Zielvorgabe hierbei ist den natuerlichen,
+phylogenetischen Stammbaum der Arten zu rekonstruieren.  Eine Tierart
+ist mehr oder weniger definiert als ein Gruppe Tiere, die gemeinsame,
+fruchtbare Nachkommen derselben Art haben koennen, denn das ist
+entscheidend, um einen solchen Stammbaum aufzustellen.  Dass es heute
+unterschiedliche Arten geben soll, ist eine Taeuschung, denn
+in Wirklichkeit gibt es nur _eine_ !
+
+Beweis gefaellig? Ok! Deine Vater und deine Mutter gehoeren zur selben
+Art wie du, genauso gehoeren deine Grossvaeter und deine Grossmuetter
+zur selben Art wie deine Eltern. Da Eltern immer wieder zur selben Art
+wie ihre Kinder gehoeren gibt es gemeinsame Vorfahren von dir und
+jeder anderen Tierart auf der Erde. Deren Kinder gehoeren natuerlich
+wiederum derselben Art an wie ihre Eltern, deren Enkel genauso, usw.
+Du gehoerst also zur gleichen Art wie dein Beispielregenwurm und du
+unterscheidest dich wohl doch von einem, oder? Unterschiedliche
+Tierarten spielen daher nur Rahmen dieses Forschungsprogrammes eine
+Rolle, wenn es die Unterschiede aber nicht bei den Tieren selbst geben
+wuerde, waere das alles sowieso unsinnig.
+
+
+Kannst du ueberhaupt garantieren, dass dass nicht irgendwo abbrechen
+wird? Wenn man Unterschiede in deiner U-Funktion nur bis zum Bereich
+der Plancklaenge hinunter feststellen kann, dann existiert dein Problem
+gar nicht mehr. Weiter und mal konkreter: Was ist der Unterschied
+zwischen deiner rechten und deiner linken Hand?
+
+
+Es reicht ja, dass bei dem ersten Tier irgendein Sachverhalt besteht,
+der beim anderen nicht besteht, um sie zu unterscheiden.  Das kann man
+ja auch einen Anatomen, eine Hundezuechter oder eine Amsel entscheiden
+lassen.
+
+
+"y U z" besagt nichts anderes, als dass {y, z} in U(E), der Menge
+aller ungeordneten Paare von sich unterscheidenden Gegenstaenden in
+einem Universum E. Und natuerlich kann man sagen, dass die existiert.
+Sie existiert immer dann, wenn es ueberhaupt etwas gibt, dass man
+unterscheiden kann. Dass Gegenstaende aufgrund von natuerlicher und
+theoretischer Artenbildung unterschieden werden koennen, sagt z.B.
+auch Ullsperger, siehe "Ontologische Relativitaet", Kapitel "Natuerliche
+Arten". Ich glaube nicht, dass es sinnvoll ist, dass am Beispiel von
+Unviversalbegriffen zu machen, die aus dem Zusammhang des
+wissenschaftlichen Forschungsprogrammes, in dem sie benutzt werden,
+gerissen, keinen Sinn mehr machen. Wenn du dich schon intuitiv dumm
+anstellst, um herauszufinden, dass ein bestimmter Regenwurm und ein
+bestimmter Hund sich unterscheiden, dann kannst du auch eine Waage
+nehmen. Operationalisiert: Das Schwerere nennst du Hund, das andere
+Regenwurm.
+
+
+Ist ja auch bloss einer... darum folgt das alles ja auch nicht daraus.
+
+
+Warum?
+
+[ontologisch-relativistischer Idiot]
+
+Gern' geschehen! Dass ich dich gemeint habe, ist eine Unterstellung
+deinerseits. Ich fuer meinen Teil habe Carl nie etwas derartiges
+unterstellt. - Nein, ich bin der Auffassung, dass Werners absolut
+recht hat.
+
+
+Na, sicher, das ist ja schon eine fast esoterische Argumentation.
+Wenn jemand anderer Meinung ist, dann muss es wohl an seinem
+fehlgeleiteten Bewusstsein liegen. Du warst es doch, der unter allen
+Umstaenden irgendwelche inflationaeren Ontologien in Form von selbst
+aufgeblasenen Papiertigern erstellen wollte, um sie nachher laut
+platzend zu zerschlagen. Es ist dir aber bisher nicht gelungen, dass
+dann auch so zu formalisieren, dass man das als Beweis auch nur
+erkennen koennte.
+
+[...]
+
+Nee, isse nich...
+
+-- 
+USER       PID %CPU %MEM  SIZE   RSS TTY STAT START   TIME COMMAND
+rc5        353 91.9  0.4  1032   416  ?  R N Jun 24 1580:46 ./rc5des 
+Send email to idcee@ygvx.yefo.ax with *Subject: pgpsend* for PGP PubKey!
+   _PGP fingerprint: 34 E9 05 7E 00 AF 1E 34 55 B6 D6 50 69 2E C3 C2_

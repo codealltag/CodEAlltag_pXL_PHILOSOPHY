@@ -1,0 +1,180 @@
+On 27 Dez 2003 11:01:53 -0700, klptpjassnrLOGAZRP@jiyguoj.oy (Jkob
+Jansen) wrote:
+
+Endlich mal wieder ein interessantes Thema. :-)
+
+Jep.
+
+Ja.
+
+Jep.
+
+Wobei man hier noch genauer unterscheiden kann, zwischen
+
+	FOPL mit Identität
+	FOPL mit Identität und Kennzeichnungen
+
+und den
+
+	Freien Logiken.
+
+(Aber das nur nebenbei.)
+
+Ja. Ich muss gestehen, dass ich mich in letzter Zeit zunehmend für
+diesen Ansatz zu interessieren beginne. IM GRUNDE ist ja die Forderung
+der FOPL mit Identität, dass jeder Term auch tatsächlich auf ein
+(existierendes) Objekt referiere, ja recht _k�nstlich_. Tatsächlich ist
+das ja kein Merkmal unserer gewöhnliche Sprache; und sie funktioniert
+TROTZDEM recht gut (in vielen Fällen), oder?
+
+Free Logic ist nun ein System, das solche "non-denoting" Terms zulässt,
+aber weiterhin (beweisbar) widerspruchsfrei und sogar vollständig
+bleibt!
+
+Wenn Du mich fragst, ist Ofusa das weitaus leistungsfähigere 
+(= "bessere") logische System, weil es ein doch recht mächtiges
+Sprachmittel der natürlichen Sprache beibehält, OHNE dabei die
+SICHERHEIT (und "Präzision") die wir durch die FOPL mit Identität
+gewonnen zu haben, opfern zu müssen!
+
+Besser [auch wenn es nur eine "Sprachregelung" ist] ...
+
+  "Wenn a F ist und a existiert, dann gibt es etwas, das F
+   ist."
+
+Die Vertreter der FL neigen dazu 'E!a' als 'a existiert' zu LESEN (auch
+wenn jeder weiß, das hier im Grunde nur gesagt wird, dass der Term 'a'
+nicht auf ein existierendes Objekt referiert).
+
+
+Ja, oder die recht hübsche Schreibweise in folgender Form (also als
+Schluss-Regel):
+
+EI
+	E!t     Ft
+	----------
+	  (Ex)Ft
+
+wo 't' irgend ein Term ist.
+
+Jep. (*grins* Hatten wir das nicht schon mal... :-)
+
+H...?
+
+Ach so... Du meintest, weil die Bedingung 
+
+	E!der Osterhase
+
+nicht erfüllt ist, ja klar.
+
+DENN, wenn diese Bedingung nicht erfüllt ist, können wir nicht
+-zumindest nicht mit der Regel EI- von der Annahme
+
+	der Osterhase = der Osterhase
+
+auf 
+
+	(Ex)(x = der Osterhase)
+
+schließen. Und dann natürlich auch nicht mittels ->Einführung auf
+
+	der Osterhase = der Osterhase -> (Ex)(x = der Osterhase).
+
+Ja.
+
+Ja. Zumindest in bestimmten Zugängen der Free Logic. (Oder gar in allen?
+Weiß nicht.)
+
+Leuchtet ein. Und kann auch recht einfach FORMALISIERT werden (in best.
+Zugängen der Free Logic):
+
+Als erstes wird das Axiom (oder die Regel) der Reflexivität von =
+abgeändert, dieses lautet nun so:
+
+(Ref=)
+
+	 E!t
+	-----
+	t = t
+
+D.h. Wenn t existiert, dann ist t = t herleitbar. (Daraus erhält man
+sofort: ~(t = t) |- ~E!t. Feighofen: "No entity without identity.")
+
+Aus Ref= kann man dann (mit ->I) unmittelbar herleiten:
+
+
+Weiters kann man die Regel der "atomaren Bedeutung" einführen, 
+die da lautet:
+
+	 A(t)     mit A(t) atomar
+	------
+	 E!t
+
+Daraus erhält man unmittelbar:
+
+	~E!t |- ~A(t).
+
+Oder in Deinen Worten:
+
+	"Was es nicht gibt, kann keine [atomaren] Eigenschaften haben."
+
+Insbesondere gilt das natürlich für die Identität (die ja atomar ist):
+
+	~E!t |- ~(t = t).
+
+Und damit gilt auch [nach ->Einführung]
+
+
+bzw. die "Kontraposition"
+
+
+(1) und (2) zusammen ergeben:
+
+	E!t <-> t = t.
+
+	"Dann und nur dann, wenn t existiert,
+	 ist t mit sich selbst identisch."
+
+Hmmm... Ja, darüber wäre noch zu sprechen... 
+
+Ich habe oben offenbar eine Negative Freie Logik skizziert:
+
+
+Offenbar grenzt die Regel der atomaren Bedeutung die nFL von der pFL ab.
+
+Hm... Ja, das führt dann aber zu der recht unangenehmen Folgerung, dass
+
+	Fa* v ~Fa* 
+
+kein Theorem mehr ist. Oder auch nicht
+
+	~(Fa* & ~Fa*)  ,
+
+etc. Hmmm... Nun ja. Auch darüber wäre wohl noch zu sprechen.
+
+Scheint zumindest der unproblematischste Ansatz zu sein? (Hmmm?)
+
+...mal sehen...
+
+Ja.
+
+...da hier z.B. das Meta-Theorem gilt:
+
+Hmmm... zweifellos wünschenswert.
+
+
+Damit hat man dann aber auch, dass
+
+	Fa* v ~Fa* 
+
+wahr ist, und (daher)
+
+	~(Fa* & ~Fa*)
+
+falsch ist. Wunderbar!
+
+Ich sag ja, die Freie Logik ist offenbar eine _verbesserte_ (weil
+flexiblere) FOPL mit Identität.
+
+
+F.

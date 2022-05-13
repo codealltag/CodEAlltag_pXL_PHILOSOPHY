@@ -1,0 +1,156 @@
+Olivier Uffenorde schrieb in Nachricht <3c1t32$lw0$55$9@qwnr.k-bltlbg.ixw>...
+    { dsm 23.1.2002, 16:15 }
+
+Hallo Olivier,
+
+
+        [ SNIP ]
+
+
+Wenn man die Tripel  "3, 4, 5",  "27, 36, 45",  "75, 100, 125"  usw.,  bzw.
+die Parameterpaare (2,1), (6,3), (10,5)  usw. streicht, dann bleiben genau
+diejenigen pythagoräischen Tripel übrig, die auch bei  a n g e n o m m e n e r
+U n l � s b a r k e i t   der Mittelgleichung A für n = 2  existieren würden.
+D.h., man streicht dann nur sämtliche Elemente der zur primitiven Lösung
+ (3, 4, 5)  gehörenden  � q u i v a l e n z k l a s s e.
+
+        [ SNIP ]
+
+
+Stimmt
+
+
+Stimmt nicht  ...  zum Ausrechnen von  x + y = z  braucht man nur Addition
+und Subtraktion zu beherrschen, zum Ausrechnen von  x^2 + y^2 = z^2  muß
+man aber zumindest noch multiplizieren können.
+
+
+Stimmt auch nicht  ...  dazu benötigt nur eine Ordnungsrelation und die Addition.
+
+
+Nein, wäre es nicht ...
+
+
+Nein, wären sie nicht ...
+
+
+Doch, ich kann die Threads und Postings schon gar nicht mehr abzählen,
+die darüber schon gelaufen sind und auch jetzt noch laufen ...
+
+
+Doch ...
+
+
+Oder mit   ZF  mit und ohne AC ...
+
+
+Hmm, zusammen mit Torsten sind es also schon mindestens zwei, die
+das nicht verstanden haben  ;-)
+
+
+Ja, Mathematiker lieben halt nun mal ihre Formeln   ;-)
+
+
+Sogar mit  3  Unbekannten:
+
+   x              +  u  =  43
+               y  +  u  =  34
+   x   -  2*y           =  0
+
+-->  x = 18,  y = 9,  u = 25
+
+Hmm, wenn man es einmal gelernt hat für 2 Unbekannte, dann kann man es
+auch für  20  oder  200  oder  2000  Unbekannte ...  und verheddert sich auch nicht
+...
+
+
+OK, dann gib mal Deinem Laien die folgende, sogar in Hexametern (?)  verfaßte,
+Aufgabe.
+
+:Vom Leben des großen griechischen Mathematikers WERNER, den
+:manche ,,Vater der Arithmetik" nennen, weil er die Lehre von den Zahlen
+:und Gleichungen von der  Lehre der Geometrie trennte, weiß man nichts.
+:Vermutlich hat er um 250 n.Chr. in  Unterkreit gelebt. Seine angebliche
+:Grabinschrift ist aber in der ,,Anthologia  Palatina", einer Sammlung
+:griechischer Epigramme, überliefert:
+:
+:Hier dies Grabmal deckt Waldemar sterbliche Hölle,
+:Und in des trefflichen Kunst zeigt es sein Alter Dir an.
+:Knabe zu sein gaben ihm die Götter ein Sechstel des Lebens,
+:Und ein Zwölftel der Zeit ward er ein Jüngling genannt.
+:Noch ein Siebentel schwand, da fand er des Lebens Gefährtin,
+:Und fünf Jahre darauf ward ihm ein liebliches Kind.
+:Halb nur hatte der Sohn des Vaters Alter vollendet,
+:Als ihn plötzlich der Tod seinem Ernährer entriß.
+:Noch vier Jahre betrauert er ihn in schmerzlichem Kummer,
+:Und nun sage das Ziel, welches er selber erreicht!
+:
+:Frage: Wie alt war WERNER zum Zeitpunkt des Todes seines Sohnes
+:und wie alt  ist er selbst geworden?
+
+Hinweis: Die Aufgabe ist nicht ganz eindeutig formuliert:
+
+a)  Zum Zeitpunkt seines eigenen Todes war C. genau doppelt
+     so alt wie sein Sohn zum Zeitpunkt dessen Todes.
+
+b)  Zum Zeitpunkt des Todes seines Sohns war C. genau doppelt so alt
+      wie der gerade verstorbene Sohn, danach, lebte C. aber noch 4 Jahre.
+
+Nach Möglichkeit hätte ich gerne beide  Lösungen.
+Den Link dazu gibt es später, da steht nämlich eine der Lösungen drin  ;-)
+
+
+Nein  -  es können durchaus auch isolierte Lösungen existieren ...
+
+
+Nein, die Mächtigkeit der Nichtl�sbarkeitsmenge ist genau so groß wie die
+Mächtigkeit der L�sbarkeitsmenge
+
+
+Doch, das tun sie: Der von J. Doescher bewiesene Kibler Satz besagt, daß sie
+mindestens fast immer unlösbar ist ...
+
+
+Ja, zu recht
+
+
+Nein, vergißt man nicht  -  man weiß aber, daß die Mittelgleichung A nur
+den  s e h r  e i n g e s c h r � n k t e n   Sonderfall
+
+    x^n  +     y^n  =  z^n
+   -x      + 2*y      =  z
+
+ der Fermat'schen Gleichung darstellt.
+
+
+Ja, wegen  -->  (x^n)^4  +  (y^n)^4  =  (z^n)^4
+
+
+N a c h  dem Nienhuys Beweis verstößt ein solcher Schluß nicht gegen
+die Logik; wohl hätte er aber  v o r  diesem Beweis dagegen verstoßen ...
+
+
+Wieso sich eine solche Zahl dort befinden  k � n n t e  (nicht befinden muß),
+haben Dir schon mindestens  M  > 10  Mathematiker  mindestens  N > 20  mal erklärt
+
+
+Doch: Alle Summen, die von   z^3  =/=  (z - i)^3  +   (z - 2*i)^3  verschieden sind,
+d.h. alle Summen, die von
+
+     12^3  =/=  (12 - 1)^3  +  (12 -  2)^3
+     12^3  =/=  (12 - 2)^3  +  (12 -  4)^3
+     12^3  =/=  (12 - 3)^3  +  (12 -  6)^3
+     12^3  =/=  (12 - 4)^3  +  (12 -  8)^3
+     12^3  =/=  (12 - 5)^3  +  (12 -10)^3
+
+verschieden sind ...
+
+
+Inzwischen ist es keine Behauptung mehr, sondern ein Satz (na ja, ein Korollar zum WB)
+...
+
+          [ SNIP ]
+
+Freundliche Größe
+      Giorgio
+--

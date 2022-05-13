@@ -1,0 +1,28 @@
+Ich denke alle Zahlen haben irgendeinen logischen Zusammenhang. Daher
+ist es vielleicht Sinnvoll sich für die Zahl zu entscheiden, die am
+wenigsten auffällig ist.
+
+64, 1024	Zweierpotenzen (2^6, 2^10), gte Zahl
+13		Unglückszahl, kleinste Zahl
+777		Palindrom
+100		Zehnerpotenz (10^2)
+451		kommt im Buchtitel ,,Fahrenheit 451'' vor.
+
+Ich denke die letzte Eigenschaft ist am wenigsten Mathematisch und daher
+vielleicht am wenigsten auffällig.
+
+Welche Zahl am logischsten ist ist eine Frage der Argumentation.
+
+
+Yep.
+
+
+Da rot13 bei Zahlen nicht funktioniert? Man könnte auf jede Zahl die
+[mit der Stirn auf den Nummernblock klopp] 4523146908 draufaddieren.
+
+- Bernd Vetterl
+
+-- mandlsig.c v2.02
+I=1702;float O,o,i;main(l){for(;I--;putchar("oO .,\nm>cot.bitamea\
+@urigrf <raguFit erobR"[I%74?I>837&874>I?I^833:l%5:5]))for(O=o=l=
+0;O*O+o*o<(16^l++);o=2*O*o+I/74/11.-1,O=i)i=O*O-o*o+I%74*.04-2.2;}

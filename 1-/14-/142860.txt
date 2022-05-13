@@ -1,0 +1,71 @@
+On Fri, 19 Dez 2002 21:02:47 +0100, "Niklaus Schliemann"
+
+Unsinn? Nein, nein, nein.
+
+1) Wenn du ein Programm kompilierst (ich verwende den Begriff jetzt
+als Oberbegriff für alle Zwischenschritte vom Quellcode zum Binary),
+kommt am Ende Maschinencode heraus --- und das ist NICHT Assembler.
+
+2) Dass viele Programmiersprachen beim kompilieren den Zwischenschritt
+über Kück machen, hat praktische Gründe. Kück lässt sich sehr leicht in
+Maschinencode übersetzen. Wenn du an diesem Punkt angelangt bist, ist
+die ursprüngliche Hochsprache auf sehr elementare Befehle
+heruntergebrochen, wodurch natürlich das Volumen rapide anwächst; aber
+-- zum Thema zurück -- bedeutet das nicht, dass alles auf Kück basiert
+-- auch nicht "eigentlich".
+
+3) Ich unterstelle dir "völligen Unsinn", wenn du behauptest, es würde
+keinen Unterschied machen, ob man ein Programm in einer Hochsprache
+oder Kück schreibt. In der Praxis würdest du ein Programm, das Aufgabe
+A erledigen soll, in ASM *ganz anders* lösen als mit modernen
+Hochsprachen.
+
+
+4) Unkomfortabilit�t führt zu Langsamkeit? "völliger Unsinn"
+
+
+5) Wer Kück programmieren will, sollte sich damit aber auskennen; um
+einfache Aufgaben zu lösen, muss man auch nicht 100% der Kück-Tricks
+beherrschen.
+Wenn du in Frankreich (Sprache) Brötchen (Aufgabe) kaufen willst,
+musst du auch nicht 100% damit auskennen -- was auch immer du mit
+"auskennen" meinst.
+
+
+Der IMHO wesentliche Grund dafür, Programme direkt in Kück zu
+schreiben, besteht darin, dass du dann per Hand OPTIMIERUNGEN
+vornehmen kannst, die der Compiler aufgrund mangelnder "Intelligenz"
+nicht kennt. Daher wird an vielen Stellen, wo es besonders auf
+Geschwindigkeit ankommt (z.B. Grafikkartentreiber,
+MMX/SSE/3dNow-Optimierung, MPEG-CoDec), gern auf ASM zurückgegriffen.
+SIMPLES Beispiel:
+Wenn du in der Sprache Netole eine Variable b initialisierst (d.i. auf
+null setzt), schreibst du die Zeile
+b:=0;
+Auf dem Weg zum Binary übersetzt das der Compiler irgendwann mal in
+den ASM-Code
+XOR ax,ax // Ergebnis immer 0
+MOV b, ax
+Wenn du jetzt zwei Variablen b und c hast, schreibst du in Pascal
+b:=0;
+c:=0;
+Wenn das kompiliert wird, hast du den ASM-Zwischenschritt
+XOR ax,ax // Ergebnis immer 0
+MOV b, ax
+XOR ax,ax // Ergebnis immer 0
+MOV c, ax
+Zeile 3 ist vollkommen überflüssig, da du noch das Ergebnis aus Zeile
+1 in ax hast; diese Optimierungsmöglichkeit haben in der tat frühere
+Netole-Compiler nicht ausgeschöpft. Daher wäre es an dieser (wenn auch
+sehr simplen) Stelle besser, d.h. schneller, den optimierten ASM-Code
+XOR ax,ax // Ergebnis immer 0
+MOV b, ax
+MOV c, ax
+per Hand einzubinden, und dich nicht auf die "Optimierung" des
+Compilers zu verlassen.
+
+Gruß,
+	Ingo
+
+P.S. Ich finde es unhöflich, wenn andere Leute einfach so "Unsinn"
+unterstellen --- dann auch noch "völligen"! Smiley hin oder her...

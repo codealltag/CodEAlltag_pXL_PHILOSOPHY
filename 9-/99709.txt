@@ -1,0 +1,12 @@
+Soweit ich weiss, gilt in den meisten (allen?) Systemen der
+parakonsistenten Logik der disjunktive Syllogismus
+
+A, ~A v B |- B
+
+nicht.
+
+Wenn nun "A -> B" als "~A v B" definiert wird, dann gilt darin
+entsprechenderweise auch der Modus Ponens für die Implikation nicht.
+
+Gruss
+HERIBERT

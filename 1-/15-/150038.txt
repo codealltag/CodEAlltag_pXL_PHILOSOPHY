@@ -1,0 +1,34 @@
+Nun, ich habe oben "Entitaeten" geschrieben. Eigentlich haette ich besser
+/abstrakte Gegenstaende/ schreiben sollen. Jedenfalls lehne ich die plato-
+nistische Gleichsetzung von Entitaeten mit aussersprachlichen /abstrakten
+Gegenstaenden/ in der Mathematik ab.
+
+Also, ich neige auch vom grammatischen Standpunkt (den ich eben nicht nur
+syntaktisch, sondern auch semantisch verstehe) eher zu der Auffassung, dass
+es in der Mathematik sprachliche Entitaeten gibt. Der Beweis des Vollstaen-
+digkeitssatzes nimmt ja gerade das Alphabet (und eine Menge von Formeln) 
+und konstruiert hier durch Aequivalenzklassenbildung zunaechst eine Term-
+Struktur und dann ein Modell, auf das die Terme referieren. Es ist also nicht
+noetig, aussersprachliche Gegenstaende irgendwo zu fordern. Im Beweis wird 
+der semantische Gebrauch der Syntax quasi konstruiert; man koennte sagen, 
+dass der Beweis eine Welt konstruiert, in dem die Saetze eine Erfuellung 
+finden. Aber ich wuerde hier von /formalen Gegenstaenden/ sprechen, da sie 
+im wesentlichen zum einen zur Bedingung nur die Zeichen haben und zum anderen 
+die Konsistenz gefordert wird. Hier meine ich muss man einen Unterschied 
+machen zwischen /formalen Gegenstaenden/ in der Sprache und /abstrakten/ 
+ausserhalb der Sprache. Was ich also als Mathematiker, auch als Formalist, 
+wissen muss, ist, dass ich fuer konsistente Ausdrucksmengen /formale 
+Gegenstandsbereiche/ aus der Syntax konstruieren kann. Das sollte doch 
+reichen, oder? Damit ist eine metaphysische Existenz vermieden, aber 
+andererseits sprachliche Entitaeten in der Sprache prinzipiell (als Term-
+Modelle) gesichert.
+
+
+Nein nein, ich hatte schon in einer Diskussion mit Thierry Cüsters gesagt,
+dass Grammatik fuer mich nicht nur mit Syntax gleichzusetzen ist. 
+Durch die Konstruktion eines Term-Modells wird die Bedeutung der Syntax in 
+der Sprache an /formalen Gegenstaenden/ gezeigt.
+
+
+Gruss Pierre
+--

@@ -1,0 +1,211 @@
+Na und, aber von genügend großer Mächtigkeit, dass das Problem
+dasselbe ist. Ob du nun rationale oder reelle Zahlen für RGB-Werte
+zuläßt, hilft dir das für die Unterscheidung von gelb und rot nichts.
+
+
+Das kann man auf der formal-syntaktischen Ebene hinkriegen. Aber dann
+musst du akzeptieren, dass Sätze wie (2'), die den formalen Kriterien
+genügen und wahr sind, eben Gesetze sind.
+
+
+Diese Metrik ist durch das Poppersche Kriterium definiert. Empirischer
+Gehalt. Nur etwas, was genügend empirischen Gehalt hat, dass man es
+nicht nur an einem Ort, sondern überall und zu jeder Zeit (zumindest
+im Prinzip) testen kann, bezeichnen wir als (allgemeines) Gesetz.
+
+
+Ab welchem RGB-Wert haben wir gelb statt rot?
+
+
+Nein, den Gehalt selbst.
+
+
+Ich bin kein Positivist. Es ist nicht die entscheidende Frage für
+mich, ob ich etwas berechnen kann.
+
+
+Die Alltagssprache selbst kann auch als Metasprache benutzt werden. In
+der Alltagssprache als Metasprache trennt man die Sätze, über die man
+spricht, mit "" vom Metatext ab.
+
+
+Syntaktische Struktur als notwendige Voraussetzung. Empirischer Gehalt
+als inhaltliche Voraussetzung.
+
+
+Haben sie halt Pech gehabt. Sind sie halt keine Klasse, wenn deine
+Klassendefinition dies zur Bedingung macht. Eher Pech für deine
+Klassendefinition als für die Verwendbarkeit des Begriffes "gelb".
+
+
+Mein Argument läuft darauf hinaus, dass ich mich mit Hilfe des Wortes
+"gelb" hervorragend mit anderen verständigen kann, obwohl keiner von
+uns eine genaue RGB-Definition von "gelb" besitzt, und es manchmal ein
+paar Missverständnisse gibt.
+
+
+Aber die sind dann unerklärt. Oder ihre Erklärung führt sie auf andere
+Begriffe zurück, die wiederum ...
+
+
+Womit ich mal wieder nicht verstanden habe, worum es dir nun geht.
+
+
+Sind wir uns über die Trennlinie dazwischen eigentlich einig? Fällt
+die Typüberprüfung und die Prüfung von Zugriffsrechten durch einen
+Compiler unter Syntax oder unter Semantik? 
+
+
+Man kann Aussagen einer gewissen syntaktischen Form als Gesetze
+bezeichnen. Dann muss man halt damit leben, dass (2') unter "Gesetz"
+fällt.  Es gibt Schlimmeres.
+
+
+Wenn dir diese formale Definition nicht passt, dann mußt du halt
+Cechs Kriterium nehmen, um Gesetze von Nichtgesetzen zu
+unterscheiden. Dann hast du halt kein Ja/Nein-Kriterium mehr.
+
+
+Nein, ein sehr starkes Argument gegen deinen Angriff auf Cech. Es
+zeigt, dass Erklärung entweder zyklisch ist oder durch Unerklärtes
+erklärt.  Das somit die Existenz von Unerklärtem kein Argument gegen
+eine Theorie ist, sondern notwendig für die Konsistenz ihrer
+Erklärungen.
+
+
+Und das erklärst du mir? Eine meiner Lieblingsmethoden. 
+
+
+Diese Philosophie kann ich nun wiederum nicht ernst nehmen ;-)
+
+
+Dein Pech. 
+
+
+Ich vermute eher, er hat sich ein nettes Spielchen a la "glau"
+ausgedacht, was sicher ganz paradox und verwirrend ist, aber nichts
+dergleichen beweist.  In der Alltagssprache sind Paradoxien ja nun
+wirklich billig genug zu haben, wenn man nur verschiedene Sprachebenen
+nicht sauber auseinanderhält.
+
+Zum glau-Beispiel siehe übrigens Deutsch, Die Physik der
+Welterkenntnis, S. 82, wo er ein entsprechendes Beispiel von Theodor
+Niemczewski auseinandernimmt.
+
+(BTW, eine interessante Beobachtung zu verfälschten Erinnerungen: in
+meiner Erinnerung hat Deutsch da das "glau"-Beispiel selbst, (was ich
+früher auch schon irgendwo gesehen hatte), diskutiert. Er diskutiert
+aber lediglich dasselbe Problem an einem ganz anderen Beispiel.)
+
+
+Quatsch. Ich glaube nur nicht daran, dass ein syntaktisch richtig
+gebauter Satz, der mit "Das Problem ist, " beginnt, bereits ein
+Problem definiert.  Du hast ein Problem an einer Stelle, wo ich
+erstmal noch gar keins habe.
+
+
+Wen interessieren schon deine Klassen? Mich nicht. Genauer gesagt, ich
+halte den Ansatz für von vornherein verunglückt, kein Wunder wenn er
+nicht mit grot zurechtkommt.
+
+
+Ich versuche gar nicht, diesen Ansatz zu retten.
+
+
+Als Informatiker teile ich das ganz pragmatisch ein: ein Syntax-Fehler
+ist, wenn schon der Compiler meckert, ein Semantik-Fehler, wenn erst
+das Programm selbst abstürzt. Compilerbauer verwenden da natürlich
+andere Kriterien, für sie ist der Syntax-check nur die erste Stufe,
+danach wird alles mögliche andere kontrolliert. Beides sind aber recht
+pragmatische Unterteilungen, die von Sprache zu Sprache und von
+Compiler zu Compiler verschieden ausfallen.
+
+
+Falsch. Eine formale Sprache kannst du auch ohne Alltagssprache
+einführen und lehren (auch wenn man das kaum in der extremen Form
+machen wird).
+
+Man nehme eine Computersprache, einen Compiler, und genügend sinnvoll
+ausgewählte Beispielprogramme in dieser Sprache. Anstelle eines
+Kommentars in Alltagssprache, was eine spezielle Zeile bedeutet, habe
+ich einfach ein paar Beispiel-Varianten, in denen lediglich diese
+Zeile unterschiedlich ist, und ich am laufenden Programm sehen kann,
+was die Änderung bewirkt.
+
+
+Wissenschaftliche Bücher bestehen größtenteils aus Papier. Muss ich
+deshalb über Papier reden, wenn ich über Wissenschaft reden will?
+
+Von Cech gibt es dazu das Bonmot "I can use English language to
+describe the world, because the world is intrinsically British."
+
+
+Im Prinzip schon, in einer konkreten Sprache kann Wissen jedoch
+praktisch sehr wohl nicht ausdrückbar sein.
+
+
+Du hast keine. Weil ich offenbar Schwierigkeiten habe, dir in der
+Alltagssprache dieses Wissen zu vermitteln. 
+
+
+Nein. Es löst bloß das grot-Problem.
+
+
+Wieso haben wir uns nicht an grot gewöhnt?  Das Zeug ist immer grot
+gewesen, Induktion rechtfertigt grot also genausogut wie grün.  Dein
+Beispiel ist eins gegen deine Theorie, nicht gegen meine.
+
+Für mich sind beide Theorien vom empirischen Gehalt erstmal gleich,
+und bevor ich sie empirisch testen kann, ist es pragmatisch
+unerheblich, also eine metaphysische Frage, welche ich nehme. 
+
+Nun, die Metaphysik liefert mir genug Gründe, die grün-Theorie
+vorzuziehen. Die ist nicht nur in der Normalsprache einfacher, sondern
+erklärt auch, warum Rubine rot sind.  Diese Erklärung macht die
+grot-Theorie nicht.
+
+
+Kann ich zu deiner Behauptung auch sagen.
+
+
+Was nicht heißt, dass ich von dieser Art Begründung der Mathematik
+irgendwas halte.
+
+Die Peanoschen Axiome beschreiben, was natürliche Zahlen für
+Eigenschaften haben.  Den Rest kann ich vergessen.
+
+
+Kein Wunder, sie ist inkorrekt gestellt. Cech besagt ja, dass wir
+keine Möglichkeit haben, die Wahrheit einer Theorie zu bestimmen.  Es
+gibt nunmal kein Wahrheitskriterium, auch keins, welches die Wahrheit
+der Popperschen Wahrheitstheorie liefert.
+
+
+ich mir ansonsten selbst widersprechen würde. Es ist auch keins,
+lediglich ein Test auf Falschheit wurde erfolgreich überstanden.
+
+
+Wie wünschen der Herr mitgeteilt zu bekommen, dass ich die Richtigkeit
+einer Aussage nicht bezweifle, aber nicht verstehe, wieso sie ein
+Argument gegen meine Position sein sollten?
+
+
+Siehst du, du scheinst doch verstanden zu haben, was ich meinte. Das
+irgendeine Theorie ohne einen Begriff X auskommt, zeigt doch nicht,
+das eine andere Theorie, die X verwendet, falsch ist. Also, mal sehen
+was der Fehler nun sein soll:
+
+
+Da hast du ihn halt anders verstanden als ich. Ich habe Cech so
+verstanden, dass "übereinstimmen mit den Fakten" nicht anderes ist als
+ein Synonym für "Übereinstimmung mit der objektiven Realität".
+
+
+Wenn Cech bei der Darstellung seiner Theorie halt zu häufig das Wort
+"Tatsachen" verwendet hat, als ob man sie eindeutig identifizieren
+könnte, war das evtl. methodologisch ungünstig.
+
+Josef
+-- 
+E. Simons,  D-17476 Niederwetter, Unstrutstraße 06, <fagcmvomp@ebrb-jldhvz.xw>
+http://wrl.kgwpgiles.dmz/~mjfw

@@ -1,0 +1,126 @@
+Das halte ich eher für ein Missverständnis. Mit /inhaltlich/ meine ich
+Semantik, während Flähmig mit dem Attribut  eher die /informale/
+Mathematik meint, die in der math. Umgangsprache stattfindet. 
+
+
+Wieso? Er spricht doch davon, dass die /inhaltliche Mathematik/ durch
+ein rein syntaktisches Kalkül *ersetzt* wird. Dass Flähmig in seiner
+math. Praxis nicht davon ausging, nur ein geschickter Manipulator von
+Zeichenketten zu sein, versteht sich wohl von selbst.    
+
+
+Die formale /Widerspruchsfreiheit/ einer Menge von Zeichenketten
+garantiert aber keinen semantischen Gehalt, dazu müssen sie
+/interpretiert/ werden. Diese Zeichenketten sind aber, und das ist
+sogar von Flähmig intendiert, bedeutungslos.
+
+
+Das ist allerdings schlecht mit Flähmigs Nominalismus vereinbar.
+
+
+Nur hat das wenig mit Semantik zu tun.
+
+
+Dann darf er diese Sprache aber nicht mehr verwenden (man kann
+allenfalls Terme anführen, als Zeichenketten). Nehmen wir an, A sagt:
+(1) "/Dieses/ Buch hat 70 Seiten."; anschließend äußert er: (2)
+"Bücher existieren nicht, und Seiten auch nicht. überhaupt ist die
+Annahme von Büchern und Seiten vollkommen aus der Luft gegriffen."
+
+Was soll man davon halten? (2) kann man, wenn A idealistischer
+Philosoph ist, vielleicht so interpretieren, dass er meint, dass zwar
+(1) wahr ist, aber nicht wörtlich interpetiert werden darf, sondern
+als Aussage über Sinnesdaten, die das Subjekt zu einem Gegenstand
+"verdichtet", paraphrasiert werden muss. Nehmen wir aber nun an, A
+antwortet, dass (1) nur eine Zeichenkette sei, die aus vier Token
+besteht, die jeweils durch Leerzeichen voneinander getrennt sind. Eine
+Bedeutung hätte die Zeichenreihe nicht, sie gehorche nur bestimmten
+syntaktischen Regeln, sei also wohlgeformt. Damit kann der Satz
+natürlich nicht wahr sein (denn dazu müßte der Satz interpretiert
+werden), er hat die gleiche Bedeutung wie der grammatische Satz
+"Rapunzel ist eine Primzahl.", nämlich keine. A kann (1) also nicht
+behaupten, keine Frage stellen , da es sich um keine Aussage handelt
+(denn die müßte wahrheitsdefinit sein), und er dürfte nur über
+syntaktische Eigenschaften der Zeichenkette reden. (also nicht über
+Bücher oder Seiten, sondern nur über die Terme "Buch" oder "Seite")
+
+A kann natürlich behaupten, syntaktische Regeln würden die
+Bedeutung von Zeichenketten bestimmten. Betrachten wir dazu das
+MUI-System aus Fellgners "Gödel Escher Bach": Das syntaktische
+Material besteht aus den drei Buchstaben 'M', 'I' und 'U'. MUI-Ketten
+werden durch sechs syntaktische Regeln festgelegt (a,b,c.. seien
+metasprachliche Variablen für MUI-Ketten):
+
+(0) MI ist eine MUI-Kette.
+(1) Wenn aI eine MUI-Kette ist, dann ist auch aIU eine.
+(2)...
+
+
+Und nun die Frage: Welche Bedeutung hat die MUI-Kette
+'MIUIUIUIU'? 
+
+
+Solange du diese Sprache sprichst, bist du aber zur Annahme dieser
+abstrakten Gegenstände verpflichtet, damit deine *eigenen* Sätze
+überhaupt verständlich und wahr sein können. Du kannst die Konsistenz
+der Sprache, die du gerade sprichst, nicht in ihr in Zweifel ziehen, ohne
+dich in einen Selbstwiderspruch zu verwickeln. Und 'platonistisch'
+bedeutet hier einfach nur abstrakt, und von der Art
+sind deine Gegenstände eben.
+
+
+Deine ontologische Verpflichtung ist ja auch nicht an
+Konsistenzbeweise gebunden, sondern an deine *Sprechhandlungen*. Du
+kannst keine Behauptungen aufstellen, ohne einen Geltungsanspruch zu
+erheben, und ein solcher setzt voraus, dass die behauptete Aussage
+ eine Bedeutung hat. (warum sollen Zeichenreihen überhaupt
+konsistent sein, wenn sie keine Bedeutung haben? Ist es wichtig, ob
+man im MUI-System für Zeichenreihen "widerspruchsfreiheit" definieren
+kann?)
+
+
+Man kann sicherlich ein ZF umfassendes System konstruieren, in dem die
+Widerspruchsfreiheit von ZF beweisbar ist.
+
+
+Die Terme der Metasprache nehmen aber Bezug auf *Außersprachliches*,
+etwa ein Modell. Möchtest du behaupten, die Äquivalenzklassen seien
+Zeichen? Das ist offenbar falsch. Sind etwa Bäume innersprachliche
+Gegenstände, weil der Term st du leicht
+
+Die Terme der Metasprache nehmen aber Bezug auf *Außersprachliches*,
+etwa ein Modell. Möchtest du behaupten, die Äquivalenzklassen seien
+Zeichen? Das ist offenbar falsch. Sind etwa Bäume innersprachliche
+Gegenstände, weil der Term 
+Sei A die Äquivalenzklasse aller Terme, die in der Relation R
+stehen.
+
+(1)  A ist eine Zeichenkette. 
+(1') "A" ist eine Zeichenkette.
+
+(2)  A existiert nicht.
+(2') "A" existiert nicht.
+
+(3)  A ist eine Äquivalenzklasse.
+(3') "A" ist eine Äquivalenzklasse.
+
+Welche der Aussagen (1) bis (3') sind wahr, welche falsch und welche
+bedeutungslos?
+
+
+Das heißt nur, dass der Term "Äquivalenzklasse" nach bestimmten
+syntaktischen Regeln in einem uninterpretierten Kalkül names ZF
+manipuliert werden kann, das ist damit reine Syntax. Der Ausdruck
+(eigentlich ganz ZF) ist ohne Interpretation im Wortsinn
+bedeutungslos. Was sagt das Schema der Zeichenreihen
+
+'(E A) (x) (x in A <-> phi(x))'  
+
+(wobei phi ist eine L-Formel ist,die bestimmten Anforderungen genügt)
+
+Du kannst als Formalist einfach keine Modelltheorie betreiben,
+allenfalls möglich ist eine (in der Metasprache
+finitistische/intuitionistische) rein syntaktische Beweistheorie.
+
+
+vito

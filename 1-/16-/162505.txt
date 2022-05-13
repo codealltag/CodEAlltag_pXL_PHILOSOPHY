@@ -1,0 +1,17 @@
+nuyi@qugthdh.ol:
+: A gibt es nicht. A* gibt es nicht. Ck(k) gibt es nicht.
+: End of story. 
+
+Naja nicht ganz. Ich habe mittlerweile rausgekriegt, was ueberhaupt 
+gemeint ist, was aufgrund schwammiger Terminologie nicht so einfach war.
+Man will kein A sondern betrachtet *unvollkommene* Halteproblemloese-TM
+U. Falls U haelt muss die ihr vorgeworfene TM endlos laufen, aber nicht
+umgekehrt. D.h. das einfachste U ist die Endlosschleife. U(U) existiert
+also wirklich, da U existieren, und haelt in jedem Fall nicht an. Ich
+gebe aber zu bedenken:
+
+- Es existieren andere U, die fuer U(U) anhalten.
+- Dass U(U) nicht haelt ist beweisbar und muesste sich auch mit dem alten
+  Durchnummerier-Beweis-Trick mit einer TM zeigen lassen
+- Die aequivalente Frage an einen Menschen wuerde lauten:
+   "Werden Sie diese Frage mit 'nein' beantworten?"

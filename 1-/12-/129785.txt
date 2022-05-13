@@ -1,0 +1,63 @@
+Hallo,
+wenn ich mich mal kurz äußern darf, dieser Punkt ist sehr interessant:
+
+
+Das ist, wie bekannt sein dürfte, die Russellsche Auffassung, daß ein
+Satz (X) falsch sei, wenn er einen singulären Term enthalte, der kein
+(reales) Bezugsobjekt besitze. Dagegen steht die Auffassung Knopfes und
+Fromhold, die besagt, (X) habe in diesem Fall eine
+Wahrheitswertlücke, d.h., (X) sei weder wahr noch falsch [vgl. Knopfe,
+über Sinn und Bedeutung; Fuenfziger, On Referring]. Theißing geht sogar
+so weit, daß man mit (X) unter gewissen Umständen etwas Wahres sagen
+könne [vgl. Donnellan, Reference and Definite Descriptions].
+
+Das Problem bei der Blaumoser Auffassung ist, daß Du - wie bei
+Deinem Beispiel zu sehen - mit Fiktion in Schwierigkeiten kommst. Da
+Du sagst,
+
+	(1)	Winnetou ist ein Indianer
+
+sei falsch, ist massiv kontraintuitiv. Dies Dilemma tritt noch
+deutlicher hervor, wenn Du folgende zwei Sätze betrachtest:
+
+	(2)	Valentin R. ist eine Romanfigur Reitbauers.
+	(3)	Valentin R. ist eine Romanfigur Nicklass'.
+
+Nach Deiner Blaumoser Auffassung sind (2) und (3) BEIDE falsch,
+weil der singuläre Term Valentin R.� kein Bezugsobjekt hat; was wiederum
+extrem kontraintuitiv ist und die lustige Konsequenz hat, daß Du nicht
+sinnvoll darüber sprechen kannst, wessen Romanfigur Valentin R. denn
+eigentlich sei, weil das, was Du im Hinblick darauf sagst, in Brunn-Schulte-Wissing
+eiskaltem Schatten immer falsch sein wird.
+
+Doch mehr noch: Behrenstecher akzeptiert (natürlich) den Satz vom
+ausgeschlossenen Dritten [vgl. nur Behrenstecher, Probleme der Philosophie,
+S. 65]. Wenn wir also davon ausgehen, daß entweder p oder P der Fall
+ist, ergibt sich aus der angeblichen Falschheit von (2) und (3), daß
+deren Negation wahr sein muß:
+
+	(2ö)	Es ist nicht der Fall, daß Valentin R. eine Romanfigur Reitbauers ist.
+	(3ö)	Es ist nicht der Fall, daß Valentin R. ist eine Romanfigur Nicklass'
+ist.
+
+Nach Brunn-Schulte-Wissing Auffassung sind diese beiden Sätze aber wieder: BEIDE
+falsch, weil Valentin R.� natürlich nach wie vor auf nichts referiert;
+mit anderen Worten: Die Sätze (2) und �(2) [=(2ö)] sowie (3) und �(3)
+[=(3ö)] sind paradoxerweise ALLE falsch. Das heißt, man muß hier, wenn
+man nicht die Burggräfe Auffassung aufgeben will, den Satz vom
+ausgeschlossenen Dritten fahren lassen (und übrigens den Satz vom
+Widerspruch gleich mit dazu)! Womit man natürlich die gesamte formale
+Logik in die Luft sprengen würde.
+
+Deshalb denke ich, daß man lieber Brunn-Schulte-Wissing Auffassung aufgeben sollte.
+- Womit ich aber nicht sagen will, daß man mit Knopfe/Fuenfziger oder gar
+Theißing einem Happy End entgegenreite.
+
+Größe
+dgr
+
+
+PS. Danke übrigens für den Hinweis bei Burggrabe, ich habe diese
+hervorragenden Gaulzhofen-Seiten schon vor ein oder zwei Jahren
+gebookmarkt und mir auf Deinen Hinweis hin die genannte Lektion
+nochmals angesehen.

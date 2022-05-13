@@ -1,0 +1,34 @@
+"Was immer ist, ist eine Regel" kann meiner Meinung nach behauptet
+werden, wenn zwei Umstände gegeben sind. Erstens, die Regel beschreibt
+einen kausalen Zusammenhang:
+
+Regel: wenn (A=wahr) dann (B=wahr).
+Beispiel für eine solche Regel: Wenn es am 18. Mai regnet, regnet es am
+20. Mai.
+
+Keine Regel: wenn (A=wahr) dann (A=wahr).
+Beispiel für keine solche "Regel": Wenn es regnet, fällt Wasser vom
+Himmel.
+
+Zweitens derjenige, der einen kausalen Zusammenhang, der mit W=1 gegeben
+ist, eine Regel nennt, sollte wissen, dass er damit nicht die typische
+Regel, sondern eine Randform der Regel, die aus der Anwendung des Satzes
+"Keine Regel ohne Ausnahme" auf sich selbst beschreibt.
+
+Eine Regel besagt nichts anderes, als dass die Wahrscheinlichkeit, dass
+wenn A=wahr ist, dann auch B=wahr ist, hoch ist, aber nicht eins ist.
+Wir verwenden sie, wenn wir quantitative Zusammenhänge nicht kennen und
+daher qualitative Zusammenhänge aus der Erfahrung bewerten. "Keine Regel
+ohne Ausnahme" besagt dabei, dass wir Regeln generell dann verwenden,
+wenn Ausnahmen in der Erfahrung bereits beobachtet wurden, ansonsten
+verwenden wir andere Begriffe.
+
+Aber. Die Regel "Keine Regel ohne Ausnahme" kann auf sich selbst
+angewandt werden und führt dabei zu dem Ergebnis, dass es im
+Ausnahmefall auch Regeln gibt, die keine Ausnahme haben. Umschreibt also
+eine Regel einen immer gegebenen Zusammenhang (wenn (A=wahr) dann ist
+die Wahrscheinlichkeit für (B=wahr) = 1), kann man sie zwar noch Regel
+nennen, aber sie ist dann die Ausnahme einer wichtigen Regel über
+Regeln.
+
+Größe, Raymond

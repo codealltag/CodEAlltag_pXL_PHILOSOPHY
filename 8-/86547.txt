@@ -1,0 +1,32 @@
+Da braucht es einen Botcast, keine Podcast.  Es gibt soch allerlei
+Generatoren im WWW, welche Text in irgendeinem Stil generieren
+(gesehen habe ich welche zu postmodernem Geschwafel, Chomsky und
+Informatik).  Sprachausgabe dranflanschen und fertig.
+
+
+Man kann doch aus vorsortierten Paaren von Subjekt und Prädikat gute
+Nachrichten bauen, z.B.
+
+(setq evil-subs '("Remmer Madwig" "Torsten Venhuis" ...))
+(setq good-subs '("Steffen Czerwonka" "Volkert Coopmann" ...))
+(setq verbs1 '("gevierteilt und Stücke immernoch zu groß für Müllschlucker"
+               "mit Bürostuhl vom Vizechef erschlagen" "gehängt" ...))
+(setq verbs2 '("erfolgreich geklont"
+               "für Friedensnobelpreis vorgeschlagen" ...))
+
+und dann passend montieren.
+
+Das ganze hat noch den Vorteil, dass es offline funktioniert.
+
+Alternative Idee: Einen Parser vorschalten und die Satzbausteine
+vorfiltern (statt Subjekte gibt es jetzt wie oben "gute Subjekte" und
+"böse Subjekte", und Sätze, die die nicht mit den farbig passenden
+Prädikaten verknüpft enthalten, liegen außerhalb der neuen Grammatik
+und werden verworfen).  Das braucht Netzanbindung, zeigt aber eine
+gewisse Korrelation zur Außenwelt.
+
+Oswald
+-- 
+GS d->? s:++>+++ a+ C++++ UL+++ UH++ P++ L++ E+++ W- N++ o-- K-
+w--- !O M- V- PS+>++ PE Y+>++ PGP+ !t !5 !X !R !tv  b+++ DI+++
+D? G+ e++++ h+ r? y?

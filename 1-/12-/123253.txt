@@ -1,0 +1,35 @@
+Das ist eine Aussage der QT. Ein Postulat der QT lautet, dass für eine
+Observable T (bzw. den zugehörigen selbstadjungierten Operator) der
+Erwartungswert <T> der Zufallsvariablen, die dem Ereignis, dass im
+Zustand x die Observable T bestimmt wird, den bestimmten Wert von T in
+x zuordnet, <T>=<Tx,x> gilt. (<-,-> ist das Skalarprodukt des
+komplexen Hilbertraums H, der als Zustandsraum fungiert).
+
+Für die Varianz von T (in x), das zentrierte zweite Moment, folgt
+somit Var(T)=<(T-<T>1)^2>=<(T-<T>1)^2 x,x>, die _Unsch�rfe_ DT ist die
+Standardabweichung, hier gilt DT=sqrt(Var(T)). T hat in x einen
+_scharfen Wert_, wenn Var(T)=0, und das ist genau dann der Fall, wenn x
+ein Eigenvektor von T ist.
+
+
+Für zwei Observablen S und T läßt sich nun leicht
+
+(1)                  DS DT >= | 1/(2i) < [T,S] > | 
+
+
+zeigen, wobei [T,S]:=TS-ST der Kommutator ist. Die _Unsch�rferelation_
+lautet in Operatordarstellung, falls T der Ortsoperator und S der
+Impulsoperator ist,
+
+                        i [S,T]= 1.
+
+Mit (1) ergibt sich dann DS DT >= 1/2 (hquer=1). Falls DT!=0 für einen
+Zustand x, so kann T in x keinen scharfen Wert haben, denn wenn wir
+dasselbe Experiment, in dem wir T im Zustand x des quantenmechanischen
+Systems messen, mehrfach ausführen, erhalten wir im allgemeinen
+verschiedene Werte. Die Unschärferelation sagt u.A. aus, dass es
+keinen Zustand x gibt, bei dem S und T _beide_ einen scharfen Wert
+haben. 
+
+
+stefan

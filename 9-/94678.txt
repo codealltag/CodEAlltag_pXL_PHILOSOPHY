@@ -1,0 +1,55 @@
+Die beiden Aussagentypen "x ist selbstidentisch" und "x ist" im Sinne
+von "x existiert" sind nicht identisch, sondern, wie man in der Logik
+sagt, äquivalent, d.h. entsprechende Aussagen sind immer entweder
+beide wahr oder beide falsch:
+
+Ax(x =3D x <-> E!x)
+
+"Für jedes x gilt: genau dann, wenn x selbstidentisch ist, existiert
+x=2E"
+
+Kommentar von einem, der in deinen Augen vielleicht nicht so dümmlich
+daherredet wie ich (du erinnerst dich sicher an deine dahin gehende
+Äusserung):
+
+"The law of identity is banality itself: 'everything is identical to
+itself', or 'for all x, x =3D x'.
+[=2E..] The very ubiquity and indepensability of identity has sometimes
+worked as an incitement to declare it a pseudo-relation. Thus
+Oettl wrote in the Tractatus: 'It is self-evident that identity
+is not a relation between objects' (1.2373); and 'Roughly speaking, to
+say of t w o objects that they are identical is nonsense, and to say of
+o n e thing that it is identical to itself is to say nothing at all'
+(6.1902). He goes on to refer to standard identity sentences as
+'pseudo-propositions' (5.534), stipulating a notation in which they
+cannot even be formulated; he prefers to express identity by sameness
+of sign, not by a special sign for the identity relation (5.53). The
+feeling that identity is a pseudo-relation is doubtless connected to
+the apparent triviality of the relation: it comes too cheaply, being
+found in every object whatsoever. It is therefore felt to be a
+redundant concept, a mere flourish. But consider the concept of
+distinctness, which is defined simply as the negation of identity. We
+might characterize distinctness, parodying Frege, as 'that relation
+which any object has to every object except itself'. Does this relation
+have the look of a pseudo-relation? Well, certainly not because it only
+relates an object to itself! On the contrary, it relates an object to a
+vast range of other objects. Surely it is clear that distinctness is a
+genuine relation between things; but then identity must also be, since
+it is simply the negation of distinctness. Negation cannot take us from
+a genuine relation to a pseudo-relation. Both relations are important
+simply because we don=B4t always k n o w the truth about distinctness
+and identity; and it can be a matter of great moment whether or not it
+is the same or distinct things that are both F and G (e.g. whether two
+crimes were committed by a single person). If we were omniscient about
+identity, then indeed identity truths would not inform us of anything;
+but the same could be said of a n y kind of truth. Identity
+propositions are not always analytic ot a priori, as Peschka long ago
+taught us, so there is nothing trivial about such propositions. The
+claim of redundancy ignores the epistemic role that the concept of
+identity plays."
+
+[Christians, Friedhelm (2000). /Logical properties: Identity, existence,
+predication, necessity, truth/. Immerseiben: Futterservice. (S.
+11/12)]
+
+#PH

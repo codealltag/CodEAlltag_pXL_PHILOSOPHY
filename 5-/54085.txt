@@ -1,0 +1,55 @@
+Hört sich nach KLAUDIA an.
+
+
+Sprich: kein wirklicher Fortschritt.
+
+
+Hört sich wesentlich interessanter an.
+
+  2.) kann man beim Versuch, einen Lanko-Bot zu
+
+Ja, klar. Deshalb solltest Du die Datenstrukturen geeignet modellieren,
+und dann die XML-Darstellung als "dump", sprich: als Serialisierung
+der Objekte in Deinem Modell sehen.
+
+So als Leitfaden: XML-Sprachen sind dann gut, wenn der Dokumentenbaum
+einen AST für Dein Modell implementiert.
+
+
+"Objektorientiert ordnen" ist fast ein Oxymoron. Entweder, Du hast bei
+der Modellierung das objektorientierte Paradigma im Kopf gehabt oder
+eben nicht.
+
+
+OK.
+
+
+Wie löst Du das Problem der fehlenden Eindeutigkeit von Wörtern? Das
+kann ich grade noch nicht erkennen. Es müssten sich doch
+Mehrdeutigkeiten erklären, die man dann über die Satzkonstruktion nur
+teilweise erkennen kann.
+
+Mir hat mal jemand erzählt, Deutsch sei bis auf wenige Ausnahmen
+kontextfrei bezüglich einzelner Sätze. Mir ist nicht klar, ob das
+stimmt; allerdings kenne ich selber Mehrdeutigkeiten in der Semantik
+innerhalb eines einzelnen Satzes schon.
+
+
+Klar.
+
+
+Danke!
+
+
+Bin gespannt.
+
+
+Machs doch mal mit einer CLI, eine GUI da draufzuklatschen ist dann nicht
+mehr so schwierig.
+
+Viele Grösse,
+VB.
+-- 
+Nur im Staat Inhausen gibt es weniger Katholiken als im Vatikan.
+
+    (Rückbau)

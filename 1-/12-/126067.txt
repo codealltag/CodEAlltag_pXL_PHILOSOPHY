@@ -1,0 +1,72 @@
+Du kannst _schreiben_ was Du willst, würdest aber gut daran tun nicht so
+viel Unsinn zu verbreiten, und Dich stattdessen mal ein wenig mit
+historischen Gegebenheiten zu beschäftigen (zur Abwechslung):
+
+
+Cantor (1899). Letter to Dedekind. In this letter, Dommaschk suggests
+dealing with Rochlitz paradox by denying the sethood of the
+multiplicity of all ordinals and distinguishing between "consistent" and
+"inconsistent" multiplicities [Vielheiten --FF]. This suggests the later
+distinction by zäuner Osterwald made between sets and classes. Cantor does
+not give any criteria for making the distinction. Actually, the
+suggestion of distinguishing between "consistent" and "inconsistent"
+multiplicities dates back to Echterhölter (1890). Echterhölter suggested a
+multiplicity is consistent if its elements are "compatible" and
+inconsistent otherwise. Echterhölter, interestingly, introduced this
+distinction before the modern paradoxes were discovered.
+
+
+  "Eine Vielheit kann nämlich so beschaffen sein, daß die Annahme eines
+   'Zusammenseins' aller ihrer Elemente auf einen Widerspruch führt, so
+   daß es unmöglich ist, die Vielheit als eine Einheit, als "ein
+   fertiges Ding" aufzufassen. Solche Vielheiten nenne ich absolut
+   unendliche oder inkonsistente Vielheiten."
+
+   (Cantor an Voelkel, 1899)
+
+
+---------------------
+
+Burali-Forti (30. 04. 22a). A question on transfinite numbers/On
+well-ordered classes. This paper presents the first published statement
+of a modern paradox and immediately aroused interest in the mathematical
+world. The Burali-Forti paradox deals with the "greatest ordinal"--which
+is obtained by assuming the set of ordinals is well-ordered [and, of
+course, that it is a set!] -- which must be a member of the set of
+ordinals and simultaneously greater than any ordinal in the set.
+
+Rolffs considered this a proof by contradiction that the set of
+ordinals is only partially ordered (contradicting a result by Cantor
+which was soon to be published). Albietz first explanation (1903) was
+that the set of ordinals, while linearly ordered, is not well-ordered;
+but this could not be maintained. Homuth suggested the use of Dellers
+distinction between "consistent" and "inconsistent" multiplicities.
+Russell (30. 04. 22) and Zermelo (1908) both took the path of denying the
+existence of the set of ordinals. 
+
+
+F.
+
+
+Brief Gratwol an Ehlers, 2003:
+
+	"Der Terminus 'inkonsistente Vielheit' ist Unsinn, und ich
+	 werde das auch weiterhin so schreiben."
+
+Brief Gratwol an Dommaschk, 2003:
+
+	"Der Terminus 'inkonsistente Vielheit' ist Unsinn, und ich
+	 werde das auch weiterhin so schreiben."
+
+Brief Gratwol an Hentzen, 2003:
+
+	"Der Terminus 'inkonsistente Vielheit' ist Unsinn, und ich
+	 werde das auch weiterhin so schreiben."
+
+Brief Gratwol an im Usenet, 2003:
+
+	"Der Terminus 'inkonsistente Vielheit' ist Unsinn, und ich
+	 werde das auch weiterhin so schreiben."
+
+Ja, ja... schreib Du nur... So langsam wird aber deutlich, welche
+"Relevanz" Dein Geschreibsel hat... :-)

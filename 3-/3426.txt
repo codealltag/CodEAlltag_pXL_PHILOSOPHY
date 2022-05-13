@@ -1,0 +1,195 @@
+Da bin ich mal gespannt.
+
+
+Tatsächlich spielt die Art der Zeichen keine Rolle, genausowenig wie
+ihre konkrete Anzahl, solange die Zeichen noch eine Menge bilden. Im
+Regelfalle sind Zeichenmengen aber endlich; jedoch sogar wären sie
+unendlich, so sind sie doch abzählbar. Auch das genügt. Sie dürften wie
+gesagt sogar überabzählbar sein, nur eben keine Unmenge bilden. Aber
+bleiben wir konkret:
+
+Mit Zeichen meine ich z.B. die Buchstaben eines Alphabetes oder
+Hyroglyphen oder Gebärden oder Laute oder sonst irgend etwas, was man
+zur Formierung einer Sprache nutzen kann. Du wirst mir sicher zustimmen,
+dass alle diese Mengen von Zeichen immer endlich sind, nicht wahr?
+
+Die Worte (und nicht nur etwa die Wörter ;-) müssten dann schon nicht
+mehr endlich sein, das wäre kein Problem (sie sind aber abzählbar, siehe
+unten).
+
+Strukturell kannst Du Dir das Argument in etwa so vorstellen: ich
+verwende hier Unicode, das sind maxmimal 65535 Codepoints, die man zu
+vielleicht nicht einmal 200.000 Zeichen formieren kann. Das sei jetzt
+die Menge der Zeichen, über die ich spreche. Dann sind alle Texte, die
+man mit diesen Zeichen erstellen kann (da sind übrigens jetzt alle
+Schriftzeichen aller bekannten Kulturen des Planeten enthalten), in der
+Potenzmenge über Unicode-Zeichen enthalten.
+
+Oder, anders formuliert: Texte sind Zeichen hintereinandergeklebt, es
+sind Kombinationen von Zeichen.
+
+Du wirst mir jetzt sicher zustimmen, dass nicht jede (zufällige)
+Kombination von Zeichen einen sinnvollen Text aus einer Sprache
+darstellt. Es sind zwar alle Texte so formbar, aber viel, was formbar
+ist, ist kein sinnvoller Text.
+
+Deshalb sagen wir in der Informatik, eine Sprache ist eine Teilmenge der
+Potenzmenge über dem Zeichenvorrat.
+
+Dazu benötigt man kein semiotisches Dreieck, sondern eben die Idee, dass
+man mit Sprache bezeichnet. Das genügt. Ich argumentiere nur deshalb am
+Beispiel des semiotischen Dreiecks, weil es ein praktikables Modell ist;
+analog kann man für jede Idee des Deutens und Bezeichnens argumentieren.
+
+Das Argument ist also unabhängig davon, was man konkret unter einem
+Zeichen versteht.
+
+Ich kürze etwas (vielen Dank für die Erläuterungen, die kann ich an
+anderer Stelle gut brauchen ;-)
+
+
+Eben.
+
+Es gibt gar nicht mehr Zeichen, sondern diese besitzen eine
+Arbitrarität. Tatsächlich würde ich mich sehr wundern, wenn jemand eine
+sinnvolle Menge von Zeichen benennen könnte, die nicht endlich ist.
+
+Warum das für mein Argument keine Rolle spielt? Denk bitte dran, dass
+wir doch über /Explikation/ sprechen, denn wir betrachten ja die
+Analytik. Und diese erfordert eben eine Basisnomenklatur und ein
+kontrolliertes Vokabular. Sie kann aus diesen beiden Dingen
+argumentieren, darf aber anders nicht vorgehen, sonst ist es ja gerade
+keine Analytik mehr. Sie *MUSS* explizieren.
+
+Es ist (wie Du sehr wohl weisst) nicht möglich, vollständig zu
+explizieren. Man ist bei der Basisnomenklatur sowieso, aber auch beim
+kontrollierten Vokabular auf Implizites angewiesen. Man sieht das sehr
+gut in den Modellen, wie Metaphern und Symbole die Worte in der Analytik
+beeinflussen, ja geradezu gestalten (auch ohne dass sich die Analytiker
+dessen überhaupt bewusst sind). Das weisst Du sicher genauer als ich.
+
+Trotzdem: die Analytik will sich ja auf Explikationen beschränken, und
+eben gerade nicht ohne Explikation schliessen. Entsprechend muss sie
+sich die Insuffizienz dieser Vorgehensweise auch vorhalten lassen.
+
+Übrigens, hier noch etwas zu Kardinalitäten von Mengen:
+
+In der Mathematik unterscheiden wir nicht nur unterschiedlich grosse
+endliche Mengen, sondern auch unterschiedlich mächtige unendliche
+Mengen. Dabei ist jede endliche Menge weniger mächtig als jede
+unendliche.
+
+Wie kann eine Menge nun mächtiger als eine andere sein, obwohl beide
+unendlich sind? Im Beispiel seien zwei Mengen, A und B. r sei eine
+Relation von A nach B, das bedeutet: r ordnet je einem Element von A
+Elemente von B zu, und umgekehrt, r ordnet (quasi rückwärts gelesen) je
+einem Element von B welche von A zu.
+
+Gibt es nun eine besondere Relation, die wechselseitig je ein Element
+von A auf je eins von B abbildet, und auch umgekehrt genau ein Element
+von B auf je eins von A abbildet, so nennen wir diese Relation eine
+Bijektion.
+
+Gibt es eine Bijektion von A nach B, so sind A und B gleich mächtig,
+sonst nicht. Gibt es eine Bijektion immer nur für eine echte Teilmenge
+von B auf A, so ist B mächtiger als A.
+
+So wird die Mächtigkeit von Mengen üblicherweise definiert. Man sieht:
+eine endliche Menge A ist weniger Mächtig als eine endliche Menge B,
+falls B mehr Elemente enthält; denn dann kann man versuchen, bijektiv
+abzubilden wie man will, aber die Elemente in A gehen einem früher aus
+als die in B, so dass immer welche in B übrigbleiben. B ist mächtiger
+als A.
+
+Mit Bijektionen kann man aber auch für unendliche Mengen argumentieren.
+Beispielsweise ist die Menge der natürlichen Zahlen unendlich. Für jede
+natürliche Zahl gibt es auch noch ihren Nachfolger, ohne Ende.
+
+Die Menge der ganzen Zahlen (das sind die natürlichen Zahlen, die
+Null sowie die negativen Zahlen) ist ebenfalls unendlich. Nun wäre
+intuitiv zu vermuten, dass etwa die ganzen Zahlen mächtiger sind als die
+natürlichen. Diese Intuition ist aber falsch. Denn die Regel heisst
+nicht: "finde eine Relation, die auf eine echte Teilmenge bijektiv ist,
+dann ist B mächtiger als A". Klar, das könnte man trivial finden für die
+natürlichen Zahlen und die ganzen, sind die natürlichen doch vollständig
+in den ganzen enthalten.
+
+Die Regel zur Mächtigkeit heisst aber anders: gibt es /irgendeine/
+Bijektion zwischen den beiden Mengen, so sind sie gleich mächtig. Es
+kann auch andere Relationen geben, das spielt keine Rolle. Findet man
+also eine Bijektion zwischen den natürlichen Zahlen und den ganzen? Hier
+ist eine; links schreibe ich immer die natürliche Zahl, rechts die
+zugehörige ganze Zahl:
+
+ 1 <->  0
+ 2 <->  1
+ 3 <-> -1
+ 4 <->  2
+ 5 <-> -2
+ 6 <->  3
+ 7 <-> -3
+ 8 <->  4
+ 9 <-> -4
+10 <->  5
+11 <-> -5
+
+Und so weiter. Wie Du siehst, ist jeder natürlichen Zahl genau eine
+ganze eindeutig zugeordnet, und auch umgekehrt: jeder ganzen ist genau
+eine natürliche zugeordnet. Um nicht zu sagen, die Eins der natürlichen
+wird auf die Null der ganzen Zahlen abgebildet, und dann werden die
+geraden auf die positiven, die ungeraden auf die negativen Zahlen
+abgebildet.
+
+Die natürlichen und die ganzen Zahlen sind also gleich mächtig. Eine
+Menge wie die ganzen Zahlen, die gleich mächtig ist wie die natürlichen,
+nennt man abzählbar. Man kann mit 1 beginnen zu zählen, und jedes
+Element bekommt seine natürlich Zahl.
+
+Es gibt nun auch Mengen die man nicht abzählen kann. Diese sind
+mächtiger als die natürlichen Zahlen. So ist beispielsweise die Menge
+der Brüche noch abzählbar (man diagonalisiert sie, und kann sie so
+abzählen), aber die Menge der reellen Zahlen ist beispielsweise nicht
+mehr abzählbar (da sind dann beispielsweise die Kreiszahl π und die
+eulersche Zahl e mit drin). Die Beweise dafür erspare ich mir an der
+Stelle, sie sind in der Literatur bequem zu finden.
+
+Interessant ist jetzt aber folgendes: hat man eine beliebige Menge M, so
+ist ihre Potenzmenge P immer mächtiger als die ursprüngliche Menge M.
+Man kann das für endliche Mengen wieder einfach erkennen: schon die
+Boolsche Menge { 0, 1 } reicht aus, um unendlich viele Kombinationen zu
+erzeugen; die Potenzmenge der Boolschen Menge sind ja gerade die
+Binärzahlen, letztlich bilden wir im Moment gerade alles damit technisch
+ab, was wir hier überhaupt machen (schliesslich benutzen wir
+Binärrechner um uns hier zu unterhalten).
+
+Das gilt aber auch für alle unendlichen Mengen; die Potenzmenge einer
+jeden Menge ist immer mächtiger als ihre Basis. Auch diesen Beweis
+erspare ich mir, ich kann gerne wieder auf Literatur verweisen. Der
+Einfachheit halber:
+
+<https://gr.ilcruqxww.vpf/utcq/Ozzr_vkg_Xgxhjx>
+
+Der Satz von Altemeier sagt aber indirekt, dass es für die Mächtigkeit (das
+ist hier dasselbe wie “Kardinalität”) keine Schranke nach oben gibt,
+denn es existiert zu jeder Menge ihre Potenzmenge. Es gibt also keine
+“mächtigste” Menge.
+
+Aber es gibt etwa anderes: es gibt nämlich Unmengen. Darunter versteht
+man eine Klasse (das ist eine Verallgemeinerung des Mengen-Begriffes,
+für den dann die Regeln für Mengen nicht unbedingt mehr gelten), die
+mächtiger ist als jede Menge. Eine Unmenge ist quasi in ihrer
+Mächtigkeit nicht beschränkt. Da einer Menge immer eine Mächtigkeit
+zuzuordnen ist, sind das eben auch keine Mengen. Man spricht dann von
+echten Klassen. Unmengen sind eine Sorte echte Klassen.
+
+Was ich jetzt argumentiere ist, dass die Sprachen die kleinste
+Mächtigkeit für unendliche Mengen besitzen (sie sind abzählbar) oder
+sogar endlich sind, während dessen keine Beschränkung der Mächtigkeit
+für Bedeutung besteht.
+
+Viele Grüsse,
+VB.
+-- 
+Wenn Pulmann „Urwahl“ hört, ruft der „Rolex!“
+
+    (Eberhard Nehr)

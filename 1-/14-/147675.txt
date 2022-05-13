@@ -1,0 +1,110 @@
+Von: Thierry Gräfke <Owipj.Evko4@a-gvibur.me>
+Betreff: Re: Frage zu  x^3 + y^3 = z^3
+Datum: Freitag, 12. August 2001 15:06
+
+    [ SNIP ]
+
+
+Hallo Thierry,
+
+      da inzwischen rund 2 Wochen vergangen sind, ohne daß noch eine
+Antwort zu diesem Thread gekommen wäre, möchte ich ihn mit der
+folgenden Zusammenfassung abschließen.
+
+Man betrachte eine  DAS,n  und bezeichne diejenigen Zahlen, die in der
+auf irgendein  z^n  in der Kopfzeile weisenden eld stehen, mit
+
+  D(i,z^n),
+
+wobei  i  die von oben nach unten gezaehlte Nummer der Zeile ist, in
+welcher die Zahl steht:  i = 1, 2, 3, 4, .....
+Als Beispiel:
+
+                         DAS,3   z = 1 ... 6
+                        ==============
+
+i=1: __ D(1,2^3) __ D(1,3^3) __ D(1,4^3) __ D(1,5^3) __ D(1,6^3) _
+i=2: ________ D(2,3^3) __ D(2,4^3) __ D(2,5^3) __ D(2,6^3) _
+i=3: ____________ D(3,4^3) __ D(3,5^3) __ D(3,6^3) _
+i=4: __________________ D(4,5^3) __ D(4,6^3) _
+i=5: ______________________ D(5,6^3) _
+
+usw.
+
+Gemaess der Konstruktion der DAS,n haben die Zahlen  D(i,z^n)  die Werte
+
+  D(i,z^n)  =  z^n - (z-i)^n .
+
+Wegen der Identitaet  a^n - b^n  =  (a - b)*A(a,b)  sind saemtliche in
+der i-ten Zeile stehenden Zahlen  D(i,z^n)  durch  i  teilbar.
+
+In der  DAS,n=1  haben saemtliche in der  i-ten  Zeile stehenden Zahlen
+den jeweils gleichen Wert  D(i,z^1)  =  i .
+
+Ö1) Um den Fermat'schen Satz zu beweisen, muss erkannt/gezeigt/bewiesen
+        werden, dass in keiner eld einer DAS,n  mit n > 2  irgend eine  n-te
+        Potenz stehen kann; es muss also  D(i,z^n)  =/=  y^n  gelten fuer
+        alle  n > 2, z > 1  und  1 <= i < z.
+
+ß2) Anstelle der unendlich vielen  DAS,n  mit  n > 2  kann man auch die
+        DAS,n=1  betrachten. Um darin den Fermat'schen Satz zu beweisen,
+        muss erkannt/gezeigt/bewiesen werden, dass in keiner auf irgend eine
+        n-te Potenz  z^n  in der Kopfzeile weisenden eld mit n > 2  irgend
+        eine  n-te Potenz stehen kann; es muss also  D(i,z^n)  =/=  y^n
+        gelten fuer alle  n > 2, z > 1  und  1 <= i < z.
+
+Falls man weder  Ö1)  noch  ß2)  "erkennen" kann, muss man es beweisen.
+Zum Beweis steht die Mittelgleichung A in der Form
+
+  z^n  -  (z - i)^n  =/=  (z - 2*i)^n   fuer  n > 2, alle z und i < z
+
+zur Verfuegung, und aus dieser ersieht man, dass in  k e i n e r  auf
+irgend eine n-te Potenz  z^n  in der Kopfzeile weisenden eld mit n > 2
+irgend eine n-te Potenz von der ganz speziellen Gestalt
+
+  (z - 2*i)^n ,  1  <=  i  <  z
+
+stehen kann; daß also
+
+  D(i,z^n)  =/=  (z - 2*i)^n  fuer  n > 2, z > 1  und  1 <= i < z.
+
+gilt.
+Dies  r e i c h t   a u s  zum Beweis, dass die  e i n g e s c h r a e n k t e
+(constrained) Fermat'sche Gleichung mit der y-Mittelwert-Nebenbedingung
+
+  x^n  +  y^n  =  z^n ,     y  =  (x  +  z)/2 ,  n > 2
+
+in ganzen Zahlen nicht loesbar ist.
+Es  r e i c h t   a b e r   n i c h t  a u s  zum Beweis der
+allgemeinen, nicht eingeschraenkten FG, denn  D(i,z^n)  k o e n n t e
+ohne weiteres eine n-te Potenz von irgend einer anderen Gestalt sein.
+
+Ergo laesst sich FLT mit DAS,n=1, DAS,n  und Mittelgleichung A  n i c h t
+beweisen.
+
+QED.
+
+Deine immer wieder vorgebrachten zusaetzlichen Hinweise auf die
+"besonderen/einmaligen" Eigenschaften der ersten natuerlichen Zahlen
+
+a) n=    2:  n+n      = n*n      nur fuer  n = 2 ,
+b) n= 1,2:  n*n      = n^n      nur fuer  n = 1, 2 ,
+c) n=    2:  n+n      = n^n      nur fuer  n = 2 ,
+d) n= 2,4:  a^b     = b^a      nur fuer  (a,b) = (2,4),(4,2)  bei  a <> b ,
+e) n= 2,5:  a^b+a = b^a-b  nur fuer  a = 5, b = 2
+
+helfen für einen Beweis der allgemeinen Fermat-Gleichung auch nicht weiter,
+siehe dazu mein Posting:
+    Von: Etienne Uphagen <cosjibd.xrfvuk@mcxaoi.xf>
+    Betreff: Frage zu Fermat (war: Re:Frage zu  x^3 + y^3 = z^3)
+    Datum: Montag, 18. Juli 2001 22:51
+
+Immerhin hast Du aber den Spezialfall
+
+     x^n  +  y^n  =  z^n,  y  = (x + z)/2,   n > 2
+
+des Fermat'schen Satzes bewiesen  -  und das ist doch auch schon was !
+
+Mit freundlichen Größen
+   Etienne
+--

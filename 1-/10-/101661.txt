@@ -1,0 +1,16 @@
+Eine Ueberraschung bei einer Pruefung hat zwei Moeglichkeiten:
+- dass eine Pruefung an diesem Tag stattfindet (Moeglichkeit A)
+- und dass KEINE Pruefung an diesem Tag stattfindet (Moeglichkeit B)
+
+Die Moeglichkeit B kann selbst am Donnerstag noch eine Ueberraschung
+sein,
+weil ich auch am Donnerstag morgen nicht weiss, ob die Pruefung "nicht
+kommt"
+
+Mit anderen Worten:
+Wenn die Pruefung am Freitag kommt, waren es total 4 Ueberraschungen
+(Montag, Dienstag, ..Donnerstag und eine Nicht-Ueberraschung (am
+Freitag).
+Integral ueber die Woche war es also doch eine Ueberraschung
+
+Gruss, Meinhard

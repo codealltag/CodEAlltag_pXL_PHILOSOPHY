@@ -1,0 +1,22 @@
+Bestenfalls wenige ausgewählte (z.B. indem man sie durch ihren Index
+in der Auswahltabelle ersetzt), aber nicht alle mit demselben
+Verfahren.
+
+
+Na und?  Die ist ja auch nicht zufällig (was das ist, steht in RFC 1750).
+
+
+Eben.  Und diese Länge ist für alle (außer einer vernachlässigbar
+kleinen Teilmenge) Folgen größer als die Länge der Folge.
+
+
+Wird länger, wie erwartet (und dabei habe ich sogar nur aus
+/dev/urandom gefressen, welche gar nicht ordentlich zufällig sind -
+das eigentlich zuständige /dev/random liefert nur ein paar kb, bevor
+ich die Geduld verliere).
+
+Ignaz
+-- 
+GS d->? s:++>+++ a+ C++++ UL+++ UH++ P++ L++ E+++ W- N++ o-- K-
+w--- !O M- V- PS+>++ PE Y+>++ PGP+ !t !5 !X !R !tv  b+++ DI+++
+D? G+ e++++ h+ r? y?

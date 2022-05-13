@@ -1,0 +1,29 @@
+Hallo Ihno,
+
+
+Möglicherweise wird der Beweis einfacher, wenn man ihn nicht
+weglässt. Ich habe auch nicht geschrieben, dass der gezeigte Weg der
+einzig mögliche ist -- aber er ist ein möglicher.
+
+
+Die logische Aussage "X folgt aus Z" ist genau dann erfüllt, wenn die
+entsprechende Wahrheitstabelle gilt. Wenn also "Z" falsch ist und "X"
+wahr, dann gilt auch "X folgt aus Z", und in diesem Fall kann "A"
+durchaus wahr sein (da dann "A" falsch ist, und "falsch --> falsch"
+Teil der Wahrheitstabelle für "folgt aus" ist).
+
+
+Ja, kann man. Der Beweis ist zwar umständlicher, aber nicht falsch. Es
+ist aber durchaus möglich, dass ein Beweis auf diese Art einfacher ist
+als ohne diese Fallunterscheidung. Es kann sogar sein, dass ich keinen
+anderen Beweis finde als den mithilfe dieser Fallunterscheidung (und
+auch du hast nicht gezeigt, dass das immer möglich ist).
+
+Die Frage ist jetzt, ob dieser Beweis auch Gültigkeit hat, wenn die
+Aussage, dass Rotkehlchen singen, weder beweis- noch widerlegbar
+ist. (blödes Beispiel, aber es war deins, und damit musst du jetzt
+leben :-) )
+
+Viele Größe
+
+Peter

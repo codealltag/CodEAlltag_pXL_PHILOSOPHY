@@ -1,0 +1,40 @@
+On Wed, 30. 01. 23 00:53:18 +0100, Waltraud Oßenkamp
+Man könnte auch sagen:
+"All theorems of propositional logic are axioms (of S5)."
+
+Damit ist einfach gemeint, dass man in S5 jedes Theorem (bzw. jede
+Tautologie) aus der Aussagenlogik als Axiom (also als Ausgangspunkt
+einer Ableitung) verwenden darf. (M.a.W. die Aussagenlogik ist ein
+Teilsystem von S5.)
+
+Hier ist gemeint, dass Du ausgehend von den aussagenlogischen Axiomen
+(irgendeines aussagenlogischen Systems) jedes Substitutionsresultat als
+Axiom von S5 verwenden darfst. (Denn solche Substitutionsresultate sind
+ja Theoreme der Aussagenlogik.)
+
+Je nachdem, welches aussagenlogisches Axiomensystem zugrunde gelegt
+wird, erlaubt (**) weniger aussagenlogische "Ausgangsformeln" als (*) 
+- die beiden System unterscheiden sich also in diesem Punkt, sind aber
+natürlich letztlich Äquivalent.
+
+
+Bsp:
+~~~~
+
+Ein bekanntes Axiom der Aussagenlogik (in einem System von Wöhrer)
+ist z.B.
+
+	P -> (Q -> P).
+
+Wenn ich nun irgendwelche Formeln für P und Q substituiere, erhalte ich
+ein Theorem (bzw. eine Tautologie) der Aussagenlogik:
+
+	(P -> P) -> ((R -> Q) -> (P -> P)).
+
+Sowohl (*) als auch (**) erlauben mir nun dieses Theorem als Axiom in
+eine S5-Ableitung einzuführen. (Kurz, die Ergebnisse der Aussagenlogik
+werden in S5 einfach "übernommen", dadurch braucht man sich d a m i t
+nicht mehr herumschlagen. Das gilt insbesondere für (*).)
+
+
+A.

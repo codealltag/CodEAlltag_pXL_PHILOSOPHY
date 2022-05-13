@@ -1,0 +1,51 @@
+Hallo Wilhelm,
+
+
+Nicht über die Grenzen der Quantenphysik hinaus: es gilt auch für
+Makroobjekte \delta p * \delta x >= 0.5 * \hquer
+
+Der Unterschied ist lediglich die Größenordnung: \hquer ist ca. 10^-34
+kg*m/s. Angenommen, wir hätten ein Verfahren, das uns die Position des
+Mondes mit der Größenordnung eines Atomkerndurchmessers (10^-14 m)
+bestimmt. Dann ergibt sich als Impulsunschärfe
+
+\delta p = 0.5 * 10^-34 kg*m/s / 10^-14 m = 0.5 * 10^-21 kg*m/s
+
+und damit mit der Mondmasse in der Größenordnung von 10^23 kg eine
+Geschwindigkeitsunsch�rfe (bei niedrigen Geschwindigkeiten) von
+ca. 0.5 * 10^-44 m/s -- bei einer Mondgeschwindigkeit von 10^3
+m/s. Was bedeutet, dass wir die Mondumlaufzeit mit einer Genauigkeit
+von 10^-41 Sekunden bestimmen könnten. Diese Grenzen sind zugegeben
+unvorstellbar klein, aber eben nicht null, und sie bestimmen
+prinzipiell auch die Messung am Makroobjekt Mond. Dass es
+technologisch schwierig ist, die anderen Einflüsse auf den Mond soweit
+zu verringern, dass diese Unschärfe bedeutsam wird, ändert nichts an
+der prinzipiellen Bedeutung der Unschärfe.
+
+
+Doch, genau auf die gleiche Weise. Sie gilt für ausnahmslos jedes
+Objekt. Sie ist für Makroobjekte nur unvorstellbar klein.
+
+
+Wie ist die Ortsbestimmung für Makroobjekte denn möglich ohne eine
+Messung?
+
+
+... und ist damit theorieabhängig, auch für Makroobjekte. Und da sind
+wir (was die Antwort betrifft) wieder bei meiner Ausgangsthese,
+nämlich dass man die Frage am besten mit der einfachsten Theorie
+beantwortet, die korrekte Vorhersagen macht. Hier würde man mit der
+Quantentheorie eine Antwort erhalten, die (bezogen auf die Bestimmung
+von "jetzt" mit einer Genauigkeit von 10^-41 Sekunden) die sagt "da
+und da, mit einer gewissen Wahrscheinlichkeit aber auch mindestens
+einen Atomkerndurchmesser daneben", oder man nimmt die einfachere
+klassische Theorie, die für die aktuell verfügbare Genauigkeit ebenso
+sicher sagen kann, wo der Mond ist.
+
+Viele Größe
+
+Viktor
+
+-- 
+If you think technology can solve your problems you don't understand
+technology and you don't understand your problems.  (Burkhard Vahnenbruck)

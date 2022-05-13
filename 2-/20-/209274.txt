@@ -1,0 +1,15 @@
+: Da man ueber das gegebene System in einer komplexeren Sprache (z.B. Deutsch)
+: sprechen kann, laesst sich in vielen Faellen doch beweisen, dass ein Axiomen-
+: System widerspruchsfrei ist (Modelltheorie).
+
+Von komplexeren Sprachen laesst sich in vielen Faellen erst recht nicht 
+beweisen, dass sie widerspruchsfrei sind, weshalb sie zum Beweis der 
+Widerspruchsfreiheit anderer Systeme ungeeignet sind. Insbesondere von 
+natuerlichen Sprachen wie Deutsch laesst sich zeigen, dass sie Widersprueche 
+enthalten. Immerhin kann man, etwa mithilfe der Modelltheorie, von einigen
+formalen Systemen zeigen, dass ihre Widerspruchsfreiheit diejenige einiger
+anderer formalen Systemen nach sich ziehen wuerde. Man spricht dann von
+*relativer* Widerspruchsfreiheit. 
+
+--
+Jochen Frankenbach <Qendghm.Nhznn@ium.hhr.xi>

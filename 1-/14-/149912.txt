@@ -1,0 +1,18 @@
+Eben! Ist die logische Form von "Nichts ist besser als Gold"
+
+     Ex(x="Nichts" und (x "besser" Gold))
+
+oder ist sie Ax(~x "besser" Gold)? Das Wort "Nichts" ist hier grammatisch
+nicht in der "Subjektposition", es ist kein Name fuer /etwas/ und auch
+keine Konstante.
+Dann kann es auch nicht in einer praedikativen Formel stehen. Und tatsaech-
+lich steht es ja auch nicht in der logischen Form, denn hier stehen nur
+gebundene Variable und eine Konstante. Es ist daher nur ein /Scheinsubjekt/
+(wenn man so will).
+
+
+f'up de.sci.philosophie
+
+
+Gruss Serge
+--

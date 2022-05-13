@@ -1,0 +1,56 @@
+Nein hast du nicht, du hast lediglich zwei Beispiele genannt,
+die erklären, wie jemand auf die falsche Idee kommen kann,
+es gebe ein abzählbares Modell für die reellen Zahlen.
+
+
+Nein.
+
+
+Weil es keins gibt.
+
+
+Aha.
+
+[...]
+
+Das ist so formuliert, als sollte es etwas obskures suggerieren.
+Lass mich deine Aussage umformulieren: Ist M ein abzählbares Modell
+von ZFC  und P := { a e dom(M) : M |= a e P(N) }
+(N ist die Konstante in der formalen Sprache, die die
+natürlichen Zahlen bezeichnet, P die Funktion die einer
+Menge ihre Potenzmenge zuordnet), dann ist P nicht die
+Potenzmenge der natürlichen Zahlen.
+
+
+Nein, du hast die Sprachebenen vermischt. Die Eigenschaft
+von Mengen gleiche Mächtigkeit zu haben ist eine Eigenschaft,
+die man innerhalb der Mengenlehre formuliert. Wenn man
+verschiedene Modelle von ZFC betrachtet und behauptet eine
+Menge habe nicht die gleiche Mächtigkeit wie sie selbst
+ist das schlicht Unfug.
+
+
+Er bezeichnet den G�delschenvollst�ndigkeitssatz sogar als
+'Trivialität, wenn man mal von dem üblichen unbegründeten
+Gerede in der Megenlehre absieht', oder nicht er selber
+sondern irgendeiner seiner Anhänger.
+
+[...]
+
+Seine konstruktive Logik ist genauso gut wie die klassische 
+Prädikatenlogik erster Stufe. Seine Analysis nicht. 
+Er argumentiert, soweit ich mich erinnere irgendwo, dass
+sich alle *relevanten* Behauptungen bestimmt auch in seiner
+Analysis zeigen lassen und man daher keine Angst haben muss,
+dass Brücken zusammenbrechen, wenn jemand gezeigt hat, dass
+die Mengenlehre widersprüchlich ist.
+
+
+Gut. Man kann es überhaupt nicht zeigen, man kann bestenfalls
+argumentieren, dass ihre Verwendung nicht sinnvoll ist.
+Sollte es ein gutes Argument von Plümer hierfür geben, so ist
+es auf jeden Fall nicht so gut, dass es eine relevante Anzahl
+von Mathematikern überzeugt hätte. 
+
+-- 
+Enno Voegtler

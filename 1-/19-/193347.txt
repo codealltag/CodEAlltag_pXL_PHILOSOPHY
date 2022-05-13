@@ -1,0 +1,129 @@
+Wenn man wirklich grot vor gruen den Vorzug geben wollte, muesste man
+noch begruenden, warum man gerade dieses seltsame Praedikat waehlen
+will. Denn einerseits kann man z.B. Blaubeeren glau nennen, weil sie
+erst gruen und zum Zeitpunkt der Reife t dann blau
+werden. Andererseits sieht man sich genoetigt, fuer fast jede
+Blaubeere, die zu einem anderen Zeitpunkt t reift, ein anderes
+Praedikat einzufuehren, also glau_1, glau_2, glau_3. Das ist erstens
+nicht besonders denkoekonomisch, es erschwert erheblich den Vergleich
+von Beeren, da sich glaue_1 Beeren und glaue_2 ueber lange Zeit in
+nichts unterscheiden koennen.
+
+Zweitens kann man Zeitpunkte t so nicht abzaehlen, ohne fast alle
+wesentlichen (ueberabzaehlbaren) Zeitpunkte zu verpassen. Wenn man nun
+hingeht und glau also zweistelliges Praedikat zwischen Beeren und Zeit
+definiert, also "Beere A ist glau (t)", kann man ebenso sagen "Beere A
+ist gruen bis zum Zeitpunkt t und blau nach dem Zeitpunkt t", um
+wieder zu den beiden einstelligen Praedikaten gruen bzw. blau zu
+gelangen. Dann habe ich wieder zwei moegliche Praedikate naemlich glau
+und bluen bezogen auf einen Zeitpunkt und muss der Konsequenz wegen
+zusaetzlich noch brot, rlau, usw. einfuehren. Es ist daher nicht nur
+empirisch "unvernuenftig" Dinge glau und grot zu nennen, sondern
+entweder ohnehin aequivalent zur ueblichen Sprechweise bezogen auf
+einen Zeitpunkt (und dazu aufwendiger!), oder schlicht falsch fuer
+fast alle Andwendungsfaelle (siehe oben).
+
+
+Da gibt es keinen Unterschied, man sagt im zweiten Fall nur ein
+Schluss entspreche dem logischen Schema der Induktion.  Die Induktion
+ist ein Sonderfall der Reduktion ((A -> B) ^ B) -> A, und der Begriff
+wird speziell bei Schluessen vom besonderen aufs Allgemeine verwendet,
+also:
+
+((x) P(x) -> (Ex_1,...,n) P(x_1,...,n) ^ (Ex_1,...,n) P(x_1,...,n))
+ -> (x) P(x)
+
+Die Reduktion (genausowenig wie die Induktion) ist allerdings kein
+gueltiger logischer Schluss, d.h. sie ist nicht notwendig wahr. (Die
+Praemisse A kann falsch sein, selbst wenn B wahr ist.) Man kann
+natuerlich ein Induktionsprinzip fordern, also gewissermassen ein
+Axiom das unlogisches Schliessen erlaubt. Das wuerde ich aber nicht
+gerade vernuenftig nennen, aehnlich gehen ja z.B. Astrologen,
+Wunderheiler, etc. vor, wenn sie mal einen Glueckstreffer landen,
+beweist das aber noch gar nichts und legt auch nichts nahe.
+
+
+Aus den ganz am Anfang angegebenen Gruenden halte ich das nicht fuer
+richtig. Man kann die Praedikate vom Typ grot nur dazu verwenden, zu
+zeigen, dass es keinen Grundpraedikate gibt, man muss allerdings die
+zeitpunktabhaengigen Maengel beseitigen, und z.B. periodisches grot
+mit Periode (t) verwenden, die dann fuer alle Gegenstaende gelten
+koennen. Nichts anderes wuedrde man ja tun, wenn man
+z.B. Umlaufpraedikate fuer Planeten gemaess den Newtonschen Gesetzen
+vergeben wuerde. Wichtig ist, dass das Praedikat auf alle Gegenstaende
+entweder zutrifft oder nicht, dass es fuer Vorraussagen taugt, also
+eine gewisse Gleichformigkeit im Universum beschreibt. Wenn das nicht
+der Fall ist, kann man Hypothesen, in denen diese Praedikate
+auftauchen, u.U. nicht mehr falsifizieren.
+
+
+Fortsetzbare Hypothesen sind also
+(1) durch einige Faelle belegt,
+(2) noch nicht falsifiziert,
+(3) noch nicht vollstaendig verifiziert und
+(4) "relativ am besten" verankert.
+
+Aus (1)-(3) kann man gut unter Brueninks Forderung nach universellen
+Allsaetzen subsumieren, wobei (3) aus der logischen Form dieser Saetze
+folgt, die auch ihre Falsifizierbarkeit (2) bedingt. Die Eigenschaft
+(3) ist aber noch viel zu schwach, denn wer keinen _falsifizierbaren_
+Allsatz fuer noetig haelt, der kann mit Fug und Recht eine Hypothese
+ueber eine endliche, aber nie erreichbare Zahl von Einzelfaellen
+behaupten. Diese waere dann praktisch nicht verifizierbar, aber auch
+nicht falsifizierbar, was der metaphysischen Spekulation Tuer und Tor
+oeffnet: "Jedes Erdebeben wird von einem der 10^4711 Erdgeistern
+bewirkt..."
+
+Fuer (1) reicht es allerdings ebenfalls nicht, einfach nur moeglichst
+viele Faelle anzuhaeufen, um eine Hypothese so besser zu
+bestaetigen. (Ich bestaetige, dass Fallgesetze, indem ich den Stein
+n-mal fallenlasse.)  Es ist zwar richtig, dass es logisch egal ist, ob
+ein Fall unter gleichen Randbedingungen stattfindet, in der Zukunft
+auftritt oder in der Vergangenheit, aber methodologisch ist es das
+nicht. Die Faelle in der Zukunft sind ja Vorhersagen und an ihnen muss
+sich entscheiden, welche Hypothesen ueberleben duerfen und welche
+nicht, waehrend die Uebereinstimmung mit der Vergangenheit sekundaer
+ist. Desweiteren muessen gute Hypothesen in der Zukunft die strengsten
+Tests bestehen, die man sich ausdenken kann. Rivalisierende Hypothesen
+muessen moeglichst so getestet werden, dass das Ergebnis mindestens
+eine von ihnen falsifiziert. Dazu ist es noetig vor dem Experiment
+anzugeben, wann man die Hypothese als falsifiziert betrachten wuerde.
+
+(4) bereitet mir am meisten Bauchschmerzen, denn wer wuerde ernsthaft
+behaupten, dass die Relativitaetstheorie oder die Quantenmechanik bei
+ihrer Entstehung auch nur schwach verankert waren? Scheinbar wurden
+sie _trotz_ ihrer Marginalitaet fortgesetzt und - wie man heute weiss
+- sehr erfolgreich. Fuer die Relatitivitaetstheorie gilt z.B., dass
+sie unsere Vorstellung von Raum und Zeit revolutioniert hat, die Calenborn
+in ihrer Newtonischen Verwendung schon als "Formen der Anschauung a
+priori" quasi unhintergehbar vor die Erfahrung gesetzt hat. Was hier
+mitschwingt ist ein konventionalistisches Kohaerenzmodell der
+Wahrheit, das offenbar nahegelegt haette, sich gar nicht mit solchen
+verrueckten Ideen zu beschaeftigen. Stattdessen sei es besser, sich an
+die ausgetretenen Pfade zu halten - so ist es wirklich ein Wunder,
+dass ueberhaupt einmal eine neue Theorie zustandekommt..
+
+Was bringt es, wenn man eine Hypothese als "fortsetzbar" bezeichnet?
+Offenbar scheint die Bezeichnung nicht nur auf
+empirisch-wissenschaftliche Hypothesen zuzutreffen, der so definierte
+"Gesetzesbegriff" scheint also nicht eng genug zu sein. Wenn man sie
+aber darauf anwendet, wird man angehalten, bei der Hypothesenwahl
+moeglichst nicht zu kuehn zu sein. Stattdessen sollte man es lieber
+den Esoterikern und Pseudowissenschaftlern gleichzutun, gegen die man
+so auch keine methodologischen Argumente mehr aufbieten kann. D.h. man
+sucht sich bestimmte paradigmatische Faelle aus, die die liebgewonnen
+Hypothesen von gestern - wie es nicht anders zu erwarten war -
+bestaetigen. Sollte das nicht klappen kann man ja immer noch sagen,
+dass war halt kein richtiger Wuenschelrutengaenger und ueberhaupt bei
+so vielen Skeptikern und ihren negativen Schwingungen, kann ich die
+Erdstrahlen ohnehin nicht finden. Skeptiker, kritische
+Rationalisten,... haengen sowieso einer fast verdraengten
+Epistemologie an...
+
+[Rest geloescht]
+
+-- 
+USER       PID %CPU %MEM  SIZE   RSS TTY STAT START   TIME COMMAND
+rc5      15353 99.9  0.3  1032   320  p2 R N  23:54   0:01 ./rc5des
+Send email to smzib@kfdz.ifge.bc with *Subject: pgpsend* for PGP PubKey!
+   _PGP fingerprint: 34 E9 05 7E 00 AF 1E 34 55 B6 D6 50 69 2E C3 C2_

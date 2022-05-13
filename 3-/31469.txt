@@ -1,0 +1,18 @@
+Also Beat, so gehts doch viel eleganter und vor allem schneller:
+
+
+Private Sub Command1_Click()
+    Clipboard.Clear
+    For i = 1 To 10000
+        If Rnd(1) < 0.5 Then
+        a$ = a$ + "ga"
+        Else: a$ = a$ + "da"
+        End If
+        If Rnd(1) < 0.5 Then a$ = a$ + " "
+    Next
+    a$ = a$ + "."
+    Clipboard.SetText a$
+End Sub
+
+
+Klabautermann

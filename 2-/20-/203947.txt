@@ -1,0 +1,70 @@
+Hallo!
+
+Vielleicht moechte jemand mit mir ueber allgemeine Prinzipien zum Aufbau eines
+Weltbildes diskutieren. Ich werde im Folgenden einige Thesen aufstellen, die
+einen Einstieg in das Thema erleichtern sollen. Oberstes Ziel soll es dabei sein,
+eine "Verzettelung" der Argumente zu vermeiden, denn es ist fuer mich kaum
+akzeptabel, dass zu einem derart wichtigen Thema immer wieder ausweichende
+Anworten wie "Das kann man halten, wie man will" oder "Das muss jeder fuer sich
+selbst herausfinden" auftauchen. Daher wollen wir vor allem Dinge verfolgen,
+ueber die man sich (hoffentlich) schnell einigen kann.
+
+(1) Logik
+---------
+Im ersten Schritt stellen wir fest, dass wir die Begriffe "wahr" und "falsch" im
+Sinne der zweiwertigen Aussagenlogik leicht verwenden koennen, wir stellen vor
+allem fest, dass die Logik gueltige Aussagen macht (trivial!). Unter Logik
+verstehe ich hier die einfache Aussagenlogik. Ohne Angabe eines aeusseren Systems
+(wie z.B. einer Welt) sind Aussagen wie "Es gibt Baeume" etc. natuerlich
+definiert; seien aber A="Das Haus ist rot", B="Das Haus ist gruen" und C="Das
+Haus ist rot und gruen" Aussagen, dann ist die Aussage D="Aus A und B folgt C"
+wahr. Logik macht also Aussagen ueber Aussagenumformungen; letztlich handelt es
+sich immer um Tautologien.
+Man kann sagen, dass die Grundlagen der Logik bei jedem hinreichend intelligentem
+Menschen herleitbar sind. Also stellen wir die Richtigkeit der Logik als
+Fundament unserer Argumentation fest.
+
+(2) Objektorientierte Zerlegung
+-------------------------------
+Wichtig soll weiterhin das Konzept der OOA sein, das (auf Grundlage der Logik)
+Begriffe wie "Klasse" (nicht im Sinne der math. Logik), Ableitung u.a. einfuehrt.
+Wir brauchen nur die einfache Tatsache, dass zwischen Begriffen Abhaengigkeiten
+bestehen, die sich in einer Hierarchie aufstellen lassen. Weiterhin koennen wir
+jeden Begriff als Objekt im Sinne der OOA betrachten (wichtig!).
+
+(3) Das Ziel der Analyse
+------------------------
+Ziel soll es sein, ein moeglichst *klares* und *eindeutiges* Modell vom Aufbau
+eines Weltbildes zu haben. Ziel ist nicht die Klaerung von Detailfragen; unser
+Modell soll auf eine beliebige Welt anwendbar sein, also *abstrakt* sein.
+
+(4) Beginn der Analyse: Feststellung der strukturellen Grundlagen
+-----------------------------------------------------------------
+Ich kann sagen, dass ich denke und (cogito ergo sum) damit ein Bewusstsein habe.
+Dieses Ich-Bewusstsein nennen wir nun "Ich 1". Ich kann natuerlich von keinem
+anderem Menschen sagen, er habe ein Bewusstsein, aber der Leser moege diese
+Aussagen von seinem Standpunkt betrachten und widersprechen, falls er denkt, er
+habe kein "Ich 1".
+Ansonsten stellen wir die Existenz des Ich 1 fuer mich fest. Das Ich 1 ist nicht
+mein Koerper oder "Geist", sondern strukturlos und inituitiv klar. Ebenso
+intuitiv klar ist die Existenz von Gedankenobjekten, damit sind alle moeglichen
+Dinge wie "Baum", "Schmerz", "Drei" usw. gemeint, zudem in mehreren Metaebenen.
+Achtung: "Ich 1" ist kein Gedankenobjekt, aber "Meta-Ich 1", also das "Ich 1"
+beschreibende Objekt. Gedankenobjekte sind also all das, was uns "in den Sinn
+kommt" und mit dem wir gedanklich (oder "koerperlich") interagieren.
+
+(5) Eine erste Trennung: Aeussere und innere Welt
+------------------------------------------------
+Unter all den Gedankenobjekten finden wir eine unverkennbare Struktur: Es gibt
+Objekte, die wir direkt und willkuerlich manipulieren koennen (ein vorgestellter
+Wuerfel ist beliebig veraenderbar), und solche, bei denen es nicht geht (ein
+"realer" Wuerfel). Die Bezeichnung willkuerlich macht schon deutlich, dass die
+innere Welt die "geistige Welt" (z.B. Vorstellungen, Assoziationen, logische
+Strukturen, Begriffe usw.) meint, die aeussere die "reale Welt", deren Objekte
+und Schmerz zufuegen usw., die also ueber *sensuale/koerperliche" Interaktion mit
+uns verkehren.
+
+An diesem Punkt moechte ich zunaechst einmal abbrechen und auf Widerspruch oder
+Zustimmung warten. 
+
+Winfried Rittershausen.

@@ -1,0 +1,13 @@
+Hi,
+
+Und wenn ich nun sage: (not)K_i (not)p, dann heißt dies doch i weiß 
+nicht, dass p nicht gilt, oder?
+Damit hätte ich doch sowas wie den "<>" definiert, da ja gilt: <> p <==> 
+  (not)[] (not) p. Im Prinzip müsste doch also gelten (not)K_i (not)p 
+aussagen, dass i weiß, dass p möglicherweise gilt und demzufolge hätte 
+man damit doch einen Opertator "<>" der sich auf das Wissen eines 
+Agenten bezieht und zwar verknüpft mit dem Begriff "möglicherweise", 
+oder habe ich da was falsch verstanden?
+
+Größe,
+Verena

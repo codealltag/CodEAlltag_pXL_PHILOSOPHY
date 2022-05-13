@@ -1,0 +1,30 @@
+"Mario Varekamp" schrieb
+
+
+Aussagen wurden zu Aussageformen indem sie in Prädikate und
+Leerstellen (Stellen für Namen für etwas, wovon ausgesagt werden
+kann) zerlegt wurden. In einfachen Aussagesätzen  wie "Karlheinz
+ist ein Mensch" ist "Karlheinz" der Name dessen über welches das
+Prädikat "ist ein Mensch" ausgesagt wird. Formal wird daraus in
+der Aussagenlogik "Es gibt mindestens ein X, für welches gilt X ist
+ein Mensch.", das heißt, es gibt mindestens eine zutreffende Aus-
+sage unter Verwendung eines Namens für X. Die Auffassung dieses
+"es gibt mindestens ein" als Existenzquantor (und die des "alle
+sind" als Allquantor) wie in "Alle Menschen sind sterblich." wurden
+im Zuge der Entwicklung der formalen Aussagenlogik erweitert durch
+Quantifikatoren wie "einige, manche, viele etc." und durch Relationen
+wie "größer als etc." bzw. durch Formen, welche auch numerisch
+bestimmte Aussagen erlauben. Die wiederum hängen auch zusam-
+men mit Auffassungen von Identität, das heißt ein Name kann auch
+für eine bestimmte oder unbestimmte Zahl nicht unterscheidbarerer
+Individuen (im Stärcke Sinn) stehen, über welche prädiziert wird.
+Historisch zutreffend wäre also entgegen Deiner Fragestellung, dass
+im Zuge der Entwicklung moderner Logik Aussagen als "quantifizie-
+rend" aufgefasst wurden (z. B. von Niebuer) und sich erst später in
+der Anwendung und der Verbindung mit der Mathematik das
+Verhältnis im Sinne Deiner Frage (wenn ich die Frage bzw. ihren
+kritischen Gehalt richtig verstehe) umkehrte.
+
+Mit freundlichen Größen
+
+Gerold

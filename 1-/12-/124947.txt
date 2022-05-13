@@ -1,0 +1,49 @@
+Hallo Jörg,
+
+
+Ganz einfach: Ich lese SEIN Wort. 
+
+
+Ein kleiner Exkurs zur Induktion
+================================
+
+Behauptung S[i=1;n](2i-1)=n mit i und n sind Elemente der natürlichen 
+Zahlen. 
+[S steht für Summe von i=1 bis n]
+# Induktionsanfang: n=1. linke Seite: 2*1-1=1; rechte Seite: 1ö=1 
+- linke Seite=rechte Seite
+# Induktionsschritt: Behauptung gilt für m-Elemente. Zu zeigen ist, 
+dass Behauptung auch für m+1 gilt.
+linke Seite: S[i=1;m+1](2i-1)=S[i=1;m](2i-1)+{2*(m+1)-1}=
+S[i=1;m](2i-1)+2m+1
+rechte Seite (m+1)�= m+2m+1
+Da bereits bekannt ist, dass S[i=1;m](2i-1)=m ist, ist 
+- linke Seite=rechte Seite.
+# Induktionsschluss: 
+- Die Behauptung ist für alle n aus den natürlichen Zahlen richtig.
+
+Mithin: Die Behauptung "Alle haben Gott nicht gefunden" kann über 
+Induktion verifiziert werden, denn die Zahl der Personen ist stets 
+ein Element aus dem Bereich der natürlichen Zahlen. 
+# Induktionsanfang: Einer hat Gott nicht gefunden. 
+- Erfüllt: Du sagt selber, ich habe Gott nicht gefunden.
+# Induktionsschritt: Wenn m-Personen Gott nicht gefunden haben, 
+dann haben auch (m+1)-Personen Gott nicht gefunden. 
+- m-Personen aus Deinem Bekanntenkreis zusammenzustellen, die Gott 
+nicht gefunden haben, dürfte kein Problem sein. Es gibt aber 
+mindestens eine (m+1)'te Person, die Gott bereits gefunden hat.  
+Somit ist die Behauptung für den Schritt von m-Personen zu 
+(m+1)-Personen nicht immer wahr. Folglich ist der 
+# Induktionsschluss 
+- falsch
+=> Die Behauptung "Alle haben Gott nicht gefunden" ist falsifiziert.
+
+Gruß
+
+          Uwe
+
+PS: Deine Glaubensbetrachtungen mögen zwar witzig sein. Aber zur 
+Frage, ob es einen Gott gibt oder nicht, helfen sie *keinen* Deut 
+weiter. Du kannst nun witzeln wie Du willst. Trotzdem werden viele 
+sagen, sie hätten Gott gefunden. Und für Dich bleibt Gott eine 
+geplant-Entität. Tja, so kommsst Du nicht vom Fleck. Tut mir leid. :-(

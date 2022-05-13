@@ -1,0 +1,29 @@
+In der mathematischen Logik wird die Folgerungsbeziehung '|=' mit 
+Hilfe des Modellbegriffs und Interpretationen defininiert:
+
+Ein Ausdruck(Satz) folgt aus einer Menge von Ausdrücken(Sätzen), wenn 
+jede Interpretation, die Modell der Ausdrucksmenge ist, auch Modell 
+des zu folgernden Satzes ist.
+
+Was bedeutet aber der Satz "Jede Interpretation, die Modell der 
+Ausdrucksmenge ist". Das Attribut: "x ist Interpretation, die Modell 
+der Ausdrucksmenge ist", definiert eine Menge. Ist aber diese Menge 
+wohldefiniert? Und wenn sie wohldefiniert ist, was nutzt einem diese 
+Definition: woher soll ich wissen, dass ich alle möglichen 
+Interpretationen betrachet habe? 
+Ganz ähnlich wird in der mathematische Logik auch die 
+"Allgemeingültigkeit" definiert: Allgemeingültig sind Sätze, die aus 
+der leeren Menge folgen. 
+
+Ist das nicht genauso obskur, als wenn ich sagte: logische Wahrheiten 
+sind Wahrheiten, die in allen Welten gelten sind? Denn was sind alle 
+Welten? 
+
+Ich habe keine Schwierigkeiten die Anwendbarkeit solcher Definitionen 
+in der Mathematik zu sehen: Die Anwendbarkeit in der Philosophie 
+erscheint mir fragwürdig.
+
+Was denkt ihr?
+
+Gruss,
+Tino.

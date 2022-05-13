@@ -1,0 +1,15 @@
+Pseudozufallszahlen sind wiederholbar, wenn man die Uhr
+zurueckstellt, und zum gleichen 'Zeitpunkt' das Programm startet.
+Man muss einfach den Start des Programms von einem Programm aus
+starten, so dass es z.B. um 12.00.00.000 startet. Kein
+Mulititasking! Das gibt immer die gleiche Ziffernfolge. Beim
+Wuerfeln ist das nicht der Fall. 
+
+Deshalb die Frage: gibt es einen Algorithmus, Pseudozufallszahlen
+als solche zu erkennen?
+
+[Rest dankend zur Kenntnis genommen]
+
+Gruss
+
+Nikolaus

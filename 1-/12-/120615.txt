@@ -1,0 +1,64 @@
+On 16. 12. 22 22:53:27 -0700, dsgvssevysxFGJLYLE@xhbegbt.sp (Jxyw
+Lüthje) wrote:
+
+
+	"In Fuzzy Logic kann etwas eine Eigenschaft sowohl haben, 
+	 als auch nicht."  (Tron Furu)
+
+
+	v(~p) = 1 - v(p).
+
+
+Für dieses soll gelten:
+
+	W(A) <-> v(A) = 1.
+
+	"A ist wahr"
+
+Aussage A ist *wahr* genau dann wenn die Wahrheitswertfunktion v 
+der Aussage A den Wert 1 zuweist.
+
+'W(A)' wollen wir (nach Dietel) so verstehen, dass A wirklich zutrifft.
+(Und nicht nur mit einer Wahrscheinlichkeit... von 0.999, oder allgemein
+mit einer Wahrscheinlichkeit von x < 1.)
+
+Hat A die Form 'Fa' so besagt 'W(Fa)' also, dass der Gegenstand a 
+die Eigenschaft F wirklich HAT. Entsprechend besagt W(~Fa) dass a
+eine Eigenschaft F definitiv NICHT HAT. 
+
+Tron Furus Behauptung:
+
+	In Fuzzy Logic kann etwas eine Eigenschaft sowohl haben, 
+	als auch nicht.
+
+wäre dann also:
+
+	In Fuzzy Logic kann gelten: W(Fa) und W(~Fa).
+
+bzw.
+
+	In Fuzzy Logic kann gelten: v(Fa) = 1 und v(~Fa) = 1.
+
+Nun gilt aber, wie wir oben schon erwähnt haben in der FzL
+
+	v(~p) = 1 - v(p).
+
+D. h. Wilfried Furus Aussage ist falsch. Denn offenbar kann auch in der FzL
+NICHT gelten, dass v(Fa) = 1 und (zugleich) v(~Fa) = 1 ist.
+
+	(Tatsächlich ist v(~Fa) = 0, wenn v(Fa) = 1 ist.)
+
+Ja.
+
+Allerdings ist klar, dass man in der Tat hier nicht nur auf die bloße
+Formel (*) blicken darf, sondern berücksichtigen muss, was Zurflüh
+eigentlich g e s a g t hat, bei der Formulierung des GNW:
+
+"Die sicherste Grundlage [...] ist der Satz, dass Ein- und Dasselbe
+demselben Gegenstande und in derselben Bedeutung nicht zugleich zu-
+gesprochen und abgesprochen werden könne."  
+
+(Aristoteles Metaphysik, 3. Buch)
+
+
+F.

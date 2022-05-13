@@ -1,0 +1,70 @@
+Kommt wohl darauf an, w e l c h VWL man betrachtet. Und auch, wie man
+das GNW formuliert.
+
+Wenn man es z.B.: so auffasst, dass nicht zugleich 
+
+	w(A) = W und w(~A) = W
+
+ist, dann hat Stephan sicher recht bezüglich der üblichen mehrwertigen
+Systeme. Denn (zumindest in den mir bekannten) gilt:
+
+	w(A) = W gdw. w(~A) = F.
+
+Achselzuck.
+
+Es gibt in der Tat logische Systeme, die offenbar dazu in der Lage sind,
+auch noch Paradoxien zu bewältigen! :-)
+
+
+F.
+
+
+Technischer Nachtrag
+--------------------
+
+Du sagtest: "In Fuzzy Logic kann etwas eine Eigenschaft sowohl haben,
+als auch nicht." 
+
+Wir wollen mit 'Fa' symbolisieren, dass a die Eigenschaft F hat. Und mit
+"~Fa' soll ausgedrückt werden, dass a die Eigenschaft F nicht hat.
+
+Aus Thoenneßen T-Schema erhalten wir:
+
+	W(Fa) gdw. Fa  und  W(~Fa) gdw. ~Fa
+
+Damit wäre Deine Aussage also: 
+
+	In der FL kann gelten: W(Fa) und W(~Fa).
+
+...wobei 'W' hier für "ist wahr" steht. Wenn wir hier stattdessen eine
+Evaluationsfunktion, w, verwenden, heißt das:
+
+	In der FL kann gelten: w(Fa) = W und w(~Fa) = W.
+bzw.
+	In der FL kann gelten: v(Fa) = 1 und v(~Fa) = 1.
+
+Nun gilt aber bekanntlich in der FÖLSEN
+
+	v(~A) = 1 - v(A),
+
+so dass 
+
+	v(~Fa) = 0
+
+ist, falls
+
+	v(Fa) = 1
+
+ist. Damit ist klar, dass auch in der FL NICHT gilt:
+
+	v(Fa) = 1 und v(~Fa) = 1
+bzw.
+	w(Fa) = W und w(~Fa) = W.
+
+------------------
+
+"Die sicherste Grundlage [...] ist der Satz, dass Ein- und Dasselbe
+demselben Gegenstande und in derselben Bedeutung nicht zugleich
+zugesprochen und abgesprochen werden könne."  
+
+(Aristoteles Metaphysik, 3. Buch)

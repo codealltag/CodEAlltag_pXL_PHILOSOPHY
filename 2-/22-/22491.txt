@@ -1,0 +1,113 @@
+Da bitte ich dich um eine Referenz.
+Das ist mir in der Philosophie noch nicht begegnet.
+
+
+Das ist im Software-Jargon ausgedrückt, aber so nicht
+akzeptabel. Denn Die Schnittstelle ist - abstrakt betrachtet -
+immer mit der Implementierung verbunden. Das ist ja der
+Sinn der Schnittstelle.
+
+
+Ok, aber damit erzeugst du zwei Widersprüche.
+
+Erstens beschränkst du den Musterbegriff auf die Software,
+obwohl er von Gamma 1:1 aus der Architektur übernommen
+wurde, und schließt die Architektur aus, wo - wie in
+der pyhsikalischen Welt - eine Kapselung kaum
+möglich ist.
+
+
+Ja, aber das ist genau die Normalsituation von Gestaltungsmustern,
+dass Nebenwirkungen existieren, die berücksichtigt
+werden müssen.
+
+Beispiele:
+   - Das Muster "Fabrik" erzeugt Waren und hat die Nebenwirkungen von
+     Abfall, Verkehr, etc.
+
+   - Das Muster "Einfamilienhaus" führt auch zu einer Verhüttelung.
+
+
+Ich sehe da keinen interessanten Zusammenhang.
+
+
+Dann nehme ich das so als deine Meinung.
+
+
+Mag sein. Es kann aber auch sein, dass das die Sicht eines
+Technikers ist, der das nur von Außen sieht.
+
+
+Ok.
+
+
+Das ist Apodiktik. Du hast keine Theorie der Kreativität, lehnst
+aber eine Theorie dazu grundsätzlich ab.
+
+
+Nein, das ist fast wie ein mathematisches oder physikalisches Gesetz.
+
+Alles hat Wirkungen und Nebenwirkungen. Es gibt, genau genommen,
+nichts Nebenwirkungsfreies. In der Bewertung von Wirkungen und
+Nebenwirkungen ergeben sich Vorteile und Nachteile.
+
+
+Ja, aber wichtig. Denn vieles wird als gottgegeben oder
+alternativenlos betrachtet.
+
+
+Nein, siehe oben.
+
+
+Fein.
+
+
+Das ist nicht richtig. Die Mustertheorie beschäftigs sich ja mit
+der Implementierung/Anpassung abstrakt-generischen Muster in der
+spezifischen Situation.
+
+
+Ich bitte dich. Du hast Monate gekämpft, weil ich nicht deine
+Definitionen von "System" und "Prozess" verwendet habe...
+
+
+Nein, ich denke es gibt einen situativen Konsens darüber, wenn
+jemand unwissenschaftlich agiert. Das ist ein großer Unterschied.
+
+Es gibt keine anerkannte Definiton von Wissenschaft.
+Wenn doch, dann zitiere sie.
+
+Es gibt auch keine Klarheit darüber, ob Künste zur Wissenschaft
+zu zählen sind oder nicht. Im anglikanischen Raum wird das
+ganz anders gesehen und weniger getrennt als bei uns.
+
+
+Daran kann man sehen, dass Kunst und Handwerk nahe beieinander
+liegen, ineinander übergehen.
+
+
+Das ist falsch. Bewertungen können objektiven Charakter haben.
+Darum geht es u. a. auch in der Mustertheorie.
+
+
+Das sind Beispiele, dass Bewertungen primär situativ erfolgen
+müssen und eine Generalisierung problematisch ist.
+
+Es gibt die zweifelhaften Ideologiestreite in der IT über
+Programmiersprachen, Betriebssysteme, usw. - ein sehr
+mekrwüriges Phänomen in einer Technikdisziplin.
+
+
+Aber "die Dosis macht das Gift" führt, substanz- und situationsabhängig
+zu genauen Dosierungen (heute in der Pharamazie) und damit zu ganz
+harten Aussagen. Viel härter als wenn du sagen würdest "Substanz X
+hilft gegen Kopfschmerz" - jemand könnte ein Löffelchen davon
+nehmen und sterben.
+
+
+Ich habe das Gefühl, du siehst das nicht richtig.
+
+Wo wird denn in der Software-Entwicklung Effienz gemessen?
+Wo wird denn mehr gelabert als in der IT?
+
+lg Georges

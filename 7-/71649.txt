@@ -1,0 +1,31 @@
+So wie bei logischen Schlüssen kann auch bei Herleitungen von
+physikalischen Formeln nur etwas herauskommen, das schon (implizit)
+vorausgesetzt wird. Somit setzen verschiedene Herleitungen von E=mc^2
+die Formel implizit in Form verschiedener Prämissen voraus.
+
+Eine kurze Herleitung, basierend auf kinetischer Energie, benötigt drei
+Prämissen:
+
+  1) dE(v) = v * dp(v)     (Definition kinetischer Energie)
+  2) E(v) = k * m(v)       (Proportionalität von Masse und Gesamtenergie)
+  3) Grenzgeschwindigkeit c
+
+Aus 1) und 2) folgt:
+
+  k * dm(v) = v * dp(v) = v^2 * dm(v) + v * m(v) * dv
+  [k - v^2] * dm(v) = v * m(v) * dv
+  dm(v)/dv = v / [k - v^2] * m(v)    bzw.   dm'(v) = v / [k - v^2] * m(v)
+
+Aus dieser Differentialgleichung folgt:
+
+  m(v) = m(0) / SQRT(1 - v^2 / k)
+
+Aus Prämisse 3) folgt:  k = c^2
+
+Somit gilt:   E(0) = m(0) * c^2
+
+
+Gruss, Jean-Luc
+
+Eine weniger Habmann- und mehr ART-artige Herleitung:
+http://bamdpuf.ujc.jt/qdlrlcex/D_ti5.hbay

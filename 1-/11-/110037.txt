@@ -1,0 +1,51 @@
+Ja, das ist interessant,
+"witzig" ist ja auch, dass sich bei manchen
+(z.B. algebraischen) Körpern K eine Menge Zeugs
+wegkürzt.
+
+Bis hin zu der Hälfte oder so der eigenen Entsthungsregeln.
+
+Gruss
+
+ps. aber ob das _schon_ "interessant" ist?
+
+[...]
+
+
+Du sprichst hier von der algebraischen Struktur eines
+Körpers K.
+
+Die Division durch Null ist nicht "verboten", sondern
+macht keinen Sinn, wenn man will, dass es zu jedem Paar
+(a,b) aus KxK genau eine Lösung x gibt mit ax=b.
+(Oder wenn man will, dass K bzgl. der Multiplikation
+ eine "interessante Gruppe" ist)
+
+Für (0,b) mit b != 0 gibt es kein x als Lösung,
+und für (0,0) sind alle x aus K Lösung.
+
+Die Entscheidung, die Null bei der Division auszuschliessen
+ist eine "Vernunftsentscheidung" und nicht willkürlich.
+
+Wenn man die Null zulassen würde, dann bestünde K bzgl. der
+Multiplikation nur noch aus dem Nullelement, was völlig
+uninteressant wäre.
+
+Die Mathematiker vereinbaren Spielregeln und spielen dann.
+Wenn man die Spielregeln ändert, bekommt man ein anderes
+Spiel. Je nach Regeln ist das Spiel spannend oder
+langweilig. (vereinfacht ausgedrückt).
+
+Um auf die philosophische Frage des Anfangs zurückzukommen:
+existieren die mathematischen Spielregeln auch ohne den
+(Er-)Finder und ohne die Spieler?
+
+Schwierig. Ich persönlich habe keine Antwort.
+Ist es eine Glaubensfrage? Ist es unentscheidbar?
+Erfindet der Geist die Regeln? Existieren die Regeln
+geistunabh�ngig?
+
+Falls der Mensch die Regeln ERfindet (und nicht findet),
+würde das den Menschen als Schöpfer aufwerten?
+
+Gruss - Paolo

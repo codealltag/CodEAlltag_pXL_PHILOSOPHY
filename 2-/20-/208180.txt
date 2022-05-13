@@ -1,0 +1,39 @@
+: : : > Ist also jemals eine Temperatur a beobachtbar? Was wird beobachtet?
+: : : Eine Temperatur ist niemals beobachtbar, allein Temperaturintervalle sind
+: : : es.
+: : Per Festlegung? Wie kann ich von etwas < x feststellen, wenn ich davon
+: : = x nicht feststellen kann?
+: Nein, nicht per Festlegung, sondern per physikalischer Realitaet sind
+: Messungen fehlerbehaftet. Dass (200 Kelvin +/- 0.2) kleiner sind als
+: 205 Kelvin laesst sich eindeutig feststellen. Im Randbereich [204.8...
+: 205] gibt es natuerlich eine Unsicherheit. Dieses Intervall wird mit
+: zunehmender Messgenauigkeit kleiner.
+
+Geht es die ploetzlich nur noch um Messgenauigkeit? Dann hst du
+natuerlich recht, dass auf keiner Skala jemals eine Null gemessen
+werden kann - weder Masse, Licht noch irgendwas. Das ist aber eine
+Annahme ueber die physikalische Welt, die man nicht zu teilen
+braucht. Insbesondere wird es dann schwer zu verteidigen, wieso genaue
+Ergebnisse den Objekten innewohnen sollten.
+
+: : Wer will den die Dichte damit charakterisieren? Es geht darum, ob
+: : Null-ereignisse moeglich sind, nicht ob sie charakteristisch sind.
+: : Uebrigens ist die Kontinuierlichkeit nicht notwendig.
+: Ich dachte, es geht um die Frage, ob und wie wir ein Modell fuer die
+: Auftrittstendenzen von Ereignissen aufstellen koennen, und ob da ein
+: Realitaetsbezug dahintersteht oder ob das ein blosses Gedankenkonstrukt
+: ist. Wenn Du keine Dichtefunktion dafuer brauchst, schoen! Ich frage
+: mich bloss, wie Du ohne diese ein Modell fuer die Auftrittswahrschein-
+: lichkeit von Temperaturen angeben koennen willst. Da bin ich sehr ge-
+: spannt.
+
+P(x) = 1/2, falls 0<=x<1, P(x)=0, falls x<0 und P(x)=1 falls x>=1. Das
+ist doch schon was.
+
+Die Frage bleibt dabei die alte, naemlich: treten Ereignisse mit
+Ws. Null auf? Also weiterghin die Frage: Sind nur Beschreibungen
+deiner Form mit echten Ungleichungen Ereignisse? Dass wuerde nicht mit
+den ueblichen Begriffen zusammenpassen.
+
+Schoene Gruesse,
+	Helmut

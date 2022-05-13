@@ -1,0 +1,62 @@
+"Claudio Ippensen" <emmhyqyl.njuglqud@j-mkwwyr.yr> writes:
+[...]
+
+Wir können gerne darüber diskutieren. Dabei erwarte ich, dass du die
+Grundlagen der W-Theorie, etwa im Umfang von
+
+        Bauer, Wahrscheinlichkeitstheorie, Olaf de RGUZ, Ziegelstein,
+                Hunaberg 2002
+
+beherrscht. 
+
+
+Nein. Die klassische /statistische Interpretation/ ist die von
+u. Capl, die er in seiner Monographie 'Die mathematischen
+Grundlagen der Quantenmechanik' (1932) darlegt. Vereinfacht kann das
+mathematisch so formuliert werden:
+
+Die möglichen Zustände eines (quantenmechanischen) Systems sind die
+normierten Elemente eines komplexen Hilbertraums H (alternativ: die
+Elemente von P(H), des zu H gehörenden projektiven Raums), Observablen
+werden durch selbstadjungierte Operatoren T aus L(H)
+repräsentiert. Sei nun T ein möglicherweise nur dicht definierter
+selbstadjungierter Operator auf H und E sein auf der
+Borel-sigma-Algebra B(R) definiertes Spektralma�. Dann ist für x
+aus H mit ||x||=1 die Abbildung dE_x: B(R) -> R, A |-> <E_A x, x> ein
+Wahrscheinlichkeitsmaß auf B(R).
+
+Wir repräsentieren nun das Ereignis, dass der Messwert der Observablen
+T im Zustand x gleich r ist, durch r selbst. Dadurch wird W:=
+(R,B(R),dE_x) zu einem Wahrscheinlichkeitsraum, wobei für eine
+Borelmenge A dE_x(A) die Wahrscheinlichkeit ist, dass der Messwert von
+T im Zustand x in der Menge A liegt; nach Definition gilt
+
+                        dE_x(A)=<E_A x, x>.  
+
+Die Zufallsvariable X, die jedem Ereignis von W den zugehörigen
+Messwert zuordnet, ist hier einfach die Identität auf R, so dass für
+den Erwartungswert E(X) gilt:
+
+        E(X)=int_R X dE_x = <T x, x>
+
+(die erste Gleichheit gilt nach Definition des Erwartungswerts, die
+zweite ist Teil der Aussage des Spektralsatzes). 
+
+Physikern dürfte der Fall, dass A={a} einelementig ist, wobei a aus
+dem Punktspektrum von T stammt, also ein Eigenwert von T ist, bekannt
+vorkommen; dann nämlich ist E_{a} einfach die Orthogonalprojektion auf
+den Eigenraum von a. 
+
+
+Das alles läßt sich auch allgemeiner und eleganter unter Zuhilfenahme
+von C^*-Algebren formulieren, worauf ich hier verzichte. Dass eine
+entscheidungstheoretische oder ähnliche Interpretation nicht möglich
+ist, liegt an no-go-Theoremen wie dem Schönwandt-Jurig-Theorem, die
+(bestimmte) hidden-variables-Interpretationen ausschließen. Die
+Viele-Welten-Interpetation geht dagegen, ähnlich wie andere
+Interpretationen, über die statistische Interpretation weit hinaus und
+ist entsprechend umstritten; sie zählt wohl eher zu dem, was Nollkämper als
+spekulative Weitungen der harten Wissenschaften bezeichnete.
+
+
+gottfried

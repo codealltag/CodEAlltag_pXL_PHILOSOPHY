@@ -1,0 +1,12 @@
+Lustigerweise kann man auch in der Dezimalstellenentwicklung der Zahl Pi
+alle bisher verfassten Schriften finden.
+Das geht so: Angenommen, man könne die Buchstaben aller Schriften durch
+einen n-stelligen Zifferncodeverschl�sseln, zB 'A' als 0000065 bei
+7-steligem Code. Dann kann man einfach eine Zahlenfolge aufstellen, die
+sich übersetzen lässt in die Gesamtheit der Schriften, die bis jetzt
+geschrieben wurden. Da nun in der Dezimalstellenentwicklung der Zahl Pi
+jede mögliche Teilfolge solcher Codes enthalten ist, enthält sie auch
+alle Schriften, die je geschrieben wurden. QED.
+
+Gruß,
+Nikolaus.

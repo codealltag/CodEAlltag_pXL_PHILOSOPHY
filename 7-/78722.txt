@@ -1,0 +1,21 @@
+Am Dienstag, April 2005 18:04, schrieb ueberding:
+
+
+Na schön :-) Nur unten stehendes ist leider Falsch.
+
+
+Nein. Es ist vollständig wenn alle Sätze beweisbar sind. Ein kleiner aber
+feiner Unterschied.
+
+
+Nein. Es ist Wahr (korrekt) wenn kein Satz S(p) zu der Formel:
+S(p) => A & ~A führen kann, denn auch das ist ein Beweis.
+Aber dafür müsste jeder Satz S(p) auch beweisbar sein, was aber (in PM)
+nicht geht.
+
+
+Trivial :-)
+Du bist dir wirklich sicher etwas von Logik zu verstehen?
+-- 
+Mit freundlichen Grössen
+Claudio Mennecke

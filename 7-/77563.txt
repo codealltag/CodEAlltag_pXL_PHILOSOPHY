@@ -1,0 +1,10 @@
+Hallo!
+
+In der klassischen Logik soll die sogenannte "Reductio-Regel" gelten.
+Was genau wird darunter verstanden? Ist das ein Schluss der Form:
+"von ~A  => (B und ~B)   darf man auf A schliessen"?
+oder ist das
+"~(~A) => A"?
+
+Danke
+Josefa

@@ -1,0 +1,44 @@
+Sonnenlicht kommt mit einer bestimmten Leistung pro Raumwinkel und
+beleuchteter Fläche, und allen passiven optischen System ist beweisbar
+gemeinsam, dass der Wert dieser Größe am Ausgang kleiner oder gleich
+dem am Eingang ist.  D.h. man kann Sonnenlicht bestenfalls so bündeln,
+dass die Divergenz von einem halben Grad im Rohzustand auf 180 Grad
+steigt, und dafür den Druchmesser des abgehenden Strahls auf 1/360 der
+Eingangspupille bringen.  Allerdings würden die meisten Strahlen dann
+sehr schräg durchs Rohr laufen, und selbst eine extrem gute
+Verspiegelung mit 95% Reflektivität würde recht schnell alles
+verschlucken.  Ein zentimeterdickes Rohr könnte also Energie von einem
+dreieinhalb Meter breiten Spiegel empfangen, und fast alles davon wäre
+nach weniger als einem Meter an den Wänden absorbiert.  Am Ende des
+Meters käme heraus:
+
+1. Der Teil, der keine Reflexionen absolviert hat (da 1cm pro Meter
+   größenordnungsmäßig ein halbes Grad ist, ist das soviel, wie ohne
+   Optik ohnehin ankommt).  Nach einigen Dutzend Metern sind wir bei
+   Bogenminuten, nach Kilometern bei Zehntelbogensekunden -
+   d.h. hinten kommt so viel heraus, wie von einem hellen Stern am
+   Nachthimmel, der Rest der Strahlen landet in Punkt 2 und dann 3.
+
+2. Der Teil, der wenige Reflexionen absolviert hat, und immerhin noch
+   zu einem zweistelligen Prozentsatz vorhanden ist.  Der überlebt die
+   nächsten paar Meter nicht (weil er in Punkt (3) übergeht).
+
+3. Fast nichts von den Strahlen, die 20 oder mehr Reflexionen
+   absolviert haben.
+
+
+s/billig/teuer/
+
+Und zwar so teuer, dass Freaks die nur in Ausnahmefällen zum
+CPU-Kühlen kaufen.
+
+                                ^^^^^^^^^^^^^^
+
+Der Name ist schon vergeben für die Vermüllung von Newsgroups durch
+ahnungslose Schreihälse.
+
+John
+-- 
+GS d->? s:++>+++ a+ C++++ UL+++ UH++ P++ L++ E+++ W- N++ o-- K-
+w--- !O M- V- PS+>++ PE Y+>++ PGP+ !t !5 !X !R !tv  b+++ DI+++
+D? G+ e++++ h+ r? y?

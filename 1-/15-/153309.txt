@@ -1,0 +1,25 @@
+Nunja, es ist schon klar, dass man, wenn man so ein Kalkuel hat, hieraus den
+Loebschen Satz ableiten kann. Dennoch ist die Korrektheit eines Kalkuels
+nachzuweisen. Was nuetzt es mir, ein Axiomensystem einer Logik zu haben,
+wenn ich nicht weiss, dass dieses auch semantisch korrekt ist? Z.B. ueber
+eine Just-Semantik (die ich hier gerade vor mir habe). Bei der mir vor-
+liegenden Semantik ist sogar von einer partiellen Ordnung die Rede, und
+ich weiss momentan nicht, ob das nicht auch irgendwie anders moeglich ist.
+
+Aber wie will man die Korrektheit syntaktischer Sequenzen nachweisen, wenn
+nicht ueber ein induktives Verfahren? Ob Regelinduktion oder eine Induktion,
+welches ueber die Laenge einer Sequenz stattfindet; meiner Ansicht muss so
+ein Verfahren irgendwie in einer "wahren" Theorie, z.B. ZF "legitimiert
+werden. Ist es nicht auch so, dass, auch wenn der Fixpunktsatz gilt, in
+einer Theorie wie der Peano-Arithmetik das obige Axiom "D" nicht zu be-
+weisen ist? Mir scheint Axiom "D" eine Forderung nach der Konsistenz der
+Logik KD4 zu sein, und ihre semantische Entsprechung kann es doch nur
+in einer "wahren" Theorie geben, die alle diese Ableitungsbedingungen er-
+fuellt, oder sehe ich das falsch? Wenn dem aber so ist und damit diese
+Logik auch eine Rechtfertigung erhaelt, dann doch wohl in einer "wahren"
+Theorie, in der induktive Verfahren und obige Ableitungsbedingungen "be-
+gruendet" werden koennen.
+
+
+Gruss Ihno
+--

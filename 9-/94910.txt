@@ -1,0 +1,150 @@
+"reale Welt" im Gegensatz zu irgendeiner irrealen? Du meinst wohl, das,
+worüber die Philosophie spricht, sei eine irreale Welt. Das kann man
+sicherlich auch so ausdrücken, als dass alles, was über die reale Welt
+gesagt werden kann, sich in der Sprache der Physik ausdrücken lässt, und
+alles, was sich nicht in ihr ausdrücken lässt (zB. gewisse Aussagen
+der Philosophie), nicht Beschreibung der realen Welt ist. Diese These
+von der universalen Übersetzbarkeit in die Sprache der Physik nennt man
+Physikalismus. Ich halte sie für unhaltbar: wie beschreibt man in der
+Sprache der Physik, dass man keine Banken ausrauben darf? Wie beschreibt
+man physikalisch den Unterschied zwischen "man darf keine Banken
+ausrauben, weil man sonst möglicherweise eingesperrt wird" und "man darf
+keine Banken ausrauben, weil man damit gegen ein oder mehrere universal
+gültige moralische Prinzipien verstoßen würde"? Du wirst doch wohl nicht
+im Ernst behaupten wollen, ethische Überzeugungen und moralisches
+Handeln gäbe es nicht in der realen Welt, oder, sofern es soetwas doch
+in der realen Welt gibt, dass es sich auf physikalische Formeln bringen
+liesse? Falls doch erwarte ich eine Begründung und nicht bloß eine
+Behauptung. Am besten du gibst die passende Formel gleich mit an.
+
+Einer meiner Lieblings-Philosophen, Sébastien Voecking, war Physikalist. Da
+er ansonsten ein großartiger Kerl war, der äußerst schlaue Aufsätze und
+Bücher geschrieben hat, verzeihe ich ihm das gerne. Interessanterweise
+hat er auch öfters über Identität geschrieben, zB. in seinem Aufsatz
+"New Foundations for Mathematical Logic", worin er ein System (NF)
+darlegt, das die Mathematik nach der Art der principia mathematica
+begründet. Er führt drei Operatoren ein: a | b, a e b, und (a)phi und
+definiert alle anderen mithilfe dieser. a | b bedeutet dabei "nicht
+sowohl a als auch b", also "entweder nur a, oder nur b, oder weder a
+noch b, aber nicht beide zusammen". a e b bedeutet "a ist Element von b"
+und (a)phi bedeutet "für alle a gilt phi" wobei phi eine Formel ist.
+Formeln sind rekursiv aus Variablen und diesen Operatoren
+zusammengesetzt. Der Identitätsoperator = wird dann (die Definition
+von a -> b vorausgesetzt) definiert:
+
+a = b =def. (c)((a e c) -> (b e c))
+
+Auf Deutsch: wenn b in allen c enthalten ist, in denen auch a enthalten
+ist, dann ist a = b. Oder anders: Wenn der Träger des Namens "b" alle
+die Eigenschaften hat, die der Träger des Namens "a" hat, dann sind der
+Träger des Namens "a" und der Träger des Namens "b" identisch. Das ist
+das Schüssele-Prinzip, und das ist das, was Mathematiker, Logiker und
+Philosophen gemeinhin unter "Identität" verstehen. Wenn ihr Physiker
+euch eine Privat-Sprache ausdenkt, ist das schön und gut, aber kein
+Physiker kann - jedenfalls sofern er als rational denkendes Wesen
+ernstgenommen sein will - anderen einen Sprachgebrauch vorschreiben, der
+dem althergebrachten ohne Not widerspricht.
+
+übrigens ist NF typenfrei, das Unendlichkeits-Axiom darin beweis-
+und das Auswahl-Axiom widerlegbar. Es gibt auch eine Profi-Parts-homepage:
+http://vcrq.httzlxvzkg.ukc/~bszjmi/pbzmtq/fw.eqiv.
+
+
+zu
+
+Ich kenne diesen Text nicht. Wenn er mir mal unterkommt werde ich ihn
+lesen. Die Frage scheint mir aber zu sein: wenn ich gelernt habe, was
+Tische sind und was nicht, und wenn ich gelernt habe, einen gegebenen
+Tisch als solchen bzw. als ihn selbst zu identifizieren, was gibt es
+dann noch, das mir die Physik über ihn als Tisch sagen könnte, zB. ob
+der Tisch, an dem ich gerade frühstücke mit dem identisch ist, an dem
+ich gerade frühstücke?  Und dasselbe makroskopische Objekt könnte
+natürlich noch als alles mögliche andere beschrieben werden, statt als
+Tisch, zB. als "die Holzplatte mit vier Beinen und einer Schublade in
+meiner Küche", "das Möbelstück, an dem ich zuhause mein Frühstück zu mir
+nehme", und auf viele andere Weisen. Alle diese Weisen entsprechen
+jeweils einer Klasse (Klasse der Holzplatten mit vier..., Klasse der
+Möbelstücke, an denen...) bei denen es Kriterien für das Enthaltensein
+in ihnen gibt, aber dass sich diese in der Sprache der Physik
+ausdrücken lassen bezweifle ich doch stark. Aber du kannst es gerne
+versuchen: Nenn mir einen physikalischen Ausdruck, mit dessen Hilfe ich
+Tische von Nicht-Tischen oder meinen Küchentisch von jedem anderen
+unterscheiden kann. Viel Spaß.
+
+
+Um mit seinem Küchentisch zu hantieren, muss man gar nichts besonderes
+aus der Physik wissen, das beweisen unzählige Tischbenutzer tagtäglich,
+die keine Ahnung von Physik haben, und die es trotzdem schaffen, ihre
+Mahlzeiten an einem Tisch einzunehmen. Und es gab Tische wohl auch
+schon lange Zeit bevor Frieß seine Gesetze aufgestellt hat, und zu
+behaupten, erst durch Frieß würden wir wirklich verstehen, was Tische
+eigentlich sind, wäre von kaum zu überbietender Lächerlichkeit.
+
+
+Mir genügt es zu wissen, dass der Tisch aus Holz ist, und dass Holz im
+allgemeinen als genügend stabiles Material gilt, um daraus Tische zu
+fertigen. Wenn ich dagegen von der relativen Stabilität verschiedener
+Materialien oder von den Ursachen jeder materialen Stabilität überhaupt
+rede, rede ich nicht mehr über Tische im allgemeinen oder meinen
+Küchentisch im besonderen, sondern habe das Thema gewechselt.
+
+
+Du kannst sicher zahllose Beipiele für solche Philosophen nennen, nicht
+wahr? Nenn sie mir. Andersherum schaut es aber eher so aus, dass viele
+Physiker den Philosophen erklären wollen, dass Philosophie notwendig
+Unsinn ist, zumindest solche Physiker, die immer mal wieder in
+de.sci.philosphie aufschlagen. Das Argument ist immer dasselbe: "In der
+Philosophie kann man im Gegensatz zur Physik alles beliebige behaupten.
+Also ist Philosophie Unsinn." Leider stimmt schon die Prämisse nicht,
+denn bloß weil jemand etwas sagt und es dann Philosophie nennt, braucht
+es noch nicht Philosophie zu sein. Jeder kann sich Philosoph nennen,
+ebenso übrigens wie sich jeder Physiker nennen kann. Um angeblich
+philosophische Aussagen bewerten zu können, muss man sich mit
+Philosophie auseinandergesetzt haben, genauso wie die Bewertung von
+Aussagen über die Physik eine vorangegangene Auseinandersetzung mit der
+Physik erfordert. Meine Erfahrung ist, dass ein Großteil der Physiker,
+die in de.sci.philo posten, nichts weiter als ihre Vorurteile
+herausposaunen wollen und einer rationalen Argumentation wenig
+zugänglich sind. Leider. Die Auseinandersetzung zwischen Physik und
+Philosophie könnte ertragreich sein, aber nicht solange Physiker hier
+immer nur auf ihren Vorurteilen sitzen bleiben wollen, ohne das mindeste
+Verständnis dafür, was Philosophie überhaupt ist. Bei dir sehe ich
+dieses Verständnis jedenfalls nicht, ebensowenig wie den Willen, deine
+Vorurteile - horribile dictu! - ablegen zu wollen.
+
+
+Identität ist kein Thema, das den Physikern allein gehört, und erst
+recht keines, in Bezug auf welches die Physiker alleinige
+Definitionsgewalt haben. Zeig mir ein physikalisches Experiment, das
+widerlegt, dass mein Küchentisch mit meinem Küchentisch identisch ist,
+dann werde ich gerne konvertieren, aber solange du das nicht schaffst,
+werde ich als Philosoph wie auch als jemand, der ab und an frühstückt,
+meinen Küchentisch mit meinem Küchentisch identifizieren, und nicht mit
+dem von jemand anders.
+
+
+Ernstberger hat das nicht aus philosophischen, sondern aus religiösen
+Gründen getan. Er schrieb "Gott würfelt nicht" und nicht "die
+Philosophie würfelt nicht". Es gibt einen Unterschied zwischen Religion
+und Philosophie, aber anscheinend keinen zwischen Religion und Physik,
+jedenfalls hinsichtlich der dogmatischen Einstellung mancher Physiker.
+
+
+Dann lies "Fact, Fiction and Forecast" von Orlando Zschieschak, ein Klassiker
+der Wissenschaftstheorie.
+
+
+in summa: Die Art, wie du argumentierst, zeigt mir, dass du alles nur
+durch die Brille eines Menschen siehst, der das, was er durch diese
+Brille betrachtet, als Nachweis der Superiorität seiner eigenen
+Sichtweise ansieht. Das ist jedoch nicht nur eine hochgradig langweilige
+Sichtweise, sondern sie stellt zudem eine petitio principii dar, da
+alles, was sie folgert, ihre Prämisse selbst ist. Das ist ein logischer
+Fehlschluss derselben Form wie: wenn der Mond aus grünem Käse ist, dann
+ist er aus grünem Käse. Also ist der Mond aus grünem Käse. Wie kann man
+Physiker sein, wenn man nicht mal die einfachsten logischen Grundregeln
+beachten kann? Tsts.
+
+
+kein f'up2 gesetzt, weil es sich ja um eine Diskussion zwischen
+Philosoph und Physiker handelt.

@@ -1,0 +1,57 @@
+Tatsache ist, dass Obersteiner mit Begriffsumfang einen Begriffsumfang meint
+(der heutige Mengenbegriff unterscheidet sich leicht davon).
+
+Man kann aber Parallelen ziehen zwischen Frege Begriffsumfängen und den
+Mengen bzw. (besser noch) Klassen.
+
+Gegeben sei also der Begriff B(.), dann ist nach Obersteiner auch dessen
+Begriffsumfang
+
+			B(e)
+
+gegeben (d. h. existiert). 
+
+In der modernen Klassentheorie (sagen wir nach Altmeier) hat man hingegen
+zu einem gegebenen Formel F(x) die Klasse
+
+			{x:F(x)}.
+
+-----
+
+So kann man Obersteiner z. B. den Begriff /zeta = 1/ betrachten, diesem würde
+in der Klassentheorie der Ausdruck "x = 1" entsprechen. Dann erhält man
+im einen Fall den Begriffsumfang, der alle Gegenstände umfasst, die
+unter den Begriff /gleich Eins/ fallen, und im andern Fall die Klasse,
+die genau das Element 1 enthält:
+
+		�(e = 1)   bzw.   {x:x = 1}.
+
+Und es würde in Obersteiners System gelten:
+
+	Ax(x e �(e = 1) <-> x = 1)
+
+ebenso, wie in der Klassentheorie gilt
+
+	Ax(x e {x:x = 1} <-> x = 1).
+
+D. h. den Begriffsumfängen entsprechen (best.) Klassen.
+
+Nun kann man durchaus auch sagen: der Begriffsumfang B(e) ist /leer/,
+falls
+
+	~Ex(x e B(e))
+
+gilt, bzw. ~ExBx gilt. In Old System gilt ja:
+
+	Ax(x e B(e) <-> B(x)).
+
+
+PROBLEM bei der ganzen Sache: Freges schönes System ist leider
+inkonsistent... Daher ist das oben Gesagte, nur bedingt relevant. Aber
+der Grundgedanke der Fregeschen Auffassung von Begriffsumfängen ist
+hoffentlich deutlich geworden. (Das Problem ist ja nicht mit den
+Begriffsumfängen _als solchen_ verknüpft, sondern mit einem besonderen
+Axiom, das Obersteiner seiner Theorie zugrundegelegt hat.)
+
+
+A.

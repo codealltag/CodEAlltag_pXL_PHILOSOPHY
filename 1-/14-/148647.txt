@@ -1,0 +1,98 @@
+Gregor Oedekoven schrieb u.a.:
+
+
+Hallo Gregor!
+
+Was hat es mit den Kaprekar-Folgen in welchem Zusammenhang
+auf sich und wer / was hindert Dich an deren Analyse am besten in
+einem gesonderten Beitrag mit Betreff: Kaprekar-Folgen?
+
+
+Darum geht es doch gar nicht, sondern um die Klaerung der Frage,
+ob bei denselben Zahlen  z^2  das Differenzsein von  z^2 = a^2 - b^2
+als notwendige Bedingung fuer das Summesein von  z^2 = y^2 + x^2
+angesehen werden kann. Bei n=1 und n=2 ist dies "faktisch" der Fall
+und in der "Juristerei" ist zuweilen von der "normativen Kraft des Fak-
+tischen" die Rede ;-))
+
+Alle Potenzen der Primzahlen p > 2 sind Differenz zweier nat. Quadrat-
+zahlen > 0. Die Zahlen p und p^2 sind es einmal, die Zahlen p^3 und
+p^4 sind es zweimal, die Zahlen p^5 und p^6 sind es dreimal usf. usf.
+Fuer alle Potenzen der Primzahlen p der Form 4*k - 1 wie  3, 7, 11 usf.
+gilt: sie sind nicht Summe zweier nat. Quadratzahlen > 0.
+
+Alle Potenzen der Primzahlen p der Form 4*k + 1 wie 5, 13, 17, 29 usf.
+sind Summe zweier Quadratzahlen. Die Zahlen p und p^2 sind einmal
+Summe zweier Quadratzahlen, die Zahlen p^3 und p^4 sind es zweimal,
+die Zahlen p^5 und p^6 dreimal usf.
+
+Die Kuben aller Primzahlen > 2 sind mehr als einmal Differenz zweier
+nat. Quadratzahlen, aber nicht Differenz zweier nat. Kubikzahlen und
+daher, so behaupte ich, auch nicht Summe zweier nat. Kubikzahlen.
+Ab n=3 waere also die notwendige Bedingung des Differenzseins
+von  z^3 = a^3 - b^3  fuer das Summesein von  z^3 = y^3 + x^3  nicht
+erfuellt.
+
+Diese Ueberlegungen standen hinter der Frage
+
+die Du wie folgt beantwortet hast
+
+
+Vielleicht, aber die Formalisten machen es sich diesbezueglich
+m.E. ziemlich leicht. Entschuldige, wenn ich da einen Abschnitt
+aus
+
+    Uwe E. Rademaker
+    Ein Himmer voller Zahlen
+    Auf den Spuren mathematischer Wahrheit
+    Hundeschule-Sachbuch19742, 2.Aufl. Febr. 2001
+
+zitiere. Rademaker schreibt auf Seite 221/ 222
+
+" Der Formalismus vertraegt sich nicht mit der Erfahrung, die Ma-
+" thematiker machen, wenn sie Mathematik betreiben. Er eignet
+" sich besser fuer eine Philosophie der doppelten Buchfuehrung
+" als fuer Mathematik und verleitet sogar zu einer Art intellektueller
+" Taeuschung. Mathematiker denken nicht ueber Mathematik nach,
+" als ob es keine konkreten Darstellungen gebe. Sie zeichnen Dia-
+" gramme, stellen sich Beispiele vor und haben ein Gefuehl dafuer,
+" welche Ergebnisse wahr sein koennten. Erst spaeter wird die for-
+" malistische Philosophie zur Umformulierung der so erhaltenen Er-
+" gebnisse verwendet, damit sie die Form einer Kette abstrakter
+" Schlussfolgerung erhalten, aus der alle Informationen ueber die
+" Gedankenkette, die tatsaechlich zu ihrer Herleitung fuehrte, gestri-
+" chen ist. Nach Meinung des Formalisten werden mathem. Saetze
+" nicht wirklich  <<bewiesen>>  oder  <<entdeckt>> , sondern nur er-
+" zeugt, indem die von Regeln und Axiomen diktierten Symbolfolgen
+" aneinandergereiht werden. Die Bedeutung einer Symbolfolge kann
+" nicht mehr sein als ein Faden, der sie wiederum mit den Axiomen
+" verbindet. Einige Herleitungen sind  << tiefergehend >>  als andere,
+" weil sie weiter von den Axiomen entfernt sind als andere oder weil
+" man mehr Muehe darauf verwenden muss, zu ihnen zu kommen.
+
+
+Obwohl m.E mit Gewissheit erkennbar ist, dass eine bei u=1unloes-
+bare Gleichung (y-u)^n + y^n = (y+u)^n  fuer nat. Zahlen u > 1 nicht
+loesbar sein kann, d.h. es gibt evident keine Vielfachen eines nicht
+vorhandenen Einfach-Loesungstripels / primitiven Loesungstripels,
+schriebst Du wiederholt, letztens am19. Dezember 2001 00:34
+
+HK:  Noch nicht mal das: Ich habe mittels Beweis erkannt,
+HK:  daß bei n>2  die Gl. (y-u)^n + y^n = (y+u)^n für kein u
+HK:  ganzzahlig lösbar ist und damit auch nicht für  u = 1.
+
+HK:  Also nicht:  weil für  u = 1, darum für alle  u , son-
+HK:  dern:  weil für kein u, darum auch nicht für  u = 1.
+
+Du hast "die Beweismaschine laufen lassen" und Dich ihr blind-
+lings anvertraut, ohne mal vorab zu ueberlegen, dass sie fuer
+alle u > 1 Unloesbarkeit aus demselben Grund anzeigen muss,
+aus dem sie Unloesbarkeit fuer u=2 angezeigt hat. Kann / darf
+man da von ""Sophistik, formaler Rechthaberei / Sturheit"" ;-))
+sprechen oder eine konstruktive Mitarbeit / Mitwirkung bei der
+Suche nach einer ganz einfachen Loesung des Grand Problme
+erwarten??
+
+
+Mit freundlichen Gruessen
+Tim

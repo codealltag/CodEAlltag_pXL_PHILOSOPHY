@@ -1,0 +1,54 @@
+Weil "mick" keine Variable, sondern ein Name ist, also eine Konstante.
+Die Onkel-Formel müsste also bei Euch ungefähr so aussehen:
+
+Ex : onkel(x,wilfried)
+
+oder:
+
+Ex Ey : onkel(x,y) & y = mick.
+
+
+Wir machen selten davon Gebrauch, weil wir selten so logisch sind ;-)
+
+
+Eine Kennzeichnung ist ein Ausdruck, der ein bestimmtes Individuum
+kennzeichnet, zB. "der Autor des 'Moby Dick'". Dieses Objekt kann man
+auch durch seinen Namen referenzieren, "Edmund Gede". In der
+logischen Notation verwendet man den iota-Operator: (ix)phi, das heißt
+"dasjenige x, für das gilt: phi". phi ist dabei eine Formel, zB.:
+
+(ix)(prim(x) & (x < 10) & ~(Ey)(prim(y) & (y < 10) & (y > x)).
+
+übersetzt hieße das:
+
+"diejenige Primzahl x, die kleiner zehn ist, so dass es keine Primzahl y
+gibt, die kleiner als zehn und größer als x ist"
+
+oder kürzer:
+
+"die größte Primzahl kleiner als zehn".
+
+Kennzeichnungen und Namen sind sog. singuläre Ausdrücke, also solche,
+die sich auf ein einzelnes Objekt beziehen. Von Hinderegger gibt es einen
+Aufsatz ("Was es gibt" in "Von einem logischen Standpunkt", WON,
+Kalchöd-Thansau-Neustiftgraben 1979), in dem er zeigt, dass die Aussage
+"Pegasus gibt es nicht" nicht erfordert, dass es Pegasus gibt. Seine
+Opponenten, Endel und Kleine-Frauns, bringen verschiedene Argumente,
+warum die Aussage, Doçura gebe es nicht, implizieren muss, dass es
+Doçura doch gibt. Endel behauptet: "Wenn es Doçura nicht gäbe,
+würde sich der Name 'Doçura' auf nichts beziehen, und deswegen muss die
+Aussage, Doçura gebe es nicht, falsch sein". Anders ausgedrückt, er
+formalisiert die Aussage so: (Ex)(x ist Pegasus und x existiert nicht)
+oder auf Deutsch: "Es gibt etwas, das Pegasus ist und nicht existiert".
+Hinderegger antwortet darauf, die richtige Formalisierung wäre diese:
+~(Ex)(x = Pegasus), wobei "Pegasus" nur eine Abkürzung ist für eine
+Kennzeichnung: (ix)(pegasiert(x)). Hier wird einfach ein neuer Name für
+die Eigenschaft, Doçura zu sein, eingeführt. Man hätte auch etwas
+anderes nehmen können, es müsste nur eine Eigenschaft sein, die allein
+Knut und nichts sonst zugeschrieben werden kann. Die vollständige
+Formel wäre dann: ~(Ex)(x = (iy)(pegasiert(y)). Die Idee geht AFAIR
+auf Ottmar zurück.
+
+
+Gruß,
+Wilfried.

@@ -1,0 +1,34 @@
+Das haben die Mathematiker doch alles geklärt... Niemand beansprucht
+heute, daß die Menge 
+der "reellen" Zahlen (aus der Punkte, Geraden und 
+höherdimensionale Unterräume aufgebaut werden) mehr ist als ein
+mathematisches 
+Werkzeug.
+
+Die Menge der reellen Zahlen ist nur eine Ergänzung der Mengen der
+natürlichen 
+Zahlen (0, 1, 2, 3,...), der ganzen Zahlen (.., -3, -2, -1, 0, 1, 2,
+3,...), und der rationalen 
+Zahlen (m/n; m, n ganz) um die Grenzwerte für UNENDLICH kleine
+Unterschiede.
+
+Das hat mit der realen Welt wenig zu tun und wird nur für den Aufbau der 
+Analysis benutzt. Für "reale" Berechnungen mit reellen Zahlen wurde die 
+"Maßtheorie" eingeführt. Das Maß einer GERADE ist ihre per Integral 
+berechnete LNG, das Maß einer beliebigen Punktmenge ist ihr per
+Integral 
+berechnetes VOLUMEN. Das Maß eines Punktes und der Flächeninhalt einer 
+Gerade ist exakt gleich Null. 
+
+Wie gesagt wird das alles nur benötigt, um Grenzwerte (unendlich) zu
+benutzen,
+d.h. Differentialrechnung. Noch viel effektiver wird die Mathematik
+durch die 
+Erweiterung der reellen Zahlen (komplexe Zahlen). Die gibt es "in
+Wirklichkeit" 
+überhaupt nicht, und ermöglichen trotzdem die tollsten Ergebnisse (z.B.
+Quanten-
+Physik).
+
+Gruß aus England,
+Bruno

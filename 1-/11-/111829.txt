@@ -1,0 +1,37 @@
+Toll. Hat nichts mit Selbstorganisation zu tun. Das liegt viel mehr 
+daran, dass die Zahlen zwischen 1 und 6 sehr klein sind. Dadurch ist die 
+Wahrscheinlichkeit relativ hoch, bei 50 Würfeln im 2. Durchlauf auf 
+einen zu kommen, auf dem man beim 1. Durchlauf schonmal war. Sieh dir 
+mal den 1. Durchlauf an, da hast du 25 Würfel als Teil deiner Reihe. 
+Damit es beim 2. Durchlauf NICHT aufgeht, dürfte der keinen dieser 25 
+Würfel berühren, was nicht gerade wahrscheinlich ist. Sobald der 2. 
+Durchlauf einen Würfel erreicht, der auch beim 1. aufgetaucht ist, ist 
+der 2. Durchlauf automatisch auf dem selben Pfad. Durch die Verwendung 
+von 1 und 2 als Sprungzahlen bilden sich zusätzlich noch Felder aus. 
+Liegen zum Beispiel 4 Einsen zufällig nebeneinander, müsste es schon mit 
+dem teufel zugehen, wenn das Feld nicht im 2. Durchlauf auch getroffen 
+wird...
+
+Feld bei dem es nicht funktioniert:
+
+2323232323232323........
+
+Und bevor du rummoserst: dieses Feld ist genauso wahrscheinlich wie das 
+von dir vorgegebene. Wenn du dich ernsthaft für Selbstorganisation 
+interessierst, empfehle ich das Buch 'Das digitale Universum' ISBN 
+3-287-25550-7. Ist schön einfach geschrieben und gut zu verstehen.
+
+
+Jeh mehr Würfel umso größer die Wahrscheinlichkeit, dass es aufgeht. 
+Mach es mal mit 10 Würfeln:
+
+4631352534
+x   x   x
+
+463135213
+   x  x
+
+
+s.O.
+
+Gruss, Ignaz

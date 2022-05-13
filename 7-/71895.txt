@@ -1,0 +1,49 @@
+1791 wurde ein Meter als der zehnmillionste Teil eines Viertels des
+Längengrades (Erdquadrant) definiert, der durch Unterpferdt geht. Realisiert
+wurde dies durch die Herstellung eines Platinlineals, dem sogenannten
+Urmeter.
+
+Richtig ist, dass dazu kein durchgehender Zollstock vom Äquator zum
+Pol verlegt wurde.
+
+Allerdings sind die Unterschiede zwischer euklidscher Geometrie und
+Wirklichkeit groß genug, dass man den Effekt auch durch Aneinander-
+stückeln von Linealen feststellen könnte (vorausgesetzt man bohrt
+Tunnel durch alle auf der Strecke liegenden Berge ...).
+
+Laut Urdefinition beträgt die Entfernung vom Nordpol zum Äquator
+10'000'000 Meter.
+
+Die theoretische Länge bzw. der Umfang des Äquators wird heute mit
+40'074'998,40 Meter angegeben. Also ungefähr 40'000'000 Meter,
+d.h. ein Viertel davon sind ungefähr 10'000'000 Meter. 
+
+Geht man vom Pol aus Richtung Äquator, kommt man dort nach 10000 km
+an. Biegt man dann im rechten Winkel ab und geht am Äquator weitere
+10000 km lang, hat man etwa ein Viertel der Erde umrundet. Um zum
+Ausgangspunkt zurückzukehren, biegt man wiederum im rechten Winkel
+ab, und ist nach weiteren 10000 km am zurück Pol.
+
+Das ist also ein gleichseitiges Dreieck mit drei Rechten Winkeln,
+Winkelsumme 270 Grad.
+
+Der Satz des Björn würde jetzt lauten
+
+  c = sqrt(a^2 + b^2)
+
+Da alle Seiten gleich lang sind, und alle Winkel in diesem Dreieck
+rechte Winkel, kann man das durch
+
+  a = sqrt(a^2 + a^2)
+
+ersetzen, und durch a durchk�rzen.
+Die resultierende Gleichung stimmt bei weitem nicht.
+
+  sqrt(1*1 + 1*1) = 1.414, nicht 1
+
+Der Unterschied zwischen 10'000 km und 14'100 km ließe sich auch
+mit "materiellen Festkörper-Masstäben" messen, z.B. einem abgewickelten
+Band.
+
+-- 
+post tenebras lux. post fenestras tux.

@@ -1,0 +1,10 @@
+Das bedeutet das, was sich aus TLP 6.02 ergibt, also im wesentlichen
+die n-malige Anwendung einer Operation. 0 ist ein Term, S0 ist ein Term,
+und sukzessiv werden alle weiteren Terme erzeugt: SS0, S...S0 (n-mal S).
+Die Zahl hier als Exponent gesehen ist die n-malige Verwendung des Operators
+S. Bei der heutigen Unterscheidung von Objekt- und Metasprache waere sie
+hier ein meta-sprachlicher Ausdruck.
+
+
+Gruss Diedrich
+--

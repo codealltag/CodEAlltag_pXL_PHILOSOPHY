@@ -1,0 +1,21 @@
+Dominik Pfluegler <sacvruvan@xyb.pa> wrote:
+
+[...]
+
+
+Der Verlust von Zuverlässigkeit entsteht primär nicht durch den
+Einsatz von Zufall, sondern weil man darauf verzichtet, alle
+Möglichkeiten zu überprüfen. Welche Möglichkeiten man überprüft,
+berät man dann dem Zufall, um nicht Opfer einer bestimmten
+Systematik zu werden (s.u.).
+
+
+Eben. Wenn man bei einem genetischen Algorithmus Pseudozufallszahlen
+benützt, funktioniert er auch. Trotzdem ist er jetzt deterministisch.
+Zufall heißt hier nur, daß man keine bestimmte Systematik anwenden
+will, die einem den Zugang zur Lösung verbauen könnte. (Sicher hat
+jeder PRNG eine gewisse 'Systematik', die man ausnutzen könnte, um
+dem System ein Problem zu präsentieren, für das es dann keine
+optimale Lösung findet. Aber das ist in der Praxis ohne Bedeutung.)
+
+Dietmar

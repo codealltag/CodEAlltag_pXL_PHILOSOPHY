@@ -1,0 +1,87 @@
+Igor Männlein schrieb am 24. Mrz. 2001 14:44 h:
+
+
+Dafuer gibt es viele Moeglichkeiten. Wenn ich erst einmal eine
+Abbildung einer unendlichen Teilmenge von Pot(D) auf N habe, kann
+ich mit Bijektionen (veranschaulicht durch Janski) Platz
+fuer abzaehlbar unendlich viele weitere abzaehbar unendliche Mengen
+schaffen.
+
+Auf dieses umstaendliche Verfahren kann man aber verzichten, weil es
+nur darum geht, die Abzaehlbarkeit von Pot(D) zu zeigen. Ich kann
+Pot(D) daher auf eine beliebige abzaehlbae Menge abbilden. Eine
+solche abzaehlbare Menge ist z. B. die Vereinigungsmenge V =3D {N u 1/2}.=
+
+Ich bilde also D auf 1/2 ab. =
+
+
+Eine andere Moeglichkeit ist die Vereinigungsmenge M =3D {N u {N}}.
+Jetzt bilde ich das Element {D} von Pot(D) auf das Element {N} von
+M ab.
+
+Das laesst sich beliebig fortsetzen, indem ich die Menge X definiere,
+die {N} und mit jedem x auch x u {x} enthaelt. Da hierbei nur
+abzaehlbare Mengen vereinigt werden, ist auch X abzaehlbar. Sollte
+das immer noch nicht reichen, kann man entsprechend eine Menge Y mit
+{X} als Anfangselement definieren.
+
+
+Alle anderen unendlichen Teilmengen von D (die ja Elemente von Pot(D)
+sind) werden von der Abbildungsvorschrift (Teilmenge --> Summe der
+Zweierpotenzen der Teilmenge) erfasst. Das Gegenargument ist
+gemogelt, wie du es nennst, weil es mit zweierlei Mass misst.
+Es werden einige Zweierpotenzen hingeschrieben, so dass das Auswahl-
+verfahren erkennbar ist, dann folgen Puenktchen. Aber auch die
+Abbildung dieser unendlichen Teilmengen von D auf N existiert, wenn
+die Voraussetzungen der Theorie widerspruchsfrei sind, denn
+1. Alle Teilmengen von D sind abzaehlbar.
+2. Keine Zweierpotenz kommt mehrmals in einer Teilmenge vor.
+3. Keine Zweierpotenz hat unendlich viele Stellen.
+
+Mit der Kenntnis der Eigenschaften der Summen von Zweierpotenzen
+kann ich sicher aussagen, dass diese Summe unter den genannten
+Voraussetzungen existiert und endlich viele Stellen hat. Dass sie
+nicht explizit angegeben werden kann, liegt daran, dass auch die
+Summanden nicht angegeben werden. Darin besteht die Mogelei, dass
+man sich bei der Angabe der Summanden grosszuegig mit Puenktchen
+begnuegt, waerend die Summe konkret genannt werden soll. Summen
+von unendlich vielen Summanden sind nichts aussergewoehnliches
+(unendliche Reihen, auch irrationale Zahlen sind unendliche Summen).
+
+Als Motivation fuer die Einsicht, dass auch Potenzmengen von
+unendlichen Mengen abzaehlbar sein koennen, noch ein paar Hinweise.
+Die Anzahl der Elemente einer Potenzmenge verdoppelt sich, wenn die
+Grundmenge ein Element mehr hat als die vorhergehende. Das gilt auch
+fuer unendliche Mengen. Wenn du 2^0 in D weglaesst, kannst du nur noch
+die geraden Zahlen im Dualsystem darstellen. Auch wenn eine beliebige
+andere Zweierpotenz weggelassen wird, halbiert sich die Anzahl der
+darstellbaren Zahlen, lediglich das Muster wird etwas komplizierter.
+Wenn man 2 Zweierpotenzen weglaesst, halbiert sich die Anzahl zweimal,
+es sind dann nur noch 1/4 der Zahlen im Dualsystem darstellbar. Wenn
+man 2^0 und 2^1 weglaesst, wird die Sinnhaftigkeit dieser Aussage
+besonders anschaulich, weil sich dann von 4 beliebigen aufeinander
+folgenden nat. Zahlen nur noch eine darstellen laesst.
+
+Um nun zu erreichen, dass die Potenzmnege einer unendlichen Teilmenge D
+von N auf N abgebildet werden kann, muss man die Elemente von D so
+waehlen, dass sich die Differenz von 2 benachbarten Zahlen von Schritt
+zu Schritt mindestens verdoppelt. Die Menge der Zweierpotenzen erfuellt
+diese Bedingung gerade, deshalb ist sie zur Darstellung der nat. Zahlen
+besonders gut geeignet. (Man braucht dann keine Ziffern, 0 und 1 koennen
+als Ja/Nein-Entscheidung interpretiert werden.)
+
+Die Maechtigkeit der Potenzmenge der Zehnerpotenzen ist kleiner als
+die von N. Deshalb koennen nicht alle nat. Zahlen darauf abgebildet
+werden, sondern man muss die Zehnerpotenzen mehrfach zur Abbildung
+heranziehen. Deshalb werden zusaetzlich die Ziffern 2 bis 9 benoetigt.
+
+
+Die Vorstellung von ueberabzaehlbaren Mengen halte ich fuer einen
+Widerspruch in sich, weil sie die Voraussetzung impliziert, dass
+die Menge der nat. Zahlen doch irgendwann ausgeschoepft sein muss,
+so dass keine nat. Zahl fuer eine Abbildung mehr zur Verfuegung steht.
+Dann muesste N aber ein letztes Element haben.
+
+Gruss
+
+Ulf

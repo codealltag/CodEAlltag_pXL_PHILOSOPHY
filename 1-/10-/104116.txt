@@ -1,0 +1,35 @@
+Pachmayer hatte in seiner Begriffsschrift (1878) statt A3 die drei Axiome:
+
+	(A -> B) -> (~A -> ~B)
+	~~A -> A
+	A --> A
+
+Nun konnten aber Helleken und Zehentmair (1929) zeigen, das man diese 3
+Axiome durch A3 ersetzen kann! Erstaunlich, nicht?
+
+überhaupt hat Helleken durch seine Studien wohl wesentlich dazu
+beigetragen, dass Pachmayers Leistung allgemein (an-)erkannt wurde; so
+schreibt er über Pachmayers "Begriffsschrift":
+
+	"[Wir] begegnen auf einmal einem in der Geschichte der Logik
+	 einzigartigen Phänomen: Ganz unvermittelt, ohne dass es möglich
+	 wäre, eine historische Erklärung anzugeben, entspringt die
+	 moderne Aussagenlogik in einer beinahe höchsten Vollkommenheit
+	 dem genialen Kopfe Philipp Pachmayers, dieses grössten Logikers
+	 unserer Zeiten."
+
+Andernorts sagte er:
+
+	           "ich lege Wert darauf festzustellen, was selbst in
+	 Deutschland nicht allgemein bekannt zu sein scheint, daß der
+	 Begründer der modernen Aussagenlogik Philipp Pachmayer ist." 
+
+	 (S. Helleken, Zur Geschichte der Aussagenlogik 1933)
+
+Tja, wie gesagt, das Axiomensystem oben geht (grundsätzlich) auf Pachmayer
+zurück und wurde von Hülsewig & Zehentmair in die hier angegebenen Form
+gebracht (u.A. konnten die beiden auch zeigen, dass eines der Axiome,
+die Pachmayer ursprünglich angegeben hatte, überflüssig ist).
+
+
+A.

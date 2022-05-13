@@ -1,0 +1,145 @@
+Hallo Fabrice,
+
+
+Leider steht das in deinem behauptenden posting gerade nicht! Sondern da 
+steht wörtlich: "... ein Baum ist ein Baum, ob das die mathematische
+Abstraktionsgebäude oder aber das beblätterte Pflanzenwerk ist".
+
+Im folgenden vernachlässige ich die gramm. Oberflächlichkeitsfehler.
+
+1. das 'ob' im Satz erklärt *unmißverständlicherweise* (da gibt's kein 
+Vertun!), daß du *zwei* unterschiedliche Gegenstände/Entitäten, die 
+*zwei* unterschiedlichen Kategorien angehören (klar signiert mit 'oder 
+aber') miteinander *identifizierst*, und zwar eben mit der 
+vermeintlichen Gleichung 'ein Baum ist ein Baum'.
+
+2. Gegen diese Identitätsbehauptung steht aber, daß *in Wirklichkeit* 
+natürlich
+
+mA ---> 'mathematisches Abstraktionsgebäude'
+
+etwas anderes sind als
+
+bP ---> 'beblättertes Pflanzenwerk'.
+
+Wie du *für dich* beide -- sich gegenseitig ausschließende -- Tatsachen 
+im Satz weiterhin gegen die Logik (und doch vorgeblich) konsistent 
+zusammengepressen möchtest, überlasse ich dir, weil es mich nichts 
+angeht, ob du klaren Denkens willens sein möchtest oder nicht. Aber ich 
+werde einen Teufel tun und in d.s.philo solchen logischen Quark 
+unwidersprochen stehen lassen.
+
+Zur Verdeutlichung:
+
+Deine Behauptung formalisiert:
+
+(1) Der *Name* von mA ist 'Baum'.
+(2) Der *Name* von bP ist 'Baum'.
+
+(3) Durmanns implizites (privat"logisches") Gesetz (AplG): "Wenn ein Name 
+für zwei Dinge der gleiche ist, sind auch die Dinge selbst gleich".
+
+---> Hiesige Realisierung von AplG: mA = bP. Denn mA heißt (wörtlich 
+'ist' ein) 'Baum' und bP heißt (wörtlich 'ist' ein) 'Baum'. Und 
+schließlich (lt. Zoschke): Da logischerweise ein Baum ein Baum ist, ist 
+also auch mA = bP.
+
+Wo liegt da der Fehler? -- Natürlich in der reichlich *irrsinnigen* 
+Annahme, der Name eines Dinges oder Sachverhaltes könne für irgendeine 
+*wesen*tliche Dignität an/in der Sache/dem Ding selbst einstehen! Das 
+Zoschke geht also irrigerweise davon aus, Namen seien nicht kontingent, 
+nicht bloß eine reine *zeichen*mäßige (!) Konvention, sondern Namen 
+seien sozusagen "wesenverbürgend" ...
+
+Argumentation zum Beleg des internen Unsinns von Zoschke:
+
+a.: allgemeine Ableitung
+
+(4) Dinge/Sachverhalte haben Namen
+(5) Dinge/Sachverhalte haben Eigenschaften
+
+(6) Namensidentität verbürgt keine Sach-/Ding-Identität
+(7) Eigenschaftenidentität verbürgt Sach-/Ding-Identität
+(7.2) Eigenschaftendifferenz verbürgt Sach-/Ding-Nichtidentität
+(8) bei Vorliegen mehrerer Sach-/Ding-Eigenschaften gilt (7) nur, wenn 
+*alle* Eigenschaften ident sind.
+
+(9) "blattwerktragend" heiße die Eigenschaft des Dinges bP namens 'Baum' 
+==> p
+(10) "mathematisch abstrakt" heiße die Eigenschaft des Dinges mA namens 
+'Baum' ==> q
+
+(11) p != q
+
+(12) Wenn für bP gilt p und für mA gilt q dann kann es nach (7.2) und 
+(11) nicht sein (implizit übrigens auch nach [8.] nicht), daß bP = mA!
+
+Woher kommt nun der spezielle Unsinn aus AplG:
+
+b.: spezielle Ableitung
+
+(13) Dinge, die 'Bäume' *sind* (und nicht bloß so heißen!), haben u.a. 
+folgende Eigenschaften:
+
+(13.1) p ("blattwerktragend" kann bspw. auch für "nadeltragend" etc. stehen)
+(13.2) "wurzelhabend" (i. S. dessen, was das bei Pfl. bedeutet) ==> r
+(13.3) "stoffwechselhabend" ==> s
+(13.4) "einen Stamm habend" ==> t
+(13.5) "sich fortpflanzenkönnend" (im biol. Sinn) ==> u
+(13.6) [i.d.R.] "Äste habend", zur "Verästelung neigend" ==> v
+usw.
+
+(14) bP und mA haben die *gemeinsame* Eigenschaft (strukturell 
+betrachtet) v; es gilt also, daß für bP gilt, daß v und für mA gilt, daß v.
+
+(15) Die *Namens*gleichheit von bP und mA beruht auf der (strukturellen) 
+Gleichheit ihrer gemeinsamen Eigenschaft v
+
+---> Ist deshalb mA ein Baum?
+
+(16) Die hinreichende Bestimmung dafür, was ein Baum ist, ergibt sich 
+aus (13.1)-(13.9) usw.
+
+(17) mA weist außer v keine der hinreichenden Bestimmungen (etwa p, r, 
+s, t, und u) dafür auf, als Baum zu gelten.
+
+(18) mA ist -- folgend aus (6), (7.2), (8), (16) und (17) -- *kein* 
+Baum. Die Namensgleichheit (vgl. [15]) resultiert aus einer gemeinsamen 
+Eigenschaft, sie begründet also ein *Analogie*, aber keine Wesensgleichheit!
+
+Conclusio: Daß "ein Baum ein Baum ist", erscheint trivial. Daß aber -- 
+wie aus (1) - (18) ersichtlich geworden, aus einer (oder ggf. auch 
+mehreren) gleichen Eigenschaft(en) eines Baume mit irgendwas anderem 
+geschlossen werden dürfe, dieses Andere sei dann auch ein Baum, konnte 
+als unwahr und falsch (sachlich als auch formal inkorrekt) nachgewiesen 
+werden. Auf Wahrheit bezogen, weil die *sachliche* Analyse des 
+jeweiligen Eigenschaftenkataloges dies erbringt, formal, weil gegen 
+(7.2) und (8) verstoßen wurde.
+
+---> Das Zoschke hat sich als unhaltbar erwiesen: Man kann nicht aufgrund 
+einer Namensgleichheit auf Wesensgleichheit schließen. Nur letzteres 
+aber rechtfertigte die Wahrheit und Richtigkeit deiner Behauptung, "... 
+ein Baum ist ein Baum, ob das die mathematische
+Abstraktionsgebäude oder aber das beblätterte Pflanzenwerk ist".
+
+q.e.d.
+
+Der Satz ist unsinnig.
+
+
+Hier machst du einen weiteren Fehler (die mangelnde Syntaxkonsistenz dem 
+/principle of charity/ gemäß mal vernachlässigt), weil du jetzt 
+plötzlich einen Allgemeinbegriff mit einem speziellen Ding vergleichst; 
+das rettet dich aber nicht, sondern macht alles nur noch viel schlimmer! 
+Merke: Es gibt Stammbäume diverser Struktur, wogegen Eichen spezielle 
+Bäume sind!
+
+
+"Dass dem Stammbaum Blätter entwachsen sollen" wäre ein Behauptung und 
+keine Frage. Daneben: Ich will dich natürlich nicht foppen, sondern dir 
+einen ziemlichen Unsinn in deinen Äußerungen (auf-)zeigen, damit du das 
+hinfort vermeiden kannst.
+
+Freundliche Grüße
+
+Gerti

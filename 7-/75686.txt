@@ -1,0 +1,30 @@
+Volkmar Zörrer:
+
+
+Wenn das eine mathematische Beschreibung ist, dann schon.
+
+Das ist kein Problem, aber wenn ich hier ein Programm liegen hätte,
+welches eine kleinsche Flasche beschreibt, dann füsste ich nicht, ob ich
+es als eine Beschreibung einer solchen erkennen würde, ein Apfelmännchen
+wahrscheinlich eher:
+
+for (ix = xa; ix <= xe; ix += inx) {
+                for (iy = ya; iy <= ye; iy += 2*iny) {
+                        it = 0;
+                        zr = 0;
+                        zi = 0;
+                        do {
+                                zrq = zr * zr;
+                                ziq = zi * zi;
+                                it++;
+                                zi = 2 * zr * zi + iy;
+                                zr = zrq - ziq + ix;
+                        } while (zrq + ziq < 4 && it < itmax);
+                        if ((it % 2) == 1)
+                                Point((ix - xa) / inx, (iy - ya) / iny);
+                }
+        }
+
+
+Grüße,
+Frédéric

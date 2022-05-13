@@ -1,0 +1,66 @@
+Liebe Sylke, das ist schlicht und einfach falsch.
+
+Entropie ist ein schwieriger Begriff, der nur ganz schwer
+veranschaulicht werden kann.
+
+Man muss, um Entropie zu verstehen, zwei Sichtweisen unterscheiden:
+
+   - eine äußere Sichtweise, die Systemparameter wie "Gesamtenergie"
+     oder "Temperatur" oder "chemische Zusammensetzung" zulässt und
+     empirisch festlegt.
+
+   - eine Innere Sichtweise, in der diesen äußeren Parametern mögliche
+     innere Zustände betrachtet werden. Je mehr verschiedene innere
+     Zustände ein System annehmen kann, desto höher die Entropie.
+
+Entropie ist ein logarithmische Maß für diese inneren Freiheitsgrade
+eines Systems (wenn man von abzählbaren Zuständen zu kontinuierlichen
+geometrischen Konfigurationen begeht dann kommt man zu einem
+"Volumen des Phasenraumes").
+
+Jede Energiezunahme im System (Erwärmung) ist per se mit einer Zunahme
+der Entropie verbunden, weil eine höhere Bewegungsenergie von Teilchen
+stärkere Annäherungen gegen Abstoßungskräfte zulassen und damit ein
+größeres Volumen des Phasenraumes zugänglich wird. Das macht aber
+Entropie und Wärmebewegung nicht zu etwas vergleichbaren.
+
+Auch eine Volumsvergrößerung des Systems erhöht die Entropie, weil das
+Volumen n-Teilchen-dimensional in den Phasenraum eingeht. Daraus zu
+schließen, dass Entropie nichts anderes wäre als Volumen, wäre
+genauso falsch wie deine obige Aussage.
+
+Es ist schwer ein Resume zu ziehen, denn es ist kein X zu finden, mit
+dem eine Aussage "Entropie ist X" richtig und damit Entropie zu etwas
+einfach zu erklärendem und zu verstehendem würde.
+
+Das Weltbild, das mit Entropie verbunden ist, ist ein doppeltes:
+
+  - als empirische Me�gr��e der Thermodynamik ist die Entropie
+    unhinterfragbar, ein Rechenwert, ein Defizit wie "schwarze Materie"
+    in der Kosmologie.
+
+  - in einer mikroskopisch (atomar-molekularen) Sicht der Welt, ist
+    Entropie mit den statistischen Möglichkeiten der Realisierung von
+    Mikrozuständen verbunden, wobei die dafür erforderliche Energie
+    aus der Wärmebewegung der Teilchen kommt.
+    Die Wahrscheinlichkeit für die Realisierung eine energieaufwändigen
+    Zustandsänderung ist dabei proportional iirc
+       K1*exp(-K2*Energiebedarf)
+    sinkt also exponentiell ab. Da ist man in der Statistische Mechanik.
+    In den Konstanten steckt irgenwo die Temperator als Faktor, d. h.
+    je höher die Temperatur, desto höher wird die Wahrscheinlichkeit
+    für Zustandsänderungen. Genaue Formel müsste ich nachschlagen.
+
+Physikalisch/thermodynamische Entropie ist ein Phänomen der Mikro-Welt,
+das nicht in Ordnungsvorstellungen unserer Alltagswelt übertragen werden
+kann. Jedenfalls nicht, ohne jeden Sinn zu verlieren.
+
+Würde man es thermodynamisch übertragen wollen, dann müsste man sich
+klar sein, dass die "Thermodynamik" eigentlich "Thermostatik" heißen müsste,
+da sie sich nur mit Gleichgewichtszuständen beschäftigt. Da unsere Alltagswelt
+aber nicht in einem Gleichgewicht ist, kann auch die Thermodynamik nicht auf
+sie angewendet werden. Deswegen spielt sie auch nur in Abstraktionen (etwa
+dem Verbrennungsraum eines Motor, oder einem chemischen Reaktor, mit dem
+entsprechenden Vereinfachungen) ein Rolle.
+
+lg Vinzenz

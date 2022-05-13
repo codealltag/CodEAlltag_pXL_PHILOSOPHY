@@ -1,0 +1,6 @@
+Sei 'geometrisch' der (skalare) Abstand d=D(P,Q), d in N, der Anzahl 
+der (Doppel-)Züge, mit dem im Raum S aller Tupel von Schachstellungen 
+(P,Q), jene Tupel (legal, durch Schachspielen) verbunden sind. D() 
+ist asymmetrisch darin, daß der Unterraum S_sym aller D(P,Q)=D(Q,P) 
+gelegentlich entartet, so dass z.B. ewiges Schach verboten ist. 
+--

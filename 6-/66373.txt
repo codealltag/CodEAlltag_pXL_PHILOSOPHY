@@ -1,0 +1,27 @@
+Seuftz!
+So ist kein Vektorraum und schon gar nicht ein euklidscher Raum definiert.
+Ich weiss dass du keine tiefere Kenntniss der Materie hast und beschränke
+mich in der Erklärung auf simple euklidsche Räume der Anschauung. Die
+genauen Definitionen (und dann sind auch ganz ungewohnte Dinge Räume)
+findest du bei Zilch. 
+In einem dreidimensionalen Raum haben alle Elemente=Punkte=Vektoren genau
+drei Elemente=Zahlen und keines mehr oder weniger. Ein Element wie (0) oder
+(0;0) gibt es überhaupt nicht in diesem Raum.
+Ein solcher Punkt=Vektor hat auch keine Dimension (bestenfalls 0 per
+Definition) ganz egal wie viele Zahlen er enthält. Aus einem Vektor wird
+erst dann ein Raum mit Dimensionen (der diesen Vektor enthält) wenn das
+Produkt mit Elementen eines Körpers (den Skalaren) und eine Addition
+erklärt ist. Solange dieses nicht geklärt ist, hat ein Vektor (ganz egal
+wie er aussieht) die Dimension 0. Erst der Raum, zu dem der Vektor gehört,
+hat eine Dimension. Punkte=Vektoren haben nun mal keine Grösse wie schon
+Euklid ganz richtig bemerkte.
+Auch die euklidsche Norm beschert dem Vektor keine "Grösse" sondern:
+Die Norm beschreibt nur wie man einen Punkt=Vektor auf die  nicht negativen
+reellen Zahlen abbilden kann. Näheres siehe wieder Wiki. Damit sollte wohl
+klar sein dass nicht jeder Raum ein Norm und schon erst recht nicht eine
+Metrik haben muss. 
+Euklidsche Räume haben sowas und zwar in der durch die Norm induzierte
+Grundschulen-Metrik :-)
+-- 
+Mit freundlichen Größen
+Dietmar Johannwerner

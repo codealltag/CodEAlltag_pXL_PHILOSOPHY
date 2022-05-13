@@ -1,0 +1,15 @@
+Klingt interessant - ich sollte die Arbeit mal lesen.
+
+
+Die Feldgleichung ist der physikalische Inhalt der Einstein´schen 
+Gravitationstheorie. Bekanntlich ist die Schwarzschild-Lösung die 
+*einzige* kugelsymmetrische Lösung derselben, weshalb die 
+post-Newton-Metrik mit dem Newton-Gravitationspotential als 
+Korrekturterm in g_00 und ansonsten Minkowski-Metrikkomponenten keine 
+sein kann. Die Forderung nach det(g) = -1 erscheint mir ziemlich 
+willkürlich und nur dadurch gerechtfertigt, daß man den korrekten Term 
+für g_rr erhält. "Sauberer" ist es allemal, die Schwarzschild-Metrik 
+direkt durch Lösen der Feldgleichung zu erhalten.
+
+MfG,
+Sven

@@ -1,0 +1,52 @@
+Valentin Rosenfeldt wrote:
+
+Nachtrag:
+
+da mit einer gewissen Vehemenz sowas als nicht möglich erklärt wird und 
+damit wohl auch nicht möglich ist:
+
+
+Es gilt:
+1/0 = 0/1  entsprechend b/a = a/b
+und
+0/1 ? 1/0  entsprechend a/b ? b/a
+
+Weiterhin gilt:
+1 + 0 = 1  entsprechend b + a = b
+2 + 0 = 2 entsprechend b + a = b bzw.  c + a = c
+1 - 0 = 1  entsprechend b - a = b
+2 - 0 = 2 entsprechend b - a = b bzw. c - a = c
+1 + 1 = 2 entsprechend b + b = c
+1 + 2 = 3 entsprechend b + c = d
+2 + 1 = 3 entsprechend b + c = d
+1 - 1 = 0 entsprechend b - b = a
+2 - 2 = 0 entsprechend b - b = a
+3 - 3 = 0 entsprechend b - b = a
+1 - 2 = -1 entsprechend b - c = d
+1 - 3 = -2 entsprechend b - c = d
+2 - 3 = -1 entsprechend b - c = d
+2 - 1 = 1 entsprechend c - b = d
+3 - 1 = 2 entsprechend c - b = d
+4 - 1 = 3 entsprechend c - b = d
+1/1 = 1 entsprechend b/b = b
+2/2 = 2 entsprechend b/b = b bzw c/c = c
+3/3 = 3  entsprechend b/b = b bzw c/c=c
+4/4 = 4  entsprechend b/b = b bzw c/c=c
+...
+1 * 1 = 1 entsprechend b * b = b
+1 * 0 = 0 entsprechend b * a = a
+0 * 1 = 0 entsprechend a * b = a
+2 * 1 = 2 entsprechend c * b = c
+1 * 2 = 2 entsprechend b * c = c
+2 * 0 = 0 entsprechend c * a = a
+0 * 2 = 0 entsprechend a * c = a
+2 * 1 = 2 entsprechend c * b = b
+1 * 2 = 1 entsprechend b * c = b
+2/1 = 2 entsprechend c/b = c
+1/2 =1/2 entsprechend b/c = b/c = d
+1/3 = 1/3 entsprechend b/c = b/c = d
+6/3  = 2 entsprechend b/c = b/c = d
+1/0 = 0/1 entsprechend b/a = a/b
+2/0 = 0/2 entsprechend c/a = a/c
+
+6/0 = 0/6 entsprechend d/a = a/d

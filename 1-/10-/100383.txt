@@ -1,0 +1,13 @@
+So ist es.
+
+In der klassischen Logik wird angenommen, dass jeder Term eine
+"Denotation" hat, d.h. hier gilt Ex(x = a) für jeden bel. Term a.
+In der sog. freien Logik gilt das nicht (mehr).
+
+Die freie Logik steht der klassichen Logik nahe. Man kann sagen, dass es
+eine "existenzannahmenfreie" Prädikatenlogik erster Stufe mit Identität
+ist. (Genaugemommen handelt es sich aber dabei um mehrere unterschied-
+liche Systeme dieser Art.)
+
+
+A.

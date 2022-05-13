@@ -1,0 +1,19 @@
+1/0 nicht definiert --- richtig?
+1/1 = 1 --- richtig?
+n/n = 1 --- richtig?
+
+(n/n, n/x, n/x, n/x ...) = ?
+
+(n/x, n/x, n/n, n/x, n/x.....) = ?
+
+Wenn ich auch nicht bestimmen kann was n/x ist, so kann ich doch 
+immerhin bestimmen was n/n ist. Wenn die Rechenregeln stimmen, dann ist 
+n/n = 1
+Wenn n aber 0 ist, dann könnte ich genausogut behaupten das dies keinen 
+Unterschied macht. Jede Zahl ob bekannt oder unbekannt ergibt durch sich 
+selbst dividiert 1.
+
+
+Gruss
+
+Rupert

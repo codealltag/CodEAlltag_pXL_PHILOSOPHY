@@ -1,0 +1,62 @@
+Es gibt zwei prinzipiell verschiedene Arten von Zeitverlangsamung. (Diese
+können natürlich beliebig kombiniert und verkompliziert werden.) Hat man zwei
+nebeneinanderliegende Uhren, so kann nur eine Uhr langsamer gehen als die
+zweite, keinesfalls aber beide reziprok.
+
+Nur aufbauend auf dem zweiten Prinzip kann es zu reziproker Zeitverlangsamung
+kommen. Um dieses Prinzip in seiner einfachsten Form zu realisieren, wird
+eine Uhr mit verschiedenen anderen Uhren verglichen, die alle gleich schnell
+laufen aber verschieden eingestellt sind. Eine praktische Realisierung kann
+so aussehen: Uhren werden nebeneinander auf ein langes Band geklebt und so
+eingestellt, dass eine Uhr umso mehr vorgeht, je weiter sie vorne liegt, also
+z.B. 0.2 Sekunden pro Meter. Ein Beobachter, der sich mit einer konstanten
+Geschwindigkeit von 1 m/s relativ zum Band nach vor bewegt, erhält so den
+Eindruck, dass seine Zeit langsamer geht als die auf dem Band (jedesmal wenn
+auf der eigenen Uhr 1 Sek vergangen sind, sind es 1.2 Sek auf dem Band).
+
+      0.0
+     --+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+--
+      0.0   0.2   0.4   0.6   0.8   1.0   1.2   1.4   1.6   1.8   2.0
+
+                                    5.0
+     --+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+--
+      5.0   5.2   5.4   5.6   5.8   6.0   6.2   6.4   6.6   6.8   7.0
+
+                                                                 10.0
+     --+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+--
+     10.0  10.2  10.4  10.6  10.8  11.0  11.2  11.4  11.6  11.8  12.0
+
+Dieses Prinzip zieht zwei wichtige Konsequenzen nach sich: Das Band kann
+nicht geschlossen werden, denn in eine Richtung ist alles 'Zukunft' und in
+die entgegengesetzte Richtung alles 'Vergangenheit'.
+
+Die zweite Konsequenz ist folgende: Bewegt sich der Beobachter (mit gleicher
+Geschwindigkeit) zurück und die Uhren auf dem Band werden nicht verstellt,
+so ist die Zeit des Beobachters jetzt die schnellere (1 Sek pro 0.8 Sek).
+Die der Lösung des Zwillingsparadoxons analoge Situation sieht auf dieser
+reduzierten Stufe folgendermassen aus: Die Band-Uhr, bei der sich der
+Beobachter im Moment des Richtungswechsels befindet, ist sozusagen gebunden
+und muss deshalb unverändert bleiben, aber ausgehend von dieser werden alle
+Uhren neu eingestellt.
+                                                                 10.0
+     --+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+--
+     10.0  10.2  10.4  10.6  10.8  11.0  11.2  11.4  11.6  11.8  12.0
+
+                                                                 10.0
+     --+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+--
+     14.0  13.8  13.6  13.4  13.2  13.0  12.8  12.6  12.4  12.2  12.0
+
+     20.0
+     --+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+--
+     24.0  23.8  23.6  23.4  23.2  23.0  22.8  22.6  22.4  22.2  22.0
+
+Man kann auch einsehen, dass der Richtungswechsel nicht mehr funktioniert,
+wenn der Beobachter eine Ausdehnung hat, da mehr als eine Uhr gebunden ist.
+
+                                                           10.0  10.0
+     --+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+--
+     10.0  10.2  10.4  10.6  10.8  11.0  11.2  11.4  11.6  11.8  12.0
+
+                                                           10.0  10.0
+     --+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+--
+     14.0  13.8  13.6  13.4  13.2  13.0  12.8  12.6  12.4  12.2  12.0

@@ -1,0 +1,35 @@
+: : > Ist also jemals eine Temperatur a beobachtbar? Was wird beobachtet?
+: : Eine Temperatur ist niemals beobachtbar, allein Temperaturintervalle sind
+: : es.
+
+: Per Festlegung? Wie kann ich von etwas < x feststellen, wenn ich davon
+: = x nicht feststellen kann?
+
+Nein, nicht per Festlegung, sondern per physikalischer Realitaet sind
+Messungen fehlerbehaftet. Dass (200 Kelvin +/- 0.2) kleiner sind als
+205 Kelvin laesst sich eindeutig feststellen. Im Randbereich [727.8...
+205] gibt es natuerlich eine Unsicherheit. Dieses Intervall wird mit
+zunehmender Messgenauigkeit kleiner.
+
+: : P(Ereignis = x) ist fuer jede kontinuierliche Warscheinlichkeitsdichte
+: : ueberall Null und damit fuer deren Charakterisierung unbrauchbar.
+
+: Wer will den die Dichte damit charakterisieren? Es geht darum, ob
+: Null-ereignisse moeglich sind, nicht ob sie charakteristisch sind.
+: Uebrigens ist die Kontinuierlichkeit nicht notwendig.
+
+Ich dachte, es geht um die Frage, ob und wie wir ein Modell fuer die
+Auftrittstendenzen von Ereignissen aufstellen koennen, und ob da ein
+Realitaetsbezug dahintersteht oder ob das ein blosses Gedankenkonstrukt
+ist. Wenn Du keine Dichtefunktion dafuer brauchst, schoen! Ich frage
+mich bloss, wie Du ohne diese ein Modell fuer die Auftrittswahrschein-
+lichkeit von Temperaturen angeben koennen willst. Da bin ich sehr ge-
+spannt.
+
+Gruss,
+
+	Hinrich.
+
+
+ ------------  Hinrich Zierhold, AB Technische Informatik VI  -------------
+ ----------------  http://mbf.pk2.mu-upjyyco.pv/~rg8yw  -----------------

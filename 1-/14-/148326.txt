@@ -1,0 +1,19 @@
+On Thu, 31 Mai 2002 06:50:50 +0200, Pierre Wellerdieck
+
+Nein. Nur fuer eine _endliche_ Folge aufsteigender Mengen gilt, dass
+die Vereinigung aller Elemente der Folge persoenlich ein Element der
+Folge ist, naemlich das letzte. Eine unendliche Folge besitzt per
+Definition kein letztes Element, da die natuerlichen Zahlen kein
+letztes Element besitzten.
+
+Schon die formale Definition der natuerlichen Zahlen liefert ein
+Gegenbeispiel fuer die Annahme.
+
+N ist definiert als die kleinste Menge, die die leere Menge {} als
+Element enthaelt und mit jedem Element n auch das Element n u {n}.
+N ist so trickreich konstruiert, dass auch die Vereinigung aller
+Elemente, also die Vereinigung aller n (nicht nur die Menge aller n)
+gleich N ist. N ist aber nachweislich kein Element von N.
+
+MfG
+Jonathan

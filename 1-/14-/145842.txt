@@ -1,0 +1,62 @@
+Jetzt mal mit unverbrämt-kindisch-naivem Verstand darangehen:
+
+Geteilt durch: Ich habe zehn Äpfel und fünf Kinder. Wieviel stehen
+jedem Kind zu? 2, denn zwei Äpfel * fünf Kinder = zehn insgesamt.
+Logisch.
+
+Ich habe einen Apfel und fünf Kinder => jedes Kind bekommt 1/5. Auch
+logisch.
+
+Ich habe keinen Apfel und fünf Kinder => jedes Kind bekommt nichts.
+Klar, nicht wahr?
+
+Ich habe fünf Äpfel und verteile sie auf Keine Kinder. Wieviel kriegt
+jedes Kind? Es sind keine da, also kann auch kein Kind irgendeinen
+Apfel bekommen. Also bekommt kein Kind nichts, während die 5 Äpfel
+unangetastet bleiben.
+
+Ja, so she es real aus: Ich würde alle Äpfel wieder nach Hause
+nehmen. Das Problem besteht nicht darin, daß diese Tätigkeit nicht
+durchführbar ist. Logisch betrachtet ist das Problem lösbar, nur
+unmathematisch. Außerdem geht man davon aus, bei einer Division nur
+einen Wert zu untersuchen, nämlich den "wieviel-kriegt-jeder"-Wert.
+Diesen Wert gibt es jedoch im Falle X / 0 nicht. Stattdessen gibt es
+einen anderen Wert, einen Restwert ("wieviel bleiben über"). Da dieser
+Wert dem Mathematiker egal ist, sieht er nur, daß für ihn kein
+sichtbares Ergebnis der Rechnung vorhanden ist. Also muß er annehmen,
+daß die Rechnung undurchführbar ist, da hat er auch Recht. Die
+Überlegung ist jedoch durchaus interessant:
+
+Teile ich 10 / 5, so teile ich zehnmal einen ganzen Apfel aus.
+Bei 1 / 5 teile ich 5 mal ein Stückchen aus.
+
+Im Falle 5 / 0 teile ich nullmal einen Apfel aus.
+
+Das ist eben der Punkt: Es kommt auf die Betrachtung an. Tue ich nun
+"nichts", oder tu ich etwas nullmal? "Nullmal kann man nichts tun"
+werden einige denken.
+
+Im Falle 0 / 10 jedoch teile ich zehnmal nichts aus = niemals
+irgendwetwas = nullmal nichts.
+
+Das Ergebnis ist Null. Null Kinder haben irgendetwas bekommen.
+
+Im Falle 5 / 0 haben aber auch null Kinder etwas bekommen. Also -
+sollte das Ergebnis deshalb null sein?
+
+Die These widerspricht sich mit anderen math. Axiomen und ich muß
+zugeben, daß meine Überlegungen zurechtgedreht sind. Das Problem wird
+aber in mancherlei Hinsicht klar sichtbar:
+
+1. Die Aussage einiger Mathe-Asse, 1/0 "ginge nicht" ist unpräzise und
+macht unzufrieden, weshalb es überhaupt zu solchen Threads kommt.
+Genauer wäre wohl "1 / 0 liefert kein Ergebnis, sondern einen Rest".
+Die Operation wird ja ausgeführt, nicht aber abgeschlossen. Wenn ich
+zum Laden gehe, dieser aber geschlossen hat, so drehe ich an der Türe
+um, bin aber trotzdem zum Laden gegangen. Ich habe lediglich keine
+Einkäufe, dafür habe ich noch das Geld.
+
+2. Das Problem ist die null. Die null ist zwar eine Zahl, denn ich
+kann mit ihr zählen (wie viele Osterhasen siehst du - moment - null),
+aber sie ist verantwortlich für mancherlei mathematische
+Ausnahmefälle.

@@ -1,0 +1,15 @@
+Alles, was in einer zweistufigen Prädikatenlogik möglich ist, kann im
+Prinzip auch einstufig unter Verwendung von Mengen ausgedrückt
+werden.[Allerdings müßtest du dann auch über Mengen quantifizieren.]
+Allerdings gibt es gewisse Unterschiede, auf die ich hier ohne Not
+aber nicht eingehen möchte ;) 
+
+
+Dein zweiter Satz ist nicht die Formalisierung des ersten: Du setzt
+bei der vermeintlichen "Formalisierung" schon die Wahrheit des
+umgangssprachlich formulierten Satzes voraus, um die durch die
+Prädikate definierten Mengen durch das gleiche Symbol bezeichnen zu
+können. Die Formulierung einer Aussage unterscheidet von der
+Behauptung ihrer Wahrheit.
+
+karlheinz

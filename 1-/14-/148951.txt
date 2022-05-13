@@ -1,0 +1,33 @@
+Die kleinste reele Zahl grösser Null ist die 0 selbst.
+Was leicht zu beweisen wäre, denn 0,0 = 0
+0,00 = 0
+0,000 = 0 
+0,0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000=0
+0,00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000=0
+
+0,0 ist eigentlich schon richtig, weil ich in der Schreibweise schon
+zwei Zeichen habe und damit eigentlich schon ein binäres System.
+
+00 = 0
+000000000000000000000000000000 = 0 
+
+stimmt aber genauso.
+
+Eine unendlich Anzahl von 0 ist immer noch 0, solange dies gilt ist die
+kleinst reele Zahl die 0 selbst.
+
+Eine leere Festplatte hat als Speicherinhalt 0 und als Speicherinhalt
+schon irgendetwas, wenn sich nur eine 1 darauf befindet. Es mag aber
+eine 1 irrellevant sein so dass ich immer noch von 0 sprechen könnte.
+Mathematisch korekt ist das alles mal wieder nicht. Aber es ist
+irgendwie realistisch davon auszugehen, dass auch Mathematik begrenzt
+ist. 
+
+Somit ist die 0 als Zeichen auch die kleinste reele Zahl, da eine 0
+genausoviel Wert ist wie alle Nullen die ich hintereinandersetzen kann
+und alle Nullen insgesammt liessen sich auf die Natürlichen Zahlen
+bijektiv Abbilden. Die Menge der Natürlichen Zahlen könnte ich
+demzufolge auch einer Grösse gleich Null zuordnen. 
+
+Gruss
+Luigi

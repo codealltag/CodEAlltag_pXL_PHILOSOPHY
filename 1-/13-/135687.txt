@@ -1,0 +1,33 @@
+Von Clemens Bavendiek:
+
+Kann sie nicht und kann auch sonst keine Logik. In der maschinellen
+Sprachübersetzung und auch in der Spracherkennung war man lange Zeit der
+Meinung, man könnte das Problem lösen. Man konnte es nicht. Man arbeitet
+in diesen Bereichen deswegen heute mit Lexikas. Gerade die
+Übersetzungsproblematik zeigt diese Randunschärfe. Im Russischen gibt es
+zum Beispiel 15 bis 20 Verkleinerungsformen wohingegen das Deutsche da
+nur sowas wie -chen und -lein kennt und es gibt im Russischen auch noch
+Verkleinerungsformen 2. Grades macht mit den zusammengesetzten
+Verkleinerungsformen so ca. 40 bis 45 Verkleinerungsformen. Diese
+Bedeutungsunterschiede sind dann in die deutsche Sprache gar nicht mehr
+übersetzbar und in das Englische noch weniger da ein "little" oder "very
+little" nicht diese Expressivität hat und im Englischen ausserdem
+unüblich wäre. 
+überhaupt gibt es selbstverständliche Erfassungen der gesprochenen
+Sprache die eine maschinelle Logik sehr schnell an die Grenzen führen.
+Bei Versuchen eine maschinell gestützte Telefonauskunft zu entwickeln
+haben sich lokale Dialekte als Hinderniss erwiesen. Dabei geht es nur um
+bekannte Begriffe wie Name und Ort. Ein solches System funktioniert noch
+nicht einmal bei Hinterlegung der bekannten Namen eines Firmenmitarbeiter
+Verzeichnisses, wobei dann alle möglichen Varianten der möglichen
+Aussprache der Firmenmitarbeiter lexikalisch hinterlegt werden, allerdings
+lag die Trefferquote dann doch hoch, scheitert aber bei Sprechern mit
+einem Akzent. 
+Übersetzungssysteme kämen auch mit Ausdrücken wie flacsh nicht zurecht
+und auch whar wäre ein unüberwindliches Problem. 
+Dass das Chinesische die Zeit ganz anders behandelt als die europäischen
+Sprachen ist dabei noch gar nicht berücksichtigt und wie es mit den
+Clicklauten von Buschbewohnern aussähe....
+
+Gruß
+Eilt

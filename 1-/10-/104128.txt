@@ -1,0 +1,38 @@
+Schon, schon... aber hattest Du nicht zitiert:
+
+	"[...]Da alle Funktoren der Aussagenlogik auf die Funktoren
+	  ~ und -> reduzierbar sind, ist die Sprache A reichhaltig
+	  genug, um den Aussagenkalkül darzustellen[...]"
+
+Kurz, ich nehme an, das Du bislang n u r dieses _axiomatische_ System
+kennst... :-)
+
+-------------------
+
+Im Gegensatz dazu: In einem System des natürlichen Schließens sind
+üblicherweise alle Konnektive "primitive symbols" (engl.); d. h. hier
+definiert man (in der Regel) Konnektive nicht durch andere.
+
+D a n n ist (offensichtlich)
+
+	P -> P
+
+(vom Aufbau her) einfacher als
+
+	P v ~P.
+
+Das kann man aber auch recht gut auf folgende Weise "sehen":
+
+Beweis für |- P -> P
+
+	1  (1) P          A
+	   (2) P -> P     ->I (bzw. CP)
+
+	qed.
+
+Nun versuch Dich mal (als kleine Übung) am Beweis für |- P v ~P
+(im System von Ruppen). ;-)
+
+
+Gruß,
+K.

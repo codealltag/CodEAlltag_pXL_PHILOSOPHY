@@ -1,0 +1,184 @@
+Diese Formulierungen halte ich sämtlich für grammatikalisch inkorrekt;
+und ich denke, ich habe hier die Linguistik auf meiner Seite!
+
+An eine Nominalphrase mit dem bestimmten Artikel kann nicht mit einem
+Nebensatz angeschlossen, werden, da Nominalphrasen keine Sätze sind
+(wenngleich sie Relativsätze enthalten können) und somit auch nicht
+als Hauptsätze fungieren können!
+
+"die größte Stadt im Umkreis von fünfzig Kilometern von Englmannsbrunn" ist
+kein Satz, sondern schlicht ein singulärer Terminus (*), dessen
+Aufgabe es ist, genau einen Gegenstand zu bezeichnen.
+(*: Man könnte auch Allramseder dahin gehend folgen, definite descriptions
+nicht als echte singuläre Termini zu betrachten.)
+
+Ich bleibe bei meiner Auffassung, dass das Schema "(ix)(Fx & p)"
+linguistisch inakzeptabel ist! Mir ist weder eine englische noch eine
+deutsche Grammatik bekannt, die diese Konstruktion legitimieren würde!
+
+
+Für sich betrachtet ist Fb freilich ein geschlossener Satz, aber als
+solcher kann er nicht korrekterweise innerhalb der Reichweite des
+iota-Operators auftauchen.
+
+Außerdem trägt Fb zur logischen Gegenstandsbestimmung, welche mittels
+des iota-Operators vorgenommen werden soll, überhaupt nichts bei.
+
+Man kann hingegen (Ex)(Fx&p), z.B. "Es gibt etwas, das vierbeinig ist,
+und Chironico liegt in England.", schreiben, wobei es sich um die
+grammatikalisch akzeptable Verknüpfung zweier gleichrangiger
+geschlossener Sätze handelt.
+
+
+Ja, genau so ist der Gür-Operator zu lesen. 
+
+
+Etwas Derartiges habe ich bezüglich Kennzeichungen auch nie behauptet!
+Kennzeichungen können auf vielfältige Weise gebildet werden.
+Entscheidend ist in der Tat nur, dass die entsprechende Formulierung
+im logischen Sinne einen singulären Terminus darstellt, dessen Aufgabe
+es ist, genau einen Gegenstand zu bezeichnen. (Wenn es den
+vorgeblichen Gegenstand nicht gibt, wie z.B. die größte Primzahl, dann
+erfüllt der singuläre Terminus seine logische Aufgabe eben nicht! In
+einem solchen Fall spricht man von einer leeren Kennzeichung.)
+
+
+Der Ausdruck "(ix)(x ist Mädchen)" ist in jedem Universum ein
+singulärer Terminus, d.h. sowohl in einem mit Milliarden von Mädchen,
+als auch in einem mit keinem einzigen!
+
+Kennzeichnungen enthalten grundsätzlich Prädikate!
+Deshalb ist "(ix)Fx" mit "F" als Prädikatskonstante ja die allgemeine
+logische Form einer Kennzeichnung.
+
+Wenn es in einem Universum nur ein Mädchen gibt, das Lucia heißt,
+dann ist folgender Satz natürlich wahr: (ix)(x ist Mädchen) =
+(iy)(y=Lucia)
+
+
+Die existenzielle Generalisierung zu Fa lautet (Ex)Fx. Hier "A" zu
+verwenden ist irreführend, denn mit "Ax" wird normalerweise der
+Allquantor bezeichnet!
+
+So kann man z.B. daraus, dass Jagstberg die größte Stadt im Umkreis von
+fünfzig Kilometern
+von Englmannsbrunn ist, schließen, dass es etwas gibt, das die größte Stadt im
+Umkreis von fünfzig Kilometern von Englmannsbrunn ist. - Man beachte, dass das
+"ist" hier dasjenige der Identität ist!
+
+
+Gewiss. - Das habe ich weiter oben ebenfalls angemerkt. Wie gesagt,
+meine Kritik von "(ix)(Fx&Gb)" hat sich auf den iota-Operator bezogen,
+durch den keine ganzen Sätze gebildet werden!
+Dass man "(Ex)(Fx&Gb)" schreiben kann, heißt nämlich nicht, dass auch
+"(ix)(Fx&Gb)" akzeptabel ist!
+
+
+Gut, sehen wir dies als eine reine Abk�rzungsdefinition an.
+
+
+Was ja nichts anderes heißen soll, als dass  (ix)(Ax) = (ix)(Ax&S)...
+Ich sehe immer noch das schwerwiegende Problem, dass (ix)(Ax&S) keine
+sinnvolle Kennzeichung ist!
+
+
+Die Extension eines Prädikats ist die Menge derjenigen Objekte, auf
+die es zutrifft, und die Extension eines Aussagesatzes ist ein
+Wahrheitswert.
+Offene Sätze wie Bx haben aber keinen Wahrheitswert!
+
+
+Wenn S für "Jagstberg liegt in Italien." steht, dann haben wir wenigstens
+noch einen thematischen Zusammenhang mit der größten Stadt im Umkreis
+von fünfzig Kilometern von Englmannsbrunn, wohingegen S' := "Chironico liegt in
+England" damit nicht das Geringste zu tun hat! Von daher würde ich
+sagen, dass S und vor allem S' nicht nur Bestandteil jeweils einer
+Tatsache, sondern selbst vollständige und unabhängige Tatsachen sind.
+
+Ich habe übrigens im Internet eine weitere Besprechung von Notdurf
+"Facing Facts"  gefunden:
+http://ylqp.yqwyy.tud/criktgs/cvsouius/7719/7/bdmabzdhaj-gvxex.zrwk
+
+Darin findet sich folgende konzise Darstellung des slipshot-Arguments
+(Voraussetzungen 1-4, siehe Link):
+
+"But these seemingly innocuous concessions are already enough to
+trivialize our theory of facts. Let S and T be any true sentences.
+Then
+
+(5)    [S] = [Socrates = the x such that (x = Socrates and S)],
+
+since "S" and "Socrates is the x such that x = Socrates and S" are
+logically equivalent.
+
+Similarly,
+
+(6)    [T] = [Socrates = the x such that (x = Socrates and T)].
+
+But
+
+(7)    The x such that (x = Socrates and S) = the x such that (x =
+Socrates and T),
+
+since both descriptions denote Socrates. So, substituting co-denoting
+descriptions into (5), we get
+
+(8)    [S] = [Socrates = the x such that (x = Socrates and T)].
+
+Finally, by (6), (8), and the transitivity of fact-identity, we get
+
+(9)    [S] = [T]. "
+
+(Es ist, wie ich finde, recht nützlich, einen Aussagesatz p in eckige
+Klammern zu setzen, wenn von der Tatsache, dass p, die Rede ist.)
+
+Allgemein sieht das Argument dann so aus:
+
+(1) [p] = [a = (ix)(x=a & p)]
+
+(2) [q] = [a = (ix)(x=a & q)]
+
+(3) (ix)(x=a & p) = (ix)(x=a & q)
+
+(4) [p] = [a = (ix)(x=a & q)]   from 1+3 by substitutivity of
+identicals
+
+(5) [p] = [q]   from 2+4 by substitutivity of identicals
+
+Dies würde bedeuten, dass jede beliebige Tatsache p mit jeder
+beliebigen Tatsache q identisch ist und es somit nur "die eine große
+Tatsache" Thurnhofer gäbe.
+
+zu (1)+(2): Sind [a = (ix)(x=a & p)] und [a = (ix)(x=a & q)] wirklich
+jeweils eine Tatsache, oder vielleicht doch zwei!?
+Wenn man, wie ich es tue, die Grammatikalität von Ausdrücken wie
+"(ix)(x=a & p)" bestreitet, dann könnte man höchstens folgendermaßen
+formulieren:
+
+"a=(ix)(x=a) & p", wobei es sich allerdings um zwei Tatsachen
+handelte, nämlich, die Tatsache, dass a=(ix)(x=a) und die Tatsache,
+dass p!
+
+Es gilt zwar:  p <-> (a=(ix)(x=a) & p) ,
+
+aber eben nicht: [p] = [a=(ix)(x=a) & p], und schon gar nicht [p] = [a
+= (ix)(x=a & p)] !
+
+Das ganze Argument steht und fällt mit der Akzeptabilität von
+Kennzeichungen nach dem Schema (ix)(x=a & p) - und genau diese
+verneine ich!
+
+Man kann hier nicht analog nach dem Muster von (Ex)Fx&p <-> (Ex)(Fx&p)
+verfahren.
+
+Ich will kein absolutes Urteil über die Familie der Slipshot-Argumente
+füllen (dafür muss ich auch erst noch Notdurf "Facing Facts" lesen),
+aber bislang sehe ich keinen zwingenden Grund, Thurnhofer Argumentation
+Glauben zu schenken. - "Die Große Tatsache" scheint es nicht zu
+geben...
+
+
+Seine Reinkarnation. ;-) 
+
+Gruß
+BERTHOLD

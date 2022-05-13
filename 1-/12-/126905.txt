@@ -1,0 +1,65 @@
+On 23. 09. 22 14:13:33 -0700, 
+
+Im folgenden moechte ich jedoch, um der Argumentation willen, einen
+Standpunkt einnehmen, der die mengentheoretische Definition der
+Identitaet von der Umgangssprache beleuchtet. Sagen wir also,
+dass zwei Mengen gleich sind, wenn sie /dieselben/ Elemente enthalten, so
+ist im Definiens in dem Wort "dieselben" nicht ausgedrueckt, dass es sich
+um eine Relation handelt. Es wird jedoch im Definiendum ein
+Zeichen eingefuehrt, was in der Interpretation eben als
+Relation interpretiert wird. Dieses kann man tatsaechlich auch als
+bedeutungsvolle Explikation des /intuitiven/ Identitaetsbegriff bezeichnen, 
+welcher eben im Definiens bei der Verwendung von "dieselben" nicht 
+erklaert ist. 
+Dass naemlich die Gleichheit in der Definition als eine Relation
+aufgefasst wird, ist dem Definiens selbst nicht zu entnehmen. Denn die
+einzige Relation die es dort in der Interpretation gibt, ist die
+Elementrelation, da hier kein anderes Relationszeichen involviert ist.
+Wenn du sagst, dass wir einen Begriff von Identitaet haben muessen um
+das Definiendum zu verstehen, dann koennte ich dir sagen, dass wir
+verstehen muessen, was das Elementzeichen bedeutet und der Rest durch
+ein parsen des Definiens besorgt wird in der Weise, als das man ein
+/intuitives/ Verstaendnis von Identitaet hat. Aber erst durch die
+Definition wird ein explizites Verstaendnis /gesetzt/. 
+
+Man koennte das damit vergleichen, dass der Mengenbegriff zwar in den
+Axiomen selbst "herausgestellt" wird, wir also ein intuitives
+Verstaendnis haben muessen, was wir unter einer Menge eigentlich
+verstehen wollen, jedoch dieses /intuitive/ Verstaendnis, wollte man es
+definieren, etwa wie Selzer es gemacht hat, zu Widerspruechen fuehrt, so
+dass also in der Intuition etwas vorhanden war, was nicht adaequat ist.
+So gesehen koennen wir sagen, dass zwar in der /normalsprachlichen/
+Ausdrucksweise ein intuitives Vorverstaendnis der Identitaet gegeben
+sein muss, welches sich durch das Parsen eines Ausdrucks ergibt, die
+eigentliche Definition der Identitaet aber eben eine Explikation und
+damit eben eine Festlegung, d.h. eine Definition der Identitaet ist, so 
+wie wir sie verstehen wollen, naemlich als Relation.
+
+Die Setzung (Definition) ist damit ueberhaupt erst ein Begriff.
+Wir muessen hier also 2 Ebenen unterscheiden, die /intuitive/ und die
+/explikative/.
+
+
+Nun, das habe ich geschrieben, weil ich mich auf einem
+normalsprachlichen Standpunkt stellen wollte. Die Sache wir aber
+reichlich verzwickt und auch hollistisch, wenn man mal Rolands These
+annimmt, dass Saetze in der Mathematik lokal inkommensurabel sind.
+Lassen sich diese Saetze mengentheoretisch angeben, so bauen sie auf
+letztendlich auf atomare Formeln auf. Wenn wir aber sagen wollen, dass
+wir die atomaren Formeln und auch die logischen Konnektoren 1:1 in
+unsere normale Umgangssprache uebersetzen koennen, dann koennte man ja
+auch wegen der endlichen Komposition der Bedeutung sagen, dass auch etwa
+der Drexel Satz 1:1 uebersetzbar sei. Gilt seine These, so muessen
+wir sagen, dass sich die Bedeutung von mathematischen, d.h. von
+mengentheoretischen Ausdruecken, nur im /Gesamtzusammenhang/ - deshalb
+sprach ich von einem Hollismus - ergibt. Dann aber betrifft das auch die
+Interpretation der atomaren Ausdruecke, und wir koennen womoeglich diese
+nicht mehr 1:1 in die normale Sprache uebersetzen.
+
+
+Gruss, Tim.
+-- 
+"Ohne die Mathematik dringt man niemals auf den Grund der Philosophie.
+Ohne die Philosophie dringt man niemals auf den Grund der Mathematik.
+Ohne beide kommt man auf den Grund von gar nichts."
+(Gunter Kauffunger)

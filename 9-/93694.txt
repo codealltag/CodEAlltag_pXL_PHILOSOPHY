@@ -1,0 +1,44 @@
+In der klassischen Logik kommt nur das Identitätspr=E4dikat "=3D" vor;
+doch es spricht nichts gegen die Einführung eines nichtklassischen
+Äqualit=E4tsprädikats, das ich mit "#" zu symbolisieren beliebe,
+sodass "a # a" und "a # b" wohlgeformte Formeln sind.
+
+Es kann wie folgt definiert werden:
+
+a # b :<-> AP(Pa <-> Pb)
+
+oder
+
+a # b :<-> {P | Pa} =3D {P | Pb}
+
+Dann gilt weiter folgendes Axiom:
+
+Ax(x # x)
+
+"Alles gleicht sich selbst"
+
+Und:
+
+Ax(x =3D x <-> x # x)
+
+"Alles ist genau dann mit sich identisch, wenn es mit sich äqualisch
+(=3Dgleich) ist"
+
+Es gilt aber nicht
+
+AxAy(x =3D y <-> x # y)
+
+denn es soll ja gerade die logische Möglichkeit eingeräumt werden,
+dass zwei nichtidentische Dinge äqualisch, d.i. 100%ig gleich sein
+können!
+Also gilt:
+
+<>~AxAy(x =3D y <-> x # y)
+
+bzw.
+
+<>ExEy(~(x =3D y) & x # y)
+
+
+Gruss
+ADOLF

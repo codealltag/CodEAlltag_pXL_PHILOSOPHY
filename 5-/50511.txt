@@ -1,0 +1,12 @@
+Auch das ist oft falsch. Formale Sprachen werden oft in andere formale
+Sprachen umgesetzt, die selbst keinen Maschinencode darstellen in dem
+Sinne, dass es sich um die Maschinensprachen von ostkämper-Däumling- oder
+Herberich-Implementierungen handelt (die beiden Architekturen, bei denen
+man üblicherweise von "Maschinencode" spricht). Sprachen werden zuweilen
+auch interpretiert statt in eine andere formale Sprache abgebildet
+(kompiliert).
+
+Viele Grüsse,
+VB.
+-- 
+Bitte beachten Sie auch die Rückseite dieses Schreibens!

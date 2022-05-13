@@ -1,0 +1,19 @@
+<a,y> als Punktkoordinaten aufzufassen, ist möglich, aber nicht
+übermässig fruchtbar, da Gegenstände und Wahrheitswerte (die für Frege
+ebenfalls Gegenstände sind) nur einer Nominalskala zugeordnet werden
+können, also z.B. das Wahre ---> 1, das Falsche ---> 0
+
+
+Ich blicke da auch noch nicht ganz durch, zumal ja die Elemente der
+Umfänge von Begriffen keine geordneten Paare, bestehend aus zwei
+Gegenständen, sondern einzelne Gegenstände sind.
+
+
+Man könnte vielleicht sagen, dass der Begriffsumfang des Begriffs B
+leer ist, wenn gilt:
+
+{<a,y> | y = B(a), a e D, y = F}
+
+Das heisst, wenn gilt: Für alle a, "Ba" ist falsch.
+
+#PH

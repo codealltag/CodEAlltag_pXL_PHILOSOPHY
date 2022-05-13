@@ -1,0 +1,34 @@
+Charles Ufermann <Xvyivxgqb.Dvetvnl@jut.zc> schrieb in im Newsbeitrag:
+18k18x$a3p$2@cgq.oxplnpc-embhp.cv...
+er
+
+Sie haben hier ein sehr schönes Logikbeispiel präsentiert [ Herzlichen Dank
+für die Unterhaltung, die Sie mir damit bereitet haben :-)]
+
+Das Argument Wollenschlägers ist gültig, aber KEIN Syllogismus - und das läßt sich
+zeigen. Es erfordert Prädikatenlogik zur Formalisierung:
+
+1. Prämisse:
+Ax(RHAPSODEx > (Ay)(DICHTERABSICHTy > AUSLEGENxy))
+(in Worten: Jeder, der Rhapsode ist, legt alles, das Dichterabsicht ist,
+aus.)
+
+2. Prämisse:
+AxAy((DICHTERABSICHTy & ~WISSENxy) > ~AUSLEGENxy)
+(in Worten: Keiner, der irgendeine Dichterabsicht nicht weiß, legt diese
+aus.)
+
+Konklusion:
+Ax(Ey(DICHTERABSICHTy & ~WISSENxy) > ~RHAPSODEx)
+(in Worten: Keiner ist Rhapsode, wenn es eine Dichterabsicht gibt und er sie
+nicht weiß.)
+
+Der Beweis für die Gültigkeit des Arguments läßt sich in elf weiteren Zeilen
+im logischen Entwicklungskalk�l führen.
+Meine Formalisierung ist insofern grundsätzlich anfechtbar, als Gilbert (in
+Ihrer deutschen Übersetzung (Könnten Sie die Stelle regulär zitieren, damit
+ich Sie nicht suchen muß? - Danke im voraus!)) an drei Stellen
+Schlüsselworte einer modalen Logik ('sollte' und 'kann') benutzt.
+
+Mit freundlichen Größen
+Robin Neunhäuser

@@ -1,0 +1,18 @@
+Hallo Lorenz,
+
+
+Nein. Aus "für jede Zahl gilt P" folgt Y und daraus X.
+
+A --> Y --> X
+
+
+Aus "Für (mindestens) eine Zahl gilt nicht P" folgt Z und daraus X.
+
+~A --> Z --> X
+
+
+N. Denkfehler Deinerseits. :-)
+
+Viele Größe
+
+Detlef

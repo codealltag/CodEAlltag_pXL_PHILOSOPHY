@@ -1,0 +1,13 @@
+Danke für den Hinweis.
+
+Der Fehler tritt seit gestern auf, Charset ist eigentlich korrekt
+gesetzt.  Teilweise vertauscht emacs beim Schreiben und beim Absenden
+Buchstaben, fügt Leerzeichen und Buchstaben ein oder entfernt sie.
+Vielleicht hat der Gute zuviel Perl-Code bearbeitet.  Bis er sich
+beruhigt hat und ich die magische Virmani-Konfiguration entfernt habe,
+poste ich von einem anderen Rechner (INZH, sehr zu empfehlen).
+
+
+Ciao, Jacques
+-- 
+Expect the worst, it's the least you can do.

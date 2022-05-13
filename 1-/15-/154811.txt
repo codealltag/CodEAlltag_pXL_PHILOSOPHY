@@ -1,0 +1,10 @@
+Argumente sind gültig (oder ungültig), Aussagen sind wahr (oder falsch). Gültige,
+bzw. ungültige Aussagen gibt es sowenig wie wahre oder falsche Argumente. Die
+sematische Gültigkeit von Argumenten wird zwar unter Rückgriff auf das
+Wahrheitsprädikat definiert, aber bloß im negativen Sinn: ein Argument ist nämlich
+ungültig genau dann, wenn es gelingt, die Prämissen unter einer gegebenen
+Interpretation wahr zu machen, die Konklusion aber, unter derselben Interpretation,
+falsch. Ansonsten ist das Argument gültig und dabei spielt die Wahrheit oder
+Falschheit der Aussagen dann keine Rolle mehr. Es gibt beispielsweise gültige
+Argumente, bestehend aus lauter falschen Aussagen. Oder auch ungültige Argumente,
+bestehend aus lauter wahren Aussagen.

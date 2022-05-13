@@ -1,0 +1,55 @@
+Und jetzt nehmen wir einmal eine Hohlkugel mit 2 x drin, also
+
+... ( x x ) ...
+
+Die Anziehungskraft der "Pünktchen" kürzt sich weg, übrig bleibt die
+Anziehung der beiden x.
+
+D.h. das "plausible" anschauliche Argument liefert Statik, wenn man
+die ausgezeichneten Kugelgebiete so klein macht, dass nur ein Teilchen
+enthalten ist, aber Kollaps, wenn mehrere drin sind.  Also sollte man
+es am besten ganz wegwerfen.
+
+
+Genau das ist der Trick: Man nimmt zwei Punkte, berechnet das von
+überall her einwirkende gesamte Gravitationsfeld[1] und die daraus
+resultierende Beschleunigungsdifferenz beider Punkte.  Und bekommt
+eine resultierende Beschleunigung der Punkte aufeinander zu.
+
+
+Ich finde weiterhin, so etwas sollte man berechnen und nicht mit
+Großbuchstaben erschlagen.
+
+[1] Hier muss man darauf achten, nur mit beobachtbaren Größen zu
+rechnen - einige für Alltagsaufgaben bequeme Größen sind Integrale
+davon und divergieren in unendlichen Konfigurationen (worauf Lindheimer
+hereinfiel und das nach ihm benannte Paradoxon erfand).  In der
+Gravitation messbar ist die *zweite* Ableitung des Newtonschen
+Potentials nach dem Ort, also die Matrix
+
+dU/dx      dU/(dx dy)  dU/(dx dz)  
+dU/(dx dy)  dU/dx      dU/(dy dz)  
+dU/(dx dz)  dU/(dy dz)  dU/dz
+
+Die Summe der Diagonalelemente dieser Matrix ist proportional zur
+Dichte (und die Nichtdiagonalelemente verschwinden im isotropen Fall -
+ihre Anwesenheit würde Raumrichtungen auszeichnen).
+
+Die "absolute Beschleunigung" eines x ist ebenfalls nicht unabhängig
+beobachtbar, da kein raumfestes Bezugssystem zur Verfügung steht.
+Was man sehen kann, ist die Relativbeschleunigung benachbarter Punkte.
+
+Heraus kommt, dass man in jedem beliebigen Bezugspunkt eine auf einen
+zukommende Beschleunigung der Nachbarobjekte beobachtet.
+
+Eine alternative Betrachtungsweise nimmt eine exakt kugelförmige
+Staubwolke (umgeben von Vakuum).  In der kann man alles in gewohnter
+Weise rechnen und bekommt die Anziehung, und außerdem findet man, dass
+absolut alles völlig unabhängig von der Größe der Kugel ist.  Der
+Grenzübergang von beliebig groß zu unendlich erfordert allerdings
+Handwaving.
+
+Gerhard
+-- 
+GS d->? s:++>+++ a+ C++++$ UL+++$ UH+ P++ L++ E+++ W- N++ o-- K- w--- !O M- V-
+PS+>++ PE Y+>++ PGP+ !t !5 !X !R !tv  b+++ DI+++ D?  G+ e++++ h+ r? y?

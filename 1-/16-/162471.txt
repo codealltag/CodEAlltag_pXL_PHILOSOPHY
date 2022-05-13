@@ -1,0 +1,18 @@
+Hallo,
+
+
+(Idealisierte) neuronale Netze werden üblicherweise sogar als Äquivalent zu 
+gewissen Turing-Maschinen angesehen. Der Punkt, der mir hier wichtig ist, ist 
+nur, daß ein neuronales Netz ein Computerprogramm ist, von dem "besonders 
+schwer" nachzuweisen ist, daß es stets nur korrekte Entscheidungen über 
+mathematische Theoreme treffen wird.
+Falls es diese Eigenschaft überhaupt hat - das neuronale Netz, das das Gehirn 
+eines Mathematikers bildet, ist in diesem Sinne sicher nicht unfehlbar und also 
+schon gar nicht beweisbar unfehlbar.
+
+Dagegen habe ich keine Einwände. Aber Nömer behauptet ja implizit, daß er 
+auch für ein hundert Milliarden Knoten umfassendes neuronales Netz einen 
+Korrektheitsbeweis schreiben könne, was mir ein bisschen vermessen erscheint.
+
+Größe,
+Francisco.

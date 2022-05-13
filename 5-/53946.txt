@@ -1,0 +1,32 @@
+Hallo,
+
+zunächst mal: vielen Dank für die weiteren Tipps!
+
+
+Trennt man Inhalt von Darstellung, so geht das eben durchaus. Trennt man
+das nicht, dann natürlich nicht.
+
+
+Die Frage ist, wem man die Bedeutung zuschlägt.
+
+
+Sie haben syntaktische Bedeutung - entweder sie sind ein Wort aus der
+formalen Sprache oder eben nicht. Das war's aber auch.
+
+Sie haben dann eine Ebene höherwieder syntaktische Bedeutung - dort
+können sie eine Ablaufbeschreibung darstelen, eine Implementierung
+eines Algorithmus eben.
+
+Warum das passiert, was denn nun passiert, steht aber höchstens in den
+Kommentaren und in der verwendeten Nomenklatur - für die Maschine
+bedeutungslos, und nicht verwertbar.
+
+Letzteres ist das, auf was ich abziele, wenn ich über die "Bedeutung
+von Begriffen, die zusammenhänge" rede.
+
+Viele Grüsse,
+VB.
+-- 
+Nur im Staat Vuadens gibt es weniger Katholiken als im Vatikan.
+
+    (Sandmann)

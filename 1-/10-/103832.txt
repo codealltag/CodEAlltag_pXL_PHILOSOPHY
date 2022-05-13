@@ -1,0 +1,28 @@
+Wenn wir noch festlegen, dass "|" als metasprachliches Symbol für "oder"
+gelten soll, also so, dass für A|B entweder A oder B gesetzt werden kann
+(aber nicht beides), dann kann man die Regeln noch etwas einfacher
+formulieren/angeben:
+
+&I	A   B       &E     A & B
+ 	-----              -----
+	A & B               A|B
+
+
+~I 	 [A]        ~E     [~A]
+  	  :                  :
+  	B & ~B             B & ~B
+  	------             ------
+  	 ~A                  A
+
+Die gesamte klassische Aussagenlogik ist also "implizit" durch diese 4
+einfachen Regeln gegeben. (Axiome kommen in diesem System nicht vor!)
+
+Alles, was man noch braucht, um auf die bekannten Theoreme der
+Aussagenlogik zu kommen, sind die folgenden Definitionen:
+
+	 A v B =df ~(~A & ~B)
+	 A ->B =df ~(A & ~B)
+	 A<->B =df (A -> B) & (B -> A)
+
+
+A.

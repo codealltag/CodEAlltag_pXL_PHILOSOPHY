@@ -1,0 +1,18 @@
+Du machst es Dir zu einfach: es kommt auf den Zeitpunkt an! In
+dem Moment, wo die rechte Seite (x+1) berechnet ist und die linke
+noch offen, ist die Gleichung falsch. Aber unmittelbar danach
+wird sie richtig, denn links x wird mit x+1 gefällt, dann ist sie
+richtig, bis wieder die rechte Seite behandelt wird, u.s.w.
+Deshalb ist die Richtigkeit oszillierend zwischen wahr und
+falsch. Also ist die Gleichung unbestimmt: weder wahr noch
+falsch. (Was Du "Zuweisung" nennst, ist nur die Aufgabe, eine
+Gleichung zum Stimmen zu bringen.) 
+
+
+nur interessiert das kein Schwein. Dafür gibt es keinen
+Nobelpreis! Die spektakuläre Aussage steckt in der Gleichung
+selbst, nicht in Deiner Lösung.
+
+Gruss
+
+Nino

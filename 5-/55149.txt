@@ -1,0 +1,46 @@
+Ein Versuch der Widerlegung:
+"Jede gerade Zahl größer als 2 kann als Summe zweier Primzahlen 
+geschrieben werden." lässt sich zumindest für die gerade Zahl nach der 
+grössten bekannten Primzahl als Summe darstellen. Nennen wir die die 
+grösste Primzahl mal "GP", die Gerade Zahl "GZ", dann ist 
+GP + 1 = GZ
+1 ist eine Primzahl und somit ist das für die Summe zweier Primzahlen 
+richtig. GP + 3 mag dann auf eine noch grössere gerade Zahl führen und ob 
+es für alle gerade Zahlen über die GP hinaus gilt, ist schwer zu sagen, 
+sprich die Goldbachsche Vermutung mag sich nicht beweisen lassen. 
+Für deine Differenz muss ich allerdings nur eine gerade Zahl angeben, für 
+die deine Differenz zweier Primzahlen nicht gilt. 
+GP - 1 = GZ, jetzt nenne ich mal die gerade Zahl oberhalb GP auf dem 
+Zahlenstrahl GPZ definiert als GP + 1. Welche Primzahl abgezogen von der 
+grössten bekannten Primzahl soll nun grösser sein als die grösste 
+bekannte Primzahl? Lässt du negative Zahlen zu? Wenn ja, dann ist deine 
+Vermutung ein Sonderfall der Goldbachschen Vermutung, weil für Zahlen 
+oberhalb von GP du dann eine Addition als Rechenoperation hast. Sprich 
+GP - (-1) = GPZ, was dann GP + 1 wäre und GP + 1 = GP + 1 ist natürlich 
+wahr. Lässt du keine negativen Zahlen zu, dann gibt es keine Differenz, 
+da du keine Primzahl findest, die du abziehen könntest. 
+GP - (-GPZ) = GP + GPZ = 2GP+1 und ist eine Ungerade Zahl, also  
+2GP+2 = GNPZ eine gerade Zahl, von der du jetzt aber keine negative 
+Primzahl abziehen kannst, da du erstmal eine grössere Primzahl finden 
+musst. 4GP+2 ist ebenso eine gerade Zahl usf. 
+Es lassen sich also von der grössten Primzahl immer noch gerade Zahlen 
+ableiten, die ein vielfaches der grössten Primzahl sind. Um dich nun auf 
+eine Differenz zweier Primzahlen zu beschränken, müsstest du also eine 
+grössere Primzahl als die grösste Primzahl finden um diese gerade ZAhlen 
+mit nur 2 Primzahlen darzustellen. 
+
+Das ist aber nicht möglich, es sei denn es war nicht die grösste Prim.
+Bei der Summe mag das anders sein, da ich beweisen müsste, dass es keine 
+grössere Primzahl gibt, sprich es gibt immer die Möglichkeit dass sich 
+irgendwo zwischen 4GP+2 und GP Primzahlen befinden, die 4GP+2 ergeben. 
+Die Differenz wird aber immer kleiner sein, egal was sich zwischen GP 
+4GP+2 befindet.
+
+"Jede gerade Zahl ist als Differenz mindestens zweier Primzahlen 
+darstellbar" könnte unbeweisbar sein, da dann Zahlen grösser als die 
+grösste Primzahl halt in mehr als zwei Primzahlen zerlegt werden müssten. 
+4(2^13466917 - 1) ist eine gerade Zahl. Du müsstest also zwei Primzahlen 
+angeben können dessen Differenz 4(2^13466917 - 1) ergibt.  
+
+Grüße,
+Ivan

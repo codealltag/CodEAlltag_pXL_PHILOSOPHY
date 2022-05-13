@@ -1,0 +1,14 @@
+Zahlen können offensichtlich zu mathematischen Objekten gemacht
+werden. Bestimmte Zahlen (im weiteren Sinne) sind sicherlich nur über
+eine mathematische Beschreibung zugänglich.
+
+Zahlen sind jedoch nicht nur mathematische Objekte, zumindest für
+die bereits erwähnten kleinen Zahlen trifft das nicht zu. Auch kann
+man vielerlei sinnvolle Operationen nicht nur auf Zahlen definieren,
+sondern auch auf Ziffernentwicklungen oder ganz konkrekt: auf
+niedergeschriebenen Ziffernentwicklungen von Zahlen (so lernt man
+schließlich schriftliches Dividieren an der Schule). Ich glaube,
+das trägt zur Verwirrung bei. Vielleicht wären diese Dinge klarer,
+wenn wir immer noch die römische Zahlschreibweise verwendeten --
+da dort kaum ein Zusammenhang zwischen der Darstellung und den
+Rechenoperationen besteht.

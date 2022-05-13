@@ -1,0 +1,13 @@
+Ein Argument A ist eine Menge von Aussagesätzen, die ein
+ausgezeichnetes Mitglied, die Konklusion K, eine Teilmenge T_P von
+Sätzen, die die Prämissen sind, sowie möglicherweise eine weitere
+Teilmenge T_aP von aus den Prämissen regelgerecht abgeleiteten Sätzen
+enthält, wobei die Konklusion nach bestimmten Schlussfolgerungsregeln
+aus den Prämissen (nebst deren Ableitungen) abgeleitet ist.
+
+A :=3D {P_1, ..., P_n, (aP_1, ..., aP_n), K}
+
+{P_1, ..., P_n, (aP_1, ..., aP_n)} |=3D K
+
+Gruss
+LEOPOLD

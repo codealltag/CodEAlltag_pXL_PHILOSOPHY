@@ -1,0 +1,70 @@
+Moin Salvatore,
+
+
+ich wiederhole mich ungern, aber das ist keine Meinung, sondern eine
+Vereinbarung, eine Definition eben. Ich fasse die Definitionen reeller
+(beschränkter) Intervalle zusammen:
+Seien a,b aus IR mit a < b, dann sind
+
+  [a,b] := {x aus IR; a<=x<=b}
+  ]a,b] := {x aus IR; a<x<=b}
+  [a,b[ := {x aus IR; a<=x<b}
+  ]a,b[ := {x aus IR; a<x<b}
+
+
+IMO nein, sondern eher an unserem Wunsch, uns die Mathematik
+"vorzustellen".
+
+
+0 ist in [0,1] enthalten, aber nicht in ]0,1[.
+
+
+Betreiben wir hier Mathematik oder Politik? ;)
+
+Weiter unten zeigst Du sehr wohl, dass dieser Unterschied relevant ist.
+
+
+ok.
+
+
+Die Elemente der rechten Seite alle > 1/2, das Intervall ]1,2] enthält
+aber auch z.B. 1/4 oder 1/8.
+
+
+dto.
+
+
+Nicht "sondern". Beides ist richtig!
+Die reelle Zahlengerade IST eine Menge diskreter Objekter UND ein
+Kontiuum.
+
+
+Es ist eine rationales Intervall (tausche in obiger Definition IR durch
+IQ).
+
+
+Folgefehler!
+
+
+Genau. Offenbar sind ]-1, 1[ und [-1, 1] doch nicht so ganz identisch.
+
+
+Die meisten Diskussionsteilnehmer können das sogar beweisen.
+
+
+Nein, das folgt daraus eben nicht.
+
+
+Auch das hatten wir schon einmal, rationale (und somit auch reelle)
+Zahlen haben keine Nachbarn, noch nicht einmal unbenennbare.
+
+
+Versuch dich frei zu machen, von irgendwelchen Anschauungen und
+Anwendungen.
+
+Mathäus
+
+-- 
+ Mathäus Reinsperger            Wienackerstraße 8-9     Süßenbrunner Hauptstraße 24q
+ S&S GmbH  04313 Fuchsberg          69770 Christes
+ http://njp.vowyvz-akmvjt.nv  +79-(3)895-55609-4  +10-(7)78-3750732

@@ -1,0 +1,55 @@
+Wer ihn compilieren will:
+
+\Pot bedeutet Potenzmenge (bei mir mit deutschem P),
+\Perm bedeutet Menge der Permutationen (bei mir mit
+deutschem S), \qed das QED-Symbol (ein leeres Quadrat
+am rechten Rand).
+Der Rest ist Standard-LaTeX.
+
+Eine Übersetzung ins Text-Format:
+---
+Beweis zu (a):
+
+Jede Permutation  f in S(M)  hat eine (evtl. leere)
+Fixpunktmenge   Fix(f) in Pot(M) .
+
+Betrachten wir das Bild der dadurch entstehenden Abbildung
+    Fix : S(M) --> Pot(M).
+Fast alle Teilmengen von  M  sind in  im(f)  (der Bildmenge
+der Abbildung) enthalten, nur diejenigen, die einelementige
+Komplementärmengen enthalten, sind nicht möglich, denn es
+gibt keine Permutation, die nur ein Element bewegt und die
+anderen konstant lässt.
+
+Alle anderen Mengen  A in Pot(M)  kann man als Fixpunktmenge
+einer Permutation erhalten, indem man einfach die Elemente
+der Menge auf sich selbst zuordnet und auf der Komplementärmenge
+(wenn sie nicht leer ist) eine fixpunktfreie Permutation anwendet.
+Dies ist immer möglich, wenn  card(M\A) >= 2  ist.
+Es ist also
+     Pot(M) = im(Fix) 'vereinigt' { M \ {a} | a in M }
+Da
+        card( { M \ {a} | a in M } )
+      = card(M)
+      < card(Pot(M))
+
+und  M  unendlich ist, ist
+            card(Pot(M))
+      = [1] card(im(Fix))
+     <= [2] card(S(M)).
+
+---
+Fußnoten:
+[1] Dies wurde in Aufgabe 1 (a) bewiesen:
+ Die Vereinigung zweier unendlicher Mengen
+ hat die größere der beiden Ausgangs-Kardinalitäten,
+hier also ist
+ card(im(Fix) 'vereinigt' {M \ {a} | a in M }) = card(im(Fix).
+
+[2] Fix : S(M)\twoheadrightarrow im(Fix)$ ist eine Surjektion.}
+
+
+Die Injektion in die andere Richtung hatte ich ja schon
+im Klartext hingeschrieben.
+
+Carlo

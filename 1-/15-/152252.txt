@@ -1,0 +1,20 @@
+Laut den Mathematikern im Beispiel von 0,99 und 1:
+
+Leicht ist zu erkennen, daß die 1. Zahl dieser Folge übersetzt werden
+kann mit 9*10^-1, die zweite als 9*10^-1+9*10^-2 (so
+ist gerade definiert, was die Zahlendarstellung bedeutet). Die n-te Zahl
+ist dann: summe{von}{i=1}{bis}^n 9*10^-i.
+0.(Periode)9 ist dann der Grenzwert dieser Folge, d.h. n -> unendlich.
+Befasse Dich mit dem Grenzwertbegriff oder glaube mir,
+daß für den Grenzwert gilt: für jede *beliebig* kleine positive Zahl
+kann ich Dir ein Folgenglied nennen, ab dem der Abstand
+aller weiteren Folgenglieder kleiner ist als diese Zahl. Damit ergibt
+sich zwangsläufig die 1 als Grenzwert, da ich *beliebig* nahe
+an die 1 komme. Zwei reelle Zahlen sind verschieden voneinander, wenn
+die darstellenden Folgen unterschiedliche Grenzwerte
+haben. Die Folge 1, 1, 1, 1, ... hat aber denselben Grenzwert wie die
+Folge 0.(Periode)9, damit sind beide Zahlen gleich.
+
+
+Gruss
+Massimo

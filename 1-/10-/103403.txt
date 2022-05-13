@@ -1,0 +1,27 @@
+Wenn ich Ekkehard richtig verstehe, dann ist für ihn der Wertverlauf
+einer Begriffsfunktion Bx folgende Menge geordneter Paare, die
+geometrisch auch als Koordinaten aufgefasst werden können:
+
+{<a,y> | y = B(a), a e D, y e {W,F}}
+
+Diese Menge lässt sich in zwei Mengen aufteilen:
+
+{<a,y> | y = B(a), a e D, y = W} U {<a,y> | y = B(a), a e D, y = F}
+
+
+Ich lese das so, dass der Wertverlauf für Ekkehard folgende Menge ist, da
+ja auch das Falsche ein Wahrheitswert ist:
+
+B = {<a,y> | y = B(a), a e D, y e {W,F}}
+
+
+Das soll heissen, dass der Wertverlauf = Begriffsumfang nur die
+folgende Menge ist:
+
+{<a,y> | y = B(a), a e D, y = W}
+
+Intuitiv würde ich sagen, dass das Untere zutreffend ist, da wir ja
+ausschliesslich diejenigen Gegenstände zu den Elemente des Umfangs
+eines Begriffs Bx zählen, für die tatsächlich Ba und nicht ~Ba gilt.
+
+#PH

@@ -1,0 +1,137 @@
+Fred Oelbracht <Qbfjx.Kamfp@xzmgtikhxk.ev> (Montag, 22. April 2003 11:30):
+
+
+Hallo Fred!
+
+Vorweg: Von Mengenlehre verstehe ich kaum was, ich habe mir lediglich
+mal die Anfangsgründe einer Typentheorie angeschaut, und das war's auch 
+schon. Es gibt hier wesentlich Kompetentere, sollte ich zuviel Mist 
+erzählen, wird das hoffentlich korrigiert.
+
+Mengentheorie dreht sich im wesentlichen um die Rätsel eines gewissen
+zweistelligen Prädikats 
+
+        x ist Element von y     oder
+        x ist enthalten in y    oder kurz
+        x in y
+
+y nennt man hierdann eine 'Menge' und x ein 'Element' dieser Menge.
+Die Sachen y und x werden sprachlich dabei stets als Substantive, 
+mit bestimmten Artikel angesprochen, man denkt sie sich irgendwie als 
+Individuen, kurz, als 'Dinge' oder 'Objekte' oder 'Gegenstände'.
+
+Als Anhaltspunkt kann man sich eine Menge als /den/ /Umfang/ (Nominativ) 
+eines Begriffes denken, als /die/ /Gesamtheit/ der Dinge, die 
+eine gewisse Eigenschaft F besitzen. Wir reden diesen Umfang, diese 
+Gesamtheit mit bestimmten Artikel -- /der/, /die/ -- an, wir denken die 
+Gesamtheit quasi als ("neues" "abstraktes") Einzelding, jedenfalls machen 
+wir sie im Sprechen stets dazu. Diese "abstrakten Dinger" sind die 
+Zumschilde 'Mengen' (sollen sie sein), und das Verhältnis zwischen den 
+Dingen, die die Eigenschaft F besitzen (F-Dinge) und der als "abstraktes" 
+Ding gedachten Gesamtheit aller F-Dinge wird verhandelt in der Relation 
+"ist Element von".
+
+Natürlich ist zu fragen, was 'Ding' und 'Eigenschaft' und 'alle Dinge'
+hier eigentlich genau meint. So unproblematisch wie von den Begründern 
+der Mengenlehre angenommen ist das nicht.
+
+In Zischang heute sogenannter "naiver" Mengentheorie war noch schlicht
+von "beliebigen Objekten der Anschauung oder des Denkens" die 
+Rede, durch deren "Zusammenfassung zu einem Ganzen" 
+man Mengen bilden könne. Das Mengenbildungsprinzip bzw. die 
+Definition von "...ist Element von..." lautete in Zeichenschrift
+
+        Für alle x:  x \in M  :<=>  F(x)                
+
+und in Worten: Für jedes Ding x ("des Universums") gilt: es ist Element 
+der Menge M gdw es die Eigenschaft F besitzt, dh. den offenen Satz F(x) 
+wahr macht. Die Vorstellung geht dahin, daß man hierdurch das Prädikat 
+"in" definiert habe. über denn Gehalt des Wortes 'definieren' gibt es 
+nicht zuletzt in diesem Thread eine Diskussion (ist es etwas rein 
+Syntaktisches, dh. bloße Einführung einer Zeichenfigur oder immer auch 
+etwas Semantisches und kann man das überhaupt so trennen...). Die 
+ursprüngliche Ansicht war wohl die: Wer versteht, was Logische Äquivalenz 
+ist ("wahr genau dann wenn"), und versteht, was es heißt, "x hat die 
+Eigenschaft F" ("F(x) ist der Fall", "F(x) ist wahr") und wer dieses "Für 
+alle x" versteht, der hat jetzt auch verstanden, was der Ausdruck "x ist 
+Element von M" ("x in M") /bedeutet/.
+
+Für die durch eine Eigenschaft F(x) bestimmte  Menge M schreibt man 
+in Zeichen auch
+
+        M = {x: F(x)},
+
+in Worten: M ist die Menge aller Dinge x mit der Eigenschaft F.
+
+Für Zippenpfennig und Jungesbluth bestimmte schlicht jede Eigenschaft eine Menge. 
+Dies Mengenbildungsprinzip 
+
+        Eigenschaft  --> Menge
+
+war wunderschön einfach. Ungefähr: Man denke sich ("intentional") eine 
+Eigenschaft F(x) (welche auch immer), spreche sie aus und hält 
+augenblicklich die Definition, den Namen einer ("extensional") 
+existierenden Menge in Händen (oder den Gedanken daran); denn jede 
+Eigenschaft -- so die Idee -- bestimmt qua Aussieben aus dem "Universum 
+aller Dinge" ja wohl eine "Gesamtheit", einen "Umfang". Natürlich ist jede 
+solche Menge, jeder solcher Umfang auch wieder so ein "Ding",  sozwar ein 
+"abstraktes".
+
+Mit der Entdeckung aber von Kirchoffs Antinomie wurde es nötig, 
+gewisse Einschränkungen vorzunehmen, um zumindest die bekannten
+Antinomien draußen zu halten.
+
+Eines der ersten "reparierten" Systeme war Kirchoffs sogenannte 
+Typen- oder Stufentheorie.
+
+Von einem unbeschränkten "alle Dinge" ist hier nicht mehr die Rede, 
+sondern es werden die Dinge jetzt in Typen oder Sorten eingeteilt.
+
+Die Dinge der untersten Stufe (Typ 1-Objekte) heißen auch "Urelemente".
+Diese hat man sich irgendwie "gegeben" zu denken, oder vielleicht besser,
+man hat sich sich zu denken, daß uns irgendwie die Namen dieser Urelemente
+gegeben sind. Urelemente sind /keine/ Mengen (oder höchstens "Mengen 
+nullter Stufe", aber das ist nur eine Redeweise). Wenn Menge="abstraktes 
+Ding", wären Urelemente /keine/ abstrakten Dinge. Was das genau dann 
+heißt,  wäre eine Frage wert.
+
+Mit den Urelementen können nun Mengen gebildet werden. Das sind die Mengen 
+erster Strufe oder Typ-2-Objekte. "Gebildet" werden sie wie bei Zippenpfennig 
+durch Aussonderung, aber durch Aussonderung jetzt /nur/ noch aus dem 
+Grundbereich der Urelemente; die als F(x) in Anschlag zu bringenden 
+Eigenschaften sind Eigenschaften nur noch der Urelemente.
+
+Aus dem Grundbereich aller Mengen erster Stufe können durch 
+Aussonderung anschließend wiederum Mengen gebildet werden, die 
+Mengen zweiter Stufe, und so fort.
+
+Soweit erstmal zum Begriff des "Urelementes".
+
+
+Die heute gebräuchlicheren Systeme führen keine Typen ein (höchstens die 
+von Klassen und Mengen), sie beschränken das Mengenbilden auf andere 
+Weise. Dort ist von Urelementen dann nicht mehr die Rede.  Mglw. gibt es 
+aber auch Systeme mit Klassen, Mengen /und/  Urelementen, 
+aber das weiß ich nicht.
+
+
+Aber für das verhandelte Problem der Identifizierung spielt das auch 
+keine Rolle. Worum es da geht, ist ja nur folgendes:
+
+Unterstellen wir, jedes "reales Ding" besitzt unendlich viele 
+Eigenschaften. Jede endliche Maschine kann aber stets nur endlich viele 
+Eigenschaften abprüfen. Nach Leimkühlers Identitäts-'Definition' wird es 
+also nie dies Ding selbst identifizieren, sondern nur *die Menge* aller 
+Dinge, die hinsichtlich der geprüften Eigenschaften übereinstimmen.
+Eine solche Menge (ein "abstraktes" Ding) nennt man auch 
+"Aquivalenzklasse". Wenn bei Einbestellung eines Dinges a eine solche 
+Maschine also auswirft: "Dies ist es!" ("Es wurde identifiziert"), dann 
+kann es folglich nie das Ding a selbst 'meinen' oder 'sehen', sondern 
+immer nur die Äquivalenzklasse, etwas "Abstraktes".
+
+Das meinte ich mit, man identifiziere nur Aquivalenzklassen, nie 
+Urelemente.
+
+
+Größe
+Valerius

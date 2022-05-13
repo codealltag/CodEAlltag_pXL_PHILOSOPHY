@@ -1,0 +1,15 @@
+Da aber da oben von Dir  [  a b c --> d  ]  als [ a gdw b  ist c --> d ] erklärt ist,
+hilft das aber kaum
+um bspw. [ (x ist y) gdw (y x) ist ]  ( die untere Deiner makierten Zeilen) zu erhellen.
+
+
+Also abcd als Kurzform  für abc-->d ( i.e. gemäß Deiner obigen Definition  a gdw b ist c
+--> d )
+d.h. hier ist kurz :    0 v 1 = 1 -->1    und  0 v 1 = 1 --> 1   , also zumindest bei
+dieser Tautologie bleibt Deiner Definition ein Widerspruch erspart.
+
+
+Nochmal    0 v 1 = 1 --> 1  und  0 v1 = 1 --> 0  ( beachte dies 'falsch ist  falsch _gdw_
+falsch falsch ist' ergäbe 0v1=0-->0 )
+und wie ist jetzt   phi(w(0v1)) zu interpretieren ? Als aussagenlogisches Modell liefert
+Deine Definition ( a gdw b ist c -->d) im Fall <> 2^0  den Widerspruch 0 = 1.

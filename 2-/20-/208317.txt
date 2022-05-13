@@ -1,0 +1,38 @@
+: > _Natuerlich_ ist so eine Zuweisung zunaechst willkuerlich.
+: > 
+: > Und auch _mit_ Beobachtung der Realitaet ist sie willkuerlich, denn
+: > da haengt kein Kruzifix, da kannst Du nicht "zum Herrgott 'naufschau'n",
+: > und der wird Dir sagen, wie die Wahrscheinlichkeiten sind.
+
+: Das ist natuerlich ziemlicher Unsinn. Auch wenn Du da offenbar noch einiges
+: zu verarbeiten hast - ich glaube Gott koennen wir dieses eine Mal aus dem 
+: Spiel lassen. Auch scheinst Du den Unterschied zwischen unsicher und will-
+: kuerlich nicht zu kennen. Wenn Du nur eine einzige Eins gewuerfelt hast,
+: ist die Annahme der Wahrscheinlichkeit Null fuer dieses Ereignis eine rein 
+: willkuerliche Bosau'sche Setzung. Ich wage die Prognose, dass Du Dich mit 
+: diesem Verfahren nicht gegen die Naeherung ueber die relative Haeufigkeit
+: wirst durchsetzen koennen.
+
+Vito, vielleicht kann ich Dich mit einer Modifizierung des Wuefelns 
+ueberzeugen? Das Beispiel mit den Millionen 6en etwas anders.
+
+Nimm eine Wuerfelreihe. Wie gross ist die Wkt., dass nie eine 1 
+auftritt? Null, oder? Zumindest bei hinreichend langem, sprich 
+unendlichem wuerfeln.
+
+Nun kann es aber vorkommen, dass eine endliche Stichprobe, also ein 
+endliches Wuerfeln, wirklich ohne 1 ausfaellt. Die Wkt. dafuer ist zwar 
+nur (5/6)^n, also fuer grosse n sehr klein, aber Du kannst aus der 
+relativen Haeufigkeit der 1 nicht ihre Wkt. ablesen.
+
+Mit Wkt. Null passiert es Dir sogar, dass tatsaechlich *nie* eine eins 
+kommt. Dass also Deine relativen Haeufigkeiten voll daneben liegen, nach 
+der etwa alle Zahlen ausser der 1 eine Wkt. von 1/5 haben.
+
+Aber bei endlichem Wuerfeln liegt Deine Prognose sogar mit echt positiver 
+Wkt. voll daneben.
+
+so short- Pius.
+----
+" ... nur: wenn alle so tun, als waer alles schon klar - 
+  ich frag mich, wo kaem' wir da hin? " - Christian Ußfelder

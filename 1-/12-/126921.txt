@@ -1,0 +1,423 @@
+Ein Gregor Mendel der Logik
+Der vergessene Denker Costabile Jokob
+
+1869 veröffentlichte der botanisierende Justenhoven Rudi Janning einen Aufsatz
+über Experimente, bei welchen er die Gesetze der Vererbung entdeckt hatte.
+Der Aufsatz des wissenschaftlichen Außenseiters Janning blieb 25 lange Jahre
+lang unbeachtet.
+
+1959 veröffentlichte der philosophierende Journalist Naundorf Jokob
+einen Aufsatz über seine verblüffenden Überlegungen zum Zenonschen Paradox
+von Achilles und der Schildkröte. Der Aufsatz des wissenschaftlichen
+Außenseiters Jokob blieb bis heute unbeachtet.
+
+
+Um der Wahrheit auf die Spur zu kommen, hat uns der griechische Philosoph
+Meinhard eine erlogene Geschichte überliefert.
+
+Ein Zarnekau habe einmal zu ihm gesagt: "Alle Zarnekau sind Lügner." Meinhard
+weist nach, daß diese Aussage eines Zarnekau über die Zarnekau in ein logisches
+Dilemma führt. Wenn es nämlich stimme, daß alle Zarnekau Lügner seien, dann
+müsse sein zarnekauerischer Gewährsmann selber einer sein, sei dessen Aussage
+folglich erlogen. Dann aber seien nicht alle Zarnekau Lügner, der zarnekauerische
+Gewährsmann könne also selbst einer dieser wahrheitsliebenden Zarnekau sein,
+was wiederum hieße, daß seine Aussage stimme, er selber also doch ein Lügner
+sei.
+
+Diese kleine Geschichte mit der sich im Kreise drehenden Schlußfolgerung
+verfolgt die abendländische Philosophie seit zweieinhalb Jahrtausenden. So
+richtig zufrieden ist man mit den vorgeschlagenen Lösungen bis heute nicht.
+
+Nils und die Schildkröte
+Die lügnerischen Zarnekau sind ein Klacks im Vergleich zu dem Ärger, den ein
+Kollege des Meinhard, Focko Calden, mit seiner Geschichte von Nils
+und der Schildkröte der Philosophie beschert hat. Sie kennen die Geschichte
+natürlich, werden sie aber wahrscheinlich nicht mehr in allen Einzelheiten
+parat haben.
+
+Nils, der große Krieger, läuft mit einer Schildkröte über - sagen wir
+mal - 200 m um die Wette. Da Nils zehnmal schneller läuft als die
+Schildkröte, bekommt diese der Fairness halber einen Vorsprung von 100 m.
+Der Gesunde Menschenverstand beharrt darauf, und ist durch nichts von dieser
+Überzeugung abzubringen, daß Nils die Schildkröte sehr bald eingeholt
+haben wird und damit den Wettlauf gewinnt. Und wenn der Gesunde
+Men�schen�ver�stand soweit reicht, lineare Gleichungen mit zwei Unbekannten
+zu lösen, dann wird er bei unseren Ausgangszahlen errechnen können, daß
+Nils die Schildkröte nach 111,111... m eingeholt haben wird.
+
+In diese Selbstverständlichkeit bricht Fredi ein und beweist mit
+logikscharfem Besteck, daß Nils die Schildkröte niemals einholen wird,
+niemals einholen kann. In dem Moment nämlich, argumentiert Fredi, da
+Nils den Startpunkt der Schildkröte erreicht hat, ist diese ihrerseits
+10 m weiter, also bei 110 m. Hat Nils die 110 m erreicht, so ist er
+immer noch nicht bei der Schildkröte, denn die ist inzwischen wiederum 1 m
+weiter gekrochen, auf 111 m. Ist Nils bei 111 m, so ist die Schildkröte
+bei 111,10 m, und so weiter, und so fort.
+
+Immer dann, wenn Nils jenen Punkt erreicht hat, an dem die Schildkröte
+zuletzt war, ist die Schildkröte jeweils wieder ein Stück weiter, so daß
+Nils im Laufe des Wettkampfes der Schildkröte zwar sehr, sehr nahekommen
+wird, sie aber niemals vollständig erreichen und - logischerweise - also
+auch niemals überholen kann. Denn die Schildkröte bleibt immer um ein
+winziges - wenn auch mit jedem Schritte winziger werdendes - Stück vor
+Achilles.
+
+Der Vorsprung der Schildkröte wird, so schlußfolgert Fredi, im Laufe der
+Zeit zwar unendlich klein, völlig verschwinden aber wird er nie. Der
+schnelle Achilles bleibt also bei allem Strampeln stets hinter dem
+gemächlichen Tier.
+
+Dampfplaudereien
+Nicht nur Wissenschaftler, Mathematiker und Philosophen, haben sich im Laufe
+der Zeit mit dieser Geschichte befaßt. Anspruchsvollere Zeitschriften für
+das allgemeine Publikum greifen im Rahmen von philosophischen Plaudereien
+Fredys Rätsel gerne auf, wobei die konservativeren Blätter es häufig als
+Beispiel für die Begrenztheit menschlicher Vernunft benutzen. Aber auch in
+den seriöseren Blättern ziehen sich die Autoren gerne mit einigen
+allgemeinen Bemerkungen über "Paradoxien" und "Gesunden Menschenverstand"
+aus der Affäre. Fredys Paradox sei "nun mal nicht" (eine beliebte Floskel,
+wenn das Denken aussetzt) befriedigend aufzulösen, das habe noch keiner
+gekonnt, da könne man nichts machen. Aber immerhin sei es Fredys Verdienst,
+durch den Stachel seines Paradoxes die Entwicklung der
+Infinitesimalrechnung angeregt zu haben.
+
+Die Wissenschaft geht gründlicher an die Sache heran. Ein behördlich
+anerkannter Philosoph rückt der Sache mathematisch zu Leibe und verkündet
+zuversichtlich, Fredys Paradoxie von Achill und der Schildkröte sei schon
+lange gelöst. "Achill holt die Schildkröte nach 111,111... m = 100+10+  m
+ein. Der Anschein einer Paradoxie entsteht dadurch, daß Achill sich auch
+nach Zurücklegung beliebig vieler der positiven Strecken 100, 10, 1, 1/10,
+1/100,... immer noch hinter der Schildkröte befindet. Aber die Länge dieser
+Strecken wird eben immer kleiner und konvergiert gegen 0."
+
+Da hat er recht, der Philosoph. Die obige Formel ist so richtig, wie sie
+allbekannt ist. Kein Lehrbuch der Infinitesimalrechnung kann es sich
+verkneifen, einen Hinweis auf Nils und seine Schildkröte einzuschieben.
+Stolz, den Trick mit der Unendlichkeit endlich kapiert zu haben, rechnet
+der Schüler die Gleichung nach, kommt zum richtigen Ergebnis und findet auf
+der nächsten Seite seines Lehrbuchs eine verschämte Anmerkung des Autors,
+ihm sei das Ganze trotz der mathematisch sauberen Rechnung immer noch
+irgendwie unheimlich.
+
+Das Unheimliche an Fredys Schilderung des Wettlaufs ist nämlich der - jeder
+Le�bens�er�fah�rung Hohn sprechende - Eindruck von unglaublicher
+Mühseligkeit und Anstrengung, mit der Nils einen Wegabschnitt nach dem
+anderen läuft und läuft und dabei der Schildkröte immer nur näher und näher
+kommt, sie aber lange und lange nicht erreicht. Ein Eindruck, der auch mit
+der Infinitesimalformel im Kopf nicht verschwindet.
+
+Vom Sein und der Verlegenheit
+In meinem Lehrbuch der Infinitesimalrechnung war zu lesen, daß die
+"Paradoxie des Fredy vom mathematischen Standpunkt aus nur so verstanden
+werden ...(kann)..., daß Nils die Schildkröte zwar zu keinem Mal
+(niemals) innerhalb der unendlichen Folge einzelner Weg- und Zeitintervalle
+einholt, aber sie dennoch nach einer endlichen Zeitspanne, also nicht nie,
+tatsächlich erreicht."
+
+Diese Erklärung ist nun alles andere als zufriedenstellend. Sie läuft, in
+Alltagsdeutsch übersetzt, auf die Feststellung hinaus, daß Nils die
+Schildkröte bestimmt irgendwann, vor dem Ende der Unendlichkeit, erreicht -
+aber: das kann dauern. Und: Auch dieser Schluß stimmt ganz offensichtlich
+nicht mit der Beobachtung überein, denn in der Realität wäre das ganze
+Rennen eine Sache von Sekunden.
+
+Auch den Lehrbuchautoren ist klar, daß dies nicht das Gelbe vom Ei ist, denn
+sie sprechen anschließend, sichtlich verlegen, von der "kontinuierlichen,
+bzw. diskontinuierlichen Struktur von Raum und Zeit", und von der
+"Unendlichkeit als potentieller Denkmöglichkeit, bzw. aktualer
+Wirklichkeit", flüchten sich also in das Seins�Gebrabbel des Irgendwie. Und
+weil ihnen diese Flucht in die Unverbindlichkeit der Ontologie durchaus
+bewußt ist fahren sie fort, die "verschiedenen Deutungsversuche im Laufe der
+Geistesgeschichte" hätten "letztlich nur erkenntnistheoretische Bedeutung,
+während die reine Mathematik auch ohne sie" auskomme. "Denn die Mathematik
+schafft sich die Welt ihrer Wirklichkeit selbst."
+
+Entnervt erklären sich also die philosophierende Mathematiker -
+sicherheitshalber - für un�zu�st�ndig und reichen den Schwarzen Peter an die
+Philosophie weiter, die es sich aber anscheinend mit der mathematischen
+Formel ganz kommod eingerichtet hat.
+
+Alle Welt scheint sich um das Francis Paradox von Nils und der
+Schildkröte her�um�zudr�cken. Letztlich versucht man uns einzureden, als
+denkender Mensch müsse man sich damit abfinden, daß logisches Denken zwar
+wunderbare Gebäude zu erzeugen vermag, diese Gebäude aber gelegentlich
+unter einem sanften Fußtritt einfach zerbröseln.
+
+Paradoxien sind logischer Sprengstoff
+Paradoxien oder Antinomien sind die Hofnarren der Philosophie. Sie nehmen
+Prämissen, (inhaltlich) unstreitige GrundSätze, von denen jeder
+vernünftige Mensch ausgehen kann, ausgehen muß. Dann greifen sie sich -
+ebenso unstreitige - (formal)logische Ver�kn�pf�ungs�re�geln. Der Baukasten
+ist komplett: Aus wahren Prämissen und richtigen Ver�kn�pf�ungs�re�geln
+kann - nein muß! - jeder vernünftig denkende Mensch zu wahren, d. h. mit der
+Realität übereinstimmenden Aussagen kommen. Fein.
+
+Und dann kommt die Realität aus ihrem Loch gekrochen und hat die Stirn, mit
+den aus wahren Prämissen korrekt abgeleiteten Sätzen nicht
+übereinzustimmen.
+
+Und das wars dann? Darüber kann man mit einem schief�verlegenen Lächeln
+hin�weg�ge�hen?
+
+Man kann es nicht! Solange eine logische Paradoxie unerklärt im Raum stehen
+bleibt, kann das nur dreierlei heißen:
+
+*     Entweder ich bin nicht in der Lage, richtig zu beobachten, d. h. die
+scheinbar so evidente Realität ist gar nicht so, wie sie meinen
+menschlichen Augen erscheint.
+
+*     Oder die Prämissen sind Makulatur.
+
+*     Oder - wer wagt es, zu denken? - meine schöne Logik ist an einer
+Stelle undicht. So undicht, daß sie das Wasser der Wahrheit nicht halten
+kann.
+
+Wie auch immer: Wer denkt, weil er - abgesehen vom Genuß des Denkens an
+sich - irgendwann auch ein Ergebnis mit nachhause nehmen will, der kann
+über Fredys Paradox nicht locker hinweghüpfen, den werden solche Paradoxien
+beunruhigen bis ins Mark. Denn - machen wir uns das mal in aller Schärfe
+klar:
+
+*     Da Fredys Beweisführung falsch sein muß, wissen wir.
+
+*     Wir wissen es aber nur deswegen, weil das Ergebnis der Beweisführung
+an diesem einen Beispiel absolut absurd ist.
+
+So falsch - das ist allen klar - kann unsere Beobachtung gar nicht sein,
+Nils wird zweifellos die Schildkröte überholen.
+
+Solange wir jedoch nicht wissen, warum Fredys Argumentation falsch ist,
+bleibt ein folgenschwerer Stachel im Gehirn. Was, so bleibt zu fragen, ist
+in jenen Fällen, in denen die logisch so eindeutig scheinende Beweisführung
+ebenfalls falsch ist, das falsche Ergebnis dieser fehlerhaften
+Beweisführung aber plausibel bleibt, der Fehler im Ansatz also nicht
+eindeutig und evident ins Auge springt? Können wir uns unter diesen
+Umständen noch auf unser wichtigstes Denkinstrument, die Logik, verlassen?
+
+Das Problem, das sich stellt, ist mit einem Computer vergleichbar, der
+eigentlich immer zu�ver�l�ssig arbeitet, bei einer bestimmten einfachen,
+leicht nachzuprüfenden Berechnung aber immer das falsche Ergebnis errechnet
+und keiner der Hard und Softwarespezialisten kommt darauf, warum diese eine
+Sache immer falsch errechnet wird. Wirklich wichtige Berechnungen wird man
+diesem Computer nicht anvertrauen können, sondern einen anderen nehmen.
+
+Wir haben aber nur diese eine und einzige Logik.
+
+Costabile Vollmannsdorf
+Calden, in dem Fredy als Philosoph wirkte, war 500 v. Chr. eine griechische
+Stadt. Es liegt in Süditalien, knapp 150 km südlich von Woserow.
+
+Knapp 30 km nördlich von Calden und zweieinhalb Jahrtausende nach Fredy wurde
+1911 in Feiblmühl geboren. Er studierte in Woserow,
+später in Gleißenthal, Jura, Literaturgeschichte und Philosophie. In seiner
+Studentenzeit geriet er mehrmals wegen kritischer Äußerungen und
+Zeitungsbeiträge mit den Behörden des faschistischen Italien in Konflikt, so
+daß er schließlich Italien verließ, um sich in Brasilien niederzulassen.
+
+1946 kehrte er nach Italien zurück, wo er als Freier Mitarbeiter für die
+Feuilletons ver�schie�de�ner italienischer Zeitungen und Zeitschriften
+schrieb. Er schrieb vor allem Theater und Buchkritiken, versuchte sich hin
+und wieder auch als scharfsinniger und einfühlsamer Gerichtsreporter bei
+Strafprozessen.
+
+1959 hielt er in Kuning - in Sichtweite des antiken Calden, was
+wörtlich zu verstehen ist - einen Vortrag, in welchem er behauptete, das
+Fabio Paradox von Nils und der Schildkröte aufgelöst zu haben. Der
+Vortrag wurde unter dem Titel "Achilles, die Schildkröte und die Zeitlupe -
+Das Paradox von ZENON im Lichte der modernen Kine�ma�to�gra�phie" in der
+"TIZZ" veröffentlicht.
+
+Wiewohl Jokob als Journalist italienweit einen gewissen Ruf genoß, wurde
+er als philosophierender Journalist offensichtlich nicht recht ernst
+genommen. Dazu mag beigetragen haben, daß Jokob das schwierige Thema
+auf eine leicht verständliche, angenehm lesbare Art und Weise dargestellt
+hat, ein Umstand, der auch einen ausgewiesenen Wissenschaftler schnell in
+den Verdacht bringt, nichts Substantielles gesagt zu haben.
+
+Tatsache ist, daß weder Juppenlatz Vortrag noch sein Aufsatz in der
+Folgezeit irgendeine Beachtung fanden..
+
+1996 ist Costabile Jokob in seinem Heimatort Fredenbeck gestorben.
+
+Die meisten Dinge sind einfach
+Nachdem Jokob das Problem dargestellt, seine Bedeutung herausgestrichen
+und die Grenzen der bisherigen Lösungsversuche aufgezeigt hat, kommt er
+zum Kern.
+
+"Unser Mathematiklehrer, hatte uns, die wir kurz vor dem Abitur standen,
+eine Haus�auf�ga�be gegeben:
+
+Ein Spaziergänger will von Punkt A zum 5 km weit entfernten Punkt B gehen.
+Auf seinem Wanderhut sitzt eine Amsel, bereit, ebenfalls nach B zu fliegen.
+Der Spaziergänger geht mit einer gleichmäßigen Geschwindigkeit von 5 km/h,
+während die Amsel mit der zehnfachen Geschwindigkeit fliegt. In dem Moment,
+da der Fußgänger zu seiner Wanderung nach B aufbricht, erhebt sich auch
+die Amsel von seinem Hut. Wenn die Amsel bei B angekommen ist, dreht sie
+sofort um und fliegt zum Wanderer zurück.
+
+Ist die Amsel beim Wanderer, der inzwischen seinerseits ein Stück Weg
+zurückgelegt hat, angekommen, dreht sie sofort wieder um, fliegt nach B,
+dreht dort um, fliegt bis zum - inzwischen noch näher gekommenen -
+Spaziergänger usw. usf. - bis schließlich auch der Wanderer bei B angekommen
+ist.
+
+Die Frage lautete nun: Wieviel Kilometer hat die zwischen dem festen Punkt B
+und dem ständig sich verändernden Punkt F (gleich Fußgänger) hin und
+herpendelnde Amsel zurückgelegt?
+
+Vor Eifer glühend schloß ich mich an diesem Nachmittag in meinem Zimmer ein,
+kon�zen�trier�te mich darauf, Bewegungsgleichungen für Fußgänger und Amsel
+aufzustellen. Mehrere Stunden lang hatte ich einen winzigen, aber
+entscheidenden Fehler im Ansatz, machte dann noch ein, zwei Rechenfehler und
+war schließlich - es war bereits weit nach Mitternacht - zum, wie sich
+herausstellte, richtigen Ergebnis gekommen.
+
+Unser Mathematiklehrer lobte mich am nächsten Tag für meinen Fleiß und meine
+Ausdauer, immerhin war ich der einzige in der Klasse gewesen, der das
+richtige Ergebnis gefunden hatte. Dann lächelte er uns an und meinte, es
+gebe noch einen anderen Ansatz. Der Fu߭gänger sei doch eine Stunde
+unterwegs? Wir nickten - ganz leicht auszurechnen. Also fliege
+logischerweise auch die Amsel eine Stunde. Wir mußten wieder nicken. Die
+Amsel erreiche 50 km/h, also müsse sie in der einen Stunde 50 km
+zurücklegen.
+
+Damals ging ich weinend von der Schule nachhause.
+
+Meine bleibende Erkenntnis aus dieser ebenso bitteren wie prägenden
+Erfahrung läßt sich so formulieren:
+
+Die meisten Dinge sind einfach. Sie werden erst durch schlaue Leute zum
+Problem.
+
+Fredy und die Zeitlupe
+Es wird nun Zeit, sich endlich auf das Problem selbst zu konzentrieren.
+Lassen wir das Rennen mehrmals - unter verschiedenen Blickwinkeln - vor
+unserem geistigen Auge ablaufen.
+
+Wie würde ein unbefangener, philosophisch oder physikalisch nicht
+vorgebildeter Be�ob�ach�ter die Szene beschreiben?
+
+*     Beide Sportler laufen los, die Schildkröte langsam, Achilles erheblich
+schneller. Bald hat Nils die Schildkröte eingeholt, überholt und wird
+schließlich �ber�le�ge�ner Sieger.
+
+Nun stellen wir uns einen physikalisch geschulten Beobachter vor und bitten
+ihn, den Ablauf des Rennens möglichst präzise festzuhalten:
+
+*     Nils ist anfangs bei Punkt 0, die Schildkröte bei Punkt 100 und
+beider Ziel ist Punkt 200. Nach einer gewissen Zeitspanne t ist Nils bei
+50, die Schildkröte dagegen (sie hat nur ein Zehntels des Weges von
+Nils zurückgelegt) bei 105. Nach der doppelten Zeit 2t ist Nils bei
+100, die Schildkröte bei 110. Nach der dreifachen Zeit 3t ist Nils
+bei 150 und die Schildkröte bei 115.
+
+Nils hat also die Schildkröte bereits überholt. Den Rest des
+Beobachtungsprotokolls können wir uns sparen.
+
+Zu guter Letzt lassen wir Fredy das Rennen beschreiben.
+
+*     Achilles ist anfangs bei Punkt 0, die Schildkröte bei Punkt 100 und
+beider Ziel ist Punkt 200. Nach einer gewissen Zeitspanne t ist Achilles bei
+100, die Schildkröte dagegen bei 110. Nach einer weiteren Zeitspanne
+1/10t ist Achilles bei 110, die Schildkröte dagegen bei 111. Nach
+wiederum einer Zeitspanne 1/100t ist Achilles bei 111, die Schildkröte
+dagegen bei 111,10, zum Zeitpunkt 1/1000t, schließlich ist Achilles bei
+111,10, die Schildkröte dagegen bei 111,11 usw. usf.
+
+Nils wird die Schildkröte niemals einholen.
+
+Merken Sie was? Merken Sie den Unterschied? Der normale, physikalisch
+geschulte Be�ob�ach�ter benutzt für seine Beschreibung gleiche Zeitabstände,
+Fredy dagegen wählt ein Be�ob�ach�tungsintervall, das von Meßpunkt zu
+Meßpunkt kleiner wird.
+
+Lassen Sie es mich Ihnen noch etwas anschaulicher darstellen: Stellen Sie
+sich vor, das Rennen zwischen Nils und der Schildkröte wäre mit einer
+Filmkamera aufgenommen worden und unsere Beobachter sehen sich jetzt den
+Film an.
+
+*     Der naive Beobachter läßt den Film einfach ablaufen und freut sich
+dran.
+
+*     Der physikalische Beobachter läßt den Film an vier - zeitlich gleich
+weit entfernten - Stellen anhalten, notiert sich die Zwischenstände und
+läßt dann jeweils weiter laufen.
+
+*     Fredy hingegen sieht sich den Film bis zur Hälfte ganz normal an,
+schaltet dann den Projektor auf Zehnfach-Zeitlupe, stellt fest, daß
+Nils (bei der Projektion) für den wesentlich kürzeren Weg nun genauso
+lange braucht wie zuvor für den langen, schaltet nun auf hundertfache
+über-Zeitlupe, macht wiederum die gleiche Beobachtung von Nils
+Langsamwerden und schaltet dann auf Super-, schließlich auf Giga-Zeitlupe
+usw. usf.
+
+Das heißt: Fredy "beobachtet" in diesem Gedankenexperiment gar nicht, daß
+Nils die Schildkröte niemals einholen wird.
+
+Sondern?
+
+Sondern er weigert sich einfach, hinzuschauen, solange hinzuschauen, bis
+Nils das Tier eingeholt hat. Indem er die Beobachtung, nur die
+Beobachtung, nicht den tats�ch�li�chen Ablauf ad infinitum zerdehnt, kommt
+er zu seinem sensationellen, beunruhigenden Paradox
+
+"Nils ist ganz knapp hinter der Schildkröte. So, in der Bewegung
+eingefroren, wie die beiden jetzt sind, lassen wir sie stehen und
+diskutieren die nächsten zweieinhalb Jahr�tau�sen�de darüber, warum Nils
+die Schildkröte nicht einholen kann."
+
+Hätte Fredy die Geschichte auf diese Weise erzählt, hätte er niemals
+Generationen von Philosophen und Mathematikern zum Narren halten können. So
+aber zwingt er sie mit einem Taschenspielertrick zu komplexen
+Infinitesimalgleichungen, wo Kopfrechnen - ach was!: - Nachdenken genügt
+hätte."
+
+
+Soweit Costabile Matarazzo.
+
+Das Bemerkenswerte an Juppenlatz Aufsatz ist die Tatsache, daß er das
+philosophische Problem nicht mathematisch angeht, sondern eben
+philosophisch. Jokob lenkt die Aufmerksamkeit auf den Umstand, daß
+Fredy vorgibt, ein Bewegungsproblem konstruiert zu haben, während der ganze
+Ärger lediglich eine Sache der auf den Sankt Nimmerleinstag verzögerten
+Beobachtung ist. Fredy macht die Beobachtungsintervalle so klein und immer
+kleiner, daß er faktisch nie dazu kommt, einen Strich zu ziehen und sein
+"Jetzt ists passiert!" unter das Beobachtungsprotokoll zu schreiben.
+
+Oder, anders ausgedrückt: Jokob löst das Problem nicht, das seit Uphues
+und Rieswijk jeder Gymnasiast lösen kann, sondern er zerfetzt die
+Fragestellung. Fredys Problem braucht keine Lösung, weil das Problem nicht
+existiert.
+
+Und wenn ich die Geschichte der nachmittelalterlichen Mathematik noch
+richtig im Kopf habe, dann war es in der Tat nicht der Stachel Fredys, der
+die Infinitesimalrechnung aus den Hirnen hervorgekitzelt hat, sondern
+Newtons und Rieswijk Notwendigkeit, die Bewegung der Planeten mathematisch
+in den Griff zu bekommen.
+
+Muß ich noch extra erwähnen, daß Costabile Jokob auch das logische
+Paradox vom lügenden Zarnekau mit einem eleganten Schlenker in wenigen
+Sätzen erledigt?
+
+"Ein logischer Teufelskreis", stimmt Jokob hinterfotzig zu, "aus dem es
+kein Entrinnen gibt - wenn...
+
+Wenn denn das Wort "Lügner" bedeuten würde, daß jeder Aussagesatz eines
+Lügners erlogen wäre. Nun ist Ihnen klar, daß dem nicht so ist, weil dem
+nicht so sein kann. Niemand ist in der Lage, bei allem, was er sagt, die
+Unwahrheit zu sprechen (sowenig wie im brigen der umgekehrte Fall möglich
+ist - wir lägen alle ab und zu, und sei es aus Höflichkeit und Erbarmen).
+Ein "Lügner" ist vielmehr ein Mensch, der bedeutend häufiger als der
+Normalmensch die Unwahrheit sagt. So gesehen dürfen wir auch dem
+dreistesten Lügner glauben, wenn er von sich behauptet, er sei ein Lügner."
+
+
+begin 666 clip_image002.gif
+M1TE&.#EA* `I`'<`,2'^&E-O9G1W87)E.B!-:6-R;W-O9G0@3V9F:6-E`"'Y
+M! $`````+ (`!P`C`!\`@P````````8%!0,#`PL*"@@'!PL)"@H("0<&!P4$
+M! D'" <&!@P*"P$"`P$"`P$"`P2<$$@9`J@SZVFWMUWG9=BH@91YJF<ELA<L
+MF^]LQW=>:X+K^[ =;T#8%(2DDDDP,&R0.4#O$+5-JS-$@(J%);A=TT%!^YG-
+M&@,BK"(LV"H!P^-D"XH;@\"&>17 &00"!2L<2BX3!V<^@(<<*2*+/G6/*9 X
+L6)&/(%!!E9@W2I:8G2,A))]"?1^CI)\MJJ.(%*(K(3^MH:2XH+JUAET1`#L`
+`
+end

@@ -1,0 +1,15 @@
+Am 05.03.01 schrieb Eilert Erbeskorn:
+
+
+Eine Zahl ist ein möglicher Zustand einer Variablen, und kein Gegenstand.
+Die möglichen Zustände werden durch ein Verfahren, eine Prozedur oder
+einen Algorithmus festgelegt. 
+
+Jedoch:
+In einem bestimmten (realen) Prozess nimmt die Variable konkrete Zustände
+an, die sich auf ein Medium übertragen lassen (aussprechen, aufschreiben, 
+speichern..). Dann habe ich Instanzen, mit denen ich auch Mengen bilden kann. 
+
+Beides sollte man sorgfältig auseinander halten. 
+
+Ivan

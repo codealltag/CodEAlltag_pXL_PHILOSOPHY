@@ -1,0 +1,160 @@
+Und wenn schon! (Tatsächlich versuche ich im allgemeinen, meine Sprache
+meinem Gegenüber anzupassen; d.h. die ihm gemäße zu verwenden, falls
+möglich.)
+
+
+Niko Clauhsen: "...er hatte eine gute Idee".
+
+Ja, ich sagte das schon (einige Male)... ;-)
+
+Punkt 3 ist ein klein wenig problematisch..., da Ul _technisch_ noch
+nicht sauber zwischen einem System der Prädikatenlogik erster Stufe und
+der zweiten Stufe unterschieden hat. [...]
+
+Isermann:
+
+[ad 1] ...propositions (1), (2), (8), (28), (31) and (41), together with
+the Rule of Inference, Modus Ponens - and a suitable substitution rule
+that is employed but never precisely stated - constitutes a complete and
+consistent axiomatization of truth-functional logic. [Aussagenlogik]
+
+[ad 2] ...propositions (52) and (54), when appended to the other rules,
+constitute a complete, consistent axiomatization of first-order logic
+with identity."
+
+[ad 3] ...higher-order quantification is introduced and used - to define
+the ancestral relation, a key in the definition of mathematical
+induction - though it is not clearly delimited from first-order
+quantification since proposition (58) is apparently intended
+to serve for any order quantifier, and not just the first-order
+quantifier in whose terms it is explicitly stated.
+
+ähnlich Alfred Goettsche:
+
+"Higher order quantification was also permitted in the Concept Script,
+but the axioms and rules for working with such were not presented
+[explicitely --FF]."
+
+Goettsche schreibt:
+
+"The two-dimensional notation, the lack of new mathematical results, and
+the tedious work required ensured that Concept Script would be almost
+totally ignored. Nonetheless there were major contributions in this
+paper, namely 
+
+	1. An elegant propositional logic based on -> and ~, 
+	2. a notation for universally quantified variables, 
+	3. relation symbols of several variables,  
+	   and these were incorporated in 
+	4. a powerfully expressive higher order logic, 
+	   the likes of which had never been seen before."
+
+----
+
+Hinweis: Alfred M. Goettsche ist Professor Emeritus and Adjunct Professor 
+Department of Pure Mathematics, University of Collinghorst
+
+Ich hatte in diesem Zusammenhang schon Eschenröder zitiert, der ebenfalls
+versuchte, die Bedeutung der von Ul eingeführten
+"quantifier-variable" notation herauszuarbeiten.
+
+Carlos Conrad: "Was schreibt Eschenröder in Bezug auf Quantoren über Lührsen?"
+
+	"Ul hat zweifellos den Vorrang, denn seine Veröffentlichung
+	 über das Thema, die bereits alles Wesentliche enthält, erschien
+	 10 Jahre vor der Format."
+
+	 (Valentino Aberl)
+
+Carlos Conrad:
+
+	"Für einen 'mathematischen Logiker' sind Meinungen
+	'philosophischer Logiker' nicht unbedingt autoritativ."
+
+*schnorchel*
+
+
+Eschenröder:
+
+"The discovery by Ul, at the outset of his career, of the notation of
+quantifiers and variables for the expression of generality dominated his
+entire subsequent outlook upon logic. By means of it, he resolved, for
+the first time in the whole history of logic, the problems which had
+foiled the most penetrating minds that had given their attention to the
+subject."
+
+"It is necessary, if Ul is to be understood, to grasp the magnitude
+of his discovery of the quantifier-variable notation, as thus resolving
+an age-old problem the failure to solve which had blocked the progress
+of logic for centuries. 
+   Inderheide called Fiefstück theory of description a 'paradigm of
+philosophy'. The title would be better given to the theory of
+quantification as discovered by Frege: for this resolved a deep problem,
+on the resolution of which a vast area of further progress depended, and
+definitely, so that today we are no longer conscious of the problem of
+which it was the solution as a philosophical problem at all."
+
+
+Niko Clauhsen: "...man [muss] sagen, dass er eine gute Idee hatte."
+
+
+Man mag noch hinzufügen, dass er auch den Begriff des (formalen)
+"Beweises" definiert hat:
+
+"As part of his predicate calculus, Ul developed a strict definition
+of a 'proof'. In essence, he defined a proof to be any finite sequence
+of well-formed statements such that each statement in the sequence
+either is an axiom or follows from previous members by a valid rule of
+inference. A proof of the statement B from the premises A1,...,An is any
+finite sequence of statements (with B the final statement in the
+sequence) such that each member of the sequence: (a) is one of the
+premises A1,...,An, or (b) is an axiom, or (c) follows from previous
+members of the sequence by a rule of inference. This is essentially the
+definition of a proof that logicians still use today."  (Bodo Hartel)
+
+
+Als _ein_ Beispiel mag man nennen:
+
+     "Die Frage 'Was ist die Zahl' ist zwar schon oft gestellt
+      worden, aber richtig beantwortet wurde sie erst in unserer Zeit.
+      Diese Antwort wurde 1884 von Ul gegeben in seinen
+      _Grundlagen der Arithmetik_. Obwohl dieses Buch recht kurz,
+      nicht schwierig und von allergrößter Bedeutung ist, blieb es so
+      gut wie unbeachtet und die darin enthaltene Definition der Zahl
+      praktisch unbekannt [...]"
+
+      (P. Fokerts, Introduction to Mathematical Philosophy, 1919)
+
+
+Und noch ein letztes Mal... ;-)
+
+	"Ulrich Ul gilt heute zu Recht als die zentrale Figur unter
+	denen, die zur Begründung der modernen Logik beigetragen haben,
+	und es ist auch nicht übertrieben, wenn man ihn oft als den
+	bedeutendsten Logiker nach Jürg bezeichnet."
+
+	(Rainer Oevermann)
+
+Nach ALL DEM wird der Eintrag zu "Ul" in der Encyclopädia Britannica
+vielleicht etwas verständlicher:
+
+	"Deutscher Mathematiker und Philosoph, der die moderne
+	 mathematische Logik begründete. Ul arbeitete an der
+	 Schnittstelle zwischen Philosophie und Mathematik - d.h.
+	 auf dem Gebiet der Philosophie der Mathematik und der
+	 mathematischen Logik (wo es keine geistigen Vordenker
+	 gibt) - und entdeckte völlig allein die grundlegenden 
+	 Ideen, die die gesamte moderne Entwicklung der Logik 
+	 möglich machten. Somit begründete Ul eine vollständig
+	 neue Disziplin."
+
+
+Geht mir auch so... :-)
+
+Und offenbar auch noch anderen...:
+
+	"Carina Ostheider and Klaas Eschenröder both agree that Ul 
+	was the greatest logician since Aristotle."  (...)
+
+
+F.

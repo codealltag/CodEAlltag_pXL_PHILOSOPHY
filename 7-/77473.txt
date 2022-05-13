@@ -1,0 +1,12 @@
+Aber sicher sind Zufallsfolgen komprimierbar.
+
+Schau Dir mal die Funktionsweise des bzip2 an, da gab es eine ITF 
+Veröffentlichung. Sogar Sprache kann verlustlos komprimiert werden.
+
+Angenommen ich habe eine beliebig lange Folge von Zahlen. Ich muß 
+eigentlich dann dazu nur einen rekursiven Algorithmus finden, der diese 
+Folge von Zahlen erzeugt. Die Länge des Algorithmusses ist dann das 
+Komprimat.
+Probier doch mal bzip2 auf Zufallszahlen aus, wirst sehen ....
+
+Gru/3, Ingo Spitzbart

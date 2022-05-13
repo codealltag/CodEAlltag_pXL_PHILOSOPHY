@@ -1,0 +1,199 @@
+On Thu, 10 Okt 2001 18:10:11 +0200, Laurent Meindorfner <rxbu.pkrnhm@yit.gx> wrote:
+
+Auf die meisten Textstellen werde ich an dieser Stelle nicht eingehen,
+da es die Beitraege sonst erheblich verlaengern wuerde. Vielleicht aeussere
+ich mich an andere Stelle noch dazu.
+
+
+Ich bin zu der Einsicht gekommen, dass, wenn man die Sprache der Modell-
+theorie spricht, nicht umhinkommt, abstrakte Gegenstaende anzunehmen, da
+die Modelltheorie das Mittel der semantischen Interpretation benutzt.
+Dabei ist eine Interpretation ein Paar (U,b), wobei U eine Struktur und b
+eine Belegung in U ist. Und eine Struktur U ist ein Paar (A,a), wobei
+A eine Traegermenge ist und a eine Abbildung auf der Objektsprache ist,
+die Relations- und Funktionssymbolen Relationen und Funktionen zuordnet.
+
+Durch die Belegung b wird den Variablen ein Objekt der Traegermenge A
+zugeordnet. Man spricht in dieser Sprache also ueber Gegenstaende.
+Wenn man das nicht moechte, dann muss man Modelltheorie ablehnen. Die
+Traegermenge A gehoert aber nicht zur Objektsprache, sondern bildet
+das Universum der Gegenstaende, worueber die Objektsprache ueber das
+Mittel der Quantifikation spricht.
+
+In der Modelltheorie passiert m.E. also genau dass, was wir tun, wenn wir
+ueber physikalische Dinge sprechen. In dem Satz "Ich habe ein Ball ins
+Tor geschossen" referieren "Ich", "Ball" und "Tor" auf 3 Objekte. Hier
+gehoeren die 3 Objekte auch nicht zur Sprache, sondern sind Dinge ueber
+die gesprochen wird.
+
+
+Durch Annahmen gewisser idealer Gegenstaende ergeben sich tatsaechlich
+Schwierigkeiten in ihrem theoretischen Gebrauch, z.B. die Annahme in-
+finitesimaler Groessen als Gegenstaende. Tatsaechlich sind sie aber
+in ihrem Gebrauch sehr erfolgreich gewesen. Aber wenn "bessere" abstrakte
+Gegenstaende genau diegleichen Resultate liefern, wieso sollte man sie
+dann nicht annehmen, wenn man mit ihnen in der sprachichen Verwendung
+Schwierigkeiten vermeidet und noch eine gewisse Einfachheit bekommt?
+
+Also, ich sehe, dass man jedenfalls in der Mengenlehre und Modelltheorie
+solche Entitaeten annehmen muss, nur ueberlege ich zur Zeit, ob das nicht
+auch konzeptualistisch geht.
+
+
+Das sehe ich nicht. Die alltaeglichen Gegenstaende, die wir mit unseren
+Sinnen erfahren, sind so klar wie wir sie sehen. Wenn Du einen Tisch
+beschreibst, dann wirst Du ihn vielleicht durch ein Buendel von Eigen-
+schaften und Funktionsweisen beschreiben. Wenn man Zahlen oder Mengen
+beschreiben wollte, dann koennte man auch hier sagen wie sie aufgrund
+einer Theorie gebraucht werden; die Axiome regeln ja wie Mengen ge-
+braucht werden.
+
+
+Aber was macht man denn, wenn man sagt, es gaebe keine uendlichen Mengen?
+Woher weiss man das? Man koennte aufgrund einer gewissen Vernunft sagen,
+dass es nicht gerechtfertigt ist, unendlich Mengen anzunehmen, weil keiner
+unserer Sinne dafuerspreche. Aus logischen Gruenden kann ich aber sagen,
+dass, nur weil wir nur endlich denken koennen, das kein Grund sei, unend-
+liche Entitaeten auszuschliessen. Die Annahme von solchen Entitaeten waere
+dann nur noch aus Vernunftsgruenden zu rechtfertigen. Und wieso sollte
+man sich dann nicht auf den Standpunkt stellen, dass man durch eine logische
+Extrapolation zu der Annahme von unendlichen Mengen kommt, wenn dadurch
+z.B. geometrische Sachverhalte expliziert werden koennen? Wir hatten ja
+schonmal das Beispiel mit der Diagonalen eines Quadrates mit der Seitenlaenge
+1. Wenn die konzeptualistische Annahme von abstrakten Entitaeten es gestattet
+hier ohne Schwierigkeiten und mit Einfachheit Geometrie zu betreiben, dann
+spricht nichts gegen so eine Vorgehensweise, wenn nicht eine bessere Alter-
+native gegenuebersteht.
+
+In diesem Zusammenhang halte ich Zumhasch Geschichte mit dem Boot in dem
+wir uns auf hoher See befinden und nicht an Land kommen fuer sehr ge-
+lungen. Solange man keine besseren Alternativen hat, muss man vorsichtig
+sein, etwas ueber Bord zu schmeissen.
+
+
+Es waere jedenfalls doch sehr vorteilhaft, wenn sie es wuessten, denn
+wenn sie die Pafi-Flasche mit dem Tot ihres Kollegen in Zusammen-
+hang bringen koennten und die Gleise sehen, dann kaemen sie darauf, dass
+man hier auf alles gefasst sein muss, was so alles aus dem Zug heraus-
+geworfen wird. Das ist natuerlich fuer die Landsleute dort eine Theorie,
+die sie in Zukunft veranlassen wird, sich vorsichtiger den Gleisen zu
+naehern, wenn ein Zug in Sicht ist. 
+
+
+Aber hier sagst Du es schon. Nicht ausschliesslich der Umgang mit Zeichen
+ist fundamental, sondern die Sprache in Verbindung mit dem Umgang von
+Gegenstaenden. Aber nichts anderes sagt Zehnpfennig, wenn er sagt, dass man
+sich auch an den Gebrauch der Quantifikation und Variablen halte sollte,
+wenn man in dieser Sprache spricht. Und das ist, dass man fundamental
+durch diesen Gebrauch Gegenstaende annehmen muss.
+Wenn man also abstrakte Gegenstaende ablehnt, dann darf man nicht in einer
+Sprache sprechen, die Quantoren und Variable benutzt.
+
+
+Ich meine, dass sinnlich wahrnehmbare Gegenstaende unabhaengig von uns
+existieren, jedoch abstrakte Gegenstaende nur durch ein Konzept existieren,
+welches auf unser sprachliches Denken zurueckzufuehren ist, also nicht
+unabhaengig davon existieren. Man koennte es auch so sagen: Die abstrakten
+Gegenstaende sind eine konzeptionelle Erfindung des Denkens. Das waere
+aus Vernunftsgruenden angebracht, wenn man nicht entscheiden kann, ob es
+abstrakte Gegenstaende auch unabhaengig vom Denken gibt. Damit kann ich
+das gleiche leisten und muss keine Annahme ueber eine wirkliche Existenz
+unabhaengig vom menschlichen Denken machen.
+
+
+Wenn Du nur die Zeichen siehst, dann kannst Du die Bedeutung von "5 ist ein
+Gegenstand" nicht durch "ein Schema von 5 Gegenstaenden" charakterisieren,
+denn das sagt nichts als "5 ist ein Schema von 5 Gegenstaenden", und
+wuerde durch Substitution der zweiten 5 und so ad inf zu einem unendlichen
+Satz fuehren.
+
+
+Wenn ich 5 Gegenstaende vor mir abzaehle, dann wird hier nichts ueber
+die Form der Gegenstaende gesagt, sondern ueber die Anzahl der Gegen-
+staende, die ich vor mir liegen habe. Der Satz geht so: "Die Anzahl der
+Gegenstaende vor mir ist 5". Und wenn ich sage, dass ich in einer Schale
+genausoviele Birnen wie Aepfel habe, naemlich jeweils 5, dann stelle ich
+durch diese Aussage die Maechtigkeit zweier Mengen in Beziehung, rede
+aber nicht ueber die Form der Gegenstaende. Durch "genausoviel" setze
+ich ja /etwas/ gleich. Ist A also die Menge der Birnen und B die Menge
+der Aepfel, so sage ich mit "genausoviel" |A|=|B|.
+
+
+Zehnpfennig stellt in "Wort und Gegenstand" die Sachlage in einer Fussnote
+nochmal klar, worum es ihm geht:
+
+   "...wird betont, dass ich die Variablen und die Quantifikationen
+    als Belege dafuer betrachte, was es den Aussagen einer Theorie
+    zufolge gibt, nicht als Belege fuer das, was es gibt."
+
+Daher werden Gegenstaende (es muessen hier noch nichtmal abstrakte sein)
+aufgrund der Funktion einer Sprache einer Theorie angenommen; sie muessen
+nicht wirklich (so) existieren. Es geht nur darum zu setzen, was sein soll.
+So werden auch Entitaeten angenommen, wenn man ueber Goetter auf dem Olymp
+spricht, die durch verschiedene Eigenschaften gekennzeichnet werden. Es
+geht also nicht darum, dass man sich irren koennte und angenommene Gegen-
+staende nicht existieren, sondern darum, dass man, wenn man eine Theorie
+ueber Gegenstaende aufstellt, sie auch annehmen muss.
+
+
+Man koennte sich ueberlegen, ob es nur an gewissen physischen Konstitutionen
+in unserem Gehirn liegt, dass diese Kategorien existieren. Dann waere hier
+alles auf physikalische Prozesse zurueckzufuehren. Die Gesamtheit dieser
+physikalischen Prozesse bildet dann genauso einen Gegenstand wie die Molekuele
+einen Zuckerwuerfel bilden. Kategorien wie Qualitaet waeren dann nur der
+Ausdruck neurophysiologischer Prozesse, deren Gesamtheit diese Kategorie
+bestimmt. Wieso sollte die Kategorie Qualitaet dann nicht sogar ein
+physikalischer Gegenstand sein? Immerhin ist es doch so, dass - um bei
+Deinem Beispiel zu bleiben -, wenn man mir den Kopf abreisst, es aus ist
+mit meinem Qualitaetsraum. Damit existiert Qualitaet in unserem Kopf als
+Kategorie nicht aber unabhaengig von diesem. Auch duerfen die Prozesse,
+die in unserem Gehirn ablaufen, nicht auf etwas Bestimmtes ausserhalb
+dessen gerichtet sein, sondern muessen eine dispositionale Form einnehmen
+koennen. So waere es erklaerbar, dass man sich hinsichtlich der Aussenwelt 
+in gewissen Dispositionen befinden /kann/, aber durch die Unbestimmtheit
+des Qualitaetsraumes (er ist nicht auf etwas spezielles gerichtet) zu
+Extrapolationen durch Analogie oder auch konzeptionellem Denken veranlasst 
+wird.
+Ich glaube, die Tatsache, die dazu fuehrt durch Extrapolation, Analogie
+und Abstraktion neue Objekte zu erschaffen, ist ein Zeichen dafuer, dass
+unser Gehirn nicht nur auf etwas speziell sinnliches gerichtet sein muss.
+Auch die Tatsache, dass wir faehig sind, formale Systeme aufzustellen und
+vom Inhalt abzusehen, drueckt dieses aus. Dass das Denken zu einem grossen
+Teil auch mit dem Umgang von sinnlich wahrnehmbaren Gegenstaenden konditio-
+niert wird, sagt ja nicht, dass es dann /nur/ diese Gegenstaende gaebe.
+Das Setzen neuer abstrakter Gegenstaende drueckt die unbestimmte Faehig-
+keit des Denkens aus, die vor der Konditionierung existieren muss.
+
+
+Es gibt hinsichtlich unserer sinnlichen Anschauung gewisse "Paradoxe",
+die sich aber eben auf diese Anschauung beziehen. Vielleicht ist es
+auch falsch das Auswahlaxiom anzunehmen. Aber man kann auf dem Stand-
+punkt stehen, dass, solange noch keine anderen Alternativen vorhanden
+sind, dieses Axiom doch in anderen Bereichen der Mathematik sehr nuetzlich
+ist. Das ist eine Vernunftsentscheidung.
+
+
+Jaja, ist schon recht. ;-)
+Mein Satz enthielt uebrigens auch Ironie.
+
+
+Aus meiner Sicht ist das schwer zu sagen. Heute habe ich gelesen, dass
+Kimel in einigen seiner Argumentationen ganz konsistent ein allwissendes
+Wesen einbaut. Und ausserdem ist es vielleicht ja auch so, dass unsere
+Sprache einfach nicht ausreicht "um das Uebernatuerliche auszudruecken".
+
+Aber um nochmal zu den ontologischen Verpflichtungen zurueckzukommen:
+Zehnpfennig sagt auch, dass man schon sorgsam mit Setzungen umgehen muss. Es
+ist ja nicht so, dass man Theorien einfach so aufstellt. Das ist doch
+immer an gewisse Gegebenheiten gebunden. Und selbst wenn man in einem
+tiefen Teil der Mengenlehre ueber neue Axiome spricht, dann ergeben sich
+diese Axiome aufgrund von Fragen, die sich aus einer Theorie ergeben.
+Das ist doch eigentlich ein ganz natuerlicher Vorgang, der ja auch in
+der physikalischen Welt durchgefuehrt wird. Wichtig ist doch nur, dass
+man dieses Werkzeug der abstrakten Gegenstaende, moegen sie nun konzeptual
+oder platonisch zu verstehen sein, nicht einfach negiert, ohne eine Alter-
+native zu haben.
+
+
+Gruss Udo
+--

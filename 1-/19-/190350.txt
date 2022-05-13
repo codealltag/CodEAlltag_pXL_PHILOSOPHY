@@ -1,0 +1,18 @@
+Woher weit du das? Wenn ich einen Computer von außen analysieren sollte,
+ohne zu wissen, wie er funktioniert, würde ich zuerst auch keine
+Symbolmanipulation feststellen können, sondern nur ein paar Millionen
+Transistoren, die Ströme hin- und herschicken.
+
+
+Was meinst du mit 'formale Struktur'? Wenn ich die Mechanismen meines
+Weckers in einer digital-Schaltung formal nachbilde, und noch einen 
+Piepser anschließe, dann habe ich einen funktionierenden Wecker.
+Mechanismen sind eben fast nie von dem Substrat abhängig, auf dem 
+sie implementiert sind.
+
+[...]
+
+Und ein Kontext besteht aus Fakten. Ich brauche also nur die Fakten zu
+einem Kontext verknüpft abspeichern.
+
+Claus

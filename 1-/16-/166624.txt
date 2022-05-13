@@ -1,0 +1,14 @@
+Niko Buhle <ougqkb.ifwaww@bkmjy.aag-nhbtm.hu>:
+: Def. 1:		M ist _unendlich_ :<=> Es gibt ein a aus M, so dass M 
+: 			und M\{a} bijektiv aufeinander abgebildet 
+: 			werden koennen.
+
+M = { }
+
+Der Fuchs ist schlau und stellt sich dumm, der Mathematiker macht es
+andersrum:
+
+  1. { } ist endlich.
+  2. Ist M endlich, so ist auch M + {a} endlich, wobei a ein beliebiges
+     Element ist.
+  3. Alle nicht endlichen Mengen heissen unendlich.

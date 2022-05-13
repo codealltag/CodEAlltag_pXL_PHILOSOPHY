@@ -1,0 +1,73 @@
+Ja, und es könnte sich genausogut um sehr richtigen Sprachgebrauch
+handeln.
+
+
+Es geht gar nicht darum, wie man eine Kopie zieht, sondern wie denn
+Leben wächst anhand der DNS.
+
+
+Wieso soll der Code in der DNS denn "universal" sein? In welcher
+Hinsicht soll er das sein? Es reicht doch, wenn damit das Wachstum von
+Leben funktioniert. Das kann auch mit anderen Codes funktionieren.
+
+Und das hat nicht mit dem Kopiervorgang zu tun, sondern mit der
+Funktion, wie DNS die Genese genau beeinflusst, funktional gesehen.
+
+
+Der Code wäre ja auch nicht das biochemische Material selber, sondern
+seine Anordnung. Ich weiss gar nicht, womit Du da ein Problem hast. Es
+ist doch auch kein prinzipielles Problem, mittels biochemischer Struktur
+erdachte Codes zu speichern. Ja, falls es möglich wird, Moleküle aus den
+vier Basen in beliebiger Reihenfolge selbst zu bauen, kann man damit
+mittels eigener Codes Informationen speichern und wieder ablesen (wird
+vermutlich grade keiner tun, weils nicht wirtschaftlich ist).
+
+Wodurch unterscheidet sich denn eine Basenanordnung prinzipiell durch,
+sagen wir mal, eine Elementarmagnetanordnung? Ich würde sagen: in der
+Hinsicht durch nichts.
+
+
+Die Idee ist, dass das eben genau über die /Funktion/ der Genese zu
+beantworten ist.
+
+Wenn Du glaubst, da wäre ein prinzipielles Problem dahingehend, dass
+kein Code sich selbst beschreiben könnte, hast Du Dich ja auch
+geschnitten. Treffernderweise nennt man solche Codes "Quines", und jetzt
+rat mal, wie sie zu ihrem Namen gekommen sind ;-)
+
+<https://uthatv.jisigedxm.vla/stjhgawzs/en/klig/Wbdht_%10vbbbyafim%57>
+
+
+Sie sind viel weniger berechtigt als Du denkst.
+
+Wer kommuniziert denn, und wo ist denn die Message, wenn aus meinem Text
+aus der internen Unicode-Darstellung meines Texteditors UTF-8 gemacht
+wird? Nehmen wir mal an, mein Texteditor verwendet die gängige
+JDI-Bibliothek, dann verwendet er primär UTF-16. Eine UTF-8-Darstellung
+errechnet er bei Bedarf daraus, ebenfalls im RAM. Wer liest nun Unicode
+aus UTF-16? Wer schreibt UTF-8? Die Maschine. Dieselbe ist allerdings
+keinesfalls eine Person, wie wir wissen. Noch schlimmer, sie ist
+Software, denn ich lasse meinen Texteditor vielleicht auf einer VM
+laufen. Natürlich ist das ganze in Hardware implementiert, letztlich,
+es wird durch einen geschickt angeordneten Brocken Materie in Form von
+physikalischen Objekten letztlich implementiert.
+
+Da kommuniziert nur die Maschine mit sich selber. Alle "Nachrichten"
+liegen immer nur in Form eines physikalischen Speichers vor, zu jedem
+Zeitpunkt, und das prinzipiell ein Speicher wie auch die Anordnung von
+vier Basen in einem Molekül ein Speicher ist.
+
+Der elektromagnetische Speicher, den mein Computer benutzt, ist sogar
+inzwischen im selben Grössenbereich wie die Basen der DNA. Allein, er
+ist technisch anders umgesetzt, aber keinesfalls gibt es einen
+prinzipiellen Unterschied.
+
+Und warum soll da eine vergleichbar funktionierende Anordnung von
+Materie in Form von einem Brocken Biochemie dasselbe nicht leisten
+können?
+
+Viele Grüsse,
+VB.
+-- 
+Wenn Du für eine Leistung nichts bezahlst,
+bist Du nicht der Kunde, sondern die Ware.

@@ -1,0 +1,109 @@
+In
+
+Ja.
+
+
+Die Hagenmann Mechanik ist deterministisch.
+
+Die Wahrscheinlichkeitsverteilungen kommen im einfachsten Fall über
+die Anfangsbedingungen rein:  Ein Zustand, der anfangs im sog.
+Quantengleichgewicht ist, bleibt immer drin.
+
+Etwas komplizierter wird es, wenn man es über Dekohärenz hineinbringt.
+
+Im Prinzip sind das aber dieselben Tricks, mit denen man auch aus der
+deterministischen klassischen Mechanik die Thermodynamik hinkriegt.
+
+Es gibt allerdings eine Variante mit einem stochastischen Element,
+die Nelsonsche Stochastik.
+
+ Man denke an eine Abfolge.
+
+Bei der Präparation.
+
+
+Dadurch dass man die Augenblicksmessung als Idealisierung eines Prozesses
+mit kleiner aber endlicher Zeitdauer versteht, und zusätzlich noch bemerkt
+dass
+(exakte) Impulsmessung auch nur eine Idealisierung ist.
+
+
+Schwer vorstellbar. Das Problem ist vor allem, wieso Wissenschaft in
+so einer Welt überhaupt funktionieren sollte.
+
+
+Unwahrscheinlich. Abgesehen davon, dass jede HV-Theorie ja auch
+ein Kandidat für die wahre Struktur ist, sehe ich mir natürlich auch die
+Struktur der Untermenge der überprüfbaren Voraussagen einer Theorie
+an.
+
+nicht
+ersetzt
+
+
+meine
+ist
+klassisch
+
+Gegen die Idee, den Realismus als eine Interpretationshilfe anzusehen,
+hätte ich gar nicht soviel einzuwenden.  Könntest du dich damit anfreunden,
+dasselbe zur klassischen Logik und Wahrscheinlichkeitstheorie zu sagen?
+
+
+auf
+
+Nein. Messergebnisse begründen gar nichts, wenn sie nicht interpretiert
+werden. Interpretation ist immer schon theorieabhängig.
+
+
+Nein. Sie lässt sich ja auch klassisch-realistisch interpretieren. ;-)
+
+mitzuschleifen.
+
+
+Ja.  Die Messung ist, wie gesagt, eine Wechselwirkung mit dem Zustand
+beschrieben durch eine Zweiteilchen-Schrödingergleichung. Sagen wir
+H = O1 d_x2  + H1 + H2
+wobei O1 der Operator für das erste Teilchen ist welches gemessen
+werden soll. Wenn es schnell genug geht, ist im Idealfall H1 und H2
+unwesentlich, also
+H = O1 d_x2
+
+Für den Eigenwert O1 psi1 = o1 psi1 ergibt dies die Gleichung für die
+Wellenfunktion
+des zweiten Teilchens o1 d_x2 phi(x), also eine Verschiebung.  Initialisiert
+sei das
+Ganze als Wellenpaket um p herum, daraus wird dann ein Wellenpaket um p+o1t.
+Entsprechend für den zweiten Eigenwert ein Wellenpaket um p+o2t.  Die
+Messung
+ist zuende wenn die beiden Wellenpakete sich nicht überschneiden.  Das
+Messergebnis
+ist die Position des zweiten Teilchens.  Für das weitere Verhalten des
+ersten Teilchens
+ist die Zwei-Teilchen-Wellenfunktion nur dort wichtig, wo das zweite
+Teilchen sich
+befindet, wegen der Leitgleichung
+d_t(x1,x2) = Leitgleichung von Psi(x1,x2).
+
+Befindet sich x2 also bei p+o1t, kann man den anderen Zweig der
+Wellenfunktion
+um p+o2t also ganz gut vergessen,
+Psi(x1,x2) = psi1(x1)*delta(p+o1t-x2)+psi2(x1)*delta(p+o2t-x2)
+~ psi1(x1)*delta(p+o1t-x2).
+Das ist die Reduktion des Wellenpakets als einfache Näherung für den
+relevanten Teil der Wellenfunktion.  Die "Näherung" ist zwar im eigentlichen
+Sinn keine Näherung, sie nähert nur den für die weitere Evolution wichtigen
+Teil an.
+Es sei denn, in irgendeiner Zukunft kommen sich beide Pakete noch einmal in
+die Quere. Dann taugt die Näherung nichts mehr. Aber dann darf man ja auch
+die Wellenfunktion nicht reduzieren.
+
+Wohlgemerkt, das erste Teilchen selbst hat keine Eigenschaft, die sich
+mit O beschreiben lässt, sondern lediglich eine Position x1.  O ist eine
+Eigenschaft der Wellenfunktion. Obwohl die Position von x1 einen
+Einfluss darauf hat, wohin sich das zweite Teilchen bewegt.
+
+
+Erlernbar ist sie. Und direkt erfahrbar ist sowieso nichts.
+
+Didier

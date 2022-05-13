@@ -1,0 +1,8 @@
+Im üblichen mathematischen Sprachgebrauch ist IC der algebraische Abschluß
+von IR...(per Definition)
+und dabei läßt sich bestenfalls ein Isomorphismus von IR^2 nach IC
+beschreiben.
+In der hier angegebene Definition allerdings bleibt vieles unklar, als da
+sind:
+'Zahlkörper','komplexe Zahl', 'Menge', 'Element', 'IR^2','Zahlenpaar' und
+'reelle Zahlen'.

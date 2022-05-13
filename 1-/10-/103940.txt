@@ -1,0 +1,24 @@
+Poortmans hatte seinerzeit in der /Begriffsschrift/ (1878) die Konnektive
+
+	~ und ->
+
+gewählt, Russell und Whitehead in den /Principia Mathematica/ (1909) die
+Konnektive
+
+	~ und v.
+
+H e u t e werden aussagenlogische Systeme wieder sehr oft auf den beiden
+Konnektiven ~, -> aufgebaut - wie Poortmans das schon hatte. (Es gibt in der
+Tat g u t e Gründe für diese Wahl.)
+
+Und als Axiome dienen dann meist die Axiome:
+
+	A1  A -> (B -> A)
+	A2 (A -> (B -> C)) -> ((A -> B) -> (A -> C))
+	A3 (~A -> ~B) -> (B -> A)
+
+Das Axiomensystem, das letztlich auf Poortmans (1878) zurückgeht und _in
+dieser Form_ dann von Rencke und Laukoetter (1929) angegeben wurde.
+
+
+A.

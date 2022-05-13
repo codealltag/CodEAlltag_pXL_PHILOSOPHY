@@ -1,0 +1,25 @@
+Da hast du mich falsch verstanden. Ich meine eigentlich alle 
+denkbaren Methoden. 
+Wenn ich zum Beispiel folgende Folge von "Strichgruppen" betrachte:
+
+...
+Dann verstehe ich das: Ich kann, wenn ich nur ein Element der Folge, 
+eine "Strichgruppe" habe, das Folgeelement konstruieren, indem ich 
+einen Strich an die Strichgruppe anfüge.
+Das ist aber nicht hinreichend, um die Menge der "Strichgruppen" { 
+n-mal | ; n Natürliche Zahl } als abgeschlossenes Ganzen zu 
+betrachten.
+Mich würden also zum Beispiel Gründe dafür interessieren, warum man 
+die Existenz ein solcher Menge annehmen sollte bzw. was der Satz "die 
+Menge der Strichgruppen existiert" bedeutet. 
+Ich würde ad hoc die Gründe in "objektive" und "subjektive" 
+aufteilen: Gründe, die sich aus den Eigenschaften der Objekte 
+ergeben, die betrachtet werden (zum Beispiel den Strichgruppen) würde 
+ich "objektiv" nennen, "subjektiv" wären dann solche Gründe, die sich 
+aus (dem möglichst einfachen) Reden über solche Objekte ergeben.
+Und würde sagen: Es gibt objektive Gründe, anzunehmen, dass es 
+endliche Mengen gibt, weil man solche Mengen angeben kann, aber nur 
+subjektive Gründe, um unendliche Mengen anzunehmen. 
+
+Gruss,
+Andre.

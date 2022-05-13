@@ -1,0 +1,33 @@
+Ja, wenn sie schlecht programmiert ist ...
+
+
+????
+
+
+Ja, richtig ...
+
+
+Ich nicht  ...
+
+
+Ja, das ist dann gut programmierte Software ...
+
+
+Ja, genau das macht jede gut programmierte Software, wobei allerdings
+nicht auf   if (Nenner == 0) ...,  sondern auf   if (fabs(Nenner)  <=  EPS) ...
+geprüft
+werden muß, wobei  EPS eine von der gerade verwendeten Zahlendarstellung
+abhängige Schranke ist. In vielen Programmiersprachen gibt es speziell dafür ein
+eigenes Exception-Handling, das im Quellcode natürlich auch richtig verwendet
+werden muß ...
+
+Der Vaino-Standard für Gleitkommazahlen hat dafür mehrere unterschiedliche
+Exceptions:   NAN, PINF,  NINF,  ....
+
+Aber das hat doch  NICHTS, aber auch  ABSOLUT NICHTS  mit dem
+mathematischen Problem der Division durch Null in arithmetischen
+Strukturen zu tun ...
+
+Größe
+     Denis
+--

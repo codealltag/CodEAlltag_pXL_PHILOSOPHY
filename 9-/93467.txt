@@ -1,0 +1,10 @@
+Valerian Jupe schrieb
+
+
+Nein, zumindest in der wichtigsten Sprache C(++) bedeuten
+
+ &a = Adresse der Speicherzelle a (Adressoperator)
+
+ *a = Inhalt der Speicherzelle a (Dereferenzierungsoperator)
+
+--

@@ -1,0 +1,24 @@
+Es findet kein Übergang statt, denn reelle Zahlen SIND konvergente 
+Folgen von Rationalen Zahlen. Man definiert reelle Zahlen heute über 
+einen bestimmten Grenzwertbegriff: Cauchysche Konvergenzkriterium. 
+Zwei Cauchyfolgen sind dann Äquivalent, wenn die Differenzenfolge 
+gegen Null konvergiert. Reelle Zahlen sind Äquivalenzklassen von 
+solchen Folgen.
+Deshalb ist die Frage, wie der Übergang "stattfindet" leicht zu 
+beantworten: nämlich gar nicht: Die Zahlen gehören derselben 
+Äquivalenzklasse an: 0.99Periode ist nur eine andere Schreibweise für 
+die reelle Zahl 1.
+Die Frage die hier noch bleibt, ist wie sich die 1 als Folge von 
+rationalen Zahlen auffassen läßt, oder präziser: wie sich die ganzen 
+oder reellen Zahlen in die reelle Zahlen einbetten lassen:
+Man kann die 1, als rationale Zahl schreiben: 1 / 1, eine rationale 
+Zahl r, kann man als Folge von rationalen Zahlen schreiben: rn = r 
+für n = 1, 2, 3, ....., die offensichtlich konvergiert.
+Damit ist deiner Frage dieser mystizistische Beiklang entzogen: es 
+gibt hier keinen "Übergang", der irgendwie im Unendlichen 
+stattfindet. "Diese" Fragen sind von der Mathematik geklärt worden.
+ (Näheres zum Begriff der reellen Zahl, oder den Zahlen überhaupt 
+kannst du in dem Band Zahlen, SI-MA Verlag finden).
+
+Gruß,
+Ulfert.

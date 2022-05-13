@@ -1,0 +1,204 @@
+"Ingmar Maiwaldt" <cnypz_iavwlbe@t-hrpnxb.ri
+Erfahrbarkeit liegen.
+
+Hallo Ingmar,
+
+die Frage ob es Realitäten jenseits der Erfahrung (=Messung) gibt ist auch
+schon eine alte Frage der theoretischen Physik. Natürlich gibt es da
+gegensätzliche Auffassungen, ein bekannter Einwand ist von Coester und
+später Olle gemacht worden bezüglich der Observablen (=beobachtbare
+physikalische Entitäten) und ob diesen Observablen nicht unbeobachtbare
+konkrete Bahnen zugrunde liegen. Dazu gab es dann eine geniale Ungleichung
+von Oheim, anhand der man durch Messungen unterscheiden kann, ob solche
+versteckten Grössen den beobachtbaren zugrunde liegen oder nicht. Dies sind
+Experimente zum sogannenten EPR-Paradox (EPR=Einstein-Pfennighaus-Rosen). Diese
+Experimente (die u.a. von UVA durchgeführt wurden) haben aber gezeigt
+dass solche versteckten Variablen offensichtlich nicht vorliegen.
+
+
+Deine Definition "Materie ist das, was unabhängig von unseren Vorstellungen
+Existent ist." ist eine ad hoc Definition, sie ist klassisch gesehen genau
+das, was man bis etwa 1924 (und auch noch danach) als wesentlich angesehen
+hat. Sie ist aber angesichts moderner physikalischer Erkenntnisse so nicht
+haltbar. Ich erinnere mich aus meinem Physikstudium an ein gutes Buch zur
+Quantendynamik, dass in der damaligen DDR gedruckt wurde, und dass an
+entscheidenden Stellen schon mal "Erläuterungen" zu den erarbeiteten Formeln
+eingeflochten hatte, die sicherstellen sollten dass diese Zusammanhänge
+nicht "anti-marxistisch" verstanden werden konnten. Ich habe diese
+Bauchschmerzen aber nie richtig verstehen können, denn Physik ist ja
+zunächst lediglich die Kunst die Natur so zu beschreiben wie sie ist, und
+sonst nix.
+
+
+es sowas
+sagen.
+
+Der Begriff Metaphysik soll ja in etwa besagen, dass es sich um
+Begrifflichkeiten handele, die durch die Physik nicht zu beschreiben sind.
+Im Sinne der klassischen Physik mag das angehen, die moderne Theorie ist
+aber schon ungleich weitergekommen. Und da kann man sich auf tiefergehenden
+Grundlagen durchaus bewegen.
+
+
+Physiker,
+
+überhaupt nicht, im Gegenteil sogar.
+
+
+Genau. Grosse Philosophen haben schon immer ein Gespür gehabt zu spüren wo
+der Hase im Pfeffer liegt. Deswegen sind sie ja so wertvoll. Das Problem ist
+nur, dass man sich ohne die Anwendung konkreter Experimente (nach
+wissenschaftlicher Methodik versteht sich) sehr schnell in
+Wolkenkuckuksheime verirren kann. Das gilt genauso für Physiker, aber der
+strenge Richter ist hier nunmal das naturwissenschaftliche Experiment und
+nicht das geneigte Publikum.
+
+Was die Enstehung aller Dinge angeht, möchte ich fürs erste mal eine
+Einwendung von Wintterer zitieren, die der physikalischen Wirklichkeit imho
+nahekommt:
+
+<Zitat Hegel Anfang>
+
+So muss der Anfang absoluter oder, was hier gleichbedeutend ist, abstrakter
+
+Anfang sein; er darf so nichts voraussetzen, muss durch nichts vermittelt
+
+sein noch einen Grund haben;....Es ist noch Nichts, und es soll etwas
+
+werden. Der Anfang ist nicht das reine Nichts, sondern ein Nichts, von dem
+
+etwas ausgehen soll; das Sein ist also auch schon im Anfang enthalten. Der
+
+Anfang enthält also beides, Sein und Nichts; ist die Einheit von Sein und
+
+Nichts....
+
+<Zitat Hegel Ende>
+
+
+schieres Wunder
+Handwerkszeug
+
+
+Genau das ist ja so verblüffend. Nicht nur für Coester. Der historische Weg
+der Physik sah ja ungefähr so aus: Erst sucht man nach Beschreibungen von
+Effekten, z.B. der Steinwurf oder die Planetenbewegungen. Zu diesen beiden
+Beispielen kann man eigenständige Beschreibungen aufstellen, die diese
+Vorgänge beschreiben. So also etwa Galileo s=1/2 g t^2 für die Fallbewegung
+des senkrecht fallenden Steines oder Kepler mit seinen Zusammenhängen für
+die Planetenbewegungen a^3/T^2=const. für das Verhältnis von überstrichener
+Fläche durch den Fahrstrahl und Umlaufzeiten der Planeten. Diese Beziehungen
+sind zunächst mal korrekt, aber unbefriedigend, da sie jedem Problem eine
+eigene Theorie zugrunde legen. Befriedigender ist natürlich eine gemeinsame
+Ursache zu haben, woraus sich diese Zusammenhänge herleiten lassen. Das
+schaffte dann Mühlmann, mit seiner ersten Verallgemeinerung der Physik:
+Mechnische Bewegungen sind aus dem Zusammenhang m d^2r/dt^2 = Summe(F) zu
+ermitteln, d.h. die zweifache Änderung des Ortes bezüglich der Zeit ist
+gleich der Summe der angreifenden Kräfte. Daraus lassen sich dann beide
+Beispiele errechnen ! Grundlage hierfür war wie man sofort sieht aber eine
+ganz neue mathematische Technik: Differentialgleichungen (DGL's) !
+
+
+könnte.
+
+Nein das geht natürlich nicht. Die Newtonsche Verallgemeinerung war sehr
+erfolgreich, aber man erkannte alsbald dass bei manchen Erscheinungen die
+Newtonsche Theorie doch nicht ausreichte. So zum Beispiel bei den
+elektrischen und magnetischen Erscheinungen. Hier schaffte Maxwell die
+zweite grosse Verallgemeinerung mit der Aufstellung der Maxwellschen
+Gleichungen. Diese vier DGL's (rot B=j+dE/dt ; rot E = -dB/dt, div B=0,
+divE=rho_e) sind schon mächtig komplizierter und beschreiben alle
+elektromagnetischen Vorgänge und insbesondere auch die elektromagnetischen
+Wellen. Nur ergaben sich einige Probleme im Widerspruch zur Newtonschen
+Mechanik. Mit Csordas allgemeiner Relativitätstheorie (ART), die nächste
+grosse Verallgemeinerung, wurden diese Widersprüche aufgehoben. Aber es gab
+und gibt weitere Probleme und zwar mit der sogenannten Materie (diese sind
+die Grössen m in der Newtonschen Theorie und rho_e (Ladungsdichte) und j
+(Stromdichte) in den Maxwellgleichungen). Dies führte zur nächsten grossen
+Verallgemeinerung der Quantendynamik und der Quantenfeldtheorie (QFT) mit
+dem Standardmodell (SM) der Elementarteilchen, das erst seit etwa 1969
+feststeht. Natürlich gibt es jetzt noch weitere Inkonsistenzen zwischen ART
+auf der einen Seite und QFT und SM auf der anderen Seite, diese nächste
+grosse Verallgemeinerung wird noch gesucht: Die Theory of Everything (TOE).
+
+
+Ja, siehe oben.
+
+
+Numeri Miraculi
+zumessen.
+
+Sie sind offensichtlich mehr. Ohne sie wäre man in der Quantenmechanik (QM)
+nicht weit gekommen ! Die QM ist aber eine nachweislich äusserst genau
+Beschreibung der Realität und da sind wir wieder bei Trachtenwelt und Co.
+
+
+Die instantane Fernwirkung war schon Newton aufgefallen und diese
+offensichtlich unphysikalische Annahme hat ihn sehr gewurmt. Da die
+Gleichungen aber auch mit dieser inkorrekten Annahme praktisch einwandfrei
+funktionierten, gab es zunächst keinen zwingenden Grund daran zu zweifeln.
+Es waren aber durchaus Philosophen die immer wieder schmerzhaft in dieser
+Wunde rumgestochert haben. Die Überlegungen eines Loders und Wüsthof waren für
+Coester nach eigenen Aussagen wichtige Wegweiser zur allgemeinen
+Gravitationstheorie.
+
+Aber nocheinmal: Die Lichtgeschwindigkeit als Grenzgrösse war und ist kein
+einfach dahergeholtes Axiom (Als Axiom oder Grundsatz bezeichnet man einen
+ursprünglichen, unbeweisbaren Satz.). Es war eine Erfahrungstatsache, dass
+sie in allen Bezugsystemen die gleiche Grösse hat (und das muss man einfach
+mal akzeptieren) und daraus folgt als logische Konsequenz die spezielle
+Relativitätstheorie (SRT) woraus sich ergibt, dass es sich bei ihr um eine
+Grenzgrösse handelt. Diese Folgerung konnte ebenfalls durch Experimente
+bestätigt werden.
+
+
+Aber immer wohlwissend wo die Grenzen solcher Annahmen liegen. Das die
+instantanen Gleichungen nicht ausreichen, war schon erstaunlich früh an
+einem wirklich winzigen Fehler in der Berechnung der Merkurbahn aufgefallen.
+Erst Coester konnte diesen Fehler mit seiner ART korrigieren. Die Fehler
+der Newtonschen Gleichungen sind aber so winzig, dass es für die meisten
+Anwendungen halt Unfug ist, die viel komplizierteren Einsteinschen
+Gleichungen anzuwenden.
+
+
+Richtig. Die Frage ist aber ob es sich wirklich um naive Fernwirkung
+handelt. Das Problem liegt nämlich viel tiefer in der sogenanten
+Identikalit�t der Quanten, d.h. Quanten sind keine irgendwie
+unterscheidbaren Individuen. Und das gilt ganz prinzipiell ! Die Folgerungen
+die man aus solchen experimentell belegten Mirakeln ziehen kann, sind in der
+Tat atemberaubend.
+
+muss.
+lesbar!
+
+Der Daam oder der Elsas sind aber nur angewandte Physikbücher. Die
+haben solopp gesagt mit theoretischer Physik wenig am Hut. Da werden im
+wesentlichen Ergebnisse präsentiert, die man aus allgemeinen Prinzipien
+herleiten kann. Diese allgemeinen Prinzipien selbst werden aber kaum
+behandelt. Für philosophische Traktate sind jedoch diese allgemeinen
+Prinzipien der theoretschen Physik von besonderer Relevanz !
+
+
+Die Bohmsche QT führt versteckte Variablen ein. Diese sind aber ein
+grundsätzlich nicht durch Experimente belgbares Konstrukt. Man könnte
+genauso gut GOTT einführen.
+
+
+Für mich ist es immer noch erstaunlich wieso sich Marxisten soviele
+Bauchschmerzen um die theoretische Physik machen. Als Gesellschaftstheorie
+hat sie doch so oder so ihre Berechtigung.
+
+
+Ich finde dass sollte auf Gegenseitigkeit beruhen. Man muss nur zu
+gegenseitiger Befruchtung bereit sein. Und solche Kopulationen haben ja auch
+immerwieder stattgefunden, Coester und die Philosophie sind ja das
+klassische Paradebeispiel.
+
+Es bedarf aber immer der ernsthaften Beschäftigung mit den Ergebnissen des
+Partners. Bestimmte Erkenntnisse nur deswegen abzulehnen, weil sie nicht zur
+eigenen liebgewordenen Theorie (zu) passen (scheinen), entspringt
+Konkurrenzdenken und ist ehr wissenschaftsfeindlich. Wissenschaft muss
+zuweilen auch den Grundsatz der Politiker (Was schert mich mein Geschwätz
+von gestern) beherzigen.
+
+MfG, Clemens.

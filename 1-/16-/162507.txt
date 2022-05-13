@@ -1,0 +1,26 @@
+*lol* Ck(k) gibt es sehr wohl (Du musst nur nachsehen, wie Ck(k) zustande
+kam). Es ist die zu überprüfende Berechnung, ob sie nicht anhält und A das
+angenommene Verfahren, dass, wenn es anhält zeigt, dass Ck(k) nicht anhält.
+Da aber A zu Ak(k) wird und Ak(k) = Ck(k) (wieder nachsehen wie Ak(k)
+zustande kam), kann es kein A geben, dass mir durch anhalten signalisiert,
+dass Ck(k) nicht anhält.
+
+
+.......?
+
+
+Vergiss mal Dein Halteproblem. Das hier ist Gödels Satz auf das Halteproblem
+angewendet. Jeder einzelne Schritt ist korrekt. A endet in diesen Fall
+nicht. Somit kann uns A nichts darüber sagen, ob eine Berechnung Ck(k) nicht
+anhält.
+Du schliesst daraus, dass A nicht anhält, auf die Nichtexistenz von A.
+Nonsens. A gerät mit der Berechnung Ck(n) in eine Endlosschleife, woraus
+sich Ck(k) = Ak(k) ergibt.
+
+
+Ich studiere u.a. Theoretische Informatik im Rahmen eines meines Cognitive
+Science Studiums.
+
+DAU
+
+Ernest Impler

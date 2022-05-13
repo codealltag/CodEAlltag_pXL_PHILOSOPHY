@@ -1,0 +1,14 @@
+Ist bis zu einem gewissen Grad eine Definitionsfrage.
+Es gibt Leute, die vertreten die Ansicht,
+dass natuerliche Zahlen keine Teilmenge der reellen Zahlen sind;
+es gibt allerdings eine Teilmenge der reellen Zahlen,
+die zu den natuerlichen Zahlen isomorph ist.
+
+In diesem Sinne ist dann 0,9999... jene reelle Zahl,
+die bei diesem Isomorphismus auf die natuerliche Zahl 1 abgebildet wird.
+
+Praktisch macht das nicht viel Unterschied,
+aber wenn Du z.B. reelle Zahlen als Dedekind-Schnitte definierst
+etc. ist diese Unterscheidung hilfreich.
+
+Eugen

@@ -1,0 +1,68 @@
+Nicht jeder gesagte Satz ist ein Aussagesatz, aber jeder
+Aussagesatz--und das ist "Pascal war ein Held" zweifellos--ist ein
+aussagender Satz.
+Er sagt etwas aus *de dicto*, aber nicht *de re*, d.h. er sagt nichts
+*von* etwas Existentem aus.
+
+
+"Pascal war ein Held" ist sowohl formal als auch inhaltlich ein
+vollwertiger Aussagesatz.
+Hingegen wäre z.B. "Imkamp war ein Vienenkötter." nur formal ein Aussagesatz,
+da weder der singuläre Terminus "Imkamp" noch das Prädikat "Vienenkötter"
+inhaltlich bestimmt sind.
+Was einen Satz zu einer vollwertigen Aussage macht, hat nichts mit der
+Frage der Referenz der darin vorkommenden singulären Termini zu tun!
+
+So ist z.B. "Deutsche Flugzeugträger existieren nicht" eine
+vollwertige Aussage, die natürlich nichts *über* deutsche
+Flugzeugträger aussagt, was ihren Status als Aussage aber nicht
+tangiert.
+
+Die Semantik eines Satzes ist in intensionaler Hinsicht unabhängig von
+irgendwelchen Referenten!
+
+
+So fasse ich sie auf!
+
+
+Ganz recht!
+Wenn "a*" ein leerer Name ist, dann sind sowohl "Fa*" als auch
+"(~F)a*" falsch:
+
+Allgemein gilt ja in der ETG:
+
+Fa v (~F)a . ->. Ex(x=a)
+~Ex(x=a) .->. ~(Fa) & ~((~F)a)
+
+Und:
+
+(Fa v ~(Fa)) -> [Ex(x=a) v ~Ex(x=a)]
+
+
+Ich sage, beide sind falsch!
+
+
+In der ETG, der ich anhänge, wären "(~H)o" und "~(Ho)" nur dann
+Äquivalent, wenn "o" einen Referenten hätte!
+
+Allgemein gilt/soll gelten:
+
+[~(Fa) <-> (~F)a] -> E!a
+
+[Fa <-> ~((~F)a)] -> E!a
+
+Und:
+
+~E!a -> ~(Fa v (~F)a)
+
+~E!a -> [~(Fa) & ~((~F)a)]
+
+
+Ja.
+
+
+Die BELL, mir ihrem Schmarrn, dass z.B. "Pumuckl = Pumuckl" wahr wäre,
+ist unter den Rädern der Kritik gut aufgehoben! :-()
+
+Gruss
+URS

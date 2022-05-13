@@ -1,0 +1,30 @@
+Richtig gesehen.
+Gemäss der allgemeinen Bestimmung sind weder "Einhorn" noch
+"Weissheit" Eigennamen oder Kennzeichnungen, sondern Begriffe, welche
+sich nicht auf Einzelgegenstände, sondern auf Mengen beziehen.
+
+
+Richtig.
+[Was wahr ist, ist natürlich der gesamte Satz "(Ihno ist ein Einhorn)
+-> (Ex)(x ist ein Einhorn)", denn das Antecedens "Ihno ist ein
+Einhorn" ist natürlich falsch, da es keine Einhörner gibt!]
+
+Das prädikatenlogische Axiom der existenziellen Generalisierung lautet
+wir folgt:
+
+Fa -> (Ex)Fx
+
+Beispiel:
+
+(Einhorn)Ihno -> (Ex)(Einhorn)x
+
+Wenn Ihno ein Einhorn ist, dann gibt es etwas, das ein Einhorn ist.
+
+Entsprechend gilt:
+
+(~F)a -> (Ex)(~F)x
+
+Wenn Ihno kein Einhorn ist, dann gibt es etwas, das kein Einhorn ist.
+
+Gruss
+AXEL

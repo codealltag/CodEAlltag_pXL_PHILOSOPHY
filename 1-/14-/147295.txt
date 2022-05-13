@@ -1,0 +1,42 @@
+Moin Ben,
+
+
+das kommt darauf an, was Du unter einem "abgeschlossenen Ganzen" 
+verstehst. Wenn Du meinst, Du müsstest "hinter" alle Striche greifen 
+können, um diese Menge als abgeschlossen zu bezeichnen, dann geht das 
+nicht, jedenfalls nicht, ohne jene "Menge" zu beugen.
+
+Es wird doch immer so gerne Archilles und die Schildkröte genannt (die 
+Story spar ich mir). In diesem Beispiel kann man die Menge der Messungen 
+betrachten, die sicherlich unendlich ist.
+
+   s0 = Vorsprung der Schildkröte
+   s1 = s0 + d0 = Die von der Schildkröte zurückgelegte Strecke,
+                  wenn Archilles s0 erreicht hat.
+   s2 = s1 + d1 = Die von der Schildkröte zurückgelegte Strecke,
+                  wenn Archilles s1 erreicht hat.
+                  .
+                  .
+                  .
+   s(n+1) = sn + dn = Die von der Schildkröte zurückgelegte Strecke,
+                  wenn Archilles sn erreicht hat.
+
+Dennoch überholt Archilles die Schildkröte jenseits aller (unendlichen) 
+Messungen zu einem Zeitpunkt t, was einem "Abschluss" gleich käme.
+
+
+Gründe?
+
+Wenn dich die Naturwissenschaften interessieren, machst Du dir das Leben 
+unnötig schwer, würdest Du unendliche Mengen ablehnen. ;)
+
+Einige Leute haben Megathreads erzeugt, als sie nicht die Unenlichkeit 
+an sich, sondern elementare Eigenschaften unendlicher Mengen 
+ablehn(t)en. Das ist gar nicht so lange her.
+
+
+Tusche dich nicht. Für die meisten endlichen Mengen (unendlich viele 
+von denen) kannst Du ebenfalls nur subjektive Gründe angeben, weil sie 
+viel zu groß sind, als dass man sie beschreiben könnte.
+
+Oliver

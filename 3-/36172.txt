@@ -1,0 +1,70 @@
+Mathe IST eine Sprache. Sonst nichts.
+
+
+Das glaubst du doch selbst nicht, nochmal... 
+
+Die sprachliche Formulierung der üblichen Logik ist die 
+Anwendung einiger Schlussregeln auf Funktionswerte der 
+verwendeten zweiwertigen Logik, die zweiwertig deshalb 
+ist, weil der Wert deren AUSSAGEN genau zwei einander 
+ausschliessende (Wahrheits-) Werte {wahr, falsch} annimmt. 
+
+Diese Aussagen werden verknüpft durch wenige elementare 
+Operatoren: NICHT (!w=f,!f=w), UND (wuw=w,wuf=f,fuf=f,fuf=f), 
+ODER (wow=w,wof=w,fof=wf0f=f). 
+
+Bildet man Schlussfolgerungen (wenn x dann y) so benutzt man 
+die Regel, dass ausschliesslich w -> w (i.e."wahr folgt wahr"), 
+umgekehrt ex falso quodlibet, f -> ? (nicht ableitbar). Hier noch 
+Beispiele für deinen obigen "Zusammenhang von Logik und Sprache": 
+
+'Gott ist als Begriff allgemein bekannt.' = w
+'Das Höhlengleichnis ist nützlich.'       = f 
+
+'9 ist durch 3 teilbar'  = w 
+'9 ist eine Quadratzahl' = w
+
+Nicht('9 ist durch 3 teilbar') = f
+
+'9 ist durch 3 teilbar UND 9 ist eine Quadratzahl' = w
+'9 ist durch 3 teilbar UND 9 ist NICHT eine Quadratzahl' = f 
+
+'WENN alle Frauen Männer wären DANN wären alle Frauen Männer' = w 
+
+'WENN Gott allmächtig ist DANN ist er GUT' = PHILOSOPHISCHE SCHEISSE
+
+'WENN es "eine absolute Wahrheit" gibt DANN nützt das der Welt irgendwas 
+ und vielleicht fällt dann ein Sack REIS um' = PHILOSOPHISCHE SCHEISSE 
+
+Und hier noch einige Beispiele, die BESONDERE Worte der Philosophie 
+in Zusammenhang mit der Prädikatenlogik IN DER SPRACHE spielen, das 
+sind die philosophischen Jokersubstanzbegriffe: 
+
+'VIELLEICHT hat Günter schon mal was nützliches gemacht' = w 
+
+VIELLEICHT ist Günter nur durchschnittlich intelligent' = w
+
+'WAHRSCHEINLICH ist Günter ein MIESER Charakter, 
+der meine Krankheitssymptome lächerlich macht' = w 
+
+
+usw. 
+
+
+Ja, ich verwendete ihn als Zitat deines dümmlichen-affigen Gefasels. 
+
+
+Nein, ich weiss nicht, was in all den totalverbl�dete Philosophie- 
+Märchenbüchern steht, aber ich weiss aus Sicht der QFT was für mich 
+alles sinnvoll als Substanz aufgefasst werden kann, wobei solche 
+Worte und Begriffe TOTAL nebensächlich sind, weil man in der 
+Wissenschaft eben nicht sprachlich, sondern mathematisch definiert.
+
+Es ist mir scheiss egal, in welchem "Verhältnis" "DER Substanzbegriff"
+zu deinen Elementen Erde, Wasser, Luft, Feuer, heilige Quintessenz 
+traditionell in deinen uralten Märchenbüchern "erkannt und verhandelt"
+wurde, aber ich weiss, was aus heutiger Sicht für mich alles als das 
+was die damals bestenfalls meinen konnten (per Standardmodell und QFT) 
+in Frage kommt, und zwar einheitlich und in Übereinstimmung mit möglichst 
+allen empirischen Befunden inkl. denen der Antike, denn auch damals haben 
+Kühe Muh gemacht und in der Sonne brannte die Wasserstoff-Fusion.

@@ -1,0 +1,127 @@
+Diedrich Lerchenberger schrieb am 4. Dez. 2001 03:46 h:
+
+
+Ich zeige es am Beispiel von Pot(N). Zuvor eine Klarstellung:
+Jede Zahl k aus N ist eine (einelementige) Teilmenge von N und
+daher Element von Pot(N). Die Menge dieser Teilmengen ist N.
+Da N auch selbst ein Element von Pot(N) ist, ist N sowohl Element
+als auch Teilmenge von Pot(N). Diskrepanzen koennte es wegen
+der Schreibweise geben. Es scheint keine einheitliche Meinung
+darueber zu geben, ob die Zahl k als Element von Pot(N) als
+k oder, obwohl k bereits als Menge definiert ist, als {k} zu
+schreiben ist. Das gleiche gilt fuer N oder {N} als Element
+von Pot(N). Wenn sich jemand damit zuverlaessig (bitte nur dann)
+auskennt, waere es schoen, wenn er dies einmal posten wuerde
+(moeglichst mit Begruendung). Ich verzichte nachfolgend auf
+die zusaetzlichen Klammern. Ich hoffe, dass das nicht zu
+Missverstaendnissen fuehrt.
+
+Pot(N) ist die Vereinigungsmenge von abzaehlbar vielen Teilmengen T_k,
+die folgendermassen definiert sind.
+T_0 := {{}, N}   T_0 ist die einzige endliche Teilmenge, sie enthaelt
+                 zwei Elemente: die leere Menge und N.
+T_1 := {1, 2, 3, ..., N\1, N\2, N\3, ...}  T_1 ist die Vereinigung
+       aller einelementigen Teilmengen von N und von deren
+       Komplementaermengen.
+T_2 := {x = {i,j} | i,j aus N und i=/=j; N\x}   T_2 ist die Vereinigung
+       aller zweielementigen Teilmengen von N und deren Komplementaer-
+       mengen. Die Menge der Komplementaermengen ist jeweils gleich-
+       maechtig wie die Menge der Teilmengen, aus denen sie entstehen.
+       Die Menge der zweielementigen Teilmengen von N hat die gleiche
+       Maechtigkeit wie N x N (sie enthaelt allerdings nicht alle
+       Elemente von N x N) und ist daher abzaehlbar.
+T_3 := {x = {i,j,k} | i,j,k aus N und i=/=j, i=/=k, j=/=k; N\x}
+       T_3 ist die Vereinigung aller dreielementigen Teilmengen von N
+       und deren Komplementaermengen. Die Menge der dreielementigen
+       Teilmengen von N hat die gleiche Maechtigkeit wie das kartesische
+       Produnkt aus N und den zweielementigen Teilmengen von N und ist
+       daher abzaehlbar.
+...
+T_k := Vereinigung aller k-elementigen Teilmengen von N und deren
+       Komplementaermengen. Die Menge der k-elementigen Teilmengen
+       von N hat die gleiche Maechtigkeit wie das kartesische Produkt
+       aus N und den (k-1)-elementigen Teilmengen von N und ist daher
+       abzaehlbar.
+
+Die Vereinigungsmenge V aller T_k enthaelt alle Teilmengen von N und
+ist daher identisch mit Pot(N). Da die Menge aller  T_k abzaehlbar ist
+und auch alle T_k abzaehlbar sind, ist Pot(N) abzaehlbar.
+
+Anm.: Die Beruecksichtigung der Komplementaermengen in den T_k ist
+eigentlich ueberfluessig. Da sie in einer frueheren Diskussion (aus
+ungeklaerten Gruenden) vermisst wurden, habe ich sie einbezogen.
+In V sind totzdem wegen des Extensionalitaetsaxioms keine Teilmengen
+doppelt vorhanden.
+
+
+Der Nachfolger von (...000011101) ist ...7762635086
+Der Nachfolger von (...000011011) ist ...4806271413
+und dessen Nachfolger ist             ...9013649684
+Das erste Element ist 0.
+
+Du hast mein posting, in dem ich die Folge F definiert habe,
+offensichtlich immer noch nicht gelesen. F ist definiert als
+        0
+        1
+      0 1
+      1 0
+      1 1
+    1 0 0
+    1 0 1
+   ...
+
+
+Wenn du meine Aussagen unter den richtigen Voraussetzungen
+ueberpruefst, wirst du ihren Sinn vielleicht verstehen.
+
+
+Hier also nochmal etwas ausfuehrlicher die urspruenglich gemeinte
+Abbildung. (Ich hatte sie nur angedeutet, weil das schon diskutiert
+wurde und ich keine neue Diskussion sondern nur zusammenfassend auf
+meine frueheren Ausfuehrungen hinweisen wollte.)
+
+D = {2^0, 2^1, 2^2, 2^3, ...} ist die Menge der Zweierpotenzen.
+Pot(D) enthaelt alle Teilmengen von D, also die leere Menge,
+die Zweierpotenzen selbst und die Mengen {2^0, 2^1}, {2^0, 2^2},
+{2^0, 2^1, 2^2}, ..., also alle Kombinationsmoeglichkeiten von
+verschiedenen Zweierpotenzen. Dazu gehoert insbesondere auch die
+Menge D aller Zweierpotenzen.
+
+Eine Abbildung von Pot(D) auf N erhaelt man, indem jedem Element
+von Pot(D) (z. B. {2^1, 2^4, 2^5} ) die nat. Zahl aus N zugeordnet
+wird, die gleich der Summe der Elemente des Elementes von Pot(D)
+ist ( 2^1 + 2^4 + 2^5 = 2 + 16 + 32 = 50 ). Auf dieser Abbildung
+beruht die binaere Schreibweise der nat. Zahlen.
+
+Ich behaupte nun, dass dies eine Bijektion von Pot(D) auf N ist,
+dass also alle Elemente von Pot(D) auf N abgebildet werden.
+Das gilt auch fuer die unendlichen Teilmengen. Insbesondere ist
+das Bild von D in N die Zahl 2^0 + 2^1 + 2^2 + ... . Das Gegenargument
+lautet, diese unendliche Summe sei nicht definiert.
+
+Das halte ich fuer inkonsequent. Die Potenz 2^k ist eine Multiplikation
+von k 2en. Da D unendlich viele Elemente enthaelt, sind darunter auch
+Produkte von unendlich vielen 2. Wenn man die Zahl 2^0 weglaesst
+(also die Potenzmenge von D\2^0 bildet) ist die Zahl der Summen, die
+bei der Abbildung einer beliebigen unendlichen Teilmenge von D\2^0
+auf N auszufuehren sind, in keinem Fall groesser als die Zahl der
+Multiplikationen, die bei wenigstens einer Zweierpotenz noetig sind.
+Beruecksichtigt man ferner, dass auch die Multiplikationen auf Summen
+aus 1en zurueckgefuehrt werden koennen und dass die Anzahl dieser
+Summenbildungen um Groessenordnungen groesser ist als die im Vergleich
+dazu geringe Anzahl der bei der Abbildung auf N auszufehrenden Summen,
+wird das Gegenargument geradezu absurd.
+
+Die Nachfolgerelation der Folge F, die ich definiert habe, hat keine
+Peano-Struktur. Ihre Struktur charakterisiert die Eigenschaften von
+Pot(D). Diese Struktur laesst sich auf die Peano-Struktur von N
+abbilden, sonst waere das Dualsystem nicht zur Darstellung der nat.
+Zahlen geeignet. Nachdem dies klar ist, spielt es keine Rolle mehr,
+ob man N mit der Peano-Struktur oder mit der Nachfolgerelation von F
+definiert. Man kann also F als Menge der nat. Zahlen definieren, ohne
+dass das irgendwelche Auswirkungen auf die Mathematik hat. Pot(D) ist
+also identisch mit N und kann daher nicht maechtiger sein.
+
+Gruss
+
+Luca

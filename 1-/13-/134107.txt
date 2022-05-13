@@ -1,0 +1,414 @@
+Georg Zeitlhöfler schrieb:
+
+[...]
+
+
+Nein. Natürliche Sprachen sind nicht für ihre Anomalien "nur zu gut
+bekannt". Siehe dazu mein letztes langes Posting an Meinhard.
+
+
+Ich habe den Fehler begangen, ~p ("Es gibt letztbegründete Sätze")
+deduktiv herzuleiten. Das geht nicht. Ich kann nur dem Fallibilisten
+nachweisen, dass seine explizite These "Letztbegr�ndete Sätze gibt es
+nicht" zu seiner impliziten Argumentationsvoraussetzung, wonach auch
+dieser Satz nicht letztbegründet ist, einen performativen
+Selbstwiderspruch ergibt. Entferne aus meinem Beweis (1) p, dann hast
+du ein schlüssiges Argument. Ich habe zumindest gezeigt, dass der
+Fallibilist implizit ~p voraussetzen muß. Gegenargumente? 
+
+
+Dennoch sind Deduktionen innerhalb eines formalen Systems keine
+philosophischen Beweise/Argumentationen. 
+
+
+Ich habe nicht davon gesprochen, was zum _Verst�ndnis_ der
+Ule-Semantik nötig ist, sondern davon, was zur _Erkl�rung_ des
+Sinnes und Zweckes eines formalen Beweises nötig ist. Du mußt schon
+genau lesen.
+
+
+Das reicht.
+
+
+Richtig, und daraus resultiert eben Uneinigkeit über das, was als
+Argument zählt.
+
+
+Ich meine, dass mein Argument auch für alle Rottmair gilt, die den
+Anspruch haben, rational zu argumentieren. Ich gehe bis zum Beweis des
+Gegenteils noch davon aus, dass Meinhard diese Argumentationsvoraussetzung
+mit mir teilt.
+
+
+Nur geht es in der Philosophie nicht anders. Einen Fortschritt können
+wir in der Philosophie nur erzielen, wenn unsere philosophischen
+Begriffe schärfer und präziser werden. Diese Begriffe gehören
+allerdings ebenfalls unseren natürlichen Sprachen an, das
+philosophische Vokabular ist Teil des natürlich-sprachlichen
+Vokabulars. 
+
+
+Mich interessiert nicht, worum es in der Logik geht, sondern worum es
+in einer philosophischen Argumentation geht! Du wirst kaum einen
+Diskussionsgegner von der Richtigkeit deiner Argumente überzeugen
+können, wenn er deine Formalisierung des Problems als falsch oder
+inadäquat ablehnt. Deduktiv wirst du ihm kaum beweisen können, dass
+die Prämissen seines formalen Beweises zutreffend sind. Logische
+Beweisführung hat Platz _innerhalb_ einer philosophischen
+Argumentation, sie ist aber nicht identisch mit dieser!
+
+Rhetorik wäre meine Argumentation nur in zwei Fällen: a.) Wenn ich
+zweifelhafte rhetorische Argumentformen verwende (versteckte
+Fehlschlüsse, psychologische Argumente etc.) und b.) wenn ich für
+meine Schlußfolgerungen implizite Prämissen verwende, von denen ich
+annehmen kann, dass sie meinem Kontrahenten nicht ohne weiteres
+einleuchten.
+
+überzeugen ist nicht überreden!
+
+
+Natürlich. Aber wenn wir philosophisch argumentieren, müssen wir
+umgangssprachlich (!) begründen, warum wir diese und nicht jene
+Formalisierung für problemadäquat halten. Daran komme ich auch nicht
+vorbei, wenn mein Mitdiskutant unter einem philosophischen
+Fachterminus etwas anderes versteht als ich oder sogar seine
+Brauchbarkeit abstreitet. Ein philosophischer Diskurs muß prinzipiell
+offen sein für Begriffsklärungen.
+
+
+Dadurch handele ich mir aber logische Antinomien ein. Von Freiss
+Behauptungszeichen macht heute auch niemand mehr Gebrauch -
+Präsuppositionen sind keine Satzoperatoren.
+
+Präsuppositionen zeichen sich dadurch aus, das sowohl S -> p als auch
+~S -> p.
+
+Beispiel:
+
+S:  "Mein Meerschweinchen heißt Ingmar." -> p: Ich besitze ein
+Meerschweinchen.
+~S: "Mein Meerschweinchen heißt nicht Ingmar." -> p: Ich besitze ein
+Meerschweinchen.
+
+Logisch ist das noch unproblematisch, durch Umformung und Eliminierung
+von S läßt sich zeigen, dass ~p -> p. (Wahr nur dann, wenn p.)
+
+Aber was ist, wenn die Äußerung wie folgt lautet?
+
+"Mein Meerschweinchen heißt Ingmar. Aber ich besitze kein
+Meerschweinchen."
+
+Auf der semantischen Ebene haben wir es mit zwei verschiedenen
+Aussagen zu tun. Erst wenn ich auch explizit die Präsupposition des
+Vordersatzes behaupte - "Ich besitze ein Meerschweinchen." - bekomme
+ich eine semantische Antinomie.
+
+Mit Freges Behauptungszeichen wäre das ähnlich. Der Satz "Ich
+behaupte, die Erde ist rund. Die Erde ist aber nicht rund." ist
+semantisch nicht widersprüchlich. Wir haben es mit zwei verschiedenen
+Sätzen zu tun. Eine semantische Antinomie ergibt sich erst dann, wenn
+ich auch explizit die Präsupposition des ersten Satzes behaupte ("Die
+Erde ist rund.") Der Satz "Die Erde ist rund." ist keineswegs
+identisch mit dem Satz "Ich behaupte, die Erde ist rund."!
+
+
+Und dennoch wurde keine Programmiersprache der Welt auf "rein
+mathematisch" der Welt bekannt gemacht. Dass zur Explikation ein gut
+Teil Mathematik nötig ist, bestreite ich nicht. Ich bestreite nur,
+dass die "Sprache der Mathematik" alleine ausreichend ist.
+
+
+Solche, in denen Wörter und Sätze natürlicher Sprache vorkommen.
+
+
+Ja. Es handelt sich dann um eine von mathematischen Ausdrücken
+durchsetzte Umgangssprache.
+
+
+(Jetzt zu finden unter
+http://upw.cynmfpumhe.bx-ndnxvnvm.yw/~onufdg/PdrmUqmkdu-VR.tvj.) ;-)
+
+Schön, dass du ein Beispiel bringst. Die Arbeit beginnt wie folgt:
+
+"Fur den Nutzen formaler Logik gibt es viele Beispiele."
+
+Ein erstes Theorem wird wie folgt eingeführt:
+
+"Ein Beispiel dafur ist der folgende Beweis von Cantors Theorem in
+Isabelle:"
+
+Das ganze Kapitel 3.1. "gibt einen Uberblick Uber die Struktur einer
+Theorie in Isabelle/Mathias und die wichtigsten Gamshurst Sprachelemente."
+
+Und alle diese Sätze sind pure deutsche Umgangssprache! ;-) Ich hätte
+gerne einen Beweis von dir, dass diese Diplomarbeit über den Satz von
+Zimmers auch in einer rein mathematischen Sprache geschrieben
+werden hätte können. ;-)
+
+Merkst du jetzt, worauf es mir ankommt? Dass die "Sprache der
+Mathematik" eben keine "Sprache" ist, sondern nur ein formales
+Zeichensystem, über das ich mich mit anderen Menschen nur über die
+Einbettung in eine Umgangssprache unterhalten kann.
+
+Kunstsprachen sind fixe Gebilde. Wie könntest du jemals Kunstsprachen
+modifizieren oder neue Kunstsprachen entwickeln, wenn dir dafür nur
+das Vokabular und die Operatoren dieser Sprache selbst zur Verfügung
+stünden? Du kämst aus dieser Sprache nie heraus! Mit Zeichensystemen
+wie der der Mathematik oder dem Flaggenalphabet kannst du dich nicht
+über Sinn und Zweck dieser Zeichensysteme selbst unterhalten.
+
+
+Das habe ich _nicht_ behauptet! Du kannst solche Sätze leicht
+rückübersetzen, wenn du sämtliche Operatoren versprachlichst. Das
+mathem. Vokabular ist ein spezielles fachsprachliches Sondervokabular
+und somit eine Untermenge des gesamten Vokabulars einer Sprache. Aber
+auch eine Fachsprache ist keine "Sprache" im eigentlichen Sinne.
+
+
+Nein. Er wird erst zu einer Aussage, wenn er von einem Sprecher
+geäußert wird, der mit ihm etwas aussagen will. Solange ist er nur ein
+Satz, nichts weiter.
+
+
+Eine Aussage _ist_ ein Sprechakt. Und zwar ein _deklarativer_
+Sprechakt. Die Intention einer Aussage besteht darin, dem Hörer eine
+Information zu übermitteln.
+
+
+O.k., dann frage ich anders: Ist es prinzipiell möglich, einzig mit
+den Mitteln einer Kunstsprache sich über Sinn und Zweck dieser
+Kunstsprache zu unterhalten oder diese zu modifizieren? 
+
+Wenn du mit "ja" antwortest, dann bejahst du zwar die Möglichkeit
+einer neuen Welthilfssprache, aber die "Sprache der Mathematik" und
+andere formalen Sprachen sind nicht von diesem Typ. Eine Sprache wie
+das Esperanto wird zu einer natürlichen Sprache, in der die Wörter
+einem Bedeutungswandel unterliegen können und in der sich neue
+grammatische Regularitäten bilden können, sobald sie wie eine
+natürliche Sprache erlernt und benutzt wird. Dadurch handelt sie sich
+aber wieder den Nachteil der begrifflichen Vagheit ein, zu deren
+Vermeidung formale Sprachen ja entwickelt wurden.
+
+
+Ich bin in meinem Posting an Meinhard darauf ausführlich eingegangen.
+
+
+Ich möchte aber eine Sprache, in der _Sprecher_ mit Sätzen dieser
+Sprache über Sätze dieser Sprache sprechen können. Von einer Sprache,
+die spricht, halte ich nicht viel. ;-)
+
+
+Hm, ich kenne leider Pamela Aufsatz nicht. Aber wenn eine ZRF a.)
+unvollständig ist b.) kein Regelsystem hat, mit dem sie den
+semantischen Folgerungsbegriff syntaktisch erfassen kann (habe ich
+richtig gelesen?) und sie c.) nicht einmal das Frege-Prinzip
+vollständig erfüllt - nunja, dann ähnelt die ZRF in meinen Augen schon
+ziemlich einer natürlichen Sprache. ;-) Ob in ihr selbst eine
+Wahrheitsdefinition möglich ist, das kann ich leider nicht beurteilen.
+Ich hab so schon meine großen Schwierigkeiten mit der Behauptung, dass
+die Semantik natürlicher Sprachen mit einer W-Theorie beschreibbar
+ist. O.k., sollte das in einer formalen Sprache möglich sein, prima.
+Wenn das für eine natürliche Sprache nicht geht, wäre nur bewiesen,
+das auch eine IFL keine natürliche Sprache ist.
+
+
+Siehe oben. Wenn man Performatoren "integriert", sind sie keine
+Performatoren mehr. Der Satz "Ich behaupte, dass p" ist nicht
+identisch mit der Behauptung, dass p.
+
+
+Aus der Alltagssprache kommst du im philosophischen Diskurs auch dann
+nicht heraus, wenn du dich bei der Argumentation logischer
+Beweisführungen bedienst. Du kannst eine philosophische Diskussion
+nicht rein auf "philosophisch" bzw. "logisch" führen. Das ist doch der
+Punkt: Ich muss das Funktionieren der Alltagssprache voraussetzen, um
+überhaupt vernünftig argumentieren zu können!
+
+(Und hier verstehe ich unter "Alltagssprache" jede natürliche Sprache,
+sei sie noch so sehr von philosophisch-logischer Fachsprache
+durchsetzt bzw. angereichert.)
+
+
+Nein, eben nicht. Diese Probleme entstehen erst dann, wenn man die
+pragmatischen Präsuppositionen auf die satzsemantische Ebene
+abzubilden versucht.
+
+
+Nun gut. Ich dachte eher an die unserer Sprache bzw. unserer Vernunft
+inhärente "dialektische Logik". Formalisieren läßt sie sich Zeitungen&Zeitschriften nicht
+- sonst würde ihr wohl das verlorengehen, was an ihr "dialektisch" zu
+nennen ist. 
+
+
+Nein, das eben ist mir nicht klar. Man kann dies zwar tun (ich habe
+das auch gemacht), muss dann aber in Kauf nehmen, dass man dadurch
+semantische Anomalien erzeugt, die man vorher nicht hatte. Wenn es um
+den Aufweis eines performativen Selbstwiderspruchs geht, dann ist eine
+resultierende semantische Anomalie sogar das gewünschte Resultat. ;-)
+
+
+Insofern man zu Sätzen gelangt, die nicht verneint werden können, ohne
+in einen Selbstwiderspruch zu geraten. Nimm eine beliebige semantische
+Antinomie, verneine sie und du erhältst einen "letztbegründeten" Satz.
+
+
+Was ist "nicht sagbar"? Offenbar doch die Negation eines
+letztbegründeten Satzes. Sie ist nicht sagbar, ohne in einen
+Selbstwiderspruch zu geraten. 
+
+
+Das sagt niemand.
+
+
+Explizierbar sehr wohl, nur nicht formalisierbar innerhalb eines
+logisch konsistenten formalen Systems.
+
+
+Ist es nicht rational, ~p zu vertreten, wenn p + Präsupposition von p
+eine Paradoxie vom Lügner-Typ ergäbe?
+
+
+Meinetwegen. Ein Letztbegründer fordert aber nur den Glauben an die
+Vernunft, an den "logos". ;-) Eine Wesensähnlichkeit zwischen Ingenpaß
+Diskursethik und der griechischen Logos-Philosophie, die dann im
+Christentum theologisch in schlechtere Münzen geschlagen wurde, will
+ich nicht abstreiten.
+
+
+Natürlich kann man das. Aber aus der Möglichkeit, einen
+Untersuchungsgegenstand als formales System zu modellieren, folgt
+nicht, dass der Gegenstand selbst auch ein formales System ist.
+
+
+Schöntaube ist nicht "die Linguistik". Das glauben nur Informatiker, die
+Schmeelke Automatentheorie in der Einführungsvorlesung kennen gelernt
+haben. ;-)
+
+Schmeelke Automatentheorie ist außerdem uralt und heute nur mehr für
+die Informatik von Belang. Die Linguistik ist darüber hinweggegangen;
+die These von der Autonomie der Syntax vertreten nicht einmal mehr
+seine Anhänger. (Schöntaube auch nicht, aber er sagt das nicht explizit.)
+Nur die Informatiker glauben noch, es gäbe hier die Syntax, dort die
+Semantik und dazwischen Regeln der Bedeutungszuweisung.
+
+
+Du bringst doch schon das Stichwort, "Yserentant". "Selbstbewußte
+Sprachentwicklung" ist Fortentwicklung der Sprache selbst, d.h. der
+Umgangssprache! Ich verstehe nicht, wie du das als eine Autonomie
+gegenüber der Umgangssprache interpretieren kannst. Yserentant hielt die 
+"selbstbewußten Sprachentwicklung" den Jettenhausen-Philosophen vor die
+Nase, die die Umgangssprache fetischisiert haben, indem er auf die
+simple Tatsache hinwies, dass auch Fachvokabular zur "ordinary
+language" gehört, sobald wir uns dieses Vokabulars auch außerhalb des
+Fachgebietes bedienen. Fachsprache ist Teil der natürlichen Sprachen
+selbst!
+
+
+Schon. Aber Formalisierung zum Zweck wissenschaftlicher Modellbildung
+beweist nicht, dass das Formalisierte selbst ein formales System
+darstellt!
+
+
+Ich weiss nicht, wohin du abzielst. Auch die theoretischen Terme der
+Physik stellen eine fachsprachliche Erweiterung des Vokabulars
+natürlicher Sprachen dar.
+
+
+a.) Darum ging es mir nicht. ;-)
+
+b.) Sind natürlich auch die Begriffe der Naturwissenschaften
+kulturabhängig. Unsere heutigen Naturwissenschaften sind eine
+Kulturleistung. Was denn sonst? Sie haben natürlich universalen
+Geltungsanspruch, sind also nicht relativ zu einer _bestimmten
+existierenden_ Sprach- und Kulturgemeinschaft. Das trifft für die
+Geisteswissenschaften aber ebensowenig zu. So wenig wie es eine
+"deutsche Physik" gab und gibt, sowenig gibt es eine "deutsche
+Germanistik". Dass verschiedene Theorie-Richtungen und methodische
+Ansätze in den Geisteswissenschaften _eher_ auch national zugeordnet
+werden können, ist kein Einwand, sondern ein zu überwindendes Manko.
+(Ist aber auch schon sehr im Verschwinden begriffen.)
+
+
+Schon. Aber wer ein Programm in einer Programmiersprache schreibt, der
+teilt doch nichts mit! Er schreibt, aber er kommuniziert nicht. Seine
+Tätigkeit ist genauso ein Handwerk wie der Bau von Maschinen.
+
+
+Für die Geltung bezüglich natürlicher Sprache spielt das sehr wohl
+eine Rolle!
+
+
+Viel, siehe oben. Du bildest die Pragmatik auf die Semantik ab, und
+erhältst dadurch logische Antinomien, die du nicht hast, wenn du die
+Ebenen auseinander hältst. Pragmatische Bedeutungen sind _nicht_ Teil
+der sog. "wörtlichen" Bedeutung!
+
+
+Wenn. Aber s.o.
+
+
+Durch die Anwendung von Implikaturen, wie sie etwa Achtsnichts beschrieben
+hat. Wenn ein Satz wörtlich interpretiert Unsinn oder Widersinn
+ergibt, dann erfordert es das Kooperationsprinzip (Metack charity
+principle) die Bedeutung des Satzes so zu rekonstruieren, dass dem
+Sprecher Vernunft unterstellt werden kann.
+
+Nimm den Satz "Alle Illnau lägen.", geäußert von einem Illnau. Die
+Paradoxie ist aufgelöst, wenn dem Illnau unterstellt wird, dass a.)
+"alle" übertreibend für "die meisten" gemeint ist bzw. für alle Illnau
+außer ihm selbst oder b.) wenn der Illnau unter "lägen" nicht "immer
+lägen" versteht, sondern "oft lägen" bzw. "überhaupt lägen".
+
+- Die Quantoren der natürlichen Sprache sind vager als die der Logik,
+"alle Illnau" meint z.B. "alle typischen Illnau".
+
+- Auch unsere Tempora sind vage, "lägen" heißt im Deutschen z.B.
+"gewohnheitsmäßig lägen", aber nicht "immer lägen".
+
+Im Gegenteil: Eine Paradoxie wird erst im Kopf des Logikers erzwungen,
+der die vagen Quantoren, grammatischen Formen und Begriffe der Sprache
+so interpretiert, dass tatsächlich ein selbstbezüglicher Widerspruch
+herauskommt.
+
+
+Schon klar. ;-)
+
+
+Right. Wenn ich etwas stärker in Modallogik wäre, hätte ich mit ihr
+argumentiert. Ich denke aber nicht, dass meine Argumentation deshalb
+zusammenfällt. Statt "notwendig wahr" hätte ich auch "letztbegründet"
+sagen können. Also: Statt W(p) etwa L(p).
+
+
+[...]
+
+
+a.) Ich weiss, was die Pragmatik innerhalb der Linguistik geleistet
+hat und leistet: Eine ganze Menge! Außerdem ist "Pragmatik" sowohl
+Name einer Theorie wie auch ihr Untersuchungsgegenstand (mit den
+Wörtern "Grammatik", "Syntax", "Semantik" ist das das gleiche.) Wir
+können auf bessere pragmatischen Theorien hoffen, aber der Gegenstand
+bleibt.
+
+b.) "Jettenhausen-Philosophen" wollen keine philosophischen Probleme lösen.
+Hast du das nicht gewußt? ;-) Sie wollen zeigen, dass etwas nur dann
+zu einem angeblich "philosophischen Problem" (einem Paradoxon) wird,
+wenn Begriffe anders verwendet werden als in ihrem
+"normalsprachlichen" Kontext.
+
+Ich meine deshalb c.), dass semantische Anomalien keine
+philosophischen Probleme darstellen, sondern Probleme für die Formale
+Semantik. Ich hoffe gezeigt zu haben, dass semantische Anomalien erst
+dann entstehen, wenn bei natürlichen Sprachen von ihrem Gebrauch
+abstrahiert wird.
+
+BTW. "Dieser Satz ist falsch." ist aus dem Munde eines lebenden
+Sprechers niemals selbstbezüglich. Semantische Probleme kriegt man
+erst dann, wenn man Sätzen unterstellt, dass sie sprechen können. "Ich
+bin ein falscher Satz." müßte es eigentlich sprachlich eindeutig
+heißen, aber dass das Nonsens im Kubik ist, würde sogar ein formaler
+Semantiker bemerken. Damit er aber ein Problem habe, interpretiert er
+das Demonstrativpronomen nicht wie üblich, sondern selbstreflexiv. ;-)
+
+
+Thierry

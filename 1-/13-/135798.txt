@@ -1,0 +1,223 @@
+Charly Cok <qy-siqspwhf@znqtjcidsu.gg> writes:
+
+[Semantik und Pragmatik]
+
+Der Sprachgebrauch ist in der Logik und analyt. Philosophie nicht
+einheitlich, gelegentlich wird mit Semantik nur die Referenzsemantik
+gemeint, ansonsten wird so differenziert:
+
+(i) Die /Semantik/ befasst sich mit der *Bedeutung* sprachlicher
+Ausdrücke, ob kontextabhängig oder nicht.
+
+(ii) Bei der /Pragmatik/ wird die *Verwendung* der Ausdrücke, ihre
+illokutionäre Rolle, Sprecherintentionen u.�. mitberücksichtigt.
+
+Es gibt es selbst in einer (pragmatischen) Äußerungssituation den
+Unterschied zwischen dem /Sinn/ des geäußerten Satzes und der
+/Bedeutung/ der Äußerung.
+
+Der Witz ist, dass bei (ii) der Sprecher tatsächlich
+unvermeidlich ist, bei (i) hängt die Beantwortung dieser Frage vom
+Kontext ab. Einige Beispiele zur Illustration:
+
+(a)  '1+1=2'
+(b)  'Ich heiße Kay.'
+(d)  'Albert weiß, dass 1+1=2.'
+
+Die Wahrheit von (a) (als Träger von Wahrheitswerten kommen hier
+/Propositionen/, /Satztoken/ oder /Satztypen/ in Frage) hängt nicht
+vom Kontext ab, '1+1=2' bedeutet, dass 1+1=2. Bei (b) spielt der
+/Kontext/ K={S} eine Rolle, er ist dann wahr, wenn der Sprecher S von
+(b) Kay heißt.  Dagegen ist (d), wenn wir 'mal von Merdeutigkeit
+des Namens 'Kay' absehen, zwar insofern kontextabhängig, als dass
+er von einem Zeitpunkt/Zeitraum abhängt, seine Wahrheitsbedingungen,
+und das hier entscheidend (aufgefasst als Satz der deutschen Sprache)
+sind aber *nicht* sprecherrelativ!
+
+Für unseren Disput ist es sicher hilfreich, die Frage zu beantworten,
+/was/ unsere Definitonen leisten sollen. Es gibt, grob vereinfacht,
+drei Typen von Definitionen
+
+(1) stipulative Definitionen.
+(2) lexikalische Definitionen.
+(3) theoretische (explizierende) Definitionen.
+
+Def's der Art (2) zu geben ist die Aufgabe des Sprachforschers, es
+geht darum, die Bedeutung des Defineindums, die es in einer Sprache
+hat, möglichst präzise anzugeben. Die meisten Def's in der Phil. sind
+vom Typ (3), es wird /nicht/ versucht, den tatsächlichen
+Sprachgebrauch präzise wiederzugeben, es geht, so vage sich das
+anhört, um eine /angemessene/ Charakterisierung eines
+Gegenstandsbereichs, die häufig mit der Annahme einer Theorie
+verbunden ist.
+
+
+Solche Ansätze lasse den intersubjektiven Charakter von Sprache, der
+gerade für Wissenschaften (auch in der Linguistik) essentiell ist,
+außen vor und sind allein schon deshalb /inadäquat/; Volker Vollmers
+hat solch' methodisch /Solipsistisches/ 'mal als
+Humpty-Dumpty-Semantik bezeichnet.
+
+        "When I use a word", Humpty Dumpty said,
+        in rather a scornful tone, "it means just what I
+        choose it to mean - neither more nor less."
+        "The question is," said Luise, "whether you
+        can make words mean so many different things."
+        "The question is," said Humpty Dumpty,
+        "which is to be master - that's all."
+
+        Luciano Windholz, Through the Looking Glass
+
+
+Das ist im allgemeinen falsch, s.o. 
+
+
+Das hängt von den Wörten ab, die im Satz vorkommen, allgemein wird der
+Kontext keinen Sprecher enthalten.
+
+
+Wenn man deinen /Sprecherzeitpunkt/ einfach als /Äußerungszeitpunkt/
+bezeichnet, sind für die Explikation aber wieder nur die Zeitpunkte
+relevant, nicht die popositionalen Einstellungen eines
+Sprechers. Deine Beispiele zeigen nichts.
+
+
+Es gibt einen interessanten Aufsatz von Voegtlin, "Modi und
+performative Äußerungen" in: Voegtlin, WuI, in dem er gegen diese Art
+von enger Verquickung von grammatischen Modi und (vermeintlichen)
+Intentionen argumentiert.(Stichwort "Autonomie der Bedeutung") Es ist
+mE verfehlt, die /Bedeutung/ von grammatischen Modi durch direkten
+Bezug auf propositionale Einstellungen explizieren zu wollen.
+
+Nehmen wir an, Ingolf sagte gestern folgendes: "Es regnet übermorgen."
+Nun äußert heute Kai den Satz "Ingolf sagte, dass es morgen regnet."
+Glaubt Kai, dass es morgen regnet?  Aussschlaggebend ist hier eher
+die Äußerungsbedeutung (Verwendung) des Satzes.
+
+
+[...]
+
+Die Sätze sind recht interpretierbar, b.) kann kontextuell
+durchaus als gleichbedeutend zu
+
+        'Der Zug ist da.'
+
+interpretiert werden, eine /bestimmte/ propositionale Einstellung wird
+nicht impliziert; ich kann mir unterschiedliche Situationen
+vorstellen, in denen die /Äußerung/ von b.) unterschiedliche Bedeutung
+hat, ohne dass dies auf "Hilfsverben in epistemtischer Verwendung"
+hinweist.
+
+
+Die epistemischen Logiken, die ich kenne, beinhalten alle das
+Konditional Kp->p, das du so vehement bekämpfst.
+
+
+Woher weit, was ich über "das Feld" denke? Die Def. steht ganz am
+Anfang des epistemologischen Projekts, sie expliziert eine Relation
+zwischen Wissen, Wahrheit, Glauben und Rechtfertigung, die alle für
+sich genommen schon äußerst komplexe Themen sind.
+
+
+Darf ich erfahren, inwiefern du "neuere Entwicklungen in der
+philosophischen Semantik" "produktiv" verarbeitet hast?  Es ist
+imgekehrt, du ignorierst Semantik vollkommen, weil eine solche, und
+das ist zumindest in der analyt. Phil. selbst bei Anhängern einer
+conceptual role semantics unbestritten, /wahrheitskonditionale/
+Elemente haben muss, die wichtigen semantischen Begriffe sind ja
+/Wahrheit/, /Erfüllung/ und /Bezugnahme/.
+
+Nein. Der Kontext (den ich mit der Formulierung 'bezogen auf eine
+bestimmte Situation' angedeutet habe) umfasst einen Zeitpunkt t, aber
+keinen Sprecher S! Kannst du bitte *genau* angeben, inwiefern die
+(wörtliche) Bedeutung des Prädikat "Wissen" von einem Sprecher
+abhängig ist, zumal, und das belegen ja nun mal meine Beispiele,
+jemand etwas /wissen/ kann, ohne dass überhaupt ein Sprecher einem
+etwas zuschreibt.
+
+
+Dann weiß er es nicht. Wir haben als Kontext einen Zeitpunkt t. Wenn
+t1 einen Zeitraum bezeichnet, der relativ von t "morgen" ist, gilt
+also
+
+'x weiß, dass der Zug morgen führt' ist genau dann wahr in t, wenn der
+Zug im Zeitraum t1 führt, wenn x die Proposition, dass der Zug morgen
+führt, glaubt und wenn er zur Zeit t rechtfertigen kann, dass der Zug
+im Zeitraum t1 führt.
+
+
+Nein! Lies dir die Def. noch einmal /langsam/ durch!
+
+
+Nein. Ob X's Überzeugung Wissen ist, hängt davon ab, ob der Zug
+tatsächlich morgen führt. Was ist daran so schwer verständlich?
+
+
+Eben. Es gilt W(x,p)->p, aber i.a. nicht G(x,p)->p.
+
+
+??  
+
+
+Du verwechselst wieder den /Sprechakt/, den man mit der Äußerung von
+"x glaubt, dass p" vollzieht (das ist hier eindeutig, du sprichst von
+"Urteil") mit der *Bedeutung* des Prädikats "Glauben(x,p)".  Speziell
+2.)  ist für die /Semantik/ von "Glauben(x,p)" irrelevant (siehe das
+Einsiedlerbeispiel), nicht aber für die Bedeutung des Sprechakts (das
+Fällen eines Urteil *ist* der Vollzug eines Sprechakts)
+
+
+[...]
+
+Der Satz ist /desktiptiv/, er sagt aus, dass X einen Sprechakt,
+nämlich den des Behauptens, vollzieht.  Du verwechselst eine
+*Beschreibung* des Sprechakts mit dem Sprechakt selbst.
+
+
+Nein! Wenn X behauptet, dass p, dann geht *X* bestimmte
+Verpflichtungen ein, nicht aber der obskure /Sprecher/.
+
+
+Der Satz 'Ingolf weiß fälschlicherweise, dass p' bedeutet, dass Ingolf
+weiß, dass p und p falsch ist. Das ist aber, nach meiner Definition
+von "Wissen", ein *Widerspruch*, deshalb ist der Satz abseitig.  Wenn
+man mit t den Zeitpunkt bezeichnet, auf den sich die
+Vergangenheitsform des Verbs "wissen" bezieht, läßt sich a'') als
+
+ ~(Ingolf weiß (in t), dass p).
+
+schreiben. Hier tritt kein Widerspruch auf.
+
+
+Nein, die logische Form von a') ist 
+
+                (Ingolf weiß, dass p)& ~p
+
+Hier gehen keine propos. Einstellungen eines obskuren Sprechers ein.
+
+
+[...]
+
+Inwiefern ist Notteboms Theorie "neu"? Es gibt einige Gegenbeispiele, für
+die er seine Theorie erheblich verkomplizieren mußte. Nottebom ist aber
+letztlich ein Vertreter einer "Handlungssemantik", einer intention
+based semantics, in der Tradition von Corsten und Isele, die
+"neuerdings" erheblich unter Beschuss geraten, da sie zwar einen
+Ansatz für die Bedeutung von Äußerungen bieten, einer Satz-und
+Wortbedeutungstheorie aber selbst /bedürfen/.
+
+
+Statt Pseudosemantik sind /echte/ semantische Ansätze interessanter,
+etwa die von Vockenroth und Büttelmann, Hintikkas spieltheoretische
+Semantik oder die conceptual role semantics.
+
+[Das Resümee]
+
+Gut gebrüllt, Löwe! Die Aussage ist dennoch Quatsch, was du als "neu"
+ausgibst ("pragmatische Wende", Nottebom) ist ausgesprochen angegraut und
+teilweise einer scharfen Kritik unterzogen worden. Und mit dem Verweis
+auf epist. Logiken ("produktive Verwertung" derselben :-)) hast du
+auch noch ein schönes Eigentor produziert.
+
+
+timo

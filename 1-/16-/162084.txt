@@ -1,0 +1,56 @@
+1. Der simulierte Fall ist in jedem Falle objektiv falsch, ob ich das
+empirisch feststellen kann oder nicht. Denn entweder habe ich einen
+Referenz-Stein, dann wird der Fehler irgendwann sichtbar oder bei zu
+kurzer Fallstrecke, bleibt er innerhalb der Meßgenauigkeit (die aber
+heute schon erstaunlich hoch ist, so daß schon ein paar Meter genügen
+dürften). Oder ich habe keinen Referenzstein, dann weiß ich abstrakt,
+daß das Ergebnis falsch ist, aber ich kann nicht sagen, wie groß die
+Abweichung ist. Das ist die Situation, wenn ich vor einem Fass mit
+Korken stehe und soll sagen, wieviel Korken im Fass sind. Ich sage
+einfach 154876 Stück. Da sich durch Hinsehen die Zahl nicht bestimmen
+läßt, ist sie falsch (auch wenn sie zufällig die rechte Zahl getroffen
+hat). Aber ohne Zählen kann ich nicht sagen, wie groß die Abweichung
+ist und ob ich zu hoch oder zu niedrig gegriffen habe. Und ohne Zählen
+ist - um deine Diktion zu verwenden - das Ergebnis vom wahren Ergebnis
+"ununterscheidbar". Gleichwohl kann die Zahl der Korken im Faß nicht
+korrigiert werden. Da gibt's per definitionem keine Fehlerkorrektur.
+Nur die genannte Zahl bedarf der Korrektur, was aber das
+vorangegangene Zählen voraussetzt.
+
+
+Hatten wir schon. Ein Fehler führt nicht zum Einstellen der Arbeit,
+sondern zum falschen Ergebnis.
+Aber die Frage ist eine andere: Im obigen Satz wimmelt es von
+Wertungen, insbesondere ist unklar, was ein intelligentes Verhalten
+sein soll. Der terminus comperationis ist unbestimmt. Seine
+Präzisierung führt entweder zur Trivialität (siehe Schachcomputer,
+oder Finden des des Weges zum Meer durch einen Fluß) oder zur absurden
+Behauptungen (wie Kindererziehung).
+
+
+Du widerholst Dich, ohne daß es klarer würde. Was soll denn nun sein:
+Sollen intelligente Leistungen erbracht werden, was immer das sein
+mag? Oder soll ein Gehirn simuliert werden, meinetwegen das einer
+Spitzmaus? In irgendeiner Wissenschaftszeitung hieß es, da würde man
+schon an einer Stubenfliege scheitern.
+
+
+Bringt nichts, so lange Du nicht sagst, was ein "Erfolg" ist.
+Wenn ein Mensch (wieder als Referenzsystem) nicht feststellen kann,
+welche von 2 Positionen nach festgelegter Zeit die des echten Pendels
+und die des simulierten Pendels ist, dann ist das trivial.
+Wenn das Pendel aber zu einer Bestimmten Zeit an einen bestimmten
+Lichtstrahl unterbrechen soll, um eine Bombe an ihrer Zündung zu
+hindern, und Deine Simulation in der Zeit rückwärts die
+Ausgangsposition berechnen soll, auf daß diese Bombe nicht explodiert,
+dann scheitert der simulierte Pendel totsicher. Es kommt immer darauf
+an, was "Erfolg" ist. Das sind alles schwammige Begriffe.
+
+
+Soll das der "Erfolg" der KI sein?
+
+
+Du bist da seeeehr optimistisch.
+Ich sehe das nicht so.
+
+Gruss Luca

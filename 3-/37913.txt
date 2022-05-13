@@ -1,0 +1,29 @@
+Was willst du denn mit deiner " Energieversorgung ", Theo ?
+
+
+Since =91A Pattern Language=92 was published, the idea of pattern
+languages has gone on to inform the software
+world .....................  und gemeint ist eigentlich, eine AUSSAGE
+von einem Fallsteincomputer Prozessor KREIEREN zu lassen.
+
+Die Aussage kannst du dann an die Kripo schicken.
+
+
+Beispiel :
+
+A1 =3D ( frerich, hansruedi, ellen )
+
+A2 =3D ( will, besitzt, vernichtete )
+
+A3 =3D ( einen, alle viele )
+
+A4 =3D ( Bälle, Blumen, Häuser )
+
+
+Der Satz könnte lauten ( mit r =3D random(3) )
+
+for  h =3D 1 to 4
+
+print  Ah ( r ),
+
+next

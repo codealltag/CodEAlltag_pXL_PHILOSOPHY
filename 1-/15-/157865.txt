@@ -1,0 +1,49 @@
+Ja, genau.
+Di Beat Varekamp, du hast es hier mit etwas ziemlich "kontraintuitivem" zu tun. 
+Die Mächtigkeit der Menge der ganzen Zahlen ist gleich der Mächtigkeit der
+geraden Zahlen, der Primzahlen, der Zahlen, die durch 11763 teilbar sind. 
+Alles was wir brauchen, ist eine bijektive (eine eineindeutige) Abbildung, und
+die finden wir immer, weil |N abzählbar unendlich ist. 
+In deinem Beispiel geht es allerdings um |R, das ist eine überabzählbar
+unendliche Menge, und da sind die Verhältnisse noch verrückter: jeder beliebig
+kleine Ausschnitt aus dem Kontinuum (also aus |R) ist dem Kontinuum
+gleichmächtig.
+
+Das ist aber eigentlich keine philosophische Frage, sondern eine mathematische.
+
+Du könntest  dich an
+-  de.schule.mathe oder, wenn du dich traust, an 
+-  de.sci.mathematik
+wenden. 
+Dort solltest du deine Frage allerdings sehr genau vortragen, das hast du hier
+nicht getan:
+
+Was ist AB? Eine Funktion? Eine Punktwolke? Eine Cantor-Menge?
+"AB" reicht nicht als Definition, du musst schon sagen,  wovon du redest  wenn
+ich mir darunter etwas vorstellen soll. Also bleiben wir allgemein.
+
+Welche Menge? Ist B die Projektion von AB auf die x-Achse? 
+Nehmen wir das an: B ist die Projektion auf die x-Achse, A die Projektion auf
+die y-Achse. Dann ist AB als cartesisches Produkt aus y und x bestimmt. Zu
+jedem Element aus AB gibt es ein y und ein x.
+
+Nach welcher Abbildungsvorschrift?
+Ich geb dir einen Tip: die *tangens-Funktion*. Da passiert genau das: 
+Ja, und da täuscht das Augenmaß. 
+Was heißt unterschiedlich? Was heißt groß? Was heißt aussehen?
+
+Auf der x-Achse hast du den Bereich -1 bis +1. Auf der y-Achse den Bereich
+zwischen -unendlich und +unendlich. Die tangens-Funktion ist hier bijektiv. 
+Der kleine Bereich zwischen -1 und +1 ist eine eineindeutige Abbildung aller
+reellen Zahlen, also mit dieser Menge gleichmächtig. 
+Oder noch einfacher: der Kehrwert. Nenn mir eine beliebig große Zahl >1, und
+ich werde dir eine Zahl zwischen  0 und 1 sowie eine Abbildungsvorschrift
+nennen, die deine Zahl exakt beschreibt.
+
+Hoffe, dir geholfen zu haben.
+
+Gruß, Sandro
+
+PS: Ach, Karlheinz, welcher dieser Namen  ist dein Vorname? 
+(ein Freund von mir ist mit einer Chinesin verheiratet und heisst jetzt Undine mit
+Nachnamen.) Also: Di Truong? Naja, ist auch etwas OT ...:-)

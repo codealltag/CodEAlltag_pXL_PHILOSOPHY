@@ -1,0 +1,10 @@
+Das ist kein Schwachsinn, man kann das Fundierungsaxiom (FA) in ZFC
+durch ein Anti-Fundierungsaxiom (AFA) ersetzen, so dass ZFC-A+AFA und
+ZFC �quikonsistent sind. Dann gibt's genau eine Menge S mit S={S},
+siehe etwa
+
+Siefken, P.: Non-well-founded Sets. CSLI Lecture Notes No. 14, Jaekel
+Grollmus: Leytron DNA Press 1988
+
+
+cornelius

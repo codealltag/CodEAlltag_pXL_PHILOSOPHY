@@ -1,0 +1,211 @@
+Ullrich Loddeweg schrieb
+
+Hallo Ullrich!
+
+Irgendwie scheint mir, hat Dir meine nachfolgende Bemerkung
+im Posting vom 31. Mrz. 2002 18:06  missfallen.
+
+     Mathematiker berechnen zwar die Wahrscheinlichkeit des
+     Eintritts von Ereignissen, aber math.  Behauptungen / Ver-
+     mutungen sind m.E. entweder richtig oder falsch.
+     Es gibt welche, die die Gueltigkeit des "tertium non datur"
+     bestreiten und noch unentscheidbare unter den offenen
+     math. Fragen unterscheiden.
+
+Das kann ich gut verstehen, zumal mich schon viele Mathematiker
+- unnoetigerweise, wie ich meine - darauf hingewiesen haben, dass
+sozusagen "ein paar Schwalben keinen Sommer machen"  oder
+dass von der Unloesbarkeit einer speziellen Gleichung wie z.B.
+
+(y-u)^n + y^n = (y+u)^n
+
+(y-u)^n + y^n = (y+1)^n
+
+(y-1)^n + y^n = (y+u)^n
+
+in nat. Zahlen y > u > 0 fuer nat. Hochzahlen n > 2 nicht ohne weiteres
+auf die Unloesbarkeit der allg. Fermatgleichung (y-u)^n + y^n = (y+v)^n
+bzw. der Gleichung vom Typ  x^n + y^n = z^n  geschlossen werden darf,
+statt sich mit den zur Diskussion gestellten Fragen zu beschaeftigen.
+
+So gesehen haette ich die o.a. Bemerkung unterlassen sollen, aber
+ich wollte ja lediglich auf die Unmoeglichkeit von rechtwinkligen Drei-
+ecken mit 3 ganzzahligen Seiten Sx=x^n,  Sy=y^n,  Sz=z^n  bei der-
+selben nat. Hochzahl n > 1 hinweisen und zur Frage ueberleiten:
+
+    Sind nicht auch rechtwinklige Dreiecke mit 3 ganzzahligen Sei-
+    ten, von denen jeweils 2 die Laenge von nat. Zahlen mit dersel-
+    ben nat. Hochzahl  n > 1 haben, unmoeglich?
+
+    Ist die Unloesbarkeit von  x^4 + y^4 = w^2 in natuerlichen Zah-
+    len  Sx=x^2,  Sy=y^2,  Sw=w  bei w als nat. Nichtquadratzahl
+    nicht schon in der von Junke bewiesenen Unloesbarkeit von
+    x^4 + y^4 = w^2   e r k e n n b a r, zumal es m.E. zu einer loes-
+    baren Gleichung  x^4 + y^4 = w^2 ein rechtwinkliges Dreieck
+    mit 3 ganzzahligen Seiten  Sx =x^2,  Sy = y^2,  Sz = w  geben
+    muesste. Vgl. diesbezueglich auch die loesbare Gleichung
+    x^3  +  y^3  =   w^2
+   1^3  +  2^3  =   3^2
+   4^3  +  8^3  = 24^2.
+
+
+: Ich war auch schon versucht, auf dies "höchstwahrscheinlich"
+: einen Kommentar zu senden. Im Gegensatz zu Deinem sehr
+: sachlichen und richtigen Kommentar haftet meinem allerdings
+: etwas Satirisches an
+
+kann ich nur insofern was, als ich eben die o.a. Bemerkung nicht
+unterlassen habe.
+
+
+Was nun die  - auch m.E. berechtigte / tiefsinnige - Frage
+
+
+betrifft, bedarf  Thorsten Felgentreff sicherlich nicht meiner Unter-
+stuetzung.  Nicht nur Mathematiker wissen, dass der sogenann-
+te "gesunde Menschenverstand" schon oft geirrt hat und auf ihn
+daher nicht ohne weiteres Verlass ist. Andererseits erkennen wir
+aber letztlich nur mit dem Verstand, dass er / wir geirrt hat / haben
+- und zuweilen habe ich den Eindruck, als ob Mathematiker zum
+Beweis math. Behauptungen / Vermutungen "kein Erkenntnisver-
+moegen / keinen Verstand usf." benoetigen ;-))
+
+Thierry Frage ist die m.E. doch wohl berechtigte Frage: Wer
+be- bzw. ueberwacht die Waechter / kontrolliert die Kontrolleure?
+
+Wie Dir bekannt sein duerfte, haelt Thorsten Felgentreff von meinen
+laienhaften Ueberlegungen / Ausfuehrungen zur FV ebensowenig
+wie Lennart Taubenheim. Thorsten schrieb am 30.10.2001 03:13  zum
+Betreff: Re: Fermat's "wunderbare" Loesung?
+
+
+: Erstens glaube ich es einfach nicht, dass dies Dein letzter Bei-
+: trag zu diesem Thema ist und zweitens wäre es auch schade.
+: Du bringst eine so herzerfrischend neben-mathematische Denk-
+: und Redeweise in die Gruppe. Das folgende halte ich für eine
+: richtige Perle:
+
+  I Wenn jemand mal bewiesen haben wird, dass es unendlich
+  I viele Primzahlzwillinge gibt, wird dieser Beweis zugleich auch
+  I der Beweis meiner Behauptung sein, dass es nach meiner
+  I Logik nicht unendlich viele Primzahlen geben koennte, wenn
+  I es nicht auch unendlich viele Primzahlen im Abstand 2 vonein-
+  I ander gaebe. BEACHTE  bitte die unterschiedliche Bedeutung
+  I dessen, was man als "LOGISCH" bezeichnet.
+
+: Es liegt sicher nicht nur an der weit vorgeschrittenen Zeit, dass
+: ich diesen Satzknoten nicht soweit auflösen kann, dass ich einen
+: Anfang und ein Ende darin erkennen könnte. Es ist eher eine prin-
+: zipiell andere Verwendung des Begriffes "Beweis", der einem rich-
+: tigen Verständnis meinerseits entgegensteht.
+: Für mich ist ein Beweis etwas, was folgerichtig und nachvollziehbar
+: von einer oder mehreren bekannten Tatsachen ausgehend zur Be-
+: stätigung eines Satzes führt. Sei es, dass dieser Satz eine Vermu-
+: tung wiedergibt, die mir selbst oder jemand anderem eingefallen ist,
+: sei es auch nur, dass man weiss: "Das gilt. Aber wieso eigentlich ?".
+: Macht man sich das dann sauber klar, so hat man in meinen Augen
+: auch einen Beweis geführt.
+
+Woher wissen die Mathematiker vor dem Beweis einer mathema-
+tischen Behauptung / Vermutung inkl. FV eigentlich, was logisch ist?
+
+Auf meine nachfolgende Bemerkung
+
+
+schrieb Lennart Taubenheim am 2. April 2002  21:38 11.
+
+: N a c h  dem Vierboom Beweis verstößt ein solcher Schluß nicht
+: gegen die Logik; wohl hätte er aber  v o r  diesem Beweis dagegen
+: verstoßen ...
+
+Was ich mit der o.a. "Unterschiedlichen Bedeutung dessen, was
+man als  l o g i s c h  bezeichnet" meinte, wird vielleicht verstaend-
+lich, wenn ich mich auf die vorstehende Bestaetigung der o.a. Be-
+hauptung "Der Beweis der FV ist der Beweis, dass..." beziehe und
+als Laie einfach mal schreibe: Was sich aufgrund eines Beweises
+sozusagen ex post als  l o g i s c h  erweist,  war  e s  doch auch
+schon ex ante, d.h. vor dem Beweis ;-))  und  es ist doch nicht aus-
+zuschliessen, dass dies ein Laie  unter Beruecksichtigung der Un-
+loesbarkeit der ganz speziellen symmetrischen Mittelgleichung A.
+(y-u)^n + y^n = (y+u)^n  in natuerlichen Zahlen y > u > 0  fuer natuer-
+liche Hochzahlen n > 2 in der Anordnung DAS, n=1, in deren Kopf-
+zeile doch auch  alle  nat. Quadrat- , Kubik-, Biquadratzahlen > 0
+usf. aufgefuehrt sind, hat  e r k e n n e n  koennen. ;-))
+
+Ebenso ist auch unter Beruecksichtigung der o.a. "unmoeglichen"
+rechtwinkligen Dreiecke mit ganzzahligen Seitenlaengen in der
+Unloesbarkeit von  x^4 + y^4 = z^4  in natuerlichen Zahlen x,y,z die
+Unloesbarkeit von  x^4 + y^4 = w^2  e r k e n n b a r. Wenn ein Laie
+einen Mathematiker hierauf hinweist, so sollte der Experte doch
+den - die  m a t h e m a t i s c h e  E r k e n n t n i s  vermittelnden  -
+formalen / mathematischen Beweis erbringen koennen. (*)
+
+
+Mit freundlichen Gruessen
+Winfried
+
+-------
+
+(*) Unvoreingenommenheit und Interesse an einer einfachen
+Loesung des Grand Problme vorausgesetzt.
+
+Hallo Lennart,
+
+entschuldige, dass ich hier schon auf einige Deiner Bemerkun-
+gen eingehe, also noch bevor ich auf Dein u.a. Posting antworte
+
+Lennart hat auf
+
+   Dass dem so ist, ist m.E. bei bewiesener Unloesbarkeit von
+   A. (y-u)^n + y^n = (y+u)^n  in nat. Zahlen y > u > 0 fuer n > 2
+   aus der jeweiligen DAS, n > 2 und vor allem aus der doch so
+   einfachen und uebersichtlichen DAS, n = 1  e r k e n n b a r.
+
+   Wie sollte bei Unloesbarkeit von (y-u)^3 + y^3 = (y+u)^3  in einer
+
+   beliebigen, auf die Zahl Z = z^3 in der Kopfzeile der DAS, n = 1
+
+   weisenden eld-Differenzenzeile eine Zahl Z = z^3 Summe von
+
+   2 Differenzen = 2 nat. Zahlen X = x^3 und Y = y^3 sein koennen?
+
+wie folgt geantwortet:
+
+Wieso sich eine solche Zahl dort befinden  k � n n t e  (nicht befinden
+muß), haben Dir schon mindestens  M >10  Mathematiker  mindestens
+N > 20  mal erklärt.
+
+Haben sie nicht und m.E. auch nicht koennen, auch Lennart nicht,
+der sich m.E. wiederum auf die DAS, n=3 bezieht, nicht aber auf die
+DAS, n=1. In dem Posting vom 7. Apr. 2002 02:37 schrieb Lennart
+
+Kannst Du beweisen oder zumindest auch nur stichhaltig begründen,
+daß die Summe von   z^3 - y^3   und   z^3 - x^3 ,  d.h.  die Summe
+2*z^3  -  y^3  -  x^3,  keine von z^3 verschiedene Kubikzahl w^3 sein
+kann?
+
+Selbstverstaendlich kann ich dies, da alle Z=z^3 in der Kopfzeile
+der DAS, n=1 mit ganz bestimmter Haeufigkeit Summe von 2 na-
+tuerlichen Zahlen = 2 Differenzen zwischen nat. Zahlen in der je-
+weiligen, auf Z=z^3 weisenden eld-Differenzenzeile der DAS, n=1
+sind. Es gilt z.B. in der auf Z=2197 = z^3 = 13^3 weisenden eld
+
+1+(Z-1) = 2+(Z-2) = 3+(Z-3) =..= 8+(Z-8) =..= 1098 + (Z-1098) = Z
+
+1+2196 = 2+2195 = 3+2194 =..=8+2119 =..= 1098 + 1099 = 2097
+
+Was gibt es da ueberhaupt / eigentlich stichhaltig zu begruenden
+bzw. was gibt es da eigentlich zu verstehen? Mit 1+1=2, 1+2=3
+und  3^2 + 4^2 = z^2  sind diesbezueglich "alle Spatzen gefangen".
+Das gilt m.E. auch bezueglich (u+u^2)/2 = v^n, das heisst, diese Gl.
+ist in nat. Zahlen u,v > 1 fuer nat. Hochzahlen n > 2 unloesbar bzw.
+die nat. Zahlen 1+2+3+...+usf. summieren sich nicht zu natuerlichen
+n.ten Potenzen > 1^n fuer nat. Hochzahlen n > 2, erkennbar schon
+in der DAS, n=1 bei fast evidenter Unloesbarkeit der ganz speziellen
+Mittelgleichung A fuer n > 2. In den eld-Differenzenzeilen sind die
+natuerlichen Zahlen > 0 schoen der Reihe nach aufgefuehrt. In der
+zum Beispiel auf die Zahl 50 weisenden eld stehen also die Zahlen
+
+1,2,3,4,5,.....,45, 46,47,48,49 und es ist 1+49=2+48=..=24+26=2*25
+
+und  24 * 50  + 25 = 48 * 25  + 25 = 25*49 = (3^2+4^2)(3+4)^2 = 35^2

@@ -1,0 +1,51 @@
+Ein System zum Betrieb des Gerätes ist ja die Software. Die Software mag
+aber nur in der Form eines Blatt Papiers neben der Maschine liegen. Um
+Ein- und Ausgabe interpretieren zu können, brauche ich eine Regel. Beim
+Jacquard-Webstuhl ist das im Prinzip auch schon der Fall. Die Regel liegt
+in Form der Lochkarte vor und die Interpretation der Lochkarte ist der
+fertige Stoff. Im Falle des Z1 war die Ausgabe glaube ich Klappen. Diese
+Ausgabe könnte per Zufall auch ein Windrad gesteuert sein, ist es aber
+nicht. Die Eingabe und die Ausgabe korrelliert mit dem Ergebnis und ist
+als solches regelgeleitet. Das der Rechner dann auch noch diese Regel
+selber in einem Speicher wie einem BIOS-RAM sich selber merken kann ist,
+dann die Software, die im Gerät mit verankert ist. Ein Gerät mit zwei
+Stangen und ein paar Kugeln darauf ist auch ein Rechner oder Rechenbretter
+sind auch Rechner. Der Unterschied zwischen diesen Jahrtausendalten
+Rechnern und einem Computer ist doch gewaltig. Du musst zur Bedienung
+eines Computers die Regeln nicht mehr kennen, wenn die Regel im Programm
+im Computer hinterlegt ist. Diese Regel bzw. der Algorithmus kann 1940
+oder 1960 oder 1970 oder 2000 geschrieben worden sein und es soll wirklich
+Programme geben die 1970 geschrieben worden sind und heute noch
+unverändert laufen. Das ist auf jeden Fall vom Menschen unabhängig
+gespeichertes Wissen, das im Gegensatz zu einem Buch auch noch eine
+sinnvolle Tätigkeit übernimmt. Dabei existiert eine solche Software
+unabhängig von der Hardware. 
+Betriebssystem ist nur eine Softwarekategorie, aber im Prinzip ist es
+ebenso Software. Es kann natürlich sein, das diese Regel festverdrahtet
+ist und nur noch in Hardware vorliegt und damit nicht veränderbar ist.
+Doch wenn Buchstaben in Tinte auf dem Papier landen, dann ist ja nicht der
+Schlüssel daran die Tinte und das Papier, sondern das, was auf dem Blatt
+steht. Ein Blatt Papier ist dabei aber unveränderlich, Software ist dies
+im Prinzip nicht, selbst wenn die Software nur auf einem Blatt Papier
+stünde. 
+
+
+Bist du dir Sicher? Ein einzelner Prozessor langt nicht aus, aber dann
+schau dir mal die Top500 an und schau dir die Prozessoren. Der schnellste
+REchner der Welt ist immer noch ein Vektorrechner, das bedeutet aber
+nicht, das die anderen Rechner die sich da in den Top500 tummeln, die
+Programme einer Impler von damals nicht auch durchrechnen könnten. Wer
+weiss, vielleicht gibt es sogar eines Tages solche Programme als Emulation
+für Workstations. Clustereigenbauten sind auf jeden Fall leistungsfähig
+um Rechenaufgaben von vor 20 Jahren vorzunehmen egal auf welchem
+Supersystem sie damals gelaufen sein mögen. Das Vektorrechner eine andere
+vorgehensweise haben, als ein Desktoppc sei unbestritten. Dann sind wir
+weg von der reinen Rechenmaschine, denn die Top500 bewerten nur die reine
+Rechenleistung, wenn andere Kriterien als die reine Rechenleistung wichtig
+sind, dann ist der Computer halt doch nicht einfach nur ein Rechner. 
+
+
+Jo, Schönheit gewinnt aber leider keinen Preis. 
+
+Grösse,
+Ullrich

@@ -1,0 +1,18 @@
+für die Expansion selbst die Dimensionenzahl egal, es muss nur
+mindestens eine Raumdimension da sein. Für die Feldgleichungen ist die
+Dimensionenzahl schon wichtiger, da der Energie-Impuls-Tensor die Form
+
+(T_ij) =3D diag(rho, p, ..., p)
+
+hat und die Zahl der p-Einträge gleich der Zahl der Raumdimensionen
+ist. Für d Raumdimensionen ist daher
+
+\ddot{a}/a ~ (rho + d p)
+
+so dass für eine beschleunigte Expansion p < -rho/d sein muss. Mit nur
+einer Raumdimension d=3D1 z.B. würde p =3D -rho nicht zur Beschleunigung
+führen.
+
+Falls du die Zusatzdimensionen der Supergravitations- und Superstring-
+Theorien im Hinterkopf hast: die haben mit der kosmischen Expansion
+nichts zu tun.

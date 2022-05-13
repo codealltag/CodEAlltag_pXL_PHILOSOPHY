@@ -1,0 +1,40 @@
+Hallo Fred,
+
+ich habe über das nachgedacht, was Du geschrieben hast und würde jetzt
+folgendermaßen formulieren:
+
+Wie schon erwähnt, sind die Werte physikalischer Messgrößen in der
+Regel in einem quantenmechanischen Zustand nicht genau definiert.
+Allerdings gibt es Zustände, in denen eine bestimmte physikalische
+Größe (z.B. die Energie) einen ganz bestimmten Wert hat. Solche
+Zustände nennt man reine Zustände. Durch eine physikalische Messung
+wird nun das System förmlich in einen reinen Zustand gezwungen,
+nämlich in genau den reinen Zustand, der dem Messergebnis entspricht.
+Nach einer Energiemessung wird das System in einem reinen Zustand
+bezüglich der Energie sein, d.h. in einem Zustand, in dem die Energie
+einen genau defnierten Wert hat.
+
+Dieser reine Zustand, den eine Messung erzwingt, wäre in dieser Form
+nicht eingetreten, wenn man das System einfach sich selbst überlassen
+hätte. Anders ausgedrückt: Die Messung beeinflusst das System und zwar
+in einer nicht vorhersagbaren oder _nichtdeterministischen_ Weise.
+Vorhersagbar sind nur (aber das wieder ganz exakt) die moeglichen
+Messergebnisse und die Wahrscheinlichkeit von deren Auftreten.
+Dein Detektorbeispiel belegt dies: Es handelt sich hier um eine
+Messung des Ortes eines Teilchens und zwar nach dem Motto 'Teilchen
+nicht hier!!' oder 'Teilchen hier!!!". Der Zustand, in dem das System
+nach der Messung ist, ist der Zustand in dem der Ort das Teilchens
+genau festgelegt ist, nämlich der Ort des Detektors.
+
+In einem ungestörten Systemen allerdings, an denen niemand eine
+Messung vornimmt, entwickelt sich alles streng deterministisch und
+zwar so wie es die Schrödingergleichung vorschreibt.
+
+In gewissem Sinn zerstört man durch eine Messung den Determinismus,
+den die Schrödingergleichung mit sich bringt. Der Übergang vom
+'ungemessenen' zum 'gemessenen' System geschieht auf
+nichtdeterministische Weise und kann nicht exakt vorausberechnet
+werden.
+
+ ciao,
+  Kaspar

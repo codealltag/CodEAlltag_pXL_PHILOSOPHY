@@ -1,0 +1,34 @@
+On 29. 04. 22 15:00:10 -0800, "Paul Jungcurt"
+Der Terminus scheint aber durchaus für die von Dir (uns) intendierte
+Logik verwendet zu werden.
+
+übrigens, was die Operatoren betrifft, habe ich auf die Schnelle
+folgende Übersicht im I-net aufgetan (in Klammern habe ich die
+Bezeichnungen aus der deutschen Übersetzung von Copis /Introduction to
+Logic/ angegeben):
+
+Modalities
+
+    * Alethic
+          o Possibility: <>
+          o Necessity: []
+    * Deontic
+          o Obligitory: O (G)
+          o Permission: P (E)
+    * Temporal
+          o It will always be: G 
+          o It has always been: H
+          o Past: P
+          o Future: F
+    * Doxastic Logic
+          o Bx x believes that ... (G)
+    * Epistemic
+          o Kx it is known that (W)
+    * Provability
+          o Px: x is provable
+
+W e n n es denn unbedingt sein muss, würde ich das allenfalls "die
+Modallogik im engeren Sinne" nennen.
+
+
+A.

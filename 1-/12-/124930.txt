@@ -1,0 +1,46 @@
+Hi Ä,
+Am 2 Jul 2002 16:44:09 +0200 stolperte ich über die Aussage von Q:
+
+
+Abgesehen davon, das es auch neuronale Netze als Hardware gibt, hast du
+eine etwas merkwürdige Auffassung von Computer. Die reine Hardware ist für
+mich nämlich kein Computer. Ein Computer bedurfte schon zur Zeiten der
+Lochkarten dringend der Software, um überhaupt funktionieren zu können. Im
+Prinzip war der erste Computer ein Webstuhl, der im Gegensatz zu früheren
+Webstühlen eine Software der einzelnen zu webenden Muster in Form einer
+Lochkarte zu füttern bekam. Diese Prinzip wurde dann irgendwann auf
+Rechenwerke übertragen, doch erhielt all das noch nicht den Namen
+Computer, obwohl hier schon bereits die Trennung zwischen Hart- und
+Weichware vorhanden war. Die Löcher in der Karte sind im Prinzip nur
+Löcher und die Regelanleitung wie die Maschine zu arbeiten hat. Ohne diese
+Löcher keine funktionierende Maschine. All das wie gesagt hat den Namen
+Computer noch nicht abbekommen. 
+Computer wurden jene Maschinen genannt, die schliesslich ohne Software
+überhaupt nicht funktionierten. Sie brauchten zur reinen Funktion bereits
+ein Betriebssystem. Dieses Betriebssystem und sei es nur in einem ROM
+gebrannten grundlegenden Ein- und Ausgabeprogramm, war Bedingung, damit
+die Maschine überhaupt arbeiten konnte. Nimmt man einer solchen Maschine
+jenes BIOS funktioniert sie nicht mehr. Das erste Gerät
+welches diese Bedingungen eine Computers nämlich die freie
+Programmierbarkeit erfüllte war der Z1 von 1935
+Leitwerk, Programmsteuerung, Speicher, Mikrosequenzen, Gleitkommarithmetik
+sind schon damals enthalten. Die eingebauten Steuerungsbefehle mit denen
+etwas in R1 oder R2 abgelegt werden konnte, sind die Software mit der die
+Maschine gesteuert werden konnte. Ohne Software ist der Z1, der im
+Gegensatz zu allen späteren Zusecomputern ohne Relais auskam ein Haufen
+Blech. Zur Programmierung wurden bei diesen Computern immer noch
+Lochstreifen verwand und diese Lochstreifen als Software hielten sich wohl
+noch bis in die frühen 70er Jahre bei Computern.  
+Der S1 hatte ein festverdrahtetes Programm und als solches liegt bei
+diesem Computer die Software in Hardware vor. Auch heute noch fliest
+Software in Hardware ein. DirectX in der Microsoftwelt ist ursprünglich
+eine Software, die heute in Grafikkarten der Hardware vollintegriet ist.
+Genauso passiert es mit MPG-Dekodern und Enkodern, da die Ausführung in
+Hardware in der Regel schneller und Leistungsfähiger ist als in Software.
+Umgekehrt lässt sich auch Hardware in Software simulieren.
+
+   Die Frage, die eigentlich nach dieser Darstellung steht, ist, was
+verstehst du unter einem Computer?
+
+Grösse,
+Nils

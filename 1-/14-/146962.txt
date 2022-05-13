@@ -1,0 +1,23 @@
+Lukas Matzka wrote:
+[...]
+
+Deine Abfragerei ist lustig, da fühlt man sich gleich wie in der 
+Grundschule! Wollen wir uns vielleicht etwas  gegenseitig ins 
+Poesieablum schreiben? :)).
+
+"Korrektheit" ist eine Eigenschaft einer Sequenzenregeln: Von 
+Schlussformen. Sequenzenregeln sind Transformationsregeln im 
+Sequenzenkalkül. Man kann also definieren, wie man in einer Sprache 
+von einem wahren Ausdruck (Ausdrücken) zu einem anderen wahren 
+Ausdruck übergehen kann. 
+Aber an den Beweisen für die Korrektheit der Schlüsse fällt mir zum 
+Beispiel auf, dass man Schlüsse für eine beliebiges aber einzelnes 
+Modell zeigt, dann aber zur Gesamtheit aller Modelle übergeht: dass 
+man das kann, wird vorausgesetzt und nicht gezeigt: die Existenz der 
+Gesamtheit wird vorausgesetzt, und genau das, war mir fragwürdig.
+Es fällt mir auf, dass nur von definierten Eigenschaften der Modelle 
+gesprochen wird. Wie man diese Modelle auf die Wirklichkeit beziehen 
+soll, damit dieses Schließen nicht völlig leer und formal bleibt, 
+wird nicht einmal thematisiert.
+Gruss,
+Volker.

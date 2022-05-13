@@ -1,0 +1,22 @@
+Die Punkte stehen hier für die UND-Verknüpfung
+
+
+Das A ist hier einfach (wie oben definiert) ein Prädikat
+
+
+Da hast Du recht, ist (wie mir jetzt auffällt auch formal richtiger, 
+weil ich ja einen logischen Schluß darstellen will, keine materiale 
+Implikation...
+
+Also hier das Argument:
+
+
+Seien x,y e M := Menge der Menschen auf dem Arbeitsmarkt
+
+1. A(J).B(J)
+2. (x)(y)(A(x).A(y) --> x=y)
+(x)(A(x) --> B(x))
+
+
+Größe
+Viktor

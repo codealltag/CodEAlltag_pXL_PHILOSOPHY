@@ -1,0 +1,13 @@
+Beat Neunheuser wrote:
+
+ [...mengen, die sich selbst enthalten...]
+
+
+ So ist es. Aber dass Mengen gleich sind, wenn sie dieselben Elemente
+ enthalten, ist ein Axiom in ZF, das Du nicht ohne weiteres in
+ anderen Systemen verwenden kannst; insbesondere nicht in solchen,
+ die Mengen zulassen, die sich selbst als Element enthalten.
+ Mit der intuitiven Vorstellung von Mengen kann man nur innerhalb
+ von ZF argumentieren.
+
+otto

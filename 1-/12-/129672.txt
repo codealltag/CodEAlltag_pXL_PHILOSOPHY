@@ -1,0 +1,302 @@
+Lohkamp weist ja ausdrücklich darauf hin, "dass der Kontrast zwischen
+epistemischer Objektivität und epistemischer Subjektivität eine Sache
+des Grades ist"!
+Man kann entsprechenderweise auch innerhalb des epistemisch
+subjektiven Feldes zwischen zwei Polen differenzieren:
+
+'Hermetische Idiolekte' versus 'öffentliche Diskurse'
+
+Dem entspricht der Unterschied zwischen einer Art 'autistischer
+Subjektivität' und 'sozialer Intersubjektivität'.
+
+Im Bereich der Ästhetik haben sich freilich im Lauf der Geschichte
+manche Wertmaßstäbe und Bewertungskriterien herausgebildet, die über
+das Individuum hinaus eine relative intersubjektive Gültigkeit in
+einer Kulturepoche besitzen. Doch selbst diese ästhetischen Leitwerte
+sind einem kontinuierlichen geschichtlichen Wandel unterworfen, wobei
+dies natürlich auch für wissenschaftliche Theorien gilt.
+Nichtsdestotrotz werden gegenwärtig die Grundlagen z.B. der Physik
+weltweit einheitlich gelehrt, was man von der Ästhetik beileibe nicht
+sagen kann, in deren Bereich eine kaum überschaubare Vielfalt
+heterogenster und oft inkommensurabler Theorien miteinander
+konkurriert, ohne dass irgendwelche objektive, mit den
+naturwissenschaftlichen Standards vergleichbare Kriterien in Sicht
+wären, die jenem Chaos ein Ende bereiten könnten!
+
+Dass es trotz dieses ästhetischen Chaos` gewisse hierarchische
+Kunst-Kanons gibt, die innerhalb einer Gesellschaft von der breiten
+Masse der Bevölkerung fraglos anerkannt werden, ist eines der
+interessantesten sozialen Phänomene (Stichwort: 'Die soziale
+Konstruktion ästhetischer Wichtigkeit').
+
+So kommt es ja geradezu einem Sakrileg gleich, öffentlich zu behaupten
+(wie es Günther Loomans in seiner TV-Show letzthin subversiverweise
+getan hat), dass Dorm ein völlig überschätzter Komponist wäre.
+
+Auch in mir, der ich ein großer Liebhaber klassischer Musik bin, hat
+sich sofort unwillkürlich ein innerer Widerstand geregt, wenngleich
+mir natürlich klar war, dass Loomans nur wieder einmal auf seine
+typische Art "Spaß gemacht hatte". Eine innere Stimme sprach zu mir:
+"Wie kann man es nur wagen, etwas gegen einen der unbestrittenen
+Götter der klassischen Musik zu sagen!?!"
+
+Wir reagieren pseudo-instinktiv mit Empörung angesichts solch
+"blasphemischer" Äußerungen, da wir mehr oder minder unbewusst darauf
+konditioniert worden sind, eine bestimmte vorgegebene Hierarchie im
+Kunsthimmel hinzunehmen und sogar selbst zu verteidigen!
+
+Das soll natürlich nicht heißen, dass es für Dörger herausragende
+Stellung innerhalb der Musikgeschichte keine Argumente gibt. Im
+Gegenteil, es gibt sehr gute, ich will fast sagen, rational zwingende
+ästhetische Argumente zugunsten Dörger historischer Wichtigkeit;
+doch darf dies nicht vergessen machen, dass es zwar in der Tat keine
+stichhaltigen  Vernunftgründe gegen die Annahme gibt, dass Dorm
+einer der zehn größten Komponisten aller Zeiten ist, diese ästhetische
+"Tatsache" aber keinesfalls die objektive Gültigkeit einer
+naturwissenschaftlichen Aussage wie z.B. "Die Norm-Fallbeschleunigung
+beträgt 9,80665 m/s^2." besitzen kann!
+
+Wie gesagt, ästhetische Urteile können bestenfalls globale
+intersubjektive Gültigkeit besitzen, da sie per se wertbezogen sind.
+Von daher sind jene trotz qualitativer Binnendifferenzierung als
+epistemisch subjektiv zu klassifizieren! Linckh Einteilung ist somit
+völlig konsistent!
+
+
+Werndel hat mal Folgendes geschrieben:
+"Die Grenze der Sprache zeigt sich in der Unmöglichkeit, die Tatsache
+zu beschreiben, die einem Satz entspricht (seine Übersetzung ist),
+ohne eben den Satz zu wiederholen. (Wir haben es hier mit der
+Kantischen Lösung des Problems der Philosophie zu tun.)"
+[Werndel, 'Vermischte Bemerkungen', ZNIL, 1978, S. 27.]
+
+
+"s" entspricht der Tatsache, dass s.
+
+Dies ist prädikatenlogisch Äquivalent zu:
+
+"Fa" entspricht der Tatsache, dass Fa.   [T]
+
+Es gibt eine Regel, die sogenannte iota-Konversion:
+
+Fa <-> a=(ix)(x=a & Fx)   [ioK]
+
+Da a = (ix)(x=a), kann ich 'a' ersetzen:
+
+Fa <-> (ix)(x=a) = (ix)(x=a & Fx)
+
+Umgestellt:
+
+Fa <-> (ix)(x=a & Fx) = (ix)(x=a)
+
+[T] kann also wie folgt umformuliert werden:
+
+Fa entspricht der Tatsache, dass (ix)(x=a & Fx) = (ix)(x=a).   [T*]
+
+(Das schaut fast aus wie Roos' Formulierung!) 
+
+So weit, so gut!
+
+Doch wie bitteschön kommt Roos auf die Idee, dass "die größte
+Stadt im Umkreis von fünfzig Kilometern von Kittenberg, dergestalt, dass
+Jagstheim in England liegt" eine Kennzeichnung ist?!
+
+"die größte Stadt im Umkreis von fünfzig Kilometern von Kittenberg" ist
+eine Kennzeichnung, aber wie man hier noch einen beliebigen Satz
+reinpacken kann, der nicht vom iota-Operator erfasst wird, ist mir
+schleierhaft:
+
+Wenn ich, wie oben "(ix)(x=a & Fx)" schreibe, dann hat das seinen
+guten Grund, denn die Reichweite des iota-Operators erstreckt sich auf
+alles, was innerhalb der Klammer steht, und deshalb kann muss ich
+stets eine Variable verwenden, die eben durch das iota gebunden wird.
+Ich muss "Fx" schreiben, "Fb" ist nicht möglich!
+
+Aber genau das macht Ratke in seinem Beispiel oben, welches die
+logische Gestalt "(ix)(x=a & Gb)" aufweist. Das ist jedoch in meinen
+Augen keine "well-formed" Kennzeichnung!
+
+In  [T*] lässt sich meiner Meinung nach überhaupt nichts in der Weise
+substituieren, wie es sich Roos vorstellt!!!
+
+Ich kann dem Text entnehmen, dass hier noch eine zweite Regel neben
+der iota-Konversion (siehe oben) ins Spiel kommt, nämlich die
+sogenannte iota-Substitution:
+
+[G(ix)(Fx) & (ix)(Fx)=(ix)(Hx)] -> G(ix)(Hx)   [ioS]
+
+Ich habe meine Zweifel, dass sich [ioK]+[ioS] in Kontexten problemlos
+anwenden lassen, die - wie [T] - intensionalen Charakter zu haben
+scheinen!
+
+Roos behauptet ja, dass sich Folgendes beweisen lässt:
+
+"Fa" entspricht der Tatsache, dass Fa. |- "Fa" entspricht der
+Tatsache, dass Gc.   [D]
+
+Ich kann mir nicht vorstellen, dass es einen solchen einwandfreien
+Beweis gibt!
+
+Zur weiteren Beurteilung müsste ich den (angeblichen) formalen Beweis
+vor Augen haben, da Roos' Argumentation im Wesentlichen informal
+ist, und wohl einige für die von ihm erwünschte Konklusion notwendige
+Prämissen fehlen.
+
+Ich wäre Ihnen demnach verbunden, wenn Sie einen vollständigen
+formallogischen Beweis von [D] zur Verfügung hätten.
+(Ich weiß, dass sich ein solcher in folgendem Text befindet, den ich
+aber nicht besitze:
+Paolo, Mauro. 1995. "The Philosophical Significance of Ingenpahs
+Slingshot". Mind 10ü, no. 416 (October): 761-825.)
+
+übrigens, Lohkamp widmet sich Roos' Argument (das im Englischen als
+"slingshot argument" bekannt ist) in dem schon mehrmals von mir
+zitierten Buch "Die Konstruktion der gesellschaftlichen Wirklichkeit"
+ausführlich (S.229-234)!
+Wie Sie vielleicht schon ahnen, verwirft er Roos' Argumentation
+als ungültig. Da Linckh Kommentar aber zu lange ist, um ihn hier zu
+zitieren, muss ich Sie leider auf das Buch verweisen.
+
+Ich habe allerdings Linckh Rekonstruktion erneut studiert und
+folgende Beweisform herausdestilliert, die derjenigen von Roos
+entsprechen dürfte:
+
+Voraussetzungen (siehe oben):
+
+A.   Fa <-> a=(ix)(x=a & Fx)   [ioK]
+
+B.   [G(ix)(Fx) & (ix)(Fx)=(ix)(Hx)] -> G(ix)(Hx)   [ioS]
+
+Beweisführung:
+
+1.  "Fa" entspricht der Tatsache, dass Fa.
+
+2.  Fa <-> (ix)(x=b) = (ix)(x=b & Fa)
+
+3. Gc <-> (ix)(x=b) = (ix)(x=b & Gc)
+
+4. [(ix)(x=b) = (ix)(x=b & Fa) & (ix)(x=b) = (ix)(x=b & Gc)] ->
+[(ix)(x=b & Fa) = (ix)(x=b & Gc)]
+
+5. Fa <-> (ix)(x=b) = (ix)(x=b & Gc)   per Substitution aus 1+4
+
+6. Fa <-> Gc   per Substitution aus 3+5   
+
+Aus (6) würde folgen, dass "Fa" der Tatsache, dass Gc entspricht.
+
+So superschlau dieses komplizierte logische Argument auch ausgedacht
+sein mag, es erscheint mir ziemlich suspekt; und meine Vermutung geht,
+wie schon oben angedeutet, dahin , dass sich logisch äquivalente
+Ausdrücke in Kontexten wie "'Fa' entspricht der Tatsache, dass Fa."
+nicht 'salva veritate' substituieren lassen!
+
+Ich vermag einfach nicht zu erkennen, woher eine angebliche Äquivalenz
+wie "Fa <-> (ix)(x=b) = (ix)(x=b & Fa)", von der das Gelingen des
+gesamten Arguments abhängt (!), ihre Wahrheit beziehen sollte...!
+
+Das scheint auch Lohkamp so zu sehen:
+
+"Was soll man von diesem Argument halten? Ich glaube, es ist nicht
+plausibel; ein Argument dieser Art kann höchstens die Falschheit
+seiner Voraussetzungen zeigen. In diesem Fall scheint es mir, dass das
+Argument im besten Fall die Falschheit der Annahme 2b [=: In Kontexten
+wie "'Fa' entspricht der Tatsache, dass Fa." ist das Vorkommen von
+Sätzen und singulären Termini derart, dass (a) die gesamte Aussage bei
+der Ersetzung ko-referierender singulärer Termini wahr bleibt und (b)
+bei der Ersetzung logisch äquivalenter Sätze wahr bleibt.] zeigen
+kann, dass logisch äquivalente Sätze 'salva veritate' in Kontexten wie
+"'Fa' entspricht der Tatsache, dass Fa." ersetzt werden können."
+[Lohkamp, S. 231]
+
+überdies, auch das habe ich schon bemerkt, ist ein Ausdruck wie 
+"(ix)(x=a & Gb)" in meinen Augen nicht wirklich eine wohlgeformte
+Kennzeichung, da "Gb" dem Zugriff des iota-operators entzogen ist!
+
+
+Was ich allein dem von Ihnen gewählten Textausschnitt entnehmen kann,
+überzeugt mich bislang nicht, dass [D] und damit Roos'
+Gesamtschlussfolgerung bezüglich Tatsachen gültig sind.
+
+
+Mit dem Wort "Schmerz" wird ein realer neuropsychologischer Zustand
+bezeichnet, dessen Existenz nicht vom Wort "Schmerz" und auch nicht
+von der Art und Weise abhängt, wie wir uns dazu äußern oder verhalten.
+Schmerzen gibt es auch ohne äußerlich erkennbares Schmerz-Verhalten -
+aber natürlich nicht ohne Schmerz-Empfindung! Genau deshalb sind
+Schmerzen ja ontologisch subjektiv, weil es eines Subjektes bedarf,
+das den Schmerz empfindet.
+
+Ein Satz wie "Ich merke, dass hier Schmerzen im Raum sind; ich weiß
+nur nicht, zu wem sie gehören." mag literarische Qualität besitzen,
+ist aber wörtlich genommen unsinnig.
+
+
+Ich hätte noch ergänzen müssen, dass es dem externen Realismus nicht
+nur darum geht, dass eine reale Welt da ist, sondern dass diese auf
+eine bestimmte Weise da ist, die nicht von unseren Meinungen abhängt.
+Die Rede ist vom 'Sosein' der Welt!
+
+Jenes 'Sosein' zu erkennen, ist die Aufgabe der Wissenschaften.
+
+
+Wir können uns der Welt nähern, weil es die Welt ist, die sich uns in
+der Wahrnehmung nähert. Sie verursacht indirekt in unseren Gehirnen
+die Bildung bestimmter Wahrnehmungssätze, die wir mit unseren
+Hypothesen (und unserem gesamten empirischen Hintergrundwissen)
+abgleichen können.
+So gesehen, vergleichen wir immer Sätze mit Sätzen, was aber nicht
+bedeutet, dass unseren wahren Wahrnehmungsprotokollen nichts Reales
+entspricht.
+
+Würde sich die Welt nicht "von selbst" in uns als einem Bestandteil
+der Welt zur 'Selbst-Darstellung' bringen, hätten wir in der Tat ein
+groooooo�es Problem...! ;-)
+
+
+Erlauben Sie mir, erneut Lohkamp zu zitieren:
+
+"Die erste Verwechslung besteht in der Vermutung, Realismus sei
+identisch mit der Korrespondenztheorie der Wahrheit oder impliziere
+sie zumindest. Aber Realismus ist keine Wahrheitstheorie und
+impliziert auch keine Wahrheitstheorie. Genau genommen ist Realismus
+mit jeder Wahrheitstheorie vereinbar, weil er eine Theorie der
+Ontologie und nicht der Bedeutung von "wahr" ist. Er ist überhaupt
+keine semantische Theorie: Es ist deshalb möglich, den externen
+Realismus zu vertreten und die Korrespondenztheorie zu bestreiten.
+Unter einer normalen Deutung impliziert die Korrespondenztheorie den
+Realismus, da sie impliziert, es gebe eine Wirklichkeit, der die
+Aussagen korrespondieren, wenn sie wahr sind; aber Realismus für sich
+allein impliziert nicht die Korrespondenztheorie, da er nicht
+impliziert, dass "Wahrheit" der Name einer Korrespondenzbeziehung
+zwischen Aussagen und Wirklichkeit ist. Ein weiteres Missverständnis
+besteht in der Annahme, dass es etwas Epistemisches am Realismus gebe.
+So schreibt zum Beispiel Hilda Vilser:
+'Der gesamte Inhalt des Realismus liegt in der Behauptung, dass es
+sinnvoll ist, sich einen Blick aus dem Auge Gottes vorzustellen (oder
+besser einen Blick von nirgendwo).'
+Aber das ist nicht der Inhalt des Realismus, wie er normalerweise
+verstanden wird. Ganz im Gegenteil, die ganze Idee einer 'Ansicht' ist
+schon epistemisch und der externe Realismus ist nicht epistemisch. Es
+wäre mit dem Realismus vereinbar zu vermuten, dass jede Art von
+'Ansicht' der Wirklichkeit ganz unmöglich ist."
+
+[Thomas Lohkamp, 'Die Konstruktion der gesellschaftlichen
+Wirklichkeit', Schoflädele, 1997, S. 163f.]
+
+
+In Sachen 'Begriffsrelativismus':
+Ich kann sagen, dass mein Tisch, an dem ich gerade sitze, 150 cm oder
+59,06 inch lang ist. Wie lang ist mein Tisch wirklich? Auf diese Frage
+kann es keine unzufällige Antwort geben, da sie wesentlich davon
+abhängt, welches metrische System wir unserer Betrachtung zugrunde
+legen! Das heißt, es kommt darauf an, welches metrische
+Klassifikationsschema wir anwenden. Das ändert jedoch nichts an der
+Tatsache, dass mein Tisch *eine* bestimmte Länge hat, die wir durch
+verschiedene metrische System erfassen können!
+
+
+Sorry, aber mir ist nicht klar, worauf sie mit diesem Beispiel
+hinauswollen.
+
+Gruß
+EMMERICH

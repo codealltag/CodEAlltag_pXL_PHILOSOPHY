@@ -1,0 +1,35 @@
+Viktor Isenhagen wrote:
+LS> In article <64a12kri.99066111@cjkc.tvml.nh> yxbp@mghm-we.wj
+
+LS> Das sieht mir aber mehr nach A->C & B->C => B->A aus. Und das kommt
+LS> wohl nicht so ganz hin.  ;-)
+
+Das scheint mir aber doch ein klassischer Syllogismus zu sein, wenn
+auch die Major- und Minorpraemisse vertauscht sind, was an der
+Folgerichtigkeit nichts aendert. Die Form des Schemas entspricht
+dieser:
+
+Alle Deutschen sind Menschen. & Alle Menschen sind Sterbliche.
+=> Alle Deutschen sind Sterbliche.
+
+In der Mengenschreibweise sollte das so aussehen.
+
+((k in K): k in A) & ((a in A): a in S) => ((k in K): k in S)
+
+K: Menge der Kausalaussagen k
+A: Menge der Analytische Aussagen a
+S: Menge der von der Sprache abhaengenden Dinge
+
+So, jetzt ist alles so abstrahiert und logisch, bloss was sollte
+eigentlich bewiesen werden? Sind die Praemissen ueberhaupt richtig?
+War Reithmaier nicht der Auffassung, dass nicht nur naturwissenschaftliche
+Aussagen (in Form von Kausalgesetzen) synthetische und keine
+analytischen Urteile sind, sondern auch mathematische (z.B. 7+5)?
+Reithmaier ist in der Mathemaktik scheinbar eher ein Vorlaeufer des
+Konstruktivismus. Wie passt das mit der ersten Praemmisse zusammen?
+
+-- 
+.----- _privat: luwkb@lyuq.sjpf.mw_ *"Subject: pgpsend" 4 key* ----------.
+(-------- _uni: xtxvjj21@xeqbkn.ffppfbtuve.omw-hxahqxth.ch_ -------------)
+(------- _fido: Vakwtrr_Clezm@l0.z7813.r5014.v5.lvrrppt.gfl_ ------------)
+`-- *PGP fingerprint: 34 E9 05 7E 00 AF 1E 34 55 B6 D6 50 69 2E C3 C2* --'

@@ -1,0 +1,48 @@
+Ich haette einen Vorschlag zu machen, wie man vielleicht systematisch
+herausfinden koennte, was Information ist.
+
+Ein Grundproblem, dass bei der Erforschung der Information m.E.
+besteht, ist die scheinbar fast grenzenlose Beliebigkeit, in der das
+Phänomen "Information" auftreten kann. Besonders gut zu erkennen ist
+das an der Vielzahl der auf der Erde gesprochenen Sprachen. Ausserdem
+gibt es eine Vielzahl von Speichermethoden, diese Sprachen auf
+irgendwelche Datenträger zu bringen. Diese Vielzahl betrifft zum einen
+die logischen Strukturen und zum anderen die physikalischen Phänomene
+der Speichermedien.
+-----------------------------------------------------------
+Die Frage ist doch: Was haben alle diese Dinge gemeinsam ?
+-----------------------------------------------------------
+Es muss ja irgend ein verbindendes Element geben - eben das, was wir
+Information nennen. Wir empfinden: da ist etwas Gleiches etwas
+Gemeinsames; wir wissen aber nicht, was das ist.
+
+Koennte man sich nicht ein Verfahren vorstellen, um dieses gemeinsame
+Element quasi herauszudestillieren ?
+
+Ein solches Verfahren moechte ich vorschlagen:
+
+Man nehme (zwei Eier SCNR :-) mehrere Programmiersprachen und eine
+Reihen von Programmieraufgaben, die mit Hilfe dieser Programmier-
+sprachen moeglichst kompakt realisiert werden. Dann modifiziere man
+diese Programmiersprachen in Richtung einer _Vereinfachung_ d.h. man
+sieht sich den Quelltext an, vergleicht die Lösungen miteinander und
+entwickelt eine Methode, die gleichen Probleme mit weniger Befehlen
+und vor allen Dingen: in einer einfacheren Struktur zu programmieren.
+
+So nach und nach muessten sich die modifizierten Programmiersprachen
+einander annaehern, denn es zu vermuten, dass es nur _einen_ optimalen
+Punkt gibt.
+
+Am Schnittpunkt der Entwicklungslinien muss die reine Information und
+nichts als die Information zu sehen sein ?!
+
+
+:-) Gruesse von der Kueste
+
+Folkert
+
+
+-- 
+Der kleine Mythos des Alltags: Wir wissen zwar nicht, wovon
+wir reden, gleichwohl koennen wir es aber dennoch tun.
+C.Coordts

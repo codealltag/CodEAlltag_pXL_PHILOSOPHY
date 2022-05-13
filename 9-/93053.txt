@@ -1,0 +1,59 @@
+In der Praxis bedeutet das zwei Welten und Du weit das auch.
+Wenn das Gehirn parallel arbeitet und angenommenerweise eine
+exponentielle statt eine linearen Komplexität aufweist, ist die
+Behauptung der Äquivalenz von sequentiell und parallel genauso
+sinnfrei wie die Behauptung, dass sämtliche Verschlüsselungs-
+algorithmen völlig unsicher sind, weil man nur alle
+Kombinationen durchzuprobieren braucht.
+Schlimmer noch, sämtliche Aufgaben, bei denen der Input wesentlich
+schneller hereinkommt als die Verarbeitungsgeschwindigkeit zuläßt,
+können nicht simuliert werden. Ok, beim Sehen sollen es 10 MBit/s
+
+
+Ich habe noch mal darüber nachgedacht; in "sci.logic" gab es eine
+Debatte "Non-computability", wo der Proponent ebenfalls die
+Nichtvergleichbarkeit von serieller und paralleler Maschine
+postuliert. Leute wie Erwin Wickinghoff sind der Meinung, dass parallele
+nicht synchronisierte Maschinen tatsächlich nicht turingkompatibel
+sind, dies jedoch nicht an der Konstruktion, sondern an dem
+Prinzip "NINO" liegt: Nichtkompatibler Input gibt nichtkompatiblen
+Output.
+
+Dann ist mir noch etwas eingefallen und ich schlage deshalb ein
+Fup to dsim vor.
+
+Ich stelle mir eine Maschine mit zwei Köpfen vor, die unsynchronisiert
+geschaltet sind. Diese laufen auf einem Band, das folgendermaßen aus-
+sieht:
+    K1               K2
+----------------------------------Endlosschleife-----Endlosschleife---
+
+Der Kopf Philippe alleine wird in der Endlosschleife hängenbleiben. Der
+Kopf K1 hat jedoch die Eigenschaft, Bitmuster zu erzeugen, die die
+Schleife auflösen, so dass beide Köpfe weiterarbeiten können. Je nach
+Form der Schleife wird Information über den Rechenvorgang gegeben.
+
+Wenn man bezweifelt, dass man beide Köpfe benötigt oder dass die
+Endlosschleife für beide Köpfe funktioniert, kann man das auch
+abändern:
+
+  K1  K2
+----------------E1------------E2-------------E1----------E2
+
+E1 ist eine Endlosschleife für Kopf 1, dementsprechend E2 für K2.
+Jeder einzelne Kopf ist nicht in der Lage, weiter bis zu E2
+vorzudringen und läuft endlos weiter.
+Es ist IZPW auch nicht möglich, dies mit einer universellen
+Turing-Maschine zu simulieren, da man aus dem Zustand der
+Endlosschleife nicht herauskommt und somit andere Zustände
+rechnen kann.
+
+Gibt es Hinweise darauf, dass solche Bitmuster unmöglich sind ?
+Da das Ganze überhaupt ein wenig billig erscheint; ist das jetzt
+ein Anfängerfehler von mir ?
+
+Ronald
+
+-- 
+Bitte Reply-To: unverändert verwenden; die Adresse ist gültig.
+MagPlot: Java Chart Program - https://itjoeys.pfe.drvu.hnv/

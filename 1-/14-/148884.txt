@@ -1,0 +1,129 @@
+Genausowenig gibt es eine kleinste abzählbar unendliche Menge -
+aber das hatten wir schon häufig diskutiert.
+Im Inklusionssinne kann man zu jeder unendlichen Menge A
+beliebiger Mächtigkeit (also insbesondere zu abzählbar
+unendlichen Mengen) eine weitere Menge B finden, die
+die gleiche Mächtigkeit hat, und eine Teilmenge von A
+ist. Man findet ebenso eine Menge C, die die selbe Mächtigkeit
+wie A hat, so dass A Teilmenge von C ist.
+
+Vom M�chtigkeitssinne sind jedoch alle gleichmächtigen
+Mengen gleichgroß, da kann man nicht von kleinerer
+oder größerer Menge reden.
+
+
+Die Wiedersprüchlichkeit willst du ja gerade zeigen - dafür musst
+du aber im Rahmen der Theorie bleiben.
+
+
+Zusätzliche Sätze (Axiome) können zu Widersprüchen führen,
+das sagt aber nichts über die Konsistenz des Systems an sich aus.
+
+
+Man kann auch allgemeiner zeigen, dass keine Menge zu ihrer
+Potenzmenge bijektiv Äquivalent ist.
+Dazu ein Beweis, wie er im ersten Semester in meiner
+LAAG-Vorlesung geführt wurde.
+    (Siehe http://psyrwlr.bzepco.xt/jCjzs/HJPM-clmfmp.ove,
+     Seite 33, Satz 0.4.1)
+
+Dieser Beweis vermeidet die vermeintlichen Schwächen des
+Using Diagonalbeweises, wenn man dazu zeigt,
+dass die Menge der reellen Zahlen zur Potenzmenge von
+N bijektiv Äquivalent ist.
+
+------------------------------------------------------
+
+Bemerkung: Jede Bijektion ist natürlich auch eine Surjektion,
+wenn es keine Surjektion gibt, kann es also auch keine Bijektion
+geben.
+
+
+(Eine solche gibt es ja immer, falls X nicht leer ist.
+ Im Falle X = {} ist die Nichtexistenz von Surjektionen klar.)
+
+Jedem x aus X wird nun also durch f eine Teilmenge f(x) von
+X zugeordnet.
+
+
+Diese Menge ist als Teilmenge von X wohldefiniert und
+wirklich eine Menge.
+
+
+(Jetzt beginnt unser indirekter Beweis, denn dies
+wollen wir ja wiederlegen.)
+
+
+im(f) ist die Menge aller Bildpunkte von f:
+    im(f) := { f(x) | x in X }
+
+
+(sonst wäre ja C_f nicht im Bild von f.)
+
+----------------------
+
+Wir haben also für jede beliebige Abbildung f : X --> Pot(X)
+eine Menge (nämlich C_f) gefunden, die nicht im Bild von
+f enthalten ist, wodurch natürlich f nicht bijektiv sein kann.
+
+
+Einige andere (äquivalente) Definitionen von
+
+- endlich
+- unendlich
+- abzählbar
+- abzählbar unendlich
+- überabzählbar
+
+hatte (nicht nur) ich Walter ja schon mehrfach gepostet.
+
+
+Die Grundmenge G ist keine Teilmenge ihrer Potenzmenge, sondern
+ein Element.
+
+
+Der Cantorsche Diagonalbeweis funktioniert für den Spezialfall
+der Grundmenge G = N, mein obiger Beweis gilt immer (auch für
+überabzählbare und endliche Mengen).
+
+
+Noch einmal: die Grundmenge G ist keine Teilmenge ihrer
+Potenzmenge, sondern ein Element.
+Es gibt allerdings Teilmengen von Pot(G), die zu G bijektiv
+Äquivalent sind. Im Falle der unendlichen Mengen ist etwa
+
+    End(G) := { X in Pot(G) | X endlich }
+
+(die Menge der endlichen Teilmengen) eine unendliche Teilmenge,
+die zu G bijektiv Äquivalent sind.
+Gleiches gilt z.B. auch für
+
+    CoEnd(G) := { X in Pot(G) | G \ X  endlich }
+
+(die sogenannten ko-endlichen Mengen).
+Dagegen ist
+
+    U(G) := {X in Pot(G) | X unendlich } = Pot(G) \ End(G)
+
+eine Menge, die zu Pot(G) gleichmächtig ist.
+
+
+Es gibt natürlich nicht von jeder unendlichen Menge M auf jede
+ihrer unendlichen Teilmengen eine Bijektion.
+Dies gilt so nur, wenn M abzählbar unendlich ist.
+Hilberts Hotel-Veranschaulichung zeigt das auch nur
+für abzählbar unendliche Mengen.
+
+(Wegen dieser Behauptung hatte ich mich entschlossen, eine
+ Antwort auf das Posting zu schreiben - es wurde dann doch
+ etwas länger).
+
+
+Die Behauptung lautet korrekt:
+
+
+Und diese Behauptung ist bisher nicht wiederlegt
+(sogar bewiesen).
+
+
+Cornelius

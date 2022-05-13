@@ -1,0 +1,44 @@
+Moin Gunter,
+
+
+das sind die sog. berechnbaren Zahlen. Die Menge der berechenbaren
+rellen Zahlen ist abzählbar und ich gebe dir insofern Recht, dass nur
+berechenbare Zahlen relevant sind, weil man die anderen sozusgen niemals
+zu Gesicht bekommt.
+
+
+Es wird in diesem Thread schon so oft von Widersprüchen geredet, aber
+kein einziger wurde bisher dargelegt, weder von Dir, noch von Viktor.
+
+
+das hat nichts mit Glauben zu tun. Ein (abgeschlossenes) Intervall
+zweier reeller Zahlen a<b ist definiert durch [a,b]:={x\in IR; a<=x<=b}.
+Das ein Intervall im Gegensatz zu einem einzelnen Punkt eine Ausdehnung
+hat, ist eine Folgerung.
+
+
+Bitte beweise das!
+
+
+Das ist ja das Wunderbare an der Mathematik (und der Logik): Ich muss
+gar nicht wissen, _wie_ ich die Intervalle abzählen kann, denn:
+
+a) Die Menge der rationalen Zahlen ist abzählbar (Beweis durch
+Cantorsche Diagonalverfahren).
+b) Die Menge der reellen Zahlen ist überabzählbar (Widerspruchsbeweis,
+bei Abzählbarkeit müsste Binärfolge und deren invertierte mindestens ein
+gemeinsames Glied besitzen).
+c) Jedes reellen Intervall enthält abzählbar viele rationale Zahlen.
+
+Aus a), b) und c) folgt dann: Es kann nur höchstens abzählbar viele
+disjunkte reelle Intervalle geben.
+
+Das ist ein Widerspruch?
+Nein, es sei denn, Du kannst eine Bijektion zwischen der Menge IR und
+der Menge aller reellen disjunkten Intervalle angeben.
+
+
+Es gibt Bijektionen zwischen |R und |R^2, d.h. diese Mengen sind
+gleichmächtig.
+
+Othmar

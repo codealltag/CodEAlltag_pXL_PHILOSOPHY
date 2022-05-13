@@ -1,0 +1,132 @@
+Auf was sich Ivo mit obigem bezieht, ist vermutlich genau jenes Paper
+von Deborah, das ich in dieser Diskussion bereits zitiert habe. Wie ich
+dort ausgeführt habe, halte ich "Informationsgehalt" für eine
+Fehlübersetzung, weil eben gerade nicht der /Inhalt/ einer Nachricht
+gemeint ist (wie das Wort suggeriert), sondern ausschliesslich
+Struktureigenschaften einer Nachricht. Dazu legt Deborah ein Mass vor.
+
+Dieses Mass bezieht sich auf die Wahrscheinlichkeit des Vorkommens von
+Zeichen. Und somit misst man mit diesem Mass etwas völlig anderes, wenn
+man vor einer Dekodierung misst als hinterher, schliesslich handelt es
+sich bei einer Dekodierung um ein Abbilden einer formalen Sprache auf
+eine zweite. Die zweite hat dann eben ggf. einen anderen Zeichenvorrat
+und darin auch andere Verteilung.
+
+Dieses Mass, was man besser "Informationsmenge" nennt, besagt rein gar
+nichts über den Inhalt einer Nachricht.
+
+
+Prinzipiell ist ein Code eine Vereinbarung für eine formale Sprache. In
+einem erweiterten Code-Begriff ist er aber auch einfach eine formale
+Sprache, die mit ihren Worten jeweils feste Information expliziert.
+Bitte beachte dabei, dass jetzt ein informations-Begriff zum Tragen
+kommt, der bedeutungsfrei gemeint ist, ohne Subjektbezug.
+
+Ist ein solcher Code kreiert, so ist der erweiterte Code-Begriff mit dem
+vorherigen der Vereinbarung kompatibel. Ist er nicht kreiert, sondern
+kommt natürlich vor, so ist er trotzdem wohldefiniert.
+
+So ist zu verstehen, wenn man von einem Code in der Genetik spricht.
+
+Mit einer Kodierung kann man noch etwas anderes meinen: so wird auch das
+Darstellen einer formalen Sprache mittels physikalischer Eigenschaften
+benannt, also z.B. elektrische Signale oder aber auch Elementarmagnete,
+mithin die Verstofflichung von formaler Sprache.
+
+Um das ganz vollständig zu bekommen: natürliche Sprache lässt sich in
+elektronischem Text fassen, indem man über eine Zeichenkodierung Text in
+eine formale Sprache abbildet. In dieser sind deren Worte gerade die
+einzelnen Zeichen, z.B. die Buchstaben, und (fast) jede Kombination
+erlaubt. z.B. schreibe ich diesen Text, indem ich ihn Unicode-kodiere.
+
+Diese Unicode-Kodierung, in der die Worte übrigens "Code Points"
+heissen, und nicht genau jeweils ein Zeichen abbilden (sondern nur
+meistens), kodiere ich dann weiter in eine zweite Kodierung. Diese nennt
+sich UTF-8. Es ist eine Kodierung, die Unicode in 8bit-Bytes abbildet,
+das ist die übliche Grösse für Bytes. Genau genommen sind 8bit-Bytes
+selber eine Kodierung, wie man Zahlen von 0 bis 255 jeweils in 8 bit
+kodiert, und die Kodierung danach ist physischer Natur. Sie ist
+keinesfalls so einfach, dass man dann eben jeweils ein Bit nehmen
+könnte, und da ein Flip-Flop drauf abbilden (so heissen die Schaltungen,
+die ich hier benutze), sondern das ist komplizierter, weil ich DRAM
+habe. Genau genommen ist das eine weitere Kodierung, bis wir endlich bei
+den Signalen landen, die in dem Rechner, den ich benutze, durch
+elektromagnetische Wellen repräsentiert werden.
+
+Das ist das, was Kodierung ausmacht: es handelt sich um einen Code in
+einem Code in einem Code in einem Code. Ein wenig wie die Matroschka.
+
+
+Zweifellos.
+
+
+Mit dem erweiterten Begriff von oben ist das nicht mehr so. Es gibt gute
+Gründe, warum man annimmt, dass es sich bei der Anordnung der Basen A,
+T, G und C in einem DNS-Strang um einen natürlich vorkommenden Code
+handelt.
+
+Bitte erinnere Dich, was Du vor einiger Zeit selbst in die Diskussion
+einbrachtest: Sprache kann man auch dann als solche erkennen, wenn sie
+gar nicht bekannt ist! So ist das auch mit dem Code der DNS. Es sieht
+wie Sprache aus, und es sieht (genau genommen) wie ein Code aus, denn wo
+sollte da Bedeutung herkommen? Für Bedeutung benötigte man einen
+Schöpfer, der Subjekteigenschaften hat!
+
+Wenn man nun (wie in der Evolutionstheorie üblich) annimmt, dass es eben
+keinen solchen Schöpfer gibt, so bleibt nur ein Code als Möglichkeit,
+nach allem, was wir wissen.
+
+
+Das sind sie tatsächlich. Allerdings ist auch die Genetik bisher nicht
+erfolglos geblieben: obwohl der Code weitgehend überhaupt nicht
+verstanden wird, ist es gelungen, Teile davon zu entziffern, genau
+genommen ihren Einfluss auf das Werden verschiedener Lebewesen. Die
+Genetik scheint mir als Aussenstehndem jedoch ganz am Anfang des
+Prozesses des Entzifferns zu stehen.
+
+
+Eine Information folgt doch keiner Grammatik, sondern eine Nachricht
+folgt einer Grammatik, denn sie ist Sprache. Die Information ist doch
+das, was die Nachricht enthält, sie ist Bezeichnung. (Ich verwende
+obigen Informationsbegriff, nach dem Information eben eine dritte Sache
+ist, und ich setze voraus, dass es reine Syntax gibt – alle formale
+Sprache ist nämlich reine Syntax, so wird es in der Informatik gesehen).
+
+Da gibt es prinzipiell zwei (bisher bekannte) Möglichkeiten: sie kann
+wiederum Sprache bezeichnen, dann folgt auch diese einer Grammatik.
+Oder aber eine Nachricht kann mit ihren Zeichen symbolisieren, Begriffe
+bezeichnen. Dafür benötigt man ein Subjekt.
+
+Bei der DNS gehe ich mit obiger Argumentation von einem Code aus. Das
+bedeutet, dass hier weitere Sprache bezeichnet wird, letztlich gehe ich
+davon aus, dass die Genese von Lebewesen und ihr Wachstum damit
+bezeichnet werden. Deshalb gehe ich davon aus, dass dieselben sich
+formal explizieren lassen.
+
+Betrachte ich, mit welcher Sorte Code überhaupt ein solches Wachstum
+beschrieben werden kann, wie wir es bei Leben beobachten, so fällt mir
+sofort fraktale Kodierung ein. So komme ich dazu.
+
+
+Das ist eine grosse Frage und der Grund, weshalb Du mich mit der Idee
+der gemeinsamen Basisgrammatik gefangen hast.
+
+
+Ja, wäre es. Ist es auch. Daraus leiten Geologen eine Menge weiterer
+information ab, indem sie diese Empirie durch Messung objektivieren und
+ihre Modelle darauf anwenden.
+
+
+Man muss bei Lebewesen immer eine gewisse Spannbreite mit einbeziehen,
+"den Code" gibt es da nicht für eine Art, habe ich verstanden. Aber für
+ein Exemplar gibt es den.
+
+Übrigens bin ich immer noch nicht der Ansicht, es gäbe etwa "Information
+an sich". Information ist immer an Form gebunden. Sie ist das Bezeichnen
+der Form.
+
+Viele Grüsse,
+VB.
+-- 
+Wenn Du für eine Leistung nichts bezahlst,
+bist Du nicht der Kunde, sondern die Ware.

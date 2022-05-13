@@ -1,0 +1,66 @@
+"Vincent Wirthle" in news:axhcno$oyb$7@rnpahw.fb :
+
+Siehe auch: news:apkdgx$r4q$5@gxrfb.xp-vpvt.oeb
+
+
+So müsste das wohl sein, wenn die Froese widerspruchsfrei wäre. Der
+analoge Gedanken funktioniert bei der Längenverkürzung:
+
+  Wenn gemäss SRT eine 100 m lange Stange in Längsrichtung auf
+  v = sqrt(3/4) c  beschleunigt wird, so wird deren Länge im
+  ursprünglichen Ruhesystem auf 50 m verkürzt. Wenn man die Stange
+  vorher in hundert 1 m lange Stücke schneidet und jedes davon
+  mit im Ruhesystem identischem Beschleunigungsverlauf auf v
+  bescheunigt, ergeben sich zwischen zwei benachbarten Stücken
+  jeweils Löcher von 0.5 m. Bei der nicht zerschnittenen Stange
+  haben wir also ganz konkret eine aus der Zugfestigkeit der
+  Stange resultierende Kraft, die bewirkt, dass sich die Stange
+  analog zu kältebedingte Längenverkürzung über die gesamte
+  Länge zusammenzieht.
+
+Es ist möglich, die 600 m lange Stange der Stangenrasteruhr in
+Scheiben zu zerschneiden. Die Scheiben können wegen Drehimpuls-
+erhaltung unabhängig voneinander exakt gleich schnell rotieren,
+und somit mittels der in Längsrichtung angebrachten parallelen
+Rasterlinien Gleichzeitigkeit über die gesamte Stangenlänge
+definieren.
+
+Jetzt wird das ganze auf 0.1 c beschleunigt, ohne dass es zu
+Drehimpuls-Austausch zwischen benachbarten Scheiben kommt. Die
+einzige Möglichkeit, die zu Verdrillung führen kann, besteht
+in unterschiedlicher Zeitverlangsamung der einzelnen Scheiben
+während der Beschleunigungsphase. Da beide Enden aufgrund der
+Längenverkürzung sich um 1.5 m der Mitte annähern, ergibt
+sich wegen länger dauernder Beschleunigung hinten, bei der
+hintersten Scheibe -0.25 ns und bei der vordersten +0.25 ns
+im Vergleich zur Zeit der mittleren Scheibe. Darüber, ob dieser
+Effekt wegen der "elastischen Verbindung der Enden über die
+Stange" "zurückgestellt" wird oder nicht, kann man streiten.
+
+Dass es am hinteren Ende während der Beschleunigungsphase
+aber anstatt zur Verlangsamung um 0.25 ns gegenüber der Mitte
+zu einem Zeitensprung von etwa 100 ns in die Zukunft (und
+am vorderen Ende in die Vergangenheit) kommt, kann man
+ausschliessen.
+
+Wenn SRT-Gleichzeitigkeit reale Gleichzeitigkeit wäre, dann
+wäre die Stange nach der Beschleunigung verdrillt, da die
+Rasterlinien anstatt Gleichzeitigkeit im jetzigen Inertialsystem,
+immer noch (im wesentlichen) die Gleichzeitigkeit des vorigen
+Systems anzeigt.
+
+Die Raumschiffleute könnten die Rotation der Stange beenden und
+sie im Ruhezustand analysieren. Sie würden dann feststellen,
+dass die parallelen Rasterlinien über die 600 m gleichmässig um
+gesamthaft 20% einer Umdrehung (bei den Zahlenwerten meines
+Ausgangspostings) verdrillt sind, obwohl nie (wenn man vom
+Abbremsen der Rotation einmal absieht) irgendeine Kraft gewirkt
+haben kann, die zu so einer Verdrillung geführt haben könnte.
+
+
+Gruss, Ullrich
+
+* Die Zeit-Definition der SRT mittels idealer Uhren ist schon
+  genial, denn selbst riesige Zeitensprünge zur Beseitigung der
+  vielen Paradoxa sind ein Kinderspiel: alte Zeit -> ideale Uhr
+  -> neue Einstellung der idealen Uhr -> neue Zeit

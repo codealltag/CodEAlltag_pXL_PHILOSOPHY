@@ -1,0 +1,40 @@
+Hi,
+
+
+Ich nehme mir halt einfach die Fre[i|c]heit, hier ist nämlich kein
+bezahltes, abgesprochenes Interview, sondern gleich zwei öffent-
+liche Newsgroups, in denen ich lese...
+
+
+Und mir ging es darum, Deine Autorität, die Du gerne bei Deinem
+Posting an den Tag gelegt hättest, ein wenig zu untergraben.
+
+
+Warum soll es in einer Computersprache prinzipiell nicht möglich
+sein, die Adresse einer Variablen auf die einer anderen zu setzen?
+Dein spezielles Konstrukt da oben ist so in C nicht legal, aber
+
+union
+{
+  unsigned long a;
+  unsigned long b;
+} u;
+
+läuft bei Benutzung von u.a und u.b darauf hinaus, als hätte
+man dein illegales Konstrukt eben doch benutzt, sofern es
+der Compiler erlauben würde. Die Union dort wird aber in C
+(und auch in C++, jaja) oft benutzt, denn die beiden Variablen
+u.a und u.b liegen auf identischen Adressen. Es gibt sogar
+C-Varianten, da geht das noch viel einfacher.
+
+
+Doch.
+
+
+Das mag sein, sie ist aber unsinnig. Es ist auch z.B. allgemein üblich
+zu behaupten, man bräuchte Firewalls und Virenscanner, damit der PC
+sicher ist.
+Es sind nun mal unterschiedliche Sprachen.
+Leute die wissen, wovon sie reden, unterscheiden das voneinander.
+
+Norbert

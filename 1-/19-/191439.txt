@@ -1,0 +1,12 @@
+Grobi schrieb...
+
+
+Vielleicht durch Datenstaus ? Bei der Synchronisation von 32 Prozessoren
+koennte ich mir das sehr wohl vorstellen. Oder denk mal daran was passiert,
+wenn mehrer Prozessoren gleichzeitig von einer Festplatte lesen wollen...
+Ein Prozessor hat dann eben das Glueck sofort an die Daten zu kommen, ein
+anderer muss eine halbe "Ewigkeit" drauf warten.
+
+
+Gruss,
+Ben

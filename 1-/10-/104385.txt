@@ -1,0 +1,105 @@
+Ja. Man kann das aus der Wahrheitstafel-Definition der (binären)
+Disjunktion entnehmen. 
+
+Man kann das dann auf einen Ausdruck der Form
+
+	A_1 v A_2 ... v A_n
+
+erweitern. Dieser ist wahr gdw. mindestens ein A_i wahr ist.
+
+Logisch. ;-)
+
+Denn ist eine Disjunktion der Form
+
+	... v A v ... v ... ~A v ...
+
+so lässt sich das ja Äquivalent umformen zu
+
+	A v ~A v ... v... v ... v ...
+
+Was wiederum Äquivalent ist zu
+
+	(A v ~A) v ... v... v ... v ...
+
+Aus der Wahrheitstafel von v kann man nun entnehmen dass eine Ausdruck
+der Form A v ~A immer wahr ist; also hat man:
+
+	WAHR v ...
+
+Und auch hier ergibt ein Blick in die Wahrheitstafel von v wieder, dass
+das immer WAHR ist. qed.
+
+Ja.
+
+Ja.
+
+Also ich glaub das nicht. :-)
+
+Na mich wundert's nicht. (Hat nix mit Dir zu tun.)
+
+hhh? Ich weiß nicht, ob Dir das klar ist..., aber Du hast hier den
+RAHMEN den Aussagenlogik (von dem Du doch ausgehen wolltest) schon
+längst verlassen.
+
+Tatsächlich gehört das, worauf Du hier abzielst, in den Bereich der sog.
+Semantik. Klar kann man sie unter Zuhilfenahme von logischen Formeln der
+Prädikatenlogik erster Stufe formulieren - allerdings verwendet man dazu
+aber auch noch eine mathem. Theorie, die Mengenlehre (genauer ZFC).
+
+Ich würde vorschlagen, dass Du erst mal die GRUNDLAGEN lernst, bevor Du
+Dich mit FORTGESCHRITTENEN Aspekten der Logik beschäftigst. Meinst Du
+nicht auch?
+
+Kann man gut machen, wenn man auch noch die Mengenlehre zu Hilfe nimmt,
+und mit (Teil-)Mengen von Ausdrücken, etc. hantiert.
+
+Ja, ist es [zusammen mit der Mengenlehre]. Zweifellos kann man auf diese
+Weise präziser zum Ausdruck bringen, was man "sagen" will. Wenn Dich das
+Thema interessiert kannst Du Dich -nach Erlernen der Grundlagen- mit
+("formaler") Semantik beschäftigen. Dazu gibt's genügend Literatur. Ein
+gewisser Schlaegel hat diese Gebiet begründet.
+
+
+A.
+
+
+Ein erster einfacher Schritt in die von Dir intendierte Richtung könnte
+z.B. einfach so aussehen:
+
+   v(A_1 v A_2 ... v A_n) = W <=> Ei e N((1 <= i <= n) & v(A_i) = W)
+
+Wo v eine sog. /Wahrheitsbewertung/ ist.
+
+Analog:
+
+   v(A_1 ^ A_2 ... ^ A_n) = W <=> Ai e N((1 <= i <= n) -> v(A_i) = W)	
+
+Mit Hilfe dieser beiden Formeln hast Du dann Deine Eingangs erwähnten
+"Feststellungen" formalisiert.
+
+"Eine Disjunktion ist wahr, wenn sie [mind.] ein wahres Argument hat."
+
+"Eine Konjunktion ist wahr, wenn sie ausschließlich wahre Argumente
+hat."
+
+(Wobei n die Anzahl der Disjunkte bzw. Konjunkte angibt und angenommen
+wird, dass gilt: n e N\{0}.)
+
+-------------------------------------
+
+Wie stehts nun DAMIT (?):
+
+"Eine Disjunktion, die ein bestimmtes Argument und dessen Negierung als
+Argumente hat muss immer wahr sein, egal welche Argumente sie sonst noch
+hat."
+
+Hmmm... Vielleicht so:
+
+Gegeben sei eine Formel der Form A_1 v A_2 ... v A_n (mit bel. Formeln
+A_i) Dann gilt: Ei,j e N(~A_i = A_j) => v(A_1 v A_2 ... v A_n) = W,
+wobei v eine beliebige Wahrheitsbewertung ist.
+
+-------------------------------------
+
+Wie Du siehst, kann hier (auf der semantischen Ebene) in der Tat eine
+logische Sprache verwendet werden.

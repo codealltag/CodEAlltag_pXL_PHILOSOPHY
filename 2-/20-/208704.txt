@@ -1,0 +1,58 @@
+: Hallo Leute,
+
+: zum Thema "Re: Unfreier freier Wille !!!":
+
+[snip]
+
+
+: anders:
+: A1) Für alle Individuen I: Für alle Ereigniss E:
+
+:         nicht ( Wahrsch( E ) = 0 und Beobachtung(I) enthält E )
+
+: anders:
+: A1) nicht ( Für alle I: Für alle E: W(E) = 0 und B(I) enthält E
+
+Leider sind Dir hier die logischen Pferde durchgegangen. Quantoren können
+folgendermaßen ersetzt werden : 
+	(\forall x)[P(x)] \equiv \not(\exists x)[\not P(x)]
+bzw
+	(\exists x)[P(x)] \equiv \not(\forall x)[\not P(x)]
+
+also ist
+	(\forall I)(\forall E)[\not[ W(E)=0 \land E\in B(I)]]
+Äquivalent mit
+	(\forall I)\not(\exists E)[W(E)=0 \land E\in B(I)]
+respektive
+	\not(\exists I)(\exists E)[W(E)=0 \land E\in B(I)]
+was also heißt, daß es kein Individuum gibt, so daß es ein Ereignis gibt mit
+Wahrscheinlichkeit 0 und vom Individuum beobachtet wird.
+
+Insofern hilft Dein Klärungsversuch leider nicht. Das Problem liegt etwas
+tiefer als auf rein logischer Ebene, es hat auch etwas damit zu tun welchen
+Status theoretische Existenzaussagen haben (Existieren Elektronen, auch wenn
+man sie nicht beobachten kann, jedenfalls nicht so, wie man Steine, Tische
+und Bäume beobachten kann?).
+
+:         Mls, Kasimir
+
+MfG
+	Philippe
+--
+	Bilde dir nicht ein, wenn du einfach redest, sagtest du schon irgend
+	etwas über irgend etwas
+
+			doch andererseits
+
+	Wenn du wirklich etwas über etwas sagst, dann bilde dir nicht ein
+	du könntest dich um die Folgen herumdrücken, indem du sagst, du
+	redest doch bloß
+
+				Noah Uebensee
+
+
+Philippe Pötzl                            koebpwia@huuqoddtbs.hqk-hbukslz.df
+Zum Marktplatz{\"pöllauerstraße}Sonnwiesstraße{\jj}vierhöfeweg 35 
+97027 Untersöllbach
+Tel: (++42)(++49)28871-888
+WWW: http://jqj.ervdqdxwwb.nja-kacidga.zc/Wegbfqsfgsnpyos/WOE/jszldwosg/gyglrhlbz/aibg.zvxh

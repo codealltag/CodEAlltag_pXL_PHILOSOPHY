@@ -1,0 +1,25 @@
+Ja. Für eine Definition der Länge ist als /Hintergrundtheorie/ schon
+die euklidische Geometrie vonnöten.
+
+
+Das Urmeter als einzelner, individueller Gegenstand ist für die
+Bestimmung der Länge irrelevant, die Klasse derjenigen Objekte, die so
+lang wie das Urmeter sind, ist ausschlaggebend. Da den Objekten dieser
+Klasse die Zahl 1 zugeordnet ist (das Urmeter läßt sich genau einmal
+an diese Gegenstände anlegen), ist es sinnvoll, auch dem Urmeter diese
+Zahl zuzuordnen.
+
+Warum, denkst du, hat man wohl die Definition der Einheit Meter
+geändert? Wie dir ja Nikolaus geschrieben hat, wird sie heute über die
+Lichtlaufzeit definiert und einer der Gründe ist, dass das Urmeter
+unter bestimmten Umständen, etwa bei Temperaturveränderungen, seine
+Länge _�ndert_. (Ist das möglich?)
+
+
+Deswegen betrachte ich die Länge auch als *Eigenschaft* von Objekten,
+nicht als Einzelgegenstand (particular). Allerdings hat man es bei der
+Länge von Körpern tatsächlich mit *zwei* Objekten zu tun, einem Körper
+und einer (nichtnegativen) reellen Zahl.
+
+
+igor

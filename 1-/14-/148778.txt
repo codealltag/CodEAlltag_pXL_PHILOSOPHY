@@ -1,0 +1,37 @@
+Paul Margraff schrieb
+.................................
+< z.
+
+Wie Du oben zutreffend geschrieben hast, ist D(i,j) = i, also D(y^n,z^n) =
+y^n.
+Es muss hier also diskutiert werden, ob es in dem Schema ein
+gleichschenkliges
+Dreieck mit der Kopfzeile als Basis und x^n, z^n und y^n als Ecken geben
+kann.
+Das Verfahren läuft aber immer darauf heraus, dass die Gleichung
+x^n + y^n = z^n
+in
+x^n = z^n - y^n
+bzw.
+y^n = z^n - x^n
+umgeformt wird.
+
+Bei Reich klingt das dann z.B. so:
+
+"Wenn sich in einer auf z^n weisenden eld einer DAS,
+n > 1 eine Differenz = n.te Potenz befindet, dann befindet
+sich nach Adam Ries unter den regressiv aufsummierten
+Differenzen in dieser eld mit Gewissheit noch eine andere
+Differenz = n.te Potenz."
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::
+
+Was ist ein "linearer" Vektorraum? Die reellen Lösungen
+(x, y, z) mit x^2 + y^2 = z^2 bilden den Mantel eines
+Doppelkegels, z.B. ergibt x^2 + y^2 = (-1)^2 eine aus
+der x,y-Ebene um z = -1 parallel verschobene
+Kreislinie. Insbesondere ist die Summe von (3, 4, 5)
+und (5, 12, 13) kein pythagoräisches Tripel.
+
+Gruß
+Oswald

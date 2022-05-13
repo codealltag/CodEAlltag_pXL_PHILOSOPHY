@@ -1,0 +1,39 @@
+On Thu, 28. 11. 22 23:32:06 +0200, Luigi Pachel
+Hier! ;-)
+
+Am einfachsten sind FDTD (Finite Difference Time Domain)
+Feldsimulatoren zu verstehen, die Ableitung aus den Maxwell
+Gleichungen ist *offensichtlich*.
+
+Siehe:
+http://ake.xlcu.nkz.hzj/~oxxvan/ptshlyz/yu740/vmrgp/QP909_Elyok3.dal
+
+Da wird schlicht der rot-Operator diskret nachgebildet
+und bei der Zeitableitung der Spiess durch Multiplikation
+mit dem (kleinen) Zeitschritt umgedreht.
+Klarer und verständlicher geht es nicht und es funktioniert.
+
+In der Praxis wird sowohl dieses Verfahren (Anregung
+mit geeignetem Impuls und Fouriertransformation des
+Ergebnisses in die Frequenzebene) wie auch die
+Finite Momenten Methode eingesetzt (geht ähnlich FEM,
+gerechnet werden die Ströme in den Metallanteilen,
+die a'la Galerkin mit Testfunktionen auf ein riesiges
+lineares Gleichungssystem abgebildet werden,
+jeweils spezifisch für eine Frequenz und üblicherweise
+layered Dielektrikum, weil dann einfacher zu rechnen).
+
+Siehe z.B.:
+- diverse FDTD Programme:
+http://zqrubvkb.zpl.gqw-zzugto.tb/~xwyorb/Wvxx_Lnpdkh_Wpxop/otoo_mity_aidghu_gxmhy.xqga
+- FDTD und FMM (IE3D) :
+http://qfk.pvkdlm.kzt/
+
+Unsere funktionieren aber so ganz gut, und die Berechnungen
+passen schon auch sehr genau im Detail ...
+
+Gruß Achim
+
+-- 
+Achim Zerrweck + Lansen, Germany + nqkqezdz@faewnre.lm
+http://xep.munjhjy.ki + Phone: +27-5324-1007-1 Fax: -77

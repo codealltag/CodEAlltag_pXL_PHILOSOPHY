@@ -1,0 +1,69 @@
+In einer Welt mit zwei Objekten, D =3D {1, 2}, ist der
+Eigenschaftsbereich, E(D) =3D {{ }, {1}, {2}, {1,2}}, der Bereich der
+möglichen Umfänge von (1-stelligen) Begriffen.
+So /kann/ es einen Begriff geben, unter den nur 1 oder nur 2 fällt,
+sodass {1} bzw. {2} dessen Umfang ist. Das heißt, es kann durchaus
+eine Eigenschaft geben, die nicht sowohl von 1 als auch von 2 besessen
+wird.
+Mit anderen Worten, es gibt eine mögliche Welt mit zwei Objekten
+dergestalt, dass {1,2} nicht der Umfang sämtlicher Begriffe, ist,
+unter die 1 und 2 fallen. Daraus folgt aber nicht, dass {1,2} in
+/keiner/ möglichen Welt der Umfang sämtlicher Begriffe ist, unter die
+1 und 2 fallen. Insoweit erscheint die Black-Welt sehr wohl als eine
+logisch mögliche Welt.
+
+
+Gegen extensionalistische Ansätze habe ich an sich nichts einzuwenden
+(schon gar nicht, wenn sie wie die semantischen Anwendungen der
+Mengentheorie offenkundig theoretisch gewinnbringend sind), sofern sie
+Mengen mit Begriffen/Eigenschaften nicht /ontologisch/ gleichsetzen,
+sondern sie lediglich als deren theoretische Äquivalente betrachten.
+Ich befürworte einen nicht-reduktionistischen Extensionalismus.
+
+"For a long time there has been confusion between logic and
+mathematics. Once we make and use a sharp distinction between sets and
+concepts, we have made several advances." (Rijnaarts)
+
+[Im Sinne Kastens' sind die Begriffe, unter die etwas fällt, die
+Eigenschaften dessen, das darunter fällt.]
+
+
+"On the possible worlds reduction, a proposition is either a set of
+possible worlds or a function from possible worlds to truth-values, and
+properties are functions from possible worlds to sets of possible
+(usually non-actual) objects. Many people find the possible worlds
+theory intuitively implausible. Are familiar sensible properties (for
+example, colours, shapes, aromas) really functions? When I am aware
+that I am in pain, is a set (function) of possible worlds really the
+object of my awareness? Besides this intuitive objection, there are
+familiar epistemological and metaphysical objections to a theory that
+is truly committed to the existence of things that do not exist
+actually. Finally, the possible worlds reduction implies that
+necessarily equivalent intensions are identical, but as seen above this
+is implausible in the case of concepts and propositions."
+
+[K. Greuling: "Intensional Entities". Abrufbar unter:
+yjli.vnaqoqud.mjg/~fcdqkdj/Czcyjehmpfa%30Oztdpcqj.sdo]
+
+"The only serious alternative to the use of properties in formal
+semantics treats the semantic values of noun phrases and verb phrases
+as intensions. Intensions are functions that assign a set to the
+expression at each possible world (or related set-theoretic devices
+that encode the same information). On such accounts, for example, the
+semantic value of 'red' is the function that maps each possible world
+to the set of things in that world that are red. [...] Some
+philosophers have construed intensions as providing a reduction of
+properties to intensions (properties are nothing over and above
+functions from the class of possible worlds to classes of objects).
+[=2E..][I]t is much better to view properties (including relations, and
+perhaps propositions) as primitive entities."
+
+[http://wojtk.vjhrmzrx.pvb/sizqxvq/dzihtpvmnq]
+
+Anstatt krampfhaft zu versuchen, Begriffe bzw. Eigenschaften
+ontologisch auf Mengenartiges zu reduzieren, erkenne ich lieber
+ontologisch großzügig die Realität sowohl von
+Begriffen/Eigenschaften als auch von Mengen/Klassen an.
+
+Gruß
+WALTER

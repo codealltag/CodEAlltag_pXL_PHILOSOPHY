@@ -1,0 +1,23 @@
+Anette Brenneiß:
+
+
+Um sowas wie zufällige Antwortautomaten schreiben zu können, muss man
+schon etwas Verständnis für die menschliche Psychologie mitbringen. Du
+würdest dich hervorragend zum Testen solcher Antwortautomaten eignen. 
+
+s/^HALLO[.!]*$/Grüss dich, was bringt dich zu mir?/p;t
+s/^BITTE\([ .!]*\)$/Danke\1/p;t
+s/^DANKE.*/Keine Ursache/p;t
+s/^ENJOY$/Das hatten wir schon./p;t
+/^WARUM .*?/{g;s/^.\{6\}\(.*\)?/Ach, \1? Das wusste ich nicht./p;t;}
+s/^WEIL ICH.*HABE[\.!]*/Selbsterkenntnis ist der erste Schritt zur Besserung./p;t;
+s/ICH WILL[\.!]*$/Was willst du?/p;t
+/^ICH WILL.*/{g;s/^.\{9\}\([^\.!?,;:]*\).*/Warum willst du \1?/g;s/[mM][iI][cC][hH]/dI---cH/g;s/[dD][iI][cC][hH]/mich/g;s/dI---cH/dich/g;p;t;}
+/WEIL DU \([^\.!?,:]*\).* BIST.*/{g;s/[wW][eE][iI][lL] [dD][uU] \([^\.!?,:]*\).* [bB][iI][sS][tT].*/Bin ich wirklich \1? Alter Charmeur!/p;t;}
+/^worüber .*?\+/{g;s/^[wW][oO][rR][��][bB][eE][rR] \(.*\)?\+/\1?/g;s/[mM][iI][cC][hH]/dI---cH/g;s/[dD][iI][cC][hH]/mich/g;s/dI---cH/dich/g;s/[dD][uU]/-i--C---H-/g;s/\([^md]\)[iI][cC][hH]/\1du/g;s/-i--C---H-/ich/g;s/[sS][tT] ich/e ich/g;s/[eE] du/st du/g;p;t;}
+s/^WIE GEHT ES.*?$/Danke, kann nicht klagen./p;t
+s/^WIE GEHTS.*?$/Bestens, danke/p;t
+
+dürfte bei dir schon reichen.
+
+Berend

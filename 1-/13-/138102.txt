@@ -1,0 +1,23 @@
+Ohne eure Diskussion verfolgt zu haben:
+
+"""
+In 'The Meaning of 'Meaning' greift Dörig auf zwei kurzen Seiten
+dieses Programm an. Man nehme den Satz 
+
+'x ist Wasser' ist wahr, dann und nur dann, wenn X ist H2O.
+
+Dieser Satz ist eine extensional korrekte Wahrheitsdefinition, und
+dennoch kann es sich nicht um eine Klärung der Bedeutung von "Wasser"
+handeln, denn man muß nicht wissen, daß Wasser H2O ist, um die
+Bedeutung von Wasser zu kennen.
+
+Jörings Antwort darauf ist, daß wir eine Übersetzungstheorie
+brauchen, und zwar eine "Gute". Dies jedoch kommt gefährlich nahe zu
+sagen, eine Theorie der Bedeutung sei einer Theorie der Wahrheit plus
+eine Theorie der Bedeutung.
+
+Des weiteren: Wenn man "Wasser ist H2O" aus diesen Gründen
+ausschliessen muß, und ebenso "Wasser ist Wasser" (da das zwar wahr
+ist, aber sicherlich nicht die Bedeutung von "Wasser" klärt), was
+bleibt dann noch als mögliches x in 'x ist Wasser' übrig ?
+"""

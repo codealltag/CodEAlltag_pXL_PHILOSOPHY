@@ -1,0 +1,20 @@
+Nein. In der RT sind Zeit und Raum nicht unabhängig voneinander, die
+/fundamentale/ physikalische Größe ist die 'raumzeitliche Länge',
+nicht, wie noch in der newtonschen Mechanik, die Größen Länge und
+Zeit. Es ist also sinnvoll, Raum-und Zeitinvervalle mit /derselben/
+Einheit zu messen (Sekunden), und die überflüssige Einheit (Meter),
+durch erstere zu definieren. Wir setzen also c:=1 und
+1[m]:=1/299792458[s]. Messen können wir den Wert des Verhältnisses
+zwischen Meter und Sekunde weiterhin: Wir fahren mit einer
+ultragenauen Uhr, einem Laser und einem Spiegel bewaffnet nach Cordast
+und messen, wieviele Sekunden das Urmeter lang ist. So werden wir auf
+einen Wert von etwa 1/299792458[s], also 1 [m], kommen.
+
+
+[...]
+
+Natürlich können wir das, 299792458 ist der Kehrwert der Länge des
+Urmeters, gemessen in Sekunden.
+
+
+patrice

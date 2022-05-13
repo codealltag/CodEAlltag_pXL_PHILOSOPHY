@@ -1,0 +1,29 @@
+Wieso habe ich doch schon getan, worauf mir Mathematiker antworten, dass 
+das nicht geht. Ist ja für Mathematiker vollkommen richtig. Von 
+nicht-Mathematikern habe ich auch schon zu hören bekommen, dass die 
+Lösung sogar besser wäre, als die von den Mathematiker vorgeschlagene. 
+Die Mathematik besteht nur aus wahr oder falsch ein drittes kann es 
+nicht geben. So einfach ist die Welt aber leider nicht.
+
+
+Wenn ich einen Beweis über eine Teilung durch Null führe, die noch nicht 
+einmal notwendig ist, weil ich am Anfang der Rechnung zwei Unterschiede 
+per Definition einfach so hätte aufheben können. Er ist einfach unnötig.
+zum Beispiel:
+  Sei a + b = c
+Addition von 4a ergibt:
+5a + b = 4a + c
+Subtraktion von 5c liefert:
+5a + b - 5c = 4a - 4c
+Addition von 4b führt zu:
+5a + 5b - 5c = 4a + 4b - 4c
+Nur noch schnell ausklammern:
+5 (a + b - c) = 4 (a + b - c)
+und man sieht schon:
+5 = 4
+
+und mehr solcher schönen Dinge auf:
+http://moj.wrb.eej/~nergnehr/hxhen/ypbbkk/ruaufc.hsof
+
+Gruss
+Cédric

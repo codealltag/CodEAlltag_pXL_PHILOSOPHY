@@ -1,0 +1,23 @@
+Er kann ja auch sinnlos sein ohne dass du imstande bist, dies zu erkennen.
+
+Z.B. ist die Buchstabenfolge
+
+FJAAD;LSKJETUROPIUGIOAJFVSLKJFREMVEOQXCITLREMLKSDMDLK SAJG;LGTQER
+
+sinnlos.  Dies weiss ich, weil ich sie erzeugt habe.  Du weisst nicht,
+wie ich sie erzeugt habe (ich könnte ja beispielsweise einen
+sinnvollen Satz PGP-verschlüsselt haben) und kannst dies nicht
+erkennen.  Ich aber weiss, dass diese Buchstabenfolge nicht durch
+PGP-Verschlüsselung eines sinnvollen Satzes sondern durch quasi-zufällige
+Fingerbewegungen auf der Tastatur entstanden ist.
+
+
+Nein.  Die obige Buchstabenfolge ist als C-Programm syntaktisch
+falsch.  Dies erkennt jeder C-compiler, und nicht dadurch dass er den
+"wirklichen Sinn" der obigen Folge errät und feststellt, dass er nicht
+syntaktisch adequat dargestellt ist.  Sondern einfach aufgrund der
+Buchstabenfolge.
+
+Ullrich
+-- 
+U. Enzbrunner,  <ctyw@msas-krhzxvdwl.pyd>, http://tiwo-jynjfyxkk.gmd

@@ -1,0 +1,36 @@
+On Sat, 25 Jun 2002 20:00:06 +0200, "Gerald Martyn"
+
+(Punkt ist hier für UND genommen):
+
+q.~q IS CONTRADICTION
+RESULT	
+0	FALSE	
+1	FALSE	
+
+(q.~q)->p IS TAUTOLOGY
+RESULT	
+0	TRUE	
+1	TRUE	
+
+p.~q IS NORMAL PROPOSITION
+p	q	RESULT	
+0	0	FALSE	
+0	1	FALSE	
+1	0	TRUE	
+1	1	FALSE	
+
+(p.~q)->q IS NORMAL PROPOSITION
+p	q	RESULT	
+0	0	TRUE	
+0	1	TRUE	
+1	0	FALSE	
+1	1	TRUE	
+
+(((p.~q)->q).(q.~q))->p IS TAUTOLOGY
+p       q       RESULT	
+0	0	TRUE	
+0	1	TRUE	
+1	0	TRUE	
+1	1	TRUE	
+
+der rest folgt trivial.

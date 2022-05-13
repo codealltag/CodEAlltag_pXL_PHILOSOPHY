@@ -1,0 +1,22 @@
+Hallo Alfons,
+
+Ja, stimmt.
+Aber das muss man dann extra beweisen, wenn ich recht erinnere.
+
+(x-1)/(x-1) ist an der Stelle x=1 singulär und hat dort keine Steigung.
+Physikalisch könnte das z.B. eine Resonanzfrequenz bedeuten.
+Man kann die Singularität zwar "heben" muss sich aber vergewissern, ob die
+Lösung, die man dann erhält, physikalisch/technisch sinnvoll ist.
+
+
+Wenn ich recht erinnere, kann man immerhin sagen, dass es in dem gegebenen
+Intervall eine Steigung (2ö-1ö)/3 geben muss ;-)
+
+Ich meinte nicht den mathematischen Begriff der Umgebung, sondern wollte
+sagen, dass ein Punkt Nachbarn haben muss, damit man die Steigung an dem
+Ort des Punktes angeben kann. 
+
+wilhelm
+-- 
+Reality is _not_ an elephant.
+For a start, it's a rainbow.

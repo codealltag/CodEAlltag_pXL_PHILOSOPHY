@@ -1,0 +1,68 @@
+"Moderne Computer" sind über Netzwerke zusammengeschaltet, und erhalten
+Dialoginput. Sie sind deshalb praktisch nicht vorhersagbar.
+
+Es geht bei dem von mir verwendeten Vorhersagbarkeitsbegriff aber nicht
+darum; ich meine, ob es einen Algorithmus gibt, um Computer bei
+/bekannter/ /Eingabe/ vorherzusagen. Damit betrachte ich Computer als
+Systeme.
+
+Insofern sind alle diskreten Computer (und heutzutage sind die
+allermeisten diskret) durch vollständige Simulation vorhersagbar. Die
+Simulation divergiert hier nicht mit der Zeit.
+
+
+Mit "vorbestimmt" meine ich beispielsweise die Newtonsche Physik, also
+ein Modell. Ich bin kein Rationalist, Olaf, was die Physik "wirklich
+ist", ist nicht mein Thema.
+
+Die Quantenmechanik ist nicht vorbestimmt. Sie ist somit nicht
+vorhersagbar. Ja, sie ist nicht einmal kausal seit der Erklärung des
+Kasimir-Effektes durch spontane Teilchenentstehung.
+
+Was aber "wirklich ist", darüber sagt die Physik nichts. Die Allgemeine
+Relativitätstheorie ist vorbestimmt und nicht vorhersagbar, genau wie
+die Newtonsche Physik.
+
+Was stimmt jetzt "wirklich", die Allgemeine Relativitätstheorie oder die
+Quantenmechanik? Das ist nicht mein Problem, ontologische Interpretation
+ist nicht mein Fach.
+
+Beide Theorien funktionieren sehr gut in ihrem jeweiligen Bereich, ich
+hätte kein Problem damit, dort jeweils unterschiedlich zu argumentieren
+(bin aber kein Physiker).
+
+
+Ja, und jetzt stellt sich die Frage, ob das überhaupt geht. Der Ansatz,
+dass man das ZNS nachbaut, um KI zu erzeugen, kommt ja daher, dass
+keiner weiss, wie das ZNS eigentlich genau funktioniert. Da stellt sich
+mir schon die Frage, ob man, wenn man nun eben etwas anderes baut und
+gar nicht das ZNS nachbaut, überhaupt erwarten kann, damit trotzdem
+ähnliche Ergebnisse zu bekommen.
+
+
+Nun, ein diskreter Linearrechner macht wegen seiner Eigenschaft, diskret
+zu sein, einen schnell wachsenden Fehler beim Simulieren eines
+nicht-diskreten dynamischen Systems. Wegen seiner Eigenschaft, linear zu
+sein, macht er einen weiteren schnell wachsenden Fehler beim Simulieren
+eines echt parallelen Systems. Die Zeit muss ja geqauntelt werden bei
+einer Simulation.
+
+Das erste Problem erzeugt den Fehler, das zweite erzeugt massive
+Performance-Probleme, will man den Fehler kleiner machen, könnte man
+sagen.
+
+Von-Burgbacher- und Hardvard-Architekturen erscheinen denkbar ungeeignet
+für die Aufgabe, das ZNS möglichst genau zu simulieren. Da finde ich den
+Ansatz der KFE, mal über eine andere Architektur nachzudenken, schon
+interessant. Klar, das ist nun wirklich nur ein Anfang, denn so ist man
+weit weg von der Komplexität des ZNS. Zudem ist diese Architektur noch
+diskret AFAIK.
+
+
+Was meinst Du mit "physikalisch korrekt"? Wieder "die Wirklichkeit"? ;-)
+
+Viele Grüsse,
+VB.
+-- 
+Wenn Du für eine Leistung nichts bezahlst,
+bist Du nicht der Kunde, sondern die Ware.

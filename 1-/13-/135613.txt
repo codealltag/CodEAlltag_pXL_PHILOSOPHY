@@ -1,0 +1,133 @@
+Werner Müllermeister <Exsqxs.kwcvehih@Yyl.cc> (25. April 2002 13:56):
+
+
+Mathematisch ist eine Funktion E=E(x,t) eine Abbildung RxR->R und 
+anschaulich ein "Gebirge" über der x-t-Ebene. Das kann man "ewig" nennen 
+wie man alles Mathematische "ewig" nennen kann. Das "Ewigkeits"-Attribut
+besagt da nur, daß man noch im rein Mathematischen weilt und Physikalisches 
+noch außen vor ist. Das eigentlich Knifflige beginnt, wenn man die 
+Koordinate t mit physikalischem Motiv (und d.h. immer auch mit 
+empirisch-sinnlichen Hintergedanken) "Zeit" nennt.
+
+Ob da eine Geschwindigkeit "erkennbar" ist, hängt davon ab, was unter 
+'Geschwindigkeit' verstanden werden soll. Zählt als 'Geschwindigkeit' jeder 
+partielle Differentialquotient, dann lassen sich einige entdecken, 
+verstehe ich unter Geschwindigkeit die erste Ableitung nach einem (am 
+besten noch "Zeit" genannten) Kurvenparameter, dann ist tatsächlich keine 
+zu erkennen, weil gar keine _Kurve_ ausgewiesen ist.
+
+
+Du sprichst hier offenbar von einem rein gedanklichen Draufsetzen, davon, 
+wie man zur /Vorstellung/ einer Bewegung (von Phasenflächen) komme, 
+physisch ist das Mitfahren mit c ja verboten.
+
+
+Wieso "er", er schreibt "sich" doch immer die Geschwindigkeit 0 zu. Diese 
+Geschwindigkeit schreibe doch "ich" ihm zu, der ich in /meinem/ System
+notwendig bei x=0 ruhe und mit meiner Eigenzeit, die gleich meiner 
+Koordinatenzeit, auf der t-Geraden nach oben wandere. Nicht von sich aus, 
+sondern von mir aus gesehen hat er die Geschw. c und läuft zusammen mit mir 
+(wenn "ich" im Raumzeit-Diagramm senkrecht nach oben wandere) auf seiner 
+Lichtdiagonale nach oben-außen (räumlich von mir weg).
+
+
+"zeitliche Veränderung auf der Zeitgeraden", "Bewegung in Zeitrichtung" --
+das klingt nicht fein, ich versuch's mal aufzudröseln. ;-)
+
+Sei gegeben ein x-y-Koordinatensystem und darin eine Kurve \vec{r}(t). 
+Stelle ich mir nun das Durchlaufen der Kurve mit wachsendem 
+Kurvenparameter t vor, dann erhalte ich die anschauliche Vorstellung einer 
+Bewegung entlang der Kurve und konstatiere eine 'zeitliche' Änderung i.a. 
+in x- und y-Richtung; 'zeitlich' heißt hier 'gegen t - den "Zeit" 
+genannten Kurvenparameter' und heißt zugleich 'anschauliche Bewegung des 
+Kurvenpunktes'; beides liegt hier übereinander.
+
+Jetzt spendiere ich auch dem Kurvenparameter t noch eine eigene (räumliche)
+Darstellungsdimension und betrachte Dasselbe im t-x-y-Diagramm, die 
+Raumkurve wird zur 'Weltlinie' (t(t), x(t), y(t)). Wenn ich mir jetzt 
+wieder das Durchlaufen derselben mit wachsenden t-Werten vorstelle, dann 
+wandert  der Kurvenpunkt mit jedem dt auch auf der t-Achse um dt. Das mag 
+man dann "zeitliche Änderung in Zeitrichtung" nennen, zu beachten aber, daß 
+diese zusätzüche "zeitliche Änderung" dann nur noch von der "Zeitbasis" der 
+/Veranschaulichung/, der "Zeitbasis des Vorstellens" spricht. Jede 
+angeschaute/vorgestellte Bewegung -- gleich, ob an einer Achse nun "t" oder 
+"x" steht -- ist immer räumliche Bewegung, d.h. Änderung eines Ortes; die 
+Zeit, die mich 'Änderungen' erst konstatieren -- d.h. 
+Vorher-Nachher-Relation erst herstellen läßt, steht mir dabei immer im 
+Rücken, /diese/ Zeit selbst 'sieht' man im Vorgestellten und Angeschauten 
+nie!
+
+Das wird noch deutlicher, wenn ich für die Weltlinie (t(t), x(t), y(t)) von 
+t zu einem anderen Kurvenparameter s übergehen: (t(s), x(s), y(s)); nennen 
+wir diesen mal "Eigenzeit". Das Durchlaufen der Kurve bringe ich wieder zur 
+anschaulichen Vorstellung, indem ich Kurvenpunkte zu monoton 
+wachsenden s-Werten betrachte, und ich finde dann /"eigenzeitliche/ 
+Änderungen" in x-, y- und t-Richtung, nämlich Änderungen gegen s, die 
+"Eigenzeit". Den Kurvenparameter selbst 'sieht' man im t-x-y-Diagramm dabei 
+wieder nicht, sowenig wie t bei der (x(t), y(t))-Kurve im x-y-Diagramm. 
+Dieser Kurvenparameter "entspricht" wieder der "Zeitbasis" des Anschauens. 
+Natürlich kann ich auch diesem s wieder eine eigene Darstellungsdimension 
+spendieren und die Sache im s-t-x-y-Diagramm betrachten und so fort.
+
+Soweit handelt die Sache nur von der /Veranschaulichung/ mathematischer
+Abbildungen R->R^n (Kurven im R^n), als 'Zeit' steht einzig die zeitliche 
+Dimension der Anschauung in Rede, jede da anschaulich hineingedachte 
+'Bewegung' ist eine gegen diese "Zeitbasis" der Anschauung. 
+(Leute, denen Mathematik etwas 'rein Logisches' und 'Veranschaulichungen' 
+der Abfall von der reinen Lehre und überhaupt 'Anschauung' ein Unwort, 
+werden das hier Gesagte stehenden Fußes nach /dev/null umleiten.)
+
+Wenn ich damit noch einmal auf Deine Äußerung 
+
+
+zurückkomme, dann finde ich die, ehrlich gesagt, aber immer noch dunkel. 
+
+Real oder empirisch (oder wie immer man es nennen will)  konstatiere ich 
+selbst niemals irgendeine "zeitliche Änderung in Zeitrichtung" oder "meine 
+Bewegung in t-Richtung", auch nicht in der Art Koordinatenzeit versus 
+Eigenzeit -- dt/dtau, denn in meinem System ruhe ich ja notwendig und da 
+ist immer Eigenzeit = Koordinatenzeit, eine zweite unabhängige Zeitbasis 
+nicht verfügbar.
+
+So sprichst Du bei dieser "Zuschreibung" also von der Art, wie man durch 
+Veranschaulichung der Funktion E=E(x,t) zur Vorstellung bewegter 
+Phasenflächen kommt? Das läuft aber bei einer Schallwelle genauso. Wenn Du 
+dieses Sich-die-Vorstellung- einer-Bewegung-Machen für Lichtwellen 
+kritisierst,  müßtest du das auch für Schallwellen tun. Nennst Du auch 
+diese "ewige Muster" in der Raum-Zeit? 
+
+Der springende Punkt ist, finde ich, noch nicht heraus.
+
+Dunkel ahne ich dieses: Um in einer Wellenfunktion E=E(x,t) eine räumliche 
+Bewegung einer Phase zu erblicken, muß ich wohl gedanklich *zwei* 
+(Spielzeug-)Beobachter in ein Raum-Zeit-Diagramm plazieren, einen auf der 
+t-Geraden, einen auf der Licht-Geraden, und deren 'Feststellungen' dann 
+miteinander verrechnen.  Einer emprisch-tatsächlichen Verrechnung setzt die 
+Granum mit ihren Axiomen (anders als die MCNJ) irgendeinen "begrifflchen 
+Widerstand" entgegen...?
+
+
+[...]
+
+In welcher Dimensionalität stimmen sie denn nicht überein?
+
+
+Wenn ich mal auf den Unterschied zwischen /Koordinatensystem/ und 
+/Bezugssystem/ abhebe, dann ist ein Koordinatenwechsel eine rein 
+rechnerische Sache (="Kartenwechsel"??), das Bezugssystem 
+wechseln aber kann der Physiker nur, indem er sich leibhaftig aktiv 
+beschleunigt. Was meintest Du bei "Koordinatenwechsel"?
+
+Die Frage, ob ich kartesische oder Kugelkoordinaten benutze, hat doch mit 
+dem physikalischen Problem der Uhrensynchronisation erst mal nichts zu tun
+und wird durch solche Wechsel auch nicht obsolet. ?
+
+
+Das klingt nach einer alternativen Axiomatik. Existiert eine solche? 
+
+
+Viele Größe,
+Pius
+
+
+f'up2  d.s.physik

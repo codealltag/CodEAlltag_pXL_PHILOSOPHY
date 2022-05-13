@@ -1,0 +1,35 @@
+An einem anderen Beispiel, welches die gleichen Voraussetzungen zur Lösung 
+mitbringt, sieht man, dass es gar nicht so schwer ist, solche Probleme zu 
+lösen, weil es an Lebenssachverhalten geknüpft ist.
+Das gleiche noch einmal, aber etwas anders:
+"Sie überwachen Recht und Ordnung in einer Kneipe. Menschen dürfen erst ab 
+21 Jahren Alkohol trinken. Sie verlangen von jedem verdächtigen Gast einen 
+Ausweis.
+An einem Tisch sitzen vier junge Leute, denen man ihr genaues Alter nicht 
+ansieht. Einer von ihnen trinkt Bier, ein anderer shell. Leider haben diese 
+beiden ihre Ausweise mit der Vorderseite nach unten auf den Tisch gelegt, so 
+dass Sie das Geburtsdatum nicht lesen können. Das Alter der beiden anderen 
+Gäste könne Sie aus den Papieren entnehmen: Einer ist älter, der andere 
+jünger als 21. Leider sind Sie nicht sicher, ob die beiden nur Limonade oder 
+Wodka-Tonic trinken.
+Die Aufgabe: Welche Ausweise und welche Getränke müssen Sie nun näher 
+inspizieren?
+Diese Frage löst praktisch jeder korrekt:
+Sie schauen in den Ausweis des Biertrinkers und schnuppern an dem Getränk 
+des 20 jährigen."
+Was ist daran so schwierig?
+Noch einmal die Gemeinsamkeiten der Aufgaben:
+... hat einen Vokal - entspricht - ... trinkt Alkohol
+... hat einen Konsonanten - entspricht - ... trinkt keinen Alkohol
+... hat eine gerade Zahl - entspricht - ... ist älter als 21
+... hat eine ungerade Zahl - entspricht - ... ist jünger als 21.
+Und das Gesetz: "Wenn Du Alkohol trinken willst, dann mußt du mindestens 21 
+sein", entspricht genau der Regel aus der ersten Aufgabe: "Wenn eine Karte 
+einen Vokal auf der einen Seite trägt, dann trägt sie eine gerade Zahl auf 
+der anderen Seite."
+Den Biertrinker und den Unter-21-jährigen herauszufinden entspricht 
+schließlich dem Umdrehen der Karten mit dem E (U) und der 7 (9).
+
+Ein Fall für die Know-How-Show, doch keine Philosophie. ;-)
+Gruß
+Niko

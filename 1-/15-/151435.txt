@@ -1,0 +1,46 @@
+"falsch" ist eine wahre Aussage, wenn sich falsch auf eine falsche
+Aussage bezieht
+"wahr" ist eine wahre Aussage, wenn sich wahr auf eine wahre Aussage
+bezieht.
+"weder wahr noch falsch" ist eine Aussage, wenn sich "weder wahr noch
+falsch" auf ein unentscheidbare Aussage bezieht.
+
+Nun kann ich eine Wertigkeit 1 für Entscheidung setzen.
++1 =3D wahr
+-1 =3D falsch
+0 =3D unentscheidbar
+
+in diesem Fall ist sowohl -1 > 0 als auch +1 > 0
+Nun weiss ich nicht, wo in diesem nichtmathematischen Kontext ein Fehler
+zu suchen sein sollte, wenn
+ich dann behaupte "falsch" ist grösser als "unentscheidbar" denn wie
+oben gezeigt hat auch falsch die Wertigkeit wahr dadurch, dass sie sich
+auf eine falsche Aussage beziehen muss um gültig zu sein. Wenn aber wah=
+r
+grösser als unentscheidbar ist, dann muss falsch auch grösser als
+unentscheidbar sein. Und das dürfte wohl stimmen, den beides sind
+Entscheidungen. =
+
+ =
+
+
+Wie oben gezeigt kann ich mir mindestens einen Fall denken, wo die
+Aussage -1 > 0 wahr wird.
+i die imaginäre Einheit entspricht (0;1)  0 =3D 0 und 1 > 0 allerdings =
+mit
+dem kleinen Haken das wenn ich diesen Vergleich anstellen wollte da ja
+1i stehen müsste. Logisch gefolgert ist i an sich schon einmal grösse=
+r
+als 0. Nun ist i^2 leider (-1;0) woraus dann folgen müsste -1 > 0. Das
+das für Mathematiker nicht gelten kann, ist einzusehen. Demzufolge ist
+ein Vergleich in den Komplexen Zahlen nicht möglich. Gut ich kann damit=
+
+leben, da ich für Komplexe Zahlen im praktischen Leben momentan eh kein=
+e
+Verwendung habe.
+Das -1 grösser als 0 sein kann, damit habe ich allerdings auch keine
+Probleme. Somit gilt für mich der in der Mathematik unbeweisbare Satz -=
+1
+
+Gruss
+Felix

@@ -1,0 +1,36 @@
+Die Prädikate "wahr" und "falsch" können auf ganz einfache Weise Verwendung finden:
+
+"'p' ist wahr" ---> "W('p')"
+
+"'p' ist falsch" ---> "F('p')"
+
+
+Wir gehen von Ferberts berühmtem T-Schema 
+
+W("p") <-> p
+
+aus, und gelangen über
+
+~W("p") <-> ~p
+
+und
+
+F("p") <-> ~W("p")
+
+zu
+
+F("p") <-> ~p .
+
+Semantisch ist das Ganze kinderleicht zu handhaben:
+
+Ausgehend von
+
+v("~p") = 1 <=> v("p") = 0
+
+erhalten wir durch Ersetzung umgehend
+
+v("F('p')") = 1 <=> v("W('p')") = 0 .
+
+
+Gruss
+SERGE

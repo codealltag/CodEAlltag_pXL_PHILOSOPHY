@@ -1,0 +1,55 @@
+kobpb@jdulyldjsl.fipmx-weqztxvb.un (Herma Vennemeyer)  meinte am 16.01.96
+zum Thema "Re: Geist-Materie":
+
+
+Ok.
+
+
+Ist es nicht so, dass Du auch von den Variablen der Formel schreiben  
+muesstest? Und es gibt natuerlich die Tautologie und das Gegenstueck, die  
+sind wahr bzw. falsch, oder irre ich?
+
+
+Eine Interpretation ist also die Festlegung der Variablen und Einsetzen in  
+die Formeln.
+
+
+Schon klar, ex falso quodlibet.
+
+
+Dein Ausflug in die Logik ist zweifellos korrekt, aber ich glaube mein  
+Modellbegriff entstammt nicht der Logik. Ein Modell ist nur eine Menge von  
+Aussagen, die eine gegebene Menge von Folgerungen zulaesst.
+
+Normalerweise sind Beobachtungen "zu erklaeren" und das heisst, es muss  
+der umgekehrte Weg gegangen werden. Die Aussage f mittels einer zu  
+bestimmenden Formelmenge F zu folgern, dafuer gibt es eine einfache  
+Variante:
+
+Mensch waehle F := { f }
+
+Das ist natuerlich absurd und stattdessen wird nach immer axiomatischeren  
+Aussagen gesucht, die eine minimale Menge F bilden. In einigen Faellen  
+laessen sich weitere Aussagen aus dieser Menge folgern, die zu  
+ueberpruefen/beobachten waeren. Geht das, so gilt: Kann das Gegenteil  
+einer gefolgerten Aussage beobachtet werden, ist F definitiv falsch  
+gewaehlt. Kann fuer alle Aussagen die Korrektheit gezeigt werden, so ist F  
+definitiv richtig gewaehlt.
+
+Das Problem liegt im Allquantor des letzten Teils. Es sind nicht immer  
+alle Aussagen zu pruefen, wenn F eine gewisse Groesse ueberschreitet.
+
+
+Ostendorp hat IMO irgendwann mal gesagt, das die Widerspruchsfreiheit eines  
+endlichen axiomatischen Systems von Aussagen ab einer gewissen Groesse  
+nicht bewiesen werden kann. Das trifft auch, wenn ich richtig erninnere,  
+auf das heute verwendete Logikkalkuel zu.
+
+Erfolgreich auf Widerspruchsfreiheit gepruefte Aussagen, sind daher IMO  
+nur ein Indiz fuer die Korrektheit des Modells.
+
+
+        Mensch liest sich
+                         Rainer Nospickel
+--
+** *Kurze* Signaturen sind die besten **

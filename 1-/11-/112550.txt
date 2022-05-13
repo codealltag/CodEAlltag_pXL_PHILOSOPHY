@@ -1,0 +1,41 @@
+[...]
+
+Nein eigentlich nicht, er lässt den Abstand zwischen Schildkröte und
+Läufer logarithmisch beliebig verkleinern und betrachtet dazu die Zeit.
+Wenn man das aber mal weiterrechnet kommt man zu einem Grenzwert für
+die Zeit und das ist der springende Punkt: Der Grenzwert zeigt an, dass
+irgendwann ein überholen stattfinden muss, das menschliche Gehirn
+erkennt aber nicht, dass es einen Grenzwert gibt, dafür ist unser
+Gehirn zu blöd.
+
+Als weiteres Gedankenexperiment dazu, kannst du dir ja mal vorstellen,
+dass du an eine beliebige Zahl immer mehr Nachkommastellen anhängst.
+Unser Gehirn sagt dazu, dass die Zahl immer größer werden muss, weil
+man hängt ja immer mehr an.
+
+Also z.B.
+0,5
+0,54
+0,546
+0,5463
+.
+.
+.
+
+Du wirst aber sicherlich einsehen, dass die Zahl niemals >= 0,6 sein
+wird, obwohl sie immer größer wird, je mehr Stellen man anhängt.
+
+Aus diesem zu blöd sein für Grenzwerterkennung kann man dann unserem
+Gehirn auch den falschen Schluss unterjubeln, dass es einen Grenzwert
+nicht gäbe. 
+
+Der Ablauf des Gedankenexperiments mit der Schildkröte also ist
+zulässig, nur der Schluss ist nicht gültig, aber unser Gehirn ist eben
+zu dumm Grenzwerte zu erkennen und sieht den Schluss deswegen ebenfalls
+als logisch an.
+
+mfg
+Tim
+
+-- 
+Man darf ruhig intelligent sein, man muss sich nur zu helfen wissen.

@@ -1,0 +1,30 @@
+Ja, aber wir wollen eine Welt simulieren, und nicht die Menge aller
+möglichen Welten. Ansonsten nehme ich einfach die Menge aller
+möglichen Computer, dann geht es wieder (einschließlich Halteproblem).
+
+
+Falls endliche Genauigkeit reicht, können viele verschieden ähnliche
+Teile als identisch betrachtet und nur einmal berechnet werden.
+Man zerlegt also den Prozessor in ungefähr identische Prozessoren,
+dann in OR/AND/NOT-Gatter, dann in größere Zellen (keine Ahnung,
+in welchen Hierarchieebenen die Chipdesigner arbeiten),
+jedenfalls dürften viele Teile sehr massiv in Kopien vorliegen.
+
+1 Gigabyte RAM z.B. besteht dann aus der Zahl 8*2^30 (paßt in
+34 bits), der Beschreibung einer Bitzelle (und diversem Steuerkram).
+Eine grobe Näherung dieses Gebildes sollte in ein paar Megabytes
+unterzukriegen sein.
+In Echtzeit geht es natürlich nicht, da der Inhalt dieses Speichers
+nicht zusätzlich hineinpaßt.
+
+(Ich behaupte nicht, daß man es schafft, die ganze Welt zu simulieren,
+sondern nur, daß die Existenz des dazu benötigten Rechners in der Welt
+nicht der Grund ist, daß es nicht geht.)
+
+Ein Hindernis könnte sein, daß man den Speicher nach der Rechnung
+wieder löschen muß, was Entropie erzeugt.
+
+Das Halteproblem ist IMHO ein ganz anderes Thema, da es von abstrakten
+Mengen und nicht von Welten handelt.
+
+Klaas

@@ -1,0 +1,76 @@
+Hallo Igor und Alle,
+
+Zu Fischernetzen und Ordnung und Rauschen:
+
+Nehmen wir an, die Realität wäre ein Meer aus gleichförmigem Rauschen.
+
+Wir haben nun ein Netz, das uns aus diesem Meer zufällig ausgewählte
+Teilmengen herausfischt, nehmen wir an, jede Teilmenge sei 1 MBit gross.
+
+Wenn nun eine Teilmenge Strukturen enthält, die sich vom Rauschen
+abheben, dann lassen sich diese Strukturen komprimieren, z.B. durch
+Lauflängenkodierung.
+
+Es gibt noch bessere Algorithmen als Lauflängenkodierung; nehmen wir
+einfach an, wir haben den Besten, den es gibt.
+
+Wenn man sich auf schlechtere, bisher bekannte Algorithmen beschränken
+würde, dann würde das an der folgenden Betrachtung aber auch nichts
+Wesentliches ändern.
+
+Wie gross ist nun die Wahrscheinlichkeit, einen Fisch zu fangen, eine
+Struktur, die um 50% komprimierbar ist?
+
+(Anmerkung:Auch viel,viel schwächere Kompressionsraten würden bei
+grossen Dateien kein wesentlich verschiedenes Resultat bringen. 50% sind
+halt viel einfacher im Kopf zu rechnen)
+
+Das lässt sich einfach abschätzen.
+Es kann nicht mehr komprimierbare Dateien geben, als Komprimate.
+
+Die Komprimate sind 500000 Bits lang. Es gibt also 2^(500000) mögliche
+Komprimate. Und es gibt 2^(1000000) mögliche unkomprimierte Originale.
+
+Die Wahrscheinlichkeit ist also 2^(500000) / 2^(1000000) =
+2^(500000-1000000) = 2^(-500000).
+
+Das ist eine Zahl, die so klein ist, dass sie kleiner ist als alles, was
+in der Physik bekannt ist.
+Ihr Kehrwert ist grösser als alles, was in der Astrophysik bekannt ist.
+
+Es ist, binär ausgedrückt, eine 0 mit 500000 Nullen hinter dem Komma und
+dann eine Eins.
+
+Die Wahrscheinlichkeit sinkt natürlich exponentiell (!!!) mit der Grösse
+der Beispieldatei.
+
+Nun hat ein realer Fisch wesentlich mehr Bits als 1000000 ;-) Selbst ein
+Scherenschnitt mit nur 1000000 "Pixeln" würde auf ihrem Bildschirm recht
+grob aussehen ;-).
+
+Und der reale Ozean hätte viel zu wenig Moleküle, ja vielleicht hat
+das ganze Universum zu wenig Moleküle, um nur einen einzigen Fisch
+herauszuholen.
+
+Rechnen Sie es doch selber mal nach!
+
+Aus _reinem_ Zufall entsteht durch _reinen_ Zufall keine Ordnung. Wenn wir
+mit unseren Sinnesorganen Ordnung wahrnehmen, und wenn wir mit unseren
+Netzen Fische fangen, dann müssen schon vorher Ordnung und Fische
+dagewesen sein!
+
+D.h.: Es gibt eine nichtstatistische Realität, die existiert. 
+ES GIBT EINE NICHTSTATISTISCHE Realität, DIE EXISTIERT!!!
+
+Das schreibe ich, ohne den Ausführungen von BjörnUnbehaun
+widersprechen zu wollen.
+Ich finde nur, dass man diesen Punkt einmal deutlich beleuchten und
+berücksichtigen sollte.
+
+Schöne Grösse,
+
+Igor
+
+-- 
+Reality is _not_ an elephant.
+For a start, it's a rainbow.

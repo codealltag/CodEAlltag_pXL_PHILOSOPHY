@@ -1,0 +1,76 @@
+Hallo Olivier,
+
+
+Nicht nur Redundanz.
+Auch das Vorhandensein bestimmter Schlüssel - z.B. in Form von
+physikalischem oder anderen Vorwissen.
+Auch das kann man ja als einen Dekodierungsschl�ssel ansehen.
+
+
+Verschlüsselung ist letztlich auch Kompression. Ich schrieb nur
+"Kompression" um allgemeinverständlich zu bleiben.
+Wenn man verschlüsselt, dann deshalb, damit man die Information besser
+transportieren oder handhaben kann; im allgemeinen wird die
+Informationsmenge (die Anzahl der Bits) dabei kleiner.
+
+
+Wenn die Information den Schlüssel enthält. Z.B. eine Grafik, die aus
+einer Pixelmatrix besteht, deren Seitenlängen Primzahlen sind.
+Auf diese Weise kann man geometrische oder bildhafte Information
+übermitteln. Oder ein Wörterbuch mit Bildern ;-)
+
+Natürlich hast Du ansonsten Recht. Auch der Gebrauch einer bestimmten
+Sprache ist ja Codierung oder Verschlüsselung.
+Andererseits wollte ich da nicht so pingelig sein. Welche Sprache benutzt
+wird, ist ja -wenn auch nicht explizit vereinbart- dann doch aufgrund von
+Gewohnheit, Kultur und Konvention vereinbart.
+
+
+Die Shannonsche Definition beschreibt IMHO die Eigenschaften eines
+Informationsträgers oder -Kanals, aber nicht die Information selber.
+
+Eine logische Und-Verknüpfung entspricht einer Multiplikation und aus
+dieser und aus einer Negation kann man alle logischen Operationen
+aufbauen.
+Daher muss eine Botschaft mit inneren logischen Bezügen beim Empfänger
+mit dem bereits vorhandenen Kontext multiplikativ verknüpft werden.
+
+Immer vorausgesetzt, dass der Empfänger rein logisch denkt.
+
+Ich glaube, dass die Informationsmenge nicht allgemein berechenbar ist,
+wenn man noch die Dekodierung beim Empfänger berücksichtigen muss, da es
+ja mehr als einen Empfänger gibt.
+Und komprimieren kann man fast beliebig, man denke an fraktale Kompression.
+
+Man kann nur die Grösse einer konkreten Botschaft und damit ihre
+Speicherbarkeit,Übertragbarkeit und Fehlersicherheit und ihren Platzbedarf
+angeben. (Jedes Bit braucht einen diskreten Ort im Raum)
+Wenn man einen der vorgenannten Parameter ändert, ist die Botschaft nicht
+mehr dieselbe. 
+Außerdem können Botschaften ja mehrere Ebenen enthalten (z.B. per
+Steganografie). Wenn man eine Ebene entschlüsselt, dann ist man noch nicht
+sicher, den gesamten Gehalt erfasst zu haben.
+
+Daher kann man nur die physikalischen Parameter einer Botschaft sicher
+wissen, aber nicht den informativen Gehalt.
+
+
+Na, ja, eine Bit für Bit Kopie gibt es schon. Und wenn die Botschaft einen
+inneren Zusammenhang enthält, wie z.B. eine digitale Signatur, dann kann
+man ein Fehlerrisiko erreichen, das geriger ist, als die Gefahr, dass sich
+plötzlich die Erde auftut und uns verschluckt ;-)
+
+Mehr Sicherheit kann man nicht fordern.
+Allerdings dürfte das Risiko, dass die Botschaft gefälscht wurde,
+wesentlich höher sein, als das Risiko eines Übertragungsfehlers.
+
+Eine 100%ige praktische Sicherheit ist also nicht erreichbar, da muss ich 
+Dir Recht geben.
+
+
+Grösse,
+
+Charles
+-- 
+Reality is _not_ an elephant.
+For a start, it's a rainbow.

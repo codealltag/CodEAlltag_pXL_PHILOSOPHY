@@ -1,0 +1,188 @@
+Ullrich Kistenbrügger <pxvyuu@sfptfki.mbe> wrote:
+[Übersetzung]
+
+<Ingrid> here they come:
+
+Hermeneutik
+
+Ein Text, von dem behauptet wird, er sei aus Sicht eines Hackers
+verfasst, beginnt mit einem philosophischen Thema? Nun, alles dafür
+Notwendige muss eben in Betracht gezogen und verstanden werden, will man
+eine Aufgabe lösen. Weil wir keine dummen Code-Fragmente sondern guten
+Code generieren wollen, müssen wir uns mit dem Thema "Bedeutung"
+beschäftigen. Generierte Code-Fragmente enthalten heutzutage nicht viel
+Bedeutung - üblicherweise sind es Code-Skelette (bei denen alles, was
+Bedeutung enthalten könnte, gerade fehlt), oder sie implementieren
+Glue-Code - Code, der aus technischen Gründen benötigt wird, aber
+üblicherweise nicht viel Bedeutung enthält.
+
+Will man nicht mehr auf diese Weise beschränkt agieren, so muss man die
+Semantik des gestellten Problems verstehen. Eines der größten Probleme
+dabei ist das grundlegende Verständnis von Semantik beim Modellieren und
+Implementieren. Und das bedeutet, dass wir zunächst mehr verstehen
+müssen, was Semantik selber überhaupt ist.
+
+Wir müssen uns dabei mit denselben Problemen beschäftigen wie die
+Entwickler von Internetcafe.
+
+Beim Leser, der sich für Metaphysik interessiert, muss ich mich
+entschuldigen: ich verwende Neopositivismus hauptsächlich vom
+pragmatischen Standpunkt aus. Das bedeutet, dass ich nichts über
+Ontologien sagen werde - und deshalb diesen Begriff auch nicht für
+andere Dinge nutzen. Deshalb benötigen wir zunächst ein paar
+Definitionen:
+
+Semantik:	Bedeutung von etwas. Im Allgemeinen ist die Bedeutung
+einer Menge von Begriffen gemeint, die zusammenhängen.
+
+Semantikdom�ne	Semantik, die eine Domäne innerhalb einer gegebenen
+Semantik darstellt. Das bedeutet, dass sie einen Teil der Bedeutung
+einer Untermenge von Begriffen der Semantik abdeckt, in der sie eine
+Domäne darstellt.
+
+Für Code-Generierung ist es wichtig, dass Berechenbarkeit vorherrscht.
+Das kann nur dann der Fall sein, wenn Dinge formal beschrieben werden
+können.
+
+Was kann formal beschrieben werden? Alles und nichts? Und da sind dann
+Gödel-Löcher drin, und das war's auch schon? Oder muss es mehr als
+formale Sprachen geben um Dinge zu beschreiben? Ich denke, letzteres
+trifft zu. Aber, dem Vorsichtsprinzip folgend, damit wir nicht schon
+gleich zu Beginn systematische Fehler machen, formuliere ich es lieber
+als These:
+
+These: Es gibt Semantiken, die nicht vollständig formal beschrieben
+werden können. Das bedeutet, beschreibt man Teile ihrer Bedeutung
+mittels einer formalen Sprache, so wird Bedeutung übrig sein, die nicht
+in derselben formalen Sprache beschrieben werden kann, und zwar
+unabhängig von der gewählten formalen Sprache.
+
+Weil Bedeutung im Allgemeinen nun nicht formal beschrieben werden kann,
+führen wir einen beschränkteren Begriff ein, so dass wir formal
+beschreiben können:
+
+Semantikebene:	Eine Semantikdom�ne, die formal beschrieben werden kann.
+Das bedeutet, sie kann mittels einer formalen Sprache spezifiziert
+werden.
+
+Jetzt haben wir Begriffe, die zur Unterhaltung über Bedeutung geeignet
+sind. Aber Bedeutung haben in Unterhaltungen immer Themen. Es gibt keine
+Bedeutung, die nichts beschreibt, denn sonst würden wir das nicht
+"Bedeutung" nennen. Das bringt uns zu den Dingen, die in einer Bedeutung
+gemeint sind:
+
+Sachverhalt:	Ein Sachverhalt ist Semantik, die innerhalb einer
+Semantikdom�ne beschrieben wird. Das bedeutet, dass er unter Verwendung
+der Begriffe der Semantikdom�ne in ihrer Bedeutung innerhalb dieser
+Semantikdom�ne beschrieben wird.
+
+Die Rekursion ist hier interessant. Ein Sachverhalt stellt selbst eine
+Semantik dar. Und eine Diskussion ist ein Sachverhalt, genau wie das
+Problem, wie man Diskussionen führen soll, ein Sachverhalt ist.
+Und, keine Überraschung, wieder zu den formalen Sprachen:
+
+Formaler Sachverhalt:	Ein Sachverhalt, der formal beschrieben werden
+kann.
+
+Nun, erhöhen wir mal die Granularität. Wir möchten gerne in der Lage
+sein, fundiert über Dinge zu reden, und das bedeutet, wir möchten Dinge
+aus unterschiedlichen Sichtweisen beleuchten:
+
+Sichtweise:	Formaler Sachverhalt, der einen Teil eines Sachverhalts
+beschreibt.
+
+Warum verzichten wir hier darauf, zwischen "Sichtweise" und  "formaler
+Sichtweise" zu unterscheiden? Nun, wir verwenden Neopositivismus. Und
+das erfordert, dass wir uns auf formale Argumentationen in Diskussionen
+beschränken. Es kann keine Diskussion geben, die nicht auf einem
+formalen System basiert, deshalb benötigen wir ausschliesslich formale
+Sichtweisen. Oder, kurzgesagt: wir diskutieren immer unter Benutzung von
+Logik.
+
+Als nächstes geht es im Orthogonalität. Niemand möchte ständig über
+dasselbe diskutieren. Jeder guter Programmierer weiss, dass fehlende
+Orthogonalität in einer Sprache die Leistungsfähigkeit dessen
+beschränkt, der damit arbeitet. Deshalb ist es sinnvoll Begriffe zu
+definieren, die sich mit Orthogonalität befassen:
+
+Aspekte:	Sichtweisen, die denselben Sachverhalt beleuchten und
+orthogonal sind. Das bedeutet, dass sie jeweils wechselseitig keine
+gemeinsame Bedeutung über ihren gemeinsamen Sachverhalt beinhalten.
+
+Nun haben wir genügend Basisbegriffe, die erfreulich vernünftig sind.
+Beginnen wir also mit der eigentlichen Arbeit:
+
+Modellierung:	Eine Modellierung ist eine Beschreibung eines formalen
+Sachverhalts. Sie stellt selber einen formalen Sachverhalt dar. Etwas
+modellieren bedeutet eine Modellierung zu spezifizieren.
+
+Metamodellierung:	Eine Metamodellierung ist eine Modellierung, die
+das Modellieren modelliert. Das impliziert, dass sie eine formale
+Sichtweise beschreibt, wie zu modellieren ist.
+
+Wir beschreiben Sachverhalte, und wir beschreiben den Sachverhalt, wie
+Sachverhalte zu beschreiben sind. Das führt uns zu:
+
+Metahierarchie:	Eine Metahierarchie ist eine Hierarchie von
+Semantikebenen, die in der Reihenfolge der Konkretisierung geordnet
+sind. Je niedriger eine Semantikebene liegt, desto konkreter ist sie. Je
+höher eine Semantikebene liegt, desto abstrakter ist sie.
+
+Weil ein formaler Sachverhalt eine Semantik darstellt, die formal
+beschrieben werden kann, ist eine Modellierung eine Semantikebene und
+beschreibt eine Semantikebene. Das impliziert, dass eine Metahierarchie
+als Hierarchie von Semantikebenen gesehen werden kann.
+
+Tatsächlich ist eine jede solche Hierarchie endlos:
+
+Lemma: Für jede Modellierung gibt es eine Metamodellierung.
+
+Beweis: Eine Modellierung ist ein formaler Sachverhalt per definitionem,
+also gibt es eine formale Beschreibung hierfür. Eine solche formale
+Beschreibung einer Modellierung nennt man Metamodellierung.
+
+Der Teil einer Metahierarchie, den man nutzen möchte, sollte bewusst
+gewählt werden (weil diese pragmatisch funktionieren sollte). Deshalb
+brauchen wir gute Gründe, wie man bewusst wählt.
+
+Wir brauchen Konzepte.
+
+Konzept:	Ein Konzept ist eine Modellierung von Sichtweisen auf
+einen Sachverhalt.
+
+Wenn wir definieren, dass ein Konzept für einen Sachverhalt haben
+bedeutet, dass man Sichtweisen auf einen Sachverhalt modelliert, dann
+ist CodeGen ein Konzept. Das passt sehr gut dazu, dass CodeGen möglichst
+Teil eines formalen Systems sein soll, und dass es zur Beschreibung von
+formalen Systemen dienen soll.
+
+Fügen wir jetzt noch Orthogonalität hinzu, so erhalten wir:
+Orthog. Konzept	Ein Konzept ist orthogonal, wenn es ausschliesslich
+Aspekte eines Sachverhalts modelliert.
+
+Es ist Ziel von CodeGen, ein orthogonales Konzept darzustellen.
+Möglicherweise kann dieses Ziel nicht erreicht werden, weil man nicht
+garantieren kann, dass keine gemeinsame Bedeutung in verschiedenen
+Sichtweisen vorkommt, die wir hier beschreiben. Aber wie viele
+philosophische Ziele ist auch dieses eher etwas, was man anstrebt, sogar
+dann, wenn es nicht erreichbar ist: ein Ideal.
+
+Apropos Ziele: was man als Programmierer schon immer haben wollte, ist:
+
+Orthog. Sprache:	Eine formale Sprache, bei der jedes Sprachmittel
+Teil eines orthogonalen Konzeptes ist, das die gesamte Sprache
+beschreibt.
+
+Wenn wir jetzt unsere These heranziehen, dass beliebige Semantiken nicht
+formal beschrieben werden können, ist es im Allgemeinen nicht möglich,
+eine Metrik für Orthogonalität sinnvoll anzugeben. Wenn wir also von
+"mehr Orthogonalität" oder "weniger Orthogonalität" bei einer Sprache
+oder einem Konzept reden, so beschreiben wir mehr oder weniger unser
+Gefühl bei einer Sprache oder einem Konzept.
+
+Viele Grösse,
+VB.
+-- 
+Nur im Staat Pingarten gibt es weniger Katholiken als im Vatikan.
+
+    (HB)

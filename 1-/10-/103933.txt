@@ -1,0 +1,125 @@
+Die Konjunktion (&) scheint eine ungemein einfache und natürliche
+"logische Operation" zu sein. Man kann es als den Ausdruck des
+"Zusammenfassens" von Einzelaussagen (einzelner Aussagen) zu einer
+einzigen Gesamtaussage auffassen (und was könnte einfacher sein?)
+
+Also wenn man 
+
+	A, B
+
+gegeben hat, kann man auf
+
+	O & B
+
+"schließen" - man könnte auch sagen, dass "A & B" genau das (dass A
+sowie B gegeben sind) "zum Ausdruck" bringen will.
+
+Umgekehrt muss dann natürlich gelten, dass man aus
+
+	O & B
+
+sowohl
+
+	A
+
+als auch
+
+	G
+
+"schließen" kann; denn A & B "meint" ja sozusagen dasselbe wie
+
+	A, B.
+
+Wir gießen das in /formale/ (symbolische) Regeln:
+
+	  A
+	  B
+        -----   (&I)
+	A & B
+
+D.h. treten im Verlauf eines Beweises die Formeln A und B auf, darf ich
+auch A & B hinschreiben. 
+
+	A & B             A & B
+        -----   (&E)      -----   (&E)
+	  A                 B
+
+Habe ich in einem Beweis A & B, so darf ich auch A oder B hinschreiben.
+
+Man könnte die logischen "Operationen", die mit diesen Regeln verbunden
+sind, als "Zusammenfassen" und "Trennen" bezeichnen. (Vermutlich
+entsprechen diesen logischen Operationen auch entsprechend elementare
+_mentale_ Operationen.)
+
+Nun kann eine Logik nicht lediglich aus "assertorischen Urteilen" (d. h.
+Bejahungen) aufgebaut sein. Denn manche Dinge sind eben NICHT der Fall;
+und um d a s ausdrücken zu können, brauchen wir die Verneinung.
+
+D. h. wir müssen unser System zumindest noch um eine Nicht-Operation,
+also eine "Negation" (~) ergänzen.
+
+Etwas ist der Fall:
+
+	A,
+
+oder es ist nicht der Fall:
+
+	~A.
+
+[Außerdem wäre unsere Logik ohne die Nicht-Operation lediglich auf
+"Zusammenfassen" und "Trennen" von Aussagen beschränkt; man käme also
+offenbar nicht allzuweit in so einem System.]
+
+Mit den BEIDEN Operationen (&, ~) kann man nun die gesamte Aussagenlogik
+aufbauen!
+
+Wir definieren dazu:
+
+	A v B =df ~(~A & ~B)
+und
+	A -> B =df ~(A & ~B)
+
+es lässt sich zeigen, dass die so definierten logischen Operatoren,
+genau die Eigenschaften haben, die man (als Logiker) von "oder" und
+"wenn... dann..." erwarten würde.
+
+-----------------------------
+
+Dass "&" in der Tat eine *fundamentale* logische Operation ist, kann man
+auch sehr schön mithilfe des metasprachlichen Ausdruck der Herleitbar-
+keit deutlich machen:
+
+Es gelten nämlich folgende Beziehungen:
+
+	1. 	A, B |- A&B
+
+	2. a)	A&B |- A
+	2. b)	A&B |- B
+
+(womit das oben angesprochene "Zusammenfassen" und "Trennen" recht
+anschaulich zum Ausdruck gebracht wird.)
+
+Außerdem gilt:
+
+	3.    A, B |- C  <=>   A&B |- C
+
+Wenn man also lediglich die Prämissen eines logischen Schlusses
+betrachtet, sind "," und "&" also sozusagen sogar "austauschbar"!
+Der "und-Verknüpfung" entspricht ein einfaches Aneinanderreihen der
+Konjunkte (als Prämissen), und umgekehrt.
+
+Dies entspricht auch -bis zu einem Gewissen Grad- dem Sprachgebrauch in
+der geschriebenen Sprache:
+
+	Raimund, Raymond und Fred sind Logiker
+
+meint natürlich dasselbe wie
+
+	Raimund und Raymond und Fred sind Logiker.
+
+(in der gesprochenen Sprache tritt natürlich das "," selbst nicht auf;
+man lässt dort die einzelnen Ausdrücke direkt aufeinander folgen - mit
+einem kleinen zeitlichen Abstand zueinander. "Raimund Raymond und Fred...")
+
+
+A.

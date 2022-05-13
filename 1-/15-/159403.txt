@@ -1,0 +1,104 @@
+Ich denke weniger in Kathegorien wie "wahr" und "falsch", sondern eigentlich
+mehr in "nutzbringenden Ergebnissen", oder wenn schon wahr oder falsch, dann
+relativ zu Modellen und auch in Bezug zu der Sprache, die verwendet wird.
+Konstruktiv gesehen, ist eine Behauptung, die ich nicht als "Falsch" identi-
+fizieren kann auch noch lange nicht als "Wahr" zu identifizieren. Sofern mir
+weder fuer das eine noch fuer das andere ein Beweis vorliegt, kann ich also
+auch keine Aussagen ueber den Wahrheitsgehalt von Aussagen treffen und also
+auch nicht, ob der modus ponens immer von wahren Aussagen zu wahren Aussagen
+fuehrt.
+
+Ich weiss noch, wie in meinem ersten Semester meines Mathematikstudiums der
+Professor gesagt hat, dass wir uns zusaetzlich zu den Axiomen der reellen
+Zahlen bei Beweisen von Saetzen von unserem "gesunden" Menschenverstand
+leiten lassen wollen. Als ich mich dann spaeter mehr mit Logiken (klassische,
+intuitionistische, Modallogik usw.) beschaeftigt habe, habe ich mich immer
+gefragt, wie sich Schlussweisen rechtfertigen lassen und bin zu dem Ergebnis
+gekommen, dass die Autoren immer Beispiele herangezogen haben, um Schlusswei-
+sen _plausibel_ zu machen, also hier eine Evidenz dieser dem Leser nahezu-
+bringen (hm...Evidenz dem Leser nahezubringen?). Und tatsaechlich, beweisen
+kann man diese Regeln ueberhaupt nicht.
+
+Nun, ich bin kein Historiker, aber ich glaube, dass beim Erlernen von Schluss-
+weisen Kausalzusammenhaenge eine Rolle spielen. Ein Beispiel hierzu: Als
+Kind habe ich mich gefragt, was denn passieren wuerde, wenn ich meine Hand
+auf eine heisse Herdplatte legen wuerde. Man man mir dann gesagt, dass sie ver-
+schmoren wuerde und es hoellisch weh tut. Eingesehen habe ich es mit dieser
+Erklaerung nicht, sondern ein Experiment (natuerlich unter der fuersorglichen
+Aufsicht meiner lieben Mutter) gemacht und erfahren, dass es weh tat. ;-)
+Genauso denke ich, dass geschichtlich gesehen, erst die Erfahrungen ueber
+Kausalitaeten zu Schlussweisen fuehren, die dann sprachlich (abstrakt) formal
+fixiert werden. 
+Das sagen an sich (die Abstraktion) wird also beim Erlernen von Schlussregeln
+wenig helfen, sondern eher das Zeigen.
+
+Den modus ponens dann zu einem Prinzip zu erheben ist aber
+eine rein induktive Sache. Nun koennte man sich denken, dass gewisse Schluss-
+weisen gegeben sind und diese von wahren Aussagen zu wahren Aussagen
+fuehren wuerden, aber beweisen laesst sich das nicht. Das einzige, was man
+sagen kann, ist, dass es in der Geschichte eine Konstanz hinsichtlich dieser
+Schlussweisen gibt, die zu "nutzbringenden" Ergebnissen fuehrt (aber auch zu
+solchen, die wohl weniger nuetzen und sogar vernichtend sind) und das sie 
+plausibel sind. Erst die Anwendbarkeit von Ergebnissen, die sich ueber 
+Schlussweisen ergeben und die Konstanz ueber Zeitraeume erheben Schlussweisen
+ueber Induktion zu einem Prinzip.
+
+Wohlgemerkt, ich sage weder, dass sie falsch noch wahr sind, sondern, ich sage,
+dass, wenn sie zu fuer mich zu akzeptablen Ergebnissen fuehren, sie auch
+brauchbar sind. Aber mehr kann ich auch nicht ueber Schlussweisen sagen.
+
+
+Das tertium non datur wird in der intuitionistischen Logik als allgemeinguel-
+tiges Prinzip abgelehnt. Das heisst aber fuer mich nichts anderes, als eben
+doch nicht alle Regeln evident zu sein brauchen.
+
+
+Ja, oder bzw. ihn relativieren und nur von Ergebnissen hinsichtlich von
+Modellen sprechen. (Aber da bin ich mir noch nicht ganz sicher)
+
+
+Ja.
+Es ergibt sich im wesentlichen aus dem Fixpunktlemma und das die Menge der 
+abgeleiteten Saetze in gewissen (genuegend reichhaltigen) Theorien nicht 
+repraesentierbar sind (und dann schliesslich aus dem ersten Goedelschen 
+Unvollstaendigkeitssatz, wenn ich das richtig in Erinnerung habe).
+
+
+Das unterschlage ich nicht; das ist mir wohlbekannt. 
+
+
+Hm, soweit ich weiss, braucht man nur eine Theorie, die goedelisierbar ist,
+um dort ueber Beweise und selbstbezuegliche Aussagen reden zu koennen. Oder
+habe ich Dich nun falsch verstanden?
+
+
+Ich habe nicht gesagt, dass Denkgewohnheiten logischen Gesetzen gehorchen,
+sondern umgekehrt, dass logische Gesetze aus Denkgewohnheiten (die auf
+Erfahrung beruhen) fixiert werden, sie also nur in einer Sprache, in der
+gedacht und geschrieben wird, Gueltikeit haben. Wenn das nicht klar war, so 
+sei es hiermit richtiggestellt.
+
+
+Ja, ich denke, dass man das "auch" in den Klammern auch weglassen kann, wenn
+man Logik sprachlich, also formal, fixiert.
+
+
+In formalen Systemen wird man bei Anwendung von Kalkuelen vom Inhalt von
+Aussagen voellig absehen. Insofern stimme ich Dir zu. Allerdings bis es
+zu einer Formalisierung kommt, wird man Schlussweisen erst erlernen muessen
+bzw. ihre Plausibilitaet erst einsehen muessen, was - wie ich schon 
+geschrieben habe - mittels Erfahrung geschieht.
+
+
+Die Frage kann ich nicht beantworten, weil ich eben denke, dass sie auf
+Denkgewohnheiten basieren.
+
+
+Innerhalb dieser klassischen Logik, die eben auch auf Denkgewohnheiten
+basiert.
+
+
+Gruss
+
+Pietro.
+--

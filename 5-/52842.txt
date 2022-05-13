@@ -1,0 +1,49 @@
+Die Funktion X(t) sollst Du bitte für ein konkretes t berechnen. pi ist
+in jedem Kreis genau gleich.
+
+
+Das meine ich nicht. X(t) darf gerne beliebig angegeben werden. Das mit
+pi war aber natürlich geflaxt - es wies auf den Unterschied zwischen der
+Berechnung von pi in Dezimalschreibweise hin (was niemand kann, weil pi
+eben nicht endlich ist) und einem Näherungsverfahren, das in
+Wirklichkeit gar nicht pi berechnet, sondern eine andere Zahl, die von
+pi nicht allzu gross verschieden ist.
+
+Natürlich sind Näherungsverfahren für pi berechenbar.
+
+Im Gegensatz zu der Simulation eines allgemeinen dynamischen Systems
+kann man aber pi beliebig genau annähern - das kann man mit dynamischen
+Systemen oft nicht, die Rechenzeit, die dafür notwendig ist, solche
+Simulationen für gute Wahrscheinlichkeiten zu rechnen, steigt meist
+polynomial mit eklig grossen Hochzahlen.
+
+Das ist übrigens noch ein wesentlicher Unterschied: die
+Wahrscheinlichkeit, dass ein Reihenglied einer der bekannten Reihen, die
+pi annähern, näher an pi dran ist als sein Vorgänger, ist 100% - da sind
+keine Wahrscheinlichkeiten.
+
+Bei der Simulation eines dynamischen Systems ist das keinesfalls so. Die
+Wahrscheinlichkeit kann man mit polynomialem Aufwand nach oben drücken,
+dass man das System einigermassen genau trifft (d.h. man gibt Grenzen
+an), aber garantieren kann in vielen Fällen niemand, dass sich die
+Simulation nicht völlig anders verhält, und dass das Ergebnis mit dem
+simulierten Problem gar nicht mehr korreliert.
+
+
+Das ist eben nicht so - X ist eine Funktion im Vektorraum abhängig von
+der Zeit, pi ist eine skalare Konstante.
+
+
+Doch, den eben genannten.
+
+
+X(t) lässt sich üblicherweise eben nicht mit einer Gleichung darstellen,
+das ist ja das Problem.
+
+Eine beliebig genaue Näherung von pi dagegen ist schon mit den
+Grundrechenarten ermittelbar.
+
+Viele Grüsse,
+VB.
+-- 
+Bitte beachten Sie auch die Rückseite dieses Schreibens!

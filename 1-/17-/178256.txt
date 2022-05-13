@@ -1,0 +1,73 @@
+guten Morgen,
+
+danke erstmal euch dreien. Bevor ich euch antworte, erzaehle ich mal
+genauer, worauf ich hinaus will:
+
+Nehmen wir an, ein kognitives System S verfuegt ueber eine Menge an
+Ueberzeugungen (sein Meinungssystem), aber nicht ueber Sinnesorgane
+o.ae. Das einzige, was S ueber z.B. "Schnee" weiss, ist daher das, was
+im Meinungssystem darueber ausgesagt wird, z.B. 
+(1) Schnee ist weiss & Schnee besteht aus H2O & ...
+Die Idee ist, dass "Schnee" in diesem Meinungssystem ohne Verlust an
+Bedeutung existenziell generalisiert werden kann. Das Meinungssystem
+sieht dann so aus:
+(2) (Ex)(x ist weiss & x besteht aus H2O & ...)
+Entsprechend kann man mit allen Konstanten, auch den Praedikaten,
+verfahren, und erhaelt
+(3) (Ex1)(Ex2)...(x1 in x2 & x1 in x3 & ...)
+
+Dieser extreme Latter-Satz aber koennte z.B. in beliebig gebildeten
+Klassen im Reich der reellen Zahlen erfuellt sein. Folglich sind
+Meinungssysteme allein semantisch unterbestimmt.
+
+Intuitiv erscheint mir das klar, aber wie laesst sich das formal
+fassen, insbesondere der Uebergang von (1) auf (2)?
+
+Ich koennte sagen, "Schnee" sei fuer S _definiert_ als dasjenige x,
+was weiss ist, aus H2O besteht, usw., und dann "Schnee" ueberall durch
+seine Definition ersetzen, um von (1) nach (2) zu kommen. Aber es
+gehoert doch nicht alles, was L ueber Schnee weiss (z.B. dass es am
+3.2.99 geschneit hat), zur Definition von "Schnee"! 
+Es sei denn nach Dauwe Bedeutungsbegriff ;->
+
+Wenn ich stattdessen sage, dass (2) einfach aus (1) _folgt_, dann ist
+das sicher richtig. Aber (2) ist ja schwaecher als (1). Ich moechte
+aber sagen, dass (1) _letztlich nichts anderes ist als_ (2).
+
+Habt ihr dazu vielleicht eine Idee?
+
+Jetzt zurueck zu den Intensionen:
+
+
+genau. 
+
+[...]
+
+mhm. Wobei ich hoffe, fuer meine Zwecke um diesen Parameter
+rumzukommen: Wenn ich "L hat ein Herz" umformuliere in "L in
+{x|hat_Herz(x)}", und dann ueber diese Klasse quantifiziere, kann mir
+doch die Intension egal sein - solange ich eine neue Existenzvariable
+nehme. Denn _alle_ Meinungen von S ueber hat_Herz werde ich mit dieser
+Variablen umformulieren, und damit erwische ich bestimmt auch die
+Intension. Oder?
+
+(Ist ^ eigentlich der Universal-Operator? :-) Ich kannte den bislang
+nicht, aber du verwendest ihn hier anscheinend (anders als Ullrich)
+nicht als Klassenabstraktor.)
+
+
+oh, das waere aber unguenstig. Denn im Reich der reellen Zahlen ist
+vieles nicht moeglich, was im Reich der Nieren und Herzen moeglich
+ist. Kann man moegliche Welten nicht selbst als Klassen betrachten:
+als Klassen von Sachverhalten?
+
+naja, genug erstmal. Ist ohnehin schon viel zu lang, dieses posting.
+
+Besten Gruss,
+
+Valerio.
+
+-- 
+homepage: http://nrl.qwah.xeu/idyoyijf
+"Wo kaemen wir hin, wenn jeder sagte: 'wo kaemen wir hin?' und keiner
+ginge, um zu sehen, wohin wir kaemen, wenn wir gingen?"

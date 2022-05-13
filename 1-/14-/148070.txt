@@ -1,0 +1,9 @@
+Nochmal Alex,
+
+
+eine Folge hat kein letztes Glied, Folgen sind Abbildungen mit
+Definitionsbereich N nach einer nichtleeren Menge X.
+Deine Konstruktion ist keine Folge, sondern ein Element der Menge Q^99 x
+{1/0} x Q^98.
+
+Benedikt

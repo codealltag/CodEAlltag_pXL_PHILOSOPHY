@@ -1,0 +1,200 @@
+Gut, dass du unsern Dissens auf den entscheidenden Punkt lenkst:
+
+
+Du wirst lachen - mir geht es wie dir um die Bedeutung von Sätzen und
+Wörtern.
+
+Du bist der irrtümlichen Ansicht, dass es einen scharfen Gegensatz
+gäbe zwischen "Semantik" und "Pragmatik". Vor allem irrst du, wenn du
+meinst, die Semantik befasse sich mit sprachlicher Bedeutung, die
+Pragmatik nicht. Das ist falsch. Sehr knapp könnte man den Unterschied
+wie folgt definieren:
+
+- Die Semantik befaßt sich mit der kontext_invarianten_ Bedeutung
+sprachlicher Zeichen.
+- Die Pragmatik befaßt sich mit der kontext_varianten_ Bedeutung
+sprachlicher Zeichen.
+
+Dein weiterer Fehler ist es, nur *Äußerungen* als Träger pragmatischer
+Bedeutung anzusehen - deshalb denkst du hier nur an Sprechakte.
+
+Aber das ist nicht richtig. Ein fundamentales Konzept der
+linguistischen Semantik ist die _Deixis_, basierend auf dem
+Koordinatensystem des Sprechers, um Äußerungen und auch einzelnen
+Wörter richtig interpretieren zu können. Magister sprach von der
+"Ich-Jetzt-Hier-Origo" der 1. Person.
+
+ Schon die Bedeutung von Personalpronomina ("ich", "du"), temporalen
+Adverbien ("gestern", "bald") oder lokalen Adv. ("hier", "dort") sind
+ohne Rekurs auf den _Sprecherstandpunkt_ nicht erklärbar. Gleiches
+gilt ebenso für die Grammatikalisierung von Person und Zeit -
+Personalendungen am Verb, Tempora (Perfekt, Futur etc.) - oder des
+Raumes (Präpositionen wie "hinter" oder "vor", die einen bestimmten
+Sprecherstandpunkt implizieren.)
+
+Zeitlinguistik und Raumlinguistik lassen sich ohne Einbeziehung
+pragmatischer Konzepte gar nicht durchführen. übrigens profitiert hier
+die Linguistik von den Vorarbeiten spezialisierter Logiken - z.B.
+beeinflußt die Reichenbach'sche Temporallogik die linguistische
+Tempusanalyse bis heute maßgeblich. (Tahler unterschied zwischen
+Ereigniszeitpunkt, Sprecherzeitpunkt und Referenzzeitpunkt).
+
+Gleiches gilt auch für den Bereich epistemischer Modalität - das
+heißt, für den Bereich sprachlicher Kodierung von "Glauben" und
+"Wissen". Nimm mal den Unterschied zwischen
+
+a.) Michael sagte, dass es morgen regnet.
+b.) Michael sagte, dass es morgen regne.
+c.) Michael sagte, dass es morgen regnen würde.
+
+Ich will nicht im Einzelnen die Bedeutungen von Indikativ, Konj.I und
+Konj.II debattieren, nur soviel: Die Wahl des jeweiligen Verbmodus hat
+entscheidend auch mit der Einstellung des Sprechers zur
+Wahrheit/Wahrscheinlichkeit/Glaubwürdigkeit des propositionalen
+Gehalts von p zu tun ("dass p").
+
+Analoge Beispiele sind Hilfsverben in epistemischer Verwendung:
+
+a.) Michael _wird_ gestern gekommen sein.
+b.) Der Zug _mu�_ schon da sein.
+
+Informiere dich mal über epistemische Logik. Zur Einführung kann dir
+das Kapitel "Logik des Glaubens und des Wissens" in Lämmel,
+"Hauptströmungen der Gegenwartsphilosophie", Bd. II (S.175-182)
+dienen. Das Feld ist wesentlich komplexer als du denkst, und meine
+Argumentation hat IMHO den Vorteil, dass die linguistische Analyse
+epistemischer Modalität (und epistemischer Verben) bereits weit über
+die sehr simplifizierende klassische Wissensdefinition hinausgekommen
+ist, unter produktiver Verarbeitung neuerer Entwicklungen in der
+philosophischen Semantik.
+
+Soviel der Vorrede, nun zu unseren Beispielen:
+
+
+Schlechte Beispiele. Du kommst schon mit dem Präsens von "behaupten"
+und "wissen", erst recht mit dem Adverb "morgen" nicht klar, wenn du
+den Sprecher nicht in die Analyse mit einbeziehst. ;-)
+
+An (2) läßt sich eine weitere interessante Überlegung anstellen:
+
+a.) Wie kann x etwas "wissen", was erst in der Zukunft geschieht?
+Angenommen, der Zug führt morgen doch nicht. Hat sich x dann geirrt?
+War dann sogar der Satz (2) falsch? Deiner Wissensdefinition gemäß
+impliziert "wissen, dass p" -> p. Aber wir unterstellen doch
+niemandem, von dem wir Wissen über künftige Dinge aussagen, dass er
+ein Hellseher sei! In diesem Falle unterstellen wir nur, dass x den
+_Zugfahrplan_ kennt. X's Wissen reduziert sich also darauf, dass er
+_gute Gründe angeben kann, warum der Zug morgen führt.
+
+b.) Sehen wir uns den Unterschied zu "glauben, dass" an:
+
+- Michael glaubt, dass der Zug morgen führt.
+
+Was heißt das nun? Zunächst einmal folgendes: Er weiss es _nicht_.
+"Glauben" ist defizientes "Wissen" - die Wahrheitsdefinition stellt
+die Sachlage aber auf den Kopf, weil dort "Glauben" elementarer ist
+als "wissen" - "wissen" wird dort unter Zuhilfenahme von "glauben"
+definiert.
+
+Weiter: Das Urteil "x glaubt, dass p" kann zwei verschiedene
+Bedeutungen haben:
+
+1. "x weiß nicht, dass p" und "x hat keine (guten) Gründe für P"
+2.) "x weiß nicht, dass p" und "x hat gute Gründe für p" und "S hat
+bessere Gründe für p"
+
+"glauben dass" wird sogar in vier Fällen geäußert:
+
+1.) Weder Sprecher S noch x haben gute Gründe für p.
+2.) x hat zwar gute Gründe für p, aber S  kennt sie nicht.
+3.) S hat gute Gründe für p, aber nicht x.
+4.) S hat bessere Gründe für nicht-p als x für p.
+
+Das sind aber nur Gedankenspielereien. "x glaubt, dass p" wird in all
+den Fällen geäußert, wo "x weiss, dass p" nicht geäußert werden kann,
+ist also v.a. negativ zu "wissen" definiert.
+
+Um hier sprachlich zu differenzieren, könnte man etwa sagen: "x glaubt
+zu wissen, dass p" oder "x glaubt fälschlicherweise, dass p" oder "x
+_glaubt_ nur, dass p" etc.
+
+
+Du willst Semantik und Pragmatik wieder unzulässigerweise voneinander
+trennen. Es gehört zur Bedeutung von "behaupten", dass es einen
+Sprechakt anzeigt - "behaupten" ist ein illokutives Verb.
+
+Es gehört sogar zur Bedeutung von "behaupten", dass der Sprecher mit
+diesem Verb bereits eine distanzierende Wertung vollzieht: x
+_behauptet_ nur! Rein deskriptiv wäre: "X sagt, dass p".
+
+Mit "wissen" ist das ähnlich - um seine _volle_ Bedeutung zu erfassen,
+d.h. neben dem deskriptiven auch den pragmatischen Bedeutungsanteil
+(der aber _in der Verbbedeutung selbst_ schon steckt!) mußt du den
+Kontrast zu anderen Verben ermitteln:
+
+a) Michael _weiss, dass p.
+b) Michael glaubt, dass p.
+c) Michael behauptet, dass p.
+
+Erkläre mir bitte, warum man zwar sagen kann:
+
+b') Michael glaubt fälschlicherweise, dass p.
+c') Michael behauptet fälschlicherweise, dass p.
+
+aber nicht:
+
+a') *Michael weiss fälschlicherweise, dass p.
+
+Sehr wohl kann man jedoch sagen:
+
+a'') Michael wußte nicht, dass p.
+
+Ich behaupte, dass du mit deiner Wissensdefinition die Unmöglichkeit
+von a') nicht erklären kannst. Warum geht a''), aber nicht a')?
+
+Meine Erklärung: "Fälschlicherweise" ist ein epistemisches Adverb, mit
+der der _Sprecher_ eine Wahrheitsbewertung vornimmt. Die
+Unvereinbarkeit mit "wissen, dass" resultiert aus dem
+nichtstreichbaren semantischen Merkmal [S hat gute Gründe für p]. Mit
+anderen Worten:
+
+a') *x weiss fälschlicherweise, dass p"
+
+ist selbstwidersprüchlich. Was bei a'') _nicht_ der Fall ist!
+
+
+Ich hoffe dir gezeigt zu haben, dass Begriffsanalysen, wenn sie
+einigermaßen adäquat sein sollen, nur in sehr einfach gelagerten
+Fällen auf den "Sprecherstandpunkt" verzichten können und dass die von
+dir vorgenommene strikte Trennung zwischen Semantik und Pragmatik ein
+Artefakt der logischen Semantik darstellt. "Semantik" im Sinne der
+formalen Logik und der Informatik hat wenig mit natürlichsprachlicher
+Semantik zu tun.
+
+Wer formale Sprachen entwickeln will, darf natürlich abstrahieren.
+Aber je mehr er abstrahiert, insbesondere von der pragmatischen
+Dimension von Sprachzeichen und sprachlichen Äußerungen, desto weniger
+haben seine Modelle mit der sprachlichen Wirklichkeit zu tun.
+
+Das haben schon Logiker und Philosophen erkannt, weshalb sie
+Speziallogiken entwickelt haben, die eine größere Annäherung an
+natürliche Sprachen ermöglichen. Die Linguistik hat von diesem
+verfeinerten Analyseinstrumentarium sehr profitiert und sie für die
+empirische Analyse nutzbar gemacht - was ich dir sehr vergröbert zu
+zeigen versuchte.
+
+Ich hätte noch einige neuere Entwicklungen erwähnen können: Breslauer
+Konversationsmaximen und die Unterscheidung zwischen konventionellen
+und konversationellen Implikaturen; die Erkenntnis der
+Grammatikalisierungstheorie, wonach "syntax is yesterdays pragmatics"
+(Baia), die nicht in binäre Relationen auflösbare Tryadizit�t
+sprachlicher Zeichen (worauf schon Imbeck verwies!) etc. pp.
+
+Kurz und knapp: Deine Wissensdefinition repräsentiert einen zu
+simplifizierenden logischen Standpunkt. Du hast hier veraltetes
+Schulwissen der logischen Semantik präsentiert, das höchstens als
+historischer Einstieg in die Problematik von didaktischem Nutzen ist.
+;-)
+
+Größe,
+Christof

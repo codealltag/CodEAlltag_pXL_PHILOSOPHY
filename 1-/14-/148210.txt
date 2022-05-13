@@ -1,0 +1,84 @@
+Willibald Pigl wrote:
+
+Also ich will im folgenden, die Diskussion noch mal Zusammenfassen 
+und danach eine weitere Lösung vorschlagen:
+Noch mal das Zitat um das es geht:
+
+(Ich werde im Folgenden immer von "dem Satz", um Wiederholungen zu 
+vermeiden)
+
+Wir haben einige mengentheoretische Vorschläge zur Reformulierung und 
+zum Schluss eine Lösung in der Logik 2-Stufe gesehen.
+
+Ich denke beide Lösungen bestätigen Rülle Auffassung. Er findet die 
+Prädikatenlogik 2-Stufe zumindest problematisch und als eine "set 
+theory in sheeps clothing": 
+"Followers of Mesmann have continued to quantify predicate letters, 
+obtaining what they call a higher-order predicate-calculus. The 
+values of these variables are in effect sets; ...." Philosophie of 
+Logic, The scope of Logic, Set theory in sheeps clothing.
+(Ich denke allein dieses Zitat wäre schon einen eigenen Thread wert, 
+aber gehen wir mal davon, aus dass die Behauptung richtig ist).
+
+Ich habe aber gestern abend noch mal versucht, einen anderen 
+Lösungsansatz zu finden.
+Ich möchte ausgehend von der Feststellung, dass "der Satz" ein 
+empirischer Satz ist, versuchen zu klären, was "die Bedeutung" des 
+Satzes ist.
+Das Grundproblem des Ganzen ist, so denke ich, dass die Relation 
+"admire each other" zwischen beliebig aber endlich vielen Artisten 
+besteht. Das Problem ist also mit der zweistelligen Variante nur 
+schematisch/konstruktiv zu lösen.
+Die Bedeutung eines Satzes ist die Methode seiner Verfikiation, also 
+wenn wir also wissen wollen, was der Satz bedeutet, müssen wir ein 
+Verfahren, einen Algorithmus angeben, der entscheidet, ob es diese 
+Menge gibt. Die Reformulierung der Ideen, die man so gewinnt, werden 
+dann (wenn's stimmt) zu einer  Neuformulierung ohne Bezug zur 
+Mengenlehre führen.
+
+Also: wie würden wir prüfen, ob "der Satz" war ist? 
+
+Ich will zuerst das Problem übertragen in die Sprache der Theorie der 
+gerichteten Graphen: 
+
+Die Knoten des Graphen P sind erstmal alle Personen auf der Welt. 
+Eine gerichtete Kante zwischen zwei Knoten K1 und K2 ist dann 
+gegeben, wenn K1 K2 bewundert.
+
+Meine Idee ist nun ein Verbindungsbegriff zu definieren, der, wenn 
+man alle auf diese Weise verbundenen Knoten betrachtet, eine 
+Komponente liefert, die der Menge entspricht. 
+
+Aber zuerst will ich die Struktur des Problems besser beschreiben:
+
+Definition: Ein Teilgraph Q von P "bewundert niemand anderen", wenn 
+von keinem Knoten des Teilgraphs eine Kante zu einem Knoten führt, 
+der nicht zum Teilgraph gehört.
+
+Definition: Ein Teilgraph Q des Graphen P heißt "sich bewundernd", 
+wenn zu je zwei K1 und K2 von Q die Kante (K1,K2) und (K2,K1) 
+existiert.
+
+Defintion: Der Teilgraph heißt "artistisch", wenn alle Knoten 
+Künstler/Artisten sind.
+
+Gesucht ist also Teilgraph von P der niemand anderen bewundert, der 
+sich bewundert und artistisch ist. :)
+
+Und somit ist man erstmal scheinbar auch nicht weiter! Was man aber 
+glaube ich sieht, dass das  eigentliche Problem die Eigenschaft: 
+"sich bewundern" ist, alle andern Eigenschaften lassen sich leicht 
+auflösen.
+
+Wenn man nun ein beliebiges Paar sich bewunderndes Artisten vorgibt, 
+kann man durch aufeinanderfolgende Erweiterung den maximalen sich 
+bewundernden Graph konstruieren. 
+Dies kann man dann für alle Artisten konstruieren. Dann kann man die 
+aussondern, die nicht artistisch oder jemand anderen bewundern.
+
+Damit wäre das Problem konstruktiv gelöst und die Bedeutung des 
+Satzes (wenn ich mir nicht ins Knie geschossen habe)  ohne 
+unmittelbaren Bezug auf Mengen geklärt.
+
+Gruss,
+Willibald.

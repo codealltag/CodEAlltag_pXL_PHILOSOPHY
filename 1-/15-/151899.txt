@@ -1,0 +1,21 @@
+das ist dann dein Pech.
+Ich habe dich nach einem Beispiel für epsilon gefragt, für das es kein 
+x(epsilon) gebe, derart daß |e^{-x|<epsilon für x>x(epsilon), und du hast 
+mir keines geliefert.
+
+
+ich hatte gedacht, du würdest mit e die Eulersche Zahl 2,71... meinen.
+Wenn du nun mit e etwas anderes meinst, das noch nicht einmal eine Zahl 
+ist, sondern z.B. der Beginn eines Gedankens, dann kannst du mit e gar 
+nicht die Rechenoperation e^{-x} durchführen, da die nur für Zahlen 
+definiert ist.
+Mal abgesehen davon, daß ein Gedanke nicht 1 sein kann, da ein Gedanke 
+keine Zahl ist, ist mir gaz und gar unverständlich, wie du darauf kommst, 
+daß der Gedanke "lim_{x \to \infty} e^{-x}" sein soll.
+
+
+eigentlich nicht. Ich hatte aber angenommen du würdest vielleicht darauf 
+hinaus wollen, daß das Argument von e^x nicht -oo sein könne. 
+
+
+inwiefern soll das eine Antwort sein?

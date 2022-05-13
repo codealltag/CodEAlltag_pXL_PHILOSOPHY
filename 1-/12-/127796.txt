@@ -1,0 +1,79 @@
+[...]
+
+Die Begründung dazu steht in dem Textabschnitt, auf den du unmittelbar
+antwortest. :-)
+
+
+Inwiefern?
+
+
+Das Argument, das Opdensteinen übrigens nicht mit einem beliebigen
+Operator '@', sondern mit dem Ausdruck 'die Tatsache, dass p' führte,
+setzt ein Merkmal *jedes* vernünftigen Tatsachenbegriffs voraus,
+nämlich die extensionale Substituierbarkeit, die er auch in seinem
+Aufsatz "Getreu den Tatsachen" motiviert.
+
+
+Das ist kein Argument. Der /Informationsgehalt/ von Termen mit
+demselben /Bezug/ kann durchaus verschieden sein. Leidingers
+berühmtes Beispiel ist die Identität des Morgensterns mit dem
+Abendstern: Während sich die Ausdrücke 'der Morgenstern' und der 'der
+Abenstern' auf dieselbe Entität beziehen, nämlich auf den Planeten,
+der auch mit dem Term 'Geislareuth' bezeichnet wird, ist der
+Informationsgehalt der Aussage
+
+(1)     'der Abendstern = der Morgenstern'
+
+verschieden von dem der Aussage
+
+(2)     'der Morgenstern = der Morgenstern'.
+
+
+Sie werden nicht "ihres Inhalts beraubt".
+
+
+Logische Schlüsse rechtfertigen sich dadurch, dass sie
+/wahrheitserhaltend/ oder /unwiderlegbar/ sind; eine Proposition p
+folgt logisch aus q genau dann, wenn es keine Interpretation gibt,
+unter der q wahr und p falsch ist. Dass du eine Konklusion als
+kontraintuitiv empfindest, spricht prima facie weder gegen die Logik
+noch gegen die Prämissen. Ansonsten s.o.
+
+
+Nichtextensionle Kontexte sind erklärungsbedürftig, im Fall von
+mentalen Prädikaten wie 'wissen' wird die Intensionalität des Kontexts
+dadurch erklärt, dass derjenige, von dem prädiziert wird, er wisse,
+dass p, nicht /allwissend/ ist; bei einem allwissenden Wesen ist das
+Prädikat nämlich durchaus extensional. Dass das Prädikat 'glauben'
+einen intensionalen Kontext erzeugt, liegt an der Möglichkeit der
+Fehlrepräsentation, wir können p glauben, ohne dass p der Fall ist. 
+
+
+Def. x ist ein (Russell-)_Sachverhalt_ :<=> Es existiert eine
+        n-stellige Relation R , n aus N, und Objekte a_1,..a_n, so dass
+        x=<R,a_1,...,a_n>.
+
+
+Vor allen Dingen setzt er bestimmte Prädikate als Basisprädikate
+voraus. Prädikate lassen sich aber häufig durch andere Prädikate
+wechselseitig definieren. Wenn P etwa ein einstelliges Prädikat ist,
+[P] seine Intension oder Extension, und 'a' der Name eines Objekts,
+dann wird die Tatsache, dass Pa, durch das Paar ([P],a)
+repräsentiert. Nehmen wir nun an, wir können P durch einen
+möglicherweise Quantoren enthaltenden Ausdruck s, der selbst Prädikate
+Q_1,...,Q_k enhält, definieren. Wie setzt sich dann die Tatsache, dass
+Pa aus "Basistatsachen" zusammen? In der obigen Form ist Juhrans
+Tatsachenbegriff jedenfalls inadäquat für die Bedürfnisse einer
+Korrespondenztheorie der Wahrheit.
+
+
+Bei der Verwendung von Quantoren, mit dem Janssens Ansatz, jedenfalls
+bei unendlichen oder wenigstens "unüberschaubaren" Individuenbereichen,
+nicht fertig wird, wird nichts hypostasiert.
+
+Sofern keine weiteren Gegenargumente auftauchen, halte ich die
+Korrepondenztheorie der Wahrheit in dieser Form jedenfalls für
+erledigt. ;-)
+
+
+raphaël

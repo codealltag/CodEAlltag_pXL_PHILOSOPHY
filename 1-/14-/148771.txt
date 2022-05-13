@@ -1,0 +1,37 @@
+Auch hierzu habe ich dir bereits gesagt, daß hier keine _Multiplikation_
+vorliegt, sondern eine Verknüpfung von Aussagen_. (In diesem Spezialfall
+eine Negation.)
+Der Zustand 'Etwas' wird repres�ntiert durch die 1 (/den Ausdruck 'True')
+Der Zustand 'Nichts' wird repres�ntiert durch die 0 (/die Aussage 'false')
+
+Jeder Punkt enthält entweder den Zustand 'Etwas' (z.B. Materie oder Energie)
+ODER 'Nichts' (naja, nichts halt).
+
+Das ergibt die folgende Tabelle:
+
+Punkt   Zustand
+  1   | Etwas
+  0   | Nichts
+
+Nun können wir jedem Punkt seinen Zustand zugestehen ('Es ist so' /1), oder
+nicht, stattdessen ändern wir ihn ('Es ist NICHT so' /0).
+
+Das ergibt dann diese Tabelle:
+
+Punkt   Aussage   Übersetzung              Endaussage
+  1        1       1: Etwas ist             Etwas
+  1        0       0: Etwas ist nicht       Nichts
+  0        1       0: Nichts ist            Nichts
+  0        0       1: Nichts ist nicht      Nicht Nichts -> Etwas
+
+Aber du meintest ja das wäre nicht das, was du meinst *schulterzuck*
+
+
+(P.S.: Ich bitte meine möglicherweise unzureichende Beschreibungen zu
+verzeihen. Ich habe mich noch nicht näher mit Logik beschäftigt.)
+--
+Ernest Isert (tbrxe817@d-jfiddb.cp)
+-----------------------------------------------------------
+A Member of the ---> VERONIKA URBAN NOSPICKEL <--- Fanclub Germany
+      since      http://tge.nfgo.yk/chx-jnb      10/98
+-----------------------------------------------------------

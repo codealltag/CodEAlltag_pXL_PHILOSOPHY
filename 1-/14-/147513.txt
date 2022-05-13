@@ -1,0 +1,14 @@
+stell dir mal vor, das Gehirn ist ein zusammenhängender Graph, in dem die 
+Knoten die Neuronen sind, und wir würden diesen Graph bilinear in der Hardware 
+abbilden. Der Informationaustausch zwischen den "Neuronen" wird auch 
+naturgetreu simuliert. Wir müssten nur die Neuronen in der Hardware passend 
+initialisieren; dafür machen wir mit einem Wundersiencefictionger�t eine 
+momentane Aufnahme von dem ganzen Gehirn, also Neuronenzust�nde - aktiv/nicht 
+aktiv, und initialisieren die Hardware entsprechend der Aufnahme. Zu dem 
+Moment der Aufnahme war unser Gehirn grade bei der Komma in dem Satz "Ich 
+denke, so bin ich". Müsste unser Gehirnabbild in der Hardware nicht den Satz 
+ab der Komma weiterdenken ? 
+Diese Kopie des Bewusstseins würde vielleicht die Todesangst bekommen, weil 
+keine Signale von den Sinnesorganen ankommen, also wäre diese Angst 
+mathematisch gesehen, nur eine Folge der Zuständen in dem Programm, das diese 
+Hardware bildet. Wahnsinn, da muss irgendwo ein Denkfehler sein :)

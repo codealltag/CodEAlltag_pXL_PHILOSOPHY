@@ -1,0 +1,17 @@
+On 30. 03. 23 14:49:47 GMT, 
+
+Man koennte zu den 3 genannten Axiomen noch das Loeb-Theorem hinzunehmen,
+und das Modalpraedikat fuer Interpretationen offenlassen. Man muesste dann
+wohl nicht mehr expliziet eine goedelisierbare Sprache voraussetzen und
+koennte einfach in der Mathematik schauen, auf welche Theorien so eine
+modale Logik anwendbar sei.
+
+Jedenfalls scheint es mir dann, dass allg. Unvollstaendigkeitssaetze bei
+so einer Axiomatik der Logik ohne weitere spezielle Verfahren der Mathematik 
+zu beweisen sind. Allerdings aber nicht die Korrektheit des Kalkuels. Hier 
+fliessen wieder induktive Verfahren ein und ausserdem sicher auch Verfahren 
+beim Aufbau einer entsprechenden Semantik.
+
+
+--
+Karsten ist ein platonischer 1-Mann-Dialog. (Whitehead)

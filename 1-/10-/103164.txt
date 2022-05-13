@@ -1,0 +1,31 @@
+Und Dunker sagt nun im Hinblick auf Patrice System:
+
+
+	"Dieses System ist äußerst elegant, i n s o f e r n es mit nur
+	 einem Junktoren, einer Regel und einem Axiom auskommt. Es
+	 spricht allerdings die Intuition nicht an."
+
+
+Wo in Gottes Namen ist hier der Widerspruch zu meiner Aussage??? :-o
+--- offenbar hast Du Dieter hier falsch verstanden.
+
+
+A.
+
+
+P.S.
+Allenfalls könnten wir noch darüber diskutieren, ob nicht Priglmeiers
+System _noch eleganter_ ist, als Nienkirchens System:
+
+Axiom-Schema:
+
+	Ax. (((((A->B)->(~C->~D))->C)->E)->((E->A)->(D->A)))
+
+Schlussregel:
+
+	MP   A -> B  A
+	     ---------
+	         B
+
+Wirklich e i n f a c h e r ist es aber wohl nicht; was man spätestens
+dann erkennt, wenn man versucht, Theoreme aus diesem System abzuleiten.

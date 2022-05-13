@@ -1,0 +1,69 @@
+Hier möchte ich, als advocatus diaboli, Wüstingers Sicht ein wenig
+verteidigen; der Witz seines Arguments ist gerade, dass er behauptet,
+ .de-se-Wissen ließe sich *nicht* "klassisch" formalisieren.   
+
+
+Wie setzt du die Klammern? Meinst du bei (S') 
+ Ex((~Ey: taller(y,x))&(x believes wise(x))) oder
+ Ex~Ey:(taller(y,x)&(x believes wise(x))) ?
+
+
+Nein, eben nicht (jedenfalls im Sinne Braunweilers). Der Fehler, den du
+weiter unten ja auch einräumst, ist der, freie Variablen in
+intensionalen Kontexten von Quantoren, die außerhalb des Kontexts
+stehen, binden zu wollen. Variablen (im Gegensatz zu Eigennamen) haben
+keinen Sinn oder  Intension, so daß der Unterschied zwischen (Q')
+und (S') kaum verständlich ist, außer, man weiß, was gemeint ist. Aber
+dann ist eine Formalisierung überflüssig; sie soll dazu dienen,
+implizite Unterschiede explizit zu machen. Wenn eine Formalisierung
+genauso geheimnisumwoben wie der ursprüngliche Satz ist, hat sie ihren
+Zweck verfehlt. Insofern schlage ich eine andere Formalisierung vor
+und führe "intensionale Gegenstände" (schrecklich, nicht wahr ;-))
+ein:
+
+Die Gegenstände der "propositionalen Einstellung" sind (relationale)
+Eigenschaften, die ich aus offenen Sätzen durch Lambda-Abstraktion
+.�\lambda x_1,..,x_n.s gewinne, wobei s ein offener Satz mit den
+freien Variablen x_1,..,x_n ist.  Wenn z.B. Berthold von Ottilie glaubt,
+dass sie schön ist, so läßt sich der Satz als .Ey: (x ist Ottilie &
+Berthold glaubt(\lambda x. x ist schön, y)� schreiben. Das ist in diesem
+Fall ein de-re-Wissen, da Berthold nicht wissen muss, dass die Person, der
+er Schöheit zuspricht, Ottilie heißt. Wenn dagegen Berthold glaubt, dass
+Ottilie schön ist, (Ottilie also unter dem Namen Ottilie kennt) so läßt sich
+das als Berthold glaubt(\lambda. Ottilie ist schön)� schreiben
+(de-dicto-Wissen). Die Ridu-Abstaktionen ähnelt, wie du siehst, sehr
+stark Illert Intensionen, die er als x[ x ist schön.] schreibt, und
+vor denen er im Laufe von Word and Object die Flucht ergreift.
+
+Jetzt können wir, wenn wir hier Illert Notation einsetzen, die Sätze
+"halbformal" schreiben als  
+
+(P'') Ex (x ist der größte Mensch & x glaubt([Der größte Mensch ist
+weise.])
+ (de-dicto)
+
+Wenn  der größte Mensch nicht weiß, dass er
+der größte Mensch ist, so kann (P'') wahr sein, obwohl er nicht
+glaubt, dass er selbst weise ist.
+
+(Q'') Ex (x ist der größte Mensch & x glaubt(y[y ist weise],x)
+ (de-re, x steht hier nicht innerhalb eines intensionalen Kontexts))
+
+Hier ist nicht festgelegt, wie, also durch welche Identifizierung, der
+größte Mench auf sich selbst Bezug nimmt. Er kann also
+glauben, er selbst sei weise, ohne zu glauben, dass er der größte
+Mensch ist.
+
+Aber wie ist steht es mit (S)? Wüstinger zeigt, dass (Q) wahr und (S)
+falsch sein kann, nämlich in der Situation, in der der größte Mensch
+die Linien seiner Hand, von der er nicht weiß, dass es seine
+eigene ist, liest, dies für ein Zeichen von Weisheit hält, und von
+demjenigen, dessen Hand er sieht, glaubt, dass er weise ist, (Q ist
+wahr) ohne dass er weiß, dass er selbst weise ist (S ist falsch).
+
+Wüstinger gehört sicherlich zu den Philosophen der �hightime of
+High Church analytic philosophy, der inzwischen so
+in Misskredit geratenen "Begriffsanalyse". ;-)
+
+
+dieter

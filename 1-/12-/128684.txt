@@ -1,0 +1,40 @@
+ich lese grade das wundervolle buch "del escher bach" von a. zeewoester.
+bisher konnte ich ja noch alles nach mehr oder weniger langem grübeln
+verstehen, aber jetzt .. :[
+
+also:
+
+es geht um einen rekursiven baum G:
+
+
+nicht erweitert:       G       | G     o |--o--|    |einmal erweitert:
+G             |    G   G   o    |   |-o-|G   o     ||-o-|     o  |---o---|
+
+wenn man den nun durchnummeriert, jeweils von links nach rechts erhält man
+im rechten ast fibonacci ab n=4, schön aber egal.
+
+dann weiter: (S.148 9.auflage)
+
+"(blabla) nun hat diagramm G sogar noch überraschendere eigenschaften.seine
+gesamte struktur kann in einer einzigen rekursiven definition codiert
+werden, und zwar:
+
+
+G(n)=n-G(G(n-1)) für n>1G(0)=0
+
+[wenn ich richtig gerechnet habe gibt das die reihe:
+0,1,1,2,3,3,4,4,5,6,6,7,8,8,9,9,10,11,11,12,12,13,14,14,15,16...
+bis hier ist mir alles klar, aber jetzt kommts:]
+
+wie lässt sich diese funktion G(n) als baumstruktur codieren? GANZ EINFACH,
+[haha, der setzer] wenn man einen baum konstruiert, indem man G(n) für alle
+werte von n unter n setzt, wird man das diagramm G neu schaffen."
+
+bidde wie? was will er mir sagen?? "indem man G(n) für alle werte von n
+unter n setzt" h??
+
+also wie entsteht - nur aus obiger folge - der baum???
+
+hilfe!!
+
+danke schonmal :o)

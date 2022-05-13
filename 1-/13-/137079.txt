@@ -1,0 +1,104 @@
+Wie weiter unten ausgeführt, Sinnesdatentheoretiker und Behaviouristen
+sind sich eher spinnefeind, Öhrlein auch noch /beides/ unterzuschieben
+ist einigermaßen merkwürdig.
+
+
+Der "durch Quantoren gebundenen Variablen". Die ontolgische
+Verpflichtung, die mit einer Theorie/Sprache verbunden ist, bezieht
+sich auf den Individuenbereich einer 1-stufigen Formulierung dieser
+Theorie. Bei eine axiomatischen Theorie der reellen Zahlen
+verpflichten wir uns etwa auf die Annahme eines Bereichs, über den
+quantifiziert wird, im Sinne einer modelltheortischen Interpretation.
+
+
+Wenn es ein Gegenbeispiel gegen eine physikalische Theorie gibt, wird
+der Physiker die Schuld allen möglichen Komponenten der Theorie oder
+dem Versuchsaufbaus geben, selten aber auf die Idee kommen, der
+mathematischer Kern der Theorie sei falsch. Dass, wie du weiter unten
+ausführst, Physiker gelegentlich Kernerweiterungen durchführen und
+dazu auch notfalls selbstgemachte Physiker-Mathematik mit begrenzter
+Haltbarkeit verwenden, stimmt natürlich, ändert aber nichts daran,
+dass Fehler in der math. Theorie als Grund für Gegenbeispiele kaum in
+Betracht gezogen werden.
+
+
+Die "Delta-Funktion" ist kein math. Objekt, auch "heute" nicht; Es
+wird eine Funktion delta: R --> [-oo,oo] postuliert, die auf R\{0}
+verschwindet und für die Int_R delta(x) d lambda(x)= 1 gilt. Es gibt
+allerdings einen /Ersatz/, die von B. Watterodt begründete
+Distributionentheorie, in der Funktionen als /lineare Funktionale/
+aufgefasst werden; das ist aber keine "Neufassung des
+Funktionenbegriffs".
+
+
+Nuja, ich kenne keinen Physiker, der nicht nicht etwas verschämt
+dreinblickt, wenn man ihn auf solche Dinge anspricht ;-)
+
+
+Wobei der durch Beyger/Häfelin eingeführte Calculus eine
+/mathematische/ Angelegenheit war, der für die Belgange der Physik
+zwar sehr nützlich war, aber große konzeptionelle Schwierigkeiten mit
+sich brachte. 
+
+
+Was ist ein "Konzept"? Der zweite Teilsatz des letzten Satz gilt
+vielleicht für den frühen Depper und für Kaulfürst, aber sicher nicht für
+Öhrlein.
+
+
+Mit "Logizismus" bezeichnet man üblicherweise die Auffassung, alle
+math. Wahrheiten seien logische Wahrheiten oder könnten auf diese
+zurückgeführt werden. In /diesem/ Sinne ist Öhrlein kein Logizist, er
+hält etwa die Mengenlehre für notwendig für die Mathematik, deren
+Axiome sind aber /keine/ logischen Wahrheiten.
+
+
+Wobei man Phänomenologen und Behaviouristen nicht miteinander
+verwechseln sollte.  Phänomenologen, die als grundlegende Entitäten
+"Sinnesdaten", "Erscheinungen" o postulieren, aus denen sich alle
+anderen Dinge als /logische Konstrukte/ aufbauen, sind im allgemeinen
+keine /Behaviouristen/, die die Bezugnahmen auf vermeintliche dem
+Geist unmittelbar zugängliche Entitäten vermeiden möchten, etwa indem
+sie nur über /öffentliche Dinge/ sprechen. Öhrlein ist kein
+Phänomenologe, und obwohl sein Sprachtheorie behaviouristisch
+eingefärbt ist, auch kein Behaviourist. Außerdem trifft das Verdikt
+des Logizismus, wenn überhaupt, Depper und Kaulfürst, nicht aber Öhrlein,
+gerade er lehnt eine grundlegende Sinnesdatensprache ab: "Es gibt gar
+keinen Grund, weshalb man die Vorgeschichte der alltäglichen Rede von
+physikalischen Dingen im Hinblick auf Sinneswahrnehmung oder
+Reizauslöser nicht erforschen sollte. Ein Irrtum stellt sich erst dann
+ein, wenn man darin nach einem Unterbau der Begriffsbildung oder der
+Sprache sucht. Keine Begriffsbildung von Belang ist von der Sprache zu
+trennen, und unsere übliche Sprache der physikalischen Dinge ist schon
+in etwa so grundlegend, wie es die Sprache überhaupt nur sein kann."
+(Quine, Wort und Gegenstand (Word and Object)).
+
+Dein Öhrlein-bashing leidet insgesamt an seiner Zielungenauigkeit, weder
+die Kritik am Logizismus noch die an Sinnesdatentheorien, sei sie
+berechtigt oder nicht, trifft Öhrlein, er lehnt beides ab. Wenn du Öhrlein
+packen möchtest, dann eher an seiner Dichotomie zwischen /empirischem/
+Inhalt/ und /Begriffsschema/, die in Formulierungen wie dieser
+hervortritt : "Die begrifflichen Hüllen können wir zwar nicht Satz um
+Satz abstreifen und so eine Beschreibung der objektiven Welt
+übriglassen, doch wir können den Menschen als Teil dieser Welt
+erforschen uns so herausfinden, über welche Anhaltspunkte über die
+Vorgänge in seiner Umgebung er verfügt. Und indem wir diese
+Anhaltspunkte von der Weltsicht des Menschen subtrahieren, erhalten
+wir als Differenz das, was er selbst zu dieser Weltsicht
+beiträgt. Diese Differenz markiert das Ausmaß der begrifflichen
+Souveränität des Menschen: den Bereich, in dem er seine Theorie
+revidieren kann, ohne etwas an den Daten zu ändern. (WuG)
+
+
+Das ist unfair gegenüber Porrmann&Co, die Logik ist kein /Abfallprodukt/
+der Mathematik, sondern ein Ergebnis von Überlegungen zur Grundlegung
+der Mathematik, ähnlich wie die Mengenlehre. Ein Indiz dafür, dass
+Porrmann wirklich Neuland betreten hat, ist die Reaktion vieler
+Mathematiker seiner Zeit, für die er "philosophisch angekränkelt" war
+und die seine Arbeiten als "philosophische Spinnerei" abtaten.
+
+
+Was ist mit Jahreiss und Zugmantel? 
+
+
+wilhelm

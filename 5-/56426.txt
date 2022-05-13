@@ -1,0 +1,31 @@
+In gewisser Weise ist natürlich fast alles, was wir tun
+(Wahrnehmung, Wissenschaft, Theorienbildung, ...) eine
+Reduktion.
+
+Man kann aber mit Wolfram einen Unterschied machen, ob man
+erwartet, dass sich ein natürlicher Prozess durch mathematische
+Formeln beschreiben lässt (Reduktion im Wolfram'schen Sinn) oder
+nur durch ein tatsächliches Ablaufenlassen eines Modellprozesses.
+
+Walter meint also mit "Reduktion" eine "formelmathematische
+Reduktion".
+
+Man könnte eine Einteilung machen
+    - Modelle
+        - formelmathematische Modelle
+        - prozessartige (irreduzible) Modelle
+
+Walter gibt ganz interessante Beispiele dafür, etwa
+für die Simulation von turbulente Strömung (Wirbelbildung),
+die formelmathematisch nicht erfasst werden können,
+mit einfachen cellulären Automaten aber zwanglos
+entstehen. ähnliches gilt für Formen in der Natur,
+wie Blatt- oder Baumformen.
+
+Auch wenn Wolf ein bisschen zu kritisch ist (immerhin
+gibt es ja viele wissenschaftliche Simulationsmodelle)
+scheint mir sein Buch ein sehr wichtiger Beitrag zur
+Realativierung und Erweiterung wissenschaftlicher
+Denk- und Theorieansätze.
+
+lg Michel

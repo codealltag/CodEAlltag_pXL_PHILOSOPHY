@@ -1,0 +1,18 @@
+Dade I, Decadi de Prairial de l'Anne 205 de la Rövolution
+
+
+Es ging aber darum, dass du behauptet hattest, es wäre 1615 für
+Habrunner ein Argument gewesen, dass das ptolemäische System der
+Massenträgheit widersprochen hätte. Dafür ist es völlig unerheblich,
+was Itzigsohn warum 80 Jahre später gemacht hat.
+
+
+Aber auch nur um insgesamt vier, was gegenüber den über 40 Sphären und
+Epizykeln des kopernikanischen Systems auch nicht mehr viel ausmachte.
+
+Tschüss, Valerio.
+-- 
+#!/bin/sh
+for x in 0 100 200 300 400 500 600 700 800 900; do
+for y in 0 100 200 300 400 500 600; do xeyes -geometry 100x100+$x+$y &
+done; done

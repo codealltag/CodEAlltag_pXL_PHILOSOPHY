@@ -1,0 +1,16 @@
+Hier sehe ich eigentlich keine Probleme. Ich schreibe ein Programm und
+gebe Zeichen fuer Personen und Paare von Personen ein, die sich bewundern.
+Desweiteren gebe ich noch an wer ein Kuenstler ist.
+Anschliessend entscheidet das Programm, ob (1) erfuellt ist. Da die
+Menge der Zustaende nur endlich sein kann, kann das Programm diese Frage
+entscheiden. Es sind aber nur elektronische Prozesse abgelaufen. Das
+Problem wird "konstruktiv" geloest.
+
+Man koennte auch hingehen und eben im konkreten Fall die Personen alle
+abklappern und gewisse Fragen stellen wie "Bewunderst du Person x und
+ist x ein Kuenstler?" oder "Bist du ein Kuenstler?" etc. Man muss sich
+natuerlich merken, was man so alles schon weiss. Aber das geht dann schon.
+
+
+Gruss Fernando
+--

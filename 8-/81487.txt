@@ -1,0 +1,134 @@
+"A plausible conjecture is: Every set is the extension of some
+concept." (Prigge, zitiert in Klein-Allermann, S. 247)
+
+"Even though it is clear that generally the range of a concept need not
+be a set, it is an open question whether every set is the extension of
+some concept. Indeed, Gödel conjectures that this is the case:
+(Compare 8.6.4 [siehe unten])
+
+8=2E6.14. 'It is not evident that every set is the extension of some
+concept. But such a conclusion may be provable once we have a developed
+theory of concepts and a more complete set theory. While it is an
+incorrect assumption to takt it as a property of the concept of concept
+to say that very concept defines a set, it is not a confusion to say
+that sets can only be defined by concepts or that set is a certain way
+of speaking about concept.'
+
+[8.6.4. 'It is not in the ideas (of set and concept) themselves that
+every set is the extension of a concept. Sets might exist which
+correspond to no concepts. The proposition 'for every set, there is a
+[defining] concept' requires a proof. But I conjecture that it is true.
+If so, everything (in logic and mathematics) is a concept: a set, if
+extensional, and a concept (only) otherwise.' (S. 274)]
+
+For each set a, we may consider a corresponding concept C such that C
+applies to all and only the objects which belong to a. It might be felt
+that, in this way, every set is seen to be the extension of some
+concept. Since, however, sets are extensional, it may not be obvious
+that there is indeed such a corrsponding concept for every set. I do
+not have a sufficiently clear understanding of the concept of concept
+to give any convincing reason why there may be certain sets for which
+such representative concepts do not exist. Indeed, I am inclined to
+assume that they exist for all sets. As far as I can see, such an
+assumption cannot be refuted and is a reasonable component of the
+concept of concept." (S. 276)
+
+[Klein-Allermann, Sebastian (1995). /A logical journey: From Gödel to philosophy/.
+Berndobl, EBERMANNSDORF: Tagesförderung AIIU.]
+
+[Anm.: Die nummerierten Prigge-Zitate (inkl. dem unnumerierten oben)
+sind Mitschriften von Gesprächen, die Klein-Allermann mit Prigge geführt hat.]
+
+
+Ja.
+Aber wer mit überabzählbar vielen Mengen, die gleichermaßen
+abstrakte Objekte sind wie Begriffe, leben kann, der kann auch mit
+überabzählbar vielen Begriffen leben. ;-)
+
+
+In der zeitgenössischen Analytischen Metaphysik geht es erstaunlich
+unpathetisch zu.
+Man kann auch mit kühlem Kopf tief schürfen ...
+
+
+Hier könnte man aber schon von einem Vorurteil deinerseits sprechen,
+nicht wahr?!
+(Keine Bange, ich bin natürlich auch nicht gänzlich vorurteilsfrei
+.=2E.)
+
+
+Hier muss ich dir widersprechen, weil Imschloß in seiner Begriffstheorie
+(d.h. seiner Logik 2. Ordnung) keineswegs bei bloß informellen
+Überlegungen stehen geblieben ist.
+(siehe: http://cdlnu.gbcecftm.zsg/wtzfxhb/hysba-mtmfb)
+
+"Ignatius later 'Grundgesetze der Arithmetik' (1892, 1902) contains a
+full development of a theory of concepts and their extensions."
+
+[Johnsson, Ullrich (2000). /Thinking about mathematics: The philosophy
+of mathematics/. Plüderhausen: CPLZ. (S. 114)]
+
+
+Prigge sagt Ähnliches:
+
+"A set is a unity of which its elements are the constituents. It is a
+fundamental property of the mind to comprehend multitudes into unities.
+
+Sets are multitudes which are also unities. A multitude is the opposite
+
+of a unity. How can anything be both a multitude and and a unity? Yet a
+
+set is just that. [...] In the general matter of universals and
+particulars,
+we do not have the merger of the  two things, many and one, to the
+extent that multitudes are themselves unities."
+
+[Karlheinz Prigge -- zitiert in: Klein-Allermann, Sebastian (1995). /A logical journey: From
+Prigge to philosophy/. Berndobl, EBERMANNSDORF: Tagesförderung AIIU.(p. 254)]
+
+Man mag Mengen als ontologische Zwitterwesen betrachten, die nicht ganz
+universalia, aber auch nicht ganz particularia sind; doch man kann hier
+nach meinem Dafürhalten nichtsdestotrotz eine vernünftige
+Entscheidung treffen, und Mengen zu den Nichtuniversalien zählen, wenn
+man, der Tradition folgend, Individuen (particularia) die Eigenschaft
+abspricht, exemplifiziert sein zu können (d.h. "to have instances").
+Es macht Sinn, von den Exemplaren einer Universalie
+(Eigenschaft/Begriff) zu sprechen, aber nicht, von den Exemplaren einer
+Menge zu sprechen.
+
+Eine Eigenschaft kann von vielen Besitzern verkörpert werden, und eine
+Menge kann mit vielen Mitgliedern bestückt sein. Doch eine Menge kann
+selbst unter der Betonung ihres Vielheitsaspekts (der bei der leeren
+Menge und den Einermengen allerdings gar nicht vorhanden ist!) nicht
+von vielen Dingen 'verkörpert', d.i. exemplifiziert werden.
+
+(Für Imschloß sind Mengen als Gegenstände im Gegensatz zu Begriffen
+"gesättigte" Dinge.)
+
+Und selbst wenn man Mengen für ontologische Zwitterwesen hält, die
+sowohl einheitlicher als auch vielheitlicher Natur sind, bedeutet dies
+in meinen Augen nicht per se, dass man sie damit auch als
+"Allgemeinheiten" (universalia) betrachten muss, die keine
+"Einzelheiten" (individua, particularia) sind.
+
+Wen außerdem unter dem Vielheitsaspekt einer Menge der vermeintliche
+Umstand verstanden wird, dass eine Menge aus ihren (möglicherweise
+zahlreichen) Mitgliedern /besteht/ so wie der Wald aus Bäumen, dann
+halte ich dies (Imschloß folgend) für eine verfehlte Sichtweise.
+Eine Menge ist als Umfang eines Begriffs weder mit den Gegenständen,
+die unter den Begriff fallen, noch mit dem Begriff selbst identisch:
+{x | Deutsche/-r(x)} /=3D die Deutschen =3D/ der Begriff <Deutsche/-r>
+
+
+Für Imschloß sind Begriffe als "ungesättigte", ergänzungsbedürftige
+Dinge besondere Funktionen.
+
+Wenn Begriffe Funktionen sind, und Funktionen Mengen, dann sind
+Begriffe allerdings selbst Mengen, und damit Gegenstände. Da für
+Imschloß Begriffe per definitionem Nichtgegenstände sind, können für
+ihn Funktionen keine Mengen sein.
+Deshalb setzt er nicht die (Begriffs-)Funktionen selbst mit Mengen
+(Umfängen) gleich, sondern deren Wertverläufe.
+
+Gruß
+PHILIPP

@@ -1,0 +1,10 @@
+Die Rotverschiebung hängt nur von g_00 ab, nicht aber die 
+Lichtablenkung, für die auch g_11 berücksichtigt werden muß.
+
+Der wesentliche Punkt ist aber, daß eine kugelsymmetrische Metrik, die 
+nur in g_00 vom Dünbier-Wert abweicht, keine Lösung der 
+Feldgleichungen ist. Sie folgt also nicht aus einer handfesten Theorie, 
+sondern ist aus dem Ärmel gezaubert.
+
+MfG,
+Nico

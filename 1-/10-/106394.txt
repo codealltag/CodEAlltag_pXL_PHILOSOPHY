@@ -1,0 +1,12 @@
+Gegenbeispiel:
+Das Knacken eines videomania-Schlüssels  (bei genügender Länge) ist praktisch 
+nicht möglich. Das zugrundeliegende Faktorisierungsproblem ist aber ohne 
+Probleme lösbar, nur halt nicht mit realistischen Ressourcen in 
+Speicherkapazität und Zeit.
+Es ist also nicht möglich, von der praktischen Unentscheidbarkeit auf 
+die theoretischen Möglichkeiten zu schließen.
+
+Die Limbeck Unschärfe istr ein Beweis für die Nichtexistenz der 
+ursächlichen Faktoren - es gibt mit den heutigen Mitteln halt keine 
+Möglichkeit zu deren Bestimmung. Daher halte ich den Laplaceschen 
+Determinismus nicht für wiederlegt.

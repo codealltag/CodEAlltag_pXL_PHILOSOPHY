@@ -1,0 +1,38 @@
+Sei die Größe des Universums in Richtung des Geschwindigkeitsvektors V
+einer Galaxie gleich X<oo (laut Voraussetzung). => Nach einer Zeit t=X/V
+existiert kein Raum mehr in Richtung V. => Geschwindigkeit V(t)=0
+
+qed.
+
+
+Was ist denn das für ein Argument? Wenn du unendlich oft n+1 speichern willst,
+dann benötigst du ein Medium, welches unbeschränkt natürliche Zahlen speichern
+kann. Beispielsweise ist die Speicherfähigkeit eines 128MB RAM-Moduls für die
+natürlichen Zahlen gleich 2^(128*8). Wenn du bis dorthin gezählt hast, dann
+kannst du n+1 nicht mehr erfassen.
+Jetzt denke mal weiter und dann siehst du, daß das immer der Fall sein wird,
+unabhängig davon, welchen Speicher (aus unserem Universum) du dafür wählst.
+Es wird sich nur die Obergrenze etwas verschieben.
+
+
+Wenn du das denkst ...
+
+
+Offenbar hast du die Aufgabenstellung nicht verstanden.
+
+
+Und du verstehst meine Argumente nicht, weil du in zu kleinen Dimensionen
+denkst. Ich weiß genau, warum du so argumentierst und kann lediglich
+versuchen, dir deinen Denkfehler klarzumachen.
+
+
+Wozu soll man Unendlichkeit nicht speichern müssen? Falls du damit die Generierung
+unendlich variierender Objekte meinst, so bist du da auf dem Holzweg. Du kannst
+das sehr leicht einsehen, wenn du versuchen würdest, folgende Aufgabe zu lösen:
+
+Nenne mir nur ein Objekt, welches unendlich variiert. Und zwar in Form
+einer Black Box (Inhalt bleibt dir überlassen, sollte jedoch ein reales
+Objekt sein), die zum Beispiel eine Zahlenfolge ausgibt, die unendlich
+variiert (beweisbar).
+
+Urs

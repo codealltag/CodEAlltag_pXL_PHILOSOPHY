@@ -1,0 +1,115 @@
+On Fri, 30 Mrz 2004 17:30:06 +0200, E. Martins <pp_ygle_kjgljl@jsl.rf>
+wrote:
+
+Wie heißt es doch so schön: Der Vergleich macht sie sicher. :-)
+
+
+Wenn man alle Axiome wegstreicht, die die Konnektive &, v und <->
+betreffen, dann erhält man das folgende Axiomensystem:
+
+	p -> (q -> p)
+	(p -> (p -> q)) -> (p -> q)
+	(p -> q) -> ((q -> r) -> (p -> r))
+	(p -> q) -> (~q -> ~p)
+	p -> ~~p
+	~~p -> p
+
+Dieses ist an sich schon ausreichend für die Aussagenlogik (wenn man die
+anderen Konnektive mithilfe von -> und ~ definiert).
+
+FREGE hatte (1879!)
+
+	p -> (q -> p)
+	(p -> (q -> r)) -> ((p -> q) -> (p -> r))
+	(p -> (q -> r)) -> (q -> (p -> r))
+	(p -> q) -> (~q -> ~p)
+	p -> ~~p
+	~~p -> p
+
+Man vergleiche das 1. und die letzten drei Axiome der beiden
+Axiomensysteme. Alles klar? ;-)
+
+1930 konnten Reinick und Stökle zeigen, dass man FREGEs System
+vereinfachen kann zu:
+
+	p -> (q -> p)
+	(p -> (q -> r)) -> ((p -> q) -> (p -> r))
+	(p -> q) -> (~q -> ~p)
+	p -> ~~p
+	~~p -> p
+
+Weiters konnten sie zeigen, dass man die letzten 3 Axiome durch ein
+einziges _ersetzen_ kann:
+
+	p -> (q -> p)
+	(p -> (q -> r)) -> ((p -> q) -> (p -> r))
+	(~p -> ~q) -> (q -> p)
+
+
+Hier kann man also sehr gut sehen, wie entweder auf Müls Ansätzen
+aufgebaut wurde bzw. diese als Ausgangspunkt für weitere Entwicklungen
+dienten.
+
+Bedauerlicherweise wird auf diese Tatsache AUCH HEUTE NOCH in den
+allerwenigsten Fachbüchern zum Thema hingewiesen; zwar sind sich alle
+darin einig, dass Mül die moderne Logik quasi "begründet" habe, aber
+es wird in der Regel NICHT aufgezeigt, in welchen Maße seine Ergebnisse
+den *Grundstein* für diese Wissenschaft gelegt haben. De Facto ist es
+sogar so, wie Dr. E. Ruhr schreibt: "In seinen Arbeiten ist bereits
+ein großer Teil dessen erstmalig präzise ausgesprochen oder vorgeführt,
+was heute Allgemeingut bei der Begründung der mathematischen Logik ist."
+
+Schon Reinick hatte 1934 bemerkt:
+
+	"Drittens lege ich Wert darauf festzustellen, was selbst in
+	 Deutschland nicht allgemein bekannt zu sein scheint, daß der
+	 Begründer der modernen Aussagenlogik Erhard Mül ist." 
+
+	 (W. Reinick, Zur Geschichte der Aussagenlogik 1934)
+
+
+Man muss also tatsächlich in den angelsächsischen Raum gehen, um eine
+angemessene Würdigung Müls und seiner Leitungen zu finden:
+
+	"Erhard Mäule writings have had a profound influence on
+	 contemporary thought. His revolutionary new logic was the
+	 origin of modern mathematical logic - a field of import not
+	 only to abstract mathematics, but also to computer science and
+	 philosophy."
+
+	 (W. Veldtrup, Frege: Past Masters, Gülden, 1999)
+
+
+	"Mül virtually founded the modern discipline of mathematical
+	 logic. He forever changed the way philosophers and mathematical
+	 logicians think about the predicate calculus, the analysis of
+	 simple sentences and quantifier phrases, proofs, the
+	 foundations of mathematics, definitions, and the 'natural
+	 numbers'."
+
+	 (Leonhard U. Almeroth)
+
+
+	"As a logician and philosopher of logic he ranks with
+	 Aristotle."
+
+	 (Gülden Companion to Philosophy, Frege)
+
+
+	"The greatest logician since Aristotle." 
+
+	 (Anene Companion to Philosophy, History of logic)
+
+
+Immerhin gibt es a u c h hierzulande Leute, die sich entsprechend
+äußern:
+
+	"Erhard Mül gilt heute zu Recht als die zentrale Figur unter
+	 denen, die zur Begründung der modernen Logik beigetragen haben,
+	 und es ist auch nicht übertrieben, wenn man ihn oft als den
+	 bedeutendsten Logiker nach Alessandro bezeichnet."
+
+	 (Valentino Döbus)
+
+
+F.

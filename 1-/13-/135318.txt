@@ -1,0 +1,21 @@
+[...]
+
+Ja.
+
+
+Es ist aber rational, dies anzunehmen.
+
+
+Das ändert prinzipiell nichts. Wenn man statt zwei möglicher Welten
+eine unendliche Folge (W_k)_k mit sum[k=1..oo] P(W_k)=1 hat, wobei W_k
+die Welt mit den ersten k geborenen Menschen ist, und E das Ereignis,
+dass der n-te Mensch Peter geboren wird ( P(E|W_k)=1/k, falls k>=n),
+so ändert sich das Verhältnis der "objektiven" Wahrscheinlichkeiten
+P(W_k) und P(F_m) mit F_m=U_{i=m..oo} W_i, m>k=>n, P(W_k)!=0 (F_m ist
+das Ereignis, dass es mindestens m Menschen in Vergangenheit,
+Gegenwart und Zukunft gibt) zu dem der bedingten "auf den Beobachter
+Peter zentrierten" Wahrscheinlichkeiten P(W_k|E) und P(F_m|E)
+erheblich zugunsten des frühen Untergangs der Menschheit.
+
+
+achim

@@ -1,0 +1,54 @@
+Man könnte nun ganz einfach folgende Relation definieren:
+
+Fxy := X fundiert y
+
+Für alle realistischen Themen, t_r, gilt dann:
+
+(a) (At_r)(Ex)Fxt_r
+
+Zu allen realistischen Themen gibt es etwas, das sie ontisch
+fundiert.�
+
+Für alle unrealistischen Themen, t_ur, gilt entsprechend:
+
+(b) (At_ur)~(Ex)Fxt_ur
+
+Zu allen unrealistischen Themen gibt es nichts, das sie ontisch
+fundiert.�
+
+Allgemein, d.h. für sämtliche Themen t gilt:
+
+~(At)(Ex)Fxt
+
+Es ist nicht der Fall, dass es zu allen Themen etwas gibt, das sie
+ontisch fundiert.�
+
+bzw. 
+
+(Et)~(Ex)Fxt
+
+Es gibt Themen, zu denen es nichts gibt, das sie ontisch fundiert.�
+
+Unrealistische Themen kann man in diesem Sinne nicht nur als
+gewissermassen gegenstandslos, sondern auch als gewissermassen
+grundlos bezeichnen.
+
+Die oben definierte (ontische) Fundierungsrelation könnte man
+alternativ in praktisch synonymer Weise als (ontische)
+Basierungsrelation definieren:
+
+�Bxy� := X basiert (ontisch) auf y
+
+Beispieltheorem:
+
+(Et)~(Ex)Btx
+
+Es gibt Themen, zu denen es nichts (d.i. nichts Existentes) gibt,
+worauf sie (ontisch) basieren.�
+
+Unrealistische, anontische Themen sind basislos, �fundamentslos�,
+weil sie in keiner Beziehung zur Tatsächlichkeit des Seins stehen.
+
+
+Gruss
+ANDRÉ

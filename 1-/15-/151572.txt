@@ -1,0 +1,27 @@
+Nein, die Aussage lim_{x \to \infty} e^{-x} = 0 ist einfach keine
+Aussage, in der man fuer x irgendwas einsetzen könnte.  x ist bereits
+gebunden durch das lim_{x \to \infty}.
+
+
+Daraus dass deine Beschreibung "Das Rechnen mit komplexen Zahlen
+funktioniert lt Mathematik wie das Rechnen mit den reellen Zahlen, man
+muss nur beachten das i^2=-1 ist" falsch ist.  Genauer gesagt es ist
+eine grobe Vereinfachung, die richtige Aussage besteht aus einer Liste
+der Axiome, die sowohl für reelle Zahlen als auch für komplexe Zahlen
+gelten.
+
+Eine Ordnungsrelation ist für komplexe Zahlen einfach nicht definiert.
+Du kannst gerne versuchen, eine zu definieren, nur wirst du
+feststellen, dass du damit nicht weit kommst.  Die Rechenregeln für
+Vergleiche reeller Zahlen kriegst du jedenfalls nicht auf komplexe
+Zahlen übertragen.  So ist das Leben. 
+
+Warum es so ist, wird dir vielleicht klarer, wenn du weisst, dass man
+komplexe Zahlen als Punkte der Ebene auffassen kann, im Gegensatz zur
+reellen Zahlengerade.  Auf der Zahlengerade ist "<" als "links von"
+definiert, aber in der Ebene gibt es keine natürliche Definition für
+"<".
+
+Johann
+-- 
+W. Lauerer,  <foux@ngll-szdmjbpmr.uvt>, http://zajx-kailehnqc.qgn

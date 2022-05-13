@@ -1,0 +1,31 @@
+M.E. liegt Dein Problem daran, daß der Definitionsbereich der Menge mit
+Mengentheorie selbst nicht unbedingt etwas zu tun haben muß.
+
+Nehmen wir mal Dein Beispiel
+
+
+und formalisieren wir es etwas weiter:
+
+  G_1 = { 1897 <= j <= 1903 }
+  G_2 = { 1997 <= j <= 2003 }
+  j = Jahreszahl
+
+dann sind G_1 und G_2 gleich mächtig. Die Grundgesamtheit ist also in
+beiden Fällen gleich mächtig.
+Nun nehmen wir noch die zusätzliche Bedingung hinzu, die nun für beide
+Fälle gleich ist, nämlich (j ist Schaltjahr), dann ergibt sich:
+
+  M_1 = (j1 aus G_1) und (j1 ist Schaltjahr)
+  M_2 = (j2 aus G_2) und (j2 ist Schaltjahr)
+
+Für sich betrachtet sind (j1 aus G_1) und (j2 aus G_2) gleich mächtig, da G_1 und G_2
+gleich mächtig sind. Ebenso sind (j1 ist Schaltjahr) und (j2 ist Schaltjahr) gleich mächtig.
+Erst die (und-)Verknüpfung beider Bedingungen verändert dies.
+
+Meine Frage nun: was ist denn nun für dich ein "gleich grosser" Definitionsbereich.
+"Gleich groß" unterstellt eine Metrik, aber welche? Wie ich gerade eben gezeigt habe,
+SIND die Grundmengen bezüglicher der Metrik "Mächtigkeit von Mengen" jeweils paarweise
+gleich groß; durch die und-Verknüpfung  entstehen jedoch unterschiedlich mächtige
+Mengen M_1 und M_2, das ist aber bereits die resultierende Menge.
+
+Kurt

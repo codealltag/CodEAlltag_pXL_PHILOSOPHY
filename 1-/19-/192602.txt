@@ -1,0 +1,23 @@
+Ich glaube das nicht. Sagen wir mal, wir samplen 250 Milliarden Neuronen,
+100 mal in der Sekunde, mit 16 bit pro Sample. Das macht dann pro Sekunde
+50GB Rohdaten, die interpretiert werden wollen. Da die Interpretation zu
+jedem Neuron auch noch topologische Information braucht (mit welchen anderen
+Neuronen ist es verschaltet), brauchen wir noch Adressen fuer die Neuronen
+(sagen wir mal 32bit), und pro Neuron etwa 1000 "Zieladressen" - das gibt
+eine Topologiedatenbank von 1000GB.
+
+
+Wie realisierst Du den Schritt vom Messen (was Du ja oben beschrieben
+hast) zu einer Simulation des Ganzen? Ich kann z.B. einigermassen
+praezise messen, was meine Internet-Router gerade jetzt so machen.
+Das versetzt mich aber noch lange nicht in die Lage, zu simulieren,
+was genau sie morgen an Daten transportieren werden.
+
+
+Wenn Computer irgendwann "denken" koennen, dann ganz anders, als unser
+Gehirn das tut. Und ich vermute, dass wir es ihnen nicht geplant beibringen
+werden, sondern dass sie uns irgendwann ueberzeugen werden, dass es so ist -
+wie das ja andere Menschen auch immer wieder tun.
+
+Gruss
+  Bernhard

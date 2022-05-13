@@ -1,0 +1,55 @@
+Die in letzter Zeit zur Verdrängung von  m = E/c^2  propagierte
+'Masse'
+
+   m = sqrt(E^2 - p^2 c^2) / c^2
+
+ist nicht nur ein in vieler Hinsicht uneleganter Rückschritt
+zur pr-relativistischen Masse, sondern führt bei Photonen zu
+sonderbaren Anomalien.
+
+Folgende Prämissen werden als gültig angesehen:
+
+1) Das Licht, das uns umgibt und im Auge von Photorezeptoren
+   absorbiert wird, setzt sich aus Photonen zusammen.
+2) Die Energie eines Photons mit Frequenz f ist unabhängig vom
+   Brechungsindex n des Mediums:  E = hf
+3) Der Impuls ist abhängig von n:  p = hf/c/n
+4) Die 'Masse' von Photonen ist Null.
+
+Rechnet man es nach, ergibt sich die 'Masse' Null jedoch nur für
+Photonen im Vakuum, wo n = 1, denn aus obigen Formeln folgt:
+
+   m = hf/c^2 * sqrt(1 - 1/n^2)
+
+Also mindestens eine der vier Prämissen muss aufgeben werden,
+um das z.Z. propagierte Konzept 'Masse' zu retten.
+
+Natürlich sind beliebige ad-hoc-Modifikationen der Theorie
+möglich. Aber der Widerspruch lässt sich auf diese Weise nur
+vordergründig und um den Preis neuer Widersprüche umgehen.
+
+Emil Celler meinte z.B.:
+
+ - Was sich in Glas oder Wasser ausbreitet, ist schon in der
+   klassischen Elektrodynamik keine rein elektromagnetische Welle.
+   Mathematisch hat man ein gemeinsames, nichtlineares Gleichungs-
+   system von EM-Feld und Materie.
+ - Die zugehoerigen Quanten sind dann eben keine Photonen, sondern
+   je nach Materieart z.B. Plasmonen.
+
+Soll das etwa heissen: ein Photon hat in Wasser (n = 1.33) zwar
+die 'Masse' Null, zusammen mit dem Photon breitet sich jedoch eine
+vom Photon unterscheidbare Störung aus, der die für das Photon
+berechnete 'Masse' zugesprochen wird? (Diese 'Masse' beträgt bei
+n = 1.33 immerhin 66% der relativistischen Photonenmasse hf/c^2.)
+
+Oder soll das gar heissen, dass wir im Auge keine Photonen sondern
+etwas anderes absorbieren?
+
+Der Glaube, obiger offensichtlicher Widerspruch löse sich in
+der Quantenelektrodynamik in Wohlgefallen auf, ist insofern
+irrelevant, als in der QED logische Konsistenz, Erhaltungssätze
+und Realitätsbezogenheit sowieso nicht mehr ernst genommen werden.
+
+Siehe: "Was QED intended as a joke?",
+http://uxt.zijv.gtf/=dux/fngkos.em?VY=396250373

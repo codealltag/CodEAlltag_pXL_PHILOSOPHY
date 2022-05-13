@@ -1,0 +1,47 @@
+zu Peters Bemerkung
+
+
+Endlich ja, aber hier stellt sich die Frage,  ob das Gehirn nur
+quantisierte Speicherung (0, 1, 2, 3..) zuläßt oder ob das Gehirn
+beliebige reelle Größen (wie Wurzel aus 2) speichern kann.
+Im letzteren Falle wäre es nicht mehr auf eine Turing-Maschine
+abbildbar.
+
+
+Das  trifft genau Rogers Einwand:
+
+
+Es spielt für die Theorie überhaupt keine Rolle, was technich machbar
+ist und was nicht (zumindest, was die Berechenbarkeit anbelangt). Wir
+wissen, daß Aussagenlogik entscheidbar ist und damt ist jedes
+NP-vollständige Problem lösbar - ganz egal wie lange es dauert.
+
+Und was die Frage von Willi angeht:
+
+
+Ich denke die Antwort hat Gerhard Lechtenböhmer gegeben:
+
+Wir müssen Wissen,
+Wir werden wissen.
+
+Es ist zunächst  einmal völlig egal, wie und in welcher Zeit ein
+Problem zu lösen ist.  Wichtig ist zu alleerst die Frage, *ob* es zu
+löse ist.  Halteproblem und PCP sind definitiv nict lösbar -
+gleichgültig mit welcher Technologie!
+
+Aber um noch einmal auf die Anfangs-Frage zurückzukommen:
+
+
+Jede Formel einer Prädikatenlogik - gleich welcher Stufe - kann in
+einer Sprache mit endlich vielen Symbolen (notfalls unserem Alphabet)
+dargestellt werden. Damit haben wir die Möglichkeit, diese Formel
+maschinell zu verarbeiten. Das und nicht mehr sagt der Satz aus -
+oder?
+
+Was die Maschine mit der Formalisierung anfängt ist eine ganz andere
+Frage.  Eine prädikatenlogische Formel (gleich welcher Stufe) kann
+einer Turing-Maschine zur Verifikation vorgelegt werden.  Ob sie
+daraufhin ein Ergebnis liefert oder bis in alle Ewigkeit arbeitet...
+
+Hier würde mich mal interessieren, wa Otto (von dem die Frage kam)
+dazu meint.

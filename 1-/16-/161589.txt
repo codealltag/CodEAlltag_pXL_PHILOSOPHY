@@ -1,0 +1,7 @@
+Was aber in der Aufbaustruktur codiert ist ist die Herkunft der
+ Nachricht. Und aus dieser Information hat der Empfaenger einen
+Hinweis, worum es sich handeln kan,
+ so das ein Empfaengerverbund anhand einer Mustererkennung
+(Schluesses-Schloss-Prinzip) ein Objekt erkennen kann.
+
+Luigi

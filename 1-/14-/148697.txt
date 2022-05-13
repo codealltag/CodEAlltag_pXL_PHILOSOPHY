@@ -1,0 +1,21 @@
+Ich meinte dieses Beispiel, ich glaube, dass auch
+Dietmar dieses meinte.
+
+[Zitat-Zeichen von mir angepasst]
+
+Ich bin andersherum herangegangen und habe gesagt, dass
+diese Liste so natürlich nicht alle periodischen Folgen
+(rationalen Zahlen) enthält und damit kein Beispiel
+für das Cantor-Verfahren ist.
+
+(Die Folge 1000000... ist nämlich garantiert nicht in
+seiner Liste enthalten.)
+
+Darios Problem ist, dass er an einem Zahlenbeispiel
+zeigen will, dass nicht alle Zahlen in die Liste passen.
+
+Das eigentliche Neer Verfahren hingegen nimmt
+die Existenz einer Bijektion an, womit alle Zahlen
+in der Liste wären, und zeigt dann einen Widerspruch.
+
+Igor

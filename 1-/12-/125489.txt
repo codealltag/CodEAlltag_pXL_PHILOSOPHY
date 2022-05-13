@@ -1,0 +1,21 @@
+Winfried Lufft <jzskews.pnbnxc@q-gdzxyg.mw> (Freitag, 28. September 2002 10:22):
+
+
+Daraus läßt sich ablesen
+
+        # bedeutungsgleich ~. 
+
+Ok, ein kleiner Patzer. Schreibe ich für das Axiom also besser mal was wie
+
+        (x)(a~x => b~x) <=> (x)(y)(a # x  &  x~y  =>  b # x)
+oder    
+        (x)(a~x => b~x) <=> (x)(y)(a # x  &  b~y).
+
+Das sollte sich jetzt nicht mehr in eine explizite Form  # = f(~) bringen 
+lassen. 
+
+
+Größe
+Winfried
+
+P.S. Falls doch, müßte ich nochmal zur Beratung zusammenkommen.

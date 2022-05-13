@@ -1,0 +1,169 @@
+Aber das tue ich doch. Ich war, wie ich schrieb, an dem Tag müde. Und
+ich befasse mich mit Philosophie eben nur nebenher, wenn mich da ein
+Projekt auffrisst, dann muss die Philosophie leider warten. Den Luxus,
+das hauptberuflich machen zu können, habe ich leider nicht.
+
+
+Ja und nein.
+
+Wir hatten uns ja schonmal darüber unterhalten, dass in der Informatik
+Zeichen nur auf weitere Zeichen deuten, und dass deshalb das ganze
+bedeutungsfrei im eigentlichen Sinne ist, weil hier das Subjekt fehlt.
+Allerdings befasse ich mich gerade mit dem Thema, wie denn nun das
+Subjekt ins Spiel kommt.
+
+In dem Sinne, das war unser Beispiel, gehe ich davon aus, dass die
+Basenpaare in einer DNS eine Kodierung darstellen, eine Sprache mithin.
+Und ich meine mit "Sprache" hier etwas bedeutungsfreies, eben die Sicht
+der Formalsprache. Dass die DNS hier funktioniert, ist ihr Wesen: denn
+alle Algorithmik ist Metasprache (den Sprachbegriff wiederum so
+gemeint). Und Algorithmik ist die Lehre der Struktur der funktionalen
+Zusammenhänge, könnte man formulieren. Ich hatte auch einen Tipp
+abgegeben für die Art der Kodierung: ich vermute fraktale Kodierung.
+
+Das ist eine /funktionale/ Sichtweise auf Formalsprachen.
+
+In der Semiotik deuten Zeichen aber nicht nur auf weitere Zeichen (die
+dann die Sachen sind, auf die gedeutet wird), sondern sie deuten eben
+auch auf Vorstellungen, die man von einer solchen Sache hat. Vielleicht
+sollte ich vorher noch erklären:
+
+In der Informatik sind alle Sachen Zeichen. Auf anderes kann nicht
+gedeutet werden. Die Informatik hat die Sichtweise, dass irgendwoher ein
+Zeichenstrom kommt, und dass Zeichen wiederum irgendwohin geschickt
+werden. Wo die Zeichen herkommen, und wo die Zeichen hingehen, wird
+nicht betrachtet. Alle Sachen werden durch Zeichen repräsentiert. Das
+hat schon den entscheidenden Nachteil, dass man immer nur über eine
+kleine Menge von Sachen Sprache hat, denn Zeichenvorräte sind in allen
+Sprachen endlich, und Sachen bilden eine Unmenge. Der Trick mit den
+/Symbols/ (Platzhaltern, nicht verwechseln mit "Symbol") in den Sprachen
+flexibilisiert das Modell, aber das war's auch.
+
+Nun geht die Informatik her, und "webt Netze" aus Zeichen und
+Formalsprachen, indem sie auf Zeichen deutet, die wiederum auf Zeichen
+deuten. Das ergibt erst einmal Sequenzen, dann Netze (ich meine damit
+die Terme aus der Graphentheorie).
+
+Wenn man nun Bedeutung als Informatiker kennt, so kann man Netze
+"weben" durch geeignetes Metamodellieren, die Kombinationen darstellen.
+Dazu muss man Bedeutung in den Sprachen haben – möglich ist das, denn
+schliesslich ist auch der Informatiker ein Subjekt. Über die
+Kombinationen nun erhöht man die Zahl der Kanten in dem Graph, die ja
+die Deutung der Zeichen (nicht: Bedeutung) repräsentieren, exponentiell.
+So erhält man Netze, die um Kategorien mehr Information formal
+repräsentieren. Das ist der Bereich, in dem ich derzeit arbeite.
+
+Dort bilden die /Symbols/ eben /Namen/. Und weil alle solche
+Formalsprachen, die man in der Softwarekunst einsetzt, menschengemacht
+sind, sind die /Symbols/ dort nichts anderes als /Namen/ aus den
+Denkmodellen der Softwerker. Die Formalsprachen bilden die Struktur der
+Denkmodelle der Softwerker ab (oft nicht korrekt, dann sind sie
+fehlerhaft).
+
+So kommt man eben doch in die Sprachen- und Modelltheorie der
+theoretischen Philosophie hinein; ohne sie kann man die Softwarekunst
+nicht sinnvoll beschreiben. Mit ihr jedoch lässt sich die Modellierung
+selbst beschreiben, so dass man darüber argumentieren kann.
+
+Dies mal als Einleitung, irgendwo müssen wir ja einen gemeinsamen Nenner
+finden, damit wir miteinander sprechen können ;-) Wichtig: Informatik
+und Softwarekunst sind /verschiedene/ Dinge. Die Softwarekunst ist eine
+solche; sie ist /kreativ/. Die Informatik ist /analytisch/. Die
+Softwarekunst wird oft /konstruktiv/ gesehen; ich halte das aber zum
+Einen für eine Chimäre, zum Anderen ist alle Konstruktion algorithmisch,
+das ist ihr Wesen. Es ist also eine Dummheit in der Softwarekunst, über
+ein bestimmtes Mindestmass hinaus zu konstruieren. Warum? Nun, man hat
+ja einen Rechner vor sich, der Konstruktionsanweisungen auch selbsttätig
+ausführen kann. Das ist ja gerade die Aufgabe der Softwarekunst, solche
+Abläufe zu formulieren, eben Algorithmen zu formulieren.
+
+Aus dieser Sichtweise heraus betrachte ich nun Deine Ausführungen zu
+Härtlein, und versuche sie damit in Verbindung zu bringen.
+
+
+Da denk ich ja auch dran ;-)
+
+
+Nur brauche ich dazu keinen Derrida, das ist schlicht Informatik. Genau
+das meinte ich, als ich schrieb, dass ich vermute, dass wir da mit
+unterschiedlichen Worten dasselbe argumentieren.
+
+Nur: ich bin mir sehr genau der /Insuffizienz/ dieser Sichtweise
+bewusst, ja das ist doch gerade, was mich (beruflich) zur Philosophie
+treibt! Und ich brauche doch keine philosophische Argumentation, mit der
+ich wieder rein in der Informatik lande ;-)
+
+
+Wir reden hier über zweierlei Dinge. Ich setze "Signifikant" und
+"Signifikat" als Terme nur ein, wenn ich über Bedeutung spreche. Dass in
+der DNA Zeichen sind, ist eine klare Sache. Dass Tobias die zu /lesen/
+versteht, wage ich aber zu bezweifeln ;-) Er kann sie vielleicht
+identifizieren, aber (noch) nicht korrekt deuten. Es wäre mir neu, dass
+das inzwischen gelungen ist in der Biologie. Tobias, falls doch, bitte ich
+um Hinweis, und um die Information, ob meine Vermutung mit der fraktalen
+Kodierung zutrifft ;-)
+
+Vermutlich aber ist das zu früh. Wenn die Presse schreibt "der
+genetische Code wurde geknackt", so ist das eine Ente. Es wurde
+inzwischen nachgewiesen, da ist einer, und der Code kann gesehen und
+identifiziert werden, aber er ist eben nicht "entschlüsselt", er ist
+nicht "geknackt", man stochert noch im Nebel.
+
+
+Nein. Ich hab's mal versucht zu erklären. Wir bräuchten langsam Worte
+für Sprache gemeint intersubjektiv im Gegensatz zu Sprache gemeint als
+bedeutungsfreie Formalsprache, und den damit zusammenhängenden Termen.
+Ich hab oben versucht, eine Sprechweise einzuführen.
+
+
+Nochmal: Grammatik ist NIE semantikfrei, denn sie metamodelliert. Das
+ist ihr Zweck. Ich halte die Sicht, eine Grammatik könne etwa
+semantikfrei sein, für widersprüchlich.  Das liegt daran, dass ich bei
+Semantik eben noch nicht unbedingt über Bedeutung spreche, in der
+Sprechweise jetzt wie oben.
+
+Vermutlich meinst Du mit Semantik aber ebenfalls wieder den Begriff mit
+Bedeutung, schliesslich nennt man die Bedeutungslehre auch Semantik ;-)
+Auch hier fehlen mir zwei Terme, die das unterscheiden.
+
+Ich halte das in einer solchen Diskussion jedoch für notwendig, dass wir
+uns auf eine Fachsprache einigen. Ich wäre auch jederzeit bereit, wenn
+Du eine brauchbare vorschlägst, diese zu nutzen. Ich meine mit
+"Semantik" jetzt das Netz der Zuordnungen von Formalsprachen, mit
+"Bedeutung" meine ich das, was die Semiotik ausmacht, die Bedeutung von
+Zeichen (und Symbolen) für ein Subjekt.
+
+Wir können aber auch andere Terme nutzen, schlag bitte einfach welche
+vor, falls Du das möchtest.
+
+
+Das glaube ich jetzt weniger ;-) /Solche/ Definitionen suche ich ja
+nicht. Ich will ja nur über obiges sprechen können.
+
+
+Ist mir tatsächlich klar. Aber ich würde schon gerne über die
+unterschiedlichen Dinge oben auch mit unterschiedlichen Worten sprechen.
+Mehr benötige ich da jedoch nicht. Und das erklärt auch keinesfalls
+hinreichend, was denn Bedeutung und Subjekte nun wirklich sind.
+
+
+Nun, dass ich an der Stelle in der Philosophie lande, ist für mich
+nichts Neues. Selbstverständlich ist das so. Aber sprechen können möchte
+ich auch in der Philosophie. Man kann nicht alles explizieren, aber man
+möchte doch sprechen.
+
+
+Ich kann Dir versicheren, dass das ständig passiert, dass ich beim
+Zurückabbilden der Erkenntnis aus der theoretischen Philosophie in der
+Informatik dort massiv profitiere. Es ist wohl nichts nützlicher als die
+analytische Philosophie zur Weiterentwicklung der Informatik. Was
+wunder, stammt sie doch aus ihr ("About Certain Formal Properties of
+Grammars").
+
+Viele Grüsse,
+VB.
+-- 
+And today the sheep on the downs were left by themselves to do whatever it
+was that they did when they were by themselves, which would presumably be
+pretty much the same as they did if you were watching them.
+  (Valerio Northoff, I Shall Wear Midnight)

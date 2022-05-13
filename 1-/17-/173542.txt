@@ -1,0 +1,21 @@
+Moin moin.
+
+Vielleicht kann mir einer von Euch Spezies (möglichst bald) folgende Frage
+beantworten:
+
+Gibt es einen Beweis für die syntaktische Vollständigkeit (maximale
+Konsistenz) eines aussagenlogischen Kalküls?
+
+Kalkül K ist syntaktisch vollständig, wenn für jeden Satz A der Sprache S
+gilt: A ist in K beweisbar, oder K wird zu einem syntaktisch
+widerspruchsvollen (inkonsistenten) Kalkül, wenn man A zu dessen Axiomen
+hinzunimmt.<
+
+Wenn es einen solchen Beweis gibt: Wie sieht er aus bzw. wo kann ich ihn
+nachlesen?
+
+Für Eure Hilfe bedanke ich mich - natürlich - im Voraus.
+
+Gruß und Kuß von Kaspar,
+
+        Vittorio.

@@ -1,0 +1,59 @@
+On 24 Nov 2003 23:08:41 -0700, xebuwsppxzcOGVUWXE@owpmwfg.kq (Wzeb
+Reuwer) wrote:
+
+Russell-Paradox...
+Das ist schön. :-)
+
+
+Ne... 
+
+Clemens Füllgraf:
+
+If the set {x | Fx} exists (which is always a big 'if'), then we have
+the fundamental principle
+
+	Ay(y e {x | Fx} <-> Fy).
+
+This is known as Church's conversion schema. The left-to-right
+conversion holds outright:
+
+	(C1)	Ay(y e {x | Fx} -> Fy).
+
+But the right-to-left conversion holds only conditionally on the
+existence of the set {x | Fx} itself:
+
+	(C2)	Ez(z = {x | Fx}) -> Ay(Fy -> y e {x | Fx}).
+
+Suppose we were simply to ignore the need to assume or prove the
+existence of the set {x | Fx}. Then the carefully qualified principle
+(C2) would become the nave version
+
+	(C2naive)	 Ay(Fy -> y e {x | Fx})
+
+without the explicit presupposition that {x | Fx} exists. For particular
+choices of Fx, however, (C1) and (C2naive) together lead to paradox. 
+
+------------------
+
+Gruß,
+N.
+
+
+P.S.
+Man k � n n t e C1 und C2 auch ersetzen durch:
+
+(C')	E!{x | Fx} -> (a e {x | Fx} <-> Fa)
+
+wo E!t =df Ex(x = t).
+
+Der ganze Ansatz macht aber natürlich nur im Rahmen einer freien Logik
+Sinn - es gibt auch andere Ansätze; aber allen gemeinsam ist, dass die
+unmittelbare Beziehung
+
+	a e {x | Fx} <-> Fa
+
+nicht "allgemeingültig" ist, bzw. in irgendeiner Hinsicht "abgeschwächt"
+werden muss. Und DAHER ist es also -im Gegensatz zu Deiner ursprüng-
+lichen Behauptung- nicht "gleich", ob ich mit Frege nun sage, dass ein
+Gegenstand a unter einen Befriff fällt, Fa, o d e r dass a Element einer
+Menge {x | Fx} ist, a e {x | Fx}.

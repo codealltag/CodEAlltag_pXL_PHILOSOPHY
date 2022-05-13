@@ -1,0 +1,48 @@
+Dr. Mike Turmann wrote:
+[...]
+Hallo Mike,
+ich denke, dass das "Problem der Identität" letztlich kein logisches 
+Problem ist, bzw. es gibt ein kognitives, empirisches Problem, wie ein 
+Subjekt Gegenstände identifiziert. Wenn ich einen Stuhl S1 sehe und 
+dann die Augen schließe, dann die Augen wieder aufmache und wieder 
+einen Stuhl S2 sehe und denke, dass S1 und S2 der gleiche Gegenstand 
+ist. Ich muss den Stuhl S1 mit dem Stuhl S2, identifizieren. Was ist 
+nun der Grund dafür, die Erscheinung eines Stuhls S1 und die 
+Erscheinung eines Stuhls S2 auf den gleichen Stuhl zu beziehen und was 
+sind allgemeine Regeln, die diese Beziehung der Erscheinungen in der 
+Zeit auf einen Gegenstand möglich machen? 
+
+Ich denke Ickenroth hat hier den Nagel auf den Kopf getroffen:
+"Gleichheit des Gegenstandes drücke ich durch Gleichheit des Zeichens 
+aus, und nicht mit Hilfe eines Gleichheitszeichens. ..." TPL5.53 
+Nehmen wir zum Beispiel das bekannte Beispiel Menneking:
+"Der Morgenstern ist gleich dem Abendstern"
+
+Wenn man das Formalisiert und sagt 'M' bezeichen den Morgenstern, 'A' 
+bezeichne den Abendstern, könnte man die Identität aufstellen:
+'A=M' gdw 'A' bezeichnet den selben Gegenstand wie 'M' und dies würde 
+so ausgedrückt, dass die "objektsprachlichen Terme" 'A' und 'M' in der 
+auf das selbe Ding abgebildet werden. Unter dieser Interpretation wäre 
+die Gleichung A=M, eine anderer Ausdruck für A=A bzw. M=M.
+"Der Morgenstern ist gleich dem Morgenstern" würde aber keinesfalls 
+denn Sinn von "der Morgenstern ist gleich dem Abendstern" wiedergeben,  
+denn bei dem einen ist es absolut undenkbar, dass er falsch sein 
+könnte, während der anderne, durchaus falsch sein könnte (wenn die Erde 
+tatsächliche eine Scheibe ist, wie lange Zeit geglaubt) . Deshalb 
+müssten in einer semantisch, ad�queten Interpretation der Gleichung 
+'Morgenstern' und 'Abendstern' unterschiedliche "Gegenstände" 
+bezeichnen, damit der empirische Gehalt der Aussage "Der Morgenstern 
+ist gleich dem Abendstern" ausgedrückt werden könnte.
+ähnlich sind auch arithmetische Gleichungen 1 + 4 = 2 + 3 nicht deshalb 
+gültig, weil die Ausdrücke auf beiden Seiten der Gleichung dasselbe 
+bedeuten, denn die Seite sagt: füge addiere eine Einheit zu vier 
+Einheiten, die andere sagt füge 2 Einheiten zu 3 Einheiten. Die 
+Bedeutung der Seiten ist unterschiedlich und die Terme müssten sich 
+deshalb in einer semantisch, adäquaten Interpretation auf 
+unterschiedliche "(abstrakte) Gegenstände" beziehen.  
+Ich denke, es ist falsch die Identität analog zu einer mathematischen 
+Relation zu behandeln. überhaupt glaube ich nicht, dass die Logik (oder 
+mathematische Semantik) zu dem Problem der Identität etwas (sinnvolles) 
+beitragen kann.
+Gruß,
+Gerhard.

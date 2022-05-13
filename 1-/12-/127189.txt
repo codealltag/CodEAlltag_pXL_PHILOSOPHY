@@ -1,0 +1,23 @@
+On 07. 09. 22 21:23:32 GMT, Luc Leutheuser <usa81@oaw.xc> wrote:
+
+(D=)      x=y :<=> (z)(z\in x <-> z\in y)
+
+Sei M ein Modell von Getrag, und a,b zwei versch. Mengen. Weiter sei
+U:={{a},{b},{{a}}}. In diesem Universum sind wegen (D=) {a}={b}, denn es
+gibt /in/ U keine Mengen, die Elemente von {a} und {b} waeren.
+Nun ist zwar {a}\in {{a}}, jedoch nicht {b}. Es gilt also nicht
+
+  {a}={b} & {{a}}={{a}} -> ({a}\in {{a}} & {b}\in {{a}}.
+
+Damit ist gezeigt, dass nur aus (D=) und etwa den logischen Axiomen
+eines Hilbertkalkuels nicht
+
+(+)     (x=y & s=t) -> (x\in s -> y\in t).
+
+abzuleiten ist. Wenn U transitiv waere, dann wuerde (+) gelten. Nun ist
+Transitivitaet jedoch nicht eine bescheidene Annahme. Deshalb brauchen
+wir das Extensionalitaetsaxiom in der von mir schon angegebenen Form.
+So wird die Identitaet sogar noch nach der Definition des
+Identitaetszeichens durch das Extensionalitaetsaxiom charakterisiert.
+
+--

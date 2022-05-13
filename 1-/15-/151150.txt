@@ -1,0 +1,23 @@
+Die Existenzaussage "ist" vernachlässige ich tatsächlich, allerdings
+nehme ich sie beim Hinschreiben als gegeben.
+Die Sätze:
+wahr ist wahr _gdw_ wahr wahr ist.
+x ist x gdw x x ist
+xx ---> xx bzw x ---> xxx                               
+falsch ist  wahr _gdw_ wahr falsch ist.
+y ist x gdw x y ist
+y ---> xxy bzw yx ---> xy
+falsch ist  falsch _gdw_ falsch falsch ist.
+y ist y gdw y y ist
+y ---> yyy bzw yy --->yy
+wahr ist  falsch _gdw_ falsch wahr ist.
+x ist y gdw y x ist                               
+x ---> yyx bzw xy ---> yx
+
+Problem ist das genau dann wenn, was eine Art Beziehung ist. Die
+Beziehung oder Folgerung habe ich also als Pfeil dargestellt.
+In welche Richtung der Pfeil zeigt, entscheide ich nachdem, wo das genau
+dann wenn stehen würde, wenn ich es in Sätzen sagen müsste. 
+
+Gruss
+Ulf

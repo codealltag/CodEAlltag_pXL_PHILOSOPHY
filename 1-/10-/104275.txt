@@ -1,0 +1,30 @@
+Jetzt -nachdem ich verstanden habe, worum es Dir eigentlich ging- kann
+ich Dir nur recht geben. :-)
+
+Hier ist es ganz gut, wenn man sich vergegenwärtigt, dass eine
+Disjunktion
+
+	A v B ... v Z
+
+aus sog. Disjunkten (wie die einzelnen Terme einer Disjunktion heißen)
+A, B, ..., Z aufgebaut ist ("besteht").
+
+Die gesamte Disjunktion ist also genau dann wahr, wenn mindestens eines
+ihrer Disjunkte wahr ist.
+
+	Dx : x ist eine Disjunktion
+	Jxy : x ist ein Disjunkt von y
+	Wx : x ist wahr
+
+	(Ay)(Dy -> (Wy <-> (Ex)(Jxy & Wx)))
+
+Alles klar jetzt. Eine (reine) Übersetzung mit entsprechend
+"definierten" Prädikaten ist natürlich leicht möglich.
+
+
+A.
+
+
+P.S.
+Den Fall mit der Konjunktion kann man analog behandeln.
+(Hier heißen die einzeknen Terme "Konjunkte".)

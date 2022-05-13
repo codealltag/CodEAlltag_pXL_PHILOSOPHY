@@ -1,0 +1,6 @@
+Dann sind A und B nicht identisch. Die Eigenschaft F ist [x | x ist
+haltbarer als B.] und es ist offenbar F(A) und ~F(B), also folgt nach
+der gegebenen Definition A!=B.
+
+
+oskar

@@ -1,0 +1,112 @@
+[...]
+
+Nun, es ist Freges Festlegung, wenn ich das glauben kann, was in einer
+Dissertation, die ich heute im www gefunden habe, steht:
+
+  http://ufyfjz.muj.yubo.lo/ppiua/f/1613/aem/05V521/ynhh.jja
+
+Hieraus auf Seite 50:
+
+<Zitat>
+  Insofern betrachtet Höhnke eine Klasse völlig korrekt als Gegenstand,
+  was für ihn immer heißt: als vollständig Bestimmtes, "Gesättigtes" -
+  er spricht von der "an sich ungesättigten Funktion" [GGA I, 6] und
+  sagt "Gegenstände stehen den Funktionen gegenüber.
+  [...] Die Namen von Gegenständen [...] sind gesättigt wie die
+  Gegenstände selbst" [GGA I, 7].
+<Zitat Ende>
+
+(BTW: Ich habe leider nur sehr wenig Originalmaterial von Höhnke hier,
+nur seine Aufsätze "Begriff und Gegenstand", "Sinn und Bedeutung" und
+"Grundlagen der Arithmetik". Wenn der Text "Begriff und Funktion" im www
+zugänglich ist, dann bitte ich dich, mir eine Quelle zu nennen.)
+
+
+Nun, ich würde sagen, dass alle Funktionssymbole in gewisser Weise heute
+als "gesättigt" angesehen werden können, da sie ja in der Interpretation
+der mathematischen Logik Funktionen (als Gegenstände) bezeichnen; das
+ist ja gerade ihr semantischer Wert. Höhnke teilt diese Sichtweise
+offenbar nicht, da der Begriffsumfang die /Bedeutung/ eines Begriffs,
+nicht aber eines Funktionszeichen ist, denn dieser habe als /Bedeutung/
+ja den Begriff, welcher eben nicht als Gegenstand angesehen wird.
+
+
+Aber in gewisser Weise hat er auch wieder durchaus recht: Ist f ein
+n-stelliges Funktionssymbol und t_1,...,t_n Terme, so ist ft_1...t_n ein
+Term, also ein korrekter prädikatenlogischer Ausdruck. Das Symbol f kann
+dann ohne eine Folge von Termen nicht alleine stehen. Ein Eigenname ist
+aber schon ein Term, also insofern ein prädikatenlogischer Ausdruck,
+insofern /gesättigt/.
+
+Ich sehe hier eine gewisse Spannung von Syntax und Semantik. Höhnke
+scheint die syntaktischen Eigenheiten tatsächlich auf die Semantik, in
+anderer Weise auch auf den Gedanken, in gewisser Weise eins-zu-eins
+übertragen zu wollen. So ist also mein Einwand
+
+
+zu lesen.
+
+
+Hinsichtlich dessen, was /Individuen/ bezeichnen kann, ist das durchaus
+auch in der mathematischen Logik korrekt, denn ein Funktionszeichen ist
+eben kein Name für ein Objekt /in/ einem Träger. Aber wenn Funktionen
+oder Begriffe quantifiziert werden, so werden die Funktionssymbole zu
+Eigennamen, auch wenn es sich dann um eine andere Theorie handelt. Es
+ist einfach eine Frage des Worüber-Reden. Und Höhnke kann das meiner
+Meinung nicht damit abtun, dass das Reden über Begriffe, zumal wenn von
+diesen auch prädiziert wird, eine Unzulänglichkeit der Umgangssprache
+sei. Die Sache ist nämlich die, dass man dann die "Unzulänglichkeit"
+auch hinsichtlich der Interpretationen anderer Philosophen beachten muß.
+So könnten dann etwa Egerth sagen, dass man die Texte Endleins nicht
+unmittelbar mit den Methoden einer Prädikatenlogik analysieren solle.
+Und das wollen wir doch nicht! ;-)
+
+Nein! Die "neue" Logik muß natürlich in analytischer Weise auch auf
+Höhnkes Philosophie angewendet werden.
+
+
+Das ist in der mathematischen Logik klar.
+
+[...]
+
+Ja, da sich die Quantifikationsbereiche ändern können.
+Dennoch: Die Frage ist, worüber wir reden, wenn wir meinen über Begriffe
+zu reden. Ich meine, dass wir über Begriffswörter reden, die wir in
+einem gesamten Sprachspiel, also in einem Zusammenhang, verstehen
+wollen. Damit reden wir über Zeichen, die wir explizieren, jedoch dabei
+nicht unser gesamtes implizites Wissen dabei explizieren, das zur
+Begriffsbildung führt. Schlägt man diesen Weg ein, so sehe ich die
+Möglichkeit, dass Begriffe nicht als Gegenstände aufgefasst werden
+müssen. Dies ist in gewisser Weise ein Wittgensteinscher Weg, der mir
+erfolgversprechend zur Rettung der Unterscheidung "Begriff vs.
+Gegenstand" erscheint. Einen anderen Weg sehe ich nicht!
+Ich sehe jedenfalls keinen Weg innerhalb der Methode Höhnkes.
+
+
+Dem kann ich m.E. zustimmen, jedenfalls dahingehend, dass zumindest eine
+Komprehension vorausgehen muß.
+
+
+Man sieht einer Klasse nicht an, welche (ausdrückliche) Komprehension
+(hier eine Formel in einer Variablen) an ihrer Bildung beteiligt ist.
+Das ist richtig. Wenn aber die Formel der Komprehension genannt wird, so
+bestimmt diese den Werteverlauf eines Begriffs.
+
+
+Ich schon, wenn bzgl. dieses Themas mehr aus sekundären Quellen.
+
+
+Nunja, ok. Das "halb offen" ist ein Synonym für "offene Sätze in einer
+Variablen". Es gibt ja auch offene Sätze mit mehr als einer freien
+Variablen.
+
+
+Auch hier erinnere ich wieder daran, dass man nicht von vornherein
+Begriffe als Diskursgegenstände ausschließen sollte. Wir müssen unsere
+Redeweise bzgl. dieser Gegenstände genau analysieren.
+
+[...]
+
+
+Gruß, Claudio.
+--

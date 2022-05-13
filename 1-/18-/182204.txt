@@ -1,0 +1,121 @@
+Subject: Re: Aufgabe
+From: Denis Hafermann <Hzfsa_Lfxokya@zwn.mr.wsw>
+
+SCHRIEB:
+Nicht zwangslaeufig der direkte?
+Wenn es nur einen einzigen Weg zum Ausgang gibt, muss dies der direkte
+sein, es gibt ja keinen Umweg.
+
+
+Bixgrtrx antwortete:
+
+Ja, wenn es nur einen gibt, dann ist dieser eine auch zwangsläufig direkt,-
+aber was wäre das für ein lustiges Labyrinth ?
+
+Mit, nicht zwangsläufig direkt, war ja gemeint, daß ein Weg die Verbindung
+von genau zwei Knoten sein soll, wenn es aber nur einen Weg gibt, gibt es auch
+keine Knoten ;-)  
+Also nicht etwa so:   E ____________ A   wobei der Weg sonstwie gewunden sein
+darf, sich aber nicht schneidet.
+
+
+Damit meinst du (?) der eine Weg oben, von E nach A, darf sich nicht selbst
+scheiden,
+tatsächlich banal ;-)
+
+Aber wie ist es in dem Fall den ich zeigte,
+
+E=Eingang   A=Ausgang
+
+          f0
+          �
+          �
+          F___f0
+          �
+          �
+          �
+          �
+ E____�___________ A
+           K
+wenn nun die beiden Wege f0 eine Schleife bilden, oder in Sackgassen verlaufen,
+oder weitere Koten verbinden?
+
+
+C> An der Verzweigung eines Weges sitzt ein alter, weiser Mann. Er kennt
+
+H>Ich nehme an, so war es nicht gemeint.
+
+Das nehme ich auch an ;-) es muß auch keine ja/nein Frage gestellt werden.
+
+
+Ein Knoten hat das Minimum von 3 Wegen, sonst ja kein Knoten ;-) angenommen,
+ich zeige auf den linken Weg und stelle deine erste Frage wie oben, - Lügen Sie
+und dieser Weg ist richtig?
+
+Es sind nun folgende drei Möglichkeiten, für einen richtigen Weg, zu beachten: 
+(0=false, 1=true)
+
+
+Gehst du nicht fälschlicher Weise davon aus, daß der Lügner auch sagen kann das
+er lügt?  Wenn also die gesamte Aussage mit Ja/Nein beantwortet werden soll,
+muß dann nicht der Lügner behaupten;  Ja  - ich läge und dieser Weg ist
+richtig. (?) Ein Nein wäre ja sonst wahr (?) -  der Konjunktion.
+
+Nein, - ich läge nicht und dieser Weg ist richtig. Da der Weg tatsächlich
+richtig ist, hat er folglich auch nicht gelogen, genau DAS hat er auch gesagt,
+aber wie kann er die Wahrheit sagen?  Also; Nein, - ich läge und dieser Weg ist
+nicht richtig, dann ist es wieder die Wahrheit. Nein, - ich läge nicht und
+dieser Weg ist nicht richtig, ist ja auch wieder wahr beantwortet, denn p&q
+sind nur dann wahr, wenn es beide sind, - und eben das, daß sie es nicht sind,
+hat er drei mal mit seiner Antwort; Nein gesagt. Das aber wäre eine Wahrheit,
+die ein Lügner nie sagen könnte, ohne aufzuhören ein Lügner zu sein ;-)
+
+Wenn der Lügner Nein sagt, dann bestreitet er, daß beides, p und q zutrifft,
+also das er lügt und das links der richtige Weg ist. Wenn links tatsächlich der
+richtige Weg ist, dann ist das Bestrittene notwendig wahr, in diesem Fall kann
+kein Lügner diese Aussage machen.   Ist nun aber links nicht der richtige Weg,
+so ist das Bestreiten, daß beides zutrifft, trivial wahr, denn es gilt stets p,
+(der Lügner lügt immer, sonst ist er keiner) und der linke Weg ist nicht der
+richtige, also ~q. Darum kann der Wahrsprecher immer nur verneinen, daß beides
+zutrifft, auch wenn der Weg nicht der richtige ist, - kann Er doch nie lägen.
+
+(q kann also nur ~ q sein, aber p muß p bleiben, denn wenn p auch zu ~p wird,
+hat man wieder eine wahre Aussage, die kein Lügner machen kann. (~p kann von
+keinem Lügner erfüllt werden) Nein, - ich läge nicht und links ist nicht der
+richtige Weg = true. Mit Nein als Antwort kann der Lügner nicht lägen, weil,
+- ich läge und links ist der richtige Weg, ein Ja, und nicht Nein, als Antwort
+auf deine Frage verlangt.) 
+
+Sagt er aber Ja, so behauptet er, daß es zutrifft, daß beides wahr ist, - das
+ist ja nun unmöglich und deshalb auch gelogen. Ergo kann er auch immer nur Ja
+sagen, egal welcher der richtige Weg ist. 
+
+(???)=====> Muß also die Frage eleganter formuliert werden wie du selbst sagst,
+oder bin ich gerade nur wirr ?
+
+
+richtiger Weg + wahre Aussage ergibt:
+ (N & J) | (J & N) =3D N | N =3D N
+
+falscher Weg + wahre Aussage ergibt:
+ (N & N) | (J & J) =3D N | J =3D J
+
+richtiger Weg + Luege ergibt:
+ !((J & J) | (N & N)) =3D !(J | N) =3D !J =3D N
+
+falscher Weg + Luege ergibt:
+ !((J & N) | (N & J)) =3D !(N | N)=3D !N =3D J
+
+Ist die Antwort Nein, dann handelt es sich um den richtigen Weg.
+
+Die Frage laesst sich sicher eleganter formulieren, so war es aber am
+schnellsten zusammengebastelt.
+
+Denis
+
+Vermutlich muß man die Frage ganz anders formulieren (?)
+Was bedeutet =3D in deiner Aufstellung?
+Eine dreidimensionale Lüge ? ;-)
+Und ! = hier wird fakult�tsartig gelogen ?
+
+MFG A.Z.

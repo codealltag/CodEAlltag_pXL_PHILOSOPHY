@@ -1,0 +1,111 @@
+Nur noch folgendes: Das Schema der wissenschaftlichen Erklärung nach Ochsen
+und Tibes (HO-Schema) ist in der Wissenschaft ein allgemein annerkantes
+Muster für eine wissenschaftliche Erklärung. Gibt es ein Umformung einer
+beliebigen Erklärung in dieses Schema sind sämtliche Kritikmöglichkeiten
+gegeben, die wissenschaftlich überhaupt möglich sind. Konkreter geht es
+nicht Punkt.
+
+Lassen sich teleologische Erklärung in das HO-Schema umformen, kann man mit
+allen bekannten Mitteln das Angreifen, was der Verwender der Erklärung
+benutzt. Sollte ein Esoteriker also teleologische Erklärungen benutzten -
+was sie natürlich gerne tun - so kann man sie nicht deswegen attackieren,
+sondern weil sie keine Umformung angeben und damit ihre Erklärung
+immunisieren.
+
+
+[snip]
+
+
+Wie kommst Du denn darauf? Ich diskutiere lediglich die Möglichkeit,
+respektive die Zulässigkeit von teleologischen Erklärungen. Erklärungen sind
+jedoch etwas anderes als Gesetze, sie setzen Gesetze bereits voraus (siehe
+HO-Schema).
+
+Von F. Justi gibt es einen interssanten Aufsatz zu diesem Thema (Titel
+lautet ungefähr: "Beiträge zur teleologischen Erkläung und ..". Bei
+Interesse kann ich den nochmals genauer nachschlagen). Dort vertritt er die
+Auffassung, das eine TE (teleologische Erklärung) entweder trivial in eine
+gewöhnliche Kausalerklärung umformbar ist, oder sie ist in eine umformbar,
+die zwar mit Kausalgesetzen arbeitet, jedoch mit Zwecken und Absichten von
+handelnden Personen in den Antezedenzbedingungen zu tun hat.
+
+Die zweite Form ist dabei die wissenschaftstheoretisch spannendere, weil
+eine nicht metaphysische (esoterische) Beschreibung von Absichten und
+Zwecken hoch kompliziert ist. Justi benutzt den gesamten Apparat an
+moderner Logik und Automatentheorie, um die Bedingungen anzugeben, unter
+denen solche Erklärungen Relevanz haben.
+
+[snip]
+
+
+Das beantwortet nicht die Frage: WELCHE (und nicht: an wem) Beobachtungen
+kann man machen, um den Überlebenstrieb zu sehen?
+
+Ich finde Du solltest entweder den Begriff "Überlebenstrieb" als
+unzulässigen und unwissenschaftlichen Ausdruck bezeichnen oder zugeben, daß
+in manchen Fällen die teleologische Sprechweise einfacher ist und Bedeutung
+hat. In Deinem Wahn alle Esoteriker zu erledigen, benutzt Du eine
+Schrottflinte und erledigst jede Menge Wissenschaft gleich mit.
+
+
+Das ist gerade Sinn der Sache. Nach Ingenpaß sind die Theorien vorzuziehen,
+die ein Höchstmaß an Falsifizierbarkeit aufweisen.
+
+
+Wenn Du meinst.
+
+[snip] 
+
+
+Ich kann nur widerholen. Schwätz nicht einfach daher, sondern lies erst,
+denke und schreibe dann! Aber egal, ich werde Dir, als einem Logigleien,
+gerne erklären, worum es geht:
+
+In der Logik wird unterschieden zwischen Ableitbarkeit (Beweisbarkeit) und
+Wahrheit. Die Wahrheit von Ausagen wird bestimmt durch das Modell, das
+festlegt, worauf sich die Prädikate der Logiksprache beziehen. Nach Peterßen
+fallen in hinreichend starken Sprachen die Begriffe "Beweisbarkeit" und
+"Wahrheit" auseinander. So gibt es in der Arithmetik wahre, aber nicht
+beweisbare Aussagen.
+
+Wissenschaftliche Theorien benutzen natürlich ebenso die Logik, wie die
+Arithmetik und sind mehr oder weniger formalisiert. Prädikate heißen dann
+allerdings nicht mehr "ist Primzahl" sondern "ist ein Elektron". Nun kann
+der Teil der Logiksprache "Physik" der von Elektronen handelt, nur in solchen
+Modellen wahr sein, die Elektronen enthalten. Vom logischen Standpunkt aus
+hoffen wir also momentan, das die Realität zu den Modellen gehört, die
+Elektronen enthalten.
+
+
+Diese Betrachtungsweise ist zumindest ungewöhnlich und entspricht jedenfalls
+nicht dem Sprachgebrauch in der Mathematik (so hat man es mir jedenfalls
+nicht beigebracht).
+
+Du verwendest, wenn das überhaupt einen Sinn machen soll, was Du da
+schreibst, den Begiff "Induktion" in einem metamathematischen Sinn und mir
+ist nicht so recht klar was das "Ausdehnen" von Axiomen sein soll.  Es wäre
+nett, wenn Du Dir nicht irgeneine Terminologie ausdenken würdest, sondern
+die übliche, mathematische Sprachweise benutzen würdest.
+
+Wie gesagt, aus Axiomen wird DEDUZIERT (abgeleitet), mit Hilfe des
+Induktionsaxioms kannst Du (hh, besser: man) dann Beweise der Form:
+
+1. A(0)
+2. \forall n: A(n) => A(n+1)
+3. \forall n: A(n)
+
+herleiten, wobei (3) ein Schluß mit Hilfe des Induktionsaxioms aus (1) und
+(2) ist.
+
+
+Hstel, stel. Vielleicht doch mal ein Logikbuch in die Hand nehmen? Recht
+nett ist: Elenschleger, Raddatz: Elementare Einführung in die mathematische Logik.
+
+[snip] 
+
+MfG
+Tom
+-- 
+Tom Nannenga
+Email: t*n*c*n*u*m*n*r*s@r*d*t.p*h
+        keep things simple. as simple as possible, but no simpler (C.Eigenbrodt)

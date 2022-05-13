@@ -1,0 +1,57 @@
+Schön, daß du endlich mal übersichtliche Beispiele nennst :-)
+
+Haben wir also ein endliches Universum mit 5 Zuständen. Nachdem es in
+den 3. Zustand übergeht, "stirbt" es. Was verstehst du aber darunter?
+Vermutlich meinst du damit, daß der Folgezustand von Zustand 3 eben
+Zustand 3 ist. Dann hast du aber trivialerweise eine Wiederholung des
+Zustandes 3.
+
+
+Zur Erinnerung, worum es geht:
+
+Deine Aussage "unendlich ist ein ausdruck von zeit" verstehe ich sinngemäß
+leider nicht. Kannst du bitte risieren, was du damit meinst? Und zweitens
+haben wir wohl eine unterschiedliche Auffassung davon, was Zeit ist.
+
+Für mich ist Zeit ein Maß dafür, um zu beschreiben, wie verschiedene Zustände
+eines Systems ineinander übergehen. Dieses Maß ist im Normalfall konstant (in
+etwa wie eine Geschwindigkeit).
+
+
+Da bringst du wieder einmal Physik und Mathematik völlig durcheinander.
+Wir haben schon darüber diskutiert, was die Physik macht: Sie versucht,
+die Realität durch Modelle zu beschreiben. Und diese Modelle sind alles
+andere als selbstverständlich, sondern Konstruktionen von Menschen.
+
+
+Na super! Vermutlich glaubst du dann auch an Gott, weil ja immerhin eine
+Menge anderer Leute das tun...
+
+
+Diese Möglichkeiten sind alle vergänglich. Sie existieren nur, weil unser
+Universum noch sehr jung ist.
+
+
+Dieser Punkt wird aber unendlich lang größer und das erfordert eben, daß man
+mit dieser Eigenschaft auch zurecht kommt. Wie willst du das aber anstellen,
+wenn du nur endlichen Speicher zur Verfügung hast?
+
+
+Da mußt du aber jetzt dazu sagen, wie du den Speicher verwendest und welche
+Berechnungen du durchführst. Falls du in den Speicher ein beliebiges Programm
+samt Daten hineinl�dst und es ausführst, wirst du nach maximal der 2^(128M)
+Programm-Ablaufschritten identische Ausgaben bekommen.
+
+Begründung: Die Ausgabe hängt IMMER vollständig von dem aktuellen Zustand des
+Speichers ab und von nichts sonst.
+
+
+Beachte, daß dieser endliche Raum beliebig groß wird. Und aufgrund dieser
+Tatsache wird ein endlicher Speicher niemals ausreichen können.
+
+
+Das widerspricht der allgemeinen Relativitätstheorie. Im Gegensatz zu dir
+glaube ich jedenfalls nicht an Sachen, die nicht bewiesen sind. Und dazu
+gehört die allgemeine Relativitätstheorie.
+
+August

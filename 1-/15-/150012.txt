@@ -1,0 +1,61 @@
+Wir haben eine Vorraussetzung:
+
+    a*b = 0, a <> 0.  Das ganze soll sich in den ganzen, natürlichen,
+   rationalen, reellen, oder komplexen Zahlen abspielen.
+
+Dann haben wir eine Behauptung:
+
+    b = 0
+
+Das bedeutet:  Wenn die Voraussetzung wahr ist, ist auch die
+Behauptung wahr. Wenn die Voraussetzung nicht gegeben ist,
+kannst du über den Wahrheitswert der Behauptung (mit diesem Satz)
+nichts aussagen.
+Der Satz sagt also nichts direkt über a aus,
+wenn du b <> 0 setzt.
+
+Im Beweis können wir uns auf die Vorraussetzungen stützen,
+und müssen die Bedingungen zeigen.
+
+[1]      a*b  = 0   (Steht in der Voraussetzung.)
+[2]       a  <> 0   (Voraussetzung)
+
+Nun können wir die Gleichung [1] durch
+a teilen (weil [2]) (*)
+
+[3]  (a*b)/a = 0/a
+
+Durch Assoziativ-/Kommutativgesetz der
+Multiplikation folgt
+
+[4]   (a/a)*b = 0/a
+
+Nun ist  a/a = 1  (weil / die Umkehrung von * ist):
+
+[5]   1 * b = 0 / a
+
+Division von 0 durch a ergibt immer 0:
+
+[6]   1 * b = 0
+
+1 ist das neutrale Element der Multiplikation:
+
+[7]   b = 0
+                    QED.
+
+Wenn du jetzt die Vorraussetzungen und Behauptungen
+änderst (Vertauschen von a und b), musst du dir
+natürlich einen neuen Beweis ausdenken. Er wird
+ganz ähnlich verlaufen wie dieser, aber ist (meist)
+nicht identisch. Oft kannst du einfach mit einigen
+Rechenregeln den Satz so umformen, dass du einfach
+auf diesen Satz zurückgreifen kannst.
+
+Leo
+
+PS: Es gibt übrigens Rechenbereiche (Ringe), wo
+dieser Satz (Nullteilerfreiheit) nicht gilt,
+ein Beispiel war unsere Menge Z_12.
+Vielleicht findest du (Übungsaufgabe) die Stelle
+in der Argumentation, die dort nicht verwendet
+werden kann.

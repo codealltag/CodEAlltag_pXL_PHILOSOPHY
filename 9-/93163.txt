@@ -1,0 +1,11 @@
+On Fri, 05. 03. 23 01:32:21 +0100, Dorothee Pohlmeier
+Statt "(not)" schreibt man besser einfach "~" (oder auch "-", oder "�").
+Es gilt dann also (bekanntlich):
+
+	<>p <-> ~[]~p
+
+Daher lässt sich in der Tat der eine modale Operator durch den anderen
+ausdrücken und damit auch definieren.
+
+
+A.

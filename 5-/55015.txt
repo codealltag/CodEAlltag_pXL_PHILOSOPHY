@@ -1,0 +1,46 @@
+Hallo Claudio,
+
+(Deine Postings zusammengefasst)
+
+                           ^^^^^^^^^ 
+                       jede *gerade* Zahl
+
+
+Deine erste Prämisse ist falsch: sie hieß "Für alle geraden Zahlen
+(bzw. für jede gerade Zahl) gilt P".
+
+
+Welcher Zusammenhang? Und wie kann in einer formalen logischen Herleitung
+eines mathematischen Problems etwas "zufällig" sein?
+
+Nochmal: Aussage "A" sei "für jede gerade Zahl gilt, dass sie sich als
+Differenz zweier Primzahlen darstellen lässt".
+
+A ist entsprechend "es gibt (mindestend) eine gerade Zahl, die sich
+nicht als Differenz zweier Primzahlen darstellen lässt".
+
+Wir haben als (angenommene) logische Abfolge, dass aus "A" die Aussage
+"Y" folgt und daraus "X", kurz geschrieben als A --> Y --> X
+
+sowie dass aus "A" die Aussage "Z" folgt und daraus ebenfalls "X": 
+A --> Z --> X.
+
+Welcher dieser Zusammenhänge ist jetzt Deiner Meinung nach "zufällig"?
+
+
+Natürlich gibt es einen logisch notwendigen Zusammenhang zwischen
+einander widersprechenden Prämissen: die eine ist die Negation der
+anderen. Sonst würden sie sich ja nicht widersprechen. Die Aussagen A
+und A widersprechen einander und haben daher genau diesen logischen
+Zusammenhang.
+
+
+Sie können nicht jeweils wahr sein, da sie sich widersprechen.
+
+Viele Größe
+
+Harry
+
+-- 
+If you think technology can solve your problems you don't understand
+technology and you don't understand your problems.  (Niels Rensinghof)

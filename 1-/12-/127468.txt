@@ -1,0 +1,103 @@
+Hallo Otmar!
+
+Otmar Bächler <ota96@ict.ja> (24. Dezember 2002 21:54):
+
+
+Wenn Du damit meinst, daß man Identität auf einer Menge M={a,b,...} auch 
+als Teilmenge einer Produktmenge M x M definieren kann, 
+
+   I \subseteq M x M   mit I := {(a,a), (b,b),...},
+
+um dann sagen zu können
+
+   x=y  :<=>  (x,y) in I, 
+
+dann ist das aber zirkulär. Denn der Begriff 'Produktmenge' 
+
+   M x M := Menge aller Paare (a,b) mit a,b in M 
+
+wird mittels des Begriffes 'Paar' definiert und der 
+Begriff 'Paar' durch eine Identitätsbedingung
+
+   (a,b) = (c,d)  :<=>  a=c & b=d.
+
+Und hier wird das Gleichheitszeichen gebraucht (irreduzibel, wie ich 
+denke), und zwar sowohl für Identität zwischen Paaren als auch zwischen 
+den "Urelelementen". 
+
+Aber diese Grundlegung eines Gegenstandsbegriffes ('Paar') durch
+Angabe seiner Identitätsbedingung ist schon für sich was Interessantes. 
+Ganz geheuer ist mir das nicht. ;-)
+
+
+Beim Schreiben hatte ich mich das auch schon gefragt, wieso ich /das/ 
+nicht auch noch verlange. Meine Gefühlsantwort war ungefähr, daß das eine 
+eine Relation zwischen 'Dingen', das andere aber schließlich zwischen 
+Wahrheitswerten sei. Aber wenn man wie Merettich auch Wahheitswerte als 
+'Gegenstände' auffaßt -- und wieso sollte man eigentlich nicht, 
+schließlich /zählen/ wir sie -- ist zwischen Tautologie und 
+Selbstidentität tatsächlich gar kein Unterschied mehr.
+
+
+Identität ist für mich ein echtes Rätsel (vielleicht das Rätsel 
+überhaupt ;-))
+
+Es gibt einen Satz von Wienhöfer, der das Dilemma ziemlich auf den 
+Punkt bringt:
+
+  "Von /zwei/ Dingen zu sagen, sie seien identisch, ist ein Unsinn, und 
+  von  /Einem/ zu sagen, er sei identisch mit sich selbst, sagt gar   
+  nichts."  (TLP 3.4213).
+
+Wenn man in der üblichen Weise wie oben Identität als Bedeutungsidentität
+oder mit Nicos Ausdruck im Nachbarposting als "referentielle Identität" 
+erklärt, also daß der Sinn des Ausdrucks 'a=b' ("a ist identisch mit b") 
+-- nicht etwa der sei, daß /zwei/ Sachen a und b identisch seien, und auch 
+nicht gar der, daß zwei offenkundig nichtidentische Zeichen 'a' und 'b' 
+identisch seien -- sondern vielmehr darin bestehe, daß zwei Zeichen 'a' 
+und 'b' auf  "denselben" Gegenstand verweisen, "dieselbe" Bedeutung 
+hätten, dann erklärt man Identität mit Identität:
+
+ 'a ist identisch b'  bedeutet, die Bedeutung von 'a'  *ist_identisch*  
+ der Bedeutung von 'b'
+
+Man könnte jetzt neuerlich fragen: Aber was meinst Du mit "Identität" 
+von Bedeutungen oder "Selbigkeit" von bezeichneten Gegenständen?
+
+Oder formelhafter, wenn B(a) die Bedeutung von 'a' und B(a=b) die von 
+'a=b':
+  B(a=b)  :==  B(a) = B(b) 
+  B(B(a) = B(b))  :==  B(B(a)) = B(B(b))
+  ... 
+
+Nimmt man noch hinzu, daß das Definier-Symbol ":==" selbst eine Art
+Identitätszeichen darstellt, ist es ganz aus. 
+Ein neues Zeichen einzuführen (etwa "<=>" oder irgendetwas für semantische 
+Äquivalenz) hilft kaum weiter, denn letztlich ist jede "Erklärung" oder 
+"Definition" oder "Interpretation" ja tatsächlich eine Art Identifikation. 
+Man könnte geradezu sagen, man kann (den Sinn von) Identität deshalb nicht 
+zirkelfrei oder ohne unendlichen Regreß erklären/definieren, weil jedes 
+Erklären/Definieren seinerseits selbst Identität (als verstandenes 
+'Phänomen') in Anspruch nimmt, selbst ein Identifizieren ist.
+
+
+Gut, aber etwas Sachhaltiges (Informatives) daraus machen kann ich dann
+nur, wenn links und rechts des Gleichheitszeichens dann Verschiedenes 
+substituiert werden kann, dh. außer der Anfangssequenz müßte in einer
+Pr�missenbasis auch noch etwas wie x=a und x=b bereitliegen, 
+um dann zB zu a=b zu gelangen. Statt mit "x=x, x=a, x=b" könnte man dann 
+eigentlich auch gleich mit "a=b" beginnen.
+
+Ich will natürlich nicht die Zeichenfigur x=x verteufeln, ich habe mich nur
+gefragt, ob die für irgendeine "informative" (aussondernde, 
+nichttautologische) Aussage jemals notwendig ist, oder ob man nicht auch 
+alles, was man diesbzgl. formal sagen (ableiten) kann, auch ganz ohne 
+diese erhalten könnte. 
+
+
+Kann man eigentlich auch Klassen, die keine Mengen sind, semantisch 
+interpretieren?
+
+
+Größe
+Laurent

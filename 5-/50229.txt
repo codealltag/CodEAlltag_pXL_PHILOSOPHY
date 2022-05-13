@@ -1,0 +1,44 @@
+Puh, dann ist ja nochmal gut :-)
+
+
+Ich bin gerade zeitlich etwas zu beansprucht, um das nachvolliehen zu
+können.  Insbes. habe ich mich noch nicht mit XSLT beschäftigt.  Ein
+Tip: Wenn der Vorteil Deines Ansatzes gerade darin liegt, dass man sich
+die, wie Du schreibst, grauenvolle XSLT-Syntax erspart, dann wäre es
+ganz hilfreich, wenn in der Anleitung nicht der Satz auftaucht:
+
+    "Because YSLT just generates XSLT programs, it will be a good idea
+    to read the XSLT Documentation as well as the XPath Documentation".
+
+Ich meine, wenn jemand C lernt, dann ist ja auch nicht die
+Voraussetzung, Assembler zu können.  Wobei "objektcodeorientierte
+Programmierung" sicherlich eine feine Sache ist :-)
+
+
+Hmmm.  Ich würde Transzendentalphilosophie eine Ebene niedriger
+ansetzen: z.B. wenn Du Dir die Frage stellst, welche Fragen
+Berechenbarkeitstheorie beantworten und welche sie gerade nicht
+beantworten kann.  Wenn Du Berechenbarkeitstheorie betreibst, hast Du ja
+bereits axiomatische Systeme zugrunde gelegt und bewegst Dich innerhalb
+ihrer Grenzen.  
+
+Ein Chemiker, der sich mit der Frage beschäftigt, ob ein
+Sauerstoffmolekül aus vier Atomen möglich ist, betreibt ja auch keine
+Transzendentalphilosophie.  Auch mit der Frage, auf welche Art und Weise
+er diese Frage überhaupt beantworten kann, hätte er sein Fach noch nicht
+verlassen.  Erst die Frage, welche Grenzen seinem Experimentieren und
+Denken hinsichtlich der Gewinnung von Erkenntnis prinzipiell gesetzt
+sind, wie man diese Grenze überhaupt bestimmen können soll etc., würde
+man als Transzendentalphilosohie bezeichnen.
+
+
+Um einen Schachcomputer zu programmieren, braucht man genau nur das
+Regelset.  Die Bedeutung des Schachspiels erschöpft sich aber nicht im
+Regelset.
+
+
+Das glaube ich Dir.  Das war ja der Hintergrund meiner provokanten
+Frage.
+
+
+Ciao, Jakob

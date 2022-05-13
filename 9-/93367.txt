@@ -1,0 +1,29 @@
+Aber doch nur, wenn der Ortsanteil des Zusatands des zu messenden Teilchens 
+mit dem Teil der Observable verschränkt ist. Ist bsw. die Observable der 
+Spin und der Zustand des zu messenden Systems ein Produktzustand aus Spin 
+und Ortszustand, der Spin also unabhängig vom Ort, so lässt sich mit deinem 
+hamiltonian der Zustand zu jedem Zeitpunkt sepatieren
+psi = psi(x1) * psi (s1, x2). Damit sollte auch die Leitgleichung 
+separierbar sein.
+d_t x1 = Leitgleichung von psi(x1) und
+d_t x2 = Leitgleichung von psi(x2 ,s1)
+wenn ich mit der Annahme richtig liege, dass bei unterscheidbaren Teilchen 
+für jedes Teilchen ein eigener Stromoperator j angenommen wird.
+
+Also x2 ist unabhängig x1. Das Messergebnis hängt nur von der verborgenen 
+Variable des Messgerätes ab.
+
+
+Ich dachte, dass es für dich ein Problem darstellt, dass nicht alle 
+Observablen vor einer Messung real sind. Da lag ich wohl falsch.
+
+Jedenfall danke für deine Nachhilfe in Sachen BM.
+Die Ansicht, dass verborgene Variablen, die letztlich nur dazu dienen, 
+Messergebnisse zu realisieren, zum Verständnis der Natur wirklich notwendig 
+sind, werde ich trotzdem nicht teilen. Einfacher ist es, den Zustand nur als 
+das zu betrachten, was er in einer Wahrscheinlichkeitstheorie auch 
+darstellen soll. Mein Wissen über das System.
+Aber in diesem Punkt werden wir uns wohl nicht einig.
+
+Gruß
+Christian

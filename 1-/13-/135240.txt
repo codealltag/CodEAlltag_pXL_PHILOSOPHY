@@ -1,0 +1,23 @@
+Hallo,
+
+
+Nein. Es gibt bestimmte chaotische Systeme, die nicht exakt
+prognostizierbar sind, nämlich solche, bei denen die Ausgangsdaten aus
+irrationalen Zahlen bestehen, die also unendlich viele Nachkommastellen
+haben. Da sind nur Näherungen möglich, die oft sehr schlecht sind.
+Dennoch kann ich hier einen Algorithmus angeben.
+
+
+Bei chaotischen Systemen, bei denen man mit irrationalen Zahlen
+arbeitet, ist eine exakte Berechenbarkeit grundsätzlich unmöglich, weil
+du nicht unendlich viele Stellen angeben kannst.
+
+
+Was m.E. seine Gründe v.a. im Obigen hat. Und da ist ein Algorithmus
+durchaus angebbar. Ich sprach ja nicht von berechenbar, sondern von
+Algorithmus. Es kann ein Algorithmus bekannt sein, aber dennoch muß ein
+System dann noch nicht berechenbar sein.
+
+Größe,
+
+Massimo

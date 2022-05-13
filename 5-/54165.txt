@@ -1,0 +1,10 @@
+Man kann XML auch so sehen:
+
+    (body (h1 "Überschrift") (p "irgendein Text"))
+
+XML ist die Rache des Lisp-Lagers am C-Lager.  Jetzt haben die auch
+Listen und die entsprechende Performance, aber mit einer Syntax, die
+extra aufwendig zu parsen ist (im Gegensatz zu "Klammer auf/zu") :-)
+
+
+Ciao, Elias

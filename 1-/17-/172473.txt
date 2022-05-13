@@ -1,0 +1,154 @@
+<snip>
+
+
+Dagegen wehre ich mich auch. Dennoch halte ich nichts davon, in der
+Therapieforschung auf das das Hilfsmittel der Statistik zu verzichten.
+Andererseits räume ich ein, daß dieses Hilfsmittel häufig überschätzt
+und seine Ergebnisse falsch interpretiert werden. Bitte erlauben sie mir
+hierzu einige grundsätzliche Erwägungen:
+
+Jede statistische Untersuchung von Psychotherapien, deren Beweiskraft
+nur auf Daten beruhen soll, muß neben der Experimentalgruppe auch eine
+Kontrollgruppe einbeziehen. Dies ist allein schon darum erforderlich, um
+echte Behandlungserfolge von Spontanremissionen bzw. Selbstheilungen zu
+unterscheiden. Die Experimentalgruppe bestünde aus Patienten bzw.
+Klienten, die mit der untersuchten Methode behandelt werden, die
+Kontrollgruppe aus Menschen, die nicht behandelt werden. Wenn man den
+Erfolg der Methode messen will, so dürften sich zu Beginn des
+Experiments die Mitglieder der Experimentalgruppe im statistischen
+Schnitt von den Mitgliedern der Kontrollgruppe nur durch die Tatsache
+ihrer Behandlung unterscheiden. Nur dann können eventuelle Unterschiede
+zwischen Experimental- und Kontrollgruppe, die während oder nach der
+Behandlung gemessen werden, ursächlich auf die Therapie zurückgeführt
+werden. Mit anderen Worten: Die beiden Gruppen dürfen sich hinsichtlich
+der Startbedingungen nicht unterscheiden. 
+Man erreicht dies, indem man aus der Grundgesamtheit der für die
+Behandlung in Frage kommenden Menschen nach Zufallsprinzipien eine
+Stichprobe zieht und diese Stichprobe ebenfalls nach Zufallsprinzipien
+auf die Kontroll- und die Experimentalgruppe verteilt. Hier spreche ich
+zur Vereinfachung nur von zwei Gruppen. Man könnte natürlich auch
+mehrere Gruppen einbeziehen, wenn man z. B. zwei Therapieverfahren
+miteinander vergleichen und die Ergebnisse durch die Kontrollgruppen von
+Selbstheilungen / Spontanremissionen abgrenzen will. 
+In der Fachterminologie spricht man "random selection" (zufällige
+Auswahl aus der Grundgesamtheit) und "random assignment" (zufällige
+Verteilung auf die Gruppen). Abweichungen zwischen den so
+zusammengestellten Gruppen unterliegen nunmehr einer Zufallsverteilung,
+die von den gängigen statistischen Testverfahren berücksichtigt wird.
+Die zufällige Auswahl der Stichprobe aus der Grundgesamtheit ist
+überdies erforderlich, damit die inferenzstatistischen Methoden
+überhaupt angewendet werden können.
+
+Dieses saubere experimentelle Vorgehen ist in der Praxis aus
+naheliegenden Gründen häufig nicht möglich. Es ist daher legitim, vom
+Prinzip der reinen Zufallsauswahl (random selection + random assignment)
+abzuweichen. Eins muß jedoch klar sein: Wird von diesem Prinzip
+abgewichen, dann stützt sich die Beweiskraft der Statistik nicht mehr
+allein auf Daten, sondern sie hängt darüber hinaus in je nach Ausmaß der
+Abweichung mehr oder weniger starkem Maße von theoretischen Erwägungen
+ab. über Theorien aber läßt sich trefflich streiten.
+
+Statistische Untersuchungen zu den Auswirkungen von Psychotherapien,
+deren Beweiskraft nur auf den erhobenen Daten beruhen, sind eher selten.
+Klartext: Es gibt kaum methodisch einwandfreie Statistiken in diesem
+Bereich. 
+Mitunter wird versucht, auf anderen Wegen sicherzustellen, daß sich die
+beiden Gruppen zu Beginn der Studie nicht systematisch voneinander
+unterscheiden. Das Mittel der Wahl ist in diesem Falle die
+Parallelisierung der beiden Gruppen. Man stellt eine Liste relevanter
+Merkmale (zum Beispiel Alter, Geschlecht, Therapie-Erfahrung,
+sozio-ökonomischer Status) zusammen und verteilt die verfügbare
+Stichprobe derart auf die beiden Gruppen, daß die statistische
+Verteilung der relevanten Merkmale in Experimental- und Vergleichsgruppe
+weitgehend angenähert ist. Dieses Verfahren erscheint praktikabel. Doch
+war unsere Liste vollständig? Wenn wir auch nur ein relevantes Merkmal
+vergessen haben und wenn sich die beiden Gruppen hinsichtlich dieses
+Merkmals systematisch voneinander unterscheiden, dann ist nicht mehr
+klar, ob die nach der Behandlung zwischen ihnen gemessenen Unterschiede
+durch die Therapie oder durch dieses Merkmal verursacht wurden. Ein
+Beispiel: Es geht um die Therapie von Angststörungen. Die Kontrollgruppe
+enthält überzufällig häufig Alkoholiker als die Experimentalgruppe. Nach
+einem halben Jahr sind in der behandelten Gruppe statistisch signifikant
+mehr Patienten angstfrei als in der Kontrollgruppe. Beweist dies, daß
+die Therapie wirksam war oder ist das Ergebnis darauf zurückzuführen,
+daß Nicht-Alkoholiker eine Angststörung leichter aus eigener Kraft
+überwinden (Spontanremission bzw. Selbstheilung) als Alkoholiker?
+
+Auch wenn die beiden Gruppen vor Beginn des Experiments umfangreichen
+Vortests unterzogen wurden, läßt sich das Dilemma nicht überwinden.
+Nehmen wir an, die beiden Gruppen erzielen in diesen Testbatterien
+statistisch nicht signifikant abweichende Ergebnisse. Schön. Aber können
+wir sicher sein, alle relevanten Aspekte in diesen Tests erfaßt zu
+haben?
+
+Man könnte die Liste der mit der statistischen Psychotherapieforschung
+verbundenen methodischen Probleme noch erheblich verlängern. Um den
+Leser nicht zu langweilen, beschränke ich mich auf die vorgetragenen
+Aspekte und wende mich den Ursachen des Problems zu. Diese sind
+teilweise auf die Tatsache zurückzuführen, daß die Therapieforschung die
+Statistik zweckentfremdet. Sie wurde nämlch für andere Aufgaben
+konzipiert. Die heute gängigen inferenzstatistischen Verfahren wurden
+ursprünglich für die landwirtschaftliche Forschung entwickelt.
+Paradigma: Wir düngen Feld A mit dem Kunstdünger Gilliars und Feld B
+mit dem Konkurrenzprodukt Wachsfix und prüfen, ob der durchschnittliche
+Höhenunterschied der Ähren auf den beiden Feldern im Rahmen zufälliger
+Schwankungen liegt oder auf die unterschiedlichen Düngemittel
+zurückgeführt werden muß. Hier muß sichergestellt werden, daß die
+Bodenqualität der beiden Felder sich nicht wesentlich unterscheidet, daß
+es sich um dieselbe Getreidesorte handelt, daß die klimatischen
+Bedingungen vergleichbar sind usw. Die logische Struktur dieses
+Experimenttyps ist keinesfalls unkompliziert, verglichen jedoch mit der
+logischen Struktur eines Experiments mit Menschen durchaus überschaubar.
+Auch in der landwirtschaftlichen Forschung lassen sich nicht alle
+Bedrohungen der internen bzw. externen experimentellen Validität
+ausschalten, aber wenn wir beispielsweise die Effektivität der
+Verhaltenstherapie und einer psychoanalytischen Kurzzeittherapie bei
+sozialen Phobien unter Einbezug einer unbehandelten Kontrollgruppe
+hinsichtlich der Parameter "Symptomfreiheit", "Arbeitslosigkeit" und
+"soziale Integration" vergleichen wollen, so wird die logische Struktur
+des Experiments so komplex, daß deren Aufhellung, falls überhaupt
+möglich, mehr Zeit und Ressourcen benötigt, als im Rahmen gängiger
+Forschungsprogramme zur Verfügung stehen. 
+
+Und so, Herr landfadt Zeilhofer, wehre auch ich "mich gegen die Identifikation
+von statistischer Auswertung von
+
+
+Welcher Sachverhalt organisiert sich denn von selbst quantitativ? Je
+entwickelter meine Theorie des psychotherapeutischen Prozesses ist,
+desto mehr kann ich auch mit (statistischen) Informationen anfangen,
+deren Qualität eingeschränkt ist.
+
+für eigene quantitative Umfragen oder statistische
+
+Jede Statistik ist Zahlenm�ll, wenn sie nicht methodenkritisch
+interpretiert wird. Aber ich kenne Leute, die holen aus dem Müll (auch
+aus "richtigem") manche Schätze heraus.
+
+Begrenzte Mittel möglichst effektiv einsetzen zu wollen, ist allerdings
+nicht ehrenrührig.
+
+
+Die empirisch-statistische Forschung zu den psychotherapeutischen
+Wirkfaktoren hat allerdings noch andere Einflu�gr��en ermittelt als
+"ernstnehmen und zuhören". Und es ist nicht uninteressant zu wissen, wie
+sich eine systematische Variation dieser Wirkfaktoren auf den
+Therapieerfolg auswirkt.
+
+Und umgekehrt. Es ist auch nicht auszuschließen, daß Psychoanalytiker
+sich in der Praxis auch an verhaltenstherapeutischen Modellen
+orientieren. Hier denke ich z. B. an die "supportive approaches" in der
+Therapie der Borderline-Persönlichkeit.
+
+Der therapeutische Erfolg
+
+Man muß statistische Untersuchungen ja nicht auf den Behandlungserfolg
+beschränken. Man kann auch Prozeß-Variablen studieren.
+
+
+Nur für die Krankenkassen? Oder auch für Patienten / Klienten?
+Ja, vielleicht sollten Sie dann aber auch nicht pauschal die
+Möglichkeiten der Statistik in Frage stellen.
+
+
+MfG Dr. B. A. Jännert

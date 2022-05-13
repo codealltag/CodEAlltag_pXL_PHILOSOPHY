@@ -1,0 +1,93 @@
+Hallo Benedikt!
+
+AS> Langsam verzweifle ich.  Hallo Gerd,
+AS>  die Aussage des Biologen ignorierst Du.
+
+Welche? Was hat 1/0 mit Biologie zu tun? (Sorry, ich habe nicht jedes
+Posting des Threads gelesen)
+
+AS> Die reellen Zahlen enthalten in irgendeiner Form auch die anderen
+AS> Zahlen
+
+Genaugenommen nein. Wie hier schon jemand schrieb gibt es eine
+sinnvolle Abbildung von natuerlichen/ganzen/rationalen Zahlen auf die
+rellen Zahlen, so dass viele uebliche Rechenregeln beibehalten werden.
+
+AS> komplexen  Zahlen enthalten in irgend einer Form die reelen Zahlen.
+
+Analog. Der Begriff "groesser als" hat im Bereich komplexer Zahlen
+allerding keine Bedeutung mehr.
+
+AS> Ich habe nach einer Formulierung gesucht, die nicht mathematisch
+AS> ist und in dem Ringen mit der Mathematik anscheinend zu
+AS> mathematisch geworden ist.
+
+??? Was willst Du? Eine mathematische Aussage auf nichtmathematische
+Zusammenhaenge erweitern? Oder nichtmathematische Zusammenhaenge mit
+Hilfe der Mathematik darstellen? 
+
+AS> Würde ich 1/0 schreiben, dann würde jeder Mathematiker sagen, das
+AS> ist ein mathematisches Problem.  Es ist kein mathematisches
+AS> Problem, denn die Mathematik kann dieses Problem mit Ihrer
+AS> stringenten Logik nicht lösen.
+
+Wie lautet genau das Problem? Dass "1/0" in der ueblichen Arithmetik
+nicht definiert ist? Inwiefern ist das ein Problem?
+
+AS> 1 und 0 gehen auf Axiome zurück.  Axiome sind für die Mathematik
+AS> letzlich unbeweisbares. Aufhebung der Axiome würde Aufhebung des
+AS> mathematischen Gebäudes bedeuten.
+
+??? Axiome sind frei waehlbar (solange Widerspruchsfreiheit
+gewaehrleistet ist). Man waehlt sie i.allg. so, dass man damit
+sinnvolle Saetze aufstellen kann - aber das ist nicht zwingend.
+
+Es ist kein Problem, 1/0 zu definieren - beispielsweise mit XXX.
+Allerdings muss man dann, um Widerspruchsfreiheit zu gewaehren, an
+anderer Stelle auch aendern. In das uebliche Bild mit Rechenregeln
+natuerlicher Zahlen passt das nicht mehr rein; man haette einfach eine
+neue Arithmetik. 
+
+Das hat man auch schon gemacht; leider bringt das keine neuen
+Erkenntnisse. Also verzichtet man darauf. Aber "Aufhebung des
+mathematischen Gebäudes" wuerde es keinesfalls bedeuten.
+
+Wenn Dir eine andere Mathematik lieber ist: Bitte, es wird Dich keiner
+abhalten. Nur solltest Du das immer ansagen, und Du musst natuerlich
+alle verwendeten Regeln neu beweisen (es gilt ja dann beispielsweise
+nicht mehr n-n=0 fuer alle Benedikt-Ferbert-Natuerlichen Zahlen n, oder
+es gilt nicht mehr a/n - b/n = (a-b)/n fuer diese Zahlen a, b, n).
+
+Und Du solltest die so konstruierten Zahlen eben tatsaechlich
+"Benedikt-Ferbert-Natuerliche Zahlen" nennen, um den Unterschied zu der
+ueblichen Definition klarzumachen.
+
+AS> Bevor aber eine Wahrheit wirklich eine Wahrheit wird, muss sie
+AS> geprüft werden.
+
+Die "Wahrheit" mathematischer Aussagen hat eine prinzipiell andere
+Bedeutung als die Wahrheit beispielsweise physikalischer Theorien.
+
+Letzteres kann man nur "pruefen" (durch Beobachtung).  Mathematische
+Aussagen koennen (im Gegensatz dazu) dagegen "bewiesen" werden. Das
+bedeutet aber nur: Sie sind aus den zugrundeliegenden Axiomen
+herleitbar. Andere Axiome - andere Aussagen.
+
+"Die Innenwinkelsumme eines Dreiecks ist 180 Grad" gilt in der
+euklidischen Geometrie. Lege andere Axiome zugrunde, und Du bist
+z.B. bei der sphaerischen Geometrie, in der der Satz lautet "Die
+Innenwinkelsumme eines Dreiecks ist immer groesser als 180 Grad".
+
+"Wahr" ist keine der beiden Aussagen; sie sind beide lediglich aus den
+jeweils zugrundeliegenden Axiomen ableitbar. Ausserhalb ihres
+Axiomensystems sind sie sinnlos.
+
+Aussagen ueber "1/0" sind deshalb nur sinnvoll, wenn man das
+entsprechende Axiomensystem angibt - beispielsweise das der
+natuerlichen Zahlen. Laesst man das Axiomensystem weg, stellt "1/0"
+eben nur noch eine bedeutungslose Zeichenkette dar. Da hilft auch
+keinerlei Philosophie weiter.
+
+Tschuessi
+
+Gerd

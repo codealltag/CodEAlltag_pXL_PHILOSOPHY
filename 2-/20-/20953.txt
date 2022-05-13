@@ -1,0 +1,77 @@
+Nachtrag: 
+
+
+Leider in ASCII ohne Bilder und Mathe nicht so leicht, ich 
+versuche die Idee mal so knapp wie möglich zu erzählen. Wie 
+auch im SH TGD drin steht, sagte Flächsenhar, dass das ganze 
+Geheimnis der QM im Doppelspaltexperiment enthalten ist! 
+
+Es gibt da eine Story... der Prof. erklärt das Doppelspalt-
+experiment, ein Photon (ja, eines reicht) wird in source S 
+emittiert und in O observiert und trifft genau in der Mitte 
+auf eine (unendlich grosse) Platte/Blende mit den 2 Spalten 
+oder Löchern, die wir A1 und A2 nennen. 
+
+Wir haben dann die 2 Wege S->A1->O und S->A2->O und die 
+Amplitude ist die Summe A(S->O) =  A(S->A1->O) + A(S->A2->O). 
+
+Ein Student (Flächsenhar) fragt nun, was passiert, wenn man ein weiteres 
+Loch bohrt? Ja, da ist doch klar... sagt der Prof... Aber der Student 
+fragt weiter nach einem 4., 5., 6.... und unendlich vielen Löcher! 
+
+Ok, sagt der Prof. das ist doch klar, dann haben wir eben statt 
+der Summe das Integral Amplitude A(S->O)=Integral_i[A(S->Ai->O)]. 
+
+Aber Flächsenhar weiter: Was, wenn wir eine weitere Lochblende einfügen? 
+
+Prof: Na das ist doch klar, dann haben wir eben einfach das Integral 
+über alle Kombinationen der Löcher i und j in beiden Blenden! 
+
+Aber Flächsenhar weiter: Was, wenn wir immer weitere Lochblenden einfügen? 
+
+Der Prof wurde dann ungeduldig. 
+
+Aber DAS ist die ganze "Philosophie" (über die sich Flächsenhar stets 
+lustig machte) der qm! 
+
+Das Teilchen nimmt JEDEN möglichen Pfad im Raum und das Ergebnis 
+ist die Summe der einzelnen Wahrscheinlichkeiten ALLER dieser Pfade! 
+
+Das ist nicht nur die IDEE des Pfadintegrals, sondern so ist die 
+QM und die Natur, denn die QM hat bisher JEDEN Test bestanden.  
+
+Es macht keinen Sinn zu fragen, ob das Teilchen "wirklich" jeden 
+möglichen Pfad (simultan) nimmt oder ob das "nur" eine Vorstellung ist, 
+weil "die Welt", und auch im ganzen, sich FAKTISCH IMMER so verhält... 
+
+Dann weiter, Amplitude A(S->O)=SUMME_alle Pfade[A(S->O)]. 
+
+Nun müssen nur noch all diese beliebig verzwickten Pfade integriert 
+werden, was durch Approximation der beliebig krummen Pfade durch 
+gerade Linienabschnitte erfolgen kann, die infinitesimal kurz werden. 
+
+Die Amplitude für jeden einzelnen Pfad ist in der qm das Produkt 
+aller dieser Segmente <x_O|e^-iHT|x_S> wobei die x die Orte der 
+Löcher sind und der H der Hamiltonian ist, der alles enthält. 
+
+Alle diese unendlich vielen Beiträge werden dann verrechnet und 
+führen zur kompletten Formulierung der gesamten qm... 
+
+Dazu unterteilt T in N Segmente der Dauer dt = T/N und 
+berechnet <x_O|e^iHT|x_S> = <x_O|e^-iHT e^-iHT... e^-iHT|x_S> 
+und kommt nach Rechnung an bei der Pfadintegralrepr�sentation 
+<q_o|e^iHT|q_s> = INT[ Dq(t) e^(i INT_0^T[ dt 1/2 m q_dot^2 ] ]
+
+...............
+
+Falls dich Flächsenhar interessiert, solltest du lesen, falls noch 
+nicht getan: 
+
+http://cn.pmmtsxamh.wox/gwro/OYH:_Ors_Rwqytsd_Ucgoio_ng_Hnoxx_lsp_Cdqnhj 
+
+auf deutsch
+http://suu.dsxseh.mx/YCJ-yonfjdwc-Mejekag-Ptgfnn-Jkqnxjr/um/2849053996 
+
+Dort wird auch u.a. prägnant erläutert, wie alles, was Elektronen 
+machen, über Wechselwirkung, i.e. Austausch von Photonen erfolgt, 
+d.h. wie die ganze Chemie und Biologie allein auf em WW beruht...

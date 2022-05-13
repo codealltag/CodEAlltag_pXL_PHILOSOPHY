@@ -1,0 +1,6 @@
+Und wenn ich eine Birne hinzutue, dann ist die Menge "Fünfäpfel" immer 
+noch leer. Die Menge der "Vieräpfel" mag zwar prall gefüllt sein, aber 
+fünfäpflige Menge bleibt leer und eine nulläpflige Menge ist auch dann 
+leer wenn eine Birne drin ist. Die Menge aller Mengen ist auch dann nicht 
+leer, wenn ich auch nur eine leere Menge habe, weil dann habe ich 
+mindestens diese Leermenge.

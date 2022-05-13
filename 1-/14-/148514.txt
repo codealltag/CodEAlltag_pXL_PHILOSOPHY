@@ -1,0 +1,22 @@
+Sei Mann + Frau = Paar
+ Addition von 4Mann ergibt:
+ 5Mann + Frau = 4Mann + Paar
+ Subtraktion von 5c liefert:
+ 5Mann + Frau - 5Paar = 4Mann - 4Paar
+ Addition von 4Frau führt zu:
+ 5Mann + 5Frau - 5Paar = 4Mann + 4Frau - 4Paar
+
+
+Wie man hier schon erkennen kann ergibt beides Null
+
+
+ Nur noch schnell ausklammern:
+ 5 (Mann + Frau - Paar) = 4 (Mann + Frau - Paar)
+ und man sieht  in dem man die Definition wegfallen lässt:
+ 5 = 4
+
+
+Es ist halt alles eine Frage der Definition.
+
+Gruss
+Sebastian

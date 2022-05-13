@@ -1,0 +1,74 @@
+Hi ijla@axnzvkk.kw:
+
+Gegeben:
+Berchnungen n-abhängig
+C0(n),C1(n)....Cp(n)
+Berechnung Cp(n) sei z.b. Wirkung der q'ten TM auf n
+Auflistung ist berechenbar.
+So ist liefert ein einziges C (wird durch Wirkung einer TM auf Zahlenpaar
+p,n, erreicht)
+Cp, wenn p Input. Genauer: C wird auf Zahlenpaar p,n (somit p mit
+nachfolgenden n)
+angewendet, ergibt Cp(n)
+Def. von A:
+Berechnung, die wenn p,n, vorgelegt, zeigt, dass Cp(n) nicht anhält.
+A sei jede korrekte Menge von Rechenregeln.
+Berechnung die A durchführt und von p,n abhängt sei A(p,n)
+(a) A(p,n)  STOP----> Cp(n) ~STOP
+Diagonal: q = n
+(b) A(n,n)  STOP----> Cn(n) ~STOP
+A(n,n) hängt von !einer! Zahl n ab.
+Somit: muss A(n,n) eine der Berechnungen
+C1,C2,C2....
+sein (auf n angewendet) da damit alle Berech. erfasst sein sollen,
+die sich auf eine einzige natürliche Zahl n anwenden lassen.
+Sei dies
+Ck, dann
+(c) A(n,n) = Ck(n)
+Diagonal: n = k
+(d) A(k,k) = Ck(k)
+aus (b)  mit n = k folgt
+(e) Ak(k) STOP----> Ck(k) ~STOP
+
+(d) wird in (e) eingesetzt:
+(f) Ck(k) STOP----> Ck(k) ~STOP
+
+Schlussfolgerung:
+
+ Ak(k) = A
+Ck(k) = A*
+wenn Ak(k) = Ck(k)
+dann A = A*
+Da nach (e):Ak(k) STOP----> Ck(k) ~STOP
+folgt
+A STOP---->A* ~STOP)
+da
+Ak(k) = Ck(k)
+somit:
+A ~STOP
+Da A = A*
+A* ~STOP
+
+Weiters:
+
+A ~STOP
+Es gibt kein A dass durch STOP zeigt, dass A* ~STOP
+Aber:
+ A* ~STOP da:
+A = A*
+und
+A ~STOP
+
+ENDE
+
+
+Frage: Welchen Algortithmus verwendeten wir, als wir sahen, dass A*
+tatsächlich nicht endet, wenn A uns nicht zur Verfügung stehen kann? Wir
+verwenden nachweislich keinen erkennbaren Algorithmus, der uns zu 'A* ~STOP'
+führt.
+
+
+Wo ist ein Fehler?
+
+Grösse,
+Eilt Jähnicke

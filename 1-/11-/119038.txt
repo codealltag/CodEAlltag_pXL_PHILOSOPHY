@@ -1,0 +1,15 @@
+Hallo Tino!
+
+
+Uebliche Zufallsgeneratoren (Rauschen etc.) produzieren *echten*
+Zufall (jedenfalls, wenn sie auf quantenmechanischen Prinzipien
+beruhen, aber da drehen wir uns im Kreis).
+
+Und Werte aus Pseudozufallsgeneratoren sind bei genauerer Betrachtung
+(mindestens bei Kenntnis von Algorithmus und Startwert) eben nicht
+zufaellig.
+
+Vielleicht kannst Du Deine Behauptung ja mal an meinem beispiel des
+Doppelspaltes demonstrieren?
+
+Ingmar

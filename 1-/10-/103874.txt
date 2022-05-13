@@ -1,0 +1,87 @@
+Ich will aber mal versuchen, an einem _mathematischen_ Beispiel
+aufzuzeigen, wie die Methode funktioniert. (Das Beispiel ist natürlich
+recht "künstlich", es zeigt aber sehr wohl den Kern von Ziemkes Ansatz
+auf.)
+
+Angenommen, wir wollen einen "Operator" definieren, der folgende
+Eigenschaft hat:
+
+	O(x) - 1 = x    für alle x e IR.
+
+(Klar, dass man sofort s i e h t, wie dieser Operator zu definieren ist;
+wir wollen aber _methodisch_ vorgehen.)
+
+Wir nehmen also an, dass der Operator schon definiert w � r e, und die
+besagte Eigenschaft h � t t e. Wir wollen nun sehen, in welcher formalen
+BEZIEHUNG dann "dieser Operator" zu den üblichen Gleichungen der
+Arithmetik steht - daraus wollen wir dann die "Motivation" für eine
+Definition gewinnen.
+
+Also w e n n O die eben fest gelegte Eigenschaft hat, dann gilt, z.B.
+für eine beliebige Zahl a:
+
+	O(a) - 1 = a
+
+Woraus (durch Äquivalenzumformung) folgt
+
+	O(a) = a + 1.
+
+Aha - hier haben wir also die (eine) von uns gesuchte BEZIEHUNG.
+
+Wir definieren nun also ("versuchsweise")
+
+	O(x) =df  x + 1
+
+Und nun können wir leicht "überprüfen", dass das so definierte O
+tatsächlich die erwünschte Eigenschaft hat, die wir oben ausgesprochen
+hatten. Beweis: Sei a eine beliebige Zahl, dann gilt
+
+	O(a) - 1 = (a + 1) - 1 = a + (1 - 1) = a + 0 = a
+	         ^
+	     Def. von O (!)
+
+Also O(a)- 1 = a. Da a beliebig war, gilt
+
+	O(x) - 1 = x   für alle x e IR
+
+Wie zu zeigen war.
+
+------------------
+
+So "ähnlich" geht nun Ruppen vor. Es ist nun -> zu definieren; wobei für
+-> gelten SOLL:
+
+	A -> B    B
+	-----------
+	     B
+
+und nun betrachtet er ERST, in welcher formalen Beziehung DANN
+A -> B zu den anderen Formeln des Systems stehen würde.
+
+Er kommt dabei auf die Beziehung
+
+	A -> B |- ~(A & ~B)
+
+und "versucht" die Definition:
+
+	A -> B =df ~(A & ~B),
+
+die dann in der Tat auf die erwünschte Eigenschaft führt!
+
+
+Gruß,
+W.
+
+
+  "Mit einem Male begriff ich die Denkweise meines Meisters, und sie
+erschien mir recht unähnlich der eines Philosophen, der von ehernen
+Grundprinzipien ausgeht, so daß der Verstand gleichsam die
+Vorgehensweise der göttlichen Ratio übernimmt. Ich begriff, daß Ludger,
+wenn er keine Antwort hatte, sich viele verschiedene Antworten
+vorstellte. Und das verblüffte mich sehr.
+  Aber dann, wagte ich zu bemerken, seid Ihr noch weit von der Lösung
+entfernt...�
+  Wir sind ihr bereits ganz nahe, entgegnete Ludger heiter, ich weiß
+nur noch nicht welcher.�
+
+(Karsten Jödeke, Der Name der Rose)

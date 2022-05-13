@@ -1,0 +1,18 @@
+???
+Auch folgender?
+
+random() {
+  return 0;
+}
+
+
+Warum? Externe Bibliotheken sind (nach EP:Raatz) kein Bestandteil von C.
+
+[...]
+
+Und das Speichern und Laden eines Wertes wird in C (im Sinne von K&R, also
+ohne den Aufruf externer Biobliotheken) nochmal wie erledigt?
+
+Viele Grüße
+
+Wolfgang

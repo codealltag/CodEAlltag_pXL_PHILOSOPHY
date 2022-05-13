@@ -1,0 +1,110 @@
+On Thu, 10 Apr 2001 07:50:46 +0200, Willi Ellenberger
+
+Insbesondere dann, wenn einen in der "normalen" Mathematik sinnlosen
+Begriff verwendet.
+
+
+Eben. Die gibt es nicht.
+
+
+Ich wuesste nicht, was ein Intervall mit einer Folge zu tun haette.
+
+
+Nach Deiner Meinung. Die erdrueckende Mehrheit der
+Mathematikbeflissenen findet sich ohne Probleme damit ab, dass es zu
+einer rationalen Zahl keine kleinste groessere und keine groesste
+kleinere rationale Zahl gibt.
+
+
+Doch, sie laesst sich beantworten. Es gibt ihn nicht, diesen
+"kleinsten Abstand", weil es eben keine "kleinste Zahl >0" gibt.
+
+
+Ich glaube, Du meinst etwas woellig anderes, wenn Du "Inkonsistenz"
+sagst. Inkonsistenz bedeutet so viel wie "innere
+Widerspruechlichkeit". Ich kann in der Theorie nichts endecken, was
+die Existenz einer kleinsten Zahl >0 _erfordert_ und daher kann ich
+auch keinem Aspekt entdecken, mit dem die Nichtexistenz inkonsistent
+waere.
+
+
+Hier verlasse ich Dich bezueglich dieses Themas. Ueber "Groessen", die
+vorhanden sind, mit denen ich aber nicht umgehen kann, weil ich sie
+nicht "benennen" kann, moechte ich nicht nachdenken.
+
+
+Ich erwarte ueberhaupt keine konstruktive Definition. Mit reicht
+irgendeine Definition - allerdings in der Sprache meiner Mathematik,
+in der es keine kleinste Zahl >0 gibt.
+
+
+Bitte aus _welchen_ Aussagen welcher Mengenlehre ?
+
+
+Nein. Es enthaelt nicht eine einzige isolierte Zahl. Eine Zahl d aus D
+heisst "isoliert in D", wenn es eine Zahl eps>0 gibt, zu der es
+_keine_ von d verschiedene Zahl aus D mit einem Abstand <eps von d
+gibt, wenn es also ein Intervall [d-eps,d+eps] gibt, das ausser d
+keine andere Zahl aus D enthaelt. Beim Cantorschen Diskontinuum D
+enthaelt jedes Intervall um jedes d aus D mindestens eine von d
+verschiedene Zahl aus D und damit unendlich viele Zahlen aus D. Jedes
+dieser Intervalle enthaelt auch unendlich viele Zahlen, die nicht in D
+liegen.
+
+Was Du vielleicht meinst, ist, dass es kein _Intervall_ gibt, das
+ausschliesslich aus Elementen aus D besteht. So etwas nennt man "total
+zusammenhanglos" (totally disconnected), aber deswegen muss keiner der
+Punkte "isoliert" in der Gegend herumstehen. \Q ist auch als Teilmenge
+von \R total zusammenhanglos und enthaelt ebenfalls keinen isolierten
+Punkt.
+
+
+Ich glaube, Du willst C doch als Menge von Zahlen aufgefasst wissen,
+Du willst nur darauf hinweisen, dass C aus Intervallen zusammengesetzt
+ist.
+
+
+Doch. Es enthaelt nur solche. C  ist eine Vereinigung von abzaehlbar
+vielen paarweise disjunkten offenen Intervallen. Denn so ist es
+definiert. C ist die Vereinigung derjenigen abzaehlbar vielen offenen
+paarweise disjunkten Intervalle, die insgesamt aus [0,1] entfernt
+wurden und D ist das Komplement dieser Vereinigung. Wenn Du D anderes
+definiert haben solltest, kannst Du anhand der ueblichen Rechenregeln
+bez. Komplement, Vereinigung und Druchschnitt leicht nachpruefen, dass
+meine Definition dazu aequivalent ist.
+
+
+Wieso das ?
+
+
+Zu diesem Satz kann ich nicht Stellung nehmen, da ich nicht weiss, was
+benachbarte Zahlen sind.
+
+
+Das hatte ich zwar nicht gefordert, aber bitte...
+
+
+Bitte gern. Nichts einzuwenden.
+
+
+Natuerlich kann man das aus der bestehenden Abbildung konstruierte (a)
+hinzufuegen, indem man z.B. f(1)=(a) definiert und die bisherigen f(i)
+eine Stelle heraufrutschen laesst.
+Die Menge der bisherigen f(i) zuzueglich (a) ist dann wieder
+abzaehlbar.
+Aber damit kommen doch jetzt nicht _alle_ unendlichen Folgen als
+Bilder von natuerlichen Zahlen vor. Ich koennte jetzt wieder eine
+Folge konstruieren, die bisher nicht vorkommt.
+
+Ich fasse zusammen. Es wurde gezeigt, dass es bei _jeder_ Abbildung
+von N in die Menge der unendlichen 0-1-Folgen _mindestens_ _eine_
+0-1-Folge gibt, die _nicht_ als Bild vorkommt. Korrekt ?
+Also gibt es _keine_ Abbildung von N in die Menge der unendlichen
+0-1-Folgen, bei der _alle_ unendlichen 0-1-Folgen als Bild vorkommen.
+Ist diese Schlussfolgerung aus dem vorigen Satz korrekt ?
+
+Genau das bedeutet "die Menge der unendlichen 0-1-Folgen ist nicht
+abzaehlbar".
+
+MfG
+Christof

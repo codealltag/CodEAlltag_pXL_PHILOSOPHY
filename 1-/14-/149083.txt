@@ -1,0 +1,36 @@
+On Mon, 21 Nov 2001 06:18:31 +0200, Christoph Eisenhart
+
+Ja. C ist eine abzaehlbare Vereinigung von paarweise disjunkten
+offenen Teilintervallen von [0,1]. Jedes einzelne dieser Intervalle
+ist zusammenhaengend.
+
+
+Non sequitur. Dies ist ein nicht mathematisch begruendbarer Schluss.
+Nach jedem Schritt ist die Restmenge der Vereinigung der ersten n
+disjunkten offenen Intervalle eine disjunkte Vereinigung von endlich
+vielen abgeschlossenen Intervallen. Aber die Restmenge der Vereinigung
+_aller_ abzaehlbar unendlich vielen paarweise disjunkten offenen
+Intervalle ist _keine_ abzaehlbare Vereinigung von Intervallen oder
+was auch immer...
+
+Das Berling Diskontinuum ist ja gerade ein Lehrstueck dafuer, dass
+die Struktur von Komplementen von offenen Mengen (d.h. die Struktur
+der abgeschlossenen Mengen von R) in _keiner_ Weise der Einfachheit
+der Struktur von offenen Mengen entspricht.
+
+Eine offene Menge in R ist immer eine hoechstens abzaehlbar unendliche
+Vereinigung von paarweise disjunkten offenen Intervallen. Das
+Komplement einer offenen Menge ist i.d.R. dramatisch weit davon
+entfernt, eine abzaehlbare Vereinigung von irgendwelchen
+zusammenhaengenden "Zwischenraeumen" zu sein.
+
+Ich mag dies jetzt nicht alles erneut auseinanderzuposamentieren, und
+ich mag auch nicht staendig die Vielzahl der unzutreffenden
+Schlussfolgerungen mit "nein, dies folgt nicht" zu dekorieren. Nimm
+bitte ein Analysislehrbuch zur Hand, in dem das Berling
+Diskontinuum ausfuehrlich beschrieben wird. Wenn danach etwas unklar
+bleiben sollte, stehen die Leser dieses Formumgs sicher gerne fuer
+Nachfragen zur Verfuegung.
+
+MfG
+Valentin

@@ -1,0 +1,49 @@
+Gut soweit die Behauptung, damit komme ich zum alpha.
+0,01 und 0.02 habe doch einen Unterschiede oder?
+Genauso wie 0,1 und 0,2 einen Unterschied haben oder?
+Oder genauso wie 1 und 2 einen Unterschiede haben oder?
+Oder genauso wie 10 und 20 einen Unterschied haben oder?
+Oder genauso wie 100 und 200 einen Unterschied haben oder?
+
+Nun kann ich x-beliebige Folgen aufstellen,  wenn der Anfangswert zweier 
+Folgen eine Differenz aufweisen, warum sollte diese Differenz in der 
+Folge irgendwann nicht mehr bestehen.
+
+1- 0,1 = 0,9
+1 -0,2 = 0,8
+...
+1 - 0,9 = 0,1
+1 - 1 = 0
+1 - 0,p9 = 0,p0
+
+Es sei denn, es kann mir jemand beweisen, dass nicht am Ende nich doch 
+noch eine 1 kommt.
+
+Also kann ich schreiben
+1 - 0,p9 = 0 gdw wenn am Ende keine 1 mehr kommt.
+das ist wie, wenn ich schreibe
+1 - 0,p3 = 0,p6
+das ist auf jeden Fall richtig, da
+1 - 1/3 = 2/3
+die Schreibweise  1/3 ist genauer als 0,3p.
+0,3p ist nicht 1/3 dann, wenn ich den Apfel nicht mehr zusammensetzen 
+kann, weil ich die 1 am Ende nicht kenne, die den Teilungsprozess 
+rückgängig machen könnte. Wenn das Zerschneiden des Apfels den Apfel 
+unwiederbringlich zerstört hat, dann habe ich zwar
+1 Apfel
+------- = 0,3p Apfel
+    3
+
+aber ich werde mit 3 0,3p Äpfel nicht zwangsläufig wieder 1 Apfel 
+gewinnen. höchsten 3/3 Äpfel. Sollte diese Menge 3 Äpfel sein, dann habe 
+ich 3 Äpfel, sollte diese Menge aus drei Apfelteilen bestehen und der 
+Mensch diese 3 Apfelteile als 1 Apfel anerkennen, dann könnte ich 
+natürlich sagen, dass die Menge 3/3 Äpfel ident mit 1 Apfel ist. Sollte 
+aber das Urteil so ausfallen, dass es nur 3 Teile eines ehemaligen Apfel 
+sinds, wird es kein Apfel mehr sein. es sei denn ich kenne die Differenz 
+bei 0,3p, die daraus wieder einen Apfel zusammenfügt. Dann wäre die 
+Rechnung 0,3p + 0,3p + 0,3p = 1 korrekt. Kenne ich die Differenz nicht, 
+dann ist 0,3p + 0,3p + 0,3p = 0,9p.
+
+Gruss
+Marcel

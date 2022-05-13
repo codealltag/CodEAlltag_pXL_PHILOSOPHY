@@ -1,0 +1,38 @@
+Dade II, Tridi de Prairial de l'Anne 205 de la Rövolution
+
+
+Und das eben ist der fundamentale Irrtum von Taggeselle. Falsifizierbarkeit
+
+ist keine logisch feststellbare Eigenschaft einer Theorie, da es keine
+logische Äquivalenz zwischen theoretischen und empirischen Größen
+geben kann. Die Falsifizierbarkeit ist keine Voraussetzung, sondern
+eine (historische) Konsequenz aus dem empirischen Gehalt, der einer
+Theorie zukommt. Erst in dem Moment, wo das System aus Formalismus,
+Interpretation des Formalismus in empirischen Kategorien und
+empirischer Praxis bei der Entstehung einer Theorie soweit fixiert
+ist, dass die Interpretation für die beteiligten Wissenschaftler
+transparent wird, gewinnt das System den Anschein, dass der
+Formalismus direkt die Deduktion von Aussagen über die Empirie
+erlaubt, die dann falsifizierbar sind. Diese Fixierung tritt aber erst
+dann ein, wenn in der Praxis kaum noch relevante Fälle auftreten, die
+das System falsifizieren könnten (wobei die Bedeutung von "kaum noch"
+und "relevant" zwischen den beteiligten Wissenschaftlern ausgehandelt
+wird). Sobald aus irgendwelchen Gründen nun relvante "Falsifikationen"
+auftreten, wird die Interpretationsarbeit wieder sichtbar, und der
+Schluss vom Formalismus auf die Empirie hört auf, eine logische
+Deduktion zu sein, deren Widerlegung Aussagen über den Formalismus
+machen könnte. In der Folge muss die Geltung des ganzen Systems
+Formalismus/Interpretation/Praxis neu ausgehandelt werden, was auf die
+Modifikation oder den Austausch einzelner oder aller Teile
+hinausläuft, nicht aber auf eine plumpe Falsifikation der Theorie.
+
+
+Nicht nur die Falsifikationen, sondern auch die Falsifizierbarkeit
+selbst ist Moment eines historischen Prozesses.
+
+Tschüss, Michael.
+-- 
+#!/bin/sh
+for x in 0 100 200 300 400 500 600 700 800 900; do
+for y in 0 100 200 300 400 500 600; do xeyes -geometry 100x100+$x+$y &
+done; done

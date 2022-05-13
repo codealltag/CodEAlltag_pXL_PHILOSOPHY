@@ -1,0 +1,49 @@
+Am 24.04.98, 10:19:28, schrieb giwvc@zbzf0.exaao.je.tv (Evgenij=20
+Barsukov) zum Thema Re: Seele:
+
+
+Pasquale Monnerjahn <gfgobdlbd@llp.wc>:
+
+[snip]
+
+
+dritten
+gefunden.
+programiert
+Antwort
+
+Nein. Ein randomisierter Algorithmus hat ja auch nur einen Versuch und=20
+wenn der schief geht... Läßt Du jedoch zu, daß der Algorithmus=20
+mehrfach durchlaufen wird, dann bist Du bei einer deterministischen=20
+Simulation.
+
+gleich
+
+Ein nichtdeterministischer Algorithmus ist nichts was man bauen=20
+könnte, es ist ein rein theoretisches Konzept. Es besagt, daß an=20
+bestimmten Stellen nichtdeterministsisch verzweigt wird, es besteht=20
+jedoch keine Zufallswahl. Ein solcher Algorithmus löst ein Problem=20
+dann, wenn es (mindestens) EINE Folge von nichtdeterministischen=20
+Verzweigungen GIBT, die zu einer optimalen Lösung führt. Bei=20
+randomisierten Algorithmen wird eine zufällige Wahl getroffen und das =
+
+Problem gilt als gelöst, wenn mehr als die Hälfte aller Sequenzen zu=
+m=20
+Optimum führen.
+
+[snip]
+
+schneller =3D
+nicht =3D
+
+
+Wieso? Ist es denn ausgeschloßen, daß zufällig (!) immer "R" gezog=
+en=20
+wird?=20
+
+MfG
+Pasquale
+--
+Pasquale Monnerjahn
+	keep things simple. as simple as possible. but no simpler=20
+	(V. Jannasch)

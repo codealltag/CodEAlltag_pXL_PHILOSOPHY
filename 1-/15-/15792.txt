@@ -1,0 +1,37 @@
+Nun, wir hatten das Thema Modallogik ja bereits mehrfach hier in der
+Diskussion. Collbrunn et.al. argumentieren erst einmal mit einer Äquivalenz
+zu einer hinreichend grossen Teilmenge der Prädikatenlogik erster
+Ordnung. Wie man diese Argumentation auf Relevanzlogik ausweitet, ist
+nicht schwierig, kann man Relevanzlogik doch als Prädikatenlogik
+betrachten, nur benutzt man eine andere "Sorte" Implikation.
+
+Aber für Modallogik muss man sich dann schon ein anderes Kalkül suchen.
+Das geht aber analog zur Spezialisierung der Relationenalgebra aus der
+boolschen Algebra. Auch für mehrwertige und nicht-diskrete Logiken lässt
+sich jeweils ein passendes Kalkül finden.
+
+Das ist ja altbekannt, ich wollte nur mal drauf hinweisen. Es ist aber
+keinesfalls selbstverständlich. Einen solchen Hinweis sollte ich IMHO
+eben schon bringen, wenn ich mit (Formal-)Logiken als (formale) Sprachen
+hantiere, und Sprachen eben wie gesagt im Sinne der Informatik meine.
+
+
+Klar.
+
+
+Da wäre ich für etwas Aufklärung dankbar: ich bin ja im Wesentlichen
+Prädikatenlogik und etwas Relevanzlogik gewohnt. Warum das ein Vorteil
+ist, und wann genau, wenn die Logik intensional ist, sehe ich noch
+nicht.
+
+Als von der Mathematik Geprägter modelliere ich unter Benutzung von
+Prädikatenlogik, und das funktioniert gut.
+
+
+Naja, ein Bisschen anders schon.
+
+Viele Grüsse,
+VB.
+-- 
+Wenn Du für eine Leistung nichts bezahlst,
+bist Du nicht der Kunde, sondern die Ware.

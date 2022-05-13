@@ -1,0 +1,31 @@
+Um Informationen empfangen und senden zu können brauchen wir ein
+ Kommunikationsweg, einen Sender und einen Empfänger.
+
+ Versuchen wir zu definieren:
+ a) wo fängt eine Information an,
+ b) wie etwas zu einer Information wird, 
+ c) wo ist das Ende einer Information.
+
+ Es gibt Empfängern die den ersten Satz in diesem Postting als eine
+ Information betrachten werden, und es gibt jene, die es nicht nicht als 
+ eine Information betrachten.
+ Folgende Aussagen sind also nicht allgemeingültig:
+ "Der erste Satz ist eine Information."
+ "Das erste Satz ist keine Information."
+
+  a)  Nachricht wird übertragen und kommt zum Empfänger.
+      Empfänger analysiert ob die Nachricht für ihn einen Wert hat,
+
+  b)  falls ja, wird sie um eine Information umgewandelt!
+
+  c)  Solange die Umwandlung einer Nachricht in eine Information dauert,
+      gibt es Information, nachher sind das nur noch Daten, die wieder
+      zur Nachricht für einen Empfänger werden können und somit auch
+      wieder zu einer Information.
+
+ Was wir hier haben ist eine endlose Schleife.
+
+ PS: Beitrag aus der Sicht eines Informatikers.
+
+ MfG
+ Ingensandt

@@ -1,0 +1,35 @@
+Nein. Eine Welle, sagen wir E(x,t) = sin( x/ \lambda - \nu t) stellt ein
+"ewiges" Muster in der Raum-Zeit dar, eine Geschwindigkeit ist  da nirgends
+erkennbar. Wenn sich allerdings ein am Punkt (t,x)=0 startender Beobachter auf
+einen Knoten der Welle sin( x(tau)/lambda - nu t(tau)  ) = 0 setzt, hat er eine
+gewisse 3-d Geschwindigkeit, nämlich  dx(tau)/dt(tau)= lambda nu = c.
+Fälschlich schreibt er seine Geschwindigkeit der Welle zu. Das passt aber sehr
+gut zur allgemeinen Vorgehensweise der Phyiker, aktive und passive
+Transformationen nicht auseinander halten zu können. Ebenso schreibt er die
+zeitliche Veränderung auf der Zeitgeraden x=0 einer Frequenz nu der Welle zu,
+obwohl diese zeitliche Veränderung ein Effekt seiner eigenen Bewegung in
+Zeitrichtung ist.
+
+Die Charakteristiken  x=+-ct des Symbols sigma = (ct)^2  xi_0^2 - x^2  \vec
+xi^2 eines hyperbolischen Differentialoperators (quadratische Form aus der
+Fouiertranformation) sind unmittelbarer Ausdruck der zugrundliegenden
+Geometrie, dazu bedarf es keiner Messung von Lichtsignalen, es reicht das
+Interferenzexperiment von Iloge.
+
+
+Nein. Die reale Geschwindigkeit von Licht ergibt sich aus der
+Ausbreitungsgeschwindigkeit von Wellenpaketen und die stimmt nur in der
+3,1-dimensionalen Raumzeit so einfach mit der 1,1-dimensionalen Vorstellung
+überein, weil hier das Licht einer momentan blitzenden Punktlichtquelle auf dem
+Lichtkegel konzentriert ist, sodass die Charakteristiken der Geometrie zugleich
+die Signalbahnen sind. Der ganze Uhrensynchronisationszirkus ist angesichts der
+Tatsache, dass Physiker sowieso nach Bedarf die Koordinaten wechseln, ein
+bisschen überbetont und soll die RT auf die Mechanik anwendbar machen. Das geht
+aber auch ohne Uhren,  Beobachter und Inertialsysteme. Primär sind die
+elektromagnetischen Felder. Aus ihren Eigenschaften folgen alle Eigenchaften
+geladener Punktteilchen, das wir diese mit "Licht" beobachten und ihre
+Wechselwirkung vom em-Feld vermittelt wird.
+
+--
+
+Kai Krumstroh

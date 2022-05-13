@@ -1,0 +1,125 @@
+Die Frage muss lauten: "was wuerde der andere sagen, welches der
+richtige Weg ist?"
+
+Wenn es eine Y-Gabelung ist, ist die Sache doch eindeutig!
+<
+
+Es ist eine Y-Gabelung und die Sache ist eindeutig,  dennoch würde deine
+Lösung, die der handelsüblichen entspricht, nur zufällig lösen ;-)
+
+Käme die Touristin wiederholt an eine solche Abzweigung, mit den beiden
+Männern, und verfahre nach deiner Lösung, so käme sie in 2/3 aller Fälle
+tatsächlich nach Leuchau, wenn genau ein Weg dorthin führt, und dieser jedesmal
+gleich verteilt ist.   Denn ein Y ist grafisch gesprochen ein Knoten der
+Ordnung drei, das siehst du schon wenn du nur das    Y     anschaust, von der
+Mitte gehen drei Striche weg, und alle drei Personen in dem Rätsel stehen
+_exakt_ an diesem Punkt - in der Mitte ! 
+
+(in der graphentheorie werden die striche/ kurven, als kanten und der punkt wo
+sie sich treffen als knoten bezeichnet, treffen sich also 5 kanten in einem
+punkt so wird dieser als Knoten der ordnung fünf bezeichnet, ordnung5 wohl
+eben deswegen weil es 5 verschiedene möglichkeiten gibt, von diesem knoten
+fortzufahren, man kann es sich auch als eine verdrahtung vorstellen in welcher
+strom fließen soll) 
+
+Die Unmöglichkeit nun aber eine Abzweigung mit nur zwei Wegen zu zeichnen, auch
+eine T -Gabelung hat im Berührungspunkt drei Strecken, ist also ebso ein Knoten
+der Ordnung drei, sollte schon zur Vorsicht mahnen,  - tut es aber nicht, weil
+man einfach blind dem Erzähler abnimmt was er suggeriert, nämlich es gäbe eine
+Abzweigung, (die im Rätsel) an der es tatsächlich nur zwei Möglichkeiten gibt
+weiterzulaufen. DAS aber ist offensichtlich objektiv falsch, da es kein Objekt
+namens _Abzweigung_ der Ordnung zwei gibt. Diese Darstellung wurde ja auch
+nicht zufällig in einer Diskussion um Objektivität geführt ;-)
+
+Es ist eine konstruierte Geschichte, das ist wahr, aber man darf sich schon
+fragen: kann es so etwas überhaupt geben ?   man kann, d.h. nicht das es etwa
+auch getan wird, aber gerade bei konstruierten Geschichten sollte man schon
+kritisch verfahren. 
+
+Und was könnte wohl den Lügner daran hindern, die Touristin auf dem Wege
+zurückzuschicken auf dem sie gekommen ist ?  Der Lügner hat nichts anderes zu
+tun als zu lägen !  Selbst der Wahrheitsfanatiker könnte dazu genötigt sein,
+eben in dem Fall wo es einfach so ist, die Touristin hat sich schlicht
+verlaufen. Wenn es aber drei Wege/Möglichkeiten sind, hat der Lügner zwei zur
+Auswahl, und der Wahrheitsfanatiker kann unmöglich wissen welche der Lügner
+gewählt hat. Umgekehrt gibt es genau einen Weg, der richtig ist, den muß der
+Wahrheitsfanatiker angeben wenn er direkt gefragt wird, aber das kann der
+Lügner exakt wissen, da man doch davon ausgeht das die beiden Männer auch den
+richtigen Weg kennen,- sonst kein Rätsel.
+
+Ist das Rätsel also unlösbar ? mitnichten, die Frage muß nur anders gestellt
+werden !  Es gibt eine Frage, die sowohl für den unrealistischen Fall, daß es
+_nur_zwei Möglichkeiten an einer Abzweigung zum weiterwandern gibt, ebenso löst
+wie den Fall, daß es beliebig viele Möglichkeiten des Fortkommens an einer
+gegebenen Kreuzung gibt. (Die anderen Prämissen bleiben wie gehabt, auch die
+unausgesprochenen) Diese Frage stellt also eine Lösung dar, die mehr Fälle
+abdeckt, gewissermaßen universell ist, - somit objektiver. Was ich seinerzeit
+Fredy versucht habe verständlich zu machen, ohne großen Erfolg freilich, aber
+es ist ja auch eine Sache der Einsicht die man haben kann oder auch nicht.
+
+Um vielleicht sogleich ein Argument zu entkräften das evtl. erwidert werden
+könnte, ... eine Abzweigung habe nur zwei Wege, den auf dem man sich befindet,
+und der welcher abzweigt....  ändert nichts an der Tatsache das drei
+Möglichkeiten des weiterlaufen bestehen bleiben. Man kann den Weg zurück,
+weiter oder abzweigend verfolgen, das sind drei nicht zwei Möglichkeiten.
+Grundsätzlich kann man _einen_ Weg in _zwei_ Richtungen begehen  ;-)
+
+Natuerlich wuerde der Luegner den Trick erraten, wenn er schlau
+ist, und ausnahmsweise die Wahrheit sagen.
+<
+Das verstehe nun ich zur Abwechslung nicht ;-)  welchen Trick ?  es geht
+hierbei nicht um Tricks, aber sehrwohl um objektives erkennen, nämlich einer
+Abzweigung. Das meint, eine Abzweigung zu erkennen _wie sie ist_ unabhängig von
+Geschichten, Konstruktionen und deren Erzähler, - schlicht objektiv. (das was
+einer Abzweigung eigen ist, ohne jeden Betrachter...  Objektivität ist in einem
+Sinne, exakt das was man sieht wenn man die Augen nicht aufmacht, aber
+aufmachen könnte und dabei sehen)
+
+Nein, ich habe sogar ein Programm geschrieben, das zu simulieren.
+Ich versteh's immer noch nicht. Aber ich bin in guter
+Gesellschaft! Es ist jedoch bezeichnend, dass Du nur Probleme
+bringst, die ich unter anderem Namen schon kenne. Es gibt demnach
+zum Glueck nicht so viele.
+Gruss Urban
+<
+
+Vielleicht hilft dir folgendes Argument, zum Verständnis des Ziegenproblems ?
+Wenn du aus einer Grundmenge von nicht nur drei Türen, sondern Einhundert eine
+auswählst, wie groß ist dann deine Chance den Hauptgewinn auf Anhieb getroffen
+zu haben ? - es gibt nach wie vor nur einen solchen !
+
+Nun macht der Moderator 98 Türen auf, alles Nieten mit meckernden Ziegen drin.
+Jetzt gibt es noch deine gewählte, verschlossene Türe und eine zweite
+verschlossene, kämest du dir jetzt nicht dumm vor bei deiner zuerst gewählten
+Türe zu bleiben wenn der Moderator nun fragt: wollen sie wechseln oder bei
+ihrer ersten Wahl bleiben ?
+
+In der Tat war genau DAS mein zweiter Gedanke, als ich zum ersten mal vom
+Ziegenproblem hörte, mein erster war nämlich auch - das ist doch so was von
+Wurscht ;-)
+
+Ist _das_ aber was ich mit den Hundert Türen zeigen wollte richtig, so ergibt
+sich sofort ein dritter Gedanke, nämlich, je größer die Grundmenge der Türen
+ist, aus der man seine erste Wahl trifft, um so sicherer, wahrscheinlicher,
+wird man durch das wechseln den Hauptpreis gewinnen. Dieses genau, habe ich
+dann seinerzeit auch in ein Prog. umgesetzt und bekam es natürlich auch prompt
+bestätigt, weil es ja auch nicht anders sein kann.
+
+Was -ich- aber nun wieder nicht verstehe, wenn dir die beiden Probleme doch
+unter anderem Namen bekannt sind, (würde mich interessieren wie sie bei dir
+heißen) dann hättest du sie doch auch angeben können. Ich habe diese beiden ja
+nur empfohlen weil du schriebst: ich kann aber kein Beispiel dazu angeben... 
+Ist dir evtl. die Signifikanz der Probleme entgangen ? - meine, sie sind
+durchaus Erkenntnisprobleme, oder doch nur Interpretationsprobleme ?  Aber ist
+nicht Erkenntnis, Interpretation ?  ... richtig, interpretieren kann man
+verschieden, erkennen nur gleiches, aber hast du nicht etwa Anderes in den
+Rätseln erkannt wie ich ? und muß nicht in der Erkenntnis etwas erkannt werden
+- nämlich richtig ?
+
+Wie dem auch sei...
+mfg   fredy
+
+
+Die Schwierigkeit beim Sehen hinter das Licht liegt im Erkennen wo bei einer
+Kerze hinten ist, - nicht so sehr in der Blendung.
+F.E.

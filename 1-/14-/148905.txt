@@ -1,0 +1,18 @@
+0,p9 ist 1. Und eine Zahl größer als Null kann offensichtlich
+nicht gleich Null sein, denn dann wäre sie nicht größer...
+
+a > b => a != b   (oder bezweifelst Du das auch?)
+
+Du behauptest a = 0 = b und daraus würde folgen: 0 != 0
+(a = "kleinste reelle Zahl größer Null")
+
+Davon abgesehen: es gibt diese kleinste reelle Zahl grösser Null
+nicht, denn zwischen ihr und der Null sind immer noch unendlich
+viele reelle Zahlen...
+
+a > b => a > (a+b)/2 > b
+
+-- 
+"I'm working on it."  <http://rdl.zujegl.ox-srmbos.mg/>
+
+1997: U.S.Congress abolished Free Speech by replacing First Amendment with DMCA.

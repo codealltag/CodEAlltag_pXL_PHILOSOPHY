@@ -1,0 +1,42 @@
+Hallo Abdul
+
+[...]
+O.K.
+Ich erlaube Dir so viele Hinweise wie Du möchtest, da bin ich großzügig. 
+Von mir aus kannst Du mir jede Zeile der Deduktion auseinander fieseln, 
+denn durch Wiederholung lernt man und es ist immer interessant es noch 
+einmal aus einem anderen Mund zuhören, zumal ich es noch aus keinem 
+Munde bisher hörte. Aber ich dachte Du hast vielleicht noch 
+interessanteres zu tun als Dinge, die für Dich ein alter Hut sind, zu 
+erklären.
+Lutz Haderer, Einstieg in die formale Logik
+Deshalb versucht man wohl auch Wahrheit und nicht Falschheit zu
+konservieren?
+
+[...]
+
+
+(p & ~q) v (~p & q), ~p |- q
+1    (1)  (p & ~q) v (~p & q)           Annahme (A)
+2    (2)  ~p                            A
+3    (3)  (p & ~q)                      1,A
+3    (4)  p                             3,Simplifikation (S)
+2,3  (5)  ~p & p                        2,4,Konjunktion (K)
+2    (6)  ~(p & ~p)                     3,5,6,Reductio ad absurdum (RAA)
+4    (7)  ~q                            A
+3,4  (8)  p & ~q                        4,8,K
+2,3,4(9)  (p & ~q) & ~(p & ~q)          6,8,K
+2,3  (10) ~~q                           7,9,RAA
+2,3  (11) q                             10,Doppelte Negation (DN)
+5    (12) ~p & q                        1,A
+5    (13) q                             12,S
+1,2  (14) q                             oder-Elimination
+
+Ich dachte, dass mit Zeile sechs die Annahme aus Zeile drei verschwindet 
+und konnte nicht so ganz verstehen, wie die Annahme wegfallen kann, man 
+aber noch eine Deduktion, die sich auf diese Annahme stützt, benutzen kann.
+Tatsächlich wird es wohl so sein, dass die Annahme drei erst durch Zeile 
+14 weg fällt?
+
+Sonnige Größe aus Sonvico
+Fernando

@@ -1,0 +1,36 @@
+Otona hat auch einen math. Hintergrund, deine Interpretation
+nicht.
+
+[Ein Zitat]
+
+Das Wettrennen zwischen Archilles und der Schildkröte ist nicht das
+Paradoxon, das ich vorgestellt habe, Philippe hat eine ganze Reihe von
+derartigen Gedankenexperimenten ersonnen. Aber selbst beim
+Achilles-Paradoxon ist obige Interpretation eher abwegig, denn die
+Annahme, das der Vorsprung /konstant/ bleibt, ist nur dann möglich,
+wenn sich sowohl Fredi wie die Schildkröte mit derselben
+Geschwindigkeit bewegen, eine implizite Voraussetzung (ansonsten ist
+die Geschichte nicht 'mal ansatzweise paradox) ist aber, dass Fredi
+schneller als das Kriechtier ist. Außerdem möchte ich eine
+Rekonstruktion des ursprünglichen Arguments, das als Konklusion die
+Aussage beinhaltet, dass Bewegung unmöglich ist; das hast du bisher
+nicht geliefert.
+
+
+Schildkröten können sich nicht mit Lichtgeschwindigkeit bewegen. Das
+Problem, wie man nichtzirkulär eine Zeitmetrik definieren kann, ist
+tatsächlich recht interessant, trägt aber nichts zur Klärung /dieses/
+Problems bei.
+
+
+Wie kommst du auf diesen abstrusen Gedanken? Offenbar sind die
+Aussagen "1=1" und "sum[k=0..oo] 1/2^k=2" verschieden. Der Beweis von
+letzerer Aussage ist zwar Erstsemesterstoff, verlang aber schon ein
+wenig Mathematik. Du kannst dich am Beweis der etwas verallgemeinerten
+Aussage ja 'mal versuchen:
+
+Sei p in R mit |p|<1. Dann konvergiert sum[k=0..oo] p^k  und es gilt
+sum[k=0..oo] p^k=1/(1-p).
+
+
+ingmar

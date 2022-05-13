@@ -1,0 +1,39 @@
+On 30 Apr 2000 19:43:54 +0200, Ivan Werns
+
+
+Es ist durch *Syntaxanalyse* erkennbar, im Gegensatz zu
+Laufzeitfehlern. Generell sollte (!) gelten, dass ein syntaktisch
+korrektes Programm (bis auf definierte Ausnahmen) auch semantisch
+korrekt ist.
+
+
+Nein,  Ein-und Ausgabe sind selbst /interpretationsabhängig/. IIRC ist
+zwischen denotationeller und operationaler Semantik zu unterscheiden,
+im ersten Fall wird einem Programm eine/die math. Funktion zugeordnet,
+die es berechnet, im zweiten Fall ein Automat o.�. Semantik geht ja
+über reine Syntax hinaus, und der Rechner kann natürlich Terme der Art
+"123" ausgeben, ob dies aber als 123 interpretiert werden kann, ist
+eine andere Frage.
+
+
+Nein.
+
+
+Ja. 
+
+
+Nach der Def. schon, und die hat tatsächlich nichts mit der Semantik
+im phil. Sinn zu tun. Nur ist deine selbst in der Informatik wohl eher
+unüblich. 
+
+
+Nein, zum einen  ist weiterhin unklar, wie die Ein-Ausgaben des
+laufenden Programms /interpretiert/ werden sollen. Zum anderen  hängt
+das Verhalten eines Programms auch von der  Hardware ab. Du musst also
+schon einen kompletten Rechner mitliefern Das widerspricht aber der
+(phil.) Forderung an eine Semantik, den /einzelnen/ Termen eine
+Bedeutung zuzuordnen. Im Sinne des DDR-Informatiklehrbuchs ist das
+natürlich korrekt ;-)
+
+
+kasimir

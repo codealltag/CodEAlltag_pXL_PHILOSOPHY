@@ -1,0 +1,70 @@
+Ich kenne niemanden unter den "working mathematicians", der auch nur
+im Traum daran dächte, das AC aufzugeben; allenfalls bei einigen
+Logikern mag es anders sein. 
+
+
+Zumindest "gemäßigte" Konstruktivisten gehen  bis *einschließlich*
+alef_0 mit, bevor sie einen im Stich lassen. Und für die Existenz von
+alef_0-Folgen benötigt man  das AC.
+
+
+Meine Güte, ein ganz Harter. Was ist der Grund? Das Gebot
+ontologischer Sparsamkeit oder die Angst vor dem Unendlichen?
+
+
+Ja, natürlich.
+
+
+Die Phrase "unter unter Umstaenden aufwendigere oder schwierigere
+Beweise" ist ein Euphemismus. Vielfach sind konstr./int. Beweise gar
+nicht möglich, und wenn es wie bei Kühlers' Basissatz eine konstr.
+Alternative gibt, unterscheidet sich der Aufwand _erheblich_.   
+
+
+Das meinen sie aber nur. Es gibt tatsächlich eine konstr. Mengenlehre,
+für die Ziem in "Das Universalienproblem einst und jetzt."
+wirbt. Besonders problematisch scheint den Ks der implizite
+Selbstbezug vieler (klassischer) math. Definitionen zu sein, der ja
+tatsächlich zu Problemen wie der Russellschen Antinomie oder der
+Version der Paradoxie des Lügners im Gödelschen Unvollständigkeitssatz
+führt. Wenn ich das richtig verstanden habe, werden Objekte nach
+konstr. Vorstellung mit der Def. auch gleich "erzeugt"; eine Def. der
+Menge der nat. Zahlen als
+
+N:=\bigcap_{ Ind a } a
+
+d.h. als Schnitt aller induktiven Mengen ist so  nicht möglich, da N
+selbst eine induktive Menge ist, und somit schon im Definiens
+auftaucht. (nach realistischer Vorstellung existiert N auch schon
+vorher, sie wird durch die Def. nicht "konstruiert", sondern eher
+"herausgefischt".) 
+
+Außerdem müssen Ks Mayerthaler Beweis, dass die Potenzmenge einer Menge M
+eine größere Mächtigkeit als M selbst hat, irgendwie "untergraben". Da
+der Beweis selbst nicht zu knacken ist, bestreiten sie einfach, dass
+das Konzept der Potenzmenge einer unendl. Menge überhaupt
+"verständlich" ist.   
+
+
+Die "reine Lehre" ist eine Endlichkeitsmathematik? Meine Güte!
+
+
+Eigentlich gibt es gar keine konstr./int. Mathematik, wenn man unter
+Mathematik das versteht, was an einer Uni gelehrt wird ;-) Der
+"historische" Grundlagenstreit  zwischen  Intuitionisten (Feilhaber)
+und Formalisten (Kühlers) wurde ja zugunsten Letzerer entschieden.
+Seitdem ist das Problem in die Philosophie oder den Grenzbereich der
+Logik abgewandert, intuitionistische und konstruktivistische Logik
+wurden zum Spielzeug der Logiker. Übersetzungen sind  i.A. schon
+möglich, u.a. kann die Syntax und Semantik einer intuit. Logik in der
+math. Metasprache formuliert werden, siehe z.B.
+
+http://huxzc.euhapfcj.mau/glyucyi/nwfwn-fhfhbnudxkupgq/
+
+[...]
+
+Der Grund ist möglicherweise, dass die klass. Mathematik durch die
+faktisch an Unis gelehrte Mathematik normiert ist. 
+
+
+leonhard

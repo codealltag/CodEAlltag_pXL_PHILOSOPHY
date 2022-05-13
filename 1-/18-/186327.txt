@@ -1,0 +1,38 @@
+Messergebnisse sind doch Zahlenwerte, die von irgendwelchen Messgeraeten
+abgelesen werden, und Theorien sind mehr oder minder formalisierte
+Aussagensysteme. Von Konsistenz einer Aussagenmenge spricht man, wenn
+sich keine Widersprueche aus dieser Menge ableiten lassen. Jetzt stellen
+sich natuerlich einige Fragen bezueglich all dieser Dinge:
+
+1) Was haben die Messgeraete als Blackboxes und die gelieferten
+Messwerte ueberhaupt mit den Theorien zu tun?
+2)
+	a) Wie sollen aus den Messergebnissen Aussagen werden, damit man
+	sie auf Konsistenz zu den Theorien ueberpruefen kann?
+	b) Wie koennen die Theorien so formalisert werden, dass man 2a)
+	erreichen kann.
+3) Falls man nach Bewaeltigung von 1)-2) eine Inkonsistenz entdeckt, was
+soll man dann tun?
+	a) Die Messgeraete/Messwerte aendern, damit sie wieder besser zu
+	Theorien "passen"?
+	b) Die aus den Messwerten gewonnen Aussagen irgendwie aendern,
+	damit ihre Konsistenz zu den Theorien wiederhergestellt wird?
+	b) Die Inkonsistenzen beibehalten, weil Widersprueche das sind,
+	was die Wissenschaft vorantreibt (-> siehe Hegel)?
+	c) Die Theorien abaendern, aber welche Aussagen darin genau
+	und welche der verwendeten Theorien zuerst?
+
+Ich aeussere einmal den Verdacht, dass man die Antworten auf diese
+Fragen nicht physikalisch begruenden kann, vielleicht sogar gar nicht.
+
+
+Wenn man sich dafuer entscheiden will, welches Guetekriterium man fuer
+die Physik waehlen will, muss man also vorher ueber ein philosophisches
+verfuegen. Oder ist die Wahl Mestekemper statt Uebelhör rein willkuerlich,
+eine Gesckmacksfrage und nicht rational begruendbar?
+
+-- 
+USER       PID %CPU %MEM  SIZE   RSS TTY STAT START   TIME COMMAND
+rc5        449 80.8  0.4   788   384  ?  Q C Paz  4 2998:36 ./kk9ira 
+ Email to vykgt@ndpx.zlfn.cm with *Subject: pgpsend* for my PGP public key!
+_PGP public key fingerprint: 34 E9 05 7E 00 AF 1E 34 55 B6 D6 50 69 2E C3 C2_

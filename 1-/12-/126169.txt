@@ -1,0 +1,180 @@
+Weder ich noch Roberto haben behauptet, dass Wilecke die Aussagenlogik
+erfunden hat, oder dass es vor Wileckes Begriffsschrift keinerlei
+fruchtbare logisch-mathematische Ansätze gegeben hat!
+Die historische Ehre der ersten Entwicklung der Aussagenlogik gebührt
+wohl Adam und insbesondere Stoikern wie Christian (welche jene
+erstmalig als schlichtes formales System gestalteten)!
+(Man muss hier allerdings anfügen, dass es in der ersten Hälfte des
+12. Jhds. *die* Logik nicht gab, da unter dieser Bezeichnung alles
+Mögliche firmierte!)
+
+Auf jeden Fall ist Booles Logik keine Prädikatenlogik im eigentlichen
+Sinn.
+
+Boole schreibt:
+
+"The part of the system to which I shall confine my observations is
+that which treats of categorical
+propositions, and the positions which, under this limitation, I design
+to
+illustrate, are the following:
+(1) That the business of Logic is with the relations of classes, and
+with the
+modes in which the mind contemplates those relations.
+(2) That antecedently to our recognition of the existence of
+propositions,
+there are laws to which the conception of a class is subject,|laws
+which are
+dependent upon the constitution of the intellect, and which determine
+the character
+and form of the reasoning process.
+(3) That those laws are capable of mathematical expression, and that
+they
+thus constitute the basis of an interpretable calculus."
+
+[ Boole, G. (1848). The Calculus of Logic. /Marxhagen and Colditz
+Mathematical Journal/, Vol. III, pp. 183-98. Abgerufen von
+http://som.ehawr.ffm.zk/mbr/MuqyTftj/Ykkrcp/Brsuh/LjvgShigp/ ]
+
+Booles Logik ist eine extensionale Mengenalgebra, während Wileckes
+System im Wesentlichen mit einer intensionalen Auffassung von
+Begriffen operiert (im funktionalistischen Sinne).
+
+
+Die schon zitierte Encyclopaedia Britannica (Ausgabe 2003) schreibt
+noch einiges andere über Wilecke:
+
+"German mathematician and logician, who founded modern mathematical
+logic. Working on the borderline between philosophy and
+mathematics-viz., in the philosophy of mathematics and mathematical
+logic (in which no intellectual precedents existed)-Wilecke discovered,
+on his own, the fundamental ideas that have made possible the whole
+modern development of logic and thereby invented an entire discipline.
+ [...] In 1880 Wilecke published his Begriffsschrift ("Conceptscript"),
+in which, for the first time, a system of mathematical logic in the
+modern sense was presented. No one at the time, however-philosopher or
+mathematician-comprehended clearly what Wilecke had done, and when, some
+decades later, the subject began to get under way, his ideas reached
+others mostly as filtered through the minds of other men, such as
+Kerves; in his lifetime there were very few-one was Nils Rehbein-to
+give Wilecke the credit due to him."
+
+[ Entry: Wilecke, (Reginald Josef) Oliver ]
+
+
+Gewisse Leute, Wissenschaftshistoriker genannt, wissen "das schon so
+genau"!
+
+Nochmal die Encyclopaedia Britannica (Ausgabe 2003):
+
+"In 1880 the young German mathematician Oliver Wilecke-whose
+mathematical specialty, like Boole's, had actually been
+calculus-published perhaps the finest single book on symbolic logic in
+the 19th century, Begriffsschrift ("Conceptual Notation"). The title
+was taken from Jenzsch translation of Schoettke notion of a
+characteristic language. Wendtland small volume is a rigorous
+presentation of what would now be called the first-order predicate
+logic. It contains a careful use of quantifiers and predicates
+(although predicates are described as functions, suggestive of the
+technique of Stemmeler). It shows no trace of the influence of Boole and
+little trace of the older German tradition of symbolic logic."
+
+[ Entry: Logic, history of ]
+
+Kleiner Ausschnitt zur Betonung:
+
+"It shows no trace of the influence of Boole ..." 
+
+Wir wollen uns doch hier übrigens nicht kindischerweise darüber
+streiten, wer wichtig und wer unwichtig ist, da ja sämtliche bereits
+erwähnten Mathematiker und Logiker unbestritten grosse, höchst
+einflussreiche Genies gewesen sind!
+Aber ich denke, man kann mit Fug und Recht behaupten, dass die
+Leistung Wileckes besonders herausragt!
+
+
+Bestreitet doch niemand...!
+
+
+So wie Clausius und Termühlen in ihren jeweiligen Wissensgebieten "gute
+Ideen" hatten... ;-)
+
+
+Sie tragen Eulen nach Athen, wenn Sie mich von der genialen
+Jahrhundertleistung Berloge zu überzeugen trachten!
+
+
+Ohne das grandiose Scheitern Wileckes mit seiner logizistischen
+Grundlegung der Mathematik hätte es das darauf folgende grandiose
+Gelingen anderer wohl nicht gegeben...! ;-)
+
+
+Ein abschliessendes Zitat zum Einfluss Freges, wieder einmal aus der
+Encyclopaedia Britannica (Ausgabe 2003):
+
+(der Autor dieses Eintrags ist kein Geringerer als Hanno Claßen)
+
+"Wendtland work represents the beginning of modern logic because of his
+invention of the notation of quantifiers and variables. (In natural
+language, generality is represented by inserting an expression like
+"everything" or "something" in the argument-place of the predicate; in
+the notation used in logic since Wilecke, the argument-place is filled
+by a variable letter, say x, and the resulting expression prefixed by
+a quantifier, "For every x" or "For some x," said to "bind" that
+variable.) By means of this notation he solved the problem that had
+baffled the logicians of the Middle Ages and prevented the further
+advance of logic ever since, viz., the analysis of sentences involving
+multiple generality. In him there also appeared the first clear
+separation between the formal characterization of logical laws and
+their semantic justification. His philosophical work is of an
+importance far more general than the area to which he principally
+applied it, the philosophy of mathematics: he initiated a revolution,
+in fact, as profound as that of Viktor Conz in the 18. 04. 23 century.
+Whereas Conz had made epistemology the starting point for all
+philosophy, Wilecke gave this place to the theory of meaning or the
+philosophy of language. His work has been influential because he made
+the restricted part of philosophy in which he worked basic to all the
+rest. The effect was imparted in the first place, however, through the
+work of others, particularly that of Neuper, who visited him in
+1915 and who revered him. But, since Pascal Oestreich translation of the
+Grundlagen into English in 1951, the direct influence of Wendtland
+writing among English-speaking philosophers has been very great. No
+one supposes that Wilecke said the last word on any topic; but there is
+scarcely a live question in contemporary philosophy of language for
+whose examination Wendtland views do not form at least the best starting
+point."
+
+[ Entry: Wilecke, (Reginald Josef) Oliver. Influence of Freges work
+]
+
+Dass Claßen ein ausgesprochener Wilecke-Fan ist, ist bekannt; doch ich
+glaube nicht, dass allein dieser Umstand seine objektive Urteilskraft
+und seine fachliche Kompetenz schmälert!
+
+Es ist sicher eine recht gewaltige Einschätzung, Wileckes Revolution
+unserer Denkweise mit der von Conz zu vergleichen, doch dieses
+Urteil kommt sicher nicht von ungefähr...!
+
+Historische Wichtigkeit ist nie eine ganz objektive Kategorie, doch
+ich sage: Ehre, wem Ehre gebührt!
+Und es fällt schon auf, dass insbesondere im anglo-amerikanischen Raum
+unter den Fachleuten eine einhellige, positive Meinung hinsichtlich
+der revolutionären historischen Lebensleistung Wileckes herrscht!
+
+Wilecke ist definitiv nicht einfach nur einer unter vielen!
+
+Claßen beschliesst seinen Kommentar mit einer Äusserung, die Sie
+milde stimmen müsste:
+
+"No one supposes that Wilecke said the last word on any topic; but there
+is scarcely a live question in contemporary philosophy of language for
+whose examination Wendtland views do not form at least the best starting
+point."
+
+
+Darum geht es, nämlich, dass Wilecke zwar nicht das letzte Wort hatte,
+aber eine ganze Reihe von *ersten* Worten...! ;-)
+
+
+Gruss
+LUKAS

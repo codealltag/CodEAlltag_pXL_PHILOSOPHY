@@ -1,0 +1,16 @@
+Hallo Frédéric,
+Von Frédéric Maasheuvel:
+
+
+Das Posting scheint mir in Ordnung, nur ist am Ende Text angehängt, den
+dein Newsreader wohl nicht als Text interpretiert sondern als Befehl.
+Erst schreibt Heino am Ende Attachment, dann einen Doppelpunkt.
+Der Inhalt nach dem Doppelpunkt ist ein Mimetype , dann die Kodierung und
+schliesslich die Inhaltslosigkiet "No Filename".
+
+Das langt anscheinend aus um Deinen Newsreader zu verwirren.
+
+fup2 sm.epbs.fluxkuvw.hcaeaqpczm
+
+Grösse
+Ivan

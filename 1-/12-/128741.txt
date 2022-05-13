@@ -1,0 +1,134 @@
+Ein analoges Beispiel: Wenn ich wissen will, ob die Aussage "in diesem
+Säckchen sind zwanzig Murmeln" wahr ist, öffne ich das Säckchen und sehe
+nach, ob wirklich zwanzig Murmeln darin sind; aber ich sehe natürlich
+nicht nach, ob sich in dem Säckchen die Tatsache, dass zwanzig Murmeln
+darin sind, befindet. Ich könnte das ganze Säckchen umstülpen und würde
+doch darin keine Spur von irgendeiner entsprechenden Tatsache finden.
+Aber: ich würde darin auch keine Spur einer Zahl zwanzig finden, oder
+gar einer Menge von Murmeln, sondern eben zwanzig Murmeln. Ich will
+damit nun /nicht/ die Existenz von Zahlen oder Mengen bestreiten,
+sondern herausstellen, dass Zahlen und Mengen in Bezug auf ihre
+Unauffindbarkeit hier stark den Tatsachen gleichen. Da es Zahlen und
+Mengen zweifellos /gibt/, kann man aus der jeweiligen Unauffindbarkeit
+(= "man wird so etwas nicht finden /können/") auch nicht deren Nicht-
+Existenz folgern. Im Gegenteil: Wenn es zutrifft, dass Zahlen und
+Tatsachen in den oben beschriebenen Fällen unauffindbar sind, dann muss
+der Satz "etwas ist eine Zahl aber es befindet sich nicht im Säckchen"
+ebenso wahr sein, wie der Satz "etwas ist eine Tatsache, aber es
+befindet sich nicht im Wohnzimmer". Wenn der letzte Satz wahr ist, muss
+es Tatsachen genauso geben, wie es Zahlen und Mengen, und sogar Murmeln
+und Hunde gibt. Schließlich wird ja behauptet, dass es /etwas gibt/, das
+diese Tatsache ist. Du könntest noch nicht einmal behaupten, über
+Tatsachen könne man nicht quantifizieren, denn das würde offensichtlich
+einen performativen Selbstwiderspruch beinhalten:
+
+(Ax)(x ist eine Tatsache -> über x kann nicht quantifiziert werden).
+
+Du könntest natürlich mein Individuationskriterium ("to be means to be
+the value of a bound variable") ablehnen, aber hast Du ein besseres?
+
+Und dass es verschiedene Seinskategorien gibt, hast Du bisher nur
+behauptet, aber nicht anderweitig gezeigt. Die Frage, die sich hier mE.
+stellt: Wo ist der theoretische Ort der Tatsachen? Wozu braucht man sie?
+Der Realismus scheint mir nicht davon abzuhängen, denn den kann man wohl
+auch so formulieren, dass er nur die Existenz einer vom Theoretisieren
+unabhängigen Welt fordert, oder die Existenz von Theorie-unabhängigen
+Dingen behauptet.
+
+
+Das "somit" bestreite ich. Ich bestreite nicht, dass man das Wort
+"Tatsache" sinnvoll gebrauchen kann, aber ich bestreite nach wie vor,
+dass es eine metaphysisch bedeutsame Klasse von Gegenständen (oder
+Nicht-Gegenständen?) herausgreift, geschweige denn, dass Aussagesätze
+als Identifikationskriterien für Tatsachen taugen.
+
+
+Ich halte das für kein überzeugendes Argument. Es ist eher ein weiteres
+Indiz dafür, dass es Tatsachen einfach nicht gibt. Was allerdings auch
+kein umwerfend starkes Argument ist :-)
+
+
+Da die Kennzeichnung als eine Abkürzung für einen quantifizierten
+Ausdruck gelesen werden kann, müssen Tatsachen von der Art sein, dass
+man über sie quantifizieren kann. Wären sie das nicht, wären Sätze der
+Form "die Tatsache, dass p" unverständlich, da ja bisher nicht erklärt
+wurde, was solche Kennzeichnungen für Nicht-Gegenstände bedeuten.
+
+
+Kann man das so verstehen, dass jeder Tatsache evtl. mehrere Aussagen
+entsprechen, die sie denotieren? Wenn es Tatsachen gäbe und Aussagen
+etwas denotieren würden, würde ich hier sofort zustimmen ;-)
+
+
+Ich habe doch gar nicht behauptet, dass Tatsachen Aussagen wären, oder?
+
+
+Genau genommen ist es auch nicht die Tatsache, dass es regnet, die einen
+nass macht, sondern das Wasser, das in Gestalt von Regentropfen vom
+Himmel fällt. Ich brauche mich also nicht auf Tatsachen zu beziehen, um
+das Nasswerden zu erklären.
+
+
+Ich bin ebenfalls ein Freund der Korrespondenztheorie, weil sie mir sehr
+klar vorkommt und in der Toenis Version zeigt, wie Wahrheit mit
+dem IMO leichter verständlichen Begriff der Erfüllung zusammenhängt.
+Aber sie impliziert nicht die Existenz oder das Bestehen oder die
+Geltung von Tatsachen, zumindest nicht bei Tendyck. Er schreibt:
+
+"Die Erfüllung ist eine Beziehung zwischen beliebigen Gegenständen und
+bestimmten Ausdrücken, genannt Aussagefunktionen. Diese Funktionen sind
+Ausdrücke wie 'x ist weiß', 'x ist größer als y' etc. Ihre formale
+Struktur ist der der Aussagen analog, jedoch können sie die sogenannten
+freien Variablen (wie 'x' und 'y' in 'x ist größer als 'y') enthalten,
+die in Aussagen nicht vorkommen können. Bei der Definition des Begriffs
+einer Aussagefunktion [...] verwenden wir [...] ein 'rekursives
+Verfahren' [...]: wir beschreiben zuerst Aussagefunktionen von der
+einfachsten Struktur [...] und geben dann die Operationen an, mit deren
+Hilfe zusammengesetzte Funktionen aus einfacheren konstruiert werden
+können. Solch eine Operation kann beispielsweise in der Bildung der
+logischen Adjunktion oder Konjunktion von zwei gegebenen Funktionen mit
+Hilfe der Wörter 'oder' oder 'und' bestehen. Eine Aussage kann nun
+einfach als eine Aussagefunktion definiert werden, die keine freien
+Variablen enthält. [...] Um eine Definition der Erfüllung zu bekommen,
+müssen wir [...] wieder ein rekursives Verfahren anwenden. Wir geben an,
+welche Gegenstände die einfachste Aussagefunktion erfüllen. Dann legen
+wir die Bedingungen fest, unter denen gegebene Gegenstände eine
+zusammengesetzte Funktion erfüllen - in der Annahme, daß wir wissen,
+welche Gegenstände die einfacheren Aussagefunktionen erfüllen, aus denen
+die zusammengesetzte Funktion konstruiert worden ist. So sagen wir
+beispielsweise, daß gegebene Zahlen die logische Adjunktion 'x ist
+größer als y oder x ist y gleich' erfüllen, wenn sie wenigstens eine der
+Funktionen 'x ist größer als Y' oder 'x ist y gleich' erfüllen. Sobald
+wir die allgemeine Definition der Erfüllung besitzen, bemerken wir, daß
+sie sich von selbst auch auf die besonderen Aussagefunktionen bezieht,
+die keine freien Variablen enthalten, das heißt: auf die Aussagen. Es
+zeigt sich, daß für eine Aussage nur zwei Fälle möglich sind: eine
+Aussage wird entweder von allen Gegenständen erfüllt oder von keinem.
+Daher kommen wir zu einer Definition der Wahrheit und Falschheit, indem
+wir einfach sagen, daß eine Aussage wahr ist, wenn sie von allen
+Gegenständen erfüllt wird, sonst falsch. (Es scheint befremdlich, daß
+wir diese umständliche Art gewählt haben, die Wahrheit einer Aussage zu
+definieren, anstatt beispielsweise zu versuchen, ein direktes rekursives
+Verfahren anzuwenden. Der Grund dafür ist, daß zusammengesetzte Aussagen
+aus einfacheren Aussagefunktionen konstruiert werden, aber nicht immer
+aus einfacheren Aussagen. Daher ist keine allgemeine rekursive Methode
+bekannt, die besonders auf Aussagen anwendbar wäre.)"
+
+["Die semantische Konzeption der Wahrheit und die Grundlagen der
+Semantik", in S.Preuhsner (Hrsg.), "Wahrheitstheorien", PASN,
+Freudenthal 1976, S.156f]
+
+Es sind also die Gegenstände (= das, worüber man quantifizieren kann),
+und nicht Tatsachen, die Sätze wahr machen (wenn man so will). Man kann
+Tendyck sogar so lesen, dass es genau eine Tatsache gibt, und zwar wenn
+man definiert:
+
+(TS) Tatsache := V,
+
+mit V als Allklasse.
+
+Das ist dann aber nichts anderes, als Dotten-Zweil GROSSE TATSACHE.
+
+
+Gruß,
+Fabian.

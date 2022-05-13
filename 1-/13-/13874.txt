@@ -1,0 +1,68 @@
+Tues.6.DEC.2011 -- Breakthrough in German Verb-Recall
+
+It is a lot easier for an AI mind-designer to change the
+beginning of an utterance than to change the ending, because
+we have more control over the start of an output than over the
+end of an output. For instance, our English-speaking AI Minds
+(in Forth and in JavaScript) have the ability to determine that
+a word is about to start with a vowel, so that the software can
+use "an" instead of "a" as an article before the utterance begins.
+In the German DeKi artificial intelligence, today we have just
+barely come up with a way to alter the ending of a German verb
+on the fly as the verb is being spoken or output to the screen.
+This AI algorithm is so new that we have just thought it up and
+we have not tried it yet, but we intuitively feel confident that
+it should work.
+
+If a German verb like "denken" (to think) is stored in auditory
+memory as the infinitive form ending typically with "en", it is
+a major problem for us to figure out how to recall that verb and
+utter it in a non-infinitive form, such as "ich denke" for "I think."
+We do not wish to store the entire present-tense paradigm for every
+German verb. We would rather haphazardly store the German verb in
+whatever form or forms it is first learned and subsequently used,
+then
+derive proper output forms on the fly from the most recent engrams
+of the verb in whatever form they may chance to be stored. Today we
+feel that we have made a major step towards achieving output control
+over German verbs in the present tense.
+
+In the English-speaking AI Minds we have used the "flex1" variable
+in the VerbPhrase module to add an "S" ending to an English verb
+being
+output in the third person singular of the present tense, such as
+in "He plays chess," which in German would be, "Er spielt Schach."
+The English AI simply accesses the basic word "play" in auditory
+memory
+and adds an "S" to it. In German, matters are more complicated,
+because
+recent engrams of the verb "spielen" (play) are not automatically
+stored as stems of the verb.
+
+We propose to shift the burden of ending German verbs properly from
+the verb-phrase ZeitWort module over to the SpeechAct output module.
+We will use the "ctu" continuation-flag in auditory memory to detect
+that a word is about to be spoken with an ending other than what
+the speech parameters call for, and we will change the ending
+on the fly in the SpeechAct module, not only so that we get the
+proper output, but so that the resulting new engram has the proper
+parameters of person and number for finding the correct form more
+easily the next time around.
+
+If the thought-generation software needs to access a verb
+like "spielen" in the first person singular but finds only an
+infinitive form ending in "EN", we actually have control over
+that final "N", because it coincides with a "ctu" value changing
+from one ("1") to zero ("0"). With the parameters of "singular"
+and "first person", we can direct that the final "N" shall simply
+be omitted, to get an output like, "ICH SPIELE SCHACH".
+This simple mechanism should work for the first person singular,
+and we may be able to refine the mechanism for slightly more
+complex situations like second and third person singular.
+
+Mentifex (Wolf)
+--
+http://cxb.uox.qxn/~bonjqxob/RcAf.zdv
+http://axwq.gciduf.gac/i/thadtzekn/ofep/DvKniv
+http://rvwr.wzdvst.moj/m/kpkkixuvi/mkzw/NlEa
+http://ssdu.ftwszh.iwz/j/sxrfepmlo/lrli/TufaPklvuy

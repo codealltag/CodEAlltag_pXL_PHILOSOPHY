@@ -1,0 +1,38 @@
+Schon einmal Farben gemischt?
+Versuch einer Definition
+Menge F enthält (Schwarz,Weiss)
+Schwarz vereinigt mit Weiss ist Grau.
+Menge F2 enthält (Schwarz,Weiss,Grau)
+Menge F ist dann also eine Teilmenge von F2
+
+In der Menge F sind nur die Aussagen schwarz oder weiss gültig
+In der Menge F2 können aber die Aussagen schwarz weiss oder grau
+g�ltigkeiterlangen.
+In der Menge F kann jegliche Rechenoperation nur zu dem Ergebniss
+schwarz oder weiss führen.
+In der Menge F2 kann das Ergebniss schwarz weiss oder grau sein.
+
+Weder die Aussagen in der Menge F noch die Aussagen in der Menge F2
+müssen deswegen falsch sein.
+Die Aussagen in der F können aber den Aussagen in der Menge F2
+wiedersprechen. 
+Wenn ich also in der Menge F nur die Aussagen schwarz und weiss zur
+Verfügung habe, dann
+ergibt sich dass eine Vermengung von Schwarz und Weiss entweder nur zu
+der Aussage Schwarz oder zu der Aussage Weiss führen kann. 
+
+schwarz*weiss=(schwarz + schwarz)*weiss=schwarz*weiss+schwar*weiss =>
+schwarz*weiss=schwarz
+
+Diese Aussage ist vollkommen korrekt, weil es in der Menge F kein grau
+gibt.
+Betrachte ich mir die Farben aber, so stellt sich heraus, dass die Farbe
+Schwarz durch die Vermengung mit Weiss kein Schwarz mehr ist, aber da
+ich nur weiss und schwarz zur verfügung habe, ist das Ergebniss eben
+schwarz. Eine solche Überlegung ist so falsch nicht, wenn ich mir
+einfach die Realität anschaue ein Tropfen Schwarz in reinstes Weiss
+ergibt immer ein Schwarz oder ein gräuliches Weiss( aber Grau habe ich
+in der Menge F ja nicht).
+
+Gruss
+Raphaël

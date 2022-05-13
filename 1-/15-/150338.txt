@@ -1,0 +1,69 @@
+Bitte ? Hier tritt nirgends der ein so komplizierter Begriff wie
+"Dimension" auf. Ein "Intervall" innerhalb der reellen Zahlen ist per
+Definitionem ein Menge von Punkten und dafuer halte ich die
+umgangssprachliche Metapher "setzt sich aus Punkten zusammen" durchaus
+angemessen.
+
+Eine Punktmenge heisst "abgeschlossenes Intervall", wenn sie aus allen
+Zahlen x mit der Eigenschaft a<=x<=b besteht, wobei a und b zwei
+beliebige reelle Zahlen sind. Dies schließt ein, dass a=b ist, dann
+besteht das Intervall aus genau einer Zahl. Oder es kann sogar leer
+sein, wenn a>b ist. Mag sein dass fuer Dich "Intervall" immer
+impliziert, dass a<b ist. Da bei obigem Diskussionspunkt nur von
+solchen Intervallen die Rede ist, habe ich dies extra gefordert, weil
+man dies halt tun muss, wenn die mathematische Definition von
+"Intervall" benutzt. Dass Du daran nun eine Belehrung bezueglich
+"logischer Unmoeglichkeit" haengst, lenkt unnoetigweise vom
+eigentlichen Thema ab. Ich rede ja gar nicht von den "Intervallen",
+die Du fuer logisch unmoeglich haeltst ;-)
+
+
+(Ich ersetze mal im Kopf "Punkt" durch Zahl). Dies ist richtig.
+
+
+Nein. Dazu ist niemand in der Lage.
+
+
+Wir sprechen von "ueberabzahlbar unendlich". Dies ist exakt definiert
+und daher moechte ich Metaphern wie "unbenennbar" nicht verwenden, da
+diese moeglicherweise dazu fuehren, außermathematische "Intuition"
+oder "Gefuehle" einzubringen.
+
+
+Fuer einen Mathematiker bedeutet "logische Konsequenz" etwas, was er
+aus einer gewissen Anzahl von Voraussetzungen (Axiomen) mathematisch
+herleiten kann.
+
+Wenn es ueberabzaehlbar viele reelle Zahlen und damit auch natuerlich
+ueberabzaehlbar viele moegliche Zahlenintervalle.
+
+Aber es gibt nachweislich _keine_ ueberabzaehlare Menge von reellen
+Zahlenpaaren (a,b) fuer die jeweils
+
+	 a<b
+
+gilt und bei der fuer je zwei Paare (a1,b1) und (a2,b2) stets gilt
+
+	Entweder b1<a2 oder b2<a1
+
+Mit anderen Worten: Eine Menge von paarweise disjunkten Intervallen,
+die aus mehr als einem Punkt bestehen, ist hoechstens abzaehlbar
+unendlich.
+
+Das was Dir als "logische Konsequenz" selbstverstaendlich erscheint,
+ist leider keine mathematisch-logische Konsequenz sondern nur durch
+einer Art "Anschauung" oder "Gefuehl" begruendet, das hier wie so oft
+falsch ist.
+
+Ich koennte Dir die obige Behautung steng mathematisch beweisen,
+fuerchte aber, dass Du mathematische Beweise nicht akzeptieren wirst,
+da Du bereits mathematische Terminologie kritisierst.
+
+
+Nein. Er entsteht dadurch, dass Du eine mathematisch nachweisbare
+Tatsache durch eine unbewiesene und auch unbeweisbare Annahme
+aushebeln moechtest.
+
+
+MfG
+Niels

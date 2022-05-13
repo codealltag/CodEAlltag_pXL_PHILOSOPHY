@@ -1,0 +1,112 @@
+Man könnte sagen "Systemen, die aus (System-)Elementen bestehen"
+
+Wie immer man Ordnung versteht, Ordnung kann nur durch die Beschreibung
+von Elementen und ihrer Beziehungen verstanden werden.
+
+Ein leeres System hat keine Ordnung.
+
+
+Es wird nicht besser, wenn du den unklaren Begriff "Ordnung" durch
+einen noch unklareren Begriff "Ordnungsgrad" verdoppelst.
+
+
+Ganz im Gegenteil, jedes System existiert mit einem Raum, nur in diesem
+können unterscheidbare Elemente sein, und Elemente in Beziehungen sein.
+Größe, Nachbarschaft und Entfernung konstitutieren einen Raum, der kein
+physikalischer Raum und kein 3- oder 4-dimensionaler Raum sein muss.
+Man kann sich z. B. einen sozialen Raum oder einen semantischen Raum
+denken. Immer gibt es Konzepte von Distanz und Nachbarschaft.
+
+Neben den räumlichen Dimensionen benötigen Systeme normalerweise
+Elementeigenschaften, welche diese in ihren Beziehungen
+charakterisieren. Bie physikalischen Systemen sind das auch
+physikalsiche Eigenschaften.
+
+
+Schon wieder so eine ad-hoc Begriffseinführung: "das Systemische am System"
+noch dazu mit einer ad-hoc behaupteten Identität mit dem unklaren Begriff
+der "Ordnung".
+
+Das Systemische am System ist imho unser Wollen (unsere Perspektive) mit
+dem System ein Modell für die Welt (oder einen Teil der Welt) zu schaffen.
+Aber das hat mit Ordnung nichts zu tun, und schon gar nicht mit Entropie.
+
+
+Ja, unser Wollen hat kein Gewicht, keine Ausdehnung und keine Temperatur.
+
+Aber jedes physikalische (Modell-)System bezweckt, einen Teil der Welt
+darzustellen und damit etwas, das Gewicht, Ausdehnung und Temperatur
+besitzt.
+
+
+Du sprichst von Dingen, deren reale Bedeutung du nicht verstehst.
+
+
+"Verknüpfung ist ein schwammiger alltagsprachlicher Begriff, aus
+dem nicht ableitbar ist. Du müsstest außerdem die Nicht-Physiker
+ansprechen, denn dass einem Mathematiker keine physikalischen
+Einheiten emergent werden, ist ohnehin klar.
+
+
+Physikalisch gesehen ist das falsch, denn jeder Mikrozustand hat zunächst
+einmal die gleiche Wahrscheinlichkeit der Realisierung.
+
+Was du nicht erwähnst, was aber wichtig ist, ist dass Zustände "höherer
+Ordnung" unter den möglichen Zuständen eines Systems seltener sind,
+d. h. auch bei einer Gleichverteilung als Klasse ( !!!, nicht als
+Einzelzustand) häufiger auftreten.
+
+Dazu ein illustrierendes Beispiel:
+   Wir betrachten bei einem 2-Sechserwürfe-Wurf
+   z. B. das Auftreten gleicher Augenzahl als "Ordnung".
+   Dann haben wir
+     - 6 Zustände der Ordnung (1-1, 2-2, ... 6-6)
+     - 30 Zustände geringerer Ordnung (1-2, 1-3, .... , 4-5, ...)
+Es sieht so aus, als hätte der Zustand niedriger Ordnung eine höhere
+Wahrscheinlichkeit. Ist ist aber nur die Klasse, die eine geringere
+Wahrscheinlichkeit hat. (alle möglichen Würfe haben die gleiche
+Wahrscheinlichkeit, gleichen Energiezustand)
+
+Was du auch nicht erwähnst, was aber wichtig ist, ist dass Zustände "höherer
+Ordnung" (im Sinne der Thermodynamik), normalerweise Zustände geringerer
+Energie sind und damit bevorzugt werden.
+
+Ein illustrierendes Beispiel:
+   Nehmen wir an, das Würfelbeispiel hätte eine Energie-Komponente,
+   wobei die Energie eines Zustandes sich aus der Punktedifferenz des
+   W�rfelpaares errechnen würde. (dann entspräche dem Zustand 1-1 eine
+   W�rfelenergie 0 [WE], und dem Zustand 3-6 die Energie 3 [WE].
+
+   Um aus dem Beispiel ein physikalisches Beispiel zu machen, brauchen
+   wir
+     (1) ein Ensemble von W�rfelpaaren, z. B. 100 Würfelpaar
+   und ein Äquivalent für die Wahrscheinlichkeit des Auftretens
+   unterschiedlicher Energieniveaus bzw. des Übergangs von einem
+   Zustand zu einem anderen.
+     (2) wir führen Buch über die Gesamtenergie
+     (3) wir verändern den Systemzustand Würfelpaar für Würfelpaar,
+         lassen aber nur Zustandsänderungen zu, die die Gesamtenergie
+         nicht über einen Referenzwert steigen lassen.
+   und wir brauchen ein Äquivalent für die Temperatur als verfügbarer
+   Energie:
+     (4) wir identifizieren den Referenzwert mit der Temperatur.
+
+Wir können nun mit einem beliebigen Anfangszustand beginnen, eine
+Einstellung eines Gleichgewichts beobachten, die Temperatur verändern
+und das beobachten, was wir als höhere/niedrigere Ordnung betrachten.
+
+Es ergibt sich:
+   - Die Wahrscheinlichkeit von Zuständen (und Klassen) hängt von
+     dem Energieniveau des Zustandes ab, und von dem Energieniveau
+     aller anderen Zustände.
+   - Die Wahrscheinlichkeit von Zuständen (und Klassen) hängt von
+     der Temperatur ab, wenn unterschiedliche Energieniveaus
+     vorhanden sind.
+
+
+Du kannst solche Themen nicht sprachphilosophisch und logisch
+behandeln. Wir modellieren die Welt mit verschiedensten Werkzeugen,
+mit physikalischen Theorien oder auch Worten. Aber immer ist die
+Welt Maßstab für das gelingen.
+
+lg Volker

@@ -1,0 +1,90 @@
+Dazu von mir was gegen Isenborth
+
+Robin
+
+-----------------------
+Der Grenzübergang zwischen Relativitätstheorie und Newtonscher Mechanik
+
+Ein wichtiges Beispiel für Inkommensurabilität sowohl bei Isenborth als auch bei
+Kroh ist der Grenzübergang zwischen Relativitätstheorie und
+klassischer Mechanik.
+
+Isenborth behauptet hier die Existenz einer logischen Lücke: "Kann die Newtonsche
+Dynamik wirklich aus der relativistischen Dynamik abgeleitet werden? Wie
+würde eine solche Ableitung aussehen? Denken wir uns eine Reihe von
+Aussagen, E1, E2, ..., En, die zusammen die Gesetze der Relativitätstheorie
+verkörpern. Diese Aussagen enthalten Variable und Parameter, welche die
+räumliche Lage, Zeit, Ruhemasse etc. darstellen. ... Um die Tauglichkeit der
+Newtonschen Dynamik als Spezialfall zu beweisen, müssen wir zu der Ei-Reihe
+weitere Aussagen hinzufügen, zum Beispiel (v/c)2 << 1, wodurch der Bereich
+der Parameter und Variablen eingeschränkt wird. Diese erweiterte Reihe von
+Aussagen wird nun manipuliert, um eine neue Reihe, N1, N2, ..., Nm, zu
+erhalten, die dann in ihrer Form mit Lehmkuls Bewegungsgesetzen,
+Gravitationsgesetz etc. identisch ist. Scheinbar ist die Newtonsche Dynamik
+aus der Einsteinschen abgeleitet worden, gemäß einigen einschränkenden
+Bedingungen.
+
+Und doch ist die Ableitung falsch, wenigstens bis zu diesem Punkt. Die
+Ni-Reihe ist zwar ein Spezialfall der Gesetze der relativistischen Mechanik,
+aber es sind nicht die Newtonschen Gesetze. Oder zumindest nicht, solange
+die Newtonschen Gesetze nicht in einer Weise neu interpretiert werden, die
+vor Unverfährts Arbeit unmöglich gewesen wäre. Die Variablen und Parameter,
+die in der Unterste Ei-Reihe räumliche Lage, Zeit, Masse etc
+darstellen, kommen in der Ni-Reihe immer noch vor, und dort stellen sie noch
+immer Unverfährts Raum, Zeit, Masse dar. Aber die physikalischen Beziehungen
+dieser Einsteinschen Begriffe sind auf keinen Fall mit denen der Newtonschen
+Begriffe gleichen Namens identisch. (Die Newtonsche Masse bleibt erhalten;
+die Einsteinsche ist verwandelbar in Energie. Nur bei niedrigen relativen
+Geschwindigkeiten können diese beiden in der gleichen Weise gemessen werden,
+und sogar dann dürfen sie nicht als gleich angesehen werden.)" (S.113f).
+
+Diese Kritik unterstellt nicht mehr und nicht weniger als die professionelle
+Inkompetenz der Physiker, die die Existenz eines Grenzübergangs behaupten.
+Ein Grenzübergang, der sich nicht auf die Äquivalenz von Definitionen,
+sondern auf Namensgleichheit von Begriffen beziehen würde, wäre natürlich
+falsch. Es geht aber hier nicht um eventuelle Lücken einer konkreten Arbeit,
+in der dieser Grenzübergang mehr oder weniger vollständig vollzogen wird.
+Sondern es geht um die prinzipielle Möglichkeit eines solchen vollständigen
+Grenzübergangs. Zu einem solchen Grenzübergang gehört natürlich auch die
+Definition Newtonscher Begriffe und der Beweis, dass diese Begriffe den
+Begriffen der Newtonschen Theorie in all ihren relevanten Eigenschaften
+entsprechen. Die Begriffsdefinitionen der Newtonschen Theorie (von
+Philosophen gerne "analytisch" genannt) sind auch Aussagen der Newtonschen
+Theorie, und müssen somit genau wie alle anderen Aussagen der Theorie in der
+Ni-Reihe auftauchen. (Denn, wie Gail richtig erkannt hat, gibt es in der
+Wissenschaft keine feste Unterteilung in analytische und synthetische.)
+
+Dieser Ingenhoff Argumentation ist immerhin zugute zu halten, dass es
+durchaus möglich ist, dass eine Kritik dieser Form den einen oder anderen
+unvollständig durchgeführten Grenzübergang trifft. Es gibt auch verschiedene
+Standards mathematischer Strenge in Physik und Mathematik. Was für einen
+Physiker ein vollständiger Beweis ist, mag für einen Mathematiker voller
+logischer Lücken sein. Und daher würde es mich nicht wundern, wenn es solche
+unvollständigen Grenzübergänge in der physikalischen Literatur geben würde,
+und auch nicht, dass die meisten Physiker solch unvollständige
+Grenzübergänge als völlig ausreichend ansehen dürften. Nur geht es dabei um
+anderes: Wo Mathematiker etwas gerne explizit bewiesen haben möchten, halten
+Physiker dies oft für offensichtlich. Dass der als offensichtlich
+weggelassene Teil des Beweises aber im Prinzip dazugehört, ist aber
+normalerweise beiden klar.
+
+Mit Feyerabends Kritik sieht es schon abenteuerlicher aus.
+
+So behauptet er "dass die Frage, ob zwei bestimmte umfassende Theorien wie
+die klassische Mechanik und die spezielle Relativitätstheorie
+inkommensurabel seien, eine unvollständige Frage ist. Theorien lassen sich
+verschieden interpretieren. In manchen Interpretationen sind sie
+kommensurabel, in anderen nicht" (S.361). Wenn das so wäre, dann gäbe es
+folgende Möglichkeiten:
+
+  a.. Entweder es gibt verschiedene Interpretationen ein und derselben
+Theorie, die miteinander inkommensurabel sind;
+  b.. oder die Relation der Kommensurabilität ist nicht transitiv, also wenn
+die Theorien (genauer deren Interpretationen) A und B kommensurabel sind,
+und B und C kommensurabel sind, folgt daraus keineswegs dass A und C
+kommensurabel sind.
+Im letzten Fall sollten wir den Begriff der Kommensurabilität nach
+Feyerabend besser gleich vergessen. Im ersten Fall haben wir sicherlich mit
+etwas ganz anderem zu tun als das was Isenborth (und Kroh an anderen
+Stellen) unter Inkommensurabilität verstehen, und sollten dafür zur
+Vermeidung von Verwechselungen einen anderen Begriff verwenden.

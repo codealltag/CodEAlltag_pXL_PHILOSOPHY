@@ -1,0 +1,59 @@
+Das wollen wir mal sehen. Bisher hast Du nur Dein Unverstaendnis
+der Materie zur Schau gestellt. 
+
+schoen.
+
+
+ein exakt kreisfoermiger Leiter hat aber ein anderes Magnetfeld
+als ein unendlich langer linearer Leiter.
+
+
+Ein rotierendes System ist kein Inertialsystem. Die Transformationen
+sehen hier komplizierter aus.
+
+ich vermute mal, dass da auch immer 0 herauskommt, wenn man
+es richtig in ein beschleunigtes System transformiert, habe
+aber keine Lust, das nachzurechnen.
+
+
+schoen.
+
+Rechne es doch nach.
+Du hast das Magnetfeld aufgrund einer Formel fuer unendlich
+lange lineare Leiter bestimmt. Fuer das E-Feld musst Du dann
+von der gleichen Geometrie ausgehen. E-Feld eines unendlich
+langen linearen Leiters ist
+
+E = rho_l/(2*pi*epsilon0*r) ,wobei rho_l die lineare 
+Gesamt-Ladungsdichte ist (also Ladung pro Laenge). rho_l 
+ist wiederum in deinem Beispiel (mit v_drift=v_Probeladung)
+= 2*rho0_l * (gamma-1) ~ rho0_l*v^2/(c^2), wobei 
+rho0_l die lineare Dichte der positiven Ladungstraeger ist, 
+die im Ruhesystem des Leiters gleich der 
+Elektronenladungsdichte ist.
+
+
+Das B-Feld im Ruhesystem ist B = mu0 * I/(2*pi*r) = 
+1/(epsilon0*c^2)*I/(2*pi*r)  (wegen epsilon0*mu0=1/c^2).
+= 1/(epsilon0*c^2)*v_d * rho0_l /(2*pi*r).
+
+
+du hattes v_d = v (= Geschwindigkeitder Probeladung) angenommen.
+Damit ist die magnetische Kraft q*v*B gleich der
+elektrischen q*E.
+
+Die Zahlen kannst Du selber einsetzen, richtige Physiker 
+rechnen es lieber allgemein aus. Falls Du einen Fehler dabei
+machst, poste lieber nicht die auftretenden Widersprueche.
+
+Insgesamt ist albern, im Bereich der Maxwell-Theorie 
+auf theoretischem Wege die Relativitaetstheorie widerlegen
+zu wollen. Die SRT steht per constructionem nicht im
+Widerspruch zur E-Dynamik. 
+
+
+Ist Liechtenstein nicht nur Reuckzugsgebiet fuer Geldwaescher,
+sondern auch fuer Trolle? Obertroll Durm c/o empire24 verwendet auch eine 
+li-Addresse...
+
+Herwig

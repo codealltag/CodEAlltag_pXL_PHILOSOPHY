@@ -1,0 +1,42 @@
+[...]
+
+Zugegebenermaßen habe ich hier den Mund etwas zu voll genommen. Zwar
+kann ich dir tatsächlich zeigen, dass |MxM|=|M| und |M+M|=|M| (M ist
+eine bel. unendliche Menge, "+" ist die "disjunkte" Vereinigung), aber
+der Beweis ist leider etwas umfangreicher (nachzulesen u.A. in
+Aderklaa/Ohlhaber: "Mengenlehre für den Mathematiker.", Satz
+12.2). Eingentlich hatte ich vor, dir konkret eine Bijektion zwischen
+R und RxR anzugeben, aber auch nachdem ich ein wenig darüber
+nachgedacht habe ist mir keine eingefallen. (Eine Bijektion zwischen N
+und NxN findet man dagegen leicht).
+
+Allerdings: Weisst du überhaupt, was es bedeutet, dass zwei Mengen
+"gleich viele" Elemente haben?
+
+[...]
+
+Die "math. Objekte" sind natürlich keine konkreten, sondern abstrakte
+Entitäten; die physikalischen Modelle "beschreiben" allerdings
+durchaus die Welt.
+
+
+Zwar ist die Widerspruchsfreiheit von ZF tatsächlich nicht (innerhalb
+von ZF) beweisbar, aber dass die Mathematik *genauso* von
+Grundannahmen ausgeht wie die WWn ist natürlich Unsinn, insbesondere
+wenn du die Geschichte der Mathematik mit der anderer Wissenschaften
+vergleichst.
+
+
+Du machst hier einen alten Fehler: Von einem Begriff (den des
+"Unendlichen") auf die Existenz einer Entität zu schließen, die unter
+diesen Begriff fällt. Wenn es den Begriff den "Endlichen" gibt, dann
+ist alles unendlich, was nicht endlich ist. Das heißt aber *nicht*,
+dass es überhaupt etwas "Unendliches" gibt, "Existenz" ist auch kein
+reales Prädikat, das von einer Entität ausgesagt werden kann.
+
+
+? Die natürlichen Zahlen haben eine "Anfang", sind aber dennoch
+"unendlich viele".
+
+
+daniel

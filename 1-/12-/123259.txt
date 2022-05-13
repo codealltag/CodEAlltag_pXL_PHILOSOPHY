@@ -1,0 +1,70 @@
+Doch, es wird etwas ausgesagt mit "Olaf war ein Held", nämlich,
+dass Olaf ein Held war! ;-)
+Weshalb sollte ein derartiger, keineswegs ungrammatikalischer Satz
+ohne Wahrheitswert sein?!
+Wahrheitswertlücken erscheinen mir bei geschlossenen, grammatisch
+wohlgeformten Aussagesätzen grundsätzlich kaum akzeptabel zu sein.
+
+Tegethof zeigt ja, dass es im Rahmen einer um eine spezifische,
+nichtklassische Implikation bereicherten, dreiwertigen Logik
+[Field-Kleene-Logik] möglich ist, sogar berühmt-berüchtigten
+semantischen Paradoxa wie dem Lügner-Paradox [Dieser Satz ist falsch.]
+und dem Curry-Paradox [Wenn dieser Satz wahr ist, dann _|_ .] in
+kohärenter Manier einen semantischen Wert [1/2] zuzuordnen.
+
+
+Der Satz "Es ist nicht der Fall, das Olaf ein Held war." drückt
+doch aus, wie es sich in Wirklichkeit verhält, nämlich, dass es den
+Held Olaf in Wirklichkeit nie gegeben hat; und das bedeutet, dass
+es wahr ist, dass es nicht der Fall ist, dass Olaf ein Held war!
+
+
+Mit Bezug auf mein vorangegangenes Posting möchte ich Folgendes
+zugunsten der negativen Freien Logik herausstellen:
+
+Wie ich schon betonte, der fregesche Freilogiker kann nicht
+widerspruchsfrei behaupten, dass "Fa*" weder wahr noch falsch ist!
+Der negative Freilogiker landet hingegen mitnichten in irgendwelchen
+Inkonsistenzen:
+
+In der negativen freien FOPL gilt Folgendes:
+
+E!x -> [Fa <-> ~((~F)x ]
+
+Beispiel:
+Wenn Rainer existiert, genau dann, wenn Rainer ein Mann ist, dann ist es
+nicht der Fall, dass Rainer kein Mann ist.
+
+Ebenfalls gilt Folgendes:
+
+~E!x -> [~(Fa) <-> ~((~F)x]
+
+Beispiel:
+Wenn es nicht der Fall ist, dass Rainer existiert, genau dann, wenn es
+nicht der Fall ist, dass Rainer ein Mann ist, dann ist es auch nicht
+der Fall, dass Rainer kein Mann ist.
+
+Der negative Freilogiker kann somit Folgendes absolut widerspruchsfrei
+postulieren:
+
+~E!a -> [~(Fa) & ~((~F)a)]
+
+Da sich '~(Fa)' und '~((~F)a)' im Falle von '~E!a' wechselseitig
+implizieren (siehe oben!) und beide wahr sind, ist auch die
+Konjunktion wahr!
+
+[Man beachte stets den 'scope of negation', d.h. die jeweiligen
+Klammern!]
+
+Hier geht nichts den Bach runter--weder das Gesetz vom
+ausgeschlossenen Dritten noch das Nichtwiderspruchgesetz!!! :-)
+
+Ich denke, die Sache ist eindeutig...!
+
+And the winner of the international free logic contest is: NEGATIVE
+FREE LOGIC!!!
+
+(...applause...)
+
+Gruss
+RALF

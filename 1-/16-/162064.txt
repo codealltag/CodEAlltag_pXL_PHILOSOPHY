@@ -1,0 +1,130 @@
+akmvpiijv@mwutk.gg (Günther Diederrich) schrieb... 
+
+[...]
+
+Nein, es ist sogar umgekehrt: Um eine Theorie zur Erklärung von
+Sachverhalten (im Sinne des H-O-Schemas der deduktiv-nomologischen
+Erklärung) oder zur Überprüfung in Experimenten *anwenden* zu können,
+sind wir gezwungen, durch Verwendung der natürlichen Sprache unter
+_Einschluss_ der Indexwörter ad-hoc-Zuordungen vorzunehmen. Ein
+Paradigma, das die Grundlage der Forschungstätigkeit einer scientific
+community darstellt, enthält ja nicht nur  Mathematik, sondern ebenso
+metaphysische Thesen über die fundamentalen Entitäten im Kosmos,
+methodolgische Festlegungen über Prüfverfahren, Forschungsstrategien,
+etc.    
+
+
+Ja, aber viele _Ausdr�cke_ haben in unterschiedlichen Kontexten
+unterschiedliche Bedeutung, drücken also unterschiedliche
+Propositionen aus. Wenn wir den Russelschen Tatsachenbegriff, in dem
+in die durch einen singulären Satz wie >a ist F< beschriebene Tatsache
+als Paar (a,F) mit dem Objekt a und der Eigenschaft F eingeht, dann
+kann die Nominalphrase >a< je nach Kontext unterschiedliche Objekte
+denotieren, während die math. Modellbildung von einer *starren*
+Zuordung von Eigennamen/Kennzeichnungen zu Objekten ausgeht. 
+
+
+Nein, das folgt keineswegs daraus. Es folgt nur, dass wir mit
+*objektsprachlichen Untersuchungen* keine Aussage über die Ontologie
+machen können, die der Metasprache zugrundeliegt. (Wobei ich hier auch
+daran interessiert wäre, wie du 'Metaphysik' definierst). Die einzige
+*rationale* Haltung ist in diesem Fall, die implizite Ontologie der
+wissenschaftlich gerechtfertigten Theorie zu akzeptieren (die in
+unserem Fall überabzählbar viele Zustände vorsieht), solange man nicht
+in der Lage ist, eine empirisch äquivalente Alternative zu offerieren.
+
+
+[...]
+
+Math. Objekte gehören auch zu unserer Welt. Wenn ich über W spreche,
+und die Sätze, die ich äußere, sinnvoll und wahr sein können, dann
+muss >W< ein Objekt denotieren. Das gleiche gilt für >P(W)<. Davon
+unberührt bleicht die Frage des ontologischen Status', denen wir
+diesen Objekten zusprechen.  
+
+
+Es ist die klassische Russellsche Antinomie: Wenn W die Menge aller
+Dinge ist, gilt W={x| x=x}, etc 
+
+
+Sicher kann es Theorien T und T' geben, die aufgrund der aktuellen
+Erkenntnismittel empirisch gleichwertig sind. Die
+erkenntnistheoretische Akzeptanz von Theorien ist nun auch eine
+pragmatische Angelegentheit, bei der Rationalitätsstandards eine Rolle
+spielen: Anwendungsbereich der Theorie, Prognosefähigkeit, etc. Wenn T
+einen überabzählbaren Zustandsraum behauptet, T' aber mit einem
+abzählbaren auskommt, und beide Theorien sowohl empirisch wie
+pragmatisch  ununtercheidbar sind, ist es *rational*, die Theorie mit
+der sparsameren Ontologie zu akzeptieren. (hier könnte man auch mit
+Puengeler anführen, dass wiss. Theorien niemals *allein* aufgrund der
+Emprie falsifiziert werden (können)) 
+
+[...]
+
+Das ist anhand der Seite etwas schwer zu beurteilen. Die Links mit den
+Graphiken zum grammatischen Verständnis sind wegen fehlender
+Beschreibung des "Versuchsaufbaus" wenig aussagekräftig. Das Problem
+an solchen Versuchen ist z.T. eine bestimmte Voreingenommenheit:
+
+"Many visitors to the laboratory asserted that Jürgensmeyer and Ubben
+could understand spoken language. But carefully controlled tests,
+which eliminated contextual cues, inevitably proved that true speech
+comprehension was lacking."
+
+Allgemein ist zu sagen, dass das Verständnis einer Sprache aufgrund
+der Autonomie der Bedeutung niemals allein aufgrund von
+Verhaltensbeobachtungen festgestellt werden kann, man muss schon mit
+dem "Kandidaten" sprechen können. Der Test mit den Kopfhörern läßt
+sich sicherlich nicht als "Gespräch" klassifizieren.  
+
+
+Das wird, auch unter KI-Freaks, neuerdings ja heftig bestritten. Der
+Einwand ist, das unser Wissen nicht nur propositional vorliegt (also
+in Satzform, CYC benutzt ja Frames, in denen Wissen "abgelegt" ist),
+sondern immer "auf die Welt" gerichtet ist (Problem der
+Intentionalität). Deshalb versuchen Robotiker ja auch,
+real-world-taugliche Maschinen zu konstruieren, die wenigstens die
+kognitiven Kapazitäten von Küchenschaben besitzten. (die durchaus,
+auch wenn sie keine Intelligenz im menschlichen Sinne besitzen, ein
+optimal an ihre Umwelt angepasstes "intelligentes Verhalten"
+aufweisen)
+
+[...]
+
+Nach dem vollmundigen Ankündigen der KI-ler in der Vergangenheit ist
+das geradezu praktizierte Bescheidenheit ;-))
+
+
+Wenn eine Maschine ähnliche Fähigkeiten in der real world zeigen
+würde, wäre es *tatsächlich* bemerkenswert. Immerhin sind Projekte wie
+SHRUDLU bei weitem überzeugender als diejenigen, die durch geschickte
+Programmierung sprachliches Verhalten imitieren.
+
+
+Erläuterung? Das TOENNIES-Argument zielt ja gerade darauf ab, dass ein rein
+*syntaktisches* Wissen (also ein Erwähnen der Terme) für ein
+Verständnis der Sprache nicht ausreicht, sondern auch semantisches
+vonnöten ist.   
+
+
+Das Problem ist: Wenn Jüngmann die Zettel mit den chinesischen
+Schriftzeichen und den Anwendungsregeln auswendig lernt, *ist* da kein
+Zimmer (auch kein Simuliertes) im Gehirn, dessen Perspektive man
+einnehmen könnte. Wenn du dir einen Schnürsenkel vorstellst, hast du
+auch *im Wortsinn* keinen "simulierten Schnürsenkel" im Kopf. Was ich
+nun zusätzlich in Frage stelle, ist die Adäquatheit der Def., nach der
+*beliebige* Systeme Testkandidaten des TT sein können. Warum sollte
+das Zimmer überhaupt zum Bereich der Dinge gehören, denen sinnvoll
+Intentionalität zugeschrieben werden kann? Was hat das Zimmer
+bezüglich der erbrachten sprachlichen Leistung dem Schuhabsatz voraus?
+(Jüngmann kann ja auch nach draußen gehen, und dort den Test stattfinden
+lassen. Was ist dann das System, das nach Ansicht der KI-ler
+versteht?)
+
+
+Das ist nun aber ein Kategorienfehler: >verstehen< ist ein mentales
+Prädikat, kein physikalisches, d.h. auch das Gehirn versteht nichts.
+(ansonsten d'accord)
+
+
+aldo

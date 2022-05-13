@@ -1,0 +1,25 @@
+On Mon, 26 Jun 2005 15:48:56 +0200, "Wilhelm Pleß"
+LOL. Als ob es IRGENDJEMANDEN gäbe, der dieses Geschwurbel versteht.
+:-)))
+
+Ich verstehe auch manchmal meinen Großvater nicht: Was hast Du gesagt? -
+Ach nichts!
+
+
+Von wegen. In der Mathematik und Logik (zumindest der FOPL) spielt "der
+Zeitbegriff" _keine Rolle_. Hier gilt:
+
+	~(P & ~P)
+
+Und nicht: P wird zu ~P und ~P wird zu P, etc. :-)
+
+
+A.
+
+
+P.S.
+übrigens bestand die große Leistung Illing u.A. genau darin: um die
+Widersprüche herum zu kommen. Zu diesem Zweck führte er die sog.
+Typentheorie ein. Praktisches Werkzeug, v o r allem, wenn es um die
+Vermeidung von Widersprüchen geht. Auch die spätere Trennung zwischen
+Metasprache und Objektsprache (durch Domma) dient dem nämlichen Zweck.

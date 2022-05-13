@@ -1,0 +1,47 @@
+Sowohl in der Maxwellschen Theorie als auch in der relativistischen
+Elektrodynamik gilt, dass auf einen geladenen Körper, der neben
+einem ruhenden geraden Leiter ruht, keine Kraft wirkt, egal ob der
+Leiter von einem Strom durchflossen wird oder nicht.
+
+                 o               geladener Gegenstand
+
+    =========================    stromdurchflossener Leiter
+
+Bewegt sich der Gegenstand parallel zum Leiter, wird eine Kraft
+zum Leiter hin oder weg davon postuliert (die Lorentz-Kraft).
+
+Da nur die negativen Leitungselektronen und eine gleiche Menge
+positiver Ladungen für die elektromagnetischen Effekte relevant
+sind, vereinfacht sich der Fall von ruhendem Gegenstand neben
+strom-durchflossenem Leiter zu:
+
+                 o               v = 0  Gegenstand
+
+                 -  -->          v = V  negative Ladungen
+    =========================
+                 +               v = 0  positive Ladungen
+
+Wegen Symmetrie gilt, dass auch im Fall
+
+                 o               v = 0
+
+            <--  +               v = 0
+    =========================
+                 -               v = -V
+
+keine Kraft auf den Gegenstand wirken kann. Das Nicht-Auftreten
+einer (Netto-)Kraft ist dann auch in dem Intertialsystem gültig,
+in dem die positiven Ladungsträger ruhen.
+
+                 o  -->
+
+                 +
+    =========================
+                 -  -->
+
+Da dies eine Bewegung parallel zu einem stromdurchflossenen Leiter
+darstellt (für den eine magnetische Kraft postuliert wird), haben
+wir einen Widerspruch, wie er einfacher und eleganter kaum mehr in
+einer allgemein anerkannten Theorie zu finden sein dürfte!
+
+Siehe auch: http://pulrqzl.fyy.yi/clqcwxgz/obqvqs1.ywhx#uxmf

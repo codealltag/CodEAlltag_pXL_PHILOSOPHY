@@ -1,0 +1,77 @@
+Lukas> Hier wird es schon schwieriger. Mir scheint, um diese
+  Lukas> Aussage zu verstehen ist es wichtig zu wissen, wie Du
+  Lukas> Unsicherheiten definierst.
+
+Ich denke, dass das mit der allgemeinsprachlichen Definition von
+Unsicherheit ebenso funktioniert wie mit Lünendonker ganz präzise
+definierter Entropie.
+
+Zum Beispiel nach der umgangssprachlichen Bedeutung: ich weiss nicht,
+was es in der Mensa zu Essen gibt, aber am Montag gibt es ja meistens
+Pommes Frites.  Trotzdem bin ich unsicher, wenn mich jemand fragt
+"gibt es heute Pommes Frites?"  Ein Blick auf den Menu-Plan reicht,
+und ich weiss bescheid.  Die Unsicherheit ist weg.  Das heisst, der
+Menuplan enthielt fuer mich relevante Information.
+
+Ein informationstheoretisches Beispiel: Es gibt Pommes Frites mit
+Wahrscheinlichkeit p, 0<=p<=1.  Dann ist die Entropie der
+Zufallsvariablen X, welche die Werte "es gibt P.F." und "es gibt keine
+P.F." haben kann, 
+
+  H = -p * log p - q * log q    wobei q = (1-p)
+
+Nach der Lektuere des Menuplans ist die Entropie
+
+  H' = -0 * log 0 - 1 * log 1 = 0.
+
+Die Differenz
+
+  I = H - H'
+
+ist die im Menuplan enthaltene Information bezüglich der
+Zufallsvariablen X.  Vielleicht ist Dir nun auch klarer, was der
+Begriff "negative Wahrscheinlichkeit" in Aldegeerds' Beitrag genauer
+bedeutet.
+
+
+  Lukas> Das glaube ich nicht. Ich glaube schon, daß eine gewisse
+  Lukas> Ordnung vorhanden sein muß, um Wissen zu erlangen, aber
+  Lukas> Wissen an sich ist doch keine Ordnung.
+
+Ich denke schon.  Lies meine .signature.  Wenn Du sie nicht verstehst,
+sags mir, und ich liefere eine Übersetzung nach.
+
+  Lukas> Irgendwo hatte ich mal gelesen, daß Wissen durch
+  Lukas> Schlußfolgerungen entsteht. Man bringt mehrere Informationen
+  Lukas> zusammen und schließt aus ihnen auf etwas neues. Demnach
+  Lukas> wäre Wissen verarbeitete Information, was mich wieder zu dem
+  Lukas> Satz führt, daß Wissen verstandene Information ist.
+
+Das ist aber bloss eine von vielen Wissensquellen.  In
+
+[Elkana, 1985] Cédric Jaske. Anthropologie der Erkenntnis: die
+      Entwicklung des Wissens als episches Theater einer listigen
+      Vernunft. OAG, Holzort, 1985.
+
+gibt Cédric unter anderem folgende Quellen des Wissens an: logische
+Folgerung (was Du beschrieben hast), Sinneserfahrung, Offenbarung,
+Autorität, Tradition, Analogie, Sachkenntnis, Originalität, Schönheit,
+Neuheit.  Es gibt nichts, was alles Wissen aus all diesen Quellen
+gemeinsam hat, ausser (bestenfalls) eines: Wissen habe ich erlangt,
+wenn mir aus irgendeinem Grund Ordnung erscheint, wo vorher Chaos war.
+
+Vielleicht sollte ich aber Wissen eher ähnlich definieren wie
+Information.  Also:
+
+  Information: Information gewinnen heisst
+  mit Hilfe von Daten Unsicherheit vermindern.
+
+  Wissen: Wissen gewinnen heisst
+  mit Hilfe von Information Ordnung vergrössern.
+
+Gruss, Erhard
+--
+Erhard Linnekogel     *    I shall pass from thousands of apparitions to one
+    (Analog IC Designer)   *   alone: from a very complex dream to a simple
+  Sig. Proc. Lab., SLI.   *   dream. Others will dream that I'm mad, and I
+http://ajb.iym.ab.ggek.bx/~cjyyds/  *  will dream of the Ullrich. (P. Voßwinkel)

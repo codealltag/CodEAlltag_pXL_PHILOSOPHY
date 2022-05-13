@@ -1,0 +1,44 @@
+Informationen sind doch kein "Ding an sich". Wenn ich mit Bleistift 
+einen Satz auf ein Stück Papier schreibe, dann werden auf dem Papier 
+Bleistiftspuren gespeichert, keine Informationen. Zur Information werden 
+diese Bleistiftspuren erst, wenn sie als Input eines Systems dessen 
+Zustand ändern.
+
+Beispiel:
+
+Eine Ratte in der Skinnerbox. Zwei Klappen, die sich öffnen und wieder 
+schließen. Leuchtet ein rotes Lämpchen auf, öffnet sich die linke 
+Klappe; leuchtet ein gelbes, dann die rechte.
+
+Die Klappen bleiben aber nur wenige Sekunden geöffnet, so dass sich die 
+Ratte unmittelbar beim Aufleuchten einer Lampe für eine Klappe 
+entscheiden muss, wenn es an das Futter gelangen will, das sich hinter 
+der Klappe befindet. Entscheidet es sich zuerst für die falsche, ist es 
+zu spät, um daraufhin zur anderen zu gelangen.
+
+Früher oder später lernt die Ratte, zur linken Klappe zu rennen, wenn 
+das rote Lämpchen leuchtet und zur rechten Klappe, wenn das gelbe 
+Lämpchen aufleuchtet. Die Art des Signals (rot oder gelb) korreliert 
+nunmehr mit dem Verhalten der Ratte. Das Verhalten der Ratte ist 
+informiert.
+
+Werden nun die Farbzuordnungen vertauscht, muss die Ratte eben umlernen. 
+Die Information ist kein "Ding an sich", sondern eine Relation. Die Art 
+der Relation entscheidet über die Bedeutung der Information. Rot 
+bedeutet "Wenn du Futter willst, musst du zur linken Klappe rennen." 
+Wird die Farbzuordnung vertauscht, bedeutet Rot: "Wenn du Futter willst, 
+musst du zur rechten Klappe rennen."
+
+Das lässt sich verallgemeinern und gilt nicht nur für Ratten in 
+Skinnerboxen. Die Bleistiftspuren auf dem Papier sind nur Information 
+für jene, die die sie einen Unterschied machen. Eine Ratte kann 
+beispielsweise lernen, dass Bleistiftspuren auf Papier bedeuten, dass 
+sich die linke Klappe öffnen wird. Für Menschen, die lesen können, sind 
+Bleistiftspuren auf dem Papier u. U. wesentlich informationshaltiger.
+
+Mit freundlichen Größen
+
+Günter Steffen
+
+-- 
+http://gid.ggtw.dx

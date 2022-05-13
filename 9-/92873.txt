@@ -1,0 +1,21 @@
+Tja, ich bin jetzt tatsächlich unsicher geworden. Kann man das Problem  
+folgendermaßen wiedergeben?
+
+Auf der rechten Kugel, wo sich die Ladungen befinden, haben wir eine  
+positive Divergenz. Wegen VolumenIntegral(Div(E)*dV)=Fl�chenIntegral(E*df)  
+muss also, wenn außerhalb des Bereichs, über den sich das Feld bereits  
+ausgedehnt hat, E=0 ist (also auch das Flächenintegral 0 ist), irgendwo  
+eine negative Divergenz vorliegen, um die positive in der rechten Kugel  
+auszugleichen. Negativ ist die Divergenz dann gerade an der  
+Ausbreitungsfront des Feldes ("geht mehr Feld rein als daneben wieder  
+rauskommt"). Nur darf da keine Divergenz sein, weil das der Maxwell'schen  
+Gleichung Div(E)=ro/epsilon-0 widerspricht.
+
+Haben alle sich ausbreitenden Wellen an der Wellenfront eine Divergenz<>0  
+? Das muss doch schonmal jemanden aufgefallen sein...?
+
+Vielleicht weiß jemand anderes weiter?
+
+K.
+
+Modus de.sci.physik (vorschlag)

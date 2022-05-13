@@ -1,0 +1,54 @@
+Merkwürdiger als eine, die Computer generell als Neuronales Netz 
+identifizieren will?
+Ein Computer ist Hardware. Die Software nutzt die Hardware. Software 
+sind Daten, Hardware ist physische Struktur.
+Neuronale Netze in Hardware hat es einmal gegeben, aber (ich rate 
+hier) sie waren im wesentlichen zu unflexibel und konnten problemlos 
+in Software emuliert werden.
+Das es Überschneidungen beider Bereiche gibt, liegt am Prinzip. Ich 
+kann alles, was Software kann, auch in Hardware umsetzen, be aber 
+immens an Flexibilität ein. Eigentlich ist auch das in Hardware 
+umgesetzte Software, nur eben ausschließlich für einen bestimmten 
+Zweck nutzbar. Ein NAND-Gatter bleibt eines. In Software ist es nur 
+eine Anweisungsfolge, in Hardware aber eine physische Struktur.
+
+
+Hardware: Webstuhl.
+Medium: Lochkarte.
+Software: Anordnung der Löcher auf der Lochkarte.
+
+
+Du erzählst mir nichts Neues. Gerade hier aber wird doch deutlich, daß 
+die Intentionalität weder in Hardware noch in Software liegt sondern 
+darin, daß der /Programmierer/ diese (in Form der Anordnung der 
+Löcher auf der Lochkarte) liefert, nicht etwa die Maschine.
+
+
+Klar. Die Maschine bietet allgemeine Basisfunktionalität, die eine 
+Software beliebig kombinieren kann. Trotzdem werden Addition, 
+Subtraktion, Division... Grundfunktionalitäten sein, die die CPU 
+hergibt und von der Software in geeigneter Weise genutzt wird. Was 
+ist ein Computer? Rechner? Der Unterschied zwischen Hard- und 
+Software liegt eben in der physischen Repräsentation von Hardware.
+
+
+Was bis zum heutigen P4 Gültigkeit hat. Ohne Frage.
+
+
+Hier irrst du. DirectX ist eine Schnittstellendefinition. DirectX 
+definiert, welche Parameter bestimmten Funktionen zugeführt werden 
+(müssen) um ein bestimmtes Resultat zu erzielen. Dies kann ich dann 
+in Hard- oder Software realisieren.
+
+
+Ja. Flexibilität ist das Maß.
+
+
+Wie wär's mit: Ein programmgesteuerter elektronischer Rechner?
+
+
+mfg
+G
+
+-- 
+Erst schließen wir die Augen, dann sehen wir weiter.

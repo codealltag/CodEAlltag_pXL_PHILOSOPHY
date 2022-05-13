@@ -1,0 +1,43 @@
+Ja sicher, wenn es von jeder Zahl aus funktionieren soll,
+muß es ja auch von dort gehen, wohin Du zurückspringt.
+
+
+Hm, in Stochastik hieß das bei uns damals "n über k" 
+bei Aufgaben wie 6 aus 49. Das ist nun wirklich simpel.
+
+Aber hat das hiermit was zu tun? Hier wirst Du zur Berechnung,
+ob es auch von anderen Zahlen aus aufgeht, Bernoulli-Ketten
+brauchen - aber auch das ist doch noch einfach.
+
+Tut mir leid, ich sehe da keine Ordnung im Chaos, weil da 
+einfach kein Chaos ist ;-)
+
+
+Ich meinte doch gerade, daß es bei Deinem Beispiel eine Frage 
+der Wahrscheinlichkeit ist, ob es aufgeht, wohingegen Du sagtest, 
+das gelte einfach immer - was ja viel unkomplizierter wäre.
+Mein simples Gegenbeispiel hast Du übrigens einfach gesnipt...
+
+
+Ich weiß, was Du meinst, ich kenne diese Programme auch.
+Das ist aber etwas ganz anderes, da geht es um rekursive
+Wechselwirkungen, die zu Mustern führen, ähnlich wie bei 
+einer Kamera, die das resultierende Bild des Bildschirm filmt.
+Da entstehen sporadisch ja auch ganz faszinierende Muster.
+
+Sowas ist nicht mehr berechenbar wegen der Rekursionen, 
+die Rundungsabweichungen zu problematischen Größen 
+anwachsen lassen (z. B. schon beim quadratischen Iterator).
+
+Hast Du mal "Fractals for the Classroom" (Garrelt, Albrech,
+Schlegemilch) gelesen? Wenn nicht - das könnte was für Dich sein.
+
+
+Die entstehenden Ordnungen sind eben einfach schon in 
+der Struktur des Ganzen (seien die Elemente nun Zahlen, 
+Vektoren oder was weiß ich) als mögliche /Attraktoren/, 
+wenn Du so willst, enthalten. So erstaunlich das auch ist:
+Das nun Gott zu nennen, nur weil man das nicht verstehen 
+oder vorhersagen kann, fände ich abwegig und anmaßend.
+
+Gruß, Bernhard

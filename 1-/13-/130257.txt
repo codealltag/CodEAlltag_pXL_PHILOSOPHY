@@ -1,0 +1,20 @@
+Hallo,  
+
+Das ist nun eine der wenigen Punkte, wo OE eine Regel von 1000 Zeichen in
+den References etwas streng interpretiert. Im Prinzip müsste man um die
+References des Threads noch korrekt weiter fortzuführen, die letzten 6
+References weiterführen und die erste Message-ID vor diese 6 References
+stellen. Dies macht aber soweit ich weiss kein einziger Newsreader. So
+gesehen gibt es keine bugfreie Software.
+
+Ab einer gewissen Treadtiefe bekommen manche Newsreader auch noch das
+Probelm, dass sie es auch nicht lesen können, insofern war ja ein Thread
+neuanfang nicht schlecht. 
+
+Ab welcher Referencesl�nge lehnen eigentlich Newsserver die Postings ab?
+Bei uxrr.mfv.gvg.pr sind es glaube ich 4096 Zeichen.
+
+Fup2 se.kxfg.eszacvbp.nkihdandzu
+
+Grösse
+Otmar

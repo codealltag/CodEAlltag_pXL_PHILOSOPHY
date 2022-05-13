@@ -1,0 +1,31 @@
+Hallo Henrik,
+
+
+In dieser Definition steht "analytisch" offensichtlich nur fuer
+"ist-wahr-aber-weder-Axiom-noch-Definition". Das ist mMn nicht das, was
+man im Allgemeinen unter "analytisch" versteht. Das klassische
+Verstaendnis der Analytizitaet ist doch eher: Analytische Aussagen sind
+genau die, die wahr sind /und/ deren Wahrheit sich durch blosses
+Nachdenken erkennen laesst.
+
+Soweit ich mich erinnere, war das eigentliche Problem bei der obigen
+Definition aber, dass man auf diese Weise die Bedeutung von "analytisch"
+immer nur im Hinblick auf eine bestimmte Sprache angeben kann. Dann hat
+man aber, sagen wir fuer die Sprache L1, nicht "analytisch", sondern nur
+"analytisch-in-L1" erklaert. Um den Zusammenhang aller Praedikate
+"analytisch-in-Lx" fuer die Gesamtheit aller Sprachen Lx anzugeben,
+benoetigt man eine Metasprache, die alle diese Sprachen zum Gegenstand
+hat /und/ selbst nicht ueber das Praedikat "analytisch" verfuegt, oder
+zumindest dieses nicht bei der Erklaerung voraussetzt, da man ja sonst
+"analytisch" analytisch erklaeren wuerde. ;^) Ich habe bisher noch keine
+Erklaerung von "analytisch" gesehen, die nicht auf irgendeine Weise das
+Praedikat "analytisch" verwendet oder voraussetzt.
+
+So hatte ich das auch gar nicht gemeint. Aber wenn man keinen
+Unterschied zwischen analytischen und anderen Aussagen aufzeigen kann,
+wird es schwierig, die Theorie als Ganzes als nicht-empirisch zu
+bezeichnen. Jedenfalls, wenn man die Moeglichkeit synthetischer Aussagen
+mit Gültigkeit apriori nicht anerkennt.
+
+Gruss,
+Timo.

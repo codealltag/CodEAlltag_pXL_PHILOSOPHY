@@ -1,0 +1,24 @@
+Die deutsche Entsprechung wäre dann "Welleilchen". :-)
+
+
+Wenn Zahlen existieren, dann sind sie (im logischen Sinn) Gegenstände.
+Da stimmen auch fast alle zu, die nicht glauben, dass Zahlen
+existieren.
+
+
+Normalerweise "explodiert" ein logisches System, wie die Logiker sagen,
+wenn darin Widerspüche herleitbar sind, denn es gilt klassisch
+folgendes Theorem: p & ~p |- q
+Dass heisst, bei gegebenem Widerspruch ist jede beliebige wohlgeformte
+Formel ein Theorem, d.h. eine logische Wahrheit. Aus "p & ~p" liesse
+sich sogar dessen Gegenteil, "~(p & ~p)" beweisen!
+Das Explosiostheorem hat zur Folge, dass Widersprüche ein logisches
+System vollständig "trivialisieren", denn darin wäre einfach alles
+wahr.
+Die Hauptaufgabe von nichtklassischen, sog. "parakonsistenten Logiken",
+die Widersprüche tolerieren, besteht nun darin, Wege zu finden, das
+klassische Explosionstheorem ausser Kraft zu setzen, um der
+Trivialität zu entrinnen.
+
+Gruss
+ALEXANDRE

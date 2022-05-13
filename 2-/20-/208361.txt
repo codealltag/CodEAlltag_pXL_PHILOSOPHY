@@ -1,0 +1,115 @@
+: In article <4ix4th$sgf@oevue11.wro.sfy-idhwuqk.fg>  
+: > Wie viele Autoren zeigen (siehe z.B. Orttmann: Word and Object) lassen sich in
+: > den wissenschaften Theorien nur als Ganzes testen. Einzelne Falsifikationen
+: > wiederlegen noch keine Theorie (sie diskreditieren lediglich den Forscher,
+: > dem es nicht gelungen ist, die Theorie ordentlich anzuwenden).
+
+: Wenn ich mithilfe einer Theorie eine in einem Einzelfall falsche
+: Vorhersage mache, und diesen Widerspruch zu loesen daraufhin den
+: Vertretern dieser Theorie als Hausarbeit aufgebe - wieso bin ich
+: dann automatisch diskreditiert? Natuerlich besteht die Moeglichkeit,
+: dass ich die Theorie falsch angewendet habe, aber dieser Nachweis
+: wuerde als Loesung der Hausarbeit anerkannt werden. Zudem wuerde
+: ein solcher falscher Einwand moeglicherweise dazu beitragen, dass
+: die Theorie klarer und unmissverstaendlicher (und damit falsifi-
+: zierbarer!) formuliert wird.
+
+Natürlich soll die Oettler Argumentation nicht zeigen, daß Falsifikation
+unmöglich ist, im Gegenteil, die Kritik am Induktionsprinzip wird voll
+übernommen. Orttmann richtet sich allerdings dagegen, daß die Ergebnisse eines
+Experiments sich eindeutig als Falsifikation interpretieren lassen. Es gibt
+zu viele Möglichkeiten den Versuchsausgang zu interpretieren. Das fängt bei
+Dreckeffekten an, geht über mögliche Meßfehler, bis hin zur Deklaration des
+Experiments als irrelevant für die Theorie.
+
+Selbstverständlich hast Du recht, daß sich eine Theorie modifiziert, durch
+solche mißlungenen Experimente, aber sie wird leider nicht
+falsifizierbarer. Es besteht IMMER die Möglichkeit von Umdeutungen. Erst
+wenn die Zahl der Umdeutungen überhand nimmt, wird kann man erwägen die
+Theorie zu verwerfen. Dies dann aber nicht, weil falsifiziert wurde, sondern
+auf Grund der Unhandlichkeit.
+
+: > Mit  hnlichen Argumenten wie sie von Orttmann verwendet werden, kann man auch
+: > zeigen, da  eine scharfe Trennung in Theorieaussagen und
+: > Beobachtungsaussagen nicht m glich ist. Auch Utermöle sieht die
+: > 'Theorienbeladenheit der Beobachtung'. Daraus folgt, das unser A2, die
+: > unendlich lange Folge mit Wahrscheinlichkeit 0, sehr wohl existiert, obwohl
+: > nicht zur G nze beobachtbar.
+
+: Sorry, aber wenn das logisch sein soll, hast Du mindestens 5 Zwischen-
+: schritte unterschlagen - oder wir reden hier ueber verschiedene Inter-
+: pretationen von "Existenz".
+
+Gehen wir davon aus, daß es keine präzise Trennung zwischen theoretischen
+Aussagen und Beobachtungsaussagen gibt (wissenschaftstheoretischer Common
+Sense), dann macht es keinen Sinn, verschiedene Formen der Existenz zu
+unterscheiden. Eine Formalisierung unserer Theorie würde als Logik erster
+Stufe auch nur einen Variablentyp enthalten mit dem über Zahlen, Pferde,
+Elektronen, Einhörner und Folgen gesprochen werden kann.
+
+Und nach allem, was ich über unsere Physik verstehe (was nicht viel ist),
+folgt aus jeder ihrer theoretischen Formulierungen, daß es unendlich lange
+Folgen mit der Wahrscheinlichkeit 0 gibt, oder doch zumindest, daß es
+überabzählbare Raum-Zeit-Punkte gibt.
+
+: > Nach Orttmann existieren genau die Dinge, die ben tigt werden, um eine Theorie
+: > wahrzumachen.
+
+: Hmmm... DAS sagt Orttmann? Mir scheint, das setzt ein Mass fuer "Wahrheit"
+: voraus. Wie misst Orttmann Wahrheit?
+
+Ganz simpel, die Theorie wird in einer Logik erster Stufe formuliert. In ihr
+kommen Prädikate für Zahlen, Pferde, Elektronen und Einhörner vor. Um von
+der Wahrheit einer Theorie zu sprechen, wird noch ein Modell benötigt, in
+dem die Sätze der Theorie gelten. Zum Modell gehört der Gegenstandsbereich
+der Objekte über die die Variablen laufen. 
+
+: [...]
+: > Mit dieser Erleuterung wird auch klar das unsichtbare, rosa
+: > Einh rner nicht existieren, denn man kann das als singul re Kennzeichnung
+: > aufl sen (\exists x)[ Einhorn(x) & rosa(x) & unsichtbar(x) ], und wird
+: > feststellen, das kein solcher Gegenstand existiert auf den alle drei
+: > Pr dikate zutreffen.
+
+: Dann streichen wir doch mal "rosa" und betrachten den Satz
+: (\exists x)[ Einhorn(x) & unsichtbar(x) ]. Hier liegt dann kein
+: offensichtlicher Widerspruch mehr vor.
+
+Es geht mir im Prinzip auch nicht darum einen Widerspruch zu erzeugen,
+sondern lediglich zu zeigen, daß es ohne Probleme möglich ist die Existenz
+von etwas zu leugnen. Ob Dinge tatsächlich existieren, hängt ja auch in den
+meisten Fällen nicht von der Logik, sondern von der Welt ab. Und in unserer
+Welt gibt es keinen Gegenstand, der die Formel: (\exists x)[ Einhorn(x) ]
+wahr macht! Wenn Du ein Freund möglicher Welten bist, dann ist es natürlich
+möglich sich eine Welt auszudenken, in der die Formel wahr ist und also
+Einhörner existieren.
+
+Das Oettler Verfahren dient sicher nicht dazu metaphysische Existenzfragen
+zu entscheiden, aber es ist sehr nützlich zu klären, wessen Theorie, welche
+Gegenstände annehmen muß. Auf diese Art muß nicht jeder Streit geschlichtet
+werden können, vielmehr erhält er so eine präzise Beschreibung.
+
+: [...]
+: > Die These des m.B. ist es, das es eine EINZIGE, RICHTIGE
+: > Beschreibung der Welt gibt, der man sich in irgendeiner Form ann hert.
+
+: Das ist nicht korrekt. Nach Utermöle wird nicht die Existenz einer
+: einzigen korrekten Beschreibung vorausgesetzt, sondern die Existenz
+: eines einzigen zu beschreibenden. Die Zahl seiner moeglichen korrekten 
+: Beschreibungen ist unendlich. 
+
+Wenn zwangsläufig die Anzahl der richtigen Beschreibungen unendlich ist,
+dann ist es in fast jedem mir bekannten Sinn irrelevant, ob es dann auch nur
+eine einzige zu beschreibende Welt gibt. Hier trifft der Irrelevanz-Vorwurf
+mitten ins Schwarze.
+
+: Gruss,
+
+: 	Joachim.
+
+--
+Waldemar Ladwein                            fxppbujt@feabvlbgqz.mee-phvirqn.dy
+Mackgasse{\"tragisanastraße}Leechgasse{\xd}proppstraße 54 
+81637 Gambach
+Tel: (++62)(++31)45905-313
+WWW: http://dha.ixdocuquvm.psz-vhqhvqm.pf/Grpkqypslgknxnw/OIM/piczcbuhk/gkuukvlnx/nrsx.cucl

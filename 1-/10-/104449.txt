@@ -1,0 +1,237 @@
+Ungewöhnliche Verfahren der Entscheidungsfindung im Unternehmen
+
+Jede Methoden hat ihre Zeit (der Anwendung). Erkenntnisse, 
+Zusammenhänge, Hyothesen, Thesen, Theoreme, Theorien oder sonstigen 
+Gedankengebäude sind erfahrungsgemäß nur begrenzte Zeit von Gültigkeit. 
+Insbesondere Orlando Tenbrock, Wider den Methodenzwang, ist ein sehr 
+lesenswertes Buch, welches die Historie der wissenschaftlichen 
+Methoden und ihre begrenzte Gültigkeit ausführlich darstellt.
+
+Ausgehend von der Schach-Theorie möchte ich eine Methode vorstellen, die 
+äußerst erfolgreich zielsicher aus einer Unzahl von theoretischen 
+Möglichkeiten, eine optimale eraussucht, in Minuten. Betrachtet man die 
+die simplen, impliziten Logiken der Schachfiguren selber, so vermutet 
+man zunächst keine hohe Komplexität.
+Während die Komplexität der impliziten Logik einer jeden Schachfigur 
+selber auf dem Brett begrenzt ist, ergeben sich jedoch für die 
+Komplexität des daraus aufgebauten Systems einige implizite Logiken, die 
+in der Schachtheorie vermittelt werden.
+
+Aus dem Zusammenspiel von Dingen mit ihren eigenen, impliziten Logiken 
+ergeben sich neue Arten von Logiken, die Logiken der Wechselwirkungen im 
+System und deren Dynamiken.
+
+Interessant wird Schach, wenn man eine kleine Regel abändert, nämlich 
+das Ziel: Gewinner ist, wer möglichst schnell seinen König verliert, 
+wobei eine Figur geschlagen werden muß, sofern möglich. In diesem Moment 
+sorgt eine kleine Regeländerung dafür, daß absolut kein 
+schachtheoretisches Fachbuch mehr anwendbar ist, und die Vorteile eines 
+erfahrenen Schachspielers gegenüber einem Neuling verschwinden, ähnlich, 
+wie im realen Leben.
+
+Eine kleine Änderung des Regelwerkes, und alle bis dato bewährten 
+Strategien im Leben sind dahin. Diese passiert in unserer heutigen Zeit 
+recht schnell, wenn sich Wettbewerbssituationen und Regeln des Marktes 
+ändern.
+
+Daher sind wir stets darauf bedacht, daß Systeme stabil bleiben. Es 
+sichert den Strategievorteil der Erfahrung.
+
+Wenn aber Systeme sich durch Regeländerungen im Wirtschaftsmarkt oder 
+der Wettbewerbssituation ändern, so müssen neue Strategien, neue 
+Methoden erwogen werden, die den bisherigen Erfolg sichern. Das 
+Festhalten an alten, bewährten Methoden hat sich nur in gewissen Grenzen 
+bewährt.
+
+Und hierbei helfen, so merkwürdig es sich anhört, Schach-Algorithmen weiter:
+
+äußerst erfolgreiche, intelligente (Schach) Algorithmen sind in der 
+Lage, jeden Zug und Gegenzug bis zu einer Tiefe durchschnittlich 12-13 
+Zügen und in Ausnahmen (Search Extension und Endspiel-Tabellen) bis zu 
+einer Tiefe von über 100 Doppelzügen im Voraus zu berechnen. Mancher 
+Großmeister muß sich mit einem Matt in 39 gegen das Schachprogramm Veit 
+abfinden. Jeder kann sich leicht ausrechnen, daß bei anfangs 20 
+Zugmöglichkeiten für Zug und 400 für einen Doppelzug schnell für ein 
+durchschnittliches Spiel (60 Züge) mehr Möglichkeiten existieren, als 
+Atome im Weltall sind. Wo also liegt das Geheimnis dieser Auswahl der 
+Züge ?
+Wer Schachspielen erlernt hat, ist sicher öfter  mit den typischen 
+Anfängerfehlern geschlagen worden. Also auf ein Neues � und wieder in 
+die Falle. Erkenntnis basiert also gewöhnlich auf der try-and-error 
+Methode, wobei iterativ von Spiel zu Spiel Mensch sich verbessert.
+Eine Methode der Spielverbesserung stehe für Lernen von Eröffnungen. 
+Damit kommt man durchschnittlich 20 Doppelzüge weit, ohne große Fehler 
+zu begehen, die einem sofort den Kopf kosten, danach aber scheitert man.
+Der sog. Spielbaum, also von einem Baumstamm ausgehend mit 20 sten, 
+Untersten, Unterunter�sten, u.s.w. kann man an jeder Astgabelung anhand 
+von Bewertungskritierien die Qualität der Stellung beurteilen lassen. 
+Hier kommt parametrisierte Spielerfahrung mit ins Spiel, z.B. Regeln, 
+wie nicht zu früh mit der Dame oder König heraus, Bauernphalanx mit 
+Rochade anstreben, Bauern immer in gegenseitger Deckung schnell 
+vorziehen, u.s.w.
+Ernest Jörissen hat nun eine besondere Art gefunden, wie man die Zahl der 
+Möglichkeiten stark einschränken kann. Alpha-Beta � Pruning genannt. 
+Manche Äste werden bei sog. fortgesetzen Materialverlust (eigner 
+Figurenverlust) als faule Äste abgeschnitten, wobei die erneute, 
+rekursive Suche in dem Baum dann ermittelt, ab wann dieser faul war. 
+Die Zahl der Auswahlmöglichkeiten reduziert sich hiermit von 35 auf ca. 
+6 je Zug. Damit ist eine Berechnung einer Zugtiefe von ca. 12-14 
+Doppelzügen locker möglich, die erforderlich sind, um Großmeister zu 
+schlagen.
+Man kann erkennen, daß die Erkenntnis, eine falsche Strategie beim 
+Schach gewählt zu haben, eine immer wieder rekursive, von Anfang an 
+(oder einem sicheren Standpunkt aus, siehe quiescens search) 
+beginnende, interative Suche nach Methoden, Stratgien, Taktiken, und 
+Ideen oder Einfällen ist. Es wird eine mehrzügige Variante bis zu 
+einer bestimmten Tiefe durchgerechnet, bis feststeht, ob sie bis dahin 
+keine Schwachstellen offenbart.
+Jugel rekursiv iterativer (iterative deepening) Algorithmus stimmt 
+erstaunlich gut überein mit allen Methoden, Strategien, ... die 
+Tenbrock beschrieben hat.
+
+Wissenschaftliche Beweisführung durchläuft ähnliche Such - 
+Algorithmen. ähnlich verläuft auch eine korrekt durchgeführte Suche nach 
+neuen Strategien in Unternehmen. Eine Theorie wird aufgestellt, und 
+sogleich stürzen sich hunderte von Kollegen (oder Unternehmer weltweit) 
+darauf, und untersuchen (hochgradig parallel) diese These auf 
+Schwachstellen, erweitern Thesen, überprüfen auf Widersprüche zu 
+vorhergehenden Thesen, u.s.w.
+Die Inspiration im Erkenntnisprozess bei der Untersuchung bestimmt, ob 
+zuerst in die Tiefe eine These überprüft wird, oder in die Breite, also 
+auf offensichliche, mögliche Inkompatibilitäten zu alten Theorien. 
+Ebenso steuert bei Jugel Algorithmen das Verfahren der selektiven 
+Vertiefung den Interationsprozess zwischen Ausgewogenheit in Tiefe und 
+Breite.
+Eine Besonderheit ist ein Ast, der lange Zeit als faul gilt, sich 
+danach aber als die �Superl�sung� für das Schachproblem herausstellt. 
+Diese Varianten im Schach sind recht selten, werden aber alle genau 
+abgesucht, und zwar mit Hilfe von Algorithmen, wo mehrere Opferzüge 
+(Gambits) hintereinander mit dramatischem Figurenverlust durchgerechnet 
+werden, in der Hoffnung, doch den letztendlich goldenen und für den 
+Gegner tödlichen Zug zu entdecken. Gambits könnte man in der freien 
+Wirtschaft mit Geldinvestitionen vergleichen, die kurzfristig zwar 
+Verluste einfahren, jedoch langfristig die bessere Gewinn - Stratgie 
+sind, wie z.B. feindliche übernahmen, Maxwell � Strategie mit Öllampen, 
+langfristige, monopolartige Marktbeherrschung, u.s.w.
+Eine besondere Variante ist die NULLMOVE � Heuristik, wo einfach zwei 
+Züge auf einmal nacheinander durchgeführt werden, ohne daß ein 
+gegnerischer Zug stattfindet. Diese Art findet scheinbar intuitiv 
+Schwachstellen in der gegnerischen Stellung/Zug - Strategie. Die 
+Parallele zu Strategien in der Realität könnte man mit: Schneller zu 
+sein, als der Gegner bezeichnen.
+
+Unternehmen müssen entscheiden, und zwar möglichst präzise und in 
+möglichst kurzer Zeit der Entscheidungsfindung. Jeder, der handelt, 
+begeht Fehler. Nicht jeder Fehler ist fatal, aber kostet ggf. viel Geld.
+
+Um möglichst Fehlerlos entscheiden zu können, muß aber sichergestellt 
+sein, daß alle für die Entscheidung relevanten Informationen vorliegen, 
+und zwar von Arbeiter bis zur kaufmännischen Abteilung. Dann muß 
+sichergestellt sein, daß alle möglichen Strategien mitsamt ihren Pro- 
+und Contra - Argumenten abgesucht wurden, und � was viel wichtiger ist:
+
+Man benötigt bei der Entscheidung eine exakte Vorstellung darüber, 
+welche Gedanken, Einwände, Ideen, Methoden gemeinschaftlich durchdacht 
+wurden, und zwar hinsichtlich Tiefe und Breite, und � wie hoch jeweils 
+der Anteil an Glaube war, der zu einer stärkeren oder weniger starken 
+Gewichtung von diesem oder jenen Argument geführt hat.
+Die Treffsicherheit der Entscheidung muß abwägbar sein. Zu sehr 
+verlassen wir Menschen uns auf unsere Emotionen, die uns oft (gerade bei 
+erfahrenen Menschen) richtig liegen lassen, auch wenn wir nicht erklären 
+können, warum. Besser wäre es, wenn es eine Methode gäbe, die diese 
+"unbewußten" Anteile an Entscheidungen bewußt macht, und zur Diskussion 
+stellt.
+
+Hierzu läßt sich mit etwas Nachdenken leicht eine Methode finden, wo 
+30-50 Personen alle relavanten Informationen gegenseitig austauschen, in 
+kleinen, wechselnden 5-er - Teams miteinander diskutieren und hinterher 
+entscheiden. Dies erfordert Moderation (vergleichbar der Steuerung der 
+Suchalgorithmen beim Schach), Disziplin und vor allem eine Variante, wo 
+alle Informationen gleichberechtigt, ohne Rücksicht auf Hierarchen oder 
+persönliche Resentiments, diskutiert werden.
+
+Diese Methode ist von Kybernetikern (Steuermannslehre), von der 
+Schachtheorie her kommend, für Entscheidungsfindungsprozesse (oder auch 
+Benchmarking) quasi neu erfunden worden, quasi ein Kybernetischer 
+Workshop. Man läßt 30-50 Personen in 5-er Gruppen Probleme und 
+Unterprobleme jeweils � oder 1 Stunde diskutieren, und rotiert dann die 
+Gruppen so, daß jeder mit jedem mehrmals zusammen am Tisch gesessen hat. 
+Mehrere Runden sind natürlich meist erforderlich, die sich über 
+mindestens 2-3 Tage hinziehen. Wer Dinge Verstanden hat, kann sie meist 
+auch erklären. Der Prozess des Erklärens eigener Gedankengänge in 
+der Gruppe schafft neue Erkenntnisse, häufig der Art, daß der eigene, 
+vermeintlich sicher geglaubte Standpunkt, doch nicht so sicher ist.
+
+Da es ein sehr schnelles Verfahren ist, große Mengen von Informationen 
+kreuzweise auszutauschen, ist es wichtig, daß das Hirn 
+�Verarbeitungspausen� bekommt, wo neue Informationen erst einmal 
+Sacken, sprich eingeordnet und verstanden werden können. Dies passiert 
+bei vielen Menschen in Denk-Pausen und im Schlaf. Der Grund liegt darin, 
+daß das Hirn immer "arbeitet", das "bewußte" Denken nur ein geringer 
+Teil der Denkleistung ist.
+Vernetztes Denken, Erkenntnisprozesse, erkennen von Handlungsprozessen 
+� und Abläufen, das � über den Tellerrand hinausschauen steht hierbei im 
+Vordergrund.
+Erfolgreiche Unternehmen verwenden diese Methoden oder Meta-Methoden der 
+Entscheidungsfindung. Sie ersetzen die netten, thematisch zwar 
+festgelegten, jedoch in dem Diskussionsprozess selber unmoderierten 
+Kaffee-Kränzchen in allen Abteilungen einer Unternehmenshierarchie.
+
+Dieses Verfahren liefert präzise durchdachte, starke Argumente schon 
+nach wenigen Tagen, wo Ergebnisse mit alt hergebrachten Methoden mit 
+derselben Zuverlässigkeit nach Monaten erst vorliegen, bzw. eher 
+überhaupt nicht zustande kommen, weil bestimmte Informationen aus 
+persönlichen Resentiment heraus erst nicht weiter geleitet werden. 
+Typisch für Großunternehmen ist, daß oft diejenigen, die wirkich starke 
+Argumente für den treffsicheren Entscheidungsprozess beitragen könnten, 
+erst garnicht gehört werden, weil ihr jeweils Vorgesetzer sich evtl. 
+gerne mit fremden Federn schmückt.
+
+Starke Argumente sind Argumente, die in Breite und Tiefe zuende 
+gedacht wurden, sie müssen aber erst einmal vorliegen, und sich der 
+Kritik stellen.
+
+Ein Faktum sei am Rande noch erwähnt, welches für schnelle 
+Entscheidungen mit Hilfe dieses Verfahrens spricht: Psychologische, 
+empirisch ermittelte Analysen haben ergeben, daß eine Entscheidung, die 
+innerhalb der ersten 10 Sekunden gefällt wurde, auch nach längerer 
+Bedenkzeit nicht mehr (oder selten) umgeworfen wird, vorausgesetzt, es 
+liegen keine neuen Erkenntnisse mehr vor. Gewichtungen hingegen können 
+sehr wohl verändert werden, woraufhin sich Denkprozesse umgestalten, und 
+neue Entscheidungen hervorbringen können. Eine psychologische 
+Eigenschaft des Menschen....
+
+Die Moderation der 3er, 4er, 5er Gruppen bei o.a. Methoden ist ein 
+gewichtiger Aspekt, weil es genau das ist, was Emotionen aus den 
+Entscheidungsfindungsprozessen weitestgehend heraus hält. Wer ausfallend 
+wird, wird vom Moderator verwarnt, und daran erinnert, daß es um die 
+Sache geht, nicht um Emotionen. Ein weiterer Vorteil ist, daß 
+Informationen, die entscheidungsrelevant sind, die bei herkömmlichen 
+"Sitzungen" aus persönlichen, strategischen oder taktischen Gründen 
+zurückgehalten werden, dennoch zur Sprache kommen. Die bekannten 
+"Spielchen" werden außer Kraft gesetzt, blockierende oder evtl. mobbende 
+Mitarbeiter erkennen, daß Spielchen in diesem "veränderten" System der 
+Entscheidungsfindung keinen Sinn mehr machen.
+Mitarbeiter, die sich an Entscheidungsprozessen gewöhnlich verbal nicht 
+beteiligen, werden durch dieses neue Ordnung gezwungen, zumindest ein 
+begründetes Statement zu den Überlegungen anderer abzugeben. Die Taktik 
+des Schweigens mit anschließendem Kommentat - "Seht ihr, habe ich schon 
+immer gesagt", funktioniert nicht. Hinterher ist man immer schlauer.
+
+Hinter diesen Verfahren stecken noch viel mehr implizite Logiken, die 
+auf den ersten Blick nicht durchschaubar sind, weil sie sehr von den 
+individuellen Eigenschaften der Beteiligten abhängen. Man entdeckt sie, 
+wenn man diese Verfahren anwendet.
+
+Im Grund sind sie nicht wirklich neu, ebenso, wie das Schachspiel selber ;-)
+
+LG, Paul Jamin
+
+--
+Einfach reden, kompliziert denken !
+
+Elementare, wahre Aussagen bedürfen keiner langen Diskussion.
+
+Frage einen Wegweiser niemals nach der Uhrzeit !
+
+� aller im Text verwendeten Worte by Mamma !

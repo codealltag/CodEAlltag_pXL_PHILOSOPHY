@@ -1,0 +1,12 @@
+Alex Koord <pdfjj-psjoijj@avxau.wz> schrieb:
+
+[...]
+
+
+d(x, y) = d(y, x)
+
+
+Mit dem wichtigen Korollar, dass Unterscheidbarkeit schon eine
+Metrik impliziert: d(x, y) = 1, wenn x nicht gleich y, erfuellt
+die Bedingungen oben.
+   Heiner

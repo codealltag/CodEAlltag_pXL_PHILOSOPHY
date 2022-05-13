@@ -1,0 +1,22 @@
+Ja, da gebe ich Euch recht, das war Quatsch was ich zuvor gesagt hatte.
+
+Nochmal zur Problemanalyse: Wenn man zeigen könnte, dass das Feld *einer*  
+bewegten Ladung sich korrekt verhält, also überall Divergenz null hat  
+außer dort, wo die Ladung ist, dann gälte das natürlich auch für viele  
+Ladungen, d.h. es gäbe keinen Widerspruch zu den Maxwell'schen  
+Gleichungen, sondern allenfalls ein paar verzwickte Fälle (wie Wolfgangs).
+
+Das Feld einer *gleichförmig* bewegten Ladung lässt sich im Ruhesystem als  
+Coulomb-Feld schreiben, das die benötigten Eigenschaften hat. Bleiben also  
+die Felder beschleunigter Ladungen. Was ist z.B. mit dem Fall einer  
+gleichmäßig beschleunigten Ladung? Hier hat man zusätzliche Felder  
+(Wellen), die senkrecht zur Ausbreitungsrichtung stehen, also ebenfalls  
+Divergenz null haben.
+
+Leopold: Du müsstest, um Deine Behauptung zu beweisen, zeigen können,  
+dass aufgrund der endlichen Ausbreitungsgeschwindigkeit der Felder Stellen  
+enstehen, wo die Divergenz ungleich null ist, denn Du behauptest ja einen  
+Widerspruch zum Gauss'schen Gesetz. Irgendwie müssten die  
+Retardierungseffekte zu Senken im elektrischen Feld führen. Aber wie?
+
+W.

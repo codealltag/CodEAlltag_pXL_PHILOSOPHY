@@ -1,0 +1,55 @@
+Hallo Wilhelm,
+
+
+Indirekt hast Du das behauptet. Oder vielmehr: es ist die
+unausgesprochene Annahme in Deinem Gedankenexperiment. Das Problem ist
+nämlich: es gibt keine zwei aneinandergrenzenden Objekte in dem von Dir
+(vermutlich) gemeinten Sinne. 
+
+
+Das geht deswegen nicht, weil die "Lücke" andere Eigenschaften hat als
+Deine vorher betrachteten Objekte. Um nicht zu abstrakt zu werden,
+versuche ich es an einem Beispiel:
+
+Nimm zwei Kugeln mit Radius 1. Der Rand gehöre zur Kugel mit dazu. (Man
+nennt das eine abgeschlossene Menge). Fähre sie aufeinander zu. wie
+lange geht das? Bis sich die Kugeln berühren. Was heisst das: das
+heisst, dass die zwei Kugeln genau einen Punkt gemeinsam haben, nämlich
+den Berührpunkt. wenn die Kugeln noch ein winziges Bisschen auseinander
+sind, geht es immer noch ein bisschen näher. 
+
+Und jetzt das Problem: Die "Lücke", was immer das sein soll (streng
+mathematisch, die Menge aller Punkte, die nicht zu den beiden Kugeln
+gehören), ist eben *keine* abgeschlossene Menge, sondern eine offene
+Menge. Umgangssprachlich könnte man sagen: Der Rand der Menge gehört
+nicht zu dieser Menge. 
+
+Wenn Du jetzt eine offene und eine abgeschlossene Kugel nimmst, und
+diese zusammenführt, dann geht das auch. So lange, bis sich der Rand
+der abgeschlossenen Kugel (der zur Kugel gehört) und der Rand der
+offenen Kugel (der nicht zur Kugel gehört) wieder in einem gemeinsamen
+Punkt berühren. dieser gemeinsame Punkt gehört dann alleine zur
+abgeschlossenen Kugel, der Punkt ist zwar Rand der offenen Kugel, gehört
+aber nicht zu dieser. Dieser Fall entspricht vermutlich am ehesten dem
+von Dir gemeinten Gedankenexperiment. 
+
+Das was Dir paradox erscheint ist die spezifische Eigenschaft, die jede
+offene Menge hat: Wenn eine Menge offen ist, dann gibt es zu jedem Punkt
+der Menge eine kleine Umgebung (eine winzige Kugel drumrum), die auch
+noch vollständig zur Menge gehört.
+
+Einfachste Beispiele offener Menge sind offene Intervalle, z.B. das
+Intervall ]0,1[ (das ist die Menge aller x mit 0 kleiner als x kleiner
+als 1). nimm irgendeinen Punkt nahe bei 1 ( z.B. 0,999999999999) Dann
+liegt eine gantze Umgebung dieses Punktes (zum Beispiel alle Zahlen von
+0,9999999999985 bis 0,9999999999995) auch in diesem offenen Intervall.
+Du kennst genau die Grenzen des Intervalls (nämlich 0 und 1), aber die
+Grenzen selbst gehören nicht zum Intervall, und es gibt keinen der
+Grenze nächstliegenden Punkt.
+
+So das war jetzt aber etwas OT, und hätte unter der Überschrift
+"Topologie" eher in die Mathematik NG gehört.
+
+Gruss
+
+Bernd

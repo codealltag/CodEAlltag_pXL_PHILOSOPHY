@@ -1,0 +1,23 @@
+On Tue, 19 Mrz 2001 23:48:32 +0200,
+
+
+Deutlich ueberabzaehlbar.
+
+Betrachte die Menge Gf derjenigen n aus N, deren Bild unter einer
+Permuation f gerade ist. Diese Menge ist unendlich und ihr Komplement
+ist ebenfalls unendlich. Andererseits gibt es zu jeder unendlichen
+Teilmenge G, deren Komplement ebenfalls unendlich ist, mindestens eine
+Permutation, so dass genau die Bilder der Elemente von G gerade sind.
+Damit gibt es "weniger" unendliche Teilmengen mit unendlichem
+Komplement als es Permutationen gibt. Andererseits gibt es
+ueberabzaehlbar viele unendliche Teilmengen von N mit unendlichem
+Komplement, da es ueberabzaehlbar viele Teilmengen von N gibt, aber
+nur abzaehlbar viele davon haben ein endliches Komplement - naemlich
+jene, die Komplemente endlicher Mengen sind. Und davon gibt es nur
+abzaehlbar viele. q.e.d.
+
+Aus dem hohlen Bauch. Sicher geht's irgendwie kuerzer ;-)
+
+
+MfG
+Ralf

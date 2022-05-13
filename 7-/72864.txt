@@ -1,0 +1,75 @@
+Ingolf M. in news:lg9yc3$10b$2@dtvax.xx-mkmn.gog :
+
+
+Während obiger Beitrag sich primär auf das hintere Raumschiff
+konzentrierte, geht es hier um das VORDERE der beiden Raumschiffe,
+die zur Zeit t = 0 gleichzeitig und augenblicklich auf v = 0.995 c
+beschleunigen.
+
+Um einen kontinuierlichen Gang der Uhren für das VORDERE Raumschiff
+zu gewährleisten (d.h. t < 0 geht durch t = t' = 0 in t' > 0 über),
+legen wir diesmal den Nullpunkt x = 0 durch das vordere Raumschiff.
+Für die Beschleunigungs-Ereignisse ergeben sich somit im Ruhesystem
+S (anstatt [3a, 3b]) folgende Koordinaten:
+
+   Start_H:      x  =  -1 LJ    t  =  0 Jhr            [ 7a ]
+   Start_V:      x  =   0 LJ    t  =  0 Jhr            [ 7b ]
+
+Mittels [1a, 1b] erhalten wir die entsprechenden S'-Koordinaten:
+
+   Start_H':     x' = -10 LJ    t' =  9.95 Jhr         [ 8a ]
+   Start_V':     x' =   0 LJ    t' =  0 Jhr            [ 8b ]
+
+Die eigene Beschleunigung transferiert für Beobachter im Raumschiff
+vorne das Beschleunigungs-Ereignis von Raumschiff H nicht nur 9 LJ
+weiter nach hinten sondern auch 9.95 Jahre in die Zukunft.
+
+Beobachter im Raumschiff vorne benötigen aber für eine Entfernung zum
+hinteren Raumschiff deren x'-Koordinate zum momentanen Zeitpunkt und
+nicht den Wert 9.95 Jahre in der Zukunft. Aber wo sind Startrampe H
+und Raumschiff H zu t' = 0, wenn sie sich zu t' = 9.95 Jhr am Ort
+x' = -10 LJ befinden?
+
+t' = 9.95 Jhr ist der Zeitpunkt, an dem Raumschiff H im System S'
+zu ruhen beginnt. Davor ruht es zusammen mit seiner Startrampe im
+Ruhesystem S und bewegt sich in S' mit v = 0.995 c nach hinten.
+Somit waren zu t' = 0 Raumschiff H und Rampe H noch nicht bei
+x' = -10 LJ sondern 9.95 Jhr * 0.995 c = 9.9 LJ weiter vorne, d.h.
+bei x' = -0.1 LJ.
+
+Die eigene Beschleunigung führt für Beobachter in Raumschiff vorne
+dazu, dass sich nicht nur die Entfernung zu Startrampe H sondern auch
+zu Raumschiff H von 1 LJ auf 0.1 LJ verkürzt. Nur wenn die Beobachter
+V sich dann 9.95 Jahre (eigene Uhr) inertial bewegen, erreicht die
+Entfernung zu Raumschiff H die der offiziellen Lösung des Paradoxons
+entsprechenden 10 LJ.
+
+Also direkt nach der Beschleunigung (d.h. zu t' = 0) befindet sich
+für Beobachter V Raumschiff H und Startrampe H bei x' = -0.1 LJ. Die
+entsprechenden entfernungs-relevanten (somit in S' gleichzeitigen)
+Ereignisse sind:
+
+   Entfer_H':  x' = -0.1 LJ    t' = 0 Jhr             [ 9a ]
+   Entfer_V':  x' =  0 LJ      t' = 0 Jhr             [ 9b ]
+
+Mittels [2a, 2b] ergeben sich die Ereignisse im Ruhesystem S:
+
+   Entfer_H:   x  = -1 LJ      t  = -0.995 Jhr        [ 10a ]
+   Entfer_V:   x  =  0 LJ      t  =  0 Jhr            [ 10b ]
+
+Für Beobachter im vorderen Raumschiff gilt also: der für die
+Entfernung zum hinteren Raumschiff relevante Raumzeitpunkt [9a]
+liegt im Ruhesystem S zeitlich 0.995 Jahre vor (!) dem Start der
+beiden Raumschiffe [10a].
+
+Was ist, wenn der Bau von Startrampe und Raumschiff hinten erst etwa
+ein halbes Jahre vor dem Start anfing? Die Antwort müsste für alle
+diejenigen offensichtlich sein, die meinen, die Findling vollständig
+begriffen zu haben:
+
+Die eigene Beschleunigung der Beobachter im Raumschiff vorne führt
+dazu, dass das hintere Raumschiff noch (!) nicht existiert (obwohl
+es vor der Beschleunigung schon existierte).
+
+
+Gruss, Ingolf

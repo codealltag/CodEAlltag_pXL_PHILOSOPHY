@@ -1,0 +1,14 @@
+Am 08.10.01 schrieb Robert Liedtke:
+
+
+Division durch Null widerspricht dem Begriff der Teilung.
+
+A/B bedeutet: 
+ erzeuge B Teile von A 
+Wenn B=0:
+ erzeuge keine Teile von A
+
+Wenn aber keine Teile erzeugt werden, ist der Begriff der Teilung nicht
+anwendbar.
+
+Uwe

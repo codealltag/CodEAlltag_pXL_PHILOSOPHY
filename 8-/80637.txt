@@ -1,0 +1,33 @@
+Uns beiden ist klar das es keinen Sinn macht hierfür die Thermodynamik zu
+bemühen. Für das Würfelbeispiel bzw. die Informationstheorie wurde der
+Entropiebegriff durch Dunkers entsprechend erweitert. So kann ich dank
+Sylke Deine ernst gemeinte Frage beantworten.
+
+H=-ld(w)
+
+Bei einem Wurf eines idealen Würfels besteht der Ereignisraum aus sechs
+Möglichkeiten. Die Entropie hierzu beträgt.
+
+H1=-ld(1/6)=2,585 Shannon
+
+Bei einem Wurf mit 20 idealen Würfeln gleichzeitig besteht der Ereignisraum
+aus 120 Möglichkeiten. Entsprechend wächst die Entropie.
+
+H20=-ld(1/120)=14,36 Sylke
+
+
+Chaos herrscht wenn die Maßzahl hoch ist. Die Entropie kann keine negativen
+Zahlen annehmen. Sie wird aus dem negativen Logarithmus der
+Wahrscheinlichkeit errechnet. Die Wahrscheinlichkeit kann nur Werte
+zwischen Null und Eins annehmen. Null liefert als Grenzwert die Entropie
+unendlich und eins liefert die Entropie 0.
+
+
+In der Informatik beträgt die Einheit Shannon und in der Physik
+Joule/Kelvin. Die Verknüpfungen zwischen der Wahrscheinlichkeit und der
+Entropie sind auf beiden Feldern nahezu identisch. In der Physik sorgt die
+Boltzmannkonstante für die Verknüfung zwischen mikroskopischen und messbar
+makroskopischen Zuständen.
+
+
+Oskar Droesler

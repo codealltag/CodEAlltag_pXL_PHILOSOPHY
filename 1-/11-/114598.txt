@@ -1,0 +1,62 @@
+Hallo Jakob,
+
+
+Nein.
+
+Das ist wie bei der Netzwerkanalyse mit den Kirchhoffschen Regeln.
+Man kann _beliebige_ Maschen wählen und in diesen ist die Summe aller
+Spannungen Null.
+Man wählt die Maschen so, dass sich möglichst einfach lösbare
+Gleichungen ergeben.
+Die Imort Regeln sind so genial universell, dass sie sogar in
+nichtlinearen Netzwerken und im "leeren" Raum gelten.
+
+Genauso ist es in der Statik. Die Summe aller Kräfte in einem Stabwerk
+ist Null, wenn es stabil ist. Das gilt auch für _beliebige_ Ausschnitte
+des Stabwerks.
+
+Genauso kann man die Regeln für ein Stabwerk auf den materieerfüllten
+Raum übertragen. Wenn man einen beliebigen Ausschnitt wählt, dann muss
+die Summe aller Kräfte darin Null sein, damit er statisch ist.
+Da die Gravitation im Hohlraum einer Kugel Null ist, ist sie es auch im
+Hohlraum einer unendlichen Kugel. Selbst wenn der Raum anisotrop wäre,
+würde nur eine translatorische Kraft auftreten, aber keine kontrahierende.
+
+Ich kann also beliebige, möglichst geschickt gewählte
+_endliche_ Ausschnitte des Raumes betrachten, denn die Summe aller
+Kräfte, die aus dem Aussenraum kommen, ist ja NULL. 
+
+
+Daraus würde folgen dass der gesamte Raum homogen kontrahiert.
+Wird ein unendlicher Raum kleiner, wenn er kontrahiert?
+Nein. Ein unendlicher Raum ist nicht berechenbar.
+Jeder Versuch der Berechnung _kann_ in Widersprüchen enden.
+(Wenn er nicht berechenbar ist, dann heisst das nicht, dass er nicht
+existieren kann, aber er ist eben nicht berechenbar)
+
+Man kann aber Sätze, die in einem endlichen Raum gelten, auf Ausschnitte
+des unendlichen Raumes anwenden.
+
+
+Das Problem ist, dass Du versuchst, das Verhalten eines unendlichen Raumes
+zu betrachten oder zu berechnen.
+
+Das ist prinzipiell unmöglich. Es besteht auch keinerlei Interesse daran.
+Man kann _nur_ endliche Abschnitte des Raumes berechnen.
+Die Existenz endlicher Raumabschnitte und die Existenz von Gravitation
+darin ist bekannt, und es gibt jede Menge von Sätzen darüber.
+
+Und mit dem was ich schrieb, habe ich gezeigt, dass ein endlicher Raum
+sich paradox verhält, wenn er Bestandteil eines unendlichen, homogen
+masseerf�llten und statischen Raumes ist.
+
+Daher kann ein solcher _endlicher_ Raum in einem solchen unendlichen
+Kontext nicht existieren. 
+
+Man drückt es besser so aus, denn mit Aussagen über das Unendliche tritt
+man immer in irgendwelche logisch-philosophisch-mathematische
+Fettnäpfchen.
+
+Grösse,
+
+ihno

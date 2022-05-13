@@ -1,0 +1,30 @@
+...
+
+Zeige mir einen Test auf Determiniertheit, der nicht bei geeigneter
+zeitlicher Versuchsanordnung ein Test auf Vorhersagbarkeit ist.  
+
+Ich lasse erst den einen Rechner laufen, ohne das Ergebnis zu kennen.
+Der erfüllt dann Deine notwendige Bedingung.  Der zweite, genau
+identische Rechner, wird allerdings völlig voraussagbar genau
+dasaselbe Ergebnis liefern und würde deshalb Deine notwendige
+Bedingung nicht erfüllen.
+
+OK, es hat einen intuitiven Grund, zu sagen: "Aha, der erste Rechner
+erschien mir noch kreativ, aber der zweite hat dann nur stumpf genau
+dasselbe gemacht."  Insgesamt waren sie aber beide genau gleich
+kreativ oder langweilig.  Es ist in dem Versuchsaufbau völlig egal,
+welchen Rechner ich zuerst laufen lasse.  
+
+...
+
+Jeder Begriff, den der Programmierer der Software selbst nicht
+versteht.  Begriffe, die so verstanden werden, dass sie nur von
+Menschen bzw. Wesen aus Fleisch und Blut erfüllt werden können.  Man
+unterscheidet z.B. "künstliche" und "natürliche" Intelligenz -
+letztere kann prinzipiell nicht Computern zugeschrieben werden, ohne
+die Unterscheidung überhaupt aufzugeben.  Wir würden auch nicht sagen,
+der Computer träumt oder hat Hunger, sondern andere Begriffe
+verwenden, statt Analogien überzustrapazieren.
+
+
+Ciao, Darius

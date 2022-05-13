@@ -1,0 +1,49 @@
+Nein. "Korrelation" und "Kausalität" bewegen sich auf verschiedenen
+Ebenen. "Korrelation" ist eine empirisch bestimmbare Größe: "b" und "c"
+treten (mit einer bestimmten Wahrscheinlichkeit) gemeinsam auf. Dabei
+sind b und c vertauschbar, da die Formel zur Bestimmung der Korrelation
+kommutativ ist (P(ab) != P(a)*P(b) <-> P(ba) != P(b)*P(a)).
+
+"Kausalität" ist ein theoretisches Konzept zur Erklärung von
+Korrelation. Es führt als Erklärungsmodell für die Korrelation ein
+asymmetrisches Element ein und unterscheidet zwischen "Ursache" und
+"Wirkung". Dieses Konzept ist verblüffend erfolgreich, es gibt
+m.W. keinerlei empirisch (mit hohem Konfidenzlevel) bestimmte
+Korrelation, die man letztlich nicht erfolgreich mithilfe des Konzepts
+"Kausalität" erklären kann oder zumindest eine Vorstellung davon hat,
+wie sie kausal erklärt werden könnte. Es gibt zumindest keine gemessene
+Korrelation, bei der offensichtlich ist, dass ihr keine Kausalität
+zugrunde liegt.
+
+Dieses Konzept ist sogar derart erfolgreich, dass es schwerfällt, sich
+überhaupt Alternativen vorzustellen. Selbst Du nimmst an "was akausal
+ist, korreliert nicht" -- obwohl eben die kausale Erklärbarkeit
+lediglich eine Erfahrung ist. Es sind durchaus Beobachtungen denkbar,
+bei denen kausale Erklärungsmuster versagen -- bei dem Beispiel des
+Horizontproblems in der Kosmologie ist die kausale Erklärung schon nicht
+mehr trivial und erfordert einen ziemlich artifiziellen Kunstgriff der
+kosmologischen Inflation. Zum Glück gibt es ja auch andere Hinweise
+darauf. Aber was machen wir, wenn wir etwas beobachten, wo uns ein
+derartiger Kunstgriff verwehrt ist?
+
+Und das wäre dann das Gebiet von akausalen Theorien.
+
+
+Ich meine *nicht* zufällige Korrelation, sondern systematische.
+
+Du nimmst ein Stück eines (exotischen) radioaktiven Materials, ich ein
+anderes. Wir schreiben beide die Zerfallszeitpunkte auf
+(Geigerzähler). Beim Vergleich stellen wir fest, dass die Zeitabstände
+identisch sind. Wir wissen aber (aus anderen Untersuchungen), dass der
+Zerfall eines radioaktiven Elements nicht durch eine äußere Ursache
+beeinflusst werden kann.
+
+Um scheinbare Korrelation auszuschließen, können wir einfach mehr
+Statistik sammeln. Wenn das Ergebnis gleich bleibt, benötigen wir ein
+akausales Modell für das exotische Material.
+
+Quantenverschränkung ist da schon recht nahe dran.
+
+Viele Grüße
+
+Oswald

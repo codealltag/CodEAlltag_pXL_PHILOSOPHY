@@ -1,0 +1,44 @@
+Hallo Salvatore,
+
+
+Es gibt die Goldbach Vermutung:
+"Jede gerade Zahl ist als Summe zweier Primzahlen darstellbar"
+
+Diese ist bisher unbewiesen und unwiderlegt.
+
+Meine Vermutung ist davon abgeleitet.
+Für die Klintworth Vermutung könnte man immerhin noch einen Brute Force 
+Ansatz wählen, um ein Gegenbeispiel zu finden. (Ich bezweifle, dass man 
+ein solches finden wird) D.h. es ist immerhin denkbar, diese Vermutung 
+zu widerlegen.
+
+Für meine Vermutung "Jede gerade Zahl ist als Differenz zweier Primzahl 
+darstellbar" sehe ich jedoch noch nicht einmal einen Ansatz, wie man 
+einen Beweis oder Gegenbeweis führen könnte.
+Ich glaube sogar, dass man sagen könnte "Jeder geraden Zahl kann man 
+unendlich viele (oder besser: beliebig viele) Primzahlpaare zuordnen, so 
+dass Z=P2-P1".
+Das dürfte ebenfalls unbeweisbar sein, aber die erste Version ist noch 
+härter.
+
+Ich gebe zu, es ist ein "was wäre wenn" Spiel, ich kann keine Vermutung 
+vorlegen, die definitiv unbeweisbar ist.
+
+Andererseits haben sich größere Geister als ich Gedanken darüber gemacht 
+und kamen zu dem Schluss, dass es solche Aussagen geben muss und zwar 
+nicht nur als Kuriosum, sondern in überwältigender Anzahl.
+
+Stark verkürzt kann man sagen: Beweise sind komplexer und aufwendiger 
+als Behauptungen. Daher gibt es mehr Behauptungen als Beweise, denn man 
+kann mehr Behauptungen bilden als Beweise.
+Daher gibt es prinzipiell unbeweisbare Aussagen oder Behauptungen, die 
+nicht widersprüchlich oder falsch sind.
+
+Mein wesentliches Problem ist nun: Wie findet oder konstruiert man eine 
+solche unbeweisbare - und unwiderlegbare - Aussage?
+
+Wenn das möglich wäre, könnte ich meinen Gedankengang zu Ende führen.
+
+Größe
+
+Salvatore

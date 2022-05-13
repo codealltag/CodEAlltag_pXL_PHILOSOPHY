@@ -1,0 +1,25 @@
+Du bräuchtest für so etwas eine bestimmte Formalisierung der Logik,
+die einen "Weltparameter" w enthält: [dieser modelliert den
+Situations-oder Kontextbezug]
+
+"p(a) gilt in w" <=> "a in {x|p(x)}^w" ( die Extension wird in Welt w
+gebildet.)
+Eine "Intension" nach der Vorstellung von Riefle wäre dann wohl eine
+Abbildung ^p, die jeder Welt w die in ihr gebildete Extension
+{x|p(x)}^w zuordnet. Die Prädikate "hat ein Herz" und "hat eine Niere"
+hätten dann in unserer Welt die gleiche Extension, in einer möglichen
+anderen aber verschiedene, d.h. die Intensionen beider Prädikate wären
+verschieden. Allerdings ist es zweifelhaft, ob  das  Prädikat mit der
+ihm zugeordneten Intension tatsächlich identifiziert werden sollte.
+Ein Prädikate könnten ebenso als rein sprachliche Entität betrachtet
+werden, die dann durch seine Intension und Extension interpretiert
+wird. Die Gedankenspiele mit möglichen Welten liegen allerdings schon
+außerhalb der klassischen Prädikatenlogik, wenn Alltagssprache aber
+adäquat in einen Formalismus umgesetzt werden soll, sind sie aber imo
+vonnöten.
+
+[Zu deinem Beispiel: Die Umsetzung "kling" richtig, ohne aber die
+genauen Voraussetzungen  zu kennen, kann ich darüber wenig sagen]
+
+
+patrik

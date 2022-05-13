@@ -1,0 +1,21 @@
+Man kann aber (und sei es durch Probieren) eine ganze Anzahl sicherer
+Aussagen finden (Anleitung: Schleife über alle Zeichenfolgen mit
+steigender Länge, innerhalb einer Länge lexikographisch geordnet.
+Davon verwirft man die syntaktisch falschen (das schaffte ein Parser
+in einer Maximalzeit, die kubisch mit der Länge wächst).  Dann
+versucht man mit einem festen Aufwand, die Aussage zu beweisen oder zu
+widerlegen.)
+
+Im Ergebnis hat man 3 Sorten Aussagen: wahre, falsche und unklare.
+Die ersten beiden Klassen sind ziemlich groß.
+
+Mit etwas Glück kann man sogar die Unbeweisbarkeit einer unklaren
+Aussage beweisen.  Wenn man das geschafft hat, fügt man sie oder ihr
+Gegenteil zu den Axiomen hinzu, beantragt neue Forschungsgelder, sagt
+fork() und beginnt von vorn.
+
+Dirk
+-- 
+GS d->? s:++>+++ a+ C++++ UL+++ UH++ P++ L++ E+++ W- N++ o-- K-
+w--- !O M- V- PS+>++ PE Y+>++ PGP+ !t !5 !X !R !tv  b+++ DI+++
+D? G+ e++++ h+ r? y?

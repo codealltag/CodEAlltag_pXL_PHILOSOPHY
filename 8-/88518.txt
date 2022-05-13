@@ -1,0 +1,57 @@
+Wobei die Null als Zahl sehr wohl ein Etwas und kein Nichts ist.
+
+
+Hier zeigt sich der typische Fehlschluss:
+Wenn ich zu etwas nichts hinzufüge, dann ist es nicht so, dass ich
+etwas Inexistentes hinzufüge.
+Wenn ich z.B. zu 10 Kühen 0 Kühe hinzufüge, dann habe ich danach
+*nicht* 11 Kühe:
+10 existente Kühe + 1 inexistente Kuh.
+
+Ich kann nur immer wieder betonen, dass es nichts Nichtseiendes gibt!
+
+Abgesehen davon gibt es jedoch einen sehr wichtigen, von Werner Jäger
+erkannten Zusammenhang zwischen den Begriffen /Existenz/ und
+/Nullzahl/:
+
+"Bejahung der Existenz [ist] nichts anderes als Verneinung der
+Nullzahl."
+
+[W. Jäger: "Die Grundlagen der Arithmetik", =A753]
+
+Formal ausgedrückt:
+
+ExFx :<-> ~(#F =3D 0)
+
+bzw.
+
+~ExFx :<-> #F =3D 0
+
+Beispiele (bezogen auf generelle Existenzaussagen):
+
+"Hunde existieren" / "Es gibt Hunde"
+:<->
+"Die Anzahl der Hunde ist nicht die Null/0"
+bzw.
+"Die Anzahl der unter den Begriff /Hund/ fallenden Gegenstände ist
+nicht die Null/0"
+
+"Einhörner existieren nicht" / "Es gibt keine Einhörner"
+:<->
+"Die Anzahl der Einhörner ist die Null/0"
+bzw.
+"Die Anzahl der unter den Begriff /Einhorn/ fallenden Gegenstände ist
+die Null/0"
+
+Für Jäger kommt jedem Begriff eine bestimmte 'Zahligkeit' zu, sodass
+(generelle) Existenzaussagen des Typs
+
+"Fs existieren" / "Es gibt Fs"
+
+äquivalent sind zu Aussagen des Typs
+
+"Der Begriff F ist nicht nullzahlig"
+
+
+Gruss
+RÜDIGER

@@ -1,0 +1,7 @@
+Eine "reale Strecke" ist nicht eindeutig definiert. Sie kann allerdings definiert
+werden auf Basis einer mathematischen Strecke durch Hinzufügung von
+Randbedingungen für die Ungenauigkeit. Die Anzahl "realer" Punkte hängt dann
+von der Menge von Punkten ab, die die Ungenauigkeitsbeschr�nkung zulässt.
+Bleibt bloss die Frage, wann man dieses "reale" Gebilde dann noch Strecke nennt ...
+
+Albin

@@ -1,0 +1,28 @@
+On 4 Feb 2005 06:28:23 -0800, "Werner Verdirk"
+Das ist jetzt sehr "philosophisch" formuliert. Modelltheoretisch
+bedeutet das einfach, dass bei einer Interpretation einem (jedem)
+Prädikatensymbol eine Menge aus E(D) zugeordnet wird.
+
+Modelltheoretisch:
+
+	Es gibt eine Interpretation f, so dass f('a') = 1 und 
+	f('b') = 2, f('P') = {1}. Dann gilt: f('P(a)') = W und
+	f('P(b)') = F.
+
+Achselzuck. In Bezug auf die Semantik der FOPL (und 2OL) würde man
+wohl eher einfach von einer /Interpretation/ als von einer /mg-
+lichen Welt/ sprechen.
+
+Es gibt in der Tat Interpretationen (im Rahmen der FOPL), wo das so
+ist. So what? Entscheidend ist hier lediglich, dass es in so einem
+Fall, also wenn D = {1,2} ist, immer auch Interpretationen gibt, wie
+die oben angegebene.
+
+
+A.
+
+
+--
+
+E-mail: 
+jsqbjl<py>simple<bindestrich>line<punkt>de

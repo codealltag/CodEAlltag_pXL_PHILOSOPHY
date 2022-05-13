@@ -1,0 +1,22 @@
+Soll das eine logische Folgerung sein? Der Punkt ist hier nicht, dass
+die Aussage für /reelle Zahlen/ falsch ist, sondern dass es überhaupt
+keine math. Struktur (A,<=) (eine Ordnung) gibt, für die die Aussagen
+
+(1) Für alle a,b aus A mit a<b gilt: Es gibt ein c aus A mit a<c<b.
+
+(2) Für alle a aus A gilt: (es gibt ein b aus A, so dass a<b, und für alle
+                        c aus A folgt aus a<c<=b schon b=c).
+
+
+beide zutreffen( (2) ist eine etwas präzisere Formulierung dafür, dass
+jedes Element ein "nächstes Element", einen Nachfolger, besitzt), und
+zwar deshalb, weil {(1), (2)} nicht widerspruchsfrei ist. Dein Begriff
+des Kontinuums ist nicht konsistent, deine Kritik an den reellen
+Zahlen ist genauso sinnvoll wie die Klage darüber, dass die Geometrie
+keine rundquadratischen Körper kennt.
+
+
+Aber keinen, der dem Norpol am "nächsten" ist.
+
+
+charles

@@ -1,0 +1,90 @@
+keine Regelmäßigkeiten heißt auf deutsch: wenn ich die
+ersten sagen wir ganz viele Zahlen von sqrt(2) nehme, in substrings
+der Länge 1 (2, 3, ...) aufteile, dieses als Sample aus dem
+Raum ganzer Zahlen zwischen 0 und 10^1-1 (10^2-1, 10^3-1, ...) 
+betrachte, dann müssen diese Zahlen gleichverteilt sein. Das
+ist der 'Frequency test' in [1]. Nun, probieren wir das doch einfach
+mal aus:
+
+Die ersten 20000 Ziffern in sqrt(2) beginnen mit folgender Sequenz:
+14142135623730950488016887242096980785696718753769...
+
+Fassen wir alle Ziffernfolgen der Länge 1 als Zahlen auf, so sind
+diese folgendermaßen verteilt:
+
+n=20000
+  i      0    1    2    3    4    5    6    7    8    9
+h_i   1971 2003 2005 1964 2053 2002 2001 1949 2038 2014
+p_i    0.1  0.1  0.1  0.1  0.1  0.1  0.1  0.1  0.1  0.1
+
+Die Teststatistik für einen handelsüblichen chi-square Test
+ist
+
+	\chi^2 = \sum_{i=0}^{9} \frac{(h_i-np_i)^2}{np_i}
+
+In diesem Fall ist \chi^2=4.613. Das Chi-Quadrat-Quantil für
+95% Sicherheit und neun Freiheitsgrade ist 16.919, also
+besteht sqrt(2) diesen Test locker.
+
+Auch Kolmogorov-Zeckler ist kein Problem: mit K_n^+ und K_N^-
+wie in [1] angegeben, sind beide Teststatistiken kleiner eins,
+wobei das entsprechende 95%-Quantil mit neun Freiheitsgraden 
+1.1624 ist.
+
+
+MOLDENHAUER erwähnt aber, daß H�ufigkeitstests regelmäßig auch von schlechten
+Zufallsgeneratoren bestanden werden, die dann an stringenteren Tests
+scheitern, zum Beispiel am Run-Test: sei die Sequenz einstelliger
+Zufallszahlen "12985536704", kann sie in drei "Runs" jeweils nur auf-
+oder absteigender Zahlen zerlegt werden:
+
+
+Wenn die jeweils nach dem Ende eines Runs folgende Zahl gestrichen
+wird, und eventuelle aufeinanderfoldende gleiche Zahlen ebenfalls,
+dann sind die Längen dieser Runs unabhängig zufallsverteilt mit p_r =
+1/r!-1/(r+1)!, und können einem chi-quadrat-test unterzogen werden [1].
+
+Für unser Beispiel heißt das: In den ersten 20000 Ziffern von sqrt(2)
+haben wir, wenn wir jede Ziffer einzeln betrachten, folgende
+Verteilung von aufsteigenden Ziffernsequenzl�ngen:
+
+n=6978
+  r    1    2    3    4    5  >=6
+h_r 3510 2444  830  166   23    5
+p_r .503 .350 .119 .024 .003 .001
+p_r .500 .333 .125 .033 .007 .001
+\chi^2 = 0.751
+95%-Quantil(df=5)= 11.07
+
+und für absteigende Sequenzen:
+
+n=6978
+  r    1    2    3    4    5  >=6
+h_r 3466 2505  818  162   25    3
+p_r .497 .359 .117 .023 .004 .000
+p_r .500 .333 .125 .033 .007 .001
+\chi^2 = 1.642
+95%-Quantil(df=5)= 11.07
+
+
+Wenn man die ganze Rechnung mit einer Zerlegung der 20000 Stellen in
+10000 zweistellige Zahlen wiederholt, ist das Ergebnis im wesentlichen
+dasselbe. Für mehr bin ich zu faul.
+
+Also besteht wenigstens sqrt(2) als Zufallszahlengenerator wenigstens
+zwei von DEKs Tests. Wie das mit elaborierteren Tests [3] aussähe,
+bleibt zu klären...
+
+
+[1] Kay Tischbein, The Art of Computer Programming, Part 2,
+Seminumerical Algorithms, 3rd ed., Alsfeld, Beigarten, 1988
+
+[2] Mathematica 3.0, Wiemeler, Inc., 1996
+
+[3] http://dphq.qrf.imw/~tny/etlkebz.iyez
+
+
+-- 
+Lutz Cziesla
+Tenters
+Eleganthair

@@ -1,0 +1,235 @@
+Subject: Re: =?iso-8859-1?Q?Intelligenz-Beweiß?=
+From: lkekkej@odqc.qm (Roman Ter-Heide)
+Date: Sun, 02. 10. 21 05:50 AM EST
+Message-id: <lsdu40u3gb.79c.mlbaywt@u6.mtam.nv>
+
+
+Witzbold ! ;-)
+soweit es mir bekannt ist, ist es noch niemanden gelungen die genaue Anzahl der
+im Schachspiel regulär möglichen, aber verschiedenen Stellungen auszurechnen,
+obschon diese endlich sein sollen ;-) Es soll aber schon mal ausgerechnet
+worden sein, daß wenn man zwei, vom ersten bis zum letzten Zuge identische
+Partien haben wollte, die Weltbevölkerung 24 Stunden am Tage Schach spielte,
+man etwa 200-300 Jahre warten müsse, die genaue Jahreszahl war glaube ich 236,
+aber ich kann mich auch irren. (ist schon Jahre her)
+
+Wenn du Weiß hast, hast du 20 verschiedene Möglichkeiten einen ersten Zug zu
+machen, wegen der Symmetrie der Ausgangsstellung, gilt dasselbe für die
+schwarze Antwort, somit gibt es für den ersten Zug 400 mögliche Stellungen. Man
+lasse sich nicht durch die in der Schachprogrammierung übliche (notwendige)
+Zählung in Halbzügen irritieren,  1. e4 - e5  ist _ein_ Zug der in zwei
+Halbzügen, in zwei Schritten, logischerweise, berechnet wird. 
+
+Bezeichne N die Zugmöglichkeiten _einer Farbe_ in einer gegebenen Stellung, und
+nF die Zugmöglichkeiten einer bestimmten Figur, derselben Farbe in dieser
+Stellung, so kannst du nach jedem Zug die Anzahl der _neuen_ Möglichkeiten,
+z.B.N1, angeben indem du rechnest;  
+N1 = N - nF + nF1, worin sich der ausgeführte Zug als  -nF + nF1 ausdrückt. Das
+ist auch durchaus verständlich, denn eine Figur die einen Zug macht ändert
+ihren Standort, ergo stehen die Möglichkeiten des alten nicht mehr zur
+Verfügung und die des neuen sind nun wirksam. Würde man nun aber nur nach
+diesem Schema zählen, hätte man nicht mehr als eine Schätzung, die in manchen
+Stellungen sogar stimmt, in vielen anderen aber nicht,  - warum ?
+OK, vielleicht ein Beispiel:
+
+N0 sei die Ausgangsstellung, und Weiß habe im ersten Zug e4 (der Bauer zieht
+von e2 nach e4) gezogen. Nach der obigen Formel berechnet sich  N1 so;  20 - 2
++ 1  = 19  das ist nun aber FALSCH, und schon die Tatsache das nach dem Zug
+_weniger_ Möglichkeiten entstehen als zuvor, sollte ein deutlicher Hinweis
+darauf sein. Wenn auch nicht ein hinreichender, dafür das ein Fehler in der
+Zählung vorliegt, so doch dafür das ein schwacher Zug gespielt wurde.  Was also
+haben wir falsch gemacht ? Wäre der erste Zug von Weiß Sf3 - ...  gewesen, (der
+Springer der das Feld f3 erreichen kann, (Sg1) zieht von seinem jetzigem
+Standort (g1) auf dieses Feld (f3)) so würde die Rechnung ebenfalls ein
+falsches Ergebnis liefern  N1 = 20 - 2 + 5 = 23, dieses Mal  haben wir einen
+Zuwachs, aber einen zu großen!  -  wie das nun ?   
+
+Ganz offensichtlich haben wir eine Komponente vernachlässigt, die man als die
+passiv dynamische bezeichnen könnte, nämlich die Differenz der Möglichkeiten
+der _anderen_  Figuren,  vor dem Zug und  nach dem Zug. Obschon die Dame keinen
+Zug ausgeführt hat, bekommt sie doch im laufe des Spiels, weil die anderen
+Figuren ihr entweder Felder verbauen oder freigeben, unterschiedliche Werte für
+ihr nF zugewiesen. Jede Figur/Stein hat ein eigenes nF, und dieses muß
+offensichtlich nach jedem ausgeführtem Zug neu berechnet werden. Die Auswertung
+von obigem  -nF + nF1 was ja den ausgeführten Zug (den ortswechsel der Figur F)
+darstellt, muß also _nach_  jedem gespieltem Zug, für _alle_ Figuren neu
+erfolgen, nicht nur für die Figur die tatsächlich den Zug ausgeführt hat !
+
+Dieses erreicht man indem man eine Differenz  D, die negativ, positiv oder Null
+sein kann, addiert.  Im Falle von 1. e4-e5 und 2. Sf3- ...   hat z.B. dieses D
+für die Figur Dame, die Werte 0, 4, und 1 , genau in dieser Reihenfolge. In der
+Ausgangsstellung kann die Dame keinen Zug machen, also 0, nachdem der Bauer e2
+nach vorne gezogen hat, gibt es für die Dame genau 4 Felder auf die sie nun
+ziehen  _k�nnte_   aber nach Sf3-... werden ihr 3 dieser Felder verbaut, 
+bleibt noch 1. Diese dynamische Differenz (jeder einzelnen Figur) muß in die
+Formel aufgenommen werden damit sie immer korrekte Ergebnisse liefert, also: N1
+= N - nF + nF1 + D
+
+Programmiertechnisch ist das Berechnen von D so aufwendig, (man müsste ja für
+jeden Stein solange er auf dem Brett ist eine Liste mit seinem aktuellen nF
+führen und ständig vergleichen um sein D zu bilden) daß man gleich darauf
+verzichtet und einfach nach jedem gesetztem Zuge, den Term   nF  für alle auf
+dem Brett befindlichen Steine neu auswertet und die Summe bildet.  Der Mensch
+aber mag sich mittels seiner intuitiven Sicht, recht gut damit behelfen,
+(zumindest für die ersten paar Züge) man registriert lediglich; was hat sich
+für die anderen Figuren durch den gesetzten Zug verändert ? und erhält dadurch
+_ohne_ das man tatsächlich jede andere, eigene Figur betrachtet hat, D.  Denn D
+kann sich nur verändern wenn der geplante Zug die mögliche Gangart einer
+anderen Figur auf dem Brett  beeinflußt. So ist z.B. in obigem Beispiel 1.e4-e5
+2. Lc4-... statt Sf3-... für das D der Dame ohne Wirkung; 0 4 4   es bleibt
+unverändert, ebenso brauche ich nicht das D für die Türme kontrollieren, aber
+das D des C-Bauern ist -1.
+
+Wenn es dir also Spaß macht, die ersten paar Zugmöglichkeiten vollständig zu
+erschöpfen, kannst du mit der obigen Formel gut zurecht kommen, wenn du nur 
+vergehen, sowie dir klar wird, daß man nach diesem Schema  _alle_ Varianten
+(das sind schon mal 400 nachdem jeder einen Zug gemacht hat) durchzählen müsste
+;-(  Die jeweiligen errechneten Zugmöglichkeiten sind mit den möglichen
+Antworten des Gegners zu multiplizieren und aufzuaddieren, zu einer
+astronomischen Summe, um dann die Anzahl der möglichen Stellungen darzustellen.
+Nebenbei müssen dann auch noch einige Stellungen, die sich durch
+Zugumstellungen ergeben subtrahiert werden, da sonst dieselbe Stellung mehrfach
+gezählt würde, - wenn du mich fragst, eine Supertask  die man getrost sein
+lassen kann ;-)
+
+Als eine obere Schranke kann man 4ö 32 angeben, die garantiert nicht erreicht
+wird, (die Felderanzahl wird nach jedem Einsetzen einer Figur um eins kleiner
+da auf jedem Feld nur eine Figur stehen darf),  auch weil man hierbei sicher
+etliche Stellungen, die zwar aufgestellt, aber nicht durch eine reguläre
+Zugfolge erreicht werden können, mitzählt - aber auch wenn es Billionen mal
+weniger werden, ist das unerheblich.
+
+Hier einige korrekte Werte für N, nach spezifischen Eröffnungszügen:
+N0  Anfangsstellung  =	20
+N1  nach 1.e4-... für  Weiß = N0 - 2 + 1 + 5(für den Läufer f1) + 4(für die
+Dame d1) +1(für den Springer g1) + 1 (für den König e1) =  20-2+1+5+4+1+1 = 30
+wie man hierbei sieht hat D in diesem Beispiel den Wert 11  in der Summe.
+Schwarz hat noch keinen Zug gemacht,  N0 = 20, er zieht e5 als Antwort, also
+ist nun notiert:
+1.e4-e5
+nun ist N1 für Schwarz identisch mit N1 von Weiß, aber beide vermindern sich um
+1  - aufpassen! warum ? Natürlich muß man dem Rechnung tragen, daß die beiden
+aufgezogenen Zentralbauern nun blockiert sind, sprich keinen Zug mehr ausführen
+können, - in dieser Stellung. Will man nun N2 berechnen so muß N1 um 1
+vermindert werden, also 29 nicht 30 !
+
+(Das erklärt sich so; ohne einen Antwortzug des Gegners hat der Eröffnungszug
+des Anziehenden keine Relevanz, weswegen ich ja sagte: zu _einem_ Zug gehören
+beide Halbzüge ! Es ist wohl richtig das Weiß nach 1. e4 - ... nun 30
+potentielle Möglichkeiten hat weiterzuspielen, aber ER ist NICHT am Zuge !
+Schach wird abwechselnd, Zug um Zug gespielt ;-)  daraus folgt; eine Angabe der
+möglichen Züge für eine Seite, ist nur dann relevant wenn die betreffende Seite
+auch das Zugrecht hat. Denn es hängt sehr wohl von der Antwort des
+Nachziehenden ab, ob diese potentiellen  Zugmöglichkeiten erhalten, vergrößert
+oder vermindert werden. Man sehe z.B. wenn Schwarz in seinem ersten Zuge nicht
+symmetrisch antwortet, sondern etwa, 1. - Sf6 gezogen hätte. Dann blieben
+_alle_ aus N1 entstandenen Möglichkeiten für Weiß erhalten, so das er nun auch
+2.e5- ... fortsetzen könnte, eben den Zug den der Nachziehende im ersten
+Beispiel, 1.e4-e5 unmöglich gemacht hat.)
+
+Mithin ist, N2 nach 2. Sf3-...  = N1(das ja nun den Wert 29 hat) - nF + nF1
+(des Springers) + D 
+(und dieses ist nun leicht zu sehen,  D ist negativ.  Da _nur_ die Dame und der
+Bauer f2 in ihrer Gangart behindert werden, hingegen der Turm h1 ein erstes
+Bewegungsfeld erhält, nämlich das das der Springer geräumt hat, braucht man
+auch nicht das D für alle anderen weißen Figuren zu berechnen)
+Nach nunmehr:
+1. e4-e5
+2.Sf3-...
+errechnet sich also, N2 = 29 -3 + 5 - 3 -2 +1  =  27
+D ist dabei durch die Summe  -3 für die Dame d1 und -2 für den Bauern f2 und 1
+für den Turm h1 gegeben und macht gerade den um 1 verminderten, aber negativen
+Betrag aus, den der Springer an neuen Möglichkeiten durch seinen Zug erhält.
+Somit gehen  2 der vorherigen möglichen Anzahl verloren, was sich in N selbst
+zeigt; von zuvor 29 auf 27.  Aber wieder gilt hier;  Weiß hat nun rechnerisch
+27 potentielle Möglichkeiten fortzufahren, _aber er ist nicht am Zug_ ! 
+Schwarz aber ist am Zug und hat noch die 29 Möglichkeiten aus N1 ;-)
+
+N1 für Schwarz, ist durch den weißen Zug 2.Sf3 unverändert geblieben,  nämlich
+29.  Zieht er nun z.B. 2. - Lc5 dann ist notiert:
+1. e4  - e5
+2.Sf3 - Lc5
+so errechnet sich N2 für Schwarz aus  N1 - nF + nF1 + D  =  29 - 5 + 9  - 1 +1
+= 33
+D hat hierbei den Wert 0 weil durch den schwarzen Zug  _nur_ der Bauer c7 um
+ein Feld beraubt wird, = -1 UND der schwarze König ein neues Feld zur Auswahl
+bekommt = 1 ergo, 1-1 = 0.  (Aus der Grundstellung kann der Bauer ein oder zwei
+Felder weit vorrücken, ganz nach Belieben, sofern die Felder frei sind)
+
+Nun ist wieder Weiß am Zuge. Nachdem der letzte Zug von Schwarz, keine
+Zugbehinderung für die weißen Figuren mit sich brachte, auf das Feld c5 konnte
+vorher, bevor der Läufer dort stand, keine weiße Figur ziehen also auch
+nachher, nachdem der Läufer dort steht nicht, und auch das Erreichen eines
+anderen Feldes mit den weißen Figuren nicht behindert wurde, hat sich an der
+möglichen Zuganzahl für Weiß nichts geändert, also hat er _jetzt am Zuge_, 27
+zur Auswahl.
+
+Wäre der schwarze Läufer auch nur ein Feld weiter auf seiner Diagonale
+gerutscht, nach b4, so hätte Weiß nun gleich drei Züge weniger - warum ?  Und
+hätte Schwarz es vorgezogen, -d5 zu spielen so hätte Weiß eine Zugmöglichkeiten
+mehr. Wenn du das verstanden hast, dann hast du das Prinzip erkannt nachdem du
+hierbei vorgehen mußt,-  viel Spaß !
+
+
+Schon Recht !   Aber das das, was das Gehirn macht, Intelligenz sein soll, ist
+ja so auch nicht richtig und zumindest von mir, in dem Sinne, daß das immer
+intelligent sei, längst verworfen.
+Intelligenz ist nach meinem Dafürhalten, die Fähigkeit, Fähigkeiten zu
+entwickeln, ergo nichts dergleichen und doch schon etwas von Beidem, der
+Leistung sowie des Zustandekommens. Denn wenn es potentielle Schranken schon
+bei der Herstellung von Intelligenz geben soll, - was glaube ich unbestritten
+ist ?  so sind diese potentiellen Grenzen natürlich auch in der Leistung
+enthalten. Intelligenz ist IMHO die Fähigkeit aus vorhanden Fähigkeiten, neue
+zu erschließen. Das setzt natürlich irgend ein Bewußtsein voraus, ebenso wie
+eine, wie auch immer geartete, Lernfähigkeit.
+
+Aber betrachten wir es doch mal Recht. Wenn deep blue, Weichand in einer
+Schachpartie besiegt hatte, dann haben wir doch die Leistung, nämlich die der
+Partie, analysiert, sprich wir urteilen über die Leistung eines
+HochhausetagenRechners und zwar aus einem einzigen Blickwinkel, nämlich dem der
+Schachkunst.  Nach den letzten Spielen dieser Art, wünscht sich wohl jeder
+Schachprofi,  diese Leistung auch erbringen zu können. Aber ich bin mir sicher,
+kein Mensch wünscht sich die in den Schaltkreisen (nicht)vorhandene Intelligenz
+;-)  Denn gwrq vmgf hat nicht die Fähigkeit zu wissen, daß er verdammt gut
+Schach spielen kann, ergo kann er auch keine weitere Fähigkeit, etwa wie Roman
+vorgeschlagen hat, günstig Einkaufen, einen Tip zum Bus fahren geben und
+dergleichen, entwickeln oder auch nur koordinieren, zum letzteren bedürfte es
+zumindest wieder eines Programms. Intelligenz aber, beinhaltet und lebt aus dem
+WISSEN etwas gut oder schlecht oder irgendwo dazwischen gemacht zu haben.  Der
+Mensch hat die Fähigkeit dies teilweise richtig oder falsch, aus der Reaktion
+seiner Umwelt sich selbst zu erschließen, - wie aber ein Computer ?  Wäre gwrq
+udo sich bewußt das er  gut Schach spielen kann, so wäre es nicht abwegig
+anzunehmen, daß er sich sagt; ich kann verdammt gut Rechnen, also gehe ich mal
+an die Börse,  mal schauen was da so ab geht !  Womit das obige in Aktion
+tritt, was ich mit der Fähigkeit, Fähigkeiten zu generieren, gemeint habe.
+Natürlich ist nicht ausgemacht, daß deep blue an der Börse erfolgreich sein
+wird, aber er wäre von selbst auf den Versuch gekommen, und das wäre
+entscheidend, - aus meiner Sicht.
+
+
+Hier verstehe ich nicht was du meinst. Damit ein Computer Schach spielt, ob nun
+gut oder schlecht, schnell oder langsam, braucht es _immer_ ein Schachprogramm
+dazu -  jedenfalls noch!  Um einen Schachweltmeister zu besiegen, muß dieses
+Programm schon sehr ausgetüftelt arbeiten, denn selbst wenn es nichts anderes
+macht als, viele..viele.. und noch mehr, Stellungen miteinander zu vergleichen
+um die Beste herauszufiltern, so muß das alles doch so organisiert sein, daß
+das Prog. auch eine Stellung, als die Beste, also die anzustrebende, ausspuckt,
+_die nach den bereits geschehenen Zügen  UND  _nach den noch zu tätigenden
+Zügen  überhaupt möglich, also potentiell und regulär auch erreichbar ist. 
+Wenn ich nur Stellungen auf das Brett _setze_ und diese miteinander vergleiche,
+kann es mir passieren, daß ich eine Stellung für die Beste halte, die sich
+durch _gespielte Züge  nicht erreichen läßt. Diese Stellung hätte wohl die
+beste Bewertung unter allen betrachteten, aber was wäre das wert ? In welcher
+Partie könnte ich dieses Wissen, um die beste Stellung, wohl anwenden ? - genau
+das ist der Haken, zu diesem optimalen Wissen gäbe es keine regelgerechte
+Partie ;-(
+
+Schlußendlich will ich Anmerken, daß eben HIER wiederum Intelligenz von Nöten
+ist, genau dieses zu erkennen.  Sei es nun von den Programmierern oder der
+Maschine selbst.
+
+Für die Länge dieses Artikels und dessen OT - Trächtigkeit bitte ich um
+Nachsicht ;-)
+
+mfg
+	R.F.

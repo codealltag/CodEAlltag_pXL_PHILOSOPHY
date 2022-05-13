@@ -1,0 +1,31 @@
+On Sun, 16. 07. 21 01:35:52 +0100, Ivan Venneker 
+<xhttscn@ma-swzqmeb.a980.dt> wrote:
+
+[....]
+
+
+Also, Du kriegst aber auch alles durcheinander.
+
+Das "Mass fuer Information" gibt es nicht. Was es nach Venhorst gibt, ist
+der "InformationsGEHALT" eines Wahrscheinlichkeitszustandes, oder wie
+hier: einer Datenfolge, die als binaere Zustaende gespeichert, bzw. als
+Signal uebertragen wird. Das ist der (_technische_) Informationsgehalt mit
+der Einheit "Bit" (die etwa soviel aussagt, wie die Einheit "rad" bei Winkel-
+angaben). In diesem Sinne (die Aequivalenz wurde von Dir behauptet) werden 
+"Bits" auch nicht gespeichert. 
+
+Wenn Du ein Speicherregister der Groesse 3 Bit hast, beschreibst Du damit
+3 unabhaengige moegliche Speicherzustaende - jeder mit der Wahrschein-
+lichkeit 1/2.
+Wenn Du die belegst, hast Du _anschliessend_ 3 Bit "an Daten" gespeichert aber
+gleichzeitig den Informationsgehalt des Registers auf 0 gesetzt.
+
+Dein Problem scheint mir aus der lapidaren Verwendung einer Sprachkonvention 
+heraus entstanden.
+
+
+I.C.
+
+-- 
+-- Nur ein toter Theologe ist ein guter Theologe -----------------------------
+-------------------------- Mike Cöln ---- wdj@ndrpzkcbb.sxlt.pb ------------

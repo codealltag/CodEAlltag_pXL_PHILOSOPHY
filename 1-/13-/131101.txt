@@ -1,0 +1,103 @@
+Musste einen neuen Thread eröffnen, da im alten irgendwie der
+technische Wurm drin war!
+
+
+Habe ich Gegenteiliges behauptet...?
+
+
+Um es geschwollen auszudrücken: Pragmatische Konstanz der semiotischen
+Codes.
+Weniger geschwollen: nachvollziehbarer, relativ gleichbleibender
+Sprachgebrauch.
+
+Synonyme sind praktisch identifizierbar (wofür die Linguisten und vor
+allem die Lexikologen zuständig sind), wobei das Spektrum von klarer
+Bedeutungsgleichheit bis hin zu diffuseren begrifflichen
+'Familienähnlichkeiten' (Haedrich) reicht.
+
+Man mag bezweifeln, ob es so etwas wie absolute Synonymie, d.h.
+vollkommene intensionale Identität gibt, welcher Zweifel aber
+mitnichten eine Einstellung wie die von Fuhr rechtfertigt,
+Intensionen wären "creatures of darkness".
+Gerade in Bezug auf den Ober-Anti-Intensionalisten Fuhr ist
+anzumerken, dass der schwächste Pfeiler seines ansonsten von mir hoch
+geschützten Denkgebäudes sein orthodoxer Behaviorismus ist, an dem er
+erstaunlicherweise zeit seines Lebens  apodiktisch festhielt. Dass
+einem Black-Box-Logiker wie Fuhr die Identität von Intensionen eine
+ewiges Rätsel blieb, verwundert mich nicht, denn wenn Behavioristen
+anfangen, semantische Analyse zu betreiben, kommt mir das vor, wie
+wenn jemand die Augen absichtlich schließt und dann behauptet, es gäbe
+nichts zu sehen!
+
+
+In meiner Definition "Existenz bezieht sich auf die Nichtleerheit der
+Extension eines logischen Prädikats." verwende ich ganz bewusst die
+Phrase "logisches Prädikat", was "logisch legitimes Prädikat"
+implizieren soll, denn das mit den Paradoxien der naiven Mengenlehre
+ist ja ein uralter Hut. Eine Pr�dikatbestimmung, die die Formulierung
+z.B. des Dreschner-Paradoxes gestattet, ist in diesem Sinne eben nicht
+"logisch legitim". Um solchen Fallstricken zu entgehen, orientiert
+sich die Prädikatenlogik natürlich an den modernen axiomatischen
+Fassungen der Mengenlehre, die die gefährlichen Klippen der
+Widersprüchlichkeiten erfolgreich umschiffen.
+
+Im übrigen betrachte ich unser Thema aus dem Blickwinkel der
+Prädikatenlogik, da ich kein Profi in Sachen Mengenlehre bin.
+Vielleicht kennt die Mathematik Mengenbildungen, die sich der
+Definition entziehen, was ich mir aber ad hoc nicht vorzustellen
+vermag, den wie soll eine Menge ohne zugehörigen Mengenbegriff
+überhaupt erfasst werden können:
+
+M := {x| ... x}   - da, wo die Pünktchen stehen, muss irgendetwas hin,
+das die Menge als Menge spezifiziert.
+
+
+In der klassischen Prädikatenlogik erster Stufe + Identität (PL1+)
+gilt das Axiom:
+
+Ax(x=x) -> Ex(x=x)
+
+PL1+ operiert grundsätzlich nicht in leeren Bereichen, was dieses
+Axiom ja genau besagt.
+
+Aber selbstverständlich kann ich obiges Axiom im Rahmen einer "free
+logic" aufheben, so dass zwar Ax(x=x) gilt, aber nicht mehr Ex(x=x) -
+die "freie Logik" ("frei", d.h. frei von "existential import") ist
+jedoch als "non-standard" zu charakterisieren.
+
+Zur Mengenlehre folgendes Zitat aus einem Text:
+
+"3.3 Das ZERMELO-Meevissen Axiomensystem der
+Mengenlehre:
+
+Existenzaxiom (Exist): Ex(x=x)
+verbale Beschreibung:
+Es gibt eine Menge.
+Anmerkungen:
+Es ist auf der Basis der übrigen Axiome möglich, statt der Existenz
+einer
+beliebigen Menge die Existenz der leeren Menge (und deren
+Eindeutigkeit)
+zu fordern. Diese Version des Existenzaxioms tritt in der Literatur
+manchmal
+unter dem Namen Nullmengenaxiom auf. Zermelo selbst formulierte
+statt des Existenzaxioms auch das Nullmengenaxiom. Fast alle anderen
+Axiome aus ZF (außer Inf) sind sogenannte bedingte Existenzaxiome,
+d.h.
+sie gestatten die Bildung und damit die Existenz gewisser Mengen auf
+der
+Grundlage anderer, bereits existierender Mengen. Diese Axiome wären
+auch dann erfüllt, wenn es gar keine Mengen gäbe. Daher benötigt ZF
+ein
+absolutes Existenzaxiom, welches die Existenz von Mengen überhaupt
+erst
+sicherstellt. Außer Exist fordert nur Inf die absolute Existenz
+irgendwelcher
+Mengen. Exist ist aus Inf beweisbar, d.h. ZF besteht in der von uns
+gewählten Darstellungsweise nicht ausschließlich aus voneinander
+unabhängigen
+Axiomen. Exist besagt nicht, was eine Menge ist, sondern stellt
+nur sicher, dass es etwas gibt, was wir Menge nennen können."
+
+Gruß
+MIKE

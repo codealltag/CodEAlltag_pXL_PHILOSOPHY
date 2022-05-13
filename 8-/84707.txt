@@ -1,0 +1,7 @@
+Dass es ein aussichtsloses Unterfangen sein dürfte, eine solche Bitfolge
+kompett zu erstellen, ist wohl klar. Dennoch ist es wohl möglich einen
+Algorithmus zu anzugeben, der mit vertretbarem Aufwand in der Lage ist,
+die Teilfolge an einer beliebigen Position, die irgendein Bild
+darstellt, zu berechnen.
+
+Gr

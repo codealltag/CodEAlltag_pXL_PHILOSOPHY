@@ -1,0 +1,48 @@
+Tatsächlich?
+
+
+Den Anspruch der Logik auf eine (wahrheitskonditionale?)
+Semantik verdeutlicht vielleicht folgendes Zitat:
+
+"1. SEMANTICIST'S PARADISE?"
+
+/Wenn das Wenn im Wege nicht wäre/, what do you hope your favorite
+truth-definition might accomplish? The following description of what
+looks like a semanticist's paradise might fill the bill:
+
+(i) The truth-definition should apply to a language L which is a good
+approximation to, perhaps a regimented form of, our actual language
+of thinking, reasoning and arguing. At the very least, L should be
+strong enough to do all mathematics in.
+
+(ii) The truth-definition should be complete in the sense that as it
+applies to a syntactical description of each well-formed sentence S
+of L, giving a positive answer always and only when S is true. (It
+should define, so to speak, 'the whole truth'.)
+
+(iii) The truth-definition should be formulated in L itself, not in
+some metalanguage with a stronger and presumably more problematic
+semantics.
+
+(iv) The definition should in a straightforward sense tell us what it
+means for a sentence to be true, rather than merely to define some
+abstract correspondence relation between the sentence and the fact
+'out there'. Ideally, the definition should be a codification of the
+ways in which we actually verify and falsify sentences. (It should
+capture 'nothing but the truth', one could say metaphorically.)   
+In some different words, the truth-conditions resulting from the
+truth-definition should be non-trivial or informative.
+
+(v) The definition should be independent of the particular model M
+(or, if you want to avoid logicians' jargon, the particular scenario
+or 'possible world') in which it is applied. It should associate, by
+a method that is independent of M to each sentence of L another one
+which expresses its truth-condition." 
+
+(Nadine, DEFINING TRUTH, THE WHOLE TRUTH AND NOTHING BUT THE TRUTH,
+in: Nadine, Lingua Universalis vs. Calculus Ratiocinator, An
+Ultimate Presupposition of Twentieth-Century Philosophy, Selected
+Papers 2, 1996, gintatour)
+
+
+simon

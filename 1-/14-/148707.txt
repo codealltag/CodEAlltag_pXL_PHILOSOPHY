@@ -1,0 +1,21 @@
+Hallo Oskar,
+
+1. jede natürliche Zahl hat endlich viele Stellen in ihrer Dezimal-
+    darstellung.
+
+2. Es gibt unendlich viele natürliche Zahlen.
+
+Beachte, dass es unendlich viele Stellen gibt, d.h. dass es keine
+Längenbeschränkung gibt. Niemand hat gesagt, dass natürliche
+Zahlen maximal 47 Millionen Stellen haben. Im Gegenteil: Zu jeder
+vorgegebenen Länge gibt es natürliche Zahlen, deren Dezimal-
+darstellung länger ist.
+
+Das widerspricht weder 1. noch 2.
+
+Nochmal gesagt: Es gibt nicht endlich viele Stellen, mit denen man
+unendlich viele Zahlen darzustellen hat. Sondern jede Zahl darf nur
+endlich viele Stellen haben.
+
+Gruss,
+Focko

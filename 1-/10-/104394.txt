@@ -1,0 +1,37 @@
+Beweis (ad hoc):
+
+Sei A_1 v A_2 ... v A_n gegeben. Außerdem gelte ~A_i = A_j für best. 
+i,j e N. Dann gilt für eine bel. Wahrheitsbewertung v, v(~A_i) = v(A_j),
+da ja ~A_i und A_j identisch sind. Weiters gilt dann: falls v(A_i) = W,
+dann ist v(A_j) = F, und falls v(A_i) = F, ist v(A_j) = W. Daraus folgt,
+dass gilt: v(A_i v A_j) = W. Weiters gilt dann v((A_i v A_j) v A) = W,
+für eine beliebige Formel A. Nun kann man zeigen, dass A_1 v ... A_i ...
+A_j v A_n Äquivalent ist zu (A_i v A_j) v B, wo B von den restlichen
+Disjunkten gebildet wird, daher gilt also v(A_1 v A_2 ... v A_n) =
+v((A_i v A_j) v B) = W. qed.
+
+Das ist die etwas formalere Variante des schon mal angeführten
+"anschaulichen Beweises":
+
+Ist eine Disjunktion der Form
+
+	... v A v ... v ... ~A v ...
+
+gegeben, so lässt sich das ja Äquivalent umformen zu
+
+	A v ~A v ... v ... v ... v ...
+
+Was wiederum Äquivalent ist zu
+
+	(A v ~A) v (... v ... v ... v ...)
+
+Aus der Wahrheitstafel von v kann man nun entnehmen dass eine Ausdruck
+der Form A v ~A immer wahr ist; also hat man:
+
+	WAHR v (... v ... v ... v ...)
+
+Und auch hier ergibt ein Blick in die Wahrheitstafel von v wieder, dass
+das immer WAHR ist (unabhängig vom Ausdruck in der Klammer). qed.
+
+
+A.

@@ -1,0 +1,16 @@
+Egal, das heapoverflowt dann im Ernstfall eben.  Die Vermeidung des
+C-Stacks für pythoninterne Dinge erlaubt lustige Sachen wie call/cc,
+aber beseitigt keine theoretischen Grundprobleme.  Das tut man
+z.B. durch Deforestation.  Series in Lisp kann das definitiv (die
+Optimierung passiert bei der Macroexpansion, sodass man sich das
+Zwischenergebnis ansehen kann), dem Generatorkram in Python traue ich
+es auch zu (nicht betrachtet, meine Schlange ist zu alt).
+
+Machen kann man sowas aber definitiv, sonst könnte man keine
+sinnvollen Endlosschleifen (z.B. für Daemonen) in funktionalen
+Sprachen schreiben.
+
+Laurent
+-- 
+GS d->? s:++>+++ a+ C++++$ UL+++$ UH+ P++ L++ E+++ W- N++ o-- K- w--- !O M- V-
+PS+>++ PE Y+>++ PGP+ !t !5 !X !R !tv  b+++ DI+++ D?  G+ e++++ h+ r? y?

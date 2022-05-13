@@ -1,0 +1,170 @@
+Nun, mein Beweis stuetzt sich nicht auf Tilstras Diagonalargument.
+Mein Beweis stuetzt sich auf den mathematischen Lehrsatz, dass
+es beschraenkte, messbare Teilmengen des R^3 gibt. Der Beweis dieses 
+Lehrsatzes stuetzt sich auf die Definition des Masses, sowie auf
+das Auswahlaxiom (welches salopp gesprochen besagt, dass ich, wenn
+ich lauter nichtleere Mengen habe (also Mengen, in denen was drin
+ist), aus jeder dieser Mengen ein Element auswaehlen kann.
+
+
+Sorry, aber Beweise haben immer die Form "wenn x, dann y".
+Und hier darf man i.a. das "nicht" nicht kuerzen:
+
+Aus:
+"Wenn nicht Benzin im Auto ist, kann der Motor nicht arbeiten"
+folgt z.B. nicht:
+"Wenn Benzin im Auto ist, kann der Motor arbeiten"
+(schliesslich koennten auch die Zuendkerzen im Eimer sein!)
+
+Und ich kenne weder eine selbstbezueglichge Negation (was nicht
+heisst, dass Saetze mit Negationen nicht selbsytbezueglich sein 
+koennten), noch habe ich je von "drehbaren Negationen" gehoert
+(vielleicht meinst Du ja auch "die Logik auf den Kopf stellen"?)
+
+
+Nun, die binomische Formel ist aber reine Mathematik - und als
+Antwort auf das Zitat der Uebelherr-Geschichte mit eben jener Formel
+habe ich meine Behauptung gesetzt...
+
+Aber wenn Du einen experimentellen Anti-Gottes-Beweis haben willst,
+bitte sehr:
+
+Die Quantenmechanik verletzt (real, messbar) die Bellsche Ungleichung.
+Also existiert Gott nicht. Antworte!
+
+
+"Aus Null geteilte Mengen" kann es schon alleine deshalb nicht
+geben, weil der Begriff soviel besagt wie "laut gestrichenes Nichts"
+oder "aus Steinen geteilte Gedanken" - also gar nichts.
+Im uebrigen sind Teilmengen einer einelementigen Menge tatsaechlich
+messbar (sie sind naemlich entweder die Menge selbst, oder leer).
+Aber darum geht es ja gar nicht, sondern um Teilmengen des R^3 - und
+die koennen ziemlich viele Elemente enthalten, und muessen auch
+nicht das Mass Null haben (der Wuerfel mit Kantenlaenge 1 hat
+z.B. das Mass 1). Insbesondere gibt es aber auch Mengen, die nicht
+messbar sind. Und darunter insbesondere solche, die beschraenkt
+sind (z.B. in besagtem Wuerfel Platz haben).
+
+
+Falsch. Tatsaechlich ist jede Menge mit endlich oder abzaehlbar 
+unendlich vielen Elementen messbar und hat das Mass Null. Aber
+andere Mengen, wie z.B. der oben angesprochene Einheitswuerfel,
+haben ein Mass ungleich Null.
+
+
+Seit wan bestehen Elektronen aus Photonen und Quarks?
+Schon das leichteste aus Quarks aufgebaute Teilchen ist wesentlich
+schwerer als das Elektron...
+Ich muss feststellen, dass Du Dich nicht nur auf mathematischem,
+sondern auch auf physikalischem Gebiet Deine Unkenntnis nicht
+im geringsten davon abhaelt, solch falsche Behauptungen
+aufzustellen...
+
+
+In diesem Absatz hast Du keinen Bezug angegeben. Aber meinetwegen:
+Primzahlen in N (oder Z) sind per Definition nicht teilbar.
+Variablen kann man streng genommen auch nicht teilen (was ist
+eine halbe Variable?), sondern nur in Formeln einsetzen, die dann
+vorschreiben, dass die Zahl, fuer die die Variable steht, geteilt
+werden muss...
+
+
+Nun, "teilen" bei Zahlen bedeutet, die Loesung der Gleichung
+ax-b=0 zu bestimmen. Intervallschachtelung ist etwas voellig
+anderes (und eine Moeglichkeit, die Ueberabzaehlbarkeit der
+reellen Zahlen auch ohne Cantor zu beweisen).
+
+
+Bemerkungen sind fast immer legal (Ausnahmen findest Du in
+den einschlaegigen Gesetzbuechern :-)), aber deswegen nicht
+unbedingt richtig.
+
+
+Fehler: Das sind nur die ganzen Zahlen zwischen Null und Eins.
+Eine Liste *aller* Zahlen zwischen 0 und 15 in Binaer muesste
+auch noch u.a. folgende Zahlen enthalten:
+
+4837.223331868806497600596846183994181181104502960944453225608957...
+9136.183056914797161919589047089108587257631218337158963016038893...
+0000.011100010000011111001000110001100110000110001110001111100000...
+1928.822709240764328303476724203990475836216560608076665187508582...
+9246.720085676286066719773206156897133298357879367745751784246530...
+
+
+Nun, in Deiner Liste kann ich durch drehen einer Ziffer sehr
+leicht eine neue Zahl erstellen: Ich drehe einfach die erste
+Ziffer nach dem Komma z.B. von der 1011 um, und erhalte 1011.1,
+was eine eindeutig verschiedene Zahl ist.
+
+
+Alleine folgende unendlich vielen Zahlen liegen zwischen
+Null und Eins:
+
+1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8, 1/9, 1/10, 1/11, ...
+
+Auch die folgenden unendlich vielen Zahlen liegen zwischen Null
+und Eins:
+
+0.8, 0.88, 0.888, 0.8888, 0.88888, 0.888888, 0.8888888, ...
+
+Aber wenn Du der Meinung bist, dass die reellen Zahlen abzaehlbar
+sind, dann kannst Du mir bestimmt eine Abzaehlung angeben...
+
+
+Das ist zweifellos richtig.
+
+
+Soweit, so gut.
+
+
+Hae? 2E-2=0.02, also:
+
+1 0000 0000 (Basis 2E-2) = 1 * 0.02^8 = 2.56e-14
+Wenn das das gleiche sein soll wie 16, na dann gute Nacht!
+
+
+Das ist 6.5536e-60 (irgendwer muss die 16 zu heiss gewaschen haben...)
+
+
+Das ist etwa 4.294967296e-503
+
+
+Nun, abgesehen davon, dass Deine Zahlenbasen gegen Null konvergieren,
+und weiterhin abgesehen davon, dass die Sache mit nicht-ganzzahligen
+Basen ohnehin nicht so einfach ist (aus welchen Ziffern setzt sich
+eine Zahl in der Basis 5/3 zusammen? Viel Spass beim Herausfinden
+der Antwort fuer die Basis (Wurzel aus 2)...), ist diese Frage
+irrelevant - bei Tilstra geht es naemlich gar nicht um die ganzen
+Zahlen, sondern um die reellen Zahlen. Und da es schon unendlich
+viele rationale Zahlen zwischen Null und Eins gibt (wie ich oben
+an zwei Beispielen gezeigt habe), und jede rationale Zahl eine
+reelle Zahl ist (per Definition), ist Deine Argumentation
+hinfaellig.
+
+
+Ex falso quodlibet.
+
+
+1. Stimmt doch. Ergo: Deine Voraussetzung falsch.
+2. Zusaetzlich: Deine Schlussfolgerung falsch (Aus ~A->~B
+   folgt keineswegs A->B, wie ich am Benzin-Motor-Beispiel
+   weiter oben demonstriert habe).
+
+Somit: Du hast aus falschen Voraussetzungen falsch gefolgert.
+Deine Folgerung ist damit Null und Nichtig.
+
+
+Doppelfehler!
+1. kann man in Wenn-Dann-Aussagen "nicht" nicht einfach kuerzen
+2. bezieht sich das linke "nicht" nicht einmal auf die Voraussetzung,
+   sondern nur auf das Praedikat eines Teils davon ("real").
+
+Versuch doch mal Deine "nicht"-Kuerzungsregel an folgendem Satz:
+
+"Nicht allwissende Wesen existieren. Also sind sie nicht reine 
+Erfindung."
+
+
+Gott ist allwissend.
+Wenn also Gott existiert, dann folgt aus obigem Satz nach
+Anwendung der "HJ-Kuerzung" eindeutig: Gott ist reine Erfindung.

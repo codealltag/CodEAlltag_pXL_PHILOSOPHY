@@ -1,0 +1,21 @@
+On Sun, 30. 06. 21 23:52:06 +0100, 
+
+Man kann ja den (objekt)sprachlichen Ausdruck "s=t" so definieren,
+dass dieser dann wahr sei, wenn s und t auf den selben Gegenstand
+referieren. Dieses laege vor, wenn man Sachbezuege herstellt.
+Hier gaebe es keine Zirkularitaet.
+
+Es handelt sich hier natuerlich strenggenommen nicht um eine Definition
+innerhalb der Objektsprache, sondern eher um eine Wahrheitsbedingung.
+
+
+Das Identitaetszeichen gehoert in praedikatenlogischen Systemen zu den
+Grundzeichen, obwohl man in gewissen Theorien dieses auch definieren
+koennte; z.B. in einer Mengentheorie mit dem Elementzeichen.
+
+Was jedenfalls zur Identitaetsbestimmung notwendig ist, ist die Faehigkeit
+geteilte Bezuege herzustellen, also Abgrenzungskriterien zu erlernen.
+
+
+Gruss Ullrich
+--

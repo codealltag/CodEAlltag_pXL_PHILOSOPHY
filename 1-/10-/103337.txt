@@ -1,0 +1,35 @@
+mir ist dazu noch eingefallen, wie ich es anders beschreiben kann,  
+vielleicht ungefähr so:
+
+sowohl die Konfigurationsdatei, als auch das Programm selbst(ich meine  
+hier zB. eine Flaschenmeisterei-Datenbank, oder einen Email-Server) wurden vom  
+Programmierer entworfen und gehorchen beide dem (implizierten) Gesetz, wie  
+diese Datei auszusehen hat. Ausserdem wirkt sich eine inhaltliche  
+Veränderung in beiden (Programm oder config) jeweils aus, einmal auf die  
+_Wirkung_ der Config-Datei (wenn sich der Programmcode ändert), dann  
+wieder auf den Effekt durch das Programm (wenn die Config geändert wird),  
+welches ja seine Einstellungen von der Config-Datei bezieht.
+Beides ist - wenn auch vom Wesen her verschieden - Teil eines Gebildes,  
+das letztlich das "Programm" ausmacht, wenn es funktioniert. Weder im  
+Programm, noch in der Config findet sich allerdings das, was später das  
+Programm 'tatsächlich' tut wieder, denn das huscht irgendwo zwischen  
+Arbeitsspeicher, Festplatte und CPU umher.
+
+Im Hinsicht auf dieses Bild, würde sich das Evolutionsgesetz verschieben,  
+denn es würde bedeuten, daß die Evolution nicht IN der Welt von statten  
+geht, sondern durch die Programmierer hervorgerufen wird. Dh. auf jede  
+Neuerung in der Welt (System-Upgrade) gibt es auch die entsprechenden neu  
+gestalteten Konfigurationsdateien (zB. Weltanschauungen in den Köpfen der  
+Menschen, die ja nunmal Handeln bestimmen und im gewissen sinne 'starr'  
+sind, sofern sie nicht 'öfters mal' variieren), die inhaltlich zwar gleich  
+bleiben, nur äusserlich an die veränderten Umstände angepasst werden (was  
+eine ziemliche Umstrickung in dem bedeuten würde, was wir wohl unter  
+Weltbild verstehen). Das würde ungefähr eine Erklärung für die Erscheinung  
+des sogenannten Zeitgeist (ich glaube ja nunmal an Geister ... *g*)  
+abgeben, die zumindest ohne der Idee auskommt, daß Epochen Menschengemacht  
+sind.
+
+Udo, die Schnecke
+-- 
+life is simple
+death is complex

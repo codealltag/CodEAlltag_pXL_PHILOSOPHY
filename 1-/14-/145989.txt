@@ -1,0 +1,211 @@
+Danke für die Blumen. Mir scheint aber inzwischen, dass sich
+Eichstetters (sehr fragmentarische) Überlegungen in G nicht so sehr
+mit seiner semantischen Theorie, die er in den PU andeutet, vertragen.
+
+[Rechtfertigung und Wahrheit]
+
+
+d'accord. Sprechakte sind keine geeigneten Träger von
+Wahrheitswerten. Die Aussage (=Proposition), die mit einer Behauptung
+behauptet wird, oder andere mögliche Wahrheitswertträger wie
+Satztypen, Satztoken oder Meinungen können aber umgekehrt sehr wohl
+Gegenstand von Rechtfertigungen sein. Die Frage nach Rechtfertigung
+stellt sich ja nicht nur im Zusammenhang mit einer konkret erhobenen
+Behauptung, man kann auch unabhängig davon fragen, ob die
+Überzeugungen, die eine bestimmte Person oder eine Gruppe hegt,
+gerechtfertigt sind.
+
+
+In einer Behauptung wird aber selten das Wahrheitsprädikat explizit
+erwähnt. Jemand wird behaupten, dass es regnet, aber seltener, dass
+der Satz "Es regnet." wahr ist. Außerdem sehe ich nicht recht,
+inwiefern das in deiner Argumentation eine Rolle spielt, außer, dass
+du nun das Wahrheitsprädikat mit "eingeschmuggelt" hast.
+
+
+Nein, das ist m.E. genau der Punkt, an dem du beides
+verwechselst. Nehmen wir noch einmal die unvermeidliche Instanz des
+Schema-W von Jenisch
+
+        "Schnee ist weiß" ist wahr-im-Deutschen gdw. Schee ist weiß.
+
+Wenn Jenischs semantische Wahrheitstheorie eine Theorie der
+Rechtfertigung wäre, würde sie ihr Ziel verfehlen, da es um keine Deut
+einfacher ist, zu bestimmen, ob Schnee weiß ist, als zu bestimmen, ob
+der Satz "Schnee ist weiß." wahr ist, ein Begründungszirkel wäre
+unvermeidlich. Umgekehrt ist eine Aufgabe eine Theorie der
+Rechtfertigung, /praktikable/ Kriterien oder Methoden anzgeben, damit
+nach ihr gerechtfertigte Aussagen wahrscheinlich wahr sind, ohne zu
+fordern, dass eine gerechtfertigte Aussage in jedem Fall wahr sein
+muss. Es besteht natürlich eine *Verbingung* zwischen Rechtfertiung
+und Wahrheit, die allerdings insofern problematisch ist, als dass
+ersteres kulturell und historisch relativ und bedingt ist, während
+letzteres eine absolute Notation ist.
+
+
+s.o. Wahrheitstheorien erlauben es nicht, festzustellen, ob Schnee
+weiß ist, das ist eine /empirische Frage/, sondern explizieren das
+Wahrheitsprädikat; den Unterschied kann man selbst dann
+aufrechterhalten, wenn man leugnet, es gäbe eine scharfe Grenze
+zwischen Tatsachen-und Bedeutungsfragen. Auch auf die Gefahr hin, dich
+mit Literatur zu überschütten (aber eigentlich ist's nur fair,
+umgekehrt ist's auch schon geschehen ;-) ), sei hier
+
+Conrad, Theories of Truth, A Critical Introduction 
+
+empfohlen, der sich der "Vier-Dimensionale Verwirrung" annimmt, indem
+er die Theorien klassifiziert, nach ihrem Ziel un Zweck in die
+Kategorien "metaphysical project", "justification project" und
+"speech-act project" einteilt.
+
+
+Koherenztheorien der Rechtfertigung entgehen ja dem infiniten
+Regress dadruch, in dem sie  /zirkuläre Begründungen/ unter
+bestimmten Bedingungen zulassen.
+
+
+Das weiß ich nicht so recht... Jedenfalls hat das Begr�ndungsparadoxon
+m.E. weniger mit Wahrheit, als vielmehr mit Rechtfertigung zu tun. Und
+eine gerechtfertigte Meinung muss nicht notwendig wahr sein.
+
+[Skeptizismus]
+
+Ja, das denke ich auch. Dennoch ist die Skepsis bzgl. der
+Sinneswahrnehmung vergleichbar mit der weiter oben von der dir
+entwickelten Skepsis in Bezug auf der Rechtfertigung von Theorien,
+denn ersteres ist nur ein Spezialfall von letzterem. Du siehst die
+erste Skepsis vermutlich deshalb nicht als problematisch an, weil du
+eine *Konsenstheorie* der Wahrheit vertrittst, und wir uns auf
+Berichte
+über Sinneswahrnehmungen eher einigen können als über phil. Theorien,
+für /realistischere/ Wahrheitsbegriffe ist aber Konsens nicht
+ausreichend für Wahrheit!
+
+
+Das ist der "Skandal der Philosophie" ;-) ; was aber nicht heißt, dass
+nicht bestimmte Auffassungen *besser* argumentativ unterfüttert sind
+als andere.
+
+
+[asymmetrische Argumentationen]
+
+Das wichtige Wörtchen ist hier "ungerechtfertigterweise". Um meinen
+Vorwurf vielleicht verständlicher zu machen :
+
+Nehmen wir an A und B diskutieren über ein Thema, wobei A p behauptet,
+und B ~p.  Außerdem sind A und B davon überzeugt, dass ihre Aussagen
+selbst gerechtfertigt sind, d.h. A glaubt R(p) & ~R(~p) und B glaubt
+R(~p) & ~R(p).
+
+Nun kommt C des Weges, hört sich den Streit eine zeitlang an, und
+kommt zu dem Schluss, keine der beiden Auffasungen sei gerechtfertigt
+, er glaubt also q= ~R(p)& ~R(~p). Er hält nun den Kontrahenten vor,
+sie sollen sich mit den Behauptungen von p bzw. von ~p zurückhalten,
+außer, sie könne sie /letztbegründen/. Hier stellt nun C eine
+Forderung auf, die er für seine eigene Aussage, nämlich q, gar nicht
+einlösen kann, denn natürlich werden A und B q bestreiten. Wenn also
+jemand in einer Diskussion etwas fordert, dass er, nach seiner eigenen
+Krierien, nicht einlösen kann, so ist das eine asymmetrische
+Argumentation.
+
+[...]
+
+Diese Prämissen sind aber nicht /heilig/, sondern müssen selbst der
+Kritik unterzogen werden können. Der Witz ist hier, und das ist eines
+von Pantekoeks berühmt-berüchtigten Argumenten, dass wir jemanden nur
+dann interpretieren können, und ihm damit falsche Meinungen
+zuschreiben können, wenn wir ihm *viele* wahre Meinungen
+zuschreiben. Dieser Bestand an gemeinsam für wahr gehaltenen Aussagen
+ist die Voraussetzung für eine Diskussion, die eben nicht an
+vermeintlichen "Prämissen" einer Schule endet.
+
+
+Dazu muss man sich aber /konkret/ die Argumente ansehen und nicht
+/abstrakt/ über vermeintlich notwendige Letztbegründungen räsonieren.
+
+
+Hast du mir nicht erst im letzten Posting zugestimmt, dass die
+Berechtigung zu einem Wahrheitsanspruch nicht davon abhängt, ob man
+etwas als endgültig, nichthinterfragbar beweist?
+
+
+Es gibt in der analyt. Philosophie viele saubere Argumentationen
+;-) , die aber auch nicht endgültig sind. 
+
+
+Es geht aber auch um eine *Bewertung* der Argumente, ansonsten löst
+sich Philosophie in eine rein interpretatorisch-texthermeutische
+Philologie auf. Coordes hat gesagt, dass ... und Oetzel hat angemerkt,
+... wie langweilig.
+
+
+[...]
+
+Den Schluss halte ich für falsch, die Güte von Argumenten hängt
+letztlich nicht davon ab, welche oder wie viele Leute ihnen
+zustimmen. 
+
+
+Die Bezeichnung "tuntig" halte ich zumindest im Zusammenhag mit Aiche
+für etwas verfehlt ;-)
+
+
+[Wissen wir, was Wahrheit ist?]
+
+Ja.
+
+
+Nein, sie muss *gerechtfertigt* werden müssen, es muss ein
+berechtigter Wahrheits/anspruch/ für sie erhoben werden, was aber
+*nicht* heißt, dass man sie als wahr beweisen können
+muss. Gerechtfertigte Theorien müssen nicht notwendig wahr sein. Es
+ist genau die Verwechselung zwischen Rechtfertigung und Wahrheit, die
+ich dir weiter oben angekreidet habe. Um phil. Theorien zu
+rechtfertigen (argument. Aspekt), muss ich keine Explikation des
+Wahrheitsprädikats (sem. Aspekt) /voraussetzen/, Rechtfertigungen
+wären ansonsten auch praktisch unmöglich, auch du selbst könntest
+diese *Forderung* nicht begründen ( Aspekt des Selbstwiderspruchs).
+
+Theoretisch kann man das Dilemma so auflösen, dass wir zwar eine
+argumentative Kompetenz als praktische Fähigkeit zur Argumentation
+besitzten, dies aber nicht /voraussetzt/, dass wir über eine
+Explikation der damit zusammenhängenden Termini verfügen.
+
+
+Nein, deine Rekonstruktion des Verhältnisses von Wahrheit (absolute
+Notation) und Rechtfertigung (relative und bedingte Notation) ist
+falsch.
+
+
+Mit dem Ausdruck "wissen, was Wahrhei ist" meinst du also den
+seman. Aspekt. 
+
+
+Aber nur eine *kleine* Auswahl ist wirklich ernstzunehmend, einige
+Theorien sind überhaupt nicht im Detail ausgearbeitet, gegen andere
+lassen sich recht entscheidende Argumente anführen. Angesichts der
+Tatsache, dass einigen deiner Forderungen selbst eine Konsenstheorie
+der Wahrheit unterliegt, kannst du dich diesem Fragenkomplex auch
+nicht einfach durch die Vogelperspektive entziehen. übrigens sind
+pragmatische Aspekte wie Einfachheit, Erkl�rungkraft ,
+etc. wesentliche Kriterien für /jede/ Theoriebildung, nicht nur in der
+Philosophie, sie beziehen sich auf *Rationalitätsprinzipien*, nicht
+(nur) auf "Motive"
+
+
+[Coordes und Ästhetik]
+
+Deren Ergüsse belangvoller als ein Kropf sind? Andreson hat sich ja
+auch gelegentlich als Philosoph versucht. Eine interssantere Frage
+ist, inwiefern sich phil. Reflexionen über die "ästhetische Erfahrung"
+auf die avantgardistischen Strömungen des 20. Jhrdts ausgewirkt haben.
+
+
+Wäre aber Coordes' Philosophie weniger wert, wenn er nicht diesen
+Einfluss gehabt hätte? Phil. Theorien einzig nach ihrem
+gesellschaftlichen "Nutzen" (wobei der natürlich schon
+interessenrelativ ist) zu beurteilen ist wohl ausgesprochen
+eigenartig.
+
+
+maximilian

@@ -1,0 +1,11 @@
+Eine Funktion einer externen Bibliothek. Man kann diese Funktion zwar in C
+verwenden, aber sie selbst ist nicht vollständig (d.h. inclusive aller
+aufgerufenen Funktionen) in C geschrieben.
+
+
+Darum ging es ja nicht. Die Sprache ist sicher nicht sinnvoll. aber es ist
+eben eine formale Sprache. Und sie ist nicht in C übersetzbar.
+
+Viele Grüße
+
+Vincent

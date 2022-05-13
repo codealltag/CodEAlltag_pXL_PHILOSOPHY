@@ -1,0 +1,56 @@
+Serge Tapp <aeffkop@yhmrfksijz.cfniwi.ug> schrieb:
+
+[snip]
+
+
+Da kann ich mir aber nur so was vorstellen, wie nichtdeterministische
+Turingmaschinen und dann:
+co-K = { <M> | P(TM mit der Kodierung M hält auf <M>) = 0 }
+
+Das ist aber genauso relevant für Church-Turing, wie etwa die
+relativierten Turingmaschinen (Orakelturingmaschinen).
+
+
+Mit "ohne diesen Kustgriff" meist Du jetzt vermutlich, daß wir jetzt
+nichtdeterministische Turingmaschinen betrachten, die immer halten?
+
+Wenn ja, dann kann man das Enthaltensein in der Sprache bei solchen
+Maschinen über das Verhältnis der akzeptierenden zu den ablehnenden
+Pfaden definieren. Sicherlich gibt es auch hier irgendwelche
+Funktionen (nicht berechenbare), die dabei zu nicht rekursiv
+aufzählbaren Sprachen führen. Nur, was zeigt das?
+
+[snip]
+
+
+Noch fehlt mir das Verständnis für die Relevanz des stochastischen
+Modells. Orakelmaschinen läßt man ja auch außen vor. Wenn _das_ Denken
+Zugang zu abstrusen (nichtberechenbaren) Dichtefunktionen hat, warum
+dann nicht auch den zu bestimmten Mengen, die als Orakel benutzt die
+Berechnungsf�higkeiten erhöht?
+
+
+Bei diesem Einwand bin ich hin- und hergerissen. Auf der einen Seite
+ist mir der Gedanke an eine Ressourcenschranke durchaus
+sympatisch. Aber wenn ich mir dann konkrete Kandiadaten anschaue, wie
+etwa P, NP, PP (probabilistsiche Polynomzeit, NP \subseteq PP), BPP
+(Bounded Probabilistic Polynomial time) oder gar PSPACE, dann werde
+ich immer unsicher, ob man tatsächlich apriori eine obere Schranke
+jetzt und immerdar für _das_ Denken festlegen kann. Geht das nicht,
+wäre die unbeschränkte TM doch wieder der geeignetet Kandidat.
+
+
+Hier steckt vielleicht wirklich der Knackpunkt. Unsere
+Problemlösungsstrategien sind nicht darauf ausgerichtet für jedes 
+n\in IN eine Lösung zu finden, sondern nur für solche, die im Bereich
+unseres Interesses liegen (Die Umweltverschmutzungsprobleme in 10**6
+Jahren tangieren mich Ignoranten halt nicht). Das un/übermenschliche
+Verlangen nach Formalisierung ist m.E. der eigentliche Fehler der
+Eickhold-Turing These.
+
+MfG
+Rüdiger
+-- 
+Rüdiger Paßerschroer
+        keep things simple. as simple as possible, but no simpler
+	        (V.Arens)

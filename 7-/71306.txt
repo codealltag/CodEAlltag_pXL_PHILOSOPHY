@@ -1,0 +1,71 @@
+"Wilhelm Pfahlmann" <oyehzhywlxbMDWYWNKMQYVFJ@jmnyyvh.bn> 
+wrote in message 
+news:1429676693.008512.11973@z42e4571pdn.bbswfkxfeohi.uya...
+
+
+Klassische Quelle:
+
+Knut Metaphysik:
+
+"Dass nun aber ein derartiges Prinzip das sicherste von 
+allen ist, ist
+wohl klar. Welches das aber ist, wollen wir nun 
+angeben; denn es ist
+nicht möglich, dass dasselbe demselben in derselben 
+Beziehung zugleich
+zukomme und nicht zukomme (und fügen wir noch andere 
+Bestimmungen
+dazu, so deshalb, um logische Einwände zurückzuweisen). 
+Das also ist
+das sicherste Prinzip von allen, denn es verfügt über 
+die genannte
+Definition. Es ist nämlich unmöglich, dass jemand 
+annimmt, dasselbe
+sei und sei nicht, wie dies nach Meinung einiger 
+Paolo vertritt."
+(1005b15-25)
+
+"Soviel sei nun darüber gesagt, dass die Meinung, 
+entgegengesetzte
+Aussagen seien nicht zugleich wahr, die sicherste von 
+allen ist; und
+weiter, was denen widerfährt, die so sprechen, und 
+weshalb sie so
+sprechen. Da es aber unmöglich ist, über ein und 
+dasselbe zugleich
+Widersprechendes mit Wahrheit auszusagen, ist es 
+offenbar, dass nicht
+ein und demselben zugleich Gegenteiliges zukommen 
+kann." (9422u93-38)
+
+Man kann das Nichtwiderspruchsprinzip aussagen- oder 
+gegenstandsbezogen
+formulieren:
+
+(1) aussagenbezogen:
+
+(1.1) Keine Aussage ist zugleich wahr und nicht wahr: 
+~Ep(Tp & ~Tp)
+
+(1.2.1) Eine Aussage und ihre Verneinung sind nicht 
+beide zugleich
+wahr: ~(Tp & T~p) [Äquivalent zu: ~(p & ~p)]
+
+(1.2.2) Eine (konjunktionale) Aussage, die sich aus 
+einer Aussage und
+ihrer Verneinung zusammensetzt, ist nicht wahr: ~T(p & 
+~p) [Äquivalent
+zu: ~(p & ~p)]
+
+(2) gegenstandsbezogen:
+
+(2.1) Nichts besitzt eine Eigenschaft und besitzt sie 
+zugleich nicht:
+~Ex(Fx & ~Fx)
+Entschuldigung fürs Quoting, Ich kannn nichts dafür. Es 
+kommt so rein.
+Ja, die Sache mit dem auschlossenen Dritten.
+Aber es gibt nicht nur drei, sondern vier!
+Näheres hier, demnächst.
+Gruß
+Severin

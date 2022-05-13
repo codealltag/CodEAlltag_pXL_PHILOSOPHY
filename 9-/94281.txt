@@ -1,0 +1,38 @@
+Jetzt muß ich doch wieder in diesem Thread antworten. Ich weiß gar
+nicht, was ich noch neues sagen soll. Die Quantentheorie ist wirklich
+ganz einfach, wenn man sie einmal ohne Philosophie betrachtet. Das
+steht alles in Dennis und meiner QT-FAQs. 
+
+Zusammengefaßt sieht's so aus:
+
+Der quantenmechanische Zustand eines Systems wird durch Vektoren in
+einem Hilbertraum beschrieben.
+
+Umgekehrt beschreiben alle Vektoren im Hilbertraum Zustände des Systems. 
+
+Bemerkgun: Es gibt zwar Superauswahlregeln, die durch Symmetrien der
+Wechselwirkungen die Realisierung von bestimmten Zuständen verhindern,
+aber darauf wollen wir hier nicht eingehen.
+
+Einem System kommt also immer ein und nur ein Zustand zu.
+
+Befindet sich das System in dem Zustand, der durch den Hilbertraumvektor
+Messung im Zustand |phi> zu finden durch
+
+W(psi,phi)=|<psi|phi>|^2
+
+gegeben.
+
+Dies erklärt, welche beobachtbaren Voraussagen die Quantentheorie macht,
+nämlich Wahrscheinlichkeitsvoraussagen.
+
+Kannst Du jetzt nochmal präzisieren, was Du mit der ominösen Behauptung
+meinst, daß einem System sowohl eine Eigenschaft F als auch nicht-F
+zukommen könnte? Dann kann ich das vielleicht beantworten und Dir klar
+machen, daß das natürlich nicht der Fall ist.
+
+-- 
+Jonas Barkholz                        Tabakforum 
+Phone: +8 580/634-5256                  Ginzersdorf University 
+Fax:   +4 927/034-6918                  Tabakforum, CA-0694
+http://dqblte.chp.gj/~vybwxha/          Erblerstraße Station, GÖGGENHOFEN 16645-4606

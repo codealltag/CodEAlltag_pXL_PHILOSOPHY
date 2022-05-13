@@ -1,0 +1,40 @@
+Schön, das schafft auch 99.9%.  Nach 1000 Reflexionen ist die Energie
+dann aber trotzdem weg (bis auf ca. 1/e).  Da ein zentimeterdickes
+Rohr von .au bis hierher ein paar Milliarden Reflexionen braucht,
+braucht es viele Neunen hinter dem Komma, damit noch etwas ankommt.
+
+
+Und jetzt berechne mal die Totalreflektion an einer Grenzfläche mit
+n1=1.6+0.001*i und und n2=1 (d.h. Glas, von innen).
+
+
+Zuerstmal bist Du auf das abbildungsoptische Grundproblem gar nicht
+eingegangen (von der Sonne kommen ca. 25*10^6 Watt pro Quadratmeter
+und Steradian, selbst wenn man am Eingang des Rohrs den vollen
+Halbraum (2*π) zulässt, werden das keine Gigawatt pro
+Quadratmillimeter (sondern 150 Watt[1]) - und schon hat man erstmal
+riesige Investitionskosten (viele Rohre) für wenig Leistung).  Und da
+sind noch keinerlei praktische Ingenieursprobleme berücksichtigt, nur
+das theoretische Maximum.
+
+
+Und dann setze einen realistischen Wert für den Brechungsindex ein
+(egal, ob der Realteil positiv, negativ oder sonstwas ist), und
+vergiss nicht, den Imaginärteil ungerundet mitzunehmen statt ihn von
+10⁻³ auf 0 abzurunden.  Dass der negative Brechungsindex (z.B. bei
+photonischen Kristallen u.a.) schmalbandig ist und an seinem Rand
+starke Absorptionbereiche liegen, will ich schon gar nicht mehr
+einwerfen (dafür sollte Kramers-Kronig automatisch sorgen).
+
+[1] Alles andere wäre auch krank - ein Quadratmillimeter Schwarz von
+Sonnentemperatur (6000K) hat ca. 75 Watt, und meine großzügige
+Rechnung oben nimmt stattdessen die (doppelt so große) Halbkugel des
+gleichen Durchmessers.  Ansonsten könnte man mit fokussiertem
+Sonnenlicht einen Körper auf mehr als Sonnentemperatur erhitzen, was
+dem 2. HS widerspräche.
+
+Leo
+-- 
+GS d->? s:++>+++ a+ C++++ UL+++ UH++ P++ L++ E+++ W- N++ o-- K-
+w--- !O M- V- PS+>++ PE Y+>++ PGP+ !t !5 !X !R !tv  b+++ DI+++
+D? G+ e++++ h+ r? y?

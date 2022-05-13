@@ -1,0 +1,17 @@
+Hallo Manfred,
+
+
+Das ist nicht ganz richtig. Die ersten "Programmiersprachen" (noch vor dem
+zweiten Weltkrieg) dienten vor allem zwei Zwecken:
+1. Schaffung der Möglichkeit, Mathematikern genaue Rechenanweisungen zu geben
+2. Theoretische Betrachtungen in der Mathematik: Entscheidungsproblem,
+   Berechenbarkeit usw.
+
+Faktisch sind die meisten "höheren Programmiersprachen" unabhängig von
+konkreten Maschinensprachen entwickelt; man hatte im Gegenteil nach effektiven
+Problembeschreibungen gesucht (die dann sogar manchmal -- wie Algol-68 so
+komplex waren, dass sie nicht mehr in angemessener Zeit implementiert wurden).
+
+Viele Grüße
+
+Erhard

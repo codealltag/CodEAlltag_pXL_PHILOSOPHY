@@ -1,0 +1,24 @@
+Hi,
+
+Es gibt eine Möglichkeit die Deteminismuss sowie eine gewisse
+unvohersagbarkeit zulässt.
+
+Die meisten physikalischen Vorgänge sind in sog. Rückkopplungen zu
+berechnen, in denen das Ergbniss einer Formel z.B. als Anfangswert wieder
+eingefügt wird. Das Problem sind die Nachkommastellen. Es werden immer
+irgendwelche zahlen nach dem Komma abgeschnitten, womit das Ergebniss
+ungenau wird. Bei einem oder Zwei Iterationen (Schleifendurchgänge) scheint
+es nicht ins Gewicht zu fallen. Aber daß kein Computer oder Mensch alle
+Nachkommastellen einer irrationalen Zahl erfassen kann ist wohl klar.
+Beim nächsten durchlauf der ja schon mit einer gering ungenauen Zahl
+beginnt, wird das ergebniss noch ungenauer, u.s.w. !
+Somit ist Grundlegend ein gewisser Deteminismuss vorhanden Physikalische
+ereignisse und Prozesse lassen sich in Formeln ausdrücken.
+
+Ich bin nur ein Laie. Falls ich obiges falsch wiedergegeben habe bitte ich
+um Nachsicht :).  Jedoch auch genauer nachlesen lässt sich das in "Bausteine
+des Chaos" von Oliver Niediek, Olaf Wiebesiek und Theo Zanggl.
+Für die die es interessiert die ISBN:   ISBN 9-746-84681-9
+
+Gruss
+Ulfert

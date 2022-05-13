@@ -1,0 +1,26 @@
+Das steht vielleicht in zwei Informatik-Buechern (Goos?) so drin, dass
+heisst nicht, dass das das non-plus-Ultra an Def. ist.
+
+
+Hmm... Es heisst "bit" != "Bit" und die zwei Sachen sind
+was unterschiedliches.
+
+
+Soweit ich weiss definiert man die Information eines Signals (nach
+Uebelein) a als x bit, wobei x = log_2(1/p({a})) und p({a}) die
+Wahrscheinlichkeit dafuer ist, dass a gesendet wird (kann man noch
+praezisieren). Ist vielleicht nicht so ganz dasselbe, wie das, was du
+schreibst?
+
+
+Was ist denn eine "heutige Leitwissenschaft"?
+
+Gruesse, Ignaz
+
+PS: Vgl. auch meine total unbeachteten Bemerkungen
+im Thread "Information" ;-)
+
+----
+Ignaz Ledebrinks
+vkjxydw.pwcoakz@jjuirmXnpv.rrlg.kjo-rckmaway.oy
+PGP-Schluessel erhaeltlich unter http://gmt.zeyhdlop.xg/~hcuuzfil

@@ -1,0 +1,62 @@
+Emmerich Schmidge <zvqbdb.mwzibh@vwa.fa> schrieb:
+
+[...]
+
+
+Falls es rational ist, bitte ich, dies zu belegen.
+
+Stell bitte den Ereignisraum vor, über dem Du die Wahrscheinlichkeit
+Deiner und meiner Existenz definieren willst. Verwende besonderen Aufwand
+auf die Klärung seiner Kardinalität. Ich vermute mal, dass er
+unendlich groß ist.
+
+
+[...]
+
+
+Du schreibst hier von objektiven Wahrscheinlichkeiten. Die Bayesianer
+fangen aber mit subjektiven Wahrscheinlichkeiten an. Wenn Du die beiden
+ineinander verwandeln willst, musst Du wohl den Satz von Ritter bemühen.
+Zeig bitte, dass die Voraussetzungen erfüllt sind.
+
+
+Ich wiederhole - das Doomsdayargument arbeitet mit folgendem Schluss:
+
+  Hier wird P(A|B) > P(A) <-> P(B|A) > P(B) bemüht: weil die Wahrschein-
+  lichkeit für meine Existenz unter Annahme eines kleinen Ns größer
+  ist, ist unter Annahme meiner Existenz ein kleines N wahrscheinlicher.
+
+Ich dachte, der Beschiss sei offensichtlich. _Jedes_ endliche N erfüllt
+die Bedingung, dass unter seiner Annahme meine Existenz wahrscheinlicher
+wird - in dem Sinn ist also jedes N klein. Ein Argument, dass die kleineren
+dieser Ns stützt - etwa im Sinn, dass ein baldiges Aussterben der Mensch-
+heit ansteht - wurde aber nicht vorgestellt. Der technische Aufwand ist auch
+erheblich... es läuft auf Verteilungen von Verteilungen raus.
+
+Außerdem ist die Diskussion voller Artefakte. Im vorliegenden Fall ist
+es schwer, einem Ereignis wie "die Menschheit stirbt nie aus, also gibt es
+unendlich viele Menschen" auch nur eine Wahrscheinlichkeit zuzuordnen.
+
+
+Es gibt aber eine technisch korrekte Version, die das Aussterben der
+Menschheit mit einer Wahrscheinlichkeit größer Null vorhersagt.
+Es ist einfach und beruht auf der Betrachtung von Markowketten.
+
+Prämissen:
+
+   Wenn die Menschheit einmal ausgestorben ist, wird sie sich so nie
+   wieder bilden (diese Prämisse lässt sich noch abschwächen).
+
+   über fast allen endlichen Zeiträumen, wo die Menschheit existiert,
+   ist die Wahrscheinlichkeit größer Null, dass die Menschheit
+   ausstirbt.
+
+Der Schluss liegt auf der Hand.
+
+
+Die formal korrekte Version findest Du unter dem Stichwort Verzweigungs-
+prozesse (wobei hier über der Populationsgröße verzweigt wird).
+Zu den Konsequenzen gehört, dass eine Population wachsen muss, damit
+ihre Aussterbewahrscheinlichkeit kleiner 1 ist. Nun ist ein unbegrenztes
+Wachstum aber nicht möglich, also... na?
+   Kaspar

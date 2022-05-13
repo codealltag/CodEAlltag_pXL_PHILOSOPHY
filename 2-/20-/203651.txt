@@ -1,0 +1,49 @@
+In <1sazm5.e5.zo@ggabpyhvm>, bncky@yhiqi.sffhcden.rg (Jijbn Dechantsreiter) writes:
+[...]
+Die Herleitung der Drehimpulserhaltung aus der regulaeren Impulserhaltung
+findest Du in jedem besseren Mechanik-Lehrbuch, auch wenn es Deiner
+Meinung nach Unsinn ist. Die Formulierung "dann waeren Sie nicht so eingefuehrt
+worden" spricht aber Baende, genauso kann ich die drei Leitsaetze deutscher
+Behoerden anbringen (... schon immer so, noch nie anders, da kann ja jeder ...).
+Zu deinen Dimensionen: Du kannst durchaus auch den Massenpunkt im 3D-
+Raum mit viel mehr Basisvektoren, sprich Dimensionen beschreiben.
+Du brauchst nur z.B. den Raum in Bereiche aufteilen, und jedem Bereich
+einen Basisvektor zuordnen, z.B. 1=Punkt im Bereich, 0=Punkt nicht im Bereich.
+Etwas besser geht das mit Wahrscheinlichkeiten und Fouriertransformationen,
+und fuehrt dann zur QM.
+
+Das mit dem Spin hat einen anderen Hintergrund: Es gibt fuer infinitesimal
+kleine Verschiebungen und Ketten solcher den Trick mit der e-Reihe:
+exp(x) -> (1+x/n)^n, n -> unendlich, mit der Verschiebung 1+L d/dt
+auf eine beliebige Funktion f(x) bzw. Feld fuer L-tel Weg an der Stelle x
+kann man Verschiebungen (und dann auch Drehungen, etc.) sehr praktisch
+als Folge (1+L/n d/dt)(...)(...) und damit als exp(L d/dt) f angeben.
+Mit i im exp-Argument geht dass dann auch fuer Drehungen, und aus den
+3*3 Matrizen werden dann 2*2 Matrizen fuer die infinitesimalen Drehungen.
+Das Rechnen geht damit ganz gut, aber frag' mal nach, wie man sich denn
+so diese Drehung insbesondere bei h_/2 Teilchen vorstellt ;-)
+
+Richtig, und nur weil der Begriff fuer die Anzahl der Basisvektoren sprachlich
+der gleiche ist wie der fuer die physikalischen Basis-Freiheitsgrade, ist es
+noch lange nicht das gleiche. Zur Trennung habe ich den Prefix "Pseudo-"
+verwendet. Ich hoffe, es ist jetzt klar geworden.
+
+[...]
+Nun, das waere aber eine Welt mit anderer Logik. Nicht umsonst sind unsere
+kartesischen Koordinaten ausgezeichnet (orthogonal usw., ebenso siehe
+Drehungen etc.)
+
+Fuehlst Du dich getroffen ? Arbeitest Du an einer Theorie mit 26 Dimensionen ? ;-)
+
+Aledings sollteman nicht alles glauben, was so geschrieben wird, und als
+Unternehmer lernt man das sehr schnell, denn da kommt jeden Tag ein
+Verkaeufer vorbei, der meint, dass xyz unglaublich knapp wird, oder ein
+Interessent, der angeblich das gleiche Produkt um die Ecke um die Haelfe
+billiger einkauft ;-)
+
+Gruss Willi
+
+------------------------------------------------------
+Willi Utermöhle + Gusborn, Germany + oslwsuos@bmcyvvd.xr
+http://zws.bwkqvye.ul + Phone: +08-5829-5182-2 Fax:-05
+------------------------------------------------------

@@ -1,0 +1,104 @@
+Theodor Kuntz <bll29@jgx.wv> (20. Mai 2004 23:25):
+
+
+Du liest das also als eine Definition von Identität und nicht als
+Teil der  Begriffsbestimmung für 'Menge'.
+Ich habe das bisher genau anderherum gelesen.
+
+Aber sei es mal so angenommen. [1]
+Dann wäre Identität gleichwohl erstmal nur für Mengen erklärt; falls es 
+Urelemente (die keine Mengen sind) gibt, wären die nicht erfaßt. 
+
+Mir stellt sich jetzt folgende Frage. Seien {a} und {b} zwei Einermengen.
+Wie bringst Du dann obige Definition in Anschlag? Wenn Identität
+ein Grundbegriff, würde man einfach schreiben {a}={b} <=> a=b und hätte
+die Identität der "abstrakteren" Objekte auf die der elementareren 
+zurückgeführt. Aber was schreibst Du? Wenn die Elemente a und b selbst 
+wieder Mengen, könntest Du das sogar auch schreiben und benutzt die 
+=-Definition /rekursiv./ Soll das aber irgendwann abbrechen, läuft es doch 
+darauf hinaus, daß man schließlich eine Gleichheit der Zeichen (Token) 
+feststellt. Würdest Du sagen, diese Zeichengleichheits-Feststellung ist 
+durch obige Definition mit abgedeckt? 
+
+Ich glaube, daß Du den Satz "Die Zeichen 'a' und 'a' sind identisch"
+überhaupt nicht ausdrücken kannst, rein syntaktisch, meine ich.
+Das hat etwas damit zu tun, daß der im Allquantor ("für alle z") 
+unterstellte Gedanke "eine Variable /nimmt/ alle Werte /an"/ den 
+Identitätsbegriff  schon benutzt, das 'Annehmen'  ist ein Identisch-Setzen 
+oder Identisch-Werden.
+
+Nebenbei, falls Du die Zeichengleichheits-Feststellung in obiger 
+Definition mit abgedeckt siehst, implizierte das -- weil die nur für 
+Objekte, die  Mengen sind, funktioniert -- dann, daß auch Zeichen 
+(Token) Mengen seien, also "a" und "a" und "a", jedes für sich wäre eine 
+Menge. Nicht das ich das absurd finde, es ist nur interessant.
+
+
+[1] (Eine zirkelfreie Definition von Identität ist das natürlich auch 
+nicht, weil zB im Konzept der 'Variable' schon Identität gedacht wird, 
+siehe auch mein Posting an Ludwig)
+
+
+Die Gleichheitszeichen rechterhand sind dann aber nur erklärt, sofern 
+a,b,c,d Mengen sind. 
+
+
+übrigens liefert bekanntlich ja auch die Definition  (a,b) := {{b},{a,b}} 
+die Identitätsbedingung der geordneten Paare, aber es ist 
+(im Sinne der Mengenidentit�t) 
+  {{a},{a,b}} =#=  {{b},{a,b}} .
+
+Man kann strenggenommen daher nicht davon sprechen, daß {{a},{a,b}} 
+/die/ Definition des geordneten Paares sei, es ist nur eine Modellierung 
+des Paares. Mit welchem Recht kann man dann aber überhaupt noch 
+von /dem/ geordneten Paar /(dem/ Begriff) sprechen?
+
+Mit einigem Recht kann man das jedenfalls, wenn man Identität  als 
+/Grundbegriff/ annimmt und 'geordnetes Paar' dann durch die bekannte 
+Identitätsbedingung erklärt. 'Geordnetes Paar' wäre dann eine weitere Art 
+eines "abstraktes" Objekt neben 'Menge', das Paar (a,b) faßt zwei Objekte 
+a und b zu einem "neuen abstrakten Ganzen" zusammen wie auch eine Menge 
+{a,b} solches tut. Dabei können die Paarelemente ganz beliebige Objekte 
+sein, vorausgesetzt nur, für sie wird eine Identitätsbedingung 
+mitgeliefert, so daß a=c & b=d entscheidbar ist.
+
+Der Identit�tbegriff existiert da gewissermaßen außerhalb des 
+Mengengartens und darf benutzt werden, und so außerhalb wurde ein weiteres 
+"abstraktes" Objekt definiert. Dieses Objekt "da draußen" läßt sich 
+anschließend mittels Mengen modellhaft nachstellen, und Kriterium für die 
+Adäquatheit des Modells ist die Selbigkeit der Identitätsbedingung.
+
+Aber wenn nun Identität erst durch 'Menge' und '\in' definiert werden 
+soll, dann kann man ja nicht über den Mengenzaun hinaus und jenseits des 
+Mengenreiches irgendein Objekt festsetzen oder behaupten, daß man es
+mengentheoretisch 'modelliere'. Worauf bezieht man sich dann noch?
+Allenfalls stelllt man nun noch fest, daß es verschiedene  (unendlich 
+viele?) Weisen gibt, zu zwei Variablen a und b eine Menge M=F(a,b) so zu 
+konstruieren, daß für je zwei nach demselben Prinzip F(,) gebildete Mengen 
+gilt
+  F(a,b)=F(c,d)  <=>  a=c & b=d .
+
+Vielleicht kann man jetzt folgendes versuchen. Verallgemeinern wir obiges 
+zunächst. Nennen wir einmal jede mit zwei Variablen a, b gebildete Menge 
+"Zweivariablen-Menge" (ZvM) und nennen wir das dabei benutzte 
+Bildungsprinzip F(,) "Zweivariablen-Mengen-Bildungsprinzip" (ZvMB). 
+(Rein syntaktisch aufgefaßt ist ein ZvMB eine Regel, aus den Zeichen "{" 
+und  "}" und "," und "a" und "b" eine zugelassene "Mengenfigur" zu 
+basteln, wobei "a" und "b" je mindestens einmal vorkommen müssen.)
+
+Zu jedem Bildungsprinzip gehört dann eine Identitätsrelation I(a,b,c,d):
+
+   F(a,b)=F(c,d) <=> I(a,b,c,d) 
+
+Die sei "ZvMB-Identität" genannt. Zwei Bildungsprinzipien heißen 
+ZvMB-Identität-Äquivalent, wenn sie dieselbe ZvMB-Identität zeitigen.
+
+So, jetzt könnten wir sagen, ein geordnetes Paar (a,b) ist die 
+Äquivalenzklasse aller F(,) mit der ZvMB-Identität a=c & b=d. 
+
+Da wird dann über Bildungsprinzipien quantifiziert. Bedenklich, 
+bedenklich...
+
+
+Größe,
+Willibald

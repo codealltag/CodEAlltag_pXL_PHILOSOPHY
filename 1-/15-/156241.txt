@@ -1,0 +1,14 @@
+Dieser Satz ist entweder eine Tautologie oder er ist falsch. Wenn man fuer eine
+beliebige unendliche Kardinalitaet ein Modell hat, so klarerweise auch Modelle
+fuer beliebige unendliche Kardinalitaet. ;-)
+
+Falsch wird er, wenn man eine ueberabzaehlbare Sprache hat (mit ueberabzaehl-
+baren Konstanten) und axiomatisch fordert, dass paarw. verschiedene Konstanten
+auch paarweise verschieden interpretiert werden. Dann gibt es naemlich kein
+abzaehlbares Modell.
+
+
+Gruss
+
+Walter.
+--

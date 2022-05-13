@@ -1,0 +1,56 @@
+On 12. 02. 23 13:25:20 -0700, 
+
+Also: Zunaechst definieren wir die Identitaet mengentheoretisch so wie
+es hier schon gemacht wurde. Und dann formulieren wir mit dem neuen
+Zeichen das Extensionalitaetsaxiom so, dass es mit dem
+Identitaetszeichen vertraeglich wird, naemlich so:
+
+(Ext) (z)(x)(y)(x=y -> (x\in z -> y\in z)).
+
+Nun kannst du noch so viel einwaenden, dass man das ja nur tut, weil es
+vertraeglich sein soll. Aber hier laesst du immer wieder deine
+Interpretationen durch die Metasprache einfliessen. Auf der Objektebene,
+die womoeglich auch anders interpretiert werden kann, wissen die
+Objektsprachler ganz genau mit dem Begriff Identitaet umzugehen, weil
+sie es durch die \in-Beziehung definiert haben. Die Zirkularitaet liegt
+in der Annahme deiner Interpretation, dass hier die Identitaet implizit
+versteckt sei. Aber dem ist ja ueberhaupt nicht so, denn wenn (Ext)
+nicht /gesetzt/ wird, so laesst sich aus
+
+     x=y :<=> (z)(z\in x <-> z\in y)
+
+zwar folgern, dass x=x ist, aber auch x=y -> y=x, jedoch nicht
+
+    (x=y & s=t) -> (x\in s -> y\in t).
+
+ohne sonstige Axiome. Damit gibt (Ext) der Identitaet eine
+Vertraeglichkeit mit der \in-Beziehung.
+
+Ich weiss, dass ich das Extensionalitaetsaxiom hier vielleicht in einer
+unueblichen Notation eingefuehrt habe. Aber wenn man schon ueber
+Identitaet philosophiert, dann muessen manche Dinge vielleicht von einer
+unueblichen Seite betrachtet werden. ;-)
+
+
+Du hast bisher kein Argument dafuer geliefert. Im Gegenteil, du gibst
+auch zu, dass ein Parser keinen Begriff von Identitaet hat. Damit ist
+aber auf der syntaktischen Ebene keine Zirkularitaet gegeben. Und
+semantisch kannst du das nicht zeigen.
+
+
+Bitte Ignaz, sei nicht so keck und ignoriere die Argumente. Wie ist es
+nun mit dem Mönchow-Beispiel? Das wuerde mich schon interessieren.
+
+Es ist uebrigens nicht so uninteressant, dass man in einer
+Klassentheorie die Identitaet definieren kann, aber dann eine 1-stufige
+Praedikatenlogik mit Identitaetszeichen expliziert werden kann. Damit
+haben wir dann also auch einen grossen Zugang etwa zu Urelementen und
+anderen Theorien.
+
+
+Gruss, Hinrich.
+-- 
+"Ohne die Mathematik dringt man niemals auf den Grund der Philosophie.
+Ohne die Philosophie dringt man niemals auf den Grund der Mathematik.
+Ohne beide kommt man auf den Grund von gar nichts."
+(Gregor Zeitlmann)

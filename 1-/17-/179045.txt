@@ -1,0 +1,22 @@
+eaeniqlhr@TJ.KGTN.btf.rc (Irkxk Ochsenreither) schrieb... 
+[...]
+
+Das klassische Beispiel ist der Beweis, dass es zu jeder NDTM eine
+äquivalente DTM gibt; dabei wird auch die Potenzmenge der
+Zustandsmenge der NDTM zur Zustandsmenge der DTM.
+
+Ich halte bei diesem Problem ebenfalls Edouards Vorschlag für gut, für
+einen Zustand seine (empirische) Erfahrbarkeit zu fordern. Die rein
+formalistische Forderung, ein Bild dürfe keine Menge sein, scheitert
+schon daran, dass in der Mathematik *alle* Objekte Mengen sind.
+Ansonsten müßte ein atomarer Charakter von "Zuständen" axiomatisch
+postuliert werden, womit man sich allerdings der Möglichkeit begäbe,
+Zustände "modellieren" zu können.[als Vektoren,etc.]
+
+
+Danke, ich werde 'mal reinschauen. Auch ansonsten ist der Autor
+lesenswert, ich habe von ihm schon etwas über das Universalienproblem
+gelesen. 
+
+
+arian

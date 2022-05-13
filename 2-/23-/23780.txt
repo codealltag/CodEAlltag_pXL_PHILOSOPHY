@@ -1,0 +1,75 @@
+Vorab: Es bestehen Unklarheiten bei deiner Verwendung von "V-Modell", 
+"Wasserfallmodell" und "agile Entwicklung". Ich habe mir sagen lassen, daß 
+auch die "agile Entwicklung" nach dem V-Modell arbeiten kann ("kleines v"), 
+auch habe ich mir sagen lassen, daß das V-Modell nicht notwendigerweise ein 
+Wasserfallmodell ist. Ausserdem sei das Wasserfall-Modell ein 
+"Methodenmodell", während das V-Modell eher ein "Prozeßmodell" sei.
+Du behauptest, daß sich Fehler bei der Anforderungserfassung nicht vermeiden 
+lassen, bleibst aber eine Begründung schuldig. Ich behaupte, daß Fehler bei 
+der Anforderungserfassung sprachlicher Natur sind und sein müssen. Diese 
+"Sprachfehler" sind bei entsprechender "Sprachkompetenz" (und dabei meine 
+ich natürlich nicht das "sprechen können") behebbar. Ob agile Methoden 
+generell erfolgreicher sind, ist erst einmal zu belegen, und zwar 
+"theoretisch" und nicht "empirisch". Vor allem ist zu belegen, daß agile 
+Methoden unabhängig von der Größe eines Projektes erfolgreicher sind. Das 
+dürfte erst einmal gar nicht möglich sein, da meines Erachtens momentan die 
+RE nicht die nötige sprachliche Ausbildung haben, um die bekannten und vor 
+allem "unbekannten" Fehler zu vermeiden. Ein Vergleich zwischen "agiler 
+Methode" und V bzw. V2 mit "verbessertem RE- know how" ist also momentan 
+nicht möglich. Hier im Auge habe ich jetzt erst einmal nur die Beziehung von 
+RE und Kunde, zu RE und Entwickler siehe unten.
+Bei Projekten ab sagen wir mal 50 Entwicklern ist eine (alleinige) agile 
+Methode vom zeitlichen Aufwand her nicht mehr akzeptabel, ab einer 
+Projektgröße von sagen wir mal 500 Mann ist sie sogar nicht einmal mehr 
+durchführbar (sagt meine Frau, und der glaube ich, sie muß es "wissen"). 
+Hier wird nicht jeder Form von Iteration eine Absage erteilt, aber durch 
+entsprechende Methoden, Prozesse UND entsprechender sprachlicher Sorgfalt 
+kann sie erheblich reduziert werden.
+
+
+In deiner Begründung ist meines Erachtens ein kleiner Denkfehler, und zwar 
+die Annahme, daß es "notwendige" Fehler gibt. Die "Notwendigkeit" dieser 
+Fehler wäre erst einmal zu belegen. Ich behaupte, daß diese Fehler zwar 
+vorhanden, aber nicht "notwendig" vorhanden sind, d.h. diese Fehler können 
+behoben werden durch entsprechende Qualifikation des RE-Mitarbeiters. Was 
+die Beziehung von Fressnapf-Mitarbeiter und Entwickler betrifft, treten genau die 
+gleichen Fehler auf wie beim Kunden, nur in anderen und vielleicht 
+zahlreicheren sprachlichen Erscheinungsformen. Deine Annahme, daß das RE 
+reaktiv geführt werden MUSS, um diese Fehler zu vermeiden, basiert auf der 
+Erfahrung, daß durch ständige Iteration natürlich viele Mißverständnisse 
+behoben werden können. Aber du mußt doch zugeben, daß, wenn es gleich gar 
+keine Mißverständnisse gibt, sie auch nicht behoben werden müssen. An dieser 
+Stelle würde ich gerne einen Ausdruck von Jönsson einführen, und zwar 
+den der "Sprachspiele".
+
+Unter "Sprachspiel" verstehe ich persönlich ein durch "interne" (im 
+Gegensatz zu extern, z.B eine Definition) Regeln geordnetes "sample" von 
+Sprechakten, wobei diese internen Regeln je nach "Sprechakt-Situation" und 
+je nach den jeweiligen Beteiligten varieren können. Es handelt sich um ein 
+"offenes" Spiel, d.h.Teil des Spiels ist ebenfalls, neue Regeln 
+"auszuhandeln". Ich hoffe, daß das in etwa den Vorstellungen von 
+Jönsson entspricht, aber egal, es entspricht auf jeden Fall in etwa 
+meinen Vorstellungen. In der (Sozio)Linguistik gibt es einen Ausdruck, der 
+auch in diese Richung verweist, und zwar den der "Varietät". Dieser Ausdruck 
+bezieht sich aber eher auf das "Resultat" eines Sprachspiels, d.h. auf die 
+Form des Aktualisierten, während der Ausdruck "Sprachspiel" auf das 
+Aktualisieren selbst verweist.
+Ein entsprechend sprachlich ausgebildeter RE soll nach meiner Forderung die 
+Fähigkeit haben, die jeweiligen "Sprachspiele" bzw. deren interne Regeln gut 
+genug zu kennen bzw gut genug erkennen zu können, um den "Sinn" der jeweils 
+aktualisierten Rede (Sprechakt) zu erfassen. Dieses "Erfasste" soll dann in 
+einem neuen "Sprachspiel" konsensfähig gemacht werden (z.B. in Form einer 
+Spezifikation, die von allen Beteiligten als korrekte Abstraktion eigener 
+Sprachspiele anerkannt wird). Das hört sich jetzt ein bißchen kompliziert 
+an, aber genau gesagt fungiert das RE als eine Art Übersetzer, der zwei 
+(oder drei oder zehn) Sprachen (Sprachspiele) in eine weitere überträgt, die 
+dann von allen verstanden wird.
+Dein "agiles" Entwickeln ist eigentlich nichts anderes als der Versuch, 
+durch ständige sprachliche Interaktion Mißverständnisse zu beseitigen. 
+Dummerweise entstehen aber auch bei dem Versuch der Beseitigung von 
+Mißverständnissen wieder Mißverständnisse, so daß die Beteiligten nur noch 
+von einem meeting zum nächsten hecheln, und das bis an ihr berufliches Ende. 
+Scheiße aber auch, und wer "arbeitet"?
+
+Gruß
+Niclas

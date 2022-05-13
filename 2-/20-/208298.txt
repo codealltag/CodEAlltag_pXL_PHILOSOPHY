@@ -1,0 +1,17 @@
+: > : Na, ganz entsprechend. Also etwa: die Wahrscheinlichkeit P(x) gibt die
+: > : Tendenz an, mit der die Temperatur unter x Grad Celsius liegt.
+: > Das liefert kein Wahrscheinlichkeitsmass. Was eine Seite bei einem
+: > Wuerfel ist, weiss ich noch und da stimmen wir wohl ueberein, aber
+: > wenn eine Ws. nicht als Mass gemeint ist, reden wir von verschiedenen
+: > Dingen.
+: Wieso liefert das bitte kein Wahrscheinlichkeitsmass?
+
+Ein Wahrscheinlichkeitsmass braucht einen zugrundeliegenden
+Massraum. Der soll bei dir wohl die moeglichen Temperaturen (x) sein.
+Dann ist aber womoeglich P(100)+P(200) > 1. (Man findet immer eine
+endliche Anzahl von x_n, so dass die Summe P(x_n) groesser als 1
+wird.) Du meinst vielleicht P(x) gibt die Tendenz an, dass die
+Temeperatur = x oder in der Naehe von x ist?
+
+Schoene Gruesse,
+	Wilhelm

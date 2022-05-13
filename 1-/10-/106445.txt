@@ -1,0 +1,29 @@
+Welch' Theatralik.
+
+
+Es ist /meine/ Logik, sondern diejenige, die unserer Sprache
+unterliegt. Aber vielleicht kannst du ja in der Tat Werner wirres
+"Nein" in ein vernünftiges Gegenargument verwandeln. Also noch einmal
+das Argument:
+
+
+"(1) Das Gehirn ist ein Gegenstand der Außenwelt.
+
+(2)  Für alle x gilt: Wenn x ein Gegenstand der Außenwelt ist, dann ist
+x ein Konstrukt des Gehirns.
+
+(3) Wenn das Gehirn ein Gegenstand der Außenwelt ist, dann ist das
+Gehirn ein Konstrukt des Gehirns.
+
+(4) Das Gehirn ist ein Konstrukt des Gehirns.
+
+Die Prämissenmenge ist {(1),(2)}, die Konklusion (4). Aussage (3)
+folgt aus (2) mittels quantorenlogischem Axiom und Anwendung des Modus
+ponens, und (4) aus (1) und (3) wiederum mittels Modus ponens."
+
+Hier reicht es allerdings *nicht*, einfach nur "Nein" zu sagen,
+*zeige* mir, wo der Fehler in der Logik, den Prämissen oder der
+Folgerung *genau* liegt.
+
+
+benno

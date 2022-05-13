@@ -1,0 +1,13 @@
+Das ist als Einwand gegen Erich Definitionsversuch witzlos. Wenn
+man vom Kreis, Dreieck etc. im *euklidischen* Raums spricht (den
+fassen wir der Einfachheit halber im Sinne der analytischen Geometrie
+als Quadrupel (X,TX, <..>, t ) mit der Menge der Punkte X, dem
+(dreidimensionalen) Translationsvektorraum TX, der durch t einfach
+transitiv auf X operiert, und einem Skalarprodukt <..> auf TX auf),
+dann ist mit dem Term "Abstand" der durch das Skalarprodukt gegebene
+*euklidische* Abstand gemeint ist, bzgl. dessen die Kreise eben keine
+Ecken haben. Dass es andere mögliche Abstandsbegriffe gibt, einschließlich
+der durch Normen induzierten, ist hier irrelevant.
+
+
+Sergio

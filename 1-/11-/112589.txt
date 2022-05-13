@@ -1,0 +1,59 @@
+Das ist kein Widerspruch.
+
+
+Nee, nicht wirklich.
+
+
+H?
+
+
+Nein.
+
+Logisch kann man das ganze so auflösen, dass der Vorsprung der
+Schildkröte so schnell kleiner wird, so dass es eine obere Grenze der
+gesamt zurückgelegten Strecke gibt, bis zu der der Vorsprung der
+Schildkröte >= 0 ist. Unser Gehirn ist aber bei der
+Grenzwertbetrachtung zu blöd dafür einen Grenzwert zu sehen. Deswegen
+kann man dem Gehirn den falschen Schluss unterjubeln, dass es einen
+Grenzwert nicht gäbe.
+
+Zahlenbeispiel:
+Hänge an eine beliebige Zahl schrittweise immer eine Nachkommastelle
+mehr an. Die Zahl wird stetig größer werden, aber niemals eine feste
+Grenze überschreiten.
+
+Also z.B.
+0,6
+0,66
+0,666
+0,6666
+.
+.
+.
+Die Zahl wird niemals 0,7 oder 0,67 oder 0,667 sein, obwohl sie stetig
+wächst, je mehr Nachkommastellen man anhängt.
+
+Das Anhängen einer Nachkommastelle entspricht einer stetigen Addition
+von Zahlen, jedoch werden die addierten Zahlen so schnell kleiner, dass
+eine gewisse Grenze niemals überschritten werden kann.
+
+Wenn du dir den Abstand des Läufers und der Schildkröte anguckst, so
+wird der gegen 0 laufen und die zurückgelegte Strecke der Schildkröte
+wird ebenfalls gegen eine Grenze laufen, die niemals überschritten
+wird.
+
+Andersherum kann man es auch so betrachten, dass das Zeitintervall von
+Iteration zu Iteration derart verkleinert wird, dass es letztendlich
+gegen 0 läuft. Es wird also die Zeit angehalten, damit der Läufer die
+Schildkröte nicht überholen kann.
+
+Diese Art der Betrachtung ist vollkommen zulässig, jedoch ist der
+Schluss daraus, nämlich das kein überholen stattfindet, falsch. Da
+unser Gehirn aber bei Grenzwertbetrachtungen ein bissl blöd ist, merken
+wir das nicht.
+
+mfg
+Siebelt
+
+-- 
+Man darf ruhig intelligent sein, man muss sich nur zu helfen wissen.

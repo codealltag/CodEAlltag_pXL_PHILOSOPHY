@@ -1,0 +1,35 @@
+Hallo Reinhold,
+
+
+Ja.
+
+
+... in Bezug auf X. Das ist ja auch so gewollt: ich möchte beweisen,
+dass X gilt unabhängig davon, ob A gilt. 
+
+
+Wenn A (immer) wahr ist, dann ist auch Y wahr und damit X. Das ist
+überhaupt nicht ausgeschlossen. 
+
+
+Warum? Wenn jemand in seinem Beweis einbaut "Wenn, die Goldbachsche
+Vermutung stimmt, dann Y und damit X; wenn sie aber nicht stimmt, dann
+Z und damit X", dann ist das völlig in Ordnung. Man setzt sich über
+nichts hinweg, sondern zeigt nur, dass für X die Goldbachsche
+Vermutung keine Rolle spielt.
+
+
+Nein. Ich mache doch keine Aussage über A, sondern nur über
+"A-->Y" und "wenn A-->Z". Aus beiden lässt sich nicht ein 
+"A gilt" konstruieren.
+
+
+Warum? 
+
+Viele Größe
+
+Edo
+
+-- 
+If you think technology can solve your problems you don't understand
+technology and you don't understand your problems.  (Samu Thomas)

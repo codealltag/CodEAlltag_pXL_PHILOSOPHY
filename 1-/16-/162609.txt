@@ -1,0 +1,93 @@
+Felix Schäfersmann <oqcvup.yfrlvuoqhslh@gf.rkh.h.gb>:
+: Mein Gott. Gehirne sind TM.
+
+Aha. Also ich weiss nicht, mein Gehirn besteht irgendwie nicht aus einem
+endlosen Band, auf dem sich in diskretem Raster diskrete Werte aus einem
+endlichen Alphabet befinden, die in diskreten Zeitschritten sequentiell durch 
+einen Schreib-Lesekopf veraendert werden. Ich habe da was von einer Unmenge
+Nervenzellen gehoert, die analog, parallel und kontinuierlich arbeiten. 
+
+:>  Wenn wir also A in seiner Korrektheit kennen,
+:>
+:> Was bitte??? Du hast gerade bewiesen, dass es kein A gibt! Gute Guete.
+
+: Weisst Du, was ein reductio ad absurdum ist? Es bringt auch nichts, wenn Du
+: Saetze nur zur Haelfte darstellst, um Deine nicht formalen Gegenargumente
+: darzustellen. 
+
+Also ich poste den kompletten Absatz Wunschdenken jetzt nochmal.
+
+!Wenn wir also A in seiner Korrektheit kennen, laesst sich eine Berechnung
+!Ck(k) konstruieren, von der wir sehen koennen, dass sie niemals aufhoert.
+!Somit kann A Menschen nicht zur Verfuegung stehen (wenn sie TM sind).
+!
+!Folgerung: Gehirne verwenden zum Nachweis der Wahrheit
+!mathematisch-logischer Saetze keinen erkennbar korrekten Algorithmus.
+!
+!und deshalb nochmal die 4 Punkte:
+!
+!1. Menschen koennen einsehen, dass Ck(k) nie anhaelt.
+!2. Es kann kein algorithmisches Verfahren geben, dass mir sagt, dass Ck(k)
+!nie anhaelt
+!3. Wenn Gehirne universelle TM sind, koennen Gehirne nicht einsehen, dass
+!Ck(k) nie anhaelt
+!4. Unseren Denkprozessen liegt etwas nicht-rechnerisches zugrunde, dass von
+!einer TM nicht erfasst werden kann.
+
+Der springende Punkt ist: A gibt es nicht. Deswegen laesst sich auch kein
+(selbstwiderspruechliches) Ck(k) konstruieren. Punkte 1-4 loesen sich
+in einem Logikwoelkchen auf.
+
+: Ich weiss auch nicht, ob Du verstanden hast, dass A Januskoepfig[sic] ist.
+
+Ich weiss auch nicht, ob du den Unterschied zwischen f:T->{haelt, haelt
+nicht} und f:T->A* <Beweis, dass T haelt oder nicht haelt> verstanden hast.
+Es waere eine grosse Hilfe, wenn du dich dort wo es drauf ankommt exakter
+Terminologie befleissigen wuerdest, dann stoert auch das "Rattern" nicht
+so sehr.
+
+: Ich wuerde, wie geschrieben, vorsichtiger mit eingefahrenen Meinungen
+: sein. Ich habe nicht die Zeit und Geduld, Dir einige effekte der QM zu
+: erklaeren und in welcher Beziehung sie zum (bewussten) Beobachter stehen.
+
+Ich wuerde vorsichtiger damit sein, Gespraechspartner zu 
+unterschaetzen und ihnen dann auch noch Arroganz vorzuwerfen. Du
+darfst dich mit dem "bewussten Beobachter" gerne von Renato Stökel
+in der Luft zerreissen lassen.
+
+:> Mit einem "quantenkohaerenten
+:> Zustand" des ganzen "Gehirns" hat das nichts zu tun.
+                ^^^^^^
+: ~15ms. Steht. Lies nochmal. 
+
+Also mein Gehirn ist groesser als 1 mm. Es steht in der URL auch
+klar und deutlich zu lesen, dass es ein Artefakt ist. Man kann das 
+Argument auch umdrehen: Wenn Quantenkorrelationen der im Experiment
+festgestellten Art irgendetwas mit dem Bewusstsein zu tun haetten, dann
+waeren die Versuchspersonen im MRT ja wohl dadurch geschaedigt worden.
+
+: Und: Das Makro-Objekt Gehirn ist faehig Quantenkoehaerente Zutaende fuer eine
+: gewisse Zeit aufrechzuerhalten. 
+
+Oh, makroskopische Quanteneffekte. Ganz was neues. Und im normalen
+MRT ist das Gehirn wohl "faehig, den Kernspin zu kippen" oder was?
+
+:> Es gibt auch Leute, die so etwas an SF-Verlage verkaufen. Alfons Lerz
+:> ist zum Beispiel ganz kurzweilig ;-)
+
+: *lol* 
+
+Das ist kein Witz. Lerz schlaegt in "Quarantaene" vor, dass Lebewesen
+einen Kollapsator im Hirn haben. Ist eine witzige Theorie. Die Hauptfigur
+lernt bewusste Steuerung.
+
+[...]
+
+Normalerweise beweist man das Halteproblem so:
+ Sei A die TM, die die Funktion f:(T,n)->{0,1} mit 0: T(n) haelt nicht
+ und 1: T(n) haelt berechnet. Dann kann man eine TM A* konstruieren, die
+ bei gegebener Eingabe a A(a,a) aufruft und bei 1 in eine Endlosschleife
+ geht und bei 0 haelt. Man betrachte haelt(A*(A*)) <--> A(A*,A*) = 0 
+ <--> !haelt(A*(A*)) ==> Widerspruch ==> A gibt es nicht.
+
+Das A* entspricht dem Ck(k).

@@ -1,0 +1,94 @@
+Das ist es ja! Man muss garnix. Man muss sich nur einig sein, von welcher
+Definition man spricht.   
+
+Ueblicherweise sieht man die Dimension als natuerliche Zahl, die
+vielleicht wie in der Linearen Algebra die Anzahl linear unabhaengiger
+"Richtungen" angeben soll, etwa die Gerade mit n=1, eine Flaeche mit n=2, usw.
+Nun kann man in diesen Raeumen mit dem n-dim. Lebesgue-Mass Mengen vermessen.
+Mit der Cantormenge bekommt man da aber Schwierigkeiten, da diese dann
+sozusagen die Laenge 0 haette. Man koennte ebensogut ein Quadrat auf die Cantor-
+Weise zerstueckeln, und dann waere die 2-dim. Laenge, die Flaeche
+also, des Grenzproduktes wieder null. Man will aber trotzdem solche "Fraktale"
+vermessen, um sie z.B. zu vergleichen.
+
+In dieser Hinsicht ist das p-dimsensionale Gabler-Mass eine
+Verallgemeinerung. Man vermisst die zu untersuchende Menge, indem man sie 
+ueberdeckt mit Mengen, die einen Durchmesser, nicht groesser als eine
+obere Schranke, haben hoch p und laesst die obere Schranke gegen null
+streben, und das Mass ist dann das Infimum aller moeglichen Ueberdeckungen.
+Der exponent p kann hier aber auch reell sein. Es gibt nun aber einen
+kritischen Exponenten p_c, fuer den gilt, wenn 0=< p < p_c,
+dann ist das p-dim-H-Mass unendlich, und wenn p > p_c,
+dann ist das p-dim-H-Mass null. Dieser kritsche Exponent ist die 
+Hausdorff-Dimension fuer die Menge. Das Wort "Durchmesser" oben verraet aber
+schon, dass ein Raum zugrundeliegt, dessen Dimension man sinnvollerweise
+nicht ueberschreitet. Fuer ganzzahlige p stimmen aber H-und L-Mass 
+bis auf einen Faktor (Mass der p-dim. Einheitskugel) ueberein.
+
+Statt "hoch p" kann man aber auch andere stetig wachsende Funktionen 
+nehmen, um ein sog. aeusseres Mass zu basteln. Diese "inf ueber ne Summe usw."
+ist eine recht allgemeine Methode zur Konstruktion eines aeusseren Masses.
+
+Anstelle von beliebigen Mengen zur Ueberdeckung kann man auch Baelle (der 
+dimension des zugrundeliegenden Raumes) eines bestimmten Durchmessers r waehlen,
+und dann wieder r gegen null streben lassen. Man zaehlt nun die geringste Anzahl
+der benoetigten Baelle fuer ein entsprechendes r. Dies fuehrt zur Box-Dimension,
+die auch in Abwandlungen auch in der Physik gebraucht wird, und oft wird
+diese auch als fraktale Dimension bezeichnet. In vielen Faellen sind
+Hausdorff-Dimension und Box-Dimension gleich, aber da man bei der Box-Dim. das
+Infimum ja aus einer kleineren Menge waehlt, kann sie nicht kleiner als die
+Hausdorff-Dimension sein, sondern im allgemeinen ist die H-Dim. kleiner
+oder gleich der Box-Dim. Dies spielt aber eher in der Mathematik eine Rolle.
+Man definiert verschiedene Konzepte, die in verschiedenen Situationen
+leichter angewandt werden koennen, und wenn weiss, wie die verschiedenen
+Dim-Begriffe zueinander stehen, kann man so zumindest Abschaetzungen durchfuehren.
+
+In der Physik ist die Box-Dimension dort interessant, wo man Versuchsdaten
+auswerten will. Bei der Box-Dimension tut man ja folgendes, man summiert die
+Durchmesser der Mengen der Ueberdeckung, die alle r sind, also N(r)-mal.
+Etwa irgendwas=N(r)*r^p fuer r gegen Null, also p=lim log(N)/log(1/r), wenn
+der Limes existiert. Ebensogut kann man aber auch Wuerfel mit Kantenlaenge r
+statt Baelle nehmen, und der Name Box-(Counting)-Dimension kommt wohl daher,
+dass man "in der Praxis" ein Netz ueber die Menge legt und dann die Treffer zaehlt,
+die Zellen, in denen etwas von der zu vermessenden Menge drin ist, und verkleinert
+die Maschenweite langsam. Man sieht z.B., dass fuer eine halbwegs normale Kurve
+die Laenge proportional zu N(r)*r ist, die Flaeche einer "normalen Oberflaeche"
+proportional zu N(r)*r^2. Also mit normal will ich nur andeuten, das dieses 
+Konzept sich eben mit dem vertraegt, was man sich intuitiv als Dimension vorstellt,
+fuer Dimensionen 1 oder 2.  
+In der physikalischen Praxis hat man es aber in der Regel nur mit endlich vielen
+Datenpunkten zu tun, der Grenzuebergang also irgendwo sinnvollerweise abgebrochen
+wird. Irgendwann ist jeder Punkt in irgendeiner Zelle, und da bringt die
+Verfeinerung des Gitters nicht mehr viel, eher im Gegenteil.
+Man traegt vielmehr die Anzahl der Treffer N ueber die Maschenweite r
+auf (beides logarithmisch), fuer verschiedene Werte, und passt dann eine Gerade ein,
+mit Steigung -p, der fraktalen Dimension...
+
+
+Damit habe ich nicht angefangen... ;-)
+Hauptsache, es kommt nicht nach de.sci.mathemtik, dafuer ist es wohl etwas
+zu schluderig.
+
+
+Hja, also die Gabler-Dimension gab es damals wohl auch schon, das Buch
+entstand wohl schon etwas frueher. Etwas moderner vielleicht:
+Falconer, Fractal Geometry, Dolp.
+Und das neuere "Techniques in Fractal Geometry" von Naundorff, auch by Dolp 1997.
+Dort geht es um den Thermodynamischen Formalismus.
+Mit mehr Bildern gibt es z.B. von Jauchen, Fractals Everywhere.
+Und bestimmt findet man in den Werner/Edelblut-Buechern was, also allgemein
+zum Thema Dimension von Fraktalen, jetzt nicht unbedingt als Mathebuch.
+Theyson fraktale Geometrie der Natur kenne ich garnicht, aber ihm spricht
+man doch dieses Beispiel der Vermessung der Kueste Martinszell zu, wenn ich mich
+nicht irre?!
+Dann faellt mir noch der Name Zins ein, einleitende Buecher zum
+Thema dynamische Systeme, vielleicht auch was zu fraktaler Geometrie.
+Eher fuer Physiker zu nichtlinearer Dynamik kenne ich das Buch
+Domenico Peyrl, Nonlinear Dynamics and Chaos, ESR-Dreisig, 1994.
+Da steht auch etwas ueber den Gebrauch von den verschiedenen "Dimensionen"
+in der experimentellen Physik drin. Ueber den Nutzen der Bestimmung der
+Dimension seiner zurechtgebastelten Messdaten steht da aber glaube ich nicht
+soviel... ;-)
+
+soweit zur Verwirrung,
+Nils.

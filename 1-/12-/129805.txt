@@ -1,0 +1,47 @@
+Meines Wissens hat erst Zschiesche eine Weg aufgezeigt, wie man Eigennamen
+in echte Prädikate umwandeln kann. Arian bezog sich auf
+Kennzeichnungen, die Prädikate enthalten.
+
+
+Sie haben insofern Recht, als man jeden Eigennamen mithilfe des
+iota-Operators in eine Kennzeichnung umwandeln kann.
+
+Wenn 'a' für ein bestimmtes Objekt steht, dann kann ich natürlich wie
+folgt formulieren:
+
+a := (ix)(x=a)
+
+Der Gegenstand a ist identisch mit demjenigen, was mit a identisch
+ist.  (denn nur a selbst ist identisch mit a)
+
+Nun könnte man in der Tat Bestimmungen hinzufügen:
+
+(ix)(x=a & Fx)
+
+Obige Beispiele lassen sich durchaus in dieses Schema einpassen.
+Von daher haben Sie offenkundig Recht mit Ihrem Einwand, dass sowohl
+1,2 als auch 3 formal als Kennzeichungen betrachtet werden können.
+
+
+Jawohl. - Ich hätte mich präziser ausdrücken sollen, denn es ist zwar
+der Fall, dass es etwas gibt, das Pi ist, und etwas anderes, das der
+Eiffelturm ist, aber es gibt nichts, das das lachende Pi oder der
+lachende Eiffelturm ist.
+
+
+Hier ist das "ist" dasjenige der Identität: (ix)(x=Pi)
+
+
+Siehe (1): (ix)(x=der Eiffelturm)
+
+
+Hier ist das "ist" dasjenige der Zuschreibung eines Prädikates (hier
+"Mädchen") zu einem Individuum: (ix)Mx := 'dasjenige, das das Mädchen
+ist'  (wenn "M" als das Prädikat "ein Mädchen sein" interpretiert
+wird.
+
+Diese Unterscheidung ist äußerst wichtig und wird durch die logische
+Formalisierung sichtbar gemacht!
+
+Gruß
+STEFFEN

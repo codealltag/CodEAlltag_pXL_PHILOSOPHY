@@ -1,0 +1,31 @@
+Ja, "~K_i~p" bedeutet "Es ist nicht der Fall, dass Agent i weiss, dass
+nicht p"
+
+
+Du kannst die epistemische Logik schon mit der Modallogik kombinieren,
+doch zunächst sollten die beiden Systeme getrennt betrachtet und die
+jeweiligen Operatoren systemintern definiert werden.
+
+Zum Beispiel wäre
+
+
+"Wenn jemand weiss, dass p, dann ist es möglich, dass jemand weiss,
+dass p."
+
+ein intuitiv unmittelbar einleuchtendes Theorem der kombinierten
+'epistemischen Modallogik'.
+
+Folgende Formel wäre dagegen kein Theorem:
+
+
+Denn wenn jemand weiss, dass p, dann weiss er, dass  <>p, nur wenn er
+zusätzlich weiss, dass p -> <>p:
+
+
+Das folgt unmittelbar durch Ersetzung aus dem wissenslogischen Axiom
+
+(A) (Kp & K(p -> q)) -> Kq
+
+
+Gruss
+ULF

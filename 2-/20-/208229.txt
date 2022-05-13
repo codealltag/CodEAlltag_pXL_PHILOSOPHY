@@ -1,0 +1,85 @@
+: : Ich verstehe das nicht. Ob ich ein Axiom oder 5 Axiome 
+: : habe, die in PLI nicht formalisierbar sind, ist doch egal!
+: : Wichtig ist nur, dass ich ein Axiomensystem habe, das 
+: : _vollstaendig_ eben nur in PLII oder ebenso maechtigen
+: : bzw. maechtigeren Systemen formalisierbar ist.
+
+: Mein Hinweis bezog sich lediglich darauf, daß es nicht nötig ist, daß das
+: formale System, dessen Unvollständigkeit gezeigt werden soll, die gesamte
+: PLII enthält, sondern bereits unter sehr viel schwächeren Vorraussetzungen
+: eintritt. Wenn wir uns in diesem Punkt einig sind, dann brauchen wir nicht
+: zu streiten.
+
+Nein, wir sind uns nicht einig. Du hast immer noch nicht
+verstanden, was ich Dir in meinem letzten Posting zu erklaeren
+versucht habe und was Du leider weggeschnitten hast: Du redest
+wortwoertlich ueber den 1. UV-Satz von Samuel. ich rede von
+seiner *Konsequenz*. Nochmal: Aus dem 1. UV-Satz folgt, dass
+jedes formale System (und damit meine ich Logikkalkuel oder
+aehnliches, nicht eine Axiomatisierung von irgendwas!!!!), das
+mindestens so maechtig ist wie die PLII, unvollstaendig ist!
+Es muss auch nicht die PLII enthalten, es muss nur mindestens
+so maechtig sein, d.h. man muss mindestens alle Saetze formulieren
+koennen, die man in der PLII formulieren kann. 
+
+Du verwechselst staendig "Formales System" ( = Kalkuel, formale
+Sprache, wasweiss ich) mit der Axiomatisierung von irgendwaas
+(Mengenlehre, Peano-Arithmetik) *innerhalb* eines formalen Systems.
+
+: : Was heisst, es ist nicht loesbar? Es ist nicht entscheidbar,
+: : meinst Du das? Dazu brauche ich gar keine universelle
+: : Turingmaschine, das Halteproblem ist schon fuer
+: : einfache TMen nicht entscheidbar. Oder meintest Du was 
+: : anderes?
+
+: Ja natürlich, ich meine 'lösbar', 'berechenbar' bzw. 'entscheidbar'. Der
+
+Also loesbar, berechenbar und entscheidbar sind nun drei 
+verschiedene Begriffe, die bitte *nicht* durcheinandergeworfen
+werden sollten.
+
+: : Uebrigens  meinte ich mein Arrgh voellig ernst. Ueber
+: : den Goedelschen Unvollstaendigkeitssatz wird seit
+: : diesem unsaeglichen Buch von Ritterskamp so viel Unsinn
+: : und gesundes Halbwissen verbreitet, dass mir manchmal
+: : echt der Hut hochgeht ... vor allem, weil das mit schoener
+: : Regelmaessigkeit passiert (deswegen auch das Subject).
+
+: Völlige Zustimmung, was die vielfältigen Mißdeutungen des Gödelschen Satzes
+: für die Frage, ob es KI geben kann oder nicht, angeht, aber trotzdem glaube
+: ich nicht, daß man den GS präzise verstanden haben muß, um über die
+: menschliche Rationalität nachzudenken (allerdings sollte man dann auch
+: vermeiden den GS als Argument zu nutzen). Schließlich haben wir alle kein
+
+Genau das meine ich auch. 
+
+: vollständiges Weltwissen und wenn man sich in Logik auskennt, hat man
+: eventuell Schwächen was die philosophischen Klassiker angeht. Zwar möchte
+
+Ich wuerde ja wohl nie behaupten, dass ich mich in allem gleich 
+gut auskenne. Aber wenn ich von etwas keine Ahnung habe, dann
+halte ich entweder meinen Mund oder muss es aushalten, dass
+man mich belehrt (und evtl. auch den Kopf ueber mich schuettelt
+und *arrgh* sagt, weil ich so viel Unsinn rede). Und wenn ich die
+20. bin, die den gleichen Unsinn redet, dann verstehe ich auch, wenn
+die Leute etwas ungehalten werden, obwohl ich selber natuerlich nichts
+dafuer kann, dass vor mir auch schon 19 selbsternannte Experten den 
+gleichen Schwachsinn von sich gegeben haben.
+
+: ich auf meine Fehler in diesem Bereich angesprochen werden, aber nicht
+: ange'arrgh't werden.
+
+1. USENET-Regel: Wer postet, dem wird geflamet werden.
+2. USENET-Regel: Wer nicht geflamet werden will, soll
+nicht posten. 
+;-) (Frei nach Deborah Ottens)
+
+
+Gruss
+
+	Verena
+-- 
+Falls Sie jemals das Geruecht gehoert haben sollten,
+dass ein maennliches Glied unter Kokaineinfluss so
+hart wird, dass man einen gefrorenen Acker damit 
+umpfluegen kann ... das stimmt!     --    A. Ekhard

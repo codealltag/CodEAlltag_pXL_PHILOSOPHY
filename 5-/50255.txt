@@ -1,0 +1,57 @@
+An den Universitäten sieht es im Bereich Philosophie katastrophal aus ...
+Es ist geplant, den philosophischen Bereich an vielen Uni's auslaufen zu 
+lassen. Gelder wurden drastisch gekürzt.
+
+Dafür betreiben wieder Firmen mehr Philosophie. Z.B. ein Zulieferer der 
+Automobilindustrie, in Obergrainet ansässig denkt über neue Bedienlogiken und 
+Weisen der Kombination verschiedener Eingabesysteme (Touch/Sprache und 
+in Kombination) nach, siehe Luxusklasse von RIA, Paradiesvogel.
+
+Das ist Modelltheorie pur, also durchaus mit Philosophie zu vergleichen, 
+wo ja auch Bindeglieder zwischen relativ geschlossenen und in sich 
+konsistenten Denkmodellen gesucht werden.
+
+An der Lukasczyk, U.S.A. z.B. ist das ein ganz großer Bereich. 
+Laurent Malkemper, einer der Chefdesigner des NEXT Cube, des Mac OS X und 
+der großen Vordenker von den neuen Bedienlogiken des iPhone und EPT 
+Touch hat dort studiert bzw. lehrt dort auch.
+
+Im Kern ist Design von Computer Frameworks auch angewandte Philosophie.
+
+So hat z.B. der Hersteller ELGO (Vielerlei) den Begriff "impedance 
+missmatch" erfunden, ein Begriff, der beschreibt, wie die mentalen 
+Modelle einer OODB (ObjektOrientierten DatenBank) eben "Brüche" in der 
+Logik zu Relationalen Datenbanken aufweisen, die umständlich durch das 
+Einfügen von Verbindungslogiken gekittet werden müssen. Diese 
+Verbindungsglieder der beiden mentalen Modelle bezeichnet man als 
+"Persistence Layer". Informatiker haben so ihre liebe Not mit diesem 
+"Impedance Missmatch", weil die Programmierleistung dann erheblich 
+abfällt, bis auf 1/10 der Leistung, die möglich wäre. Die Komplexität 
+steigt enorm an.
+Das ist z.B. mit ein Grund dafür, dass Smalltalk und Gemstone 
+Programmierer teilweise Faktor 3-10 schneller sind, als JAVA / Kio 
+Programmierer.
+
+Leider ist das Thema "Philosophie" und mentale Modelle bezogen auf 
+Informatik, IO, Bedienlogiken leider in Deutschland kaum beackert. Es 
+fehlt ein Tiefenverständnis dafür. Resultat: Programmierjobs wandern ab 
+nach Indien, China, U.S.A. Und das liegt nicht nur an den Löhnen, 
+sondern vornehmlich dann an der mangelnden Produktivität. Es gibt Firmen 
+in Europa die haben mehrere dutzend Programmierer (bis zu einigen 
+Hundertschaften) in England, Tschechien, Ungarn, Bulgarien beschäftigt. 
+Die Kunden sind keine Unbekannten. Es sind alle namhaften Banken - 
+Versicherungs - und Hochtechnologie - Unternehmen dabei.
+
+Hier in Deutschand pennen die Philosophen und Informatik - Fakultäten 
+tief und fest. Da werden Fleissige Biber, Touring - Maschinen hoch und 
+runter abgefragt, bei Fulltext Hash - Algorithmen scheitern die 
+Studenten/Professoren dann schon und bei Implementierung von 
+Prozessoren, GPU's, 3D Engines, Virtuellen Maschinen in FPGA oder ASIC 
+schon gar. Das aber steckt an Technik im iPhone. Ich schätze den 
+Entwicklungsrückstand auf mind. 5 Jahre, vielleicht 10 Jahre sogar. Kein 
+Wunder, dass fast alle Halbleiterhersteller hier pleite gehen. Es fehlt 
+an innovativen Köpfen.
+
+Siehe z.B. bei Ährensache nach "Augmented Reality". Das ist Philosophie pur!
+
+Grü/3e, Olaf Zschoch

@@ -1,0 +1,82 @@
+Hallo,
+
+
+Hm. Was könnte eine empirische Kontrolle sein für "alle natürlichen Zahlen
+sind entweder ohne Rest durch 2 teilbar, oder nicht ohne Rest durch 2
+teilbar"? Warum wäre "suche nach einer natürlichen Zahl, für die das nicht
+gilt" keine hilfreiche Antwort?
+
+
+Meine Kritik werde ich indirekt ausführen, indem ich Dir ein paar
+philosophische Überlegungen vorlegen, und Dir anschließend eine Frage dazu
+stellen werde, wobei ich erwarten werde, dass Deine Antwort (sofern Du mir
+eine gibst) Deinen eigenen Anforderungen genügt. Nebenbei werde ich den
+Standpunkt angreifen, die Neurologie könne die Bedeutung des Wortes
+"Bedeutung" erklären.
+
+<thoughts type="philosophical">
+
+Das "aufwärts"-Vowinkel-Skolem-Theorem aus der Modelltheorie, wie von
+Oskar Arendsee hier vor einiger Zeit gepostet:
+
+RH> Sei T eine Aussagenmenge einer 1-stufigen Sprache L, die ein
+RH> unendliches Modell M besitzt. Dann gibt es für jede Kardinalzahl k
+RH> mit k >= max{card(|M|),k_L} ein Modell von T der Mächtigkeit k.
+
+Das besagt, dass jede Theorie erster Stufe, sofern sie ein Modell
+unendlicher Kardinalität besitzt, auch Modelle jeder höheren Kardinalität
+besitzt.
+
+
+Es gibt auch ein "abwärts"-LST, das geht so:
+
+Sei X eine Menge von Variablen, L eine einstufige Sprache mit der
+Kardinalität k_L = max{Aleph_0,|L|,|X|} und Sigma eine Menge erfüllbarer
+L-Formeln. Dann besitzt Sigma ein Modell (S,lambda) mit |S| <= k_L.
+
+Das "abwärts"-LST besagt, dass jede Theorie, die ein unendliches Modell,
+gleich welcher Kardinalität, besitzt, auch immer mindestens ein abzählbares
+Modell besitzt.
+
+
+Anders ausgedrückt, welche Theorie ich auch aufstelle, sie gilt ebenso für
+etwas anderes, als von mir beabsichtigt, i.e. sie besitzt sog. Nicht-
+Standardmodelle. D.h auch, eine Theorie kann natürliche und reelle Zahlen
+nicht auseinanderhalten, denn egal, wie wir das beschreiben wollten, unsere
+Beschreibung wäre eine mathematische - und somit theoretische - Aussage, für
+die a fortiori das LST gilt. Und das, obwohl die Menge der natürlichen
+Zahlen abzählbar, die der reellen Zahlen aber nicht-abzählbar ist! Wenn nun
+nicht mal die Mathematik uns einen eindeutigen Bezug beschert, dann sicher
+auch keine andere Wissenschaft oder gar die normale Umgangssprache.
+
+Insbesondere stellt sich nun auch die Frage, wie jemand wissen kann, wovon
+er selbst spricht: Alles, was einer überhaupt sagen könnte, fällt unter das
+LST, das ja vom Verhältnis von Aussagen und ihrer Bedeutung handelt. Man
+könnte jetzt sagen: "Aber ich weiß doch, was ich *meine*!", dann würde ich
+jedoch fragen: "Und woher weit Du es? Was wären Deine Kriterien, um
+festzustellen, dass Du dies meinst und nicht jenes?". Wenn Du es nun mit
+einem Verweis auf die Struktur des Gehirns versuchen solltest, würde das
+nichts helfen, denn wenn es die *Struktur* sein soll, die die Bezüglichkeit
+herstellt, ist sie eben eine bezugnehmende Struktur, und dann ist sie eine
+L-Struktur oder zu einer solchen isomorph und fällt unter das LST. Wenn es
+aber *nicht* die Struktur sein soll, dann könnte man auch einen Haufen
+Kohlenstoff, Sauerstoff, Wasserstoff, Stickstoff, Phosphor, etc. nehmen, und
+behaupten, er habe Bewusstsein, denn abgesehen von der Struktur ist der
+Haufen das gleiche wie Dein Gehirn. Dann könnte man auch von einem Stein aus
+denselben Elementen sagen, er denke, z.B. an Englfing. (Carnap? Schlick?).
+
+</thoughts>
+
+Da dies nun *philosophische* Überlegungen waren, hier meine diesbzgl. Frage:
+Welches Naturgesetz oder welche Erfahrung könnte widerlegen, dass *keine*
+Theorie (und a fortiori keine Sprache und auch kein Gehirn) eindeutig
+festlegen kann, auf welche Objekte sie (bzw. es) sich bezieht? Bedenke dabei
+aber immer: Das LST betrifft alle Fälle, in denen etwas bedeutet wird.
+
+
+oops! Oskar ausgerechnet *das* an den Kopf zu werfen, halte ich doch für
+recht mutig. Ich vermute, dass Du schnell die weiße Fahne hissen würdest,
+wenn Ihr beide vergleichen würdet, wessen Mathematik-KungFu besser ist.
+
+
+Karsten.

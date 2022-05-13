@@ -1,0 +1,40 @@
+Enrico würde sage, dass das Ding ein Krankheit ist und keine Firewall. Eine
+vernünftige Firewall läuft nicht auf dem Computer mit dem man in das Netz
+geht und eine vernünftige Firewall besteht 1. aus Hardware 2. aus Hardware
+3. aus Hardware und 4. aus so wenig Software wie möglich und sowenig
+Komponenten wie möglich, damit sie auch sicher ist. 
+
+
+Da wird nix *versteckt*! Wenn du Pech hast reisst diese Software auch noch
+ein Sicherheitsloch in deinen Computer.
+
+
+Das kann dir natürlich passieren, wenn du Kolossa benutzt und nicht
+weisst, was dein Betriebssystem fremden gestattet. Doch gib die Schuld
+doch nicht irgendwelcher Spyware, wenn du mit dem Gerät nicht umgehen
+kannst und es nicht fertigbringst es sicher zu machen.
+
+
+Netter Krieg, den du da mit der Werbeindustrie fährst. Besser ist es
+solche Seiten einfach gar nicht zu besuchen. 
+
+
+Möglicherweise schlackert er aber auch nicht, weil er ein vernünftiger
+Mensch ist und den Computer trotz Windows beherrscht.
+
+Deine Ratschläge richten vielleicht mehr Schaden als Nutzen an. Eine
+Hardware-NAT-Firewall ist war nicht unbedingt die vollkommene Lösung, aber
+immerhin ein Anfang. Wer über DSL in das Netz gehen soll, kann sich ja
+dann einen entsprechenden DSL-Router mit integrierter Firewall hinsetzen.
+Damit ist er möglicherweise immer noch nicht vor allem Unbill geschützt,
+allerdings dürfte dies für den Laien die besser Lösung als ZoneAlarm sein.
+
+Die einzige sichere Möglichkeit ist allerdings den Computer gar nicht in
+das Internet zu lassen und mit KNOPPIX von CD zu booten, und die
+Festplatten dabei abzuklemmen. Auf die CD kann kein Hacker schreiben und
+wenn der Rechner nur dann im Netz ist, wenn er von CD gebootet hat, dann
+ist nach dem nächsten Neustart alles wieder jungfräulich und der Arbeitspc
+ist ungefährdet.
+
+Grösse,
+Konrad

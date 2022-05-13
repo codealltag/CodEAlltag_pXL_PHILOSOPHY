@@ -1,0 +1,5 @@
+Mal ganz genaugenommen brauchte man neben 1. und 2. noch den "Algorithmus" 
+um den Ausgang bestimmen zu können, der aber, selbst wenn man ihn kennte, 
+zumeist beliebig schwierig auszurechnen wäre (man kann z.B. nicht alle 
+Schachstellungen errechnen, was bei Dame vor kurzem gelang). Man könnte 
+dann aber heimlich ein Probelotto spielen und dessen Ausgang wiederholen.

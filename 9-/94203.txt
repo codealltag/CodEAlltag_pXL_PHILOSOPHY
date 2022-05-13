@@ -1,0 +1,16 @@
+Sei p die Aussage "hier ist ein rundes Quadrat" dann ist (p & ~p) "hier
+ist ein rundes Quadrat und hier ist kein rundes Quadrat". Dagegen wäre
+(50% p & 50% ~p) ... ja was? "hier eist ein zu 50% rundes Quadrat und
+ein zu 50% nicht-rundes Quadrat"? Oder: "die Aussage 'hier ein rundes
+Quadrat' ist zu 50% wahr und die Aussage 'hier ist kein rundes Quadrat'
+ist auch zu 50% wahr"? Guess what! Kein Quadrat ist zu 50% rund oder
+nicht-rund, und keine Aussage, irgendein Quadrat sei rund oder
+nicht-rund, ist zu 50% wahr, sondern so eine Aussage ist einfach ganz
+falsch. Und wenn man den Gedanken einer dialethischen Logik ernst
+nähme - was ich nicht tue -, dann wäre die Aussage (p & ~p) sowohl wahr
+als auch falsch, die Aussage (50% p & 50% ~p) dagegen - abgesehen davon,
+dass sie nicht mal wohlgeformt ist - nichts weiter als falsch, weil es
+eben nicht halb wahr ist, dass irgendwo sei ein rundes Quadrat ist,
+sondern ganz falsch. Comprende?
+
+Pascal.

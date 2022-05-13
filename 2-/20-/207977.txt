@@ -1,0 +1,292 @@
+: : 
+: : [snip]
+: : 
+: : : : Für mich gehören zu jeder Wissenschaft Gesetze und Voraussagen, respektive
+: : : : Erklärungen von Ereignissen. Gesetze müssen dabei mindestens einen
+: : : : Allquantor enthalten, um "Gesetz" genannt werden zu können. Einige Theorien
+: : : : fordern, um ihre Gesetze formulieren zu können, die Existenz von bestimmten
+: : : : Objekten, so kommen Existenzaussagen in die Theorie. Im Prinzip ist sogar
+: : : : jedes Gemisch von Existenz und Allquantoren innerhalb einer Theorie möglich.
+: : 
+: : : Das hoert sich so an, als ob die groesste Bedeutung hier auf den
+: : : Existenzquantoren liegen wuerde. Das ist aber nicht so, da es eine
+: : : logische Tatsache ist, dass man einen Allquantor immer vor einen Existenz-
+: : : quantor ziehen kann, falls er in einem Satz auftaucht. Logisch ist ein
+: : : solcher Satz also immer ein Allsatz auch wenn er noch Existenzquantoren
+: : : enthaelt. Der umgekehrte Weg ist im Gegensatz dazu nicht zulaessig.
+: : 
+: : Bitte? Zurück zum Logikkurs! Es ist doch nicht das Selbe, wenn es jemanden
+: : gibt, der Alle liebt, oder wenn es für alle jemanden gibt, den sie lieben!
+: : 
+: : 	(\exists x)(\forall y)[ x liebt y] 
+: : total verschieden von
+: : 	(\forall x)(\exists y)[ x liebt y]
+
+: Dass du die Variablen auch vertauschen sollst, habe ich nicht gewollt,
+: sondern nur die Reihenfolge sollte sich aendern.
+
+:  	(\exists x)(\forall y)[ x liebt y] 
+: impliziert dann
+:  	(\forall y)(\exists x)[ x liebt y] 
+
+Das ist jetzt allerdings richtig, der eine Satz impliziert den anderen, aber
+umgekehrt geht es eben nicht, die Sätze sind nicht Äquivalent.
+
+: Das hat jetzt aber gar nichts mehr mit der eigentlichen Problematik zu
+: tun oder sollte ich mich da irren?
+
+Nun gut, der Vorschlag alle Allquantoren nach vorne zu ziehen, war von Dir
+und sollte wohl dazu dienen, zu zeigen, daß Allquantoren viel-viel wichtiger
+sind als Existenzquantoren. Von mir aus können wir diese Idee also in die
+Tonne treten.
+
+: : Wie dem auch immer sei, es liegt jedenfalls "keine größere Bedeutung" auf
+: : den Existenzquantoren, sie bedeuten einfach was anderes als Allquantoren und
+: : werden benutzt, um andere Dinge auszudrücken. Deswegen sind sie aber nicht
+: : wissenschaftlich wertloser und natürlich auch nicht wertvoller als
+: : Allquantoren. In der Wissenschft gibt es eben nicht nur Gesetze (für die man
+
+: Nenn doch mal ein Beispiel aus den Wissenschaften! Auf jeden Fall werden
+: es keine universellen Es-gibt-Saetze sein, da es nicht Aufgabe der
+: Wissenschaft ist, zu sagen, ob es irgendwelche Dinge irgendwo gibt
+: - Man hat es da schon lieber etwas konkreter.
+
+: : Allquantoren braucht).
+
+Solche Beispiele sind nicht schwer zu finden:
+	  i) Jede Mutation entsteht durch Änderung eines Gens.
+	 ii) Alle Metalle haben einen Schmelzpunkt.
+	iii) Alle Menschen sind sterblich.
+	 iv) Im 2. Newtonschen Gesetz (Kraft ist proportional zur
+	     Impulsänderung) braucht man bestimmte Einschränkungen bezüglich
+	     der Funktion, die die Kraft beschreibt. Diese Einschränkung
+	     läßt sich nur mit einem Existenzquantor formulieren. (siehe
+	     G.Zimber, bzw. Mühlsteffen; Theorie und Erfahrung).
+
+Anmerkung: Auf Beispiel zwei würde ich nicht bestehen, weil der
+Gegenstandsbereich nicht unendlich ist und der Existenzquantor nichts
+anderes als 'syntaktischer Zucker' für eine etwas längere Disjunktion
+ist. In Beispiel (i) jedoch ist die Anzahl der potentiellen Gene, die eine
+Mutation hervorrufen könnten jedoch unendlich.
+
+Beispiel (iii) ist eine nette Übungsaufgabe im Formalisieren, man beachte,
+daß der Sterbezeitpunkt nicht von vornherein bekannt ist.
+
+Weitere Beispiele laßen sich sogar prinzipiell in allen Wissenschaften
+finden, die die moderen Mathematik benutzen. Jede Wissenschaft benutzt
+bereits auf sehr elementaren Stufen, so zum Beispiel bereits bei den
+Newtonschen Bewegungsgesetzen, Annahmen über die Existenz von Metriken
+(Längen- und Zeitmetriken), und um diese zu definieren, benötigt man den
+Begriff der Stetigkeit und darin taucht ein Gemisch von All- und
+Existenquantoren auf: "Es gibt ein \epsilon>0, so daß für alle \delta>0
+...".
+
+: Unterschlagen hast du hier aber, dass es in den NW keine universellen
+: Existenzquantoren sind, sondern z.B. immer ein bestimmte Raum-Zeitstelle
+: bezeichnet wird oder eine andere genaue Vorhersage gemacht wird, die man
+: messen kann. Es ist also leicht diesen Teil zu verifizieren, weil
+: man weiss wonach man suchen muss, somit verbleibt hier nur noch die
+: Falsifikation des gesamten Satzes als Problem.
+
+So leicht nun auch wieder nicht. Nach einem Beispiel von Pöpperling, läßt sich
+die Verifikation von "ein Blatt Papier liegt auf dem Tisch", beliebig
+verfeinern: Was verifiziert, daß das, was da liegt Papier ist, daß das
+Zellulose ist usw.. Also ist auch die Verifikation eines Ereignisses eine
+Frage des Grades.
+
+Wieso habe ich (übrigens) etwas unterschlagen? Es ist ja gerade der Vorteil
+solcher singulären Existenzaussagen, daß sie sich relativ "leicht" prüfen
+lassen. 
+
+[snip]
+
+: : Man prognostiziert keine Gesetzesanwendung, sondern mit Hilfe einer
+: : Gesetzesanwendung und Antezedensbedingungen ein EREIGNIS! Das Vorliegen
+
+: Wie kommst du denn darauf, dass gerade dieses Gesetz angewendet wird
+: und nicht irgendein anderes? Schliesslich musst du ja sagen koennen,
+: fuer welche Art von Ereignissen du dasselbe Gesetz anwenden willst,
+: welche Randbedingungen also die Anwendung eines Gesetzes rechtfertigen.
+
+Diese Einwendung verstehe ich nicht. Gehst Du davon aus, daß es einen Kanon
+der Anwendung von Gesetzten gibt, eine Maschine in die man Ereignisse steckt
+und aus der wissenschaftliche Erklärungen herauspurzeln? Das bestimmte
+Ereignisse qualifiziert werden, als solche, die durch ein bestimmtes Gesetz
+erklärt werden, ist den Ereignissen bestimmt nicht angeheftet, sondern liegt
+an der kreativen Anwendung der Gesetze. Ob man das richtige Gesetz zur
+Erklärung gewählt hat, stellt sich dann schon heraus.
+
+: : sowohl des zu erklärenden (oder vorherzusagenden) Ereignisses, wie auch der
+: : Antezedenzbedingungen muß aber empirisch überprüfbar sein und ist somit ein
+: : Einzelereignis, daß durch einen Existenzquantor beschrieben wird. Nur
+: : Gesetze nützen, ohne Anwendung auf Einzelfälle sind uninteressant, ebenso
+: : wie Einzelfälle ohne ein Gesetz als Erklärung nichts taugen. Man braucht
+: : beides!
+
+: Dann frage ich dich, wie man auf diese Randbedingungen kommt?
+: Natuerlich, nur indem man wiederum einen Allsatz benutzt um eine
+: eine speziellen Es-gibt-Satz zu deduzieren. "Empirisch ueberpruefbar"
+: wie du sagst, beinhaltet also schon das Allsaetze benutzt werden.
+: Man kann die empirischen Daten, die ein Amperemeter liefert schliesslich
+: nicht ohne Theorie ueber dieses Messgeraet uebernehmen und das gilt auf
+: die Spitze getrieben auch fuer Dinge, die man mit blossem Auge
+: zu sehen glaubt.
+
+Randbedingungen werden nicht aus Allsätzen deduziert! Beispielsweise nahm
+man die Bahnabweichung des Neptun (der wars doch, oder?) zum Anlaß, die
+Nebenbedingung einzuführen, daß es noch einen Planeten geben muß, der diese
+Abweichung verursacht. Dies war ja keine logische Folgerung aus den
+Newtonschen Gesetzen, sondern eben eine Nebenbedingung. Alternativ hätte man
+natürlich auch die Newtonschen Gesetze für falsifiziert erklären können.
+
+: : Da eine Menge von Einzelaussagen klassifiziert werden kann, hat mit dem
+: : Fall der konkreten wissenschaftlichen Erklärung aber nur wenig zu tun, da es
+: : sich dabei um eine Verschiebung der Sprachebene handelt. Denn im ersten
+: : Fall wird im Rahmen einer Theorie, die Menge der möglichen Anwendungsfälle
+: : spezifiziert und im anderen Fall wird diese Theorie auf Einzelfälle
+: : angewandt. Wieso sich hieraus ein "nur Allsätze sind wichtig" ergeben soll,
+: : ist mir schleierhaft.
+
+: Also wenn du schon zugibst, dass die Theorie entsteht, indem man von
+: einer Klasse singulaerer Saetze auf einen Allsatz uebergeht, bin ich ja
+: schon zufrieden - Daraus ergibt sich direkt der hypothetische Charakter
+: einer Theorie. Dass man spaeter aus diesen Allsaetzen wieder auf
+: Einzelfaelle schliesst, weil man eine Prognose machen moechte oder
+: ein Experiment auswertet, habe ich nie bestritten. Fuer die Theorie
+: selbst ist das aber nicht von Bedeutung, weil der Gehalt viel staerker
+: in Form von Allsaetzen erfasst ist.
+
+Ist ja nett, daß ich Dich zufrieden stellen konnte! Aber wie auch immer,
+jedenfalls habe ich nie gegen den hypothetischen Status von Theorien
+diskutiert, das halte ich vielmehr für einen Allgemeinplatz. Mir kommt es
+allerdings darauf an, zu sehen, daß auch daß Poppersche Kriterium der
+Falsifikation noch zu eng ist, um tatsächlich zu beschreiben, was
+wissenschaftliche Theorien ausmacht. Wie bereits mehrfach betont, gibt es in
+ALLEN wissenschaftlichen Theorien Sätze, die aus All- und Existenzquantoren
+bestehen, aber trotzdem wissenschaftlich bedeutsam sind. Ein
+Abgrenzungskriterium, daß letztlich nur die leere Menge für die Wissenschaft
+übrig läßt ist eindeutig unbrauchbar.
+
+Ich persönlich sehe die Poppersche Theorie nicht als Beschreibung der
+Funktionsweise von real existierender Wissenschaft an, sondern als ein
+normativer Vorschlag, wie Sir Nick Schnitzendöbell denkt, daß Wissenschaft sein
+sollte. Normativen Vorschlägen kann man aber zustimmen oder nicht,
+insbesondere wenn diese Vorschläge an der Praxis vorbeigehen, sollte man
+sich fragen, ob sie wirklich als (alleinige) Leitlinie taugen.
+
+[snip]
+
+: : Was die Gültigkeit angeht hat sieht es bei der Verifikation nicht anders
+: : aus, als bei der Falsifikation. So wie Du es einmal in einem
+: : antirealistischem Moment geschrieben hast, muß eine Falsifikation auch als
+: : solche akzeptiert werden, das gilt natürlich auch für jede Verifikation!
+
+: Antirealistischer Moment? Was soll denn das sein? ;)
+: Ansonsten wird von der Forschungsgemeinschaft die Falsifikation
+: im allgemeinen akzeptiert, es ist nur eine Frage der Zeit, in der
+: alle moegliche Wissenschaftler versuchen, die falsifizierenden
+: Experimente zu wiederholen oder ihre Fehlerhaftigkeit zu erweisen,
+: bis ein Falsifikation anerkannt wird. Nenn mir doch mal ein
+: Beispiel fuer eine naturwissenschaftliches Gesetz, das nur deshalb
+: noch benutzt wird, weil man es dummerweise prinzipiell nicht
+: falsifizieren kann!
+
+Siehe oben! Es gibt JEDE Menge davon.
+
+[snip]
+
+: : Ich stimme Dir zu, daß das "Kausalitätsgesetz" nicht eigentlich ein Gesetz
+: : ist, es sollte besser "Kausalitätsprinzip" heißen. Allerdings wird es in der
+: : Literatur meistens in der ersten Form verwendet und ich ging davon aus, daß
+: : Du in der Lage sein würdest zu erkennen, daß ich weit davon entfernt bin,
+: : "Gottesbeweise" zu führen oder das Kausalit�tprinzip für eine notwendige
+: : Wahrheit zu halten. Mir, anhand eines von mir gegeben Beispiels für eine
+: : empirisch unprüfbare Aussage, zu unterstellen, ich wäre ein Metaphysiker,
+: : ist zumindest ein merkwürdiges Mißverständnis.
+
+: Das Kausalprinzip ist nicht empirisch nachpruefbar! Wenn man es als
+: synthetisches Urteil auffasst, ist es als metaphysisches Gesetz
+: anzusehen, da die Frage, ob die Welt von strengen Gesetzen determiniert
+: wird, nicht abschliessend zu beantworten ist.
+
+Du brauchst die Sache nicht so kompliziert zu machen! Die Unprüfbarkeit
+liegt ganz einfach am Vorhandensein von All- UND Existenzquantor, was den
+Satz als unverifizierbar und unfalsifizierbar macht. Trotzdem hast Du aber
+zusätzlich recht, dieser Satz hat nicht einmal teilweise empirisch prüfbare
+Konsequenzen, oder um mit Carnap zu sprechen, der Satz ist nicht einmal
+unvollständig rückführbar auf eine Klasse von Beobachtungen.
+
+: : Wie auch immer, ALLE Sätze die aus gemischten Quantoren bestehen haben das
+: : gemeinsam, daß sie sich weder falsifizieren noch verifizieren lassen. Von
+: : manchen Autoren wird dies geradezu als ein Kriterium für metaphysische
+: : Aussagen angesehen. 
+
+: Beim Kausalitaetsprinzip ist es kein Wunder, dass man es nicht
+: falsifizieren kann: Es gibt irgendeine Ursache, ist eben viel
+: zu ungenau. Sowas wirst du in einem, naturwissenschaftlichen
+: Gesetz nicht finden, sondern eben nur in einem metaphysischen,
+: dass nicht falsifizierbar sein muss.
+
+: : Manche dieser Sätze sind sicherlich auch Grundlage von Wissenschaften, wie
+: : etwa "Alle Ereignisse sind einer wissenschaftlichen Erklärung fähig", den
+: : man als modernen Ersatz für das Kausalitätsprinzip ansehen
+: : könnte. Wahrscheinlich braucht auch jede einzelne wissenschaftliche Theorie
+: : solche Sätze, um überhaupt ihre Beobachtungssätze definieren zu können. Wie
+: : in solchen Fällen das Abgrenzungskriterium zur Metaphysik aussieht, scheint
+: : mir keine einfache Sache zu sein, auch wenn ich denke, daß es das gibt.
+
+: Grundlage der Wissenschaften? Aber nicht in Form eines Naturgesetzes,
+: sondern nur als methodologische Regel, durch deren Anwendung der Forscher
+: sich genoetigt fuehlt, Allsaetze zu finden, die er bei gegebenen
+: Randbedingungen anwenden kann. In sofern ist das Kausalprinzip fuer
+: den Fortschritt in den Wissenschaften unabdingbar, obwohl es nur ein
+: methodologisches Prinzip sein kann.
+
+Einspruch! Das Kausalprinzip ist überhaupt nicht notwendig, nichteinmal als
+methodologische Regel! Wenn überhaupt braucht man nur das, was ich oben
+sagte: "Alle Ereignisse sind einer wissenschaftlichen Erklärung fähig", was
+völlig ausreicht, um Wissenschaft zutreiben, ohne ein solch enges Korsett,
+wie das Kausalprinzip zu fordern.
+
+[snip]
+
+: Nein, die Wand selbst ist auch ohne Beschreibung hart und wenn deine
+: Beschreibung sie als weich bezeichnet, muss deine Beschreibung falsch
+: sein und nicht die Wand.
+
+Wahrscheinlich denkst Du nicht an die Wände von Strohhütten, Zelten oder
+Gummizellen. 
+
+: : das ganze folgt zweitens aus Sätzen mit gemischten Quantoren (etwa: "für
+: : alle Zeitpunkte, es gibt unendlich viele Ereignisse, so daß dieses Ereignis
+: : eine Beobachtung einer Wand ist"), die sich (ich wiederhole mich) weder
+: : falsifizieren noch verifizeren lassen.
+
+: Das letze habe ich jetzt nicht ganz verstanden, eine Wand wird aber
+: nicht dadurch beschrieben, dass sie beobachtet wird, sondern indem
+: man mit anderen Objekten an ihr manipuliert und so Messwerte ueber
+: diese spezielle Wand _hier_ gewinnt, die man mit anderen Waenden oder
+: was auch immer vergleichen kann. Man kann Gesetze ueber die Statik der
+: Wand aufstellen oder ueber die Materialeigenschaften und kann so viele
+: verschieden Waende beschreiben, indem man einige Tests macht. Wenn sie
+: dann wieder Erwarten trotzdem einstuerzt, obwohl sie es nicht sollte,
+: war das theoretische System ueber Waende fehlerhaft oder es gab ein
+: Erdbeeben.
+
+Den Dingen in der Welt ist aber kein Schild angeklebt auf dem ihr Name
+steht! Schon gar nicht steht auf allen Wänden "ich bin eine Wand". Was also
+macht eine Wand zur Wand, was unterscheidet Wände von Bergen oder Teppichen?
+Wenn Du versuchst, den Begriff "Wand" zu formalisieren, wirst Du sehen, daß
+Du in arge Probleme kommst, wenn Du sie analog zu einem "Naturgesetz"
+formuliern willst. Es dürfte weder möglich, noch nötig sein ein
+"Wandmessger�t" zu konstruieren, damit wir alle (endlich) genau wissen, was
+Wände sind! ;-) 
+
+MfG
+	Ulfert
+--
+Ulfert Hausner                            vhdldqfa@apmnygkxmx.icf-yyzhchg.uf
+Zankerweg{\"leunastraße}Endswieserweg{\cz}jakobstraße 18 
+15887 Tiefenort
+Tel: (++68)(++34)47024-082
+WWW: http://kwz.oqjhlswheh.sjy-czhbjmx.qu/Wdplbqvwrnmxgso/BHR/mdsexntre/dwhvjlqir/sgdv.jguv

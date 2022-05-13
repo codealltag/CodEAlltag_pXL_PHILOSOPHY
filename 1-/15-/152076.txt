@@ -1,0 +1,22 @@
+Bei endlich vielen Nullen nicht, und eine Zahl mit "unendlich vielen Nullen"
+und "hinter der letzten Null" dann einer  1  gibt es nicht, da es dann keine
+"letzte Null" gibt  ...
+
+
+OK
+
+
+Upps  -  Dein Beweis gilt für jedes (noch so große, aber)   _feste_   k  ...
+hier verwendest Du anstelle eines festen, konstanten  k   aber eine Funktion
+k(n),  und das funktioniert natürlich nicht ...
+
+
+.... Siehste .....   ;-))
+
+
+Die Folgen in der zweiten Rechnung sind keine Nullfolgen, das ist daher keine
+Induktion   k  -->  k+1   ...
+
+Größe
+     Charles
+--

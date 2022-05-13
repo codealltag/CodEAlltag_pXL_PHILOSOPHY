@@ -1,0 +1,85 @@
+Hugo Lotterhos in 9G0V5236.Q36P8724@safdy.gao (gc.qkb.nclyammdzd):
+
+
+Wenn man die Bedeutung von "endlich" ernst nimmt, d.h. "endlich" im
+Sinne von "begrenzt von einer maximalen Stellenanzahl" interpretiert,
+dann muss auch die Anzahl der natürlichen Zahlen begrenzt sein.
+
+Siegfried Amelung hat dies mit vielen z.T. sehr eleganten Beispielen
+belegt. Ich war am Anfang auch überrascht, aber es scheint mir
+inzwischen ein kaum zu bezweifelndes Faktum zu sein, dass die Anzahl
+der natürlichen Zahlen nicht grösser sein kann, als die Anzahl
+Striche der grössten Zahl in Strich-Notation.
+
+  ( | )
+  ( |, || )
+  ( |, ||, ||| )
+  ( |, ||, |||, |||| )
+  ...
+
+Obige Frage 1) lässt sich nur dann mit ja beantworten, wenn man
+"endlich viele Stellen" mit dem unausgesprochenen Zusatz "aber
+unbegrenzt" interpretiert.
+
+
+Nein, das ist genauso denkunmöglich wie die Vorstellung einer
+Kugel, die eine unendliche (echte) Gerade umschliesst.
+
+Auch hier halte ich Sergios Unterscheidung zwischen ENDLICHEN
+MENGEN und UNBEGRENZTEN MENGENFOLGEN für sehr sinnvoll.
+
+Die Potenzmenge z.B. kann nur von Mengen gebildet werden, deren
+Glieder allesamt (aktual) gegeben sind. Von der Potenzmenge der
+natürlichen Zahlen zu sprechen, ist somit (streng genommen)
+unsinnig.
+
+
+Unbegrenzte Mengenfolgen wie die natürlichen Zahlen können
+höchstens als potentiell unendliche aber keinesfalls als aktual
+unendliche Mengen bezeichnet werden.
+
+
+Zahlen mit (aktual) unendlich vielen Stellen sind eine logische
+Konsequenz der postulierten (aktualen) Unendlichkeit der Anzahl
+der natürlichen Zahlen. Ich vermute, dass in deiner Frage mit "neue
+Zahlen" genau diese aktual-unendlichen Zahlen gemeint sind.
+
+
+Sergios Diskussionbeiträge sind voll davon. Hier einer, der
+mir besonders interessant erscheint (ob der allerding zur
+"traditionellen Mengenlehre" gehört, weiss ich nicht):
+
+Es gilt/gelten:
+
+ - Rationale Zahlen         als  abzählbar unendlich
+ - Reelle Zahlen            als  überabzählbar unendlich
+ - überabzählbar unendlich  als  mehr als abzählbar unendlich
+
+Andererseits gilt auch:
+
+ - Zwischen zwei beliebigen nicht-identischen reellen Zahlen
+   gibt es abzählbar unendlich viele rationale Zahlen.
+ - Zwischen zwei beliebigen nicht-identischen rationalen Zahlen
+   gibt es überabzählbar unendlich viele reelle Zahlen.
+
+Daraus folgt eindeutig, dass weder die Anzahl (Mächtigkeit) der
+reellen Zahlen grösser als die Anzahl der rationalen sein kann,
+noch die Anzahl der rationalen Zahlen grösser als die der reellen.
+
+Anders ausgedrückt: Wenn es überabzählbar viele reelle Zahlen gibt,
+dann gibt es auch überabzählbar viele sich nicht überschneidende
+Intervalle. überabzählbar viele sich nicht überschneidende
+Intervalle mit je mindestens einer rationalen Zahl ergeben
+überabzählbar viele rationale Zahlen.
+
+Meine Sicht:
+
+  "Dass jede zufällige reelle Zahl eine endlose Zehnerbruch-
+  entwicklung aufweist, ist ein synthetisches Urteil apriori.
+  Und wenn schon einzelne Zahlen nicht bezeichnet werden können,
+  ist die Frage nach der Aufzählbarkeit aller reellen Zahlen
+  sinnlos." http://byfkqzs.pxu.ij/iwoiermj/w2.psyf
+
+
+Gruss,
+Jean-Luc Abdul L.

@@ -1,0 +1,30 @@
+Wenn Du dich noch etwas um Shannon, Alpha-Beta algorithmus, pruning, 
+heuristic, "Advances in Oxford chess" kümmern würdest, dann wüßtest Du, 
+daß die Beschneidung der Spielbäume im Schach die Zahl der Möglichkeiten 
+gewaltig einschränkt.
+
+Es macht beim Schach einen erheblichen Unterschied, ob man exakt spielt, 
+fehlerfrei gegen einen starken Gegner, oder unexakt, also selber Fehler 
+begeht, gegen einen schwachen Gegner, der diese nicht sieht, weil es 
+hinter seinem Horizont ist, und dafür diesen viel früher Matt setzt.
+
+Soll sagen, daß trotz der von Statistikern und anderen Spinnern 
+berechneten theoretischen Möglichkeiten einer Zelle diese dennoch 
+determiniert ist auf die sinnvollen Möglichkeiten (vgl. Spielzüge). Das 
+sind nur ganz wenige.
+
+Ich kenne keinen Statistiker, der selber mal ein Schachprogramm 
+geschrieben und auch verstanden hat, welches ihm nämlich erklärt, daß 
+und warum der Unsinn der theoretisch unbegrenzten Möglichkeiten im Leben 
+keine Anwendung finden kann.
+
+
+LG, Valerio Irnich
+
+
+-- 
+Wo alle dasselbe denken, wird nicht viel gedacht !
+
+Ben, qui potuit rerum cognoscere
+
+Angelo: "Ceterum censemus deum esse delendum !"

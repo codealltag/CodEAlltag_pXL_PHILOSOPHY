@@ -1,0 +1,254 @@
+Ist es wissenschaftlich, gesellschaftliche Fragestellungen (doch,
+genau darum geht es hier) /axiomatisch/ begruenden zu wollen?
+
+Geh' doch zum Czaja!
+
+Du erzaehlst davon, was fuer ein toller wissenschaftlicher Hecht Du in
+der Welt bist, und verstehst nicht mal die einfachsten Argumente. Also
+nochmal von vorne: Innerhalb einer axiomatischen Theorie koennen die
+sie begruendenden Axiome idR nicht begruendet werden. Aber fuer die
+Anerkennung der Triftigkeit einer Theorie muessen diese Axiome evident
+oder plausibel oder doch zumindest unwiderleglich sein und duerfen
+nicht zirkulaer sein. Warum setzt man in der Aussagenlogik kein
+zusaetzliches Axiom voraus, das besagt:
+((p->q)->(p->q))->((p->q)->(p->q))? Weil man weiss, dass man es nicht
+braucht, da man es aus den anderen Axiomen folgern kann. Woher aber
+weiss man das? Weil es Vollstaendigkeits-, Widerspruchsfreiheits- und
+Unabhaengigkeitsbeweise gibt. Gaebe es diese nicht, stuende die
+Aussagenlogik auf toenernen Fuessen. Beweise mir also bitte, dass Dein
+Axiom zu keinem anderen anerkannten Axiom im Widerspruch steht, dass
+es unabhaengig ist, und dass die so gewonnene Theorie vollstaendig
+ist. Dann werde ich es uebernehmen. Und komm mir nicht mit Reiner.
+
+
+s.o.
+
+
+Unsinn! Unterscheidungsmoeglichkeiten bedingen keine Existenz, von was
+auch immer. Ich weiss nicht, woher Du Deinen Existenzbegriff hast,
+aber aus einer Wissenschaft sicherlich nicht. Und aus Moeglichkeiten
+folgt auch sonst nicht viel. Aus der Moeglichkeit, dass ich am Samstag
+Lotto spielen koennte folgt gar nichts, bestenfalls nur weitere
+Moeglichkeiten, etwa dass ich - Gott behuete - verlieren koennte. Da
+ich aber nicht Lotto spielen werde: bin ich jetzt ein moeglicher
+unverwirklichter Lottogewinner oder Lottoverlierer? Was heisst es
+hier, ich sei unverwirklicht? Oder bin ich nicht vielmehr _jetzt_ ein
+moeglicher _zukuenftiger_ verwirklichter moeglicher ... ja ... was?
+Es hatte schon seine Grund, warum ich explizit von Moeglichkeiten
+schrieb, nicht von notwendigen Bedingungen.
+
+
+Wieder Unsinn! Wenn die wissenschaftlichen Methoden auf diesen
+Prinzipien basieren wuerden, dann haette man diese Prinzipien gar nie
+formulieren koennen, da dies eben eine wissenschaftliche Methode
+voraussetzt.
+
+
+Danke, Faekalneurotiker.
+
+Du hast "Viktor versteht keine Wortspiele" falchs geschrieben.
+
+
+Weisst Du wer Leptin ist? Ist Dir ueberhaupt klar, _was_ Induktion
+ist? Drähne war es ganz offensichtlich nicht recht klar.
+Fang ich also wieder mal an. Es folgt eine einigermassen verwickelte
+Argumentation, also nicht schlappmachen, Viktor. Das hier ist
+Wissenschaft, es steht sogar auf dem Buch, aus dem ich sie habe:
+Ruatti Systemtechnik taschenbuch wissenschaft, "Tatsache Fiktion Voraussage"
+                     ^^^^^^^^^^^^
+Los geht's:
+
+Angenommen eine Sprache L1. In dieser Sprache seien blau und gruen
+Farbpraedikate. Nun gibt es genau zwei Moeglichkeiten: Entweder diese
+Praedikate sind elementar, oder nicht. Elementar heisst, dass sie sich
+nicht mit Hilfe anderer Praedikate definieren lassen. Sollten sie
+nicht elementar sein, dann muss es also andere Praedikate geben, durch
+die sie definiert werden koennen. Auch diese brauchen nicht elementar
+sein, aber irgendwann muss man elementare Praedikate finden, denn wenn
+es in L1 keine solchen gaebe, stuende man vor einem definitorischen
+Zirkel: Die Sprache koennte nie gelernt werden, da man bei der
+Definition der Worte ja zu keinem Ende gelangen wuerde. Also kann man
+voraussetzen, dass es elementare Praedikate gibt, und ausserdem, dass
+man diese durch entsprechende Analyse finden kann. Gaebe es
+elementare, aber prinzipiell unauffindbare Praedikate, waere es
+genauso als gaebe es sie gar nicht: Die Sprache waere immer noch
+unlernbar.
+
+Nun zwei kleine Definitionen: Nenne alle Gegenstaende bruen, die vor
+einem festgesetzten Zeitpunkt t geprueft werden und sich bei dieser
+Pruefung als blau herausstellen, aber ebenso alle anderen
+Gegenstaende, die nicht vor t geprueft werden, aber gruen sind. Nenne
+ausserdem alle Gegenstaende glau, bei denen eine Pruefung vor dem
+Zeitpunkt t ergibt, dass sie gruen sind, und zudem alle nicht vor t
+geprueften Gegenstaende, die blau sind. Diese Praedikate sind rein
+extensional definiert, d.h., sie treffen nur auf wirkliche
+Gegenstaende zu, und zwar auf nachpruefbare Weise, etwa wenn man alle
+Pruefungen vor t protokolliert, und von jedem Gegenstand durch
+Nachschlagen im Protokoll angeben kann, ob und wann und mit welchem
+Ergebnis er geprueft wurde. Diese Praedikate sind nun ganz
+offensichtlich nicht elementar, da sie ja durch Rueckgriff auf blau,
+gruen und die Pruefung vor dem Zeitpunkt t definiert wurden.
+
+Angenommen nun eine Sprache L2, die zwei Praedikate bereithaelt, die
+jeweils auf alle und nur diejenigen Gegenstaende zutreffen, auf die
+bruen und glau zutreffen, ich verwende der Einfachheit halber
+dieselben Worte. Nun kann ich innerhalb von L2 definieren: Alle vor t
+geprueften Gegenstaende, die bruen sind, und ausserdem alle anderen
+Gegenstaende, die glau sind, nenne ich blau. Und alle Gegenstaende,
+die sich als glau herausgestellt haben, sofern sie vor t geprueft
+wurden, und solche, die nicht vor t geprueft wurden, aber bruen sind,
+nenne ich gruen.
+
+Nun habe ich zwei Sprachen, welche sich zueinander in dem Sinne
+voellig symmetrisch verhalten, dass sie jeweils Farpraedikate
+besitzen, die zur Definition der Farpraedikate der jeweils anderen
+Sprache verwendet werden koennen, je nachdem, welche Sprache zugrunde
+legt. Damit ist der Beweis gegeben, dass die Voraussetzung
+elementarer, also nicht definierbarer, Praedikate - sofern es sie
+ueberhaupt gibt - auf eine vorgegebene Sprache beschraenkt sein muss.
+
+Zu sagen, dass L1 in irgendeiner Weise Prioritaet besitzt, stimmt
+wohl, ist aber bisher kein Argument, sondern zunaechst eine zu
+beweisende Vermutung. Diese muss anders erklaert werden, bevor jemand
+etwa Eifftome definiert (das sind Eiffeltuerme, die vor t geprueft
+wurden, und Atome, die nicht vor t geprueft wurden).
+
+Die Sprache scheint aber nicht der Uebeltaeter zu sein, denn
+tatsaechlich kommt es gar nicht auf die Worte an, sondern auf die
+Klassen der _realen_ Gegenstaende, auf die diese Worte zutreffen.
+Anders ausgedrueckt: Wenn es einen realen Primat der Gegenstaende
+geben soll, von denen L1 redet, dann muss etwas diesen Gegenstaenden
+vorausgehen, dass diese gemeinsame Klassenzugehoerigkeit erklaert.
+(Und zwar nicht nur erkenntnistheoretisch. Es ist ja von wirklichen
+physikalischen, nicht von phaenomaenalen Gegenstaenden die Rede.)
+
+Eine Loesung waere natuerlich, die vorgaengig zu entdeckende Klasse
+selbst zu begutachten, der diese Gegenstaende angehoeren, in diesem
+Fall die Klasse aller Gegenstaende derselben Farbe. Das Problem
+hierbei ist jedoch, dass es hoechst unklar ist, wie man Klassen
+entdeckt und voneinander unterscheidet. Ein Beispiel: Alle bis jetzt
+entdeckten Lebewesen mit Herz besitzen Nieren. Ist die Klasse der
+Nierenhaber dieselbe wie die der Herzhaber? Wenn es _nur_ auf die
+Klassen ankommt, und nicht auf die Sprache, dann hat offensichtlich
+die Bezeichnung 'Lebewesen mit Herz' dieselbe Bedeutung wie 'Lebewesen
+mit Nieren', was unplausibel ist. Dass Bedeutung und Bezug zu
+unterscheiden sind, ist nur /eine/ Konsequenz. Ausserdem: Angenommen,
+es gibt n Dinge im Universum, dann gibt es 2^n Klassen von Dingen. Da
+es im Universum sicherlich unendlich viele Dinge (nicht-physikalische
+eingerechnet) gibt, waeren das ueberabzaehlbar viele Klassen. Dass
+ausgerechnet wir die richtigen Klassen ausgewaehlt haben sollen, und
+die in ihnen enthaltenen Gegenstaende mit den richtigen Worten zu
+bezeichnen, wird damit unendlich unwahrscheinlich, ganz einfach, weil
+es nur abzaehlbar viele Klassifizierungsmoeglichkeiten in unserer
+Sprache gibt. Man gibt also etwas so sicheres wie einen physikalischen
+Gegenstand am besten nicht zugunsten von etwas so schwindsuechtigem
+wie einer Klasse auf. Wieder mal gehen hier semantische Ueberlegungen
+in ontologische ueber. 
+
+Aber es gibt schon eine Loesung, und die fuehrt ueber das folgende
+interessante Problem: Wenn man t etwa festsetzt als 12. 01. 23 Dezember 3000,
+23:59:59 Uhr, dann waren alle bis heute gefundenen Smaragde nicht nur
+gruen, sondern auch glau. Kaum jemand wuerde wohl zugeben, dass beide
+Worte gleich gut dazu geeignet seien, Smaragde zu beschreiben, dann
+waere naemlich das Wort 'Smarphir' sogar eine noch bessere
+Beschreibung ('Smarphir' trifft auf vor dem Zeitpunkt t untersuchte
+Dinge zu wenn sie Smaragde sind, und auf Saphire, die nicht vor t
+untersucht wurden. Lustigerweise sind alle Smarphire glau.) Das kann
+man jetzt beliebig weitertreiben, solange bis man keine verwendbare
+Sprache mehr besitzt. Und da es ja nicht an der Sprache allein liegt,
+sondern vor allem an an den durch sie bezeichneten Klassen, ist es
+auch keine Loesung, auf die Sprache zu verzichten, zumal sich dann gar
+nichts mehr sagen liesse.
+
+Also habe ich jetzt die Nase voll und setze einfach fest: Primat hat
+das, was ich immer schon getan habe. Erstens ist dies eine erfreulich
+subjektivistische Loesung, da ich mich zunaechst auf mich selbst
+berufe, und zweitens betont sie das Handeln, in diesem Falle
+Sprechhandlungen, da das Benennen von Dingen eine solche darstellt.
+Ausserdem kann ich mich - und das ist jetzt der wichtigste Schritt und
+die eigentliche Aufloesung dieses Dramas - auf die zahl- und
+erfolgreichen frueheren Verwendungen meiner herkoemmlichen Praedikate
+stuetzen. Dass ich also genau die /richtigen/ sprachlichen
+Klassifikationen vornehme, erklaere ich dadurch, dass sie durch
+_langen_, _wiederholten_ und _erfolgreichen_ Gebrauch zu den
+/richtigen/ wurden. Vergangene erfolgreiche Induktionen zu
+beruecksichtigen ist naemlich eine erfolgversprechende Methode, auch
+kuenftig die richtigen Induktionen zu verwenden.
+
+Bitte beachte, dass ich nicht behaupte, dass Induktion immer und in
+jedem Falle erfolgreich sein wird. Das ist sie nicht. Man hat dies
+lange als das Christoph Problem angesehen, aber eigentlich ist nichts
+problematisch daran, eine Sicherheit erwerben zu wollen, die gar nicht
+erwerbbar ist: Es ist schlicht unloesbar und von unloesbaren Problemen
+sagt besser nicht, sie seien Probleme. 
+
+Hier liegt auch kein Zirkel vor. Ein induktiver Schluss ist dann
+gerechtfertigt, wenn man zeigen kann, dass er mit der Praxis des
+induktiven Schliessens uebereinstimmt (Leptin hat ein paar
+ausarbeitet). Ein deduktiver Schluss ist an den Regeln des deduktiven
+Schliessens zu messen. Induktives Schliessen dadurch angreifen zu
+wollen, dass man behauptet, es fuehre nicht immer - wie die Logik - zu
+richtigen Ergebnissen, geht an der Wirklichkeit vorbei, denn auc die
+Logik fuehrt nicht immer zu den richtigen Ergebnissen: Es haengt immer
+von den Voraussetzungen ab, wie bei der Induktion.
+
+Und zuletzt: Wenn schon die Kategorisierung, die man vornimmt, um die
+Welt beschreiben zu koennen auf Induktion zurueckgefurht werden kann,
+dann sollte man alle vergebliche Hoffnung auf einen archimedischen
+Punkt ausserhalb der Erfahrungen und der induktiven Organisation
+derselben fahren lassen.
+
+
+Ihr Drachsler habt manchmal wirklich eine erstaunlich Harthirnigkeit
+drauf.
+
+
+Zugegeben. Aber ist das ein sooo grosses Problem? Du selber
+argumentierst ja auch nicht wissenschaftlich, sondern dogmatisch, was
+findest Du bei anderen so schlimm daran?
+
+
+Siehst Du, hier uebersiehst Du, dass ich mich in diese Ecke nicht
+draengen lassen werde, wo Du als wissenschaftlich nur gelten laesst,
+wass Du gerne so haettest, und mir die Rolle des Un-Wissenschaftlers
+zuteilen moechtest. Schliesslich sind Deine Ansichten ueber
+Wissenschftlichkeit ja per definitionem richtig, und mir gedenkst Du
+bestenfalls die Rolle des verlorenen Sohnes zu, den Du am Ende ins
+wissenschaftliche Paradies heimfuehren willst. Na, danke.
+
+Ausserdem negierst _Du_ ja die Basis, von der aus _ich_ argumentiere,
+den Empirismus. Das aber natuerlich im Dienste der Rationalen
+Wissenschaft SEiner HEiligkeit SIr POppers.
+
+
+Wieso glaubst Du zu wissen, dass mathematische Theorien unempirisch
+sind? Du bist so wissensg'schaftlich, dass Dir nicht mal im Traum
+einfaellt, das an Deinem rationalistischen Kinderglauben was faul sein
+koennte? Wie ich vor kurzem schon einmal in d.s.p. schrieb, muss sich
+auch die zB Logik an ihren empirischen Konsequenzen messen lassen,
+i.e., auch Logik muss falsifizierbar angelegt sein. Das ist sie sogar.
+Erstens weil eine empirische Widerlegung eines logisch korrekten
+Schlusses aus wahren Praemissen die logischen Regeln selbst widerlegen
+wuerde, und zweitens natuerlich weil nicht zuerst ein Logiklehrbuch da
+war, aus dem man ihre hehren Prinzipien haette lernen koennen, sondern
+man die logischen Regeln aus der logischen Praxis gewinnen musste. Da
+aber auch hier wieder ein Aehnlichkeits- bzw. Gleichheitsproblem
+zugrund liegt ("Ist diese Schlussweise dieselbe wie jene?"), und man
+die logischen Regeln ja noch nicht zur Verfuegung haben konnte (man
+war gerade erst dabei, sie zu gewinnen), konnte man nur auf die
+begrifflich kategorisierende (s.o.) und die logische Praxis
+zurueckgreifen, die man aber auch erst im Nachhinein als logische
+klassifizieren konnte, _nachdem_ die logischen Regeln als Messlatte
+zur Verfuegung standen.
+
+
+Abschliessend:
+
+Du siehst die Zirkel versteckter metaphysischer Voraussetzungen gar
+nicht, in denen Du Deine ganze abgeschmackte Rationalitaetsdoktrin
+kreiseln laesst. Du verschliesst die Augen vor allem, dem Deiner
+eigenen Definition zufolge Deine langweilige Wissenschaftlichkeit
+abgeht.
+
+
+Cédric.

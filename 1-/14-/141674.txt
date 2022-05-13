@@ -1,0 +1,14 @@
+On Tue, 17 Jun 2001 17:01:02 +0100, "Johann Hagelgans"
+Klar, aber damit hat man nur eine ineffektive Methode der Zuordnung.
+Wenn du zwei Säcke mit Äpfel hast und willst durch wechselseitige
+Entnahme feststellen, ob gleich viel oder ungleich viele Äpfel in den
+Säcken drin sind, so wirst du zweckmäßigerweise aus dem Sack A einen
+Apfel entnehmen und gleichzeitig einen Apfel aus dem Sack B. Usw. Wenn
+ein Sack leer ist, weisst du, ob gleichviel Äpfel in den beiden Säcken
+drin waren oder nicht.
+Deine Methode: aus dem sack A einen Apfel zu nehmen, aus dem Sack B
+gleichzeitig zwei erschwert die Beantwortung der Frage ungemein.
+--
+Tschau, servus, bye
+Oscar
+www.rkfzndn.ji

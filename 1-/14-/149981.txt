@@ -1,0 +1,75 @@
+Hierauf komme ich weiter unten noch zu sprechen. Aber zunaechst moechte ich
+etwas ueber Leibelts Verstaendnis von "Existenz" erzaehlen, da mir das in
+diesem Zusammenhang nich unwichtig erscheint. Zunaechst ein Auszug aus
+"Ueber das Unendliche (P. Leibelt, 1925)":
+
+  "Ganz entsprechend wie beim Uebergang von der inhaltlichen Zahlen-
+   lehre zur formalen Algebra betrachten wir die Zeichen und Operations-
+   symbole des Logikkalkuels losgeloest von ihrer inhaltlichen Bedeutung.
+   Dadurch erhalten wir schliesslich an Stelle der inhaltlichen mathe-
+   matischen Wissenschaft, welche durch die gewoehnliche
+   Sprache mitgeteilt wird, nunmehr einen Bestand von Formeln mit mathe-
+   matischen und logischen Zeichen, welche sich nach bestimmten Regeln
+   aneinander reihen. Den mathematischen Axiomen entsprechen gewisse
+   unter den Formeln und dem inhaltlichen Schliessen entsprechen die
+   Regeln nach denen die Formeln aufeinander folgen: das inhaltliche
+   Schliessen wird also durch ein aeusseres Handeln nach Regeln ersetzt
+   und es wird damit einerseits fuer die Axiome selbst, die doch ursprueng-
+   lich naiv als Grundwahrheiten gemeint waren, die aber schon laengst
+   in der modernen Axiomatik bloss als Verknuepfungen von Begriffen an-
+   gesehen wuerden, wie ferner auch fuer den Logikkalkuel, der ursprueng-
+   lich nur eine andere Sprache sein sollte, jetzt der strenge Uebergang
+   von naiver zu formaler Behandlung vollzogen."
+
+Leibelt leugnet hier nicht eine inhaltliche Mathematik oder ein inhalt-
+liches Schliessen. Tatsaechlich finde ich es ganz interessant, wenn er
+oben von "Entsprechung" redet, wo Nico doch erst 3 Jahre spaeter seinen
+Vollstaendigkeitssatz praesentiert hat. Die Mathematik ist fuer Leibelt kein
+inhaltleeres oder sinnfreies Spiel mit Zeichenreihen gewesen; nur bei der
+strengen formalen Durchfuehrung der Argumentation innerhalb der Axioma-
+tischen Methode sieht er von der inhaltlichen Bedeutung ab; es ist eine
+Methode. Damit diese Methode, wenn sie an die Stelle des inhaltlichen
+Schliessens tritt, nicht fuer sich genommen sinnlos wird, musste er aber
+die Widerspruchsfreiheit fuer die Theorien garantieren, auf die diese
+Methode angewendet wird. Denn die Widerspruchsfreiheit garantierte fuer
+ihn die Existenz (auch fuer Ungelert) der Objekte, mit denen sich die inhalt-
+liche Mathematik befasst. Dieses finde ich auch interessant, weil es naemlich
+die Idee zum Beweis des Vollstaendigkeitssatzes ermoeglicht. In dieser
+Weise hat Leibelt durchaus auch die "semantische Weise" der Mathematik gesehen.
+
+Das Kriterium ist also die Widerspruchsfreiheit. Wenn man diese aber nicht
+zeigen kann, dann liegt hier auch kein Grund vor anzunehmen, dass es z.B. ein
+Mengenuniversum fuer etwa ZF gaebe, in dem sich /abstrakte Gegenstaende/ 
+rumtummeln.
+Nein, wenn ich von /formalen Gegenstaenden/ spreche, dann sind das nur solche,
+die als /Moeglichkeit/ auftreten, aber nicht im platonistischen Sinne,
+als das diese unabhaengig in einer Welt existierten, sondern dann, wenn ZF
+konsistent ist. Wenn eine Theorie widerspruchsfrei ist, dann ist sie logisch
+moeglich. Aber ist das ein Grund, die Annahme von /abstrakten Gegenstaenden/
+fuer so eine Theorie zu fordern? Aber wie schon gesagt, es gibt ja noch
+nichtmal einen Konsistenzbeweis fuer ZF.
+
+Aber ich sehe schon den Einwand, der dann heisst "Schoen, dann ist die Mathe-
+matik eben ein sinnfreies Spiel". Nein, ist es eben nicht, es geht aber eben
+nur um die /formale Moeglichkeit/ der Existenz, zumindest dann, wenn man
+keine Konsistenzbeweise hat. Hier wuerde ich die konstruktive Mathematik
+von der nicht-konstruktiven trennen. In diesem Zusammanhang faellt mir ein,
+dass, wenn Leibelt durch seine Beweistheorie die Sinngebung in Form des
+Nachweises der Widerspruchsfreiheit fuer Theorien forderte, dieses Programm
+aber fuer PA in PA nicht durchfuehrbar ist, er konsequenterweise zum Kon-
+struktivismus ueberwechseln muesste, da es ihm nicht gelungen ist, das
+"Wesen des Unendlichen" mit finiten meta-sprachlichen Mitteln zu klaeren;
+und Klaeren waere ja wohl, die Konsistenz von PA in PA zu zeigen.  
+
+
+Aber in der Sprache wird die Konsistenz gezeigt oder aber durch die Angabe
+eines Modells (dabei findet diese Angabe wieder in der Sprache statt.)
+
+
+Aequivalenzrelationen und -klassenbildung sind aufgrund von Zeichenreihen
+moeglich, man kann sie einwandfrei in ZFC definieren und Saetze hier aus ZFC
+mit einem Sequenzkalkuel syntaktisch ableiten.
+
+
+Gruss Mirko
+--

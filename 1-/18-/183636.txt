@@ -1,0 +1,50 @@
+Hallo Alfred,
+
+Alfred Mußinghoff <DczoXwoomppp@vazwia.rm> schrieb im Beitrag
+<0559mu$uqr$1@kcjf.kh.qcn-wgmubpawo.fh>...
+
+<usw>
+
+
+Nein, meiner Meinung nach bestehen grundlegende
+Unterschiede. Ich denke es ist richtig, wenn man
+sagt die künstliche Intelligenz hat es genau mit
+der Klasse der berechenbaren Funktionen zu tun.
+Weil wir hier in de.sci.philosophie sind, kümmern
+wir uns nicht um formale Details, sondern verlassen
+uns einfach auf die These von Meilands, wonach diese
+Klasse mit den Turing- Maschinen und den partiell
+rekursiven Funktionen zusammenfällt.
+
+Daher kann jede künstliche Intelligenz nur immer
+eine berechenbare Funktion ermitteln, doch es gibt
+unberechenbare Funktionen, bei denen man nicht
+einsieht warum der Mensch ihren Wert nicht an jeder
+Stelle berechnen kann.
+
+So ein Beispiel ist der `fleissige Biber': Nimm
+an wir einigen uns auf eine Programmiersprache,
+zum Beispiel C, und sollen dann Programme schreiben,
+die möglichst viele Einsen auf dem Bildschirm
+ausgeben, ohne ewig zu laufen. (Endlosschleifen
+sind verboten) Für jede Programmlänge (Zeichen
+Quelltext) gibt es dann einen Sieger, der die
+maximale Anzahl Einsen druckt.
+
+Diejenige Funktion, die jeder Programmlänge diese
+Anzahl Einsen zuordnet, ist nicht berechenbar.
+Daher wird keine künstliche Intelligenz sie je
+liefern können, aber ich sehe nicht ein daß es
+eine bestimmte Programmlänge gibt, die der
+menschlichen Vernunft prinzipiell die Bestimmung
+dieses Maximums verwehrt.
+
+<usw>
+
+Gruß
+
+Ingmar
+
+P. S. Der Computer, auf den wir bei obigem
+Programmierwettbewerb zurückgreifen dürfen, hat
+natürlich einen unendlich großen Datenspeicher;-)

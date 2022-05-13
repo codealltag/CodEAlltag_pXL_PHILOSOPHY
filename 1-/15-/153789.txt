@@ -1,0 +1,38 @@
+Stephan Terhaag <Ovwlwy.Ioldmyzct@kvk.kak-rsxzyoqiq.qi> schrieb:
+
+[...]
+
+
+Jau, KD4 ist eine Bezeichnung fuer ein Axiomensystem aus der Modallogik.
+Die Bezeichnung erfolgt im Baukastensystem. Zu den "ueblichen" Axiomen,
+die durch K bezeichnet werden, treten die Axiome
+
+ D : Bew(a) -> ~Bew(~a)
+ 4 : Bew(a) -> Bew(Bew(a))
+
+Axiom "4" entspricht also Deinem (3), und Du hast unter Voraussetzung
+der ueblichen Annahmen die Gesetze fuer K4 hingeschrieben.
+
+In einer frueheren Post sagtest Du, dass:
+
+# Es ist also schon interessant, dass man Mathematik braucht, um die
+# Unentscheidbarkeit "ihrer" formalen Logik zu zeigen.
+
+Das ging mir zu weit, denn der Loebsche Satz bemueht "nur" die Logik.
+
+Wenn ich es richtig verstanden habe, reicht es, dass ein Praedikat der
+Beweisbarkeit KD4 (oder wie Du selbst schriebst: obige 3 Axiome und
+Bew(Bew(a) -> a) -> Bew(a) erfuellt), wobei die zugrundliegende Menge
+von Aussagen dem Fixpunktsatz genuegt.
+
+Danach gibt es einen Satz p derart, dass p <-> ~Bew(p). Das System ist
+demnach unvollstaendig und goedelt, weil gezeigt werden kann, dass ~Bew(f)
+zu diesen unbeweisbaren Satzen gehoert.
+
+Also: ~Bew(f) <-> ~Bew(~Bew(f))
+mit f als eine beliebigen logisch falschen Aussage.
+
+Wir meinen mehr oder minder dasselbe. Mir ist nur unklar, wozu man
+Mathematik an dieser Stelle braucht, wo man doch mit Logik klarkommen
+muesste.
+   Nikolaus

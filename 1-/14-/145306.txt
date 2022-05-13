@@ -1,0 +1,21 @@
+IIRC ergibt es bei Umrechnung nach HSB dasselbe H und S und nur mehr B.
+
+
+Das Spektrum im eigentlichen Sinn schon.  Die Umrechnung in etwas
+HSB-artiges erfordert jetzt allerdings mehr Dimensionen.  Wenn wir
+gesättigte Farben (S=1) mit fixierter Helligkeit (B=1) annehmen, ist
+die Gesamtfarbe erst durch Angabe zweier Hues H1 und H2 bestimmt.  Wie
+sich das anfühlt, kann man natürlich nicht sagen.  Das "echte"
+Spektrum ist dann irgendeine Kurve in der H1-H2-Fläche, aber alle
+übrigen Farben in dieser Ebene müssten dann als maximal gesättigt
+erscheinen, obwohl sie nicht spektral rein sind (so ähnlich wie die
+Purpurkante des Hufeisens bei uns).
+
+
+Eben, und die Dimension bleibt bei verschiedenen Darstellungen gleich.
+
+Mirko
+
+-- 
+GS d->? s:++>+++ a C++++ UL+++ UH++ P++ L++ E+++ W- N++ o-- K- w--- !O M- V-
+PS+>++ PE Y+>++ PGP+ !t !5 !X !R !tv  b+++ DI+++ D?  G+ e++++ h+ r? y?

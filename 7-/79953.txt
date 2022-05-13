@@ -1,0 +1,27 @@
+Ist die Zahl 1/9 in der Liste enthalten?
+
+a=2E)
+Die Zahl kann nicht enthalten sein, da sich jedes Zahlenpaar der Liste
+nur um einen rationalen Betrag unterscheiden kann. Es gibt keine
+rationale Zahl r die mit einer irrationalen Zahl i für |r - i| =3D q die
+Bedingung "q ist rational" erfüllt.
+
+b=2E)
+Die Zahl muß enthalten sein. Laut Vorbedingung ist die Liste
+abzählbar unendlich. Wenn nur endlich viele Stellen variiert werden
+würden, könnte die Liste nicht unendlich sein. Werden aber abzählbar
+unendlich viele Dezimalstellen durch die Ziffern {0,1,2,3,...,9} in
+jeder möglichen weise belegt, ich nenne dies die vollständige
+kombinatorische Belegung der Stellen mit den Indices 1, 2, 3, ... mit
+den Dezimalziffern, so muß jede reelle Zahl in [0, 1] enthalten sein.
+Denn laut Definition ist die Menge der reellen Zahlen die Gesamtheit
+aller möglichen Stellenbelegungen auf unendlich vielen Stellen und es
+gibt keine reelle Zahl die nicht durch eine unendliche Folge von
+Ziffern dargestellt werden könnte.
+
+Für Mathematiker ist das zuviel des Guten. Sie kenne nur das
+"entweder-oder".
+
+
+Gruß
+Niclas Bendieck

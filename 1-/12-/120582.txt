@@ -1,0 +1,12 @@
+Nein, Differenzierbarkeit ist auch in Randpunkten eines Intervalls
+definiert. 
+
+
+Definition von "singuläre Stelle"? 
+
+
+Das ist so falsch. Nehmen wir etwa die Abbildung f:R->R, x ->x^2 und
+die offene Umgebung U:=]-1,2[ von 0. Welche Steigung soll U haben?
+
+
+vincent

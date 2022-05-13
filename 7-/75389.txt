@@ -1,0 +1,127 @@
+Die populäre Version des jarck Beweises der Nichtabzählbarkeit
+der reellen Zahlen zeigt, dass es keine Liste (Folge) aller reellen
+Zahlen geben kann. Dabei wird implizit vorausgesetzt, dass unendliche
+Listen abzählbarer Objekte widerspruchsfrei denkbar seien.
+Ich zeige im Folgenden, dass es keine Liste aller natürlichen Zahlen
+geben kann, damit also die Voraussetzung für Cantors 2.
+Diagonalverfahren oder Diagonalargument gar nicht gegeben ist.
+
+Annahme: Es gäbe die Liste der natürlichen Zahlen.
+
+Folgendes sei die Folge der natürlichen Zahlen in unitärer
+Schreibweise mit der einzigen Ziffer "X" notiert:
+
+X
+XX
+XXX
+XXXX
+.
+.
+.
+
+Das Bildungsgesetz ist offensichtlich. Jede natürliche Zahl ist in
+einer eigenen Zeile notiert. Für jede natürliche Zahl n in der Zeile
+z gilt, dass in der Nachfolgerzeile z' die Nachfolgerzahl n' steht.
+Daraus folgt, dass in jeder Zeile unterhalb der ersten Zeile eine
+natürliche Zahl steht. Im Umkehrschluß folgt,
+(1) dass in keiner Zeile, die auf die erste Zeile mittelbar folgt (also
+irgendwo unter der ersten Zeile steht) eine andere als eine natürliche
+Zahl steht (insbesonders keine transfinite Zahl).
+
+In der nächsten Darstellung wird die Folge der natürlichen Zahlen
+durch die Indizierung der Stellen der natürlichen Zahlen ergänzt.
+Diese Indizierung erfolgt ebenso in unitärer Schreibweise, aber zur
+Unterscheidung mit der Ziffer "0":
+
+00000...
+X0000
+XX000
+XXX00
+XXXX0
+XXXXX
+.
+.
+.
+
+Die Darstellung der natürlichen Zahlen erfolgt also waagrecht in den
+Zeilen mit "X", die Indices der Ziffern werden senkrecht in Spalten
+geschrieben mit dem Symbol "0".
+
+Natürliche Zahlen lassen sich nur vollständig in einem potentiell
+unendlichen Stellensystem darstellen.
+Es gilt allgemein für jedes Stellensystem der natürlichen Zahlen:
+(2) die Menge der Stellen aller natürlichen Zahlen ist vom selben
+Umfang (Kardinalität) wie die Menge der natürlichen Zahlen selbst.
+Im unitären Stellensystem gilt zusätzlich: zu jeder Menge, die einen
+Abschnitt der natürlichen Zahlen darstellt, gehört die umfangsgleiche
+Menge ihrer Indices.
+
+Jede definierte Auswahl von "X" oder "0" in obiger Darstellung stellt
+eine Menge dar. Um die notwendige Unterscheidung der Elemente in den
+Mengen zu gewährleisten, können die "X" oder "0" durch eine
+entsprechende Indizierung individualisiert werden.
+Z=2EB. steht in der dritten Zeile die Menge {X_31, X_32, X_33} und die
+Menge {0_34, 0_35, 0_36, ...} oder in der dritten Spalte die Menge
+{0_13, 0_23, 0_33} und {X_43, X_53, X_ 63, ...}, usw.
+
+Nach dieser Vorbereitung lassen sich folgende Aussagen herleiten:
+(3) Die Menge der "X" in der ersten Spalte ist abzählbar unendlich,
+ihre Kardinalzahl ist aleph_0.
+(4) Die Mengen der "0" in den Spalten stellen ebenso die Menge der
+natürliche Zahlen dar wie die Mengen der "X" in den Zeilen.
+(5) Damit steht ebenso in keiner Spalte eine nichtnatürliche (z.B.
+transfinite) mit "0" codierte Zahl wie auch in keiner Zeile eine
+nichtnatürliche (transfinite) mit "X" codierte Zahl steht (äquivalent
+zu (1)).
+(6) Die Menge der "0" in der ersten Zeile ist abzählbar unendlich.
+
+
+Aus (3) und (5) folgt: In der ersten Spalte stehen mehr "X" als in
+jeder Spalte "0" stehen. Daraus folgt wiederum, dass es mindestens zwei
+aufeinander folgende Zeilen geben muß, in der "X" steht aber kein "0".
+Begründung: Die zeilenweise Abtragung ohne Unterbrechungen stellt
+offensichtlich Bijektion her zwischen den Elementen, die in den Zeilen
+stehen. Wenn in jeder Zeile sowohl "X" als auch "0" stehen würde,
+wären die entsprechenden Mengen umfangsgleich. Wenn es eine Spalte
+gibt in der eine Zeichenart häufiger ist als in einer anderen Spalte
+die andere Zeichenart, so folgt aus der Konstruktion notwendig, dass es
+Zeilen geben muß in der nur die eine Zeichenart vorhanden ist.
+Da mit dem Abtragen der "0" eine Zeile über den "X" begonnen wurde,
+ist erst dann keine Bijektion mehr gegeben, wenn mindesten zwei Zeilen
+nur "X" aber keine "0" enthalten.
+
+Nochmal: Wenn die Menge der natürlichen Zahlen unendlich ist, dann ist
+die Menge der "X" in der ersten Zeile unendlich.
+Da keine natürliche Zahl unendlich ist kann es keine Spalte geben in
+der die Menge der "0" unendlich ist (es gibt keinen unendlichen
+Stellenindex, sonst gäbe es eine unendliche natürliche Zahl).
+Daraus folgt, dass es mindestens zwei Zeilen in Folge geben muß in
+denen "X" eingeschrieben ist  aber kein "0".
+
+Nun gilt aber folgendes: Wenn es zwei Zeilen gäbe, nennen wir sie o
+und p, in denen keine "0" eingeschrieben wären, so gäbe es eine
+natürliche Zahl in der darauf folgenden Zeile q die nicht vollständig
+indiziert wäre.
+Natürlich muß jede natürliche Zahl vollständig indizierbar sein.
+Für die Zahl in der Zeile q wäre diese notwendige Bedingung nicht
+erfüllt. Somit ergibt diese Konsequenz einen Widerspruch.
+
+Die Argumentation lässt sich auch mit der unendliche Menge der "0" in
+der ersten Zeile und den immer nur endlichen Mengen aus "X" in den
+nachfolgenden Zeilen auf den nämlichen Widerspruch führen.
+
+Folgerung: es gibt keine Liste aller natürlichen Zahlen.
+
+Damit gibt es auch nicht die Menge der natürlichen Zahlen (wie separat
+von mir gezeigt werden wird) wie überhaupt keine aktual unendlichen
+Objekte widerspruchsfrei gedacht werden können.
+Das Unendlichkeitsaxiom ist widersprüchlich.
+Cantors Diagonalargument ist hinfällig.
+
+Infinitum actu non datur!
+
+Mit freundlichem Gruß
+Christoph Werner Voihs
+
+
+english translation will follow in separat thread soon

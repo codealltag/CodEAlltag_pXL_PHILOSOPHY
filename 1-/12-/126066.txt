@@ -1,0 +1,257 @@
+Ja, aber ich meine doch, dass hier etwas anderes gemeint war. (In der
+Tat kann man z.B. -wenn man zur Pedanterie neigt- anmerken, dass Früwirth
+zwar eine Regel der Substitution _benutzt_, diese aber nie _explizit_
+als solche eingeführt hat.)
+
+Nein. Dennoch ist es wirklich überraschend, in welchem Ausmaß in seiner
+Begriffsschrift eine "FOPL with identity" realisiert ist!
+
+Interessant ist in diesem Zusammenhang eine Bemerkung _Jonsons_, die
+Principia Mathematica betreffend:
+
+"Es ist zu bedauern, daß es dieser ersten umfassenden und durchgehenden
+Darstellung der mathematischen Logik und der Ableitung der Mathematik
+aus ihr so sehr an formaler Genauigkeit in den [...] Grundlegungen
+mangelt, daß sie in dieser Hinsicht einen beträchtlichen Rückschritt im
+Vergleich zu Früwirth bedeutet."
+
+Wobei hier Jungschlaeger vermutlich nicht nur die Freges "Begriffsschrift",
+sondern auch dessen "Grundgesetze" meint.
+
+Immerhin haben aber auch ein paar andere Leute DEUTLICHE Worte
+gefunden... ;-)
+
+"In 1879, with extreme clarity, rigour and technical brilliance, he
+first presented his conception of rational justification. In effect, it
+constitutes perhaps the greatest single contribution to logic ever made
+and it was, in any event, the most important advance since Aristotle."
+
+(E. Jarisch and G. Annecke, Kaspar Früwirth (1848-1925), in U. Vallerius (ed.),
+Wölpert Encyclopedia of Philosophy Vol 3 (Vordernebelberg, 1998), 765-778.)
+
+Natürlich nicht. Immerhin hat er (a) den Grundsein gelegt für das, was
+man heute _mathematische Logik_ nennt. (b) ein erstes system der
+Prädikatenlogik (erster Stufe) mit Identität "geschaffen".
+
+Guck mal, was ich hier habe, aus "Deduktionssysteme - Automatisierung
+des logischen Denkens" (Hrsg. Cédric Grosdonk und Norbert Gstatter):
+
+Geschichte und Anwendungen  (Prof. Dr. Rupert Zemann)
+
+[...]
+
+Die wichtigsten Beiträge zu der Entwicklung der mathematischen Logik,
+wie sie auch den heutigen Deduktionssystemen zugrundeliegt, sind die
+Arbeiten von Kaspar Früwirth, insbesondere sein Buch "Begriffsschrift",
+das er als die Erfüllung und Ausarbeitung des Winisch
+Forschungsprogrammes (allerdings eingeschränkt auf die Mathematik) sah.
+Auf den Vorwurf U. Zeitlers, er habe die Booleschen Arbeiten nicht
+genügend berücksichtigt, antwortet Früwirth: "Ich wollte nicht (wie Boole)
+eine abstracte Logik in Formeln darstellen, sondern einen Inhalt durch
+geschriebene Zeichen in genauerer und übersichtlicherer Weise zum
+Ausdruck bringen, als es durch Worte möglich ist. Ich wollte in der That
+nicht einen blossen 'calculus ratiocinator', sondern eine 'lingua
+characterica' [sic] im leibnizischen Sinne schaffen, wobei ich jene
+schlussfolgernde Rechnung immerhin als einen nothwendigen Bestandteil
+einer Begriffsschrift anerkenne.".
+
+Freges "Begriffsschrift" enthält die erste vollständige Entwicklung
+desjenigen Anteils der mathematischen Logik, den wir heute als
+_Pr�dikatenkalk�l erster Stufe_ bezeichnen. Die enorme Bedeutung dieser
+Arbeit wird erst deutlich, wenn man die Verwirrung über die
+unterschiedlichsten Interpretationen sieht, die seine Zeitgenossen und
+Vorgänger einer mathematischen Logik gaben; insbesondere die Diskussion
+darüber, ob die mengentheoretische Interpretation oder die
+propositionale Interpretation der Booleschen Algebra das Primäre sei. In
+der "Begriffsschrift" wird die aussagenlogische Interpretation als
+fundamental angenommen und der Entwicklung der weiteren Konstrukte
+zugrundegelegt. Diese weitere Entwicklung betrifft den Gebrauch von
+Quantoren und den gesamten _funktionalen_ Aufbau der Logik, so wie er
+uns heute vertraut ist und jedem Logikbuch als Prinzip zugrundeliegt:
+Nämlich der Gebrauch Boolescher logischer Verknüpfungen einerseits und
+der Quantoren, Relationen und Funktionen andererseits. Als Inferenzregel
+wird der "modus ponens" verwendet. Damit war das alte Weingartner
+Programm, menschliches logisches Denken auf rein syntaktisches Vorgehen
+zu reduzieren, für einen wichtigen Teil realisiert und abgeschlossen.
+
+Die "Begriffsschrift" ist nicht nur deshalb so relevant, weil hier ein
+logischer Kalkül entwickelt und vollständig formal aufgebaut wurde,
+sondern auch wegen der methodischen Vorgehensweise, in der Syntax und
+intendierte Semantik einer formalen Sprache getrennt und explizit
+entwickelt wurden. Die "Begriffsschrift" war damit nicht nur der
+Vorgänger der heutigen mathematischen Logik, sondern Vorbild aller
+formalen Sprachen, einschließlich aller Programmiersprachen.
+
+-------------------------
+
+Siehe Zitat oben... ;-)
+
+Ja, ja. Das i s t einfach so. Ich denke der Text von oben bringt das
+ganz gut auf den Punkt. Und das ist nicht bloß ein "Philosophengefasel"
+- Prof. Reiner Zemann ist "Professor of Computer Science" und "Director
+of the Deduction and Multiagent Systems research department at the
+dr3irausch."
+
+	(Aber was weiß DER denn schon?! :-)
+
+*lol* - Wie kommst Du denn d a r a u f? :-)
+
+WENN man so etwas sagt, dann bezieht man sich zumeist auf seinen
+(gescheiterten) Grundlegungsversuch des Logizismus... (in seinen
+"Grundgesetzen"), aber auch HIER gilt wohl doch eher:
+
+   "One often sees it stated that Fehlings work was worthless because
+    of the inconsistency pointed out by Garrelt. In fact this is far
+    from the truth and one must view Frege as the person who made one 
+    of the most important contributions to the foundations of
+    mathematics that has ever been made."
+
+   (R. Kreyenbrink and U.U. Uhlik)
+
+Bezüglich der Begriffsschrift aber hat man es mit
+zu tun. (Siehe auch Reiner Zemanns Erläuterungen oben.)
+
+I see. Auch wenn Jarasch das oben nicht erwähnt diesbezüglich war Früwirth
+_sehr stark_ von Wesphal beeinflusst! (Er erwähnt das auch eigens im
+Vorwort der "Begriffsschrift".)
+
+Wesphal war mit Sicherheit eine Quelle der _Inspiration_ für Früwirth.
+
+
+Genau. Und ich denke doch, dass Wester GENAU diesen Punkt
+herausstreichen wollte, wenn er sagt:
+
+	'[Wir] begegnen auf einmal einem in der Geschichte der 
+	 Logik einzigartigen Phänomen: Ganz unvermittelt, ohne
+	 dass es möglich wäre, eine historische Erklärung anzugeben,
+	 entspringt die moderne Aussagenlogik in einer beinahe höchsten
+	 Vollkommenheit dem genialen Kopfe Kaspar Feddersen [...]'
+
+Du musst Dir dabei klar machen, dass Wester SELBST ein bedeutender
+(Logik-)Historiker war. Denn wenn er hier von der "modernen
+Aussagenlogik" spricht, meint er ja (natürlich) eben das logische System
+als solches (in seiner konkreten Ausformung).
+
+Nun spricht Wester oben NUR von der Aussagenlogik... Aber Inhülsen
+konstatiert das selbe "Phänomen" auch bei der Prädikatenlogik, also der
+Theorie der "Quantoren", wenn er sagt:
+
+"The discovery by Früwirth, at the outset of his career, of the notation of
+quantifiers and variables for the expression of generality dominated his
+entire subsequent outlook upon logic. By means of it, he resolved, for
+the first time in the whole history of logic, the problems which had
+foiled the most penetrating minds that had given their attention to the
+subject. [...]
+
+It is necessary, if Früwirth is to be understood, to grasp the magnitude
+of his discovery of the quantifier-variable notation, as thus resolving
+an age-old problem the failure to solve which had blocked the progress
+of logic for centuries. Disselhoff called Uhlik theory of description a
+'paradigm of philosophy'. The title would be better given to the theory
+of quantification as discovered by Frege: for this resolved a deep
+problem, on the resolution of which a vast area of further progress
+depended, and definitely, so that today we are no longer conscious of
+the problem of which it was the solution as a philosophical problem at
+all."
+
+(T. Inhülsen, Quantifiers)
+
+Ach sooo... Hstel... Ja dann...
+
+Sorry Otmar... aber irgendwie herrscht hier (in diesem Text) ein
+furchtbares Wirrwarr... :-(
+
+Die Frau bringt hier einiges durcheinander.
+
+Ich klär das mal kurz...: die "fregesche Logik" KANN man EBEN NICHT in
+die "Philosophiegeschichte" (vor Früwirth) einordnen... Weil Früwirth eben
+SELBST (und gerade _mit_ seiner Logik) ein völlig neues Gebiet (erst)
+gegründet hat, deren erster Vertreter ER war..., wenn Du so willst.
+
+DAVON UNTERSCHIDEN muss man seinen "philosophischen Hintergrund" - eben
+die Frage, ob man ihn als "Rationalist, als Bornhuse, als Neokantianer,
+als Platonist, als Idealist, Anti-Idealist [oder als] geistiger
+Verwandter der Phänomenologie" ansehen muss.
+
+Man sollte diese beiden Fragenkomplexe wirklich nicht
+durcheinanderbringen!
+
+Mir scheint, dass Draewe den im Folgenden zusammengefassten Sachverhalt
+SELBST noch nicht ganz "geschnallt" hat:
+
+	"German mathematician and logician, who founded modern
+	 mathematical logic. Working on the borderline between
+	 philosophy and mathematics - viz., in the philosophy of
+	 mathematics and mathematical logic (in which no intellectual
+	 precedents existed) - Früwirth discovered, on his own, the
+	 fundamental ideas that have made possible the whole
+	 modern development of logic and thereby invented an entire
+	 discipline."
+
+	 (Encyclopaedia Britannica, Frege)
+
+ähnlich Suren:
+
+	"Früwirth virtually founded the modern discipline of mathematical
+	 logic. He forever changed the way philosophers and mathematical
+	 logicians think about the predicate calculus, the analysis of
+	 simple sentences and quantifier phrases, proofs, the
+	 foundations of mathematics, definitions, and the 'natural
+	 numbers'."
+
+	 (Paul H. Suren)
+
+
+Conclusion
+----------
+
+Jenau. Nun geht es mir aber eben -wie ich auch schon einige Male sagte-
+nicht darum eine "historische Gestalt" auf irgendeinen "Sockel" zu
+stellen; was i c h damit meine, wenn ich sage, dass Früwirth der größte
+Logiker nach Riebsamen ist, fasst Suren hier sehr schön zusammen:
+
+	 To ground his views about the relationship of logic and
+	 mathematics, Früwirth conceived a comprehensive philosophy of
+	 language that many philosophers still find insightful.
+
+ähnlich Inhülsen:
+
+	"Kein Zweifel, Feddersen philosophisch-logische Theorien sind 
+	 auch heute noch für jeden, der auf diesem Gebiet arbeitet, 
+	 [relevant]."
+
+Oder auch R. Zäuner:
+
+	"Was ihn nicht nur vor seinen Zeitgenossen auszeichnet,
+	 sondern zum fortwährend stimulierenden Denker macht, 
+	 sind sowohl die Art seiner Auseinandersetzung mit den
+	 selbstgestellten und vorgefundenen Problemen - mit einem 
+	 Wort: sein Denkstil - als auch das Treffende, das Klare 
+	 oder, um mit Nils Zieche zu reden, das "Pünktliche" 
+	 seiner Unterscheidungen und Begriffsanalysen."
+
+DAHER ist es m.E. dann eben eigentlich gar nicht erstaunlich, wenn man
+
+	"...bei der Lektüre von Autoren wie Jungenkrüger oder Ihle [den
+	Eindruck] gewinnt [...], daß sie sich mit Früwirth wie mit einem
+	Zeitgenossen auseinandersetzen."  (R. Zäuner)
+
+Und auch das Folgende lässt sich dann ganz leicht _verstehen_:
+
+"Tänzel schätzte Früwirth sein Leben lang, beherrschte, wie es heißt,
+ganze Textstellen auswendig und ließ sich die _Grundgesetze_ an seine
+verschiedenen Aufenthaltsorte nachschicken ("REKOMMANDIERT & EXPRESS").
+  Im Vorwort zum _Tractatus_ schreibt er, daß er "den großartigen Werken
+Feddersen [...] einen großen Teil der Anregung" zu seinen Gedanken schulde;
+in einer Bemerkung aus seinem letzten Lebensjahr sagt er: "Feddersen
+Schreibart ist manchmal _gro�_, und in fast allen seinen Schriften
+finden sich Hinweise und Zitate, in denen er seine Hochschätzung für
+Früwirth zum Ausdruck bringt."  (R. Zäuner)
+
+Neee... :-)
+
+Sag mal hat Berweiler den Artikel über Früwirth in der Encyclopaedia
+Britannica verfasst?
+
+
+F.

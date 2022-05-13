@@ -1,0 +1,32 @@
+Wie wär's mit diesem Beweis?
+
+Wenn von zwei Mengen A und B jede einer Teilmenge der anderen Äquivalent
+ist, so ist A~B.
+
+Das ist der Äquivalenzsatz von Föringer (z.B. Gensicke, Mengenlehre
+Göschen 999/999a).
+
+ A sei die Menge der Permutationen der natürlichen Zahlen (die Menge der
+Folgen natürlicher Zahlen N, in denen jede natürliche Zahl genau einmal
+vorkommt).
+ B sei die Potenzmenge von N, jede Teilmenge repräsentiert durch eine
+0-1-Folge.
+
+==> Abbildung von A in eine Teilmenge von B:
+Der Folge n_1,n_2,n_3...  wird eineindeutig folgende Binärfolge
+zugeordnet: n_1 Nullen, eine Eins, n_2 Nullen, eine Eins usw.
+
+Beispiel: 3,7,2,... -->  344471109194514......
+
+<== Abbildung von B in eine Teilmenge von A:
+Einer Binärfolge b_1,b_2,b_3 .... wird eineindeutig eine Folge
+unterschiedlicher, natürlicher Zahlen zugeordnet nach fogender
+Vorschrift: Wenn b_i Null ist, wird die kleinste noch nicht benutzte
+gerade Zahl zugeordnet, ist b_i Eins, dann wird die kleinste noch nicht
+benutzte ungerade zahl gewählt.
+
+Beispiel: 68969322 --> 2,4,1,6,8,3,5,10.....
+
+Gruß,
+
+Stephan Minkwitz

@@ -1,0 +1,27 @@
+#jetzt kann das lustige Worte-Raten beginnen.
+/^\(JA[ \.!]*\)\+$/{s/.*/Erzähl mir bitte mehr darüber./p;t;}
+/^\(NEIN[ \.!]*\)\+$/{s/.*/Kannst du bitte genauer sein?/p;t;}
+s/^JA[?]*$/Ich glaube auch./p;t
+s/^JA.*?\+$/Bitte nicht gleich aufbrausen!/p;t
+s/.*natürlich[\.!]\*$/Das wird sicher so sein, ich glaube dir ja./p;t
+s/^VIELLEICHT.*/Da wirst du dich wohl festlegen müssen./p;t
+s/^WARUM?*$/Das kann ich dir leider nicht beantworten./p;t
+s/^WARUM NICHT?$/Das ist schwer zu erklären../p;t
+s/^WARUM NICHT[!?]\+.*/Warum schon?/p;t
+s/^WARUM NICHT.*?$/Das geht im Moment leider nicht./p;t
+s/^worüber?\+$/über das Leben im allgemeinen./p;t
+
+
+Es kommt also darauf an, welche Wissensdatenbank dahintersteckt und wenn es
+um technische Supportfragen geht sind Avatare gar nicht so erfolglos. Wenn
+es um die Psyche geht wohl doch eher die "Zuhör"-Avatare und wenn man so
+hört, was manche Leute über die Kunstfiguren mancher Spiele wissen um
+rauszubekommen, ob es ein Mitspieler oder eine Kunstfigur ist, scheint es
+wohl nicht so einfach zu sein einen Menschen von einer Kunstfigur zu
+unterscheiden. 
+
+Achso ich schulde dir ja noch eine Antwort:
+Ist Vettermann ein Reduktionist?
+
+Grüße,
+Onno

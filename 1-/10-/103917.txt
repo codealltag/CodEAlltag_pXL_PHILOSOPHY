@@ -1,0 +1,22 @@
+Die Regel Modus Ponendo Ponens wird als eine abgeleitete Regel
+eingeführt (wovon und wie, wird erst mal nicht verraten).
+Dann wird unter Einsatz dieser Regel bewiesen, dass A -> B |- ~(A & ~B)
+gilt. Woraufhin A -> B := ~(A & ~B) definiert wird.
+Schließlich wird der geneigte Leser aufgefordert den Modus Ponendo
+Ponens (MPP) abzuleiten. Da der geneigte Leser schon ein ums andre
+Mal versuchte den MPP mittels der (nicht abgeleiteten) Regeln zu
+deduzieren, schaute er sogleich in die Lösung um festzustellen, dass der
+Autor einfach die oben erwähnte Definition benutzt.
+Nun frage ich mich ob das nicht Augenwischerei ist? Denn die Erkenntnis,
+die zur Definition führte wurde ja in Abhängigkeit der Regel, die es zu
+Beweisen gilt, erlangt.
+
+Gruß
+Daniel
+
+P.S. (nicht abgeleitete) Regeln:
+- Annahme
+- Doppelte Negation
+- und-Introduktion
+- oder-Introduktion
+- Reductio Ad Absurdum

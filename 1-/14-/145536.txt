@@ -1,0 +1,97 @@
+Ich bin der Meinung, dass in deinem vorigen Beitrag ein paar fehlerhafte
+Schlussfolgerungen stecken, die du in den nachfolgenden Beiträgen mit
+dir rumschleppst. Also gehen wir mal den vorigen Beitrag durch (btw.: da
+ich mich mit elektrischen und magnetischen Kräften nicht so gut
+auskenne, versuche ich die Sache aus meinem Verständnis der
+relativistischen Raum-Zeit-Struktur abzuleiten, also bitte ich die
+Sachkundigen darum mich falls notwendig zu berichtigen):
+
+Alle folgenden Zitate aus:
+<3mhpdk$we8$7@tykzwrvrmib9.oxss.wbmpekmds.mqk>:
+
+
+Ok.
+
+
+Das ist nicht richtig. Man muss sich klarmachen, was magnetische Kräfte
+eigentlich sind. Um genau zu sein, gibt es keine magnetischen Kräfte für
+sich, man könnte auf sie ganz verzichten und nur noch von elektrischen
+Kräften sprechen, die aufgrund der SRT-Raum-Zeit-Struktur beim Wechsel
+der Inertialsysteme zu Phänomenen führen die dazu verleiten, diesen
+Phänomenen eine eigenständige Kraft zuzuordnen, und dieser einen
+eigenständigen Namen zu geben (z.b. die "magnetische Kraft"), dabei ist
+es immer nur die eine, die elektrische nämlich, die in so vielfältiger
+Ausprägungen auftritt. Bei zwei parallel zueinander stehenden
+Stromleitungen z.B. ergibt sich bei entgegengesetztem Strom deshalb eine
+(magentische) Anziehung, weil im Inertialsystem der Elektronen des
+jeweils anderen Leiters die positiven Atomrümpfe l�ngenkontrachiert
+sind, die des eigenen sowie des gegenüberliegenden Leiters, sowie die
+Elektronenabst�nde des jeweils anderen Stroms noch stärken
+l�ngenkontrachiert sind (sie bewegen sich ja aufgrund des
+entgegengesetzten Stromes noch schneller als die positiven Atomrümpfe),
+womit der jeweils gegenüberliegende Leiter im Inertialsystem der
+Leitungselektronen elektrisch negativ geladen ist und aufgrund dieser
+eine Abstossung beider Leiter stattfindet. Also nichts mit Magnetismus,
+reine Elektrizität + SRT. Bei zwei parallelen Stromdurchflossenen
+Leitern, bei denen die Ströme gleichgerichtet (und nehmen wir der
+Einfachheit halber an auch gleich gross) sind, findet deshalb eine
+(magnetische) Anziehung statt, weil sich alle Leitungselektronen, sowohl
+die im eigenen wie auch im gegenüberliegenden Leiter, im gleichen
+Inertialsystem befinden und somit nur eine Längenkontraktion der
+positiven Atomrümpfe zu verzeichnen ist, nicht aber eine der
+Leitungselektronen des jeweils anderen Stromleiters, weshalb der jeweils
+gegenüberliegende Leiter im Inertialsystem der Leitungselektronen
+elektrisch positiv geladen ist und somit zu einer Anziehung der beiden
+Leitern führt.
+
+Was passiert aber bei zwei sich parallel zueinander bewegenden
+Elektronen? Gar nichts, ebensowenig es einen Effekt geben würde, wenn
+sich, im letzten Beispiel zweier stromdurchflossener Leiter, keine
+positiven Atomrümpfe geben würde, sondern man von zwei losen, sich im
+Raum parallel gleichschnell zueinander bewegenden Elektronenströmen
+ausgehen würde. Kein Magnetfeld, keine Anziehung.
+
+Also F_m' = 0
+
+
+Auch nicht richtig. Kontraktion bedeutet nicht Vermehrung. Magnetische
+Kräfte entstehen daher, weil eine Ladung (aufgrund deren Bewegung)
+stärker kontrachiert wird als die andere (die z.B. ruht). Dann entsteht
+ein lokaler Überfluss an Ladung (die Gesamtladung bleibt dennoch gleich)
+und eine Kraft tritt hervor, die man je nach Inertialsystem als
+elektrisch oder magnetisch bezeichnet. Hier aber passiert nichts
+dergleichen und eine blosse Kontraktion einer punktförmigen Ladung hat
+keinen Effekt auf das elektrische Feld.
+
+Deshalb F_e' = F_e
+
+Deshalb ist die Schlussfolgerung ...
+
+
+nicht richtig. Tatsächlich ist F = F'.
+
+Tatsächlich ergibt sich hier aber ein scheinbarer Widerspruch. Aufgrund
+der Zeitdilatation bewegen sich die beiden Ladungen je nach
+Inertialsystem unterschiedlich schnell voneinander weg, was darauf
+schliessen lässt, dass F doch nicht gleich F' sein kann. Dieser
+Widerspruch löst sich auf, sobald man die relativistische Massenzunahme
+berücksichtigt. Im Inertialsystem S' ist die Masse der Ladungen grösser,
+und zwar um den Faktor gamma(v). Das ist der gleiche Faktor, um den die
+Zeit im Inertialsystem der Ladungen aus S' gesehen langsamer läuft als
+die ihrige, womit sich das ganze wunderschön kompensiert.
+
+Soviel zu deinem vorhergehenden Post, nun zu diesem:
+
+
+Hmm, klingt ziemlich kompliziert, und selbst auf die Gefahr hin mich zu
+blamieren, so kann ich beim besten Willen keinen Grund erkennen, weshalb
+sich hier die Kräfte F12 und F21 überhaupt herausbilden sollten (s.o.),
+die dann quasi rückwirkend durch weitere wieder kompensiert werden
+müssten. Kann es sein, dass sich der Tipler hier schlicht irrt? *duck*
+
+
+Gruss,
+Sven
+
+
+* F-Up nach de.sci.physik *

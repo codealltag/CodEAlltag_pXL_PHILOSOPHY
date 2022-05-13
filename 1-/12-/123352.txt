@@ -1,0 +1,138 @@
+Diese normalsprachliche Lesart führt aber bekanntlich zu folgendem
+altbekannten Widerspruch:
+(~E!)a -> (Ex)(~E!)x
+
+In meinen Augen ist die einzige, logisch haltbare Lesart die folgende:
+
+"~(E!a)" =def "Es ist nicht der Fall, dass a existiert."
+
+Man muss hier die Reichweite des Negationszeichens genauestens
+beachten!
+
+
+Ob man 'E!x <-> x = x' nun als Axiom oder Theorem ansieht, ist mir
+nicht so wichtig. Worauf es mir ankommt, ist, dass diese Äquivalenz
+überhaupt gilt!
+
+
+Das scheint, oberflächlich betrachtet, eine Konsequenz zu sein, doch
+bestimmte Negationen von Sätzen mit leeren Namen muss auch der freie
+Bin�rlogiker notgedrungen als wahr akzeptieren, denn sonst kann er
+nicht einmal annehmen, dass "Fa*" weder wahr noch falsch ist, da er ja
+behauptet, dass es *wahr* ist, dass "Fa*" weder wahr noch falsch
+ist!!!
+Auch in diesem Punkt kommt mir die fFL inkonsistent vor!
+
+
+Es muss in einer zweiwertigen Logik aber einen haben!
+["p*" sei irgendein Satz, in dem leere Namen vorkommen]
+Entweder p* oder nicht p*: p* v ~p*
+Es ist nicht der Fall, dass entweder p* oder nicht p* <-> Weder p*
+noch nicht p*: ~(p* v ~p*)
+
+Wer Sätze mit leeren Namen für wahrheitswertslos hält und damit das
+Gesetz vom ausgeschlossenen Dritten [GAD] für derartige Sätze
+verwirft, der kommt im Rahmen einer binären Logik einfach nicht umhin,
+die Negation des GAD bezüglich jener Sätze zu *akzeptieren*, da diese
+die (einzig) korrekte logische Wiedergabe normalsprachlicher "weder
+... noch ..."-Formulierungen ist!
+Wer sagt, dass "Fa*" keinen Wahrheitswert hat, der sagt, dass es nicht
+der Fall ist, dass "Fa*" entweder wahr oder falsch ist, womit nichts
+anderes gesagt wird, als dass "Fa*" weder wahr noch falsch ist!
+Wer dies sagt, begeht jedoch in der binären Logik einen Widerspruch,
+da der Weg von "~(p* v ~p*)" schnurstracks zu "p* & ~p*" führt, was
+bedeutet, dass ein Anhänger der OUZG ungewollt zum Dialetheisten wird,
+also zu jemandem, der glaubt, dass es wahre Widerspüche gibt! Diese
+Konsequenz ist jedoch für einen Bin�rlogiker vollkommen inakzeptabel,
+da er sonst das heilige Nichtwiderspruchsprinzip aufgeben müsste!
+Bin�rlogiker, denen "~(p & ~p)" sakrosankt erscheint, können somit
+unmöglich an "~(p* v ~p*)" festhalten, da genau dies sie zwingen
+würde,  "p & ~p" für wahr zu halten!!!
+Der einzige konsistente Weg, der für einem Bin�rlogiker gangbar ist,
+ist, eine negative Freie Logik zu wählen, die "Fa*" und dessen
+Negation einen eindeutigen Wahrheitswert zuordnet!
+Ich fürchte, den Sympathisanten der OUZG bleibt nichts anderes übrig,
+als demütig einen Kanossagang zur Heislitz anzutreten...! ;-)
+
+
+Ufferhusloh schreibt aber weiter:
+"The upshot is that there is no problem distinguishing rejection from
+accep-
+tance of the negation, in NONCLASSICAL LOGICS that either don't
+include certain
+instances of excluded middle or include the negations of certain
+instances of it.
+[Ufferhusloh, H. (2003). /Is the Liar Sentence Both True and False?/.
+http://wrn.ags.pxe/nrlu/gqej/mgeto/hbjzhym/fwvgc/bcfgul/Xlvmkatwwe.bhj]
+
+
+Ufferhusloh zeigt, dass die Verwerfung ("rejection") von LEM nur im Rahmen
+einer *dreiwertigen* Logik mit den semantischen Werten {0;1/2;1} unter
+Wahrung des Nichtwiderspruchsprinzips erfolgreich vollzogen werden
+kann!
+Der freie Bin�rlogiker, der im Wesentlichen ein KLASSISCHER LOGIKER
+bleibt, kommt aus dem Dilemma, dass er, wenn er "p* v ~p*" verwirft,
+"~(p* v ~p*)" nicht ebenfalls verwerfen kann, nicht heraus; denn er
+kann unmöglich annehmen, dass weder p* noch ~p*, ohne anzunehmen, dass
+~(p* v ~p*)!
+Würde er auch "~(p* v ~p*)" als wahrheitswertslos bezeichnen, dann
+würde er folgenden Unsinn von sich geben, den er ja selbst nicht
+glaubt:
+
+"p*" ist weder wahr noch falsch, und es ist weder wahr noch falsch,
+dass "p*" weder wahr noch falsch ist!
+
+Dieses Spielchen könnte man ad infinitum fortsetzen, was zur Folge
+hätte, dass die fregesche Freie Logik ein Standpunkt ohne Standpunkt
+wäre, d.h. einer, der überhaupt nichts als wahr behaupten kann!
+Aber dem ist definitiv nicht so, denn die OUZG ist ja gerade dadurch
+definiert, dass sie es *für wahr* hält, dass "p*" weder wahr noch
+falsch ist!
+
+Die Grundthese der fFL lautet demnach wie folgt: Wahr["~(p* v ~p*)"]
+
+In einer binären fregeschen Freien Logik, die in ihren Grundzügen rein
+klassisch ist, impliziert die Verwerfung (rejection) von "p* v ~p*"
+unausweichlich die Behauptung von dessen Negation (denial)!
+
+
+Ein Bin�rlogiker, der sagt, dass "Fa*" keinen Wahrheitswert besitzt,
+der sagt *objektiv*, dass "Fa*" weder wahr noch falsch ist; und dessen
+einzig richtige logische Wiedergabe ist nun einmal "~(Fa* v ~Fa*)",
+woran es nichts zu rütteln gibt! Dass heisst, dass ein Bin�rlogiker,
+der die OUZG befürwortet, unmöglich sowohl "Fa* v ~Fa*" als auch "~(Fa*
+v ~Fa*)" verwerfen kann!
+
+All diese Einsichten führen zwangsläufig zu dem Schluss, dass eine
+klassisch binäre, fregesche Freie Logik nicht konsistent sein kann und
+deshalb als Ganzes abzulehnen ist!
+
+
+In der fregeschen Freien Logik, die *binär* ist, eben doch!
+
+
+Das funktioniert so nicht, wie ich oben gezeigt habe!
+Der fregesche Freie Logiker kann gar nicht anders, als "~(Fa* v ~Fa*)"
+als wahr zu behaupten, weil sein ganzer Ansatz ansonsten von
+vornherein absolut sinnlos ist--und wenn er "~(Fa* v ~Fa*)" als wahr
+annimmt, dann ist sein Ansatz inkonsistent! ;-)
+
+
+OK in diesem Fall; aber wenn man behauptet--was die OUZG tut--, dass
+behauptet zweifellos, dass in solchen Fällen "p* v ~p*" tatsächlich
+(und nicht nur möglicherweise) nicht wahr ist, was nichts anderes
+heisst, als dass hier "~(p* v ~p*)" wahr ist! Dies hat wiederum zur
+Folge, dass in FOPL "p v ~p" seinen Status als Axiom/Theorem verliert!
+Und wenn "p v ~p" kein FOPL-Axiom mehr ist, dann kann auch das
+Nichtwiderspruchsprinzip "~(p & ~p)" kein FOPL-Axiom mehr sein, da in
+der binären FOPL '~(p v ~p)' eben '~p & ~~p' <-> 'p & ~p' impliziert!
+
+
+Gruss
+TORSTEN 
+
+P.S.:
+Es gibt auf Ufferhuslohs Hompage einige hochinteressante Aufsätze zum
+Gratis-Herunterladen!
+Vorbeischauen lohnt sich:
+http://pri.rif.zhb/rchf/pdkt/qmqwc/uwpwbws/iyurd/

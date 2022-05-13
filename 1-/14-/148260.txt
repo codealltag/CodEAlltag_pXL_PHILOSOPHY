@@ -1,0 +1,16 @@
+Lutz Fibiger <swsu.iybylc@uvd.sr> schrieb:
+
+[...]
+
+
+(Ex) (Ey) (x ~= y  & 
+           Kuenstler(x) & Kuenstler(y) &
+           Bewundert(x, y) & Bewundert(y, x) &
+           (z) (z ~= x  &  z ~= y  ->
+                    ~Bewundert(x, z) & ~Bewundert(y, z)))
+
+Man mag auch Kuenstler(z)) unter den Bedingungen auffuehren. Meines
+Ermessens gibt Xander Beispiel das aber nicht her. 
+
+Habe ich was uebersehen?
+   Didier

@@ -1,0 +1,31 @@
+: Natuerlich kann man sich auf den Standpunkt stellen, dass es nur
+: beobachtbare Ereignisse der Form "Auf einem Thermometer der
+: Bauart X mit Messgenauigkeit Y wird der Wert Z abgelesen" gibt.
+
+: Das hiesse, man verbietet ein stetiges Mass fuer die Temperatur, weil
+: es aus allgemeinen kosmologischen Ueberlegungen vielleicht nicht
+: ganz "legitim" ist.
+
+Verbieten nicht, sondern die Grenzen erkennen. Dass eben fuer bestimmte 
+Fragen das stetige Masz nicht richtig ist.
+
+Aber ich habe endlich den Punkt gefunden, an dem der Fehler liegt. Die 
+Frage nach der Wahrscheinlichkeit, dass die Temperatur Y herrscht, ist 
+falsch, weil das kein Ereignis ist. Das Ereignisfeld wird nur durch 
+Intervalle bzw. durch Mengen der Borel- Algebra bestimmt, die aber aus 
+Intervallen erzeugt werden kann. Der Punkt ist nicht im Ereignisfeld. 
+Damit ist Holger eintreten eines Nullereignisses in den stetigen Faellen 
+ausgehebelt, hoffe ich.
+
+: Was ist dadurch gewonnen? Es hat sich doch als
+: praktikabel erwiesen, zu sagen, dass zu einem Zeitpunkt t die Temperatur
+: Y gemessen wird. Hugo benutzt die uebliche Begriffsbildung.
+: Wilhelm lehnt diese ab, ohne dass der Nutzen erkennbar waere.
+
+Es werden aber immer Intervalle gemeint, wenn T angegeben wird. Ausserdem 
+ist der Zeitpunkt t auch nur eine Idealisierung.
+
+so short- Sébastien.
+----
+" ... nur: wenn alle so tun, als waer alles schon klar - 
+  ich frag mich, wo kaem' wir da hin? " - Kai Bockshecker

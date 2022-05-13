@@ -1,0 +1,51 @@
+Hallo Patrice,
+
+
+Ich verstehe den Zusammenhang zwischen meinem Argument und Deiner
+antwort nicht.
+
+
+Warum sollte es auch den Bildungsregeln von N+ entsprechen? Ich kann (um
+bei dem Beispiel zu bleiben) ohne Probleme einem Streichertrio noch
+einen vierten Musiker hinzufügen; es ist dann eben kein Trio mehr,
+sondern ein Quartett.
+
+
+Wie definierst Du Existenz?
+
+
+Das ist kein Widerspruch.
+
+
+Das Problem sind dann aber offenbar eher die Intentionen als die
+Mathematik. Dass sie ausschließbar sind, zeigt ja gerade der
+axiomatische Aufbau der Mengenlehre, der Intentionalität ausklammert.
+
+Und dass man in der Mathematik Antinomien prinzipiell nie ganz aus dem
+Weg gehen kann, zeigt ja der Satz von Gödel.
+
+
+Die Aussage "Die Menge *soll* fünf Elemente enthalten" ist keine in der
+Mathematik /mögliche/ Aussage. Und zwar deshalb, weil der mathematische
+Sprachumfang das Wort *soll* gar nicht enthält.
+
+
+Man muss der Widerspruchsfreiheit der modernen Mengenlehre nicht
+glauben. Man kann auch alle darauf aufbauenden mathematischen Sätze
+beginnen mit "Angenommen, die moderne Mengenlehre wäre widerspruchsfrei,
+...". Das ist einfach unpraktisch und auch jedem bekannt, darum lässt
+man es weg. Anders hat man auch keine Möglichkeit, Mathematik zu
+betreiben: weil eben für kein Axiomensystem die Widerspruchsfreiheit
+beweisbar ist.
+
+Man kann sich aber genauso gut ein anderes Axiomensystem wählen und
+damit Mathematik betreiben, wieder unter der Annahme, es wäre
+widerspruchsfrei. Man kann sogar beide Axiomensysteme als eine einzige
+Person behandeln -- man muss dazu nicht "glauben", dass das sich eine
+oder das andere auf Dauer als widerspruchsfrei erweist.
+
+
+Eine Folge ist definiert als eine Abbildung, und eine Abbildung ist eine 
+Teilmenge eines Kreuzproduktes von Mengen.
+
+Damit ist eine Folge auch eine Menge.

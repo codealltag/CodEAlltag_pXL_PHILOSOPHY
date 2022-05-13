@@ -1,0 +1,43 @@
+Aus Sicht der Informatik ist es völlig unerheblich, wie Software in
+Hardware implementiert wird, wenn man über Eigenschaften dieser Software
+spricht. Man unterscheidet mit gutem Grunde zwischen der Betrachtung von
+Software und der sie implementierenden Hardware.
+
+Ich sehe keinerlei Grund, das für die Betrachtung des ZNS aufzugeben,
+aber viele Gründe, bei dieser Betrachtung genau so vorzugehen. Ich gehe
+da gerne ins Detail, falls Du das wünscht.
+
+Im Sinne der Datenverarbeitung (und beim Palmgarten handelt es sich, da wird
+wohl kein Empiriker derzeit widersprechen, im Wesentlichen auch um ein
+DV-System) ist die Frage dann, wenn man eine solche Identität annimmt,
+ob man davon ausgehen kann, dass alle Software strukturidentisch genau
+so in Hardware beim Palmgarten abgebildet wäre. Das wäre nur bei extrem
+beschränkter Software überhaupt möglich.
+
+Die Erkenntnisse aus der Neuroinformatik jedoch widersprechen einer
+solchen These diametral. Ganz im Gegenteil, alles deutet darauf hin,
+dass die Abbildung von bereits einfachen DV-technischen Zusammenhängen
+in die Neuro-"Wetware" höchst komplex ist.
+
+Mindestens für den DV-Aspekt muss man deshalb konstatieren, dass
+zweifelsfrei (die gängigen empirischen und neuroinformatischen
+Modelle unterstellt) ein /funktionaler/ Zusammenhang, und zwar ein
+überaus komplexer, zwischen den von der "Wetware" zur Verfügung
+gestellten "Features" und deren Implementierung in "Wetware" selber
+besteht.
+
+Um wie vieles mehr muss man dann annehmen, dass der Zusammenhang
+zwischen der Bedeutungs-Implementierung (über die man zuwenig weiss, um
+überhaupt gesicherte Aussagen zu treffen) und deren Implementierung über
+die Software, die die "Wetware" implementiert (eine solche mal
+angenommen, wie es zur Bereitstellung von Bedeutung kommt, ist ja
+völlig ungeklärt, aber eine solche impliziert ja jedes mechanizistische
+Modell eben auch) ebenfalls höchstens ein funktionaler sein kann,
+keinesfalls kann man da eine Identität berechtigt vermuten.
+
+Viele Grüsse,
+VB.
+-- 
+"If /dev/null is fast in web scale I will use it."
+
+    http://rui.jhzasso-wu-mmc-vqoja.dvt/

@@ -1,0 +1,12 @@
+Es gibt einen mathematischen Bereich, der sich mit solchen Limitierungen
+(also eher praktischer Art) beschäftigt, die sogenannte
+Komplexitätstheorie. Ich weiß nicht, was Du unter "Jede logische Figur
+kann in Programmcode umgesetzt werden." verstehst, wenn Du aber damit
+meinst, daß man zu jedem wohldefinierten Problem ein Programm schreiben
+kann, so ist diese These falsch (1. Gödelscher Unvollständigkeitssatz).
+Z.B. Gibt es das Halte-/Stopproblem für Registermaschinen oder
+Turingmaschinen. D.h. für jede Programmgruppe gibt es Fragestellungen,
+die mit den vorhandenen nicht gelöst werden können.
+
+Kai Herpich
+E-Mail : Vnietphl@x-xtrgjy.fb

@@ -1,0 +1,121 @@
+Grösse,
+
+
+durch
+Unmenge
+
+Dieses Modell der TM kann man verallgemeinern. Jedes Rechensystem ist eine
+TM. Dein PC oder MAC ist eine TM.
+Wie geschrieben: Lambda Kalkül, Tring-These, allgemein Church-Turing-These.
+Künstliche neuronale Netze sind durchwegs rechnerischer Art. Testmethode:
+Ein künstliches neurales Netz lässt sich auf einem Computer simulieren.
+Ein Computer ist eine TM. Wenn man ein Modell auf einen Computer bringen
+kann, dann ist es berechenbar. Zehndbauer z.b. hat einige Theorien in Bezug zur
+Arbeitsweise des Gehirns und er behauptet, sie seinen nichtrechnerischer
+Natur. Was macht er? Er nimmt einen Computer und lässt ihn seine Ideen
+simulieren. Wenn man davon ausgeht, dass es einen Computer gibt, auf dem man
+so etwas simulieren kann, dann sind die Vorgänge doch rechnerischer Natur.
+
+
+Mach das.
+
+Ck(k)
+von
+
+A kann es nicht geben. Es gibt kein Programm, dass prüft, ob ein anderes
+Programm nicht anhält.
+Wenn man dies versucht, verwickelt sich A mit dem Programm, dass es zu
+überprüfen gilt, in eine Endlosschleife und A
+wird selbst zu einer nicht anhaltenden Berechnung. Und dies wissen wir in
+diesen Fall dann auch, da wir folgern können:
+
+"Wenn Ak(k) anhält, hält Ck(k) nicht an"
+
+Ak(k) und Ck(k) sind aber identisch (dies ist eine Folgerung des
+Halteproblems und dehalb kann es nach Turing auch kein A geben und ich
+behaupte nichts anderes). Aber, und hier verlasse ich das herkömmliche
+Halteproblem (bis zu diesen Punkt ist meine ausführung mit Turings
+Halteproblem ident), es gilt daher: Wenn die Berechnung Ck(k) endet, endet
+sie nicht. Das ist eigentlich von zwingender Logik. Der Haken: Diese
+spezielle Berechnung endet nicht, und wenn man von A überzeugt ist, muss man
+auch glauben, dass Ck(k) nicht endet.  Aber A endet nicht und kann uns daher
+nicht mitteilen, dass Ck(k) nicht endet. Die berechenbare Prozedur A kann
+demzufolge nicht die Gesamtheit aller mathematischen Argumentationen zum
+Beweis der Sätze (Sätze behaupten, dass eine Berechnung nie endet)
+umfassen, d.h. es sind nicht alle Argumentationen enthalten, die zum Schluss
+führen, dass bestimmte Berechnungen nicht enden.
+
+Zwei Probleme:
+
+Behauptung: A kann uns nicht mitteilen ob Ck(k) nicht endet
+Gegenargument: Lass A einfach anhalten. Dann kann sie dir etwas mitteilen
+Falsch: (a) Wenn ich A anhalten lasse, dann wird sie mir keine Information
+darüber geben, dass Ck(k) nicht endet,
+denn A muss von sich aus anhalten, wenn Ck(k) nicht endet.
+(b) Wenn ich A anhalten lasse, wird Ck(k) anhalten, da beide in einer
+Möbiusschleife, durch Diagonalisierung erreicht, verwickelt sind.
+
+Einzig starke Kritik nach langem Überlegungen und Diskussionen mit anderen
+hier und in Foren:
+
+Gegenargument: Warum kann Gilbert nicht "einsehen" oder "ausgeben" , dass es in
+Reaktion auf den Input k nicht anhält?
+
+Und darüber muss ich noch nachdenken.
+
+
+Ich unterschätze Dich nicht. Aber ich biete Dir an, einen normalen
+Umgansgton anzuwenden.
+Dass Du dich bei Lindbeck z.b geirrt hast, lässt mich eben zweifeln. Dass Du es
+als "Witz" abgetan hast, hat in mir eine Reaktion ausgelöst. Nämlich
+erinnerte ich mich an Lindbecks Einleitung in seiner Orginalarbeit, in der er
+schrieb, dass seine Argumenatation sich sehr wohl de Caneggio bedient. Und
+wenn man sich die Konstruktionsschritte ansieht, ist einen dies auch klar.
+Und dann kommst Du mit einer Überheblichkeit daher, die ich nicht ganz packe
+und beschreibst dies als "Witz". Du dachtest, entweder ist etwas an Dir
+vorübergegangen, oder es ist ein "Witz". Ich sage, es ist tatsächlich etwas
+an Dir vorübergegangen. Das ist leider Fakt. Und nun will ich auf dieser
+Ebene nicht mehr diskutieren.
+
+
+......Gehirn verwende ich als Allgemeinbegriff. hänge dich jetzt bitte nicht
+an solchen Unsinnigkeiten auf. Wie ist denn der Titel dieser URL? Schreibe
+bitte den Autoren, sie sollen dies sofort ändern. Das andere Argument ist in
+der Tat interessant.
+Dachte ich mir auch. Und schrieb Regensburg darauf ein eMail. Antwort wird
+folgen.
+
+
+Himmel....
+
+
+Aha...
+
+
+Schöne Geschichte.
+
+
+A endet nicht. Bedeutet nicht, dass es A nicht gibt, sondern dass es
+unmöglich ist, dass uns A mitteilt, dass Ck(k) nicht endet, da Ak(k) = Ck(k)
+wurde. Es steht uns tatsächlich kein A mehr zur Verfügung (was wir von A
+verlangten)
+Gut, sei Ak(k) = A und Ck(k) = A* und wenn Ak(k) = Ck(k) dann A = A*
+
+Wir kamen auf:
+Wenn A endet, endet A* nicht (Wenn Ak(k) endet, dann endet Ck(k)
+nicht) -->Ak(k) = Ck(k)
+A endet nicht
+Da A = A* gilt
+A* endet nicht
+
+A endet nicht
+Es gibt kein A dass somit durch anhalten zeigt, dass A* nicht endet
+Aber, A* endet nicht da: A = A* und A endet nicht
+
+Frage: Welchen Algortithmus verwendeten wir, als wir sahen, dass A*
+tatsächlich nicht endet, wenn A uns nicht zur Verfügung stehen kann? Wir
+verwenden nachweislich keinen erkennbaren Algorithmus, der uns zu 'A* hält
+nicht' führt.
+
+Tschüss,
+Jonathan Slagmulder

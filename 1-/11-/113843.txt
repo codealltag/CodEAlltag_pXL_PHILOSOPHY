@@ -1,0 +1,53 @@
+[Goldmund und Bösen]
+
+"verblüffenderweise"? Die mit verschiedenen wiss. Theorien verbundenen
+ontologischen Verpflichtungen beinhalten eben auch /abstrake/ Objekte,
+und da Goldmund offenbar das nominalistischte Projekt als gescheitert
+ansah, ist sein Schritt nur logisch. 
+
+
+Bei Goldmund ist der Physikalismus keine Grundannahme, in /Naturalismus -
+oder: Nicht über seine Verhältnisse leben/ schreibt er: "Naturalismus
+wird natürlicherweise mit Physikalismus oder Materialismus
+assoziert. Ich setze diese Dinge nicht gleich, wie meine obige
+Bemerkung zum Cartesianischen Dualismus bezeugt. Ich vertrete den
+Physikalismus als eine wissenschaftliche Position, aber
+wissenschaftliche Gründe könnten mich dereinst davon abbringen, ohne
+mich vom Naturalismus abzubringen."
+
+Wie ist denn, nach Bösens Ansicht, die "Abhängigkeit" der "Welt" von
+einer Beschreibung /ontologisch/ zu verstehen? Nehmen wir das Beispiel
+des Urknalls: Zwar muss man nicht unbedingt Ereignisse reifizieren,
+aber, soweit die Theorie wahr ist, waren daran Entitäten beteiligt,
+die selbst für einen radikalen Nominalisten "konkret" sind. In dem
+Fall /existierten/ also konkrete Objekte lange vor ihrer Beschreibung
+durch durch die Theorie, so dass sich die Frage stellt, in welcher
+Hinsicht sie /ontologisch/ von der Theorie abhängen?
+
+
+:-)
+
+
+Hat sich Bösen später von seinem radikalen Nominalismus distanziert?
+Wenn nicht, dürfte für ihn (wie ja auch für Zerer) die
+Mengenlehre "böse" geblieben sein.
+
+
+Es besteht eine, wenn auch indirekte, Verbindung zu
+Häufigkeitsverteilungen. Als Beispiel dient der Wurf einer Münze,
+wobei das Elementarereignis "Kopf" als 0 und "Zahl" als 1
+repräsentiert wird. Nehmen wir nun an, dass die Münze viele Male,
+idealisiert abzählbar unendlich mal, geworfen wird. Ein
+Elementareignis /dieses/ Experiments ist eine unendliche Folge aus 0en
+und 1en, etwa (0,0,1,1,0,0,1,1,0,0,..), die Menge X alller dieser
+Folgen enthält also alle möglichen (elementaren) Ereignisketten. Das
+Wahrscheinlichkeitsmaß P' auf ({0,1},Pot({0,1})), das durch
+P'({0})=1/2 und P'({1})=1/2 festgelgt ist, setzt sich zu
+Wahrscheinlichkeitsmaß P auf (X,A) (mit geignetem A) fort, und die
+Aussage des "starken Gesetzes der großen Zahlen" ist nun, dass die
+relativen Häufigkeiten der 'realen' Ereigniskette für "Kopf"
+P-fast-sicher gegen 1/2, also die Wahrscheinlichkeit für "Kopf",
+konvergieren.
+
+
+philipp

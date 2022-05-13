@@ -1,0 +1,69 @@
+Dafür dass meine Begriffswahl zu Verwirrung Anlass gegeben hat,
+möchte ich mich entschuldigen.
+
+Mit dem, was ich leichtfertig als "Gausscher (Intergral- oder
+Divergenz-)Satz" bezeichnet habe, meine ich das Gaussche Gesetz
+in Integralform. Dieses ist wiederum die Anwendung des Gausschen
+Integralsatzes auf die erste Maxwellgleichung in differentieller
+Form.
+
+Der Gaussche Integral-SATZ:
+
+  Das Volumenintegral über die Divergenz eines Vektorfeldes
+  (Fluss) entspricht dem Fluss durch die Oberfläche des Volumens.
+
+Dieser Satz ist in der Tat allgemeingültig, und hat nichts mit
+Ausbreitung von irgend etwas zu tun, denn es gibt ja keine
+eigenständigen Quellen, deren Änderungen sich instantan oder mit
+Verzögerung ausbreiten könnten.
+
+Das (allgemeine) Gaussche GESETZ in Integralform:
+
+  Das Volumenintegral über die Quellstärke entspricht dem von den
+  Quellen verursachten Fluss durch die Oberfläche des Volumens.
+
+Da hier der Fluss bzw. das Vektorfeld von Quellen verursacht wird,
+stellt sich die Frage, wie sich Änderungen der Quellen auf das
+davon verursachte Vektorfeld auswirken. Die Antwort ist eindeutig.
+
+Nur wenn sich Quellstärken-Änderungen instantan ausbreiten
+(wie z.B. bei inkompressiblen Flüssigkeiten), ist die Quellstärke
+identisch mit der Divergenz des verursachten Vektorfeldes (bzw.
+Flusses).
+
+Die Gültigkeit der ersten Maxwellgleichung
+
+  div E = rho
+
+mit E als elektrischem Feld und rho als Ladungsverteilung setzt
+somit voraus, dass sich Änderungen in der Ladungsverteilung
+instantan auf das von den Ladungen verursachte elektrische Feld
+auswirken.
+
+
+Urs Wagner in Bjm39FKC0CKL1371rp572zcqrpbkkfklwcqz@682.10.4.33 :
+
+
+Die Unhaltbarkeit dieser Argumentation ist einfach zu erkennen.
+
+Die Verbindungslinie der zwei Kugeln bleibt die ganze Zeit
+elektrisch neutral, so auch am Punkt P. Das positive Aufladen der
+einen Kugel führt nirgens sonst als bei der 1000 m entfernten
+zweiten Kugel zu einem (relevanten) elektrischen Feld.
+
+Der Gaussche Integralsatz bleibt nur deshalb auch unter der
+Annahme von Retardierung gültig, weil der Frontbereich des sich
+kugelförmig ausbreitenden positiven Felds als Senke für das Feld
+(und somit bei Anwendung der 1. Gleichung Maxwells als negative
+Ladung) interpretiert wird.
+
+Der Fluss des elektrischen Felds der sich aufladenden Kugel
+durch die 300 m entfernte Kugeloberfläche wäre dann nach weniger
+als 1 Mikrosekunde kontinuierlicher Aufladung deshalb Null,
+weil eine (sich mit c in alle Richtungen ausbreitende) negative
+Divergenz-Ladung die reale positive Ladung der Kugel exakt
+kompensieren würde.
+
+
+Es grüsst Freund und Feind,
+Willy

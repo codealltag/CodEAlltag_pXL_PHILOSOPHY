@@ -1,0 +1,26 @@
+:>Wobei.. Nach dem Wohlordnungssatz faedele man U auf, gehe die Kette
+:>entlang und zaehle in [0,f-1] durch. Dann stopfe man alle Elemente
+:>mit gleicher Nummer in die Teilmengen U_i mit i=0,..,f-1 und 
+:>definiere U/f als min(card(U_i)). Nur so ein Gedanke...
+
+: Verstehe ich nicht. Den Wohlordnungssatz braucht man nicht, da jede
+: unendliche Kardinalzahl per Definition eine Limesordinalzahl ist (du
+: moechtest doch hoffentlich nicht Kardinalzahlen als Aequivalenzklassen
+: gleichmaechtiger Mengen definieren!)
+
+Jemand hat mir gesteckt, dass es da eine eigene Theorie dafuer gibt,
+ich bin aber in der Axiomatisierung nicht so fit. Fuer U+U=U reicht
+der naive Gleichmaechtigkeitsbegriff und |N als Beispiel aber hin, 
+glaub ich.
+Wenn du Lust hast, meine Bildungsluecke zu fuellen -- was ist an
+Ae-Klassen der Gleichmaechtigkeit so schlimm, ausser dass es
+haarig wird, alldieweil die Menge aller Mengen keine Menge ist?
+Uebrigens gibt es eine andere interessante Frage: ob es
+die Menge I gibt, so dass fuer jede Menge K gilt: es gibt eine
+Menge k element I so dass K gleichmaechtig k ("Indexmenge").
+Meinen voellig laienhaften Vorstellungen zufolge gilt:
+ VKH |-> Existenz I
+d.h. falls die VKH (Verallg.Kontinuumhypothese) gilt, sieht I so aus:
+ I = { {}, {{}}, {{},{}}, ...,
+d.h. falls jemand die Existenz von I widerlegt, ist die VKH tot.
+Alles total laienhaft.

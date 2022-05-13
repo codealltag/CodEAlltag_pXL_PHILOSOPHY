@@ -1,0 +1,24 @@
+Sei E die reelle Ebene mit Punkten (x,y), x und y reelle Zahlen. Sei K die
+Menge der Punkte (x,y) mit x^2 + y^2 = 1, also die Einheitskreislinie. Sei
+K_n das K einbeschriebene regelmäßige n-Eck mit einer Ecke im Punkt (1,0)
+(um es eindeutig festzulegen). Für einen Punkt (x,y) und eine reelle Zahl r
+sei r*(x,y) = (r*x,r*y). Ist (x,y) auf K, so liegt (für jedes n>2) genau
+ein Punkt der Form r*(x,y) auf K_n; wir bezeichnen /dieses/ r mit r(n,x,y).
+Dann ist lim(n->oo)(r(n,x,y)) = 1, unabhängig von (x,y). Deshalb stimmt das
+"Unendlicheck" mit der Kreislinie überein. 
+
+Daß die vorher manifesten Ecken bei der Limesbildung verschwinden, ist ein
+üblicher Vorgang. Jede irrationale Zahl ist ein Limes rationaler Zahlen.
+Wenn das mit deinen philosophischen Vorstellungen unvereinbar ist, dann
+stimmt mit diesen etwas nicht. Der Limes ist ein von den Objekten, aus
+denen er entsteht, verschiedenes Objekt, und es gibt keinen Grund, warum er
+eine den ersteren gemeinsame Eigenschaft ebenfalls haben sollte (warum ein
+Limes von Polygonen ebenfalls ein Polygon sein sollte). Im alltäglichen
+Sprachgebrauch kann ein Objekt sogar das selbe bleiben, und trotzdem dabei
+seine Eigenschaften verändern. Es warst, soweit ich das sehe, auch ganz
+allein du, die von solchem Zeug wie Polygonen ohne Ecken angefangen hat, um
+diese der Mathematik als Leiche in den Keller zu legen, aber so einfach
+geht das nicht. 
+
+
+Olaf

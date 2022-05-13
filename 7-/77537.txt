@@ -1,0 +1,22 @@
+Du musst aber zuerst feststellen, dass alle Zahlen gleich sind. Wenn du
+für spezielle Folgen abgekürzte Beschreibungen erlaubst, brauchen
+dafür die wirklichen Zufallsfolgen umso mehr Information. Beispiel:
+Angenommen, eine Folge besteht aus n Stellen, die entweder 0 oder 1
+sind. Um alle Zufallsfolgen zu unterscheiden, brauchst du n Bit (2^n
+mögliche Folgen). Subjektiv ist für die die Folge aus n Nullen
+speziell. Du könntest sagen: Wenn ich diese spezielle Folge
+übermitteln will, sende ich nicht n Nullen, sondern ich sende einfach:
+"Die Folge besteht aus n Nullen."
+Für lange Folgen ist damit die Folge komprimiert. Das Problem ist,
+damit du diesen Satz senden kannst, musst du deinen Zeichensatz
+erweitern. Es reicht nicht, dass der Empfänger nur 0 und 1
+unterscheidet. Er muss auch das gesamte Alphabet unterscheiden können,
+also 26 weitere Zeichen. Du hättest also 28^n mögliche Folgen.
+Auf diese Weise kannst du zwar spezielle Folgen komprimieren, und zwar,
+indem du die Information der Folge gar nicht sendest. Die Information
+steht bereits dann im Entschlüsselungscode. Der Informationgehalt
+setzt sich immer zusammen aus der eigentlichen Botschaft und dem vorher
+bereits ausgemachten Code. "Plan B" ist nur verständlich, wenn ein
+gemeinsames Vorwissen besteht.
+
+Aber das weisst du natürlich alles schon :-)

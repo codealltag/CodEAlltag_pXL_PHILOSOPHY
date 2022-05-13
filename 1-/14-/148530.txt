@@ -1,0 +1,92 @@
+Hallo Luc,
+
+
+Was fuer eine Inkosistenz der Theorie? Wenn V nur endliche Teilmengen
+enthaelt, dann kann V nicht gleich der Potenzmenge Pot(D) sein, also ist
+zumindest dieser Versuch gescheitert, die Abzaehlbarkeit von Pot(D) zu
+beweisen. Wie Du aus Deiner falschen Aussage (Deinem falschen Beweis)
+jetzt auf einmal Probleme fuer die Theorie folgerst, ist mir absolut
+schleierhaft.
+
+
+Siehe mein anderes Antwortposting von heute. Vielleicht, weil Du Aepfel
+mit Birnen vergleichst?
+
+
+Was soll dieses "letzte" N_k sein?
+
+
+N ist "kein" Element in der Folge der N_k, und schon gar nicht das
+letzte. N ist "nur" die Vereinigung aller N_k.
+
+
+Die Tatsache, dass ein konkreter Versuch einer Bijektion scheitert,
+heisst doch noch nicht, dass es keine Bijektion gibt. Natuerlich kann
+ich sagen, dass ich zunaechst einmal nur die geraden Zahlen aufliste.
+Dann habe ich natuerlich sozusagen keinen Platz mehr fuer die ungeraden
+Zahlen, da ich die geraden Zahlen schon bijektiv auf die natuerlichen
+Zahlen abgebildet habe. Das heisst aber doch nicht, dass es nicht
+moeglich ist, eine Bijektion zwischen der Menge der natuerlichen Zahlen
+und der Vereinigungsmenge von geraden und ungeraden Zahlen anzugeben.
+
+
+Wieso n/2? Und meinst Du hier gerades oder ungerades n?
+
+
+Nein, siehe oben! Nicht jede einmal begonnene injektive Abbildung laesst
+sich zu einer Bijektion erweitern!
+
+
+Nun ja, da wir wissen, dass in jedem T_k die Elemente jeweils
+k-elementige Mengen sind, ist auf jeden Fall klar, dass kein T_k eine
+unendliche Menge als Element enthalten kann. Insbesondere kann die Menge
+der geraden Zahlen niemals Element eines T_k sein.
+
+
+Ich nehme mal an, Du meinst die folgende Abbildung f von A nach N:
+   f(n) = 2*n
+   f(1/n) = 2*n - 1
+Lassen wir mal das Problem mit n=1 aussen vor, dann beschreibt diese
+Abbildung sicherlich eine wunderschoene Bijektion zwischen A und N.
+
+
+Mir ist nicht ganz klar, was Du mit "Permutation dieser Bijektion"
+meinst. Daher ist mir auch ueberhaupt nicht klar, warum so etwas
+existieren muss. Aber ich vermute mal, dass Du nun die Bilder der
+Abbildung f so vertauschen (permutieren) moechtest, dass 2*n auf n
+abgebildet wird, oder? 
+
+
+Und nun fragst Du, was bei dieser Vertauschung mit 2*n - 1 passiert,
+oder? Nun, das ist so aehnlich wie bei dem Beispiel weiter oben. Wenn Du
+schon eine Surjektion der geraden Zahlen auf N angibst, dann kannst Du
+nicht erwarten, dass sozusagen noch Platz fuer die ungeraden Zahlen ist.
+Deswegen kann es ja manchmal auch etwas knifflig sein, eine geeignete
+Bijektion zum Beweis der Abzaehlbarkeit einer vorliegenden Menge zu
+finden.
+
+
+Es wird Dich sicherlich nicht verwundern, wenn ich hier keinen
+Widerspruch erkennen kann. Natuerlich reichen die Elemente von N nicht
+aus, um die Abbildung fortzusetzen (Mal vorausgesetzt, ich habe Deine
+Notation halbwegs korrekt interpretiert.) Das wird aber niemanden ausser
+Dir verwundern.
+Und natuerlich ist mir wieder einmal ueberhaupt nicht klar, warum Deine
+Beispiele immer so kompliziert sein muessen. Haette es nicht eine
+Abbildung der geraden Zahlen auf N auch getan? Aber dann haette man wohl
+nicht von der "Permutation einer Bijektion" reden koennen.
+
+
+Wie wuerdest Du es denn machen? Ueber Teilmengenbeziehungen geht es ja
+nun ganz bestimmt nicht!
+
+
+Eigentlich schade! Aber ich denke, dass die Diskussion in aenhlichen
+Bahnen verlaufen wuerde. Und eine unendliche Geschichte reicht
+eigentlich.
+
+
+-- 
+
+Gruesse,                                        email: lnfrvuz@vnoll.nri
+Ulrich              URL: http://bld.smbxuwcrs.dlo/Mkoologep/Uuhclfe/7523

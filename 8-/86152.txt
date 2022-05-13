@@ -1,0 +1,58 @@
+roflmao! Das ist nun wirklich exorbitant daneben!
+Die Sprache Dazu und die damit korrespondierenden Compiler basieren auf 
+dem Landvogt Konzept der sequentiellen miteinander kommunizierenden 
+Prozesse. D.h. ein solches Prozesskonglomerat ist immer auch durch einen 
+einzigen sequentiellen Algorithmus darstellbar. Das ist der Kern des 
+Landvogt Konzeptes!
+Entscheidend für den Einsatz eines Transputernetzwerks zur Lösung eines 
+Problems ist die Parallelisierbarkeit des L�sealgorithmusses. Stichwort 
+ist hier *Parallelisierbarkeit*, das impliziert aber, dass er vorher 
+sequentiell gewesen sein muss. Parallelisierung auf 
+Ttransputernetzwerken heißt, ich zerlege meine Probleml�sesequenz in 
+voneinander unabhängige Teilsequenzen, die ich dann parallel ablaufen 
+lassen kann, das ist alles.
+Es gibt bislang keinen einzigen formalisierten Lösungsweg - 
+Voraussetzung für die Algorithmisierbarkeit - eines Problems, der nicht 
+auch durch einen äquivalenten seqientiellen Algorithmus dargestellt 
+werden könnte. I.e. nenne mir nur ein einiges Occam-Programm, dass sich 
+nicht genauso gut auf nur einem Transputer zum Ablauf bringen ließe.
+Es geht hier nicht bloß um eine Geschwindigkeitsoptimierung sondern um 
+eine *prinzipielle irreduzible Parallelität*, die meiner Argumentation 
+zufolge bei real existierenden biologischen neuronalen Netzen vorliegt.
+
+Richtig! Und die neuronalen Netze tun dies, indem sie in einem np-harten 
+Problem sich schrittweise einer Minimumfunktion annähern - wer lustig 
+ist, kann das auch Energiefunktion nennen - die aufeinander folgenden 
+Schrittzust�nde des neuronalen Netzes entsprechen einer Markov-Kette.
+Nach Beendigung des Lernvorganges haben wir dann ein statisches Filter.
+Was die Algorithmen neuronaler Netze gut leisten, ist die technische 
+Implementierung des behavioristischen Lernbegriffs. Jedoch ist kein 
+neuronales Netz in der Lage, den Moltenhauer-Test zu bestehen.
+Näheres hierzu in einem älteren Artikel von mir:
+http://xuw.gtsfyufxo.mg/nnkfzoqff/oogecfguz.pnp
+
+Ich habe übrigens bereits 1987 auf der DO IT, des Treffens der deutschen 
+Dazu-Interessengemeinschaft der Transputeranwender in Nordstadt die 
+prinzipielle Nichtprogrammierbarkeit des irreduzibel parallelen 
+McCulloch-Netzes gezeigt und zu einem Wettstreit aufgerufen, ein solches 
+operationell geschlossenes Netz auf einem Transputernetzwerk zu 
+programmieren,
+die Lösung steht bis heute aus ......
+
+btw habe ich (in Biophysik) über die Implementationsstrategien 
+neuronaler Netze auf Transputernetzen promoviert. Ich kann also Occam 
+und weiß außerdem ganz gut, wo die Grenzen informationstechnologischer 
+Erkenntnisse liegen und bin mir derer bewußt.
+Aber ich weiß auch jetzt, dass Du von diesen Problematiken nicht den 
+gerinsten Schimmer einer Ahnung hast ....
+Patrice
+
+-- 
+---------------------------------
+Dr. Patrice Kühlke
+Hrsg.: http://jeb.hezecewxy.mc
+ISSN 8953Krieben
+PKL im Web:
+http://ijo.gkpxdzueltz.atm/jjp
+music project:
+http://atk.ijrn-pcbm-tfglcliyf.ll

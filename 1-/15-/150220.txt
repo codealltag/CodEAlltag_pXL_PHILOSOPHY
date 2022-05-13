@@ -1,0 +1,31 @@
+wo soll da den der fehler sein? du nennst keine stelle, an der ich die zu
+zeigende behauptung verwende; kannst du auch nicht, da ich das nicht getan
+habe. außerdem: nur zu sagen: "der beweis ist falsch" reicht nicht, dann
+bitte genau aufzeigen, wo was falsch ist.
+
+ich werde aber nochmal kurz die gleichheiten, die auftreten, begründen:
+--
+annahme: es existiert zu 0 (in einem körper K) ein inverses element 0^-1,
+d.h. es gilt 0*0^-1=1
+dann gilt:
+0*0^-1=(0+0)*0^-1=0*0^-1+0*0^-1 => 0*0^-1=0 widerspruch.
+--
+also:
+1tes gleichheitszeichen gilt, da die null neutrales element bezüglich + ist
+(k�rperaxiom).
+2tes = gilt aufgrund des distributivgesetzes (k�rperaxiom).
+man kann dann 0*0^-1=0 folgern, indem man auf beiden seiten der gleichung
+0*0^-1 abzieht.
+dann hat man 1=0*0^-1=0, was aber im widerspruch zum k�rperaxiom "1 ungleich
+0" steht.
+im beweis habe ich an keiner stelle benutzt, daß es KEIN zu 0 inverses gibt,
+von ringschluss kann keine rede sein, alle schlösse und gleichheiten sind
+korrekt (die begründungen stehen ja oben und sind elementar).
+ich habe also unter der annahme, daß es ein zu 0 inverses element gibt
+gezeigt, daß dies zu einem widerspruch führt. daher ist die annahme falsch
+und das gegenteil gilt.
+
+also, alles im lot. beweis stimmt, dein einwand war unbegründet.
+wenn du das jetzt nicht schnallst kann ich dir auch nicht weiterhelfen.
+
+    valentino

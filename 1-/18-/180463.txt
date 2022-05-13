@@ -1,0 +1,35 @@
+iqcpgoumw@QO.KZHG.rbj.mv (Byfvb Pettenpohl) schrieb in Nachricht ... 
+
+[...]
+
+Deine Frage bezog sich aber imho darauf, ob ich das
+Induktionsaxiom/schema in PA einbezogen denke oder nicht, in meinen
+Beiträgen habe ich nie einen Zweifel daran gelassen, auf die
+einsstufige Formulierung (die zumindest seit Gödel die
+"Standardbedeutung" von PA, den "Peano-Axiomen", ist) abgezielt zu
+haben. Ich habe deinen Literaturhinweis bisher nicht eruiert, aber
+selbst in der zweistufigen Formulierung ist nicht a priori klar, dass
+N bis auf Isomorphie charakterisiert wird und abhängig davon, welche
+Modelle zugelassen werden. Wenn das Blickfeld allein auf
+Standardmodelle beschränkt wird, d.h. auf L2-Modelle, in denen unter
+anderem die Interpretation der Quantifizierungen über einstellige
+Relationenvariabeln _alle_ Teilmengen des Individuenbereichs
+beinhaltet, ist die Isomorphie beweisbar, wenn "allgemeinere" Modelle
+zugelassen werden, wiederum nicht.
+
+[ Die einsstufige Formulierung wird deshalb bevozugt, weil dort ein
+"natürlicher" Modellbegriff existiert, bei einer höherstufigen
+Formulierung ist vieles nicht so sehr von der "Sprache" selbst,
+sondern von ihrer "Semantik" abhängig, also von der Interpretation
+"höherstufiger Gesamtheiten"; außerdem ist die "Ausdruckskraft" der
+Präd.-Logik erster Stufe ausreichend, um in ihr die Mengenlehre zu
+"formulieren", die wiederum als Rahmentheorie alle üblichen
+mathematischen Konstrukte erlaubt, es also keine Rede davon sein kann,
+erststufiges sei "beschnitten".]
+
+Weiters werde ich dir wegen akuter off-topic-Gefahr allerdings mailen.
+Erstaunlich ist es aber, dass selbst so etwas vermeintlich Simples wie
+die natürlichen Zahlen derartige Fallstricke beherbergen.
+
+
+gregor

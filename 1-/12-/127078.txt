@@ -1,0 +1,29 @@
+Das heißt aber nicht, dass es *dasselbe* bedeutet. Soweit man die
+Normasprache nicht *reglementiert*, wie es etwa Österlin unternommen hat,
+ist es äußerst schwierig, Beispiele außerhalb der Mathematik zu
+finden, in denen etwa der Allquantor genau die Bedeutung wie in der
+FOPL hat. (Alle Hunde haben einen Schwanz. Was ist, wenn einem Hund
+ein Schwanz abgeschnitten wurde? Ist es dann kein Hund mehr?)
+
+Die Entwicklung formaler Sprachen wurde u.a. durch die Antinomien der
+ursprünglich normalsprachlich (genauer ist es eine Mischstil mit
+normalsprachlichen und formalen Elementen) verfassten Mengenlehre. Die
+naive Komprehension, nach der jeder Begriff oder jede Eigenschaft phi
+eine Extension hat, also eine Menge {x | phi(x)} exisitiert, führt
+bekanntlich zur Russellschen Antinomie. Zur Behebung werden, je nach
+Axiomatisierung, für phi nur bestimmte Ausdrücke zugelassen, in NBG
+etwa nur prädikative Formeln. Solche syntaktischen Maßnahmen können in
+der Normalsprache nicht durchgeführt werden , es *gibt* eigentlich gar
+keinen konsistenten normalsprachlichen Begriff der Menge, allenfalls
+vage Vorstellungen.
+
+
+Das ist sowieso klar.
+
+
+In Texten zur math. Logik wird in der Meta-Ebene die
+math. Umgangsprache, die einen Mix von formal-und normalsprachlichen
+Elementen enthält und auch die Mengenlehre enthält, verwendet.
+
+
+hermann

@@ -1,0 +1,73 @@
+: [...]
+: > Eben darum kann man die Wahrscheinlichkeit nicht als Grenzwert der
+: > realtiven Haeufigkeit einfuehren, sondern muss sie axiomatisch
+: > festlegen. Dein Wortgeplaenkel demonstriert nur die Schwierigkeit, die
+: > Du Dir einhandelst, wenn Du Wahrscheinlichkeit als objektive Eigenschaft
+: > eines Ereignisses einfuehren willst und dies dann beweisen sollst.
+: Solange ich mich innerhalb der Mathematik bewege, ist diese Wahrschein-
+: lichkeitsdefinition natuerlich widerspruchsfrei und pflegeleicht. Das
+: wird allerdings bezahlt durch voellige Abstraktion von der Realitaet.
+: Betrachten wir nochmal die Aussage von Ivan Oll:
+: 	A2: (Ivan Oll)
+: 	Ereignisse mit der Wahrscheinlichkeit 0 koennen eintreten.
+: Da Ereignisse eintreten koennen, und ich die Wahrscheinlichkeit eines
+: Ereignisses axiomatisch zu Null festlegen kann, kann ich natuerlich auch
+: einem Ereignis, das eingetreten ist, die Wahrscheinlichkeit 0 zuweisen,
+: und siehe da... schon ist ein Ereignis mit der Wahrscheinlichkeit Null 
+: eingetreten. Das kann ich auch machen mit Ereignissen, die bisher
+: 5.000.000 mal in der Stunde eingetreten sind. Ebenso kann diesen aber na-
+: tuerlich auch sonst irgendeinen Wert aus dem Intervall [0..1] zuweisen
+: - wie es mir gefaellt. Wenn ich so eine Zuweisung ohne Beobachtung der
+: Realitaet vornehme ist sie voellig willkuerlich.
+
+Diese Festlegung der Wahrscheinlichkeit im Nachhinein wird nicht
+gemeint gewesen sein. Es gibt sinnvolle Festlegungen der Ws., die es
+notwendig machen, dass alle (Einzel-)Ereignisse den Wert Null
+haben. Siehe unten.
+
+Das kann man nun verschieden erklaeren:
+
+: Der einzige Zugang zur experimentellen Bestimmung der Wahrscheinlich-
+: keit eines Ereignisses ist dessen relative Haeufigkeit. Das ist
+: natuerlich nur eine Approximation der tatsaechlichen Wahrschein-
+: lichkeit, aber es ist die einzige Moeglichkeit, die wir haben.
+
+Das ist nicht ganz richtig. In der Physik rechnet man mit
+Wellenfunktionen, die sich auch als Wahrscheinlichkeiten
+interpretieren lassen, wo der Zugang zu Haeufigkeiten aber verstellt
+ist.
+
+Ich will das aber nicht naeher erlaeutern, da dein "Problem" anderer
+Natur ist. Auch die relative Haeufigkeit als Definition fuer
+Wahrscheinlichkeiten zu nehmen, fuehrt nicht darum herum, Ereignisse
+mit Wahrscheinlichkeit Null zuzulassen. Man kann sich zwar mit
+finitistischen Argumenten aus der Bredouille reden, mir scheint aber
+nicht, dass du dass im Sinn hast. Nehmen wir eine Maschine an, die
+jede Sekunde zufaellig eine ganze Zahl zwischen 0 und 9
+ausspuckt. Diese Ausgaben haengen wir aneinander. Am Anfang des
+Experiments wissen wir, dass jede Ziffer gleichwahrscheinlich ist und
+nach endlichen Schritten damit jede moegliche Zahl die gleiche
+Wahrscheinlichkeit hat. Uns interessiert aber die Verteilung nach
+unendlich vielen Schritten. Diese Verteilung wird auch fuer dich
+notwendig, wenn du Ws. ueber Haeufigkeiten bestimmen willst.
+
+: 	A1: (Matthias Tegtmeyer)
+: 	Ereignisse mit der Wahrscheinlichkeit 0 koennen nicht
+: 	beobachtet werden.
+: Auch dies ist keine mathematische sondern eine erkenntnistheoretische
+: Aussage. Ich gebe zu, dass sie allenfalls vom subjektivistischen Stand-
+: punkt aus in dieser Form haltbar ist. Um sie vom objektivistischen 
+: Standpunkt und unter Voraussetzung der Unendlichkeit des Universums
+: gueltig zu machen, moechte ich sie so umformulieren:
+
+Ist unter deinen Voraussetzungen eine unendliche Beobachtung moeglich?
+Ist die Gesamtheit der rationalen Zahlen (von mir aus vom Betrag
+kleiner als 1) beobachtbar in irgendeinem Sinne?
+
+Das obige Experiment, in dem jedes Ergebnis die Ws. Null hat, laesst
+sich nur verleugnen, wenn man keine unendliche Zeitfolge erlaubt. Das
+wuerde aber auch fuer das Verstaendnis der Wahrscheinlichkeiten als
+relative Haeufigkeiten Schwierigkeiten machen.
+
+Schoene Gruesse,
+	Wilhelm

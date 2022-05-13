@@ -1,0 +1,19 @@
+Das ist in verschiedener Weise inkorrekt. Zum einen stellen
+Algorithmen mit Zufallselementen nur eine Teilmenge von
+Algorithmen zur Entscheidungsunterstuetzung dar. Viele - vermutlich
+die meisten und insb. auch solche fuer komplexe Probleme - kommen ohne
+die Verwendung von Zufallszahlen aus. Zweitens kann es sein, dass ein
+Algorithmus, der Zufallszahlen verwendet, dennoch zu einem
+vorbestimmten Ergebnis gelangt, dass somit das Resultat keineswegs
+zufaellig ist. Drittens sollte auch beruecksichtigt werden, dass die
+in Algorithmen verwendeten Zufallszahlen praktisch immer als
+Quasi-Zufallszahlen Resultat einer deterministischen Berechnung sind.
+
+
+Das ganze darf wohl zumindest als umstritten bezeichnet werden. Selbst
+wenn es nennenwerte Zufallseffekte mit Einfluss auf die Hirntaetigkeit
+gibt, ist keineswegs gezeigt, dass diese auf die Hirndynamik,
+attraktierende Zustaende oder gar Bewusstseinsinhalte einen Einfluss
+haben.
+
+Gruss, Maximilian

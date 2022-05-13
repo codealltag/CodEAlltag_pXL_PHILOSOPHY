@@ -1,0 +1,29 @@
+Sicher.
+
+
+Korrekt ist, dass man keine Binaerfiles postet. Genau das tat ich
+nicht, in dem ich das File uu-kodierte. Somit liegt diese kleine
+binaere Bildatei in dem genau selben 7-Bit-ASCII-Format vor, wie wenn
+Du ein Text ohne Umlaute schreibst.
+
+
+Das mache ich sonst immer, - besonders dann wenn die Bilder und
+sonstige Bynaries gross sind, was im vorliegenden Beispiel nicht der
+Fall ist.
+
+
+Ja, aber ich will, dass es alle lesen koenen. Daher noch einmal
+crosspost zurueck.
+
+Man kann also das File ganz normal speichern und dann mit UU-dekoding
+dekodieren und man hat die GIF-datei zur Verfuegung.
+
+Gruss
+	Daniel
+-- 
+     #*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+    * Daniel Forsten   >>> frsxelwk@yin.eb.ymyx.tz <<<   |||   *
+    * Baasch, Kasa  |||   *
+    * Ballenberger Lampada   / | \  *
+    * Zwergfeldgasse 9  CH-0204 Greifensee, Switzerland      /  |  \ *
+     #*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#

@@ -1,0 +1,84 @@
+Angenommen wir haben ~~E, und es sei
+
+	 [~A]
+	  :
+	B & ~B
+
+gegeben. Dann kann man ~I anwenden, und erhält:
+
+	~~A.
+
+Eine Anwendung von ~~E ergibt:
+
+	  A.
+
+D. h. es gilt folgende abgeleitete Regel:
+
+	 [~A]
+	  :
+	B & ~B
+	------
+	  A
+
+- das aber ist ~E.
+
+
+Es gelte nun umgekehrt die Regel ~E, und sei 
+
+	~~A
+
+gegeben.
+
+Dann können wir folgende Ableitung hinschreiben:
+
+	   :
+	 ~~A      (nach Voraussetzung)
+	   :
+	  ~A       A   (für ~E)
+	~A & ~~A   &I
+	   A       ~E
+
+D. h. wir erhalten die abgeleitete Regel:
+
+	 ~~A
+	-----
+	  A
+
+- das aber ist ~~E.
+
+--------------------------------------------
+
+Wir können also die Regeln unseres Systems auf "Einführungs-" und
+"Beseitigungsregeln" beschränken. Und zwar jeweils für & und ~.
+
+
+&I	A   B       &E     A & B      A & B
+	-----              -----      -----
+	A & B                A   ,      B
+
+
+~I 	 [A]           ~E       [~A]
+ 	  :                       :
+ 	B & ~B                  B & ~B
+ 	------                  ------
+ 	 ~A                       A
+
+Mit diesem einfachen Regelsatz lässt sich nun die gesamte klassische
+Aussagenlogik aufbauen.
+
+Wir zeigen z. B. |- A v ~A  (TND)
+
+Dazu definieren wir erst:
+
+	A v B =df ~(~A & ~B)
+
+Nun der Beweis:
+
+    1	(1) ~A & ~~A          A
+	(2) ~(~A & ~~A)       1 ~I
+	(3) A v ~A            2 Def. v
+
+	qed.
+
+
+A.

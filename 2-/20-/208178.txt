@@ -1,0 +1,37 @@
+: > Geht es die ploetzlich nur noch um Messgenauigkeit?
+: Wieso ploetzlich?
+
+Bisher ging es um Ereignisse mit Nullws., die auftreten koennen, nicht
+darum, ob man sie messen kann.
+
+: Auf einer Skala ist nicht nur Null nie ablesbar, sondern ueberhaupt kein
+: Punkt, da jede Messung fehlerbehaftet ist.
+
+Zahlen ausserhalb der rationalen sind also physikalisch irrelevant?
+
+: Kein bischen. Du koenntest zum Beispiel akustische Signale im Computer 
+: generieren und diese dann von 10 verscheidenen Leuten analyieren lassen.
+: Du wirst 10 verschiedene Ergebnisse erhalten. Dennoch ist es genau EIN
+: Signal, das genau auf diese EINE Art und Weise erzeugt wurde und nicht
+: 10 Signale, die auf 10 verschiedene Arten und Weisen erzeugt wurden. Nun
+: ist die Realiaet in diesem einen Beispiel artifiziell, aber die Tatsache,
+: dass wir auf diese Art und Weise differierende Beobachtungen eindeutig
+: auf ein Beobachtungsproblem zurueckfuehren koennen, macht jede Annahme
+: von multipler Realitaet qua Occam ueberfluessig.
+
+Ziemlich artifiziell. Du kannst naemlich nicht behaupten, dass der
+Computer EIN Signal erzeugt, weil du es nie exakt messen kannst. Wieso
+also davon reden? Vielleicht erzeugt der Computer nach stochastischer
+Manier das Signal im Rahmen der Erzeugungsgenauigkeit. Dann fuehren
+wir "multiple Realitaeten" wieder ein.
+
+: > P(x) = 1/2, falls 0<=x<1, P(x)=0, falls x<0 und P(x)=1 falls x>=1. Das
+: > ist doch schon was.
+: Aehm... Du hast in Deinem Ereignisraum unendlich viele sichere Ereignisse
+: mit P(x)=1. Ich fuerchte, das musst Du nochmal ueberarbeiten.
+
+Was soll denn das wieder? Ereignisse muessen nicht disjunkt sein. Hast
+du deine eigene Definition vergessen?
+
+Schoene Gruesse,
+	Udo

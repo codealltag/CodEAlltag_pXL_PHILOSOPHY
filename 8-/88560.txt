@@ -1,0 +1,27 @@
+So jetzt ist es besser.
+
+Ausgangspunkt der verschiedenen axiomatischen Systeme der Modallogik ist
+üblicherweise das System K. Durch weitere Axiome die man zum System K
+hinzufügt erhält man dann u.a. die Systeme T, S4 und S5.
+
+Das System K besteht dabei aus den üblichen Axiomen der Aussagenlogik
++ Axiom K: [](p -> q) -> ([]p -> []q) 
++ Regel N: Wenn p ein Theorem in K ist, dann auch []p.
+
+Das System T: System K + Axiom T: []p -> p
+
+Das System S4: System T + Axiom 4: []p -> [][]p
+
+Das System S5: System T + Axiom 5: <>p -> []<>p
+
+
+Anmerkung: Jedes Theorem in S4 ist auch ein Theorem in S5 (!).
+
+Die Beziehung zwischen diesen Systemen lässt sich vielleicht recht
+prägnant so darstellen:
+
+	K c T c S4 c S5
+
+
+Gruß,
+Artur

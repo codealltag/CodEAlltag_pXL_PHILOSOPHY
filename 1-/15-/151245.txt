@@ -1,0 +1,29 @@
+wahr ist wahr _gdw_ wahr wahr ist.
+x ist x gdw x x ist                                <---------
+falsch ist  wahr _gdw_ wahr falsch ist.
+y ist x gdw x y ist
+falsch ist  falsch _gdw_ falsch falsch ist.
+y ist y gdw y y ist
+wahr ist  falsch _gdw_ falsch wahr ist.
+x ist y gdw y x ist                               <----------
+
+Nur die beiden markierten Zeilen sind jetzt wichtig.
+Die Verknüpfungen von oben setze ich jetzt einfach voraus.
+xxxx
+xyyx
+
+oder dann
+xxx  ---> x 
+yyx  ---> x
+dann:
+x = wahr 
+y = falsch
+
+xxx ---> wahr
+yyx ---> falsch
+
+folgt daraus jetzt mathematisch 0 = 1 ??????
+
+
+Gruss
+Vincent

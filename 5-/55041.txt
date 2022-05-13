@@ -1,0 +1,45 @@
+Hallo Jean,
+
+
+Und da gibt es (wenn ich überhaupt einen Wahrheitswert zuordnen kann)
+nur "wahr" oder "falsch"; nicht "manchmal wahr".
+
+
+Ja, und? Das ist einfach eine Konkretisierung.
+
+
+Die Goldbachsche Vermutung ("A") sagt aus, dass sich alle geraden
+Zahlen als Summe zweier Primzahlen geschrieben werden kann ("für alle
+geraden n gilt a(n)". 
+
+Die Aussage, die "für einen überschaubaren Bereich von Zahlen
+zutrifft" ist dabei *nicht* die Goldbachsche Vermutung ("A"), sondern
+die Aussage a(n).
+
+Die Aussagen A und a(n) unterscheiden sich voneinander! A kann wahr
+oder falsch sein; a(n) ist für jedes gerade n wahr oder falsch. Man
+kann formulieren "Für einen überschaubaren Bereich von geraden Zahlen
+n ist a(n) wahr", aber man kann nicht formulieren "für einen
+überschaubaren Bereich ist A wahr".
+
+Das habe ich schon mehrmals geschrieben, Du hast es immer wieder
+weggeschnitten und ignoriert.
+
+
+Und? Wird der Beweis unter Einbezug des Rotkehlchens dadurch *falsch*? 
+Und woher weit Du so sicher, dass die Sparmöglichkeit für *alle*
+Beweise mit Rotkehlchen zutrifft?
+
+
+Für den Satz a(n) gilt, dass er in einem überschaubaren Zahlenbereich
+zutrifft. Bei Satz A geht das nicht.
+
+
+Doch, natürlich. Ein Beweis mit formaler Logik ist ein anerkannter
+Beweis in der Mathematik. Da es sich bei (A-->Y-->X) ^ (A-->Z-->X) um
+einen formal-logischen Beweis handelt, reicht er als mathematischer
+Beweis aus.
+
+Viele Größe
+
+Volkmar

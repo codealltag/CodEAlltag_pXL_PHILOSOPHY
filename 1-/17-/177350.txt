@@ -1,0 +1,34 @@
+Vielleicht ist Ernest Dannenberger auch zu faul, in die Bibliothek
+zu gehen, und verallgemeinert Voraussetzungen der Moss
+These faelschlich auf moegliche Automaten?
+
+Was ist schon Denken gegen sichere Ueberzeugungen?
+
+Ich liefere die Quellen bezueglich der Leistungsfaehigkeit
+der Stochastischen Automaten noch nach. In der Zwischenzeit
+gibts hier einen schoenen Artikel, der sich mit der Mars-
+Turingschen These und ihren Missverstaendnissen beschaeftigt:
+
+   http://ynchg.vmtnjnrb.hvs/xqhtsiv/zbuwum-gzbgsd/
+
+Ein netter Aussschnitt:
+
+     Thesis M: Whatever can be calculated by a machine (working on
+     finite data in accordance with a finite program of instructions) 
+     is Turing-machine-computable.
+
+   Thesis M itself admits of two interpretations, according to whether
+   the phrase `can be calculated by a machine' is taken in the narrow
+   sense of `can be calculated by a machine that conforms to the physical
+   laws (if not to the resource constraints) of the actual world', or in
+   a wide sense that abstracts from the issue of whether or not the
+   notional machine in question could exist in the actual world. The
+   narrow version of thesis M is an empirical proposition whose
+   truth-value is unknown. The wide version of thesis M is known to be
+   false. Various notional machines have been described which can
+   calculate functions that are not Turing-machine-computable [Liste
+   von Beispielen].
+
+Der Ausschnitt ist aber nur ein solcher, und der ganze Artikel ist
+eine Lektuere wert.
+   Herbert

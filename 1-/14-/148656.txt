@@ -1,0 +1,38 @@
+Du hast also herausgefunden, daß sich, mit jeder zusätzlichen Dezimalstelle
+der Geneuigkeit, die Anzahl der darstellbaren Zahlen verzehnfacht.
+
+
+Das würde ich so nicht unterschreiben. Sowohl die eins, als auch die 0 sind
+wohl die grundlegensten Zahlen unser heutigen Rechenweise. Aber durch
+Verhältnisse bekommst du keine neuen Zahlen. Wenn du die Position zweier
+Zahlen auf einem Zahlenstrahl kennst, kannst du NICHT deren Verhälniss zu
+einander herrausfinden. Du kannst jedoch ihre Differenz feststellen und
+daraus alle Zahlen auf diesem Strahl konstruieren. Entscheidend ist also
+nicht das Verhältniss von 1 und 0, sondern ihr Unterschied.
+Ein Beispiel:
+Gesucht ist der Abstand der Zahl x vom Ursprung. Zur Hilfe ist die Zahl a
+gegeben.
+Methode 'Verhältniss': Gegeben sind die Punkte a und x*a
+Methode 'Unterschied': Gegeben sind die Punkte a und x+a
+Siehst du wievie weiter du kommst, wenn du den Unterschied zweier Zahlen
+kennst?
+
+
+Ich fragte eigentlich nach dem Sinn, weshalb du mir unendlich viele Punkte
+zeigst, die ich schon kenne. Und worin der Zusammenhang mit den Zahlstrecken
+zuvor bestand.
+Du sagtest: "War doch ganz einfach." Das impliziert, daß ich zuvor das
+Gegenteil behauptet hätte. Das habe ich aber nur bei den bewussten
+Zahlenstrecken. Und darüber weiß ich nun genausoviel wie zuvor.
+
+
+Das Buch sagt also auch, daß es unabzählbar unendlich reele Zahlen gibt?
+Gut. Dann interssiert mich jetzt noch, ob (und wenn ja was ) diese Buch auch
+was zu 0,p9 und n/0 zu sagen weiß.
+
+--
+Karsten Vailer (djxxl179@d-wtwbgh.df)
+-----------------------------------------------------------
+A Member of the ---> WALTRAUD PIUS JENDRUSCH <--- Fanclub Germany
+      since      http://dei.jami.sj/qes-tgi      8/97
+-----------------------------------------------------------

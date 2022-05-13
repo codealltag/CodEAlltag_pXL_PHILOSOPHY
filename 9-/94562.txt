@@ -1,0 +1,13 @@
+Lustigerweise lässt sich in NF definieren ("e" ist der
+Element-Operator):
+
+(a = b) =def. Ac((a e c) -> (b e c))
+
+Daraus lässt sich dann leicht ableiten, dass Ax(x=x).
+
+Was dir entgeht, ist dass die Mathematik nicht ohne Selbstidentität
+auskommt, und wohl auch, dass die Physik nicht ohne Mathematik auskommt.
+Ich vermute stark, dass "x kommt nicht ohne y aus" transitiv ist, und
+was das bedeutet, ist offensichtlich.
+
+Ingo.

@@ -1,0 +1,123 @@
+Keinesfalls. Aber was hier stellenweise geboten wird, ist albern.
+
+
+Man kann über das Schreiben von Programmen andere Schemata
+implementieren. Man kann z.B. ein analoges neuronales Netz auf einem
+diskreten Computer simulieren, denn eine solche Simulation stellt ein
+berechenbares Problem dar.
+
+
+Was ist denn ein "determinierter Computer" in diesem Sinne, bitte, den
+"das Gehirn" darstellt? Und natürlich kann simuliert werden, aber eben
+nur simuliert.
+
+
+Nehmen wir mal ein einfaches Beispiel: das allgemeine Dreikörperproblem.
+Das Problem der Berechnung eines zukünftigen Zustandes eines
+Dreikörpersystems in der Newtonschen Physik stellt bekanntlich kein
+berechenbares Problem dar. Das ist der Fall, weil es sich bei diesem
+Problem um die Vorhersage eines rückgekoppelten dynamischen (nicht
+diskreten) Systems handelt.
+
+Beim ZNS handelt es sich ebenfalls um ein rückgekoppeltes dynamisches
+System, dessen Vorhersage ebenfalls kein berechenbares Problem
+darstellt.
+
+Die Frage, an der sich vermutlich der Erfolg der KI auf diskreten
+Rechnern entscheiden wird, ist, ob eine solche Simulation hinreichend für
+die Implementierung einer KI sein kann. Falls nicht, ist eine KI nur mit
+massiv rückgekoppelten Analogrechnern (wie eben auch dem ZNS) möglich.
+
+Ich sehe das als eine der ungeklärten Hauptfragen zur Erzeugung einer KI
+an. Sie sollte geklärt werden, bevor wir weiter mit diskreten Rechnern
+versuchen KI zu erzeugen.
+
+Zur Erläuterung für die anwesenden wenig mit solcher Mathematik
+befassten Leser:
+
+Bei einer Simulation im obigen Sinne handelt es sich nicht um ein
+Näherungsverfahren. Ein Näherungsverfahren ist eine Iteration, deren
+Ergebnis eine Folge ist, die gegen das zu berechnende Ergebnis
+konvergiert.
+
+Ein Simulationsverfahren im obigen Sinne ergibt dieses gerade nicht.
+Ganz im Gegenteil, ein Simulationsverfahren ergibt eine Folge, die vom
+zu berechnenden Ergebnis divergiert, wenn man das Ergebnis weiter in der
+Zukunft sucht.
+
+
+Natürlich kann man das. Ich betrachte hier das ZNS als Computer. Du
+kannst das gerne als Analogie sehen, ich sehe es als Betrachtungsmodell
+des ZNS.
+
+
+Genau.
+
+
+Von wegen. Dann ist Dir die Geschichte der KI wohl nicht bekannt. Viele
+Leute, die daran arbeiteten, glaubten das wirklich. Oder willst Du sie
+alle als Lügner und Scharlatane darstellen?
+
+Ich denke, sie irrten.
+
+
+Das sag ich doch: die rein auf Formallogik aufbauende KI ist
+gescheitert. Das wird derzeit mit "tollen" Forschungsergebnissen von
+"Deep Blue" bis "Watson" überspielt. Es ist nämlich keinesfalls so, dass
+man für das Lösen von Problemen, die bereits hinreichend beschrieben
+sind, unbedingt Intelligenz benötigte. Der Trick liegt darin, entweder
+ein berechenbares Problem vorliegen zu haben, oder aber ein
+entsprechendes berechenbares Problem als Näherungsverfahren oder als
+Simulation zu finden, und das zu implementieren. Dann "kann die Maschine
+das Problem lösen, besser als der Mensch".
+
+Einen alten Scheiss kann sie. Sie kann das berechnen, was vorher kreiert
+wurde.
+
+Von Menschen.
+
+
+So sieht's aus. Das ist eine notwendige, keinesfalls eine hinreichende
+Bedingung.
+
+
+Features wie die Rechtsschreibkorrektur oder die Serienbrieffunktion.
+
+
+Diese Features sind mit Algorithmen implementiert. Algorithmen sind
+Funktionen. Es gibt in der genannten Richtung innerhalb der
+Softwarearchitektur eine funktionale (rechtseindeutige) Abbildung der
+konkreten Implementierung auf die ausführende Hardware: Diese
+Algorithmen sind mithilfe von Algorithmen in der Laufzeitumgebung
+implementiert, und sie nutzen Funktionen aus Bibliotheken, die die
+IO-Subsysteme der Hardware nutzen.
+
+Die Abbildungen der Features "Rechtsschreibkorrektur" und
+"Serienbrieffunktion" sind also surjektiv zu den technischen
+Komponenten, aus denen ein PC besteht, allerdings eben nicht injektiv.
+
+Eine Identitätstheorie behauptet jedoch die bedeutungserhaltende
+bijektive Abbildung von (abstrakten) physischen Komponenten auf
+(abstrakte) Features. Sie behauptet einen Isomorphismus. Die Abbildung
+ist schon zwischen Textverarbeitungsfeatures und PC-Komponenten nicht
+bijektiv, weil sie nicht injektiv ist.
+
+Und bei einem PC und einer Textverarbeitung reden wir von einem
+Software/Hardware-Verhältnis, das wir technisch und funktional genau
+durchschauen, und das unter Vermeidung von nicht vorhersagbaren
+rückgekoppelten Beziehungen konstruiert wurde.
+
+Sobald man solche Rückkopplungen hat (und die herkömmliche
+Software-Kunst ist es doch gerade, diese nach Möglichkeit zu vermeiden),
+wird das System eben nicht mehr beherrschbar (man denke an die ganzen
+Parallelisierungsprobleme, die solche Schwierigkeiten machen,
+beispielsweise an das Problem des Thrashing).
+
+
+Das kann ich unterschreiben.
+
+Viele Grüsse,
+VB.
+-- 
+Wenn Du für eine Leistung nichts bezahlst,
+bist Du nicht der Kunde, sondern die Ware.

@@ -1,0 +1,47 @@
+Grundsätzlich ist zu unterscheiden zwischen der Folgerichtigkeit
+(engl. "validity") und der Beweiskräftigkeit (engl. "soundness") eines
+Arguments.
+
+- Ein Argument ist folgerichtig ("valid") genau dann, wenn die
+Konklusion regelgerecht, d.h. den geltenden Schlussfolgerungsregeln
+gemäss, aus den Prämissen hergeleitet ist, sodass gilt:
+Wenn alle Prämissen wahr sind, dann muss auch die Konklusion wahr
+sein.
+
+- Ein Argument ist beweiskräftig ("sound") genau dann, wenn es
+folgerichtig ist und all seine Prämissen wahr sind.
+
+
+Wenn ein Argument nachweislich nicht folgerichtig, d.i. folgewidrig
+ist, dann kann es man es allein aufgrund dieser Tatsache verwerfen.
+Doch wenn es nachweislich folgerichtig ist, dann besteht die einzige
+Möglichkeit, es anzugreifen darin, die Wahrheit der Prämissen in
+Abrede zu stellen und damit die Beweiskräftigkeit des Arguments nicht
+anzuerkennen.
+
+Folgerichtige Argumente zu ersinnen, ist für eine logisch kompetente
+Person keine sonderlich schwierige Aufgabe. Dagegen ist es oft
+äusserst schwierig, stichhaltige Begründungen oder Belege zugunsten
+der Annahme der Wahrheit der Prämissen vorzubringen.
+Doch selbst wenn einem das erfolgreich gelingt, so bedeutet das
+natürlich nicht, dass jene Begründungen von allen akzeptiert werden.
+Es wird, vielleicht von rein logisch-mathematischen Argumenten
+abgesehen, immer welche geben, die sich aus welchen rationalen oder
+irrationalen Gründen auch immer weigern, folgerichtigen Argumenten
+auch die Beweiskräftigkeit zuzuerkennen.
+
+Bestes Beispiel ist die Evolutionstheorie: Die zahlreichen
+(empiriegestützten) Argumente der Biologen zugunsten der Hypothese,
+dass Evolution tatsächlich stattfindet, könnten in wissenschaftlicher
+Hinsicht nicht beweiskräftiger sein, doch das interessiert die
+religiösen Anti-Evolutionisten, d.i. die Kreationisten, überhaupt
+nicht, da sie aus ideologischen Motiven heraus von vornherein
+beschlossen haben, die Beweiskräftigkeit der evolutionsbiologischen
+Argumente auf keinen Fall anzuerkennen.
+
+Mit Leuten zu diskutieren, die von vornherein nicht gewillt sind,
+Argumente für beweiskräftig zu erachten, deren Konklusionen ihren
+ideologischen Vorurteilen widersprechen, ist leider zwecklos.
+
+Gruss
+ACHIM

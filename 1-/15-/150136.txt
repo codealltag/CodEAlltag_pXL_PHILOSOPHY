@@ -1,0 +1,24 @@
+Wie waere z.B. unter der Voraussetzung der Konsistenz von PA die
+konsistente Theorie T=PA+(non con_{PA})=PA+bew(falsum) zu interpretieren?
+Oder was haelt man davon, dass es konsistente Theorien gibt, die durch
+T+con_T inkonsistent werden? Wie sieht hier so eine Interpretation aus?
+Das kann doch nur bedeuten, dass selbst der Begriff der Konsistenz unter-
+schiedliche Bedeutung haben kann, naemlich nur hinsichtlich der Moeglichkeit
+innerhalb eines Systems nach Regeln Zeichenreihen zu bilden, so dass nicht
+a und non a herauskommt.
+
+Oder was haelt man davon, dass die Konsistenz von PA in PA nicht zu beweisen 
+ist (man braucht eine staerkere Theorie, deren Konsistenz aber ebenfalls nicht
+zu beweisen ist), man aber dennoch sagt, dass es, falls PA konsistent ist, 
+es ein Modell gaebe?
+Oder anders, was kann man davon halten, wenn man sagte, die natuerlichen
+Zahlen seien ein Modell fuer PA und damit dann auch gleich sagt, dass PA
+konsistent sei? Man /erzwingt/ Entitaeten, weil sie schoen /passen/, damit
+das ganze in der Sprache auch nicht sinnlos werde, anstatt sich einfach da-
+rauf zu beschraenken, nur den Gebrauch der Zeichen zu sehen. Und das ist
+keine Phrase, sondern ein Festhalten an einer gewissen Realitaet, die sich
+nicht um metaphysische Objekte oder irgendwelche Geister scherrt.
+
+
+Gruss Jürgen
+--

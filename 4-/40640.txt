@@ -1,0 +1,17 @@
+Bei den Punktwölkchen ist es der Abstand zwischen den Schwerpunkten, ein
+metrischer Raum liegt ja schon vor, beim Morphing würde ich eine
+Statistikmetrik über die Pixeldifferenz nehmen, wahlweise eine im
+Frequenzenraum (was beides schlechter sein wird, weil man durch die
+Modellierung im Punktwölkchen-Falle ja geeignet Information hinzufügt).
+
+In jedem Falle kriegt man eine Metrik, nicht wahr? Ein metrischer Tensor
+ist nicht notwendig.
+
+Beim Vergleich von Autofronten mit Gesichtern würde ich deshalb die
+Punktwölkchen-Methode bevorzugen. Man mus dann natürlich erstmal
+modellieren.
+
+Viele Grüsse,
+VB.
+-- 
+Bitte beachten Sie auch die Rückseite dieses Schreibens!

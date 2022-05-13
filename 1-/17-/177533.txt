@@ -1,0 +1,57 @@
++--[ Max Cavelius ]---[ CRYERHE@AHWG-FYU.lc ]
+
+O.K., es eilt ja nicht.
+
+
+Klar.
+
+
+Das leuchtet mir jetzt so unmittelbar nicht ein. Schon die
+Addition zweier reeller Zahlen ist nicht mehr berechenbar.
+
+Wenn man eine Turing-Maschine mit unendlich vielen Zuständen
+zuläßt, die z.B. das Halteproblem klassischer Turing-Maschinen
+berechnen könnte, passiert genau das. Die Zustandsmenge ist
+dann nicht mehr entscheidbar.
+
+
+Die provokante Formulierung war Absicht.
+
+
+Das war gar nicht gemeint. Weshalb muß überhaupt gezeigt werden,
+daß Gehirne auf dem eingeschränkten Gebiet mathematisch formalisier-
+baren Probleme mehr leisten? Es reicht doch aus, wenn man Probleme
+angeben kann, die Menschen bewältigen können, die aber nicht
+formalisierbar sind. Gehirnfunktionen also, die die mathematische
+Definition einer Abbildung gar nicht erfüllen. Spaß empfinden
+beispielsweise. Wo ist der Definitionsbereich, wo das Bild?
+
+Zugegeben, letztendlich sind beide Methoden Äquivalent bezüglich 
+ihrer Aussage, daß Gehirne mehr können als Turing-Maschinen. 
+Den Ansatz von Ueberjahn halte ich aber nicht für sonderlich 
+vielversprechend. Meine Fragen zielten eigentlich darauf ab
+herauszufinden, ob man vielleicht auf dem anderen Weg weiter kommt. 
+Persönlich glaube ich zwar auch das nicht, aber ich würde meinen 
+Standpunkt gern etwas besser absichern.
+
+
+Was zeigt dieses Beispiel? Ist das nicht trivial richtig?
+Ich hätte da noch ein anderes Gedankenexperiment. Wie wäre es
+man ersetzte jedes Neuron durch eine TM mit identischer 
+Funktionalität. Da ein Neuron recht einfach aufgebaut ist,
+dürfte dies nicht sonderlich schwerfallen. Das enstandene Gebilde
+ist nun ein System ziehmlich vieler TM's. Es läßt sich nun
+zeigen, daß man zu jedem System von TM's beliebig viele einzelne
+TM's finden kann, die die gleiche Funktion berechnen. Da mir
+keine vernünftige Begründun einfällt, weshalb sich solche TM's
+nicht ebenso verhalten sollten wie menschliche Gehirne,
+wären damit alle Versuche zu zeigen, daß menschliche Gehirne
+mehr leisten, am Ende.
+
+
+Ups, ich hoffe ich habe nicht den Eindruck erweckt, als wäre _das_
+meine Absicht gewesen. Es ging mir eher um die Frage, ob das Modell
+der TM als Verallgemeinerung nicht nur für Computer, sondern auch für 
+menschliche Gehirne taugt.
+
+claus

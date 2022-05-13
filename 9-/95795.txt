@@ -1,0 +1,34 @@
+Sellmayr labert einfach zuviel. :-/
+
+	"Tertium non datur gilt nicht."
+
+ist korrekt. A b e r reductio ad absurdum gilt schon, zumindest folgende
+Form des reductio ad absurdum:
+
+	 [A]   (Annahme)
+	  :
+	 Wid.
+	-----
+	 ~A
+
+Ebenso ist die "doppelte Negation" natürlich nicht /unsinnig/ in der
+intuitionistischen Logik: Wiederum gilt aber nur "eine Richtung":
+
+	  A
+	-----
+	 ~~A
+
+
+A.
+
+
+P.S.
+Letzteres lässt sich ja direkt aus der oben angeführten Schlussregel RAA
+ableiten:
+
+	1. A      Prämisse
+	2. | ~A   Annahme
+	3. | Wid  (aus 1 u. 2)
+	4. ~~A    RAA
+
+	D. h.  A |- ~~A

@@ -1,0 +1,16 @@
+Hallo,
+
+Diese Rechnungen sind zwar sehr Beeindrukend, aber
+ich sehe da ein grundsätzliches Problem:
+Wenn man  Sqrt(2) kommt *immer* das selbe raus !
+D.h. wenn man es einmal als Zufallsgenerator verwendet,
+und dann nochenmal erhält man doch die selbe (zufallige)
+Zahlenfolge, und das immer wieder.
+Selbst wenn man andere Zahlen (sqrt(3)...) verwendet, könnte
+jemand durch Analyse der ersten n (n=seht gross??) Zahlen die
+zugrundeliegende Zahl Herausfinden ("ach, das ist die typische
+Sequenz von sqrt(17)") und dann die weiteren "Zufallszahlen" des
+Generators vorhersagen.
+
+Gruss
+Gert

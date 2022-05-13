@@ -1,0 +1,46 @@
+Im Artikel <NGH.3264040582200l5q78181p@cbxn.ktn.yptg.pm>,
+
+keinesfalls. Gaebe es z.B. keine anderen Himmelskoerper als die Erde, muesste
+die Kugel mit lediglich 11,2 km/s weggeschleudert werden, und sie wurde niemals
+zur Erde zurueckkehren, sondern sich immer weiter entfernen. Jeder Mitarbeiter
+der FBBH weiss das.
+
+
+nein, das werden sie nicht. Das kannst du in jedem Physikbuch nachlesen.
+
+
+hat auch keiner gesagt.
+
+
+nein, das werden sie nicht.
+Fuer jede Masse m im Gravitationsfeld einer anderen Masse M gilt fuer die
+potentielle Energie E_pot:
+E_pot = - G * M * m / r
+wobei G die Gravitationskonstante ist und r die Entfernung zwischen m und M
+Wenn r unendlich gross wird, dann wird E_pot = 0.
+Nehmen wir nun an, die Kugel mit der Masse m fliegt von der Anfangsentfernung
+r0 von M mit der Anfangsgeschwindigkeit v0 vom M weg. Dann gilt fuer die
+Gesamtenergie E der Kugel:
+E = E_pot + E_kin = - G * M * m / r0 + 1/2 m v0^2
+Ist E kleiner als Null, dann wird in irgendeiner Entfernung, in der E_pot
+gleich E ist, E_kin gleich Null, und die Kugel fliegt nicht weiter.
+Ist E hingegen groesser als Null, dann folgt aus dem Energieerhaltungssatz,
+dass E_kin nicht Null werden kann, da E_pot stets kleiner oder gleich Null ist.
+Die Kugel haelt also niemals an, sondern fliegt immer weiter.
+Im Fall eines Starts der Kugel von der Erdoberflaeche ist die
+Anfangsgeschwindigkeit v0, bei der E_kin so gross wird, dass E groesser als
+Null ist, 11,2 km/s. 
+Wenn du mir das nicht glaubst, du findest das in jedem Physik-Buch.
+
+
+eben nicht.
+
+
+weil du noch nie ein Physik-Buch gelesen hast.
+
+
+nein, aber ich glaube, das war bei dir zu wenig Lektuere von Physik-Buchern,
+die bei dir einen Realitaetsverlust herbeigefuehrt haben.
+
+
+Maximilian

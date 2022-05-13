@@ -1,0 +1,93 @@
+Reinhard Nägerl in 6i868mvr.23334533@dpnw.bqf.urd.of :
+
+
+Dann ist auch "die Menge unterschiedlicher reeller Zahlen" eine
+unzulässige Spezifikation, denn es gibt viele Mengen, die aus
+paarweise unterschiedlichen Zahlen aus R bestehen.
+
+
+Wenn ich die Intervalle dadurch erzeuge, dass ich das Einheits-
+intervall zerteile, dann ist die Diskussion irrelevant, ob man
+solche Intervalle als PAARWEISE disjunkt oder (wechselseitig)
+disjunkt bezeichnen soll. "Paarweise disjunkt" halte ich für eher
+irreführend, da es den von Karlheinz Wellinger präsentierten Fall
+disjunkter Paare suggerieren kann:
+
+   "Die Intervalle [r-1,r[ und [r,r+1[ sind disjunkt und lassen
+   sich nicht abzaehlen."
+
+
+Für welche Menge der reellen Zahlen hat Eppers denn gezeigt, dass
+sie überabzählbar ist? Dass dies nicht für JEDE gilt, wissen wir.
+
+Um das Konzept "überabzählbar" zu widerlegen, genügt eine einzige
+überabzählbare Menge von Grenzpunkten bzw. Intervallen. Wenn es
+DIE Menge der reellen Zahlen (als Vereinigungsmenge aller endlichen
+und unendlichen Mengen von reellen Zahlen) gibt, dann gibt es auch
+DIE Menge der Grenzpunkte, die das Einheitsintervall in echte
+Intervalle aufteilt.
+
+Je mehr Grenzpunkte, desto mehr Intervalle. Die Zusammenführung
+einer Aufteilung in n (untereinander) disjunkte Intervalle
+mit einer anderen Aufteilung in m (untereinander) disjunkte
+Intervalle ergibt eine Aufteilung in bis zu n+m-1 Intervalle. Das
+Zusammenführen von z.B.
+
+  M1:  { [0, 0.5], [0.5, 1.0] }
+  M2:  { [0, 0.4], [0.4, 0.6], [0.6, 1.0] }
+
+ergibt eine Menge mit 4 Intervallen:
+
+  M3:  { [0, 0.4], [0.4, 0.5], [0.5, 0.6], [0.6, 1.0] }
+
+Wenn wir solche Intervall-Mengen je durch die Menge ihrer oberen
+Grenzpunkte darstellen, entspricht der Zusammenführung solcher
+Intervall-Mengen die Vereinigungsmenge dieser Grenzpunkte. Obige
+drei Intervallmengen lassen sich dann so darstellen:
+
+  M1 = {0.5, 1.0}
+  M2 = {0.4, 0,6, 1.0}
+  M3 = {0.4, 0.5, 0,6, 1.0} = M1 u M2
+
+
+Was hindert uns aber daran, die reellen Zahlen von Cantors
+Diagonalbeweis-Liste als obere Grenzpunkte von Intervallen
+aufzufassen? Wenn die Intervalle abzählbar wären, müsste eine
+abzählbare Liste doch auf diese Weise möglich sein.
+
+
+Wenn wir Eickhold "bestimmte und damit beschriebene" Menge als
+gegeben akzeptieren, dann müssen wir auch all deren Elemente als
+gegeben akzeptieren. Und da die Elemente je aus einer Ziffernfolge
+bestehen, lassen sie sich ordnen. Also: insofern die Elemente
+(d.h. reelle Zahlen bzw. Grenzpunke zwischen Intervallen) gegeben
+sind, sind auch die disjunkten Intervalle zwischen den Elementen
+gegeben. (Und insofern die Elemente nicht gegeben sind, ist die
+Frage nach Abzählbarkeit dieser Elemente sinnlos.)
+
+Die zwei Ziffernfolgen bzw. Elemente
+
+  14956457064057687793231235555...
+  14956457064057687793231237777...
+
+repräsentieren ein Intervall mit der "Länge"
+
+  00000000000000000000000002222...
+
+Weitere unterschiedliche Elemente zwischen a) und b) teilen das
+Intervall und erhöhen somit die Anzahl der Intervalle. Das Element
+
+  14956457064057687793231236666...
+
+verkürzt obiges Intervall auf
+
+    00000000000000000000000001111...
+
+und erzeugt ein neues Intevall derselben "Länge".
+
+In dem Masse, wie weitere Grenzpunkte (d.h. reele Zahlen) zwischen
+a) und b) gegeben sind, sind auch entsprechende Intervalle gegeben.
+
+
+Gruss, Meinhard
+http://rzparcn.omi.gl/vywbxlns/hcytry3.zbfz#osquuxsvd

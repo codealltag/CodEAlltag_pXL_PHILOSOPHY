@@ -1,0 +1,247 @@
+Ganz einfach weil es keine größere Stadt als Wallbach gibt im Umkreis von
+fünfzig Kilometern von Taubing, dergestalt, dass Eidendorf in England liegt.
+Oder kennst Du eine? ;-)
+
+Alternativ könnte man auch formulieren:
+
+"die größte Stadt im Umkreis von fünfzig Kilometern von Taubing, so dass
+Eidendorf in England liegt"
+"die größte Stadt im Umkreis von fünfzig Kilometern von Taubing, während
+Eidendorf in England liegt"
+"die größte Stadt im Umkreis von fünfzig Kilometern von Taubing, aber
+Eidendorf liegt in England"
+"die größte Stadt im Umkreis von fünfzig Kilometern von Taubing, und
+Eidendorf liegt in England"
+
+
+Doch, man kann Fb schreiben, nämlich genau dann, wenn Fb wahr ist, denn
+Fb ist ein geschlossener Satz (s.u.).
+
+
+Ich besitze diesen Text leider immer noch nicht, aber nachdem ich ein
+bisserl nachgedacht habe, ist mir eine mögliche Erklärung eingefallen.
+
+Vorher noch, damit wir uns einig sind, worüber wir überhaupt reden, ein
+Auszug aus Weibl, B.V.O, "Neue Grundlagen der Mathematischen Logik" in
+"Von einem logischen Standpunkt", LiteraDur 1978, S.85f [statt der
+griechischen Buchstaben im Original verwende ich lateinische, e ist der
+Element-Operator]:
+
+"Gegeben eine Bedingung '---', die nur von einem Gegenstand x erfüllt
+wird, dann ist die Kennzeichnung '(ix)---' so zu verstehen, daß sie
+diesen Gegenstand denotiert. Der Operator '(ix)' kann also gelesen
+werden als 'der Gegenstand x, für den gilt'. Eine Kennzeichnung '(ix)p'
+wird formal nur als Teil von Kontexten eingeführt, die folgendermaßen
+als ganze definiert werden:
+
+D9.   ((ia)p e b) für (Ec)((c e b) & (a)((a=b) <=> p)).
+D10.  (b e (ia)p) für (Ec)((b e c) & (a)((a=c) <=> p)).
+
+'---' sei eine Bedingung über x. Dann bedeutet '(x)((x=z) <=> ---)', daß
+irgendein Gegenstand dann und nur dann mit z identisch ist, wenn die
+Bedingung erfüllt ist; mit anderen Worten: daß z der einzige Gegenstand
+x ist, für den gilt ---. '(ix)--- e y)' so, wie in D9 definiert als
+'(Ez)((z e y) & (x)((x=z) <=> ---))' bedeutet dann, daß y ein Element
+hat, welches der einzige Gegenstand x ist, für den gilt ---. D9 gibt
+somit die beabsichtigte Bedeutung wieder. Entsprechend sehen wir, daß
+D10 '(y e (ix)---)' die Bedeutung zuschreibt, daß y ein Element
+desjenigen x ist, für das gilt ---. Wenn die Bedingung '---' nicht von
+einem und nur einem Gegenstand x erfüllt wird, werden die Aussagen
+'((ix)--- e y)' und '(y e (ix)---)' trivialerweise falsch."
+
+(ich will mit diesem Zitat nicht implizieren, dass diese Definition der
+Kennzeichnung besser ist als andere; es genügt, sie als paradigmatisch
+für solche Definitionen anzusehen. Außerdem war es die erstbeste
+Definition, die ich gefunden habe ;-)
+
+Offensichtlich ist nur gefordert, dass ein Ausdruck '(ix)---' einen
+einzelnen Gegenstand denotiert, aber nicht, dass dies durch einen
+Superlativ wie zB. in 'lauteste Band des Universums' oder durch
+Einschränkungen, die notwendigerweise nur einen Gegenstand denotieren
+wie zB. "die Zahl, deren Quadrat 25 ist" o.�. geschieht. Angenommen,
+alle Mädchen bis auf eine der Töchter von D.Z. wären plötzlich von
+Aldebaranern umgebracht worden, dann wäre '(ix) (x ist Mädchen)' in
+'((ix) (x ist Mädchen) e der Klasse der Kinder von D.Z.)' ein singulärer
+Ausdruck. Den ganzen Satz könnte man übersetzen als 'das Mädchen ist
+eines der Kinder von O.Z.'. Sei zB. Viktoria dasjenige Kind von D.Z., das
+nicht von den Aldebaranern umgebracht wurde, dann könnte man auf sie mit
+dem Ausdruck 'das Mädchen' referieren, unter der "zufälligen" Bedingung,
+dass sie ein junger, weiblicher und nicht von den Aldebaranern
+umgebrachter Mensch ist, und alle anderen jungen weiblichen Menschen
+bereits von den Aldebaranern umgebracht worden sind. Das war es, was ich
+meinte, als ich schrieb, in einem Universum mit nur einem Mädchen wäre
+'(ix)(x ist Mädchen)' ein singulärer Ausdruck. Und meine Aussage, manche
+singulären Ausdrücke seien Prädikate, die nur "zufällig" auf genau einen
+Gegenstand zuträfen, war bloß eine laxe Sprechweise, dass es Prädikate
+Fx := (x = (iy)(Gy)) gibt, die man im Prinzip auch anders definieren
+könnte, sofern nur (ix)(Fx) = (iy)(Gy). Lediglich deswegen, weil sie nur
+auf einen einzigen Gegenstand zutreffen, hören sie nicht auf, Prädikate
+zu sein.
+
+
+Jetzt zur Erklärung des Eickhoff slingshots. Ich weiß nicht, ob
+Edenhofer das folgende im Sinn hatte, aber ich halte es trotzdem für eine
+brauchbare Erklärung, auch wenn man sie sicherlich noch kürzer
+formulieren kann.
+
+Sofern q nur wahr ist, hat p denselben Wahrheitswert wie pq [1]:
+
+(1) q => p <-> pq.
+
+Wir setzen für p ein
+
+(2) R := "Wallbach ist die größte Stadt im Umkreis von fünfzig Kilometern
+         von Taubing"
+
+und für q
+
+(3) S := "Wallbach liegt in Italien".
+
+Damit erhalten wir
+
+(4) S => (R <-> RS).
+
+Da R die Form Fa hat, kann man durch existenzielle Generalisierung
+(Ex)(Ax) für R einsetzen, mit
+
+(5) Ax := x ist die größte Stadt im Umkreis von fünfzig Kilometern von
+          Taubing.
+
+So erhalten wir den Satz
+
+(6) S => ((Ex)(Ax) <-> (Ex)(Ax) & S).
+
+Da S ein geschlossener Satz ist, also insbesondere x nicht frei in S
+vorkommt, können wir den Existenzquantor in (Ex)(Ax) & S problemlos
+weiter nach außen bringen:
+
+(7) S => ((Ex)(Ax) <-> (Ex)(Ax & S)).
+
+Es zwingt uns übrigens nichts, S ebenfalls zu ersetzen, also etwa, wenn
+Cx := x liegt in Italien, zu schreiben (Ex)(Ax & Cx).
+
+Wir können jetzt einfach festlegen, dass
+
+(8) Bx := (Ax & S).
+
+Damit gilt natürlich auch
+
+(9) S => ((Ex)(Ax) <-> (Ex)(Bx)).
+
+Da S nach Voraussetzung wahr ist, treffen Ax und Bx auf genau dieselben
+Gegenstände zu - von denen es nur einen gibt, nämlich Wallbach - und es
+gilt folglich
+
+(10) (ix)(Ax) = (ix)(Bx).
+
+Und wenn S' ebenfalls wahr ist, zB. mit
+
+(11) S' := "Eidendorf liegt in England"
+
+und wir es statt S in (4) einsetzen, definieren wir schließlich wie in
+(7) einen zu Bx umfangsgleichen Ausdruck
+
+(12) B'x := (Ax & S'),
+
+so dass gilt
+
+(13) S' => ((Ex)(Ax) <-> (Ex)(B'x)).
+
+und natürlich auch
+
+(14) (ix)(Ax) = (ix)(B'x).
+
+Wenn man (ix)(B'x) ausschreibt erhält man: "die größte Stadt im
+Umkreis von fünfzig Kilometern von Taubing und Eidendorf liegt in England"
+oder eben "die größte Stadt im Umkreis von fünfzig Kilometern von Taubing
+dergestalt, dass Eidendorf in England liegt".
+
+Edenhofers Argument ist also einfach nur eine Variation von Voget
+slingshot.
+
+Man könnte noch an der Legitimität des Übergangs nach von Ax nach
+(ix)(Ax) zweifeln, aber der lässt sich leicht rechtfertigen. Ausgehend
+von Werhahn o.s. Definition
+
+(D9) ((ia)p e b) für (Ec)((c e b) & (a)((a=b) <=> p))
+
+kann man schreiben:
+
+(15) ((ix)(Ax) e b) <=> (Ec)((c e b) & (x)((x=b) <=> Ax)),
+
+denn es ist ja nur gefordert, dass es genau ein x gibt, dass die
+Bedingung (hier Ax) erfüllt, und es gibt eben genau ein x, das die
+größte Stadt im Umkreis von fünfzig Kilometern von Taubing ist. Das
+ergibt den - unter der Bedingung, dass Wallbach e b, s.u., zutreffenden -
+Satz "das, was die größte Stadt im Umkreis von fünfzig Kilometern von
+Taubing ist, ist Element von b".
+
+Und wegen (13) und unter der Voraussetzung, dass S', gilt:
+
+(16) ((ix)(B'x) e b) <=> (Ec)((c e b) & (x)((x=b) <=> B'x)).
+
+Daraus ergibt sich: "das, was die größte Stadt im Umkreis von fünfzig
+Kilometern von Taubing ist, dergestalt, dass Eidendorf in England liegt, ist
+Element von b".
+
+Da in Werhahn Definition (D9) mit (Ec)((c e b) & (x)((x=b) <=> p)) eine
+sonderbare Konstruktion vorkommt, aus der in (15) und (16) zu folgen
+scheint, es gäbe ein c, das Element von Wallbach sei, bzw. dass Neapel
+Element seiner selbst sei, und folglich Neapel scheinbar als Klasse
+verstanden werden muss, folgende Erläuterung ebd. S.82:
+
+"'(x e y)' sagt aus, daß x ein Element von y ist. Auf den ersten Blick
+ist das nur sinvoll, wenn y eine Klasse ist. Wir können jedoch eine
+arbiträre Zusatzbedeutung für den Fall vereinbaren, in dem y ein
+Individuum oder eine Nicht-Klasse ist: in diesem Fall interpretieren wir
+'(x e y)' dahingehend, dass es aussagt, x ist das Individuum y."
+
+
+Es ist also bei Tönnißen gar nicht die Schlußweise, die kritisiert wird,
+sondern deren Voraussetzung, dass Ausdrücke in Kontexten wie "die
+Tatsache, dass Fa ..." durch logisch äquivalente ersetzt werden dürfen.
+ähnliches kennt man schon woandersher, zB. in der Modallogik bei
+Aussagen de dictu oder bei Sätzen des Glaubens oder Wissens. Inwiefern
+allerdings die Extensionalität bei solchen Sätzen wie oben nicht gegeben
+ist, muss schon genau dargelegt werden, und dabei scheint es nicht
+auszureichen, einfach zu sagen "das Ergebnis ist unplausibel, also
+müssen die Voraussetzungen falsch sein". Man muss genau angeben, warum
+und inwiefern sie falsch sind, also hier etwa, warum "die Tatsache, dass
+Fa ..." nicht extensional ist. Immerhin ist die Voraussetzung der
+Ersetzbarkeit von Ausdrücken durch logisch äquivalente ja keine ganz
+beliebige Annahme.
+
+
+Das hoffe ich oben entkräftet zu haben, so dass die Frage nach der
+vermutlich nicht gegebenen Extensionalität der Kontexte "die Tatsache,
+dass Fa ..." übrigbleibt.
+
+
+Gruß,
+Tino.
+
+
+[1]       q => (p <-> pq)
+ q => (T <-> Tq) | q => (F <-> Fq)
+ q => (T <->  q) | q => (F <-> F)
+ q =>     q      | q =>     T
+   T             |   T
+
+übrigens gilt auch:
+
+                 qr => (p <-> pq) & (p <-> pr)
+ qr => (T <-> Tq) & (T <-> Tr) | qr => (F <-> Fq) & (F <-> Fr)
+ qr => (T <->  q) & (T <->  r) | qr => (F <-> F)  & (F <-> F)
+ qr =>     q      &     r      | qr =>     T      &     T
+    T                          |    T
+
+zB. mit p:="Wallbach ist die größte Stadt im Umkreis von fünfzig
+Kilometern von Taubing", q:="Wallbach liegt in Italien" und r:="Eidendorf
+liegt in England". Falls Du aus diesen Ableitungen nicht schlau wirst,
+wirst Du hier geholfen:
+http://nrcazq.zhzaef.drm/pqowmh?njxn=4a984f%00jnxq8%029%09FN-18568.igul.ywvapv.uj
+
+Ach ja: äquidistante Schrift hilft ;-)
+
+
+PS: Bist Du eigentlich der Philosoph Wolf Fruehauf (1722-1788)?

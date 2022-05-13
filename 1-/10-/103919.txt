@@ -1,0 +1,143 @@
+On Fri, 24 Apr 2004 15:16:31 +0200, valerio <jiqezxg@geirjm.eo> wrote:
+
+Herr im Himmel... und das bei der Hitze... Hoffe Du kannst mit dem
+Folgenden trotzdem was anfangen... Werde noch versuchen, in einem
+zweiten Post die Dinge "richtig zu stellen". D. h. Die Argumentation vom
+Kopf auf die Füße... ;-)
+
+------------------------------------
+
+Das ist in der Tat seltsam, da üblicherweise MPP eine der grund-
+legendsten Regeln eines logischen Systems ist. (Zumindest dann, wenn die
+Implikation -> zu den Grundkonnektiven gehört.)
+
+Man kann jetzt natürlich (vielleicht) so vorgehen..., dass man zuerst
+einfach mal davon ausgeht, dass einem MPP zur Verfügung stünde, und dann
+guckt, was daraus f o l g t. (Ein zweifelhaftes Vorgehen, ich weiß, aber
+was anderes fällt mir spontan nicht ein, zu dem "Fall", den Du hier
+schilderst.)
+
+Siehe Bemerkung oben... (Wenn man also MPP h � t t e, dann würde
+gelten...)
+
+Nun kann man sagen, dieser Sachverhalt wird als Anlass genommen um eine
+bestimmte Definition zu motivieren: 
+
+
+Das ist nun der EIGENTLICHE logische Ausgangspunkt. Alle Überlegungen
+ZUVOR waren nur "heuristischer" Natur!
+
+Ja, j e t z t kann man das ja. Ausgehend von der Definition ist zu
+zeigen, dass gilt:
+
+	A -> B, A |- B
+
+Oder ausführlich hingeschrieben, dass gilt:
+
+	~(A & ~B), A |- B
+
+Wobei wir JETZT natürlich nicht von MPP Gebrauch machen dürfen/können.
+(Insofern ist Deine Frage im "Titel" dieses Posts mit _nein_ zu
+beantworten.)
+
+Natürlich, muss er ja. Denn n u r die Definition ZUSAMMEN mit den
+nicht-abgeleiteten Regeln erlaubt es den MPP "abzuleiten".
+
+Also nochmal, zu zeigen ist (eigentlich):
+
+	~(A & ~B), A |- B
+
+was dann ja, wegen der Definition von -> bedeutet:
+
+	A -> B, A |- B
+
+- und damit wäre der MPP gezeigt.
+
+Ja. Man nennt so was eine "heuristische Überlegung" ... solche
+Überlegungen sind zwar nicht streng formal gültig, können einen aber
+dazu veranlassen, eine bestimmte Definition zu _setzen_, oder einen
+bestimmten Beweis zu versuchen, etc.
+
+Lass mich mal versuchen, das "nachzuvollziehen":
+
+Angenommen wir hätten eine (abgeleitete) Regel MPP:
+^^^^^^^^^^
+	A -> B   A
+	----------   (MPP)
+	    B
+
+Was könnten wir dann aus 
+
+	A -> B
+
+herleiten? Mal sehen...
+
+Hmmm...
+
+	1. A -> B       Prämisse
+	2. | A & ~B     Annahme
+	3. | A          2 &E
+	4. | ~B  	2 &E
+	5. | B          1,3 MPP <---
+	6. | B & ~B     4,5 &I
+	7. ~(A & ~B)    2,6 RAA
+
+Also: A -> B |- ~(A & ~B)
+
+D. h. WENN MPP gilt, DANN muss ~(A & ~B) aus A -> B herleitbar sein
+("folgen").
+
+Hmmm... Was also, wenn wir jetzt einfach 
+
+	A -> B
+als
+	~(A & ~B)
+
+definieren? (Denn unter der Voraussetzung der Gültigkeit von MPP -den
+wir letztlich haben wollen- gilt dieser Zusammenhang ja. Zumindest in
+eine "Richtung".)
+
+Let's try:
+
+	A -> B =df ~(A & ~B)
+
+Dann vereinfacht sich [als direkte Konsequenz dieser Definition] der
+Beweis für
+
+	A -> B |- ~(A & ~B)
+
+natürlich auf eine extreme Art und Weise:
+
+	1. A -> B	Prämisse
+	2. ~(A & ~B)	1 Def. ->
+
+Nun gut... Aber können wir nun mithilfe ("aus") dieser Definition auch
+den MPP "ableiten"?
+
+Mal sehen...
+
+	1. A -> B                    Prämisse
+	2. A                         Prämisse
+	3. ~(A & ~B)                 1 Def. ->
+	4. | ~B                      Annahme
+	5. | A & ~B                  2,4 &I
+	6. | (A & ~B) & ~(A & ~B)    3,5 &I
+	7. ~~B                       4,6 RAA
+	8. B                         7 DN
+
+Also:
+
+	A -> B, A |- B
+
+passt! :-)
+
+
+Ich denke, wir sollten mal dieses System nochmal etwas genauer
+besprechen... Ich werde das in einem eigenen Post versuchen.
+
+
+Kühlung, Kühlung, ein Königreich für ein kühles Lüftchen!
+
+
+Gruß,
+Bruno

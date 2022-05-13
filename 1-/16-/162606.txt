@@ -1,0 +1,30 @@
+<klji@svlhudz.xs> schrieb in im Newsbeitrag:
+8p8uxu$huw$3@bkzvok.wbo.vp-wwapdrft.ms...
+
+philippe
+
+Bei der TM wird hier imho einiges durcheinander geworfen.
+
+1. Mit der TM lassen sich _nicht_ alle Vorgänge im Computer modellieren,
+sondern nur _reine_ EVA (Eingabe/Verarbeitung/Ausgabe) Algorithmen. Selbst
+ein typisches Datenbanksystem ist in seiner Gesamtheit so nicht durch eine
+TM modellierbar, sondern _nur_ die Schritte zwischen einer Einabe und einer
+Ausgabe (dies mag nach Haarspalterei klingen, ist aber nichts desto trotz
+wichtig).
+2. Wenn von der Unlösbarkeit des Halteproblems gesprochen wird ist damit
+gemeint, daß dieses Problem nicht mit mathematischer Exaktheit lösbar ist.
+Man kann durchaus Algorithmen angeben (die soagr auf einer TM laufen),
+welche das Halteproblem (meistens) "lösen", aber nicht immer.
+Bei endlicher Speicherplatzkomplexit�t ist das Halteproblem sogar _immer_
+trivial lösbar (wenn auch nicht unbedingt praktisch), da bei endlichem
+Speicher die Anzahl der Zustände begrenzt ist und Nichtterminierung an der
+Widerholung eines Zustandes erkennbar ist!
+Das Halteproblem ist eher ein _theoretisches_ Problem, welches die Grenzen
+der Informatik/Mathematik und der Logik selbst zeigt. Für Überlegungen in
+der KI ist es irrelevent, da das Problem in der Praxis (im endlichen)
+durchaus lösbar ist (auch algorithmisch)!
+
+Die KI zeichnet sich unter anderem eben dadurch aus, daß sie nicht exakte
+Algorithmen ala Fuzzy Logik entwickelt, welche zwar nicht immer korrekte
+oder optimale Lösungen liefern, dafür die Lösung aber schneller oder
+überhaupt liefern.

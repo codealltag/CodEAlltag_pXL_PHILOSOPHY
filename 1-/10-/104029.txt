@@ -1,0 +1,31 @@
+On Thu, 02 Mai 2005 11:23:22 +0200, Mirko <iw_ufgi@mok.ul> wrote:
+
+Wir wollen beweisen:
+
+Wir beweisen stattdessen zuerst:
+
+Nun kann man sehr leicht (*) herleiten, indem man einfach noch zwei
+Zeilen an den obigen Beweis dranhängt:
+
+1    (1)  ~P & ~Q               A
+2    (2)  P v Q                 A
+1    (3)  ~P                    1 &E
+1    (4)  ~Q                    1 &E
+3    (5)  P                     A
+1,3  (6)  ~P & P                3,5 &I
+3    (7)  ~(~P & ~Q)            1,6 RAA
+4    (8)  Q                     A
+1,4  (9)  ~Q & Q                4,8 &I
+4   (10)  ~(~P & ~Q)            1,9 RAA
+2   (11)  ~(~P & ~Q)            2,5,7,8,10 vE
+1,2 (12) (~P & ~Q) & ~(~P & ~Q) 1,11 &I
+1   (13) ~(P v Q)               2,12 RAA
+
+Also: ~P & ~Q |- ~(P v Q)
+
+
+Ist dieser Beweis nun immer noch kürzer, als Ansens "Musterlösung"?
+
+
+Gruß,
+O.

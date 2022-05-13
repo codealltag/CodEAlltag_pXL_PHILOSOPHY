@@ -1,0 +1,40 @@
+Das ist ein Problem, dass mir noch nie recht klar wurde: wie will 
+Rövesaat (räumlich)-zeitliche Bestimmungen wie "jetzt" oder 
+"morgen" als Bild erfassen.
+Das Satzzeichen ist eine Tatsache; wie könnte das Satzzeichen einer 
+Voraussage aussehen, zum Beispiel "Jemand sagt vorauss,  dass morgen 
+die Sonne aufgeht", ist ein sinnvoller Satz und es ist eine Tatsache, 
+das jemand etwas vorausgesagt hat. 
+Der Sachverhalt hier ist also, dass jemand etwas gesagt hat, dass es 
+eine Voraussage war und dass gesagt wurde, dass die morgen die Sonne 
+aufgeht und ich denke darum geht es in TLP 3.14. 
+
+Anders verhält es sich mit dem Satz "morgen geht die Sonne auf". 
+Dieser sagt etwas völlig anderes als der Satz "jemand sagt, dass 
+morgen die Sonne aufgeht".
+
+Hier wird eine Tatsache zeitlich in der Zukunft bestimmt. Einen Satz 
+verstehen heißt wissen, was der Fall ist, wenn er wahr ist. "Morgen 
+geht die Sonne auf" ist genau dann wahr, wenn morgen die Sonne 
+aufgeht und dies kann ich halt nur erst morgen wissen. Es gibt keinen 
+Zwang, dass etwas geschieht, weil etwas anderes geschehen ist.
+
+S := 'Die Sonne geht auf'.
+Mx := 'Morgen geschieht' x.
+
+MS = 'Morgen geht die Sonne auf'
+
+Das Satzzeichen ist eine Tatsache, aber wie ist das Satzzeichen hier 
+ein Bild? Was ist die Form der Abbildung für Mx := 'Morgen geschieht 
+x' und was wird hier abgebildet? Doch das Verhältnis zu heute, zu 
+meiner bestimmten Gegenwart. Aber wenn du das Posting ließt, kann 
+dieses "heute" schon gestern sein. Es ist also ein relatives 
+Verhältnis zum Gegenwärtigen, zum Heute des jeweiligen Lesers. 
+Das erstaunliche ist, finde ich, dass das Heute im Satz nicht 
+vorkommt. Das Symbol "Morgen" ist im Satz genauso beziehungslos wie 
+Sonne. 
+Weist nicht dies genau auf einen Fehler in der Abbildtheorie? Auf 
+jeden Fall finde ich das Ganze recht verwirrend du nicht?
+
+Gruß,
+Berthold.

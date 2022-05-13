@@ -1,0 +1,18 @@
+On Thu, 27. 03. 22 11:53:09 +0100, Bernhard Gerlacher
+Zielt in die Richtig, auf auch ich verweise.
+Die Induktion (der Schluss von einem oder mehreren auf alle) ist in
+der Empirie nicht gelöst und wohl auch nicht lösbar. Man hat nicht die
+geringste logische Veranlassung, felsnenfest davo auszugehen, daß
+morgen die Sonne wieder aufgeht.
+Die Induktion in der Logik oder Mathematik ist aber bestens gelöst.
+Wenn man nachweist, daß etwas für 1 gilt und beweist, dass dieses
+etwas, wenn es für n gilt auch für n + 1 gilt, dann hat man die
+vollständige Induktion. Ebenso in der Logik: unter der Annahme, dass
+die Prämissen OK sind und bei einem gültigen Schlussverfahren (z.B.
+Modus ponens) sind alle derartigen Schlüsse gültig: die Wahrheit der
+Prämissen überträgt sich auf die Konklusion.
+
+-- 
+Tschau, servus, bye
+Dennis
+www.zdoalcy.lo

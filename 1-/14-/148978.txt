@@ -1,0 +1,133 @@
+Antwort auf das posting vom 20. Jul. 2001 12:46 h von Jan Köhnen=
+nd
+
+Hallo Jan,
+
+du hast scheinbar die Bedeutung der Menge M =3D {N u {N}}, die ich
+im letzten posting angegeben habe, nicht erkannt.
+M ist ein Element von Pot(Pot(N)), ihre Existenz kannst du also
+nicht leugnen. Da M nur ein Element mehr hat als N, ist sie abzaehlbar.
+
+Wenn M existiert, existieren auch die Mengen M_1 =3D {M u {M}},
+M_2 =3D {M_1 u {M_1}} usw. Es gibt also "groessere" abzaehlbare
+Mengen als N, wobei diejenige von zwei Mengen die groessere ist,
+welche die andere als echte Teilmenge enthaelt.
+
+Wenn man die Maechtigkeit einer Menge X durch Bijektion bestimmen
+will, muss man sinnvollerweise eine Bijektion auf die groesste noch
+abzaehlbare Menge versuchen. Solange du die groesste abzaehlbare Menge
+nicht angeben kannst, ist das Schwert der Bijektionen stumpf. Auf die
+Maechtigkeitsdefinition der Mengenlehre kannst du dich nicht
+berufen, weil deren Widerspruchsfreiheit nicht bewiesen ist.
+
+Wuenschenswert waere also eine Kontrollmoeglichkeit. Dass es sie
+gibt, habe ich bereits im Laufe der Diskussion in dem Thread
+"Widersprueche der Mengenlehre" am Beispiel der Potenzmengen gezeigt.
+Diese sind eine Vereinigung von abzaehbar unendlich vielen abzaehlbar
+unendlichen Teilmengen, die ihrerseits durch Vereinigung der teils
+endlichen teils unendlichen abzaehlbaren Elemente der Potenzmenge
+definiert sind. Der Beweis ist nicht widerlegt worden, statt dessen
+wurde auf die Bijektionen verwiesen, deren Widerspruchsfreiheit ja
+gerade damit getestet werden sollte.
+
+
+Das habe ich nicht gezeigt. Ich habe gezeigt, dass es eine unbegrenzte
+Folge von Potenzmengen gibt, die bijektiv auf N abgebildet werden. Zu
+jeder Zweierpoenz 2^i existiert die Bijektion der Potenzmenge Pot(D_i)
+der Menge D_i aller Zweierpotenzen von 2^0 bis 2^i auf die nat. Zahlen
+von 1 bis (2^(i+1) - 1). (Die leere Menge in Pot(D_i) wird auf 0
+abgebildet.)
+
+Das gilt fuer alle i. Jede Pot(D_i) ist Teilmenge von Pot(D_(i+1)).
+Pot(D) enthaelt alle Elemente, die in saemtlichen Pot(D_i) enthalten
+sind. Waehrend alle Pot(D_i) endlich sind, ist Pot(D) unendlich.
+
+Man sieht die Analogie zu N. Man kann Teilmengen N_k von N definieren,
+die alle nat. Zahlen von 0 bis k enthalten. N enthaelt alle nat. Zahlen,
+die in saemtlichen N_k enthalten sind. Alle N_k sind endlich, N ist
+unendlich.
+
+Zu jedem Pot(D_i) existiert ein N_k (man kann es sogar angeben:
+k =3D 2^(i+1) - 1) mit einer Bijektion Pot(D_i) --> N_k.
+Pot(D) ist die Vereinigungsmenge aller Elemente der Pot(D_i)
+(nicht die Vereinigung der Pot(D_i)). N ist die Vereinigungsmenge
+aller Elemente der N_k. Wie begruendest du nun die unterschiedliche
+Maechtigkeit von Pot(D) und N?
+
+
+Woher weisst du das? Das Diagonalverfahren hat keine Beweiskraft, das
+habe ich ausfuehrlich begruendet und das ist bisher nicht widerlegt
+worden. Der Beweis durch Bijektion waere erst ueberzeugend, wenn du die
+groesste abzaehlbare Menge, also die Menge, die keine echte Teilmenge
+einer anderen abzaehlbaren Menge ist, angeben kannst.
+
+Wir koennen fuer die 0,1-Folgen eine Nachfolgerelation definieren.
+Beginnend am rechten Ende suchen wir die erste 0 und setzen sie auf 1.
+Die Zeichen links davon bleiben unveraendert, die Zeichen rechts davon
+werden auf 0 gesetzt. Wenn keine 0 vorhanden ist, wird links eine 1
+hinzugefuegt und alle 1 rechts von der neuen auf 0 gesetzt. Als
+Anfangsfolge nehmen wir eine einzelne 0. Jede 0,1-Folge hat einen
+eindeutig bestimmten Nachfolger.
+
+Wir erhalten auf diese Weise eine wohlgeordnete unendliche
+Folge F von 0,1-Folgen.
+Ist F abzaehlbar oder ueberabzaehlbar?
+Deine Antwort muesste lauten: ueberabzaehlbar.
+Ich will dich nun nicht damit traktieren, das ohne Rueckgriff auf
+vorgefasste Meinungen zu begruenden. Wir nehmen die Aussage als
+gegeben hin. F enthaelt dann eine abzaehlbar unendliche Teilmenge,
+sagen wir N, die man als Menge der nat. Zahlen interpretieren kann.
+N enthaelt endliche Teilmengen N_k.
+
+Ist N die einzige zusammenhaengende abzaehlbare unendliche Teilmenge
+von F? Mit zusammenhaengend ist gemeint, dass die angegebene
+Nachfolgerelation der 0,1-Folgen an keiner Stelle unterbrochen wird.
+Wenn nicht, wie unterscheiden sich diese Mengen? Wenn ja, wo ist die
+Grenze?
+
+Wo befinden sich die Elemente von Pot(D), die sich nicht bijektiv
+auf N abbilden lassen? Das muessten die unendlichen 0,1-Folgen
+sein, die nicht in der abzaehlbaren Teilmenge N enthalten sind.
+Was haben diese aber mit den Zweierpotenzen zu tun, die ja
+Elemente von N sind? Und alle Elemente von Pot(D), die auch
+Elemente einer Teilmenge Pot(D_i) sind, sind ebenfalls Elemente
+von N. Es muesste also eine erste Zweierpotenz i geben, die dann
+gleichzeitig die letzte in N waere, fuer die das nicht mehr gilt.
+
+
+Genauer: Pot(X) ist als ueberabzaehlbar definiert. Wie kommt es zu
+dieser Definition?
+
+Bei endlichen Mengen ist unmittelbar einsehbar, dass eine Menge
+nicht bijektiv auf eine ihrer echten Teilmengen abgebildet werden
+kann. Bei unendlichen Mengen ist das schwieriger. Das nutzt die
+Mengenlehre fuer die Behauptung, unendliche Mengen koennten auf ihre
+unendlichen echten Teilmengen bijektiv abgebildet werden, obwohl sich
+das nur fuer endliche Teilmengen, die nach Belieben so ausgewaehlt
+werden, dass es gerade zutrifft, "beweisen" laesst. Es waere daher
+wuenschenswert, ein Kriterium zur Ueberpruefung dieser Behauptung
+zu haben.
+
+Ein solches Kriterium gibt es. Unter den vielen Moeglichkeiten,
+Mengen und Teilmengen zu definieren, nimmt die Potenzmenge eine
+Sonderstellung ein. Die Grundmenge G ist eine echte Teilmenge
+ihrer Potenzmenge Pot(G). Vossiek hat mit einer einfachen logischen
+Ueberlegung bewiesen, dass Pot(G) nicht auf G bijektiv abgebildet
+werden kann. Das gilt immer, ohne dass die Anzahl der Elemente von
+G bekannt sein muss. Daher ist die Potenzmenge das ideale Kriterium
+zur Ueberpruefung der Behauptung, dass sich unendliche Mengen auf
+ihre unendlichen Teilmengen bijektiv abbilden lassen. Da die
+Antwort des Kriteriums negativ ist, waere es konsequent, die
+Behauptung aufzugeben. Statt dessen fuehrt die Mengenlehre den
+Begriff der Ueberabzaehlbarkeit ein. Es muss jeder selbst entscheiden,
+wie ueberzeugend das ist.
+
+
+Sie ist die kleinste induktive Menge, d. h. sie enthaelt keine echte
+Teilmenge mit Peano-Struktur, denn bei jeder Teilmenge ist die Nach-
+folgerelation unterbrochen. Sie enthaelt aber echte Teilmengen, die
+abzaehlbar unendlich und in diesem Sinne kleiner als N sind.
+
+Gruss
+
+Heiko

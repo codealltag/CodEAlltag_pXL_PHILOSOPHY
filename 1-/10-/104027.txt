@@ -1,0 +1,110 @@
+(Wer sonst? :-)
+
+
+Geht nicht, denn (2) taucht ja hier nirgends als Annahme auf, daher kann
+also auch nicht dessen Negation mittels RAA hergeleitet werden! (Vgl.
+mit der unten angeführten korrigierten Version Deines Beweises.)
+
+Das Schema für RAA ist ja bekanntlich:
+
+	 [A]
+	  :
+	B & ~B
+	------
+	 ~A
+
+
+Gleiches Problem, wie oben.
+
+
+Dein Beweis lässt sich aber leicht zu einem korrekten umformen (jedoch
+beweist der dann etwas anderes als von Dir intendiert):
+
+P v Q |- ~(~P & ~Q):
+
+1    (1)  ~P & ~Q            A
+2    (2)  P v Q              A
+1    (3)  ~P                 1 &E
+1    (4)  ~Q                 1 &E
+3    (5)  P                  A
+1,3  (6)  ~P & P             3,5 &I
+3    (7)  ~(~P & ~Q)         1,6 RAA   <--- !
+4    (8)  Q                  A
+1,4  (9)  ~Q & Q             4,8 &I
+4   (10)  ~(~P & ~Q)         1,9 RAA   <--- !
+2   (11)  ~(~P & ~Q)         2,5,7,8,10 vE
+
+Ich habe n u r die Zeilen (7),(10) und (11) leicht abgeändert.
+
+
+Wie dem auch sei, zu andries Heinemanns kann ich Dir aber folgende Musterlösungen
+(in Geigengack System) anbieten:
+
+1.) P & Q ~||~ ~(~P v ~Q)
+
+a)  P & Q |~ ~(~P v ~Q)
+
+1	 (1)  P & Q               A
+2	 (2)  ~P v ~Q             A
+3	 (3)  ~P                  A
+1	 (4)  P                   1 &E
+1,3	 (5)  P & ~P              4,3 &I
+3	 (6)  ~(P & Q)            1,5 RAA
+7	 (7)  ~Q                  A
+1	 (8)  Q                   1 &E
+1,7	 (9)  Q & ~Q              8,7 &I
+7	(10)  ~(P & Q)            1,9 RAA
+2	(11)  ~(P & Q)            2,3,6,7,10 vE 
+1,2	(12)  (P & Q) & ~(P & Q)  1,11 &I
+1	(13)  ~(~P v ~Q)          2,12 RAA
+
+b)  ~(~P v ~Q) |~ P & Q
+
+1	 (1)  ~(~P v ~Q)              A
+2	 (2)  ~P                      A
+2	 (3)  ~P v ~Q                 2 vI
+1,2	 (4)  (~P v ~Q) & ~(~P v ~Q)  3,1 &I
+1	 (5)  ~~P                     2,4 RAA
+1	 (6)  P                       5 DN
+7	 (7)  ~Q                      A
+7	 (8)  ~P v ~Q                 7 vI
+1,7	 (9)  (~P v ~Q) & ~(~P v ~Q)  8,1 &I
+1	(10)  ~~Q                     7,9 RAA
+1	(11)  Q                       10 DN
+1	(12)  P & Q                   6,11 &I
+
+2.) P v Q ~||~ ~(~P & ~Q)
+
+a)  P v Q |~ ~(~P & ~Q)
+
+1	 (1)  P v Q             A
+2	 (2)  ~P & ~Q           A
+3	 (3)  P                 A
+2	 (4)  ~P                2 &E
+2,3	 (5)  P & ~P            3,4 &I
+3	 (6)  ~(~P & ~Q)        2,5 RAA
+7	 (7)  Q                 A
+2	 (8)  ~Q                2 &E
+2,7	 (9)  Q & ~Q            7,8 &I
+7	(10)  ~(~P & ~Q)        2,9 RAA
+1	(11)  ~(~P & ~Q)        1,3,6,7,10 vE
+
+b)  ~(~P & ~Q) |~ P v Q
+
+1	 (1)  ~(~P & ~Q)              A
+2	 (2)  ~(P v Q)                A
+3	 (3)  P                       A
+3	 (4)  P v Q                   3 vI
+2,3	 (5)  (P v Q) & ~(P v Q)      4,2 &I
+2	 (6)  ~P                      3,5 RAA
+7	 (7)  Q                       A
+7	 (8)  P v Q                   7 vI
+2,7	 (9)  (P v Q) & ~(P v Q)      2,8 &I
+2	(10)  ~Q                      7,9 RAA
+2	(11)  ~P & ~Q                 6,10 &I
+1,2	(12)  (~P & ~Q) & ~(~P & ~Q)  11,1 &I
+1	(13)  ~~(P v Q)               2,12 RAA
+1	(14)  P v Q                   13 DN
+
+
+A.

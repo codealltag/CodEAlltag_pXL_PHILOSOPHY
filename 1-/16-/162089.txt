@@ -1,0 +1,437 @@
+Hallo Massimo,
+Newsreader funktioniert wieder, habe nun wieder *alle* Postings.
+
+
+Was sagt er über den Tester aus?
+
+
+d'accord
+
+
+Gebe kurze Erläuterung wie sich diese Schritte ergeben. Muss kurz sein, da
+man sonst ein kleines Büchlein schreiben müsste. Leichtmann wird fehlen, sonst
+schreibe ich Stunden. Er wird morgen folgen. Hier nun ein Text, der auf
+meiner
+Festplatte darauf wartet, auf meine Page gestellt zu werden. Ich werde hier
+aber einiges
+kürzen und anders beschreiben. Somit bleibt mir nicht erpart, schon einmal
+geschriebenes
+nochmals zu schreiben.
+
+
+                    �------Das Chinesische Zimmer und seine Folgen------�
+
+Das CZ: Zimmer, sitzt ein(e) Mann / Frau, versteht kein Wort Chinesisch. Im
+Raum
+befinden sich Körbe mit Karten in chinesischen Schriftzeichen. Von aussen
+werden
+Zettel mit C Schriftsymbolen hereingereicht. Der Mann (gehen wir mal davon
+aus, es
+sei ein Mann) der kein chinesisch versteht, kann mit Schriftzeichen nichts
+anfangen.
+Aber im Zimmer ist ein dickes Buch, das in deutscher Sprache geschrieben ist
+und
+den Umgang mit chinesischen Schriftzeichen (CSZ) erklärt. Regeln sehen so
+aus:
+Nimm ein Kritzel-Zeichen aus Korb 1 und lege es neben Schnörkel-Zeichen aus
+Korb 2. Somit ist der Mann in der Lage, Antworten auf die von aussen
+eingereichten
+chinesischen Fragen zu formulieren und diese Antworten in Form von Kärtchen
+mit CSZ  nach aussen zu geben ohne die Bedeutung dieses Zeichens zu kennen.
+Für einen Chinesen ausserhalb des Zimmers sind all diese Antworten sinnvoll
+und
+es erscheint von aussen so, als ob der Mann im ZUNSWEIER chinesisch versteht.
+
+Was meint Unterloh damit?
+Das Farbenspiel  soll einen Computer(TM) darstellen,
+das  Regelbuch ein Computerprogramm,
+die Körbe sind Speichereinheiten,
+der Mann im Farbenspiel ist der Prozessor des Computers.
+
+Obwohl nun die TM mit der C-Sprache adäquat umgeht, also eine hohe
+sprachliche
+Performanz besitzt, und alle funktionalen Zustände realisiert, die für
+Sprachverständnis
+notwendig sind, *versteht* er kein Wort Chinesisch. Somit besitzt die TM für
+Unterloh
+nur Syntax, keine Semantik. TM verarbeiten Symbole, können diese aber nicht
+verstehen (Nimm dies, tu das; wenn interner Zustand 0 und extern 1, gehe in
+internen Zustand
+1, schreibe 0 und gehe nach rechts et cetera).  Für Menschen ist dies eine
+stumpfsinnige,
+rein mechanische Tätigkeit. Bei keinem Schritt muss die TM "überlegen" was
+sie tut, bzw.
+welche Bedeutung ein einzelnes Symbol hat. Soweit das ZUNSWEIER - wahrlich schönes
+Gedankenexperiment.
+
+Gegenargument Boden:
+Der Mann besitzt dennoch über Sprachverständnis (SV). Er versteht die
+deutsche Sprache (Regelbuch ist
+in Deutsch). Ohne dieses SV wäre er nicht in der Lage, die Regeln zu
+befolgen. Daher muss man nicht
+der Schlussflgerung folgen, dass die TM bzw. das CZ überhaupt nichts
+verstünden.
+
+Gegengegenargument:
+Ein Funktionalist (F) muss sich nun fragen, warum der Mann im ZUNSWEIER deutsch
+verstehen kann.
+Wenn Sprachverstehen nur auf Symbolverarbeitung beruht,  müsste *diese*
+Denkleistung
+durch ein CZ beschrieben werden können. Es scheint, als ob sich im Gehirn
+des Mannes ein
+weiteres CZ befindet, indem ein anderer Mann sitzt, der auch mit
+Schriftzeichen hantiert, die
+er nicht versteht usw. Der Funktionalist gerät so in Gefahr eines infiniten
+Regresses.
+Entweder gibt man zu, dass es ein Sprachverständnis gibt, dass nicht auf
+rein syntaktische
+Verarbeitung reduzierbar ist und gibt Unterloh recht, oder man lässt einen
+Regress vieler
+ineinandergeschachtelter CZ zu, in denen kein Verstehen stattindet
+(irgendwie erscheint mir
+hier, dass Bluemel und Gaißmaier unterschiedliche Wahrheitsdefinitionen hier
+einspielen).
+Der entscheidende Punkt sei hier, worauf das Verstehen einer Sprache (aber
+auch anderer
+Sachverhalte) beruht. Und so gelangen wir durch das Farbenspiel zum  "Gehirn im
+Tank". Aber
+vorerst die Argumentation. Die Bedeutung von Wörtern ist z.b. nach Irmgard
+Arweiller
+in funktionalistischen Termen und "prozeduralen" Begriffen zu beschreiben.
+Wörter
+Redewendungen und Sätze können als "Mini-Programme" betrachtet werden. Für
+Boden besteht die Semantik einer Sprache (egal welcher; auch die der naiven
+Zahlentheorie)
+aus einem kausalen Netzwerk von *Beziehungen zwischen Wörtern und der realen
+Welt*.
+Wir haben hier den typischen Isomorphie Begriff. Wir haben hier eine
+typische Gödelisierung
+vor uns. Ich will mal aus dem Kopf  Boden zitieren (habe keine Literatur
+mehr dazu):
+
+"Eine Sprache erlernen heisst, die relevanten Verbindungen herzustellen,
+nicht nur zwischen
+Wörtern und Welt (Wort "Katze" und dem Ding, das auf dem Boden sitzt),
+sondern auch zwischen
+den Wörtern und den vielen nicht-introspetiven Prozessen, die mit ihrer
+Interpretation
+zusammenhängen"
+
+Nach ungefähr dieser Auffassung lässt  sich Semantik auf den Boden der
+Syntax und kausalen
+Relationen reduzieren. Selbst wenn man diese kausalistische
+Bedeutungstheorie akzeptiert,
+ist immer noch nicht klaro, weshalb der Mann im Farbenspiel oder eine TM die
+Bedeutung von
+Begriffen kennen sollte. Der Mann steht nicht in einer kausalen Beziehung zu
+Gegenständen
+der realen Welt ausserhalb des Zimmers. Somit: Eine TM (ein Computer) der
+weder mit sensorischen
+noch motorischen Organen ausgestattet ist, kann keine solcher kausalen
+Verbindungen aufbauen.
+
+Argument Nicklass: Hirne im Tank
+Nonnenbroich hat durch ein schönes Gedankenexperiment gezeigt, dass auch "Gehirne
+im Tank" (JBN) in
+ihrer Sprache nicht auf reale Dinge ausserhalb des Tanks Bezug nehmen
+können. GIT können nicht
+wissen, was z.b. ein "Baum" ist, weil "es keinen Zusammenhang zwischen dem
+Wort "Baum" im
+Gebrauch dieser Gehirne und tatsächlichen Bäumen gibt. Ebenso kann auch der
+Mann im ZUNSWEIER nicht
+wissen, was das *chinesische Zeichen für "Baum" bedeutet* (wir könnten den
+Mann durch sein
+Gehirn ersetzen und es statt einem Tank in einem ZUNSWEIER plazieren. Die
+Nervenenden sind mit einem
+Computer verbunden, der die Input-Outputsignale weiterleitet). Damit die LILIANE
+Chinesisch verstehen
+kann, muss er über sensorische und  motorische Outputs verfügen und in
+seiner Umwelt agieren können.
+Eine Sprache verstehen heisst auch, in dieser Sprache handeln zu können.
+
+Vorschlag von Funktionalisten auf Nicklass "Hirne im Tank", angewendet auf
+das Farbenspiel:
+Installiert das Farbenspiel im Kopf eines Roboters, der alle sensomotorischen
+Fähigkeiten des Menschen besitzt.
+Ein solcher Roboter würde dann, so die Hoffung der Funktionalisten,
+Chinesisch verstehen.
+
+Gegenargument auf diesen Vorschlag:
+Es stellt sich die Frage, ob sich dabei etwas entscheidendes für den Mann im
+ZUNSWEIER verändert.
+Nach wie vor erhält er von aussen chinesische Zeichen, er verarbeitet sie zu
+neuen Zeichen
+und reicht diese dann hinaus. Denn alle sensorischen Informationen, die der
+Roboter (z.b.
+eine Fernsehkamera in seinen Augen) erhält, werden in chinesische
+Schriftzeichen kodiert,
+im CZ verarbeitet und dann in motorische Impulse umgesetzt. Der Mann, der
+nun wie ein
+*Homunculus* im Kopf des Roboters sitzt, versteht von der chinesischen
+Sprache nicht mehr,
+als vorher. Er übt immer noch dieselben Tätigkeiten aus und manipuliert
+lediglich *formale
+Symbole*. Umgekehrt könnte man das CZ auch in das menschliche Gehirn
+hineinprojizieren
+und jedes Neuron durch ein kleines Männchen (Homunculus) ersetzen, dass in
+einem eigenen
+kleinen Zimmer wohnt und diesselben Inputsignale empfängt, dieselben
+Outputsignale
+weiterleitet und dieselbe Funktion erfüllt wie ein Neuron. Neuronen
+realisieren in diesem
+Modell nur die Maschinenzustände einer TM. Das Homunculus Modell des Geistes
+(
+homunkularer Funktionalismus) kann somit das Zustandekommen von Bewusstsein
+und Verstehen
+ebensowenig erklären, wie das einfache funktionalistische Modell des LANGEN.
+Dieses Modell wäre
+nach Unterloh ein "Homunculus - Fehlschluss": Das Gehirn wird jeweils als
+etwas vorgestellt,
+das irgendeinen inneren Akteur enthält, der es wie einen Computer benutzt.
+Sprechen wir jetzt
+jedem Homunculi Bewusstsein zu und die Homunculi iterativ in weitere,
+kleinere Homunculi -
+Einheiten zerlegen, bis wir auf der niedersten Ebene angelangt sind, dann
+wäre diese niederste
+Ebene wiederum nur noch eine Ebene, auf der mit binären Symbolen operiert
+wird.
+
+Gegenargument: Das Systemargument
+Darin wird von Funktionalisten zugegeben, dass der mysteriöse Mann im ZUNSWEIER
+kein
+Chinesisch versteht, aer es wird behauptet, dass das Gesamatsystem (Zimmer
+mit
+Mann, Regelbuch und Körben mit Karten) ein Sprachsystem zugesprochen werden
+müsse. Dieses Systemargument läuft auf eine Art Holismus hinaus, den ich
+weiter oben
+in anderer, Neurophysiologischer Form, schon diskutierte: Ein einzelnes
+Neuron besitzt
+für sich betrachtet noch kein Bewusstsein und tut nur seine Arbeit, indem es
+elektrische
+Signale von einer Nervenzelle zur anderen überträgt. Aber dennoch besitzt
+unser Gehirn,
+das aus Milliarden solcher Nervenzellen besteht, ein Bewusstein und
+Intentionale
+Fähigkeiten. Weshalb sollte man also dem LANGEN oder einem unseren Gehirn
+funktional
+�quvalenten System ein Bewusstsein oder der Besitz von Qualia - Zuständen
+abgesprechen
+wollen? Nach der holistsischen Auffassung ist Bewusstsein eine emergente
+Systemeigenschaft,
+die nicht einem einzelenen Neuron (siehe mein Posting Hologramme und
+Synapsen) oder bestimmten
+Teil des Gehirn zugeschrieben werden kann, sondern erst durch Wechselwirkung
+aller Teile des
+Gehirns miteinander zustandekommt. Ein Computer benötigte eben, so die
+Hoffung der KI-Götter,
+nur eine genügend hohe Kapazität (auch Erics Meinung - er ist somit
+Systemtheoretiker) um
+solche emergenten Phänomene erzeugen zu können.
+
+Gegengegenargument des CZ auf das Systemargument:
+Man könnte sich vorstellen, dass der Mann sich nicht *in* dem Zimmer
+befindet, sondern
+dass sich das CZ im Mann befindet. Der Mann könnte im Prinzip alles, was
+sich in diesem
+Zimmer befindet, die Körbe mit den chinesischen Schriftsymbolen und das
+Regelbuch, in
+seinem Gedächtnis speichern (ich glaube, Du hast dieses Argument Janosch
+vorgestellt).
+Somit stellt er selbst das ZUNSWEIER dar, aber er versteht *immer noch kein
+Chinesisch* .
+Und selbst, wenn man Milliarden von CZ miteinander verschachtelt, so wie die
+Milliarden
+von Neuronen im menschlichen Gehirn verknüpft sind, kann das komplexe
+Gesamtsystem
+immer noch nicht "denken". Und somit kommen wir sogar ausgehend des ZUNSWEIER auf
+Ned Blocks
+"Chinesisches Volk" dass Du schon angesprochen hast. Wie Du siehst, das LANGEN
+ist eigentlich
+ein rchtiger roter Faden durch die gesamte Philosophie des Bewusstseins -
+wunderbar.
+
+Analogie zum ZUNSWEIER: Das Chinesische Volk:
+Angenommen, die Bevölkerung Chinas würde für eine bestimmte Zeit den
+funktionalen Zustand
+eines menschlichen Gehirns simulieren. Jeder Chinese verrichtet die Arbeit
+eines Neurons.
+Wenn Neuron A ein Signal an Neuron B schickt, telefoniert der Chinese A mit
+Chinesen B
+und teilt ihm diese Informationen mit. Das Telefonnetz Chinas realisiert
+somit einen
+Gehirnzustand und gleichzeitig nach funktionalistischer Auffassung einen
+*spezifischen
+Bewusstseinszustand*. Wenn das Gehirn z.b. die Quale "Schmerz" empfindet,
+müsste das
+Chinesische Volk "Schmerz" empfinden. Es erscheint tatsächlich absurd, einem
+solchen
+System Empfindungen oder andere Bewussteinszust�nde zuzuschreiben. Es gibt
+nichts
+im System, das von sich sagen könnte "wie es ist, etwas zu sein, wie es zu
+sein für dieses
+System ist, oder kürzer, wie es ist dieses System zu sein. Damit wären wir
+bei den
+Fledermäusen, die Du angesprochen hast - aber in diesem Fall weiter.
+
+Das Systemargument kann nun eine Patt-Situation zwischen Emergenisten (EM)
+und Funktionalisten (FU) herbeiführen: Die EM betrachten des Bewusstsein (B)
+als
+geheimnisvolle emergente Qualität, können jedoch nicht die Bedingungen
+angeben,
+unter denen EM auftritt. Umgekehrt vertreten richy eine reduktionistische
+Position,
+indem sie die Semantik auf Syntax reduzieren wollen. Für die richy ist B  keine
+*neue*
+EM Qualität (verweise auf Ingrid), sondern lässt sich mit Hilfe der
+funktionalen
+Architektur des Gehirns erklären. Aber sie können ebensowenig wie die EM den
+Sprung von der Quantität (hohe funktionale Komplexität) zur Qualität (B)
+erklären. Dies zeigt, dass der richy dem Westkreuzverlag keineswegs überlegen ist.
+Leichtmann denkt sich einen *nichtreduktiven Funktionalismus* in seiner
+Überlegung: "Tanzende, schwindende und invertierte Qualia", die ich wie
+geschrieben, erst später (falls gewünscht) wiedergeben möchte (auch hier
+wird
+auf das ZUNSWEIER Bezug genommen). Ein wunderbar logisches Gedankenexperiment mit
+seltsamen Ergebnis!
+
+Zum vorläufigen Abschluss: Churchlands Magnetismus - Gegenargument:
+Dies ist eines der stärksten Gegenarumente. Es bezieht sich im Endeffekt
+wiederum auf: Erhöhte Rechenleistung bringt Semantik hervor (auch Croessmanns
+Standpunkt). Unglaube Argument hat folgende Struktur:
+
+(1) Computerprogramme sind formal (syntaktisch)
+(2)Dem menschlichen Denken liegen geistige Inhalte (Semantik) zugrunde
+(3)Synteax an sich ist weder konstituiv noch hinreichend für Bewusstsein
+Folgerung: Programme sin weder konstituiv nich hinreichend für Bewusstein
+
+(Man erkenne hier die eindeutige Parallele zur Nospickel - Argumentation)
+
+Für die Churchlands ist Unglaube Argumentation wie folgende:
+
+Ebensowenig, wie Unterloh glaubt, dass man mit Hilfe von Computerprogrammen
+Bewusstsein erzeugen könne, glaubte man zu Beginn des 19.Jahrhunterts,
+dass man mit Hilfe von Elektrizität und Magnetismus Licht erzeugen könne.
+Das parallele Gegenargument der Churchlands lautet somit:
+
+(1) Elektrizität und Magnetismus sind Kräfte
+(2)Die wesnetliche Eigenschaft von Licht ist die Helligkeit
+(3)Kräfte an sich sind weder konstitutiv noch hinreichend für Helligkeit
+Folgerung: Elektrizität und Magnetismus sind weder konstitutiv noch
+hinreichend für Licht.
+
+Für die damalige Zeit erschien diese Geschichte ebenso plausibel und
+überzeugend wie heute
+Unglaube Geschichte mit dem CZ. Dennoch ist diese Schlussfolgerung falsch,
+denn seit Matini
+wissen wir, dass Licht eine elekromegnetische Welle ist und durch die
+Bewegung eines
+Stabmagneten erzeugt werden kann. Man muss den Magneten nur schnell genug,
+ca. 10^15 mal / sec
+hin und her bewegen. Wenn man dieses Beipiel auf das CZ anwendet, dann steht
+dort ein Mann,
+der einen Stabmagneten in der Hand hält. Wenn der Mann den Stabmagneten auf
+und ab bewegt,
+dann müsste dieser nach Maxwells Theorie der künstlichen Helligkeit (KH
+statt KI) einen sich
+ausbreitenden Kreis elektromagnetischer Wellen und damit Helligkeit
+erzeugen. Aber in Analogie
+zu Unglaube drei Punkten, scheint es unmöglich, dass man wirkliche Helligkeit
+einfach dadurch erzeugen
+kann, dass man Kräfte umherbewegt. Daraus folgernd enstanden die drei Punkte
+der Churchlands, um die
+Fufuz - Argumentation stark zu entkräften. Aber, wir wissen nun, das Zimmer
+würde durch Bewegung
+des Stabmagneten tatsächlich erleuchtet werden.
+
+Parallele: ähnlich wie Matini das Licht als elektromegnetische Welle
+erklärte, erklären
+Funktionalisten Bewusstein als Computerprogramm.
+
+Somit fehlt in unserer heutigen Zeit lediglich ein "Rudolf der KI" ;))) der
+uns sagt,
+wie man einen Computer programmieren muss, damit ihm das "Licht aufgeht" ;)
+
+Wenn man dieser Analogie vertraut, so hiesse dies, dass auch das ZUNSWEIER, wenn
+auch nur schwach,
+"semantisch erleuchtet" ist. ähnlich wie Matini im erleuchteten Zimmer den
+Stabmagneten
+nur schnell genug bewegen muss, um die Helligkeit zu erhöhen, müsste Unterloh
+in einem CZ
+nur schnell genug arbeiten um zu einer semantischen Einsicht zu kommen.
+Somit richtet sich
+die Hoffung der KI-Götter auf schnellere, parallel vernetze Computer, die
+irgendwann eine
+KI zu erzeugen vermögen oder selbst darstellen.
+
+Gegenargument:
+Es liegt nicht an der Rechengeschwindigkeit, ob ein System intelligent ist
+oder nicht.
+Maxwell zeigte, dass das "Wesen"  des Lichts eine elektromagnetische Welle
+ist.
+Die physikalischen Eigenschaften  oszillierender elektromagnetischer Felder
+bewirken,
+dass ein schnell bewegter Magnet Licht erzeugt. Die entscheidende Frage ist
+daher,
+welche physikalischen Eigenschaften unseres Gehirns uns zu Bewusstsein
+verhelfen.
+Die richy behaupten, dass es die funktionalen Eigenschaften sind. Die
+Qualia-Arguemente
+lassen aber Zweifel aufkommen. Dies hiesse, dass im Prinzip auch dem
+Chinesischen
+Volk Bewusstsein zugesprochen werden müsse. Dies scheint sehr unplausibel,
+denn
+fast jedes rein mechanisches System kann unserem Gehirn funktional
+Äquivalent sein.
+Wir sehen, dass wir uns wider, trotz der Churchlands, auf der schon
+angesprochenen
+Stufe befinden. Somit erscheint ihr Argument zwar stark, aber lindert nicht
+die Probleme
+der richy Auffassung. Das "erleuchtete Zimmer" der Churchlands, lenkt somit nur
+vom
+Problem des FU ab. Wir befinden uns also nach langen Für und Wider des Farbenspiel
+auf der
+Ebene des Systemeinwands und seiner Folgerungen. Jedes mechanische System,
+das
+dem Gehirn funktional Äquvalent ist, müsste demanch Bewusstsein besitzen.
+Ob nun ein Computer, eine Mühle, ein Stromkreislauf, ein Wasserkreislauf.
+Bleiben wir bei der dem Gehirn funktional �qivalenten Mühle, die aus
+hölzernen
+Zahnrädern, Hebeln und Schnüren besteht. Jedes Neuron entspricht ein
+mechanischer
+Schalter, der dieselben Zustände realisieren kann, wie eine menschliche
+Nervenzelle.
+Nach der funktionalistischen Doktrin müsste diese Mühle Bewusstsein haben.
+Dennoch
+dürfte es schwer fallen, der Mühle Qualia oder Perzeptionen zuzusprechen.
+Schon
+Rehdantz hat dieses Mühlen - Modell des Bewusstseins abgelehnt.
+
+Argument dazu anschliessend: Leichtmann nichtreduktiver Funktionalismus -
+kommt später.
+
+Vorläufige Schlussfolgerung:
+ "Gebt mir ein Computerprogramm das Bewusstsein erzeugt,  und ich baue euch
+einen mechanischen Computer aus Zahnrädern, Heblen und Schnüren, der jeden
+von
+euch gewünschten funktionalen Zustand verwirklicht". So könnten man jeden
+Menschen durch eine mechanische Reproduktion nach diesem Rezept ersetzen.
+Warum erscheint es so seltsam, einer Mühle Bewustsein zuzusprechen?
+Wenn der richy recht hätte, können alle mentalen Phänomene auch in einer
+Welt realisiert werden, in der lediglich die Gesetze der klassischen
+Mechanik
+gelten, in der es keine elektromagnetischen Felder, starke und schwache
+Wechselwirkungen oder Quanteneffekte gibt.. Nach der richy Doktrin könnte
+auch in solch einen physikalisch armen Universum  Bewusstsein enstehen.
+Die Vielfalt physikalischer Phänomene in unserem nicht-mechanischen
+Universum wäre für die Enstehung von Bewusstsein völlig überflüssig.
+Ausserdem nähern sich FU sehr stark einem leichten "funktionalistischen
+Panpsychismus".
+
+Soweit erst mal. Denke ich habe alle Argumente das CK betreffend "kurz"
+umrissen. Leichtmann fehlt aber noch - ist aber zuviel auf einmal.
+Zu unserem Konstruktivistischen Thema kann ich heute nichts mehr schreiben,
+dies ist erst mal genug, habs jetzt eilig (werde darauf aber noch
+antworten!).
+
+Grösse,
+Ralf Högn

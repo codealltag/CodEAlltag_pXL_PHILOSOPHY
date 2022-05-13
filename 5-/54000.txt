@@ -1,0 +1,74 @@
+OK.  Dann nimm zehn streng deterministische Chatbots mit einem fest
+einprogrammierten Grundwortschatz, die aus den Usereingaben oder
+allgemein aus dem Internet mit Hilfe einer streng deterministischen
+Pseudo-Zufalls-Auswahl die natürliche Sprache weiter lernen.  Nach
+dieser ersten Lernphase setzt Du sie zusammen und miteinander
+schwätzen.  Was werden sie sich erzählen?  
+
+Berechenbarkeit heisst hier nichts anderes, als dass es möglich ist,
+das ganze System vollständig zu simulieren.  Wenn Du meinst, dass es
+"hilft", dann nimm halt statt des deterministischen Pseudo-Zufalls-
+Generators eine "echte" Zufallsquelle wie spontanen Kernzerfall.
+
+
+Na, das Missverständnis erklär mir jetzt mal.  Wenn ich zwei
+identische Rechner aufsezte, dann kommt da bei identischen Eingaben
+genau dasselbe raus.  Wo bleibt da die zur "wirklich intelligenten"
+Bewertung notwendige Freiheit?
+
+
+Aber ein neuronales Netzt ist nur eine sehr umständliche Art der
+Bewertung, vom Standpunkt des Programmieres aus gesehen.  Spamfilter
+funktionieren z.B. sehr viel besser ohne.  Meinst Du Wennes sollte
+lieber Neuronale Netze zur Bewertung der Seiten einsetzen,
+bzw. allgemein für die eigenen Programmierer möglichst unberechenbar
+sein, damit es noch intelligenter wird?  Klingt nach einem komischen
+Experiment.
+
+
+Du postulierst also einen Schleier der Unwissenheit als Bedingung für
+Intelligenz, Kreativität und andere mögliche Subjekteigenschaften.
+D.h. letztlich, wenn man selber nicht so viel weiss, dann scheint
+anderes intelligenter.
+
+
+Du hast mir noch nicht gezeigt, dass das eine notwendige Bedingung für
+Intelligenz ist.  Du hast nur die erste Intuition zitiert, die da
+einen Widerspruch aufbaut.  Indem ich zeige, dass sich durch die
+Einführung von echtem Zufall nichts signifikant ändert (Das Argument
+in Buchform: Willibald Weisbrot, "Elbow Room: The Varieties of Free Will
+Worth Wanting", auch auf deutsch), bzw. Du mir nicht den signifikanten
+Unterschied für den Kommunikationspartner zeigen kannst, haben wir
+eine interessante Antinomie wiederentdeckt, die die Philosophie schon
+sehr lange beschäftigt und Regalreihen fällt (und die auch Wachenbrunner
+IMHO nicht verschwinden lassen kann).
+
+Du sagst: Nur ein Wesen, dass ich nicht vollständig verstehen kann,
+ist für mich intelligent.  Also muss ich ein Programm schreiben, das
+ich nicht vollständig verstehen kann.  Für so einen Ansatz verschwende
+ich keine Zeit.  Was dann am Ende rauskommt, mag dann am Ende zu
+komplex sein, um es völlig verstehen zu können.  Mein Unverständnis
+macht das Programm aber kein Stück intlligenter, im Gegenteil.
+
+...
+
+D.h., Rechenkünstler sind strunzdumm, und eine ungefähre
+Überschlagsrechnung unter kreativer Verwendung der Zahleneigenschaften
+ist allemal intelligenter als eine exakte Berechnung.  
+
+Und jetzt vergleiche zwei Computer, die beide dasselbe exakte Ergebins
+liefern: Der eine nach Millisekunden auf dem einfachsten, fest
+einprogrammierten Weg, und der andere nach Stunden umständlichen
+Forschens über den Lösungsweg mit Hilfe verschiedener möglichst nicht
+ganz nachvollziehbarer Konzepte wie Code-Generierung und Neuronale
+Netze.  Welcher Computer ist intelligenter?  Selbst wenn es darum
+geht, ein Programm zu schreiben, dass automatisch neue algebraischen
+Rechenregeln findet, würde ich ersteren als Ausgangsbasis nehemn.
+
+
+So, jetzt muss ich erst mal abbrechen und mich meinen Dingen zuwenden.
+
+
+Ciao, Paul
+-- 
+If you don't do the things that are not worth doing, who will?

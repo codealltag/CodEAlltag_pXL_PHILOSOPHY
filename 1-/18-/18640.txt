@@ -1,0 +1,79 @@
+Letzteres ist übrigens falsch. Das ist für Nicht-Mathematiker immer
+wieder überraschend ;-)
+
+Zu dieser Sorte “grösser” sagt der Mathematiker ja “mächtiger", es geht
+also um die Mächtigkeit von Mengen. Die naive Betrachtung führt aber nur
+bei /endlichen/ Mengen zum richtigen Ergebnis: sind zwei Mengen A und B
+endlich, und ist jedes Element von A auch in B, aber B hat auch
+Elemente, die nicht in A sind, so ist B mächtiger als A. Für unendliche
+Mengen gilt das jedoch nicht.
+
+Ein einfaches Gegenbeispiel:
+
+Die Menge der natürlichen Zahlen ℕ = { 1, 2, 3, … } ist gleich mächtig
+wie die Menge der ganzen Zahlen ℤ, die alle Elemente der natürlichen
+Zahlen enthält, die 0, und darüber hinaus noch alle negativen Zahlen:
+
+ℤ = { …, -3, -2, -1, 0, 1, 2, 3, … }
+
+Jetzt würde man ja naiv annehmen, dass das Gegenteil der Fall wäre, und
+ℤ wäre etwa mächtiger als ℕ. Das ist aber nicht der Fall. Wenn zwei
+Mengen gleich mächtig sind, so kann man eine bijekive Abbildung zwischen
+den beiden herstellen. Das bedeutet, man kann zu jedem Element der einen
+Menge genau ein Element der anderen Menge zuordnen, und umgekehrt, auch
+alle Elemente der anderen Menge sind jeweils genau einem Element der
+einen zugeordnet.
+
+So einen Abbildung kann man für ℕ und ℤ tatsächlich finden. Hier ist
+eine:
+
+ ℤ ↔  ℕ
+-------
+ 0 ↔  1
+ 1 ↔  2
+-1 ↔  3
+ 2 ↔  4
+-2 ↔  5
+   …
+
+Was zunächst überrascht, wird einsichtig, wenn man bedenkt, dass der
+Trick einfach daraus besteht, dass einem ja bei den natürlichen Zahlen
+nie dieselben ausgehen – zwar wächst der Betrag in der Reihe der
+natürlichen Zahlen viel schneller an als der Betrag in obiger Reihe der
+ganzen, aber das macht nichts. Es sind ja beliebig viele davon da.
+
+Dein Schluss ist also ein “non sequitur”. Wie sieht es jedoch nun
+konkret bei den Mengen aller Sachverhalte und den Mengen aller Tatsachen
+aus? Ein Gegenbeispiel heisst ja noch nicht, dass es bei den Mengen aller
+Tatsachen und den Mengen aller Sachverhalte etwa genauso sein muss wie
+bei den natürlichen und den ganzen Zahlen.
+
+Wieviele Tatsachen gibt es eigentlich?
+
+Tatsächlich ;-) gibt es so viele Tatsachen, dass man sie gar nicht mehr
+mit einer Menge beschreiben kann. Die Tatsachen bilden als “Unmenge"
+eine echte Klasse. Ihnen lässt sich gar keine Mächtigkeit mehr zuordnen,
+sie lassen sich insofern nicht vergleichen. Und dasselbe gilt für die
+Sachverhalte.
+
+Was ist eine “Unmenge”, und warum sind die Tatsachen eine Unmenge?
+Bereits die Beschränkung auf einen kleinen Teil der Tatsachen lässt es
+zu, dass man zeigen kann, dass dieselben eine Unmenge sind. Den Beweis
+hierfür findest Du in meiner strukturellen Hermeneutik. Ich arbeite
+meine strukturellen Aussagen über Bedeutung ja gerade über die Tatsachen
+heraus. ;-)
+
+Insofern gibt es tatsächlich nicht mehr Sachverhalte als Tatsachen, denn
+ein solches “mehr” lässt sich gar nicht sinnvoll definieren für den
+Vergleich von Unmengen. In jedem Falle bilden schon die Tatsachen keine
+Menge mehr.
+
+
+Selbstverständlich. Und dem Rest Deines Postings kann ich auch nur
+zustimmen.
+
+Viele Grüsse,
+VB.
+-- 
+Wenn Du für eine Leistung nichts bezahlst,
+bist Du nicht der Kunde, sondern die Ware.

@@ -1,0 +1,32 @@
+Deshalb gefällt mir auch die Sprechweise, dass Nachrichten keine
+Bedeutung enthalten, sondern dass die enthaltene Information Bedeutung
+generiert. Was in die Nachricht Tatsächlich Eingang findet, ist
+Information, was ihr entnommen werden kann, auch wieder Information.
+
+Die dann gedeutet wird, handelt es sich um eine Person, die die
+Information entnimmt, und nicht um eine Maschine.
+
+
+Soll. Aber tut sie es? In der Praxis sind Missverständnisse doch an der
+Tagesordnung, und will man die vermeiden, vereinbart man einen Code.
+
+
+Das ist nicht richtig. Es bedeutet zunächst einmal viel abstrakter das
+Versenden von Nachrichten über Kanäle. So wie Du es darstellst, wird es
+letztlich in der Hardware implementiert, falls man serielle
+Kommunikation implementiert.
+
+
+Ich rede hier ausschliesslich über formale Sprachen. Die sind allesamt
+kreiert, und ihr Gebrauch ist ebenfalls kreiert. Alle meine Aussagen
+beziehen sich explizit nicht auf die Verwendung von natürlicher Sprache.
+
+
+Nein. Ich sage hier mit natürlicher Sprache über den Gebrauch von
+formaler aus. Aber meine Aussagen treffe ich nur über formale Sprachen.
+
+Viele Grüsse,
+VB.
+-- 
+Wenn Du für eine Leistung nichts bezahlst,
+bist Du nicht der Kunde, sondern die Ware.

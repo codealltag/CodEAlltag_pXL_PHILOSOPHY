@@ -1,0 +1,153 @@
+On Thu, 26 Jan 1997 22:21:05 +0100, Otto Ickenroth
+
+Keineswegs. In einem gekruemmten "Raum" gilt sie genauso viel oder
+genauso weniger wie auf einer gekruemmten Flaeche, wenn _Du_ es
+willst.
+
+Wenn man folgende Teilmenge des euklidischen R^4 betrachtet
+
+	x^2 + y^2 + z^2 + w^2 = 1
+
+ist die Menge der (x,y,z,w), die diese Gleichung erfuellen, ein - vom
+euklischen R^4 aus gesehen - "gekruemmter Raum" - der "Randraum" einer
+4-Sphaere mit Radius 1 - und er ist so viel oder so wenig euklidisch
+wie die Oberflaeche einer Kugel.
+
+Eine "Geometrie" als mathematisches _Objekt_ wird dadurch definiert,
+dass man zwei Mengen ("Punkte" und "Geraden") voraussetzt und ein
+Axiomensystem fuer die Beziehungen zwischen ihnen aufstellt.
+
+Wenn ich auf einer Kugeloberflaeche definiere : Die Grosskreise "sind"
+die Geraden, dann ist dies eine nichteuklidische Geometrie - die ich
+allerdings mit Begriffen der euklidischen Geometrie "simuliere", d.h.
+als Modell in die euklidische Geometrie einbette und gleichlautende
+Begriffe in meinem neuen Modell in Anfuehrungszeichen setze. Wenn Du
+sagst: "Die Grosskreise sind keine Geraden", dann heisst dies nur,
+dass sie keine euklidischen Geraden des R^3 sind - und dies ist kein
+Geheimnis.
+
+Dasselbe gilt fuer die Menge x^2+y^2+z^2+w^2=1. Sie enthaelt keine
+Gerade bezueglich des euklidischen R^4.
+
+Wenn ich auf einer Kugel jedes (ungeordnete) Paar von Antipoden
+{(x,y,z),(-x-y-z)} als _einen_ "Punkt" betrachte, und die Grosskreise
+- die jetzt aus Punktepaaren bestehen - als "Geraden", so wird die
+Kugel zu einer projektiven Ebene: je zwei "Geraden" schneiden sich in
+genau einem "Punkt" - zu je zwei "Punkten" gibt es genau eine
+"Gerade", auf der diese "Punkte" liegen und es gibt mindestens 4
+"Punkte", von den keine 3 "kollinear" sind. Es gibt keine parallelen
+"Geraden".
+
+Diese Geometrie wird zu einer "richtigen" Geometrie, wenn ich messen
+kann. Man definiere als "Abstand" zweier "Punkte" auf der
+Einheitskugel:
+
+	d(P1,P2) = arccos |x1x2+y1y2+z1z2|
+
+wobei (x1,y1,z1) und (x2,y2,z2) je ein beliebiger euklidischer
+Repraesentant des "Punkts" {(x,y,z),(-x-y-z)} ist. Alle "Geraden"
+haben dann die "Laenge" pi.
+
+Dies ist die sogenannte Arns Kugelgeometrie, die gewisse
+Aehnlichkeit mit der sphaerischen Geometrie hat. Die landlaeufige
+sphaerische Geometrie ist nur insofern "Geometrie", als dass man auf
+der Kugel euklidische Geometrie treibt und "Gerade" in beiden
+Disziplinen dasselbe bezeichnet.
+
+Man kann auch leicht eine LOBATSCHEWSKIsche Geometrie mittels der
+euklidischen Geometrie simulieren, die sogar einenen realen
+physikalischen Hintergrund hat.
+
+Wir betrachten die obere offene Halbebene des R^2: {y>0). Die
+"Geraden" dieser Geometrie sind die zur y-Achse parallelen Halbgeraden
+und die Halbkreise, deren Zentrum auf der x-Achse liegt.
+Hier haben je zwei "Geraden" hoechstens einen Schnittpunkt.
+"Pseudoparallel" zur "Geraden" {x=0} sind alle "Geraden" {x=c,c<>0}
+und alle Halbkreise  {(x-c)^2+y^2 = r^2,,c<>0,r^2<=c^2}. Hier koennen
+sich "Geraden", die alle zu einer bestimmtenn "Geraden"
+"pseudoparallel" sind, untereinander schneiden.
+Im engen Sinne "parallel" sind nur "Geradenbueschel", die sich in
+einem (im Modell nicht vorhandenen) Punkt (0,c) schneiden.
+Vom Standpunkt des Modells scheinen sich alle diese "Geraden" in einem
+"unendlich fernen" Punkt zu schneiden, waehrend die sich nicht
+schneidenden Geraden {x=0} und {x=1} zu verschiedenen
+"Parallelenbuendeln" gehoeren, die zueinander den "Winkel" 1 haben. 
+
+
+Diese Geometrie repraesentiert folgendes physikalische Modell: Die
+obere Halbebene bestehe aus einem Medium, dessen Lichtgeschwindigkeit
+in einem Punkt (x,y) y ist. Die "Strecke" zwischen P1 und P2 sei der
+Weg, den ein von P1 ausgehender und in P2 eintreffender Lichtstrahl
+zuruecklegt. Dieser ist - wie man elemantar zeigt - ein euklidischer
+Halbkreisbogen mit Zentrum auf der x-Achse oder eine zur y-Achse
+parallele euklidische Gerade. Der "Abstand" zwischen zwei Punkten sei
+die Zeit, die der Lichtstrahl von P1 nach P2 benoetigt. In diesem
+Sinne sind die "Geraden" auch die "kuerzeste" Verbindung zwischen je
+zwei Punkten und der oben definierte Abstand definiert eine Metrik.
+
+Dies ist also eine echte "nichteuklidische" Ebene auf einer nicht
+gekruemmten Flaeche, die mit Mitteln der euklidischen Geometrie
+simuliert wurde. Ein Beobachter, der sich in diesem Medium befindet,
+"sieht" die Kreise als "echte" Geraden, da er ja, ohne es zu bemerken,
+"krumm" sieht, wenn er nicht in Richtung y-Achse blickt. Uebrigens ist
+die von ihm mittels seiner Abstandsfunktion gemessene
+Lichtgeschwindigkeit trivialerweise ueberall konstant (!), wenn wir
+eine zur unsrigen synchrone Zeit voraussetzen. 
+
+Dieses Modell ist auch in ein euklidisches Modell so einbettbar, dass
+die "Abstaende" die wirklichen euklidischen Abstaende sind, indem man
+die positive Halbebene auf einen Rotationskoerper projiziert, der aus
+einer um die y-Achse rotierenden Traktrix entsteht. Hier ist die
+"Geschwindigkeit" des sich auf der gekruemmten Flaeche ausbreitenden
+Lichts auch im euklidischen Sinne konstant.
+
+Dann "gilt" dort eine nichteuklidische LOBATSCHEWSKIsche Geometrie mit
+einer Metrik, die der euklidischen Metrik auf dieser Flaeche
+entspricht.
+
+Noch einfacher ist eine nichteuklidische hyperbolische Geometrie auf
+der oberen Schale eines zweischaligen Rotationshyperboloids (sic!):
+
+		z^2 = x^2 + y^2 + 1  , z>0
+
+Die "Geraden" sind die Schnittmengen von Ebenen durch den Ursprung
+(0,0,0) mit der Schale. Je zwei "Geraden", bei denen die Schnittgerade
+der sie erzeugenden Ebenen die Schale nicht trifft, schneiden sich
+nicht. Im engeren Sinne "parallel" sind zwei "Geraden" die durch zwei
+Ebenen erzeugt werden, deren gemeinsame Gerade eine Asymptote des
+Hyperboloids ist.
+
+Die (nicht vorhandenden) Schnittpunkte dieser Geraden mit der Schale
+sind die "Fernpunkte", in denen sich "parallele Geradenbueschel" vom
+Standpunkt der Geometrie der Schale aus zu treffen scheinen.
+
+
+Wenn Du sagst, die euklidische Geometrie "gilt" auf einer
+Kugeloberflaeche, so ist dies nur dann richtig, wenn Du die
+Kugeloberflaeche als Unterobjekt des euklidischen R^3
+betrachtest. Und es ist dann fuer den Randraum der 4-Sphaere als
+Unterobjekt des euklidischen R^4 genauso richtig.
+
+Wenn Du sagst "anders ist es nur in einem gekruemmten Raum", meinst Du
+hier offensichtlich, dass nur eine - bezueglich eines euklidischen R^4
+- gekruemmte topologisch dreidimensionale Mannigfaltigkeit mittels
+einer nicht-euklidische Geometrie beschreibbar ist. Dies ist
+offensichtlich falsch.
+
+Fuer ein Wesen, das nur zweidimensional "denken" kann, ist ebenfalls
+nicht unterscheidbar, ob es sich auf einer vom dreidimensionalen
+euklidischen Standpunkt "krummen" oder "ebenen" Flaeche befindet. Wenn
+es "glaubt" oder definiert, dass die Dinger, die fuer das
+darueberstehenden dreidimensionale Ueberwesen Kreise sind, "Geraden"
+seien, dann ist die Flaeche fuer dieses Wesen per Definitionem oder
+nach bestem Wissen und Gewissen "eben" - es kann nur darueber
+spekulieren, was eigentlich "wahr" ist. Aber physikalische Wahrheit
+ist nicht Gegenstand der Mathematik.
+
+Mathematics may be defined as the subject in which we never know what
+we are talking about, nor whether what we are saying is true.
+CÉDRIC AHRENDT.
+
+
+cu
+Rudi

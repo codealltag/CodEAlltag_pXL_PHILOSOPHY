@@ -1,0 +1,37 @@
+Hallo,
+
+
+Ich habe etwas dazu dazu in meinem Posting "Re: Kann Philosophie noch etwas
+leisten?" geschrieben. Entschuldige bitte, dass ich Dir nicht direkt
+antworte, aber ich wollte nicht zweimal dasselbe posten. Da lasse ich lieber
+Eckhard Kruke zu Wort kommen:
+
+ENRICO> In Bezug auf die .Realität, aufgefasst als "Struktur", die als
+RH> Wahrmacher für physikalische Theorien fungiert, besagt Perkmann-
+RH> Skolem, dass die Theorie nur eingeschränkt festlegen kann, über
+RH> welche Objekte sie "spricht", es also irreduzibel verschiedene
+RH> Interpretationen des Weltbezugs einer Theorie gibt. Im Grunde
+RH> ist es eine Variante der Schusterschitz These der Unbestimmtheit des
+RH> Bezugs, die er allerdings ganz anders begründet.
+RH>
+RH> Formaler besagt das Löwenheim-Skolem-"aufwärts"-Theorem:
+RH>
+RH> Sei T eine Aussagenmenge einer 1-stufigen Sprache L, die ein
+RH> unendliches Modell M besitzt. Dann gibt es für jede Kardinalzahl k
+RH> mit k >= max{card(|M|),k_L} ein Modell von T der Mächtigkeit k.
+
+
+Aber zum ursprünglichen Text von Volkmar:
+
+
+Das hatte ich so verstanden, dass Volkmar meinte, mathematische Aussagen hätten
+einen eindeutigen Bezug, was ja das LST verneint. Falls er aber statt dessen
+gemeint haben sollte, dass mathematische Aussagen gar keinen Bezug hätten,
+dann würde ich ebenfalls wiedersprechen, denn mathematische Aussagen sind
+nie uninterpretiert. Ihre Wahrheit (ebenso wie die von nicht-mathematischen
+Aussagen) besteht ja darin, dass sie auf das zutreffen, wovon sie etwas
+aussagen.
+
+
+Gruß,
+Willi.

@@ -1,0 +1,49 @@
+~~~~~~~~~~~~~~~~~~
+Hallo Norbert,
+
+    als ich Deine Frage lasz, dachte ich, jetzt will
+er mich verkackeiern ;). Ich schaute Dir daraufhin
+tief in die Augen [1] und sah, noe, so gemein isser
+ni mit mir...
+
+Nun zu Deiner Frage. L2 hat, wie ich weisz, keine eigene
+Dimension. Man sacht ja L2(R) oder L2(C). Sprich L2 ueber
+R bzw. C und anderes mehr.
+
+  ~~~~~~~~~~~~~~~~~
+Oh, da habe ich momentan keine weiteren
+Assoziationen (Kenntnisse) ...
+
+~~~~~~~~~~~~~~~~~
+Zu dieser Aussage habe ich mich hinreiszen lassen,
+da ich ganz frisch die Vorlesung ueber Multiskalen-
+analyse im Kopf hatte - trotz vielem tschechisch Bier ;-o
+
+Und da stand:
+                            +--- irgendein langweiliger Index...
+{0} = V_unendlich c ... c V_a c V_a.schlange c ... c V_0 = L2
+                  +--- Teilmenge von...
+
+als eine Folge von ineinander verschachtelten
+Funktionenraeume. Falten kann ich schon. Nur bin
+ich dann noch im L2 ?
+
+Und versteckt sich hinter dieser Folge von
+Funktionenraeumen nicht indirekt die 'fraktale'
+Dimension ?
+
+Ich gestehe, ich sollte jetzt wirklich mehr
+Multiskalenanalyse denn tschechisches Bier
+zu mir nehmen ;)
+
+Grusz
+o-eitner
+.
+
+
+[1] Wenn Dein SysAdmin kein paranoider typ ist, geht
+    das ganz einfach:
+    setenv DISPLAY DeinTerminal:0.0
+    /usr/openwin/demo/xeyes &
+    /oder/andere/schoene/programme &  (z.B. xscan)
+    setenv DISPLAY MeinTerminal:0.0

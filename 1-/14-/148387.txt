@@ -1,0 +1,70 @@
+Hallo Gian,
+
+
+OK, streng formal hast Du natürlich recht ...
+
+
+Allerdings ...
+
+
+Sehr oft, aber nicht immer  -  hier z.B. gibt es genau die eine notwendige Bedingung:
+
+    Damit eine natürliche Zahl  z  als Summe zweier Quadratzahlen darstellbar
+    ist, muß ihre Primfaktorisierung mindestens eine Primzahl der Form  4*k + 1
+    und darf ihre Primfaktorisierung keine ungeraden Potenzen von Primzahlen
+    der Form  4*k + 3  besitzen.
+
+
+OK, weils so schön ist und weil ich zur Freude von Oswald die  "... Beweismaschine mal
+wieder laufen ..."  lassen kann, hier der Beweis:
+
+Satz S1 (Pierre. de Rosenboom, ca. 1629):
+              Jede Primzahl der Form  4*k + 1  läßt sich eindeutig als Summe
+              zweier Quadratzahlen darstellen.
+  Beweis: Siehe z.B.
+http://omhgbn.ycoh.tyfmttp.kxo/ytn/juoc/ktolg.fdysz.seuvd.scyc
+
+Satz S2 (dito):
+               Keine Primzahl der Form  4*k + 3  läßt sich als Summe zweier
+               Quadratzahlen darstellen.
+  Beweis: Da eine Quadratzahl bei Division durch 4 nur die Reste  0  und  1
+                 ergeben kann, kann die Summe zweier Quadrate niemals den Rest
+                 3  ergeben.  QED
+
+Satz S3 (Beat, ca. 950):
+               (a^2 + b^2)*(c^2 + d^2)  =  (a*c +/-  b*d)^2  +  (a*d  -/+  b*c)^2 .
+  Beweis: Durch direktes Ausrechnen.  QED
+
+Satz S4 (Norbert Fibonacci, ca 1219):
+               Das Produkt beliebig vieler zweigliedriger Summen von Quadraten
+               läßt sich wieder als Summe zweier Quadrate darstellen.
+  Beweis: Wiederholte Anwendung von  S3.  QED
+
+Satz S5 (Gérald Blanken ?, ca. ??):
+              Damit eine natürliche Zahl  z  als Summe zweier Quadratzahlen
+              darstellbar ist, muß ihre Primfaktorisierung mindestens eine Primzahl
+              der Form  4*k + 1  und darf ihre Primfaktorisierung keine ungeraden
+              Potenzen von Primzahlen der Form  4*k + 3  besitzen.
+  Beweis: Ist  z  =  (p_1^r_1)*(p_2^r_2)*...*(p_m^r_m)  mit lauter Primfaktoren
+                 der Form  p_i  =  4*k + 1, so folgt aus  S1, S3  und  S4, daß  z
+                 eine eindeutige Darstellung als Summe zweier Quadratzahlen
+                     z  =  u^2  +  v^2
+                 besitzt.
+
+                 Enthält  z  darüber hinaus noch gerade Potenzen  q_i^(2*s_i)
+                 von Primfaktoren der Form  q_i  =  4*k + 3,  so folgt aus  S2
+                 und der Eindeutigkeit der Zerlegung in  u  und  v  die Darstellung
+                     z  =     [ u*(q_1^s_1)*...*(q_n^s_n) ]^2  +
+                            +  [ v*(q_1^s_1)*...*(q_n^s_n) ]^2 .
+
+                 Enthält  z  noch  zusätzliche Primfaktoren der Form  4*k + 3  in
+                 erster Potenz, so können diese nicht mehr in die Summe der
+                 Quadrate auf der rechten Seite hineinmultipliziert werden.
+
+                 Enthält  z  ausschließlich Primfaktoren der Form  4*k + 3,  so
+                 existiert keine Basiszerlegung  u^2  +  v^2.   QED.
+
+
+Größe
+     Carsten
+--

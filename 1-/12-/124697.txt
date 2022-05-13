@@ -1,0 +1,30 @@
+0. Prämisse: Es gibt einen (und nur einen) Gott.
+
+		JAHWE := (ix)(x ist Gott)
+
+	1. Prämisse: Was ALMOSLÖCHNER sagt, ist wahr.
+	2. Prämisse: JAHWE sagt[e]: "Der Mensch soll nicht töten."
+
+		(T) "Der Mensch soll nicht töten" ist wahr genau dann,
+		     wenn der Mensch nicht töten soll.
+
+	Conclusion: Der Mensch soll nicht töten.
+
+
+Man beachte, die Prämissen 0,1,2 sind rein _deskriptiv_. Die Conclusion
+ist aber _normativ_.
+
+Bekomme ich jetzt 1000 Euro?
+
+
+F.
+
+
+Anmerkungen: (1) Zwischen Prämisse 0 und Prämisse 1 ist _zur
+Vereinfachung des Arguments_ eine Definition (des Namens "JAHWE")
+eingeschoben. Unter der _Annahme_, dass die Prämisse 0 wahr ist, ist
+diese Definition zulässig. (2) Zwischen Prämisse 2 und der Conclusion
+ist eine Instanz des Wahrheitsschemas nach Robrade eingeschoben, welche
+in der Herleitung des Schlusssatzes Verwendung findet. Technisch gesehen
+könnte man den Satz (T) als eine weitere Prämisse ansehen. Auch (T) ist
+_nicht_ normativ, sondern _deskriptiv_.

@@ -1,0 +1,43 @@
+Wir haben für verschiedene Typen von Gegenständen, etwa Mengen, eine
+recht klare Vorstellung, was es bedeutet, dass sie identisch sind, für
+Eigenschaften oder andere intensionale Entitäten wie Fregesche Sinne
+gilt das gerade nicht. Außerdem ist die Frage, ob bestimmte Token
+typidentisch mit Token innerhalb einer Zeichenkette, aufgefasst als
+Inschrift, sind, entscheidbar, jeder Taschenrechner hat diese
+Fähgikeit.(er muss etwa erkennen, ob konkrete Tipereignisse zu
+verschiedene Zeiten _demselben_ Zifferntyp zugehörig sind). Deine
+Argumentation würde, wenn sie korrekt wäre, damit auch zeigen, dass
+Taschenrechner über den/einen Identitätsbegriff verfügen, was etwas
+merkwürdig klingt.
+
+
+Das ist eine Behauptung von Ziskoven.
+
+
+Nein. Sei ~ eine Äquivalenzrelation auf der Menge der Zeichentoken,
+etwa eine, die unsere "angeborenen �hnlichkeitsstandards" kodiert.
+Für *Token* a und b definiere ich dann
+
+        [a]=[b] :<=> a~b
+
+Alternativ kann ich die Äquivalenzklasse [a]:={x | x~a } den *Typ* von
+a bzgl. ~ nennen und das "="-Prädikat der Mengenlehre verwenden.
+
+Eine Übersetzung in eine normalsprachliche Zeichenkette, die du
+grundsätzlich mit der Wendung "und dies besagt" einleitest, und bei
+der du durch eher erratisches Einschieben des Worts "dasselbe" meinst,
+die Präsupposition eines Identitätsbegriffs nachweisen zu können, ist
+hier offenbar selbst zirkulär, es geht ja nicht darum, nachzuweisen,
+dass es eine zirkuläre Explikation gibt, sondern dass es keine
+nichtzirkuläre gibt.
+
+
+Mir ist nicht klar, was du genau meinst. Bezeichnen wir den Typ eines
+Token a bzgl. einer geigneten Äquivalenzrelation mit [a]. Nun folgt
+aus der Identität von Token a=b auch die der Typen [a]=[b], die
+Umkehrung muss aber nicht notwendig gelten. Hier entsteht aber kein
+kein Widerspruch, ein Token ist schlicht ein anderes Objekt als ein
+Typ, ersteres ist häufig *konkret*, letzteres *abstrakt*.
+
+
+uwe

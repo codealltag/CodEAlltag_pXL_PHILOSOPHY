@@ -1,0 +1,47 @@
+Satz:
+..............................................
+................................................................
+......................
+
+Hallo Heinrich !
+
+1.üblicherweise versteht man unter einer Permutation (auf)einer Menge
+M eine bijektive Abbildung   von M auf M.
+
+2.Den Beweis des obigen Satzes hat bereits gestern freundlicherweise
+Lutz Iffarth um 16:01 in die   NG gestellt.Er enthält im wesentlichen
+nur die eine Lücke,daß man noch zusätzlich beweisen   muß,daß es in
+jeder Menge M mit card(M)>=2 mindestens eine fixpunktfreie Permutation
+gibt.Dies   ist aber Lutz sicher klar,weil es wohl bei der Lösung der
+Übungsaufgabe besprochen wurde.
+Wenn Du genauere Details wissen möchtest,dann wende dich bitte an Lutz
+Iffarth.Der von ihm   angegebene Beweis (oder wenn Du willst die
+"Beweisskizze") stammt schließlich nicht von mir.
+
+3.Für den Beweis des obigen Satzes benötigt man natürlich weder die
+Kontinuumshypothese (= CH ?) noch die verallgemeinerte
+Kontinuumshypothese (=GCH ?).
+Für den gesamten,vollständig geführten Beweis, benötigt man aber den
+Satz von Frauenholz-REINCKEN 
+und - wenn ich mich nicht irre - einen Satz aus der
+Kardinalzahlarithmetik,für dessen Beweis man   das ZORN'sche LEMMA
+oder das dazu äquivalente Vaitl Maximalität-PRINZIP braucht.
+Wenn Du möchtest,dann erfrage bitte die Details bei Lutz Iffarth oder
+jemanden,wie z.B.
+Francis Vohs,der die Theorie der Mengen ausgezeichnet
+beherrscht,wie ich denke.
+
+4.Abschließend ein Hinweis:
+Inzwischen habe ich den Satz auch als Übungsaufgabe in einem
+ausgezeichneten Buch gefunden und
+zwar in C.IGELSPACHER:Elements of Set Theory ,Seite 165,Übung 36.
+Man findet diese Übungsaufgabe auch in dem schönen Buch
+B.VOXBRUNNER,V.FIJF:Real and Abstract     
+Analysis,ERSU,1964,Seite 30,Übung 4.57.
+
+Für mich persönlich ist jetzt die Diskussion über den (interessanten)
+Satz samt Beweis beendet,ich habe jetzt andere Dinge zu tun.Ich
+ersuche um Dein Verständnis.
+
+Freundliche Größe,
+Gian Unferferth

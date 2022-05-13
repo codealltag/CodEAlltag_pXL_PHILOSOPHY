@@ -1,0 +1,53 @@
+Niclas Weinkath (zfldfgh@xf-prsxxef.c984.ie) wrote:
+[...]
+: Nein, ich meinte etwas anderes: wenn Du ein kontinuierliches Modell
+: ueberpruefen willst, kannst Du das immer nur ueber eine vorherige
+: mehr oder minder feine Diskretisierung erreichen. Die Feinheit dieser
+: Diskretisierung sollte sich sinnvollerweise an der erreichbaren bzw.
+: ausreichenden Messgenauigkeit orientieren.
+
+Das steht ausser Zweifel. Dann aendere ich aber die urspruenglichen
+Ws.. Ein weiteres Indiz, dass Ws. nicht an den Objekten haengen,
+sondern am Modell.
+
+: Das letzte Problem
+: zwischen uns scheint der Status zu sein, den wir der Wahrscheinlichkeit
+: zubilligen. Ich meine es ist eine Objekteigenschaft, Du meinst, es ist
+: ein blosses Gedankenkonstrukt ohne unmittelbaren Realitaetsbezug.
+
+Wenn du das polemische Wort "bloss" streichst, und aus Realitaetsbezug
+Realitaet machst (denn den Bezug kann man als unmittelbar betrachten,
+wenn man will, der bezug selber ist aber eine Vermittlung), dann
+stimme ich dir zu. Die Ansicht, das Objekte solche Eigenschaften wie
+Ws. haben, die man ablesen kann, dachte ich, sei mit dem Wiener Kreis
+ausgestorben.
+
+: > : Dann sind wir ja immerhin schonmal einen Schritt weiter. Also: Abmes-
+: > : sungen, Dichte, Masse, etc. sind Eigenschaften des konkreten Wuerfels.
+: > : Und Du meinst nun, diese konkreten Wuerfeleigenschaften haben auf die
+: > : tatsaechlichen Wuerfelwahrscheinlichkeiten keinerlei Einfluss?
+: > Da stelle mir uns mal janz bloed: Mir ist ueberhaupt nicht klar, was
+: > das ist, eine Wuerfelwahrscheinlichkeit.
+: Du stellst dich bloed? Na gut, aber dass mir das nicht zu oft vorkommt! ;-)
+
+Ich stelle UNS bloed!
+
+: Wie waer's damit:
+: Die Wahrscheinlichkeit P(x) eines Wuerfels ist ein Mass fuer seine Tendenz
+: beim Werfen auf die Seite x zu fallen.
+
+Wo kommt jetzt das Problem mit den Nullws.?
+
+: > : Ich war immer der Meinung es sei umgekehrt,
+: > : naemlich dass die Guete der Theorie aus der Reproduzierbarkeit der Mess-
+: > : ergebnisse, die sie bestaetigen, folgt.
+: > Die Guete einer Theorie kann man ja mit der Reproduzierbarkeit
+: > identifizieren. Was ist sonst dein Masstab von Guete?
+: Na, das steht ja in meinem Zitat: Reproduzierbarkeit ist ein Mass fuer die
+: Guete einer Theorie. Umgekehrt macht das keinen Sinn.
+
+Natuerlich. Gibt es gute Theorien, die selten reproduzierbare
+Ergebnisse liefern? Wir reden schliesslich nur von guten Theorien.
+
+Schoene Gruesse,
+	Gabriel

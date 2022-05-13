@@ -1,0 +1,43 @@
+Und noch mal hallo,
+
+
+ich habe auch den Eindruck, dass ein Grossteil der Postings in diesem
+Thread (den ich, nebenbei bemerkt, mit meinem eher flapsig gemeinten
+Erstposting gar nicht lostreten wollte) ihre Entstehung der
+unzul"assigen Vermischung von nat"urlichen Zahlen (als Label f"ur Jahre)
+mit Ordinalzahlen (bzw. den Adjektiven erster, zweiter, dritter, ...)
+verdankt.
+
+Zur Klarstellung:
+Gegeben eine nichtleere, total geordnete Menge (M, <), die ein kleinstes
+Element e enth"alt (also: F"ur alle m aus M gilt m=e oder e<m). Dann
+bezeichnet man e auch als 'das erste Element von M', und in diesem
+Sinne, und nicht im Zusammenhang mit irgendwelchen nat"urlichen Zahlen,
+wird das Wort 'erster' auch in der deutschen Sprache benutzt, z.B. 'die
+erste Person in einer Warteschlange' (die in der Regel ja auch keine 1
+oder 0 auf die Stirn gemalt hat).
+Entsprechend ist das 'zweite Element' von M dann jenes f aus M, f"ur das
+gilt: F"ur alle m aus M gilt m<f -> m=e, usw.
+
+(Ich habe "ubrigens der Versuchung widerstanden, x_0 statt e, x_1 statt
+f zu schreiben :-)
+
+Das hat nur in folgendem Sinne mit den nat"urlichen Zahlen etwas zu tun:
+F"ur M={1, 2, 3, ..}, < als "ubliche Ordnung auf dieser Menge ist e=1,
+f=2. 
+
+In unserem Zusammenhang geht es um die Jahre der christlichen
+Zeitz"ahlung, also mehr oder weniger um die Menge {1, 2, 3, ..}. Nach
+meinem kleinen Vorschlag w"aren die Jahre der christlichen Zeitz"ahlung
+eben {0, 1, 2, ..}. 
+
+<skipped>
+
+Genau darauf wollte ich hinaus: Man kann dann eben vern"unftig rechnen,
+nur ist dann in gewissem Sinne (oder nach gew"ahlter Definition) das
+Jahr 1 nicht mehr das erste Jahr des Kalenders. Ich meinte, das k"onne
+man verschmerzen.
+
+Da habe ich mich vielleicht geirrt?
+
+	Winfried

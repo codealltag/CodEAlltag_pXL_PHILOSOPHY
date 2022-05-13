@@ -1,0 +1,55 @@
+Hallo Ullrich,
+
+
+Nein. Für mich verhält sich ein System auch dann deterministisch, wenn
+ich die Anfangsbedingungen nicht kenne und ich daher keine Vorhersage
+machen kann.
+
+Für dich verhält sich (wegen der fehlenden Vorhersagbarkeit) das
+System nicht deterministisch.
+
+
+Ist bekannt. 5>=3, nicht ohne Grund. Aber meinetwegen: Verhält sich
+ein idealer Billardtisch mit *einer* Kugel deteministisch, selbst wenn
+wir die Ausgangssituation nicht (exakt) kennen?
+
+
+Die Diskussion hatten wir früher schonmal; das Dreikörperproblem lässt
+sich sehr wohl berechnen. Folgende Rechenvorschrift:
+
+1. Berechne den Zeitpunkt nächsten Zusammenstoßes zweier Kugeln oder 
+   einer Kugel mit einer Bande
+2. Berechne aufgrund der aktuellen Geschwindigkeit, Position und Richtung 
+   die Position der Kugeln vor dem nächsten Zusammenstoß
+3. Wenn es ein Zusammenstoß zwischen Kugel und Bande ist, dann berechne die 
+   Änderung der Kugelgeschwindigkeit beim elastischen Stoß einer Kugel auf 
+   eine Wand
+4. Wenn es ein Zusammenstoß zweier Kugeln ist, berechne die Änderung der 
+   Kugelschwindigkeiten beim elastischen Stoß zweier Kugeln
+5. Setze die neu ermittelten Geschwindigkeiten als aktuelle Geschwindigkeiten
+   und beginne wieder bei 1.
+
+Diese Rechenvorschrift ist (sicher noch etwas zu konkretisieren, aber)
+ohne Probleme ausführbar und ermittelt Dir jede Position jeder Kugel
+zu jedem gewünschten Zeitpunkt -- wenn man nur die Ausgangspositionen
+und -geschwindigkeiten exakt kennt.
+
+Sicher ist es keine geschlossene Formel, aber trotzdem ermöglicht
+sie die Berechnung.
+
+
+Um mehr ging es mir gar nicht.
+
+
+Das reicht ja entsprechend Deiner Definition nicht; die fordert ja
+eben, dass Porths Ideen nicht deterministisch aus Umwelt und
+interner Struktur folgen. Und das scheint mir eben nicht nachweisbar
+zu sein.
+
+Viele Größe
+
+Ralph
+
+-- 
+If you think technology can solve your problems you don't understand
+technology and you don't understand your problems.  (Georg Windeis)

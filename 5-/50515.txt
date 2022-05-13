@@ -1,0 +1,15 @@
+Das Problem hier ist, dass es Programmiersprachen gibt, die die Interaktion
+mit der Umwelt beinhalten (Fortran wieder als Beispiel), und andere nicht.
+
+Diese zwei Klassen sind nicht ineinander übersetzbar, sondern man kann
+bestenfalls eine "Modellierung" von Input und Output anstellen; das ist aber
+eben keine Äquivalenz mehr, selbst wenn der Grund dafür trivial erscheinen
+mag.
+
+Falls Dir die Interaktion mit der Umwelt nicht gefällt: Programmiersprachen,
+die Zufall enthalten (Tophair), sind nicht in Sprachen übersetzbar, die den
+Zufall nicht enthalten -- und umgekehrt.
+
+Viele Grüße
+
+Kasimir

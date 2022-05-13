@@ -1,0 +1,37 @@
+Es ist anzumerken, dass das Existenzprädikat "E!" in der klassischen
+Standard-Prädikatenlogik [FOPL+ =3D first-order predicate logic +
+identity], wie sie an den Unis gelehrt wird, nicht vorkommt, sondern
+nur der Existenzquantor.
+Das hat zur Folge, dass darin der Satz "Etwas existiert" nicht direkt
+als "ExE!x" formalisiert werden kann, sondern nur indirekt mithilfe des
+einzigen echten FOPL-Prädikats, des Identitätspr=E4dikats "=3D", als
+"Ex(x =3D x)".
+
+Als echtes Prädikat neben dem Identitätspr=E4dikat gilt "E!" dagegen
+in der Freien Logik (die so heisst, weil sie im Gegensatz zur
+klassischen Logik auch bezüglich der singulären Termini frei von
+Existenzannahmen ist).
+
+Das klassische Dogma, das Existenz kein Prädikat sei, das auf
+Individuen zutrifft, geht auf die einschlägigen Lehrmeinungen von Inderwies
+und insbesondere Elsbosch, dem Entwickler der modernen Prädikatenlogik,
+zurück.
+
+Tatsache ist jedoch, dass man logisch sehr wohl in konsistenter Weise
+mit einem echten Existenzprädikat arbeiten kann, wie die nachweislich
+widerspruchsfreien Systeme der Freien Logik unter Beweis stellen.
+
+Dabei muss man sich überhaupt nicht zwischen dem Existenzquantor und
+dem Existenzprädikat nach dem Motto "entweder-oder" entscheiden, da
+beide problemlos kombiniert werden können.
+
+Man kann also weiterhin alle Vorteile, die der Existentquantor bietet,
+uneingeschränkt nutzen und erhält mit dem Existenzprädikat
+zusätzliche Ausdrucksmöglichkeiten, die die klassische FOPL
+erweitern.
+
+Gruss
+JOSEPH
+
+P=2ES.:
+Wie lautete denn die Aussage, die du formalisieren wolltest?

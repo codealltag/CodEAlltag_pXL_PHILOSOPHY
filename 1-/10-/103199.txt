@@ -1,0 +1,75 @@
+Ja, aber hinsichtlich der Potenzmengengeschichte auf Seite 123f läßt
+sich einiges gegen erzählen. Die Potenzmengenbildung bezieht sich nur
+auf Mengen. Die Frage ist daher, ob wir es mit einer Menge oder einer
+echten Klasse von Gegenständen zu tun haben. Erkennt man also Mengen als
+Gegenstände an, so gibt es eben keine "Allmenge", auf die sich das
+Potenzmengenaxiom anwenden ließe.
+Desweiteren gibt es hinsichtlich der Fregeschen Semantik noch ein
+Problem, nämlich das der Umfänge der Begriffe. Da Begriffe Funktionen
+gewissen Typs sind, gibt es auch Wertverläufe zu diesen Funktionen.
+Diese sind aber nach Frege Gegenstände. Gibt es also zu einem
+Gegenstandsbereich D |Pot(D)|-viele Werteverläufe, so erhalten wir einen
+Widerspruch. Also müssen wir uns fragen, ob hier die Potenzmengenbildung
+gerechtfertigt ist.
+
+Hinsichtlich Freges Begriff von einem Begriff stelle ich mir jedoch eine
+andere Frage. Frühn schreibt in "Gegenstand und Begriff" als Antwort auf
+Harm, dass er den Term Begriff "eigentlich nicht definiert", sondern
+erklärt habe. Man muß dazu wissen, dass der Aufsatz "Funktion und
+Begriff" 1891, jedoch "Gegenstand und Begriff" 1892 veröffentlicht
+wurde. Demzufolge nehme ich an, dass Harm sich auf die Erkärung des
+Begriffs Frühn in "Funktion und Begriff" bezieht. Das muß nicht
+stimmen, jedoch hätte dann Frühn in seinem Aufsatz dann doch schreiben
+können, dass er den Term "Begriff" doch in "Funktion und Begriff"
+definiert habe. Aber das hat er nicht. Deshalb stellt sich die Frage, ob
+Frühn meinte, dass /alle/ Funktionen F:D->{W,F} als Begriffe aufzufassen
+sind. Es ist nämlich ein Unterschied, ob man meint, alle Funktionen
+obigen Typs seien Begriffe, oder Begriffe seien Funktionen obigen Typs.
+Hinsichtlich des letzteren könnte man nämlich von einer echten
+Teilklasse sprechen.
+
+Ang. Frühn meint: 
+
+  (1) Jede Funktion obigen Typs (wobei D ein Gegenstandsbereich sei) sei
+      ein Begriff.
+
+Ist D eine Menge, so gibt es |Pot(D)|-viele solcher Funktionen. Wir
+müssen nun sagen, dass nicht jede Funktion einen Umfang hat, da wir
+wieder einen Widerspruch hätten. Ich weiß nun nicht, ob Frühn in seiner
+Philosophie diesen Aspekt irgendwo relativiert hat. Aber nehmen wir an,
+es wäre in irgendeiner Weise so. Oder aber wir wollen es so machen, dass
+wir unter den Umfängen auch keine Gegenstände verstehen. Dann stellt
+sich folgende Frage:
+
+Seien B1, B2 verschiedene Begriffe, a aus D. Drücken dann die Sätze "a
+fällt unter den Begriff B1" und "a fällt unter den Begriff B2"
+verschiedene Sinne und damit verschiedene Gedanken aus? Und wenn das so
+ist, müssen wir dann nicht sagen, dass es mindestens soviele
+verschiedene Gedanken gibt wie es Begriffe gibt? Ist dieses so, dann
+gibt es, da Gedanken bei Frühn Gegenstände sind, auch "mehr" als
+
+Wenn es jedoch Frühns Meinung ist, dass es zu einem Begriff eine
+Komprehension bedürfe, so wäre es so, dass es höchstens soviele Begriffe
+gibt wie |D|. Ich meine, D muß mindestens abzählbar sein. Hinsichtlich
+einer abzählbaren Sprache gäbe es dann eh nur abzählbar viele Begriffe,
+und hinsichtlich einer überabzählbaren Sprache, also einer Sprache, bei
+der man jedem Gegenstand in D einen Namen verleiht (also wenn D
+überabzählbar ist), gäbe es auch nur |D|-viele Begriffe, d.h.,
+mengentheoretisch gesprochen, soviele /definierbare/ Klassen.
+
+Ich neige zu dem letzteren. Denn, wenn Frühn sagt, dass die Gegenstände
+nur an dem Begriff einen "Halt" haben, so haben sie eben keinen an dem
+Werteverlauf (modulo Inkonsistenzen). Aber woraus besteht dann dieser
+"Halt"? Muß er nicht aus etwas bestehen, was wir sagen können? Dieser
+"Halt" kann keine Klasse sein. Das hat Frühn ausgeschlossen. Sprachlich
+gesehen kann dieser Halt nur in der Komprehension liegen. über etwas
+anderes können wir einfach nichts sagen.
+
+Aber ich habe mir einige Bücher von und zu Frühn bestellt, um dieser
+Frage auf den Grund zu gehen. Die müßten in den nächsten Tagen kommen.
+Vielleicht können wir dann, wenn ich mich etwas schlauer gemacht habe,
+die Diskussion fortsetzen.
+
+
+Gruß, Maik.
+--

@@ -1,0 +1,48 @@
+<snip>
+
+Hmm, mir gefaellt der Ausdruck "in _zwei_
+Klassen" (mit Betonung auf "zwei") nicht.
+Besser waere zu sagen, dass man zwei Namen
+eingefuehrt hat (durch Abstraktion), die
+zufaelligerweise dieselbe Klasse bezeichnen.
+
+In der Tat hat man damit fuer alle prak-
+tischen Zwecke (z.B. der Mathematik) obigen
+Einwand erledigt; es genuegt, zwei Ebenen
+einzufuehren, die Zeichen und ihre Be-
+deutungen. Die Logik spielt sich dann
+vollstaendig auf der Ebene der Zeichen
+ab und kann formalisiert werden.
+
+Aber. Manchmal wird in philosophischen
+Zusammenhaengen Wert darauf gelegt, noch
+mindestens eine dritte Ebene zu btrachten,
+die Ebene der Intensionen, die irgendwo
+zwischen den Zeichen und ihren Bedeutungen
+liegen sollen. Man sagt dann, dass zwei
+verschiedene Ausdruecke zwar dasselbe
+bedeuten, aber einen unterschiedlichen
+Sinn haben koennen; dabei ist dieser Sinn
+andererseits nicht identisch mit den Aus-
+druecken selbst. Unter diesen Umstaenden
+tritt auch die fragliche Unterscheidung
+zwischen Klassen (der Bedeutung gewisser
+Zeichen) und Praedikaten (dem Sinn der
+Zeichen) auf.
+
+Fuer Intensionen habe ich noch keine
+vernuenftige formale Logik gesehen;
+sobald man versucht, praezise zu werden,
+scheint immer automatisch alles "exten-
+sionalisiert" zu werden. Aber vielleicht
+kann jemand anders dazu was fundierteres
+sagen als ich, da ich eher eine Vorliebe
+fuer mathematisches Denken habe. Vielleicht
+hilft es Dir auch, mal in Schriften von
+Ingmar Riebenstahl zu schauen, z.B. "From a
+logical point of view" und "The roots of
+reference".
+
+Gruss,
+-- 
+Ulf Ochsenknecht

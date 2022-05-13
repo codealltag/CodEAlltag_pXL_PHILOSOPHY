@@ -1,0 +1,58 @@
+Im Folgenden handelt es sich um eine Verschärfung des in meinem
+vorigen Beitrag präsentierten Widerspruchs. Als Ausgangspunkt
+nehme ich das Unterkapitel "Die Kraft eines Magnetfeldes und
+die Impulserhaltung" aus Kapitel 25.1, Physik, Otmar B. Hindrix,
+Mullewapp, 1993.
+
+                  v1
+              q1 --->     Analog Tipler's Fig. 25.4 (b)
+             / |          -----------------------------
+        ^   /  | F21
+    F12 |  /   v          Zwei gleiche Ladungen (q1 = q2)
+        q2 --->           Geschwindigkeit (v1 = v2)
+            v2
+
+"In diesem Fall sind die Kräfte [F12 und F21] gleich gross und
+ entgegengesetzt gerichtet. Sie wirken jedoch nicht entlang der
+ Verbindungslinie der Teilchen und üben daher ein Drehmoment auf
+ das Zwei-Teilchen-System aus. Hierdurch wird auf den ersten
+ Blick die Drehimpulserhaltung verletzt, aber das Problem löst
+ sich, wenn man berücksichtigt, dass auch die magnetischen und
+ elektrischen Felder einen Drehimpuls tragen". (S. 847)
+
+"Wenn sich die Ladungen bewegen, so wird der Impuls, der durch
+ die Beschleunigung des Ladungssystems entsteht, durch einen
+ gleich grossen entgegengesetzten Impuls der Felder aufgehoben.
+ Der Gesamtimpuls des Systems bleibt also erhalten, wenn wir
+ den Impuls der elektrischen und magnetischen Felder in unsere
+ Betrachtung mit einbeziehen." (S. 846)
+
+Diese Argumentation lässt sich 'relativistisch' äusserst elegant
+widerlegen, indem wir die Situation im Ruhesystem der Ladungen
+betrachten, und zudem annehmen, ein Seil zwischen den Ladungen
+verhindere, dass die Ladungen sich wegen elektrostatischer
+Abstossung voneinander entfernen.
+
+Im Ruhesystem ist das "Ladungssystem" stabil, denn sowohl
+elektrostatische Abstossung als auch die diese kompensierende
+Seilkraft wirken entlang der Verbindungslinie der zwei Ladungen.
+
+Es ist aber offensichtlich unmöglich, dass die Verbindungsline
+im Ruhesystem unverändert bleibt, während sie sich im anderen
+Inertialsystem dreht (und dabei nicht näher spezifizierte
+"magnetische und elektrische Felder" zur "Drehimpulserhaltung"
+erzeugt).
+
+(Die elektrische Abstossung senkrecht zu den Geschwindigkeits-
+ vektoren v1 bzw. v2 ist zwar wegen der Lorentz-Kontraktion
+ erhöht, diese Erhöhung könnte aber höchstens die Hälfte der
+ magnetischen Kräfte F12 und F21 kompensieren. Zudem wird diese
+ Erhöhung dazu benötigt, dass die elektrischen Kräfte zwischen
+ den Teilchen trotz Lorentz-Kontraktion des Zwei-Teilchen-
+ Systems entlang der Verbindungslinie wirken.)
+
+Also wenn solche Widersprüche nicht ausreichen, Theorien zu
+widerlegen, inwiefern sind wissenschaftliche Theorien dann
+überhaupt widerlegbar?
+
+http://aqyknbm.flx.jp/ckcrdcdy/ylmlex3.dkvq#odbl

@@ -1,0 +1,28 @@
+Hallo François!
+
+
+1. Ich weiss nicht, ob die Identitaet auch eine Beschreibung
+darstellt. Ich wuerde annehmen, dass ja; insofern beschreibt sich
+jedes Objekt selbst, also auch ein neuronales Netz.
+
+2. Ich kann mir vorstellen, dass es Kuenstliche Neuronale Netze gibt,
+die eine Turingmaschine beschreiben. Diese Turingmaschine wiederum
+kann natuerlich wiederum auch ein Kuenstliches Neuronales Netz
+beschreiben, insofern sicher auch sich selbst. Deshalb wuerde ich die
+Frage bejahen - wenn eine Turingmaschine tatsaechlich auf ein
+Kuenstliches Neuronales Netz abbildbar ist.
+
+Das Kuenstliche Neuronale Netz muesste dazu aber vermutlich (damit es
+eine allgemeine Turingmaschine abbilden kann) unendlich gross sein -
+was aber kein Problem darstellt, weil es ja (wie auch die
+Turingmaschine) nur ein theoretisches mathematisches Gebilde ist.
+
+3. Ich wuesste keinen Grund, warum nicht auch ein endliches
+Kuenstliches Neuronales Netz sich selbst beschreiben kann. Eine
+Beschreibung ist ja nie etwas Vollstaendiges, sondern bezieht sich
+immer auf einen Teilaspekt des Beschriebenen. Und eine Beschreibung
+der Art "Das Kuenstliche Neuronale Netz 'A' besitzt 2000 Neuronen, die
+fuenf Schichten angeordnet sind." ist sicher auch dem Kuenstlichen
+Neuronalen Netz A beizubringen.
+
+Carlos

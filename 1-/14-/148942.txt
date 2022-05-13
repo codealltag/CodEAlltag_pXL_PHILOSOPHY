@@ -1,0 +1,105 @@
+Gérald Möstel schrieb in Nachricht <6qw0vg$dhb$18$0@vbdn.h-xshkrm.bzo>...
+                                               { dsm  21.11.2000, 23:37 }
+
+Hallo Gérald,
+
+
+Das, was Du weggeschnitten hast:
+
+
+Hmm, bei Deiner o.a. informellen Beschreibung müssen die armen Pennäler
+die zu z.B.  91^2 + 60^2 = 109^2  äquivalenten Tripel wirklich mühevoll
+s u c h e n, mit meiner Formel können sie deren Positionen in der Anordnung
+aber ganz simpel ausrechnen:
+
+    i[q]   =  10*q  +  (q-1)/2
+   k[q]   =    3*q   -  (q-1)/2,   q = 1, 3, 5, 7, ...
+
+d.h.  (10,3) = primitiv,   { (31,8), (52,13), ... } = Äquivalent.
+
+
+Ja, außer  (y-u)^n + y^n  =  (y-u)^n  könnten (nicht: müssen)  für jeden
+Exponenten  n > 2, dessen Primfaktorisierung eine irreguläre Primzahl
+enthält, endlich viele lösbare "unsymmetrische" spezielle Gleichungen
+existieren  -  das folgt aus Kummer und Mordell-Faltings.
+
+
+Nein, nur höchstens endlich viele  -  Mordell-Faltings
+
+
+Nein, jedes  "ur"-Tripel könnte sein eigenes  "UR"-Tripel sein ...
+
+
+Seit 1994 und dem NICO hat man den "Durchblick"  -   es existieren
+tatsächlich überhaupt keine solchen L�sungstripel. Und vorher hatte
+man durchaus auch schon den "Durchblick", aber vielleicht in einem
+anderen Sinn als dem, den Du wohl darunter verstehst.
+
+
+Hmm, diese Vergleiche hinken aber auf mindestens N+3 ihrer N > 5 Beine.
+
+
+Ich gebe es ja öffentlich zu:  Ich verstehe Deinen "Durchblick" nicht    ;-()
+
+
+"Spekulationen"  nicht zu vergessen
+
+
+Dies ist nicht "einmalig", sondern folgt zwangsläufig aus der
+D e f i n i t i o n   der Grundrechenarten  Addition  und  Multiplikation, und
+zwar sowohl bei der Peano'schen als auch bei der Dedekind'schen als
+auch bei der Zermelo-Fraenkel'schen Definition der ganzen Zahlen.
+
+
+Die  Lösbarkeit  von  (y-u)^n + y^n = (y+u)^n  ist  n i c h t  n o t w e n d i g
+für die  Lösbarkeit  von   x^n + y^n = z^n,
+     in Analogie zum Prinzip Maikäfer: die Existenz der Spezies
+     Maikäfer (Melolonta vulgaris) nicht notwendig dafür, daß es den
+     Monat Mai gibt  (OK, ich weiß, dieser Vergleich humpelt auch ;-)
+
+
+Hmm, das war nur eine Vermutung  ...  umso besser, wenn es nicht der
+Fall ist
+
+
+Ich würde eher das Gegenteil annehmen: in einer Anordnung mit
+überflüssigen Einträgen bzw. in einer Leiter mit überflüssigen Sprossen
+würden mich diese nur stören ...
+übrigens kann man Deine Anordnung, wenn man die sowieso redundanten
+Äquivalenzklassen daraus entfernt, auch auf den Prössel Tern�rbaum
+primitiver pythagoräischer Tripel zurückführen, den ich Dir ja schon mehrmals
+zu erklären versuchte. Bei Gelegenheit werde ich Dir das vielleicht mal
+vorführen.
+
+
+Doch, und wie Du das machst: Sie [die Mathematiker]
+   können etwas nicht so erklären, daß es auch ein Laie versteht,
+   blicken nicht durch,
+   können nichts erkennen,
+   verstehen nichts von den Voraussetzungen sinnvollen Zählens
+       und Rechnens,
+   interessieren sich nicht für diese Voraussetzungen,
+   benötigen kein Erkenntnisvermögen / keinen Verstand,
+   usw.
+
+
+Ja, hat es  -  beim Beweisen ... siehe dazu mein Posting bzgl. der
+Beweistechnik von Ulla Vordenbäumen.
+
+
+Ja, hat es  -  beim Beweisen ...
+
+
+Sehr viel  -  Gleichungen von diesem Typ ergeben sich beim Beweisen ...
+
+
+Seit dem Diesterhöft Beweis von Thönessen (1994)  weiß
+man (und weiß ich) es.
+Vorher wußten es weder ich noch sonst ein Mathematiker. Wenn es
+nämlich einer beweisbar gewußt hätte, dann hätte er damit auch
+die FV  bewiesen.
+
+
+Größe
+     Pasquale
+--

@@ -1,0 +1,139 @@
+Pius Thalhauser schrieb am 3.Aug.2002 21:13 h:
+
+
+=2E..
+
+
+Entweder hast du meine Antwort auf die Darstellung von Mike Pfänder
+nicht gelesen oder sie war dir zu allgemein. Du kannst es auch
+konkreter haben.
+
+Wir betrachten eine Liste von 0,1-Folgen. Zur Veranschaulichung kann
+man sie sich als binaere Darstellung der reellen Zahlen des Einheits-
+intervalls vorstellen. Die Zeilen sind nummeriert, also abzaehlbar.
+Die Liste enthaelt also eine abzaehlbare Menge A von 0,1-Folgen.
+Wir bilden die Diagonale jetzt wieder von links oben nach rechts unten.
+Die cantorisierte Diagonale ist eine 0,1-Folge, die nicht in A
+enthalten ist. Durch Vertauschen der Reihenfolge der in der Liste
+aufgefuehrten 0,1-Folgen (ohne sie zu veraendern) erhaelt man mit der
+cantorisierten Diagonalen beliebig viele 0,1-Folgen, die nicht in A
+enthalten sind.
+
+Soweit die Fakten. Aus der Tatsache, dass die cantorisierte Diagonale
+eine 0,1-Folge ist, die nicht in der abzaehlbaren Menge A enthalten
+ist, wird der Schluss gezogen, dass die Menge F aller 0,1-Folgen
+ueberabzaehlbar ist. Der Schluss ist jedoch voreilig, weil auch die
+Vereinigungsmenge von A und der neuen 0,1-Folge abzaehlbar ist.
+Sogar die Vereinigungsmenge von A und abzaehlbar unendlich vielen
+abzaehlbar unendlichen Mengen von 0,1-Folgen ist abzaehlbar. Es
+muesste also bewiesen werden, dass man durch Vertauschen der Reihen-
+folge der Elemente von A mit der cantorisierten Diagonale ueber-
+abzaehlbar viele unterschiedliche 0,1-Folgen erhaelt. Der Beweis
+ist aber nicht erbracht worden.
+
+Auch die Tatsache, dass man das Diagonalverfahren auch auf alle
+Vereinigungsmengen anwenden kann und man jedesmal eine neue 0,1-Folge
+erhaelt, hat keine Beweiskraft. Begruendung:
+
+Es existiere eine zweite abzaehlbar unendliche Menge B, die nur
+0,1-Folgen enthaelt, die nicht in A sind. Der Durchschnitt von
+A und B ist also die leere Menge. B muss existieren, sonst waere
+F nicht ueberabzaehlbar. (Es muessen sogar unendlich viele
+abzaehlbar unendliche Mengen existieren, deren Durchschnitt die
+leere Menge ist. Und selbst das waere noch kein Beweis fuer die
+Uberabzaehlbarkeit von F.) Man kann annehmen, dass B auch oder
+sogar nur die cantorisierten Diagonalen von A enthaelt.
+
+Man kann nun das Diagonalverfahren auf die Vereinigungsmenge C
+von A und B anwenden. Wie vereinigt man A und B? Man kann die
+beiden Mengen nicht einfach aneinander haengen, weil sie kein
+Ende haben. Sie muessen also ineinander geschachtelt werden.
+Dabei geht die Uebersicht verloren, welche 0,1-Folgen in
+unendlicher Entfernung vom Anfang der Liste stehen.
+Wir wissen aus dem Versuch mit der Menge A nur, dass die
+Liste nicht alle, nicht einmal alle 0,1-Folgen einer
+abzaehlbaren Teilmenge von F, enthaelt. Wer garantiert also,
+dass alle Elemente von C Platz in der Liste haben? Die Menge
+B verdankt ihre Existenz ja gerade der Tatsache, dass die
+Liste bereits "voll" war. Die Menge A enthaelt naemlich soviele
+0,1-Folgen wie moeglich, d. h. soviele sich eben auf N abbilden
+lassen. Nur unter dieser Voraussetzung ergibt der Diagonalbeweis
+einen Sinn. Dass N eine wohldefinierte, wenn auch unbekannte,
+und daher unveraenderliche Anzahl von Zahlen enthaelt, folgt
+daraus, dass sie als Menge und nicht als beliebig erweiterbare
+Folge definiert ist.
+
+In dem Thread "Cantor und die rationalen Zahlen", der am 6. 2. 2002
+17:25 h von Urs Roßhirt in Freibadkiosk eroeffnet wurde, ging es um die
+Frage, ob der Diagonalbeweis auch die Ueberabzaehlbarkeit der rationalen
+Zahlen des Einheitsintervalls beweist. Als Kriterium wurde genannt,
+dass die cantorisierte Diagonale eine rationale und keine irrationale
+Zahl sein muss. Wenn dieses damals akzeptierte Kriterium noch gilt,
+ist der Beweis mit einem Beispiel leicht zu fuehren.
+
+Die folgende Liste enthaelt in jeder Zeile die Nachkommastellen einer
+nicht periodischen rationalen Zahl in binaerer Darstellung:
+
+1) 1 1
+2) 1 1 0 1
+3) 1 0 1 1
+4) 1 1 1 1 1
+5) 0 1 0 0 0 1
+6) . . . . . 1
+7) . . . . . . 1
+   ...
+
+Ab Zeile 6) gilt: die k-te Ziffer der Zahl in der Zeile k ist 1.
+Die Stellen hinter den angegebenen Ziffern koennen mit Nullen
+aufgefuellt werden.
+
+Die Diagonale von links oben nach rechts unten ist 111 101 111 1...
+und die cantorisierte Diagonale 000 010 000 00... . Dies sind die
+Nachkommastellen einer rationalen Zahl, die nicht in der Liste
+enthalten ist, womit der Beweis erbracht ist.
+
+
+Die Antwort ueberrascht mich, obwohl sie meine Ueberzeugung wiedergibt.
+Es ist also nicht moeglich, in abzaehlbar vielen Schritten eine
+0,1-Folge mit unendlich vielen Stellen zu erreichen. Daraus folgt,
+dass es auch keinen Algorithmus zum Erzeugen einer solchen Folge
+gibt. Ein Algorithmus zum Erzeugen, Definieren oder Berechnen einer
+0,1-Folge muss zwar nicht alle moeglichen 0-1-Kombinationen durch-
+probieren, diese Erleichterung bingt aber nur eine Einsparung von
+abzaehlbar vielen Schritten. Das gilt zumindest solange nur endliche
+0,1-Folgen erzeugt werden. Wenn es moeglich ist, unendliche 0,1-Folgen
+mit einem Algorithmus zu erzeugen, muss es also einen Punkt geben,
+von dem an die Nachfolgerelation ihm nicht mehr folgen kann. Wie
+laesst sich das begruenden? Wenn es diesen Punkt nicht gibt, bedeutet
+das, dass es keinen Algorithmus zur Erzeugung einer unendlichen
+0,1-Folge in abzaehlbar vielen Schritten gibt. Zur binaeren Darstellung
+der irrationalen Zahlen werden aber solche Algorithmen benoetigt.
+Wird dadurch nicht die Existenz der irrationalen Zahlen in Frage
+gestellt?
+
+
+Bis jetzt hat noch niemand zwei unendliche Mengen bijektiv abgebildet.
+Die Abbildungen gelten immer nur fuer geeignet ausgesuchte endliche
+Teilmengen. Warum bei unendlichen Mengen Zweifel bestehen, habe ich
+in meiner Antwort an Simon Thorwirth begruendet.
+
+
+{G} ist ein Element von Pot(G), G ist eine Teilmenge, weil alle
+Elemente von G auch Elemente von Pot(G) sind.
+
+
+Dass sich eine unendliche Menge auf eine ihrer echten Teilmengen
+abbilden laesst, ist keine Selbstverstaendlichkeit. Dass dies bei
+beliebig ausgewaehlten Teilmengen moeglich ist, ist eine Trivialitaet.
+Dass das aber fuer die gesamte Menge gilt, kann man nicht beweisen,
+man muss es glauben. Dieser Glaube ist eine fundamentale Voraussetzung
+der Mengenlehre. Angesichts der weitreichenden Konsequenzen, die sich
+daraus ergeben, ist eine Moeglichkeit zur Ueberpruefung dieses Glaubens
+wuenschenswert. Die Potenzmenge ist eine solche Moeglichkeit. Da sich
+hier, wo es eine eindeutige Antwort gibt, zeigt, dass sich Pot(G) nicht
+auf ihre Teilmenge G abbilden laesst, wird der Glaube zumindest in Frage
+gestellt.
+
+Gruss
+
+Benno

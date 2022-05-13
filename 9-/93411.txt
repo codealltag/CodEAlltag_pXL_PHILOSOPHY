@@ -1,0 +1,13 @@
+Nein, der Inhalt der Speicherzelle wird immer noch durch a
+selbst beschrieben.  Wenn der Inhalt von a eine Adresse ist,
+ist *a der Inhalt der durch diese Adresse beschriebenen
+Speicherzelle.
+
+Das wird jetzt interessant, wie das ausgeht.  Besonders interessant
+wird es dann, wenn sich herausstellen sollte, dass wir beide imstande
+sind, funktionierende Programme in C++ zu schreiben (ich kann das
+jedenfalls) und insofern beide verstehen, was entsprechende Ausdrücke
+in C++ "bedeuten", aber uns hier trotzdem nicht darüber verständigen
+können.
+
+Luca

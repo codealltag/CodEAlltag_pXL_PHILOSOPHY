@@ -1,0 +1,52 @@
+Sie haben übersehen, dass die Wahrheit der Prämissen "Fa" und "Gb"
+gegeben ist.
+Das heisst, dass ausschliesslich wahre Aussagen dafür eingesetzt
+werden dürfen.
+
+Das @-Symbol kann in diesem Fall nicht so interpretiert werden, wie
+von Ihnen angeführt, denn die Behauptung/Vermutung, dass das Universum
+endlich ist, ist natürlich nicht identisch mit der
+Behauptung/Vermutung, dass das Universum unendlich ist. Wie gesagt,
+"Fa" und "Gb" können nur durch Aussagen ersetzt werden, deren Wahrheit
+feststeht, aber nicht durch bloss behauptende oder vermutende
+Aussagen, deren Wahrheit/Falschheit sich erst noch erweisen muss!
+
+Ihr (unzutreffender) Einwand hat mich jedoch darauf gebracht, dass
+meine Darstellung der @-Schritte und meine @-Interpretation zwar vom
+Ergebnis her richtig ist, aber nicht genau derjenigen von Mushake
+entspricht, für den das @-Symbol ein Satzkonnektiv ist, das Sätze zu
+komplexeren Sätzen verbindet. "Die Tatsache, dass (...)" ist jedoch
+kein Satz, sondern eine Nominalphrase, und von daher kein
+Satzkonnektiv.
+
+Ich werde mich also im Folgenden streng an Claudios Interpretation
+halten:
+
+"Immediate philosophical consequences of the proof can be drawn by
+interpreting '@(...)' as, e.g., 'the fact that X = the fact that
+(...)', 'the statement that X corresponds to the fact that (...)',
+'the fact that X caused it to be that (...)', or any other connective
+that, at least prima facie, someone might be tempted to view as io-Sub
+and io-Kon. [...] The relation between the subproof and the proof
+Diecker originally suggested comes into focus if '@(...)' is interpreted
+as 'the fact that Fa = the fact that (...)' or as 'the sentence "Fa",
+corresponds to the fact that (...)'."
+
+[Mushake, S., FACING FACTS (Wehre: HWA, 2001), 185-6.]
+
+Also noch mal die @-Schritte (10)-(16) von Mushakes Beweis, diesmal mit
+der @-Interpretation "the fact that Fa = the fact that (...)":
+
+(10) the fact that Fa = the fact that Fa
+(11) the fact that Fa = the fact that a=ix(x=a&Fx)
+(12) the fact that Fa = the fact tha a=ix[x=a&~(x=b)]
+(13) the fact that Fa = the fact that ~(a=b)
+(14) the fact that Fa = the fact that b=ix[x=b&~(x=a)]
+(15) the fact that Fa = the fact that b=ix(x=b&Gx)
+(16) the fact that Fa = the fact that Gb
+
+Wie Sie sehen, ist das Ergebnis dasselbe, unabhängig davon, ob das
+@-Symbol als Satz- oder als Phrasenkonnektiv betrachtet wird.
+
+Gruss
+PASQUALE

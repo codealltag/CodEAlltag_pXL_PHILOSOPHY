@@ -1,0 +1,126 @@
+Ingmar Haak schrieb in Nachricht <0rprdv$c3w$64$0@qjsw.g-ncwqff.kdu>...
+                                                       { 17.09.2000, 21:43 }
+
+
+         [ SNIP ]
+
+Hallo Ingmar,
+
+
+Hmm, wie war das noch bei den Juristen:  "... Justicia non calculat ..."   ;-)
+
+Da  AUSNAHMSLOS  ALLE  Quadratzahlen  z^2  mindestens einmal
+Differenz zweier Quadrate sind:
+
+   1^2  =    1^2  -   0^2
+   2^2  =    2^2  -   0^2
+   3^2  =    5^2  -   4^2
+   4^2  =    5^2  -   3^2
+   5^2  =  13^2  - 12^2
+   6^2  =  10^2  -   8^2
+   7^2  =  25^2  - 24^2
+   8^2  =  10^2  -   6^2  =  17^2  - 15^2
+usw.
+
+so kann das  Differenz-zweier-Quadrate-Sein  ja schlecht eine  n o t w e n d i g e
+Bedingung für das  Summe-zweier-Quadrate-Sein  sein; dazu müßte es zumindest
+eine Quadratzahl geben, die nicht Differenz zweier Quadrate ist.
+Die notwendige Bedingung für das  Summe-zweier-Quadrate-Sein  einer
+Quadratzahl steht daher auf einem anderen Blatt ...
+
+
+AUSNAHMSLOS  ALLE  ungeraden Zahlen und damit natürlich auch  ALLE
+n-ten  Potenzen ungerader Primzahlen sind für  ALLE  n > 0  mindestens einmal
+Differenz zweier Quadratzahlen ...
+
+
+Das ist aber doch nun wirklich unmittelbar evident:  Es besitzt
+
+eine Primzahl      p      die  1  Zerlegung      1*p,
+ein  PZ-Quadrat  p^2  die  2  Zerlegungen  1*p^2,  p*p,
+ein  PZ-Kubus     p^3  die  2  Zerlegungen  1*p^3,  p*p^2,
+ein  PZ-Quartus   p^4 die   3  Zerlegungen  1*p^4,  p*p^3,  p^2*p^2,
+ein  PZ-Quintus   p^5  die  3  Zerlegungen  1*p^5,  p*p^4,  p^2*p^3,
+usw.,
+
+und da bei der Quadratedifferenz   a^2 - b^2  =  (a - b)*(a + b)  die beiden
+Faktoren  (a - b)  und  (a + b)  für  a,b  =/=  0  nicht gleich sein können,
+kann man  bei  p,  p^2  nur eine Zerlegung,  bei  p^3, p^4  nur zwei Zerlegungen
+usw. verwenden, und daraus ergibt sich sowohl Deine Aufzählung als auch
+die Vorschrift zur Bestimmung der zulässigen Werte für  a, b.  Für   n = 5  z.B.:
+
+a - b = 1,     a + b = p^5   -->  a = (p^5 +1     )/2,  b = (p^5 - 1    )/2
+a - b = p,     a + b = p^4   -->  a = (p^4 + p    )/2,  b = (a^4 - p    )/2
+a - b = p^2, a + b = p^3   -->  a = (p^3 + p^2)/2,  b = (p^3 - p^2)/2
+
+
+Ja
+
+
+Ja, durch  "... Laufenlassen der Beweismaschine ..."  läßt sich daß auch zeigen ...
+
+
+Ja, Siegfried Mayerl 1769 ...
+
+
+Ja, ebenfalls Siegfried Mayerl 1769 ...
+
+
+Da wir spätestens seit Siegfried Mayerl 1769  wissen, daß eine Kubikzahl
+WEDER  Differenz   NOCH  Summe zweier Kubikzahlen sein kann, so ist
+das Summe-Sein genau so viel oder genau so wenig eine notwendige
+Bedingung für das Differenz-Sein wie das Differenz-Sein für das Summe-Sein.
+
+Die Seins-Philosophie (?) ist halt auf die Mathematik nicht unbesehen übertragbar.
+
+
+Was gibt es da zu entschuldigen. Der Formalismus war eine sehr ehrenwerte
+Denkrichtung in der Mathematik, die z.B. von Jochen Döbler (1861-1942) vertreten
+wurde.
+
+
+Da mir hier nicht ganz klar ist, was der Autor mit  "Formalismus"  meint, enthalte ich
+mich jeden Kommentars.
+
+
+Tur mir leid, aber ich kann das immer noch nicht erkennen ...
+
+
+Nochmals: ich habe  NICHT  gezeigt:
+
+  Für  n = 3, 4, 5, ...
+  {
+      u = 1:  geht nicht,
+      u = 2:  geht nicht,
+      u = 3:  geht nicht,
+      .................
+  }
+
+SONDERN gezeigt:
+
+  Für alle  n > 2
+
+
+        Für  alle  u > 0
+        {
+              geht nicht
+        }
+   }
+
+Meine "Beweismaschine" hat die Unlösbarkeit weder für  u = 1  noch  für  u = 2
+noch für irgend einen anderen konkreten Zahlenwert von  u  angezeigt, sondern
+ZUGLEICH  für  ALLE  u  -  sozusagen  "... in toto pro omnes partes ... (?) ".
+
+
+Fragst Du hier die Poster in Teezauber, oder sollten nicht eher wir Dich das fragen ?
+
+
+Wenn Du ein mathematisches Problem in eine mathematische Newsgroup
+postest, dann solltest Du auch mathematische Antworten erwarten. Wenn Du
+im Fermat'schen Satz auch ein philosophisches Problem siehst, dann solltest
+Du dies in philosophischer Terminologie formulieren  -  dann erhältst Du vermutlich
+auch philosophische Antworten aus  de.sci.philosophie ...
+
+Freundliche Größe
+     Reinhold
+--

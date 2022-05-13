@@ -1,0 +1,127 @@
+Das ist so nicht richtig. Es wuerde zwar einiges an Aenderungen
+beduerfen, aber dass die _gesamte_ moderne Physik davon abhinge, ist
+falsch. Zum Beispiel beruht weder die spezielle noch die allgemeine
+Relativitaetstheorie darauf, dass die Grenzgeschwindigkeit im
+Universum gerade mit der Geschwindigkeit elektromagnetischer Wellen
+uebereinstimmt. Dass dies so ist, hat in Bezug auf die
+Relativitaetstheorie zwar sehr geholfen, sie zu finden und zu
+ueberpruefen, aber sie haengt nicht davon ab - man muesste nur den
+liebgewonnenen Ausdruck "Lichtgeschwindigkeit" durch einen besser
+passenden wie "Grenzgeschwindigkeit" ersetzen. Ebenso ist die
+Quantenmechanik in weiten Bereichen unabhaengig von der
+Geschwindigkeit elektromagnetischer Effekte.
+
+
+Korrekt. Und die Antwort ist: Ja.
+
+
+Nein.
+
+
+Aus den Maxwellgleichungen folgt Ladungserhaltung, sprich, man kann
+eine Quelle des Feldes nicht einfach ein- oder ausschalten. Somit sind
+alle Folgerungen ueber das Ein- und Ausschalten von Ladungsquellen
+irrelevant.
+
+Die einzige Moeglichkeit, die Ladung in einem Raumgebiet zu aendern,
+ist, entweder Ladung in dieses hinein oder aus diesem heraus zu
+transportieren. Die Ladung im Raumgebiet aendert sich in genau dem
+Moment, in dem die Ladung dessen Rand passiert, und somit ist die
+Aenderung des Oberflaechenintegrals lokal erklaerbar und benoetigt
+keine instantane Fernwirkung.
+
+
+Wenn man eine Ladungsquelle "einschalten" koennte (d.h., die
+Ladungserhaltung verletzt waere), dann waeren die Maxwellgleichungen
+falsch, und wir muessten uns nach einer neuen Theorie umsehen,
+ja. Aber bis heute wurde kein Hinweis gesehen, dass die
+Ladungserhaltung nicht gaelte.
+
+
+Das ist nicht ganz richtig. Die Abstrahlung von Gravitationswellen an
+einem Doppelsternsystem wurde bereits durch Vermessung der Bahndaten
+desselben nachgewiesen. Durch die Abstrahlung ergibt sich ein
+berechenbarer und messbarer Energieverlust, durch welchen sich die
+beiden Partner naeherkommen. Die Rechnung und die Messung stimmen gut
+ueberein.
+
+
+Bei elektrischen und magnetischen Wechselwirkungen sind die
+Auswirkungen durchaus nachweisbar. Und bei der Gravitation auch, siehe
+oben erwaehnten Doppelstern.
+
+
+Weil das aus den Maxwellgleichungen folgt, und bisher alle gemessenen
+Felder den Maxwellgleichungen gehorcht haben (von Quanteneffekten mal
+abgesehen).
+
+
+Nein.
+
+
+Ach ja, und weil Ulfert Zeller das vermutet(!) hat, ist es wahr?
+Dass neue Erkenntnisse alte Vermutungen widerlegen, ist nichts allzu
+ungewoehnliches.
+
+Andererseits kann man ja tatsaechlich zwischen Nahfeld und Fernfeld
+unterscheiden - nur sind das keine prinzipiell unterschiedlichen
+Dinge, sondern einfach unterschiedliche Summanden, welche zusammen das
+Feld ergeben. Das Nahfeld faellt dabei wesentlich schneller ab (wie
+1/r^2 statt 1/r), deshalb dominiert in grosser Entfernung das Fernfeld
+(deshalb ja der Name). Die Ausbreitungsgeschwindigkeit liegt aber in
+beiden Faellen bei c.
+
+
+Hier liegt vermutlich einfach eine Begriffsverwirrung vor. Auch das
+Nahfeld oszilliert, und auch dieses breitet sich mit c aus. Allerdings
+faellt es viel schneller ab und transportiert auch keine Energie nach
+aussen. Ausserdem gehorcht es nicht der Wellengleichung, deshalb
+spricht man bei diesem auch nicht von einer abgestrahlten Welle.  Aber
+das Nahfeld kommt selbstverstaendlich auch mit den Maxwellgleichungen
+heraus. Inklusive periodischer Aenderungen des elektrischen Feldes in
+Schwingungsrichtung.
+
+
+Unter der Annahme, dass lokal eine Ladungstrennnung erfolgte.
+Ein Erzeugen von Ladung ist prinzipiell unmoeglich.
+
+
+Es hat selbstverstaendlich Energie.
+
+
+Nein. Wenn sie Masse/Energie abstrahlen wuerde, dann wuerde sie ja
+leichter. Die Energie des elektrischen Feldes stammt von der Arbeit,
+die Du in die Ladungstrennung hineingesteckt hast (z.B. das Benzin,
+mit dem der Generator betrieben wurde). In dem Moment, in dem die
+Kugel geladen ist und Du den Generator ausschaltest, kommt keine neue
+Energie mehr hinzu.
+
+Natuerlich breitet sich die bereits abgegebene Energie im Raum aus. Da
+das statische elektrische Feld (also das nach Ende des Aufladens) mit
+1/r^2 abfaellt, die Energiedichte aber proportional zu E^2 abfaellt,
+bedeutet das, dass die Energiedichte wie 1/r^4 abfaellt. Daraus ist
+eindeutig zu sehen, dass es sich nicht um eine Abstrahlung von
+Energie, sondern um ruhende Energie handelt, denn abgestrahlte Energie
+muesste ja nach dem Satz von Lüderßen mit 1/r^2 abfallen (weil ja das
+Feld nicht mehr zunimmt, muss jedwede hereinkommende Energie auch
+wieder heraus). Somit kann ein Energietransport nur dort stattfinden,
+wo das elektrische Feld noch zunimmt. Dort faellt das elektrische Feld
+staerker als mit 1/r^2 ab (weil das weiter innen liegende Feld ja
+bereits zu einer hoeheren Ladung gehoert), und es stroemt Energie von
+innen nach aussen.
+
+Wegen der Ladungserhaltung ist das Aufladen der Kugel mit einem Strom
+verbunden. Dieser sorgt fuer ein Magnetfeld, welches zusammen mit dem
+elektrischen Feld fuer den Energietransport nach aussen sorgt. Sobald
+der Generator abgeschaltet ist (und die Kugel somit nicht weiter
+aufgeladen wird), faellt die Quelle dieses Feldes weg und der
+Energietransport hoert an der Quelle (und sukzessive in einer mit c
+wachsenden Umgebung) auf.
+
+
+Das Aufladen der Kugel benoetigt Energie, ja. Nach dem Ende des
+Aufladens (der Generator ist abgeschaltet) ist die abgegebene
+Energie 0, und somit auch die aufgenommene Energie.
+
+
+Ex falso quodlibet.

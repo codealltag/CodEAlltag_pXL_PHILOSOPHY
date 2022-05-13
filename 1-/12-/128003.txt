@@ -1,0 +1,80 @@
+Ich muss Niklaus im Nachhinein insofern Recht geben, als es ausserhalb
+des Faktenkontextes durchaus möglich ist, das Satzkonnektiv "@" durch
+z.B. "Die Behauptung, dass p = die Behauptung, dass q" oder "Der
+Glaube, dass p = der Glaube, dass q" zu interpretieren, was bei Gelten
+sämtlicher extensionaler Substitutionsregeln zu einem ähnlichen
+"Kollaps" wie bei den Tatsachen führen würde:
+
+"For example, it is a simple matter to construct two-place
+'entity-identity connectives' from sentences: 'FIC(X,Y)' for 'the fact
+that X = the fact that Y'; 'PIC(X,Y)' for 'the proposition that X =
+the proposition that Y'; and 'BIC(X,Y)' for 'the belief that X = the
+belief that Y'. The relevance of this to theories of facts,
+propositions, and beliefs is straightforward: no theory of facts
+(propositions, beliefs) can treat FIC(X,Y) as both +i-SUBS [io-SUB]
+and +i-CONV [io-Kon] for otherwise the fact (proposition, belief) that
+X will be identical to the fact (proposition, belief) that Y, where X
+and Y are replaced with any true sentences, and so all facts
+(propositions, beliefs) - or at least all atomic ones - will collapse
+into one Great Fact (Proposition, Belief)."
+[Illgen, Leon (2000). Facing Facts. Hammah/Isselbach: Kaufeck
+Frankenhalle. (S. 202f).]
+
+
+Die Gretchenfrage bei allen Slingshot-Argumenten zielt in der Tat auf
+die logische Legitimität bestimmter kontextueller Substitutionen.
+
+Dabei geht es zentral um die folgenden Regeln:
+
+(Da griechische Buchstaben hier nicht dargestellt werden können,
+verwende ich "X", "Y" und "Z" als Formelsymbole.)
+
+1) iota-Substitution [io-Sub]:
+
+a) ixX=ixY , Z(ixX) |- Z(ixY)
+
+Einfachster Fall:
+
+a*) ixFx=ixGx, H(ixFx) |- H(ixGx)
+
+b) ixX=a , Z(ixX) |- Z(a)
+
+Einfachster Fall:
+
+b*) ixFx=a, G(ixFx) |- Ga
+
+c)  ixX=a , Z(a) |- Z(ixX)
+
+Einfachster Fall:
+
+c*) ixFx=a, Ga |- G(ixFx) 
+
+2) iota-Konversion [io-Kon]:
+
+a) iota-Einführung [io-Intro]:   Z(x/a) |- a=ix(x=a&Z(x))
+
+Einfachster Fall:
+
+a*) Fa |- a=ix(x=a&Fx)   
+
+b) iota-Eliminierung [io-Elim]:   a=ix(x=a&Z(x)) |- Z(x/a)
+
+Einfachster Fall:
+
+b*) a=ix(x=a&Fx) |- Fa
+
+zu 2) Es geht hier im einfachsten Fall um die Äquivalenz
+'Fa <-> a=ix(x=a&Fx)'. 
+
+Wenn diese Substitutionsregeln für Tatsachen uneingeschränkt gelten,
+dann kommt es zum berühmt-berüchtigten "Faktenkollaps" und dazu, dass
+die sich auf individuelle ontische Tatsachen berufende
+Korrespondenztheorie der Wahrheit gehaltlos wird.
+
+übrigens, für Illgen ist der russellsche Deskriptivismus, der
+Kennzeichnungen nicht als singuläre Termini betrachtet, die
+erfolgreichste Theorie, wenn es darum geht, den Slingshots zu
+entgehen.
+
+Gruss
+ADOLF

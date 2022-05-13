@@ -1,0 +1,33 @@
+Lennart Reicherts schrieb:
+
+[...]
+Wenn das Ergebnis Wert haben soll: Exakt!
+
+Nach den Gesetzen der Physik? Und zwar nicht nach den der Newtonschen,
+sondern nach der Physik, die gilt, d.h., die unser Universum schon
+simuliert.... :-)
+
+
+Wenn "Alle Transistoren ... werden als identisch angenommen" heissen
+soll, dass man eben jedes Gatter auf sein logisches Ebenbild abbildet
+(AND, OR, XOR), werde ich dich trotzdem enttäuschen müssen: Der Rechner
+simuliert sich dann immer noch höchstens selber so schnell wie der
+Rechner rechnet. Das muss ja wohl nicht explizit bewiessen werden!
+
+Ach, was solls: Kurze Wiederlegung.
+Jedes Gatter hat eine bestimmte Rechenleistung y. Einheit ist so was wie
+operations/second. Da man _jedes_ der n Gatter des Rechners simulieren
+muss, braucht man also n*y ops/sec, da man ja, um ein Gatter zu
+simulieren, mindestens die selbe Rechenleistung braucht, wie das Gatter
+hergibt. Zur simulation stehen aber sicherlich nicht alle n Gatter zur
+Verfügung, das wäre sonst der perfekte Prozessor mit dem perfekt
+parallelen Algorithmus. Ach, ich denke, die Sache ist klar.
+
+Gruss
+-- 
+Stefano Mündl (gpmdi@fsjjwja.dr)
+
+------------------------------------------------------------------------
+Member of FILETSTÜCK Design: visit http://HkskBdkbhb.mdxp.rfuny.ye !!!!
+He who can destroy a thing has the real control over it. (Oliver Visch)
+------------------------------------------------------------------------

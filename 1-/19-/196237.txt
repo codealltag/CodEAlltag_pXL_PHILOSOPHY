@@ -1,0 +1,35 @@
+Hallo,
+
+s> A)  Die Vorstellung von einem Rechner, der die Welt
+s>     simuliert - und sei sie noch so theoretisch - ist
+s>     unsinnig, da der Rechner ein Teil der Welt wäre.
+
+Richtig. Daher ging es um einen (hypothetischen) Rechner, der eine Welt  
+berechnet, die sich nur als Teilmenge unserer Welt versteht -> Simulation.  
+Bzw. um einen anderen (ebenso hypothetischen) Rechner, der für unsere Welt  
+zuständig ist, daher aber außerhalb von ihr existieren müßte.
+
+s> C)  Nach meinem Dafürhalten gibt es KEINEN ZUFALL, nur
+s>     Vorgänge, die sich unserer Betrachtungsweise ent-
+s>     ziehen, siehe A) / B).
+
+Aha, Verstärkung im Anmarsch. Gut zu hören :-)
+
+s>     mit einem eigens entwickelten Zufallszahlengenera-
+s>     tor, dessen Algorithmus denkbar einfach ist, der
+s>     aber Periodenlängen der Größenordnung 10^1000
+s>     bis hin zu 10^10000 haben kann.
+
+Falls der nicht ewig zur Berechnung braucht (man multipliziere zwei je  
+tausendstellige Primzahlen ;-) bitte mal mehr dazu, z.B. als PM.
+
+s> D)  Was sagt ihr dazu...?
+
+Die Computer (zumindest PCs) heutiger Bauart sind IMHO kein Abbild der  
+materiellen "Realität". Die Konstruktion soll ein eindeutiges und  
+nachvollziehbares Arbeiten ermöglichen, ohne Datenverluste oder  
+Zufallseffekte. Dabei sind diese Teile so gut, daß man zu "echten"  
+Zufallswerten nur kommen kann, wenn man an einem Port einen Halbleiter  
+rauschen läßt, oder z.B. den Anwender als Zufallsgenerator benutzt.
+
+Tschüss, Oscar

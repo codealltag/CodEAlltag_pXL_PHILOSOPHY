@@ -1,0 +1,39 @@
+Ich nehme ein Teilchen in der Zwischenzeit ein Atom und bringe jenes in 
+einen verschränkten Zustand. Saskia wird klassischerweise das eine und Kaspar 
+klassischerweise das andere genannt. Die instantane Änderung am Teilchen 
+Kaspar oder an Teilchen Saskia ist nur dann beweisbar, wenn ich einen 
+Informationskanal habe. Existiert dieser Informationskanal ist, kann ich 
+die Verschränkung auch nicht beweisen. Die Verschränkung als solches wird 
+durch die Messung auch zerstört. 
+
+Es gibt jetzt genau zwei Möglichkeiten, entweder es hat tatsächlich keine 
+Änderung stattgefunden und die Änderung würde nur durch den klassischen 
+Übertragungsweg erst verursacht. Das aber ist nicht anzunehmen, sonst 
+liesse sich der Effekt nicht für kryptographische Massnahmen 
+missbrauchen. 
+
+Du magst ja recht haben, dass es keine "echte Verschlüsselung" wäre, aber 
+es ist eigentlich egal denn der böse Guy in der Mitte fällt immer 
+auf. Saskia und Kaspar sind durch die instantane Änderung, die nur durch 
+Messung bestätigt werden könnte geschützt, da jedes Abhören eine Messung 
+ist. 
+
+Die Frage, ob denn Abhören nicht doch möglich wäre, wenn man Saskia oder 
+Kaspar kopieren würde, wird zumindest von Denell mit dem No-Cloning-
+Theorem negiert.  
+
+Jede Quantenteleportation ist eine "spukhafte Fernwirkung" nach Wackernagel 
+und letztlich ein EPR-Experiment. Deswegen schrieb ich als vielfach 
+bestätigt betrachtet werden kann. 
+
+Letztlich ist es aber so wie mit Gosewischs Socken, dass man nur eine 
+statistische Aussage die durch Messung bestätigt wird, vor sich hat. Der 
+Zustand selbst wird ja durch die Messung zerstört, deswegen gilt die 
+Quantenkryptographie ja auch als nicht abhörbar. 
+
+Aber eigentlich weiss ich nicht genau, was du mich frägst, vielleicht 
+gefällt dir ja jene Erklärung der Unterhaltung zwischen Saskia und Kaspar:
+http://yzc.dfuxtbtmgtyoe.yl/sg/5173.drx
+
+Grüße,
+Tobias

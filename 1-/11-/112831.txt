@@ -1,0 +1,33 @@
+Schon klar, kein Widerspruch - ich haette auch ein
+"in Grenzen" einfuegen koennen.
+Aber:
+Immerhin reden wir beide doch darueber, nicht? ;-)
+
+[Viel Uebereinstimmendes gesnipt]
+
+
+Ich wollte diese Moeglichkeit nur nicht ausschliessen...
+
+
+Ja, das *Ende* war natuerlich nicht woertlich gemeint.
+Ich meinte: In Zukunft immer mehr.
+Ein komplettes Durchrechnen ist zwar denkbar,
+aber noch in weiter Ferne. Ob wir wohl noch die
+endgueltige Entscheidung der Frage erleben werden,
+ob Bueschke in der Grundstellung auf Gewinn steht?
+(Ich glaube das ja eher nicht...)
+
+
+Bei brute force ist andererseits das Problem,
+dass jeder weitere Halbzug an Rechentiefe eine
+Vervielfachung (im Schnitt so um die 30 vielleicht?)
+des Rechenaufwandes erforderlich macht.
+Die Veraestelung des Baumes ist wirklich sehr gross.
+Angenommen, ein Programm rechnete locker 20
+Halbzuege voraus, und Bueschke wuerde bei optimalem
+Spiel in 80 Halbzuegen gewinnen, waere natuerlich
+keinesfalls ein Viertel der Arbeit geschafft ;-)
+Lassen wir uns ueberraschen, was uns erwartet.
+
+Beste Gruesse
+Raphael

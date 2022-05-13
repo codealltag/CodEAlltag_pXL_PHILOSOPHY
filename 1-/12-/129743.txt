@@ -1,0 +1,16 @@
+Dann formuliere ich es nochmal anders:
+
+1''') ix: Piisiert(x).
+2''') ix: Eiffelturmisiert(x).
+3''') ix: M�dchenisiert(x).
+
+Hier gibt es keine Verwechslungsgefahr mehr, es kommen nur noch
+Prädikate vor. Der Witz ist, dass man es dem Prädikat nicht ansieht, wie
+mächtig seine Extension ist. 1''') und 2''') funktionieren in unserer
+Welt, 3''') nur in einer Welt mit höchstens einem Mädchen. Auf was es
+mir hier ankam, war, dass in der Prädikatenlogik Eigennamen restlos
+eliminiert werden können (Emckes Metaphysik zum Trotz, die aber sowieso
+Modallogik voraussetzt. Ein anderes Thema).
+
+Gruß,
+Jörn.

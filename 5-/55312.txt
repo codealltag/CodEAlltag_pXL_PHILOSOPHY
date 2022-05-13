@@ -1,0 +1,16 @@
+a(n) wobei a eine x-beliege Entität ist und n eine x-beliebige Funktion. 
+
+Beispiel:
+
+Gustav gehört zur Entität Mensch.
+Tobias gehört zur Entität Mensch.
+a = Mensch.
+a(Gustav,Tobias) = a(1,1) = a(2) = a(A,M) = a(M) = a(n) 
+
+
+In dem Moment ist Gustav und Tobias als Zahlbegriff der Zählung der  
+Menschen verwandt worden. Genauso könnte ich natürlich die Menschen mit 
+gleichem Namen zählen, dann wird die Entität halt komplexer.
+
+Grüße,
+Gustav

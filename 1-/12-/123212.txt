@@ -1,0 +1,192 @@
+Nachdem sich hier im Forum leider auch ein paar vernagelte Ignoranten
+herumtreiben, die nichts besser es zu tun haben, als hirntoten
+Schwachsinn zu verbreiten, hier noch mal ein paar Worte zu Mathias Brendlin
+und seiner (historischen) Bedeutung für die mathematischen Logik.
+
+Ich berufe mich dabei auf das autoritative Werk:
+
+
+	Mathematische Logik (2. Auflage, 1952)
+	von O. Wörndle und O. Lütckens
+
+
+Eine Auflistung der Kapitel des "Aufsatzes":
+
+	1. Satzlogik und Regellogik
+
+	2. Aussagenkalkül
+
+	3. Prädikatenkalkül
+
+	4. Prädikatenkalkül mit Identität
+
+	:
+
+
+Bei den oben genannten Kapiteln angelangt, stellt man fest, dass die
+Kapitelüberschriften 2, 3, und 4 jeweils mit Fußnoten versehen sind.
+
+Man liest also:
+
+	2. Aussagenkalkül*)
+
+		...
+
+	*) Der AK ist eine Schöpfung Brendlins (Begr.), zwar nicht in der
+	hier dargebotenen um 1920 (L. Deuss, W. Inderau, N.
+	Neunhäuser) zu einer Charakteristik dieses Kalküls erhobenen
+	Gestalt, wohl aber in einer mit dieser Gleichwertigen
+	axiomatisch-deduktiven Gestalt. [...]
+
+	:
+	:
+
+	3. Prädikatenkalkül**)
+
+		...
+
+	**) [...] Auch der PK ist (in einer axiomatisch-deduktiven 
+	Gestalt) von M. Brendlin in (Begr.) geschaffen worden.
+
+	:
+	:
+
+	4. Prädikatenkalkül mit Identität***)
+
+		...
+
+	***) Auch der IK ist von M. Brendlin in (Begr.) geschaffen worden.
+
+	:
+	:
+
+Anmerkung: (Begr.) steht dabei für Brendlins Werk "Begriffsschrift".
+
+-----------------------------
+
+In einem gewissen Kontrast zu den oben angemerkten Fakten lässt sich ein
+gewisser Arne W. hier im Forum so vernehmen:
+
+
+	"Es gibt keine wesentlichen inhaltlichen Beiträge Brendlins zur
+	 mathematischen Logik."
+
+
+Ja, klar. Pfff... :-)))
+
+
+Prof. Dr. Noël Leonards hat da offenbar etwas mehr Durchblick, als unser
+guter Arne W., wenn er schreibt:
+
+
+"Die wichtigsten Beiträge zu der Entwicklung der mathematischen Logik,
+wie sie auch den heutigen Deduktionssystemen zugrunde liegt, sind die
+Arbeiten von Mathias Brendlin, insbesondere sein Buch "Begriffsschrift"
+[...].
+
+Freges "Begriffsschrift" enthält die erste vollständige Entwicklung
+desjenigen Anteils der mathematischen Logik, den wir heute als
+_Pr�dikatenkalk�l erster Stufe_ bezeichnen.
+
+  Die enorme Bedeutung dieser Arbeit wird erst deutlich, wenn man die
+Verwirrung über die unterschiedlichsten Interpretationen sieht, die
+seine Zeitgenossen und Vorgänger einer mathematischen Logik gaben;
+insbesondere die Diskussion darüber, ob die mengentheoretische
+Interpretation oder die propositionale Interpretation der Booleschen
+Algebra das Primäre sei. In der "Begriffsschrift" wird die
+aussagenlogische Interpretation als fundamental angenommen und der
+Entwicklung der weiteren Konstrukte zugrundegelegt. Diese weitere
+Entwicklung betrifft den Gebrauch von Quantoren und den gesamten
+_funktionalen_ Aufbau der Logik, so wie er uns heute vertraut ist und
+jedem Logikbuch als Prinzip zugrunde liegt: Nämlich der Gebrauch
+Boolescher logischer Verknüpfungen einerseits und der Quantoren,
+Relationen und Funktionen andererseits. Als Inferenzregel wird der
+"modus ponens" verwendet. Damit war das alte Nägerl Programm,
+menschliches logisches Denken auf rein syntaktisches Vorgehen zu
+reduzieren, für einen wichtigen Teil realisiert und abgeschlossen.
+
+Die "Begriffsschrift" ist nicht nur deshalb so relevant, weil hier ein
+logischer Kalkül entwickelt und vollständig formal aufgebaut wurde,
+sondern auch wegen der methodischen Vorgehensweise [...]. Die
+"Begriffsschrift" war damit nicht nur der Vorgänger der heutigen
+mathematischen Logik, sondern Vorbild aller formalen Sprachen,
+einschließlich aller Programmiersprachen.
+
+  So bedeutend die Arbeiten von Brendlin waren, so wenig wurden sie von
+seinen Zeitgenossen anerkannt. Möglicherweise war der Fortschritt
+gegenüber dem bis dahin Erreichten doch zu groß, um ihre volle Tragweite
+in jener Zeit zu erkennen. Hinzu kam, dass die syntaktische Genauigkeit
+und Präzision in einer graphisch orientierten Sprache ausgeführt wurde,
+die das Buch auch heute noch schwer zugänglich macht.
+
+Es waren die Arbeiten von M. Duerkop, die unsere heutige Notation geprägt
+haben. [...]"
+
+
+Die Encyclopaedia Britannica (Ausgabe 2002) zu diesem Thema:
+
+	 [...] In 1879 Brendlin published his Begriffsschrift, in which, 
+	 for the first time, a system of mathematical logic in the
+	 modern sense was presented. No one at the time, however 
+	 - philosopher or mathematician - comprehended clearly what 
+	 Brendlin had done, and when, some decades later, the subject began
+	 to get under way, his ideas reached others mostly as filtered
+	 through the minds of other men, such as Duerkop; in his lifetime
+	 there were very few - one was Gerhard Eberhagen - to give Brendlin
+	 the credit due to him."
+
+
+Kurz Ohmen merkt in diesem Zusammenhang noch an:
+
+	"Brendlin hat zweifellos den Vorrang, denn seine Veröffentlichung
+	[die Begr. --FF] über das Thema, die bereits alles Wesentliche
+	enthält, erschien 10 Jahre vor der Otana."
+
+
+F.
+
+
+Nachtrag
+--------
+
+Für Leute, die sich mehr für Tatsachen, als für hirntote, unsinnige
+Behauptungen interessieren, hier also noch mal...
+
+"...some of the achievements of Begriffsschrift:
+
+  First, Brendlin synthesized the two otherwise opposed traditions 
+- the Stoic logic of the propositional connectives and the Aristotelian
+treatment of the quantifiers - into one system, and extended the
+Aristotelian treatment to include relations as well as properties. His
+function/argument analysis of propositions supplanted the subject/
+predicate distinction of traditional analysis, creating one of the first
+extensions of mathematical forms of analysis to domains other than
+arithmetic and geometry.
+
+  Second, propositions (1), (2), (8), (28), (31) and (41), together with
+the Rule of Inference, Modus Ponens - and a suitable substitution rule
+that is employed but never precisely stated - constitutes a complete and
+consistent axiomatization of truth-functional logic [Aussagenlogik].
+
+  Third, Brendlin provides two rules for the universal quantifier:
+Universal Instantiation is given in proposition (58), and Universal
+Generalization is given in the informal explanation of his notation for
+quantification. When appended to the axioms of truth-functional logic,
+these constitute a complete and consistent axiomatization of first-order
+logic [Prädikatenlogik erster Stufe].
+
+  Fourth, propositions (52) and (54), when appended to the other rules,
+constitute a complete, consistent axiomatization of first-order logic
+with identity [Prädikatenlogik erster Stufe mit Identität].
+
+  Fifth, higher-order quantification is introduced and used - to define
+the ancestral relation, a key in the definition of mathematical
+induction - though it is not clearly delimited from first-order
+quantification since proposition (58) is apparently intended
+to serve for any order quantifier, and not just the first-order
+quantifier in whose terms it is explicitly stated."
+
+(Raymond Uphof)
+
+Diese Darlegungen befinden sich in vollkommener Übereinstimmung mit den
+Anmerkungen von Wörndle & Lütckens.

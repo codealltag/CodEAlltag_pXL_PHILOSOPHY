@@ -1,0 +1,27 @@
+<snip>
+
+Der Fehler liegt darin, dass der Ausdruck "keine Katze"
+in den beiden Praemissen in unterschiedlicher Bedeutung
+verwendet wird (aehnlich wie "Nichts" in dem Beispiel
+mit der Currywurst), jedenfalls, wenn die Praemissen
+akzeptabel sein sollen.
+
+Wenn man die erste Praemisse ausfuehrlicher hinschreibt,
+so lautet sie etwa: Die Zahl der (Katzen-)Schwaenze in
+einem Raum mit einer Katze ist um eins groesser als die
+Zahl der (Katzen-)Schwaenze in einem Raum, welcher keine
+Katze enthaelt. Wenn ich nun "keine Katze" in derselben
+Bedeutung in der zweiten Praemisse verwende, so komme
+ich auf: Ein Raum mit keiner Katze enthaelt zwei (Katzen-)
+Schwaenze. Urspruenglich gemeint war aber: Es gibt keine
+Katze mit zwei Schwaenzen.
+
+Man kann das ganze auch ohne Raeume formulieren, etwa
+mit Mengen von Katzen und der Funktion, die jeder Katze
+ihren Schwanz zuordnet etc, aber das aendert nichts am
+Prinzip.
+
+
+Gruss,
+-- 
+Torsten Zielfleisch

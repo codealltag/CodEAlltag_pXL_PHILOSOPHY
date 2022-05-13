@@ -1,0 +1,58 @@
+Hallo Udo!
+
+
+AS> wahr falsch unentscheidbar Die Axiome sind nicht widerspruchsfrei.
+AS> 1*0=0 und (1/0 ist nicht definiert) ist nicht widerspruchsfrei.
+
+Worin liegt der Widerspruch?
+
+AS> Der Widerspruch wird nur ausgeblendet.
+
+Definiere "ausgeblendet".
+Davon abgesehen: die Undefiniertheit von 1/0 ist kein Axiom, sondern
+folgt aus den Axiomen der natuerlichen Zahlen.
+
+Irgendwie ist auch das Beispiel "normale (euklidische) vs. sphaerische
+Geometrie" verlorengegangen - obwohl gerade hier die Bedeutung von
+Axiomen sehr gut zu erkennen ist: die "normale" Geometrie basiert eben
+auf (willkuerlich angenommenen) Axiomen, die man genausogut durch
+andere ersetzen kann; dabei entsteht eine andere Geometrie (z.B. die
+sphaerische). Eine Diskussion ueber die Innenwinkelsumme eines Dreiecks
+ist sinnlos ohne die Angabe des Axiomensystems (eulidisches,
+sphaerisches oder eine anderes); keins dieser Systeme ist "richtiger".
+
+Es gibt lediglich die (durch Beobachtung entstandene) Vermutung, dass
+unsere Welt naeherungsweise euklidisch ist.Diese Eigenschaft des uns
+umgebenden Raumes hat einen Wahrheitswert, nicht jedoch die Frage, ob
+in "der Geometrie" die Innenwinkelsumme immer 180 Grad betraegt.
+
+Die Behauptung, der uns umgebende Raum sei "euklidisch", ist ausserdem
+durch Beobachtung prinzipiell falsifizierbar (aber eben nicht
+verifizierbar). Die Behauptung, dass im  euklidischen Raum die
+Innenwinkelsumme von Dreiecken 180 Grad betraegt, ist dagegen durch
+logische Schluesse beweis- oder widerlegbar; das macht den prinzipiellen
+Unterschied dabei aus.
+
+Oder, um es auf die Arithmetik zu beziehen: Dass eins plus eins zwei
+ergibt, ist eindeutig durch logische Schluesse beweis- oder
+widerlegbar.
+
+Ob dagegen ein Apfel und noch ein Apfel zwei Aepfel ergeben, ist
+durch Beobachtung allgemeingueltig nur falsifizierbar. Sollte jemand
+das Gegenteil allerdings beobachten, ist nur die allgemeine Anwendung der
+Arithmetik auf die Zusammenlegung von Aepfeln falsch, nicht jedoch die
+mathematische Arithmetik. Man wuerde schlicht sagen "Aepfel sind nicht
+additiv" :-)
+
+Also: mathematische "Wahrheit" ist durch logisches Schliessen von den
+Axiomen auf die Behauptung zu erlangen (Beweis oder Widerlegung)
+
+Naturwissenschaftliche "Wahrheit" ist nur durch Beobachtung zu
+falsifizieren.
+
+Siehst Du jetzt, dass es sich hier um zwei voellig getrennte Begriffe
+von Wahrheit handelt, die man nicht verwechseln oder vermischen darf?
+
+Tschuessi
+
+Cornelius

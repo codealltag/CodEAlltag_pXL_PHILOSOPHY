@@ -1,0 +1,33 @@
+Zitat:
+Was Du hier vorschlägst, ist quasi "&" als "," zu lesen; dann würde der
+Schluss
+
+	A & B |= A
+
+nichts anderes bedeuten als
+
+	A, B |= A
+
+und Letzteres lässt sich in der Tat aus der Definition eines gültigen
+Schlusses gewinnen.
+
+Nun würde sich aber bei dieser Definition die FRAGE stellen, wie z.B.
+die Konklusion des Schlusses
+
+	A & B |= B & A
+
+zu verstehen ist!
+
+Zwar ist bekanntlich
+
+	A, B |= B & A
+
+gültig, aber
+
+	A, B |= B, A
+
+ist SINNLOS. (Bekanntlich darf als Konklusion eines Schlusses -per Def.-
+nur genau _eine_ Formel auftreten.)
+
+Man kann also nicht einfach "&" als "," lesen. (Carsten)
+Zitat Ende

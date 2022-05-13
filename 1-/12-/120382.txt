@@ -1,0 +1,22 @@
+Du solltest hier besser schreiben: 0,000...
+
+Ja. (Zumindest im Bereich der reellen Zahlen.)
+
+
+F.
+
+
+P.S. Wie will man aber den Begriff "unendlich kleine Zahl" präzise
+fassen? Am besten so:
+
+Def.:
+
+	a heiße unendlich klein, wenn |a| < 1/n für alle n e N ist.
+
+Das leuchtet ein. Denn wenn das nicht der Fall ist, wenn es also ein 
+m e N gibt, so dass 1/m kleiner oder gleich |a| ist, dann ist natürlich
+a sicher nicht "unendlich klein" (nach unserem "intuitiven" Verständnis
+von unendlich klein).
+
+Dann aber folgt aus der sog. archimedischen Eigenschaft der reellen
+Zahlen, dass a = 0 ist, falls es unendlich klein ist. :-)

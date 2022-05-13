@@ -1,0 +1,11 @@
+Die Antwort ist zwar in meinem Sinne, trotzdem sehe ich noch Probleme:
+
+Nennen wir die Aussage "Jede gerade Zahl lässt sich als Summe zweier 
+Primzahlen darstellen" mal Aussage "A"
+
+Ist dann "A or not A" gleich TRUE?
+Ist "A and not A" gleich FALSE?
+
+Oder sollte man sich auch von diesen Vorurteilen lösen? ;-)
+Größe,
+Elmar

@@ -1,0 +1,14 @@
+Nein. In der Modallogik sind "[]" und "<>", sofern nicht weiter
+spezifiziert, modale Satzoperatoren, die sich syntaktisch und bis zu
+einem bestimmten Grad semantisch (z.B. wahrheitskonditional in der
+Kripe-Semantik) unabhängig von der intendierten Anwendung
+charakterisieren lassen. Dass man die "allgemeine Theorie" häufig
+anhand einer Paraphrase von "[]p" als "Es ist (logisch) notwendig,
+dass p" und "<>p" als "Es ist (logisch) möglich, dass p" einführt,
+dient auf dieser Stufe der Motivation der Begriffsbildungen und
+Axiome. Erst dann, wenn man zu einer speziellen Semantik bei einer
+Anwendung kommt, etwa Zeitrahmen betrachtet, wird die "intendierte
+Interpretation" wichtig. 
+
+
+Knut

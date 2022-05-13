@@ -1,0 +1,55 @@
+Das ist richtig.  Und ich ziehe natürlich einen Compiler vor, der mich
+zur Compilezeit warnt und es gewissermassen wie einen Syntaxfehler
+behandelt.
+
+
+Wenn man es so sieht, steht natürlich das Problem gar nicht, ob ein
+Fehler nun syntaktischer oder inhaltlicher Art ist.  Ansonsten s.u.
+
+
+Den Compilerbauer interessiert aber eindeutig nur ob ein String "123"
+ausgegeben wird, und nicht die Bedeutung der Ausgabe.  Insofern ist
+obige Definition für die Bedürfnisse der Compilerbauer adequat. (Das
+Buch aus dem sie kommt heisst auch "Compiler und Interpreter für
+höhere Programmiersprachen".)
+
+Damit überlebt meine These 
+
+
+ja doch noch (ich hatte sie gerade schon aufgeben wollen ;-).
+
+
+Sie ist aber doch jedem Compiler verständlich.  Genauer, ein
+Primitiv-Prototyp eines Compilers, von dem ich nur erwarte dass er aus
+richtigem Code ein richtiges Programm macht, wird den Text problemlos
+in Code übersetzen.  Ein ausgebauter Compiler der ihn nicht in Code
+übersetzen will ist eigentlich bloss Schikane des Compilerbauers.
+
+
+Wofür?
+
+
+Nun, für Compilerbauer ist sie zumindest viel natürlicher als die
+philosophische.  Ob die vom Programm ausgegebene "123" eine Bedeutung
+hat interessiert den Compilerbauer schliesslich nicht.  Da ich schon
+glücklich genug bin, überhaupt ein Lehrbuch über Informatik gefunden
+zu haben, verzichte ich darauf diese These anzuzweifeln und diese
+Zweifel dann irgendwie belegen zu müssen.
+
+
+Darüber sind wir uns einig, denke ich. 
+
+
+Wenn die Realarithmetik genügend genau definiert ist (Maneti Standard)
+sollte dies eigentlich nicht davon abhängen.  Dass es in der Realität
+trotzdem passiert ist eher Kinderkrankheit als fundamentales Problem.
+
+
+Damit kann ich leben ;-).
+
+He, bei einer philosophischen Diskussion EOD im Einvernehmen?  Ist da
+ein FAQ Erkenntnistheorie vielleicht doch nicht völlig hoffnungslos?
+
+Kaspar
+-- 
+C. Zogbaum, <wpib@rwos-romflbpfn.daz> , http://ckzw-hqehpwyqr.oaz

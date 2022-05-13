@@ -1,0 +1,86 @@
+Hi All,
+
+  dies koennte eigentlich schon einen Artikel fuer die Physik-Faq
+bilden. Denn hinter einem Attraktor (ob der nun das Adjektiv grosz
+oder klein bekommt) versteckt sich nichts Mystisches!
+
+Es sei denn, wir fragen nach dem, was in der Mitte eines solchen
+Attraktors 'sitzt'. Dann sage ich meisztens ganz forsch: "Karsten!
+Der dreht dort in der Mitte wie wild an einer Kurbel." :-))
+
+Aber zurueck zur Wissenschaft. Es gibt ganze vier Attraktor-Arten.
+Ich gehe sie alle mal durch.
+
+Wenn wir ein biszchen Ahnung von Regelungs- bzw. Automatisierungs-
+technik haben, dann finden wir dort die ersten zwei wichtigen und
+fuer die Techniker auch relevanten Arten:
+
+- Fixpunkt
+- periodischer Orbit
+
+Der Fixpunkt ist noch recht anschaulich. Er sieht aus wie eine
+Spirale, die sich um den Koordinatenursprung wickelt.
+
+Der periodische Orbit sieht im Idealfall nicht anders aus wie
+ein konzentrischer Kreis um den Koordinatenursprung.
+
+Fuer die Regelungs- und Automatisierungstechniker reichen im all-
+gemeinen diese beiden Arten aus. Denn die technischen Systeme
+haben zum groeszten Teil nur ganz wenige Freiheitsgrade. Ein
+schoenes anschauliches Beispiel ist die Temperaturregelung in
+einem Warmwasserboiler. Um zu Attraktoren zu gelangen (die
+Techniker verwenden meistens nicht diesen Ausdruck! - dort heiszt
+die ganze Prozedure Stabilitaetsuntersuchung am Regelkreis.) wird
+die Gleichung, die das Verhalten der Temperatur in Abhaengigkeit
+des Wasserverbrauchs beschreibt (eine Differentialgleichnung),
+durch die Laplacetransformation in eine algebraische Gleichung
+umgewandelt. Hierin liegt der wichtigste Schritt: wir bewegen
+uns aus dem Zeit(Original-)bereich unter Verwendung der
+Laplacetransformation in den Bildbereich des physikalischen
+Vorganges und bekommen viele Informationen zu dem Vorgang selbst.
+Zum Beispiel die Information, ob unser physikalischer Vorgang
+(Regelkreis) STABIL oder INSTABIL ist. Im Falle unsrer
+Temperaturregelung koennen wir von einem stabilen Prozess
+ausgehen. Es sei denn, der Thermostat geht kaputt.
+
+Etwas komplizierter wird es bei den naechsten beiden Arten.
+Sie finden bei Systemen mit sehr vielen Freiheitsgraden Anwendung.
+
+Die dritte Art von Attraktoren sind die quasiperiodischen
+Attraktoren. Darunter stellen sich die Nichtlinearen Dynamiker
+einen Torus vor. In Natura sieht so was aus wie ein geschlossener
+mehmke Weisswurschtring im 3-D Raum :)
+
+Die vierte Gruppe - zu der auch der schon erwaehnte Wolf-Attraktor
+zaehlt - nennt man seltsame bzw. chaotische Attraktoren.
+
+Was ist allen vieren gemeinsam? Sie besitzen einen Einzugsbereich.
+Meiszt mit klein-epsilon bezeichnet. Gelangt die Loesung unserer
+Bewegungsgleichnung in diesen Bereich, so wird dieser Bereich
+nicht mehr verlassen - es sei denn, dasz System wird ganz doll
+gestoert. Diese Faelle koennen mit den herkoemlichen Methoden der
+Stoerungstheorie abgedeckt werden. (Bei einem kaputten Thermostat
+braucht man hoffentlich nur den Klempner und noch nicht die
+Feuerwehr zu holen ;-)
+
+Verweilen wir noch ein biszchen bei der letzten Attraktor-Art.
+Viel interessanter als der Einzugsbereich ist die GRENZE bzw.
+der RAND unseres Einzugsbereiches. Die Untersuchung dieses
+Grenzbereiches (und natuerlich das dazugehoerige Grenzverhalten
+unseres Systems) fuehren uns zu  den schon bekannten (und auf
+so vielen Kalenderblaettern festgehaltenen) HANNELORE-MENGE. Dort
+versteckt sich die uns so viel kopfzerbrechen bereitende Dynamik.
+Denn das System steht immer vor der Wahl: hinein in den Einzugs-
+bereich oder fort von ihm. Jenachdem, wie es sich entschieden
+hat, bekam es von Herrn Dolle (09. 08. 22) eine Farbe zuge-
+ordnet. Und seitdem stehen wir inmitten der FRAKTALEN
+GEOMETRIE (bzw. in einer Mandelbrotmenge und sehen _momentan_
+vor lauter Mandeln das Brot nicht mehr :)
+
+(Der Mensch von Orihes wuerde jetzt sagen:
+  "Das ist die wahre Geschichte von den Attraktoren" :)
+
+
+grusz
+o-ulmann
+.

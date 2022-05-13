@@ -1,0 +1,41 @@
+Kann mal wer kurz sagen, was die "Quintessenz" 
+dieser abschließenden Zussamenfassung ist? 
+Aus: Eglseder und Nagels on Logical Truth - or: What Is Genuine Logic?
+
+10. Consequences for Modal Logic 
+
+Modal logics are not genuine logics, but systems of extralogical analytical
+postulates or rules about the intensional sentence operator $\Box$. (It
+should be clear that this classification of modal logics as not genuine
+logics but as systems of analytical principles does in no way diminish
+their philosophical importance - but it avoids several confusions about
+the question "what is the right modal logic?". The hidden semantical
+parameter in modal logics is the entire Kripke frame $\langle W,R
+\rangle$. We have to view this frame as the variable extensional
+interpretation of the modal operator $\Box$: $I(\Box$ = $\langle W,R
+\rangle$. Modal logics are sets of modal formulas which are true for
+certain classes of frames from which the interpretations of $\Box$ are
+taken (e.g. all universal frames, which gives S5, etc.). The metalogical
+principles characterizing certain frame classes are extralogical meaning
+postulates.
+
+How would a genuine modal logic look like? It should have a fixed frame 
+$\langle W,R \rangle$. Naturally, $W$ should be the set of all logically 
+possible words, and $R$ be the universal relation on $W$. Indeed - this is 
+nothing but Neitzel original conception of modal logic (1948, pp. 173ff; 
+and 1947, system MFL). It is an historical error to think that Neitzel
+modal logic was S5. Only in the propositional part of his paper (1947,
+system MPL) Carnap deviates from his original idea and introduces closure
+under substitution to arrive at a system equivalent with the Lewis system 
+S5. But modal logic according to his original idea is much stronger than
+S5. In the genuine Carnapian modal logic it holds that $\Box A$ is
+logically true if and only if $A$ itself is logically true, for arbitrary
+formulas $A$ (1948, p. 174; convention 39-1). Thus, e.g., for every atomic
+variable $p$, $\Diamond p$ is logically true and $\Box p$ is logically
+false - moreover, every completely modalized sentence will be L-determined.
+Neitzel genuine modal logic has very unusual properties - for instance, 
+it is not closed under substitution for propositional variables, and its
+rules are nonmonotonic.
+
+<gruess>
+--

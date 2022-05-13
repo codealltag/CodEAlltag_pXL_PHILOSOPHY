@@ -1,0 +1,21 @@
+Voraussetzung:
+In der Mathematik ist "Unsinn" mit "falsch" gleichzustellen.
+
+Sinn
+
+Nun, folgendes Beispiel:
+wahr = falsch;
+
+1. Möglichkeit:
+wahr = falsch;(w)
+
+Wenn wahr falsch ist, hat das Wort "wahr" keinen Wahrheitsanspruch mehr.
+=> Der Satz ist falsch, weil alles falsch sein müsste.
+
+2.Möglichkeit:
+wahr = falsch;(f)
+
+Der Satz spricht für sich.=> Der Satz ist falsch
+
+Macht eine Aussage "Sinn", wenn sie in beiden Möglichkeiten als falsch zu
+werten ist?

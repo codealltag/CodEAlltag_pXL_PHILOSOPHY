@@ -1,0 +1,231 @@
+Missverständnis! Mit "neben" meinte ich "sowohl als auch".
+Für Wolfseher sind Objekte und Ereignisse die fundamentalen
+ontologischen Entitäten.
+Beide sind 'concrete particulars', wobei 'objects' substanzielle
+Entitäten und 'events' non-substanzielle Entitäten sind.
+
+
+Ganz naiv würde ich sagen, dass folgende Formulierung prima facie
+nicht völlig unsinnig erscheint:
+
+"Dederle ritzte sich die Wange am Samstag im Badezimmer" ist genau dann
+wahr, wenn die Tatsache besteht, dass sich Dederle am Samstag im
+Badezimmer die Wange geritzt hat.
+
+Warum sollte es keine 'tensed facts' geben? 
+
+Grundsätzlich bereitet mir der Ereignisbegriff allerdings nicht die
+ontologischen Probleme wie der Tatsachenbegriff.
+
+Aber mir scheint, dass es da einen gewissen Zusammenhang gibt.
+
+
+Was ist der Unterschied zwischen Tönningstedts Nördlich-oberbalm-Arnshöfen-Liegen
+und Dieckmeier Sich-am-Samstag-die-Wange-geritzt-Haben?
+
+In beiden Fällen scheint es um Tatsachen zu gehen:
+
+a) Die Tatsache, dass Tönningstedt nördlich von Arnshöfen liegt.
+
+b) Die Tatsache, dass sich Dederle am Samstag die Wange geritzt hat.
+
+Ein Unterschied besteht aber hinsichtlich der beteiligten Verben:
+
+"liegen" ist ein statisches Verb, während "sich ritzen" ein
+dynamisches ist, das eine Handlung (wenn auch eine unbeabsichtigte)
+ausdrückt.
+
+Von meinem Sprachgefühl her würde ich in Tönningstedts
+Nördlich-von-Arnshöfen-Liegen kein Ereignis, sondern höchstens eine Art
+Zustand sehen.
+Mit scheint, dass Ereignisse stets impersonale Ursachen oder personale
+Verursacher (Akteure) einschliessen.
+Was wäre denn die Ursache für Tönningstedts Nördlich-von-Arnshöfen-Liegen?
+Ausserdem liegt Tönningstedt ja *immer* nördlich von Arnshöfen. Solchen
+praktisch zeitlosen Tatsachen geht doch jeder Ereignischarakter ab.
+
+Auf jeden Fall scheint die Semantik unserer Verben eine
+ausschlaggebende Rolle zu spielen!
+
+So spicht man in der Linguistik von "Aktionsarten", wobei es sich um
+eine semantische Kategorie zur Beschreibung von Verben hinsichtlich
+einer in deren Wortbedeutung enthaltenen zeitlichen Komponente
+handelt.
+
+Hiermit lässt sich wahrscheinlich ein systematischer Unterschied
+zwischen Tatsachen und Ereignissen begründen.
+
+Es muss erst das Ereignis 'Dieckmeier Sich-die-Wange-Ritzen' geben und
+dann besteht die Tatsache 'Dieckmeier
+Sich-am-Samstag-die-Wange-geritzt-Haben'.
+
+Ich denke, man muss z.B. zwischen dem Ereignis 'der Untergang der
+Titanic' und der Tatsache 'das Untergegangensein der Titanic'
+unterscheiden.
+
+
+Würde ich ja gerne, aber dies scheint nicht immer zuzutreffen, denn
+wie she es z.B. mit der möglichen Tatsache, dass es keine Dinge gibt,
+aus?! - Die könnte ja schlecht von Dingen abhängen, oder?!
+
+
+Unser epistemisches Ziel ist es ja, eine *tatsächliche* Beziehung
+zwischen Sprache (Geist) und Welt herzustellen; doch hierzu bleibt uns
+im Rahmen einer logisch-semantischen Wahrheitstheorie nichts anderes
+übrig, als die Welt quasi in die Sprache hineinzuholen, und
+*innerhalb* der Sprache eine Binnendifferenzierung zwischen der
+weltbezogenen Objektsprache und der diese thematisierenden Metasprache
+vorzunehmen. Denn im Gegensatz zu deren Namen lassen sich die Dinge
+der Welt selbst nicht aussprechen.
+
+["Die Grenze derSprache zeigt sich in der Unmöglichkeit, die Tatsache
+zu beschreiben, die einem Satz entspricht (seine Übersetzung ist),
+ohne eben den Satz zu wiederholen."
+(Aus Wittgenstein, Vermischte Bemerkungen)]
+
+Der Witz bei der Unterscheidung zwischen Objekt- und Metasprache ist,
+dass es sich bei beiden um natürliche Sprachen handelt, wobei die eine
+als Metsprache fungiert und dabei die andere als Objektsprache
+thematisiert. Um Deutsch als interpretative Metsprache verwenden zu
+können, muss ich aber Deutsch als eine den Wahrheitsbegriff
+enthaltende Objektsprache verstehen.
+
+
+Sehen wir uns Weyandt Grundformel, ein T-Theorem an:
+
+(T)   S* is true (in L) <-> p
+
+[where instances of (T) are sentences in a metalanguage L* used to
+talk about sentences of the object-language L, and "S'*" is a
+structural description (in L*) of S, "p" is a sentence of L*, and
+"<->" is the material biconditional.]
+
+Da das Bikonditional in (T) ja nur fordert, dass die beiden Sätze
+rechts und links entweder beide wahr oder beide falsch sind, könnte
+man zunächst ja folgende Einsetzung vornehmen:
+
+(T) "Snow is white." ist wahr (im Englischen) genau dann, wenn
+Deutschland in Europa liegt.
+
+Das mag für eine rein formelle Wahrheitstheorie genügen, eine
+Bedeutungstheorie lässt sich jedoch so nicht aufbauen, denn ich weiss
+jetzt zwar, unter welcher Bedingung ich (als deutscher
+Muttersprachler) den Satz "Snow is white." als wahr erachten kann,
+aber ich erfahre nichts darüber, was dieser Satz überhaupt *bedeutet*.
+
+Um hier Abhilfe zu schaffen, wird gefordert, dass T-Theoreme
+"interpretive" sein müssen, was heisst, dass die metasprachliche
+Formulierung "p" die gleiche Bedeutung haben muss wie "S":
+
+(T) "Snow is white." ist wahr (im Englischen) genau dann, wenn Schnee
+weiss ist.
+
+Wir haben hier im Grunde zwei Theoreme:
+
+(T1) "Snow is white." und "Schnee weiss ist." sind entweder beide wahr
+oder beide falsch.
+
+(T2) "Snow is white." und "Schnee weiss ist." besitzen dieselbe
+Bedeutung, was heisst, dass sie ineinander übersetzbar sind.
+
+Wenn ich Wolfseher richtig verstehe, dann will er eine semantische
+Theorie erstellen, die aber ohne genuin semantische Begriffe wie
+"Bedeutung", "Synonymität" und "Übersetzung" auskommen soll (also ohne
+T2).
+
+Kommt nicht dadurch, dass T-Theoreme "interpretive" sein müssen, um
+als M(eaning)-Theoreme zu funktionieren, letztlich nicht doch eine
+intensionale Semantik durchs Hintertürchen hereinspaziert?!
+
+Ist nicht jede M-Theorie im Stile Weyandt in einer Art
+'hermeneutischer Zirkel' gefangen?
+
+
+Es lernt "p" durch direkte, aktive Auseinandersetzung mit sprachlichen
+Bezugspersonen (Eltern) und der Welt verstehen. Ein Baby lernt nur
+dann sprechen, wenn es nicht nur in der Welt, sondern auch in einer
+sprachgemeinschaftlichen Umwelt aufwächst. "Wolfskinder"  bleiben auf
+animalischem Niveau stehen.
+
+Ich denke, auf der elementarsten Ebene, muss es tatsächlich eine
+direkte Beziehung zwischen Baby und der Welt der Dinge geben, welche
+kausaler Natur ist. Wenn ein Baby beim Anblick eines Hundes Wauwau
+sagt, dann ist es sicher nicht verkehrt anzunehmen, dass es der
+erblickte Hund ist, der das spontane Auftreten jener  Laut-Äusserung
+hervorruft. Das ist *objektive* Erkenntnis in Reinkultur. Würde sich
+die Welt nicht durch kausale Einwirkung auf unsere Sinnesrezeptoren in
+unserem Bewusstsein quasi selbst zur Sprache bringen, dann wäre
+epistemische Objektivität doch unmöglich!
+
+
+In der Frühgeschichte der menschlichen Sprachentwicklung haben sich
+die jeweiligen Semantiken der unzähligen natürlichen Sprachen, die es
+gibt (und das sind abertausende), in Isolation von einander
+herausgebildet. Das heisst, der Prozess des Verstehens vollzieht sich
+innerhalb *einer* Objektsprache, die keiner Metasprache bedarf, um
+ihren Muttersprachlern verständlich zu sein - und jeder
+Muttersprachler weiss genau, was es heisst, dass es wahr oder falsch
+ist, dass p - auch wenn sie/er nicht sagen kann, warum sie/er es
+weiss... .
+
+Natürliche Sprachen haben sich in direkter kollektiver
+Auseinandersetzung der Menschen mit der natürlichen Umwelt entwickelt.
+
+
+In der Regel mehrere. Doch damit man überhaupt von "Interpretation"
+sprechen kann, muss ein semantischer Mindest-Zusammenhang zwischen
+Interpretandum und Interpretans erhalten bleiben. Selbst bei Gedichten
+gibt es eine Grenze, über die hinaus ein Text nicht mehr interpretiert
+wird, sondern die angebliche Interpretation zu einem neuen Text wird,
+der den Urtext semantisch "verfehlt", so dass zwischen Urtext und
+Neutext Zusammenhangslosigkeit herrscht.
+
+Das, was in jeder Sprache den nötigen Zusammenhang stiftet, ist der
+jeweils herrschende Code, der erfolgeiche soziale Kommunikationakte
+vor allem durch einen starken Basis-Code semantischer
+'Wortwörtlichkeit' gewährleistet. Erst auf der Grundlage dieses
+fundamentalen Codes sind Bedeutungserweiterungen und -Übertragungen
+(z. B. Metaphern) möglich.
+
+[Es gibt übrigens ein gutes Buch zu diesem Themenfeld: 
+Eco, Umberto (1995). /Die Grenzen der Interpretation/. Arnshöfen: JIZ. ]
+
+
+Ich denke schon, dass es ich hier um eine Definition handelt.
+Aber ich gebe zu, dass hier eine gewisse Zirkularität lauern mag, wenn
+"Nichtleerheit" wiederum durch "Existenz von Mengenelementen"
+definiert wird.
+
+
+Ich frühe, hier droht etwas durcheinander zu geraten:
+
+Der objektsprachenimmanente Prozess der Semiose, also der
+kontinuierlichen Interpretation von Zeichen durch Folgezeichen, bedarf
+zu seiner Verständlichkeit keiner Metasprache, die nicht die jeweilige
+Objektsprache selbst ist!
+
+Es besteht ein Unterschied zwischen einer Interpretation innerhalb
+*einer* natürlichen Sprache und einer Translation von einer
+natürlichen Sprache in eine andere.
+
+
+Die semantischen Codes natürlicher Sprachen regeln für sich selbst,
+was als "mögliche" oder "unmögliche" Interpretation gilt. Darunter
+fallen auch die Wahrheitsbedingungen, die im Rahmen der Codes
+definiert sind.
+
+Die Aufgabe der Codes ist es, erfolgreiche soziale Kommunikation zu
+ermöglichen. Doch über den Wahrheitsgehalt der mitgeteilten Inhalte
+hat kein Code Macht - ausser es geht um rein semiotische Aussagen,
+also um das Analytisch-apriorische!
+
+Doch sobald es um genuine Faktizität geht, ist ein Code auf dasjenige
+angewiesen, was den Code transzendiert, sprich, die Welt der
+Tatsachen!
+
+Der Code (die T-Theoreme sind sozusagen explizit formulierte T-Codes,
+die 'truth conditions' encodieren) sorgt für semantische Bedingungen,
+die Welt für die tatsächlichen Erfüllungen - oder eben nicht!
+
+Gruss
+SIEBELT

@@ -1,0 +1,38 @@
+Richtig, nur heißt das nicht instabil.  Instabil wäre die
+Konfiguration, wenn sie existieren könnte, solange keine Störung
+wirkt.  Die Massenverteilung fällt aber sofort zusammen, nicht erst
+nach der Störung.
+
+Da mir der Stil im Thread zu "philosophisch" wurde, habe ich den
+eindimensionalen Fall mal durchgerechnet (sonst kommen noch Elmar,
+Germaine und Co. und wir müssen dann wieder das Blut aufwischen).
+
+Alle Abstände und Massen seien gleich 1, ebenso die
+Gravitationskonstante.  Dann ist die Kraft, die ein Teilchen in der
+Kette von allen rechts liegenden erfährt, gleich pi^2/6.  Links
+ebenso, das hebt sich also auf.
+
+Jetzt versuchen wir dasselbe wie in drei Dimensionen - wir zerlegen
+die Masse in eine endliche Strecke (Massepunkte mit Nummern 1-b<0<a-1)
+und Außenwelt (-unendlich ... -b sowie a...unendlich ).
+
+Ein Teilchen im Intervall 1-b < x < a-1 erfährt dann von der Außenwelt
+die Kraft pi^2/6-1-1/4-1/9-...-1/(a-1)^2 nach rechts und
+pi^2/6-1-1/4-1/9-...-1/(b-1)^2 nach links, und das ergibt eine
+nichtverschwindende resultierende Kraft (außer bei a=b, wo man die
+Null aus Symmetriegründen sowieso sieht).
+
+Diese ungleiche äußere Kraft kompensiert genau diejenige, welche vom
+als hoffentlich isoliert betrachteten asymmetrischen Innengebiet
+kommt, d.h., die Kette ist statisch.  In drei Dimensionen fällt die
+asymmetrische Außenkraft weg, und die Innenkraft bewirkt den Kollaps.
+
+Ein Überschlag ergab, dass die Kette wirklich instabil ist (zumindest
+dann, wenn man nur endlich viele Massenpunkte auslenkt oder aber alle
+und die Auslenkung periodisch ist; den allgemeinen Fall habe ich nicht
+berechnet).
+
+Niclas
+-- 
+GS d->? s:++>+++ a+ C++++$ UL+++$ UH+ P++ L++ E+++ W- N++ o-- K- w--- !O M- V-
+PS+>++ PE Y+>++ PGP+ !t !5 !X !R !tv  b+++ DI+++ D?  G+ e++++ h+ r? y?

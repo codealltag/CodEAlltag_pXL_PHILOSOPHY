@@ -1,0 +1,58 @@
+[XPost & F'up2 de.sci.biologie; das Thema hat mit Philosophie nichts
+mehr zu tun, dafür mit Biologie umso mehr. Bitte Fachwissen injizieren
+-- danke.]
+
+
+Dann korrigiere mich bitte. Ich gebe wieder, wie ich Dich verstehe. Auf
+diese Weise werden Missverständnisse hoffentlich deutlich und können
+behoben werden. Anscheinend verstehe ich Dich falsch -- da würde es mir
+helfen, wenn Du nochmal erklären würdest, was Du tatsächlich meinst.
+
+
+Gene werden ausschliesslich an Nachkommen weitergegeben. Wenn nur solche
+Nachkommen Überleben, die ein bestimmtes Gen (bzw. Allel) haben, so
+geht es ganz schnell, bis 100% der Population dieses Allel haben -- die
+anderen sind nämlich ausgestorben. Wenn der Fitness-Unterschied nicht
+zwischen Leben und Tod ist, sondern nur sehr gering, so hat er trotzdem
+über lange Zeiträume, einige 1000 Generationen, massive Auswirkungen.
+
+
+Sinnvoll kann man die Frage nur bezogen auf bestimmte Populationen
+stellen, also auf Gruppen von Lebewesen, die sich untereinander
+fortpflanzen.
+
+Ich weiss nicht, wie die Biologen so etwas typischerweise rechnen, aber
+ich versuche mal selbst mein Glück.
+
+Annahmen:
+- Anfängliche Populationsgröße von 1000 Individuen.
+- Jedes normale Individuum produziert 10 Nachkommen.
+- Ein Mutant wird geboren, der ein dominantes Gen besitzt, dass die
+Fitness seiner Träger so erhöht, dass sie 10,1 Nachkommen produzieren.
+
+In n Generationen haben die normalen Individuen 999 * 10^n Nachfahren.
+Der erste Mutant hat 1 * 10,1^n Nachfahren. Die Nachfahren Überleben
+nicht alle, aber die Überlebenswahrscheinlichkeit ist für alle gleich,
+deshalb ändert der Sensenmann den Anteil von Mutanten an der Population
+nicht. Dieser Anteil ist
+
+        1 * 10,1^n
+  ------------------------
+  999 * 10^n +  1 * 10,1^n
+
+Für n = 1000 sind 95% Mutanten, für n = 2000 sind es 99%. Nehmen wir
+eine halbwegs menschliche Generationsdauer von 20 Jahren an, dann hat
+sich die Mutation in schlappen 40000 Jahren in der Population
+durchgesetzt. Und das, wohlgemerkt, obwohl der Unterschied zwischen
+normal und mutiert lediglich 1% ausgemacht hat. -- Die Zeit ist so
+unglaublich kurz, dass ich fast sicher bin, dass ich bei der
+Modellierung einen Fehler gemacht habe... Wie immer: Wer's besser
+weiss, korrigiere mich bitte.
+
+
+Paul
+
+-- 
+Paul Fühling              The usual excuse for our most unspeakable
+mailto:jjqxezs@wpvjfitr.uc      public acts is that they are necessary.
+http://jsc.ohgqspbc.ij/wqapaev/                      --Gaby S. Frieske

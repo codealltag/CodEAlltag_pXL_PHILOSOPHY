@@ -1,0 +1,103 @@
+[ Ich halte die Fragen zur Begründung der Zahlen und zur Unendlichkeit
+für eminent philosophische, und hoffe, dass mir diejenigen, die diese
+Diskussion auf de.sci.mathematik beschränkt sehen möchten, mir das
+nicht übelnehmen. ]
+
+
+Jürgen Dove in 9W5B40X3.N95P017S@wzu.arw-knywriskgz.oe :
+
+
+Wunderschönes Beispiel: 1 Null, gefolgt von 27 Strichen und danach
+von 3 Punkten.
+
+Aber inwiefern du durch "draufzeigen" das Symbol mit 100 Strichen
+(d.h. die ganze Zahl 100) generierst, ist mir schleierhaft. Es
+ist doch genau umgekehrt: Zuerst musst du diese (wenn interpretiert)
+potentiell unendliche Reihe mindestens bis zu 100 Strichen aktual
+verlängern, und erst dann kannst du auf das Symbol 100 zeigen.
+
+Und apriori sehe ich keinen Grund, warum man dein Beispiel nur als
+(potentiell) unendliche Reihe, nicht aber auch als Darstellung
+einer (potentiell) unendlichen Zahl interpretieren darf.
+
+
+Unendlich bedeutet "ohne Ende". Und etwas, das nie aufhört, darf
+nicht als als Ganzes gegeben oder gar begrenzt angesehen werden
+(z.B. von transfiniten Zahlen). Das ist der entscheidende Punkt.
+
+
+Niclas Andres in 5W7V849U.3GV48IY4@fvaum.xxt :
+
+
+Dann haben wir also die Unterscheidung:
+
+ - endlich begrenzt (von einer oberen Schranke)
+ - endlich unbegrenzt
+
+
+Vielleicht wegen der Zweideutigkeit des Begriffes "endlich". Dass
+eine unbegrenzte Endlichkeit potentielle Unendlichkeit impliziert,
+scheint mir klar.
+
+
+Zur Potenzmenge der natürlichen Zahlen gehört als Element auch die
+Menge mit folgender Konstruktionsvorschrift: Man entscheidet per
+per Münzwurf, welche Zahlen zur Menge gehören. Man startet diesen
+Entscheidungsprozess mit der Zahl 1 und wendet ihn danach immer
+auf den Nachfolger der vorigen Zahl an. Da dieser Prozess unmöglich
+zu einem Ende kommen kann, ist die so definierte Menge nie fertig
+somit auch nicht gegeben.
+
+Dasselbe Problem gibt es auch beim Diagonalprinzip, mit dem Segbert
+zeigte, dass es zu jeder abzählbaren Menge M reeller Zahlen eine
+weitere reelle Zahl gibt, die nicht in M enthalten ist. Es ist
+nämlich unmöglich, auch nur eine einzige irrationale Zahl in
+Segberts Liste zu schreiben, da man ohne Ende weitere Ziffern
+hinzufügen müsste.
+
+Der wesentliche Unterschied, der der Unterscheidung von "abzählbar
+unendlich" und "überabzählbar unendlich" zugrunde liegt, ist die
+Benennbarkeit oder Nicht-Benennbarkeit aller Elemente. Ich
+kritisiere den Begriff "überabzählbar" nur insofern er "mehr als
+unendlich" suggeriert. Obwohl gilt
+
+- eine Bijektion zwischen den ganzen Zahlen und allen Punkten auf
+  der idealisierten Zahlengeraden ist nicht möglich
+- eine Bijektion zwischen den ganzen Zahlen und einer Teilmenge
+  der Punkte auf der Zahlengeraden ist möglich
+
+halte ich den Schluss, dass die Unendlichkeit aller Punkte auf der
+Zahlengeraden irgendwie grösser als die Unendlichkeit der ganzen
+Zahlen sein soll, für verfehlt. Denn dann müsste die Unendlichkeit
+der ganzen Zahlen ein Ende haben, hinter dem sich eine grössere
+Unendlichkeit befinden könnte.
+
+
+Nino Gräf in 5f5r2my7.708716813@aasd.kcz.fgc.ag :
+
+
+Ein aus einem einzigen Punkt bestehendes Intervall ist eine logische
+Unmöglichkeit, denn Intervalle sind 1-dimensional und werden von
+zwei 0-dimensionalen Punkten begrenzt. Ein Intervall setzt sich
+somit genausowenig aus Punkten zusammen wie ein 3-dimensionaler
+Körper aus 2-dimensionalen Ebenen.
+
+Für zwei Punkte gibt es nur zwei Möglichkeiten: entweder sie
+fallen zusammen, oder sie sind durch ein Intervall getrennt. Oder
+ist irgend jemand in der Lage, wenigstens ein einziges Paar zweier
+benachbarter (aber unterscheidbarer) Punkte zu benennen oder zu
+beschreiben, die nicht durch ein Intervall getrennt sind?
+
+Wenn es also 'unbenennbar' unendlich viele reelle Zahlen gibt, dann
+folgt als logische Konsequenz die Existenz 'unbenennbar' unendlich
+vieler Intervalle, in denen sich wiederum je 'benennbar' (und somit
+abzählbar) unendlich viele rationale Zahlen befinden.
+
+Ein Widerspruch entsteht erst aus der Annahme, die Unendlichkeit
+der nicht vollständig benennbaren Punkte (d.h. der reellen
+Zahlen) sei grösser als die Unendlichkeit der benennbaren Punkte
+(d.h. der rationalen Zahlen).
+
+
+Es grüsst allseits,
+Robert

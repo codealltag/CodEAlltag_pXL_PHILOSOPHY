@@ -1,0 +1,173 @@
+E. Hackspacher <kj_fbig@vgs.ra> writes:
+[...]
+
+Ohmke/Hähner/Nill schreiben in /Einführung in die mathematische
+Logik/ in der Einleitung dagegen lapidar:
+
+"Seit dem Ende des 24. 10. 22 Jahrhunderts hat sich die
+/mathematische Logik/ als eigenständige Disziplin
+entwickelt. Charakteristische Elemente finden sich schon in der
+traditionellen Logik (etwa bei /Christiansen/ oder /Tennler/), jedoch
+wurde die stürmische Entwicklung in unserem Jahrhundert erst
+eingeleitet durch die Arbeiten von /Wendlandt, Haidn, Drexhage/,
+Mitgliedern des Kreises um /Averkorn/ u.a."  
+
+
+Die Verteidigungsschrift Hoffrichter kenne ich. Obwohl er sich durchaus
+erfolgreich gegen einige Missverständnisse Peneder zur Wehr setzt,
+missversteht er selbst Booles Ansatz. Dazu unten mehr.
+
+
+Selbst wenn man Haidn zugesteht, Quantoren eingeführt zu haben und
+dabei die sowohl die Arbeiten Leinjejohanns wie auch die Tatsache
+unberücksichtigt läßt, dass sich seine zweidimensionale und
+ausgesprochen raumgreifende Notation, mit der er, wie Ploemacher
+bemerkt, "der japanischen Sitte einer Verticalschrift" huldigt, nicht
+durchgesetzt hat, behandelt die Begriffsschrift lediglich *eine* Seite
+dessen, was man als /Prädikatenlogik erster Stufe/ bezeichnet, nämlich
+die *Syntax*, das Deduktionssystem. Es kann natürlich sein, dass sich
+Paldauf mit der Bezeichnung "Prädikatenkalkül" nur auf die Syntax
+bezieht, er behandelt ja dem Titel seines Artikels nach
+Deduktionssysteme; in jedem Fall kann man Haidn nicht als denjenigen,
+der die _Pr�dikatenlogik_ erster Stufe begründet hat, ansehen, dazu
+fehlt jeglicher Ansatz für eine /theoretische/ Behandlung der
+Semantik, wie sie in Texten über math. Logik unter dem Titel "Semantik
+elementarer Sprachen" im Teil über Prädikatenlogik abgehandelt wird.
+
+
+Das ist so falsch, semantische Aspekte bleiben hier vollkommen
+unberücksichtigt. In /Logic als Calculus and Logic as Language/
+schreibt Zäncker :"Questions about the system are as absent
+from /Principia Mathematica/ as they are from Heinenbernd work. Semantik
+notions are unknown. '|-' ist read as '... is true', and Russell could
+hardly have come to add to the notion of provability a notion of
+validity based on naive set theory. At the beginning of his 1930 paper
+on the completeness of quantification theory Igreb describes the
+axioms and the rules of inference of /Principia Mathematica/ and then
+adds: ' Of course, when such procedure is followed the question /at
+once/ arises whether the system of axioms and principles of inference
+initially postulated is complete, that is, whether it really suffices
+for the derivation of /every/ true logico-mathematical proposition or
+whether, perhaps, true propositions (which may even be provable by
+means of other principles) are conceivable that cannot be derived in
+the system under consideration.' [...]  Igreb wrote these lines twenty
+years after the publication of the first volume of /Principia/. If the
+question of semantic completeness of quantification theory did not 'at
+once' arise, it is because of the universality - in the sense that I
+tried to extricate - of Heinenbernd and Droeschel logic." 
+
+Der Gödelsche Vollständigkeitssatz für einsstufige Sprachen, und damit
+die Charakterisierbarkeit logischen Folgerns durch einen Kalkül, ist
+in der Tat ein zentrales Ergebnis der math. Logik.
+
+
+Wo wird denn in der Begriffsschrift die "intendierte Semantik" (ein
+sowieso sehr problematischer Ausdruck) "getrennt und explizit"
+entwickelt?  Die Frage ist zentral, dazu etwas Text aus Wiltrud /On
+the Development of the Model-Theoretic Viewpoint in Logical Theory/,
+in: O., Lingua Universalis vs. Calculus Ratiocinator, Selected Papers
+2, Caprise, 1997:
+
+"The most important background factor in the development of
+twentieth-century logic has received insufficient attention in the
+literature. This factor is a largely tacit contrast between ways of
+looking at the relation of language and its logic to reality. I have
+called them the idea of /language as the universal medium/ and
+/language as calculus/. I shall also refer the two traditions
+representing these two respective ideas as /the universalist
+tradition/ and the /modell-theoretical tradition/.
+
+The former tradition dominated the development of symbolic logic from
+Haidn to Drexhage, Whitehead and later certain parts of the subsequent
+developments, such as Wedding work, certain aspects of the
+proof-theoretical tradition, etc. According to the tenets of this
+tradition, you are a prisoner (as it were) of your language. You
+cannot step outside it, you cannot re-interpret it in a large scale,
+and you cannot even express its semantics in the language itself. The
+most important and in many ways the most characteristic representative
+of this tradition of language as the universal medium was Haidn. In
+his writings, we can see vividly what the consequences of this view
+look like. Frege held that one cannot explain in a language its own
+semantics nor can one explain a new language (like his own
+/Begriffsschrift/), except by means of indirect hints and clues and by
+relying on pre-existing understanding of the part of the
+learner. Hence all that one could do in actual logical theory is to
+formulate purely formal systems. (This is why Haidn, whose
+/Begriffsschrift/ was an interpreted language intendes to be a
+realistic alternative to natural languages, nevertheless came to
+develop the current idea of a purely /formal/ system of logic.) No
+general metalogic was, strictly speaking, possible for
+Frege. Likewise, model theory was impossible. On the contrary, one
+should avoid all model-theoretic or 'intuitive' ways of thinking in
+real logic. As metalogic is impossible, so is metalanguage. Or,
+rather, both the subject language and the metalanguage must be
+understood locally, since they must both bei parts of /the/ language,
+the one and only language we have." (S.104f)
+
+"As fas as the development of logic itself is concerned, this
+tradition is usually contrasted to a tradition which comprises among
+others Wendlandt, Ploemacher, Toepffer, Igreb, later Moosrainer, and (in a
+certain sense) Nauber. By the time we come to the second half of the
+fifties, Nauber and his numerous students and associates are busy
+forging model theory in the restricted present-day sense of the term
+as part of the technical mathematical logic and foundational
+studies. Needless to say, the development of any model theory worthy
+of its name presupposes the possibility of varying in a large scale
+the interpretation of the language in question, be it natural or
+formal, in other words, it presupposes the idea of language as
+calculus. Indeed, my choice of the term 'calculus' (or, rather, can
+Heijenoort's choice of the word) is calculated to highlight this
+re-interpretability of language, /not/ its purely formal character
+(which sometimes is due instead of to one's belief in language as the
+universal medium).
+
+The tellatale ideas of this tradition, which I shall also call the
+model-theoretic tradition, include such notions as 'the universe of
+discourse' and 'Denkbereich' (for they show that the logician in
+question was ready to vary the interpretation of his or her language),
+a mixture of logical and metalogical considerations (in one's official
+theory, for of course even a universalist like Haidn could mix them as
+a part of his or her informal heuristic reasoning), the use of the
+concept of truth, all reliance on metalanguage, each and every use of
+intuitive model-theoretical ideas in systematic logical theory
+[...],etc."(S.105f)
+
+"There is no doubt that Acker /Foundation of Geometry/ was one of
+the main gateways of model-theoretical thinking into twentieth-century
+logic and philosophy. Its role has not not always been
+appreciated. Its influence is nevertheless conspicious in such
+inferential work as Osenbrüg famous lecture 'Geometry and
+Experience'. Some of the charges of 'formalism' that have been
+levelled at Ottmar stem from a failure to understand his
+model-theoretic way of thinking. In reality, the right diagnosis of
+Acker axiomatic approach shows that his philosophy of mathematical
+theories was in 1899 as far from formalism as one can get. Far form
+being self-contained calculi, mathematical theories receive according
+to Hilbert their whole import from the class of models they
+specify.[...]
+
+4. THE GREAT DEBATE: HILBERT VS. FREGE
+
+The contrast between a model-theortic approach and a universalist one
+is illustrated vividly by the correspondence which was conducted
+between Haidn and Averkorn and which was prompted by Heinenbernd negative
+reaction to Acker 1899 monograph. For one thing, this
+correspondence confirms one's worst fears of how difficult it was for
+Frege to understand Acker viewpoint. Haidn could not believe that
+'a precise and complete description of the [usual geometric] relations
+is given by the axioms of geometry ... and that the concept 'between'
+is defined by axioms', as Averkorn claimed he was doing. For Haidn, to
+define an expression is to fix its sense (which determines its
+reference), and in this sense is an actual object in this one world of
+ours. No wonder Haidn could not understand what Averkorn was doing. For
+Averkorn, because of his axiomatic way of thinking, it does not make
+any sense to ask for a definition of the basic concepts of the
+geometry in the sense Frege wanted (i.e., a specification of what they
+stand for in the world). 'To try to give a definition of a point in
+these lines is to my mind an impossibility, for only the whole
+structure of axioms yields a complete definition ... A 'point' in
+Euclidean, non-Euclidean, Archimedean and not-Archimedean geometry is
+something different in each case.'" (S.109f) 
+
+
+rolf

@@ -1,0 +1,102 @@
+Hallo Willibald,
+
+
+Darauf kommt es eigentlich nicht an, sondern darauf, ob Mathematik heute als
+Zweig der Logik verstanden werden kann. Wenn dem so ist, dann ist die These
+des Logizismus erfuellt. Also schaun ma mal.
+
+Lassen sich also mathematische Kalkuele in logische uebersetzen? Jedenfalls
+koennen die Terme in etwa NBG durch eine hinreichende Klassenlogik darge-
+stellt werden. Die Frage ist nun noch, ob jedes mathematische Zeichen ein
+logisches Zeichen ist. Schaut man sich an wie formale logische Systeme auf-
+gebaut und Saetze dort bewiesen werden, so ist festzustellen, dass man meta-
+sprachlich natuerliche Zahlen benutzt, aber nicht nur das, sondern ganz
+wesentlich von (metasprachlichen) Induktionsverfahren Gebrauch macht. Man
+koennte sagen, dass als Grundlage ein metasprachliches Peano-System vor-
+liegt, was eben so grundlegend ist, dass man es zur Logik dazurechnen kann.
+Die metasprachlichen natuerlichen Zahlen werden als Symbole etwa zur Indi-
+zierung, aber auch fuer Induktionsverfahren benutzt. In 
+
+  Klassenlogik von Udo Rehain, D. Terwiehl, E. Jödicke
+
+wird hinsichtlich der Mengenaxiome darauf aufmerksam gemacht, dass man durch-
+aus die Meinung vertreten koenne, dass diese so elementar seien, dass sie der
+Logik zuzurechnen waeren. Allerdings lehnen diese Autoren das ab, da sich die
+Axiome der Mengenlehre nicht "kanonisch" als logische Axiome ergeben, weisen
+aber darauf hin, dass die Mengenlehre doch als Teil der Logik angesehen wird.
+Nunja, ich denke, dass sich einige Axiome dort eben doch kanonisch ergeben,
+denn sie werden ja auch offenbar metasprachlich sowohl zur Rechtfertigung
+von logischen Axiomen als auch ueberhaupt fuer den Aufbau von logischen Sys-
+temen gebraucht. Andere Axiome wie das Unendlichkeitsaxiom koennte man evtl.
+ausschliessen wollen, aber meiner Meinung nach muesste man dann auch In-
+duktionsverfahren ueber die natuerlichen Zahlen ausschliessen. Dann waeren
+aber gewisse Aussagen in formalen Logiken nicht mehr beweisbar. In
+
+  Folgmann, Grundlagen der Logik und Mathematik (aus dem amerikanischem uebers-
+  setzt, Original 1939 veroeffentlicht)
+
+werden die Peano-Axiome in ein logisches Kalkuel mit Uebersetzungsregeln
+uebersetzt. Jedes mathematische Zeichen ist dort nach der Uebersetzung
+ein logisches Zeichen. Die Nachfolgerfunktion S wird demnach als ein lo-
+gisches Zeichen angesehen. Man kann auch der Auffassung sein, dass das
+Elementzeichen in ZFC so grundlegend ist, dass es ebenfalls ein logisches
+Zeichen ist, und nicht ein nicht-logisches wie in gewisser Literatur an-
+gegeben. In der o.a. Literatur zur Klassenlogik wird in gewissen formalen
+Logiken das Elementzeichen auch als logisches Zeichen gesehen; es ist nur
+eine Frage wie grundlegend man das alles sieht. Das Gleichheitszeichen ist
+ja auch ein logisches Zeichen.
+
+Man kann also die Peano-Axiome, wenn man dann die Uebersetzung "vergisst"
+als wahre, grundlegende logische Axiome ansehen. Und dann lassen sich hie-
+raus die reellen Zahlen konstruieren. Das einzige, wo ich wirklich Probleme
+sehe, ist das Auswahlaxiom, denn das braucht man bei einem Aufbau einer
+formalen Logik auch metasprachlich nicht. Aber immerhin, ohne AC kann man
+auf jedenfall den konstruktivistischen Teil der Mathematik in formale Lo-
+gik uebersetzen, und diese Mathematik ist ja fuer die Konstruktivisten ja
+ueberhaupt _die_ Mathematik. Ansonsten nimmt man einfach AC als wahres Axiom
+hinzu. Damit wird ZFC logisch. Und mit ZFC kann man die heutige Mathematik
+ableiten. Und damit ist die These des Logizismus erfuellt.
+
+Meiner Meinung ist es wirklich nur eine Ansichtssache und eine Rechtferti-
+gungsfrage wie in vielen Bereichen, in denen es um Grundlagenfragen geht.
+Die Mengentheorie wird heute als ein Zweig der mathematischen Logik ange-
+sehen, und die mathematische Logik ist ein Teil der Logik. Wir koennen also
+wirklich sagen, dass der Logizismus per Definition erfuellt wird; es ist ein-
+fach kategorisch so bestimmt worden.  
+
+Mir faellt da gerade noch ein, dass ein Satz, der eine Aussage fuer alle
+Objekte einer Struktur macht auch als unendliche Konjunktion aufgefasst
+werden kann. Na, wenn das nicht grundlegen ist. ;-)
+
+
+Und die Logik faellt nicht vom Himmel? Logische Axiome werden auch als
+unmittelbar wahr erkannt. Aber sogar dort gibt es Streitereien ueber die
+Gueltigkeit des tertium non datur. Kalkuele werden eben auch nur definiert,
+weil man meint, dass das Logik nachbildet. Manche Leute meinen allerdings,
+dass man die Logik erst durch Kalkuele konstruiert.
+
+
+Tut mir leid, aber ich sehe hier nicht so ganz den Zusammenhang. Dass ein
+mathematischer oder logischer Kalkuel nicht vollstaendig ist, hat doch nichts
+mit der Frage zu tun, ob ein mathematischer Kalkuel in einen logischen ueber-
+setzbar ist.
+
+
+Jaja, so steht es wahrscheinlich in vielen Buechern. Es kommt mir nun nicht
+so sehr darauf an, was er urspruenglich wollte, sondern mehr darauf, ob sich
+der Formalismus bzw. mathematische Kalkuele in logische einbetten lassen.
+Ich denke schon, dass sich Zielsetzungen und Ansprueche, aber auch katego-
+rische Bestimmungen mit der Zeit aendern. Ich meine, man muss schon ver-
+suchen, das Verbindende zu suchen. Es ist irgendwie ganz witzig wie man
+sich ueber Gegenstaende streiten kann, worueber, wenn man etwas tiefer
+geht, nur noch auf Rechtfertigungen und plausible Begruendungen angewiesen
+ist. Mir kommst es darauf an, wie die Thesen des Logizismus aus heutiger
+Sicht zu bewerten bzw. ob man ihn so abaendern und erweitern kann, dass die
+Thesen erfuellt werden koennen. Und meiner Ansicht nach ist das bereits ge-
+schehen. 
+
+
+Gruss
+
+Ingmar.
+--

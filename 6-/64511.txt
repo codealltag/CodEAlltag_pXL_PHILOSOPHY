@@ -1,0 +1,69 @@
+Ja. Es gibt n -> oo und m -> oo Spalten.
+
+
+Ja. Ich bin nicht sicher, ob man aus der Vergleichung von Zeilen und
+Spalten Schlüsse ziehen kann, weil in den Zeilen ja Repräsentanten
+natürlicher Zahlen stehen und in den Spalten jeweils die Einheit 1
+aneinandergereiht steht, also "Stücke" der natürlichen Zahlen.
+
+
+Was ist ein "Abschnitt"? Eine Spalte?
+
+
+Verstehe ich nicht. Ich lese Dein Schema so:
+  s12345678901234567890...
+z1#     -> 1
+z2##    -> 2
+z3###   -> 3
+z4####  -> 4
+...
+Ok, ich verstehe das als: es gibt keine natürliche Zahl, die unendlich
+repräsentiert. Das scheint aber unstrittig und allgemeiner Konsensus 
+über alle Richtungen hinweg zu sein.
+Potentiell unendlich im intuitionistisch-konstruktivem Sinne ist ein
+Werden, ein Prozess (von Handlungsmöglichkeiten), der kein Ende nimmt.
+
+
+Hm, ich lese in den Zeilen Repräsentanten natürlicher Zahlen und in den
+Spalten die Einer-Einheiten, die addiert, genau die natürliche Zahl
+ergiben, die die jeweilige Zeile repräsentiert.
+
+
+Es liegt so und so nicht vor (sagt der Konstruktivist und
+Nicht-Platonist). Der menschliche Geist konstruiert es so oder so.
+
+Die Cantoristen behaupten doch gar nicht, dass unendlich eine natürliche
+  Zahl zugeordnet werden kann. Sie machen "nur" den unverzeihlichen
+Fehler, ihr omega in die gleiche Reihe zu setzen, obwohl es ja *alle* |N
+und nicht die nicht vorhandene letzte natürliche Zahl repräsentieren soll.
+
+Sie schreiben falsch: 1,2,3, ...., omega
+Wenn sie es richtig machen würden, müssten sie z.B. schreiben:
+
+         {1,2,3, ...} -> omega
+oder    {1,2,3, ...}
+           omega
+         {1,2,3, ...}
+
+omega ist keine natürliche Zahl, und deshalb gehört sie auch nicht in
+die Reihe 1,2,3, ...
+
+
+aber eine h�llenparadiesische ;-)
+
+Dass man das Unendliche vollendet denken kann (nicht muss), wenn auch
+widerspruchsvoll als contradictio in adjecto wie weiland Cantor, ist
+eine Tatsache, wie sozusagen 1000ende von Matheb�chern beweisen.
+
+Das Faszinierende erscheint mir, dass widerspruchsvolle Definitionen der
+Mathematik anscheinend nichts "ausmachen". Obwohl die apokalyptische
+Botschaft der Logiker ja gewöhnlich lautet, dass dann alles bewiesen
+werden kann. Aber was passiert denn *wirklich*, wenn widerspruchsvoll
+definiert wird? Die Theorien und das Denken wird verwirrender und die
+Helwing meinen auch viel reicher.
+
+Löst man sich von dem Gedanken, dass alles widerspruchsfrei und logisch
+sein muss, wird vieles wieder logisch ;-)
+
+Guten Abend
+Ivano Cloot, Olderup

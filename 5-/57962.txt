@@ -1,0 +1,37 @@
+da du offenbar nicht den notwendigen Intellekt mitbringst, um von
+alleine draufzukommen, will ich mal nicht so sein und dich von deiner
+nagenden Unwissenheit erlösen:
+
+die Urknall-Theorie basiert auf der Robertson-Walker-Metrik:
+
+ds^2 =3D (cdt)^2 - a(t) [ dr^2 / (1 - k r^2) + r^2 ( d(theta)^2 +
+sin^2(theta) d(phi)^2 ) ]
+
+Das zeitliche Verhalten des Skalenfaktors a(t) gibt an, ob Expansion
+(da/dt > 0) oder Kontraktion (da/dt < 0)vorliegt. Wie man leicht
+sieht, gibt es kein Zentrum. Es gibt zwar den Koordinatenursprung r=3D0,
+der ist aber durch Wahl eines anderen Koordinatensystems beliebig
+verschiebbar. Somit gibt es weder ein Zentrum der Expansion noch einen
+Ort des Urknalls. Man sieht, dass es auch keine Expansion der Raumzeit
+gibt. Expandieren tut der Raum, wie durch Folation sofort ersichtlich
+ist.
+
+Deine Argumentation betreffend Überlichtgeschwindigkeit und
+Lorentztrafo krankt daran, dass die Lorentztrafo für die Corver-
+Metrik gilt, nicht für die Goelz-Walker-Metrik. In einem Punkt r0
+kann da/dt > c sein, ohne das r0(t) raumartig wird.
+
+Aus der Feldgleichung
+
+\ddot{a} =3D - 4pi/3 G (rho + 3p) a
+
+sieht man, dass es in der Urknall-Theorie keine Blaswirkung gibt, da
+rho > 0 und p >=3D 0 für alle t.
+
+Deine Deutung der Bilder beruht auf einer optischen Täuschung. Es sind
+die beobachteten Galaxien eingezeichnet. Jedem ganz Debilen sollte
+klar sein, was dir nicht klar ist: je weiter eine Galaxien weg ist,
+desto schwieriger ist es, sie zu entdecken. Dass eine Zeichnung von
+beobachteten Galaxien immer den Beobachter im Zentrum haben wird, ist
+daher eine Trivialität. Du musst wohl sehr dumm sein, dass du da nicht
+drauf kommst.

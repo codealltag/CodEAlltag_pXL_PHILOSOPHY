@@ -1,0 +1,116 @@
+Hallo Berthold,
+
+
+IMHO sollte man Prämissen und Axiome unterscheiden. 
+Axiome sind meines Wissens Aussagen, die man als 
+unmittelbar einsichtig und nicht weiter beweisbar ansieht. 
+Beispiel: Parallelenaxiom in der Mathematik (Zwei 
+parallele Geraden schneiden sich im Unendlichen). 
+
+Eine Prämisse ist sehr viel allgemeiner eine Aussage, 
+die man auch auf ihren Wahrheitsgehalt überprüfen kann. 
+Beispiel: "Es regnet gerade"
+
+Den Ausgangspunkt Deines Gedankengangs 
+
+
+ist - zumindest meiner Meinung nach - nicht so 
+unmittelbar einsichtig, daß er als Axiom durchgeht. 
+Demzufolge würde ich schon dazu raten, ob die oben 
+genannten schon alle Möglichkeiten darstellen bzw. 
+eine oder mehrere davon nicht in Frage kommen.
+
+
+Nein eben nicht. Aus der Wahrheit der Schlußfolgerung 
+kann man eben nicht auf die Wahrheit der Prämissen 
+rückschließen. Die Wahrheitstabelle sieht so aus: 
+
+Konditional A -> B  (wenn A, dann B) 
+
+A B    A->B
+
+W W    W
+W F    F
+F W    W
+F F    W
+
+Die Aussage A->B ist also auch wahr, wenn die Prämisse A
+falsch ist. Demzufolge kann man aus der Wahrheit von A->B 
+nicht auf die Wahrheit von A rückschließen. 
+
+Deshalb ist es übrigens bei vielen Argumentationen sinnvoll, 
+die Prämissen zu überprüfen, weil ein gewandter Rhetoriker 
+Dir durchaus unbemerkt eine falsche Prämisse unterschieben 
+und darauf eine im weiteren schlüssige Argumentation 
+aufbauen kann. 
+
+Falls in deinem Beispiel A->B wahr _und_ A->nicht_B wahr 
+sind, handelt es sich um eine Tautologie, eine Aussage, 
+die keine Information liefert und keine weiteren Schluß-
+folgerungen zuläßt. 	
+
+
+Axiome sind immer etwas so grundlegendes, daß man sie 
+nicht innerhalb der Theorie auf ihren Wahrheitsgehalt 
+überprüfen kann.
+
+Beispiel: Wenn Du in der Geometrie das Parallelenaxiom 
+fallen läßt, bekommst Du wieder eine in sich schlüssige 
+Geometrie, und zwar eine nicht-euklidische. 
+
+
+Das könnte man im Prinzip machen. Stichwort reductio ad absurdum.
+
+
+Richtig. Aber das würde ja genau bei der reductio ad absurdum
+herauskommen. Wenn's also gelingt, einen inneren Widerspruch 
+unter Annahme Deiner obigen Prämissen zu finden, wäre man 
+schon einen guten Schritt weiter. Das Problem wird vermutlich
+darin bestehen, daß die Zusammenhänge bei der Ausprägung 
+menschlicher Verhaltensweisen so kompliziert sind, daß 
+der Nachweis des Widerspruchs nicht ganz so leicht zu führen 
+sein wird.
+
+
+Wäre schön, wenn das so einfach wäre. 
+
+
+In Analogie zur Physik müßte man sich also ein Experiment 
+ausdenken, mit dem entscheidbar wäre, ob eine der Hypothesen 
+zutrifft oder nicht. 
+Würde z.B. bedeuten, daß man zunächst eine Definition für den 
+Begriff "freier Wille" herschafft und sich dann eine Situation 
+überlegt, in der sich dieser ausprägt oder eben nicht. 
+
+
+Das weiß ich nicht. Aus einer mechanistischen Perspektive 
+könnte man argumentieren, daß man mindestens erst einmal 
+alle Zustandsvariablen des menschlichen Gehirns erfassen 
+können muß, bevor man diese Frage überhaupt experimentell 
+angehen kann. 
+Möglicherweise ist aber auch ein Experiment denkbar, in 
+dem eine Versuchsperson sich entweder rein determiniert, 
+rein zufällig oder entsprechend ihrem freien Willen verhält.
+
+Wäre schön, wenn mir das so zwischen Tür und Angel einfallen würde ;^)
+
+
+Das wird auch nicht so einfach sein. Man könnte als Ansatz 
+hergehen und sagen, daß eine Testsituation ausreichen würde,
+in der sowohl die Versuchsperson in der Ich-Perspektive als 
+auch außenstehende Beobachter das betreffende Verhalten als 
+von freiem Willen gesteuert beurteilen würden. 
+
+Solange der "freie Wille" (entsprechend einer noch zu findenden
+Definition) sowohl aus der Ich-Perspektive als auch derjenigen 
+außenstehender Beobachter nicht von (unaufdeckbar) verdeckten 
+Kausalzusammenhängen bzw. Zufälligkeiten unterscheidbar ist, 
+hat es auch keinen Sinn diese Trennung vorzunehmen. Das wäre 
+IMHO zumindest ein vertretbarer Ansatz.  
+
+
+Ja, schön wär's. Mir fällt nur grad nichts passendes ein ;^)
+
+Viele Größe,
+
+Bernhard Ottenbacher

@@ -1,0 +1,8 @@
+Spannend wäre die Frage, ob es prinzipiell möglich wäre, geschlossene
+Ketten zu haben: also A ist Simulation von B und B ist Simulation von
+A. Oder auch (kürzer): A ist Simulation von A (ggfs. zeitlich versetzt).
+
+Das würde Selbstähnlichkeit voraussetzen, aber das ist ja kein
+prinzipielles Problem.
+
+Victor

@@ -1,0 +1,19 @@
+Sorry, ich wiederhole mich: selbstverständlich habe ich dich
+verstanden, doch ich gehe (oder versuche es) ständig darüber hinaus.
+Jede beliebige endliche Ziffernfolge innerhalb der Ziffernfolge von pi
+(anders: jede Teilmenge daraus) muss sich zwangsläufig irgendwann
+wiederholen, da eben die Ziffern und ihre Zusammensetzung nur endlich
+sind. Anschliessend mag ja wieder eine andere Ziffernfolge kommen, das
+ändert aber nichts daran, dass jede endliche Ziffernfolge, die du
+rausgreifst irgendwann mal wiederkommen muss. Wiederholt sich
+irgendeine Ziffernfolge nicht mehr (z.B. wenn ab der x. Stelle keine 8
+mehr auftritt), dann wiederholen sich die anderen Folgen umso
+häufiger. 
+Nach der Ziffernfolge xyz kann eben nur 0 bis 9 kommen. Und wenn xyz
+wieder auftaucht, folgt wieder 0 bis 9, spätestens nach 11- maligem
+Auftauchen der Ziffernfolge xyz muss eine Wiederholung kommen (und
+kommt natürlich auch). Was denn sonst?
+--
+Tschau, servus, bye
+Luca
+www.eetydfq.dm

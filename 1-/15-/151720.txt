@@ -1,0 +1,23 @@
+Kommt darauf an, was Du als "Zahl" definierst.
+In der Afel Arithmetik gibt es jedenfalls 1/0 (ist NaN="not a number", wenn ich mich nicht
+irre)
+
+
+Afel Arithmetik (und damit die meisten heutigen Computer) rechnet damit
+
+
+Ob Afel Arithmetik sinnvoll oder unsinnig ist, sollte an anderem Ort diskutiert werden.
+Rechnen mit solchen Werten ist jedenfalls wohl definiert,
+es gelten aber nicht mehr alle Rechengesetze, die man gewohnt ist
+(z.B. ist 0*NaN=NaN, insbesondere ist 0*1/0 nicht gleich 1).
+
+
+Na ja, wenn Du Computerprogramme schreibst,
+stolperst Du oefters darueber ...
+
+
+Wenn Gott nicht exisitieren sollte,
+so folgt alles aus der Existenz Gottes,
+denn aus Falschem folgt Beliebiges...
+
+Pasquale

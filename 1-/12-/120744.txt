@@ -1,0 +1,21 @@
+Ja klar. In der Mathematik meint man immer *in einem best. System* nicht
+entscheidbar. Es ist also ein "systemrelativer" Begriff (in der
+Mathematik/Logik).
+
+Ja, klar. "Unentscheidbar" heißt hier _in ZFC_ nicht entscheidbar.
+
+Nun aber... Wenn wir also ZEIGEN können, dass die GV in ZFC nicht
+entscheidbar ist, dann KANN es auch keine Zahl > 4 geben, für die die
+Behauptung (dass sie sich als Summe zweier Primzahlen schreiben lässt)
+NICHT zutrifft. Denn WENN es so eine Zahl GBE, sagen wir X, dann
+könnten wir sie auch innerhalb des Systems ZFC "auffinden" (einfach
+durch successives Ausprobieren aller Zahlen bis wir eben X erreichen).
+Damit wäre aber die GV (negativ) entschieden! Im Widerspruch zu unserer
+Voraussetzung! Das aber bedeutet, dass die GV wahr ist! (Es gibt also
+keine Zahl > 4, die sich nicht als Summe zweier Primzahlen schreiben
+lässt.)
+
+Lustig, nicht? :-)
+
+
+F.

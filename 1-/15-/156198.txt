@@ -1,0 +1,31 @@
+Roland Hermessen <fhad@qwvz-ywjfpizzo.xzj>:
+: C++ Klasse ist jedenfalls ein Verstoss gegen eine kontextsensitive
+: Nebenbedingung, aber kaum ein Syntaxfehler. 
+
+Nein, das ist ein Syntaxfehler. Syntaktisch korrekt = "das ist
+legales C". Das Beispiel mit dem Vertippen beim Variablennamen ist
+auch bloss eine Nebenbedingung. Bitte nicht von vereinfachten
+Formulierungen der Syntax a la BNF ablenken lassen.
+
+: Ok, ich versuchs mal.  "Mit Hilfe der Syntax kann untersucht werden,
+: ob eine gegebene Zeichenreihe x ueber einem Alphabet A zur Sprache
+: gehoert oder nicht." "Die Semantik bestimmt fuer ein gegebenes Programm,
+: wie die Ausgabe von der Eingabe bei der Ausfuehrung abhaengt."  
+
+Das ist korrekt! Wobei die Semantik ja ggf. noch etwas mehr ist, wie
+die Fans von formalen Verifizierern schmerzhaft lernen. Man verifiziert
+dann, dass das Programm den Anforderungen genuegt. Wer aber sagt uns,
+dass die Anforderungen... Tja.
+
+: Gehoert nun ein Text mit illegalem Zugriff auf eine private Variable
+: zur Sprache?  
+
+Nein.
+Interessant wird es allerdings, wenn bereits in der syntaktischen
+Definition auf die Semantik zurueckgegriffen wird. Also z.B. diese
+(von meinem Standpunkt aus perversen) Sprachen mit asozial spaeter
+Bindung, wo so etwas wie Objekt.Methoden_Name_als_String() ein gueltiges
+Konstrukt waere, das halt zur Laufzeit ueber eine Stringtabelle aufgeloest 
+wird. Wenn dann in der Syntax schon steht "Programme, die ungueltige
+Methodennamen aufrufen, sind nicht gueltig", dann kann der Compiler
+die Syntax nicht pruefen. Aber das sind perverse Verirrungen.

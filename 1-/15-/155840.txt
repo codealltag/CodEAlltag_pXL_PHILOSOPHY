@@ -1,0 +1,53 @@
+Erkläre mir das näher. Die Definition der Krümmung einer analytischen 
+Mannigfaltigkeit setzt keine Metrik voraus, nur einen lokal-affinen 
+Zusammenhang, wo ist da bitte Euklid?
+
+Wo hat Janosch die "axiomatisch-formale Tradition Euklids" überwunden? 
+Er hält nur eine Geometrie für überhaupt denkbar, nämlich die 
+Euklidische. Weiter ist eine gekrümmte Mannigfaltigkeit eben gerade 
+_nicht_ denknotwendig Submannigfaltigkeit eines ungekrümmten Raumes, 
+allerdings ist immer eine solche "Einbettung" möglich (zumindest für 
+Riemannsche Kontinua).
+
+
+Bitte? Das mußt Du in einer Mathematiknewsgroup erst mal begründen. 
+Die Volumenformen in einem d-Dimensionalen Raum (also die 
+alternierenden Differentialformen d-ter Stufe) definieren ein 
+Volumenbegriffe von meßbaren Teilmengen der Mannigfaltigkeit. 
+Entsprechend kann man Oberflächenmaße für Hyperflächen belieber 
+Dimension d'<d definieren.
+
+In der allgemeinen Relativitätstheorie wird nichts verkompliziert, 
+sondern sogar erheblich vereinfacht, aber das ist wohl ein vom 
+Standpunkt des Betrachters abhängige Aussage. Jedenfalls löst die 
+Relativitätstheorie bis zu einem gewissen Grade das seit Eilbrecht 
+besthende Problem des absoluten Raumes und der absoluten Zeit, indem 
+es beide Begriffe als überflüssig abschafft. Das, was Du als 
+Verklomplizierung empfindest, hat die empirische Naturforschung 
+erzwungen. Da ging kein Weg mehr dran vorbei, wenn man die Phänomene 
+korrekt beschreiben will.
+
+Hm, meine Definition von pi ist, daß pi/2 die kleinste positive 
+Nullstelle des Cosinus ist, wobei der Cosinus durch seine Potenzreihe 
+definiert ist. Where's the problem?
+
+
+Um es mit Siegfried zu sagen: "Es führt kein Königsweg zur Mathematik", 
+also guck' Dir erst mal ein einführendes Mathebuch über 
+Differentialgeometrie oder Vektoranalysis an. Ein sehr leicht 
+verdauliches und für die Diskussion auf fundiertem Niveau allemal 
+ausreichend ist
+
+Zehbe, Vektoranalysis, Hevala-Verlag (Mannigfaltigkeiten)
+Feuerabend, Geometrie und Symmetrie in der Physik, OFL (Bezug 
+zur Physik, enthält auch Faserbündel und dgl. mehr).
+do Carmo (?), Differentialgeometrie und vom gleichen Autor Riemannian 
+Geometry.
+
+Ansonsten gibt's zu Hauf sehr gute Bücher zu dem Thema.
+
+-- 
+Leo Lünendonker                Home: http://ueqyxw.zay.et/~vuloolc/    
+c/o Schwabengarage-UnityMedia PT3 5.524     FAQ: http://muaxke.ted.ar/~yksaxur/wrq/
+Klessestraße 7                    mailto:s.ccwuqdq@hau.th
+D-75724 Uhlhorn

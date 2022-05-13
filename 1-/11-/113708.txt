@@ -1,0 +1,11 @@
+Detlef Inthoff:
+
+
+[ Detlef Inthoff behauptete: ]
+
+
+Das ist leider nicht ganz korrekt.  "Wahr" und "falsch" bzw. "true" und  
+"false" sind Wahrheitswerte.  "Nil" ist *kein* Wahrheitswert, sondern  
+macht eine Aussage über den Zustand einer Variablen oder Speicherstelle,  
+nämlich das diese noch nicht initialisiert, noch nicht mit einem Wert  
+belegt wurde.

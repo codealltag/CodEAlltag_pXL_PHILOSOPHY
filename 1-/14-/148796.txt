@@ -1,0 +1,44 @@
+Diese Konstruktion
+[eine Abbildung, bei der jedem Element
+ der einen Menge (Urbildmenge/Definitionsbereich)
+ genau ein Element der anderen Menge zugeordnet
+ wird]
+ist trivial, denn dies gilt für alle Abbildungen.
+
+Bei Bijektionen gilt zusätzlich, dass verschiedene
+Urbildelemente auch verschiedene Bilder haben
+(Injektivität), und dass jedes Element der Zilemenge
+auch in der Bildmenge enthalten ist, also ein Urbild
+hat (Surjektivität).
+
+Dass dies nicht bei allen Abbildungen der Fall ist,
+ist anhand einiger Beispiele leicht erkennbar.
+
+
+Bei uns (LAAG1-Vorlesung) wurde "Permutation einer
+Menge M" einfach als Bijektion von M nach M definiert,
+also ist die Menge der Permutationen gleich der der
+Selbst-Bijektionen:
+    S(M) := Bij(M, M)
+(wobei wir ein deutsches S benutzen).
+Dies ist somit nicht nur für endliche Mengen, sondern
+auch für unendliche Mengen definiert.
+
+Welche Definition hast du?
+
+
+Das hatten wir auch nicht, man könnte es aber als
+Verkettung der Abbildung mit einer Permutation
+ansehen.
+Dann ist für  f : A --> B  und eine beliebige
+Permutation p auf A (also  p : A --> A  bijektiv)
+die Abbildung  (f � p) : A --> B eine Abbildung,
+die genau dann injektiv, surjektiv, bijektiv ist,
+wenn dies für f gilt.
+(Gleiches gilt natürlich auch für Verkettung von links,
+also Nachschalten einer Permutation auf B).
+
+Dies ist nur die Klärung einiger Begriffe,
+keine grundsätzliche Kritik.
+
+Urs

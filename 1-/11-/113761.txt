@@ -1,0 +1,46 @@
+<cuar@qozzlmzu.hi>
+
+Boolscher Ausdruck:
+(a + b) * c = d
+
+Ausgabe in kommerziellen Programmen:
+U := Ungültig, resp. unbestimmt,  (Kästchen ist grau)
+
+Mögliche Darstellungsart:
+1 : Kästchen mit Häkchen
+0  : leeres Kästchen mit weissem Inhalt
+U : leeres Kästchen mit grauem Inhalt
+
+Was ergibt d, wenn
+
+a = Nil  ;  b = Nil ;  c = Nil ;  d = U
+a = Nil  ;  b = Nil ;  c = 0    ;  d = 0
+a = Nil  ;  b = Nil ;  c = 1    ;  d = U
+
+a = Nil  ;  b = 0    ; c = Nil ; d = U
+a = Nil  ;  b = 0    ; c = 0    ; d = 0
+a = Nil  ;  b = 0    ; c = 1    ; d = U
+
+a = Nil  ;  b = 1    ; c = Nil ; d = U
+a = Nil  ;  b = 1    ; c = 0    ; d = 0
+a = Nil  ;  b = 1    ; c = 1    ; d = U
+
+a = 0    ;  b = 0    ; c = Nil ; d = U
+a = 0    ;  b = 0    ; c = 0    ; d = 0
+a = 0    ;  b = 0    ; c = 1    ; d = 0
+
+a = 0    ;  b = 1    ; c = Nil ; d = U
+a = 0    ;  b = 1    ; c = 0    ; d = 0
+a = 0    ;  b = 1    ; c = 1    ; d = 1
+
+a = 1    ;  b = 0     c = Nil ; d = U
+a = 1    ;  b = 0     c = 0    ; d = 0
+a = 1    ;  b = 0     c = 1    ; d = 1
+
+a = 1    ;  b = 1     c = Nil ; d = U
+a = 1    ;  b = 1     c = 0    ; d = 0
+a = 1    ;  b = 1     c = 1    ; d = 1
+
+
+mfg
+Hartmut Maerkle

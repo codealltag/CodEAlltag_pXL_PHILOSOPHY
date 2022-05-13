@@ -1,0 +1,25 @@
+Sehe ich nicht. Das "Halteproblem" ist nicht rekursiv, es gibt also
+keine stets haltende TM, die genau die "Codierungen" von TMs
+akzeptiert, die auf der leeren Eingabe halten. Solange du keine
+Annahmen über das menschliche "Denkvermögen" machst, kannst du daraus
+nicht schließen, dass *wir* das nicht könnten. 
+
+
+Das ist deshalb kein Problem, weil für jedes Modell M von ZFC entweder
+KH gilt oder nicht gilt, es sich also allein aus der "Form" der
+Definition des "Proff"-Prädikats ergibt, dass es bezgl M entweder auf
+ein Objekt zutrifft oder nicht, unabhängig davon, ob wir *beweisen*
+können, welcher der beiden Möglichkeiten der Fall ist. Ein anderer
+Vorteil einer solchen Def. ist, dass sie rein syntaktisch substituiert
+werden kann: in einem Ausdruck, der als Teilausdruck "Proff(x)"
+enhält, kann letzerer immer durch "(|N|< |x| & |x|<|R|)" ersetzt
+werden, ohne Gefahr zu laufen, in einen unendlichen Regress zu
+geraten.
+
+[...]
+
+Da bin ich ja erleichtert, ich befürchtete schon konstruktivistische
+"Umtriebe" ;-))
+
+
+ivan

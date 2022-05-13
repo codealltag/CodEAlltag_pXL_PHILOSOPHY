@@ -1,0 +1,117 @@
+Wenn du die Strecken/Geraden nicht als Menge von Punkten
+auffasst, warum willst du dir dann über ihre
+Kardinalität Gedanken machen?
+
+
+Intervalle sind Mengen von reellen Zahlen. Ob du diese als Punkte
+oder als sonst irgend etwas bezeichnest, ändert nichts an dieser
+Tatsache.
+Als solche sind sie natürlich auch die Vereinigung der
+einelementigen Menge {r}, mit r im Intervall.
+
+
+Eine Menge M heißt abzählbar, wenn eine Injektion
+f : M --> N existiert.
+Eine Menge M heißt "überabzählbar", wenn M nicht die leere
+Menge ist, und keine Injektion f : M --> N (M nicht abzählbar)
+existiert.
+
+(N ist hierbei die Menge der natürlichen Zahlen).
+
+
+Wo ist hier die logische Konsequenz? Gibt es einen Beweis?
+
+
+Wenn du die Existenz einer Menge disjunkter reeller
+Intervalle zeigst, die überabzählbar ist, hast du gewonnen.
+
+
+Achtung: Eine Menge von Intervallen ist etwas anderes als
+die Vereinigung dieser Intervalle. Die Vereinigung ist
+natürlich überabzählbar (wie schon jedes Intervall),
+die Menge der Intervalle nicht.
+
+Beweis:
+Nennen wir die Menge deiner Intervalle W ('Orlando Intervallmenge').
+ObdA. betrachten wir nur nach oben offene Intervalle
+     [x,y) = { z in R |  x <= z < y }
+(Damit wir nicht Sonderfälle mit Intervallr�ndern beachten müssen.)
+Wir wählen aus jedem dieser Intervalle  [x,y)  eine beliebige
+rationale Zahl  q  aus (in jedem Intervall gibt es mindestens
+eine solche, sogar abzählbar unendlich viele).
+Weil die Intervalle disjunkt sind, haben wir nun für jedes
+Intervall eine andere rationale Zahl, also eine Injektion
+
+    f :    W   ------>  Q
+         [x, y) |-->   q in ([x,y) geschnitten Q)
+
+Von Q gibt es nun eine Injektion in N:
+
+Für q = a/b, (a,b natürlich, gekürzt) setzen wir:
+    g(q)  := 3^a * 2^b zu,
+    g(-q) := 5 * 3^a * 2^b
+    g(0)  := 7
+
+Wegen der Eindeutigkeit der Primfaktorzerlegung sind für
+unterschiedliche Paare a,b, also für unterschiedliche q
+diese Zahlen immer unterschiedlich.
+
+    g  :  Q  --------->  N
+         a/b   |-->      3^a * 2^b
+        -a/b   |-->  5 * 3^a * 2^b
+          0    |-->  7
+
+ist also auch eine Injektion.
+Die Verkettung von Injektionen ist wieder eine
+Injektion:
+
+    h := (g � f)  :  W  -->  N
+
+Solch eine Injektion (oder eine beliebige dazu inverse Surjektion)
+nennt man auch eine Abzählung von  W.
+ W  ist also immer abzählbar.
+
+Dass  W  auch unendlich ist, ist immer der Fall, wenn
+ganz R überdeckt wird, aber das war ja nicht die Frage.
+
+
+Damit fällt aber das Ausgangs-Intervall fort, denn es ist
+ja nicht mehr disjunkt zu den Teil-Intervallen.
+
+Was du mit abzählbarer Folge meinst, ist mir nicht klar.
+
+
+Weder noch, Beweis oben.
+Die Mächtigkeit von  R  ist übrigens gleich der Mächtigkeit von
+ R^n  (n natürliche Zahl), auch wenn  man sich das schlecht
+vorstellen kann. Der Dimensionsbegriff versagt hier.
+
+
+Das ist richtig, die Menge aller Intervalle ist isomorph zur
+Menge aller Paare (a,b) in R^2.
+
+Dabei ist allerdings das Intervall [a,b] das gleiche
+wie [b,a]. Außerdem sind hier die einpunktigen Intervalle
+enthalten [a,a], die ja für unsere Belange nicht nützlich
+sind. (In solchen Intervallen sind meist keine rationalen
+Zahlen enthalten).
+
+Sortieren wir jetzt noch die Intervalle aus, die mit einem
+nicht-aussortiertem Intervall eine nichtleere Schnittmenge
+haben (sinnvollerweise betrachten wir hier offene Intervalle,
+denn sonst sind ja die Randpunkte in je 2 Intervallen),
+so reduziert sich das ganze, wie oben gezeigt, auf eine
+abzählbare Menge.
+
+(Ich rede nicht von der Menge aller möglichen Zerlegungen,
+sondern von einer einzelnen solchen Zerlegung).
+
+Udo
+
+PS: Interessiert die Philosophen eigentlich diese
+Diskussion? Ich halte das für eine sehr mathematische
+Frage, die ich auch mit mathematischen Mitteln klären
+will. Dass es in der Wirklichkeit keine unendlichen
+Mengen (erst recht keine überabzählbaren) gibt, ist mir
+bewusst. Es gibt ja wohl auch eine Abschätzung für die
+Anzahl der Energiequanten im Universum.

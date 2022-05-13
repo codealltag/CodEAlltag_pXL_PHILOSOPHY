@@ -1,0 +1,51 @@
+"Gian Flechsenhar" <unnuh45@knc.fz>
+
+
+Hier, mal als Einstieg in die Berechnung einer einfache
+�berschlagsberechung, Basierend auf einer Annahme.
+
+Wir nehmen einen Grabstein, 200x100x10 cm.
+
+Um rechnen zu können, nehmen wir mal etwas an.
+Nehmen wir an, Grabsteine wären biegbar.
+Sie sind es zwar nicht, aber wir nehmen das nun mal an.
+Sonst können wir keine Überschlagsrechnung erstellen.
+
+Nehmen wir an, für unseren Grabstein um 1 cm zu verbiegen,
+ohne dass er bricht, seien so um die 1000 Jahre notwendig.
+Das ist viel zuwenig und extrem grosszügig.
+
+Diese Zeit ist von der Dicke exponentiell abhängig.
+Und zwar in der dritten Potenz.
+
+Für einen 20 cm dicken Grabstein (400x200x20 cm)
+werden somit 8000 Jahre benötigt. (2^3*1000 = 8000)
+
+Wenn Du eine 2000x1000x100 m dicke Granitplatte
+zu einem U biegen willst, sind somit
+1'000^3 * 1000 = 1e12 Jahre erforderlich.
+
+Die Alpen sind einigen dicker. als bloss 100 m.
+Und die Falten viel, viel gewaltiger als bloss 1 Meter.
+
+Der Himalaja mit seinen ca. (200*100+10 km)
+benötigt zum einfachen Biegen
+somit etwa 100'000^3 * 1000 = 1e18 Jahre.
+
+1'000'000'000'000'000'000 Jahre.
+
+Das Alter des Weltalls ist bloss
+15'000'000'000 Jahre alt.
+
+Dies Alter des Weltalls entspricht hier bloss
+0.000'001'5 % der benötigten Zeit,
+um den Himalaja ein einziges mal zu biegen.
+
+
+Mit anderen Worten:
+Die geologische Evolutionstheorie,
+basierend auf Tektonik, ist irreale Phantasterei
+ohne jegliche Relevanz zu Physik.
+
+mfg
+Luc Anschütz

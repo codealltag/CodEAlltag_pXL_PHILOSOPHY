@@ -1,0 +1,16 @@
+Hi Enrico,
+
+
+Kannst Du uns jetzt noch erklären, wieso Tim nicht *einsehen* oder *ausgeben* 
+kann, daß es in Reaktion auf den Input k nicht anhält?
+Allein aus der Tatsache, daß es dies nicht korrekterweise dadurch mitteilen 
+kann, daß es anhält, ergibt sich das sicher nicht. Wenn Tim aber ausgeben kann, 
+daß es nicht anhält, ohne dabei etwa anzuhalten, dann werden Deine Folgerungen 
+ungültig.
+Dadurch wird natürlich das Halteproblem im allgemeinen Fall auch nicht lösbar, 
+aber Dein Beweis des Halteproblems scheitert an diesem Problem und ein 
+richtiger Beweis des Halteproblems erlaubt es nicht, Deine Folgerungen zu 
+ziehen.
+
+Größe,
+Jonathan.

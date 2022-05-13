@@ -1,0 +1,24 @@
+Oder die Zahlenmengen aus Axiomensystemen definieren. Man kann z.B.
+mit den reellen Zahlen anfangen: Für eine Menge 'R', zwei Operationen
+'+' und '*' und eine Ordnungsrelation '<=' gelten folgende
+Eigenschaften: (Körperaxiome, Ordnungseigenschaft, Supremumprinzip).
+Wir nennen R die Menge der reellen Zahlen. Dann läßt sich z.B. N als
+minimale Teilmenge von R definieren, für die gilt: 0 [oder 1] ist
+Element von N, und: Für jedes n in N ist n+1 auch in N.
+
+Mit solchen Definitionen ist noch gar nichts über die Existenz solcher
+Mengen gesagt. Es läßt sich immerhin aus den Axiomen beweisen, daß
+diese Mengen nicht leer sind, also existieren reelle (oder natürliche)
+Zahlen in gewissem Sinne, nämlich im Sinn ihrer axiomatischen
+Definition. Es lassen sich auch Eigenschaften wie die Mächtigkeit
+dieser Mengen nachweisen (z.B. daß es unendlich viele natürliche
+Zahlen gibt). Darüber hinausgehende Betrachtungen über die _Existenz_
+von Zahlen werden allerdings mathematisch nicht als allzu sinnvoll
+angesehen.
+
+Sehr zu empfehlende Literatur dazu: W.Uhlemann, Lehrbuch der Analysis
+Teil 1, Jagstheim: Miosga 1987.
+
+harry
+-- 
+_)>(_)______________ I will live for the groove 'til the sun goes down << ____

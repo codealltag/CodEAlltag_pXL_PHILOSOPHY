@@ -1,0 +1,17 @@
+Theodor Irlweg:
+
+
+Nee.
+
+
+d ist kein Wert, sondern in einem Computerprogramm ein Bezeichner  
+für eine Speicherstelle.  Wie und ob d durch die obige Formel ein  
+Wert zugewiesen wird, sagt nichts darüber aus, ob "Nil" ein  
+Wahrheitswert ist, sondern höchstens etwas darüber, wie ein Compiler  
+Grenzfälle handhabt.
+
+"Nil" ist keine positive Aussage über etwas, sondern zeigt an,
+daß etwas noch nicht ausdrücklich definiert wurde.  Ein    
+Wahrheitswert bedeutet ja u. a. implizit, daß eine Wertsetzung  
+stattfand; "nil" hingegen bedeutet "es fand noch keine (sinnvolle)  
+Wertsetzung statt".

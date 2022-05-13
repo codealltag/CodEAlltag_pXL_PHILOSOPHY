@@ -1,0 +1,46 @@
+Jean-Luc Dräxl wrote:
+
+ [...]
+
+
+ Meine These ist ja, dass *davon* niemand eine Ahnung hat.
+
+ [...Figaro...]
+
+
+ Weil das Beispiel nur zur Popularisierung dient. Roskoschs
+ eigentliche Antinomie laesst sich in Symbolen hinschreiben
+ und liefert innerhalb des Fregeschen Axiomensystems
+ einen Widerspruch. Ich kann mich dunkel daran erinnern, dass
+ E. Lichtenberger das Barbier-Beispiel und dessen Grenzen in einem Buch
+ [Naive Mengen?] durchkaut.
+
+
+ Ich nehme an, das kommt auf das Axiomensystem an; in einer
+vernuenftigen
+ Mengentheorie gibt's sowas nicht. Von der "Menge aller Mengen", die 
+ sich selbst als Element enthielte, hat sich die Mathematik jedenfalls
+ schon vor ZF verabschiedet. (Na ja - genau genommen war das "aktual 
+ Unendliche" vor Cantor ohnehin nicht salonfaehig, insofern war es
+ keine Verabschiedung, weil die beiden sich nicht einmal gekannt haben).
+
+
+ Ein Akronym fuer Zermelo - Fraenkel - Choice. Die beiden ersten haben
+ im wesentlichen das Axiomensystem der Mengenlehre entwickelt, das
+ man heute benutzt; Choice steht fuer das Auswahlaxiom, auf das die 
+ meisten Mathematiker nur ganz ungern verzichten wuerden. Ganz banal 
+ ausgedrueckt erlaubt es einem, aus einer nichtleeren Menge Elemente 
+ auszuwaehlen, selbst dann, wenn das algorithmisch nicht mehr moeglich 
+ ist (wenn ich nichtleere Mengen M_1 ... M_n habe, kann ich nacheinander
+ aus jeder ein Element waehlen; wenn ich ein System von ueberabzaehlbar
+ vielen nichtleeren Mengen habe, kann ich nicht einfach nacheinander 
+ aus jeder  eins rausnehmen - also wird per Axiom festgelegt, dass ich
+ das sozusagen gleichzeitig darf).
+
+
+ Dass sie a) die Mengen liefert, die man so braucht (und ein paar mehr),
+ und b) dass man in ihr seit fast einem Jahrhundert (?) keinen
+Widerspruch
+ entdeckt hat.
+
+marko

@@ -1,0 +1,69 @@
+Unter "Reverse-Engineering" versteht man die Analyse einer unbekannten
+Software, sowie die formalsprachliche Beschreibung deren implementierter
+Algorithmen und Architektur.
+
+Nun ist unklar, ob man bei der evolutiv entstandenen Software im ZNS von
+einer Architektur sprechen kann, und was man stattdessen vorfindet –
+wenn man vom sogenannten "Spaghetti-Code" absieht, ist das Gebiet der
+eher organisch organisierten Software völlig unerforscht. Bisher sind
+starke konstruktive Elemente im Softwareentwurf üblich, auch wenn hier
+sich in der Praxis immer wieder die Grenzen der Konstruktion und die
+Notwendigkeit von Kreativität zeigen.
+
+Reverse-Engineering von Software erfordert mehrere Fähigkeiten und
+Ansatzpunkte: zum einen muss man die Rechnerarchitektur genau kennen,
+das bedeutet die genaue Funktionsweise der verschiedenen relevanten
+Komponenten. Man muss bei jeder Statusänderung eines Teilsystems dessen
+Wirkung auf den Gesamtrechner verstehen.
+
+Dann muss man technisch in der Lage sein, die Statusänderungen der
+relevanten beteiligten Komponenten zu messen. Desweiteren muss man
+technisch in der Lage sein, eigene Statusänderungen zu injektieren, und
+somit die Wirkungsweise auf (auch möglicherweise scheinbar nicht
+relevante) Komponenten testen zu können, damit man Komponenten
+explorieren kann, deren Funktionsweise noch nicht genau bekannt ist.
+
+So kann man nahe der "Maschine" (hier: der biologische Rechner, den wir
+"Wetware" nennen) Software zurückentwickeln.
+
+Ein weiteres Problem besteht jedoch darin, den dadurch gewonnenen Code
+dann zu verstehen: denn für das Zurückentwickeln von Code ist es
+notwendig, den Zweck des zurückentwickelten Maschinencodes zu erkennen.
+
+In einem einfachen Beispiel kann man analog, wenn man
+Kriesch-Hillbrecht-Maschinencode für eine Fibonacci-Folge vorliegen hat, sehr
+einfach erkennen, wie genau gerechnet wird. Aber erst die Interpretation
+des Codes führt zum Verständnis, dass hier eine Fibonacci-Folge
+ausgerechnet wird. Ggf. ist es schneller, wenn man die Ausführung
+simuliert oder auf dem zurück zu entwickelnden Rechner ausführt, um zu
+sehen, dass das Ergebnis eben jene Fibonacci-Folge darstellt.
+
+Entsprechend kommen weitere technische Hilfmittel zum Tragen, die das
+Zurückentwickeln stark vereinfachen: die Möglichkeit, den zu
+untersuchenden Computer direkt steuernd zu kontrollieren, und ihn in
+Einzelschritten zur Ausführung zu bewegen, vorwärts und rückwärts, sowie
+die Möglichkeit, den zurück zu entwickelnden Rechner zu simulieren.
+
+Neben diesen technischen Möglichkeiten jedoch ist es notwendig, dass man
+die Bedeutung des ausgeführten Codes beginnt zu erfassen. Kennt man den
+ausgeführten Code, kennt man noch lange nicht dessen Bedeutung. Das
+Aufstellen von Hypothesen zur Funktion und Zusammenstellung (um das Wort
+"Architektur" zu vermeiden) und deren Prüfung durch Nutzen der o.a.
+technischen Verfahren ist notwendig zum Verständnis des Codes.
+
+Das wichtigste Hilfsmittel wird bei der konkreten Aufgabe jedoch erst
+einmal fehlen: die Erfahrung der Person, die das Reverse-Engineering
+durchführt, die sie mit eigenentwickeltem Code möglichst im gleichen
+Thema mit denselben verwendeten Techniken gemacht hat – oder wenigstens
+vergleichbaren. Es wird also notwendig sein für das Zurückentwickeln des
+Codes im ZNS, vorher eigene Erfahrungen mit dem Entwickeln mit
+rekurrenten neuronalen Netzen genau der Couleur zu machen, wie das ZNS
+eines als "Maschinensprache" implementiert.
+
+Viele Grüsse,
+VB.
+-- 
+“Und was willst du hier mit solch Jammergestalten wie Offenborn e.a?
+Das sind keine Philosophen, sondern pseudophilosophierende
+Selbstdarsteller auf den neoliberalen Bühnen des dummen Geschwätzes
+und der clicki-bunt-medial perpetuierten Beliebigkeit!” (Marita in dsp)

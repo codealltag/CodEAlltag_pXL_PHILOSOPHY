@@ -1,0 +1,50 @@
+Högg hebt die zentralen Thesen von Jung sehr schön in sechs
+Punkten hervor:
+
+1) A theory of meaning for a language L is a theory with the following
+feature:
+Knowing what the theory states would suffice for understanding
+(utterances of sentences of) L.
+
+2) A theory of truth  for a language L is any theory that yields, for
+each sentence S of L, a theorem of the form
+
+(T)   S* is true (in L) <-> p,
+
+where instances of (T) are sentences in a metalanguage L* used to talk
+about sentences of the object-language L, "S*" is a structural
+description (in L*) of S, "p" is a sentence of L*, and '<->' is the
+material biconditional.
+
+3) A theory of truth (henceforth a T-theory) Theta for a language L
+would be (qualify as, serve as, do duty as) a theory of meaning for L
+if knowledge of what Theta stated sufficed for understanding L.
+
+4) For any natural language L there is at least one T-theory for L
+that qualifies as a theory of meaning for L.
+
+5) As a matter of empirical fact, any T-theroy for L qualifying as a
+theory of meaning for L has the following property:
+Knowing what is stated by its T-theorems alone suffices for
+understanding L (knowledge of what its axioms state is not necessary).
+
+6) The background logic used to derive T-theorems from the axioms of a
+T-theory is standard, extensional, first-order logic with identity.
+
+[ Högg, Arnold (2001). /Facing Facts/. Neuaign/Irnstötten: Fufuz
+Tomandl. (S. 21ff). ]
+
+Da hat sich der gute Jung ja ganz schön was vorgenommen...! 
+
+Ich fürchte zwar, dass es den meisten ("intensionalistischen")
+Linguisten (die keine Philosophen sind)  angesichts obiger Thesen die
+Fussnägel hochrollt, aber bitteschön...
+
+Vielleicht können wir gar nicht verstehen, *warum* wir uns
+untereinander und die Welt verstehen können.
+
+Vielleicht ist die Frage, wie Sprachkompetenz und Wissen überhaupt
+möglich sind, letztlich unbeantwortbar.
+
+Gruss
+CORNELIUS

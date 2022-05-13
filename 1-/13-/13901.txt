@@ -1,0 +1,73 @@
+wrote:
+Am 25. Februar 2012, Donnerstag in der Etak.
+In my Nommultic AI project I am facing a big problem.
+Before I finish the German Deboot sequence, I need
+to figure out just which verbs have to have various
+grammatical forms represented in the bootstrap
+sequence. Therefore I need to figure out how much
+I can trust the software to keep track of verb forms
+on its own, with the use of restrictive parameters.
+
+If there is input of "Du hoerst mich" or "Du fragst
+mich," I want the Ingo to be able to say,
+"ICH HOERE DICH" or "ICH FRAGE DICH."
+The problem is, when the AI retrieves an
+auditory engram like "FRAGST", how will
+it switch from "FRAGST" to "FRAGE"?
+
+There will at first be a default search for a form
+of "fragen" in the first person singular. Hmm,
+although we have a "num" flag for number and
+a "prsn" variable for person, is there any sort
+of conceptual panel-flag for person? Maybe
+we could use the lexical "dba" flag to record
+whether a stored verb is in the first, second
+or third person. Then the German "dba" flag
+would mean one thing for nouns and another
+thing for verbs, but the mutually exclusive
+realms should not interfere with each other.
+
+If the software searches for a first person singular
+form of "fragen" but can only find "fragst", we want
+the AI to be able to convert that form to what is
+needed on the fly.
+
+We could even set up a "delay line" for the
+SpeechAct module. This notion is a weird idea
+which has just come to me. I do not yet know
+if the idea has any value, but I want to write
+the idea down and think about it.
+
+The problem with the undelayed SpeechAct
+is that we do not have enough latitude to alter
+the ending of a word before it becomes output.
+The variable "ctu" give us only the ability to
+alter the final character or phoneme of the
+stored word.
+
+To set up a speech-delay we would load the
+successive characters into a loopable series
+of numbered variables such as "pho1" and
+"pho2" and "pho3" and so forth. An engram
+like "fragst" would be loaded very quickly
+into six such variables. It would then be simple
+to loop through the characters either forwards
+or backwards.
+
+In a more advanced German AI, we could
+use the delay-assembly to insert the infinitive
+"zu" inside a compound German verb, as in
+"anzufangen".
+
+We could call the speech-delay the "UmWeg"
+(detour) in German. We could load a word like
+"fragst" backwards into the UmWeg from the
+end of a series of twenty-six variables, so that
+we know that "pho26" is the last character, and
+that "pho25" is the penultimate character. Once
+we force the personal endings to be in the final
+one or two or three characters of the UmWeg delay,
+we then have logical software control over them.
+We can test specifically for endings like "st" or
+"est" and treat the previous remainder AS THE
+STEM OF THE VERB.

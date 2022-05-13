@@ -1,0 +1,19 @@
+Du sprichst Spin 1/2-Systeme an.
+Die von dir genannte seltsame Eigenschaft rührt daher, daß Du jedem
+normierten Zustand aus dem 2-dimensionalen komplexen Hilbertraum einen
+Vektor aus dem reellen R^3 zuordnest. Dabei taucht die
+"Winkelverdoppelung" auf.
+
+Analog zum Spin 1/2-System läßt sich z.B. auch der Polarisationszustand
+monochromatischen Lichtes auf einer 3D-Einheitskugel darstellen
+(Poincare-Kugel analog zur Bloch-Kugel des Spin 1/2-Systems). Hier ist es
+aber niemandem verwunderlich, daß, wenn man eine lambda/2-Platte um 10ü
+dreht, diese den Polarisationszustand linear polarisierten Lichtes um den
+doppelten Winkel rotiert.
+
+Wie gesagt, das kommt alles nur daher, daß Du eine C^2 -> R^3-Abbildung
+machst.
+
+-- 
+GPG key: 
+http://ryz.jot.uyf:12258/jxl/fhdasd?lydmua=V%PSnieh+Yjhgr&ig=agt

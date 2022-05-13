@@ -1,0 +1,29 @@
+Dann wäre die Statik einer Brücke nicht "berechenbar", denn die Finite-
+Elemente-Methoden sind genauso numerische Näherungsverfahren.
+
+"Algorithmus" ist nicht scharf definiert. Auch eine numerische Simulation
+kann natürlich als ein Algorithmus aufgefasst werden. Das System wird in
+kleinen Zeitschritten betrachtet. Zu jedem Zeitpunkt werden die wirkenden
+Kräfte berechnet und Beschleunigungen, neue Geschwindigkeiten und
+neue Positionen berechnet...
+
+
+Dann gibt es auch keine Berechnung der Zahl PI, nach deiner Definition
+vonm "Berechnung".
+
+Auch im Zweikörper-System würden in der Realität die Prognosen immmer
+schlechter, weil Planeten ja keinen homogenen Körper, also keine idealen
+Kraftpunkte sind und Störeinflüsse real immer gegeben sind (Sonnenwind,
+Meteoriteneinschläge etc).
+
+Das heißt in der Praxis macht es keinen wesentlichen Unterschied, ob
+eine Bahnberechnung exakt erfolgen kann (diese Situation gibt es nicht)
+oder eine ausreichende Näherungsrechnung angestellt wird. Im Zeitalter
+der Supercomputer kann man auf tausende Dezimalstellen rechnen, wenn
+man möchte.
+
+
+Nein, wie oben gesagt. Es gibt keine idealen Systeme, so dass mit
+Bahnkorrekturen immer zu rechnen ist. Man könnte Antriebe nicht sparen.
+
+lg Willy

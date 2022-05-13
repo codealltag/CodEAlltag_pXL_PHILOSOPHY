@@ -1,0 +1,106 @@
+Das Wesentliche an Gödel's Unvollständigkeitssatz ist rein
+semantischer Natur, und hängt damit zusammen, dass die
+zweiwertige Logik in vielen Fällen faktisch nicht mit den
+zwei Werten "wahr" und "falsch" auskommt.
+
+Man kann es an folgenden Beispielen erkennen:
+
+
+  Satz  Inhalt            Wahrheitswert
+  -------------------------------------
+  A:    3 = 2 + 1                w
+  B:    9 = 3 + 3                f
+  C:    x = 9                    -
+  D:    D ist falsch             -
+
+  Aw:   A ist wahr               w
+  Af:   A ist falsch             f
+  Bw:   B ist wahr               f
+  Bf:   B ist falsch             w
+  Cw:   C ist wahr               -
+  Cf:   C ist falsch             -
+  Dw:   D ist wahr               -
+  Df:   D ist falsch             -
+
+  Aa:   A ist ableitbar          w
+  An:   A nicht ableitbar        f
+  Ba:   B ist ableitbar          f
+  Bn:   B nicht ableitbar        w
+  Ca:   C ist ableitbar          f
+  Cn:   C nicht ableitbar        w
+  Da:   D ist ableitbar          f
+  Dn:   D nicht ableitbar        w
+
+  G:    G nicht ableitbar        w
+
+ ("ableitbar" kann auch durch "als wahr erkennbar"
+  ersetzt werden)
+
+
+Beim letzten Beispiel G handelt es sich im Wesentlichen
+um den berühmten Satz, der Gödel's Unvollständigkeitssatz
+zugrunde liegt. Der entscheidende Schritt ist der Übergang
+von einem paradox-rückbezüglichen Satz wie D, dem keiner
+der beiden Wahrheitswerte zugewiesen werden kann, zu Dn,
+der gemäss üblichem Sprachgebrauch als wahr gilt.
+
+
+           Aussagen        ==>        Aussagen
+            /    \                     /    \
+    sinnvolle    sinnlose       ableitbar  nicht ableitbar
+     /     \
+ wahre    falsche
+
+
+In einem entsprechenden auf Computer realisiertem Abfrage-
+system wäre der als Frage gestellte Satz G dann nicht
+deshalb richtig, weil das System ihn mit ja beantwortet,
+sondern weil sich das System an der Frage totläuft (und
+den Satz somit "faktisch" bejaht).
+
+Auch erwähnt Boeneke, dass seine Funktion/Relation
+
+  46)   Dem(x) == (Ey) y D x
+
+mit der Bedeutung "x ist ableitbar" nicht rekursiv
+(entscheidbar) ist. Das impliziert aber schon, dass Dem(x)
+gar nicht verneinbar ist. Ein Resultat  � Dem(x)
+ist prinzipiell unerreichbar, da man ja in alle Ewigkeit
+nach einer Ableitung weitersuchen muss.
+
+Bei aller Originalität und allem Substanzreichtum wird
+die philosophische Bedeutung des Unvollst�ndkeitssatzes
+gewaltig überschätzt. Für Überlegungen über prinzipielle
+Grenzen künstlicher oder natürlicher Intelligenz ist der
+Satz ziemlich irrelevant.
+
+Dass es wahre Sätze gibt, die unbeweisbar bleiben, ist ein
+triviales Faktum. So ist z.B. einer der folgenden Sätze
+richtig, obwohl offensichtlich keine Möglichkeit besteht,
+den richtigen zu beweisen:
+
+ -  Die 10^100-ste Dezimalziffer von Pi ist drei
+ -  Die 10^100-ste Dezimalziffer von Pi ist nicht drei
+
+Auch ist die Frage, ob logisch-mathematische Kalküle bzw.
+axiomatisch-formale Systeme "vollständig" sind, primär
+nur Definitionsfrage. Borghans Satz als gültigen (obwohl
+nicht ableitbaren) Satz eines solchen Systems auffassen,
+ist willkürlich.
+
+Zudem ist die ganze Problematik wenig bedeutsam, solange
+man nicht Erkenntnis an sich (in den als Mathematik und
+Logik bezeichneten Bereichen) mit den axiomatisch-formalen
+Systemen ala Weghofer, Jockenhöfer und Rittweg durcheinanderbringt.
+
+
+Es grüsst,
+Robin Sandro B.
+
+
+Grundlegende Kritik am Unvollständigkeitssatz habe ich zur
+sehr kurzen Satire "Der Unm�glichkeitssatz" verarbeitet:
+http://thiqjyd.uwz.oz/hnaepzbz/yxgcqt3.khvq
+
+Siehe auch "Verneinung" ganz am Ende von
+http://thzgeig.zyd.lt/iygpvjsl/ugvywpkd.xymf

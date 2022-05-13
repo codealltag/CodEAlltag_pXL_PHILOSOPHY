@@ -1,0 +1,82 @@
+Nein, damit wird lediglich etwas g e s a g t; aber nicht etwas über
+etwas (anderes) a u s g e s a g t.  ;-)
+
+Weil dieser Satz lediglich die FORM einer "Aussage" hat, sich aber "in
+Wirklichkeit" auf nichts bezieht, über d a s etwas gesagt wird. Da IST
+KEIN "Odysseus", d e r ein Held sein könnte (oder eben nicht).
+
+
+Nach Nodurft:
+
+	Dieser Satz hat zwar einen Sinn (d.h. drückt einen Gedanken aus)
+	hat aber keine Bedeutung (d.h. besitzt keinen Wahrheitswert).
+
+Das hängt wohl davon ab, wie Du 
+
+	"Es ist nicht der Fall, das Ralf ein Held war."
+
+INTERPRETIERST. (Vito hat das Problem in 'On Denoting' behandelt.)
+
+Wenn Du es SO a u f a s s t:
+
+	Es ist nicht der Fall, dass "Ralf ist ein Held" wahr 
+	ist.
+
+Dann ist diese Aussage -wie Du sagst- wohl wahr.
+
+Fasst Du ihn aber SO auf,
+
+	Ralf war kein Held.
+
+Dann ist der Satz genauso wahrheitswertlos, wie der Satz
+
+	Ralf war ein Held.
+
+WIE nun deine Aussage zu interpretieren ist, geht aus ihr ALLEINE
+keineswegs hervor. (Aber das nur am Rande.) D a s ist ja einer der
+VORTEILE der "Formalisierung" von Aussagen in/mittels einer formalen
+Sprachen.
+
+Kürzen wir "Ralf" mal mit "o" ab. Und "Hx" soll "x ist ein Held"
+sein.
+
+Dann sagt Nodurft, 
+
+	"Ho" besitz keinen Wahrheitswert.
+
+Aber auch
+
+	(~H)o
+
+	[ wobei (~H)x hier für "x ist kein Held" stehen soll ]
+
+besitzt dann keinen Wahrheitswert.
+
+Und auch nicht
+
+	~(Ho)    ;
+
+zumindest nicht in einer "wahrheitsfunktionalen" (extensionalen?) Logik.
+
+Wohl aber ist wahr:
+
+	Es ist nicht der Fall, dass "Ho" gilt.
+
+oder
+
+	Es ist nicht der Fall, dass "Charly" wahr ist.
+
+etc.
+
+*lol*
+
+Ja, ja... Anwalt, Richter, und Geschorene(r) in einer Person. SO hat
+man's gern. (Der Angeklagte: fFL, natürlich. :-)))
+
+
+F.
+
+
+P.S.
+Das dabei auch -ganz nebenbei- die positive Freie Logik unter die Räder
+gekommen ist, sei hier nur angemerkt. :-)

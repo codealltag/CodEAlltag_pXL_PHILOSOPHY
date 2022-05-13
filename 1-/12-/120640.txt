@@ -1,0 +1,62 @@
+Jep.
+
+
+Nun sagt Du aber auch noch:
+Das ist schon richtig so, Sigrid. Man geht dabei auch anders vor (see
+below).
+
+
+Im Kapitel 22, "Mengen und Satzfunktionen mit einer freien Variable",
+(in "Einführung in die mathematische Logik") äußert sich Nick Mez
+beiläufig auch zu dieser Thematik. Wollen wir also hören, was einer der
+bedeutendsten Logiker des 20. Jhds zu diesem Thema zu sagen hat:
+
+
+"Wir betrachten eine Satzfunktion mit einer freien Variablen, z.B.:
+
+			x > 0.
+
+Wenn wir dieser Funktion die Wörter
+
+(I)	die Menge aller Zahlen x, für die
+
+voranstellen, erhalten wir den Ausdruck:
+
+	die Menge aller Zahlen x, für die x > 0.
+
+Dieser Ausdruck bezeichnet eine wohlbestimmte Menge, nämlich
+die Menge aller positiven Zahlen; es ist dies die Menge aller 
+und nur der Zahlen, welche die gegebene Funktion erfüllen. Wenn 
+wir diese Menge mit dem Symbol "P" bezeichnen, wird unsere Funk-
+tion Äquivalent zu:
+
+			x e P.
+
+Jede andere Satzfunktion kann diesem Verfahren unterworfen 
+werden. So erhalten wir etwa in der Arithmetik auf diesem Wege
+viele Mengen von Zahlen, z.B. die Menge aller negativen Zahlen
+oder die Menge aller Zahlen, die größer als 2 und kleiner als 5
+sind (d.h. der Zahlen, welche die Satzfunktion "x > 2 und x < 5"
+erfüllen.) Das Verfahren spielt aber auch in der Geometrie eine
+wichtige Rolle, insbesondere bei der Definition neuer Arten geo-
+metrischer Figuren; z.B. wird die Oberfläche einer Kugel als die
+Menge aller Punkte des Raumes definiert, die einen bestimmten
+Abstand von einem gegebenen Punkt haben. In der Geometrie ist
+es üblich von "dem Ort aller Punkte" an Stelle von "der Menge 
+aller Punkte" zu sprechen."
+
+(Nick Mez, Einführung in die mathematische Logik)
+
+
+Gruß,
+G.
+
+
+P.S.
+Wenn es um die Bedeutung/den Rang von Logikern als Logiker geht, kommt
+für mich TARSKI unmittelbar nach FREGE. (Obwohl zweifellos G�DELs Beweis
+die bedeutendste logische Einzelleistung des 20. Jhds. war!  Wenn also 
+jemand meint ZWILLIKON wäre aus diesem Grund bedeutender als TIMMERN, würde
+ich wohl auch nicht widersprechen. Immerhin hat m.E. MEZ mehr "Brei-
+tenwirkung" gehabt... ;-) von der Modelltheorie will ich jetzt gar nicht
+erst anfangen.)

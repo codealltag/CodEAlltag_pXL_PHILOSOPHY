@@ -1,0 +1,26 @@
+Eine immer erfüllte Bedingung ist also nicht notwendig?
+Notwendig definiere ich wie folgt:
+
+---
+---
+
+Damit ist eine immer erfüllte Bedingung trivialerweise
+notwendig (für jede andere Bedingung), und eine nie
+erfüllte Bedingung hinreichend (für jede andere Bedingung).
+Ebenso ist jede Bedingung für die nie erfüllte Bedingung
+notwendig, und für die immer erfüllte Bedingung hinreichend.
+
+Es stimmt allerdings, dass dies nicht sehr aufschlussreich
+für die Betrachtung des Problems ist.
+
+
+DIE notwendige Bedingung gibt es IMHO sowieso nicht.
+Zu einer Bedingung A kann man meist ziemlich viele
+andere, für A jeweils notwendige Bedingungen aufzählen.
+
+Ob die etwas beim Beweis helfen, ist damit natürlich
+nicht gesagt.
+
+
+Ein wenig Formalismus.
+Felix

@@ -1,0 +1,25 @@
+Unfug Vogel! Klar, alles braucht eine materielle Basis, aber Information
+läßt sich auch in Information speichern.
+
+
+Einfachstes Beispiel:
+
+1)
+A=A+1
+B=B*2
+
+2)
+B=B*2
+A=A+1
+
+
+Programmtechnisch völlig identisch, nur bei 2) kommt Variable B VOR A,
+was bei entsprechender Auslegung (z.B. anderes Programm) wiederum 
+als 1 Bit betrachtet werden kann.
+
+
+Gruß J.Z.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

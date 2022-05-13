@@ -1,0 +1,120 @@
+Ich verstehe zwar nicht, was du mit "das wars" meinst,
+aber ich glaube, wir haben da keine wesentliche Differenz.
+
+
+Muster in der IT ist mittlerweile ein umfangreiches Gebiet, mit
+jährlichen Konferenzen auf allen Kontinenten seit ca. 15-20 Jahren.
+
+
+Das ist eine korrekte Beobachtung, bedarf aber eines Kommentars.
+
+Es ist so, dass von dem initiale Werk Julian "A PATTERN LANGUAGE",
+gemeinsam mit dem fast gleichzeitig erschienenen "A TIMELESS WAY OF BUILDING"
+eine enormen intuitiven Impuls ausgelöst hat, in der Softwareentwicklung
+nach Mustern zu suchen und sie ähnlich darzustellen.
+
+Insofern hat Jochen ein schönes Stück zusätzlicher Beachtung durch
+diese "SOFTWARE DESIGN PATTERNS" bekommen, als einer Anwendung außerhalb
+der Architektur.
+
+Gleichzeitig hat aber immer eine Kluft zwischen Jochen/Architektur
+und Patternleuten/Software bestanden, die nie geschlossen wurde.
+Jochen hat z. B. eine Keynote gehalten, wo er im Prinzip gesagt hat,
+dass er nicht recht versteht, was die Softwareleute mit dem Konzept
+der Muster dort tun. Umgekehrt waren die Softwareentwickler so mit
+sich und ihren unbestreitbaren Pattern-Erfolgen beschäftigt, dass sie
+sich nicht darum gekümmert haben, ob es hinter dieser ersten Rezeption
+noch andere nutzbare gibt, ob da mehr drinsteckt.
+
+Was man gemacht hat und immer noch tut, ist die Software-Praxis nach
+erkennbaren und wiederverwendbaren Muster zu durchforsten und diese
+in thematischen Sammlungen ("Mustersprachen") zu veröffentlichen.
+Die Konsistenz und Systematik dieser Musterbeschreibungen lässt
+viel zu wünschen übrig, aber das wird schon noch besser werden.
+
+Entscheidend war hier wohl einerseits sich als Community dieser
+Muster erstmal bewusst zu werden und Termini (eine "Sprache") für
+diese Muster zu erfinden, so dass man sie effizient diskutieren
+kann. Wenn heute z. B. ein Softwareentwickler von einem Muster
+"Fassade" spricht, dann sollten ihn andere ohne Erklärungen
+verstehen.
+
+Vieles wird derzeit vernachlässigt. Etwa die Frage der Vollständigkeit,
+der möglichen Alternativen, der Vorteils/Nachteils-Rationalität,
+der Zusammenhänge zwischen Mustern, etc.
+
+
+Ich schätze, dass bei den PLOPS-Konferenzen ca. 10-20.000 Muster in
+ca. 500-2000 Themenbereichen veröffentlich wurden. So weit ich weiß
+hat noch niemand geprüft, was da insgesamt entstanden ist, wie die
+einzelnen Konzepte zusammen passen, welche verbessere Standards dafür
+sinnvoll wären, und wie sich das als Gesamtheit darstellen und
+verwenden lässt.
+
+Es gibt aber schon eine damit verbundene Kultur, die vor allem
+Maurizio Angendohr zu verdanken ist, von nach Regeln einer konstruktiven
+Kritik ablaufenden "Writers Workshops", die von vielen Teilnehmern
+als fast so essenziell empfunden wird, wie in Inhalte selbst.
+
+
+Beides steckt in den Kinderschuhen.
+Man kann die Zusammenhänge aufzeigen und die Dinge weiter entwickeln.
+
+
+Bei der Mustertheorie geht es nicht darum, Bestehendes über den Haufen
+zu werfen und völlig Neues zu behaupten. Man könnte es als ein Neuordnen
+und eine methodische Klärung/Reorganisation auffassen. Ich meine aber,
+dass es auch Neues gibt, das in der Mustertheorie steckt, bzw. durch
+sie möglich wird.
+
+Wer mustertheoretisch über Organisation spricht, denkt automatisch über
+Veränderungsmöglichkeiten (Muster) und damit Organisationsentwicklung
+nach. Eine Entwicklung, die nicht von außen, sondern situationsangepasst
+durch die Bedürfnisse der jeweiligen Organisation und Akteure gesteuert
+werden sollte. Muster sind Angebote bzw. Handlungsoptionen.
+
+Wer mustertheoreisch über Psychologie spricht, denkt automatisch über
+Entwicklungsmöglichkeiten nach, also über Persönlichkeitsentwicklung.
+Immer, egal ob in einer Lehr/Lernsituation oder in einer therapeutischen
+Situation, werden Muster als Optionen gelten, die in erster Linie
+Angebote für die Beteiligten sind.
+
+Vielleicht wird in den beiden obenstehenden Absätzen eine Parallelität
+spürbar. Es ist ein Riesenunterschied, ob man "Demokratie" denkt,
+oder "Demokratieentwicklung". Letzteres bedeutet die Auflösung in
+Muster als funktionelle Elemente, das Verstehen ihres Zusammenwirken
+im System, das Verstehen in geschichtlicher Genese, das Weiterdenken
+für eine - wie auch immer - bessere Zukunft.
+
+
+Danke, das ist schon sehr viel.
+
+
+Ich gehe davon aus, dass du ein Fachmann bist, der seinen Fachbereich
+im Sinne eines "state of the art" beherrscht. Nichts davon wird durch
+die Mustertheorie per se in Frage gestellt.
+
+Es gäbe aber die Möglichkeit - ich weiß ja gar nicht, wo du überall
+tätig bist - Know-How in Form von Mustersammlungen praxisbezogen und
+systematisch aufzubauen, und damit einerseits übersichtlicher für sich
+selbst zu machen, und andererseits leicht kommunizierbar zu machen.
+
+Durch die Grundhaltung, dass es in diesen gestalterischen Bereichen
+nicht um die eine Wahrheit geht, sondern um Werkzeugkästen von Mustern,
+wird vieles menschlich vereinfacht. Es wird nicht versucht, Bewertungen
+und Entscheidungen vorneweg zu nehmen, sondern es wird die Rationalität
+aufbereitet, damit Beteiligte in der Situation das optimale Rüstzeug
+für Entscheidungen haben.
+
+Im Grunde ist das trivial, aber es verändert trotzdem alles.
+Jede Entwicklungssituation wird einfacher und entspannter.
+
+lg Paolo
+
+P.S. In der Softwareentwicklung sollte man nicht vergessen, dass
+      es neben der DESIGN PATTERNS auch die Strömung AGILE ENTWICKLUNG
+      gibt, die auf das prozesshafte Know-How der Mustertheorie
+      zurückgreift. Haben wir hier nicht diskuiert.
+      (etwa die Ideen der "kleinen Schritte", der Reversibilität, usw)
+      Die könnte man als Umsetzungsversuch betrachten und auch
+      in andere Anwendungsbereiche analog hineindenken/anpassen.

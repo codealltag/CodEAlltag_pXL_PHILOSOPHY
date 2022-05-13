@@ -1,0 +1,26 @@
+Wenn das in Deinen Augen so ist, na gut. Meines Erachtens liegst Du damit
+aber nicht gerade auf der üblichen Linie der Bedeutung des Wortes "kreativ".
+Selbst bei sowas wie "spontan" wäre ich sehr vorsichtig das mit "zufällig"
+zu identifizieren, jedenfalls wenn es um Menschen geht.
+
+[snip]
+
+
+[snip]
+
+
+Weiß ich doch. Ist ja aber nur nötig, weil das benutzte deterministische
+Verfahren nicht das Problem löst, sondern nur ein (lokales) Maximum (oder
+Minimum) findet. Totales Durchsuchen ist ja leider zu teuer, also lieber ein
+"fast" richtiges Programm und dann mit Heuristken versuschen das Ergebnis zu
+verbessern. Was gibt's da alles: Sinflutalgorithmen, simmuliertes Ausglühen,
+genetische Algorithmen und auch Monte Carlo. Aber das kann nicht darüber
+hinwegtäuschen, daß der Grund für die Benutzung solcher Algorithmen mit
+Zufall und/oder Heuristik darauf basiert, daß die optimalen Algorithmen zu
+teuer sind.
+
+
+-- 
+Willibald Schauff
+Email: t*y*e*m*c*v*t*v*n@l*t*w.c*s
+        keep things simple. as simple as possible, but no simpler (C.Jungeblut)

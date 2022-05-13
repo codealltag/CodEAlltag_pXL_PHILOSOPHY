@@ -1,0 +1,58 @@
+Nicht ganz.
+
+Ein Ensemble im Sinn der statistischen Mechanik wird
+gew"ohnlich gedacht als eine unbegrenzte Menge fiktiver (oder
+manchmal - n"amlich wenn sie gemessen werden - auch realer)
+Kopien des einen zu analysierenden Systems.
+Kopien, die in den relevanten Gr"ossen identisch sind, sich
+aber in den irrelevanten mikroskoopischen Detais unterscheiden.
+Dies erlaubt es, "uber die irrelevanten Details zu mitteln
+und so relevante statistische Aussagen "uber relevante Gr"ossen
+zu bekommen.
+
+Das ist v"ollig unabh"angig davon, ob das System und die Kopien
+unterscheidbare Teilchen enthalten oder nicht. Die fiktiven
+Kopien w"aren durchaus unterscheidbar, wenn man sie mikroskopisch
+genau kennen w"urde.
+
+In jedem einzelnen System sind nun Teilchen, und bei denen kann
+es sich um unterscheidbare oder ununterscheidbare Teilchen handeln.
+
+Ein einzelnes Wassermolek"ul H_2O besteht zum Beispiel aus einem
+Sauerstoffkern O, zwei Wasserstoffkernen H und 10 Elektronen e
+Die Elektronen sind nicht im chemischen Symbol mit drin,
+da der Chemiker weiss, dass ein Wasserstoffatom normalerweise
+ein Elektron hat und ein Sauerstoffatom acht. Wenn das nicht der
+Fall ist, redet er von Ionen und schreibt fehlende Elektronen als
+zus"atzliche hochgestellte + und "uberz"ahlige als zus"atzliche
+hochgestellte -, wie etwa die Reaktion
+     H_2O <--> H^+ + OH^-,
+die in w"assriger L"osung zum Teil stattfindet. (Das mittlere Plus
+ist nicht hochgestellt und bedeutet einfach 'und'.)
+
+H und O und e sind unterscheidbar, die beiden O's und die 10 e's
+aber nicht. Und zwar in jedem einzelnen H_2O-Molek"ul. Wenn man
+zwanzig H_2O-Molek"ule hat, sind die zwanzig O's ununterscheidbar,
+die vierzig H's und die 200 e's ebenso. Das bedeutet, dass sich
+_nichts_ ge"andert h"atte, wenn man welche der O's heimlich
+vertauschen w"urde, etc. (Formal, dass sich die Wellenfunktion bei
+entsprechenden Koordinatenvertauschungen nicht "andert.)
+
+Man kann dies experimentell nachweisen, indem man die Mischungsentropie
+ausrechnet und mit dem Experiment vergleicht.
+
+
+Es l"asst sich aus Annahmen der Quantenfeldtheorie (Kausalit"at und
+Lokalit"at) herleiten (Stichwort Spin-Statistik Zusammenhang).
+Das ist aber recht technisch und nichts f"ur eine philosophische
+Hausarbeit!
+
+
+"uberhaupt nicht.
+
+Die Teilchen in einem klassisch modellierten idealen Gas m"ussen
+n"amlich _auch_ ununterscheidbar sein, damit die Eigenschaften
+mit den gemessenen "ubereinstimmen.
+
+
+Paul Crössmann

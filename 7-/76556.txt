@@ -1,0 +1,48 @@
+Ja, weil es nicht "den Raum" gibt. 
+
+Was das mit dem Euklidischen Raum zu tun hat, hatte ich 
+im Thread schon erwähnt: Um einen Ort *eineutig* zu bestimmen 
+(zu vermessen) benötige ich ein Maß, das wir Abstand nennen. 
+
+Weil die kürzesten Verbindungen im Euklidischen Raum Geraden 
+sind, so kann ich aber mit nur einem Abstandsmaß sinnvoll nur 
+die Abstände auf einer Gerade messen, und nicht sagen *welche* 
+Gerade das ist. Um das zu identifizieren, benötige ich noch 
+weitere vom ersten genannten Maß *unabhängige* Abstandsgröße. 
+Das muß keine Gerade sein (ein Winkel ginge ebenfalls), bietet
+"sich" aber an. Die größte Unabhängigkeit erhalten wir durch 
+Orthogonalität, also lotrechte Beziehung dieser beiden Maße, 
+nennen wir sie x und y. Diese sind also nicht ineinander 
+überführbar, also durcheinander irgendwie ersetzbar, umrechenbar. 
+
+Wir haben also in unserem Ordnungssystem der Abstände von Punkten, 
+zu dem einem Maß, Mensur, Mension (x) nun noch ein zweites hinzu
+gefügt und haben also zwei Maße, Mensuren, Mensionen (x und y). 
+
+Unser System ist bimensional in Bezug auf die beiden Abstandsmaße, 
+die sich nur durch ihre Richtung unterscheiden, aber sonst ein 
+*beide* Vielfaches des gleichen Längenelementes sind (z.B. 1 mm). 
+Weil sie das gemeinsam haben, führen wir den Begriff Dimension 
+ein und meinen hier Maß des Abstandes, das bis auf die Richtung 
+gleichartig ist. 
+
+Leider können wir uns nun nur eindeutig auf einer Fläche "bewegen", 
+aber nicht sagen, welche Fläche das ist und so benötigen wir noch 
+eine weiter Mension, die Dritte Dimension, aber Achtung, in unserem 
+Fall sind das nun drei *KONKRET* Abstandsdimensionen.
+
+Verstehst du! Auch hier wieder muß man sagen, was man genau meint, 
+es gibt hier nicht einfach 3 Dimensionen, sondern drei bis auf 
+die Richtung aus den gleichen Längenelemente bestehende 
+Abstandsmaße! Betonung auf Abstand: Abstandsdimensionen. 
+
+Betrachtet man z.B. den Raum aller Schachstellungen, so kann man 
+ebenfalls irgendwelche (übrigens auch beliebigen) Ordnungsrelationen 
+untersuchen und also Freiheitsgrade einführen, aufsuchen oder finden.
+
+Das wären dann ebenfalls Dimensionen des Stellungsraumes des 
+Schachspiels, aber wohl keine Richtungsdimensionen! 
+
+
+Größe
+--

@@ -1,0 +1,40 @@
+On Tue, 11. 12. 22 20:29:52 +0100, Renato Wickenhäuser
+	"Bei einer Kugel sind Oberfläche und Volumen gleich gross."
+
+Was Du meinst ist:
+
+	O(r)   V(r)
+	---- = ----
+	cm^2   cm^3
+
+Aus dieser Beziehung sollte man nach Ottmar Rothfuchs
+
+
+	 r = ... cm
+
+erhalten.
+
+Nun meinst Du noch:
+
+	"Die Kugel ist 565.05 g schwer."
+
+Besser gesagt, die hat eine MASSE von 565.05 g.
+
+	M = 565.05 g.
+
+Und fragst:
+
+	"Wie gross ist deren spez. Gewicht?"
+
+Nun ja:
+
+	rho = M/V
+
+sollte leicht zu berechnen sein.
+
+??? Was hat das mit Logik zu tun? Naja, ein wenig kombinieren muss man
+vielleicht können, ok. Und das Arbeiten mit FORMELN bzw. GLEICHUNGEN
+sollte man vielleicht beherrschen.
+
+
+A.

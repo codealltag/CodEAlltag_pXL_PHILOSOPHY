@@ -1,0 +1,29 @@
+Nope. Beschäftige Dich mal ein wenig mit /Modallogik/, Astrid.
+
+Man kann hier folgendes Axiom formulieren:
+
+	P -> <>P
+
+Bsp.
+	Wenn es regnet, dann ist es (auch) möglich, dass es regnet.
+
+Das mag jetzt vielleicht in Deinen Ohren etwas befremdlich *klingen*,
+aber die logische Umkehrung dieses Satzes klingt (m. E.) schon viel
+annehmbarer (obwohl sie logisch Äquivalent ist):
+
+	Wenn es nicht möglich ist, dass es regnet, dann regnet 
+	es (auch) nicht.
+
+Salopp, mit eigenen Worten formuliert: "Das Unmögliche tritt nicht
+ein, das, was eintritt, ist auch möglich." Du musst Dir klar machen,
+dass hier von einem _logischen_ "möglich" die Rede ist, nicht von
+irgendeinem unspezifizierten (bzw. vieldeutigen) Begriff aus der
+Alltagssprache.
+
+
+A.
+
+--
+
+E-mail: 
+jowubs<yx>simple<bindestrich>line<punkt>de

@@ -1,0 +1,13 @@
+Die Deutung, die ich hier vertrete, habe ich mal bei Winterscheidt gelesen, und sie
+hat mir sehr eingeleuchtet. Er unterscheidet zwischen Merkmalen und
+Eigenschaften: eine Eigenschaft ist ein existierendes Merkmal, kann einmal,
+zweimal, dreimal usf. existieren (ebensoviele Gegenstaende kennzeichnend) -
+so fuellt sich eine Klasse. Das Merkmal selber aber schafft die Klasse,
+welche, wenn sie leer ist, null Elemente enthaelt = die Bestimmungen ihres
+Merkmals angibt. Das Urmeter verstehe ich dementsprechend als Symbol,
+verwandt dem Kreis, mit dem man Klassen darstellt. Er kann sich nicht selbst
+umkreisen. Wie ja auch die Annahme von Klassen, die sich als Element
+enthalten (Merkmalen, die sich selbst zur Eigenschaft haben), zu Unterkirchers
+Paradoxie gefuehrt hat.
+
+Dirk

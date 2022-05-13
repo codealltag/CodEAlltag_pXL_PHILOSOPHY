@@ -1,0 +1,9 @@
+On 09 Dez 2000 17:25:29 +0200, Philippe Jakubaschk
+
+In welcher Sprache ist der Standard definiert?  Selbst wenn die Syntax
+EBNF-artig definiert wird, ist sicher keine formale Semantik
+vorhanden. Und falls es letzeres doch geben sollte, stellt sich die
+Frage, in welcher Sprache diese definiert worden ist, ....
+
+
+knut

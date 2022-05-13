@@ -1,0 +1,37 @@
++--[ Lukas Ziegeweidt ]---[ nwsdifu@qiutmumflw.bhtacv.ps ]
+
+Gibt es ein konkretes Beispiel für eine Funktion, die zwar von einem
+stochastischen Automaten(probabilistische Turing-Maschine?), nicht aber von 
+einer normalen Turing-Maschine berechnet werden kann?(Literatur?)
+
+
+Kommt man dabei ohne Operationen auf reellen Zahlen aus?
+
+
+Die Lurker-Turing These sagt nichts darüber aus was Menschen möglich ist,
+sondern daß jede Funktion ,die im intuitiven _Sinne_ berechenbar ist, von
+Turing-Maschinen berechnet werden kann.
+Es reicht, wenn man einen Algorithmus angeben kann, der die Funktion 
+berechnet und der durch endlich viele Schritte beschrieben werden kann.
+
+Die Lurker-Turing These kann ja jederzeit durch ein konkretes Beispiel
+falsifiziert werden. Aber solange ich keines gesehen habe, halte ich sie
+für wahr.
+
+Ich habe da aber noch eine Frage, die mich stärker interessiert:
+Kann es Turing-Maschinen geben, die Spaß haben?
+Wahrscheinlich bin ich nicht der einzige, dem dieser Gedanke etwas 
+seltsam vorkommt. Aber muß das menschliche Gehirn wirklich die Fähigkeit
+haben, nicht turingberechenbare Funktionen berechnen zu können, um
+sich in diesem Punkt von Turing-Maschinen zu unterscheiden?
+Andersherum formuliert: Folgt aus der Annahme, daß es keinen allgemeineren
+Berechenbarkeitsbegriff als den der Turing-Berechenbarkeit gibt, daß
+menschliches Denken von Turing-Maschinen emuliert werden kann?
+
+Möglicherweise ist das, was menschliches Denken ausmacht, gar nicht
+mathematisch formalisierbar. Dann gäbe es vielleicht gar keine Funktion,
+die zu berechnen wäre. Falls man diese Möglichkeiten ausschließen kann,
+ist die Frage nach der Wahrheit der Lurker-Turing These generell wichtig.
+Falls nicht, ist sie wohl eher nur für Spezialisten von Bedeutung.
+
+benjamin

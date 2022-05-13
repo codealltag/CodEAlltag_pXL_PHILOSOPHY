@@ -1,0 +1,43 @@
+"Eugen Pflögel" <e.ewgbquldx@ogn.al> wrote in news:bwt16f$0y3yca$3@RO-
+355959.dndn.jmngrg.fl:
+
+
+ich glaube du meinst folgendes:
+du nimmst an, daß jedes Photon zu einem scharfen Zeitpunkt startet und der 
+Ankunftszeitpunkt dann mit einer Unschärfe Delta_t behaftet ist. So daß die 
+Laufzeit der Photonen zwischen Start und Ankunft ebenfalls die Unschärfe 
+Delta_t hat.
+Das ist aber so nicht richtig.
+Der Zeitpunkt, zu dem die Photonen starten, ist ebenfalls unscharf, und 
+zwar ist seine Unschärfe, wenn wir näherungsweise annehmen, daß alle 
+Lichtlaufstrecken zwischen Quelle und Fotopapier gleich lang sind, gerade 
+gleich der Unschärfe des Ankunfszeitpunkt. Die Laufzeit tau der Photonen 
+hingegen ist scharf. Will sagen: Start- und Ankunftszeitpunkt sind 
+korreliert, du weit nicht genau wann ein Photon startet und wann es 
+ankommt, aber du weit daß wenn es zur Zeit t startet, es zur Zeit t+tau 
+ankommt.
+
+
+du kannst nicht genau sagen, wann ein Photon abgeschossen wird.
+
+
+genau.
+
+
+die Zeitunsch�rfe des Ankunftszeitpunktes wird zusätzlich dadurch erhöht, 
+daß die Lichtlaufstrecken zwischen Photonenquelle und Fotopapier nicht alle 
+genau gleich lang sind. Bei jedem Photon ist einerseits unscharf, wann es 
+losgeflogen ist, und anderseits ist unscharf, welche Strecke es nimmt, d.h. 
+die Lichtlaufzeit ist dann ebenfalls mit einer Unschärfe behaftet.
+
+
+um diese Frage ranken sich die verschiedenen Interpretationen der QT.
+Nach der weit verbreiteten minimalen statistischen Interpretation ist die 
+Frag sinnlos: Delta_x bedeutet einfach nur, daß nicht vorhersehbar ist, 
+welchen Aufenthaltsort man bei der nächsten Ortsmessung messen wird. Ohne 
+Beobachter gibt es keine Ortsmessung und daher ist es sinnlos, von einem 
+Delta_x zu sprechen.
+Wenn wir aber z.B. annehmen, daß der Quantenzustand eines Teilchens dessen 
+beobachterunabhängige Realität ist, wie es die Cochstedt Deutung und die 
+Vieleweltendeutung tun, dann sind Delta_x und Delta_p Eigenschaften des 
+Teilchens selbst, unabhängig von einer Beobachtung.

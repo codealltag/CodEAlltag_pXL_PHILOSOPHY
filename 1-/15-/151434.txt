@@ -1,0 +1,58 @@
+Ulf E. O. schrieb in Nachricht
+<9y0o59$m5j$0@pkrqfagvtzu2.pncu.skmzxjooa.xvm>...
+
+eben nicht.
+
+
+dein Pech. Nur ist die Sicherheit aus der Anschauung trügerisch.
+
+
+bei Flüssigkeiten, die tatsächlich absolut inkompressibel wären, ja.
+Nur gibt es solche nicht. Jede reale Flüssigkeit hat eine wenn auch geringe
+Kompressibilität.
+Würde man bei einer solche Flüssigkeit, bei sich das Einschalten von Quellen
+nur retardiert bemerkbar macht, die Gültigkeit des Gaußschen Satzes fordern,
+würde daraus folgen, daß es kein Ein- und Ausschalten von Quellen geben
+kann.
+
+übertragen auf ein Feld bedeutet das: entweder das Feld reagiert instantan
+auf Veränderungen, dann sagt der Gaußsche Satz nichts über die Möglichkeit
+der Ladungserzeugung/-vernichtung aus, oder aber das Feld reagiert
+retardiert, dann folgt aus dem Gaußschen Satz die Ladungserhaltung.
+
+
+nein, das tut es nicht.
+
+
+falsch. Der Fluß wäre ständig Null, egal wie stark das Feld retardiert ist.
+Die Gesamtladung innerhalb der äußeren Kugel ist ja Null. Von Null
+verschieden wird der Fluß erst dann, wenn Ladungen in den Raum außerhalb der
+äußeren Kugel gelangen.
+
+
+falsch.
+Denn wegen der Ladungserhaltung müßte die Kondensatorplatte entweder seit
+ewigen Zeiten offensein, oder es müßte irgendwann mal eine anderen
+Kondensatorplatte da gewesen sein, die irgendwann wegbewegt wurde.
+Bei diesem Wegbewegen würde - völlig unabhängig von der Retardierung -
+außerhalb der Kondensatorplatten die Divergenz des elektrischen Feldes stets
+Null bleiben, und deswegen gäbe es keine longitudinalen EM-Wellen.
+
+
+du verwechselst Photonen mit optischen Phononen (mit n statt t), also
+Schallquanten.
+EM-Wellen sind aber keine Schallwellen.
+
+
+das stünde aber im Widerspruch dazu, daß die E-Felder bei EM-Wellen
+divergenzfrei sind.
+
+
+aber ihre Divergenzfreiheit nicht.
+
+
+Dreihäupl ist daran aber gar nicht gescheitert.
+Maxwells Theorie liefert eine sehr konkrete Vorstellung von EM-Wellen:
+an jedem Punkt x im Raum ist ein elektrisches Feld E(x) und ein magnetisches
+Feld B(x), und bei einer EM-Welle gilt E(x,t) ~ sin(omega*t - k*x + phi),
+B(x,t) ~ sin(omega*t - k*x + phi).

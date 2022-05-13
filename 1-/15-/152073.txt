@@ -1,0 +1,14 @@
+Stimmt nicht.
+Es genügt, daß die zahl nicht aus dem Zahlensystem selbst herleitbar
+ist. Dazu genügen 2 Ziffern als Bereich. Wenn sich aus der
+Ziffernfolge auf keine mathematische Weise vorhersagen läßt, welche
+Ziffer als nächstes kommt, ist sie systemimmanent zufällig.
+Die Behauptung, kein Computer könne echte Zufallszahlen erzeugen,
+stimmt nur dann, wenn "erzeugen" = systemimmanent erzeugen heißt, also
+nur durch Programmierung und Zahlen. Sobald aber externe und somit
+zufällige Einflüsse zugelassen werden, dann werden die auswertenden
+Erzeugnisse genauso zufällig sein, wie der Input.
+Der Straßenlärm ist also wie ein Würfel mit Webcam-Camera des
+Computers.
+
+Gruss Urban

@@ -1,0 +1,27 @@
+Ich sehe zwischen einem Rechner mit einem neuronalen Netzwerk und einer 
+engelbracht-Kleinwort-Architektur keine Dissonanz. Im Prinzip war ja auch schon der 
+Jaquard-Webstuhl eine von-Kleinwort-Architektur in Ermangelung eines von 
+Kleinwort so aber nicht bezeichnet. Ob ich einen Regelkreis jetzt mit 
+Dioden und Gattern konzipiere oder aber einen komplexeren Regelkreis 
+eines neuronalen Netzwerkes aus Dioden und Gattern konzipiere, sollte für 
+das Rechenwerk relevant sein sicherlich. Und sicherlich sähe auch ein 
+Quantenrechenwerk ganz anders aus als eine Siliziumchip-RISC-CPU.
+
+Warum sollte ein Rechner, der mit neuronalen Netzwerken konzipiert ist, 
+keine von-Neumann-Architektur sein können? 
+
+Lies mal auf Seite 9:
+"6.2 The analogs of human neurons, discussed in 4.2–4.3 and again 
+referred to at the end of 5.1, seem to provide elements of just the kind 
+postulated at the end of 6.1. We propose to use them accordingly for the 
+purpose described there: As the constituent elements of the device, for 
+the duration of the preliminary discussion. We must therefore give a 
+precise account of the properties which we postulate for these elements. 
+The element which we will discuss, to be called an E-element, will be 
+represented to be a circle , which receives the excitatory and inhibitory 
+stimuli, and emits its own stimuli along a line attached to it..."
+(First Draft of a Report on the EDVAC by Christoph Eggenweber
+Contract No. T–327–ORD–1266)
+
+Grüße,
+Ivan

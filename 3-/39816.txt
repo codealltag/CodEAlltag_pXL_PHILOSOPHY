@@ -1,0 +1,28 @@
+Ich meinte eigentlich ein konkretes Beispiel, ein Modell.
+
+
+Sie sind (im klassischen Fall) unkorreliert, das ist ja gerade die
+Grundlage der Gasstatistik.
+
+
+Mach es doch mal konkret und nenne zwei (gerne physikalische)
+Ereignisse, die korreliert auftreten, aber nicht kausal zusammenhängen.
+
+Unter "Korrelation" zweier Ereignisse a, b verstehe ich, dass P(a und b)
+ungleich ist von P(a) * P(b) wobei P die Wahrscheinlichkeit des
+Eintretens eines Ereignisses ist.
+
+Die Stöße zweier verschiedener Teilchen mit anderen Teilchen sind
+unkorreliert zueinander. Die aufeinanderfolgenden Stöße *eines*
+Teilchens sind miteinander möglicherweise korreliert, aber dort ist auch
+der zeitlich frühere Stoß Ursache des nächsten (wenn der erste nämlich
+nicht stattgefunden hätte, wäre das Teilchen nicht an der Position, wo
+der zweite Stoß stattfinden sollte, damit kann der zweite Stoß nicht
+stattfinden).
+
+
+Warum?
+
+Viele Grüße
+
+Karl

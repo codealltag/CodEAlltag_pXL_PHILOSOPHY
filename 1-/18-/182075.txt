@@ -1,0 +1,128 @@
+Subject: Re: Aufgabe
+From: Sébastien Ziegelmann <Grouv_Vmzdetd@ssl.nm.mzq>
+Date: Thu, 29 Oktober 1998 11:33 AM EDT
+Message-id: <739967XX.N508JTY8@skw.ua.nwa>
+
+SCHRIEB:
+
+
+          b-
+E---------a-----A
+          c-
+
+
+An eben diesem Knoten sitzt ein alter Mann!   Nun gibt es an der Verzweigung
+genau 4 Wege. Das b und c Sackgassen sind, kann man ja nicht als _Wissen_ 
+voraussetzten wenn man von E kommt. Man hat ja keine Karte. Insofern ist auch
+meine gegebene Def. Ein Weg ist die Verbindung zwischen zwei Knoten
+unbrauchbar. Aber hier hat  das Labyrinth zwei Wege vom Eingang zum Ausgang, es
+würde leichter fallen das zu sehen, wenn man hier Kurven zeichnen könnte, der
+zweiteilige Weg E --- A  muß ja nicht so geradlinig verlaufen.
+
+
+Stimme ich dir zu!  - kein eigenständiger Weg.
+
+
+E--------a------A
+
+
+Das nun nicht gerade, aber natürlich ist; E a   ein Weg,  und a E derselbe,
+aber a A ist ein zweiter Weg!
+Genau so sind ja auch die Straßennamen z.T. vergeben, von E bis a  heißt eine
+Straße z.B. Farrelweg und nach a bis A heißt sie anders, obwohl keine anderen
+Straßen beteiligt sind, und die beiden Straßen tatsächlich so schnurgerade
+verlaufen ;-)
+
+
+Korrekte Wege mag es mehrere geben, aber womöglich ist nur ein kürzester
+darunter ?
+Wenn man vor der Schleife ausgesetzt wird, und an dieser nicht vorbei kommt, um
+zu Ausgang zu kommen, dann gibt es auch zwei verschiedene Wege zum Ausgang,-
+ok, nun würde die Bedingung nicht gelten. 
+
+Diese Schleife muß auch min. zwei Knoten haben, einen an welchem man rein kommt
+und einen anderen, an dem wieder raus. Eine Schleife muß ja aber doch
+offensichtlich auch mindestens einen Knoten haben, - sonst ist es ja ein
+isolierter Kreis.  
+
+Was aber wenn man in die Schleife eingesetzt wird ? In der Schleife selbst,
+kann man linksrum oder rechtsherum gehen, der selbe Weg!  - es gibt nur einen
+Knoten. Oder, es gibt sehr wohl eine zweiknotige Schleife, in diese man aber
+NUR eingesetzt werden kann, weil man von den möglichen Wegen des Eingangs,
+nicht in diese gelangen kann, also wieder ein isolierter Kreis, mit
+Seitenarmen. Die Bedingung ist ja nun, das es an jedem Knoten, -an den man auch
+gelangen kann- genau einen richtigen Weg gibt. Denn was sollte eine Bedingung
+die nie eine Relevanz hat. Da die Schleife selbst wieder auf den selben Knoten
+zurückführt, kann an der Stelle des Schleifenknotens, eben DAS nicht der
+richtige Weg sein, wohl aber einer, der von der Schleife fort führt. Ich meine
+es so, man kann durchaus 50 mal die Schleife durchlaufen, also jedesmal den
+falsch Weg nehmen, und hat doch jedesmal wenn man im Knoten ist, einen
+richtigen, und nur einen, zur Auswahl.  (?) -oder etwa nicht?
+
+
+<<<<<<<<<<<<<<<<<<<<
+Nein, ich hatte die Randbedingung fuer mein Loesung angegeben.
+Um zu Luegen, wird die Gesamtaussage negiert, die Teilaussagen fuer sich
+sind richtig.
+D.h. wenn negiert wird (gelogen), muss in jeder Teilfrage nach Luege,
+diese zugegeben werden.
+Unter dieser Praemisse liefert meine Frage die korrekte Antwort.
+Ich ging jedoch faelschlicherweise davon aus, dass der Weg von dem ich
+komme, nicht der richtige sein kann (ich dachte, das wuesste ich in dem
+Fall und wuerde nicht fragen).
+<<<<<<<<<<<<<<<<<<<<
+
+Nun ja, das es drei Wege sind, habe ich auch aus dem Grunde, diese NG nicht
+schon wieder mit meinen Objektivit�tsansichten zu langweilen, einfach mal in
+deiner Lösung übergangen und nur am Rande bemerkt.  Tatsächlich, sollte man
+aber an einer Abzweigung mit einem Lügner und einem Wahrsager, mit einem
+richtigen Weg, nach einem falschen Weg fragen, und zwar: Welchen Weg würde mir
+dein Kollege sagen, ist ein falscher?  Nun, ist es auch egal wieviele Wege sich
+da kreuzen mögen, (VERzweigung) immer bekommt man den richtigen gesagt, egal ob
+man den Lügner oder den Wahrsager erwischt hat,  - einfach deshalb, weil der
+formallogische Lügner die Wahrheit wissen muß um sie negieren zu können,-
+andernfalls hat er nur geraten und kann nicht mehr Lügner heißen, bloß noch
+Rater.- raten aber, können wir selber ;-)
+
+Die Frage ist also; wie bekommt man diese Lösung, mit nur einem WahrL�ger hin ?
+ Sind es oben zwei Personen die man befragen kann, also auch den einen über den
+anderen, so vereint ja nun der alte weise Mann diese beiden Charaktere in sich.
+Ansich ist es klar, aber die Formulierung fällt schwer da man sich zahlreicher
+Gegenargumente ausgesetzt sieht, wenn es nicht sauber formuliert ist.
+
+
+Ja, das ist  nun tatsächlich ein Problem. _ wie nun_?  Ich bin bei meiner
+Analyse mal vom Model des, Mr. Bongart & Mr. Overrath ausgegangen. Weshalb auch
+Antworten eines Lügners und eines Wahrsagers getrennt standen. Wenn also der
+Mensch das Haus verläßt ist er entweder Mr. Overrath oder Mr. Bongart  - nicht aber
+beides. Und er bleibt es auch bis er wieder nach Hause kommt, d.h. der Lügner
+lügt über genau das, was auch gefragt wurde, ergo in seiner Gesamtheit, nicht
+die einzelnen Teile,- auch weil du Anfangs ja sagtest; Die Konjugation solle
+nicht auseinander genommen werden,-  oder so ähnlich.
+
+
+Daran hängt sich alles weitere auf, daß sehe ich auch so. Nun hast du ja schon
+einige Möglichkeiten angegeben, aber das waren noch nicht alle ?  Fragt sich
+also, wenn man doch alle Möglichkeiten zu reagieren, behandeln muß,  - wieviele
+verschiedene gibt es davon? 
+
+Ich habe es so verstanden, daß manchmal meint, er entscheidet sich irgendwie
+vorher, ob er jetzt einen Lügner simuliert oder einen Wahrsager. Und sodann
+nach dieser getroffenen Entscheidung die Frage beantwortet, ohne nochmals zu
+wechseln. Stellt man ihm eine zweite Frage, so entscheidet er von Neuem. Fragt
+man etwa; bist du ein Lügner? kann er nur sagen: Nein.  Weil ein Ja als
+Antwort keiner, weder der Lügner noch der Wahrsager, formallogisch geben kann,
+ergo es Wurscht ist, wie er sich vorher entschieden hat. Das ist ja auch der
+Grund, warum es den Ausspruch, Ich läge von niemanden formallogisch
+(zweiwertig) geben kann. Sowas kann nur ein Dummschwätzer sagen und der braucht
+und hat keine formale Logik ;-) Auf Termathes Insel kann auch niemand, zu einem
+verstehend hörenden Fremden, formallogisch sagen; Sie werden niemals wissen,
+daß ich ein Ritter bin. Oder einfacher; Ich bin kein Ritter.  u.s.f.
+
+
+Nicht unbedingt, wenn es denn gebräuchliche Verwendung unter Mathematikern ist.
+Und ich bin kein solcher. Dann kann man schlecht von einem Fehler reden.
+
+
+Email 
+Copyfree / hmofeizkzc@sex.qqv geht doch(?)

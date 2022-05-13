@@ -1,0 +1,12 @@
+On Mon, 22. 09. 21 22:32:05 +0100, 
+
+Das ist so nicht ganz richtig. Denn hinter der Zuschreibung von Eigen-
+schaften zu Gegenstaenden steht die Extensionalitaet. Auch in einer
+praedikatenlogischen Sprache kann man ueber Eigenschaften in Form von
+Extensionen (Klassen) quantifizieren. Das ist es, was ich eine Definition
+ueber das "Elementzeichen" nenne. Das Extensionalitaetsaxiom waere hier
+ein "Abgrenzungskriterium".
+
+
+Gruss Tom
+--

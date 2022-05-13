@@ -1,0 +1,71 @@
+Meinst du damit so etwas "prototypische Muster"?
+
+
+Klar, es gibt jede Menge Details. Die Frage für mich ist, wie
+man das Thema zielgruppengerecht aufbaut.
+
+Mich interessiert sehr, welche Fragestellungen sich für dich ergeben
+und würde sie gerne im Dialog bearbeiten.
+
+lg Dieter
+
+----
+
+P.S. für einen Mathematiker habe ich mal folgendes formuliert
+      (die Geschichte dahinter wäre auch nicht uninteressant):
+
+"About Patterns and pattern languages" (for mathematicians):
+
+* A pattern language is a consistent set of patterns. In the making
+   a pattern language starts as an informal collection.
+
+* A pattern is a dupel (pattern name, pattern description) that describes an
+   optional transformation of a system. One can think of this as a constituent
+   of meaning or a module of knowledge. Often a pattern is a solution to
+   a problem. Often a pattern corresponds to a physical object.
+
+* The state of the system is evaluated or monitored by some means to allow
+   for the concept of improvement of the system. Unfolding, or designing a
+   system means to improve the system relative to that.
+
+* A sequence of transformations describes the process and so the unfolding
+   of the system.  This is considered a creative process, or a design process.
+   The system is thought to unfold step-by-step, transformation by transformation.
+
+* The process of unfolding is understandable and rational but it doesn't need
+   to be strictly causal, deterministic or predictable. Some typical examples
+   are the game of chess, or the building of architecture.
+   With masters you get great results, but typically this is an open, unpredictable,
+   individual process. Seeking a solution or proof of specific quality, there may be
+   more than one way to do it.
+
+* A pattern language is consistent:
+
+  - when its patterns refer to the same system or design situation
+
+  - when the given set of patterns is sufficiently complete for a large
+    variety of design processes.
+
+  - when the natural language used for the pattern descriptions is consistent
+    in its words and concepts.
+
+  - when the pattern description is formally complete. The formal requirements
+    depend on the system and the field of application. (this is often structured
+    like a database record containing 5-10 specific fields)
+
+* There are guiding heuristics that have been found by comparing
+   systems of architecture and nature:
+
+  - regarding the abstract geometrical structures of systems. They are called
+    structure properties. (15, given elsewhere)
+
+  - regarding the process. They can be called process principles.
+    (about 10, given elsewhere)
+
+  - The overall system of concepts can be called "pattern theory". Pattern theory
+    can be considered universal in a tautological sense: any meaning can be brought
+    into pattern form, any system can be seen as abstract structure, abstract process
+    and abstract development using the pattern formalism.
+
+
+(Originally placed in http://zshtiqms.rx/BnsprfuNfrgqtYpevl.tm?Erzbibjqpifk)

@@ -1,0 +1,10 @@
+Du rechnest mit h |= 0 bis 2r+h. Der Grenzwert für h->0  ist 2r. In diesem
+Ausdruck kannst du ohne Probleme davon ausgehen, daß h=0 werden könnte.
+2r+0. Keine Division durch 0, kiene Definitionsprobleme. Ganz einfach.
+
+--
+Lukas Freihube (xbqey842@v-xmagpu.qq)
+-----------------------------------------------------------
+A Member of the ---> IDA NICLAS TROMP <--- Fanclub Germany
+      since      http://caf.vhit.wg/gbu-vqz      3/98
+-----------------------------------------------------------

@@ -1,0 +1,42 @@
+Das ist nicht ganz richtig. Die Richtung "zur Singularitaet hin" im
+Inneren des SL ist _zeitartig_. Das erklaert auch ganz zwanglos, warum
+am Schwarzschildradius so komische Effekte auftreten: Dort wechseln die
+Koordinatenrichtungen "r" und "t" ihre Bedeutung: "r" wird die
+Zeitrichtung
+(mit der Zukunft bei kleinen r) und "t" wird eine Raumrichtung.
+Bei r=2M (Schwarzschildradium) ist der t-Vektor gerade lichtartig,
+d.h., er zeigt in die Richtung eines Lichtstrahls. Deshalb gibt es
+in diesen Koordinaten einen Lichtstrahl, der "steht", in dem Sinne,
+dass sich r(t) nicht aendert. Der aussenstehende Beobachter (fuer den
+r und t ziemlich genau mit seiner Raum- und Zeitrichtung
+uebereinstimmen)
+interpretiert dies als "Stehenbleiben" der Zeit. In Wahrheit handelt
+es sich nur um eine ungeschickte Koordinatenwahl. So, als wuerde ich
+auf der Osthalbkugel die Breitengrade der Westhalbkugel fortsetzen
+(also "100 Grad noerdliche Breite", wenn man von der Westhalbkugel
+kommend ueber den Nordpol, und dann noch 10 Grad weiter geht), und
+dann ueberrascht feststellen, dass sich ploetzlich Norden und Sueden
+vertauschen, sobald ich den Null-Meridian ueberschreite.
+
+Es gibt andere Koordinaten (z.B.  Kruskal-Koordinaten), in denen
+dieses Problem nicht auftritt.
+
+Zeichnet man die Linien konstanten r und konstanten t der
+Schwarzschildkoordinaten in ein Diagramm in Kruskalkoordinaten
+ein, so sieht man auch die Ursache der Koordinaten-Singularitaet:
+Alle Achsen konstanten t's schneiden sich in einem Punkt, an
+welchem r=2M. Ausserdem erkennt man auch, dass fuer r<2m die
+Kurven r=const nicht mehr zeitartig (also Weltlinien eines
+Beobachters), sondern raumartig (also Gleichzeitigkeiten) sind;
+schrumpfendes r bedeutet dabei fortschreitende Zeit. Auch sieht
+man, dass an Punkten mit r<2M die Singularitaet "durch den gesamten
+Zukunftslichtkegel" geht. Um von dort der Singularitaet zu entkommen,
+muesste man schon Ueberlichtgeschwindgkeit fliegen.
+
+Alles in allem nichts aussergewoehnliches bei r<2M (abgesehen von
+der Singularitaet selbst, versteht sich).
+
+
+Wie sieht ein philosophisches schwarzes Loch aus? ;-)
+
+Ich gravitiere, also bin ich?

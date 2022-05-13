@@ -1,0 +1,22 @@
+News im WWW, wobei allerdings die Begriffe nicht sauber definiert sind
+und auch nicht einheitlich verwendet werden.
+News (klassisch, dieses hier) gehören zum Usenet, laufen auf
+(speziellen) Newsservern unter einem separaten Protokoll (NNTP) und
+haben technisch gesehen sehr viel Ähnlichkeit mit Mail. Zum Newslesen
+ist ein entsprechender Client erforderlich.
+
+Foren werden im WWW auf unterschiedlichster technischer Basis (PHP,
+CGIs, Java, etcpp) realisiert. Das entscheidende Kennzeichen ist, dass
+die Foren und ihre Inhalte als HTML-Seiten (o.�.) dargestellt werden,
+also mit einem Browser lesbar sind (HTTP-Protokoll). Fast jeder
+Provider bietet inzwischen auch die Möglichkeit, zur Homepage ein
+Forum einzurichten, es gibt diverse Sites, die das (fast) kostenlos
+anbieten, es gibt aber auch high-end (und damit high-cost) Lösungen,
+wie sie bspw. bei der Zeit, dem Spiegel u.�. gefahren werden.
+
+Und wie gesagt: Die Begriffsverwendung ist nicht einheitlich, viele
+Leute (und Programme) verwenden auch das Wort Foren, wenn sie News
+meinen und umgekehrt.
+
+gruss
+annett

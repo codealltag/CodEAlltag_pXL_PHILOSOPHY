@@ -1,0 +1,65 @@
+Prinzip,
+
+Mehr als eine Ontologie gehört eigentlich nicht dazu.
+
+Man müsste Ontologie präzisieren, um das zu klären.
+
+IMHO so:  Eine Theorie mit Ontologie besitzt eine mathematische
+Menge X der möglichen Zustände der Realität.
+
+Versuchsergebnisse sind Funktionen auf dieser Menge.
+Entscheidungen von Experimentatoren (Parameter der Präparation
+des Experiments) sind Teil dieser Menge.
+
+Auf dieser Menge gibt es eine kolmogorovsche Wahrscheinlichkeits-
+verteilung.
+
+So, das müsste reichen. Der Rest ist schon Definition der
+Kausalität.  Es sei a in A die Entscheidung des Experimentators,
+l in L der Zustand des Geräts (oder des Restes der betrachteten
+Teilwelt), also X = LxA, m=m(l,a) die Messergebnisse. Dann
+ist das Messergebnis m kausal unabhängig von a wenn m=m(l).
+Ansonsten besteht kausale Abhängigkeit.
+
+Dann bräuchten wir noch die Unabhängigkeit der Entscheidung
+des Experimentators a:  Also rho(l,a) = rho_l(l) rho_a(a).
+
+Schon können wir die Bellschen Ungleichungen beweisen.
+
+die
+
+Sicher, das habe ich ja auch schon klargestellt.
+
+
+Nicht meins, sondern das der BM.
+
+
+Die Evolutionsgleichung ist
+d_t(x1,x2) = Leitgleichung von Psi(x1,x2), oder, noch mal ausgeschrieben
+d_t(x1(t),x2(t)) = Leitgleichung von Psi(x1(t),x2(t),t), und da gehen beide
+Cord Trajektorien x1(t), x2(t) ein.
+Und die Wellenfunktion Psi(q1,q2,t).
+
+Ort
+
+Und des Messobjekts.
+
+erst
+
+Richtig, in dieser "verfeinerten" Form trifft Ottobeuren durchaus zu.
+In dieser "verfeinerten" Form trifft es allerdings auch auf den Inhalt
+deines
+übernächsten Postings zu.  Das hängt von deinem (mir verborgenen) inneren
+Zustand, meinem (dir verborgenen) inneren Zustand (zumindest wenn du auf
+meine noch gar nicht geschriebene nächste Antwort eingehst) und dem
+(präparierbaren) Zustand der Computersysteme ab, ansonsten existiert es
+noch gar nicht.
+
+An Tegelbeckers in dieser "verfeinerten" Version ist höchstens auszusetzen,
+dass solche Interaktionen als Messungen bezeichnet werden, obwohl
+sie nichts durch das Objekt allein bestimmtes ergeben.
+
+
+Nein. Ganz normale Wechselwirkungen gibt es klassisch-realistisch genauso.
+
+Jean-Paul

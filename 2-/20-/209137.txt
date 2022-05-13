@@ -1,0 +1,69 @@
+*Seufz* Muss ich jetzt hier einen Grundkurs in
+Logik halten oder was??
+
+Zu Syntax und Semantik bzw. Kalkuel und Interpretation
+habe ich ja schon laenglich was geschrieben. Insbesondere
+habe ich da geschrieben, was es bedeutet, wenn ein 
+Kalkuel korrekt ist. Bitte im Zweifelsfall nochmal nachlesen.
+
+Es besteht jetzt aber auch die Moeglichkeit, dass
+man einen Kalkuel benutzt, der nicht korrekt ist,
+d.h. also in Begriffen der Praedikatenlogik:
+In dem kalkuel kommen Schlussregeln vor, fuer die
+folgendes *nicht* gilt:
+
+Wenn aus einer Formelmenge F mithilfe einer Schlussregel
+des Kalkuels eine weitere Formel f abgeleitet ist, muss
+jede Interpretation, die Modell fuer F ist, auch f erfuellen.
+
+Die Korrektheit eines Kalkuels muss man erst beweisen,
+es existieren viele Kalkuele der Praedikatenlogik erster
+Stufe, die korrekt sind. Ein Kalkuel, der nicht korrekt 
+ist, ist nichts wert, da man mit seiner Hilfe aus wahren
+Praemissen falsche Formeln ableiten kann.
+
+
+Ich kann also jemandem, der aus einer Aussage eine
+andere ableitet, und dabei eine nicht korrekte Schlussregel
+benutzt, vorwerfen, dass der Schluss unlogisch ist,
+weil nicht korrekt. Dazu muss ich gar nichts ueber den
+Wahrheitsgehalt der Praemissen wissen. 
+
+Wenn Dich interessiert, welche Regeln es gibt:
+Die gaengigste ist der Modus Ponens, der dem
+natuerlichen Denken des Menschen am meisten entspricht:
+
+A --> B, A |- B
+
+Das heisst also, wenn die Praemissen A impliziert
+B und A  gelten, kann ich daraus ableiten, dass auch B
+gilt.
+
+In der zweiwertigen Logik ist das Tertium non Datur (TND)
+die bekannteste Tautologie: A v ~A. Diese Formel
+wird immer wahr, da eins von beiden auf jeden fall gelten muss.
+
+Die haeufigsten Fehler, die in der Logik gemacht werden,
+sind z.B., dass die Implikation unzulaessigerweise
+umgedreht wird: A --> B |- B --> A ... ganz falsch!,
+oder dass beim Modus Ponens vergessen wird, dass die 
+linke Seite der Implikation als Praemisse benoetigt wird,
+also: A --> B |- B  auch ganz falsch.
+
+Wenn also jemand in seiner logischen Argumentation
+solche Fehler macht, kann ich behaupten, dass
+seine Schluesse falsch sind (vulgo unlogisch),
+ohne dass ich was ueber den Wahrheitsgehalt der
+Praemissen wissen muss. Es spielt auch keine Rolle,
+ob hinten zufaellig was richtiges rauskommt ... die
+Schlussregeln sind einfach nicht korrekt!
+
+
+Gruss
+
+	Danielle
+-- 
+Hanna Unertl * uncss@xctxauvzlo.unzgu-cnaanrvw.zf *  ckwaf@boz
+http://upv7-ycn.zvajubfmfx.ezbfa-rqptaqsp.zs/qfllg/mlzkfwlep.yvza
+"Affen lesen keine Philosophiebuecher!"  "Doch Mirko, das tun sie!
+Sie verstehen sie nur nicht!" (Ein Fisch namens Pia)

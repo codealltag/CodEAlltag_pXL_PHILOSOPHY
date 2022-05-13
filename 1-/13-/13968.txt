@@ -1,0 +1,37 @@
+Gegeben sei ein Zeichen X.
+
+(1) Wenn X für ein und nur ein Objekt steht, dann ist es ein Eigenname.
+(2) Wenn X in einem Kontext für ein Objekt steht, dann ist es eine 
+Benennung.
+(3) Wenn X für eine eine unabzählbare Menge von Objekten steht (die einer 
+Zuordnungsregel entsprechen), dann ist es ein Universale.
+
+ad 1: Beispiel: "Dies ist Paul Köllisch." Es gibt viele Paul Köllisch, aber 
+keiner ist ein Exemplar der Klasse der Paul Köllisch. 
+ad 2: Beispiel: "Dies ist die Birke in meines Nachbarn Garten." Es gibt 
+viele Birken, die in Gärten von Nachbarn stehen. Aber nur diese Birke 
+steht in meines Nachbarn Garten und so ist sie durch mich und den 
+Nachbarn eindeutig bestimmt.
+ad 3: Beispiel: "Dies ist ein Baum." Die Menge aller Bäume ist 
+unabzählbar. Baum ist eine Begriffsklasse.
+
+"Der Hund kläfft den ganzen Tag".
+
+(1) Es gibt ein Objekt, das "Der Hund" getauft wurde. Das könnte ein 
+bekannter Rockstar sein, der diesen Namen wegen der Eigentümlichkeiten 
+seines Gesangs und der Beharrlichkeit, mit der er diesen zu Gehör bringt, 
+so benannt wurde.(Ein reales Beispiel: JEPN). Doch dies ist 
+unerheblich: Wenn "der Hund" auf ein und nur ein Objekt verweist, dann 
+ist "Der Hund" ein Platzhalter für einen Eigennamen. "Der Hund" gehört 
+dann natürlich nicht zur Begriffsklasse "Hund".
+(2) Wenn beispielsweise der Hund in meines Nachbarn Garten gemeint ist, 
+dann ist der Hund eine "Benennung" (ein gewöhnlicher Designator). Andere 
+haben ähnliche Probleme mit Hunden, diese sind aber nicht gemeint, 
+sondern nur dieser da, dieses schreckliche Vieh, das diesem bekloppten 
+Nachbarn gehört.
+(3) Wenn der Hund als solcher den ganzen Tag kläfft, wenn es ihm also 
+wesenseigentümlich ist, dann wäre "Hund" hier als Universale zu verstehen 
+- und hier könnte dann der Universalienstreit wieder aufflackern.
+
+Mit freundlichen Grüßen
+Artur Niels

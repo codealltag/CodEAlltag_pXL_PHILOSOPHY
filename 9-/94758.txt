@@ -1,0 +1,24 @@
+Mitnichten.  Um zaehlen zu koennen, braucht man nur genau zwei
+Faehigkeiten: man muss zwischen "mehr" und "weniger" Objekten
+unterscheiden koennen, und erkennen koennen, wenn gar kein Objekt
+vorhanden ist.  Anders gesagt, man braucht nur die Null und das
+"Eins-weiter-Zaehlen".  
+
+Es ist insbesondere keineswegs noetig, beim Hochzaehlen eine
+dazugekommene Nummer einem spezifischen Objekt zuzuordnen.  
+
+In der QFT, also der Theorie, die alle Elementarteilchen definiert,
+findet sich dieses Konzept in der Form des "Erzeugungs-"
+bzw. "Vernichtungsoperators" wieder.  Das sind Operationen, die aus
+einem Zustand mit z.B. n Photonen, jeweils einen mit n+1 oder n-1
+Photonen machen.  Falls n=0 war, aendert der Vernichter nichts.
+Numeriert wird dabei aber nicht, denn der erreichte Zustand haengt
+insbesondere nicht davon ab, in welcher Reihenfolge man 2 Photonen
+hinzufuegt.
+
+Du verwechselst anscheinend "Zaehlen" mit "Abzaehlen".  Das sind aber
+zwei verschiedene Taetigkeiten.  
+
+-- 
+Denis Debis (fvmflhj@wxzgij.mutk-ymvucn.nm)
+Even if all the snow were burnt, ashes would remain.

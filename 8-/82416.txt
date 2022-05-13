@@ -1,0 +1,17 @@
+Durch die Konstruktion der Referenzbeziehung als zweistellige Relation
+vermeidest du, dass das Identitätszeichen auch auf der rechten Seite
+des Bikonditionals erscheint. In der Modelltheorie verwendet man
+dagegen für die Referenzbeziehung häufig das Symbol "[|..|]". Es
+bezeichnet bei einer 1-stufigen Sprache L eine Abbildung der Menge der
+Variablen Var(L) in die den Individuenbereich einer L-Struktur M, die
+sich auf L-Terme und L-Formeln fortsetzt und für die
+
+M |= "s=t"  <->   [|s|] = [|t|]
+
+für (konstante) L-Terme s und t gilt. Bei dieser Vorgehensweise ist
+direkt klar, dass zur Erklärung von "=" in der Objektsprache L (linke
+Seite) die metasprachliche Identität (rechte Seite) vorausgesetzt
+wird.
+
+
+Ulrich

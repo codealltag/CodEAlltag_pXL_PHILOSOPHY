@@ -1,0 +1,59 @@
+Hans Rübe in e7s8xg$c2f$8@gyvq.oyombc.wp :
+
+
+Formulieren wir das Wesentliche etwas effizienter:
+
+  1:  Ein Beobachter ruht in ruhendem Wasser.
+
+  2A: Der Beobachter bewegt sich mit 10 m/s relativ zum
+      Wasser (und zum Boden).
+  2B: Das Wasser bewegt sich mit 10 m/s relativ zum
+      Beobachter (und zum Boden).
+
+Wie verändert sich die Geschwindigkeit des Lichts relativ
+zum Beobachter in den Fällen 2A und 2B, wenn sie im Fall 1
+den Wert V hat.
+
+Gemäss Relativitätstheorie hat die Geschwindigkeit in
+beiden Fällen (2A und 2B) denselben Wert (relativistische
+Geschwindigkeitsaddition, Fresnel'scher Mitführungs-
+koeffizient, Fizeau'sches Experiment):
+
+    V' = c/n +- (1 - 1/n^2) * 10 m/s
+       =  V  +-  4.35 m/s
+
+    wobei  n = 1.33  (Brechungsindex des Wassers)
+
+
+Faktisch jedoch gilt die Fresnelsche Formel nur in 2B,
+während in 2A die simple Addition
+
+    V' = V +- 10 m/s
+
+gilt. Die Gültigkeit der Fresnelschen Formel (und damit
+der SRT) ist bei 2B ein experimentelles Faktum, bei 2A
+jedoch nur eine Hypothese, die im geradlinigen Fall kaum
+widerlegbar [1], bei geschlossener Lichtausbreitung aber
+eher widersprüchlich ist [2].
+
+
+Anhang:
+
+[1] Wenn in einem Raumschiff vorne und hinten Uhren so
+    synchronisiert werden, dass für Licht von vorne nach
+    hinten c gemessen wird, dann wird nach Beschleunigung
+    auf 3 km/s die Lichtgeschwindigkeit c + 3 km/s
+    gemessen. (Erst durch Resynchronisierung der Uhren
+    mittels Licht ergibt sich wieder c.)
+
+[2] Man stelle sich einen kreisförmigen Kanal der Länge
+    L vor. Ein Schallwellen-Signal vom Beobachter rund
+    um den Kanal bis zum Beobachter benötigt die Zeit
+    t = L / (V +- 10 m/s), ganz unabhängig davon, ob
+    sich der Beobachter oder das Wasser mit 10 m/s bewegt.
+    Bei Lichtwellen aber ergibt sich t = V +- 10 m/s
+    bei bewegtem Beobachter und t = V +- 4.35 m/s bei
+    bewegtem Wasser.
+
+http://kkbklw.dlgcsj.hqz/hrvcas?gjim=u106bm$8e7$9@dckunxwcheb8.krfe.nvqkrlbpf.lwp
+http://creouf.epoqrd.zki/gpawvr?gesa=8dhdmw$1hz$8@nzpbamgbimi4.eggc.yipumeveu.awu

@@ -1,0 +1,43 @@
+: > 
+: > Hallo,
+: > 
+: > Wer kann mir helfen ? Ich suche fuer meinen Vater ein
+: > Textverarbeitungsprogramm mit dem er ein ein Buch mit (in) Logik
+: > Zeichen schreiben kann !! Weiss  jemand was es da fuer Programme gibt,
+: > und wo man sie kriegt ??
+: > 
+: > Vielen Dank im voraus - Fernando T.
+
+: Ich habe gestern noch mal in meinem LaXeX-Buch nachgeschaut.
+: Standartmaessig ist nicht alles moeglich. Zwar sind die meissten Zeichen
+: verfuegbar, aber z.B. Disjunktionen wie >---< oder |____| sind leider
+: nicht moeglich. Vierlleicht gibt es aber Zusatzpakete, die auch diese
+: Zeichen bereitstellen. Ansonsten kann man noch eigene Zeichen mit
+: Metafond generieren.
+
+Aber natürlich gehen Disjunktionen in \LaTeX!
+Konjunktion: \land, \wedge
+Disjunktion: \lor,  \vee
+Negation:    \neg
+Implikation: \Rightarrow
+Äquivalenz:  \iff (\Leftrightarrow)  oder \equiv
+Allquantor:  \forall
+Existenzq.: \exists
+Ableitung:  \vdash  ( |- )
+Gültigkeit: \models ( |= )   
+
+Fügt man die folgende Zeile in die Präambel seines \Latex2e-Dokumentes, so
+hat man einige weiter Symbole zur Verfügung:
+
+\usepackage{amsfonts,amssymb}
+
+: Kuhns
+
+MfG
+	Karlheinz
+--
+Karlheinz Niemöller                            ysgjikln@nzdfphumhn.iii-etwoott.vh
+Nothelferweg{\"persiusstraße}Leutnerstraße{\vg}adornostraße 58 
+16307 Zschadraß
+Tel: (++01)(++44)60190-631
+WWW: http://jvz.gmyvexnbkm.ftr-simpyex.mz/OYW/aiezvrtcx/xncmnfijf/ntdd.jfpq

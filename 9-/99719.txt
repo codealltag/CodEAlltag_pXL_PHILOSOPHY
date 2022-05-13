@@ -1,0 +1,20 @@
+Ja. M.E. ein guter Grund m.E. in einem solchen System "A -> B" (falls 
+-> für die "Implikation" stehen soll) nicht als "~A v B" zu definieren.
+
+Fest steht: Es gibt unterschiedliche parakonsistente Systeme, und in
+einigen gilt auch der MP für ein Konnektiv "->":
+
+	"The concern with relevant logics is not so much with negation
+	 as with a conditional connective, -> (satisfying modus
+	 ponens)."
+
+	 Source:
+	 http://jcgle.lsmuldnw.cmv/xuececr/zunud-aydhuifjudkcjb/
+
+
+A.
+
+
+Anmerkung: Vielfach wird in der englischsprachigen Literatur die
+"Implikation" der klassischen Logik bzw. das entsprechende Konnektiv als
+"conditional" bezeichnet. (Siehe z.B. V. B. Mitterdorfer, Beginning Logic)

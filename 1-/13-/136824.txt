@@ -1,0 +1,40 @@
+Das Zahlensystem ist und bleibt binär und es ist nicht dreiwertig, denn es
+stehen nur zwei Symbole ("0"+"1") zur Verfügung. Was Du als das Dritte
+bezeichnest, bezieht sich einmal auf die Interpretation des Stellenwerts
+einer Binärzahl und auf Möglichkeiten ihrer Unterscheidung. Mit Stellenwert
+meine ich, dass eine Eins nicht grundsätzlich für Eins steht, sondern
+jeweils für Potenzen von 2, 2^0 ist dann Eins, 2^1 ist Zwei, 2^2 ist Vier
+usw. Die Möglichkeiten der Unterscheidung beziehen sich darauf, dass es
+nicht nur notwendig ist, Nullen und Einsen zu speichern, sondern auch ihren
+Stellenwert und das es weiterhin erforderlich ist, neben den binären Zahlen
+auch ihren jeweiligen Stellenwert sicher zu ermiteln.
+
+Bei der Speicherung bedient man sich daher Konventionen, was funktioniert,
+wenn alle Beteiligten die Konventionen einhalten. Eine Konvention kann z.B.
+lauten, dass jeweils 8 aufeinanderfolgende Bits im Stellenwert jeweils
+aufsteigen und dann wieder ein Bit mit niedrigstem Stellenwert folgt. Dies
+können aber auch 16 Bits sein, oder häufig wird auch diese Reihenfolge
+verwendet: 9, 10, 11 ... 16, 1, 2, 3 ... 8. Genauso findet man jedoch auch
+binäre Zahlen, in der es keinen Stellenwert gibt, sondern jedes Bit separat
+und nur für sich selbst interpretiert wird, z.B. bei Flags.
+
+Bei der Übertragung bedient man sich eines Taktgenerators, z.B. bei RS232
+Übertragungen, der Pegel zu einer bestimmten Zeit liefert die Binärzahl mit
+dem zu diesem Zeitpunkt festgelegten Stellenwert des Signals. Bei einer
+solchen Datenübertragung sind von Sender um Empfänger eine ganze Reihe von
+Konventionen einzuhalten, nicht nur bezüglich der Stellenzahl der
+Binärzahlen, damit die Informationsübermittlung funktionieren kann.
+
+Obwohl also sowohl zur Datenspeicherung, als auch zur Datenübermittlung
+Hilfsmittel und Absprachen erforderlich sind, bleibt das Binärsystem aber
+weiter ein Binärsystem. Was Du hingegen letzlich (und auch korrekt)
+feststellst, ist, dass ein Binärsystem nur funktionierend in ein System
+eingebettet werden kann (was Speicherung, Verarbeitung und Übertragung
+betrifft), welches selbst kein reines Binärsystem ist, sondern über weitere
+Elemente wie z.B. Taktgeneratoren verfügt.
+
+Diese in der Praxis notwendigen Elemente hält man aber sinnvollerweise aus
+der vollkommen abstrakten Zahlendarstellung heraus, sonst würde übrigens
+auch das Dezimalsystem nicht mehr Dezimalsystem heißen dürfen ;)
+
+Größe, Charles

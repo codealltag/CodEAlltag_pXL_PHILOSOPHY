@@ -1,0 +1,7 @@
+Das entspricht "~(p & ~p)", was zwar notwendig für das üblicherweise als
+"Tertium non datur" bezeichnete "p v ~p" ist, aber nicht hinreichend.
+"~(p & ~p)" ist auch in intuitionistischer Logik gültig.
+
+Freundliche Grüße,
+
+        Dario (f'up2)

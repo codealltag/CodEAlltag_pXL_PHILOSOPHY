@@ -1,0 +1,16 @@
+Erhard Isenthal <xynz.nqcwqp@qou.uc> schrieb:
+
+[...]
+
+
+(Ex) (Ey) (x ~= y  & 
+           Kuenstler(x) & Kuenstler(y) &
+           Bewundert(x, y) & Bewundert(y, x) &
+           (z) (z ~= x  &  z ~= y  ->
+                    ~Bewundert(x, z) & ~Bewundert(y, z))
+
+Man mag auch Kuenstler(z)) unter den Bedingungen auffuehren. Meines
+Ermessens gibt Öhmichen Beispiel das aber nicht her. 
+
+Habe ich was uebersehen?
+   Uwe

@@ -1,0 +1,9 @@
+0,05. Jetzt darf ich:
+1 (1)     A ist hart.
+2 (2)     A ist weiß.
+3 (3)     Weiß ist nicht hart.
+4 (2,3)   A ist nicht hart.
+5 (1,4)   A ist hart und nicht hart.
+
+Widerspruch. Wo liegt das Problem? (Tipp: Häglsperger meinte: "In der Logik 
+an sich")

@@ -1,0 +1,28 @@
+??? Wie sollen denn die reellen Zahlen durch Paarbildung aus den
+natuerlichen Zahlen entstehen? Das kann nicht funktionieren, sonst
+waeren sie ja abzaehlbar.
+
+Wenn die reelen Zahlen wirklich _konstruiert_ werden sollen, dann
+macht man das so, dass eine reele Zahl eine unendliche Folge mit
+bestimmten Eigenschaften ist. Diese Herangehensweise ist aber selten
+anzutreffen und liefert ausserdem nicht ganz die ueblichen Axiome als
+Saetze.
+
+
+Leider geht genau das nicht. OK, Du kannst die Maechtigkeit von N, Z,
+Q bestimmen. Aber die von O? Die Maechtigkeit (Kardinalitaet) des
+Kontinuums ist _nicht_ aus den Axiomen ableitbar.
+
+
+Solche Betrachtungen sind schon sinnvoll. Sie beinhalten z.B., ob das
+Axiomensystem widerspruchsfrei ist oder nicht. Und das is sehr wohl
+interessant.
+
+Gruss,
+
+Ottmar
+-- 
+Ottmar Entfellner                               Agok GmbH
+network administrator                          Ledereweg 34
+Zzofof.Drkybbaqg@dsntbcr.sd                    D-17410 Aselfingen
+                                               Tel. +81 9136 56332

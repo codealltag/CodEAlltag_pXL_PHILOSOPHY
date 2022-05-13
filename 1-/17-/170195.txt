@@ -1,0 +1,22 @@
+Von der "Welt" kann man sowieso nicht sagen, dass sie "konsistent"
+oder "vollständig" ist, da  beide Prädikate auf *sprachliche*
+Entitäten (Aussagenmengen) referieren, in Bezug auf die "Welt"
+entspricht diesen die "Wahrheitsrede", d.h. der Satz vom
+(ausgeschlossenen) Widerspruch und der Satz vom ausgeschlossenen
+Dritten.
+
+oder anders ausgedrückt:
+Es ist möglich, dass aus einer Prämissenmenge die Aussagen p und ~p
+ableitbar sind (Inkonsistenz), aber es ist unmöglich, dass  p und ~p
+gilt. (ausgeschlossener Widerspruch).
+
+Genau so ist es möglich, dass aus einer Prämissenmenge weder p noch ~p
+abgeleitet werden können (Unvollständigkeit), aber es ist unmöglich,
+dass weder p noch ~ p gilt. (tertium non datur)
+
+Aus den beiden logischen Sätzen der Wahrheitsrede läßt sich nun
+schließen, dass die Menge der in der Welt gültigen wahrheitsdefiniten
+Sätze konsistent und vollständig ist. 
+
+
+david

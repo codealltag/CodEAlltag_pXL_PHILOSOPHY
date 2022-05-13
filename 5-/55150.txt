@@ -1,0 +1,20 @@
+Hallo Ute,
+
+
+Warum? Es ist normal, dass man in einem Beweis an einer Stelle zu
+einer Fallunterscheidung kommt und dann einfach alle möglichen Fälle
+durchspielt. Wenn sich in allen Fällen eine wahre Aussage ergibt, muss
+ich mich nicht mehr damit beschäftigen, welcher der Fälle tatsächlich
+eintritt, sondern habe den Satz unabhängig davon bewiesen.
+
+
+Wenn der Beweis wie oben angegeben strukturiert ist, dann ist X
+entschieden, auch wenn ich eine unbewiesene Vermutung verwende.
+
+Viele Größe
+
+Cédric
+
+-- 
+If you think technology can solve your problems you don't understand
+technology and you don't understand your problems.  (Ingolf Wiesenhöfer)

@@ -1,0 +1,12 @@
+Logische Schlüsse sind dadurch ausgezeichnet, dass sie "unfehlbar"
+sind. Ein Satz A folgt logisch dann aus einer Prämissenmenge P, wenn
+es keine Interpretation (im modelltheoretischen Sinn) der
+nichtlogischen Terme von Pu{A} gibt, so dass die Sätze aus P unter
+dieser Interpration wahr, A aber falsch ist. Inwiefern kann jetzt ein
+logischer Schluss *falsch* sein?
+
+
+Weil ein Konditional A -> B genau dann wahr ist, wenn B falsch ist.
+
+
+gianni

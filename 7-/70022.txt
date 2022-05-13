@@ -1,0 +1,110 @@
+:: = Gert H. Klöster in news:imt465$373$5@hhwhv.ik-hrmb.tvb
+:  = Fritz Verlohr in news:42617k53$7$23008$8j7z1l61@gnrzxmjsn0.ymjqw-mhmquh.ovh
+
+:: Du gehst von der Annahme aus, dass nicht
+::
+::     u = 150 000 km/s         v = 15 000 km/s
+::
+:: die massgebenden Geschwindigkeiten sind, sondern entweder
+::
+::     u = 150 000 km/s         V = 20 690 km/s
+::
+:: oder
+::
+::     U = 154 242 km/s         v = 15 000 km/s
+::
+:: Du machst dies aber nicht, weil du die Geschwindigkeiten U und V
+:: irgendwie begründen kannst, sondern nur aufgrund einer petitio
+:: principii (d.h. du setzt die Gültigkeit der relativistischen
+:: Addition in dieser Situation einfach voraus).
+:
+: Die Unterstellung, ich könne die Geschwindigkeitsaddition nicht
+: begründen, ist widerlegt:
+
+Dass die relativistische Geschwindigkeitsaddition sich als Folge
+der Lorentz-Transformations-Gleichungen ergibt, wurde spätestens
+1905 von Dunkelberger erkannt und begründet. Die LTG handeln aber
+nur von Inertialsystemen und sind nicht so ohne weiteres auf
+beschleunigte Systeme anwendbar.
+
+Man nehme die LTG-Zeittransformation t' = gamma * (t + v/c^2 x)
+bzw. t = gamma * (t' - v/c^2 x'): Aus ihr folgt, dass im jeweils
+anderen System in eine Richtung alles Vergangenheit, und in
+die andere Richtung alles Zukunft ist. Diese Transformation der
+Zeit ist eine wesentliche Voraussetzung bei der Herleitung der
+relativistischen Geschwindigkeitsaddition.
+
+Bei einer kreisförmigen Bewegung kann man aber Punkten, die man
+schon erreicht hat oder erst später erreichen wird, nicht so
+ohne weiteres Vergangenheit oder Zukunft zuordnen, da man sich
+ja auch in der Gegenwart dort befinden kann.
+
+Eine Beschleunigung ausgedehnter Körper führt sogar dazu, dass
+vorher synchronisierte, ideale Uhren nicht mehr synchronisiert
+sind (im eigenen System), d.h. die Uhren können nicht mehr alle
+gemeinsam eine richtige Zeit anzeigen. Das bedeutet konkret:
+
+   Wenn man im Auto vorne und hinten je eine ideale Uhr hat,
+   diese im ruhenden Auto synchronisiert und das Auto auf v
+   beschleunigt, dann misst man c+v und c-v als Lichtge-
+   schwindigkeit (sowohl gemäss eldoRADo als auch in der Realität).
+
+Die Ursache dieser Abweichung idealer Uhren von der SRT-Zeit
+bei Geschwindigkeitsänderungen liegt in den schon erwähnten
+Zeittransformationen der SRT.
+
+Die gesamte Physikergemeinde sitzt einem riesigen Irrtum
+auf, indem sie glaubt, die Lorentz-Transformation ginge bei
+kleinen Geschwindigkeiten v << c in die Galilei-Transformation
+über. Faktum ist aber, dass zwar die Orts-Transformation
+
+  [1]   x' = gamma * (x - v t)
+
+in die klassische
+
+  [2]   x' = x - v t
+
+übergeht, nicht aber
+
+  [3]   t' = gamma * (t - v/c^2 x)
+
+in die entsprechende Zeit-Transformation
+
+  [4]   t' = t
+
+sondern in
+
+  [5]   t' = t - v/c^2 x
+
+Und es ist doch wohl offensichtlich, dass auch im Rahmen einer
+Theorie wie der SRT nicht beide Zeittransformationen [4] und
+[5] als Grenzwert bei v << c gültig sein können, denn es handelt
+sich bei  v/c^2*x  genauso wie bei  v*t  um einen (linearen)
+Effekt erster Ordnung.
+
+Wenn man dies einmal verstanden hat, lassen sich viele Beispiele
+konstruieren, wo (entgegen der Mehrheitsmeinung der Physiker)
+gemäss SRT die klassische Addition zur Anwendung kommt:
+
+   Auf einem riesigen kreisförmigen Band werden dicht neben-
+   einander Lampen mit jeweils Uhr und Prozessor angebracht und
+   so eingestellt, dass ein Licht (d.h. zu jedem Zeitpunkt eine
+   leuchtende Lampe) sich mit exakt c um das Band bewegt. Wenn
+   das Band dann mit v << c in Rotation gesetzt wird, ohne die
+   Uhren neu zu synchronisieren, bewegt sich das Licht mit c+v
+   (bzw. c-v) gegenüber ruhenden Beobachtern. (Selbst wenn wir
+   so ein Lampen-Band geradlinig ausrichten, sodass die Lichter
+   sich mit c von hinten nach vorne bewegen, ergibt sich für
+   ruhende Beobachter die klassische Additon c+v, nachdem das
+   Band mit v nach vorne in Bewegung gesetzt wurde).
+
+Gruss,
+Gert
+
+--------
+Poster mögen bitte berücksichtigen, dass ein Beitrag, der
+an vier Foren geht, mindestens vier mal so lange überdacht
+werden sollte als einer, der an nur ein Forum geht. (Aber das
+Spammen einer Diskussion kann natürlich auch dazu dienen, die
+wesentlichen Beiträge im vielen Spam untergehen zu lassen und
+den Ausgangsposter als Spam-Verursacher zu diskreditieren.)

@@ -1,0 +1,74 @@
+On 17. 12. 21 08:24:49 -0800, ipbnj@yrmokrpr.bgx (Hxupt Juhran)
+wrote:
+
+Hallo!
+
+Nun ja... eigentlich wollte ich hier zwei /verschiedene/ Dinge
+ansprechen. Zum einen wollte ich vorschlagen, dass  Du an diesem
+exemplarischen Beispiel die Schreibweise *mit* Klammern verwendest...,
+weil Du das ansonsten auch bei sämtlichen anderen Syllogismen auf der
+Page "Short Introduction" so hast! (Auch wenn an anderen Stelle erklärt
+wird, dass man auch die "Kurzschreibweise" ohne Klammern verwenden
+kann.) - Das hat für mich einfach etwas mit Textkonsistenz zu tun.
+
+Zum anderen... heißt es dann auf der Page ja auch noch:
+
+----------------------------
+
+The syllogistic system contains 24 syllogistic rules. Each of these
+rules has got an individual name already many centuries ago : "Ottilie",
+"Celarent", "Wolfgang", "Ullrich" , etc. There exists a classical subdivision
+of this set of syllogism into four groups, called "figures". These
+figures have been defined by means of the structure of the distribution
+of the terms occuring in the premises.
+
+First Figure				Second Figure
+A(x,y),A(y,z)-->A(x,z) Ottilie		A(x,y),E(z,y)-->E(x,z) Bernard	
+E(x,y),A(y,z)-->E(x,z) Celarent		E(x,y),A(z,y)-->E(x,z) Camestres
+	:					:
+
+----------------------------
+
+Aha, jetzt seh ich's! Dann ist der "Celarent" HIER falsch geschrieben.
+:-)
+
+Sollte also h i e r wohl heißen:
+
+	:
+A(x,y),E(y,z)-->E(x,z) Celarent
+	:
+
+Ja. Aber gut damit kann man leben.
+
+I see.
+Ja, klar. 
+
+Ja... Dei Leiden an diesem Sachverhalt ist mir schon aufgefallen... ;-)
+
+Ich kann Dich immerhin darin bestärken, dass z. B. R. J. Weggerle in
+seinem "Klassiker" (muss man fast schon sagen) "Beginning Logic"
+ebenfalls die Klammernotation (ganz ähnlich, wie Du das machst)
+verwendet; er schreibt also z. B. für Niederbichler:
+
+	E(G,H)
+	I(F,G)
+	------
+	O(F,H)
+
+Ok, *Du* würdest hier wohl schreiben:
+
+	I(x,y) E(y,z) --> O(x,z)
+
+bzw.
+
+	I(x,y)
+	E(y,z)
+	------
+	O(x,z)
+
+Aber die formale Handhabung ist doch recht ähnlich, finde ich. (Heißt:
+die Ähnlichkeiten scheinen mir zu überwiegen.)
+
+
+Gruß,
+L

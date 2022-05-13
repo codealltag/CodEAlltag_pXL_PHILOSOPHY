@@ -1,0 +1,23 @@
+Zur Erläuterung der konjunktiven Normalenform las ich in etwa folgendes:
+
+Eine Disjunktion (manchmal auch Adjunktion genannt) ist wahr, wenn sie
+ein wahres Argument hat.
+Eine Disjunktion, die ein bestimmtes Argument und dessen Negierung als
+Argumente hat muss immer wahr sein, egal welche Argumente sie sonst noch
+hat.
+Eine Konjunktion ist wahr, wenn sie ausschließlich wahre Argumente hat.
+Also ist eine Konjunktion immer wahr (tautologisch), wenn ihre Argumente
+ausschließlich aus Disjunktionen bestehen, die ein bestimmtes Argument
+und dessen Negierung als Argumente hat.
+
+Als ich das las dachte ich mir dies sei ein gutes Beispiel, um das 
+Gelernte anzuwenden und versuchte diese Sätze zu formalisieren. 
+Allerdings wollte mir das nicht recht gelingen:
+(Ax)((Dx n (Ey)(Ay n Wy n Hxy)) <--> Wx)
+Beim zweiten Satz beginnen schon die Probleme, wie formalisiere ich "hat 
+ein Argument und dessen Negierung"?
+Dabei fiel mir Gödel ein und ich fragte mich, ob die Logik das geeignete 
+System sei um über die Logik Aussagen zu machen?
+
+Mfg
+Ulfert

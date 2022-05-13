@@ -1,0 +1,20 @@
+Naja alles ist sicherlich hier nicht gesagt worden, die besten Antworten
+erhielt ich per PM. Ein konsistentes System, welches die Menge |N
+enthält, bedeutet zweitens noch lange nicht, das es gestattet wäre
+innerhalb der Menge |N durch Null zu teilen. Im Gegenteil es würde
+höchstwahrscheinlich den Beweis beinhalten, warum es unmöglich ist
+innerhalb von |N oder anderen Mengen, in denen ein Teilen durch Null
+nicht erlaubt ist, durch Null zu teilen. Vergleichbar stelle ich mir das
+so vor, wenn wir bisher nur eine Menge der ganzen positven natürlichen
+Zahlen hätten, dann wäre eine Rechenoperation wie 5 - 6 nicht definiert.
+Das Ergebnis ist dann innerhalb einer Menge von ganzen postiven
+natürlichen Zahlen irrelevant. Die Standardaussage müsste dann dazu
+lauten 1 - 2 ist nicht definiert. Ich dürfte zwar innerhalb der Menge
+der ganzen positiven natürlichen Zahlen jede Subtraktion ausführen, aber
+0 - 1 oder 1 -2 usw wären nicht erlaubt. Man kann aber nicht behaupten
+das die Menge der ganzen Zahlen mit positiven und negativen Zahlen,
+diese Rechenoperation nicht mehr erlauben würde. 1 -2 ist dann halt -1
+und 0 - 1 ebenso. Ist das irgendein Problem?
+
+Gruss
+Kurt

@@ -1,0 +1,82 @@
+On Wed, 3 Jul 2004 01:17:42 +0200, Karsten <qg_pjft@ogb.xr> wrote:
+
+Regeln:
+
+Def:
+
+ 	 A -> B =df ~(A & ~B)      (Def. ->)
+
+
+Beweis:
+
+ 1. | ~((A -> (B -> C)) -> ((A -> B) -> (A -> C)))            A
+ 2. | ~~((A -> (B -> C)) & ~((A -> B) -> (A -> C)))           1 Def. ->
+ 3. | | ~((A -> (B -> C)) & ~((A -> B) -> (A -> C)))          A
+ 4. | | ~((A -> (B -> C)) & ~((A -> B) -> (A -> C))) & 
+        ~~((A -> (B -> C)) & ~((A -> B) -> (A -> C)))         2,3 &I 
+ 5. | (A -> (B -> C)) & ~((A -> B) -> (A -> C))               3,4 ~E
+ 6. | A -> (B -> C)                                           5 &E
+ 7. | | ~((A -> B) -> (A -> C))                               A
+ 8. | | ~~((A -> B) & ~(A -> C))                              7 Def. ->
+ 9. | | | ~((A -> B) & ~(A -> C))                             A
+10. | | | ~((A -> B) & ~(A -> C)) & ~~((A -> B) & ~(A -> C))  8,9 &I
+11. | | (A -> B) & ~(A -> C)                                  9,10 ~E
+12. | | A -> B                                                11 &E
+13. | | | ~(A -> C)                                           A
+14. | | | ~~(A & ~C)                                          13 Def. ->
+15. | | | | ~(A & ~C)                                         A
+16. | | | | ~(A & ~C) & ~~(A & ~C)                            14,15 &I
+17. | | | A & ~C                                              15,16 ~E
+18. | | | A                                                   17 &E
+19. | | | ~(A & ~B)                                           12 Def. ->
+20. | | | | ~B                                                A
+21. | | | | A & ~B                                            18,20 &I
+22. | | | | (A & ~B) & ~(A & ~B)                              19,21 &I
+23. | | | B                                                   20,22 ~E
+24. | | | ~(A & ~(B -> C))                                    6 Def. ->
+25. | | | | ~(B -> C)                                         A
+26. | | | | A & ~(B -> C)                                     18,25 &I
+27. | | | | (A & ~(B -> C)) & ~(A & ~(B -> C))                24,26 &I
+28. | | | (B -> C)                                            25,27 ~E
+29. | | | ~(B & ~C)                                           28 Def. ->
+30. | | | | ~C                                                A
+31. | | | | B & ~C                                            23,30 &I
+32. | | | | (B & ~C) & ~(B & ~C)                              29,31 &I
+33. | | | C                                                   30,32 ~E
+34. | | | ~C                                                  17&E
+35. | | | C & ~C                                              33,34 &I
+36. | | A -> C                                                13,35 ~E
+37. | | ~(A -> C)                                             11 &E
+38. | | (A -> C) & ~(A -> C)                                  36,37 &I
+39. | (A -> B) -> (A -> C)                                    7,38 ~E
+40. | ~((A -> B) -> (A -> C))                                 5 &E
+41. | ((A -> B) -> (A -> C)) & ~((A -> B) -> (A -> C)         39,40 &I
+42. (A -> (B -> C)) -> ((A -> B) -> (A -> C)                  1,41 ~E
+
+qed.
+
+In unserem System gilt aber auch der MP:
+
+Beweis:
+
+	1. A -> B                    A
+	2. A                         A
+	3. ~(A & ~B)                 1 Def. ->
+	4. | ~B                      A
+	5. | A & ~B                  2,4 &I
+	6. | (A & ~B) & ~(A & ~B)    3,5 &I
+	7. B                         4,6 ~E
+
+	Also: A -> B, A |- B
+
+	Bzw. 	A -> B  A
+	        ---------
+	            B
+
+
+Damit ist gezeigt: Alles, was im System von Riebenbauer & Ganschof hergeleitet
+werde kann, kann auch in userem System hergeleitet werden. (--> Unser System ist
+ein vollständiger Kalkül der Aussagenlogik.)
+
+
+A.

@@ -1,0 +1,13 @@
+Nils Lindquist:
+
+#!/bin/sed -nf
+
+Vorher der einfachheithalber alle Buchstaben, Sonderzeichen usw mit dem
+Switch y in Grossbuchstaben zum einfacheren matching.
+
+Hmm, wo hatte ich dass mal her, grübel schau. Ups, die Domain gibts nicht
+mehr. Mal nach sed-tutorium suchen... ah da.
+http://ufb.zhc4.psr/one-hmbyjanq/njxy/
+
+Grösse,
+Mark

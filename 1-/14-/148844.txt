@@ -1,0 +1,43 @@
+On Mon, 22 Okt 2001 01:51:55 +0200, Focko Mathewes
+
+Nein. Zusaetzlich das Element N - also die Menge der natuerlichen
+Zahlen als zusaetzliches Element. {N} bezeichnet eine Menge deren
+einziges Element die Menge der Menge der natuerlichen Zahlen ist.
+
+f(0) = N
+f(k) = k-1  fuer alle k>0
+
+
+Nein. Die Frage ist oben beantwortet.
+
+
+Nein. Die Menge N ist niemands Nachfolger bezueglich der
+Nachfolgerrelation 
+
+	Nachfolger x := x u {x}
+
+bzw. anders ausgedrueckt. Es gibt keine natuerliche Zahl n, dessen
+Nachfolger N ist. Deine Aussage, N sei "der Nachfolger eben dieser
+Zahlen", ist eine mathematisch inhaltsleere Methapher.
+
+
+Nein, da N kein Nachfolger einer natuerlichen Zahl _ist_. 
+
+
+Nein. Pot(D) ist nicht die Vereinigung aller Pot(D_i). Da saemtliche
+Elemente saemtlicher Pot(D_i) endliche Mengen sind, sind saemtliche
+Elemente der Vereinigung aller Pot(D_i) endliche Mengen - dies folgt
+aus der Definition des Begriffs "Vereinigung".
+
+Pot(D) hat demgegenueber auch unendlichen Mengen als Elemente. Z.B.
+die Menge D persoenlich. D ist kein Element irgendeines Pot(D_i), also
+ist D auch kein Element der Vereinigung aller Pot(D_i). Der Rest
+Deiner Ausfuehrungen ist daher gegenstandslos.
+
+Anscheinend verwendest Du hier einen uns unbekannten Begriff, den Du
+"Vereinigung" nennst und der nicht mit dem in der Mengentheorie
+definierten Begriff "Vereinigung" zusammenfaellt.
+
+
+MfG
+Orlando

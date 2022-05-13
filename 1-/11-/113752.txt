@@ -1,0 +1,25 @@
+Hallo Willi.
+
+Willi Dicks:
+
+
+Ja, es läuft - auch meines Wissens - bei einigen Sprachen darauf  
+hinaus, daß eine Warnung oder ein Fehler ausgelöst wird, daß eine  
+nicht allozierte oder nicht definierte Variable benutzt wurde.
+
+
+Genau darauf wollte ich mit meiner Antwort auch hinweisen:
+Ob "nil" in Boole'schen Ausdrücken, also logischen Aussagen
+auf einen Wahrheitswert abgebildet wird, ist eine Frage der  
+Sprachimplementation, also eine mehr oder weniger willkürliche  
+Setzung der Entwickler der Programmiersprache. Beispielsweise wird  
+in PowerBASIC jeder Wert ungleich 0 als TRUE bewertet (sofern man  
+nicht den Operator IsTrue benutzt); deswegen ist 3.75 aber noch  
+lange kein eigener Wahrheitswert. Die Sprachentwickler haben nur  
+entschieden, wie problematische oder nicht von vornherein eindeutige  
+Fälle ausgewertet werden sollen.
+
+
+HANNY
+
+Gruß meinhard

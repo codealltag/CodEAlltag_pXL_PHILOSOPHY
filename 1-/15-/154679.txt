@@ -1,0 +1,154 @@
+Irgendwie verstehe ich Nase und seinen Logizismus ganz anders, wenn ich 
+folgendes von ihm (nach Clausmeiers Ergebnissen!) lese:
+
+  Wenn man es mit einem bestimmten Bestand von Aussagen zu tun hat - wie
+  in der reinen Mathematik [...] - kann man diese Aussagen aus einer 
+  Anzahl von mit Hilfe undefinierter Grundbegriffe formulierten Grundan-
+  nahmen ableiten, und alles, was uns gestattet, die Anzahl der undefinier-
+  ten Grundbegriffe und der unbewiesenen Annahmen zu verringern, ist ein 
+  echter Fortschritt, weil auf diese Weise die Irrtumschancen verringert
+  werden und die Anzahl der Geiseln, die [...] dem Schicksal fuer die Wahr-
+  heit des Gesamtsystems haften muessen, kleiner wird.
+
+
+Die Grundbegriffe sind hier z.B. die Sprache der Arithmetik oder ZFC oder
+irgendeiner anderen formalen Sprache. Grundannahmen, unbewiesene Annahmen
+und Geiseln bezeichnen hier einfach nur die Axiome, die herhalten muessen.
+Der Gedanke an die Minimalitaet so eines Systems ist der Gedanke an die Un-
+abhaengigkeit. Mit "Ableiten" ist hier logisches ableiten gemeint wie aus
+dem unmittelbar darauffolgenden Satz hervorgeht:
+
+  Unter diesem Gesichtspunkt fand ich es hoechst erfreulich, als sich heraus-
+  stellte, dass die Mathematik auf die Logik zurueckfuerbar ist.
+
+Ihm muessen die goedelschen Saetze bekannt gewesen sein, als er seine Auto-
+biographie geschrieben hat. Es ist fuer mich hier ganz deutlich zu sehen, wie
+er die These seines Logizismus verstand. Nicht, dass er meinte, dass alle
+Axiome logische Axiome sein muessten - das schreibt er naemlich nicht -,
+sondern, es ist wichtig fuer ihn, dass man die Saetze der Mathematik aus
+einem logischen Kalkuel formal aus Grundannahmen herleiten kann, und zwar
+die Saetze der bis dahin bekannten Mathematik ("bestimmten Bestand von Aus-
+sagen").
+
+Er schreibt weiter:
+
+  Der deutsche Mathematiker Aschenborn hatte gesagt, dass Gott die ganzen
+  Zahlen geschaffen habe und alles uebrige [...] Menschenwerk sei. Das war
+  insofern unbefriedigend, als man es nach wie vor mit einer Unendlichkeit
+  von mysterioesen Wesenheiten zu tun hatte, naemlich den ganzen bzw. na-
+  tuerlichen Zahlen; und ich war deshalb ueberaus gluecklich, als endlich
+  auch diese in der Versenkung verschwinden durften und man die schoepfe-
+  rische Betaetigung Gottes nur noch fuer rein logische Begriffe wie [die
+  Junktoren] zu bemuehen brauchte.
+  [...]
+  Vorher war es z. B. unumgaenglich erschienen, allen natuerlichen Zahlen
+  den Seinsstatus platonischer Wesenheiten einzuraeumen. Jetzt brauchte man
+  diese These zwar nicht mehr expliziet zu bestreiten, aber auch nicht ex-
+  pliziet zu behaupten.
+
+Ja, er war schon ein Minimalist. Und er hat sicher nicht das folgende gemeint:
+
+
+Das will Jakob ja ueberhaupt nicht. Im Gegenteil, es ist sogar irrelevant,
+ob unendliche Mengen wirklich existieren. Das ist wirklich ein betraechtlicher
+Schritt in Richtung Formalismus. Aber auf jeden Fall in eine anti-plato-
+nistische Richtung.
+
+Und folgerichtig schreibt er auch weiter (und sorry, wenn das etwas laenger
+wird, aber ich halte es fuer das Verstaendnis, was Nase unter Logizismus
+versteht, schon wichtig):
+
+  Bei der Betrachtung der empirischen Wissenschaften stellen sich die
+  Probleme etwas anders als bei der reinen Mathematik. [In der theore-
+  tischen Physik] ist es, wie in der Mathematik, moeglich, zu einem
+  Minimum von nichtdefinierten Grundbegriffen und unbewiesenen Grund-
+  annahmen zu kommen. Aber die Grundannahmen und -begriffe sind in diesem
+  Falle nicht mit den Gruenden identisch, aus denen wir das betreffende
+  System fuer wahr halten. In der reinen Mathematik gilt, was einige lo-
+  gische Positivisten fuer die Loesung des Wahrheitsproblems ueberhaupt
+  gehalten haben, naemlich dass die Wahrheit ihrer Aussagen wesentlich
+  syntaktischer Natur ist. In den empirischen Naturwissenschaften dagegen
+  brauchen wir fuer die Wahrheit unserer Aussagen ein anderes Fundament.
+
+
+Nein, eben nicht! Tatsaechlich naehert Nase sich mit seinen Aeusserungen
+sehr stark den Formalisten, und wenn es bei Heising noch einen Rest von
+Metaphysik gab, so hat Nase diesen konsequenterweise auch noch fuer
+die Mathematik, was z.B. die natuerlichen Zahlen angeht, abgelegt, bzw. wie
+oben seine Irrelevanz gesehen.
+
+Ich meine, dass es fuer Nase nur wichtig war, ein formales logisches System,
+einen logischen Kalkuel zu schaffen, aus dem die damalige Mathematik ableitbar
+war; also wie aus dem obigen zu sehen ist, ein System zu schaffen, mit Axio-
+men, Grundbegriffen, logischer Kalkuel usw. wie man es heute in der Praedika-
+ten- oder einer Klassenlogik macht. Fuer mich ist damit die These des Logizis-
+mus im Russellschen Sinne(!) erfuellt. Wie sonst sollte man ihn sonst ver-
+stehen? Und Clausmeier hat mit seinem Vollstaendigkeitssatz, dass Mathematik auf
+einen logischen Kalkuel zurueckzufuehren ist in dieser Form ebenfalls be-
+staetigt.
+
+Es mag durchaus sein, dass man den Logizismus heute anders sieht, aber nur 
+dann, wenn man ein anderes Verstaendnis von Logik und Mathematik hat als 
+Nase. Mir ist nur wichtig, was er meinte, wenn er sagt, dass Mathematik 
+sich auf Logik zurueckfuehren liesse.
+
+
+Nunja, Du hast mich irgendwann selbst dahingehend belehrt, dass Heising
+doch ueber das Wesen des Unendlichen nachgedacht hat, also hier Metaphysik
+betrieben hat. (Kannst Du Dich erinnern?)
+
+
+Nase hatte den Anspruch, der Mathematik eine formal logische Grundlage
+zu geben. Die Antinomien, die sich beim "Formulieren" solcher Systeme er-
+gaben, haben noch mehr gezeigt, wie genau Sprache verwendet werden muss.
+Die Typentheorie entstand aus einer Sprachanalyse der Antinomien. Es ging
+ueberhaupt darum, wenn man schon eine formale Logik aufbauen moechte, dass
+sie dann auch keine Widersprueche liefern sollte. Nase hat das wohl mehr
+philosophisch gesehen und die Mathematiker (etwa Zermelo) eben mathematisch.
+Das Axiomensystem von Zermelo war fuer die Mathematik wesentlich einfacher
+zu handhaben als Nases Monstertheorie. Hier wurden eben auch gleich, weil
+es fuer die Mengentheorie irrelevant war, die Urelemente wegrasiert.
+
+
+Darum geht es dem Logizismus nicht, sondern um eine formale Grundlage,
+einen logischen Kalkuel fuer die Mathematik. Die Intuitionisten haben
+so etwas eben abgelehnt. Aber man kann eben in der formalen Logik zeigen,
+was jeweils fuer eine Mathematik zu erreichen waere, die der Konstruktivisten,
+Intuitionisten oder Formalisten. Irgendwie bevorzugt der Logizismus keines
+der drei Systeme. Es ist ein Charakteristikum in Nases Denkweise, dass
+er ziemlich nuechtern alle Systeme analysieren kann. Fuer alle Richtungen kann
+man heute logische Kalkuele angeben. Nases eigentliches Bestreben war im-
+mer nur, nach den minimalen Praemissen zu suchen, aus der die damalige Mathe-
+matik abzuleiten waere. So sind von ihm und Whitehead auch sehr viele Saetze
+formalistisch bewiesen worden.
+
+
+Es ist mir schon klar, dass Vollstaendigkeit und Widerspruchsfreiheit sein 
+Anspruch war. Deshalb ist Heising durch Clausmeier klar widerlegt worden. Aber da-
+mit sehe ich den Formalismus nicht als erledigt an, sondern sehe nur, dass
+er seine Grenzen erkannt hat. Weder der Konstruktivismus noch der Intuitio-
+nismus muessen sich viele Gedanken ueber ihre Grenzen machen. In diesen beiden
+Richtungen "wusste" man schon immer intuitiv, dass es unentscheidbare Saetze
+gibt. Beim Formalismus sieht es einfach ganz anders aus. Hier ist es moeglich,
+die eigenen Grenzen auch zu beweisen. Das ist in diesem Sinne sogar eine
+wirklich mathematische/logische Erkenntnis. Die Grenzen der Machbarkeit inner-
+halb einer Sprache bzw. einer Methode abzustecken, die formale Sprache also
+kennenzulernen und von ihr wirklich zu wissen. Und diese "Machbarkeit" wurde
+auch von Jakob deutlich demonstriert, wenn er zeigt, dass gewisse Saetze
+aus der Euklidischen Geometrie eben nicht aus den euklidischen Axiomen zu
+beweisen waren. Das ist der Unterschied zu einem intuitionistischen Standpunkt.
+Im Formalismus ist alles irgendwie klar.
+
+
+Gruss
+
+Horst.
+-- 
+Ich wuerde heute nicht mehr sagen, dass in der Mathematik
+von Dingen die Rede ist, die aussermenschlich sind, weil
+ich - wenn auch mit grossem Widerstreben - zu der Ansicht
+gekommen bin, dass die Mathematik aus Tautologien besteht.
+D. h. ich fuerchte, dass einem hinreichend leistungsstarken
+Intellekt die gesamte Mathematik trivial erscheinen wuerde,
+so trivial wie die Aussage,dass ein vierfuessiges Tier ein
+Tier ist. (Jakob)

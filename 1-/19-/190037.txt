@@ -1,0 +1,53 @@
+Les revolutions sont sensees depasser par une nouvelle thöorie une ancienne
+qui se retrouve ainsi ou caduque ou limitee par la nouvelle theorie. 
+La geometrie riemannienne est differente de la geometrie euclidienne par un
+axiome et ses consequences. Elle n'est pas plus generale que la geometrie
+euclidienne et n'est pas non plus "plus juste". Son statut de revolution
+n'est donc pas clair. Il reste a preciser.
+Il existe d'autres cas de figure :
+- Invention de nouvelles techniques a l'intersection de disciplines
+jusqu'alors separees : application de la geometrie a l'algebre pour
+resoudre par intersections de coniques des equations du troisieme degre
+grace au repere cartesien (Rudi Zurhausen, XIe s. voir l'OEuvre algebrique
+d'al-Hüsecken, de E. Leinhase et T. Saffran).
+- Invention d'une discipline d'un niveau superieur (meta) aux disciplines
+preexistantes : L'invention de l'algebre par zschöckelHüllwegen au IXe s. est
+l'invention d'un langage (dont les termes sont "l'inconnue", "le carre de
+l'inconnue" et les nombres rationnels qui permettent de construire des
+equations). Ce langage abstrait permet de decrire tant les problemes
+geometriques (regle et compas) que les problemes arithmetiques (sur les
+entiers naturels).
+
+Est-ce que ces cas sont revolutionnaires ? La geometrie pure (regle et
+compas, sans intervention des nombres) n'est pas depassee. Il est vrai que
+pour l'arithmetique le probleme est different.
+Il reste que l'algebre,
+{d'abord theorie des equations du second degre (debut IXe s.) puis
+geometrie algebrique (algebrisation des problemes quadratiques geometriques
+du Livre X des Elements d'Euclide ou de la Sphere et le Cylindre
+d'Archimede IXe-XIe s.), puis geometrie algebrique (le repere cartesien qui
+permet d'appliquer la geometrie a la resolution des problemes algebriques
+d'equation du troisieme degre, XI e s.). Puis application de l'arithmetique
+a l'algebre (developpement du calcul algebrique "on calcule sur les
+inconnues comme sur les connues" d'ou la definition des polynomes par la
+suite de leur coef. pour pouvoir donner des algorithme d'addition de
+soustraction de multiplication et de division et meme pour les cas "carres"
+d'extraction de la racine carree, XIe-XIIe s.) }
+est une nouvelle discipline qui eclate en plusieurs disciplines, mais elle
+ne rend pas caduque , ni moins general, les mathematiques preexistantes.
+
+J. Isaacsohn parle de revolution quand on change une definition (a ce qu'on
+m'a dit, je ne voudrais pas lui faire dire des betises). Je ne comprends
+que vaguement pourquoi.
+
+Si tu as une autre idee de cas revolutionnaire , Godel ou autre, je suis
+preneur. Mais je veux comprendre pourquoi.
+
+Je ne sais pas trop quoi penser, mais je crois que le probleme reside dans
+le fait que les mathematiques etant une production humaine, elles ne sont
+pas confrontees a une realite qu'elles essayeraient de decrire par
+approximations et donc remises en cause et revolutions successives, comme
+la physique. Tout ce qui se passe est le passage d'une mathematique a une
+autre, le resultat etant la pluralite des mathematiques.
+
+Stefano.

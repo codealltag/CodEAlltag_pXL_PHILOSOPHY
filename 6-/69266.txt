@@ -1,0 +1,59 @@
+Das ist Deine Definition. üblicherweise spricht man in der SRT nicht von
+Geodäten, und zweitens definiert man Geodäten in der ART nicht über
+Lichtbahnen. Geodäten sind ja z.B. auch Umlaufbahnen von Satelliten.
+Was Du wahrscheinlich meinst, ist, dass man Licht verwendet, um
+Entfernungen zu messen. Eine Möglichkeit, ein Koordinatensystem zu
+definieren besteht daher über Nullgeod�ten. Das macht aber wirklich
+nur lokal wirklich Sinn.
+Ich sehe zwar nicht, warum hierdurch weder Einfachheit noch
+Bequemlichkeit gegeben sein soll, aber Du wirst uns sicher erleuchten.
+Vielleicht kannst Du auch ein Meßverfahren für eine gerade Linie
+angeben, die dann nicht willkürlich ist.
+
+
+Und wie soll das funktionieren? Wie "verlegst" Du ein euklidisches
+Raumgitter? Bitte ein physikalisch durchführbares Verfahren angeben.
+
+
+Diese Willkürlichkeit hat man schon zur Genüge untersucht. Das hängt
+vom gewählten Koordinatensystem bzw. Beobachter ab. Am einfachsten
+bleibt man bei g_ij und wählt lokale Koordinaten so, dass im
+Nullpunkt g_ij = eta_ij gilt, z.B. mit Fermi-Normalkoordinaten.
+
+
+Das ist aber genau das, was Oberste-Vorth gesagt hat und was ich nur
+lakonisch kommentiert habe, nämlich dass nur (G)+(P) der Erfahrung
+zugänglich ist. Deine Zerlegung ist willkürlich und weder eta_ij
+noch V_ij sind physikalisch meßbar, sondern höchstens noch g_ij (mit
+etwas Glück).
+
+
+Die freie Definierbarkeit bezieht sich zunächst auf das gewählte
+Koordinatensystem. Im flachen Raum sind Geodäten und Nullgeod�ten
+das, was wir euklidisch als Geraden verstehen. Das war meine Aussage
+und nicht das, was Du hineininterpretierst.
+
+
+Vielleicht bei Dir, aber nicht bei den Physikern. Das gewählte
+Koordinatensystem dient der einfacheren Berechnung, hat aber
+keinerlei physikalische Bedeutung. In vielen Fällen legt man
+sogar euklidische Koordinaten zu Grunde, was aber nichts an
+der Tatsache ändert, dass der physikalische Raum (den man
+vermessen kann) dann nicht mehr euklidisch ist.
+
+
+Im übrigen hatte ich den Eindruck, dass Dir die Argumente
+ausgingen. Du konntest mir nicht schlüssig darlegen, warum
+Du die Ossenbrügge ablehnst. Insbesondere lehntest
+Du auch die adiabatische Uhrensynchronisation ab, weil sie
+zur Einsteinsynchronisation Äquivalent sei. Letztere erscheint
+mir aber als die natürliche, wenn auch etwas umständliche
+Methode.
+
+Natürlich gibt es auch andere Synchronisationsverfahren.
+Da diese aber keinen physikalisch messbaren Effekt zur Folge
+haben, sehe ich nicht, warum sich auf eine festlegt.
+Gerade auch deswegen, weil sie mit dem Isotropie/Homgenit�ts-
+Prinzip sehr gut zusammenspielt.
+
+Willy.

@@ -1,0 +1,59 @@
+On 4 Apr 2003 16:40:21 -0800, eblmajvpxivXJMPBAA@cwwaxhv.ci (Toch
+Foid) wrote:
+
+[...]
+
+Kannst du erklären, *wie* genau ein Sprecher Kenntnis über die einem
+Begriff (nach deiner Definition des Begriffs "Begriff") zugehörige
+Intension erlangt? Öllers behavioristisch eingefärbter Ansatz bei
+seinem Gedankenexperiment der /radikalen Übersetzung/ mag kritikwürdig
+sein, seine grundsätzliche Fragestellung, die ja auch Egenhofer mit der
+/radikalen Interpretation/ aufgegriffen hat, ist es aber nicht. 
+
+
+Die Linguistik verfügt derzeit nicht über eine adäquate
+Bedeutungstheorie, die Versuche etwa der generativen Semantik sind
+kaum überzeugend. Jedenfalls ist der Hinweis, dass eine Wissenschaft
+*naiv*  Begriffe wie Synonymie verwendet, kein besonders gutes
+Argument für die creatures of darkness. Dabei geht mir weniger um die
+Frage des ontologischen Status' dieser Entitäten, sondern darum, dass
+sie nur scheinbar eine Erklärung dafür bieten, warum die Wörter und
+Sätze das bedeuten, was sie bedeuten, oder sich auf das beziehen,
+warauf sie sich beziehen. 
+
+
+Nehmen wir die nach dem Unendlichkeitsaxiom existierende kleinste
+induktive Menge, die Menge der natürlichen Zahlen N. Dann ist
+bekanntlich (Cantor) Pot(N):={A | A <= N}, die Potenzmenge von N,
+überabzählbar. Andererseits gibt es nur abzählbar unendlich viele
+L{e}-Formeln E, die zur Komprehension dienen können, mit denen wir
+also eine Menge durch {x | E(x) } bilden können. Somit existieren  in
+Pot(N) Elemente, die nicht durch einen Mengenbegriff definierbar sind.
+Eine andere Möglichkeit, "nichtkonstruktiv" auf Mengen zuzugreifen,
+bietet das Auswahlaxiom, also die  Aussage, dass das
+(mengentheoretische) Produkt einer Familie nichtleerer Mengen selbst
+nichtleer ist.
+
+
+Es ist tatsächlich üblich, den Individuenbereich einer Struktur als
+nichtleer vorauszusetzen, hauptsächlich um bestimmte Anomalien
+auszuschließen, so dass die Aussage 
+(Ex) x=x  allgemeingültig ist und mein Gegenbeispiel einer leeren
+Struktur leider nicht funktioniert.  Die merkwürdige Konsequenz dieser
+Konvention ist allerdings, dass die elementare Logik nicht mehr
+ontologisch neutral ist, mithin Aussagen über die Existenz von
+Objekten beinhaltet.
+
+[...]
+
+
+Abgesehen davon, dass die von dem unbekannten Autoren (Quelle?)
+erhobene Behauptung, ZF *benötige* ein absolutes Existenzaxiom,
+offenbar nicht zutrifft, ist die Wahl, Exist in ZF aufzunehmen,
+unüblich; jdenfalls kenne ich keine andere Darstellung, in der es so
+gehandhabt wird. In formaleren Ausarbeitungen wird auch auf das
+Nullmengenaxiom verzichtet, da es, wie der Autor richtig bemerkt, aus
+dem Unendlichkeitsaxiom folgt.
+
+
+ivo

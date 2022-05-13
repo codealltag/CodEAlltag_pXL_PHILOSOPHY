@@ -1,0 +1,12 @@
+Eine Turingmaschine ist durch ihren Anfangszustand definiert. Du hast jedoch
+einen definierten Anfangszustand *plus* eine zusätzliche Zufallszahl (seed).
+
+
+Java2k definiert keine "implizite Eingabe von Zufallszahlen"; das ist Deine
+Implementation davon. Sie definiert die zufällige Ausführung *ohne* irgendeine
+dazu notwendige (implizite oder explizite) Eingabe; über die Natur des Zufalls
+trifft sie einfach keine Aussage.
+
+Viele Grüße
+
+Friedhelm

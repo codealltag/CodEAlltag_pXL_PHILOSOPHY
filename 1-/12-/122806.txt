@@ -1,0 +1,31 @@
+Hallo Heimo!
+
+
+Ich bin mir nicht sicher, ob das ein gluecklicher Threadanfang war ;-)
+
+Ich kann ja einen "Massstab II" bauen, der genauso lang ist wie das
+Urmeter.  Dann ist natuerlich alles einen Meter lang, was genauso lang
+ist wie der "Massstab II", da Laenge transitiv ist.
+
+Nun kann ich die Laenge von "Massstab II" mit dem Urmeter vergleichen.
+Und, siehe da: das Urmeter ist genauso lang wie "Massstab II"
+(Kommutativitaet). 
+
+Da ich ja schon festgestellt habe, dass alles, was genauso lang ist
+wie "Massstab II", einen Meter lang ist, ist also das Urmeter einen
+Meter lang.
+
+Bei ueblichen "modernen" Referenzen ist das sogar noch einfacher; die
+Sekunde ist definiert als die Zeitdauer von X Schwingungen bei der
+Frequenz eines bestimmten Zustandsuebergangs eines Atoms. Ich kann nun
+die Zeitdauer der Schwingung des Zustandsueberganges (dieses Typs) von
+Atom A ohne weiteres mit der Zeitdauer der Schwingung des
+Zustandsueberganges (dieses Typs) von Atom B messen und damit die Zeit
+der Schwingung von Atom A bestimmen. Wenn sich beide Atome in Ruhe
+zueinander befinden (und auf dem gleichen Gravitationspotential), ist
+das Ergebnis der Messung 1/X. *Durchfuehren* kann ich sie auf jeden
+Fall, ebenso wie die obige Laengenmessung (die aber obsolet ist, weil
+heutzutage das Meter über die Zeit und die Vakuumlichtgeschwindigkeit
+definiert ist).
+
+Olivier

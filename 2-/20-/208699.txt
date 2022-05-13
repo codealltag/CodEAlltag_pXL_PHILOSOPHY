@@ -1,0 +1,55 @@
+Remmer Föcker (iisdpmfw@krpjoh17.ywvhtrsbmq.nam-fnzldbv.gf) wrote:
+
+zu folgenden Aussagen (A1 von mir, A2 von Marco):
+: : A1) Ereignisse mit der Wahrscheinlichkeit 0 koennen nicht beobachtet werden.
+: : A2) Ereignisse mit der Wahrscheinlichkeit 0 koennen auftreten.
+
+[...]
+: Zunächst der Versuch einer Deutung von Kays Absicht: Sollte A2 richtig
+: sein, so hängt die Wahrheit von A1 davon ab, was man unter 'beobachten
+: können' versteht. Kay scheint mir 'beobachten können' so zu verstehen,
+: daß die Beobachtung selbst dasjenige definiert, was beobachtet wird. Wenn
+: wir also nur endlich viele Beobachtungen machen können, muß zwangsläufig das
+: Beobachtete ebenfalls endlich sein. Würde man 'beobachten können' nicht so
+: auffassen, gebe es keinerlei Problem eine unendlich lange Folge (wenn auch
+: nur endlich lang) zu beobachten.
+
+Ich bin keineswegs der Meinung, dass die Beobachtung dasjenige definiert,
+das beobachtet wird. Definitionen sind abstrakt, Beobachtungen sind es
+nicht. Natuerlich ist es durchaus moeglich, dass der Koerper, der da auf
+dem Tisch liegt, tatsaechlich unendlich viele, unterscheidbare Positionen
+auf einer begrenzten Flaeche einnehmen kann. Insofern ist A2 natuerlich
+nicht unbedingt falsch, wie es ja auch moeglich ist, dass es unsichtbare
+rosa Einhoerner gibt. Da wir unendlich viele, unterscheidbare Positionen
+aber nunmal nicht beobachten koennen, ist die Frage ihrer Existenz ebenso
+wie die von rosa Einhoernern wissenschaftlich gesehen schlicht irrelevant.
+
+[...]
+: Sollte dies Kays Argument sein, dann sehe ich aber - außer, daß es sowieso
+: merkwüdig ist - das Problem, wie man eigentlich Ergebnisse verbessern
+: kann. Angenommen zu einem bestimmten Zeitpunkt ist eine (endliche) Folge
+: beobachtet worden. Unter welchen Bedingungen darf eine neue Beobachtung als
+: weiters Folgenglied der bereits beobachteten Folge angesehen werden?
+
+Eine sehr interessante Frage. In der Tat kannst Du eigentlich nicht wissen,
+dass zwischen der ersten ungenauen und der zweiten genaueren Messung sich
+die zu messende Groesse nicht unterhalb der Messgenauigkeit veraendert hat.
+Da Du es aber nicht wissen kannst, ist auch das irrelevant. Ganz unab-
+haengig davon liegt aber wohl auf der Hand, dass, egal wieviele zusaetz-
+liche Stellen Du durch verbesserte Messmethoden findest, Du dennoch nie-
+mals Kenntnis ueber die Gesamtfolge erreichen kannst. Der Grund warum wir
+dennoch mit kontinuierlichen Intervallen rechnen, liegt einfach darin, dass
+man im Rahmen theoretischer Modellbildungen unabhaengig bleiben will von
+der konkreten Realisierung und Qualitaet der Messmethoden. Wird das Modell
+schliesslich anhand praktischer Versuchsreihen ueberprueft, kommt man um
+die Diskretisierung des Intervalls jedoch nicht herum. Warum? Eben weil
+Ereignisse mit der Wahrscheinlichkeit 0 nicht beobachtbar sind. Wie fein
+die Diskretisierung sein kann haengt von den Messmethoden ab.
+
+Gruss,
+
+	Kay.
+
+
+ ------------  Kay Kämpfle, AB Technische Informatik VI  -------------
+ ----------------  http://ymp.nh2.en-sfowpdi.da/~by3vv  -----------------

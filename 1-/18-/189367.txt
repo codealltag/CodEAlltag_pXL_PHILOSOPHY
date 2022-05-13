@@ -1,0 +1,60 @@
+Eine Definition in der Sekunden vorkommen kann aber wohl keine
+mathematische sein oder kennst du eine mathematische Definition fuer die
+physikalische Zeit?
+
+[eine Reihe]
+
+Die sind aber alle Abbildungen in die natuerlichen Zahlen und nicht in
+die reellen mit der Einheit Sekunden. Wenn ich mich nicht irre gibt es
+ein Theorem, das besagt, dass sich alle (abstrakten) Komplexitaetsmasse
+gegenseitig rekursiv beschraenken lassen, so dass man sich ansonsten von
+der jeweiligen Verwendung leiten lassen kann.
+
+
+In der Theorie vielleicht nicht, aber fuer die praktische Verwendung ist
+polynomielle Reduktion und die dadurch aufgebaute NP-Hierarchie
+entscheidend, um zu beweisen, dass ein Problem effizient loesbar ist
+oder eben nicht. Rechenzeit wird so von physikalischer Zeit unabhaengig
+gemacht.
+
+
+Nein, das stimmt natuerlich nicht allgemein, darum hatte ich das ja
+extra auf deterministische TMs eingeschraenkt. Die von den TMs
+erkennbare Sprachklasse (->Halteproblem) aendert sich dadurch aber
+nicht, sondern nur der Zeitaufwand kann exponentiell groesser werden.
+
+
+Nach der Vorraussetzung sollte sie ja entscheiden koennen, ob TM M auf w
+anhaelt oder nicht, so dass sie am Ende eine 1 oder eine 0 auf das leere
+Band schreiben kann - davon bin ich eigentlich ausgegangen.  Warum
+sollte mein Beweis da nicht funktionieren?
+
+
+Das habe ich gerade erst gelesen. Man kann dann wohl sagen, dass die
+ebTM entweder keine TM ist (meine Loesung) oder eine unendlich lange
+Ausgabe erzeugen muss anstatt wie gefordert 0 oder 1 auszugeben. Auf
+jeden Fall kann sie aus einem der beiden Gruende das Halteproblem nicht
+loesen.
+
+
+Zumindest, wenn man die Bandfuellung thematisiert, so wie du es getan
+hast. Die Konsequenzen, die die Entscheidbarkeit von H haetten, wuerden
+aber genauso zu einem Widerspruch zur Definition der Diagonalsprache
+fuehren.
+
+
+Das Komprimieren ist wohl nicht immer bzw. beliebig gut moeglich
+(Pflughaupt-Compression auf TMs :-), bei der Vergroesserung des
+Bandalphabets koennte man aber immer noch sagen, dass es eine TM mit
+Sigma={0,1} geben muss, die dasselbe leisten kann, bei der das Band aber
+exponentiell laenger beschrieben wird. Bei der Spielerei wird quasi der
+Bandinhalt im Alphabet untergebracht, so dass die zugehoerige Grammatik
+unendlich viele Variablen haben muesste und man diese gar nicht mehr
+aufschreiben koennte. Anders ausgedrueckt, waere das Alphabet gar keines
+mehr, weil es unendlich viele Symbole haben muesste.
+
+-- 
+USER       PID %CPU %MEM  SIZE   RSS TTY STAT START   TIME COMMAND
+rc5        435 93.8  0.3   788   336  ?  R N  18:57 295:52 ./rc5des 
+ Email to jjxya@pdnt.yqej.lv with *Subject: pgpsend* for my PGP public key!
+_PGP public key fingerprint: 34 E9 05 7E 00 AF 1E 34 55 B6 D6 50 69 2E C3 C2_

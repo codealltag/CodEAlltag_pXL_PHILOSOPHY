@@ -1,0 +1,16 @@
+Soweit ich Norbert Wissenschaftsbegriff noch in Erinnerung habe, sind es
+guido@mrcw:/var/spool/news/de/sci/philosophie > grep "From: " *	\
+print "genau ", ($sci/$count)*100, "% von $count Artikeln,\n";'
+genau 16.25% von 1200 Artikeln,
+die ausreichend wissenschaftlich fundiert sind. Wissenschaft ist
+naemlich genau das, was an den Universitaeten gemacht wird und sonst
+nichts. Man sieht also deutlich, dass es um dsp noch wesentlich
+schlimmer steht als befuerchtet.
+
+PS: Mist, ich habe gerade schon wieder das Niveau gesenkt...
+
+-- 
+USER       PID %CPU %MEM  SIZE   RSS TTY STAT START   TIME COMMAND
+rc5        472 20.1  0.3   788   316  ?  R L  15:29 471:43 ./ro4wsl 
+ Email to xdmln@itei.plob.ap with *Subject: pgpsend* for my PGP public key!
+_PGP public key fingerprint: 34 E9 05 7E 00 AF 1E 34 55 B6 D6 50 69 2E C3 C2_

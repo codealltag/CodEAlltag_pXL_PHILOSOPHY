@@ -1,0 +1,28 @@
+Ich denke, der Ansatz ist gut! Damit fragen wir nicht mehr: Was ist
+Information, sondern: Wie tritt sie auf?
+
+
+Ich denke, das wird aus einem einfachen Grund nicht funktionieren: Es
+gibt 4 "Grundparadigmen" der Programmierung. Das imperative /
+prozedurale (z.B. Pascal, C), das logische (Prolog), das funktionale
+(LISP) sowie das objektorientierte (C++, Delphi, Smalltalk). Alle vier
+haben grundsätzlich unterschiedliche herangehensweisen an ein Problem.
+Ein Abesu-Programm wird beispielsweise sehr viel stärker von Rekursion
+Gebrauch machen als die übrigen "Kandidaten". Einfach deshalb, weil es
+dort das vorherrschende Prinzip ist. Und damit wird es sehr schwierig,
+einen "gemeinsamen Punkt" herauszudestilieren.Innerhalb eines
+Programierparadigmas ist es natürlich kein Problem. So gibt es z.B.
+Programme, die automatisch von C nach Pascal konvertieren oder
+umgekehrt. In Teilbereichen muß man zwar noch "von Hand" nachhelfen,
+aber im Großen und Ganzen funktioniert es.
+
+
+Du hast am Schnittpunkt keine Information, sondern einen Algorithmus.
+Das ist etwas anderes, denke ich. Ein Algorithmus ist eine Vorschrift,
+wie  man mit gewissen "Gegenständen" (die _auch_ Information sein
+können) umgeht. Eine Information ist m.E. keine "Handlungsanweisung",
+sondern eher passiv.
+
+
+Gruß,
+Lothar

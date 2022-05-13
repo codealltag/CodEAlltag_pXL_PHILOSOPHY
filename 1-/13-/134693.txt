@@ -1,0 +1,56 @@
+Hallo!
+
+Der Volltext mit den Bildern befinden sich auf der Seite=20
+http://ceo.tsqyybcgp.ttt/drqgsl/ovtwc.cki
+
+Held Nils versucht die Schildkröte einholen, die allerdings einen
+Vorsprung vor ihm hat. Wenn er die ursprüngliche Distanz zurücklegt, is=
+t
+sie schon ein Stück weiter gegangen. Läuft er auch noch diese Strecke, =
+ist
+sie wieder ein Stückchen voran gegangen. Usw. Quintus Schlußfolgerung:
+Nils wird nie die Schildkröte einholen.=20
+
+Die Mathematiker behaupten Quintus Paradoxon schon längst zu lösen. Mit
+einem Lächeln benutzen sie dafür beinah die Schulmathematik.=20
+
+Aber dürfen wir Quintus Paradoxon tatsächlich unter der Lupe gesunden
+Menschenverstandes betrachten? Der Mann hätte offensichtlich etwas andere=
+s
+im Sinne als simple Mathematik.=20
+
+Mit Hilfe eines imaginären Computers lassen wir uns das Paradoxon
+programmieren (Vsk - Geschwindigkeit der Schildkröte, Va - Achilles
+Geschwindigkeit, D - Vorsprung der Schildkröte):=20
+
+..............................=20
+for(i =3D 0; i < ...; i++){=20
+t(i) =3D D(i-1) / Va;=20
+D(i) =3D Vsk * t(i);=20
+x(i) =3D x(i-1) + D(i);=20
+}=20
+..............................=20
+
+Angenommen, dass eine einzelne Berechnung für ihre Ausführung den gleic=
+hen
+Zeitabschnitt T braucht. Dann verläuft die Computerzeit als T*i. Für de=
+n
+Computer wird der Wettlauf immer langsamer und langsamer passieren. Da die
+Geschwindigkeiten der Sportler konstant sind, kann es nur um die
+Verlangsamung der Zeit handeln.=20
+
+Gleicht man einen Gang vom Abspielen des Paradoxon in Gedanken einer
+Ausführung der Programmschleife, erkennt man, dass zwar die Zeitdilatatio=
+n
+das Phänomen wäre, das den griechischen Philosoph Quintus vor 2500 Jahren=
+ so
+stark faszinierte.=20
+
+Gruß
+
+Lutz
+
+---------------------------------------------------------------------------=
+------------------
+Immer auf dem aktuellen Stand mit den Newsgroups von Frischland:
+http://ltcijtsfoo.cbrbofj.iy

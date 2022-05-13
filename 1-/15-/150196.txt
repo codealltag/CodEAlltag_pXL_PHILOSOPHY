@@ -1,0 +1,35 @@
+Hallo!
+
+Zuerst möchte ich vorrausschicken, dass ich weder Mathematiker noch
+Philosoph bin - also: übt Nachsicht mit mir!
+Ich finde dein Erklärungsmodell auch recht gut. Ich würde deinem
+Beispiel vielleicht hinzufügen:
+Die 1-dimensionale Linie ergibt sich durch Aneinanderreihen von
+unendlich vielen 0-dimensionalen Punkten.
+Die 2-dimensionale Fläche ergibt sich durch Aneinanderreihen von
+unendlich vielen 1-dimensionalen Linien.
+u.s.w.
+Dann stellt sich jedoch die Frage, wie 0-dimensionale Punkte sich
+überhaupt aneinanderreihen können, um so eine kontinuierliche Linie zu
+ergeben, da zwei verschiedene Punkte immer einen Abstand im Raum (in
+diesem Fall ist er nur 1-dimensional) haben müssen, da sie ja sonst
+ein und derselbe Punkt wären. Diese Frage kann man sich dann auch beim
+"Zusammenstellen" der nächsten Dimension stellen, u.s.w.
+Beim Übergang vom 3-dim. Raum in die 4-dim. Raumzeit würde das, was
+ich gerade oben beschrieben habe, dann der Veränderung
+(=Aneinanderreihen von verschiedenen Augenblicken) von Objekten
+gleichkommen; ist jedoch räumlich nicht mehr vorstellbar. Außerdem
+ergibt sich wiederum die Frage, wann die eigentliche Veränderung dann
+wirklich stattfindet. Wenn ich z.B. eine Kugel anrolle - dann gibt es
+einen Zustand des Sich-Nicht-Bewegens (v=0) und einen Zustand des
+Sich-Bewegens der Kugel (v>0). Da es jedoch keinen Zustand dazwischen
+geben kann, müsste sich die Kugel <plötzlich> in Bewegung setzen, was
+aber (mathematisch) eine unendliche Beschleunigung der Kugel ergeben
+würde (mit Divisionen durch 0 fange ich hier besser nicht an ;)).
+Diese Problematik ist meines Erachtens analog zu der sich im Abschnitt
+über das Aneinanderreihen von Punkten befindlichen.
+
+Falls ich mich irgendwo geirrt haben sollte - bitte richtigstellen!
+
+Tsch,
+Waldemar

@@ -1,0 +1,9 @@
+Meinet wegen so x für wahr y für falsch
+
+x x x --> wahr
+x x y
+y y y
+y y x --> falsch
+
+
+Einverstanden?

@@ -1,0 +1,14 @@
+Bedingt. Er "unterscheidet": Funktionen, und (als Unterklasse der
+Funktionen) Begriffe, Werteverläufe, und (als Unterklasse der
+Werteverläufe) Begriffsumfänge.
+
+
+	"Ein Begriff ist eine Funktion, deren Wert immer ein
+	 Wahrheitswert ist." (Frege, "Funktion und Begriff")
+
+	"Wir können demnach als Begriffsumfang den Werteverlauf
+	 einer Funktion bezeichnen, deren Wert für jedes Argu-
+	 ment ein Wahrheitswert ist." (ebd.)
+
+
+A.

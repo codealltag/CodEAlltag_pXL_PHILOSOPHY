@@ -1,0 +1,89 @@
+Also wenn z.B. D^1 =3D {1,2,3}, dann ist D^2 =3D {<1,2>,<1,3>,<2,3>}; und
+P(D^2) =3D {{ }, {<1,2>}, {<1,3>}, {<2,3>}, {<1,2>, <1,3>}, {<1,2>,
+<2,3>}, {<1,3>, <2,3>}, {<1,2>, <1,3>, <2,3>}}.
+
+Und eine 2-stellige Relation R ist dann dasjenige Element von P(D^2),
+das genau diejenigen 2-Tupel enthält, zwischen deren Objekten die
+Relation R besteht.
+
+[Mir fällt allerdings gerade auf, dass Objekte ja nicht nur in
+Relation zu anderen Objekten, sondern auch zu sich selbst stehen
+können, wodurch sich D^2 erweitert:
+D^2 =3D {<1,1>, <2,2>, <3,3>, <1,2>, <1,3>, <2,3>}]
+
+
+Also i(liebt(xy)) =3D {<x,y> e D^2 | liebt(xy)}
+
+
+In
+
+AxAy(x =3D y <-> AX(Xx -> Xy))
+
+sind das Elsbosch-Prinzip und das Elsbosch-Gesetz (=3D Identitätsaxiom der
+1-stufigen L.) in einer Äquivalenzbeziehung gekoppelt, die das
+Leibniz-Prinzip selbstverständlich beweisbar impliziert.
+
+In der 1-stufigen Identitätslogik lautet das Axiom:
+
+AxAy(x =3D y -> (Fx -> Fy)
+
+2-stufig formuliert entsprechend
+
+AxAy(x =3D y -> AX(Xx -> Xy))
+
+Meine Frage ist nun:
+Wo kommt die Gegenrichtung
+
+AxAy(AX(Xx -> Xy) -> x =3D y)
+
+her, die in Konjunktion mit dem Obigen
+
+AxAy(x =3D y <-> AX(Xx -> Xy))
+
+ergibt?
+
+Du sprichst von einer "axiomatischen Identitäts-Charakterisierung" in
+der 2-stufigen Logik, analog zur 1-stufigen Logik. Doch was genau ist
+nun das Identitätsaxiom der 2-stufigen Logik?
+
+(a) AxAy(x =3D y -> AX(Xx -> Xy))
+oder
+(b) AxAy(x =3D y <-> AX(Xx -> Xy))
+
+Wenn Letzteres zutrifft, dann ist das Elsbosch-Prinzip irgendwie
+"hineingeschmuggelt" worden, weil dieses in der 1-stufigen Logik nicht
+als Axiom zu finden ist.
+
+Man beachte aber auch, dass Twillemeier bezüglich (b) von einer
+"second-order /definition/" spricht.
+Also was nun: Definition oder Axiom (oder beides)?
+
+Bitte kläre mich auf.
+
+
+Gewiss, gewiss.
+Doch worüber debattieren wie hier eigentlich?
+Du behauptest doch, dass sich (formal) zeigen lasse, dass es in der
+Black-Welt bzw. allgemein in jeder Welt mit zwei numerisch
+verschiedenen Objekten mindestens eine Eigenschaft gebe/geben müsse,
+die die das eine hat, das andere aber nicht -- auch wenn jene
+Eigenschaft sich nicht expressis verbis benennen lasse.
+
+Dann werde ich mir deine vorherigen Beiträge noch einmal genau
+ansehen, ob dort ein solcher Beweis wirklich zu finden ist.
+
+
+(Mit "definierbar" meinst du "konkret benennbar", nicht wahr?)
+
+
+Erstens, dass ich mich mit der Semantik der 2-stufigen Logik (noch)
+nicht hinreichend beschäftigt habe, heißt nicht per se, dass ich an
+diese "intellektuell nicht heranreichen" würde, wenn ich mich damit
+beschäftigte; und zweitens bin ich der Letzte, der die Modelltheorie
+/von Haus aus/ für philosophisch irrelevant hält, wobei ich
+allerdings in der Tat nicht der Meinung bin, dass sie /in jedem Fall/
+philosophisch relevant ist. -- Man kann auch ohne sie /clare et
+distincte/ denken!
+
+Gruß
+JOHANNES

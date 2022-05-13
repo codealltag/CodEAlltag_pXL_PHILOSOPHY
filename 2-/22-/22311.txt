@@ -1,0 +1,121 @@
+Er ist doch zweifelsfrei beides.
+
+
+Da muss ich momentan passen; ich bin aber bereit, das nachzuliefern. 
+Es ist eine Weile her, dass ich mich damit befasst hab, und ehrlich
+gesagt hats mich nicht sehr beeindruckt.
+
+Was willst Du denn damit? Ich beziehe mich in keiner meiner Äusserungen
+auf Thiericke, mit der Ausnahme, dass es einen analogen Begriff zur
+Kapselung auch in der Philosophie gibt.
+
+
+Das hier ist doch sehr eindeutig, oder etwa nicht?
+
+
+Sorry, nein. Gaspedal drücken meint: schneller! Bremse drücken meint:
+langsamer! Und nein, das ist nicht mehr "situationsabhängig" als bei
+jeder gekapselten Schnittstelle, die noch eine Statemachine
+implementiert.
+
+
+Ja, und? Da sind auch Exceptions in der Schnittstelle.
+
+
+Kapselung ist wesentlich, will man für das Applizieren von Mustern auf
+Objekte Aussagen treffen, was diese konkret bewirken. Denn Muster
+verbinden Objekte. Und wenn diese Objekte dann hauptsächlich
+Seiteneffekte erzeugen, ist eine Vorhersage des Gesamtverhaltens schon
+per Definitionem nicht möglich.
+
+Damit verliert eine Theorie über das Verhalten ihre Vorhersagekraft.
+
+[Statiker]
+
+Nein, aber zu Architekten und deren Unvermögen zu erkennen, dass Physik
+eben gerade nicht seiteneffektfrei ist, ganz im Gegenteil.
+
+
+"Ein Vier-Augen-Prinzip erhöht die Sicherheit" ist so platt formuliert
+schlichtweg falsch. Es ist so falsch wie "kauf eine Firewall, dann wird
+Dein Netz sicherer, Firewalls erhöhen die Sicherheit".
+
+Das ist naives Wunschdenken, aber keine Sicherheitsdiskussion.
+
+
+Damit bist Du völlig aussagelos geworden. Du sagst gar nichts mehr.
+
+
+Schlechtes Beispiel, denn ein Backup-System erhöht die Sicherheit gegen
+Datenverlust im Wesentlichen immer, aber das Vier-Augen-Prinzip erhöht
+"die Sicherheit" (gegen was denn bitte) eben nicht.
+
+
+Ich hab kein Problem mit dem Muster-Begriff. Der stört mich nicht.
+
+
+Das kann der Fall sein, oder auch nicht. Der Satz, das
+Vier-Augen-Prinzip habe Auswirkungen auf Kosten, ist so falsch.
+
+
+Nee, aber von mir aus. Ich dachte eher an Versicherungsprämien.
+
+
+Was ist die "handlungsempfehlende Komponente" der Mustertheorie, konkret
+bitte?
+
+
+Nett. Gibts auch irgendwas konkretes?
+
+
+Mich würde interessieren, was die Mustertheorie hier zu sagen hat.
+
+
+Gehts auch konkret, bitte?
+
+
+Im Gegenteil. Es ist doch gelungen klarzumachen, was ich mit
+Seiteneffekt meine, und dass das keinesfalls beliebige Nebeneffekte
+sind, sondern ganz bestimmte.
+
+
+Da hammer doch schon den ersten Denkfehler. Wie ordnet man Forscher denn
+in "besser" und "schlechter", bitte?
+
+
+Kurz: man gibt die Forschung auf, und definiert Ziele für eine
+Entwicklung.
+
+
+;-) Wie naiv.
+
+
+Mindestens, ja.
+
+
+Was kann sie denn bitte /konkret/ bieten?
+
+
+Vergiss es. Pure Emotion und Spekulation auf Emotion Dritter.
+
+
+Oja. Aber das wurde hier ja bereits ausführlich behandelt (und nicht nur
+hier).
+
+
+Der kritische Rationalismus verneint die Möglichkeit einer
+letztbegründenden Prüfung. Und damit liegt er wohl richtig.
+
+
+Nein. Aber das ist ja auch keine Definition, so what?
+
+
+Ich verwende, was funktioniert.
+
+
+Klar, man kann auch eine Idee haben und die ausprobieren.
+
+Viele Grüsse,
+VB.
+-- 
+Bitte beachten Sie auch die Rückseite dieses Schreibens!

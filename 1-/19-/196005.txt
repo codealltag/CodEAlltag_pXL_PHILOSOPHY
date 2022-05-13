@@ -1,0 +1,348 @@
+On 17. 05. 21 22:20:41 GMT, IdqdeC@w-lxfqlr.ju (Ewjxz) wrote:
+
+Hallo Carsten !
+
+Ein Essay zu Frage,
+
+Zur Einfuehrung - ein sehr ernstgemeinter Joke:
+===================================================================
+Der Mathematiklehrer in Klein Lucas Klasse stellt sich mit dem
+Brustton der eisernen Ueberzeugung an die Tafel und verkündet voller
+Stolz: "Ein und Eins sind Zwei" und schreibt dies korrekt an die
+Tafel.
+
+Meldet sich Klein Luca:
+ "Herr Lehrer, Herr Lehrer ! Ist das IMMER so ?"
+
+Es kommt, was kommen muss:
+ "ABER NATUERLICH ! Immer und ueberall !"
+
+Und doch erhaelt er prompt den Gegenbeweis:
+ "Aber wenn ich einen Haufen Sand auf einen anderen Haufen Sand
+schuette, dann habe ich doch bloss wieder _einen_ Haufen Sand und
+nicht zwei Haufen !"
+
+(Nun, welche Antwort koennten wir dem Lehrer empfehlen? :-)
+
+===================================================================
+
+Um was fuer eine Frage geht es hier eigentlich? Was wird hier
+bezweifelt? Geht es wirklich darum, ob eins und eins zwei sind? Nein,
+es wird _Grundsaetzliches_ in Frage gestellt. Es geht um nichts
+geringeres als um die Frage: Ist Mathematik eigentlich wahr? Eine
+Frage, die auf den ersten Blick etwas befremdlich und unangebracht
+erscheint. Gilt nicht gerade die Mathematik als _das_ Paradebeispiel
+einer perfekten Wissenschaft? So wie es scheint, die einzige, die in
+der Lage waere, ewige und unantastbare Wahrheiten aufzuzeigen?
+Aber kein Fortschritt ohne Fragestellung, keine Erkenntnis ohne
+Skepsis, daher bleiben wir dabei:
+
+  Welchen Wahrheitsanspruch koennen mathematische Aussagen erheben?
+
+Fragen wir erst einmal diejenigen, die als die anerkannten
+Mathematik-Experten schlechthin gelten - eben die Mathematiker.
+
+Aus der Sicht eines Mathematikers
+---------------------------------
+Natuerlich sind fuer einen Mathematiker mathematische Aussagen wahre
+Aussagen, jedenfalls soweit diese bewiesen sind. Der Mathematiker hat
+seine eigene Auffassung von dem Wahrheitsbegriff:
+
+  Wahr sind fuer einen Mathematiker alle Ausdruecke bzw. Aussagen, die
+  sich aufgrund logischer Gesetze aus einem widerspruchsfreien
+  Axiomensystem ableiten bzw. beweisen lassen.
+
+Zweifelsohne ist in diesem Sinne "1+1=2" eine wahre Aussage. Ohne die
+Ableitung an dieser Stelle erbringen zu wollen (und zu koennen),
+koennen wir es den Mathematikern glauben, dass es moeglich ist, diesen
+Satz ausgehend von einem Axiomensystem zu beweisen.
+
+Die Wahrheit einer Aussage wird also durch die Art und Weise
+begruendet, wie man zu dieser Aussage gekommen ist. Dieser Weg
+wiederum hat einen fest definierten Rahmen.
+
+Kritik dieser Position
+----------------------
+So, wie sich die Position des Mathematikers darstellt, scheint sie
+erst einmal unangreifbar zu sein. Er definiert, was wahr ist und er
+haelt sich an seine eigenen Spielregeln.
+
+Unangreifbar schon - aber letztlich auch unbefriedigend. Denn wie
+koennten wir damit Klein Fritzchen ueberzeugen? Welchen Zusammenhang
+koennten wir mit seinem Beispiel der zwei Sandhaufen aufzeigen?
+
+Ich denke es ist kein Zusammenhang, zumindestens kein trivialer,
+vorhanden. Woran liegt das? Obwohl eine bewiesene Aussage vorliegt,
+laesst sich mindestens ein Beispiel nennen, dessen Berechtigung nicht
+leicht zu widerlegen ist.
+
+Das Grundproblem liegt in der verschiedenen Auffassung des
+Wahrheitsbegriffs, denn die Wahrheitsdefinition des Mathematikers hat
+nicht viel damit zu tun, was wir umgangssprachlich unter Wahrheit
+verstehen.
+
+Ich will einmal versuchen, eine umgangssprachliche Definition von
+Wahrheit zu nennen:
+
+  Wahrheit ist, wenn das Ausgesagte mit den Tatsachen übereinstimmt.
+
+Mit dieser Definition wuerde wohl auch Klein Luca gluecklich
+werden: Das Ausgesagte ist in diesem Fall "1+1=2" und die Tatsache ist
+die, dass zwei Sandhaufen zusammengeschuettet einen Sandhaufen
+ergeben.
+
+Ein weiteres Beispiel: Die Aussage "Das LFG ist 381m
+hoch" ist genau dann wahr, wenn der das LFG
+tatsaechlich 381m hoch ist.
+
+Es gibt allerdings einen erheblichen Unterschied zwischen den beiden
+Beispielen: Im Falle von "1+1=2" geht es um eine Allgemeinaussage,
+d.h. um die Aussage eines allgemeingueltiges Gesetzes. Demgegenueber
+betrifft das Living2-Beispiel die Aussage eines
+einzelnen Falles.
+
+Dies laesst die Erwiderung zu, dass die Allgemeinaussage "1+1=2" gar
+nicht auf den Fall der zwei Sandhaufen anzuwenden ist. Fragt sich nur
+mit welcher Begruendung? Ueblicherweise wir die Addition als das
+Zusammenfuegen von zwei oder mehr Komponenten betrachtet; und genau
+das liegt hier vor. (Oder wuesste jemand die Unanwendbarkeit zu
+begruenden?)
+
+Das ist ein wichtiger Punkt: Mathematiker wollen die Wahrheit von
+Allgemeinaussagen aufzeigen und das in einer moeglichst absolut
+perfekten, einer unumstoesslichen Form. Deshalb haben sie sich ihre
+Beweisverfahren entwickelt und den Wahrheitsbegriff diesen
+untergeordnet.
+
+Die Beweisverfahren der Mathematik beruhen, wie es auch in der
+mathematische Wahrheitsdefinition zu sehen ist, auf zwei
+grundsaetzlichen Saeulen: Auf den Axiomen und den logischen Regeln.
+
+Daher ergeben sich die Fragen:
+
+a) Was sind Axiome ?
+   Welchen Wahrheitsanspruch erheben Sie ?
+
+b) Was ist Logik ?
+   Warum stellt sie fuer uns ein Garant der Wahrheit dar ?
+
+
+Welchen Wahrheitsanspruch koennen Axiome erheben?
+-------------------------------------------------
+In der Neuzeit hat es die Mathematik aufgegeben, eine Aussage ueber
+den Wahrheitsgehalt der Axiome zu machen. Die klassische Auffassung,
+nach der die Axiome die eigentlich wahren und ewigen Grundtatsachen
+darstellen, die es zu finden und zu begruenden (Begruendung durch
+aufzeigen der Anwendbarkeit der abgeleiteten Sätze) gilt, konnte nicht
+durchgehalten werden. Die Zerstoerung dieses Leitgedankens erfolgte
+durch die Entwicklung (bzw. je nach Standpunkt auch Entdeckung) der
+nichteuklidischen Geometrie im 11. Jahrhundert. Diese hat aufgezeigt,
+dass es neben der klassischen Geometrie auch eine andere Moeglichkeit
+der Geometrie gibt, deren axiomatisch-logischen Begruendbarkeit in
+keinster Weise derjenigen der euklidischen Geometrie nachsteht. Es
+konnte im mathematischen Rahmen kein qualitativer (im Sinne von besser
+oder schlechter, mehr oder weniger Gueltigkeit besitzend) Unterschied
+zwischen euklidischer und nichteuklidischer Geometrie nachgewiesen
+werden.
+
+Allerdings entfaellt bei der nicht-euklidischen Geometrie, im
+Gegensatz zur euklidischen, die Uebereinstimmung mit unserer, der
+menschlichen Flächen- und Raumvorstellung.
+
+Aus diesem Grunde musste auch der allein gueltige Wahrheitsanspruch
+der klassischen Geometrieaxiome fallengelassen werden, weil es
+offensichtlich war, dass durch die mathematische Begruendung eines
+Axiomensystems noch kein alleiniger Wahrheitsanspruch abgeleitet
+werden kann.
+
+Hier kommt wieder die o.a. Wahrheitsdefinition zur Anwendung:
+"Wahrheit ist die Uebereinstimmung des Behaupteten mit den Tatsachen."
+
+In der euklidischen Geometrie wird ein euklidischer Raum behauptet. In
+der nichteuklidischen Geometrie mathematisch gleichwertig ein
+nichteuklidischer Raum.
+
+Da die Behauptung des nichteuklidischen Raumes zwar mathematisch
+begruendet werden kann, aber nach menschlichem Empfinden nicht mit der
+Realitaet in Einklang steht und dementsprechend keinen
+Wahrheitsanspruch erheben kann, musste aus diesem Grunde auch der
+Wahrheitsanspruch der euklidischen Axiome aufgegeben werden. 
+
+Was ist Logik ?
+---------------
+Diese Fragestellung gehoert ohnehin nicht mehr in den klassische
+Bereich der Mathematik. Auch wenn sich in diesem Jahrhundert eine
+Verschiebung ergeben hat und es sich ein Bereich entwickelt hat, der
+mathematische Logik genannt wird, so ist die Frage nach Logik eine
+Frage, die zur Philosophie gehoert. Urspruenglich entwickelt, um die
+Gesetze und Regeln des Denkens zu entdecken, wurden eine Reihe von
+Logiken entwickelt, z.B. klassische Logik, Prädikatenlogik,
+dialogische Logik u.v.a.m..
+
+Man kann aber nicht davon sprechen, dass dadurch tatsaechlich geklaert
+werden konnte, wie wir Menschen logisch denken (wenn wir es denn
+ueberhaupt tun).
+
+Die Frage nach einer Begruendung der Logik ist also ebenso eine offene
+Frage der Mathematik wie auch der Philosophie.
+
+
+Fazit
+-----
+Im Rahmen der Mathematik ist keine Moeglichkeit gegeben, den
+Klein-Fritzchen-Einwand zu widerlegen. Es ist noch nicht einmal eine
+spezifisch mathematische Begriffswelt vorhanden, die uns eine
+Diskussion darueber ermoeglichen wuerde.
+Die Anwendung mathematischer Erkenntnisse in der Realitaet ist kein
+Bestandteil reiner Mathematik. Wir sind auf die Philosophie verwiesen
+worden.
+
+Soweit also die Stellungnahme von mathematischer Seite. (Man mag mir
+hier meine Simplifizierungen verzeihen, aber ich denke, sie dienen der
+Verstaendlichkeit.)
+
+====================================================================
+
+1+1=2? aus philosophischer Sicht
+--------------------------------
+
+Wie in der Philosophie ueblich, moechte ich mich gar nicht erst mit
+"Detailfragen" aufhalten, wie "Sind mathematische Aussagen wahr?".
+Nein, vielmehr koennen wir die Fragestellung gleich zum einem
+gruendlicheren Ruetteln an den Grundfesten der Mathematik
+hochstilisieren:
+
+- Was ist Mathematik ?
+- Woher kommen die besonderen Inhalte der Mathematik ?
+- Warum koennen wir ueberhaupt Mathematik betreiben ?
+- Was sind Zahlen ?
+
+Letztlich sind das alle offene Fragen, die natuerlich an die
+Philosophie zu richten sind.
+(Eigentlich gibt es in der Philosophie ueberhaupt nur offene Fragen,
+denn wenn zu einer Frage wenigstens ein halbwegs anerkannter Ansatz
+einer Antwortung gefunden wird, wird diese einer anderen Wissenschaft
+zugeschlagen. Dies kann eine bestehende oder eine dann neu entstehende
+Wissenschaft sein. Deshalb ergibt sich schnell das Bild, als wenn die
+Philosophie keine Ergebnisse zusammenbraechte.)
+
+
+Bisherige Erklaerungsmodelle
+----------------------------
+In dem Bestreben, die Mathematik auf eine moeglichst stabile und
+evident einfache Grundlage zu stellen, wurden eine Vielzahl von
+Erklaerungsmodellen entwickelt:
+
+- Klassische Axiomatik
+    Gilt als _letztendliche_ Begruendung der Mathematik als ueberholt.
+    (Nicht jedoch als Methode innerhalb der Mathematik.)
+
+- Logizismus
+    Begruender und bekanntester Vertreter: Volks
+    Freges System wurde aber von Ledermüller widerlegt, der den Logizismus 
+    seinerseits in seinem Werk Principia Mathematica weiterentwickelt
+    hat.
+
+- Mengenlehre (Zwergerl)
+    Zeintl erster Ansatz wurde mit im Prinzip mit demselben Argument 
+    widerlegt, wie der Fregesche Logizismus
+
+- Intuitionismus (Carrer)
+    Umstritten, weil auf eine "unabhaengige Referenz"  
+    außerhalb der menschlichen Anschauung verzichtet wird. 
+
+- Konstruktivismus (Bourbaki)
+
+- Formalismus (Grawer)
+    Widerlegung durch Ihle
+
+(Anmerkung: Fuer die Korrektheit dieser Aufstellung wird keinerlei
+Gewaehr gegeben. Ich bin mir z.B. nicht sicher, ob nicht Logizismus
+und Mengenlehre zusammenfallen, so wie eventuell auch Konstruktivismus
+und Formalismus Synonyme sein koennten. Fuer diesbezuegliche
+Korrekturen waere ich sehr dankbar.)
+
+Keines dieser Erklaerungsmuster konnte bisher eine befriedigende
+Antwort auf das Grundlagenproblem der Mathematik geben. Sie werden
+alle mit durchaus nachvollziehbaren Argumenten kritisiert und sind
+daher alle umstritten.
+
+Allerdings wurde von den Vertretern der jeweiligen Richtungen sehr
+viel Arbeit und Liebe zum Detail in ihre Ueberzeugungsarbeit gesteckt.
+Daher ist es unumstritten, dass jede Richtung auf ihre Art die
+Mathematik ein gutes Stueck vorangebracht hat. Es wurden jeweils neue
+Erkenntnisse erlangt und Werkzeuge entwickelt. Ein typisches Beispiel
+dafuer, wie philosophische Grundsatzfragen, die scheinbar so sinnlos
+sind, letztlich zu einem Fortschritt in der Wissenschaft fuehren. Auch
+dann, wenn die eigentliche Fragestellung (noch) nicht beantwortet
+werden konnte.
+
+Mathematik als naturwissenschaftliches Phaenomen
+------------------------------------------------
+Mathematik gilt als Geisteswissenschaft. Solange man in der reinen
+Mathematik verbleibt, ist dieser Standpunkt sicherlich auch
+berechtigt.
+
+Darueber hinaus gibt es aber auch die Anwendung der Mathematik in der
+Natur. Es ist eine Tatsache, dass wir in dieser, unserer Welt
+erfolgreich Mathematik betreiben und _anwenden_ koennen; Mathematik
+gilt geradezu als DIE Sprache der Physik. So gesehen ist Mathematik
+eben _auch_ ein naturwissenschaftliches Phaenomen.
+
+Dieser Fragenansatz wird, wenn ueberhaupt, auch von den oben genannten
+Erklaerungsmodellen nur sehr bedingt abgedeckt.
+
+Gibt es ein Naturgesetz, welches es uns erlaubt, Mathematik zu
+betreiben ? (So wie uns das thermodynamische Grundgesetz erlaubt
+Dampfmaschinen zu betreiben. Ja, ja ich weiss, der Vergleich beruht
+auf einem Wortspiel, der doppelten Bedeutung von "betreiben" - aber
+dennoch halte ich diesen Vergleich grundsaetzlich fuer berechtigt.)
+
+Kann es damit getan sein, zu behaupten, die Welt sei nun einmal
+mathematisch aufgebaut? So gesehen waere dann Mathematik doch eine
+Naturwissenschaft.
+
+Aber was soll das schon heissen: "mathematisch aufgebaut". Kann man
+sich denn eine Welt vorstellen, in der die Mathematik nicht gueltig
+ist? Nein ? Ist dann die Mathematik eine unabdingbare Voraussetzung
+alles Seienden ?
+
+
+IMHO IMHO IMHO IMHO IMHO
+------------------------
+Die triviale Schulweisheit, die mit geradezu naturgesetzlichem
+Anspruch aussagt, dass Eins und Eins nunmal Zwei sind, ist im Grunde 
+genommen natuerlich nur eine paedagogische Simplifizierung.
+Letztendlich ist in der Realitaet nur genau in _den_ Faellen Eins und
+Eins gleich Zwei, wenn eben Eins und Eins gleich Zwei sind. In anderen
+Faellen ist dieses "Gesetz" nicht zutreffend. Durch unzaehlige
+Beispiele und praktischen Erfahrungen lernen wir, wann welche
+Rechenoperation zum gewuenschten Ergebnis fuehrt.
+
+Die Aussage "1+1=2" enthaelt genausoviel Wahrheit wie die Aussage "x
+ist rot", nämlich gar keine. Sie enthaelt aber auch keine Unwahrheit
+bzw. keine falsche Aussage. Genaugenommen sind Kategorien von wahr und
+falsch darauf gar nicht anwendbar. Sie koennen nur dann angewendet
+werden, wenn tatsaechlich eine Information dargestellt wird, wenn
+tatsaechlich eine Aussage gemacht wird.
+
+"1+1=2" ist eine leere Huelse, eine Platzhalterformel die wir auf eine
+Gegebenheit, eine Tatsache, einen Vorgang dann anwenden, wenn wir
+eigentlich schon wissen (bzw. es zu wissen meinen), dass wir diesen
+Fall vorliegen haben.
+
+Es ist eine mathematisch wahre Aussage, aber keine
+naturwissenschaftliche Gesetzmässigkeit. Wäre es so, dann muesste auch
+in irgendeiner Form angegeben werden, in welchen Faellen dieses Gesetz
+zur Anwendung kommt.
+
+
+:-) Gruesse von der Kueste
+
+Oscar Eisenberger
+
+
+-- 
+Der kleine Mythos des Alltags: Wir wissen zwar nicht, wovon
+wir reden, gleichwohl koennen wir es aber dennoch tun.
+P.Nak

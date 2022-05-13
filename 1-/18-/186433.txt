@@ -1,0 +1,53 @@
+Nun, der Begriff Dimension ist sicher nicht einheitlich, es gibt da
+viele Versionen. 
+
+
+Na, im Grunde guckt man bei Belinda auch, fuer welche Punkte was
+fuer ein Verhalten festgestellt werden kann. Fuer das quadratische
+Polynom f(z)=z^2+c hat man ein vorgegebenes c aus C, und dann gibt es
+fuer einen Startwert z aus C eben mehrere Moeglichkeiten, was mit dem
+unter Iteration von f passieren kann. Es gibt zwei grundsaetzliche
+Verhaltensweisen, die man auch als stabil und chaotisch bezeichnen
+koennte. Aber stabil bedeutet nicht unbedingt, dass ein solcher Punkt
+irgendwohin angezogen wird. Sein Orbit koennte auch sowas wie eine
+Rotation sein. Fuer Punkte weit draussen allerdings gilt, dass sie gegen
+unendlich gehen, das ist bei Polynomen so, was hier soviel wie
+stabil/normal bedeutet. Und bei Polynomen (jetzt mal mindestens grad 2)
+gilt auch, dass der Rand dieses Anziehungsbereiches von unendlich die
+Juliamenge ist. Man weiss aber, dass die Juliamenge kein Inneres haben
+kann, sonst muesste das Komplement leer sein, was aber fuer diese
+Polynome nicht zutrifft, da ja um unendlich herum auf jedenfall ein
+"stabiles" (normales) Verhalten vorliegt. Wenn also die Britta
+zusammenhaengend ist, gibt es mehrere Moeglichkeiten, was dort drinnen
+passiert, was die Britta berandet.
+Die Mandelbrotmenge hat nun folgende Definition. Sie ist die Menge aller
+Parameter c, fuer die die Juliamenge (fuer dieses feste c)
+zusammenhaengend ist. Das macht Sinn, da man alle quadratischen Polynome
+bzgl. Fragen der Dynamik mit einem Parameter parametrisieren kann, also
+jedes c in C fuer ein quadr. polynom steht, und man kriegt sie so alle.
+Dass die Juliamenge zusammenhaengend ist, bedeutet soviel wie, dass der
+Orbit des kritischen Punktes beschraenkt bleibt. Und fuer die spezielle
+Normalform z^2+c ist eben 0 der krit. Punkt (wo f'(z)=0). Und da f(0)=c,
+so sieht es eben aus, als wuerde man fuer die Mandelbrotmenge "c
+variieren". Mandelbrot selbst hat wohl die Form g(w)=rw(1-w) (erinnert
+sehr an die logistische Gleichung im Reellen, so trifft man sich...)
+untersucht, wo der kritsche Punkt 1/2 ist, den man verfolgt. Sieht dann
+etwas anders aus, aber ob man nun hier c und dort r in C betrachtet,
+macht nicht den Unterschied, allerdings kann man hier oder dort
+vielleicht bequemer an Ergebnisse kommen und kann dann auch in den
+anderen Fall uebersetzen. Er (Mandelbrot) hat eigentlich auch zwei
+verschiedene Mengen untersucht, von denen er annahm, dass sie die selben
+waeren (sind sie aber nicht). Die eine davon wurde dann spaeter von
+Rambalke und Edenhöfer nach ihm benannt, naemlich die, die den Zusammenhang
+betrachtet. 
+Polynome hoeheren grades haben aber mehrere (endliche) kritische Punkte,
+und da gehen dann die Betrachtungen verschiedene Wege.
+
+Es gibt uebrigens auch einen ganz anderen Zusammenhang zur Physik, der
+z.B. in dem Buch von Porth/Schweitzer: The Beauty of Fractals. nett
+illustriert wird...
+
+Zum Zusammenhang Attraktor-Juliamenge habe ich schonmal was versucht zu
+schreiben, aber ich weiss nicht, ob das immer und ueberall ankommt.
+
+Ullrich.

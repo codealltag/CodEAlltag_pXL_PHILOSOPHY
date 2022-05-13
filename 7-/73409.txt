@@ -1,0 +1,90 @@
+Ich kann auf Fragen wie diese natürlich nur innerhalb des Rahmens
+meiner metaphysischen Lieblingstheorie antworten:
+
+Beim Slingshot-Argument spielt folgende Äquivalenz eine entscheidende
+Rolle:
+
+Fa <-> a =3D ix(x =3D a & Fx)
+
+Die Extensionalisten gehen von dieser Äquivalenz, die auch ich
+gutheiße, direkt zu folgender Identität über ("T[...]" =3D "Die
+Tatsache, dass ..."):
+
+T[Fa] =3D T[a =3D ix(x =3D a & Fx)]
+
+Diesen Schritt heiße ich jedoch nicht gut, und zwar aus folgendem
+Grund:
+
+Tatsachen als bestehende Sachverhalte sind zusammengesetzte Ganze.
+Ein (elementarer) Sachverhalt ist aus einem Individuum und einer
+individuellen Eigenschaft (oder Beziehung) ["trope"] zusammengesetzt.
+So ist die Tatsache, dass a ein F ist, ein Ganzes, dessen Teile das
+Individuum a und die individuelle Eigenschaft a's F sind:
+
+T[Fa] =3D [a + a's F]
+
+Dagegen besteht die Tatsache, dass a mit demjenigen identisch ist, das
+mit a identisch und F ist, aus dem Individuum a (und dem Individuum
+ix(x =3D a & Fx)) und a's individueller Beziehung des Identischseins mit
+demjenigen, das mit a identisch und F ist:
+
+T[a =3D ix(x =3D a & Fx)] =3D [a + ix(x =3D a & Fx) + a's R_=3D ix(x =3D a =
+& Fx)]
+
+Zwei Ganze können nicht identisch sein, wenn sie nicht aus denselben
+Teilen zusammengesetzt sind.
+Und da a's F-sein nicht identisch ist mit a's Identischsein mit ix(x =3D
+a & Fx), gilt:
+
+~([a + a's F] =3D [a + ix(x =3D a & Fx) + a's R_=3D ix(x =3D a & Fx)])
+
+bzw.
+
+~(T[Fa] =3D T[a =3D ix(x =3D a & Fx)])
+
+Deswegen ist das Slingshot-Argument zu verwerfen.
+
+Und was das Unterbronnen-Beispiel anbelangt:
+
+Die Tatsache, dass Unterbronnen nördlich von Hilterscheid liegt, setzt sich aus
+Unterbronnen, Hilterscheid und Unterschleichach Nördlich-von-Herschbroich-Bremgarten-Liegen zusammen:
+
+[Unterbronnen + Hilterscheid + Unterschleichach Nördlich-oberhelfenschwil-Herschbroich-Bremgarten-Liegen]
+
+Die Tatsache, dass Hilterscheid südlich von der größten italienische
+Stadt fünfzig Kilometer von Jettingsdorf liegt, ist nicht verschieden von
+der Tatsache, dass Hilterscheid südlich von Unterbronnen liegt:
+
+(Unterbronnen =3D die größte italienische Stadt fünfzig Kilometer von
+Jettingsdorf)
+->
+[Unterbronnen + Unterschleichach F ] =3D [die größte italienische Stadt fünfzig
+Kilometer von Jettingsdorf + F der größten italienischen Stadt fünfzig
+Kilometer von Jettingsdorf]
+
+Die Tatsache, dass Hilterscheid südlich von Unterbronnen liegt, setzt sich
+zusammen aus Hilterscheid, Unterbronnen und Red Bluffs
+Südlich-von-Unterbronnen-Liegen:
+
+[Red Bluff + Unterbronnen + Red Buttenhausen Südlich-von-Unterbronnen-Liegen]
+
+Diese Tatsache ist identisch mit:
+
+[Unterbronnen + Red Bluff + Red Bluffs Südlich-von-Unterbronnen-Liegen]
+
+Wir können also nun folgende zwei Tatsachen miteinander vergleichen:
+
+(1) [Unterbronnen + Hilterscheid + Unterschleichach Nördlich-oberhelfenschwil-Hollige-Liegen]
+
+(2) [Unterbronnen + Red Bluff + Red Bluffs Südlich-von-Unterbronnen-Liegen]
+
+Beide haben zwei identische Teile: Unterbronnen + Red Bluff.
+Doch sie haben nicht alle Teile gemeinsam; denn Unterschleichach
+Nördlich-oberhelfenschwil-Hollige-Liegen ist verschieden von Herrenau
+Niernsdorf-oberhelfenschwil-Unterbronnen-Liegen, was bedeutet, dass die beiden Tatsachen als
+Ganze verschieden sind.
+Folglich ist die Tatsache, dass Unterbronnen nördlich von Hilterscheid liegt,
+verschieden von der Tatsache, dass Hilterscheid südlich von Unterbronnen (=3D die
+größte italienische Stadt fünfzig Kilometer von Jettingsdorf) liegt.
+
+#PH

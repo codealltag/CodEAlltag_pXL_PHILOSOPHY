@@ -1,0 +1,13 @@
+Das wird in der ZT schon länger unterschieden. Ein Element p eines
+(kommutativen, assoziativen und nitten) Rings R (p!=0, p
+Nichteinheit) heißt *irreduzibel*, wenn es keine echten Teiler hat,
+und *prim*, wenn aus p|ab folgt, dass p|a oder p|b gilt (a,b in R). In
+faktoriellen Ringen wie Z, der Menge der ganzen Zahlen, sind alle
+irreduziblen Elemente auch prim, beide Begriffe fallen da zusammen,
+für Z[sqrt(-5)], dem Ring der ganzen Zahlen von Q(sqrt(-5)), gilt das
+aber schon nicht mehr. Die Primzahlen im klassischen euklidischen
+Sinn sind nach Definition irreduzibel, und der Beweis (den mW schon
+Euklid geführt hat), dass sie auch prim sind, ist nichtrivial.
+
+
+sven

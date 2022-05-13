@@ -1,0 +1,61 @@
+Am 05.09.01 schrieb Gian Pfohl:
+
+
+Ein Entwicklungsprozesse ist ein ganz besonderes Phänomen, bei dem man 
+nicht mal genau sagen kann, wie alles angefangen hat. (Beispiele: Evolution,
+Entwicklung von Sprache und Technik..). Ein Schritt baut auf dem anderen 
+auf, und je mehr Schritte absolviert sind, um so mehr ist verfügbar, um
+darauf aufzubauen. 
+
+Es beginnt damit, dass ein Kleinkind ein großes, sich bewegendes, wohltuendes 
+Etwas mit den Lauten "Mama" verbindet. Mit 3 oder 4 Jahren kann es sprechen,
+aber warum soll es dann noch 12 Jahre in die Schule gehen?
+
+
+Sag dies mal jemandem, der direkt aus dem Urwald kommt (Übersetzungs-
+probleme mal ausgeklammert). Der kann mit den Worten "Kanzler", "Bundes-
+republik" und "Deutschland" absolut nichts anfangen. Er muss dazu erst
+einen Bildungsprozess durchlaufen, den du allenfalls im Schnellverfahren
+vermitteln kannst. 
+
+
+Nein, jeder muss für sich selbst den Ausdrücken entsprechende Bedeutungen
+zuordnen. Das ist der Lern- und Bildungsprozess, den jeder Mensch durch-
+laufen muss, um sich mit anderen verständigen zu können. 
+
+
+Wir sagen oft: "über die genaue Bedeutung dieses Begriffes müssen wir
+uns erst noch verständigen". Das zeigt doch deutlich, dass die Begriffe
+bei verschiedenen Menschen eben nicht identisch sind.
+
+
+Eine Gleichheit der Bedeutungen kann nur durch einen Bildungsprozess
+erzielt werden. Je komplexer ein Begriff ist, um so weniger wirst du 
+eine Gleihcheit bei einzelnen Individuen feststellen können - allenfalls
+eine mehr oder weniger große Gemeinsamkeit. Sonst gäbe es unter den
+Menschen ja gar keine Verständigungsprobleme. 
+
+
+"Automat" ist sozusagen der Minimalkonsens über alle möglichen Automaten.
+Ein solcher Konsens enthält Konstanten, die bei allen Automaten gleich
+sind, und Variable, also Möglichkeiten, die bei den einzelnen Instanzen
+und Typen unterschiedlich ausfallen können.
+
+Jeder konkrete Automat oder spezialisierte Automatentyp enthält diesen
+Minimalbegriff plus genauere Spezifikationen. Darüberhinaus beinhaltet
+dieser konkrete Automatenbegriff *keine* Spezifikationen anderer
+Automaten/-Typen.
+
+HEIKE> Das alles läuft darauf hinaus, dass Bedeutungen keine Dinge in
+GÜNTER> unserem Gehirn sind, sondern etwas ganz anderes.
+
+Ich sehe kein Erfordernis, da irgend etwas anderes anzunehmen.
+
+Etwas ganz anderes ist die Frage, ob Funktionalität (z.B. Gesetzmäßigkeit)
+unabhängig von unserem Gehirn vorhanden ist, ebenso wie etwa ein Apfel oder
+ein Kanzler, nur auf einer "anderen Ebene der Realität" (ich meine: ja).  
+
+In jedem Falle ist es aber erforderlich, dass wir uns - jeder für sich -
+eine Vorstellung davon machen, um darüber zu reden. 
+
+Jérôme

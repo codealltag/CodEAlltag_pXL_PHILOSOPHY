@@ -1,0 +1,39 @@
+1. Gottfried Axiom: "Fehlerfreies Denken führt nicht zwingend zu
+fehlerfreien Resultaten"
+
+  Wenn ich "fehlerfreies Denken" als logikgetreues Denken verstehe, wenn
+also zwingende Wahrheit deduktiver Syllogismen nicht mit der
+"M�glichkeitslogik" von Induktionen verwechselt wird, dann sind die
+Resultate dieses Denkens logik-intern per definitionem wahr und somit
+fehlerfrei.
+  Ein Problem sehe ich in der Definition eines fehlerfreien Resultats: Ist
+ein solches, (1) eines bei dem logische Schlussfolgerung und Realität nicht
+übereinstimmen, oder ist (2) eines, bei dem die logische Schlussfolgerung in
+einer Paradoxie endet und sich selbst negiert?
+
+  (1) ist nicht möglich, da die per definitionem-Wahrheit der Logik folgert,
+dass mindestens eine der Prämissen falsch war. (Beobachtung der Planeten ->
+Erde dreht sich um Sonne nicht andersrum)
+
+  nach (2) folgert man also, dass ein fehlerfreies Resultat logikintern zwar
+resultiert, aber sich in der Realität aufgrund einer Paradoxie nicht möglich
+ist.
+
+  Beispiel:
+  praemissa major: *berühmter Denker* ist Vollern.
+  praemissa minor: *berühmter Denker* sagt: "Aller Vollern sind Lügner"
+
+  conclusio: a) *ber�hmterDenker* ist ein Lügner
+                  b) *ber�hmterDenker* ist kein Lügner
+
+  Sowohl a) wie auch b) sind einzeln für sich genommen nicht hinreichend
+wahr, das logische Resultat wäre wohl "a) + b)", was aber ausschließt und
+somit keinesfalls ein fehlerfreies Resultat sein kann. Auch eine
+Resultatlosigkeit als Resultat ist wohl nicht fehlerfrei.
+
+  Somit habe ich mit (hoffentlich) fehlerfreiem Denken bewiesen, dass
+fehlerfreies Denken UNTER Umständen fehlerhafte Resultate hervorbringen
+kann, und zwar genau dann, wenn das Resultat paradox ist.
+
+
+man

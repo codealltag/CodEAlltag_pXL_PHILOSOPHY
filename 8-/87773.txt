@@ -1,0 +1,42 @@
+Hallo Eberhard,
+
+
+In <3v2cjcBnkgi7Z8@dbfkizsfrk.bqj> schriebst Du gegenüber Luciano, ein Symbol
+wie 'I' könne in zweierlei Hinsicht aufgefaßt werden: 1) in syntaktischer 
+Perspektive als 'Prädikat' oder 'sprachlicher Ausdruck', und 2) in
+semantischer Perspektive als eine 'Eigenschaft' oder 'Universalie'.
+
+Die zweistellige Relation leben(,) oben faßt Du in semantischer Perspektive
+sicher genau wie die einstelligen Formen I() und Zeitraum() als
+'Eigenschaften', als 'Universalien' auf. Diese zweistellige Relation
+interessiert mich. Ohne diese, also nur durch
+
+        Ex Et I(x) & Zeitraum(t) & t=Mesozoikum
+
+wäre dem I-Ding x noch gar keine Zeitbestimmung gegeben, es wäre nur
+erklärt:
+        Es gibt ein Ding x für das gilt: Es gibt ein Ding t für das gilt:
+        x ist ein I. UND t ist ein Zeitraum UND t=Mesozoikum.
+
+Die durch den Existenzquantor "Ex" ausgedrückte 'logische Existenz' wird
+nach Deinen Worten ja als zeitlose gedacht, und der Merkmalskatalog I()
+soll keine Zeitbestimmung enthalten. Ein x-t-Zusammenhang, die Existenz von
+x *zu einer bestimmten Zeit*, wird erst durch die zweistellige Relation
+leben(x,t) formal hergestellt. Nun denkt man sich bei "leben", bei diesem
+Wortklang, noch so allerlei und ist leicht vertan, aber nicht jedes Ding
+(logisches Individuum) lebt, z.B. ein Atom, und existiert doch zu einer
+bestimmten Zeit. So meine Frage, welche Relation -- welchen "Wortklang" --
+würde/müßte/könnte man minimal dort anschreiben? Mir kam als erstes
+"vorkommen" in den Sinn, aber das ist eigentlich auch nur ein verkleidetes
+"existieren", so ist das Minimum wohl
+
+        Ex Et I(x) & Zeitraum(t) & t=M & existieren(x,t)
+
+Man hat eine zeitlose 'logische Existenz' und benötigt nun zudem noch
+eine zweistellige Relation (Universalie?) namens "Existieren", die erfüllt
+werden kann nur mit einem -- 'zeitlos' existierenden -- Ding namens
+"Zeitpunkt" oder "Zeitraum" als zweitem Argument. Denkt man sich das so?
+
+
+Größe
+Timo

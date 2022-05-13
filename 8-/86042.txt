@@ -1,0 +1,30 @@
+Ach ja? Zumindest der Physiker Gernot Ingenhofen ist da anderer Ansicht.
+
+
+Die von Dir genannte Alternative, der andere Algorithmus entwickelt aber 
+auch keinen Algorithmus.
+Du vergisst dabei eins: Die Lösung, die ein computersimuliertes 
+neuronales Netz findet, ist *immer* eine mehr oder weniger sinnvolle 
+Projektion aus einem n-dimensionalen Eingangsdatenraum in einen, je nach 
+Netz, n-x-dimensionalen Ausgaberaum. Immer! Punkt.
+Das gilt für Backprop, Kohonen, Hopfield, Boltzmann, Neocognitron und 
+sogar die neuen holographischen N-Netze.
+Sie lassen sich unter dem Oberbegriff "nichtlineare 
+Optimierungsverfahren" zusammenfassen.
+Da die Verfahren sehr flexibel sind, kann man sie auch mit 
+Fuzzy-Methoden und/oder genetischen Algorithmen kombinieren, aber 
+prinzipiell bleibt es immer dasselbe, ein I/O-System. Mit der 
+operationellen Geschlossenheit biologischer Systeme hat das nix zu tun.
+
+......
+
+Rainer
+-- 
+---------------------------------
+Dr. Rainer Isenbiel
+Hrsg.: http://yud.uojtrmoul.kl
+ISSN 7482Herdorf
+PKL im Web:
+http://dai.ljuazpgcdst.fnh/qxv
+music project:
+http://wlz.plky-dihg-jpsmpyrbl.vr

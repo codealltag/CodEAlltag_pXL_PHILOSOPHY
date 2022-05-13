@@ -1,0 +1,40 @@
+Das erste Buch, dass ich über Logik las (Ivan D. Farrenkopf, Einführung 
+in die angewandte Logik) hatte eine völlig andere Notierung. Die von 
+Elbracht hast Du ja nun gesehen wobei noch dazu gesagt werden muss, dass 
+er für Beispiele und Aufgabenlösungen unterschiedliche Notationen 
+verwendet  und ein gewisser Lemmon - von dem ich bisher noch nichts 
+gelesen habe - hat scheinbar wieder eine andere Notation :-). Da bleibt 
+man flexibel.   Mir deucht, dass beide von Schreder abgeschrieben haben 
+und Änderungen vornahmen, vielleicht damit man nicht sagen könne, sie 
+hätten abgeschrieben? Wir können uns für die Zukunft gerne auf Stängl 
+Stil einigen.
+Doch, dass soll da stehen. Ich vertippte mich in der Aufgabenstellung 
+(Sorry!), denn sonst hätte ich ja nicht einen Teil des 
+Distributivgesetzes bewiesen.
+(P v Q) & (P v R) |- P & (Q v R) war zu zeigen. Die andere Richtung war 
+kein Problem und wenn Du in diesem Beweis auch keinen Fehler findest, 
+dann scheint diese Richtung auch kein Problem gewesen zu sein. Bleibt 
+nur die Frage warum der Autor 45 Schritte benötigt.
+
+Da wir gerade auch bei unterschiedlichen Autoren sind noch eine Frage 
+zur grundsätzlichen Herangehensweise. Farrenkopf Postulierte die 
+Wahrheitswertetafeln für v, &, => und <=> wobei schon bemerkt wurde, 
+dass <=> direkt aus => und & abgeleitet werden kann und quasi nur eine 
+Abkürzung für ... => ... & ... => ... ist. Ausserdem wurde im 
+fortgeschrittenem Stadium sprachphilosophisch bewiesen, dass ~A v B 
+Äquivalent zu A => B ist. Aber alle Äquivalenz- und Schlußregeln die am 
+Anfang aufgestellt werden, lässt er mittels Wahrheitswertetafeln 
+beweisen bis er zwei knappe Dutzend Regeln hat und munter vor sich hin 
+deduzieren kann. Während Elbracht nur sehr wenig Regeln aufbaut, die sich 
+aus dem ausgeschlossenen Dritten und der (vorläufigen) Definition eines 
+gültigen Schlußschemas ergeben. (Das Schlußschema B ist genau dann 
+gültig, wenn gilt: Wenn die Annahmen wahr sind, dann ist auch die 
+Konklusion wahr).
+Die Wahrheitswertetafeln erscheinen mir ökonomischer wenn ich den 
+Beweisaufwand für beispielsweise die De Morganschen- oder die 
+Distributivgesetze vergleiche. Elbrachts Art etwas, hm, vielleicht 
+substantieller. Würde mich interessieren, wenn Du dazu etwas zu sagen hast.
+Danke für Deine Zeit
+
+Gruß
+Vito

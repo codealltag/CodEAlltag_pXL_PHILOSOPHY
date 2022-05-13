@@ -1,0 +1,43 @@
+Hallo Marcel!
+
+AS> Das Buchhaltungsbeispiel hast du Vergessen?
+
+???
+
+AS> Ist 1/0 ein Axiom? Wenn nicht aus welchen Axiom leitest Du ab,
+AS> dass Du nicht durch 0 teilen darfst?
+
+Ich bilde mir ein, dass das schon einige geschrieben haben, aber von
+mir aus...
+
+Sei 1/0 definiert, zum Beispiel 1/0 =(def) A.
+
+Daraus ergibt sich (da die Division als Umkehrung der Multiplikation
+definiert ist) 0 * A = 1 (Gleichung 1).
+
+Ich darf hier beide Seiten mit 2 multiplizieren (Multiplikation ist
+eindeutig und immer durchfuerhbar); daraus ergibt sich
+
+2 * (0 * A) = 2 * 1
+
+Assoziativgesetz der Multiplikation macht daraus
+
+(2*0)*A = 2 * 1
+
+Da 2*0=0 und 2*1=1, ergibt sich
+
+0 * A = 1 (Gleichung 2)
+
+Da fuer die Gleichheit Transitivitaet gilt, ist also durch
+Gleichsetzung der Gleichungen 1 und 2
+
+1 = 2
+
+Dies ist ein Widerspruch zu 1<2.
+Also fuehrt die Annahme, 1/0 ist definiert, zu einem
+Widerspruch. Somit ist die Annahme falsch und das Gegenteil (1/0 ist
+nicht definiert) richtig.
+
+Welches der verwendeten Gesetze zweifelst Du denn an?
+
+Robin

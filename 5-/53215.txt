@@ -1,0 +1,39 @@
+Mag sein, wer versteht schon allzuviel von etwas, ändert nichts daran, 
+dass die Frage, wer nun lügt, du oder die Mathematiker im Raume stehen. 
+Entweder es gilt, dass innerhalb der komplexen Zahlen ein "<" sich nicht 
+angeben lässt, dann hilft deine Behauptung von c1 zu c2 in den Relationen 
+nichts, oder aber die Mathematiker lügen in dem speziellen Fall. Ich 
+vertraue einfach darauf, dass Fachwissenschaftler die Wahrheit sagen und 
+ich habe kein Problem, wenn einer Fachwissenschaft widersprochen wird. 
+Allerdings waren deine Argumente für mich nicht so überzeugend, dass ich 
+jetzt davon ausgehe, dass die Mathematiker lügen.
+a) X hat ein Modell. Dann ist dieses (trivialerweise) auch ein Modell 
+einer jeden endlichen Teilmenge von X. Da eine Herleitung in einem 
+formalen System (siehe Dittrich) endlich ist, können in dieser Herleitung 
+auch nur endlich viele Formeln aus X verwendet worden sein. Also ist aus 
+einer endlichen Teilmenge von X ein Widerspruch herleitbar, und diese 
+besitzt somit kein Modell. Widerspruch!
+b) Wenn es zu einem Widerspruch führt, dann ist es kein Satz der 
+Mathematik mehr. 
+
+Es ist also irrelevant, ob ich was von Mathematik verstehe, es langt 
+vollkommen aus, deinen Widerspruch aufzuzeigen. Entweder Relationen von 
+"<" lassen sich in |C angeben, dann könntest du |C entsprechend ordnen, 
+wie du vorschlägst oder aber es ist nur eine Quasiordnung, die wohl den 
+meisten Menschen genügen wird. Dein "sowie" hilft dir da nicht raus, da 
+sich meines Wissens nach (ich lasse mich gerne belehren, da ich kein 
+Mathematiker bin und mein Wissen diesbezüglich garantiert unvollständig 
+ist) keine vollständige Ordnung von |C angeben lässt. da du mit "Tensoren 
+daraus" aber einen Rückgriff auf den ersten Teil nimmst, müsste erstmal 
+der erste Teil geklärt sein, bevor du mir einfach unterstellst, ich würde 
+zu unrecht Quotenmardern. Ich habe zunächst nur den ersten Teil 
+kritisiert, weil sich meines Wissens eben keine vollständige Ordnung der 
+komplexen Zahlen angeben lässt. 
+
+Wie ich ja schon angeboten haben, bin ich mit einer "Quasiordnung", 
+"Halbordnung" usf. zufrieden, wenn du aber darauf bestehen solltest, dass 
+du |C vollständig für jedes c geordnet hättest, dann müsstest du das 
+zeigen. 
+
+EOD,
+Hinrich

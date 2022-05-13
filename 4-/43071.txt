@@ -1,0 +1,8 @@
+Na klar, das geht mit ganz normalem pattern matching. 
+
+Sowas wird schon längst z.B. zur Erkennung von Verkehrsschildern 
+(aus allen möglichen Perspektiven und bei jedem Wetter) u.v.a.m. 
+verwendet, dazu wird keine "Kreativität" benötigt, was immer 
+das "algorithmisch" sein soll (im Sinne von pattern matching wohl 
+so etwas wie ein weites Abschweifen von der Norm, kostet natürlich 
+Rechen- bzw. Neuromustertrainings- Zeit).

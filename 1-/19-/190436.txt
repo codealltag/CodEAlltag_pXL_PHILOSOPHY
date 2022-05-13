@@ -1,0 +1,32 @@
+Hi Nelly:
+
+
+Die Mutationen bei evolutionaeren Algorithmen werden allerdings sehr
+wohl auf der Grundlage von Zufallszahlen durchgefuehrt, zwar
+Quasizufallszahlen, aber das war wohl nicht Dein Punkt der Kritik.
+Jedenfalls lassen diese (bei geeigneter Qualitaet) eine Analyse der
+Verfahren mit Mitteln der Wahrscheinlichkeitstheorie zu.
+
+
+???
+
+
+Nun es kommt wohl darauf an, was man unter "Intelligenz" versteht.
+Wenn man damit Problemloesungsfaehigkeit (auch im formalen SInne)
+meint, koennen diese Verfahren durchaus mehr als bekannte
+deterministische in entsprechenden Problemdomains.
+
+
+Allerdings lassen sich die Problemloesungseigenschaften dieser 
+Verfahren auch theoretisch nachweisen. Fuer Feedforwardnetze, die
+uebrigens durchaus deterministisch arbeiten, gibts beispielsweise
+Aussagen ueber deren (approximative) Berechnung beliebiger
+stetiger Funktionen. Fuer evolutionaere Algorithmen gibt es
+Konvergenzanalysen auf Grundlage von Markov-Ketten-Modellen, mittels
+Konzepten der stochastischen Konvergenz usw., die schon eine
+spezifische Leistungsfaehigkeit dieser Verfahren zeigen. 
+Dennoch ist es natuerlich sehr angenehm, Methoden zu haben, die
+irgendwie funktionieren, wenn man selbst das Problem nicht richtig
+verstanden hat. Wenn das mal nicht Intelligenz ist....
+
+Gruss, Charly.

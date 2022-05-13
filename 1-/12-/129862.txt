@@ -1,0 +1,21 @@
+Hallo Dario!
+
+
+Ich bin davon ausgegangen, dass ein Kuenstliches Neuronales Netz
+/grundsaetzlich/ einen Algorithmus darstellt. Es ist doch als ein
+spezieller mathematischer Algorithmus definiert.
+
+
+Die "praktische Programmierbarkeit" ist dabei ein ganz anderes
+Problem; auch eine Turingmaschine ist nicht notwendig "praktisch
+funktionsfaehig". 
+
+Beides sind mathematische Modelle mit den daraus folgenden
+Einschraenkungen.
+
+
+Siehe meine Mail an Waltraud: Die Kritik am Funktionalismus mit dem
+Argument, Turingmaschinen (als State Machines) waeren nicht
+lernfaehig, Kuenstl. Neur. Netze jedoch waeren es.
+
+Pascal

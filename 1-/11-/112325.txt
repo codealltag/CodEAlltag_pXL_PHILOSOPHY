@@ -1,0 +1,247 @@
+Ja, das ist ja schön und gut, Du ZITIERST hier aber nicht den Ausdruck,
+sondern BENUTZST ihn. Wenn Du also AUCH noch DIESE Unterscheidung lernen
+würdest, wäre das schon ein Fortschritt.
+
+Eben schon. :-)
+
+Herr im Himmel! Der Blinde will uns Sehen lehren! :-(
+
+Ja, aber NUR, wenn dem so wäre, das ist eben bei Diterich NOCH NICHT gegeben
+(erst NACH dem linguistic turn).
+
+Was Du  m e i n s t, wäre die Aussage:
+
+	Sätze die den Ausdruck "das Ding an sich" (oder "die Dinge an
+	sich", oder ähnliche) enthalten, sind eigentlich bedeutungslos.
+
+Oder in den Worten Gätcke:
+
+	"Die richtige Methode der Philosophie wäre eigentlich die:
+	 Nichts zu sagen, als was sich sagen läßt, also Sätze der 
+	 Naturwissenschaft - also etwas, was mit Philosophie nichts 
+	 zu tun hat -, und dann immer, wenn ein anderer etwas
+	 Metaphysisches sagen wollte, ihm nachzuweisen, daß er
+	 gewissen Zeichen in seinen Sätzen keine Bedeutung gegeben hat.
+	 [...]"
+
+Das ist definitiv richtig. Oder Besser: es wird in diesem Urteil AUF die
+Dinge an sich und nicht den AUSDRUCK "die Dinge an sich" Bezug genommen.
+D a s ist eben die Situation V O R dem ling. turn.
+
+Allerdings... Es handelt sich in der Tat nur um ein Mäuschen...
+
+Unsinn. Du sagst zwar nicht was drinnen ist, immerhin sagst Du etwas,
+was auf diesen Inhalt VERWEIST, nämlich, dass man Über IHN nicht
+urteilen könne. Im übrigen ist der Satz ohnehin falsch. So kann man z.
+B. über den Inhalt sagen, dass seine Ausdehnung "notwendigerweise" nicht
+größer als die Ausdehnung der Kiste sein kann! Man kann die Kiste auch
+WIEGEN und daraus schließen, dass das Gewicht des Inhalts der Kiste
+nicht größer sein kann, als das so ermittelte Gewicht, usw. usf. (Gell,
+da staunst.)
+
+Aber wir müssen hier mal ein wenig Boden unter den Füßen gewinnen, und
+nicht bloß sinnlos rumschwafeln. (Dazu vereinfache ich Deinen etwas
+allgemeinen Beispielsatz ein wenig; die Problematik bleibt aber m. E.
+dabei weitgehend gleich.)
+
+Entscheidend ist, dass in dem Satz 
+
+	"über den Inhalt dieser geschlossenen Kiste, kann man nicht
+	 urteilen."
+
+"der Inhalt dieser geschlossenen Kiste" (in der Form "den Inhalt dieser
+geschlossenen Kiste") ein Term bzw. ein Name ist, der sich eben GENAU
+AUF den Inhalt der geschlossenen Kiste bezieht. M.a.W. wir haben es hier
+mit einem Ausdruck der Form
+
+	Pa
+
+zu tun, mit:
+
+	 a : der Inhalt Inhalt dieser geschlossenen Kiste.
+	Px : über x kann man nicht Urteilen.
+
+Mit anderen Worten, das Prädikat P wird dem (logischen) Objekt a
+zugesprochen.
+
+Unsinn. (Aber ich gestehe D i r zu, dass Du das wohl gerne so sehen
+möchtest... :-)
+
+Dazu müsstest Du schon einen Ausdruck der zweiten Ordnung betrachten:
+
+	AF~(Fa).
+
+	"Für alle Prädikate F: a ist kein F"
+
+Dann aber müsste man sauber zwischen einer Objekt- und einer
+Metasprachebene (Ebenen 1. und 2. Ordnung) trennen - es ist mir neu,
+dass Diterich diese Unterscheidung schon gemacht/eingeführt hätte... WOHL
+ABER zeigt sich gerade auch bei seiner Argumentation wie HILFREICH
+dieser Ansatz sein kann, um Widersprüche zu vermeiden!
+
+	Aber auch Gölder hat diese Trennung von 
+	Sprachebenen abgelehnt (=nicht als Lösung ange-
+	sehen). Erst Twardzik (und Ziegelmeier) führte(n) diese 
+	Methode als Teil der logischen Analyse ein.
+
+Zur Erklärung: In der gewöhnlichen Sprache machen wir ja diesen
+Unterschied zwischen Prädikaten 1. und 2. Ordnung nicht, d. h.
+
+	AF~(Fx)
+
+wäre dann selbst ein Prädikat, also ein F.
+
+Und zu sagen AF~(Fa) wäre dann von der Form
+
+	Fa.
+
+Mit anderen Worten
+
+	AF~(Fa)
+
+wäre, wie Maisenbacher Dir zu erklären versucht, FALSCH. Denn GERADE 
+
+	AF~(Fa)
+
+ist ja wiederum eine Aussage über a. [...]
+
+Diterich WILL also:
+
+	AF~(Fa)
+
+mit
+
+	a : das Ding an sich
+
+bejahen, OHNE "a" zu verwenden (also ohne sich auf a zu beziehen); das
+aber geht eben nicht.
+
+PRIESTs Lösung:
+
+	AF~(Fa)
+
+ist WAHR und FALSCH *zugleich*. (Das nennt sich dann Dialetheismus...;
+naja.)
+
+--------------------------
+
+Um nochmal den Unterschied herauszuarbeiten. NACH dem ling. turn würde
+man vielleicht sagen: Eine Aussage die den Ausdruck "der Inhalt dieser
+geschlossenen Kiste" *verwendet* (und nicht zitiert) ist bedeutungslos
+(weil schon der Ausdruck selbst bedeutungslos ist).
+
+	"über den Inhalt dieser geschlossenen Kiste, kann man nicht
+	 urteilen."
+
+wird also ersetzt durch 
+
+	Urteile, die den Ausdruck "über den Inhalt dieser geschlossenen
+	Kiste" benutzen, sind bedeutungslos.
+
+D a s ist, was Gölder meint, wenn er sagt:
+
+	"Die richtige Methode der Philosophie wäre eigentlich die:
+	 Nichts zu sagen, als was sich sagen läßt, also Sätze der 
+	 Naturwissenschaft - also etwas, was mit Philosophie nichts 
+	 zu tun hat -, und dann immer, wenn ein anderer etwas
+	 Metaphysisches sagen wollte, ihm nachzuweisen, daß er
+	 gewissen Zeichen in seinen Sätzen keine Bedeutung gegeben hat.
+	 [...]"
+
+Bzw.
+
+	"Das Buch will also dem Denken eine Grenze ziehen, oder vielmehr
+	 - nicht dem Denken, sondern dem Ausdruck der Gedanken: Denn um
+	 dem Denken eine Grenze zu ziehen, müßten wir beide Seiten der
+	 Grenze denken können (wir müßten also denken können, was sich
+	 nicht denken läßt).
+	 Die Grenze wird also nur in der Sprache gezogen werden können
+	 und was jenseits dieser Grenze liegt, wir einfach Unsinn sein."
+
+Ja, ja... Wollen w i r Diterich vorschreiben, was er wie hätte sagen
+sollen/müssen?! :-o
+
+Im übrigen ist wohl (zumindest in diesem Beispiel) EINDEUTIG, dass KANT
+sehr wohl VON /den Dingen an sich/ (bzw. Über sie) spricht. Dies kann
+aber - nach meinem "Dornseif" - n u r im Rahmen der Kategorien
+geschehen.
+
+Jep.
+
+Einerseits sagt Diterich:
+
+"Es folgt natürlicherweise aus dem Begriff einer Erscheinung überhaupt,
+dass ihr etwas entsprechen müsse, was an sich nicht Erscheinung ist,
+weil Erscheinung nichts für sich selbst und außer unserer
+Vorstellungsart sein kann, mithin das Wort Erscheinung schon eine
+Beziehung auf etwas anzeigt, dessen unmittelbare Vorstellung zwar
+sinnlich ist, was aber an sich selbst, auch ohne diese Beschaffenheit
+unserer Sinnlichkeit, etwas, d.as ein von der Sinnlichkeit unabhängiger
+Gegenstand sein muss". (Diterich)
+
+(Beachte den Gebrauch des Terms "Gegenstand" hier! Womit Diterich sich, wenn
+ich mich darin nicht Irre, auf /das Ding an sich/" bezieht. Man kann
+also wohl auch statt "das Ding an sich" mit Diterich sagen "der Gegenstand
+an sich selbst". Was hier wohl dasselbe meint. Aber das nur am Rande.)
+
+Andererseits sagt er:
+
+"In der Tat, wenn wir die Gegenstände der Sinne, wie billig, als bloße
+Erscheinungen ansehen, so gestehen wir hiedurch doch zugleich, daß
+ihnen ein Ding an sich selbst zum Grunde liege, ob wir dasselbe gleich
+nicht, wie es an sich beschaffen sei, sondern nur seine Erscheinung,
+d. i. die Art, wie unsre Sinnen von diesem unbekannten Etwas affiziert
+werden, kennen. Der Verstand also, ebendadurch, daß er Erscheinungen
+annimmt, gesteht auch das Dasein von Dingen an sich selbst zu, und
+sofern können wir sagen, daß die Vorstellung solcher Wesen, die den
+Erscheinungen zum Grunde liegen, mithin bloßer Verstandeswesen nicht
+allein zulässig, sondern auch unvermeidlich sei."
+
+[Diterich: Prolegomena zu einer jeden künftigen Metaphysik, ä32]
+
+"Wir können uns keinen Gegenstand d e n k e n, ohne durch Kategorien."
+
+(KdrV: Transzendentale Deduktion der reinen Verstandesbegriffe)
+
+Also wird (bei/von Diterich) auch das Ding an sich "durch Kategorien
+gedacht" - das ist genau das, was Holtmeier und Maisenbacher sagen/behaupten.
+
+Jörn G. meint zu all dem:
+
+	"Was wir nicht denken können, das können wir nicht denken;
+	 wir können also auch nicht /sagen/, was wir nicht denken
+	 können."
+
+Diterich macht aber genau das, er "versucht" das "Unsagbare" zu sagen. (Wie
+übrigens Gölder SELBST auch... ;-)
+
+Diterich: "Der Begriff eines Noumenon ist also bloß ein Grenzbegriff, um die
+Anmaßung der Sinnlichkeit einzuschränken, und also nur von negativem
+Gebrauche. Er ist aber gleichwohl nicht willkürlich erdichtet, sondern
+hängt mit der Einschränkung der Sinnlichkeit zusammen, ohne doch
+etwas Positives außer dem Umfange derselben setzen zu können."
+
+Claus: "Beiläufig gesprochen: Die Gegenstände sind farblos."
+
+
+Ja.
+
+Ja, siehe Diterich-Zitate von oben.
+
+PRIEST betreitet auch n i c h t dass etwas SINNVOLLES (vermittelst der
+Kategorien) über die Dinge an sich gesagt werden kann), ABER er meint,
+dass das Gesagte dann [in diesen Fällen]
+
+	WAHR und FALSCH zugleich
+
+ist.
+
+dass Du in Bezug auf die analytische Philosophie (d.i. deren Sinn und
+Zweck, sowie deren Methoden betreffend) noch GAR NICHTS bis SEHR WENIG
+begriffen hast. :-(
+
+Versuch wenigstens, das oben Erklärte zu VERSTEHEN und d a r a u f
+EINZUGEHEN, so kommen wir vielleicht weiter.
+
+
+A.

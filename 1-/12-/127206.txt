@@ -1,0 +1,22 @@
+Ja, ja... aber das ist doch nur die übliche facon de parler. (Eine
+_Praxis_, die mir übrigens auch schon aufgestoßen ist!)
+
+Gelegentlich liest man: "Zwei Mengen sind gleich, wenn sie dieselben
+Elemente enthalten." (*)
+
+Wie man nun von der logisch einwandfreien Definition
+
+	A = B <-> Ax(x e A <-> x e B)
+
+auf diese Aussage (*) kommt, war mir immer schon ein Rätsel!
+
+Korrekter ist da schon: "Zwei Mengen A,B sind gleich, wenn jedes
+beliebige Objekt (unseres Objektbereiches) Element der Menge A ist genau
+dann wenn es Element der Menge B ist.
+
+Oder: "Zwei Mengen A,B sind gleich, wenn für _alle_ Objekte x (unseres
+Objektbereiches) gilt: x ist ein Element der Menge A genau dann wenn es
+ein Element der Menge B ist. 
+
+
+F.

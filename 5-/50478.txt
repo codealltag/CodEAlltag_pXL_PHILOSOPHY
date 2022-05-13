@@ -1,0 +1,23 @@
+Das spricht doch schonmal für meine Vorstellung, falls es heißen
+sollte: die Basis ist eine gemeinsame.
+
+Ja, nun, Du sagst doch auch "Metasprache".
+
+Eine prinzipielle.
+Ich weiß, daß es heißt, Gedichte seien unübersetzbar. Das hat
+seine Gründe. Prosa geht aber. 
+Bei Programmiersprachen liegt mathematische Beschreibung
+zugrunde, und deshalb erwarte ich, daß es in formalen Sprachen
+einfacher ist als in natürlichen, sie zu übersetzen.
+
+Ja dann...! Dann ist das doch genau _das_ Argument für die
+vollständige Übersetzbarkeit, denn "alles, was berechenbar ist"
+bleibt sich gleich, und wenn jede dieser Sprachen das können muß,
+dann haben die Sprachen doch nur einen unterschiedlichen Weg und
+eine unterschiedliche Struktur, um dasselbe zu erreichen.
+Und die Nicht-Turing-Vollständigen muß man eben erst auf Turing0
+bringen, eben erweitern, damit Turing0-Anwendungen auch damit
+gehen. Aber eben, die Mühe mag man sich nicht machen, da sortiert
+man diese Sprache eher aus und nimmt gleich eine andere.
+
+Ok, "Ebene" triffts dann wohl nicht so.

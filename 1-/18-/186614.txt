@@ -1,0 +1,45 @@
+[...] 
+
+Halt! Hier geht es zumindest fuer mich durcheinander.
+Erst einmal gibt es natuerlich immer ein Problem, wenn es keine
+einheitlichen Definitionen gibt, und so beim Uebertragen von Begriffen
+mal der eine Fall mit eingeschlossen wird und mal nicht.
+
+Aber so wie du das schreibst, ist das eh verwirrend.
+Seltsame Attraktoren sind wohl erstmal auch nur Attraktoren, die eben
+seltsam oder interessant sind, aus welchen Gruenden auch immer. Oft
+wegen der Sensitivitaet bzgl. Anfangsbedingungen, deshalb auch manchmal
+die Umschreibung "chaotisch". Und wenn du in diesem Zusammenhang
+Juliamengen erwaehnst, kannst du doch nicht gleichzeitig vom Rand des
+Anziehungsbereiches reden.
+
+Nun zu deinem Beispiel oben, den Juliamengen. Beschraenken wir uns auf
+quadratische Polynome in der komplexen Ebene. Dann ist unendlich immer
+anziehend und zieht auch eine Umgebung an unter Iteration, und der Rand
+dieses Anziehungsbereiches ist in der Tat die Juliamenge (bei
+Polynomen). Aber deshalb wuerde man den Punkt unendlich doch nicht als
+seltsamen Attraktor bezeichnen. Fuer hyperbolische IFS (iterated
+function system), die aus einem zugrundeliegenden (vollst. metr.) Raum
+und einer Sammlung von kontrahierenden Abbildungen besteht, nennt man
+die Grenzmenge, wogegen die Bilder der Abbildungen des gesammten Raumes
+unter Iteration streben, Attraktor. Und fuer hyperbolische quadratische
+Polynome kann man sowas auch formulieren, indem man als die beiden
+kontrahierenden Abbildungen die Zweige der Umkehrfunktion des
+quadratischen Polynoms nimmt, und aus der komplexen Ebene nimmt man noch
+besser kleine Scheibchen um Punkte von Mitgliedern eines eventuellen
+anziehenden Zyklus (fuer das urspr. quad. Polynom, nicht fuer die zwei
+"Umkehrzweige") heraus, da wohl ein Teil des Urbildes wohl in dem Zyklus
+verbleiben wird. Die hyperbolische quadratischen Polynome sind gerade
+die mit einem anziehenden periodischen Punkt und solche, die im
+Parameterraum Punkten entsprechen, die ausserhalb der Mandelbrotmenge
+liegen (Cantormengen). Auf jeden Fall ist dann der Attraktor des Wohif
+eben die Juliamenge.
+Beim IFS handelt man aber mit den Wurzeln mit denen man sich einem
+Attraktor naehert, und bei der Juliamenge geht es um das Polynom, das
+den Punkt unendlich immer als "Attraktor" hat und wo der Rand des
+Anziehungsbereiches von unendlich die Juliamenge des Polynoms ist. Dies
+gilt aber wiederum erstmal nur fuer Polynome. 
+Mit den hyperbolischen kann man z.B. auch symbolische Dynamik betreiben
+und die Dinge wieder anders benennen.
+
+Helmuth!

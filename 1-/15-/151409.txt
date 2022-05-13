@@ -1,0 +1,34 @@
+(a+b) + (c,d)= (a+c,b+d)
+z=x+iy
+i^2=(-1,0)
+Eine Aussage ist entweder wahr oder falsch -- ein Drittes gibt es nicht
+4 ist eine Primzahl ist eine falsche Aussage
+a_(n+1)<= a_n für alle n E |N sind monoton fallend.
+
+Man beweist die Aussage A --> B, indem man aus der Annahme, dass die
+Behauptung B falsch sei, einen Widerspruch herleitet, Das heisst, man
+nimmt zur Voraussetzung A noch die Annahme B' hinzu und führt die
+Aussage A /\ B' auf eine der drei Arten auf einen Widerspruch.
+usw.
+ZWei Mengen sind genau dann gleich, wenn jedes Element der einen Meng zu
+der anderen gehört und umgekehrt.
+ZWei Mengen sind genau dann gleich, wenn die eine Menge Teilmenge der
+anderen Menge ist und umgekehrt.
+usw.
+Ist A(n) für jedes n E |N eine Aussage über die natürliche Zahl n sind
+die beiden folgenden Aussagen richtig:
+1. Die Aussage gilt für 1
+2. Gilt die Aussagke für k, so auch für k + 1
+Dann gilt die Aussage A(n) für jede natürliche Zahl n E |N
+
+Ist der Definitionsbereich einer Funktion nicht angegeben, ist
+verabredungsgemäß der grösstmögliche Definitionsbereich in IR gemeint.
+Ist der Wertebereich einer Funktion nicht angegeben, ist
+verabredungsgemäß die Bildmenge f(D) des Definitionsbereiches gemeint.
+
+Schreibe ich 1/0 kann das keiner verstehen, weil es nun mal andere
+Definitionen gibt, an die ich mich halten muss um verstanden zu werden.
+Deswegen wird der Text dann so "kraus".
+
+Gruss
+Lars Ungermann

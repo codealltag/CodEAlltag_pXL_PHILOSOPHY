@@ -1,0 +1,62 @@
+Manfred Kaster in Bgi74X4H0A400BR1ps590bhbwyyyeazykdzs@983.89.6.05 :
+
+
+Wer glaubt, wird selig.
+
+
+Obwohl ich die Gleichung nicht interpretieren kann (Biot-Savart mit
+Retardierung?), wäre ich mir da nicht so sicher. Hast du Angst, diese
+x-mal präsentierte Gleichung zu entformalisieren (konkretisieren)?
+
+
+Die 10 Nanosekunden und die 10 Coulomb hast du ins Spiel gebracht,
+nachdem du erkannt hast, dass du die Maxwellsche Theorie nur noch
+mit Induktion (d.h. mit Stromst�rken�nderungen) retten kannst. Ich
+sprach von 800 bzw. 900 Nanosekunden kontinuierlicher Aufladung (und
+dachte an eine wesentlich kleinere Gesamtladung).
+
+Auch hast du übersehen, dass der Strom innerhalb dieser 10 ns nicht
+nur auf einen Maximalwert anwächst, sondern von diesem Maximalwert
+wieder auf Null zurückgeht, was zu einem durch Induktion verursachten
+elektrischen Feld in derselben Grössenordnung, aber in die entgegen-
+gesetzte Richtung führt. Und das Flussintegral über die 300 m von der
+Kugel entfernte Oberfläche betrachten wir ja 890 ns nach dem Ende
+des 10 Nanosekunden dauernden Stromflusses (d.h. wenn das sich mit c
+ausbreitende Feld 270 m weit gekommen ist).
+
+Zudem bleibt das Problem, dass ein elektrisches Feld das nur in einem
+sich mit c ausbreitenden Bereich real existiert, notwendigerweise
+Divergenzladungen nach sich zieht (oder besser: vor sich herschiebt).
+
+ Kugel                       Kugel    Punkt P
+   o                           o         .
+   <-----------1000m-----------><--270m-->
+
+900 ns nach Beginn der positiven Aufladung der rechten Kugel kann
+rechts von Punkt P noch kein elektrisches Feld vorhanden sein.
+Links von P gibt es jedoch ein elektrisches Feld. Zu behaupten, dass
+dies keine Senke für positive Ladung und somit nicht-reale negative
+Divergenzladung darstellt, ist nichts anderes als den Gauss'schen
+Integralsatz für ungültig zu erklären.
+
+
+Das heisst, in einem Leiter neben der 1000 m lange Spannungsquelle
+könnten wir eine Spannung von mehr als 4*10^13 Volt induzieren.
+Und die Selbstinduktionsspannung müsste dann wohl auch in dieser
+Grössenordnung liegen. Was das bedeutet, sollte wohl klar sein.
+
+Wenn wir die durchschnittliche Stromstärke von 10^9 Ampöre auf
+1 Ampöre senken und somit in 10 ns nur eine Ladung 10 Nanocoulomb
+erreichen, müsste das elektrische Feld in der Umgebung des Leiters
+immer noch mehr als 40 Volt/Meter betragen!
+
+Man kann es drehen und wenden wie man will, die Maxwellsche Theorie
+ist logisch-mathematisch unhaltbar.
+
+
+Es grüsst,
+Niclas Maurizio I.
+
+
+Der Neubeginn der Physik in der Tradition Gillissens:
+http://uadhvxf.hmw.fn/iqfmijdv/nchms1.wszz

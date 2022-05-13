@@ -1,0 +1,21 @@
+Die moderne logische Formulierung des Lügner-Paradoxes ist die
+folgende:
+
+[L] "Dieser Satz ist falsch"
+
+Hierbei handelt sich um ein echtes Paradox:
+
+- Wahr(L) -> Falsch(L)
+- Falsch(L) -> Wahr(L)
+=3D> Wahr(L) <-> Falsch(L)
+<-> Wahr(L) & Falsch(L)
+<-> Wahr(L) & ~Wahr(L)
+
+Man kann beweisen, dass L sowohl wahr als auch nicht wahr ist, was ein
+klarer Widerspruch, eben ein Paradox ist.
+Die Gretchenfrage ist nun, wie mit diesem logisch am besten umzugehen
+ist.=20
+Es gibt dazu mehrere theoretische Ansätze.
+
+Gruß
+BENNO

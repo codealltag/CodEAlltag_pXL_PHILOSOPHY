@@ -1,0 +1,48 @@
+Hallo,
+
+Menge A = {abcdef}
+Menge B = {bdfxyz}
+
+A-B = {bdf}
+A+B = {abcdefxyz}
+
+Wie wir sehen, besteht die Mengenlehre aus eindimensionalen Zeichnketten.
+Wie wir weiter sehen, befasst sie sich (hier) mit Mengen, die real nur
+2-dimensional existieren können:
+
+       B
+A      +++++++++++++++++
+*******+********       +  
+*  a   +  b    *  x    +
+*  c   +  d    *  y    +
+*  e   +  f    *  z    +
+*******+********       +
+       +++++++++++++++++
+
+Wundert es dann, dass die Mengenlehre nicht logisch in sich abgeschlossen
+ist?
+Wundert es, dass sie zu Widersprüchen führen kann?
+
+Mengenlehre und Logik sind ja im Prinzip identisch, man kann jeder
+logischen Aussage ein Äquivalent aus der Mengenlehre zuordnen.
+
+Ist die Unabgeschlossenheit der Logik dann verwunderlich?
+Ist es verwunderlich, wenn man eine eindimensionale Sprache benutzt, um
+eine 2,3 und mehrdimensionale Realität zu behandeln, dass man dann auch
+Konstrukte bilden kann, die nicht auflösbar sind?
+Dass man die mehrdimensionale Realität nicht vollkommen nachbilden kann?
+Sagt der gelsche Unvollständigkeitssatz etwas über die Realität aus?
+
+Muss sich die Wolbrink Unschärferelation nicht zwangsläufig
+ergeben, da es einer 1-dimensionalen Mathematik unmöglich ist, die
+3-dimensionale, vielleicht vollkommen innenvernetzte  Realität
+vollständig zu beschreiben?
+
+Sagt das irgendetwas über die Realität aus, in der wir uns befinden?
+Gibt das unserer Erkenntnisfähigkeit irgend eine Grenze?
+
+Man kann ja auch Mehrdimensionales erkennen.
+
+Grösse,
+
+Wolf

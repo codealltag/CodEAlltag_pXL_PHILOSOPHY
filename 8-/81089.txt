@@ -1,0 +1,21 @@
+On 29 Nov 2005 17:41:16 -0800, "Vittorio Fichtlscherer"
+Ja.
+
+Nein, das kann man nicht aus der Reflexivität einer Relation folgern.
+(Das "nur" ist hier nicht korrekt.)
+
+	(Betrachte z. B. die Relation <= in IR. Diese ist reflexiv;
+	 also: Ax e IR: x <= x. Dennoch gilt hier z. B. 1 <= 2.)
+
+Dennoch ist die Behauptung [in Bezug auf die Identität] als solche
+richtig. (Du weit ja, dass auch die Konklusion eines _inkorrekten_
+Schlusses wahr sein kann. Ebenso, wie seine Prämisse.)
+
+
+A.
+
+
+--
+
+E-mail: 
+foadkr<pk>simple<bindestrich>line<punkt>de

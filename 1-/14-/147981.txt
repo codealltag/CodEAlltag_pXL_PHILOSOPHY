@@ -1,0 +1,93 @@
+Selbst wenn das stimmt müssen IR oder IN doch nicht begrenzt sein!
+
+
+Exakt darauf wollte ich hinaus. oo _ist_ _ein_ _fester_ Wert.
+Er lässt sich noch nicht mal ändern indem man 1 addiert oder durch 2 teilt.
+(Denk' dran: oo ist _keine_ reele Zahl!)
+
+
+Nein! Dazu müsstest du eine grösste nat. Zahl angeben können. Du sagst
+selbst, daß das nicht geht!
+
+Sinne
+
+IN wird vielmehr als Grundlage verwendet, um festzustellen, ob eine Menge
+abzählbar oder überabzählbar unendlich ist.
+
+
+Beide Operationen funktionieren nicht!
+Zu 1 kannst du 1 addieren und zu 0,9 kannst du eine 9 anhängen.
+Zu 13 kannst du 1 addieren und zu 0,9999999999999 kannst du eine 9 anhängen.
+Zu 'IN' kannst du 1 _nicht_ addieren und zu 0,p9 _kannst_ du _keine_ 9
+anhängen. Da beide Grössen bereits unendlich _sind_, änderst du absolut
+_NICHTS_ !
+
+
+Was sind x und y denn jetzt bitte?
+Zahlen? Mengen? Folge? In keinem dieser drei Fälle wäre x=y.
+Was also sollen x und y sein?
+
+Anzahl
+
+
+_Lies_ den Text den quotest auch mal!
+2 Zeilen höher (ich habe ihn nochmal mitzitiert) _steht_, daß a) oo _keine_
+reele Zahl ist! Und b) oo _nicht_ zu IN gehört!
+
+
+Dann verstehe ich deine folgenden Zeilen nicht:
+
+Denn zwischen 0 und 1 liegen ja nicht nur 0,p9 Zahlen!
+Und oo gehört nicht zu IN.
+Wo ist denn der Zusammenhang zwischen "1/0,p9 = 1" und "IN/oo = 1"?
+Und wieso bist du so sicher das wenn 1/0,p9 = 1 daraus nicht IN/00 = IN
+folgt? Könnte doch genauso sein!
+
+im
+"Unendlich"
+
+Allzu schwer ist 'unendlich auch nicht. oo ist einfach kein beliebig grösser
+Wert mehr, den man nach weiterem Belieben weiter vergrössern kann. Er ist
+unendlich und bleibt das auch! Er ist dabei nicht real. So ähnich wie i.
+
+
+Das wäre immernoch eine endliche Zahl, die _wieder_ erweitert werden kann.
+Ob diese Zahl nun darstellbar wäre (aufgrund des im Universum vorhandenen
+Materiels), oder nicht ist völlig unerheblich. Die Mathematik nimmt
+keinerlei Rücksicht auf MAterialbeschr�nkung. Sie ist theoretisch. Deine
+Zahl oo_1 hat mit Unendlichkeit also nichts zu tun!
+
+
+oo_1 war eine endliche Zahl, also ist (nach dieser Definition) auch oo_m
+endlich.
+
+
+Oberste-Wilms hat oo und oo addiert, _ohne_ eine neue Zahl einzuführen. Er
+brauchte noch nicht mal von der Abzählbarkeit trennen.
+
+
+Nein, auch nicht.
+Ich schätze du versuchst IR auf [0;1] zu projizieren. (Sollte möglich sein,
+z.B. ordnet die vielzitierte Funktion
+f(x)=sign(x)*(0.5-0.5*10^(-sign(x)*x))+0.5
+_jedem_ Wert von -oo bis +oo _einen anderen_ Wert zwischen 0 und 1 zu.)
+
+Und du hast recht, wenn du sagen willst, daß IR bei -oo (0) beginnt bei 0
+(1/2) ihre 'Mitte' hat und bei +oo (1) endet.
+Allerdings wäre dann die Multiplikation die Operation die du benutzen mußt.
+"IR/2 = IR*1/2 = 0" ist ja noch vertretbar.
+"IR*0 = 0 = +oo" und "IR*1 = IR = 1" wären dann die Pendents zu denn anderen
+beiden Ausdrücken.
+
+P.S.: Wie stehst du eigentlich insgesamt zur Mathematik? Du scheinst ja 'ne
+Menge über verschiedene M.m.er zu kennen,  aber was ihre Anwendung angeht,
+ist das doch eher holperig.
+
+P.P.S.: "ist definiert als" wird durch ":=" angezeigt (nicht "=:").
+
+--
+Christian Asenkerschbaumer (rxiwb242@h-qfhuqe.dd)
+-----------------------------------------------------------
+A Member of the ---> INES BURKHARD OERTLIN <--- Fanclub Germany
+      since      http://wje.eklo.cc/svs-jkd      7/97
+-----------------------------------------------------------

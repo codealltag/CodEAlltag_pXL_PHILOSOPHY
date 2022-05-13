@@ -1,0 +1,41 @@
+Du wirfst hier Sprache und Objekte der Mathematik durcheinander.
+Mathematische Objekte deuten nicht. Die Deutung kommt durch die
+mathematische Sprache. Sie deutet nicht nur auf mathematische Objekte,
+sondern ordnet mathematischen Objekten auch ggf. zu, worauf diese
+wiederum deuten sollen. Letzteres passiert, wenn man Formalsprachen als
+solche nutzt. Es passiert noch nicht in der mathematischen Betrachtung
+von Formalsprachen.
+
+Das besondere von Formalsprachen ist ja gerade, dass diese auf andere
+mathematische Objekte deuten. Aber das tun sie nur, wenn man sie als
+Sprache auffasst. Tut man das nicht (und das ist gängig in der
+Betrachtung von Formalsprachen, so verrückt wie sich das anhört), so
+deuten jene auf gar nichts.
+
+Deshalb hebt man ja hervor, wenn man Sprache oder Metasprache meint mit
+mathematischen Objekten. Wären alle mathematische Objekte sprachlich zu
+sehen, so könnte diese Hervorhebung entfallen.
+
+Du hast trotzdem recht damit, dass es keine semantikfreie Mathematik
+gibt. Das liegt allerdings an etwas anderem: Mathematik ist ohne die
+mathematische Sprache nicht möglich. Denn in der mathematischen Sprache
+wirkt erst die Logik.
+
+Das ist der Grund, warum alle Algorithmen Sprachen sind. Sie sind nur
+sprachlich denkbar. Algebraische Strukturen jedoch sind keine Sprachen.
+Mit Sprache kann man in ihnen aber rechnen.
+
+
+Ich habs oben versucht zu erklären.
+
+
+Klappt bisher schon ganz gut. Wie man in die Realität deutet, da halt
+ich mich ja sowieso fein raus ;-)
+
+Viele Grüsse,
+VB.
+-- 
+“Jannette steht auf Cocktailschirmchen, Analverkehr und House
+und hat 186 Freunde
+ansonsten weiss ich nichts über sie”
+    (Gabriele Frehse)

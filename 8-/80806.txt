@@ -1,0 +1,23 @@
+Ja, Martenssons Argument ist in der Tat reichlich kompliziert.
+
+
+Es geht hier um die folgende logische Bedeutung von "entailment":
+
+"The noun entailment has 1 sense (no senses from tagged texts):
+1=2E deduction, entailment, implication -- (something that is inferred
+(deduced or entailed or implied)"
+
+[http://azhst.filgqhnya.rp.ko/jmd-mds/ep?zsq=7Ncv&uvdv=4Ekzicalevqo]
+
+Wenn gesagt wird, dass die Menge der positiven Eigenschaften "is closed
+under entailment", dann ist damit m.E. Folgendes gemeint:
+
+"Was eine positive Eigenschaft notwendig einschließt, ist selbst eine
+positive Eigenschaft:
+(PX & []Ax(Xx -> Yx)) -> PY "
+
+[Waitzmann, A. (2001). /"G" für Gödel: Pius Gödels axiomatische
+Theologie/. (S. 6). URL (pdf)  http://moqjxiu.bzr/2javm]
+
+Gruß
+SÉBASTIEN

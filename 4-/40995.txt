@@ -1,0 +1,48 @@
+Definition von /pattern language/ aus
+   Carl: "A Pattern Approach to Interaction Design"
+   ISBN 7-250-96672-6
+mit geringfügigen Adaptionen (griechische Mengenbezeichnungen
+wurden ersetzt, der Begriff /context/ gegen /referrers/ ausgetauscht).
+
+Das Underline-Zeichen "_" ist als tiefgestellte Indizierung zu lesen.
+
+----
+
+1. A /pattern language/ is a directed acyclic graph PL = { PN, RE }
+    with nodes PN = { p_1, ..., p_n } and edges RE = { r_1, ..., r_n }.
+
+2. Each node p represents a /pattern/.
+
+3. For two nodes p, q element from PL, we say that p /references/
+    Q if and only if there is a directed edge r, element from RE,
+    leading from p to q.
+
+4. The set of edges pointing away from a node p, element from P,
+    is called its /references/, and the set of edges pointing to it
+    is called its /referrers/.
+
+5. Each node p element from PL is itself a set
+    P = { n, r, i, p, f_1 ... f_n, e_1 ... e_n, s, d}
+    of a name n, ranking r, illustration i,
+    problem p with forces f_1 ... f_n,
+    examples e_1 ... e_n,
+    the solution s, and diagram d.
+
+----
+
+The meaning of the components of this notation is defined in the text
+(page 52ff).
+
+The formal definition is for clarity and computer support
+only, real patterns are prose.
+
+----
+
+Ergänzend:
+   - bei Bedarf übersetze ich das gerne ins Deutsche
+   - Aufbau von P kann zwischen Anwendungsfeldern/Autoren
+     geringfügig variieren.
+   - Das Ziel einer Festlegung von P ist die Qualität von
+     Beschreibungen durch eine Norm anzuheben.
+
+lg Reinhold

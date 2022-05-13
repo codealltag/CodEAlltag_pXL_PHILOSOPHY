@@ -1,0 +1,119 @@
+Fredi Jannaschk schrieb in Nachricht <4dqui8$t1s$15$1@vfbj.g-dpcmki.uwf>...
+                                                 { dsm 30.01.2001, 21:30 }
+
+Hallo Fredi,
+
+
+Das glaube ich Dir gerne, aber sie hätten es trotzdem erklären gekonnt  -
+einfach deshalb, weil das Grand Problme mittels der Mittelgleichung A
+nun mal nicht allgemein lösbar ist  -  nur ein freiheitsgrad-beschränkter
+Spezialfall davon.
+
+
+Holger Dettmers hat nicht bewiesen, daß die "Lösbarkeit der MGL-A für  u = 1
+eine notwendige Bedingung für ..." ist  (was sie nicht ist), sondern er hat einen
+Fall der Papendick-Ströble-Vermutung bewiesen, was zusammen mit der
+Frey'schen Transformation genügte, die Fermat'sche Vermutung FV zu beweisen.
+
+
+Ja ... es gäbe dann halt die Lösungsmenge  (3*k)^2 + (4*k)^2 = (5*k)^2
+nicht ...
+
+
+Ja, sage ich  ;-))
+
+
+Hmm, jetzt brauchen wir wieder etwas Mathematik.
+Um eine Gleichung zu lösen, muß man auch immer die algebraische
+Struktur (..., Halbgruppe, Gruppe, Halbring, Ring, Körper, Schiefkörper,
+Restklassen-Ring, Restklassen-Körper, ...) und den Definitionsbereich
+der Gleichung (nat. Zahlen N, ganze Zahlen Z, rationale Zahlen Q,
+reelle Zahlen R,  komplexe Zahlen  C, ... oder Teilmengen davon) angeben,
+in denen die Gleichung gelöst werden soll. Setzt man voraus, daß die
+Gleichung nicht in sich (intrinsisch) widersprüchlich ist, wie z.B.
+
+      x   +   2*y   +  3*z   =  14
+   3*x  +   2*y   +      z   =  10
+      x   +      y    +     z    =    8  ,
+
+so kann sie zwar in der vorgegebenen Struktur und dem vorgegebenen
+Definitionsbereich unlösbar sein, aber in einer passend erweiterten
+L�sungsumgebung kann man immer Lösungen finden.
+
+Wenn man nun mal eben so annimmt, daß die Gleichung
+
+           (y - 1)  +  y  =  (y + 1)
+
+unlösbar ist, dann muß man sich natürlich eine L�sungsumgebung
+solchermaßen basteln, daß darin die Unlösbarkeit auch sichergestellt
+ist. Hier wäre z.B. denkbar, daß man die Assoziativität und /oder
+die Distributivität der Addition außer Kraft setzt oder die Existenz der
+zur Addition inversen Operation verneint oder ...  [  Hmm, ich fürchte, in
+Deinen Augen wäre in einer solchen Umgebung sinnvolles Zählen und
+Zusammenzählen nicht mehr möglich, sondern nur noch sinnloses
+Herplappern einer Litanei  ... aber sei's drum ].
+
+Hat man sich nun eine passende Umgebung gebastelt, dann muß man
+untersuchen, was die Gleichung   x^2 + y^2  = z^2  zu dieser Umgebung
+meint ... und je nach gebastelter Umgebung kann sie Lösungen haben
+oder auch nicht.
+
+
+Waren wir uns nicht schon mal einig darüber, daß die Lösbarkeit der  MGL-A
+KEINE  NOTWENDIGE, sondern eine HINREICHENDE Bedingung für die
+Lösbarkeit der Fermat-Gleichung ist und daher weder bewiesen werden muß
+noch bewiesen werden kann.
+
+Waren wir uns nicht schon mal einig darüber, daß die Unlösbarkeit der  MGL-A
+eine NOTWENDIGE, aber  KEINE  HINREICHENDE Bedingung für die
+Un�sbarkeit der Fermat-Gleichung ist und daher die bewiesene Unlösbarkeit
+der MGL-A zum Beweis der Unlösbarkeit der Fermat-Gleichung nicht ausreicht.
+
+
+Für mich aber nicht  -  siehe die aktuellen Postings dazu von Kay und mir.
+
+
+Den elementaren Zusammenhang im Sinne z.B. der Peano-Arithmetik  (PA)  bestreitet wohl
+niemand  ... und ich natürlich auch nicht.
+
+
+Das sind aber zwei Paar Schuhe.
+
+
+Ja
+
+
+Nein  -  Mächtigkeit einer Menge.
+
+
+Die natürlichen Zahlen sind eine Teilmenge der Zahlen insgesamt ...
+
+
+OK, das folgt direkt aus  PA: die Zahl  1728  ist der  1727-te Nachfolger der Zahl  1
+.
+
+
+OK, das hat  1769  Thomas Fünfgeld bewiesen
+
+
+OK, das hat  1836  Fredi Ratzeburg für alle Exponenten  n  bewiesen, deren
+Primfaktorzerlegung keine irregulären Primzahlen besitzt.
+
+
+Nein, ist es nicht  ;-((
+
+
+ja, Behauptung stimmt  wegen  (2*r + 1)*(2*s + 1)  ==  1  (mod 2)
+
+
+Hmm, das sind aber nur Verankerungen für eine vollständige Induktion  -  wo
+bleibt die eigentliche Induktion ?
+
+
+Ja, Behauptung stimmt, da   15, 25, 35   und   10  den gemeinsamen Teiler  5
+besitzen.
+
+
+Größe
+      Patrice
+--

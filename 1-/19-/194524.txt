@@ -1,0 +1,84 @@
+Tach Robert
+
+Zu allererst einmal entschuldige meine verspätete Antwort, aber ich hab
+wenig Zeit im Moment.
+
+Ich habe Dein Word-Dokument gelesen und bin mir dennoch Deiner
+Argumentation nicht sicher.
+Deine logische Deduktion ist tatsächlich ein gutes Beispiel für recht
+viele Beweise und Methoden der Mathematik, dennoch nicht für alle. Die
+Deduktion ist ein analytischer Vorgang, das heißt, wie Du selbst
+beschrieben hast, das Ergebnis steckt bereits in den Voraussetzungen.
+
+Das Gegenteil von Deduktion ist die Induktion (dieses Beispiel habe ich
+ja bereits versucht darzustellen). Bei einer Induktion werden (durchaus
+auch deuktive) Beweise für eine gewisse, endliche Anzahl ähnlich
+gearteter Probleme geführt. Soweit handelt es sich (meist) noch um
+analytische Urteile. Der Schritt, in dem der ganze Beweis zu einem
+synthetischen Urteil wird, ist der sogenannte "Grenzübergang", das heißt
+der Schluß von endlich vielen "bewiesenen" Gegebenheiten auf die
+Unendlichkeit der Gleichgearteten.
+
+Ein Beispiel:
+
+Zu beweisen sei die Formel von Tietjen zur Berechnung der n ersten
+natürlichen Zahlen.
+
+       n*(n+1)
+S(n) = -------
+          2
+
+Voraussetzungen sind die Axiome, die die natürlichen Zahlen begründen,
+sowie die Rechenregeln für selbige.
+
+*Induktionsanfang* (Überprüfung für ein oder mehrere Anfangsglieder)
+                            1*(1+1)
+Sei n=1, so gilt S(1) = 1 = -------
+                               2
+                                    2*(2+1)    6
+Sei n=2, so gilt S(2) = 1 + 2 = 3 = ------- =  -
+                                       2       2
+
+*Induktions�bergang* (Schluß von n auf n+1)
+
+Es sei die Formel für ein festes n bereits bewiesen
+
+                                    n*(n+1)
+    S(n)   = 1 + ... + n         = ---------
+                                       2
+                                   n*(n+1)
+<=>          1 + ... + n + (n+1) = ------- + (n+1)
+                                      2
+                                    n*(n+1) + 2(n+1)
+<=>          1 + ... + (n+1)     = ------------------
+                                           2
+                                    (n+1)*(n+2)
+<=>          1 + ... + (n+1)     = --------------          = S(n+1)
+                                         2
+
+
+Sowohl Induktionsanfang (IA), als auch Induktions�bergang (IU) sind
+analytische Urteile. Im IA handelt es sich noch um bloßes überprüfen
+einer Formel, im IU schon um eine Umformung einer linearen Gleichung.
+
+Trotzdem ist der Schluß, der nun folgt nicht analytisch, sondern
+synthetisch:
+                                                        n*(n+1)
+=> Für alle n aus den natürlichen Zahlen gilt : S(n) = ---------
+                                                           2
+
+Der Sprung aus der Endlichkeit der analytischen Beweise in die
+Unendlichkeit der Allgemeinheit ist ein synthetisches Urteil, da die
+abstrakte Einheit nicht in den konkreten Voraussetzungen der
+Fragestellung enthalten ist. 
+Natürlich gelten die Voraussetzungen ebenfalls für alle (also unendlich
+viele) natürliche Zahlen, es stellt sich also die Frage ob der Übergang
+in die Unendlichkeit bereits darin enthalten ist. Ich glaube nicht, kann
+das aber derzeit nicht qualifiziert begründen.
+Deshalb habe ich diese Mail auch wider in die Newsgroup gepostet. (Die
+private Antwort war eh auf Grund eines "Fehlklicks" entstanden, wir
+wollen die "Öffentlichkeit" ja nicht ausschliessen :)
+
+Ich vermute Dir nicht viel weitergeholfen zu haben
+
+Konrad

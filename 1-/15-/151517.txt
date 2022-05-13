@@ -1,0 +1,42 @@
+Hallo,
+
+  es existiert ein Apfel und existieren drei Menschen. 
+Bedingung ist es eine sinnvolle Lösung der Aufteilung des Apfels auf die
+drei Menschen zu finden.
+Diese Rechnung ist mathematisch sehr einfach zu lösen.
+1 Apfel geteilt durch drei Menschen ergibt genau 1/3 Apfel pro Mensch.
+
+Jetzt setze ich aus welchen Gründen auch immer, dass der Apfel nicht
+geteilt werden darf, weil es sonst kein "heiler" Apfel mehr wäre.
+
+Diese Rechnung ist mathematisch plötzlich unlösbar:
+1 Apfel geteilt durch 3 Menschen ergäbe 1/3 Apfel ---> aber nicht einen
+heilen Apfel.
+
+Aber es bestünde auch noch anders rechnen:
+Bedingung heil = 1 Apfel / 0 Teilungen
+ (1/0)/ 3 = x
+Durch null dar man nicht teilen, aber die Null steht für eine Bedingung,
+die oben gegeben wurde und deswegen macht sie Sinn. 
+
+Die Lösung des Problems besteht ja darin, dass ich die Menge Apfel um 2
+erweitern müsste und schon hat jeder Mensch genau gleichviel Äpfel.
+
+(1a + 2a) / 3m = 1a/m entspricht 1/3 der Apfelmenge
+
+
+Die Lösung von x ist also die Apfelmenge um 2 zu erweitern.
+
+
+Warum also sollte eine Teilung durch Null unsinnig sein, wenn ich doch
+eine Lösung haben kann?
+Die Bedingung in obiger Aufgabe war nicht, dass die Apfelmenge nicht
+erweiterbar wäre. Die Bedingung war lediglich, dass der Apfel nicht
+geteilt werden dürfte. 
+
+Es ist aber keine Mathematik, lt. den Mathematiker. Philosophie ist es
+auch nicht lt. den Philosophen. Was betreibe ich dann?
+
+
+Gruss
+Wolfgang

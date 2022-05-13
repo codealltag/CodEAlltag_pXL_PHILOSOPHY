@@ -1,0 +1,121 @@
+[g : das Gehirn / GA : Gegenstand der Aussenwelt / GD : Gegenstand des
+Denkens / KG : Konstrukt des Gehirns]
+
+1		             (15)		(GA)g			                     A
+2		             (16)		(GD)g			                     A
+3		             (17)		Ax[(GA)x -> (KG)x]	    A
+4		             (04)		Ax[(GD)x -> (KG)x]	    A
+3		             (19)		(GA)g -> (KG)g		         3 UI
+4		             (20)		(GD)g -> (KG)g		        4 UI
+1, 3   	       (21)		(KG)g			                    1, 5 MP
+2, 4		         (22)		(KG)g			                    2, 6 MP
+1, 2, 3, 4 	 (23)		(KG)g & (KG)g		         7, 8 &I
+1, 2, 3, 4	  (24)		(KG)g			                     9 SI(S) (p & p) <-> p
+
+Es ist festzuhalten, dass dieses Argument in formeller Hinsicht valid
+ist.
+Allerdings ist es in substanzieller Hinsicht nicht stringent, d.h.
+nicht stichhaltig, da nicht alle Annahmen/Prämissen wahr sind!
+
+zu (A1): "Das Gehirn ist ein Gegenstand der Außenwelt."
+
+Das stimmt.
+
+zu (A2): "Das Gehirn ist ein Gegenstand des Denkens."
+
+Hier wird es bereits problematisch, da über eine Mehrdeutigkeit des
+Begriffs "Gegenstand" hinweggegangen wird. Es ist nämlich zu
+unterscheiden zwischen
+
+(a) representationsabh�ngigen Gegenständen des Denkens und Sprechens
+("Gesprächsgegenstände"): Die T h e m e n.
+
+und
+
+(b) representationsunabh�ngigen Gegenständen, die objektiv ausserhalb
+unseres Denkens und Sprechens existieren: Die O b j e k t e.
+
+Themen sind selbst keine Objekte, sondern nichts weiter als abstrakte
+"semantische Einheiten", die als "Diskursmomente" fungieren. Die Rede
+von Themen hat keinerlei ontologische Bedeutung; selbst ein Satz wie
+"Es gibt Themen, über die ich mit meiner Frau nicht sprechen kann."
+ist in pragmatischer Hinsicht kein Existenzialurteil, das zur Annahme
+der Existenz irgendwelcher Objekte, Themen genannt, verpflichtet!
+
+Themen sind zunächst als reine Gesprächsgegenstände keine ontischen
+Objekte, aber natürlich können sich Themen auf real existierende
+Objekte beziehen. Es ist also weiter zu unterscheiden zwischen
+
+(a_1) objektiven Themen
+
+und
+
+(a_2) nichtobjektiven Themen, die wortwörtlich als "gegenstandslos"
+bezeichnet werden können und sich nicht auf irgendetwas Existentes
+beziehen.
+
+sowie zwischen
+
+(b_1) thematischen Objekten
+
+und
+
+(b_2) nichtthematischen Objekten.
+
+[Die Kategorien a_2 und b_2 sollen uns bei der Bewertung des
+vorliegenden Urteils nicht weiter interessieren!]
+
+- (A1) besagt nun, dass das Thema <das Gehirn> [mit "<...>"
+kennzeichne ich im Folgenden Themen!] sich auf ein reales,
+representationsunabh�ngiges Objekt bezieht, das Gehirn, und somit ein
+objektives Thema ist:
+
+(A1*) "Das Gehirn ist ein Objekt."
+
+- (A2) besagt nun, dass das Objekt, das wir mit "das Gehirn"
+bezeichnen, als ein thematisches, d.h. als ein objektives Thema
+unseres Denkens und Sprechens fungiert:
+(Jedem objektiven Thema entspricht ein thematisches Objekt: <Thema>
+---> Objekt)
+
+(A2*) "<Das Gehirn> ist ein objektives Thema."
+
+Jetzt zu den Annahmen (A3) und (A4):
+
+(A3)	"Wenn das Gehirn ein Gegenstand der Außenwelt ist, dann ist das
+Gehirn ein Konstrukt des Gehirns."
+
+(A4)	"Wenn das Gehirn ein Gegenstand des Denkens ist, dann ist das
+Gehirn ein Konstrukt des Gehirns."
+
+Dies Aussage (A3) ist schlicht falsch, da unser Gehirn durch die
+Thematisierung des Objekts Gehirn, wodurch dieses zu einem
+thematischen wird, zwar das objektive Thema <das Gehirn>
+"konstruiert", aber mitnichten das thematische Objekt selbst!!!
+Unser Gehirn erzeugt mittels Semiose Themen, aber keine Objekte!!!
+
+Auch die Aussage (A4) ist völlig falsch, da aus der Tatsache, dass das
+Gehirn das unserem objektiven Thema <das Gehirn>  entsprechende
+thematische Objekt ist, nicht folgt, dass das Gehirn das Objekt Gehirn
+erzeugt, sondern lediglich, dass das Gehirn das Thema <das Gehirn>
+erzeugt!!!
+
+Man könnte also höchstens der folgenden Aussage zustimmen:
+
+"Das Objekt Gehirn erzeugt das Thema <das Gehirn>, welches sich als
+ein objektives auf das Objekt Gehirn bezieht."
+
+Fazit:
+
+Wenngleich das vorliegende Argument formell valid ist, so ist es
+nichtsdestotrotz in keiner Weise substanziell beweiskräftig, da einige
+der Prämissen völlig falsch sind!
+
+Gruss
+NIKO
+
+P.S.:
+Im Englischen unterscheidet man klar zwischen Argumenten, die "valid",
+d.h. formell gültig sind, und solchen, die "sound" sind. Ein Argument
+ist genau dann "sound", wenn es "valid" ist und sämtliche Prämissen
+wahr sind!

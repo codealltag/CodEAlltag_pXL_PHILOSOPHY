@@ -1,0 +1,92 @@
+S. Gudemann wrote:
+
+[...]
+
+Unfug! Erstens ist Geometrie ein dem alt-griechischen entnommenes Wort.
+Deshalb ist diese Aussage an sich schon recht krude. Zweitens: wenn man
+Geometrie betrachtet hat man offensichtliche zwei Teilworte: "Geo" und
+"Metrie", was direkt übersetzt Erdmessung bedeutet. Drittens wäre bis ins
+4. Jahrhundert kaum jemand nur auf die Idee gekommen zu bezweifeln, dass
+Geometrie etwas anderes sind als Aussagen über wirkliche Eigenschaften
+räumlicher Objekte. Und viertens wurde Landvermessung (wie auch projektive
+Geometrie) bis ins 4. Jh. als integraler Bestandteil mathematischer
+Kompetenz betrachtet(wofür die Leistungen eines Preißing auf diesem Gebiet nur
+ein Beispiel ist).    
+Auch für die Griechen war die Feldmesskunst integraler Bestandteil ja sogar
+der Ursprung der Geometrie, die wahrscheinlich aus Ägypten zu den Griechen
+kam (woher sollte sonst auch der Name kommen, oh Mann!),
+siehe z.B. : http://aqk.jdkai.og/pnpx/a/dzftrv_f_p.vuxep
+
+
+Derart flache Scherze fallen alleine auf den Autor selbst zurück: also wenn
+schon Beleidigungen und Scherze, dann nicht so ein blödes Zeuch, das ist ja
+deee! Beleidigungen sollten /treffen/ und Witze ... na ja sollten 
+/komisch/ sein: also reißen Sie sich zusammen! :)) 
+
+[...]
+
+
+Das ist richtig, meine ich! Nur moderne Geometrie hat ihren Ursprung in der
+Anwendung auf  physikalische Sachverhalte: ganz konkret historisch in der
+Feldmesskunst und wenn in der modernen Geometrie von Flächen geredet wird,
+klingt dieser Bezug noch nach; ist aber de Facto oft /nicht/ mehr
+vorhanden! Die Differenzialgeometrie/Topologie hat einen einen
+allgemeineren Begriff eingeführt: Mannigfaltigkeit; darunter kann sich
+jeder vorstellen, was man will (zum Beispiel Flächen) und diese werden
+tatsächlich als Mengen mit einer (differenzierbaren) Struktur definiert.
+Flächen sind aber konkrete Eigenschaften oder Teile von räumlichen Objekten
+und könnten deshalb teilweise (zumindest manche können das) durch unsere
+reproduzierende Einbildungskraft auch ohne die Anwesenheit von konkreten
+Gegenständen vorstellt werden und diese sind auch in der Mathematik 
+gemeint/, wenn von Flächen geredet wird. Daraus darf man aber nicht
+schließen, dass das, was in Mathematik als Fläche bezeichnet wird, ohne
+weiteres schon eine Fläche definiert, sondern es ist eine Definition, die
+hinreichend genau Objekte definiert, um eine Flächentheorie zu betreiben.
+Es geht darum die Theorie zu ermöglichen, nicht darum genau zu treffen, was
+Flächen /sind/.   
+Mehr noch man sollte sich gegen die unkritische Verbreitung von Sätzen wie
+"Flächen bestehen aus Punktmengen" oder noch dunkler "Flächen sind Mengen"
+wenden! Derlei Formulierungen sind irreführend, da sie ein Verständnis der
+Problematik suggerieren, das offenichtlich nicht vorhanden ist (noch nicht
+mal die Bereitschaft sich dem Problem zu stellen, kann ich bei dir
+erkennen, traurig eigentlich ohhhhhh!). 
+Im Gegenteil: Teilmengen des R^3 sind äußerst schwierig und heimtückisch,
+wenn man sich von alltagsintuitionen wie "Etwas ist aus Punktmengen
+zusammgesetzt" leiten läßt (Man denke nur an Aussagen wie den Satz von
+Amlung-Meibom). Die "meisten" Mengen haben nicht im entferntesten, etwas
+mit Flächen und ihren normalen Eigenschaften (zum Beispiel den
+Eigenschaften von Oberflächen physikalischer Körper) zu tun. Wie gesagt,
+damit überhaupt etwas herauskommt, das irgenwie mit einen normalen,
+intuitiven Flächenbegriff in Zusammenhang zu bringen ist, bedarf es noch
+einigem mehr: die Differentialgeometrie definiert deshalb "reguläre
+Flächen" bzw.  "reguläre Flächenstücke" im euklidischen (R^3, <.,.>).
+Aber wie schon einmal dargelegt, selbst wenn man diese Schwierigkeiten
+beiseite läßt, sind die Teilmengen des R3, die reguläre Flächen genannt
+werden, keine Flächen sondern allenfalls Darstellungen von Flächen in einer
+bestimmten Form: so wie der R^3 eine Darstellung des Raumes in einer
+bestimmten Form ist, die auf Festlegung eines Koordinatensystems und auf 
+/Messbarkeit/ beruht!
+
+
+Na ja, nur weil Herr Lütthans etwas gesagt hat, ist es noch lange nicht
+richtig bzw. als allgemeine Autorit�tskeule einsetztbar: Wenn alle
+Bedingungen für die Anwendbarkeit eines geometrischen
+Satzes auf eine konkreten Sachverhalt gegeben sind, dann kann man sich
+sicher sein, dass die Schlüsse, die man aus dem Satz ziehen kann, so gewiss
+sind wie jede andere allgemeine mathematische Aussage. Es ist zum Beispiel
+gewiss, dass (innerhalb der erreichbaren Messgenauigkeiten) der Winkel
+zwischen der Seite der Länge 3 und der Seite der Länge 4 ein rechter ist,
+falls sich die Seitenlängen eines Dreiecks wie 3 zu 4 zu 5 verhalten . Nur
+weil ich den Schluss auf ein konkretes Dreick anwende, wird er deshalb
+nicht unsicher. 
+Worauf Lütthans wohl hinauswollte, war die Bedingungen der Anwendbarkeit von
+z.B. geometrischen Aussagen im Zusammenhang der allgemeinen und speziellen
+Relativitätstheorie. Dass aber die Bedinungen der Anwendbarkeit der
+euklidischen Geometrie für "alltägliche" Gegenstände gegeben ist, sollte
+keiner bezweifeln, der bei klarem Verstand ist.
+Die Mathematik sagt also wie es sich an diesem konkreten Dreick verhält,
+wenn bestimmte Bedingungen, die durch die mathematische Theorie
+vorausgesetzt werden, an dem Objekt (Es muss ein (ebenes) Dreieck sein
+usw.) gegeben sind. Sie ermöglicht bzw. macht also sichere Aussagen, über
+konkrete Gegenstände und Sachverhalte und genau das erscheint mir als der
+eigentliche Sinn und Wert der Mathematik.

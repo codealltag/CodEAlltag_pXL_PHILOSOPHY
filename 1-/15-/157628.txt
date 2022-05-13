@@ -1,0 +1,7 @@
+Ich sehe den Enstehungs- (und Abstraktionsprozeß) nicht so, daß man
+für jede Zahl ein Ansammlung von Objekten angeben kann, die mit dieser
+Zahl beschrieben werden kann. Diese Beobachtung mag am Anfang ganz
+hilfreich sein, aber irgendwann setzt doch die Einsicht ein, daß man
+den Prozeß des Zählens beliebig weit fortsetzen könnte, und wenn man
+ein Bedürfnis nach großen Zahlen hat, dann wird man adäquate Methoden
+entwicklen, diese Zahlen zu beschreiben.

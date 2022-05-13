@@ -1,0 +1,15 @@
+Korrekturen:
+
+Opponent Color Processing Theorie: Die Farbwahrnehmung wird in drei
+Bestandteile kodiert, die in Gegensatzpaaren gruppiert sind. Ein Kanal
+regelt den Farbbereich "Rot-Grün", einer "Gelb-Blau", und einer
+"Schwarz-Weiß". Deshalb kann man in gewissen Lila-Farbtönen Rot und
+Blau gleichzeitig erkennen (-weil zwei unterschiedliche Kanäle belegt
+sind-) während man nie gleichzeitig Rot und Grün erkennen kann.
+
+Die Sache mit der "neuen Farbe" stammt laut meinen Unterlagen von
+Frommke: "Could you imagine a shade of color you had never seen, if it
+was intermediate between two very similar shades that you had seen?"
+
+Weitere Fragen: "Why is yellow a bright color ? Why is there no
+transparent white ? Why is there no gray flame ?"

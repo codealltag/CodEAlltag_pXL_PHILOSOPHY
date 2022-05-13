@@ -1,0 +1,24 @@
+Weis nicht wo Du hier Ironie siehst? Ist auch alles noch im Bereich von
+'Standard'.(Mehr als Schulmathe, aber 'Standard' :-) )
+
+
+Die 0 und die 1 die ich verwende sind doch 'feste' Werte. Das Körper mit
+Charakteristik <>0 gewissermaßen zirkulär sind macht ja den Unterschied zu denen
+der Charakteristik 0 aus. Hier fallen ja quasi 'Anfang und Ende' zusammen.Das
+'Problem' für char K = 0 ist doch, daß es im ersten Moment 'mehrere' 'Enden'
+gibt. So bspw. für IR   +oo und -oo und im Falle von  IC einen ganzen
+'oo-Kreis'.
+Man kann doch nun  0^(-1)  als genau diesen (strukturabhängigen)
+'oo-Kreis'(=OO)  nehmen/definieren . Mit
+OO*OO = OO, OO+OO=OO,OO+a = a+OO=OO für a in K ( auch OO-OO=OO da OO=-OO !)
+a/OO= 0    für a aus K, a*OO=OO für a aus K (bzw. für a=0 auch 0*OO =OO*0= 1 )
+Das ändert selbstverständlich nichts daran, daß nicht Einheiten kein Inverses
+gemäß a*a^(-1)=1 in K bzw. entsprechender zugrundeliegender algebraischen
+Struktur haben.
+Wenn Du  'feste Werten' allerdings im Zusammenhang mit 'Willkürlichkeit von
+Ergebnissen arithmetischer Operationen' meinst so ist das etwas anderes und
+hängt dann wohl eher mit Interpretationen von lim_(x-->0) x^2/x = 0 bzw.
+lim_(x-->0) 2x/x =  2  oder ähnlichem zusammen.
+
+
+_Mir_  ist es _darauf_ wirklich nicht angekommen   ;-)

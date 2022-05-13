@@ -1,0 +1,21 @@
+Richard würde behaupten, dass ein Computer modallogische Ausdrücke, so
+denn die Wahrheitswerte der Variablen bekannt sind, sowohl auf ihre
+Richtigkeit prüfen als auch den Wahrheitswert des Gesamtausdruckes
+feststellen kann.
+
+Richard würde auch behaupten, dass es vermutlich möglich ist, analog
+zu Prolog und der Prädikatenlogik bzw. den Hornklauseln eine Normalform
+für Modallogik zu finden, die dazu führt, dass bei bekannter Belegung
+von Variablen (in Prolog auch "Fakten" genannt) ein Computer Fragen
+beantworten kann, und zwar genau die, deren Wahrheitswert
+formallogisch aus den vorliegenden "Fakten" ableitbar ist.
+
+Den Wahrheitsgehalt von vorliegenden Fakten oder auch von daraus
+abgeleiteten Ausdrücken kann ein Computer nicht feststellen, da er über
+Wahrheit nicht das geringste weiss – schliesslich weiss er überhaupt
+nicht das geringste, auch sonst über nichts.
+
+Viele Grüsse,
+VB.
+-- 
+Bitte beachten Sie auch die Rückseite dieses Schreibens!

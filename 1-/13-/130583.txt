@@ -1,0 +1,6 @@
+Nein. Wenn etwa die Aktivierungsfunktion eines neuronalen Netzes von
+globalen Faktoren abhängt, sind die Zustandsänderungen des  Netzes
+nicht mehr notwendig (Turing-)berechenbar. 
+
+
+samuel

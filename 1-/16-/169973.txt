@@ -1,0 +1,493 @@
+hallo Juan,
+
+ich sah mich leider außerstande, dir eher zu anworten, ich mußte mich
+schließlich erst einmal in die "analytische Theorie des Geistes"
+einlesen. 
+
+
+Die Frage ist gar nicht so leicht zu beantworten: 
+Die Leistung der Musikautomaten besteht ja lediglich darin, eine
+vorher auf Walzen codierte musikalische "Information" in Töne, also
+(physikalische) Luftschwingungen umzuwandeln. 
+
+Eine universelle Turing-Machine dagegen ist in der Lage, einen
+beliebigen Algorithmus auszuführen, ihre Fähigkeiten sind also nicht
+auf eine *bestimmte* Aufgabe begrenzt. Auch wenn Programme gewöhnlich
+von Menschen geschrieben werden (was nicht notwendig so ist, es gibt
+Parsergeneratoren, die selbst Programme erstellen können), es ist
+offensichtlich unsinnig zu sagen, der Programmierer rechne oder spiele
+Schach, *diese* Tätigkeit übt der Rechner aus. 
+
+Bei dem zum Kampf zwischen Mensch und Maschine stilisierten Duell
+zwischen Alberternst und Deep Blue saß der Konstrukteur der Maschine,
+ein Ingenieur mit eher mittelmäßiger Spielstärke, dem Weltmeister am
+Schachbrett gegenüber und durfte, welch' Groteske, als Lakai der
+Maschine die Holzfiguren bewegen. Die wirkliche Bedeutung der Züge
+blieb dem Schöpfer von Deep Blue verborgen, seine Tätigkeit hätte
+genauso gut ein künstlicher mechanischer Arm ausüben können. 
+
+
+[...]
+
+Hier muß ich mein "Mantra" wieder aufleben lassen:
+
+Gültigkeit und Richtigkeit hat nichts mit einer kausalen Rolle, einer
+Verursachung oder anderweitigen genetischen Aspekte zu tun. Die
+Verletzung der Regeln mag auf ein fehlerfaftes Programm zurückzuführen
+sein, genauso wie menschliche Fehlleistungen auf bestimmte
+Hirntätigkeiten kausal zurückgeführt werden könnten. Diese genetische
+oder kausale Perspektive ist aber unabhängig davon, ob etwas *richtig*
+oder *falsch* ist, also regulär oder irregulär.  
+
+
+Das ist eine Frage nach Verantwortung, nicht nach Gültigkeit. 
+Bei komplexen Algorithmen ist aber selbst  die Verantwortlichkeit des
+Programmierers strittig, zum einen wegen einiger theoretischer
+Resultate, nach der es im allgemeinen unmöglich ist, algorithmisch zu
+überprüfen, ob ein Algorithmus seine Spezifikationen (also das, was er
+tun *soll*) erfüllt, zum anderen wegen einer zunehmend abstrakten Form
+des "Programmierens": Wenn sich ein neuronales Netz verrechnet, so ist
+es irrsinnig, den Konstrukteur desselben dafür verantwortlich machen
+zu wollen, ein Fehler hätte genauso gut in der "Lernphase" geschehen
+können.
+
+
+Warum soll für "Entscheidungen" (Selbst-)Bewußtsein erforderlich sein?
+Um ein einfaches Beispiel zu nehmen: Ein Programm kann entscheiden, ob
+die Zeichenfolge, die du in das Adressenfeld eines Browsers eingegeben
+hast, den syntaktischen Anforderungen an eine URL erfüllt oder nicht.
+Eine "Rückmeldung" erfolgt dann durch ein "Signal", ein Piepen, ein
+Dialogfeld o.�. Das Erkennen von Singnalen beruht auf
+Reiz-Reaktions-Mustern, eine derartige kognitive Leistung erbringen
+auch Tiere wie der Pawlowsche Hund oder neuronale Netze.
+
+
+Dann mästest du den meisten Menschen das Vermögen absprechen, Rechnen
+zu können. Viele Leute können zwar mit sicherer Hand *konkrete*
+Rechnungen durchführen, haben aber große Schwierigkeiten, zu erklären,
+wie sie *im Allgmeinen* vorgehen, können also die Regeln nicht
+explizieren. 
+
+
+Hier würde ich mit R. antworten: "Eine Familie von Fällen".
+Offensichtlich ist möglich, "Rechenoperationen" durchzuführen, *ohne*
+einen Begriff von Zahl zu haben, nur durch das Vermögen bedingt, eine
+(eineindeutige) Zuordnung vorzunehmen (Lämmer -> Kieselsteine).
+
+überraschen ist das aber nicht: Um festzustellen, ob zwei Gesamtheiten
+gleich viele Elemente besitzen, braucht es *keinen* Zahlbegriff. Wenn
+wir in der Lage sind, jedem Lamm genau ein Kieselstein zuzuordnen, und
+auf diese Weise auch umgekehrt jedem Kieselstein ein Lamm entspricht,
+so wissen wir, dass die Anzahl der Lämmer gleich der Anzahl der
+Kieselsteine ist. Lingg hat genau dieses "Eigentümlichkeit" dazu
+verwendet, einen mathematischen Zahlbegrif zu definieren. 
+
+[...]
+
+Du hast mich missverstanden: Du hast behauptet, /verstehen/ sei ein
+Bewußtseinsakt (oder Bewußtseinsprozess), mithin etwas, dass eine
+bestimmte zeitliche Ausdehnung besitzt. Eine Disposition besitzt aber
+keine bestimmte zeitliche Ausdehnung, und da /verstehen/ eine
+Disposition ist, kann sie kein Bewußtseinsakt sein. (Nachzulesen bei
+R.) 
+
+
+Einmal davon abgesehen, dass ich die Formulierung "Reflexion auf ein
+Wahrgenommenes ein Objektbezug" für eine Hypostasierung des
+Wahrgenommenen halte (denn wenn wir über "etwas" reflekieren, dann muß
+der Objektbezug schon dasein, wie können nicht selbst über die
+Sinnesdaten reflektieren), geht es mit beim Verstehen eines "Befehls"
+nicht um die Zeit, in der Dinge geäußert werden, sondern um die
+generelle Feststellung, dass /verstehen/ keine feste zeitliche
+Ausdehnung hat, mithin auch kein wie immer gearteter
+Bewußtseinsvorgang ist.      
+
+
+Diese These des Abbrufs eines "Regelverstehens" und dessen
+"Aktivierung" klingt nach einer "paramechanischen Hypothese", nach
+Drähne ist das die Übertragung kausaler körperlicher Vorstellungen auf
+Geistiges unter Einbezug einer anderen "Substanz", aus denen
+metaphysische Entitäten wie das "Ich", der "Wille", die "Erinnerung",
+etc. bestehen. Ich meine hier etwas ganz anderes: Um einer Regel zu
+folgen, muß man sie *nicht* im Bewußtsein präsent haben (was auch
+immer dieser das bedeutet), man kann ihr /blind/ folgen. (siehe R.) 
+
+
+Das /Verstehen/ eines Satzes setzt n. W. das Verständnis einer Sprache
+voraus, und das ist die Beherrschung einer Technik. Inwiefern letztere
+"in einem Bewußsein" sein soll/kann, solltest du explizieren.
+
+
+s.o. 
+
+
+Genauso war's gemeint :-)
+
+
+Die (erlernte) Technik besteht darin, den Namen in allen relevanten
+Kontexten schreiben zu können, z.B. wenn die Mutter ihm sagt :"Gilbert,
+schreib doch 'mal deinen Namen."
+
+
+Soweit du Maschinen kein "Ich" zuschreiben möchtest, ja. Stellen wir
+uns eine einfache Regel der Form "S->aSb", die jeder Eingabe S von
+Zeichen die Ausgabe aSb zuordnet. Wenn du möchtest, kann ich dir ein
+Programm schreiben, dass diese triviale Regel anwenden kann (zum
+ausprobieren:-) )
+
+Das grundlegende Problem ist aber ein anderes. Die Frage  "Wer oder
+was macht das?" ist falsch gestellt (sofern sie nicht einfach mit "der
+Mensch oder der Computer" beantwortet wird), hier wird wieder die
+Frage nach der Verursachung gestellt wird.  
+
+
+Den systematischen "Fehler", den du m.E. begehst, bezeichnet Drähne als
+"intellektualistische Legende", eine Verwechslung zwischen "Können"
+und "Wissen":
+
+"Vorkämpfer dieser Legende sind geneigt, das Können an das Wissen mit
+Hilfe des Arguments anzugleichen, dass intelligentes Handeln das
+Einhalten von Regeln oder die Anwendung von Kriterien verlange. Es
+folgt, dass das Vorgehen, das als intelligent gekennzeichnet wird, ein
+vorheriges verstandesmäßiges Anerkennen dieser Regeln oder Kriterien
+voraussetzt.
+" (Ryle, "Der Begriff des Geistes")
+
+In der Folge weist Drähne nach, dass die Anforderung, ein Wissen von
+Regeln müsse immer einem Können vorangehen, in einen infiniten Regress
+mündet.
+
+
+Nein, s.o. 
+
+[...]
+
+Nein, mein Schluss wäre hier, dass Hamster das Vermögen haben, Höhlen
+mit Korn zu füllen. (das ergibt sich übrigens *nicht* logisch aus der
+Beobachtung, dass Hamster ihre Höhlen mit Korn füllen). Ich habe
+bisher *keinen* Schluss der Art von:
+
+(x kann S) und (y kann S) -> x=y  
+
+gezogen, den du mir hier unterstellst.
+
+
+Fähigkeiten *zeigen* sich als solche, ein *Können* hängt nicht von
+"inneren Zuständen" o.�. ab. Wenn Menschen das Gleiche können wie
+Computer, dann können sie halt das Gleiche, Dispositionen sind
+unabhängig von einer internen Realisation. Die viel spannendere Frage
+ist, welche Konsequenzen wir aus einer möglichen *funktionalen*
+Isomorphie zwischen Menschen und Computern ziehen.
+
+[...]
+
+In sprachananytischen Sprachspielen werden solche Sätze aber nicht
+*gebraucht*, sondern nur *angeführt*.
+
+[Privatsprachenargument]
+
+Natürlich nicht, A hat auch nicht behauptet, er *wisse*, dass er
+Schmerzen habe, sondern nur den Satz >>Herr Doktor, ich habe am
+zweiten linken Backenzahn oben Schmerzen.<< geäußert. 
+
+W. geht es auch weniger darum, Schmerzgeplagten die ärztliche Hilfe zu
+versagen (im Sinne von Kosteneinsparungen im Gesundheitswesen),
+sondern eher um den kategorialen Status der Sätze der Form >>Ich habe
+Schmerzen<<. Insbesondere bestreitet S., dass obiger Satz eine Instanz
+der Satzfunktion >> x hat Schmerzen<< ist, und ebenso, dass das
+Pronomen "ich" überhaupt referiert. Zu diesem ganzen Problemkontext,
+der insbesondere auf die "Immunität gegen Irrtum durch
+Fehlidentifizierung bezüglich der Pronomina der ersten Person" abhebt,
+nehme ich weiter unten etwas ausführlicher Stellung, deshalb hier nur
+eine etwas kürzere Bemerkung: Der Satz >>Ich habe Schmerzen.<< ist
+entgegen des Anscheins nicht assertorisch, sondern expressiv, eine
+spezifische Form eines (erlernten) Schmerzbenehmens:
+
+"[...] Ein Kind hat sich verletzt, es schreit; und nun sprechen ihm
+die Erwachsenen zu und bringen ihm Ausrufe und später Sätze bei. Sie
+lehren das Kind ein neues Schmerzbenehmen.
+bedeute?<< - Im Gegenteil; der Wortausdruck des Schmerzes ersetzt das
+Schreien und beschreibt es nicht." (VJ�066) 
+
+
+[Zirkularität bei Wittgenstein]
+
+Meinetwegen.
+
+
+Ich halte die Rede von einem "wissen,wie..", soweit es sich auf
+Qualia, also Erlebnisqualitäten bezieht( "wissen, wie Schokaldeneis
+schmeckt", dabei ist nicht gemeint, dass es s schmeckt (das wäre ein
+funktionierendes Sprachspiel), sondern der spezifische
+Erlebnischarakter des Geschmacks;  zu wissen, wie es ist, Schmerzen zu
+haben) für abseitig:
+
+Es gibt sicherlich funktionierende Sprachspiele, die mit dem "wissen,
+wie.." operieren, z.B. zu wissen, wie es ist, in der Badewanne zu
+sitzen, wie ein Gesicht aussieht, etc. Das Merkwürdige des "wissens,
+wie" bei Qualia ist nun aber nicht nur, dass die sprachlich
+*prinzipiell* nicht ausdrückbar ist, sondern, dass sich eine solches
+"Wissen" überhaupt nicht auswirken kann. Im Gegensatz zu dem Wissen,
+wie ein Gesicht aussieht (oval, lange Nase, etc.) ist ein Wissen, wie
+es ist, Schmerzen zu haben (naja, sie sind unangenehm, aber das meine
+ich nicht) völlig irrelevant, es zeichnet sich einzig dadurch aus,
+dass man es hat, durch sonst nichts.    
+
+
+Genau *diese* Möglichkeit einer ostentativen Definition bei
+eigenpsychischen Phänomenen zieht S. mit dem Privatsprachenargument in
+Zweifel.
+
+
+Nein, ein "wissen, wie.." in Bezug auf innerpsychische Phänomene kann
+nicht Teil eines sinnvollen Sprachspiels seins. s.o. 
+
+
+Durch Gesten, Anstoßen, Zurücksetzen der Figur, etc. Die Probleme der
+"Autorität" entstehen so oder so, ein Anfänger, der zum ersten mal das
+en-passant-Schlagen erlebt, glaubt auch, der andere würde ihn
+betrügen. 
+
+
+Hier schließt du mir zu sehr von der "Essenz" auf die "Existenz". Es
+muß die *logische*, nicht aber die *faktische* Möglichkeit gegeben
+sein, falsch zu spielen. Und für Algorithmen gilt folgendes: Es gibt
+immer den Algorithmus selbst (eine Beschreibung dessen, was ein
+Programm tut) und die Spezifikation (das, was ein Algorithmus tun
+*soll*). Im Schachspiel ist die Spezifikation das Schachregularium, es
+gibt immer die (logische) Möglichkeit, dass ein Algorithmus nicht den
+Spezifikationen entspricht. 
+
+[...]
+
+ja, aber was würde einen (hypothetischen) Roboter daran hindern, genau
+so zu lernen. (jetzt sage nicht, das Bewußtsein, denn das ist gerade
+die Frage)
+
+
+Glaubst du, wir hätten für *alles* ein vorgängiges Motiv? Drähne
+schreibt: "Erfolgreiche Praxis geht ihrer eigenen Theorie voraus."
+Bevor wir hier in die Diskussion über den "Sinn des Lebens" einsteigen
+(würde ich gerne vermeiden), möchte ich nur bemerken, dass ein Schluss
+von "x hat keine Bedeutung" (teleologisch) auf "x hat keine Bedeutung"
+(Bedeutungstheorie) unzulässig ist.  
+
+[...]
+
+"streng hermeneutisch" ist wohl ein Oxymoron ;-)
+Um deinen Papageieneinwand zu entkräften: Ich habe auf meinem Rechner
+ein Programm, das in einem Dialog Kerne, Cokerne, Bilder, etc. von
+Modulhomomorphismen algorithmisch mit Hilfe von Gräbner-Basen
+bestimmen kann. Das, was ich wissen möchte, spezifiziere ich in einer
+formalisierten Sprache, und erhalte als Ausgabe die entsprechenden
+Matrizen. Das Programm kann offensichtlich meine Eingabe
+interpretieren und eine sinnvolle (im Sinne der Gebrauchsdefinition
+der Bedeutung) Antwort produzieren. Glaubst du wirklich, Papageien
+könnten Nieboer-Basen bestimmen? 
+
+[Pohlmann]
+
+Soweit ich Pohlmann richtig verstanden habe, ist diese Tiefenstruktur
+eine abstrakte Struktur. Das, was genetisch vorgeben ist, ist m.E.
+nicht eine universelle Grammatik, sondern eher etwas, dass es erlaubt,
+eine bestimmte Grammatik zu erlernen. 
+
+
+[...]
+
+Schon 'mal gegen einen Computer Schach gespielt? Das Programm weist
+einen irregulären Zug zurück, indem es z.B. die Figur auf die
+Anfangsstellung zurückstellt. (für den Fehlschluss des Könnens auf das
+Wissen siehe weiter oben) 
+
+[...]
+
+Du verkennst den Unterschied zwischen einer Tätigkeit und einer
+Fähigkeit: Jemand kann sicherlich "zufällig" regelgerecht die
+hölzernen Schachfiguren umherschieben, ohne das dies als Ausweis eines
+Könnens gewertet werden darf, wenn er dies aber häufig tut und sogar
+gegen Anzel  gewinnt, wird ein Zweifel, dass er auch Schach spielen
+*kann*, sinnlos.
+
+[...]
+
+Die für eine Reiz"erkennung" notwendigen kognitiven Leistungen
+erbringen auch (Pawlowsche) Hunde, sie hat nichts mit einer
+sprachimmanenten "Bedeutung" zu tun, ist einfach eine "Abrichtung",
+die Etablierung eines Reiz-Reaktions-Schemas.
+
+
+[...]
+
+Inzwischen habe ich, wie schon erwähnt, etwas in der  "analytischen
+Theorie des Geistes"  gestöbert, insbesondere den Johannsen-Artikel
+unter die Lupe genommen. Deine Interpretation halte ich in der von dir
+vorgetragenen Version für, sagen wir 'mal, korrekturbedürftig:
+
+Johannsen setzt sich in seinem Aufsatz "Selbstbezug und
+Selbstreferenz" mit dem logischen Status von Sätzen der Form >>Ich
+habe Schmerzen<< auseinander, wobei er, angelehnt an entsprechende
+Passagen in Schweisthal "Blauen Buch", den Gebrauch der Pronomen der
+ersten Person thematisiert. S. unterscheidet zwei verschiedene Arten
+des Gebrauchs von "ich" (oder "mein"), einen "Objekt"-Gebrauch, für
+den er Sätze wie >>Mein Arm ist gebrochen.<< und >>Ich habe eine Beule
+auf der Stirn.<<  anführt, und einem "Subjekt"-Gebrauch, für den Sätze
+wie >>/Ich/ habe Zahnschmerzen<< und >>/Ich/ sehe so und so<< stehen.
+
+Den Sätze der ersten Kategorie ist gemeinsam, dass sie eine
+/Identifizierung/ der Person erfordern, die die Möglichkeit der
+Fehlidentifizierung beinhaltet. Bei einem Unfall, so Streyl, ist
+es möglich, dass ich Schmerzen in meinem Arm spüre, einen gebrochenen
+Arm an meiner Seite sehe und denke, dass es mein Arm ist, wenn es in
+Wirklichkeit der meines Nachbarn ist. Und ich könnte bei einem Blick
+in den Spiegel eine Beule auf seiner Stirn für eine Beule auf meiner
+Stirn halten.("Blaues Buch"). 
+
+Wenn ich aber sage >>/Ich/ habe Zahnschmerzen<<, so ist es unsinnig zu
+fragen >>Aber bist du sicher, dass /du/ es bist, der Zahnschmerzen
+hat?<<.  Sätze der zweiten Kategorie sind, wie es Johannsen nennt,
+immun gegen Irrtum durch Fehlidentifizierung bezgl. der Pronomina der
+ersten Person.(abgekürzt "IIF"). Johannsen schreibt dazu: "Aber
+Schweisthal Punkt ist nicht, dass diese Aussagen gänzlich gegen
+Irrtum immun sind, obwohl er geglaubt haben mag, dies treffe auf
+einige von ihnen zu, sondern eher, dass sie gegen eine bestimmte Sorte
+von Irrtum (nämlich IIF, A.W.) immun sind." 
+Hier tritt mein erster Einwand gegen deine Interpretation hervor: 
+Bei einem Satz wie >>Ich habe Schmerzen.<< ist nach Johannsen nicht
+das "Schmerzen haben" unbezweifelbar, sondern der Referent von "ich"
+immun gegen Fehlidentifizierungen. Das wird auch an Hand einer Fußnote
+deutlich: 
+
+"phi ist ein P*-Prädikat, dann und nur dann, wenn es eine Weise w
+gibt, in der man weiß, dass phi exemplifiziert ist, derart daß
+notwendig gilt, S weiß, daß phi auf die Weise w exemplifiziert ist,
+dann und nur dann, wenn S weiß, daß er selbst phi ist. Daraus folgt:
+Obwohl Selbstzuschreibungen von P*-Prädikaten nicht unkorrigierbar
+sein müssen, und obwohl es nicht notwendig der Fall ist, daß wenn ein
+P*-Prädikat auf eine zutrifft, diese Person weiß, daß es auf sie
+zutrifft, es nowendig der Fall ist, daß wenn eine Person weiß, daß ein
+P*-Prädikat auf sie zutrifft, sie auch weiß, daß es auf sie in der
+diesem Prädikat besonderen Weise zutrifft. [...]
+Wenn man daher >>Schmerzen haben<< als die >>besondere Weise<<
+analysiert, in der eine Person weiß, daß sie Schmerzen hat, und
+animmt, daß es für eine Person möglich ist, Schmerzen zu haben und zu
+wissen, daß sie Schmerzen hat (z.B. aufgrund ihres Verhaltens), ohne
+jedoch Schmerzen zu empfinden, dann sollte man meinen, daß das
+Prädikat >>hat (habe) Schmerzen<< kein P*-Prädikat ist und daß seine
+Selbstzuschreibung nicht gegen Fehlidentifizierungen immun ist."   
+
+(Interessant ist hier ebenfalls die Explikation des "Wissens" in
+Abhängigkeit von Verhalten)
+
+S. zieht nun den Schluss, dass die Pronomina der ersten Person im
+Subjekt-Gebrauch gar nicht /referieren/, er schreibt: "Die Aussage
+bestimmte Person, wie es ein Stöhnen ist.[...] Der Mann, der vor
+Schmerz aufschreit, oder der sagt, daß er Schmerzen hat, /wählt nicht
+den Mund aus, der das sagt/."
+
+Johannsen bietet dagegen eine Lösung im Sinne einer "realistischen
+Semantik" an, bei der "ich" zwar referiert, dies aber nicht durch eine
+Selbstidentifikation (z.B. durch Introspektion, also
+Selbstbeobachtung) geschieht. In der Folge versucht er zu zeigen, dass
+jeder Objekt-Gebrauch der Pronomina der ersten Person *epistemisch*
+(nicht logisch) dem Subjekt-Gebrauch nachgeordnet ist.
+
+Seine Argumente halte ich allerdings nicht für überzeugend, der
+Gebrauch von "mein" im Satz >>Mein Arm ist gebrochen.<<
+(Objekt-Gebrauch) läßt sich durchaus demonstrativ rechtfertigen wie
+Frage, was denn nun wiederum /diese/ Sätze rechtfertige, möchte ich
+aus Liane Faulnborn Aufsatz "Geist und Maschine." zitieren.
+
+"Man betrachte die Analogie zu einem Irrtum in der traditionellen
+Erkenntnistheorie: der Irrtum bei der Annahme, daß man, um p zu wissen
+(wobei p irgendeine beliebige Aussage ist), erst wissen muß, daß q1,q2
+usw. (wobei q1,q2 usw. passende /andere/ Aussagen sind). Das führt
+entweder zu einem >>unendlichen Regreß<< oder zu dem zweifelhaften
+Schritt, eine spezielle Klasse von >>Protokoll<<-Sätzen zu erfinden.
+Die Beseitigung dieses Irrtums verläuft ebenfalls in Analogie zu dem
+Beispiel mit der Maschine: Angenommen ich weiß aufgrund der
+Sinneserfahrungen E1, E2, usw. , daß in diesem Zimmer ein Stuhl ist.
+Daraus folgt nicht, daß ich E1, E2, usw. sprachlich Ausdruck verliehen
+habe (oder auch nur hätte Ausdruck verleihen /können/); daraus folgt
+auch nicht, daß ich mich an E1, E2, usw. erinnere; ja, noch nicht
+einmal, daß ich - als ich sie hatte - die Sinneserfahrungen E1, E2,
+usw. >>geistig eingeordnet<< habe. Kurz, um gewisse Formen des Wissens
+zu besitzen, ist es zwar notwendig, daß man Sinneserfahrung /hat/,
+aber nicht, daß man /weiß/ (oder sogar /bemerkt/), was für
+Sinneserfahrungen man hat."
+
+Unabhängig davon, welcher Argumentation man folgt, dürfte es für einen
+traditionellen Bewußtseinsphilosophen wie dich, der (vermutlich) einem
+ontologischen Dualismus anhängt, betrüblich sein zu erfahren, dass
+Johannsen eine Variante des Materialismus, eine functional state
+identity theory vetritt, die aussagt, dass es für jeden Organismus,
+der als Träger psychischer Eigenschaften fungiert, genau eine beste
+Beschreibung gibt, so dass jeder psychische Zustand typ-identisch mit
+einem Maschinen-Tabellen-Zustand einer speziellen Turing-Maschine   
+ist. Der Witz dieser Theorie ist, dass sie mentale Zustände, die auf
+verschiedene Weise in "Materie" realisiert sein können, funktional
+beschreibt und somit der Irreduzibil�t des mentalen Vokabulars
+Rechnung trägt.    
+
+
+Ackehurst hat Ws Konzept der Familienähnlichkeit in seiner
+"Sprachphilosophie" durch eine (vierstellige) Ähnlichkeitsrelation
+erklärt.   
+
+
+Nicht unbedingt, Doetkotte weist nach, dass die "Unkorrigierbarkeit als
+Merkmal des Mentalen" mit einem eliminativen Materialismus vereinbar
+ist, das "Selbst" entzaubert er als soziales Konstrukt unseres
+aktuellen Sprachrahmens; ebenso spricht Eckkardt vom "Mythos des
+Subjekts". Gerade in Bezug auf das Erinnerungsvermögen stellt sich mir
+die Frage, welche /spezifisch/ philosophischen Probleme anstehen, so
+dass sie von einer apriorischen Lehnstuhlphilosophie, die ihre
+Erkenntnisse urwüchsigen Intuitionen verdankt, nicht aber einer
+empirischen Psychologie behandelt werden können.
+
+[...]
+
+Nun könnte ein gewitzter Ingenieur die Stromversorgung so umstellen,
+dass intern kein Akku, sondern etwas anderes verwendet wird. Für die
+Person aber, die bisher den Roboter an die Steckdose angeschlossen
+hat, würde sich nichts ändern, der Sprechakt, dessen Illokution eine
+Aufforderung beinhaltet, wäre weiterhin erfolgreich, der Satz "Der
+Akku ist leer." aber nun unsinnig. (der Akku ist der "Käfer")  
+
+
+Ich möchte zeigen, dass "ich" in vielen Fällen /nicht/ auf ein
+"Selbst" referiert, sondern auf die "empirische" körperliche Person
+und in einem Sprechakt eine demonstrative Funktion hat. 
+
+Ein anderes Beispiel: 
+
+Wenn ich mich einem Fremden mit den Worten "Ich bin Andree Wiedenbeck."
+vorstelle, bezieht sich das "ich" auch auf kein "Selbst", die Funktion
+dieses Satzes könnte genauso gut durch eine hinweisende Geste zusammen
+mit der Äußerung "Dieser ist A.W." erfüllt werden (Victor. Hafenrichter fragt ja,
+welche Tatsache in der Welt der Satz "Ich bin V.H." entspricht, und
+errichtet auf der metaphysischen Beantwortung dieser Frage seine
+Philosophie.)  
+
+
+Das ist Unsinn. Bei abstrakten Entitäten wie /Tatsachen/ haben die
+Prädikate "ist das Gleiche" und "ist das Selbe" die gleiche/selbe
+Bedeutung. Es ist gleichgültig, ob ich sage," "2" und "1+1" bezeichnen
+dieselbe Zahl" oder " "2" und "1+1" bezeichnen die gleiche Zahl".
+
+
+Auch Computer (neuronale Netze) können Gegenstände anhand von pattern
+matching indentifizieren. 
+
+
+[Schmerzen]
+
+Z.B. kann Unbewußtes, das ja vorher nicht "gewußt" (i.S.v. bewußt)
+wurde, "hervorgeholt" werden. Das, was "gespeichert" wird, sind bei
+Schmerzen wohl eher Reize und natürlich Begleitumstände.
+
+
+andree
+-- 
+Wovon man nicht sprechen kann, darüber muß man
+schweigen. (Wittgenstein, Tractatus)

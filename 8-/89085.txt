@@ -1,0 +1,31 @@
+Falls dein Axiomensystem über das folgende Axiom (A1) verfügt (sowie
+über die Schlussregel MP), ist die Lösung sehr einfach:
+
+Axiom (Axiomenschema):
+
+	 A1   A -> (B -> A)
+
+Schlussregel:
+
+	     A    A -> B
+	     -----------  (MP)
+	          B
+
+	     "Aus A und A -> B folgere B."
+
+Zu zeigen:
+
+	p -> q |- p -> (p -> q)
+
+(1)  p -> q                       Prämisse
+(2) (p -> q) -> (p -> (p -> q))   aus A1 (durch Einsetzung)
+(3)  p -> (p -> q)                1,2 MP
+
+
+Erklärung: 
+
+In Zeile 2 wird A1 verwendet, dazu muss man für A und B entsprechnde
+Formeln einsetzen. Hier haben wir: A := (p -> q) und B := p.
+
+
+A.

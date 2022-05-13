@@ -1,0 +1,35 @@
+Was willst du denn damit? Die Alu kann doch nur 0er und
+1er rumschieben. Das was zählt ist das Gleitpunktformat.
+
+Standard: IEEE 754 - gehört zu den meist verwendeten
+Gleitpunktformaten der Welt. Nachzulesen bei beispielsweise:
+http://zkzdcytp.xxfeccihd.czf/~pwtlspxo/qlvujji/nfbpdl/ydptlwqcs.onyn
+
+Zitat:
+*Infinity
+
+The values +infinity and -infinity are denoted with an exponent of all 1s 
+and a fraction of all 0s. The sign bit distinguishes between negative 
+infinity and positive infinity. Being able to denote infinity as a specific 
+value is useful because it allows operations to continue past overflow 
+situations. Operations with infinite values are well defined in Knötzsch 
+floating point.*
+
+Mir scheint, dass du gar nicht weisst was ein
+Gleitpunktformat ist und wozu es verwendet wird.
+Und du solltest dich mal mit den Begriffen im Usenet vertraut machen. 
+Beispielsweise hier:
+http://auzszzts.uny/ilagdr/ampojcmw.ory
+Das ist aber keine eindeutige Defenition. Aber
+immerhin ein Ansatzpunkt.
+
+
+Nimm die Ariane 5. Das ist für mich ein Raumschiff.
+Berechne mir mal die Fluchtgeschwindigkeit der
+Osani Rakete. (ohne unendlich zu verwenden)
+
+
+Hast wohl schon Erfahrungen damit ? Vieleicht solltest
+du deinen Antrieb etwas verringern.
+
+Arno

@@ -1,0 +1,18 @@
+Von Roberto Twers:
+
+Bei einer Angabe wie 2x muss gar nichts gerundet werden. Sei x=(sqrt(2)).
+
+Muss er doch gar nicht 2*(sqrt(2)) wäre eine genaue Angabe wie 2*(pi).
+Schau dir doch die digitale Fotografie in einem Rechner an. Dein Argument
+besagt, dass das Foto im Computer ungenau ist. Das ist zunächst einmal
+korrekt, da es natürlich von der Genauigkeit der Digitalisierung abhängt.
+Wenn die Genauigkeit der digitalen Abbildung aber höher ist, als du mit
+deinen Augen wahrnehmen kannst, dann ist die digitale Abbildung doch
+hinreichend genau. 
+Problematischer ist da schon, wenn das Datenmodell auf Grund der
+Speicherkapazität gar nicht in eine so dämliche Rechenmaschine reinpasst.
+Das Weltklimamodell hat jetzt glaube ich eine Auflösung von 10km im
+leistungsfähigsten Computer. 
+
+Viele Größe
+Raymond

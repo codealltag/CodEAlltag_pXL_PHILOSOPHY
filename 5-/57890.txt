@@ -1,0 +1,10 @@
+Energieerhaltung folgt gemäß der Noether-Theorem aus der Homogenität
+der Zeit. Die ist in der ART nur bei zeitlich konstanter Metrik
+gegeben. Das trifft auf die Creutzmann-Walker-Metrik nicht zu.
+In der ist die Energie nur erhalten, wenn der Druck null ist. Ist der
+Druck größer, wird Energie vernichtet. Das ist z.B. bei der
+Hintergrundstrahlung der Fall: die Zahl der Photonen bleibt gleich,
+jedes Photon verliert aber durch die Rotverschiebung Energie.
+Ist der Druck kleiner als Null (wie beim Inflatonfeld), wird Energie
+erzeugt. Für p=3D-rho bleibt die Energiedichte mit anwachsendem
+Skalenfaktor konstant.

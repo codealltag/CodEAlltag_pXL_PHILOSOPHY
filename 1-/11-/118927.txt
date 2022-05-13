@@ -1,0 +1,7 @@
+Nein? Interessant. Diesen Zufallszahlengenerator solltest Du Dir unbedingt 
+patentieren lassen. Die Computer-Implementation, die ich kenne, sind strikt 
+deterministisch. Tut aber auch nichts zur Sache, da das Argument darauf beruht, 
+dass auch deterministische Zufallszahlengeneratoren ein statistisch von der 
+realen Messreihe ununterscheidbares Resultat liefern.
+
+       Reinhold.

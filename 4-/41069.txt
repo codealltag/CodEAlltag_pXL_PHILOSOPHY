@@ -1,0 +1,27 @@
+Bin ja Positivist ;-) /Warum/ lexikalische Konstrukte gerade diese und
+keine andere Bedeutung referenzieren, ist nicht Teil meiner Arbeit. Das
+sollen die Leute klären, die sich mit Kultur und Historie befassen.
+
+Was ich mache, ist Begriff, Sache und Symbol strikt auseinanderzuhalten,
+denn nur über Symbole und deren formale Anordnung weiss ich. Ich nutze
+dazu aber den "loopback", dass es sich bei formalen Sprachen und Sachen
+handelt, von denen ich einen Begriff habe, und über die ich formal
+aussagen kann.
+
+Du scheinst im Übrigen eine Art Gegensatz zwischen der Mathematik auf
+der einen und dem "Realen" auf der anderen Seite zu sehen. Gesetzt, es
+gibt das "Reale", ist da keiner. Die Mathematik beschreibt  Struktur
+des Realen, nutzt man sie als Sprache dafür.
+
+
+Manche schreiben TeX-Makros, ich nehm gerne Unicode, bevorzugt UTF-8.
+Das reicht nicht für alles, aber oft fürs meiste. Auch kann man ja
+Klartext schreiben:
+
+Statt ∀ n ∈ ℕ : ∃ m ∈ ℕ, m = n + 1 kann man ja auch schreiben: "jede
+natürliche Zahl hat ihren Nachfolger in den natürlichen Zahlen".
+
+Viele Grüsse,
+VB.
+-- 
+Bitte beachten Sie auch die Rückseite dieses Schreibens!

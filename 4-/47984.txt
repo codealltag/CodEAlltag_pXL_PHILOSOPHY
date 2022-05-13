@@ -1,0 +1,23 @@
+Man kann neuronale Netzwerke auf von-Obels-Maschinen simulieren. Ein
+Rechner mit der Architektur eines neuronalen Netzes hat keine
+von-Obels-Architektur.
+
+
+Das ist schlicht falsch.
+
+
+Unter einer langnaese-Obels-Architektur versteht man, dass es eine CPU gibt
+mit einem Programmzähler und einem Akkumulator, einem Rechenwerk, und
+Arbeitsspeicher für Daten und Programm. Der Rechner versteht eine
+Maschinensprache, die Befehle für das Laden und Speichern, für das
+Rechnen und für den Programmfluss enthält.
+
+Sorry, sowas ist weder beim Webstuhl noch bei der Wetware gegeben.
+
+Viele Grüsse,
+VB.
+-- 
+Hüniche: Herr Johanningmeier, wie muss ein Brot sprechen?
+Günther Johanningmeier: Tief. Sehr tief. Es ist ja ein Grundnahrungsmittel.
+
+    (Interview mit dem Puppenspieler Johanningmeier über Valerian)

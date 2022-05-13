@@ -1,0 +1,47 @@
+Ich kann gerne Stellung nehmen, wenn Du möchtest. Mathematiker kann man
+sein, muss man dazu aber nicht (solange man Grundlegendes versteht). Die
+Idee hebt auf die Identität ab und auf Gleichheit bzw. Ungleichheit von
+Mengen. Als Mengenlehre verwende ich die herkömmliche (ZFC).
+
+Zusätzlich setze ich ein Sprachbild voraus, in dem Aussagen etwas
+bedeuten und nicht etwa (wie beispielsweise Formalsprachen in der
+Informatik) bedeutungsfrei gesehen werden. Ich verwende das semiotische
+Dreieck, das ginge aber auch anders.
+
+In der Mengenlehre ist es so, dass zwei Mengen gleich sind, falls sie
+dieselben Elemente enthalten. Sie sind nicht gleich, wenn sie nicht
+(ausschliesslich) dieselben Elemente enthalten. Aussagen sind nicht
+identisch, wenn sie (teilweise) Unterschiedliches bedeuten.
+
+Dann argumentiere ich über die Kardinalität von Mengen. Ich
+argumentiere, dass es Mengen von Aussagen gibt, die überabzählbar sind.
+Ja, es ist sogar einfach zu zeigen, dass es Unmengen von Aussagen gibt,
+die allesamt wechselseitig nicht identisch sind.
+
+Nun kann man darüber sprechen, ob so etwas wie die Kardinalität von
+Bedeutung überhaupt existiert, und ob das überhaupt etwas
+Operationalisierbares ist. Ich argumentiere so, dass falls man so
+sprechen möchte, dass Bedeutung dann notwendigerweise eine Unmenge
+bildet, weil es eben eine Unmenge von wechselseitig nicht Gleiches
+bedeutenden Aussagen gibt.
+
+Nun sind die Sprachen allerdings alle abzählbar. Das ist etwas für einen
+Informatiker Triviales, schliesslich sind Sprachen Teilmengen der
+Potenzmenge einer endlichen Menge von Zeichen, mit denen sie gebildet
+werden. Das gilt übrigens nicht nur für Schriftzeichen, sondern für alle
+Arten Zeichen. In der Informatik werden Sprachen sogar so definiert,
+weil wir dort ja (bisher) nicht über ihre Bedeutung sprechen.
+
+Um zu explizieren, muss man Sprachmitteln eindeutig Bedeutung zuordnen.
+Die Explikation macht gerade das Wesen der Analytik aus. Entsprechend
+kann man analytisch (z.B. innerhalb eines Modells) nur abzählbar viel
+unterschiedlich Bedeutendes argumentieren, trifft also immer nur einen
+sehr kleinen Teil dessen, worüber man reden kann. Ich nenne das die
+Insuffizienz der Analytik.
+
+Viele Grüsse,
+VB.
+-- 
+Wenn Ickerodt „Urwahl“ hört, ruft der „Rolex!“
+
+    (Hans Collin)

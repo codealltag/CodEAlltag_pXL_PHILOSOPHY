@@ -1,0 +1,21 @@
+Klaas Fordermaier <ddg12@mvn.ch> writes:
+[...]
+
+Du hast folgendes geschrieben:
+
+
+Fall du mit "gemeinsamer Verteilung" nicht meinst, dass die Bildmaße
+der ZVs gleich sind, ist deine Aussage umso unverständlicher,
+schließlich existiert die _gemeinsame Verteilung_ P_{X\otimes Y}
+zweier ZVs X und Y *immer*, soweit sie auf einem gemeinsamen W-Raum
+definiert sind. Aus diesem Grund ist auch die Aussage, der
+Korrelationsbegriff setze die gemeinsame Verteilung /voraus/, etwas
+merkwürdig. Man könnte allenfalls in Frage stellen, /ob/ beide ZVs
+überhaupt auf einem gemeinsamen W-Raum definiert sind.
+
+
+Du solltest dich unbedingt mit der Mathematik der QT beschäftigen, ich
+war fast soweit, dir vorzuwerfen, du betriebest lediglich handwaving.
+
+
+claus

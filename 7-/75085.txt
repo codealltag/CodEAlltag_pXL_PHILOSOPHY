@@ -1,0 +1,9 @@
+Tun sie nicht.
+
+ds^2 = dx^2 - dt^2, Lichtkegel sind x=t, x=-t, sie stehen senkrecht auf
+sich selbst, aber nicht senkrecht auf t=0.
+
+Die Hyperflächen t=const definieren lediglich orthogonale Trajektorien vom
+Typ x(t)=c, die "Trajektorien in Ruhe" relativ zur Hyperebenenschar sind.
+
+Enno

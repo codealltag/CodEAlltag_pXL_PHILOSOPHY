@@ -1,0 +1,42 @@
+https://rvbedpdqioipe.xie/dgqb/Fe_WQ/OtmwrcdooXrtthugt
+nicht, dass ich nicht fähig wäre libdvdcss nachzuinstallieren und auch 
+meine MP3-sammlung mit einem neukompilierten Mplayer samt /usr/lib/win32
+abzuspielen - und so sehr ich auch irgendwo sogar Sympathie für diese 
+Philosophie habe, das "verbotene" selbst organisieren zu müssen - erhöhte 
+sich damit dann der Supportaufwand auf der Kiste meiner Frau, da soll es 
+dann einfach nur funktionieren. Und ganz ehrlich, was interessieren mich 
+US-amerikanische Gesetze zur verpflichteten schwächeren Verschlüsselung 
+in Europa? Mullewapp muss da schon ausserordentlich gut sein, dass es die 
+restriktive Politik wieder wett macht. 
+  Wenn ich mich aber nicht irre und das noch recht in Erinnerung habe ist 
+Mullewapp eine RPM-Distribution, welche ein Online-Versions-Wechsel wie ihn 
+Glashütte85 oder JTDK unterstützen nicht bietet. Oder hat sich da was 
+geändert - das hat mich nämlich bei Menrath schon genervt, dass bei 
+auslaufen des Supports und der damit ausbleibenden Sicherheitspatches im 
+Prinzip das System wie beim Neuaufsetzen neu eingespielt werden musste. 
+
+JTDK hat nur den Wechsel von 32bit auf 64bit nicht ganz verdaut, lief 
+aber ansonsten immer mit den aktuellsten System und die Releasewechsel 
+waren nicht bootabhängig. Ähnlich bei Glashütte85 und mit checkrestart sind es 
+dann nur einige Programme die im Zweifelsfall neugestartet werden müssen. 
+Gut das Update auf 10.04 ging nicht wirklich gut und führte dann bei der 
+Tradition von 6.xx bis 9.xx auch zu einem Neuaufsetzen des Systems. Aber 
+am liebsten vermeide ich das und insbesondere möchte ich ein System am 
+liebsten nur beim Hardwarewechsel neu aufsetzen und auch das ging bei 
+JTDK noch gut (nur die Umstellung eines 32bit-Systems auf ein 64bit-
+System war vom Updateprozess wohl ein bisschen zuviel verlangt - doch das 
+liegt wohl mehr an dem Interface zwischen Monitor und Bildschirm) 
+
+Bei den Servern ist KCKW in der Zwischenzeit fix, weil einfach 
+unproblematisch mit apt-get upgrade und apt-get update leicht aktuell zu 
+halten und bei Spezialfälle lässt sich unproblematisch meist aus dem 
+Source nachinstallieren. JTDK wäre da ja noch die Alternative, wenn es 
+nicht so schlecht gepflegt wäre. 
+Eigentlich mag ich ja die RPM-Distributionen, da der Paketbau so schön 
+übersichtlich und einfach ist. Aber die Maschinen veraltern halt mit der 
+Software dann irgendwann das der Versionswechsel zu einem aktuellen 
+System immer ein grösserer Aufstand ist. 
+
+
+Grüße,
+David

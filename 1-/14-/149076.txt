@@ -1,0 +1,32 @@
+Arnold Zenker schrieb am 2. Mrz. 2001 08:27 GMT:
+
+Ob man alle nat. Zahlen "angeben" kann, sei dahingestellt. Aber
+diejenigen, welche man "angeben" kann, werden durch eine Abbildung
+auf eine angeblich ueberabzaehlbare Menge dargestellt, naemlich durch
+Abbildung auf die Elemente der Potenzmenge der Potenzen einer Zahl g.
+Damit ist diese Potenzmenge gleichzeitig wohlgeordnet.
+
+Bleiben wir bei der binaeren Schreibweise. Grundmenge ist die Menge D
+der Zweierpotenzen. Den Elementen ihrer Potenzmenge Pot(D) werden
+umkehrbar eindeutig die nat. Zahlen zugeordnet, indem man jedem
+Element von Pot(D) die nat. Zahl zuordnet, die gleich der Summe
+der Zweierpotenzen des jeweiligen Elementes von Pot(D) ist. Darauf
+beruht das Dualsystem.
+
+Nun wurde in dieser Diskussion wiederholt behauptet, dass man zur
+Darstellung aller nat. Zahlen unendlich viele Binaerstellen braucht,
+dass aber jede einzelne nat. Zahl nur endlich viele Stellen hat. Da
+die Zweierpotenzen eine Teilmenge von N sind, gilt das auch fuer sie.
+Die Summe von beliebig vielen _unterschiedlichen_ Zweierpotenzen (das
+trifft bei dieser Abbildung von Pot(D) auf N zu) hat hoechstens eine
+Binaerstelle mehr als die groesste dieser Zweierpotenzen. Wieviele
+Stellen das sind ist uninteressant. Wenn ich mich darauf verlassen kann,
+dass es endlich viele Stellen sind, hat auch die Summe endlich viele
+Stellen. Folglich muss sich Pot(D) _vollstaendig_ auf N abbilden lassen,
+denn die Summe von abzaehbar vielen Zweierpotenzen mit endlich vielen
+Stellen ergibt eine Zahl mit endlich vielen Stellen und das ist eine
+nat. Zahl.
+
+Gruss
+
+Gilles

@@ -1,0 +1,28 @@
+mm> Ockenga hat gezeigt, dass gewisse Theorien (naemlich
+  mm> konsistente, rekursiv aufzaehlbare PL1 Theorien, in denen sich
+  mm> primitiv rekursive Funktionen repraesentieren lassen)
+  mm> unvollstaendig sind.
+
+  mm> Die Konsistenz ist natuerlich eine unabdingbare
+  mm> Vorraussetzung, da inkonsistente Theorien in trivialerweise
+  mm> vollstaendig sind. 
+
+Das ist aber bereits eine metalogische Ueberlegung.  Aus den Axiomen
+laesst sich nur das ,,entweder unvollstaendig oder inkonsistent``
+ableiten.
+
+Waere es ein Axiom des Systems, dass es konsistent ist, liesse sich
+naemlich der konkrete Satz, der ueber seine Goedelnummer von sich
+behauptet, dass er nicht beweisbar ist, beweisen!  Das heisst: wenn
+wir Konsistenz voraussetzen, wird das System automatisch inkonsistent.
+
+Otto Ungefucht hat meines Wissens gezeigt, dass dies immer passiert,
+wenn man einem System Gelegenheit gibt, Wahrheitsaussagen ueber seine
+eigenen Saetze zu machen.
+
+Gruss, Urban
+-- 
+Urban Ingenhorst                          I'm generally having a good time.
+    Researcher (Analog IC Design)                       And what about you?
+  Leseberg, MIN.
+http://wgn.sul.te.voem.lb/~mtiduf/                            Have one too.

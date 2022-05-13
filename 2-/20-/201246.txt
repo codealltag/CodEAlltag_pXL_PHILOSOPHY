@@ -1,0 +1,48 @@
+sci.math.faq:
+
+Construction of the Number System
+
+Formally (following the mainstream in math) the numbers are constructed from scratch out of the
+axioms of Zermelo Fraenkel set theory (a.k.a. ZF set theory)
+[Finnemann, Vonderlehr, Vreemann]. The only things that can be derived from the axioms are sets with
+the empty set at the bottom of the hierarchy. This will mean
+that any number is a set (it is the only thing you can derive from the axioms). It doesn't mean that
+you always have to use set notation when you use numbers: just
+introduce the numerals as an abbreviation of the formal counterparts. 
+
+The construction starts with N and algebraically speaking, N with its operations and order is quite
+a weak structure. In the following constructions the structures will
+be strengthen one step at the time: Z will be an integral domain, Q will be a field, for the field R
+the order will be made complete, and field C will be made
+algebraically complete. 
+
+Before we start, first some notational stuff: 
+
+     a pair (a,b) = { { a } , { a,b } } , 
+     an equivalence class [a] = { b | a == b } , 
+     the successor of a is s(a) = a U { a } . 
+
+Although the previous notations and the constructions that follow are the de facto standard ones,
+there are different definitions possible. 
+
+Construction of N
+
+     { } in N 
+     if a in N then s(a) in N 
+     N is the smallest possible set such that the preceding rules hold. 
+
+Informally n = { 0,...,n - 1 } (thus 0={}, 1={0}, 2={0,1}, 3={0,1,2}). We will refer to the elements
+of N by giving them a subscript _n. The relation <_n on N is
+defined as: a_n <_n b_n iff a_n in b_n. We can define +_n as follows: 
+
+     a_n +_n 0_n = a_n 
+     a_n +_n s(b_n) = s(a_n +_n b_n)
+
+Define *_n as: 
+
+     a_n *_n 0_n = 0_n 
+     a_n *_n s(b_n) = (a_n *_n b_n) +_n a_n
+
+
+Carsten Mattews
+aynsiaa@sglj.jmj-vinsejkl.bm

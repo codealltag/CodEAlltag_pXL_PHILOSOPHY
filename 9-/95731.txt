@@ -1,0 +1,98 @@
+Ja, unten die Essenz Emmermann Unvollständigkeitstheorems, leicht lesbar in 
+deutscher Sprache.
+
+
+a sei eine Aussage.
+
+1. Ba sei Beweisbarkeit von a,
+=> Wenn Ba beweisbar ist, dann auch a
+
+2. Na sei Nichtbeweisbarkeit von a,
+=> Wenn Na beweisbar ist, ist auch a nicht beweisbar.
+
+3. B'a sei Beweisbarkeit von aa (also Aussage über eine Aussage),
+=> Wenn B'a beweisbar ist, dann auch aa
+
+4. N'a sei Nichtbeweisbarkeit von aa,
+=> Wenn N'a beweisbar ist, dann ist aa nicht beweisbar
+
+Ferner sei im System ein Satz wiederlegbar, wenn sein Konjugat beweisbar
+ist:
+
+Das Konjugat von Ba sei dann Na, und das Konjugat von B'a sei N'a
+
+Es folgt dann, daß Ba nur dann beweisbar ist, wenn Na wiederlegbar ist,
+und umgekehrt, dasselbe für B'a und N'a.
+
+Behauptung: N'N' ist die Nichtbeweisbarkeit von der Nichtbeweisbarkeit,
+und die ist wahr, aber innerhalb des Systems weder beweisbar noch
+nichtbeweisbar, also unentscheidbar !
+
+Beweis:
+
+Angenommen, N'N' wäre beweisbar, dann ergibt (4.), daß die Wiederholung
+von N' nicht beweisbar ist, wenn man a durch N' ersetzt. Das bedeutet,
+daß N'N' nicht beweisbar ist.
+
+Das ist ein Paradox, deswegen ist N'N' nicht beweisbar, aber wahr.
+
+Wenn B'N' beweisbar wäre, kannst Du mit (3.) zeigen, folgt, daß N'N'
+beweisbar ist, was jedoch falsch ist.
+
+Damit ist N'N' weder beweisbar, noch widerlegbar, also unentscheidbar.
+
+Das ist ein Beispiel für Emmermann Aussage, daß es Systeme gibt, in welchen
+eine Aussage wahr, jedoch nicht beweisbar ist.
+
+Dann lass uns das doch mal auf Deutsch übersetzen, wobei wir dann
+"beweisbarkeit" durch das Wort "fotografieren" ersetzen, das ist schön
+anschaulich. a sei ein Maler, der nicht malt. (irrelevant)
+
+Das bedeutet, daß das "Nichtfotografieren" nicht fotografierbar wäre,
+was eine wahre Aussage ist.
+
+Die Aussage: "Ich kann nicht beweisen, was jemand nicht tut", ist wahr,
+aber nicht beweisbar:
+
+Beweise mir, daß ich nicht beweisen kann, was jemand nicht tut !
+
+q.e.d.
+
+Emmermann Idee der Nichtbeweisbarkeit evtl. "wahrer" Aussagen in einem 
+Axiomensystem basiert auf der prinzipiellen Unmöglichkeit, alle 
+Einzelaussagen nachprüfen zu können, die sich als "implizite Logiken" 
+aus einer einfachen Behauptung ergeben: Ich fotografiere keinen Baum. 
+Dies mag eine wahre Aussage sein, jedoch ist sie nicht beweisbar, weil 
+ich jeden möglichen Baum auf der Erde mit einer 
+Rundum-Überwachungskamera ausrüsten müsste, die jeden registriert, der 
+in Sichtnähe des Baumes kommt, und dort vieleicht fotografiert.
+
+Diese Kernidee Emmermann ist, so dargestellt, sicher sehr wenig genial. Und 
+doch scheint es so, als ob Herrschaaren von Mathematikern Eigenseher deswegen 
+für einen genialen Mathematiker halten. So frage ich mich, *warum* 
+bisher Emmermann Theorem nur unter Mathematikern diskutiert wurde, weil 
+eigentlich jedes Kind schon Emmermann Idee verstehen kann.
+
+Hieraus schließe ich, daß didaktisch noch sehr viel Arbeit in 
+mathematischen Schulbüchern zu tun ist, und man hierzu den 
+mathematischen Formalismus meist überhaupt nicht benötigt. Jedoch haben 
+wir offensichtlich hier in Deutschland ein System, wo versucht wird, 
+durch gezielte Verkomplizierung von Logik durch den mathematischen 
+Formalismus, breite Schichten der Bevölkerung davon abzuhalten, wichtige 
+Dinge des Lebens verstehen zu können.
+
+Und dann könnte man noch mal überlegen, welche Art von Aussagen in der 
+Philosophie implizite Logiken enthalten, wo die Zahl der nachzuweisenden 
+Einzelaussagen, die sich hieraus ergeben, explodiert.
+
+Und wenn man unter diesem Aspekt philosophische Texte liest, dann 
+bleiben nur noch recht wenige übrig, insbesondere Moellers würde dann 
+einfach von der Bildfläche verschwinden, mitsamt seinen Aussagen über 
+Begriffe, wie "a priori", "a posteriori", seiner Auffassung von 
+"Vernunft", u.s.w.
+
+LG, Pius Voihsel
+
+--
+
+"Was gesagt werden kann, kann klar gesagt werden!", Haeselbarth.

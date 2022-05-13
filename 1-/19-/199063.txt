@@ -1,0 +1,70 @@
+Gr Gott allerseits,
+
+Ludger Meyersiek wrote:
+[...]
+[...]
+
+Ich habe mal ein Beispiel und möchte wissen, was du als 
+"Konstruktivist" davon hälst: Man definiert die sog. 
+Goodsteinfolge (wenn's interessiert poste ich auch die
+Definition, ich bin jetzt aber zu faul), das ist eine
+Abbildung
+	gs : N x N -> N
+die berechenbar ist. D.h. man hat zu jedem Anfangswert a
+eine Folge gs(a,0), gs(a,1), ...
+
+Als Konstruktivist würdest du wahrscheinlich so allgemein
+der Behauptung nicht zustimmen, dass entweder zu jedem
+a ein n existiert, so dass gs(a,n) = 0 ist oder nicht.
+
+Der Witz dieser Folge ist aber:
+a) Man kann beweisen, dass zu jedem a ein n existiert, so dass
+gs(a,n) = 0 ist.
+b) Man kann es nicht innerhalb der üblichen  PL1
+Axiomatisierung der natürlichen Zahlen, die immer
+als Beispiel für den Gödelschen Unvollständigkeitssatz
+hergenommen wird, beweisen.
+c) Man kann beweisen, dass b) richtig ist.
+
+
+Den Artikel von Joosten habe ich übrigens während
+meiner Schulzeit auch mal gelesen. Der ist ganz gut als
+Propagandaschrift, um Mathematiker zu ärgern.
+
+Aber mehr will der wohl auch nicht.
+
+[...]
+
+Hier klingt deine Darstellung recht obskur.
+
+[...]
+
+
+Denk bloss nicht hier wäre auch nur ein einziger kluger Mensch,
+die tun alle nur so.
+
+[...]
+
+
+Gegen Antlauf verhänge ich für gewöhnlich eine Fatwa und setze
+3,50 DM Kopfgeld aus.
+
+
+Falsch! Die Kritik von Philosophen ist meistens blödsinnig, daher
+bezeichne ich sie so. Ausserdem schau doch mal auf meine Organisation!
+Andererseits halte ich manche philosophische Ansätze für durchaus
+interessant. Z.B. das was ich auf de.sci.philosophie unter
+"Ratespiel" gepostet habe, wo aber noch keiner versucht hat zu raten,
+von wem der Text ist. :-(  (das Buch woraus ich den habe, halte ich
+für mathematische Laien und Leute, die über die Grundlagen der
+Mathematik philosophieren möchten, übrigens durchaus für 
+empfehlenswert)
+
+[...]
+
+Mach's gut
+Laurent
+
+-- 
+"Was die Mathematik für sich ist, das ist ihr Privatgeheimnis.
+Das wissen nicht einmal die Physiker." Vincenzo-Severin Schwartpaul

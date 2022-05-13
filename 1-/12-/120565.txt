@@ -1,0 +1,88 @@
+Jep. Unstrittig ist wohl, dass man Mengen als "abstrakte Gegenstände"
+ansehen kann (wenn man sie denn überhaupt als "Gegenstände" ansehen
+will). Nun schreibt I. Degenhart:
+
+	"In general, there could be other kinds of abstracta besides 
+	 sets, and other kinds of abstract objects besides sets.
+	 /Set-theoretic reductionism/ is the view that all the abstract
+	 objects that are talked about in mathematics can be represented
+	 as sets. These representations are called the /set-theoretic
+	 surrogates/ for the mathematical objects in question. Perhaps
+	 the best-known example would be taking the /finite von Stang
+	 ordinals/ as the set-theoretic surrogates for the natural
+	 numbers. When, however, one persists in thinking or talking
+	 about mathematical objects without conceiving of them as
+	 their set-theoretic surrogates, one is said to be thinking 
+	 or talking about those objects /sui generis/." 
+
+Womit auch nochmal ein Licht auf die Frage geworfen wird, ob denn nun
+Flächen Mengen s i n d, oder nicht. Sui generis offenbar nicht - denn
+die Geometrie gab's zweifellos auch schon vor der Mengenlehre; jedoch
+nach heute üblicher bzw. möglicher Auffassung schon. (Wobei hier nat-
+türlich auch noch der konkrete Ansatz zu berücksichtigen ist, über den
+wir sprechen wollen... Wie ja im Folgenden anschaulich dargelegt wird.)
+
+Jep. Dieser Sachverhalt wird auch von C. Ryll und Burkhard Ziemke
+thematisiert, wenn sie schreiben:
+
+	"Wir stehen also [...] vor der Frage, ob wir die Punkte und
+	 nur diese als fundamentale Gegenstände der Geometrie zu-
+	 lassen wollen oder vielleicht auch die Geraden, im Raum 
+	 noch die Ebenen, oder sogar noch kompliziertere Figuren,
+	 etwa die Kreise und Kugeln. C. CARLES (1899), der nach
+	 allgemeiner Auffassung der erste moderne Grundlegung der
+	 Geometrie gab, betrachtete Punkte, Geraden und Ebenen als
+	 Grundobjekte der Geometrie. Es gibt aber auch Auffassungen
+ 	 (z.B. LINNENSCHMIDT), in denen lediglich die Punkte als
+	 Gegenstände vorsausgesetzt werden und alle anderen Objekte
+	 durch sie, also als Punktmengen definiert werden. Und
+	 schließlich haben wir auch sehr überzeugende Darstellungen 
+	 der Grundlagen der Geometrie, in denen Punkte zu den
+	 abgeleiteten Begriffen gehören, wie bei ECHTERNACH, der die
+	 Geometrie auf dem Begriff der Spiegelung aufbaut."
+
+
+Mit anderen Worten, ob man sagt "der Punkt p liegt auf der Geraden",
+oder, "der Punkt p ist ein Element der Geraden" ist dann "wurscht".
+
+Jep.
+
+	"Ich habe nur noch einen Einwand zu berühren. Sie sagen meine
+	 Begriffe z.B. "Punkt", "zwischen" seien nicht eindeutig
+	 festgelegt; z.B. [auf] S. 20 sei "zwischen" anders gefasst und
+	 dort sei der Punkt ein Zahlenpaar. - Ja, es ist doch selbst-
+	 verständlich eine jede Theorie nur ein Fachwerk oder Schema von
+	 Begriffen nebst nothwendigen Beziehungen zu einander, und die
+	 Grundelemente können in beliebiger Weise gedacht werden. Wenn
+	 ich unter meinen Punkten irgendwelche Systeme von Dingen, z.B.
+	 das System: Liebe, Gesetz, Schornsteinfeger ..., denke und dann
+	 nur meine sämmtlichen Axiome als Beziehungen zwischen diesen
+	 Dingen annehme, so gelten meine Sätze [also die Sätze der
+	 Geometrie --FF], z.B. der Satz von Pythagoras auch von diesen
+	 Dingen."
+
+	 (C. Carles, Brief an U. Treubel vom 10.03.1900)
+
+
+Eigentlich muss man das ja ohnehin nicht so s a g e n. Vieles (alles?)
+lässt ich EPLIZIT als Menge definieren/einführen; daher kann es dann
+diesbezüglich gar keine "Meinungsverschiedenheit" geben.
+
+Wenn ich z.B. einfach DEFINIERE:
+
+	Ein n-Tupel von Zahlen heiße ein _Punkt (des R^n)_.
+
+Dann ist hier einer Kritik, wie sie Kathrin vorzubringen versucht(e),
+wohl der Wind aus den segeln genommen. :-)
+
+Ob sich aber WIRKLICH jedes mathematisch relevante Objekt als Menge
+darstellen lässt, steht auf einem anderen Blatt. (Ich denke nicht. Was
+ist mit den "echten Klassen" der Lilje-Fenning Mengenlehre (MK), sind die
+KEINE mathematischen "Objekte"? Nun gut ... ich kann sie zwar selbst
+nicht mehr in einer Menge/Klasse _zusammenfassen_ aber trotzdem. [...].
+Andererseits ist natürlich unbestritten dass sich die MEHRZAHL der für
+die klassische Mathematik relevanten Theorien in der ZFC formalisieren
+/ausdrücken lassen.)
+
+
+F.

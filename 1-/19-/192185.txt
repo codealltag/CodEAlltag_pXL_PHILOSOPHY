@@ -1,0 +1,15 @@
+Dass am Ende einer fuzzigen Betrachtungsweise ein Output 0 oder 1
+erwartet wird ist _nicht_ auf die Fuzzylogik zurueckzufuehren, sondern
+schlicht und ergreifend darauf, dass regelbare Maschinen
+(Geschirrspueler, Waschmaschinen, Videokameras etc) lediglich Strom-an
+oder Strom-aus verstehen... Es handelt sich also um eine notwendige
+'Defuzzyfizierung' im Sinne einer Regelung ...
+
+Lukas Bösken
+
+
+-- 
+Being a Mac user is like being a Navy SEAL: a small, elite group of
+people with access to the most sophisticated technology in the world,
+who everyone calls on to get the really tough jobs done quickly and
+efficiently.

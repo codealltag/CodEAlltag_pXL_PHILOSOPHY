@@ -1,0 +1,14 @@
+Und Du hast immer noch nicht gelernt, richtig zu lesen.
+
+Logischerweise lief dieses Programm rekursiv, aber der Witz dabei war ja
+genau der, dass sich das Programm dabei selbst veränderte - es schrieb
+entsprechend der Ergebnisse der Selbstprüfung in der Rekursion seinen
+Quellcode immer wieder um! Wenn das nicht Selbstreferenz ist, was dann?
+
+Albert Boldte
+
+-- 
+JPG: Architektur-Werkzeuge für JTW (TM)
+           Jovy  - Architekturbema�ung und Höhenkoten
+           JOP - Flächenermittlung und Raumbuch nach DIN 277
+Info und Demo unter http://twb.ljejkjklv.cl

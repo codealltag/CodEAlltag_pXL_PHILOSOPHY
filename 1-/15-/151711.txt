@@ -1,0 +1,38 @@
+Warum sollte ich sie dann nicht in die Gleichung einsetzen?
+
+
+Zustimmung!! =
+
+
+Vielleicht gelingt nur die Auflösung nicht.
+
+(12,8;3451,2) und (451,32;923,1) sollen als aufgelöst werden.
+12,8 =3D x ; y =3D 3451,2  a =3D 451,32 b =3D 923,1
+(x,0)  + (0,y) =3D (x,0)+ (0,1)*(y,0)=3D (x,0) + i(y,0)
+meinetwegen schliesslich x + iy
+selbiges kann ich dann auch mit a und b tun woraus sich dann a + ib
+ergibt
+mich interessiert ja nicht das komplexe Ergebniss dieser Zahlen sondern
+nur deren Vergleichbarkeit.
+Im reelen Zahlenraum könnte ich vergleichen auf beiden seiten des
+Vergleiches steht i
+12,8 + i* 3451,2  ?<>?  451,32 + i * 923,1
+Wenn man dies ausrechnet sollte man doch zum Schluss zwei Zahlen haben,
+die vergleichbar wären in IR. =
+
+
+tut es aber doch (trotzig auf den Boden Stampf ;-)).
+Das Element i =3D (0,1) heisst imaginäre Einheit. Es gilt:
+         i^2=3D(0,1)^2 =3D (0,1)(0,1) =3D (-1,0)
+         =
+
+         i^2 =3D -1
+
+
+Da i nicht gleich 0 ist, müsste i > 0 oder i < 0, das heisst  -i > 0
+sein.
+ =
+
+
+Meinetwegen Mengen, allerdings meinte ich schon Ebenen, ich verlasse die
+Mengen betrete aber jeweils die nächste Ebene.

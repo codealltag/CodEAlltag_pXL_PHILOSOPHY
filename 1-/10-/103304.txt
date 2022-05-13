@@ -1,0 +1,21 @@
+Flipflop: Das ist eine bistabile Kippschaltung auf der Basis der 
+Zusammenschaltung von zwei NAND- oder NOR-Verknüpfungsgliedern mit einer 
+statischen Rückkopplung (der Ausgang des einen Verkn�pfungsgliedes wird 
+jeweils mit dem Eingang des anderen verbunden, Kreuzkopplung).
+Taschenbuch der Informatik S. 98/99
+NAND = Scheffer-Funktion = ~x1 v ~x2
+NOR = Pierce-Funktion = ~x1 & ~x2
+Taschenbuch der Informatik S. 91
+
+"Zum Schluß nun ging ich auch zu den Handarbeitern. Denn von mir selbst 
+wußte ich, daß ich gar nichts weiß, um es geradeheraus zu sagen, von 
+diesen aber wußte ich doch, daß ich sie vielerlei Schönes wissend finden 
+würde. Und darin betrog ich mich nun auch nicht; sondern sie wußten 
+wirklich, was ich nicht wußte, und waren insofern weiser. Aber, ihr 
+Altbellamont, denselben Fehler wie die Dichter dünkte mich, hatten auch diese 
+trefflichen Meister. Weil er seine Kunst gründlich erlernt hatte, wollte 
+jeder auch in den andern wichtigsten Dingen sehr weise sein; und diese 
+ihre Torheit verdeckte jene ihre Weisheit. (Apologie 22 c-e / I, 13-14.)
+
+Gruß
+Pierre

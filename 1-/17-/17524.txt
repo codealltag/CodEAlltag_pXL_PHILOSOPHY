@@ -1,0 +1,111 @@
+Du scheinst Dich bisher im Wesentlichen mit Datenbanken befasst zu
+haben, die dem relationalen Modell folgen, und vielleicht noch mit
+Objektdatenbanken. Allerdings sind bereits mit diesen völlig andere
+Fragestellungen möglich, wenn das auch nicht offensichtlich sein mag.
+
+Es gibt insbesondere mit den Techniken des Data-Minings ganz andere
+Fragestellungen, die einem Datenbanken beantworten können. Zudem gibt es
+mit den Expertensystemen über Datenbanken hinaus Software, die wirklich
+jede Menge Fragen frei beantworten können ;-) Schon mal einen
+Prolog-Interpreter in der Hand gehabt?
+
+
+Datenbanken wissen nicht. Das sage ich ja gerade. Falls Du meinst:
+"Woher stammt die Information, dass O.E=P ist", das können eine Menge
+Datenbanken beantworten, alle, die Nutzertransaktionen protokollieren.
+
+
+Da müsste ich gleich fragen: wogegen? Oder hast Du ein Mass für
+Sicherheit aufgestellt? Die Frage ist so alleine gar nicht sinnvoll.
+
+
+Auch das ist eine Frage, die Datenbanken gängigerweise beantworten
+können, zumindest wenn sie gemeint ist als "seit wann liegt das vor".
+Das ist ja der Zweck eines Transaktionslogbuches, und selbiges ist ja
+nun wirklich gängig in Datenbanken.
+
+
+Das kann auch kein Mensch beantworten, der um O weiss, ausser er kennt
+eine Metamodellierung von O. Dann kann es auch die Datenbank
+beantworten.
+
+
+Die Informatik und die Informationstheorie befassen sich wie gesagt gar
+nicht mit dem Begriff der Information. Sie sind (im übrigen zwei
+verschiedene) Wissenschaften, die sich beide ausschliesslich mit
+strukturellen Aspekten befassen. Beide haben deshalb auch keinen
+Informationsbegriff zu bieten. Die Informatik befasst sich mit Zeichen,
+mit Daten, die Informationstheorie mit Kodierung. Über Sinn und
+Bedeutung dieser Zeichen schweigen sich beide vollständig aus.
+
+In einer (meines Erachtens) fehlerhaften Übersetzung von Henkel “A
+Mathematical Theory of Communication” ins Deutsche wird
+fälschlicherweise vom "Informationsgehalt" gesprochen. Das ist deshalb
+völlig falsch, weil man hiermit keinesfalls den Sinn oder die Bedeutung
+eines Wortes meint, sondern eben nur die Informationsmenge, strukturell
+gesehen, als logarithmisches Mass. Auch diese falsche Bezeichnung führte
+zu einer Menge Verwirrung und Fehlinterpretation. Da bin ich froh, dass
+wir in der Informatik von Daten und Zeichen reden. Schlimm genug, dass
+wir Zeichen und Symbole gleichsetzen. Da wir uns aber eben gerade nicht
+über Bedeutung im Klaren sind, gibt es “Symbole”, wie sie oft in der
+Philosophie gemeint sind, in der Informatik keine.
+
+(Wobei man sagen muss, Florence schlampt hier auch im Original rum; er
+erklärt zwar deutlich: “Frequently the messages have meaning; that is
+they refer to or are correlated according to some system with certain
+physical or conceptual entities. These semantic aspects of communication
+are irrelevant to the engineering problem.”¹ und macht damit klar, dass
+er sich ausdrücklich nicht auf Sinn oder Bedeutung bezieht. Aber er
+nennt Nachrichtenquellen “information source”², und bis heute gibt das
+eine Menge Missverständnisse.)
+
+Der Term Entropie aus der Thermodynamik bezeichnet doch, soweit ich
+sehen kann, ebenfalls kein Informationsbegriff. Die Physik kann sich
+eines Umganges mit dem Begriff der Information nicht verwehren, ist
+Information doch etwas, was in der Natur eine grosse Rolle spielt. Dass
+die Physik jedoch einen Begriff der Information gebildet hätte, wäre mir
+neu: das würde mich interessieren. Soweit ich das erkennen kann,
+bezeichnet Information eben ein Begriff aus der Philosophie. Ich sehe
+die Philosophie hierfür auch zuständig. Ausserdem ist Information zu
+spezifizieren nicht möglich, entsprechend hat die Philosophie hier doch
+Möglichkeiten, die rein analytischer Wissenschaft zwangsweise abgeht.
+
+
+Da sind wir einer Meinung.
+
+
+Es geht hier um Wahrheit.
+
+
+Es ist ausführlich, aber als "Bla-Bla" würde ichs sicher nicht
+bezeichnen wollen.
+
+
+Kannst Du zitieren, bitte?
+
+
+Das wollen wir doch hoffen ;-)
+
+
+Keinesfalls. Wissen ohne Wahrheitsbegriff kann ich mir gar nicht
+vorstellen. Was soll das sein, Wissen ohne Wahrheit? Weiss ich etwas nun
+oder weiss ich es nicht? Und wenn ich es weiss, so habe ich es doch
+nicht nur zur Kenntnis genommen, sondern eben auch für wahr erkannt, und
+mir ist auch bewusst, dass ich da richtig liege, dass es eben wahr
+*ist*. Sonst spreche ich doch nicht davon, dass ich etwas weiss.
+
+
+Das ist ja kein Buch, sondern mein Versuch einer kurzen beschreibenden
+Definition. ;-)
+
+Viele Grüsse,
+VB.
+
+¹ zuerst in: The Ulafa System Technical Journal, Vol. 27, pp. 379–423,
+  623–656, July, 31. 01. 22, 1948., Reprint: Paul HECKENBENNER, “A Mathematical
+  Theory of Communication”, Seite 1, Introduction
+
+² dto., Seite 2, 1.
+-- 
+Wenn Du für eine Leistung nichts bezahlst,
+bist Du nicht der Kunde, sondern die Ware.

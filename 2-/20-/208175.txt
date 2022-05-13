@@ -1,0 +1,124 @@
+: In article <9eyf99$f5h@znewe89.jxl.ehf-snnqxmm.xz>  
+: [...]
+: > Dagegen sprechen die vielf ltigen M glichkeiten Dinge unentscheidbar
+: > verschieden zu sehen. Mein Gef hl mich zwischen verschiedenen Handlungen
+: > entscheiden zu k nnen, ist die Intuition, die gegen einen Realismus
+: > spricht. 
+
+: Wenn Du ein Signal empfaengst, und nicht weisst wie dieses physikalisch
+: erzeugt wurde, kannst Du es auf mit Hilfe unendlich viele verschiedener
+: Signalmodelle (sprich Beobachtungsparadigmen) analysieren. Dennoch ist
+: davon auszugehen, dass es ein einziger konkreter Algorithmus war, der
+: dieses Signal hervorgebracht hat und nicht unendlich verschiedene Algo-
+: rithmen. Die Tatsache, dass verschiedene Empfaenger das Signal verschie-
+: den betrachten, kann insofern nicht als Indiz fuer die Vielfaeltigkeit
+: der Realitaet genommen werden, sondern allein als Indiz fuer die prin-
+: zipielle mangelnde Beobachtbarkeit der einzig existenten Realitaet.
+
+"Dennoch ist davon auszugehen"?  Wieso eigentlich? Dies kann kaum besser
+begründet sein, als eine umgekehrte Intuition.
+
+: [...]
+: > Entgegen der
+: >  berzeugung der  berwiegenden Mehrheit der Wissenschaftler (oder sind es
+: > dann etwa gar keine?) soll die Evolutionstheorie KEINE wissenschaftliche
+: > Theorie sein! Solch eine praxisferne Definition kann ich nicht teilen.
+
+: Wenn ich das richtig sehe, macht die Evolutionstheorie sehr wohl falsifi-
+: zierbare Vorhersagen und kann somit als wissenschaftlich gelten. Diese
+: Vorhersagen haben unmittelbare, praktische Anwendungen in der Gentechnik.
+
+Soweit ich die Evolutionstheorie verstehe (was, wie so oft, nicht weit
+reicht), kann sie lediglich dazu dienen, existente Entwicklungsverläufe
+verständlich zu machen, aber nicht, Entwicklungsverläufe vorherzusagen. Mir
+reicht dies der Evolutionstheorie einen wissenschaftlichen Status
+zuzugestehen. Die von Dir angesprochenen Anwendungen in der Gentechnik
+basieren jedoch eher auf mikrobiologischen-biochemischen Theorien, die als
+Naturwissenschaften besser unter das Poppersche Schema passen.
+
+: [...]
+: > Gesagt habe ich lediglich, da  der OKG-Erreger ein Beispiel einer
+: > wissenschaftlich wichtigen Existenzaussage ist.
+
+: Ich wuerde sagen die Aussage lautet so: Fuer alle Faelle mit Symptomen von 
+: Rinderwahn gilt: sie haben die gleiche Ursache und zwar etwas, das mit dem
+: Tierfutter zu tun hat. Ein klarer Fall eines Allsatzes also. Entsprechend 
+: uebrigens der Fall mit den Quarks. Es wurde schliesslich nicht die Existenz
+: eines einzigen Quarks im Universum postuliert, sondern die Beobachtbarkeit
+: eines bestimmten Phaenomens unter ueberall und jederzeit reporoduzierbaren
+: Versuchsbedingungen - ein klassischer Allsatz.
+
+Ein klassischer Reinfall! Die Formalisierung Deines "Allsatzes" lautet
+nämlich (vereinfacht): (\forall X\in Rinderwahn)(\exists Y)[ Y ist Ursache
+von X ]. Dies ist jedoch ein \Pi_2-Satz und damit weder falsifizierbar
+(wegen des Existenzquantors) noch verifizierbar (wg Allquantor).
+
+Zudem spielen hier noch viele andere Dinge eine Rolle, die noch gar nicht
+geklärt sind, wie zum Beispiel, was eigentlich genau Rinderwahn ist. Meist
+kann man erst bei einer genauen Kenntnis des Erregers (bzw. der Ursachen im
+weiterne Sinn) sagen, ob eine gegebener Fall nun Rinderwahn ist oder
+nicht. Man denke an alte "Krankheiten", wie Blutarmut usw.
+
+Wir reden also über etwas, das wir eigentlich noch gar nicht genau
+(wissenschaftlich) benennen können! Der Begriff "Rinderwahn" teilt dies mit
+vielen wissenschaftlichen Begriffen, daß man ihnen eine Bedeutung unterlegt,
+deren Präzisierung erst in der Zukunft erfolgt. Die Griechen hatten weder
+unsere Chemie, noch unsere Atomtheorie und haben sich doch mit "Gold", wie
+wir, auf Gold bezogen.
+
+Ob daraus irgendetwas widersprüchliches zu Krenn folgt, weiß ich nicht, auf
+jeden Fall sollte man dies jedoch berücksichtigen in seinen Betrachtungen
+über Wissenschaft.
+
+: [...]
+: > Wie ich gerade feststelle ist meine Aussage  ber Kapser Mi verst ndnis
+: > mi verst ndlich. Gemeint hatte ich jedenfalls, da  sich nur einzelne
+: > Alls tze falsifizieren lassen, aber keine Theorien und das Krenn bez glich
+: > dieser Tatsache einem Mi verst ndnis unterlag, zu glauben auch Theorien
+: > seien falsifizierbar.
+
+: Nun ist es ja wohl eine reine Auslegungsfrage, ob man die nach Falsifi-
+: kation modifizierte Theorie noch als die gleiche Theorie ansieht oder
+: nicht. Mit solchen Taschenspielertricks ist Krenn nicht beizukommen.
+: Die historische Entwicklung und Modifikation von Theorien hat er in
+: seiner "Logik der Forschung" ausfuehrlich behandelt und beruecksichtigt.
+
+Wie ich gerade feststelle, sind beide meiner Statements mißverständlich,
+weil ich einer Mehrdeutigkeit des Begriffs "Theorie" aufgesessen bin. Ich
+verwechselte die Alltagstheorie, die man mit einer Theorie modellieren will,
+mit dieser modellierenden Theorie.
+
+Was ich also eigentlich (jetzt aber wirklich) sagen wollte, war, daß durch
+Falsifikationen Theorien (modellierende) widerlegt werden, aber nicht die
+einzelnen Allsätze und auch nicht die Alltagstheorie.
+
+Wegen der Randbedingungen und anderer zu prüfender Gesetze kann eine
+Falsifikation keinen Aufschluß darüber geben, WAS falsch war. Eine
+Randbedingung? Ein vorausgesetztes Gesetz? Oder gar der geprüfte Satz?
+Natürlich sagt die Falsifikation, daß irgendwo in der (modelierenden)
+Theorie etwas falsch ist und diese damit wiederlegt ist.
+
+Es bleibt jedoch dabei, daß die Art wie mit Falsifikation umgegangen wird,
+in keinster Weise festgelegt ist und aller höchstens zum Teil durch
+Kriterien, wie "maximale Falsifizierbarkeit", "Konservatismus" oder
+"Schönheit" zu erfassen sind.
+
+Maurice Limpöck unterscheidet zwischen "normaler" und "revolutionärer"
+Wissenschaft. Die Poppersche Sicht der Wissenschaft gilt wohl (mehr oder
+weniger eingeschränkt) für die normale Wissenschaft. In Phasen in denen
+jedoch eine Theorie in Schwierigkeiten gerät, aber noch kein völliger Ersatz
+sichtbar ist, läßt sich Wissenschaft nicht oder nur sehr eingeschränkt mit
+Popperschen Begriffen beschreiben.
+
+: Gruss,
+
+: 	Günter.
+
+MfG
+	Oskar
+--
+Oskar Anhut                            pryuokcc@kynmceslur.ach-rfbcxyl.tm
+Jusiweg{\"weinzierl-grabenweg}Rainfelder Bahnstraße{\jo}hattenbergstraße 97 
+89613 Cölpin
+Tel: (++36)(++33)49851-136
+WWW: http://ztr.xufkttcbge.dsk-rwpbjba.ok/Wuultumdhoprpas/WVP/tgpuuljtq/prswejjvz/bitz.hwve

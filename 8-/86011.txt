@@ -1,0 +1,21 @@
+Hallo Gregor,
+
+
+So ist es. Klassischer Programmierfehler in Occam:
+Prozess B wartet auf Prozess A, C wartet auf B, und
+A wartet auf C!
+Deadlock nennt man das. Oder schlechtes Programmdesign.
+Ist bei der Jablonski Diallele aber immer die Regel,
+allerdings nicht in der biologischen Welt.
+
+MfG, Oswald
+
+-- 
+---------------------------------
+Dr. Oswald Rothhanns
+Hrsg.: http://eqc.ubcdlppen.qk
+ISSN 1310Imming
+PKL im Web:
+http://eoq.xjyjaiiojms.wtk/zez
+music project:
+http://czn.spoa-fczr-cyccrurto.mc

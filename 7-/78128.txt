@@ -1,0 +1,59 @@
+Das ist nicht ganz richtig glaube ich. Wenn 1 bewegte Beobachter auf ein
+anderen relativ zu ihm ruhenden Beobachter zu rasen erzeugt das eine
+longitudalverschiebung der Frequenz f = f'(c+v/c-v)^1/2 für blau und f =
+f'(c-v/c+v)^1/2 für Rotverschiebung, für den fall, dass sich der bewegte vom
+ruhenden weg bewegt. Hingegen wenn der Beobachter quer zum Beobachter bewegt
+ist, erzeugt das eine transversalverschiebung der ausgetauschten
+Lichtfrequenz f = f * (1-v^2/c^2)^1/2 Im letzteren wird der gleiche Faktor
+verwendet wie auch bei der Zeitdilatation t zu t' (gamma).
+
+
+<sollten beim folgenden Fehler auftauchen bitte ich um Anf�ngerbonus :-)>
+Beispielrechnung
+nehmen wir mal hierfür die frequenz f_laser an, dass sie genau für 1 sekunde
+die explosion der Supernova festhält. Diese sei 500nm (Licht) entsprechend
+c/wellenlänge:
+
+299792458m/s / 500nm = 599,584916000000 THz
+einfachheitshalber nehmen wir mal 600 THz (etwa Grün)
+
+wenn ich jetzt eine Fluchtgeschwindigkeit nahe c für eine sehr weit
+entfernte Supernova nehme, sagen wir mal 290 000 km/s erreicht uns dessen
+Licht mit einer:
+
+longitudalen Rot-Verschiebungsfaktor von (c-v/c+v)^1/2 mit einer frequenz
+von:
+600 THz * (c-v/c+v)^1/2 = 77,31210 THz
+dies entspricht einer Zeit von 7,76 sec = f / f' für die dauer des Impulses,
+weil ja die kompletten 600 Quanten ankommen müssen, sowie du sagst. So
+dauert die Explosion also für uns 7,76 sec.
+
+Die Transversale Rotverschiebung ist dann (entsprechend auch der
+Zeitdilatation)
+600 THz * (1-v^2/c^2)^1/2 = 152,09888
+dies entspricht einer Zeit von 3,9448 sec = f / f' für die dauer des
+Impulses. Für v=290000km/s ist das auch die Zeitdilatation die entsprechend
+SRT sich ergibt.
+
+Daraus ergibt sich, dass die entsprechende Zeitverzögerung in den weit
+entfernten Supernovaexplosionen den gleichen Faktor wie die
+Frequenzverschiebung nur dann haben kann, wenn wir die Frequenzverschiebung
+weit entfernter Galaxien als Transversalverschoben empfangen. Das ist aber
+nicht der Fall soweit ich weiss, denn die Spektrallinienverschiebung
+entfernter Galaxien wird lonigtudal berechnet. Diese kann man aber mit der
+Zeitdilatation nicht gleich setzen.
+
+Daher fragte ich nach Zahlen um mir ein eigenes Bild davon machen zu können.
+
+
+Ja richtig!
+
+
+Das eben nicht, weil es davon abhängt, in welcher Position die Beobacher und
+deren Bewegungen zu einander stehen. Wenn ich mich irre, wo mache ich hier
+einen Fehler? Auch das hier im Fall des Universums keine Bewegung im
+herkömmlichen Sinne stattfindet ist mir klar. Trotzdem bleibt hier der
+Unterschied der Frequenzverschiebungen zwischen transversal und longitudal
+und der Zeitdilatation im Bezug zur Supernova.
+
+Rudi

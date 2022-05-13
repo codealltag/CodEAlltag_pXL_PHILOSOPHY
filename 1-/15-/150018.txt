@@ -1,0 +1,15 @@
+Vielleicht sollte man nun eine Verbindung zwischen Syntax und Semantik
+untersuchen, und hier sich den Beweis des Goedelschen Vollstaendigkeits-
+satz anschauen.
+
+Hier wird aus dem syntaktischen Material ein sog. Term-Modell konstruiert.
+Dabei findet die Konstruktion selbst in einer Sprache statt, und die Objekte
+so eines Modells sind formal-sprachliche Gebilde. Man koennte sagen, dass
+sie als /formale Gegenstaende/ in der Sprache existieren und hier den
+verbindenden Sinn zur Syntax herstellen. Allerdings vermag ich nicht zu er-
+kennen, dass man dann nun ueber aussersprachlich existente /abstrakte Gegen-
+staende/ spricht.
+
+
+Gruss Bernard
+--

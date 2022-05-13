@@ -1,0 +1,12 @@
+ok:
+
+annahme: es existiert zu 0 (in einem körper K) ein inverses element 0^-1,
+d.h. es gilt 0*0^-1=1
+
+dann gilt:
+
+0*0^-1=(0+0)*0^-1=0*0^-1+0*0^-1 => 0*0^-1=0 widerspruch.
+
+mfg
+
+    guy

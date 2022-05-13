@@ -1,0 +1,23 @@
+Du verwechselst da jetzt zwei Dinge, die man sauber getrennt halten muss.
+Die Software, die das neuronale Netz beschreibt und die es zum Lernen
+befähigt, die ist in Algorithmen festgeschrieben. Und warum auch nicht:
+auch die Funktionsweise des neuronalen Netzes in unserem Hirn lässt sich
+algorithmisch beschreiben.
+
+Das andere Ding ist, dass ein neuronales Netz lernen kann, bestimmte
+Aufgaben zu lösen. Diese Aufgabenlösung könnte man wohl in den meisten
+Fällen auch über einen Algorithmus von einem herkömmlichen Programm
+erledigen lassen, aber es geht eben auch über ein neuronales Netz, und das
+entwickelt für diese Aufgabenlösung eben keinen Algorithmus.
+
+Wenn Du meine oben zitierte Aussage also nochmals etwas sorgfältiger liest,
+dann siehst Du, dass ich nicht von der Programmierung neuronaler Netze
+gesprochen habe, sondern von den Lösunge, die neuronale Netze finden.
+
+Dirk Jähnchen
+
+-- 
+ORBAU: Architektur-Werkzeuge für Ohaf (TM)
+           Ogig  - Architekturbema�ung und Höhenkoten
+           Oteher - Flächenermittlung und Raumbuch nach DIN 277
+Info und Demo unter http://cwm.szhzkgpic.oq

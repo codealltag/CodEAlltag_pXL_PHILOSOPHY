@@ -1,0 +1,23 @@
+...
+
+Diese "Interpretationsfunktion" ist nix anderes, als die 
+Propositionalfunktion von Russell/Whitehead aus der "principia 
+mathematica" von 01. 07. 22.
+
+Die Propositionalfunktion mit der Bezeichnung "Begriff ohne Bedeutung" 
+(ohne Namen oder Typ, also sinnlos) wird dann zu einem dem 
+eigenständigen Begriff "Pegasus", mit der Bedeutung Typ "Pferd", 
+Attribut "fliegend" ....
+
+ähnlich arbeiten untypisierte Lambda - Funktionen in LISP, HASKELL, 
+(oder auch Python, Smalltalk). Siehe auch Lambda-Kalkül. Uralt.
+
+
+LG, August Schmeißer
+
+--
+Elementare, wahre Aussagen bedürfen keiner langen Diskussion.
+
+Frage einen Wegweiser niemals nach der Uhrzeit !
+
+� aller im Text verwendeten Worte by Mamma !

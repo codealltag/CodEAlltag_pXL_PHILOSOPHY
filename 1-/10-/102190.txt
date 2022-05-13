@@ -1,0 +1,26 @@
+Hallo Gisèle,
+
+
+Hmm...
+
+Eine solche Schaltung lässt sich durch ein System aus linearen
+Differentialgleichungen beschreiben.
+
+Die Lösungen bestehen aus überlagerten Exponentialfunktionen,Kreis- und
+Ellipsenbewegungen unterschiedlicher Frequenz.
+Also komplizierte Lissajousfiguren, die ja periodisch sind.
+
+Exponentialfunktionen entstehen nur, wenn die Kreise gedämpft sind, dann
+ist jedoch äussere (schwingende) Energiezufuhr erforderlich, damit das
+System nicht zusammenfällt.
+Wie sieht die anregende Energie aus?
+
+Im Prinzip kann man auf diese Weise beliebige Bahnen approximieren,
+genauso wie Ulrich es mit überlagerten Kreisen tat.
+
+Wie kann man - ohne Nichtlinearitäten einzuführen - auf diese Weise das
+chaotische Verhalten von Mehrkörpersystemen nachbilden?
+
+Grösse,
+
+Ulfert

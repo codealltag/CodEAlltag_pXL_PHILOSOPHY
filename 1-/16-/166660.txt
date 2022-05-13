@@ -1,0 +1,59 @@
+Otmar Niederlechner <fozzkf.tyoysb@dqfrq.gco-lxghv.vs>:
+:>: Das ist *keine* Definition, da rekursiv.
+:>
+:>Eine rekursive Definition. Ist praktisch und extrem verbreitet.
+[...]
+
+: Eine "rekursive Definition" ist deshalb problematisch, weil i.A.
+: unklar ist, inwiefern die Rekursionsformel tatsaechlich etwas
+: definiert. 
+
+Naah. Wenn man zeigen kann, dass man Objekt X durch die Rekursion
+schleifen kann (z.B. Pow(Pow(Pow(|N)))), dann erfuellt Objekt X
+die Def.; wenn man zeigen kann, dass so eine Herleitung unmoeglich 
+ist, dann erfuellt es sie eben nicht. Ich sehe das Problem nicht.
+Unausgesprochen steht dahinter natuerlich, dass man nur 
+finite Rekursion benutzen darf. 
+
+: (dahinter muss so etwas wie ein "Rekursionssatz" stehen,
+: der die Existenz und Eindeutigkeit garantiert)
+
+Wieso denn? Die Existenz wovon denn eigentlich, die Existenz eines
+Exemplars, das die Def. erfuellt?
+
+ Def: Ein Knarf ist eine gerade Primzahl, die groesser als 4 ist.
+
+Knarfs gibt es offenbar nicht. Und?
+
+Und was die Eindeutigkeit angeht: 
+
+ Def. HT sei die Menge der Turingmaschinen,
+      die auf leerem Band halten.
+
+Oder:
+
+ Def. x heisst Pumpfel, falls:
+        x ist Primzahl.
+        x-2 ist Primzahl.
+ Def. x heisst Knurps, falls x ein Pumpfel ist und fuer alle y>x gilt:
+        y ist kein Pumpfel.
+
+: Etwas "sauberer" koennte man es so anstellen:
+
+: FormelMenge(M):<=> (Atomformel in M) & 
+: 	(x,y) (x,y in M -> '(x)&(y)','(x)|(y)','!x' in M)
+
+: Formel(x):<=> x in "Schnitt aller Formelmengen"
+
+Ich sehe die Sauberkeit nicht. Du schneidest hier mal schnell ueber
+ueberabzaehlbar (_wie_ ueberabzaehlbar, ist eine interessante Frage) viele 
+ggf. ueberabzaehlbare Mengen. Vollkommener Overkill und keineswegs
+"sauber", wenn du mich fragst.
+
+:>Schon ZF ist doch rekursiv: Z.B.: Ist A eine Menge, dann auch Pow(A).
+: ZF *definiert* aber nichts rekursiv.
+
+Wie bitte? Also ich kann die Axiome gern rauskramen, eins davon war
+das Potenzmengenaxiom: Menge(A) -> Menge(Pow(A)). Das ist nichts
+anderes als eine Rekursion, denn die Eigenschaft "Menge(A)" 
+ist auch per ZF definiert.

@@ -1,0 +1,250 @@
+;-) Dazu muss Ulrich wenn dann selbst Stellung nehmen. Du weisst ja, was
+die Diskussionsredlichkeit von mir verlangt.
+
+
+Da ich ständig mit bedeutungsfreien Sprachen hantiere, und es gerade
+mein Forschungsziel ist zu verstehen, /wie/ ich das eigentlich mache,
+und /wie genau/ Sinn, den ich da reinlege, im Ergebnis Bedeutung
+triggert (oder wenigstens einen Teil der Bedeutung, die durch die
+Informationsübertragung generiert wird), wäre ich sehr glücklich, Dir
+da schon besser Auskunft geben zu können.
+
+Bisher beginne ich gerade mal ein Verständnis dafür zu entwickeln, wie
+man /entsprechende/ Information in einem Spezialfall von formaler
+Transformationen abbildet, wie man also Bedeutung erhält, solange es
+ausschliesslich um formal Spezifizierbares handelt. Das ist zwar eine
+Menge wert, aber von Deiner Fragestellung (die ja auch die meine ist),
+weit entfernt.
+
+Was also genau Worte einer formalen Sprache derart auszeichnet, dass sie
+zwar bedeutungsfrei sind, aber in ihrer Verwendung Bedeutung generieren,
+sobald man mit dieser Sprache Information überträgt, ist mir noch nicht
+klar. Sorry.
+
+Ich habe Glück: um mein aktuelles Ziel zu erreichen, nämlich allgemeine
+transformationale Systeme implementieren zu können, benötige ich nicht
+mehr als ich bereits weiss. Ich müsste jetzt in der Lage sein, solche zu
+implementieren, und arbeite entsprechend auch an einer Implementierung.
+
+
+So ist es.
+
+
+Da liegst Du so formuliert falsch.
+
+Tatsächlich ist es mir gelungen, dieses Rätsel zu lösen. Ich gehe das
+mit Grammatiksprachen an, die mehrere Interpretationsebenen haben. Das
+ist der Grund, weshalb ich Gatzweiler Typ-0 verlassen musste.
+
+Wenn Du jetzt sagst, dass /Interpretation/ ja gerade
+Bedeutungszuordnung ist (was prinzipiell stimmt), so lass mich
+hinzufügen, dass ich in der Interpretation das Dekodieren vom
+Deuten trenne. Eine Deutung vermeide ich hier, auch hier ist das nur
+Dekodieren.
+
+Es geht also um ein /formales/ Verhältnis zwischen den /formalen/
+Aspekten ein und derselben Grammatik.
+
+Die Relation ist formal, um genau zu sein, ist sie eine Funktion, also
+eine rechtseindeutige Relation. Das ist der Grund, weshalb ich mich in
+der Implementierung im Wesentlichen mit /eindeutigen/ Grammatiksprachen
+befasse, mithin mit PEG-Derivaten, denn die Mehrdeutigkeit von
+Gatzweiler-Grammatiken verkompliziert hier die Darstellung unnötig, ist
+doch die Äquivalenz von TDPL und CFG gezeigt.
+
+Warum ich strenggenommen aber kein PEG mache, genausowenig wie CFG, ist
+offensichtlich. Ich rede hier von Derivaten.
+
+Zur formalen Herleitung habe ich deshalb eine Sprachklasse ausserhalb
+von Typ 0 spezifiziert, die ich auf CFG zurück führe. Ich nenne sie
+"iterativ kontextfreie Sprachen". In der Praxis verwende ich wie gesagt
+analog derivierte PEG.
+
+
+Sie werden scheitern. Semantik in der Informatik ist eine Chimäre. Und
+formale Sprachtheorie ist nun einmal Informatik, auch wenn Gatzweiler die
+Informatik wohl gar nicht mit begründen wollte ;-)
+
+
+Das würde ich so hart nicht sagen. Jede Grammatik ist eine Sprache.
+Somit generiert Information, die sie als Bezeichnung trägt, Bedeutung in
+Subjekten. Aber sie generiert keine Bedeutung in
+informationsverarbeitenden Systemen, die keine Subjekteigenschaften
+haben.
+
+Die Verarbeitung von solchen formalen Sprachen geschieht dort
+semantikfrei. Formale Sprachen sind selbst semantikfrei, wenn sie nicht
+zur Deutung /gedacht/ sind. Da sie aber jederzeit gedeutet werden können
+(und, das ist ein ganz anderes Thema, von Personen auch *immer*
+gedeutet werden, und beim Kreieren mit Sinn versehen), sind sie nie
+semantikfrei in dem Sinne, dass es etwa nicht möglich wäre, mit ihnen zu
+symbolisieren, und dass das ggf. gar nicht gemacht würde.
+
+Übrigens beschäftige ich mich mit Code-Generierung. Im Wesentlichen geht
+es darum, dass Sprache von einer Maschine generiert wird. Und Du wirst
+mir sicher zustimmen, dass die generierte Sprache selbst einen Sinn nur
+dann haben kann insofern, wie der Programmierer des Generators einen
+Sinn in denselben gelegt hat, entsprechend.
+
+Tatsächlich habe ich in einem Projekt aus einer Grammatik eine Grammatik
+generiert und somit einen Generator, mit dem ich aus einem
+formalsprachlichen Text einen formalsprachlichen Text generiert habe,
+aus dem dann ein formalsprachlicher Text generiert wurde mittels eines
+weiteren Generators, der übrigens ebenfalls generiert wurde, letzteres
+allerdings nur wegen syntactic sugar.
+
+Mein Thema ist deshalb, wie ich das sinnerhaltend machen kann. Da das
+ein durchaus erfolgreiches Projekt war (es dauerte gerade mal drei
+Arbeitstage, und das Ergebnis war in der Praxis verwendbar), kannst Du
+sehen, dass das offensichtlich gut funktioniert.
+
+
+Da hast Du recht. Und da das ein Kernthema ist, hab ich das schon getan,
+und werde das auch weiter tun, denn ich bin ja alles andere als fertig
+mit meinem Zwischenergebnis. Das allermeiste verstehe ich noch gar
+nicht.
+
+
+Bitte erkläre das. Bitte beachte dabei, dass ich einen erweiterten
+Informationsbegriff verwende. Ich schliesse aber gar nicht auf Physik.
+
+Ich sage, dass es sich bei der /Anordnung/ besagter vier Basen
+vermutlich um einen Code handelt. Das ist nicht als Analogon gemeint.
+
+Passend zum erweiterten Informationsbegriff habe ich oben ja einen
+erweiterten Code-Begriff angeführt. Und in diesem Sinne handelt es sich
+um einen Code.
+
+
+Es ist nicht-trivial. Aber wenn man eben die Relation zwischen einer
+Formalgrammatik und der von ihr spezifizierten formalen Sprache formal
+darstellen kann, so ist diese Relation selbst semantikfrei. Sie ist pure
+Mathematik, das ist ja mit "semantikfrei" gemeint, sie erschöpft sich in
+Struktur.
+
+
+Tatsächlich ist da wenig davon im Bereich der Naturwissenschaft. Das
+sind /Vermutungen/. Was ich in der Informatik mache, da habe ich leider
+noch grosse Felder, in denen mir Erkenntnis fehlt, aber ich hab auch
+Wissen.
+
+
+Ich vermute, dass es sich bei der Universalgrammatik um eine
+semantikfreie Formalgrammatik handelt, will man keinen Schöpfer
+implizieren. Ich kann diese Vermutung zwar motivieren, allerdings kann
+ich sie keinesfalls beweisen, genausowenig wie ich die Formalgrammatik
+aufzeigen kann.
+
+
+Will man die /Funktion/ der Evolution klären, bleibt doch gar keine
+andere Möglichkeit. Und das passt auch zur Empirie, nämlich dass in der
+empirischen Erklärung der Evolution eine solche gar nicht ohne
+Informationserhaltung möglich ist. Und wie wäre denn
+Informationserhaltung ohne ein Subjekt möglich wenn nicht durch einen
+Code?
+
+
+An dieser Stelle muss ich Dir recht geben: das ist ein wenig überzogen.
+
+Allerdings ist es als Analogon gemeint: dass Biologen obiges als Code
+deuten, und darauf die Erklärungsmodelle in der Genetik basieren, weisst
+Du genauso gut wie ich. Mittels einer fraktalen Kodierung ist das sogar
+funktional zu erklären, deshalb vermute ich ja eine solche.
+
+
+Ich bin da teilweise bei Dir. Es ist aber für die Interpretation als
+Code im erweiterten Sinne gar kein Naturalismus notwendig. Denk doch
+einfach an die /Dreiteilung/, die dieser Sichtweise zugrunde liegt, auch
+wenn Du ihr nicht folgen magst.
+
+
+;-)
+
+
+Was meinst Du jetzt mit einem "Subjektverband"? Ich würde sagen, man
+benötigt eben ein Subjekt. Und die Evolutionstheorie geht gerade davon
+aus, dass sie auch ganz ohne Subjekte funktioniert, das ist die
+Grundannahme.
+
+
+Das ist mit dem erweiterten Informations- und Code-Begriff eben gerade
+nicht so. Denn mit "symbolischen Strukturen" ist hier auch reine Syntax
+gemeint, die streng genommen gar nicht im semiotischen Sinne
+symbolisiert, weil sie ja gerade semantikfrei gemeint ist. Man sollte
+solche Strukturen also besser "Zeichenstrukturen" statt "symbolische
+Strukturen" nennen, damit das Symbolisieren hier aus dem Term
+herausgehalten wird, wenn es schon gar nicht unbedingt gemeint ist.
+
+
+Da stimme ich Dir voll und ganz zu. Sogar falls ich mit obigem recht
+hätte, wäre das völlig ungeklärt. Denn wie gerade Sinn und Bedeutung in
+die Welt kommen, letztendlich wie Geist /entsteht/, darüber wissen wir
+bisher nicht das Geringste.
+
+Ich habe ja schon vor langer Zeit hier gesagt, dass ich da eine Idee
+habe, die darauf hinausläuft, dass eine bestimmte Klasse RNN in der Lage
+sein könnte, zu reflektieren zu beginnen. Allerdings ist das bisher
+leider nur so eine Idee, da ist nichts ausgereift, und ich werde mich
+hüten, da jetzt ein Buch darüber schreiben zu wollen ;-) Das mach ich
+vielleicht mal (wenn überhaupt), falls ich da so viel davon verstanden
+habe, dass das schon weit mehr als eine Idee und ein Gefühl geworden ist
+;-)
+
+
+Ganz so ist es eben nicht. Da gilt es, den Code herauszufinden, aber
+auch zu verstehen, wie der Ablauf der Genese diesem Code folgend denn
+überhaupt funktioniert, wieder die /Funktion/, liebe Traude!
+
+Und da würd ich fast wetten, dass beides eng verzahnt ist.
+
+
+Ganz einfach? Die haben einen Riesenwind daraus gemacht, dass sie die
+Anordnung der Basen überhaupt mal ablesen konnten ;-)
+
+
+Selbstverständlich ist das genau so.
+
+
+Nein, aber die Anordnung der vier Basen ist vermutlich ein Code, auch
+wenn ich mich nicht in der Lage sehe, das zu beweisen.
+
+
+Das sowieso. Wie, das habe ich oben versucht auszuführen.
+
+
+Ist die Information die Bezeichnung, so entspricht der Information einer
+Grammatik besagte rechtseindeutige Relation. Sie ist ebenfalls
+formalsprachlich, sprich: ihre Darstellung hat eine Grammatik. Für
+bestimmte Grammatiken kann ich das ja bereits aufzeigen (Vorsicht: für
+andere noch nicht, und da arbyte ich auch nicht dran, weil mir das
+völlig reicht, wenn ich hier Praktikables habe).
+
+Aber was ist in dem Fall, wenn die Information gerade selbst nicht
+formalsprachlicher Natur ist? Oder denkst Du, dass der Verweis auf ein
+Signifikat grunsätzlich sprachlich ist? Wie will man das zeigen, wenn
+man über Signifikate konkret nichts weiss?
+
+Ich gebe zu, von der Mächtigkeit gesehen wäre sie geeignet,
+formal expliziert zu werden, denn sie ist abzählbar. Aber ist das
+/sinnvoll/ möglich in dem Sinne, wie eine Grammatik gemeint ist?
+
+Denn natürlich kann man jede Metamodellierung als Grammatik sehen, und
+jede Grammatik als Metamodelierung, aber tatsächlich hat man doch von
+einer Grammatik eine bestimmte /Vorstellung/, und würde doch sonst nicht
+von einer Grammatik sprechen wollen, nicht wahr? ;-)
+
+Wenn ich drüber nachdenke, kann man alles Abzählbare als Sprache sehen.
+insofern hast Du recht, wenn man das so weit auslegen will. Zudem kann
+man eine rechtseindeutige Relation immer sprachlich sehen.
+
+Aber ist denn die Information die Bezeichnung, oder entspricht ihr die
+Bezeichnung?
+
+
+Nein, gewiss nicht. Und hochspannend ;-)
+
+Viele Grüsse,
+VB.
+-- 
+Wenn Du für eine Leistung nichts bezahlst,
+bist Du nicht der Kunde, sondern die Ware.

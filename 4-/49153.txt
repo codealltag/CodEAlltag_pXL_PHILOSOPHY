@@ -1,0 +1,23 @@
+Hallo Axel,
+
+
+Sorry, aber das ist Unsinn. Dann könnte man nämlich nur eins der beiden
+überhaupt beobachten: Stell Dir Detektoren in A und B vor, die Quelle in
+*. Die Entfernungen A-* sei geringer als B-*:
+
+A <----- * ----------------> B
+
+Dann würde die Detektion (und damit Vernichtung) des Photons in A
+bedeuten, dass auch das Photon nach B vernichtet wird (und demzufolge
+nicht mehr detektiert werden kann). Da die beiden Entfernungen aber
+niemals völlig exakt gleich sind, wird also immer eins der beiden
+Photonen zuerst detektiert (und damit vernichtet), es wäre also immer
+nur ein Photon nachweisbar.
+
+Da man aber Experimente mit der Polarisation der beiden Photonen gemacht
+hat, muss man auch beide detektiert haben. Eine Detektion eines Photons
+bedeutet aber zwangsläufig seine Vernichtung.
+
+Viele Grüße
+
+Berend

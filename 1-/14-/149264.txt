@@ -1,0 +1,107 @@
+Die Meinung, echte Intervalle wie z.B. [0,1] würden sich aus
+"einpunktigen Intervallen" bzw. reelen Zahlen zusammensetzen, ist
+Grundprinzip der Mathematik, die heutzutage als Standard gilt.
+
+Ein wesentlicher (psychologischer) Grund dafür, dass das
+Problematische an "echtes Intervall setzt sich aus diskreten
+Objekten zusammen" nicht zur Kenntnis genommen wird, liegt an
+der Selbstverständlichkeit, mit der wir mit offenen Intervallen
+zu hantieren gelernt haben.
+
+
+Wenn Zahlen auf der reellen Zahlengerade keine Ausdehnung haben,
+dann sind die Intervalle [0, 1] und  ]0, 1[  identisch, denn
+die Frage, ob die Grenzpunkte zum Intervall gehören oder nicht,
+ist genauso irrelevant wie die Frage, zu welchem Land die
+dazwischenliegende Grenzlinie gehört.
+
+Insofern man unter "Intervall" Zahlenmengen (d.h. Mengen von
+diskreten Objekten) versteht, macht die Unterscheidung in
+offene, halb-offene und geschlossene Intervalle natürlich
+Sinn. Hier ein halboffenes Intervall natürlicher Zahlen:
+
+  [3, 7[  =  {3, 4, 5, 6}
+
+Die Unterscheidung macht auch Sinn bei den rationalen Zahlen
+
+  ]1, 2]  =  {2/1, 3/2, 4/3, 5/3, 5/4, 7/4, ...}
+  [1, 2[  =  {1/1, 3/2, 4/3, 5/3, 5/4, 7/4, ...}
+
+und bei implementierten reellen Zahlen der Informatik. Der
+Zahlenwert '2.0' des Datentyps REAL einer Programmiersprache
+hat Ausdehnung und wird von zwei klar definierten Nachbarn
+begrenzt. In diesem Fall ist die Frage offensichtlich
+bedeutsam, ob wir die von '2.0' repäsentierten reellen
+Zahlenwerte (z.B. von 1.999995 bis 2.000005) einem Intervall,
+das von diesem '2.0' begrenzt wird, zusprechen oder nicht.
+Die zwei Fälle mögen dann so aussehen:
+
+  offenes oberes Ende:   <  '2.0'   entspricht   <  1.999995
+  geschlossenes  Ende:   <= '2.0'   entspricht   <= 2.000005
+
+
+Bei der reellen Zahlengerade handelt sich nicht mehr um eine
+Menge diskreter Objekte, sondern um ein (1-dimensionales)
+Kontinuum, auf dem wir uns beliebig viele benennbare und nicht
+benennbare (0-dimensionale) Punkte bzw. Zahlen vorstellen können.
+
+Das Intervall [1, 2] der rationalen Zahlen ist eine (potentiell)
+unendliche Menge benennbarer und somit abzählbarer DISKRETER
+Objekte und wird nur in einem übertragenen Sinne als Intervall
+bezeichnet.
+
+Hingegen kann das reelle Intervall [1, 2] nur in einem
+übertragenen Sinne als Menge diskreter Objekte bezeichnet
+werden, denn diskrete Objekte sind nur mehr als ausdehnungslose
+Ortsbezeichnungen auf einem ausgedehnten Kontinuum gegeben, und
+ein Kontinuum setzt sich eben nicht so aus diskreten Einheiten
+zusammen, wie z.B. die Menge der rationalen Zahlen aus eben
+diesen Zahlen.
+
+
+Die Unterscheidung in offene und geschlossene Intervalle macht
+aber auch beim reellen Kontinuum Sinn, wie die Funktion
+
+  f(x) = 1 / (1 - x^2)
+
+zeigt. Die Funktion ist im Intervall  ]-1, 1[ , nicht jedoch
+im Intervall [-1, 1] definiert, da die Funktionswerte gegen
+unendlich streben, wenn x sich den Endpunkten des Intervalls
+nähert.
+
+Das heisst, je grössere Werte wir als Funktionswerte zulassen,
+desto mehr kann sich das Intervall zu den Grenzpunkten hin
+ausdehnen. Wenn wir unendlich im Sinne von "ohne Ende"
+interpretieren, dann können wir den Funktionswert f(x) beliebig
+gross werden lassen, aber der Abstand von x zu den Grenzpunkten
+bleibt immer ein echtes Intervall.
+
+
+Es scheint, dass alle anderen Diskussionsteilnehmer inklusive
+Niels (niels aber mit Vorbehalten) der Meinung sind, dass man
+durch einen "Grenzübergang" beim Zerlegen eines echten Intervalls
+zwar eine überabzählbare Menge disjunkter Intervalle erhält,
+dass diese Intervalle aber einpunktig und somit mit den reellen
+Zahlen identisch sind.
+
+Da beim Zerlegen von Intervallen immer benachbarte Intervalle
+entstehen, würde folgen, dass reelle Zahlen von Nachbarn begrenzt
+sein müssen, auch wenn solche Nachbarn sich nur insofern benennen
+liessen, als sie oberer oder unterer Nachbar einer benennbaren
+reellen Zahl wären.
+
+
+Zusammenfassung:
+
+Meines Erachtens ist das Konzept |R ein leicht widersprüchliches
+Gemisch von geometrischen (z.B. Intervalle als Kontinua) und
+mengentheoretischen Konzepten (z.B. Zusammensetzung aus diskreten
+Einheiten).
+
+
+Gruss,
+Willibald Urban K.
+
+
+Meine vorigen Beiträge:
+http://shspcoq.ovi.kr/tineceol/vjnlzj8.wqqq#apfdfjrrl

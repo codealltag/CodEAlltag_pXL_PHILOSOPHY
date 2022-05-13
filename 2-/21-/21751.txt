@@ -1,0 +1,21 @@
+Natürlich, mit dem Zeigeakt kommen wir schon ein Stück weiter. Dennoch 
+lässt sich das Problem so nicht eliminieren.
+
+Ein Beispiel: Es geht darum, eine Software zu programmieren, die aus dem 
+Englischen ins Deutsche übersetzt.
+Darf diese Software nunmehr beliebig "Orange" mit "Apfelsine" *oder* mit 
+"Orange" übersetzen?
+Nehmen wir einmal an, es müsste ein Zeitungsartikel übersetzt werden, in 
+dem eine Dogerner Marktfrau dem englischen Reporter eine (englisch:) 
+"Orange" anpreist. Darf das Programm diese beliebig mit "Apfelsine" oder 
+"Orange" übersetzen oder wäre eine dieser beiden Übersetzungen 
+unangemessen? Vielleicht ist diese Marktfrau gar eine aus Teutonien 
+eingewanderte Dame. Was dann?
+
+Das sind keine trivialen Probleme - in Abhängigkeit von der 
+Verbindlichkeit, die einer Übersetzung eingeräumt werden soll und muss.
+
+Wir können der Software hier nicht zeigen, wie dieses Problem zu lösen 
+ist. Hier geht es um Sachverhalte, auf die nicht gezeigt werden kann. 
+
+Ullrich Schwertle

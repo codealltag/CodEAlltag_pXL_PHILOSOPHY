@@ -1,0 +1,30 @@
+Machen wir doch einen Versuch:
+
+Man kann die Gleichung p=!p problemlos aus Logikbausteinen zusammenlöten
+und mit dem Oszilloskop nachmessen, wie sie sich verhält.
+
+Abhängig von der Verzögerung und Eingangskennlinie der Verstärker
+entsteht dabei entweder ein unzulässiger Logikpegel (in dem schützenden
+"verbotenen" Toleranzbereich zwischen High und Low) oder eine Schwingung.
+
+D.h. entweder entsteht eine zeitliche Dynamik, oder ein Zustaand, der mit
+binärer Logik nicht zu beschreiben und nicht zu berechnen ist, ein
+Zustand, der nicht nur unbekannt ist, sondern auch unbestimmbar.
+
+D.h: die Gegenwart _kann_ einen Zustand annehmen, in dem sie
+logisch existiert und gleichzeitig nicht existiert.
+Sie _kann_ aber auch einen zeitlich veränderlichen Existenzzustand
+annehmen. 
+
+Ihr Existenzzustand _kann_ veränderlich oder/und ungewiss sein.
+
+Vielleicht sollte man Fragen, die die Grenzen der binären Logik sprengen,
+nicht mit binärer Logik behandeln, sondern z.B. mit dem Oszilloskop o.�.
+Mitteln. Verfügt die Philosophie über ähnliches
+fortgeschrittenes Analyseinstrumentarium?
+
+;-)
+
+Grösse,
+
+Noël

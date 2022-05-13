@@ -1,0 +1,94 @@
+Tatsächlich macht das die Physik oft nicht. Physiker sind sich bewusst,
+dass sie im Wesentlichen Näherungen beschreiben. Sie sprechen auch
+selbst von Näherungen. Dort kommt auch die Idee her, Modellreihen
+aufzustellen, die gegen die Realität konvergieren (etwas, was ich hier
+ja bereits vor einiger Zeit kritisiert habe).
+
+Physiker beschreiben mathematisch Näherungsmodelle, die der Empirie
+entsprechen, könnte man sagen.
+
+
+Ja, hast Du. Dem, was ich weglasse, stimme ich zu.
+
+
+Argumentiert man rationalistisch, so muss ich Dir selbstverständlich
+zustimmen. Allerdings: "zutreffen" sollte dann nicht so gemeint sein,
+dass Modelle "real sind". Das wäre nämlich wiederum ein Widerspruch in
+sich. Und leider muss man noch vorsichtiger sein: denn ob ein Modell
+insofern "zutrifft" wie es eine (rationalistische) "Interpretation"
+unterstellt, ist mit äusserster Vorsicht zu geniessen! Denn hier steckt
+einer der Haupt-Denkfehler (den ich Dir nicht zutraue, der aber an
+anderer Stelle leider gängig ist)!
+
+Deshalb spreche ich absichtlich ganz vorsichtig von der Aufgabe der
+Physik dahingehend, dass sie Modelle kreiert, die mit der Empirie
+übereinstimmen. Und wie Du weisst, meine ich mit Empirie schlicht
+Wahrnehmung. Das Grossartige an der Physik ist, dass sie intersubjektiv
+erfolgreich ist, und so Erkenntnis liefert, die ohne undenkbar wäre, und
+die äusserst praktikabel ist!
+
+Die Denkfalle der Physik ist, dass Physiker (wie leider auch der in der
+Physik grandiose Metzker) dann diese Denkmodelle beginnen für die
+Realität zu halten, oder darüber schwadronieren, ob sie jetzt die
+Realität sind oder sein werden, oder ob spätere Denkmodelle wiederum die
+Realität sein werden.
+
+Die Realität ist sicher kein Denkmodell, oder sie enthält die Mathematik
+nicht als Aspekt. Denn die Mathematik ist bereits kein Denkmodell –
+nicht in dem Sinne, dass ich mit "Mathematik" die mathematische Sprache
+meine, sondern ich meine damit die Objekte, die durch die mathematische
+Sprache beschrieben werden. Zumindest wer die ZFC (das, was wir gängig
+als "Mengenlehre" kennen) akzeptiert, wird sich dieser Einsicht nicht
+verschliessen können!
+
+Damit liegt als Antwort auf Metzkers Frage nahe: es kann keine
+vereinheitlichte Theorie geben, die alle Aspekte der Realität
+expliziert. Es kann ja nicht einmal eine mathematische Sprache geben,
+die alle Apsekte der mathematischen Objekte hinreichend expliziert.
+
+Es bliebe der Physik, soll es eine vereinheitlichte Theorie geben,
+allensfalls übrig, dass, wenn sie als Teilchenphysik einen Automaten
+beschreibt, dass sie alleine deshalb die vorliegende Instanz des
+Automaten nicht hinreichend in allen Aspekten beschreiben kann, weil er
+eben nicht vorhersagbar ist. Auch dann wird es mindestens weitere
+physikalische Theorien geben müssen, um praktikabel zu bleiben.
+
+Man sollte aber darüber nicht schweigen, dass egal wie der Automat
+definiert ist, das dazu verwendete kontrollierte Vokabular UND die dazu
+verwendete Axiome nicht herleitbar sind. Und damit wäre die
+rationalistische Physik gescheitert, denn sie kann eben (weil sie nicht
+letztbegründend ist), niemals sagen, WARUM denn nun gerade eine Instanz
+genau dieses Automaten und nicht etwa eines anderen vorliegen soll.
+
+Das bleibt ihr dann als nächsten Schritt zu tun, endlos.
+
+Physik hat also kein Ende, weder in der Begründung, noch in der
+treffenden Modellierung ihrer /Phänomene/. Und zwar prinzipiell nicht.
+Metzkers Frage lässt sich also beantworten.
+
+
+Das scheint bei unterschiedlichen Menschen unterschiedlich gut zu
+funktionieren ;-) Spass beiseite: ja, klar.
+
+
+Es geht um die Sprachen, und was sie bezeichnen. Warum sonst sollte ich
+mich als Informatiker so brennend für Metaphern interessieren, warum für
+Begriffe (und nicht nur Terme)?
+
+Wie kann man Modelle prüfen, das ist eine meiner Hauptinteressen. Wir
+Informatiker und Softwarearchitekten dilletieren hier rum, dass es die
+Sau graust. Das kann so nicht bleiben!
+
+Dazu müssen wir es hinkriegen, dass wir Relationen zwischen
+Formalsprachen formal beschreiben können, und das auch tun. Das
+erfordert nicht nur, dafür geeignete Sprachen auszuwählen, sondern
+insbesondere auch, das für Teilsprachen von besreits bestehenden
+Sprachen zu können.
+
+Viele Grüsse,
+VB.
+-- 
+“Luise steht auf Cocktailschirmchen, Analverkehr und House
+und hat 186 Freunde
+ansonsten weiss ich nichts über sie”
+    (Tini Kremers)

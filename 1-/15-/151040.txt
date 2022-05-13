@@ -1,0 +1,21 @@
+Du hast recht. Das Regelwerk würde immer wachsen, derweil scheint mir
+mein Prinzip ziemlich einfach.
+Ich nenne es (und bitte jetzt nicht an die Luft gehen, ich weiss, das es
+nicht definiert ist) "durch 0 teilen"
+Definition x:=wahr 
+Definition y:=falsch
+Definition Notation:=ist, existiert, gibt zB. xxxx
+Definition ---> oder <---:=Beziehungen   wie zB. genau_dann_wenn
+
+wahr_ist_wahr_gdw_wahr_wahr_ist = x?
+Da viermal wahr enthalten ist schreibe ich dann:
+xxxx und teile sie nicht, weil ich gdw und ist nicht einfach
+unterschlagen darf.
+Die vier x sind irgendwie miteinander verbunden.
+Wenn ich irgendwo eine Leerstelle setze, also ein x abteile, dann muss
+ich aber auch die Konsequenzen und Beziehung berücksichtigen und was
+daraus folgt. Die Ursprungsaussage darf dabei nicht verfälscht werden.
+Das ist alles.
+
+Gruss
+Nico

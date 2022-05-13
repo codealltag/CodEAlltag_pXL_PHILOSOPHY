@@ -1,0 +1,11 @@
+[...]
+
+Nein, Widerspruchsfreiheit bezieht sich nur auf "Aussagenmengen"
+bezüglich einer "Sprache", weder phi noch ~phi sind aber  nach
+Voraussetzung aus PA ableitbar. Wenn PA also axiomatisch die
+"Arithmetik" beschreibt, sind sowohl phi wie ~phi "außerhalb"
+derselben. Es ist (durch den Vollständigkeitssatz) nämlich durchaus
+eine Arithmetik (in diesem Fall ein Modell von PA) "vorstellbar", in
+der sowohl PA als auch ~phi gilt.
+
+patrick

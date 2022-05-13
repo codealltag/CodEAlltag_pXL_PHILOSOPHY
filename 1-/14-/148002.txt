@@ -1,0 +1,46 @@
+Ich glaube hier sollte man unterscheiden was die Aufgabe der
+Mathematik ist (Sätze zu finden, die ganz formal aus den Axiomen
+folgen), was die Anwendung der Mathematik ist (Anwendung der Axiome
+und Sätze auf Modelle, sowohl innerhalb der Mathematik selbst als auch
+in der Realität), und was die Methode der Mathematiker ist, solche
+Sätze zu finden.
+
+Die Methode der Mathematiker ist aus guten Gründen nicht ein
+Rumspielen mit den Formeln, sie gebrauchen Intuition um die richtigen
+Sätze zu finden, und die entwickeln sie anhand von Modellen.  Die
+Intuition wird dann zu einem formalen Beweis soweit ausgebaut, bis
+einigermassen klar ist, dass der letzte Schritt (die vollständige
+Formalisierung) nur noch lästige Handarbeit wäre.  Weiterhin würde
+vollständige Formalisierung die menschliche Fehlersuche eher noch
+erschweren, zumindest die durch Profis welche ähnliche Intuitionen
+haben und die Richtigkeit der Intuitionen bewerten können.  Sehen dass
+die peers in ihren peer reviews genauso wie der Autor, ist die Arbeit
+akzeptiert.
+
+Die Mathematiker verzichten also aus rein pragmatischen Gründen auf
+die vollständige Formalisierung.  Die _Rechtfertigung_ ist allerdings
+die Überzeugung von der Möglichkeit der vollständigen Formalisierung.
+
+Ansonsten halte ich die vollständige Formalisierung als Standard für
+die Mathematik heute keineswegs mehr für unmöglich oder unpraktikabel.
+Es gibt genügend Erfahrungen mit Programmiersprachen heutzutage, eine
+formale Sprache für Beweise zu entwickeln die nur formal richtige
+Beweise durch den Syntaxtest durchlaesst aber trotzdem für einen
+Menschen beherrschbar ist ist im Prinzip heute kein Problem mehr.  Es
+hat sich nur noch nicht durchgesetzt.  Ich bin überzeugt, dass dies
+irgendwann getan wird, und dass dabei vielleicht nicht viele, aber
+doch einige Theoreme sich als falsch erweisen werden.
+
+
+Klar kommt es den Mathematikern, die erstens Sätze finden wollen, und
+zweitens auch vor allem interessante Sätze, also welche mit nützlichen
+Anwendungen in Modellen, auf die wichtigsten Modelle eines gewissen
+Formalismus an.
+
+Das ändert aber nichts daran, dass für die Philosophie der Mathematik
+diese reduziert werden kann auf das einfache klassische Schema
+formaler Beweise aus formalen Axiomen.
+
+Thierry
+-- 
+C. Liebhart,  <chhh@rdvl-kcnzbqsvv.edg>, http://fjqn-mzokmvpfd.att

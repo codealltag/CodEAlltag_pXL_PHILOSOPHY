@@ -1,0 +1,35 @@
+Hallo!
+
+
+Kannst du mir ein Beispiel nennen, wo es nicht so ist? Es gibt
+natürlich verschiedene Geometrien. Ich kenne mich da allerdings
+nicht so aus. Mich würde es aber interessieren, wie eine
+solche Geometrie aussieht.
+
+
+Stimmt. Vielleicht so:
+
+Es gibt etwas, dass nennt man "Punkte" (P1, P2).
+Wenn P1 nicht P2 ist (sonst wären es ja keine 2), dann gibt es
+einen Punkt P3. Dieser Punkt ist jetzt wieder nicht P1 oder
+P2. Dadurch gibt es weitere "Punkte"
+Dann gibt es plötzlich etwas Neues. Eine sogenannte "Strecke".
+Sie besteht aus den beiden ursprünglichen "Dingen" P1 und P2,
+sowie den weiteren (unendlich vielen) Punkten P3,P4,...
+
+Um jetzt zu beschreiben, aus welchen "Punkten" man zu einem
+weiterem Punkt kommen kann, verwenden wir das Wort "zwischen".
+Dh. der "Punkt" P3 liegt zwischen P1 und P2, weil er
+wegen P1 ungleich P2 vorhanden sein muss.
+
+Diese Erklärung ist aber nicht allzu ernst zu nehmen. *g*
+
+
+Kannst du ein Beispiel nennen? Würde mich interessieren, wie
+sowas aussieht.
+
+
+Ich meinte eigentlich die "normale" Schulgeometrie. Also
+die "Geometrie der Ebene" nach Euklid.
+
+Fernando

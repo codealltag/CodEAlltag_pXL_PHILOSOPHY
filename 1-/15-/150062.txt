@@ -1,0 +1,26 @@
+Hab ich das nicht?
+Sowohl 9 als auch 10 sind nat. Zahlen.
+
+
+oo+1 bleibt oo. Das ist ja der ganze Witz an den unendlich vielen Stellen.
+
+
+Die _Zeichenkette_ 0,9p ist selbstverständlich keine Zahl (weder eine nat.
+noch sonst eine) Sie ist ein Wust aus Zahlen, einem Komma und einem p. Aber
+die _Zahl_ 0,9p ist (im Dezimalsystem) gleich 1. Und 1 ist eine nat. Zahl.
+Also ist auch 0,9p eine. Ahnlich wie dein Name: Daniel. Solange du dies nur
+als Zeichenkette ansiehst, hast du sechs Buchstaben da stehen, die erstmal
+völlig willkürlich sind. Erst ihr Interpretation als Name geben ihen die
+Funktion, dich zu Beispiel zu Essen zu rufen. (Wobei schon die Auffassung
+als Zeichenkette, die Interpretation von angeordneten Partikeln als
+Buchstaben vorraussetzt.)
+Wenn du 0,9p lediglich als Zahlenkette auffasst, also als Variable, dann
+solltest du dir lieber eine andere suchen, die weniger missverständlich ist.
+(Deswegen werden Zahlen i.d.R. auch nicht als Variablen genutzt.)
+
+--
+Karl Aichel (xzypc773@o-erpqjy.ou)
+-----------------------------------------------------------
+A Member of the ---> PAULINA IGNAZ DÖRER <--- Fanclub Germany
+      since      http://hhw.zwsc.eb/aix-aww      1/98
+-----------------------------------------------------------

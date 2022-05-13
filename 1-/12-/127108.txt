@@ -1,0 +1,52 @@
+Gute Frage!
+
+Elsbeth. Tatsache ist, dass man in der Praxis eben gelegentlich
+Betzeichnungen einführt, von denen man NICHT WEISS, ob sie dasselbe
+bezeichnen wie ein anderer (schon bekannter Ausdruck), oder nicht.
+
+Insbesondere in der Mathematik ist das üblich. So BEZEICHNET z.B. 1 + 4
+eine bestimmte Zahl. Und wenn wir nun SAGEN willen, dass 1 + 4 dieselbe
+Zahl bezeichnet wie 5, so schreiben wir (halt) 1 + 4 = 5.
+
+Oder wenn wir das allgemeine Gesetz der Kommutativität aufstellen
+wollen, so schreiben wir eben:
+
+	(x)(y)(x + y = y + x).
+
+Wie Gröver in der MATHEMATIK  (z.B.) ohne "=" auskommen wollte,
+ist mir immer noch ein Rätsel!
+
+Und "FOPL with identity" ist halt nun mal die Basis für viele
+mathematische Theorien.
+
+Elsbeth.
+
+Elsbeth.
+
+In der Mathematik kann ich mich z.B. für die Zahl cos 0 interessieren.
+Es ist keineswegs JEDEM sofort klar, dass cos 0 = 1 gilt.
+
+Elsbeth. Aber eben... // Das läuft der PRAXIS der _Sprachverwendung_ zuwider.
+
+hhhh... nicht ganz richtig.
+
+FOPL verzichtet auf diese Einsicht.
+- FOPL with identity nicht... ;-)
+
+Hmmm... klingt sinnvoll.
+
+Elsbeth. Scheint so. Zumindest ist sie ein einfache, probates mittel um die
+Differenz zu "überbrücken", wo tatsächlich nur eine Namensdifferenz
+besteht.
+
+hhh... Ja?
+
+Elsbeth.
+
+...
+
+hhh... Nun ja. Sicherlich ist sie Möglichkeit (und das tatsächliche
+Gegebensein) von a = b durchaus auch aufschlussreich... ;-)
+
+
+F.

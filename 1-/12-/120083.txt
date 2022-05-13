@@ -1,0 +1,25 @@
+Hallo Willibald,
+
+
+Natürlich entstehen bei der Datenerfassung Verluste.
+Diese erniedrigen die Entropie jedoch nicht, sondern erhöhen sie, da ein
+Quantisierungs- und Aperturrauschen hinzukommt.
+Es wird zwar auch Information mit niedriger Entropie hinzugefügt (z.B. die
+Vignettierung bzw. Abschattung), aber bei jedem Bild dieselbe.
+
+Wenn die resultierende Datei  komprimierbar ist, dann haben die
+Urdaten also niedrigere Entropie und sind noch besser komprimierbar.
+
+Leider reichen meine Fachkenntnisse nicht aus, um das theoretisch zu
+beweisen - aber kann man es widerlegen?
+Wenn es aus Rauschen bestehen würde, und die Realität erst durch unsere
+Wahrnehmung und damit verbundene Filter- und Datenreduktionsprozesse
+erzeugt würde. 
+
+Grösse,
+
+Gerhard
+
+-- 
+Reality is _not_ an elephant.
+For a start, it's a rainbow.

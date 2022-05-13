@@ -1,0 +1,23 @@
+Wenn man annimmt, dass jedes Elementarteilchen mit einem
+Pseudozufallszahlengenerator von sehr guter Qualitaet ausgeruestet
+ist (ich halte dass immer noch fuer absurd), wuerde das
+dennoch fuer die "Doomsday-Maschine im pulsierenden Universum"
+ausreichend sein, vorausgesetzt, die Zufallszahlengeneratoren
+werden nicht bei jedem Urknall ganz genauso initialisiert wie
+beim vorherigen Urknall.
+
+Die Zufallszahlengeneratoren koennten z.B. einfach weiterlaufen,
+wenn von (mehr oder weniger) zufaelligen Interaktionen zwischen
+den Elementarteilchen abhaengt, wie haeufig die Zufallszahlengeneratoren
+benutzt werden. Angenommen es gibt 10E80 Teilchen und jeder hat einen
+Zufallszahlengeneratoren mit Periodenlaengen von 10E10000, und es gibt
+10E80^10E10000 moegliche Anfangszustaende.
+
+Eigentlich ist das auch egal, oder? Solange man bei "zufaelligen"
+Quantenereignissen keine statistischen Auffaelligkeiten findet,
+muss man sie fuer jede Form von Arbeitshypothese eben als tatsaechlich
+zufaellig betrachten.
+
+
+Gruss
+Fredy

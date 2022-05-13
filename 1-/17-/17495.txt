@@ -1,0 +1,115 @@
+Bei diesem Hinweis von Dir werde ich immer vorsichtig, denn Du hast da
+durchaus hin und wieder recht damit. Allerdings ist dieses Mal unsere
+Differenz so nicht zu erklären, näheres siehe unten.
+
+
+Sicher ist sie bedeutungsvoll, sonst liegt ja keine Information vor.
+Aber sie ist eben nur bedeutungsvoll für ein Subjekt, denn sonst
+wiederum liegt keine Bedeutung vor. Das meint jetzt aber nicht, dass sie
+etwa ohne eine Subjekt nicht bestehen könnte – das kann sie nämlich
+durchaus, wenn man beinhaltet, dass sie insofern bedeutungsvoll für ein
+Subjekt ist, sobald ein Subjekt zugegen ist. Genau das zeichnet
+Information aus.
+
+Sie generiert Bedeutung, ist aber selber nicht identisch mit Bedeutung.
+
+
+Genau das mache ich. Offensichtlich unterscheidet sich hier unser
+Sprachgefühl. Das hat durchaus, wie Du richtig konstatierst, mit unserem
+unterschiedlichen Alltag zu tun. Allerdings ist es eben nicht nur auf
+meine Tätigkeit als Informatiker zurück zu führen.
+
+Wie würdest Du denn sagen, wenn Du eine Beleuchtungsanlage im Garten
+hast, und die geht an, sobald jemand den Garten betritt, weil in ihr ein
+Bewegungsmelder vorhanden ist?
+
+Ich würde sagen, sobald die Information vorliegt, dass es Bewegung im
+Garten gibt, wird das Licht angeschaltet. Ich würde weiter ausführen,
+dass das technisch so implemtiert ist, dass ein Lichtsensor auf schnelle
+Hell-Dunkel-Differenzen reagiert, also auf optische Signale.
+
+Und ich denke nicht, dass diese Sprechweise völlig an der Umgangssprache
+vorbei geht, ganz im Gegenteil. Da müsstest Du schon wesentlich besser
+begründen, weshalb diese Sprechweise gegenüber einer anderen zu
+benachteiligen ist. Welcher denn?
+
+
+Das musst Du bitte begründen. Tatsächlich glaube ich es zu verstehen,
+kann mich aber ja irren (und wäre dann über Aufklärung froh). Bisher bin
+ich der Ansicht, dass Erkenntnis etwas ist, was ausschliesslich ein
+Subjekt haben kann, und zwar nur dann, wenn Informationen vorliegen.
+
+Da ich nicht vermute, dass Du bestreiten magst, Erkenntnis werde nur
+Subjekten zuteil, interessiert mich sehr, inwiefern man Erkenntnis haben
+kann, wenn keine Informationen vorliegen.
+
+
+Nein. Das nun einfach ganz und gar nicht.
+
+Die Kunst, die die Softwaretechniker betreiben, funktioniert eben nicht
+so.
+
+Sie funktioniert so, dass Daten, die Information beinhalten, reinkommen,
+dass diese Daten verarbeitet werden, und dass Daten mit Information auch
+wieder rausgehen, die dann für den Empfänger eine Bedeutung haben (oder
+auch nicht).
+
+Signale werden zur Generierung dieser Daten öfters mal verwendet. Danach
+spielen sie keine Rolle mehr. Die Implementierung der Software auf einer
+physischen Maschine wird wiederum unter Verwendung von Signalen gemacht.
+
+Aber wenn Signale für die Verarbeitung von Daten bereits in der Software
+vonnöten wären, so wären virtuelle Maschinen, wie sie heute gängig sind,
+unmöglich. Man müsste mindestens die Signalverarbeitung mit
+virtualisieren. Das macht man aber (in den allermeisten Fällen) nicht,
+weil nämlich Signale in der Software keine Rolle spielen.
+
+
+Komm mal wieder runter, bitte. Ich anthropomorphisiere gar nichts. Du
+selbst hast mit Deinen "höheren Affen" auf das Problem hingewiesen, dass
+die Verarbeitung von Informationen eben gar nicht hart an der
+Subjektgrenze endet.
+
+Klar, da ist es ein weiterer Schritt, wenn ich die Information (im
+Gegensatz zur Bedeutung) nicht dem Subjekt zuschlage. Diese Sichtweise
+passt aber nicht nur zur Informatik, sie passt (nach allem, was ich
+weiss) auch zur Physik. Von wegen nur Signale! Dieser Umstand wurde ja
+in der Diskussion hier bereits erwähnt, auch mir ist das bekannt: ein
+grosser Teil der theoretischen Physik basiert auf der Idee der
+Information, die dort ebenfalls nicht subjektbezogen gemeint ist.
+
+Und ich denke auch, ich verstehe, warum die Physiker das machen: weil
+sie sich nämlich Systeme ausdenken, die als Automaten gedacht sind. Und
+die sind eben Software.
+
+
+Das Leben. Lebewesen.
+
+Ich möchte damit zum Ausdruck bringen, dass ich es für die Genese von
+Leben als notwendig erachte, dass die Signalverarbeitung eine
+Informationsverarbeitung implementiert. Insofern implementieren eben
+auch Lebewesen Automaten, und zwar nicht irgendwelche, sondern eben
+gerade pragmatisch zweckmässige Automaten.
+
+
+Nein, das nun wirklich nicht. Signale beinhalten eben keinesfalls schon
+eine spezifische Reaktion. Unter Signal verstehe ich den Teil einer
+Übertragung, der nicht Rauschen ist. Es ist der informationstragende
+Teil. Ob und wie reagiert wird, hängt von der übertragenen Information
+ab und keinesfalls schon vom Signal selbst. Zur Betrachtung der Signale
+selber und deren Übertragung spielen solche Überlegungen keine Rolle, da
+hat Sandra völlig recht.
+
+Wenn Du dem nicht folgst, stellst Du die gesamte Informationstheorie in
+Frage (die ja eigentlich eine Übertragunstheorie ist, und, wenn Du so
+willst, eine Signalisierungstheorie). Dieselbe funktioniert aber in der
+Praxis wunderbar.
+
+
+Ich kann das Deinem Text nicht entnehmen.
+
+Viele Grüsse,
+VB.
+-- 
+Wenn Du für eine Leistung nichts bezahlst,
+bist Du nicht der Kunde, sondern die Ware.

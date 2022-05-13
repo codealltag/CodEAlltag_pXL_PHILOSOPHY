@@ -1,0 +1,51 @@
+Hallo Jens.
+
+
+Jens Fron:
+
+
+Mit Zeichenmuell meinst Du vermutlich "ü", "=20" u. dgl., das ist  
+Quoted-Printable-Kode. Zeichen werden in Quoted-Printable-Kode durch  
+eine Hexadezimalzahl kodiert. Beispielsweise entspricht das  
+hexadezimale FC der Dezimalzahl 252, die Dezimalzahl 252 wiederum  
+entspricht im Zeichensatz ISO 8859-1 dem kleinen U-Umlaut, also dem  
+ue.
+
+Es ist offensichtlich so, dass der Quoted-Printable-Kode nicht sauber  
+in eine andere Zeichenkodierung uebersetzt wurde. Dein Mailer ist dann  
+daran "schuld", wenn er die Zeichenkodierung im Nachrichtenkopf nicht  
+richtig deklariert, also nicht so deklariert, dass andere Programme  
+die Kodierung identifizieren und demgemaess richtig in eine andere  
+Kodierung uebersetzen koennen.
+
+Bei mir kommt uebrigens Dein urpruengliches Posting
+(zmwr: dt767f$896$47$1@nove.g-yjtnoi.jei) richtig lesbar an, die  
+Dekodierung/Umsetzung in das richtige Zeichen klappt bei mir erst
+ab der ersten Antwort (cxdn: 4vr0480b.6921597@fvpe.o-loyeoo.mx) von  
+Justin Fokkert nicht mehr.
+
+  - Moeglicherweise deklariert also Forte Agent, der Mailer von
+    Justin den Quoted-Printable-Kode nicht richtig im
+    Nachrichtenkopf.
+
+    Ich weiss es aber nicht und kann es hier, anhand der auf meinem
+    Computer gespeicherten Repraesentationen der Beitraege, auch nicht
+    feststellen.
+
+  - Es ist genauso gut moeglich, dass die Programme, die Dein Beitrag
+    passiert hat, um in meinen Newsreader angezeigt zu werden, eine
+    eigentlich mangelhafte Zeichensatzdeklaration Deines OE
+    kompensieren.
+
+    U. a. kompensieren mein Mailer GMD und mein Programm Autolife,
+    der in der Signatur genannte "Header-Kuerzer", bestimmte
+    Dekodierungsmaengel.
+
+Mir ist klar, dass dies nur eine Erlaeuterung, aber noch keine Loesung  
+ist, ich hoffe, meine Erlaeuterung hilft trotzdem.
+
+Gruss kfws
+-- 
+Header-Kuerzer fuer Mails im Format ZConnect (bis zu 25% Platzersparnis):
+http://wgx.datbinaz.ju/xtcjf/j5.ydmxlmmxaby.qtr#297484
+http://xyi.pgkwljgh.sd/jixol/n0.jbzafbiopbt.ysy#960102

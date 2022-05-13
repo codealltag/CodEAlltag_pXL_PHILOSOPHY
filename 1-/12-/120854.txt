@@ -1,0 +1,20 @@
+On Tue, 27 Okt 2002 23:44:58 +0200, Wanda Winterscheid
+Ich denke, er meinte u.A. auch Paare von Aussagen, wie z.B.
+
+	A, ~A
+
+Wenn Du diese beiden Aussagen als Prämissen akzeptiertes, kannst Du
+daraus bekanntlich in der klassischen Logik ALLES (also alle wffs)
+herleiten:
+
+	A, ~A |- B
+
+wo B eine beliebige Aussage ist. (Das ist nicht unbedingt
+wünschenswert... ;-)
+
+Interessanterweise gibt es *nichtklassische* formallogische Systeme
+(sogenannte parakonsistente Logiken), die diese 'Eigenschaft' nicht
+haben!
+
+
+F.

@@ -1,0 +1,96 @@
+Am 26.12.98, 04:23:53, schrieb dqtvip@cvdve.xgiwndn.gtf (Dr. Uwe=20
+Kittel) zum Thema Re: Seele:
+
+
+Nur hat "P weiß A" keinerlei solch zeitlich schwankende Bedeutung.
+
+
+zusaetzliche
+
+Könnte man also irgendwann Prüfungen dadurch bestehen, daß man so =
+eine=20
+Art Super-EEG an den Prüfling anlegt, bestimmte Knöpfe drückt und =
+dann=20
+weiß, nach Ablesen der Skalen, ob der Prüfling bestanden hat?
+
+des
+Gehirn
+damit
+
+dem
+
+Reizen,
+Zeit
+
+Leider kenn ich genügend Auto- und leider auch Radfahrere, die NICHT=20
+bei Rot anhalten. :(
+
+nachvoll-
+Erinnerungen
+
+
+mehr
+
+Angenommen dies alles ginge, könnte man dann so - mit dem Super-EEG - =
+
+einen Chinesen beim Lesen von Krikelkrakelzeichen beobachten und=20
+wissen (!), was er liest?
+
+[snip]
+
+
+Nein, ich meine real laufende Programme, die sind vielfach in ihrem=20
+Verhalten nicht mehr zu durchschauen, selbst von ihren Programmieren=20
+nicht.
+
+An NP-vollständigen Sprachen ist übrigens nichts undurchschaubar, si=
+e=20
+sind klar definiert und leicht verständlich, nur halt (eventuell)=20
+nicht in angemessener Zeit deterministisch zu lösen. Die fehlende Zeit=
+=20
+und das fehlende Geld hindern natürlich auch die Durchschaubarkeit von=
+=20
+realen Programmen, selbst wenn die keine NP-vollständigen Probleme=20
+lösen.
+
+
+Als Modell ist der endliche Automat denkbar schlecht, weil die Anzahl=20
+der Zustände unglaublich anwächst, will man nur relativ simple=20
+Probleme damit beschreiben (versuch mal einen endlichen Automaten hin=20
+zu malen, der das kleine 1x1 kann). Ich würde also vorschlagen, lieber=
+=20
+eine Turing-Maschine als Modell zu benutzten. An endlichen Automaten=20
+ist, außer dem Wort "endlich", nichts attraktives.
+
+
+Augenblick
+
+Ja, dies hindert eine Lösung und der völlig ungeklärte Status der =
+
+semantischen Fragen.
+
+
+kommt.
+
+Das halte ich für falsch! Die Situation ist in etwa die gleiche, wie=20
+vor 20 Jahren, als man entdeckte, daß Computer (manche)=20
+Intelligenztests besser bestehen können, als menschliche=20
+Versuchspersonen. Daraus folgte aber keineswegs, daß Computer=20
+Inteligenz hatten oder ein Lichtschalter etwas über "an" und "aus"=20
+weiß.
+
+
+_mehr_
+
+
+Ohne mich als Freiwilliger melden zu wollen, bin jedoch davon=20
+überzeugt, daß es keinerlei Schwierigkeiten macht einen Interpreter =
+
+für neuronale Netzte in COBOL zu schreiben.
+
+MfG
+Wilfried
+--
+Wilfried Gansweid
+	keep things simple. as simple as possible. but no simpler=20
+	(R. Pilgermann)

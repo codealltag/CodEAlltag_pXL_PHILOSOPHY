@@ -1,0 +1,35 @@
+Vorsicht, das war nicht als Gegensatz gemeint: das Gegenteil von
+"dynamisches System" ist "kein dynamisches System" und nicht etwa
+"deterministisches System". Es gibt dynamische Systeme (Spezialfälle),
+die deterministisch sind.
+
+
+Aha. Ich verwende es für "die Objekte wirken zyklisch aufeinander ein,
+nicht etwa ausschliesslich zyklenfrei".
+
+
+Schön ;-)
+
+
+Interessant. Vielleicht sollte ich das wirklich tun.
+
+
+Natürlich bedeutet er nicht mehr. Er muss ja gar nicht interpretiert
+werden.
+
+
+Jetzt muss ich mit Deinem Begriff "indeterministisch" aufpassen, weil
+ich das Wort ja anders verwende ;-) Kannst Du bitte mal eine Definition
+angeben? Denn wenn Du unter "indeterministisch" nur "ist in einem
+dynamischen System" meinen würdest, würde der Satz ja keinen Sinn
+ergeben. So ganz haut Dein Vergleich oben ja nicht hin.
+
+
+Ich meinte nicht ein Uhrwerk, sondern das System des Uhrwerks. Ich
+meinte das zugrundeliegende System, keinesfalls eine technische
+Implementierung davon.
+
+Viele Grüsse,
+VB.
+-- 
+Bitte beachten Sie auch die Rückseite dieses Schreibens!

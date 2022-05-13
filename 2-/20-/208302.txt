@@ -1,0 +1,29 @@
+ixrmu@dkwpmzfv.xtk-vidnbyraw.tl meinte am 28.04.97
+zum Thema "Re: Wahrscheinlichkeit - Versuch der Klaerung":
+
+
+Damit hast Du nicht bewiesen, dass es diese Zwischentemperatur  
+auch geben muss. Du nahmst die moeglichen Zahlen, obwohl Du  
+"moegliche Temperaturen" schriebst.
+
+Die Frage ist, ob man "der Temperatur" (in einem Raumelement zu  
+einem Zeit"Punkt") ueberhaupt eine reelle Zahl zuordnen kann.  
+Wenn es sich um die Temperatur in einem Zeitabschnitt handelt,  
+haben wir Intervalle und damit positive Wkt. Avasin kann man  
+Temperatur (die ebenfalls als Durchschnittswert definiert ist?)  
+nicht fuer Punkte im Raum, sondern nur fuer "Stuecke" positiven  
+Maszes untersuchen. Kann man diesen dann wirklich eine reelle  
+Zahl zuordnen?
+
+Und die Zeitabhaengigkeit ist auch nur sinnvoll in Intervallen  
+betrachtbar. Die Temperatur zu einem Zeitpunkt (der das Masz Null  
+hat) ist egal, interessant ist sie in einer Umgebung eines  
+Zeitpunktes. Ueber konstante Temperaturen brauchen wir wohl nicht  
+zu streiten...
+
+Ich streite ja nicht ab, dass es oft sinnvoll ist, Temperaturen  
+durch reelle Zahlen zu beschreiben. Aber ich streite ab, dass es  
+sinnvoll ist, Punkte ueber einer stetigen Verteilung zu  
+untersuchen.
+
+so long- Juan

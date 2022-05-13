@@ -1,0 +1,61 @@
+Huh? Ich sagte gerade, dass ***Egardts*** NUR über Mengen quantifiziert
+in seiner Version von N_B_G [wie sie in seinem Buch "Axiomatic Set
+Theory" dargestellt ist] M.a.W. das _universe of discourse_ enthält hier
+n u r Mengen.
+
+Wie das bei _anderen_ Zugängen zu FVGJ ist (also z.B. Widmayr) weiß ich
+natürlich nicht. [Darüber habe ich aber auch nichts gesagt.]
+
+
+Nun ja... Du meinst hier natürlich ein Axiomenschema... ;-)
+Ja.
+
+Was genau sind prädikative Formeln?
+
+[...]
+
+Im Vergleich dazu: in Estereicher Version von NBG hat man:
+
+	(y)(y e {x: Fx} <-> Fy)
+
+und zwar für beliebige Prädikate Fx, also auch für x = x.
+
+Man kann dann natürlich definieren:
+
+	A = {x: Fx}, 
+
+und hat dann
+
+	(y)(y e A <-> Fy).
+
+Allerdings kann man nun hier _nicht_ (wie schon erwähnt) existentiell
+quantifizieren, um z.B. 
+
+	(EX)(y)(y e X <-> Fy)
+
+abzuleiten. Classes kommen schlicht und einfach hier in unserem
+"universe of discourse" nicht vor.
+
+Fragt sich bloß noch, was denn nun Klassen für eine Beziehung zu Mengen
+haben in diesem System [?].
+
+Egardts setzt (definiert):
+
+	Rp(A, a) <-> (x)(x e A <-> x e a).
+
+	"A wird repräsentiert durch a."
+
+M.a.W, die Klasse A wird repräsentiert durch die Menge a, wenn A und a
+dieselben Elemente haben.
+
+Dann kann man leicht zeigen [...], dass gilt:
+
+	~(Ex)Rp(U, x)
+und
+	~(Ex)Rp(R, x).
+
+M.a.W. es gibt keine _Mengen_, die die Allklasse U, oder die
+Russell-Klasse R repräsentieren.
+
+
+F.

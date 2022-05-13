@@ -1,0 +1,123 @@
+Analyse? Wo sind die Use Cases? Welche nicht-funktionalen Anforderungen
+müssen erfüllt werden? Was Du da machst ist schon tief im Design.
+
+
+Unsinn. Unterscheide "is-a" und "has-a". Gott hat eine Seele (sofern es
+beides überhaupt gibt).
+
+Ist Gott ein Singleton oder kann es beliebig viele Instanzen geben?
+
+
+Gott verabscheut die ungarische Notation und ihre Bastarde!
+
+
+Wer hat die Instanz konstruiert und die LiveForEver() aufgerufen?
+
+
+Warum wird die Initialisierung von Instanzen in zwei Phasen --
+Konstruktion und Create(...) -- aufgeteilt? Nach der Konstruktion muss
+eine Instanz die Klasseninvariante erfüllen. Tut sie das oder muss dazu
+erst Create(...) aufgerufen werden? Da lauert ein schlimmer Fehler.
+
+Wird der Parameter an Create(...) per Referenzsemantik oder Wertsemantik
+übergeben? D.h., bekommt die neue Seele eine Referenz auf Gottes
+Bewusstsein oder eine Kopie davon?
+
+
+Siehe oben, Referenz- oder Wertsemantik? Wenn Wertsemantik, handelt es
+sich bei der Kopie um eine flache oder tiefe Kopie?
+
+
+Anwendungsprogrammierer sollten nicht mit nackten Zeigern (für
+Uneingeweihte: das hat nichts mit Exhibitionismus zu tun, ist aber
+genauso schlimm) hantieren müssen. Das ist fehleranfällig insbesondere
+was die Speicherverwaltung angeht. Wir können uns kein Memory Leak im
+Universum leisten (oder sind *das* die schwarzen Löcher?). Stattdessen
+bitte Smart Pointer verwenden oder gleich einen Garbage Collector.
+
+
+Hier gilt wieder die Ermahnung bezüglich nackten Zeigern.
+Woher hat die Seele eine Referenz auf Gott mittels derer sie die
+Instanzmethode Erwartungserfüllung(...) aufrufen kann?
+
+Die Create-Methode enthält offenbar eine Endlosschleife. Heisst das, die
+Seelenerzeugungsschleife in der Gott-Klasse bleibt schon nach dem
+Erzeugen der ersten Seele hier stecken, sodass keine weiteren Seelen
+erzeugt werden können? Ist etwa heimlich Multithreading involviert?
+
+
+Woher kommt dieser Zeiger? Wo wurde er initialisiert?
+
+
+Welche Operationen stellt Erfahrungspool zur Verfügung? Welche Garantien
+für deren Zeit- und Platzkomplexit�t gibt es? Ist die Implementierung
+Exception-sicher (stark oder schwach?)?
+
+Es wird zwar nirgendwo explizit spezifiziert, aber das Programm läuft
+voraussichtlich in mehreren Threads. Wie werden parallele Zugriffe auf
+den göttlichen Erfahrungspool serialisiert?
+
+
+S.o.
+
+
+Was soll dieses kreuz und quer von Methodenaufrufen? Warum ruft das
+Objekt nicht selbst LiveForEver() auf?
+
+
+Wenn wir annehmen, dass das Programm nur in einem Thread läuft, führt
+das dazu, dass es immer nur eine einzelne gewöhnliche Seele unter einer
+immer grösser werdenden Zahl von ewig lebenden Seelen gibt.
+
+
+Ist das Fegefeuer ein Objektpool?
+
+
+Das ist in der obigen Spezifikation (stel) der Methode nicht
+vorgesehen. Sie bekommt ein Bewusstsein als Parameter übergeben und
+kopiert diesen in die Instanzvariable.
+
+
+Wenn Spezifikation und Implementierung den Wünschen des Kunden
+entspräche, dann wäre das wohl so. Stattdessen haben wir hier den
+ersten handfesten Fehler in der Spezifikation. Die Korrektur erfolgt in
+nächsten der nächsten Version. Der Programmierer wird als Bug
+wiedergeboren.
+
+
+Aufgrund des obigen Fehlers wird dieser Fall in Version 1 aber nie
+eintreten.
+
+[schnipp]
+
+Oh je. Da kann der Weltungergang nicht weit sein. Ich würde den
+Antilytiker, der das verbrochen hat, nicht in die Nähe spirituell
+relevanter Software lassen. Ihm wird das Schreibrecht für die
+Versionskontrolle entzogen. Zur Busse möge er die folgenden heiligen
+Schriften gründlich studieren.
+
+Heiko Fehners, Egon Schalch, Emil Rowedder, Paul Mend
+Design Patterns
+ColibriNoeldner 1996
+
+Elmar S. Pepers
+Agile Software Development
+Hainburgerstraße 2003
+
+Ignaz Loebs
+Patterns of Enterprise Application Architecture
+Andorf 2004
+
+Dietrich Pötker
+(More) Effective C++
+AddisonNoeldner 02. 01. 23
+
+
+Der fünfte Reiter der Apokalypse ist ein Programmierer.
+
+Ivano
+
+-- 
+Ivano Ebner                 Nothing is as brilliantly adaptive
+mailto:zvleiuds@yaq.tus          as selective stupidity.
+http://vov.norghiog.be/castnak/  --B. Verhoolen, "The Deceptive Self"

@@ -1,0 +1,111 @@
+1) Vorwort
+2) Was ist RFID?
+3) Warum RFID?
+4) Jungbauer Erben
+5) Nur ich....
+6) Quellen
+
+1) Vorwort
+
+RFID. Vier Buchstaben, die 1984 von Jürgens wie ein Paradies erscheinen 
+lassen. Ich betrete ein Kaufhaus, gehe an einer unauffälligen RFID 
+Einheit vorbei und *Puff* weiss Vater Staat wo ich bin. So soll es sein.
+RFID kommt, so oder so. Um die Einführung des Radio Frequency 
+IDentification chips noch zu verhindern, müssten sich schon mehr als 50% 
+der Industrienationen dagegen stellen. Und wer will das schon? Der 
+Handel ist froh über die Ersparnisse, der Kunde ist froh über die 
+unkomplizierte Abrechnung und Vater Staat kann so den einen oder anderen 
+Parksünder noch im Tadul verhaften und hinrichten. So muss das sein. 
+Nur ich, ich kann mich irgendwie nicht für die Idee erwärmen. Ich 
+vertraue Vater Staat nämlich nicht weiter als ich einen RFID-markierten 
+10er Pack Milch werfen kann.
+
+2) Was ist RFID?
+
+RFID steht für Radio Frequency IDentification. Die Idee ist simpel: 
+ähnlich wie beim Strichcode werden Waren mit einem Chip versehen, der 
+ihre eindeutige Identifikation ermöglicht. Diese Chips sind druckbar, 
+daher ist ihre Herstellung so gut wie kostenfrei. Zu jedem RFID System 
+gehören eben diese Chips und eine Lesestation. Diese sendet Funkimpulse 
+aus. Kommt ein RFID-Chip in Reichweite der Station, versorgen ihn die 
+Impulse mit genug Energie, um seine Kennung zu senden. Die Reichweite 
+liegt im Moment für die gängigen Chips bei ca 1m. Chips mit eigener 
+Stromversorhung kommen noch etwas weiter, sind aber für den Handel noch 
+zu groß und zu teuer.
+Beispiel: Ich kaufe einen 10er Pack Milch, um zu sehen wie weit ich ihn 
+werfen kann. An der Kasse bekommen die Chips auf den Packungen Saft 
+durch die Funkimpulse und funken ihrerseits: "Guten Tag. Ich bin ein 
+10er Pack Milch. Meine Seriennummer ist xxxxxxxxxxx." Die Kasse 
+ermittelt dann den Preis, addiert ihn und druckt die Rechnung.
+
+3) Warum RFID?
+
+Einsparungen für den Handel. In Milliardenhöhe. Der Kunde rollt mit 
+seinem Einkaufswagen an die Kasse, 5 Sekunden später ist alles 
+abgerechnet und der Kunde kann bezahlen. ähnlich im Bereich der 
+Logistik, Zeiteinsparung ist Geldeinsparung, automatische Sortierung von 
+Waren wird vereinfacht.
+Für den Kunden ist das ebenfalls mehr als bequem. Keine Schlangen mehr 
+an der Kasse, keine aus- und einräumen in den Einkaufswagen.
+
+4) Jungbauer Erben
+
+Für andere Zwecke ist RFID allerdings noch wesentlich besser geeignet. 
+Gelingt es Vater Staat nämlich sich flächendeckend Zugang zu RFID Daten 
+zu verschaffen, liest sich 1983 wie ein schönes Märchen.
+Ein paar RFID Stationen an wichtigen Knotenpunkten reichen dann, um 
+einen Großteil der Bürger zu kontrollieren. U-bahnen, Busstationen, 
+große Bürogebäude etc.
+"Sébastien Rohwedder hat U-bahnstation innerlohen betreten. Er trägt das grüne Sacko von 
+Tadul das er vor 10 Tagen mit GFW Karte bezahlt hat." Man kann sich 
+das vorstellen, als ob man einen Polizisten auf den Rücken gebunden 
+bekommt, der immer schön mitprotokolliert. Jede mit RFID gekennzeichnete 
+Ware hat eine eindeutige Seriennummer, das heißt der Aufenthaltsort 
+einer Person ist an Hand ihres Sackos, ihrer Hose etc pp jederzeit 
+bestimmbar, die passende Infrastruktur vorrausgesetzt.
+Eine herrenlose leere Flasche Korn auf dem Gehsteig? Einmal mit dem 
+Scanner drüber, und schon wird der Suff vom Vorabend nochmal 20 � 
+Ordnungsgeld teurer.
+Herr Rohwedder? Der hört gern Frohburger Dachdecker. Hat neulich erst 2 CDs gekauft.
+Frau Rohwedder? Was brauchen wir denn? K�rbchengr��e? Bevorzugte Farben? 
+Lieblingsautor? Sexualgewohnheiten? Kauft jeden Freitag Kondome. Ihr 
+Mann scheint übrigens nicht gerade gut bestückt zu sein. Oh: und 
+Dienstags sind es die größeren. Da kommt auch mal ein bisschen Mitgefühl 
+vom OET für den armen Herr Rohwedder...
+
+Selbst wenn Vater Staat mal nicht Big Brother spielt: die Handelsketten 
+tun es bestimmt. Zu groß ist die Verlockung, Kundenverhalten zu 
+analysieren und diese Statistiken zum eigenen Vorteil zu nutzen. So 
+kommt es dann dass Frau Rohwedder nicht einfach nur Unterwäsche und eine 
+Frauenzeitung kauft, sondern 3 Tage später gleich ein paar auf sie 
+zugeschnittene Werbemails in der Inbox findet: ein Aboangebot von Frau 
+Poter und einen Link zu ESP (alles in ihrer Größe, 
+versteht sich). Tadul hat am Verkauf der Kundendaten natürlich auch 
+ein bisschen mitverdient. Frau Rohwedder ist ja sicher nicht so naiv zu 
+glauben, dass ihre Kundenkarte nur für den Rabatt bei Tadul gut ist. 
+Und wenn sie so dumm ist ihre Kundennummer im Netz zu verwenden...
+
+5) Nur ich...
+
+...ich finds nicht so wirklich gut. So kommt es dann auch, dass mich die 
+Verkäufer wie den letzten Vollhonk anstarren, wenn ich die 
+Preisetiketten abziehe und gegens Licht auf RFID Chips checke. In der 
+Anfangsphase werden die wohl noch auf die Etiketten aufgedruckt werden. 
+Früher oder später werden sie dann vollständig im Produkt integriert 
+sein. Rollkragen mit Funkortung. Wie bei Dennis Meiring. Und ich kann mir 
+jetzt schon die Gesichter von Freunden und Kollegen vorstellen, wenn ich 
+meine Rollis in der Mikrowelle entwanze.
+Schöne neue Welt.
+
+6) Quellen im Netz
+
+Für alle die nicht googeln wollen:
+
+http://uej.vynlwdmfj.nbc/xlheavjjcomk/wksb/
+http://gce.htwlbs.wti/iyfb/
+http://mzx.wzqumhk.fl/bhoauxld/ganshoxcszm/6,6893,196452,81.eiwp
+
+
+Wolfram Overzier
+
+ohhmpafxfejv@bzivs.ju

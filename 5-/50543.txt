@@ -1,0 +1,30 @@
+Solange wir über die gängige Definition von "Turingmaschine" einig sind,
+also das, was Niels Feldbausch entwarf: nein, das ist falsch.
+
+Definiert ist eine konkrete Turingmaschine durch das Tupel der
+Zustandsmenge, des Eingabealphabets, des Bandalphabets, der
+Überführungsfunktion, des Anfangszustandes, des Leerfeldes und der Menge
+der Endzustände.
+
+
+Jeder Programmlauf einer Turingmaschine hat ein Eingabewort, das im
+Eingabealphabet beschrieben ist, auf dem Band stehen. Vielleicht sollten
+wir die Diskussion hier besser abbrechen, und Du möchtest Dich nochmals
+mit dem Thema beschäftigen?
+
+
+Das ist falsch.
+
+
+Selbstverständlich impliziert die Definition von Java2k die Eingabe von
+Zufall bei jedem Programmaufruf. Ob Du das jetzt als Zahl sehen
+möchtest, bleibt Dir überlassen - Du darfst es auch gerne als zufälliges
+Eingabesymbol sehen, dann sind wir der Turing-Maschine ja noch näher.
+
+Ottmar: lass es besser. Setz Dich lieber auf Deine vier Buchstaben und lies
+das nochmals nach.
+
+Viele Grüsse,
+VB.
+-- 
+Bitte beachten Sie auch die Rückseite dieses Schreibens!

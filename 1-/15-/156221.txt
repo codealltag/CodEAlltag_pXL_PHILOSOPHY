@@ -1,0 +1,16 @@
+Formal ist AFAIR die Syntax definiert, aber nicht die Semantik.  Wobei
+die Abgrenzung zwischen Syntax und Semantik dort wenig zu tun hat mit
+den philosophischen Begriffen.  Ist eher eine pragmatische
+Unterteilung bei Compilern - Syntax ist das, was vom Scanner
+ausgewertet wird, welcher einen Syntaxbaum (eine programminterne
+Datenstruktur) erzeugt, die dann weiter ausgewertet wird.
+
+BTW, eine formale Sprache kann im Prinzip auch durch einen
+Referenz-Compiler definiert werden.  Ein Ausdruck ist korrekt
+(Definition) wenn der Referenz-Compiler das Programm ohne zu meckern
+übersetzt.  Ist übrigens näher an der Realität der Programmierung als
+das Lesen des ANSII-C-Standards.
+
+Lutz
+-- 
+L. Draxler, <cjvf@jbcp-qcfdpujee.kmv> , http://mbck-arficgepc.mdc

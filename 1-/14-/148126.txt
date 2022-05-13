@@ -1,0 +1,19 @@
+Und? Zum einen hat Westmeier die Verifikationstheorie der Bedeutung recht
+schön in "Two Dogmas of Empiricism" auseinandergenommen (also die
+Ansicht, die Bedeutung eines Satzes sei die Methode seiner
+Verifikation), zum anderen stellt sich die Frage, welche /Bedeutung/
+ein Algorithmus hat und welche ontologischen Verpflichtungen /damit/
+verbunden sind.
+
+
+Ja, das reicht aber nicht. Für jede 1-stufige Formulierung mit n
+Existenzquantoren findest du ein Gegenbeispiel in einer "möglichen
+Welt" mit n+1 sich gegenseitig bewundernden Künstler.
+
+
+Dann müssen wir uns mit der Semantik von Programmiersprachen befassen.
+Allerdings ist die Angabe eines Algorithmus für Bedeutungsfragen von
+Sätzen eh nicht ausreichend.
+
+
+knut

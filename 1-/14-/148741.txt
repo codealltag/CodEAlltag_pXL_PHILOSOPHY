@@ -1,0 +1,26 @@
+Hallo Berend,
+
+tschuldige mal  aber nur dadurch, daß Theoreme mit großen Namen bemüht oder
+bermäßig aufgeblähte Beweise konstruiert werden ( bitte misversteht dies
+nicht , um Einsichten zu gewinnen ist das ja sogar empfelenswert um
+Zusammenhänge auch zu anderen Fragen zu erhalten) ändert doch nichts an
+'einfachen' Beweisen.( Ich will dabei nicht mal 'Occams Messer' bemühen)
+
+  n! >= 2^n > n       heißt doch nichts anderes als   'Injektion von einer
+Menge mit Kardinalität 2^n in eine Menge mit Kardinalität n! aber keine
+Bijektion einer Menge mit Kardinalität n in eine mit Kardinalität 2^n' .
+Sicherlich wird dann eine (total) Ordnung auf den Kardinalitäten benutzt.
+Beweist Du dies jedesmal wenn Du Kardinalitäten betrachtest? Meinetwegen
+kannst Du sagen '...die Formel stimmt aber nur wenn n > 3 ... '.
+Die Frage die sich daraus eigentlich ergibt ist nicht ob w! >= 2^w ist ( also
+die 'triviale' Antwort : ja w! ist überabzählbar, welches auf genau die von
+mir angeführte 'einfache Weise' geschehen kann)sondern eher ob CH gilt mit 2^w
+=aleph_1 bzw. ob GCH gilt und dann  w! = 2^w  ...
+Also wäre es eigentlich von Deiner Seite aus angebracht  genau Dein Zitat 'Ist
+M eine unendliche Menge,dann ist die Menge aller Permutationen von M
+gleichmächtig mit der Potenzmenge von M.'  mal etwas genauer zu erläutern.
+Ansonsten ist die Zuordnung  'Fixpkte/nicht Fixpkt --- Teilmengen' eben so
+etwas 'kombinatorischer'-Beweis für das Induktionsergebnis...
+
+         Gruß
+              Pietro

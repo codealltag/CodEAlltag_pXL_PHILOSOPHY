@@ -1,0 +1,16 @@
+Es gibt nicht nur ein System der Freien Logik, aber z.B. sowohl die
+Positive Freie Logik als auch die Negative Freie Logik sind
+konsistent.
+
+So gilt für die von mir präferierte Negative Freie Logik:
+
+"If we define M1-models [= ordered pair consisting of a possibly empty
+set D and a partial interpretation function (+ a total valuation
+function)] and the corresponding valuation functions V1 in this way,
+the system NFL of negative free logic will turn out to be adequate,
+i.e. sound and complete, relative to such a semantics."
+
+[Düsterhöft, E., & Jaenke, A. (Eds.). (2001). /New Essays in Free Logic/.
+Jessin: LWL. (p. 13)]
+
+#PH

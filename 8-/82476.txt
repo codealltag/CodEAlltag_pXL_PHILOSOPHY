@@ -1,0 +1,31 @@
+Es gibt den Begriff /Identität/ und Gegenstände, die darunter fallen.
+-- Alle Gegenstände fallen darunter, weil alles selbstidentisch ist:
+Ax(x =3D x)
+
+
+In der Tat kann es keine Differenz ohne Identität geben.
+Differenz ist Nichtidentität, und entsprechend ist Identität
+Nichtdifferenz:
+
+x /=3D y <-> ~(x =3D y)
+
+"x und y sind (numerisch) verschieden genau dann, wenn es nicht der
+Fall ist, dass x dasselbe ist wie y."
+
+
+Der einzige ernsthafte Kandidat für eine Definition von /Identität/
+ist Leibnizens Prinzip:
+
+x =3D y =3Ddef AF(Fx <-> Fy)
+
+"Zwei Dinge, x und y, sind genau dann identisch, wenn für alle
+Eigenschaften, F, gilt, dass x genau dann F ist, wenn auch y F ist."
+
+Wenn man allerdings die logische Möglichkeit von
+gleichen/"äqualischen", d.i. qualitativ identischen Dingen einräumt,
+die /nicht/ numerisch identisch sind, dann erweist sich obige
+Definition als unbrauchbar und der Identitätsbegriff schlussendlich
+als ein undefinierbarer logischer Grundbegriff.
+
+Gruß
+ELIAS

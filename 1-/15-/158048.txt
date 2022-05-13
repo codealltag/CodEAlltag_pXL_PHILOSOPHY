@@ -1,0 +1,24 @@
+Hallo!
+Du staunst anscheinend darueber, dass hier zwei Mengen unterschiedlich gross
+aussehen, aber trotzdem gleich viele Elemente besitzen, weil durch die
+Funktions-Gleichung jedem Element aus A ein Element von B und jedem Element
+aus
+B ein Element aus B zugeordnet werden kann.
+Das ist ein Phaenomen, das mit den unendlich vielen Elementen beider Mengen
+zu
+tun hat:
+
+Man kann auch jeder natuerlichen Zahl die zugehoerige Quadratzahl
+"eineindeutig" zuordnen: 1<->1, 2<->4, 3<->9,...., n<->n^2,.....und erhaelt
+so
+das erstaunliche Ergebnis, dass die Menge der natuerlichen Zahlen genau so
+viele Elemente enthaelt wie eine (echte) Teil-Menge von ihr!
+Man kann sagen, dass das typisch ist fuer eine "unendliche" Menge.
+
+MfG
+Pascal
+--
+Pascal Mehring || HVfhfl@wsh.twu
+P-95927 Provianstraße, Germany
+"Ich hoffe, es wird niemanden befremden, dass ich den Homer und Virgil zu
+Asymptoten gemacht habe" (Lichtenberg, Vom Nutzen der Mathematik)

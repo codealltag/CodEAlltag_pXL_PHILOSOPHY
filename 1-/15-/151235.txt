@@ -1,0 +1,34 @@
+Kannst Du mal präzise definieren, was Du damit meinst? 
+Inkompressibilität bedeutet div v=0 (v=Geschwindigkeitsfeld), aber was 
+sollte schlimm daran sein, wenn diese Annahme nicht mehr gilt? Bei 
+hohen Drücken ist auch Wasser kompressibel, so what? Man kann sehr wohl 
+Fluiddynamik mit kompressiblen Fluiden betreiben. Wr' ja auch schlimm, 
+wenn man keine Gaskinetik mehr treiben könnte.
+
+In einer relativistischen Fluiddynamik (vgl. z.B. Müllerstein/Lifshitz Vol 
+VI) breiten sich die Fronten von Wellen höchstens mit c aus. Das ist 
+eine mathematisch relativ einfach zu zeigende Tatsache.
+
+Das elektromagnetische Feld (ein elektrisches Feld allein ist nicht 
+relativistisch kovariant, es ist immer ein elektromagnetisches Feld und 
+wird durch den Faradaytensor F_{\mu \nu}=\partial_{\mu} 
+A_{\nu}-\partial_{\nu} A_{\mu} kovariant beschrieben) bewegt sich nicht 
+"augenblicklich mit der Ladung mit". Beschleunigte Ladungen strahlen 
+vielmehr elektromagnetische Wellen ab, deren Frontgeschwindigkeit c nie 
+übersteigt. Selbstverständlich besitzen Ladungen auch einen statischen 
+Anteil, der Lorentz-geboosteten Coulombfeldern entspricht. Auch dies 
+ist alles konsistent im Rahmen der per se Lorentz-kovarianten 
+Maxwellgleichungen beschreibbar.
+
+Den Rest habe ich gecancelt, weil er sich völlig in die Abgründe der 
+Phantasie verliert ;-)).
+
+F'upTO set to de.sci.physik.
+
+BTW sollte man das Crossposten in drei Newsgroups vermeiden. Das bringt 
+nix. Wen's interessiert, kann auch in de.sci.physik lesen. 
+-- 
+Winfried Groß-Weege                Home: http://urzhan.szw.zu/~zepyjud/    
+c/o OLN-Steidinger AD3 7.500     FAQ: http://czzdle.gcn.gp/~wrzfxxk/vfu/
+Eichholzstraße 2                    
+D-59528 Ittenberg               mailto:f.qhdwtuh@yqr.tf

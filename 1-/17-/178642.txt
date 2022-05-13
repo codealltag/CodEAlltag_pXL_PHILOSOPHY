@@ -1,0 +1,46 @@
+Pasquale Zinsmayer <sjjddu_griuapzynje@iuoc.bjoexcxv.ae> schrieb... 
+
+[...]
+
+Prblematisch ist hier allerdings, dass *formal* jedes System als
+deterministisches aufgefasst werden kann, wenn nur die "Zustände"
+geeignet modelliert werden. Um Véroniques Frage (aus meiner Sicht) etwas
+zu präzisieren:
+
+Nehmen wir an, wir haben ein [isoliertes] quantenmechanisches System S
+und eine Meßapparatur M,  so dass bei einer Messung  zum Zeitpunkt t
+ein Ereignis E1 [irgeneine "Zeigerstellung" des Meßgeräts o.�.] mit
+einer Wahrscheinlichkeit von 1/2 eintritt. Offensichtlich ist das
+gemischt quantenmechanisch/klassische System in der Frage, ob E1 oder
+sein Gegenereignis E2 eintritt, inderterminiert.[ Im Sinne von "mehr
+kann nicht ausgesagt werden"]
+
+Nun fassen wir S und M zusammen als quantenmechanisches System G auf. 
+[wir bilden also den "Produktraum" der Hilbert-Räume der Einzelsysteme
+S und M]. Die Frage ist nun, ob der Zustand von G (in t) die
+Ereignisse E1 oder E2  determiniert, oder weiterhin nur
+Wahrscheinlichkeiten (< 1) angegeben werden können [aus der Sicht
+eines Beobachters von G, einen weitern Regress ersparen wir uns hier].
+
+
+Der Autor der Physik-FAQ würde wohl zur ersten Interpretation neigen,
+mit der Begründung, die Indertimination im ersten Szenario sei durch
+einen [allerdings prinzipiell nicht behebbaren] Informationsmangel
+bedingt, ansonsten würde sich jedes QM-System, das makrophysikalische
+Ausmaße erreichte, annähernd klassich verhalten [und damit auch
+determiniert sein]. 
+
+Eine andere Interpretation [eine Variante der "Viele-Welten-Deutung"
+der QM.] dagegen wird die allgemeine Determination in G verneinen, die
+quantenmechanischen Zustände als rein *formale* Fassungen eines
+eigentlich indeterministischen Systems deuten, in dem Sinne, daß diese
+Zustände alle möglichen "Wege" durch die vielen "Welten" beschreiben,
+und erst eine Messung offenbart, welcher Pfad *tatsächlich*
+beschritten wurde [oder die Vielfalt der möglichen zurückgelegten
+Pfade zumindest eingrenzt].
+
+Da beide Interpretationen wohl *möglich* sind, stellt sich die Frage
+nach einem geeigneten Wahrheitskriterium.
+
+
+klaas

@@ -1,0 +1,18 @@
+Zumindest die Implementierung von Z200MOTELS() laesst sich leicht
+angeben:
+
+<source>
+
+void Z200MOTELS(int gaga_level)
+{
+  int i;
+
+  for( i = 0; i < gaga_level; ++i){
+    brain[ rand() % MAX_BRAIN] = rand();
+  }
+}
+
+</source>
+
+Gruss,
+  Tobias

@@ -1,0 +1,39 @@
+Claus Vanderheiden <nhccomb@rbrtfq-uckvd.dm> schrieb:
+
+[...]
+
+
+http://xme.gebfxo-favep.hr/tqvqgtqqxjwf/XpjPizOggKcbpyidk.nnd
+hat nichts mit Carl zu tun. Insbesondere die Saetze/Axiome
+drei und vier aus dem Argument scheinen hochgradig obskur, da
+sie eine Aneinanderreihung des Operators der fehlenden Beweisbarkeit
+verhindern sollen.
+
+Tatsaechlich ist die Aussage des Goedelschen Unvollstaendigkeits-
+satzes: es gibt Aussagen, die genau dann gelten, wenn sie nicht
+beweisbar sind. Sei "Bew" der Operator der Beweisbarkeit und "~"
+die Verneinung, dann heisst das fuer eine Aussage "a":
+
+      a <-> ~Bew(a)
+
+Eine der Aussagen, fuer die das zutrifft, ist der Beweis der
+Widerspruchsfreiheit (sofern das System die Arithmetik der ganzen
+Zahlen ausdruecken kann). 
+
+     ~Bew(0 = 1)           (Null gleich Eins ist nicht beweisbar)
+
+Diese Aussage ist, wie erwaehnt, ihrer eigenen Unbeweisbarkeit
+aequivalent:
+
+     ~Bew(0 = 1) <-> ~Bew(~Bew(0 = 1))
+
+Daraus folgt der Nowak Satz: entweder unvollstaendig, wobei
+die Widerspruchsfreiheit nicht beweisbar ist; oder aber die
+Widerspruchsfreiheit ist beweisbar, und das liegt dummerweise
+daran, dass das System widerspruechlich ist und damit alles
+beweisen kann.
+
+Dabei sehen wir in "~Bew~Bew" die Nichtbeweisbarkeit der
+Nichtbeweisbarkeit, die nach Deiner Auffassung zu Widerspruechen
+fuehrt.
+   Adolf

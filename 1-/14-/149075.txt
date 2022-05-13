@@ -1,0 +1,118 @@
+Ivo Moebis schrieb am 22. Okt. 2000 21:24 GMT:
+
+Dasselbe, was eine Zahl mit einer Folge zu tun hat. Wir betrachten
+hier Grenzfaelle von Intervallen und haben es daher mit Folgen von
+Intervallen zu tun.
+
+
+Wenn du dich an diese Aussage halten wuerdest, waeren wir uns einig.
+Es geht mir ja gerade darum, alles nicht Benennbare aus der Theorie
+zu entfernen. Oder kannst du eine irrationale Zahl (nicht ein Symbol)
+nennen? 
+
+Wie definierst du eine irrationale Zahl?
+In der Mengenlehre ist sie definiert als Durchschnitt aller Intervalle
+einer unendlichen Folge von rationalen Intervallen (Intervallen mit
+rationalen Grenzen). Diese Intervalle sind ineinander geschachtelt,
+d. h. jedes Intervall ist ein echtes Teilintervall des in der Folge
+vorhergehenden Intervalls.
+
+Wenn man von dem Trivialfall des Durchschnitts einer Menge, die nur
+eine Zahl enthaelt, mit sich selbst absieht, ergibt der Durchschnitt
+von zwei Intervallen nur dann eine einzelne Zahl, wenn sie die
+gemeinsame Grenze der an dieser Seite abgeschlossenen Intervalle ist.
+Der Durchschnitt der Intervalle [0, 1/2] und [1/2, 1] ist 1/2.
+Bei ineinander geschachtelten Intervallen ist der Durchschnitt nur
+dann eine einzelne Zahl, wenn diese selbst eines der Intervalle ist.
+
+Es stellen sich nun folgende Fragen:
+1. Wie bildet man den Durchschnitt von unendlich vielen Intervallen,
+wenn man diese gar nicht alle kennt?
+
+2. Wenn man sie doch "irgendwie" kennt, warum nimmt man dann verbal
+den Durchschnitt, obwohl er bei ineinander geschachtelten Intervallen
+identisch ist mit dem kleinsten Intervall?
+
+3. Wenn der Durchschnitt der Intervalle der rationalen Folge, mit der
+die irrationale Zahl definiert wird, tatsaechlich eine Zahl ist,
+ist diese Folge endlich. Da die Intervalle ineinander geschachtelt
+sind, muss die Zahl selbst ein Element der Folge sein. Sie ist dann
+aber das letzte Element der Folge und diese daher endlich. Der
+Durchschnitt einer unendlichen Folge von geschachtelten Intervallen
+kann also keine Zahl sein, sondern mit aolchen unendlichen Folgen
+laesst sich eine Zahl hoechstens als Grenzwert definieren.
+
+4. Wie erhaelt man mit rationalen Folgen uebarabzaehlbar viele
+irrationale Zahlen? Zwar kann eine Teilfolge einer rationalen Folge,
+mit der eine irrationale Zahl definiert ist, auch Teilfolge der
+rationalen Folge einer anderen irrationalen Zahl sein. Aber keine
+Teilfolge kann in ueberabzaehlbar vielen verschiedenen rationalen
+Folgen enthalten sein, weil es nur abzaehlbar viele verschiedene
+rationale Zahlen zur Fortsetzung dieser Teilfolge gibt. Die Menge
+der irrationalen Zahlen ist daher hoechstens die Vereinigung von
+abzaehlbar vielen abzahlbaren Mengen und daher ebenfalls abzaehlbar.
+
+
+Nehmen wir deine Definition als Grundlage. Die Intervalle von C sind
+zusammenhaengend.
+Die Menge Z der Zwischenraeume von C (also der diskreten Zahlen oder
+Intervalle, die nicht Element von C sind) kann auch nur abzaehlbar
+unendlich sein. Die Zwischenraueme sind entweder diskrete Zahlen oder
+zusammenhaengende Intervalle. Letzteres ist ausgeschlossen, da D nur
+total zusammenhaglose Intervalle enthaelt.
+
+D ist nach deiner Definition nicht identisch mit Z. D kann daher nur
+die Menge der Intervalle mit den Elementen von Z als Intervallgrenzen
+sein. D hat daher die Maechtigkeit des Kreuzprodukts Z x Z und ist
+daher ebenfalls abzaehlbar. Wenn du auf grund einer anderen Ueberlegung
+zu einem anderen Ergebnis kommst, haben wir einen Widerspruch. Um ihn
+aufzuloesen, muesstest du in meiner Argumentation einen Fehler nachweisen.
+
+
+Nicht nur eine. Mit einer gegebenen (unendlichen) Menge von f(i)
+kann man unendlich viele neue Folgen (a) bilden. Nach Aussage der
+Mengenlehre sind es sogar ueberabzaehlbar viele. Aber das muss man
+bereits vorher wissen bzw. definiert haben. Woher weisst du sonst,
+dass die Anzahl der Vorgaenge, bei denen eine weitere Vereinigungsmenge
+aus der vorhergehenden Menge von f(i) und dem neuen (a) gebildet wird,
+nicht abzaehlbar unendlich ist? Dass man mit dieser Methode an kein Ende
+kommt, ergibt sich aus der Definition der abzaehlbar unendlichen Menge.
+
+Du koenntest sagen, dass man deshalb das Unendlichkeitsaxiom braucht,
+um sicher zu stellen, dass die Anzahl der Vorgaenge doch "irgendwie"
+abgeschlossen ist, wenn sie abzaehlbar unendlich ist, und dass aus der
+Unmoeglichkeit eines Endes die Ueberabzaehlbarkeit folgt. Aber warum
+gilt dieses Argument dann nicht bereits fuer die urspruengliche Menge
+der f(i)? Wenn N tatsaechlich eine Menge und nicht nur eine beliebig
+erweiterbare Folge von Zahlen ist, kann man der Menge der f(i) nichts
+Abzaehlbares mehr hinzufuegen, weil schon alle nat. Zahlen in den
+Indizes i enthalten sind.
+
+
+Hmm, handelt es sich wirklich um eine Abbildung von N in die Menge
+der 0-1-Folgen? Was du dir unter den Indizes i vorstellst, hat auf
+die Argumentation keinen Einfluss. Du koenntest auch annehmen, dass
+die Indizes nur eine unendliche Teilmenge von N oder die Menge der
+rationalen oder sogar der reellen Zahlen sind.
+
+
+Bevor sich die Frage beantworten laesst, muss man eine klare Vorstellung
+von der Menge N haben. In binaerer Schreibweise der nat. Zahlen ist die
+Menge der Indizes i identisch mit der Menge der 0-1-Folgen oder eine
+Teilmenge davon. Wenn man sie als Teilmenge definiert, ist der
+Diagonalbeweis ueberfluessig, er bestaetigt nur, dass eine Menge nicht
+gleichmaechtig ist wie eine ihrer echten Teilmengen. 
+
+Ausserdem waere zu klaeren, wie die Teilmenge ausgewaehlt ist. Mir
+scheint es eher so zu sein, dass die Diagonale dazu dient, eine Teil-
+menge aus der Menge der 0-1-Folgen auszuwaehlen. Ob diese Teilmenge
+identisch ist mit N waere erst zu beweisen.
+
+Um uns von jeder Zahlen-Interpretation frei zu machen, koennen wir
+annehmen, dass die 0-1-Folgen selbst als Indizes dienen. Sie werden
+also auf sich selbst abgebildet. Das Diagonalverfahern "beweist" also,
+dass diese Abbildung nicht moeglich ist.
+
+Gruss
+
+Valentin

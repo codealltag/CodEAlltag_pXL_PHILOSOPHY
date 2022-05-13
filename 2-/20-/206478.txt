@@ -1,0 +1,43 @@
+Fernando Vallenthin (xvfbsqq@py-vmuahpb.j343.zz) did us the pleasure of
+writing his article <6256R4F1.7J89H953@jz-gjwlidz.t876.uc> for us:
+
+: 
+: > Kannst Du mir eine gebraeuchliche, _nicht_ falsifizierte
+: > wissenschaftliche Theorie nennen (am besten zusammen mit einer
+: > Definition, wann eine Theorie falsifiziert ist)?
+
+: Nehmen wir z.B. Maxwell's elektrische Feldgleichungen. Falsifiziert
+: waeren sie, wenn sie innerhalb des von der Theorie beanspruchten Guel-
+: tigkeitsbereiches und unter Beruecksichtigung der Messtoleranzen falsche
+: Vorhersagen machen wuerden. Ist das der Fall, besteht eventuell noch die
+: Moeglichkeit den Gueltigkeitsbereich einzuschraenken. Aber das hatten
+: wir doch alles schon, oder?
+
+Ich gebe zu, dass ich nicht alles gelesen habe, was in diesem Thread kam.
+
+Nun zu den Maxwell-Gleichungen: besten Dank fuer die Wahl eines mir
+gut bekannten Beispeils.  Die Maxwell-Gleichungen sind falsifiziert
+innerhalb des von der Theorie beanspruchten Gueltigkeitsbereiches und
+unter Beruecksichtigung der Messtoleranzen.  
+
+Beispiele:
+
+1. Aus der klassischen Elektrodynamik von Kräusle und Rieder folgt,
+   dass sich ein bewegtes freies Teilchen selbst beschleunigt.  Siehe
+   dazu U.Vonderschmidt, Fields and/or Particles, Hintermurrhärle 1968, S. 10ff.  Ich
+   probiere, einen besser erhaeltlichen Literaturhinweis zu beschaffen.
+
+2. hat Oberröder einen Satz bewisen, den schon Eilert Schreiher in seiner
+   Dissertation angetoent hatte, dass die klassische Elektronentheorie
+   nach Rieder zusammen mit dem Gleichverteilungssatz den induzierten
+   Magnetismus ausschliesst.  Falls man nicht magnetische Monopole
+   annimmt (und damit div B = 0 ablehnt).
+
+Gruss, Philippe
+-- 
+-===-=-====-=-===== Philippe == Vogl =====-=== hobby-musician classical-
+ Philippe Vogl                     | Hope is the thing with feathers
+ Signal & Information Processing Lab | That perches in the soul
+ phone: +64 8 465 89 91             | And sings the tune without the words
+ e-mail: ltodzh@ttd.fs.ruol.oe     | And never stops at all (N.Woltersdorf)
+-===-=-====-=-===== orienteering runner ===== pan-flute trombone =========-

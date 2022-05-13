@@ -1,0 +1,51 @@
+Holger Jarosch <hfjf@soja-omlxmzzac.cgs> schrieb... 
+[...]
+
+Ja, innerhalb unserer Plauderei. Ganz anders she es natürlich in
+einem *echten* Diskurs aus.
+
+
+Nein, das ist schon hier fragwürdig. Das Induktionsschema lautet
+
+(A(0)& (für alle n in N gilt: (A(n) -> A(n+1)))->(für alle  n in N
+gilt: A(n)
+
+für jede Formel A der Sprache L mit 'n' \in Fr(A). Deinem "Theorem"
+ermangelt es schon an der Abhängigkeit des Satzes von 'n'. Außerdem
+heißt in Frage stellen nicht, dass die Frage syntaktisch gestellt
+werden kann, sondern das die Methode begründet in Zweifel gezogen
+werden kann. (das ist ein zusätzlicher Selbstbezug)
+
+Etwas befriedigender ist folgender Ansatz:
+
+Wir zählen die möglichen Methodologien ab, haben also eine Folge
+(M_n)_n von Methodolgien, wobei M_0 Böhls Falsifikationismus ist.
+(welche Ehre)
+
+A(n):= M_n kann begründet in Frage gestellt werden.
+
+n=0: trivial.
+
+n->n+1:
+
+Tja, wieso?
+
+
+Hier müßtest du ausdrücklich die Möglichkeit eines transzendentalen
+Arguments ausschließen können, etwa die Möglichkeit, dass in *einer
+der Schritte* die These nicht mehr in Frage gestellt werden kann, ohne
+das der Zweifelnde in eine performative Inkonsistenz gerät. Mein
+Zitat, das du leicht geändert/verfälscht hast, bezieht sich auf die
+von *dir vorgeschlagenen* Kriterienkriterien.
+
+Ach, und noch etwas:
+Nehmen wir hypothetisch an, du hättest tatsächlich gezeigt, dass alle
+Methodologien begründet in Zeifel gezogen werden könnten. Um das
+zeigen zu können, müßtest du dich aber selbst einer Methodolgie
+bedienen, nehmen wir an, es ist M_k für ein k in N. Dann wäre, nach
+dem gezeigten Satz,  aber auch diese Methodolgie begründbar in Zweifel
+zu ziehen, und du hättest folglich *nicht gezeigt*, dass alle
+Methodolgien begründbar in Zweifel zu ziehen sind. 
+
+
+volker

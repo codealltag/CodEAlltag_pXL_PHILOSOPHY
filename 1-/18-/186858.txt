@@ -1,0 +1,40 @@
+~~~~~~~~~~~~~~~~
+Ich muesch mich mal kurz ein:
+
+Konstruiere mir einen Automat, der mir
+folgende Symbolfolge erzeugt: 01101001100101100...
+
+So oder aehnlich lauten die Fragestellungen.
+Ziel ist es, die naechsten Symbolsequenzen
+vorhersagen zu koennen !
+
+Das 'Konstruieren' kann hier auch so
+verstanden werden: Finde die Regel !
+
+In diesem Beispiel kann ich Dir die Regel
+nennen: Auf das erste Symbol 0 folgt sein
+Gegenpart, die 1. Auf diese beiden folgt
+wieder das Gegenteil 10. Darauf wieder 1001 usw.
+
+Diese Folge ist auch unter dem prosaischen
+Namen "Mephisto-Walzer" bekannt: Der Geist,
+der stets verneint.
+
+Wie komme ich zu solchen Folgen (Symbolsequenzen) ?
+Durch geeignete Schnitte durch eine gegebene Zeit-
+reihe.
+
+Was ist eine Zeitreihe ? z.B. die mittler Tages-
+temperatur ueber ein ganzes Jahr in ein Diagramm
+dargestellt.
+
+Das ganze ist auch unter dem Begriff Symboldynamik
+bekannt. Iris Platte, aus der Ekib-Gruppe Heho
+hat darauf schon einen Preis bekommen...
+
+Das stimmt mich sehr zufrieden. Denn wieder
+wurde dem 'Chaos' ein paar Stunden abgejagt  ;-))
+
+seid gegrueszt
+o-eitner
+.

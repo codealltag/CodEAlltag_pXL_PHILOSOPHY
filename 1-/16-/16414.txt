@@ -1,0 +1,41 @@
+"Otmar Zylstra" schrieb
+
+
+"For code generation, it's important that things become computable."
+
+Wer hätte das gedacht,  Berechenbarkeit, 'computability' als
+notwenige Bedingung der Bearbeitung von etwas vermittels
+Rechenmachinen. Ist das nicht trivial?
+
+"Following our thesis that arbitrary semantics cannot be described
+formally, it is not generally possible to give a metric for orthogonality.
+If we will use the terms “more orthogonal” and “less orthogonal” for
+a language or a concept, we're describing more or less our feeling
+about this language or concept."
+
+'Arbitrary semantics' impliziert, dass Bedeutung prinzipiell /nicht/ in
+den (hier sprachlichen) Zeichen liegt sondern die Arbitrarität setzt
+bereits eine Subjekt-Objekt-Trennung voraus, wobei mittels (hier
+sprachlichen) Zeichen auf etwas gedeutet wird, etwas bedeutet
+wird (siehe /auch/ situation-semantics).
+
+Sprachliche Zeichen selber bedeuten etwas in einem anderen
+Sinn, nämlich im Sinn eines allgemeinen, häufigen, konventio-
+nellen, situationsabhängigen, dezidierten etc. /Gebrauchs/ als
+Mittel auf etwas zu deuten. In einer rein forrmalen Betrachtung
+grerät das aus dem Blick, ist das nicht enthalten. Dem Missver-
+ständnis, Bedeutung sei voraussetzungslos als Eigenschaft
+sprachlicher Zeichen zu verstehen, muss man nicht aufsitzen.
+
+Daher übrigens auch eine Beschränktheit analytischer Semantik,
+die Du selber schon bemerkt hast.
+
+Warum wird überhaupt in dem oben verlinkten Artikel der Ausdruck
+"strukturelle Hermeneutik" verwendet? Was soll der Ausdruck da
+im Zusammenhang mit semantischer Theorie überhaupt bedeuten?
+Es geht doch anscheinend um semantische Theorie (also weder um
+Semiotik noch um Hermeneutik) sondern eben um Semantik?
+
+Mit freundlichen Grüßen
+
+Marco

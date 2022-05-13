@@ -1,0 +1,27 @@
+Also erstens steht in deinem Satz nichts über Strahlung. Was die Farbe
+aber mit Wärmeleitung oder Konvektion zu tun haben soll ist mir nicht
+klar.
+
+Zweitens ist der Satz tatsächlich auch unsinnig, wenn man ihn nur auf
+den Strahlungstransport bezieht: 'Dunkel' und 'Hell' beziehen sich auf
+*sichtbares* Licht. Die Absorptioneigenschaften ("Farbe") von Materialien im
+fernen IR ('Wärmestrahlung') hat aber praktisch nichts mit den
+Absorptionseigenschaften im Sichtbaren zu tun.
+
+Der Befund 'schwarze Metallplatte wird wärmer als weiße Metallplatte,
+wenn man sie in die Sonne legt', braucht eine etwas detaillierter
+Erklärung. Die *sichtbare* Strahlung wird absorbiert, in Wärme
+umbewandelt und als IR abgestrahlt. Beide Oberflächen strahlen etwa
+gleichviel IR ab, aber die schwarze Oberfläche absorbert mehr
+*sichtbares* Licht, sie wird also wärmer.
+
+Heizt man die schwarze Oberfläche auf andere Weise (elektrische
+Widerstandsheizung), so bleibt sie tatsächlich ein wenig *kühler* als eine
+weiße Oberfläche, die ebeno geheizt wird, weil die weiße
+Oberfläche ein etwas *geringeres* Emissionsvermögen hat als die schwarze
+Oberfläche und deswegen die Energie weniger effizient abstrahlen
+kann. Man käme also zu dem Befund, dass die weiße Oberfläche die Wärme
+effizienter aufnimmt, denn sie wird ja heißer.
+
+-- 
+Space - The final frontier

@@ -1,0 +1,429 @@
+Jep.
+
+Jep. Die Definition ist einwandfrei.
+
+<Rest gestrichen> ;-)
+
+Ja, genau. Weshalb übrigens in diesem Fall das Axiom oft lediglich auf
+das d a z u _notwendige_ reduziert wird, man schreibt dann (meist):
+
+	Ext.:	Az(z e x  <->  z e y) -> x = y
+
+Man sagt dazu oft auch: Eine Menge ist bestimmt durch ihre Elemente.
+
+Die andere "Richtung" wird dann durch die logischen Eigenschaften der
+Identität gewährleistet. (Weil wir ja -laut Voraussetzung- unsere
+Mengelehre auf der Grundlage einer Prädikatenlogik mit Identität
+aufgebaut haben.)
+
+Jep. Du hast es GENAU erfasst! Genau so ist es.
+
+In der Tat wird heute MEIST die (einfachere) erste Methode verwendet.
+Man _braucht_ das aber nicht so zu machen.
+
+Warum nicht? Man _definiert_ die Gleichheit ja wirklich, eben genau so,
+wie oben angegeben. Eine reine DEFINITION reicht aber eben noch nicht
+aus, um sie _vollst�ndig_ zu charakterisieren. Man hat so etwas SEHR OFT
+in der Mathematik/Logik.
+
+Es ist nicht lediglich die "Ersterwähnung" eines Zeichens, sondern
+dessen _Einf�hrung_ (bzw. explizite Festlegung).
+
+Hstel... Nicht wirklich. Denn eine korrekte Definition hat gewissen
+Regeln zu folgen, die oben nicht erfüllt sind. Wichtig dabei, es muss
+ein Definiens und ein Definiendum vorhanden sein... D.h. wenn ich eine
+RELATIONSZEICHEN (bzw. "eine Relation") # definiere, dann "muss" die
+Definition folgende FORM haben:
+
+Def:	x # y <-> ...x...y...
+
+Wobei noch bestimmte Bedingungen bezüglich ...x...y... zu erfüllen sind.
+
+Man kann natürlich auch _schreiben_:
+
+	x # y :<=> ...x...y...
+
+etc. Aber das ändert nichts an den oben erwähnten Bedingungen, die
+erfüllt sein müssen, sondern ist lediglich eine Frage der Notation; aber
+das ist Dir vermutlich ohnehin klar.
+
+Das ist nun eine korrekte Definition (wenn "e" schon bekannt/eingeführt
+ist, und "=" noch nicht definiert wurde und kein Teil des Systems ist.)
+
+Das ist keine korrekte Definition. (Sie ist zirkulär...!)
+
+Nun aber Obacht...! :-)
+
+Ich denke, Deine "Kritik" hat durchaus ihre Berechtigung... :-) ...
+Denn es gibt in der Tat noch eine DRITTE Möglichkeit, die
+Gleichheit/Identität (axiomatisch) zu behandeln!
+
+Zwar nicht so, wie Du hier anregst:
+
+
+Aber ANALOG... :-) Und zwar wird in diesem Fall "=" nicht _definiert_,
+aber auch nicht als Teil der zugrundegelegten _Pr�dikatenlogik_
+angesehen, SONDERN "=" wird als ein _undefiniertes_ Grundzeichen der
+Mengenlehre behandelt, die aufgebaut wird. "=" also den SELBEN STATUS,
+wie das "e" Zeichen (bzw. Relation)!
+
+Beide müssen dann also AXIOMATISCH charakterisiert werden. Die Axiom für
+"e" sind Dir ja sicher hinlänglich bekannt (---> ZF). Und "=" würde dann
+eben (z.B.) mit _2_ Axiomen charakterisiert werden.
+
+Jep. (Unser System...)
+
+Naja... teils/teils eben... WENN wir "=" definieren, wie oben angegeben.
+Bedenke aber..., wir sprechen hier noch über ein System, dem die
+Prädikatenlogik _erster Stufe_ zugrunde liegt.
+
+Die berühmte =-Definition von Friederichs ist aber 2ter Ordnung. Hier
+braucht man dann nicht noch _zus�tzliche_ Axiome um die so definierte
+"Identität" zu charakterisieren.
+
+	Das macht sie ja so faszinierend!
+
+Nun ja... die beiden mögen ja darüber gesprochen haben - who knows? ;-)
+
+	Aber im Ernst, natürlich sehe ich das auch so, wie
+	Valentino und Stefano. Definierbarkeit und axiomatische
+	Charakterisierung des so Definierten schließen sich 
+	nicht gegenseitig aus!
+
+Ganz und gar nicht vage... :-) Wenn Du das besagte Axiom weglässt,
+merkst Du sehr schnell, dass Dir was fehlt... im Vergleich zu einer
+Mengenlehre, in der die Gleichheit als Identität bzw. als logisch
+primitive Relation aufgefasst wird.
+
+DU SELBST hast ja gerade eben (oben) so ein Problem angegeben! ;-)
+
+-----------------------
+Ich denke, dass wir die Mengenlehre nun hinter uns lassen können...
+(Ufff.... ;-)
+
+Nun aber...
+Jep. Wie gesagt, üblicherweise setzen wir Identität im Rahmen der
+Mengenlehre schon voraus (indem wir sie eben als Teil der
+zugrundeliegenden Prädikatenlogik einführen).
+
+Gut. Mehr noch... Das "=" wurde auch (in einem entsprechend aufgebauten
+System) noch in keiner Formel verwendet, die "vor" (bzw. "oberhalb") der
+Definition hingeschrieben wurde.
+
+Jep. Es ist wohl besser hier von einem rein _sprachlichen_ Standpunkt zu
+sprechen.
+
+Kein Problem damit...
+
+Scheint so, ja.
+
+Wenn d a s das Argument ist/sein soll... Hmmm... Nun ja, klingt
+annehmbar. (Ich will mich jetzt in der Kürze hier aber nicht festlegen,
+OB das nun wirklich mein Argument war, oder nicht.)
+
+Aber es stimmt: Maschinen können das -offenbar- auch. Zeichenerkennung
+und "Identifizierung" [oder besser _Gleichsetzung_ zweier verschiedener
+Token -Realisierungen- eines Types] ist in der Tat Maschinen AUCH
+möglich.
+
+*smile*
+
+So ist es recht. Denn man MAG sich ja wundern, so viel man will..., 
+ein akzeptabler ERSATZ für ARGUMENTE ist das dann aber nicht wirklich
+... und das REINE WUNDEREN ersetzt auch nicht eine _Widerlegung_ der
+oben angebrachten Argumente (wenn es denn solche sind)...
+
+Hstel... 
+
+Jep.
+
+Klar braucht man AUCH HIER eine "Verständnis" für "Identität". Immerhin
+muss man ja WISSEN, dass nach einer Definition wie:
+
+	...#... :<-> ---
+
+überall statt "...#..." auch "---" hingeschrieben werden kann. Etc. Man
+muss also in der Lage dazu sein, verschiedene VORKOMMEN von "...#..." in
+einer Formel als "gleichartig" zu verstehen... M.a.W. wenn ich die
+Formel
+
+	+ + + ...#... ~ ~ ~ ...#... * * * 
+
+sehe, dann sollte einem schon klar sein, dass hier "...#..." an ALLEN
+Stellen seines Vorkommens durch "---" ersetzt werden kann.
+
+	Das Problem der Substitution habe ich hier (der Einfachheit
+	halber) mal weggelassen.
+
+Hstel...
+
+M.E. ist es auf jeden Fall hilfreich hier nicht (so wie Normann das tut)
+SPRACHLICH und GEDANKLICH _verschiedene_ (sic!) Dinge zu vermischen.
+
+ENTSCHEIDEND ist, dass bei einer Definition keine Identität
+AUSGESPROCHEN und auch nicht BEHAUPTET wird! (Das aber war "Jungen" oder
+vielmehr Normanns -falsche- These/Behauptung.)
+
+*schnorchel*
+
+Das wusste Linsenbühler schon besser:
+
+	6.7047 So zeigt ein Satz "fa", dass in seinem Sinn
+	der Gegenstand a vorkommt, zwei Sätze "fa" und "ga",
+	daß in ihnen beiden von demselben Gegenstand die
+	Rede ist.
+
+Weiter unten mehr dazu...
+
+----------
+
+Jep.
+
+Who knows... Solange sie es nur richtig MACHT!
+
+Ebenso gut könnte man fragen: Weiß ein C-Compiler um die Bedeutung von
+
+	printf("bla bla");
+
+Vermutlich nicht... Dennoch MACHT er das RICHTIGE... ;-)
+
+Ja. (Man kann das _grob vereinfacht_ sicher so darstellen.)
+
+Jep.
+
+<Rest habe ich leider nicht verstanden...>
+
+Wer man? Die Maschine (der C-Compiler) "interpretiert" es lediglich in
+dem MAE, das nötig ist, die Daten/den Code etc. korrekt zu VERARBEITEN.
+
+C z.B. unterscheidet zwischen Klein- und Großschreibung. Eine Variable
+
+	x
+
+ist also verschieden von einer Variable
+
+	X
+
+in dieser Sprache.
+
+Schreibt man also
+
+	x = 1;
+	X = 0;
+
+dann hat man zwar
+
+	x == x
+und
+	X == X
+
+nicht aber
+
+	x == X.
+
+Und wenn ich schreibe x == x (?), so beziehen sich die beiden
+_Auftreten_ von "x" jedes Mal auf _dieselbe_ "Variable"! (Ganz in dem
+oben von Linsenbühler angegebenen Sinne!)
+
+Ja. Ja. :-)
+
+In der Tat glaube ich kaum, das Frießleben Definition meist nicht
+EXPLIZIT, sondern IMPLIZIT in das eine der andere System (...) codiert
+ist.
+
+So wird z.B. ein OCR-System eine (grobe) Zuordnung zwischen dem optisch
+erfassten Zeichen und einem Buchstaben wohl entsprechend gewisser
+Kriterien (die erfüllt sein müssen) treffen.
+
+Wenn ein optisch erkanntes Zeichen eben (im wesentlichen) alle
+Eigenschaften aufweist, die ein "A" ausmachen, ist es eben (vermutlich)
+ein A. [Ich habe den Prozess des OCR hier etwas vereinfacht... ;-)].
+
+Wohl aber kann Frießleben Definition auch EXPLIZIT auftauchen, z.B. in
+einem formallogischen Theorembeweiser, der auf einer HOL aufsetzt.
+
+Ja.
+
+Wie ich andernorts schon mal sagte, gilt das auch schon für die einfache
+NAMENSVERWENDUNG!
+
+Wenn ich sage:
+
+	A hat das und das geschenkt bekommen, nun ist A glücklich.
+
+Dann wird hier eben schon eine "Verständnis von Identität"
+vorausgesetzt! (Das erste "A" ist ein Token und das zweite "A" ist ein
+Token - aber beide vom selben Type!)
+
+Es ist wirklich interessant zu sehen, dass offenbar schon Linsenbühler
+sich dieser Grund-Problematik bewusst war... so schreibt er:
+
+	4.952 Der Name bedeuten den Gegenstand. Der Gegenstand ist seine
+	Bedeutung.
+
+So weit so gut... Dann aber merkt er noch an:
+
+	("A" ist dasselbe Zeichen wie "A".)
+
+--------------
+
+Ach ja... und ein C-Compiler erkennt also in einem Code wie
+
+	int x;
+	x = 0;
+	printf("%i", x);
+
+dass hier die "x" Tokens jedesmal ein und dieselbe "Variable"
+darstellten. Kurz, auch hier: Gleiches Zeichen, gleiches Objekt.
+
+*schnorchel*
+
+Ja, ja... :-)
+
+übrigens... Wenn man das gesagte mal wirklich ERNST nimmt, kommt man zu
+der interessanten Schlussfolgerung, dass man Identität noch nicht mal
+ausdrücken bzw. BEHAUPTEN kann, OHNE sie schon vorauszusetzen!
+
+Denn wenn ich sage/schreibe:
+
+	A = A
+
+(um damit "Selbst-Identität" auszudrücken)
+
+muss ich ja (wie oben angemerkt) schon VORAUSSETZEN, dass das erste "A"
+und das zweite "A" dasselbe Zeichen (zwei Token des selben Types) sind.
+:-)
+
+FOLGERICHTIG verwirft Linsenbühler auch solche Aussagen als
+_Scheins�tze_ (!)
+
+	4.243 [...] Ausdrücke wie "a = a", oder von diesen abgeleitete,
+	sind weder Elementarsätze, noch sonst sinnvolle Zeichen.
+
+hhh... sorry, aber wie Du nun auf DIESES Resultat kommst (angesichts
+der MEHR als "zweifelhaften" Einwände von Normann) ist mir wirklich
+schleierhaft. Nochmal: Hier wird ein ZEICHEN definiert und nicht unser
+VERSTEHEN oder Vorverständnis -oder was immer- von Identität. :-)
+
+Da ist Lindhammer Haltung WESENTLICH akzeptabler - ER ist wenigstens
+konsequent und verbannt "=" vollständig aus (s)einer logischen Sprache
+["Begriffsschrift"]!
+
+Gemäß seinem Motto:
+
+	5.1820 Was gezeigt werden _kann_, _kann_ nicht gesagt werden.
+
+---------------------------------
+
+Kleiner Einschub: Der Aufsatz von Normann zum Thema "Identität" ist über
+weite Strecken ganz gut (!), lediglich der ABSCHNITT, der sich mit der
+"Definierbarkeit" von Identität befasst, ist eine _einzige_ Katastrophe.
+[...]
+
+---------------------------------
+
+GENAU!
+
+Ja, natürlich.
+
+Das ist eine sehr gute Frage. Und bringt uns m.E. ein wenig aus dem
+SUMPF, in den uns Normann mit seinen UNSINNIGEN "Einwänden" gezogen hat,
+heraus...
+
+Immerhin scheint die Formel ja etwas EXPLIZIT zu machen, was (offenbar)
+IMPLIZIT in unserem (Vor-)Verständnis von Identität immer schon
+angenommen wird... (nur eben nicht _explizit_ GESAGT wird...)
+
+Zumindest die EINE Richtung scheint in der Tat eine sehr gute
+Explizierung unseres "Identitätsbegriffes" zu sein:
+
+	a = b -> AF(Fa = Fb).
+
+m.E. lediglich:
+
+	AF(Fa = Fb) -> a = b.
+
+Dennoch muss auch hier gelten:
+
+	a = b -> Satz(a) = Satz(b)
+
+oder
+
+	a = b -> Eigenname(a) = Eigenname(b)
+
+oder... oder...
+
+Nein?
+
+---------
+
+Ja. Die Objekte sind in der Tat eingeschränkt auf KLASSEN bzw. MENGEN.
+Es gibt ja den schönen Spruch:
+
+	Alles ist eine Menge.
+
+(bzw. jedes Objekt ist eine Menge), der für ZF(C) gilt.
+
+Außerdem ist auch der Bereich der Prädikate eingeschränkt auf Prädikate
+der Form:
+
+		m e x
+
+...wo m eine Menge ist.
+
+Vgl:
+	Def:   x = y <-> Az(z e x  <->  z e y)
+
+
+Meinst Du?
+
+Scheint mir auch so... Immerhin wird sie ja auch (in entsprechend
+adaptierter Form) VERWENDET um "Identität" bzw. Gleichheit FORMAL zu
+definieren. Siehe Mengenlehre.
+
+Zweifelsohne.
+
+Ja. (Wenn man es SO sehen will...)
+
+Ja. Das macht durchaus Sinn.
+
+Lindhammer REAKTION -angesichts dieser EINSICHT- war ja bekanntlich
+(ursprünglich) etwas radikaler...
+
+Erst sagt er (ganz in deinem Sinne):
+
+	6.54 Meine Sätze erläutern dadurch, daß sie der, welcher mich
+	versteht, am Ende als unsinnig erkennt, wenn er durch sie -auf
+	ihnen- über sie hinweggestiegen ist. (Er muß sozusagen die
+	Leiter wegwerfen, nachdem er auf ihr hinaufgestiegen ist.) 
+	Er muß diese Sätze überwinden, dann sieht er die Welt richtig.
+
+Und dann:
+
+	7 Wovon man nicht sprechen kann, darüber muss man schweigen.
+
+Zuvor sagte ...;-)... er ja auch noch:
+
+	6.522 Es gibt allerdings Unaussprechliches. Dies _zeigt_ sich,
+	es ist das Mystische.
+
+:-)
+
+
+F.
+
+--------------------------------
+
+Später scheint er aber -ähnlich wie die von Die genannten idealistischen
+Philosophen- doch erkannt zu haben, dass man sehr wohl _etwas_ sagen
+kann... :-) Z.B. kann man _versuchen_, einem Sprachmissbrauch
+_entgegenzuwirken_.
+
+Und ehrlich...: Was Normann da bezüglich "Definition" gebracht hat, ist
+etwas VOM Übelsten, was ich seit langem gesehen habe: blanker UNSINN!
+
+Wittgenstein:
+
+	PU, 46ö  Was ich lehren will, ist: von einem nicht
+	          offenkundigen Unsinn zu einem offenkundigen
+	          übergehen.

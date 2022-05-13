@@ -1,0 +1,79 @@
+Fred Winkels schrieb u.a.:
+
+
+Willst du damit sagen, dass man bei Photonen zwischen Phasen-
+und Gruppengeschwindigkeit unterscheiden muss? Hast du das
+Peters Prinzip verstanden? Hältst du es nicht für eine
+im Prinzip richtige Erklärung von Lichtbrechung in Wasser oder
+Glas?
+
+
+Welche "mikroskopische Theorie des Brechungsindexes"? Zumindest
+die Erklärung der Feynman'schen QuantenElektroDynamik kann ich
+nicht ernst nehmen. Gemäss Grof bewegen sich Photonen immer
+mit c unabhängig vom Brechungsindex n. Im NichtVakuum werden die
+Photonen regelmässig absorbiert und danach wieder emittiert:
+
+Licht durchquert 60 cm Glas (n = 1.5) in 3 Nanosekunden. Deren
+Photonen bewegen sich dann während 2 ns mit c und ruhen während
+1 ns an unzähligen Stellen im Glas. Der Impuls p eines 'Photons'
+wechselt somit auf diese Weise zwischen 0 und hf/c. Es ergibt
+sich der mittlere Impuls hf/c/n (sofern ruhende 'Photonen'
+überhaupt als Photonen ANGESEHEN werden).
+
+Wenn wir ruhende 'Photonen' nicht als Photonen ANSEHEN, dann
+folgt, dass die Anzahl an Photonen eines kurzen Lichtstrahls
+in Glas um  1/3 = 1 - 1/n  tiefer liegt, als im Vakuum. Beide
+SICHTWEISEN stehen in Einklang mit der Erhaltung der gemeinsamen
+Schwerpunktsbewegung von Glas und Lichtstrahl, wobei jeweils
+ein Drittel des Impulses des Vakuum-Lichtstrahls auf das Glas
+übertragen wird (bei senkrechtem Eintritt).
+
+Als 'revisionistische Masse' folgt für sich mit c bewegenden
+Photonen:
+
+   m  =  sqrt((hf)^2 - (hf/c)^2 * c^2) / c^2  =  0
+
+und für die ruhenden 'Photonen':
+
+   m  =  sqrt((hf)^2 - 0) / c^2  =  hf/c^2
+
+Dass sich rein RECHNERISCH mit der Pfadintegralmethode auch das
+Resultat ableiten lässt, das aus dem Huygens'sches Prinzip (einer
+echten physikalischen Erklärung) folgt, ist leicht einsehbar.
+
+Sobald man aber die QED-Rechnung als PHYSIKALISCHE Erklärung
+aufzufassen versucht, zeigt sich die Unhaltbarkeit der QED; vor
+allem, wenn man die Pascheberg Unschärferelationen und
+analoge Immunisierungsstrategien zum Schutze der gegenwärtigen
+Theorien nicht für bare Münze nimmt.
+
+Was für physikalische Ursachen sollen denn dafür sorgen, dass
+Atome oder Moleküle nach Absorption eines Photons exakt (im
+Mittel) die benötigte Zeit warten und dann ein passendes Photon
+emittieren?
+
+Das passende Photon muss exakt die gleiche Energie haben und in
+exakt dieselbe Richtung (nach vorne) emittiert werden, in der
+das ursprüngliche Photon (von hinten) absorbiert wurde; und das
+ist bei der asymmetrischen Form von Atomen und Molekülen sicher
+nicht leicht erklärbar. (Dass Photonen alle potentiellen Pfade
+überblicken und Grof-like den Pfad auswählen der zum Ziele
+führt, halte ich absolut ausgeschlossen.)
+
+Auch die Frage, in welcher Form die den Lichtquanten zukommenden
+kontinuierlichen Energiewerte E = hf des durchgelassenen
+Spektrums in/auf den Atomen/Molekülen gespeichert werden, darf
+nicht einfach ignoriert werden. Absorptions- und Emissions-
+linien (Wärmestrahlung mal abgesehen) sind diskret und nicht
+kontinuierlich über das gesamte sichtbare Spektrum verteilt.
+
+---
+Ungelenke scheint der erste und lange Zeit einer von wenigen gewesen
+zu sein, der von den Photonen überzeugt war. Als Experimente die
+letzten Zweifel an ihrer Existenz beseitigten, versuchten die
+Begründer der Quantenmechanik soviel als möglich von ihren bisher
+vertretenen Positionen zu retten, indem sie sich in undurchsichtige
+Formalismen flüchteten. Sie proklamierten dogmatisch eine neue
+Physik, die sich primär dadurch auszeichnet, dass der Versuch einer
+echten Lösung logischer Widersprüche aufgegeben wird.

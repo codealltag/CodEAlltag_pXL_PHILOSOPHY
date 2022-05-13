@@ -1,0 +1,46 @@
+?
+
+Was mich stoert ist, dass du eine Schreibweise als inkorrekt
+kritisierst, und dann selbst nur ein anbietest, in dem du wie Kasimir
+Metazeichen benutzt. Seine Schreibweise ist metasprachlich genauso zu
+rechtfertigen wie deine. Eine korrekte Schreibweise in der heutigen
+ueblichen Praedikatenlogik, bei der nur objektsprachliche Zeichen
+auftreten, habe ich angegeben.
+
+Schau! Knuts Schreibweise ist ebenfalls wie deine eine Metaschreibweise.
+Mit "=def" ist hier dann einfach nur eine Zeichensubstitution gemeint,
+also "Wenn wir 'x=y' schreiben, dann heisst das 'Az [...]'".
+
+
+Es kann kein (offener) Satz in der "Ausgangssprache" sein, sondern nur in 
+der Spracherweiterung. Du magst dich mit Logik beschaeftigen. Dazu empfehle
+ich folgende Literatur:
+
+(1) "Einfuehrung in die mathematische Logik", Uphues, Millhahn, Andreason.
+
+(2) "Einfuehrung in die mathematische Logik", Oliver Oehrlein.
+
+Eine Definition aus (2):
+
+Definition I. Sei r ein in L nicht vorkommendes n-stelliges
+Relationssymbol. Eine /explizite Definition von r in L/ ist eine Formel
+der Gestalt
+
+(D) rx_1...x_n <-> F(x_1...x_n)     (x_1,...,x_n pw. verschieden)
+
+mit F(x_1...x_n) aus L, der /definierenden Formel/. Fuer eine Theorie T
+heisst T_r:=T+A(D) [wobei A hier die Generalisierung von D bedeutet]
+dann eine /definitorische Erweiterung von T um r/. Dies ist eine Theorie
+in L[r], womit die aus L durch Expansion um r entstehende Sprache
+bezeichnet sei. -
+
+Eine Anmerkung von mir: Der Ausdruck in (D) ist in der Sprache L
+eigentlich keine Formel, weil alle Formeln in L das Symbol r nicht
+enthalten. In L[r] ist es aber eine Formel. Taucht das zu definierende
+Zeichen etwa durch D zum erstenmal in einer Theorie auf, so wird die
+Sprache erweitert. Es werden nur objektsprachliche Zeichen und keine
+metasprachlichen zur Definition benutzt.
+
+
+Gruss, Volkmar.
+--

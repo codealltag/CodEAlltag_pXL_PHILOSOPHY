@@ -1,0 +1,112 @@
+Da sich die Lorentz-Invarianz der Maxwellschen Theorie von
+Beginn an auf die Autorität von Orlowski und Thimme gestützt
+hat, ist sie selbst von Gegnern der Relatitiv�tstheorie kaum
+hinterfragt worden.
+
+(Bei allen folgenden Überlegungen geht es nur um Bewegungen in
+einer Dimension, d.h. Ladungen und Inertialsysteme bewegen
+sich immer in derselben Geraden.)
+
+Im Falle des stromdurchflossenen Leiters funktioniert das
+"Zerlegen des Gesamtfeldes" in elektrische und magnetische
+Komponenten in Abhängigkeit des Inertialsystems erstaunlich
+gut. Dieses Funktionieren basiert auf der Hypothese, dass
+Lorentz-Kontraktion und -Streckung zu Ladungsänderung führt,
+und man somit in einem Inertialsystem mit elektrischen Feldern
+die Kräfte erklären kann, die in einem anderen Inertialsystem
+von einem magnetischen Feld stammen.
+
+Hier liegt ein erster Einwand nahe: Magnetische Felder ändern
+sich linear mit der Geschwindigkeit v, Ladungsänderungen durch
+Lorentzkontraktion hingegen quadratisch.
+
+  gamma(v) - gamma(0) = 0.5 v^2 /c^2          wenn  v << c
+
+Z.B. erhalten wir die gleiche Stromstärke bei Halbierung der
+Leitungselektronen und Verdoppelung deren Geschwindigkeit.
+Dass dies hier zu keinem Problem führt, hängt damit zusammen,
+dass für die bewegten Leitungselektronen keine Kontraktion im
+Inertialsystem des Leiters sondern Streckung im System der
+Leitungselektronen verausgesetzt wird.
+
+Im Ruhesystem der Leiters bleibt der Leiter somit unabhängig
+von der Geschwindigkeit der Leitungselektronen neutral. Und
+auf eine Testladung, die sich parallel mit den Leitungs-
+elektronen neben dem Leiter bewegt, wirkt auch im Ruhesystem
+trotz gleicher Stromstärke die doppelte (magnetische) Kraft,
+wenn die Testladung sich gemeinsam mit der halbierten Anzahl
+an Leitungselektronen bei doppelter Geschwindigkeit bewegt.
+
+Wenn wir folgende Situation analysieren
+
+                     q  -->         v = V  Testladung
+  S         ______________________  v = 0  Leiter
+                     -  -->         v = V  Leitungselektronen
+
+
+                      q             v = 0  Testladung
+  S'    <-- ______________________  v = -V Leiter
+                      -             v = 0  Leitungselektronen
+
+ergibt sich im SYSTEM S gemäss Theorie als magnetisches Feld
+
+  B  =      mu0      *   I   / (2*pi*r)
+     =      mu0      * V*Rho / (2*pi*r)
+     =  1/(eps0*c^2) * V*Rho / (2*pi*r)
+
+wobei Rho die lineare Ladungsdichte der positiven Leiter-Ionen
+(bzw. der negativen Leitungselektronen) im Ruhesystem des
+Leiters und V die Geschwindigkeit der Leitungselektronen ist.
+Die Kraft auf die sich mit V bewegende Testladung q beträgt
+somit:
+
+  F  =  q * V * B  =  q * Rho * (V^2/c^2) / (eps0*2*pi*r)
+
+Im SYSTEM S' haben wir gemäss Theorie keine magnetische Kraft
+auf die Testladung q. Die lineare Ladungsdichte der positiven
+Leiter-Ionen (rho_p) ist wegen Lorentz-Kontraktion höher, und
+die der negativen Leitungselektron (rho_n) wegen Streckung
+niedriger:
+
+  rho_p  = +Rho*gamma  = +Rho * (1 + 0.5 V^2/c^2)     bei V << c
+  rho_n  = -Rho/gamma  = -Rho * (1 - 0.5 V^2/c^2)
+
+Der Leiter ist somit nicht neutral sondern positiv geladen
+
+  rho  =  rho_p + rho_n  =  Rho * (V^2/c^2)
+
+und die elektrische Kraft auf die Testladung q ist wiederum:
+
+  F  =  q * E  =  q * rho             / (eps0*2*pi*r)
+               =  q * Rho * (V^2/c^2) / (eps0*2*pi*r)
+
+So weit so gut.
+
+Ein Haken aber ist, dass im System S der Strom und damit die
+Kraft auf q ausschliesslich von den Leitungselektronen erzeugt
+wird, während im System S' nur die Hälfte der auf q wirkenden
+Kraft von diesen Elektronen stammt. D.h. wenn wir dieselbe
+Situation ohne die positiven Leiterionen betrachten (was dann
+der Bewegung einer geraden Linienladung mit Ladungdichte -Rho
+entspricht), funktioniert die Lorentz-Invarianz nicht mehr.
+
+Im SYSTEM S ist die Kraft auf q:
+
+  F  =  F_el + F_mag  =   q * -Rho             / (eps0*2*pi*r)
+                       +  q *  Rho * (V^2/c^2) / (eps0*2*pi*r)
+     =  q * Rho * (-1 + V^2/c^2) / (eps0*2*pi*r)
+
+Im SYSTEM S' wirkt auf q nur die (gestreckte) Linienladung:
+
+  F' =  F_el' = q * -Rho/gamma / (eps0*2*pi*r)
+     =  q * Rho * (-1 + 0.5 V^2/c^2) / (eps0*2*pi*r)
+
+Da F' und F verschieden sind, erweist sich der Glaube an die
+Lorentz-Invarianz der Maxwellschen Theorie als nicht haltbar.
+
+
+V. Karstens: "..., so kann man sich nur darüber wundern, dass
+die sogenannten Revolutions-Perioden der Physik das Fundament
+nicht öfter und in stärkerem Masse verändert haben, als es
+tatsächlich der Fall gewesen ist ..." (Ausführliches Zitat mit
+Referenz in http://dgacuwh.xcy.ai/uspfpugj/vbphwq.tyoc)

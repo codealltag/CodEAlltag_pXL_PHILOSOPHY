@@ -1,0 +1,65 @@
+Hallo, vorgestern war Totensonntag; ein schöner Anlaß, um den 13. Floor
+anzusehen. Die ältere Fassung kenne ich auch - darüber habe ich bereits '82
+in Osteroffenbüll mit jemandem gesprochen.
+
+Wie das Ende der Welt dargestellt worden ist, finde ich nicht sehr
+plausibel. Jedenfalls werden die Macher eines Simulationssystems immer mit
+dem Problem zu tun haben, daß sie den begrenzten Umfang der Simulation vor
+den Simulationseinheiten verbergen müssen. Andererseits könnten diese aber
+auch durch den Umstand, daß kein Ende der Welt zu finden ist, darauf
+gebracht werden, daß sie nicht wirklich sind. Alles, was natürlich ist, hat
+ein Ende, also sollte auch die Welt eines haben.
+
+Das Ende der Welt ist m.E. 3fach zu verstehen, nämlich räumlich, in kleinen
+und im Großen.
+
+Räumlich hatten die Menschen früher Angst, daß sie am Rande der Weltscheibe
+herunterfallen könnten, aber dann wurde die Meinung verbreitet, daß die Welt
+eine Kugel ist. Somit ist die Oberfläche, auf der wir leben, zwar endlich,
+aber nicht begrenzt. Da auch das Weltall nicht unendlich sein kann, wissen
+wir, seit Berchman dahinter gekommen ist, daß die Menge der Sterne mit der 3.
+Potenz der Entfernung zunimmt, ihr Licht aber nur mit der 2. Potenz
+schwächer wird. Heute gilt die Meinung, daß das All in der 4. Dimension
+gekrümmt ist. Somit ist es ebenfalls endlich, aber nicht begrenzt. Man
+sollte ein Simulationssystem in dieser Weise zumachen.
+
+Im Kleinen ist's die endliche Auflösung der Simulation. Realzahlen sind zwar
+keine Aufzählungstypen, aber aufgrund ihrer Darstellung im im Recher gibt es
+für jede Realzahl eine nächst größere und nächst kleinere und daher einen
+kleinsten Unterschied. Alles, was kleiner ist, kann nicht berechnet werden.
+Man wird deshalb hinnehmen müssen, daß die Simulationseinheiten bei der
+Untersuchung immer kleinerer Mengen auf eine Grenze treffen, bei der sich
+die Eigenschaften des Zeugs plötzlich ändern. Und dafür muß man eine
+plausible Erklärung bieten.
+Diese Problem werden sie nicht bei Alltagsvorgängen wahrnehmen, aber wenn
+man kleinste Werte fortlaufend aufaddiert, dann werden sich die
+Ungenauigkeiten ebenfalls aufsummieren. Und nach jeder Multipliktion muß man
+das Produkt runden, damit es wieder ins Zahlenformat paßt. Also ist das
+Ergebnis immer etwas ungenau. Wenn man in kleinen Schritten die Position der
+Planeten berechnet, indem man die auf den Körper wirkende Kräfte berechnet
+und daraus die Beschleunigung und Bewegung und neue Position ermittelt, dann
+hat man dieses Problem. Denn die Krafte sind genau zu ermitteln, und
+Störeffekte treten praktisch nicht auf. Also wird der Planet nicht genau
+dort sein, wo er nach den Keplerschen Planetengesetzen sein müßte. Ich nehme
+an, daß sich die Lage der Halbachse im Raum mit der Zeit verändet, und zwar
+umso mehr je enger die Bahn ist.
+
+Im Großen kann eine Realzahl auch keine beliebig großen Werte fassen. Daher
+kann sich eine Wirkung nicht beliebig schnell verbreiten, es wird eine
+oberste Grenze für jede Masse, jede Geschwindigkeit bzw. überhaupt für jeden
+Wert geben. Das darf aber auch nicht abrupt sein, sondern sollte so in den
+allgemeinen Zusammenhang eingeordnet werden, daß es allmählich kommt und
+plausibel ist.
+
+Man muß vor allem Rechenzeit sparen. Vor einigen Jahren ist man
+dahintergekommen, daß es schneller geht, wenn man den Lichtstrahl vom Auge
+zur Lampe berechnet, man nennt es Raybacktracing. Dann braucht man nur die
+Lichtstrahlen verfolgen, die auch gesehen werden. Alles, was nicht
+wahrgenommen wird, ist vergeblich. Muß ein Tisch bis zu den Molekülen
+berechnet werden (aus M. bestehen) , auch
+wenn die Simulationseinheit das nicht beachtet? Oder kann man einfach die
+1mal berechneten Eigenschaften immer wieder verwenden?
+
+Wie würdet Ihr denn sowas machen?
+
+Größe, Lutz Schade

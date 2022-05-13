@@ -1,0 +1,34 @@
+Kleine Deutschnachhilfe: "Ellipse".
+
+5 Punkte reichen nicht, die finden *immer* (eventuell wird eine
+Hauptachse unendlich oder imaginär, aber das interessiert hier nicht)
+eine Ellipse. Erst wenn es überbestimmt wird, merkt man einen
+Unterschied.
+
+
+Da braucht man *viel* mehr als 5, weil man erstens selbst auf einem
+herumfliegenden Dingsbums sitzt, dessen Ellipse dann ja ebenfalls
+überprüft werden müsste, und zweitens nur die Winkelposition, nicht
+aber den Abstand bekommt (falls man nicht Radarmessungen hinzunimmt).
+
+Sie soll etwas anderes machen: Der Ephemeris-Calculator (IIRC irgendwo
+bei lfh.wxns.xtq oder so, im Zweifelsfalls ghugeln) macht
+ellipsenbasierte Koordinaten und beansprucht hundertstel Bogensekunden
+Winkelgenauigkeit aus Erdperspektive.
+
+Sie muss also entweder:
+
+(a) Beobachtungsdaten vorlegen, die messbar von den Ergebnissen vom
+    Ephemeris-Calculator abweichen (da man hundertstel Sekunden nicht
+    unmittelbar optisch auflösen kann, erfordert es etwas mehr)
+
+oder
+
+(b) nachweisen, dass der Unterschied ihrer und der offiziellen Theorie
+    kleiner als hundertstel Sekunden ist und dafür etwas anderes
+    bieten (schönere Gleichungen, weniger freie Parameter o.�.).
+
+Carsten
+-- 
+GS d->? s:++>+++ a+ C++++$ UL+++$ UH+ P++ L++ E+++ W- N++ o-- K- w--- !O M- V-
+PS+>++ PE Y+>++ PGP+ !t !5 !X !R !tv  b+++ DI+++ D?  G+ e++++ h+ r? y?

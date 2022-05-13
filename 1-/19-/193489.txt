@@ -1,0 +1,45 @@
+Hallo Lothar:
+
+
+Das ist ein kritischer Punkt, der zum Beispiel ja auch terminologische
+Probleme bezueglich der Uebersetzung von "fittest" mit sich gebracht
+hat. Ich denke, dass es einerseits moeglich ist, eine Definition wie
+bei Dir oben zu verwenden, ueber die man dann auch recht gut
+mathematische Aussagen treffen kann. Andererseits kann man den Begriff
+sicherlich auch versuchen zu enttautologisieren und so eine empirische
+Pruefbarkeit/Falsifizierbarkeit hineinzubekommen.
+Das kann man so machen, indem man eine fuer die Individuen angenommene
+Fitnessdefinition und -funktion voraussetzt und ueberprueft (empirisch
+oder durch ein formales Modell, welches wiederum theoretisch
+(mathematisch) oder z. B. durch SImulation/Computerexperimente
+untersucht werden kann).
+Ein Beispiel: Kooperationsprobleme koennen spieltheoretisch als
+Gefangenendilemma modeliert werden. Die mathematische Loesung im Sinne
+eines Gleichgewichts (Nash-Gleichgewichts) fuehrt dabei zu einer
+Situation der Nichtkooperation unter der Annahme, dass die beteiligten
+Individuen unabhaengig voneinander ihre "Fitnessfunktion" optimieren.
+Diese Loesung ist einer kooperativen Loesung unterlegen. Mit anderen
+Worten: Es ergeben sich in diesem Kontext _nicht_ die optimalen
+(effizienten) Loesungen der beteiligten Individuen und es kann im
+Zeitablauf zu Verschlechterungen kommen.
+Axelrod ("Evolution of Cooperation") und andere haben  hierzu
+Experimente in einem evolutionaeren Schema iterierter
+Gefangenendilemmata angestellt und untersucht, inwiefern die sich
+ergebenden Fitnesswerte einem Optimum annaehern.
+
+
+Des Gens, lt. Kramhöft, oder sagen wir: der Information.
+Oder?
+
+
+Ich glaube ferner, dass es schwierig ist von _der_ Evolutionstheorie
+zu sprechen, da hierin allerlei zusammenfliesst: Empirische
+Beobachtungen, empirische Theorie, tautologische Strukturelemente, ein
+allgemeiner Strukturkern evolutionaerer Theorien, eine Methodik der
+Modellbildung, etc. also Teile, die Fakten sind, Teile, die
+falsifizierbare Theorie darstellen, mathematisch analysierbare Teile
+und beweisbare Aussagen und ein werturteilsbehafteter Impetus mit
+metaphysischer Perspektive, der das Ganze zu einem komplexen
+Forschungsprogramm macht.
+
+Gruss, Wolfgang.

@@ -1,0 +1,38 @@
+Du hast auch meine Definition nicht verstanden.
+
+Die komplexen Zahlen nenne ich Zahlen, weil sie zweistellige Vektoren
+aus reellen Zahlen sind.
+
+Die reellen Zahlen nenne ich Zahlen, weil sie Elemente einer geordneten
+Menge sind.
+
+Wenn Du so willst, gibt es zwei Aspekte, unter denen man Zahlen sieht:
+sie ordnen und/oder man kann mit ihnen rechnen.
+
+Ordnen meine ich hier im mathematischen Sinne, nicht dass Du jetzt mit
+Entropie daherkommst oder weiss der Teufel was ;-) Eine (An-)Ordnung in
+diesem Sinne ist das, was Du brauchst, um Elemente sortieren zu können
+im Sinne von "nach einer festen Regel in eine Reihenfolge bringen".
+
+Die Tatsache, dass sich die Elemente des Körpers der komplexen Zahlen
+("die komplexen Zahlen") streng totalordnen lassen, hat nichts mit der
+Klassifizierung als Zahlen nach meiner Definition zu tun; das war nur
+eine Antwort auf Deine Aufforderung, ich solle Dir die komplexen Zahlen
+ordnen. Deshalb und nur deshalb habe ich Dir eine strenge Totalordnung
+der komplexen Zahlen angegeben.
+
+Letztere macht den Körper der komplexen Zahlen jedoch nicht zu einem
+geordneten Körper, weil die angegebene Ordnungsrelation ja nicht zu den
+Körperoperationen verträglich ist.
+
+Entsprechend ordnet die von mir angegebene Ordnungsrelation die
+komplexen Zahlen streng total, jedoch bleibt der Körper der komplexen
+Zahlen ein Körper, der nicht geordnet ist, weil ein Körper ja nicht nur
+aus einer Menge, sondern eben auch aus zwei Operationen besteht.
+
+Klar jetzt?
+
+Viele Grüsse,
+VB.
+-- 
+Bitte beachten Sie auch die Rückseite dieses Schreibens!

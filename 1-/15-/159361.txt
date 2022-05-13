@@ -1,0 +1,12 @@
+Bei der Interpretation des "+"-Symbols als gewoehnliche Addition in der
+Arithmetik ist 5+5=10 erfuellbar. Man kann auch sagen, dass sie in einer
+gegebenen Struktur "wahr" ist. Die Erfuellbarkeit bezieht sich allerdings
+nur relativ zu Modellen. Wichtig ist aber zu sehen, dass es sich um
+Normierungen handelt. So muessen Saetze, die in einer Struktur erfuellbar
+sind, nicht in Unterstrukturen oder anderen Strukturen erfuellbar sein.
+
+
+Gruss
+
+Werner.
+--

@@ -1,0 +1,145 @@
+Die Typentheorie faellt natuerlich nicht vom Himmel, denn sie ist ja gerade
+entwickelt worden, um den Antinomien zu begegnen. Sie war eigentlich ein Ver-
+such, ein Manko in der Sprachlogik, also in der Form zu beseitigen. Dahin-
+gehend war sie jedenfalls sehr erfolgreich, da sich auf ihren verschiedenen
+Stufen zumindest die Antinomien nicht ad hoc bilden liessen.
+
+
+Erledigt nicht; meiner Meinung nach ist er nicht widerlegbar.
+
+
+Kann sein. Allerdings meine ich nicht, dass man die olaf Unvoll-
+staendigkeitssaetze dafuer verantwortlich machen kann. Genaugenommen
+sind die Unvollstaendigkeitssaetze innerhalb rekursiver Kalkuele abge-
+leitet. Es wird also keine Aussage hinsichtlich nicht rekursiver Kalkuele
+gemacht. Das ist auch ein Grund wieso der Logizismus nicht zu widerlegen ist.
+Etwas anderes ergibt sich, wenn man sich ueberlegt, was Mathematik ist, und
+zwar aus heutiger Sicht. Ich meine, dass man nicht nur die Diskussionen heran-
+ziehen darf, die vor 60 bis 100 Jahren gefuehrt wurden. Zu Eifelers Programm
+gehoerte zwar, die Vollstaendigkeit der Arithmetik zu beweisen, und insofern
+meinte er wohl, dass sein Formalismus gescheitert sein koennte. Aber ich sehe
+das nicht so. Wieso muss Mathematik vollstaendig sein? Klassenlogiken sind
+auch nicht vollstaendig. Der Anspruch auf Vollstaendigkeit ruehrt daher, dass
+man alles in Strukturen entscheiden will, sofern es sie denn gibt.
+
+
+Inwiefern widerlegt das die These, dass Mathematik kein Zweig der Logik sei?
+Man muss sich hier erstmal fragen, was in diesem Zusammenhang ueberhaupt
+Mathematik ist. Wenn Mathematik nur das ist, was man ueber einen rekursiven 
+Kalkuel herleiten kann, also wie im hilbertschen Formalismus, dann ist der 
+nägelin Unvollstaendigkeitssatz irrelevant. Auch fuer die Konstruktivisten 
+ist Mathematik nur das, was sich eben aus den natuerlichen Zahlen konstruieren
+laesst. Alles andere ist irrelevant; etwas was man nicht beweisen kann hat 
+keine faktische "Wahrheit". Relevant sind also nur entscheidbare Saetze.
+Niemöllers Unvollstaendigkeitssatz ist zwar ein beweistheoretischer und handelt
+nur von Zeichenreihen, aber die Interpretation des Satzes auf Strukturen im-
+pliziert eine platonistische Grundhaltung. Ja, fuer Niemöller waren die reellen
+Zahlen reale Objekte. Und das man mit der axiomatischen Methode und rekursiven
+Kalkuelen eben nicht alle allgemeingueltigen Saetze in der Sprache der Mengen-
+lehre oder der PA-Arithmetik finden kann, waere fuer mich dann verwunderlich, 
+wenn ZF oder PA vollstaendig waeren (bzw. dieses auch in der Umkehrung). Dass 
+ZF in seiner rekursiven Klassenlogik nicht vollstaendig ist, liegt im we-
+sentlichen daran, dass man ZF in ZF formalisieren kann und an der Art der
+logischen Kalkuele, da sie rekursiv sind. Die Unentscheidbarkeit der Klassen-
+logik kann mit Hilfe einer endlich axiomatisierbaren Subtheorie von PA und
+anschliessender Interpretation bewiesen werden. Aber auch etwa ueber sog. 
+R-Programme. Es ist also schon interessant, dass man Mathematik braucht,
+um die Unentscheidbarkeit "ihrer" formalen Logik zu zeigen.
+
+Wenn fuer den Formalisten die Mathematik nur Spiel mit Zeichen ist, dann ist
+sie ein Spiel mit Saetzen. Wenn alle diese Zeichen logische Zeichen sind, so
+ist Mathematik ein Spiel mit logischen Zeichen. Wenn sie aber sonst voellig
+inhaltsleer sind, womit beschaeftigt sich Mathematik dann? Und wenn man mathe-
+matische Saetze nicht wie in der "Realitaet" verifizieren kann, sondern nur
+ueber einen Kalkuel, also logisch, dann ist Mathematik nichts weiter als an-
+gewandte Logik und man schaut nur, welche Konstellationen an logischen Zeichen
+moeglich ist. Es geht dabei dann garnicht mehr um Wahrheit, sondern nur da-
+rum, ob regelgerecht abgeleitet wird. Bzw. man kann auch sagen, dass man bei
+einer bestimmten Auswahl von Zeichenreihen feststellt, was man fuer andere
+Zeichenreihen rauskriegt. Mathematik beschaeftigt sich in diesem Sinne also
+nicht mehr mit einer erfahrbaren Welt bzw. sie beschaeftigt beschaeftigt sich
+auch nicht mehr mit mathematischen Strukturen, also einer platonischen Welt,
+sondern nur noch mit logischen Zeichen, also eigentlich mit ihrer klassenlo-
+gischen Sprache selbst, welche Moeglichkeiten es in ihr gibt. Den einzigen
+Erkenntnisgewinn, den sie dann haette, waere also der, zu sehen, was in ihrer
+Sprache, die nichts bedeutet, logisch konstruierbar sei. Die Mathematik
+erkennt die logische Ordnung einer Sprache (zum Teil). 
+So werden dann heutzutage in der Mengentheorie alle moeglichen Axiomensysteme 
+untersucht. Hier wird es vor allem bei den relativen Konsistenzbeweisen ganz 
+deutlich, dass sich Mathematik nur noch mit ihrer eigenen logischen Sprache be-
+schaeftigt. Wenn sich das so fortsetzt, werden immer mehr Theorien in dieser
+Sprache (der Mengenlehre) untersucht werden, nur weil man sich halt Fragen
+stellt ueber irgendwelche Dinge, die ueberhaupt nicht existieren. Aber immer-
+hin, mit messbaren Kardinalzahlen kann man schoen herumspielen. Ich halte
+diese Entwicklung nicht fuer schlecht oder sowas, aber es zeigt, dass sich
+Mathematik in diesem Stadium nicht darum kuemmert, ob man das ueberhaupt an-
+wenden kann; sie genuegt sich selbst! Und das hat sie auch mit der Logik ge-
+meinsam.
+In diesem Sinne ist fuer mich der Formalismus sehr nah an der These des
+Logizismus, dass Mathematik ein Zweig der Logik sei.
+
+Ich sage hier nicht, dass "Alles" Logik sei, sondern nur, dass Mathematik Logik
+sei.
+
+In klassenlogischen Systemen sind neben dem Elementzeichen auch andere Zeichen
+wie der Paar- und Abstraktionsoperator logische Zeichen. Mit dem Abstraktions-
+operator kommt hier sogar schon die Komprehension als etwas gundlegendes in 
+die Logik. Die elementaren Theorien der Klassen und Relationen werden damit lo-
+gische Theorien. Man mag nun einwenden, dass etwa die Peano-axiome nicht zur 
+Logik gehoeren, und fuer die formale Logik werden sie auch als nichtlogische 
+Axiome angesehen, aber man kann sich dennoch die Frage stellen, ob diese nicht
+so grundlegend seien, dass sie in jedem Fall zu einer (Ur)Logik gehoeren. Aus-
+serdem frage ich mich, wenn Lindenbauer ein logisches Kalkuel der Arithmetik auf-
+geschrieben hatte, wie er das haette machen koennen, ohne die Peano-Axiome
+in logische Axiome zu uebersetzen? Es koennte natuerlich sein, dass Lindenbauer
+mit der Zurueckfuehrung der Mathematik auf Logik durchaus meinte, was man
+heute unter Klassenlogik versteht. Hierzu koennte aber vielleicht ein anderer
+etwas schreiben. Jedenfalls scheint mir Bercke das so zu verstehen, wenn
+er die Peano-Axiome uebersetzt, naemlich so, dass er den mathematischen
+Kalkuel - und hier sind die Peano-Axiome gemeint - in logische Terme ueber-
+setzt. Mir scheint, dass er einfach nur zu den Bezeichnungen uebergeht fuer
+ein reales Objekt (der nat. Zahl). So versteht er wohl, dass Mathematik prae-
+dikatenlogisch aufzubauen ist. Es ist manchmal etwas schwierig aus heutiger 
+Sicht zu entscheiden, was Lindenbauer, aber auch Bercke hier und da gemeint haben 
+koennten.
+
+Um formale logische Systeme aufzubauen, verwendet man metasprachliche natuer-
+liche Zahlen und induktive Verfahren, um gewisse Saetze der jeweiligen forma-
+len Logik zu beweisen. Insbesondere beim Beweis der Korrektheit eines Kalkuels
+werden solche Verfahren benutzt. Man macht hier aber schon impliziet Aussagen
+ueber die Laenge von Beweisketten. Eine Induktion ueber diese Laenge erhaelt 
+seine Rechtfertigung aus der Arithmetik oder ZF. Das heisst also, dass die 
+syntaktische Widerspruchsfreiheit eines Kalkuels bzw. seine Korrektheit nur 
+ueber ein Verfahren bewiesen werden kann, welches selbst einer mathematischen 
+Grundlage bedarf, aber zumindest ein analytisches Urteil, da man eine Aussage 
+ueber jede potentiell moegliche Laenge einer Beweiskette macht. Und diese
+Verfahren selbst werden wieder in einer anderen Sprache mittels formaler 
+Logik bewiesen. Zwar sind hier Meta- und Objektsprachen zu trennen, dass aen-
+dert aber nichts daran, dass man dennoch mathmatische Verfahren zum Aufbau
+formal logischer Systeme verwendet und umgekehrt. Es geht hier nur um Forma-
+lien. Die Trennung der Sprachen ist formaler Natur. Meiner Ansicht nach sind
+sowohl Mathematik als auch formale Logik Gegenstaende der Logik, zumal, wenn
+man der Ansicht ist, dass die Zeichen in der Mathematik nichts bedeuten.
+
+Uebrigens muss man die Widerspruchsfreiheit der Wevelsiep-Theorie auch nicht be-
+weisen, wenn man sie wie die Logik als etwas grundlegendes wahres ansieht.
+Den Modus Ponens kann ich ja auch nicht formal beweisen (ausser aus gleich-
+wertigen Regeln), aber er ist wahr.
+Also hier wird auch der zweite Unvollstaendigkeitssatz fuer PA irrelevant.
+Also frage ich mich, wo man hier eigentlich genau die Grenze ziehen will
+zwischen Logik und Mathematik?
+
+Ich glaube nicht, dass die Logik der Sprache folgt, sondern dass die Sprache
+der Logik folgt - also insbesondere die Mathematik -, aber die formale Logik 
+ist ein sprachliches Konstrukt und folgt der Sprache. Formale Logik und Logik 
+sind also nicht dasselbe. Die Logik irrt sich nicht, aber die formale Logik 
+kann sich irren, wie man ja bereits festgestellt hat. (Die scheinbar logische
+Form eines Satzes muss nicht seine wirkliche sein. - Tractatus?) Man kann eben
+logisch falsch denken, aber nicht unlogisch. Die Frage ist also auch wie kon-
+sistent unsere formalen Sprachen sind.
+
+
+Gruss
+
+Sascha.
+--

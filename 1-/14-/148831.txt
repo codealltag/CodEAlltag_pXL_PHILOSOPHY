@@ -1,0 +1,87 @@
+...
+die
+falscher
+
+
+Mir scheint eher du hast nicht gelesen, was ich sagte.
+"Konkret" waere gewesen, die Stelle in dem Beweis zu nennen.
+
+
+Wenn du etwas gegen Widerspruchsbeweise hast, solltest du das vorher sagen.
+Da kann man drueber reden.
+
+Du schilderst es fast korrekt. Nur an der Stelle, an der du feststellst,
+dass die Diagonale ein Element der vermeintlich abzaehlbaren Menge ist und
+sie andererseits kein Urbild in IN hat (nicht in der Liste ist) ist der
+Widerspruch zur Annahme erreicht. Also ist die Menge - entgegen der
+Annahme - nicht abzaehlbar.
+Q.E.D. Beweis-Ende. Finito. Ende. Basta. Aus die Maus. Erledigt. Abgehakt.
+
+
+Du darfst auch nicht vergessen, dass man die Abbildung f waehlt.
+Sie ist zwar beliebig, aber innerhalb des Beweises dann fest. (bitte nicht
+schlagen Herr Norman :-))
+Wenn du die Liste "umsortierst" aenderst du die Abbildung f !
+
+
+Du verwendest extra einmal die Menge A und dann die Menge F in deinem Satz.
+Sie sind aber identisch.
+Es muss eigentlich heissen "aus der Tatsache, dass ein Element aus A
+gefunden wurde, dass keine "Nummer" erhalten hat, wird der Schluss gezogen,
+dass A doch nicht abzaehlbar ist."
+
+Die Diagonal-Folge ist nicht "neu" - sie muesste laut Annahme in der
+"Abzaehlung" drin sein.
+Der Schluss ist nicht "voreilig", weil die Annahme nun mal war, die
+Abbildung f ist eine "Abzahlung", die alle Elemente zaehlt. Also muessen
+alle Elemente, die ich _finde_ -nicht konstruiere!- eine Nummer haben.
+
+
+links...
+Folgen.
+
+
+Ich kann dich beruhigen:
+Die Existenz der irrationalen Zahlen in der Mathematik ist nicht abhaengig
+von irgendwelchen Algorithmen.
+
+
+von
+etwas
+
+
+Was soll das jetzt bedeuten ?
+Wenn du mit uns nicht ueber Mathematik diskutieren willst, solltest du es
+einfach lassen.
+Nochmal weil's so schoen ist:
+Die Mengen sind _nicht_endlich, die Abbildung ist auf ihnen definiert und
+sie _ist_ bijektiv.
+
+Wenn du glaubst, man koennte von einer Abbildung zwischen unendlichen Mengen
+nicht zeigen, dass sie bijektiv ist, dann hast du ein Problem mit den
+mathematischen Schlussweisen. Das ist dein guten Recht.
+Aber du solltest aufhoeren zu behaupten, die Definitionen wuerden
+Widersprueche enthalten.
+
+
+{G} ist kein Element von POT(G), weil G kein Element von G ist.
+Kein Element von G ist ein Element von POT(G), weil ein Element keine
+Teilmenge ist.
+
+Teilmengen
+kein
+
+
+Nochmal:
+G ist keine Teilmenge von POT(G).
+Und selbst wenn, dann hast du eine unendliche Menge (POT(G)), die sich auf
+_eine_ ihrer Teilmengen nicht bijektiv abbilden laesst. Dass dies nicht die
+Negation von "laesst sich bijektiv auf eine ihrer Teimengen abbilden" ist,
+sollte klar sein.
+
+Weil sqrt(x) nicht fuer alle x \in IR eine natuerliche Zahl ist, gibt das
+Anlass zu glauben es gaebe kein x fuer das sqrt(x) eine natuerliche Zahl ist
+? Mir jedenfalls nicht.
+
+
+                N

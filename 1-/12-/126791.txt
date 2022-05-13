@@ -1,0 +1,45 @@
+Du meinst hier Mengen, richtig?
+
+[...]
+
+Also jene Stelle, die ich schon zitiert habe
+
+  "Eine Vielheit kann nämlich so beschaffen sein, daß die Annahme eines
+   "Zusammenseins" aller ihrer Elemente auf einen Widerspruch führt, so
+   daß es unmöglich ist, die Vielheit als eine Einheit, als "ein
+   fertiges Ding" aufzufassen. Solche Vielheiten nenne ich absolut
+   unendliche oder inkonsistente Vielheiten."
+
+geht ja so weiter:
+
+  "Wie man sich leicht überzeugt, ist z. B. der 'Inbegriff alles
+   denkbaren' eine solche Vielheit."
+
+In moderner Terminologie: die universal class ist eine proper class, und
+keine Menge (set). Mithin kann sie also (per Def.) nicht selbst Element
+einer anderen Klasse sein. (Man kann keine Klasse der proper classes
+bilden; oder ander, man kann schon, aber diese ist dann leer.)
+
+Kann also IN DIESEM SINNE nicht zu einem "Gegenstand weiterer
+_mathematischer_ Betrachtung" gemacht werden.
+
+Sehr schön formuliert!  Ja klar, *eigentlich* meinte Eylert hier
+"absolut unendliche" bzw. "inkonsistente" _Vielheiten_, wo er von
+"unendlichen Mengen" spricht. [...] überhaupt sollte hier überall das
+Wort "Menge" durch das Wort "Vielheit" ersetzt werden.
+
+
+Er stellt das dann ja auch später selbst richtig:
+Genau.
+
+---------------
+
+Also ich habe mich zwar noch nicht wirklich mit Eppert eigener
+Auffassung seiner Mengenlehre beschäftigt, aber es scheint mir so, als
+ob sein späterer Zugang schon eine [pr-axiomatische] Trennung zwischen
+proper classes und sets kennt: Man braucht bloß die "Vielheiten" mit
+"classes" und die "inkonsistenten Vielheiten" mit "proper classes" zu
+übersetzen. Mengen bleiben dabei Mengen (sets).
+
+
+F.

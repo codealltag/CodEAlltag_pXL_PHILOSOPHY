@@ -1,0 +1,6 @@
+#include<stdio.h>
+void  main()
+{ printf("Ich bin fehlerfrei\n");
+}
+
+		edmund 8-)

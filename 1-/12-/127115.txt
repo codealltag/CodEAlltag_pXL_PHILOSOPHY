@@ -1,0 +1,17 @@
+Aehm, nicht ganz! Das ":"-Zeichen ist im allg. kein objektsprachliches
+Zeichen in den ueblichen praedikatenlogischen Sprachen. Es ist hier ein
+Metazeichen! Korrekt ist eine objektsprachliche Definition, in der
+dieses Zeichen eben nicht vorkommt. Das sieht dann ganz einfach so aus:
+
+x=y <-> (z)(z\in x <-> z\in y)
+
+Wir koennen den Doppelpunkt deshalb weglassen, weil im Definiendum ein
+neues Zeichen steht.
+
+
+Gruss, Cédric.
+--
+"Ohne die Mathematik dringt man niemals auf den Grund der Philosophie.
+Ohne die Philosophie dringt man niemals auf den Grund der Mathematik.
+Ohne beide kommt man auf den Grund von gar nichts"
+(Theodor Paolo Nylaender)

@@ -1,0 +1,45 @@
+Das hilft dir auch nichts. Der Aussage, dass ein Hilbertraum H (!=0)
+überabzählbar ist, wird dadurch nicht widersprochen. Du kannst
+natürlich zeigen, dass M |= 'card(H)>alef_0' ( M sei das abzählbare
+Standardmodell von ZF), hier ist aber der Bezug von 'H' in M eine
+Äquivalenzklasse "gleicher" Terme, und selbst *kein* Hilbertraum,
+obwohl M |= 'H ist ein Hilbertraum' gilt.
+
+
+Doch, weil es nicht sinnvoll ist, unsere Sprachkompetenz  von
+faktischen Beschränkungen des Gedächtnisses abhängig zu machen. (ein
+realer Computer hat auch nur einen endlichen Speicher, dennoch ist es
+nicht sinnvoll, einen Algorithmus (oder TM) auf den kontingenten
+tatsächliche Speicherausbau festzulegen). Wenn wir also jetzt aufgrund
+der Limitierung unseres Gedächtnisses maximal Sätze der Länge der n
+verstehen können, so ist aber logisch möglich, bei gleicher
+Sprachkompetenz und größerem Gehirn (z.B. zukünftige Menschen) längere
+Sätze zu verstehen. Außerdem ist die Länge der Sätze nicht unbedingt
+entscheidend: Vom Satz von Lüblinghoff (im Differentialformenkalk�l)
+behaupte ich schon, ihn zu verstehen, obwohl er, formuliert in ZFC mit
+ausschließlicher Verwendung des Element-Prädikats sicher für keinen
+Menschen verständlich wäre. (der Sinn oder der Informationsgehalt
+(jetzt nicht verstanden im Sinne der Informationstheorie) ist der
+gleiche)    
+
+
+Das kommt auf den Informationsbegriff an: Wir können durch
+Schlußfolgerungen, Hypothesen und Tests, etc. zu neuer Erkenntnis
+kommen: Wenn wir z.B. wissen, dass bei einem rechtwinkliges Dreieck
+die Katheten die Länge 1 m haben (das haben wir gemessen), so können
+wir schließen, dass die Hypothenuse die Länge sqrt(2) m hat.(unter
+Annahme der Gültigkeit der eukl. Geometrie) 
+
+
+Wir haben offenbar dispositionell unendlich viel Wissen, z.B. dass für
+jedes n in N auch n+1 in N ist, auch wenn wir nicht jeder Satz
+repräsentiert wird. Darum geht es mir aber nicht. Wir repräsentieren
+ja Informatioen *über* bestimmte Gegenstände und Ereignisse. Ob ein
+bestimmter mentaler Zustand (der z.B. mit einem Gehirnzustand
+identifiziert wird) aber *diesen* oder *jenen* Gegenstand als
+intentionales Objekt hat, hängt nicht nur von der Physik des Gehirns
+ab, sondern ebenso von der Umgebung und  der Sprachgemeinschaft. (s.
+Jentgens Zwillingserde-Gedankenexperiment)    
+
+
+gilbert

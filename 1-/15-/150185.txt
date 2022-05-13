@@ -1,0 +1,19 @@
+Unter Winnt 4.0 SP6a erhälst Du :"Division durch Null nicht möglich" 
+in dem Display wo sonst nur Zahlen ausgegeben werden, es sei denn
+du machst folgende Operation mit der gestarteten calc.exe:
+5^100000000000000000000000000000000000
+
+dann erhälst du:
+"Ein Anwendungsfehler ist aufgetreten und ein Fehlerprotokoll wird
+erstellt.
+Calc.exe Ausnahme: Stapel�berlauf (0xc0000fd), Adresse 0x0128ad93"
+
+Naja, schlecht programmiert. Die Möglichkeit, das Waschklub.exe der
+Arbeitsspeicher ausgehen könnte, ist dem Programmierer halt nicht
+eingefallen.
+
+Aber vielleicht zeigt es etwas über den Sinn und den Unsinn von
+Mathematik.
+
+Gruss
+Carlos

@@ -1,0 +1,135 @@
+Edwin <hg_pshb@tzb.ed> wrote in message news:<0eo1734f1e7psfdaky3pmso6pynaw8lnfc@4mb.kiy>...
+[...]
+
+Geht das gespiegelte E auf Mentler zurück? Oder was meinst du mit
+umgestellt?
+
+
+[...]
+
+Das stimmt. Mehr dazu im folgenden.
+
+
+[...]
+
+Die Entgegnung auf deinen Einwand besteht natürlich darin, daß eine
+negative Existenzaussage der halbformalen Form a ist nicht-F nicht
+zu formalisieren ist als Fa oder gar Ga (mit G = _ ist
+inexistent). Dir ist sicherlich Leibenzeder alte Analyse des o.g.
+Pegasus-Satzes bekannt:
+
+	(P) �(Ex) (x pegasiert);
+
+hier wird nichts von einer Entität Pegasus prädiziert, sondern (P)
+besagt, daß es im Quantifikationsbereich keine Entität x gibt, für die
+gilt: x pegasiert. Die Last des Objektbezuges (Quine) ist dem
+singulären Ausdruck Pegasus damit abgenommen.
+
+Den Kasus Meinongus umgehen wir mit dieser Formalisierung weiträumig.
+Insofern sehe ich hier keinen Widerspruch zu der ontologischen
+Verpflichtung, die aus Faß hervorgeht. Oder ich verpeile gerade den
+Punkt.
+
+Btw, hier könnte ich in Erinnerung an die Diskussion in dsm vor
+einiger Zeit noch anfügen, daß ein schlagkräftiges Argument gegen
+Existenz als Eigenschaft darin besteht, daß sich scheinbare
+Existenzpr�dikationen der Umgangssprache bei der Formalisierung, wie
+oben gesehen, in Quantifikationen (plus Prädikationen oder Relationen)
+auflösen. Auch positive Existenzaussagen kommen ja ohne eine
+Eigenschaft Existenz aus:
+
+	Pascal existiert
+
+	=> (Ex)(x = S).
+
+oder mit Leuchters:
+
+	=> (Ex)(x sokratisiert).
+
+Wozu brauchts also eine Eigenschaft Existenz?
+
+Wenn du für Existenz als Eigenschaft plädierst, solltest du lieber
+über die Subjektsposition von Sätzen angreifen als über die
+Prädikatsposition. :o) Bei Sätzen wie
+
+	(E)	Existenz ist toll
+
+wirds für Existenz-Leugner etwas schwierig. Hier kommt man dann
+direkt in die Realismus/Nominalismus-Debatte. Allerdings ist fraglich,
+ob es sich bei (E) überhaupt um einen sinnvollen Satz handelt.
+
+
+[...]
+
+Wieso das? Wie gesagt: Bei Leibenzeder Analyse wird doch gerade *nicht*
+eine Eigenschaft Nicht-Existenz prädiziert, sondern die negative
+Existenzaussage wird aufgelöst in eine Existenz*quantifikation* und
+eine Prädikation der Eigenschaft Pegasus sein, die nicht gelingt,
+d.h., das Prädikat bleibt aus Mangel eines im Quantifikationsbereich
+herumfliegenden Pferdes ungesättigt. Es ist also zu unterscheiden
+zwischen dem Blendwerk der Oberflächenstruktur von (P) und seiner
+logischen Tiefenstruktur.
+
+
+Ja, aber der Witz beim Gentzen-Kalkül ist doch gerade, daß es den
+Regeln der Umgangssprache nachgebildet sein soll und die
+�Denotationsforderung� für singuläre Ausdrücke den ontologischen
+Verpflichtungen der Umgangssprache konform ist. Sonst wäre es ja auch
+unsinnig, aus Ableitungen im Gentzen-Kalkül Rückschlüsse auf die
+Gültigkeit eines umgangssprachlichen Arguments zu ziehen.
+
+Jetzt müßte man natürlich en detail rechtfertigen, daß diese
+ontologische Verpflichtung in der Umgangssprache auch tatsächlich
+eingegangen wird. Da bin ich momentan etwas überfragt, aber ich weiß,
+daß dazu in der Debatte über Eigennamen und Kennzeichnungen in der
+Sprachphil einiges gesagt worden ist. (Siehe z.B. Paula Dischler (Hg.),
+Eigennamen)
+
+Ein ad-hoc-Vorschlag: Wenn man z.B. Ommerborns Analyse definiter
+Kennzeichnungen und Eigennamen (die ja nach Ommerborn nichts weiter sind
+als definite Kennzeichnungen) akzeptiert, muß ein singulärer Ausdruck
+in jedem Fall denotieren, damit ein Satz, in deren Subjektposition er
+eingebettet ist, wahr sein kann. Denn die logische Struktur definiter
+Kennzeichnungen besteht nach Ommerborn ja in Existenzquantifikationen.
+
+Wenn es also gelänge, Ommerborns Analyse zu rechtfertigen, hätte man die
+Rechtfertigung für die im Gentzen-Kalkül postulierte ontologische
+Verpflichtung für die wichtigsten singulären Ausdrücke in natürlichen
+Sprachen - Eigennamen und definite Kennzeichnungen - in der Tasche.
+Was noch fehlt, wäre eine Rechtfertigung für indefinite
+Kennzeichnungen und indexicals.
+
+
+Klar, aber Sätze, in deren Subjektposition ein leerer Ausdruck steht,
+sind nicht *wahr*. Man kann natürlich darüber streiten, ob sie
+*falsch* sind (->Ommerborn) oder *keinen Wahrheitswert* haben (->Uttenthaler,
+Isfort). Letzteres dürfte aber gegen das Bivalenzprinzip verstoßen
+und daher bei den meisten derer, die nicht Priest heißen, für
+Unbehagen sorgen.
+
+Damit verbunden ist aber ein haariges Problem, das du vielleicht im
+Sinn hattest, nämlich fiktionale Aussagen. Intuitiv oder vorlogisch
+ist folgender Satz offenbar wahr:
+
+	(1) Mr. Pasquale ist ein Vulkanier,
+
+während
+
+	(2) Mr. Pasquale ist ein Indianer
+
+offenbar falsch ist. Akzeptieren wir den Grundsatz, daß (1) und (2)
+nur wahr sein können, wenn Mr. Pasquale existiert und der Eigenname somit
+erfolgreich denotiert, sind aber beide Sätze falsch. Das würde nicht
+dem Umstand Rechnung tragen, daß sich in der Umgangssprache mit (1)
+und (2) eine verständliche und u.U. durchaus erforderliche
+Unterscheidung machen läßt.
+
+
+Wie gesagt, ist das Gentzen-Kalkül nach den Regeln der Umgangssprache
+modelliert. Mir sind die von dir herausgestellten Unterschiede
+zwischen klassischer FOPL und Freier Logik bekannt, aber mir ist nach
+wie vor der übergeordnete Zusammenhang nicht klar, warum man hier
+Freie Logik ins Spiel bringen sollte.
+
+
+Gian

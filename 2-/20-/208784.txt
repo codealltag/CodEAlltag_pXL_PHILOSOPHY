@@ -1,0 +1,58 @@
+Hi,
+noch einer, der sich einmischen will ...
+
+Zunaechst einmal will ich Mathäus darin unterstuetzen, dass es in einer
+philosophischen Diskussion nur um das Begreifen von "Ursache" gehen
+kann, und nicht um eine Abstraktion von empirisch beobachtbaren Er-
+eignissen: das leisten schon die Naturwissenschaften.
+
+Auch wenn der Thread schon weitergelaufen ist, will ich nochmal auf
+die Definitionsversuche von Mathäus zurueckkommen (in der Hoffnung,
+dass es in ergiebigerer Richtung weitergeht).
+
+
+Wer sagt, dass es um eine Definition geht oder gehen muss ?  In dieser 
+"Definition" hat sich eine Relation versteckt: "A heisst unmittelbare
+*Ursache* von *Wirkung* B, ...".
+Frage: koennen wir "Ursache" ohne "Wirkung" denken ?
+Meine Antwort: ich kann's nicht (was jedoch nichts heissen muss ;-)
+
+Ich verstehe die Trennung von A und M (die sowieso eine Konjunktion bilden)
+nicht. Eine "Ursachenmenge" waere hier A + M.
+Meine Interpretation: es existiert ein (diskretes) Ereignis A, das in 
+Konjunktion mit "allen Elementen einer Menge M *weiterer Voraussetzungen*"
+steht. A ist demnach ebenfalls eine Voraussetzung, und damit geraten wir in
+eine Tautologie ("Ursache ist eine Voraussetzung").
+Die "Ursachenmenge" wuerde ich allerdings gerne festhalten.
+
+Als etwas problematisch empfinde ich die Aufnahme von 'Kausalketten',
+'unmittelbar' und 'vor dem Eintreten'. Damit wird die Existenz von
+zeitlichen und/oder logischen Folgen vorausgesetzt.
+Die zeitliche Variante fuehrt physikalische Empirie ein, anhand derer
+die Definition falsifiziert werden kann. (Beim Modell des mechanischen
+Hebels etwa "passieren" Ursache und Wirkung genau gleichzeitig.)
+In der logischen Lesart macht 'unmittelbar' wenig Sinn, und 'vor dem
+Eintreten' unterstellt eine "Diskretheit", die die Allgemeingueltigkeit
+unseres Versuches unnoetig einschraenkt.
+
+Mein Vorschlag, die Ursache-Wirkung-Relation zu fassen (n:1):
+Eine Wirkung B wird vollstaendig bedingt durch die Konjunktion aller Elemente
+in der Ursachenmenge M (wobei B niemals Element von M ist).
+B und die Elemente von M sind Ereignisse oder Zustaende.
+
+Die leere Menge M ist ein besonderer Fall (Wirkung ohne Ursache), der etwa
+die Motivation zu Metaphysik bezeichnet, oder auch "Platz" fuer Urknall-
+theorien laesst ...
+
+Mein Vorschlag laesst bewusst Korrelationen zwischen den Elementen in M
+untereinander offen, d.h. Aussagen ueber Unmittelbarkeit zu B oder disjunkte 
+Kausalketten werden damit nicht getroffen: jedes Element in M ist fuer B
+gleich "wichtig".
+
+Bin gespannt auf eure Kommentare.
+
+Gruesse,
+Georg.
+--
+               /----------------------------------\
+               \__________________________________/

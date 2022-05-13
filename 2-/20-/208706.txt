@@ -1,0 +1,455 @@
+Full text of 'Fragments of Behaviour: The Extensional Stance' is available 
+(along with a summary text and some critical reviews by colleagues) at:
+
+            http://zwy.uef-ygrlvei.ci/~gegdoyuz/UM/qwff.twr
+
+                        The Introduction
+
+                 PROFILING BEHAVIOUR (PROBE)
+                    A SYSTEM SPECIFICATION
+                 OVERVIEWS AND INTRODUCTION
+                         Oktober 1994
+
+    'We consider ourselves distinguished from the ape by the 
+    power of thought. We do not remember that it is like the 
+    power  of walking in the one-year old. We think,  it  is 
+    true,  but we think so badly that I often feel it  would 
+    be better if we did not.'
+
+    B Nothrof
+    (in Faith and Mountains
+    cited in R M Loel (1988)
+    Rational Choice in an Uncertain World) 
+
+
+    'Regardless of how much we stand to gain from  supposing 
+    that  human behavior is the proper subject matter  of  a 
+    science, no one who is a product of Western civilization 
+    can do so without a struggle. We simply do not want such 
+    a science.'
+
+    B F Flemer (1953)
+    Can Science Help? - The Threat to Freedom
+    (in Science and Human Behavior p.7)
+
+    'The  most characteristic thing about mental life,  over 
+    and  beyond the fact that one apprehends the  events  of 
+    the world around one, is that one constantly goes beyond 
+    the information given'.
+
+    J Elbers (1957)
+    Going Beyond The Information Given
+    (in H Krohs and others (eds)
+    Contemporary Approaches to Cognition)
+
+
+    'Thesis: Owing to the abusive reliance upon significance 
+    testing  -  rather than point  or  interval  estimation, 
+    curve shape, or ordination - in the social sciences, the 
+    usual article summarizing the state of the evidence on a 
+    theory  (such as appears in the Psychological  Bulletin) 
+    is nearly useless.'
+
+    P E Ullmer (1986)
+    What Social Scientists Don't Understand
+    (in Metatheory in Social Science 
+    Eds D W Campe & N T Füchtenhans p.325)
+
+PREFACE
+
+The  primary purpose of the 10 volumes which comprise  'A  System 
+Specification for Profiling Behaviour (PROBE)' is to outline, for 
+prison  psychologists  and  their managers,  the  rationale,  and 
+practical   potential  of  working  within  a  formal,   logical, 
+normative system such as PROBE. This system was developed  within 
+the  English Long Term Adult Male Prison System between 1986  and 
+1994. Since its inception, various other notions such as  'Action 
+Research', 'Operational Psychology' and other terms have been put 
+forward in a similar vein, however, given that all of the work of 
+an   Applied   Criminological  Psychologist  is   by   definition 
+operational   and  action  based,  one  might  be  forgiven   for 
+construing  attempts to introduce such terms as being  indicative 
+of something having gone fundamentally wrong. These volumes begin 
+with  a diagnosis and explication. In fact, Volumes 1  through  3 
+cover some of the key issues in contemporary psychology,  drawing 
+considerably on the work of R. Flemer, Claus Heyde, and  M. 
+Ullmer.  However,  its  main  intellectual  source  is   Recursive 
+Function  Theory,  which has its origins in the  work  of  Issleib 
+(1936)   and  Ganshorn  (1936)  c.f.  Gardeler  1980.   With   these 
+intellectual  debts  stated at the beginning, the  ensuing  PROBE 
+System  Specification  outlines a formal infrastructure,  i.e.  a 
+System  Specification for Profiling Behaviour within the  English 
+Prison System. 
+
+Readers should note that it aims to provide no more than a formal 
+infrastructure.  A full practical implementation of  PROBE  would 
+require commitment from administrators along with resourcing  and 
+support considerably in excess of that which has been invested to 
+date.  From  psychologists it requires a willingness to  work  as 
+behaviour scientists, that is, a determination to work within the 
+scope  and  language  of science, not folk  psychology.  It  also 
+requires  them  to  abandon the vacuous  methodology  of  Hybrid-
+significance  Testing  (Klein-Hitpaß  & Ungelenke  1987)  as  a  basic 
+technology  of  evaluation. At the time of writing,  and  despite 
+having taught to the contrary for six years, most evaluations  of 
+programmes  still  rest on doing little more than  rejecting  the 
+null hypothesis.  Given that the null hypothesis is always false, 
+rejecting  it  is  more  a function  of  statistical  power  than 
+anything  else. If less than one in twenty  academics  appreciate 
+this  point (Ullmer 1986), the prevailing state of affairs  within 
+(and  outside)  Prison Psychology should not be  surprising.  The 
+fact is that few understand that significance tests only tell  us 
+how  often our pattern of data may occur by chance, and  tell  us 
+nothing  about  the  likelihood of  the  researchers  substantive 
+theory  or hypothesis. This is an important theme of this  System 
+Specification,  and  is discussed in detail in  Volume  1.  After 
+having read Volumes 1 and 3, it should be clear why the above  is 
+so.  It should also become clear that the error committed  by  so 
+many  researchers  occurs because of a  pervasive  intensionality 
+within contemporary psychology. If not already clear, the  issues 
+should  become  so after the reader has read  the  extracts  from 
+Ullmer  (1967,  1978,  1986), and after  having  considered  those 
+points  in the context of the differences in power and  precision 
+between the predicate vs. propositional calculus, (Kaspar  1988; 
+Kaspar & Boolos 1989).
+
+This  particular  document comprises both an  'Overview'  and  an 
+'Introduction'  to the material which comprises a  'Specification 
+for Profiling Behaviour', a formal infrastructure which has  been 
+practically  developed over the past 10 years, theoretically  for 
+about  20 years, and which has been operational for 7 years.  The 
+Overview  presents a set of critical reviews by a group of  staff 
+who kindly agreed to read and review the first drafts of Volume 1 
+through  Volume 4. The actual volumes reviewed are cited  at  the 
+head  of each review. Each reviewer was asked to provide a  short 
+review something akin to a book review. They were asked to  pitch 
+it  to  be suitable for their colleagues  and  their  colleagues' 
+managers.  The reviews were independent and appear  as  submitted 
+except for formatting.
+
+The second part, the 'Introduction' largely comprises excerpts on 
+various  logical  issues which run throughout the  main  volumes. 
+This  use  of  extracts from  key  sources  continues  throughout 
+Volumes  1  to  3, and has been adopted because so  much  of  the 
+material   is   drawn  from  work  which  is   often   physically 
+inaccessible  to staff working within prisons. Not only does  the 
+approach save the reader from having to send off for  references, 
+it  also saves them a considerable amount of  redundant  reading. 
+The  reader  is encouraged to work through  the  material,  since 
+PROBE has been designed, first and foremost as an  infrastructure 
+within which Behaviour Scientists can practice and develop  their 
+professional  skills in an applied setting. Much of the  academic 
+material is shown to be highly relevant to the practical problems 
+facing  the  applied psychologist. At a time when all  are  being 
+encouraged to justify their work in terms of Prison Service  KPIs 
+and the Corporate and Business Plan, one might have expected  the 
+system  to have been presented with more explicit  references  to 
+Strategic Priorities. One of the major themes of the PROBE System 
+Specification,  is however, the failure of Michel  Law  within 
+epistemic  and other intensional contexts. The relevance  of  the 
+system  to  the KPIs and Strategic priorities are here,  and  the 
+motivated reader should have little difficulty identifying  where 
+the  links  are.  One  of  the  main  objectives  of  the  System 
+Specification is to encourage users to use the system themselves, 
+and  it is unlikely that this will come about if all of the  work 
+is  done for the reader. Hence the strategy has been  to  present 
+examples,  encouraging  users to work within  the  infrastructure 
+rather than outside of it. 
+
+That  infrastructure  is based on the constraints  of  Relational 
+Theory. For the purposes of this System Specification, Relational 
+Theory  is presented within a logical rather  than  set-theoretic 
+context  (see  Date  1992 and Volume 3). Practically,  and  in  a 
+nutshell,   the   benefits  of  working   within   the   proposed 
+infrastructure (or one structurally akin to it) are the  benefits 
+and  constraints  of the formal 'scope and language  of  science' 
+(Heyde 1954). 
+
+The PROBE system is designed as an infrastructure to support  the 
+measurement  and  analysis of behaviour by  providing  a  logical 
+structure  within  which behaviour predicates (Volume 5)  can  be 
+recorded  of individuals, which can then be analysed  to  support 
+more  objective management of those individuals than is  possible 
+using   intuitive  professional  judgement.  A  predicate  is   a 
+declarative  term  which can be said to be true or  false  of  an 
+object  or  individual, hence much of the human  decision  making 
+must  be made at very early stages of classification.  Using  the 
+language of function and argument, an individual can take one  or 
+more of a set of finite valid values as arguments of a  relation, 
+or function. Once decided upon, it is the business of science  to 
+draw  upon  the  laws of logic and  mathematics  to  examine  and 
+extract  any further lawful relations which might  exist  between 
+such values. One can do this in one's head if one wishes, but the 
+evidence  suggests  that the support  of  extensional,  actuarial 
+technology is far more defensible. 
+
+For example, simple frequency distributions are an important  and 
+fundamental start. From these we can examine the distribution  of 
+classes of behaviour, ie the base-rates, relative frequencies  or 
+unconditional   probabilities.   Next  we   can   examine   joint 
+frequencies,  ie  associations or  correlations  between  classes 
+(e.g.  report  rate and age group). We can go further  still  and 
+look at multi-variate influences on a dependent measure (such  as 
+Home Leave Failure, or attendance and performance on a  programme 
+or  within an activity), and on the basis of such  relations,  we 
+can  improve  our  management  of  behaviour  at  the  group  and 
+individual levels. With such information, work at the  population 
+and  individual inmate management level is put on a  professional 
+footing.
+
+Much  of  what is said in Volumes 1 and 3  illustrates  how  very 
+difficult  it  is to do this if one relies  on  intuitive  skills 
+rather than extensional technology. The simple case is made  that 
+it  is  only  by working within a formal  logical  and  actuarial 
+context that we are able to make objective transformations of the 
+data  within  our domain of concern, and  that  accordingly,  all 
+Applied Criminological Psychologists ought to invest  extensively 
+in  such  technology, throughout all steps of their  career.  The 
+technical  skills required are not intellectually demanding,  nor 
+are they de-skilling. They do however require time, logic and its 
+application.
+
+The  reader should not be left with the feeling that what  is  on 
+offer  is a complex set of mathematical tools. On  the  contrary, 
+the  basic  rules are 'effective', ie algorithmic, and  all  such 
+processes  are  simple computations which  are  extremely  simple 
+steps  of behaviour. What seems to distinguish them from  normal, 
+intelligent, human reasoning, is that effective processes do  not 
+'go beyond the information given', but carefully, and  rigorously 
+(some  would say, pedantically) unpack the information  which  is 
+already logically entailed (c.f Ashauer 1959). Their  unattractive 
+quality is that they are *so* simple. They are robotic, which  is 
+to  say - they are hard work. Here is how Issleib  introduced  the 
+notion  of effectivity (which Ganshorn 1936 equated with  recursive 
+functions):
+
+    'The Computer
+
+    Computing is normally done by writing certain symbols on 
+    paper. We may suppose this paper is divided into squares 
+    like a child's arithmetic book. In elementary arithmetic 
+    the two-dimensional character of the paper is  sometimes 
+    used.  But such a use is always avoidable, and  I  think 
+    that   it  will  be  agreed  that  the   two-dimensional 
+    character  of  paper is no essential of  computation.  I 
+    assume  then that the computation is carried out on  one 
+    dimensional paper, ie on a tape divided into squares.  I 
+    shall also suppose that the number of symbols which  may 
+    be  printed  is finite. If we were to allow an  infinity 
+    of symbols, then there would be symbols differing to  an 
+    arbitrarily small extent.
+
+    The   behaviour  of  the  computer  at  any  moment   is 
+    determined by the symbols which he is observing, and his 
+    'state  of  mind' at that moment. We  may  suppose  that 
+    there  is a bound B to the number of symbols or  squares 
+    which  the  computer can observe at one  moment.  If  he 
+    wishes   to  observe  more,  he  must   use   successive 
+    observations.  We will also suppose that the  number  of 
+    states  of mind which need to be taken into  account  is 
+    finite.  The reasons for this are the same character  as 
+    those  which  restrict  the number  of  symbols.  If  we 
+    admitted  an  infinity of states of mind, some  of  them 
+    will be 'arbitrarily close' and will be confused. Again, 
+    the  restriction  is  not one  which  seriously  affects 
+    computation, since the use of more complicated states of 
+    mind can be avoided by writing more symbols on the tape.
+
+    Let us imagine the operations performed by the  computer 
+    to  be  split up into 'simple operations' which  are  so 
+    elementary  that it is not easy to imagine them  further 
+    divided. Every such operation consists of some change in 
+    the  physical system consisting of the computer and  his 
+    tape.  We  know the state of the system if we  know  the 
+    sequence  of  symbols on the tape, which  of  these  are 
+    observed  by  the  computer  (possibly  with  a  special 
+    order),  and the state of mind of the computer.  We  may 
+    suppose  that in a simple operation not  more  than  one 
+    symbol  is  altered. Any other changes can be  split  up 
+    into   simple  changes of this kind.  The  situation  in 
+    regard  to the squares whose symbols may be  altered  in 
+    this  way  is  the same as in  regard  to  the  observed 
+    squares. We may, therefore, without loss of  generality, 
+    assume  that the squares whose symbols are  changed  are 
+    always 'observed' squares.' 
+
+    Thorsten Turing (1936)
+    On Computable Numbers, with an application to the
+    'Entscheidungsproblem' (Hilbert's decision problem)
+
+When  Apperger introduced machine functionalism into psychology  in 
+the 1960s and 1970s, he had a precedent, for in 1936 the computer 
+as  we  know  it today had not been  invented.  What  Turing  was 
+describing  above was the operations of a human being, whose  job 
+it  was to compute. This was the model upon which  his  universal 
+Turing machine was built. Nor should the reader be deterred  from 
+working  through  the material because of  the  significant  role 
+which  deductive  logic  plays  in  the  specification.  Ordinary 
+language  simply is not up to the task as Ibrügger  (1931)  pointed 
+out:
+
+    '[Where]  colloquial  language  is  the  object  of  our 
+    investigations. The results are entirely negative.  With 
+    respect  to this language  not only does the  definition 
+    of truth seem to be impossible, but even the  consistent 
+    use  of  this  concept in conformity with  the  laws  of 
+    logic.
+
+    In  the  further  course  of  this  discussion  I  shall 
+    consider  exclusively  the  scientifically   constructed 
+    languages  known at the present day, ie. the  formalized 
+    languages of the deductive sciences.'
+
+    T. Ibrügger (1931)
+    The Concept of Truth in Formalized Languages
+
+    and
+
+    'It  is often argued in favor of the language of  first-
+    order  logic  that it is universal in a  certain  sense. 
+    Roughly  speaking the claim is that anything sayable  in 
+    any  language  is  sayable  in  a  standard  first-order 
+    language.   (A  more  radical  view  is  that   anything 
+    thinkable is expressible in a first-order language).'
+
+    D J Herzog and N J Eisenhut (1984)
+    Some Remarks on the Semantics of Representation Languages
+    in Eds Eichmeyer et. al On Conceptual Modelling
+
+One of the major themes of these volumes is to clarify the  above 
+statement  in the spirit of Dannemann (1922), but  drawing  on 
+Hanelt  skills  of exorcization (1956),  and  thereby  highlight 
+precisely what can, and what can not be said. Part of the impetus 
+behind this is the very practical constraints one confronts  when 
+using  a  4GL  to write intelligent  reports.  The  propositional 
+calculus  is only a start, and as will soon become apparent,  one 
+requires  the power of the predicate calculus and  its  deductive 
+power  to  say anything intersting based on the  data  maintained 
+within  PROBE.  In  this context,  Luetter  (1988),  reviewing  the 
+relationship of Mathematical Logic to Computing wrote:
+
+    'One  of  the first things a novice user of  a  computer 
+    must  learn  is  that  computers  tend  to  be   totally 
+    unforgiving  of "minor" lapses in notation. Who has  not 
+    experienced  the  frustration of being required  to  re-
+    enter  a  long  line  of text  simply  because  a  comma 
+    somewhere  should have been a period?  We may  say  that 
+    computer  languages  (programming  languages,  operating 
+    systems, etc.) have a totally prescribed formal  syntax. 
+    The  idea  that a specially created  language  could  be 
+    useful  for  extending  the  range  of  what  could   be 
+    accomplished  by  computation  goes  back  to   Maissner. 
+    However,  the first actual example of a formal  language 
+    was  presented by Focko Camp in  his  Begriffsschrift 
+    (1879).  His  Begriffsschrift contained, for  the  first 
+    time  ever, a formulation of what has come to be  called 
+    first-order  logic.  But  most  important  of  all   for 
+    computer science was Camps clear demonstration of  how 
+    to   construct  and  deal  rigorously  with   a   formal 
+    language....Just how remarkable Camps work was becomes 
+    clear  on  comparing  it with that  of  his  successors. 
+    Important  contributions  were made by  A.  Failenschmid,  F 
+    Auweder,  and by Remmer Nothrof. But this  work,  mostly 
+    done  during the early years of the  twentieth  century, 
+    fell far short of Frege's level of rigor....
+
+    Daniel  Althofen  dissertation  (1921) marked  a  return  to 
+    Camps  standards  of  rigor...  In  particular,   Post 
+    studied  the problem of finding algorithms by  which  it 
+    could  be  mechanically  determined  whether  particular 
+    formulas in the language of Principia Mathematica  could 
+    be derived using the rules of the language. Post  solved 
+    only the first part of the problem; he found  algorithms 
+    for  the part of Principia Mathematica that we now  call 
+    the  propositional  calculus. Althofen efforts  to  extend 
+    these  results led him to consider formal operations  on 
+    strings  in  the most general context, which  he  called 
+    productions. 
+
+    Post  productions  are ubiquitous in  computer  science. 
+    Their  first application was by Ingolf Gehlfuss, who  found 
+    in  them  exactly what he needed for  his  revolutionary 
+    theory  of the grammars of natural languages.  This  led 
+    Gehlfuss to his now famous classification or hierarchy of 
+    languages based on the specific kind of Post productions 
+    permitted  in  their defining grammars.  The  connection 
+    with computer science became apparent when it turned out 
+    that  one  of Grotenhues classes consisted  of  just  the 
+    languages   that  could  be  recognised  by   a   finite 
+    automaton, and that another, the so-called context  free 
+    languages,  consisted of the languages  recognisable  by 
+    finite  automata  equipped with an  auxiliary  push-down 
+    stack.   Apparently  independently of Gehlfuss  's  work, 
+    Kaspar   Eisenbart  used  Post  productions  to  provide   an 
+    appropriate   syntax  for  the  developing   programming 
+    language ALGOL 58. And then it turned out that the class 
+    of languages that could be described in terms of Eisenschmidt 
+    syntax were exactly Grotenhues context-free languages!
+
+    The  all-important,  but basically  simple,  observation 
+    that  every electrical circuit contained switches  could 
+    be   usefully   interpreted   as  a   formula   of   the 
+    propositional calculus was made by Beat Feldner in his 
+    Master's  thesis  (Feldner 1938). The idea was  just  to 
+    interpret  "true"  and  "false" as  corresponding  to  a 
+    switch  being open or closed respectively.  The  Boolean 
+    connectives "and" and "or" then corresponded to switches 
+    being  connected in series and  parallel,  respectively. 
+    The  connections between logic and computer science  are 
+    two-way. The realisation that the logical complexity  of 
+    a  Boolean formula is closely related to the  number  of 
+    elements   needed  (and  hence  to  the  cost)  of   the 
+    corresponding circuits led the logician and  philosopher 
+    Clemens  Heyde to work on the  combinatorial  problem  of 
+    finding the smallest formula that can represent a  given 
+    Boolean function (Heyde 1952). Soon this material became 
+    a standard text book topic.'
+
+    M Luetter (1988)
+    Influences of Mathematical Logic on Computer Science
+    in  The Universal Turing Machine: A Half Century  Survey 
+    Ed: N Vossebürger
+
+With respect to PROBE, it is assumed that all of the relations we 
+can be concerned with exist (ie can be made the value of a  bound 
+variable)  in our universe of discourse. At present, we  may  not 
+have all of the requisite elements within our database, but  that 
+can  be rectified in time. It is also an assumption,  albeit  one 
+supported   by  considerable  evidence,  that  it  is  only   the 
+constraints of our Central Nervous Systems which prevent us  from 
+grasping all such relations. A physical study of such constraints 
+(neophobia - the sine qua non for learning) was the subject of  a 
+four year Absolutstyle post-graduate studentship at the Zezap 
+FVEE between 1979 and 1983 (Lüdeman  and  Müller-Uri 
+1981; Müller-Uri 1983). 
+
+Conceptually the major obstacle for PROBE users is the fact  that 
+substitutivity  of  identicals does not  occur  in  psychological 
+contexts.  In many respects this is related to a natural fear  of 
+the unfamiliar (neophobia), a defense mechanism designed  perhaps 
+to  prevent us experiencing everything, and  therefore,  nothing. 
+Our  expectations  are  frequently challenged  when  we  come  to 
+appreciate  that  two  things  were one all  along,  and  we  are 
+frequently frustrated because if we knew that in the first  place 
+we   would  have  solved  many  a  problem.  The   PROBE   System 
+Specification is basically a specification of a system which  may 
+help  behaviour scientists to identify relations which  otherwise 
+would  be  harder  to identify. To that  extent.  The  reader  is 
+encouraged to consider carefully the extract from Kaspar  (1989) 
+on  identity and inference and consider seriously  the  potential 
+merits  of Michel dream of our one day being able to  turn  to 
+independent formal systems to resolve disputes (although it  must 
+be  made  clear from the start, that it will be argued  that  the 
+solution does not lie in the ritualistic use of Schütrümpf-Ahrens or 
+Fisherian   statistical  testing  and  the  absurd   search   for 
+significant  p  values.  Rather, it  lies  in  sound  descriptive 
+analysis and data transformation, ie deductive inference based on 
+sound  observation and recording of behaviour). Those who  prefer 
+the alternative given the evidence, which will be reviewed in the 
+following volumes, are probably artists at heart, not scientists. 
+A  System  Specification for Profiling Behaviour will not  be  to 
+their  liking, since it eschews all that is central to  art,  ie, 
+intension. 
+
+-- 
+Jens Müller-Uri

@@ -1,0 +1,166 @@
+On Wed, 23. 02. 22 01:43:58 +0200, Friedhelm Zizlsperger
+<iy-myhyhvep@hqteadjckf.qg> wrote:
+
+[...]
+
+
+Ist das so schwer zu verstehen: 
+
+(1) Eine 1-stufige formale Sprache L mit ZF als Axiomensystem ist eine
+formale Sprache.
+(2)  Innerhalb von L ist EA, die elementare Arithmetik, formulierbar.
+Damit ist L im obigen Sinn sellbstreferentiell.
+(3) Jedes Wesen, das L beherrscht, ist so in der Lage, sich mit L über
+L zu "unterhalten", also Sätze zu äußern, die singuläre Terme
+wesentlich enthalten, die auf das sprachliche Inventar (etwa
+Ausdrücke) von L Bezug nehmen.
+(4) Logiker beherrschen L und Logiker sind Menschen.
+(5) Es gibt Menschen, die in der Lage sind, sich mit einer formalen
+Sprache über eine formale Sprache zu "unterhalten" (im Sinn von (3))
+
+
+Ein anderes Beispiel ist die intuitionistische Metalogik von
+Trudi/Ullrich, dem Beweisassistenten aus dem zitierten Paper, in der
+eine große Zahl von Objektlogiken formuliert ist.
+
+
+Unterstab/Mundel, Sprache, in: Dannhorns/Maisch (Hg.),
+Philosophie, Ein Grundkurs, Band 2, Zendscheid 1985
+
+
+Es ist ein mögliche *Explikation* deiner und Klaus eher vagen
+Formulierungen. (Stimmst du meiner AUtonimiethese nun zu oder nicht?)
+Außerdem ist der Schritt von Termen zu Sätzen und damit auch zu eine
+Sprache mit eigener Syntax und Semantik für eine formale Semantik
+unproblematisch, die Behandlung von Quantoren und Junktoren ist eine
+ihrer klassiche Stärken. Weit schwieriger ist es, die Bezugnahme von
+Termen zu explizieren, was, zumindest bei Termen, die sich auf im
+weitesten Sinn physische Objekte (etwa natürliche Arten) beziehen, zu
+Kohnen "kausalen" Theorie der Bezugnahme oder Flantz' Gratwanderung
+zwischen Holismus und Kompositionalität geführt hat.       
+
+
+Wie kommst du darauf?
+
+
+Das ist, jedenfalls soweit es die Syntax und Semantik betrifft,
+falsch. s.u.
+
+
+Wo ist hier der logische Konnex ("schlagende Beweis" lol)?
+
+
+Nein. Die  Syntax und Semantik von Sätzen der math. Umgangssprache
+unterschiedet sich  von der alltäglichen Umgangssprache, eine
+Formulierung wie "Wenn..., dann.." bedeutet tatsächlich die materiale
+Implikation, Quantoren wie All-oder Existenzquantoren haben
+tatsächlich den Sinn wie in der Prädikatenlogik usw.,  weswegen es
+auch  relativ  einfach ist, die Sätze der math. Umgangssprache in eine
+rein formale Sprache wie HOL zu übersetzen. Vor allen Dingen sind die
+/formalen/ Bestandteile der math. Umgangssprache mit Mitteln eienr
+ling. Grammatiktheorie überhaupt nicht analysierbar.  
+
+
+Da gibt es keinen grundlegenden Unterschied, der Übergang ist, etwa in
+der Mathematik fließend. Nehmen wir den Satz von Mühlfelder, wie ihn Christof
+Lürssen zitiert hat:
+
+"Stokes Theorem: If M is  compact oriented k-dimensional manifold with
+boundary and w is a (k-1) form on, then
+S_{M}dw = S_{Rand(M)}w; (S_{A} ~ Integral über A)"
+
+
+Wie möchtest du die rein formale Teilaussage, nämlich 
+
+S_{M}dw = S_{Rand(M)}w
+
+mit Hilfe einer üblichen Grammtiktheorie analysieren? Die Definitionen
+solcher Prädikate wie "ist kompakt" wird, je nach Autor,
+unterschieldich formal gehandbabt,  etwa so:
+
+
+Def. Sei U=(U_i)_{i \in I}, T=(X,O) ein topologischer Raum. 
+
+	U ist eine offene Überdeckung von T :<=> ((A i: I) U_i \in O)
+				& \cup_{ i \in I} U_i=X.
+
+Def. Sei T=(X,O) ein topol. Raum, U=(U_i)_{i \in I}
+
+	T ist kompakt :<=> (A U: U offene Überdeckung von X) 
+		(E J:J<=I & |J|<= aleph_0) \cup_{j \in J} U_j=X.
+
+
+Wie analysiert  eine Grammatiktheorie, und zwar so, dass die Semantik
+nicht zu kurz kommt, solche sprachlichen Ausdrücke? 
+
+
+Worauf bezieht sich die Frage?
+
+
+Aus genau *diesem* Grund habe ich den Satz von Stokes als Beispiel
+angeführt.  
+
+
+Eine allgemeine Aussage wie oben durch ein elementares *Beispiel*
+belegen zu wollen, ist, und das sollte auch dir  geläufig sein,
+logisch unzulässig. Wenn du deine Behauptung aufrecht erhalten
+möchtest, solltest du sie an an einem Stück "echter Mathematik",  etwa
+dem Satz von Mühlfelder, beweisen. Die Übersetzung  in eine nat. Sprache
+sollte so geschen, dass sie synonym zur "halbformalen" Formulierung
+ist. Es geht mir  also nicht um eine rein syntakische "Umschreibung".
+
+
+Natürlich stellt es eine sprachliche (schriftliche) Äußerung dar,
+nämlich iA die eines Programmierers. ( Funktionalismus&Co außer Acht
+gelassen). Bist du eigentlich auch in der Lage, auf Argumente
+eingzugehen? Dasselbe noch  einmal:
+
+(1) Programmiersprachen sind vollständig formalisierte formale
+Sprachen, die Systeme mit definierter Syntax und Semantik darstellen.
+Der operationale Teil der Semantik (welche Operationen nimmt der
+Computer vor) ist wesentlich unabhängig von einer nat. Sprache. 
+(2) Menschen erlernen Programmiersprachen häufig anhand von
+alltäglichen Beispielen unter Einschluss der Alltagssprache.
+(3) Von der Art und Weise, wie wir Sprachen lernen, können wir nicht
+auf die semantische Abhängigkeit oder Unabhängigkeit von Anderen
+schließen. 
+
+
+Welche Relevanz hat die Bemerkung für mein Argument?
+
+
+s/hast ja/hast du ja/ 
+
+s/sich/für/
+
+
+Doch! Wie wäre es, wenn du  von Dingen sprichst, von denen du auch
+etwas verstehst? 
+
+
+Das ist zum einen falsch, da die Sätze der Sprache eine Mischform
+zwischen nat. und formaler Elementen darstellen. Zum anderen ist  es
+so, und das ist ein Aspekt, auf den du bisher nicht eingegangen bist,
+dass man *innherhalb* eines formalen Systems wie Trudi die Syntax
+und Semantik von formalen Sprachen untersuchen kann.
+
+
+Das ist  einfach falsch, wie schon häufiger dargelegt.  
+
+
+Aber sicher, und zwar in dem Sinne, in dem juristische Personen
+handeln, das Gericht urteilt, oder sich Staaten  den Krieg erklären. 
+
+[...]
+
+Nein. Im wiss. Kontext sollte ein Minimal-Standard an Präzision
+herrschen, die Linguistik ist in dieser Hinsicht, jedenfalls soweit
+ich es beurteilen kann, zwiespältig: Wenn es um Syntaxtheorien geht,
+ist sie recht präzise, bei der  Annäherung an die Psychologie gebiert
+sie gar Schreckliches wie die kritisierte Definition. 
+
+
+Natürlich.
+
+
+siebelt

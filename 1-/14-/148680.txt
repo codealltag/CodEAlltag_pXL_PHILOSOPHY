@@ -1,0 +1,17 @@
+Wenn du die Menge der Permutationen anders definierst, kommt
+natürlich etwas anderes heraus.
+
+Ich (und ich nehme an, auch Dietmar) verstehe unter
+der Menge der Permutationen einer Menge die Menge aller
+Bijektionen. Den Beweis für diesen Fall habe ich gepostet
+(und er ist unabhängig von der Kontinuumshypothese, falls
+diese mit GCH gemeint ist). Ob man das
+Auswahlaxiom (AC) <==> Wohlordnungssatz <==> Zornsches Lemma
+dazu benötigt, weiß ich jetzt nicht.
+
+Du verstehst darunter die Menge aller Bijektionen mit
+endlichem Wirkungsbereich. Ich glaube, diese Menge ist
+abzählbar (unendlich), habe allerdings jetzt keine Idee
+für einen Beweis.
+
+Philippe

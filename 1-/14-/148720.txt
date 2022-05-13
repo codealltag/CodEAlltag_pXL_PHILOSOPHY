@@ -1,0 +1,140 @@
+Ich weiß es nicht aus dem Gedächtnis (und will
+jetzt auch nicht in meinen Mitschriften nachsehen,
+ob es da steht).
+
+Auf jeden Fall liegt die Mächtigkeit zwischen der
+von N (also etwa der Menge aller solcher
+Bijektionen, bei der die 1 und eine weitere Zahl
+vertauscht werden)
+und der von Abb(N,N) ~ Abb(N, {1,2}) ~ Pot(N).
+Nach der Kontinuumshypothese liegen dazwischen
+keine weiteren Mengen, also müssen wir nur die
+zwei Fälle überprüfen.
+
+Im ersteren Fall (S(N) abzählbar) müssen wir
+eine Bijektion N <--> S(N) konstruieren, es reicht
+sogar eine Injektion S(N) --> N (bzw. Surjektion
+N --> S(N)).
+
+Im zweiten Fall (S(N) überabzählbar) müssen wir
+dagegen eine Surjektion S(N) --> Pot(N) konstruieren
+(bzw. Injektion Pot(N) --> S(N)).
+Ein Wiederspruchsbeweis � la Ottemeier ist natürlich
+auch möglich.
+
+Eine Idee für (1) wäre der Versuch, alle
+Permutationen von N abzuzählen, etwa mit
+(0 ist hier eine natürliche Zahl):
+
+f(0) := id
+f(1) := <0,1>        = <0,1>
+f(2) := <0,2>        = <0,2>
+ f(3) := f(1)f(2)
+       =<0,1>�<0,2>  = <0,2,1>
+ f(4) := f(2)f(3)
+       = <0,2>�<0,1> = <0,1,2>
+f(5) := <0,3>        = <0,3>
+ f(6) := f(1)f(5)
+       = <0,1>�<0,3> = <0,3,1>
+ f(7) := f(5)f(1)   = <0,1,3>
+ f(8) := f(2)f(5)   = <0,3,2>
+ f(9) := f(5)f(2)   = <0,2,3>
+ f(10):= f(3)f(5)   = <0,3,2,1>
+ f(11):= f(5)f(3)   = <0,2,1,3>
+
+usw.
+
+Diese Abbildung erfasst allerdings nur die
+Permutationen mit "endlichem Wirkungsfeld",
+also etwa nicht
+    j : N --> N
+    j(n) := n-2     n gerade, n <> 0
+            1       n = 0
+            n+2     n ungerade,
+
+die ja überhaupt keine Fixpunkte hat,
+ist also überhaupt nicht surjektiv.
+
+
+Eine Idee für (2) wäre eine Abbildung
+    f : S(N) --> Pot(N)
+mit
+    f(g) := { n in N | n < g(n) }
+
+Diese Abbildung ist leider nicht surjektiv,
+denn die Menge N selbst ist z.B. nicht enthalten
+(es gibt keine Permutation auf N, die streng
+monoton steigend ist, denn dort hätte 1 (oder 0)
+kein Urbild).
+
+Vielleicht kann man die Idee ausbauen?
+
+
+Da fällt mir etwas ein: Jede Permutation hat doch
+eine Fixpunktmenge, die eine Teilmenge der
+Definitionsmenge (hier also N ist).
+
+Wir haben dadurch die Abbildung
+
+    fix : S(N) --> Pot(N),
+          g  |---> fix(g) := { n in N | n = g(n) }
+
+Diese Abbildung ist natürlich nicht injektiv,
+aber surjektiv. Dazu müssen wir zu einer beliebigen
+Teilmenge G von N eine Abbildung g finden, die
+diese Teilmenge als Fixpuntmenge hat, also jede
+Zahl außerhalb, aber keine in G bewegt.
+Dazu unterscheiden wir, ob N \ G eine endliche
+Menge ist:
+
+a) N \ G ist endlich,  |N \ G| = m
+Dann betrachten wir eine beliebige Bijektion
+    h : (N \ G) -->  N_m := { n in N | n < m }
+und die Permutation
+    s : N_m --> N_m
+mit
+    s(n) := n-1   n > 0
+            m-1   n = 0
+
+Verketten wir diese zu einer Bijektion
+    k := h^(-1) � s � h  :  N \ G  -->  N \ G.
+
+Diese hat offensichtlich keine Fixpunkte mehr.
+
+Nun müssen wir diese Permutation noch
+auf ganz N fortsetzen durch
+
+    g(n) := k(n)    n in  N \ G
+            n       n in G
+
+Dann hat g genau die Fixpunktmenge fix(g) = g.
+
+b) N \ G ist unendlich.
+Dann betrachten wir eine (beliebige) Bijektion
+    i :  N \ G  --> N,
+die oben genannte fixpunktlose Permutation von N
+    s : N --> N
+und basteln uns daraus unsere (ebenfalls fixpunktfreie)
+Permutation
+    t :=  i^(-1) � s � i  :  N \G  --> N\G,
+die wir wie oben mit
+    g(n) := t(n)    n in N \ G
+            n       n in G
+zu einer Permutation
+    g : N --> N
+fortsetzen. Auch hier gilt wieder fix(n) = G.
+
+
+Damit ist also |S(N)| >= |Pot(N)|, also
+S(N) überabzählbar.
+(Genauer gilt, wie oben ausgeführt, dann
+ sogar |S(N)| = |Pot(N)|.)
+
+
+(Das war jetzt etwa eine 3/4 Stunde Arbeit
+ am Beweis ...)
+
+Willy
+
+FollowUp gesetzt auf Novartis, wegen
+philosophischer Irrelevanz des Themas.

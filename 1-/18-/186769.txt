@@ -1,0 +1,43 @@
+[...]
+
+Was ist denn nun ein seltsamer Attraktor?
+Wenn du gegen das Chaos in der Chaostheorie ankaempfen willst, dann 
+vielleicht nicht einfach nur Begriffe in einen Topf werfen. Denn durch 
+Andeutungen hilfst du ja nicht wirklich weiter.
+
+Schliesslich sind doch Mandelbrotmenge und Juliamenge erstmal 
+verschiedene Dinge, die eben einen bestimmten Zusammenhang haben.
+
+Mandelbrot war eher jemand, interessante Bilder hervorbrachte, aber auf 
+der mathematischen Seite kaum was beitrug. Die Begriffswelt der 
+Juliamengen hat wohl seinen Ursprung auch schon einige Jahre frueher, es 
+geht erstmal recht speziell um komplexe rationale funktionen, deren 
+Dynamik (Iteration) die riemannsche Sphere zweiteilt, in einen "normalen" 
+bereich und einen "chaotischen". Wenn man speziell quadratische 
+Polynome betrachtet, wird es auch etwas uebersichtlicher. Man kann dort 
+naemlich jedem Polynom einen einzigen Parameter geben und behaelt dennoch 
+alle Polynome in Hinblick auf bestimmte Eigenschaften der Dynamik im 
+Auge. Von diesen Normalformen gibt es aber auch verschiedene, und eine 
+davon liegt den ersten Bildern Mandelbrots zugrunde, aber eigentlich 
+garnicht die, auf der die bekannten Bilder der Mandelbrotmenge beruhen. 
+Die Mandelbrotmenge ist sozusagen ein Verzeichnis fuer Juliamengen. Es 
+gab auch schon vor Mandelbrot erste Bilder, aber Mandelbrot sorgte wohl 
+fuer die Popularisierung, sein Verdienst war wohl auch, das Interesse zu 
+wecken. Auf die reelle Achse beschraenkt kommt man zu Feigenbaeumen.
+
+Vielleicht wuerde aber eine chronologische Darstellung fuer weniger 
+Verwirrung sorgen. Es ist wohl auch schwer moeglich, eine vollstaendige 
+Geschichte mit all den Verweigungen zu erzaehlen, aber die Disziplinen 
+bewegen sich eben oft selbstaendig. Dann aber versucht man wieder 
+Ueberschneidungen zu erkennen, damit man sich von angrenzenden 
+Disziplinen beeinflussen lassen kann. Oft sind aber Uebereinstimmungen 
+nur eingeschraenkt gueltig - was hat also ein seltsamer Attraktor mit 
+Juliamengen zutun?
+
+Es ist eben nicht einfach, einen Weg zu finden zwischen 
+Begriffe-in-den-Raum schmeissen fuer all die, die es eh schon wissen, 
+fuer alle anderen aber nur verwirrend, und auf der anderen Seite 
+unueberschaubarer Detailierung, wo man natuerlich auch angreifbarer fuer 
+Einsprueche ist.
+
+Ralf!

@@ -1,0 +1,33 @@
+Hallo, Newsgroup!
+
+Ich hab hier einen Satz:
+
+(a) Olga möchte den fettesten Mann von Ingershof heiraten.
+Den kann man (wie bekannt) auf zwei Weisen interpretieren:
+
+(1) Olga steht auf fette und würde gerne denjenigen Mann aus Ingershof, der
+am fettesten ist, heiraten.
+(2) Olga möchte einen Mann heiraten und es ist (zufällig) der Fall,
+dass er der fetteste Mann von Ingershof ist.
+
+Das erste ist angeblich "de dicto" und das weite "de re".
+Wenn ich das jetzt in der Sprache der Modalligik ausdrücke, was ergibt
+sich dann?
+
+(1*) notw. E x (Odette(x) und fettest(x))
+(2*) E x (notw. Odette(x) und fettest(x))
+(2**) E x (notw. (Odette(x) und fettest(x)))
+
+1=2E Ist Übersetzung von (1) zu (1*) richtig?
+2=2E Welcher der beiden Übersetzungen (2*) und (2**) ist richtig?
+
+
+Erklärung der Symbole:
+E : existenzquantor
+Odette(_) : Olga will _ heiraten.
+fettest(_) : _ ist fettester Mann von Ingershof
+notw: Das Symbol für Notwendigkeit, in der Modallogik mit einem
+Kästchen repräsentiert.
+
+Danke
+Pauline

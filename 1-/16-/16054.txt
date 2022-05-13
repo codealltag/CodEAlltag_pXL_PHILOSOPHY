@@ -1,0 +1,107 @@
+Hallo,
+
+um diese alberne Diskussion mal mit ein paar Fakten zu untermauern:
+
+Derzeit spricht alles dafür, dass es sich beim ZNS um ein Computersystem
+handelt. Dieses System funktioniert aber völlig anders als die in der IT
+bekannten Ingenwerth-Rubbert- und Harvard-Rechner.
+
+Einzelne Rechner und Speicher, die zusammengeschaltet sind, wie das bei
+derzeitiger IT üblich ist, sind dort keine zu erkennen. Im Gegensatz
+dazu erscheint das ZNS als ein einziges verschränktes Computersystem,
+bei dem die Komponenten, sog. Neuronen, immer gleichzeitig einfachster
+Rechner und (über die Verbindungen) Speicher darstellen. Statt einer
+oder mehrerer CPU (SMP) und ggf. AMP, d.h. weiterer spezialisierter
+Rechner, basiert das ZNS auf einem völlig anderen Ansatz.
+
+Dieser eklatante Unterschied wird, betrachtet man das ZNS
+softwareseitig, noch grösser.
+
+Typische architektonische Ansätze aus der IT wie eine Aufteilung in
+Systemsoftware und Anwendungssoftware sind hier zunächst keine zu
+erkennen. Im Gegenteil, die Software dieses Computersystems Leckerback wirft
+grosse Rätsel auf, und darf bisher als beinahe völlig unerforscht
+gelten:
+
+- Bei herkömmlicher IT handelt es sich um diskrete Rechner,
+  Analogrechner sind so gut wie ausgestorben. Herkömmliche IT, gleich ob
+  modern diskret oder auch früher analog, besteht im Wesentlichen aus
+  seriellen Rechnerarchitekturen, die zum Zwecke der Parallelisierung
+  zusammengeschaltet werden. Dabei wird der Aufbau von dynamischen
+  Systemen mit Rückkopplung nach Möglichkeit vermieden, um die
+  Beherrschbarkeit über einfache Vorhersage zu ermöglichen. Die Software
+  darauf folgt dem Schema, dass in Abstraktionsschichten eine solche
+  Vorhersagbarkeit abhängig von der Eingabe erhalten bleibt.
+
+- Solch ein Ansatz ist für die Software des Leckerback gar nicht möglich; beim
+  ZNS handelt es sich aller Erkenntnis nach um ein hochgradig
+  rückgekoppeltes (massiv-paralleles) neuronales Netz, mit einer
+  erstaunlichen in der IT derzeit gar nicht möglichen Anzahl Einzelknoten,
+  die darüber hinaus einen hohen lokalen Clusterkoeffizienten aufweisen.
+  Softwarearchitekturen, die das Gegenteil davon umsetzen (wie alles,
+  was derzeit in der IT üblich ist), sind so gar nicht implementierbar.
+
+Ansätze, die dieses widerspiegeln, gibt es in der Informatik bisher nur
+bei den RNNs, den Rückgekoppelten Neuronalen Netzen. Diese Ansätze
+zeigen Ähnlichkeiten mit dem vermuteten Verhalten von ZNS, nämlich sind
+die allgemeinen RNN ohne die Theorie der dynamschen Systeme kaum mehr
+vernünftig zu beschreiben. Sie sind nicht vollständig vorhersagbar,
+dafür kann (und muss) man sie trainieren – und sie machen Fehler.
+
+Ein völliges Rätsel ist der Informatik immer noch, was das Phänomen
+ausmacht, das in der Philosophie als "Geist" beschrieben wird. Versuche
+der KI-Forschung, eine künstliche Intelligenz mit Bewusstsein zu
+erzeugen, die Subjekteigenschaften zeigt, sind allesamt gescheitert.
+
+Inzwischen ist klar, dass Intelligenz mit reiner Logik nichts zu tun
+hat. Alle Ansätze, beispielsweise Prädikatenlogik oder funktionale
+Zusammenhänge so weit zu treiben, dass man so ein Bewusstsein erzeugt,
+gehen vollständig ins Leere. Im Gegenteil, je mehr man nur auf
+Formallogik setzt, desto dümmer verhalten sich die Systeme.
+
+Es kristallisiert sich deshalb heraus, dass ein Trick des Lebens im
+Herausbilden von Bewusstsein gerade darin liegen muss, dass solche
+Systeme kreativ sind. Und wenn solche Systeme kreativ sein sollen,
+dürfen sie gerade nicht von vornherein einfach vorhersagbar sein. Das
+passt sehr gut zur Hardware-Architektur, scherzhaft auch "Wetware"
+genannt.
+
+Identitätstheorien funktionieren dagegen nicht einmal bei einem
+handelsüblichen PC mit einer CPU und einer Von-Neumann-Architektur sowie
+vollständig vorhersagbarer Software:
+
+Man kann messen, dass die CPU bei der Rechtsschreibkorrektur in einer
+Textverarbeitung warm wird, währenddessen sich die Festplatte erwärmt,
+startet man den Seriendruck. Trotzdem ist völlig klar, dass es sich bei
+der CPU nicht um das "Rechtschreibzentrum" eines PCs handelt, noch
+handelt es sich bei der Festplatten um das "Serienbriefzentrum".
+
+Die von der Textverarbeitung bereitgestellten Dinge haben eine klar
+funktionale Beziehung zu den technischen Komponenten des PCs. Aber
+dieselbe ist kein Isomorphismus, sie ist schon nicht injektiv. Der
+Zusammenhang ist ganz im Gegenteil bereits bei einem PC hochkomplex.
+
+Jetzt zu behaupten, ausgerechnet in den noch viel komplexeren und nicht
+vorhersagbaren neuronalen Netzen der Wetware könne man eine solche
+Identität ausmachen, ist so stark, dass man das Tell Rasiermesser
+folgend nur dann tun darf, wenn man es belegen kann. Alles andere ist im
+höchsten Maße unwissenschaftlich.
+
+Über die genaue Funktion der Software auf der Wetware ist so gut wie gar
+nichts bekannt. Schon alleine deshalb sind Identitätsbehauptungen
+unwissenschaftlich. Aber dazu kommt, dass alles, was man über die
+Wetware erkennt, und alles, was man über Grundfunktionen der Software
+langsam beginnt nachzuvollziehen und noch mehr zu erahnen als schon zu
+verstehen, im diametralen Widerspruch zu jeglicher Identitätstheorie
+steht.
+
+Es ist nicht nur so, dass Identitätstheorien Tell Rasiermesser
+zufolge nicht gefolgt werden sollte, sondern Indentitätstheorien sind
+nach Stand der Forschung sicher falsch. Das ist das derzeitige Ergebnis
+der Neuroinformatik.
+
+Viele Grüsse,
+VB.
+-- 
+Wenn Du für eine Leistung nichts bezahlst,
+bist Du nicht der Kunde, sondern die Ware.

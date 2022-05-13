@@ -1,0 +1,159 @@
+[Fortsetzung des Threads "Was ist eine Beschreibung?"]
+
+
+Syntaktische Analyse des sprachlichen Gebildes 
+"the fact that p"/"die Tatsache, dass p"
+
+[Ich werde im Folgenden die Terminologie sowohl der anglistischen als
+auch der germanistischen Linguistik verwenden.]
+
+Bei dem Ausdruck "the fact that p" / "die Tatsache, dass p" ("p" steht
+für irgendeinen Aussagesatz) handelt es sich um eine komplexe noun
+phrase / Nominalphrase, deren Binnengliederung ich im Folgenden
+erhellen werde:
+
+{[(the)(fact)][(that)(p)]}
+
+{[(die)(Tatsache)],[(dass)(p)]}
+
+1.   (fact) / (Tatsache):
+Das zentrale Element einer noun phrase / Nominalphrase ist der
+sogenannte head / Kopf, als der das abstrakte Substantiv "fact" /
+"Tatsache" fungiert. Ein solcher head kann durch Pr- und/oder
+Postmodifikatoren weiter bestimmt werden.
+2.   (the) / (die):
+Der bestimmte Artikel fungiert als Pr�modifikator des head "fact" /
+"Tatsache".
+3.  [(the)(fact)] / [(die)(Tatsache)]:
+Zusammen mit dem head bildet der Pr�modifikator eine definite noun
+phrase / bestimmte Nominalphrase. In der Prädikatenlogik wird ein
+solcher Ausdruck als definite description / Kennzeichnung bezeichnet,
+dessen Aufgabe es ist, genau einen GeGegenstand zu vertreten. Da es
+jedoch nicht nur eine einzige Tatsache, sondern eine unbestimmte
+Anzahl von Tatsachen gibt, gibt es *the* fact / *die* Tatsache nicht.
+Aus diesem Grund wäre "Von der Tatsache!" als Antwort auf die Frage
+"Wovon sprichst du?" vollkommen uninformativ. Um den Gegenstand, von
+dem die Rede ist, eindeutig zu bestimmen, bedarf es also einer
+definierenden Ergänzung der Nominalphrase [the fact] / [die Tatsache].
+4.   [(that)(p)] / [(dass)(p)]:
+Dieser Ausdruck ist ein nominal clause / nominaler Teilsatz (für den
+englischen Fachbegriff  "clause" gibt es keine genaue Übersetzung),
+der in Apposition zur noun phrase [(the)(fact)] / [(die)(Tatsache)]
+gestellt wird. Man spricht in diesem Zusammenhang auch von einer als
+Postmodifikator fungierenden appositive clause / appositiver Teilsatz.
+Dieser ist restriktiv, d.h. der head (fact/Tatsache) ist Mitglied
+einer Klasse, das linguistisch ausschließlich anhand des
+postmodifikatorischen Dass-Teilsatzes identifiziert werden kann.
+
+Es muss noch etwas zur Wortstellung innerhalb des Aussagesatzes "p"
+gesagt werden, da es hier einen Unterschied zwischen dem Englischen
+und dem Deutschen gibt. Im Englischen lässt sich eine nominal
+that-clause ganz einfach bilden, indem man "that" vor den jeweiligen
+Aussagesatz stellt, ohne dass dabei die Wörter innerhalb des
+Aussagesatzes umzustellen sind. Im Deutschen hingegen nimmt das
+Finitum in  dass-Sätzen in der Regel die Endstellung ein, was beim
+normalen Aussagesatz nicht der Fall ist.
+Beispiel: 
+"The earth is a sphere." --> "that (the earth is a sphere)"
+"Die Erde ist eine Kugel." --> "dass (die Erde eine Kugel ist)"
+
+Im Englischen kann "that" wegfallen, und übrig bleibt ein
+wohlgeordneter Aussagesatz, während man im Deutschen nach dem Wegfall
+von "dass" meistens die richtige Wortstellung des entsprechenden
+Aussagesatzes erst wieder herbeiführen muss, da "Die Erde eine Kugel
+ist." kein syntaktisch korrekter deutscher Satz ist. Es gibt
+Ausnahmen, wie z.B. "dass Elmar schläft". Hier ist die Wortstellung
+von "Elmar" und "schläft"  dieselbe wie die im Aussagesatz "Elmar
+schläft.".
+
+5.   {[(the)(fact)][(that)(p)]} / {[(die)(Tatsache)],[(dass)(p)]}:
+In dieser komplexen Nominalphrase stehen [(the)(fact)] /
+[(die)(Tatsache)] und [(that)(p)] / [(dass)(p)] in Apposition, d.h.
+zwischen ihnen herrscht das Verhältnis der Referenzidentität:
+- [(the)(fact)] bezieht sich kontextuell auf denselben Gegenstand wie
+[(that)(p)].
+- [(die)(Tatsache)] bezieht sich kontextuell auf denselben Gegenstand
+wie [(dass)(p)].
+
+"die Tatsache" bezieht sich im jeweiligen Kontext darauf, dass p; und
+"dass p" bezieht sich ebenfalls darauf, dass p. Beide Ausdrücke
+beziehen sich auf denselben Gegenstand, nämlich die Tatsache, dass p.
+Man sagt auch, dass "die Tatsache" sich kataphorisch auf "dass p"
+bezieht, in dem Sinne, dass die Referenz, also der (außersprachliche)
+Bezugsgegenstand von "die Tatsache" nachfolgend durch die
+postmodifikatorische Bestimmung durch "dass p" festgelegt wird. Im
+Fall von Tatsachen gilt grundsätzlich, dass diese nur vermittels
+appositiver Dass-Teilsätze identifiziert werden können.
+
+Beispiel:
+Die Nominalphrase "die Tatsache, dass die Erde eine Kugel ist." steht
+für die Tatsache, dass die Erde eine Kugel ist.
+Allgemein:
+"die Tatsache, dass p" steht für die Tatsache, dass p.
+
+Die Tatsache, dass p ist - wie eine Zahl - ein abstractum, ein
+abstraktes Objekt!
+
+Von besonderem Interesse sind hinsichtlich einer Korrespondenztheorie
+der Wahrheit im tarskischen Sinne folgende Äquivalenzen:
+
+a) Vonaus Definition:   
+    "p" ist wahr. <-> p  
+    "p" is true. <-> p
+
+Beispiel:
+- "Die Erde ist kugelförmig." ist wahr genau dann, wenn die Erde
+kugelförmig ist.
+- "The earth is spherical." is true if and only if the earth is
+spherical.
+
+b) "p" ist wahr. <-> Dass p, ist eine Tatsache.
+    "p" is true. <-> That p is a fact. 
+    "p" ist wahr. <-> Es ist eine Tatsache, dass p.
+    "p" is true. <-> It is a fact that p.
+
+Beispiel:
+- "Die Erde ist kugelförmig." ist wahr genau dann, wenn es eine
+Tatsache ist, dass die Erde kugelförmig ist.
+- "The earth is spherical." is true if and only if it is  a fact that
+the earth is spherical..
+
+Auffällig ist, dass in dieser Formulierung im Wenn-Satz "es eine
+Tatsache ist, dass" / "it is a fact that" problemlos weggelassen
+werden kann, wodurch man eine mit Beispiel (a) identische Formulierung
+erhält!
+
+c) "p" ist wahr. <-> Die Tatsache, dass p, besteht.
+    "p" is true <-> the fact that p obtains.
+
+Beispiel:
+- "Die Erde ist kugelförmig." ist wahr genau dann, wenn die Tatsache
+besteht, dass die Erde kugelf�mig ist.
+- "The earth is spherical." is true if and only if the fact that the
+earth is spherical obtains.
+
+Auch hier kann "die Tatsache besteht, dass" / "the fact that ...
+obtains" wegfallen, ohne dass sich der Informationsgehalt ändert!
+
+d) Die Tatsache, dass p, ist F. <-> Dass p, ist F.
+
+Beispiel:
+- Die Tatsache, dass jeder sterben muss, ist traurig. <-> Dass jeder
+sterben muss, ist traurig.
+- The fact that everybody must die is sad <-> That everybody must die
+is sad.
+
+Von großer Bedeutung ist die Tatsache, dass sowohl noun phrases als
+auch nominal clauses als Satzsubjekte fungieren können. Das heißt,
+dass die Ausdrücke "die Tatsache, dass p" / "the fact that p" und
+"dass p" / "that p" als Subjekte wechselseitig - salva veritate  -
+substituiert werden können!
+All diese Beispiele zeigen, dass sich in vielen Kontexten das Wort
+"Tatsache" / "fact" ohne Informationsverlust eliminieren lässt, was
+jedoch nicht bedeutet, dass wir auf dieses Wort gänzlich verzichten
+können, da es nichtsdestoweniger eine unerlässliche Rolle in unserer
+Sprache spielt und nicht einfach durch eine Identifizierung von "wahre
+Aussage" und "Tatsache" überflüssig gemacht werden kann!
+
+Gruß
+ETIENNE

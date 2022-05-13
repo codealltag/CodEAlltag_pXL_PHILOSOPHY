@@ -1,0 +1,126 @@
+Ich habe zwar unverändert erhebliche Bedenken gegen die
+Grammatikalität von "(ix)(phi(x)&p)", aber 'for the sake of the
+logical argument' könnte ich mich ja als sehr liberaler Grammatiker
+zeigen und meinen linguistischen Einwand zumindest vorübergehend
+hintan stellen. Ein entscheidender Grund dafür ist, dass sich die
+fragwürdige Formulierung bei Leuten wie Moeßner und Elbing findet, von
+denen man annehmen darf, dass sie der Grammatik des Englischen mächtig
+sind und sehr wohl wissen, was sie tun, wenn sie einen bestimmten
+Ausdruck in einem logischen Kontext verwenden.
+Das allein bedeutet selbstredend nicht, dass ihre Argumente wahr sind,
+nur weil es sich um intellektuell höchst kompetente Persönlichkeiten
+handelt.
+
+
+Da fällt mit spontan jene wunderbare Äußerung von Georges Veenhuis ein:
+
+"Die Praxis ist so lange logisch, wie die Logik praktisch ist!" 
+
+
+In Sachen Allgemeingültigkeit könnte man doch - so kenne ich es - "p
+-> (p v q)" einfach als Theorem auszeichnen, wozu das Zeichen "|-"
+benutzt wird:
+
+
+Im Gegensatz dazu ist p -> q keine PL-Theorem.
+
+
+Wir haben jetzt also drei Slingshots, die 'valid' erscheinen - aber
+sind diese auch 'sound', d.h. sind die Voraussetzungen und Prämissen
+wahr?!
+
+Zur Erinnerung noch einmal die beiden anderen aus den vorherigen
+Posts:
+
+SLINGSHOT 1:
+
+Voraussetzungen:
+
+A.   Fa <-> a=(ix)(x=a & Fx)   [ioK]
+
+B.   [G(ix)(Fx) & (ix)(Fx)=(ix)(Hx)] -> G(ix)(Hx)   [ioS]
+
+Beweisführung:
+
+1.  "Fa" entspricht der Tatsache, dass Fa.
+
+2.  Fa <-> (ix)(x=b) = (ix)(x=b & Fa)
+
+3. Gc <-> (ix)(x=b) = (ix)(x=b & Gc)
+
+4. [(ix)(x=b) = (ix)(x=b & Fa) & (ix)(x=b) = (ix)(x=b & Gc)] ->
+[(ix)(x=b & Fa) = (ix)(x=b & Gc)]
+
+5. Fa <-> (ix)(x=b) = (ix)(x=b & Gc)   per Substitution aus 1+4
+
+6. Fa <-> Gc   per Substitution aus 3+5   
+
+Aus (6) würde folgen, dass "Fa" der Tatsache, dass Gc entspricht.
+
+SLINGSHOT 2:
+
+Allgemein sieht das Argument dann so aus:
+
+(1) [p] = [a = (ix)(x=a & p)] = [(ix)(x=a) = (ix)(x=a & p)]
+
+(2) [q] = [a = (ix)(x=a & q)] = [(ix)(x=a) = (ix)(x=a & p)]
+
+(3) (ix)(x=a & p) = (ix)(x=a & q) from 1+2
+
+(4) [p] = [a = (ix)(x=a & q)]   from 1+3 by substitutivity of
+identicals
+
+(5) [p] = [q]   from 2+4 by substitutivity of identicals
+
+Dies würde bedeuten, dass jede beliebige Tatsache p mit jeder
+beliebigen Tatsache q identisch ist und es somit nur "die eine große
+Tatsache" Endepohls gäbe.
+
+
+Der entscheidende Einwand gegen die 'soundness' dieser Argumente ist
+meines Erachtens, dass die Annahme, in Kontexten wie "die Tatsache,
+dass p" ließen sich äquivalente Aussagesätze *salva veritate*
+substituieren, schlicht falsch ist!
+
+Aus "p .<->. (ix)(x=a) = (ix)(x=a & p)" folgt nicht "[p]= [(ix)(x=a) =
+(ix)(x=a & p)]" !
+
+Das heißt, die Äquivalenz von Aussagen schließt nicht die Identität
+der betreffenden Tatsachen mit ein!!!
+
+Beispiel dafür, dass es sich bei "die Tatsache, dass p" um einen
+intensionalen Kontext handelt, bei dem das Substitutionsprinzip für
+äquivalente Sätze nicht gilt:
+
+"Jedes Mal wenn Gerold morgens in seinem Bett allein aufwachte, wurde
+ihm die schmerzliche Tatsache bewusst, dass seine Frau ihn endgültig
+verlassen hatte."
+
+Der Satz "Giorgios Frau hat ihn endgültig verlassen." ist Äquivalent zu
+dem Satz "Diejenige, die Hilde ist, ist identisch mit derjenigen, für
+die gilt, dass sie mit Hilde identisch ist und Giorgios Frau ihn
+endgültig verlassen hat."
+
+Doch wenn ich in meinem Beispielsatz den einen Satz durch den anderen
+substituiere, entsteht ziemlicher Unsinn:
+
+"Jedes Mal wenn Giorgio morgens in seinem Bett allein aufwachte, wurde
+ihm die schmerzliche Tatsache bewusst, dass diejenige, die Hilde ist,
+mit derjenigen identisch ist, für die gilt, dass sie mit Hilde
+identisch ist und seine Frau ihn endgültig verlassen hatte."
+
+Beim Aufwachen denkt Giorgio an seine Frau, aber nicht an Hilde und mit
+wem diese identisch ist!
+Hilde gehört einfach nicht zum Inhalt seines Bewusstseins, da sie
+damit, dass Giorgio von seiner Frau verlassen worden ist, rein gar
+nichts zu tun hat!
+Es handelt sich also zwar um äquivalente Sätze, aber nicht um
+identische Tatsachen; und genau aus diesem Grund versagt hier das
+Substitutionsprinzip und damit die Slipshots!!!
+
+Die Tatsache, dass Giorgios Frau ihn verlassen hat, entspricht keiner
+Tatsache bezüglich Hilde!
+Die gegenteilige Behauptung erscheint mit extrem kontraintuitiv!
+
+Gruß
+GERHARD

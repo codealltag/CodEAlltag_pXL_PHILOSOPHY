@@ -1,0 +1,9 @@
+Und eine negative Bedingung wäre dann a gleich null. Wenn ich a und b
+vertauschen darf, dann ist es egal, ob ich ba = 0 schreibe oder ab = 0
+schreibe.  1 * 1= 1 und 0 * 0 = 0. Wenn ich durch Null nicht teile, dann
+lautet der Beweis für a = 0 identisch. Der zweite "Beweis" überprüft nur
+den ersten. b ist also nur dann Null wenn a nicht 0 ist. Für den Fall
+dass a doch 0 sein sollte ist b = 1.
+
+Gruss
+Willi

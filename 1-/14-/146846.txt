@@ -1,0 +1,91 @@
+Je konkreter ein Widerspruch ist, desto schwieriger lässt er
+sich als nur scheinbarer Widerspruch übergehen.
+
+                        .          -->
+                    Elektron    v = 1 cm/s
+
+Ein Testelektron befinde sich 1 cm von einem geraden Leiterstück
+eines "geschlossenen Stromkreises" entfernt und bewege sich mit
+v = 1 cm/s parallel zum Leiterstück. Die anderen Leiterstücke
+des Stromkreises seien weit genug vom Testelektron entfernt, um
+für die folgenden Überlegungen vernachlässigbar zu sein.
+
+Im Leiterstück fliesse ein Strom von 1 Ampere, wobei die Drift-
+geschwindigkeit der Leitungselektronen mit der Geschwindigkeit
+des Testelektrons übereinstimme (d.h. v = 1 cm/s).
+
+Die magnetische Feldstärke H beim Testelektron beträgt dann
+
+  H = 1 Ampere / (2 pi * 1 cm) = 15.91 A/m
+
+und als magnetische Induktion B ergibt sich:
+
+  B = u0 * H = (4 pi * 10^-7 N/A^2) * H = 2 * 10^-5 N/(A*m)
+
+Das ist eine Kraft von 0.000'02 Newton pro Ampere pro Meter
+(bzw. pro Coulomb pro m/s).
+
+Für das Testelektron mit
+
+  m = 9.1 * 10^-31 kg
+  q = -1.602 * 10^-19 Coulomb
+  v = 0.01 m/s
+
+folgt als Kraft:
+
+  F = B * |q| * v  = 3.204 * 10^-26 N
+
+und als Beschleunigung (kaum zu glauben):
+
+  a = F/m = 3'521 m/s^2
+
+Im Inertialsystem von Testelektron (und Leitungselektronen)
+ist dies jedoch keine magnetische Kraft, sondern eine durch
+die POSITIVE Ladung des (relevanten) Leiterstücks verursachte
+elektrische Kraft, d.h. am Ort des Testelektrons wird ein
+elektrisches Feld dieser Stärke postuliert:
+
+  E = F * |q| = B * v = 2 * 10^-7 Volt/m
+
+Ein Widerspruch lässt sich konstruieren, indem man einen exakt
+kreisförmigen Stromkreis so auf einer rotierenden Plattform
+plaziert, dass die Leitungselektronen ruhen, während der Leiter
+rotiert.
+
+Wegen Symmetrie folgt aus den obigen Überlegungen, dass die
+Gesamtladung des Leiters (insofern sie über die Kraftwirkung
+auf ruhende Testelektronen in der Nähe des rotierenden Leiters
+gemessen wird) als Ganzes positiv sein muss, obwohl andererseits
+die Gesamtladung als Lorentz-invariante Grösse definiert ist,
+die in solchen Fällen immer 0 sein sollte.
+
+Aber einen WEIT KRASSEREN WIDERSPRUCH erhält man, wenn man das
+elektrische Feld, das aufgrund von Leiterkontraktion entstehen
+könnte, einmal ausrechnet.
+
+Ein Strom von 1 A bei einer Elektronendriftgeschwindigkeit von
+1 cm/s nach rechts ergibt 1 Coulomb Leitungselektronen pro cm
+Leiter. Wir können ein gerades Leiterstück so mit 1 cm/s am
+ruhenden Testelektron vorbeiziehen lassen, dass die Leitungs-
+elektronen relativ zum Testelektron ruhen.
+
+Es ergibt sich, dass die positiven Ionen des Leiters mit 1 cm/s
+nach links am Testelektron vorbeiziehen. Die Ladungsdichte der
+positiven Ionen ist dieselbe wie die der negativen Leitungs-
+elektronen, d.h. 1 Coulomb pro cm Leiter.
+
+Der L�ngenkontraktionsfaktor bei v = 1 cm/s ist
+
+   1/gamma = 1 - 5.5 * 10^-22
+
+Die positive Ionenladung pro cm Leiter (1 Coulomb) könnte
+sich somit nur um 5.5 * 10^-22 C erhöhen. D.h. es wären fast
+3 m Leiter notwendig, um auch nur den Wert einer einzigen
+Elementarladung (1.602 * 10^-19 C) zu erreichen.
+
+Das Missverhältnis von 5.5 * 10^-22 Coulomb pro cm Leiter als
+Erklärung eines elektrischen Feldes von 2 * 10^-7 V/m in einer
+Entfernung von 1 cm vom Leiter überrascht sogar mich.
+
+
+http://ggxcvzx.dxh.to/hrtxesbz/fvuwkn2.jgwb#yafs

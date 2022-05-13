@@ -1,0 +1,12 @@
+Der Satz ist falsch! Enthaelt die Sprache naemlich ueberabzaehlbar viele
+Konstantensymbole, so fordere einfach, dass die Kontanten paarweise verschieden
+sind. Das ergibt ein Axiomenschema, welches fuer paarweise verschiedene
+Konstanten fordert, dass sie ungleich seien. Also: ist I eine ueberabzaehlbare
+Indexmenge und {a_i:i aus I} die Menge der paarweise verschiedenen Konstanten,
+so fordere fuer i\neq j, dass a_i\neq a_j. Dann muss eine Interpretation schon
+ueberabzaehlbar und kann nicht abzaehlbar sein.
+
+Gell?
+
+Uwe.
+--

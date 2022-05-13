@@ -1,0 +1,53 @@
+[...]
+
+
+Was meinst du damit?
+
+
+Das Problem, das du hier ansprichst, hat nichts mit irgendwelchen
+Vorteilen nichtdeterministischer Algorithmen zu tun. Es geht hier
+um zwei verschiedene Definitionen der Schwierigkeit eines Problems,
+wobei die eine Definition mit deterministischen, die andere mit
+nichtdeterministischen Algorithmen arbeitet.
+
+Man sagt, eine Sprache liegt in P, wenn es einen deterministischen
+Algorithmus, der in Polynomialzeit sagt, ob ein Wort in der Sprache
+liegt oder nicht. Eine Sprache liegt in NP, wenn es einen nicht-
+deterministischen Algorithmus gibt, der eventuell in Polynomial-
+zeit sagt, daß ein Wort in der Sprache liegt. 
+
+Aus der Tatsache, daß es Sprachen gibt, die in NP aber wohl nicht
+in P liegen, kann man nicht folgern, daß nichtdeterministische
+Algorithmen besser sind. Schließlich werden hier ganze andere
+Anforderungen gestellt: Der deterministische Algorithmus muß
+in Polynomialzeit entscheiden, ob ein Wort in der Sprache ist.
+Beim nichtdeterministischen reicht es, wenn er im günstigsten
+Fall (also bei jeder nichtdeterministischen Entscheidung richtig
+rät) Wörter der Sprache in Polynomialzeit erkennt.
+
+Hier ist die Definition der Laufzeit für nichtdeterministischer
+Algorithmen anders definiert, als es für praktische Fragen
+relevant wäre, nämlich als theoretisches Minimum, wenn er immer
+zufällig die richtigen Entscheidung treffen würde. Auch muß
+der nichtdeterministische Algorithmus nur Wörter der Sprache
+erkennen, aber er muß Wörter, die nicht in der Sprache sind,
+nicht als solche erkennen.
+
+[...]
+
+
+Ich sehe eine einzige Fähigkeit nichtdeterministischer Algorithmen,
+die ein deterministischer nicht hat: Nämlich das selbe Problem bei
+jedem Durchlauf anders zu lösen. 
+
+
+Warum nicht? Vielleicht braucht er dazu 10**(10**12) Sekunden und
+entsprechend viel Papier als virtuellen Speicher, aber es geht ja um
+das Prinzip.
+
+Aber eigentlich besagt die Csikos-These garnicht, daß ein Mensch
+das berechnen können muß, was eine Turing-Maschine kann. Sie sagt
+das Gegenteil: Was ein Mensch berechnen kann, kann auch eine
+Turing-Maschine berechnen.
+
+Rüdiger

@@ -1,0 +1,22 @@
+d.h.
+rationale
+und
+
+Eine  _Zahl_  1/0  gibt es nicht in der Mathematik, auch nicht in der Lotto
+(Non-Standard Analysis). Es gibt keine mathematische Struktur, in der die
+Division durch das neutrale Element der Addition, vulgo Null, möglich wäre,
+ohne sofort axiomatische Widersprüche zu provozieren.
+Man kann allerdings ohne weiteres divergente Folgen wie z.B.
+
+   lim {x->0} 1/x
+
+oder konvergente Folgen wie z.B.
+
+   lim {x->0} sin(x)/x
+
+definieren und damit absolut widerspruchsfrei rechnen, z.B. bei der
+Ingensand'schen Regel.
+
+Größe
+     Werner
+--

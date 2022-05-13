@@ -1,0 +1,88 @@
+In der Schule lernt man folgendes
+(http://tzl.zkiazv-ay.yy/jexujnoaub/ntmbwjo/csjtzbotze/5clflffjc/xtm8/ghgiredwo/tgkost)
+
+Unter Konstruktionen verstehen wir in der Geometrie stets
+„Konstruktionen mit Zirkel und Lineal“. Ein Lineal ist hierbei ein
+"Linienzeichengerät" ohne Skaleneinteilung - also nicht zur
+Längenmessung geeignet..
+
+Nur die folgenden Schritte sind beim Zeichnen mit Zirkel und Lineal erlaubt:
+
+1. Das Zeichnen eines beliebigen Punktes.
+2. Das Zeichnen eines beliebigen Punkt auf einer Geraden, Strecke
+   oder Kreislinie.
+3. Das Zeichnen einer Geraden durch zwei Punkte (Lineal).
+4. Das Verbinden zweier Punkte durch eine Strecke (Lineal).
+5. Das Zeichnen von Schnittpunkten von Geraden, Strecken und
+   Kreislinien.
+6. Das Zeichnen eines Kreises um einen gegebenen Mittelpunkt M
+   durch einen weiteren Punkt P (Zirkel).
+7. Die "Übernahme" einer Länge aus der Zeichnung, um einen
+   gegebenen Mittelpunkt M mit einem Radius zeichnen (Zirkel).
+
+Dann schauen wir mal:
+
+
+Welcher Punkt von oben deckt das ab?
+Keiner. Da gähnt also eine Lücke in dieser Konstruktion,
+die derart klafft, dass du genausogut "Zeichne ein
+Flächengleiches Quadrat." sagen kannst und fertig.
+
+
+Der Rest ist uninteressant, solange Du keine Konstruktion Deiner
+geforderten Zeichnung, basierend auf den Schritten 1. bis 7.
+geliefert hat.
+Danach kommt dann Schritt für Schritt der Rest drann. Tja, und dann muß
+man noch argumentieren, warum da nun die richtige Fläche herauskommt:
+
+Sehen wir also mal, was rauskommt, wenn das Bild fertig gemalt ist.
+
+Als Kreisradius nehmen wir 1 an (ansonsten multipliziert sich alles in
+der folgenden Rechnung mit dem Radius r).
+Eine Zehneck-Seite hat dann die Länge 2 tan(2Pi/20)=2 tan(Pi/10).
+Mein Computer sagt, das ist 2 sqrt(1-2/sqrt(5)).
+
+Wir betrachten die Verbindungsstrecke s zweier benachbarter
+Seitenmitten. Die Seitenmitten und der Mittelpunkt bilden die Ecken
+eines gleichseitiges Dreiecks D.
+Der winkel im Mittelpunkt ist (2 Pi)/10, die beiden Anderen Winkel sind
+gleich einem alpha, und es gilt 2 alpha + (2 Pi)/10 = Pi, oder alpha =
+2Pi/5.
+Die Höhe auf s ist h1 = 1 * sin(alpha) = sin(2Pi/5) =
+sqrt((5+sqrt(5))/2), wenn man meinem Rechner glaubt.
+
+Nun liegt auf der Verlängerung von h1 eine Ecke Z des Zehnecks, unsere
+Seite s Spannt mit Z ein gleichseitiges Dreieck E auf. Die Winkel in E,
+die an s liegen betragen beta=Pi/2-alpha, denn, da die Zehnecksseiten
+tangential verlaufen, muß alpha+beta=Pi/2 gelten, die übrigen Seiten von
+E sind nämlich je eine halbe Seite des Zehnecks.
+Damit ist beta = Pi/2-alpha = Pi/10.
+Die Länge der Strecke vom Endpunkt von h1 bis Z wäre demnach
+h2 = s/2 * tan(beta) = 1 - 2/sqrt(5), wieder verlasse ich mich auf
+meinen Rechner.
+u = h1 + h2 ist nun der Umkreisradius des Zehnecks, numerisch etwa 1.057.
+Eine kurze Probe mit einem Dyn. Geometrieprogramm bestätigt dies ... man
+ist ja vorsichtig :)
+
+Ein Rechteck mit einer Seite 3*(u+u) und einer Seite 1/4*(1+1) soll also
+die Fläche Pi haben, also wird behauptet:
+3*u = Pi
+
+Oder explizit mit dem bisher Berechneten:
+Pi = 3*(1 - 2/sqrt(5) + Sqrt(5/8 + sqrt(5)/8))
+
+Das ist ja mal ein Wort.
+
+Numerisch ergibt das die bisher unentdeckte Identität:
+3.14159 = 3.16989
+
+Knapp vorbei ist auch daneben könnte man sagen.
+
+So knapp ist es noch nicht einmal, bei einem Meter Radius, sind
+fast 3 cm eventuell eine schmerzliche Lücke ...
+
+Gruß,
+  Niklaus
+-- 
+Dr. Niklaus Krätzmann,
+http://mtd.rcxhj-ulnouz.qz  oder http://rneqo-eiskqy.wn

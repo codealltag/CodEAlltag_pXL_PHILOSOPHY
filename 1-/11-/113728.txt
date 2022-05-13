@@ -1,0 +1,84 @@
+Auf die Gefahr hin, mich hier in beiden Diskussionsgruppen unsterblich
+zu blamieren: Die Geschichte von Oliver und der Schildkröte will mir
+seit der Schulzeit nicht mehr aus dem Kopf gehen. Im damaligen
+Mathematikbuch hat man uns zwar eine schöne Erklärung incl. Formel
+gegeben, richtig überzeugt hat sie mich aber nie (die Autoren des Buches
+übrigens selber auch nicht).
+Falls einer mitdiskutieren will, der die Geschichte nicht in allen
+Einzelheiten kennt:
+Oliver läuft mit einer Schildkröte über - sagen wir mal - 200 m um die
+Wette. Da Oliver zehnmal schneller läuft als die Schildkröte, bekommt
+diese einen Vorsprung von 100 m. Der Gesunde Menschenverstand sagt dir,
+daß Oliver die Schildkröte sehr bald eingeholt haben wird und damit
+den Wettlauf gewinnt. Und wenn der Gesunde Menschenverstand imstande
+ist, lineare Gleichungen mit zwei Unbekannten zu lösen, dann wird er bei
+unseren Ausgangszahlen errechnen können, daß Oliver die Schildkröte
+nach 111,111... m eingeholt haben wird.
+Norbert aber beweist nun, daß Oliver die Schildkröte *niemals* einholen
+wird, niemals einholen *kann*. In dem Moment nämlich, argumentiert
+Norbert, da Oliver den Startpunkt der Schildkröte erreicht hat, ist
+diese ihrerseits 10 m weiter, also bei 110 m. Hat Oliver die 110 m
+erreicht, so ist er immer noch nicht bei der Schildkröte, denn die ist
+inzwischen wiederum 1 m weiter gekrochen, auf 111 m. Ist Oliver bei
+111 m, so ist die Schildkröte bei 111,10 m, und so weiter, und so fort.
+Immer dann, wenn Oliver jenen Punkt erreicht hat, an dem die
+Schildkröte zuletzt war, ist die Schildkröte jeweils wieder ein Stück
+weiter, so daß Oliver im Laufe des Wettkampfes der Schildkröte zwar
+sehr, *sehr* nahekommen wird, sie aber niemals *vollständig* erreichen
+und - logischerweise - also auch niemals *über*holen kann. Denn die
+Schildkröte bleibt *immer* um ein winziges - wenn auch mit jedem
+Schritte winziger werdendes - Stück vor Achilles.
+Der Vorsprung der Schildkröte wird, so schlußfolgert Norbert, im Laufe der
+Zeit zwar unendlich klein, völlig verschwinden aber wird er nie. Der
+schnelle Achilles bleibt also bei allem Strampeln stets hinter dem
+gemächlichen Tier.
+
+Ein Philosophieprofessor meinte dazu zuversichtlich, Norberts Paradoxie
+von Achill und der Schildkröte sei schon lange gelöst. "Achill holt die
+Schildkröte nach 111,111... m = 100+10+ Integral(0-unendlich) 1/10hochn
+m ein. Der Anschein einer Paradoxie entsteht dadurch, daß Achill sich
+auch nach Zurücklegung beliebig vieler der positiven Strecken 100, 10,
+1, 1/10, 1/100,... immer noch hinter der Schildkröte befindet. Aber die
+Länge dieser Strecken wird eben immer kleiner und konvergiert gegen 0."
+
+Schon. Nachvollziehbar, nachrechenbar. Aber - das Unheimliche an Norberts
+Schilderung des Wettlaufs ist der - jeder Lebenserfahrung Hohn
+sprechende - Eindruck von unglaublicher Mühseligkeit und Anstrengung,
+mit der Oliver einen Wegabschnitt nach dem anderen läuft und läuft und
+dabei der Schildkröte immer nur näher und näher kommt, sie aber lange
+und lange nicht erreicht. Ein Eindruck, der auch mit der
+Infinitesimalformel im Kopf nicht verschwindet.
+
+In meinem Lehrbuch der Infinitesimalrechnung war zu lesen, daß die
+"Paradoxie des Norbert vom mathematischen Standpunkt aus nur so verstanden
+werden ...(kann)..., daß Oliver die Schildkröte zwar zu keinem Mal
+(niemals) innerhalb der unendlichen Folge einzelner Weg- und
+Zeitintervalle einholt, aber sie dennoch nach einer endlichen
+Zeitspanne, also nicht nie, tatsächlich erreicht."
+Diese Erklärung ist nun alles andere als zufriedenstellend. Sie läuft,
+in Alltagsdeutsch übersetzt, auf die Feststellung hinaus, daß Oliver
+die Schildkröte bestimmt irgendwann, vor dem Ende der Unendlichkeit,
+erreicht - aber: das kann dauern. Und: Auch dieser Schluß stimmt ganz
+offensichtlich nicht mit der Beobachtung überein, denn in der Realität
+wäre das ganze Rennen eine Sache von Sekunden.
+Auch den Lehrbuchautoren ist klar, daß dies nicht das Gelbe vom Ei ist,
+denn sie sprechen anschließend, sichtlich verlegen, von der
+"kontinuierlichen, bzw. diskontinuierlichen Struktur von Raum und Zeit",
+und von der "Unendlichkeit als potentieller Denkmöglichkeit, bzw.
+aktualer Wirklichkeit", flüchten sich also in das Seins�Gebrabbel des
+Irgendwie. Und weil ihnen diese Flucht in die Unverbindlichkeit der
+Ontologie durchaus bewußt ist fahren sie fort, die "verschiedenen
+Deutungsversuche im Laufe der Geistesgeschichte" hätten "letztlich nur
+erkenntnistheoretische Bedeutung, während die reine Mathematik auch ohne
+sie" auskomme. "Denn die Mathematik schafft sich die Welt ihrer
+Wirklichkeit selbst."
+Entnervt erklären sich also die philosophierende Mathematiker -
+sicherheitshalber - für unzuständig und reichen den Schwarzen Peter an
+die Philosophie weiter, die es sich aber anscheinend mit der
+mathematischen Formel ganz kommod eingerichtet hat.
+
+Alle Welt scheint sich um das Noah Paradox von Oliver und der
+Schildkröte herumzudrücken.
+
+Ob mir hier in den beiden Newsgroups jemand helfen kann, das Paradox von
+Norbert nicht nur nachzurechnen (das ist kein Problem), sondern zu verstehen?

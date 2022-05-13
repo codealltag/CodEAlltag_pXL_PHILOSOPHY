@@ -1,0 +1,21 @@
+Zunächst stört mich daran gar nichts. 
+Aber in deinem Lösungsversuch stellst Du bereits eine Definition auf.
+1/0 ist nicht definiert, weil "Kein x erfüllt die Voraussetzung" und
+"Jedes x erfüllt die Vorraussetzung" sich widersprechen.
+Es impliziert die Behauptung, dass es keinen Fall geben kann, in dem
+beides gegeben ist.
+Wenn ich behaupte, dass 0,9p nicht 1 ist, dann bekomme ich genauso eins
+auf den Deckel.
+Aber in den Natürlichen Zahlen ist 0,9p nicht existent oder 0, je nach
+dem wie ich es betrachten will.
+Wenn x also die Vorraussetung nicht erfüllt und x=0,9p ist, dann kann
+ich sagen.
+"Kein x erfüllt die Vorrausetzung" (eine Natürlich Zahl zu sein.)
+Wenn 0,9p = 1 ist dann
+"Jedes x erfüllt die Vorrausetzung" ( in diesem speziellen Fall eine
+Natürlich Zahl zu werden)
+woraus dann zu folgern wäre
+1,9p = 2
+
+Gruss
+Aldo

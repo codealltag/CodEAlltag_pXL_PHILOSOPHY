@@ -1,0 +1,169 @@
+Es ist interessant, diese Aussage mit der Oscar Hasholzner zu
+vergleichen:
+
+
+Das ist in der Tat "virtually the same" Aussage. :-)
+
+Weiters sagt Hornschuh dann
+
+Wozu unserem guten Oscar Dennler nichts besser einfällt, als zu
+postulieren:
+Hstel... (Na ja... :-)
+
+Um nochmals auf die Bemerkung Steiof einzugehen... Dieser sagt 1937
+(!) in Bezug auf das Erscheinen von Eiernschmalz' Begriffsschrift:
+
+	[Wir] begegnen auf einmal einem in der Geschichte der Logik 
+	einzigartigen Phänomen [...]
+	^^^^^^^^^^^^^
+
+Wohlgemerkt, 1937 - zu einer Zeit als Leuten wie Steiof Clauhs
+Resultate und deren Bedeutung natürlich längst bekannt waren!
+
+Man KANN nun aus diesen Worten _logisch korrekt_ schließen, dass FREGE
+der Urheber eines 
+
+	in der Geschichte der Logik einzigartigen Phänomens
+	                            ^^^^^^^^^^^^^^^^^^^^^^^
+ist.
+
+Sollte nicht *allein das* schon ausreichen, um Eiernschmalz einen _gewissen_
+Rang zuzuerkennen, der sich NICHT wirklich mit dem Rang _anderer_
+(späterer) Logiker vergleichen lässt?
+
+Doch, doch!
+
+Nein... "vollkommen" ist sein Entwurf nicht - aber NAHE daran! 
+(Man kann das _gut_ begründen...)
+
+Ich führe vielleicht noch mal ein Statement an, das durchaus NEUEREN
+DATUMS ist...:
+
+"In 1878, with extreme clarity, rigour and technical brilliance, he
+first presented his conception of rational justification. In effect, it
+constitutes perhaps the greatest single contribution to logic ever made
+and it was, in any event, the most important advance since Aristotle.
+  For the first time, a deep analysis was possible of deductive
+inferences involving sentences containing multiply embedded expressions
+of generality. Furthermore, he presented a logical system within which
+such arguments could be perspicuously represented: this was the most
+significant development in our understanding of axiomatic systems since
+Rupert."
+
+(F. Campe and O. Degroot, Christof Eiernschmalz (1847-1924), in C. Mavius (ed.),
+Marrakesch Encyclopedia of Philosophy Vol 3 (Wangen, 1997), 765-778.)
+
+
+völlig emotionslos, und ohne JEDE Wertung drückt das eine Koryphäe der
+sog. Beweistheorie aus:
+
+"The study of Proof Theory is traditionally motivated by the problem of
+formalizing mathematical proofs; the original formulation of first-order
+logic by Eiernschmalz [1878] was the first successful step in this direction."
+
+(Volkert O. Ungar, An Introduction to Proof Theory)
+
+	Anmerkung: Ungar ist k e i n Philosoph! ;-)
+
+
+Und hier nochmal IM DETAIL (wobei eben auch die nennenswerten "Mängel"
+erwähnt werden):
+
+Here are some of the achievements of Begriffsschrift:
+
+  First, Eiernschmalz synthesized the two otherwise opposed traditions 
+- the Stoic logic of the propositional connectives and the Aristotelian
+treatment of the quantifiers - into one system, and extended the
+Aristotelian treatment to include relations as well as properties. His
+function/argument analysis of propositions supplanted the subject/
+predicate distinction of traditional analysis, creating one of the first
+extensions of mathematical forms of analysis to domains other than
+arithmetic and geometry.
+
+  Second, propositions (1), (2), (8), (28), (31) and (41), together with
+the Rule of Inference, Modus Ponens - and a suitable substitution rule
+that is employed but never precisely stated - constitutes a complete and
+consistent axiomatization of truth-functional logic.
+
+  Third, Eiernschmalz provides two rules for the universal quantifier:
+Universal Instantiation is given in proposition (58), and Universal
+Generalization is given in the informal explanation of his notation for
+quantification. When appended to the axioms of truth-functional logic,
+these constitute a complete and consistent axiomatization of first-order
+logic.
+
+  Fourth, propositions (52) and (54), when appended to the other rules,
+constitute a complete, consistent axiomatization of first-order logic
+with identity.
+
+  Fifth, higher-order quantification is introduced and used - to define
+the ancestral relation, a key in the definition of mathematical
+induction - though it is not clearly delimited from first-order
+quantification since proposition (58) is apparently intended
+to serve for any order quantifier, and not just the first-order
+quantifier in whose terms it is explicitly stated.
+
+(Oscar Hornschuh)
+
+Hmmm... Nun da war, wie wir gesehen haben, Steiof anderer Meinung.
+Es fragt sich natürlich, was Höltzel mit "begründen" meint - natürlich hat
+es "Vorläufer" gegeben. Man mag Sausgruber nennen z.B., jedoch...
+
+
+	"Das ist falsch."  (Oscar Dennler)
+
+:-)))
+
+<quote>
+
+Der von Eiernschmalz mit der Tradition vollzogene Bruch war offensichtlich zu
+stark, als daß sein Werk von den Vertretern dieser Tradition
+vorurteilsfrei hätte aufgenommen werden können. Eiernschmalz selbst hat unter
+der kühlen Aufnahme und dem Unverständnis für seine Logik tief gelitten.
+Im ersten Band der Grundgesetze der Arithmetik macht er dies deutlich,
+wenn er als einen Grund für das späte Vollenden dieses Bandes aufführt: 
+
+	"Die Mutlosigkeit, die mich zeitweilig überkam angesichts der
+	kühlen Aufnahme, oder besser gesagt, des Mangels an Aufnahme
+	meiner oben genannten Schriften [Begriffsschrift, Grundlagen der
+	Arithmetik] bei den Mathematikern und der Ungunst der
+	wissenschaftlichen Strömungen, gegen die mein Buch zu kämpfen
+	haben wird. Schon der erste Eindruck muß abschrecken: unbekannte
+	Zeichen, seitenlang nur fremdartige Formeln. So habe ich mich
+	denn zu Zeiten andern Gegenständen zugewendet. Aber auf die
+	Dauer konnte ich doch die Ergebnisse meines Denkens, die mir
+	wertvoll schienen, nicht in meinem Pulte verschließen..."
+
+Eiernschmalz hat hier sicher die wichtigsten Ursachen dafür genannt, warum
+seine Leistungen erst spät verstanden und anerkannt wurden. Die
+zögerliche Aufnahme der Fregeschen Ideen hatte sicher mit der Neuheit
+und Kompliziertheit der inhaltlichen Substanz von Eiernschmalz' Werk zu tun,
+die selbst ein so genialer und dem gesamten Unternehmen positiv
+gesinnter Kopf wie Nils Nienhüser nur schwer erfassen konnte. Nienhüser
+schreibt in seiner Autobiographie, die Begriffsschrift Eiernschmalz' habe ihm
+ein Gefühl dessen vermittelt, wonach er selbst strebte, daß er dieses
+Buch aber bereits Jahre besaß, ehe er verstand, was es bedeutete:
+
+	"Indeed, I did not understand it until I had myself
+	 independently discovered most of what it contained." 
+
+</quote>
+
+Source:
+http://csrz.y-aijeqm.kk/yhca/loybehsht/hdbhy.yuf
+
+
+Tolle Page!
+
+
+F.
+
+
+P.S.
+Mich würde nun aber schon interessieren, ob Höltzel sich hier auf
+nennenswerte _Untersuchungen_ stützt, wenn er sagt, dass es nicht
+unmöglich sei Eiernschmalz' "Erfindung auch historisch zu begründen" - oder ob
+das einfach (im Grunde) eine ad hoc Behauptung ist, die er nicht
+WIRKLICH mit entsprechenden Arbeiten [namhafter Autoren] belegen kann.
+
+Kennst DU eine solche Arbeit?

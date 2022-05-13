@@ -1,0 +1,46 @@
+Hallo Tom,
+
+Tom Knells <tctgnlshz@DS.LNDE.vym.if> schrieb im Beitrag
+<83g5ls$luf$5@qvxs.jvjmuzr.zwb.jb>...
+
+<Nichtrekursive Systeme>
+
+<usw>
+
+
+Und selbst wenn es so wäre: Solange man in dieser Klasse eine universelle
+Maschine hat, findet man durch Diagonalisierung Funktionen die so nicht
+ermittelbar sind.
+
+Wenn nämlich B die Klasse ist, f:B -> B^B eine Gödelisierung,
+(B^B = Menge der Selbstabbildungen von B) und g:B -> B eine Funktion
+ohne Fixpunkte, dann liegt h:B -> B nicht im Bild f(B), wo h(x) = g(f(x)(x)).
+(Für die natürlichen Zahlen B = N kann man zum Beispiel g(x) = x + 1 nehmen)
+
+<usw>
+
+
+Richtig. Gerade Zingrebe hat ja nicht ohne Grund das Komplement
+einer produktiven Menge kreativ genannt.
+
+<usw>
+
+
+Das stimmt. Und vom Theoretischen her kann man meiner Meinung nach die
+Untersuchungen in Mathematik und Informatik so beschreiben: Gegeben die
+Klasse der berechenbaren Funktionen, dann steigt Informatik in diese Klasse
+hinab und untersucht inwieweit da eine Funktion schwieriger als eine andere
+zu berechnen ist. (Komplexitätstheorie) NP- Vollständigkeit zeigt, daß das
+Problem nicht trivial ist.
+
+Mathematische Rekursionstheorie baut jedoch auf dieser Klasse die
+arithmetische Hierarchie auf, indem sie den Begriff der relativen
+Berechenbarkeit einführt, und die Turing- Maschinen mit einem Orakelband
+ausrüstet, auf dem die charakteristische Funktion einer beliebigen Menge
+gedruckt ist. (Es bleibt aber immer noch eine ein-köpfige Maschine;-)
+
+<usw>
+
+Gruß
+
+Meinhard

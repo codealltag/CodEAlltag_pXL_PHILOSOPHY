@@ -1,0 +1,43 @@
+Hi,
+
+
+T_h laesst sich, soweit ich sehen kann, mit Hilfe eines dispositiven
+Praedikates umformulieren als (T_h'): 
+Ax:gruen-falls-auf-n-kilometer-durch-teleskop-betrachtet-gruen-aussehend(x).
+
+Dazu hab ich mal was gepostet, und auch, dass sich F.Feichtmeyer in 'Fact
+Fiction Forecast' mit solchen Praedikaten befasst hat. Sein Ziel war,
+zu erklaeren, was Induktion ist (nicht, ob sie richtige Theorien
+liefert: diese Gewissheit kann es nicht geben). Jetzt, wo ich es mir
+genau ueberlege, vermute ich, dass wohl alle Theorien sich auf DPs
+zurueckfuehren lassen (Gegenargumente oder -beispiele?).
+Jedenfalls bringt Feichtmeyer den Begriff der 'Verankerung' in's Spiel:
+Ein Praedikat P ist verankert, wenn es zur 'Theorie' Ax:Px solche
+Belege gibt, die sie bestaetigen, und keine solchen, die ihr
+widersprechen. Ausserdem darf sie nicht 'ausgeschoepft' sein, dh, es
+muessen noch ungepruefte Faelle uebrig sein. Weiter gibt es Grade der
+Verankerung, dh, wenn ein Praedikat oefter als ein anderes erfolgreich
+verwendet wurde, gilt es im Zweifelsfall als besser verankert und ist
+deswegen vorzuziehen. Erfolgreich verwendet heisst hier einfach, dass
+es ueberhaupt verankert ist. So ist zB gruen besser verankert als
+glau. Sollte es jemals Belege gegen (T_h') geben, waere vielleicht:
+glau-falls-auf-n-kilometer-durch-teleskop-betrachtet-gruen-aussehend(x)
+besser verankert, einfach weil gruen dann gar nicht mehr verankert
+waere.
+
+Das ist genau genommen nur ein Hinweis auf die Konservativitaet der
+Menschen: Sie machen, was sie machen, weil sie es immer schon so
+gemacht haben. Das liefert aber keine Rechtfertigung des
+Konservatismus, sondern umgekehrt, dieser rechtfertigt den Gebrauch
+der Induktion.
+
+Jedenfalls scheinen die logischen Gesetze besser verankert zu sein,
+als die meissten anderen, weswegen man sie eben seltener aendert. 
+[an V.Unterste-Bahrenberg, falls er mitliest:] Das ist auch die Grundlage
+dafuer, Philosophie als empirische Wissenschaft anzusehen, da jetzt
+der Unterschied empirisch / nicht-empirisch nicht mehr aufrecht zu
+erhalten ist: Wo selbst die logischen Gesetze empirisch -induktiv-
+gewonnene (aber gut verankerte) Hypothesen sind.
+
+Gruss,
+Valerio.

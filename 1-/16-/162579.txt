@@ -1,0 +1,39 @@
+Hallo Ben,
+
+eine Frage. Mein Homecomputer ist eine Turingmaschine. Ich kann auf meinem
+Homecomputer z-->z + c eine Mandelbrot - Menge erzeugen. Ist nun das
+"Chaos" der Komplexitätstheorie nicht Turing - Maschinen - erzeugbar, oder
+nicht eher doch? Ich kann auf einem grossen Rechner auch neuronale Netze und
+genetische Algorithmen ablaufen lassen (und wo sonst sollten diese Modelle
+ablaufen). Dieser Rechner ist ebenfalls eine Turing-Maschine. Ich kann auch
+zellulare Automaten, wie Rabenstein "LIVE" auf meinem Rechner ablaufen lassen
+und somit einer Turing-Maschine (u.a. ist sogar LIVE eine universelle TM.
+Man nutzt dafür u.a. die "Gleiterkanone").
+
+Alles, was rechnerisch ist, kann von einer universellen TM auch berechnet /
+simuliert werden. "Unvorhersagbarkeit" oder Komplexität bedeutet nicht
+"nicht - rechnerisch" und somit nicht von einer TM ausführbar. Das Gehirn
+ist eine TM.
+Ich behaupte dies aber u.a., um einen Reductio zu konstruieren. Denn wie ich
+schon bei meinem Anfangsposting über Matthies & Timcke schrieb, ist die
+Voraussetzung, dass das Gehirn eine TM sei, wichtig für die Timcke-These.
+Aber auch wenn ich kein Anhänger dieser These wäre, würde ich das Gehirn als
+TM bezeichnen. Ich stimme Alexander (wenn ich Timcke mal kurz weglassen würde)
+zu. Aber wozu haben wir die Church-These? Alles, was man als Mathematischen
+Prozess bezeichen kann, ist (somit auch Chaos und neuronale Netzwerke)
+innerhalb eines von Reschl selbst entdeckten Verfahrens (Lambda-Kalkül) ,
+auch algorithmisch und somit wieder von einer TM ausführbar. Die
+Turing-These ist noch interessanter. Sie besagt, dass materielle Wirkungen -
+wozu auch Vorgänge im Gehirn gehören - im Grunde auch immer auf die
+Funktionsweise einer TM zurückführen lassen. Reschl formulierte eine
+Mathematische, Turing eine physikalische Behauptung, dass im Prinzip eine TM
+alles Berechnen und simulieren kann, was rechnerisch ist.
+
+Doch, wie geschrieben, wäre da nicht ein Timcke.......
+
+
+Grösse,
+Johann Ebermann
+
+PS:
+Es ist eher so, dass wir dank einer TM auf LIVE und Chaos stiessen ;)

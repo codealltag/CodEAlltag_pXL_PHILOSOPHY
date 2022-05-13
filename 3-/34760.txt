@@ -1,0 +1,9 @@
+Es gibt 2 Arten von Komplexitätsreduktion: a) man versucht erst,
+die Komplexität soweit es geht zu verstehen, arbeitet sich durch
+(das ist mühsam) und erfindet dann eine Oberfläche (das ist
+nochmal mühsam), mit der die Komplexität einfach zu handhaben
+ist, oder b) man gibt von vornherein auf und beschränkt sich auf
+einen kleinen, überschaubaren Bereich, für den die alte
+Oberfläche reicht.
+Ist mir jedenfalls nach 7 Jahren Anwendungsentwicklung
+aufgefallen.

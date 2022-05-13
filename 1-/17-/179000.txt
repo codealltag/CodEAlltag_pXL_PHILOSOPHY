@@ -1,0 +1,14 @@
+Der Unterschied ist, daß jeder Beobachter nur einen einzigen 
+Zustand aus der Menge als Systemzustand wahrnehmen wird, während 
+im "deterministischen" Fall das gesamte Ergebnis nicht so aus-
+einnandergenommen werden kann. (Ich denke, das könnte man pr-
+zisieren.) 
+
+Allerdings glaube ich nicht, daß solche Funktionen auf Mengen 
+tatsächlich nichtdeterministische Theorien wiederspiegeln. Denn 
+sie besagen ja, daß der spätere Zustand eine Menge von Einzel-
+zuständen ist, während nichtdeterministische Theorien behaupten, 
+daß der spätere Zustand ein definierter Einzelzustand ist, der 
+nur durch den vorhergehenden nicht festgelegt ist. 
+
+Sandro

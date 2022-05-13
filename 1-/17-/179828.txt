@@ -1,0 +1,28 @@
+Ich bezog mich mit meiner Anmerkung auf formale Modelle von
+Evolutionsprozessen, wie sie u. a. fuer Simulations- und
+Optimierungszwecke eingesetzt werden (vgl. z. B. Schwefel: Numerical
+optimization of computer models). Diese Modelle basieren auf
+zufaelligen Mutationen und Rekombinationen/Cross Over sowie einer
+deterministischen oder stochastischen Selektion. Unter geeigneten
+Bedingungen kann fuer diese Modelle die globale Konvergenz gezeigt
+werden, also dass der Evolutionsprozess ein globales Optimum erreicht,
+was uebrigens viele andere Optimierungsmethoden nicht schaffen (und
+z.B. in einem lokalen Optimum steckenbleiben).
+Daher werden evolutionaere Algorithmen gerade auch fuer komplexe
+Probleme eingesetzt.
+
+
+Genau. Konstanz kommt nicht in der Realitaet vor. Es ist eine
+methodologische Annahme, eine ceteris paribus-Bedingung, um ueberhaupt
+Aussagen treffen zu koennen. Allerdings mag es sein, von den
+Konstanzbedingungen teilweise abzusehen und das Problem als
+Kontrollproblem zu formulieren, so dass immer noch Aussagen ueber die
+Guete-Eigenschaften des Prozesses gemacht werden koennen.
+
+
+Die Frage unter einigermassen realistischen Bedingungen ist zunaechst
+einmal, wie ein Ziel bzw. die Messung von Guete definiert wird. 
+Ohne das scheint mir die Spekulation ueber eine Entwicklung zum
+"Hoeheren" recht metaphysisch zu sein.
+
+Gruss, Fabrice

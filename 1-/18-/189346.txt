@@ -1,0 +1,78 @@
+Am 29.03.99, 00:13:29, schrieb Fredy Heideler <ertmq@rost.cxhf.yf> zum=20
+Thema Re: Computer / Logik:
+
+
+[snip]
+
+einem
+trotzdem
+
+in 1s,
+positive
+
+
+man
+
+
+Definieren kann man alles. Klassische Komplexitätsmaße sind eben ohn=
+e=20
+Beschleunigung definiert. Von anderen Maßen muß eben anderes erwarte=
+n.=20
+Frage bleibt, ob so ein Maß sinnvoll ist. Aus der Literatur kennt man =
+
+eine ganze Reihe von komischen Maßen:
+
+Platzkomplexität: Maximaler Verbrauch von Speicherzellen (wohl nicht=20
+sehr merkwürdig)
+Umkehrkomplexität: Wie oft ändern die Lese/Schreibköpfe ihre=20
+Bewegungsrichtung.
+Tintenkomplexität: Wie oft wird ein Symbol geändert.
+Alternierungskomplexität: Eine nichtdeterministische TM wechselt=20
+zwischen Existenzzuständen (normaler Nichtdeterminismus) und=20
+Allzuständen (ALLE nachfolgenden Pfade müssen zur Akzeptanz führen=
+).
+usw,
+
+Die Bedeutung der Komplexitätstheorie hängt übrigens nicht an der =
+
+polynomiellen Übertragbarkeiten auf andere Maschinenmodelle, zumal das=
+=20
+ja auch gar nicht allgemein stimmt (siehe Vektormaschinen, PRAM oder=20
+andere paralle Rechenmodelle oder auch RAMs mit Multiplikation).
+
+doch
+
+der
+
+
+Leider zieht dieser Beweis nicht in dem konstruierten Fall der=20
+exponentiell beschleinigenden TM (ebTM). Er würde nur zutreffen, falls=
+=20
+die ebTM immer eine endliche Ausgabe produziert, daß tut sie aber ja=20
+gerade nicht (worauf ich bereits in einem Posting hinwies)! Es würde=20
+erst zu Problemen kommen, wenn ebTM in der Lage wären, die=20
+Unendlichkeit einer Ausgabe festzustellen und in einen definierten=20
+Endzustand übergehen oder eine definierte Ausgabe liefern könnten. D=
+a=20
+jedoch am Rechenmodell nichts geändert wurde, also insbesondere immer =
+
+noch die gleichen Schritte gemacht werden, haben wir es hier lediglich=20
+mit einer Umbenennung zu tun:
+
+Statt zu sagen: "die TM M hält nicht", sagen wir jetzt "die ebTM M'=20
+produziert eine unedlich lange Ausgabe".
+
+Das zeigt, daß logisch nichts hinter diesem Modell steckt, das=20
+Halteproblem wird nicht gelößt, sondern umbenannt.
+
+Spielerei: Was passiert, wenn man der TM erlaubt in jedem Schritt -=20
+informationsverlustfrei - ihr Arbeitsband auf die Hälfte zu=20
+komprimieren oder sich in jedem Schritt die Anzahl der=20
+Arbeitbandsymbole verdoppelt?
+
+MfG
+Mathäus
+--
+Mathäus Imhoff
+	keep things simple. as simple as possible. but no simpler=20
+	(S. Seelich)

@@ -1,0 +1,18 @@
+Also ich versuche das nochmal (irgendwie mit der Praedikatenlogik)
+
+(Ex)(Ey)(~x=y & Kx & Ky & B(x,y) & B(y,x) & 
+(z)((B(x,z) v B(y,z)) & ~z=x & ~z=y 
+-> Kz & B(x,z) & B(z,x) & B(y,z) & B(z,y)) &
+(u)(w)(~u=w & ~u=x & ~w=x & B(x,u) & B(x,w) -> Ku & Kw & B(u,w) & B(w,u)))
+
+Ich hoffe, dass ich mich nicht verheddert habe, aber das soll bedeuten:
+
+Es gibt 2 Personen x und y, die Kuenstler sind und sich gegenseitig bewundern
+und wenn es andere Personen z gibt, die von x oder y bewundert werden, dann 
+sind das auch Kuenstler und die Bewunderung beruht auf Gegenseitigkeit, und
+wenn 2 von x verschiedene Personen von x bewundert werden, dann sind sie
+Kuenstler und bewundern sich auch gegenseitig.
+
+
+Gruss Berend
+--

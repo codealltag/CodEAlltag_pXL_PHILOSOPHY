@@ -1,0 +1,17 @@
+Dies hat nichts mit Uhotan sondern nur mit dem eingestellten
+Zeichensatz zu tun.
+Da die englische Sprache (u.a. dank "unsere" Eroberungsplaene)
+vorherrschend ist, wurden in einer der beiden verbreitest
+Zeichensaetze auch nur die Buchstaben beruecksichtigt,
+die in dieser Sprache vorkommen.
+( Eine der beiden Zeichensaetze (EBCDIC) spielt
+  im privaten bereich keine Rolle, da sie derzeit fast nur
+  bei grossen Buchhaltungsysstemen (Datenbanken) verwendet wird.)
+
+Die deutsche (und andere nationale) Sonderzeichen � (ae) � (oe) � (ue)
+ � (Ae) � (Oe) � (Ue) � (ss) werden dann programmabhaengig
+ausgewertet. 
+
+Remo
+   der aus diesen Grunde die Sonderzeichen in newsgroups
+   vermeidet.

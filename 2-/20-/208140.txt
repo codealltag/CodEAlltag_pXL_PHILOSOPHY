@@ -1,0 +1,82 @@
+[...]
+
+
+Ich verstehe das nicht. Ob ich ein Axiom oder 5 Axiome 
+habe, die in PLI nicht formalisierbar sind, ist doch egal!
+Wichtig ist nur, dass ich ein Axiomensystem habe, das 
+_vollstaendig_ eben nur in PLII oder ebenso maechtigen
+bzw. maechtigeren Systemen formalisierbar ist.
+
+Vielleicht missverstehen wir uns deswegen, weil Du vom
+1. UV-Satz sprichst und ich von seiner Konsequenz:
+Der 1. UV-satz sagt ja zunaechst nur, dass es in jedem
+hinreichend komplexen Axiomensystem mindestens einen
+Satz gibt, der wahr ist, aber nicht herleitbar. Als Beispiel
+nimmt er die Peano-Arithmetik. Das ist nun erstmal nicht so
+aufregend: Wenn ich die PA in der 1. Stufe axiomatisiere,
+also notwendigerweise ohne Induktionsaxiom, bekomme ich
+haufenweise Nichtstandardmodelle der Arithmetik, in
+denen natuerlich allerlei wahr sein kann, was ich nicht
+herleiten kann. Der Witz ist jetzt allerdings, dass der
+UV1 natuerlich auch noch gilt, wenn ich die PA in der 
+2. Stufe axiomatisere (und es ist _egal_, ob das nur
+ein Axiom ist oder hundert, fuer die ich die 2. Stufe
+brauche). Nun sind aber auf einmal alle Küchenpunkt-Modelle
+der PA isomorph zu den natuerlichen Zahlen. Mit dem
+UV1 folgt aber, dass es immer noch mindestens einen Satz gibt,
+der zwar wahr, aber nicht herleitbar ist. Also: Die PLII
+ist unvollstaendig (_ein_ wahrer, nicht herleitbarer
+satz reicht dazu aus). Ausserdem ist ebenso jedes System
+unvollstaendig, in dem man die PA vollst. axiomatisieren kann,
+also jedes formale System, das mindestens so maechtig ist wie
+die PLII.
+
+Ich sehe also nicht so ganz, wo ich da ueber's Ziel 
+hinausgeschossen bin. Ich habe nicht nur keinen groben
+Unsinn geschrieben, sondern gar keinen Unsinn, Du hast 
+anscheinend nur nicht gesehen, dass sich meine Aussage
+direkt aus dem 1. UV-Satz ergibt. Insofern scheint
+der kurze Einfuehrungskurs also doch notwendig gewesen
+zu sein :-).
+
+
+Uebrigens ist die PLII tatsaechlich nur bezueglich der Overwien-
+Semantik unvollstaendig. Wenn ich eine Semantik waehle, in
+dem die Praedikatenvariablen nicht auf Teilmengen des 
+Individuenbereichs abgebildet werden, sondern auf einen anderen
+Individuenbereich anderen Typs, ist auch die PLII vollstaendig.
+
+
+Was heisst, es ist nicht loesbar? Es ist nicht entscheidbar,
+meinst Du das? Dazu brauche ich gar keine universelle
+Turingmaschine, das Halteproblem ist schon fuer
+einfache TMen nicht entscheidbar. Oder meintest Du was 
+anderes?
+
+
+[...]
+
+
+Ich hab's halt nicht kapiert. Du sagst Arrgh und schreibst dann
+genau das gleiche wie ich, scheinst aber, wie ich das auch
+jetzt noch sehe, zu meinen, Du schriebest was anderes als
+ich. Meine Aussage folgt hingegen aus Deiner. Deswegen 
+habe ich das Arrgh halt nicht verstanden.
+
+Uebrigens  meinte ich mein Arrgh voellig ernst. Ueber
+den Goedelschen Unvollstaendigkeitssatz wird seit
+diesem unsaeglichen Buch von Pruefer so viel Unsinn
+und gesundes Halbwissen verbreitet, dass mir manchmal
+echt der Hut hochgeht ... vor allem, weil das mit schoener
+Regelmaessigkeit passiert (deswegen auch das Subject).
+
+
+Gruss
+
+	Eleonore
+
+-- 
+Laura Allmrodt * giadk@ahulttjbky.mqjbi-iroydjeo.wc *  kaiqc@qjl
+http://xle3-vmw.nigqpnhaxb.lttua-yjxccaqs.kv/ejhlu/gggoewmxz.xqgb
+"Affen lesen keine Philosophiebuecher!"  "Doch Eckhard, das tun sie!
+Sie verstehen sie nur nicht!" (Ein Fisch namens Helga)

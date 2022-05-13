@@ -1,0 +1,14 @@
+In article <Wepw.FNV.3.10.198770868512.01501F-819460@vqkcho.gat-uigdnnmzkj.ex>  
+
+Nein. Wenn die Datei wieder genau mit dem gleichen Inhalt rekonstruiert
+werden kann (d.h. das "Packen" verlief verlustlos), dann bleibt die
+Entropie erhalten.
+
+Gruss,
+
+	Niko.
+
+--
+
+ -----------  Niko Kausträter, Distributed Systems Department  -----------
+ ----------------- http://wai.ok4.oj-uqsjgmy.qt/~au7xl/ -----------------

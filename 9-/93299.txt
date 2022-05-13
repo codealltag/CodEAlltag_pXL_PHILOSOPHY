@@ -1,0 +1,45 @@
+Dennis Püttger schrieb
+
+
+Hallo  Dennis,
+
+aber wenn der Inhalt gemeint war dann macht das
+ganze posting für mich gar keinen Sinn mehr.
+
+Denn wo ist das neue der Gleichheit
+_des Inhalts_ zweier Speicherzellen gegenüber
+
+der Gleichheit des Inhalts
+- 2er Rauminhalte
+- 2er Kisten Tomaten
+- 2er Bücher
+- 2er ... ?
+
+
+Du hast das hier einfach mißverstanden:
+
+"Nur wird eben bei a==b und &a==&b etwas
+anderes verglichen."
+
+"Einmal ob die beiden Objekte gleich sind, das
+andere mal ob die beiden Objekte identisch sind."
+
+Es werden beides Mal Zahlen (in einer Speicherzelle)
+verglichen, einmal Zahlen, deren Bedeutung wir nicht
+kennen, und das andere Mal Zahlen, von denen du
+weit, daß es Hausnummern (Speicheradresse) sind.
+Und in deinem Beispiel ist es auch noch die gleiche
+Hausnummer (ein und der selben Speicheradresse).
+
+Das ist alles ;)
+
+Gruß
+ps. La uns die Debatte darum, ob es einen
+Unterschied macht, daß
+- "die beiden Objekte gleich sind"
+- "die beiden Objekte identisch sind"
+
+Mir liegt nichts daran, ob das einen Unterschied
+macht, ich wollte nur darauf hinweisen, daß das
+(&) die Adreß- bzw Referenznotation in c/c++ ist.
+--

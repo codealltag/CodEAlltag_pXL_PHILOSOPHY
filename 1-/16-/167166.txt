@@ -1,0 +1,23 @@
+Gemeinde Wahrscheinlichkeit ist also 1.0 (100%). Wahrscheinlichkeiten von Huhn
+und Ei sind 0.5 (0.5 + 0.5 = 1.0). Wahrscheinlichkeit, dass eine Huhn
+ausschluepft, ist 0.5. Wahrscheinlichkeit von zwei Erreignissen wird durch
+Multiplizierung der Wahrscheinlichkeiten dieser Erreignisse berechnet. Deshalb
+die  Wahrscheinlichkeit von der Entwicklung der Huehne aus einem Ei ist 0.5 x
+0.5 = 0.25 (25%) und der Rest (75%) bleibt fuer das Huhn.
+
+
+Deswegen muessen wir Huhn und Hahn zusammen betrachten. Allerdings scheint dann
+die Sache als Unrecht - zwei gegen ein. Aber wir koennen ruhig von mehreren
+Eiern reden, weil sowieso Wahrscheinlichkeit der Entwicklung aus endlicher Zahl
+von Eiern immer kleiner ist:
+
+Huhn+Hahn : Ei  => 0.75 : 0.25
+Huhn+Hahn : Ei+Ei  => 0.625 : 0.375
+Huhn+Hahn : Ei+Ei+Ei  => 0.5625 : 0.4375
+............................................................
+
+
+Eben - Mathematik unterstuetzt die SCHOEPFUNG !!!
+
+Gruss, Steffen
+http://fccwqwd.zwq.utr/budfpd/jgdnqq/

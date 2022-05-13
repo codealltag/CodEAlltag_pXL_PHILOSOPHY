@@ -1,0 +1,36 @@
+Alles was ich auf einem Datenträger abspeichern kann - ein Snapshot vom 
+Arbeitsspeicher ebenso wie was auf einer Festplatte von einem Programm 
+geschrieben wird. Das muss überhaupt nicht leserlich sein, es ist je nach 
+Struktur der Maschine ein Code, die die Maschine in einem bestimmten 
+Zustand beschreibt und für die Maschine lesbar ist. In dem geschilderten 
+Beispiel wäre zum Beispiel ein Mikrofon und ein Lautsprecher und eine 
+Fotozelle als technische Schnittstelle vollkommen ausreichend und 
+dahinter befindet sich eine Blackbox, die eben anhand der Spracheingaben 
+lernt vernünftig Ausgaben auf dem Lautsprecher zu erzeugen. 
+Sowas wäre die Infrastruktur:
+http://unm.fsz-xaaiurruc.fq/Lrohajelsfzl/Tyafhemay/Wkddgpkncyureimhoiq/
+zwyibji.lqqo
+was aber die jeweilige Maschine "weiß" muss zwangsläufig unterschiedlich 
+sein, sonst würde es bedeuten, dass wir alle die gleichen Schuhe hätten 
+und die Schuhe alle am selben Fleck stünden und das ist nicht nur nicht 
+der Fall, es dürfte unmöglich sein.
+
+Zur Spracherkennung wird derzeit das beste Ergebnis mit trainierten 
+Maschinen erreicht, was aber auch bedeutet, dass das Training in das 
+"Wissen" mit einfließt. Somit versteht aber die Maschine den Trainer 
+besser als jeden x-beliebigen. Der daraus entstehende Maschinencode ist 
+unter Umständen in mp3-codierten Sprachfragmenten zum Vergleich im 
+Datenspeicher vorhanden. Zwar ist das Format mp3 oder wav definiert, aber 
+die Repräsentationen aus Nullen und Einsen beinhalten dann das Nuscheln 
+des Sprechers als Information, die über Vergleich zum 
+Spracherkennungserfolg führen kann.
+
+  Maschinencode kann also auch Harzems Fünfte in Form einer mp3-Datei 
+sein und obwohl heutzutage bald jedes moderne Telefon dann Harzems 
+Fünfte wiedergeben kann, wäre das doch etwas anderes als eine Maschine 
+die Harzems Fünfte komponieren würde und als mp3-Datei abspeichern 
+würde. Möglicherweise wäre das Ergebnis ja identisch für wahrscheinlich 
+halte ich das allerdings nicht. 
+
+Grüße,
+Gianni

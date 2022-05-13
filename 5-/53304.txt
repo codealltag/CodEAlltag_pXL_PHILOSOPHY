@@ -1,0 +1,40 @@
+Sie lautete weder so noch so. Ich hab Dich auf Deine Quotemarderei
+ja schon angesprochen.
+
+
+Du verstehst immer noch nicht. Ich habe eine strenge Totalordnung von |C
+bereits angegeben.
+
+Ich habe das mit "übrigens" eingeleitet, weil ich das gar nicht müsste,
+denn die Elemente von |C würden auch so unter meine Definition von
+Zahlen fallen, wenn |C etwa nicht zu ordnen wäre, sind komplexe Zahlen
+doch zweifelsfrei Tensoren eines Vektorraumes über |R in einem Körper.
+So sind sie ja definiert.
+
+
+Das habe ich bereits getan. Die angegebene strenge Totalordnung ist eine
+solche:
+
+- sie ist transitiv, weil aus c1 > c2 und c2 > c3 folgt, dass c1 > c3,
+  das folgt aus der Transitivität der verwendeten Halbordnungen sowie
+  ihrer Kombination
+
+- sie ist trichotomisch, denn c1 und c2 sind genau dann gleich, wenn sie
+  in beiden Komponenten gleich sind (das folgt aus der Definition der
+  komplexen Zahlen); c1 und c2 lassen sich über die angegebene
+  Kombination der beiden Halbordnungen immer anordnen, wenn sie ungleich
+  sind
+
+Beides ist trivial.
+
+
+Nein. Du hast gequotemardert.
+
+
+Was auch immer Du damit sagen möchtest. Mir scheint eher, Du verstehst
+nicht allzuviel von Mathematik.
+
+Viele Grüsse,
+VB.
+-- 
+Bitte beachten Sie auch die Rückseite dieses Schreibens!

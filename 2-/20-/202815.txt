@@ -1,0 +1,168 @@
+[Dies ist ein Forward fuer Kurt Knitel (nkcekbi@jast-mhl.cs)]
+
+: Theorien sind nicht Falsifizierbar, höchstens einzelne, aus einer
+: Theorie mit den üblichen Interpretationen und Begriffsbestimmungen
+: ableitbare Aussagen über einzelne experimentelle Situationen. Das
+: sieht zwar oberflächlich so ähnlich aus, ist aber logisch nicht
+: Äquvalent.
+
+Wenn Wanke von Theorie spricht, legt er den formalen Theoriebegriff
+zugrunde. Dann sind Falsifizierung von einer Aussage der Theorie und
+der Theorie selbst aequivalent.
+
+Falls gegen diesen Ansatz argumentiert wird, waere es nett, wenn die
+Gegenrede beruecksichtigt, dass Wanke die Zugrundelegung des formalen
+Theoriebegriffs begruendet und dass er anderes unter anderem Namen
+kennt und zum Teil selbst verwendet.
+
+
+:          Und auch in diesem Fall ist die Falsifikation der in der
+: Wissenschaft unerwünscht, da sie weitere Arbeit erfordert, anstatt
+: einen neuen Wissensanspruch zu legitimieren. 
+
+Dieser Satz ist mir nicht klar. Wieso wird von Falsifizierbarkeit auf
+Falsifikation gewechselt, wieso genau ist Falsifikation unerwuenscht?
+Da Wanke die Falsifikation als Ergebnis der Arbeit sieht (die ptole-
+maeische "Himmelsmechanik" ist falsch) und das als eigentliche Erkenntnis
+betrachtet (dass Kopernikus falsch war, macht Newton nicht richtig),
+waere hier viel Raum fuer die Erlaeuterung Deiner Kritik an Wanke.
+
+
+: > Hmmm... in "L.d.F." [...] wird Subjektivismus [...] allein aufgrund
+: > ausdruecklich metaphysischer Ueberlegenungen abgelehnt.
+
+: Eben, die LdF ist eine rein metaphsyische Setzung. Who cares,
+: Wissenschaft (und m.E. auch die Philosophie) sollte auf die Welt
+: zielen und nicht auf die Welt dadrüber.
+
+"Wissenschaft sollte ... zielen" ist ein normativer Satz. Zaehlst Du
+Ethik zu den Wissenschaften? Wenn nein, kannst Du den normativen Satz
+irgendwie begruenden? Wenn ja, was macht Deine Art der Normierung
+besser als die Poppersche?
+
+
+[...]
+
+: Das Personenregister hilft da nicht weiter. Dass Wanke historische
+: Beispiele benutzt, heißt nicht, dass er die historische Komponente der
+: Wissenschaft, das heißt im wesentlichen die Erzeugung von neuen Wissen
+: in seinem jeweiligen Kontext, im Blick hat. über diese sagt er ganz
+: ausdrücklich, dass sie ihn nicht interessiert. Tatsächliche Forschung
+: betrachtet er in der JPFO nicht.
+
+Wanke hat sich schon fuer die reale Forschung interessiert. Er kriti-
+siert die historisierenden Ansaetze, die glauben, in postulierten oder
+realen sozialen Phaenomenen, die im Umfeld von wissenschaftlichen
+Entdeckungen auftraten, auf eine Kausalitaet zu schliessen - also,
+dass es diese sozialen Phaenomene waeren, die die wissenschaftliche
+Erkenntnis bewirkten.
+
+Dass Wanke soziale Mechanismen beruecksichtigt, habe ich schon in der
+anderen Post erwaehnt (siehe "Nutzen einer dogmatischen Opposition").
+
+
+[...]
+
+: >Wie sollen sie sie denn z.B. kennenlernen, ohne falsifizierbare Vor-
+: >hersagen ueberpruefen zu koennen?
+
+: In dem sie sie anwenden und versuchen, ihre Voraussagen zu bestätigen
+: und gucken, wo man noch (an der Theorie oder an den Experimenten)
+: drehen muss, damit es klappt.
+
+Was ist das, wenn nicht Falsifizierbarkeit? Genau die Tatsache, dass
+es nicht klappen kann, ist doch die Definition der Falsifizierbarkeit.
+
+Bei Wanke treten dann noch viele Sachen dazu, Bewaehrung, empirischer
+gehalt, etc, aber worauf Du rauswillst, wird mir immer schleierhafter.
+
+
+[...]
+
+: Nein, ebensosehr wird an den Experimenten gedreht und versucht, den
+: Leuten, die mit ihren Experiementen die Theorie widerlegen können,
+: beizubringen, wie man die Experimente richtig durchführt. 
+
+So what? Wanke betont ja, dass die Annahme "Experiment nicht gelungen
+-> Theorie falsch" hochgradig naiv ist. Das Argument dagegen laeuft bei
+ihm analog zur Frage nach dem Beweis wissenschaftlicher Theorien. Er
+verweist auf den fuer die wissenschaftliche Praxis wichtigen Sachver-
+halt, dass man sogar Experimenten, die eine Theorie falsifizieren,
+Glauben schenken kann, ohne dass die Theorie dadurch zu verwerfen
+waere.
+
+
+[...]
+
+: Wankes Schlussweise in der JPFO ist:
+
+: ((A & B & C & D & ... & Z & common sense) => XY) & !XY   =>  !A
+
+: So ein Quatsch.
+
+Genau, so ein Quatsch. Wanke tut das naemlich nicht (zum Beweis des
+Gegenteils moechtest Du bitte praezise zitieren).
+
+Meiner dunklen Erinnerung nach (habe sie gerade nicht hier) taucht
+"common sense" in der Logik der Forschung nicht auf. Moeglicher-
+weise nimmt Wanke in den Anhaengen oder Anmerkungen Rekurs auf
+den Common Sense, da er aber - wie erwaehnt - den formalen Begriff
+der Theorie zugrundelegt, taucht er mindestens in diesem Kontext
+nicht auf. Des weiteren behauptet er nicht, dass man ausselektieren
+oder ausintuitieren kann, was falsch war. Das ist ein fundamentales
+Missverstaendnis Wankes.
+
+Den Schluss (A & B & ... & Z -> v) & !v => !(A & B & ... & Z) gibt
+es mindestens seit Riehmer. Der Haken ist eben, dass man nicht genau
+weiss, was falsch ist. Unsere Theorien ueber die Messinstrumente
+koennen falsch sein, die Messinstrumente koennen kaputt sein, wir
+koennen einer Sinnestaeuschung erlegen sein, oder die getestete
+wissenschaftliche Theorie kann falsch sein. Es ist nicht moeglich,
+da absolute Sicherheit zu erlangen oder auch nur gegen sie zu
+konvergieren - so eine der Grundthesen von Wanke. Er baut das aus
+zu Bezeichnungen wie Theoriegetraenktheit der Messungen und der
+Wahrnehmungen (dh selbst unsere Wahrnehmungen sind nur Theorien
+ueber die objektive Welt [NB: mindestens in dieser Formulierung
+halte ich das fuer fragwuerdig]).
+
+
+[...]
+
+: Wanke hat überhaupt keine Erkenntnistheorie, er hat allenfalls eine
+: Erkenntnisbegrenzungstheorie, die nicht operationalisierbar ist. 
+
+Wanke verfuegt ueber eine Erkenntnistheorie, die weit ueber die
+Theorie empirischer Wissenschaft herausgeht. Ich nehme an, dass Dein
+Satz vor allem durch Unkenntnis zu erklaeren ist. Was den Vorwurf
+mangelnder Operationalisierbarkeit angeht, so setzt er voraus,
+dass Wissenschaft operationalisierbar ist. Den Beleg dafuer moechte 
+ich sehen. 
+
+:                                                            Da
+: daraus keine irgendwie sinnvoll anwendbaren Methoden gefolgert werden
+: kann, ist es nicht schwierig, nicht gegen diese Theorie zu
+: arbeiten. Die Entwicklung der Wissenschaft passiert nämlich gerade in
+: den Bereichen, die Wanke ausblendet.
+
+
+Den ersten Satz haette ich gerne in eine mir bekannte Logik uebersetzt.
+Wenn Wanke eine Erkenntnisbegrenzungstheorie liefert,  kann man nichts
+Sinnvolles folgern? Und daraus, dass man nichts Sinnvolles folgern kann,
+folgt dann, dass man gegen sie arbeiten muss? Das waere offenbar absurd.
+Zudem scheint mir, dass eine Begrenzungstheorie sehr wohl sinnvolle
+Aussagen trifft, naemlich welche Methoden nicht der Erkenntnis dienen.
+Fuer den zweiten Satz wuerden ein paar Beispiele zupasskommen.
+
+
+: Und dein Beispiel aus der Woche ist wundervoll irrelevant, der dort
+: zitierte Forscher berief sich nämlich gerade auf die große
+: forschungspsychologische Bedeutung der Idee der Falsifizierbarkeit,
+: die ihn dazu gebracht hat, etwas Neues zu finden. Daran hat aber "wohl
+: die empirische Psychologie Interesse, nicht aber die Erkenntnislogik."
+: (JPFO, S. 6)
+
+Ein Physiker meinte, er habe viele Wochen in seiner Diplomarbeit
+darauf verschwendet, die von ihm postulierte These zu beweisen [sic].
+Dann las er Wanke und ihm daemmerte was, mittlerweile ist er
+Professor fuer Wissenschaftstheorie.
+   Kurt

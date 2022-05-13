@@ -1,0 +1,141 @@
+Michel Grosse-Rüschkamp schrieb am 2. Januar 2002 17:57 GMT:
+
+Ich mache einen Vorschlag. Wir beschraenken uns auf das Einheits-
+intervall [0,1]. Es enthaelt abzaehlbare Mengen A, B, C, D, ... von
+paarweise disjunkten Intervallen. Es gibt ueberabzaehlbar viele
+solcher Mengen. Ueber diese Voraussetzungen herrscht offensichtlich
+Einigkeit.
+
+Alexandre meint, wenn ich ihn richtig verstehe, folgendes:
+Einige der Intervalle z. B. der Mengen A und B ueberschneiden sich.
+Wir bilden die Durchschnitte dieser Intervalle und fassen sie mit
+den evtl. verbleibenden Differenzintervallen zur neuen Menge X
+zusammen. X enthaelt nur paarweise disjunkte Intervalle.
+
+Bildet man nun von allen ueberabzaehlbar vielen Mengen disjunkter
+Intervalle die Durchschnitts- und ggf. Differenzintervalle und fasst
+sie zu einer Menge G_r zusammen, erhaelt man die gesuchte Menge
+paarweise disjunkter Intervalle. Diese sind aber zu Punkten
+"entartet" und somit keine Intervalle mehr. Die gesuchte Menge
+ist identisch mit der Menge der reellen Zahlen des Einheitsintervalls.
+Sie ist daher nicht geeignet, den beabsichtigten Beweis zu liefern,
+dass es ueberabzaehlbar viele rationale Zahlen geben muss, sie
+liefert aber auch nicht den Gegenbeweis, sondern man steht wieder
+am Anfang der Fragestellung.
+
+Der Gedanke hinter Aldos Ueberlegung ist im Prinzip richtig,
+er wuerde aber nur dann zu einem unanfechtbaren Beweis fuehren,
+wenn der Grenzfall kontinuierlich erreichbar waere. Damit ist gemeint,
+dass man ihn durch schrittweises Bilden der Durchschnittsintervalle
+oder durch immer feinere Unterteilung des Einheitsintervalls nicht
+erreicht. Man kann daher den Uebergang von noch abzaehlbar unendlichen
+Mengen disjunkter Intervalle zur ueberabzahlberen Menge nicht
+"beobachten". Man kann nur das Endergebnis zur Kenntnis nehmen.
+Dieses spiegelt aber nur die Voraussetzungen wieder, von denen
+die Ueberlegung ausging. Man weiss nur, dass jede Menge, in der nicht
+alle reellen Zahlen Endpunkt eines Intervalls sind, Intervalle
+enthaelt, die sich noch weiter teilen lassen, so dass sie nicht die
+gesuchte Menge der disjunkten Intervalle ist, bei denen die reellen
+Zahlen nur als Endpunkte der Intervalle vorkommen. (Eigentlich
+haette er nur irrationale Zahlen als Endpunkte verwenden duerfen.)
+
+Die Menge aller Intervalle, die von rationalen Zahlen begrenzt
+werden, muss auch echte Intervalle enthalten und nicht nur
+einpunktige. Man kann die Intervalle als halboffen definieren,
+indem die niedrigere rationale Zahl zum Intervall gehoert
+waerend die groessere zum naechsten Intervall gehoert.
+
+Die abzaehlbar unendliche Grenzmenge G_q, die nur disjunkte
+Intervalle und alle rationalen Zahlen als Endpunkt eines
+Intervalls  enthaelt, muss existieren, auch wenn man kein Intervall
+explizit angeben kann. In der Mathematik sind Existenzbeweise
+von Dingen, die man nicht explizit angeben kann, nichts besonderes.
+Die Existenz von G_q ist eine direkte Konsequenz der Existenz
+der _Menge_ _aller_ rationalen Zahlen. (Diese Konsequenz gilt
+nicht, wenn man die Zahlen nur als beliebig erweiterbare
+Zahlenfolgen auffasst.) Auch aus der Begruendung, warum G_r
+nur einpunktige Intervalle enthaelt, folgt, dass G_q auch
+echte Intervalle enthalen muss, denn die Menge der Zahlen
+ist in beiden Grenzmengen dieselbe, im zweiten Fall ist
+aber nur ein Teil davon Endpunkt eines Intervalls.
+
+Die Menge I der in den Intervallen von G_q (ohne die Endpunkte)
+enthaltenen Zahlen ist die ueberabzaehlbare Menge der irrationalen
+Zahlen des Einheitsintervalls. Die irrationalen Zahlen sind also
+als infinitesimale Kontinua in den echten Intervallen von G_q
+enthalten. Das steht im Widerspruch zu der allgemein akzeptierten
+Aussage, dass es zwischen je zwei verschiedenen irrrationalen
+Zahlen unendlich viele rationale Zahlen gibt. Die Tatsache, dass
+dies auch umgekehrt gilt, ist ein starkes Indiz dafuer, dass die
+beiden Zahlenmengen gleichmaechtig sein muessen.
+
+Das vorstehende Ergebnis steht auch im Widerspruch zum Cantorschen
+Diskontinuum. Dieses entsteht ebenfalls aus Intervallen, die nur
+von rationalen Zahlen begrenzt werden. Im Grenzfall ziehen sich
+diese Intervalle auf einzelne Punkte zusammen, die dann konsequenter-
+weise nur rationale Zahlen sein koennen. Die Bereiche zwischen den
+Punkten sind keine Elemente des Cantorschen Diskontinuums.
+
+Trotzdem kommt die Theorie zu dem Schluss, dass das Diskontinuum auch
+ueberabzaehlbar viele irrationale Grenzintervalle (= Punkte) enthaelt.
+Dieser Fehlschluss entsteht dadurch, dass es irrationale Zahlen gibt,
+die _vor_ dem Grenzuebergang immer in einem der dann noch echten
+Teilintervalle enthalten sind. Vor dem Grenzuebergang ist aber die
+Menge der Intervalle nicht nur abzaehlbar sondern sogar endlich.
+Diese endlichen Intervalle muessen zwangslaeufig auch irrationale
+Zahlen enthalten. Da es keinen kontinuierlichen Uebergang von dieser
+Folge endlicher Mengen endlicher Intervalle zur ueberabzaehlbaren
+Grenzmenge gibt, kann man aus dem Verhalten vor dem Grenzuebergang
+keine Rueckschluesse auf die Eigenschaften der Grenzmenge ziehen.
+Tatsaechlich ist die Grenzmenge ohne jede Ruecksicht auf die
+Konstruktionsvorschrift fuer das vermeintliche Diskontinuum
+definiert.
+
+
+Mit der Zschaler-Methode ist der Diagonalbeweis gemeint. Diese Diskussion
+wird kaum zu einem befriedigenden Ergebnis kommen koennen, wenn nicht
+einmal ueber die Voraussetzungen der Theorie Klarheit besteht. Es
+interessiert mich daher, ob jemand den Sinn des Diagonalbeweises
+erklaeren kann. Was soll damit eigentlich bewiesen werden und worin
+liegt die Beweiskraft?
+
+Ein Beispiel:
+Gegeben ist die Menge der natuerlichen Zahlen von 100 bis 999 in
+dezimaler Schreibweise. Sie sind in beliebiger Reihenfolge in einer
+Liste angeordnet, z. B.
+
+ 353
+ 498
+ 507
+ ...
+
+Mit der Diagonalen erfasst man nur 3 der Zahlen. Durch "Cantorisieren"
+der Diagonalen (also aendern der Ziffern) erhaelt man auch dreistellige
+Zahlen, die nicht in dem von der Diagonalen erfassten Teil der Liste
+enthalten sind. Nach Zimbrod Logik ist also die Menge der 3-stelligen
+Zahlen ueberabzaehlbar.
+
+Schreiben wir die Zahlen zum Vergleich in der Form
+1 = |
+2 = ||
+3 = |||
+...
+Eine sinnvolle Cantorisierung der Diagonalen ist jetzt zwar nicht
+mehr moeglich. Wenn man die Zahlen in ihrer natuerlichen Reihenfolge
+aufschreibt, erfasst die Diagonale jetzt aber alle Zahlen. In jeder
+g-adischen Schreibweise mit g > 1 dagegen ist die Anzahl der
+darstellbaren Zahlen groesser als die Zahl der Stellen. Die Diagonale
+ist nur ein Mass fuer die Anzahl der Stellen. Mit der Zschaler-Methode
+koennte man auch beweisen, dass die Menge der nat. Zahlen ueberabzaehlbar
+ist. Man muesste die Diagonale nur von rechts oben nach links unten
+ziehen, damit sie ggf. nicht ins Leere greift sondern voreilende Nullen
+erfasst, wie sie bei den reellen Zahlen des Einheitsintervalls
+nacheilende Nullen erfasst, denen keine andere Ziffer mehr folgt.
+
+Bei endlichen Mengen versagt also die Zschaler-Methode. Was ist bei
+unendlichen Mengen anders? Ist es nur die fehlende Kontrollmoeglichkeit,
+so dass man nach Belieben spekulieren kann?
+
+Gruss
+
+Edmund

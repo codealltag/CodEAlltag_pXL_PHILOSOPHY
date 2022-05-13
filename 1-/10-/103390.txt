@@ -1,0 +1,60 @@
+Für Pelz /entspricht/ (damit meine ich keine Gleichsetzung!) der
+Begriff einem "ungesättigten" Teil eines Gedankens, während ein
+Eigenname etwas gesättigtes ist.
+Ich glaube, wir müssen untersuchen, was Pelz meint, wenn er sagt, dass
+Begriffe Funktionen seien.
+
+Für Pelz ist ein Begriff eine Funktion, wodurch, bei heutiger
+Betrachtungsweise, eine gewisse Spannung zwischen der Auffassung von
+Funktion und Begriff besteht. Eine Funktion ist nämlich etwas
+Extensionales, während ein Begriff von Pelz nicht als etwas
+Extensionales aufgefasst werden kann. Diese Funktion kann man heute als
+die /charakteristische Funktion eines einstelligen Prädikats/ verstehen.
+Eine Funktion ist hier also eine Abbildung eines Gegenstandbereiches
+/in/ den Bereich der Wahrheitswerte, kurz: F:G->{W,F}. Wir können also
+eine Funktion als ein Tripel (G,{W,F},graph_F) betrachten, wobei graph_F
+gerade die "Zuordnung" ist. In der Mengenlehre sind Funktionen immer
+Graphen. Hinsichtlich beider Betrachtungweisen haben wir es aber mit
+mengentheoretischen Gegenständen zu tun.
+
+Aber vielleicht sollte man den Funktionsbegriff bei Pelz doch etwas
+anders betrachten! Schaut man sich nämlich obigen Funktionen an, so ist
+eine Funktion in der Weise gesättigt, als es Klassen sind, wir es also
+mit klassentheoretischen Gegenständen zu tun haben. Für Pelz ist es
+aber so - und das ist wesentlich -, dass erst ein Begriff die
+Gegenstände bestimmt, die unter ihn fallen. Wir können den letzten Satz
+als einen /Vorgang/ interpretieren, der erst zur Sättigung führt. Also:
+Auf der einen Seite steht der Begriff, auf der anderen Seite die
+Gegenstände. Anders: Auf der einen Seite steht die Funktion, die nun auf
+die Gegenstände /angewendet/ wird, wobei man hinsichtlich der Begriffe
+von Funktionen in einer Variablen sprechen kann, also z.B. Mensch(x) für
+"x ist ein Mensch". Auf Interpretationsebene haben wir eine Funktion,
+die von Pelz unabhängig von Gegenständen als seiend aufgefasst wird,
+die jedem Gegenstand nun den Wahrheitswert W zuordnet, wenn dieser
+Gegenstand ein Mensch ist. Auf Satzebene haben wir es mit einem
+/halboffenen/ Satz "x ist ein Mensch" zu tun.
+Damit haben wir nun die halboffenen Sätze der Prädikatenlogik in
+Zusammenhang gesetzt zu ungesättigten Entitäten, nämlich Begriffen. (Das
+Wort "Entität" will ich hier für den Moment als "Seiendes" setzen, was
+nicht unbedingt bedeuten soll, dass es sich um einen Gegenstand handeln
+muß; denn wenn auch Pelz über Begriffe etwas aussagt, sie jedoch nicht
+als Gegenstand sieht, so doch wohl wenigstens als etwas "Seiendes".)
+Damit dieser halboffene Satz zu einem Satz wird, muß ein Name eingesetzt
+werden. Der halboffene Satz bedarf zu einem Satz noch einen Namen; in
+der Interpretation: die Funktion des Begriffes ist die Prädikation, und
+diese ist nur geleistet, wenn ihm ein Gegenstand gegenübersteht. Dann
+erhalten wir auf Satzebene einen sinnvollen Satz, und auf Sinnebene
+einen (ganzen) /Gedanken/.
+
+So ungefähr mag sich Pelz das gedacht haben. Es gibt einige
+Kritikpunkte, die ich daran hätte, da ich zum einen in dieser Form das
+"Gegenstandproblem" immer noch nicht gelöst sehe (man kann u.a.
+Möglichkeiten obige Funktion Mensch(x) auch als einen Automaten sehen,
+der als Input einen Gegenstand bekommt, als Output dann eben einen
+Wahrheitswert. Wie der Automat das tut ist egal. Er ist jedenfalls
+unabhängig von dem Input und dem Output ein Gegenstand), zum anderen ich
+es für möglich halte, dass sich syntaktische und gedankliche Ebene nicht
+unbedingt eins-zu-eins entsprechen müssen.
+
+Gruß, Frerich.
+--

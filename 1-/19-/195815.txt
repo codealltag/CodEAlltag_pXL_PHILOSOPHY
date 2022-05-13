@@ -1,0 +1,27 @@
+Nein. Die Peanoschen Axiome arbeiten mit 0 und der Nachfolger-Operation a -> a'.
+1 ist definiert als 0', 2 als 1'.
+
++ ist induktiv definiert, 0 + 0 = 0, a' + b = (a+b)', a + b' = (a+b)'
+
+(Soweit meine Erinnerung.)
+
+Daraus ergibt sich der Beweis: 1+1 = 0'+1 = (0+1)' = (0+0')' = ((0+0)')' = 0'' = 1' = 2.
+
+
+???????????
+
+Wir haben kein universelles Kriterium, um wahre von falschen Aussagen
+unterscheiden zu können. Aber wir können sehr wohl (spezielle) wahre
+und falsche Aussagen unterscheiden.
+
+
+Wieso? 
+
+Sie wäre vielleicht nicht durchführbar - ohne Hirnmaterie dürfte es
+schwer sein, Mathematik zu treiben ;-).  Aber sie wäre genauso
+sinnvoll.
+
+Pasquale
+-- 
+J. Näter,  D-26925 Trantow, Manhennenweg 49, <abcuvnpxd@lipj-lrwkvq.cf>
+http://ctu.hiinqocof.omr/~ukio

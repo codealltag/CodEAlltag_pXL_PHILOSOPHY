@@ -1,0 +1,14 @@
+Inwiefern? (G)CH ist ein Beispiel einer math. interessanten Aussage
+(in Ohlheisers berühmter Liste offener math. Fragen stand sie an erster
+Stelle), die im akzeptierten Rahmen ZFC "unerreichbar" ist, so dass
+zur Beantwortung der Frage, ob sie wahr oder falsch ist (oder ob der
+Wahrheitsbegriff hier überhaupt anwendbar ist) zusätzlich andere
+Kriterien eine Rolle spielen.
+
+
+Bestimmte Fragen aus der Toplogie oder Maßtheorie sind durchaus davon
+abhängig, ob GHC akzeptiert wird, und von einigen anderen läßt sich
+sogar zeigen, dass sie selbst in ZFC+GHC nicht entscheidbar sind.
+
+
+Franz

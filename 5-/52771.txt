@@ -1,0 +1,69 @@
+Nein. Ich zitiere Dich selber:
+
+
+Das ist nicht richtig.
+
+
+Ich vermute, Du hast ihn nicht verstanden. Das Problem ist, dass man eben
+nicht beliebig genau annähern kann, sondern dass man nur die
+Wahrscheinlichkeit nach oben treiben kann, mit der man nahe am Ergebnis
+liegt. Vielleicht kommt aber auch was völlig anderes raus.
+
+Der Unterschied ist wesentlich: Du denkst immer noch in einem
+deterministischen Universum. Es wird für Dich vielleicht schwierig
+werden, dieses vertraute Weltbild fallen zu lassen - das war es ganz
+besonders auch für die Mathematiker, als sie diese Erkenntnisse hatten.
+
+Auch die Physiker hatten da Riesenprobleme anfangs damit. Denn für sie
+war es vorher sonnenklar (im 9. Jahrhundert), dass wenn man alle
+Naturgesetze kennt und wenn man alle Zustände kennt, dass man das ganze
+Universum wie ein Uhrwerk voraussagen kann.
+
+Nur ist das eben falsch.
+
+Sogar wenn es eine Heisenbergsche Unschärfe nicht geben würde, bietet
+die Quantentheorie kein deterministisches System an.
+
+Auch die klassische Mechanik nicht.
+
+Ein Uhrwerk ist kein dynamisches System. Es ist ein deterministisches
+System. Und für dynamische Systeme funktioniert das nicht.
+
+Du bist da in einem Weltbild aus dem 19. Jahrhundert gefangen - mach Dir
+aber nichts draus, ich treffe viel mehr Leute, die das immer noch so
+sehen, als Leute, die das aufgegeben haben. Die letzteren waren bisher
+fast allesamt Mathematiker und Physiker. Sogar die Informatiker, die ich
+kenne, habens nur teilweise rezipiert, obwohl sie die "Seiteneffekte"
+von Selbstbezügen in eigenen Systemen eigentlich schon lange kennen.
+
+Du kannst ein Gefühl dafür entwickeln, welche Systeme deterministisch
+sind, indem Du schaust, ob alle funktionalen Abhängigkeiten zyklenfrei
+sind: ein Uhrwerk ist da ein Baum, das eine hängt vom andern ab, aber da
+sind keine Zyklen.
+
+Sobald Du ein Bisschen Komplexität hast, und da Zyklen drin sind, wird's
+schwierig: dann ist's nicht mehr deterministisch. Es lässt sich noch
+wunderbar simulieren, aber die Simulation ist zu Anfang zwar sehr, sehr
+genau (wenn's wenige Aktoren sind), aber sogar schon im
+Dreikörperproblem kannst Du das nicht mehr auf lange Sicht erfolgreich
+machen. Denn sogar da hast Du nur Wahrscheinlichkeiten (die zu Anfang
+bei hinreichend kleiner Granularität der Simulation alle nahe 1 sind).
+
+Du siehst das in der Astronomie an den Meteoriten-Vorhersagen: man kann
+nur Wahrscheinlichkeiten angeben, ob überhaupt und in welchem Bereich
+ein Asteroid auf die Erde aufschlagen wird.
+
+Und glaub mir, das liegt nicht daran, dass man die Dinger nicht genau
+messen könnte, wenn sie in der Nähe sind.
+
+Der Schmetterlingseffekt kommt nicht nur in probabilistischen Modellen
+vor. Er kommt eben in jedem hinreichend komplexen dynamischen Modell
+vor, insbesondere auch dann, wenn das Modell vorbestimmt ist und
+keinesfalls zufällig.
+
+Hinreichend komplex ist bereits das allgemeine Dreikörperproblem.
+
+Viele Grüsse,
+VB.
+-- 
+Bitte beachten Sie auch die Rückseite dieses Schreibens!

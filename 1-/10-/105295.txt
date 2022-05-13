@@ -1,0 +1,23 @@
+Ben Unterlechner:
+
+Was dann unabhängig von einer Darstellung wäre, wobei die Frage wäre,
+ob die höchste natürliche Zahl gerade oder ungerade ist, zumindest sind
+die ersten beiden natürlichen Zahlen bei der Ordnung 0,1 nicht durch zwei
+teilbar.
+
+Besteht die letzte natürliche Zahl nur aus 1 oder nur aus 9 oder nur aus
+1 und Null
+
+Nun es würde mich nicht weiter überraschen, wenn eine Darstellung unter
+der Bedingung einer Ordnung mit nur zehn Ziffern, dann jeweils 10 Prozent
+ist. Irgendwie steckt das ja dann schon in deiner Definition und damit
+meinst du ja dann nicht mehr die Gesamtmenge aller natürlichen Zahlen
+sondern ein spezifische Menge der natürlichen Zahlen in der Darstellung 0
+bis 9, die einer Aufz�hlreihenfolge entspricht und jede Zahl nur einmal
+vorkommen darf.
+
+
+Findest du?
+
+Grösse,
+Tim

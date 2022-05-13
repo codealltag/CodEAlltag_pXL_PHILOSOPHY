@@ -1,0 +1,34 @@
+nur sei sie kleiner als die einer Fliege. Das stand NB in einer
+Computerzeitschrift, nicht in einer Fliegenzeitschrift! ;-)
+
+
+AFAIK wird heute nur 'brute force' gerechnet, d.h. auch die
+unsinnigsten Wege werden erforscht.
+
+
+die Kriterien jeder Stellung werden vom Programmierer vorgegeben.
+Ein Bauer ist 1 Punkt, ein Laeufer 3 Punkte, eine Dame 9, matt
+99. Ein Stellungsvorteil allein gibt bestenfalls einen Punkt. Die
+Eröffnung wird nie berechnet, sondern aus einer Tabelle
+abgelesen. Das ist gespeicherte *menschliche* Intelligenz.
+
+
+je nach Eroeffnungsbibliothek. Die Bewertung der Felder im
+Endspiel ist vermutlich auch etwas willkuerlich.
+
+
+Der Mensch MUSS kreativ sein im Schach, weil er zu wenig Speicher
+hat. Unsere Hirn-Algorithmen sind auch fuer das Schachspiel
+leistungsfaehiger als die Maschine, aber dafuer nicht fehlerfrei.
+Bekanntlich gewinnt der, der den zweitletzten Fehler macht.
+
+
+In der Industrie wird oft nur noch die Materialbeschickung von
+Hand gemacht. Alle 'intelligenten' Taetigkeiten, die frueher eine
+Berufslehre erforderten, macht heute der Automat... Wer kann
+schon von Hand eine Compact Disc herstellen oder gar einen
+Pentium III?
+
+Gruss
+
+Karsten

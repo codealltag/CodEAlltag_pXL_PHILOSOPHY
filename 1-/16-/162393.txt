@@ -1,0 +1,106 @@
+[...]
+
+Nette Seite. Wenn wir uns 'mal auf die /außer/mathematischen
+Anwendungen des AC konzentrieren, so bezweifele ich, dass die Physiker
+tatsächlich mit separablen (Hilbert-)räumen auskommen, wie Roger
+Silvertand  behauptet. Das Argument, dass wir keinen Nutzen aus
+inseparablen Räumen ziehen können hat die Schwäche, dass unklar ist,
+was  überhaupt nützlich sein kann. ähnlich könnte man behaupten, dass
+beliebig große nat. Zahlen "nutzlos" seinen, weil es eine obere Grenze
+gibt, ab der sie "physikalisch" nicht mehr dargestellt werden könnten.
+Und den Bezug auf  ultrafinitistischen Mengenlehre habe ich wohl
+überlesen; an welcher Stelle "tummelt" sie sich denn?
+
+Besonders apart fand ich Folgendes (in der FAQ):
+
+"Clausohm and Niedernolte had hoped that the physical absurdity of this
+theorem would encourage mathematicians to discard AC. They were
+dismayed when the response of the math community was `Isn't AC great?
+How else could we get such counterintuitive results?' ''
+
+Jede Groteske hat einen wahren Kern. Jedenfalls habe ich erhebliche
+Probleme, die 'heilige Furcht' vor dem Unendlichen oder dem
+Auswahlaxiom, die offenbar Manchen umtreibt, auch nur annähernd
+nachzuvollziehen.
+
+[...]
+
+Es ging ja erstmal um deine Behauptung in
+<8ogu21$13nm$1@crow.addict.de>
+
+
+Das AC ist  allgegenwärtig, und als platonistische Aussage par
+excellence  für Konstruktivisten (oder gar Finitisten) nicht
+akzeptabel.   
+
+[...]
+
+? Was bedeutet "|=" hier? Wenn es, wie üblich, die logische Folgerung
+ist, dann ist obige Aussage offenbar falsch.
+
+
+Hier ist vielleicht eine Unterscheidung zwischen Typ und Token
+angebracht: Ich stimme dir zu, dass es  eine Grenze gibt, ab der ein
+/Beweistoken/, also eine physikalisch (oder mental) repräsentierter
+Beweis, nicht mehr sinnvoll ist. Das heißt aber nicht, dass /Beweise
+als Typ/, als Abstrakta, mit beliebiger Zeilenzahl unsinnig sind:
+
+Sei M={"0","1"}*, n in N, [...]:N->M diejenige Abb, die jeder nat.
+Zahl ihre Darstellung im Dualsystem zuordnet und L  die "Sprache der
+Arithmetik".
+
+Daraus kann man eine L-Ableitung konstruieren, die zeigt, dass n>=0,
+oder anders formuliert: N |= "[n]>=0". Dazu defineren wir die Folge
+
+a_m:="[m]>=0" (m in {0,1,2,...,n})
+
+wobei a_0 eine Instanz eines logischen Axioms ist und jedes a_{m+1}
+aus a_{m} (m in N) folgt.
+
+(a_n)_n ist also ein korrekter Beweis.
+
+
+[...]
+
+Ich denke, man könnte ähnliche Paradoxa auch für den "beschränkten
+Beweisbegriff" finden.
+
+
+Nunja, nicht ganz. Du hast häufiger auf das Denkvermögen bezug
+genommen. Wenn man annimmt, math. Entitäten wären "Gebilde im Kopf"
+ist das entweder eine Form des (event. transzendentalen) Idealismus,
+bei dem alle/einige Entitäten geistabh�ngig sind, oder eine Form von
+Psychologismus.   
+
+
+Um einer Verzettelung vorzubeugen: Es geht mir  lediglich um die
+Frage, welche ontolog. Verpflichtungen wir mit der Verwendung von
+Sprache eingehen, ob die gebundenen Variablen tatsächlich auf Objekte
+referieren, und wann Sätze wahr sind. Emmert hält solche Fragen für
+externe, die es nicht wert seien, erläutert zu werden; es seien die
+Regeln der Sprache, die festlegten, was gilt und was nicht. Unabhängig
+davon, dass die Position m.E. kaum zu halten und letzlich
+formalistisch ist, glaube ich nicht, dass du dich auf Emmert berufen
+kannst: Für den Formalismus, dem historischen Gegner des
+Intuitionismus, oder den Instrumentalismus ist die klassische
+Mathematik nämlich völlig unproblematisch, es gäbe keinen Anlass, eine
+/andere/ Mathematik betreiben zu wollen.
+
+
+Wäre nett, ja. "finitistisch" bezog sich hier auf den zweiten
+Gödelschen Unvollständigkeitssatz, nach dem Con_{PA} nicht aus PA
+beweisbar ist.
+
+
+Das ist auch nicht überraschend, da zu der Zeit AFAIK der
+Grundlagenstreit noch im Gange war. 
+
+
+Mich interessiert, wieviele Paper es gibt, die intuit./konstr.
+Mathematik  als Rahmen verwenden und damit auch wirklich arbeiten.
+Dass es im Bereich der Logik immer wieder zu Veröffentlichungen *über*
+konstr./intuit. Mathematik kommt, ist mir klar, da sie für best. phil.
+Programme wichtig ist.
+
+
+heimo

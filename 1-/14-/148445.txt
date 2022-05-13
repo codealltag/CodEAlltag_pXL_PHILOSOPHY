@@ -1,0 +1,18 @@
+Das musst du uns aber erst einmal vormachen.
+
+Zwischen 0,p98 = 0,98989898989898989898989898...
+und 1=1,00000000000000000000000000...
+liegen ziemlich viele sinnvolle reelle Zahlen.
+
+Dies sind z.B. 0.99, 0.9899, 0.991, um einmal
+nur einige abbrechende Dezimalbrüche zu nennen.
+Insbesondere liegt auch
+
+    (1 +  0.98p) / 2 = 0.9p94 = 0.9949494949494949494...
+
+echt dazwischen.
+
+
+Das ist dann natürlich Unsinn.
+
+Reinhard

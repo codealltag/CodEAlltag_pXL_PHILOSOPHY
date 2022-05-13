@@ -1,0 +1,91 @@
+oqvzqb.unhcs@htspsls.wuf (Otmar Vorderwisch) fragt:
+
+
+[... ziemlich viel geloescht]
+
+Zunaechst muessen wir den Satz in die Praedikatenlogik uebersetzen:
+
+(AP) all x: Einhorn(x) -> zwei-Hoerner(x)
+
+Um einen "Wahrheitswert" fuer AP festlegen zu koennen, benoetigen
+wir zunaechst ein Universum U - eine nichtleere Menge, der wir die
+Objekte entnehmen koennen, die wir fuer x einsetzen.
+
+Dieses Einsetzen kann in der Semantik der Praedikatenlogik dadurch
+erledigt werden, dass wir eine Abbildung
+
+   B: Variablen -> U
+
+einfuehren. (Variable ist alles, was hinter einem Quantor vorkom-
+men darf.) Weiters benoetigen wir die Definition
+
+   B[z/c](y) = B(y), falls z =/= y
+   B[z/c](z) = c
+
+- z, y Variablen, c aus U.
+
+Die Abbildung B kann man schliesslich - die mathematischen Grund-
+lagen lasse ich weg - zu einer Abbildung
+
+   B*: log. Formeln -> log. Formeln
+
+erweitern. Ist etwa B(x) = c, dann ist
+
+   B*(Einhorn(x) -> zwei-Hoerner(x))
+   = Einhorn(B(x)) -> zwei-Hoerner(B(x))
+   = Einhorn(c) -> zwei-Hoerner(c))
+
+Jetzt muessen wir noch die Bedeutung von Praedikatzeichen wie
+Einhorn angeben. Dazu nehmen wir an, es gibt eine Interpretation
+(Abbildung) dieser Zeichen nach der Menge der Teilmengen von U.
+
+Einhorn(c) ist eine wahre Formel, wenn c in der Menge I(Einhorn)
+vorkommt.
+
+Jetzt muessen wir den Hund ins Wasser springen lassen:
+
+   AP ist genaudann wahr, wenn
+   fuer alle c aus U
+   B*[x/c](Einhorn(x) -> zwei-Hoerner(x)) wahr ist
+
+No ja, die Wenn-Dann-Aussage ist wahr, wenn fuer alle c
+I(zwei-Hoerner) c als Element hat, sofern Einhorn(c) wahr ist.
+
+Ueblicherweise unterstellen wir aber, dass es keine Einhoerner
+gibt, I(Einhorn) also eine leere Menge ist. Einhorn(c) ist
+fuer kein c wahr, damit die Implikation Einhorn(c) ->
+zwei-Hoerner(c) fuer alle c wahr und somit ist AP ein
+wahrer Satz.
+
+Die geloeschten Ueberlegungen von Otmar Vorderwisch scheinen mir
+den Sachverhalt eher zu verschleiern.
+
+
+Genau.
+
+Die scheinbare Paradoxie des Satzes A kommt im uebrigen
+dann zustande, wenn man "vergisst", dass unsere Logik
+extensional ist. (Die Extensionalitaet erlaubt die Verwendung
+von Wahrheitstabellen fuer die aussagenlogischen Verknuepfungs-
+zeichen.)
+
+Schon in der Aussagenlogik sind aehnlich seltsame wahre Formeln
+moeglich:
+
+(C)   Wenn der Schnee schwarz ist, dann ist der Schnee gruen.
+
+Koennen wir uns darauf einigen, dass C die aussagenlogische
+Fassung von A ist? C ist wahr, solange wir von der ueblichen
+Vorstellung ausgehen, dass der Schnee weiss ist und weiss et-
+was anderes als schwarz. Ebenso sind
+
+(D)   Wenn der Schnee schwarz ist, dann ist 2 + 3 = 5
+und   Wenn der Schnee schwarz ist, dann ist 2 + 3 = 4
+
+wahr. Die Extensionalitaet besagt hier, dass kein "inhaltlicher"
+Zusammenhang zwischen der auf "wenn" und der auf "dann" folgenden
+Aussage besteht.
+
+Servus
+Noël Ilert
+pppzzw@jbb.ooo.vs

@@ -1,0 +1,18 @@
+Okay, noch etwas schwächer formuliert: Anhand des Axiomensystem läßt
+sich zeigen, daß eine solche nichtleere Menge existieren kann, ohne in
+einen Widerspruch zu geraten, also quasi, daß es reelle Zahlen geben
+_kann_.
+
+Erweitert man das Axiomensystem der reellen Zahlen beispielsweise um
+die algebraische Abgeschlossenheit, dann stößt man auf einen
+Widerspruch: eine solche - nichtleere - Menge kann es nicht geben.
+Entweder man verzichtet auf die Abgeschlossenheit (das ist die
+Eigenschaft, daß jedes Polynom in Linearfaktoren zerfällt, bzw.
+gleichbedeutend, daß jedes Polynom vom Grad n genau n Nullstellen hat,
+wenn man die mehrfachen entsprechend oft zählt), dann kommt man auf
+die reellen Zahlen; oder man nimmt diese hinzu, dann hat man die
+komplexen Zahlen, wo man die Ordnungsaxiome aufgeben muß.
+
+claus
+-- 
+_)>(_)______________ I will live for the groove 'til the sun goes down << ____

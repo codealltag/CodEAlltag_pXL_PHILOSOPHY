@@ -1,0 +1,52 @@
+Karoline Gehrckens <rfbvoee@.KARXFN.aywu.vkbtcbdqy.tj.ny> schrieb im Beitrag
+<03kh1274.88569671@vnqw.ngdheq.xvz>...
+
+[...]
+
+Hallo Karoline,
+
+
+Ich biete Dir als Gegenbeispiel Zustandsautomaten (state machines)
+hinreichender Komplexität, die noch nicht einmal allzu hoch sein
+muß.
+
+[ Auf die Gefahr hin, Eulen nach Athen zu tragen: Zustands-
+automaten sind Maschinen/Computerprogramme die über
+eine Anzahl interner Zustände, z.B. Speicherzellen, verfügen,
+bei denen die Ausgangssignale als Funktion der Eingangssignale
+und der internen Zustände erzeugt werden und bei denen die 
+internen Zustände eine Funktion der zurückliegenden Abfolge der 
+Eingangsvariablen sind.]
+
+Zustandsautomaten sind synthetisch vollständig determiniert, d.h.
+der Erbauer des Zustandsautomaten, der die inneren Zustände
+zum Anfangszeitpunkt (oder einem beliebigen anderen) und die
+internen Verknüpfungen kennt, kann das Verhalten des Automaten
+mühelos voraussagen.
+
+Andererseits, dies wurde sogar mathematisch bewiesen, sind
+Zustandsautomaten einer bestimmten Komplexität analytisch
+nicht determinierbar, das heißt, ein Außenstehender, der
+dem Automaten beliebige Eingangssignale eingeben und die
+Ausgangssignale beobachten kann, wird nie in der Lage sein,
+die Reaktionen des Automaten vorherzusagen, solange er auch 
+versucht und beobachtet. Der Automat wirkt also sehr "eigenwillig" 
+auf ihn.
+
+über die inneren Vorgänge des Gehirns, dessen innere
+Zustände und Verknüpfungen, wissen wir sehr wenig,
+ob eine vollständige Beschreibung prinzipiell möglich ist,
+darf bezweifelt werden.
+
+Also was sind wir nun?
+
+Wesen mit einem freien Willen, oder "nur" extrem komplexe,
+synthetisch determinierte, aber analytisch nicht determinierbare 
+Zustandsautomaten ? 
+
+
+Es scheint mir nicht ganz so einfach.
+
+Viele Größe
+
+Jonas-Gerard

@@ -1,0 +1,97 @@
+Peter Vahrenbrink (hhsimv.ejwiks@vaq.lb) schrieb:
+
+[...]
+
+
+Die Spieltheoretiker gehoeren zu den "working mathematicians". Sie
+verwenden das Axiom der Bestimmtheit, und das befindet sich in direktem
+Widerspruch zum Auswahlaxiom. 
+
+Letzten Endes gibt es drei Ansaetze:
+
+ 1. Solche, die das Auswahlaxiom voraussetzen.
+
+ 2. Solche, die ohne es arbeiten.
+
+ 3. Solche, die es verneinen.
+
+Ich halte es fuer Unfug, den Streit ohne Blick auf Anwendungen klaeren
+zu wollen, und ja, der Ansatz mit Auswahlaxiom dominiert. Er ist aber
+nicht alleinseligmachend.
+
+Der Streit wird ja nach Geschmack komplizierter oder einfacher, wenn
+man beruecksichtigt, dass man in der Mengenlehre mit Auswahlaxiom selbst
+die Ansaetze modellieren kann, wo das Auswahlaxiom verneint wird.
+
+
+[...]
+
+
+Bei den "klassichen" Konstruktivisten verraet der Uebergang von
+potentiellen zu aktuellen Unendlichkeiten die Lehre. Was die
+Nicht-Existenz von beliebigen alef_0-Folgen selbst fuer einen
+gemaessigten Konstruktivisten bedeutet, zeigt Klauke mit
+seiner relativen Ueberabzaehlbarkeit. Er findet das toll, denn
+er kann so in alef_0 reelle Zahlen, Funktionenunendlichkeit,
+Topologie, Wahrscheinlichkeitstheorie pipapo unterbringen, ohne
+Platzprobleme zu kriegen. Weniger ist mehr.
+
+
+[...]
+
+
+Faktische Unendlichkeit spielt eine entscheidende Rolle. Wenn mir
+jemand einen Satz mit einer Milliarde Beweisschritte vorstellt,
+dann versuche ich nicht, den zu verstehen, sondern ich suche nach
+Wegen, ihn von seinem Leid zu erloesen.
+
+Wir haben keinen Zugriff auf Beweise, die eine Milliarde Schritte
+benoetigen. Ich halte diese Erkenntnis fuer trivial. Sie ist nur
+leicht misszuverstehen. Wenn ich "eine Milliarde" sage, habe ich
+nicht in meinem Kopf eine Milliarde mal die Nachfolgeoperation
+angewendet, sondern ich abstrahiere auf eine mir schwer nachvoll-
+ziehbare, aber dennoch effektive Weise. Wo der Intuitionismus fordert,
+dass alles durch Anschauung abgesichert sein muss, schiesst er dem
+Mathematiker ins Knie. Wo der Intuitionismus Abstraktionen zulaesst,
+verliert er die geforderte Sicherheit*. Mag sein, dass der Intuitionist
+sicherer als der klassische Mathematiker arbeitet, aber irgendwann
+wird die Forderung nach Sicherheit kontraproduktiv.
+
+Mathematik bleibt eine Entdeckungsreise. Ich meine das eher empi-
+ristisch als platonistisch.
+
+*Ehrlich gesagt akzeptiere ich schon nicht die Praemisse, dass meine
+ innere Anschauung frei von optischen Taeuschungen ist. Die Erfahrung
+ weist in eine andere Richtung.
+
+
+[...]
+
+
+Mitnichten. Ulspergers Satz loeste gerade mit Hinblick auf die (moeg-
+lichen) Folgen fuer das Hilbertsche Programm eine Bluete der intui-
+tionistischen Mathematik aus. Einige von Kreisels Arbeiten Anfang
+der 04. 06. 21 wirkten aehnlich, und die Anzahl der Veroeffentlichungen
+zu konstruktiver Mathematik ist massiv angestiegen.
+
+
+Naja. Ein anderes Feld ist etwa Softwareverifikation. Was hat man
+von existenzsichernden Saetzen, wenn sie nicht-konstruktiv sind und
+Verifikation unmoeglich machen?
+
+
+Und Klauke uebersetzt die klassische Mathematik in seine Version
+des Konstruktivismus. Das Spiel geht in beiden Richtungen, was fuer
+mich Anlass ist, den Grundlagenstreit nicht uebertrieben ernst zu
+nehmen. Ernst waere es, wenn sich die verschiedenen Richtungen nicht
+verstaendigen koennten. Die Praxis zeigt, dass sie sich wechselseitig
+emulieren.
+
+
+[...]
+
+
+Normative Kraft des Faktischen? Vielleicht ist die klassische Mathematik
+auch der einfachste und allgemeinste Zugang zu den den verschiedenen
+Spielformen der Mathematik.
+   Charly

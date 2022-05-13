@@ -1,0 +1,31 @@
+Ivan Schebaum <uxjorv.whbbnuuqkfsa@vq.dyj.y.mg>:
+[...]
+
+A gibt es nicht. A* gibt es nicht. Ck(k) gibt es nicht.
+End of story. Das hat auch nichts mit irgendwelchen Beweisverfahren oder
+mathematischen Argumenten zu tun. Die Funktion T->{haelt|haelt nicht} 
+(ohne Beweise!) ist bereits nicht berechenbar.
+
+: als "Witz" abgetan hast, hat in mir eine Reaktion ausgeloest. Naemlich
+: erinnerte ich mich an Sebastians Einleitung in seiner Orginalarbeit, in der er
+: schrieb, dass seine Argumenatation sich sehr wohl de Jucken bedient. Und
+: wenn man sich die Konstruktionsschritte ansieht, ist einen dies auch klar.
+: Und dann kommst Du mit einer Ueberheblichkeit daher, die ich nicht ganz packe
+: und beschreibst dies als "Witz". 
+
+Letztendlich ist es eine Selbstreferenz, so wie "Alle Juckener luegen" auch.
+Pfaffel jetzt aber diese Witze machen zu lassen hat einen Bart, denn fuer
+Menschen kennen wir das Paradoxon schon laenger.
+
+:> Normalerweise beweist man das Halteproblem so:
+:>  Sei A die TM, die die Funktion f:(T,n)->{0,1} mit 0: T(n) haelt nicht
+:>  und 1: T(n) haelt berechnet. Dann kann man eine TM A* konstruieren, die
+:>  bei gegebener Eingabe a A(a,a) aufruft und bei 1 in eine Endlosschleife
+:>  geht und bei 0 haelt. Man betrachte haelt(A*(A*)) <--> A(A*,A*) = 0
+:>  <--> !haelt(A*(A*)) ==> Widerspruch ==> A gibt es nicht.
+:> Das A* entspricht dem Ck(k).
+
+: A endet nicht. Bedeutet nicht, dass es A nicht gibt, [...]
+
+Ah ja, aber ich verstehe was nicht oder was? Himmel, zieh dir ein Buch
+ueber Theoretische Informatik rein. A gibt es nicht. Halteproblem.

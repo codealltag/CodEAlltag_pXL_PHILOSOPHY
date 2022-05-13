@@ -1,0 +1,27 @@
+Hi,
+
+
+Es gibt weder eine Sprache, die sich C(++) nennt, noch ist
+sie die Wichtigste. Sie heisst auch nicht C/C++.
+
+
+In C. In C++ kann das aber auch eine Referenz definieren, wenn es sich
+um einen formalen Parameter handelt.
+
+
+Nein, nicht ganz. Wert einer Variablen, auf dessen Pointertyp a zeigt.
+Das können 16 Bit, 32, oder gar eine beliebig grosse Struktur sein.
+
+Wenn Du in C auf 'Speicherzellen' zugreifen willst, muss a zwangsläufig=
+
+vom Typ (unsigned) char sein.
+
+
+Zur Not geht sogar
+
+   b =3D (typ *)42;
+
+Nicht portabel, bzw. undefiniert, aber erlaubt. Mit der 0
+kann man's allerdings machen.
+
+Francisco

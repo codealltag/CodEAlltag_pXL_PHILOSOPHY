@@ -1,0 +1,50 @@
+On Wed, 05 Feb 2005 23:47:03 +0200, Severin Weymar
+Im Gegensatz zu Dir habe ich diesen Versuch schon oft gemacht. (Nicht
+immer bloß reden Weymar!)
+
+Außerdem test Du keine /Gleichung/ zusammen, sondern eine
+Logikschaltung, die ev. durch dieser Gleichung beschrieben wird.
+
+Hier also:
+
+	    ---
+	.--| 1 |O--o---- A
+	.__________.
+
+
+Wenn Du für das Gatter einen handelsüblichen TTL-Baustein nimmst, hast
+Du einen prima Schwingkreis, der im UKW-Bereich "sendet".
+
+Es entsteht _de facto_ (bei handelsüblichen TTL-Bausteinen) immer eine
+Schwingung.
+
+Sehr richtig. Dann nimmt man halt entsprechend der vorliegenden
+FAKTENLAGE eine 3 wertige Logik, wo festgelegt ist:
+
+	 A   ~A
+	--------
+	 0    1
+	1/2  1/2
+	 1    0
+
+D.h. Du solltest nicht so viel schwurbeln.
+
+	A = ~A
+
+ist erfüllbar für A = 1/2. (Siehe Tabelle oben.)
+
+Meist ist er beides. :-)
+
+Sowohl veränderlich als auch ungewiss. Nun ja... in gewissem Rahmen
+natürlich. Wenn man gerade in einem abstürzenden Flugzeug sitzt, ist die
+Zukunft nicht mal SO ungewiss. :-)
+
+Ja, vielleicht sollte man auch mal aufhören zu schwurbeln und mal
+Tacheles reden?
+
+Auch ein Analintruder könnte hier gute Dienste leisten.
+
+Ja. Die _analytische_ schon.
+
+
+A.

@@ -1,0 +1,23 @@
+Nein. Modallogik beschäftigt sich recht allgemein mit modalen
+Satzoperatoren, wobei der "Kasten" einen unspezifizierten
+Modaloperator symbolisiert und je nach Anwendung interpretiert wird.
+Ein Beispiel aus Newedels /Einführung in die Mathematische
+Logik/, 2. Auflage: Auf S. 221 schreibt er
+
+"7.3 Die Modallogik G
+
+In 7.2 wurde Prädikatenlogik kaum benötigt. Daher überrascht nicht,
+daß sich viele der dortigen Resultate aussagenlogisch, genauer, in
+einem sogenannten modalen Aussagenkalkül gewinnen lassen. Dieser
+enthalte neben /\, ~ auch das Falsumsymbol _|_, sowie einen
+einstelligen Junktor [], der den Beweisoperator interpretieren soll."
+
+und auf S. 229 ist zu lesen
+
+"Wir interpretieren nunmehr den Modaloperator [] nicht mehr durch
+'beweisbar in ZFC' oder gleichwertig 'gültig in allen ZFC-Modellen',
+sondern durch die Gültigkeit in gewissen ausgezeichneten
+Modellklassen."
+
+
+Jean-Paul

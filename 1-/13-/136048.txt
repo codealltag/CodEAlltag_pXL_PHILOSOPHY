@@ -1,0 +1,129 @@
+Falsch.  Keines der Resultate kann als Letztbegruendung aufgefasst
+werden.  Sowohl (a) als auch (c) dienen sehr wohl als Teilbegruendung.
+Insbesondere (c) - Herleitung der Behauptung aus anderen Behauptungen
+- stellt die typische Art Begruendung dar. Auch logische Zirkel sind
+nichts unbedingt schlechtes, sondern stellen Teilbegruendungen dar.
+(Beide Teile des logischen Zirkels A=>B B=>A sind ja Spezialfaelle von
+(c) und somit Teilbegruendungen.)
+
+
+Nicht letztbegruendbar.
+
+
+Es ist egal worum es dir geht.  Dem Trilemma geht es um
+Letztbegruendungen, nichts anderes.  Wenn dir Letztbegruendungen egal
+sind, kann dir das Trilemma natuerlich auch egal sein. 
+
+
+Anderen Theorien.
+
+
+Das "gerne ausnutzen" ist billige Polemik.  
+
+Gerade Johannesmann hat viel getan um solche Äquivokation zu
+vermeiden. Insbesondere neue Wortschoepfungen wie "Vermutungswissen",
+welches ausdrueckt dass einerseits die konventionelle Bedeutung von
+"Wissen" (die Ergebnisse der Wissenschaft sind Wissen) und
+andererseits die philosophische Interpretation dieser Ergebnisse (als
+Vermutungen) kollidieren.  Siehe auch den Begriff "corrobation" fuer
+Bestaetigungen experimenteller Voraussagen von Theorien.
+
+
+Was traurig ist, aber kein philosophisch relevantes Argument gegen das
+Konzept selbst darstellt.
+
+
+Duerfte ein typischer Fall von Äquivokation deinerseits sein.
+"Theorie" hat verschiedene Bedeutungen.  In jeder konkreten Diskussion
+ist klar, was gemeint ist.  Bei Diskussionen der Induktionsproblematik
+sind reine Existenztheorien uninteressant, die Diskussion dreht sich
+daher einerseits um Theorien die die logische Struktur von
+allquantifizierten Konditionalen haben, andererseits um Basissaetze,
+und fuers Induktionsproblem war der theoretische Charakter der
+Basissaetze uninteressant.  Man kommt dem Positivisten einen Schritt
+entgegen, a la "ihr meint, Basissaetze seien reine Beobachtung, wir
+meinen sie seien theoriegeladen, aber darum brauchen wir uns erstmal
+nicht zu kuemmern wenn wir das Induktionsproblem diskutieren". 
+
+Du vermengst hier verschiedene Verwendungen dieses Begriffs bei Johannesmann,
+um deren Widerspruechlichkeit zu behaupten.
+
+
+Gerne. Es gibt rein philosophisch dagegen nichts auszusetzen. 
+
+
+Nun, das volle Quinesche Netz erhaelt man auf der Suche nach logischer
+Letztbegruendung.  Sobald man sich mit hinreichend plausibler
+Begruendung zufriedengibt, spaltet sich das Netz schnell in
+Teilbereiche auf.
+
+
+Johannesmann hat es so vertreten:
+
+Now it has to be admitted that we can often test only a large chunk of
+a theoretical system, and sometimes perhaps only the whole system, and
+that, in these cases, it is sheer guesswork which of its ingredients
+should be held responsible for any falsification []. Though this
+argument may turn a verificationist into a sceptic, it does not affect
+those who would hold that all our theories are guesses anyway.
+<BR>(Popper, conjectures and refutations, p. 239)
+
+<p>[] one may be tempted to object (following Duhem) that in every
+test it is not only the theory under investigation which is involved,
+but also the whole system of our theories and assumptions - in fact,
+more or less the whole of our knowledge - so that we can never be
+certain which of all these assumptions is refuted.  But this criticism
+overlooks the fact that if we take each of the two theories []
+<I>together</I> with all this background knowledge, as indeed we must,
+then we decide between two systems which differ <I>only</I> over the
+two theories which are at stake.  It further overlooks the fact that
+we do not assert the refutation of the theory as such, but of the
+theory <I>together</I> with that background knowledge; parts of which,
+if other crucial experiments may be designed, may indeed one day be
+rejected as responsible for the failure. (p. 112)
+
+Es gibt noch weitere Argumente.  Pragmatisch das wichtigste sind
+verschiedene unabhaengige Experimente.  
+
+Experiment A_1 haengt ab von Theorie T_1,T_2,T_3.
+Experiment A_2 haengt ab von Theorie T_1,T_3,T_4.
+Experiment A_3 haengt ab von Theorie T_1,T_4,T_5.
+Experiment A_4 haengt ab von Theorie T_1,T_5,T_2.
+
+Wer bezweifelt, dass durch 4 Falsifikationen A_1,A_2,A_3,A_4 die
+Theorie T_1 widerlegt wird, muss eine Alternative vorschlagen in der
+T_1 wahr ist, aber alle Experimente stimmen.  Dazu reicht es nicht,
+T_2 zu modifizieren.  Er muss dazu mindestens drei der vier Theorien
+modifizieren.
+
+Dieses Prinzip iteriert ergibt ein Quinesches Netz, dass zwar immer
+die prinzipielle Alternative hat, als Ganzes voellig neugebaut zu
+werden, was aber kaum praktikabel ist. Oder es werden erhebliche Teile
+des Netzes beibehalten. 
+
+
+Nun, inwieweit es von irgendwelchen damals weniger erfolgreichen
+Forschern als Hinweis gewertet wurde, dass die NM falsch sei, muesste
+eine historische Untersuchung erweisen.  Die geschriebene Geschichte
+handelt von den erfolgreichen Forschern.  Nach Standard-Methodologie
+zweifelt man zuerst die weniger fundamentalen Theorien an, und die
+Theorie H ist hier die weniger fundamentale.  Zum Anzweifeln
+fundamentaler Theorien schreitet man erst, wenn sich viele andere
+Experimente dasselbe Problem zeigen.  
+
+Dies ist die voellig natuerliche Strategie um mit dem Holismus und
+Duhems Problem praktisch umzugehen.
+
+
+Dies ist eine der Thesen Johannesmann die ich auch nicht teile.  Es gibt
+allerdings auch viele Poppersche Argumente gegen den Marxismus die ich
+teile.
+
+Johannesmann hat, gemaess seinen eigenen Forderungen, klare, einfach
+falsifizierbare Thesen aufzustellen, viele solche aufgestellt, und oft
+genug dabei auch Thesen und Argumente verwendet die ich fuer falsch
+halte.  Es bleiben genug Thesen uebrig.
+
+Nicolas
+-- 
+S. Timmen,  <ofns@oibj-mtttwpjfb.nvz>, http://bhcv-ebcvnhjao.ujg

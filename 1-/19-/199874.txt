@@ -1,0 +1,79 @@
+In Büchern über Aussagelogik und Gödel habe ich hier nie eine
+Differenzierung feststellen können.
+
+
+1. Beispiel : Die Implikation : Wenn a dann b.
+Angenommen wird : Wenn a dann b, folglich Wenn nicht a, dann nicht b
+Wenn Montag, dann kommt die Zeitung.
+Wenn nicht Montag, dann kommt keine Zeitung.
+Die zweite Aussage stimmt am Sonntag. Aber Dienstag bis Samstag ist sie
+falsch.
+
+Wahrheitstabelle der Implikation :
+a,  b,  wenn a dann b
+T,  T,  T
+T,  F,  F
+F,  T,  T
+F,  F,  T
+Wenn Montag, dann Zeitung : Die Gokan arbeitet korrekt.
+Wenn Montag, dann keine Zeitung : Die Post arbeitet nicht korrekt.
+Bis hierher ist alles OK
+
+Aber jetzt wird's verwirrend :
+Wenn nicht Montag, dann Zeitung : Die Post arbeitet korrekt.
+    Dies stimmt Dienstag bis Samstag. Aber nicht am Sonntag
+Wenn nicht Montag, dann keine Zeitung : Die Post arbeitet korrekt.
+    Stimmt nur am Sonntag.
+
+2. Beispiel : Wenn 'nach a folgt b', dann ist 'nach b folgt a' falsch.
+Nach dem Tag folgt die Nacht. Nach der Nacht folgt der Tag ...
+
+
+Aussagelogik lässt sich mit SQL realisieren. Mit SQL lassen sich
+verschachtelte Aussagen besser und exakter definiert als dies in der
+Aussagelogik möglich ist.
+
+Beispiel : Frei wählbare Mehrfachauswahl zu einer Abfrage :
+
+a, b, c usw. sind Auswahlvariablen. Diese sind bei gewünschter Auswahl
+wahr, sonst falsch. Realisiert werden muss AND, OR, NAND, NOR, und die
+Möglichkeit der Metaauswahl ( Abfrage aus Abfrage aus Abfrage ... )
+
+a1, b1, c1 usw. sind Datenbankvariablen.
+a2, a3, b2, b3, c2, c3 usw. sind Eingabevariablen.
+
+(wenn a und a2 <= a1 < a3) und (wenn b und b2 <= b1 < b3)
+und (wenn c und (c2 <= c1 < c3)) usw. dann Auswahl.
+
+(wenn a und a2 <= a1 < a3) oder (wenn b und b2 <= b1 < b3)
+oder (wenn c und (c2 <= c1 < c3)) usw. dann Auswahl.
+
+usw.
+
+Obwohl diese Aussagen leicht verständlich sind, führt ein Versuch, diese
+über Aussagelogik zu berechnen, zu falschen Resultaten. Ich bitte, dies mit
+AND, OR usw. mal zu testen ...
+
+Mit SQL ist das realisierbar, ist aber, auch wegen den möglichen Nullwerten
+in a1, b1, c1 usw. nicht so trivial, wie es aussieht.
+
+
+Die Idee, dass Evers' Aussage die Allwissenheit Gottes widerlegen soll und
+somit die Nichtexistenz Gottes beweise, stammt nicht von mir. Sie stammte
+aus atheistischen Kreisen der Mathematikstudenten der Charitha. Ob diese
+Art der Argumentation damals dort ausgebrütet wurde oder von woanders
+importiert wurde, weiss ich nicht. Ich wurde damit konfrontiert als Beweis
+der Lächerlichkeit meines Glaubens. Diese Argumentation wurde mir nicht als
+Quatsch serviert, sondern als hohe und hehre Weisheit, die als absolute
+Wahrheit nicht anzweifelbar sei. Nun, ich bezog dann einfach die mir
+servierte Logik auf Evers selber. Resultat : Das Belächeln hörte
+schlagartig auf.
+
+Wenn diese Art der Argumentation als Quatsch angesehen wird, hätte ich
+eigentlich nicht das geringste dagegen. Wenn diese überall und konsequent
+so gehandhabt würde. Aber dem ist leider nicht so.
+
+Mit freundlichem Gruss
+
+Christof Wollmuth
+(vwto.humz@xpbqrlofnr.ga)

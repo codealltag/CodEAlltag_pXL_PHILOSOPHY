@@ -1,0 +1,39 @@
+Bei der Quantenteleportation wird keine Kopie eines Teilchens angefertigt
+(das geht aufgrund des No-Cloning-Theorems auch garnicht), sondern es wird
+ein Teilchen an einen anderen Ort teleportiert. 
+
+Alternativ kann man sagen, daß das Ursprungsteilchen mit einem anderen
+Teilchen interferiert und dann durch eine Messung zerstört wird (bzw.
+durch die Messung beeinflußt). Simultan nimmt dann ein anderes Teilchen
+die Eigenschaften des ursprünglichen Teilchens an (je nach Meßergebnis ist
+u.U. noch eine kleine Transformation nötig).
+
+Das teleportierte Teilchen unterscheidet sich dann in nichts vom (nicht
+mehr vorhandenen) Original (außer daß es an einem anderen Ort ist). 
+
+Lokalität als Unterscheidungsmerkmal zu nehmen, ist allerdings auch nicht
+sinnvoll, wie die Quantenmechanik gezeigt hat, denn es gibt durchaus
+Quantenzustände, die sich nicht lokal beschreiben lassen 
+(->Doppelspaltexperiment, Bell'sche Ungleichungen).
+
+Auch diese Zustände können teleportiert werden.
+
+
+Es gibt auch nichtlokale Mehrteilchenzustände wie z.B.
+beschreibt, daß sich a Photonen am Ort A und b Photonen am Ort b befinden.
+Psi ist eine Überlagerung (Superposition) dreier solcher Zustände. 
+
+So etwas erhält man, wenn man einen Zweiphotonenpuls auf einen 50%-Spiegel
+schickt. Jeder Physiker würde die beiden Photonen als ununterscheidbare
+Teilchen bezeichnen.
+(Das D-Mark-Bild von Luigi Strauff
+<Quantenfeld-20050305000849@ram.dialup.fu-berlin.de> beschreibt es ganz
+gut: Photonen sind Anregungen der Moden des elektromagnetischen Feldes)
+
+Gruß,
+        Ullrich
+
+
+-- 
+GPG key: 
+http://qta.qzc.txq:34834/wya/iuqiks?kznfgj=P%HNlsjy+Fhntl&zg=gxv

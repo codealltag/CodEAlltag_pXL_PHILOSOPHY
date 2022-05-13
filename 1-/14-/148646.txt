@@ -1,0 +1,156 @@
+Neulich wurden auf uj.sci.mathematik interessante Links zur
+Geschichte der Zahlen und des Rechnens präsentiert [1].
+
+Es zeigt sich, dass ineffiziente Zahlensysteme wie z.B. das
+römische weiterverwendet wurden, obwohl effizientere beim
+Rechnen schon längst in Gebrauch waren (so basiert der Abakus
+[2] auf dem dezimalen Stellenwertsystem).
+
+Sind wir sicher, dass unsere Verwendung von Zahlen nicht
+in anderer Hinsicht ähnlich ineffizient ist, wie es die
+Verwendung des römischen Systems vor 1000 Jahren war?
+
+Ich möchte hier eine Weiterentwicklung der Dezimalsystem-
+schreibweise präsentieren, die vor allem in der Physik Sinn
+macht, wo oft mit Grössen gearbeitet wird, deren Grössenordnung
+sich stark von 1 unterscheidet.
+
+Da die Einführung neuer Buchstaben bzw. Ziffern allgemein
+Probleme bereitet, präsentiere ich zuerst eine Variante mit
+Buchstaben, wobei ich zwölf Buchstaben (in alphabetischer
+Reihenfolge) ausgewählt habe, bei denen sich Gross- und
+Kleinbuchstaben klar untescheiden.
+
+   a = 10^0  = 1                A = 10^-12 = 0.000000000001
+   b = 10^1  = 10               B = 10^-11 = 0.00000000001
+   d = 10^2  = 100              D = 10^-10 = 0.0000000001
+   e = 10^3  = 1000             E = 10^-9  = 0.000000001
+   f = 10^4  = 10000            F = 10^-8  = 0.00000001
+   g = 10^5  = 100000           G = 10^-7  = 0.0000001
+   h = 10^6  = 1000000          H = 10^-6  = 0.000001
+   j = 10^7  = 10000000         J = 10^-5  = 0.00001
+   m = 10^8  = 100000000        M = 10^-4  = 0.0001
+   n = 10^9  = 1000000000       N = 10^-3  = 0.001
+   q = 10^10 = 10000000000      Q = 10^-2  = 0.01
+   r = 10^11 = 100000000000     R = 10^-1  = 0.1
+
+Eine Zahl besteht aus zwei Teilen:
+
+  1. Grössenordung (Dezimalexponent)
+  2. Ziffernfolge
+
+Beispiele:
+
+  a1 = 1
+  a31416 = 3.1416
+  b777 = 77.7
+  e9 = 9000
+  e91 = 9100
+  m3 m/s =  300'000 km/s
+  r15 m = 150'000'000 km
+  R45 = 0.45
+  N3 = 0.003
+  E1 m = 1 Nanometer
+  A1 m = 1 Pikometer
+
+Mit der einzigen Längeneinheit Meter lassen sich somit Grössen
+vom Atom bis hin zum Abstand Erde/Sonne sehr kompakt ausdrücken.
+
+Aber auch Dezimalexponenten > 11 und < -12 bereiten keine Probleme:
+
+  ba = 10^12           Qr = 10^-13
+  bb = 10^13           Qq = 10^-14
+  br = 10^23           Qa = 10^-24
+  da = 10^24           Nr = 10^-25
+  ra = 10^132          Ar = 10^-133
+  rr = 10^143          Aa = 10^-144
+ baa = 10^144         Rra = 10^-145
+
+Die Zeichen für die negativen Dezimalexponenten (Grossbuchstaben)
+dürfen nur an der ersten Stelle vorkommen. (Siehe auch [3] und [4])
+
+
+Die Einführung von neuen Ziffern für die 24 Dezimalexponenten ist
+sinnvoll. Diese Ziffern müssen natürlich schematisch gebildet werden.
+Hier ein Vorschlag:
+
+
+   10^0       10^3       10^6       10^9
+
+
+   10^1       10^4       10^7       10^10
+
+     _          _          _          _
+    /|\        /|\        /|\        /|\
+    \|/        \|/        \|/        \|/
+
+   10^2       10^5       10^8       10^11
+
+
+  .  |  .    .  |  .    .  |  .    .  |  .
+   \ | /      \ | /|    |\ | /     |\ | /|
+    \|/        \|/ |    | \|/      | \|/ |
+
+   10^-12     10^-9      10^-6      10^-3
+
+
+  .  |  .    .  |  .    .  |  .    .  |  .
+   \ | /      \ | /|    |\ | /     |\ | /|
+    \|/        \|/ |    | \|/      | \|/ |
+
+   10^-11     10^-8      10^-5      10^-2
+
+     _          _          _          _
+    /|\        /|\        /|\        /|\
+    \|/        \|/        \|/        \|/
+  .  |  .    .  |  .    .  |  .    .  |  .
+   \ | /      \ | /|    |\ | /     |\ | /|
+    \|/        \|/ |    | \|/      | \|/ |
+
+   10^-10     10^-7      10^-4      10^-1
+
+
+Ein paar Beispiele:
+
+
+  Lichtgeschwindigkeit (300'000 km = 3 * 10^8 m):
+       _     __
+      /|\   /  \
+      \|/     _/   _  _
+
+
+  Länge eines Wassermoleküls (0.3 Nanometer = 3 * 10^-10 m):
+       _     __
+      /|\   /  \
+      \|/     _/   _  _
+    .  |  .    \ |/ |/ |
+     \ | /     | |  |  |
+      \|/   \__/ |  |  |
+
+
+  Zahlenwert de Plankschen Konstante in J*s (6.6 * 10^-34):
+               _      __    __
+    .  |  .    |    |   \ |   \
+
+
+Das Schema der Ziffernbildung:
+
+  positiver Dezimalexponent =       (2*li + re) * 3 + add
+  negativer Dezimalexponent = -12 + (2*li + re) * 3 + add
+
+wobei
+
+  re:  0 oder 1 (wenn rechter Strich vorhanden)
+  li:  0 oder 1 (wenn linker  Strich vorhanden)
+  add: 0, 1 (wenn oben Strich) oder 2 (wenn oben Kreis)
+
+
+Es grüsst,
+Jérôme Uwe U.
+
+[1] http://bqo-wwzlgjc.ino.om-qbg.bt.li/~pcrycyt/Ncjepjw/Lpba_Fevqzi_aefv.vwfz
+[2] http://bovd.t-ppjmzz.cc/kzft/wpfgtsav.iwtrgkibb/fgkvfe/jjthkf.uwt
+[3] Zahlen in Plansprachen
+    http://uvbtdln.rrw.sb/zhgqdnyi/ioaaey.csut
+[4] Proposal of an International Calendar (internet time)
+    http://hcptsvn.slg.if/iwkenpoo/AO.wmcy

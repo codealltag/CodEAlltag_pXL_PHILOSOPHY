@@ -1,0 +1,68 @@
+...
+
+Dieselben Satellitendaten, mit denen das Wetter bestimmt wird, fließen 
+in den Computer, der dann, davon ausgehend, nicht nur 3 Tage, sondern 
+viele Jahre versucht, vorauszurechnen.
+
+
+Uralt.
+
+
+Teine sog. Tiefpass-Filterung ist damals notwendig gewesen, weil die 
+Rechenleistung nicht zu Verfügung stand, da wurden bestimmte 
+Grundannahmen parametrisiert. Das ist vergleichbar, als wenn man ein 
+Gleichungssystem mit 10 Unbekannten nicht löst, sondern einige Variablen 
+x,y,z,t,... festlegt, und dann mit wenig Rechenleistung die restlichen 
+ermittelt.
+
+Dank billiger Großrechner mit Linux Clustern kann man aber die Systeme 
+vollständig lösen lassen, ohne Grundannahmen. Alle verfügbaren 
+Informationen werden in den Rechner gepackt, und dort wo, keine 
+Messwerte vorliegen, wird geschützt, und das sind immer die Mehrzahl 
+aller Werte, die man überhaupt braucht, um überhaupt etwas vernünftig 
+simulieren zu können.
+
+Sprich - in einem Gleichungssystem mit 1000 Unbekannten, sind vielleicht 
+100 gemessen, der Rest ist nur geschützt.
+
+Und die Annahme, daß der Treibhauseffekt zunähme, ist zuvor bereits fest 
+einprogrammiert, sodaß unsinnigerweise die Simulationen auch zeigen, daß 
+sich die Temperaturen erhöhen werden. Die Behauptung ist in der Reihe 
+Argumentationsschritte als Annahme enthalten.
+
+Und dann kommen die Klimaforscher, und behaupten, daß sich der 
+Treibhauseffekt verstärken würde, die Simulationen hätten es ja gezeigt.
+
+
+Du bist ein Gläubiger, aber hast noch nicht kapiert, wie das Leben 
+wirklich läuft. Ich habe an den Dingern mitprogrammiert. Ich weiß, was 
+da für Annahmen drin stecken, die eigentlich bewiesen werden sollten.
+
+Und mit Statistik, hier ein Beispiel:
+
+Daher noch ein Beispiel aus dem Buch: "Der Hund, der Eier legte!" In 5
+Zimmern liegen je 4 Eier und 6 Würste. Immer wieder werden, damit
+Zufallsschwankungen ausgeschlossen sind, gleich große, gleich hungrige,
+gleich schwere Hunde gleicher Rasse für jeweils 30 Sekunden in ein
+Zimmer gelassen, unddirekt danach wieder herausgeholt. Durchschnittlich
+war zu beobachten, daß die 4 Eier und 1 Wurst liegen blieb. Was schließt
+der Statistiker daraus?
+1.Zuvor lagen 40% Eier und 60% Würste im Raum.
+2.Danach lagen 80% Eier und 20% Würste im Raum.
+3.Aus (1.) + (2.) kann man schließen, daß der Hund Würste fra, und
+dafür Eier legte.
+
+So arbeiten auch Klimatologen. Spinner, allesamt. Wollen aus 30 Jahren 
+Wetterbeobachtung Rückschlüsse auf Klimaveränderungen in der Zukunft 
+ziehen, völlig vernachlässigend, daß wir uns in einem 11.000 Jahre - 
+Zyklus befinden...Ende der Zwischeneiszeit, es wird wärmer und 
+regnerischer, aber nicht wegen den Auto's oder dem CO2, sondern - so 
+etwas hat es immer schon gegeben, wir wissen nur nix darüber, warum.
+
+
+LG, Philippe Eickers
+
+--
+Traveler, there are no path. Path are made by walking.
+
+� God.
